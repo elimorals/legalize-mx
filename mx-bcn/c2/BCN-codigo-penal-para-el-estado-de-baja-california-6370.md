@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2009-10-09"
+last_updated: "2009-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,29 @@ state: "BCN"
 ---
 # CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
+LEY ORGANICA DEL TRIBUNAL FISCAL ADMINISTRATIVO PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2001.
 
-Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
+Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1981.
 
-OSCAR BAYLON CHACON
+EL CIUDADANO ARQUITECTO GUILLERMO ROSSELL DE LA LAMA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
 
-GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
+QUE LA H. LEGISLATURA DEL ESTADO DE HIDALGO, HA TENIDO A BIEN EXPEDIR:
 
-QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PROMULGACION, EL ORDENAMIENTO LEGAL QUE SIGUE:
+DECRETO No. 28
 
-CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
+LA QUINCUAGESIMA PRIMERA LEGISLATURA
 
-LA H. XII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCIONES I Y XXXII DE LA CONSTITUCION POLITICA LOCAL, EXPIDE EL SIGUIENTE:
+DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO HA BIEN EXPEDIR LA SIGUIENTE:
 
-CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
+LEY ORGANICA DEL TRIBUNAL FISCAL ADMINISTRATIVO DEL ESTADO DE HIDALGO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)</small>
 
 # LIBRO PRIMERO
 
-## TITULO PRELIMINAR. DE LAS GARANTIAS PENALES
+## TITULO SEGUNDO (SIC). DEL PROCEDIMIENTO
 
 ###### Artículo 1.
 
@@ -67,13 +69,49 @@ Principio de Jurisdiccionalidad.- La pena o la medida de seguridad serán impues
 
 ## TITULO PRIMERO. LA LEY PENAL
 
-### CAPITULO I. APLICACION DE LA LEY EN EL ESPACIO
+### CAPITULO PRIMERO
+
+###### ARTICULO 1º.
+
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
+
+###### ARTICULO 2º.
+
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
+
+###### ARTICULO 3º.
+
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
+
+###### ARTICULO 4º.
+
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
+
+###### ARTICULO 5º.
+
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
+
+###### ARTICULO 6º.
+
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
+
+###### ARTICULO 7º.
+
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
+
+###### ARTICULO 8º.
+
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
+
+###### ARTICULO 9º.
+
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ###### Artículo 6.
 
 Principio de territorialidad y extraterritorialidad de la Ley penal.- Este Código se aplicará por los delitos que se cometan en el Estado de Baja California y sean de la competencia de sus Tribunales. Asimismo por los que se inicien, preparen o cometan en otra Entidad Federativa cuando sus efectos se produzcan en el territorio del Estado; y por los delitos continuados o permanentes, cuando en un momento cualquiera de su ejecución éstos se realicen dentro del citado territorio.
 
-### CAPITULO II. APLICACION DE LA LEY EN EL TIEMPO
+### CAPITULO SEGUNDO
 
 ###### Artículo 7.
 
@@ -89,919 +127,769 @@ La autoridad que esté conociendo del asunto o de la ejecución de la sanción, 
 
 Cuando una Ley quite a un hecho u omisión el carácter de delito que otra Ley anterior le daba, se pondrá en absoluta libertad a los acusados a quienes se esté juzgando, y a los condenados que se hallen cumpliendo o vayan a cumplir sus condenas, y cesarán de derecho todos los efectos que éstas y los procesos deberían producir en lo futuro.
 
-### CAPITULO III. APLICACION DE LA LEY EN RELACION A LAS PERSONAS
+### CAPITULO TERCERO
 
 ###### Artículo 9.
 
 Principio de aplicación personal de la ley.- Las disposiciones de este Código se aplicarán a todas las personas mayores de dieciocho años, con las salvedades que las propias leyes prevean.
 
-### CAPITULO IV. CONCURSO APARENTE DE NORMAS
+### CAPITULO CUARTO
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-Principio de especialidad, consunción y subsidiariedad.- Cuando una misma materia aparezca regulada por diversas disposiciones, la especial prevalecerá sobre la general, la de mayor alcance absorverá (sic) a la de menor amplitud y la principal excluirá a la subsidiaria.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-### CAPITULO V. LEYES ESPECIALES
+### CAPITULO QUINTO
 
-###### Artículo 11.
+###### ARTICULO 11.
 
-Leyes Penales Especiales.- Las disposiciones generales de este Código, se aplicarán a los delitos contenidos en las leyes especiales, en lo no previsto por éstas.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
 ## TITULO SEGUNDO. EL HECHO PUNIBLE
 
-### CAPITULO I. CLASIFICACION DE FORMAS
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-###### Artículo 12.
+###### ARTICULO 12.
 
-Acción y Omisión. Y Omisión Impropia.- El delito sólo puede realizarse por acción o por omisión.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-A nadie se le podrá atribuir un resultado típico si éste no es consecuencia de su acción u omisión.
+###### ARTICULO 13.
 
-En los delitos de resultado material, también responderá del resultado típico producido quien, teniendo el deber jurídico de actuar para evitarlo, no lo impide.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-###### Artículo 13.
+###### ARTICULO 14.
 
-Delitos Instantáneo, Permanente y Continuado.- Para los efectos de este Código, el delito es:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
+### CAPITULO SEGUNDO. DE LAS PARTES
 
-I.- Instantáneo, cuando se consuma en el mismo momento en que se han realizado todos los elementos del tipo penal;
+###### ARTICULO 15.
 
-II.- Permanente o continuo, cuando la consumación se prolonga en el tiempo; y
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-III.- Continuado, cuando con unidad de propósito delictivo y pluralidad de conductas se viola el mismo precepto legal.
+### CAPITULO TERCERO. DE LA DEMANDA
 
-###### Artículo 14.
+###### ARTICULO 16.
 
-Dolo, Culpa y Preterintención.- Los delitos se pueden realizar dolosa, culposa o preterintencionalmente:
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
+###### ARTICULO 17.
 
-I.- Obra dolosamente el que, conociendo los elementos objetivos del tipo penal, o previendo como posible el resultado típico, quiere o acepta la realización de la conducta o hecho descrito por la ley;
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-II.- Obra culposamente el que produce el resultado típico que no previo siendo previsible o previo confiado en que no se produciría, al infringir un deber de cuidado que las circunstancias y condiciones personales le imponen;
+###### ARTICULO 18.
 
-III.- Obra preterintencionalmente el que causa un resultado típico más grave al querido, si aquél se produce culposamente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-Sólo es punible el delito doloso y lo será el culposo y el preterintencional, si la Ley lo conmina expresamente con pena.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)</small>
 
-La punibilidad del delito preterintencional, sólo es admisible en los casos en que se admite la del delito culposo.
+###### ARTICULO 19.
 
-### CAPITULO II. TENTATIVA
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-###### Artículo 15.
+###### ARTICULO 20.
 
-Tentativa Punible, Delito Imposible y Desistimiento y Arrepentimiento.- Existe tentativa punible cuando la resolución de cometer un delito se exterioriza ejecutando la conducta que debería producirlo u omitiendo, la que debería evitarlo, si aquél no se consuma por causas ajenas a la voluntad del agente.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-También es punible la tentativa cuando el delito no se pudiera consumar, por inidoneidad de los medios o por inexistencia del bien jurídico tutelado o del objeto material.
+###### ARTICULO 21.
 
-Si la tentativa deriva de la notoria incultura, marginación social, o causas similares, a juicio del órgano jurisdiccional, la tentativa no es punible.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-Si el sujeto espontáneamente se desistiere de la ejecución o impidiere la consumación del delito, no se impondrá pena o medida de seguridad alguna, a no ser que los actos ejecutados u omisiones constituyan por sí mismos delito, en cuyo caso se le impondrá la pena o medida señalada para éstos.
+### CAPITULO CUARTO. DE LA CONTESTACION
 
-### CAPITULO III. AUTORIA Y PARTICIPACION
+###### ARTICULO 22.
 
-###### Artículo 16.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-Autores y Partícipes.- Son autores o partícipes del delito cometido, según el caso:
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)</small>
 
-I.- Autores Directos.- Los que lo realicen por sí;
+### CAPITULO QUINTO. DE LOS INCIDENTE (SIC)
 
-II.- Coautores.- Los que lo realicen conjuntamente;
+###### ARTICULO 23.
 
-III.- Autores mediatos.- Los que lo lleven a cabo sirviéndose de otro como instrumento;
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-IV.- Instigadores.- Los que determinen dolosamente a otro a cometerlo;
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)</small>
 
-V.- Cómplice.- Los que dolosamente presten ayuda o auxilio a otro para su comisión; y
+###### ARTICULO 24.
 
-VI.- Auxilio en cumplimiento de promesa anterior.- Los que con posterioridad a su ejecución auxilien al autor en cumplimiento de una promesa anterior al delito.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-###### Artículo 17.
-
-Delito Emergente.- Si varias personas toman parte en la realización de un delito determinado y alguna de ellas comete un delito distinto, sin previo acuerdo con las otras, todas serán responsables de la comisión del nuevo delito, salvo que concurran los requisitos siguientes:
-
-I.- Que el nuevo delito no sirva de medio adecuado para cometer el principal;
-
-II.- Que aquél no sea una consecuencia necesaria o natural de éste, o de los medios concertados;
-
-III.- Que no hayan sabido antes que se iba a cometer un nuevo delito, y
-
-IV.- Que no hayan estado presentes en la ejecución del nuevo delito, o que habiendo estado, hayan hecho cuanto estaba de su parte para impedirlo.
-
-###### Artículo 18.
-
-Complicidad correspectiva o autoría indeterminada.- Cuando varias personas intervienen en la comisión de un delito y no se precisa el daño que cada quien produjo, a todas se les aplicará la pena prevista en el artículo 84.
-
-###### Artículo 19.
-
-Responsabilidad de las personas físicas y morales.- Para los efectos de este Código, sólo pueden ser penalmente responsables las personas físicas.
-
-Cuando un miembro o representante de una persona moral, con excepción de las entidades del Estado, cometa algún delito con los medios que para tal objeto la misma entidad le proporciona, de modo que resulte cometido a nombre, bajo el amparo, o en beneficio de ésta, el juzgador impondrá en la sentencia, con audiencia e intervención de su representante legal, las consecuencias previstas por este Código para las personas morales, sin perjuicio de la responsabilidad en que hubieren incurrido las personas físicas.
-
-La responsabilidad penal no pasa de la persona y bienes de los delincuentes.
-
-###### Artículo 20.
-
-Punibilidad de la conducta del partícipe.- Los autores y partícipes responderán en la medida de su culpabilidad.
-
-###### Artículo 21.
-
-Comunicabilidad de las circunstancias a los intervinientes del delito.- El aumento o la disminución de la pena, fundada en las calidades, en las relaciones personales o en las circunstancias subjetivas del autor de un delito, no son aplicables a los demás sujetos que intervinieron en aquél.
-
-Son aplicables las que se fundan en circunstancias objetivas, si los demás sujetos tienen conocimiento de ellas.
-
-### CAPITULO IV. CONCURSO DE DELITOS
-
-###### Artículo 22.
-
-Concurso Ideal y Real.- Hay concurso ideal cuando con una sola conducta se violan varias disposiciones penales.
-
-Hay concurso real cuando con pluralidad de conductas se cometen varios delitos.
-
-En caso de concurso de delitos, se estará a lo dispuesto por el artículo 82.
-
-### CAPITULO V. CAUSAS EXCLUYENTES DEL DELITO
-
-###### Artículo 23.
-
-Exclusión del delito.- No hay delito, cuando:
-
-I.- Ausencia de conducta.- Hay ausencia de voluntad en la actividad o inactividad del agente que produjo el resultado;
-
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
-
-II.- Atipicidad.- Falte alguno de los elementos esenciales del tipo penal;
-
-III.- Legítima Defensa.- Se repele una agresión real, actual o inminente, sin derecho, en protección de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa o racionalidad de los medios empleados y no medie provocación suficiente inmediata por parte del agredido o de la persona a quien se defiende.
-
-Presunción de Legítima Defensa.- Se presumirá como legítima defensa, salvo prueba en contrario, el hecho de causar un daño a quien a través de la violencia o cualquier otro medio, trate de penetrar, sin derecho, al hogar del agente, al de su familia, a sus dependencias, a los de cualquier persona que tenga la obligación de defender, o al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación; o bien, lo encuentre en uno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión.
-
-IV.- Estado de Necesidad.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosa o culposamente por el agente lesionando otro bien de menor o igual valor que el salvaguardado, siempre que la conducta sea proporcional al peligro y no se tuviere el deber jurídico de afrontar;
-
-V.- Obediencia Jerárquica.- Se obre en virtud de un mandato legítimo de superior jerárquico;
-
-VI.- Cumplimiento de un deber y ejercicio de un derecho.- Se obre en forma legítima, en cumplimiento de un deber jurídico o en ejercicio de un derecho siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho y siempre que este último no se haga con el sólo propósito de perjudicar a otro;
-
-VII.- Consentimiento.- Se actúe con el consentimiento válido del titular del bien jurídico afectado, siempre que se trate de aquéllos de que pueda disponer;
-
-VIII.- Impedimento legítimo o insuperable.- Se contravenga a lo dispuesto en una Ley penal por impedimento legítimo o insuperable;
-
-IX.- Inimputabilidad y conducta libre en su causa.- Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer enajenación mental, trastorno mental transitorio, desarrollo intelectual retardado o cualquier otro estado mental, excepto en los casos en que el propio agente haya provocado esa incapacidad para cometer el delito.
-
-Tratándose de enajenación mental y de desarrollo intelectual retardado, se estará siempre a lo dispuesto en el artículo 56 de este Código.
-
-En el caso de trastorno mental transitorio o de cualquier otro estado mental de la misma naturaleza, sólo se estará a lo dispuesto en el artículo 56 mencionado si el sujeto requiere tratamiento; en caso contrario se le pondrá en absoluta libertad.
-
-Cuando la capacidad a que se refiere el párrafo primero de esta fracción sólo se encuentre considerablemente disminuida, se estará a lo dispuesto en el artículo 57 de esta ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
-
-X.- Error de tipo, prohibición invencibles y Error Vencible.- Se realice el hecho bajo un error invencible respecto de alguno de los elementos esenciales que integran el tipo penal; o, por error igualmente invencible, estime el sujeto activo que su conducta es lícita.
-
-Si el error es vencible, se estará a lo dispuesto por el artículo 78 de este Código.
-
-XI.- Inexigibilidad de otra conducta.- Atentas las circunstancias que concurren en la realización de una conducta antijurídica, no sea racionalmente posible exigir al agente una conducta diversa a la que realizó, en virtud de no haberse podido determinar conforme a derecho; o
-
-XII.- Caso Fortuito.- Se produzca un resultado típico que no se previo por ser imprevisible.
-
-###### Artículo 24.
-
-Exclusión oficiosa del delito.- Las causas que excluyen el delito se investigarán y harán valer de oficio o a petición de parte interesada en cualquier estado del procedimiento.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)</small>
 
 ## TITULO TERCERO. DE LAS CONSECUENCIAS JURIDICAS DEL DELITO
 
 #### SECCION PRIMERA. DE LAS PENAS
 
-### CAPITULO I. CATALOGO DE PENAS
+### CAPITULO QUINTO BIS. CAUSAS DE NULIDAD
 
-###### Artículo 25.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-Catálogo de Penas.- Las penas que se pueden imponer con arreglo a este Código, son:
+ARTICULO 66 BIS.- Serán causas de nulidad de los actos impugnados:
 
-I.- Prisión;
+I.- Incompetencia del funcionario o empleado que haya dictado el acuerdo o que haya tramitado el procedimiento impugnado.
 
-II.- Semilibertad;
+II.- Omisión o incumplimiento de las formalidades que legalmente debe revestir la resolución o el procedimiento impugnado.
 
-III.- Sanción pecuniaria;
+III.- Violación de la disposición aplicada, o no haberse aplicado la disposición debida.
 
-IV.- Trabajo en favor de la comunidad;
+IV.- Desvío de poder, tratándose de sanciones.
 
-V.- Suspensión, privación e inhabilitación de derechos, funciones o empleos;
+###### ARTICULO 25.
 
-VI.- Las demás que prevengan las leyes.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-### CAPITULO II. PRISION
+### CAPITULO SEXTO. IMPROCEDENCIA Y SOBRESEIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+###### ARTICULO 26.
 
-###### Artículo 26.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-Concepto y duración.- La prisión consiste en la privación de la libertad y su duración será de tres días a cincuenta años.
+### CAPITULO SEPTIMO. DE LA SUSPENSION
 
-En toda pena de prisión que imponga una sentencia, se computará el tiempo de la prisión preventiva.
+###### ARTICULO 27.
 
-### CAPITULO III. SEMILIBERTAD
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-###### Artículo 27.
+### CAPITULO OCTAVO. DE LA (SIC) PRUEBAS
 
-Concepto y Duración.- La semilibertad implica alternación de períodos de privación de la libertad y de trabajo en favor de la comunidad. Se aplicará, según las circunstancias del caso, del siguiente modo: externación durante la jornada de trabajo, con reclusión de fin de semana; salida de fin de semana, con reclusión durante el resto de ésta; o salida diurna, con reclusión nocturna.
+### CAPITULO NOVENO. DE LA SENTENCIA Y SU CUMPLIMIENTO
 
-La semilibertad podrá imponerse como pena única o como substitutiva de la prisión.
+###### ARTICULO 28.
 
-La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión asignada al delito de que se trate.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-### CAPITULO IV. SANCION PECUNIARIA
+###### ARTICULO 29.
 
-### CAPITULO V. TRABAJO EN FAVOR DE LA COMUNIDAD
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-###### Artículo 28.
+###### ARTICULO 30.
 
-Concepto.- La sanción pecuniaria comprende la multa y la reparación del daño.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-###### Artículo 29.
+###### ARTICULO 31.
 
-Días Multa.- La multa consiste en el pago de una cantidad de dinero al Estado, que se fijará por días multa, los cuales no podrán exceder de quinientos, salvo los casos que la propia Ley prevea. El día multa equivale a la percepción neta diaria del inculpado en el momento de cometer el delito, tomando en cuenta todas sus percepciones; para los efectos de este Código, el límite inferior del día multa será el equivalente al salario mínimo diario vigente al momento de cometerse el delito.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-Fijación de la multa para el delito continuado y permanente.- Por lo que toca al delito continuado, se atenderá al salario mínimo vigente en el momento consumativo de la última conducta; para el permanente, se considerará el salario mínimo en vigor en el momento en que cesó la consumación.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)</small>
 
-###### Artículo 30.
+VACACIONES Y GUARDIAS
 
-Substitución de la Multa.- Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial podrá substituirla total o parcialmente por prestación de trabajo en favor de la comunidad. Cada jornada de trabajo saldará un día multa.
+###### ARTICULO 32.
 
-Cuando no sea posible o conveniente la substitución de la multa por prestación de servicios, la autoridad judicial podrá decretar la libertad bajo vigilancia, cuya duración no excederá del número de días multa substituido.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+###### ARTICULO 33.
 
-###### Artículo 31.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-Exigibilidad de la multa.- Si el sentenciado se negare sin causa justificada a cubrir el importe de la multa, el Estado la exigirá mediante el procedimiento económico coactivo. Tomando en cuenta las circunstancias del caso, la autoridad a quien corresponda el cobro de la multa, podrá fijar plazos para el pago de ésta, siempre y cuando no excedan de seis meses y se garantice suficientemente.
+###### ARTICULO 34.
 
-En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo prestado en favor de la comunidad o al tiempo de prisión que el reo hubiere cumplido.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-Si el Estado no logra el pago de la multa a través del procedimiento económico coactivo se estará a lo dispuesto por el artículo anterior.
+###### ARTICULO 35.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, P.O. 6 DE AGOSTO DE 2001)
 
-###### Artículo 32.
+###### ARTICULO 36.
 
-Naturaleza de la reparación del daño.- La reparación del daño que deberá cubrir el responsable de un delito, tiene el carácter de pena pública y se exigirá de oficio en los casos que sea procedente por el Ministerio Público en el proceso penal. La persona o personas que tengan derecho a la reparación del daño, podrán aportar por sí o a través de su representante al Ministerio Público, los datos y pruebas que tengan para demostrar la procedencia y monto de dicha reparación.
+Los juicios que se promuevan ante el Tribunal se substanciarán y resolverán con arreglo el (sic) procedimiento que señala el Código Fiscal del Estado y esta Ley, para ambas ramas Fiscal y Administrativa. A falta de disposición expresa y en cuanto no se oponga a lo que prescribe este ordenamiento, se estará a lo dispuesto por el Código de Procedimiento Civiles del Estado, en lo que resulte aplicable.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+###### ARTICULO 37.
 
-Cuando la reparación del daño sea exigible a terceros, tendrá el carácter de responsabilidad civil y podrá tramitarse en forma incidental, conforme a las disposiciones del Código de Procedimientos Penales.
+Ante el Tribunal no procederá la gestión oficiosa. Quien promueve a nombre de otro deberá acreditar su personalidad en términos de Ley, al presentar su demanda.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+###### ARTICULO 38.
 
-Cuando la reparación del daño sea cubierta por cualquier vía, su pago excluirá la reclamación por otra diversa.
+Las Diligencias que deban practicarse fuera del recinto del Tribunal, se encomendarán a los secretarios o al actuario del propio Tribunal.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+###### ARTICULO 39.
 
-###### Artículo 33.
+Las actuaciones del Tribunal y los ocursos, informes o contestaciones deberán escribirse en español. Los documentos redactados en otro idioma, deberán acompañarse con la correspondiente traducción en español. Las fechas y cantidades se escribirán con letra.
 
-Contenido de la reparación del daño.- La reparación del daño comprende:
+###### ARTICULO 40.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+Cuando las Leyes o reglamentos establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo o intentar desde luego el juicio ante el Tribunal, o bien, si está haciendo uso de dicho recurso o medio de defensa, previo desistimiento de los mismos, podrá acudir al Tribunal. Ejercitando la acción ante éste, se extingue el derecho para ocurrir a otro medio de defensa ordinario.
 
-I.- La restitución de la cosa obtenida por el delito, incluyendo sus frutos, accesiones y en su caso, el pago de los deterioros o menoscabo; si no fuese posible, el pago de su valor actualizado por el Juez atendiendo a las pruebas aportadas o en su caso a los índices inflacionarios publicados por el Banco de México.
+###### ARTICULO 41.
 
-Tratándose de bienes fungibles, el juez podrá condenar a la entrega de un objeto igual al que fue materia del delito, sin necesidad de recurrir a la prueba pericial.
+El Tribunal para hacer cumplir sus determinaciones o para imponer el orden, podrá hacer uso a su elección de las siguientes medidas disciplinarias:
 
-II.- La reparación del daño material y la indemnización de los perjuicios derivados directa y racionalmente del delito.
+I.- Amonestación.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+II.- Multas de cincuenta mil pesos, que se multiplicarán en caso de incidencia.
 
-III.- La reparación del daño moral sufrido por la víctima o las personas con derecho a la reparación.
+III.- Arresto hasta por veinticuatro horas; y
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+IV.- Auxilio de la fuerza policiaca.
 
-###### Artículo 34.
+###### ARTICULO 42.
 
-Reglas para la fijación de la reparación del daño material.- La reparación será fijada por los jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas recabadas en el proceso, o en el incidente respectivo; pero la capacidad económica del obligado solo se tomará en cuenta para la reparación del daño moral. En caso de lesiones y homicidio, a falta de pruebas específicas sobre el daño efectivamente causado, los jueces tomarán como base la tabulación prevista en la Ley Federal del Trabajo para estos casos y el salario mínimo legal en la región; esta disposición será aplicable aún cuando el ofendido sea menor de edad, esté incapacitado o no realice trabajo remunerado.
+En los juicios que se tramiten ante el Tribunal no habrá lugar a la condenación en costas. Cada parte será responsable de sus propios gastos.
 
-###### Artículo 35.
+###### ARTICULO 43.
 
-Personas con derecho a la reparación del daño.- Tienen derecho a la reparación del daño:
+Las cuestiones que surjan dentro del procedimiento se decidirán de plano y sin forma de substanciación, salvo las que trasciendan al resultado del juicio, que se fallarán conjuntamente con el principal.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+###### ARTICULO 44.
 
-I.- El ofendido;
+Serán partes en el procedimiento:
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+I.- El actor.
 
-II.- A falta de éste, sus dependientes económicos, sean o no herederos; y
+II.- El demandado, tendrá este carácter:
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+a) El Ejecutivo Estatal y Municipal representados por sus titulares.
 
-III.- El cónyuge, y a falta de éste la concubina o concubino;
+b) Toda autoridad que dicte, ordene, ejecute o trate de ejecutar las resoluciones o tramite el procedimiento impugnado, o la que legalmente la substituya.
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+c) El particular a quien favorezca la resolución cuya nulidad pide la autoridad administrativa.
 
-IV.- Descendientes;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+III.- El tercero que dentro del procedimiento aparezca como titular de un derecho incompatible con el que pretenda el actor.
 
-V.- Ascendientes;
+Podrán las autoridades que figuran como parte en el juicio de nulidad, acreditar representantes en las audiencias para rendir pruebas y alegar.
 
-> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+DE LAS NOTIFICACIONES Y DE LOS TERMINOS
 
-VI.- Parientes colaterales hasta el cuarto grado, y
+###### ARTICULO 45.
 
-> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+Las notificaciones, citaciones y emplazamientos deben practicarse a más tardar el segundo día a aquél en el que el expediente se haya turnado al actuario para tal efecto, y se asentará la razón respectiva a continuación de la misma resolución.
 
-VII.- Sus herederos.
+Se impondrá al infractor de este artículo una multa de $100.00 (CIEN PESOS 00/100 M.N.), y será en caso de reincidencia destituido sin responsabilidad para el Estado.
 
-En caso de concurrencia, serán preferidos en el orden que antecede.
+###### ARTICULO 46.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+Las notificaciones se harán en términos del Código Fiscal del Estado o en sus (sic) caso del Código de Procedimientos Civiles de la entidad:
 
-Salvo prueba en contrario, se presume que dependen económicamente del ofendido:
+I.- A las autoridades por oficio, personalmente a sus representantes si estuvieren presentes en el Tribunal o por vía telegráfica en casos urgentes.
 
-a).- El cónyuge;
+II.- A los particulares personalmente en los términos del Código de Procedimientos Civiles del Estado o por correo con acuse de recibo cuando se trate de las resoluciones siguientes:
 
-b).- La concubina o concubino;
+a) La que admite o desecha la demanda.
 
-c).- Los descendientes y ascendientes en primer grado;
+b) La que admite o desecha algún recurso.
 
-d).- El adoptante y adoptado.
+c) La que tenga señalado día para la audiencia.
 
-###### Artículo 36.
+d) Cuando se trate de la resolución definitiva; y
 
-Preferencia al pago de la sanción pecuniaria.- La obligación de pagar el importe de la sanción pecuniaria es preferente y se cubrirá primero que cualquier otra de las obligaciones personales que se hubieren contraído con posterioridad al delito.
+e) Cuando el Tribunal estime que se trata de un caso urgente.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+III.- Fuera de los casos señalados en la fracción anterior las notificaciones serán personalmente en el Tribunal, si los particulares se presentaren dentro de los (sic) veinticuatro horas siguientes a la que se haya dictado la resolución y por lista autorizada que se fijará en sitio visible por el Tribunal.
 
-###### Artículo 37.
+###### ARTICULO 47.
 
-Ejecución de la garantía otorgada.- Al momento de dictar sentencia, el juez tomará en consideración la caución otorgada para garantizar la reparación del daño, ordenando que se haga efectiva si el condenado no cubre voluntariamente su importe, en el plazo de cinco días a partir de que se declare ejecutoriada la sentencia, sin que medie requerimiento; asimismo ordenará hacer efectiva la garantía de referencia cuando iniciado el proceso el inculpado se evada de la acción de la justicia, procediendo a su entrega en los términos previstos por el Código de Procedimientos Penales del Estado de Baja California.
+La lista contendrá: El nombre de la persona a quien se notifique, el número de expedientes en que se halla y síntesis de la parte dispositiva de la resolución correspondiente.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+### CAPITULO DECIMO. DE LOS RECURSOS
 
-###### Artículo 38.
+###### ARTICULO 48.
 
-Distribución de la sanción pecuniaria.- El importe de la sanción pecuniaria se distribuirá entre el Estado y la persona o personas que tengan derecho a ello; al primero se aplicará el importe de la multa, y a las segundas el de la reparación del daño.
+Cuando el servicio postal devuelva por cualquier causa u (sic) oficio de notificación, ésta se hará personalmente y cuando no fuere posible cerciorarse el actuario en el domicilio señalado no vive el litigante, será por lista.
 
-Si no se logra hacer efectivo todo el importe de la sanción pecuniaria, se cubrirá de preferencia la reparación del daño, y en su caso, a prorrata entre las personas que tengan derecho a ella.
+###### ARTICULO 49.
 
-Si la persona o personas que tengan derecho conforme al Artículo 35, renunciaren a la reparación, el importe de ésta se aplicará al Fondo Auxiliar para la Administración de Justicia.
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
-
-###### Artículo 39.
-
-Individualidad de la multa y solidaridad de la reparación del daño.- Cuando varias personas participen en la comisión de un delito, el juez fijará la multa para cada uno de ellos según su participación en el hecho delictuoso y sus condiciones económicas y de ser condenadas a la reparación del daño, esta obligación será solidaria.
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
-
-###### Artículo 40.
-
-Exigibilidad de la reparación del daño.- El cobro de la reparación del daño se hará efectivo con la garantía exhibida, con independencia de quien o quienes la constituyeron, y cuando resultare insuficiente el pago total de la misma o no existiera, el faltante se hará efectivo mediante el procedimiento económico coactivo.
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
-
-###### Artículo 41.
-
-Obligación del reo al pago de la reparación del daño.- Si no alcanza a cubrirse la reparación del daño con los bienes del responsable o con el producto del trabajo en la prisión, el reo liberado continuará obligado a cubrir la parte que falte.
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
-
-###### Artículo 42.
-
-Plazos para el pago de la reparación del daño.- La autoridad judicial tomando en cuenta la situación económica del obligado y a petición de parte interesada, podrá fijar plazos para el pago de la reparación del daño, siempre y cuando no excedan de seis meses y se garantice suficientemente.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
-
-###### Artículo 43.
-
-Reparación del daño moral.- La reparación del daño moral será fijada por los Jueces, tomando en consideración las características del delito, las posibilidades económicas del obligado, la lesión moral sufrida por la víctima y las circunstancias personales de ésta, tales como su educación, sensibilidad, afectos, cultura y demás similares que tengan relevancia para la fijación del daño causado. Esta reparación no podrá exceder de mil días de salario del obligado; a falta de prueba, se considerará el salario mínimo vigente en el lugar en que resida; para lo cual se tendrá en cuenta el grado de afectación de la víctima y el tipo de terapia que se requiera.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
-Además de las penas señaladas en este Código, se impondrá sanción pecuniaria de cien hasta mil veces el salario mínimo vigente al momento de la comisión del delito, por concepto de reparación del daño moral, si de conformidad con las constancias procesales así como las pruebas aportadas, se determina que por la afectación psicológica de la victima resultare que deberá proporcionarse terapia de apoyo a corto plazo; si resulta que deberá proporcionarse psicoterapia a largo plazo, se impondrá sanción pecuniaria de trescientos a tres mil veces el salario mínimo.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
-En los casos de los delitos contra la libertad y seguridad sexual de las personas la reparación del daño comprenderá además de las penas que correspondan, el pago de gastos médicos originados por el delito, incluyendo el pago de tratamientos psicoterapéutico para el sujeto pasivo y sus familiares que lo requieran.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
-Con independencia del que se pueda causar en otros, se presume la existencia de daño moral en los siguientes delitos:
-
-I.- Corrupción de menores o incapaces en cualquiera de las modalidades previstas en este Código;
-
-II.- Violencia familiar;
-
-III.- Violación en cualquiera de sus formas de comisión;
-
-IV.- Rapto mediante violencia, o engaño cuando se trate de menores de catorce años, o que no tengan capacidad de comprender el hecho;
-
-V.- Abuso sexual mediante violencia;
-
-VI.- Privación de la libertad personal agravada;
-
-VII.- Secuestro.
-
-VIII.- (DEROGADA, P.O. 17 DE FEBRERO DE 2006)
-
-IX.- (DEROGADA, P.O. 17 DE FEBRERO DE 2006)
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
-
-Para efectos de este Capítulo se entiende por daño moral, el sufrimiento originado a una persona por causa de un delito, en sus sentimientos, decoro, afectos, creencias, honor, reputación, vida privada o aspecto físico, así como el trastorno mental de cualquier clase que requiera asistencia o terapia psicológica o psiquiátrica.
-
-###### Artículo 44.
-
-Terceros obligados a la reparación del daño.- Son terceros obligados a la reparación del daño:
-
-I.- Los ascendientes, tutores o custodios por los delitos de sus descendientes incapacitados o que se hallaren bajo su autoridad o guarda;
-
-II.- Las personas físicas o morales por lo (sic) delitos que cometan culposamente sus obreros, aprendices, jornaleros, empleados o artesanos, con motivo o en el desempeño de sus servicios;
-
-III.- Las personas morales o las que se ostentan como tales, por los delitos de sus socios, agentes, directores y en general por quienes, legalmente vinculados con aquéllas, actúan en su nombre o representación;
-
-IV.- Los dueños de mecanismos, instrumentos, aparatos, vehículos o substancias peligrosas, por los delitos que en ocasión de su tenencia, custodia o uso cometan culposamente las personas que los manejen o tengan a su cargo, siempre que la tenencia, custodia o uso la confieran voluntariamente; exceptuándose los casos de contratos de compra venta con reserva de dominio y de compra venta; y
-
-V.- El Estado y los Municipios por los delitos que sus funcionarios o empleados cometan culposamente con motivo o en el desempeño de su servicio;
-
-> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
-
-VI.- Las personas morales que presten los servicios de seguros, por el daño que con motivo de delito culposo causen sus asegurados, según los conceptos de la póliza de seguro respectiva, de conformidad con la Ley de la materia.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
-
-###### Artículo 45.
-
-Solidaridad del pago de la reparación del daño.- La reparación del daño podrá exigirse en forma solidaria y mancomunada al acusado o al tercero obligado.
-
-###### Artículo 46.
-
-Terceros con derecho a la reparación del daño.- Además, quienes hubieran erogado gastos que conforme a esta Ley deban ser a cargo del obligado ala (sic) reparación del daño, tendrán derecho a que se les resarzan, así como también los perjuicios derivados de estos gastos.
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
-
-###### Artículo 47.
-
-Aseguramiento oficioso de los instrumentos del delito culposo.- Los automóviles, camiones y otros objetos de uso lícito con que se cometan delitos culposos, si son propiedad del inculpado se asegurarán de oficio por el Ministerio Público o la autoridad judicial, según la fase procesal, para garantizar el pago de la reparación del daño, dejándolos en depósito del propio inculpado, cuando no exista riesgo de ocultamiento o traslado y se haya observado lo dispuesto por el Artículo 248 del Código de Procedimientos Penales. Solamente podrá negarse el aseguramiento o levantarse, en su caso, si se otorga caución bastante en forma legal.
-
-### CAPITULO VI. SUSPENSION, PRIVACION E INHABILITACION DE DERECHOS, FUNCIONES O EMPLEOS
-
-###### Artículo 48.
-
-Concepto y duración.- El trabajo en favor de la comunidad, consiste en la prestación de servicios no remunerados, en instituciones públicas, educativas o de asistencia social, o en instituciones privadas asistenciales. Este trabajo se llevará a cabo en jornadas dentro de períodos distintos al horario de las labores que represente la fuente de ingresos para la subsistencia del sujeto y de la familia, sin que pueda exceder de la jornada extraordinaria que determine la Ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
-
-Podrá imponerse como pena única o como substitutiva de la pena de prisión o de la multa en su caso, cada día de prisión será substituido por una jornada de trabajo en favor de la comunidad.
-
-###### Artículo 49.
-
-Prohibición del trabajo degradante humillante.- La extensión de la jornada será fijada por el Juez tomando en cuenta las circunstancias del caso; por ningún concepto se desarrollará en forma que resulte degradante o humillante para el condenado.
+Las notificaciones surtirán sus efectos a partir del día siguiente al en que se hayan hecho entregado el del oficio que contenga copia de la resolución que se notifique fijando la lista respectiva.
 
 ### CAPITULO I. REGLAS GENERALES
 
-###### Artículo 50.
+###### ARTICULO 50.
 
-Concepto.- La suspensión consiste en la pérdida temporal de derechos, funciones o empleos. La inhabilitación implica la incapacidad temporal o definitiva para obtener y ejercer aquéllos.
+Las partes en el Procedimiento Contencioso Administrativo, podrán acreditar a sus representantes, quienes tendrán las facultades que se otorgan a un mandatario en los términos del Código Civil Vigente, igualmente deben designar en el primer escrito o en la primera diligencia, casa ubicada en el lugar del Tribunal, para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias.
 
-La privación es la pérdida definitiva de los mismos.
+###### ARTICULO 51.
 
-###### Artículo 51.
+En tanto una parte no hiciere nueva designación de la casa donde se practiquen las diligencias, seguirán haciéndose en la que para ello se hubiere designado.
 
-Clases de suspensión.- La suspensión es de dos clases:
+###### ARTICULO 52.
 
-I.- La que por ministerio de Ley es consecuencia necesaria de otra pena; y
+Las notificaciones que no fueren hechas en la forma que establecen las disposiciones procedentes serán nulas, las partes perjudicadas podrán pedir se declare la nulidad a que se refiere este artículo, antes de notificarse cualquier resolución que ponga fin al negocio. Declarada la nulidad, se repondrán el procedimiento desde el punto en que se incurrió en la violación correspondiente.
 
-II.- La que se impone como pena independiente.
+###### ARTICULO 53.
 
-En el primer caso, la suspensión comienza y concluye con la pena de que es consecuencia.
+Las promociones de nulidad notoriamente infundadas se desecharán de plano.
 
-En el segundo caso, si la suspensión se impone con una pena privativa de libertad, comenzará al terminar ésta y su duración será la señalada en la sentencia. Si la suspensión no va acompañada de prisión empezará a contar desde que cause ejecutoria la sentencia y durará todo el tiempo de la condena.
+###### ARTICULO 54.
 
-###### Artículo 52.
+El cómputo de los términos se ajustará a las reglas siguientes:
 
-Suspensión producida por la pena de prisión.- La pena de prisión produce la suspensión de los derechos políticos y los de tutela, curatela, ser apoderado, defensor, albacea, perito, depositario o interventor judicial, síndico o interventor en quiebras, árbitro, arbitrador o representante de ausentes.
+I.- Empezarán a correr desde el día siguiente a que surta sus efectos la notificación; serán improrrogables y se incluirán en ellos el día del vencimiento; y
 
-Una vez que cause ejecutoria la sentencia, el órgano jurisdiccional comunicará al Registro Nacional de Electores la suspensión de derechos políticos impuestos al reo.
-
-La suspensión comenzará desde que cause ejecutoria la sentencia respectiva y durará todo el tiempo de la condena.
-
-###### Artículo 53.
-
-Efectos de la privación de derechos, funciones o empleos.- La privación surtirá sus efectos desde el momento en que cause ejecutoria la sentencia.
-
-###### Artículo 54.
-
-Efectos de la inhabilitación.- Son aplicables a la inhabilitación las disposiciones contenidas en el artículo 51.
+II.- Los términos se contarán por días hábiles. Son días hábiles todos los de la semana con excepción de sábados y domingos, los días feriados que marca el Calendario Oficial y los que se suspendan por causa de fuerza mayor.
 
 #### SECCION SEGUNDA. DE LAS MEDIDAS DE SEGURIDAD
 
 ### CAPITULO II. TRATAMIENTO EN INTERNAMIENTO O EN LIBERTAD DE INIMPUTABLES O DE IMPUTABLES DISMINUIDOS
 
-###### Artículo 55.
+###### ARTICULO 55.
 
-Catálogo y clases de medidas.- Las medidas de seguridad que se pueden imponer con arreglo a este Código son:
-
-I.- Tratamiento en internamiento o en libertad de inimputables o de imputables disminuídos;
-
-> <small>(REFORMADA, P.O 19 DE OCTUBRE DE 2007)</small>
-
-II.- Tratamiento para dependientes de bebidas alcohólicas, estupefacientes y psicotrópicos;
-
-III.- Prohibición de ir a circunscripción territorial determinada o de residir en ella;
-
-IV.- Decomiso;
-
-V.- Vigilancia de autoridad;
-
-VI.- Amonestación; y
-
-VII.- Las demás que prevengan las leyes.
+El término para interponer la demanda en contra de las resoluciones de las Autoridades Administrativas Estatales o Municipales, será de quince días hábiles, contados desde el siguiente al que se haya notificado al afectado la resolución o acuerdo que se reclame o el día que se haya tenido conocimiento de ellos o de su ejecución, o en el que se hubiere ostentado sabedor de ellos.
 
 ### CAPITULO III. TRATAMIENTO PARA DEPENDIENTES A LAS BEBIDAS ALCOHÓLICAS, ESTUPEFACIENTES Y PSICOTRÓPICOS
 
 > <small>(REFORMADO, P.O 19 DE OCTUBRE DE 2007)</small>
 
-###### Artículo 56.
+###### ARTICULO 56.
 
-Tratamiento de inimputables.- En el caso de los inimputables a que se refiere la fracción IX del artículo 23 de este Código, el juzgador dispondrá el tratamiento que le sea aplicable en internamiento o en libertad, previo el procedimiento respectivo. Si se trata de internamiento el sujeto inimputable será internado en la institución correspondiente para su tratamiento en los términos del artículo 59 de este Código.
+Cuando se pida la nulidad de una resolución favorable a un particular, la demanda deberá presentarse en materia fiscal dentro de los cinco años siguientes a la fecha en que sea notificada la resolución y en materia administrativa dentro del año siguiente salvo que dicha resolución haya originado efectos de tracto sucesivo caso en el cual la autoridad podrá demandar la nulidad en cualquier momento para los efectos de la sentencia, en caso de nulificar la resolución favorable, sólo se retrotraerán a los cinco y un año respectivamente a la presentación de la demanda.
 
-Para la imposición de la medida a que se refiere este capítulo, se requerirá que la conducta del sujeto sea penalmente relevante y no se encuentre justificada.
+###### ARTICULO 57.
 
-Entrega de inimputables a quienes legalmente corresponda hacerse cargo de ellos.- Las personas inimputables a que se refiere el primer párrafo de este artículo, podrán ser entregadas por la autoridad judicial o ejecutora, en su caso, a quien legalmente corresponda hacerse cargo de ellas, siempre que se obligue a tomar todas las medidas adecuadas para su tratamiento y vigilancia, garantizando, por cualquier medio y a satisfacción de la mencionada autoridad, el cumplimiento de las obligaciones contraídas.
+La demanda deberá ser presentada directamente ante el Tribunal o enviarse por correo certificado dentro de los quince días siguientes a aquel en que haya surtido efectos las notificaciones o resolución impugnada.
 
-###### Artículo 57.
+En los casos de negativa ficta, el interesado no está coligado a interponer la demanda dentro del término a que se refiere ese artículo pudiendo presentarla en cualquier tiempo, mientras no se dicte resolución.
 
-Tratamiento para imputables disminuídos.- Si la capacidad del agente de comprender el carácter ilícito del hecho o de determinarse de acuerdo con esa comprensión, no se encuentra totalmente excluída, sino solo notablemente disminuída al momento de la realización del delito por las causas señaladas por la fracción IX del artículo 23 de este Código a juicio del juzgador, según proceda se le impondrá una tercera parte de la pena que correspondería al delito cometido y la medida de seguridad a que se refiere el artículo anterior, tomando en consideración que dicha disminución de la capacidad no fue provocada por el autor del delito.
+###### ARTICULO 58.
 
-###### Artículo 58.
+La demanda deberá contener:
 
-Modificación o conclusión de la medida.- La autoridad ejecutora podrá resolver sobre la modificación o conclusión de la medida, en forma provisional o definitiva, considerando las necesidades del tratamiento, las que se acreditarán mediante revisiones periódicas, con la frecuencia y características del caso.
+I.- El nombre del actor y el domicilio que señale para oír notificaciones y en su caso de quien promueva a su nombre.
 
-###### Artículo 59.
+II.- Nombre y domicilio del demandado.
 
-Duración de la medida.- En ningún caso la medida de tratamiento impuesta por el juez penal excederá de la duración que corresponda al máximo de la pena aplicable al delito. Si concluido este tiempo la autoridad ejecutora considera que el sujeto continúe necesitando el tratamiento, podrá ampliarlo hasta en una mitad mas del máximo de la pena aplicable al delito.
+III.- La resolución o acto administrativo impugnado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O 19 DE OCTUBRE DE 2007)</small>
+IV.- Nombre y domicilio del tercero perjudicado si lo hubiere.
+
+V.- La pretensión que se deduce.
+
+VI.- La fecha en que se tuvo conocimiento del acto impugnado.
+
+VII.- La descripción de los hechos y de ser posible los fundamentos de derechos.
+
+VIII.- Las pruebas que el promovente ofrezca.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+IX.- Acompañar las copias para el traslado; y
+
+X.- La firma del actor, si éste no supiere o no pudiere firmar, la hará un tercero a su ruego, poniendo el primero su huella digital.
+
+###### ARTICULO 59.
+
+El demandante tiene derecho a ampliar la demanda dentro de los quince días siguientes en que surta sus efectos el acuerdo recaído a la contestación de la misma; cuando se demanda una negativa ficta o cuando el actor no conozca los fundamentos de la resolución impugnada si no hasta que la demanda esté contestada.
 
 ### CAPITULO IV. PROHIBICION DE IR A CIRCUNSCRIPCION DETERMINADA O DE RESIDIR EN ELLA
 
-###### Artículo 60.
+###### ARTICULO 60.
 
-Tratamiento para dependientes a las bebidas alcohólicas, estupefacientes y psicotrópicos.- Cuando el sujeto haya sido sentenciado por un delito que obedezca a la inclinación o al abuso de bebidas alcohólicas, de estupefacientes, psicotrópicos o substancias que produzcan efectos similares, independientemente de la pena que corresponda, se le aplicará un tratamiento de deshabituación o desintoxicación, según el caso, que no podrá exceder del término de la pena impuesta por el delito cometido. Cuando se trate de penas no privativas o restrictivas de la libertad, el tratamiento no excederá de seis meses.
+El Magistrado desechará la demanda en los siguientes casos:
+
+I.- Si examinada encontrare que el acto impugnado se dictó con la jurisprudencia establecida por la Suprema Corte de Justicia de la Nación.
+
+II.- Si encontrare motivo manifiesto e indudable de improcedencia; y
+
+III.- Si siendo obscura e irregular y prevenido al actor para substanciarla en el término de cinco días, no lo hiciere o no proporcionare los elementos indispensables para suplir sus deficiencias.
+
+Contra los actos de desechamiento a que se refiere este Artículo procede el recurso de reclamación.
 
 ### CAPITULO V. DECOMISO Y PERDIDA DE LOS INSTRUMENTOS Y OBJETOS RELACIONADOS CON EL DELITO
 
-###### Artículo 61.
+###### ARTICULO 61.
 
-Duración de la prohibición.- El Juez tomando en cuenta las circunstancias del delito y las propias del delincuente, podrá disponer que éste no vaya a circunscripción territorial determinada o que no resida en ella. Esta prohibición podrá ser de tres meses a tres años.
+Admitida la demanda se correrá traslado de ella a las partes, notificándolas y emplazándolas para que contesten dentro del término de diez días. En el mismo acuerdo se citará para la audiencia del juicio dentro de un plazo que no excederá de treinta días y dictará las demás providencias que procedan de acuerdo a la Ley. Cuando los demandados fueren varios, el término correrá a las partes individualmente, el demandado contestará dentro del término legal los puntos cuestionados, aún cuando se interponga el recurso de reclamación en contra del acuerdo que la admitió.
 
 ### CAPITULO VI. VIGILANCIA DE LA AUTORIDAD
 
-###### Artículo 62.
+###### ARTICULO 62.
 
-Objetos susceptibles de decomiso.- Los instrumentos de delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito, se decomisarán al acusado solamente cuando éste fuere sentenciado por delito doloso. Si pertenecen a tercera persona, sólo se decomisarán cuando hayan sido empleadas para fines delictuosos con conocimiento de su dueño. Las autoridades competentes procederán al inmediato aseguramiento de los bienes que podrían ser materia del decomiso. Durante la averiguación o en el proceso, se actuará en los términos previstos por este párrafo, cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
+El demandado en su contestación expresará:
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
+I.- Las cuestiones de previo y especial pronunciamiento.
 
-###### Artículo 63.
+II.- Las consideraciones que a su juicio impidiesen emitir decisión en cuanto al fondo, o demuestre que no ha nacido o se ha extinguido el derecho en que el actor apoye su demanda.
 
-Destino de los objetos decomisados.- Los instrumentos o cosas decomisadas se destinarán por la autoridad competente, al pago de la reparación del daño, o en su defecto, a favor de las Instituciones de Beneficencia o en beneficio de la administración de la justicia, según sea su utilidad. Si se tratare de substancias nocivas, peligrosas o productos perecederos, dicha autoridad podrá disponer, aún antes de declararse su decomiso por sentencia ejecutoria, las medidas de precaución que correspondan, incluida su destrucción si fuere indispensable.
+III.- Se referirá concretamente a cada uno de los hechos que le impute de manera expresa afirmándolos, negándolos, expresando que lo ignora por no ser propios o exponiendo como ocurrieron.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+IV.- Los fundamentos de derecho que considere aplicables para apoyar la validez de la resolución o acto impugnado.
 
-###### Artículo 64.
+No podrán cambiarse los fundamentos de derecho de la resolución impugnada, en caso de negativa ficta, la autoridad expresará los hechos y el derecho en que se apoya la misma.
 
-Venta de bienes a disposición de la autoridad.- Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o judiciales que no hayan sido decomisados y que no sean reclamados por quien tenga derecho a ello, en un lapso de noventa días naturales, contados a partir de la notificación al interesado, tratándose de objetos, se enajenarán en subasta pública y el producto de la venta se aplicará a quien tenga derecho a recibirlo. Si no se presenta dentro de los tres meses siguientes a la fecha de notificación, el producto de la venta se destinará al mejoramiento de la administración de la justicia, previas las deducciones de los gastos ocasionados.
+V.- Las pruebas que se proponga rendir. Se presentará copia para cada una de las partes del escrito de contestación, su omisión dará lugar a que el Magistrado requiera al demandado para que exhiba las copias necesarias dentro del plazo de cinco días, apercibiéndolo de que se tendrá por no contestado la demanda en caso de incumplimiento.
 
-En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo por el lapso de tres meses, a partir de la notificación que se le haga, transcurrido el cual se aplicará al mejoramiento de la administración de justicia.
+###### ARTICULO 63.
+
+Si la parte demandada no contestare dentro del término señalado en el Artículo 61, el Magistrado declarará la preclusión correspondiente, considerando confesados los hechos salvo prueba en contrario.
+
+###### ARTICULO 64.
+
+En los juicios que se tramiten ante el Tribunal, sólo se admitirán como incidente de previo y especial pronunciamiento los relativos a la acumulación o rechazo de la garantía ofrecida, se reservarán para la audiencia.
 
 ### CAPITULO VII. AMONESTACION
 
-###### Artículo 65.
+###### ARTICULO 65.
 
-Casos de aplicación y duración.- Cuando la sentencia determine restricción de la libertad o derechos, o suspensión condicional de la ejecución de la sentencia, el Juez podrá determinar administrativamente la vigilancia de la autoridad sobre el sentenciado, cuya duración no podrá exceder de la correspondiente a la pena o medida impuesta.
-
-La vigilancia consistirá en ejercer sobre el sentenciado, observación y orientación de su conducta por personal especializado de la autoridad ejecutora, para coadyuvar a la readaptación social del sentenciado y a la protección de la comunidad.
+Procede la acumulación, aunque las partes sean diversas, y se invoquen distintas violaciones legales, cuando estén pendientes de resolución dos o más juicios intentados contra el mismo actor o contra varios puntos decisorios de una misma resolución o contra actos que aún cuando diversos, sean unos antecedentes o consecuencia de los otros, también procede la acumulación cuando las partes sean las mismas y se invoque diversas violaciones legales.
 
 ### CAPITULO UNICO. SUSPENSION, DISOLUCION, PROHIBICION DE REALIZAR DETERMINADAS OPERACIONES E INTERVENCIONES DE LAS PERSONAS MORALES
 
-###### Artículo 66.
+###### ARTICULO 66.
 
-Concepto.- La amonestación consiste en la advertencia que el Juez dirige al condenado, haciéndole ver las consecuencias del delito que cometió exhortándolo a la enmienda y conminándolo a evitar su reincidencia.
+La acumulación se tramitará de oficio o a petición de parte, en una audiencia en la que se hará la relación de los autos, se escucharán los alegatos y el Magistrado dictará la determinación que corresponda, en tanto se resuelven, se suspenderá el procedimiento en los juicios respectivos.
 
-Esta manifestación se hará en público o en lo privado según parezca prudente al Juez.
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION TERCERA. CONSECUENCIAS PARA LAS PERSONAS MORALES
 
 ### CAPITULO I. REGLAS GENERALES
 
-###### Artículo 67.
+###### ARTICULO 67.
 
-Consecuencias jurídicas para las personas morales.- Cuando una persona moral se encuentre en la situación prevista por el artículo 19 de este Código, el Juez le impondrá en la sentencia con carácter de medida administrativa, alguna de las siguientes consecuencias jurídicas:
+El juicio ante el Tribunal Fiscal Administrativo es improcedente:
 
-I.- Suspensión;
+I.- Contra actos de autoridades que no sean el ejecutivo estatal o municipal.
 
-II.- Disolución;
+II.- Contra actos del propio Tribunal.
 
-III.- Prohibición de realizar determinadas operaciones; o
+III.- Contra actos que sean materia de otro juicio contencioso que se encuentre pendiente de resolución promovido por el mismo actor contra las mismas autoridades y por el propio acto administrativo, aunque las violaciones reclamadas sean diversas.
 
-IV.- Intervención.
+IV.- Contra actos que hayan sido juzgados en otro juicio contencioso administrativo, en los términos de la fracción anterior.
 
-###### Artículo 68.
+V.- Contra actos que no afecten los intereses del actor, que hayan consumado de un modo irreparable o que hayan sido consentidos expresa y tácitamente entendiéndose por éstos últimos aquellos contra los que no se promovió el juicio dentro de los plazos señalados por esta Ley.
 
-Alcance y duración de las sanciones.- La suspensión consistirá en la cesación de la actividad de la sociedad durante el tiempo que determine el Juez en la sentencia, la que no podrá exceder de dos años.
+VI.- Contra actos de autoridades del Ejecutivo Estatal o Municipales cuya impugnación mediante otro recurso o medio defensa legal se encuentre en trámite.
 
-La disolución consistirá en la conclusión definitiva de toda actividad social de la persona moral, que no podrá volverse a constituir por las mismas personas en forma real o encubierta. La conclusión de toda actividad social se hará sin perjuicio de la realización de los actos necesarios para la disolución y liquidación total. En el caso de la disolución, el Juez designará en el mismo acto un liquidador que procederá a cumplir todas las obligaciones contraídas hasta entonces por la persona moral, inclusive las responsabilidades derivadas del delito cometido, observando las disposiciones de Ley sobre prelación de créditos, conforme a la naturaleza de éstos y de la entidad objeto de la liquidación.
+VII.- Contra reglamentos, circulares o disposiciones de carácter general que no hayan sido aplicados concretamente al promovente.
 
-La prohibición de realizar determinados negocios u operaciones, que podrá ser hasta por cinco años, se referirá exclusivamente a las que determine el juzgador; mismas que deberán tener relación directa con el delito cometido. Los administradores y el comisario de la sociedad serán responsables ante el Juez del cumplimiento de esta prohibición e incurrirán en las penas que establece este Código por desobediencia a un mandato de autoridad.
+VIII.- Cuando de las constancias de autos apareciere claramente que no existe la resolución o el acto impugnado.
 
-La intervención consiste en la remoción de sus cargos a los administradores de la persona moral, encargando sus funciones temporalmente a un interventor o interventores designados por el Juez. La intervención no podrá exceder de dos años.
+IX.- Cuando hayan cesado los efectos del acto impugnado o éste no pueda surtir efecto material o legal alguno por haber dejado de existir el objeto o materia del mismo.
 
-Cuando se imponga la intervención, el interventor o interventores tendrán todas las facultades y obligaciones correspondientes al órgano de administración de la persona moral y ejercerán privativamente la administración de la misma, por todo el tiempo fijado en la sentencia y, además, podrán solicitar la declaración de quiebra o concurso de la persona moral en los casos que procede conforme a la ley.
+X.- En los demás casos en que la improcedencia resulte de alguna disposición de esta Ley.
+
+###### ARTICULO 68.
+
+Procede el sobreseimiento del juicio:
+
+I.- Cuando el demandante se desista.
+
+II.- Cuando durante el juicio apareciere o sobreviniere alguna de las causas de improcedencia a que se refiere el Artículo anterior.
+
+III.- Cuando el demandante muera durante el juicio si el acto impugnado sólo afecta a su persona; y
+
+IV.- Cuando la autoridad demandada haya satisfecho la pretensión del actor.
 
 ## TITULO CUARTO. APLICACION DE PENAS Y MEDIDAS DE SEGURIDAD
 
 ### CAPITULO II. PUNIBILIDAD DE LOS DELITOS CULPOSOS Y PRETERINTENCIONAL
 
-###### Artículo 69.
+###### ARTICULO 69.
 
-Criterios para la individualización de las penas y medidas.- El Juez, al dictar la sentencia que corresponda, fijará la pena o medida que estime justa dentro de los límites señalados para cada delito, en base a la gravedad del ilícito y al grado de culpabilidad del agente, teniendo en cuenta:
+La suspensión de los actos impugnados, podrá concederse en el mismo auto en que se admite la demanda para su cumplimiento.
 
-I.- La extensión del daño causado al bien jurídico o del peligro en que éste fue colocado;
+###### ARTICULO 70.
 
-II.- La naturaleza de la acción u omisión y de los medios empleados para ejecutarla;
+La suspensión podrá solicitarla el actor en cualquier momento del juicio y tendrá por efecto, el mantener las cosas en el estado en que se encuentren, en tanto se pronuncia sentencia.
 
-III.- Las circunstancias de tiempo, lugar, modo u ocasión;
+No se otorgará la suspensión, si sigue el perjuicio al interés social, se contravienen disposiciones de orden público o se deja sin materia el juicio.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+###### ARTICULO 71.
 
-IV.- La forma de participación del agente en la comisión del delito, así como su calidad y la de la víctima;
+Cuando los actos materia de impugnación, hubieran sido ejecutados y afectacen (sic) a los particulares de escasos recursos, económicos, impidiendo el ejercicio de su única actividad de subsistencias, en tanto se pronuncien las resoluciones que corresponda, el Magistrado podrá dictar las medidas cautelares que estime pertinentes para preservar el medio de subsistencia del actor.
 
-V.- La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas y la conducta precedente del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir; y
+###### ARTICULO 72.
 
-VI.- Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando hayan influido en ésta.
+La suspensión podrá revocarse en cualquier momento del juicio si varían las condiciones en las cuales se acordó; dándose vista al actor por el término de tres días, para que manifieste lo que a su derecho convenga.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+###### ARTICULO 73.
 
-###### Artículo 70.
+Tratándose de multas, impuestos, derechos y en general cualquier otro crédito fiscal se concederá la suspensión si quien lo solicita, garantiza su importe ante la autoridad fiscal correspondiente, en alguna de las formas siguientes:
 
-Inculpabilidad por causas ajenas al delito.- No es imputable al acusado el aumento de gravedad proveniente de circunstancias particulares del ofendido, si las ignoraba inculpablemente al cometer el delito.
+I.- En efectivo.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+II.- Fianza de compañía autorizada o de persona que acredite su solvencia con bienes raíces inscritos en el Registro Público de la Propiedad y del Comercio.
 
-###### Artículo 71.
+III.- Prenda.
 
-Necesidad de conocimiento directo y de dictámenes periciales.- Para los efectos del artículo 69 y de la adecuada aplicación de las penas y medidas de seguridad, el Juez deberá tomar conocimiento directo del sujeto de la víctima y de las circunstancias del hecho y, en su caso, requerirá los dictámenes periciales tendientes a conocer la personalidad del agente y los demás elementos conducentes.
+IV.- Hipoteca.
 
-###### Artículo 72.
+V.- Embargo de bienes; o
 
-Reincidencia e individualización penal.- La reincidencia será tomada en cuenta para la individualización judicial de la pena, así como para el otorgamiento o no de los beneficios que la Ley prevea. En caso de reincidencia, el juzgador sólo impondrá la pena que corresponda al delito que se juzga, en los términos del artículo 69.
+VI.- Procedimientos administrativos de ejecución.
 
-Para los efectos de este Código, hay reincidencia cuando, quien habiendo sido condenado por sentencia ejecutoria dictada por cualquier Tribunal de la República o del extranjero, es condenado nuevamente por otro delito, si no ha transcurrido desde el cumplimiento de la condena o desde el indulto, la mitad del término de la prescripción de la pena, salvo las excepciones fijadas por la Ley. La condena dictada en una Entidad Federativa o en el extranjero se tendrá en cuenta, si se refiere a un hecho que tenga carácter delictivo en este Código o en otra Ley del Estado.
+###### ARTICULO 74.
 
-No se tomará en consideración lo dispuesto en el párrafo anterior en caso de los delitos políticos o cuando se haya reconocido la inocencia del sentenciado.
-
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
-
-Artículo 72 BIS.- Habitualidad e individualización penal.- La habitualidad será tomada en cuenta para la individualización judicial de la pena, e implicará el no otorgamiento de los beneficios que la Ley prevea. En caso de habitualidad, el juzgador impondrá preferentemente los límites máximos señalados para cada delito.
-
-Para los efectos de este código, hay habitualidad cuando, quien habiendo sido condenado por diversas sentencias ejecutorias dictadas por cualquier Tribunal de la República o del extranjero es condenado nuevamente por un tercero ó más delitos dolosos. La condena dictada en una Entidad Federativa o en el Extranjero se tendrá en cuenta, si se refiere a un hecho que tenga carácter delictivo en este código o en otra Ley del Estado.
-
-###### Artículo 73.
-
-Innecesariedad de pena.- Cuando el agente, por razón del delito cometido o por sus circunstancias personales, se encuentre en condiciones físicas o psíquicas tales, que hagan notoriamente innecesaria e irracional la imposición de una pena privativa o restrictiva de la libertad, el Juez podrá prescindir de ella.
-
-###### Artículo 74.
-
-Fijación de la disminución o del aumento de la pena.- Cuando este Código prevea la disminución o el aumento de una pena con referencia a otra, aquella se fijará aplicando la disminución o el aumento de los términos mínimo y máximo de la punibilidad que sirva de referencia.
+La fianza no otorgada dentro de los cinco días siguientes a la fecha en que se concedió quedará sin efecto la suspensión.
 
 ### CAPITULO III. PUNIBILIDAD EN CASO DE ERROR VENCIBLE
 
-###### Artículo 75.
+###### ARTICULO 75.
 
-Punibilidad de los delitos culposos.- Los delitos culposos serán sancionados con prisión de tres días a cinco años, multa hasta de trescientos días y suspensión hasta por cinco años o privación definitiva de derechos para ejercer profesión u oficio. Cuando a consecuencia de la conducta culposa del personal de empresas de transporte de pasajeros o de carga, de servicio público o concedido por autorización, permiso o licencia de las autoridades competentes se cause homicidio, la sanción será de dos a ocho años de prisión, multa hasta de trescientos días, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de igual naturaleza. Cuando por culpa y con motivo del tránsito de vehículos se cometa homicidio y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras substancias que impidan o perturben su adecuada conducción, se le impondrá de tres a ocho años de prisión y multa hasta de quinientos días. Cuando el delito culposo sea cometido con motivo del tránsito de vehículos se podrá imponer como pena, a juicio del Juez, la suspensión hasta por cinco años o privación definitiva del derecho a obtener licencia para manejar vehículos de motor.
+En los casos en que proceda la suspensión pero pueda ocasionar daños o perjuicios a terceros se concederá si el actor otorga garantía bastante para reparar el daño e indemnizar los perjuicios que con aquella se causen de no obtener sentencia favorable.
 
-Cuando por culpa y con motivo del tránsito de vehículos se cause únicamente daño en propiedad ajena, se sancionará hasta con cuarenta días multa.
+Cuando con la suspensión pueda afectarse derechos de terceros no estimables en dinero, el Magistrado fijará discrecionalmente el importe de la garantía.
 
-La calificación de la gravedad de la imprudencia queda al prudente arbitrio del Juez, quien deberá tomar en consideración las circunstancias generales señaladas en el artículo 69 y las especiales siguientes:
+###### ARTICULO 76.
 
-I.- La mayor o menor facilidad de preveer (sic) y evitar el daño que resulto;
+La suspensión otorgada conforme al Artículo que procede quedará sin efecto, si el tercero da a su vez garantía bastante para restituir las cosas al estado que guardaban antes de la violación y pagar los daños y perjuicios que sobrevengan al actor en el caso de que éste obtenga sentencia favorable.
 
-II.- Si para ello bastaban una reflexión o atención ordinaria y conocimientos comunes en algún arte o ciencia;
+###### ARTICULO 77.
 
-III.- Si el inculpado ha delinquido anteriormente en circunstancias semejantes;
+Para que surta efecto la garantía que ofrezca el tercero, deberá cubrir previamente el costo de la que hubiese otorgado el actor.
 
-IV.- Si tuvo tiempo para obrar con reflexión y cuidado necesarios; y
-
-V.- El estado del equipo, vías y demás condiciones de funcionamiento mecánico; tratándose de infracciones cometidas en los servicios de empresas de transporte, y en general por conductores de vehículos.
-
-No se impondrá pena alguna a quien por culpa en el manejo de vehículos de motor ocasione lesiones, homicidio o ambos, en agravio de su cónyuge, ascendientes, descendientes o hermanos, concubino o concubina, adoptante o adoptado.
-
-###### Artículo 76.
-
-Límite de la pena al delito culposo.- En los casos a que se refiere la primera parte del primer párrafo del artículo anterior, las penas por delito de culpa, con excepción de la reparación del daño no excederá de las tres cuartas partes de las que corresponderían si el delito de que se trata fuera doloso.
-
-Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no corporal, aprovechará esa situación al delincuente por culpa.
-
-###### Artículo 77.
-
-Punibilidad del delito preterintencional.- Al responsable de un delito preterintencional, el Juez podrá reducirle la pena hasta una cuarta parte de la aplicable, si el delito fuere intencional.
+Contra los actos que concedan o nieguen la suspensión, así como contra el señalamiento de fianzas y contrafianzas, procede el recurso de reclamación.
 
 ### CAPITULO IV. PUNIBILIDAD EN CASO DE EXCESO
 
-###### Artículo 78.
+###### ARTICULO 78.
 
-Aplicación de pena en caso de error vencible.- Cuando los errores a que se refiere la fracción X del artículo 23 de este Código sean vencibles, se impondrá al sujeto que se encuentre en dicha situación hasta una mitad del máximo de las penas previstas para el delito de que se trata.
+Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los treinta días siguientes a la notificación de la sentencia, dándose vista a las demás partes por un término de cinco días y se citará a una audiencia de pruebas y alegatos dentro de los cinco días siguientes en la que se dictará la sentencia correspondiente.
+
+Contra esta resolución sólo procederá el recurso de reclamación.
 
 ### CAPITULO V. PUNIBILIDAD DE LA TENTATIVA
 
-###### Artículo 79.
+###### ARTICULO 79.
 
-Casos de exceso.- El que se exceda en casos de legítima defensa, estado de necesidad, obediencia jerárquica, cumplimiento de un deber o ejercicio de un derecho, a que se refieren respectivamente las fracciones III, IV, V y VI del artículo 23 será penado como delincuente por delito culposo.
+En el escrito de demanda y en el de contestación, deberá efectuarse el ofrecimiento de pruebas, tanto en la fiscal como en la administrativa.
+
+Las supervinientes podrán ofrecerse cuando resulten y aún en la audiencia respectiva.
 
 ### CAPITULO VI. PUNIBILIDAD EN CASO DE CONCURSO DE DELITOS, DELITO CONTINUADO Y AUTORIA INDETERMINADA
 
-###### Artículo 80.
+###### ARTICULO 80.
 
-Punibilidad del delito tentado.- A los responsables de tentativa punible se les aplicará de las dos terceras partes del mínimo hasta las dos terceras partes del máximo de la pena que les correspondería si el delito que el agente quiso realizar se hubiere consumado.
+Se admitirán toda clase de pruebas a excepción hecha de la confesional y las que fuesen contrarias a la moral o al derecho. Aquellas que ya se hubieren rendido ante las autoridades demandadas, deberán ponerse a disposición del Tribunal, junto con el expediente correspondiente y a petición de parte.
 
-En caso de delito imposible se impondrá hasta la cuarta parte de la pena prevista para el delito que se quiso cometer.
+EL (sic) Magistrado podrá acordar de oficio el desahogo de las pruebas que estime conducentes para la mejor resolución del asunto, notificando oportunamente a las partes a fin de que puedan intervenir, si así conviene a sus intereses.
 
-En la aplicación de las penas o medidas de seguridad a que se refiere el párrafo anterior, el juzgador tendrá en cuenta, además de lo previsto en el artículo 69, el mayor o menor grado de aproximación al momento consumativo del delito.
+###### ARTICULO 81.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
-
-###### Artículo 81.
-
-Punibilidad de la tentativa, cuando es imposible determinar el daño.- Cuando en los casos de tentativa no fuere posible determinar el daño que se pretendió causar, se aplicará de seis meses a tres años de prisión y hasta cincuenta días multa.
+Cuando se planteen cuestiones de carácter técnico el Magistrado de oficio acordará que se rinda prueba pericial; dando a las partes un término de tres días para que señalen su perito, pudiendo nombre (sic) el Tribunal un tercero en caso de haber discordia.
 
 ### CAPITULO VII. SUBSTITUCION DE PENAS
 
-###### Artículo 82.
+###### ARTICULO 82.
 
-Aplicación de la pena en caso de concurso ideal.- En caso de concurso ideal, a que se refiere el artículo 22 se aplicarán las penas correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse hasta en una cuarta parte del máximo de su duración, sin que pueda exceder de los máximos señalados en los títulos tercero y cuarto.
+El Magistrado podrá dictar en todo tiempo la repetición o ampliación de cualquier diligencia probatoria, siempre que se estime necesario, los hechos notarios no requieren prueba.
 
-Aplicación de la pena en caso de concurso real.- En caso de concurso real, se impondrá la pena correspondiente al delito que merezca la mayor, la que podrá aumentarse en una mitad mas de las penas correspondientes por cada uno de los demás delitos cometidos, sin que exceda de los máximos señalados en el título tercero.
+###### ARTICULO 83.
 
-###### Artículo 83.
+A fin de que las partes puedan ofrecer sus pruebas en la audiencia del juicio, los funcionarios o autoridades tienen obligación de expedir con toda oportunidad los documentos que soliciten: Si dichas autoridades o funcionarios no cumplieren con esas obligaciones, la parte interesada solicitará del Tribunal requerimiento a los mismos.
 
-Punibilidad en caso de delito continuado.- En caso de delito continuado a que se refiere el artículo 13 de este Código, la pena correspondiente al delito cometido podrá aumentarse en una mitad más sin que exceda del máximo previsto en el título tercero.
+El propio Tribunal hará el requerimiento y aplazará la audiencia por término no mayor de diez días, pero si no obstante dicho requerimiento no se expidiere, el Tribunal hará uso de los medios de apremio.
 
-###### Artículo 84.
+###### ARTICULO 84.
 
-Punibilidad en caso de autoría indeterminada.- En caso de autoría indeterminada, a que se refiere el artículo 18, se impondrá como pena de las tres cuartas partes del mínimo hasta las tres cuartas partes del máximo de la correspondiente al delito de que se trate de acuerdo con la modalidad respectiva.
+La recepción de las pruebas se hará en la audiencia de acuerdo con las siguientes reglas y en lo no previsto se hará lo dispuesto por el Código de Procedimiento Civiles.
+
+I.- La prueba documental se desahogará por su propia naturaleza.
+
+II.- La impugnación de los documentos puede hacerse valer desde la contestación de la demanda hasta la celebración de la Audiencia.
+
+Cuando la impugnación fuese hecha en el momento de la audiencia, ésta se suspenderá en tanto se resuelve, en un término no mayor de quince días.
+
+III.- La prueba pericial se rendirá en la audiencia. Los peritos dictaminarán por escrito u oralmente, las partes y los magistrados les pueden formular observaciones y hacerles preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen, el perito tercero será designado preferentemente entre los registrados, debe tener el título de la ciencia o arte a que pertenezca la cuestión sobre la que ha de oírse su parecer, si la profesión o el arte estuvieran legalmente reglamentados; o estándolo no hubiere perito en un lugar, podrán ser nombrados personas entendidas a juicio del juzgador, aún cuando no tenga título; cuando haya lugar a designar perito tercero valuador; el nombramiento deberá recaer, en una institución bancaria.
+
+IV.- No será impedimento para intervenir como testigo el hecho de desempeñar un empleo o cargo público.
+
+V.- Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a lo moral. Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más que un hecho. Los Magistrados deberán cuidar de que se cumplan estas condiciones impidiendo preguntas que las contrarien.
+
+VI.- Cuando los testigos radiquen fuera de lugar de ubicación del Tribunal se formulará interrogatorio por escrito en los términos del Código de Procedimientos Civiles, mismo que será remitido al Juzgado de Primera Instancia correspondiente, para que en auxilio del Tribunal desahoguen dicha prueba.
+
+VII.- La protesta y examen de los testigos se hará en presencia de las partes que concurrieron, interrogará el promovente de la prueba y a continuación las demás partes podrán formular sus preguntas.
 
 ### CAPITULO VIII. SUSPENSION CONDICIONAL DE LA EJECUCION DE LA PENA
 
-###### Artículo 85.
+###### ARTICULO 85.
 
-Substitución de la prisión.- La prisión podrá ser substituida, a juicio del juzgador, en los términos siguientes:
+Los actos y resoluciones de la autoridad administrativa no impugnados de manera expresa en la demanda, o aquellos aspectos de los cuales aunque impugnados, no se allegaren elementos de prueba bastantes para acreditar su ilegalidad, se presumirán validos.
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
+###### ARTICULO 86.
 
-I.- Cuando no exceda de tres años, por multa o trabajo en favor de la comunidad;
+La valorización de las pruebas se hará de acuerdo con las disposiciones del Código de Procedimientos Civiles del Estado, con las siguientes modificaciones:
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
+I.- El valor probatorio de los dictámenes periciales será calificado.
 
-II.- Cuando no exceda de cinco años por semilibertad o trabajo en favor de la comunidad.
+II.- Cuando por el enlace de las pruebas rendidas y de las presunciones formadas el Tribunal adquiera convicciones distintas acerca de los hechos materiales del litigio, podrá no sujetarse a los preceptos del Código, pero deberá entonces fundar cuidadosamente esta parte de su sentencia y
 
-###### Artículo 86.
+III.- El Tribunal podrá invocar los hechos notorios.
 
-Requisitos para la substitución.- Para los efectos de la substitución, se requerira, además, que:
+###### ARTICULO 87.
 
-I.- El reo haya delinquido por primera vez;
+Los testigos que no podrán exceder de tres por cada hecho, deberán ser presentados por el oferente y sólo en el caso de que éste manifieste imposibilidad para hacerlo, el Tribunal los mandará citar.
 
-II.- Pague o garantice, a satisfacción del Juez, la multa y la reparación de los daños y perjuicios causados; y
+###### ARTICULO 88.
 
-III.- La pena substitutiva sea mas adecuada que la prisión, en atención a las condiciones personales del sujeto y a los fines que con ella se persiguen.
+Presente el Magistrado, se constituirá en audiencia pública el día y hora señalados al efecto.
 
-###### Artículo 87.
+A continuación el secretario llamará a los litigantes, peritos, testigos y demás personas que por disposición de la Ley deban intervenir en el juicio y se determinará quienes deban permanecer en el salón y quienes en lugar separado, para ser introducidos en su oportunidad.
 
-Conversión de prisión por multa.- Tratándose de la multa substitutiva de la pena de prisión, la equivalencia será en razón de un día multa por un día de prisión, atendiendo a las condiciones económicas del sentenciado. La multa substitutiva es independiente de la señalada, en su caso como pena. Si además de la pena privativa de la libertad se impone al sentenciado una multa como pena, deberá pagarse ésta o garantizarse su pago para que proceda la substitución.
+###### ARTICULO 89.
 
-###### Artículo 88.
+La recepción de las pruebas se hará en la audiencia y se sujetará a las siguientes reglas:
 
-Substitución de la multa.- La multa impuesta como pena única, conjuntamente con otra, o como pena alternativa o substitutiva, podrá ser substituida por trabajo en favor de la comunidad, en los términos del artículo 48.
+I.- Extracto de los puntos controvertidos en la demanda y en la contestación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+II.- Se admitirán las relacionadas con los puntos controvertidos, así como las supervenientes.
 
-###### Artículo 89.
+III.- Se desecharán aquellas que el actor debió rendir y no aportó ante las autoridades en el procedimiento administrativo, que dio origen a la resolución que se impugna; salvo las supervenientes y aquellas que habiendo sido ofrecidas ante la autoridad demandada, no fueran rendidas por causas no imputables al oferente.
 
-Revocación de la substitución.- El juez podrá dejar sin efecto la substitución y ordenará que se ejecute la pena de prisión impuesta, cuando al sentenciado se le condene por delito grave. Si el nuevo delito es doloso no grave, el Juez resolverá si se debe aplicar la pena de prisión substituida.
+IV.- En la prueba pericial, cada parte y el magistrado en caso de discordia, podrán nombrar un perito quien dictaminará por escrito y oralmente, las parte (sic) y el Magistrado podrán formular observaciones a los peritos y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen.
 
-En caso de hacerse efectiva la pena de prisión substituida se tomará en cuenta el tiempo durante el cual el reo hubiera cumplido la pena substituida.
+V.- Cuando se hubieren presentado interrogatorios por las partes en relación con la prueba testimonial, las preguntas deberán tener relación directa con los puntos controvertidos y deberán estar concebidos en términos claros y precisos procurando que en una sola no se comprenda más de un hecho. Los Magistrados deberán cuidar que se cumplan estas condiciones, impidiendo preguntas que las contraríen. La protesta y examen de los testigos se hará en presencia de las partes. Al formularse preguntas se seguirán las mismas reglas. El Magistrado podrá hacer las preguntas que consideren (sic) necesarias y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+VI.- Se hará constar en el acta, las exposiciones de las partes sobre los documentos y las preguntas o repreguntas a los testigos, asentando también las respuestas emitidas, contra el desechamiento de pruebas, procede al recurso de reclamación en la audiencia.
 
-###### Artículo 90.
+###### ARTICULO 90.
 
-Obligaciones del fiador en la substitución.- En caso de haberse nombrado fiador para el cumplimiento de los deberes inherentes a la substitución de penas, concluirá su obligación al extinguirse la pena impuesta. Cuando el fiador tenga motivos fundados para no continuar en su desempeño, los expondrá al juez, a fin de que éste si los estima justos, prevenga al sentenciado que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, apercibido de que se hará efectiva la pena si no lo hace. En este último caso; se estará a lo dispuesto por el párrafo segundo del artículo anterior.
+Al ofrecerse la prueba pericial presentarán los cuestionarios de los peritos quienes deberán rendir su dictamen en la audiencia.
 
-En caso de muerte o insolvencia del fiador, el sentenciado deberá poner el hecho en conocimiento del Juez para el efecto y bajo el apercibimiento que se expresan en el párrafo que precede.
+###### ARTICULO 91.
 
-###### Artículo 91.
+La audiencia tendrá por objeto:
 
-Facultad de promover la substitución.- El reo que considere que al dictarse sentencia reunía las condiciones para el disfrute de la substitución de la pena y que por inadvertencia de su parte o del juzgador no le hubiere sido otorgada, podrá promover ante éste que se le conceda, abriéndose el incidente respectivo.
+I.- Desahogo de las pruebas ofrecidas, en los términos de esta Ley.
+
+II.- Los alegatos formulados por las partes serán asentados en el acta respectiva; y
+
+III.- Dictar sentencia definitiva.
+
+La falta de asistencia de las partes a esta audiencia, no impedirá su celebración.
 
 ### CAPITULO I. REGLAS GENERALES
 
-###### Artículo 92.
+###### ARTICULO 92.
 
-Requisitos para la suspensión.- El juzgador podrá suspender condicionalmente la ejecución de la pena privativa de la libertad, a petición de parte, o de oficio, si concurren los requisitos siguientes:
+Una vez recibidos los alegatos se propondrán los puntos resolutivos y el Magistrado resolverá el juicio en la misma audiencia. Sólo cuando deban tomarse en cuenta gran número de constancias, podrá reservarse el fallo definitivo para un término no mayor de diez días. En todos los casos se deberá redactar y engrosar la sentencia.
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
+###### ARTICULO 93.
 
-I.- Que la duración de la pena impuesta no exceda de cuatro años;
+Las sentencias que dicte el Tribunal o los Magistrados según la rama de que se trate, no necesitarán formulismo alguno, pero deberán contener:
 
-II.- Que sea la primera vez que el reo incurre en delito doloso;
+I.- La fijación clara y precisa de los puntos controvertidos, así como el examen y valoración de las pruebas que se hayan rendido, según el prudente arbitrio del Tribunal, salvo las documentales públicas e inspección judicial que siempre harán prueba plena.
 
-III.- Que haya evidenciado buena conducta antes y después del hecho punible;
+II.- Los fundamentos legales en que se apoyen para producir la resolución definitiva; y
 
-IV.- Que por sus antecedentes personales o modo honesto de vivir, así como por la naturaleza, modalidades y móviles del delito, se presuma fundadamente que el sentenciado no volverá a delinquir; y
+III.- Los puntos resolutivos en los que se expresarán los actos cuya validez se reconozca o cuya nulidad se declare; el plazo que se dé a la autoridad para contestar una petición de acuerdo con la naturaleza del asunto o bien la orden de reponer el procedimiento. El tribunal deberá, al pronunciar sentencia suplir las deficiencias de la demanda, con excepción de los asuntos de competencia fiscal, pero en todo caso, se contraerán a los puntos de la litis planteada.
 
-V.- Que en atención a las condiciones personales del sujeto, no haya necesidad de substituir la pena privativa de libertad en los términos del artículo 85, en función del fin para el que fue impuesta la pena.
+###### ARTICULO 94.
 
-###### Artículo 93.
+De ser fundada la demanda, las sentencias dejarán sin efecto el acto impugnado y las autoridades responsables quedarán obligadas a otorgar o restituir al actor en el goce de los derechos que le hubieran sido indebidamente afectados o desconocidos, en los términos que establezca la sentencia.
 
-Obligaciones del reo en la suspensión.- Para gozar del beneficio a que se refiere el artículo anterior, el sentenciado deberá, a satisfacción del juzgador:
+###### ARTICULO 95.
 
-I.- Garantizar o sujetarse a las medidas que se fijen para asegurar su comparecencia ante la autoridad, cada vez que sea requerido por ésta;
+El actor podrá acudir en queja ante el propio Tribunal, en caso de incumplimiento de la sentencia, y se dará vista a la autoridad responsable por el término de tres días para que manifieste lo que a su derecho convenga.
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
+El Tribunal resolverá si la autoridad ha cumplido en los términos de la sentencia, de lo contrario la requerirá para que cumpla con la sentencia en sus términos, amonestándola y previniéndola de que en caso de renuencia se le impondrá una multa por incumplimiento, y si insiste en su negativa se le solicitará al superior su cumplimiento y en caso de no hacerlo, el Tribunal ejercitará la resolución respectiva.
 
-II.- Obligarse a residir en determinado lugar, del que no podrá ausentarse sin permiso de la Autoridad que ejerza sobre él cuidado y vigilancia;
+###### ARTICULO 96.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
-
-III.- Asegurar que desarrollará una ocupación lícita dentro del plazo que se le fije, y que se abstendrá de causar molestias al ofendido o a sus familiares;
-
-IV.- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares, salvo que lo haga por prescripción médica; y (sic)
-
-> <small>(REFORMADA, P.O 19 DE OCTUBRE DE 2007)</small>
-
-V.- Cumplir con las modalidades que le imponga el tratamiento para dependientes de bebidas alcohólicas, estupefacientes y psicotrópicos apercibido respecto de su incumplimiento;
-
-((REFORMADA [N. DE E. ADICIONADA], P.O 19 DE OCTUBRE DE 2007)
-
-VI.- Pagar o garantizar la reparación de los daños y perjuicios causados.
-
-###### Artículo 94.
-
-Extensión de la suspensión de la pena de prisión.- La suspensión de la pena de prisión comprenderá la de multa que haya sido impuesta conjuntamente con aquella, y en cuanto a las demás penas impuestas, el Juez o Tribunal resolverá discrecionalmente según las circunstancias del caso, al igual que sobre las medidas de seguridad.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
-
-###### Artículo 95.
-
-Duración y revocación de la suspensión.- La suspensión condicional de la ejecución de penas a que se refiere el artículo anterior, tendrá una duración de cuatro años, transcurridos los cuales se considerará extinguida la pena impuesta, siempre que durante ese término el sentenciado no diere lugar a nuevo proceso que concluya con sentencia condenatoria. Si esto aconteciera, se harán efectivas ambas sentencias, si el nuevo delito es doloso. Tratándose de delito doloso no grave, la autoridad competente resolverá motivada y fundadamente si debe aplicarse o no la pena suspendida. Los hechos que originan el nuevo proceso interrumpen el plazo de tres años, tanto si se trata de delito doloso como culposo, hasta que se dicte sentencia firme.
-
-Si el reo falta al cumplimiento de las obligaciones contraidas, el Juez podrá hacer efectiva la pena suspendida o amonestarlo, con el apercibimiento de que, si vuelve a faltar a alguna de las condiciones fijadas, se hará efectiva dicha pena.
-
-En caso de haberse nombrado fiador para el cumplimiento de las obligaciones contraidas se estará a lo dispuesto en el artículo 90, y será aplicable lo previsto en el artículo 89.
-
-###### Artículo 96.
-
-Facultad para promover la suspensión.- El reo que considere que al dictarse sentencia reunía las condiciones fijadas para la suspensión de la ejecución de la pena y que está en aptitud de cumplir los requisitos que ésta exige, si es por inadvertencia de su parte o de los Tribunales que no obtuvo en la sentencia el otorgamiento de la suspensión condicional, podrá promover que se le conceda, abriéndosele el incidente respectivo ante el Juez de la causa.
+Contra las resoluciones emitidas por el Tribunal Fiscal Administrativo, en el procedimiento, opera el recurso de reclamación, procediendo en contra de las providencias y autos dictados.
 
 ## TITULO QUINTO. EXTINCION DE LA PRETENSION PUNITIVA Y DE LA POTESTAS (SIC) DE EJECUTAR LAS PENAS Y MEDIDAS DE SEGURIDAD
 
 ### CAPITULO II. CUMPLIMIENTO DE LA PENA O MEDIDA DE SEGURIDAD
 
-###### Artículo 97.
+###### ARTICULO 97.
 
-Causas de Extinción.- Son causas de Extinción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad impuestas, las siguientes:
+El recurso se interpondrá con expresión de agravios dentro del término de tres días, contados a partir de la fecha en que surta efectos la notificación, ante el propio Tribunal.
 
-I.- Cumplimiento de la pena o medida de seguridad;
+###### ARTICULO 98.
 
-II.- Muerte del inculpado o sentenciado;
+El recurso se substanciará con vista a las demás partes y por un término común de tres días para que exponga lo que a su derecho convenga. Transcurrido dicho término, según el caso el Magistrado resolverá lo conducente.
 
-III.- Amnistía;
+###### ARTICULO 99.
 
-IV.- Reconocimiento de la inocencia del sentenciado;
+Contra las sentencias definitivas dictadas por los Magistrados de las ramas fiscal y administrativa procede el recurso de revisión ante el Tribunal en pleno. El recurso deberá ser interpuesto en escrito dirigido al Presidente del Tribunal dentro del plazo de diez días siguientes al que surta efectos la notificación de la resolución que se impugna. Al admitirse a trámite el recurso, se mandará correr traslado a la parte contraria por el término de cinco días para que exponga lo que a su derecho convenga, vencido dicho término, el Magistrado Presidente dentro del plazo de quince días formulará el proyecto de resolución que se someterá al Tribunal en pleno.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2006)</small>
+###### ARTICULO 100.
 
-V.- Perdón del ofendido en los delitos de querella;
+Las resoluciones dictadas por el Tribunal en Pleno causan estado por ministerio de Ley.
 
-VI.- Rehabilitación;
+T R A N S I T O R I O S
 
-VII.- Indulto;
+###### ARTICULO 1º.
 
-VIII.- Prescripción; y
+La presente Ley entrará en vigor el día 1º de enero de 1982.
 
-IX.- Las demás que señalen las leyes.
+###### ARTICULO 2º.
 
-###### Artículo 98.
+Se abroga la Ley que crea los Tribunales de lo Contencioso Administrativo en el Estado de Hidalgo, del Decreto 40.
 
-Procedencia de la Extinción.- La Extinción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad se resolverá de oficio o a petición de parte, según proceda.
+Al Ejecutivo del Estado, para su sanción y cumplimiento.
 
-###### Artículo 99.
+Dado en el salón de Sesiones de H. Congreso del Estado en Pachuca de Soto, Hidalgo a los 30 días del mes de Diciembre de mil novecientos ochenta y uno.
 
-Competencia para declarar la extinción.- La extinción de la pretensión punitiva será resuelta por el Ministerio Público durante la averiguación previa o por el órgano jurisdiccional en cualquier etapa del procedimiento.
+DIPUTADO PRESIDENTE
 
-La declaración de extinción de la potestad de ejecutar las penas y medidas de seguridad corresponde a la autoridad judicial.
+LIC. GABRIEL PERALES SALVADOR
 
-###### Artículo 100.
+RUBRICA
 
-Extinción inadvertida.- Si durante la ejecución de las penas o medidas de seguridad se advierte que se extinguió la pretensión punitiva o la potestad de ejecutarlas, sin que esta circunstancia se haya hecho valer en averiguación previa o durante el proceso, se solicitará la libertad absoluta del reo ante el Ejecutivo del Estado para efectos del artículo 105.
+DIPUTADO SECRETARIO
+
+PROFR. ARMANDO A. HERNANDEZ Z.
+
+RUBRICA
+
+DIPUTADO SECRETARIO
+
+LIC. SARAY MENDOZA AUSTRIA
+
+RUBRICA
+
+Por lo tanto, mando se imprima, publique, circule, y se le dé debido cumplimiento.
+
+Dado en el Palacio del Poder Ejecutivo, en la ciudad de Pachuca de Soto, Hidalgo, a los 30 días del mes de diciembre de mil novecientos ochenta y uno.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+ARQ. GUILLERMO ROSSELL DE LA LAMA
+
+RUBRICA
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+LIC. JOSE ANTONIO ZORRILLA PEREZ
+
+RUBRICA
+
+EL TESORERO GENERAL DEL ESTADO
+
+C.P. JORGE NIKAIDO GALLARDO
+
+RUBRICA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1983.
+
+###### Artículo 1º.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1984.
+
+###### Artículo 2º.
+
+Deberá ordenarse la publicación de este Decreto en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+###### Artículo 3º.
+
+Toda vez que se encuentren en vigor los convenios de adhesión al sistema nacional de coordinación fiscal y sus anexos y el de colaboración administrativa en materia fiscal federal, continúa suspendido el cobro de los siguientes impuestos contenidos en la Ley de Hacienda del Estado:
+
+I.- Impuesto sobre productos agrícolas y ganaderos.
+
+II.- Impuesto al comercio y a la Industria.
+
+III.- Impuesto sobre productos de capitales.
+
+IV.- Impuesto sobre honorarios por actividades profesionales y ejercicios lucrativos.
+
+###### Artículo 4º.
+
+Continúa suspendido el cobro de los derechos estatales que señala el Decreto No. 120, de fecha 29 de junio de 1983 publicado en el Periódico Oficial del Estado, de fecha 4 de julio de 1983, en virtud de estar en vigor la coordinación que en materia de derechos suscritos por el Estado de Hidalgo y la Secretaría de Hacienda y Crédito Público.
+
+P.O. 6 DE AGOSTO DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tercero.- El presente Decreto deroga la Ley Orgánica del Tribunal Fiscal Administrativo del 30 de diciembre de 1981, publicada en el Periódico Oficial del Estado el 30 del mismo mes y año, por lo que respecta a su organización y atribuciones, quedando vigente lo relativo al procedimiento fiscal-administrativo, hasta en tanto se emita la Ley correspondiente.
+
+Quinto.- Dentro de los treinta días siguientes en que entre en vigor la presente Ley, deberán ser aprobados por los plenos correspondientes, los Reglamentos Interiores de los Tribunales que integran el Poder Judicial; mientras tanto, serán aplicables los vigentes.
 
 ### CAPITULO III. MUERTE DEL INCULPADO O SENTENCIADO
 
