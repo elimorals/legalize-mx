@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2009-10-30"
+last_updated: "2009-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -643,27 +643,37 @@ La garantía de cumplimiento del contrato deberá presentarse a más tardar dent
 
 Las garantías que deban otorgarse conforme a esta Ley se constituirán a favor del sujeto obligado que corresponda, por conducto de la tesorería.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 49.
 
-La unidad administrativa se abstendrá de recibir propuestas o celebrar contrato alguno en las materias a que se refiere la Ley, con las personas siguientes:
+La unidad administrativa se abstendrá de recibir propuestas o celebrar contrato alguno en las materias a que se refiere la Ley, con las personas físicas o morales siguientes:
 
-I.- Aquellas con las que el servidor público que intervenga en cualquier etapa del procedimiento de contratación, tenga interés personal, familiar o de negocios, pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civil, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-II.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California;
+I.- Aquellas con las que el servidor público que intervenga en cualquier etapa del procedimiento de contratación, tenga interés personal, familiar o de negocios, pueda resultar algún beneficio para él su cónyuge, concubina o concubinario, o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civil, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+II.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte o que hayan formado parte, durante un año previo a la fecha de celebración del procedimiento de contratación de que se trate;
 
 III.- Aquellos proveedores que por causas imputables a ellos mismos, la unidad administrativa les hubiere rescindido más de un contrato, dentro de un lapso de dos años calendario, contados a partir de la notificación de la primera rescisión. El impedimento prevalecerá durante dos años calendario, contados a partir de la notificación de la rescisión del segundo contrato;
 
 IV.- Las que se encuentren inhabilitadas por resolución de la Contraloría conforme al Capítulo Sexto de esta Ley;
 
-V.- Los proveedores que se encuentren en situación de atraso en las entregas de los bienes o en la prestación de los servicios por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con la unidad administrativa;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-VI.- Aquellas que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores;
+V.- Las que se encuentren inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California;
 
-VII.- Las que pretendan participar en un procedimiento de contratación y previamente hayan realizado o se encuentren realizando, por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, trabajos de análisis y control de calidad o preparación de especificaciones;
+VI.- Los proveedores que se encuentren en situación de atraso en las entregas de los bienes o en la prestación de los servicios por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con la unidad administrativa;
 
-VIII.- Aquellas que por sí o a través de empresas que formen parte del mismo grupo empresarial, pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte; y
+VII.- Aquellas que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores;
 
-IX.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición legal.
+VIII.- Las que pretendan participar en un procedimiento de contratación y previamente hayan realizado o se encuentren realizando, por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, trabajos de análisis y control de calidad o preparación de especificaciones;
+
+IX.- Aquellas que por sí o a través de empresas que formen parte del mismo grupo empresarial, pretendan ser contratadas para elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean parte; y
+
+X.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición legal.
 
 ###### ARTÍCULO 50.
 
@@ -1010,3 +1020,9 @@ BERNARDO BORBON VILCHES.
 P.O. 30 DE OCTUBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- Las presentes reformas a la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
