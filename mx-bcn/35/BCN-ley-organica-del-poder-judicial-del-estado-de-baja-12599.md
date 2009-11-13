@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2009-10-30"
+last_updated: "2009-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -1945,7 +1945,11 @@ El Instituto de la Judicatura, contará con un área de investigación, la cual 
 
 El Centro Estatal de Justicia Alternativa será el órgano auxiliar del Consejo de la Judicatura del Estado, que tendrá a su cargo la prestación de los siguientes servicios:
 
-I.- Instrumentar y operar servicios de mediación y conciliación extrajudicial, en los asuntos susceptibles de transacción cuyo conocimiento está encomendado por la Ley a los tribunales del Poder Judicial del Estado, y en materia penal en los delitos que sean perseguibles por querella así como en aquellos casos que establezca el Código de la materia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+I.- Instrumentar y operar servicios de mediación y conciliación extrajudicial, en los asuntos susceptibles de transacción cuyo conocimiento está encomendado por la Ley a los tribunales del Poder Judicial del Estado;
 
 II.- Substanciar procedimientos de mediación y conciliación que pongan fin a las controversias judiciales, a petición expresa de parte interesada en los términos de la Ley de la materia;
 
@@ -1953,7 +1957,11 @@ III.- Promover la mediación y la conciliación como alternativas de prevención
 
 IV.- Las demás que establezcan los ordenamientos legales.
 
-Los servicios a que aluden las fracciones anteriores también podrán ser prestados por mediadores o conciliadores privados en los términos de esta Ley y la Ley de la materia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+Los servicios a que aluden las fracciones anteriores también podrán ser prestados por especialistas privados en los términos de la Ley de la materia y las disposiciones reglamentarias que se expidan para este efecto.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -3626,3 +3634,7 @@ CUARTO.- La reforma al primer párrafo del artículo 17 de la Ley Orgánica del 
 P.O. 30 DE OCTUBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor de acuerdo a la fracción I del artículo primero transitorio de la Ley de Justicia Alternativa para el Estado de Baja California.
