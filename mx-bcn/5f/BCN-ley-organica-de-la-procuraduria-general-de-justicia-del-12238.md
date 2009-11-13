@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-12238"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-17"
-last_updated: "2009-02-27"
+last_updated: "2009-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA NUEVA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO SEGUIRA VIGENTE HASTA EL 1 DE FEBRERO DE 2010.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes17 de abril de 1998.
 
@@ -113,9 +115,7 @@ VIII.- Ordenar la detención de los indiciados cuando estén satisfechas las exi
 
 IX.- Solicitar del órgano jurisdiccional la aplicación de las medidas precautorias de arraigo y las órdenes de cateo y de protección, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en el Código de Procedimientos Penales para el Estado;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2009)</small>
-
-X.- Promover la conciliación de las partes en los delitos perseguibles por querella, a excepción de los que se refieran a mujeres víctimas de algún tipo o modalidad de violencia; o en los que sean competencia de los Juzgados Penales de Paz; con la finalidad de que lleguen a un convenio satisfactorio para ambas partes, y concluir el asunto por vía conciliatoria;
+X.- (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2009)
 
 XI.- Conceder la libertad provisional al indiciado en los términos establecidos en los artículos 108 y 122 del Código de Procedimientos Penales para el Estado de Baja California;
 
@@ -963,7 +963,7 @@ XIX.- Auxiliar al Ministerio Público Federal, del orden común de otras entidad
 
 XX.- Acordar el ejercicio o no ejercicio de la acción penal en los casos y de conformidad a lo establecido en el Código de Procedimientos Penales para el Estado, ordenando en caso de no ejercicio de la acción penal, la notificación al denunciante o querellante para que esté en posibilidad de interponer el Recurso de Revisión de conformidad a lo que establece el ordenamiento citado;
 
-XXI.- Promover la conciliación de las partes en los delitos perseguibles por querella, o en los que sean competencia de los Juzgados Penales de Paz, y
+XXI.- (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2009)
 
 XXII.- Las demás que le sean encomendadas y señalen las disposiciones legales y reglamentarias.
 
@@ -1125,9 +1125,11 @@ IV.- Expedir previa autorización del Agente del Ministerio Público, las copias
 
 V.- Actualizar en forma permanente los Libros de Gobierno;
 
-VI.- Autorizar y dar fe de las diligencias y actuaciones que practiquen los Agentes del Ministerio Público;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-VII.- Promover la conciliación de las partes en los casos en los que legalmente proceda, bajo la responsabilidad del Agente del Ministerio Público, y
+VI.- Autorizar y dar fe de las diligencias y actuaciones que practiquen los Agentes del Ministerio Público, salvo aquellas que realice este tratándose de la aplicación de la mediación, conciliación y el proceso restaurativo;
+
+VII.- (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2009)
 
 VIII.- Las demás que establezcan las leyes, reglamentos, circulares, acuerdos y manuales de procedimiento que expida el Procurador.
 
@@ -1638,3 +1640,25 @@ TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 P.O. 27 DE FEBRERO DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor, una vez que sean publicadas en el Periódico Oficial del Estado de Baja California y cobren vigencia las reformas a las disposiciones normativas requeridas para la aplicación de las órdenes de protección y de restricción.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+DECRETO NUMERO 277, POR EL QUE SE DEROGAN Y REFORMAN LOS ARTICULOS 3, 28 Y 29 DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+DECRETO NUMERO 278, POR EL QUE SE APRUEBA LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- La presente Ley entrará en vigor el 1 de febrero de 2010.
+
+SEGUNDO.- Hasta en tanto entre en vigor esta Ley, seguirá vigente la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California publicada el día 17 de abril de 1998 en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Los artículos que en esta Ley regulen la certificación y registro de los agentes del Ministerio Publico y peritos entrarán en vigor una vez que se constituya el Centro Estatal de Evaluación y Control de Confianza, y éste haya desarrollado los procesos de evaluación en términos de la Ley de Seguridad Pública del Estado.
+
+CUARTO.- Los agentes del Ministerio Público y peritos que a la entrada en vigor del presente ordenamiento laboren en la Procuraduría General de Justicia deberán ajustarse a los requisitos de permanencia que esta señala, con excepción del requisito de contar con certificación y registro actualizado, señalado para permanecer dentro de la Procuraduría General de Justicia, hasta en tanto se de cumplimiento al transitorio que antecede.
+
+QUINTO.- Los asuntos a cargo de la Dirección de Asuntos Internos y Contraloría, que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor la presente Ley, serán atendidos y resueltos por la Visitaduría General conforme a los procedimientos que se encontraban vigentes cuando se iniciaron.
+
+SEXTO.- Las referencias que se hacen o que se hagan y las atribuciones que se otorgan en otras leyes, reglamentos, decretos y demás disposiciones legales, a la Dirección de Asuntos Internos y Contraloría se entenderán hechas a la Visitaduría General.
