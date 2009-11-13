@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-tribunal-federal-de-justicia-fiscal-y-31779"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-12"
-last_updated: "2003-06-12"
+last_updated: "2009-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31779&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-06-10"
 
 REGLAMENTO DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, PARA DAR CUMPLIMIENTO A LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL
 
-TEXTO ORIGINAL.
+N. DE. E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, PUBLICADO EN EL D.O.F. DE 13 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO EN TODO LO QUE SE OPONGA AL NUEVO REGLAMENTO.
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Primera sección del Diario Oficial de la Federación, el jueves 12 de junio de 2003.
 
@@ -862,3 +864,37 @@ Inicio de vigencia
 Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 México, Distrito Federal, a diez de junio de dos mil tres.- El Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, Alejandro Sánchez Hernández.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 13 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan:
+
+I. El Reglamento Interior del Tribunal Federal de Justicia Fiscal y Administrativa contenido en el Acuerdo G/34/2003, y modificado mediante Acuerdos G/28/2005, G/29/2005, G/17/2008 y G/59/2008 emitidos por la Sala Superior del Tribunal, los días el 8 de diciembre de 2003, 12 de agosto de 2005, 5 de marzo y 29 de octubre de 2008 y publicados en el Diario Oficial de la Federación, el 19 de diciembre de 2003, 24 de agosto de 2005, 24 de marzo y 3 de diciembre de 2008.
+
+II. Los Acuerdos AP/1/2007 y G/5/2007 emitidos por el Pleno de la Sala Superior del Tribunal, en materia de responsabilidades administrativas de los servidores públicos, publicados en el Diario Oficial de la Federación de 22 de marzo de 2007.
+
+TERCERO.- Se deroga en todo lo que se oponga al presente Reglamento, el Reglamento del Tribunal Federal de Justicia Fiscal y Administrativa, para dar cumplimiento con lo establecido en el artículo 61 de la Ley Federal de la Transparencia y Acceso a la Información Pública Gubernamental, contenido en el Acuerdo G/18/2003 emitido por el Pleno de la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa, publicado en el Diario Oficial de la Federación el 12 de junio de 2003.
+
+CUARTO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en el presente Ordenamiento.
+
+QUINTO.- La Segunda Sala Regional Noroeste I y la Décima Segunda Sala Regional Metropolitana iniciarán funciones a los diez días hábiles siguientes a la fecha en que la Junta de Gobierno y Administración adscriba a los Magistrados de Sala Regional necesarios para poder integrarlas conforme se indica en el artículo 31 de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+La distribución de los expedientes se realizará por la Junta de Gobierno y Administración, conforme a una equitativa división de las cargas de trabajo entre las Salas Regionales existentes y las Salas que se crean. Para tal efecto se deberán considerar preferentemente listados secuenciales de los más nuevos a los más antiguos.
+
+La Junta de Gobierno y Administración ordenará la publicación en el Diario Oficial de la Federación, de los acuerdos que emita para cumplir con lo señalado en el presente artículo.
+
+SEXTO.- Los asuntos pendientes al entrar en vigor este Reglamento que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltas por aquella o aquellas unidades a las que se les haya atribuido la competencia en el presente Reglamento.
+
+SEPTIMO.- Cuando la competencia de alguna de las áreas o unidades administrativas establecidas con anterioridad a la vigencia del presente Reglamento deba ser ejercida por otra u otras unidades que el mismo establece, los recursos humanos, materiales, y financieros con que aquélla contaba, pasarán a la unidad o unidades administrativas competentes, distribuyéndose, en su caso, de conformidad con el ámbito de atribuciones que a cada una corresponda.
+
+OCTAVO.- El Sistema Automático de Recepción de Oficialía de Partes a que se refiere el presente Reglamento, iniciará su operación dentro de los seis meses siguientes a la entrada en vigor de este Ordenamiento, en términos del acuerdo que para tal efecto emita la Junta de Gobierno y Administración.
+
+NOVENO.- Las visitas a las Salas regionales durante el año 2009, se realizarán en términos de lo establecido por el Acuerdo E/JGA/24/2009, emitido por la Junta de Gobierno y Administración, el día 23 de junio de 2009.
+
+DECIMO.- El Tribunal llevará a cabo las acciones necesarias para integrar el Sistema de Justicia en Línea y el Sistema de Información Estadística a que se refiere el presente Reglamento, en términos de lo dispuesto por los artículos Segundo y Octavo Transitorios del Decreto por que se reforman y adicionan diversas disposiciones de la Ley Federal de Procedimiento Contencioso Administrativo y la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, publicado en el Diario Oficial de la Federación el día 12 de junio de 2009.
+
+DECIMO PRIMERO.- Los servidores públicos obligados a presentar su declaración patrimonial presentarán su declaración ante la Secretaría de la Función Pública, debiendo entregar la constancia de cumplimiento respectiva a la Dirección de Registro Patrimonial de la Contraloría Interna, hasta en tanto se diseñen, desarrollen e implementen los sistemas necesarios para capturar las declaraciones de situación patrimonial de los servidores públicos.
