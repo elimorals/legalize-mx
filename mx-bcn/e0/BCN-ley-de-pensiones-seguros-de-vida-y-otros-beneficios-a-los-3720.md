@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-pensiones-seguros-de-vida-y-otros-beneficios-a-los-3720"
 country: "mx"
 rank: "ley"
 publication_date: "1960-05-20"
-last_updated: "1992-02-20"
+last_updated: "2009-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION, DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 1992.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO No. 287, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 20 de mayo de 1960.
 
@@ -230,3 +232,9 @@ P.O. 20 DE FEBRERO DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- las relaciones jurídicas generadas durante la vigencia de la Ley que se abroga, seguirán vigentes hasta el fallecimiento del último de sus beneficiarios.
