@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2009-03-06"
+last_updated: "2009-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1273,7 +1273,9 @@ IX.- Salud y Asistencia Social;
 
 X.- Turismo;
 
-XI.- Educación, Cultura y Deportes;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+XI.- Educación, Cultura, Ciencia y Tecnología;
 
 XII.- Comercio y Espectáculos;
 
@@ -1409,25 +1411,27 @@ I.- Dictaminar respecto de los proyectos de Reglamentos, y disposiciones normati
 
 II.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para modernizar y simplificar el funcionamiento y operación de la administración pública municipal y las políticas para el control de los recursos humanos, materiales y financieros.
 
-COMISION DE EDUCACION, CULTURA Y DEPORTE.
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+COMISION DE EDUCACION, CULTURA, CIENCIA Y TECNOLOGÍA.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 123.
 
 Atribuciones:
 
-I.- Dictaminar respecto de los asuntos relativos a los proyectos de Reglamentos, iniciativas de Ley y disposiciones normativas de observancia general, en relación con la educación, cultura, bibliotecas, deporte, recreación y juventud;
+I.- Dictaminar respecto de los asuntos relativos a los proyectos de reglamentos, iniciativas de Ley y disposiciones normativas de observancia general, en relación con la Educación, Cultura, Ciencia y Tecnología.
 
-II.- Proponer al Ayuntamiento la adopción de políticas y medidas para optimizar los recursos en las materias señaladas en la fracción anterior, supervisando el funcionamiento de las instalaciones y vigilando el cumplimiento de los programas correspondientes;
+II.- Proponer al Ayuntamiento la adopción de políticas y medidas para optimizar los recursos en las materias señaladas en la fracción anterior, supervisando el funcionamiento de las instalaciones y vigilando el cumplimiento de los programas correspondientes.
 
-III.- Incentivar la difusión de los valores culturales, científicos e históricos, mediante programas y publicaciones que permitan acercarlos a los habitantes del municipio;
+III.- Incentivar la difusión de los valores culturales, científicos e históricos, mediante programas y publicaciones que permitan acercarlos a los habitantes del municipio.
 
 IV.- Proponer al Ayuntamiento:
 
-a).- Los mecanismos e instrumentos que resulten necesarios para promover, impulsar, planificar y estimular la práctica del deporte en el Municipio, especialmente entre los jóvenes;
+a).- Los mecanismos e instrumentos que resulten necesarios para promover, impulsar, planificar y estimular la Educación, Cultura Ciencia y Tecnología.
 
-b).- La ejecución de programas especiales encaminados a fomentar la participación de los jóvenes en asuntos de interés público; y
-
-c).- La ejecución de programas especiales para combatir la drogadicción, el alcoholismo, el vandalismo y la delincuencia entre la juventud del Municipio.
+b).- La ejecución de programas especiales para fomentar cultura integral para el desarrollo social, considerando: la educación, la ciencia, la tecnología; así como las siguientes culturas: emprendedora, cívica y de valores, participativa, laboral, de prevención, de la equidad y los derechos humanos, de la legalidad, del medio ambiente y de la felicidad.
 
 COMISION DE SALUD Y BIENESTAR SOCIAL.
 
@@ -1684,3 +1688,7 @@ SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan 
 TERCERO.- El Ayuntamiento designara a propuesta del presidente municipal, a los Regidores integrantes de la Nueva Comisión de Asuntos Indígenas, así como al Regidor Coordinador, un Secretario y un Vocal.
 
 CUARTO.- La Comisión de Asuntos Indígenas del Ayuntamiento de Ensenada, deberá instalarse a mas tardar, dentro de los treinta días siguientes a la publicación del presente acuerdo.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
