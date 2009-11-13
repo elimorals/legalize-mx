@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2005-11-18"
+last_updated: "2009-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -77,9 +77,9 @@ El Poder Ejecutivo del Estado en forma prioritaria proporcionará servicios de a
 
 Para los efectos de esta Ley, se entienden como servicios básicos en materia de asistencia social, además de los previstos por la Ley General de Salud, los siguientes:
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-I.- La atención a personas que por tener capacidades diferentes o indigencia, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+I.- La atención a personas que tengan necesidades especiales causadas por alguna discapacidad, algún trastorno del desarrollo, o indigencia, que les pudiera impedir satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -165,9 +165,13 @@ XII.- Habitantes marginados del medio rural o urbano que carezcan de lo indispen
 
 XIII.- Personas afectadas por desastres en estado de abandono o indigencia;
 
-> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-XVI (SIC).- Personas que no tengan la capacidad para comprender el significado del hecho.
+XIV.- Personas que no tengan la capacidad para comprender el significado del hecho;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+XV.- Las personas que por algún trastorno del desarrollo, requieran de apoyos especiales para satisfacer sus requerimientos básicos de protección, subsistencia y desarrollo.
 
 ###### ARTÍCULO 6.
 
@@ -349,7 +353,9 @@ En casos de desastre, como inundaciones, terremotos, derrumbes, explosiones, inc
 
 En la prestación de servicios y en la realización de acciones, el DIF Estatal actuará en coordinación con la Secretaría y las demás dependencias y entidades del Poder Ejecutivo del Estado y de los municipios, según la competencia que a éstas otorgan las leyes.
 
-El DIF Estatal promoverá y operará centros y servicios de rehabilitación somática, psicológica social y ocupacional para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+El DIF Estatal promoverá y operará centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de discapacidad; asimismo, acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales; así como centros y servicios para la atención de personas que tengan algún tipo de trastorno del desarrollo.
 
 El DIF Estatal observará una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste y los que proporcionen el sector salud y la sociedad.
 
@@ -1326,3 +1332,7 @@ P.O. 18 DE NOVIEMBRE DE 2005.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 13 DE NOVIEMBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
