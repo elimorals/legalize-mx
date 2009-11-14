@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2008-08-23"
+last_updated: "2009-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -825,11 +825,21 @@ Está prohibida la reparación de vehículos en las vías públicas, salvo situa
 
 Los conductores que por causa ajena a su voluntad detengan sus vehículos en la superficie de rodamiento de una carretera local, o alguna vía de circulación continua, procurarán ocupar el mínimo de superficie y dejarán una distancia de visibilidad suficiente en ambos sentidos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O.14 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 74.
 
-Está prohibido entorpecer la circulación de tropas, manifestaciones públicas, desfiles y cortejos funerarios.
+Está prohibido entorpecer la circulación de tropas, manifestaciones públicas, desfiles, cortejos funerarios y vehículos de paso preferencial o emergencia.
 
 En todo caso las tropas, manifestaciones públicas, desfiles y cortejos funerarios deberán contar con la previa autorización de la delegación de tránsito y/o vialidad que corresponda.
+
+> <small>(ADICIONADO, P.O.14 DE NOVIEMBRE DE 2009)</small>
+
+Los conductores no deberán seguir a los vehículos de emergencia ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de dichos vehículos.
+
+> <small>(ADICIONADO, P.O.14 DE NOVIEMBRE DE 2009)</small>
+
+Los conductores de vehículos, sin excepción, al escuchar el sonido de la sirena, o ver las luces destellantes de los vehículos de paso preferencial, deberán tomar el carril derecho, en la medida que las circunstancias lo permitan, y realizar con precaución las maniobras necesarias para agilizar el paso de los vehículos de emergencia.
 
 ###### Artículo 75.
 
@@ -1310,3 +1320,9 @@ El presente Decreto entrará en vigor a los seis meses de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 La Dirección de Vialidad y Protección Civil tendrá un término de 60 días a partir de la publicación del presente Decreto para hacer las adecuaciones necesarias al Reglamento de la Ley de Vialidad y Tránsito para el Estado de Chihuahua.
+
+P.O.14 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
