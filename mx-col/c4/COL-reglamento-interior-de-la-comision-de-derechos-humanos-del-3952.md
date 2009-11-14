@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-comision-de-derechos-humanos-del-3952
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-12-12"
-last_updated: "1992-12-12"
+last_updated: "2009-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 12 de diciembre de 1992.
 
@@ -145,11 +145,15 @@ Las sesiones ordinarias del consejo, serán a las 20:00 horas y para las extraor
 
 El Secretario Técnico enviará a los Consejeros con una anticipación mínima de 48 horas anteriores a la sesión, el citatorio acompañado de la orden del día y copia de los documentos relativos a los asuntos a tratar.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2009)</small>
+
 ###### Art. 18.
 
-De toda sesión del Consejo se levantará acta circunstanciada que se asentará en el libro que debidamente autorizado por el Presidente, estará a cargo del Secretario Técnico. El acta contendrá la lista de asistencia, la declaración del quórum legal, la orden del día, una narración breve de cada uno de los asuntos tratados, las intervenciones de cada consejero o funcionario de la Comisión que participe, así como los acuerdos que al respecto se tomen, enumerándolos en forma progresiva del 001 en adelante, agregándolos después de una diagonal, los últimos dos dígitos del año que corresponda.
+De cada sesión del Consejo se levantará aleta circunstanciada que será digitalizada, la cual contendrá la lista de asistencia, la declaración del quórum legal, la orden del día, una narración breve de dada uno de los asuntos tratados, las intervenciones de cada consejero o funcionario de la Comisión que participe y los acuerdos que al respecto se tomen, enumerándolos en forma progresiva del 001 en adelante agregándoles después de una diagonal los últimos dos dígitos del año que corresponda.
 
-Las actas serán aprobadas y firmadas en la siguiente sesión ordinaria y las suscribirán los Consejeros asistentes, en unión del Presidente y el Secretario Técnico.
+Al finalizar cada año se integrará un libro con todas las actas que se hubieran levantado, de las sesiones ordinarias y extraordinarias, empastándose para integrarlo al archivo del Consejo, así mismo deberán conservarse en disco compacto como respaldo las grabaciones, cuyo resguardo estará a cargo de la secretaría Técnica.
+
+Las actas serán aprobadas y firmadas en todas sus hojas en la siguiente sesión ordinaria, debiendo suscribirlas los Consejeros asistentes, quien presida la Comisión y quien se desempeñe en la Secretaría Técnica.
 
 ###### Art. 19.
 
@@ -295,9 +299,11 @@ V.- Las demás que le encomiende el Titular de la Comisión.
 
 ### CAPITULO OCTAVO. DE LA PRESENTACION Y TRAMITE DE LAS QUEJAS
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2009)</small>
+
 ###### Art. 37.
 
-Las quejas que por violaciones a los derechos humanos se presenten ante la Comisión, deberán hacerse por escrito firmado por quien comparezca y contendrá como datos mínimos el nombre, apellidos, domicilio completo y de ser posible, el número de teléfono al que se puede llamar al interesado; además, una narración detallada de los hechos y los actos u omisiones con los que la autoridad señalada como responsable está afectando los derechos fundamentales del quejoso.
+Las quejas que por violaciones a los derechos humanos se presenten ante la Comisión, se harán mediante escrito firmado por quien comparezca, balo protesta de decir verdad, señalando como datos mínimos el nombre, apellidos, domicilio completo y de ser posible, número telefónico para su localización; además de una narración detallada de los hechos, actos u omisiones de la autoridad señalada corno responsable que afectan al quejoso.
 
 ###### Art. 38.
 
@@ -347,9 +353,13 @@ Toda queja que se reciba aún cuando sea improcedente, deberá ser registrada in
 
 Cuando del escrito presentado o de la entrevista inicial se deduzca que los hechos narrados por el compareciente no constituyan una presunta violación a los derechos humanos, se tomarán al quejoso los datos personales de identificación y se harán saber, a éste, con toda claridad, las causas, fundamentos legales y reglamentarios por los que la Comisión es incompetente para conocer del asunto planteado, proporcionándole al interesado la asesoría legal que requiera y el nombre de la autoridad o funcionario público, a quien compete conocer su planteamiento.
 
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2009)</small>
+
 ###### Art. 49.
 
-Con el objeto de facilitar a los interesados la interposición de quejas y denuncias, la Comisión pondrá a su disposición un formulario impreso que deberá ser llenado de puño y letra del compareciente, con el auxilio del persona (sic) del Departamento de Orientación, Quejas y Gestión.
+Con el objeto de facilitar a los(as) interesados(as) la interposición de quejas, la Comisión por conducto del personal del Departamento de Orientación, Quejas y Gestión o el personal capacitado para recibirlas, cuando las circunstancias lo permitan, recabarán el contenido de su queja empleando un procesador de textos, con el uso de la computadora e imprimiendo estos datos mediante documento físico para integrar el expediente respectivo.
+
+Además, cuando así lo solicite el interesado(a), la Comisión pondrá a su disposición un formulario impreso que podrá ser llenado de su puño y letra, con el auxilio del personal del Departamento de Orientación, Quejas y Gestión o quienes se encuentran capacitados para recibirlas en este organismo.
 
 ###### Art. 50.
 
@@ -510,3 +520,9 @@ El Presidente, con el auxilio del (sic) Coordinación Administrativo de la Comis
 PRIMERO.- El presente Reglamento, entrará en vigor al día siguiente de su publicación en el periódico oficial "EL ESTADO DE COLIMA".
 
 SEGUNDO.- Cualquier modificación al presente documento, deberá ser aprobada por el Consejo de la Comisión y publicada en el Periódico Oficial "EL ESTADO DE COLIMA". Sin este requisito no será válida.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE NOVIEMBRE DE 2009.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
