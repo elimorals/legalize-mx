@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-124
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "2008-03-08"
+last_updated: "2009-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -1197,6 +1197,10 @@ Los delegados deberán participar en los respectivos Comités Municipales de Seg
 
 El Instituto de Formación Profesional es un órgano desconcentrado de la Procuraduría, con autonomía técnica y operativa, que estará a cargo de un Director nombrado por el Procurador.
 
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2009)</small>
+
+El Procurador, mediante acuerdo, expedirá los lineamientos y disposiciones administrativas para la organización y funcionamiento del Consejo Consultivo del Instituto de Formación Profesional.
+
 ###### Artículo 37.
 
 Además de las atribuciones previstas en el artículo 26 de la Ley Orgánica de la Procuraduría General de Justicia del Estado, el Instituto de Formación Profesional tendrá las siguientes:
@@ -1350,3 +1354,7 @@ P.O. 8 DE MARZO DE 2008.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Las Secretarías de Finanzas y de Administración deberán realizar las adecuaciones presupuestales y administrativas necesarias para dar cumplimiento al presente Acuerdo, de conformidad con lo establecido en la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco y el presupuesto de egresos vigente.
+
+P.O. 14 DE NOVIEMBRE DE 2009.
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
