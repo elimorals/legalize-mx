@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2009-06-16"
+last_updated: "2009-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -953,9 +953,11 @@ XV.- Legislar sobre el aprovechamiento de las aguas que queden bajo el régimen 
 
 XVI.- Hacer la declaración de pérdida de la calidad de duranguenses o de ciudadanos del Estado, y de rehabilitación en ambos casos;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XVII.- Intervenir en los términos de esta Constitución, en las designaciones de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal de lo Contencioso Administrativo del Estado de Durango, del Procurador General de Justicia, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública y de los Consejeros Electorales; así mismo, resolver sobre las renuncias o licencias que presenten, en los términos de la legislación vigente;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+
+XVII.- Intervenir en los términos de esta Constitución, en las designaciones de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal para Menores Infractores del Poder Judicial del Estado, del Tribunal de lo Contencioso Administrativo del Estado de Durango, del Procurador General de Justicia, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública y de los Consejeros Electorales; así mismo, resolver sobre las renuncias o licencias que presenten, en los términos de la legislación vigente;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -983,9 +985,11 @@ XXII.- Tomar la protesta de ley al Gobernador del Estado, a los Magistrados del 
 
 XXIII.- Erigirse en Jurado de Acusación en los casos de presunta responsabilidad política y penal;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XXIV.- Recibir los avisos de ausencia del Gobernador y conceder, en los términos de esta Constitución y de la Ley, las autorizaciones, o en su caso, licencias al Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado y a los miembros del Consejo de la Judicatura del Estado;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+
+XXIV.- Recibir los avisos de ausencia del Gobernador y conceder, en los términos de esta Constitución y de la Ley, las autorizaciones, o en su caso, licencias al Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal para Menores Infractores del Poder Judicial del Estado y a los miembros del Consejo de la Judicatura del Estado;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -1085,13 +1089,17 @@ Son atribuciones de la Comisión Permanente:
 
 I.- Llevar la correspondencia;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-II.- Tomar la protesta de ley al Gobernador, a los Magistrados del Tribunal Superior de Justicia, y del Tribunal Estatal Electoral, al Titular de la Entidad de Auditoría Superior del Estado y a los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango, en los términos prescritos por esta Constitución;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
+II.- Tomar la protesta de ley al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado y del Tribunal para Menores Infractores del Poder Judicial del Estado, al Titular de la Entidad de Auditoría Superior del Estado y a los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango, en los términos prescritos por esta Constitución;
 
-III.- Recibir los avisos de ausencia del Gobernador y conceder las autorizaciones, o, en su caso, licencias que solicite el Gobernador y los Magistrados del Tribunal Superior de Justicia, Magistrados Electorales y miembros del Consejo de la Judicatura;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+
+III.- Recibir los avisos de ausencia del Gobernador y conceder las autorizaciones, o, en su caso, licencias que solicite el Gobernador y los Magistrados del Tribunal Superior de Justicia, Magistrados Electorales, Magistrados del Tribunal para Menores Infractores del Poder Judicial del Estado y miembros del Consejo de la Judicatura;
 
 IV.- Acordar por sí o a pedimento del Ejecutivo, la celebración de períodos extraordinarios de sesiones del Congreso;
 
@@ -1217,9 +1225,11 @@ V.- No pertenecer al estado eclesiástico, ni ser ministro de culto alguno;
 
 VI.- Saber leer y escribir;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MAYO DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-VII.- No ser Secretario o Subsecretario del Despacho en el Poder Ejecutivo del Estado, Procurador o Subprocurador de Justicia en el Estado, Magistrado del Tribunal Superior de Justicia del Estado, del Tribunal Estatal Electoral o miembro del Consejo de la Judicatura del propio Poder Judicial, Directores Generales de la Administración Estatal, Presidentes, Síndicos y Regidores Municipales, servidor público de mando superior de la federación, ni militar en servicio activo, salvo que se hubieran separado de su cargo noventa días antes de la elección;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+
+VII.- No ser Secretario o Subsecretario del Despacho en el Poder Ejecutivo del Estado, Procurador o Subprocurador de Justicia en el Estado, Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal para Menores Infractores del Poder Judicial del Estado o miembro del Consejo de la Judicatura del propio Poder Judicial, Directores Generales de la Administración Estatal, Presidentes, Síndicos y Regidores Municipales, servidor público de mando superior de la Federación, ni militar en servicio activo, salvo que se hubieran separado de su cargo noventa días antes de la elección; y
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -1285,9 +1295,61 @@ Si fuere necesario convocar a elecciones y éstas no se pudieren verificar por t
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-#### SECCION C.- DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+#### SECCION C.- DE LOS TRIBUNALES ELECTORAL Y PARA MENORES INFRACTORES DEL PODER JUDICIAL DEL ESTADO
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+
+ARTICULO 97
+
+A. Del Tribunal Electoral del Poder Judicial del Estado.
+
+El Tribunal Electoral del Poder Judicial del Estado, será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado. Para el ejercicio de sus atribuciones, el Tribunal funcionará en forma permanente con una Sala Colegiada y sus sesiones de resolución serán públicas, en los términos que determine la ley y contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
+
+La Sala se integrará con tres magistrados electorales, que durarán en su encargo por un periodo de nueve años, prorrogables por una sola ocasión, previa evaluación de su desempeño por parte del Congreso y serán electos de forma escalonada.
+
+Los Magistrados del Tribunal Electoral del Poder Judicial del Estado y el Presidente del Tribunal, que será uno de los miembros de la Sala, serán electos de conformidad con el procedimiento que señale la ley respectiva.
+
+En caso de vacante definitiva, se nombrará a un nuevo magistrado por el tiempo restante al del nombramiento original.
+
+La Sala del Tribunal Electoral del Poder Judicial del Estado sólo podrá declarar la nulidad de una elección por las causales que expresamente se establezcan en las leyes.
+
+Para que un ciudadano pueda acudir a la jurisdicción del Tribunal Electoral del Poder judicial del Estado por violaciones a sus derechos por el partido político al que se encuentre afiliado, deberá haber agotado previamente las instancias de solución de conflictos previstas en sus normas internas, la ley establecerá las reglas y plazos aplicables.
+
+La Sala del Tribunal Electoral del Poder Judicial del Estado hará uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones definitivas e inatacables en los términos que fije la ley.
+
+Sin perjuicio de lo dispuesto por los artículos 99 y 105 de la Constitución Política de los Estados Unidos Mexicanos, la Sala del Tribunal Electoral del Poder Judicial del Estado podrá resolver la no aplicación de leyes estatales sobre la materia electoral contrarias a la Constitución Política del Estado Libre y Soberano de Durango. Las resoluciones que se dicten en el ejercicio de esta facultad, se limitarán al caso concreto sobre el que verse la controversia.
+
+Las sentencias que dicte la Sala del Tribunal Electoral del Poder Judicial del Estado serán definitivas e inatacables, a excepción de aquéllas que sean susceptibles de impugnarse a través de medios extraordinarios.
+
+El Tribunal Electoral del Poder Judicial del Estado, sustanciará y resolverá en forma definitiva las impugnaciones que se interpongan en los procesos de plebiscito y referéndum.
+
+Para el ejercicio de su competencia, los magistrados electorales serán autónomos e independientes y responderán sólo al mandato de la ley y deberán satisfacer los requisitos que señalen esta Constitución y la ley y serán electos por el voto de la mayoría calificada de los diputados integrantes de la legislatura, en la sesión que corresponda, conforme al procedimiento que se indique en la ley.
+
+La administración, vigilancia y disciplina en el Tribunal Electoral del Poder Judicial del Estado, corresponderán, en los términos que señala la ley, a una Comisión de Administración, que se integrará y funcionará en los términos de la ley. Esta Comisión rendirá un informe por ejercicio fiscal, a la Entidad de Auditoría Superior del Estado, a más tardar el 30 de marzo del ejercicio fiscal siguiente.
+
+B. Del Tribunal para Menores Infractores del Poder Judicial del Estado.
+
+El Tribunal para Menores Infractores del Poder Judicial del Estado, será la máxima autoridad jurisdiccional en la materia y órgano especializado competente para resolver sobre las conductas tipificadas como delitos por el Código Penal para el Estado de Durango o por las leyes estatales, en las que se encuentren implicadas personas que tengan entre doce años cumplidos y menos de dieciocho años de edad.
+
+Para el ejercicio de sus atribuciones, el Tribunal para Menores Infractores del Poder Judicial del Estado se integrará por un Magistrado propietario de la Sala Unitaria, un Magistrado Supernumerario, los jueces, los jueces especializados para Menores, los jueces de Ejecución para Menores, la Unidad de Diagnostico, además del personal jurídico y administrativo necesario para su adecuado funcionamiento.
+
+Los Magistrados del Tribunal para Menores Infractores del Poder Judicial del Estado, serán electos de conformidad con el procedimiento que señale el Código respectivo. Durarán en su encargo seis años y podrán ser ratificados por una sola ocasión.
+
+Los jueces especializados para menores y los jueces de ejecución para menores, serán nombrados por el Consejo de la Judicatura del Poder Judicial del Estado, previo examen por oposición. Dichos nombramientos se harán preferentemente a favor de aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia; así como de reconocida honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica. Para ser Juez Especializado para Menores y Juez de Ejecución para Menores, se requiere contar con experiencia mínima de dos años en materia de menores infractores y conocimientos en los derechos de los niños.
+
+Los miembros de la Unidad de Diagnostico, serán nombrados por el Consejo de la Judicatura, previo examen por oposición debiendo ser personas que posean experiencia mínima de dos años en materia de menores infractores y conocimientos en los derechos de los niños.
+
+La administración, vigilancia y disciplina del Tribunal para Menores Infractores del Poder Judicial del Estado, corresponderán a una Comisión de Administración, que se integrará y funcionará en los términos que señala la Ley Orgánica del Poder Judicial del Estado. Esta Comisión rendirá un informe por ejercicio fiscal, a la Entidad de Auditoría Superior del Estado, a más tardar el 30 de marzo del ejercicio fiscal siguiente. En caso de existir dudas con respecto a las determinaciones que expida la Comisión o sobre su incumplimiento, el Presidente de la misma podrá solicitar su reconsideración, ante el Pleno del Tribunal Superior de Justicia, el que resolverá uninstancialmente lo conducente. El Tribunal propondrá su presupuesto, al Presidente del Tribunal Superior de Justicia, para su inclusión en el proyecto del presupuesto del Poder Judicial del Estado.
+
+El Tribunal para Menores Infractores del Poder Judicial del Estado expedirá su reglamento interno y dictará los acuerdos generales que requiera para el correcto desempeño de sus funciones.
+
+(REUBICADA [N. DE E. ANTES SECCION C], P.O. 26 DE NOVIEMBRE DE 2000)
+
+SECCION D.- DE LOS JUECES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 66.
 
@@ -1645,7 +1707,11 @@ El Presidente de la Comisión, deberá comparecer ante el Congreso del Estado a 
 
 El Poder Judicial del Estado, es autónomo y en el ejercicio de sus funciones, actuará con absoluta independencia y sólo estará sujeto a las normas constitucionales y leyes que de ellas emanen.
 
-El ejercicio del Poder Judicial del Estado, se deposita en un Tribunal Superior de Justicia, en un Tribunal Estatal Electoral, en Juzgados de Primera Instancia y en Juzgados Municipales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+
+El ejercicio del Poder Judicial del Estado, se deposita en un Tribunal Superior de Justicia, en un Tribunal Electoral del Poder Judicial del Estado en un Tribunal para Menores Infractores del Poder Judicial del Estado, en Juzgados de Primera Instancia y en Juzgados Municipales.
 
 En el desempeño de sus funciones resolverá las contiendas o controversias de naturaleza jurídica, que se sometan a su conocimiento, aplicando la normatividad establecida en la legislación común en vigor y en el área territorial de nuestra entidad política. Además, conocerá de aquellas cuestiones que le sean planteadas en aplicación del principio de la jurisdicción concurrente a que se refiere la fracción I del artículo 104 de la Constitución Política de los Estados Unidos Mexicanos
 
@@ -1655,7 +1721,11 @@ De igual manera, se encargará de la instrumentación de los medios alternativos
 
 Los tribunales locales, en el ámbito de sus particulares atribuciones, intervendrán igualmente en el conocimiento de asuntos de jurisdicción voluntaria, siguiendo el trámite procesal que señale la ley.
 
-La competencia del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, el funcionamiento del Pleno y de las Salas, y la competencia de estas, las atribuciones de los Magistrados, el número y competencia de los jueces, la división del Estado en Distritos Judiciales, las responsabilidades en que incurran aquellos, así como los demás funcionarios y empleados del Poder Judicial, se regirán por lo que dispone esta Constitución y las leyes relativas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+
+La competencia del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal para Menores Infractores del Poder Judicial del Estado, el funcionamiento del Pleno y de las Salas, y la competencia de éstas, las atribuciones de los Magistrados, el número y competencia de los jueces, la división del Estado en Distritos Judiciales, las responsabilidades en que incurran aquellos, así como los demás funcionarios y empleados del Poder Judicial, se regirán por lo que dispone esta Constitución y los ordenamientos jurídicos respectivos.
 
 Se crea un órgano desconcentrado del Tribunal Superior de Justicia que intervendrá como entidad de apoyo administrativo, con las atribuciones y facultades a que se refiere el artículo 102 de esta Constitución.
 
@@ -1673,9 +1743,11 @@ El Tribunal Superior de Justicia del Estado, se integrará con diecinueve Magist
 
 Los Magistrados durarán en su encargo seis años. Pueden ser nombrados nuevamente, y si lo fueren para el período inmediato, sólo serán privados de sus cargos en los casos y conforme a los procedimientos que establezca la ley. Durante la vigencia del cargo, los Magistrados y Jueces recibirán una remuneración suficiente, que propicie la total entrega a sus funciones.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-La remuneración que perciban por sus servicios los Magistrados del Tribunal Superior de Justicia, los Magistrados Electorales y los Jueces, no podrá ser disminuida durante el ejercicio de su encargo. Al vencimiento de su nombramiento, tendrán derecho a un haber por retiro y no podrán actuar como patronos, abogados o representantes ante los Tribunales del Poder Judicial del Estado, dentro del año siguiente a la fecha de ese vencimiento.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+
+La remuneración que perciban por sus servicios los Magistrados del Tribunal Superior de Justicia, los Magistrados Electorales, los Magistrados del Tribunal para Menores Infractores del Poder Judicial del Estado y los Jueces, no podrá ser disminuida durante el ejercicio de su encargo. Al vencimiento de su nombramiento, tendrán derecho a un haber por retiro y no podrán actuar como patronos, abogados o representantes ante los Tribunales del Poder Judicial del Estado, dentro del año siguiente a la fecha de ese vencimiento.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -1767,13 +1839,19 @@ X. Expedir su reglamento interior;
 
 Xl. Resolver los conflictos que surjan entre los ayuntamientos y los Poderes del Estado; con excepción de las controversias constitucionales previstas en la fracción I, inciso i) del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XII. Ejercer con auxilio del Consejo de la Judicatura el presupuesto del Poder Judicial y lo relativo al Fondo Auxiliar, con excepción de las partidas que le correspondan al Tribunal Estatal Electoral;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+
+XII. Ejercer con auxilio del Consejo de la Judicatura el presupuesto del Poder Judicial y lo relativo al Fondo Auxiliar con excepción de las partidas que le correspondan al Tribunal Electoral del Poder Judicial del Estado y al Tribunal para Menores Infractores del Poder Judicial del Estado;
 
 XIII. (DEROGADA, P.O. 16 DE JUNIO DE 2009)
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XIV. Designar al Consejero del Consejo de la Judicatura que formarán parte de la Comisión de Administración del Tribunal Electoral del Poder Judicial del Estado, conforme a la ley de la materia;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+
+XIV. Designar a los consejeros del Consejo de la Judicatura que formarán parte de la Comisión de Administración del Tribunal Electoral del Poder Judicial del Estado y de la Comisión de Administración del Tribunal para Menores Infractores del Poder Judicial del Estado, conforme a los ordenamientos legales de la materia;
 
 XV. Recibir, analizar y aprobar en su caso, el informe anual que debe rendir su Presidente, de acuerdo a lo dispuesto por el artículo 95 de esta Constitución;
 
@@ -1783,7 +1861,9 @@ XVII. Defender la Constitución y la soberanía del Estado; y
 
 XVIII. Las demás que le confieren esta Constitución y las leyes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 97.
 
@@ -1965,9 +2045,11 @@ II.- Ser mayor de 21 años de edad;
 
 III.- Ser de reconocida probidad y no haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo independientemente de la pena impuesta; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MAYO DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-IV.- No ser Secretario o subsecretario del Despacho del Poder Ejecutivo del Estado, Procurador o Subprocurador General de Justicia del Estado, Diputado en ejercicio ante el Congreso del Estado, Magistrado del Tribunal Superior de Justicia del Estado o del Tribunal Estatal Electoral, miembro del Consejo de la Judicatura del Poder Judicial, funcionario municipal, servidor público de mando superior de la Federación, ni militar en servicio activo, salvo que se hubieran separado de su cargo noventa días antes de la elección.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+
+IV.- No ser Secretario o subsecretario del Despacho del Poder Ejecutivo del Estado, Procurador o Subprocurador General de Justicia del Estado, Diputado en ejercicio ante el Congreso del Estado, Magistrado del Tribunal Superior de Justicia del Estado, del Tribunal Electoral del Poder Judicial del Estado o del Tribunal para Menores Infractores del Poder Judicial del Estado, miembro del Consejo de la Judicatura del Poder Judicial, funcionario municipal, servidor público de mando superior de la Federación, ni militar en servicio activo, salvo que se hubieran separado de su cargo noventa días antes de la elección.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -2231,15 +2313,15 @@ El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores P
 
 La Constitución General de la República, ésta Constitución y las leyes que de ellas emanen son las leyes supremas del Estado Libre y Soberano de Durango.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 125.
 
-Los Diputados, el Gobernador, los Secretarios del Despacho, el Procurador General de Justicia, los Subprocuradores, los Agentes del Ministerio Público, los Magistrados del Tribunal Superior de Justicia, y del Tribunal Estatal Electoral, los miembros del Consejo de la Judicatura del Estado, los Jueces de Primera Instancia, los Jueces Menores, los Presidentes y los Síndicos Municipales, durante el periodo de sus respectivos encargos, no podrán desempeñar otro cargo, función o empleo por el que se disfrute sueldo o remuneración, ni ejercer profesión alguna. Se exceptúa de esta prohibición, los cargos o comisiones de oficio y de índole docente.
+Los Diputados, el Gobernador, los Secretarios del Despacho, el Procurador General de Justicia, los Subprocuradores, los Agentes del Ministerio Público, los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado y del Tribunal para Menores Infractores del Poder Judicial del Estado, los miembros del Consejo de la Judicatura del Estado, los Jueces de Primera Instancia, los Jueces Menores, los Presidentes y los Síndicos Municipales, durante el periodo de sus respectivos encargos, no podrán desempeñar otro cargo, función o empleo por el que se disfrute sueldo o remuneración, ni ejercer profesión alguna. Se exceptúa de esta prohibición, los cargos o comisiones de oficio y de índole docente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1997)</small>
-
-El Gobernador y los Magistrados del Tribunal Superior de Justicia y del Tribunal Estatal Electoral, así como los miembros del Consejo de la Judicatura del Estado, podrán desempeñar otra comisión o empleo de la Federación, del Estado o de los Municipios, por los cuales se disfrute sueldo, con licencia previa del Congreso o de la Comisión Permanente, pero entonces cesarán de sus funciones mientras dure la nueva ocupación.
+El Gobernador, los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado y del Tribunal para Menores Infractores del Poder Judicial del Estado, así como los miembros del Consejo de la Judicatura del Estado, podrán desempeñar otra comisión o empleo de la Federación, del Estado o de los Municipios, por los cuales se disfrute sueldo, con licencia previa del Congreso o de la Comisión Permanente, pero entonces cesarán de sus funciones mientras dure la nueva ocupación.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -3032,3 +3114,9 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 Artículo Tercero. Comuníquese el presente decreto a los CC. C.P. Luis Arturo Villarreal Morales, C.P. Blanca Bertha Medrano Gurrola y C.P. Sergio Arreola Corral; Auditor Superior del Estado, Auditor General A y Auditor General B, respectivamente, de la Entidad de Auditoría Superior del Estado, para que en su parte relativa, surta todos los efectos conducentes.
+
+P.O. 15 DE NOVIEMBRE DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
