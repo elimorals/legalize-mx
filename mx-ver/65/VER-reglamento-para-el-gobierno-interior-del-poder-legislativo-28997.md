@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2009-04-24"
+last_updated: "2009-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -1313,9 +1313,11 @@ II. Para informar del estado que guarden las dependencias a su cargo, previa con
 
 III. Cuando se delibere o discuta una ley o se estudie un asunto relativo a sus respectivos ramos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 154.
 
-Las comparecencias se realizarán ante las comisiones correspondientes en el lugar y con el formato que determine la Junta de Coordinación Política, para lo cual informará al Pleno sobre el particular.
+Las comparecencias se realizarán ante las comisiones correspondientes, en el lugar que determine la Junta de Coordinación Política, para lo cual informará al Pleno sobre el particular. En el caso de la glosa del informe anual del titular del Poder Ejecutivo, se celebrarán ante las propias comisiones, en el recinto de sesiones del Congreso.
 
 El Congreso podrá convocar a los titulares de las dependencias y entidades de la administración pública, que considere conveniente, a comparecer ante el Pleno, cuando el asunto a tratar así lo requiera. Las comparecencias quedan sujetas a las reglas generales siguientes:
 
@@ -1584,3 +1586,9 @@ G.O. 24 DE ABRIL DE 2009.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 16 DE NOVIEMBRE DE 2009.
+
+Artículo primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
