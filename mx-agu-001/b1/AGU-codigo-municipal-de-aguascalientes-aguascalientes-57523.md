@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2009-10-26"
+last_updated: "2009-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -37,13 +37,21 @@ CÓDIGO MUNICIPAL DE AGUASCALlENTES
 
 ### CAPÍTULO I. División Territorial del Municipio de Aguascalientes
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 1º
+
+Las disposiciones del presente Código son de orden público e interés general, reglamentarias del Artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 69 de la Constitución Política del Estado de Aguascalientes y demás disposiciones que establezca la Ley que en materia municipal expida el Poder Legislativo del Estado. El presente Código lo constituyen el conjunto de normas, expedidas por el Ayuntamiento de Aguascalientes, que contienen las disposiciones relativas a los valores protegidos en la esfera del orden público, en lo que se refiere a la seguridad general, al civismo, la salubridad, la forestación, la conservación de vialidades y al ornato público, la propiedad y el bienestar de las personas en su seguridad, tranquilidad y disfrute de propiedades particulares, la igualdad entre mujeres y hombres así como la integridad moral del individuo y de la familia, recolección y disposición final de residuos, regulando además los efectos derivados de los servicios de agua potable, drenaje y alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, calles, parques, jardines, seguridad pública, policía preventiva, tránsito y transporte locales.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 1°.
 
 Las disposiciones del presente Código son de orden público e interés general, reglamentarias del Artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 69 de la Constitución Política del Estado de Aguascalientes y demás disposiciones que establezca la Ley que en materia municipal expida el Poder Legislativo del Estado.
 
 ###### ARTÍCULO 2°.
 
-El Municipio de Aguascalientes está conformado por fraccionamientos, colonias, condominios, comunidades, poblados y rancherías, que se ubican dentro de su territorio y se organizan políticamente en Delegaciones y Comisarías.
+El Municipio de Aguascalientes está conformado por fraccionamientos, colonias, condominios, comunidades, poblados y rancherías que se ubican dentro de su territorio y se organizan políticamente en Delegaciones y Comisarías. Quedan obligados al cumplimiento y observancia del presente Código, sin distinción, todas y todos los habitantes que conformen la población del Municipio de Aguascalientes.
 
 ###### ARTÍCULO 3°.
 
@@ -85,7 +93,9 @@ El Municipio de Aguascalientes, para lograr un desarrollo armónico y equilibrad
 
 I. Garantizar la tranquilidad, seguridad y bienes de las personas.
 
-II. Garantizar la moral y el orden público.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+II. Garantizar la moral y el orden público sin trato diferenciado por razones de género o cualquier otra.
 
 III. Prestar adecuadamente los servicios públicos municipales.
 
@@ -95,11 +105,43 @@ V. Promover el desarrollo urbano y la planeación de todos los centros de poblac
 
 VI. Promover y organizar la participación ciudadana para cumplir con los planes y programas municipales.
 
-VII. Proveer los medios para la aplicación de la justicia en el marco de su competencia.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+VII. Proveer los medios para la aplicación y acceso a la justicia en el marco de su competencia.
 
 VIII. Promover el desarrollo económico y el turismo local, para generar más oportunidades de empleo y el progreso del comercio y servicios, a través de la participación social.
 
 IX. Normar directa y libremente las materias de su competencia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+X. Promover la igualdad de género, la no discriminación y la no violencia en contra de las mujeres residentes en el Municipio.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 6°
+
+BIS.- Toda mujer que se encuentre en el Municipio de Aguascalientes tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos. Estos derechos comprenden, entre otros:
+
+l. El derecho a que se respete su vida.
+
+ll. El derecho a que se respete su integridad física, psíquica y moral.
+
+III. El derecho a su libertad y seguridad personales.
+
+IV. El derecho a no ser sometida a torturas.
+
+V. El derecho a la igualdad de protección ante la Ley.
+
+VI. El derecho a que se respete la dignidad inherente a su persona y que se proteja a su familia.
+
+VII. El derecho a un recurso sencillo y rápido ante los tribunales competentes, que la ampare contra actos que violen sus derechos.
+
+VIII. El derecho a libertad de asociación.
+
+IX. El derecho a la libertad de profesar la religión y las creencias propias dentro de la Ley; y
+
+X. El derecho a tener igualdad de acceso a las funciones públicas de su Municipio y a participar en los asuntos públicos, incluyendo la toma de decisiones.
 
 ### CAPÍTULO IV. De la Población
 
@@ -241,7 +283,7 @@ XXV. Consejo Técnico Ciudadano de Salud del Municipio de Aguascalientes.
 
 XXVI. Consejo de la Juventud.
 
-XXVII. Instituto Municipal de la Mujer.
+XXVII. (REFORMADA [N. DE E. DEROGADA], P.O. 16 DE NOVIEMBRE DE 2009)
 
 XXVIII. Comisión de Admisión de Peritos.
 
@@ -260,6 +302,22 @@ XXXI. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer 
 ###### ARTÍCULO 16.
 
 El Presidente Municipal es el ejecutor de las determinaciones del H. Ayuntamiento y el encargado de realizar la administración del Municipio, con base en los criterios y políticas establecidas por el H. Ayuntamiento, así como las demás atribuciones que le concede la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, y la Ley que en materia municipal expida el Poder Legislativo del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 16
+
+BIS.- El Presidente Municipal, a través de la Unidad Administrativa que éste determine, deberá:
+
+l. Capacitar al personal de las distintas instancias policiales para atender los casos de violencia contra las mujeres.
+
+II. Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia.
+
+III. Implementar cursos y talleres de prevención y protección contra la violencia de género.
+
+IV. Proporcionar a las víctimas de violencia la asesoría necesaria para conocer su situación jurídica y sus derechos.
+
+V. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
@@ -447,9 +505,11 @@ Serán Sesiones Solemnes aquellas que el Cabildo les dé ese carácter por la im
 
 El miembro del H. Ayuntamiento que no hubiere sido citado a una Sesión de Cabildo, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la Sesión, que se vuelva a discutir en su presencia, él o los acuerdos tomados en su ausencia y el Secretario del H. Ayuntamiento le informará de los acuerdos tomados, debiendo quedar asentado en el acta respectiva su opinión sobre cada uno de los asuntos tratados. En este caso el integrante del Cabildo que se encuentre en dicho supuesto podrá solicitar la revocación del acuerdo en cuestión en términos de lo establecido por este Código Municipal.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 31.
 
-El Informe anual de Gobierno del Presidente Municipal, será llevado a cabo en sesión solemne de cabildo a celebrarse en el mes de diciembre de cada año. El formato así como el orden del día de este tipo de sesiones serán acordadas por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del H. Ayuntamiento, uno de extracción partidista del primer edil y otro más de entre los miembros de la oposición.
+El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en Sesión Solemne de Cabildo a celebrarse a más tardar en el mes de diciembre de cada año. El formato así como el orden del día de este tipo de sesiones serán acordadas por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del Ayuntamiento, uno de extracción partidista del Primer Edil y otro más de entre los miembros de la oposición. En todas (sic) los casos, los integrantes del Ayuntamiento que participen en el Informe deberán ser de sexo distinto. Dicho informe deberá señalar todas las acciones realizadas por la Presidencia encaminadas a la protección de la equidad de género.
 
 ###### ARTÍCULO 32.
 
@@ -473,9 +533,17 @@ II. Cuando se profieran injurias, palabras obscenas, amenazas o serias acusacion
 
 III. Cuando se trate de exaltar el ánimo del auditorio, para presionar la opinión de los Regidores o Síndicos;
 
-IV. Cuando en el auditorio se observe alguna falta de respeto para alguno de los miembros del H. Ayuntamiento o para alguno de los servidores públicos; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-V. Cuando se pretenda discutir asuntos de interés particular.
+IV. Cuando en el auditorio se observe alguna falta de respeto para alguno de los miembros del H. Ayuntamiento o para alguno de los Servidores públicos;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+V. Cuando se pretenda discutir asuntos de interés particular; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+VI. Cuando se proliferen aseveraciones que impliquen sumisión de un género hacia otro o impliquen la realización de roles sexuales tradicionales y discriminatorios.
 
 ###### ARTÍCULO 36.
 
@@ -4265,6 +4333,10 @@ IX. Portar cualquier objeto, que solo puede ser utilizado para agredir o causar 
 
 X. Ingerir bebidas embriagantes en la vía pública.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XI. Realizar actos de violencia contra las mujeres, en términos de la legislación del Estado que regula las modalidades y tipos de violencia de género.
+
 APARTADO TERCERO
 
 De las Faltas Contra el Civismo
@@ -4361,6 +4433,22 @@ X. Causar daños a vecinos, transeúntes o vehículos, por omitir las medidas ne
 
 XI. Obstaculizar un sentido de circulación o la totalidad de cualquier vialidad primaria, secundaria o carretera, durante cualquier manifestación de los habitantes del Municipio.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XII. Realizar acoso contra las mujeres, siempre y cuando no constituya algún delito.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XIII. Una perturbación relevante de la convivencia que afecte de manera grave, inmediata y directa a la tranquilidad o al ejercicio de derechos legítimos de otras personas como son la violencia intrafamiliar y de género.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XIV. Efectuar actos de discriminación o de violencia de género.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XV. Efectuar trato diferenciado entre mujeres y hombres en la prestación de cualquier servicio o en el otorgamiento de algún derecho.
+
 APARTADO SÉPTIMO
 
 De las Faltas Contra la Integridad de las Personas y sus Bienes
@@ -4416,6 +4504,10 @@ V. Corregir con escándalo, vejar o maltratar a los menores, adultos mayores, al
 VI. Ejecutar, exhibir o asumir actitudes obscenas, de manera pública y por cualquier medio, que atente contra la moral y las buenas costumbres.
 
 VII. Asistir los menores de dieciocho años de edad a centros nocturnos, bares, pulquerías o cualquier otro lugar en que se prohíba su permanencia, esto con independencia de la sanción correspondiente a los establecimientos, de acuerdo con las disposiciones reglamentarias que las rijan.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+VIII. Menospreciar o dar trato diferenciado entre mujeres y hombres, que pueda incitar a algún tipo de violencia.
 
 ###### ARTÍCULO 345.
 
@@ -6239,6 +6331,12 @@ IX. Auxiliar a las autoridades federales, estatales y municipales, en los casos 
 
 X. Las demás que expresamente le confieran las leyes aplicables.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 545
+
+BIS.- La Secretaría de Seguridad Pública y Tránsito Municipal se coordinará con la Secretaría de Seguridad Pública del Estado de Aguascalientes para la cumplimentación de las órdenes de protección que al efecto libere el Ministerio Público o el Juez Penal de la causa que corresponda.
+
 ###### ARTÍCULO 546.
 
 La Dirección del Estado Mayor depende de la Secretaría de Seguridad Pública y Tránsito Municipal, tiene las siguientes atribuciones:
@@ -7095,9 +7193,17 @@ Para tal efecto los elementos que se encuentren en el supuesto de la parte final
 
 XXIII. Consumir en las instalaciones de la Secretaría o en actos del servicio, bebidas embriagantes;
 
-XXIV. Convocar o participar en cualquier práctica de rebeldía o indisciplina en contra del mando o alguna otra autoridad; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-XXV. Portar los uniformes, insignias, divisas y equipos reglamentarios, fuera los horarios de servicio.
+XXIV. Convocar o participar en cualquier práctica de rebeldía o indisciplina en contra del mando o alguna otra autoridad;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XXV. Portar los uniformes, insignias, divisas y equipos reglamentarios, fuera (sic) los horarios de servicio; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XXVI. Fomentar prácticas que se basen en la premisa de la inferioridad o superioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que legitimasen o exacerben la violencia contra la mujer y; (sic)
 
 ###### ARTÍCULO 599.
 
@@ -7112,6 +7218,16 @@ III.- Propiciar el buen entendimiento, la solidaridad y la amistad entre el pers
 IV.- Proponer a la Comisión de Normatividad Interna a través de los vocales la actualización, modificación o derogación de los manuales administrativos y de operación; e
 
 V.- Imponer las sanciones procedentes a sus subordinados, en términos de lo dispuesto por el Apartado Décimo del presente Código.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 599 BIS.- Son obligaciones, en general, de los Cuerpos de Seguridad Pública Municipal en materia de género:
+
+I. Atender de manera inmediata todos los casos de violencia contra las mujeres.
+
+II. Proporcionar, a las víctimas de violencia familiar y de género, la asesoría necesaria para conocer su situación jurídica y sus derechos.
+
+III. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
 
 APARTADO NOVENO
 
@@ -14377,6 +14493,14 @@ Los volantes, folletos, perifoneo, lonas, mantas, sonido y en general la propaga
 
 No se otorgará licencia o permiso para la fijación, instalación o colocación de anuncios, cuyo contenido haga referencia a ideas o imágenes con textos o figuras que inciten a la violencia, sean pornográficos, desarmonicen la imagen visual de su entorno o la arquitectónica de los edificios, en la vía publica, mobiliario urbano, promuevan la discriminación de raza o condición social, resulten ofensivos, difamatorios o atenten contra la dignidad del individuo o de la comunidad en general, así como para anuncios que, de acuerdo al dictamen emitido por la Secretaría, alteren la imagen visual y urbana del entorno en que se pretendan instalar, fijar, colocar o modificar texto.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 1185
+
+BIS.- Queda estrictamente prohibido la colocación de carteles así como todo tipo de imágenes, retratos o logotipos de personas, que atenten contra la moral, las buenas costumbres o generen conductas de violencia o discriminación hacia las mujeres.
+
+Es obligación del titular de la autorización, licencia o permiso, evitar usar lenguajes e imágenes que refuercen los roles negativos del hombre y de la mujer.
+
 ###### ARTÍCULO 1186.
 
 El texto de los anuncios deberá redactarse en idioma español con sujeción a las reglas de la gramática, no pudiendo emplearse palabras en otro idioma, salvo que se trate de dialectos nacionales o de nombres propios de productos, marcas o nombres comerciales en lengua extranjera debidamente registrados, conforme a las disposiciones relativas.
@@ -15700,6 +15824,12 @@ XV. Renovar anualmente, a más tardar el treinta y uno de Marzo, el permiso o li
 XVI. Evitar que en sus establecimientos se atente contra la moral, buenas costumbres o se altere el orden público.
 
 XVII. Respetar cualquiera de las limitaciones que le impone este capítulo, al giro de que se trate, así como las demás que se desprendan de la Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 1298
+
+BIS.- En todos los establecimientos que el H. Ayuntamiento determine expedir licencia de funcionamiento o conceder permiso provisional de funcionamiento, se deberán modificar los patrones socioculturales de conducta de mujeres y hombres para contrarrestar prejuicios, costumbres y todo tipo de prácticas que se basen en la premisa de la superioridad o inferioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que legitimasen o exacerben la discriminación y la violencia contra las mujeres.
 
 ### CAPÍTULO VII. Derechos y Obligaciones de los Comerciantes en la Vía Pública
 
@@ -19174,3 +19304,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las disposiciones contenidas en el presente Decreto serán aplicables a aquellos procedimientos en trámite o vigentes en materia de declaratoria de áreas naturales protegidas.
+
+P.O. 16 DE NOVIEMBRE DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
