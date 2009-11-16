@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-59906"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-01-07"
-last_updated: "2008-01-07"
+last_updated: "2009-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Número 1 Bis del Periódico Oficial del Estado de Hidalgo, el lunes 7 de enero de 2008.
 
@@ -49,9 +49,11 @@ QUE CONTIENE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 1.
 
-Esta Ley es de orden público, reglamentaria de los Artículos 93, 94, 97, 98, 99 y 100 ter de la Constitución Política del Estado de Hidalgo, y tiene por objeto regular la organización, funcionamiento y atribuciones del Poder Judicial del Estado de Hidalgo, al que corresponde interpretar y aplicar las Leyes en asuntos jurisdiccionales del orden civil, familiar, penal, electoral, fiscal administrativo y especializado en justicia para adolescentes del Fuero Común; así como en materia Federal y del Fuero Militar cuando las Leyes lo faculten.
+Esta Ley es de orden público, reglamentaria de los Artículos 93, 94, 97, 98, 99 y 100 ter de la Constitución Política del Estado de Hidalgo, y tiene por objeto regular la organización, funcionamiento y atribuciones del Poder Judicial del Estado de Hidalgo, al que corresponde interpretar y aplicar las Leyes en asuntos jurisdiccionales de la materia civil, familiar, mercantil, penal, electoral, fiscal administrativo y especializado en justicia para adolescentes del Fuero Común; así como en materia Federal cuando las Leyes lo faculten.
 
 ###### ARTÍCULO 2.
 
@@ -68,6 +70,10 @@ III.- El Tribunal Electoral; y
 IV.- Los demás funcionarios y auxiliares de la impartición de justicia.
 
 b).- Administrativo: Un Consejo de la Judicatura.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+c).- No Jurisdiccional: El Centro Estatal de Justicia Alternativa, con autonomía técnica y vinculado administrativamente al Consejo de la Judicatura.
 
 ###### ARTÍCULO 3.
 
@@ -95,9 +101,11 @@ V. Proporcionar a las Autoridades competentes los datos e informes que soliciten
 
 VI. Las demás que los ordenamientos legales les señalen.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 6.
 
-Los Magistrados y jueces tienen independencia en el ejercicio de su función jurisdiccional. Los consejeros de la judicatura no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Dichos servidores públicos percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, pero en ningún caso, podrán ser acreedores a doble Salario.
+Los Magistrados y Jueces tienen independencia y autonomía en el ejercicio de su función jurisdiccional, y solo deben obediencia a la Ley. Los Consejeros de la Judicatura no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Dichos servidores públicos percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, pero en ningún caso, podrán ser acreedores a doble salario.
 
 ###### ARTÍCULO 7.
 
@@ -111,9 +119,11 @@ III.- Los Secretarios de Acuerdos de las Salas de los Tribunales;
 
 IV.- Los Actuarios de las Salas;
 
-V. Los Secretarios de Acuerdos y Actuarios de los Juzgados, y
+V.- Los Secretarios de Acuerdos y Actuarios de los Juzgados, y
 
-VI. Los demás servidores públicos que establezca la Ley.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+VII (SIC).- Los demás servidores públicos que establezca la Ley.
 
 ### CAPÍTULO II. Del Ejercicio Presupuestal
 
@@ -121,9 +131,11 @@ VI. Los demás servidores públicos que establezca la Ley.
 
 El Poder Judicial tiene facultad para manejar en forma autónoma e independiente de cualquier otro Poder, su presupuesto de egresos, así como las aportaciones extraordinarias que se aprueben durante el ejercicio fiscal que corresponda.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 9.
 
-Para el adecuado funcionamiento del Poder Judicial, el monto presupuestal será el que le asigne anualmente la Legislatura del Estado.
+Para el adecuado funcionamiento del Poder Judicial, el monto presupuestal será el que le asigne anualmente el Congreso del Estado.
 
 ###### ARTÍCULO 10.
 
@@ -137,13 +149,23 @@ El proyecto del presupuesto de egresos del Poder Judicial del Estado se integrar
 
 El Tribunal Superior de Justicia residirá en la ciudad de Pachuca de Soto y su organización, funcionamiento y competencia estarán a lo dispuesto en la Constitución Política del Estado de Hidalgo y a las disposiciones de esta Ley.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 12.
 
-El Tribunal Superior de Justicia se integrará cuando menos por catorce Magistrados, aprobados por el Congreso, en los términos del Artículo 94 de la Constitución Política del Estado de Hidalgo, de entre los cuales se elegirá al Presidente, quien no integrará Sala.
+El Tribunal Superior de Justicia se integrará cuando menos por catorce Magistrados, aprobados por el Congreso del Estado, en los términos del Artículo 94 de la Constitución Política del Estado de Hidalgo, de entre los cuales se elegirá al Presidente, quien no integrará Sala.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 13.
 
-El Tribunal Superior de Justicia funcionará en Pleno General, en Pleno de Salas Colegiadas y en su caso en sesiones de Salas Unitarias, según lo determine el mismo Pleno General, quien les asignará su materia e integración, pudiendo conformarla en forma mixta.
+·El Tribunal Superior de Justicia podrá funcionar:
+
+I.- En Pleno;
+
+II.-·En Salas Colegiadas; y
+
+III.- En Salas Unitarias.
 
 ###### ARTÍCULO 14.
 
@@ -151,7 +173,7 @@ El Tribunal Superior de Justicia contará con un Secretario General, Secretarios
 
 ###### ARTÍCULO 15.
 
-En la función jurisdiccional, los Jueces son autónomos y sólo deben obediencia a la Ley.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2009)
 
 ### CAPÍTULO II. Del Pleno General del Tribunal Superior de Justicia
 
@@ -175,67 +197,147 @@ Las sesiones ordinarias deberán celebrarse cuando menos mensualmente y las extr
 
 De toda sesión se levantará Acta que firmarán el Presidente, los Magistrados y el Secretario General, quién dará fe.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 19.
 
-Además de las previstas en el Artículo 99 de la Constitución Política del Estado de Hidalgo, corresponde al Pleno:
+Además de lo establecido en la Constitución Política del Estado de Hidalgo, son atribuciones del Pleno:
 
 I.- Preservar la independencia y autonomía de los órganos jurisdiccionales en el desempeño de sus funciones;
 
-II.- Iniciar ante el Congreso del Estado Libre y Soberano de Hidalgo las Leyes y Decretos inherentes a la impartición de justicia;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-III.- Elegir al Presidente del Tribunal Superior de Justicia, a los miembros de cada una de las Salas y a quienes habrán de presidirlas y aceptar en su caso, las renuncias correspondientes;
+II.- Proponer iniciativas de Leyes y Decretos inherentes a la impartición de justicia ante el Congreso del Estado Libre y Soberano de Hidalgo en su ramo;
 
-IV.- Nombrar al Secretario General del Tribunal Superior de Justicia, a propuesta del Presidente;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-V.- Acordar el aumento, reubicación o supresión de Salas, así como modificar su competencia por razón de territorio, materia o cuantía, según las necesidades del servicio;
+III.- Elegir al Presidente del Tribunal Superior de Justicia;
 
-VI.- Expedir, modificar y difundir en el Periódico Oficial del Estado, el Reglamento Interior del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-VII.- Calificar y resolver las excusas y recusaciones de los Magistrados, así como las del Presidente del Tribunal Superior de Justicia, en los asuntos de la competencia del Pleno del Tribunal;
+IV.- Determinar las adscripciones de los Magistrados a las Salas y elegir a quiénes habrán de presidirlas; asimismo, designar a los Magistrados de una Sala para que transitoriamente integren otra cuando sea necesario para su funcionamiento;
 
-VIII.- Resolver las quejas administrativas interpuestas contra los Magistrados del Tribunal Superior de Justicia, cuyas resoluciones tendrán el carácter de definitivas e inatacables y, en su caso, imponer la sanción que corresponda;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-IX.- Imponer correcciones disciplinarias a los abogados, procuradores, peritos y litigantes, cuando en sus promociones falten al respeto al Tribunal Superior de Justicia o a alguno de sus miembros;
+V.- Nombrar al Secretario General del Tribunal Superior de Justicia, a propuesta del Presidente, de igual forma conocer de su remoción o renuncia;
 
-X.- Conocer y resolver cualquier otro asunto de la competencia del Poder Judicial, cuyo conocimiento no corresponda a las Salas, al Presidente del Tribunal o al Consejo de la Judicatura, por disposición expresa de la Ley;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-XI.- Establecer los criterios y las medidas conducentes para el mejoramiento de la impartición de justicia;
+VI.- Acordar la creación, reubicación o supresión de Salas, así como modificar su competencia, según las necesidades del servicio;
 
-XII.- Conocer y resolver en única instancia, las demandas que por responsabilidad civil se presenten en contra de Magistrados;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-XIII.- Dar curso a las renuncias que presenten los Magistrados y conocer de las faltas en que incurran;
+VII.- Emitir acuerdos para la creación de circuitos judiciales, en los que se determinen los Distritos Judiciales que lo integren;
 
-XIV.- Conceder licencias a los Magistrados para separarse del cargo por más de quince días y hasta por un período no mayor de tres meses;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-XV.- Conocer y dirimir cualquier controversia que surja entre las Salas con motivo de su competencia o de la interpretación y aplicación de las disposiciones legales;
+VIII.- Expedir, modificar y ordenar la Publicación, en el Periódico Oficial del Estado de Hidalgo, de los Reglamentos relativos al Tribunal Superior de Justicia;
 
-XVI.- Resolver en los casos de criterios contradictorios sustentados por las Salas del Tribunal, bastando para ello, la denuncia respectiva de las partes afectadas, de los propios Magistrados o Jueces ante el Pleno, el que definirá cuál criterio debe prevalecer, en un plazo no mayor de 60 días naturales, contados a partir de dicha denuncia. La resolución correspondiente deberá Publicarse;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-XVII.- Crear el número necesario de Salas para el buen funcionamiento de la impartición de justicia, determinando su especialización y asignando su composición;
+IX.- Calificar y resolver las excusas y recusaciones de los Magistrados, así como las del Presidente del Tribunal Superior de Justicia, en los asuntos de la competencia del Pleno;
 
-XVIII.- Nombrar al Magistrado y al Juez que deban integrarse al Consejo de la
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-Judicatura;
+X.- Conocer y Resolver las quejas administrativas interpuestas en contra de los Magistrados del Tribunal Superior de Justicia, cuyas resoluciones tendrán el carácter de definitivas e inatacables y, en su caso, imponer la sanción que corresponda;
 
-XIX.- Solicitar al Consejo de la Judicatura que expida los Acuerdos generales que considere necesarios para el adecuado ejercicio de la función jurisdiccional, y en su caso, si lo estima conveniente, revisarlos o revocarlos;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-XX.- Vigilar el cumplimiento de las garantías jurisdiccionales de autonomía, independencia, imparcialidad y libertad para juzgar, y
+XI.- Imponer correcciones disciplinarias a los abogados, representantes legales, peritos y litigantes, cuando en sus promociones o alegatos orales falten al respeto al Tribunal Superior de Justicia o alguno de sus miembros o a las partes;
 
-XXI.- Las demás que ésta u otras Leyes le encomienden.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XII.- Emitir los acuerdos, criterios y lineamientos conducentes para el mejoramiento de la impartición de justicia en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XIII.- Conocer y resolver, en única instancia, las demandas que por responsabilidad civil se presenten en contra de Magistrados;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XIV.- Dar curso a las renuncias que presenten los Magistrados;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XV.- Conocer y resolver de las faltas oficiales en que incurran los Magistrados;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XVI.- Conceder licencias a los Magistrados para separarse del cargo por más de quince días y hasta por un período no mayor de tres meses;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XVII.- Conocer y dirimir cualquier controversia que surja entre las salas;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XVIII.- Conocer y resolver de las denuncias de contradicción entre tesis sustentadas por las salas;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XIX.- Nombrar al Magistrado y al Juez que deban integrarse al Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XX.- Solicitar al Consejo de la Judicatura que expida los acuerdos generales que considere necesarios para el adecuado ejercicio de la función jurisdiccional, y en su caso, si lo estima conveniente, revisarlos o revocarlos;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XXI.- Vigilar el cumplimiento de las garantías jurisdiccionales de autonomía, independencia, imparcialidad y libertad para juzgar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XXII.- Conocer y resolver cualquier otro asunto de la competencia del Tribunal Superior de Justicia, cuyo conocimiento no corresponda a las Salas, al Presidente del Tribunal o el Consejo de la Judicatura;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XXIII.- Integrar las comisiones que sean necesarias para la atención de los asuntos de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XXIV.- Conocer y resolver los asuntos que sean competencia de las Salas, que por su importancia y trascendencia se considere deba fallar el Pleno, ello de oficio o a petición fundada de la correspondiente Sala o del Procurador General de Justicia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XXV.- Participar con el Consejo de la Judicatura en la proposición, diseño, ejecución y evaluación de planes y programas para la mejor impartición de justicia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XXVI.- Solicitar al Consejo de la Judicatura la investigación sobre los casos en los que se adviertan actuaciones de Jueces y demás funcionarios judiciales, en términos de la Constitución, que pudieran derivar en responsabilidad en el desempeño de las funciones jurisdiccionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XXVII.- Solicitar al Consejo de la Judicatura la realización de visita extraordinaria de inspección a algún juzgado cuando adviertan la comisión de alguna falta oficial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XXVIIl.- Exhortar a los Magistrados y a los Jueces al puntual cumplimiento de sus deberes, cuando tuvieren conocimiento de demoras o irregularidades en el despacho de los asuntos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XXIX.- Proponer al Consejo de la Judicatura la creación, la especialización o la reubicación de juzgados de primera instancia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XXX.- Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO III. Del Presidente del Tribunal Superior de Justicia
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 20.
 
-El Tribunal Superior de Justicia tendrá un Presidente, que también representará al Poder Judicial, durará en su encargo un año y podrá ser reelecto. Será designado entre los Magistrados por el voto de la mayoría simple de los presentes, quienes lo emitirán en forma económica o secreta en la primera sesión extraordinaria que para tal efecto se convoque durante el mes de abril de cada año o en su caso, en el momento en que se acepte su renuncia o se dé cuenta al Pleno de su ausencia definitiva.
+El Tribunal Superior de Justicia tendrá un Presidente, que también representará al Poder Judicial, durará en su encargo cuatro años y no podrá ser reelecto para el periodo inmediato. Será designado entre los Magistrados por el voto de la mayoría simple de los presentes, quienes lo emitirán en forma económica o secreta en la primera sesión extraordinaria que para tal efecto se convoque durante el mes de abril del año que corresponda o en su caso, en el momento en que se acepte su renuncia o se dé cuenta al Pleno de su ausencia definitiva.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 21.
 
 Son atribuciones del Presidente del Tribunal Superior de Justicia:
 
-I.- Representar al Poder Judicial del Estado en toda clase de actos jurídicos y ceremonias oficiales y asignar comisiones cuando sea necesario;
+I.- Representar al Poder Judicial del Estado en toda clase de actos jurídicos, y ceremonias oficiales y asignar comisiones cuando sea necesario;
 
-II.- Proponer al Pleno el nombramiento del Secretario General;
+II.- Proponer al Pleno el nombramiento o remoción del Secretario General, así como hacer de su conocimiento de la renuncia de éste;
 
 III.- Convocar a las sesiones del Pleno del Tribunal Superior de Justicia, las que presidirá, dirigiendo los debates y conservando el orden en las mismas;
 
@@ -249,39 +351,41 @@ VII.- Dar cuenta al Pleno, de las demandas de responsabilidad civil presentadas 
 
 VIII.- Dar cuenta al Pleno de las excusas y recusaciones que se planteen en los asuntos de su competencia;
 
-IX.- Proponer al Pleno, las medidas necesarias para el mejoramiento de la impartición de justicia;
+IX.- Designar al magistrado que deba integrar sala cuando exista ausencia, excusa o recusación de alguno de sus miembros;
 
-X.- Autorizar con su firma la correspondencia del Tribunal;
+X.- Proponer al Pleno, las medidas necesarias para el mejoramiento de la impartición de justicia;
 
-XI.- Informar anualmente ante el Pleno del Tribunal Superior de Justicia, sobre las acciones inherentes a la impartición de justicia en la Entidad;
+XI.- Autorizar con su firma la correspondencia del Tribunal;
 
-XII.- Vigilar el debido cumplimiento de las resoluciones del Pleno;
+XII.- Informar anualmente ante el Pleno del Tribunal Superior de Justicia, sobre las acciones inherentes a la impartición de justicia en la Entidad;
 
-XIII.- Promover, vigilar y acordar todo lo relativo a las publicaciones del Tribunal Superior de Justicia;
+XIII.- Vigilar el debido cumplimiento de las resoluciones del Pleno;
 
-XIV.- Disponer en casos urgentes, las medidas que sean necesarias para el buen funcionamiento de la impartición de justicia, informando al Pleno en la próxima sesión de las medidas adoptadas;
+XIV.- Promover, vigilar y acordar todo lo relativo a las Publicaciones del Tribunal Superior de Justicia;
 
-XV.- Designar al personal necesario para el desempeño de sus funciones y el despacho de los asuntos de su competencia, de acuerdo al presupuesto autorizado;
+XV.- Disponer en casos urgentes, las medidas que sean necesarias para el buen funcionamiento de la impartición de justicia, informando al Pleno en la próxima sesión de las medidas adoptadas;
 
-XVI.- Celebrar convenios de cooperación y colaboración interinstitucionales, para el mejoramiento en la impartición de justicia;
+XVI.- Designar al personal necesario para el desempeño de sus funciones y el despacho de los asuntos de su competencia, de acuerdo al presupuesto autorizado;
 
-XVII.- Remitir por conducto de la Secretaría General, al juez correspondiente, los exhortos, requisitorias o despachos y rogatorias de acuerdo con el turno que al efecto se lleve;
+XVII.- Celebrar convenios de cooperación y colaboración interinstitucionales, para el mejoramiento en la impartición de justicia;
 
-XVIII.- Presidir el Consejo de la Judicatura, coordinar sus acciones y ordenar la ejecución de los Acuerdos dictados por éste;
+XVIII.- Remitir por conducto de la Secretaría General, al juez correspondiente, los exhortos, requisitorias o despachos y rogatorias de acuerdo con el turno que al efecto se lleve;
 
-XIX.- Distribuir, por riguroso turno, los expedientes a las Salas respectivas por conducto de la oficialía de partes;
+XIX.- Presidir el Consejo de la Judicatura, coordinar sus acciones y ordenar la ejecución de los Acuerdos dictados por éste;
 
-XX.- Rendir los informes previos y con justificación en los amparos que se promuevan en contra de los actos y resoluciones del Pleno del Tribunal Superior de Justicia;
+XX.- Distribuir, por riguroso turno, los expedientes a las Salas respectivas por conducto de la oficialía de partes;
 
-XXI.- Visitar u ordenar que sean visitados los centros de readaptación social, para cerciorarse sobre la situación de los procesados sujetos a prisión preventiva;
+XXI.- Rendir los informes previos y con justificación en los amparos que se promuevan en contra de los actos y resoluciones del Pleno del Tribunal Superior de Justicia;
 
-XXII.- Resolver sobre los puntos urgentes que no admitan demora, aun cuando sean de la competencia del Tribunal en Pleno, en los casos en que éste no pudiere reunirse, dando cuenta de lo que hubiere hecho en el Pleno inmediato siguiente, para que éste ratifique o modifique el acuerdo tomado;
+XXII.- Visitar u ordenar que sean visitados los centros de reinserción social, para cerciorarse sobre la situación de los procesados sujetos a prisión preventiva;
 
-XXIII.- Proponer al Congreso el cambio de residencia del Poder Judicial, en términos del Artículo 27 de la Constitución Política del Estado;
+XXIII.- Resolver sobre los puntos urgentes que no admitan demora, aún cuando sean de la competencia del Tribunal en Pleno, en los casos en que éste no pudiere reunirse, dando cuenta de lo que hubiere hecho en el Pleno inmediato siguiente, para que éste ratifique o modifique el acuerdo tomado;
 
-XXIV.- Someter a la consideración del Pleno un asunto relacionado con las facultades que este Articulo le concede o de la competencia de las Salas, cuando por su importancia o trascendencia así lo estime, y
+XXIV.- Proponer al Congreso el cambio de residencia del Poder Judicial, en términos del Artículo 27 de la Constitución Política del Estado;
 
-XXV.- Las demás que le confiera esta Ley y otras disposiciones aplicables.
+XXV.- Someter a la consideración del Pleno los asuntos relacionados con las atribuciones que este Artículo le concede o de la competencia de las Salas, cuando por su importancia o trascendencia así lo estime, y
+
+XXVI.- Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 22.
 
@@ -353,71 +457,95 @@ XIII.- Las demás que le señale la presente Ley y demás ordenamientos legales 
 
 ### CAPÍTULO IV. De las Salas
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 27.
 
-El Tribunal Superior de Justicia funcionará en Salas que conocerán en materia civil y familiar y penal, integradas por tres Magistrados cada una de ellas; sin perjuicio de que el Pleno determine la creación de nuevas Salas, colegiadas o unitarias de carácter permanente o temporal, en atención a los requerimientos de la institución y, a su vez, definiendo su integración, funcionamiento y atribuciones en términos de lo previsto en esta Ley.
+El Tribunal Superior de Justicia funcionará en Salas, que podrán ser unitarias o colegiadas, éstas últimas se integrarán con tres magistrados. Las salas, en razón de la materia, podrán ser Civil, Familiar; Mercantil; Penal o especializada en Justicia para Adolescentes. Así mismo según lo acuerde el Pleno del Tribunal Superior de Justicia, podrán existir salas mixtas, que conocerán de las materias que al efecto se determine.
 
-Mediante Salas especializadas en la materia, se conocerá de los asuntos relativos a la justicia para adolescentes.
+En ningún caso, los asuntos relativos a la materia Especializada en Justicia para Adolescentes podrán ser objeto de una Sala con especialización mixta.
 
 ###### ARTÍCULO 28.
 
-En los asuntos en que se excuse un Magistrado conocerá el de otra Sala, que designe el Presidente del Tribunal Superior de Justicia.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2009)
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 29.
 
-Las resoluciones que competan a las Salas Colegiadas se tomarán por unanimidad o mayoría de votos de los Magistrados, debiendo ser firmadas por el Secretario correspondiente; cuando un Magistrado no estuviere de acuerdo con la resolución de la mayoría, expresará en forma sucinta las razones de su disenso en voto particular, el cual se agregará a la resolución.
+Las resoluciones que competan a las salas colegiadas se tomarán por unanimidad o mayoría de votos de sus integrantes, salvo lo que pueda disponerse al respecto en las normas adjetivas aplicables para el caso de autos o decretos.
+
+Los integrantes de las salas colegiadas no podrán abstenerse de votar sino cuando tengan excusa o impedimento legal. En caso de empate, el asunto se suspenderá hasta la próxima sesión en que haya asistencia de los tres integrantes de la Sala. El Magistrado que disintiere de la mayoría podrá formular voto particular, el cual se insertará al final de la resolución.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 30.
 
-Para el desahogo de los asuntos que tienen encomendados, cada Sala tendrá el personal necesario para el ejercicio de sus funciones, de conformidad con lo establecido por el Reglamento Interior del Tribunal.
+Para el desahogo de los asuntos que tienen encomendados, cada Sala tendrá el personal necesario para el ejercicio de sus funciones según las necesidades del servicio.
 
 #### Sección Primera. De la competencia de las Salas
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 31.
 
-Los Magistrados de las Salas Civiles y Familiares, Penales y Especializadas en Justicia para Adolescentes, en su caso, conocerán en su materia de todo lo relativo a la segunda instancia.
+Corresponde a las Salas de acuerdo con la materia que se trate:
+
+I.- Conocer en segunda instancia, en los términos que dispongan las Leyes, de los negocios del orden civil, familiar, mercantil, penal y de adolescentes;
+
+II.- Conocer de los recursos, incompetencias, recusaciones y demás procedimientos que les correspondan conforme a la Legislación adjetiva y demás Leyes aplicables, y
+
+III.- Conocer de los demás asuntos que les encomienden las Leyes y demás ordenamientos jurídicos.
+
+Las salas Especializadas en Justicia para Adolescentes, conocerán, además de los conflictos de competencia que se susciten entre los jueces para adolescentes y entre uno de éstos y un Juez Penal.
+
+A Las (sic) Salas en Materia Penal les corresponde resolver la autorización de cambio de radicación de los procesos penales, conforme a lo dispuesto en el Código Procesal Penal.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 32.
 
-La Salas Especializadas en Justicia para Adolescentes, además de lo señalado en el Artículo anterior, conocerán y resolverán:
+En el proceso penal de carácter acusatorio, las Salas serán colegiadas para conocer de los recursos de casación y revisión, pero serán unitarias para conocer del recurso de apelación en todos los casos.
 
-I.- De los asuntos que se le encomienden por acuerdo del Pleno del Tribunal Superior de Justicia;
+El recurso de casación deberá ser conocido por magistrados que no hubieren intervenido en el mismo asunto en apelación; y del recurso de revisión deberán conocerlo magistrados que no hubieren intervenido en el mismo asunto en casación.
 
-II.- De los conflictos de competencia que se susciten entre los jueces especializados en adolescentes y entre uno de éstos y un Juez Penal del mismo distrito judicial;
-
-III.- De los juicios de amparo que se promuevan ante ellas conforme al Artículo 107 fracción XII, párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, contra actos de los juzgados especializados en adolescentes, en los términos que establezcan las Leyes Federales respectivas, y
-
-IV.- De los demás asuntos que de conformidad con la competencia y procedimiento señale la Ley de la materia.
+En la materia especializada en justicia para adolescentes, los recursos serán conocidos por salas unitarias y deberá aplicarse la misma regla prevista en el párrafo anterior.
 
 #### Sección Segunda. De las atribuciones de los Presidentes de Sala
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 33.
 
 Los Presidentes de Sala durarán en su encargo un año, podrán ser reelectos y tendrán las atribuciones siguientes:
 
-I.- Presidir el pleno de la Sala, dirigir los debates y poner a votación los asuntos respectivos al concluir dichos debates;
+I.- Presidir las sesiones de la Sala, dirigir los debates y poner a votación los asuntos respectivos al concluir dichos debates;
 
-II.- Acordar los asuntos de la competencia de la Sala hasta ponerlos en estado de resolución, autorizándolos con su firma y la del Secretario respectivo;
+II.- Acordar los asuntos de la competencia de la Sala hasta ponerlos en estado de resolución, cuando así lo prevean las normas aplicables;
 
-III.- Distribuir por riguroso sorteo entre los Magistrados, los tocas para su estudio y vigilar la presentación oportuna de los proyectos de sentencia;
+III.- Distribuir por riguroso sorteo entre los Magistrados los tocas para su estudio;
 
 IV.- Vigilar que la Secretaría de Acuerdos realice el extracto de los puntos que comprendan lo resuelto por la Sala;
 
-V.- Dar el trámite respectivo a los amparos y firmar los informes previo y justificado con la representación de la Sala;
+V.- Dar el trámite respectivo al juicio de amparo y firmar los informes, previo y justificado, con la representación de la Sala;
 
-VI.- Llevar la correspondencia de la Sala, autorizándola con su firma, y
+VI.- Llevar la correspondencia de la Sala, autorizándola con su firma;
 
-VII.- Los demás asuntos que les confiera esta Ley y otras disposiciones aplicables.
+VlI.- Representar a la Sala ante el Consejo de la Judicatura en los asuntos que correspondan, y
+
+VIII.- Las (sic) demás asuntos que les confieran esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO V. De los Magistrados
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 34.
 
-Los Magistrados serán nombrados por el Gobernador del Estado con la aprobación del Congreso o de la diputación permanente en su caso y deberán satisfacer los requisitos exigidos por el Articulo 95 de la Constitución Política del Estado de Hidalgo.
+Los Magistrados serán nombrados por el Gobernador del Estado con la aprobación del Congreso del Estado o de la diputación permanente en su caso y deberán satisfacer los requisitos exigidos por el Artículo 95 de la Constitución Política del Estado de Hidalgo.
 
 ###### ARTÍCULO 35.
 
-Las ausencias, excusas o recusaciones de los Magistrados, se cubrirán por el que designe el Presidente del Tribunal Superior de Justicia.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2009)
 
 ### CAPÍTULO VI. Del Secretario General
 
@@ -428,6 +556,8 @@ El Secretario General del Tribunal Superior de Justicia, que lo será también d
 El Secretario General del Tribunal Superior de Justicia deberá satisfacer los mismos requisitos exigidos para ocupar el cargo de Magistrado, con excepción de la edad mínima que deberá ser treinta años cumplidos al día de la designación; por cuanto a la experiencia profesional como abogado deberá ser no menor de cinco años.
 
 De su renuncia conocerá el Pleno.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO PARA QUEDAR COMPRENDIDO POR QUINCE FRACCIONES.</small>
 
 ###### ARTÍCULO 37.
 
@@ -453,19 +583,29 @@ IX.- Recabar la documentación y los datos necesarios para el Informe anual del
 
 Presidente;
 
-X.- Ejercer el control de procesos, a través de la Dependencia correspondiente;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-XI.- Enviar oportunamente las resoluciones de las Salas a sus Juzgados de origen;
+X.- Enviar oportunamente las resoluciones de las Salas a sus Juzgados de origen;
 
-XII.- Autenticar, certificar y legalizar la información y documentación oficial que por medios electrónicos se transmita;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-XIII.- Expedir y autenticar constancias de los asuntos del Tribunal y de los Juzgados que se encuentren en el Archivo del Poder Judicial;
+XI.- Autenticar, certificar y legalizar la información y documentación oficial que por medios electrónicos se transmita;
 
-XIV.- Recabar, autenticar y resguardar el registro de firmas de los funcionarios del Poder Judicial, y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-XV.- Llevar el registro, control y supervisión de los peritos adscritos al Tribunal Superior de Justicia, y
+XII.- Expedir y autenticar constancias de los asuntos del Tribunal y de los Juzgados que se encuentren en el archivo del Poder Judicial;
 
-XVI.- Las demás atribuciones que le señalen las Leyes, así como las que le señalen el Pleno y el Presidente.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XIII.- Recabar, autenticar y resguardar el registro de firmas de los funcionarios del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XIV.- Llevar el registro, control y supervisión de los peritos adscritos al Tribunal Superior de Justicia, y
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+XV.- Las demás atribuciones que le señalen las Leyes, así como las que le señalen el Pleno y el Presidente.
 
 ###### ARTÍCULO 38.
 
@@ -509,33 +649,29 @@ IV.- Remitir a la Secretaría General del Tribunal Superior de Justicia para su 
 
 V.- Realizar las certificaciones ordenadas en autos y en su caso asentar las razones que prevea la Ley;
 
-VI.- Expedir y autorizar copias certificadas y constancias de los expedientes a su cuidado;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-VII.- Controlar el cuidado de los valores, libros, expedientes, documentos, muebles y equipo que se encuentren en la Secretaria de Acuerdos de la Sala correspondiente;
+VI.- Tener el cuidado de los expedientes, causas penales, tocas, documentos, valores, sellos, libros, muebles y equipo que se encuentre en la Secretaría de Acuerdos de la Sala correspondientes;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+VII.- Resguardar los registros informáticos, de audio, video o documentales;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 VIII.- Coordinar y dirigir el trabajo del personal a su cargo;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 IX.- Remitir al archivo general los expedientes de segunda instancia concluidos, por acuerdo del Presidente de la Sala, y
 
-X.- Las demás que señalen esta ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+X.- Las demás que señalen esta Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 42.
-
-Son atribuciones de los Secretarios de Estudio y Proyecto las siguientes:
-
-I.- Elaborar los proyectos de resolución encomendados por el Magistrado de la Sala correspondiente, de acuerdo a las Leyes sustantivas, adjetivas, criterios jurisprudenciales y en su caso, con los principios generales aplicables;
-
-II.- Resguardar los tocas, expedientes y documentos que se le confían para estudio y elaboración del proyecto;
-
-III.- Examinar detalladamente las constancias procesales;
-
-IV.- Consultar la Legislación de la materia, la jurisprudencia aplicable y la doctrina jurídica, a efecto de que los proyectos de sentencia se apeguen al marco normativo vigente;
-
-V.- Presentar a la brevedad posible, los proyectos encomendados por el Magistrado, y
-
-VI.- Las demás que le señalen esta Ley y otras disposiciones aplicables.
-
-###### ARTÍCULO 43.
 
 Corresponde a los Secretarios de Amparos:
 
@@ -555,6 +691,24 @@ VII.- Notificar las resoluciones dictadas durante la substanciación de los juic
 
 VIII.- Las demás atribuciones que le señalen esta Ley y otros ordenamientos aplicables, así como las que le indique el Presidente de la Sala respectiva.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 43.
+
+Son atribuciones de los Secretarios de Estudio y Proyecto las siguientes:
+
+I.- Elaborar los proyectos de resolución encomendados por el Magistrado de la Sala correspondiente, de acuerdo a las Leyes sustantivas, adjetivas, criterios jurisprudenciales y en su caso, con los principios generales aplicables;
+
+II.- Resguardar los tocas, expedientes y documentos que se le confían para estudio y elaboración del proyecto;
+
+III.- Examinar detalladamente las constancias procesales;
+
+IV.- Consultar la Legislación de la materia, la jurisprudencia aplicable y la doctrina jurídica, a efecto de que los proyectos de sentencia se apeguen al marco normativo vigente;
+
+V.- Presentar, los proyectos encomendados por el Magistrado, y
+
+VI.- Las demás que le señalen esta Ley y otras disposiciones aplicables.
+
 ###### ARTÍCULO 44.
 
 Los Actuarios tendrán las siguientes atribuciones:
@@ -567,7 +721,7 @@ III.- Las demás que le señalen esta Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 45.
 
-El Consejo de la Judicatura podrá ordenar la creación de un órgano auxiliar competente para organizar, coordinar y supervisar las funciones actuariales desarrolladas en los Juzgados, a fin de contribuir a la impartición de justicia en forma expedita y eficiente.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2009)
 
 ### CAPÍTULO VIII. De la división territorial de los Distritos Judiciales
 
@@ -615,41 +769,35 @@ Por acuerdo del Consejo de la Judicatura se podrán establecer Juzgados en Munic
 
 ###### ARTÍCULO 47.
 
-Para efectos de competencia, los Juzgados del Fuero Común serán:
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2009)
 
-I.- Juzgados Civiles;
-
-II.- Juzgados Familiares:
-
-III.- Juzgados Civiles y Familiares;
-
-IV.- Juzgados Penales;
-
-V.- Juzgados Mixtos;
-
-VI.- Juzgados Mixtos Menores, y
-
-VII.- Juzgados Especializados en Justicia para Adolescentes.
-
-Cuando en un Distrito Judicial hubiere más de un Juzgado de la misma materia, serán numerados progresivamente.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 48.
 
-El Consejo de la Judicatura determinará el número de juzgados civiles, familiares, penales, mixtos y especializados en justicia para adolescentes en los distritos judiciales, atendiendo a las necesidades del servicio.
+El Consejo de la Judicatura determinará el número de juzgados que habrá en los Distritos Judiciales, en atención a las necesidades del servicio, cuya materia será determinada por acuerdo del Pleno del Tribunal Superior de Justicia.
 
-Los juzgados especializados en justicia para adolescentes de la ciudad de Pachuca de Soto, Hidalgo, tendrán jurisdicción y competencia Estatal; pudiendo crearse por acuerdo del Pleno General, los que por necesidades del servicio se requieran en otros distritos judiciales, con la competencia territorial que determine el propio Consejo de la Judicatura.
+Cuando en un Distrito Judicial hubiere más de un Juzgado de la misma materia, éstos serán numerados progresivamente.
+
+Los juzgados especializados en Justicia para Adolescentes con sede en la ciudad de Pachuca de Soto, tendrán competencia en todo el territorio del Estado, sin que ello obste para que se puedan crear juzgados de dicha especialidad en otros Distritos Judiciales, con la competencia territorial que determine el Pleno del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 49.
 
-Los juzgados, para el despacho de los asuntos de su competencia tendrán el personal siguiente:
+Los juzgados, para el despacho de los asuntos de su competencia, tendrán el personal siguiente:
 
 I.- Un Juez;
 
-II.- El número de Secretarios de Acuerdos que determine el Consejo de la Judicatura, tomando en consideración el volumen de asuntos judiciales que se tramiten en cada distrito y actuarán en la rama o ramas que se señalen en su nombramiento;
+II.- El número de secretarios de acuerdos que determine el Consejo de la Judicatura, con base en el volumen de asuntos judiciales que se tramiten en cada distrito. Lo anterior salvo lo dispuesto en el artículo séptimo último párrafo de la presente Ley;
 
-III.- El número de Actuarios que el volumen de negocios justifique, a juicio del Consejo de la Judicatura, en los distritos en donde no exista Coordinación de Actuarios. En caso de que no exista Actuario, el Secretario de Acuerdos llevará a cabo las diligencias que deban practicarse fuera del Juzgado, y
+III.- El número de actuarios que determine el Consejo de la Judicatura, a partir del volumen de asuntos judiciales que se lleven en cada distrito judicial, todo ello en los distritos en donde no exista Coordinación de Actuarios, y
 
 IV.- El personal administrativo que se requiera, de conformidad con el presupuesto asignado.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 49 BIS.- Los juzgados de la materia penal de carácter acusatorio, así como cualquier otro en el que se haya previsto un administrador de juzgado, se integrarán con los jueces y el personal administrativo y los actuarios que, de acuerdo con las necesidades del servicio, determine el Consejo de la Judicatura.
 
 ### CAPÍTULO IX. De los Jueces del Fuero Común
 
@@ -657,77 +805,281 @@ IV.- El personal administrativo que se requiera, de conformidad con el presupues
 
 Los Jueces del Fuero Común serán nombrados, adscritos, ratificados y removidos por el Consejo de la Judicatura.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 51.
 
-Los Jueces del Fuero Común del Estado, gozarán de independencia en el ejercicio de sus funciones y percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida.
+Los jueces del fuero común gozarán de independencia y autonomía en el ejercicio de sus funciones y percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 52.
 
-Para ser Juez del Fuero Común, deben satisfacerse los requisitos siguientes:
+Para ser Juez del fuero común, deben satisfacerse los requisitos siguientes:
 
 I.- Ser hidalguense en pleno ejercicio de sus derechos civiles y políticos;
 
-II.- Tener título de Licenciado en Derecho con cédula profesional;
+II.- Tener como mínimo veinticinco años de edad;
 
-III.- Tener como mínimo veinticinco años de edad;
+III.- Tener título de Licenciado en Derecho con cédula profesional;
 
 IV.- Acreditar práctica profesional mínima de cuatro años;
 
 V.- Gozar de buena reputación y no haber sido condenado en sentencia ejecutoriada por delito doloso, y
 
-VI.- Haber sido seleccionado a través del concurso de méritos, conforme a lo previsto en esta Ley, su Reglamento y demás disposiciones legales.
+VI.- Haber sido seleccionado a través del concurso de méritos correspondiente, conforme a lo previsto en esta Ley, la convocatoria respectiva y las demás disposiciones aplicables, con respecto (sic) irrestricto a la carrera judicial.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 53.
 
-Son atribuciones de los Jueces del Fuero Común:
+Además de las atribuciones que les corresponden por materia, son atribuciones de los jueces del fuero común, con excepción de lo previsto en el Artículo 64 bis de la presente Ley:
 
 I.- Substanciar y resolver los litigios de su competencia;
 
-II.- Practicar las diligencias que les encomiende el Pleno, el Presidente o las Salas y que deban verificarse dentro de su respectivo distrito judicial;
+II.- Cumplir y hacer cumplir, sin demora y con estricto apego a la Ley, sus propias determinaciones, las del Tribunal Superior de Justicia y, en su caso, las de las Autoridades Judiciales de la Federación;
 
 III.- Tomar la protesta de Ley a los funcionarios y empleados de su Juzgado;
 
 IV.- Vigilar que el personal de su adscripción desempeñe debidamente sus funciones y verificar que se cumpla con las disposiciones administrativas que dicte el Consejo de la Judicatura;
 
-V.- Mantener el orden y exigir que se guarde el respeto y consideración debidos, por parte del personal a sus órdenes o de los litigantes y personas que acudan a los Juzgados;
+V.- Mantener el orden y exigir que se guarde el respeto y consideración debidos, por parte del personal a sus órdenes o de los litigantes y personas que acudan a los juzgados;
 
-VI.- Vigilar que el manejo de los fondos que provengan de fianzas o depósitos hechos en el juzgado, se lleve a cabo de conformidad con las disposiciones emitidas por el Consejo de la Judicatura y dictar las medidas que estime necesarias para asegurar la protección de los valores;
+VI.- Vigilar el adecuado manejo de los valores relativos al juzgado, para lo cual deberá de observarse las disposiciones emitidas por el Consejo de la Judicatura;
 
-VII.- Atender sin demora, salvo que exista causa justificada, al público que desee tratarle un asunto relacionado con los negocios que se ventilen en el juzgado a su cargo;
+VII.- Vigilar que se lleven escrupulosamente los registros manuales o electrónicos respecto al control de expedientes radicados en su juzgado y emitir los informes estadísticos que solicite el Consejo de la Judicatura;
 
-VIII.- En el caso de los Jueces en materia Penal y Mixtos que conozcan de esta materia, practicar dentro de los cinco primeros días de cada mes la visita al Centro de Readaptación Social que corresponda, a fin de entrevistarse con los internos que están a su disposición, y reportar las irregularidades que adviertan al Presidente del Tribunal Superior de Justicia;
+VIII.- Atender sin demora, salvo que exista causa justificada, al público que desee tratarle un asunto relacionado con los negocios que se ventilen en el juzgado a su cargo;
 
-IX.- Practicar las diligencias que les fueren solicitadas por otros Jueces, cuando estuvieren apegadas a derecho;
+IX.- En el caso de los jueces penales, mixtos y de cuantía menor, practicar, dentro de los cinco primeros días de cada visita al Centro de reinserción Social que corresponda, a fin de entrevistarse con los imputados que están a su disposición;
 
-X.- Ordenar la remisión al archivo del Poder Judicial de los expedientes concluidos, y
+X.- Practicar las diligencias que les fueren solicitadas por otros jueces y por las salas del Tribunal Superior de Justicia cuando estuvieren apegadas a derecho, informando a la brevedad su debido cumplimiento;
 
-XI.- Las demás que les encomienden la presente Ley y otras disposiciones aplicables.
+XI.- Ordenar la remisión al Archivo del Poder Judicial de los expedientes concluidos, y
+
+XII.- Las demás que les encomienden la presente Ley y otras disposiciones aplicables.
+
+Todo lo anterior, salvo lo previsto en el Artículo 64 bis de la presente ley.
 
 ###### ARTÍCULO 54.
 
 En caso de faltas temporales del Juez, lo suplirá el primer Secretario de Acuerdos o el existente, quien actuará con testigos de asistencia.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+Los jueces penales, y especializados para adolescentes, de carácter acusatorio, no podrán ser sustituidos por los secretarios de acuerdos en ningún caso. Las ausencias temporales y accidentales de estos jueces serán cubiertas por un Juez de la misma jerarquía de acuerdo con el orden y distribución de trabajo que el Consejo de la Judicatura determine. Los jueces penales y especializados en justicia para adolescentes de juicio oral no podrán ser sustituidos durante el desarrollo del juicio.
+
 ### CAPÍTULO X. De la competencia de los Jueces del Fuero Común
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 55.
 
-Los jueces integrantes del Tribunal Superior de Justicia conocerán de los asuntos que por razón de fuero, territorio, materia, cuantía o punibilidad, les señalen los códigos sustantivos, adjetivos y de los que por jurisdicción concurrente o auxiliar les confieran otras Leyes. La contravención a esta disposición, dará lugar al procedimiento correspondiente.
+Los Jueces del fuero común conocerán en primera instancia de los asuntos que les corresponda conforme a lo previsto en la presente Ley y en las normas contenidas en los códigos sustantivos y adjetivos de la Entidad y de los que por jurisdicción concurrente, delegada o auxiliar les confieran otras Leyes y demás disposiciones aplicables.
 
-Los jueces mixtos conocerán de los asuntos referidos en el párrafo anterior, en los Distritos Judiciales donde no exista Juzgado Especializado por materia.
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-En los distritos donde no exista Juzgado de lo Familiar, serán competentes los Jueces Civiles o Mixtos.
+ARTÍCULO 55 BIS.- Para efectos de competencia, los juzgadores del fuero común serán:
+
+I.- Jueces Civiles;
+
+II.- Jueces Familiares;
+
+III.- Jueces Mercantiles;
+
+IV.- Jueces Civiles y Familiares;
+
+V.- Jueces Penales;
+
+VI.- Jueces Penales de Control;
+
+VII.- Jueces Penales de Juicio Oral;
+
+VIII.- Jueces Penales de Ejecución;
+
+IX.- Jueces Especializados en Justicia para Adolescentes;
+
+X.- Jueces de Control Especializados en Justicia para Adolescentes;
+
+XI.- Jueces de Juicio Oral Especializados en Justicia para Adolescentes;
+
+XII.- Jueces de Ejecución Especializados en Justicia para Adolescentes;
+
+XIII.- Jueces Mixtos, y
+
+XIV.- Jueces de Cuantía Menor.
+
+Los jueces comprendidos en las fracciones VI, VIII, X y XII actuarán en forma unitaria, en tanto que los jueces previstos en las fracciones VII y XI lo harán en forma colegiada, siempre con tres jueces.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 56.
 
-Los jueces mixtos menores ejercerán jurisdicción en el Distrito Judicial donde se establezcan; tendrán competencia para conocer en materia civil y mercantil de los asuntos cuya cuantía no exceda de trescientos días de Salario mínimo vigente en el Estado.
+Salvo los asuntos que correspondan a los jueces de Cuantía Menor, los Jueces en materia Civil serán competentes para conocer:
 
-En materia penal, tendrán la competencia que les fije el Código de Procedimientos Penales.
+I.- De las controversias y procedimientos que se susciten con motivo del cumplimiento y aplicación de las normas contenidas en el Código Civil para el Estado de Hidalgo y en general de todo litigio planteado en las vías previstas en el Código de Procedimientos Civiles para el Estado de Hidalgo;
 
-Carecen de competencia para conocer de asuntos del orden familiar o de justicia especializada para adolescentes.
+II.- En general, de todo proceso, procedimiento o vía que tenga el carácter de civil;
 
-En los distritos Judiciales donde no exista Juzgado Mixto Menor, serán competentes los Jueces Civiles, Penales y Mixtos.
+III.- De los demás asuntos que les encomienden las Leyes y demás disposiciones aplicables.
 
-Los Juzgados Especializados en Justicia para Adolescentes, conocerán de los asuntos que se establecen en la Ley de la materia.
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 56 A.- Salvo los asuntos que correspondan a los jueces de Cuantía Menor, los jueces en materia Mercantil serán competentes para conocer:
+
+I.- De los litigios que se susciten con motivo del cumplimiento y aplicación de Leyes Federales cuando las mismas sólo afecten intereses particulares y deriven de actos de comercio o se hallen sujetos a las Leyes Mercantiles, de conformidad con lo previsto en el Artículo 104, fracción I, de la Constitución Política de los Estados Unidos Mexicanos;
+
+II.- De los demás asuntos que les encomienden las Leyes y demás disposiciones aplicables;
+
+En los Distritos Judiciales en donde no exista Juez de lo Mercantil, los jueces que conozcan de la materia civil serán competentes para conocer de lo anteriormente mencionado en este Artículo.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 56 B.- Los jueces en materia Familiar serán competentes para conocer:
+
+I.- De los litigios que se susciten con motivo del cumplimiento y aplicación de las normas contenidas en la Ley para la Familia del Estado de Hidalgo y en general de todo litigio planteado en las vías previstas en el Código de Procedimientos Familiares para el Estado de Hidalgo;
+
+II.- De los demás asuntos que les encomienden las Leyes y demás disposiciones aplicables.
+
+En los Distritos Judiciales en donde no exista Juez de lo Familiar, los jueces que conozcan de lo civil serán competentes para conocer de lo anteriormente mencionado en este Artículo.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 56 C.- Los Jueces en materia Civil y Familiar serán competentes para conocer de todos los asuntos mencionados en los Artículos 56 y 56-B.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 56 D.- Los Jueces de lo Penal serán competentes para conocer:
+
+I.- De los asuntos del orden penal;
+
+II.- De las diligencias de rogatorias, suplicatorias, requisitorias y despachos librados con motivo de un juicio o procedimiento de carácter penal, y
+
+III.- De los demás asuntos que les señalen las Leyes.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 56 E.- Los Jueces Penales de Control tienen las siguientes atribuciones:
+
+I.- Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar las actuaciones que priven o restrinjan los derechos asegurados por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo y los convenios y tratados internacionales vigentes en el País;
+
+II.- Dirigir las audiencias preliminares a juicio y resolver los incidentes y las solicitudes que se promueven en ellas;
+
+III.- Resolver sobre la situación jurídica de los imputados;
+
+IV.- Autorizar los acuerdos para la reparación que alcancen las partes;
+
+V.- Resolver sobre la suspensión del proceso a prueba;
+
+VI.- Decidir sobre las medidas cautelares impuestas a los imputados;
+
+VII.- Procurar la solución del conflicto a través de medidas alternas, con las limitaciones que establezca la Ley;
+
+VIII.- Dirigir la audiencia intermedia y dictar el auto de apertura a juicio oral;
+
+IX.- Dictar sentencia en el procedimiento abreviado, y
+
+X.- Las demás que les otorgue la Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 56 F.- Los jueces integrantes de los Tribunales de Juicio Oral de la materia penal tendrán las siguientes atribuciones:
+
+I.- Conocer y decidir los procesos sometidos a su conocimiento;
+
+II.- Resolver las cuestiones que se presenten durante el juicio;
+
+III.- Redactar la sentencia con base en las pruebas presentadas durante la audiencia de juicio;
+
+IV.- Las demás que le otorgue la Ley y demás disposiciones aplicables, y
+
+V.- Los jueces penales de juicio oral podrán ejercer la función de jueces de ejecución de penas, dentro del distrito judicial o circuito correspondiente, con la posibilidad de prorrogar su competencia territorial, de conformidad con los acuerdos generales que para tal efecto dicte el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 56 G.- Los Jueces Penales de ejecución tendrán las facultades previstas en las Leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 56 H.- Los Jueces Especializados en Justicia para Adolescentes conocerán:
+
+I.- De los asuntos que les señalen la Ley especializada en la materia;
+
+II.- De las diligencias de exhorto, rogatorias, suplicatorias, requisitorias y despachos librados con motivo de los asuntos de su competencia, y
+
+III.- De los demás asuntos que les señalen las Leyes y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+Artículo 56 I.- Corresponde a los Jueces de Garantía de Justicia Especializada para Adolescentes las siguientes atribuciones:
+
+I.- Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar las actuaciones que priven o restrinjan los derechos asegurados por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo y los Convenios y tratados Internacionales vigentes en el País;
+
+II.- Dirigir las audiencias preliminares a juicio y resolver los incidentes y las solicitudes que se promueven en ellas;
+
+III.- Resolver sobre la situación jurídica de los imputados;
+
+IV.- Autorizar los acuerdos para la reparación que alcancen las partes;
+
+V.- Resolver sobre la suspensión del proceso a prueba;
+
+VI.- Decidir sobre las medidas cautelares impuestas a los imputados;
+
+VII.- Procurar la solución del conflicto a través de medidas alternas, con las limitaciones que establezca la Ley;
+
+VIII.- Dirigir la audiencia intermedia y dictar el auto de apertura a juicio oral, y
+
+IX.- De los demás asuntos que les señalen las Leyes y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 56 J.- Los jueces integrantes de los tribunales de juicio oral de la materia especializada en justicia para adolescentes:
+
+I.- Conocer y decidir los procesos sometidos a su conocimiento;
+
+II.- Resolver las cuestiones que se presenten durante el juicio;
+
+III.- Dictar sentencia con base en las pruebas presentadas durante la audiencia de juicio, y
+
+IV.- Las demás que le otorgue la Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 56 K.- Corresponde a los Jueces de Ejecución de Justicia Especializada para Adolescentes:
+
+I.- Controlar que la ejecución de toda medida sancionadora sea de conformidad con la sentencia definitiva que la impuso, garantizando la legalidad y demás derechos y garantías que asisten al adolescente durante la ejecución de la medida;
+
+II.- Revisar las medidas sancionadoras a solicitud de parte, o de oficio, por lo menos una vez cada seis meses para, en su caso, modificarlas o sustituirlas por otras menos graves, cuando no cumplan con los objetivos para los que fueron impuestas o por ser contrarias al proceso de reinserción social del adolescente;
+
+III.- Controlar el otorgamiento o denegación de cualquier beneficio relacionado con las medidas impuestas en la sentencia definitiva;
+
+IV.- Ordenar la cesación de la medida sancionadora una vez transcurrido el plazo fijado por la sentencia;
+
+V.- Atender las solicitudes que hagan los adolescentes sancionados, cuando así lo amerite la situación, y resolver lo que corresponda; así como resolver el recurso de inconformidad en los términos en los que señala la Ley;
+
+VI.- Visitar los centros especializados de internamiento, por lo menos dos veces al mes;
+
+VII.- Vigilar la legalidad de la ejecución de la detención preventiva y ejercer todas las facultades que sean aplicables, y
+
+VIII.- Las demás atribuciones que esta Ley y otras disposiciones le asignen.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 56 L.- Los juzgados Mixtos serán competentes para conocer de todos los asuntos mencionados en los Artículos 56, 56-A, 56-B Y 56-D.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 56 M.- Los juzgados de Cuantía Menor podrán ser mixtos o especializados. En materia penal, tendrán la competencia que les fije el Código de Procedimientos Penales para el Estado de Hidalgo. En las materias civil y mercantil conocerán de todos los asuntos mencionados en los Artículos 56 y 56-A cuando la cuantía de aquéllos no exceda del importe de trescientos días de salario mínimo general vigente en el estado al tiempo de la interposición de la demanda o del escrito que le dé comienzo al procedimiento respectivo.
+
+Carecen de competencia para conocer de asuntos del orden familiar o de justicia especializada para adolescentes, así como para los asuntos competencia de los jueces penales de control, de juicio oral y de ejecución.
+
+En los distritos judiciales en donde no exista Juzgado de Cuantía Menor, los jueces que conozcan de lo civil o de lo penal, según sea el caso, serán competentes para conocer de lo anteriormente mencionado en este Artículo.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 56 N.- Cuando en un distrito existan más de un juzgado de la misma especialidad, los asuntos de su competencia se distribuirán por turno, mismo que estará establecido de modo que aleatoriamente se asignen asuntos a cada Juzgado a fin de que los mismos se distribuyan de modo equitativo y proporcional entre ellos.
+
+En el caso de los jueces de control, de juicio oral y de ejecución de materia penal y de justicia especializada para adolescentes los asuntos se distribuirán conforme a las bases que emita en (sic) Consejo de la Judicatura.
 
 ### CAPÍTULO XI. De las Excusas y Recusaciones
 
@@ -743,77 +1095,19 @@ Los Magistrados del Tribunal Superior de Justicia, serán sustituidos en el cono
 
 En caso de excusa o recusación de Magistrados, en asuntos que deba resolver el Pleno General, cuando se desintegre la mayoría, la sustitución la hará el Presidente, designando a cualquiera de los Jueces del Fuero Común.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 60.
 
-En caso de excusa o recusación de algún Juez del Fuero Común, se estará a lo siguiente:
+En los distritos judiciales en donde hubiere más de un Juez de la misma materia, si uno de ellos deja de conocer por impedimento, recusación o excusa, conocerá del asunto el Juez de la misma materia que le siga en número. Si el que faltare fuere el último, será sustituido por el que en orden numérico sea el primero y así sucesivamente.
 
-I.- Tratándose de asuntos penales, conocerá el Juez que designe la Sala Penal que resuelva, y
+En los distritos en donde hubiere sólo un Juez de la misma materia o en donde todos los jueces de la misma materia de un distrito judicial estuvieren impedidos, serán suplidos por el Juez de la materia que corresponda del distrito más próximo y si en éste hubiere varios, el que corresponda conforme al turno.
 
-II.- Tratándose de asuntos civiles y familiares los mismos pasarán:
-
-a).- Del Juzgado Primero Civil y Familiar de Actopan, al Juzgado Segundo Civil y Familiar de ese distrito judicial del Juzgado Segundo Civil y Familiar de Actopan al Juzgado Primero Civil y Familiar del mismo Distrito Judicial;
-
-b).- Del Juzgado Primero Civil y Familiar de Apan al Juzgado Segundo Civil y Familiar de ese distrito judicial y del Juzgado Segundo Civil y Familiar de Apan al Juzgado Primero Civil y Familiar del mismo distrito judicial;
-
-c).- Del Juzgado de Atotonilco El Grande al Juzgado mixto de Metztitlán;
-
-d).- Del Juzgado de Huejutla de Reyes al Juzgado Mixto de Molango de Escamilla;
-
-e).- Del Juzgado de Huichapan al Juzgado de Ixmiquilpan;
-
-f).- Del Juzgado de Ixmiquilpan al Juzgado Mixto de Zimapán;
-
-g).- Del Juzgado de Jacala de Ledezma al Juzgado Mixto de Zimapán;
-
-h).- Del Juzgado de Metztitlán al Juzgado de Zacualtipán de Ángeles;
-
-i).- Del Juzgado Mixquiahuala de Juárez al Juzgado Primero Civil y Familiar de
-
-Actopan, cuando se trate de asuntos del orden civil;
-
-j).- Del Juzgado de Mixquiahuala de Juárez al Juzgado Segundo Civil y Familiar de Actopan, cuando se trate de asuntos del orden familiar;
-
-k).- Del Juzgado de Molango de Escamilla al Juzgado de Zacualtipán de Ángeles;
-
-l).- Del Juzgado Primero Civil de Pachuca de Soto al Juzgado Segundo Civil de Pachuca de Soto;
-
-m).- Del Juzgado Segundo Civil de Pachuca de Soto al Juzgado Tercero Civil de Pachuca de Soto;
-
-n).- Del Juzgado Tercero Civil de Pachuca de Soto, al Juzgado Cuarto Civil de Pachuca de Soto;
-
-ñ).- Del Juzgado Cuarto Civil de Pachuca de Soto al Juzgado Quinto Civil de Pachuca de Soto;
-
-o).- Del Juzgado Quinto Civil de Pachuca de Soto al Juzgado Sexto Civil de Pachuca de Soto;
-
-p).- Del Juzgado Sexto Civil de Pachuca de Soto al Juzgado Primero Civil de Pachuca de Soto;
-
-q).- Del Juzgado Primero Familiar de Pachuca de Soto al Juzgado Segundo Familiar de Pachuca de Soto;
-
-r).- Del Juzgado Segundo Familiar de Pachuca de Soto al Juzgado Tercero Familiar de Pachuca de Soto;
-
-s).- Del Juzgado Tercero Familiar de Pachuca de Soto al Juzgado Primero Familiar de Pachuca de Soto;
-
-t).- Del Juzgado Mixto de Tenango de Doria al Juzgado Civil y Familiar de Tulancingo de Bravo, en turno;
-
-u).- Del Juzgado Civil y Familiar de Tizayuca al Juzgado Civil o Familiar en turno de Pachuca de Soto;
-
-v).- Del Juzgado Primero Civil y Familiar de Tula de Allende al Juzgado Segundo Civil y Familiar de ese Distrito Judicial, del Juzgado Segundo Civil y Familiar de Tula de Allende al Juzgado Tercero Civil y Familiar de ese Distrito Judicial y del Juzgado Tercero Civil y Familiar de Tula de Allende al Juzgado Primero Civil y Familiar del mismo distrito judicial;
-
-w).- Del Juzgado Mixto de Tepeji del Río de Ocampo al Juzgado Civil y Familiar de Tula de Allende, en turno;
-
-x).- Del Juzgado Primero Civil y Familiar de Tulancingo al Juzgado Segundo Civil y Familiar de ese distrito judicial, del Juzgado Segundo Civil y Familiar de Tulancingo al Juzgado Tercero Civil y Familiar de ese Distrito Judicial, y del Juzgado Tercero Civil y Familiar de Tulancingo al Juzgado Primero Civil y Familiar del mismo distrito judicial;
-
-y).- Del Juzgado de Zacualtipán de Ángeles al Juzgado de Molango de Escamilla; y
-
-z).- Del Juzgado de Zimapán al Juzgado de Jacala de Ledezma.
-
-Si por alguna razón el expediente tuviera que volver al Juzgado de origen, la Sala correspondiente del Tribunal Superior de Justicia resolverá sobre el Juzgado que deberá conocer; tomando en cuenta las cargas de trabajo de los mismos.
-
-Para el caso de creación de un nuevo juzgado, la Sala que corresponda resolverá sobre el juzgado que deberá conocer por excusa o recusación. En el distrito donde existan dos o más juzgados, conocerá el que determine el turno.
+En el caso de los jueces de control, de juicio oral y de ejecución de materia penal y de justicia especializada para adolescentes los asuntos se distribuirán conforme a las bases que emita en (sic) Consejo de la Judicatura.
 
 ###### ARTÍCULO 61.
 
-Tratándose de juzgados mixtos menores, se seguirá el mismo procedimiento a que se refiere el Artículo anterior, donde no hubiese juzgado mixto menor conocerá el de primera instancia del fuero común.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2009)
 
 ### CAPÍTULO XII. De los Secretarios y Actuarios de los Juzgados
 
@@ -825,35 +1119,49 @@ Los funcionarios mencionados en este Artículo, serán nombrados por el Presiden
 
 Las faltas temporales de un Secretario serán suplidas por el otro, en su defecto constatarán las actuaciones del juzgador dos testigos de asistencia.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 63.
 
-Son atribuciones de los Secretarios de Acuerdos de los Juzgados del Fuero Común:
+Son atribuciones de los secretarios de acuerdos de los juzgados del fuero común:
 
-I.- Dar fe de las resoluciones que emita el juez y de las demás actuaciones que se lleven a cabo en los asuntos a su cargo;
+I.- Dar fe de las resoluciones que emita el Juez y de las demás actuaciones que se lleven a cabo en los asuntos a su cargo;
 
-II.- Practicar las diligencias que el Juez ordene, previstas por la Ley;
+II.- Autorizar con su firma los exhortos, despachos, actas, diligencias, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por el Juez;
 
-III.- Recibir los escritos que se les presenten, asentando en el calce la razón del día y hora de su presentación, precisando las hojas que contengan y los documentos anexos;
+III.- Asentar en los expedientes las certificaciones y las demás razones que exprese la Ley o el Juez les ordene;
 
-IV.- Dar cuenta diariamente al Juez, dentro de las veinticuatro horas siguientes a la de la presentación, de los escritos y promociones en los negocios que sean de la competencia de aquellos, con los oficios y demás documentos que se reciban en el Juzgado;
+IV.- Expedir las copias certificadas que la Ley determine o deban darse de los expedientes del Juzgado;
 
-V.- Expedir y autorizar certificaciones y constancias de expedientes a su cargo;
+V.- Practicar las diligencias que el Juez ordene;
 
-VI.- Cuidar los libros, expedientes, documentos, muebles y demás objetos que se encuentren en el juzgado bajo su responsabilidad. El mismo cuidado deberán observar tratándose de títulos, valores, fianzas, certificados de depósito y numerario exhibidos por las partes, que deberán guardar en el secreto del juzgado en el que actúe;
+VI.- Realizar y constatar las notificaciones, citaciones y similares cuando se encuentren presentes los interesados en el local del Juzgado o en ausencia del actuario;
 
-VII.- Dirigir y vigilar los trabajos del personal del juzgado, distribuyendo convenientemente las labores;
+VII.- Amén de la existencia de Oficialía de Partes, recibir los escritos, oficios y similares que se dirijan y presenten al Juzgado;
 
-VIII.- Suplir en las ausencias temporales al Juez, en los términos de la presente Ley;
+VIII.- Dar cuenta diariamente al Juez de los escritos, oficios y similares, así como de sus anexos, que se dirijan y presenten al Juzgado, en su caso, con los respectivos proyectos de acuerdo, dentro de las veinticuatro horas siguientes a la de su presentación;
 
-IX.- Asentar en los expedientes las certificaciones, razones o constancias que el Juez ordene conforme a la Ley;
+IX.- Inventariar y conservar en su poder los expedientes mientras no se remitan a la sede central del Archivo del Poder Judicial, cuidando y vigilando que el archivo del Juzgado se arregle por orden numérico, respecto de cada expediente y demás documentos, formando las secciones debidas;
 
-X.- Hacer personalmente a las partes y demás sujetos procedimentales, las notificaciones, citaciones y otras actuaciones que resulten procedentes, cuando se encuentren presentes con motivo del asunto;
+X.- Preparar la remisión a la sede central del Archivo del Poder Judicial, a la superioridad o a la instancia que corresponda de los expedientes, en sus respectivos casos;
 
-XI.- Remitir los expedientes al Archivo del Poder Judicial;
+XI.- Guardar en el secreto del juzgado los pliegos cerrados y documentos exhibidos cuando así lo disponga la Ley o el Juez;
 
-XII.- Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia del Juzgado, y
+XII.- Tener el cuidado de los expedientes, libros, sellos, causas penales, documentos, valores, muebles y equipo que se encuentren en el juzgado bajo su responsabilidad. En el caso de valores exhibidos por las partes deberán entregarlos sin demora al Juez para su debido resguardo;
 
-XIII.- Las demás que le confieran la presente Ley, otras disposiciones aplicables y los órganos competentes del Poder Judicial.
+XIII.- Tener a su cargo y llevar al corriente, bajo su responsabilidad, los libros de gobierno, así como los demás libros necesarios para el funcionamiento del juzgado y los sistemas y registros electrónicos que sean debidos, todo de conformidad con las normas reglamentarias y demás normas aplicables;
+
+XIV.- Proporcionar a los interesados los expedientes que soliciten para informarse del estado de los mismos, para tomar apuntes o para cualquier otro efecto legal siempre que no estén en poder de los actuarios, sin que se puedan extraer de la oficina;
+
+XV.- Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia del Juzgado;
+
+XVI.- Dirigir y vigilar los trabajos del personal del Juzgado, distribuyendo convenientemente las labores;
+
+XVII.- Realizar las tareas que el Juez les asigne;
+
+XVlII.- Suplir en las ausencias temporales al Juez, en los términos de la presente Ley, y
+
+XIX.- Las demás que le confieran la presente Ley, otras disposiciones aplicables y los órganos competentes del Poder Judicial.
 
 ###### ARTÍCULO 64.
 
@@ -873,13 +1181,51 @@ VI.- Redactar de manera clara y con letra legible las constancias y diligencias 
 
 VII.- Las que establezcan la presente Ley y demás disposiciones aplicables.
 
-### CAPÍTULO I. Disposiciones Generales
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+### CAPÍTULO XIII. De los Administradores de Juzgado
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
+ARTÍCULO 64 BIS.- En los juzgados de la materia penal de carácter acusatorio, así como en los otros que así lo disponga el Consejo de la Judicatura, habrá un Administrador de Juzgado que tendrá las siguientes atribuciones:
+
+I.- Realizar labores de jefatura de la oficina donde estuviere asignado;
+
+II.- Vigilar y controlar la conducta de los actuarios, así como del personal administrativo, a fin de que ajusten su actuación a lo dispuesto por las Leyes;
+
+III.- Proveer, en la esfera administrativa, la programación de las diligencias a desarrollarse en las salas de audiencia a su cargo y, en general, todas las medidas necesarias para la buena marcha de los juzgados o tribunales;
+
+IV.- Remitir, en forma mensual y anual, al Consejo de la Judicatura los informes estadísticos sobre el movimiento de los asuntos habidos en los juzgados o tribunales en donde ejerce funciones administrativas, así como cualquier otro que al respecto se le solicite;
+
+V.- Tener bajo su custodia los locales de los juzgados o tribunales de su adscripción, los de las salas de audiencias que les correspondan así como la conservación de los bienes asignados a los mismos, debiendo poner en inmediato conocimiento del Coordinador General de Administración, cualquier deterioro que sufran;
+
+VI.- Custodiar los bienes y valores que se encuentren a disposición de los juzgados o tribunales con motivo de la tramitación de los asuntos de los juzgados o tribunales en donde ejerce funciones administrativas;
+
+VII.- Entregar y recibir bajo riguroso inventario los bienes y valores a que se refieren las dos últimas fracciones;
+
+VIII.- Organizar y controlar el archivo general del Juzgado, el cual contará con un área especial para la guarda, custodia y conservación de los archivos, documentos e información almacenada en medios ópticos, magnéticos, informáticos o telemáticos que deriven de procesos penales del sistema acusatorio a fin de garantizar su integridad y autenticidad;
+
+IX.- Atender las solicitudes del público para consultar los registros de los procesos penales que no se encuentren en reserva;
+
+X.- Distribuir los asuntos entre los jueces por turno riguroso, de acuerdo con las bases previamente autorizadas por el Consejo de la Judicatura, y
+
+XI.- Las demás que determine la Ley o demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+
+ARTÍCULO 64 TER.- Para ser Administrador de Juzgado se requiere:
+
+I.- Ser mayor de veinticinco años;
+
+II.- Ser licenciado en administración u otra materia afín;
+
+III.- No haber sido condenado en sentencia ejecutoriada por delito doloso, y
+
+IV.- Acreditar el proceso de selección que determine el Consejo de la Judicatura.
 
 ## TÍTULO TERCERO. Del Tribunal Fiscal Administrativo
 
-### CAPÍTULO II
-
-Del Pleno del Tribunal Fiscal Administrativo.
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 65.
 
@@ -953,9 +1299,9 @@ Cuando uno de los Magistrados no estuviere de acuerdo con la mayoría, podrá ex
 
 Los Magistrados únicamente podrán abstenerse de votar cuando tengan impedimento legal.
 
-### CAPÍTULO III
+### CAPÍTULO II
 
-Del Presidente.
+Del Pleno del Tribunal Fiscal Administrativo.
 
 ###### ARTÍCULO 78.
 
@@ -1023,17 +1369,17 @@ X.- Despachar la correspondencia del Pleno, y
 
 XI.- Las demás obligaciones, funciones y atribuciones que le señalen la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
 
-### CAPÍTULO IV
+### CAPÍTULO III
 
-De las Salas Unitarias.
+Del Presidente.
 
 ###### ARTÍCULO 82.
 
 Las Salas, Fiscal y Administrativa, funcionarán unitariamente en Primera Instancia. Conocerán y resolverán los asuntos de sus respectivas materias. El Presidente, no intervendrá en controversias de Primera Instancia.
 
-### CAPÍTULO V
+### CAPÍTULO IV
 
-Del Personal.
+De las Salas Unitarias.
 
 ###### ARTÍCULO 83.
 
@@ -1071,7 +1417,9 @@ III.- El recurso de reclamación, conforme a lo dispuesto por la Ley de la mater
 
 IV.- Los demás asuntos de su competencia que señalen las Leyes aplicables.
 
-### CAPÍTULO VI. De la Unidad Administrativa
+### CAPÍTULO V
+
+Del Personal.
 
 ###### ARTÍCULO 85.
 
@@ -1169,7 +1517,7 @@ V.- Remitir los expedientes concluidos, de Primera y Segunda Instancias, al Arch
 
 VI.- Las demás obligaciones y atribuciones dispuestas por esta Ley, la Ley Orgánica del Tribunal Fiscal Administrativo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables o las que le señalen el Presidente del Tribunal o el Secretario General.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VI. De la Unidad Administrativa
 
 ###### ARTÍCULO 93.
 
@@ -1203,7 +1551,7 @@ IX.- Las demás obligaciones que le confieran las Leyes, así como las que seña
 
 ## TÍTULO CUARTO. Del Tribunal Electoral
 
-### CAPÍTULO II. Del Pleno
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 96.
 
@@ -1263,7 +1611,7 @@ XI.- Informar a la ciudadanía sobre sus actividades relativas a los Procesos El
 
 XII.- Las demás obligaciones, atribuciones y facultades que le señalen las leyes.
 
-### CAPÍTULO III. Del Presidente
+### CAPÍTULO II. Del Pleno
 
 ###### ARTÍCULO 102.
 
@@ -1305,7 +1653,7 @@ XII.- Constituirse en Consejo Editorial para estructurar el Órgano de Difusión
 
 XIII.- Las demás obligaciones, facultades y atribuciones que le confieran esta Ley, el Reglamento Interior del Tribunal y los ordenamientos aplicables.
 
-### CAPÍTULO IV. Del Secretario General, de los Secretarios de Sala, De los Actuarios y de la Oficialía de Partes
+### CAPÍTULO III. Del Presidente
 
 ###### ARTÍCULO 105.
 
@@ -1347,7 +1695,7 @@ XIV.- Proponer al Pleno, para su aprobación, el nombramiento del Jefe de la Uni
 
 XV.- Las demás atribuciones que le confieran esta Ley, el Reglamento Interior y los ordenamientos aplicables.
 
-### CAPÍTULO V. De la Unidad Administrativa
+### CAPÍTULO IV. Del Secretario General, de los Secretarios de Sala, De los Actuarios y de la Oficialía de Partes
 
 ###### ARTÍCULO 107.
 
@@ -1477,7 +1825,7 @@ VIII.- Auxiliar al Secretario General del Tribunal, en la elaboración del manua
 
 IX.- Las demás obligaciones y atribuciones dispuestas por esta Ley, el Reglamento Interior del Tribunal y los ordenamientos aplicables o le señalen el Presidente del Tribunal o el Secretario General.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. De la Unidad Administrativa
 
 ###### ARTÍCULO 115.
 
@@ -1515,7 +1863,7 @@ XI.- Las demás obligaciones y atribuciones que le señalen esta ley, el Preside
 
 ## TÍTULO QUINTO. De la Jurisprudencia de los Tribunales del Poder Judicial
 
-### CAPÍTULO I. Del Consejo de la Judicatura del Poder Judicial
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 118.
 
@@ -1533,6 +1881,10 @@ El Director del Instituto de Profesionalización e Investigaciones Jurídicas de
 
 La Jurisprudencia que establezca el Poder Judicial, es obligatoria para el Tribunal que la emitió tratándose de la que decrete el Pleno correspondiente y además, para las Salas y para los Juzgados, en su caso, las resoluciones constituirán Jurisprudencia, siempre que lo resuelto en ellas se sustente en tres sentencias no interrumpidas por otra en contrario y que hayan sido aprobadas por unanimidad de votos de los Magistrados integrantes del órgano emisor.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+En los casos de criterios contradictorios sustentados por las Salas del Tribunal, el Pleno resolverá, bastando para ello la denuncia respectiva de las partes afectadas, de los propios Magistrados o Jueces, el que definirá cuál criterio debe prevalecer, en un plazo no mayor de 60 días naturales, contados a partir de dicha denuncia. La resolución correspondiente deberá Publicarse.
+
 También constituyen Jurisprudencia las resoluciones que diluciden las contradicciones de tesis de Salas del Tribunal Superior de Justicia.
 
 ###### ARTÍCULO 122.
@@ -1541,7 +1893,7 @@ Las ejecutorias y los votos particulares de los Magistrados, que con ello se rel
 
 ## TÍTULO SEXTO. De la Administración del Poder Judicial
 
-### CAPÍTULO II. De los Órganos Auxiliares
+### CAPÍTULO I. Del Consejo de la Judicatura del Poder Judicial
 
 ###### ARTÍCULO 123.
 
@@ -1567,37 +1919,55 @@ Cada Comisión quedará integrada por el número de Consejeros que determine el 
 
 Los consejeros no podrán abstenerse de votar, sino cuando tengan impedimento legal.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 126.
 
-Además de las funciones previstas en el Artículo 100 Ter de la Constitución Política del Estado de Hidalgo, el Pleno del Consejo de la Judicatura tendrá las siguientes atribuciones:
+Además de las funciones previstas en el Artículo 100 ter. de la Constitución Política del Estado de Hidalgo, el Pleno del Consejo de la Judicatura tendrá las siguientes atribuciones:
 
-I.- Ejercer el Presupuesto de Egresos del Poder Judicial y llevar el registro contable del presupuesto autorizado al Poder Judicial;
+I.- Convocar a los concursos de oposición y procesos de selección que prevea la Ley;
 
-II.- Establecer las comisiones que considere pertinentes para su funcionamiento, designar a los consejeros que deban integrarlas y a quien deba presidirlas;
+II.- Ejercer el presupuesto de egresos del Poder Judicial y llevar el registro contable del presupuesto autorizado al Poder Judicial;
 
-III.- Expedir y modificar su reglamento interior;
+III.- Establecer las comisiones que considere pertinentes para su funcionamiento, designar a los consejeros que deban integrarlas y a quien deba presidirlas;
 
-IV.- Conceder licencias mayores de quince días, con excepción de las previstas para Magistrados;
+IV.- Crear los órganos auxiliares y dependencias que se estimen pertinentes para el debido desempeño de las funciones del propio Consejo;
 
-V.- Expedir y modificar el Reglamento de la Ley Orgánica del Poder Judicial, así como los demás ordenamientos que sean necesarios para regular las áreas administrativas;
+V.- Ordenar la creación de un órgano auxiliar competente para organizar, coordinar y supervisar las funciones actuariales desarrolladas en los Juzgados, a fin de contribuir a la impartición de justicia en forma expedita y eficiente;
 
-VI.- Expedir y modificar los Reglamentos Interiores de sus órganos auxiliares, así como nombrar y remover a sus titulares;
+VI.- Acordar, dentro de las posibilidades presupuestales, la conformación de juzgados penales de carácter acusatorio con los jueces que sean necesarios para una mejor prestación del servicio judicial, quienes actuarán de forma unitaria o colegiada, de conformidad con lo dispuesto por la Ley. En estos casos, el Pleno podrá designar, a propuesta del Presidente, a uno de los jueces en calidad de coordinador;
 
-VII.- Imponer correcciones disciplinarias a los abogados, procuradores, peritos y litigantes, cuando en sus promociones o de forma verbal falten al respeto a algún servidor público del Poder Judicial; si la conducta lo amerita podrán consignar las actas correspondientes al Ministerio Público para los efectos legales que procedan;
+VII.- Expedir y modificar las normas reglamentarias del Consejo y los órganos de la competencia de éste;
 
-VIII.- Fijar los períodos de vacaciones que deban disfrutar los funcionarios y empleados del Poder Judicial;
+VIII.- Conceder licencias mayores de quince días, con excepción de las previstas para Magistrados;
 
-IX. Administrar los bienes muebles e inmuebles del Poder Judicial;
+IX.- Nombrar y remover a los titulares de los órganos auxiliares del Consejo;
 
-X. Representar al Poder Judicial en lo relativo a relaciones laborales;
+X.- Designar al Juez de Control que deba suplir a otro en sus ausencias temporales y habilitar a jueces para que integren tribunales de juicio oral en una diversa circunscripción territorial al de su adscripción, en cuyo caso ésta no se verá modificada, por lo cual se reincorporarán al lugar de su adscripción una vez realizada la comisión para la que fueron habilitados;
 
-XI.- Coordinar administrativamente a Tribunales, Juzgados y Dependencias del Poder Judicial;
+XI.- Dictar las disposiciones necesarias para la integración de los tribunales orales en materia penal de de (sic) carácter acusatorio;
 
-XII.- Dictar las disposiciones necesarias para la recepción, control y destino de los bienes asegurados y decomisados;
+XII.- Nombrar a los administradores de juzgado y determinar su adscripción;
 
-XIII.- Calificar las excusas e impedimentos de los integrantes de las comisiones, y
+XIII.- Imponer correcciones disciplinarias a los abogados, procuradores, peritos y litigantes, cuando en sus promociones o de forma verbal falten al respeto a algún servidor público del Poder Judicial; si la conducta lo amerita podrá remitir las actas correspondientes al Ministerio Público para los efectos legales que procedan;
 
-XIV.- Las demás que señale la Ley.
+XIV.- Fijar los períodos de vacaciones que deban disfrutar los funcionarios y empleados del Poder Judicial;
+
+XV.- Administrar los bienes muebles e inmuebles del Poder Judicial;
+
+XVI.- Representar al Poder Judicial en lo relativo a relaciones laborales;
+
+XVII.- Coordinar administrativamente a juzgados y dependencias del Poder Judicial;
+
+XVIII.- Dictar las disposiciones necesarias para la recepción, control y resguardo de los bienes asegurados;
+
+XIX.- Calificar legalmente los impedimentos de los integrantes del Consejo;
+
+XX.- Ordenar la Publicación de los acuerdos del propio Pleno cuando se estime que son de interés general;
+
+XXI.- Ordenar la práctica de visitas extraordinarias de inspección a los juzgados y demás órganos y dependencias del Consejo de la Judicatura, y
+
+XXII.- Las demás que señale esta Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 127.
 
@@ -1625,7 +1995,7 @@ IX.- Hacer del conocimiento del Congreso del Estado Libre y Soberano de Hidalgo 
 
 X.- Recibir quejas o informes sobre demora, excesos, omisiones o cualesquiera otra irregularidad en que incurran los funcionarios y empleados de los Juzgados de Primera Instancia, en el despacho de los asuntos que les competen, dictando las medidas pertinentes y oportunas para su corrección y cuando así corresponda, dar vista a la Comisión de Disciplina o formular las denuncias respectivas, en caso de la probable comisión de un delito;
 
-XI.- Efectuar y ordenar la práctica de visitas a Distritos Judiciales, para vigilar la correcta impartición de justicia.
+XI.- (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2009)
 
 XII.- Presidir la Comisión de Administración del propio Consejo;
 
@@ -1653,11 +2023,13 @@ VI.- Legalizar las firmas de los funcionarios judiciales, y
 
 VII.- Las demás que le otorgue la presente ley y el propio Consejo.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 129.
 
-La Contraloría, la Coordinación General de Administración, la Visitaduría, el Instituto de Profesionalización e Investigaciones Jurídicas, la Coordinación de Planeación y Programas y el Centro Estatal de Justicia Alternativa serán órganos auxiliares del Consejo de la Judicatura, además de aquellos que de acuerdo con sus funciones, sean necesarios.
+La Contraloría, la Unidad de Información Pública Gubernamental, la Oficina Servicios Auxiliares para Medidas Cautelares, la Coordinación General de Administración, la Visitaduría, el Instituto de Profesionalización e Investigaciones Jurídicas, la Coordinación de Planeación y Programas, serán órganos auxiliares del Consejo de la Judicatura, además de aquellos que de acuerdo con sus funciones, sean necesarios.
 
-### CAPÍTULO I. De los Servidores Públicos
+### CAPÍTULO II. De los Órganos Auxiliares
 
 #### Sección Primera. De la Contraloría
 
@@ -1671,7 +2043,9 @@ II.- Llevar el registro y seguimiento de las declaraciones patrimoniales de los 
 
 III.- Recibir, tramitar y en su caso, resolver las quejas que se presenten en contra de los funcionarios y empleados del Poder Judicial;
 
-IV.- Ejecutar las resoluciones que emita el Pleno del Consejo de la Judicatura y de los Tribunales del Poder Judicial, respecto de las sanciones que se impongan a jueces o Magistrados según corresponda, así como conocer y resolver tratándose de los demás servidores públicos del Poder Judicial;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+IV.- Ejecutar las resoluciones que emitan los Tribunales del Poder Judicial y el Pleno del Consejo de la Judicatura, respecto de las sanciones que se impongan a jueces o Magistrados según corresponda, así como conocer y resolver tratándose de los demás servidores públicos del Poder Judicial;
 
 V.- Practicar auditorías operacionales, contables o administrativas en los Juzgados y demás dependencias del Poder Judicial, e
 
@@ -1687,23 +2061,125 @@ II.- Ser licenciado en derecho y con experiencia mínima de cuatro años en el e
 
 III.- No haber sido sentenciado por delito doloso que merezca pena privativa de libertad mayor de un año o por delito cometido por los servidores públicos.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 132.
 
 Serán competentes para conocer de las responsabilidades de los Servidores Públicos del Poder Judicial, así como para aplicar las sanciones a que se refiere el Artículo 182 de esta Ley:
 
-I.- El Pleno de cada uno de los Tribunales que integran el Poder Judicial, en el ámbito de su competencia, tratándose de faltas de los Magistrados, y
+I.- El Pleno de cada uno de los Tribunales que integran el Poder Judicial, en el ámbito de su competencia, tratándose de faltas de los Magistrados;
 
-II.- El Consejo de la Judicatura, tratándose de servidores públicos, en los casos no comprendidos en la fracción anterior.
+II.- El Pleno del Consejo de la Judicatura, en el ámbito de su competencia, trátandose de faltas de los Consejeros;
 
-Siempre que de un mismo acto se derive responsabilidad por una falta grave de un Magistrado y otros Servidores Públicos del Poder Judicial, se estará a lo previsto en la fracción I de este Artículo.
+III.- El Consejo de la Judicatura, tratándose de servidores públicos, en los casos no comprendidos en la fracción anterior;
 
-El Representante del Poder Judicial, deberá hacer del conocimiento de la Contraloría del Poder Judicial, los casos en los que le resulte competencia, en los procedimientos de responsabilidad.
+IV.- Siempre que de un mismo acto se derive responsabilidad por una falta grave de un Magistrado y otros Servidores Públicos del Poder Judicial, se estará a lo previsto en la fracción I de este Articulo, y
 
-#### Sección Segunda. De la Coordinación General de Administración
+V.- El Representante del Poder Judicial, deberá hacer del conocimiento de la Contraloría del Poder Judicial, los casos en los que le resulte competencia, en los procedimientos de responsabilidad.
 
-#### Sección Tercera. De la Visitaduría Judicial
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-#### Sección Cuarta. Del Instituto de Profesionalización e Investigaciones Jurídicas
+#### Sección Segunda. De la Unidad de Información Pública Gubernamental
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 132 A.- La Unidad de Información Pública Gubernamental es un órgano auxiliar del Consejo de la Judicatura y tiene como objetivo mostrar a la ciudadanía, la transparencia sobre la actuación del Poder Judicial a través de la difusión y acceso a la información pública generada por cada una de sus dependencias, ser el vínculo entre los sujetos obligados y el solicitante, siendo además la encargada de tramitar internamente la solicitud de información, teniendo la responsabilidad de verificar en cada caso, que la misma no sea confidencial o reservada.
+
+Estará a cargo de un Titular designado por el Presidente del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 132 B.- Para ser titular de la Unidad de Información Pública Gubernamental, se requiere:
+
+I.- Ser hidalguense en pleno goce de sus derechos civiles y políticos;
+
+II.- Tener título de licenciatura y como mínimo cuatro años de experiencia profesional;
+
+III.- Ser de reconocida solvencia moral, y
+
+IV.- No haber sido sentenciado por delito doloso.
+
+Para el cumplimiento de sus atribuciones se estará a lo dispuesto por la Ley de la materia y demás disposiciones reglamentarias.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+#### Sección Tercera. De la Oficina de Servicios Auxiliares de Medidas Cautelares
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 132 C.- La Oficina de Servicios Auxiliares para Medidas Cautelares es un órgano auxiliar del Consejo de la Judicatura que tiene por objeto proporcionar a los jueces de control y de juicio oral la información necesaria para decidir sobre la necesidad de imponer, modificar o extinguir medidas cautelares, de modo que el imputado cumpla con sus obligaciones procesales.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 132 D.- La Oficina de Servicios Auxiliares para Medidas Cautelares tendrá las siguientes facultades y obligaciones:
+
+I.- Entrevistar al imputado previamente a la realización de cualquier audiencia sobre medidas cautelares, para obtener información relevante para decidir sobre las medidas cautelares. Antes de empezar la entrevista, el funcionario del servicio auxiliar debe hacerle saber el objetivo de la entrevista, que tiene derecho a que su defensor esté presente durante la misma, que puede abstenerse de suministrar información y que aquélla que proporcione no podrá ser usada para demostrar su culpabilidad. La entrevista se podrá llevar a cabo sin la presencia del defensor, si el imputado lo consiente;
+
+II.- Verificar la información proporcionada por el imputado y recolectar aquella otra que sea relevante para decidir o modificar las medidas, de modo tal que éstas resulten adecuadas para que el imputado cumpla con sus obligaciones procesales. La información deberá incluir datos sobre la historia personal del imputado, sus lazos con la comunidad, relaciones familiares, amistades, empleos, lugares de residencia, estudios, antecedentes penales, y cualquier otra información pertinente;
+
+III.- Elaborar reportes para el Juez que contengan la información recabada en sus indagaciones, así como sus observaciones y recomendaciones sobre la necesidad y el tipo de medidas cautelares que sería necesario imponer al imputado para asegurar la protección e integridad de la víctima, de los testigos o de terceros; el desarrollo de la investigación o la comparecencia del imputado al proceso. En caso de urgencia el reporte podrá hacerse de manera verbal en una audiencia ante el Juez con la presencia de las partes. Cuando la publicidad afecte innecesariamente los derechos del imputado, a solicitud de éste, la audiencia podrá celebrarse en privado, siempre que sea grabada y preservada en el registro, bajo reserva, hasta que no exista justificación para levantarla;
+
+IV.- Entregar a las partes, al inicio de la audiencia en la que se discutan medidas cautelares, copias de los reportes relacionados con las mismas y recogerlos al término de la audiencia;
+
+V.- Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a la prisión preventiva, vigilar el estricto cumplimiento por parte del imputado de las obligaciones impuestas, y hacer recomendaciones sobre cualquier cambio que amerite alguna modificación de las medidas; y
+
+VI.- Las demás que determine la Ley o demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 132 E.- Para cumplir con sus facultades de supervisión y vigilancia de medidas cautelares, los servicios auxiliares podrán:
+
+I.- Establecer las condiciones y la periodicidad en que los imputados deben reportarse, canalizar a los imputados a servicios sociales de asistencia, públicos o privados, en materia de salud, empleo, educación, vivienda y apoyo jurídico;
+
+II.- Realizar visitas no anunciadas en los domicilios o lugares de trabajo de los imputados;
+
+III.- Requerir que los imputados proporcionen muestras para detectar el posible uso de alcohol, en su caso, o de drogas prohibidas;
+
+IV.- Supervisar que las personas e instituciones a las que el Juez encargue el cuidado del imputado, cumplan las obligaciones contraídas; y solicitar a los imputados informes y reportes que sean necesarios para verificar el cumplimiento de las condiciones impuestas;
+
+V.- Revisar y recomendar el cambio de las condiciones de las medidas impuestas al imputado, de oficio o a solicitud de parte, cuando cambien las circunstancias originales que sirvieron de base para imponer la medida;
+
+VI.- Informar al Juez de cualquier violación a las medidas y condiciones impuestas y recomendar las modificaciones que estime pertinentes;
+
+VII.- Realizar estudios estadísticos sobre el nivel del cumplimiento y efectividad de las medidas cautelares impuestas por los jueces;
+
+VIII.- Solicitar y proporcionar información a las oficinas con funciones similares de la Federación o de los Estados, y
+
+IX.- Las demás que determine la Ley o demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 132 F.- Al frente de la Oficina de Servicios Auxiliares para Medidas Cautelares habrá un Director designado por el Pleno del Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 132 G.-·Para ser Director de la Oficina de Servicios Auxiliares para Medidas Cautelares se requiere:
+
+I.- Tener veinticinco años cumplidos;
+
+II.- Contar con título universitario afín a las tareas de su encomienda;
+
+III.- No haber sido condenado en sentencia ejecutoriada por delito doloso, y
+
+IV.- Acreditar el proceso de selección que elabore el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 132 H.- Para ser entrevistador o supervisor de la Oficina de Servicios Auxiliares para Medidas Cautelares se deberá:
+
+I.- Tener veinticinco años cumplidos;
+
+II.- Contar con título universitario afín a las tareas de su encomienda;
+
+III.- No haber sido condenado en sentencia ejecutoriada por delito doloso, y
+
+IV.- Acreditar el examen de aptitud que elabore el Consejo de la Judicatura.
+
+Los funcionarios de la Oficina de Servicios Auxiliares para Medidas Cautelares se someterán cada tres años a un examen de control de confianza.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION SEGUNDA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+#### Sección Cuarta. De la Coordinación General de Administración
 
 ###### ARTÍCULO 133.
 
@@ -1793,13 +2269,17 @@ IV.- Proporcionar al Consejo Académico del Instituto de Profesionalización e I
 
 V. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones de los servidores públicos del Poder Judicial.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 140.
 
-La Dirección de Servicios Generales será la área encargada de organizar, dirigir y controlar los servicios de intendencia, mantenimiento, seguridad y vigilancia de los edificios y oficinas del Poder Judicial, de sus muebles y útiles de trabajo.
+La Dirección de Servicios Generales será el área encargada de organizar, dirigir y controlar los servicios de intendencia, mantenimiento, seguridad y vigilancia de los edificios y oficinas del Poder Judicial, de sus muebles y útiles de trabajo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 141.
 
-La Dirección de Administración y Finanzas será la área encargada de:
+La Dirección de Administración y Finanzas será el área encargada de:
 
 I.- Hacer las adquisiciones de bienes y proporcionar los servicios que se requiera para el funcionamiento del Poder Judicial;
 
@@ -1815,7 +2295,9 @@ VI.- Llevar el inventario de bienes muebles e inmuebles afectos al destino de la
 
 VII.- Llevar el control de transporte y equipo y de adoptar las providencias necesarias para el eficiente manejo administrativo del Poder Judicial.
 
-#### Sección Quinta. De la Coordinación General de Planeación y Programas
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION TERCERA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+#### Sección Quinta. De la Visitaduría Judicial
 
 ###### ARTÍCULO 142.
 
@@ -1857,13 +2339,17 @@ IV.- Revisar los libros de los juzgados o área visitada a efecto de determinar 
 
 V.- Hacer constar, de acuerdo a la competencia del juzgado que revisen, el número de asuntos penales, civiles o familiares que hayan ingresado al órgano visitado durante el tiempo comprendido entre visitas;
 
-VI. Examinar las causas o expedientes formados con motivo de asuntos penales, civiles o familiares, según el caso, a fin de verificar que su trámite se desahogue con apego a la Ley.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+VI.- Examinar las causas o expedientes formados con motivo de asuntos penales, civiles o familiares, según el caso, a fin de verificar que su trámite se desahogue con apego a la Ley, absteniéndose de hacer observaciones de aspectos jurisdiccionales.
 
 Las visitas extraordinarias se realizaran para casos en particular y bajo los lineamientos que indique el Consejo de la Judicatura, quien decidirá la fecha de su práctica.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 146.
 
-Las visitas ordinarias se realizaran dos veces por año y para el efecto se elaborará el calendario respectivo, el cual se notificara al Consejo de la Judicatura con un mínimo de quince días de anticipación a la fecha señalada para la visita.
+Las visitas ordinarias se realizarán por lo menos una vez por año y para el efecto se elaborará el calendario respectivo, el cual se notificara al Consejo de la Judicatura con un mínimo de quince días de anticipación a la fecha señalada para la visita. Mediante oficio se comunicará al órgano visitado para que lo Publique en la entrada principal de las instalaciones que ocupa, para el efecto de que quienes tengan interés jurídico puedan acudir a la visita para manifestar, en caso de existir, alguna inconformidad, las cuales deberán ser turnadas al órgano competente.
 
 Mediante oficio se comunicará al órgano visitado para que lo publique en la entrada principal de las instalaciones que ocupa, para el efecto de que quienes tengan interés jurídico puedan acudir a la visita para manifestar, en caso de existir, alguna inconformidad, las cuales deberán ser turnadas al órgano competente.
 
@@ -1871,15 +2357,23 @@ Las visitas podrán diferirse por decisión del Consejo de la Judicatura, lo cua
 
 De toda visita de inspección deberá levantarse acta circunstanciada.
 
-#### Sección Sexta. Del Centro Estatal de Justicia Alternativa
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION CUARTA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+#### Sección Sexta. Del Instituto de Profesionalización e Investigaciones Jurídicas
 
 ###### ARTÍCULO 147.
 
 El Instituto de Profesionalización e Investigaciones Jurídicas es el órgano auxiliar del Consejo de la Judicatura en materia de profesionalización, capacitación, formación, actualización, especialización y desarrollo de programas de investigación jurídica, evaluación de los servidores públicos y participación de quienes aspiren a serlo.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+Para la consecución de tales fines funcionara un Comité Académico en términos del reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 148.
 
-El Instituto de Profesionalización e Investigaciones Jurídicas estará a cargo de un Director, quien será nombrado por el Consejo de la Judicatura y deberá cumplir con los mismos requisitos que la Ley señala para ser Juez.
+El Instituto de Profesionalización e Investigaciones Jurídicas estará a cargo de un Director, quien será nombrado por el Presidente del Consejo de la Judicatura y deberá cumplir con los mismos requisitos que la Ley señala para ser Juez.
 
 ###### ARTÍCULO 149.
 
@@ -1901,17 +2395,25 @@ VII.- Elaborar el proyecto de presupuesto anual del Instituto, para su aprobaci�
 
 Poder Judicial;
 
-VIII.- Expedir y firmar constancias a quienes cumplan con los requisitos que se exijan para los cursos, talleres, seminarios, diplomados y demás programas desarrollados por el instituto;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+VIII.- Expedir y firmar títulos y constancias a quienes cumplan con los requisitos que se exijan para los cursos, talleres, seminarios, diplomados y demás programas desarrollados por el Instituto;
 
 IX.- Establecer y mantener comunicación permanente con Instituciones de Educación Superior, Centros de Investigación y otros institutos similares, y
 
 X.- Las demás que le señale la presente Ley y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 150.
 
-Los programas que habrá de desarrollar el Instituto de Profesionalización e Investigaciones Jurídicas, previamente sometidos a la consideración del Consejo de la Judicatura, deberán ser aprobados por la Secretaría de Educación Pública del Estado de Hidalgo.
+Los programas que habrá de desarrollar el Instituto de Profesionalización e Investigaciones Jurídicas, previamente sometidos a la consideración del Consejo de la Judicatura y deberán ser aprobados por las autoridades educativas correspondientes.
 
 Los cursos de capacitación, especialización, actualización y formación avalados por su programa académico, así como las convocatorias, serán determinados por el Consejo de la Judicatura.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION QUINTA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+#### Sección Séptima. De la Coordinación General de Planeación y Programas
 
 ###### ARTÍCULO 151.
 
@@ -1947,19 +2449,19 @@ VI.- Coordinar y supervisar el funcionamiento de las tareas en materia de modern
 
 VII.- Las demás que le confieran las disposiciones legales vigentes en la Entidad y sus superiores jerárquicos, en la esfera de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 154.
 
 La Coordinación de Planeación y Programas tendrá bajo su adscripción a:
 
-I.- La Unidad de Transparencia;
+I.- La Dirección de Modernización y Sistemas, y
 
-II.- La Dirección de Modernización y Sistemas, y
-
-III.- El Archivo Judicial de Gestión.
+II.- El Archivo Judicial de Gestión.
 
 ###### ARTÍCULO 155.
 
-La Unidad de Transparencia es un órgano adscrito a la Coordinación General de Planeación y Programas, la cual estará a cargo de un Titular designado por el Presidente del Tribunal Superior de Justicia, cuyo objeto es mostrar a la ciudadanía la transparencia sobre la actuación del Poder Judicial a través de la difusión y acceso a la información pública generada por cada una de sus Dependencias.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 156.
 
@@ -1969,9 +2471,13 @@ La Dirección de Modernización y Sistemas es un órgano adscrito a la Coordinac
 
 El Archivo del Poder Judicial en su vertiente de Archivo de Concentración se integra con todos los expedientes del Tribunal Superior de Justicia y Juzgados del Fuero Común.
 
-## TÍTULO SÉPTIMO. Disposiciones Generales
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-### CAPÍTULO II. Del Ingreso y promoción de los Servidores Públicos
+## TÍTULO SÉPTIMO. De la Justicia Alternativa
+
+((ADICIONADO [N. DE E. REUBICADO, ANTES SECCION SEXTA DEL TITULO SEXTO, P.O. 16 DE NOVIEMBRE DE 2009)
+
+### CAPÍTULO ÚNICO. Del Centro Estatal de Justicia Alternativa
 
 ###### ARTÍCULO 158.
 
@@ -2005,7 +2511,11 @@ V.- Intercambiar experiencias sobre el Sistema de Justicia Alternativa, con inst
 
 VI.- Las demás que le confieran los ordenamientos legales.
 
-### CAPÍTULO III. De la Inamovilidad
+> <small>(ADICIONADO [N. DE E. REUBICADO Y REFORMADA SU DENOMINACION, ANTES TITULO SEPTIMO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+## TÍTULO OCTAVO. De los Servidores Públicos del Poder Judicial
+
+### CAPÍTULO I. De los Servidores Públicos
 
 ###### ARTÍCULO 162.
 
@@ -2017,11 +2527,13 @@ Los Magistrados, Consejeros de la Judicatura y Jueces, no podrán proponer como 
 
 En caso de urgencia, el Presidente del Consejo de la Judicatura, podrá hacer la designación para cubrir provisionalmente las vacantes de Jueces.
 
-### CAPÍTULO IV. De las Responsabilidades de los Servidores Públicos
+### CAPÍTULO II. Del Ingreso y promoción de los Servidores Públicos
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 164.
 
-El ingreso y la promoción de los servidores públicos del Poder Judicial se hará mediante el sistema de carrera judicial, la cual se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia y antigüedad, en su caso.
+El ingreso y la promoción de los servidores públicos del Poder Judicial, en su caso, se harán mediante los concursos de oposición, los procesos de selección, los exámenes de aptitud y demás medios que al efecto se señalen, siempre, regidos por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia y antigüedad.
 
 ###### ARTÍCULO 165.
 
@@ -2045,13 +2557,17 @@ VII.- Juez.
 
 El ingreso y promoción para las categorías de la Carrera Judicial se realizará conforme al procedimiento de los concursos de oposición convocados por el Consejo de la Judicatura.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+Con la excepción prevista por el Artículo 100 Ter fracción tercera de la Constitución Política del Estado de Hidalgo y conforme a Las (sic) previstas en el Reglamento de la presente Ley.
+
 ###### ARTÍCULO 167.
 
 Los concursos de oposición se desarrollará en cuatro etapas: Examen escrito, evaluación psicométrica, examen práctico y entrevista, sujetándose al siguiente procedimiento:
 
-I.- El pleno del Consejo de la Judicatura emitirá una convocatoria que deberá ser
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-Publicada en cualquiera de los medios de difusión;
+I.- El Pleno del Consejo de la Judicatura emitirá una convocatoria que deberá ser Publicada en cualquiera de los medios de difusión; en la convocatoria se deberá especificar si el concurso se tratará de oposición libre o de concurso interno de oposición;
 
 II.- La convocatoria señalará las categorías y número de vacantes sujetas a concurso, el lugar, día y hora en que se llevarán a cabo los exámenes, así como el plazo, lugar de inscripción y demás elementos que se estimen necesarios;
 
@@ -2071,6 +2587,10 @@ IX. Cuando ningún sustentante alcance el puntaje mínimo requerido, el concurso
 
 X. Concluido el proceso de selección, se levantará una acta final circunstanciada y se dictaminará quienes son los concursantes con mayores méritos para ocupar las plazas en concurso. El Presidente del jurado enviará al Pleno del Consejo de la Judicatura el acta con la documentación de respaldo necesaria, para que se proceda a la designación y toma protesta conducentes.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+De acuerdo con las características del puesto objeto del concurso, el Consejo de la Judicatura podrá establecer, como parte del procedimiento, que los aspirantes tomen determinados cursos o programas académicos y, en su caso, se sometan a pruebas de confianza.
+
 ###### ARTÍCULO 168.
 
 El jurado que participe en las etapas del concurso de oposición, estará integrado por:
@@ -2081,27 +2601,35 @@ II. Un Magistrado;
 
 III. Un Juez; y
 
-IV. El Director del Instituto de Profesionalización e Investigaciones Jurídicas.
+IV.- (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2009)
 
 Por cada miembro titular se nombrará un suplente designado por el propietario.
 
 A los miembros del jurado les serán aplicables los impedimentos establecidos en esta Ley, los cuales serán calificados por el propio Jurado.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 168 BIS.- El Administrador de Juzgado y el Director de la Oficina de Servicios Auxiliares de Medidas Cautelares, así como los demás servidores públicos que prevea la Ley, serán designados mediante un proceso de selección cuyas bases elaborará el Consejo de la Judicatura y que considerará, además de los requisitos específicos que el puesto requiera, la idoneidad del aspirante para el desempeño de las funciones y su experiencia administrativa.
+
+El proceso de selección consistirá en la acreditación de los exámenes de conocimientos, de las pruebas de control de confianza, y, en su caso, de los cursos o programas de capacitación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 169.
 
-La celebración y organización de los exámenes de aptitud para designar a los auxiliares administrativos, estarán a cargo de la Coordinación General de Administración.
+La celebración y organización de los exámenes de aptitud para designar a los auxiliares administrativos estará a cargo de la Coordinación General de Administración, conforme a las bases que al efecto emita el Consejo de la Judicatura.
 
 Los exámenes de aptitud se realizarán a petición del titular del órgano en donde exista la vacante, en igualdad de circunstancias deberá preferirse a quienes se encuentren en las categorías inmediatas inferiores. Igualmente podrán solicitar que se practique un examen de aptitud, las personas interesadas en ingresar al Poder Judicial, quienes de aprobarlo serán consideradas en la lista de espera, para ser tomados en cuenta en caso de presentarse una vacante en alguna de las categorías de referencia.
 
 ###### ARTÍCULO 170.
 
-Para ocupar cualquiera de las categorías de Secretario de Amparos de Sala, Secretario de Acuerdos de Sala y Secretario de Estudio y Proyecto se deberá contar con experiencia profesional de al menos dos años y satisfacer los demás requisitos exigidos para ser Juez.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2009)
 
 ###### ARTÍCULO 171.
 
-Los Secretarios y Actuarios de los Juzgados serán nombrados conforme a las disposiciones relativas a la Carrera Judicial.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2009)
 
-### CAPÍTULO V. De las Faltas Oficiales
+### CAPÍTULO III. De la Inamovilidad
 
 ###### ARTÍCULO 172.
 
@@ -2119,7 +2647,7 @@ Transcurridos los ocho años, adquirirán el carácter de inamovibles.
 
 Podrán obtener su jubilación al totalizar 60 años sumando su edad a los años en el servicio público, sin embargo, si el juez desea continuar, podrá hacerlo hasta por diez años más, de conformidad con lo dispuesto en el Reglamento de la presente Ley.
 
-### CAPÍTULO VI. Estímulos y Sanciones
+### CAPÍTULO IV. De las Responsabilidades de los Servidores Públicos
 
 ###### ARTÍCULO 174.
 
@@ -2145,7 +2673,7 @@ Ningún funcionario o empleado del Poder Judicial, podrá tener ocupación que t
 
 Ningún nombramiento de la Administración de Justicia recaerá en representantes de culto religioso, ascendientes, descendientes, cónyuge o colaterales hasta el cuarto grado por consanguinidad, o segundo por afinidad, de quien lo haga.
 
-### CAPÍTULO VII. De los Días Hábiles, Vacaciones y Licencias
+### CAPÍTULO V. De las Faltas Oficiales
 
 ###### ARTÍCULO 180.
 
@@ -2178,6 +2706,8 @@ XII.- Retrasar en forma evidente y sin justificación plenamente probada, las ac
 XIII.- Las previstas en el Articulo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional, y
 
 XIV.- Las demás que determinen las Leyes.
+
+### CAPÍTULO VI. Estímulos y Sanciones
 
 ###### ARTÍCULO 181.
 
@@ -2273,6 +2803,8 @@ Cuando el proceso administrativo disciplinario se instaure en contra de Secretar
 
 El proceso administrativo disciplinario referido en el Artículo anterior, se tramitará en los términos señalados para la queja administrativa previstos en esta misma Ley.
 
+### CAPÍTULO VII. De los Días Hábiles, Vacaciones y Licencias
+
 ###### ARTÍCULO 195.
 
 Son días hábiles todos los días del año, con excepción de los sábados y domingos, así como aquellos que la Ley de los Trabajadores al Servicio del Estado, Municipios y Órganos Descentralizados del Estado de Hidalgo y las Leyes locales expresamente lo señalen.
@@ -2332,3 +2864,17 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su Publicación (sic) en el Periódico Oficial del Estado.
+
+SEGUNDO.- Hasta en tanto no se expidan las Leyes respectivas o sean promulgadas las reformas que permitan el inicio del nuevo Sistema de Justicia Penal, todos los asuntos y procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones vigentes antes de su expedición.
+
+TERCERO.- Los Jueces y Magistrados en materia penal de carácter acusatorio, actuarán sin Secretarios de Acuerdos, sin testigos de asistencia y tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video, o se transcriban por escrito. Asimismo, podrán ordenar la expedición de las copias certificadas que la Ley determine.
+
+CUARTO.- En un término no mayor de un año, deberá expedirse el Reglamento de la Ley contenida en este decreto.
+
+QUINTO.- se derogan todas las disposiciones que se opongan al presente Decreto.
