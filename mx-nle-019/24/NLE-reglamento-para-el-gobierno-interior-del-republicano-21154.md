@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-republicano-21154"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-12"
-last_updated: "2007-08-27"
+last_updated: "2009-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de marzo de 2001.
 
@@ -407,11 +407,11 @@ II. Extraordinarias.
 
 III. Solemnes.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 27.
 
-Serán ordinarias las sesiones que, en los términos de la Ley respectiva, se celebrarán los segundo y cuarto (sic) martes de cada mes, comenzando por regla general a las 8:00 horas y terminando a las 11:00 horas, pudiendo cambiarse con previo aviso, notificación y convocatoria realizadas con 48 horas de anticipación, con la facultad de cambiar día y hora según las condiciones correspondientes.
+Serán ordinarias las sesiones que, en los términos de la Ley respectiva, se celebrarán los segundo y cuarto (sic) martes de cada mes, en un horario comprendido entre las 16:00 - dieciséis horas y las 19:00 - diecinueve horas, pudiendo cambiarse con previo aviso, notificación y convocatoria realizadas con 48 horas de anticipación, el día y hora, según las condiciones correspondientes.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
@@ -695,7 +695,13 @@ I.- De Gobierno y Reglamentación, que será presidida por el Sindico Segundo.
 
 II.- De Hacienda y Patrimonio Municipal, que será presidida por el Síndico Primero.
 
-III.- De Infraestructura y Servicios Públicos.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+III.- De Servicios Públicos.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+III BIS.- De Obras Públicas.
 
 IV.- De Desarrollo Social.
 
@@ -705,13 +711,19 @@ VI.- De Honor y Justicia.
 
 VII.- De Participación Ciudadana.
 
-VIII.- De Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-IX.- De Seguridad Pública y Vialidad.
+VIII.- De Control Urbano.
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+IX.- De Seguridad Municipal.
 
 X.- Medio Ambiente e Imagen Urbana.
 
 XI.- De Transparencia.
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 XII.- Todas las demás que determine el Ayuntamiento en el ejercicio de sus atribuciones, que se consideren necesarias para el eficaz despacho de los asuntos Municipales.
 
@@ -755,17 +767,25 @@ II.- De Hacienda y Patrimonio Municipal
 
 8. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-III.- De Infraestructura y Servicios Públicos.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-1. Vigilar que se cumplan los acuerdos del Ayuntamiento en materia de servicios públicos.
+III.- De Servicios Públicos.
+
+1. Vigilar que se cumplan los acuerdos del Republicano Ayuntamiento en materia de servicios públicos.
 
 2. Fomentar la cultura de limpieza y conservación del alumbrado público, calles y banquetas.
 
-3. Vigilar que se cumplan los acuerdos del Ayuntamiento en materia de obra pública.
+3. Las demás que determine el Republicano Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-4. Evaluar la obra pública municipal.
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-5. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
+III BIS.- De Obras Públicas.
+
+1. Vigilar que se cumplan los acuerdos del Republicano Ayuntamiento en materia de obra pública.
+
+2. Evaluar la obra pública municipal.
+
+3. Las demás que determine el Republicano Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
 IV.- De Desarrollo Social.
 
@@ -809,7 +829,9 @@ VII.- De Participación Ciudadana.
 
 4. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-VIII.- De Desarrollo Urbano.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+VIII.- De Control Urbano.
 
 1. Las conferidas en los Reglamentos de la materia.
 
@@ -821,7 +843,9 @@ VIII.- De Desarrollo Urbano.
 
 5. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-IX.- De Seguridad Pública y Vialidad.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+
+IX.- De Seguridad Municipal.
 
 1. Fomentar medidas de orden público a los ciudadanos.
 
@@ -1110,3 +1134,13 @@ Artículo Primero. Las presentes Reformas por Modificación y Adición al Reglam
 Artículo Segundo. Los Reglamentos que se encuentren en proceso de aprobación, modificación, reforma o abrogación se sujetaran a las disposiciones del presente Reglamento una vez que entre en vigor.
 
 Artículo Tercero. Se deroga cualquier disposición Municipal que contravenga lo dispuesto en las presentes Reformas.
+
+P.O. 16 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes REFORMAS POR MODIFICACIÓN Y ADICION AL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEON, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
