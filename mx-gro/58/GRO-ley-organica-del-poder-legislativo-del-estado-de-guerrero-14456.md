@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2009-04-21"
+last_updated: "2009-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -279,7 +279,9 @@ XXXVII. Informar al Congreso de la Unión en los casos a que se refiere el artí
 
 XXXVIII. Recibir las denuncias en contra de sus miembros, del Gobernador del Estado, Magistrados, miembros de los Ayuntamientos y funcionarios que establece la Ley Orgánica de la Administración Pública del Estado, procediendo en los términos de los artículos 110 al 114 de la Constitución Política del Estado;
 
-XXXIX. Autorizar al Ejecutivo Estatal y a los Ayuntamientos para enajenar, donar o permutar inmuebles que formen parte del patrimonio del Estado o del Municipio;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2009)</small>
+
+XXXIX. Autorizar al Ejecutivo para enajenar, donar o permutar inmuebles que formen parte del patrimonio del Estado;
 
 XL. Determinar, según las necesidades locales, el número máximo de ministros de los cultos religiosos;
 
@@ -879,7 +881,9 @@ II. Los correspondientes a las Leyes de Ingresos del Estado y de los Municipios;
 
 III. Los relacionados con la creación de impuestos extraordinarios o especiales, estatales o municipales;
 
-IV. Lo relativo a la autorización que se otorgue al Ejecutivo del Estado y a los Ayuntamientos para enajenar, ceder, donar, permutar o gravar sus bienes inmuebles;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2009)</small>
+
+IV. Lo relativo a la autorización que se otorgue al Ejecutivo del Estado para enajenar, ceder, donar, permutar o gravar sus bienes inmuebles;
 
 V. Los que se refieran a la desincorporación de los bienes del dominio público y de los municipios;
 
@@ -2506,3 +2510,9 @@ SEGUNDO.- La Mesa Directiva en funciones en la fecha de la emisión del presente
 TERCERO.- Los Presidentes de la Mesa Directiva y de la Comisión de Gobierno en funciones a la fecha de aprobación del presente Decreto, fungirán en dicho cargo hasta el 14 de noviembre del 2009.
 
 CUARTO.- Comuníquese el presente Decreto al Gobernador del Estado, en términos de los (sic) dispuesto en la fracción III del artículo 47 de la Constitución Política del Estado Libre y Soberano de Guerrero, para su conocimiento; así también para que proceda con su publicación en el Periódico Oficial del Gobierna del Estado, para conocimiento general.
+
+P.O. 17 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para el conocimiento general.
