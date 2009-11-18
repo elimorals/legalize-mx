@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2009-09-01"
+last_updated: "2009-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -721,7 +721,7 @@ a).- Que la fracción o fracciones que pidan erigirse en municipio cuenten con u
 
 Excepcionalmente, por razones de orden político, social o económico que lo hagan aconsejable, la Legislatura podrá dar trámite y aprobar, si los demás requisitos que se señalan en los incisos siguientes se satisfacen, solicitudes que provengan de fracción o fracciones con población menor de veinticinco mil habitantes pero mayor de seis mil habitantes;
 
-b).- Que se compruebe ante el Congreso que la fracción o fracciones que pretenden formar Municipios libres, tienen los elementos bastantes para proveer a su existencia política y económica, así como que el Municipio libre del cual se pretenden segregar, puede continuar subsistiendo sin sufrir con la desmembración perjuicio grave alguno;
+b). Que se compruebe ante el Congreso que la fracción o fracciones que pretenden formar Municipios libres, tienen los elementos bastantes para proveer a su existencia política y económica, así como que el Municipio libre del cual se pretenden segregar, puede continuar subsistiendo sin sufrir con la desmembración perjuicio grave alguno;
 
 c).- Que se oiga al Ayuntamiento del Municipio que se trate de desmembrar, sobre la conveniencia o inconveniencia de la creación de la nueva entidad municipal, quedando obligado a dar un informe por escrito dentro de los 15 días siguientes a aquel en que le fuese pedido;
 
@@ -741,9 +741,19 @@ IlI. Aprobar en forma anual:
 
 a) Las contribuciones y demás ingresos que deban corresponder al Estado para cubrir su presupuesto anual de egresos;
 
-b) El Presupuesto de Egresos del Estado que someta a su consideración el Gobernador, una vez aprobadas las contribuciones e ingresos a que se refiere el inciso anterior; y
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2009)</small>
+
+b) La Ley de Presupuesto de Egresos del Estado que someta a su consideración el Gobernador, una vez aprobadas las contribuciones e ingresos a que se refiere el inciso anterior; asimismo, podrá autorizar en dicha Ley las partidas necesarias para cumplir con las obligaciones derivadas de los Proyectos de Prestación de Servicios, durante la vigencia de los mismos; y
 
 c) Las contribuciones y demás ingresos que deban corresponder a los municipios para cubrir anualmente su respectivo presupuesto de egresos;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2009)</small>
+
+III Bis.- Expedir la ley que regula las acciones relativas a la planeación, aprobación, contratación y ejecución de los Proyectos de Prestación de Servicios.
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2009)</small>
+
+III Ter.- Aprobar los Proyectos de Prestación de Servicios conforme a la legislación aplicable. Asimismo, autorizar la afectación de los ingresos que de conformidad con la legislación aplicable sean susceptibles de afectación, para el cumplimiento de las obligaciones derivadas de los Proyectos de Prestación de Servicios y de los empréstitos.
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -765,9 +775,9 @@ VII.- Nombrar, remover, conceder licencia y aceptar la renuncia de los integrant
 
 VIII.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribunales del Estado;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2009)</small>
 
-IX.- Expedir su Ley Orgánica y los reglamentos que sean necesarios para regular su estructura y funcionamiento, incluyendo a la entidad de fiscalización superior del Estado, la cual tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la propia ley. La Ley Orgánica del Poder Legislativo y reglamentos que de ella emanen no podrán ser vetados ni necesitarán promulgación del Ejecutivo del Estado para tener vigencia;
+IX.- Expedir su Ley Orgánica y los reglamentos que sean necesarios para regular su estructura y funcionamiento. La Ley Orgánica del Poder Legislativo y reglamentos que de ella emanen, los cuales no podrán ser vetados ni necesitarán promulgación del Ejecutivo del Estado para tener vigencia.
 
 X.- Recibir la protesta del Gobernador, Magistrados y Diputados;
 
@@ -807,13 +817,23 @@ XIX Bis.- Expedir la ley que asegure el ejercicio y respeto del derecho de acces
 
 XX. Resolver los problemas políticos intermunicipales y los que se susciten entre el Poder Ejecutivo y los Ayuntamientos. Así como fijar los límites de los municipios del Estado y resolver las diferencias que en esta materia se produzcan;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2009)</small>
 
-XXI.- Revisar, fiscalizar y aprobar, en su caso, la Cuenta Pública del Estado que, anualmente y en la forma que prevenga la correspondiente ley secundaria, le sea remitida por conducto del Ejecutivo del Estado, ya consolidada;
+XXI.- Expedir las disposiciones que regulen la organización, funcionamiento y ejercicio de las atribuciones de la entidad de fiscalización superior del Estado.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2009)</small>
 
-XXII.- Revisar, fiscalizar y aprobar, en su caso, la Cuenta Pública de cada uno de los Municipios del Estado, que anualmente y en la forma que prevenga la correspondiente ley secundaria, le sean remitidas por sus Ayuntamientos;
+XXII.- Revisar, fiscalizar y calificar la Cuenta Pública del Estado y las Cuentas Públicas de los Municipios. La revisión y fiscalización de la Cuenta Pública del año anterior, tendrá por objeto evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos y en el Presupuesto de Egresos, así como verificar el cumplimiento de los objetivos contenidos en los programas.
+
+La revisión y fiscalización de las cuentas públicas las realizará el Congreso a través de la Auditoría Superior del Estado. La Ley determinará la organización de dicho órgano de fiscalización superior.
+
+Si de la revisión y fiscalización a las cuentas públicas que la Auditoría Superior del Estado realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha entidad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
+
+La evaluación del desempeño de la Auditoría Superior del Estado estará a cargo del Congreso, sin perjuicio de su autonomía técnica y de gestión, en los términos que disponga la Ley.
+
+Las cuentas públicas municipales deberán ser presentadas al Congreso del Estado a más tardar el 31 de enero del año siguiente al ejercicio fiscal que correspondan. La Cuenta Pública del Estado deberá ser presentada al Congreso del Estado a más tardar el 10 de abril del año siguiente al ejercicio fiscal que corresponda. El Congreso concluirá la revisión y fiscalización de las cuentas públicas a más tardar en el periodo ordinario de sesiones inmediato siguiente a la presentación del informe del resultado, con base en el análisis de su contenido y en las conclusiones técnicas del informe del resultado de la Auditoría Superior del Estado, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, seguirá su curso en términos de lo señalado en esta Constitución y las leyes aplicables.
+
+Sólo se podrán ampliar los plazos de presentación de las cuentas públicas cuando medie solicitud del Ejecutivo del Estado o de los Ayuntamientos, en su caso, suficientemente justificadas a juicio del Congreso del Estado o de la Diputación Permanente. La prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la entidad de fiscalización superior del Estado contará con el mismo tiempo adicional para la presentación del informe del resultado de la revisión de la Cuenta Pública correspondiente;
 
 > <small>(REFORMADA P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -873,9 +893,9 @@ XXXVI. Aprobar el que uno o más Municipios del Estado previo acuerdo entre sus 
 
 XXXVII. Expedir las normas de carácter general para celebrar los convenios a que se refieren las fracciones III y IV del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como los que en su caso se celebren respecto a las materias a que se refiere la fracción V de la misma disposición;
 
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2009)</small>
 
-XXXVIII. Las demás que le asigne esta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
+XXXVIII.- Las demás que le asigne esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -921,7 +941,7 @@ VI.- Conceder licencias a los Magistrados del Tribunal Superior de Justicia cuan
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
 
-VII.- Conceder, en su caso, a los Diputados en ejercicio, licencia para separarse de sus funciones;
+VII.- Conceder en su caso, a los Diputados en ejercicio, licencia para separarse de sus funciones;
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -1169,6 +1189,10 @@ XXXI.- Todas las demás atribuciones y obligaciones que se le confieren por la C
 
 Para el despacho de los asuntos que correspondan al Ejecutivo del Estado, habrán las Secretarías de los Ramos de Administración Pública y el número de Dependencias que establezca la Ley Orgánica relativa, que distribuirá las funciones que a cada una deba corresponder y señalará los requisitos que el Gobernador observará para nombrar a los Titulares de las mismas.
 
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2009)</small>
+
+Las Secretarías que integren la Administración Pública Estatal y las Dependencias señaladas conforme al párrafo anterior aprovecharán óptimamente los recursos a su alcance, los cuales se administrarán con eficiencia, eficacia, economía, transparencia, y honradez para satisfacer los objetivos a los que están destinados. Los resultados del ejercicio de los recursos serán evaluados por las instancias técnicas competentes, de conformidad con la legislación aplicable, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos señalados.
+
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 73.
@@ -1211,7 +1235,7 @@ La función de consejero jurídico del Gobernador estará a cargo de la dependen
 
 ### CAPITULO XVIII. De los Municipios del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 77.
 
@@ -1453,13 +1477,13 @@ X.- Crear nuevas salas, y ampliar o suprimir las ya existentes, en términos de 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 1983)</small>
 
-### CAPITULO XIX. Prevenciones Generales
+### CAPITULO XIX. De la Fiscalización Superior
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2009)</small>
+
+### CAPITULO XX. Prevenciones Generales
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
-
-### CAPITULO XX. De las Reformas a la Constitución
-
-(REFORMADO, P.O. 16 DE OCTUBRE DE 2001) (F. DE E., P.O. 5 DE NOVIEMBRE DE 2001)
 
 ###### ARTICULO 89.
 
@@ -1559,7 +1583,61 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-### CAPITULO XXI. De la Inviolabilidad de la Constitución
+### CAPITULO XXI. De las Reformas a la Constitución
+
+(REFORMADO, P.O. 16 DE OCTUBRE DE 2001) (F. DE E., P.O. 5 DE NOVIEMBRE DE 2001)
+
+###### Artículo 108 Bis.
+
+La Auditoría Superior del Estado, contará con independencia en sus funciones y autonomía técnica, presupuestal y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley. La entidad de fiscalización superior del Estado ejercerá con independencia y con sujeción a las disposiciones aplicables, su presupuesto de egresos aprobado.
+
+La función de revisión y fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+
+Esta entidad de fiscalización superior del Estado tendrá a su cargo:
+
+I.- Revisar y fiscalizar en forma posterior los ingresos y los egresos públicos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los Municipios y de todos los entes públicos y organismos estatales y municipales, así como evaluar el desempeño en el cumplimiento de los objetivos y las metas contenidos en los programas estatales y municipales, a través de los informes que se rendirán en los términos que disponga la Ley. Tratándose de la recaudación, analizar si fueron percibidos los recursos estimados en cumplimiento de las disposiciones legales aplicables.
+
+La Auditoría Superior del Estado también revisará y fiscalizará directamente los recursos, estatales o municipales que administren o ejerzan los Poderes del Estado, los municipios y todos los entes públicos y organismos estatales y municipales, de acuerdo con las disposiciones legales; asimismo, revisará y fiscalizará los recursos, estatales o municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades. Asimismo, se coordinará y auxiliará a la Auditoría Superior de la Federación en las atribuciones que ésta tenga encomendada.
+
+La Auditoría Superior del Estado podrá revisar y fiscalizar los recursos públicos federales de acuerdo con el párrafo anterior, cuando dicha revisión y fiscalización derive de los ordenamientos legales aplicables o convenios celebrados con la Auditoría Superior de la Federación, con el propósito de apoyar y hacer más eficiente la fiscalización superior.
+
+Las entidades fiscalizadas a que se refiere el párrafo anterior deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos públicos que les sean transferidos y asignados, de acuerdo con los criterios que establezca la Ley.
+
+Sin perjuicio del principio de anualidad, la Auditoría Superior del Estado podrá solicitar, para revisar y fiscalizar, de manera casuística y concreta, información de ejercicios anteriores al de las cuentas públicas en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente las cuentas públicas del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución, pago y comprobación diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales. Las observaciones, acciones y recomendaciones que la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de las cuentas públicas en revisión.
+
+Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la Ley, derivado de denuncias, podrá requerir a las entidades fiscalizadas que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. Los resultados del informe de situación excepcional y, en su caso, de las sanciones impuestas o promovidas, deberán incluirse en el Informe del Resultado que se envíe al Congreso;
+
+II.- Entregar al Congreso del Estado los informes del resultado de la revisión de las cuentas públicas que reciba, dentro de los plazos que señale la ley. Dichos informes contemplarán los resultados de la revisión efectuada y la referencia a la fiscalización del cumplimiento de los programas, así como las auditorías practicadas, los dictámenes de su revisión, los apartados correspondientes a la fiscalización del manejo de los recursos por parte de las entidades fiscalizadas a que se refiere la fracción anterior y, en su caso, a la verificación del desempeño en el cumplimiento de los objetivos de los programas, así como también un apartado específico con las observaciones de la Auditoría Superior del Estado que incluya las justificaciones y aclaraciones correspondientes que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+
+Para tal efecto, de manera previa a la presentación del informe del resultado se darán a conocer a las entidades fiscalizadas los pliegos de observaciones que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado, para la elaboración del informe del resultado de la revisión de las Cuentas Públicas.
+
+El titular de la Auditoría Superior del Estado enviara el informe del resultado a las entidades fiscalizadas, a más tardar a los 10 días hábiles posteriores a que éste sea entregado al Congreso, para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, de acuerdo con lo previsto en la ley. Lo anterior, no aplicará a los procedimientos de fincamiento de responsabilidades resarcitorias y administrativas así como a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+
+La Auditoría Superior del Estado deberá pronunciarse en un plazo de 120 días hábiles sobre la información y las consideraciones recibidas de las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones.
+
+En el caso de las recomendaciones al desempeño las entidades fiscalizadas deberán precisar ante la Auditoría Superior del Estado las mejoras realizadas, las acciones a realizar o, en su caso, justificar su improcedencia o las razones por las cuales no resulta factible su implementación.
+
+La Auditoría Superior del Estado deberá entregar al Congreso, en los primeros 10 días hábiles de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas.
+
+III.- Efectuar visitas domiciliarias, revisiones de gabinete, inspecciones, verificaciones y, requerimientos de información y documentación, para la realización de sus funciones de revisión y fiscalización de las cuentas públicas.
+
+IV.- Determinar los daños y perjuicios que afecten a las haciendas públicas estatal y municipales o al patrimonio de los entes públicos estatales y municipales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como determinar las responsabilidades administrativas a que haya lugar, imponiendo las sanciones procedentes de acuerdo con lo dispuesto en la ley sobre responsabilidades de servidores públicos. La Auditoría Superior del Estado impondrá las multas que correspondan a los responsables en los procedimientos de determinación de responsabilidades o disciplinarios que instaure con motivo del ejercicio de sus facultades, de acuerdo con lo establecido en la ley. De igual modo, podrá promover ante las autoridades competentes el fincamiento de otras responsabilidades.
+
+Las sanciones y demás resoluciones de la Auditoría Superior del Estado podrán ser impugnadas por las entidades fiscalizadas y, en su caso, por los particulares, personas físicas o morales, o por los servidores públicos afectados por las mismas, ante la propia Auditoría Superior del Estado o ante los tribunales competentes, de conformidad con la legislación aplicable.
+
+El Congreso designará al Auditor Superior del Estado con el voto de las dos terceras partes de sus miembros presentes. La ley establecerá el procedimiento para su designación. El titular de la Auditoría Superior del Estado será designado por periodos no menores de siete años y podrá ser nombrado nuevamente por una sola vez.
+
+Sólo podrá ser removido de su encargo por las causas graves que señale la ley, mediante el procedimiento que la misma establezca y con la votación requerida para su designación.
+
+Se deberá guardar reserva de las actuaciones de la Auditoría Superior del Estado y de las observaciones formuladas hasta que ésta rinda los informes de resultado correspondientes. La ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+Los poderes del Estado, los Municipios, y todos los entes públicos y organismos estatales y municipales y toda persona sujeta a la fiscalización superior facilitarán a la Auditoría Superior del Estado y a la Auditoría Superior de la Federación cuando corresponda, los auxilios que requieran para el ejercicio de sus funciones, asimismo los servidores públicos, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado o la Auditoría Superior de la Federación, según sea el caso, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
+
+Para el cobro de las indemnizaciones y sanciones pecuniarias impuestas por la Auditoría Superior del Estado, el Poder Ejecutivo Estatal aplicará el procedimiento, administrativo de ejecución de conformidad con las leyes vigentes.
+
+(REUBICADO [N. DE E. ANTES CAPITULO XIX], P.O. 18 DE NOVIEMBRE DE 2009)
+
+### CAPITULO XXII. De la Inviolabilidad de la Constitución
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1569,11 +1647,11 @@ La base de la división territorial y de la organización política y administra
 
 > <small>(REFORMADO PRIMER PÁRRAFO DE LA FRACCIÓN, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
-I. Cada Municipio será gobernado por un cuerpo colegiado, denominado Ayuntamiento, cuya elección se efectuará el primer domingo de julio de cada tres años, mediante sufragio universal, libre, secreto y directo, en los términos que disponga la legislación electoral. No habrá autoridad intermedia alguna entre el Ayuntamiento y el Gobierno del Estado:
+I.- Cada Municipio será gobernado por un cuerpo colegiado, denominado Ayuntamiento, cuya elección se efectuará el primer domingo de julio de cada tres años, mediante sufragio universal, libre, secreto y directo, en los términos que disponga la legislación electoral. No habrá autoridad intermedia alguna entre el Ayuntamiento y el Gobierno del Estado:
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
-a) El Ayuntamiento ejercerá las facultades que al gobierno municipal otorga la Constitución Política de los Estados Unidos mexicanos (sic), las que le otorga esta Constitución y las que le confieran las leyes que de ellas .
+a) El Ayuntamiento ejercerá las facultades que al gobierno municipal otorga la Constitución Política de los Estados Unidos mexicanos (sic), las que le otorga esta Constitución y las que le confieran las leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1673,7 +1751,9 @@ c) Los ingresos derivados de la prestación de los servicios públicos a su carg
 
 d) Las leyes del Estado no podrán establecer exenciones o subsidios a favor de persona o institución alguna respecto de las contribuciones antes señaladas. Solo estarán exentos los bienes del dominio público de la Federación, del Estado y de los Municipios. Los bienes públicos que sean utilizados por entidades paraestatales o por particulares bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público, causarán las contribuciones antes señaladas;
 
-e) Los recursos que integran la hacienda pública municipal serán ejercidos en forma directa por los Ayuntamientos o por quien ellos autoricen, conforme a la ley;
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2009)</small>
+
+e) Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o por quien ellos autoricen, conforme a la ley, los cuales se administrarán con eficiencia, eficacia, economía, transparencia, y honradez para satisfacer los objetivos a los que están destinados. Los resultados del ejercicio de los recursos serán evaluados por las instancias técnicas competentes, de conformidad con la legislación aplicable, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos señalados.
 
 IV. Por conducto de sus respectivos Ayuntamientos, podrán convenir con el Estado la asunción de las funciones que originalmente corresponden a éste, la ejecución de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario;
 
@@ -1737,7 +1817,7 @@ d) El procedimiento y condiciones para que el gobierno estatal asuma una funció
 
 e) Las disposiciones aplicables en aquellos Municipios que no cuenten con los bandos o reglamentos correspondientes.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTICULO QUE LO INTEGRA], P.O. 18 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 109.
 
@@ -1879,7 +1959,7 @@ El Estado vigilará y cooperará con el Gobierno Federal en la observancia de la
 
 Ninguna disposición de esta Ley fundamental producirá efecto, cuando contravenga algún precepto de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+(REUBICADO [N. DE E. ANTES CAPITULO XX], P.O. 18 DE NOVIEMBRE DE 2009)
 
 ###### ARTICULO 130.
 
@@ -1891,7 +1971,7 @@ La presente Constitución puede ser modificada mediante la reforma, adición o d
 
 El Congreso del Estado, o la Diputación Permanente en los recesos de aquél, hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada o no la modificación, procediendo a expedir el respectivo decreto en el primero de dichos casos.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO XXI], P.O. 18 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 132.
 
@@ -2049,7 +2129,7 @@ P.O. 29 DE MAYO DE 1954.
 
 REPUBLICADO, P.O. 3 DE JUNIO DE 1954.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.x</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 17 DE SEPTIEMBRE DE 1955.
 
@@ -2386,3 +2466,19 @@ Cuarto.- Se derogan todas las disposiciones legales y administrativas que se opo
 P.O. 1 DE SEPTIEMBRE DE 2009.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 3, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 54, 72, 105, 108 Y LOS CAPITULOS XIX A XXII DE LA CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 4, POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 54 DE LA CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente decreto.
