@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2009-04-30"
+last_updated: "2009-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2009.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -2299,29 +2299,53 @@ Por los servicios prestados por la Secretaría de Seguridad Pública, se causar�
 
 A. En materia de Tránsito y Transporte:
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2009)</small>
 
-I. Expedición de Licencia de Chofer, tipo A para conducir vehículos de motor dedicados al Servicio Público de Transporte de Pasajeros, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial. 15 salarios mínimos
+I. Expedición de Licencia de Chofer tipo A para conducir vehículos de motor dedicados al Servicio Público de Transporte de Pasajeros, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial.
 
-Canje Trianual 7 salarios mínimos
+Por tres años 15 salarios mínimos
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+Por cinco años 25 salarios mínimos
 
-II. Expedición de Licencia de Chofer, tipo B para conducir toda clase de vehículos de motor de Servicios Públicos de Carga y Particular, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial. 14 salarios mínimos
+Canje por tres años 7 salarios mínimos
 
-Canje Trianual 6 salarios mínimos
+Canje por cinco años 12 salarios mínimos
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2009)</small>
 
-III. Expedición de Licencia de Automovilista, tipo C para conducir únicamente automóviles de Servicio Particular, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico pericial. 12 salarios mínimos.
+II. Expedición de Licencia de Chofer tipo B para conducir toda clase de vehículos de motor de Servicios Públicos de Carga y Particular, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial.
 
-Canje Trianual 5 salarios mínimos.
+Por tres años 14 salarios mínimos
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+Por cinco años 25 salarios mínimos
 
-IV. Expedición de Licencia de Motociclista, tipo D para conducir vehículos de dos o más ruedas, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial. 8 salarios mínimos
+Canje por tres años 6 salarios mínimos
 
-Canje Trianual 4 salarios mínimos
+Canje por cinco años 10 salarios mínimos
+
+> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2009)</small>
+
+III. Expedición de Licencia de Automovilista tipo C para conducir únicamente automóviles de Servicio Particular, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial.
+
+Por tres años 12 salarios mínimos
+
+Por cinco años 20 salarios mínimos
+
+Canje por tres años 5 salarios mínimos
+
+Canje por cinco años 8 salarios mínimos
+
+> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2009)</small>
+
+IV. Expedición de Licencia de Motociclista tipo D para conducir vehículos de dos o más ruedas, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial.
+
+Por tres años 8 salarios mínimos
+
+Por cinco años 13 salarios mínimos
+
+Canje por tres años 4 salarios mínimos
+
+Canje por cinco años 7 salarios mínimos
 
 > <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
@@ -8542,3 +8566,9 @@ G.O. 30 DE ABRIL DE 2009.
 Primero. El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE NOVIEMBRE DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
