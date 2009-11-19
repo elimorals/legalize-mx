@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-pensiones-del-estado-de-jalisco-5860"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2007-01-23"
+last_updated: "2009-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE PENSIONES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 19 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -888,3 +890,51 @@ P.O. 9 DE SEPTIEMBRE DE 2006.
 P.O. 23 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE NOVIEMBRE DE 2009.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. A partir de la entrada en vigor de esta Ley, se abroga la Ley de Pensiones del Estado de Jalisco, contenida en el Decreto Número 12697 del 22 de diciembre de 1986 del Congreso del Estado y todas sus reformas y adiciones.
+
+TERCERO. Quedan vigentes los reglamentos y acuerdos administrativos emitidos por el Consejo Directivo de la antes denominada Dirección de Pensiones del Estado, hoy Instituto de Pensiones del Estado de Jalisco, en todo lo que no se oponga a la presente Ley y en tanto se expidan las nuevas disposiciones que los sustituyan.
+
+CUARTO. La presente Ley no surte efectos retroactivos en perjuicio de los afiliados y pensionados que hubiesen sido incorporados e iniciado sus cotizaciones durante la anterior Ley de Pensiones del Estado de Jalisco. Las pensiones ya otorgadas se seguirán proporcionando con la misma regularidad, así como los servicios médicos a ellas inherentes.
+
+Por lo tanto, no serán aplicables a los afiliados actuales, los requerimientos adicionales previstos en la presente ley, respecto de la que se abroga, para la obtención de las pensiones.
+
+Sin embargo, serán de inmediata aplicación a los afiliados actuales las disposiciones previstas en los artículos 39 y 66 de esta Ley.
+
+Para los efectos del presente artículo se considerarán como afiliados actuales y futuros los siguientes:
+
+I. Afiliados actuales:
+
+a) Los afiliados que al momento de inicio de vigencia de la Ley se encuentren cotizando al régimen de pensiones; y
+
+b) Los que hubieren cotizado con anterioridad al Instituto y no hubieren solicitado devolución de sus fondos de aportación.
+
+II. Afiliados futuros:
+
+a) Los afiliados que se incorporen con posterioridad al inicio de vigencia de esta Ley; y
+
+b) Los que hubieren cotizado con anterioridad al inicio de vigencia de esta Ley y hubieren retirado su fondo de aportaciones.
+
+Las nuevas prestaciones que se contemplan en la presente Ley, sólo se otorgarán a partir de la vigencia de ésta a los afiliados y pensionados.
+
+Todas las pensiones y prestaciones que se hayan otorgado bajo la vigencia del régimen de la Ley que se abroga seguirán rigiéndose por el mismo, bajo las mismas condiciones por él establecidas.
+
+En el caso de todo tipo de préstamos, los afiliados actuales y futuros gozarán de los mismos beneficios para su otorgamiento; y deberán cumplir con los mismos requisitos.
+
+QUINTO. Los Poderes Públicos, municipios y organismos incorporados al Instituto deberán prever en sus presupuestos los recursos necesarios para el incremento de cuotas establecido en la presente Ley.
+
+SEXTO. En el caso de servidores públicos del régimen de las entidades centralizadas de esta Ley que hubieren laborado en fecha anterior a 1954 se tomarán como años cotizados aquellos en que hubieran prestado sus servicios antes de la entrada en vigor del Decreto 4486 del H. Congreso del Estado.
+
+SÉPTIMO. El Sistema Estatal de Ahorro para el Retiro seguirá regido conforme a su propio Reglamento.
+
+OCTAVO. En todos los procesos, procedimientos, juicios, sucesiones, legados, convenios, contratos, hipotecas, fianzas, acuerdos y cualquier otro instrumento jurídico suscrito, iniciado o del que forme parte la Dirección de Pensiones del Estado a la fecha de entrada en vigor de la presente Ley se deberá entender que se refiere al organismo público descentralizado denominado Instituto de Pensiones del Estado de Jalisco.
+
+NOVENO. En las demás disposiciones legales y reglamentarias en las que se haga referencia a la Dirección de Pensiones del Estado se entenderá que se refiere al organismo público descentralizado denominado Instituto de Pensiones del Estado de Jalisco.
+
+DÉCIMO. Todos los recursos materiales, financieros y humanos de la actual Dirección de Pensiones del Estado pasarán a formar parte del organismo público denominado Instituto de Pensiones del Estado de Jalisco.
+
+DÉCIMO PRIMERO. Para los efectos del artículo anterior deberán respetarse los derechos laborales de los servidores públicos de base.
