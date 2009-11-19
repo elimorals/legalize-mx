@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-pensiones-del-estado-de-jalisco-5860"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2007-01-23"
+last_updated: "2009-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,870 +21,328 @@ state: "JAL"
 ---
 # LEY DE PENSIONES DEL ESTADO DE JALISCO
 
-LEY DE PENSIONES DEL ESTADO DE JALISCO
+REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE APIZACO, ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
+TEXTO ORIGINAL.
 
-Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
+Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Tlaxcala, el miércoles 30 de noviembre de 2005.
 
-Al margen un sello que dice: Gobierno de Jalisco. Poder Legislativo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE APIZACO, ESTADO DE TLAXCALA.
 
-NUMERO 12697. El Congreso del Estado Decreta:
+## TITULO PRIMERO. GENERALIDADES
 
-Ley de Pensiones del Estado de Jalisco
+### CAPITULO I. DISPOSICIONES COMUNES
 
-## TITULO PRIMERO. Disposiciones Preliminares
+### CAPÍTULO II. OBLIGACIONES DE TRANSPARENCIA
 
-### CAPITULO PRIMERO. Del Objeto y los Sujetos
+### CAPITULO III. DE LA CLASIFICACIÓN DE LA INFORMACIÓN MUNICIPAL
 
-### CAPITULO SEGUNDO. De las Prestaciones y Obligaciones
+### CAPITULO IV. DE LA INFORMACIÓN RESERVADA
 
-### CAPITULO PRIMERO. De las Cuotas y Aportaciones
+### CAPITULO V. DE LA INFORMACIÓN CONFIDENCIAL
 
-### CAPITULO SEGUNDO. De las Pensiones por Jubilación, Edad Avanzada e Invalidez
+### CAPÍTULO VI. DE LA PROTECCIÓN DE DATOS PERSONALES
 
-#### SECCION PRIMERA. Generalidades
+## TITULO SEGUNDO. DEL ACCESO A LA INFORMACIÓN PÚBLICA MUNICIPAL
 
-### CAPITULO TERCERO. De los Servicios Médicos y Prestaciones Económicas para los Pensionados y sus Derechohabientes
+### CAPITULO I. DEL ÁREA RESPONSABLE DE LA INFORMACIÓN MUNICIPAL
 
-#### SECCION PRIMERA. Servicios Médicos para los Pensionados y sus Beneficiarios
+### CAPITULO II
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 21434-LVII/06.</small>
+DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN MUNICIPAL.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
-
-###### Artículo 52.
-
-Los pensionados, en caso de enfermedad o maternidad, tendrán derecho a la asistencia médico quirúrgica, farmacéutica y hospitalaria que sea necesaria.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
-
-###### Artículo 53.
-
-También tendrán derecho a esta prestación, los beneficiarios del pensionado que a continuación se señalan:
-
-I. La esposa, o a falta de ésta, la mujer con quien ha vivido como si lo fuera, durante los cinco años anteriores a la enfermedad o con la que tuviere hijos, siempre que ambos permanezcan libres de matrimonio;
-
-II. Los hijos de ambos menores de dieciocho años, y hasta 25 años, si estudian en escuelas del Sistema Educativo Nacional, siempre que dependan económicamente del pensionado;
-
-III. Los hijos mayores de dieciocho años, inhabilitados total y permanentemente para trabajar; y
-
-IV. El esposo o concubinario de la pensionada, siempre que fuere mayor de 65 años de edad, o esté inhabilitado total y permanentemente para trabajar, y dependa económicamente de ella.
-
-En caso de controversia respecto de quiénes tienen derecho a recibir esta prestación, se suspenderá el otorgamiento de la misma, hasta que se defina judicialmente la situación.
-
-Para gozar de estos beneficios, se deberán satisfacer las siguientes condiciones:
-
-A) Que el pensionado tenga derecho a la prestación señalada en el artículo anterior; y
-
-B) Que los beneficiarios no tengan, por sí mismos, derechos propios a recibir esta prestación.
-
-###### Artículo 54.
-
-El servicio médico a que se refiere esta sección, lo podrá prestar la Dirección de Pensiones del Estado directamente, o por convenio que celebre con las Instituciones y Organismos correspondientes, en este caso, se estará a los términos del mismo.
-
-#### SECCION SEGUNDA. Prestaciones Económicas Derivadas de la del Pensionado
-
-> <small>(F. DE E., P.O. 19 DE FEBRERO DE 1987)</small>
-
-###### Artículo 55.
-
-La muerte del pensionado por jubilación, edad avanzada o invalidez, dará lugar al otorgamiento a sus derechohabientes de una prestación económica consistente en el 50% del importe de lo que éste recibía.
-
-###### Artículo 56.
-
-El derecho al pago de esta prestación se iniciará, a partir del día siguiente al que ocurra el fallecimiento del pensionado.
-
-###### Artículo 57.
-
-El orden de los derechohabientes para recibir esta prestación será el siguiente:
-
-I. La esposa supérstite sola, si no hay hijos del pensionado o, en concurrencia con éstos, si los hay menores de 18 años, o hasta 25 años, si estudian en escuelas del Sistema Educativo Nacional, o cuando sean mayores que estén inhabilitados totalmente para trabajar y dependan económicamente del pensionado;
-
-II. A falta de esposa, la concubina sola o en concurrencia con los hijos del pensionado, o éstos solos, cuando reúnan las condiciones señaladas en la fracción anterior; siempre que aquella hubiese tenido hijos con el pensionado, o vivido en su compañía durante los 5 años que precedieron a su muerte, y ambos hayan permanecido libres de matrimonio durante el concubinato;
-
-III. El esposo supérstite solo, si no hay hijos de la pensionada, o en concurrencia con éstos si los hay, o éstos solos, cuando reúnan las condiciones a que se refiere la frac. I; siempre que aquel fuese mayor de 65 años o esté inhabilitado para trabajar, y dependa económicamente de la esposa pensionada;
-
-IV. El concubinario solo, o en concurrencia con los hijos, de la pensionada, o éstos solos, cuando reúnan las condiciones señaladas en la frac. I; siempre que aquel reúna los requisitos señalados en las fracs. II y III; y
-
-V. La cantidad total a que tengan derecho los deudos señalados en cada una de las fracciones anteriores, se dividirá por partes iguales entre ellos.
-
-Cuando fuesen varios los beneficiarios de esta prestación y algunos de ellos perdiesen el derecho, su parte acrecerá proporcionalmente la de los restantes.
-
-###### Artículo 58.
-
-Si otorgada la prestación aparecen otros familiares con derecho a la misma, se les hará extensiva, y percibirán su parte, a partir de la fecha en que sea resuelta su solicitud por la Dirección de Pensiones, sin que puedan reclamar el pago de las cantidades cobradas por los primeros derechohabientes.
-
-En caso de controversia, se suspenderá el trámite del beneficio, hasta que se defina judicialmente la situación, sin que tengan derecho a reclamar las cantidades cobradas.
-
-###### Artículo 59.
-
-El derecho a percibir esta prestación se pierde, por alguna de las siguientes causas:
-
-I. Llegar a la mayoría de edad los hijos del pensionado, salvo cuando estén inhabilitados totalmente para trabajar, o hasta los 25 años cuando estudien en Escuelas del Sistema Educativo Nacional. La Dirección de Pensiones podrá, en todo tiempo, ordenar la práctica de exámenes médicos a efecto de constatar la subsistencia de la inhabilitación;
-
-II. Cuando los derechohabientes del pensionado contraigan nupcias o llegaren a vivir en concubinato; y
-
-III. Por fallecimiento de los derechohabientes.
-
-###### Artículo 60.
-
-Cuando fallezca un pensionado, la Dirección de Pensiones entregará a sus deudos, o a la persona que se hubiese hecho cargo de la inhumación, el importe de un mes de pensión por concepto de gastos funerarios, sin más trámites que la presentación del acta de defunción y la constancia de los gastos del sepelio.
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 13 DE MAYO DE 1989)</small>
-
-#### SECCION TERCERA. Prestaciones Económicas Derivadas de la Muerte del Afiliado
-
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1989)</small>
-
-###### Artículo 60
-
-Bis.- En el caso de fallecimiento de un afiliado no pensionado, la Dirección de Pensiones del Estado entregará a los beneficiarios designados por el trabajador en activo, o en caso de no haberlos, a los dependientes económicos, y a falta de éstos, a los herederos legítimos, conforme a la resolución judicial, la prestación que al efecto, y en forma general, se haya determinado por el Consejo Directivo.
-
-Para que los beneficiarios puedan recibir lo anterior, será necesario que el afiliado en los términos del artículo 3.° fracs. I, II y III, haya cotizado hasta la fecha del fallecimiento, su aportación en los términos del Art. 13 de esta Ley.
-
-### CAPITULO CUARTO. De los Préstamos a Corto Plazo y Préstamos para la Adquisición de Bienes de Consumo Duradero
-
-###### Artículo 61.
-
-La Dirección de Pensiones concederá préstamos a corto plazo a sus afiliados, utilizando, a título de inversión, el porcentaje del fondo de aportaciones que autorice el Consejo Directivo.
-
-Los préstamos se harán bajo las siguientes reglas:
-
-I. A quienes hayan cubierto las aportaciones a que se refiere esta Ley, por lo menos durante 6 meses;
-
-II. Hasta el importe de cuatro meses del sueldo, sobre sueldo y compensación sobre el que haya aportado el solicitante, cuya base determinará el Consejo Directivo, de acuerdo a los recursos financieros;
-
-III. Todo préstamo deberá ser necesariamente avalado por otro afiliado, que suscribirá la obligación en forma solidaria; y
-
-IV. Cuando el préstamo sobrepase el monto de las aportaciones del solicitante, se garantizará con el 1% del importe de dicho crédito, lo que constituirá el fondo de garantía.
-
-###### Artículo 62.
-
-Los descuentos que deban hacerse en favor de la Dirección de Pensiones, por préstamos otorgados al afiliado, no excederán del 50 % de la percepción total sobre la que cotice.
-
-###### Artículo 63.
-
-El pago del préstamo a corto plazo se hará mediante abonos quincenales, sin que dicho plazo pueda exceder de 18 meses.
-
-###### Artículo 64.
-
-Los préstamos causarán el interés del 12% anual, sobre saldos insolutos. El Consejo Directivo tendrá, en todo momento, facultad de revisar el tipo de interés, determinando su incremento o reducción.
-
-###### Artículo 65.
-
-Sólo podrán otorgarse nuevos préstamos a corto plazo a los afiliados, cuando hubiesen pagado el 50% del préstamo anterior, de acuerdo con los montos, plazos, intereses y primas de renovación acordadas por el Consejo Directivo.
-
-###### Artículo 66.
-
-Los créditos se darán por vencidos anticipadamente, si el afiliado se separa definitivamente del servicio y no continúa pagando los abonos a que esté obligado.
-
-###### Artículo 67.
-
-La Institución podrá conceder préstamos para la adquisición de bienes de consumo duradero; siempre que el solicitante ofrezca garantía suficiente, a juicio de la Dirección, y lo amortice en un periodo no mayor de 36 meses. La tasa de interés y las condiciones en que deben operar este tipo de préstamos, las señalará el Consejo Directivo, procurando que dicho interés sea el más bajo posible.
-
-## TITULO SEGUNDO. Régimen Obligatorio
-
-### CAPITULO QUINTO. De las Prestaciones en Materia Inmobiliaria
-
-#### SECCION PRIMERA. De los Préstamos Hipotecarios
-
-###### Artículo 68.
-
-La Dirección de Pensiones podrá conceder préstamos hipotecarios, utilizando el porcentaje del fondo de aportaciones que autorice el Consejo Directivo. Los préstamos se destinarán por los afiliados para los siguientes fines:
-
-I. Adquisición de terrenos urbanos, en los que deberán construir su habitación;
-
-II. Adquisición de casas o departamentos para su habitación;
-
-III. Construcción, mejoras o reparación de los inmuebles de su propiedad; y
-
-IV. Redención de gravámenes que soporten tales inmuebles.
-
-###### Artículo 69.
-
-Los préstamos hipotecarios se otorgarán por una sola vez, bajo las siguientes bases:
-
-I. En los casos de las fracs. I y II, del artículo que antecede, será requisito que los afiliados carezcan de inmuebles de su propiedad;
-
-II. Que los afiliados hayan cubierto sus cuotas, por lo menos, durante cuatro años;
-
-III. Deberá constituirse garantía hipotecaria, en primer término, en favor de la Dirección de Pensiones;
-
-IV. El préstamo hipotecario deberá estar garantizado por un seguro que libere al afiliado o a sus beneficiarios de las obligaciones derivadas de dicho préstamo, en los casos de siniestro del inmueble, incapacidad total permanentemente, o fallecimiento del acreditado;
-
-V. El monto del préstamo podrá ser hasta diez veces el salario mínimo general de Guadalajara, elevado al año;
-
-VI. El préstamo no excederá, en ningún caso, del 80% del valor del inmueble;
-
-VII. El plazo para cubrir el importe del préstamo no excederá de quince años. En cualquier caso, el capital, los intereses y la prima de los seguros aplicables, deberán pagarse en amortizaciones quincenales;
-
-VIII. La tasa de interés no podrá ser superior a la establecida por el Gobierno Federal, en sus programas de vivienda de interés social; y
-
-IX. Se darán por vencidos anticipadamente, si los deudores enajenan las viviendas, o no las dedican para su habitación.
-
-###### Artículo 70.
-
-Al afiliado que se separe definitivamente del servicio, la Dirección de Pensiones podrá concederle un plazo hasta de seis meses, sin causar intereses moratorios, para continuar el pago del préstamo hipotecario.
-
-#### SECCION SEGUNDA. De la Venta y Arrendamiento de Inmuebles
-
-###### Artículo 71.
-
-La Dirección de Pensiones podrá adquirir o construir inmuebles, en la medida de sus posibilidades, para ser vendidos o arrendados a sus afiliados que carezcan de vivienda.
-
-La enajenación podrá hacerse de contado, a plazo, con garantía hipotecaria o con reserva de dominio.
-
-El arrendamiento se regirá por el derecho común, y por las disposiciones reglamentarias que dicte el Consejo Directivo.
-
-Para el otorgamiento de estas prestaciones, se aplicará, en lo conducente, las bases previstas en el Art. 69 de esta Ley.
-
-### CAPITULO SEXTO. De las Prestaciones Sociales y Culturales
-
-###### Artículo 72.
-
-De acuerdo a sus condiciones económicas, con apoyo y cooperación de los afiliados, la Dirección de Pensiones podrá realizar actividades que mejoren el nivel de vida de estos y sus familias, prestando servicios que satisfagan las necesidades de alimentación, vestido, educación, descanso y esparcimiento.
-
-###### Artículo 73.
-
-Entre otras prestaciones, podrá promover:
-
-I. El establecimiento de almacenes para la venta de alimentos, vestido, medicinas y artículos domésticos;
-
-II. La creación de guarderías y estancias infantiles;
-
-III. El otorgamiento de servicios deportivos, recreativos, turísticos, culturales y educativos;
-
-IV. Servicios funerarios; y
-
-V. Otros servicios que determine el Consejo Directivo.
-
-### CAPITULO UNICO
-
-###### Artículo 74.
-
-El afiliado que cause baja, podrá seguir contribuyendo al fondo de Pensiones, para tener derecho exclusivamente a las pensiones por jubilación o edad avanzada y aquellas que el Consejo Directivo determine. La aportación voluntaria se regirá de acuerdo a las siguientes reglas:
-
-I. El derecho debe de ejercitarse, mediante solicitud por escrito, dentro de un plazo de un año contado, a partir de la fecha de su baja;
-
-> <small>(F. DE E., P.O. 19 DE FEBRERO DE 1987)</small>
-
-II. Deberá cubrir, mensualmente, la cuota que le corresponde a razón del 10 por ciento del sueldo, sobresueldo y compensación que venía percibiendo al momento de la separación; dicha cuota se ajustará simultáneamente al incremento del sueldo, en la plaza que ocupaba o una similar; y
-
-III. Para los efectos de esta Ley, se tomará como tiempo de servicio el que hubiese cotizado en forma voluntaria.
-
-###### Artículo 75.
-
-El derecho a que se refiere el artículo anterior se extingue:
-
-I. Por renuncia expresa; y
-
-II. Porque el aportante deje de cubrir su cuota, por más de seis meses consecutivos.
+### CAPÍTULO III. RESPONSABILIDADES Y SANCIONES
 
 ## TRANSITORIOS
 
-Artículo Primero.- Esta Ley entrará en vigor el día 1°, de enero de 1987, previa su publicación en el Periódico Oficial El Estado de Jalisco.
+## TITULO PRIMERO. GENERALIDADES
 
-Artículo Segundo.- Queda abrogada la Ley de Pensiones para el Estado de Jalisco, contenida en el decreto 9779, publicado en el Periódico Oficial El Estado de Jalisco, el 24 de agosto de 1978, quedando sin efecto todas las disposiciones que se opongan a la presente Ley.
+### CAPÍTULO PRIMERO (SIC). DISPOSICIONES COMUNES
 
-Artículo Tercero.- Para los efectos de esta Ley, se computará como tiempo de servicio, el desempeñado antes del 1° de enero de 1954, si el afiliado hubiese contribuido al Fondo de Pensiones, por lo menos, durante 20 años.
+###### ARTÍCULO 1.
 
-Artículo Cuarto.- Las nuevas prestaciones que se contemplan en la presente Ley, sólo se otorgarán a partir de su vigencia.
+Objeto: El presente ordenamiento tiene por objeto reglamentar las disposiciones de La Ley de Información Pública para el Estado de Tlaxcala, en el municipio de Apizaco, y en general en cualquier otro órgano que forme parte de la administración pública municipal, así como normar los criterios, lineamientos y procedimientos a fin de garantizar el acceso de toda persona a la información pública municipal.
 
-Artículo Quinto.- Las pensiones otorgadas con anterioridad a la presente Ley, seguirán en las condiciones y circunstancias en que fueron aprobadas.
+###### ARTÍCULO 2.
 
-Salón de Sesiones del Congreso del Estado
+Clasificación: Además de las definiciones contenidas en el artículo 3 de La Ley de Información Pública para el Estado de Tlaxcala, para los efectos del presente Reglamento se entenderá por:
 
-Guadalajara, Jal., a 22 de diciembre de 1986
+I.- Clasificación: El acto por el cual se determina que la información que posee el Ayuntamiento es reservada o confidencial;
 
-Diputado Presidente
+II.- Expediente: Conjunto de documentos de un asunto en específico;
 
-Ing. Ramiro Hernández García
+III.- Lineamientos: Los actos administrativos de carácter general expedidos por el cabildo y de observancia obligatoria;
 
-Diputado Secretario
+IV.- Publicación: La reproducción en medios electrónicos o impresos de información contenida en documentos para conocimiento público;
 
-María del Rocío Corona Nakamura
+V.- Recursos Públicos: Los recursos humanos, financieros y materiales con que cuenta el municipio o cualquier otro órgano que forme parte de la administración pública municipal, y que utiliza para alcanzar sus objetivos y prestar los servicios que son de su competencia;
 
-Diputado Secretario
+VI.- Servidor Público Habilitado: El Servidor Público que puede recibir y dar trámite a las solicitudes de acceso a la información;
 
-Arq. Salvador Rizo Ayala
+VII.- Solicitante: Cualquier persona que ejerce su derecho de acceso a la información; VIII.- Ley.- La Ley de Información Pública para el Estado de Tlaxcala;
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+IX.- Área Responsable de la Información: Al órgano de enlace entre los particulares y la entidad pública municipal;
 
-Dado en Palacio del Poder Ejecutivo del Estado, a los treinta días del mes de diciembre de mil novecientos ochenta y seis.
+X.- Comité de Información Municipal: Órgano responsable de coordinar y supervisar la aplicación del presente Reglamento.
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+###### ARTÍCULO 3.
 
-Lic. Enrique Alvarez del Castillo
+Del derecho a la información: Los particulares podrán solicitar en todo momento, al municipio la información que éste ponga a disposición del público.
 
-EL SECRETARIO GENERAL DE GOBIERNO
+###### ARTÍCULO 4.
 
-Lic. Héctor F. Castañeda Jiménez
+De las leyes supletorias: La Ley del Procedimiento Administrativo del Estado, así como el Código de Procedimientos Civiles del Estado se aplicará de manera supletoria en lo que no se oponga a La Ley.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+###### ARTÍCULO 5.
 
-P.O. 13 DE MAYO DE 1989.
+Del carácter de la información: Toda información en poder del municipio es pública y cualquier persona tendrá acceso a la misma en los términos que señalan los ordenamientos legales aplicables y este Reglamento, con excepción de aquella que conforme a la ley tenga el carácter de reservada y confidencial.
 
-Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+###### ARTÍCULO 6.
 
-P.O. 7 DE ABRIL DE 1990.
+De su observancia: El presente Reglamento es de observancia obligatoria para los servidores públicos del Ayuntamiento del Municipio de Apizaco, Tlaxcala.
 
-Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+### CAPÍTULO II. OBLIGACIONES DE TRANSPARENCIA
 
-P.O. 9 DE SEPTIEMBRE DE 2006.
+###### ARTÍCULO 7.
 
-ÚNICO.- El presente decreto entrará en vigor el día 1º de enero de 2008.
+De la disposición de la información: El municipio de Apizaco pondrá a disposición del público la información a que se refiere los artículos 10, 11 y 12 de la Ley de Información Pública para el Estado de Tlaxcala, de conformidad con lo siguiente:
 
-P.O. 23 DE ENERO DE 2007.
+I.- El servidor público que designe el Ayuntamiento será responsable de poner a disposición del Público dicha información;
 
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+II.- La información deberá estar bajo resguardo del servidor público responsable en el área asignada en la presidencia municipal. El mismo lugar será destinado para recibir todo tipo de correspondencia;
 
-## TITULO TERCERO. Del Régimen Voluntario
+III.- Los titulares de área municipales harán entrega de la información municipal de manera clara y completa, de tal forma que se asegure su calidad, veracidad, oportunidad y confiabilidad;
 
-### CAPITULO PRIMERO. De las Funciones
+IV.- Todo servidor público estará obligado a garantizar y proporcionar la información que contenga bajo su resguardo, y deberá enviarlo a la brevedad posible cuando el titular del área le requiera de la información, con la finalidad de ponerla a disposición del público.
 
-###### Artículo 76.
+###### ARTÍCULO 8.
 
-La Dirección de Pensiones del Estado, es el Organismo Público Descentralizado, autorizado para la realización y cumplimiento de objetivos de seguridad social para los servidores públicos, con personalidad jurídica y patrimonio propio, con domicilio en la capital del Estado.
+Del personal y espacio físico: El municipio adecuará un espacio físico y contará con el personal necesario para orientar al público para tener acceso a la información municipal. En el mismo lugar deberá existir el espacio adecuado para que los particulares puedan consultar la información deseada.
 
-###### Artículo 77.
+###### ARTÍCULO 9.
 
-La Dirección de Pensiones del Estado tendrá las siguientes funciones:
+De la actualización de la información: El personal encargado del resguardo de la información municipal deberá actualizar dicha información al menos cada tres meses, información que deberá permanecer en el área de resguardo por lo menos durante el periodo de su vigencia, los titulares de área serán los responsables de proporcionar la información correspondiente así como sus modificaciones.
 
-I. Administrar, reglamentar y otorgar las prestaciones y servicios previstos en la Ley;
+### CAPÍTULO III. DE LA CLASIFICACIÓN DE LA INFORMACIÓN MUNICIPAL
 
-II. Determinar, vigilar y cobrar el importe de las cuotas y aportaciones;
+###### ARTÍCULO 10
 
-III. Invertir los Fondos y Reservas, de acuerdo con las disposiciones de esta Ley;
+De la obligación de los titulares: Los titulares de área llevarán a cabo la clasificación de la información en el momento en que:
 
-IV. Adquirir los bienes muebles e inmuebles necesarios para la realización de sus fines;
+I.- Se genere, obtenga, adquiera o transforme la información o;
 
-V. Establecer la estructura administrativa necesaria para su funcionamiento;
+II.- Se reciba una solicitud de acceso a la información, en el caso de documentos que no se hubieran clasificado previamente.
 
-VI. Realizar toda clase de actos jurídicos necesarios para cumplir con sus fines; y
+###### ARTICULO 11.
 
-VII. Las demás funciones que le confiera esta Ley, y su reglamento.
+Del daño por proporcionar información: Al clasificar los expedientes y documentos como reservados o confidenciales, se tomará en consideración el daño que este causaría su difusión a los intereses tutelados en los artículos 16, 17 y 22 de la ley en la materia.
 
-###### Artículo 1.
+###### ARTÍCULO 12.
 
-La presente Ley es de interés social para su aplicación en el Estado en los términos que la misma establece.
+Del comité de información: El comité de información establecerá los lineamientos que contengan para la clasificación, reclasificación y custodia de la información reservada y confidencial, fundando legalmente su actuar.
 
-###### Artículo 2.
+### CAPÍTULO IV. DE LA INFORMACIÓN RESERVADA
 
-Esta Ley tiene por objeto regular el otorgamiento, por la Dirección de Pensiones del Estado, de las prestaciones y servicios a sus afiliados, con las modalidades y condiciones que en este cuerpo legal se señalan, bajo un régimen obligatorio y un régimen voluntario.
+###### ARTÍCULO 13.
 
-###### Artículo 3.
+De los expedientes clasificados como reservados: Los expedientes clasificados como reservados deberán llevar una leyenda que indique su carácter de reservado, la fecha de la clasificación, su fundamento legal, el periodo de reserva y la rúbrica del titular de área.
 
-Son sujetos de la presente Ley:
+###### ARTÍCULO 14.
 
-I. Los servidores públicos de los Poderes del estado de Jalisco;
+De las partes o secciones reservadas de un expediente: Cuando un expediente contenga documentos públicos y reservados, se tendrá acceso a aquellos que no estén clasificados. Tratándose de un documento que contenga partes o secciones reservadas, se tendrá acceso a una versión en la que se omitan estas últimas. Las reproducciones de los expedientes o documentos que se entreguen constituirán versiones públicas.
 
-II. Los servidores públicos de los Municipios de la entidad; de los Organismos Públicos Descentralizados del Estado y sus Municipios, así como de aquellas empresas o asociaciones de participación Estatal o Municipal mayoritaria, incorporados o que se incorporen, por solicitud expresa, aceptada por el Consejo Directivo de la Dirección de Pensiones del Estado;
+###### ARTÍCULO 15
 
-III. Los que se incorporen al régimen voluntario establecido en esta Ley;
+De la custodia de los expedientes clasificados como reservados: Los expedientes y documentos clasificados como reservados, serán debidamente custodiados y conservados conforme a los criterios que emitan los comités correspondientes.
 
-Los mencionados en las tres fracciones anteriores, una vez incorporados, tendrán el carácter de afiliados;
+###### ARTÍCULO 16.
 
-IV. Los que, de conformidad con esta Ley, adquieran el carácter de Pensionados por jubilación, edad avanzada o invalidez;
+De los documentos que tienen el carácter de reservados: Tienen el carácter de información reservada en los términos de la Ley y el presente Reglamento la que a continuación se menciona:
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 1989)</small>
+I.- La que ponga en riesgo los procedimientos de toma de decisiones, en las resoluciones y acuerdos que emita el municipio.
 
-V. Los derechohabientes del pensionado o del afiliado;
+II.- Se obstaculice o ponga en riesgo algún procedimiento de control, verificación o investigación por parte del municipio;
 
-VI. Las Entidades Públicas siguientes:
+III.- Se refiera a recomendaciones, opiniones o puntos de vista, que forme parte de un proceso deliberativo de algunos asuntos turnados o que lleve a cabo el municipio, hasta en tanto en cuanto no se haya tomado una decisión definitiva;
 
-A) Los Poderes del Estado de Jalisco; y
+IV.- La información de particulares recibida bajo promesa de reserva;
 
-B) Los Municipios, Organismos Públicos Descentralizados del Estado y de los Municipios, así como las Empresas o Asociaciones de participación Estatal o Municipal mayoritaria incorporadas o que se incorporen, por solicitud expresa, aceptada por el Consejo Directivo de la Dirección de Pensiones del Estado.
+V.- La información que debilite o ponga en riesgo el resultado de una gestión, comisión o mandato que realice algún integrante de cabildo y hasta que se logre el resultado óptimo o se tome la decisión respectiva y,
 
-###### Artículo 4.
+VI.- Se trate de procedimiento de responsabilidad administrativa en tanto no se haya dictado la resolución definitiva.
 
-Quedan excluidos de la aplicación de la presente Ley, las personas que presten sus servicios mediante contratos por tiempo y obra determinada, y aquellos que lo hagan a través de contratos sujetos a la legislación común.
+###### ARTÍCULO 17.
 
-###### Artículo 5.
+De la reclasificación de los documentos y expedientes: La información clasificada como reservada podrá ser reclasificada:
 
-Cuando en esta Ley se utilicen los términos "Dirección de Pensiones", "Dirección" o "Institución", se entiende que se refieren a la Dirección de Pensiones del Estado.
+I.- A partir del vencimiento del periodo de reserva;
 
-###### Artículo 6.
+II.- Cuando desaparezcan las causas que dieron origen a su clasificación;
 
-Las prestaciones y servicios que otorga la presente Ley son:
+III.- Cuando así lo determine el comité.
 
-I. Pensiones:
+###### ARTÍCULO 18.
 
-a) Por jubilación;
+Indicaciones del acuerdo que clasifique la información de reserva: El acuerdo que clasifique la información reservada deberá contener:
 
-b) Por edad avanzada; y
+I.- Fuente de información;
 
-c) Por invalidez;
+II.- Justificación y fundamentación de la clasificación; III.- Plazo de reserva que no excederá de tres años y,
 
-II. Servicio Médico a Pensionados y a sus beneficiarios;
+IV.- Fecha en que comienza a correr el término de reserva.
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 1989)</small>
+###### ARTÍCULO 19.
 
-III. Prestaciones económicas derivadas de la muerte del pensionado o del afiliado;
+De la ampliación del plazo de reserva: Cuando a juicio del titular del área responsable de la información sea necesario ampliar el plazo de reserva de un expediente o documento, el comité respectivo deberá hacer la solicitud correspondiente al comité de información debidamente fundada y motivada, por lo menos con tres meses de anticipación al vencimiento del periodo de reserva, la falta de respuesta en un plazo de tres días será considerada como afirmativa ficta.
 
-IV. Préstamos:
+###### ARTÍCULO 20.
 
-a) A Corto Plazo;
+Índice temático de la información clasificada como de reserva: El municipio deberá publicar el índice temático de la información clasificada como reservada, para conocimiento del público la cual deberá contener:
 
-b) Para la Adquisición de Bienes de Consumo Duradero; e
+I.- El sujeto obligado que generó y conserva la reserva;
 
-c) Hipotecarios;
+II.- Fundamentación y motivación legal que dio origen a la reserva;
 
-V. Arrendamiento y Venta de Inmuebles; y
+III.- Plazo de reserva, así como si comprende todo el expediente o solo algunas partes.
 
-VI. Prestaciones sociales y culturales.
+### CAPÍTULO V. DE LA INFORMACIÓN CONFIDENCIAL
 
-### CAPITULO SEGUNDO. DE LOS ORGANOS DE GOBIERNO
+###### ARTÍCULO 21.
 
-###### Artículo 78.
+De la información confidencial: La información confidencial no está sujeta a plazos de vencimiento y tendrá ese carácter de manera indefinida, salvo que medie el consentimiento del titular de la información o mandamiento por escrito de la autoridad competente.
 
-El gobierno y la administración de la Institución estarán a cargo de:
+###### ARTÍCULO 22.
 
-I. Un Consejo Directivo; y
+Del consentimiento expreso para obtener la información confidencial: Para que pueda accederse a la información confidencial, se requerirá el consentimiento expreso del titular del área responsable de la información, con aprobación del comité de información pública.
 
-II. Un Director General.
+###### ARTÍCULO 23.
 
-###### Artículo 79.
+De los datos de carácter personal: Los datos de carácter personal solo podrán ser recabados con fines oficiales y no podrán ser usados para finalidades incompatibles, salvo que sean usados para fines científicos e históricos.
 
-El Consejo Directivo, estará integrado por cinco consejeros:
-
-I. Dos representantes del Gobierno del Estado, cuya designación hará el Titular del Poder Ejecutivo, de los cuales uno tendrá el carácter de Presidente, y el otro, de Tesorero del Consejo;
-
-II. Un representante del Ayuntamiento de Guadalajara;
-
-> <small>(F. DE E., P.O. 19 DE FEBRERO DE 1987)</small>
-
-III. Un representante de los servidores públicos, nombrado por la Federación de Sindicatos de los Trabajadores al Servicio del Estado; y
-
-IV. Un representante de los servidores públicos del magisterio, que designará la Sección Estatal del Sindicato Nacional de Trabajadores de la Educación.
-
-> <small>(ADICIONADA, P.O. 13 DE MAYO DE 1989)</small>
-
-V. El Director General.
-
-Por cada miembro del Consejo Directivo, las Entidades representadas deberán designar un Suplente. Los Consejeros durarán en su cargo tres años y podrán ser reelectos o removidos, libremente, por quien los hubiese nombrado.
-
-El Consejo Directivo designará un Secretario, quien tendrá voz informativa y levantará las actas de las sesiones. En ningún caso, el nombramiento podrá recaer en algún Consejero, en el Director General, ni en el Subdirector.
-
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 1989)</small>
-
-En ningún caso, el nombramiento podrá recaer en algún Consejero o en el Director General.
-
-###### Artículo 80.
-
-El Consejo Directivo deberá celebrar, cuando menos, una sesión mensual. Para su validez, se requerirá la asistencia mínima de tres consejeros. Los acuerdos se tomarán por mayoría de votos de los miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
-
-En ausencia del Presidente del Consejo, las sesiones serán presididas por el otro representante del Gobierno del Estado.
-
-###### Artículo 81.
-
-Corresponde al Consejo Directivo:
-
-I. Cumplir y hacer cumplir las disposiciones contenidas en este ordenamiento;
-
-II. Elaborar los planes y programas en relación a las prestaciones, servicios y operaciones de la Dirección de Pensiones;
-
-III. Determinar y decidir las inversiones, las reservas actuariales y financieras que deban constituirse, para asegurar el otorgamiento de las prestaciones y servicios que establece esta Ley;
-
-IV. Conceder, denegar, suspender, modificar o revocar las pensiones, en los términos de esta Ley;
-
-V. Autorizar los préstamos hipotecarios;
-
-VI. Examinar, aprobar o modificar, en su caso, el balance anual de la Institución, el que deberá remitir al Congreso del Estado, por conducto de la Contaduría Mayor de Hacienda, para su examen, dentro de los sesenta días siguientes a su aprobación;
-
-VII. Examinar y aprobar los presupuestos de ingresos y egresos de la Institución;
-
-VIII. Conferir poderes, con las facultades que estime necesarias, y revocarlos parcial o totalmente;
-
-IX. Aprobar los reglamentos generales y particulares de la Institución, y de las operaciones que así lo ameriten;
-
-X. Proponer al Ejecutivo del Estado los Anteproyectos de reformas a esta Ley;
-
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 1989)</small>
-
-XI. Administrar los bienes y negocios de la Dirección de Pensiones del Estado, con plenas facultades de gestión, representación, administración y dominio.
-
-El patrimonio inmobiliario será de dos tipos:
-
-a) El que la Institución destine para su uso, el cual no podrá ser enajenado, sino con autorización previa del Congreso del Estado; y
-
-b) El que la Dirección de Pensiones del Estado, por acuerdo del Consejo Directivo, adquiera para fines de vivienda, y así se haga constar en los títulos de adquisición correspondientes, que no requerirá para su enajenación, autorización previa del Congreso del Estado, pero sí requerirá de avalúo bancario, sin que, en ningún caso, el precio que se fije sea menor al valor real del bien, al momento de su enajenación;
-
-XII. Concertar las bases para la contratación de empréstitos y suscribir, por conducto de su Presidente, Tesorero y Director General, los contratos, títulos de crédito y documentos que se requieran para este fin;
-
-XIII. Mandar hacer revisiones a las nóminas de las oficinas retenedoras, con el único fin de verificar la exactitud de los descuentos o cualquiera otra situación relacionada contablemente con la Dirección de Pensiones; y
-
-XIV. En general, realizar todos aquellos actos que sean necesarios para el mejor gobierno de la Dirección de Pensiones y cumplimiento de sus fines.
-
-###### Artículo 82.
-
-El Director General será designado por el titular del Poder Ejecutivo y tendrá las facultades y obligaciones siguientes:
-
-I. Ejecutar los acuerdos del Consejo Directivo;
-
-II. Llevar la contabilidad de la Institución;
-
-III. Formular el balance anual de la Institución y presentarlo a la consideración del Consejo Directivo;
-
-IV. Presentar, para aprobación del Consejo Directivo, el presupuesto anual de ingresos y egresos de la Institución;
-
-V. Mantener informado al Consejo Directivo del Estado que guarda la administración;
-
-VI. Representar a la Dirección de Pensiones ante las autoridades Administrativas, Judiciales y del Trabajo, con todas las facultades generales y las especiales que requieran poder o cláusula especial conforme a la Ley; para tal efecto, estará investido de poder general para pleitos y cobranzas, para actos de administración, y ejercerá aquellas facultades de dominio que, expresa y específicamente, autorice el Consejo Directivo; asimismo, podrá otorgar y revocar poderes generales o especiales para pleitos y cobranzas;
-
-VII. Celebrar los contratos que apruebe el Consejo Directivo, otorgar y suscribir títulos de crédito a nombre, y en representación de la Dirección de Pensiones, con firma mancomunada de los servidores públicos de la institución que autorice dicho Consejo, salvo en el caso de los créditos a que se refiere la frac. XII, del artículo anterior;
-
-VIII. Someter a la decisión del Consejo Directivo todos aquellos asuntos que sean de su exclusiva competencia;
-
-IX. Designar al personal de la Institución y establecer sus funciones;
-
-X. Otorgar, previa aprobación del Consejo Directivo, premios, estímulos e incentivos al personal de la Institución;
-
-XI. Aplicar las medidas disciplinarias que procedan al personal de la Institución;
-
-XII. Convocar a sesión a los miembros del Consejo Directivo, cuando menos una vez al mes;
-
-XIII. Someter a la consideración del Consejo Directivo los proyectos de reglamentos generales y particulares de la Institución y de las operaciones que así lo ameriten;
-
-XIV. Vigilar el estricto cumplimiento de lo preceptuado por esta Ley; y
-
-XV. Las demás que le fije esta Ley, su reglamento y el Consejo Directivo.
-
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 1989)</small>
-
-###### Artículo 83.
-
-El Director de Pensiones será suplido en sus ausencias por el responsable del Area Financiera y, a falta de éste, por el del Area Administrativa.
-
-###### Artículo 7.
-
-El derecho de los afiliados a percibir los beneficios que otorga esta Ley, nace simultáneamente con el pago de las aportaciones a que están obligados.
-
-###### Artículo 8.
-
-Para que los afiliados puedan recibir las prestaciones y servicios que esta Ley establece, deberán cumplir con los requisitos que en la misma y en su reglamento se señalen, así como con los acuerdos que expida la Dirección de Pensiones.
-
-###### Artículo 9.
-
-La Dirección de Pensiones expedirá a los afiliados un documento de identificación, a fin de que puedan ejercitar los derechos que esta Ley les confiere.
-
-### CAPITULO TERCERO. Del Patrimonio
-
-###### Artículo 84.
-
-El patrimonio de la Dirección de Pensiones lo constituyen:
-
-I. Sus propiedades posesiones, derechos y obligaciones;
-
-II. Las aportaciones obligatorias que, por Ley, deben cubrir las Entidades y los servidores públicos;
-
-III. El importe de los créditos e intereses a su favor, y a cargo de los servidores públicos, de las Entidades Públicas o de terceros;
-
-IV. Los intereses, rentas, plusvalías, rendimientos, y demás utilidades que se obtengan de las inversiones que se realicen;
-
-V. Las acciones o partes sociales en las sociedades que constituya o adquiera la Dirección de Pensiones, así como otros títulos-valores o de crédito que emita, en los términos de la legislación aplicable;
-
-VI. El importe de las pensiones, devoluciones, aportaciones, intereses y demás obligaciones que caduquen o prescriban en favor de la Dirección de Pensiones;
-
-VII. El producto de las sanciones pecuniarias en beneficio de la Institución;
-
-VIII. Las donaciones, herencias, legados y fideicomisos que se hicieren en favor de la Dirección de Pensiones;
-
-IX. Los bienes muebles o inmuebles que las Entidades Públicas destinen y entreguen a la Dirección de Pensiones, para la prestación de los servicios que la presente Ley establece; y
-
-X. Cualquiera otra percepción, respecto de la cual, la Dirección de Pensiones resulte beneficiaria.
-
-###### Artículo 85.
-
-El patrimonio de la Dirección de Pensiones gozará de las franquicias, prerrogativas y privilegios concedidos a los fondos y bienes del Gobierno del Estado.
-
-> <small>(F. DE E., P.O. 19 DE FEBRERO DE 1987)</small>
-
-La Dirección de Pensiones se considerará de acreditada solvencia y no estará obligada a constituir depósitos ni fianzas legales.
-
-###### Artículo 10.
-
-Las Entidades Públicas sujetas a esta Ley estarán obligadas a proporcionar, a la Dirección de Pensiones los datos que le soliciten, en relación con los servidores públicos adscritos a las mismas; además deberán remitirle, dentro de los quince días siguientes al que ocurran:
-
-I. Las altas y bajas de los afiliados;
-
-II. Las modificaciones de los sueldos sujetos a descuento; y
-
-III. Los cambios de adscripción.
-
-###### Artículo 11.
-
-Los afiliados están obligados a proporcionar a la Dirección de Pensiones:
-
-I. Los nombres y demás datos de sus derechohabientes; y
-
-II. Los documentos que se requieran para obtener las prestaciones materia de esta Ley.
-
-###### Artículo 12.
-
-Quien obtenga las prestaciones y servicios que esta Ley concede, sin tener derecho, mediante aprovechamiento del error, engaño, simulación, sustitución de personas o cualquier otro acto, será sancionado conforme a lo dispuesto por el Código Penal del Estado.
-
-### CAPITULO CUARTO. De las Reservas e Inversiones
-
-###### Artículo 86.
-
-Los recursos de la Dirección de Pensiones se invertirán en la forma y condiciones que establezca el Consejo Directivo, asignando a cada prestación el porcentaje que corresponda, de acuerdo con los programas y planes que éste apruebe.
-
-Se adoptará el sistema financiero de reparto anual en los préstamos a corto plazo, para la adquisición de bienes de consumo duradero, hipotecarios, arrendamientos, servicios médicos a pensionados, prestaciones sociales y culturales.
-
-En el otorgamiento de las pensiones, se adoptará el sistema financiero de primas escalonadas.
-
-###### Artículo 87.
-
-La Dirección de Pensiones recopilará y clasificará la información sobre los afiliados, pensionados, derechohabientes, o beneficiarios, a efecto de formular escalas de sueldos promedios, de duración de los servicios que esta Ley regula, tablas de mortalidad, morbilidad y las estadísticas para formular los cálculos actuariales necesarios, tendientes a encauzar y mantener el equilibrio financiero de los recursos, para cumplir eficientemente con las prestaciones y servicios que por ley le corresponde administrar.
-
-###### Artículo 88.
-
-En la constitución de las reservas de la Dirección de Pensiones, se dará preferencia a aquellas que sirvan para garantizar el pago de las pensiones.
-
-###### Artículo 89.
-
-La inversión de las reservas financieras deberá hacerse en las mejores condiciones posibles de seguridad, rendimiento y liquidez, prefiriéndose, en igualdad de circunstancias, las que proporcionen mayor beneficio social.
-
-## TITULO QUINTO. Prescripción y Caducidad
-
-###### Artículo 13.
-
-Los servidores públicos sujetos a esta Ley, deberán pagar a la Dirección de Pensiones, una cuota o aportación obligatoria, del 5% mensual del sueldo, sobresueldo y compensación que perciban.
-
-Las Entidades Públicas a que se refiere esta Ley, están obligadas a pagar a la Dirección de Pensiones, un 5% mensual sobre los mismos conceptos que señala el párrafo anterior.
-
-Ambos, estarán obligados a cubrir las aportaciones que fije el Consejo Directivo, en los términos del artículo siguiente de esta Ley.
-
-###### Artículo 14.
-
-Cuando las aportaciones que establece esta Ley a favor de la Dirección de Pensiones, así como los productos y recursos propios de que disponga, no sean suficientes para proporcionar las prestaciones y demás obligaciones a su cargo, se propondrán al Consejo Directivo las reformas legales.
-
-El Consejo Directivo deberá dictar los acuerdos procedentes, a fin de que dichas prestaciones y servicios se prestan (sic) con regularidad.
-
-###### Artículo 15.
-
-Las aportaciones a cargo de las Entidades Públicas sujetas al régimen de esta Ley, tienen carácter de obligatorias; por consiguiente, deberán consignarse en las partidas de sus respectivos presupuestos de egresos.
-
-###### Artículo 16.
-
-Las entidades Públicas sujetas a este ordenamiento, están obligadas a descontar, y enterar quincenalmente, a la Dirección de Pensiones, el monto de las aportaciones a que se refiere esta Ley, así como el importe de los descuentos, que por adeudos, ordene la citada Institución.
-
-En el mismo plazo, están obligadas a enviar a la dirección de Pensiones las nóminas o recibos en que consten los descuentos.
-
-Para los efectos de este artículo, la Dirección de Pensiones calculará el monto de las entregas, quincenalmente, ajustando la cuenta provisionalmente, cada mes, y de manera definitiva, cada año.
-
-###### Artículo 17.
-
-Cuando las Entidades Públicas incorporadas no cumplan con las obligaciones establecidas en los Arts. 13 y 16 de esta Ley, deberán pagar intereses a la Dirección de Pensiones, conforme a una tasa equivalente al costo porcentual promedio de captación de recursos del Sistema Nacional Bancario.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2007)</small>
-
-Tratándose de los sujetos obligados, la Dirección de Pensiones deberá requerir de manera inmediata el cumplimiento de dichas obligaciones, además, deberá informar al Congreso del Estado, cuando omitan dar cuenta de las aportaciones y descuentos a que se refiere el artículo 16 de esta ley por más de tres meses.
-
-###### Artículo 18.
-
-Los afiliados que desempeñen dos o más empleos en las Entidades Públicas a que se refiere esta Ley, cubrirán sus cuotas sobre la totalidad de los sueldos, sobresueldos y compensaciones que correspondan, los que servirán de base para fijar el monto de las pensiones y prestaciones correspondientes.
-
-###### Artículo 19.
-
-Cuando un servidor público tenga que retirarse de su empleo, para desempeñar un puesto de elección popular, ocupar algún cargo sindical, o por licencia concedida en los términos de la ley de la materia, o a causa de enfermedad, y posteriormente se reincorpore, el periodo de su ausencia se computará como tiempo efectivo de servicio, siempre que hubiese cubierto, mensualmente, sus aportaciones, sobre la base de la categoría de que disfrutaba al momento de su separación.
-
-###### Artículo 20.
-
-Si el servidor público a que se refiere el artículo anterior, no hubiese pagado sus aportaciones y quisiera hacer uso del beneficio que en él se concede, deberá cubrir a la Dirección de Pensiones el importe de las aportaciones insolutas, más el interés moratorio, a la tasa que determine el Consejo Directivo.
-
-### CAPITULO UNICO
-
-###### Artículo 90.
-
-El derecho a las pensiones es imprescriptible, sin embargo, caducarán en favor de la Institución, los pagos de las pensiones anteriores a dos años, contados a partir de la fecha de presentación de la solicitud.
-
-###### Artículo 91.
-
-El derecho de los afiliados a la devolución de sus fondos, prescribe en tres años, contados a partir del día siguiente al de la fecha de su última aportación.
-
-###### Artículo 21.
-
-Toda licencia sin goce de sueldo, que exceda de un mes, interrumpirá el disfrute de los derechos y beneficios que concede esta Ley. Al reincorporarse al servicio, el afiliado readquirirá el disfrute de los mismos.
-
-###### Artículo 22.
-
-No se computarán como tiempo de servicio, las licencias concedidas al afiliado por causa de enfermedad, cuando éstas excedan de dos años.
-
-###### Artículo 23.
-
-Al afiliado que se separe definitivamente del servicio, sin tener derecho a pensión, se le devolverán, previa solicitud, el total de las aportaciones efectuadas por éste al fondo de Pensiones.
-
-> <small>(F. DE E., P.O. 19 DE FEBRERO DE 1987)</small>
+### CAPÍTULO VI. DE LA PROTECCIÓN DE DATOS PERSONALES
 
 ###### Artículo 24.
 
-La devolución de las aportaciones del afiliado se realizará, dentro de los treinta días siguientes a la fecha de la presentación de la solicitud, pudiendo ser retenidas éstas y aplicadas al pago de los adeudos que tuviere con la Dirección de Pensiones.
+De los procedimientos para obtener los datos personales: Éste garantizará la protección de los derechos de los individuos, en particular la vida privada y a la intimidad, así como el acceso y corrección de sus datos personales, y solo en casos de extrema necesidad podrán ser otorgados.
 
-###### Artículo 25.
+###### ARTÍCULO 25.
 
-El derecho a las pensiones, por jubilación, edad avanzada e invalidez, nace cuando el afiliado se encuentre en los supuestos consignados en esta ley, y satisfaga los requisitos que la misma señala. La Dirección de Pensiones, de acuerdo con sus recursos económicos, concederá estos beneficios, dando prioridad a los de mayor antigüedad. Todas las pensiones se otorgarán por cuota mensual.
+De la obligación de las unidades administrativas sobre datos personales: Las unidades administrativas deberán hacer de conocimiento al público en general los datos personales de los servidores públicos, siempre y cuando no afecte su seguridad personal indicando el uso que se les da y el nombre del responsable.
 
-## TITULO CUARTO. De la Administración de la Dirección de Pensiones del Estado
+## TITULO SEGUNDO. DEL ACCESO A LA INFORMACIÓN PÚBLICA MUNICIPAL
 
-###### Artículo 26.
+### CAPÍTULO I. DEL ÁREA RESPONSABLE DE LA INFORMACIÓN PÚBLICA
 
-Las solicitudes de las pensiones a que se refiere este capítulo, deberán ser resueltas, dentro de los sesenta días, contados, a partir de la fecha en que la Dirección de Pensiones reciba la documentación necesaria.
+###### ARTÍCULO 26.
 
-###### Artículo 27.
+De la creación del área: Se crea el área responsable de la información municipal de Apizaco, Tlaxcala, misma que será responsable de garantizar y agilizar el flujo de información entre los sujetos obligados y los particulares. El titular del área responsable de la información será designado por el Presidente Municipal.
 
-Es procedente la obtención de una pensión otorgada por la Dirección de Pensiones, con la percepción de cualquiera otra concedida a su beneficiario, por un régimen distinto de seguridad social.
+###### ARTÍCULO 27.
 
-###### Artículo 28.
+Del Titular del Área: El Titular del área responsable de la información municipal, contará con los conocimientos necesarios en administración pública municipal, para el ejercicio de sus funciones, contará con personal suficiente, los cuales deberán ser electos entre el mismo personal que se encuentra en funciones en la administración municipal en turno.
 
-Es improcedente la percepción de una pensión otorgada por la Institución, con el desempeño de cualquier cargo, empleo o comisión remunerado en las Entidades sujetas al régimen de esta Ley, excepto los señalados en el Art. 4°.
+###### ARTICULO 28.
 
-###### Artículo 29.
+Del desempeño del titular del área: El titular del área será evaluado de sus actividades semestralmente por el comité, a efecto de determinar el cumplimiento de las disposiciones que establece la ley así como el presente Reglamento, y en caso contrario será removido del cargo, respetándole su derecho de audiencia.
 
-El salario base para calcular el monto de las pensiones será el promedio de sueldo, sobresueldo y compensación, que hubiese cotizado el afiliado en el último año de servicio; en ningún caso, el monto de la pensión podrá ser menor al salario mínimo mensual, vigente en la ciudad de Guadalajara, en el momento en que se otorgue la prestación.
+###### ARTÍCULO 29.
 
-###### Artículo 30.
+De las atribuciones y obligaciones del área responsable: El área responsable tendrá las siguientes atribuciones y obligaciones:
 
-Si el pensionado decidiere continuar en el servicio, deberá solicitar la suspensión de los efectos de la pensión; sin embargo, al reanudarse el beneficio, no podrá modificarse el salario base con el que se obtuvo ésta, sin perjuicio de lo dispuesto en el artículo siguiente.
+I.- Recibir y dar trámite a las solicitudes de acceso a la información;
 
-###### Artículo 31.
+II.- Recabar y difundir la información a que se refiere este Reglamento municipal;
 
-El monto de las pensiones podrá incrementarse en la misma proporción, y simultáneamente, a los aumentos de sueldos nominales que se otorguen a los servidores públicos en activo.
+III.- Promover que los sujetos obligados actualicen permanentemente y periódicamente la información en los términos previstos por la ley y el presente Reglamento;
 
-###### Artículo 32.
+IV.- Solicitar a los sujetos obligados, a efecto de que proporcionen la información, prevista en la ley y el presente Reglamento de manera eficaz;
 
-Las pensiones que establece esta Ley son inembargables, salvo los casos de resolución judicial que versen sobre la ministración de alimentos, y cuando se trate del pago de adeudos con la Dirección de Pensiones.
+V.- Establecer las medidas y lineamientos, o procedimientos internos que procuren mayor eficiencia en la gestión de las solicitudes de información;
 
-Será nula toda enajenación, cesión o gravamen de las pensiones.
+VI.- Elaborar formatos de solicitudes de acceso a la información, así como los de acceso y corrección de datos personales, así mismo establecer una guía para facilitar el acceso a la información pública;
 
-###### Artículo 33.
+VII.- Divulgar entre los servidores públicos y los particulares los beneficios del manejo público de la información, como también sus responsabilidades en el buen uso y conservación de ella;
 
-En el otorgamiento de las pensiones, la continuidad en el servicio no es condición para reconocer la antigüedad.
+VIII.- Elaborar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia;
 
-> <small>(F. DE E., P.O. 19 DE FEBRERO DE 1987)</small>
+IX.- Elaborar y dar seguimiento de un registro sobre las solicitudes de acceso a la información pública sus resultados y costos;
 
-Cuando el afiliado cause baja y opte por el retiro de sus aportaciones, conservará sus derechos de pensión, hasta por la cuarta parte del tiempo total que hubiese contribuido al fondo de pensiones.
+X.- Supervisar la aplicación de los criterios específicos por los sujetos obligados, en materia de clasificación de la información municipal;
 
-###### Artículo 34.
+XI.- Confirmar, modificar o revocar la clasificación hecha por los sujetos obligados;
 
-En el caso de que el afiliado hubiese desempeñado simultáneamente dos o más empleos compatibles, el cómputo de los años de servicio se hará, considerando uno solo de los empleos.
+XII.- Informar bimestralmente al comité de información pública sobre el trabajo realizado;
 
-En el caso de los afiliados que perciben salario por cátedra, se les computará, como número de horas, el promedio que se tenga en el último año de servicio, sin que pueda exceder del tiempo completo.
+XIII.- Así como todo lo que le confiera la ley para el cumplimiento de sus atribuciones.
 
-###### Artículo 35.
+###### ARTÍCULO 30.
 
-En el cómputo final de tiempo de servicio, cuando resulte una fracción que exceda de seis meses, se tomará como año completo.
+De los integrantes del comité: El comité de información pública estará integrado por:
 
-###### Artículo 36.
+I.- Presidente Municipal
 
-El afiliado que recibiere el beneficio de alguna pensión, no tendrá derecho a la devolución de sus fondos.
+II.- Secretario del Ayuntamiento
 
-###### Artículo 37.
+III.- Síndico Municipal.
 
-Los pensionados tendrán derecho a una gratificación anual, cuando menos, de un mes de pensión, la que se pagará, a más tardar, en el mes de diciembre. Los que tuviesen menos de un año de pensionados, recibirán la parte proporcional.
+###### ARTICULO 31.
 
-###### Artículo 38.
+De las atribuciones del comité: El comité de información pública municipal además de las atribuciones que le confiere1a Ley, tendrá las siguientes:
 
-Para que el afiliado pueda disfrutar de estas prestaciones, deberá cubrir, previamente, a la Dirección de Pensiones los adeudos que tuviese con la misma.
+I.- Establecer, los lineamientos y criterios que deberán observar los encargados del área responsable de proporcionar la información, con relación a las solicitudes hechas a los particulares;
 
-#### SECCION SEGUNDA. Pensión por Jubilación
+II.- Vigilar para que el presente ordenamiento sea observado en plenitud por los servidores públicos;
 
-###### Artículo 39.
+III.- Vigilar que los encargados del área responsable de la información se conduzcan bajo los lineamientos de honestidad, eficiencia, imparcialidad y de trabajo en equipo;
 
-Tienen derecho a la jubilación, los trabajadores con 30 años o más de servicios, cualquiera que sea su edad, siempre que hubieren contribuido al fondo de pensiones por lo menos durante 20 años.
+IV.- Establecer y revisar los criterios de clasificación, reclasificación y custodia de la información reservada y confidencial y,
 
-###### Artículo 40.
+V.- Establecer los acuerdos generales para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de los órganos obligados.
 
-La pensión por jubilación dará derecho al pago vitalicio de una cantidad equivalente al 100 por ciento del salario base determinado en el Art. 29 de esta Ley; el derecho a su percepción comenzará, a partir del día siguiente a aquél en que el afiliado hubiese cobrado el último sueldo.
+### CAPÍTULO II. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN
 
-#### SECCION TERCERA. Pensión por Edad Avanzada
+###### ARTÍCULO 32.
 
-###### Artículo 41.
+De la solicitud de información: Para los efectos del articulo 34 de la Ley de Información Pública para el Estado de Tlaxcala, las solicitudes deberán hacerse por escrito o de manera verbal, señalando la persona o personas autorizadas para recibir la información, indicando el domicilio en donde se reciban todo tipo de notificaciones y la persona o personas autorizadas para recibirlas. Cuando la solicitud se haga de manera verbal el encargado del área deberá de levantar el acta correspondiente misma que será firmada por el peticionario.
 
-Los afiliados que tengan 65 años o más de edad y 20 años de servicios como mínimo y de contribución al fondo de pensiones, adquieren derecho a la pensión por edad avanzada.
+###### ARTÍCULO 33.
 
-###### Artículo 42.
+De los plazos para entregar la información: La información solicitada deberá entregarse durante el transcurso de los cinco días hábiles siguientes, contados a partir del día siguiente de la recepción del escrito de solicitud o de levantada el acta de comparecencia.
 
-El monto de esta pensión se calculará, aplicado al salario base a que se refiere el Art. 29 de esta Ley, los porcentajes de la siguiente tabla:
+###### ARTÍCULO 34.
 
-20 años de servicio 60%
+De la notificación: Las notificaciones que se hagan a los solicitantes se harán por estrados mismos que se fijaran en lugar visible del área que ocupe el área responsable de dar la información.
 
-21 años de servicio 63%
+###### ARTÍCULO 35.
 
-22 años de servicio 66%
+De la negativa de otorgar información: Las resoluciones de los comités que nieguen el acceso a la información, deberán estar fundados y motivados, indicándole al solicitante que puede interponer el recurso de inconformidad, tal y como lo establece el artículo 46 de la Ley de Información Pública para el Estado de Tlaxcala.
 
-23 años de servicio 69%
+###### ARTÍCULO 36.
 
-24 años de servicio 72%
+De los costos por reproducción de la información: En la resolución se le indicará al solicitante el costo y las modalidades por las cuales puede ser reproducida la información solicitada.
 
-25 años de servicio 75%
+###### ARTÍCULO 37.
 
-26 años de servicio 80%
+Del plazo para la consulta: Los solicitantes tendrán un plazo de diez días a partir de la notificación para consultar la información solicitada, transcurrido ese término no podrán acceder a ella, sino sólo por nueva solicitud.
 
-27 años de servicio 85%
+### CAPÍTULO III. RESPONSABILIDADES Y SANCIONES
 
-28 años de servicio 90%
+###### ARTÍCULO 38.
 
-29 años de servicio 95%
+De la responsabilidad del titular del área: El titular del área será responsable por cualquier acción u omisión en el ejercicio de sus funciones.
 
-El derecho de pago comenzará, a partir del día siguiente a aquél en que el afiliado hubiese cobrado el último sueldo.
+###### ARTÍCULO 39.
 
-#### SECCION CUARTA. Pensión por Invalidez
+De las sanciones: El responsable del área será sancionado en términos de lo establecido por el capítulo 1 y II de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tlaxcala.
 
-###### Artículo 43.
+## TRANSITORIOS
 
-Adquieren derecho a la pensión por invalidez, los afiliados que, teniendo diez años de servicio e igual tiempo de cotización al fondo de Pensiones, se inhabiliten física o mentalmente, en forma total y permanente.
+PRIMERO.- El presente Reglamento entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Tlaxcala.
 
-###### Artículo 44.
+SEGUNDO.- De la publicación de este Reglamento. El presidente Municipal, lo remitirá al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado Libre y Soberano de Tlaxcala.
 
-Podrá concederse esta pensión a los afiliados que se inhabiliten, en forma total y permanente, por causas del empleo en ocupaciones de alto riesgo, sin que tengan el tiempo de servicio ni las cotizaciones que se establecen en el artículo anterior. El Consejo Directivo determinará, en cada caso, a través del Departamento de Trabajo y Previsión Social del Estado, si el empleo es o no de alto riesgo.
+TERCERO.- Las dependencias y entidades del Municipio, contarán con un plazo de 30 días, contados a partir de la entrada en vigor de este Reglamento, para proponer al Comité de Información Pública, la información que habrá de considerarse como reservada y confidencial, la cual será clasificada a través de un acuerdo publicado en el Periódico Oficial del Estado.
 
-###### Artículo 45.
+CUARTO.- Con este Reglamento se da cumplimiento al artículo Cuarto Transitorio de la Ley de Información Pública para el Estado de Tlaxcala.
 
-No se concederá la pensión por invalidez:
-
-I. Cuando ésta sea consecuencia de un acto intencional o delictivo, cometido por el afiliado; ni
-
-II. Cuando el estado de invalidez sea anterior al nombramiento del afiliado.
-
-###### Artículo 46.
-
-El otorgamiento de este beneficio queda sujeto a la satisfacción de los siguientes requisitos:
-
-I. La solicitud del afiliado o de la Entidad Pública donde preste sus servicios, o de sus representantes legales;
-
-II. Acudir, dentro de los 30 días siguientes al en que se presente la solicitud, a la práctica del examen médico correspondiente; y
-
-III. Dictamen pericial de los médicos designados por la Dirección de Pensiones, que declare el estado de invalidez, el que deberá emitirse dentro de los 30 días siguientes al que se practique el examen.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
-
-###### Artículo 47.
-
-Si el dictamen médico fuere negativo y el afiliado se manifestare inconforme con el mismo la Dirección de Pensiones someterá el caso a la Secretaría de Salud y Bienestar Social del Estado, para su estudio y resolución definitiva.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
-
-###### Artículo 48.
-
-El afiliado que solicite una pensión por invalidez, y quienes resulten pensionados por la misma causa, están obligados a someterse a los exámenes y tratamientos médicos que la Dirección de Pensiones, a través de la Secretaría de Salud y Bienestar Social del Estado, les prescriba; lo anterior es condición para el trámite de su solicitud y el goce de la pensión.
-
-###### Artículo 49.
-
-Para calcular el monto de la pensión por invalidez, se aplicarán, en lo conducente, las bases establecidas en los Arts. 29 y 42 de esta Ley, pero, en ningún caso, será menor del 60% de salario base.
-
-###### Artículo 50.
-
-El pago de esta pensión se suspenderá, si el afiliado no se somete a los tratamientos médicos prescritos, pudiendo reanudarse, una vez cumplido lo anterior, sin que haya lugar al reintegro de las prestaciones que dejó de percibir durante el tiempo que duró la suspensión.
-
-###### Artículo 51.
-
-La pensión por invalidez será revocada, cuando el pensionado recupere su capacidad para el servicio. En tal caso, la Entidad Pública en que hubiese prestado sus servicios tendrá la obligación de restituirlo en su empleo, si de nuevo es apto para el mismo o, en caso contrario, asignarle un trabajo que pueda desempeñar, debiendo ser, cuando menos, de una categoría equivalente a la que disfrutaba al acontecer la invalidez.
-
-Si el pensionado no aceptare reingresar al servicio, o si estuviese desempeñando cualquier trabajo remunerado, le será revocada la pensión.
-
-> <small>(F. DE E., P.O. 19 DE FEBRERO DE 1987)</small>
-
-Si el pensionado no fuese restituido a su empleo o no se le asignare otro, en los términos del primer párrafo de este artículo, por causa imputable a la Entidad Pública en que hubiese prestado sus servicios, seguirá percibiendo el importe de la pensión, pero ésta será a cargo de la Entidad Pública correspondiente.
+EXPEDIDO EN EL SALÓN DE CABILDOS DE LA PRESIDENCIA MUNICIPAL DE APIZACO, TLAXCALA, A LOS OCHO DÍAS DEL MES DE NOVIEMBRE DEL DOS MIL CINCO; PRESIDENTE MUNICIPAL, C. REYES RUIZ PEÑA; SÍNDICO MUNICIPAL, L.E.E. ARTURO GREGORIO PIZACO RÍOS; PRIMER REGIDOR, C. ABEL CAMPOS BÁRCENAS; SEGUNDO REGIDOR, ARQ. ARMANDO BARCEINAS PAREDES; TERCER REGIDOR, LIC. MA. DEL SOCORRO LÓPEZ ROSAS; CUARTO REGIDOR, C.P. ALFONSO GONZÁLEZ HERRERA; QUINTO REGIDOR, C. JOSÉ DOLORES ISLAS MACÍAS; SEXTO REGIDOR, LIC. JOSÉ VICENTE HERNÁNDEZ HERNÁNDEZ; SÉPTIMO REGIDOR, LIC. JACINTO ROSARIO CUATECÓN; PRESIDENTE DE COMUNIDAD DE CERRITO DE GUADALUPE, C. MAURO PADILLA ISLAS; PRESIDENTE DE COMUNIDAD DE GUADALUPE TEXCALAC, C. JOSÉ AARÓN MACÍAS SÁNCHEZ; PRESIDENTE DE COMUNIDAD DE JOSÉ MARÍA MORELOS, C. BENJAMÍN JUAN TRUJILLO MACÍAS; PRESIDENTE DE COMUNIDAD DE SAN ISIDRO, BIOL. RENATO GARCÍA CARMONA; PRESIDENTE DE COMUNIDAD DE SAN LUIS APIZAQUITO, C. CARLOS GONZÁLEZ BASTIDA; PRESIDENTE DE COMUNIDAD DE SANTA ANITA HUILOAC, ING. LÁZARO HERNÁNDEZ SALINAS; PRESIDENTE DE COMUNIDAD DE SANTA MARÍA TEXCALAC, L.A.E. ANTONIETA FLORES LEZAMA. Y EN CUMPLIMIENTO A LO DISPUESTO POR LOS ARTÍCULOS 33 FRACCIÓN I Y 41 FRACCIÓN III, DE LA LEY MUNICIPAL DEL ESTADO DE TLAXCALA, PROMULGO EL REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE APIZACO, ESTADO DE TLAXCALA, PARA SU DEBIDA PUBLICACIÓN Y OBSERVANCIA EN APIZACO, TLAXCALA, A LOS OCHO DÍAS DEL MES DE NOVIEMBRE DEL DOS MIL CINCO. RÚBRICAS.
