@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-comite-municipal-contra-las-33272"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-27"
-last_updated: "2003-06-27"
+last_updated: "2009-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL COMITE MUNICIPAL CONTRA LAS ADICCIONES (COMCA) DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de junio de 2003.
 
@@ -63,6 +63,8 @@ CONADIC: Al Consejo Nacional contra las Adicciones.
 
 ### CAPITULO II. De su integración
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 3.
 
 El Comité Municipal contra las Adicciones, estará integrado por las siguientes:
@@ -71,79 +73,41 @@ I.- Autoridades Municipales:
 
 a) El Presidente Municipal, quien fungirá como Presidente del Comité;
 
-b) El Coordinador de Desarrollo Humano, quien podrá suplir al Presidente en sus ausencias;
+b) El Titular de la dirección Municipal Contra las Adicciones (DIMCA), quien fungirá como Coordinador General del Comité.
 
-c) El Secretario de Seguridad Pública;
+c) Regidor Presidente de la Comisión de Asistencia, Salud, Desarrollo Social y Humano;
 
-d) Regidor Presidente de la Comisión de Seguridad Publica;
+d) El Secretario de Seguridad Pública;
 
-e) Regidor Presidente de la Comisión de Asistencia y Desarrollo Social;
+e) El titular de la Dirección Municipal de Salud;
 
-f) Regidor Presidente de la Comisión de Educación, Cultura y Bibliotecas;
+f) El Director del Sistema para el Desarrollo Integral de la Familia (DIF Municipal);
 
-g) Regidor Presidente de la Comisión de Juventud;
+g) El Director del Instituto Municipal del Deporte;
 
-h) Regidor Presidente de la Comisión de Deportes;
+h) El Director del Instituto Municipal de la Juventud;
 
-i) Regidor Presidente de la Comisión de Vialidad y Transporte;
+i) El Director del Instituto Municipal de la Mujer.
 
-j) El Director de Desarrollo Social Municipal;
+II.- Representantes de Instituciones de Salud:
 
-k) El Presidente de DIF Municipal;
+a) El Jefe de la Jurisdicción de Servicios de Salud en Tijuana.
 
-l) El Director de Servicios Médicos Municipales;
+b) El Representante del Instituto de Psiquiatría de Baja California.
 
-m) El Director de la Estancia Municipal para Infractores;
+III.- Un representante de la Universidad Autonóma de Baja California, Zona Costa;
 
-n) El Director del Instituto Municipal del Deporte;
+IV.- Un representante del Colegio de Profesionistas;
 
-o) El Director del Instituto Municipal de la Juventud;
+V.- Un representante de los Centros de Integración Juvenil;
 
-p) El Director del Instituto Municipal de la Mujer;
+VI.- Un representante de Grupos Religiosos;
 
-q) El Director del Hospital Psiquiátrico;
+VII.- Un representante de la Asociación de Periodistas de Tijuana (APT);
 
-r) El Jefe del Departamento del Sistema Educativo Municipal, y
+VIII.- Un representante de los Clubes Sociales;
 
-s) Delegados Municipales.
-
-II.- Autoridades Estatales:
-
-a) El Jefe de la Jurisdicción de Servicios de Salud en Tijuana, quien fungirá como Coordinador del COMCA;
-
-b) El Coordinador del Programa Estatal Integral contra las Adicciones en el Municipio de Tijuana;
-
-c) El Director de Programas de la Secretaria de Seguridad Publica del Estado en Tijuana;
-
-d) EL Delegado del Sistema Educativo Estatal en Tijuana;
-
-e) El Director del Consejo para Menores Infractores, y
-
-f) Un representante del ISSTECALI.
-
-III.- Autoridades Federales:
-
-a) El Coordinador Estatal de Prevención del Delito y Servicios a la Comunidad de la Procuraduría General de la República;
-
-b) Un representante de la Policía Federal Preventiva en Tijuana; y
-
-c) Un representante del ISSSTE.
-
-IV.- El Presidente del Comité Municipal de Seguridad Pública;
-
-V.- El Director de la Facultad de Medicina de la Universidad Autónoma de Baja California, Zona Costa;
-
-VI.- El Director de la Facultad de Derecho de la Universidad Autónoma de Baja California, Zona Costa;
-
-VII.- Un representante de los Colegios de Médicos de Tijuana;
-
-VIII.- Un representante de los Centros de Integración Juvenil;
-
-IX.- Un representante de los Centros de Rehabilitación, que será elegido por los anteriores integrantes del Comité, previa convocatoria que se realice, y en la que se especifique el procedimiento de selección;
-
-X.- Un representante del IMSS, y
-
-XI.- Un representante de las Iglesias Católica, Adventista y Evangélica.
+IX.- Los Presidentes de cada Red de Centros de Rehabilitación debidamente inscritos y registrados para integrar el COMCA.
 
 ### CAPITULO III. De las funciones del COMCA
 
@@ -310,3 +274,15 @@ PRIMERO. Publíquese en el Periódico Oficial del Estado de Baja California, y e
 SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones que sean contrarias al presente Reglamento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 20 DE NOVIEMBRE DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- Este H. Cabildo del XIX Ayuntamiento Constitucional de Tijuana, Baja California, autoriza la reforma al artículo tercero del Reglamento Interno del Comité Municipal Contra las Adicciones del Municipio de Tijuana, Baja California (COMCA), en los términos del documento ANEXO UNICO, el cual se tiene como reproducido como si se insertase a la letra del presente dictamen, para todos los efectos legales correspondientes.
+
+SEGUNDO.- Las presentes reformas entran en vigor al momento de su aprobación. Para conocimiento del público en general, deberán de publicarse en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Se derogan todas aquellas disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
