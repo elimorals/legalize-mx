@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2009-09-05"
+last_updated: "2009-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -141,7 +141,9 @@ Cuando alguna autoridad ordene la detención o instruya proceso penal contra un 
 
 Los diputados tendrán los siguientes derechos:
 
-I. Formar parte de hasta cinco comisiones legislativas ordinarias, y sin limitación de número en las comisiones especiales, a excepción de estas últimas cuando se integren con número determinado;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+I. Formar parte de hasta seis comisiones legislativas, y sin limitación de número en las comisiones especiales, a excepción de estas últimas cuando se integren con número determinado;
 
 II. Recibir, de acuerdo con las posibilidades presupuestarias, las franquicias y apoyos logísticos que sean indispensables para el ejercicio de sus funciones, siempre y cuando correspondan a comisiones oficiales conferidas por los órganos de gobierno competentes;
 
@@ -639,11 +641,11 @@ Las comisiones dictaminarán conjuntamente cuando la naturaleza del asunto así 
 
 Cuando exista duda respecto de la competencia de las comisiones, decidirán sobre el particular la Mesa Directiva de la Asamblea o la Diputación Permanente en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 55.
 
-La competencia de las Comisiones Legislativas ordinarias abarca enunciativamente los temas o materias que a continuación se indican:
+La competencia de las Comisiones Legislativas ordinarias es enunciativamente la que a continuación se indica:
 
 I. Gobernación y Puntos Constitucionales.
 
@@ -815,19 +817,17 @@ l) Las que le otorgue la legislación hacendaria y fiscal, estatal y municipal; 
 
 m) Las demás que determine la Asamblea legislativa.
 
-VI. Educación, Cultura, Ciencia y Tecnología.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+VI. Educación y Cultura.
 
 a) Los que se relacionen con la prestación, organización, ejecución y evaluación de la política educativa del Estado y los municipios;
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
-
-b) Los que tengan por finalidad la regulación del sistema educativo, profesiones y actividades técnicas;
+b) Los que tengan por finalidad la regulación del sistema educativo local, incluidas las reformas constitucionales de la materia;
 
 c) Los vinculados con la desafectación de los bienes inmuebles de la Escuela Normal Superior de Nayarit;
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
-
-d) Conocer concurrentemente sobre la designación o ratificación del Presidente del Patronato para la Administración del Impuesto Especial destinado a la Universidad Autónoma de Nayarit;
+d) La designación o ratificación del Presidente del Patronato para la Administración del Impuesto Adicional destinado a favor de la Universidad Autónoma de Nayarit;
 
 e) Los relativos a la apertura y funcionamiento de los centros de educación que impartan particulares;
 
@@ -841,17 +841,9 @@ i) Los relacionados con los procedimientos para la imposición de nombres en el 
 
 j) Conocer concurrentemente de las iniciativas que tengan por objeto otorgar premios o condecoraciones;
 
-k) La organización del concurso estatal de oratoria "Juan Escutia";
+k) La organización del concurso estatal de oratoria "Juan Escutia"; y
 
-l) Las relativas a la legislación en materia de ciencia y tecnología;
-
-m) Conocer en la etapa que señala la Ley, del otorgamiento al Premio Estatal Medalla Nayarit a la investigación Científica y Tecnológica;
-
-n) Lo relacionado con la regulación o creación de organismos públicos descentralizados o fideicomisos que tengan por finalidad el impulso de la ciencia y tecnología; y
-
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
-
-o) Las demás que determine la Asamblea legislativa.
+l) Las demás que determine la Asamblea Legislativa.
 
 VII. Trabajo y Previsión Social.
 
@@ -1046,6 +1038,32 @@ e) Conocer de los asuntos que por su propia denominación y naturaleza del tema,
 f) Los trámites relativos a la obtención de información de las oficinas públicas cuando los diputados la hubiesen solicitado y no les haya sido proporcionada para los efectos previstos por la Constitución local; y
 
 g) Las demás que determine la Asamblea Legislativa.
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+XXIII. Ciencia, Tecnología e Innovación.
+
+a) Las relativas a la legislación en materia de Ciencia, Tecnología e Innovación;
+
+b) Lo referente al otorgamiento del Premio Estatal Medalla Nayarit a la investigación Científica y Tecnológica;
+
+c) Lo relacionado con la regulación o creación de organismos públicos descentralizados o fideicomisos que tengan por finalidad el impulso de la ciencia, la tecnología y la innovación;
+
+d) Lo concerniente a los programas y proyectos estatales en materia de ciencia y tecnología e Innovación que ejecute y/o promueva el Gobierno del Estado;
+
+e) Lo referente a la ciencia, la tecnología y la Innovación que se promueva y fomente en el Estado y los municipios;
+
+f) Lo relacionado a las actividades que lleven a cabo las Instituciones de Educación Superior, Centros e Institutos de Investigación en el Estado; en los asuntos que sean competencia del Congreso del Estado; o en aquellos que les sean solicitados por dichas instituciones, investigadores y científicos;
+
+g) La promoción de una cultura de ciencia, tecnología e innovación;
+
+h) Los apoyos económicos destinados al desarrollo científico y tecnológico;
+
+i) El Estudio, análisis y dictamen de las iniciativas de ley, decretos y acuerdos que le sean turnadas de todo lo relacionado con la ciencia, la tecnología y la Innovación;
+
+j) Las demás que se deriven de su propia denominación en correspondencia con las respectivas áreas de la administración pública; y
+
+k) Las demás que determine la Asamblea Legislativa.
 
 ###### Artículo 56.
 
@@ -3026,5 +3044,11 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 5 DE SEPTIEMBRE DE 2009.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2009.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- De conformidad a lo dispuesto por el artículo 35, fracción VIII, de la Ley Orgánica del Poder Legislativo, la Comisión de Gobierno Legislativo en un plazo que no exceda 15 días contados (sic) partir del día siguiente de la entrada en vigor del presente Decreto, propondrá al Pleno el acuerdo que designe a los Diputados que integrarán la Comisión de Ciencia, Tecnología e Innovación.
 
 ### Capítulo V. Áreas de Apoyo Técnico Administrativo 88
