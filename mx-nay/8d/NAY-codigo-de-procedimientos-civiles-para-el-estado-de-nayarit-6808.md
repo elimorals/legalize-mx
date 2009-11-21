@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2009-04-18"
+last_updated: "2009-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -1351,7 +1351,7 @@ Cada parte dentro del tercer día nombrará a un perito, a no ser que se pusiere
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
-ARTÍCULO 191 "A".- El Juez nombrará el perito que corresponda a cada parte en los siguientes casos:
+ARTICULO 191 "A".- El Juez nombrará el perito que corresponda a cada parte en los siguientes casos:
 
 I. Cuando el designado por las partes no aceptare dentro de las cuarenta y ocho horas que sigan a la notificación de su nombramiento;
 
@@ -1361,7 +1361,27 @@ III. Cuando el que fue nombrado y aceptó el cargo lo renunciare después.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
-ARTÍCULO 191"B".- Los honorarios de cada perito serán pagados por la parte que lo nombró, o en cuyo defecto lo hubiere nombrado el Juez, y el del tercero, por ambas partes, sin perjuicio de lo que disponga la resolución sobre condenación en costas.
+ARTICULO 191"B".- Los honorarios de cada perito serán pagados por la parte que lo nombró, o en cuyo defecto lo hubiere nombrado el Juez, y el del tercero, por ambas partes, sin perjuicio de lo que disponga la resolución sobre condenación en costas.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+ARTICULO 191 "C".- La prueba genética de caracterización del ácido desoxirribonucleico de las células (ADN), tendrá valor probatorio pleno para acreditar la filiación de una persona que no ha sido reconocida legalmente, sujetándose a las siguientes disposiciones y requisitos:
+
+I.- Versará únicamente sobre los aspectos conducentes a determinar la filiación, guardando la privacidad del resto de la información, características o particularidades genéticas que pudieren obtenerse en el desahogo de la misma, salvaguardando, el derecho a la autodeterminación informativa inherente a la persona.
+
+II.- El dictamen donde se establezcan los resultados de esta prueba pericial deberá comprender los siguientes requisitos:
+
+a).- Planteamiento del problema, referencia general al proceso de experimentación y resultados obtenidos en vista del análisis practicado;
+
+b).- El señalamiento específico de las cuestiones que fueron materia del estudio; así como los métodos y técnicas empleados y la fecha en que se produjeron.
+
+c).- Nombre y firma del perito responsable encargado de practicar el examen pericial genético.
+
+Si faltare alguno de estos requisitos el juez requerirá al perito para que en el término de tres días los subsane, apercibido que de no hacerlo se hará acreedor a una sanción económica de hasta 100 salarios mínimos vigentes en la entidad. En caso de persistir la negativa del perito en atender el requerimiento, se le revocará su nombramiento dándole vista al Consejo de la Judicatura; asimismo se designará a un nuevo perito para que el término de ley emita (sic) el dictamen correspondiente.
+
+III.- El costo económico de la prueba genética se referirá únicamente a aquellos gastos que sean considerados estrictamente necesarios para su ejecución y correcto desarrollo, debiendo ser cubiertos por el demandado cuando del análisis realizado se desprenda la filiación que se le reclama, en caso contrario la erogación correrá a cargo del solicitante. El pago por los servicios del perito habrá de ser solventado por la parte solicitante de manera provisional hasta en tanto se resuelva en definitiva el vínculo filial.
+
+El juzgador deberá vigilar el cumplimiento puntual y cabal del procedimiento para realizar esta prueba.
 
 ###### ARTICULO 192.
 
@@ -1683,7 +1703,9 @@ Serán valorados por el prudente arbitrio del Juez:
 
 I.- Los documentos simples;
 
-II.- El dictamen de perito;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+II.- El dictamen de perito, salvo lo previsto en el artículo 191 "C" del presente código;
 
 III.- La declaración de testigos;
 
@@ -3233,11 +3255,11 @@ No se requieren formalidades especiales para acudir ante el Juez de lo Familiar,
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
-ARTICULO 464 A.- El juez bajo la responsabilidad de quien lo solicite, podrá autorizar la adopción de medidas cautelares, ante actos de violencia familiar.
+ARTICULO 464 "A".- El juez bajo la responsabilidad de quien lo solicite, podrá autorizar la adopción de medidas cautelares, ante actos de violencia familiar.
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
-ARTICULO 464 B.- El juez podrá acordar medidas cautelares, respecto de los bienes y derechos de quien ejerza violencia familiar, con las siguientes características:
+ARTICULO 464 "B".- El juez podrá acordar medidas cautelares, respecto de los bienes y derechos de quien ejerza violencia familiar, con las siguientes características:
 
 I.- Ser necesarias para dar cumplimiento a una eventual sentencia.
 
@@ -3247,7 +3269,7 @@ III.- Ser de carácter temporal o provisional, condicionada y susceptible de mod
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
-ARTICULO 464 C.- Conforme a lo establecido en el artículo anterior, podrán acordarse, entre otras, las siguientes medidas cautelares:
+ARTICULO 464 "C".- Conforme a lo establecido en el artículo anterior, podrán acordarse, entre otras, las siguientes medidas cautelares:
 
 I.- El embargo precautorio para asegurar la ejecución de la sentencia;
 
@@ -3265,7 +3287,7 @@ VII.- Aquellas otras medidas a criterio del juez que, para la protección de cie
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
-ARTICULO 464 D.- El juez del conocimiento determinará las órdenes de protección conducentes para el resguardo de los menores y de la parte agredida, las cuales deberán de expedirse dentro de las 24 horas siguientes al conocimiento de los hechos, y se harán consistir en:
+ARTICULO 464 "D".- El juez del conocimiento determinará las órdenes de protección conducentes para el resguardo de los menores y de la parte agredida, las cuales deberán de expedirse dentro de las 24 horas siguientes al conocimiento de los hechos, y se harán consistir en:
 
 I.- Desocupación por el agresor, del domicilio familiar;
 
@@ -3281,7 +3303,7 @@ VI.- Cualquier otra a juicio del juez tendiente a proteger los intereses del nú
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
-ARTICULO 464 E.- Podrán autorizarse las medidas cautelares antes de la presentación de la demanda, por razones de urgencia a petición de parte interesada.
+ARTICULO 464 “E”.- Podrán autorizarse las medidas cautelares antes de la presentación de la demanda, por razones de urgencia a petición de parte interesada.
 
 La demanda deberá presentarse dentro de los 20 días siguientes a la autorización de las medidas.
 
@@ -3515,6 +3537,28 @@ IV.- El Juez, una vez recibida por él la constancia de haberse inscrito el emba
 
 Los asuntos sobre paternidad y maternidad, solo podrán decidirse mediante sentencia declarativa que se dicte en juicio.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+Tratándose de asuntos de investigación sobre paternidad o maternidad cuando se promuevan mediante procedimiento especial, se deberá pedir la aplicación del examen pericial de la caracterización del ácido desoxirribonucleico de las células, el cual se efectuará por el perito que al efecto determine el juez y conforme a las siguientes disposiciones:
+
+I.- Admitida la demanda se emplazará a la parte demandada para que dentro del término de cinco días manifieste lo que a su interés legal convenga; de no hacerlo se le tendrá por contestada en sentido negativo.
+
+II.- Transcurrido dicho término, el juez designará perito único experto en materia genética, quien habrá de efectuar el examen correspondiente en la fecha que al efecto se determine.
+
+III.- Aceptado el cargo se citará a los involucrados en la filiación precisando día, hora y lugar donde se llevará a cabo la extracción de la muestra biológica. A dicha diligencia deberá asistir el secretario del juzgado a efecto de certificar el normal desarrollo de la diligencia, las partes, sus representantes legales, el Ministerio Público y la Procuraduría de la Defensa del Menor y la Familia en su caso, así como el perito asignado para tal encargo.
+
+IV.- El perito contará con un plazo de treinta días naturales para rendir dictamen detallado de su encomienda, debiendo entregar los resultados al propio juez.
+
+V.- Rendido el dictamen en los términos del artículo 191 "C" del presente Código, el juez dentro de los tres días siguientes citará para sentencia.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO 500 Bis.
+
+La notificación mediante la cual se cite al demandado a ministrar la porción genética, deberá ser personal y bajo apercibimiento que ante su inasistencia injustificada o negativa a practicársela, se presumirá la filiación que se le imputa.
+
+Para los efectos del párrafo anterior, la inasistencia injustificada deberá ser grave, misma que calificará el juez.
+
 ###### ARTICULO 501.
 
 Las acciones de contradicción de paternidad o de investigación de ésta, serán ejercidas únicamente por las personas a quienes expresamente les concede la ley y dentro de los plazos establecidos por la misma.
@@ -3607,11 +3651,11 @@ En el auto admisorio que le recaiga a la solicitud inicial de adopción, el Juez
 
 > <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
 
-ARTICULO 511 A.- Rendidas las constancias, desahogadas las pruebas y obtenido el consentimiento de las personas que deban darlo, conforme al Código Civil, el Juez resolverá, lo que proceda sobre la adopción.
+ARTICULO 511 "A".- Rendidas las constancias, desahogadas las pruebas y obtenido el consentimiento de las personas que deban darlo, conforme al Código Civil, el Juez resolverá, lo que proceda sobre la adopción.
 
 > <small>(ADICIONADO, P.O. 26 DE JULIO DE 2006)</small>
 
-ARTICULO 511 B.- Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena (sic), o la revocación, el Juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, luego de la cual se resolverá lo conducente.
+ARTICULO 511 "B".- Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena (sic), o la revocación, el Juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, luego de la cual se resolverá lo conducente.
 
 Si el adoptado es menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento si se conoce su domicilio, al Consejo Estatal de Adopciones y al Ministerio Público.
 
@@ -4900,3 +4944,7 @@ El presente decreto entrara en vigor al día siguiente de su publicación en el 
 P.O. 18 DE ABRIL DE 2009.
 
 Artículo Único.- El presente decreto entrara en vigor a los 180 días naturales siguientes a la fecha de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 21 DE NOVIEMBRE DE 2009.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
