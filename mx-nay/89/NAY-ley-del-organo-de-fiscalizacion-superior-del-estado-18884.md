@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-organo-de-fiscalizacion-superior-del-estado-18884"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2007-07-04"
+last_updated: "2009-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 27 de diciembre de 2000.
 
@@ -41,13 +41,21 @@ LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público y tiene por objeto regular la revisión de la Cuenta Pública y su Fiscalización Superior.
+Esta ley es de orden público e interés social y tiene por objeto reglamentar la función estatal de fiscalización superior que ordenan los artículos 116 fracción II de la Constitución Política de los Estados Unidos Mexicanos y 47, fracciones XXVI, XXVI-A y XXVI-B, 121 de la Constitución Política del Estado de Nayarit, así como establecer las normas de la organización y funcionamiento del Órgano de Fiscalización Superior.
+
+La fiscalización de la Cuenta Pública comprende la revisión de los ingresos, los egresos, incluyendo subsidios, transferencias y donativos, fondos, los gastos fiscales y la deuda pública; del manejo, la custodia y la aplicación de recursos públicos, así como de la demás información financiera, contable, patrimonial, presupuestaria y programática que las entidades fiscalizadas deban informar conforme a las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 2.
 
-El Órgano de Fiscalización Superior del Estado es un ente con personalidad jurídica propia. Al efecto tendrá autonomía técnica y de gestión para el ejercicio de su función fiscalizadora y la competencia que le confieren la Constitución Política del Estado, esta ley y demás legislación aplicable.
+El Órgano de Fiscalización Superior es un ente del Congreso del Estado de Nayarit, que apoya a éste en el desempeño de su función de fiscalización superior, y tiene la competencia que le confieren la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta ley y las demás que le resulten aplicable.
+
+El Órgano es un ente dotado con autonomía técnica y de gestión, así como para decidir sobre su organización interna, funcionamiento y resoluciones.
 
 ###### Artículo 3.
 
@@ -63,21 +71,33 @@ IV. Congreso: El Congreso del Estado;
 
 V. Comisión: La Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso del Estado;
 
-VI. Unidades de Control Interno: La Secretaría de la Contraloría General, y los Órganos de Control Interno de los Poderes Legislativo y Judicial, de los Ayuntamientos, de los Entes Públicos, y demás Sujetos de fiscalización;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-VII. Entes Públicos: Además de la Universidad Autónoma de Nayarit, El Consejo Estatal Electoral, el Tribunal Estatal Electoral, la Comisión de Derechos Humanos del Estado, todos los Organismos Públicos constitucionalmente autónomos para el desempeño de sus funciones sustantivas, y las demás personas de derecho público de carácter estatal y municipal autónomas por disposición legal así como los órganos jurisdiccionales que determinen las leyes;
+VI. Unidades de Control Interno: La Secretaría de la Contraloría General, y los Órganos de Control Interno de las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, así como de los ayuntamientos y sus entidades paramunicipales y de los demás entes públicos;
 
-VIII. Sujetos de Fiscalización: Los Poderes del Estado, los Ayuntamientos, los Entes Públicos, los Organismos Públicos Descentralizados del estado y de los municipios, las Empresas y Fideicomisos con participación Estatal o Municipal, y en general, cualquier persona, física o moral, pública o privada que recaude, administre, maneje o ejerza recursos públicos;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-IX. Cuenta Pública: Informe de contenido contable, financiero, presupuestal, programático, legal, fiscal y económico relativo a la gestión financiera y al ejercicio del gasto público, que rinden los Sujetos de Fiscalización, al Congreso para comprobar si se ha dado cumplimiento a los objetivos contenidos en sus planes y programas, de conformidad con los criterios señalados en el presupuesto correspondiente, y demás legislación relativa a planeación, programación y ejercicio de recursos públicos, así como de los indicadores de desempeño y de evaluación de su función pública;
+VII. Entes Públicos: la Universidad Autónoma de Nayarit, el Instituto Estatal Electoral de Nayarit, el Tribunal Electoral del Estado de Nayarit, la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, el Instituto Estatal de Transparencia y Acceso a al (sic) Información Pública, todos los organismos públicos constitucionalmente autónomos para el desempeño de sus funciones sustantivas, y las demás personas de derecho público de carácter estatal y municipal autónomas por disposición legal así como los órganos jurisdiccionales que determinen las leyes;
 
-X. Gestión Financiera: La actividad de los Sujetos de Fiscalización respecto de la administración, manejo, custodia y aplicación de los ingresos, egresos, fondos y en general de los recursos públicos que éstos utilicen para la ejecución de los objetivos contenidos en los programas aprobados, en el periodo que corresponde a una Cuenta Pública, sujeta a la revisión posterior de la Cámara, a través del Órgano a fin de verificar que dicha Gestión se ajusta a las disposiciones legales, reglamentarias y administrativas aplicables, así como el cumplimiento de los programas señalados;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-XI. Gasto Público: Las erogaciones por conceptos de gasto corriente, de capital, de inversión y financiero, así como las transferencias, pagos de pasivo y de deuda pública, que los Sujetos de Fiscalización, realicen en el ejercicio de sus funciones conforme a su presupuesto de egresos en la esfera de su competencia;
+VIII. Sujetos de Fiscalización: Los poderes del estado, los ayuntamientos, los entes públicos, los organismos públicos descentralizados y las empresas estatales y municipales y fideicomisos, mandatos, fondos con participación estatal o municipal, y en general, cualquier persona, física o moral, pública o privada que recaude, administre, maneje o ejerza recursos públicos estatales o municipales; independientemente de no estar obligados a presentar cuenta pública;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-XII. Fiscalización Superior: Facultad conferida al Órgano de Fiscalización Superior del Estado, consistente en la revisión y fiscalización posterior de los ingresos y egresos de las Cuentas Públicas y de los informes de avance de gestión financiera, comprobando que se proceda conforme a las leyes y normas establecidas para el ejercicio del gasto de las haciendas públicas Estatal y Municipales relativas a la gestión financiera así como para el cumplimiento de los planes y programas y demás legislación relativa a la recaudación, planeación, programación y ejercicio de recursos públicos;
+IX. Cuenta Pública: Informe de contenido contable, financiero, presupuestal, programático, legal, fiscal y económico relativo a la gestión financiera y al ejercicio del gasto público, que rinden los poderes del estado, los órganos constitucionalmente autónomos y los ayuntamientos del estado, al Congreso para comprobar si se ha dado cumplimiento a los objetivos contenidos en sus planes y programas, de conformidad con los criterios señalados en el presupuesto correspondiente, y demás legislación relativa a planeación, programación y ejercicio de recursos públicos, así como de los indicadores de desempeño y de evaluación de su función pública; durante el ejercicio presupuestal comprendido del primero de enero al treinta y uno de diciembre del año anterior al de su presentación;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+X. Gestión Financiera: La actividad de los Sujetos de Fiscalización respecto de la administración, manejo, custodia y aplicación de los ingresos, egresos, fondos y en general de los recursos públicos que éstos utilicen para la ejecución de los objetivos contenidos en los programas aprobados, en el periodo que corresponde a un ejercicio fiscal, sujeta a la revisión posterior del Congreso, a través del Órgano a fin de verificar que dicha gestión se ajusta a las disposiciones legales, reglamentarias y administrativas aplicables, así como el cumplimiento de los programas señalados;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+XI. Gasto Público: Las erogaciones por conceptos de gasto corriente, de capital, de inversión y financiero, así como las transferencias, pagos de pasivo, de deuda pública, y responsabilidad patrimonial que los Sujetos de Fiscalización, realicen en el ejercicio de sus funciones conforme a su presupuesto de egresos en la esfera de su competencia;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+XII. Fiscalización Superior: Facultad del Congreso del Estado que ejerce por conducto del Órgano de Fiscalización Superior del Estado, consistente en la revisión y fiscalización posterior de los ingresos y egresos de las Cuentas Públicas y de los informes de avance de gestión financiera, comprobando que estos se han realizado conforme a las leyes y normas establecidas para el ejercicio del gasto de las haciendas públicas Estatal y Municipales relativas a la gestión financiera así como para el cumplimiento de los planes y programas y demás legislación relativa a la recaudación, planeación, programación, presupuestación y ejercicio de recursos públicos; y cumplimiento de los criterios señalados por el presupuestos (sic) de egresos correspondiente;
 
 XIII. Informe del Resultado: Informe del resultado de la revisión y fiscalización de las Cuentas Públicas que el Órgano, por conducto de la Comisión, presenta al Congreso;
 
@@ -85,111 +105,49 @@ XIV. Programas: Los contenidos en los presupuestos aprobados a los que se sujeta
 
 XV. Servidores públicos: Los que se consideran como tales en la Constitución Política del Estado de Nayarit y en la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-XVI. Informe de Avance de Gestión Financiera: El Informe, que como parte integrante de la Cuenta Pública, rinden los Sujetos de Fiscalización de manera consolidada sobre los avances físicos y financieros de los programas aprobados en los presupuestos respectivos, a fin de que el Órgano de Fiscalización Superior fiscalice en forma posterior a la conclusión de los procesos correspondientes, los ingresos y egresos; el manejo, la custodia y la aplicación de sus fondos y recursos, así como el grado de cumplimiento de los objetivos contenidos en dichos programas;
+XVI. Informe de Avance de Gestión Financiera: El informe que en términos de esta ley, se rinde de manera consolidada sobre los avances físicos y financieros de los programas aprobados en los presupuestos respectivos por los entes obligados a presentar Cuenta Pública;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2004)</small>
+XVII. (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2009)
 
-XVII. Proceso concluido: Aquél que los sujetos de fiscalización reporten como tal, en el Informe de Avance de Gestión Financiera, con base en los Informes de Gasto Devengado, de acuerdo a la estructura programática autorizada;
+XVIII. (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2009)
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2004)</small>
+XIX. (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2009)
 
-XVIII. Informes de Gasto Devengado: Informe que refleja el pasivo que presenta un gasto ejercido en o antes de una fecha determinada, pagadero en fecha futura;
+XX. (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2009)
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-XIX. Gasto Ejercido: Es la parte del presupuesto autorizado que se gasta con cargo al ejercicio en curso, independientemente de que el pago se realice en el mismo ejercicio o en el siguiente;
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
-
-XX.- Principios Básicos de Contabilidad Gubernamental: Fundamentos esenciales de carácter obligatorio para los sujetos de fiscalización que deben emplearse para el registro de sus operaciones y la presentación de los correspondientes estados financieros, presupuestales, programáticos y económicos, que consisten en:
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
-
-Ente.- Toda dependencia o entidad pública, estatal o municipal con existencia propia e independiente que haya sido creada por ley o decreto.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
-
-Base de Registro.- Los gastos deben ser reconocidos y registrados en el momento en que se devenguen y los ingresos cuando se realicen.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
-
-Cuantificación en Términos Monetarios.- Los derechos, obligaciones y en general las operaciones que realicen los entes, serán registrados en moneda nacional.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
-
-Periodo Contable.- La vida del ente se dividirá en periodos uniformes para efectos de registro de las operaciones y de la información acerca de las mismas.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
-
-Costo Histórico.- Los bienes se deben de registrar a su costo de adquisición o a su valor estimado, en caso de que sean producto de una donación o adjudicación.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
-
-Existencia Permanente.- Se considera que el ente tiene vida permanente, salvo modificación posterior de la ley o decreto que lo creó en la que se especifique lo contrario.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
-
-Control Presupuestario.- Corresponde al sistema contable el registro presupuestario de los ingresos y egresos comprendidos en el presupuesto del ente, así como su vinculación con el avance físico y financiero de los proyectos programados.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
-
-Revelación Suficiente.- Los estados financieros presupuestales y patrimoniales, deben incluir la información suficiente para mostrar amplia y claramente la situación financiera presupuestal y patrimonial del ente.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
-
-Integración de la Información.- Cuando se integren informes financieros independientes en uno solo, deben eliminarse las operaciones efectuadas entre las distintas unidades o entes y los estados financieros no deben reflejar superávit o déficit originados entre ellas.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
-
-Importancia Relativa.- Los estados financieros, presupuestales, patrimoniales, deben revelar todas las partidas que son de suficiente importancia para efectuar las evaluaciones o tomar decisiones.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
-
-Consistencia.- Las políticas, métodos de cuantificación y procedimientos contables deben de ser los apropiados para reflejar la situación del ente, debiendo aplicarse con criterio uniforme a lo largo de un periodo a otro.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
-
-Cumplimiento de Disposiciones Legales.- El ente debe observar las disposiciones legales que le sean aplicables en toda transacción, en su registro, comprobación y en general en cualquier aspecto relacionado con el sistema contable presupuestal;
+XXI. Auditoría del Desempeño: Es la fiscalización que tiene por objeto determinar que las acciones, en el ejercicio de los recursos públicos, de los sujetos de fiscalización hayan alcanzado los objetivos sociales propuestos, con apego a la normatividad, con eficiencia, eficacia y economía de conformidad a los indicadores contenidos en los presupuestos de egresos;
 
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 2007)</small>
 
-XXI.- Auditoría del Desempeño: Es la fiscalización que tiene por objeto determinar que las acciones, en el ejercicio de los recursos públicos, de los sujetos de fiscalización hayan alcanzado los objetivos sociales propuestos, con apego a la normatividad, con eficiencia, eficacia y economía de conformidad a los indicadores contenidos en los presupuestos de egresos;
+XXII. Auditoría de Obra Pública: Es la fiscalización de la contratación, construcción, instalación, conservación, mantenimiento, reparación y demolición de bienes inmuebles destinados a un servicio público o al uso común, así como, los servicios relacionados con la obra pública, incluidos los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de obra; los servicios relativos a las investigaciones, asesorías y consultorías especializadas y la dirección o supervisión de la ejecución de las obras;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+XXIII. Auditoría Financiera: Es la fiscalización de los ingresos y egresos de los sujetos fiscalizables, que se realiza a efecto de comprobar su adecuada administración, manejo, custodia, aplicación, debida comprobación y justificación; comprende el análisis y examen de la información financiera, contable, patrimonial, programática y presupuestal, para determinar su apego a los principios básicos de contabilidad gubernamental y demás disposiciones legales aplicables;
 
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 2007)</small>
 
-XXII.- Auditoría de Obra Pública: Es la fiscalización de la contratación, construcción, instalación, conservación, mantenimiento, reparación y demolición de bienes inmuebles destinados a un servicio público o al uso común, así como, los servicios relacionados con la obra pública, incluidos los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de obra; los servicios relativos a las investigaciones, asesorías y consultorías especializadas y la dirección o supervisión de la ejecución de las obras;
-
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2007)</small>
-
-XXIII.- Auditoría Financiera: Es la fiscalización de los estados financieros, que comprende el análisis y examen para determinar su razonabilidad y su correcta revelación, integración, presentación y oportunidad, así como el ejercicio y aplicación de los recursos públicos de parte de los entes fiscalizables;
-
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2007)</small>
-
-XXIV.- Debida Justificación y Comprobación: Es la obligación de los sujetos de fiscalización de llevar un estricto control de la documentación original que justifique y compruebe tanto el ingreso como el egreso de los recursos financieros a su cargo.
+XXIV. Debida Justificación y Comprobación: Es la obligación de los sujetos de fiscalización de llevar un estricto control de la documentación original que justifique y compruebe tanto el ingreso como el egreso de los recursos financieros a su cargo.
 
 Son documentos justificantes las disposiciones y documentos legales que determinen la obligación de hacer un pago o recibir un ingreso.
 
 Son documentos comprobatorios los documentos que demuestren fehacientemente la entrega o la recepción de las sumas de dinero correspondientes. Estos documentos deberán reunir y ajustarse a los requisitos y disposiciones de las leyes fiscales aplicables al efecto; salvo en los casos en que mediante acuerdo se determine por el Auditor General.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
-
-###### Artículo 4º.
-
-La fiscalización superior se realizará en forma posterior a la presentación de las Cuentas Públicas, y de los Informes de Avance de Gestión Financiera de manera externa, independiente y autónoma de cualquier forma de control interno de los sujetos de fiscalización.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 4.
 
-La Gaceta Municipal, se editará en el Municipio de San Lucas Zoquiapam, en cantidad suficiente para su distribución en la comunidad.
+La fiscalización de las Cuentas Públicas se realizará por el Congreso del Estado a través del Órgano en forma posterior a su presentación, conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad, confiabilidad y a los procedimientos de fiscalización previstos en esta ley.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 5.
 
-Son sujetos de fiscalización: los Poderes del Estado, los Ayuntamientos, los Entes Públicos, los Organismos Públicos Descentralizados del estado y municipios, las Empresas y Fideicomisos con participación Estatal o Municipal, y en general, cualquier persona, física o moral, pública o privada que recaude, administre, maneje o ejerza recursos públicos.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
-
-La fiscalización al Órgano estará a cargo del Congreso por conducto de la Comisión con apoyo de la Contraloría Interna y demás personal del Congreso que al efecto se comisione; ésta se realizará con sujeción a las mismas formalidades y obligaciones que establece esta ley para los demás sujetos de fiscalización. En todo caso, los resultados de la fiscalización al Órgano, deberán incorporarse anualmente por la Comisión al dictamen que emita ésta sobre el Informe de Resultado de la Revisión de la Cuenta Pública que debe presentarse al pleno del Congreso.
+La fiscalización a la gestión financiera, así como al cumplimiento de los objetivos contenidos en los programas autorizados en el presupuesto de egresos del Órgano estará a cargo del Congreso por conducto de la Comisión con apoyo de la Contraloría Interna y demás personal del Congreso que al efecto se comisione; ésta se realizará con sujeción a las mismas formalidades y obligaciones que establece esta ley para los demás sujetos de fiscalización. En todo caso, los resultados de la fiscalización al Órgano, deberán incorporarse anualmente por la Comisión al dictamen que emita ésta sobre el Informe de Resultado de la Revisión de las Cuentas Públicas que deben presentarse al pleno del Congreso.
 
 > <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
@@ -211,13 +169,13 @@ La Gaceta Municipal será distribuida en centros educativos, organismos empresar
 
 El Órgano será competente para:
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-I. Fiscalizar las Cuentas Públicas, los ingresos, egresos, deuda, activos, patrimonio, el manejo, custodia y aplicación de los fondos, recursos de los Sujetos de Fiscalización así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos conforme a los indicadores estratégicos aprobados en el presupuesto, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos;
+I. Fiscalizar en forma posterior a la presentación de las cuentas públicas, la gestión financiera de los Sujetos de Fiscalización así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos conforme a los indicadores aprobados en el presupuesto, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos; y en su caso, emitir las recomendaciones correspondientes;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-II. Verificar, en forma posterior a la presentación de las Cuentas Públicas y de los Informes de Avance de Gestión Financiera, si su gestión y el ejercicio del gasto público de los Sujetos de Fiscalización, se efectuaron conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad, obligaciones fiscales y laborales, contratación de servicios personales y generales, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
+II. Verificar, en forma posterior a la presentación de las Cuentas Públicas si su gestión y el ejercicio del gasto público de los Sujetos de Fiscalización, se efectuaron conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad, obligaciones fiscales y laborales, contratación de servicios personales y generales, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
 
 III. Comprobar y verificar si la recaudación, administración, manejo y aplicación de recursos estatales y municipales; los actos, contratos, convenios, concesiones u operaciones que los Sujetos de fiscalización celebraron o realizaron, se ajustaron a la legalidad, y si no causaron daños o perjuicios en contra de las Haciendas Públicas Estatal y Municipales así como al patrimonio de los demás Sujetos de fiscalización;
 
@@ -227,9 +185,9 @@ V. Verificar obras en proceso o ejecutadas, bienes adquiridos y servicios contra
 
 VI. Fiscalizar la aplicación de los subsidios o estímulos fiscales que los Sujetos de Fiscalización, hayan recibido, u otorgado con cargo a su presupuesto, a municipios, particulares y en general a cualquier persona pública o privada, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-VII. Establecer los criterios respecto de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las Cuentas Públicas y de los Informes de Avance de Gestión Financiera verificando que sean presentadas, en los términos de ley;
+VII. Establecer los lineamientos técnicos y criterios para las auditorías y su seguimiento, procedimientos, investigaciones, encuestas, métodos y sistemas necesarios para la revisión y fiscalización de la Cuenta Pública;
 
 VIII. Establecer las reglas técnicas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la práctica idónea de la fiscalización, auditorías y revisiones;
 
@@ -251,7 +209,23 @@ Cuando esta ley no establezca plazo para la remisión de información, el Organo
 
 La falta de cumplimiento sin que exista una justificación, hará acreedor al responsable de las sanciones que marca la Ley de Responsabilidades de los Servidores Públicos.
 
-XII. Requerir, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier instrumento legal con los Sujetos de fiscalización, la información relacionada con la documentación justificativa y comprobatoria de las Cuentas Públicas, a efecto de realizar las compulsas correspondientes;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+XII. Requerir, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier instrumento legal con los sujetos de fiscalización, la información relacionada con la documentación justificativa y comprobatoria de su gestión financiera, a efecto de realizar las compulsas correspondientes.
+
+Los servidores públicos y las personas físicas o morales, públicas o privadas, que capten, reciban, recauden, administren, manejen, ejerzan y custodien recursos públicos, deberán cumplir sin excusa los requerimientos que les formule el Órgano, durante la planeación, desarrollo de las auditorías y el seguimiento de las acciones que emita dentro de los plazos establecidos en esta ley, de conformidad con los procedimientos establecidos y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+
+Cuando derivado de la naturaleza, complejidad o imposibilidad real de cumplir los requerimientos de información formulados por parte del Órgano, se requiera un plazo mayor para ser atendidos, esta última a propuesta de los sujetos fiscalizados podrá determinar conjuntamente con las mismas los plazos de entrega de información, los cuales serán improrrogables.
+
+Cuando los servidores públicos o los particulares no atiendan los requerimientos a que se refiere esta fracción, salvo que exista disposición legal o mandato judicial que se los impida, o bien se les haya otorgado una ampliación de plazo por los casos indicados en el párrafo anterior, los titulares de las áreas responsables de la práctica de las auditorías y visitas del Órgano podrán imponerles una multa de cien a seiscientos días de salario mínimo general vigente en el estado.
+
+La reincidencia se sancionará con una multa hasta del doble de la ya impuesta, sin perjuicio de las demás sanciones que procedan conforme a la Ley.
+
+Iguales sanciones se aplicarán las multas previstas en este artículo a los terceros que hubieran contratado obra pública, bienes o servicios mediante cualquier título legal con las entidades fiscalizadas, cuando no entreguen la documentación e información que les requiera el Órgano.
+
+No se impondrán las multas a que se refiere esta fracción, cuando el incumplimiento por parte de los servidores públicos o particulares se derive de causas ajenas a su responsabilidad, mismas que serán valoradas debidamente por el Órgano.
+
+Las multas establecidas en esta ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida. La Secretaría de Finanzas del Gobierno del Estado se encargará de hacer efectivo su cobro en términos de las disposiciones aplicables. En caso de que no se paguen dentro de los cuarenta y cinco días hábiles siguientes a su notificación, la Secretaría de Finanzas del Gobierno del Estado ordenará se aplique el procedimiento administrativo de ejecución, para obtener su pago;
 
 XIII. Celebrar Convenios de Coordinación y colaboración con su similar de la Federación, para efectos de la fiscalización de recursos federales que ejerzan los Sujetos de fiscalización;
 
@@ -271,15 +245,43 @@ XIX. Expedir certificaciones de los documentos que obren en sus archivos o bien 
 
 XX. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de sus actos o resoluciones definitivas, así como condonar total o parcialmente las multas impuestas;
 
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
 XXI. Elaborar su proyecto de Presupuesto Anual y de ampliaciones al mismo, en caso de ser necesario;
 
-XXII.Entregar al Congreso, a través de la Comisión, el Informe del Resultado de la revisión de las Cuentas Públicas;
+XXII. Entregar al Congreso, a través de la Comisión, el Informe del Resultado de la revisión de las Cuentas Públicas;
 
 XXIII. Fungir como instancia local para la investigación, interpretación y resolución de los conflictos que se presenten en la aplicación de la normatividad relativa a los programas, fondos y recursos federales;
 
-XXIV.Participar en foros nacionales e internacionales, cuyas funciones sean acordes con sus atribuciones; y
+XXIV. Participar en foros nacionales e internacionales, cuyas funciones sean acordes con sus atribuciones; y (sic)
 
-XXV. Las demás que expresamente señalen la Constitución Política del Estado, la Ley, decretos y acuerdos del Congreso.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+XXV. Establecer coordinación con los órganos de control interno de los entes fiscalizables para la armonización de criterios y lineamientos técnicos;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+XXVI. Evaluar el cumplimiento final de los objetivos y metas fijados en los programas, conforme a los indicadores establecidos en el Presupuesto de Egresos y tomando en cuenta el Plan Estatal de Desarrollo, los planes municipales, los planes sectoriales, los planes regionales, los programas operativos anuales, los programas de las entidades fiscalizadas, entre otros, a efecto de verificar el desempeño de los mismos y, en su caso, el uso de recursos públicos conforme a las disposiciones legales. Lo anterior, con independencia de las atribuciones similares que tengan otras instancias;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+XXVII. Obtener durante el desarrollo de las auditorías copia de los documentos originales que tengan a la vista certificando su cotejo con los originales. Igualmente podrá expedir certificaciones de los documentos que obren en sus archivos;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+XXVIII. Constatar la existencia, procedencia y registro de los activos y pasivos de las entidades fiscalizadas, de los fideicomisos, fondos y mandatos o cualquier otra figura análoga, para verificar la razonabilidad de las cifras mostradas en los estados financieros consolidados y particulares de la Cuenta Pública;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+XXIX. Fiscalizar la deuda pública en su contratación, registro, renegociación, administración y pago;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+XXX. Solicitar, a las instancias de control interno, en el ámbito de sus atribuciones, copia de los informes y dictámenes de las auditorías por ellos practicadas;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+XXXI. Las demás que le sean conferidas por esta ley o cualquier otro ordenamiento para la fiscalización de la Cuenta Pública.
 
 > <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2003)</small>
 
@@ -299,51 +301,47 @@ Para imponer multas el Organo debe oír previamente al presunto infractor y tene
 
 #### SECCIÓN SEGUNDA. Del Auditor General y Servidores Públicos del Órgano
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 8.
 
-Al frente del Órgano habrá un Auditor General cuyo nombramiento recaerá en la persona que cumpla, los siguientes requisitos:
+Al frente del Órgano habrá un Auditor General cuyo nombramiento recaerá en la persona que cumpla los requisitos establecidos por la Constitución del Estado.
 
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos, sin tener ni antes ni durante el encargo doble nacionalidad;
-
-II. Tener, cuando menos, treinta y cinco años cumplidos al día de la designación;
-
-III. Ser vecino del Estado de Nayarit con una residencia mínima de cinco años;
-
-IV. No haber sido durante el año previo al de su nombramiento, Gobernador del Estado, funcionario de alguna dependencia centralizada del Poder Ejecutivo del Estado u Organismo Autónomo, Magistrado, miembro del Consejo de la Judicatura, Senador, Diputado Federal o Local, Presidente, síndico o tesorero municipal ni candidato a un puesto de elección popular, dirigente nacional, estatal o municipal de un partido político;
-
-V. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia;
-
-VI. Poseer, al día del nombramiento, título y cédula profesional de licenciatura en el área de Sociales, Humanidades o Económico Administrativas, expedidos por autoridad o institución legalmente facultada para ello;
-
-VII. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena; y
-
-VIII. Contar al momento de su designación con una experiencia de al menos, cinco años en la Administración Pública, preferentemente en el control, manejo o fiscalización de recursos públicos
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 9.
 
-El procedimiento para la designación del Auditor General, conforme a lo estipulado por el artículo 121 fracción V de la Constitución Política del Estado, será el siguiente:
+La designación del Auditor General del Órgano se sujetará al procedimiento siguiente:
 
 I. El Congreso, por conducto de la Comisión emitirá la convocatoria correspondiente, a efecto de recibir, durante un período de diez días hábiles contados a partir de la fecha de su publicación, las solicitudes para ocupar el cargo de Auditor General;
 
-II. Concluido el plazo anterior, dentro de los tres días hábiles siguientes la Comisión procederá a la revisión y análisis de las solicitudes de los aspirantes a ocupar el cargo de Auditor General, para determinar cuáles de éstas cumplen con los requisitos que señale la convocatoria;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-III. Agotado el plazo señalado en la fracción anterior, dentro de los diez días hábiles siguientes, la Comisión entrevistará, por separado, a los aspirantes que cumplan con los requisitos;
+II. Concluido el plazo anterior y recibidas las solicitudes con los requisitos y documentos que señale la convocatoria, la Comisión, dentro de los cinco días siguientes, procederá a la revisión y análisis de las mismas;
 
-IV. Con base en la evaluación de la documentación y del resultado de las entrevistas, la Comisión procederá a emitir, en un plazo que no excederá de tres días hábiles, el dictamen sobre la terna que deberá presentarse al Pleno del Congreso. El dictamen deberá establecer, para los efectos de la votación plenaria del Congreso, el orden de prelación de los integrantes de la terna; y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-V. En este procedimiento, la Comisión de Gobierno Legislativo tendrá la intervención que establece la ley.
+III. Del análisis de las solicitudes los integrantes de la Comisión entrevistarán por separado para la evaluación respectiva y dentro de los cinco días siguientes, a los candidatos que hayan satisfecho los requisitos para la conformación de la terna;
 
-El Congreso elegirá, de entre los integrantes de la terna, a quien deba desempeñar el cargo de Auditor General. Al efecto, cuando conforme al orden de prelación, alguno de los candidatos obtenga la aprobación de las dos terceras partes de los integrantes de la Legislatura, se dará por concluida la votación.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-En caso de que ninguno de los candidatos obtenga la votación requerida, el Congreso instruirá a la Comisión a que dictamine la presentación de una nueva terna, de la que no podrán formar parte los integrantes de la terna anterior
+IV. Desahogadas las entrevistas, la Comisión formulará su dictamen en un plazo que no excederá de tres días a fin de proponer al Pleno los candidatos que conformarán la terna para que éste proceda, en los términos del artículo anterior, a la designación del Auditor General del Órgano, y
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+V. La persona designada para ocupar el cargo, previamente a tomar posesión del encargo protestará ante el Pleno del Congreso.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE MODIFICA LA LEY, EL PRESENTE PARRAFO COMPRENDE LOS ANTERIORES SEGUNDO Y TERCER PARRAFOS.</small>
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+En caso de que ningún candidato de la terna propuesta en el dictamen para ocupar el cargo de Auditor General del Órgano, haya obtenido la votación de las dos terceras partes de los miembros presentes del Congreso, se volverá a someter una nueva propuesta en los términos del artículo anterior. Ningún candidato propuesto en el dictamen rechazado por el Pleno podrá participar de nueva cuenta en el proceso de selección.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 10.
 
-El Auditor General durará en su cargo cuatro años; podrá ser ratificado por una sola vez, y será removido por las causas graves a que se refiere el artículo 20 de esta ley, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Octavo de la Constitución Política del Estado y la ley de la materia.
-
-Cumplido el período para el cual se nombró Auditor General, la Comisión podrá dictaminar que el Auditor General en funciones sea considerado para su ratificación en el cargo, por una sola vez, en cuyo caso no será necesario cumplir el procedimiento previsto en el artículo 9 de esta ley. Al efecto, la Comisión remitirá el dictamen relativo, aprobado por la mayoría absoluta de sus miembros, para que el Pleno del Congreso, en su caso, apruebe dicho nombramiento por el voto de las dos terceras partes de sus integrantes.
-
-En caso de que la Comisión considere que el Auditor General en funciones, no deba ser considerado para su ratificación, ésta deberá fundar y motivar el dictamen respectivo.
+El Auditor General durará en su cargo siete años; será removido por las causas graves a que se refiere el artículo 20 de esta ley, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Octavo de la Constitución Política del Estado y la ley de la materia.
 
 ###### Artículo 11.
 
@@ -369,17 +367,23 @@ IV. Administrar los bienes y recursos a cargo del Órgano; así como gestionar l
 
 V. Presentar conjuntamente con su proyecto de presupuesto de egresos el Programa Operativo Anual del Órgano y someterlo a la aprobación de la Comisión. En este programa se deberá reflejar los proyectos de los programas que realizará el Órgano durante el ejercicio fiscal siguiente; Asimismo, deberá incluirse el orden cronológico de sus actividades el costo aproximado de estas, las unidades responsables de su ejecución, las metas y los objetivos estimados;
 
-VI. Participar en la elaboración del proyecto de Reglamento Interior del Órgano, en el que se distribuirán las competencias que, conforme a esta ley, se otorgan a los titulares de las diversas áreas administrativas y la forma en que dichos titulares podrán ser suplidos en sus ausencias. El Reglamento Interior deberá ser aprobado por el Congreso y publicado en el Periódico Oficial, Órgano del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-VII. Promover ante el Congreso las reformas y adiciones al Reglamento Interior del Órgano;
+VI. Expedir el Reglamento Interior del Órgano, que tendrá por objeto la distribución de atribuciones entre sus unidades administrativas, delegación de facultades, señalamiento de aquellas de carácter delegable y las que no podrán ser delegables del Auditor General, régimen de suplencia de sus titulares y los requisitos para su nombramiento. Para su debida validez el Reglamento Interior deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+VII. Presentar para su conocimiento a la Comisión el programa anual de auditorías, que deberá contener los sujetos a fiscalizar y el alcance de los trabajos a realizar. Dicho programa se remitirá a más tardar en el mes de marzo del año de que se trate, previo inicio de la fiscalización;
 
 VIII. Expedir los manuales de organización, procedimientos necesarios para el funcionamiento del Órgano, los que deberán ser publicados en el Periódico Oficial, Órgano del Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-IX. Nombrar y remover al personal del Órgano de conformidad a esta ley, el Reglamento Interior del Órgano y en su caso a la Ley Orgánica del Poder Legislativo;
+IX. Nombrar y expedir los nombramientos correspondientes de todos los servidores públicos del Órgano, así como determinar su remoción de conformidad a esta Ley y el Reglamento Interior del Órgano;
 
-X. Expedir los nombramientos correspondientes de todos los servidores públicos de Organo, oficios de comisión, credenciales y demás documentos necesarios para el desempeño de las funciones que les sean conferidas;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+X. Expedir oficios de comisión, credenciales y demás documentos necesarios para el desempeño de las funciones que les sean conferidas;
 
 XI. Establecer las reglas técnicas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la práctica idónea de la fiscalización, auditorías y revisiones;
 
@@ -411,9 +415,7 @@ XXII. Solicitar ante las autoridades competentes el cobro de las multas y sancio
 
 XXIII. Condonar total o parcialmente las multas impuestas en el cumplimiento de sus funciones; debiendo informar a la Comisión de los motivos considerados para su otorgamiento;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
-
-XXIV. Emitir mediante acuerdo las actualizaciones a los Principios Básicos de Contabilidad Gubernamental adicionales a los que ya se establecen en esta ley que se estimen necesarios para garantizar que la ejecución y registro de las operaciones de los sujetos de fiscalización y que faciliten la transparencia del gasto público y la eficiencia en su fiscalización. El Auditor General al efecto de emitir las actualizaciones correspondientes podrá consultar a los colegios profesionales que existan en el estado y a los sujetos de fiscalización; y (sic)
+XXIV. (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2009)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2007)</small>
 
@@ -453,31 +455,19 @@ Las ausencias temporales de más de treinta días naturales para ser justificada
 
 En cualquier caso, las ausencias temporales del Auditor General serán suplidas por el Auditor Especial que señale el Reglamento Interior del Órgano.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 14.
 
-La organización administrativa del Órgano se sujetara a las siguientes disposiciones:
+Para el mejor desempeño de sus funciones, el Órgano en su estructura administrativa contara con auditores especiales, directores generales, coordinadores, directores, jefaturas, auditores, y demás servidores públicos que al efecto señale el Reglamento Interior, de conformidad con el presupuesto autorizado.
 
-I.- Para el mejor desempeño de sus funciones, el Órgano contará con la siguientes unidades administrativas: la Auditoría Especial de Gestión Financiera, la Auditoría Especial de Infraestructura; la Auditoría Especial de Evaluación del Desempeño; las Unidades Jurídica y de Administración, y demás estructura subordinada que disponga el Reglamento.
+El Órgano contará además con una Contraloría Interna, en los términos que señale su Reglamento Interior, que será la responsable, entre otras funciones, de impulsar el desarrollo administrativo del Órgano para que cumpla con los objetivos, metas, programas y funciones que tiene encomendados, realizar auditorías, vigilar el cumplimiento de las funciones de sus servidores públicos, recibir las quejas y denuncias por incumplimiento de las obligaciones de aquéllos, a fin de aplicar, de iniciar y sustanciar el procedimiento disciplinario administrativo en los términos y con las formalidades que establece la Ley de Responsabilidades de los Servidores Públicos del Estado hasta ponerlo en estado de resolución. La resolución definitiva del procedimiento referido, así como, en su caso, la imposición de sanciones, la realizará el Auditor General.
 
-II.- La estructura administrativa del Órgano invariablemente deberá sujetarse a lo dispuesto por esta ley y su reglamento, al decreto del presupuesto de egresos o el acuerdo que al efecto establezca la Comisión, no pudiendo existir más unidades administrativas, comisiones o puestos que los que se determinen en estos ordenamientos.
-
-III.- El Órgano contará con un Consejo Consultivo para el análisis y deliberación de sus estrategias institucionales el cual será presidido por el Auditor General e integrado por los Auditores Especiales, los titulares de las Unidades Jurídica y de Administración. Los demás servidores públicos del Órgano podrán participar en las reuniones del Consejo Consultivo, a invitación del Auditor General.
-
-IV.- La selección, contratación, y nombramiento de la estructura administrativa del Órgano, se sujetara a las siguientes bases:
-
-a) El procedimiento para la designación de los auditores especiales, será mediante concurso de oposición abierto en el que podrán participar todas las personas que reúnan los requisitos que establece la ley y en su caso el reglamento, así como la convocatoria pública que emita la Comisión. Previo cumplimiento de las formalidades de la convocatoria, la Comisión determinará en que personas recaerá el nombramiento.
-
-b) Con excepción de los auditores especiales, el resto de los titulares de las Unidades Administrativas, serán propuestos en terna por el Auditor General ante la Comisión quien decidirá y emitirá el nombramiento correspondiente.
-
-En el supuesto de que la Comisión deseche la terna presentada, esta podrá emitir convocatoria pública para concursar los puestos, y emitir el nombramiento correspondiente.
-
-Las formalidades, requisitos de selección y atribuciones se establecerán en el Reglamento, pero invariablemente las personas en las que recaiga nombramiento deberán contar con titulo profesional.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 15.
 
-Para ejercer el cargo de Auditor Especial se deberán cumplir además de lo estipulado para el Auditor General en las fracciones I, IV, y VII del artículo 8 de esta Ley, con los siguientes requisitos
+Para ejercer el cargo de Auditor Especial se deberán cumplir además de lo estipulado para el Auditor General en las fracciones I, VI, y VII del artículo 121 bis de la Constitución Política del Estado de Nayarit, con los siguientes requisitos:
 
 I. Tener, cuando menos, treinta años cumplidos al día de la designación;
 
@@ -529,11 +519,11 @@ VIII. Coordinar y supervisar las auditorias, visitas e inspecciones practicadas 
 
 IX. Las demás que en la esfera de sus competencias les confieran las disposiciones normativas aplicables y el Auditor General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 17.
 
-El titular de la Unidad Jurídica, tendrá las siguientes atribuciones:
+El Director General de la Unidad Jurídica, tendrá las siguientes atribuciones:
 
 I. Asesorar en materia jurídica al Auditor General y a los Auditores Especiales, así como actuar como su órgano de consulta;
 
@@ -545,7 +535,7 @@ IV. Representar al Órgano ante el Tribunal Local de Conciliación y Arbitraje e
 
 V. Elaborar los documentos necesarios para que el Órgano presente denuncias y querellas penales en el caso de conductas que pudieran constituir ilícitos en contra de la Hacienda Pública o el patrimonio de los entes públicos, así como para que promueva ante las autoridades competentes el fincamiento de otras responsabilidades;
 
-VI. Asesorar y expedir lineamientos sobre el levantamiento de las actas administrativas que procedan como resultado de las visitas, inspecciones y auditorias que practique el Órgano; y
+VI. Asesorar y expedir lineamientos sobre el levantamiento de las actas administrativas que procedan como resultado de las visitas, inspecciones y auditorias que practique el Órgano; y (sic)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2007)</small>
 
@@ -559,11 +549,11 @@ VIII. Por acuerdo del Auditor General desahogar el recurso de reconsideración y
 
 IX. Las demás que señale la ley, otras disposiciones aplicables y el Auditor General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 18.
 
-El titular de la Unidad de Administración tendrá las siguientes atribuciones:
+El Director de la Unidad de Administración, tendrá las siguientes atribuciones:
 
 I. Administrar los recursos financieros, humanos y materiales del Órgano de conformidad con las disposiciones legales y reglamentarias que la rijan;
 
@@ -613,9 +603,9 @@ VIII. Conducirse u ordenar a sus subalternos actuar con parcialidad en los proce
 
 La Comisión dictaminará sobre la existencia de los motivos de la remoción del Auditor General por causas graves de responsabilidad administrativa, y deberá dar derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los integrantes del Congreso.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-Los Auditores Especiales duraran en su encargo cuatro años, los cuales podrán ser ratificados por una sola vez, y su remoción será competencia de la Comisión por las causas graves a que se refiere el artículo anterior.
+Los Auditores Especiales durarán en su encargo cuatro años, los cuales podrán ser ratificados por el Auditor General, por una sola vez, y su remoción será por las causas graves a que se refiere el artículo anterior.
 
 ###### Artículo 22.
 
@@ -637,9 +627,11 @@ El Órgano ejercerá presupuesto, con sujeción a las disposiciones aplicables.
 
 Los servidores públicos del Órgano se clasifican como trabajadores de confianza y trabajadores de base, y se regirán por el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y el Estatuto Jurídico de los Trabajadores al Servicio del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 27.
 
-Son trabajadores de confianza: El Auditor General, los Auditores Especiales, los titulares de las unidades previstas en esta Ley, los directores generales, directores, los auditores, visitadores, inspectores, los subdirectores, los jefes de departamento, los asesores, los secretarios particulares y los demás trabajadores que tengan tal carácter conforme a lo previsto en la Estatuto Jurídico de los Trabajadores al Servicio del Estado y el Reglamento Interior del Órgano de Fiscalización Superior del Estado.
+Son trabajadores de confianza: El Auditor General, los Auditores Especiales, los directores generales, directores, los auditores, visitadores, inspectores, los subdirectores, los jefes de departamento, los asesores, los secretarios particulares y los demás trabajadores que tengan tal carácter conforme a lo previsto en la (sic) Estatuto Jurídico de los Trabajadores al Servicio del Estado y el Reglamento Interior del Órgano de Fiscalización Superior del Estado.
 
 ###### Artículo 28.
 
@@ -651,9 +643,11 @@ La relación jurídica de trabajo se entiende establecida entre el Congreso, a t
 
 #### SECCIÓN PRIMERA. De sus atribuciones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 29.
 
-La Comisión coordinará y evaluará el funcionamiento del Órgano y tendrá las siguientes atribuciones:
+La Comisión, coordinará y evaluará el funcionamiento del Órgano y tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -673,31 +667,35 @@ IV. Aprobar y evaluar el cumplimiento de los objetivos y metas del Programa Oper
 
 V. Citar y, en su caso, requerir documentación u (sic) información específica al Auditor General para conocer y profundizar en el estudio y análisis del Informe del Resultado de la fiscalización de las cuentas públicas;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-VI. Presentar al Congreso la terna propuesta de los candidatos a ocupar el cargo de Auditor General, así como la solicitud de su remoción; y nombrar y remover a los titulares de las unidades administrativas del Órgano de conformidad a lo dispuesto por la ley;
+VI. Presentar al Pleno del Congreso la terna propuesta de los candidatos a ocupar el cargo de Auditor General, así como la solicitud de su remoción de conformidad a lo dispuesto por la ley;
 
-VII. Vigilar que el funcionamiento del Órgano y la conducta de sus servidores públicos se apeguen a lo dispuesto por esta ley y demás disposiciones aplicables;
+VII. (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2009)
 
 VIII. (DEROGADA, P.O. 4 DE JULIO DE 2007)
 
-IX. Conocer, y realizar las investigaciones sobre las quejas, denuncias o inconformidades en contra de los servidores públicos del Órgano que presenten los Sujetos de fiscalización, los particulares y cualquier persona física o moral, pública o privada, siempre y cuando aporten pruebas idóneas, por el incumplimiento de las disposiciones legales a efecto de determinar las responsabilidades a que hubiere lugar y la imposición de las sanciones que correspondan;
+> <small>(DEROGADA [N. DE E. REFORMADA], P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+IX. Conocer y realizar las investigaciones sobre las quejas, denuncias o inconformidades en contra de los servidores públicos del Órgano que presenten los sujetos de fiscalización, los particulares y cualquier persona física o moral, pública o privada, siempre y cuando aporten pruebas idóneas por el incumplimiento de las disposiciones legales;
 
 X. Presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos del Órgano;
+
+> <small>(DEROGADA [N. DE E. REFORMADA], P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 XI. Llevar el registro y análisis de la situación patrimonial de los servidores públicos adscritos al Órgano;
 
 XII. Expedir certificaciones de los documentos que obren en sus archivos en los casos en que sean solicitados por autoridades competentes en el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-XIII. Fiscalizar, ordenar y efectuar auditorías, inspecciones o visitas a las diversas unidades administrativas que integran el Órgano, cumpliendo con las formalidades legales; por conducto del personal del Congreso que al efecto se comisione o a través de servicios de auditoría externos, con la finalidad de verificar que los recursos públicos que por cualquier concepto hubieren recaudado, manejado, administrado o ejercido, lo hayan realizado conforme a los programas y montos autorizados, con apego a las disposiciones aplicables, así como para verificar el cumplimiento de los objetivos de la fiscalización a que alude esta ley;
+XIII. Fiscalizar, la gestión financiera del Órgano así como el cumplimiento de los objetivos contenidos en los Programas aprobados en el Presupuesto de Egresos, al efecto podrá ordenar y efectuar auditorías, inspecciones o visitas a las diversas unidades administrativas que integran el Órgano, cumpliendo con las formalidades legales; por conducto del personal del Congreso que al efecto se comisione o a través de servicios de auditoría externos, con la finalidad de verificar que los recursos públicos que por cualquier concepto hubieren recaudado, manejado, administrado o ejercido, lo hayan realizado conforme a los programas y montos autorizados, con apego a las disposiciones aplicables, así como para verificar el cumplimiento de los objetivos de la fiscalización a que alude esta ley. El desahogo de los procedimientos disciplinarios para la imposición de las sanciones, derivadas de las responsabilidades que en su caso se deriven de dicha fiscalización, se realizará por la contraloría interna del Congreso en apoyo a la Comisión;
 
-XIV. Informar al Congreso de las denuncias o quejas presentadas contra los servidores públicos del Órgano; y (sic)
+XIV. (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2009)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-XV. Aprobar el proyecto de presupuesto de egresos del Órgano, mismo que incluirá el tabulador de sueldos, compensaciones ordinarias y extraordinarias;
+XV. Recibir y dar trámite al proyecto de presupuesto de egresos del Órgano, debiéndolo integrar al proyecto de presupuesto del Congreso para los trámites legales a que haya lugar;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2007)</small>
 
@@ -725,17 +723,17 @@ Una vez agotado el término para tales efectos, la Comisión, en un plazo no may
 
 Cuando por la naturaleza de las pruebas ofrecidas se requiera de mayor tiempo para su desahogo, la Comisión podrá ampliar, en no más de diez días hábiles, el plazo señalado en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 31.
 
-Para el caso del Auditor General, analizados los elementos aportados por las partes, si la Comisión, por votación de la mitad más uno de sus integrantes, determina que ha lugar al procedimiento de remoción, turnará de inmediato el dictamen correspondiente al Pleno del Congreso para que éste, por el voto de las dos terceras partes de sus integrantes, apruebe, en su caso, el dictamen y sus puntos resolutivos. Si la Comisión dictamina que no ha lugar a la remoción, ordenará por sí que se archive el expediente de la denuncia como asunto total y definitivamente concluido.
+Analizados los elementos aportados por las partes, si la Comisión, por votación de la mitad más uno de sus integrantes, determina que ha lugar al procedimiento de remoción, turnará de inmediato el dictamen correspondiente al Pleno del Congreso para que éste, por el voto de las dos terceras partes de sus integrantes presentes, apruebe, en su caso, el dictamen. Si la Comisión dictamina que no ha lugar a la remoción, ordenará por sí que se archive el expediente de la denuncia como asunto total y definitivamente concluido.
 
-Para el caso de los auditores especiales, analizados los elementos aportados por las partes, la Comisión resolverá directamente sobre la procedencia de la remoción, por votación de la mitad más uno de sus integrantes. De igual manera, si la Comisión dictamina que no ha lugar a la remoción, ordenará por sí que se archive el expediente de la denuncia como asunto total y definitivamente concluido.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 32.
 
-Los Sujetos de fiscalización tendrán la facultad de formular queja ante la Comisión sobre los actos del Auditor General o Auditores Especiales del Órgano que contravengan las disposiciones de esta ley, en cuyo caso, la Comisión substanciará la investigación preliminar a fin de determinar si se actualiza alguna de las hipótesis a que se refiere el artículo 20 de esta ley, así como si ha lugar o no a iniciar el procedimiento previsto en los dos artículos anteriores, o los procedimientos previsto (sic) en la Ley de Responsabilidades de los Servidores Públicos.
+Los sujetos de fiscalización tendrán la facultad de formular queja ante la Comisión sobre los actos del Auditor General del Órgano que contravengan las disposiciones de esta ley, en cuyo caso, la Comisión substanciará la investigación preliminar a fin de determinar si se actualiza alguna de las hipótesis a que se refiere el artículo 20 de esta LEY, así como si ha lugar o no a iniciar el procedimiento previsto en los dos artículos anteriores, o los procedimientos previstos en la Ley de Responsabilidades de los Servidores Públicos.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2004)</small>
 
@@ -743,11 +741,13 @@ Los Sujetos de fiscalización tendrán la facultad de formular queja ante la Com
 
 INFORMES DE AVANCE DE GESTIÓN FINANCIERA
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 33.
 
-Para los efectos de esta ley, la Cuenta Pública y los Informes de Avance de Gestión Financiera se constituirán por:
+Para los efectos de esta ley, la Cuenta Pública y el Informe de Avance de Gestión Financiera se constituirán por:
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
 A.- La Cuenta Pública:
 
@@ -757,25 +757,33 @@ II. Los programas y sus avances;
 
 III. Afectaciones en el activo y pasivo totales de la hacienda pública y en su patrimonio neto, incluyendo el origen y aplicación de los recursos;
 
-IV. El estado analítico de deuda pública directa y contingente; y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-V. Los demás estados complementarios y aclaratorios, documentos e información general que a juicio del Órgano, sean indispensables para el análisis de resultados.
+IV. El estado analítico de deuda pública y deuda contingente;
 
-B.- Los Informes de Avance de Gestión Financiera se referirán a los programas a cargo de los Sujetos de Fiscalización, para conocer el grado de cumplimiento de los objetivos, metas y satisfacción de necesidades en ellos proyectados y que como parte integrante de la Cuenta Pública deben contener:
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-I. El flujo contable de ingresos y egresos al término de cada trimestre del que se informe;
+V. El análisis de los indicadores de desempeño establecidos en el ejercicio que permitan verificar los resultados alcanzados, explicando en su caso, los motivos de su variación; y
 
-II. El avance del cumplimiento de los programas con base en los indicadores estratégicos aprobados en los presupuestos correspondientes a cada sujeto de fiscalización;
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-III. Los procesos concluidos; y
+VI. Los demás estados complementarios y aclaratorios, documentos e información general que a juicio del Órgano, sean indispensables para el análisis de resultados.
 
-IV. Los demás estados complementarios y aclaratorios, documentos e información general que a juicio del Órgano, sean indispensables para el análisis de resultados.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+B. El Informe de Avance de Gestión Financiera deberá referirse a los programas a cargo del sujeto obligado a su presentación, para conocer el grado de cumplimiento de los objetivos, metas y satisfacción de necesidades en ellos proyectados y contendrá:
+
+I. El flujo contable de ingresos y egresos del trimestre del que se informe.
+
+II. El avance del cumplimiento de los programas con base en los indicadores aprobados en el Presupuesto de Egresos correspondiente.
+
+El Órgano analizará los Informes de Avance de Gestión Financiera con el propósito de proyectar la planeación de sus trabajos de fiscalización.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 34.
 
-Las Cuentas Públicas y los Informes de Avance de Gestión Financiera serán presentados por los Sujetos de fiscalización al Congreso, en términos de esta ley, a través del Órgano, el cual deberá remitir el Informe del Resultado por conducto de la Comisión.
+La Cuenta Pública y el Informe de Avance de Gestión Financiera serán presentados por los sujetos obligados al Congreso, en términos de esta ley, a través del Órgano, el cual deberá remitir el Informe del Resultado por conducto de la Comisión.
 
 ###### Artículo 35.
 
@@ -805,13 +813,17 @@ Y DE LOS INFORMES DE AVANCE DE GESTIÓN FINANCIERA
 
 La presentación de las cuentas públicas y de los informes de avance de gestión financiera deberá sujetarse a lo siguiente:
 
-I. Las Cuentas Públicas se presentarán anualmente, dentro de los 45 días naturales siguientes al último día del ejercicio fiscal del que se informe;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+I. La Cuenta Pública se presentarán (sic) anualmente, a más tardar el 15 de febrero siguiente al ejercicio fiscal del que se informe;
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 II. Los Informes de Avance de Gestión Financiera comprenderán información relativa a los meses de enero a marzo, de abril a junio, y de julio a septiembre deberán presentarse dentro de los treinta días naturales posteriores al último día del trimestre del que se informe. La información relativa al periodo de octubre a diciembre se presentará junto con la Cuenta Pública.
 
-III. En la remisión de la Cuenta Pública y de los Informes de Avance de Gestión Financiera del Poder Ejecutivo y en las de los Ayuntamientos se incluirá de manera consolidada y analítica, la información correspondiente a sus organismos públicos descentralizados, fideicomisos, fondos y empresas de participación estatal o municipal, según sea el caso, así como de las personas físicas o morales que hayan recibido recursos públicos con cargo a sus respectivos erarios.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+III. En la remisión de la Cuenta Pública y de los Informes de Avance de Gestión Financiera de los sujetos obligados a presentar dicha información, se incluirán de manera consolidada y analítica, la información correspondiente a sus organismos públicos descentralizados, fideicomisos, fondos y empresas de participación estatal o municipal, según sea el caso, así como de las personas físicas o morales que hayan recibido recursos públicos con cargo a sus respectivos erarios.
 
 A fin de dar cumplimiento a lo establecido en el párrafo anterior, los titulares de las entidades de la administración pública estatal y municipal, harán llegar con la debida anticipación al Ejecutivo Estatal o al Ayuntamiento, según corresponda, por conducto de la Secretaría de Finanzas o de la Tesorería Municipal, la información y documentación correspondiente.
 
@@ -819,15 +831,19 @@ Para tal efecto, la Secretaría de Finanzas y la dependencia municipal competent
 
 IV. En el caso de los Poderes Legislativo y Judicial así como de los demás entes públicos la remisión de sus cuentas públicas y de los Informes de Avance de Gestión Financiera se presentará directamente al Congreso por conducto del Órgano, en los términos de esta ley.
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-V. Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública y de los Informes de Avance de Gestión Financiera, cuando medie solicitud del titular del sujeto fiscalizado en la que a juicio de la Comisión, se justifique dicha ampliación; las solicitudes de prórroga deberán ser presentadas con al menos diez días naturales de anticipación al vencimiento del plazo para la entrega de la cuenta pública y/o avances de gestión financiera.
+V. Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública y del Informe de Avance de Gestión Financiera cuando medie solicitud del titular del sujeto obligado suficientemente justificada a juicio del Congreso o de la Diputación Permanente, debiendo comparecer en todo caso el titular de la dependencia correspondiente a informar de las razones que lo motiven; la prórroga no deberá exceder de 15 días naturales. En el caso de que la prórroga se conceda para la presentación de la Cuenta Pública, el Órgano contará con el mismo tiempo adicional para la presentación del Informe del Resultado.
 
-La concesión de prórrogas solo se otorgará de manera excepcional debiendo, la Comisión, considerar la procedencia de las solicitudes sólo por causas debidamente justificadas. En ningún caso la prórroga para la presentación de la Cuenta Pública y/o avances de gestión financiera excederá de veinte días naturales.
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2010)</small>
 
-La resolución a la petición de prórrogas deberá ser notificada a los solicitantes y al Órgano, con al menos cinco días de anticipación al vencimiento del plazo para la presentación de las cuentas públicas y de los informes de avance de gestión financiera. En todo caso, el titular de la dependencia responsable del manejo financiero del sujeto de fiscalización remiso, deberá comparecer ante la Comisión a informar y justificar las razones que motiven su solicitud.
+Las solicitudes se presentarán con al menos diez días naturales de anticipación al vencimiento del plazo, y se desahogarán ante la Comisión debiendo emitir el dictamen sobre su procedencia para su resolución al Pleno o a la Diputación Permanente, según sea el caso. La concesión de prórrogas se otorgará de manera excepcional debiéndose considerar la autorización de las solicitudes sólo por causas debidamente justificadas.
 
-VI. La falta de la presentación injustificada de la Cuenta Pública y de los Informes de Avance de Gestión Financiera en los plazos establecidos en este artículo será causa de responsabilidad en los términos de ley.
+La resolución a la petición de prórrogas deberá ser notificada a los solicitantes y al Órgano, con al menos cinco días de anticipación al vencimiento del plazo para la presentación de las cuentas públicas y de los informes de avance de gestión financiera.
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+VI. La falta de la presentación injustificada de la Cuenta Pública y de los Informes de Avance de Gestión Financiera en los plazos establecidos en este artículo, será causa de responsabilidad grave en los términos de ley.
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -851,7 +867,9 @@ El Órgano, para revisar las Cuentas Públicas, establecerá las normas, procedi
 
 El Órgano, para el cumplimiento de las atribuciones que le confieren la Constitución del Estado y esta ley, tiene plenas facultades para fiscalizar toda clase de libros, instrumentos, documentos y objetos, practicar visitas, inspecciones, auditorías y en general, recabar los elementos de información necesarios para cumplir con sus funciones; para tal efecto, podrá citar a comparecer en forma personal ante él a personas vinculadas con el manejo y la aplicación del gasto público y en general servirse de cualquier medio lícito que conduzca al esclarecimiento de los hechos, aplicando en su caso, técnicas y procedimientos de auditoría y periciales.
 
-Podrá, igualmente, determinar qué sujetos de fiscalización deben presentar su cuenta pública, dictaminada por contador público externo u otro profesional autorizado según los requerimientos que establezca la Comisión. En todo caso, ésta, podrá por sí misma proceder a la práctica de auditorías, cuando existan elementos de juicio que acrediten su intervención.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+Podrá, igualmente, determinar qué sujetos de fiscalización deben presentar su cuenta pública, dictaminada por contador público externo u otro profesional autorizado.
 
 ###### Artículo 41.
 
@@ -861,9 +879,11 @@ Los sujetos de fiscalización pondrán a disposición del Órgano, los datos, li
 
 Las Unidades de Control Interno de los Sujetos de fiscalización deberán colaborar con el Órgano, y otorgarán las facilidades que permitan a éste realizar sus funciones. Asimismo, deberán proporcionar la documentación que aquél les solicite sobre los resultados de la fiscalización que efectúe, o cualquier otra que se les requiera en el ejercicio de sus funciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 43.
 
-Las auditorías, visitas e inspecciones que se efectúen en los términos de esta ley, se practicarán por el personal expresamente comisionado para el efecto por el Órgano o mediante la contratación de prestadores de servicios profesionales, habilitados por el mismo para efectuar auditorías, visitas o inspecciones, siempre y cuando no exista conflicto de intereses determinado por la Comisión.
+Las auditorías que se efectúen en los términos de esta ley, se practicarán por el personal expresamente comisionado para el efecto por el Órgano o mediante la contratación de prestadores de servicios profesionales o despachos externos habilitados por el mismo para efectuar auditorías, visitas o inspecciones, siempre y cuando no exista conflicto de intereses.
 
 Las personas a que se refiere el párrafo anterior tendrán el carácter de representantes del Órgano y deberán observar los lineamientos que para tal efecto emita el Órgano en lo concerniente a la comisión conferida. Para tal efecto, deberán presentar previamente el oficio de comisión y, en su caso, la orden respectiva, e identificarse plenamente como personal actuante del Órgano.
 
@@ -925,29 +945,33 @@ III. Revisar si las entidades alcanzaron con eficacia los objetivos y metas fija
 
 A solicitud del Órgano, los sujetos de fiscalización le informarán de los actos y convenios de los que les resulten derechos y obligaciones, con objeto de verificar si de sus términos y condiciones pudieran derivarse daños y perjuicios en contra de la hacienda pública estatal o municipal que impliquen incumplimiento de alguna ley relacionada con la materia.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 49.
 
-El Órgano, en ejercicio de sus facultades de fiscalización, podrá realizar visitas, inspecciones y auditorías durante el ejercicio fiscal en curso, respecto de los procesos reportados como concluidos en los Informes de Avance de Gestión Financiera; en caso contrario, sólo podrá realizar dichas actuaciones a partir de la presentación de la Cuenta Pública. Al efecto, los titulares de los sujetos de fiscalización y los de sus respectivas dependencias están obligados a proporcionar la información y documentación que les solicite el órgano y a permitir la práctica de revisiones necesarias para el esclarecimiento de los hechos.
-
 La negativa a proporcionar la información o documentación solicitada por el Órgano o a permitirle la revisión o fiscalización de los libros, instrumentos y documentos de fiscalización comprobatorios y justificativos del ingreso y del gasto público, así como la obstaculización a la práctica de visitas, inspecciones y auditorías será causa de responsabilidad grave la cual será sancionada conforme a la ley. El Órgano por conducto de la Comisión hará del conocimiento del Congreso la relación de servidores públicos que incurran en alguna de las acciones descritas a efecto de instruir los procedimientos disciplinarios que en el ejercicio de sus atribuciones le corresponda determinar.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 50.
 
-El proceso de fiscalización inicia con la presentación de la Cuenta Pública y los informes de avance de gestión financiera, mismo que se realizará en las siguientes etapas:
+El proceso de fiscalización inicia con la presentación de la Cuenta Pública, mismo que se realizará en las siguientes etapas:
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
 
 I.- Planeación de los trabajos de fiscalización.
 
 A fin de determinar la cantidad y el tipo de auditorías a ser realizadas, el Órgano, deberá considerar la información y la documentación proporcionada por los sujetos de fiscalización, los antecedentes que de ejercicios anteriores se deriven, las denuncias presentadas, las solicitudes de auditorías que de manera expresa realice el Congreso, los compromisos de fiscalización que deriven de convenios y los recursos disponibles.
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
 
 II.- Ejecución de los trabajos de fiscalización.
 
 La fiscalización se realizará de conformidad a lo que establece esta ley, a partir del día siguiente en que sea presentada la cuenta pública y, en su caso los informes de avance de gestión financiera; al efecto, previamente al inicio de las acciones de fiscalización; el órgano notificará el inicio de dichos trabajos a los sujetos de fiscalización a quienes se vaya a practicar auditorias.
 
 En todo caso, los auditores comisionados deberán obtener el mayor número de elementos que permitan soportar la existencia de probables irregularidades. Al efecto, se procurará dar participación a los servidores públicos y a los particulares que de manera directa se relacionen con las acciones u omisiones que presuntivamente constituyan una irregularidad.
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
 
 III.- Emisión del Pliego de Observaciones y su solventación.
 
@@ -963,27 +987,31 @@ Durante la etapa de solventación, los sujetos de fiscalización procurarán la 
 
 En todo caso, el pliego de observaciones a que se refiere esta fracción, deberá notificarse a los Sujetos de Fiscalización antes del treinta de septiembre del año siguiente al fiscalizado. Cuando los Sujetos de Fiscalización hayan obtenido prórroga para la presentación de su Cuenta Pública, la fecha límite para la notificación del Pliego de Observaciones se ampliará en un término similar a la prórroga autorizada.
 
-IV.- Presentación del Informe del Resultado de la Revisión de la Cuenta Pública.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-El Órgano presentará al Congreso, por conducto de la Comisión, el Informe del Resultado de la Revisión de la Cuenta Pública a más tardar el quince de noviembre del año siguiente al que se fiscalice, mismo que tendrá carácter público y mientras ello no suceda, el Órgano deberá guardar reserva de sus actuaciones e informaciones. A petición del Órgano, por causa justificada, la Comisión mediante acuerdo de trámite podrá autorizar se prorrogue la presentación del Informe del Resultado.
+IV. Presentación del Informe del Resultado de la Revisión de la Cuenta Pública.
 
-En la misma fecha en que se presente al Congreso el Informe de Resultado, el Órgano procederá a hacer del conocimiento de cada uno de los sujetos de fiscalización, la parte relativa del informe que corresponda al resultado de la fiscalización que en particular se le haya practicado.
+El Órgano presentará al Congreso, por conducto de la Comisión, el Informe del Resultado de la Revisión de la Cuenta Pública a más tardar el quince de noviembre del año siguiente al que se fiscalice, mismo que tendrá carácter público y mientras ello no suceda, el Órgano deberá guardar reserva de sus actuaciones e informaciones, salvo cuando se trate de información o actuaciones que deriven del resultado de auditorías realizadas a recursos federales por convenio los cuales deban ser comunicados a la Auditoría Superior de la Federación previamente a la presentación de dicho informe. A petición del Órgano, por causa justificada y atendiendo a las circunstancias específicas del caso, la Comisión mediante acuerdo de trámite podrá autorizar se prorrogue la presentación del Informe del Resultado.
 
-V.- Dictaminación y aprobación del Informe de Resultado de la Revisión de la Cuenta Pública.
+El titular del Órgano, enviará a los sujetos fiscalizados el resultado de las auditorías que se les hayan practicado, dentro de los 10 días hábiles posteriores a que sea entregado al Congreso el Informe del Resultado, en el cual se le darán a conocer las recomendaciones y acciones promovidas.
 
-Dentro de los noventa días siguientes a la presentación del Informe de Resultado la Comisión procederá a su estudio, a fin de valorar su contenido, emitir el dictamen y turnarlo para su aprobación al pleno del Congreso.
+En el caso de que el Informe del Resultado contenga recomendaciones derivadas de la evaluación de desempeño, los sujetos fiscalizados a quienes vayan dirigidas deberán informar ante el Órgano las mejoras realizadas o, en su caso, justificar su improcedencia, dentro de un plazo de 60 días hábiles, contados a partir de la fecha en que las reciban. El Órgano, deberá pronunciarse en un plazo de 30 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas dichas recomendaciones.
 
-El análisis del dictamen sobre el Informe de Resultados y en su caso, su aprobación, serán de estudio preferente por el Congreso durante el segundo periodo ordinario de sesiones. El decreto que al efecto recaiga, deberá turnarse para su publicación al Periódico Oficial, Órgano del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
+V. Dictaminación y aprobación del Informe de Resultado de la Fiscalización de la Cuenta Pública.
 
-Artículo 50 bis.- La fiscalización del Informe de Avance de Gestión Financiera y de la Cuenta Pública está limitada al principio de anualidad a que se refiere el artículo 121 de la Constitución Política del Estado de Nayarit; por lo que un proceso que abarque en su ejecución dos o más ejercicios fiscales, podrá ser revisado y fiscalizado anualmente en la parte ejecutada precisamente en ese ejercicio, al rendirse la Cuenta Pública; lo mismo ocurrirá cuando el proceso se declare como concluido. La revisión de conceptos ya fiscalizados con motivo del Informe de Avance de Gestión Financiera, no deberá duplicarse a partir de la revisión de la Cuenta Pública salvo que dicho proceso no haya sido objeto de fiscalización por parte del Órgano.
+El Congreso del Estado concluirá el proceso de fiscalización de las cuentas públicas a más tardar el 30 de mayo del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas contenidas en el Informe del Resultado que presente el Órgano, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por dicho órgano sigan su curso.
 
-Sin perjuicio del principio de anualidad a que se refiere el párrafo anterior, el Órgano podrá revisar de manera casuística y concreta, información y documentos relacionados con conceptos específicos de gasto correspondientes a ejercicios anteriores al de la Cuenta Pública en revisión, cuando el programa o proyecto contenido en el presupuesto aprobado, abarque para su ejecución y pago diversos ejercicios fiscales.
+Al efecto, la Comisión procederá al estudio del Informe de Resultado a fin de valorar su contenido, emitir el dictamen y turnarlo para su aprobación al pleno del Congreso. El decreto que al efecto recaiga, deberá enviarse para su publicación al Periódico Oficial, Órgano del Gobierno del Estado.
 
-Igualmente, podrá revisar información y documentos relacionados con conceptos específicos de gasto correspondientes a ejercicios anteriores al que se fiscalice; cuando existan elementos que a juicio del Órgano presupongan la existencia de daños o perjuicios al erario público estatal o municipal, en tanto no prescriban las facultades del Órgano para determinar responsabilidades resarcitorias.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-Bajo ninguna circunstancia las hipótesis referidas en los dos párrafos anteriores presupondrán abierta, para todos los efectos legales, nuevamente la Cuenta Pública del ejercicio correspondiente a la revisión específica señalada.
+###### Artículo 50 Bis.
+
+La fiscalización de la Cuenta Pública está limitada al principio de anualidad por lo que un proceso que abarque en su ejecución dos o más ejercicios fiscales, podrá ser revisado y fiscalizado anualmente en la parte ejecutada precisamente en ese ejercicio, al rendirse la Cuenta Pública;
+
+Sin perjuicio del principio de anualidad, el Órgano podrá solicitar y fiscalizar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, únicamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales o municipales. Las observaciones y recomendaciones que respectivamente, el Órgano emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
 ### CAPÍTULO VII. DEL INFORME DEL RESULTADO
 
@@ -997,17 +1025,31 @@ El Informe del Resultado deberá al menos contener:
 
 I. Los dictámenes de la revisión de la Cuenta Pública;
 
-II. La evaluación de la Gestión Financiera y del Gasto Público del avance o cumplimiento de los programas y subprogramas aprobados;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+II. La evaluación de la Gestión Financiera y del avance o cumplimiento de los programas y subprogramas aprobados;
 
 III. Las observaciones, y comentarios de las actuaciones que, en su caso, se hubieren efectuado;
 
-IV. El cumplimiento de los principios de contabilidad gubernamental y de las disposiciones contenidas en los ordenamientos legales correspondientes;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-V. La comprobación de que los sujetos de fiscalización, se ajustaron a lo dispuesto a su Ley de Ingresos y Presupuesto de Egresos y en las demás normas aplicables en la materia;
+IV. El análisis sobre el cumplimiento de los postulados de contabilidad gubernamental y de las disposiciones contenidas en los ordenamientos legales correspondientes;
 
-VI. El señalamiento, en su caso, de las irregularidades detectadas; y
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-VII. Los comentarios y observaciones de los auditados.
+V. El análisis del cumplimiento a Ley de Ingresos y Presupuesto de Egresos y las demás normas aplicables y en su caso las desviaciones presupuestales;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+VI. El señalamiento, en su caso, y las acciones promovidas;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+VII. Los comentarios y observaciones de los auditados; y
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+VIII. Los resultados de la verificación del desempeño en el cumplimiento de los objetivos y metas de los programas revisados.
 
 ###### Artículo 53.
 
@@ -1115,7 +1157,9 @@ El fincamiento de las indemnizaciones y sanciones a que se refiere esta Ley no e
 
 La determinación de responsabilidades resarcitorias se sujetará al procedimiento siguiente:
 
-I. Se citará personalmente al presunto o presuntos responsables a una audiencia en el domicilio del Órgano, haciéndoles saber en el acta de notificación los hechos que se les imputan y que sean causa de presunta responsabilidad en los términos de esta ley, señalando el lugar, día y hora en que tendrá verificativo dicha audiencia; en la audiencia, se le hará saber además de su derecho a ofrecer pruebas y alegar lo que a su derecho convenga, por sí o por medio de un defensor; apercibidos que de no comparecer sin justa causa, se tendrá por precluído su derecho para ofrecer pruebas y formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+I. Se citará al presunto o presuntos responsables para que comparezcan personalmente a una audiencia en las oficinas del Órgano, haciéndoles saber en el acta de notificación los hechos que se les imputan y que sean causa de presunta responsabilidad en los términos de esta ley, señalando el lugar, día y hora en que tendrá verificativo dicha audiencia, apercibidos que de no comparecer sin justa causa, se tendrá por precluído su derecho para ofrecer pruebas y formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo. En la audiencia, se le hará saber de su derecho a ofrecer pruebas y alegar lo que a su derecho convenga, por sí o por medio de un defensor.
 
 Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días hábiles;
 
@@ -1127,13 +1171,17 @@ Al momento de comparecer, los presuntos responsables, deberán señalar domicili
 
 II. Celebrada la audiencia, el probable responsable contará con cinco días hábiles para ofrecer pruebas; vencido este plazo, conforme a las pruebas ofrecidas y admitidas las que procedan; se citará a la audiencia de desahogo de pruebas dentro de los diez días hábiles siguientes, misma que podrá diferirse por una sola vez, en la cual se dictará fecha para recibir alegatos por escrito.
 
-III. Se emitirá resolución dentro de los treinta días hábiles siguientes a la audiencia de alegatos; en la resolución, se determinará la existencia o inexistencia de la responsabilidad, y se fincará, en su caso, la indemnización y sanción correspondientes, a el o los sujetos responsables, y se notificará a éstos dicha resolución, remitiéndose un tanto autógrafo de la misma a la Secretaría de Finanzas o a la Tesorería Municipal que corresponda, para el efecto de que si, en un plazo de quince días hábiles siguientes a la fecha en que surta efectos la notificación, éste no es cubierto, o no es impugnado y debidamente garantizado en términos de las disposiciones aplicables, se haga efectivo, mediante el procedimiento administrativo de ejecución. Cuando los responsables sean servidores públicos, dicha resolución será notificada al representante del sujeto de Fiscalización y al órgano de control interno respectivo;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+III. Se emitirá resolución dentro de los treinta días hábiles siguientes a la audiencia de alegatos; en la resolución, se determinará la existencia o inexistencia de la responsabilidad, y se fincará, en su caso, la indemnización y sanción correspondientes, a el o los sujetos responsables, y se notificará a éstos dicha resolución, remitiéndose un tanto autógrafo de la misma a la Secretaría de Finanzas, para el efecto de que si, en un plazo de quince días hábiles siguientes a la fecha en que surta efectos la notificación, ésta no es cubierta, o no es impugnada y debidamente garantizada en términos de las disposiciones aplicables, se haga efectivo, mediante el procedimiento administrativo de ejecución. Cuando los responsables sean servidores públicos, dicha resolución será notificada al representante del Sujeto Fiscalizado y al órgano de control interno de los mismos;
 
 La indemnización deberá ser suficiente para cubrir los daños y perjuicios causados y se actualizará para efectos de su pago, en la forma y términos que establecen las disposiciones del Código Fiscal del Estado tratándose de contribuciones y aprovechamientos.
 
 La sanción pecuniaria consistirá en una multa de uno hasta tres tantos del monto de los daños y perjuicios causados; y
 
-El Órgano podrá solicitar a la Secretaría de Finanzas o las tesorerías municipales, en su caso, proceda al embargo precautorio de los bienes de los presuntos responsables a efecto de garantizar el cobro de la sanción impuesta.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+El Órgano podrá solicitar a la Secretaría de Finanzas que proceda al embargo precautorio de los bienes de los presuntos responsables a efecto de garantizar el cobro de la sanción impuesta.
 
 IV. Si en la audiencia el Órgano encontrara que no cuenta con los elementos suficientes para resolver o advierta elementos que impliquen una nueva responsabilidad a cargo del presunto o presuntos responsables o de otras personas, podrá disponer la práctica de investigaciones y citar para otras audiencias debiendo emitir la resolución correspondiente siguiendo el procedimiento previsto en las fracciones anteriores.
 
@@ -1151,7 +1199,9 @@ e) La reincidencia en el incumplimiento de obligaciones, y
 
 f) El monto del beneficio, lucro o daño o perjuicio derivado del incumplimiento de obligaciones.
 
-VI. Las resoluciones y acuerdos del Organo durante el procedimiento a que se refiere este Capítulo constarán por escrito. Las sanciones impuestas una vez que hayan causado ejecutoria se notificarán tanto a la dependencia o entidad en donde se encontraba adscrito el servidor público o servidores públicos responsables, como a la Secretaría de Finanzas o las tesorerías municipales, según corresponda, así como a los respectivos órganos de control interno; para los efectos correspondientes de registro y ejecución.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+VI. Las resoluciones y acuerdos del Órgano durante el procedimiento a que se refiere este capítulo constarán por escrito. Las sanciones impuestas una vez que hayan causado ejecutoria se notificarán al sujeto fiscalizado en donde se encuentre o haya encontrado adscrito el servidor público o servidores públicos responsables, a la Secretaría de Finanzas, y al órgano de control interno correspondiente; para los efectos de registro y ejecución.
 
 El incumplimiento a lo dispuesto en este artículo por parte del jefe inmediato, del titular de la dependencia o entidad correspondiente o de los servidores públicos de la Secretaria de Finanzas o de las tesorerías municipales o de los auxiliares de éstas, será causa de responsabilidad administrativa disciplinaria en los términos de la ley.
 
@@ -1161,9 +1211,11 @@ El incumplimiento a lo dispuesto en este artículo por parte del jefe inmediato,
 
 En todas las cuestiones relativas al procedimiento no previstas en este Capítulo, así como en la apreciación de las pruebas y desahogo del recurso de reconsideración, se observarán supletoriamente las disposiciones de la Ley de Justicia y Procedimientos Administrativos para el Estado de Nayarit.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 68.
 
-La Secretaría de Finanzas y las Tesorerías Municipales, deberán informar semestralmente al Órgano y a la Comisión, de los trámites que se vayan realizando para la ejecución de los cobros respectivos a las responsabilidades resarcitorias fincadas por el Órgano así como el monto recuperado
+La Secretaría de Finanzas, deberá informar semestralmente al Órgano y a la Comisión, de los trámites que se vayan realizando para la ejecución de los cobros respectivos a las responsabilidades resarcitorias fincadas por el Órgano así como el monto recuperado.
 
 > <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
 
@@ -1189,9 +1241,9 @@ El Auditor General, podrá abstenerse de sancionar al infractor, por una sola ve
 
 Cualquier persona física o moral, pública o privada afectada por los actos o resoluciones definitivos del Órgano podrá interponer el recurso de reconsideración previsto en esta ley. En todo caso las resoluciones de los recursos de reconsideración podrán impugnarse mediante el juicio que se promueva ante el Tribunal de Justicia Administrativa del Estado de Nayarit.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
-Se entenderán como actos o resoluciones definitivos, aquellos que ponen fin al procedimiento a que alude el Capítulo IX de esta ley.
+Se entenderán como actos o resoluciones definitivos, aquellos que ponen fin al procedimiento a que alude el Capítulo IX y aquellos en virtud de los cuales se impongan multas por el incumplimiento a las disposiciones de esta ley.
 
 ###### Artículo 73.
 
@@ -1263,11 +1315,11 @@ Para el cumplimiento de sus fines, el Instituto de Capacitación y Desarrollo en
 
 ### CAPÍTULO XIII. DE LA REVISIÓN DE SITUACIONES EXCEPCIONALES
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 81.
 
-Para los efectos de lo previsto en el párrafo tercero de la fracción I, del artículo 121 de la Constitución Política del Estado de Nayarit, cuando se presenten denuncias sustentadas en pruebas de las cuales pueda inferirse el probable manejo, aplicación o custodia irregular de recursos públicos estatales o municipales, o de su desvío; el Órgano, una vez valorada la denuncia estará facultada para proceder a requerir a los Sujetos de Fiscalización, revisiones de conceptos específicos vinculados de manera directa a las denuncias presentadas.
+Cuando se presenten denuncias sustentadas en pruebas de las cuales pueda inferirse el probable manejo, aplicación o custodia irregular de recursos públicos estatales o municipales, o de su desvío; el Órgano, una vez valorada la denuncia estará facultado para, sin perjuicio del principio de posterioridad, proceder a requerir a los Sujetos de Fiscalización, revisiones de conceptos específicos durante el ejercicio fiscal en curso, vinculados de manera directa a las denuncias presentadas.
 
 En el requerimiento se deberá expresar el motivo que lo origine y los indicios probatorios razonables, mediante los cuales se presuma que la irregularidad cometida ocasionó un daño al Estado o a los municipios en su hacienda pública.
 
@@ -1310,6 +1362,22 @@ Si transcurrido el plazo señalado en el artículo 82 de esta ley, el Sujeto de 
 El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
 
 Lo dispuesto en el presente capítulo, no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+### CAPÍTULO XIV. CONTRALORÍA SOCIAL
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+###### Artículo 86.
+
+La Comisión recibirá peticiones, solicitudes y en su caso denuncias sustentadas en elementos de prueba idóneos, presentadas por la sociedad civil, las cuales deberán ser consideradas por el Órgano en el programa anual de auditorias, visitas e inspecciones y cuyos resultados deberán ser considerados en el Informe del Resultado.
+
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+###### Artículo 87.
+
+La Comisión recibirá de parte de la sociedad opiniones, solicitudes y denuncias sobre el funcionamiento de la fiscalización que ejerce el Órgano a efecto de participar, aportar y contribuir a mejorar el funcionamiento de la revisión de la cuenta pública.
 
 T R A N S I T O R I O S
 
@@ -1408,3 +1476,15 @@ a) Dentro del plazo de quince días posteriores a la entrada en vigor de este de
 b) Dentro del plazo de quince días posteriores a la entrada en vigor del Reglamento Interior del Órgano, el Auditor General deberá proponer ante la Comisión las ternas para la designación de los titulares de la Unidades Administrativas y demás estructura subordinada prevista en la presente ley y en el Reglamento.
 
 Cuarto.- Los plazos y formalidades para la revisión de la Cuenta Pública a que aluden las fracciones I a IV del artículo 50 del presente Decreto, serán aplicables a partir del siguiente ejercicio fiscal.
+
+P.O. 21 DE NOVIEMBRE DE 2009.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, conforme a los transitorios subsecuentes y se derogan todas las disposiciones legales, reglamentarias o administrativas que se opongan o contravengan a este decreto.
+
+Artículo Segundo. El Reglamento Interior del Órgano de Fiscalización Superior que deberá emitirse como consecuencia de la aprobación de este decreto a partir de que se lleve a cabo la aprobación del presupuesto de egresos del estado para el ejercicio fiscal 2010 y deberá entrar en vigor a más tardar el primero de enero del año 2010. En tanto ello no suceda, seguirá en vigor el Reglamento publicado en el periódico oficial el 15 de diciembre de 2007.
+
+Artículo Tercero. Las formalidades, procedimientos y principios que se establecen en el presente decreto, relativas a los procesos de fiscalización que realice el Órgano de Fiscalización Superior entrarán en vigor a partir del primero de enero del año 2010.
+
+Las auditorías que se encuentran en trámite, hasta en tanto se presente el Informe del Resultado correspondiente, deberán desahogarse por el Órgano de conformidad con las disposiciones legales anteriores hasta antes de la entrada en vigor del presente decreto.
+
+Artículo Cuarto. La Comisión, deberá emitir los dictámenes del Informe del Resultado de la revisión de las cuentas públicas correspondientes a los ejercicios fiscales 2002 a 2006, antes del 30 de abril de 2010 a efecto de remitirlos al pleno del Congreso para su sanción definitiva. Los decretos respectivos deberán publicarse en el Periódico Oficial de Gobierno del Estado.
