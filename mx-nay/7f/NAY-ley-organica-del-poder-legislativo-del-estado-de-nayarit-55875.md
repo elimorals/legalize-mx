@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2008-11-27"
+last_updated: "2009-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2009.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -631,7 +631,9 @@ IV. Asuntos Indígenas;
 
 V. Hacienda, Cuenta Pública y Presupuesto;
 
-VI. Educación, Cultura, Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+VI. Educación y Cultura;
 
 VII. Trabajo y Previsión Social;
 
@@ -665,7 +667,11 @@ XX. Asuntos Migratorios; Gestoría Social y Grupos Vulnerables;
 
 XXI. Asuntos Pesqueros y Desarrollo Acuícola;
 
-XXII. Transparencia e Información Gubernamental.
+XXII. Transparencia e Información Gubernamental;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
+XXIII. Ciencia, Tecnología e Innovación.
 
 Estas comisiones podrán ampliarse o disminuirse por acuerdo de la Legislatura, su funcionamiento será permanente y se regirán de conformidad a lo dispuesto por el Reglamento.
 
@@ -1069,21 +1075,27 @@ El Servicio Profesional de Carrera se establecerá preferentemente para los trab
 
 La facultad fiscalizadora del Congreso se ejercerá por conducto del Órgano de Fiscalización Superior, que tendrá a su cargo la revisión de la cuenta pública de los sujetos de fiscalización señalados en la ley de la materia.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 106.
 
-A propuesta de la Comisión de Gobierno y de la Comisión de Hacienda, Cuenta Pública y Presupuesto, la Legislatura designará al Auditor General con el voto de las dos terceras partes de sus integrantes, de conformidad al procedimiento señalado por la Ley del Órgano de Fiscalización Superior.
+A propuesta de la Comisión de Gobierno y de la Comisión de Hacienda, Cuenta Pública y Presupuesto, la Legislatura designará al Auditor General con el voto de las dos terceras partes de los miembros presentes del Congreso, de conformidad al procedimiento señalado por la Ley del Órgano de Fiscalización Superior.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 107.
 
-El Órgano de Fiscalización Superior contará con Auditores Especiales, Direcciones, y Unidades Administrativas necesarias para el desempeño de sus funciones; el nombramiento y remoción de los titulares de éstas, y aquéllas que se establezcan con el mismo nivel, deberán contar con la aprobación de la Comisión de Hacienda, Cuenta Pública y Presupuesto.
+El Órgano de Fiscalización Superior contara con auditores especiales, directores generales, directores, coordinadores, auditores, y demás servidores públicos que al efecto señale el Reglamento Interior del Órgano de Fiscalización, necesarias para el desempeño de sus funciones de conformidad con el presupuesto autorizado.
 
 ###### Artículo 108.
 
 La Comisión de Hacienda, Cuenta Pública y Presupuesto, coordinará y evaluará el funcionamiento del órgano de fiscalización; será el conducto de comunicación del Congreso y recibirá el informe del resultado de la revisión y fiscalización de las cuentas públicas mediante el dictamen correspondiente, para su turno al pleno del Congreso.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 109.
 
-En los términos de la ley de la materia, el órgano superior fiscalizará en forma posterior los ingresos, egresos, manejo, custodia y aplicación de fondos y recursos públicos de los sujetos de fiscalización y determinará, en su caso, los daños y perjuicios que afecten las haciendas públicas y el patrimonio de las entidades fiscalizadas, fincando las responsabilidades que procedan conforme a la ley, previo conocimiento de la Comisión de Hacienda, Cuenta Pública y Presupuesto.
+En los términos de la ley de la materia, el Órgano Fiscalización Superior fiscalizará en forma posterior los ingresos, egresos, manejo, custodia y aplicación de fondos y recursos que afecten las haciendas públicas y el patrimonio de las entidades fiscalizadas, fincando las responsabilidades que procedan conforme a la ley.
 
 ###### Artículo 110.
 
@@ -1148,3 +1160,17 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 27 DE NOVIEMBRE DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2009.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 106, 107 Y 109 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 21 DE NOVIEMBRE DE 2009.
+
+DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 69 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT.
+
+Artículo Único.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
