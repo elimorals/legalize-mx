@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-fomento-economico-12561
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-15"
-last_updated: "2001-04-21"
+last_updated: "2009-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO ECONOMICO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ASEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO ECONOMICO, PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de noviembre de 1997.
 
@@ -282,3 +284,9 @@ Se autoriza a la Secretaría de Finanzas para que provea los recursos indispensa
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones reglamentarias que se opongan al presente Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Fomento Económico del Gobierno del Estado de Colima, expedido el 01 de Noviembre de 1997 y publicado el 15 de Noviembre de 1997.
