@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-organo-de-fiscalizacion-superior-58790"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-15"
-last_updated: "2007-12-15"
+last_updated: "2009-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO, PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO SEGUIRA VIGENTE HASTA EN TANTO SE EMITA EL NUEVO REGLAMENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el sábado 15 de diciembre de 2007.
 
@@ -908,3 +910,17 @@ El presente Reglamento entrará en vigor el primero de enero del año 2008, prev
 DADO en la Sala de Sesiones "Lic. Benito Juárez" recinto oficial de este Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los once días del mes de diciembre del año dos mil siete.
 
 Dip. Jocelyn Patricia Fernández Molina, Presidenta.- Rúbrica.- Dip. Silvia Cortés Valdivia, Secretaria.- Rúbrica.- Dip. Angélica Cristina del Real Chávez, Secretaria.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE NOVIEMBRE DE 2009.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado, conforme a los transitorios subsecuentes y se derogan todas las disposiciones legales, reglamentarias o administrativas que se opongan o contravengan a este decreto.
+
+Artículo Segundo. El Reglamento Interior del Órgano de Fiscalización Superior que deberá emitirse como consecuencia de la aprobación de este decreto a partir de que se lleve a cabo la aprobación del presupuesto de egresos del estado para el ejercicio fiscal 2010 y deberá entrar en vigor a más tardar el primero de enero del año 2010. En tanto ello no suceda, seguirá en vigor el Reglamento publicado en el periódico oficial el 15 de diciembre de 2007.
+
+Artículo Tercero. Las formalidades, procedimientos y principios que se establecen en el presente decreto, relativas a los procesos de fiscalización que realice el Órgano de Fiscalización Superior entrarán en vigor a partir del primero de enero del año 2010.
+
+Las auditorías que se encuentran en trámite, hasta en tanto se presente el Informe del Resultado correspondiente, deberán desahogarse por el Órgano de conformidad con las disposiciones legales anteriores hasta antes de la entrada en vigor del presente decreto.
+
+Artículo Cuarto. La Comisión, deberá emitir los dictámenes del Informe del Resultado de la revisión de las cuentas públicas correspondientes a los ejercicios fiscales 2002 a 2006, antes del 30 de abril de 2010 a efecto de remitirlos al pleno del Congreso para su sanción definitiva. Los decretos respectivos deberán publicarse en el Periódico Oficial de Gobierno del Estado.
