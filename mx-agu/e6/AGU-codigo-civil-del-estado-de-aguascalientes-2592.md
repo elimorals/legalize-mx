@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2009-11-02"
+last_updated: "2009-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2009.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2563,9 +2563,11 @@ Las cuestiones relativas a la paternidad del hijo nacido después de trescientos
 
 En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 355.
 
-Si el marido está bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejercitado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+Si el marido está bajo tutela por causa de discapacidad intelectual, este derecho puede ser ejercitado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
 ###### Artículo 356.
 
@@ -3425,11 +3427,15 @@ Tienen incapacidad natural y legal:
 
 I.- Los menores de edad;
 
-II.- Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+II.- Las personas mayores de edad con discapacidad intelectual; aún cuando tengan intervalos lúcidos. Por discapacidad intelectual se entenderá privación o disminución de la razón que provoque inseguridad propia o ajena, o impida expresar clara e inequívocamente la voluntad;
 
 III.- Los sordo-mudos que no saben leer ni escribir;
 
-IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+IV.- Los ebrios consuetudinarios, drogadictos o toxicómanos.
 
 ###### Artículo 473.
 
@@ -3485,9 +3491,11 @@ Ninguna tutela puede conferirse sin que previamente se declare en los términos 
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 486.
 
-El menor de edad que fuere demente, idiota, imbécil, sordomudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llega a la mayor edad.
+El menor de edad que tenga discapacidad intelectual, sea sordomudo, ebrio consuetudinario, drogadicto o toxicómano, estará sujeto a la tutela de menores, mientras no llega a la mayor edad.
 
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 
@@ -3495,9 +3503,11 @@ Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva
 
 Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 488.
 
-El cargo de tutor del demente, idiota, imbécil, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El cargo de tutor de la persona con discapacidad intelectual, sordomudo, ebrio consuetudinario, drogadicto o toxicómano, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 ###### Artículo 489.
 
@@ -3593,9 +3603,11 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ### CAPITULO IV.
 
-DE LA TUTELA LEGITIMA DE LOS DEMENTES, IDIOTAS, IMBECILES, SORDD-MUDOS (SIC), EBRIOS Y DE LOS QUE HABITUALMENTE ABUSAN DE LAS DROGAS ENERVANTES.
+DE LA TUTELA LEGITIMA DE LAS PERSONAS CON UNA DISCAPACIDAD INTELECTUAL, SORDOMUDAS, EBRIAS, DROGADICTAS O TOXICOMANAS.
 
 ###### Artículo 508.
 
@@ -3755,13 +3767,17 @@ V.- El tutor que se encuentra en el caso previsto en el artículo 156;
 
 VI.- El tutor que permanezca ausente por más de seis meses, del lugar en que debe desempeñar la tutela.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 527.
 
-No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia, ni los que la hayan fomentado directa o indirectamente.
+No pueden ser tutores ni curadores de la persona con una discapacidad intelectual, los que hayan sido causa de la discapacidad, ni los que la hayan fomentado directa o indirectamente.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 528.
 
-Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordomudos, ebrios consuetudinarios y de los que abusan habitualmente de las drogas enervantes.
+Lo dispuesto en el Artículo anterior se aplicará, en cuanto fuere posible, a la tutela de sordomudos, ebrios consuetudinarios, drogadictos y toxicómanos.
 
 ###### Artículo 529.
 
@@ -7279,13 +7295,17 @@ I.- Los menores que no han cumplido dieciséis años de edad, ya sean hombres o 
 
 II.- Los que habitual o accidentalmente no disfrutan de su cabal juicio.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 1220.
 
-Es válido el testamento hecho por un demente en un intervalo de lucidez, con tal de que al efecto se observen las prescripciones siguientes.
+Es válido el testamento hecho por una persona con discapacidad intelectual en un intervalo de lucidez; con tal de que al efecto se observen las prescripciones siguientes.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 1221.
 
-Siempre que un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y en defecto de éste, la familia de aquél, presentará por escrito una solicitud al juez que corresponda. El juez nombrará dos médicos, de preferencia especialistas en la materia para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar. La solicitud a que se refiere este artículo podrá ser hecha también por el incapacitado, acompañando un dictamen médico que afirme hallarse en el estado de lucidez necesario. En todo caso se hará constar en acta formal el resultado del reconocimiento.
+Siempre que una persona con discapacidad intelectual pretenda hacer testamento en un intervalo de lucidez, el tutor y en defecto de éste, la familia de aquél, presentará por escrito una solicitud al juez que corresponda. El juez nombrará dos médicos, de preferencia especialistas en la materia para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar. La .solicitud a que se refiere este Artículo podrá ser hecha también por el incapacitado, acompañando un dictamen médico que afirme hallarse en el estado de lucidez necesario. En todo caso se hará constar en acta formal el resultado del reconocimiento.
 
 ###### Artículo 1222.
 
@@ -7917,7 +7937,7 @@ Lo dispuesto en el artículo que precede se observará también en el legado de 
 
 ###### Artículo 1355.
 
-Si la cosa legada está dada en prenda o hipotecada, o lo fuere después de otorgado el testamento, el desempeño o la rendención serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
+Si la cosa legada está dada en prenda o hipotecada, o lo fuere después de otorgado el testamento, el desempeño o la redención serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
 
 Si por no pagar el obligado, conforme al párrafo anterior, lo hiciere el legatario, quedará éste subrogado en el lugar y derechos del acreedor para reclamar contra aquél.
 
@@ -9281,7 +9301,7 @@ II.- Por muerte;
 
 III.- Por incapacidad legal, declarada en forma;
 
-IV.- Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o la Beneficencia;
+IV.- Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen en menores o la Beneficencia;
 
 V.- Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo;
 
@@ -10603,7 +10623,7 @@ Cuando la deuda de una cosa cierta y determinado procediere de delito o falta, n
 
 ###### Artículo 1891.
 
-El acreedor de una cosa perdida o deteriorada sin culpa del deudor, se considerará dueño de cuantos derechos y acciones tuviere para reclamar la indemnización a quien fuere responsable.
+El acreedor de una cosa pErdida o deteriorada sin culpa del deudor, se considerará dueño de cuantos derechos y acciones tuviere para reclamar la indemnización a quien fuere responsable.
 
 ###### Artículo 1892.
 
@@ -11773,7 +11793,7 @@ Si la venta se hizo sólo a la vista y por acervo, aun cuando sea de cosas que s
 
 ###### Artículo 2131.
 
-Habrá lugar a la rescisión si el vendedor presentare el acervo como de especie homogénea, y ocultare en él especies de inferior clase y calidad de las que están a la vista.
+Habrá lugar a la rescisión si el vendedor presentare el acervo como de especie homogénea, Y ocultare en él especies de inferior clase y calidad de las que están a la vista.
 
 ###### Artículo 2132.
 
@@ -16360,6 +16380,12 @@ P.O. 14 DE SEPTIEMBRE DE 2009.
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE NOVIEMBRE DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
