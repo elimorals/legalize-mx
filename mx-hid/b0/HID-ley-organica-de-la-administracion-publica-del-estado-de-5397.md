@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "2009-07-13"
+last_updated: "2009-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -267,7 +267,9 @@ XI.- Proporcionar, en el ámbito de sus competencias y atribuciones, asesoría j
 
 XII.- Presentar ante el Congreso del Estado las iniciativas que formule el titular del Ejecutivo;
 
-XIII.- Organizar y administrar la Defensoría de Oficio;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+XIII.- Organizar y administrar la defensoría pública;
 
 XIV.- Intervenir, con la representación del Gobernador el Estado, en las controversias o asuntos en que tenga interés jurídico;
 
@@ -275,9 +277,9 @@ XV.- Tramitar los recursos administrativos que competa resolver al Ejecutivo, cu
 
 XVI.- Dar trámite a las solicitudes que, para el otorgamiento de concesiones, permisos y licencias gubernamentales, presenten los particulares ante el Gobierno del Estado y que no estén reservadas a otras dependencias, así como lo relativo a la terminación, suspensión o revocación de las ya otorgadas;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
-Mancomunadamente con el Secretario de Finanzas y Administración, Otorgar, expedir, autorizar, revocar, cancelar, normar y regular concesiones y permisos en materia de servicio de transporte y de los servicios auxiliares y conexos de éste, cuando así lo acuerde el titular del Ejecutivo Estatal.
+Mancomunadamente con el Secretario de Finanzas, otorgar, expedir, autorizar, revocar, cancelar, normar y regular concesiones y permisos en materia de Servicio de Transporte y de los servicios auxiliares.
 
 XVII.- Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado;
 
@@ -1185,11 +1187,7 @@ XIX.- Administrar los Centros de Readaptación Social;
 
 XX.- Tramitar, por acuerdo del Gobernador y con la intervención que corresponda al Procurador General de Justicia, las solicitudes de extradición, amnistía, indulto, libertad condicional y traslado de reos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
-
-XXI.- Vigilar y Administrar los Centros de Internamiento para adolescentes infractores;
+XXI.- (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2009)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1466,3 +1464,7 @@ P.O. 13 DE JULIO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado
