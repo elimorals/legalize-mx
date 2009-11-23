@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2009-02-23"
+last_updated: "2009-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2009.
 
-Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
+Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
 INGENIERO MIGUEL ANGEL BARBERENA VEGA, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 
@@ -5057,9 +5057,11 @@ V.- Por el Ministerio Público y la Procuraduría de la Defensa del Menor y la F
 
 Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario, se citará a una audiencia que se verificará dentro del tercer día, a la que concurrirá el menor, si fuere posible, y el Ministerio Público; en ella, por las certificaciones del Registro Civil si hasta ese momento se presentaron, por el aspecto del menor y a falta de aquéllas o de la presencia de éste, por medio de información de testigos o peritos se hará o denegará la declaración correspondiente. Esta resolución es apelable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 799.
 
-La declaración de incapacidad por causa de demencia, idiotismo, imbecilidad, embriaguez habitual o toxicomanía, podrá pedirse:
+La declaración de incapacidad por causa de discapacidad intelectual, embriaguez habitual, drogadicción o toxicomanía podrá pedirse:
 
 I.- Por el cónyuge;
 
@@ -5067,17 +5069,27 @@ II.- Por los presuntos herederos legítimos;
 
 III.- Por el ejecutor testamentario;
 
-IV.- Por el Ministerio Público, que en todo caso será oído; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
-V.- Por el Consejo Tutelar.
+IV.- Por el Ministerio Público, que en todo caso será oído:
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+V.- Por el Consejo de Tutelas; y
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+VI.- Por la Procuraduría de la Defensa del Menor y la Familia.
 
 ###### ARTICULO 800.
 
 En los casos del artículo anterior, presentada la solicitud de interdicción, el juez proveerá auto para que dentro de los tres días siguientes, sea reconocido el incapacitado por tres peritos médicos que nombrará; la diligencia de reconocimiento se practicará en presencia del tribunal del Ministerio Público y de la persona que solicitó la interdicción, levantándose acta en que conste el resultado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 801.
 
-Si del dictamen resultare comprobada la demencia o por lo menos, duda fundada acerca de la incapacidad de la persona cuya interdicción se pide, el tribunal dictará las siguientes medidas:
+Si del dictamen resultare comprobada la discapacidad intelectual o por lo menos, duda fundada acerca de la capacidad de la persona cuya interdicción se pide, el tribunal dictará las siguientes medidas:
 
 I.- Nombrará tutor y curador interinos, sujetándose a las disposiciones de este Capítulo, pero sin que pueda ser nombrada la persona que haya promovido la interdicción;
 
@@ -5113,9 +5125,11 @@ El procedimiento que tenga por objeto hacer cesar la interdicción se seguirá e
 
 La declaración de estado de los sordomudos se hará mediante el dictamen unánime de tres peritos médicos nombrados por el juez, que reconozcan al incapaz en presencia del juez y del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 806.
 
-Las sentencias que declaren la interdicción y las que le pongan término, se publicarán en el Periódico Oficial y en un diario de circulación estatal, por tres veces consecutivas, de siete en siete días.
+De las sentencias que declaren la interdicción y las que le pongan término, se realizará una publicación de un extracto en el Periódico Oficial y en un diario de circulación estatal.
 
 ### CAPITULO V. Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción Sobre sus Derechos
 
@@ -5233,6 +5247,10 @@ Una vez acreditado el nombramiento de curador, hecho por la persona facultada pa
 
 En los juzgados civiles o familiares, bajo el cuidado y responsabilidad del juez, se llevará un registro de los discernimientos que se hicieren de los cargos de tutor y de curador. En este registro que estará siempre a disposición del Consejo de Tutelas y demás interesados, se insertará copia autorizada por el secretario, de los autos de discernimiento y se anotarán los demás actos que afecten el desempeño de la tutela.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+Quien haya sido declarado en estado de interdicción, deberá ser visitado semestralmente por un médico especialista y un trabajador social del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, a fin de que informen al Juez cuál es su estado de salud, así como las condiciones sociales y de salubridad del domicilio en que habita.
+
 ###### ARTICULO 833.
 
 Dentro de los ocho primeros días de cada año, los jueces, en audiencia pública, con citación del Consejo de Tutelas y del Ministerio Público, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
@@ -5241,7 +5259,9 @@ I.- Si resultare haber fallecido algún tutor, hará que sea reemplazado con arr
 
 II.- Si hubiere alguna cantidad de dinero depositada para darle destino determinado, harán que desde luego tengan cumplido efecto las prescripciones del Código Civil;
 
-III.- Exigirán también, que rindan cuentas los tutores que deban darlas y que por cualquier motivo no hubieren cumplido con la prescripción expresa del artículo 613 del Código Civil;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+III.- A los tutores que no hubieren cumplido con lo dispuesto en el Artículo 613 del Código Civil, les exigirán que rindan cuentas mediante un informe contable en el que desglosen los bienes que tuvieron a su cargo, los frutos e intereses que han rendido así como las erogaciones que hayan realizado durante el año;
 
 IV.- Obligarán a los tutores a que depositen en el establecimiento público destinado al efecto, los sobrantes de las rentas o productos del caudal de los menores, después de cubiertas las sumas señaladas con arreglo a los artículos 562, 577 y 588 del Código Civil, y de pagado el tanto por ciento de administración;
 
@@ -5790,6 +5810,12 @@ P.O. 28 DE JULIO DE 2008.
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 P.O. 23 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE NOVIEMBRE DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
