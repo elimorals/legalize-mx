@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2009-11-02"
+last_updated: "2009-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2009.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -1219,13 +1219,21 @@ La persona privada legítimamente de su libertad que se evada del establecimient
 
 ### CAPITULO DECIMO SEGUNDO. Tipos Penales Protectores de la Confidencialidad
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 79.
 
-La Revelación de Secretos consiste en el aprovechamiento de archivos informáticos de uso personal o en la revelación de una comunicación reservada que se conozca o que se haya recibido por motivo de empleo, cargo o puesto, sin justa causa, con perjuicio de alguien y sin consentimiento de la víctima.
+La Revelación de Secretos consiste en:
+
+I. El aprovechamiento o difusión que una persona realice sobre archivos informáticos de uso personal de otra sin que ésta dé su consentimiento;
+
+II. Difundir la información confidencial obtenida en los términos que marca la Ley de Video Vigilancia del Estado de Aguascalientes; o
+
+III. La revelación de una comunicación reservada que se conozca o que se haya recibido por motivo de empleo, cargo o puesto, sin justa causa, con perjuicio de alguien y sin consentimiento de la víctima.
 
 Al responsable de Revelación de Secretos se le aplicarán de 3 meses a 1 año de prisión y de 15 a 30 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Si el responsable de la Revelación de Secretos presta sus servicios profesionales o técnicos, o se trata de un servidor público, o el secreto revelado es de carácter industrial o científico, la punibilidad será de 1 a 5 años de prisión y de 30 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Si el responsable de la Revelación de Secretos presta sus servicios profesionales o técnicos, o se trata de un servidor público; o el secreto revelado es de carácter industrial o científico, la punibilidad será de 1 a 5 años de prisión y de 30 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### Artículo 80.
 
@@ -2049,7 +2057,9 @@ Los procedimientos especiales que se den con motivo de hechos punibles clarament
 
 En la integración de los procedimientos penales ordinario y especiales, a cargo de las autoridades facultadas para el efecto, la víctima u ofendido de los hechos punibles materia de la investigación, podrá hacer valer todos y cada uno de los derechos descritos en el Apartado "B" del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, por lo que se les reconoce legalmente el carácter de sujetos del procedimiento penal. Para tal efecto, podrán solicitar se les tenga por designado como representante legal a quien posea título de Licenciado en Derecho debidamente registrado en términos de ley.
 
-Asimismo, y si la víctima u ofendidos carecen de medios económicos o no son beneficiarios de algún sistema de seguridad social, recibirán de parte del Gobierno del Estado, por medio de la institución autorizada para el efecto, la atención médica y psicológica que sea necesaria, así como el pago de los servicios funerarios que se requieran, en los términos que disponga la ley aplicable, cuyo costo se incluirá en la sentencia que en su momento se dicte y en la que se establezca la responsabilidad penal del inculpado, quien cubrirá al Estado los gastos realizados al efecto. Tal apoyo sólo se realizará en tratándose de hechos punibles que afecten la vida y salud personales, así como la libertad sexual, la seguridad sexual y el normal desarrollo físico y psicosexual.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+Asimismo, y si la victima u ofendidos carecen de medios económicos o no son beneficiarios de algún sistema de seguridad social, recibirán de parte del Gobierno del Estado, por medio de la institución autorizada para el efecto, la atención médica y psicológica que sea necesaria, así como el pago de los servicios funerarios que se requieran, en los términos que disponga la ley aplicable, cuyo costo se incluirá en la sentencia que en su momento se dicte y en la que se establezca la responsabilidad penal del inculpado, quien cubrirá al Estado los gastos realizados al efecto. Tal apoyo sólo se realizará tratándose de hechos punibles que afecten la vida, la libertad, la salud personal, la libertad sexual, la seguridad sexual, el normal desarrollo físico y psicosexual, así como la familia.
 
 La víctima, ofendido o sus legítimos representantes, podrán solicitar el aseguramiento de sus derechos o la restitución en el goce de éstos, o que se decrete el embargo precautorio de los bienes en que pueda hacerse efectiva, en su oportunidad, la reparación de los daños y perjuicios, en los términos previstos por esta Legislación.
 
@@ -3797,6 +3807,10 @@ Además de los medios de prueba previstos en este Título, se podrán utilizar o
 
 El derecho no requerirá prueba, salvo que sea extranjero.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+Serán admisibles como prueba, las grabaciones obtenidas en términos de la ley de Video Vigilancia del Estado, siempre que contengan información relacionada con el hecho punible y sean útiles para el descubrimiento de la verdad.
+
 ###### Artículo 380.
 
 Todo elemento de prueba, para ser valorado, debe haber sido obtenido por un procedimiento permitido e incorporado al expediente conforme a las disposiciones de esta legislación.
@@ -4063,6 +4077,10 @@ Cuando se niegue o ponga en duda la autenticidad de un documento, podrá pedirse
 
 Son documentos públicos los que señala como tales el Código de Procedimientos Civiles del Estado.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+Para los efectos de esta Legislación, también se entenderán como documento público las certificaciones que realice el Comité de Video Vigilancia del Estado de Aguascalientes.
+
 ###### Artículo 425.
 
 Para que se reputen auténticos los documentos públicos procedentes del extranjero, deberán ser legalizados por el representante autorizado para atender los asuntos de la República Mexicana en el lugar donde sean expedidos.
@@ -4086,6 +4104,10 @@ Los documentos existentes fuera de la jurisdicción del tribunal en que se siga 
 ###### Artículo 429.
 
 Los documentos privados y la correspondencia proveniente de los sujetos principales de la relación procesal que se presenten, se tendrán por reconocidos si no son objetados por su autor en términos legales. Tal objeción se hará en el término de 5 días, contados a partir de que hayan sido admitidos o conocidos por la parte que los objeta.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+Las certificaciones emitidas por el Comité de Video Vigilancia del Estado de Aguascalientes, podrán ser objetadas por las partes en el mismo término que establece el párrafo anterior. En este caso, el juez nombrará al perito que analizará si la información contenida en dichas certificaciones corresponde a la grabación y si ésta no ha sido alterada, ateniéndose a lo que este ordenamiento dispone en materia de pruebas periciales.
 
 Respecto de documentos presentados para comprobar los montos relativos a pago de los daños y perjuicios ocasionados, no habrá necesidad de ratificación alguna por quien los emitió, si tales documentos cumplen con los requisitos fiscales de expedición y serán valorados conforme a lo previsto en el artículo 455 de la presente legislación.
 
@@ -4415,7 +4437,9 @@ Cuando el tribunal de apelación notare que el defensor faltó a sus deberes, po
 
 Todo inculpado tendrá derecho a ser puesto en libertad provisional bajo caución en términos de lo establecido por la fracción I del apartado A del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Formulada la solicitud en cualquier etapa del procedimiento, con excepción de la de ejecución, el funcionario que conozca la concederá, siempre que se garantice debidamente la reparación de daños y perjuicios, así como la pena de multa que pudiera aplicársele.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+Formulada la solicitud en cualquier etapa del procedimiento, con excepción de la de ejecución, el funcionario que conozca la concederá, siempre que se garantice debidamente el cumplimiento de las obligaciones procesales, la reparación de daños y perjuicios, así como la pena de multa que pudiera aplicársele.
 
 En la determinación que dicte el funcionario que conozca, se fundará y motivará el otorgamiento o la negativa de tal libertad, así como la revocación de ésta, en su caso, tomando en cuenta las prevenciones constitucionales y legales aplicables.
 
@@ -4529,7 +4553,9 @@ Para acreditar el riesgo para la víctima, ofendido o la sociedad, bastarán los
 
 Cuando proceda la libertad provisional bajo caución, inmediatamente que se solicite se decretará en la misma pieza de autos.
 
-La naturaleza y monto de la caución quedará al prudente arbitrio de la autoridad que la otorgue, quien hará señalamiento específico sobre los daños y perjuicios ocasionados, en la medida en que las actuaciones se desprendan datos para fijar unos y otros, y de la pena de multa que pudiera aplicársele, fijada en el tipo penal correspondiente.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+La naturaleza y monto de la caución quedará al prudente arbitrio de la autoridad que la otorgue, quien hará señalamiento específico del monto que garantizará el cumplimiento de obligaciones procesales, los daños y perjuicios ocasionados en la medida en que las actuaciones se desprendan datos para fijar unos y otros, y de la pena de multa que pudiera aplicársele, fijada en el tipo penal correspondiente.
 
 Se podrá disminuir el monto de la caución inicial, siempre que con ello no se afecte la garantía de reparación del daño a favor de la víctima u ofendidos del hecho punible.
 
@@ -4542,6 +4568,18 @@ La caución consistente en depósito en efectivo, se hará por el inculpado o po
 El certificado correspondiente se depositará en la caja de valores del tribunal o de la Dirección General de Control de Procesos, según corresponda, asentándose constancia de ello en autos.
 
 Cuando por razón de la hora o por ser día inhábil no pueda constituirse el depósito directamente en las instituciones mencionadas, la autoridad correspondiente recibirá la cantidad exhibida y la mandará depositar en la Secretaría de Finanzas del Gobierno del Estado el primer día hábil siguiente.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+Artículo 486 A.- Tratándose de delitos culposos, si el inculpado no tiene los recursos económicos suficientes para efectuar en una sola exhibición el depósito en efectivo o los bienes necesarios para otorgar la garantía, el Juez podrá autorizarlo para que lo efectúe en parcialidades, de conformidad con las siguientes reglas:
+
+I. Que el inculpado tenga cuando menos un año de residir en el lugar en que se siga el proceso;
+
+II. Que el inculpado tenga fiador personal que a juicio del juez, sea solvente e idóneo y dicho fiador proteste hacerse cargo de los depósitos no efectuados por el inculpado. El juez podrá eximir de esta obligación, para lo cual deberá motivar su resolución;
+
+III. El monto de la primera exhibición no podrá ser inferior al quince por ciento del monto total de la caución fijada, y deberá efectuarse antes de que se obtenga la libertad provisional; y
+
+IV. El inculpado deberá obligarse a efectuar las exhibiciones por los montos y en los plazos que le fije el juez.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -4565,13 +4603,17 @@ IV. Monto de la fianza;
 
 V. Compromiso de la institución afianzadora que se establecerá en términos de la siguiente leyenda:
 
-"…Para garantizar por el inculpado o fiado, el pago de la reparación de daños, material y moral, perjuicios y multa que establezca la autoridad judicial, y que sean causados con motivo de los hechos punibles que se investigan en el presente procedimiento, y que se hará efectiva hasta por la suma asegurada, en caso de que el inculpado en el procedimiento se sustraiga de la acción de la justicia o no cumpla voluntariamente con la sentencia ejecutoria que le imponga pena de pago de reparación de daños y perjuicios y multa...".; y
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+“... Para garantizar por el inculpado o fiado, el pago derivado del incumplimiento de obligaciones procesales, la reparación de daños, material y moral, perjuicios y multa que establezca la autoridad judicial, y que sean causados con motivo de los hechos punibles que se investigan en el presente procedimiento, y que se hará efectiva en cuanto al monto que garantice el cumplimiento de obligaciones procesales en caso de que el inculpado en el procedimiento incumpla con alguna obligación que le impone la Legislación Penal para el Estado de Aguascalientes, y en cuanto a la reparación de daños y perjuicios así como a la multa, en caso de que no cumpla voluntariamente con la sentencia ejecutoria que le imponga la pena de pago de esos conceptos o se sustraiga de la acción de la justicia…”; y
 
 VI. Nombre y domicilio del agente autorizado en el Estado de Aguascalientes por la institución afianzadora emisora de la póliza, para la formulación de requerimientos legales, en su caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 489.
 
-Al notificarse al inculpado el auto que le concede la libertad provisional bajo caución, se le hará saber que contrae las siguientes obligaciones:
+Al notificarse al inculpado el auto que le concede la libertad provisional bajo caución, se le hará saber que contrae, además de otras que señale esta Legislación, las siguientes obligaciones procesales:
 
 I. Presentarse a la agencia del Ministerio Público o tribunal que conozca de su caso, los días fijos que estime conveniente señalarle, y cuantas veces sea citado o requerido para ello;
 
@@ -4587,9 +4629,17 @@ En la notificación se hará constar que se hicieron saber al inculpado las ante
 
 Cuando se haya garantizado la libertad en los términos descritos en esta Ley, aquélla se le revocará en los casos siguientes:
 
-I. Cuando aparezca, con el desarrollo del procedimiento, que el monto de los daños y perjuicios es mayor que los inicialmente garantizados; o
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
-II. Cuando en el procedimiento cause ejecutoria la sentencia y se haya pagado voluntariamente el monto de los daños y perjuicios y multa a que haya sido condenado el inculpado.
+I. Cuando aparezca con el desarrollo del procedimiento que el monto de los daños y perjuicios es mayor que los inicialmente garantizados;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+II. Cuando en el procedimiento cause ejecutoria la sentencia y se haya pagado voluntariamente el monto de los daños, perjuicios y multa a que haya sido condenado el inculpado; o
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+III. Si se autorizó el depósito en parcialidades, cuando una de éstas no se realice en el tiempo y forma establecidos por el Juez; en cuyo caso se le devolverá lo ya depositado.
 
 ###### Artículo 491.
 
@@ -4619,25 +4669,29 @@ III. Cuando el procesado sea absuelto; o
 
 IV. Cuando se declare plenamente responsable al procesado y se presente voluntariamente a cumplir con la totalidad de las penas y medidas de seguridad que se le hayan aplicado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 494.
 
-El tribunal mandará hacer efectiva la garantía y ordenará la reaprehensión del procesado:
+El tribunal mandará hacer efectiva la garantía sobre el cumplimiento de obligaciones procesales y ordenará la reaprehensión del procesado:
 
 I. Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas del tribunal que conozca del asunto y esto impida el normal desarrollo del procedimiento;
 
-II. Cuando se sustraiga de la acción de la justicia;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+II. Cuando se sustraiga de la acción de la justicia, en cuyo caso también se harán efectivas las garantías relativas al pago de multa y de la reparación de daños y perjuicios, por lo que se procederá a entregar las cantidades correspondientes a las víctimas u ofendidos;
 
 III. Cuando en el procedimiento en el que se le concedió la libertad, aún no se concluya con sentencia ejecutoria y participare en un nuevo hecho punible; o
 
 IV. Cuando amenazare a la víctima u ofendidos o a algún testigo de los que hayan depuesto en su contra, o tengan que deponer en su asunto, o tratare de cohechar o sobornar a alguno de estos últimos, a algún servidor público del tribunal o al Agente del Ministerio Público que intervenga en el caso.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 495.
 
-Cuando se ordene hacer efectiva la garantía, se harán los trámites correspondientes para ello, en relación con el tipo de caución aceptada, y las cantidades obtenidas serán entregadas a la víctima u ofendidos del hecho, por concepto de pago de los daños y perjuicios acreditados hasta ese momento, aunque no se haya concluido la tercera fase del procedimiento penal. Si quedara disponible alguna otra cantidad, ella se depositará en el fondo de apoyo a las víctimas del delito, que administrará la unidad o entidad gubernamental correspondiente que para el efecto se determine.
+Cuando se ordene hacer efectiva la garantía, se harán los trámites correspondientes para ello, en relación con el tipo de caución aceptada. En caso de existir sentencia firme que condene al pago de reparación de daños y perjuicios, las cantidades correspondientes serán entregadas a la víctima u ofendidos del hecho. Si se hiciera efectiva respecto al cumplimiento de obligaciones procesales, la cantidad que corresponda se depositará en el Fondo de Atención a Víctimas del Delito que administrará la unidad o entidad gubernamental correspondiente que para el efecto se determine.
 
-Si se continúa el procedimiento y finaliza con sentencia condenatoria, se tomará en cuenta el pago realizado por concepto de reparación de daños y perjuicios, exigiendo sólo las diferencias que resulten a favor de la víctima u ofendidos. Si la diferencia es a favor del inculpado o a éste se le decreta sentencia absolutoria, el pago realizado a favor de la víctima u ofendidos, les será exigible a éstos mediante la acción civil correspondiente.
-
-Concluido el procedimiento en lo principal y cuantificado el monto de la reparación de daños y perjuicios, así como de la multa, en la sentencia condenatoria respectiva, se cubrirá inmediatamente aquella a favor de los beneficiarios asignados y el Estado. Si quedara disponible alguna otra cantidad, ella se depositará en el fondo de apoyo a las víctimas del delito, que administrará la unidad administrativa correspondiente de la Procuraduría General de Justicia en el Estado.
+Concluido el procedimiento en lo principal y cuantificado el monto de la reparación de daños y perjuicios, así como de la multa, en la sentencia condenatoria respectiva, se cubrirá inmediatamente aquella a favor de los beneficiarios asignados y el Estado. Si quedara disponible alguna otra cantidad, se dejará a disposición, según corresponda, del caucionado o del tercero que haya garantizado su libertad, quienes deberán solicitar su devolución legalmente en tiempo y forma.
 
 ###### Artículo 496.
 
@@ -5696,3 +5750,23 @@ DECRETO No. 297, POR EL QUE SE REFORMA EL ARTICULO 35 DE LA LEGISLACION PENAL PA
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 299, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 145, 480, 485, 486 A, 488, 489, 490, 494, Y 495 DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 300, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 79, 379, 424 Y 429 DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+En un término no mayor a los treinta días naturales contados a partir de la entrada en vigencia del presente Decreto, el Instituto de Transparencia deberá realizar las adecuaciones necesarias al Reglamento del Recurso de Inconformidad a fin de prever los trámites procesales mínimos para el otorgamiento de la suspensión.
