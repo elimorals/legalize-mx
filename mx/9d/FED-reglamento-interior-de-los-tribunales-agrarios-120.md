@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-120"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-05-13"
-last_updated: "2007-12-21"
+last_updated: "2009-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-05-08"
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 13 de mayo de 1992.
 
@@ -505,7 +505,7 @@ IX.- Formular los contratos a celebrar por el Tribunal Superior, de acuerdo con 
 
 X.- Asesorar jurídicamente, en asuntos oficiales ajenos a la materia agraria, a los titulares de los tribunales agrarios y sus unidades técnicas y administrativas, y emitir opinión sobre los asuntos que le sean planteados por ellas;
 
-XI.- Llevar, en su caso, el Centro de Estudios de Justicia Agraria, que tendrá como propósito la planeación, organización, dirección y evaluación de las actividades relacionadas con la investigación, enseñanza, capacitación, actualización y difusión de conocimientos relacionados con el derecho agrario y la impartición de justicia agraria; y
+XI.- (DEROGADA, D.O.F. 23 DE NOVIEMBRE DE 2009)
 
 XII.- Las demás inherentes a su cargo que acuerden el Tribunal Superior y el Presidente.
 
@@ -514,6 +514,38 @@ XII.- Las demás inherentes a su cargo que acuerden el Tribunal Superior y el Pr
 ###### Artículo 37.
 
 El Director General de Asuntos Jurídicos podrá suscribir escritos y desahogar requerimientos en los juicios de amparo cuando el Tribunal Superior, su presidente o los Directores de las unidades técnicas y administrativas sean señalados como autoridades responsables.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2009)</small>
+
+Del Centro de Estudios de Justicia Agraria
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2009)</small>
+
+###### Artículo 37 Bis.
+
+Corresponden al Centro de Estudios de Justicia Agraria las siguientes atribuciones, que atenderá siguiendo los lineamientos que dicte el Magistrado Presidente:
+
+Planear, organizar, dirigir, ejecutar y evaluar las actividades relacionadas con la investigación, enseñanza, capacitación, actualización y difusión de conocimientos e información relacionados con el derecho y la impartición de justicia.
+
+Para el cumplimiento de sus atribuciones, contará con los servidores públicos necesarios para el buen desarrollo de las funciones encomendadas, atendiendo a las previsiones presupuestales y tendrá a su cargo:
+
+I. La Biblioteca especializada del Tribunal Superior Agrario;
+
+II. Las publicaciones escritas y electrónicas, entre otras, de Revista, Boletín Judicial Agrario y Jurisprudencia;
+
+III. La organización de conferencias, cursos, diplomados etc., para la capacitación de los servidores públicos jurisdiccionales y los administrativos de los Tribunales Agrarios;
+
+IV. La organización de jornadas culturales, reuniones y congresos;
+
+V. La celebración de convenios con instituciones educativas, académicas, de investigación, profesionales televisivas, radiofónicas e informáticas;
+
+VI. La acreditación del Servicio Social, prestado en los Tribunales Agrarios;
+
+VII. La administración del sitio web de los Tribunales Agrarios;
+
+VIII. La difusión y promoción de los estudios en los que los Tribunales Agrarios despliegan competencia;
+
+IX. Difundir en el sector campesino y profesional información acerca de las funciones, atribuciones y competencia de los Tribunales Agrarios.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -1128,3 +1160,11 @@ PRIMERO.- Se modifica el artículo veintiocho del Reglamento Interior de los Tri
 SEGUNDO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 TERCERO.- Publíquese en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE NOVIEMBRE DE 2009.
+
+SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+Tercero.- Publíquese el presente acuerdo en el Diario Oficial de la Federación.
