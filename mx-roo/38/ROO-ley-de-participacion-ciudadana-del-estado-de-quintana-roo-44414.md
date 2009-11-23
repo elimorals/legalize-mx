@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-participacion-ciudadana-del-estado-de-quintana-roo-44414
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-14"
-last_updated: "2005-03-14"
+last_updated: "2009-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 14 de marzo de 2005.
 
@@ -467,9 +467,11 @@ No podrán ser objeto de Iniciativa Popular las disposiciones en materia fiscal 
 
 Los ciudadanos quintanarroenses podrán ejercer el derecho de Iniciativa Popular en forma espontánea o a Convocatoria de la Legislatura del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 51.
 
-Las Iniciativas de ley, decreto, reforma, adición, derogación o abrogación de normas generales, que en forma espontánea sean formuladas por los ciudadanos quintanarroenses, deberán ser suscritas cuando menos por el equivalente al cinco por ciento de ciudadanos inscritos en el Padrón Estatal Electoral y será dirigida a la Legislatura del Estado y presentada ante la Oficialía de Partes de la propia Legislatura.
+Las iniciativas de ley, decreto, reforma, adición, derogación o abrogación de normas generales, que en forma espontánea sean formuladas por los ciudadanos quintanarroenses, deberán ser suscritas cuando menos por el equivalente al dos punto cinco por ciento de ciudadanos inscritos en el Padrón Estatal Electoral y será dirigida a la Legislatura del Estado y presentada ante la Oficialía de Partes de la propia Legislatura.
 
 El porcentaje a que se refiere el párrafo anterior, deberá ser representativo de todo el Estado de Quintana Roo. Para este efecto, el número de ciudadanos promoventes, por Municipio, no podrá exceder del respectivo porcentaje que cada uno de los Municipios represente en el padrón estatal electoral
 
@@ -556,3 +558,9 @@ LIC. JOAQUÍN ERNESTO HENDRICKS DÍAZ
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 PEDRO JOSE FLOTA ALCOCER
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2009.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
