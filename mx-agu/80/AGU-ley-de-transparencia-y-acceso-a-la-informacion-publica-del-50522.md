@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5052
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-22"
-last_updated: "2009-07-06"
+last_updated: "2009-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 22 de mayo de 2006.
 
@@ -39,7 +39,7 @@ Decreto Número 169
 
 Se aprueba la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes para quedar en los siguientes términos:
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE AGUASCALlENTES
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -325,7 +325,9 @@ II.- La referente a los datos personales independientemente del estado que guard
 
 III.- La relativa a la declaración patrimonial de los servidores públicos.
 
-La información a que se refiere este artículo, sólo podrá ser consultada por las partes que acrediten interés legítimo en términos del Código o Ley de la respectiva materia, así como por mandato judicial.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+La información a que se refiere este Artículo, sólo podrá ser consultada por las partes que acrediten interés legítimo en términos del Código o Ley de la respectiva materia, así como por mandato judicial. En el caso de grabaciones obtenidas por actividades de Video Vigilancia, su manejo y acceso será regulado por la Ley de Video Vigilancia del Estado.
 
 No se considera información confidencial al Informe de Situación Patrimonial de los servidores públicos.
 
@@ -657,9 +659,15 @@ El recurso de revisión se presenta ante la Unidad de Enlace, debiéndose presen
 
 La autoridad está obligada a dar una resolución al recurso de revisión en un plazo máximo de 5 días hábiles a partir de la fecha en que se registró la promoción de revisión, la cual podrá ratificar, revocar o modificar la determinación de negar o limitar el acceso a la información.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+Tratándose de la negativa de acceso o cancelación de datos personales obtenidos mediante actividades de Video Vigilancia, la revisión se sustanciará en los términos establecidos por esta Ley y atendiendo a las disposiciones que sobre manejo y acceso a la información establece la Ley de Vídeo Vigilancia del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 58.
 
-Es procedente el recurso de inconformidad en contra de la resolución que se dicte por la Unidad de Enlace por la cual se niegue o limite el acceso a la información, así como en contra de la resolución que se dicte al recurso de revisión.
+Es procedente el recurso de inconformidad en contra de la resolución que se dicte por la Unidad de Enlace o su equivalente por la cual se niegue o limite el acceso a la información, así como en contra de la resolución que se dicte al recurso de revisión.
 
 ###### Artículo 59.
 
@@ -686,6 +694,10 @@ VII.- Acompañar copia de la resolución o acto que se impugna y de la notificac
 VIII.- Ofrecer y aportar pruebas que en su caso se tengan; y
 
 IX.- Hacer constar nombre y firma del quejoso.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+
+Al admitirse el recurso de inconformidad respecto a negativas de acceso a datos personales obtenidos por actividades de Video Vigilancia, invariablemente se concederá suspensión, la que tendrá como efecto únicamente detener el término que la Ley de Video Vigilancia del Estado señala para la destrucción de las grabaciones, sin que esto sea óbice para que se pueda proporcionar esa información a la autoridad correspondiente en caso de ser útil para la investigación de algún hecho punible tipificado como delito.
 
 ###### Artículo 61.
 
@@ -883,11 +895,11 @@ QUINTO.- El Congreso del Estado deberá de realizar previa iniciativa del Ejecut
 
 SEXTO.- El Instituto de Transparencia del Estado de Aguascalientes deberá expedir su reglamento interior y normas de operación antes del inicio de sus funciones.
 
-SÉPTIMO.- En tanto comienza a operar el lnstituto, el Tribunal de lo Contencioso Administrativo, conocerá y resolverá de las inconformidades aplicando la Ley del Procedimiento Administrativo.
+SÉPTIMO.- En tanto comienza a operar el Instituto, el Tribunal de lo Contencioso Administrativo, conocerá y resolverá de las inconformidades aplicando la Ley del Procedimiento Administrativo.
 
 OCTAVO.- Se Abroga la Ley de Transparencia e Información Pública del Estado de Aguascalientes, publicada el 26 de agosto del 2002, a la entrada en vigencia del presente Decreto.
 
-NOVENO.- A partir de su nombramiento, los miembros del Instituto deberán instrumentar las acciones concernientes para que la presente Ley sea conocida y difundida entre los diversos sectores sociales, así como a concientizar a los ciudadanos y servidores públicos de la importancia que reviste el derecho de acceso a la información, en una sociedad democrática. Para lo anterior podrán atraer el concurso de instituciones de educación superior, asÍ como de organismos especializados en el tema.
+NOVENO.- A partir de su nombramiento, los miembros del Instituto deberán instrumentar las acciones concernientes para que la presente Ley sea conocida y difundida entre los diversos sectores sociales, así como a concientizar a los ciudadanos y servidores públicos de la importancia que reviste el derecho de acceso a la información, en una sociedad democrática. Para lo anterior podrán atraer el concurso de instituciones de educación superior, así como de organismos especializados en el tema.
 
 DÉCIMO.- Para el cumplimiento del deber establecido en la fracción XX del Artículo 9° de la presente Ley, se otorga un plazo de un año, contado a partir de la entrada en vigencia de la presente Ley.
 
@@ -930,3 +942,13 @@ P.O. 6 DE JULIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+En un término no mayor a los treinta días naturales contados a partir de la entrada en vigencia del presente Decreto, el Instituto de Transparencia deberá realizar las adecuaciones necesarias al Reglamento del Recurso de Inconformidad a fin de prever los trámites procesales mínimos para el otorgamiento de la suspensión.
