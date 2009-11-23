@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2009-02-17"
+last_updated: "2009-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE FEBRERO DE 2009
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE NOVIEMBRE DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -109,11 +109,13 @@ VI. Actuario de Juzgado de Distrito.
 
 La Comisión promoverá la carrera judicial mediante la celebración de convenios con instituciones académicas y judiciales nacionales o extranjeras; convocatorias a congresos y seminarios, con la finalidad de difundir la naturaleza de la función judicial y su optimación; impulsando la creación de centros de práctica judicial; y todas aquellas medidas que puedan contribuir a la formación de servidores públicos profesionales, honestos y de excelencia. El Instituto auxiliará para ese efecto en los términos que establezcan el Pleno y la Comisión.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL ORDENAMIENTO QUE MODIFICA EL ACUERDO.</small>
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 5.
 
-Para efectos de la carrera judicial, la antigüedad a que se refiere el artículo 105 de la Ley se computará a partir de la fecha de ingreso a cualquiera de los cargos que la integran.
-
-Se computará como antigüedad para efectos de la carrera judicial, el tiempo transcurrido en el ejercicio de los siguientes cargos: Secretario General de Acuerdos del Tribunal Electoral; Secretario de Estudio y Cuenta del Tribunal Electoral; Secretario Instructor del Tribunal Electoral; Secretario Técnico del Consejo y de los órganos auxiliares; Secretario de Estudio y Cuenta de la Comisión Substanciadora Unica del Poder Judicial de la Federación; Secretario Particular de Ministro; Defensor Público y Asesor Jurídico del Instituto Federal de la Defensoría Pública; así como el de Secretario Ejecutivo, Director General o aquellos que desempeñen funciones de asesoría jurídica directa para los mandos superiores.
+Para efectos de la carrera judicial, la antigüedad a que se refiere el artículo 105 de la Ley se computará a partir de la fecha de ingreso a cualesquiera de las categorías previstas en el numeral 110 de dicha ley.
 
 ###### Artículo 6.
 
@@ -293,9 +295,13 @@ Los dictámenes que sobre adscripción o readscripción apruebe el Pleno, deber�
 
 Los dictámenes que sobre adscripción o readscripción apruebe el Pleno, serán resguardados en la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos y deberán remitirse en copia certificada a la Dirección General de Recursos Humanos, acorde a lo dispuesto en los Acuerdos Generales 28/2000 y 59/2004 del Pleno del Consejo de la Judicatura Federal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL ORDENAMIENTO QUE MODIFICA EL ACUERDO.</small>
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 23 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 25.
 
-A efecto de determinar la antigüedad en el Poder Judicial de la Federación que reporten los servidores públicos a que se refieren los artículos 119 y 120 de la Ley, sólo se tomarán en consideración los cargos que correspondan a la carrera judicial, tomando en consideración lo previsto en el segundo párrafo del artículo 5 de este Acuerdo.
+A efecto de determinar la antigüedad en el Poder Judicial de la Federación, a que se refieren los artículos 119 y 120 de la Ley, se tomará en consideración el orden de prelación de las categorías que establece el diverso numeral 110 de tal cuerpo normativo.
 
 ###### Artículo 26.
 
@@ -475,7 +481,31 @@ Los cursos enumerados en cada uno de los incisos anteriores, aunque se hayan rec
 
 El Curso de Especialización Judicial que se impartía anteriormente, se equipara a la Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito para efectos de ser valorado.
 
-II. El candidato que cuente con la mayor antigüedad recibirá el puntaje máximo indicado, es decir, sesenta puntos. Esa antigüedad se tomará como base para determinar de forma proporcional el puntaje que corresponda a cada uno de los aspirantes restantes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL ORDENAMIENTO QUE MODIFICA EL ACUERDO.</small>
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 23 DE NOVIEMBRE DE 2009)</small>
+
+II. La antigüedad será valorada por el desempeño en cada una de las categorías de la carrera judicial, en los siguientes términos:
+
+a) Magistrado de Circuito; hasta 15 puntos, considerando 3 puntos por cada año de servicios hasta llegar a un máximo de cinco años.
+
+b) Juez de Distrito; hasta 10 puntos, considerando 2 puntos por cada año de servicios hasta llegar a un máximo de cinco años.
+
+c) Secretario General de Acuerdos de la Suprema Corte de Justicia o de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación; hasta 5 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cinco años.
+
+d) Subsecretario General de Acuerdos de la Suprema Corte de Justicia o de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación; hasta 5 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cinco años.
+
+e) Secretario de Estudio y Cuenta de Ministro o Secretarios de Estudio y Cuenta e Instructores de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación; hasta 5 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cinco años.
+
+f) Secretario de Acuerdos de Sala; hasta 5 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cinco años.
+
+g) Subsecretario de Acuerdos de Sala; hasta 5 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cinco años.
+
+h) Secretario de Tribunal de Circuito o Secretario de Estudio y Cuenta de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
+
+i) Secretario de Juzgado de Distrito; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
+
+j) Actuario del Poder Judicial de la Federación; hasta 2 puntos, considerando medio punto por cada año de servicios hasta llegar a un máximo de cuatro años.
 
 III. El grado académico y los cursos de actualización y especialización en el ámbito jurisdiccional, serán valorados de la siguiente manera:
 
@@ -1502,3 +1532,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, de inmediato, el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales.
+
+D.O.F. 23 DE NOVIEMBRE DE 2009.
+
+PRIMERO. El presente acuerdo entrará en vigor el día uno de enero de dos mil diez.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Carrera Judicial y las Condiciones de los Funcionarios Judiciales.
