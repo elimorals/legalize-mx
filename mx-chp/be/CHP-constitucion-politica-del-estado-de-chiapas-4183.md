@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2009-09-12"
+last_updated: "2009-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2009.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -151,13 +151,13 @@ Los partidos políticos son entidades de interés público que tienen como fin p
 
 La intervención en la vida interna de los partidos por parte de las autoridades electorales locales, sólo podrá ser conforme a las disposiciones que establezcan esta constitución y las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
-Los Partidos Políticos deben incluir entre sus candidatos propietarios a diputados al Congreso del Estado y a integrantes de los Ayuntamientos a no más del setenta por ciento de un solo sexo y no menos del treinta por ciento de jóvenes menores de treinta años, e incluir al menos uno con discapacidad, salvo los casos de inelegibilidad que establezca la ley de la materia.
+La ley garantizará que en la postulación y registro de candidatos a diputados del Congreso del Estado y a integrantes de los ayuntamientos, los partidos políticos garanticen la paridad de género, así como la participación de los jóvenes.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
-En caso de incumplimiento de lo prescrito en el párrafo anterior, no se registrarán a los candidatos de los partidos políticos o coaliciones de la elección de que se trate, hasta en tanto se garantice la equidad de género, el porcentaje de jóvenes y discapacitados.
+En caso de incumplimiento de lo establecido en el párrafo anterior, la ley determinará las sanciones aplicables.
 
 Asimismo, en las zonas con predominancia en población indígena, los partidos políticos podrán registrar preferentemente candidatos de origen indígena.
 
@@ -177,9 +177,9 @@ Los partidos políticos y coaliciones, podrán celebrar procesos de selección i
 
 Las campañas políticas tendrán como finalidad, la obtención del voto a favor de los candidatos que representan a los partidos políticos o coaliciones que los postulan, a través de la difusión de su plataforma electoral y el debate ideológico; en la propaganda política o electoral que difundan los partidos o coaliciones deberán abstenerse de expresiones que denigren o calumnien a las instituciones, a los propios partidos o a las personas.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
-La campaña de Gobernador; la de Diputados al Congreso del Estado y la de miembros de los Ayuntamientos, no podrá exceder de sesenta días.
+La campaña electoral para Gobernador no podrá exceder de sesenta días; las de Diputados al Congreso del Estado y ayuntamientos de treinta días.
 
 Los candidatos que postulen los partidos políticos y las coaliciones estarán obligados a participar en los debates organizados por la autoridad electoral correspondiente. Cualquier partido político o candidato que no cumpla con las anteriores disposiciones será sancionado en los términos de la Ley de la materia.
 
@@ -529,7 +529,7 @@ El Instituto de Investigaciones Legislativas tendrá a su cargo el Secretariado 
 
 La Secretaría de Servicios Administrativos y las Direcciones de Asuntos Jurídicos y Comunicación Social dependerán de la Junta de Coordinación Política; la Secretaría de Servicios Parlamentarios y el Instituto de Investigaciones Legislativas dependerán de la Mesa Directiva y las Unidades de Apoyo que se creen guardarán la relación de dependencia que señale la Ley Orgánica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
 ## TITULO TERCERO. DE LOS PODERES PUBLICOS Y LAS ELECCIONES
 
@@ -541,7 +541,7 @@ La Secretaría de Servicios Administrativos y las Direcciones de Asuntos Jurídi
 
 ###### ARTICULO 16.
 
-El Congreso del Estado se integrará en su totalidad con diputados electos cada tres años. La elección de diputados se verificará el primer domingo de julio del año de la elección. Por cada diputado propietario se elegirá un suplente, ambos del mismo género.
+El Congreso del Estado se integrará en su totalidad con diputados electos cada tres años. La elección de diputados se verificará el primer domingo de julio del año de la elección. Por cada diputado propietario se elegirá un suplente, en los términos que señale la ley.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1997)</small>
 
@@ -551,9 +551,9 @@ La renovación del Congreso del Estado se realizará a través de elecciones aut
 
 Los Diputados Propietarios no podrán ser reelectos para el período inmediato, ni aún como Suplentes. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietarios, si no hubieren ejercido el cargo.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
-El Congreso del Estado, se integrará con veinticuatro diputados electos según el principio de mayoría relativa, mediante el sistema de distritos uninominales y hasta por dieciséis diputados electos según el principio de representación proporcional, de acuerdo al sistema de listas votadas en una circunscripción plurinominal, conforme lo determine la Legislación Electoral.
+El Congreso del Estado se integrará con veinticuatro diputados electos según el principio de mayoría relativa, mediante el sistema de distritos uninominales, y por dieciséis diputados electos según el principio de representación proporcional, de acuerdo al sistema de listas votadas en una sola circunscripción plurinominal, conforme lo determine la ley.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2000)</small>
 
@@ -839,7 +839,7 @@ XXVIII.- Crear o suprimir Municipios dentro de los ya existentes, una vez que se
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2003)</small>
 
-XXIX.- Para la revisión de la Cuenta Publica que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el Órgano de Fiscalización Superior; examinará no solo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
+XXIX.- Para la revisión de la Cuenta Pública que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el Órgano de Fiscalización Superior; examinará no solo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
 
@@ -3501,14 +3501,28 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Artículo Tercero.- Con excepción a lo dispuesto por los artículos 16, 61, de la Constitución Política del Estado, por única ocasión:
+Artículo Tercero.- (DEROGADO, P.O. 25 DE NOVIEMBRE DE 2009)
 
-a) Se suspende el Proceso Electoral Ordinario para renovar al Congreso del Estado y a los miembros del ayuntamiento del año dos mil diez, a efecto de que se realice en el año dos mil doce, a fin de hacer concurrentes los procesos electorales locales con los procesos electorales federales.
+Artículo Cuarto.- (DEROGADO, P.O. 25 DE NOVIEMBRE DE 2009)
 
-b) El período de la Sexagésima Tercera Legislatura, se prorroga hasta el día treinta de septiembre del año dos mil doce.
+P.O. 25 DE NOVIEMBRE DE 2009.
 
-c) La elección para diputados locales al Congreso del Estado que integrarán la Sexagésima Cuarta Legislatura y miembro de los ayuntamientos, tendrá verificativo el primer domingo de julio del año dos mil doce; y tomarán protesta el día 1º de octubre de ese año.
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
-d) El Congreso del Estado de conformidad con el párrafo tercero del artículo 61, de la Constitución, designará los concejos municipales correspondientes que tomarán protesta el día primero de enero de dos mil once y cesarán en sus funciones el 30 de septiembre del año 2012. El Congreso del Estado deberá aprobar la integración y designación de los concejos municipales en el mes de noviembre del año dos mil diez.
+Artículo Segundo.- Se derogan los artículos transitorios tercero y cuarto del decreto por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Chiapas, publicado en el Periódico Oficial número 187 de fecha 12 de septiembre de 2009, así como todas las disposiciones que se opongan al presente Decreto.
 
-Artículo Cuarto.- Para los efectos del presente decreto, en la integración de los concejos municipales, se tendrá como máximo al cuarenta por ciento de sus integrantes de un mismo género.
+Artículo Tercero.- Como excepción a lo dispuesto en el primer párrafo del artículo 16 de la Constitución Política del Estado de Chiapas, los Diputados al Congreso del Estado que integrarán la Sexagésima Cuarta Legislatura, electos el primer domingo de julio del año dos mil diez, tomarán posesión de su encargo el día 16 de noviembre del año dos mil diez y cesarán en sus funciones el 30 de septiembre del año dos mil doce.
+
+Artículo Cuarto.- La elección de los Diputados que integrarán la Sexagésima Quinta Legislatura del Congreso del Estado se realizará en la fecha y términos establecidos por el artículo 16 de la Constitución Política del Estado.
+
+Artículo Quinto.- Los ayuntamientos municipales que a la entrada en vigor del presente Decreto estén en funciones, concluirán su mandato el 31 de diciembre del año dos mil diez.
+
+(NOTA: EL 15 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 87/2009 Y SU ACUMULADA 88/2009, DECLARÓ LA INVALIDEZ DEL ARTÍCULO SEXTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+###### ARTÍCULO SEXTO.
+
+POR ÚNICA OCASIÓN, LA SEXAGÉSIMA CUARTA LEGISLATURA DEL CONGRESO DEL ESTADO, CONFORME A LAS ATRIBUCIONES QUE LE CONFIERE EL TERCER PÁRRAFO DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO Y COMO EXCEPCIÓN A LO ESTABLECIDO EN EL ARTÍCULO 26 DE LA LEY ORGÁNICA MUNICIPAL, PROCEDERÁ DENTRO DE LOS 30 DÍAS SIGUIENTES AL INICIO DE SUS FUNCIONES, A DESIGNAR LOS CONCEJOS MUNICIPALES QUE FUNCIONARÁN DEL 1 DE ENERO DEL AÑO DOS MIL ONCE AL 30 DE SEPTIEMBRE DEL AÑO DOS MIL DOCE. CADA CONCEJO MUNICIPAL SE INTEGRARÁ HASTA POR CINCO CIUDADANOS.
+
+PARA LOS EFECTOS DE LA INTEGRACIÓN DE LOS CONCEJOS MUNICIPALES A QUE SE REFIERE EL PÁRRAFO QUE ANTECEDE, EL CONGRESO DEL ESTADO RESPETARÁ LA REPRESENTACIÓN POLÍTICA QUE ACTUALMENTE GUARDAN LOS AYUNTAMIENTOS.
+
+Artículo Séptimo.- El H. Congreso del Estado deberá realizar las adecuaciones a la legislación electoral local a más tardar en un plazo de cinco días naturales contados a partir de la entrada en vigor del presente Decreto.
