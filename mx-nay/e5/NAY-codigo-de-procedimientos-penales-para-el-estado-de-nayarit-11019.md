@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2008-12-24"
+last_updated: "2009-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 NOVIEMBRE DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -59,7 +59,9 @@ V.- El de ejecución, que comprende desde el momento en que causa ejecutoria la 
 
 Dentro del período de averiguación previa, el Ministerio Público deberá, en ejercicio de sus facultades:
 
-I.- Recibir las denuncias y querellas de los particulares o de cualquier autoridad, sobre hechos que puedan constituir delitos de orden común. Cuando las diversas policías actúen en funciones de policía judicial, inmediatamente darán aviso al Ministerio Público, dejando de actuar cuando éste así lo determine;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
+I.- Recibir las denuncias y querellas de los particulares o de cualquier autoridad, sobre hechos que puedan constituir delitos de orden común. Cuando las diversas policías actúen en funciones de Policía Estatal, inmediatamente darán aviso al Ministerio Público, dejando de actuar cuando éste así lo determine;
 
 II.- Practicar la averiguación previa;
 
@@ -165,11 +167,13 @@ Cuando los detenidos o los inculpados sean reclamados por dos o más Juzgados de
 
 Las actuaciones podrán practicarse a toda hora y aún en los días inhábiles sin necesidad de previa habilitación, y en cada una de ellas se expresará el día, mes y año en que se lleven a cabo.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 13.
 
-El Juez, el Ministerio Público y la Policía Judicial estarán acompañados en todas las diligencias que practiquen, de sus respectivos secretarios si los tuvieren, o de dos testigos de asistencia, que darán fe de todo lo actuado.
+El Juez, el Ministerio Público y la Policía Estatal estarán acompañados en todas las diligencias que practiquen, de sus respectivos secretarios si los tuvieren, o de dos testigos de asistencia, que darán fe de todo lo actuado.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1993)</small>
 
 En las diligencias podrán emplearse, según el caso, y a juicio del funcionario que las practique, la taquigrafía, el dictáfono y cualquier otro medio que tenga por objeto reproducir imágenes o sonidos. El medio empleado se hará constar en el acta respectiva.
 
@@ -273,9 +277,11 @@ Las fianzas que deban otorgarse ante los tribunales se sujetarán a las disposic
 
 En materia penal no se pagarán costas. El empleado que las cobrare o recibiere, aunque sea a título de gratificación, será destituido de su empleo, sin perjuicio de su consignación al Ministerio Público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 32.
 
-Todos los gastos que se originen en las diligencias de policía judicial, en las acordadas por los tribunales a solicitud del Ministerio Público, y en las decretadas de oficio por los tribunales, serán cubiertos por el Erario del Estado.
+Todos los gastos que se originen en las diligencias de Policía Estatal, en las acordadas por los tribunales a solicitud del Ministerio Público, y en las decretadas de oficio por los tribunales, serán cubiertos por el Erario del Estado.
 
 Los gastos de las diligencias solicitadas por el inculpado, la defensa o el ofendido, serán cubiertos por quienes las promuevan. En el caso de que estén imposibilitados para ello y de que el Ministerio Público estime que son indispensables para el esclarecimiento de los hechos, podrá este hacer suya la petición de esas diligencias, y entonces quedarán también a cargo del Erario del Estado.
 
@@ -335,9 +341,11 @@ III.- Arresto hasta de treinta y seis horas.
 
 ### CAPITULO VI. REQUISITORIAS Y EXHORTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 40.
 
-Cuando tuviere que practicarse una diligencia, ya sea por la policía judicial o por los tribunales, fuera del lugar del juicio, se encargará su cumplimiento por medio de exhorto o requisitoria al funcionario correspondiente de la localidad en que dicha diligencia deba practicarse.
+Cuando tuviere que practicarse una diligencia, ya sea por la Policía Estatal o por los tribunales, fuera del lugar del juicio, se encargará su cumplimiento por medio de exhorto o requisitoria al funcionario correspondiente de la localidad en que dicha diligencia deba practicarse.
 
 Se empleará la forma de exhorto, cuando se dirija a un funcionario igual o superior en grado, y de requisitoria cuando se dirija a un inferior.
 
@@ -853,9 +861,11 @@ V.- En todo caso se mantendrán separados a los hombres y a las mujeres en los l
 
 Cuando se determine la internación de alguna persona a un hospital u otro establecimiento similar, deberá indicarse el carácter de su ingreso, lo que se comunicará a los encargados del establecimiento respectivo; si no se hiciere esa indicación, se entenderá que solo ingresa para su curación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 119.
 
-El Ministerio Público expedirá las ordenes para la autopsia e inhumación del cadáver y el levantamiento de las actas de defunción respectivas, cuando apareciere que la muerte fue posiblemente originada por algún delito y las diligencias de policía judicial no estuvieren en estado para consignarse desde luego a los tribunales.
+El Ministerio Público expedirá las órdenes para la autopsia e inhumación del cadáver y el levantamiento de las actas de defunción respectivas, cuando apareciere que la muerte fue posiblemente originada por algún delito y las diligencias de Policía Estatal no estuvieren en estado para consignarse desde luego a los tribunales.
 
 Si de las mismas diligencias apareciere claramente que la muerte no tuvo por origen un delito, y, por lo mismo, no procediere ejercitar la acción penal, las órdenes para el levantamiento del acta de defunción y para la inhumación del cadáver, se darán por el Ministerio Público.
 
@@ -869,13 +879,29 @@ Si de las diligencias practicadas no resultan elementos bastantes para hacer la 
 
 En la práctica de las diligencias de Averiguación Previa, se aplicará en lo conducente, las disposiciones del título séptimo de este código.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 122.
 
-Cuando en vista de la averiguación previa, el agente del ministerio público respectivo estimare que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado como delitos o por los que se hubiere presentado querella, remitirá el expediente, con su opinión fundada al Procurador General de Justicia, solicitándole autorización para el no ejercicio de la acción penal y el archivo del expediente. El procurador, en vista de las constancias respectivas, dentro del término de 15 días concederá o no la autorización solicitada.
+Cuando de la averiguación previa, el agente del ministerio público respectivo determine que no es de ejercitarse la acción penal por los hechos denunciados como delitos o por los que se haya presentado querella, dentro del término legal de un año, a partir del momento de la presentación de la misma, remitirá el expediente, con su opinión fundada y motivada al Procurador General de Justicia, solicitándole autorización para el no ejercicio de la acción penal y el archivo del expediente. El procurador, en vista de las constancias respectivas, dentro del término de 15 días concederá o no la autorización solicitada.
 
-Una vez autorizada la consulta del no ejercicio de la acción penal, por parte del Procurador General de Justicia, el agente del Ministerio Público dictará la resolución correspondiente y deberá notificarse a la víctima o al ofendido, el cual, dentro del término de 10 días, podrá inconformarse contra la citada resolución interponiendo el recurso de revisión, el que se sustanciará ante los jueces del orden penal, quienes dentro del término de quince días a partir del auto de radicación, emitirán la resolución correspondiente.
+Autorizado el no ejercicio de la acción penal por parte del Procurador General de Justicia, el agente del Ministerio Público dictará la resolución correspondiente y deberá notificarla a la víctima u ofendido dentro del término de tres días.
+
+La víctima u ofendido podrá recurrir la resolución dentro del término de 15 días, la que será sustanciada por los jueces del orden penal.
+
+El recurso de revisión deberá cumplir los siguientes requisitos:
+
+I.- Presentarse por escrito ante el Agente del Ministerio Público que emitió la resolución;
+
+II.- Nombre y firma autógrafa del promovente;
+
+III.- Señalar domicilio para recibir notificaciones y en su caso, a quién en su nombre las pueda recibir;
+
+IV.- Expresar los agravios que le causa la resolución.
+
+El Agente del Ministerio Público que reciba el recurso deberá remitirla al juez penal conjuntamente con las actuaciones practicadas en la averiguación previa dentro del término de 72 horas contadas a partir de su presentación, notificando de la remisión en forma personal al recurrente.
+
+El juez contará con un plazo que no deberá exceder de 15 días contados a partir del auto de radicación para emitir la resolución que corresponda, misma que será irrecurrible.
 
 ### CAPITULO UNICO. ACCION PENAL
 
@@ -1007,9 +1033,11 @@ Por cuerpo del delito se entiende el conjunto de elementos materiales que consti
 
 La probable responsabilidad del indiciado se tendrá por acreditada cuando de los medios probatorios existentes, se deduzca su intervención o participación en el delito, la comisión dolosa o culposa y no exista acreditada a su favor alguna causa excluyente de incriminación en términos del artículo 15 del código penal.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 131.
 
-Cuando se trate de lesiones externas, se tendrá por comprobado el cuerpo del delito con las inspección de éstas, hechas por el funcionario que hubiere practicado las diligencias de policía judicial, o por el tribunal que conozca del caso y con la descripción y examen que de las lesiones hagan los peritos médicos.
+Cuando se trate de lesiones externas, se tendrá por comprobado el cuerpo del delito con la inspección de éstas, hechas por el funcionario que hubiere practicado las diligencias de Policía Estatal, o por el tribunal que conozca del caso y con la descripción y examen que de las lesiones hagan los peritos médicos.
 
 ###### ARTICULO 132.
 
@@ -1065,9 +1093,11 @@ El cuerpo de los delitos de peculado, abuso de confianza y fraude, si no hubiere
 
 Cuando tratándose del delito de ataques a las vías de comunicación no fuere posible practicar inspección ocular, porque para evitar perjuicios al servicio público haya sido necesario hacer inmediatamente su reparación, bastará para la comprobación del cuerpo del delito cualquiera otra prueba plena.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 142.
 
-Para la comprobación del cuerpo del delito, los funcionarios de policía judicial y los tribunales, gozarán de la acción más amplia para emplear los medios de investigación que estimen conducentes según su criterio, aunque no sean de los que menciona la ley, siempre que esos medios no estén reprobados por ella.
+Para la comprobación del cuerpo del delito, los funcionarios de Policía Estatal y los tribunales, gozarán de la acción más amplia para emplear los medios de investigación que estimen conducentes según su criterio, aunque no sean de los que menciona la ley, siempre que esos medios no estén reprobados por ella.
 
 ###### ARTICULO 143.
 
@@ -1227,9 +1257,11 @@ Si a pesar de haberse tomado las providencias que señala este artículo, no se 
 
 Los vestidos se describirán minuciosamente en el expediente y se conservarán en depósito seguro para que puedan ser presentados a los testigos de identidad
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 148.
 
-Los cadáveres, previa una minuciosa inspección y descripción hecha por el funcionario de policía judicial que practique las primeras diligencias y por un perito médico, podrán ser entregados por el Ministerio Público a quienes los reclamen, debiendo manifestar éstos el lugar en que los cadáveres quedarán depositados a disposición de la autoridad competente y conducirlos al lugar destinado a la práctica de la autopsia, cuando proceda.
+Los cadáveres, previa una minuciosa inspección y descripción hecha por el funcionario de Policía Estatal que practique las primeras diligencias y por un perito médico, podrán ser entregados por el Ministerio Público a quienes los reclamen, debiendo manifestar éstos el lugar en que los cadáveres quedarán depositados a disposición de la autoridad competente y conducirlos al lugar destinado a la práctica de la autopsia, cuando proceda.
 
 Si hubiere temor de que el cadáver pueda ser ocultado o de que sufra alteraciones, no será entregado en tanto no se practique la autopsia o se resuelva que ésta no es necesaria.
 
@@ -1303,9 +1335,9 @@ C) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocu
 
 La violación a esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; ataques a las vías de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; corrupción y prostitución de menores o incapaces previstos en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el articulo 203, violación en relación con el articulo 206; tortura previsto en el artículo 214; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el articulo 357 en relación con las fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículo (sic) 393 y 394; atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; ataques a las vías de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; corrupción y prostitución de menores o incapaces previstos en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el artículo 203, violación en relación con el articulo 206; tortura previsto en el artículo 214; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; la desaparición forzada de personas previsto en el artículo 291 A; la trata de personas previsto en los artículos 291 B, 291 C, 291 D y 291 E; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el articulo 357 en relación con las fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículo (sic) 393 y394; atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2000)</small>
 
@@ -1327,11 +1359,15 @@ Cuando estén reunidos los requisitos del artículo 16 constitucional, el Tribun
 
 La resolución respectiva contendrá una relación sucinta de los hechos que la motiven, sus fundamentos legales, pronunciando dicha resolución por el delito que aparezca comprobado, tomando en cuenta sus modalidades, aún cuando con ello se cambie la apreciación legal que de los hechos se haya expresado en resolución anterior, misma que se transcribirá inmediatamente al Ministerio Público para que por su conducto la mande ejecutar.
 
-Para el libramiento de la orden de aprehensión tratándose de delitos graves, el Tribunal deberá resolver sobre la procedencia o improcedencia inmediatamente y tratándose de delitos no graves deberá resolver hasta dentro del término de diez días, a partir del día en que se haya acordado la radicación. En el caso de que el Juez negara la orden de aprehensión o comparecencia, se regresará el expediente al Agente del Ministerio Público para el trámite respectivo.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
+Para el libramiento de la orden de aprehensión, tratándose de delitos graves, el Tribunal deberá resolver sobre la procedencia o improcedencia dentro del término de setenta y dos horas y tratándose de delitos no graves deberá resolver hasta dentro del término de diez días, a partir del día en que se haya acordado la radicación. En el caso de que el Juez negara la orden de aprehensión o comparecencia, se regresará el expediente al Agente del Ministerio Público para el trámite respectivo.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 159.
 
-Cuando se trate de la aprehensión de alguna persona cuyo paradero se ignore, el tribunal que dicte la orden la comunicará al agente del Ministerio Público adscrito para que éste la transcriba a la Procuraduría General de Justicia, a fin de que la policía judicial localice y aprehenda a dicha persona. Lograda la aprehensión se procederá en los términos del artículo 52 de este Código.
+Cuando se trate de la aprehensión de alguna persona cuyo paradero se ignore, el tribunal que dicte la orden la comunicará al agente del Ministerio Público adscrito para que éste la transcriba a la Procuraduría General de Justicia, a fin de que la Policía Estatal localice y aprehenda a dicha persona. Lograda la aprehensión se procederá en los términos del artículo 52 de este Código.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -1923,7 +1959,9 @@ III.- Que sea de hecho propio y esté comprobada la existencia del delito; y,
 
 IV.- Que no existan datos que, a juicio del Juez o Tribunal, la hagan inverosímil.
 
-No podrá consignarse a ninguna persona si existe como única prueba la confesión. La Policía Judicial podrá rendir informes pero no obtener confesiones; si lo hace, éstos carecerán de todo valor probatorio.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
+No podrá consignarse a ninguna persona si existe como única prueba la confesión. La Policía Estatal podrá rendir informes pero no obtener confesiones; si lo hace, éstos carecerán de todo valor probatorio.
 
 ###### ARTICULO 265.
 
@@ -2061,9 +2099,11 @@ Si las conclusiones fueran contrarias o incongruentes a las constancias procesal
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2004)
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 287.
 
-Las conclusiones acusatorias formuladas por el Ministerio Público, se harán conocer al acusado y a su defensor, por el término de cinco días, para que contesten el escrito de acusación y formulen a su vez las que crean procedentes.
+Las conclusiones acusatorias formuladas por el ministerio Público, se harán conocer al acusado y a su defensor, por un término igual al concedido a la representación social, para que contesten el escrito de acusación y formulen a su vez a las (sic) consideren procedentes.
 
 Cuando los acusados fueren varios, el término será común para todos.
 
@@ -3145,9 +3185,11 @@ Cuando el Tribunal estime procedente entregar al inculpado a la persona a quien 
 
 En los casos en que proceda entregar al inculpado a alguna de las personas a que se refiere el artículo 23 del Código Penal, si ésta no se presenta, podrá encomendarse la custodia de aquél a las instituciones de beneficencia pública o privada que designe la resolución que dicte el Tribunal.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 443.
 
-Cuando desde las diligencias de policía judicial aparezca que hay motivo fundado para suponer que el inculpado adolece algún padecimiento mental, se procederá a recluirlo desde luego en manicomio o establecimiento especial, si se juzgare necesario, debiendo quedar ahí a disposición del tribunal competente.
+Cuando desde las diligencias de Policía Estatal aparezca que hay motivo fundado para suponer que el inculpado adolece algún padecimiento mental, se procederá a recluirlo desde luego en manicomio o establecimiento especial, si se juzgare necesario, debiendo quedar ahí a disposición del tribunal competente.
 
 ###### ARTICULO 444.
 
@@ -3237,9 +3279,11 @@ Admitida dicha persona, otorgará la fianza en los términos que este Código es
 
 El salvoconducto a que se refiere el artículo anterior se remitirá al jefe de la prisión para que lo entregue al reo al ponerlo en libertad, haciéndolo suscribir un acta en que conste que recibió dicho documento y que se obliga a no separarse del lugar que se le haya señalado para su residencia, sin permiso de la autoridad que le concedió la libertad. Cuando el beneficiado obtenga permiso para cambiar de residencia, se presentará ante la autoridad municipal del lugar a donde vaya a radicarse y exhibirá el documento que justifique haber dado aviso del cambio a la autoridad municipal de su anterior domicilio.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 461.
 
-El reo deberá presentar el salvoconducto, siempre que sea requerido para ello por un magistrado, juez o agente de la policía judicial o del Ministerio Público, y si se rehusare, se comunicará a la autoridad que le concedió la libertad, la que podrá imponerle hasta quince días de arresto, pero sin revocarle dicha libertad.
+El reo deberá presentar el salvoconducto, siempre que sea requerido para ello por un magistrado, juez o agente de la Policía Estatal o del Ministerio Público, y si se rehusare, se comunicará a la autoridad que le concedió la libertad, la que podrá imponerle hasta quince días de arresto, pero sin revocarle dicha libertad.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2000)</small>
 
@@ -3528,3 +3572,7 @@ El presente decreto entrará en vigor a partir de su publicación en el Periódi
 P.O. 24 DE DICIEMBRE DE 2008.
 
 Artículo Único.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 25 DE NOVIEMBRE 2009.
+
+Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
