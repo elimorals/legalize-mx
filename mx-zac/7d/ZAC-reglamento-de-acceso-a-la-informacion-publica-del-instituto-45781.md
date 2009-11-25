@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-acceso-a-la-informacion-publica-del-instituto-457
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-03"
-last_updated: "2005-08-03"
+last_updated: "2009-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de agosto de 2005.
 
@@ -686,3 +688,13 @@ TERCERO.- Publíquese el presente Acuerdo y el Reglamento de Acceso a la informa
 Dado en la Sala de Sesiones del Consejo General del Instituto Electoral del Estado de Zacatecas, a los trece (13) días del mes de julio del dos mil cinco (2005).
 
 Lic. Juan Francisco Valerio Quintero: Consejero Presidente; Lic. José Manuel Ortega Cisneros: Secretario Ejecutivo. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- Se abroga el Reglamento para el Acceso a la información Pública aprobado por el Consejo General del Instituto Electoral del Estado de Zacatecas en fecha trece (13) de julio de dos mil cinco (2005).
+
+SEGUNDO.- Publíquese en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+TERCERO.- El presente Reglamento entrará en vigor a partir del día hábil siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
