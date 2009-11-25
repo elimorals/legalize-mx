@@ -4,7 +4,7 @@ identifier: "VER-lineamientos-generales-que-deberan-observar-los-sujetos-70680"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2009-10-20"
-last_updated: "2009-10-20"
+last_updated: "2009-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,19 @@ state: "VER"
 ---
 # LINEAMIENTOS GENERALES QUE DEBERAN OBSERVAR LOS SUJETOS OBLIGADOS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA ELABORAR FORMATOS DE SOLICITUDES DE ACCESO A LA INFORMACION PUBLICA Y CORRECCION DE DATOS PERSONALES PARA SU PRESENTACION ANTE LAS UNIDADES DE ACCESO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE NOVIEMBRE DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LINEAMIENTOS GENERALES QUE DEBERÁN OBSERVAR LOS SUJETOS OBLIGADOS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PARA ELABORAR FORMATOS DE SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA Y CORRECCIÓN DE DATOS PERSONALES PARA SU PRESENTACIÓN ANTE LAS UNIDADES DE ACCESO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL OFICIAL EL 25 DE NOVIEMBRE DE 2009.</small>
 
 Lineamientos publicados en la Gaceta Oficial del Estado de Veracruz, el martes 20 de octubre de 2009.
 
 Al margen un sello que dice: IVAI.- Instituto Veracruzano de Acceso a la Información.-Consejo General.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE PÁRRAFO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE NOVIEMBRE DE 2009 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.O. 25 DE NOVIEMBRE DE 2009)</small>
 
-Proyecto de Lineamientos generales que deberán observar los sujetos obligados por la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, para elaborar formatos de solicitudes de acceso a la información pública y corrección de datos personales para su presentación ante las unidades de acceso.
+Lineamientos generales que deberán observar los sujetos obligados por la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, para elaborar formatos de solicitudes de acceso a la información pública y corrección de datos personales para su presentación ante las unidades de acceso.
 
 El Pleno del Instituto Veracruzano de Acceso a la Información, con fundamento en lo dispuesto por los artículos 6 último párrafo, 67, fracción IV de la Constitución Política del Estado de Veracruz de Ignacio de la Llave; 34, fracciones XVIII y XX de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave; y 13, inciso a), fracción I, punto 5 del Reglamento Interior del Instituto Veracruzano de Acceso a la Información:
 
