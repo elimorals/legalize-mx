@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2009-08-22"
+last_updated: "2009-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2009.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1593,9 +1593,11 @@ GENÉTICA
 
 A quien disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes, se le impondrán de tres a seis años de prisión y de cincuenta a quinientos días multa.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 148.
 
-A quien sin consentimiento de una mujer mayor de dieciocho años o aun con el consentimiento de una menor de edad o de una incapaz para comprender el significado del hecho o para resistirlo, realice en ella inseminación artificial, se le impondrán de dos a seis años de prisión.
+A quien realice inseminación artificial en una mujer, sin su consentimiento, o aun con éste, cuando se trate de persona menor de edad o incapaz para comprender el significado del hecho o para resistirlo, se le impondrán de dos a seis años de prisión.
 
 ###### Artículo 149.
 
@@ -3061,6 +3063,12 @@ Cuando en la comisión de este delito participe un licenciado en Derecho o litig
 
 Quien al declarar ante autoridad en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad, de forma sustancial y deliberada, en relación con los hechos que motivan la intervención de ésta, será sancionado con pena de seis meses a seis años de prisión y de cien a trescientos días multa.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+
+###### Artículo 307 Bis.
+
+Las penas a que se refiere el artículo anterior, se podrán aumentar hasta en una mitad, si la declaración a la autoridad se realiza dolosamente a través del servicio telefónico o por cualquier otro medio de telecomunicación, para dar un falso aviso de alarma o emergencia.
+
 ###### Artículo 308.
 
 A quien con el propósito de inculpar o exculpar a alguien indebidamente en un procedimiento penal, ante el Ministerio Público o ante la autoridad judicial, declare falsamente en calidad de testigo o como denunciante, además de la multa a que se refiere el primer párrafo del artículo anterior, será sancionado con pena de tres a siete años de prisión.
@@ -3536,3 +3544,17 @@ P.O. 22 DE AGOSTO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las disposiciones de la presente Ley, serán aplicables a los mecanismos de protección otorgados a los intervinientes y testigos y sus allegados, en los términos de lo dispuesto por el artículo 342 del Código de Procedimientos Penales del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 631/09 II P.O., POR EL QUE SE ADICIONA EL ARTICULO 307 BIS AL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 732/09 VI P.E., POR EL QUE SE REFORMA EL ARTICULO 148 AL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
