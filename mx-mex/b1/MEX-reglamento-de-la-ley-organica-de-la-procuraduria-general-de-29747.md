@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-297
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-06"
-last_updated: "2003-03-06"
+last_updated: "2009-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DE 26 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 6 de marzo de 2003.
 
@@ -2546,3 +2548,173 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 26 DE NOVIEMBRE DE 2009.
+
+Publicación de este Reglamento
+
+Artículo Primero.- Publíquese este Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+Entrada en vigor
+
+Artículo Segundo.- Este Reglamento entrará en vigor a los diez días hábiles siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+Abrogación de reglamento anterior
+
+Artículo Tercero.- Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el 6 de marzo de 2003.
+
+Derogación innominada y vigencia de textos normativos reglamentarios que no se opongan a este Reglamento
+
+Artículo Cuarto.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo dispuesto por este Reglamento.
+
+Los acuerdos, circulares oficios y demás instrumentos jurídicos y administrativos que no se opongan a este Reglamento continuarán en vigor.
+
+Regla transitoria sobre la Fiscalía Especializada de Delitos Electorales
+
+Artículo Quinto.- En atención a la naturaleza de los delitos electorales, en especial en periodo de elecciones, el Procurador podrá emitir acuerdos especiales de operación y organización para la atención de los delitos referidos, pero de no instruir al respecto, se estará a las siguientes:
+
+Reglas específicas para la atención especializada de delitos electorales
+
+A. El Procurador podrá habilitar o comisionar a un servidor público para que desempeñe la función de coordinación para la atención especializada de los delitos electorales.
+
+Corresponde al servidor público habilitado o comisionado para la atención especializada de los delitos electorales el ejercicio de las atribuciones siguientes:
+
+I. Coordinar, supervisar y vigilar la investigación y persecución de los delitos en materia electoral, incluyendo aquellos cometidos por servidores públicos;
+
+II. Recibir de las Fiscalías Regionales, agencias del Ministerio Público y componentes del Sistema de Medios Alternativos de Denuncias y Querellas, las denuncias de actos o hechos constitutivos de delitos electorales;
+
+III. Coordinar las acciones de las Fiscalías Regionales, agencias del Ministerio Público y componentes del Sistema de Medios Alternativos de Denuncias y Querellas, que conozcan de denuncias por actos o hechos constitutivos de delitos electorales;
+
+IV. Coordinar las acciones de las Fiscalías Regionales, agencias del Ministerio Público, componentes del Sistema de Medios Alternativos de Denuncias y Querellas, cuando se trate de actos o hechos flagrantes, conforme a lo prescrito en el artículo 16 de la Constitución General y que estén relacionados con delitos electorales;
+
+V. Mantener informado al Procurador y al Subprocurador de Atención Especializada de las investigaciones radicadas en las agencias del Ministerio Público relacionadas con delitos electorales, del trámite y determinación de las mismas, vigilando que en las diligencias de la investigación ministerial se observen los principios que rigen la institución del Ministerio Público, y
+
+VI. Las demás que determine expresamente el Procurador, así como las que se deriven de otras disposiciones aplicables.
+
+B. Salvo acuerdo expreso del Procurador, la atención especializada de delitos electorales queda a cargo del Subprocurador de Atención Especializada, el cual instruirá lo conducente a las Fiscalías Regionales y, en su caso, a sus unidades administrativas.
+
+C. Quedan habilitadas las Fiscalías Regionales y, en su caso, las unidades administrativas de la Subprocuraduría de Atención
+
+Especializada, en el ámbito de sus respectivas competencias, para el ejercicio de las funciones señaladas en el apartado A de estas Reglas.
+
+Readscripción de los servidores públicos y ajuste de organización estructural
+
+Artículo Sexto.- El Procurador determinará, con la participación de la Coordinación de Planeación y Administración, la readscripción de los servidores públicos conforme a la nueva estructura que regula ese Reglamento, tomando en cuenta la situación organizacional que a la fecha de entrada en vigor de este ordenamiento presentan las unidades administrativas y órganos desconcentrados de la Procuraduría.
+
+Operación y funcionamiento de la nueva estructura orgánica
+
+Artículo Séptimo.- La nueva estructura orgánica de la Procuraduría General de Justicia del Estado de México establecida en este Reglamento, deberá implementarse en atención a las necesidades del servicio de procuración de justicia y de acuerdo con la disponibilidad presupuestal con que cuente la Procuraduría, debiendo observar la normatividad en materia de entrega y recepción.
+
+Reglamentación interna de la Comisaría General de la Policía Ministerial
+
+Artículo Octavo.- En tanto se expide la regulación interna de la Comisaría General de la Policía Ministerial, estará en vigor el Reglamento de la Policía Judicial, publicado en la "Gaceta del Gobierno" el 15 de septiembre de 1987.
+
+Guía básica de la cadena de custodia
+
+Artículo Noveno.- El Instituto de Servicios Periciales del Estado de México expedirá la guía básica de la cadena de custodia.
+
+Bienes asegurados
+
+Artículo Décimo.- La Dirección General de Administración, a través de la Unidad de Bienes Asegurados y Arraigos. En el ejercicio de sus atribuciones relacionadas con el resguardo y aseguramiento de bienes, aplicará el Acuerdo Número 34/2007 del Procurador, publicado en el Periódico Oficial "Gaceta del Gobierno" el 10 de diciembre de 2007.
+
+Nuevo Sistema Procesal Penal Acusatorio
+
+Artículo Décimo Primero.- Con base en el régimen de transitoriedad establecido en el Código de Procedimientos Penales del Estado de México, la Procuraduría se organiza, estructura y funciona de manera ordenada, sistemática, coherente y consistente con la pauta normativa del Sistema Procesal Penal Acusatorio prevista en los artículos 16 párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19. 20 y 21, párrafo séptimo, de la Constitución General, por lo que, con fundamento en dicho régimen de transitoriedad, se estará a lo siguiente:
+
+I. En los distritos judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle, el nuevo Sistema Procesal Penal Acusatorio entrará en vigor el uno de octubre del año 2009, sin perjuicio de la aplicación de! sistema vigente con anterioridad, por lo que ambos sistemas coexistirán bajo los principios, reglas y lineamientos siguientes:
+
+a) Los asuntos iniciados por hechos ocurridos con anterioridad al uno de octubre de 2009. incluso los procesos y recursos radicados ante los órganos jurisdiccionales competentes, se sujetarán hasta su conclusión definitiva, a las disposiciones del Código de Procedimientos Penales que se abroga, es decir, el publicado en el Periódico Oficial "Gaceta del Gobierno", el 20 de marzo de 2000.
+
+b) Los asuntos iniciados por hechos ocurridos el uno de octubre de 2009 o con posterioridad, incluso los procesos y recursos que se radiquen ante los órganos jurisdiccionales competentes, se sujetarán hasta su conclusión definitiva a las disposiciones del Código de Procedimientos Penales, publicado en el Periódico Oficial "Gaceta del Gobierno", el 9 de febrero de 2009, mismo que regula el nuevo Sistema Procesal Penal Acusatorio.
+
+c) Los municipios de los distritos judiciales referidos en esta fracción son los siguientes:
+
+i. El Distrito Judicial de Toluca comprende los municipios de: Toluca, Almoloya de Juárez, Metepec, Temoaya, Villa Victoria y Zinacantepec.
+
+ii. El Distrito Judicial de Lerma comprende los municipios de: Lerma. Ocoyoacac, Otzolotepec, San Mateo Atenco y Xonacatlán.
+
+iii. El Distrito Judicial de Tenancingo comprende los municipios de: Tenancingo, Coatepec Harinas, Ixtapan de la Sal, Malinalco, Ocuilan, Tonatico, Villa Guerrero y Zumpahuacán.
+
+iv. El Distrito Judicial de Tenango del Valle comprende los municipios de: Tenango del Valle, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Joquicingo, Mexicaltzingo, Rayón, San Antonio la Isla, Texcalyacac, Tianguistenco y Xalatlaco.
+
+d) Para la atención prioritaria de los asuntos derivados de hechos presuntivamente constitutivos de delito ocurridos con anterioridad al uno de octubre de 2009, la Dirección General de Investigación, a través de la Dirección de Abatimiento de Rezago, constituirá una área especial de averiguaciones previas y causas penales.
+
+II. En los distritos judiciales de Chalco, Otumba y Texcoco, el nuevo Sistema Procesal Penal Acusatorio entrará en vigor el uno de abril del año 2010, sin perjuicio de la aplicación del sistema vigente con anterioridad, por lo que ambos sistemas coexistirán bajo los principios, reglas y lineamientos siguientes:
+
+a) Los asuntos iniciados por hechos ocurridos con anterioridad al uno de abril del año 2010, incluso los procesos y recursos radicados ante los órganos jurisdiccionales competentes, se sujetarán hasta su conclusión definitiva, a las disposiciones del Código de Procedimientos Penales que se abroga, es decir, el publicado en el Periódico Oficial "Gaceta del Gobierno", el 20 de marzo de 2000.
+
+b) Los asuntos iniciados el uno de abril del año 2010 o con posterioridad, incluso los procesos y recursos que se radiquen ante los órganos jurisdiccionales competentes, se sujetarán hasta su conclusión definitiva a las disposiciones del Código de Procedimientos Penales, publicado en el Periódico Oficial "Gaceta del Gobierno", el 9 de febrero de 2009, mismo que regula el nuevo Sistema Procesal Penal Acusatorio.
+
+c) Los distritos judiciales referidos en esta fracción comprenden los municipios siguientes:
+
+i. El Distrito Judicial de Chalco comprende los municipios de: Chalco, Amecameca, Atlautla, Ayapango, Cocotitlán, Ecatzingo, lxtapaluca, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
+
+ii. El Distrito Judicial de Otumba comprende los municipios de: Otumba, Axapusco, Nopaltepec, San Martín de las Pirámides, Tecámac y Temascalapa.
+
+iii. El Distrito Judicial de Texcoco comprende los municipios de: Texcoco, Acolman, Atenco, Chiautla, Chicoloapan, Chiconcuac, Papalotla, Teotihuacan, Tepetlaoxtoc y Tezoyuca.
+
+d) Para la atención prioritaria de los asuntos derivados de hechos presuntivamente constitutivos de delito ocurridos con anterioridad al uno de octubre de 2009, la Dirección General de Investigación, a través de la Dirección de Abatimiento de Rezago, constituirá una área especial de averiguaciones previas y causas penales.
+
+III. En los distritos judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec, el nuevo Sistema Procesal Penal Acusatorio entrará en vigor el uno de octubre del año 2010, sin perjuicio de la aplicación del sistema vigente con anterioridad, por lo que ambos sistemas coexistirán bajo los principios, reglas y lineamientos siguientes:
+
+a) Los asuntos iniciados por hechos ocurridos con anterioridad al uno de octubre del año 2010, incluso los procesos y recursos radicados ante los órganos jurisdiccionales competentes, se sujetarán hasta su conclusión definitiva a las disposiciones del Código de Procedimientos Penales que se abroga, es decir, el código publicado en el Periódico Oficial "Gaceta del Gobierno", el 20 de marzo de 2000.
+
+b) Los asuntos iniciados el uno de octubre del año 2010 o con posterioridad, incluso los procesos y recursos que se radiquen ante los órganos jurisdiccionales competentes, se sujetarán hasta su conclusión definitiva a las disposiciones del Código de Procedimientos Penales, publicado en el Periódico Oficial "Gaceta del Gobierno", el 9 de febrero de 2009, mismo que regula el nuevo Sistema Procesal Penal Acusatorio.
+
+c) Los distritos judiciales referidos en esta fracción comprenden los municipios siguientes:
+
+i. El Distrito Judicial de Nezahualcóyotl comprende los municipios de: Nezahualcóyotl, Chimalhuacán y La Paz.
+
+ii. El Distrito Judicial de El Oro comprende los municipios de: El Oro. Acambay, Atlacomulco y Temascalcingo.
+
+iii. El Distrito Judicial de Ixtlahuaca comprende los municipios de: Ixtlahuaca, Jiquipilco, Jocotitlán, Morelos, San Felipe del Progreso y San José del Rincón.
+
+iv. El Distrito Judicial de Sultepec comprende los municipios de: Sultepec, Almoloya de Alquisiras, Amatepec, Texcaltitlán, Tlatlaya y Zacualpan.
+
+v. El Distrito Judicial de Temascaltepec comprende los municipios de: Temascaltepec, San Simón de Guerrero, Tejupilco y Luvianos.
+
+d) Para la atención prioritaria de los asuntos derivados de hechos presuntivamente constitutivos de delito ocurridos con anterioridad al uno de octubre de 2009, la Dirección General de Investigación, a través de la Dirección de Abatimiento de Rezago, constituirá una área especial de averiguaciones previas y causas penales.
+
+IV. En los distritos judiciales de Tlalnepantla, Cuautitlán y Zumpango, el nuevo Sistema Procesal Penal Acusatorio entrará en vigor el uno de abril del año 2011, sin perjuicio de la aplicación del sistema vigente con anterioridad, por lo que ambos sistemas coexistirán bajo los principios, reglas y lineamientos siguientes:
+
+a) Los asuntos iniciados por hechos ocurridos con anterioridad al uno de abril del año 2011, incluso los procesos y recursos radicados ante los órganos jurisdiccionales competentes, se sujetarán hasta su conclusión definitiva a las disposiciones del Código de Procedimientos Penales que se abroga, es decir, el código publicado en el Periódico Oficial "Gaceta del Gobierno", el 20 de marzo de 2000.
+
+b) Los asuntos iniciados el uno de abril del año 2011 o con posterioridad, incluso los procesos y recursos que se radiquen ante los órganos jurisdiccionales competentes, se sujetarán hasta su conclusión definitiva a las disposiciones del Código de Procedimientos Penales, publicado en el Periódico Oficial "Gaceta del Gobierno", el 9 de febrero de 2009, mismo que regula el nuevo Sistema Procesal Penal Acusatorio.
+
+e) Los distritos judiciales referidos en esta fracción comprenden los municipios siguientes:
+
+i. El Distrito Judicial de Tlalnepantla comprende los municipios de: Tlalnepantla de Baz, Atizapán de Zaragoza, Huixquilucan, Isidro Fabela, Jilotzingo, Naucalpan de Juárez y Nicolás Romero.
+
+ii. El Distrito Judicial de Cuautitlán comprende los municipios de: Cuautitlán, Coyotepec, Cuautitlán Izcalli, Huehuetoca, Melchor Ocampo, Teoloyucan, Tepotzotlán, Tultepec y Tultitlán.
+
+iii. El Distrito Judicial de Zumpango comprende los municipios de: Zumpango, Apaxco, Hueypoxtla, Jaltenco, Nextlalpan Tequixquiac y Tonanitla.
+
+d) Para la atención prioritaria de los asuntos derivados de hechos presuntivamente constitutivos de delito ocurridos con anterioridad al uno de abril de 2011, se crea la Unidad Especial de Averiguaciones Previas y Causas Penales Tlalnepantla, Cuautitlán y Zumpango.
+
+Esta unidad está adscrita a la Dirección General de Investigación de la Subprocuraduría General
+
+V. En los distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo, el nuevo Sistema Procesal Penal Acusatorio entrará en vigor el uno de octubre del año 2011, sin perjuicio de la aplicación del sistema vigente con anterioridad, por lo que ambos sistemas coexistirán bajo los principios, reglas y lineamientos siguientes:
+
+a) Los asuntos iniciados por hechos ocurridos con anterioridad al uno de octubre del año 2011, incluso los procesos y recursos radicados ante los órganos jurisdiccionales competentes, se sujetarán hasta su conclusión definitiva a las disposiciones del Código de Procedimientos Penales que se abroga, es decir, el código publicado en el Periódico Oficial "Gaceta del Gobierno", el 20 de marzo de 2000.
+
+b) Los asuntos iniciados el uno de octubre del año 2011 o con posterioridad, incluso los procesos y recursos que se radiquen ante los órganos jurisdiccionales competentes, se sujetarán hasta su conclusión definitiva a las disposiciones del Código de Procedimientos Penales, publicado en el Periódico Oficial "Gaceta del Gobierno", el 9 de febrero de 2009, mismo que regula el nuevo Sistema Procesal Penal Acusatorio.
+
+c) Los distritos judiciales referidos en esta fracción comprenden los municipios siguientes:
+
+i. El Distrito Judicial de Ecatepec de Morelos comprende los municipios de: Ecatepec de Morelos y Coacalco de Berriozábal.
+
+ii. El Distrito Judicial de Jilotepec comprende los municipios de: Jilotepec, Aculco, Chapa de Mota, Polotitlán, Soyaniquilpan de Juárez, Timilpan y Villa del Carbón.
+
+iii. El Distrito Judicial de Valle de Bravo comprende los municipios de: Valle de Bravo, Amanalco, Donato Guerra, Ixtapan del Oro, Santo Tomás, Otzoloapan, Villa de Allende y Zacazonapan.
+
+d) Para la atención prioritaria de los asuntos derivados de hechos presuntivamente constitutivos de delito ocurridos con anterioridad al uno de octubre de 2009, la Dirección General de Investigación, a través de la Dirección de Abatimiento de Rezago, constituirá un área especial de averiguaciones previas y causas penales.
+
+Adecuación de unidades administrativas al presente Reglamento
+
+Artículo Décimo Segundo.- Las unidades administrativas con las que venía operando la Procuraduría General de Justicia del Estado de México, se denominarán, readscribirán, fusionarán o cambiarán de nivel, en su caso, de conformidad con lo dispuesto en el presente Reglamento y en la estructura de organización autorizada a dicha dependencia.
+
+Adscripción del Sistema de Medios Alternativos de Denuncias y Querellas, y lineamientos de los servidores públicos del Centro de Atención Telefónica
+
+Artículo Décimo Tercero.- La adscripción del Sistema de Medios Alternativos de Denuncias y Querellas, será determinada por el Procurador. Una vez que el mismo esté operando, elaborará el proyecto de lineamientos básicos para los servidores públicos adscritos al Centro de Atención Telefónica, los que, una vez aprobados por el Procurador, serán publicados, mediante acuerdo, en el Periódico Oficial "Gaceta del Gobierno".
