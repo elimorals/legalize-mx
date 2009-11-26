@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-entrega-recepcion-de-las-administraciones-29607"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-06"
-last_updated: "2003-03-06"
+last_updated: "2009-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "DUR"
 
 LEY PARA LA ENTREGA-RECEPCION DE LAS ADMINISTRACIONES PUBLICAS DEL ESTADO Y MUNICIPIOS DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA LA ENTREGA-RECEPCION DE LAS ADMINISTRACIONES PUBLICAS DEL ESTADO Y MUNICIPIOS DE DURANGO, PUBLICADA EN EL P.O. DE 26 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de marzo de 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+
+Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 6 de marzo de 2003.
 
 EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, SABED:
 
@@ -426,3 +428,27 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. JOSE MIGUEL CASTRO CARRILLO.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Entrega-Recepción de las Administraciones Públicas del Estado y Municipios de Durango, aprobada mediante Decreto No. 194, el 25 de febrero de 2003, y publicada en el Periódico Oficial del Gobierno Constitucional del Estado No. 19, en fecha 06 (seis) de marzo del año 2003 (dos mil tres).
+
+###### ARTÍCULO TERCERO.
+
+Aquellos procedimientos de Entrega-Recepción intermedia, que a la entrada en vigor de esta Ley se encuentren en proceso, se desarrollarán hasta su terminación, conforme a la ley con la que iniciaron.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo de 60 días, contados a partir del día siguiente al de la publicación de esta Ley, la Contraloría, los Órganos de los Poderes emitirán los formatos a que se refiere este ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones legales, que contravengan la presente Ley.
