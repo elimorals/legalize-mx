@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-agentes-de-pronosticos-para-la-asistencia-51088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-01"
-last_updated: "2008-11-04"
+last_updated: "2009-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-23"
 
 REGLAMENTO DE AGENTES DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Primera Sección en el Diario Oficial de la Federación, el martes 1 de agosto de 2006.
 
@@ -103,21 +103,23 @@ XII. Sistema de Cómputo Central.- Al sistema de cómputo de Pronósticos utiliz
 
 XIII. Sorteo.- A la actividad en la que los poseedores o titulares de un boleto mediante la selección previa de un número, combinación de números o cualquier otro símbolo, obtienen el derecho a participar en un procedimiento previamente estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina al azar un número, combinación de números, símbolo o símbolos que generan uno o varios ganadores de un premio;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2009)</small>
 
-XIV. Tercero y/o comisionista.- A la persona física o moral que comercializa uno o varios productos de Pronósticos y se encuentra sujeto al contrato de comisión mercantil y a la observancia del presente Reglamento en lo conducente, y (sic)
+XIV. Proveedor.- La persona física o moral que provee puntos de venta, equipos o terminales y medios de comunicación a un Canal Alterno de Distribución;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
 
 XV. Terminal.- Al aparato cuya función consiste en captar los datos de la participación hecha por el concursante;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 26 DE NOVIEMBRE DE 2009)</small>
 
-XVI. Canales Alternos de Distribución.- Son todos aquellos Agentes autorizados que operen la comercialización masiva de los productos de Pronósticos a través de sus propios puntos de venta, equipos o terminales y medios de comunicación, debidamente enlazados con el Sistema de Cómputo Central de Pronósticos.
+XVI. Canales Alternos de Distribución.- Son todos aquellos Agentes autorizados que operen la comercialización masiva de los productos de Pronósticos a través de puntos de venta propios, o bien, ajenos; es decir, propiedad de los proveedores, equipos o terminales y medios de comunicación, debidamente enlazados con el Sistema de Cómputo Central de Pronósticos.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 3o.
 
-Tendrán el carácter de agente, facultado para comercializar los diversos concursos, sorteos, productos y servicios que Pronósticos ofrezca al público, así como participar activamente en los programas promocionales que Pronósticos desarrolle para sus marcas o en conjunto con un socio promocional, las personas físicas o sociedades constituidas de acuerdo a las leyes mexicanas, que tengan capacidad jurídica para contratar y obligarse para los fines señalados en el artículo 1o. del presente Reglamento, previa autorización de su solicitud de agencia y celebración del contrato de comisión mercantil con Pronósticos, así mismo que cumplan con los requisitos señalados en el presente Reglamento.
+Tendrán el carácter de agente, facultado para comercializar los diversos concursos, sorteos, productos y servicios que Pronósticos ofrezca al público, así como participar activamente en los programas promociónales que Pronósticos desarrolle para sus marcas o en conjunto con un socio promocional, así como en los programas de capacitación que para tal efecto se implementen, las personas físicas o sociedades constituidas de acuerdo a las leyes mexicanas, que tengan capacidad jurídica para contratar y obligarse para los fines señalados en el artículo 1o. del presente Reglamento, previa autorización de su solicitud de agencia y celebración del contrato de comisión mercantil con Pronósticos, así mismo que cumplan con los requisitos señalados en el presente Reglamento.
 
 La autorización de la solicitud de agencia, a que se refiere el párrafo anterior, deberá ser respondida por la Subdirección General de Ventas, dentro de los 12 (doce) días naturales siguientes a su presentación, en caso de no emitirse respuesta alguna, se tendrá por no autorizada la misma.
 
@@ -169,6 +171,14 @@ Asimismo, el agente deberá contar con los elementos propios y suficientes para 
 
 En términos de lo anteriormente expuesto, la relación laboral existe y existirá solamente entre el agente y sus trabajadores.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 26 DE NOVIEMBRE DE 2009)</small>
+
+La utilización que los Canales Alternos de Distribución realicen sobre puntos de venta, equipos o terminales y medios de comunicación de los proveedores, no se entenderá como delegación hacia estos últimos, de las obligaciones establecidas en el presente Reglamento ni de las que en el contrato de comisión mercantil se establezcan; debiendo el Agente informar a la Entidad, previo a la celebración del contrato de comisión mercantil, dicha circunstancia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 26 DE NOVIEMBRE DE 2009)</small>
+
+La vigencia de los contratos de comisión mercantil que la Entidad celebre con Canales Alternos de Distribución que utilicen puntos de venta, equipos o terminales y medios de comunicación ajenos, estará condicionada a que permanezca en vigor, a su vez, la estipulación a favor de la Entidad que los Canales Alternos de Distribución deben pactar con el proveedor de los puntos de venta, equipos o terminales y medios de comunicación, estipulación que consiste en que el mencionado proveedor quede obligado a permitir la supervisión más amplia y exhaustiva por parte de la Entidad respecto del desempeño de la comisión mercantil por parte del Canal Alterno de Distribución.
+
 ###### Artículo 7o.
 
 El agente bajo pena de rescisión del contrato de comisión mercantil, no promoverá o comercializará cualquier otra forma de juegos, concursos o sorteos distintos a los contemplados en los Reglamentos de Pronósticos, en la Ley Federal de Juegos y Sorteos y su Reglamento, los autorizados por la Secretaría de Gobernación, así como los que celebre la Lotería Nacional para la Asistencia Pública.
@@ -177,7 +187,9 @@ El agente bajo pena de rescisión del contrato de comisión mercantil, no promov
 
 El agente deberá exhibir a la vista del público, toda la documentación y publicidad que remita para ese efecto Pronósticos.
 
-Quedarán exceptuados de lo dispuesto en el párrafo anterior, aquellos agentes que por estrategia comercial o de ventas de Pronósticos, no requieran cumplir con dicho requisito.
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2009)</small>
+
+Quedarán exceptuados de lo dispuesto en el párrafo anterior, aquellos Canales Alternos de Distribución que por su propia operación no puedan llevar a cabo dicha actividad o no requieran cumplir con dicho requisito.
 
 ###### Artículo 9o.
 
@@ -191,11 +203,11 @@ Se entenderán como oficialmente comunicados, aquellos documentos e información
 
 La determinación del establecimiento comercial donde el agente vaya a realizar su actividad, se hará de común acuerdo entre el propio agente y la Subdirección General de Ventas de Pronósticos, cualquier acondicionamiento o ubicación de la terminal, podrá realizarlo de acuerdo con los requisitos que le señale la referida Subdirección General de Ventas, debiendo proporcionar y poner a disposición de Pronósticos las instalaciones físicas y de suministro de energía, presentes o futuras para que tanto la terminal electrónica, como el equipo de comunicación, funcionen con seguridad y eficacia.
 
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 12o.
 
-La baja de una agencia deberá ser notificada por el agente a la Subdirección General de Ventas de Pronósticos por escrito o medio electrónico que se señale en el contrato de comisión mercantil, con cuando menos 15 (quince) días naturales de antelación a la fecha en que el agente tenga contemplado a realizar dicha baja. La petición de baja de agencia, deberá ser respondida por la Subdirección General de Ventas dentro de los 12 (doce) días naturales siguientes a su presentación, en caso de no emitirse respuesta alguna, se entenderá por autorizada la misma.
-
-El cambio de giro comercial de una agencia deberá ser notificado por el agente a la Subdirección General de Ventas de Pronósticos por escrito o medio electrónico que se señale en el contrato de comisión mercantil, con cuando menos 15 (quince) días naturales de antelación a la fecha en que el agente tenga contemplado a realizar dicho cambio. El cambio de giro comercial, deberá ser respondido por la Subdirección General de Ventas dentro de los 8 (ocho) días naturales siguientes a su presentación, en caso de no emitirse respuesta alguna, se entenderá por autorizado el mismo.
+La baja de una agencia deberá ser notificada por el agente a la Subdirección General de Ventas de Pronósticos por escrito o medio electrónico que se señale en el contrato de comisión mercantil, con cuando menos quince días naturales de antelación a la fecha en que el agente tenga contemplado a realizar dicha baja. La petición de baja de agencia, deberá ser respondida por la Subdirección General de Ventas dentro de los doce días naturales siguientes a su presentación, en caso de no emitirse respuesta alguna, se entenderá por autorizada la misma.
 
 ###### Artículo 13o.
 
@@ -287,7 +299,11 @@ Pronósticos podrá dar por terminado el contrato de comisión mercantil en los 
 
 a) La información, documentación o referencias proporcionadas por el agente no sean fidedignas o presenten alguna alteración.
 
-b) Pronósticos tenga conocimiento de ofrecimiento de la delegación por parte del agente de la comisión pactada en el contrato celebrado.
+> <small>(REFORMADO, D.O.F. 26 DE NOVIEMBRE DE 2009)</small>
+
+b) Pronósticos tenga conocimiento de ofrecimiento de la delegación por parte del agente de la comisión pactada en el contrato celebrado
+
+En términos del artículo 6 del presente Reglamento, la información que el Canal Alterno de Distribución proporcione a la Entidad, en el sentido de que utilizará puntos de venta, equipos o terminales y medios de comunicación ajenos, no se entenderá como oferta de delegación de la comisión mercantil y por tanto no será causa de terminación de dicha comisión o de impedimento para celebrarla.
 
 c) El agente contravenga lo dispuesto en el artículo 7o. del presente Reglamento, promoviendo o comercializando juegos, concursos o sorteos no autorizados.
 
@@ -319,11 +335,17 @@ b) El agente o el personal subordinado a su cargo se niegue a pagar los premios,
 
 c) El agente o el personal subordinado a su cargo se niegue a registrar cualquier apuesta de los productos que Pronósticos comercialice.
 
-En caso de que el agente o el personal subordinado incurra en tres ocasiones en las conductas referidas en los incisos anteriores, en un periodo de seis meses, contados a partir de la fecha de la primera amonestación, Pronósticos podrá dar por terminado el contrato de comisión mercantil.
-
 > <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
 
 d) En el caso de que se compruebe una mala Atención y Servicio a los consumidores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 26 DE NOVIEMBRE DE 2009)</small>
+
+e) El agente se niegue a participar en los programas de capacitación.
+
+(REFORMADO Y REUBICADO [N. DE E. ANTES SEGUNDO PARRAFO DEL INCISO C)], D.O.F. 26 DE NOVIEMBRE DE 2009)
+
+En caso de que el agente o el personal subordinado incurra en tres ocasiones en las conductas referidas en los incisos anteriores en un periodo de seis meses, contados a partir de la fecha de la primera amonestación, Pronósticos podrá dar por terminado de manera unilateral y sin incurrir en responsabilidad alguna el contrato de comisión mercantil.
 
 ###### Artículo 25o.
 
@@ -364,3 +386,9 @@ Primero.- El presente acuerdo entrará en vigor al siguiente día de su publicac
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
+
+D.O.F. 26 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las establecidas en el presente Decreto.
