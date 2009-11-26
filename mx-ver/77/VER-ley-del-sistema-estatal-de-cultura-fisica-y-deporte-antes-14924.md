@@ -4,7 +4,7 @@ identifier: "VER-ley-del-sistema-estatal-de-cultura-fisica-y-deporte-antes-14924
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-12"
-last_updated: "2007-01-09"
+last_updated: "2009-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DEL SISTEMA ESTATAL DE CULTURA FISICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NUMERO 583 DEL SISTEMA ESTATAL DE CULTURA FISICA Y DEPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 26 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 12 de agosto de 1999.
 
@@ -910,3 +912,13 @@ G.O. 6 DE JULIO DE 2006.
 G.O. 9 DE ENERO DE 2007.
 
 Único.- Este Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+G.O. 26 DE NOVIEMBRE DE 2009.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se abroga la Ley del Sistema Estatal del Deporte, publicada el 9 de enero de 2007, en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan a la presente ley.
+
+Cuarto. El Reglamento de la Ley del Sistema Estatal de Cultura Física y Deporte deberá expedirse dentro de los sesenta días siguientes a la fecha de entrada en vigor de la presente ley.
