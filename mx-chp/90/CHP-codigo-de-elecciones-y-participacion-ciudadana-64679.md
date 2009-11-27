@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-64679"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-27"
-last_updated: "2009-04-03"
+last_updated: "2009-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 27 de agosto de 2008.
 
@@ -291,11 +291,11 @@ Los partidos políticos o coaliciones, en un mismo proceso electoral, no podrán
 
 ### Capítulo I. De los sistemas electorales
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 24.
 
-El ejercicio del Poder Legislativo se deposita en una asamblea de representantes del pueblo que se denomina Congreso del Estado, que se instalará conforme a lo dispuesto en al (sic) Constitución Particular. Se integra con veinticuatro Diputados electos en igual número de distritos electorales según el principio de mayoritaria (sic) relativa y dieciséis electos según el principio de representación proporcional, por el sistema de lista estatal integrada por hasta dieciséis candidatos propietarios y sus respectivos suplentes por partido político o coalición. Por cada Diputado propietario se elegirá un suplente.
-
-Los Diputados electos en elecciones extraordinarias concluirán el período de la Legislatura respectiva.
+El ejercicio del Poder Legislativo se deposita en una asamblea de representantes del pueblo que se denomina Congreso del Estado, que se instalará conforme a lo dispuesto en la Constitución Particular. Se integra con veinticuatro Diputados electos en igual número de distritos electorales según el principio de mayoritaria (sic) relativa y dieciséis electos según el principio de representación proporcional, por el sistema de lista estatal integrada por hasta dieciséis candidatos propietarios y sus respectivos suplentes por partido político o coalición. Por cada Diputado propietario se elegirá un suplente conforme a lo dispuesto por el artículo 234 de este Código.
 
 ###### Artículo 25.
 
@@ -3031,7 +3031,11 @@ Los plazos para solicitar el registro de las candidaturas en el año de la elecc
 
 I. Para Gobernador del Estado comenzará 83 días antes del día de la elección, y terminará 77 días antes de la elección.
 
-II. Para Diputados por ambos principios y miembros de los Ayuntamientos, comenzará 73 días antes del día de la elección y terminará 67 días antes de la elección. El Consejo General podrá realizar ajustes a los plazos establecidos en este artículo a fin de garantizar los relativos al registro y que la duración de las campañas electorales se ciña a lo establecido en este Código.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+II. Para Diputados por ambos principios y miembros de los ayuntamientos, comenzará 43 días antes de la elección y terminará 37 días antes de la elección.
+
+El Consejo General podrá realizar ajustes a los plazos establecidos en este artículo a fin de garantizar los relativos al registro y que la duración de las campañas electorales se ciña a lo establecido en este Código.
 
 Los Consejos Electorales, dentro del ámbito de su competencia, publicarán con diez días de anticipación los avisos en sus respectivas demarcaciones de la apertura del período del registro de candidaturas y de los plazos a que se refiere el presente Capítulo.
 
@@ -3047,11 +3051,17 @@ Las candidaturas a miembros de los Ayuntamientos se registrarán por planillas i
 
 Los partidos políticos podrán registrar listas de candidatos a Diputados de representación proporcional, siempre y cuando hubieren registrado candidatos a Diputados de mayoría relativa en cuando menos la mitad del total de los distritos electorales.
 
-Los partidos políticos deben incluir entre sus candidatos propietarios a Diputados de mayoría relativa al Congreso del Estado y a integrantes de los Ayuntamientos, a no más del setenta por ciento de un sólo sexo y no menos de treinta por ciento de jóvenes menores de treinta años.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-Las listas de representación proporcional se integrarán por segmentos de tres candidaturas. En cada uno de los tres primeros segmentos de cada lista, habrá una candidatura de género distinto. Lo anterior, sin perjuicio de los mayores avances que en esta materia señale la normatividad interna y los procedimientos de cada partido político.
+De la totalidad de solicitudes de registro para candidatos propietarios a diputados de mayoría relativa al Congreso del Estado, así como para integrantes de los ayuntamientos, que presenten los partidos políticos o las coaliciones ante el Instituto, deberán integrarse de manera paritaria entre los dos géneros; cuando el número de candidaturas sea impar, la mayoría deberá corresponder al género femenino. Se exceptúan de lo anterior las candidaturas que sean resultado de un proceso de elección democrático, conforme a los estatutos de cada partido.
 
-En caso de incumplimiento de lo prescrito en los dos párrafos anteriores, no se registrarán a los candidatos de los partidos políticos o coaliciones de la elección de que se trate hasta en tanto se garantice la equidad de género y el porcentaje de jóvenes.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+Las listas de candidatos a diputados propietarios de representación proporcional de cada partido o coalición se integrarán por segmentos de dos candidaturas, una para cada género, en el orden de prelación, por segmento, que decida cada partido o coalición. Tratándose de formulas en que el candidato propietario sea del género femenino, los suplentes deberán ser del mismo género. Del total de candidaturas registradas por el principio de representación proporcional, al menos un treinta por ciento deberá corresponder a candidatos o candidatas propietarios de no más de treinta años.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+En caso de incumplimiento de lo prescrito en los dos párrafos anteriores, El Consejo General del Instituto requerirá al partido político o coalición para que en el plazo de 48 horas, contadas a partir de la notificación, rectifique la solicitud de registro. En caso de no hacerlo, el Consejo General dictará de inmediato las medidas conducentes, incluyendo el cambio en el orden de prelación de las candidaturas incluidas en la lista para la que se solicita registro. Si lo anterior no fuese posible y el partido político o coalición no rectifica, dentro de un plazo de 24 horas contadas a partir de la segunda notificación, se negará el registro a la lista completa.
 
 Asimismo, en las zonas de predominancia en población indígena, los partidos políticos deberán registrar preferentemente candidatos de origen indígena.
 
@@ -3141,19 +3151,29 @@ Inmediatamente después de haber emitido el acuerdo sobre los registros respecti
 
 Por campaña electoral se entiende el conjunto de actividades llevadas a cabo por los partidos políticos, las coaliciones y sus candidatos registrados para la obtención del voto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 241.
 
-Las campañas políticas iniciarán, en el caso de gobernador, 73 días antes al de la jornada electoral y las de Diputados, 63 días antes al día en que se verificará la jornada electoral, debiendo culminar en todos los casos conforme a lo dispuesto en el artículo 246 de este Código. Las propuestas de campaña a que se refiere la Constitución Particular, deberán registrarse ante la Comisión en la semana en que habrán de concluir las campañas políticas, conforme a las disposiciones preceptuadas en este Código.
+Las campañas políticas iniciarán, en el caso de Gobernador, 63 días antes de la jornada electoral y las de Diputados, 33 días antes al día en que se verificará la jornada electoral, debiendo culminar en todos los casos conforme a lo dispuesto en el artículo 246 de este Código. Las propuestas de campaña a que se refiere la Constitución Particular, deberán registrarse ante la Comisión en la semana en que habrán de concluir las campañas políticas, conforme a las disposiciones preceptuadas en este Código.
 
 El inicio de las campañas políticas en los Ayuntamientos, se sujetará a las reglas siguientes:
 
-I. En los municipios cuyo número de ciudadanos inscritos en la lista nominal de electores del municipio de que se trate, no exceda de veinticinco mil, las campañas políticas iniciarán 33 días antes al día en que se verificará la jornada electoral.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-II. En los municipios cuyo número de ciudadanos inscritos en la lista nominal de electores del municipio de que se trate, sea superior a veinticinco mil pero no exceda de cincuenta mil, las campañas políticas iniciarán 43 días antes al día en que se verificará la jornada electoral.
+I. En los municipios cuyo número de ciudadanos inscritos en la lista nominal de electores del municipio de que se trate, no exceda de veinticinco mil, las campañas políticas iniciarán 18 días antes al día en que se verificará la jornada electoral.
 
-III. En los municipios cuyo número de ciudadanos inscritos en la lista nominal de electores del municipio de que se trate, sea mayor a cincuenta mil pero no supere los setenta y cinco mil, las campañas políticas iniciarán 53 días antes al en que se verificará la jornada electoral.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-IV. En los municipios cuyo número de ciudadanos inscritos en la lista nominal de electores del municipio de que se trate, exceda de setenta y cinco mil, iniciarán 63 días antes al día en que se verificará la jornada electoral.
+II. En los municipios cuyo número de ciudadanos inscritos en la lista nominal de electores del municipio de que se trate, sea superior a veinticinco mil pero no exceda de cincuenta mil, las campañas políticas iniciarán 23 días antes al en que se verificará la jornada electoral.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+III. En los municipios cuyo número de ciudadanos inscritos en la lista nominal de electores del municipio de que se trate, sea mayor a cincuenta mil pero no supere los setenta y cinco mil, las campañas políticas iniciarán 28 días antes al en que se verificará la jornada electoral.
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+IV. En los municipios cuyo número de ciudadanos inscritos en la lista nominal de electores del municipio de que se trate, exceda de setenta y cinco mil iniciarán, 33 días antes al día en que se verificará la jornada electoral.
 
 V. Para todos los supuestos de las fracciones que anteceden, la lista nominal electoral que se tomará en cuenta será la que el Instituto utilice para el proceso electoral del año que corresponda.
 
@@ -3233,7 +3253,7 @@ b) Los partidos políticos deberán solicitar el uso de los locales con suficien
 
 Los partidos políticos que infrinjan las disposiciones contenidas en este artículo, podrán ser denunciados ante las autoridades electorales administrativas correspondientes en términos del presente Código.
 
-En el supuesto de que la Comisión determine que la propaganda se hubiere fijado en contravención a lo dispuesto en este precepto, concederá un plazo de dos días para que el partido político de que se trate la borre o quite, según sea el caso, con las salvedades previstas en la hipótesis prevista en la fracción VII, de no hacerlo, se pedirá a la autoridad municipal que lo haga pero el costo que ello implique se duplicará y le será deducido del financiamiento público que le corresponda, entregándose el monto correspondiente al Ayuntamiento que sufragó el gasto.
+En el supuesto de que la Comisión determine que la propaganda se hubiere fijado en contravención a lo dispuesto en este precepto, concederá un plazo de dos días para que el partido político de que se trate la borre o quite, según sea el caso, con las salvedades prevista en la hipótesis previstas en la fracción VII, de no hacerlo, se pedirá a la autoridad municipal que lo haga pero el costo que ello implique se duplicará y le será deducido del financiamiento público que le corresponda, entregándose el monto correspondiente al Ayuntamiento que sufragó el gasto.
 
 En el caso de los particulares, se aplicarán las mismas reglas anteriores.
 
@@ -6353,6 +6373,46 @@ P.O. 3 DE ABRIL DE 2009.
 
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
 
-Artículo Segundo. Por única ocasión, el proceso estatal electoral del año dos mil diez, dará inicio con la primera sesión que al efecto realice el Consejo General del Instituto de Elecciones y Participación Ciudadana, el 15 de enero de ese año, conforme al calendario que sea emitido por el propio órgano electoral.
+Artículo Segundo. (DEROGADO, P.O. 27 DE NOVIEMBRE DE 2009)
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2009.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Estado.
+
+Segundo.- Se deroga el Artículo Segundo Transitorio del Decreto por el que se reforman diversas disposiciones del Código de Elecciones y Participación Ciudadana, publicado en el Periódico Oficial número 156, Tomo III, de fecha tres de abril del año dos mil nueve.
+
+Tercero.- El proceso electoral para elegir a los diputados a la LXlV legislatura del H. Congreso del Estado de Chiapas, cuya jornada comicial tendrá lugar el primer domingo de julio de 2010, se regirá por lo dispuesto en el Código de Elecciones y Participación Ciudadana, salvo por lo siguiente:
+
+l. El inicio del proceso electoral ordinario del año 2010, en el que se elegirán Diputados al Congreso del Estado, a que se refiere el primer párrafo del artículo 219 del Código, tendrá lugar con la sesión del Consejo General del Instituto de Elecciones y Participación Ciudadana que se realice el día primero de marzo del año de la elección.
+
+II. El tope de gastos de precampaña, a que se refiere el artículo 229 del Código, quedará determinado, a más tardar, el 10 de marzo de 2010, y será equivalente al 20 por ciento del tope de gastos de campaña que el Consejo General del Instituto de Elecciones y Participación Ciudadana determine, dentro del mismo plazo antes señalado, para las respectivas campañas de diputados locales.
+
+III. Los consejos distritales a que se refiere el artículo 159 del Código deberán quedar instalados a más tardar el 15 de marzo de 2010.
+
+IV. La notificación a que se refiere el artículo 223 del Código, deberá ser presentada al Consejo General del Instituto, a más tardar el 2 de marzo de 2010, misma fecha en que los partidos políticos deberán presentar, en su caso, el convenio de coalición.
+
+V. El registro de las plataformas electorales de los partidos políticos, a que se refiere el párrafo décimo primero del artículo 234 del Código, quedará abierto el 2 de marzo de 2010 y concluirá el 15 de marzo de 2010.
+
+VI. Los partidos deberán comunicar al Instituto los nombres de los precandidatos a diputados locales que participarán en los correspondientes procesos de selección interna, a más tardar el 27 de marzo de 2010.
+
+VII. Las precampañas electorales, a que se refiere el artículo 225 del Código, tendrán una duración máxima de diez días, iniciando el 2 de abril de 2010.
+
+VIII. El Tribunal Electoral del Estado deberá resolver los recursos que se presenten en contra de los resultados de los procesos de selección interna de candidatos que celebren los partidos políticos o coaliciones, a más tardar el 2 de mayo de 2010.
+
+IX. La duración de las campañas electorales para Diputados al Congreso del Estado, a que se refiere el artículo 241 del Código, será de treinta días, iniciando el 1 de junio de 2010 y concluyendo el 30 de junio de 2010.
+
+X. Los plazos para el registro de candidatos a Diputados al Congreso del Estado, a que se refiere el artículo 233 del Código, tanto por el principio de mayoría relativa como de representación proporcional, será del 25 al 27, inclusive, de mayo de 2010.
+
+XI. Los órganos competentes del Instituto deberán emitir las resoluciones sobre validez de los registros de candidatos a más tardar el 31 de mayo de 2010.
+
+Se autoriza al Consejo General del Instituto de Elecciones y Participación Ciudadana a realizar los demás ajustes de plazos y fechas, que resulten estrictamente necesarios, para garantizar la realización de la jornada electoral el primer domingo de julio de 2010.
+
+(NOTA: EL 15 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 87/2009 Y SU ACUMULADA 88/2009, DECLARÓ LA INVALIDEZ DEL ARTÍCULO CUARTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+CUARTO.- POR ÚNICA VEZ, COMO EXCEPCIÓN A LO ESTABLECIDO EN EL ARTÍCULO 92 DEL CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, EL FINANCIAMIENTO A LOS PARTIDOS POLÍTICOS PARA LA OBTENCIÓN DEL VOTO EN LA CAMPAÑA ELECTORAL LOCAL DEL AÑO 2010, SERÁ EQUIVALENTE AL QUINCE POR CIENTO DEL FINANCIAMIENTO PÚBLICO QUE PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES LE CORRESPONDA A CADA PARTIDO PARA EL MISMO AÑO.
+
+Quinto.- Tratándose de los juicios de nulidad electoral, relativos a la elección de Diputados locales, el Tribunal de Justicia Electoral y Administrativa, del Poder Judicial del Estado deberá resolverlos, a más tardar, el día 31 de septiembre del año 2010.
+
+Sexto.- Se derogan, o en su caso quedan sin efecto para el proceso electoral del año dos mil diez, todas las disposiciones que se opongan al presente Decreto.
