@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-para-3251"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-04"
-last_updated: "2007-10-19"
+last_updated: "2009-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3251&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 4 de agosto de 1995.
 
@@ -817,11 +817,13 @@ En el caso de internos condenados por delitos culposos, la Subsecretaría, previ
 
 ### CAPITULO II. DE LA CONMUTACION ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 91.
 
-Tratándose de ancianos mayores de sesenta y cinco años, enfermos, o de mujeres con hijos menores que hayan cumplido al menos la mitad de la pena, el Gobernador del Estado, a solicitud de la Subsecretaría, podrá conmutar la pena o medida privativa de la libertad de custodia familiar, trabajo en comunidad o reclusión domiciliaria, siempre que el Consejo Técnico Interdisciplinario certifique la ausencia de peligrosidad social del interno, y no se trate de los delitos de homicidio intencional, secuestro o violación.
+Tratándose de ancianos mayores de sesenta y cinco años, enfermos, o de mujeres con hijos menores que hayan cumplido al menos la mitad de la pena, el Gobernador del Estado, a solicitud de la Subsecretaría, podrá conmutar la pena o medida privativa de la libertad de custodia familiar, trabajo en comunidad o reclusión domiciliaria, siempre que el Consejo Técnico Interdisciplinario certifique la ausencia de peligrosidad social del interno, y no se trate de los delitos de homicidio intencional o calificado, secuestro o violación.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 En cualquier caso, en tratándose de trastornados o retardados mentales, se remitirán previa certificación del consejo técnico interdisciplinario a una institución de salud mental y en ningún caso serán recluídos en centro penitenciario alguno.
 
@@ -837,9 +839,9 @@ II.- Que haya observado buena conducta durante la ejecución de la sentencia.
 
 III.- Que tenga un oficio, arte o profesión que le permita solventar sus necesidades, o bienes suficientes para este efecto.
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-VI.- Que no haya cometido secuestro, violación u homicidio intencional.
+VI.- Que no haya cometido secuestro, violación u homicidio intencional o calificado.
 
 V.- Que haya pagado o garantizado la reparación del daño causado.
 
@@ -1308,3 +1310,7 @@ PRIMERO.- Las presentes Reformas entrarán en vigor 30 días después de su publ
 SEGUNDO.- El Ejecutivo del Estado tendrá un plazo de 30 días a partir de la publicación de las presentes Reformas en el Periódico Oficial del Estado, para realizar mediante la Secretaría de Seguridad Publica los convenios con las instituciones privadas y públicas que reúnan los requisitos a los que refiere la Ley de Rehabilitación y Reintegración Social de Personas con Problemas de Drogadicción y Alcoholismo para el Estado de Baja California.
 
 TERCERO.- El Ejecutivo del Estado, en un plazo no mayor de 30 días deberá elaborar el Reglamento de la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California, particularmente en lo que toca al procedimiento y recursos administrativos, el otorgamiento y vigilancia de los beneficios de libertad, el procedimiento del tratamiento para dependientes a las bebidas alcohólicas, estupefacientes y psicotrópicos en las instituciones públicas y privadas, el procedimiento, las funciones del Consejo Técnico Interdisciplinario, la institución del régimen abierto y el servicio social de pasantes y voluntarios.
+
+P.O. 27 DE NOVIEMBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
