@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-instituto-electoral-de-quintana-roo-25785"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2009-04-15"
+last_updated: "2009-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -331,11 +331,11 @@ XL.- Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuci
 
 En las elecciones ordinarias, el funcionamiento del Consejo General se ajustará a los plazos y términos establecidos en la Ley Electoral, en la Ley de Medios y en el presente ordenamiento. Tratándose de elecciones extraordinarias, se ajustará a los plazos que establezca la convocatoria respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 16.
 
-Para la preparación de los procesos electorales ordinarios, el Consejo General hará la declaratoria de inicio el día primero de marzo del año de la elección, a fin de realizar los actos correspondientes.
+Para la preparación de los procesos electorales ordinarios, el Consejo General hará la declaratoria de inicio el día 16 de marzo del año de la elección, a fin de realizar los actos correspondientes.
 
 Durante el proceso electoral, el Consejo General deberá sesionar en forma ordinaria por lo menos dos veces al mes y en forma extraordinaria a convocatoria del Consejero Presidente cuando lo estime necesario o a petición de la mayoría de los Consejeros Electorales o de los representantes de los partidos políticos.
 
@@ -1511,11 +1511,13 @@ Los representantes de los partidos o coaliciones ante las Mesas Directivas de Ca
 
 Los representantes de los partidos políticos deberán registrarse y obtener su acreditación ante el Consejo General, dentro de los nueve días anteriores del inicio del proceso electoral y podrán ser sustituidos en cualquier tiempo por el partido político que los registró mediante escrito presentado ante la autoridad electoral correspondiente.
 
-REFORMADO, P.O. 3 DE MARZO DE 2009)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 83.
 
-Los partidos políticos o coaliciones deberán registrar en la Dirección de Partidos Políticos y obtener de ésta, la acreditación de sus representantes ante los Consejos Municipales y los Distritales del Instituto, a más tardar el día 31 de marzo del año anterior de la elección.
+Los partidos políticos y/o coaliciones deberán registrar en la Dirección de Partidos Políticos y obtener de ésta, la acreditación de sus representantes ante los Consejos Municipales y los Distritales del Instituto, a más tardar el día 31 de marzo del año de la elección.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 En este caso, los representantes de los partidos políticos y coaliciones, deberán presentar ante los Consejos Municipales y los Distritales del Instituto, la acreditación expedida por la Dirección de Partidos Políticos.
 
@@ -1802,3 +1804,9 @@ P.O. 15 DE ABRIL DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
