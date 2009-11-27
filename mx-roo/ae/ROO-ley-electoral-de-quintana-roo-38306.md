@@ -4,7 +4,7 @@ identifier: "ROO-ley-electoral-de-quintana-roo-38306"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-04"
-last_updated: "2009-11-13"
+last_updated: "2009-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ELECTORAL DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 4 de marzo de 2004.
 
@@ -1253,15 +1253,19 @@ X. La plataforma electoral que sustente la postulación presentada por la coalic
 
 XI. La especificación del partido o grupo parlamentario a que pertenecerán los diputados por el principio de representación proporcional que les correspondan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 107.
 
-Los partidos políticos que pretendan formar una coalición, deberán manifestar por escrito al Consejero Presidente del Instituto, y durante sus ausencias, al Secretario General, su propósito de constituirla dentro de los diez días siguientes al inicio del proceso electoral, debiendo acompañar en el mismo acto de solicitud, el calendario en el que se especifiquen las fechas para la celebración de sus Asambleas respectivas u órganos equivalentes.
+Los partidos políticos que pretendan formar una coalición, deberán manifestar por escrito al Consejero Presidente del Instituto, y durante sus ausencias, al Secretario General, su propósito de constituirla a partir del inicio del proceso electoral y hasta el día 19 de marzo del año de la elección, debiendo acompañar en el mismo acto de solicitud, el calendario en el que se especifiquen las fechas para la celebración de sus Asambleas respectivas u órganos equivalentes.
 
-Dentro de los tres días siguientes al plazo señalado en el párrafo anterior, el Consejero Presidente designará una Comisión o las que se requieran para efecto de verificar la celebración de las asambleas mencionadas, en todo caso, no podrán concurrir dos o más comisiones para constatar una misma asamblea o reunión.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+Al día siguiente del plazo señalado en el párrafo anterior, el Consejero Presidente designará una Comisión o las que se requieran para efecto de verificar la celebración de las asambleas mencionadas, en todo caso, no podrán concurrir dos o más comisiones para constatar una misma asamblea o reunión.
 
-En todo caso, las asambleas referidas en el presente artículo, deberán realizarse entre el 14 de Marzo y el 6 de Abril del año de la elección.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+En todo caso, las asambleas referidas en el presente artículo, deberán realizarse entre el 21 de Marzo y el 5 de Abril del año de la elección.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -1349,11 +1353,11 @@ F. Órgano responsable del financiamiento, en términos de esta Ley.
 
 El proceso electoral es el conjunto de actos ordenados por la Constitución Particular y esta Ley, realizados por las autoridades electorales, los partidos políticos y los ciudadanos, para la renovación periódica del Gobernador, diputados y miembros de los ayuntamientos.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 117.
 
-El proceso electoral ordinario para la elección de Gobernador, diputados y miembros de los Ayuntamientos, inicia el primero de marzo del año de la elección y concluye con la toma de posesión de los cargos.
+El proceso electoral ordinario para la elección de Gobernador, diputados y miembros de los Ayuntamientos, inicia el 16 de marzo del año de la elección y concluye con la toma de posesión de los cargos.
 
 ###### Artículo 118.
 
@@ -1365,11 +1369,11 @@ II. Jornada electoral; y
 
 III. Resultados y declaración de validez de la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 119.
 
-La etapa de preparación de la elección, se inicia con la primera sesión que el Consejo General celebre el primero de marzo del año de la elección y concluye al iniciarse la Jornada Electoral.
+La etapa de preparación de la elección, se inicia con la primera sesión que el Consejo General celebre el 16 de marzo del año de la elección y concluye al iniciarse la Jornada Electoral.
 
 Para tal efecto, el Consejo General celebrará sesión solemne en la que hará la Declaratoria de Inicio del Proceso Electoral.
 
@@ -1391,9 +1395,9 @@ La etapa de resultados y declaración de validez de la elección, se inicia con 
 
 Los ciudadanos mexicanos podrán participar como observadores durante todo el proceso electoral, en la forma y términos que determine el Consejo General, de acuerdo con las siguientes bases:
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-I. Los interesados en la observación electoral, podrán presentar su solicitud de acreditación a partir del primero de Marzo del año de la elección;
+I. Los interesados en la observación electoral, podrán presentar su solicitud de acreditación a partir del 16 de Marzo del año de la elección;
 
 II. Sólo podrán participar los ciudadanos que hayan obtenido oportunamente su acreditación ante el Consejo General, misma que será individual e intransferible;
 
@@ -1685,7 +1689,7 @@ La fecha límite para la recepción de dichas solicitudes será el día seis de 
 
 El Instituto gestionará ante las autoridades competentes la trasmisión de los debates en radio y televisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LAS LEY.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1701,7 +1705,7 @@ d).- Que bajo el principio de imparcialidad, sean invitados a los debates públi
 
 e).- Que todo aquel debate público que no sea realizado por el Instituto, cumpla con las disposiciones señaladas en las anteriores bases.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LAS LEY.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3021,6 +3025,10 @@ III. Propaganda de precampaña electoral: Al conjunto de escritos, publicaciones
 
 IV. Aspirante a candidato: A los ciudadanos que deciden contender al interior de un determinado partido político o coalición, con el fin de alcanzar su nominación como candidato a un puesto de elección popular.
 
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+V. Proceso democrático interno: Conjunto de actos que realizan los órganos internos de los partidos políticos con el propósito de postular candidatos a cargos de elección popular.
+
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
 
 ###### Artículo 270.
@@ -3047,7 +3055,9 @@ Si se advierten omisiones de uno o varios requisitos, se notificará de inmediat
 
 En caso de incumplimiento a lo anterior, la Dirección de Partidos Políticos lo hará del conocimiento del Consejo General para que éste determine que dichos aspirantes a candidatos no podrán desarrollar sus actos de precampaña por el partido político que se trate.
 
-Las precampañas electorales que realicen los partidos políticos no podrán iniciar antes de los cuarenta y cinco días naturales previos al de la apertura de registro de candidatos de la elección de que se trate, debiendo concluir a más tardar un día antes del inicio del período de solicitud de registro de candidatos que establece la presente Ley.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+Los procesos democráticos internos que realicen los partidos políticos no podrán iniciar antes de los cuarenta y cinco días naturales previos al de la apertura de registro de candidatos de la elección de que se trate, debiendo concluir a más tardar un día antes del inicio del período de solicitud de registro de candidatos que establece la presente ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2009)</small>
 
@@ -3338,3 +3348,9 @@ P.O. 13 DE NOVIEMBRE DE 2009.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo, mismo que entrará en vigor al día siguiente que adquiera vigencia el Decreto por el que se reforma el párrafo tercero de la fracción II del Artículo 49 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 SEGUNDO.- El reglamento a que se refiere el Artículo 144 de la Ley Electoral del Estado, deberá ser expedido a más tardar dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
