@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2009-11-13"
+last_updated: "2009-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1353,11 +1353,11 @@ Lesiones causadas por animal.- De las lesiones que a una persona cause algún an
 
 Concepto.- Por riña se entiende para todos los efectos penales, la contienda de obra y no la de palabra entre dos o más personas, con el propósito de dañarse recíprocamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 147.
 
-Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía o traición; de igual manera serán considerados calificados, cuando se cometan en contra de agentes integrantes de las corporaciones de seguridad pública en ejercicio o como consecuencia del desempeño de sus funciones, incluyendo a los elementos de las empresas privadas y a los que de manera independiente presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, así como de bienes o valores incluido su traslado, siempre y cuando estén debidamente registrados ante los organismos públicos correspondientes. La presente disposición no surtirá efectos en el caso de delitos no graves por culpa.
+Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía o traición; de igual manera serán considerados calificados, cuando se cometan en contra de miembros de las instituciones policiales del Estado en ejercicio o como consecuencia del desempeño de sus funciones, incluyendo a los elementos de las empresas privadas y a los que de manera independiente presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, así como de bienes o valores incluido su traslado, siempre y cuando estén debidamente registrados ante los organismos públicos correspondientes. La presente disposición no surtirá efectos en el caso de delitos no graves por culpa.
 
 Concepto de premeditación.- Hay premeditación, siempre que el reo cause intencionalmente una lesión, después de haber reflexionado sobre el delito que va a cometer.
 
@@ -2751,6 +2751,10 @@ LENOCINIO Y TRATA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE QUIENES NO
 
 Tipo y punibilidad.- Se impondrá prisión de dos a ocho años y hasta quinientos días multa al que de manera permanente tomare participación en una asociación o banda de tres o más personas, organizada para delinquir, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiere cometer o haya cometido.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+Si en estas asociaciones o bandas participan miembros de las instituciones policiales del Estado se aumentará en una mitad la pena señalada en este artículo, independientemente de la pena que le corresponda por el delito que pudiere cometer o haya cometido.
+
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 248.
@@ -3279,9 +3283,9 @@ Concepto.- Para los efectos de éste Código, servidor público es toda persona 
 
 Sanciones adicionales.- Los servidores públicos que cometan alguno de los delitos previstos en el presente título, además de las penas de prisión y multa que en cada caso se señalen, serán privados del cargo y quedarán inhabilitados para desempeñar otro empleo, cargo o comisión públicos, hasta por el mismo tiempo que el señalado en las penas privativas de libertad.
 
-> <small>(ADICIONADO, P.O. 4 DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-Artículo 289 BIS.- Cuando los delitos previstos por los artículos 293, 306 y 307 BIS, de abuso de autoridad, intimidación y tortura, contenidos en este Título, sean cometidos por servidores públicos miembros de alguna corporación policial, las penas previstas se aumentarán en una tercera parte.
+Artículo 289 BIS.- Cuando los delitos previstos por los artículos 293, 306 y 307 BIS, de abuso de autoridad, intimidación y tortura, contenidos en este Título, sean cometidos por miembros de las instituciones policiales del Estado, las penas previstas se aumentarán en una tercera parte.
 
 ### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
 
@@ -3575,15 +3579,17 @@ Tipo y punibilidad.- Al que de palabra o de obra ultraje a una autoridad en el e
 
 Para los efectos de esta disposición, se entiende por ultraje toda acción o expresión ejecutada con el ánimo de denigrar u ofender a algún funcionario o agente de la autoridad.
 
-> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-Artículo 317 BIS.- Delitos cometidos contra funcionarios públicos o agentes de seguridad pública.- Al que cometa un delito en contra de un funcionario público o agente activo de los cuerpos de seguridad pública de los Municipios, del Estado o de la Federación, en el acto de ejercer sus funciones o con motivo de ellas se le impondrá prisión de cinco a diez años, además de la que le corresponda por el delito cometido.
+Artículo 317 BIS.- delitos cometidos contra miembros de las instituciones policiales del Estado.- .Al que cometa un delito en contra de los miembros activos de las instituciones policiales del Estado, en el acto de ejercer sus funciones o con motivo de ellas se le impondrá prisión de cuatro a doce años, además de la que le corresponda por el delito cometido.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1997)</small>
 
 Esta disposición no surtirá efectos en los casos de delitos no graves por culpa o imprudenciales.
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-En el caso de Homicidio y lesiones calificadas contra algún agente activo de los cuerpos de seguridad pública se atenderá a lo dispuesto por el Artículo 147 del presente código.
+En el caso de Homicidio y lesiones calificadas contra algún miembro activo de las instituciones policiales del Estado, se atenderá a los (sic) dispuesto en el artículo 147 del presente Código.
 
 ###### Artículo 318.
 
@@ -4594,3 +4600,7 @@ P.O. 9 DE OCTUBRE DE 2009.
 P.O. 13 DE NOVIEMBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE NOVIEMBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
