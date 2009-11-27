@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2009-05-18"
+last_updated: "2009-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -549,47 +549,63 @@ A la Secretaría de Comunicaciones y Obras Públicas le corresponde el despacho 
 
 I. Formular y conducir las políticas en materia de comunicaciones y obras públicas de acuerdo a las necesidades del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-II. Realizar directamente, por conducto de la Comisión Constructora de Sinaloa o a través de terceros, todas las obras públicas del Gobierno del Estado, conforme a los programas y presupuestos aprobados, por dichas dependencias y organismos, incluyendo su conservación y mantenimiento, con excepción de las correspondientes al programa general de obra en infraestructura educativa, incluyendo los subprogramas básico, emergente y el del Programa de Abatir el Rezago en la Educación Inicial y Básica, las cuales serán realizadas por el Comité Administrador del Programa de Construcción de Escuelas del Estado de Sinaloa;
+II. Realizar los procesos de licitación y contratación de las obras públicas y servicios relacionados con las mismas, conforme a los programas y presupuestos aprobados, con excepción de las que específicamente se determinen a otras dependencias, entidades u organismos;
 
 III. Elaborar directamente o a través de terceros, los proyectos de ingeniería y arquitectónicos que se requieran para las obras públicas de las dependencias y organismos del Gobierno del Estado, incluyendo el cálculo de costos de dichos proyectos, para efectos de aprobación y ejercicio del presupuesto.
 
 Los proyectos anteriores se elaborarán considerando las solicitudes de las dependencias y organismos del Gobierno del Estado, las cuales, además, tendrán la atribución de aprobarlos para incluirlos en sus programas y presupuestos respectivos;
 
-(REFORMADA, P.O. 23 DE ENERO DE 2008) (F. DE E., P.O. 25 DE ENERO DE 2008)
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-IV. Construir, reconstruir y conservar directamente o a través de la Comisión Constructora de Sinaloa, los caminos, puentes, edificios públicos, monumentos, obras de ornato, plazas, paseos y parques públicas, instalaciones y obras públicas en general del Estado o que estén a su cargo, excepto las encomendadas al sector educativo, a los ayuntamientos o por disposición expresa de la ley a otras dependencias;
+IV. Proyectar, contratar, vigilar y supervisar la construcción de las obras públicas y servicios relacionados con las mismas que requieran las dependencias y organismos estatales, por sí o en cooperación con el gobierno federal, con los municipios, con otras entidades públicas o con los particulares y que no se encomienden expresamente a otras dependencias u organismos;
 
-V. Realizar directamente, a través de la Comisión Constructora de Sinaloa o de terceros, las obras públicas que establezcan los convenios del Gobierno del Estado o sus dependencias y organismos, con los ayuntamientos;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-VI. Construir, reconstruir y conservar directamente o a través de la Comisión Constructora de Sinaloa, los caminos, puentes, edificios públicos, monumentos, obras de ornato, plazas, paseos y parques públicos, instalaciones y obras públicas en general del Estado o que estén a su cargo, excepto las encomendadas a los ayuntamientos o por disposición expresa de la ley a otras dependencias;
+V. Otorgar asesoría para la realización de obras públicas que se establezcan mediante convenios que celebren el Ejecutivo del Estado, sus dependencias u organismos, con los municipios;
 
-VII. Establecer las bases y normas para la celebración de contratos de construcción, conservación y de obras públicas en general en las que intervenga el Gobierno del Estado, seguir sus procedimientos, adjudicarlos y celebrarlos en su caso;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+VI. Realizar las convocatorias para construir, reconstruir y conservar, los caminos, puentes, edificios públicos, monumentos, obras de ornato, plazas, paseos y parques públicos, instalaciones y obras públicas en general del Estado o que estén a su cargo, excepto las correspondientes a la infraestructura física educativa, las encomendadas a los ayuntamientos o por disposición expresa de la ley, a otras dependencias;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+VII. Establecer las bases y normas para la celebración de contratos de construcción, conservación y de obras públicas en general en las que intervenga el Ejecutivo del Estado, seguir sus procedimientos, registrarlos, analizarlos y validarlos para su difusión correspondiente;
 
 VIII. Participar en los términos que establezca la Ley de Obras Públicas del Estado y sus reglamentos, en la celebración de concursos para la realización de obras públicas;
 
-IX. Supervisar técnicamente todas las obras públicas que se realicen en la Entidad y vigilar el cumplimiento de los contratos relativos en los que el Gobierno del Estado intervenga;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+IX. Supervisar técnicamente todas las obras públicas que se realicen por el Poder Ejecutivo Estatal y vigilar el cumplimiento de los contratos relativos en los que el Ejecutivo del Estado intervenga;
 
 X. Asesorar a los ayuntamientos y organismos municipales que lo soliciten, en la proyección, contratación y ejecución de obras públicas;
 
-XI. Administrar, conservar y renovar la maquinaria, equipo e instalaciones del Gobierno del Estado destinados a las obras públicas con excepción de lo que corresponda a la Comisión Constructora de Sinaloa;
+XI. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2009)
 
 XII. Señalar necesidades de construcción de obras de irrigación, electrificación, edificios públicos y comunicaciones en general;
 
-XIII. Participar, en los términos que establezca la Ley de Adquisiciones y Administración de Bienes Muebles del Estado, en la adquisición, arrendamiento o venta de maquinaria y equipo de instalaciones para obras públicas;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-XIV. Administrar directamente sus almacenes de materiales;
+XIII. Participar, en los términos que establezca la Ley de Adquisiciones y Administración de Bienes Muebles del Estado, en la adquisición, arrendamiento y contratación de servicios relacionados con la obra pública;
 
-XV. Participar directamente o por conducto de la Comisión Constructora de Sinaloa en los convenios para la construcción y mantenimiento de los puentes federales y estatales;
+XIV. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2009)
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+XV. Participar en la celebración de acuerdos y convenios para la construcción y mantenimiento de los puentes federales y estatales;
 
 XVI. Fomentar la organización de sociedades cooperativas cuyo objeto sea la prestación de los servicios de comunicaciones;
 
-XVII. Realizar las adquisiciones requeridas para las obras públicas que le hayan sido asignadas en forma directa. Las operaciones se someterán, en su caso, al Subcomité de Adquisiciones, de acuerdo a la Ley de Adquisiciones y Administración de Bienes Muebles del Estado de Sinaloa;
+XVII. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2009)
 
-XVIII. Llevar un control presupuestal, tanto del gasto de operación como de las obras en las cuales participe como ejecutor;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-XIX. Autorizar los pagos relativos al gasto de inversión en obra pública directa convenida con los ayuntamientos y adquisición de bienes de capital;
+XVIII. Llevar un control presupuestal, así como la vigilancia y supervisión tanto del gasto de operación como de las obras en las cuales participe y lleve a cabo el Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+XIX. Autorizar los pagos relativos al gasto de inversión en obra pública contratada o convenida con los ayuntamientos y adquisición de bienes de capital;
 
 XX. Diseñar y operar un sistema de información que permita conocer, con oportunidad y precisión, los costos de cada una de las obras, su avance físico y financiero, así como el ejercicio de su gasto de operación;
 
@@ -999,11 +1015,11 @@ VI. La Representación del Gobierno del Estado de Sinaloa en el Distrito Federal
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2009)</small>
 
-VII. La Coordinación General de Proyectos Estratégicos; y,
+VII. La Coordinación General de Proyectos Estratégicos; y (sic),
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2009)</small>
 
-VIII. Las demás que establezcan las leyes, decretos y las que cree el Ejecutivo Estatal.
+VIII. Las demás que establezcan las leyes, decretos y las que cree el Ejecutivo Estatal;
 
 IX. (DEROGADA, P.O. 18 DE MAYO DE 2009)
 
@@ -1341,17 +1357,21 @@ Son aplicables a las entidades administrativas a que se refieren los Capítulos 
 
 ### CAPÍTULO I. DE SU DENOMINACIÓN
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO PUBLICADO EN EL P.O. DE 27 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, QUEDANDO CONFORMADO POR TRES FRACCIONES.</small>
+
 ###### Artículo 60.
 
 El Poder Ejecutivo del Estado contará, además, con las entidades administrativas que se relacionan a continuación:
 
 I. La Presidencia de la Junta Local de Conciliación y Arbitraje del Estado;
 
-II. El Cuerpo de Defensores de Oficio;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-III. La Comisión Constructora de Sinaloa; y,
+II. El Cuerpo de Defensores de Oficio; y,
 
-IV. Las demás que establezcan las leyes, decretos y las que cree el Ejecutivo Estatal.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+III. Las demás que establezcan las leyes, decretos y las que cree el Ejecutivo Estatal.
 
 ### CAPÍTULO II. DE LA PRESIDENCIA DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO
 
@@ -1365,53 +1385,33 @@ Corresponde al Presidente de la Junta Local de Conciliación y Arbitraje del Est
 
 Corresponde al Cuerpo de Defensores de Oficio del Fuero Común, proporcionar, obligatoria y gratuitamente los servicios jurídicos de defensa a los indiciados en materia penal, a los menores sujetos a procedimiento en los términos de lo dispuesto en la ley de la materia, y a quienes lo soliciten en las materias civil y administrativa, de acuerdo con su Ley Orgánica.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
 ### CAPÍTULO IV. DE LA COMISIÓN CONSTRUCTORA DE SINALOA
 
 ###### Artículo 63.
 
-La Comisión Constructora de Sinaloa, será un órgano desconcentrado de la Secretaría de Comunicaciones y Obras Públicas del Gobierno del Estado.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2009)
 
 ###### Artículo 64.
 
-A la Comisión Constructora de Sinaloa le corresponde el despacho de los siguientes asuntos:
-
-I. Ejecutar la obra pública estatal que se le asigne directamente o mediante concurso, conforme a programas y presupuesto del Estado, o convenidos con los ayuntamientos de la Entidad o el gobierno federal;
-
-II. Construir o realizar la conservación y mantenimiento de la obra pública existente, en especial las obras de carreteras, puentes y caminos;
-
-III. Elaborar directamente o por conducto de terceros, los proyectos de ingeniería y arquitectónicos que se requieran para la obra pública bajo su responsabilidad;
-
-IV. Adquirir, arrendar, vender, permutar, concursar o realizar cualquier contrato o convenio con terceros, traslativo de dominio o de uso de maquinaria, equipo, instalaciones, inmuebles y materiales necesarios para la obra pública asignada, en los términos de las disposiciones legales aplicables;
-
-V. Someter anualmente ante su Comité Directivo, para su aprobación, el presupuesto de gastos de operación y el programa anual de obras;
-
-VI. Presentar mensualmente al Comité Directivo el informe del avance físico y financiero de las obras así como el calendario de recursos necesarios para atender los programas de ejecución de obras y el gasto de operación;
-
-VII. Presentar para su aprobación ante el Comité Directivo los estados financieros de la dependencia;
-
-VIII. Someter al Comité Directivo, para su aprobación, la propuesta de organización administrativa interna; y,
-
-IX. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado y su propio Comité Directivo.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2009)
 
 ###### Artículo 65.
 
-La Comisión Constructora de Sinaloa contará con un Comité Directivo que estará presidido por el Gobernador del Estado y se integrará con los servidores públicos que éste designe, entre los que se contará el Secretario de la Contraloría y Desarrollo Administrativo, con carácter de Comisario, y el Secretario de Comunicaciones y Obras Públicas, quien fungirá como Secretario Técnico.
-
-El Comité Directivo aprobará su programa de actividades, así como la información de sus resultados y situación técnica y financiera.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2009)
 
 ###### Artículo 66.
 
-Al titular de esta entidad administrativa, se le denominará Vocal Ejecutivo de la Comisión Constructora de Sinaloa. Para el despacho de los asuntos de su competencia, se auxiliará de los servidores públicos, que establezca su reglamento interior o que determine el presupuesto de egresos y los requerimientos de las obras asignadas.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2009)
 
 ###### Artículo 67.
 
-La Comisión Constructora de Sinaloa, podrá celebrar contratos y convenios con terceros sobre la materia de sus atribuciones, con la autorización de las Secretarías de Comunicaciones y Obras Públicas y de Administración y Finanzas.
-
-Los ingresos y egresos que resulten de dichos convenios y contratos se operarán a través de la Tesorería del Estado.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2009)
 
 ###### Artículo 68.
 
-La Comisión Constructora de Sinaloa, contará con un órgano de auditoría interna que vigile y supervise el ejercicio correcto del gasto de operación y los recursos ejercidos en las obras en las cuales participe como ejecutora, sin perjuicio de las facultades que correspondan, de acuerdo con el presente reglamento a la Secretaria de la Contraloría y Desarrollo Administrativo.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2009)
 
 ## TRANSITORIOS
 
@@ -1582,3 +1582,23 @@ Artículo Quinto.- Para la atención y seguimiento da los asuntos jurisdiccional
 Las responsabilidades derivadas de procedimientos administrativos, judiciales o cualquier otra investigación que se haya iniciado o se inicie sobre el manejo de los recursos públicos por parte de los servidores públicos adscritos a la Unidad para el Fomento a la Vivienda o cualquier otra persona física o moral, pública o privada, continuarán su curso independientemente de su cambio de denominación.
 
 Artículo Sexto.- La Secretaría de Administración y Finanzas realizará las adecuaciones presupuestarias para el funcionamiento de la Coordinación General de Proyectos Estratégicos, lo que no implica la contratación de nuevo personal, ya que la misma operará con el personal con que actualmente cuenta la Unidad para el Fomento a la Vivienda. En caso de ser necesario personal adicional, la Secretaría de Administración y Finanzas resolverá lo conducente, sin que esto ocasione la creación de nuevas plazas.
+
+P.O. 27 DE NOVIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se derogan todas las disposiciones administrativas que se opongan a lo dispuesto por el presente Decreto.
+
+Artículo Tercero.- La Secretaría de Comunicaciones y Obras Públicas, en tanto no se adecuen al presente Decreto las disposiciones relativas de su reglamento interior, realizará sus atribuciones conforme a lo dispuesto en este ordenamiento.
+
+Artículo Cuarto.- Las Secretarías de Administración y Finanzas, y de Comunicaciones y Obras Públicas, atenderán todos los asuntos relacionados con el personal al servicio de la Comisión Constructora de Sinaloa.
+
+Artículo Quinto.- Las obras por administración directa que se encuentren en proceso de ejecución por parte de la Comisión Constructora de Sinaloa, hasta antes de la entrada en vigor del presente Decreto, serán concluidas en todos sus aspectos, tanto técnicos como financieros, hasta el finiquito de las mismas, por la propia Comisión.
+
+Artículo Sexto.- Las Secretarías de Administración y Finanzas, de Comunicaciones y Obras Públicas, y de la Contraloría y Desarrollo Administrativo, integrarán un Comité de entrega-recepción para el proceso de extinción de la Comisión Constructora de Sinaloa, respecto de los asuntos a cargo de la misma, incluyendo los sistemas de información, recursos humanos, materiales, financieros, tecnológicos y documentales que estén adscritos o aplicados a dicha Comisión, para efecto de recibir la entrega que deberá realizar el Vocal Ejecutivo de la Comisión Constructora de Sinaloa, en los términos de las disposiciones administrativas aplicables.
+
+El Vocal Ejecutivo de la Comisión Constructora de Sinaloa, seguirá ejerciendo su cargo, hasta en tanto concluya el proceso de entrega recepción y el finiquito de las obras en proceso.
+
+Artículo Séptimo.- Para la atención y seguimiento de los asuntos jurisdiccionales o administrativos en trámite o pendientes de resolución definitiva que estén vinculados de cualquier manera con la Comisión Constructora de Sinaloa, la representación de ésta serán atendidos por las áreas del Ejecutivo Estatal o sus representantes legalmente facultadas para ello.
+
+Artículo Octavo.- Los montos no ejercidos del presupuesto autorizado para la Comisión Constructora de Sinaloa en la Ley de Ingresos y Presupuesto de Egresos del Estado para el Ejercicio Fiscal del año 2009, al inicio de la vigencia de este Decreto, serán reprogramados por la Secretaría de Administración y Finanzas, para su ejercicio correspondiente.
