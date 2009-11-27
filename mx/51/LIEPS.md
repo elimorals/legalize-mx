@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2007-12-21"
+last_updated: "2009-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2009.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -64,11 +64,15 @@ La Federación, el Distrito Federal, los Estados, los Municipios, los organismos
 
 El impuesto a que hace referencia esta Ley no se considera violatorio de precios o tarifas, incluyendo los oficiales.
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 2o.
 
-Al valor de los actos o actividades que a continuación se señalan, se aplicarán las tasas siguientes:
+Al valor de los actos o actividades que a continuación se señalan, se aplicarán las tasas y cuotas siguientes:
+
+> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 I. En la enajenación o, en su caso, en la importación de los siguientes bienes:
 
@@ -104,6 +108,18 @@ C) Tabacos labrados:
 
 3. Puros y otros tabacos labrados hechos enteramente a mano. 30.4%
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+Adicionalmente a las tasas establecidas en este numeral, se pagará una cuota de $0.10 por cigarro enajenado o importado. Para los efectos de esta Ley se considera que el peso de un cigarro equivale a 0.75 gramos de tabaco, incluyendo el peso de otras sustancias con que esté mezclado el tabaco.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+Tratándose de los tabacos labrados no considerados en el párrafo anterior se aplicará la cuota mencionada en dicho párrafo al resultado de dividir el peso total de los tabacos labrados enajenados o importados, entre 0.75. Para tal efecto se deberá incluir el peso de otras sustancias con que esté mezclado el tabaco. No se deberá considerar el filtro ni el papel o cualquier otra sustancia que no contenga tabaco, con el que estén envueltos los referidos tabacos labrados.
+
 D) Gasolinas: la tasa que resulte para el mes de que se trate en los términos de los artículos 2o.-A y 2o.-B de esta Ley.
 
 E) Diesel: la tasa que resulte para el mes de que se trate en los términos de los artículos 2o.-A y 2o.-B de esta Ley.
@@ -114,15 +130,25 @@ G) (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 H) (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
+> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
+
 II. En la prestación de los siguientes servicios:
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 A) Comisión, mediación, agencia, representación, correduría, consignación y distribución, con motivo de la enajenación de los bienes señalados en los incisos A), B) y C) de la fracción I de este artículo. En estos casos, la tasa aplicable será la que le corresponda a la enajenación en territorio nacional del bien de que se trate en los términos que para tal efecto dispone esta Ley. No se pagará el impuesto cuando los servicios a que se refiere este inciso, sean con motivo de las enajenaciones de bienes por los que no se esté obligado al pago de este impuesto en los términos del artículo 8o. de la misma.
 
-> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-B) Realización de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, los que realicen los organismos descentralizados, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio nacional. Quedan comprendidos en los juegos con apuestas, aquéllos en los que sólo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar. 20%
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+B) Realización de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, los que realicen los organismos descentralizados, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio nacional. Quedan comprendidos en los juegos con apuestas, aquéllos en los que sólo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar. 30%
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+C) Los que se proporcionen en territorio nacional a través de una o más redes públicas de telecomunicaciones. 3%
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2007)</small>
 
@@ -264,11 +290,23 @@ En las permutas y pagos en especie, el impuesto especial sobre producción y ser
 
 XIII. Mieles incristalizables, el producto residual de la fabricación de azúcar, cuando referido a 85° brix a 20° centígrados, los azúcares fermentables expresados en glucosa no excedan del 61%.
 
-XIV. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XV. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-XVI. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
+XIV. Red pública de telecomunicaciones, la red de telecomunicaciones a través de la cual se explotan comercialmente servicios de telecomunicaciones. La red no comprende los equipos terminales de telecomunicaciones de los usuarios ni las redes de telecomunicaciones que se encuentren más allá del punto de conexión terminal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+XV. Red de telecomunicaciones, el sistema integrado por medios de transmisión, tales como canales o circuitos que utilicen bandas de frecuencias del espectro radioeléctrico, enlaces satelitales, cableados, redes de transmisión eléctrica o cualquier otro medio de transmisión, así como, en su caso, centrales, dispositivos de conmutación o cualquier equipo necesario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+XVI. Equipo terminal de telecomunicaciones, comprende todo el equipo de telecomunicaciones de los usuarios que se conecte más allá del punto de conexión terminal de una red pública con el propósito de tener acceso a uno o más servicios de telecomunicaciones.
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -284,9 +322,11 @@ Los contribuyentes a que se refiere esta Ley, pagarán el impuesto a su cargo, s
 
 Las personas físicas y morales que adquieran alcohol, alcohol desnaturalizado y mieles incristalizables, así como los importadores de dichos bienes, podrán acreditar el impuesto pagado por la enajenación o importación de los mismos, contra el que causen por la enajenación de bebidas alcohólicas. Cuando los bienes antes citados sean utilizados para la elaboración de productos distintos a las bebidas alcohólicas, podrán acreditarlo contra el impuesto sobre la renta que resulte a su cargo.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley, las tasas a que se refiere la fracción I, inciso A) del artículo 2o. de la misma, o de la que resulte de aplicar la cuota a que se refiere el artículo 2o.-C de esta Ley. Se entiende por impuesto acreditable, un monto equivalente al del impuesto especial sobre producción y servicios efectivamente trasladado al contribuyente o el propio impuesto que él hubiese pagado con motivo de la importación, exclusivamente en los supuestos a que se refiere el segundo párrafo de este artículo, en el mes al que corresponda.
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley, las tasas a que se refiere la fracción I, inciso A) del artículo 2o. de la misma, o de la que resulte de aplicar las cuotas a que se refieren los artículos 2o., fracción I, inciso C), segundo y tercer párrafos y 2o.-C de esta Ley. Se entiende por impuesto acreditable, un monto equivalente al del impuesto especial sobre producción y servicios efectivamente trasladado al contribuyente o el propio impuesto que él hubiese pagado con motivo de la importación, exclusivamente en los supuestos a que se refiere el segundo párrafo de este artículo, en el mes al que corresponda.
 
 Para que sea acreditable el impuesto especial sobre producción y servicios en términos de los párrafos que anteceden, deberán reunirse los siguientes requisitos:
 
@@ -328,7 +368,11 @@ El derecho al acreditamiento es personal para los contribuyentes de este impuest
 
 El impuesto se calculará mensualmente y se pagará a más tardar el día 17 del mes siguiente a aquél al que corresponda el pago, excepto en el caso de importaciones de bienes en el que se estará a lo dispuesto en los artículos 15 y 16 de esta Ley, según se trate. Los pagos mensuales se realizarán en los términos que al efecto se establezcan en esta Ley y tendrán el carácter de definitivos.
 
-El pago mensual será la diferencia que resulte de restar a la cantidad que se obtenga de aplicar la tasa que corresponda en los términos del artículo 2o. de esta Ley a las contraprestaciones efectivamente percibidas en el mes de que se trate, por la enajenación de bienes o la prestación de servicios gravados por esta Ley; el impuesto pagado en el mismo mes por la importación de dichos bienes, así como el impuesto que resulte acreditable en el mes de que se trate de conformidad con el artículo 4o. de esta Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+El pago mensual será la diferencia que resulte de restar a la cantidad que se obtenga de aplicar la tasa que corresponda en los términos del artículo 2o. de esta Ley a las contraprestaciones efectivamente percibidas en el mes de que se trate, por la enajenación de bienes o la prestación de servicios gravados por esta Ley; el impuesto pagado en el mismo mes por la importación de dichos bienes, así como el impuesto que resulte acreditable en el mes de que se trate de conformidad con el artículo 4o. de esta Ley. Tratándose de la cuota a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, el pago mensual será la cantidad que se obtenga de aplicar la cuota que corresponda a los cigarros enajenados en el mes, o la que se obtenga de aplicar esa cuota al resultado de dividir el peso total de los otros tabacos labrados enajenados en el mes, entre 0.75, disminuidas dichas cantidades, en su caso, con el impuesto pagado en el mismo mes al aplicar la cuota correspondiente con motivo de la importación de los cigarros u otros tabacos labrados, en los términos del segundo párrafo del artículo 4o. de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
@@ -366,6 +410,14 @@ Las personas que realicen las actividades a que se refiere el artículo 2o., fra
 
 Los contribuyentes también podrán disminuir del impuesto correspondiente a las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, en el mes de que se trate, el monto del pago efectivamente realizado por concepto de los impuestos que las entidades federativas tengan establecidos sobre los juegos con apuestas y sorteos, sin que en ningún caso esta disminución exceda de la quinta parte del impuesto que establece esta Ley a dichas actividades. La disminución prevista en este párrafo se podrá realizar en la declaración de pago siguiente al mes en que se haya efectuado el entero de los impuestos establecidos por las entidades federativas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO 5o.-C.
+
+Para los efectos de esta Ley, se considera que se cobran efectivamente las contraprestaciones correspondientes a los actos o actividades gravadas, cuando se realicen los supuestos que para tal efecto se establecen en la Ley del Impuesto al Valor Agregado.
+
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 6o.
@@ -376,7 +428,7 @@ Cuando el monto del impuesto causado por el contribuyente en el mes de que se tr
 
 El contribuyente que en un mes reciba el descuento, la bonificación o devuelva los bienes que le hubieran sido enajenados, respecto de los cuales le hubiera sido trasladado expresamente y por separado el impuesto establecido en esta Ley, disminuirá del impuesto acreditable del mes de que se trate, el impuesto correspondiente al descuento, a la bonificación o a la devolución, hasta por el monto del impuesto acreditable de dicho mes. Cuando el monto del impuesto acreditable resulte inferior al monto del impuesto que se deba disminuir en los términos de este párrafo, el contribuyente pagará la diferencia que resulte entre dichos montos al presentar la declaración de pago del mes al que corresponda el descuento, la bonificación o la devolución.
 
-###### ARTICULO 6o-A.
+###### ARTICULO 6o.-A.
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
@@ -454,6 +506,26 @@ c) Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad
 
 Quienes realicen sorteos en el ejercicio de inicio de actividades, podrán estimar sus ingresos en dicho ejercicio para los efectos de lo dispuesto en este inciso. En el supuesto de que el monto de los premios ofrecidos exceda el por ciento a que se refiere el párrafo anterior, se pagará el impuesto que corresponda de conformidad con lo dispuesto en esta Ley con la actualización y los recargos respectivos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+IV. Por los servicios de telecomunicaciones siguientes:
+
+a) De telefonía fija rural, consistente en el servicio de telefonía fija que se presta en poblaciones de hasta 5,000 habitantes, conforme a los últimos resultados definitivos, referidos específicamente a población, provenientes del censo general de población y vivienda que publica el Instituto Nacional de Estadística y Geografía.
+
+En el caso de que se levante un conteo de población y vivienda o un instrumento de naturaleza similar de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica, en forma previa al siguiente censo general de población y vivienda, dicho conteo o instrumento se aplicará para los efectos del párrafo anterior.
+
+El Servicio de Administración Tributaria dará a conocer en su página electrónica el listado de las poblaciones a que se refiere este inciso.
+
+b) De telefonía pública, consistente en el acceso a los servicios proporcionados a través de redes públicas de telecomunicaciones, y que deberá prestarse al público en general, por medio de la instalación, operación y explotación de aparatos telefónicos de uso público.
+
+c) De interconexión, consistente en la conexión física o virtual, lógica y funcional, entre redes públicas de telecomunicaciones, que permite la conducción de tráfico entre dichas redes y/o entre servicios de telecomunicaciones prestados a través de las mismas, de manera que los usuarios de una de las redes públicas de telecomunicaciones puedan conectarse e intercambiar tráfico con los usuarios de la otra red pública de telecomunicaciones y viceversa, o bien, permite a una red pública de telecomunicaciones y/o a sus usuarios la utilización de servicios de telecomunicaciones y/o capacidad y funciones provistos por o a través de otra red pública de telecomunicaciones. Quedan comprendidos en los servicios de interconexión, los que se lleven a cabo entre residentes en México, así como los que se lleven a cabo por residentes en México con residentes en el extranjero.
+
+d) De acceso a Internet, a través de una red fija o móvil, consistente en todos los servicios, aplicaciones y contenidos que mediante dicho acceso a Internet se presten a través de una red de telecomunicaciones.
+
+Cuando los servicios a que se refiere el párrafo anterior se ofrezcan de manera conjunta con otros servicios que se presten a través de una red pública de telecomunicaciones, la exención a que se refiere este inciso será procedente siempre que en el comprobante respectivo se determine la contraprestación correspondiente al servicio de acceso a Internet de manera separada a los demás servicios de telecomunicaciones que se presten a través de una red pública y que dicha contraprestación se determine de acuerdo con los precios y montos de las contraprestaciones que se hubieran cobrado de no haberse proporcionado el servicio en forma conjunta con otros servicios de telecomunicaciones gravados por esta Ley. En este caso los servicios de Internet exentos no podrán exceder del 30% del total de las contraprestaciones antes referidas que se facturen en forma conjunta.
+
 ###### ARTICULO 8o.
 
 B (SIC).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
@@ -464,11 +536,13 @@ B (SIC).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 Para los efectos de esta Ley, se entiende que la enajenación se efectúa en territorio nacional, si en él se encuentra el bien al efectuarse el envío al adquirente, o cuando no habiendo envío, se realiza en el país la entrega material del bien por el enajenante.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 10.
 
-En la enajenación de los bienes a que se refiere esta Ley, el impuesto se causa en el momento en el que se cobren las contraprestaciones y sobre el monto de lo cobrado. Cuando las contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación efectivamente percibida, la tasa que corresponda en términos del artículo 2o. de esta Ley. Por las enajenaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, el impuesto se calculará por los litros que hayan sido pagados con el monto de las contraprestaciones efectivamente percibidas.
+En la enajenación de los bienes a que se refiere esta Ley, el impuesto se causa en el momento en el que se cobren las contraprestaciones y sobre el monto de lo cobrado. Cuando las contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación efectivamente percibida, la tasa que corresponda en términos del artículo 2o. de esta Ley. Por las enajenaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, el impuesto se calculará por los litros que hayan sido pagados con el monto de las contraprestaciones efectivamente percibidas. Tratándose de la cuota por enajenación de cigarros u otros tabacos labrados a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros efectivamente cobrados y, en el caso de otros tabacos labrados, la cantidad de gramos efectivamente cobrados.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -482,9 +556,11 @@ Los productores o importadores de cigarros, para calcular el impuesto por la ena
 
 El impuesto a que se refiere el párrafo anterior, no se pagará por las enajenaciones subsecuentes, no procediendo en ningún caso el acreditamiento o la devolución del impuesto por dichas enajenaciones.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Por las enajenaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros enajenados.
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+Por las enajenaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros enajenados. Tratándose de la cuota por enajenaciones de cigarros u otros tabacos labrados a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros enajenados y, en el caso de otros tabacos labrados, la cantidad de gramos enajenados.
 
 ### CAPITULO III. De la Importación de Bienes
 
@@ -536,9 +612,11 @@ VI. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
 Para calcular el impuesto tratándose de importación de bienes, se considerará el valor que se utilice para los fines del impuesto general de importación, adicionado con el monto de las contribuciones y aprovechamientos que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Por las importaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros importados afectos a la citada cuota.
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+Por las importaciones de cerveza en las que el impuesto se pague aplicando la cuota a que se refiere el artículo 2o.-C de esta Ley, los contribuyentes calcularán el impuesto sobre el total de litros importados afectos a la citada cuota. En las importaciones de cigarros u otros tabacos labrados en las que el impuesto se pague aplicando la cuota a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo 2o. de esta Ley, se considerará la cantidad de cigarros importados y, en el caso de otros tabacos labrados, la cantidad de gramos importados.
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -582,6 +660,14 @@ II. Las cantidades efectivamente devueltas a los participantes, siempre que las 
 
 Cuando el monto de los conceptos mencionados en las fracciones anteriores sea superior a los valores de las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley, correspondientes al mes de que se trate, la diferencia se podrá disminuir en los meses siguientes hasta agotarse.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO 18.-A.
+
+Para los efectos de esta ley, se considera que se prestan los servicios en territorio nacional, a través de una o más redes públicas de telecomunicaciones a que se refiere el artículo 2o., fracción II, inciso C), de esta Ley, cuando éstos se lleven a cabo en el mismo, total o parcialmente.
+
 ### CAPITULO V. De las Obligaciones de los Contribuyentes
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
@@ -590,9 +676,11 @@ Cuando el monto de los conceptos mencionados en las fracciones anteriores sea su
 
 Los contribuyentes a que se refiere esta Ley tienen, además de las obligaciones señaladas en otros artículos de la misma y en las demás disposiciones fiscales, las siguientes:
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I. Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, y efectuar conforme a este último la separación de las operaciones, desglosadas por tasas. Asimismo, se deberán identificar las operaciones en las que se pague el impuesto mediante la aplicación de la cuota prevista en el artículo 2o.-C de esta Ley.
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+I. Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, y efectuar conforme a este último la separación de las operaciones, desglosadas por tasas. Asimismo, se deberán identificar las operaciones en las que se pague el impuesto mediante la aplicación de las cuotas previstas en los artículos 2o., fracción I, inciso C), segundo y tercer párrafos y 2o.-C de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -607,6 +695,12 @@ Los contribuyentes que enajenen los bienes a que se refiere el inciso A) de la f
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 Los contribuyentes que enajenen vinos de mesa, deberán cumplir con la obligación a que se refiere el párrafo anterior en los meses de enero y julio de cada año.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+Tratándose de la enajenación de tabacos labrados, en los comprobantes que se expidan se deberá especificar el peso total de tabaco contenido en los tabacos labrados enajenados o, en su caso, la cantidad de cigarros enajenados.
 
 III. Presentar las declaraciones e informes previstos en esta Ley, en los términos que al efecto se establezcan en el Código Fiscal de la Federación. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración de pago ante las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente.
 
@@ -640,7 +734,11 @@ Los contribuyentes que tengan uno o varios establecimientos ubicados en una enti
 
 La información a que se refiere esta fracción y la fracción VI de este artículo, será la base para la determinación de las participaciones a que se refiere esta Ley y los artículos 3o. y 3o.-A de la Ley de Coordinación Fiscal, en materia del impuesto especial sobre producción y servicios.
 
-IX. Los productores e importadores de tabacos labrados, deberán informar a la Secretaría de Hacienda y Crédito Público, conjuntamente con su declaración del mes, el precio de enajenación de cada producto, así como el valor y volumen de los mismos. Esta información se deberá proporcionar por cada una de las marcas que produzca o importe el contribuyente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+IX. Los productores e importadores de tabacos labrados, deberán informar a la Secretaría de Hacienda y Crédito Público, conjuntamente con su declaración del mes, el precio de enajenación de cada producto y el valor y volumen de los mismos; así como especificar el peso total de tabacos labrados enajenados o, en su caso, la cantidad total de cigarros enajenados. Esta información se deberá proporcionar por cada una de las marcas que produzca o importe el contribuyente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -706,9 +804,35 @@ Los importadores de cerveza que apliquen la disminución del monto a que se refi
 
 Cuando los contribuyentes no cumplan con los registros establecidos en esta fracción, dichos registros sean falsos o no se cuente con la documentación soporte de los mismos, no se tendrá derecho a la disminución prevista en el artículo 2o.-C de esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+XXII. Los productores, fabricantes e importadores de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, deberán imprimir en cada una de las cajetillas de cigarros para su venta en México, el código de seguridad que reúna las características que determine el Servicio de Administración Tributaria mediante reglas de carácter general. En dichas reglas se podrán establecer los mecanismos o sistemas que se utilizarán para imprimir en cada cajetilla de cigarros el código de seguridad correspondiente.
+
+Los contribuyentes a que se refiere esta fracción deberán poner a disposición de las autoridades fiscales la información, documentación o dispositivos necesarios, que se establezcan en las reglas de carácter general, que permitan constatar que la impresión del código de seguridad en cada una de las cajetillas de cigarros producidos o importados, se está llevando a cabo de conformidad con lo dispuesto por las propias reglas de carácter general.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 20.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
+Los contribuyentes que en forma habitual realicen los juegos con apuestas y sorteos a que se refiere el inciso B) de la fracción II del artículo 2o. de esta Ley en establecimientos fijos están obligados a:
+
+I. Llevar los sistemas de cómputo siguientes:
+
+a) Sistema central de apuestas en el que se registren y totalicen las transacciones efectuadas con motivo de los juegos con apuestas y sorteos que realicen.
+
+b) Sistema de caja y control de efectivo en el que se registren cada una de las cantidades efectivamente percibidas de los participantes por las actividades a que se refiere el inciso B) de la fracción II del artículo 2o. de esta Ley.
+
+II. Llevar un sistema de cómputo mediante el cual se proporcione al Servicio de Administración Tributaria, en forma permanente, la información en línea y en tiempo real de los sistemas de registro mencionados en la fracción I de este artículo. El Servicio de Administración Tributaria establecerá mediante reglas de carácter general las características técnicas, de seguridad y requerimientos de información del sistema a que se refiere la presente fracción.
+
+El incumplimiento de cualquiera de las obligaciones establecidas en este artículo será sancionado con la clausura de uno a dos meses del establecimiento o establecimientos que tenga el contribuyente en donde realice las actividades de juegos con apuestas y sorteos y cuyas operaciones deben ser registradas en los sistemas de cómputo a que se refiere el presente artículo.
+
+No procederá la aplicación de la sanción establecida en el párrafo anterior cuando el incumplimiento se deba a fallas en los sistemas de cómputo cuyas causas no sean imputables a los contribuyentes y siempre que éstos presenten un aviso al Servicio de Administración Tributaria en el plazo y los términos que a través de reglas de carácter general emita dicho órgano desconcentrado.
+
+Las obligaciones establecidas en este artículo no son exigibles a las personas que de conformidad con lo dispuesto por el artículo 8o., fracción III de esta Ley están exentas del pago del impuesto por las actividades mencionadas en el primer párrafo de este artículo, ni a los contribuyentes a que se refiere el artículo 29 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -742,13 +866,13 @@ Cuando existan diferencias entre el control físico del volumen envasado y el co
 
 Para los efectos de este artículo, se considerará como valor, el precio promedio en que dichos bienes se enajenaron en los tres meses inmediatos anteriores al en que se efectúe el pago.
 
-###### ARTICULO 23
+###### ARTICULO 23.
 
-Bis. (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
+Bis.- (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
-###### ARTICULO 23-A.
+###### ARTICULO 23.-A.
 
 Las autoridades fiscales podrán determinar presuntivamente el número de litros producidos, destilados o envasados, cuando los contribuyentes de alcohol, alcohol desnaturalizado y mieles incristalizables, no den cumplimiento a lo establecido en el último párrafo de la fracción XII del artículo 19 de esta Ley. Para estos efectos, las autoridades fiscales podrán considerar que los equipos de destilación o envasamiento adquiridos, incorporados, modificados o enajenados por los contribuyentes, fueron utilizados para producir, destilar o envasar, a su máxima capacidad, los bienes citados y que los litros que así se determinen, disminuidos de aquéllos reportados por los contribuyentes en los términos del segundo párrafo de la fracción XII del artículo antes citado, fueron enajenados y efectivamente cobrados en el periodo por el cual se realiza la determinación.
 
@@ -758,7 +882,7 @@ El impuesto que resulte de la determinación presuntiva a que se refiere el pár
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-###### ARTICULO 23-B.
+###### ARTICULO 23.-B.
 
 Se presume que las bebidas alcohólicas que no tengan adherido el marbete o precinto correspondiente y que se encuentren fuera de los almacenes, bodegas o cualesquiera otro lugar propiedad o no del contribuyente o de los recintos fiscales o fiscalizados, fueron enajenados y efectivamente cobradas las contraprestaciones o importados, en el mes en que se encuentren dichos bienes al poseedor o tenedor de los mismos, y que el impuesto respectivo no fue declarado. Para tales efectos, se considerará como precio de enajenación, el precio promedio de venta al público en el mes inmediato anterior a aquél en el que dichos bienes sean encontrados.
 
@@ -2313,6 +2437,42 @@ III. A partir del 1o. de enero de 2012, las cuotas previstas en el artículo 2o.
 ## TRANSITORIO
 
 ÚNICO.- El presente Decreto entrará en vigor el 1 de enero de 2008, salvo por lo que respecta a los artículos Segundo, fracción III y Sexto del mismo, los cuales iniciarán su vigencia a los quince días siguientes a la fecha de publicación de este Decreto en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE NOVIEMBRE DE 2009.
+
+Primero.- El presente Decreto entrará en vigor el 1 de enero de 2010.
+
+Segundo.- Tratándose de las enajenaciones de cerveza que se hayan celebrado con anterioridad a la fecha de la entrada en vigor del presente Decreto, las contraprestaciones correspondientes que se cobren con posterioridad a la fecha mencionada, estarán afectas al pago del impuesto especial sobre producción y servicios de conformidad con las disposiciones vigentes en el momento de su cobro. No obstante lo anterior, los contribuyentes podrán calcular el impuesto correspondiente, aplicando la tasa que corresponda conforme a las disposiciones vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto, siempre que dicho producto se haya entregado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los primeros diez días naturales de 2010.
+
+Se exceptúa del tratamiento establecido en el párrafo anterior a las operaciones que se lleven a cabo entre contribuyentes que sean partes relacionadas de conformidad con lo dispuesto por el artículo 215 de la Ley del Impuesto sobre la Renta, sean o no residentes en México.
+
+Tercero.- Tratándose de las enajenaciones de los bienes a que se refieren los incisos A), numeral 3 y C) de la fracción I del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios, que se hayan celebrado con anterioridad a la fecha de la entrada en vigor del presente Decreto, las contraprestaciones correspondientes que se cobren con posterioridad a la fecha mencionada, estarán afectas al pago del impuesto especial sobre producción y servicios de conformidad con las disposiciones vigentes en el momento de su cobro. No obstante lo anterior, los contribuyentes podrán calcular el impuesto correspondiente, aplicando únicamente la tasa que corresponda conforme a las disposiciones vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto, siempre que dichos productos se hayan entregado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los primeros diez días naturales de 2010.
+
+Se exceptúa del tratamiento establecido en el párrafo anterior a las operaciones que se lleven a cabo entre contribuyentes que sean partes relacionadas de conformidad con lo dispuesto por el artículo 215 de la Ley del Impuesto sobre la Renta, sean o no residentes en México.
+
+Cuarto.- Para los efectos de lo dispuesto en el segundo y tercer párrafos del inciso C) de la fracción I del artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios, durante los ejercicios fiscales de 2010, 2011 y 2012, en lugar de aplicar la cuota prevista en dichos párrafos, se estará a lo siguiente:
+
+Ejercicio Fiscal Cuota
+
+$
+
+2010 0.04
+
+2011 0.06
+
+2012 0.08
+
+Quinto.- Para los efectos de lo dispuesto en el artículo 2o., fracción II, inciso C) de la Ley del Impuesto Especial sobre Producción y Servicios, los servicios a que se refiere dicho inciso que se hayan proporcionado con anterioridad al 1 de enero de 2010, no estarán afectos al pago del impuesto establecido en dicha disposición, aun cuando el pago de los mismos se realice en la fecha mencionada o con posterioridad.
+
+Sexto.- Para los efectos de lo dispuesto en el inciso a) de la fracción IV del artículo 8o. de esta Ley, el beneficio previsto en dicha disposición se determinará tomando en cuenta los resultados del II Conteo de Población y Vivienda 2005, levantado de conformidad con lo dispuesto en el "Decreto por el que se declara de interés nacional la preparación, organización, levantamiento, integración, generación de bases de datos, tabulación y publicación del II Conteo de Población y Vivienda 2005", publicado en el Diario Oficial de la Federación el 21 de septiembre de 2005.
+
+Séptimo.- La adición de la fracción XXII del artículo 19 de la Ley del Impuesto Especial sobre Producción y Servicios, entrará en vigor el 1 de julio de 2010.
+
+Octavo.- El Servicio de Administración Tributaria publicará las reglas de carácter general a que se refiere el artículo 20 de la Ley del Impuesto Especial sobre Producción y Servicios, dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto. Las obligaciones a que se refiere el mencionado artículo, serán exigibles a los contribuyentes a partir del 1 de julio de 2010.
+
+Noveno.- Para los efectos de lo dispuesto por el artículo 2o., fracción I, inciso A), numeral 1 de la Ley del Impuesto Especial sobre Producción y Servicios, tratándose de cerveza, en sustitución de la tasa establecida en dicho numeral, durante los años de 2010, 2011 y 2012, se aplicará la tasa de 26.5%, y durante 2013, la tasa de 26%.
+
+Décimo.- Para los efectos de lo dispuesto por el artículo 2o., fracción I, inciso A), numeral 3 de la Ley del Impuesto Especial sobre Producción y Servicios, en sustitución de la tasa establecida en dicho numeral, durante los años 2010, 2011 y 2012, se aplicará la tasa de 53%, y durante 2013, la tasa de 52%.
 
 ###### ARTICULO QUINTO.
 
