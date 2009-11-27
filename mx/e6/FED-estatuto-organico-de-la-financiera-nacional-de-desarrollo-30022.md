@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2009-09-24"
+last_updated: "2009-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2009.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -509,9 +509,23 @@ V. Coadyuvar en la coordinación técnica dirigida a las gerencias jurídicas de
 
 VI. Coadyuvar con la Dirección General Adjunta Técnica y de Instrumentación Legal en las funciones derivadas de la fracción VIII del artículo 23 de este Estatuto;
 
-VII. Supervisar la implementación de acciones para la administración del riesgo legal de la Financiera; y
+VII. Supervisar la implementación de acciones para la administración del riesgo legal de la Financiera; y (sic)
 
-VIII. Las demás que dentro del área de su competencia, se deriven de las disposiciones aplicables, así como aquellas que le encomiende el titular de la Dirección General Adjunta Técnica y de Instrumentación Legal.
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+VIII. Sancionar los contratos y convenios típicos y atípicos que presenten las diferentes áreas de la Financiera, así como aquellos en los que se establezca la coordinación con dependencias y entidades de la administración pública y organismos de los sectores social y privado;
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+IX. Dirigir las acciones jurídico corporativas tendientes a la rendición de los informes que en materia corporativa sean requeridos por las autoridades competentes con domicilio en la Ciudad de México;
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+X. Fungir como Prosecretario del Consejo Directivo, en cuyo caso tendrá las facultades señaladas en el artículo 25 Quáter del Estatuto;
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+XI. Las demás que dentro del área de su competencia, se deriven de las disposiciones aplicables, así como aquellas que le encomiende el titular de la Dirección General Adjunta Técnica y de Instrumentación Legal.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -535,6 +549,22 @@ V. Proponer modificaciones a los lineamientos para la contratación de servicios
 
 VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director Ejecutivo Jurídico.
 
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+ARTICULO 24 BIS.- Corresponde a la Subdirección Corporativa Jurídica de Crédito y apoyo al Prosecretariado:
+
+I. Coordinar la opinión, y dictaminación sobre la procedencia de convenios, contratos y demás actos jurídicos que celebre la Financiera en materia de crédito;
+
+II. Sancionar y supervisar la elaboración de los modelos de convenios y contratos en materia de crédito, verificando que los mismos se apeguen a los lineamientos y políticas establecidas;
+
+III. Coordinar en el ámbito de su competencia las acciones para la administración del riesgo legal, promoviendo que los contratos y convenios en los que participe la Institución, prevengan vicios en la celebración de operaciones;
+
+IV. Proporcionar el apoyo jurídico a las diversas unidades administrativas de la Financiera, así como a los Comités y grupos de trabajo que incidan en el ámbito de su competencia, así como aquellos que le instruya la Dirección Ejecutiva;
+
+V. Coadyuvar con el Prosecretario en el control de la información, integración de la documentación de aquellos asuntos que se someterán a la consideración del Consejo Directivo, así como en el seguimiento de los acuerdos que adopte dicho Organo Directivo, y
+
+VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director Ejecutivo Jurídico.
+
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 25.
@@ -543,17 +573,23 @@ Corresponde a la Subdirección Corporativa Jurídica de Normatividad y Consulta:
 
 I. Supervisar y evaluar el desarrollo del análisis, interpretación y consulta de leyes, reglamentos, decretos y demás disposiciones legales y administrativas aplicables;
 
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+I Bis. Supervisar la revisión, opinión y dictaminación de contratos y convenios típicos y atípicos que presenten las diferentes áreas de la Financiera, en los que se establezca la coordinación con dependencias y entidades de la administración pública y organismos de los sectores social y privado; correspondientes a fideicomisos, mandatos y comisiones, así como bases de licitación y demás actos jurídicos que celebre la Financiera Rural y, en su caso, las Coordinaciones Regionales, verificando que se apeguen a los lineamientos y políticas establecidas;
+
 II. Contemplar estrategias para la función jurídica de la Financiera;
 
 III. Sancionar y supervisar la elaboración de los contratos y convenios típicos y atípicos que presenten las diferentes áreas de la Financiera, así como aquellos en los que se establezca la coordinación con dependencias y entidades de la administración pública y organismos de los sectores social y privado;
 
-IV. Coordinar las acciones para la administración del riesgo legal, promoviendo que los contratos y convenios en los que participe la Institución, prevengan vicios en la celebración de operaciones;
+IV. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
 V. Supervisar las actividades de compilación, y divulgación de la legislación relacionada al funcionamiento de la Financiera;
 
 VI. Supervisar la ejecución de los trámites ante fedatario público para la protocolización, cotejo y certificación de documentos, formalización y revocación de poderes que otorga la Financiera;
 
-VII. Proporcionar el apoyo jurídico y asesoría al Consejo, así como a las diversas unidades administrativas de la Financiera;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+VII. Proporcionar el apoyo jurídico a las diversas unidades administrativas de la Financiera, así como a los Comités y grupos de trabajos que incidan en el ámbito de su competencia, así como aquellos que le instruya la Dirección Ejecutiva;
 
 VIII. Coordinar las acciones jurídico corporativas y ser el conducto de la Financiera para rendir los informes que en materia corporativa sean requeridos por las autoridades competentes con domicilio en la Ciudad de México, y
 
@@ -583,13 +619,9 @@ II. Dar seguimiento a las solicitudes de información hechas por las dependencia
 
 III. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director Ejecutivo de Vinculación y Desarrollo Institucional.
 
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-ARTICULO 25 QUATER.- La Prosecretaría del Consejo Directivo de la Financiera Rural, estará adscrita orgánica y funcionalmente de manera directa a la Dirección General Adjunta Técnica y de Instrumentación Legal.
-
-Corresponde al Prosecretario del Consejo coadyuvar con el Secretario en el seguimiento de los acuerdos que tome el Consejo Directivo y suplirlo en sus ausencias, en cuyo caso tendrá las mismas facultades señaladas en el artículo 15 anterior.
-
-Corresponde al Prosecretario del Consejo apoyar a la Dirección General Adjunta Técnica y de Instrumentación Legal en el desempeño de sus atribuciones, por lo que habrá de desempeñar las funciones y comisiones que su titular le encomiende
+ARTICULO 25 QUATER.- Corresponde al Prosecretario del Consejo coadyuvar con el Secretario en el seguimiento de los acuerdos que tome el Consejo Directivo y suplirlo en sus ausencias, en cuyo caso tendrá las mismas facultades señaladas en el artículo 15 anterior.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -2118,5 +2150,9 @@ D.O.F. 13 DE JULIO DE 2009.
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
 
 D.O.F. 24 DE SEPTIEMBRE DE 2009.
+
+UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE NOVIEMBRE DE 2009.
 
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
