@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2009-06-05"
+last_updated: "2009-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 26 DE DICIEMBRE DE 2008.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -57,17 +57,21 @@ Los derechos por la prestación de servicios que establece esta Ley deberán est
 
 Cuando se concesione o autorice que la prestación de un servicio que grava esta Ley, se proporcione total o parcialmente por los particulares, deberá disminuirse el cobro del derecho que se establece por el mismo en la proporción que represente el servicio concesionado o prestado por un particular respecto del servicio total.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Las cuotas de los derechos que se establecen en esta Ley, se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquel en el que se haya dado dicho incremento. Para la actualización mencionada, se considerará el periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado.
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+Las cuotas de los derechos que se establecen en esta Ley se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Esta actualización entrará en vigor a partir del primero de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento. Para la actualización mencionada, se considerará el periodo comprendido desde el último mes que se utilizó en el cálculo de la última actualización y hasta el último mes del ejercicio en el que se exceda el porcentaje citado.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 Los derechos que se adicionen a la presente Ley o que hayan sufrido modificaciones en su cuota, se actualizarán en el mes de enero del ejercicio fiscal en que se actualicen las demás cuotas de derechos conforme al párrafo anterior, considerando solamente la parte proporcional del incremento porcentual de que se trate, para lo cual se considerará el periodo comprendido desde el mes en que entró en vigor la adición o modificación y hasta el último mes del ejercicio en el que se exceda el porcentaje citado en el párrafo anterior. Para las actualizaciones subsecuentes del mismo derecho, las cuotas de los derechos a que se refiere este párrafo, se actualizarán conforme a lo dispuesto en el párrafo anterior.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Para los efectos de los párrafos anteriores, el factor de actualización se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo de dicho periodo.
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+Para los efectos de los párrafos anteriores, se aplicará el factor de actualización que resulte de dividir el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del periodo, entre el Índice Nacional de Precios al Consumidor correspondiente al último mes que se utilizó en el cálculo de la última actualización, o bien, el del mes anterior a aquél en que entró en vigor la adición o modificación a que se refiere el párrafo anterior.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -111,9 +115,11 @@ La Federación, el Distrito Federal, los Estados, los Municipios, los organismos
 
 Las personas físicas y las morales pagarán los derechos que se establecen en esta Ley en las oficinas que autorice la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El pago de los derechos que establece esta Ley deberá hacerse por el contribuyente previamente a la prestación de los servicios o del uso, goce o aprovechamiento de bienes de dominio público de la Federación, salvo los casos en que expresamente se señale que sea posterior o cuando se trate de servicios que sean de utilización obligatoria.
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+El pago de los derechos que establece esta Ley deberá hacerse por el contribuyente previamente a la prestación de los servicios o previo al uso, goce, explotación o aprovechamiento de bienes de dominio público de la Federación, salvo los casos en que expresamente se señale que sea posterior.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -128,8 +134,6 @@ Los servidores públicos encargados de la prestación de los servicios, así com
 > <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 No podrán realizarse convenios ni acuerdo alguno donde se autorice el manejo y administración de los recursos provenientes de los cobros que establece esta Ley, salvo lo previsto en la misma y en los Convenios de Coordinación en materia de Administración de Ingresos Federales, que el Gobierno Federal celebre con las Entidades Federativas.
-
-> <small>(DEROGADO SEPTIMO PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -269,11 +273,13 @@ Asimismo no se pagará el derecho a que se refiere este artículo por los servic
 
 Cuando se soliciten constancias u otros documentos a alguna de las dependencias a que se refiere este artículo con motivo de la relación laboral entre el solicitante y la dependencia, no se pagarán los derechos a que se refiere este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 6o.
 
-Para determinar las cuotas de los derechos establecidos en esta Ley, se considerarán, inclusive, las fracciones de peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad de peso inmediata superior.
+Para determinar las cuotas de los derechos establecidos en esta Ley se considerarán, inclusive, las fracciones del peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del peso inmediata anterior y las que contengan cantidades mayores de 50 y hasta 99 centavos, se ajusten a la unidad del peso inmediata superior.
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -301,11 +307,13 @@ IV.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 En todo caso, las autoridades fiscales podrán autorizar el pago en cualquier otra moneda.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 7o.
 
-Las dependencias y entidades de la Administración Pública Federal, deberán informar a la Secretaría de Hacienda y Crédito Público a más tardar en el mes de marzo del ejercicio correspondiente, los montos de los ingresos por concepto de derechos que hayan percibido, así como de los enteros efectuados a la Tesorería de la Federación por dichos conceptos, durante el ejercicio fiscal inmediato anterior.
+Las dependencias y entidades de la Administración Pública Federal deberán informar a la Secretaría de Hacienda y Crédito Público a más tardar en el mes de marzo del ejercicio correspondiente, los montos de los ingresos por concepto de derechos que hayan enterado a la Tesorería de la Federación, durante el ejercicio fiscal inmediato anterior.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -377,11 +385,9 @@ IV.- Asilado político, por la
 
 revalidación anual $1,294.32 $1,294.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Estudiante, por cada
-
-revalidación anual $2,102.52 $2,102.00
+V.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
@@ -641,9 +647,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- De no inmigrante $525.21 $525.00
+I.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
@@ -683,25 +689,19 @@ desembarque y despacho,
 
 respectivamente $4,044.34 $4,044.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b).- (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 26 DE DICIEMBRE DE 2008)
+b).- Por cada revisión de la documentación de la tripulación de las embarcaciones turísticas comerciales, al desembarque y despacho, respectivamente, de acuerdo al número de personas a bordo:
 
-1 (sic) $2,899.06 $2,899.00
+1. De 1 a 500 personas $2,899.06
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 26 DE DICIEMBRE DE 2008)
+2. De 501 a 1000 personas $3,764.32
 
-2 (sic) $3,764.32 $3,764.00
+3. De 1001 a 1500 personas $4,482.43
 
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 26 DE DICIEMBRE DE 2008)
-
-3 (sic) $4,482.43 $4,482.00
-
-(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 26 DE DICIEMBRE DE 2008)
-
-4 (sic) $5,097.91 $5,098.00
+4. De 1501 personas, en adelante $5,097.91
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -733,23 +733,11 @@ Tratándose de las aeronaves particulares que sin fines de lucro se utilicen par
 
 No se pagarán los derechos por servicios migratorios extraordinarios, cuando por causas no imputables al contribuyente los servicios migratorios se tengan que proporcionar en lugares y días inhábiles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 14-B.
 
-Por la prestación de servicios relativos a la verificación del cumplimiento de las disposiciones en materia migratoria, las empresas de transporte responsables de las embarcaciones marítimas turísticas comerciales que arriben a los puertos del país pagarán derechos por cada persona a bordo, conforme a la cuota de $25.00
-
-El derecho a que se refiere este artículo, se destinará en un 80% a los municipios en proporción al número de visitantes que arriben a los puertos ubicados en cada municipio, a fin de ser aplicado en obras de infraestructura y programas de conservación, mantenimiento, limpieza y vigilancia de las zonas costeras, con base en los convenios que al efecto se celebren con las Entidades Federativas y los municipios respectivos, y en un 20% al Instituto Nacional de Migración para la prestación del servicio a que hace referencia el párrafo anterior.
-
-El 80% del derecho asignado a los municipios conforme a lo establecido en el presente artículo podrá afectarse para garantizar sus obligaciones, en caso de incumplimiento, o servir como fuente de pago de dichas obligaciones que contraigan con la Federación, con las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con autorización de las legislaturas locales y se inscriban a petición de los municipios, según corresponda, ante la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, así como en el registro único de obligaciones y empréstitos a que se refiere el tercer párrafo del artículo 9o. de la Ley de Coordinación Fiscal.
-
-Los financiamientos que den origen a las obligaciones a que hace referencia el párrafo anterior únicamente podrán destinarse a los fines establecidos en el segundo párrafo del presente artículo. Los municipios que contraigan obligaciones al amparo del párrafo anterior no podrán destinar más del 50% de los recursos que anualmente les correspondan para servir dichas obligaciones.
-
-Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se refiere el párrafo anterior a los recursos correspondientes al año de que se trate o bien, a los recursos correspondientes al año en que las obligaciones hayan sido contratadas.
-
-Los municipios efectuarán los pagos de las obligaciones contraídas, con cargo a los ingresos que les correspondan de los derechos mencionados, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos y sistemas de registro establecidos, en su caso, en las leyes estatales de deuda.
+(DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
 ###### ARTICULO 15.
 
@@ -1683,27 +1671,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Por la recepción, examen y
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-resolución de cada solicitud de
+I.- Por la recepción, examen y resolución de cada solicitud de uso de denominación en la constitución de sociedades y asociaciones $965.00
 
-uso de denominación en la
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-constitución de sociedad y
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-asociaciones $705.43 $705.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
-
-II.- Por la recepción, examen y
-
-resolución de cada solicitud de
-
-permiso de cambio de
-
-denominación o razón social $627.19 $625.00
+II.- Por la recepción, examen y resolución de cada solicitud de permiso de cambio de denominación o razón social $885.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
@@ -1729,45 +1707,19 @@ gobiernos de las Entidades
 
 Federativas o de los Municipios $5,074.56 $5,075.00
 
-V.- Para la celebración de contratos de fideicomiso:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-a).- Por aquellos fideicomisos
+V.- Por la expedición de permisos para la constitución de fideicomisos:
 
-a que se refiere el artículo 11
+a).- Por los permisos para constituir fideicomisos a que se refiere el artículo 11 de la Ley de Inversión Extranjera $10,454.26
 
-de la Ley de Inversión Extranjera $10,454.26 $10,455.00
+b).- Para la modificación de los permisos para la constitución de los fideicomisos a que se refiere el inciso anterior $4,703.61
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+c).- Por la solicitud extemporánea del permiso para la ampliación de la vigencia de los contratos de fideicomiso, de conformidad con lo dispuesto en la Ley de Inversión Extranjera $5,125.41
 
-b).- Para la modificación y
-
-reforma de los contratos de
-
-fideicomiso a que se refiere el
-
-inciso anterior $4,703.61 $4,705.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
-
-c).- Por la solicitud extemporánea
-
-para la ampliación de la duración
-
-de los contratos de fideicomiso,
-
-de conformidad con la Ley de
-
-Inversión Extranjera $5,125.41 $5,125.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
-
-d).- Para los demás casos no
-
-señalados en los incisos
-
-anteriores $345.41 $345.00
+d).- Para los demás casos no señalados en los incisos anteriores $345.41
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
@@ -1801,17 +1753,9 @@ y sus accesiones $5,074.56 $5,075.00
 
 VIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX.- Por la presentación de
-
-cada aviso de uso de permiso
-
-en la constitución de sociedades
-
-o asociaciones y de reformas
-
-a sus estatutos $258.77 $260.00
+IX.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
@@ -2953,143 +2897,37 @@ ajuste ajuste
 
 I. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 II. Bolsas de Futuros y Opciones:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+Cada entidad que pertenezca al sector de Bolsas de Futuros y Opciones, entendiéndose para tales efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de las disposiciones aplicables, pagará la cuota $3,000,000.00
 
-Cada entidad que pertenezca
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-al sector de Bolsas de Futuros
-
-y Opciones, entendiéndose
-
-para estos efectos a las
-
-entidades que cuenten con
-
-autorización para constituirse
-
-y operar como tales en términos
-
-de las disposiciones aplicables,
-
-pagará el 1.74 por ciento respecto
-
-de su capital contable, excluyendo
-
-el resultado no realizado por
-
-valuación de cartera de valores
-
-y actualización patrimonial sin
-
-que los derechos a pagar sean
-
-inferiores a: $1,041,906.62 $1,041,907.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 III. Bolsas de Valores:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+Cada entidad que pertenezca al sector de Bolsas de Valores, entendiéndose para tales efectos a las entidades que cuenten con la concesión para constituirse y operar como tales en términos de la legislación aplicable, pagará la cuota de $7,500,000.00
 
-Cada entidad que pertenezca
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-al sector de Bolsas de Valores,
-
-entendiéndose para estos efectos
-
-a las entidades que cuenten con
-
-la concesión para constituirse y
-
-operar como tales en términos
-
-de la legislación aplicable, pagará
-
-el 0.82 por ciento respecto de su
-
-capital contable, excluyendo el
-
-resultado no realizado por valuación
-
-de cartera de valores y actualización
-
-patrimonial sin que los derechos a
-
-pagar sean inferiores a: $1,155,940.99 $1,155,941.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 IV. Cámaras de Compensación:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+Cada entidad que pertenezca al sector de Cámaras de Compensación, entendiéndose para tales efectos a las sociedades que cuenten con la autorización correspondiente en términos de la legislación aplicable, pagará la cuota de $2,500,000.00
 
-Cada entidad que pertenezca
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-al sector de Cámaras de
-
-Compensación, entendiéndose
-
-por ello a las sociedades que
-
-cuenten con la autorización
-
-correspondiente en términos
-
-de la legislación aplicable,
-
-deberá pagar anualmente
-
-una cantidad igual al 1.13
-
-por ciento respecto de su
-
-capital contable, excluyendo
-
-el resultado no realizado por
-
-valuación de cartera de valores
-
-y actualización patrimonial sin
-
-que los derechos a pagar sean
-
-inferiores a: $1,296,303.55 $1,296,304.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 V. Contrapartes Centrales:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
-
-Cada entidad que pertenezca
-
-al sector de Contrapartes Centrales,
-
-entendiéndose por ello a las
-
-sociedades que cuenten con la
-
-concesión correspondiente en
-
-términos de la legislación aplicable,
-
-pagará el 1.56 por ciento respecto
-
-de su capital contable, excluyendo
-
-el resultado no realizado por
-
-valuación de cartera de valores y
-
-actualización patrimonial sin que
-
-los derechos a pagar sean inferiores
-
-a: $937,296.00 $937,296.00
+Cada entidad que pertenezca al sector de Contrapartes Centrales, entendiéndose para tales efectos a las sociedades que cuenten con la concesión correspondiente en términos de la legislación aplicable, pagará la cuota de $2,500,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3149,41 +2987,13 @@ de la Ley del Mercado de Valores,
 
 deberá pagar: $441,643.79 $441,644.00
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 XII. Instituciones para el Depósito de Valores:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
-
-Cada entidad que pertenezca
-
-al sector de Instituciones para
-
-el Depósito de Valores,
-
-entendiéndose por ello a
-
-aquellas sociedades que
-
-cuenten con la concesión
-
-correspondiente en términos
-
-de la legislación aplicable,
-
-pagará el 1.06 por ciento
-
-respecto de su capital contable,
-
-excluyendo el resultado no
-
-realizado por valuación de
-
-cartera de valores y actualización
-
-patrimonial sin que los derechos a
-
-pagar sean inferiores a: $727,283.23 $727,283.00
+Cada entidad que pertenezca al sector de Instituciones para el Depósito de Valores, entendiéndose para tales efectos a las sociedades que cuenten con la concesión correspondiente en términos de la legislación aplicable, pagará la cuota de $4,500,000.00
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -3573,11 +3383,13 @@ En el caso de las entidades financieras de nueva creación, incluyendo las filia
 
 Las entidades financieras señaladas en los artículos 29-D y 29-E de esta Ley, no estarán obligadas al pago de derechos por concepto de inspección y vigilancia cuando por cualquier acto de la autoridad competente para ello, o por cualquier otra causa prevista en las leyes, pierdan el carácter de entidad supervisada a que se refieren los propios artículos 29-D y 29-E. Lo anterior, aplicará desde el momento en que surta efectos la notificación relativa de la autoridad de que se trate y ésta haya quedado firme, o bien, se actualicen los supuestos previstos en las leyes de que se trate. En caso de que el acto de autoridad a que se refiere este párrafo haya quedado sin efectos por resolución de autoridad competente para ello, las entidades señaladas en los artículos 29-D y 29-E de esta Ley, deberán cubrir las cuotas que hubieren dejado de pagar en términos de las disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 29-H.
 
-En el caso de fusión de entidades financieras o de filiales de entidades financieras del exterior, el importe de los derechos por inspección y vigilancia a pagar por la entidad fusionante o la de nueva creación durante el resto del ejercicio en que se produzca este evento, será por la suma de las cuotas que correspondan a las entidades participantes en la fusión. Dichos derechos deberán ser pagados al momento de recibir la autorización correspondiente o, en su caso, a partir de que surta efectos la fusión cuando no se requiera autorización en términos de las disposiciones aplicables.
+En el caso de fusión de entidades financieras o de filiales de entidades financieras del exterior, el importe de los derechos por inspección y vigilancia a pagar por la entidad fusionante o la de nueva creación durante el resto del ejercicio en que se produzca este evento, será la suma de las cuotas que correspondan a las entidades participantes en la fusión, sin que en ningún caso el resultado de dicha suma exceda de la cuota máxima o fija que corresponda conforme a los artículos 29-D o 29-E de esta Ley, según sea el caso. Dichos derechos deberán ser pagados al momento de recibir la autorización correspondiente o, en su caso, a partir de que surta efectos la fusión cuando no se requiera autorización en términos de las disposiciones aplicables.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4971,6 +4783,12 @@ de importación; exportación o
 
 tránsito $222.90 $223.00
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+e).- Por cada rectificación de pedimento $222.90
+
 (ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
 VIII.- Del 8 al millar, sobre el valor
@@ -5533,9 +5351,11 @@ Por la obtención de precintos que se adhieran a los envases que contengan bebid
 
 ### CAPITULO V. Secretaría de Energía
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-#### SECCION UNICA (SIC). Permisos en Materia de Energía Eléctrica y Gas Natural
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+#### SECCION UNICA (SIC). Actividades Reguladas en Materia Energética
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -5565,15 +5385,21 @@ c). Mayor a 50 y hasta 200 MW: $148,314.67 $148,315.00
 
 d). Mayor a 200 MW: $627,324.82 $627,325.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Por la supervisión de los
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-permisos de energía eléctrica,
+II. Por la supervisión de los permisos de energía eléctrica, se pagará anualmente el derecho de supervisión, conforme a las siguientes cuotas:
 
-se pagará anualmente el derecho,
+a). Hasta 3 MW $14,000.00
 
-conforme a la siguiente cuota: $8,100.05 $8,100.00
+b). Mayor a 3 y hasta 10 MW $76,740.00
+
+c). Mayor a 10 y hasta 50 MW $189,276.00
+
+d). Mayor a 50 y hasta 200 MW $312,772.00
+
+e). Mayor a 200 MW $951,265.00
 
 III. Por la modificación de los títulos de permiso de energía eléctrica, se pagarán derechos conforme a las siguientes cuotas:
 
@@ -5629,35 +5455,29 @@ ajuste ajuste
 
 I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso relacionados con la distribución, almacenamiento o transporte de gas natural, de conformidad con las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a). Tratándose de permisos de
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-distribución de gas natural sin
+a). Permisos de distribución de gas natural $512,348.00
 
-licitación: $277,354.61 $277,355.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-b). Tratándose de permisos de
+b). Permisos de transporte de gas natural para usos propios en su modalidad de sociedades de autoabastecimiento $311,459.00
 
-distribución de gas natural mediante
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-licitación: $133,273.78 $133,274.00
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+c). Permisos de transporte de gas natural de acceso abierto $512,348.00
 
-c). Tratándose de permisos de
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-transporte de gas natural: $373,337.47 $373,337.00
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
-
-d). Tratándose de permisos de
-
-transporte de gas natural para usos
-
-propios: $137,754.91 $137,755.00
+d). Permisos de transporte de gas natural para usos propios $253,868.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
@@ -5677,61 +5497,47 @@ para usos propios: $128,930.64 $128,931.00
 
 II. Por la supervisión de los permisos de gas natural, se pagará anualmente el derecho, conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a). Tratándose de permisos de
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-distribución de gas
+a). Permisos de distribución de gas natural $405,277.00
 
-natural: $140,190.34 $140,190.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-b). Tratándose de permisos de
+b). Permisos de transporte de gas natural de acceso abierto $367,708.00
 
-transporte de gas natural: $92,344.08 $92,344.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-c). Tratándose de permisos de
+c). Permisos de almacenamiento de gas natural $493,183.00
 
-almacenamiento de gas natural: $97,839.79 $97,840.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-d). Tratándose de los permisos
+d). Permisos de transporte de gas natural para usos propios $144,471.00
 
-de transporte de gas natural para
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-usos propios: $18,871.78 $18,872.00
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+e). Permisos de almacenamiento de gas natural para usos propios $93,863.00
 
-e). Tratándose de los permisos
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-de almacenamiento de gas natural
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-para usos propios: $26,015.76 $26,016.00
+f). Permisos de transporte de gas natural para usos propios en su modalidad de sociedades de autoabastecimiento $187,032.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Por la modificación del permiso
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-de distribución, transporte o
-
-almacenamiento de gas natural
-
-que por concepto de la revisión
-
-periódica al término de cada
-
-periodo de cinco años que
-
-realice la Comisión Reguladora
-
-de Energía, de conformidad a las
-
-disposiciones legales aplicables: $339,569.42 $339,569.00
+III. Por la modificación del permiso de distribución, transporte o almacenamiento de gas natural que por concepto de la revisión periódica al término de cada periodo de cinco años realice la Comisión Reguladora de Energía, de conformidad a las disposiciones legales aplicables $343,411.00
 
 IV. Por la modificación de los títulos de permiso de gas natural, se pagarán derechos conforme a las siguientes cuotas:
 
@@ -5749,59 +5555,65 @@ V. Por el análisis, evaluación y, en su caso, renovación de los permisos de d
 
 Se pagarán derechos en materia de gas licuado de petróleo por los servicios que presta la Comisión Reguladora de Energía, conforme a lo siguiente:
 
-cuota sin cuota con
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ajuste ajuste
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del permiso para la distribución, el transporte de gas licuado de petróleo por medio de ductos y transporte por medio de ductos para autoconsumo, conforme a las siguientes cuotas:
+I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del permiso para la distribución, el almacenamiento y el transporte de gas licuado de petróleo por medio de ductos, conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+a). Permisos para la distribución de gas licuado de petróleo por medio de ductos $503,844.00
 
-a). Permisos para la distribución de
+b). Permisos para el transporte de gas licuado de petróleo por medio de ductos $503,844.00
 
-gas licuado de petróleo por medio de
+c). Permisos para el transporte de gas licuado de petróleo por ductos para autoconsumo $190,402.00
 
-ductos: $256,985.81 $256,986.00
+d). Permisos para el almacenamiento de gas licuado de petróleo mediante planta de suministro o depósito $503,844.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b). Permisos para el transporte de
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-gas licuado de petróleo por medio de
+II. Por la supervisión de los permisos en materia de gas licuado de petróleo, se pagará anualmente el derecho de supervisión conforme a las siguientes cuotas:
 
-ductos: $272,286.14 $272,286.00
+a). Permisos para la distribución de gas licuado de petróleo por medio de ductos $405,277.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+b). Permisos para el transporte de gas licuado de petróleo por medio de ductos $367,708.00
 
-c). Permisos para el transporte de
+c). Permisos para el transporte de gas licuado de petróleo por ductos para autoconsumo $144,471.00
 
-gas licuado de petróleo por
-
-ductos para autoconsumo: $126,198.24 $126,198.00
-
-II. Por la supervisión de los permisos en materia de gas licuado de petróleo, se pagará anualmente el derecho, conforme a las siguientes cuotas:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
-
-a). Tratándose de permisos de
-
-distribución de gas licuado de
-
-petróleo: $70,095.17 $70,095.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
-
-b). Tratándose de permisos de
-
-transporte de gas licuado de
-
-petróleo: $61,008.14 $61,008.00
+d). Permisos para el almacenamiento de gas licuado de petróleo mediante planta de suministro o depósito $493,166.00
 
 III. Por la modificación de los títulos de permiso de gas licuado de petróleo, se pagarán derechos conforme a las siguientes cuotas:
 
 a). El 50 por ciento de la cuota establecida en la fracción I del presente artículo, cuando se requiera contar con un análisis técnico, jurídico o financiero por parte de la Comisión Reguladora de Energía o, en su caso, se requiera la intervención de otras autoridades del Gobierno Federal.
 
 b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO 58-A.
+
+Por la supervisión de la operación y el mantenimiento de las actividades de transporte y distribución por medio de ductos de los productos que se obtengan de la refinación del petróleo y de los petroquímicos básicos, así como de los sistemas de almacenamiento que se encuentren directamente vinculados a éstos, Petróleos Mexicanos y sus organismos subsidiarios pagarán anualmente derechos conforme a las siguientes cuotas:
+
+I. Por las terminales de almacenamiento y recepción $493,166.00
+
+II. Por los ductos interconectados a las terminales de almacenamiento y recepción $397,708.00
+
+III. Por otros sistemas de transporte por medio de ductos $144,471.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO 58-B.
+
+Por el análisis y, en su caso, la expedición de la resolución sobre las propuestas de Petróleos Mexicanos y sus organismos subsidiarios, dichos organismos pagarán derechos conforme a las siguientes cuotas:
+
+I. Respecto de los términos y condiciones de las ventas de primera mano del gas, del combustóleo y de los petroquímicos básicos $495,275.00
+
+II. Respecto de los términos y condiciones del transporte y distribución por medio de ductos de los productos que se obtengan de la refinación del petróleo y de los petroquímicos básicos; así como los sistemas de almacenamiento que se encuentren directamente vinculados a éstos, o que forman parte integral de las terminales de importación o distribución de dichos productos $504,464.00
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6016,6 +5828,16 @@ el derecho conforme a la cuota de: $1,524.18 $1,524.00
 ###### ARTICULO 61-D.
 
 Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso o autorización, de recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral, se pagarán derechos conforme a la cuota de: $50,000.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO 61-E.
+
+Por la recepción y análisis de la solicitud y, en su caso, por la expedición de permisos para la producción, almacenamiento, transporte y comercialización de bioenergéticos, se pagarán derechos, por cada uno, conforme a la cuota de $10,848.00
+
+Tratándose de solicitudes para la autorización de prórroga, transferencia y modificación de los términos y condiciones originales de los permisos señalados en el párrafo anterior se pagarán derechos, por cada una, conforme a la cuota a que se refiere el citado párrafo.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -7135,9 +6957,13 @@ productores $626.38 $626.00
 
 Por duplicado o refrendo de la aprobación a que se refiere este artículo se pagará el 50% de la cuota correspondiente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 86-D
 
-1.- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
+1.- Por el estudio y análisis de la solicitud y, en su caso, la autorización para funcionar como laboratorio zoosanitario para diagnóstico o laboratorio zoosanitario de constatación, se pagarán derechos conforme a la cuota de $4,990.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7163,29 +6989,13 @@ II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-cuota sin cuota con
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ajuste ajuste
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 86-G.
 
-Por inspección
-
-veterinaria oficial realizada a
-
-establecimientos Tipo Inspección
-
-Federal dedicados a la exportación
-
-de carne y productos cárnicos, se
-
-pagará el derecho por inspección
-
-veterinaria oficial, conforme a la
-
-cuota de $983.53 $984.00
+Por cada visita de inspección veterinaria oficial realizada a establecimientos Tipo Inspección Federal para obtener la autorización de exportación de carne y productos cárnicos, se pagará el derecho por inspección veterinaria oficial, conforme a la cuota de $983.53
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -7259,11 +7069,11 @@ II.- Por cada copia certificada del
 
 Título $318.07 $318.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Por el registro de la renuncia
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-al derecho $1,591.06 $1,591.00
+III.- Por el registro de la transmisión total o parcial del derecho $585.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
@@ -7361,17 +7171,59 @@ catálogo de variedades factibles
 
 de certificación $230.98 $231.00
 
-> <small>(DEROGADA CON LAS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-#### SECCION CUARTA. Servicios que presta la Comisión Intersecretarial para el Control del Proceso y uso de Plaguicidas, Fertilizantes y Sustancias Toxicas
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+V.- Por la expedición del certificado internacional de calidad de semilla, por etiqueta $3.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+VI.- Por la expedición de certificado internacional de calidad, para semilla finalmente no certificada $300.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+#### SECCION CUARTA. Sanidad Acuícola
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 90-A.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
+Por la expedición de cada certificado de sanidad acuícola, se pagará el derecho de certificación de sanidad acuícola, conforme a las siguientes cuotas:
+
+I. Para importación de especies acuáticas, sus productos y subproductos, así como de productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies $1,700.00
+
+II. Para exportación de especies acuáticas, sus productos y subproductos, así como de productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies $500.00
+
+III. Para tránsito internacional de especies acuáticas, sus productos y subproductos, así como productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies $415.00
+
+IV. Para movilización de especies acuícolas vivas, sus productos y subproductos, así como de productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies $400.00
+
+V. Para establecimientos en operación en los que se produzcan, procesen, comercialicen, transporten y almacenen, productos y subproductos acuícolas, así como productos químicos, biológicos, farmacéuticos y alimenticios para el uso o consumo de dichas especies $2,200.00
+
+VI. Para uso y aplicación de antibióticos, medicamentos veterinarios, aditivos y demás sustancias químicas a los organismos de cultivo $970.00
+
+VII. Para introducción de especies acuícolas vivas a un cuerpo de agua de jurisdicción federal $400.00
+
+VIII. Para instalaciones en las que se realicen actividades acuícolas $2,200.00
+
+IX. Para especies acuáticas vivas capturadas de poblaciones naturales que se destinen a la acuacultura $400.00
+
+X. Para unidades de cuarentena $2,200.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 90-B.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
+Por el estudio de la solicitud y, en su caso, la expedición del certificado de libre venta o de origen o de regulación vigente para empresas y productos regulados, para especies acuáticas, sus productos y subproductos, productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies, se pagarán derechos, por cada uno, conforme a la cuota de $400.00
 
 ###### ARTICULO 90-C.
 
@@ -7385,13 +7237,27 @@ de certificación $230.98 $231.00
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-#### SECCION QUINTA. De los Parques Nacionales
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+#### SECCION QUINTA. De los Organismos Genéticamente Modificados
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 90-F.
 
-(DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+Por los servicios de recepción y análisis de la solicitud y, en su caso, la expedición de permisos en materia de organismos genéticamente modificados, se pagará el derecho por actividades relacionadas con la liberación al ambiente, conforme a las siguientes cuotas:
+
+I. Por el permiso de liberación experimental al ambiente de organismos genéticamente modificados, incluyendo su importación $41,681.00
+
+II. Por el permiso de liberación al ambiente en programa piloto de organismos genéticamente modificados, incluyendo su importación $41,681.00
+
+III. Por el permiso de liberación comercial al ambiente de organismos genéticamente modificados, incluyendo su importación $41,681.00
+
+Tratándose de la solicitud de reconsideración de resolución negativa de cada permiso a que se refiere este artículo, se pagará la cuota de $12,990.00
 
 ###### ARTICULO 90-G.
 
@@ -10154,6 +10020,12 @@ Los usuarios que tengan autorizado por SENEAM la prestación de los servicios es
 Para tener acceso a los sistemas establecidos en los Apartados A, B y E de este artículo, el equipo que utilice el usuario deberá contar con la aprobación previa y por escrito de SENEAM y con el enlace necesario.
 
 No se pagarán los derechos a que se refiere el Apartado C de este artículo, cuando la información se proporcione a las instituciones de enseñanza educativa sin fines de lucro, para investigación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+No se pagará el derecho señalado en el Apartado F de este artículo, siempre y cuando la capacitación se proporcione para la formación teórica y práctica de personal del Gobierno Federal en materia de seguridad nacional y defensa nacional.
 
 ###### ARTICULO 151-A.
 
@@ -14059,21 +13931,13 @@ autorice la gestión individual de
 
 derechos patrimoniales $1,169.32 $1,169.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-XII. Por el procedimiento de avenencia, se pagarán los siguientes derechos:
+XII.- Por la recepción y estudio del escrito de queja dentro del procedimiento de avenencia y, en su caso, por la realización de la primera audiencia en el procedimiento de avenencia $324.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 26 DE DICIEMBRE DE 2008)
-
-a). Por la solicitud e inicio del procedimiento de avenencia $324.00
-
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 26 DE DICIEMBRE DE 2008)
-
-b). Por la primera junta de avenencia $324.00
-
-Tratándose de las subsecuentes juntas de avenencia, por la celebración de cada una se pagará el 50% de la cuota establecida en este inciso.
+Tratándose de las subsecuentes audiencias, por la celebración de cada una se pagará el 50% de la cuota establecida en esta fracción.
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
@@ -15529,33 +15393,17 @@ titular de los derechos de la concesión
 
 acuícola $1,406.41 $1,406.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII.- Por la expedición del certificado
+VIII.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-de sanidad acuícola, por lote $345.46 $345.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+IX.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-IX.- Por la expedición del certificado
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-de sanidad acuícola por lote para la
-
-importación de organismos acuáticos
-
-vivos destinados a la acuacultura u
-
-ornato $2,657.48 $2,657.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
-
-X.- Por la expedición del certificado
-
-de registro para la operación y
-
-funcionamiento de unidades de
-
-cuarentena $178.47 $178.00
+X.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -15705,6 +15553,12 @@ cuando se modifiquen las características
 
 del título $2,529.75 $2,530.00
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+Tratándose de los casos previstos en las fracciones IV y V de este artículo, los interesados pagarán además el derecho de la inscripción correspondiente en el Registro Público de Derechos de Agua en términos del artículo 192-C de esta Ley.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 192-A.
@@ -15790,6 +15644,12 @@ uno $1,403.54 $1,404.00
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 Los derechos a que se refiere este artículo, se pagarán independientemente de los que corresponden por el uso o goce de inmuebles, conforme al Título II de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+Tratándose del caso previsto en la fracción V de este artículo, los interesados pagarán además el derecho de la inscripción correspondiente en el Registro Público de Derechos de Agua en términos del artículo 192-C de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -16539,9 +16399,21 @@ Evaluación del Impacto Ambiental,
 
 se pagará la cuota de: $2,869.00 $2,869.00
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTICULO 194-I.
 
-(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
+Por los servicios de recepción y análisis de la solicitud y, en su caso, la expedición de permisos en materia de organismos genéticamente modificados, se pagará el derecho por actividades relacionadas con la liberación al ambiente, conforme a las siguientes cuotas:
+
+I. Por el permiso de liberación experimental al ambiente de organismos genéticamente modificados, incluyendo su importación $20,610.00
+
+II. Por el permiso de liberación al ambiente en programa piloto de organismos genéticamente modificados, incluyendo su importación $20,610.00
+
+III. Por el permiso de liberación comercial al ambiente de organismos genéticamente modificados, incluyendo su importación $20,610.00
+
+Tratándose de la solicitud de reconsideración de resolución negativa de cada permiso a que se refiere este artículo, se pagará la cuota $17,775.00
 
 ###### ARTICULO 194-J.
 
@@ -17339,23 +17211,13 @@ certificación excepcional de vehículos
 
 nuevos, por cada vehículo $333.14 $333.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII.- Por el análisis de la solicitud y,
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-en su caso, la expedición del
+VIII.- Por el análisis de la solicitud y, en su caso, la expedición de la aprobación como Organismo de Certificación de Producto, Laboratorio de Ensayo o Prueba y Unidad de Verificación, para evaluar la conformidad de las normas oficiales mexicanas expedidas por la Secretaría de Medio Ambiente y Recursos Naturales, se pagarán derechos por cada solicitud, independientemente del número de aprobaciones emitidas $11,968.77
 
-certificado de aprobación como Unidad
-
-de Verificación, Laboratorio de Prueba
-
-u Organismo de Certificación, se
-
-pagarán derechos por cada solicitud,
-
-independientemente del número de
-
-certificados de aprobación emitidos $11,968.77 $11,969.00
+Las unidades de verificación que soliciten la aprobación para ser consideradas auditores ambientales dentro del Programa Nacional de Auditoría Ambiental, no pagarán los derechos a que se refiere esta fracción. Dichas unidades de verificación deberán pagar el referido derecho cuando pretendan obtener la aprobación para evaluar la conformidad de una norma oficial mexicana expedida por la Secretaría de Medio Ambiente y Recursos Naturales.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -17474,6 +17336,12 @@ c).- Por farmacia o botica $997.40 $997.00
 (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
 d).- Droguerías $2,493.49 $2,493.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+Tratándose de la licencia sanitaria de establecimientos que realicen actividades de producción, fabricación o importación de productos del tabaco, se pagarán los derechos al doble de las cuotas señaladas en los incisos a) o b) de esta fracción, según corresponda.
 
 Quedan exceptuados del pago de este derecho, las farmacias y boticas en poblaciones menores de 2500 habitantes. El número de habitantes de las poblaciones se determinará de conformidad con la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población, provenientes del último Censo General de Población y Vivienda publicado por el Instituto Nacional de Estadística, Geografía e Informática, actualizado con las proyecciones de población publicadas por el Consejo Nacional de Población.
 
@@ -19385,51 +19253,39 @@ ajuste ajuste
 
 I.- Por el estudio y trámite de la solicitud para la autorización o para su revalidación:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a).- Para prestar los servicios
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-de vigilancia en inmuebles $12,530.14 $12,530.00
+a).- Para prestar servicios de seguridad privada en los bienes $12,530.14
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b).- Para prestar los servicios de
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-traslado y custodia de bienes o
+b).- Para prestar los servicios de seguridad privada en el traslado de bienes o valores $12,325.43
 
-valores $12,325.43 $12,325.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-c).- Para prestar los servicios de
+c).- Para prestar los servicios de seguridad privada a personas $12,530.14
 
-traslado y protección de personas $12,530.14 $12,530.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-d).- Para prestar los servicios de
+d).- Para prestar los servicios de sistemas de prevención y responsabilidades $11,673.30
 
-localización e información sobre
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-personas físicas o morales y bienes $11,673.30 $11,673.00
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+e).- Para prestar los servicios de seguridad de la información y por cualquier actividad vinculada con los servicios de seguridad privada $11,673.30
 
-e).- Para prestar los servicios de
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-establecimiento y operación de
-
-sistemas y equipos de seguridad $11,673.30 $11,673.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
-
-f).- Por cada actividad distinta a
-
-las anteriores relacionada y
-
-vinculada directamente con los
-
-servicios de seguridad privada $11,673.30 $11,673.00
+f).- (DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
 
@@ -20191,93 +20047,35 @@ Las Entidades Federativas que hayan celebrado convenio de colaboración administ
 
 ### CAPITULO III. Puerto y Atraque
 
-cuota sin cuota con
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ajuste ajuste
-
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 28 DE ENERO DE 2008)
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 200.
 
-Las personas
+Las personas físicas y morales que usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de altura que entre a los mismos, el derecho de puerto de altura conforme a la cuota de $4.98, por unidad de arqueo bruto o fracción.
 
-físicas o morales que usen los
+Tratándose de embarcaciones que realicen tráfico mixto, se pagará el 90% de la cuota correspondiente al derecho de puerto de altura, por cada puerto o terminal de uso público fuera de puerto habilitado en que entren.
 
-puertos nacionales pagarán por
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-cada embarcación en tráfico de
-
-altura que entre a los mismos,
-
-el derecho de puerto de altura
-
-conforme a la cuota de $4.98
-
-por unidad de arqueo bruto o
-
-fracción.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Tratándose de embarcaciones que realicen tráfico mixto, se pagará el 90% de la cuota correspondiente al derecho de puerto de altura, por cada puerto en que entren.
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 200-A.
 
-Las personas
+Las personas físicas y morales cuyas embarcaciones entren a los puertos nacionales o a las terminales de uso público fuera de puerto habilitado pagarán, por cada embarcación de altura dedicada exclusivamente a actividades turísticas, el derecho de puerto de altura, conforme a la cuota de $2.20, por unidad de arqueo bruto o fracción.
 
-físicas o morales que entren a los
+Tratándose de las embarcaciones que realicen exclusivamente actividades turísticas y que en un viaje entren a diversos puertos nacionales, se pagará el 90% de la cuota a que se refiere el párrafo anterior, por cada uno de los puertos o terminales de uso público fuera de puerto habilitado, siguientes al primero.
 
-puertos nacionales pagarán, por
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-cada embarcación de altura
-
-dedicada exclusivamente a
-
-actividades turísticas, el derecho
-
-de puerto de altura, conforme a la
-
-cuota de $2.20
-
-por unidad de arqueo bruto o fracción.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Por las embarcaciones que realicen exclusivamente actividades turísticas y que en un viaje, entren a diversos puertos nacionales, se pagará el 90% de la cuota a que se refiere el párrafo anterior, por cada uno de los puertos siguientes al primero.
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2008)
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 201.
 
-Las personas físicas
+Las personas físicas y morales cuyas embarcaciones usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de cabotaje que entre a los mismos, el derecho de puerto de cabotaje conforme a la cuota de $1.58, por unidad de arqueo bruto o fracción.
 
-y las morales que usen los puertos
-
-nacionales pagarán por cada
-
-embarcación en tráfico de cabotaje
-
-que entre a los mismos, el derecho
-
-de puerto de cabotaje conforme a la
-
-cuota de $1.58
-
-por unidad de arqueo bruto o fracción.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-Las embarcaciones dedicadas exclusivamente a actividades turísticas pagarán el 75% de la cuota del derecho de puerto de cabotaje, por cada puerto en que entren.
+Las embarcaciones dedicadas exclusivamente a actividades turísticas pagarán el 75% de la cuota del derecho de puerto de cabotaje, por cada puerto o terminal de uso público fuera de puerto habilitado en que entren.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -20891,7 +20689,9 @@ C. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo
 
 Zona de disponibilidad 1 a 9 $0.1295
 
-El derecho a que se refiere este Apartado, se pagará mensualmente mediante declaración que se presentará en las oficinas autorizadas por el Servicio de Administración Tributaria, dentro de los primeros 17 días del mes inmediato posterior a aquél por el que corresponda el pago.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 Los ingresos que se obtengan por la recaudación del derecho a que se refiere este Apartado, se destinarán a la Comisión Nacional del Agua para la instalación de dispositivos de medición y tecnificación del propio sector agropecuario.
 
@@ -22017,21 +21817,31 @@ V.- No se pagará el derecho a que se refiere el artículo 232-C de esta Ley, cu
 
 VI.- No se pagará el derecho a que se refiere el artículo 232-C de esta Ley, cuando la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas estén destinados a labores de seguridad nacional, que realicen las Secretarías de la Defensa Nacional y de Marina.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII.- No se pagará el derecho a que se refiere el artículo 232-C de esta Ley, cuando la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas estén destinados a labores propias de las capitanías de puerto de la Secretaría de Comunicaciones y Transportes.
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+VII.- No se pagarán los derechos a que se refiere este artículo cuando los inmuebles de dominio público de la Federación estén destinados a labores propias de las capitanías de puerto de la Secretaría de Comunicaciones y Transportes.
 
 > <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 VIII.- No se pagará el derecho a que se refiere el artículo 232-C de esta Ley, cuando la zona federal marítimo terrestre, los terrenos ganados al mar o cualquier otro depósito de aguas marinas, se usen o aprovechen para la explotación de salinas formadas de aguas provenientes de mares actuales, superficiales o subterráneos, naturales o artificiales, para lo cual se estará a lo dispuesto en el Capítulo V denominado "Salinas", de este Título.
 
-> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX.- No se pagará el derecho a que se refiere el artículo 232-C de esta Ley, cuando la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas, estén destinadas al servicio de las Secretarías de Estado y órganos desconcentrados de la Administración Pública Federal, Estatal y Municipal que cumplan con los fines públicos para los que fueron creados.
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+IX.- No se pagarán los derechos a que se refiere este artículo cuando la zona federal marítimo terrestre, los terrenos ganados al mar o cualquier otro depósito de aguas marítimas, la zona federal marítima o las aguas interiores, estén destinados al servicio de las Secretarías de Estado y órganos desconcentrados de la Administración Pública Federal, Estatal y Municipal que cumplan con los fines públicos para los que fueron creados.
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 X.- No se pagará el derecho a que se refiere el artículo 232-C, cuando la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas, estén destinadas al servicio de instituciones de beneficencia pública cuando realicen acciones de salvamento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+XI.- No se pagará el derecho a que se refiere el artículo 232 de esta Ley, tratándose de obras de protección contra fenómenos naturales en los puertos.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -23385,6 +23195,138 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTICULO 244-E.
+
+Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue:
+
+Tabla A
+
+Rango de frecuencias en Megahertz
+
+De 1710 MHz a 1770 MHz
+
+De 2110 MHz a 2170 MHz
+
+Tabla B
+
+Cobertura Cuota por cada kilohertz
+
+concesionado permisionado
+
+1MHz=1000 KHz
+
+Todos los municipios de
+
+Baja California, Baja California Sur
+
+y el municipio de San Luis Río Colorado
+
+del estado de Sonora. $2,807.13
+
+Todos los municipios de Sinaloa
+
+y todos los de Sonora, excepto
+
+el municipio de San Luis
+
+Río Colorado. $416.13
+
+Todos los municipios de los
+
+estados de Chihuahua y Durango
+
+y los municipios Francisco I. Madero,
+
+Matamoros, San Pedro,
+
+Torreón y Viesca del
+
+estado de Coahuila. $1,767.46
+
+Todos los municipios de los
+
+estados de Nuevo León,
+
+Tamaulipas y Coahuila,
+
+con excepción de los municipios
+
+de Francisco I. Madero, Matamoros,
+
+Torreón, San Pedro y Viesca. $8,791.07
+
+Todos los municipios de los
+
+estados de Colima, Michoacán,
+
+Nayarit y Jalisco, excepto los
+
+municipios de Bolaños, Colotlán,
+
+Encarnación de Díaz, Huejúcar,
+
+Huejuquilla, Lagos de Moreno,
+
+Mezquitic, Ojuelos de Jalisco,
+
+Santa María de los Angeles,
+
+Teocaltiche, Villa Guerrero y
+
+Villa Hidalgo. $3,414.25
+
+Todos los municipios de
+
+Aguascalientes, Guanajuato,
+
+Querétaro, San Luis Potosí,
+
+Zacatecas y los municipios
+
+de Bolaños, Colotlán,
+
+Encarnación de Díaz, Huejúcar,
+
+Huejuquilla, Lagos de Moreno,
+
+Mezquitic, Ojuelos de Jalisco,
+
+Santa María de los Angeles,
+
+Teocaltiche, Villa Guerrero y
+
+Villa Hidalgo del estado de Jalisco. $1,424.45
+
+Todos los municipios de los
+
+Estados de Guerrero, Oaxaca,
+
+Puebla, Tlaxcala y Veracruz. $243.34
+
+Todos los municipios de los estados
+
+de Campeche, Chiapas, Quintana Roo,
+
+Tabasco y Yucatán. $164.48
+
+Todos los municipios de los estados
+
+de Hidalgo, Morelos y Estado de México,
+
+y todas las delegaciones del
+
+Distrito Federal. $12,786.32
+
+Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
+
+Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
+
+El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 245.
@@ -23817,81 +23759,51 @@ La recaudación anual que genere la aplicación del derecho a que se refiere est
 
 En el marco de una política energética de largo plazo y a propuesta del Ejecutivo Federal, el Congreso de la Unión aprobará cada año en la Ley de Ingresos la estimación de las plataformas máximas de extracción y de exportación de hidrocarburos.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ARTICULO 257 BIS.- Por la extracción de petróleo crudo y gas natural de los campos en el Paleocanal de Chicontepec y de los campos en aguas profundas, PEMEX Exploración y Producción estará obligado al pago anual del derecho sobre extracción de hidrocarburos.
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-Para calcular el pago anual del derecho sobre extracción de hidrocarburos a que se refiere este artículo, se aplicará la tasa que corresponda conforme a la siguiente tabla, según el rango en el que se ubique el precio promedio ponderado anual del barril de petróleo crudo exportado, al valor anual del petróleo crudo y gas natural extraídos en el año de los campos en el Paleocanal de Chicontepec y de los campos en aguas profundas, incluyendo el consumo que de estos productos efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos.
+ARTICULO 257 BIS.- PEMEX Exploración y Producción estará obligado al pago anual de los derechos sobre extracción de hidrocarburos, especial sobre hidrocarburos y adicional sobre hidrocarburos, en los términos de los artículos 257 Ter, 257 Quáter y 257 Séptimus de esta Ley, respectivamente, por la extracción de petróleo crudo y gas natural de los campos siguientes:
 
-TABLA
+I. Como una sola unidad, la totalidad de los campos en el Paleocanal de Chicontepec como se define en el artículo 258 Bis de esta Ley, con excepción de aquéllos que hayan sido expresamente segregados como campos de extracción de petróleo crudo y gas natural de por lo menos 5 minutos de latitud por 5 minutos de longitud de superficie, mediante declaración de la Comisión Nacional de Hidrocarburos, previa autorización de la Secretaría de Hacienda y Crédito Público;
 
-(VEASE ARCHIVO ANEXO)
+II. Los campos en el Paleocanal de Chicontepec que hayan sido segregados conforme a lo establecido en la fracción anterior. En el caso de estos campos, para efectos de lo que se determina en el párrafo segundo del artículo 257 Quáter, la producción acumulada de dicho campo se considerará como la producción acumulada a partir del inicio de operaciones, y en ningún caso a partir de que hayan sido segregados, y
 
-El pago del derecho sobre extracción de hidrocarburos se hará mediante declaración anual que se presentará a más tardar el último día hábil del mes de marzo del año siguiente al ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de ese derecho correspondientes al ejercicio a que se refiera la declaración anual.
+III. Los campos en aguas profundas, como se define en el artículo 258 Bis de esta Ley.
+
+PEMEX Exploración y Producción establecerá un registro de los costos y gastos de la exploración, desarrollo y extracción por cada uno de los campos a que se refieren las fracciones anteriores, así como de los tipos específicos de petróleo crudo y gas natural que se obtengan y deberá enviar a la Cámara de Diputados y al Servicio de Administración Tributaria la información periódica que se incorpore en dicho registro, poniendo a disposición de ambos los datos, estudios, reportes, prospectivas y demás fuentes de información en que se sustente la información incorporada al registro, con objeto de que puedan llevarse a cabo los actos de fiscalización que se consideren pertinentes a través de la Auditoría Superior de la Federación y del Servicio de Administración Tributaria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+ARTICULO 257 TER.- Por la extracción de petróleo crudo y gas natural de cada uno de los campos a los que se refiere el artículo 257 Bis de esta Ley, PEMEX Exploración y Producción estará obligado al pago anual del derecho sobre extracción de hidrocarburos.
+
+Para calcular el pago anual del derecho sobre extracción de hidrocarburos a que se refiere este artículo, se aplicará la tasa del 15% al valor anual del petróleo crudo y gas natural extraídos en cada campo, incluyendo el consumo que de estos productos efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos.
+
+El pago del derecho sobre extracción de hidrocarburos se hará mediante declaración anual, por cada campo, que se presentará a más tardar el último día hábil del mes de marzo del año siguiente al ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de ese derecho correspondientes al ejercicio a que se refiera la declaración anual.
 
 La recaudación anual del derecho a que se refiere este artículo se destinará al Fondo de Estabilización de los Ingresos Petroleros.
 
 A cuenta del derecho sobre extracción de hidrocarburos se harán pagos provisionales mensuales que se pagarán a más tardar el último día hábil del mes posterior a aquél al que correspondan dichos pagos provisionales.
 
-El pago provisional se calculará aplicando al valor del petróleo crudo y gas natural extraídos de los campos en el Paleocanal de Chicontepec y de los campos en aguas profundas, desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, incluyendo el consumo que de estos productos hubiera realizado PEMEX Exploración y Producción, la tasa que corresponda de acuerdo con la tabla prevista en este artículo conforme al precio promedio ponderado del barril de petróleo crudo exportado en el mismo periodo. Al pago provisional así determinado, se le restarán los pagos provisionales efectivamente pagados del derecho sobre extracción de hidrocarburos, realizados en los meses anteriores correspondientes a dicho ejercicio y la diferencia será el pago provisional a enterar.
+El pago provisional se calculará aplicando la tasa del 15% al valor del petróleo crudo y gas natural extraídos en el campo de que se trate, desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, incluyendo el consumo que de estos productos hubiera realizado PEMEX Exploración y Producción. Al pago provisional así determinado, se le restarán los pagos provisionales efectivamente pagados del derecho sobre extracción de hidrocarburos, realizados en los meses anteriores correspondientes a dicho ejercicio y la diferencia será el pago provisional a enterar.
 
-Para la determinación del monto a pagar por el derecho sobre hidrocarburos para el fondo de estabilización a que se refiere el artículo 256 de esta Ley, así como de sus pagos provisionales, no se considerará el valor del petróleo crudo y gas natural extraídos de los campos en el Paleocanal de Chicontepec y de los campos en aguas profundas.
+Para la determinación del monto a pagar por el derecho sobre hidrocarburos para el fondo de estabilización a que se refiere el artículo 256 de esta Ley, así como de sus pagos provisionales, no se considerará el valor del petróleo crudo y gas natural extraídos de los campos a los que se refiere el artículo 257 Bis de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ARTICULO 257 TER.- Por la extracción de petróleo crudo y gas natural de los campos en el Paleocanal de Chicontepec, PEMEX Exploración y Producción estará obligado al pago anual del derecho especial sobre hidrocarburos para campos en el Paleocanal de Chicontepec, que se calculará aplicando la tasa de 71.5% a la diferencia que resulte entre el valor anual del petróleo crudo y gas natural extraídos en el año de los campos en el Paleocanal de Chicontepec, incluyendo el consumo que de estos productos efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos, y las deducciones permitidas en este artículo, mediante declaración anual que se presentará a más tardar el último día hábil del mes de marzo del año siguiente al ejercicio de que se trate.
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-Para la determinación de la base del derecho especial sobre hidrocarburos para campos en el Paleocanal de Chicontepec, serán deducibles los siguientes conceptos:
+ARTICULO 257 QUÁTER.- Por la extracción de petróleo crudo y gas natural de cada uno de los campos a los que se refiere el artículo 257 Bis de esta Ley, PEMEX Exploración y Producción estará obligado al pago anual del derecho especial sobre hidrocarburos, que se calculará aplicando la tasa del 30%, a la diferencia que resulte entre el valor anual del petróleo crudo y gas natural extraídos en el campo de que se trate, incluyendo el consumo que de estos productos efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos y las deducciones permitidas en este artículo.
 
-I. El 100% del monto original de las inversiones realizadas para la exploración, recuperación secundaria, recuperación mejorada y pruebas tecnológicas, en el ejercicio en el que se efectúen;
+Para los efectos del párrafo anterior, cuando la producción acumulada del campo de que se trate sea mayor a 240 millones de barriles de petróleo crudo equivalente, se aplicará la tasa de 36% al valor de la producción que exceda de dicho monto.
 
-II. El 16.7% del monto original de las inversiones realizadas para el desarrollo y explotación de yacimientos de petróleo crudo o gas natural, en cada ejercicio, hasta agotar el monto de la inversión;
+El pago del derecho especial sobre hidrocarburos se hará mediante declaración anual, por cada campo, que se presentará a más tardar el último día hábil del mes de marzo del año siguiente al ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de ese derecho correspondientes al ejercicio a que se refiera la declaración anual.
 
-III. El 5% del monto original de las inversiones realizadas en oleoductos, gasoductos, terminales, transporte o tanques de almacenamiento, en cada ejercicio, hasta agotar el monto de la inversión;
+La determinación del derecho especial sobre hidrocarburos, así como de los pagos provisionales a que se refiere el artículo 257 Quintus de esta Ley, se hará por cada campo de extracción de petróleo crudo y gas natural.
 
-IV. Los costos y gastos, considerándose como costos las erogaciones necesarias para la explotación de los campos de extracción de petróleo crudo y/o gas natural determinados de conformidad con las Normas de Información Financiera mexicanas, excepto las inversiones a que se refieren las fracciones I, II y III de este artículo y como gastos los de exploración, transportación o entrega de los hidrocarburos. Los costos y gastos se deducirán siempre y cuando hayan sido efectivamente pagados en el periodo al que corresponda el pago;
-
-V. La parte del derecho para la investigación científica y tecnológica en materia de energía a que se refiere el artículo 254 Bis de esta Ley que corresponda al valor de los hidrocarburos extraídos de los campos en el Paleocanal de Chicontepec;
-
-VI. La parte del derecho para la fiscalización petrolera a que se refiere el artículo 254 Ter de esta Ley que corresponda al valor de los hidrocarburos extraídos de los campos en el Paleocanal de Chicontepec, y
-
-VII. La parte del derecho sobre extracción de hidrocarburos a que se refiere el artículo 257 Bis de esta Ley que corresponda al valor de los hidrocarburos extraídos de los campos en el Paleocanal de Chicontepec.
-
-Las deducciones a que se refieren las fracciones II y III de este artículo deberán ser ajustadas conforme a lo establecido en la Ley del Impuesto sobre la Renta.
-
-El monto original de las inversiones a que se refieren las fracciones I, II y III de este artículo comprenderá, además del precio de las mismas, únicamente los impuestos al comercio exterior efectivamente pagados con motivo de tales inversiones.
-
-La deducción del monto original de las inversiones se podrá iniciar a partir de que PEMEX Exploración y Producción realice las erogaciones correspondientes o a partir de que utilice los bienes de que se trate. En ningún caso las deducciones por dichas inversiones, antes de realizar el ajuste a que se refiere el tercer párrafo de este artículo, rebasarán el 100% de su monto original.
-
-Cuando las inversiones, costos y gastos a que se refieren las fracciones I a IV de este artículo se refieran a bienes, obras o servicios utilizados o que beneficien a campos en el Paleocanal de Chicontepec, así como a campos ubicados fuera de dicho Paleocanal, para los efectos del derecho previsto en este artículo sólo podrá deducirse el monto que resulte de aplicar al monto original de las inversiones, costos y gastos, según corresponda, el por ciento que represente la producción de petróleo crudo y gas natural de los campos en el Paleocanal de Chicontepec, respecto del total de la producción de petróleo crudo y gas natural de todos los campos en los que se utilicen dichos bienes, obras y servicios.
-
-Los montos que se deduzcan conforme al presente artículo no podrán deducirse en términos del artículo 254 de esta Ley.
-
-El monto de la deducción por concepto de los costos, gastos e inversiones, relacionados con el petróleo crudo y gas natural asociado extraídos de los campos en el Paleocanal de Chicontepec, sin considerar los señalados en las fracciones V a VII del presente artículo, no excederá de 11 dólares de los Estados Unidos de América por barril de petróleo crudo.
-
-El monto de la deducción por concepto de los costos, gastos e inversiones relacionados con el gas natural no asociado extraído de los campos en el Paleocanal de Chicontepec, sin considerar los señalados en las fracciones V a VII de este artículo, no excederá de 2.70 dólares de los Estados Unidos de América por cada 1000 pies cúbicos de gas natural no asociado del volumen total extraído en el año de que se trate.
-
-La parte deducible de los gastos, costos e inversiones que rebase el monto máximo de deducción conforme a los dos párrafos anteriores, se podrá deducir en los 7 ejercicios inmediatos posteriores a aquél al que correspondan, de conformidad con las disposiciones de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público.
-
-La Secretaría de Hacienda y Crédito Público podrá, mediante disposiciones de carácter general, definir los conceptos que formarán parte de las deducciones autorizadas en las fracciones I a IV de este artículo.
-
-Para la determinación del monto a pagar por el derecho ordinario sobre hidrocarburos a que se refiere el artículo 254 de esta Ley, así como de los pagos provisionales a que se refiere el artículo 255 de este ordenamiento, no se considerará el valor del petróleo crudo y gas natural extraídos de los campos en el Paleocanal de Chicontepec.
-
-En ningún caso serán deducibles los intereses de cualquier tipo a cargo de PEMEX Exploración y Producción, la reserva de exploración, los gastos de venta y los pagos por pensiones que se hagan con cargo a la reserva laboral. En el caso de que la reserva laboral tenga remanentes en el ejercicio, dicho remanente se reducirá de las deducciones realizadas en el mismo ejercicio.
-
-PEMEX Exploración y Producción establecerá un registro de los costos y gastos de la exploración y explotación por cada campo de extracción de petróleo crudo y/o gas natural en el Paleocanal de Chicontepec, así como de los tipos específicos de petróleo que se obtengan y deberá enviar a la Cámara de Diputados y al Servicio de Administración Tributaria la información periódica que se incorpore en dicho registro, poniendo a disposición de ambos los datos, estudios, reportes, prospectivas y demás fuentes de información en que se sustente la información incorporada al registro, con objeto de que puedan llevarse a cabo los actos de fiscalización que se consideren pertinentes a través de la Auditoría Superior de la Federación y del Servicio de Administración Tributaria.
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-ARTICULO 257 QUÁTER.- Por la extracción de petróleo crudo y gas natural de los campos en aguas profundas PEMEX Exploración y Producción estará obligado al pago anual del derecho especial sobre hidrocarburos para campos en aguas profundas, que se calculará aplicando la tasa que corresponda conforme a la siguiente tabla, según el rango en el que se ubique el precio promedio ponderado anual del barril de petróleo crudo exportado, a la diferencia que resulte entre el valor anual del petróleo crudo y gas natural extraídos en el año de cada campo en aguas profundas, incluyendo el consumo que de estos productos efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos, y las deducciones permitidas en este artículo.
-
-(VEASE ARCHIVO ANEXO)
-
-El pago del derecho especial sobre hidrocarburos para campos en aguas profundas se hará mediante declaración anual, por cada campo, que se presentará a más tardar el último día hábil del mes de marzo del año siguiente al ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de ese derecho correspondientes al ejercicio a que se refiera la declaración anual.
-
-La determinación del derecho especial sobre hidrocarburos para campos en aguas profundas, así como de los pagos provisionales a que se refiere el artículo 257 Quintus de esta Ley, se hará por cada campo de extracción de petróleo crudo y/o gas natural.
-
-Para la determinación de la base del derecho especial sobre hidrocarburos para campos en aguas profundas, serán deducibles los siguientes conceptos para cada campo:
+Para la determinación de la base del derecho especial sobre hidrocarburos, serán deducibles los siguientes conceptos para cada campo:
 
 I. El 100% del monto original de las inversiones realizadas para la exploración. Esta deducción se aplicará a partir del ejercicio en que los hidrocarburos extraídos del campo de que se trate formen parte de la producción reportada por PEMEX Exploración y Producción.
 
@@ -23899,9 +23811,9 @@ Las inversiones realizadas hasta la fecha del descubrimiento del primer campo pr
 
 Las inversiones que se realicen con posterioridad a la fecha señalada en el párrafo anterior y hasta que tenga lugar el descubrimiento del segundo campo productor se deducirán en el cálculo del derecho que establece este precepto correspondiente a este último campo. En caso de que se descubran más de dos campos productores en el área o permiso de exploración de que se trate, se aplicará la mecánica prevista en este párrafo para los campos adicionales.
 
-Si las inversiones en exploración conducen al descubrimiento simultáneo de más de un campo productor, el monto de deducción aplicable a cada campo será el que resulte de aplicar al monto original de las inversiones el por ciento que representen las reservas probadas en el campo productor de que se trate respecto del total de reservas probadas en los campos productores descubiertos simultáneamente a la fecha en que cualquiera de ellos inicie su producción;
+Si las inversiones en exploración conducen al descubrimiento simultáneo de más de un campo productor, el monto de deducción aplicable a cada campo será el que resulte de aplicar al monto original de las inversiones el por ciento que representen las reservas probadas de petróleo crudo equivalente en el campo productor de que se trate respecto del total de reservas probadas en los campos productores descubiertos simultáneamente a la fecha en que cualquiera de ellos inicie su producción;
 
-II. El 100% del monto original de las inversiones realizadas para la recuperación secundaria, en el ejercicio en el que se efectúen;
+II. El 100% del monto original de las inversiones realizadas para la recuperación secundaria, la recuperación mejorada, el mantenimiento no capitalizable y las pruebas tecnológicas, en el ejercicio en el que se efectúen;
 
 III. El 16.7% del monto original de las inversiones realizadas para el desarrollo y explotación de yacimientos de petróleo crudo o gas natural, en cada ejercicio, hasta agotar el monto de la inversión;
 
@@ -23913,83 +23825,157 @@ VI. La parte del derecho para la investigación científica y tecnológica en ma
 
 VII. La parte del derecho para la fiscalización petrolera a que se refiere el artículo 254 Ter de esta Ley que corresponda al valor de los hidrocarburos extraídos en el campo de que se trate, y
 
-VIII. La parte del derecho sobre extracción de hidrocarburos a que se refiere el artículo 257 Bis de esta Ley que corresponda al valor de los hidrocarburos extraídos en el campo de que se trate.
+VIII. La parte del derecho sobre extracción de hidrocarburos a que se refiere el artículo 257 Ter de esta Ley que corresponda al valor de los hidrocarburos extraídos en el campo de que se trate.
 
 Las deducciones a que se refieren las fracciones III y IV de este artículo deberán ser ajustadas conforme a lo establecido en la Ley del Impuesto sobre la Renta.
 
 El monto original de las inversiones a que se refieren las fracciones I a IV de este artículo comprenderá, además del precio de las mismas, únicamente los impuestos al comercio exterior efectivamente pagados con motivo de tales inversiones.
 
-La deducción del monto original de las inversiones, con excepción de las indicadas en la fracción I de este artículo, se podrá iniciar a partir de que PEMEX Exploración y Producción realice las erogaciones correspondientes o a partir de que utilice los bienes de que se trate. En ningún caso las deducciones por dichas inversiones, antes de realizar el ajuste a que se refiere el quinto párrafo de este artículo, rebasarán el 100% de su monto original.
+La deducción del monto original de las inversiones, con excepción de las indicadas en la fracción I de este artículo, se podrá iniciar a partir de que PEMEX Exploración y Producción realice las erogaciones correspondientes o a partir de que utilice los bienes de que se trate. En ningún caso las deducciones por dichas inversiones, antes de realizar el ajuste a que se refiere el sexto párrafo de este artículo, rebasarán el 100% de su monto original.
 
-Cuando las inversiones, costos y gastos a que se refieren las fracciones II a V de este artículo se refieran a bienes, obras o servicios utilizados o que beneficien a dos o más campos, el monto de la deducción aplicable a cada campo en aguas profundas será el que resulte de aplicar a los costos, los gastos o el monto original de las inversiones, el por ciento que las reservas probadas en el campo de que se trate represente respecto del total de reservas probadas en todos los campos en los que se utilicen dichos bienes, obras o servicios, a la fecha en que cualquiera de los campos en aguas profundas que los utilicen inicie su producción.
+Cuando las inversiones, costos y gastos a que se refieren las fracciones II a V de este artículo correspondan a bienes, obras o servicios utilizados o que beneficien a dos o más campos ubicados en el Paleocanal de Chicontepec o en aguas profundas, incluso cuando los bienes, obras o servicios beneficien también a cualquier otro campo colindante con dichas zonas, el monto de la deducción aplicable a cada campo será el que resulte de aplicar a los costos, los gastos o el monto original de las inversiones, el por ciento que las reservas probadas de petróleo crudo equivalente en el campo de que se trate represente respecto del total de reservas probadas en todos los campos en los que se utilicen dichos bienes, obras o servicios, a la fecha en que cualquiera de los campos que los utilicen inicie su producción.
 
 Los montos que se deduzcan conforme al presente artículo no podrán deducirse en términos del artículo 254 de esta Ley.
 
-El monto de la deducción para cada campo en aguas profundas por concepto de las inversiones a las que se refiere la fracción I del presente artículo, no excederá de 3 dólares de los Estados Unidos de América por barril de petróleo crudo equivalente del volumen total extraído del mismo en el año de que se trate. La parte deducible de estas erogaciones que rebase el monto máximo de deducción en el ejercicio fiscal de que se trate se podrá deducir, en los términos de este párrafo, en los ejercicios posteriores hasta alcanzar el 100% del monto original de las inversiones.
+El monto de la deducción por concepto de los costos, gastos e inversiones, relacionados con el petróleo crudo y gas natural extraídos del campo de que se trate, sin considerar los señalados en las fracciones VI a VIII del presente artículo, no podrá ser superior al 60% del valor del petróleo crudo y gas natural extraídos en el año del campo de que se trate ni a 32.5 dólares de los Estados Unidos de América por barril de petróleo crudo equivalente extraído en el año de que se trate. El monto máximo de deducción a que se refiere este párrafo, se actualizará cada ejercicio empleando para tal efecto el índice de precios al productor de los Estados Unidos de América.
 
-El monto de la deducción por concepto de los costos, gastos e inversiones, relacionados con el petróleo crudo y gas natural asociado extraídos del campo en aguas profundas de que se trate, sin considerar los señalados en las fracciones I y VI a VIII del presente artículo, no excederá de 16.5 dólares de los Estados Unidos de América por barril de petróleo crudo equivalente del volumen total extraído del mismo en el año de que se trate.
-
-El monto de la deducción por concepto de los costos, gastos e inversiones, relacionados con el gas natural no asociado extraído del campo en aguas profundas de que se trate, sin considerar los señalados en las fracciones I y VI a VIII del presente artículo, no excederá de 4 dólares de los Estados Unidos de América por cada 1000 pies cúbicos de gas natural no asociado del volumen total extraído del mismo en el año de que se trate.
-
-La suma de los montos máximos de deducción anual por concepto de los costos, gastos e inversiones deducibles a que se refieren las fracciones I a VIII de este artículo no podrá ser superior al 35% del valor del petróleo crudo y gas natural extraídos en el año del campo en aguas profundas de que se trate.
-
-Sin perjuicio de lo dispuesto por el décimo párrafo de este artículo, la parte deducible de los gastos, costos e inversiones que rebase el monto máximo de deducción conforme a los tres párrafos anteriores, se podrá deducir en los 10 ejercicios inmediatos posteriores a aquél al que correspondan de conformidad con las disposiciones de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público, sin que dicha deducción pueda aplicarse en la determinación de los derechos relativos a otro campo.
+La parte deducible de los gastos, costos e inversiones que rebase el monto máximo de deducción conforme al párrafo anterior, se podrá deducir en los 15 ejercicios inmediatos posteriores a aquél al que correspondan de conformidad con las disposiciones de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público, sin que dicha deducción pueda aplicarse en la determinación de los derechos relativos a otro campo.
 
 La Secretaría de Hacienda y Crédito Público podrá, mediante disposiciones de carácter general, definir los conceptos que formarán parte de las deducciones autorizadas en las fracciones I a V de este artículo.
 
-Para la determinación del monto a pagar por el derecho ordinario sobre hidrocarburos a que se refiere el artículo 254 de esta Ley, así como de los pagos provisionales a que se refiere el artículo 255 de este ordenamiento, no se considerará el valor del petróleo crudo y gas natural extraídos de los campos en aguas profundas a que se refiere este artículo.
+Para la determinación del monto a pagar por el derecho ordinario sobre hidrocarburos a que se refiere el artículo 254 de esta Ley, así como de los pagos provisionales a que se refiere el artículo 255 de este ordenamiento, no se considerará el valor del petróleo crudo y gas natural extraídos de los campos a que se refiere este artículo.
 
 En ningún caso serán deducibles los intereses de cualquier tipo a cargo de PEMEX Exploración y Producción, la reserva de exploración, los gastos de venta y los pagos por pensiones que se hagan con cargo a la reserva laboral. En el caso de que la reserva laboral tenga remanentes en el ejercicio, dicho remanente se reducirá de las deducciones realizadas en el mismo ejercicio.
 
-PEMEX Exploración y Producción establecerá un registro de los costos y gastos de la exploración y explotación por cada campo de extracción de petróleo crudo y/o gas natural en aguas profundas, así como de los tipos específicos de petróleo que se obtengan y deberá enviar a la Cámara de Diputados y al Servicio de Administración Tributaria la información periódica que se incorpore en dicho registro, poniendo a disposición de ambos los datos, estudios, reportes, prospectivas y demás fuentes de información en que se sustente la información incorporada al registro, con objeto de que puedan llevarse a cabo los actos de fiscalización que se consideren pertinentes a través de la Auditoría Superior de la Federación y del Servicio de Administración Tributaria.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+ARTICULO 257 QUINTUS.- A cuenta del derecho a que se refiere el artículo 257 Quáter de esta Ley, se harán pagos provisionales mensuales, a más tardar el último día hábil del mes posterior a aquél al que correspondan los pagos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+El monto del pago provisional se calculará aplicando la tasa que corresponda conforme los párrafos primero y segundo del artículo 257 Quáter de esta Ley, al valor del petróleo crudo y gas natural extraídos del campo de que se trate, en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago. De dicho valor se podrá disminuir la parte proporcional de los conceptos deducibles en términos del artículo señalado, correspondiente al periodo de que se trate.
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-ARTICULO 257 QUINTUS.- A cuenta de los derechos a que se refieren los artículos 257 Ter y 257 Quáter de esta Ley, se harán pagos provisionales mensuales, a más tardar el último día hábil del mes posterior a aquél al que correspondan los pagos.
-
-El monto del pago provisional se calculará aplicando la tasa establecida en el primer párrafo del artículo 257 Ter o la tasa que corresponda conforme a la tabla contenida en el artículo 257 Quáter de esta Ley al valor del petróleo crudo y gas natural extraídos de los campos en el Paleocanal de Chicontepec y de los campos en aguas profundas, según se trate, en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago. De dicho valor se podrá disminuir la parte proporcional de los conceptos deducibles en términos de los artículos señalados, correspondiente al periodo de que se trate.
 
 Tratándose de las inversiones sólo podrá aplicarse la parte proporcional del monto deducible de la inversión que corresponda al número de meses completos en los que el bien o bienes objeto de la inversión hayan sido utilizados por PEMEX Exploración y Producción respecto de 12 meses, en la proporción que el número de meses comprendidos desde el inicio del ejercicio y hasta el último día del mes del periodo al que corresponda el pago representen en el total de meses comprendidos en el año.
 
-Al pago provisional determinado conforme a los párrafos anteriores, se le restarán los pagos provisionales del derecho especial sobre hidrocarburos para campos en el Paleocanal de Chicontepec o del derecho especial sobre hidrocarburos para campos en aguas profundas, según se trate, efectivamente pagados en los meses anteriores correspondientes al ejercicio de que se trate y la diferencia será el pago provisional a enterar.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-En la declaración anual del derecho especial sobre hidrocarburos para campos en el Paleocanal de Chicontepec o del derecho especial sobre hidrocarburos para campos en aguas profundas, a que se refieren los artículos 257 Ter y 257 Quáter de esta Ley, se podrán acreditar los pagos provisionales mensuales efectivamente pagados por concepto del derecho respectivo, correspondientes al ejercicio de que se trate.
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+Al pago provisional determinado conforme a los párrafos anteriores, se le restarán los pagos provisionales del derecho especial sobre hidrocarburos efectivamente pagados en los meses anteriores correspondientes al ejercicio de que se trate y la diferencia será el pago provisional a enterar.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+En la declaración anual del derecho especial sobre hidrocarburos a que se refiere el artículo 257 Quáter de esta Ley, se podrán acreditar los pagos provisionales mensuales efectivamente pagados por concepto del derecho respectivo, correspondientes al ejercicio de que se trate.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ARTICULO 257 SEXTUS.- Para los efectos de los artículos 254, 257 Ter y 257 Quáter de esta Ley los siguientes costos y gastos no son deducibles:
 
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
 I. Los costos en que se incurra por negligencia o fraude de PEMEX Exploración y Producción o de las personas que actúen por cuenta de éste;
+
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 II. Las comisiones pagadas a corredores;
 
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
 III. Los costos relacionados con la comercialización o transporte de petróleo crudo o gas natural más allá de los puntos de entrega;
+
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 IV. Las multas o sanciones económicas en que se incurra por el incumplimiento de obligaciones legales o contractuales;
 
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
 V. Los gastos relacionados con el empleo de un experto independiente con el propósito de resolver disputas;
+
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 VI. Los donativos;
 
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
 VII. Los costos en que se incurra por servicios jurídicos, excepto aquéllos previstos en las disposiciones de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 VIII. Los gastos derivados del incumplimiento de las normas aplicables a la administración de riesgos;
 
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
 IX. Los gastos relacionados con la capacitación y programas de entrenamiento que no cumplan con las disposiciones de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 X. Los gastos derivados del incumplimiento de las condiciones de garantía, así como las que resulten de la adquisición de bienes que no cuenten con una garantía del fabricante o su representante contra los defectos de fabricación de acuerdo con las prácticas generalmente utilizadas por la industria petrolera;
 
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
 XI. Las disminuciones en el valor de los bienes no usados en la industria petrolera;
+
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 XII. Cualquier impuesto asociado de cualquier forma a los trabajadores de PEMEX Exploración y Producción;
 
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
 XIII. Los montos registrados como provisiones y reservas de los fondos, excepto las que se señalen en las disposiciones de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 XIV. Los créditos a favor de PEMEX Exploración y Producción cuyos deudores se encuentren en suspensión de pagos, hasta la conclusión del juicio correspondiente en el que los deudores sean declarados insolventes;
 
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
 XV. Los costos legales por cualquier arbitraje que genere una disputa entre PEMEX Exploración y Producción, contratistas o subcontratistas, y
 
-XVI. Aquéllos que no sean estrictamente indispensables para las actividades por las que PEMEX Exploración y Producción está obligado al pago de los derechos establecidos en los artículos 254, 257 Ter y 257 Quáter de esta Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+XVI. Aquéllos que no sean estrictamente indispensables para las actividades por las que PEMEX Exploración y Producción está obligado al pago de los derechos establecidos en los artículos 254, 257 Quáter y 257 Séptimus de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+ARTICULO 257 SEPTIMUS.- Por la extracción de petróleo crudo y gas natural de los campos a los que se refiere el artículo 257 Bis de esta Ley, PEMEX Exploración y Producción estará obligado al pago anual del derecho adicional sobre hidrocarburos cuando el valor promedio acumulado anual del petróleo crudo equivalente por barril extraído en el campo de que se trate sea mayor a 60 dólares de los Estados Unidos de América. Este último monto se actualizará cada ejercicio empleando para tal efecto el índice de precios al productor de los Estados Unidos de América. Este derecho se calculará aplicando una tasa de 52% al resultado que se obtenga de realizar el siguiente procedimiento:
+
+I. Se calculará la diferencia entre el valor promedio acumulado anual del petróleo crudo equivalente por barril extraído en el campo de que se trate y 60 dólares de los Estados Unidos de América. Este último monto se actualizará cada ejercicio empleando para tal efecto el índice de precios al productor de los Estados Unidos de América, y
+
+II. El resultado que se obtenga conforme a la fracción anterior se multiplicará por el volumen de petróleo crudo equivalente extraído en el campo de que se trate en el año, incluyendo el consumo que de este producto efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos.
+
+El pago del derecho adicional sobre hidrocarburos se hará mediante declaración anual, por cada campo, que se presentará a más tardar el último día hábil del mes de marzo del año siguiente al ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de ese derecho correspondientes al ejercicio a que se refiera la declaración anual.
+
+Cuando en la declaración anual resulte saldo a favor, PEMEX Exploración y Producción podrá compensar dicho saldo contra el derecho especial sobre hidrocarburos. Si después de aplicar dicha compensación subsiste un saldo a favor, o en caso de que dicho saldo no hubiere sido compensado contra el derecho mencionado, éste se podrá compensar contra pagos posteriores del propio derecho o en los términos que al efecto autorice el Servicio de Administración Tributaria. Dicha compensación deberá realizarse conforme a lo previsto en el artículo 17-A del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga el saldo a favor, hasta el mes en el que la compensación se realice.
+
+La determinación del derecho adicional sobre hidrocarburos, así como de los pagos provisionales, se hará por cada campo de extracción de petróleo crudo y/o gas natural.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+ARTICULO 257 OCTAVUS.- A cuenta del derecho adicional sobre hidrocarburos a que se refiere el artículo 257 Séptimus de esta Ley, se harán pagos provisionales mensuales que se pagarán a más tardar el último día hábil del mes posterior a aquél al que correspondan los pagos.
+
+El pago provisional se calculará aplicando la tasa establecida en el artículo 257 Séptimus de esta Ley al resultado que se obtenga de realizar el siguiente procedimiento:
+
+I. Se calculará la diferencia entre el valor promedio acumulado del petróleo crudo equivalente por barril extraído en el campo desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, incluyendo el consumo que de estos productos hubiera realizado PEMEX Exploración y Producción y 60 dólares de los Estados Unidos de América. Este último monto se actualizará cada ejercicio empleando para tal efecto el índice de precios al productor de Estados Unidos de América, y
+
+II. El resultado que se obtenga conforme a la fracción anterior se multiplicará por el volumen de petróleo crudo equivalente extraído en el campo desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, incluyendo el consumo que de este producto efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos.
+
+Al pago provisional determinado conforme al procedimiento anterior, se le restarán los pagos provisionales del derecho adicional sobre hidrocarburos efectivamente pagados, realizados en los meses anteriores correspondientes al ejercicio de que se trate, siendo la diferencia el pago provisional a enterar.
 
 ###### ARTICULO 257-A.
 
@@ -24001,23 +23987,59 @@ XVI. Aquéllos que no sean estrictamente indispensables para las actividades por
 
 Para los efectos de los artículos a que se refiere este Capítulo, se considerará:
 
-I. Como valor del petróleo crudo extraído, la suma del valor de cada tipo de petróleo crudo extraído. El valor de cada tipo de petróleo crudo extraído se entenderá como el precio promedio de exportación por barril de petróleo crudo, en el periodo de que se trate, multiplicado por el volumen de barriles de petróleo crudo extraído en el mismo periodo. En el caso de que algún tipo de petróleo crudo comercializado dentro del país no haya sido exportado, el precio promedio ponderado se calculará ajustándolo por la calidad del petróleo crudo de que se trate, de acuerdo con el contenido de azufre y los grados API que contenga;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+I. Como valor del petróleo crudo extraído, la suma del valor de cada tipo de petróleo crudo extraído. El valor de cada tipo de petróleo crudo extraído se entenderá como el precio promedio de exportación por barril del petróleo crudo, en el periodo de que se trate, multiplicado por el volumen de barriles de petróleo crudo extraído en el mismo periodo. En el caso de que algún tipo de petróleo crudo comercializado dentro del país no haya sido exportado, el precio promedio ponderado se calculará ajustándolo por la calidad del petróleo crudo de que se trate, de acuerdo con el contenido de azufre y los grados API que contenga. La Secretaría de Hacienda y Crédito Público expedirá las reglas de carácter general que definan los métodos de ajuste correspondientes.
 
 II. Como valor del gas natural extraído, el precio promedio que en el periodo que corresponda haya tenido la unidad térmica de gas natural enajenado por el propio contribuyente, multiplicado por el volumen de gas natural extraído en el mismo periodo por el que esté obligado al pago del derecho, y
 
 III. Como efectivamente pagado la suma de los montos que PEMEX Exploración y Producción aplicó para la extinción de su obligación fiscal disminuidos por los saldos a favor que hayan sido compensados contra otras contribuciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+Los conceptos definidos en las fracciones anteriores no serán aplicables a los artículos 257 Bis, 257 Ter, 257 Quáter, 257 Quintus, 257 Séptimus y 257 Octavus de esta Ley.
+
 Los derechos se deberán pagar sobre la totalidad del petróleo crudo y gas natural extraídos en el periodo, incluyendo el consumo que de estos productos efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos.
 
 Para los efectos de este Capítulo se entenderá como gas natural extraído, la extracción de la totalidad de gas natural menos el gas natural utilizado para la producción de hidrocarburos.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ARTICULO 258 BIS.- Para los efectos de los artículos 257 Bis, 257 Ter, 257 Quáter y 257 Quintus de esta Ley se considerarán como:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+ARTICULO 258 BIS.- Para los efectos de los artículos 257 Bis, 257 Ter, 257 Quáter, 257 Quintus, 257 Séptimus y 257 Octavus de esta Ley se considerará:
+
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 I. Campos en aguas profundas, aquellos campos de extracción de petróleo crudo y/o gas natural que, en promedio, sus pozos se encuentren ubicados en zonas con un tirante de agua superior a 500 metros, y
 
+> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+
 II. Campos en el Paleocanal de Chicontepec, aquellos campos de extracción de petróleo crudo y/o gas natural ubicados en los municipios de Castillo de Teayo, Coatzintla, Coyutla, Chicontepec, Espinal, Ixhuatlán de Madero, Temapache, Papantla, Poza Rica de Hidalgo, Tepetzintla o Tihuatlán, en el Estado de Veracruz de Ignacio de la Llave, o en los municipios de Francisco Z. Mena, Pantepec o Venustiano Carranza, en el Estado de Puebla.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+ARTICULO 258 TER.- Para los efectos de los artículos 257 Bis, 257 Ter, 257 Quáter, 257 Quintus, 257 Séptimus y 257 Octavus de esta Ley se considerará:
+
+I. Como valor del petróleo crudo extraído, la suma del valor de cada tipo de petróleo crudo extraído en el campo de que se trate. El valor de cada tipo de petróleo crudo extraído en el campo de que se trate se entenderá como el precio promedio de exportación por barril del petróleo crudo extraído en el campo de que se trate, en el periodo de que se trate, multiplicado por el volumen de barriles de petróleo crudo extraído en el campo en el mismo periodo. En el caso de que algún tipo de petróleo crudo comercializado dentro del país no haya sido exportado, el precio de estos se calculará ajustándolo por la calidad del hidrocarburo de que se trate, de acuerdo con el contenido de azufre y los grados API que contenga. La Secretaría de Hacienda y Crédito Público expedirá las reglas de carácter general que definan los métodos de ajuste correspondientes;
+
+II. Como valor del gas natural extraído en el campo, el precio promedio que en el periodo que corresponda haya tenido la unidad térmica de gas natural enajenado por el contribuyente, ajustado por la calidad relativa del gas natural extraído en el campo de que se trate, multiplicado por el volumen de gas natural extraído en dicho campo en el mismo periodo por el que esté obligado al pago del derecho;
+
+III. Como efectivamente pagado, la suma de los montos que PEMEX Exploración y Producción aplicó para la extinción de su obligación fiscal disminuidos por los saldos a favor que hayan sido compensados contra otras contribuciones;
+
+IV. Como valor anual del petróleo crudo equivalente por barril extraído en el campo de que se trate, la suma del valor anual del petróleo crudo extraído y del valor anual del gas natural extraído, dividido entre el volumen de petróleo crudo equivalente extraído en el campo, y
+
+V. Como volumen de petróleo crudo equivalente extraído en el campo, la suma de:
+
+a) El volumen de petróleo crudo, y
+
+b) El volumen de gas natural que resulte de aplicar el factor de conversión que publica la Comisión Reguladora de Energía para convertir el gas natural a barriles de petróleo crudo equivalente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -24059,15 +24081,19 @@ I. Las declaraciones de los derechos a que se refiere el presente Capítulo, se 
 
 II. A cuenta de los pagos provisionales mensuales a que se refiere el artículo 254 de esta Ley, PEMEX Exploración y Producción efectuará pagos diarios, incluyendo los días inhábiles, así como pagos semanales, los cuales se efectuarán el primer día hábil de cada semana. Los montos y la forma de los pagos diarios y semanales a que se refiere esta fracción, serán los que se determinen anualmente en la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate y se enterarán ante la Tesorería de la Federación. Contra los pagos provisionales mensuales que resulten a cargo de PEMEX Exploración y Producción, éste podrá acreditar los anticipos efectuados por el mes de que se trate en los términos de esta fracción.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 261.
 
-Para los efectos del artículo 2 de la Ley de Coordinación Fiscal, a la recaudación obtenida por el derecho ordinario sobre hidrocarburos, por el derecho especial sobre hidrocarburos para campos en el Paleocanal de Chicontepec y por el derecho especial sobre hidrocarburos para campos en aguas profundas, a que se refieren los artículos 254, 257 Ter y 257 Quáter de esta Ley, respectivamente, se le aplicará la tasa de 85.31%; el monto que resulte de esta operación se considerará como recaudación federal participable.
+Para los efectos del artículo 2 de la Ley de Coordinación Fiscal, a la recaudación obtenida por el derecho ordinario sobre hidrocarburos, por el derecho especial sobre hidrocarburos y por el derecho adicional sobre hidrocarburos a que se refieren los artículos 254, 257 Quáter y 257 Séptimus de esta Ley, respectivamente, se le aplicará la tasa de 85.31%; el monto que resulte de esta operación se considerará como recaudación federal participable.
 
-> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El 3.17% de la recaudación obtenida por el derecho ordinario sobre hidrocarburos, por el derecho especial sobre hidrocarburos para campos en el Paleocanal de Chicontepec y por el derecho especial sobre hidrocarburos para campos en aguas profundas, a que se refieren los artículos 254, 257 Ter y 257 Quáter de esta Ley, respectivamente, se multiplicará por el factor de 0.0148; el monto que resulte de esta operación se destinará a los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de los hidrocarburos.
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+
+El 3.17% de la recaudación obtenida por el derecho ordinario sobre hidrocarburos, por el derecho especial sobre hidrocarburos y por el derecho adicional sobre hidrocarburos a que se refieren los artículos 254, 257 Quáter y 257 Séptimus de esta Ley, respectivamente, se multiplicará por el factor de 0.0148; el monto que resulte de esta operación se destinará a los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de los hidrocarburos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -24171,13 +24197,15 @@ Las asignaciones mineras otorgadas en favor del Consejo de Recursos Minerales ca
 
 La cancelación de una concesión o asignación minera por el incumplimiento en el pago de los derechos sobre minería establecidos en esta Ley o por cualquier otra de las causas previstas en la Ley Minera, no libera a su titular del pago de los derechos sobre minería que haya causado durante su vigencia, así como de los demás accesorios que se hubieren originado por el incumplimiento en el pago de éstos, de acuerdo con las disposiciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 267.
 
-Están obligados a pagar el derecho por el uso, goce o aprovechamiento del gas asociado a los yacimientos de carbón mineral, los concesionarios mineros que conforme a la Ley Minera recuperen y aprovechen el gas, ya sea para autoconsumo o entrega a Petróleos Mexicanos, aplicando la tasa de 50% a la diferencia que resulte entre el valor anual del gas asociado a los yacimientos de carbón mineral extraído en el año y las deducciones permitidas en este artículo, mediante declaración anual que se presentará a más tardar el último día hábil del mes de marzo del siguiente año correspondiente al ejercicio de que se trate.
+Están obligados a pagar el derecho por el uso, goce o aprovechamiento del gas asociado a los yacimientos de carbón mineral, los concesionarios mineros que conforme a la Ley Minera recuperen y aprovechen el gas, ya sea para autoconsumo o entrega a Petróleos Mexicanos, aplicando la tasa de 40% a la diferencia que resulte entre el valor anual del gas asociado a los yacimientos de carbón mineral extraído en el año y las deducciones permitidas en este artículo, mediante declaración anual que se presentará a más tardar el último día hábil del mes de marzo del siguiente año correspondiente al ejercicio de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 Para la determinación de la base de este derecho, serán deducibles los siguientes conceptos relacionados con la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral:
 
@@ -24187,33 +24215,63 @@ II. El 5% del monto original de las inversiones realizadas en gasoductos, termin
 
 III. Los costos, considerándose para tales efectos las erogaciones necesarias para la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral de conformidad con las Normas de Información Financiera Mexicanas, excepto las inversiones a que se refieren las fracciones I y II de este artículo. Los únicos gastos que se podrán deducir serán los de transportación o entrega del gas. Los costos y gastos se deducirán cuando hayan sido efectivamente pagados en el periodo al que corresponda el pago.
 
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 Las deducciones a que se refieren las fracciones I y II de este artículo deberán ser ajustadas conforme a lo establecido en la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 El monto original de las inversiones a que se refieren las fracciones I y II de este artículo, comprenderá además del precio de las mismas, únicamente los impuestos al comercio exterior efectivamente pagados con motivo de tales inversiones.
 
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 La deducción del monto original de las inversiones se podrá iniciar a partir del ejercicio en que se inicie la utilización de los bienes o desde el ejercicio siguiente. En ningún caso las deducciones por dichas inversiones, antes de realizar el ajuste a que se refiere el tercer párrafo de este artículo, rebasarán el 100% de su monto original. Cuando no se efectúe la deducción a partir del inicio de los plazos señalados en este párrafo, o bien, no se lleve a cabo en algún ejercicio o se haga en porcentajes menores a los autorizados, se perderá el derecho a deducir las cantidades correspondientes que pudieron haberse deducido.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 Tratándose de ejercicios fiscales irregulares, o cuando los bienes se empiecen a utilizar después de iniciado el ejercicio, así como en el ejercicio en que se termine su deducción, las inversiones correspondientes se deducirán en el por ciento que represente el número de meses completos en los que el bien haya sido utilizado, respecto de doce meses. Cuando los bienes se adquieran por fusión o escisión de sociedades, se considerará como fecha de adquisición la que le corresponda a la sociedad fusionada o a la escindente.
 
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 Cuando las inversiones, costos o gastos a que se refieren las fracciones I a III de este artículo, se utilicen parcialmente para actividades diversas a la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral, los concesionarios sólo podrán deducir la parte proporcional que corresponda a la recuperación y aprovechamiento de dicho gas. Dicha proporción se calculará dividiendo el valor anual del gas asociado a los yacimientos de carbón mineral entre el monto que resulte de sumar el de las ventas relacionadas con la concesión minera y el valor del gas asociado a los yacimientos de carbón mineral en el año. Cuando se trate de pagos provisionales del derecho, dicha proporción se determinará utilizando los mismos conceptos, correspondientes al periodo de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 El monto de la deducción por concepto de los costos, gastos e inversiones deducibles, relacionados con el gas asociado a los yacimientos de carbón mineral extraído, no excederá el valor de 3.20 dólares de los Estados Unidos de América por cada millar pies cúbicos de dicho gas, en el año de que se trate, considerando para tales efectos el promedio de tipo de cambio publicado por el Banco de México dentro del periodo correspondiente al pago de que se trate.
 
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 En ningún caso serán deducibles los intereses de cualquier tipo a cargo de los concesionarios.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 Tratándose de costos, gastos e inversiones realizados o adquiridos con partes relacionadas, los concesionarios considerarán para esas operaciones, los precios y montos de contraprestaciones que hubiera utilizado con o entre partes independientes en operaciones comparables, aplicando para esos efectos lo dispuesto en los artículos 92, 215 y 216 de la Ley del Impuesto sobre la Renta.
 
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 A cuenta del derecho a que se refiere este artículo, se harán pagos provisionales mensuales, a más tardar el último día hábil del mes posterior a aquél a que corresponda el pago, aplicando la tasa establecida en el primer párrafo de este artículo al valor del gas asociado a los yacimientos de carbón mineral extraído en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, disminuyéndose de dicho valor los costos, gastos y la parte proporcional de las inversiones autorizadas, correspondientes al mismo periodo. La parte proporcional de las inversiones citadas, se calculará considerando el número de meses transcurridos en el periodo que comprenda el pago, respecto del monto anual de la deducción de las inversiones que corresponda al ejercicio.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 Al pago provisional así determinado, se le restarán los pagos provisionales de este derecho efectivamente pagados en los meses anteriores correspondientes al ejercicio de que se trate, siendo la diferencia el pago provisional a enterar.
 
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 En la declaración anual a que se refiere el primer párrafo de este artículo, se podrán acreditar los pagos provisionales mensuales efectivamente pagados de éste derecho correspondientes al ejercicio de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 Para los efectos de este artículo, se considerará como valor del gas asociado a los yacimientos de carbón mineral extraído, el promedio del precio de referencia del índice de Texas Eastern Transmission Corp., renglón South Texas Zone, publicado por el Inside FERC's Gas Merket Report, correspondiente al periodo de que se trate, convertido, de dólares de los Estados Unidos de America por millón de unidades térmicas británicas (Btu's) a pesos por millón de dichas unidades térmicas, considerando para tales efectos el promedio de tipo de cambio publicado por el Banco de México dentro del periodo correspondiente al pago de que se trate y, este resultado, transformado a pesos por Gigajoule, multiplicado por las unidades energéticas contenidas en el volumen de gas extraído en el mismo periodo por el que se esté obligado al pago del derecho.
 
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 La determinación de las unidades energéticas contenidas en el volumen del gas asociado a los yacimientos de carbón mineral extraído se realizará conforme a la Norma Oficial Mexicana de Calidad del Gas Natural (NOM-001-SECRE-2003). La medición del referido gas se determinará de acuerdo con las normas oficiales mexicanas que se emitan para dicho propósito.
 
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+
 Los concesionarios estarán obligados a llevar los registros contables que permitan identificar por separado el valor del gas extraído, los gastos, costos y montos de las inversiones deducibles, relativos a la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral.
+
+> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009)</small>
 
 El pago del derecho señalado en este artículo, se efectuará con independencia de los pagos de otros derechos sobre minería que, en su caso, procedan de acuerdo a este Capítulo.
 
@@ -29544,3 +29602,85 @@ PRIMERO. El presente decreto entrará en vigor el día primero del mes siguiente
 SEGUNDO. Las inversiones a que se refieren las fracciones I y II del artículo 267 de la Ley Federal de Derechos, efectuadas con anterioridad a la entrada en vigor de este Decreto, sólo serán deducibles a partir de que se utilicen en las actividades relacionadas con la recuperación y aprovechamiento del gas asociado a los yacimientos de carbón mineral, con posterioridad a la fecha en que los concesionarios obtengan el permiso o autorización correspondiente, y hasta por el monto original que por dichas inversiones esté pendiente de deducirse para los efectos de la Ley del Impuesto sobre la Renta.
 
 TERCERO. Para los efectos de la medición del gas asociado a los yacimientos de carbón mineral extraído, a que se refiere el párrafo décimo quinto del artículo 267 de la Ley Federal de Derechos, en tanto se expiden las normas oficiales mexicanas para ese efecto, se utilizarán las disposiciones contenidas en los reportes de medición de gas emitidos por la Asociación Americana de Gas (AGA) denominados AGA-3, AGA-5, AGA-7, AGA-8, AGA-12 y AGA-NX-19, o aquéllos que los sustituyan.
+
+D.O.F. 27 DE NOVIEMBRE DE 2009.
+
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DERECHOS.
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2010, salvo la adición del artículo 244-E de la Ley Federal de Derechos, que entrará en vigor conforme a lo siguiente:
+
+I. El 1 de enero de 2012, cuando las concesiones correspondientes se otorguen a más tardar el 30 de noviembre de 2010.
+
+II. El 1 de enero de 2013, cuando las concesiones correspondientes se otorguen después del 1 de diciembre de 2010.
+
+Segundo. Durante el año de 2010, se aplicarán en materia de derechos las siguientes disposiciones:
+
+I. Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se extraigan y utilicen en los municipios de Coatzacoalcos y Minatitlán del Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 7 a que se refiere el artículo 223 de la Ley Federal de Derechos.
+
+II. Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se utilicen en los municipios de Lázaro Cárdenas del Estado de Michoacán y Hueyapan de Ocampo del Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 9 a que se refiere el artículo 223 de la Ley Federal de Derechos.
+
+III. Para los efectos de lo dispuesto en el artículo 232, fracción IV de la Ley Federal de Derechos, las personas físicas y morales que usen o aprovechen los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales, que realicen actividades agrícolas o pecuarias pagarán el 30% de la cuota establecida en dicha fracción.
+
+IV. No pagarán el derecho a que se refiere el artículo 8o., fracción I de la Ley Federal de Derechos, los turistas que visiten el país por vía terrestre, cuya estancia no exceda de siete días en el territorio nacional. Para el caso que se exceda dicho periodo, el derecho se pagará al momento de la salida del territorio nacional.
+
+V. En relación al registro de título de técnico o profesional técnico, técnico superior universitario o profesional asociado, se aplicarán en materia de derechos las siguientes disposiciones:
+
+a). Por el registro de título de técnico o profesional técnico, expedidos por Instituciones del Sistema Educativo Nacional que impartan educación del tipo medio superior, así como la expedición de la respectiva cédula profesional, se pagará el 30% del monto a que se refieren las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+b). Por el registro de título de técnico superior universitario o profesional asociado, expedidos por Instituciones del Sistema Educativo Nacional que impartan educación de tipo superior, así como por la expedición de la respectiva cédula, se pagará el 50% del monto a que se refieren las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+VI. Para los efectos de los derechos por los servicios que presta la Dirección General de Educación Tecnológica Agropecuaria, de conformidad con las fracciones XII y XIV del artículo 186 de la Ley Federal de Derechos, se pagará el 50% del monto establecido en dichas fracciones.
+
+VII. No se pagará el derecho por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere el artículo 223, apartado B de la Ley Federal de Derechos, cuando el concesionario entregue agua para uso público urbano a municipios o a organismos operadores municipales de agua potable, alcantarillado y saneamiento. En este caso, el concesionario podrá descontar del pago del derecho que le corresponda por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere el artículo 223, apartado A de la referida Ley, el costo comprobado de instalación y operación de la infraestructura utilizada para la entrega de agua de uso público urbano que el contribuyente hubiera hecho en el ejercicio fiscal de 2010, sin que en ningún caso exceda del monto del derecho a pagar. Lo anterior, previa aprobación del programa que al efecto deberá ser presentado a la Comisión Nacional del Agua.
+
+VIII. En el caso de que los derechos que deban cubrir las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores, a que se refieren las fracciones III, IV, V y XI del artículo 29-D de la Ley Federal de Derechos vigentes para el ejercicio fiscal de 2010, excedan en más de un 10% las cuotas determinadas para el ejercicio fiscal de 2008, los contribuyentes podrán optar por pagar los derechos de inspección y vigilancia a que se refieren dichas fracciones por el monto que resulte mayor entre la suma de la cuota determinada para el ejercicio fiscal de 2008 más el 10% de dicha cuota, o bien, la cuota mínima correspondiente para el ejercicio fiscal de 2010 conforme a las fracciones III, IV, V y XI del artículo 29-D de la citada Ley, según sea el caso.
+
+Tratándose de entidades financieras a que se refieren las fracciones III, IV, V y XI del artículo 29-D de la Ley Federal de Derechos, que se hayan constituido en los ejercicios fiscales de 2008 ó 2009, los contribuyentes podrán optar por pagar el derecho de inspección y vigilancia a que se refieren dichas fracciones por el monto que resulte mayor de entre la suma de la cuota que hubiere sido aplicable en el ejercicio fiscal de 2008 para entidades de nueva creación más el 10% de dicha cuota o, en su defecto, la cuota mínima correspondiente para el ejercicio fiscal de 2010 conforme a las fracciones III, IV, V y XI del artículo 29-D de la citada Ley, según sea el caso.
+
+Para los efectos de la opción a que se refieren los párrafos anteriores, tratándose de las casas de bolsa, para determinar la cuota mínima correspondiente a 2010 se considerará como capital mínimo requerido para funcionar como casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión.
+
+Cuando los contribuyentes ejerzan la opción de pagar los derechos en los términos previstos en esta fracción y realicen el pago anual durante el primer trimestre del ejercicio fiscal de 2010, no les será aplicable el descuento del 5% establecido en la fracción I del artículo 29-K de la Ley Federal de Derechos.
+
+Tercero. No pagarán los derechos por la expedición de autorización en la que se otorgue la calidad migratoria de inmigrante bajo las características previstas en el artículo 9o., fracción I de la Ley Federal de Derechos, los extranjeros sujetos a los beneficios del "Acuerdo que tiene por objeto establecer los criterios conforme a los cuales, los extranjeros de cualquier nacionalidad que se encuentren de manera irregular en territorio nacional y manifiesten su interés de residir en el mismo, puedan promover la obtención de su documentación migratoria en la calidad de inmigrante con las características de profesional, cargo de confianza, científico, técnico, familiares, artistas o deportistas o bien, en la característica de asimilado en los casos que de manera excepcional se establecen en el presente", publicado en el Diario Oficial de la Federación el 11 de noviembre de 2008.
+
+Cuarto. Para los efectos de lo dispuesto en el artículo 231 de la Ley Federal de Derechos, durante el ejercicio fiscal de 2010, el pago del derecho por el uso o aprovechamiento de aguas nacionales utilizadas en los municipios del territorio mexicano que a continuación se señalan, se efectuará de conformidad con las zonas de disponibilidad de agua como a continuación se indica:
+
+ZONA 6.
+
+Estado de Oaxaca: Excepto los municipios comprendidos en las zonas 4, 5, 7, 8 y 9.
+
+ZONA 7.
+
+Estado de Oaxaca: Abejones, Concepción Pápalo, Guelatao de Juárez, Natividad, Nuevo Zoquiapam, San Francisco Telixtlahuaca, San Juan Atepec, San Jerónimo Sosola, San Juan Bautista Atatlahuca, San Juan Bautista Jayacatlán, San Juan del Estado, San Juan Evangelista Analco, San Juan Chicomezúchil, San Juan Quiotepec, San Juan Tepeuxila, San Miguel Aloápam, San Miguel Amatlán, San Miguel Chicahua, San Miguel del Río, San Miguel Huautla, San Pablo Macuiltianguis, San Pedro Jaltepetongo, San Pedro Jocotipac, Santa Ana Yareni, Santa Catarina Ixtepeji, Santa Catarina Lachatao, Santa María Apazco, Santa María Ixcatlán, Santa María Jaltianguis, Santa María Pápalo, Santa María Texcatitlán, Santa María Yavesía, Santiago Apoala, Santiago Huauclilla, Santiago Nacaltepec, Santiago Tenango, Santiago Xiacuí, Santos Reyes Pápalo, Teococuilco de Marcos Pérez, Teotitlán del Valle y Valerio Trujano.
+
+ZONA 8.
+
+Estado de Oaxaca: Loma Bonita.
+
+Estado de Puebla: Chalchicomula de Sesma y Esperanza.
+
+Estado de Tabasco: Jalpa de Méndez, Nacajuca y Paraíso.
+
+ZONA 9.
+
+Todos los municipios del Estado de Chiapas.
+
+Estado de Oaxaca: Acatlán de Pérez Figueroa, Asunción Cacalotepec, Ayotzintepec, Capulálpam de Méndez, Chiquihuitlán de Benito Juárez, Cosolopa, Cuyamecalco Villa de Zaragoza, Eloxochitlán de Flores Magón, Huautepec, Huautla de Jiménez, Ixtlán de Juárez, Mazatlán Villa de Flores, Mixistlán de la Reforma, San Andrés Solaga, San Andrés Teotilalpam, San Andrés Yaá, San Baltazar Yatzachi el Bajo, San Bartolomé Ayautla, San Bartolomé Zoogocho, San Cristóbal Lachirioag, San Felipe Jalapa de Díaz, San Felipe Usila, San Francisco Cajonos, San Francisco Chapulapa, San Francisco Huehuetlán, San Ildefonso Villa Alta, San Jerónimo Tecóatl, San José Chiltepec, San José Independencia, San José Tenango, San Juan Bautista Tlacoatzintepec, San Juan Bautista Tuxtepec, San Juan Bautista Valle Nacional, San Juan Coatzospam, San Juan Comaltepec, San Juan Cotzocón, San Juan Juquila Vijanos, San Juan Lalana, San Juan Petlapa, San Juan Tabaá, San Juan Yae, San Juan Yatzona, San Lorenzo Cuaunecuiltitla, San Lucas Camotlán, San Lucas Ojitlán, San Lucas Zoquiápam, San Mateo Cajonos, San Mateo Yoloxochitlán, San Melchor Betaza, San Miguel Quetzaltepec, San Miguel Santa Flor, San Miguel Soyaltepec, San Miguel Yotao, San Pablo Yaganiza, San Pedro Cajonos, San Pedro Ixcatlán, San Pedro Ocopetatillo, San Pedro Ocotepec, San Pedro Sochiapam, San Pedro Teutila, San Pedro y San Pablo Ayutla, San Pedro Yaneri, San Pedro Yólox, Santa Ana Ateixtlahuaca, Santa Ana Cuauhtémoc, Santa Cruz Acatepec, Santa María Alotepec, Santa María Chilchotla, Santa María Jacatepec, Santa María la Asunción, Santa María Temaxcalapa, Santa María Teopoxco, Santa María Tlahuitoltepec, Santa María Tlalixtac, Santa María Yalina, Santiago Atitlán, Santiago Camotlán, Santiago Choapam, Santiago Comaltepec, Santiago Jocotepec, Santiago Lalopa, Santiago Laxopa, Santiago Texcalcingo, Santiago Yaveo, Santiago Zacatepec, Santiago Zoochila, Santo Domingo Albarradas, Santo Domingo Roayaga, Santo Domingo Xagacía, Tamazulapam del Espíritu Santo, Tanetze de Zaragoza, Totontepec Villa de Morelos, Villa Díaz Ordaz, Villa Hidalgo y Villa Talea de Castro.
+
+Estado de Puebla: Coyomeapan, Eloxochitlán, San Sebastián Tlacotepec, Zoquitlán.
+
+Estado de Tabasco: Balancán, Cárdenas, Centla, Centro, Comalcalco, Cunduacán, Emiliano Zapata, Huimanguillo, Jalapa, Jonuta, Macuspana, Tacotalpa, Teapa y Tenosique.
+
+Estado de Veracruz: Alvarado, Ángel R. Cabada, Catemaco, Ignacio de la Llave, Ixmatlahuacan, José Azueta, Lerdo de Tejada, Omealca, Saltabarranca, Tatahuicapan de Juárez, Tierra Blanca y Tlalixcoyan y los municipios que no estén comprendidos en las zonas 6, 7 y 8.
+
+Quinto. A partir del 1 de enero de 2010, y para efectos de los derechos señalados en los artículos 198, fracción I y 198-A, fracción I de la Ley Federal de Derechos, la cuota a pagar será de $50.00. Para el caso de los derechos señalados en los artículos 198, fracción II, 198-A, fracción II y 238-C, fracción I de la Ley Federal de Derechos, será de $25.00 y, para los derechos establecidos en los artículos 198, fracción III, 198-A, fracción III y 238-C, fracción II, la cuota del derecho a pagar para todas las áreas naturales protegidas será de $260.00.
+
+Sexto. Las cuotas establecidas en el artículo 244-E de la Ley Federal de Derechos se encuentran actualizadas al 1 de enero de 2009.
+
+D.O.F. 27 DE NOVIEMBRE DE 2009.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DERECHOS, RELATIVAS AL REGIMEN FISCAL DE PETROLEOS MEXICANOS.
+
+PRIMERO. El presente Decreto entrará en vigor el 1 de enero de 2010.
+
+SEGUNDO. Para los efectos de los artículos 257 Ter, 257 Quáter y 257 Quintus de la Ley Federal de Derechos sólo serán deducibles los gastos, costos e inversiones realizadas a partir de la entrada en vigor del presente Decreto, así como el monto original de las inversiones realizadas con anterioridad a dicha fecha que no haya sido deducido de conformidad con el artículo 257 Ter vigente hasta el 31 de diciembre de 2009.
