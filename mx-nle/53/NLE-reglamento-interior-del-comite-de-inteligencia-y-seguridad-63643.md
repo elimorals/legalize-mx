@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-comite-de-inteligencia-y-seguridad-6364
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-01"
-last_updated: "2008-10-01"
+last_updated: "2009-11-27"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL COMITE DE INTELIGENCIA Y SEGURIDAD DE ESTADO Y DE LA OFICINA DE COORDINACION TECNICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de octubre de 2008.
 
@@ -135,7 +135,13 @@ IX. Asegurar que se disponga de la tecnología especializada para el cumplimient
 
 X. Definir y ejecutar medidas de protección, codificación y recodificación de comunicaciones y de custodia y resguardo de la información
 
-XI. Las demás que le confieran otras disposiciones legales aplicables ó le señalen dentro del ámbito de su competencia el Gobernador del Estado y el Comité.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+XI. Elaborar, aplicar y coordinar Evaluaciones de Control de Confianza consistentes en Exámenes de Psicología (psicométricos y psicológicos), Poligrafía (Pruebas de Polígrafo), Investigación Socioeconómica (de Carácter Patrimonial y de Entorno Social), Médicos (Condición Física) y Toxicológicos, realizados por sí misma o en su caso a través de instancias públicas y privadas debidamente autorizadas o certificadas, así como emitir el Dictamen correspondiente, concentrando y sistematizando los Reportes derivados de los mismos.
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+XII. Las demás que le confieran otras disposiciones legales aplicables ó le señalen dentro del ámbito de su competencia el Gobernador del Estado y el Comité.
 
 ###### Artículo 13.
 
@@ -243,11 +249,33 @@ d) Coordinar y optimizar funciones en el área de Poligrafía, con el fin de apo
 
 e) Coordinar y optimizar funciones en el área de Psicología, con el fin de apoyar mecanismos de evaluación de personal
 
-f) Desplegar Servicios al exterior de la Oficina, tanto en interacción con Dependencias del Gobierno del Estado como de otros Ordenes de Gobierno
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-g) Administrar y preservar la documentación y los archivos derivados de la operación del Centro
+f) Coordinar y optimizar funciones en el área de Investigación Socioeconómica (de Carácter Patrimonial y del Entorno Social).
 
-h) Desarrollar interacción interinstitucional con las instancias solicitantes del Servicio
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+g) Coordinar y optimizar funciones en el área de Evaluación Toxicológica.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+h) Coordinar y optimizar funciones en el área de Evaluación Médica (condición física).
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+i) Pautar, supervisar y validar los Procedimientos de Evaluación Toxicológica, Médica y de otras modalidades de Examen que realicen entidades públicas o privadas por encargo del Centro de Control de Confianza (Gobierno del Estado de Nuevo León) o de los Usuarios del Servicio del Centro, así como concentrar y sistematizar los Reportes de Evaluación derivados de dichos Exámenes, considerando los respectivos Resultados en la ponderación Integral del Dictamen en Materia de Control de Confianza.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+j) Desplegar servicios al exterior de la Oficina, tanto en Interacción con Dependencias del Gobierno del Estado como de otros Órdenes de Gobierno.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+k) Administrar y preservar la documentación y los archivos derivados de la operación del Centro.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+
+l) Desarrollar interacción interinstitucional con las instancias solicitantes del Servicio.
 
 IV. De la Subdirección de Información
 
@@ -398,3 +426,11 @@ ALDO FASCI ZUAZUA
 C. JEFE DE LA OFICINA DE COORDINACIÓN TÉCNICA DEL CISE
 
 JOSÉ DE JESÚS ARIAS RODRÍGUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Oficina de Coordinación Técnica deberá efectuar las gestiones que correspondan ante las dependencias estatales competentes a efecto de llevar a cabo los trámites administrativos, financieros y técnicos que sean necesarios para ejecutar el objeto del presente Acuerdo.
