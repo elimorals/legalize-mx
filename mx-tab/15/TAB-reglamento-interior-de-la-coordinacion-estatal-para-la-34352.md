@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-coordinacion-estatal-para-la-34352"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-11"
-last_updated: "2003-10-11"
+last_updated: "2009-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA COORDINACION ESTATAL PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COORDINACION ESTATAL PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 11 de octubre de 2003.
 
@@ -494,3 +496,31 @@ GOBERNADOR DEL ESTADO DE TABASCO
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Coordinación Estatal para la Regularización de la Tenencia de la Tierra "CERTT", publicado en el Suplemento "C" al Periódico Oficial del Estado número 6375, de fecha 11 de octubre de 2003.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones jurídicas y administrativas que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos pendientes al entrar en vigor el presente Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella o aquellas a las que se le (sic) haya otorgado competencia en este Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Para su mejor desempeño, la CERTT deberá formular su Manual de Organización y Manual (sic) Procedimientos con base en las funciones y atribuciones conferidas en el presente Reglamento.
+
+###### ARTÍCULO SEXTO.
+
+En tanto no se expidan los manuales señalados en el transitorio que antecede, el Coordinador queda facultado para resolver las cuestiones que conforme a los mismos se deban regular.
