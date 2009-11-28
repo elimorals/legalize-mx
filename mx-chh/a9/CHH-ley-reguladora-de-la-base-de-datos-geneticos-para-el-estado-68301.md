@@ -4,7 +4,7 @@ identifier: "CHH-ley-reguladora-de-la-base-de-datos-geneticos-para-el-estado-683
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2009-04-01"
+last_updated: "2009-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY REGULADORA DE LA BASE DE DATOS GENETICOS PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -291,6 +291,12 @@ La Procuraduría General de Justicia, en el ámbito de sus atribuciones, designa
 
 Para el cumplimiento de la presente Ley, se faculta al Ejecutivo Estatal para afectar los recursos financieros y presupuestales necesarios para la implementación y desarrollo del sistema.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2009)</small>
+
+###### ARTÍCULO QUINTO.
+
+El Sistema Estatal de Registros de ADN entrará en funcionamiento a más tardar dentro de los 180 días de la entrada en vigor de la presente Ley.
+
 DADO en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los veintinueve días del mes de enero del año dos mil nueve.
 
 DIP. HECTOR ARCELUS PEREZ. Presidente. Rúbrica. DIP. JAVIER GAUDINI DIAZ GURROLA. Secretario. Rúbrica. DIP. MARIA AVILA SERNA. Secretaria. Rúbrica.
@@ -298,3 +304,9 @@ DIP. HECTOR ARCELUS PEREZ. Presidente. Rúbrica. DIP. JAVIER GAUDINI DIAZ GURROL
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los cinco días del mes de febrero del año dos mil nueve.
 
 LIC. JOSE REYES BAEZA TERRAZAS. Gobernador Constitucional del Estado. Rúbrica. LIC. SERGIO GRANADOS PINEDA. Secretario General de Gobierno. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2009.
+
+ÚNICO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
