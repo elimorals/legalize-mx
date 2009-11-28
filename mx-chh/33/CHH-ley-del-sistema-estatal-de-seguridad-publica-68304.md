@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-68304"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2009-04-01"
+last_updated: "2009-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68304&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -1133,6 +1133,14 @@ En el caso de que los integrantes aseguren armas y/o municiones, lo comunicarán
 
 El incumplimiento de las disposiciones contenidas en los artículos 113 y 116 de esta Ley, dará lugar a que la portación de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2009)</small>
+
+ARTÍCULO 96 BIS.- El Registro Estatal de Armamento y Equipo contará con un apartado en el que se inscribirán aquellas personas físicas o morales que cuenten con autorización de la Secretaría de Seguridad Pública del Estado para fabricar, comercializar, almacenar, transportar o distribuir, dentro del territorio estatal, vestimentas o instrumentos que sirvan de identificación a los miembros de las Instituciones de Seguridad Pública.
+
+En los permisos que se expidan se deberá especificar cuáles vestimentas o instrumentos podrán ser únicamente destinados para su utilización por parte de integrantes de Instituciones de Seguridad Pública, y cuáles puestos a disposición del público en general.
+
+La falta de dicho permiso, o su utilización para fines distintos a aquellos para los que fue otorgado, serán motivo de responsabilidad penal.
+
 #### SECCIÓN QUINTA. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 97.
@@ -1415,6 +1423,10 @@ Los perfiles y grados de estudios exigibles a los integrantes de las Institucion
 
 El Reglamento de la presente Ley se deberá expedir en un término no mayor a ciento ochenta días, contados a partir del día siguiente de la publicación de la misma; en tanto, los protocolos en un término no mayor a ciento ochenta días contados a partir de la entrada en vigor del citado Reglamento.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2009)</small>
+
+Por lo que hace referencia a la Comisión Estatal de Seguridad Pública, la misma se conformará y funcionará en un período máximo de noventa días, contados a partir de la entrada en vigor de la presente Ley.
+
 ###### ARTÍCULO CUARTO.
 
 El Estado y los municipios, en sus respectivos ámbitos de competencia, adecuarán sus ordenamientos legales conforme a las disposiciones de esta Ley.
@@ -1448,3 +1460,21 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los seis días del mes de febrero del año dos mil nueve.
 
 LIC. JOSE REYES BAEZA TERRAZAS. Gobernador Constitucional del Estado. Rúbrica. LIC. SERGIO GRANADOS PINEDA. Secretario General de Gobierno. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 666/09 II P.O., POR EL QUE SE ADICIONA UN ARTICULO 96 BIS A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En cumplimiento de lo dispuesto por el artículo 96 Bis de la Ley del Sistema Estatal de Seguridad Pública, los particulares que actualmente se dediquen a alguna o algunas de las actividades a que se refiere dicho artículo, deberán tramitar su permiso ante la Secretaría de Seguridad Pública del Estado, y dicha dependencia informar a la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública sobre su expedición, en un término que no excederá de noventa días a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- Las conductas previstas en el segundo párrafo del artículo 284 del Código Penal del Estado de Chihuahua, no serán punibles sino una vez transcurrido el término a que se refiere el artículo transitorio anterior.
+
+P.O. 28 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 667/09 II P.O. POR EL QUE SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO TERCERO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA.
+
+ÚNICO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
