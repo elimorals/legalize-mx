@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-del-tribunal-estatal-electoral-54655"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-03"
-last_updated: "2007-03-03"
+last_updated: "2009-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54655&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD COB EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 3 de marzo del 2007.
 
@@ -906,3 +908,19 @@ Publíquese en el Periódico Oficial del Estado.
 Dado en la ciudad de Chihuahua, Chihuahua, a los cinco días del mes de febrero de dos mil siete.
 
 MAGISTRADO PRESIDENTE. LIC. JOSÉ RODRIGUEZ ANCHONDO. SECRETARIO GENERAL. LIC. RAMIRO ORTEGA CARBAJAL. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE NOVIEMBRE DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor de conformidad con lo siguiente:
+
+- Para los efectos producidos al interior del Tribunal, de manera inmediata a su aprobación por el Pleno.
+
+- En los demás casos, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Tribunal Estatal Electoral publicado en el Periódico Oficial del Estado el tres de marzo de dos mil siete.
+
+TERCERO.- Se derogan todas las disposiciones de la normatividad interna del Tribunal Estatal Electoral que se opongan al presente Reglamento.
+
+CUARTO.- Publíquese en el Periódico Oficial del Estado.
