@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2009-11-25"
+last_updated: "2009-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2009.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2365,6 +2365,12 @@ A quien por medio del engaño o aprovechando el error en que otro se halle le ca
 
 Se equipara al delito de fraude y se sancionará con prisión de seis meses a diez años y de cuatrocientos a cuatro mil días multa, al que valiéndose del cargo que ocupe en el gobierno o en cualquiera agrupación de carácter sindical, social, o de sus relaciones con funcionarios o dirigentes de dichos organismos, obtenga dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo, un ascenso o aumento de salario en los mismos.
 
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2009)</small>
+
+###### Artículo 226 Bis.
+
+Al que alcance un lucro indebido para sí o para otro, valiéndose de alguna manipulación informática, alteración de programas sistematizados, del empleo no autorizado de datos o artificio semejante, se le impondrá la punibilidad señalada para el delito de fraude.
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES SOBRE SERVIDORES PÚBLICOS
 
 ###### Artículo 227.
@@ -2703,6 +2709,8 @@ II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerid
 
 ### CAPÍTULO VII. USURPACIÓN DE FUNCIONES PÚBLICAS
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2009)</small>
+
 ###### Artículo 265.
 
 El servidor público que por sí o por interpósita persona, influyere en otro servidor público, valiéndose del ejercicio de las facultades de su cargo o de cualquier otra situación derivada de su relación personal o jerárquica con éste o con otro servidor público, para tramitar un negocio o conseguir una resolución que le pueda generar directa o indirectamente un beneficio económico para sí o para un tercero, incurrirá en la pena de prisión de seis meses a tres años y multa de cien a quinientos salarios mínimos. Si la conducta anterior produce un beneficio económico, la sanción se aumentará en una mitad.
@@ -2835,7 +2843,9 @@ En estos casos, sólo se procederá por querella de la parte ofendida.
 
 ###### Artículo 284.
 
-A quien sin ser servidor público se atribuya ese carácter y ejerza alguna de las funciones de tal, se le impondrán de uno a seis años de prisión y de cien a quinientos días multa.
+A quien sin ser servidor público, valiéndose de cualquier medio, se atribuya ese carácter o ejerza alguna de las funciones de tal cargo, o siendo servidor público, se atribuya un carácter diverso al que le corresponde, se le impondrán de uno a seis años de prisión y de cien a quinientos días de multa.
+
+Se aplicarán las penas previstas en el párrafo anterior, a quien fabrique, comercialice, almacene, transporte o distribuya vestimentas o instrumentos de identificación, de los utilizados por integrantes de instituciones de seguridad pública, sin contar con el permiso respectivo para ello, o a quien teniéndolo, haga uso indebido del mismo.
 
 ### CAPÍTULO VI. ENCUBRIMIENTO POR FAVORECIMIENTO
 
@@ -3556,5 +3566,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 25 DE NOVIEMBRE DE 2009.
 
 DECRETO No. 732/09 VI P.E., POR EL QUE SE REFORMA EL ARTICULO 148 AL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 666/09 II P.O., POR EL QUE SE REFORMA EL ARTICULO 284 AL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En cumplimiento de lo dispuesto por el artículo 96 Bis de la Ley del Sistema Estatal de Seguridad Pública, los particulares que actualmente se dediquen a alguna o algunas de las actividades a que se refiere dicho artículo, deberán tramitar su permiso ante la Secretaría de Seguridad Pública del Estado, y dicha dependencia informar a la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública sobre su expedición, en un término que no excederá de noventa días a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- Las conductas previstas en el segundo párrafo del artículo 284 del Código Penal del Estado de Chihuahua, no serán punibles sino una vez transcurrido el término a que se refiere el artículo transitorio anterior.
+
+P.O. 28 DE NOVIEMBRE DE 2009.
+
+DECRETO No. 747/09 I P.O., POR EL QUE SE ADICIONA EL ARTICULO 226 BIS AL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
