@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-fija-las-bases-para-determinar-las-remuneraciones-70128
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-05"
-last_updated: "2009-09-05"
+last_updated: "2009-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY QUE FIJA LAS BASES PARA DETERMINAR LAS REMUNERACIONES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 5 de septiembre de 2009.
 
@@ -251,6 +251,10 @@ La elaboración del tabulador para el personal de base a que alude el artículo 
 
 Corresponderá al Comité Técnico de Valoración de las Remuneraciones de los Servidores Públicos del Estado, la elaboración del tabulador para los servidores públicos electos, designados, superiores, judiciales, y de libre nombramiento estatal y municipal, siendo acorde a las funciones y responsabilidades de sus cargos.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2009)</small>
+
+El tabulador que elabore el comité técnico de valoración, señalado en el párrafo anterior, tendrá valor de opinión; será parte de la propuesta de egresos del Estado, y la Legislatura correspondiente podrá modificarlo o aprobarlo.
+
 ###### ARTICULO 26.
 
 El Comité a que se refiere el artículo anterior, estará integrado por:
@@ -299,19 +303,21 @@ Tratándose de los trabajadores de base, el Comité sólo podrá intervenir en l
 
 En la elaboración del tabulador donde se especifique la remuneración mensual de los servidores públicos, además de lo establecido en el artículo 27 de esta Ley, se deberán observar las siguientes disposiciones:
 
-I. En relación al gobierno estatal, homologar la remuneración de los servidores públicos electos, designados, superiores, judiciales, y de libre nombramiento, de acuerdo a los niveles siguientes:
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2009)</small>
 
-a) Gobernador del Estado.
+I. En relación al gobierno estatal, establecer la remuneración de los servidores públicos electos, designados, superiores, judiciales y de libre nombramiento, de acuerdo a los tabuladores, y que comprendan los funcionarios siguientes:
 
-b) Magistrados, consejeros de la Judicatura y diputados.
+Gobernador;
 
-c) Secretarios de estado.
+Diputados, magistrados y consejeros de la Judicatura;
 
-d) Titulares de organismos públicos autónomos y auxiliares.
+Secretarios de Estado;
 
-e) Directores generales y órganos de gobierno de las entidades de la administración pública estatal descentralizada.
+Titulares de organismos públicos autónomos y auxiliares;
 
-f) Jueces de primera instancia, y
+Directores generales y órganos de gobierno de las entidades de la administración pública estatal descentralizada;
+
+Jueces de primera instancia, y
 
 II. En relación a los ayuntamientos, homologar la remuneración de los servidores públicos electos, designados, superiores, y de libre nombramiento, de acuerdo a los niveles siguientes:
 
@@ -418,3 +424,11 @@ El Secretario General de Gobierno
 Lic. Héctor Vega Robles
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE NOVIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En virtud de las modificaciones que genera este Decreto, se concede al Comité Técnico de Valoración de las Remuneraciones de los Servidores Públicos, hasta el día cinco de diciembre de 2009, para que de cumplimiento a su encomienda.
