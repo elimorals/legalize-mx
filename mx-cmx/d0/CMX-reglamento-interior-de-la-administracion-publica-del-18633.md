@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2009-11-12"
+last_updated: "2009-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE NOVIEMBRE DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -1088,9 +1088,9 @@ IV. Normar los aspectos técnico-jurídicos que permitan publicar, difundir y di
 
 V. Vigilar el cumplimiento de la Ley del Notariado del Distrito Federal y establecer lineamientos y criterios de interpretación de la normatividad aplicable a la función notarial;
 
-> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2009)</small>
 
-V Bis.- Integrar y mantener actualizado el registro de inicio, modificación, adición y terminación de sociedades en convivencia;
+V Bis. Integrar y mantener actualizado el índice y padrón de la constitución, modificación, adición y los avisos de terminación de sociedades de convivencia;
 
 VI. Integrar, sustanciar y resolver el recurso administrativo de revocación de la declaratoria de expropiación, de ocupación temporal o de limitación de dominio;
 
@@ -8540,6 +8540,10 @@ X. Coadyuvar con la Oficialía Mayor, en el ámbito de su competencia, en la ela
 
 XI. Elaborar y tramitar los decretos de expropiación y desincorporación de inmuebles;
 
+> <small>(ADICIONADA, G.O. 30 DE NOVIEMBRE DE 2009)</small>
+
+XI Bis. Tramitar el procedimiento previsto en las fracciones III a V del artículo 2 de la Ley de Expropiación y emitir la resolución correspondiente;
+
 XII. Substanciar y emitir el dictamen correspondiente a los procedimientos administrativos de reversión, así como la tramitación y resolución de los recursos de revocación, motivados por expropiaciones a favor del Distrito Federal;
 
 XIII. Substanciar y emitir el dictamen correspondiente a las solicitudes de pago de indemnización por expropiaciones; o bien por afectaciones realizadas con la finalidad de subsanar las necesidades del Distrito Federal, a efecto de formalizar la adquisición de los inmuebles afectados;
@@ -8582,9 +8586,9 @@ XXIV. Participar en la elaboración, actualización y en su caso, aprobación de
 
 XXV. Revisar, y en su caso, aprobar las modificaciones jurídicas de las Condiciones Generales de Trabajo y de los contratos colectivos en que sea parte la Administración Pública del Distrito Federal;
 
-> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2009)</small>
 
-XXVI. Registrar el inicio, la modificación, la adición y terminación de sociedades en convivencia; permitir la consulta y expedir copia certificada del escrito de constitución de sociedad de convivencia, así como informar a las autoridades competentes respecto de éstas, y
+XXVI. Mantener actualizado el índice y padrón de la constitución, modificación, adición y avisos de terminación de sociedades de convivencia; y custodiar en el Archivo General de Notarías, los expedientes respectivos remitidos por los órganos político - administrativos; y
 
 > <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2009)</small>
 
@@ -11208,31 +11212,53 @@ IX. Promover la desregulación y simplificación administrativa, en materia de f
 
 X. Establecer y coordinar los programas de abasto y comercialización de productos básicos, promoviendo la modernización y optimización en la materia.
 
-> <small>(REFORMADO, G.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 156 Bis 2.
 
-Corresponde a la Dirección General de Participación Ciudadana y Gestión Gubernamental:
+Corresponde a la Dirección General de Participación Ciudadana y Gestión Social:
+
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
 
 I. Dar seguimiento en tiempo y forma a los compromisos que asuma la Delegación y el Titular del Órgano Político Administrativo con las diferentes instancias de participación ciudadana y los instrumentos establecidos en la Ley de Participación Ciudadana del Distrito Federal;
 
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
+
 II. Elaborar y mantener actualizados los directorios de las organizaciones políticas, ciudadanas y de representación vecinal del entorno delegacional;
+
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
 
 III. Proponer y organizar los recorridos y la audiencia pública del Titular del Órgano Político Administrativo conjuntamente con las Direcciones Territoriales cuando ésta última se efectúe en áreas vecinales fuera del edificio delegacional; de acuerdo a la geografía delegacional y a su problemática existente;
 
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
+
 IV. Atender y dar seguimiento a los compromisos que el Titular del Órgano Político Administrativo asuma durante la audiencia pública con vecinos y/o representantes vecinales, además de las solicitudes y demandas que reciba durante los recorridos que realice;
+
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
 
 V. Establecer los mecanismos necesarios para garantizar a los ciudadanos y agrupaciones sociales su derecho a respuestas institucionales concretas y oportunas ante las gestiones y demandas que presenten;
 
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
+
 VI. Solicitar periódicamente a las Direcciones Generales, Direcciones Ejecutivas y Direcciones Territoriales la información estadística relativa al número, tipo y resultado de las demandas ciudadanas que reciban y atiendan;
+
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
 
 VII. Establecer las políticas y estrategias que permitan vincular las acciones de gobierno con los organismos sociales, a efecto de ejecutar eficaz y eficientemente los programas y proyectos delegacionales;
 
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
+
 VIII. Evaluar y, en su caso, atender o canalizar las demandas de apoyos logísticos y recursos materiales de las organizaciones sociales y órganos de representación vecinal que soliciten el apoyo a la Delegación, conforme a los programas y presupuestos asignados;
+
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
 
 IX. Opinar sobre las solicitudes de colaboración en la ejecución de obras que sean competencia de la Delegación por parte de los ciudadanos que residan en la misma;
 
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
+
 X. Determinar los mecanismos y procedimientos necesarios que permitan ejercer mayor control del presupuesto asignado a la Dirección General de Participación Ciudadana, correspondiente al Subprograma de Prevención al Delito y Presupuesto de la Dirección General de Participación Ciudadana; y
+
+> <small>(REFORMADA, G.O. 30 DE OCTUBRE DE 2009)</small>
 
 XI. Coordinar las acciones de video-vigilancia y alarmas vecinales del Centro de Monitoreo del Subprograma de Prevención del Delito.
 
@@ -13431,3 +13457,9 @@ PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. - Con el objeto que la Subsecretaria y Dirección General que se crean con el presente Decreto cuenten con los recursos humanos, materiales y financieros para su funcionamiento y operación, la Secretaría de Finanzas, la Oficialía Mayor y la Contraloría General, en el ámbito de sus respectivas competencias, determinarán los términos y condiciones requeridos para tal efecto.
+
+G.O. 30 DE NOVIEMBRE DE 2009.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
