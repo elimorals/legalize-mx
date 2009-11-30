@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-gobierno-50199"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-27"
-last_updated: "2006-12-04"
+last_updated: "2009-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2009.
 
-Reglamento publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 27 de marzo de 2006.
+Reglamento publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 27 de marzo de 2006.
 
 MIGUEL ANGEL OSORIO CHONG, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, en ejercicio de la facultad que me confiere el Artículo 71 fracción II de la Constitución Política del Estado Libre y Soberano de Hidalgo y con fundamento a lo dispuesto por los Artículos 5, 13 fracción I, 17, 19, 21, 22 y 24 de la Ley Orgánica de la Administración Pública del Estado de Hidalgo, he tenido a bien expedir el siguiente:
 
@@ -93,21 +93,25 @@ Para el ejercicio de las funciones y despacho de los asuntos que le competen, la
 
 A).- Unidades Administrativas:
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DE LA PRESENTE FRACCION, PARA QUEDAR INTEGRADA POR LOS INCISO A) A C), Y ESTE ULTIMO POR 4 NUMERALES.</small>
+
 I.- Subsecretaría de Gobernación.
 
 a).- Dirección General de Gobernación;
 
 b).- Dirección General de Coordinación Regional;
 
-c).- Dirección General de Gobernación en Tulancingo de Bravo;
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2009)</small>
 
-d).- Dirección General de Gobernación en Tula de Allende;
+c).- Direcciones Regionales de Gobernación en el Estado;
 
-e).- Dirección General de Gobernación en Actopan;
+1.- Dirección General de Gobernación en Tulancingo de Bravo;
 
-f).- Dirección General de Gobernación en Ixmiquilpan; y
+2.- Dirección General de Gobernación en Tula de Allende;
 
-g).- Direcciones Regionales de Gobernación en el Estado.
+3.- Dirección General de Gobernación en Actopan; y
+
+4.- Dirección General de Gobernación en Ixmiquilpan.
 
 II.- Subsecretaría de Gobierno en la Huasteca Hidalguense.
 
@@ -137,13 +141,13 @@ a).- Dirección General Jurídica.
 
 8.- Dirección de Conciliación Jurídica;
 
-9.- El Tribunal Estatal de Conciliación y Arbitraje;
+9.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2009)
 
-10.- La Junta Local de Conciliación y Arbitraje; y
+10.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2009)
 
-11.- La Procuraduría de la Defensa del Trabajo.
+11.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2009)
 
-b).- Dirección General del Trabajo y Previsión Social.
+b).- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2009)
 
 V.- Coordinación de Protección Civil.
 
@@ -902,3 +906,7 @@ LIC. MIGUEL ANGEL OSORIO CHONG
 P.O. 4 DE DICIEMBRE DE 2006.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2009.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
