@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-2-2002-del-pleno-de-la-suprema-corte-408
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-01-31"
-last_updated: "2009-04-17"
+last_updated: "2009-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-01-24"
 
 ACUERDO GENERAL NUMERO 2/2002, DEL VEINTICUATRO DE ENERO DE DOS MIL DOS, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA MODIFICACION DEL PUNTO OCTAVO DE SU ACUERDO NUMERO 6/1998 DEL NUEVE DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NUMERO 12/2009 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 1 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 31 de enero de 2002.
 
@@ -68,3 +70,13 @@ TERCERO. Una vez transcurridos diez días hábiles después de la publicación d
 CUARTO. El procedimiento relativo a los incidentes de inejecución que se remitan a la Suprema Corte de Justicia de la Nación a partir de la entrada en vigor del presente Acuerdo General se substanciará conforme a lo previsto en el artículo 105 de la Ley de Amparo, en la jurisprudencia de este Alto Tribunal, en el Acuerdo General Plenario 6/1998, salvo lo dispuesto en su punto Octavo derogado mediante este Acuerdo General, y en las diversas disposiciones generales que en su momento expida este Tribunal Pleno.
 
 QUINTO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
+
+D.O.F. 1 DE DICIEMBRE DE 2009.
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan los Acuerdos Generales Plenarios números 6/1998 y 2/2002, aprobados, respectivamente, el nueve de noviembre de mil novecientos noventa y ocho y el veinticuatro de enero de dos mil dos; y se derogan los puntos Décimo Quinto y Décimo Sexto del Acuerdo General Plenario 5/2001 del veintiuno de junio de dos mil uno.
+
+TERCERO. Los incidentes de inejecución que se encuentren archivados en la Subsecretaría General de Acuerdos o en las Secretarías de Acuerdos de las Salas en los que no haya resolución del Pleno en el sentido de que fue excusable el incumplimiento del fallo protector, dentro de los dos meses siguientes a la entrada en vigor de este Acuerdo General, se deberán someter a consideración del Pleno o de la Sala, según corresponda, o remitirse mediante dictamen del Ministro al Juzgado de Distrito del conocimiento.
+
+CUARTO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
