@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-del-trabajo-y-64330"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-14"
-last_updated: "2008-11-14"
+last_updated: "2009-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64330&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-11-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 14 de noviembre de 2008.
 
@@ -187,7 +187,9 @@ XVII. Resolver los recursos administrativos que se interpongan en contra de reso
 
 XVIII. Resolver sobre la interpretación y aplicación del presente Reglamento, así como los casos no previstos en el mismo;
 
-XIX. Representar al Presidente de la República en los juicios de amparo, controversias constitucionales y acciones de inconstitucionalidad en los casos en que lo determine el titular del Ejecutivo Federal, así como nombrar y remover delegados o representantes en dichos procedimientos, y
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2009)</small>
+
+XIX. Representar al Presidente de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine el Titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el artículo 41 del presente Reglamento, así como nombrar y remover delegados o representantes en dichos procedimientos, y
 
 XX. Las demás que con ese carácter le confieran las disposiciones legales, el presente Reglamento y el titular del Ejecutivo Federal.
 
@@ -537,13 +539,31 @@ VII. Asesorar al Oficial Mayor en la elaboración y revisión de las Condiciones
 
 VIII. Compilar, sistematizar y difundir las normas jurídicas relacionadas con las facultades de la Secretaría, así como los criterios de interpretación de las mismas;
 
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2009)</small>
+
+VIII bis. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría del Trabajo y Previsión Social representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada ley;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2009)</small>
+
+VIII ter. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario del Trabajo y Previsión Social represente al Presidente de la República;
+
 IX. Representar a la Secretaría ante las autoridades de carácter administrativo o judicial en los juicios o procedimientos en que sea actora o demandada, o se le designe como parte, ejercitando las acciones, defensas y excepciones que correspondan; vigilar la continuidad de los juicios, procedimientos y diligencias respectivas; formular las demandas, contestaciones y, en general, todas las promociones que se requieran para la prosecución de los juicios o recursos interpuestos ante dichas autoridades, y vigilar el cumplimiento de las resoluciones correspondientes.
 
 El Director General de Asuntos Jurídicos, sin perjuicio de las facultades que se le confieren en este artículo para representar a la Secretaría ante autoridades judiciales y administrativas, podrá sustituir y revocar mediante oficio el ejercicio de dichas facultades;
 
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2009)</small>
+
+IX bis. Representar al Secretario, a los subsecretarios, al Oficial Mayor, a los jefes de unidad, al coordinador general y a los directores generales de la Secretaría, en todos los trámites dentro de los juicios de amparo;
+
 X. Formular denuncias o querellas y desistimientos, así como otorgar el perdón cuando proceda y solicitar al Ministerio Público el ejercicio de las acciones que correspondan, y en su caso, comparecer al proceso penal para efectos de la reparación del daño. En caso de ausencia del Director General, estas facultades serán ejercidas por el Director de lo Contencioso y el Subdirector de Procedimientos Judiciales, en ese orden;
 
-XI. Elaborar los proyectos de los informes previos y justificados que en materia de amparo deban rendir el Secretario y el Presidente de la República, en este último caso cuando se le hubiere conferido a aquél la representación presidencial, así como los relativos a los demás servidores públicos que sean señalados como autoridades responsables; asimismo, los escritos de demanda o contestación, según proceda, en las controversias constitucionales o acciones de inconstitucionalidad; promover y desistirse, en su caso, de los juicios de amparo, cuando la Secretaría tenga el carácter de quejosa o de tercero perjudicado, y formular, en general, todas las promociones que a dichos juicios se refieran;
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2009)</small>
+
+Xl. Elaborar y proponer los informes previos, justificados y de todo tipo de promociones y recursos que en materia de amparo deban rendir los servidores públicos de la Secretaría que no están comprendidos en la fracción IX bis de este artículo y que sean señalados como autoridades responsables;
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2009)</small>
+
+Xl bis. Acreditar delegados, por medio de oficio, facultados para que hagan promociones, concurran a las audiencias, formulen escritos de demanda o contestación, rindan pruebas, formulen alegatos, promuevan los incidentes y recursos procedentes o se desistan;
 
 XII. Representar al Secretario y a las unidades administrativas de la Secretaría ante el Tribunal Federal de Justicia Fiscal y Administrativa, e interponer el recurso de revisión fiscal en términos de la Ley Federal de Procedimiento Contencioso Administrativo. Estas facultades también podrá ejercerlas el Director de lo Contencioso;
 
@@ -1237,6 +1257,10 @@ En los casos de ausencia de los subsecretarios y el Oficial Mayor, los asuntos a
 
 En los casos de ausencia de los jefes de unidad, coordinador general, directores generales, subcoordinadores, directores, subdirectores y jefes de departamento, así como de los delegados, subdelegados y jefes de oficina federales del trabajo, los asuntos a su cargo serán atendidos por los servidores públicos de la jerarquía inmediata inferior, de acuerdo a su competencia.
 
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2009)</small>
+
+Las ausencias del Director General de Asuntos Jurídicos, serán suplidas por el Director de lo Contencioso.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1252,3 +1276,9 @@ QUINTO. La Oficialía Mayor realizará las acciones necesarias para que los recu
 SEXTO. Continuarán en vigor los acuerdos secretariales de delegación de facultades, desconcentración de funciones y demás que hayan sido expedidos por el titular de la Secretaría y que se encuentren actualmente vigentes, en lo que no se opongan a las disposiciones del presente ordenamiento, en tanto el Secretario del Trabajo y Previsión Social no los modifique o deje sin efectos.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de noviembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Javier Lozano Alarcón.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 1 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
