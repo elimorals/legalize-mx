@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2001-del-tribunal-pleno-de-la-suprema-41000"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-06-29"
-last_updated: "2009-10-22"
+last_updated: "2009-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41000&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-06-21"
 
 ACUERDO GENERAL NUMERO 5/2001, DE VEINTIUNO DE JUNIO DE DOS MIL UNO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA DETERMINACION DE LOS ASUNTOS QUE CONSERVARA PARA SU RESOLUCION Y EL ENVIO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2009.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de junio de 2001 y en el Semanario Judicial de la Federación y su Gaceta, Tomo XIV, Julio de 2001, página 1161.
 
@@ -265,9 +265,9 @@ DÉCIMO CUARTO.- En materia de amparo, el auto de radicación dictado por el pre
 
 Tratándose de conflictos competenciales y de reconocimientos de inocencia el auto y la resolución a que se refiere el párrafo anterior, se notificarán también en forma personal a las partes.
 
-DÉCIMO QUINTO.- Al radicar y registrar los incidentes de inejecución y las denuncias de repetición del acto reclamado, los presidentes de los Tribunales Colegiados de Circuito, requerirán a las autoridades responsables contra quienes se hubiese concedido el amparo o a quienes se impute la repetición, con copia a su superior jerárquico, en su caso, para que en un plazo de diez días hábiles, contados a partir de la legal notificación del proveído respectivo, demuestren ante el propio tribunal el acatamiento de la ejecutoria o haber dejado sin efectos el acto de repetición, o le expongan las razones que tengan en relación con el incumplimiento de la sentencia o con la repetición del acto reclamado, apercibiéndolas de que, en caso de ser omisas ante ese requerimiento, se continuará el procedimiento respectivo que puede culminar con una resolución que, en los términos del artículo 107, fracción XVI, de la Constitución Política de los Estados Unidos Mexicanos, ordene la separación del cargo del titular responsable y su consignación penal ante el Juez Federal.
+DÉCIMO QUINTO.- (DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NUMERO 12/2009 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 1 DE DICIEMBRE DE 2009)
 
-DÉCIMO SEXTO.- En las hipótesis establecidas en la fracción IV del punto quinto de este acuerdo, cuando los Tribunales Colegiados de Circuito estimen que debe aplicarse la sanción prevista en la fracción XVI del artículo 107 constitucional, previo dictamen suscrito por los tres Magistrados, deberán remitir el asunto a esta Suprema Corte de Justicia de la Nación, haciéndolo del conocimiento de las autoridades responsables respectivas.
+DÉCIMO SEXTO.- (DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NUMERO 12/2009 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 1 DE DICIEMBRE DE 2009)
 
 DÉCIMO SÉPTIMO.- Los presidentes de los Tribunales Colegiados de Circuito comunicarán a la Suprema Corte de Justicia, por conducto de la Subsecretaría General de Acuerdos, a más tardar dentro de los primeros diez días de cada mes, los ingresos, egresos y existencia de asuntos de la competencia originaria de este Alto Tribunal, incluyendo aquellos que con anterioridad se les hubiesen enviado.
 
@@ -316,3 +316,13 @@ PRIMERO. Este instrumento normativo entrará en vigor al día siguiente de su pu
 SEGUNDO. Publíquese este instrumento normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7o. fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2001 en esos medios electrónicos.
 
 TERCERO. La Secretaría General de Acuerdos, la Subsecretaría General de Acuerdos y las Secretarías de Acuerdos de las Salas, previo acuerdo del Presidente de la Suprema Corte de Justicia de la Nación, desarrollarán un sistema consultable en medios electrónicos en el cual se dé seguimiento a los criterios sostenidos por el Pleno y las Salas de este Alto Tribunal al resolver controversias constitucionales, contradicciones de tesis en materia común, recursos de revisión administrativa y los juicios referidos en la fracción XX del artículo 11 de la Ley Orgánica del Poder Judicial de la Federación.
+
+D.O.F. 1 DE DICIEMBRE DE 2009.
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan los Acuerdos Generales Plenarios números 6/1998 y 2/2002, aprobados, respectivamente, el nueve de noviembre de mil novecientos noventa y ocho y el veinticuatro de enero de dos mil dos; y se derogan los puntos Décimo Quinto y Décimo Sexto del Acuerdo General Plenario 5/2001 del veintiuno de junio de dos mil uno.
+
+TERCERO. Los incidentes de inejecución que se encuentren archivados en la Subsecretaría General de Acuerdos o en las Secretarías de Acuerdos de las Salas en los que no haya resolución del Pleno en el sentido de que fue excusable el incumplimiento del fallo protector, dentro de los dos meses siguientes a la entrada en vigor de este Acuerdo General, se deberán someter a consideración del Pleno o de la Sala, según corresponda, o remitirse mediante dictamen del Ministro al Juzgado de Distrito del conocimiento.
+
+CUARTO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
