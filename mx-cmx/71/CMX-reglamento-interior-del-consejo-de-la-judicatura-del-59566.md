@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-del-59566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-25"
-last_updated: "2009-04-24"
+last_updated: "2009-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59566&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 25 de febrero de 2008.
 
@@ -1050,9 +1050,11 @@ La función administrativa, se desempeñará a través de la Comisión de Admini
 
 Dicha Comisión ejercerá la función de vigilar la administración de los recursos humanos, materiales y financieros del Tribunal y del Consejo, que operarán los órganos competentes, con apego al presupuesto de egresos autorizado por la Asamblea Legislativa y la normatividad en la materia, conforme a los principios establecidos en la Ley Orgánica y en este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 75.
 
-La Comisión de Administración y Presupuesto tendrá las obligaciones y facultades siguientes:
+La Comisión de Administración y Presupuesto, tendrá las obligaciones y facultades siguientes:
 
 I. Recibir trimestralmente el avance obtenido de los Programas Anuales de Adquisiciones, Arrendamientos y Prestación de Servicios, Obra Pública; Enajenación de Bienes Muebles, y los que determinen los Acuerdos Generales que se emitan respecto a la administración y manejo de recursos, e informar al Pleno cuando así lo determine la Comisión de Administración y Presupuesto;
 
@@ -1062,7 +1064,9 @@ III. Dictaminar, dentro del ámbito de su competencia, sobre las propuestas de n
 
 IV. Presentar al Pleno del Consejo, conforme a los ordenamientos jurídicos aplicables, el otorgamiento de estímulos y recompensas del personal del Tribunal y del Consejo;
 
-V. Presentar al Pleno del Consejo, para su aprobación, los dictámenes relativos a las licencias mayores de quince días y hasta tres meses, que soliciten los servidores públicos del Tribunal y del Consejo;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2009)</small>
+
+V. Resolver las solicitudes de licencias mayores de quince días y hasta de tres meses, que soliciten los servidores públicos del Tribunal y del Consejo, así como aquellas a las que se refieren los artículos 87, 88 y 90, del Reglamento de Condiciones Generales de Trabajo para los Empleados del Tribunal Superior de Justicia del Distrito Federal, y los artículos 78, 81 y 82 bis, del presente reglamento, notificando personalmente dicha resolución a los interesados;
 
 VI. Proponer al Pleno del Consejo a propuesta de su Presidente, al Secretario Técnico de la Comisión; y
 
@@ -1082,11 +1086,13 @@ El Secretario Técnico de la Comisión de Administración y Presupuesto deberá 
 
 #### SECCIÓN ÚNICA. DE LAS LICENCIAS
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 78.
 
-Toda licencia deberá solicitarse por escrito y dirigida al Presidente, expresando las razones que la motiven y en su caso, los documentos que la justifiquen, con quince días naturales de anticipación a la fecha que se solicite.
+Toda licencia deberá solicitarse por escrito y dirigida al Presidente, expresando las razones que la motiven y en su caso, los documentos que la justifiquen, con quince días hábiles de anticipación a la fecha en que se solicite.
 
-Las solicitudes de licencias se entregarán en la Dirección Ejecutiva de Recursos Humanos del Tribunal o en la Coordinación Administrativa del Consejo, según sea el caso, y éstas, mediante dictamen específico, las remitirán, ya sea, a la Secretaría General, en los casos previstos por el artículo 202, fracción IX, de la Ley Orgánica, o a la Secretaría Técnica de la Comisión de Administración y Presupuesto, de conformidad con lo dispuesto por el artículo 201, fracción XVII, de la misma Ley, para su respectiva resolución.
+Las solicitudes de licencias se entregarán en la Dirección Ejecutiva de Recursos Humanos del H. Tribunal o en la Coordinación Administrativa del Consejo, según sea el caso y éstas mediante dictamen específico, las remitirán, ya sea a la Secretaría General, en los casos previstos por el artículo 202, fracción IX de la Ley Orgánica, o a la Secretaría Técnica de la Comisión de Administración y Presupuesto, en los casos a que se refieren los artículos 201, fracción XVII, de la misma Ley, así como los artículos 87, 88 y 90, del Reglamento de Condiciones Generales de Trabajo para los Empleados del Tribunal Superior de Justicia del Distrito Federal, y los artículos 81 y 82 bis del presente reglamento, para su respectiva resolución.
 
 ###### Artículo 79.
 
@@ -1114,15 +1120,21 @@ III. Para el desempeño de cargos de elección popular y por todo el tiempo que 
 
 En los cargos establecidos en la fracción II, en que se otorgue licencia para ocupar otro cargo en Institución distinta, se deberá notificar a la Dirección Ejecutiva de Recursos Humanos o al Consejo de la Judicatura cada seis meses, para efectos de su continuidad, ya que en caso contrario se tendrá por cancelada.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 82.
 
-El Consejo, de igual manera, en forma discrecional concederá licencia al personal, con goce de sueldo:
+El Pleno del Consejo de igual manera, en forma discrecional concederá licencia al personal, con goce de sueldo, hasta por quince días en un año, siempre que exista causa justificada para ello, sin perjuicio de lo dispuesto por el artículo 202, fracción IX, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal.
 
-I. Hasta por quince días en un año, siempre que exista causa justificada para ello.
+I. (DEROGADA, G.O. 1 DE DICIEMBRE DE 2009)
 
-II. A quienes requieran realizar trámites prejubilatorios, por el término de 90 días naturales.
+II. (DEROGADA, G.O. 1 DE DICIEMBRE DE 2009)
 
 Las licencias a que se refiere este artículo se concederán previo Acuerdo del Pleno.
+
+> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2009)</small>
+
+Artículo 82 bis. La Comisión de Administración y Presupuesto, resolverá respecto de las solicitudes de licencia por noventa días naturales, con goce de sueldo, que formulen los empleados del Tribunal Superior de Justicia y del Consejo de la Judicatura del Distrito Federal, para la realización de trámites prejubilatorios.
 
 ###### Artículo 83.
 
@@ -1885,3 +1897,11 @@ EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 G.O. 24 DE ABRIL DE 2009.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+
+G.O. 1 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el mismo día de su aprobación por el Pleno.
+
+SEGUNDO.- Publíquese en el Boletín Judicial del Distrito Federal y para su mayor difusión en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Incorpórese el texto de este decreto y las modificaciones respectivas en la página web del Consejo de la Judicatura del Distrito Federal.
