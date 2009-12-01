@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-sistema-para-el-desarrollo-integral-de-la-52123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-06"
-last_updated: "2006-10-06"
+last_updated: "2009-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL MUNICIPIO DE LEON, GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 6 de octubre de 2006.
 
@@ -101,25 +101,29 @@ El Sistema DIF León tendrá su domicilio en el Municipio de León, Guanajuato.
 
 El Órgano de Gobierno encargado de la dirección, administración y funcionamiento del Sistema DIF León, será un Consejo Directivo, el cuál fungirá como la máxima autoridad dentro de dicho organismo público descentralizado.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 8.
 
-El Consejo del Sistema DIF León, estará conformado por nueve consejeros propietarios nombrados, conforme a lo siguiente:
+El Consejo del Sistema DIF León, estará conformado por doce consejeros nombrados, conforme a lo siguiente:
 
-l.- Un Representante del Ayuntamiento, designado en la primera sesión ordinaria que éste Órgano Colegiado celebre al inicio de cada administración, quien tendrá el cargo de vocal en la conformación del Consejo.
+I.- Dos Representantes del H. Ayuntamiento, designados en la primera sesión ordinaria que el citado Órgano Colegiado celebre al inicio de cada administración, quienes tendrán el cargo de vocales en la conformación del Consejo.
 
 II.- Un Secretario Técnico, que será el Director General del Sistema DIF León.
 
-III.- Los siete restantes serán nombrados por el Ayuntamiento dentro de los primeros tres meses de que se haya instalado, a propuesta del Presidente Municipal.
+III.- Los nueve restantes serán nombrados por el H. Ayuntamiento dentro de los primeros tres meses de que se haya instalado, a propuesta del Presidente Municipal.
 
 Para tal efecto el Presidente Municipal convocará a las personas con reconocimiento en actividades de asistencia social.
 
-El nombramiento que realice el ayuntamiento será de consejeros propietarios y de sus respectivos suplentes, quienes cubrirán sus ausencias en la forma prevista en el presente reglamento.
+Los cargos de Presidente, Tesorero y Vocales serán designados de entre los consejeros, en la sesión de instalación del Consejo.
 
-Los cargos de Presidente, Tesorero y Vocales serán designados de entre los consejeros propietarios, en la sesión de instalación del Consejo.
+Por acuerdo del Consejo, se podrá invitar a las sesiones a personas con experiencia en temas de interés social, en calidad de vocales, con derecho a voz pero sin voto, cuando a su juicio sea necesario para el mejor desempeño de las atribuciones del Consejo.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 9.
 
-No podrán ser consejeros propietarios aquellas personas que hayan tenido ya ese cargo en dos periodos anteriores continuos o discontinuos.
+No podrán ser consejeros aquellas personas que hayan tenido ya ese cargo en los dos periodos inmediatos anteriores.
 
 ###### ARTÍCULO 10.
 
@@ -153,7 +157,9 @@ Corresponde al Consejo;
 
 l.- Designar al Presidente, Tesorero y Vocales, en el caso de renuncia, revocación y ausencia definitiva de quienes ocupen dichos cargos;
 
-II.- Otorgar licencias para ausentarse del cargo a cualquiera de los consejeros, con excepción del representante del Ayuntamiento;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2009)</small>
+
+II.- Otorgar licencias para ausentarse del cargo a cualquiera de los consejeros, con excepción de los representantes del Ayuntamiento;
 
 III.- Solicitar al Ayuntamiento la revocación del nombramiento de los consejeros, en los términos del presente ordenamiento;
 
@@ -211,7 +217,9 @@ VII.- Supervisar que las actividades del Sistema DIF León se efectúen en debid
 
 VIII.- Comparecer ante el Ayuntamiento en representación del Consejo, para informar sobre el estado general que guarda la administración y funcionamiento del Sistema DIF León;
 
-IX.- Proponer al Consejo, al consejero propietario que pueda suplirlo para el caso de licencia por más de un mes y hasta por tres meses; y,
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2009)</small>
+
+IX.- Proponer al Consejo, al consejero que pueda suplirlo para el caso de licencia por más de un mes y hasta por tres meses; y,
 
 X.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
 
@@ -231,7 +239,9 @@ V.- Suplir las ausencias del Presidente, por licencia, permiso o causa justifica
 
 VI.- Supervisar la adecuada aplicación de los recursos y bienes del Sistema DIF León, así como que la contabilidad se lleve en debida forma;
 
-VII.- Proponer al Consejo, al consejero propietario que pueda suplirlo para el caso de licencia hasta por tres meses; y,
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2009)</small>
+
+VII.- Proponer al Consejo, al consejero que pueda suplirlo para el caso de licencia hasta por tres meses; y,
 
 VIII.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
 
@@ -243,7 +253,9 @@ I.- Supervisar la elaboración del anteproyecto de presupuesto de ingresos y pro
 
 II.- Supervisar la adecuada aplicación de los recursos y bienes del Sistema DIF León, así como que la contabilidad se lleve en debida forma;
 
-III.- Proponer al Consejo, al consejero propietario que pueda suplirlo para el caso de licencia hasta por tres meses; y,
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2009)</small>
+
+III.- Proponer al Consejo, al consejero que pueda suplirlo para el caso de licencia hasta por tres meses; y,
 
 IV.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
 
@@ -261,19 +273,21 @@ IV.- Las demás que se deriven del presente Reglamento, así como las que le asi
 
 #### SECCIÓN TERCERA. DE LAS AUSENCIAS Y REVOCACIONES
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 17.
 
-Con la salvedad establecida en el artículo 14 fracción V de este ordenamiento, las ausencias del Presidente y Tesorero por licencia, permiso o causa justificada, serán cubiertas por el consejero propietario que el Consejo designe, llamándose al suplente de éste para que a su vez lo sustituya.
+Con la salvedad establecida en el artículo 14 fracción V de este ordenamiento, las ausencias del Presidente y Tesorero por licencia, permiso o causa justificada, serán cubiertas por el consejero que el propio Consejo designe.
 
-En los supuestos establecidos en los artículos 13 fracción IX y 15 fracción III del presente ordenamiento, la designación recaerá en el consejero propietario propuesto.
+En los supuestos establecidos en los artículos 13 fracción IX y 15 fracción III del presente ordenamiento, la designación recaerá en el consejero propuesto.
 
-El suplente deberá rendir un informe de los acuerdos tomados durante su función, al consejero propietario una vez que éste se incorpore.
+Para efectos de lo anterior, el suplente deberá rendir un informe de los acuerdos tomados durante su función, al consejero una vez que se incorpore.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 18.
 
-La falta de cualquiera de los consejeros por más de tres meses continuos, sin causa justificada, tendrá el carácter de abandono definitivo del cargo, debiéndose llamar al suplente para que entre en funciones de consejero propietario.
-
-Tratándose del Presidente y Tesorero, una vez que entren en funciones sus suplentes, se reunirá el Consejo para designar de entre sus miembros tales cargos.
+La falta de cualquiera de los consejeros por más de tres meses continuos, sin causa justificada, tendrá el carácter de abandono definitivo del cargo, debiéndose nombrar un nuevo consejero.
 
 ###### ARTÍCULO 19.
 
@@ -281,7 +295,9 @@ Corresponde al Ayuntamiento resolver sobre la renuncia, revocación y remoción 
 
 La revocación o remoción deberá determinarse en base a los elementos de convicción suficientes que el Consejo le aporte, para acreditar el incumplimiento de alguna o algunas de las obligaciones a que se refiere el presente Reglamento.
 
-En estos supuestos asumirá el cargo correspondiente, el consejero suplente, quien concluirá el periodo respectivo.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2009)</small>
+
+En estos supuestos, deberá nombrarse a un nuevo consejero, quien concluirá el periodo respectivo.
 
 ###### ARTÍCULO 20.
 
@@ -339,9 +355,13 @@ XII.- Autorizar conjuntamente con el Director Administrativo las erogaciones que
 
 XIII.- Resolver sobre los expedientes que remita la Contraloría Municipal con motivo de los procedimientos de responsabilidad administrativa que se instauren a los servidores públicos del Sistema DIF León;
 
-XIV.- Informar mensualmente al Consejo sobre el estado financiero del Sistema DIF León; y,
+XIV.- Informar mensualmente al Consejo sobre el estado financiero del Sistema DIF León; y, (sic)
 
-XV.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2009)</small>
+
+XV.- Autorizar constancias y certificar copias de los documentos originales que obran en los archivos del Organismo.
+
+XVI.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
 
 #### SECCIÓN SEGUNDA. DE LAS DIRECCIONES DE ÁREA
 
@@ -355,7 +375,9 @@ II.- De Adultos Mayores;
 
 III.- De Asistencia Jurídico Familiar;
 
-IV.- De Atención a la Infancia;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2009)</small>
+
+IV.- De Orientación Familiar y Atención a la Infancia;
 
 V.- De Atención a Personas con Discapacidad y Rehabilitación;
 
@@ -363,9 +385,9 @@ VI.- De Centros de Desarrollo Familiar DIF;
 
 VII.- De Desarrollo Comunitario y Nutricional;
 
-VIII.- De Desarrollo Institucional; y,
+VIII.- (DEROGADA, P.O.1 DE DICIEMBRE DE 2009)
 
-IX.- De Orientación Familiar.
+IX.- (DEROGADA, P.O.1 DE DICIEMBRE DE 2009)
 
 El Consejo podrá determinar la integración de otras unidades o áreas, necesarias para el cumplimiento de las funciones del Sistema DIF León.
 
@@ -373,9 +395,11 @@ El Consejo podrá determinar la integración de otras unidades o áreas, necesar
 
 El trabajo de las Direcciones de área será evaluado por la Dirección General del Sistema DIF León con base en el cumplimiento de metas y compromisos de los programas a su cargo, con excepción de la Unidad de Auditoría Interna que será evaluada por el Consejo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 25.
 
-Los titulares de las Direcciones de área se auxiliarán del personal designado para cubrir las necesidades del servicio, así como para el cumplimiento de los programas que les correspondan, y tendrán las facultades siguientes:
+Los titulares de las Direcciones de área deberán ser personas con título profesional y experiencia en el ámbito de la asistencia social, preferentemente en el área; y se auxiliarán del personal designado para cubrir las necesidades del servicio, así como para el cumplimiento de los programas que les correspondan, y tendrán las facultades siguientes:
 
 I.- Planear, organizar, ejecutar y evaluar las estrategias y las actividades que la Dirección General determine, de acuerdo con las atribuciones, políticas públicas e institucionales del Sistema DIF León;
 
@@ -389,19 +413,31 @@ V.- Acordar con la Dirección General la resolución de los asuntos extraordinar
 
 VI.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 26.
 
 Corresponde a la Dirección Administrativa:
 
-l.- Establecer políticas para el uso y control de recursos financieros y materiales;
+I.- Establecer políticas para el uso y control de recursos financieros y materiales;
 
 II.- Optimizar y distribuir adecuadamente los recursos por medio de un control presupuestal;
 
 III.- Mantener actualizado el inventario de bienes muebles e inmuebles y realizar la conservación y mantenimiento de los mismos;
 
-IV.- Facilitar al Consejo, al Presidente o al Órgano de Vigilancia, cuando lo soliciten, la información de fondos y documentos que se relacionen con la Tesorería; y,
+IV.- Facilitar al Consejo, al Presidente o al Órgano de Vigilancia, cuando lo soliciten, la información de fondos y documentos que se relacionen con la Tesorería;
 
-V.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
+V.- Proveer al Sistema DIF León del capital humano calificado y definir los perfiles de puestos acorde a las necesidades de cada área, requerimientos de los programas y disponibilidad presupuestal, atendiendo los lineamientos y políticas fijadas por el Ayuntamiento;
+
+VI.- Fomentar, coordinar y promover, la creación de programas de calidad, simplificación administrativa y de mejora continua en los servicios que ofrece el Sistema DIF León, ello acorde con las políticas institucionales determinadas por el Ayuntamiento;
+
+VII.- Impulsar la capacitación y el desarrollo humano del personal del Sistema DIF León con base en una filosofía de Calidad Total;
+
+VIII.- Fomentar y procurar el equilibrio en las relaciones laborales y sindicales, que permitan generar un ambiente propicio de trabajo que estimule la productividad;
+
+IX.- Optimizar el desempeño de las funciones del personal del Sistema DIF León, a través del diseño e implementación de mejoras en los procesos y las estrategias para la prestación de los servicios a los sujetos de asistencia social; y,
+
+X.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
 
 ###### ARTÍCULO 27.
 
@@ -431,15 +467,23 @@ V.- Promover acciones y modelos de atención para procurar la conciliación de l
 
 VI.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 29.
 
-Corresponde a la Dirección de Atención a la Infancia:
+Corresponde a la Dirección de Orientación Familiar y Atención a la Infancia:
 
-l.- Desarrollar modelos y promover las acciones necesarias para la atención integral de los menores de edad en situación de riesgo o que vivan en la calle, así como a sus familias;
+I.- Brindar asesoría para las posibles soluciones de la problemática que atenta la funcionalidad y el desarrollo saludable de la familia;
 
-II.- Gestionar y otorgar apoyos especiales a los menores de edad vulnerables, procurando su permanencia en los modelos integrales de atención para lograr su debida inserción en la sociedad; y,
+II.- Promover el desarrollo armónico de los integrantes de la familia, mediante programas que faciliten la comunicación efectiva, basada en una relación de respeto y convivencia mutua;
 
-III.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
+III.- Aplicar los programas de prevención de conductas de riesgo, a efecto de coadyuvar con las autoridades correspondientes, en el fomento de una cultura de respeto a la ley;
+
+IV.- Desarrollar modelos y promover las acciones necesarias para la atención integral de los menores de edad en situación de riesgo o que vivan en la calle, así como a sus familias;
+
+V.- Gestionar y otorgar apoyos especiales a los menores de edad vulnerables, procurando su permanencia en los modelos integrales de atención para lograr su debida inserción en la sociedad; y,
+
+VI.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
 
 ###### ARTÍCULO 30.
 
@@ -461,7 +505,9 @@ I.- Coordinar la prestación de los servicios en base a los programas operativos
 
 II.- Gestionar y aplicar los recursos financieros, materiales y humanos, para el optimo funcionamiento de los Centros de Desarrollo Familiar DIF;
 
-III.- Coordinar la impartición de capacitaciones de manualidades, oficios y recreación de impacto a la comunidad; y,
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2009)</small>
+
+III.- Coordinar la impartición de capacitaciones y procesos socioeducativos de impacto a la comunidad; y,
 
 IV.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
 
@@ -483,31 +529,11 @@ VI.- Las demás que se deriven del presente Reglamento, así como las que le asi
 
 ###### ARTÍCULO 33.
 
-Corresponde a la Dirección de Desarrollo Institucional:
-
-l.- Proveer al Sistema DIF León del capital humano calificado y definir los perfiles de puestos acorde a las necesidades de cada área, requerimientos de los programas y disponibilidad presupuestal, atendiendo los lineamientos y políticas fijadas por el Ayuntamiento;
-
-II.- Fomentar, coordinar y promover, la creación de programas de calidad, simplificación administrativa y de mejora continua en los servicios que ofrece el Sistema DIF León, ello acorde con las políticas institucionales determinadas por el Ayuntamiento;
-
-III.- Impulsar la capacitación y el desarrollo humano del personal del Sistema DIF León con base en una filosofía de Calidad Total;
-
-IV.- Fomentar y procurar el equilibrio en las relaciones laborales y sindicales, que permitan generar un ambiente propicio de trabajo que estimule la productividad;
-
-V.- Optimizar el desempeño de las funciones del personal del Sistema DIF León, a través del diseño e implementación de mejoras en los procesos y las estrategias para la prestación de los servicios a los sujetos de asistencia social; y,
-
-VI.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2009)
 
 ###### ARTÍCULO 34.
 
-Corresponde a la Dirección de Orientación Familiar:
-
-l.- Brindar asesoría para las posibles soluciones de la problemática que atenta la funcionalidad y el desarrollo saludable de la familia;
-
-II.- Promover el desarrollo armónico de los integrantes de la familia, mediante programas que faciliten la comunicación efectiva, basada en una relación de respeto y convivencia mutua;
-
-III.- Aplicar los programas de prevención de conductas de riesgo, a efecto de coadyuvar con las autoridades correspondientes, en el fomento de una cultura de respeto a la ley; y,
-
-IV.- Las demás que se deriven del presente Reglamento, así como las que le asigne el Consejo.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2009)
 
 ###### ARTÍCULO 35.
 
@@ -596,3 +622,21 @@ PRESIDENTE MUNICIPAL
 FELIPE DE JESÚS LÓPEZ GÓMEZ
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Las presentes reformas y derogaciones entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las atribuciones, derechos y obligaciones de la Dirección de Desarrollo Institucional que se encontraban vigentes, antes de la entrada en vigor de las presentes modificaciones, se subrogan en la Dirección Administrativa en los términos de este Reglamento.
+
+Cualquier referencia a la Dirección de Desarrollo Institucional, que se realice en reglamentos, acuerdos, disposiciones de observancia general o cualquier otro acto jurídico y administrativo emitido por el Sistema para el Desarrollo Integral de la Familia DIF León o por alguna de sus Unidades Administrativas, se entenderá realizada a la Dirección Administrativa.
+
+TERCERO.- Las atribuciones, derechos y obligaciones de la Dirección de Atención a la Infancia y la Dirección de Orientación Familiar que se encontraban vigentes antes de la entrada en vigor de las presentes modificaciones, se subrogan en la Dirección de Orientación Familiar y Atención a la Infancia en los términos de este Reglamento.
+
+Cualquier referencia a la Dirección de Atención a la Infancia y la Dirección de Orientación Familiar, que se realice en reglamentos, acuerdos, disposiciones de observancia general o cualquier otro acto jurídico y administrativo emitido por el Sistema para el Desarrollo Integral de la Familia DIF León o por alguna de sus Unidades Administrativas, se entenderá realizada a la Dirección de Orientación Familiar y Atención a la Infancia.
+
+CUARTO.- Los representantes del H. Ayuntamiento que con el carácter de vocales formarán parte del Consejo Directivo del DIF- León, serán designados por esta única ocasión en la sesión inmediata siguiente a la entrada en vigor de las presentes modificaciones.
+
+QUINTO.- Se derogan todas aquellas disposiciones normativas que se opongan a las presentes modificaciones.
