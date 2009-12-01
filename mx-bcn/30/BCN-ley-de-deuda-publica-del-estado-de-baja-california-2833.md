@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-deuda-publica-del-estado-de-baja-california-2833"
 country: "mx"
 rank: "ley"
 publication_date: "1988-02-10"
-last_updated: "2009-10-30"
+last_updated: "2009-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DEUDA PUBLICA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 10 de febrero de 1988.
 
@@ -506,3 +508,25 @@ SEGUNDO.- Las obligaciones adquiridas, los contratos celebrados y las garantías
 P.O. 30 DE OCTUBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Deuda Pública del Estado de Baja California, publicada en el Periódico Oficial del Estado No. 4, de fecha 10 de febrero de 1988.
+
+###### ARTÍCULO TERCERO.
+
+En todas las disposiciones legales en las que se haga mención a la Ley de Deuda Pública del Estado de Baja California, se entenderán referidas a la Ley de Deuda Pública del Estado de Baja California y sus Municipios.
+
+###### ARTÍCULO CUARTO.
+
+las operaciones de Deuda Pública autorizadas antes de la fecha de entrada en vigor de la presente Ley, serán reguladas por las disposiciones vigentes en el momento de su autorización.
+
+###### ARTÍCULO QUINTO.
+
+las operaciones de Deuda Pública que se encuentren en proceso de autorización en las instancias del Congreso del Estado en la fecha de entrada en vigor de la presente Ley, continuarán con ese proceso en los términos de las disposiciones vigentes anteriores a la presente Ley, salvo manifestación expresa del sujeto interesado de retirar la solicitud de autorización de que se trate, y así poder someterse a las nuevas disposiciones, en cuyo caso, deberá cumplir con todos los requisitos establecidos en la presente Ley.
