@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-406
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-08-13"
-last_updated: "2009-09-04"
+last_updated: "2009-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de agosto del 2004.
 
@@ -239,13 +239,11 @@ El Secretario General informará por escrito al Presidente del Órgano Legislati
 
 Los diputados en funciones tendrán el derecho a percibir la dieta que se determine en la Ley del Presupuesto General de Egresos del Estado de Guanajuato, misma que establecerá los recursos necesarios para cumplir con sus obligaciones.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2009)</small>
 
-Asimismo, los diputados tendrán derecho a que se les sufraguen los gastos médicos por enfermedad de ellos mismos, de su cónyuge, concubina o concubinario, los hijos o ascendientes que dependan económicamente de los diputados, conforme a las previsiones que se contengan en la Ley del Presupuesto General de Egresos del Estado de Guanajuato y de acuerdo a las disposiciones que emita la Comisión de Administración.
+Asimismo, los diputados, conforme a las previsiones que se contengan en la Ley del Presupuesto General de Egresos del Estado de Guanajuato y de acuerdo a las disposiciones que emita la Comisión de Administración, tendrán derecho a que se les sufraguen los gastos médicos por enfermedad de ellos mismos, de su cónyuge, concubina o concubinario y de sus hijos dependientes económicamente.
 
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
-
-De forma excepcional, atendiendo a circunstancias médicas especificas y previo acuerdo de la Junta de Gobierno y Coordinación Política, se sufragarán los gastos médicos, exclusivamente de los diputados, aun y cuando hubiesen concluido el periodo para el cual fueron electos.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 1 DE DICIEMBRE DE 2009)</small>
 
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2884,3 +2882,7 @@ P.O. 4 DE SEPTIEMBRE DE 2009.
 Artículo Primero. El presente decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Se abroga el acuerdo del Pleno del Congreso del Estado, relativo a las Disposiciones para acreditar las asistencias de las Diputadas y Diputados de la Sexagésima Legislatura del Congreso del Estado, aprobadas por el Pleno en sesión del 19 de octubre de 2006.
+
+P.O. 1 DE DICIEMBRE DE 2009.
+
+Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
