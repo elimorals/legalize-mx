@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-comision-de-honor-y-justicia-de-los-54986"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-16"
-last_updated: "2008-04-16"
+last_updated: "2009-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PUBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEON --ANTES REGLAMENTO DE LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD CIUDADANA Y TRANSITO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON --
 
-REGLAMENTO DE LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD CIUDADANA Y TRANSITO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
+REGLAMENTO DE LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PUBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de marzo de 2007.
 
@@ -33,7 +33,9 @@ ACUERDO 2
 
 Con fundamento en los Artículos 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 130 de la Constitución Política del Estado Libre y Soberano de Nuevo León, 26 inciso a) fracción VII, 164 y 168 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, 52 fracción III inciso f) y g) del Reglamento Interior del Republicano Ayuntamiento de Guadalupe Nuevo León, se aprueba y se expide el:
 
-REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD CIUDADANA Y TRÁNSITO DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN.
 
 ÍNDICE
 
@@ -57,23 +59,33 @@ REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD CIUDA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 1.
 
-Este Reglamento es de orden público y de interés general, y tiene por objeto regular las atribuciones, estructura, organización y funcionamiento de la Comisión de Honor y Justicia de los Cuerpos de Seguridad Ciudadana y Tránsito del Municipio de Guadalupe, Nuevo León, en relación con la aplicación en el Municipio de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+Este Reglamento es de orden público y de interés general, y tiene por objeto regular las atribuciones, estructura, organización y funcionamiento de la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública y Tránsito del Municipio de Guadalupe, Nuevo León, en relación con la aplicación en el Municipio de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
 ###### ARTÍCULO 2.
 
 Para los efectos de este Reglamento, se entiende por:
 
-Secretaría: la Secretaría de Seguridad Ciudadana y Tránsito del Municipio de Guadalupe, Nuevo León.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+Secretaría: la Secretaría de Seguridad Publica del Municipio de Guadalupe, Nuevo León.
 
 Ley: la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-Comisión: la Comisión de Honor y Justicia de los Cuerpos de Seguridad Ciudadana y Tránsito del Municipio de Guadalupe, Nuevo León.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+Comisión: la Comisión de Honor y Justicia de los Cuerpos de Seguridad Publica del Municipio de Guadalupe, Nuevo León.
 
 Elementos: los Servidores Públicos Municipales que integran los cuerpos de Seguridad y Tránsito, sin distinción de cargos o mandos.
 
 Contraloría: la Secretaría de Contraloría y Desarrollo Administrativo del Municipio de Guadalupe, Nuevo León.
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+Procuraduría: Procuraduría (sic) Defensa del Ciudadano del Municipio de Guadalupe Nuevo León.
 
 ###### ARTÍCULO 3.
 
@@ -91,15 +103,19 @@ Los integrantes de la Comisión durarán en su cargo el periodo constitucional d
 
 Corresponde a la Comisión la aplicación de las disposiciones previstas en la Ley y el presente Reglamento, para el caso de sanciones a los elementos de la Secretaría que incurran en responsabilidad administrativa.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 6.
 
-La Comisión se integra con un Presidente, un Secretario que lo será el representante de la Contraloría, y seis vocales, designándose para cada uno de ellos su respectivo suplente. Corresponde al Secretario convocar a las sesiones de la Comisión por escrito y con por lo menos veinticuatro horas de anticipación, señalando lugar, fecha y hora para su celebración.
+La Comisión se integra con un Presidente, un Secretario que lo será el representante de la Contraloría, un Secretario Técnico que lo será el representante de la Procuraduría y seis vocales, designándose para cada uno de ellos su respectivo suplente. Corresponde al Secretario convocar a las sesiones de la Comisión por escrito y con por lo menos veinticuatro horas de anticipación, señalando lugar, fecha y hora para su celebración.
 
 ###### ARTÍCULO 7.
 
 El cargo de Presidente recaerá en un ciudadano distinguido de la comunidad guadalupense, preferentemente de profesión abogado.
 
-El representante de la Contraloría deberá ser abogado y desempeñará el cargo de Secretario de la Comisión, teniendo sólo derecho de voz y no de voto.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+El representante de la Contraloría y el de la Procuraduría deberán de ser abogados, el primero desempeñará el cargo de Secretario de la Comisión, el segundo el de Secretario Técnico, teniendo ambos sólo derecho de voz y no de voto.
 
 Las vocalías se integrarán de la siguiente manera:
 
@@ -111,9 +127,13 @@ III. El Regidor Presidente de la Comisión de Policía del R. Ayuntamiento;
 
 IV. El Regidor Presidente de la Comisión de Derechos Humanos del R. Ayuntamiento;
 
-V. El Regidor Presidente de la Comisión de Nomenclatura y Vías Públicas del R. Ayuntamiento; y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
-VI. Un ex-elemento de los Cuerpos de Seguridad y Tránsito jubilado, de reconocida trayectoria y calidad moral.
+V. V. (sic) El Regidor Presidente de la Comisión de Nomenclatura y Vías Públicas del R. Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+VI. Un ex-elemento de los Cuerpos de Seguridad Pública jubilado, de reconocida trayectoria y calidad moral.
 
 ###### ARTÍCULO 8.
 
@@ -151,9 +171,11 @@ IV. Por causa grave a juicio del R. Ayuntamiento.
 
 Los efectos de los nombramientos de los Regidores en la Comisión, correrán la misma suerte que sus correspondientes designaciones como Presidentes de las Comisiones de Policía, Derechos Humanos y Nomenclatura y Vías Públicas del R. Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 12.
 
-La Comisión se auxiliará para el ejercicio de sus atribuciones en la Contraloría o en la entidad responsable de sancionar las infracciones de carácter administrativo de los servidores públicos en el Gobierno Municipal de Guadalupe, Nuevo León.
+La Comisión se auxiliará para el ejercicio de sus atribuciones en la Procuraduría y la Contraloría o en la entidad responsable de sancionar las infracciones de carácter administrativo de los servidores públicos en el Gobierno Municipal de Guadalupe, Nuevo León.
 
 ### CAPITULO TERCERO. DE LAS FACULTADES Y FUNCIONAMIENTO DE LA COMISIÓN
 
@@ -165,7 +187,9 @@ I. Conocer y resolver sobre las quejas y denuncias que presenten los ciudadanos 
 
 II. Tramitar con apego a la Ley, los procedimientos de Responsabilidad Administrativa derivados de las quejas y denuncias que presenten los ciudadanos en contra de los elementos.
 
-III. Establecer coordinadamente con la Contraloría módulos de recepción y atención de quejas y denuncias por conductas indebidas de elementos.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+III. Establecer coordinadamente con la Contraloría y la Procuraduría módulos de recepción y atención de quejas y denuncias por conductas indebidas de elementos.
 
 IV. Resolver los recursos de inconformidad que interpongan los ciudadanos contra las determinaciones de la propia Comisión.
 
@@ -181,11 +205,11 @@ IX. Emitir opinión para el otorgamiento de reconocimientos o condecoraciones p�
 
 X. Informar al Presidente Municipal, a más tardar treinta días antes de su informe anual de gobierno, sobre las actividades y resultados obtenidos por los trabajos de la Comisión.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 14.
 
-La Comisión funcionará en pleno, en sesiones que se celebrarán dos veces al mes y a las que deberán asistir cuando menos la mitad mas uno de sus integrantes.
+La Comisión funcionará en pleno, en sesiones que se celebrarán mínimo dos veces al mes, o las que fueran necesarias para la resolución de los asuntos de su competencia, a las que deberán asistir cuando menos la mayoría de sus integrantes.
 
 ###### ARTÍCULO 15.
 
@@ -213,9 +237,11 @@ Los integrantes de la Comisión con derecho a voto tendrán la obligación de ex
 
 El procedimiento administrativo de responsabilidad se substanciará conforme a lo previsto en la Ley, y a las reglas de carácter general establecidas por este Reglamento.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 21.
 
-Las quejas y denuncias que presenten los ciudadanos en contra de los elementos, se recibirán en el Módulo que para tal efecto establezca la Contraloría.
+Las quejas y denuncias que presenten los ciudadanos en contra de los elementos, se recibirán en el Módulo que para tal efecto establezca la Contraloría y la Procuraduría.
 
 ###### ARTÍCULO 22.
 
@@ -344,3 +370,9 @@ Guadalupe, Nuevo León, a los a los 14-catorce días del mes de marzo de 2007-do
 P.O. 16 DE ABRIL DE 2008.
 
 ÚNICO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2009.
+
+Primero.- Las presentes reformas y adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- A la integración de la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública y Transito ahora Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública correspondiente al periodo constitucional de la Administración Municipal 2009-2012, acordada por el Republicano Ayuntamiento en la Sexta Sesión Extraordinaria, consignada en el Acta No. 7-siete-, deberá de incorporarse la figura jurídica de Secretario Técnico, cargo que ocupara un representante de profesión abogado de la Procuraduría; en tal virtud deberá de procederse a su designación en posterior Sesión del Ayuntamiento y a su consecuente incorporación a la Comisión en comento.
