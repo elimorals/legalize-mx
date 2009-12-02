@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-del-registro-publico-de-la-propiedad-48259
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-02"
-last_updated: "2009-02-28"
+last_updated: "2009-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,7 +21,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 2 de agosto de 2001.
 
@@ -49,19 +49,23 @@ UNICO.- Se expide el Reglamento de la Ley del Registro Público de la Propiedad 
 
 El presente Reglamento es de orden público e interés social y tiene por objeto regular las actividades y funciones registrales previstas en la Ley del Registro Público de la Propiedad del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 2.
 
-Para los efectos de este Reglamento, se entiende por:
+Para los efectos del presente Reglamento, además de los conceptos establecidos en la Ley del Registro Público de la Propiedad del Estado de Jalisco, se entenderá por:
 
-I.- Ley.- La Ley del Registro Público de la Propiedad del Estado de Jalisco;
+I. Boleta Registral: documento autorizado con la firma del funcionario con fe pública registral en la que se hace constar el registro de un acto con plena validez jurídica;
 
-II.- Firma Electrónica.- Los datos en forma electrónica que pueden ser usados para identificar al signatario del documento e indicar que el signatario aprueba la información contenida en éste;
+II. Calificación Registral: es la comprobación de los requisitos que deben reunir los documentos o mensajes de datos presentados ante la Institución para su registro, previo a llevar a cabo su incorporación o inscripción, en su caso;
 
-III.- Certificado Digital.- Documento electrónico mediante el cual la autoridad certificadora otorga atributos a los analistas para la calificación de los actos registrales en el sistema;
+III. Forma Precodificada: documento en el que se plasman los datos complementarios necesarios para la calificación de un acto susceptible de registro y, en su caso, su inscripción electrónica;
 
-IV.- Autoridad Certificadora.- Es la autoridad administrativa encargada de expedir los certificados digitales, depositada para los efectos del sistema en la persona del Director General del Registro Público de la Propiedad; y
+IV. Permiso Electrónico: documento electrónico por medio del cual se autoriza a los notarios públicos el acceso al Sistema de Información de la Institución;
 
-V.- Forma Precodificada.- Documento que contiene los datos esenciales sobre un acto registrable, necesarios para su calificación y en su caso inscripción electrónica.
+V. Prelación: es el número de control que el Sistema de Información asigna de manera progresiva a las solicitudes de registro de actos jurídicos, que por riguroso orden de presentación debe corresponderles, a efecto de determinar la prelación entre derechos sobre dos o más actos que se refieren a un mismo antecedente registral; y
+
+VI. Reglamento: el presente Reglamento de la Ley del Registro Público de la Propiedad del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2009)</small>
 
@@ -99,9 +103,19 @@ XIV. Con sede en Tepatitlán de Morelos: que comprende los municipios de Tepatit
 
 XV. Con sede en Tequila: que comprende los municipios de Tequila, Amatitán, El Arenal, Hostotipaquillo y Magdalena.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 4.
 
-En el Registro Público de la Propiedad se usará un sello de autorizar con la mención de la Oficina Registral que corresponda; con este sello y la firma del titular, se autorizarán todos los actos del Registro.
+En la Institución se usará un sello de autorizar con la mención de la oficina registral que corresponda, mismo que en conjunción con la firma autógrafa del titular de ésta, servirá para autorizar los actos de la propia Institución.
+
+Lo anterior con excepción de los trámites generados en el Sistema de Información, hipótesis en la cual bastará que el acto sea autorizado con la firma electrónica del funcionario con fe pública registral que corresponda.
+
+El Director General tendrá firma electrónica certificada y designará, mediante acuerdo, a los funcionarios públicos de la Institución en los que delegará la fe pública registral para efectos del Sistema de Información mediante la utilización de su firma electrónica certificada.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+Artículo 4 bis.- Todo proceso de inscripción o certificación validado mediante firma electrónica certificada, deberá sujetarse a lo dispuesto en la Ley de Firma Electrónica Certificada del Estado de Jalisco, la Ley y sus respectivos reglamentos.
 
 ## TITULO SEGUNDO. Organización y Funcionamiento del Registro Público de la Propiedad
 
@@ -209,7 +223,9 @@ IV.- Las demás que le encomiendan las leyes y el presente reglamento.
 
 Son Obligaciones y Facultades del Director de Certificaciones las siguientes:
 
-I.- Autorizar con su firma autógrafa o cualquier otro medio previsto por la Ley, los registros ó anotaciones que se practiquen, las certificaciones y cancelaciones establecidas en la Ley;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+I.- Autorizar con su firma o cualquier otro medio previsto en la legislación aplicable, los registros o anotaciones que se practiquen, así como las certificaciones y cancelaciones establecidas en la Ley;
 
 II.- Registrar los documentos por el orden de su prelación;
 
@@ -273,11 +289,11 @@ III.- No haber sido condenado por delitos dolosos.
 
 ### CAPITULO UNICO. De los servicios que presta el Registro Público de la Propiedad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 15.
 
-Las oficinas permanecerán abiertas para el desempeño de las labores registrales, por parte del personal adscrito a las oficinas del Registro Público de la Propiedad, los días hábiles que lo sean para el Gobierno del Estado, con un horario de las 8:00 a las 16:00 horas, el cual podrá ser ampliado mediante acuerdo del Director General cuando las actividades del trabajo así los (sic) ameriten. Para la prestación del servicio al usuario, los servicios señalados en la Ley serán en un horario de 9:00 a 15: horas, bajo los siguientes lineamientos:
+Las oficinas permanecerán abiertas para el ingreso de trámites los días hábiles que lo sean para el Gobierno del Estado, con un horario de las 9:00 a las 15:00 horas, a excepción de los casos señalados en este reglamento, y prestará los servicios señalados en la Ley, bajo las siguientes normas:
 
 I.- Previa identificación y llenado de solicitud que contenga los datos de registro, los usuarios, podrán consultar libros, documentos y folios registrales, en las áreas especificas de consulta que para tal efecto señale el responsable de la oficina correspondiente dentro del horario comprendido de las 9:00 a las 13:00 horas;
 
@@ -285,57 +301,97 @@ II.- Proporcionar los datos de antecedentes registrales que en forma escrita sol
 
 III.- Orientar gratuitamente en los servicios que se presten.
 
-## TITULO QUINTO. De las Normas Técnicas e Informáticas del Sistema Registral y del Procedimiento mediante Inscripción Electrónica
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+Asimismo, el ingreso de trámites mediante el Sistema de Información quedará sujeto a los mismos días y horas hábiles señaladas en el párrafo primero de este artículo, con excepción de las solicitudes de certificados de libertad o gravamen, mismas que podrán ser formuladas en cualquier momento, pero serán turnadas el día hábil siguiente al de su presentación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+Una vez generado el mensaje de datos que contenga la respuesta otorgada al trámite de que se trate, el mismo será enviado al correo electrónico que deberá designar el solicitante al momento de su solicitud a través del Sistema de Información.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+## TITULO QUINTO. Del Sistema de Información y de la Inscripción Electrónica
 
 ### CAPITULO I. Las Normas Técnicas e Informáticas
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 16.
 
-El Sistema Registral del Estado de Jalisco, es la herramienta técnica a la que se sujetará la operación automatizada de los procesos en todas las oficinas del Registro Público del Estado de Jalisco.
+Para efectos del procedimiento de inscripción electrónica, el Sistema de Información de la Institución deberá contar con formas precodificadas por medio de las cuales se plasmarán los datos esenciales necesarios para la calificación de un acto susceptible de registro.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 17.
 
-En los casos fortuitos o de necesidad, que sean motivo de suspensión temporal del servicio del sistema principal de cómputo, podrán recibirse y continuar el trámite de registro de manera manual, debiéndose capturar en el sistema la información recibida una vez resuelta la contingencia.
+En los casos fortuitos o de necesidad, que sean motivo de suspensión temporal del servicio de inscripción electrónica, podrán recibirse y continuar el trámite de registro de manera manual, debiéndose capturar en dicho sistema la información recibida una vez resuelta la contingencia.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 18.
 
-La información contenida en la base de datos deberá ser respaldada en medios magnéticos, tanto en cintas como en discos compactos, los cuales serán almacenados en la caja fuerte de la Dirección o en la bóveda que la Secretaría General de Gobierno al efecto determine.
+La información contenida en la Base de Datos y el Sistema de Información deberá ser respaldada en medios magnéticos de conformidad con los lineamientos técnicos aplicables, los cuales serán almacenados en la caja fuerte de la Dirección General o en la bóveda que la Secretaría General de Gobierno al efecto determine.
 
 ### CAPITULO II. Del Procedimiento Registral
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 19.
 
-El procedimiento registral se sujetará a las siguientes disposiciones:
+El procedimiento registral se llevará a cabo conforme de lo siguiente:
 
-I.- El documento autentificado en el que se haga constar un acto susceptible de ser registrado, será presentado ante la oficina del Registro Público de la Propiedad correspondiente; y
+I. Cuando la recepción sea física:
 
-II.- Pagados los derechos correspondientes, será turnada la documentación, asignándosele el número de control interno de manera progresiva e invariable, que por riguroso orden de presentación debe corresponderle, anotándose la fecha y hora de recepción que servirá para determinar el orden de prelación del documento, entregándose una boleta con el sello oficial y rúbrica del recepcionista, la que servirá de comprobante al interesado.
+a) Previo pago de los derechos correspondientes, se presentará el trámite en la ventanilla de recepción de la oficina de la Institución que corresponda, acompañada del documento en el que conste el acto a inscribir y demás requisitos establecidos en la Ley y el Reglamento;
+
+b) Una vez recibido dicho trámite por la Institución, se generará una boleta de ingreso en la que constará el número de prelación, incluyendo la fecha y la hora de dicha recepción; y
+
+c) En caso de ser procedente, se llevará a cabo su incorporación en los términos de la Ley y el Reglamento.
+
+II. Cuando la recepción sea de forma electrónica:
+
+a) Previo pago de los derechos correspondientes vía electrónica, será enviado el mensaje de datos al Sistema de Información y, en su caso, acompañado por el documento en el que conste el acto a inscribir;
+
+b) Una vez efectuada la recepción en el Sistema de Información, éste generará el número de prelación, incluyendo la fecha y hora de la misma; y
+
+c) En caso de ser procedente, se llevará a cabo a su inscripción electrónica en los términos de la Ley y el Reglamento.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 20.
 
-El procedimiento descrito en el artículo anterior aplica tanto a las inscripciones a través de folios registrales procesados de manera electrónica como para los registros de incorporación descritos en las secciones a que se refiere el título tercero capítulo primero de la Ley.
+En caso de que un mensaje de datos sea enviado electrónicamente por un notario público al Sistema de Información, se presume que dicho fedatario tiene bajo su resguardo el instrumento correspondiente y la documentación que acredita el cumplimiento de los requisitos que establezca la normatividad aplicable, mismos que deberá adjuntar a dicho mensaje de datos.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 21.
 
-Tratándose de los registros por incorporación a que se refiere el artículo que antecede, se practicará asentando constancia por escrito al calce o en las hojas que fija este reglamento, las que deben agregarse para formar parte del documento.
+Tratándose de los registros por incorporación a que se refiere el artículo 19 de este Reglamento, se practicará asentando constancia por escrito al calce o en las hojas que fija este reglamento, las que deben agregarse para formar parte del documento.
 
-La incorporación se asentará en los siguientes términos: “El presente documento queda incorporado a las... horas, del día... del mes de... del año de... bajo documento número... Folios del número... al... del libro... de la sección... o en su caso el folio registral...”
+La incorporación se asentará en los siguientes términos: “El presente documento queda incorporado a las ..... horas, del día ...... del mes de ........ del año de ...... bajo documento número ...... folios del número ........ al ........ del libro ....... de la sección ....... o en su caso el folio registral.....”
 
 Las anotaciones subsecuentes se asentarán en el documento incorporado, dejando entre una y otra tan sólo el espacio necesario para la firma de autorizar del registrador.
 
 Al registrarse un título en el que se transmitan varios inmuebles, se agregarán para formar parte del documento, tantas hojas en blanco como de fincas se trate, destinando cada hoja a cada uno de los inmuebles que procedan. Registrado un documento se practicarán las anotaciones necesarias en los registros con los que esté relacionado.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 22.
 
-Tratándose de los registros que se realicen mediante folio registral, se practicarán de la siguiente manera:
+El responsable del área de recepción trasladará el documento junto con la boleta de ingreso al analista que por turno le corresponda para examinar el documento que se haya presentado para su calificación registral.
 
-El responsable del área trasladará el documento, así como la boleta, al analista que por turno le corresponda, mismo que analizará el documento que se haya presentado para posteriormente ingresar la información a la forma precodificada.
+En caso de proceder el registro, se llevará a cabo su incorporación, o según sea el caso, se validará y aceptará firmando el acto electrónicamente, anexándose la boleta de registro al documento, la cual contendrá los datos con los que quedó hecho el registro y deberá ser firmada por el funcionario facultado para emitirla, adquiriendo así plena validez jurídica.
 
-En caso de proceder el registro, se validará y aceptará firmando el acto electrónicamente, se anexará la boleta de registro al documento, la cual contendrá los datos con los que quedó hecha la inscripción electrónica, la boleta dará constancia del registro y deberá ser firmada de manera autógrafa por el funcionario facultado para emitirla, adquiriendo así plena validez jurídica.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 23.
 
-Los documentos a que se refiere la Ley, para su registro deberán de presentarse por duplicado, y cuando en un mismo documento se contengan varios actos registrables en distintas secciones u oficinas, el interesado presentará en cada oficina o para cada sección tantos ejemplares como actos registrales sean necesarios, además de los documentos que establezca este reglamento.
+Los documentos a que se refiere la Ley, en el caso de que se tramite su registro físicamente, deberán de presentarse por duplicado, y cuando en un mismo documento se contengan varios actos registrables en distintas secciones u oficinas, el interesado presentará en cada oficina o para cada sección tantos ejemplares como actos registrales sean necesarios, además de los documentos que establezca este Reglamento. En la hipótesis de trámites realizados a través del Sistema de Información, se estará a lo establecido en éste.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+Artículo 23 bis.- En todos los casos, el trámite se seguirá conforme a la información otorgada por el solicitante bajo su responsabilidad, por lo que si la misma es errónea o no se satisfacen los requisitos correspondientes, la Institución lo denegará y deberá proceder conforme a la Ley y el Reglamento.
 
 ### CAPITULO III. De la Calificación Registral
 
@@ -345,9 +401,17 @@ Sólo serán registrables:
 
 I.- Los testimonios de escritura pública u otros documentos auténticos que las leyes exijan su registro;
 
-II.- Las sentencias, embargos y providencias judiciales certificadas legalmente; y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que un notario público o autoridad judicial competente, se cercioró de la autenticidad de las firmas y de la voluntad de las partes.
+II. Las sentencias, embargos y providencias judiciales certificadas legalmente;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+III. Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que un notario público o autoridad judicial competente, se cercioró de la autenticidad de las firmas y de la voluntad de las partes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE DICIEMBRE DE 2009)</small>
+
+IV. El mensaje de datos que cumpla con los requisitos establecidos en la Ley de Firma Electrónica Certificada del Estado de Jalisco, la Ley y su respectivo Reglamento.
 
 ###### Artículo 25.
 
@@ -389,9 +453,11 @@ Para los efectos del artículo 63 fracción II de la Ley, la escritura de hipote
 
 ### CAPITULO IV. Del Registro de Documentos que se refieran a Acciones Urbanísticas
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 32.
 
-Para los efectos del artículo 38 fracción XXVIII de la Ley, a toda solicitud de registro de subdivisión de inmuebles en lotes o fracciones, que se haya realizado conforme a la Ley de Desarrollo Urbano, deberá formularse por escrito y con la firma del solicitante ratificada ante Notario Público, en el cual se debe mencionar el antecedente registral inmediato del predio de donde se desprenda la subdivisión o lotificación y deberá acompañar la siguiente documentación:
+Para los efectos del artículo 38 fracción XXVIII de la Ley, a toda solicitud de registro de subdivisión de inmuebles en lotes o fracciones, que se haya realizado conforme a la legislación aplicable en materia de desarrollo urbano, deberá formularse por escrito y con la firma del solicitante ratificada ante notario público, en el cual se debe mencionar el antecedente registral inmediato del predio de donde se desprenda la subdivisión o lotificación y deberá acompañar la siguiente documentación:
 
 I.- Licencia expedida por la dependencia municipal para ejecutar las obras de urbanización;
 
@@ -455,17 +521,23 @@ IV.- Certificado catastral en el que conste la consolidación de la propiedad a 
 
 ### CAPITULO V. De las Certificaciones
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 37.
 
-Las certificaciones que se soliciten para hacer constar la existencia de las inscripciones o constancias asentadas en los libros y archivos existentes en el Registro Público, sólo se expedirán conforme a la solicitud presentada, dentro de los diez días hábiles siguientes a la fecha de su solicitud.
+Las certificaciones que se soliciten para hacer constar la existencia de las inscripciones o constancias asentadas en los libros y archivos del Registro Público, sólo se expedirán conforme a la solicitud presentada, dentro de los cinco días hábiles siguientes a la fecha de dicha solicitud, previo pago de los derechos correspondientes.
+
+Las copias simples que sean solicitadas deberán expedirse dentro de igual término, salvo en el caso de trámites urgentes, caso en el cual las copias, bien sean simples o certificadas, serán expedidas dentro de las 24 horas siguientes.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 38.
 
-Los certificados de libertad o gravamen que se presenten a la Oficina que los emitió, dentro de los 60 días naturales siguientes a su expedición, podrán ser validados previo el pago del derecho correspondiente a un certificado.
+Los certificados de libertad o gravamen que expida la Institución contendrán las anotaciones que, en su caso, se encuentran inscritas en el folio registral hasta la fecha y hora de su expedición.
 
 ###### Artículo 39.
 
-La validación a que se refiere el artículo anterior, se hará con la inserción en el certificado correspondiente de la siguiente leyenda: “Registro Público de la Propiedad”, fecha en que se realiza la validación, “Certificado validado”, firma del registrador y sello de la oficina.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2009)
 
 ###### Artículo 40.
 
@@ -483,9 +555,17 @@ V.- El pago de derechos correspondientes, tanto de la búsqueda como del certifi
 
 Los originales podrán devolverse al interesado previo cotejo de las copias, mismas que quedarán agregadas al libro de documentos correspondientes.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 41.
 
-Tratándose de copias certificadas de los documentos que obren en el registro, estos se expedirán conforme a la solicitud presentada.
+Tratándose de copias certificadas de los documentos que obren en la Institución, éstos se expedirán conforme a la solicitud presentada, debiendo, para tal efecto, proporcionar los datos de registro. En el caso de que dicha solicitud se refiera a folios registrales, adicionalmente se deberá especificar si se requiere la impresión del folio registral procesado de manera electrónica o de los documentos contenidos en dicho folio.
+
+Las copias simples o certificadas expedidas por la Institución deberán versar sobre la totalidad del documento, inscripción o folio registral de que se trate.
+
+Las copias certificadas deberán contar con el sello oficial, su cotejo y la respectiva certificación, en tanto que las copias simples deberán contar con un sello o marca de agua en el que se exprese su naturaleza.
+
+No podrán certificarse copias de los folios, documentos o inscripciones que se encuentren mutilados o incompletos en alguna de sus hojas o páginas.
 
 ###### Artículo 42.
 
@@ -790,3 +870,11 @@ P.O. 19 DE ENERO DE 2006.
 P.O. 28 DE FEBRERO DE 2009.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 2 DE DICIEMBRE DE 2009.
+
+Primero. El presente acuerdo entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Se derogan todas las disposiciones reglamentarias que se opongan al presente.
+
+Tercero. La implementación de la Base de Datos y del Sistema de Información, así como los servicios prestados a través de éste, será gradual en las oficinas registrales del Registro Público de la Propiedad, dependiendo de las condiciones de personal, presupuestarias y técnicas que en cada caso se presenten, por lo que hasta en tanto no se lleve a cabo su consolidación, los servicios se prestarán sin la aplicación de dichas tecnologías.
