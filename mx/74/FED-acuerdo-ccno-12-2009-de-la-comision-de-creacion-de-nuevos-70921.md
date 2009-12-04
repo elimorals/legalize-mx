@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-12-2009-de-la-comision-de-creacion-de-nuevos-70921
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-11-19"
-last_updated: "2009-11-19"
+last_updated: "2009-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70921&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-09"
 
 ACUERDO CCNO/12/2009, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA PRORROGA DEL PERIODO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL PRIMER TRIBUNAL COLEGIADO DEL VIGESIMO CUARTO CIRCUITO, CON RESIDENCIA EN TEPIC, NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de noviembre de 2009.
 
@@ -49,6 +49,8 @@ ACUERDO
 
 PRIMERO. Se prorroga el plazo de exclusión del turno de nuevos asuntos concedido al Primer Tribunal Colegiado del Vigésimo Cuarto Circuito, con sede en Tepic, Nayarit, conforme a lo ordenado en el punto cuarto del Acuerdo General 30/2009 del Pleno del Consejo de la Judicatura Federal.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/14/2009, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 4 DE DICIEMBRE DE 2009, SE CONCLUYE ANTICIPADAMENTE LA PRORROGA SEÑALADA EN EL PRESENTE PARRAFO, MISMA QUE TENDRA LUGAR EL TREINTA Y UNO DE DICIEMBRE DE DOS MIL NUEVE.</small>
+
 El periodo de prórroga en la vigencia de la exclusión del turno de nuevos asuntos para el tribunal colegiado antes citado, comprenderá del dieciséis de noviembre de dos mil nueve al dieciséis de enero de dos mil diez; por ende, todos los asuntos nuevos presentados en la Oficina de Correspondencia Común de los Tribunales Colegiados del Vigésimo Cuarto Circuito, con residencia en Tepic, Nayarit, durante ese lapso se remitirán conforme al sistema computarizado que se utiliza para esos efectos, para su trámite y resolución al Segundo Tribunal Colegiado en ese Circuito y residencia.
 
 Se exceptúan del turno los recursos de reclamación interpuestos en contra de resoluciones dictadas por el Primer Tribunal Colegiado del Vigésimo Cuarto Circuito, así como de los recursos de queja por exceso o defecto en el cumplimiento de las resoluciones emitidas por el propio tribunal, que serán de su conocimiento.
@@ -64,3 +66,11 @@ PRIMERO. Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 LA LICENCIADA MARIA DE LOURDES MARGARITA GARCIA GALICIA, SECRETARIA EJECUTIVA DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/12/2009, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, relativo a la prórroga del periodo de exclusión del turno de nuevos asuntos al Primer Tribunal Colegiado del Vigésimo Cuarto Circuito, con residencia en Tepic, Nayarit, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el nueve de noviembre de dos mil nueve, por los señores Consejeros: Presidente Jorge Moreno Collado, Juan Carlos Cruz Razo y Oscar Vázquez Marín.- México, Distrito Federal, a nueve de noviembre de dos mil nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE DICIEMBRE DE 2009.
+
+PRIMERO. Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
