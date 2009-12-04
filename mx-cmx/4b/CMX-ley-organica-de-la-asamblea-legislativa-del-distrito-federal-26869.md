@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2009-10-22"
+last_updated: "2009-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -176,9 +176,9 @@ XXIII.- Otorgar la distinción a las Ciencias, las Artes así como a la Ejecuci�
 
 XXIV.- Otorgar la Medalla al Mérito Deportivo de la Asamblea Legislativa del Distrito Federal, a los Mexicanos que en forma individual o en equipo, hayan obtenido triunfos trascendentales, en las diferentes actividades deportivas de carácter regional, nacional, o mundial, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, G.O. 4 DE DICIEMBRE DE 2009)</small>
 
-XXV.- Otorgar en el mes de diciembre de cada año la medalla al Mérito Policial, a los elementos de la Secretaría de Seguridad Pública del Distrito Federal, en reconocimiento al honor y que se hayan distinguido en los dos últimos años en el deber de mantener el orden público y la seguridad de las personas en el Distrito Federal, con base en los principios de legalidad, eficiencia, profesionalismo y honradez, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
+XXV.- Otorgar en el mes de diciembre de cada año la medalla al Mérito Policial, a los elementos de la Secretaría de Seguridad Pública y de la Policía de Investigación del Distrito Federal, en reconocimiento al honor y que se hayan distinguido en los dos últimos años en el deber de mantener el orden público y la seguridad de las personas en el Distrito Federal, con base en los principios de legalidad, eficiencia, profesionalismo y honradez, en los términos del procedimiento que al efecto establezca el Reglamento para el Gobierno Interior;
 
 XXVI.- Expedir la Ley Orgánica que regulará su estructura y funcionamiento interno, la cual será enviada al Jefe de Gobierno del Distrito Federal para el sólo efecto de que ordene su publicación;
 
@@ -1759,3 +1759,9 @@ PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación por
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE DICIEMBRE DE 2009.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
