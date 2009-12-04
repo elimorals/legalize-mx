@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-293"
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-05-14"
-last_updated: "1986-05-14"
+last_updated: "2009-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1986-04-29"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PRESTACION DE SERVICIOS DE ATENCION MEDICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -597,9 +597,37 @@ La Secretaría emitirá las Normas Técnicas a que se sujetarán las actividades
 
 Los hospitales deberán contar con una dotación de medicamentos para su operatividad, las veinticuatro horas del día durante todo el año.
 
-### CAPITULO V. Disposiciones para la Prestación de Servicios de Atención Materno-lnfantil
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-### CAPITULO VI. Disposiciones Para la Prestación de Servicios Planificación Familiar
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO IV BIS. Disposiciones para la Prestación de Servicios de Cirugía Estética o Cosmética
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 95 BIS 1.- Para los efectos de este Reglamento, se entiende por cirugía estética o cosmética, al procedimiento quirúrgico que se realiza para cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, con el propósito de modificar la apariencia física de las personas con fines estéticos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 95 BIS 2.- Cualquier cirugía estética o cosmética deberá efectuarse en establecimientos o unidades médicas que cuenten con licencia sanitaria vigente en términos de lo establecido en el artículo 198, fracción V de la Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 95 BIS 3.- Los establecimientos para la atención médica que realicen cirugías estéticas o cosméticas, deberán contar con los recursos, áreas y equipamiento que señalen las normas oficiales mexicanas que al respecto emita la Secretaría.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 95 BIS 4.- Únicamente podrán realizar procedimientos de cirugía estética o cosmética, los médicos con título profesional y cédula de especialidad, otorgada por una autoridad competente, en una rama quirúrgica de la medicina, en términos de los artículos 78 y 81 de la Ley. Los médicos en formación podrán realizar dichos procedimientos, acompañados y supervisados por un especialista en la materia.
+
+### CAPITULO V. Disposiciones para la Prestación de Servicios de Atención Materno-lnfantil
 
 ###### ARTICULO 96.
 
@@ -737,9 +765,9 @@ IV.- En general por actos u omisiones que impliquen el incumplimiento de las obl
 
 Sólo podrán ser responsables de un hospital pediátrico los médicos especializados en pediatría con mínimo de cinco años en el ejercicio de la especialidad tendrán la obligación de tomar las medidas necesarias para disminuir la morbimortalidad perinatal, infantil, preescolar y escolar, acatando las recomendaciones que para el efecto dicten los comités nacionales respectivos.
 
-### CAPITULO VII. Disposiciones Para la Prestación de Servicios de Salud Mental
+### CAPITULO VI. Disposiciones Para la Prestación de Servicios Planificación Familiar
 
-### CAPITULO VIII. Disposiciones para la Prestación de Servicios de Rehabilitación
+### CAPITULO VII. Disposiciones Para la Prestación de Servicios de Salud Mental
 
 ###### ARTICULO 116.
 
@@ -761,7 +789,7 @@ Para la realización de salpingoclasias y vasectomías, será indispensable obte
 
 Dichas intervenciones deberán llevarse a efecto de conformidad con las normas técnicas correspondientes.
 
-### CAPITULO IX. Disposiciones para la prestación de los servicios auxiliares de diagnóstico y tratamiento
+### CAPITULO VIII. Disposiciones para la Prestación de Servicios de Rehabilitación
 
 ###### ARTICULO 121.
 
@@ -827,7 +855,7 @@ La información personal que el enfermo mental proporcione al médico psiquiatra
 
 Los expedientes clínicos sólo serán manejados por personal autorizado.
 
-### CAPITULO X. De las Autorizaciones y Revocación de las Mismas
+### CAPITULO IX. Disposiciones para la prestación de los servicios auxiliares de diagnóstico y tratamiento
 
 ###### ARTICULO 135.
 
@@ -847,7 +875,9 @@ VI.- CONSULTORIO DE REHABILITACION: El establecimiento que presta fundamentalmen
 
 VII.- CENTRO DE REHABILITACION OCUPACIONAL: El establecimiento que proporciona fundamentalmente adiestramiento para el trabajo o empleo a inválidos en proceso de rehabilitación o rehabilitados, y
 
-VIII.- CLINICA DE CIRUGIA RECONSTRUCTIVA, PLASTICA O ESTETICA: La unidad médica que proporciona servicios destinados a mejorar o modificar el estado físico y fisiológico de las personas mediante cualquier procedimiento quirúrgico.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+VIII.- (DEROGADA, D.O.F. 4 DE DICIEMBRE DE 2009)
 
 ###### ARTICULO 136.
 
@@ -861,13 +891,13 @@ En las guarderías, jardines de niños, escuelas, institutos y en general, en aq
 
 Las guarderías, jardines de niños y escuelas de educación básica, promoverá actividades de detección de invalidez y los casos sospechosos, los harán del conocimiento de los padres o tutores para su adecuada atención.
 
-### CAPITULO XI. De la Vigilancia de la Prestación de los Servicios de Atención Médica
+### CAPITULO X. De las Autorizaciones y Revocación de las Mismas
 
 #### SECCION PRIMERA
 
 #### SECCION SEGUNDA. De los Laboratorios
 
-### CAPITULO XII. De las Medidas de Seguridad y Sanciones
+### CAPITULO XI. De la Vigilancia de la Prestación de los Servicios de Atención Médica
 
 ###### ARTICULO 139.
 
@@ -1355,6 +1385,8 @@ IV.- Administración, e
 
 V.- Instalaciones Sanitarias.
 
+### CAPITULO XII. De las Medidas de Seguridad y Sanciones
+
 ###### ARTICULO 216.
 
 La autorización sanitaria es el acto administrativo mediante el cual la autoridad competente, permite a una persona o entidad pública, social o privada, la realización de actividades relacionadas con la salud humana en los casos y con los requisitos y modalidades que determine este Reglamento y las disposiciones que del mismo emanen.
@@ -1668,3 +1700,9 @@ Los actos y procedimientos administrativos relacionados con la materia de este R
 Se abrogan las siguientes disposiciones jurídicas: Reglamento para Hospitales, Maternidades y centros materno-infantiles en el Distrito y Zonas Federales publicado en el Diario Oficial de la Federación el diecisiete de noviembre de mil novecientos cincuenta y uno; Reglamento para Hospitales Generales Dependientes de la Secretaría de Salubridad y Asistencia publicado en el Diario Oficial de la Federación el catorce de diciembre de mil novecientos cincuenta y cuatro; Reglamento de Laboratorios de Análisis Clínicos publicado en el Diario Oficial de la Federación el veinte de marzo de mil novecientos sesenta y cuatro; Reglamento de la Prestación de los Servicios para la Atención Médica, cuya aplicación corresponde a la Secretaría de Salubridad y Asistencia publicado en el Diario Oficial de la Federación el doce de noviembre de mil novecientos setenta y cuatro; Reglamento de Prevención de Invalidez y Rehabilitación de Inválidos publicado en el Diario Oficial de la Federación el seis de febrero de mil novecientos setenta y seis; Reglamento de Parteros Empíricos capacitados, publicado en el Diario Oficial de la Federación el veinticinco de octubre de mil novecientos setenta y seis; Reglamento de Seguridad Radiológica para el uso de Equipos de Rayos X Tipo Diagnóstico, publicado en el Diario Oficial de la Federación el veinticinco de abril de mil novecientos setenta y ocho; Reglamento para la expedición y uso de Tarjeta de Control Sanitario, publicado en el Diario Oficial de la Federación el primero de febrero de mil novecientos ochenta.
 
 Dado en la Residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal a los veintinueve días del mes de abril de mil novecientos ochenta y seis.- Miguel de la Madrid H..- Rúbrica.- El Secretario de Salud, Guillermo Soberón Acevedo.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 4 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente Decreto entrará en vigor 60 días contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
