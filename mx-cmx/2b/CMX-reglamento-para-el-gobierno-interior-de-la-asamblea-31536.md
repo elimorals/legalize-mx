@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2009-10-22"
+last_updated: "2009-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -2346,7 +2346,7 @@ El reconocimiento de la Medalla al Mérito Ciudadano y el Diploma respectivo ser
 
 ### CAPÍTULO IV. DE LA MEDALLA AL MÉRITO POLICIAL
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 188.
 
@@ -2504,9 +2504,9 @@ El reconocimiento al Artista Intérprete se otorgará anualmente en sesión sole
 
 ###### Artículo 198.
 
-La Medalla al Mérito Policial, se concederá a los elementos de los Cuerpos de Seguridad Pública en activo que se distingan por su heroísmo, valor, dedicación, constancia, lealtad institucional, honestidad y/o eficiencia en el desempeño de su labor en beneficio de la comunidad, o en aquellos elementos que en ejercicio de sus funciones fallezcan en cumplimiento de su deber.
+La Medalla al Mérito Policial, se concederá a los elementos de los Cuerpos de Seguridad Pública y de Policía de Investigación en activo que se distingan por su heroísmo, valor, dedicación, constancia, lealtad institucional, honestidad y/o eficiencia en el desempeño de su labor en beneficio de la comunidad, o en aquellos elementos que en ejercicio de sus funciones fallezcan en cumplimiento de su deber.
 
-Sólo podrá otorgarse a elementos de las corporaciones policiales federales, de la Policía Preventiva del Distrito Federal, con todas las unidades y agrupamientos, de la Policía Complementaria, que está integrada por la Policía Auxiliar y la Bancaria e Industrial.
+Sólo podrá otorgarse a elementos de las corporaciones policiales federales, de la Policía Preventiva del Distrito Federal, con todas las unidades y agrupamientos, de la Policía Complementaria, que está integrada por la Policía Auxiliar y la Bancaria e Industrial, además de la Policía de Investigación, dependiente de la Procuraduría General de Justicia del Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -2532,11 +2532,11 @@ Corresponderá a la Comisión de Seguridad Pública de la Asamblea Legislativa c
 
 La Comisión de Seguridad Pública presentará ante el Pleno de la Asamblea Legislativa el dictamen correspondiente, una vez que éste sea aprobado por consenso al interior de la propia Comisión.
 
-> <small>(ADICIONADO, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 201.
 
-El reconocimiento se podrá otorgar hasta un máximo de seis elementos de los Cuerpos de Seguridad Pública, o bien aumentar el número de galardonados, a consideración de la Comisión de Seguridad Pública, del cual se respetará que el 50% deba ser de un mismo sexo.
+El reconocimiento se podrá otorgar hasta un máximo de seis elementos de los Cuerpos de Seguridad Pública y seis de la Policía de Investigación, o bien aumentar el número de galardonados, a consideración de la Comisión de Seguridad Pública, del cual se respetará que el 50% deba ser de un mismo sexo.
 
 > <small>(REFORMADO, G.O. 9 DE JULIO DE 2007)</small>
 
@@ -2849,3 +2849,9 @@ PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación por
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE DICIEMBRE DE 2009.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
