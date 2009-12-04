@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2009-11-12"
+last_updated: "2009-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE DICIEMBRE DE 2009.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1173,9 +1173,13 @@ Si la persona a quien se induzca o ayude al suicidio fuere menor de edad o incap
 
 Comete el delito de aborto quien interrumpe el embarazo en cualquiera de sus etapas.
 
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 150.
 
-A la mujer que se provoque el aborto y a la persona que la haga abortar con el consentimiento de aquélla se les impondrán de seis meses a cuatro años de prisión y multa hasta de setenta y cinco días de salario.
+A la mujer que se provoque o consienta que se le practique un aborto, se le sancionará con tratamiento en libertad, consistente en la aplicación de medidas educativas y de salud.
+
+A la persona que haga abortar a la mujer con su consentimiento, se le impondrán de seis meses a dos años de prisión y multa de hasta setenta y cinco días de salario.
 
 ###### Artículo 151.
 
@@ -3354,3 +3358,9 @@ G.O. 12 DE NOVIEMBRE DE 2009.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE DICIEMBRE DE 2009.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
