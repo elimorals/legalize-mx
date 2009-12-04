@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-65472"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2008-12-26"
-last_updated: "2008-12-26"
+last_updated: "2009-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2009
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 26 de diciembre de 2008.
 
@@ -917,9 +917,7 @@ B).- TOMAS COMUNALES.
 
 Los consumos de las cuentas de este tipo de tomas, serán divididos entre el número de usuarios servidos del mismo medidor y a la resultante se le aplicará la tarifa doméstica vigente de acuerdo con la tarifa del punto número uno.
 
-C).- SERVICIO SIN MEDIDOR.
-
-Para los usuarios domésticos sin servicio medido, los consumos serán estimados por el organismo de acuerdo al consumo medido promedio de la zona, y para los no domésticos, el consumo será determinado de acuerdo al consumo medido promedio del giro correspondiente, con base a las estadísticas de consumo para este tipo de usuarios.
+C).- (DEROGADO, POR ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 301 QUE REFORMA LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA, P.O. 4 DE DICIEMBRE DE 2009)
 
 D).- DERECHOS DE CONEXIÓN AL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO SANITARIO.
 
@@ -989,29 +987,7 @@ En los casos en que el usuario cambie el uso de suelo de doméstico a no domést
 
 Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la Ley de Ingresos vigente en la fecha que se determine la diferencia.
 
-E).- TOMAS Y DESCARGAS NO REGISTRADAS.
-
-1.- En caso de que sea detectada una toma no registrada instalada en este Municipio, el cobro será de la siguiente manera:
-
-a).- En la detección de tomas no registradas domésticas, se tomará como base para el cobro 250 litros por día y por habitante, considerando hasta 4 habitantes por familia, por un máximo de hasta por 5 años, al 100% de la tarifa para uso doméstico aprobada por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
-
-En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 11, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período máximo de 6 meses.
-
-b).- En la detección de tomas no registradas en locales, establecimientos y desarrollos comerciales, turísticos, industriales y gubernamentales, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
-
-La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
-
-Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
-
-2.- En caso de que sea detectada una descarga no registrada instalada en este Municipio, y que no cuenten con el servicio de agua potable, el cobro será de la siguiente manera:
-
-a).- En la detección de descargas no registradas domésticas, se tomará como base para el cobro 120 litros por día y por habitante, considerando hasta 4 habitantes por familia, por un máximo de hasta por 5 años, al precio aprobado por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
-
-b).- En la detección de descargas no registradas comerciales, gubernamentales, industriales y de desarrollos turísticos, así como otras no domésticas, los cobros serán estimados por el organismo de acuerdo al consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, hasta por un período de 5 años, al 40% de la tarifa de servicio medido vigente en la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
-
-La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red de descargas de agua.
-
-Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+E).- (DEROGADO, POR ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 301 QUE REFORMA LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA, P.O. 4 DE DICIEMBRE DE 2009)
 
 F).- OTROS SERVICIOS:
 
@@ -1211,9 +1187,7 @@ B).- TOMAS COMUNALES.
 
 Los consumos de las cuentas de este tipo de tomas, serán divididos entre el número de usuarios servidos del mismo medidor y a la resultante se le aplicará la tarifa doméstica vigente de acuerdo con el punto número uno.
 
-C).- SERVICIO SIN MEDIDOR.
-
-Para los usuarios domésticos sin servicio medido, los consumos serán estimados por el organismo de acuerdo al consumo medido promedio de la zona y para los no domésticos, el consumo será determinado de acuerdo al consumo medido promedio del giro correspondiente, con base a las estadísticas de consumo para este tipo de usuarios.
+C).- (DEROGADO, POR ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 301 QUE REFORMA LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA, P.O. 4 DE DICIEMBRE DE 2009)
 
 D).- DERECHOS DE CONEXIÓN AL SISTEMA DE AGUA POTABLE y ALCANTARILLADO SANITARIO:
 
@@ -1269,29 +1243,7 @@ En los casos en que el usuario cambie el uso de suelo de doméstico a no domést
 
 Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la Ley de Ingresos vigente en la fecha que se determine la diferencia.
 
-E).- TOMAS Y DESCARGAS NO REGISTRADAS.
-
-1.- En caso de que sea detectada una toma no registrada instalada en este Municipio, el cobro será de acuerdo a la siguiente manera:
-
-a).- En la detección de tomas domésticas no registradas, se tomará como base para el cobro, lo que resulte de considerar un gasto de 250 litros por día y por habitante, considerando hasta 4 habitantes por familia, por un máximo de hasta por 5 años, a la tarifa doméstica aprobada por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
-
-En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 11, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período máximo de 6 meses.
-
-b).- En la detección de tomas no registradas comerciales, industriales, de desarrollos turísticos, gubernamentales, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado, en la fecha en que sea detectada dicha toma.
-
-La determinación del período para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
-
-Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
-
-2.- En caso de que sea detectada una descarga no registrada instalada en este Municipio, y que no cuenten con el servicio de agua potable el cobro será de acuerdo a la siguiente manera:
-
-a).- En la detección de descargas no registradas domésticas, se tomará como base para el cobro 120 litros por día y por habitante, considerando 4 habitantes por familia, por un máximo de hasta por 5 años, a la tarifa doméstica aprobada por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
-
-b).- En la detección de descargas no registradas comerciales, industriales, de desarrollos turísticos, gubernamentales y otras no domésticas, los cobros serán estimados por el organismo de acuerdo al consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, hasta por un período de 5 años, al 40% de la tarifa vigente en la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
-
-La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de descarga de agua.
-
-Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+E).- (DEROGADO, POR ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 301 QUE REFORMA LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA, P.O. 4 DE DICIEMBRE DE 2009)
 
 F).- OTROS SERVICIOS:
 
@@ -1421,9 +1373,7 @@ B).- TOMAS COMUNALES.
 
 Los consumos de las cuentas de este tipo de tomas, serán divididos entre el número de usuarios servidos del mismo medidor y a la resultante se le aplicará la tarifa doméstica vigente de acuerdo con el punto número uno.
 
-C).- SERVICIO SIN MEDIDOR.
-
-Para los usuarios domésticos sin servicio medido los consumos serán estimados por el organismo de acuerdo al consumo medido promedio de la zona y para los no domésticos, el consumo será determinado de acuerdo al consumo medido promedio del giro correspondiente, con base a las estadísticas de consumo para este tipo de usuarios.
+C).- (DEROGADO, POR ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 301 QUE REFORMA LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA, P.O. 4 DE DICIEMBRE DE 2009)
 
 D).- DERECHOS DE CONEXIÓN AL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO:
 
@@ -1493,31 +1443,7 @@ En los casos en que el usuario cambie el uso de suelo de doméstico a no domést
 
 Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la Ley de Ingresos vigente en la fecha que se determine la diferencia.
 
-E).- TOMAS Y DESCARGAS NO REGISTRADAS.
-
-1.- En caso de que sea detectada una toma no registrada instalada en el Municipio de Tijuana, el cobro será de acuerdo a la siguiente manera:
-
-a).- En la detección de tomas no registradas domésticas, se tomará como base para el cobro 230 litros por día y por habitante, considerando hasta 4.1 habitantes por familia, por un máximo de hasta por 5 años, al 100% de la tarifa para uso doméstico aprobada por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
-
-En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 11, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período máximo de 6 meses.
-
-b).- En la detección de tomas no registradas comerciales, industriales, gubernamentales y desarrollos turísticos, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
-
-La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
-
-Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
-
-2.- En caso de que sea detectada una descarga no registrada instalada en el Municipio de Tijuana, y que no cuenten con el servicio de agua potable, el cobro será de acuerdo a la siguiente manera:
-
-a).- En la detección de descargas no registradas domésticas, se tomará como base para el cobro 80 litros por día y por habitante, considerando hasta 4.1 habitantes por familia, por un máximo de hasta por 5 años, al 40% de la tarifa aprobada por consumo de agua para uso doméstico por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
-
-b).- En la detección de descargas no registradas comerciales, gubernamentales, industriales y de desarrollos turísticos, así como otras no domésticas, los cobros serán estimados por el organismo de acuerdo al consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, hasta por un período de 5 años, al 40% de la tarifa de servicio medido vigente en la Ley de Ingresos del Estado, en la fecha en que sea detectada dicha descarga.
-
-En caso de que sea detectada una descarga no registrada instalada en el Municipio de Tijuana, en usuarios registrados para el suministro del servicio de agua potable, el cobro será por los conceptos de derechos de conexión para alcantarillado sanitario, derrama de obra e instalación de descarga.
-
-La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de descarga de agua.
-
-Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+E).- (DEROGADO, POR ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 301 QUE REFORMA LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA, P.O. 4 DE DICIEMBRE DE 2009)
 
 F).- OTROS SERVICIOS.
 
@@ -1653,9 +1579,7 @@ B).- TOMAS COMUNALES.
 
 Los consumos de las cuentas de este tipo de tomas, serán divididos entre el número de usuarios servidos del mismo medidor y a la resultante se le aplicará la tarifa doméstica vigente de acuerdo con el punto número uno.
 
-C).- SERVICIO SIN MEDIDOR.
-
-Para los usuarios domésticos sin servicio medido los consumos serán estimados por el organismo de acuerdo al consumo medido promedio de la zona y para los no domésticos, el consumo será determinado de acuerdo al consumo medido promedio del giro correspondiente, con base a las estadísticas de consumo para este tipo de usuarios.
+C).- (DEROGADO, POR ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 301 QUE REFORMA LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA, P.O. 4 DE DICIEMBRE DE 2009)
 
 D).- DERECHOS DE CONEXIÓN AL SISTEMA DE AGUA POTABLE y ALCANTARILLADO:
 
@@ -1725,31 +1649,7 @@ En los casos en que el usuario cambie el uso de suelo de doméstico a no domést
 
 Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la ley de ingresos vigente en la fecha que se determine la diferencia.
 
-E).- TOMAS Y DESCARGAS NO REGISTRADAS.
-
-1.- En caso de que sea detectada una toma no registrada instalada en el Municipio de Playas de Rosarito, el cobro será de acuerdo a la siguiente manera:
-
-a).- En la detección de tomas no registradas domésticas, se tomará como base para el cobro 230 litros por día y por habitante, considerando hasta 4.1 habitantes por familia, por un máximo de hasta por 5 años, al 100% de la tarifa para uso doméstico aprobada por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
-
-En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 11, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período máximo de 6 meses.
-
-b).- En la detección de tomas no registradas comerciales, industriales, gubernamentales y desarrollos turísticos, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
-
-La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
-
-Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
-
-2.- En caso de que sea detectada una descarga no registrada instalada en el Municipio de Playas de Rosarito, y que no cuenten con el servicio de agua potable, el cobro será de acuerdo a la siguiente manera:
-
-a).- En la detección de descargas no registradas domésticas, se tomará como base para el cobro 80 litros por día y por habitante, considerando hasta 4.1 habitantes por familia, por un máximo de hasta por 5 años, al 40% de la tarifa aprobada por consumo de agua para uso doméstico por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
-
-b).- En la detección de descargas no registradas comerciales, gubernamentales, industriales y de desarrollos turísticos, así como otras no domésticas, los cobros serán estimados por el organismo de acuerdo al consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, hasta por un período de 5 años, al 40% de la tarifa de servicio medido vigente en la Ley de Ingresos del Estado, en la fecha en que sea detectada dicha descarga.
-
-En caso de que sea detectada una descarga no registrada instalada en el Municipio de Playas de Rosarito, en usuarios registrados para el suministro del servicio de agua potable, el cobro será por los conceptos de derechos de conexión para alcantarillado sanitario, derrama de obra e instalación de descarga.
-
-La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de descarga de agua.
-
-Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
+E).- (DEROGADO, POR ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 301 QUE REFORMA LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA, P.O. 4 DE DICIEMBRE DE 2009)
 
 F).- OTROS SERVICIOS.
 
@@ -1877,9 +1777,7 @@ B).- TOMAS COMUNALES.
 
 Los consumos de las cuentas de este tipo de tomas, serán divididos entre el número de usuarios servidos del mismo medidor y a la resultante se le aplicará la tarifa doméstica vigente de acuerdo con el punto número uno.
 
-C).- SERVICIO SIN MEDIDOR.
-
-Para los usuarios domésticos sin servicio medido, los consumos serán estimados por el organismo de acuerdo al consumo promedio de la zona y para los no domésticos, el consumo será determinado de acuerdo al consumo medido promedio del giro correspondiente, con base a las estadísticas de consumo para este tipo de usuarios.
+C).- (DEROGADO, POR ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 301 QUE REFORMA LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA, P.O. 4 DE DICIEMBRE DE 2009)
 
 D).- DERECHOS DE CONEXIÓN AL SISTEMA DE AGUA POTABLE y ALCANTARILLADO SANITARIO:
 
@@ -1909,7 +1807,7 @@ a).- A las redes del sistema de agua potable, por m2 de superficie vendible, inc
 
 b).- A las redes del sistema de alcantarillado sanitario, por m2 de superficie vendible, incluyendo áreas de donación. $ 16.61
 
-4).-Para los terrenos destinados a condominios:
+4).- Para los terrenos destinados a condominios:
 
 a).- A las redes del sistema de agua potable, por m2 de terreno. $ 28.59
 
@@ -1941,31 +1839,7 @@ En los casos en que el usuario cambie el uso de suelo de doméstico a no domést
 
 Para aquellos usuarios no domésticos y que previo análisis del organismo se demuestre que sus consumos y necesidad de abasto se han incrementado, están obligados a cubrir la diferencia que resulte del cálculo de los derechos de conexión para agua potable y alcantarillado sanitario, con base a la Ley de Ingresos vigente en la fecha que se determine la diferencia.
 
-E).- TOMAS Y DESCARGAS NO REGISTRADAS.
-
-1.- En caso de que sea detectada una toma no registrada instalada en este Municipio, el cobro será de acuerdo a la siguiente manera:
-
-a).- En la detección de tomas domésticas no registradas, se tomará como base para el cobro 250 litros por día y por habitante, considerando hasta 4.1 habitantes por familia, por un máximo de hasta por 5 años, al 100% de la tarifa para uso doméstico aprobada por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
-
-En la detección de tomas no registradas domésticas a usuarios de los que se señalan en el primer párrafo de este Artículo 11, como son las personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados que no obtengan ingresos mayores al equivalente a cinco veces el salario mínimo general, se tomará como base para el cobro el cálculo contemplado en el párrafo anterior por un período máximo de 6 meses.
-
-b).- En la detección de tomas no registradas comerciales, industriales, gubernamentales y desarrollos turísticos, así como otras no domésticas, se tomará como base para el cobro por consumo de agua, el consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, proyectado desde la fecha de instalación de la toma hasta por un máximo de 5 años, a la tarifa vigente de la Ley de Ingresos del Estado en la fecha en que sea detectada dicha toma.
-
-La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de agua potable.
-
-Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda.
-
-2.- En caso de que sea detectada una descarga no registrada instalada en este Municipio, y que no cuenten con el servicio de agua potable, el cobro será de acuerdo a la siguiente manera:
-
-a).- En la detección de descargas no registradas domésticas, se tomará como base para el cobro 100 litros por día y por habitante, considerando hasta 4.1 habitantes por familia, por un máximo de hasta por 5 años, al 40% de la tarifa de servicio medido aprobada por consumo de agua para uso doméstico por la Ley de Ingresos del Estado en la fecha en que sea detectada dicha descarga.
-
-b).- En la detección de descargas no registradas comerciales, gubernamentales, industriales y desarrollos turísticos, así como otras no domésticas, los cobros serán estimados por el organismo de acuerdo al consumo medido promedio del giro correspondiente en base a las estadísticas de consumo para este tipo de servicio, hasta por un período de 5 años, al 40% de la tarifa de servicio medido vigente en la Ley de Ingresos del Estado, en la fecha en que sea detectada dicha descarga.
-
-En caso de que sea detectada una descarga no registrada instalada en el Municipio de Tecate, en usuarios registrados para el suministro del servicio de agua potable, el cobro será por los conceptos de derechos de conexión para alcantarillado sanitario, derrama de obra e instalación de descarga.
-
-La determinación del período de cobro para los incisos anteriores, se hará basándose en la documentación que presente el usuario con valor legal probatorio y dictamen emitido por el organismo, partiendo de la fecha de interconexión a la red que suministra el servicio de descarga de agua.
-
-Asimismo el cobro deberá realizarse también por los derechos de conexión y obra según corresponda
+E).- (DEROGADO, POR ARTICULO TERCERO TRANSITORIO DEL DECRETO No. 301 QUE REFORMA LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA, P.O. 4 DE DICIEMBRE DE 2009)
 
 F).- OTROS SERVICIOS.
 
@@ -3728,3 +3602,19 @@ JOSE GUADALUPE OSUNA MILLAN
 SECRETARIO GENERAL DE GOBIERNO
 
 JOSE FRANCISCO BLAKE MORA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las visitas de inspección así como las inconformidades que al entrar en vigor las presentes reformas, estén pendientes de resolución, será (sic) tramitadas conforme a las disposiciones que se encontraban vigentes al momento en que dio inicio el procedimiento respectivo.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor de la presente reforma, serán derogados los incisos C y E de las secciones I, II, III, IV y V del artículo 11 de la Ley de Ingresos del Estado de Baja California para el Ejercicio Fiscal 2009, publicada el 26 de Diciembre de 2008 en el Periódico Oficial del Estado.
