@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-y-prestacion-de-servicios-para-2579
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-06"
-last_updated: "1999-08-06"
+last_updated: "2009-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES Y PRESTACION DE SERVICIOS PARA EL MUNICIPIO DE PESQUERIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 6 de agosto de 1999.
 
@@ -105,27 +105,37 @@ V.- Emitir opinión respecto a la adjudicación de los pedidos y contratos.
 
 Todas las Adquisiciones que realice el Municipio y los organismos del sector municipal, así como los servicios que se requieran deberán sujetarse a las siguientes reglas:
 
-Cuotas
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2009)</small>
 
-Por asignación directa hasta 1,500
+ADQUISICIONES
+
+CUOTAS
+
+ASIGNACION HASTA 2,000
+
+Mediante cotizaciones por
+
+escrito de cuando menos tres
+
+proveedores cuando su monto
+
+no exceda de 17,500
 
 Mediante concurso por invitación
 
-A cuando menos tres proveedores
+a cuando menos tres
 
-Cuando su monto no exceda de de 1,501 a 5,000
+Proveedores cuando su monto
 
-Mediante convocatoria pública
+no exceda de 24,000
 
-Que se publicará en el Periódico
+Mediante concurso por invitación
 
-Oficial del Estado y por lo menos
+a cuando menos cinco personas,
 
-en uno de los diarios de mayor
+cuando su monto no exceda de 34,000
 
-circulación en el Estado de 5,001 en adelante
-
-* Se entiende por cuota el equivalente al salario mínimo diario vigente en el área geográfica correspondiente al Municipio.
+Nota: Se entiende por cuota el equivalente al salario mínimo diario vigente en el área geográfica correspondiente al Municipio.
 
 ### CAPITULO TERCERO. DE LOS CONCURSOS
 
@@ -284,3 +294,15 @@ PRESIDENTE MUNICIPAL SUSTITUTA
 ING. PEDRO A. GUTIÉRREZ CANTÚ
 
 SECRETARIO DE AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE DICIEMBRE DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL ORDENAMIENTO.
+
+...
+
+SEGUNDO.- Las presentes reformas entrarán en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias, circulares, acuerdos y demás disposiciones administrativas que contravengan las presentes disposiciones.
