@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-precampanas-para-el-estado-de-zacatecas-52041"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-07"
-last_updated: "2006-10-07"
+last_updated: "2009-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO DE PRECAMPAÑAS PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE PRECAMPAÑAS PARA EL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 7 de octubre de 2006.
 
@@ -356,3 +358,11 @@ PRIMERO. La Comisión de Precampañas a que refiere el artículo 4 del presente 
 SEGUNDO. Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 TERCERO. El presente Reglamento entrará en vigor a partir del día siguiente de su publicación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE DICIEMBRE DE 2009.
+
+Primero.- Este Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento de Precampañas, aprobado por el Consejo General en fecha cinco (5) de octubre del año dos mil seis (2006).
