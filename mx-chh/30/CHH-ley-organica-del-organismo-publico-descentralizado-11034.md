@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-organismo-publico-descentralizado-11034"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-01"
-last_updated: "2007-06-30"
+last_updated: "2009-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL ORGANISMO PUBLICO DESCENTRALIZADO "SERVICIOS DE SALUD DE CHIHUAHUA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1997.
 
@@ -75,11 +75,19 @@ VI.- Promover y llevar a cabo programas de capacitación profesional entre su pe
 
 VII.- Difundir a las autoridades correspondientes y a la población en general, a través de publicaciones y actos académicos, los resultados de los trabajos de investigación, estudio, análisis y de recopilación de información, documentación e intercambio que realiza;
 
-VIII.- Colaborar con la Dirección General de Fomento Social, en el seguimiento de la transferencia y ejecución de las atribuciones que el Gobierno Federal descentralice en favor del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Colaborar con la Secretaría de Salud, en el seguimiento de la transferencia y ejecución de las atribuciones que el Gobierno Federal descentralice en favor del Estado;
 
 IX.- Administrar las cuotas de recuperación así como las aportaciones que reciba de otras personas e instituciones.
 
-X.- Presentar ante la Dirección General de Fomento Social, anualmente la planeación, programación y presupuestación de los recursos que requiera para la correcta operación del Organismo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+X.- Presentar ante la Secretaría de Salud, anualmente, la planeación, programación y presupuestación de los recursos que requiera para la correcta operación del Organismo;
 
 XI.- Rendir los informes que le soliciten las autoridades competentes;
 
@@ -406,3 +414,25 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 ###### ARTÍCULO SEXTO.
 
 Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+P.O. 5 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil diez, con las modalidades que se señalan en los artículos subsecuentes.
+
+SEGUNDO.- Para el cumplimiento del presente Decreto, se faculta al Ejecutivo del Estado, para organizar la estructura administrativa de las Secretarías de Fomento Social y de Salud, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales.
+
+TERCERO.- Los trámites de los asuntos en materia de salud, iniciados ante la Secretaría de Fomento Social, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Secretaría de Salud.
+
+CUARTO.- Dentro del término de 90 días siguientes a la entrada en vigor del presente Decreto, se deberán expedir las disposiciones reglamentarias en la materia.
+
+QUINTO.- A partir de la entrada en vigor del presente Decreto, se fija un término de 30 días naturales para realizar el procedimiento de entrega-recepción de los recursos humanos, materiales y financieros por parte de la Secretaría de Fomento Social a la Secretaría de Salud.
+
+SEXTO.- Los servidores públicos adscritos a la Secretaría de Fomento Social, que pasen a formar parte de la Secretaría de Salud, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+SÉPTIMO.- Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Fomento Social en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Secretaría de Salud, de acuerdo a las facultades que mediante el presente Decreto se les otorga.
+
+OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados con la Ley Estatal de Salud, que se hubieren iniciado bajo la vigencia del Código Administrativo del Estado, se tramitarán y resolverán conforme a las disposiciones del citado Código.
+
+NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
+
+DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
