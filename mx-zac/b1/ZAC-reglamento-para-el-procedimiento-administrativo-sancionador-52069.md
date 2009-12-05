@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-para-el-procedimiento-administrativo-sancionador-520
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-04"
-last_updated: "2006-10-04"
+last_updated: "2009-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO PARA EL PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES ELECTORALES, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 4 de octubre de 2006.
 
@@ -928,3 +930,13 @@ REGLAMENTO PARA El PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR ELECTORAL
 ### CAPÍTULO ÚNICO. Procedimientos administrativos específicos para el conocimiento de infracciones a la legislación electoral
 
 ## ARTÍCULOS TRANSITORIOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE DICIEMBRE DE 2009.
+
+Artículo Primero. Se abroga el Reglamento para el Procedimiento Administrativo Sancionador Electoral, aprobado por el Consejo General del Instituto Electoral del Estado de Zacatecas, en fecha veintinueve (29) de septiembre de dos mil seis (2006).
+
+Artículo Segundo. Publíquese en el Periódico Oficial, Órgano de Gobierno del Estado y en la página Web del Instituto.
+
+Artículo Tercero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
