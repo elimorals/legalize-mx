@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2009-09-15"
+last_updated: "2009-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -127,9 +127,11 @@ VII. La vialidad y su infraestructura, así como la construcción de las obras p
 
 VIII. El control y la observancia de las disposiciones de esta Ley, su reglamentación, y demás ordenamientos de la materia.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 4º.
 
-Para los efectos de esta Ley, la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas se denominará en lo sucesivo como "la Secretaría" y los Ayuntamientos de la Entidad como "el Ayuntamiento".
+Para los efectos de esta Ley, la Secretaría de Desarrollo Urbano, Vivienda y Obras Públicas, se denominará en lo sucesivo como "la Secretaría", y los ayuntamientos de la Entidad, como "el Ayuntamiento".
 
 ###### ARTICULO 5º.
 
@@ -559,7 +561,9 @@ Para los efectos de esta Ley, el Consejo Consultivo Estatal de Desarrollo Urbano
 
 I. Un Presidente, que será el Gobernador del Estado;
 
-II. Un Secretario Técnico, que será el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas del Estado;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+II. Un secretario técnico, que será el Secretario de Desarrollo Urbano, Vivienda y Obras Públicas del Estado;
 
 III. Un Coordinador General, que será nombrado por el Consejo;
 
@@ -3834,3 +3838,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Todos los fraccionamientos que no hayan sido aprobados por el ayuntamiento respectivo a la entrada en vigor del presente Decreto, deberán sujetarse a las disposiciones de éste último.
 
 TERCERO. Se derogan todas las disposiciones legales y administrativas que se opongan a este Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan a este Decreto.
