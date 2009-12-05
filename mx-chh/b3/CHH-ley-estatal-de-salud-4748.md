@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "2009-11-07"
+last_updated: "2009-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -159,7 +159,11 @@ Son autoridades sanitarias estatales:
 
 I.- El Gobernador del Estado;
 
-II.- La Dirección General de Desarrollo Social a través del Departamento de Salud; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+II.- La Secretaría de Salud, y
 
 III.- Los ayuntamientos, en los términos de los acuerdos que celebren con el Gobernador del Estado, de conformidad con esta Ley y demás disposiciones aplicables.
 
@@ -193,9 +197,13 @@ VI.- Impulsar en el ámbito estatal un sistema racional de administración y des
 
 VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 7.
 
-La Coordinación del Sistema Estatal de Salud estará a cargo de la Dirección General de Desarrollo Social, correspondiéndole lo siguiente:
+La Coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría de Salud, correspondiéndole lo siguiente:
 
 I.- Establecer y conducir la política estatal en materia de salud en los términos de esta Ley y demás disposiciones aplicables y de conformidad con lo dispuesto por el Ejecutivo Federal;
 
@@ -231,21 +239,37 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI.- Las demás atribuciones que requiera para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 8.
 
-La Dirección General de Desarrollo Social promoverá la participación, en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores públicos, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
+La Secretaría de Salud promoverá la participación, en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores públicos, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 9.
 
-La concertación de acciones entre la Dirección General de Desarrollo Social y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre la Secretaría de Salud y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
 
-II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Dirección General de Desarrollo Social;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad de la Dirección mencionada en la fracción anterior; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+III.- Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad de la Secretaría de Salud, y
 
 IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
 
@@ -259,11 +283,13 @@ El Ejecutivo del Estado, con la participación que corresponda al Comité de Pla
 
 ### CAPITULO II. DISTRIBUCION DE COMPETENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 12.
 
-Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Fomento Social:
+Corresponde al Ejecutivo del Estado por conducto de la Secretaría de Salud:
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
 
@@ -309,9 +335,13 @@ IV.- La sanidad en los límites con otras entidades.
 
 Para los efectos de esta Ley, se entiende por norma técnica el conjunto de reglas científicas y tecnológicas de carácter obligatorio, emitidas por la entidad administrativa correspondiente, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 14.
 
-El Ejecutivo Estatal, a través de la Dirección General de Desarrollo Social podrá convenir con los ayuntamientos la prestación, por parte de éstos, de los servicios de salubridad general concurrente y salubridad local cuando su desarrollo económico y social lo haga necesario.
+El Ejecutivo Estatal, a través de la Secretaría de Salud, podrá convenir con los Ayuntamientos la prestación, por parte de éstos, de los servicios de salubridad general concurrente y salubridad local cuando su desarrollo económico y social lo haga necesario.
 
 En dichos convenios se podrán estipular acciones sanitarias que deban ser realizadas por las dependencias y entidades municipales.
 
@@ -329,9 +359,13 @@ IV.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de 
 
 V.- Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 16.
 
-Los ingresos que obtenga el Estado por la prestación de los servicios en materia de salubridad general, quedarán sujetos a lo que se disponga en los acuerdos de coordinación con la Secretaría de Salud y lo que determine la legislación fiscal aplicable.
+Los ingresos que obtenga el Estado por la prestación de los servicios en materia de salubridad general, quedarán sujetos a lo que se disponga en los acuerdos de coordinación con la Secretaría de Salud Federal y lo que determine la legislación fiscal aplicable.
 
 ###### ARTICULO 17.
 
@@ -341,9 +375,13 @@ El Ejecutivo del Estado y los municipios, en los términos de los convenios que 
 
 El Ejecutivo del Estado podrá celebrar convenios de coordinación y cooperación sanitaria con los ejecutivos de los Estados vecinos, sobre aquellas materias de interés común. Los municipios del Estado podrán celebrar entre ellos convenios sobre materias sanitarias que sean de la competencia municipal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 19.
 
-El Estado podrá celebrar con la Secretaría de Salud acuerdos de coordinación a fin de que esta asuma temporalmente, a petición de la propia Entidad, la prestación de servicios o el ejercicio de las funciones de control y regulación sanitaria a que se refiere al Artículo 13 de la Ley General de Salud.
+El Estado podrá celebrar con la Secretaría de Salud Federal acuerdos de coordinación a fin de que ésta asuma temporalmente, a petición de la propia Entidad, la prestación de servicios o el ejercicio de las funciones de control y regulación sanitaria a que se refiere al artículo 13 de la Ley General de Salud.
 
 ###### ARTICULO 20.
 
@@ -417,9 +455,11 @@ XI.- Las demás que establezca esta Ley y otras disposiciones legales aplicables
 
 Los adultos mayores tendrán derecho a recibir atención médica especializada, preventiva, curativa y de rehabilitación en los hospitales y demás establecimientos asistenciales del estado.
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-La Secretaría de Fomento Social, el Instituto Chihuahuense de Salud y el Organismo Servicios de Salud de Chihuahua, coordinarán sus esfuerzos con énfasis en la prevención y combate de las enfermedades crónico-degenerativas y demás propias de la edad avanzada.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+La Secretaría de Salud, el Instituto Chihuahuense de Salud y el Organismo Público Descentralizado denominado Servicios de Salud de Chihuahua, coordinarán sus esfuerzos con énfasis en la prevención y combate de las enfermedades crónicas degenerativas y demás propias de edad avanzada.
 
 ###### ARTICULO 28.
 
@@ -429,9 +469,13 @@ El Ejecutivo del Estado, de conformidad con las disposiciones legales aplicables
 
 El Ejecutivo del Estado coadyuvará con las autoridades federales competentes, para que se garantice a la población la disponibilidad de medicamentos esenciales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 30.
 
-La Dirección General de Desarrollo Social coadyuvará con las demás dependencias estatales para que los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establecen las leyes aplicables.
+La Secretaría de Salud coadyuvará con las demás dependencias estatales para que los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establecen las leyes aplicables.
 
 ###### ARTICULO 31.
 
@@ -495,13 +539,21 @@ Los servicios de salud que presten las Entidades Públicas Estatales o empresas 
 
 Los trabajadores de los establecimientos estatales de salud podrán participar en la gestión de los mismos, de conformidad con las disposiciones generales aplicables y podrán opinar y emitir sugerencias tendientes al mejoramiento de los servicios de salud.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 41.
 
-La Dirección General de Desarrollo Social en coordinación con las autoridades educativas, vigilará en el Estado el ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos, procurando la coordinación con la autoridad educativa federal.
+La de Salud, en coordinación con las autoridades educativas, vigilará en el Estado el ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos, procurando la coordinación con la autoridad educativa federal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 42.
 
-La Dirección citada coadyuvará con las autoridades educativas competentes para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud y estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+La Secretaría de Salud coadyuvará con las autoridades educativas competentes para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud y estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
 
 ### CAPITULO IV. USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACION DE LA COMUNIDAD
 
@@ -517,9 +569,13 @@ Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de cal
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadores de servicios de salud y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 46.
 
-La Dirección General de Desarrollo Social establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población general y a los servicios sociales y privados.
+La Secretaría de Salud establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población general y a los servicios sociales y privados.
 
 ###### ARTICULO 47.
 
@@ -555,11 +611,13 @@ VI.- Información a las autoridades competentes de las irregularidades o deficie
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 52.
 
-La Dirección General de Desarrollo Social y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades o accidentes y de prevención de discapacidades y de rehabilitación de personas con discapacidad.
+La Secretaría de Salud y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades o accidentes y de prevención de discapacidades y de rehabilitación de personas con discapacidad.
 
 ###### ARTICULO 53.
 
@@ -643,9 +701,13 @@ V.- La participación en el establecimiento de mecanismos idóneos para la deter
 
 Los comités de salud a que se refiere esta Ley, promoverán que en las poblaciones y comunidades semi-urbanas y rurales se impartan pláticas de orientación en materia de planificación familiar. Las instituciones de salud y educativas, brindarán al efecto el apoyo necesario.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 65.
 
-El Ejecutivo del Estado coadyuvará con la Secretaría de Salud en las acciones del programa nacional de planificación familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud y cuidará que se incorporen en los programas estatales de salud.
+El Ejecutivo del Estado coadyuvará con la Secretaría de Salud Federal en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud y cuidará que se incorporen en los programas estatales de salud.
 
 ### CAPITULO VII. SALUD MENTAL
 
@@ -653,11 +715,13 @@ El Ejecutivo del Estado coadyuvará con la Secretaría de Salud en las acciones 
 
 La prevención de las enfermedades mentales se basará en el conocimiento de los factores que afecten la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 67.
 
-Para la promoción de la salud mental, la Secretaría de Fomento Social y las instituciones de salud, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+Para la promoción de la salud mental, la Secretaría de Salud y las instituciones de salud, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
 I.- El desarrollo de actividades educativas, socio-culturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
@@ -685,13 +749,19 @@ I.- El cuidado de personas con padecimientos mentales, la rehabilitación siqui�
 
 II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales;
 
-> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- El internamiento de personas con padecimientos mentales en establecimientos destinados a su tratamiento, control y/o curación. El internamiento deberá ser necesariamente, a referencia de un profesional de salud mental, se ajustará a las disposiciones legales aplicables, a los principios éticos y sociales, y a los requisitos que determinen la Secretaría de Salud del Gobierno Federal y, en su caso, la Secretaría de Fomento Social, respetando la dignidad del usuario y propiciando su reintegración a la vida social.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+III.- El internamiento de personas con padecimientos mentales en establecimientos destinados a su tratamiento, control y/o curación. El internamiento deberá ser necesariamente, a referencia de un profesional de salud mental, se ajustará a las disposiciones legales aplicables, a los principios éticos y sociales, y a los requisitos que determine la Secretaría de Salud del Gobierno Federal y, en su caso, la Secretaría de Salud Estatal, respetando la dignidad del usuario y propiciando su reintegración a la vida social.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 69.
 
-La Dirección General de Desarrollo Social conforme a las normas técnicas básicas que establezca la Secretaría de Salud, prestará atención a los enfermos mentales que se encuentren en instituciones estatales no especializadas en salud mental.
+La Secretaría de Salud, conforme a las normas técnicas básicas que establezca la Secretaría de Salud Federal, prestará atención a los enfermos mentales que se encuentren en instituciones estatales no especializadas en salud mental.
 
 A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
@@ -785,17 +855,25 @@ III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro
 
 IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 82.
 
-La Dirección General de Desarrollo Social sugerirá a las autoridades e instituciones educativas, cuando éstas lo soliciten, criterios sobre:
+La Secretaría de Salud, sugerirá a las autoridades e instituciones educativas, cuando éstas lo soliciten, criterios sobre:
 
 I.- Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos; y
 
 II.- El perfil de los profesionales para la salud en sus etapas de formación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 83.
 
-La Dirección General de Desarrollo Social en coordinación con las autoridades federales competentes, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
+La Secretaría de Salud, en coordinación con las autoridades federales competentes, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
 
 ###### ARTICULO 84.
 
@@ -823,9 +901,13 @@ V.- Al estudio de las técnicas y métodos que se recomienden o empleen para la 
 
 VI.- A la producción nacional de insumos para la salud.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 86.
 
-La Dirección General de Desarrollo Social apoyará y estimulará el funcionamiento de establecimientos públicos destinados a la investigación para la salud.
+La Secretaría de Salud apoyará y estimulará el funcionamiento de establecimientos públicos destinados a la investigación para la salud.
 
 ###### ARTICULO 87.
 
@@ -857,9 +939,13 @@ En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recu
 
 ### CAPITULO UNICO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 90.
 
-La Dirección General de Desarrollo Social, de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el estado y evolución de la salud pública de la Entidad.
+La Secretaría de Salud, de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el estado y evolución de la salud pública de la Entidad.
 
 La información se referirá, fundamentalmente, a los siguientes aspectos:
 
@@ -935,9 +1021,13 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 Las autoridades sanitarias del Estado tomarán las medidas y realizarán las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana ante los riesgos y daños dependientes de las condiciones del ambiente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 99.
 
-Corresponde a la Dirección General de Desarrollo Social:
+Corresponde a la Secretaría de Salud:
 
 I.- Promover la investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
 
@@ -945,9 +1035,13 @@ II.- Vigilar la calidad del agua para uso y consumo humano; y
 
 III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de fuentes de radiación, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 100.
 
-La Dirección citada se coordinará con las dependencias federales competentes, para la prestación de los servicios a que se refiere este Capítulo.
+La Secretaría de Salud se coordinará con las dependencias federales competentes, para la prestación de los servicios a que se refiere este Capítulo.
 
 ###### ARTICULO 101.
 
@@ -959,9 +1053,13 @@ Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier 
 
 Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas para uso o consumo de la población, estarán obligados a darles el tratamiento correspondiente a fin de evitar riesgos para la salud humana de conformidad con las disposiciones aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 103.
 
-La Dirección aludida en coordinación con las autoridades federales competentes, con las autoridades ejidales y comunales correspondientes y con la autoridad encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas, desperdicios o basura.
+La Secretaría de Salud, en coordinación con las autoridades federales y estatales, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas, desperdicios o basura.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2004)</small>
 
@@ -969,9 +1067,13 @@ A efecto de evitar graves daños en la salud pública, queda prohibido el riego 
 
 ### CAPITULO V. SALUD OCUPACIONAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 104.
 
-La Dirección General de Desarrollo Social tendrá a su cargo el control sanitario de los establecimientos en los que se realicen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con lo que establezcan los reglamentos respectivos.
+La Secretaría de Salud tendrá a su cargo el control sanitario de los establecimientos en los que se realicen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
 ###### ARTICULO 105.
 
@@ -987,9 +1089,13 @@ El Ejecutivo en coordinación con las autoridades federales e instituciones comp
 
 ### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 107.
 
-Las autoridades sanitarias estatales, en coordinación con las autoridades sanitarias federales, realizarán campañas temporales o permanentes, para el control y erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la República.
+Las Autoridades Sanitarias estatales, en coordinación con las Autoridades Sanitarias federales, realizarán campañas temporales o permanentes, para el control y erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la República.
 
 Realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
 
@@ -1001,7 +1107,11 @@ III.- Tuberculosis;
 
 IV.- Difteria, tosferina, tétanos, sarampión, poliomielitis, rubéola y parotiditis infecciosa;
 
-V.- Rabia, peste, brucelosis y otras zoonosis. En estos casos, la Secretaría de Salud coordinará sus actividades con la Secretaría de Agricultura y Recursos Hidráulicos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+V.- Rabia, peste, brucelosis y otras zoonosis. En estos casos, la Secretaría de Salud Federal coordinará sus actividades con la Secretaría de Agricultura Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 VI.- Fiebre amarilla, dengue y otras enfermedades virales transmitidas por artrópodos;
 
@@ -1039,9 +1149,13 @@ Las personas que ejerzan la medicina o que realicen actividades afines, están o
 
 Están obligados a dar aviso, en los términos de los Artículos 108 y 109 de esta Ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficinas, establecimientos comerciales o de cualquier otra índole y en general toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de alguno de los casos de enfermedades mencionadas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 111.
 
-Las medidas que se requieren para la prevención y el control de las enfermedades que enumera el Artículo 108 de esta Ley, deberán ser observadas por los particulares; el ejercicio de esta acción comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+Las medidas que se requieren para la prevención y el control de las enfermedades que enumera el artículo 108 de esta Ley, deberán ser observadas por los particulares; el ejercicio de esta acción comprenderá una o más de las siguientes medidas, según el caso de que se trate:
 
 I.- La confirmación de la enfermedad por los medios clínicos disponibles;
 
@@ -1057,11 +1171,19 @@ VI.- La destrucción o control de vectores y reservorios y de fuentes de infecci
 
 VII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuente o vehículos de agentes patógenos; y
 
-VIII.- Las demás que señale esta Ley, sus reglamentos y la Secretaría de Salud.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Las demás que señale esta Ley, sus Reglamentos y la Secretaría de Salud Federal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 112.
 
-Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de esta Ley, las que expida el Consejo de Salubridad General y las normas técnicas que dicte la Secretaría de Salud.
+Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de esta Ley, las que expida el Consejo de Salubridad General y las normas técnicas que dicte la Secretaría de Salud Federal.
 
 ###### ARTICULO 113.
 
@@ -1129,9 +1251,11 @@ ARTICULO 123 BIS.- Se establecerán los programas especiales de detección y ate
 
 Dichos programas serán gratuitos y permanentes.
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ARTICULO 123 TER.- La Secretaría de Fomento Social será responsable de planear, organizar, coordinar, ejecutar y vigilar dichos programas.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 123 TER.- La Secretaría de Salud será responsable de planear, organizar, coordinar, ejecutar y vigilar dichos programas.
 
 ### CAPITULO IV. ACCIDENTES
 
@@ -1231,33 +1355,47 @@ El Gobernador del Estado y los municipios, en coordinación con las dependencias
 
 La autoridad sanitaria del Estado podrá autorizar la construcción de instituciones privadas cuyo objeto sea la prestación de servicios asistenciales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### ARTICULO 135.
 
-Serán consideradas instituciones de asistencia privada las que se constituyan conforme a esta Ley, a su ordenamiento correspondiente y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales sin propósito de lucro y sin designar individualmente a los beneficiarios.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 136.
 
-Se crea la Junta de Asistencia Privada como órgano dependiente del Departamento de Salud de la Dirección General de Desarrollo Social, a través del cual se ejercerá la vigilancia y promoción de las instituciones de asistencia privada.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 137.
 
-Serán consideradas instituciones de asistencia privada los asilos, los hospicios, las casas de cuna y las demás que determine la Ley.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 138.
 
-La integración, funcionamiento y facultades de la Junta de Asistencia Privada, será determinada por la ley respectiva.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 139.
 
-Los organismos a que se refiere el artículo 131 de esta Ley, coadyuvarán con la Junta de Asistencia Privada en la vigilancia y promoción de las instituciones de asistencia privada, estableciendo al efecto los mecanismos de coordinación necesarios.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 140.
 
-Las instituciones de asistencia privada se consideran de interés público.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 141.
 
-Las normas de constitución, operación, organización, liquidación y demás aspectos concernientes a las instituciones de asistencia privada serán establecidas en el reglamento.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2009)
 
 ###### ARTICULO 142.
 
@@ -1267,11 +1405,11 @@ Los servicios y acciones que presten y realicen las instituciones de asistencia 
 
 Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitatoria, cuando así se requiera.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 144.
 
-La Dirección General de Desarrollo Social, en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos; se dispongan facilidades para las personas con discapacidad.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2009)
 
 ###### ARTICULO 145.
 
@@ -1381,9 +1519,13 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 155.
 
-El Ejecutivo del Estado coadyuvará con la Secretaría de Salud en la ejecución del programa nacional contra la farmacodependencia.
+El Ejecutivo del Estado coadyuvará con la Secretaría de Salud Federal en la ejecución del Programa Nacional contra la farmacodependencia.
 
 ###### ARTICULO 156.
 
@@ -1401,15 +1543,27 @@ A los establecimientos que vendan o utilicen substancias inhalantes con efectos 
 
 ### CAPITULO IV. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 157.
 
-De conformidad con las normas técnicas que expida la Secretaría de Salud y el Ejecutivo del Estado, se ejercerá el control sanitario de los establecimientos que expendan o suministren alimentos, bebidas alcohólicas y no alcohólicas.
+De conformidad con las normas técnicas que expida la Secretaría de Salud Federal y el Ejecutivo del Estado, se ejercerá el control sanitario de los establecimientos que expendan o suministren alimentos, bebidas alcohólicas y no alcohólicas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 158.
 
-La Dirección General de Desarrollo Social, en los términos de esta Ley y demás disposiciones aplicables, autorizará la ubicación, el funcionamiento y horarios de los establecimientos a que se refiere este capítulo, previa opinión de los presidentes municipales y, por lo que corresponde a los negocios que expendan bebidas alcohólicas, el Departamento de Gobernación decidirá en definitiva oyendo la opinión de la Dirección General de Desarrollo Social y de los ayuntamientos.
+La Secretaría de Salud, en los términos de esta Ley y demás disposiciones aplicables, autorizará la ubicación, el funcionamiento y horarios de los establecimientos a que se refiere este Capítulo, previa opinión de los Presidentes Municipales y, por lo que corresponde a los negocios que expendan bebidas alcohólicas, el Departamento de Gobernación decidirá en definitiva oyendo la opinión de la Secretaría de Salud y de los Ayuntamientos.
 
 ###### ARTICULO 159.
 
@@ -1427,7 +1581,7 @@ El Ejecutivo del estado podrá celebrar con los municipios, los convenios conduc
 
 ###### ARTICULO 161.
 
-Compete a la Dirección General de Desarrollo Social, en los términos de esta Ley y de las demás disposiciones legales aplicables, el control sanitario de las materias a que se refiere el Artículo 3, apartado "B" de esta Ley.
+Compete a la Secretaría de Salud, en los términos de esta Ley y de las demás disposiciones legales aplicables, el control sanitario de las materias a que se refiere el artículo 3, apartado "B" de esta Ley.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
 
@@ -1435,11 +1589,13 @@ Compete a la Dirección General de Desarrollo Social, en los términos de esta L
 
 Se entiende por control y regulación sanitaria el conjunto de actos que lleve a cabo la autoridad, a fin de prevenir riesgos y daños a la salud de la población, y comprende: la expedición de las normas técnicas que deban satisfacer las materias de salud local, la vigilancia sanitaria, el otorgamiento de autorizaciones, la aplicación de medidas de seguridad y la imposición de sanciones a que se refiere esta ley.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 163.
 
-Para los efectos de esta ley, se entiende por norma técnica el conjunto de reglas científicas y tecnológicas de carácter obligatorio emitida por la Dirección General de Fomento Social con el objeto de establecer los requisitos que deban satisfacerse en el desarrollo de actividades en materia de salud local.
+Para los efectos de esta Ley, se entiende por norma técnica el conjunto de reglas científicas y tecnológicas de carácter obligatorio emitidas por la Secretaría de Salud, con el objeto de establecer los requisitos que deban satisfacerse en el desarrollo de actividades en materia de salud local.
 
 ###### ARTICULO 164.
 
@@ -1599,9 +1755,13 @@ Todas las poblaciones del Estado deberán contar con sistemas para el desagüe r
 
 En las poblaciones donde no haya sistema de alcantarillado se estará a lo dispuesto por esta Ley y demás disposiciones aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 198.
 
-Los proyectos para la implantación de sistemas de alcantarillado deberán ser estudiados y aprobados por la Junta Central de Agua y Saneamiento del Estado y las Juntas Municipales respectivas y la obra se llevará a cabo bajo la inspección de la Dirección General de Desarrollo Social.
+Los proyectos para la implantación de sistemas de alcantarillado deberán ser estudiados y aprobados por la Junta Central de Agua y Saneamiento del Estado y las Juntas Municipales respectivas y la obra se llevará a cabo bajo la inspección de la Secretaría de Salud.
 
 ###### ARTICULO 199.
 
@@ -1631,9 +1791,13 @@ Las condiciones sanitarias que deban reunir los establos, granjas, caballerizas 
 
 Se entiende por reclusorio, el local destinado a la internación de quienes se encuentren privados de su libertad corporal por estar a disposición de una autoridad judicial o por una resolución judicial o administrativa.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 205.
 
-Los reclusorios en cuanto a sus condiciones sanitarias estarán sujetos al control de la Dirección General de Desarrollo Social, de conformidad con las disposiciones que se señalan en esta Ley y demás preceptos aplicables.
+Los reclusorios en cuanto a sus condiciones sanitarias estarán sujetos al control de la Secretaría de Salud, de conformidad con las disposiciones que se señalan en esta Ley y demás preceptos aplicables.
 
 ###### ARTICULO 206.
 
@@ -1687,6 +1851,10 @@ Se entiende por transporte todo aquel vehículo destinado al traslado de carga d
 
 ### CAPITULO I. AUTORIZACIONES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 216.
 
 Se entiende por gasolinera el establecimiento destinado al expendio o suministro de gasolinas, aceites y demás productos derivados del petróleo.
@@ -1699,9 +1867,13 @@ Las gasolineras deberán contar con las instalaciones de seguridad que establezc
 
 ### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 218.
 
-La autorización sanitaria es el acto administrativo mediante el cual la Dirección General de Desarrollo Social por conducto del Departamento de Salud, permite a una persona física o moral, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley, sus reglamentos y las normas técnicas que para tal efecto se dicten.
+La autorización sanitaria es el acto administrativo mediante el cual la Secretaría de Salud, permite a una persona física o moral, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley, sus Reglamentos y las normas técnicas que para tal efecto se dicten.
 
 Las autorizaciones sanitarias tendrán carácter de licencias, permisos o tarjetas de control sanitario, en su caso.
 
@@ -1711,9 +1883,13 @@ Las autorizaciones sanitarias serán otorgadas por tiempo determinado, con las e
 
 La autoridad sanitaria competente llevará a cabo actividades de censo de estas autorizaciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 220.
 
-La Dirección General de Desarrollo Social, por conducto del Departamento de Salud, expedirá las autorizaciones respectivas cuando el solicitante hubiere satisfecho los requisitos que señalen las normas aplicables y cubierto, en su caso, los derechos que establezca la legislación fiscal.
+La Secretaría de Salud, expedirá las autorizaciones respectivas cuando el solicitante hubiere satisfecho los requisitos que señalen las normas aplicables y cubierto, en su caso, los derechos que establezca la legislación fiscal.
 
 ###### ARTICULO 221.
 
@@ -1725,9 +1901,13 @@ La prórroga procederá cuando se sigan cumpliendo las disposiciones señaladas 
 
 En el caso de las licencias sanitarias, la solicitud de revalidación deberá presentarse dentro de los treinta días anteriores a su vencimiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 222.
 
-La Dirección General de Desarrollo Social por conducto del Departamento de Salud, expedirá la licencia sanitaria para el funcionamiento de establecimientos que presten servicios de asistencia social.
+La Secretaría de Salud expedirá la licencia sanitaria para el funcionamiento de establecimientos que presten servicios de asistencia social.
 
 ###### ARTICULO 223.
 
@@ -1745,9 +1925,13 @@ III.- Los demás casos que se señalen en esta Ley y otras disposiciones aplicab
 
 Las construcciones y demás obras que se realicen en los establecimientos de salud, públicos y privados, se sujetarán a las disposiciones de la Ley General de Salud y sus normas complementarias.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 225.
 
-La Dirección General de Desarrollo Social, por conducto del Departamento de Salud, podrá requerir tarjeta de control sanitario a las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible.
+La Secretaría de Salud podrá requerir tarjeta de control sanitario a las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible.
 
 ###### ARTICULO 226.
 
@@ -1759,9 +1943,13 @@ Los ingresos que se obtengan por los servicios de salubridad local que se preste
 
 ### CAPITULO III. CERTIFICADOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 228.
 
-La Dirección General de Desarrollo Social, podrá revocar las autorizaciones que haya otorgado, en los siguientes casos:
+La Secretaría de Salud, podrá revocar las autorizaciones que haya otorgado, en los siguientes casos:
 
 I.- Cuando, por causas supervenientes, se compruebe que el ejercicio de las actividades que se hubieren autorizado, constituyen riesgo o daño para la salud humana;
 
@@ -1781,13 +1969,21 @@ VIII.- Cuando lo solicite el interesado; y
 
 IX.- En los demás casos que determine la autoridad sanitaria competente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 229.
 
-Cuando la revocación de una autoridad se funde en los riesgos o daños que pueda causar o cause un servicio, la Dirección a través del Departamento mencionado dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
+Cuando la revocación de una autoridad se funde en los riesgos o daños que pueda causar o cause un servicio, la Secretaría de Salud dará conocimiento de tales revocaciones a las dependencias y entidades públicas que tengan atribuciones de orientación al consumidor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 230.
 
-En los casos a los que se refiere el Artículo 228 de esta Ley, con excepción del previsto en la Fracción VIII, la Dirección por conducto del Departamento aludido notificará al interesado a una audiencia para que éste ofrezca pruebas y alegue lo que a su derecho convenga.
+En los casos a los que se refiere el artículo 228 de esta Ley, con excepción del previsto en la fracción VIII, la Secretaría de Salud notificará al interesado a una audiencia para que éste ofrezca pruebas y alegue lo que a su derecho convenga.
 
 En la notificación que se hará personalmente al interesado, se le hará saber la causa que motive el procedimiento, el lugar, día y hora de celebración de la audiencia el derecho que tiene para ofrecer pruebas y alegar lo que a su interés convenga así como el apercibimiento de que si no comparece sin justa causa, la resolución se dictará tomando en cuenta sólo las constancias del expediente. Si no se encontrare el interesado, se le dejará cita de espera para el día siguiente y si no estuviese presente, se entenderá la diligencia con cualquier persona que trabaje en el lugar.
 
@@ -1801,9 +1997,13 @@ La audiencia se celebrará el día y hora señalados, con o sin la asistencia de
 
 La celebración de la audiencia podrá diferirse por una sola vez cuando lo solicite el interesado por una causa debidamente justificada, a juicio de la autoridad sanitaria que instruya el procedimiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 233.
 
-La Dirección, a través del Departamento citado emitirá la resolución que corresponda al concluir la audiencia o dentro de los cinco días hábiles siguientes, la cual se notificará personalmente al interesado.
+La Secretaría de Salud emitirá la resolución que corresponda al concluir la audiencia o dentro de los cinco días hábiles siguientes, la cual se notificará personalmente al interesado.
 
 ###### ARTICULO 234.
 
@@ -1813,11 +2013,15 @@ La resolución de revocación surtirá efectos, en su caso, de clausura definiti
 
 ###### ARTICULO 235.
 
-Se entiende por certificado la constancia expedida en los términos que establezca la Dirección General de Desarrollo Social por conducto del Departamento de Salud, para la comprobación o información de determinados hechos.
+Se entiende por certificado la constancia expedida en los términos que establezca la Secretaría de Salud, para la comprobación o información de determinados hechos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 236.
 
-Para fines sanitarios la Dirección, a través de su Departamento expedirá los siguientes certificados:
+Para fines sanitarios la Secretaría de Salud expedirá los siguientes certificados:
 
 I.- Prenupciales;
 
@@ -1835,9 +2039,13 @@ El certificado médico prenupcial será requerido por las autoridades del Regist
 
 Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinado sus causas, por profesionales de la medicina.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 239.
 
-Los certificados a que se refiere este Título, se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas técnicas que la misma emita.
+Los certificados a que se refiere este Título, se extenderán en los modelos aprobados por la Secretaría de Salud Federal y de conformidad con las normas técnicas que la misma emita.
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
@@ -1849,7 +2057,11 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 Corresponde a las autoridades sanitarias del Estado en sus respectivos ámbitos de competencia, la vigilancia del cumplimiento de esta Ley y demás disposiciones que se dicten con base en ella.
 
-Respecto a las funciones de control y regulación sanitaria que se descentralicen a los municipios, la Dirección General de Desarrollo Social podrá realizar acciones para evitar riesgos o daños a la salud de la población. En todos los casos, dará conocimiento a las autoridades municipales de las acciones que lleve a cabo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+Respecto a las funciones de control y regulación sanitaria que se descentralicen a los municipios, la Secretaría de Salud podrá realizar acciones para evitar riesgos o daños a la salud de la población. En todos los casos, dará conocimiento a las autoridades municipales de las acciones que lleve a cabo.
 
 ###### ARTICULO 241.
 
@@ -1859,45 +2071,85 @@ Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del c
 
 El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores con independencia de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 243.
 
-La vigilancia sanitaria se llevará a cabo mediante visitas a cargo de inspectores designados por la Dirección General de Desarrollo Social por conducto del Departamento de Salud, quienes deberán realizar las respectivas diligencias de conformidad con los preceptos de esta Ley y demás disposiciones aplicables.
+La vigilancia sanitaria se llevará a cabo mediante visitas a cargo de verificadores designados por la Secretaría de Salud, quien deberá realizar las respectivas diligencias de conformidad con los preceptos de esta Ley y demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 244.
 
-La autoridad sanitaria competente podrá encomendar a sus inspectores, además de lo señalado en el artículo anterior, actividades de orientación, educación y en su caso, aplicación de las medidas de seguridad, a que se refiere el artículo 250 de esta Ley.
+La Autoridad Sanitaria competente podrá encomendar a sus verificadores, además de lo señalado en el artículo anterior, actividades de orientación, educación y en su caso, aplicación de las medidas de seguridad, a que se refiere el artículo 250 de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 245.
 
-Las inspecciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo.
+Las verificaciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo.
 
 Para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicios, se considerarán horas hábiles las de su funcionamiento habitual.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 246.
 
-Los inspectores sanitarios, en el ejercicio de sus funciones, tendrán libre acceso a los edificios, establecimientos comerciales y de servicios y en general, a todos los lugares a que hace referencia esta Ley.
+Los verificadores sanitarios, en el ejercicio de sus funciones, tendrán libre acceso a los edificios, establecimientos comerciales y de servicios y, en general, a todos los lugares a que hace referencia esta Ley.
 
-Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de inspección, estarán obligados a permitir el acceso y a dar facilidades e informes a los inspectores para el desarrollo de su labor.
+Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación, estarán obligados a permitir el acceso y a dar facilidades e informes a los verificadores para el desarrollo de su labor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 247.
 
-Los inspectores, para practicar visitas, deberán estar provistos de órdenes escritas, en las que se deberá precisar el lugar o zona que ha de inspeccionarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+Los verificadores, para practicar visitas, deberán estar provistos de órdenes escritas, en las que se deberá precisar el lugar o zona que ha de inspeccionarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
 
-La orden de inspección deberá ser exhibida a la persona con quien se entienda la diligencia, a quien se le entregará una copia.
+La orden de verificación deberá ser exhibida a la persona con quien se entienda la diligencia a quien se le entregará una copia.
 
-Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividades o señalar al inspector la zona en la que vigilará el cumplimiento por todos los obligados, de las disposiciones sanitarias.
+Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividades o señalar al verificador la zona en la que vigilará el cumplimiento por todos los obligados, de las disposiciones sanitarias.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 248.
 
-En la diligencia de inspección sanitaria se deberán observar las siguientes reglas:
+En la diligencia de verificación sanitaria se deberán observar las siguientes reglas:
 
-I.- Al iniciar la visita el inspector deberá exhibir la credencial vigente, expedida por la Dirección General de Desarrollo Social que lo acredite legalmente para desempeñar dicha función. Esta circunstancia se deberá anotar en el acta correspondiente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, que proponga dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la inspección. Estas circunstancias, el nombre, domicilio y firma de los testigos, se hará constar en el acta;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
-III.- En el acta que se levante con motivo de la inspección, se harán constar las circunstancias de la diligencia las deficiencias o anomalías sanitarias observadas y, en su caso, las medidas de seguridad que se ejecuten; y
+I.- Al iniciar la visita, el verificador deberá exhibir la credencial vigente, expedida por la Secretaría de Salud que lo acredite legalmente para desempeñar dicha función. Esta circunstancia se deberá anotar en el acta correspondiente;
 
-IV.- Al concluir la inspección, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que se le entregará una copia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+II.- Se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, que proponga dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la verificación. Estas circunstancias, el nombre, domicilio y firma de los testigos, se hará constar en el acta;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+III.- En el acta que se levante con motivo de la verificación, se harán constar las circunstancias de la diligencia, las deficiencias o anomalías sanitarias observadas y, en su caso, las medidas de seguridad que se ejecuten; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+IV.- Al concluir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que se le entregará una copia.
 
 La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
 
@@ -1967,9 +2219,13 @@ III.- Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
 El Ejecutivo del Estado podrá ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 256.
 
-La Dirección General de Desarrollo Social, a través del Departamento de Salud, ejecutará las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando éstos constituyan un peligro grave para la salud de las personas.
+La Secretaría de Salud ejecutará las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando éstos constituyan un peligro grave para la salud de las personas.
 
 En todo caso, se dará a las dependencias encargadas de la sanidad animal la intervención que corresponda.
 
@@ -2079,6 +2335,10 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 ### CAPITULO IV. RECURSOS DE REVISION Y REVOCACION
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 273.
 
 Para los efectos de esta Ley, el ejercicio de las facultades discrecionales por parte del Ejecutivo del Estado, se sujetará a los siguientes criterios:
@@ -2119,17 +2379,25 @@ X.- Jerarquía; y
 
 XI.- Buena fe.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 275.
 
-La Dirección General de Desarrollo Social, con base en el resultado de la inspección, dictará las medidas necesarias para corregir, en su caso, las irregularidades que se hubieren encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización.
+La Secretaría de Salud, con base en el resultado de la verificación, dictará las medidas necesarias para corregir, en su caso, las irregularidades que se hubieren encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización.
 
 ###### ARTICULO 276.
 
 La autoridad sanitaria competente hará uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 277.
 
-Turnada una acta de inspección, se citará al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no menor de cinco días, ni mayor de treinta, comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes, en relación con los hechos asentados en el acta de inspección.
+Turnada una acta de verificación, se citará al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no menor de cinco días, ni mayor de treinta, comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes, en relación con los hechos asentados en el acta de verificación.
 
 ###### ARTICULO 278.
 
@@ -2155,15 +2423,19 @@ Cuando del contenido de una acta de inspección se desprenda la posible comisió
 
 ###### ARTICULO 283.
 
-Contra actos y resoluciones de la Dirección General de Desarrollo Social, del Departamento de Salud, o cualquier otra dependencia sanitaria estatal, que con motivo de la aplicación de esta Ley den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de revisión.
+Contra actos y resoluciones de la Secretaría de Salud o cualquier otra dependencia sanitaria estatal, que con motivo de la aplicación de esta Ley den fin a una instancia o resuelvan un expediente, los interesados podrán interponer el recurso de revisión.
 
 ###### ARTICULO 284.
 
 El plazo para interponer el recurso será de quince días hábiles, contados a partir del día siguiente a aquél en que se hubiere notificado la resolución o acto que se recurra.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 285.
 
-El recurso se interpondrá ante la Dirección General de Desarrollo Social, directamente o por correo certificado con acuse de recibo, en este último caso, se tendrá como fecha de prestación la del día de su depósito en la oficina de correos.
+El recurso se interpondrá ante la Secretaría de Salud directamente o por correo certificado con acuse de recibo, en este último caso, se tendrá como fecha de prestación la del día de su depósito en la oficina de correos.
 
 ###### ARTICULO 286.
 
@@ -2181,11 +2453,15 @@ III.- Original o copia de la resolución impugnada.
 
 En la tramitación del recurso se admitirá toda clase de medios probatorios, excepto la confesional.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 288.
 
-Interpuesto el recurso ante la Dirección General de Desarrollo Social, esta suspenderá la ejecución del acto impugnado de encontrarse en las hipótesis que establece el Artículo 292 de esta Ley.
+Interpuesto el recurso ante la Secretaría de Salud, esta suspenderá la ejecución del acto impugnado de encontrarse en las hipótesis que establece el artículo 292 de esta Ley.
 
-Si el recurso impugna resoluciones o actos de la Dirección General de Desarrollo Social, del Departamento de Salud o de cualquiera otra dependencia sanitaria estatal la Dirección enviará el expediente para la tramitación del recurso a la Secretaría de Gobierno, la que verificará si fue interpuesto en tiempo y es procedente admitirlo, pues de lo contrario, lo desechará de plano o lo mandará aclarar, concediéndole al recurrente para tal efecto un término de cinco días hábiles.
+Si el recurso impugna resoluciones o actos de la Secretaría de Salud, o de cualquiera otra dependencia sanitaria estatal ésta enviará el expediente para la tramitación del recurso a la Secretaría General de Gobierno, la que verificará si fue interpuesto en tiempo y es procedente admitirlo, pues de lo contrario, lo desechará de plano o lo mandará aclarar, concediéndole al recurrente para tal efecto un término de cinco días hábiles.
 
 ###### ARTICULO 289.
 
@@ -2201,9 +2477,13 @@ Contra los actos del Gobernador del Estado en materia sanitaria, salvo los que r
 
 La interposición, tramitación y resolución del recurso de revocación se sujetará a lo dispuesto en los Artículos 285, 286, 287, 288 y 289 en lo que no se oponga a su naturaleza.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 291.
 
-A solicitud de los particulares que se consideren afectados por alguna resolución o acto de la Autoridad Sanitaria Estatal, la Dirección General de Desarrollo Social los orientará sobre el derecho que tienen de recurrir la resolución o acto que se trate y sobre la tramitación de los recursos.
+A solicitud de los particulares que se consideren afectados por alguna resolución o acto de la Autoridad Sanitaria Estatal, la Secretaría de Salud los orientará sobre el derecho que tienen de recurrir la resolución o acto que se trate y sobre la tramitación de los recursos.
 
 ###### ARTICULO 292.
 
@@ -2370,3 +2650,25 @@ CUARTO.- Todos los procedimientos, recursos administrativos y demás asuntos rel
 QUINTO.- Los municipios deberán adecuar sus reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con la competencia que le corresponda para que sea congruente con la presente Ley.
 
 SEXTO.- Los propietarios, administradores o responsables contarán con 90 días para realizar las modificaciones o adecuaciones necesarias para contar con zonas exclusivas para fumar, después de entrar en vigor la presente Ley.
+
+P.O. 5 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil diez, con las modalidades que se señalan en los artículos subsecuentes.
+
+SEGUNDO.- Para el cumplimiento del presente Decreto, se faculta al Ejecutivo del Estado, para organizar la estructura administrativa de las Secretarías de Fomento Social y de Salud, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales.
+
+TERCERO.- Los trámites de los asuntos en materia de salud, iniciados ante la Secretaría de Fomento Social, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Secretaría de Salud.
+
+CUARTO.- Dentro del término de 90 días siguientes a la entrada en vigor del presente Decreto, se deberán expedir las disposiciones reglamentarias en la materia.
+
+QUINTO.- A partir de la entrada en vigor del presente Decreto, se fija un término de 30 días naturales para realizar el procedimiento de entrega-recepción de los recursos humanos, materiales y financieros por parte de la Secretaría de Fomento Social a la Secretaría de Salud.
+
+SEXTO.- Los servidores públicos adscritos a la Secretaría de Fomento Social, que pasen a formar parte de la Secretaría de Salud, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+SÉPTIMO.- Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Fomento Social en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Secretaría de Salud, de acuerdo a las facultades que mediante el presente Decreto se les otorga.
+
+OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados con la Ley Estatal de Salud, que se hubieren iniciado bajo la vigencia del Código Administrativo del Estado, se tramitarán y resolverán conforme a las disposiciones del citado Código.
+
+NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
+
+DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
