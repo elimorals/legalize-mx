@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-sesiones-de-los-consejos-electorales-del-46677"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-12"
-last_updated: "2005-10-12"
+last_updated: "2009-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 12 de octubre de 2005.
 
@@ -588,3 +590,13 @@ PRIMERO. Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
 SEGUNDO. Este reglamento entrará en vigor a partir del día siguiente de su aprobación por el Consejo General.
 
 Dado en las sala de sesiones del Consejo General del Instituto Electoral del Estado de Zacatecas a los veintisiete (27) días del mes de septiembre de dos mil cinco (2005).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE DICIEMBRE DE 2009.
+
+Artículo Primero. Se abroga el Reglamento de Sesiones de los Consejos Electorales del Instituto Electoral del Estado de Zacatecas, aprobado por el Consejo General del Instituto Electoral del Estado de Zacatecas el veintisiete (27) de septiembre de dos mil cinco (2005).
+
+Artículo Segundo. Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado y en la página Web del instituto.
+
+Artículo Tercero. El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
