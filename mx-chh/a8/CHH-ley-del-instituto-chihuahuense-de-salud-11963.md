@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-salud-11963"
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-16"
-last_updated: "2003-09-24"
+last_updated: "2009-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 16 de septiembre de 1987.
 
@@ -91,19 +91,39 @@ La administración del Organismo estará a cargo de un Consejo Directivo y de un
 
 ###### Artículo 6.
 
-El Consejo Directivo será el órgano rector del Instituto y se integrara de la siguiente forma:
+El Consejo Directivo será el órgano rector del Instituto y se integrará de la siguiente forma:
 
 I.- Por el Titular del Poder Ejecutivo, quien fungirá como Presidente, o por la persona en quien delegue su representación;
 
-II.- Por el Director General de Desarrollo Social, quien fungirá como Secretario Técnico;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Por el Director General de Fomento Económico;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
-IV.- Por el Director General de Desarrollo Rural;
+II.- Por el Secretario de Salud, quien fungirá como Secretario Técnico;
 
-V.- Por el Director General de Finanzas; y (sic)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Por el Coordinador de Planeación y Evaluación;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+III.- Por el Secretario de Desarrollo Comercial y Turístico;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+IV.- Por el Secretario de Desarrollo Rural;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+V.- Por el Secretario de Finanzas y Administración;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+VI.- Por el Secretario de Planeación y Evaluación; y
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
@@ -248,3 +268,25 @@ LIC. MARTHA I. LARA ALATORRE.
 P.O. 24 DE SEPTIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil diez, con las modalidades que se señalan en los artículos subsecuentes.
+
+SEGUNDO.- Para el cumplimiento del presente Decreto, se faculta al Ejecutivo del Estado, para organizar la estructura administrativa de las Secretarías de Fomento Social y de Salud, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales.
+
+TERCERO.- Los trámites de los asuntos en materia de salud, iniciados ante la Secretaría de Fomento Social, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Secretaría de Salud.
+
+CUARTO.- Dentro del término de 90 días siguientes a la entrada en vigor del presente Decreto, se deberán expedir las disposiciones reglamentarias en la materia.
+
+QUINTO.- A partir de la entrada en vigor del presente Decreto, se fija un término de 30 días naturales para realizar el procedimiento de entrega-recepción de los recursos humanos, materiales y financieros por parte de la Secretaría de Fomento Social a la Secretaría de Salud.
+
+SEXTO.- Los servidores públicos adscritos a la Secretaría de Fomento Social, que pasen a formar parte de la Secretaría de Salud, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+SÉPTIMO.- Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Fomento Social en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Secretaría de Salud, de acuerdo a las facultades que mediante el presente Decreto se les otorga.
+
+OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados con la Ley Estatal de Salud, que se hubieren iniciado bajo la vigencia del Código Administrativo del Estado, se tramitarán y resolverán conforme a las disposiciones del citado Código.
+
+NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
+
+DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
