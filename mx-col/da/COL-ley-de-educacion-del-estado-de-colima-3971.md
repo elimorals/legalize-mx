@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "2009-07-25"
+last_updated: "2009-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACION DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -265,9 +265,9 @@ XXVI.- Otorgar un salario profesional a los educadores para que alcancen un nive
 
 XXVII.- Promover conjuntamente con la Secretaría de Salud, programas y acciones que fomenten en los Directivos de las Escuelas, Maestros, Padres de Familia, encargados de los Establecimientos Escolares y especialmente en los Educandos, una alimentación correcta, es decir equilibrada, suficiente, completa, higiénica y variada que, junto con la práctica de actividad física mejore su crecimiento y desarrollo;
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
-XXVIII.- De la misma forma, establecer estrategias y mecanismos con el fin de prohibir la venta de productos con alto contenido de azúcares refinados, colesterol, ácidos grasos saturados, ácidos grasos trans (sic), sal y aditivos en los Establecimientos Escolares y en los espacios donde se expenden alimentos en las instituciones de nivel básico, así como facilitar el acceso a verduras, frutas, leguminosas y cereales integrales, que son fuente de nutrimentos antioxidantes y de fibra dietética, orientando de manera acertada y efectiva a los encargados de dichos establecimientos, así como ofertar y hacer accesible el consumo de agua purificada; y
+XXVIII.- De la misma forma, establecer estrategias y mecanismos con el fin de prohibir la venta de productos con alto contenido de azúcares refinados, colesterol, ácidos grasos saturados, ácidos grasos trans, sal y aditivos en los establecimientos escolares y en los espacios donde se expenden alimentos en las Instituciones Educativas de todos los niveles y modalidades del Sistema Educativo dependiente de la Secretaría de Educación del Gobierno del Estado, así como facilitar el acceso a verduras, frutas, leguminosas y cereales integrales, que son fuente de nutrimentos antioxidantes y de fibra dietética, orientando de manera acertada y efectiva a los encargados de dichos establecimientos, así como ofertar y hacer accesible el consumo de agua purificada; y
 
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 2007)</small>
 
@@ -1138,3 +1138,7 @@ P.O. 25 DE JULIO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Ejecutivo del Estado expedirá el Reglamento para la Prevención y Seguridad Escolar, en un plazo no mayor de ciento ochenta días naturales a partir de la entrada en vigor del presente ordenamiento.
+
+P.O. 5 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
