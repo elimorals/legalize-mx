@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-de-las-adicciones-tratamiento-57205"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-03"
-last_updated: "2009-04-01"
+last_updated: "2009-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PREVENCION DE LAS ADICCIONES, TRATAMIENTO, DISMINUCION DE DAÑO Y REINSERCION SOCIAL DE LAS PERSONAS CON ADICCION EN EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 3 de octubre de 2007.
 
@@ -73,7 +73,11 @@ II. Sistema: Es el constituido por las dependencias y entidades públicas del Es
 
 III. Consejo: Consejo Estatal contra las Adicciones.
 
-IV. Secretaría: La Secretaría de Fomento Social.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+IV. Secretaría: La Secretaría de Salud.
 
 V. Comité Municipal: Comité Municipal contra las Adicciones.
 
@@ -149,9 +153,13 @@ VI. Difundir en las comunidades indígenas, información sobre los programas pre
 
 VII. Las demás que esta Ley y otros ordenamientos legales le otorgue.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 8.
 
-Corresponde a la Secretaría de Fomento Social:
+Corresponde a la Secretaría de Salud:
 
 I. Establecer políticas y lineamientos en materia de salud contra las adicciones, mismas que deberán aplicarse en todo el Estado;
 
@@ -267,7 +275,11 @@ El Consejo se integrará por:
 
 I. Un Presidente, que será el Gobernador del Estado;
 
-II. Un Vicepresidente Ejecutivo, que será el Secretario de Fomento Social;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+II. Un Vicepresidente Ejecutivo, que será el Secretario de Salud;
 
 III. Un Secretario Técnico, que será el titular del área encargada de la atención a las adicciones dentro de la Secretaría;
 
@@ -307,7 +319,11 @@ IV. Contribuir a que los adictos participen activa y conscientemente en los prog
 
 V. Canalizar a las personas sujetas a alguna medida judicial relacionada con alguna adicción, a los centros de atención de adictos;
 
-VI. A través de la Secretaría de Fomento Social y por conducto de las instancias de salud competentes, hacerse cargo de la prevención, atención y reinserción en materia de adicciones; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+VI. A través de la Secretaría de Salud y por conducto de las instancias competentes en la materia, hacerse cargo de la prevención, atención y reinserción en materia de adicciones; y
 
 VII. Las demás que le establezcan esta Ley, su reglamento y otros ordenamientos aplicables.
 
@@ -341,9 +357,13 @@ V. Contar con el personal médico capacitado para la atención de los adictos; y
 
 VI. Los demás que señale la Norma Oficial Mexicana.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 23.
 
-Los integrantes del Registro Estatal tendrán derecho a proponer y presentar ante la Secretaría de Fomento Social, diagnósticos, planes, programas y proyectos relacionados con la temática de las adicciones; así mismo, podrán gozar de los beneficios que otorgue la Secretaría, de acuerdo a sus planes y programas, con las condiciones y restricciones correspondientes.
+Los integrantes del Registro Estatal tendrán derecho a proponer y presentar ante la Secretaría de Salud, diagnósticos, planes, programas y proyectos relacionados con la temática de las adicciones; así mismo, podrán gozar de los beneficios que otorgue la Secretaría, de acuerdo a sus planes y programas, con las condiciones y restricciones correspondientes.
 
 ### CAPÍTULO SEXTO. PRESTACIÓN DE SERVICIOS DE LOS CENTROS DE ATENCIÓN DE ADICTOS
 
@@ -473,9 +493,13 @@ Como integrantes del Consejo, tales personas formarán parte de su Comisión de 
 
 La Secretaría realizará visitas de verificación a los centros de atención de adictos, para comprobar el cumplimiento de la presente Ley y su reglamento. Las visitas serán ordinarias o extraordinarias, y deberán efectuarse, las primeras, en días y horas hábiles; en tanto, las segundas se podrán practicar en cualquier momento. Lo anterior, sin perjuicio de las que realice el COESPRIS-CHIH en el ámbito de su competencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 36.
 
-Se consideran medidas de control y vigilancia las que dicte la Secretaría de Salud, conforme a lo que disponen las Leyes General y Estatal de Salud y demás disposiciones legales y reglamentarias aplicables, para garantizar que las personas con adicción cuenten con condiciones adecuadas que permitan una efectiva recuperación.
+Se consideran medidas de control y vigilancia las que dicte la Secretaría de Salud Federal, conforme a lo que disponen las Leyes General y Estatal de Salud y demás disposiciones legales y reglamentarias aplicables, para garantizar que las personas con adicción cuenten con condiciones adecuadas que permitan una efectiva recuperación.
 
 Las medidas de seguridad son de inmediata ejecución, tienen carácter preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades, a fin de prevenir los riesgos respectivos; serán notificadas al centro de atención de adictos de que se trate, al que se le otorgará un plazo adecuado para su aplicación.
 
@@ -566,3 +590,25 @@ P.O. 1 DE ABRIL DE 2009.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil diez, con las modalidades que se señalan en los artículos subsecuentes.
+
+SEGUNDO.- Para el cumplimiento del presente Decreto, se faculta al Ejecutivo del Estado, para organizar la estructura administrativa de las Secretarías de Fomento Social y de Salud, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales.
+
+TERCERO.- Los trámites de los asuntos en materia de salud, iniciados ante la Secretaría de Fomento Social, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Secretaría de Salud.
+
+CUARTO.- Dentro del término de 90 días siguientes a la entrada en vigor del presente Decreto, se deberán expedir las disposiciones reglamentarias en la materia.
+
+QUINTO.- A partir de la entrada en vigor del presente Decreto, se fija un término de 30 días naturales para realizar el procedimiento de entrega-recepción de los recursos humanos, materiales y financieros por parte de la Secretaría de Fomento Social a la Secretaría de Salud.
+
+SEXTO.- Los servidores públicos adscritos a la Secretaría de Fomento Social, que pasen a formar parte de la Secretaría de Salud, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+SÉPTIMO.- Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Fomento Social en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Secretaría de Salud, de acuerdo a las facultades que mediante el presente Decreto se les otorga.
+
+OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados con la Ley Estatal de Salud, que se hubieren iniciado bajo la vigencia del Código Administrativo del Estado, se tramitarán y resolverán conforme a las disposiciones del citado Código.
+
+NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
+
+DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
