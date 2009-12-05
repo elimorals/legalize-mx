@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2008-11-05"
+last_updated: "2009-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -223,41 +223,45 @@ En casos extraordinarios o cuando exista duda de la competencia de alguna depend
 
 Cuando alguna dependencia necesite informes, datos o la cooperación técnica de cualquier otra, ésta tendrá la obligación de proporcionarlos.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 24.
 
 Para el estudio, planeación y despacho de los asuntos del orden administrativo, el Poder Ejecutivo del Estado contará con las siguientes dependencias:
 
-Secretaría General de Gobierno.
+I.- Secretaría General de Gobierno;
 
-Secretaría de Finanzas y Administración.
+II.- Secretaría de Finanzas y Administración;
 
-Secretaría de Planeación y Evaluación.
+III.- Secretaría de Planeación y Evaluación;
 
-Secretaría de Fomento Social.
+IV.- Secretaría de Fomento Social;
 
-Secretaría de Desarrollo Industrial.
+V.- Secretaría de Salud;
 
-Secretaría de Desarrollo Comercial y Turístico.
+VI.- Secretaría de Desarrollo Industrial;
 
-Secretaría de Educación y Cultura.
+VII.- Secretaría de Desarrollo Comercial y Turístico;
 
-Secretaría de Comunicaciones y Obras Públicas.
+VIII.- Secretaría de Educación y Cultura;
 
-Secretaría de Desarrollo Urbano y Ecología.
+IX.- Secretaría de Comunicaciones y Obras Públicas;
 
-Secretaría de Desarrollo Rural.
+X.- Secretaría de Desarrollo Urbano y Ecología;
 
-Secretaría de Desarrollo Municipal.
+XI.- Secretaría de Desarrollo Rural;
 
-Secretaría de la Contraloría.
+XII.- Secretaría de Desarrollo Municipal;
 
-Procuraduría General de Justicia.
+XIII.- Secretaría de la Contraloría;
 
-Secretaría de Seguridad Pública.
+XIV.- Procuraduría General de Justicia;
 
-Coordinación de Comunicación Social.
+XV.- Secretaría de Seguridad Pública;
+
+XVI.- Coordinación de Comunicación Social.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -467,65 +471,95 @@ XII.- Ejercer las funciones de planeación, programación y evaluación, con los
 
 XIII.- Los demás que le atribuyan expresamente las leyes, los reglamentos y las demás disposiciones normativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 27.
 
 A la Secretaría de Fomento Social corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+I.- Coordinar el diseño, instrumentación, evaluación y seguimiento de la Política Estatal de Desarrollo Social y Humano, así como conducir la formulación del Programa respectivo;
 
-I.- Dictar la normatividad a que deberán sujetarse los organismos descentralizados e instituciones del Ejecutivo estatal que presten los servicios de salud y asistencia social y vigilar su cumplimiento;
+II.- Coordinar el Sistema Estatal de Desarrollo Social y Humano;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+III.- Establecer las políticas públicas de desarrollo social para personas indígenas, menores de edad, jóvenes, adultas mayores, en situación de discapacidad, pobreza, desigualdad, marginación, discriminación y exclusión, así como coordinar, concertar y ejecutar programas y proyectos para tal fin;
 
-II.- Ejercer las funciones otorgadas al Ejecutivo del Estado por las leyes General y Estatal de Salud, así como por los convenios y acuerdos celebrados con el gobierno federal en esta materia;
+IV.- Coordinar e implementar las directrices y estrategias que señala el Plan Estatal de Desarrollo para aquellos organismos e instituciones sujetos al Ejecutivo Estatal que integran los servicios de asistencia social, pública y privada, así como de desarrollo social y humano;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+V.- Vigilar que el desempeño de las actividades de las entidades paraestatales adscritas al sector que encabeza la Secretaría, así como las organizaciones del sector social que reciban recursos públicos para programas y actividades relacionadas con el desarrollo social y humano, se realicen conforme a la normatividad aplicable;
 
-III.- Planear, y evaluar los servicios de salud y de asistencia social que correspondan al Estado;
+VI.- Celebrar convenios, contratos, acuerdos y cualquier otro acto jurídico en materia de desarrollo social y humano, así como de asistencia social, con las dependencias y entidades de la administración pública federal, municipal y de las demás Entidades Federativas, al igual que con los sectores social y privado;
 
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
+VII.- Coordinar el diseño, instrumentación, evaluación y seguimiento de los programas y proyectos tendientes a lograr la igualdad sustancial entre mujeres y hombres, así como para prevenir y erradicar la violencia de género;
 
-IV.- Coordinar el Sistema Estatal de Salud;
+VIII.- Promover y fomentar acciones para fortalecer el desarrollo de la familia;
 
-V.- (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2005)
+IX.- Organizar, coordinar y fomentar la enseñanza y la práctica de los deportes;
 
-VI.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2005)
+X.- Participar en la atención a la población en casos de desastres de origen natural o antropogénico, que pongan en riesgo a los habitantes en general;
 
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
+XI.- Promover, brindar asesoría y capacitación en materia de desarrollo social y humano para la profesionalización y funcionamiento de las dependencias y entidades de la administración pública estatal y municipal, así como a las organizaciones de la sociedad civil;
 
-VII.- Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los indígenas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de las administraciones públicas federal, estatal, municipal, sectores social o privado, cuando así se requiera;
+XII.- Definir las zonas de atención prioritaria de conformidad con los índices de pobreza y marginación;
 
-VIII.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2005)
+XIII.- Fomentar las actividades de las organizaciones de la sociedad civil que incidan en el campo del desarrollo social y humano, y
 
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1994)</small>
+XIV.- Las demás que le atribuyan expresamente las leyes, los reglamentos y otras disposiciones normativas.
 
-IX.- Participar en cualquier acto, convenio o contrato que obligue al Gobierno del Estado en las materias establecidas en este Artículo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X.- (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2005)
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+ARTICULO 27 BIS.- A la Secretaría de Salud corresponde el despacho de los siguientes asuntos:
 
-XI.- Desarrollar programas de salud tendientes a erradicar el consumo de sustancias adictivas, abarcando las áreas de prevención, investigación y tratamiento;
+I.- Garantizar, en el marco de la competencia estatal, el derecho de protección a la salud de la población del Estado de Chihuahua, con fundamento en el Artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, y dictar las normas técnicas a que quedará sujeta la prestación de servicios de salud en las materias de salubridad general;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+II.- Establecer y conducir la política estatal en materia de salud, respecto a: prevención, promoción, servicios médicos, salubridad general y servicios para la asistencia social, así como los agrupamientos por funciones y programas afines que en su caso se determine, de conformidad con la Ley General y Estatal de Salud y demás leyes aplicables;
 
-XII.- Desarrollar programas para garantizar a la mujer la igualdad de oportunidades, respaldando su papel fundamental en la integración social y familiar; y (sic)
+III.- Planear, desarrollar, dirigir y vigilar los servicios de salud que se proporcionen en el Estado, en los términos de la legislación correspondiente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2005)</small>
+IV.- Coordinar, planear, normar y evaluar el Sistema Estatal de Salud y proveer a la adecuada participación de las entidades y dependencias públicas que presten servicios de salud, a fin de asegurar el cumplimiento del derecho a la protección de la salud.
 
-XIII.- Organizar y promover talleres, seminarios, diplomados, conferencias y demás instrumentos académicos que tiendan a la formación, capacitación y actualización de los recursos humanos para la salud;
+Así mismo, propiciará y coordinará la participación de los sectores social y privado en dicho Sistema Estatal de Salud y determinará las políticas y acciones de inducción y concertación correspondientes;
 
-> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2005)</small>
+V.- Coordinar la formulación de la planeación estatal en materia de salud;
 
-XIV.- Promover, coordinar y realizar la evaluación permanente de programas y servicios de salud que le sean solicitados por el Ejecutivo Estatal; así como el Programa de Salud Mental; y
+VI.- Vigilar, en el ámbito de sus atribuciones, la aplicación de las normas oficiales mexicanas que emitan las autoridades competentes, en materia de salud;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE NOVIEMBRE DE 2005)</small>
+VII.- Impulsar las actividades científicas y tecnológicas en el campo de la salud, en colaboración con instituciones y organismos públicos y privados;
 
-XV.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+VIII.- Autorizar, supervisar y evaluar la prestación de los servicios de cuidado infantil y de menores en la Entidad;
 
-ARTICULO 27 BIS.- (DEROGADO, P.O. 30 DE JUNIO DE 2007)
+IX.- Promover e impulsar la participación de la comunidad en la realización de programas orientados al cuidado de la salud;
+
+X.- Vigilar que en el ejercicio de profesionales, técnicos, auxiliares y de los demás prestadores de los servicios de salud, se ajusten a las prescripciones de la Ley en el ámbito de sus atribuciones como autoridad local; así como apoyar su capacitación y actualización;
+
+XI.- Coadyuvar, en coordinación con las instituciones de salud y educativas, en la formación y capacitación de recursos humanos para la prestación de Servicios de Salud en el Estado;
+
+XII.- En coordinación con las demás dependencias y entidades competentes realizar acciones de prevención y control para el cuidado del medio ambiente, cuando pueda resultar afectada la salud de la población;
+
+XIII.- Estudiar, adoptar y poner en vigor las medidas necesarias para luchar contra las enfermedades epidemiológicas transmisibles y no transmisibles, así como los factores que propicien el alcoholismo, las toxicomanías y otros vicios sociales;
+
+XIV.- Poner en práctica las medidas tendientes a conservar la salud y la vida de los trabajadores del campo y de la ciudad, así como la higiene industrial, con excepción de lo que se relaciona con la previsión social en el trabajo;
+
+XV.- Actuar como autoridad sanitaria y ejercer las atribuciones en materia de control, vigilancia y fomento sanitario;
+
+XVI.- Ejercer las facultades de salubridad local que las leyes le confieren al Ejecutivo del Estado, así como el cumplimiento de la Ley General de Salud, la Ley Estatal de Salud, sus reglamentos y demás disposiciones aplicables;
+
+XVII.- Organizar congresos en materia de salud;
+
+XVIII.- Verificar la aplicación de la normatividad en materia de productos y servicios, a fin de evitar los daños a la salud;
+
+XIX.- Celebrar en materia de salud, convenios, contratos, acuerdos y cualquier otro acto jurídico con las autoridades federales, estatales y municipales, así como con el sector social y privado;
+
+XX.- Imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en la materia, a los prestadores de servicios de salud que no observen dichos ordenamientos;
+
+XXI.- Participar, en el ámbito de su competencia, en la substanciación de los recursos administrativos previstos por las leyes;
+
+XXII.- Administrar el patrimonio de la Beneficencia Pública en materia de salud, en los términos de las disposiciones legales aplicables, a fin de apoyar a los programas de servicios de salud, y
+
+XXIII.- Las demás que le fijen expresamente las leyes, los reglamentos y otras disposiciones normativas.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1536,3 +1570,25 @@ Se derogan las demás disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO NOVENO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 5 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil diez, con las modalidades que se señalan en los artículos subsecuentes.
+
+SEGUNDO.- Para el cumplimiento del presente Decreto, se faculta al Ejecutivo del Estado, para organizar la estructura administrativa de las Secretarías de Fomento Social y de Salud, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales.
+
+TERCERO.- Los trámites de los asuntos en materia de salud, iniciados ante la Secretaría de Fomento Social, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Secretaría de Salud.
+
+CUARTO.- Dentro del término de 90 días siguientes a la entrada en vigor del presente Decreto, se deberán expedir las disposiciones reglamentarias en la materia.
+
+QUINTO.- A partir de la entrada en vigor del presente Decreto, se fija un término de 30 días naturales para realizar el procedimiento de entrega-recepción de los recursos humanos, materiales y financieros por parte de la Secretaría de Fomento Social a la Secretaría de Salud.
+
+SEXTO.- Los servidores públicos adscritos a la Secretaría de Fomento Social, que pasen a formar parte de la Secretaría de Salud, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+SÉPTIMO.- Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Fomento Social en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Secretaría de Salud, de acuerdo a las facultades que mediante el presente Decreto se les otorga.
+
+OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados con la Ley Estatal de Salud, que se hubieren iniciado bajo la vigencia del Código Administrativo del Estado, se tramitarán y resolverán conforme a las disposiciones del citado Código.
+
+NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
+
+DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
