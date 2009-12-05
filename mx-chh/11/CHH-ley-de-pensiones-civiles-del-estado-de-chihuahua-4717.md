@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-civiles-del-estado-de-chihuahua-4717"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-19"
-last_updated: "2007-06-30"
+last_updated: "2009-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre de 1981.
 
@@ -81,11 +81,13 @@ b).- Presidente de la Junta Directiva;
 
 c).- Director.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 5.
 
-La Junta Directiva es el órgano máximo de la Institución y estará integrada por:
+La Junta Directiva es el órgano máximo de la institución y estará integrada por:
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
@@ -97,9 +99,11 @@ II.- El Director de Pensiones Civiles del Estado, que será designado por el Gob
 
 III.- El Secretario de Educación y Cultura;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- El Secretario de Fomento Social;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+
+IV.- El Secretario de Salud;
 
 V.- El Secretario del Sindicato Nacional de Trabajadores de la Educación, Sección XLII;
 
@@ -784,3 +788,25 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 ###### ARTÍCULO SEXTO.
 
 Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+P.O. 5 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil diez, con las modalidades que se señalan en los artículos subsecuentes.
+
+SEGUNDO.- Para el cumplimiento del presente Decreto, se faculta al Ejecutivo del Estado, para organizar la estructura administrativa de las Secretarías de Fomento Social y de Salud, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales.
+
+TERCERO.- Los trámites de los asuntos en materia de salud, iniciados ante la Secretaría de Fomento Social, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Secretaría de Salud.
+
+CUARTO.- Dentro del término de 90 días siguientes a la entrada en vigor del presente Decreto, se deberán expedir las disposiciones reglamentarias en la materia.
+
+QUINTO.- A partir de la entrada en vigor del presente Decreto, se fija un término de 30 días naturales para realizar el procedimiento de entrega-recepción de los recursos humanos, materiales y financieros por parte de la Secretaría de Fomento Social a la Secretaría de Salud.
+
+SEXTO.- Los servidores públicos adscritos a la Secretaría de Fomento Social, que pasen a formar parte de la Secretaría de Salud, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+SÉPTIMO.- Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Fomento Social en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Secretaría de Salud, de acuerdo a las facultades que mediante el presente Decreto se les otorga.
+
+OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados con la Ley Estatal de Salud, que se hubieren iniciado bajo la vigencia del Código Administrativo del Estado, se tramitarán y resolverán conforme a las disposiciones del citado Código.
+
+NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
+
+DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
