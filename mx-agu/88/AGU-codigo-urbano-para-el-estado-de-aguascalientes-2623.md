@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2009-10-26"
+last_updated: "2009-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2009.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -255,29 +255,37 @@ XXIV.- SOP ESTATAL: la Secretaría de Obras Públicas del Estado;
 
 XXV.- USOS: los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2009)</small>
 
-XXVI.- ZONIFICACIÓN: La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo;
+XXVI.- ZONIFICACIÓN: La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así corno la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2009)</small>
 
-XXVII.- MANIFESTACIÓN DE IMPACTO URBANO Y/O RURAL: El estudio técnico de factibilidad para los usos de suelo urbano o rural, público, privado o ejidal, donde se manifiesta el efecto y posibles repercusiones que se pudieran generar por su funcionamiento, forma o magnitud, por que se rebase las capacidades de la infraestructura o de los servicios públicos del área o zona donde se pretende ubicar; por que se afecte el espacio urbano o el medio ambiente, la imagen o el paisaje urbano, o la estructura socioeconómica, o signifique un riesgo para la salud, el ambiente, la vida o los bienes de la comunidad, en el entorno que circunda al establecimiento de un lugar fijo, desarrollo o zona, para el desempeño de una actividad y las estrategias para mitigar o resolver tal impacto.
+XXVII.- MANIFESTACIÓN DE IMPACTO URBANO Y/O RURAL: El estudio técnico de factibilidad para los usos de suelo urbano o rural, público, privado o ejidal, donde se manifiesta el efecto y posibles repercusiones que se pudieran generar por su funcionamiento, forma o magnitud, porque se rebase las capacidades de la infraestructura o de los servicios públicos del área o zona donde se pretende ubicar; porque se afecte el espacio urbano o el medio ambiente, la imagen o el paisaje urbano, o la estructura socioeconómica, o signifique un riesgo para la salud, el ambiente, la vida o los bienes de la comunidad, en el entorno que circunda al establecimiento de un lugar fijo, desarrollo o zona para el desempeño de una actividad y las estrategias para mitigar o resolver tal impacto.
 
-El estudio técnico deberá contener como mínimo lo siguiente:
+El estudio técnico deberé contener como mínimo lo siguiente:
 
-1).- Aspectos Generales: Antecedentes, localización y bases jurídicas;
+1. Aspectos Generales: Antecedentes, Localización y bases jurídicas;
 
-2).- Resumen de Diagnóstico: Medio Físico Natural, Medio Físico Construido, Aspectos Demográficos y Movilidad Urbana;
+2. Resumen de Diagnóstico: Medio Físico Natural, Medio Físico Construido, Aspectos Demográficos y Movilidad Urbana;
 
-3).- Objetivos;
+3. Objetivos;
 
-4).- Estrategias: Ordenamiento Territorial; Uso, Destinos y Reservas del Suelo; Estructura Vial; Equipamiento; Desarrollo Económico y Medio Ambiente y Ecología;
+4. Estrategias: Ordenamiento Territorial; Uso, Destinos y Reservas del Suelo; Estructura Vial; Equipamiento; Desarrollo Económico y Medio Ambiente y Ecología; y
 
-5).- Metas.
+5. Metas.
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE DICIEMBRE DE 2009)</small>
 
-XXVIII.- BARRERAS ARQUITECTÓNICAS: Aquellos obstáculos que dificulten, entorpezcan o impidan, a las personas con discapacidad, el libre desplazamiento en lugares públicos, sean interiores o exteriores, o el impedimento de usar los servicios sociales o públicos.
+XXVIII.- ESQUEMAS SEGREGADOS: Es la forma de estructurar y organizar la extensión territorial en los Planes de Desarrollo Urbano, que impliquen separaciones, aislamiento y fragmentaciones de la organización poblacional;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2009)</small>
+
+XXIX.- ESQUEMAS UNIFUNCIONALES: Es la forma de estructurar y organizar la extensión territorial en los Planes de Desarrollo Urbano, que impliquen fragmentación aislada de una actividad exclusiva; y
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2009)</small>
+
+XXX.- SUBURBANIZACIÓN EXTENSIVA: Es la desconcentración del núcleo poblacional que permita diversos centros poblacionales.
 
 ###### ARTICULO 6o.
 
@@ -1198,6 +1206,26 @@ La planeación del desarrollo urbano, en los niveles estatal y municipal, así c
 ###### ARTICULO 51.
 
 Para los efectos del presente Código, se entiende por planeación urbana la ordenación y regulación de los asentamientos humanos en la Entidad, a través de acciones, inversiones, obras y servicios, que con base en el ejercicio de las atribuciones de las autoridades competentes en materia de fundación, conservación, mejoramiento y crecimiento de los centros de población, tienen como propósito alcanzar el desarrollo urbano estatal y municipal, de conformidad con lo que establece este Código y con los objetivos, metas, políticas e instrumentos previstos en los programas de desarrollo urbano y en la determinación de provisiones, reservas, usos y destinos de áreas y predios.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 51 BIS.- Para contribuir a los logros de la política ambiental, en la planeación de desarrollo urbano y los asentamientos humanos, además de los ordenamientos en la materia se consideran los siguientes criterios:
+
+I. los planes o programas de desarrollo urbano deberán tomar en cuenta los lineamientos, planes y estrategias contenidas en los programas de ordenamiento ecológico del territorio:
+
+II. En la determinación de los usos del suelo, se buscará lograr una diversidad y eficiencia de los mismos, y se evitará el desarrollo de esquemas segregados o unifuncionales, así como las tendencias a la suburbanización extensiva;
+
+III. En la determinación de las áreas para el crecimiento de los centros de población, se fomentará la mezcla de los usos habitacionales con los productivos que no representen riesgos o daños a la salud de la población y se evitará que se afecten áreas con alto valor ambiental;
+
+IV. Se deberá privilegiar el establecimiento de sistemas de transporte colectivo y otros medios de alta eficiencia energética y ambiental;
+
+V. Se establecerán y manejarán en forma prioritaria las áreas de conservación ecológica en torno a los asentamientos humanos;
+
+VI. Las autoridades en el Estado y los Municipios, en la esfera de su competencia, promoverán la utilización de los instrumentos económicos, fiscales y financieros de política urbana y ambiental, para inducir conductas compatibles con la protección y restauración del medio ambiente y con un desarrollo urbano sustentable;
+
+VII. En la determinación de áreas para actividades altamente riesgosas, se establecerán las zonas intermedias de salvaguarda en las que no se permitan los usos habitacionales, comerciales u otros que pongan en riesgo la población; y
+
+VIII. Se deberá buscar la corrección de aquellos desequilibrios que deterioren la calidad de vida de la población y, a la vez, prever las tendencias de crecimiento del asentamiento humano, para mantener una relación suficiente entre la base de recursos y la población, y cuidar de los factores ecológicos y ambientales que son parte integrante de la calidad de vida.
 
 #### SECCION PRIMERA. El Sistema Estatal de Planeación del Desarrollo Urbano
 
@@ -8646,3 +8674,13 @@ La ejecución de las obras que los poderes del Estado y los Gobiernos Municipale
 ###### ARTÍCULO TERCERO.
 
 Los propietarios de inmuebles y prestadores del servicio público de transporte colectivo de pasajeros, contarán con un plazo de ciento ochenta días para hacer a sus correspondientes bienes las adecuaciones tendientes al cumplimiento de este Código, salvo que pericialmente quede acreditada la imposibilidad de efectuarlas.
+
+P.O. 7 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto se expidan las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigencia las que han regido hasta ahora en lo que no lo contravengan.
