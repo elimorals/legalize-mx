@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-del-estado-de-queretaro-70758"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-23"
-last_updated: "2009-10-30"
+last_updated: "2009-12-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DE LA LEY PUBLICADA EN EL P.O. DE 7 DE DICIEMBRE DE 2009, QUEDA SIN EFECTOS LA VIGENCIA DEL PRESENTE ORDENAMIENTO, INCLUIDAS LAS REFORMAS Y ADICIONES HECHAS AL MISMO.</small>
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE OCTUBRE DE 2009.]</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 23 de octubre de 2009.
 
@@ -3070,3 +3070,13 @@ P.O. 30 DE OCTUBRE DE 2009.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Para efectos de congruencia y procedencia en el trámite legislativo, las modificaciones de la presente reforma deberán ajustarse al contenido y numeración de las disposiciones vigentes, recorriendo, en su caso, el articulado respectivo al momento de su publicación.
+
+P.O. 7 DE DICIEMBRE DE 2009.
+
+Artículo Primero. Esta Ley comenzará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Todo procedimiento penal que estuviere en trámite, se sujetará a las disposiciones del Código que recobre su vigencia.
+
+Artículo Tercero. Se derogan todas las disposiciones previstas en otros ordenamientos, que contravengan lo previsto en la presente Ley.
+
+Artículo Cuarto. Todas las disposiciones previstas en otros ordenamientos que hicieren mención al Código que se deja sin efectos, se entenderán hechas al Código que recobre vigencia, tanto en contenido como en la numeración respectiva.
