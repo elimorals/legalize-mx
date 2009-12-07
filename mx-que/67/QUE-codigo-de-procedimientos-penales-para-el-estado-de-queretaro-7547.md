@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2009-10-23"
+last_updated: "2009-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE QUERETARO, PUBLICADO EN EL P.O. DE 23 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DE LA LEY PUBLICADA EN EL P.O. DE 7 DE DICIEMBRE DE 2009, SE RESTABLECE LA VIGENCIA DEL PRESENTE ORDENAMIENTO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -2598,3 +2598,13 @@ Artículo Segundo. Se abroga el Código de Procedimientos Penales para el Estado
 Artículo Tercero. Todo procedimiento penal que estuviere en trámite al comenzar a regir este Código se sujetará a sus disposiciones.
 
 Artículo Cuarto. Se derogan todas las disposiciones previstas en otros ordenamientos que contravengan lo establecido en el presente Código.
+
+P.O. 7 DE DICIEMBRE DE 2009.
+
+Artículo Primero. Esta Ley comenzará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Todo procedimiento penal que estuviere en trámite, se sujetará a las disposiciones del Código que recobra su vigencia.
+
+Artículo Tercero. Se derogan todas las disposiciones previstas en otros ordenamientos, que contravengan lo previsto en la presente Ley.
+
+Artículo Cuarto. Todas las disposiciones previstas en otros ordenamientos que hicieren mención al Código que se deja sin efectos, se entenderán hechas al Código que recobra vigencia, tanto en contenido como en la numeración respectiva.
