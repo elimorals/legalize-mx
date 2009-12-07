@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2007-10-01"
+last_updated: "2009-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2009.
 
 ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2003.
 
@@ -56,9 +56,11 @@ III.- Otorguen el uso o goce temporal de bienes.
 
 IV.- Importen bienes o servicios.
 
-> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 15%. El impuesto al valor agregado en ningún caso se considerará que forma parte de dichos valores.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+El impuesto se calculará aplicando a los valores que señala esta Ley, la tasa del 16%. El impuesto al valor agregado en ningún caso se considerará que forma parte de dichos valores.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -148,13 +150,25 @@ III. Los adquirentes de los documentos pendientes de cobro deberán entregar a l
 
 En todo caso, la persona que entregue al deudor los comprobantes de las operaciones que dieron lugar a la emisión de los documentos pendientes de cobro, deberá consignar en dichos comprobantes, la cantidad efectivamente pagada por el deudor, cuando los adquirentes les hayan otorgado descuentos, rebajas o bonificaciones.
 
-IV. Cuando los adquirentes cobren los documentos pendientes de cobro, ya sea en forma total o parcial, deberán manifestar el monto cobrado respecto del documento correspondiente en el estado de cuenta que emitan, con el cual los cedentes de los documentos deberán determinar el impuesto al valor agregado a su cargo, sin descontar de dicho valor, el monto correspondiente al cargo financiero cobrado por el adquirente. Para tales efectos, el impuesto al valor agregado se calculará dividiendo la cantidad manifestada en el estado de cuenta como cobrada por el adquirente entre 1.15 o 1.10, según se trate de documentos que deriven de operaciones afectas a la tasa del 15% o 10%, respectivamente. El resultado obtenido se restará a la cantidad manifestada en el estado de cuenta como cobrada y la diferencia será el impuesto al valor agregado causado a cargo del contribuyente que cedió los documentos pendientes de cobro.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. Cuando hayan transcurrido seis meses a partir de la fecha de exigibilidad del pago de los documentos pendientes de cobro, sin que las cantidades reflejadas en dichos documentos se hayan cobrado por los adquirentes o un tercero directamente al deudor original y no sean exigibles al cedente de los documentos pendientes de cobro, este último considerará causado el impuesto al valor agregado a su cargo, en el primer día del mes siguiente posterior al periodo a que se refiere este párrafo, el cual se calculará dividiendo el monto pagado por el adquirente en la adquisición del documento, sin descontar de dicho valor el monto correspondiente al cargo financiero cobrado por el adquirente, entre 1.15 o 1.10, según se trate de documentos que deriven de operaciones afectas a la tasa del 15% o 10%, respectivamente. El resultado obtenido se restará del monto pagado por el adquirente en la adquisición de los citados documentos, sin descontar de dicho valor el monto correspondiente al cargo financiero, y la diferencia será el impuesto al valor agregado a cargo del contribuyente que cedió los documentos pendientes de cobro.
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+IV. Cuando los adquirentes cobren los documentos pendientes de cobro, ya sea en forma total o parcial, deberán manifestar el monto cobrado respecto del documento correspondiente en el estado de cuenta que emitan, con el cual los cedentes de los documentos deberán determinar el impuesto al valor agregado a su cargo, sin descontar de dicho valor el monto correspondiente al cargo financiero cobrado por el adquirente. Para tales efectos, el impuesto al valor agregado se calculará dividiendo la cantidad manifestada en el estado de cuenta como cobrada por el adquirente entre 1.16 ó 1.11, según se trate de documentos que deriven de operaciones afectas a la tasa del 16% o 11%, respectivamente. El resultado obtenido se restará a la cantidad manifestada en el estado de cuenta como cobrada y la diferencia será el impuesto al valor agregado causado a cargo del contribuyente que cedió los documentos pendientes de cobro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+V. Cuando hayan transcurrido seis meses a partir de la fecha de exigibilidad del pago de los documentos pendientes de cobro, sin que las cantidades reflejadas en dichos documentos se hayan cobrado por los adquirentes o un tercero directamente al deudor original y no sean exigibles al cedente de los documentos pendientes de cobro, este último considerará causado el impuesto al valor agregado a su cargo, en el primer día del mes siguiente posterior al periodo a que se refiere este párrafo, el cual se calculará dividiendo el monto pagado por el adquirente en la adquisición del documento, sin descontar de dicho valor el monto correspondiente al cargo financiero cobrado por el adquirente, entre 1.16 ó 1.11, según se trate de documentos que deriven de operaciones afectas a la tasa del 16% o 11%, respectivamente. El resultado obtenido se restará del monto pagado por el adquirente en la adquisición de los citados documentos, sin descontar de dicho valor el monto correspondiente al cargo financiero, y la diferencia será el impuesto al valor agregado a cargo del contribuyente que cedió los documentos pendientes de cobro.
 
 Cuando el adquirente haya efectuado algún cobro parcial a cuenta de la contraprestación total consignada en los documentos pendientes de cobro, el cedente de los documentos mencionados podrá disminuir del impuesto al valor agregado determinado a su cargo conforme al párrafo anterior, el impuesto al valor agregado que haya sido previamente determinado por dicho cobro parcial, conforme a lo señalado en la fracción IV anterior.
 
-VI. Tratándose de recuperaciones posteriores al sexto mes de la fecha de exigibilidad del pago de los documentos pendientes de cobro a que se refiere la fracción V anterior, de cantidades cuyo monto adicionado de las que se hubieran cobrado con anterioridad correspondientes al mismo documento sea mayor a la suma de las cantidades recibidas por el cedente como pago por la enajenación de los documentos pendientes de cobro, sin descontar el cargo financiero, e incluyendo los anticipos que, en su caso, haya recibido, el adquirente deberá reportar dichas recuperaciones en el estado de cuenta del mes en el que las cobre. El contribuyente calculará el impuesto al valor agregado a su cargo por el total de la cantidad cobrada por el adquirente, dividiendo el valor del cobro efectuado entre 1.15 o 1.10, según se trate de documentos que deriven de operaciones afectas a la tasa del 15% o 10%, respectivamente. El resultado obtenido se restará del monto total cobrado y la diferencia será el impuesto al valor agregado a cargo del cedente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+VI. Tratándose de recuperaciones posteriores al sexto mes de la fecha de exigibilidad del pago de los documentos pendientes de cobro a que se refiere la fracción V anterior, de cantidades cuyo monto adicionado de las que se hubieran cobrado con anterioridad correspondientes al mismo documento sea mayor a la suma de las cantidades recibidas por el cedente como pago por la enajenación de los documentos pendientes de cobro, sin descontar el cargo financiero, e incluyendo los anticipos que, en su caso, haya recibido, el adquirente deberá reportar dichas recuperaciones en el estado de cuenta del mes en el que las cobre. El contribuyente calculará el impuesto al valor agregado a su cargo por el total de la cantidad cobrada por el adquirente, dividiendo el valor del cobro efectuado entre 1.16 ó 1.11, según se trate de documentos que deriven de operaciones afectas a la tasa del 16% o 11%, respectivamente. El resultado obtenido se restará del monto total cobrado y la diferencia será el impuesto al valor agregado a cargo del cedente.
 
 El impuesto a cargo del contribuyente determinado de conformidad con el párrafo anterior, se disminuirá con el impuesto a cargo que previamente se haya determinado de conformidad con lo establecido en la fracción V de este artículo.
 
@@ -168,15 +182,25 @@ No será aplicable lo dispuesto en el presente artículo cuando los documentos p
 
 Cuando los contribuyentes ejerzan la opción a que se refiere el segundo párrafo de este artículo, deberán mantenerla durante el año de calendario en que sea ejercida, respecto de todos los documentos pendientes de cobro que transmitan.
 
-> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 2o.
 
-El impuesto se calculará aplicando la tasa del 10% a los valores que señala esta Ley, cuando los actos o actividades por los que se deba pagar el impuesto, se realicen por residentes en la región fronteriza, y siempre que la entrega material de los bienes o la prestación de servicios se lleve a cabo en la citada región fronteriza.
+El impuesto se calculará aplicando la tasa del 11% a los valores que señala esta Ley, cuando los actos o actividades por los que se deba pagar el impuesto, se realicen por residentes en la región fronteriza, y siempre que la entrega material de los bienes o la prestación de servicios se lleve a cabo en la citada región fronteriza.
 
-Tratándose de importación, se aplicará la tasa del 10% siempre que los bienes y servicios sean enajenados o prestados en la mencionada región fronteriza.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Tratándose de la enajenación de inmuebles en la región fronteriza, el impuesto al valor agregado se calculará aplicando al valor que señala esta Ley la tasa del 15%:
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+Tratándose de importación, se aplicará la tasa del 11% siempre que los bienes y servicios sean enajenados o prestados en la mencionada región fronteriza.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+Tratándose de la enajenación de inmuebles en la región fronteriza, el impuesto al valor agregado se calculará aplicando al valor que señala esta Ley la tasa del 16%.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -240,9 +264,11 @@ i).- Libros, periódicos y revistas, que editen los propios contribuyentes. Para
 
 Igualmente se considera que forman parte de los libros, los materiales complementarios que se acompañen a ellos, cuando no sean susceptibles de comercializarse separadamente. Se entiende que no tienen la característica de complementarios cuando los materiales pueden comercializarse independientemente del libro.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Se aplicará la tasa del 15% o del 10%, según corresponda, a la enajenación de los alimentos a que se refiere el presente artículo preparados para su consumo en el lugar o establecimiento en que se enajenen, inclusive cuando no cuenten con instalaciones para ser consumidos en los mismos, cuando sean para llevar o para entrega a domicilio.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+Se aplicará la tasa del 16% o del 11%, según corresponda, a la enajenación de los alimentos a que se refiere el presente artículo preparados para su consumo en el lugar o establecimiento en que se enajenen, inclusive cuando no cuenten con instalaciones para ser consumidos en los mismos, cuando sean para llevar o para entrega a domicilio.
 
 II.- La prestación de los siguientes servicios independientes:
 
@@ -402,7 +428,11 @@ A las inversiones cuyo acreditamiento se haya realizado conforme a lo dispuesto 
 
 4. Cuando las inversiones a que se refieren los numerales 1 y 2 de este inciso dejen de destinarse en forma exclusiva a las actividades previstas en dichos numerales, en el mes en el que ello ocurra, se deberá aplicar el ajuste previsto en el artículo 5o.-A de esta Ley.
 
-Cuando el impuesto al valor agregado en la importación se hubiera pagado a la tasa de 10%, dicho impuesto será acreditable en los términos de este artículo siempre que los bienes o servicios importados sean utilizados o enajenados en la región fronteriza.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+Cuando el impuesto al valor agregado en la importación se hubiera pagado a la tasa de 11%, dicho impuesto será acreditable en los términos de este artículo siempre que los bienes o servicios importados sean utilizados o enajenados en la región fronteriza.
 
 > <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2005)</small>
 
@@ -674,9 +704,11 @@ a).- Deriven de operaciones en las que el enajenante, el prestador del servicio 
 
 b) Reciban o paguen las instituciones de crédito, las uniones de crédito, las sociedades financieras de objeto limitado, las sociedades de ahorro y préstamo y las empresas de factoraje financiero, en operaciones de financiamiento, para las que requieran de autorización y por concepto de descuento en documentos pendientes de cobro; los que reciban y paguen las sociedades financieras de objeto múltiple que para los efectos del impuesto sobre la renta formen parte del sistema financiero, por el otorgamiento de crédito, de factoraje financiero o descuento en documentos pendientes de cobro; los que reciban los almacenes generales de depósito por créditos otorgados que hayan sido garantizados con bonos de prenda; así como las comisiones de los agentes y corresponsales de las instituciones de crédito por dichas operaciones.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO OCTAVO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-No será aplicable lo dispuesto en el párrafo anterior, tratándose de créditos otorgados a personas físicas que no desarrollen actividades empresariales, o no presten servicios personales independientes, o no otorguen el uso o goce temporal de bienes inmuebles. Tratándose de créditos otorgados a personas que realicen las actividades mencionadas, no se pagará el impuesto cuando los mismos sean para la adquisición de bienes de inversión en dichas actividades o se trate de créditos refaccionarios, de habilitación o avío.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+No será aplicable lo dispuesto en el párrafo anterior, tratándose de créditos otorgados a contribuyentes que opten por pagar el impuesto en los términos del artículo 2o.-C de esta Ley, o a personas físicas que no desarrollen actividades empresariales, o no presten servicios personales independientes, o no otorguen el uso o goce temporal de bienes inmuebles. Tratándose de créditos otorgados a personas físicas que realicen las actividades mencionadas, no se pagará el impuesto cuando los mismos sean para la adquisición de bienes de inversión en dichas actividades o se trate de créditos refaccionarios, de habilitación o avío, siempre que dichas personas se encuentren inscritas en el Registro Federal de Contribuyentes.
 
 > <small>(ADICIONADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
@@ -1126,9 +1158,11 @@ III.- Expedir comprobantes señalando en los mismos, además de los requisitos q
 
 Cuando el comprobante ampare actos o actividades por los que se deba pagar el impuesto al valor agregado, en el mismo se deberá señalar en forma expresa si el pago de la contraprestación se hace en una sola exhibición o en parcialidades. Cuando la contraprestación se pague en una sola exhibición, en el comprobante se deberá indicar el importe total de la operación y el monto equivalente al impuesto que se traslada. Si la contraprestación se paga en parcialidades, en el comprobante que se expida por el acto o actividad de que se trate, se deberá indicar además el importe total de la parcialidad que se cubre en ese momento, y el monto equivalente al impuesto que se traslada sobre dicha parcialidad.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO OCTAVO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Cuando el pago de la contraprestación se haga en parcialidades, por el pago que de las mismas se haga con posterioridad a la fecha en la que se hubiera expedido el comprobante a que se refiere el párrafo anterior, los contribuyentes deberán expedir un comprobante por cada una de esas parcialidades, el cual deberá ser impreso en los establecimientos autorizados para tal efecto por el Servicio de Administración Tributaria y contener los requisitos previstos en las fracciones I, II, III y IV del artículo 29-A del Código Fiscal de la Federación, así como anotar el importe de la parcialidad que ampare, la forma como se realizó el pago de la parcialidad, el monto del impuesto trasladado, el monto del impuesto retenido, en su caso, y el número y fecha del documento que se hubiera expedido en los términos del párrafo anterior amparando la enajenación de bienes, el otorgamiento de su uso o goce temporal o la prestación del servicio de que se trate.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+Cuando el pago de la contraprestación se haga en parcialidades, por el pago que de las mismas se haga con posterioridad a la fecha en la que se hubiera expedido el comprobante a que se refiere el párrafo anterior, los contribuyentes deberán expedir un comprobante por cada una de esas parcialidades, el cual deberá contener los requisitos previstos en las fracciones I, II, III, IV y VIII del artículo 29-A del Código Fiscal de la Federación, así como anotar el importe de la parcialidad que ampare, la forma como se realizó el pago de la parcialidad, el monto del impuesto trasladado, el monto del impuesto retenido, en su caso, y el número y fecha del documento que se hubiera expedido en los términos del párrafo anterior amparando la enajenación de bienes, el otorgamiento de su uso o goce temporal o la prestación del servicio de que se trate.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -1212,7 +1246,7 @@ Tratándose de enajenación de inmuebles por la que se deba pagar el impuesto en
 
 Cuando la contraprestación que cobre el contribuyente por la enajenación de bienes, la prestación de servicios o el otorgamiento del uso o goce temporal de bienes, no sea en efectivo ni en cheques, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o en su defecto el de avalúo. Los mismos valores se tomarán en cuenta tratándose de actividades por las que se deba pagar el impuesto establecido en esta Ley, cuando no exista contraprestación.
 
-En las permutas y pagos en especie, el impuesto al valor agregado se deberá pagar por cada bien cuya propiedad se transmita, o cuyo uso o goce temporal se proporcione, o por cada servicio que se preste.
+En las permutas y pagos en especie, el impuesto al valor agregado se deberá pagar por cada bien cuya propiedad se trasmita, o cuyo uso o goce temporal se proporcione, o por cada servicio que se preste.
 
 ###### ARTICULO 35.
 
@@ -2099,6 +2133,34 @@ Las sociedades financieras de objeto limitado podrán seguir actuando con el car
 D.O.F. 1 DE OCTUBRE DE 2007.
 
 Único. El presente Decreto entrará en vigor a partir del 1 de enero de 2008, salvo la reforma al artículo 109, fracción XXVI de la Ley del Impuesto sobre la Renta, la cual entrará en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE DICIEMBRE DE 2009.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL VALOR AGREGADO
+
+###### ARTÍCULO OCTAVO.
+
+En relación con las modificaciones a que se refiere el Artículo Séptimo de este Decreto, se estará a lo siguiente:
+
+I. La reforma al artículo 15, fracción X, inciso b), segundo párrafo de la Ley del Impuesto al Valor Agregado, entrará en vigor a partir del 1 de julio de 2010 y la reforma al artículo 32, fracción III, tercer párrafo del citado ordenamiento, entrará en vigor a partir del 1 de enero de 2011.
+
+II. Para los efectos del artículo 15, fracción X, inciso b), segundo párrafo, de la Ley del Impuesto al Valor Agregado, vigente a partir del 1 de julio de 2010, las personas físicas a que se refiere dicho precepto deberán proporcionar a la institución del sistema financiero de que se trate, entre el 1 de enero y el 1 de julio de 2010, su clave de inscripción en el Registro Federal de Contribuyentes, a efecto de que dichas instituciones verifiquen con el Servicio de Administración Tributaria que las citadas personas físicas se encuentran inscritas en el citado registro y que no son contribuyentes que optaron por pagar el impuesto al valor agregado en los términos del artículo 2o.-C de la Ley del Impuesto al Valor Agregado.
+
+Cuando las personas físicas no proporcionen su clave de inscripción en el Registro Federal de Contribuyentes en los términos del párrafo anterior, se presumirá que no están inscritas en dicho registro o que optaron por pagar el impuesto al valor agregado en los términos del artículo 2o.-C de la Ley del Impuesto al Valor Agregado.
+
+III. Tratándose de la enajenación de bienes, de la prestación de servicios o del otorgamiento del uso o goce temporal de bienes, que se hayan celebrado con anterioridad a la fecha de la entrada en vigor del presente Decreto, las contraprestaciones correspondientes que se cobren con posterioridad a la fecha mencionada, estarán afectas al pago del impuesto al valor agregado de conformidad con las disposiciones vigentes en el momento de su cobro.
+
+No obstante lo señalado en el párrafo anterior, los contribuyentes podrán acogerse a lo siguiente:
+
+a. Tratándose de la enajenación de bienes y de la prestación de servicios que con anterioridad a la fecha de la entrada en vigor del presente Decreto hayan estado afectas a una tasa del impuesto al valor agregado menor a la que deban aplicar con posterioridad a la fecha mencionada, se podrá calcular el impuesto al valor agregado aplicando la tasa que corresponda conforme a las disposiciones vigentes con anterioridad a la fecha de entrada en vigor del presente Decreto, siempre que los bienes o los servicios se hayan entregado o proporcionado antes de la fecha mencionada y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha.
+
+Se exceptúa del tratamiento establecido en el párrafo anterior a las operaciones que se lleven a cabo entre contribuyentes que sean partes relacionadas de conformidad con lo dispuesto por el artículo 215 de la Ley del Impuesto sobre la Renta, sean o no residentes en México.
+
+b. Tratándose del otorgamiento del uso o goce temporal de bienes, lo dispuesto en el inciso anterior se podrá aplicar a las contraprestaciones que correspondan al periodo en el que la actividad mencionada estuvo afecta al pago del impuesto al valor agregado conforme a la tasa menor, siempre que los bienes se hayan entregado antes de la fecha de la entrada en vigor del presente Decreto y el pago de las contraprestaciones respectivas se realice dentro de los diez días naturales inmediatos posteriores a dicha fecha.
+
+## Transitorio
+
+Único.- El presente Decreto entrará en vigor el 1 de enero de 2010.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
