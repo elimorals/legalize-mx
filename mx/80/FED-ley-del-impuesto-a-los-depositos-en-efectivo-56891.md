@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-a-los-depositos-en-efectivo-56891"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-01"
-last_updated: "2007-10-01"
+last_updated: "2009-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56891&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-09-28"
 
 LEY DEL IMPUESTO A LOS DEPOSITOS EN EFECTIVO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 1 de octubre de 2007.
 
@@ -53,7 +53,11 @@ I. La Federación, las Entidades Federativas, los Municipios y las entidades de 
 
 II. Las personas morales con fines no lucrativos conforme al Título III de la Ley del Impuesto sobre la Renta.
 
-III. Las personas físicas y morales, por los depósitos en efectivo que se realicen en sus cuentas, hasta por un monto acumulado de $25,000.00, en cada mes del ejercicio fiscal, salvo por las adquisiciones en efectivo de cheques de caja. Por el excedente de dicha cantidad, se pagará el impuesto a los depósitos en efectivo en los términos de esta Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+III. Las personas físicas y morales, por los depósitos en efectivo que se realicen en sus cuentas, hasta por un monto acumulado de $15,000.00, en cada mes del ejercicio fiscal, salvo por las adquisiciones en efectivo de cheques de caja. Por el excedente de dicha cantidad se pagará el impuesto a los depósitos en efectivo en los términos de esta Ley.
 
 El monto señalado en el párrafo anterior, se determinará considerando todos los depósitos en efectivo que se realicen en todas las cuentas de las que el contribuyente sea titular en una misma institución del sistema financiero.
 
@@ -63,11 +67,21 @@ IV. Las instituciones del sistema financiero, por los depósitos en efectivo que
 
 V. Las personas físicas, por los depósitos en efectivo realizados en sus cuentas que a su vez sean ingresos por los que no se pague el impuesto sobre la renta en los términos del artículo 109, fracción XII de la Ley del Impuesto sobre la Renta.
 
-VI. Las personas físicas y morales, por los depósitos en efectivo que se realicen en cuentas propias abiertas con motivo de los créditos que les hayan sido otorgados por las instituciones del sistema financiero, hasta por el monto adeudado a dichas instituciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+VI. Las personas físicas, con excepción de las que tributen en los términos del Título IV, Capítulo II, de la Ley del Impuesto sobre la Renta, por los depósitos en efectivo que se realicen en cuentas propias abiertas con motivo de los créditos que les hayan sido otorgados por las instituciones del sistema financiero, hasta por el monto adeudado a dichas instituciones.
+
+Para los efectos del párrafo anterior, las personas físicas que tengan abiertas las cuentas a que se refiere dicho párrafo deberán proporcionar a la institución del sistema financiero de que se trate su clave en el Registro Federal de Contribuyentes, a efecto de que ésta verifique con el Servicio de Administración Tributaria, de conformidad con las reglas de carácter general que para tal efecto emita ese órgano desconcentrado, que dichas personas físicas no son contribuyentes que tributan en el Título IV, Capítulo II, de la Ley del Impuesto sobre la Renta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 3.
 
-El impuesto a los depósitos en efectivo se calculará aplicando la tasa del 2% al importe total de los depósitos gravados por esta Ley.
+El impuesto a los depósitos en efectivo se calculará aplicando la tasa del 3% al importe total de los depósitos gravados por esta Ley.
 
 Para los efectos de este artículo, se entenderá que el depósito corresponde al titular registrado de la cuenta. No obstante, mediante comunicación por escrito, dicho titular podrá solicitar a la institución del sistema financiero que el impuesto a los depósitos en efectivo se distribuya entre las personas que aparezcan en el contrato como sus cotitulares, en la proporción que señale en el escrito mencionado.
 
@@ -79,9 +93,17 @@ I. Recaudar el impuesto a los depósitos en efectivo el último día del mes de 
 
 Las instituciones del sistema financiero recaudarán el impuesto a los depósitos en efectivo indistintamente de cualquiera de las cuentas que tenga abiertas el contribuyente en la institución de que se trate.
 
-Tratándose de depósitos a plazo cuyo monto individual exceda de $25,000.00, el impuesto a los depósitos en efectivo se recaudará al momento en el que se realicen tales depósitos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Cuando una persona realice varios depósitos a plazo en una misma institución del sistema financiero, cuyo monto acumulado exceda de $25,000.00 en un mes, dicha institución deberá recaudar el impuesto a los depósitos en efectivo indistintamente de cualquiera de las cuentas que tenga abiertas el contribuyente en ella. En el caso de que dicha persona no sea titular de otro tipo de cuenta en la institución que recibió los depósitos, ésta deberá recaudar el impuesto a los depósitos en efectivo, indistintamente, al vencimiento de cualquiera de los depósitos a plazo que haya realizado dicha persona.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+Tratándose de depósitos a plazo cuyo monto individual exceda de $15,000.00, el impuesto a los depósitos en efectivo se recaudará al momento en el que se realicen tales depósitos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+Cuando una persona realice varios depósitos a plazo en una misma institución del sistema financiero, cuyo monto acumulado exceda de $15,000.00 en un mes, dicha institución deberá recaudar el impuesto a los depósitos en efectivo indistintamente de cualquiera de las cuentas que tenga abiertas el contribuyente en ella. En el caso de que dicha persona no sea titular de otro tipo de cuenta en la institución que recibió los depósitos, ésta deberá recaudar el impuesto a los depósitos en efectivo, indistintamente, al vencimiento de cualquiera de los depósitos a plazo que haya realizado dicha persona.
 
 Las instituciones del sistema financiero serán responsables solidarias con el contribuyente por el impuesto a los depósitos en efectivo no recaudado, cuando no informen a las autoridades fiscales de conformidad con la fracción III de este artículo que los fondos de las cuentas del contribuyente no fueron suficientes para recaudar la totalidad de dicho impuesto, o bien, cuando no hubiesen recaudado el impuesto en los términos de esta fracción o de la fracción IV de este artículo.
 
@@ -101,11 +123,15 @@ VIII. Informar a los titulares de las cuentas concentradoras, sobre los depósit
 
 IX. Los titulares de las cuentas concentradoras deberán identificar al beneficiario final del depósito, respecto del cual deberá cumplir con todas las obligaciones establecidas en esta Ley para las instituciones del sistema financiero.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 5.
 
-Si de la información a que se refiere la fracción VII del artículo 4 de esta Ley, se comprueba que existe un saldo a pagar de impuesto a los depósitos en efectivo por parte del contribuyente, la autoridad determinará el crédito fiscal correspondiente, lo notificará al contribuyente y le otorgará el plazo de 10 días hábiles para que manifieste lo que a su derecho convenga.
+Si de la información a que se refiere la fracción VII del artículo 4 de esta Ley, se comprueba que existe un saldo a pagar de impuesto a los depósitos en efectivo por parte del contribuyente, las autoridades fiscales notificarán al contribuyente dicha circunstancia, otorgándole un plazo de 20 días hábiles, contados a partir del día siguiente a aquél en que surta efectos dicha notificación, para que manifieste por escrito lo que a su derecho convenga y, en su caso, presente los documentos y constancias que desvirtúen la existencia del saldo a cargo.
 
-Transcurrido el plazo a que se refiere el párrafo anterior, la autoridad procederá al requerimiento de pago y posterior cobro del crédito fiscal a que se refiere el párrafo anterior, más la actualización y recargos correspondientes desde que la cantidad no pudo ser recaudada hasta que sea pagada.
+Transcurrido el plazo a que se refiere el párrafo anterior, cuando el contribuyente no logre desvirtuar la existencia del saldo a cargo por concepto de impuesto a los depósitos en efectivo o no haya ejercido el derecho a que se refiere el párrafo anterior, la autoridad determinará el crédito fiscal correspondiente y realizará el requerimiento de pago y cobro del mismo, más la actualización y recargos que correspondan desde que la cantidad no pudo ser recaudada y hasta que sea pagada.
 
 ###### Artículo 6.
 
@@ -181,7 +207,11 @@ Los depósitos en efectivo realizados en las cuentas concentradoras, se consider
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Persona moral y sistema financiero, a los que la Ley del Impuesto sobre la Renta considera como tales, a las sociedades operadoras de sociedades de inversión y a las sociedades que presten servicios de distribución de acciones de sociedades de inversión.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+I. Persona moral, a la que la Ley del Impuesto sobre la Renta considera como tal.
 
 II. Depósitos en efectivo, además de los que se consideren como tales conforme a la Ley General de Títulos y Operaciones de Crédito, a las adquisiciones en efectivo de cheques de caja.
 
@@ -189,9 +219,31 @@ III. Cuenta concentradora, a la que tenga a su nombre una institución del siste
 
 IV. Beneficiario final, a la persona física o moral que sea cliente de la institución del sistema financiero titular de una cuenta concentradora.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
+V. Instituciones del sistema financiero:
+
+a) A las que la Ley del Impuesto sobre la Renta considera como tales.
+
+b) A las que se consideren como sociedades cooperativas de ahorro y préstamo, conforme a las disposiciones aplicables.
+
+c) A las sociedades financieras comunitarias y los organismos de integración financiera rural a que se refiere la Ley de Ahorro y Crédito Popular.
+
+d) A las sociedades financieras de objeto múltiple.
+
+e) A las sociedades operadoras de sociedades de inversión.
+
+f) A las sociedades que presten servicios de distribución de acciones de sociedades de inversión.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 13.
 
-Las sociedades cooperativas de ahorro y préstamo autorizadas para operar como entidades de ahorro y crédito en los términos de la Ley de Ahorro y Crédito Popular, deberán cumplir con todas las obligaciones a que se refiere la presente Ley.
+También se encontrarán obligadas al pago del impuesto establecido en esta Ley, las personas físicas y morales respecto de todos los depósitos en efectivo que se realicen en cuentas que tengan abiertas a su nombre en cualquier institución, independientemente de la razón o denominación social que adopte, que tenga por objeto realizar operaciones de ahorro y préstamo con sus socios o accionistas o captar fondos o recursos monetarios de sus socios o accionistas para su colocación entre éstos, las cuales deberán cumplir con todas las obligaciones a que se refiere la presente Ley.
 
 ## TRANSITORIOS
 
@@ -202,3 +254,29 @@ Segundo. Las sociedades o asociaciones que cumplan los requisitos establecidos e
 México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de septiembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 7 DE DICIEMBRE DE 2009.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO A LOS DEPOSITOS EN EFECTIVO
+
+###### ARTÍCULO SEXTO.
+
+En relación con las modificaciones a que se refiere el Artículo Quinto de este Decreto, se estará a lo siguiente:
+
+I. Las modificaciones al artículo 2, fracción VI, de la Ley del Impuesto a los Depósitos en Efectivo, entrarán en vigor el 1 de julio de 2010.
+
+Para los efectos del artículo 2, fracción VI, segundo párrafo de la Ley del Impuesto a los Depósitos en Efectivo, vigente a partir del 1 de julio de 2010, las personas físicas que al 31 de diciembre de 2009 tengan abiertas cuentas con motivo de los créditos que les hayan sido otorgados por las instituciones del sistema financiero deberán proporcionar a la institución del sistema financiero de que se trate, entre el 1 de enero y el 1 de julio de 2010, su clave de inscripción en el Registro Federal de Contribuyentes, a efecto de que dichas instituciones verifiquen con el Servicio de Administración Tributaria que las citadas personas físicas no son contribuyentes que tributan en el Título IV, Capítulo II, de la Ley del Impuesto sobre la Renta.
+
+Cuando las personas físicas no proporcionen su clave de inscripción en el Registro Federal de Contribuyentes en los términos del párrafo anterior, se considerarán como contribuyentes que tributan en los términos del Título IV, Capítulo II, de la Ley del Impuesto sobre la Renta.
+
+II. Para los efectos del artículo 12, fracción V de la Ley del Impuesto a los Depósitos en Efectivo, también se entenderá por instituciones del sistema financiero:
+
+a) A las sociedades y asociaciones a que se refieren los Artículos Segundo y Tercero transitorios del artículo primero del Decreto por el que se expide la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito, publicado en el Diario Oficial de la Federación el 13 de agosto de 2009.
+
+b) A las sociedades y asociaciones a que se refieren los transitorios Primero y Segundo, segundo párrafo del artículo segundo del Decreto por el que se expide la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito, publicado en el Diario Oficial de la Federación el 13 de agosto de 2009.
+
+## Transitorio
+
+Único.- El presente Decreto entrará en vigor el 1 de enero de 2010.
