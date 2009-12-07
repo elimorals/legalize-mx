@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2009-10-23"
+last_updated: "2009-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PENAL DEL ESTADO DE QUERETARO, PUBLICADO EN EL P.O. DE 23 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DE LA LEY PUBLICADA EN EL P.O. DE 7 DE DICIEMBRE DE 2009, SE RESTABLECE LA VIGENCIA DEL PRESENTE ORDENAMIENTO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -845,7 +845,7 @@ III.- Que durante el proceso no se haya sustraido a la acción judicial.
 
 IV.- Que la pena de prisión impuesta no exceda de cinco años;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA [N. DE E., REFORMADA], P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 V.- Que haya pagado la reparación de los daños y perjuicios y la multa. En caso de que el sentenciado acredite a satisfacción del juzgador que no tiene recursos económicos para el pago de la multa, la ejecución de ésta podrá ser suspendida, en cuyo caso seguirá la misma suerte que la pena de prisión.
 
@@ -1779,7 +1779,7 @@ Comete el delito de abigeato el que en cualquier sitio se apodere de una o más 
 
 I.- De 6 meses a 2 años de prisión y de 1 a 50 días multa, si la conducta descrita se ejecuta sobre una o dos cabezas de ganado menor;
 
-II.- De 2 a 6 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre tres a cinco cabezas de ganado menor ó una o dos cabeza (sic)de ganado mayor; y
+II.- De 2 a 6 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre tres a cinco cabezas de ganado menor ó una o dos cabeza (sic) de ganado mayor; y
 
 III.- De 3 a 9 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre más de cinco cabezas de ganado menor ó sobre más de dos cabezas de ganado mayor.
 
@@ -2853,7 +2853,7 @@ DE PRUEBAS
 
 Al servidor público que con motivo de su empleo, cargo o comisión en el servicio público haya incurrido en enriquecimiento ilícito, se le impondrán de 1 a 5 años de prisión y de 60 a 300 días multa, pero si el monto del enriquecimiento ilícito excede de cinco mil veces el salario, se le aplicarán de 3 a 10 años de prisión y de 300 a 500 días multa.
 
-Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, obtenidos durante su cargo en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño, obtenidos durante su cargo en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
 Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados en beneficio del Estado.
 
@@ -2915,7 +2915,7 @@ Al que a sabiendas adquiera indebidamente o haga figurar como suyos, bienes que 
 
 Al que teniendo la obligación legal de conducirse con verdad en un acto ante la autoridad, lo haga falsamente u ocultando la verdad, se le impondrán de 3 meses a 3 años de prisión y hasta 50 días multa.
 
-Si el agente se retractare de sus declaraciones falsas antes de que se pronuncie resolución en el procedimiento en el que se condujo con falsedad, sólo se le impondrá la sanción pecunIaria a que se refiere el párrafo anterior.
+Si el agente se retractare de sus declaraciones falsas antes de que se pronuncie resolución en el procedimiento en el que se condujo con falsedad, sólo se le impondrá la sanción pecuniaria a que se refiere el párrafo anterior.
 
 ###### ARTICULO 278.
 
@@ -3443,7 +3443,7 @@ LIC. MARIANO PALACIOS ALCOCER
 
 EL SECRETARIO DE GOBIERNO
 
-LIC. JOSÉ MARÍA HERNANDEZ SOLIS
+LIC. JOSE MARIA HERNANDEZ SOLIS
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS A LAS REFORMAS DE LA PRESENTE LEY.</small>
 
@@ -3770,3 +3770,15 @@ Artículo Primero. El presente Código entrará en vigor el día siguiente de su
 Artículo Segundo. Se abroga el Código Penal para el Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" el veintitrés de julio de mil novecientos ochenta y siete.
 
 Artículo Tercero. El Código abrogado seguirá aplicándose para los hechos ocurridos durante su vigencia a menos que conforme al nuevo Código hayan dejado de considerarse como delitos o el presente ordenamiento resulte más favorable.
+
+P.O. 7 DE DICIEMBRE DE 2009.
+
+Artículo Primero. Esta Ley comenzará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones previstas en otros ordenamientos, que contravengan lo previsto en la presente Ley.
+
+Artículo Tercero. Quedan vigentes las disposiciones de carácter penal contenidas en leyes especiales de todo lo no previsto y que no se oponga al Código que recobra vigencia.
+
+Artículo Cuarto. El Código abrogado seguirá aplicándose para los hechos ocurridos durante su vigencia, a menos que, conforme al Código que comenzará a regir, hayan dejado de considerarse como delitos o les resulte más favorable.
+
+Artículo Quinto. Todas las disposiciones previstas en otros ordenamientos que hicieren mención al Código que se deja sin efectos, se entenderán hechas al Código que recobra vigencia, tanto en contenido como en la numeración respectiva.
