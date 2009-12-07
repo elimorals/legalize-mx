@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2008-08-18"
+last_updated: "2009-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -935,7 +935,9 @@ VI.- Se abstendrán de dar vuelta a media cuadra.
 
 VII.- Se abstendrán de circular sobre las banquetas o las zonas de seguridad.
 
-VIII.- Tendrán los reflejantes necesarios para ser vistos en lugares de poca visibilidad; y
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Usar chaleco reflejante de color, o cualquier otro implemento, para ser vistos en lugares de poca visibilidad; y
 
 IX.- Se abstendrán de realizar maniobras que pongan en riesgo su integridad física o la de los demás.
 
@@ -2319,6 +2321,10 @@ a) Bicicletas:
 
 4. Transitar por vialidades o carriles en donde se prohíba este medio de transporte.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2009)</small>
+
+5. No usar el chaleco reflejante de color, o cualquier otro implemento, para ser vistos en lugares de poca visibilidad.
+
 b) Motocicletas:
 
 1. No usar anteojos protectores o similares, cuando el vehículo carezca de parabrisas.
@@ -2948,3 +2954,9 @@ DECRETO NUMERO 130, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 30 Y 157 BI
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2009.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
