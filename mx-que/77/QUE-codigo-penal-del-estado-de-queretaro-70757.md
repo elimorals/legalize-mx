@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-del-estado-de-queretaro-70757"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-23"
-last_updated: "2009-10-30"
+last_updated: "2009-12-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 
 CODIGO PENAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DE LA LEY PUBLICADA EN EL P.O. DE 7 DE DICIEMBRE DE 2009, QUEDA SIN EFECTOS LA VIGENCIA DEL PRESENTE ORDENAMIENTO.</small>
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE OCTUBRE DE 2009.]</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTOS.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el viernes 23 de octubre de 2009.
 
@@ -1193,7 +1193,7 @@ A la mujer que se procure el aborto o consienta en que otro la haga abortar, se 
 
 ###### Artículo 142.
 
-Tratándose de la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar, el Juez podrá aplicar hasta una tercera parte de la pena prevista en el artículo anterior, cuando sea equitativo hacerlo considerando lo dispuesto en el artículo 68 de este Código y específicamente, en su caso, el estado de salud de la madre, su instrucción y condiciones personales, las circunstancias en que se produjo la concepción, el tiempo que hubiese durado el embarazo, el desarrollo y características del producto, el consentimiento otorgado por el otro progenitor cuando éste viva con la madre y cumpla las obligaciones inherentes a la unión, los resultados de la medida cautelar de atención integral a mujeres en caso de práctica, de aborto, siempre que sean aportados por la imputada y en general todos los elementos conducentes a resolver equitativamente (sic) el caso de que se trate.
+Tratándose de la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar, el Juez podrá aplicar hasta una tercera parte de la pena prevista en el artículo anterior, cuando sea equitativo hacerlo considerando lo dispuesto en el artículo 68 de este Código y específicamente, en su caso, el estado de salud de la madre, su instrucción y condiciones personales, las circunstancias en que se produjo la concepción, el tiempo que hubiese durado el embarazo, el desarrollo y características del producto, el consentimiento otorgado por el otro progenitor cuando éste viva con la madre y cumpla las obligaciones inherentes a la unión, los resultados de la medida cautelar de atención integral a mujeres en caso de práctica, de aborto, siempre que sean aportados por la imputada y en general todos los elementos conducentes a resolver equitativamente el caso de que se trate.
 
 ###### Artículo 143.
 
@@ -3276,3 +3276,15 @@ P.O. 30 DE OCTUBRE DE 2009.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Para efectos de congruencia y procedencia en el trámite legislativo, las modificaciones de la presente reforma deberán ajustarse al contenido y numeración de las disposiciones vigentes, recorriendo, en su caso, el articulado respectivo al momento de su publicación.
+
+P.O. 7 DE DICIEMBRE DE 2009.
+
+Artículo Primero. Esta Ley comenzará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones previstas en otros ordenamientos, que contravengan lo previsto en la presente Ley.
+
+Artículo Tercero. Quedan vigentes las disposiciones de carácter penal contenidas en leyes especiales de todo lo no previsto y que no se oponga al Código que recobra vigencia.
+
+Artículo Cuarto. El Código abrogado seguirá aplicándose para los hechos ocurridos durante su vigencia, a menos que, conforme al Código que comenzará a regir, hayan dejado de considerarse como delitos o les resulte más favorable.
+
+Artículo Quinto. Todas las disposiciones previstas en otros ordenamientos que hicieren mención al Código que se deja sin efectos, se entenderán hechas al Código que recobre vigencia, tanto en contenido como en la numeración respectiva.
