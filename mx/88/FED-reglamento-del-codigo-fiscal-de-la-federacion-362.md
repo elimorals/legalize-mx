@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-codigo-fiscal-de-la-federacion-362"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "2002-05-21"
+last_updated: "2009-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=362&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DEL CODIGO FISCAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL CODIGO FISCAL DE LA FEDERACION, PUBLICADO EN EL D.O.F. DE 7 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -1776,3 +1778,13 @@ D.O.F. 21 DE MAYO DE 2002.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Para los efectos de lo dispuesto por el artículo 49 del Reglamento del Código Fiscal de la Federación, los dictámenes de estados financieros correspondientes al ejercicio fiscal de 2001, se deberán presentar a más tardar el 31 de julio de 2002. Los contribuyentes que presenten el dictamen durante el mes citado deberán realizar dicha presentación en las fechas y de conformidad con el calendario que mediante reglas de carácter general emita el Servicio de Administración Tributaria.
+
+D.O.F. 7 DE DICIEMBRE DE 2009.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación con excepción de lo establecido en el artículo 67, fracción IX de este Reglamento, que entrará en vigor el 1 de enero de 2010.
+
+Segundo.- Se abroga el Reglamento del Código Fiscal de la Federación publicado el 29 de febrero de 1984 en el Diario Oficial de la Federación.
+
+Continuarán vigentes, en lo que no se opongan al Reglamento que se expide, las disposiciones de carácter administrativo, reglas, consultas e interpretaciones de carácter general contenidas en circulares o publicadas en el Diario Oficial de la Federación.
+
+Tercero.- La cantidad que establece el artículo 104 de este Reglamento, se encuentra actualizada al 1 de enero de 2009.
