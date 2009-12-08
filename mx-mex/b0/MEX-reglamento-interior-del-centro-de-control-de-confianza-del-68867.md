@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-centro-de-control-de-confianza-del-6886
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-14"
-last_updated: "2009-05-14"
+last_updated: "2009-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MEXICO, PUBLICADO EN LA G.G. DEL 8 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el jueves 14 de mayo de 2009.
 
@@ -264,3 +266,13 @@ LIC. CARLOS FLORES GONZALEZ
 DIRECTOR GENERAL DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MEXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 8 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior del Centro de Control de Confianza del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 14 de mayo de 2009.
