@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-para-los-juzgados-de-primera-instancia-6625
 country: "mx"
 rank: "reglamento"
 publication_date: "1983-10-05"
-last_updated: "2003-12-12"
+last_updated: "2009-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR PARA LOS JUZGADOS DE PRIMERA INSTANCIA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Bis del Periódico Oficial del Estado de Sinaloa, el miércoles 5 de octubre de 1983.
 
@@ -51,7 +51,9 @@ a).- Un Juez;
 
 b).- Un mínimo de dos secretarios, numerados progresivamente;
 
-c).- Un mínimo de dos Actuarios, también numerados progresivamente; y
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+c).- Un mínimo de dos Actuarios, también numerados progresivamente, sólo en los distritos judiciales donde no exista Coordinación de Actuarios; y,
 
 d).- El demás personal que requiera el servicio y señale o autorice el Presupuesto.
 
@@ -161,6 +163,10 @@ El Secretario cuidará que los expedientes a su cargo sean debidamente sellados,
 
 El Secretario del Juzgado deberá entregar al Actuario en turno en su caso, a más tardar a las 14:30 horas, los expedientes en los que hubiere recaído acuerdo, con todos los demás requisitos señalados en el Artículo anterior.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+En los distritos judiciales donde funcione una coordinación de actuarios, el secretario del juzgado deberá enviar a la coordinación, dentro de las veinticuatro horas siguientes a las que se ordene una diligencia que deba llevarse a cabo por el actuario, el instructivo, cédula o constancia expedida por el Secretario de Acuerdos respectivo, que contenga los requisitos previstos en el artículo 8 del Reglamento Interior para las Coordinaciones de Actuarios de los Juzgados de Primera Instancia Civiles y Familiares, así como los anexos necesarios para la práctica de la diligencia que se trate, para efectos de que sea programada su diligenciación dentro de las setenta y dos horas siguientes a su recepción.
+
 ###### ARTICULO 21.
 
 Para la atención de litigantes, postulantes y público en general, los Jueces y Secretarios fijarán el horario que estimen pertinente, de manera que dichos servidores públicos puedan dedicar tiempo a sus respectivas labores de dictar sentencias, desahogar audiencias y dictar acuerdos.
@@ -173,11 +179,17 @@ Habiendo dos Secretarios, el despacho de los acuerdos se distribuirá numéricam
 
 Habiendo dos Actuarios, estos se repartirán el turno de los negocios por días de semana, correspondiendo los lunes y martes al Actuario Primero y los jueves y viernes al Actuario Segundo. Los días miércoles se turnarán alternadamente.
 
-Esta distribución no se alterará por los días inhábiles.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+En los distritos judiciales donde funcione una coordinación de actuarios, el turno de los negocios a éstos se llevará a cabo en los términos previstos en el reglamento de la coordinación.
 
 ###### ARTICULO 24.
 
 En la lista de acuerdos se indicará a qué Actuario corresponden los negocios del día.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+La disposición anterior no tendrá aplicación en aquellos distritos judiciales donde funcione una coordinación de actuarios.
 
 ### CAPITULO III. DE LOS JUECES
 
@@ -277,11 +289,15 @@ XI.- Cuidar que se cumpla el presente Reglamento.
 
 Las atribuciones y obligaciones a que se refiere el artículo anterior serán cumplidas, en lo que sean aplicables, por el Secretario que tenga a su cargo el expediente.
 
-### CAPITULO V. DE LOS ACTUARIOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO V. DE LOS ACTUARIOS ADSCRITOS A LOS JUZGADOS DE PRIMERA INSTANCIA
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 34.
 
-Los Actuarios tendrán las obligaciones que les fija el Artículo 30 de la Ley Orgánica del Poder Judicial, las leyes procesales de la materia de que se trate y el presente Reglamento.
+Los Actuarios adscritos a los juzgados de primera instancia tendrán las obligaciones que les fija el Artículo 58 de la Ley Orgánica del Poder Judicial, las leyes procesales de la materia de que se trate y el presente Reglamento.
 
 ###### ARTICULO 35.
 
@@ -310,6 +326,10 @@ Los Actuarios están obligados a tener a disposición del Juez o de los Secretar
 ###### ARTICULO 40.
 
 El Juez y el Secretario Primero o Unico en su caso, tendrán obligación de inspeccionar personalmente una vez al mes, por lo menos, los expedientes que tengan los Actuarios para la práctica de notificaciones o diligencias, corrigiendo las anomalías que detecten y haciéndolas del conocimiento del Superior.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 40 BIS.- Las disposiciones previstas en este capítulo sólo serán aplicables en aquellos distritos judiciales donde no funcione coordinación de actuarios; donde la haya, los actuarios se regirán por lo previsto en el reglamento de la misma.
 
 ### CAPITULO VI. DEL ARCHIVO Y CORRESPONDENCIA
 
@@ -440,3 +460,7 @@ P.O. 17 DE ABRIL DE 1998.
 P.O. 12 DE DICIEMBRE DE 2003.
 
 PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 9 DE DICIEMBRE DE 2009.
+
+ÚNICO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
