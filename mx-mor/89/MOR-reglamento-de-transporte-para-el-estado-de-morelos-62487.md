@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-transporte-para-el-estado-de-morelos-62487"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-13"
-last_updated: "2008-08-13"
+last_updated: "2009-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE TRANSPORTE PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2008.
 
@@ -45,9 +45,11 @@ REGLAMENTO DE TRANSPORTE PARA EL ESTADO DE MORELOS
 
 El presente Reglamento establece las normas, condiciones y requisitos a que debe sujetarse la prestación del servicio de transporte público y privado en sus diversas modalidades.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 2.
 
-Corresponde al titular del Poder Ejecutivo a través del Director General de Transportes, la aplicación del presente Reglamento, sin perjuicio de las atribuciones que correspondan a las autoridades municipales, de conformidad con las disposiciones legales aplicables.
+Corresponde al titular del Poder Ejecutivo a través del Director General de Transportes, así como a la Secretaría de Seguridad Pública del Estado, la aplicación del presente Reglamento, sin perjuicio de las atribuciones que correspondan a las autoridades municipales, de conformidad con las disposiciones legales aplicables.
 
 ###### ARTÍCULO 3.
 
@@ -103,7 +105,9 @@ XXIV. Seguro. Contrato por el cual una empresa aseguradora debidamente constitui
 
 XXV. Sin itinerario fijo. Transporte público de pasajeros que se presta en automóviles y no está sujeto a ruta determinada ni a horario alguno, pero debe circunscribirse al territorio de operación y a la tarifa autorizada por la autoridad competente;
 
-XXVI. Supervisor. Elemento humano adscrito a la Dirección General de Transportes encargado de vigilar el cumplimiento del presente Reglamento;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+XXVI. Supervisor. Elemento humano adscrito a la Secretaría de Seguridad Pública, encargado de vigilar el cumplimiento del presente Reglamento;
 
 XXVII. Tarifa. Monto del cobro por concepto de traslado de personas o bienes muebles de un lugar a otro;
 
@@ -123,9 +127,15 @@ I. El Gobernador del Estado;
 
 II. El Secretario de Gobierno;
 
-III. El Director General de Transportes, en materia de transporte público y privado en cualquiera de sus modalidades, y
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-IV. Los Servidores Públicos de la Dirección General de Transportes, a quienes este Reglamento y otras disposiciones aplicables o la autoridad competente les otorguen tal carácter.
+III.- El Secretario de Seguridad Pública;
+
+IV. El Director General de Transportes, en materia de transporte público y privado en cualquiera de sus modalidades, y
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+V. Los Servidores Públicos de la Dirección General de Transportes y de la Secretaría de Seguridad Pública, a quienes este Reglamento y otras disposiciones aplicables o la autoridad competente les otorguen tal carácter.
 
 ###### ARTÍCULO 6.
 
@@ -271,11 +281,15 @@ I. Brindar apoyo y representar al Director General en los asuntos que le encomie
 
 II. Supervisar, asesorar y coordinar las funciones de las demás áreas con que cuente la Dirección General de Transportes, para su mejor funcionamiento;
 
-III. Proponer al Director General la aplicación de operativos al transporte público y privado;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-IV. Supervisar la debida prestación del servicio público y privado, así como la correcta aplicación de infracciones;
+III. Solicitar y realizar en coordinación con la Secretaría de Seguridad Pública, operativos al transporte público y privado;
 
-V. Supervisar que las unidades del servicio público y privado se encuentren en optimas condiciones para la prestación del servicio, para lograr mejoras en el parque vehicular, y
+IV. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2009)
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+V. Revisar que las unidades del servicio público y privado se encuentren en óptimas condiciones para la prestación del servicio, para lograr mejoras en el parque vehicular;
 
 VI. Las demás que le asigne el Director General o le confieran otros ordenamientos aplicables.
 
@@ -543,9 +557,11 @@ El transporte público de pasajeros sin itinerario fijo, es aquél que se presta
 
 El transporte público de pasajeros Mixto, es aquel que se presta fuera de circunscripción urbana o interurbana, dentro del territorio estatal, con itinerario fijo entre la comunidad rural y otra o la vía de entronque por donde circulen servicios colectivos urbanos, interurbanos o foráneos; debiendo prestarse en vehículos adaptados con compartimientos específicos para el transporte de pasaje y de carga, de conformidad con las condiciones y vehículos que se determinen en el Reglamento.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 52.
 
-Se prohíbe conducir vehículos destinados al servicio de transporte en todas sus modalidades a personas en estado de ebriedad o bajo los efectos de cualquier droga o sustancia que disminuya la aptitud para manejar, aún cuando por prescripción médica se haya autorizado su uso.
+Se prohíbe conducir vehículos destinados al servicio de transporte en todas sus modalidades a personas en estado de ebriedad o bajo los efectos de cualquier droga o sustancia que disminuya la aptitud para manejar, aún cuando por prescripción médica se haya autorizado su uso. En caso de que se detecte a una persona en las condiciones anteriores se hará acreedor a la infracción contenida en el artículo 227 fracción I, inciso l), del presente Reglamento, así mismo los elementos de supervisión del transporte que para tal efecto designe la Secretaría de Seguridad Pública procederán conforme lo establece el precitado artículo.
 
 ###### ARTÍCULO 53.
 
@@ -889,17 +905,19 @@ Cuando se presenten dos o más solicitudes respecto de un mismo lugar para estab
 
 En caso de existir conflicto o controversia respecto de la representatividad de una persona moral, no se otorgará autorización de sitio hasta en tanto se resuelva o exista certeza jurídica sobre ésta; para ser representante de una organización transportista, es necesario ser titular de al menos una concesión o permiso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 80.
 
-Los depósitos de vehículos son los locales en los se depositan unidades motrices accidentadas en carreteras de jurisdicción estatal o retenidas por los supervisores de la Dirección General de Transportes, por violación a la Ley, al Reglamento u otras disposiciones legales, los cuales quedan a disposición de autoridad competente y bajo la responsabilidad y registro del depositario.
+Los depósitos de vehículos son los locales en los se depositan unidades motrices accidentadas en carreteras de jurisdicción estatal o retenidas por los elementos de supervisión de transporte que para tal efecto designe la Secretaría de Seguridad Pública del Estado, por violación a la Ley, al Reglamento u otras disposiciones legales, los cuales quedan a disposición de autoridad competente y bajo la responsabilidad y registro del depositario.
 
 Los solicitantes de permisos para operar el depósito de vehículos, deberán satisfacer los siguientes requisitos:
 
 I. Disponer de un terreno con una superficie mínima de 5,000 metros cuadrados, cercado perimetralmente, con instalación eléctrica, con teléfono o algún otro medio de comunicación, con piso compacto, con extinguidores y rotulado para su identificación, y
 
-II. (SIC)
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-III. Acreditar su propiedad o posesión por un término mínimo de cinco años.
+II. Acreditar su propiedad o posesión por un término mínimo de cinco años.
 
 ### CAPÍTULO QUINTO. DEL REGISTRO DE VEHÍCULOS DESTINADOS AL TRANSPORTE PÚBLICO Y PRIVADO
 
@@ -933,7 +951,9 @@ Para dar de baja un vehículo del Registro Público se requiere:
 
 I. Devolución de placas, calcomanías y tarjeta de la circulación, y
 
-II. Presentar constancia de no adeudo por infracciones de tránsito del municipio al que pertenecen y sus alrededores, así como de la Dirección General de Transportes.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+II. Presentar constancia de no adeudo por infracciones de tránsito del Municipio al que pertenecen y de los Municipios colindantes, así como de la Secretaría de Seguridad Pública.
 
 Tramitada la baja, se entregará al interesado una constancia que lo acredite.
 
@@ -951,9 +971,11 @@ La Dirección General de Transportes enviará a la Dirección General de Control
 
 Las placas de matriculación que expida la Dirección General de Transportes, para identificar individualmente a los vehículos de transporte público y privado, tendrán las características y vigencia especificadas en los convenios o acuerdos que celebre el Ejecutivo del Estado con la federación y demás entidades federativas.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 88.
 
-Para el caso de perdida, robo o extravío de alguna placa o ambas, así como la tarjeta de circulación deberán exhibir ante la Dirección General de Transportes, el acta levantada ante la autoridad competente, previo pago correspondiente. En caso de falta de una o ambas placas, el concesionario, una vez exhibida el acta requerida, no podrá prestar el servicio público, hasta en tanto se realice la reposición respectiva de la placa solicitada, teniendo la Dirección General de Transportes, un plazo máximo de quince días para su reposición, caso contrario se emitirá el permiso que sustituya la placa requerida.
+Para el caso de pérdida, robo o extravío de alguna placa o ambas, así como la tarjeta de circulación deberán exhibir ante la Dirección General de Transportes, el acta levantada ante la autoridad competente, previo pago correspondiente. En caso de falta de una o ambas placas, el concesionario, una vez exhibida el acta requerida, no podrá prestar el servicio público, hasta en tanto se realice la reposición respectiva de la placa solicitada, teniendo la Dirección General de Transportes, un plazo máximo de quince días para su reposición, caso contrario se emitirá el permiso que sustituya la placa requerida.
 
 ###### ARTÍCULO 89.
 
@@ -1157,6 +1179,22 @@ V. Demás requisitos que requiera la Dirección General de Transportes, referent
 
 Además de cumplidos los requisitos que señala este Reglamento, así como con el pago de los derechos de renovación, recibo con el cual se asentará como nota marginal de "renovada" en el Registro Público, para renovar la Concesión, la Dirección General de Transportes revisará que el concesionario haya cumplido satisfactoriamente con la prestación del servicio, de conformidad con lo establecido en el artículo 49 de la Ley.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+ARTÍCULO 109 BIS. De conformidad con el artículo 50 de la Ley, los concesionarios deberán realizar refrendo de tarjetón de forma anual, presentando los siguientes requisitos en original y copia para su cotejo:
+
+I. Identificación Oficial; para los casos en que los concesionarios sean personas morales deberán presentar, poder otorgado ante fedatario público en el que se consignen las facultades que se confieren y que éstas sean suficientes para realizar el trámite correspondiente;
+
+II. Original del último tarjetón de autorización para prestar el servicio de transporte público expedido por la Dirección General de Transportes, para el canje correspondiente;
+
+III. Tarjeta de circulación vigente;
+
+IV. Seguro de viajero y póliza de pago vigente de Institución legalmente autorizada y de responsabilidad civil por daños a terceros, por el monto que determina la Dirección General de Transportes;
+
+V. Verificación de salubridad (solo para transporte de agua potable en pipas), y
+
+VI. Constancia de aprobación y vigencia de la revista mecánica correspondiente.
+
 ### CAPÍTULO CUARTO. DE LA TRANSMISIÓN DE LAS CONCESIONES
 
 ###### ARTÍCULO 110.
@@ -1165,11 +1203,15 @@ Las concesiones para explotar el servicio de transporte público podrán transmi
 
 I. En el caso de personas físicas, por causa de muerte o incapacidad física o mental, a favor de la persona que aparezca como beneficiario en el título de concesión, el designado por su titular, o por persona que se crea con mejor derecho para la transmisión de la concesión, exhibiendo los siguientes requisitos:
 
-a) Solicitud por escrito,
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-b) Título de concesión en el que aparezca el beneficiario o en su caso la manifestación o declaración por parte de los que se crean que ejercen el derecho de la concesión, resolución judicial o testamento; en el caso de incapacidad física o mental deberá exhibir el dictamen médico correspondiente, ratificado y avalado por una institución del sector salud;
+a) Solicitud por escrito en el formato que expida la Dirección General de Transportes;
 
-c) Acta de nacimiento del concesionario;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+b) Título de concesión, resolución judicial o testamento; en el caso de incapacidad física o mental deberá exhibir el dictamen médico correspondiente, ratificado y avalado por una institución del sector salud;
+
+c) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2009)
 
 d) Acta de defunción del concesionario;
 
@@ -1177,33 +1219,39 @@ e) Acta de matrimonio o constancia de concubinato;
 
 f) Acta de nacimiento del solicitante;
 
-g) Acta de nacimiento de todos y cada uno de los que conforman la familia;
+g) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2009)
 
-h) Carta consentimiento de cada uno de ellos;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-i) Carta de residencia del solicitante, y
+h) Comparecencia ante la Dirección General de Transportes, de las personas que se encuentren en igualdad de derechos sobre la concesión;
 
-j) Carta de antecedentes no penales del solicitante;
+i) Carta de residencia del solicitante, y (sic)
 
-II. Cesión de derechos autorizada por el Secretario de Gobierno, según corresponda, o por el titular de la dependencia en quien delegue esa facultad; el concesionario que ceda los derechos de la concesión, quedará imposibilitado para obtener otra en forma definitiva, así mismo, para estar en condiciones de realizar la (sic) cesiones de derecho entre particulares, se deberán de ajustar los interesados al tenor de los siguientes requisitos:
+j) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2009)
 
-Si se trata de persona física a física
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-a) Solicitud por escrito;
+k) Constancia de aprobación y vigencia de la Revista Mecánica del vehículo con el que se presta el servicio público;
 
-b) Título de concesión del concesionario cedente;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-c) Acta de nacimiento del cedente o cesionario;
+II. Cesión de derechos autorizada por el Director General de Transportes previo acuerdo con el Secretario de Gobierno, según corresponda, o por el titular de la Dependencia en quien delegue esa facultad; el concesionario que ceda los derechos de la concesión, quedará imposibilitado para obtener otra en forma definitiva, así mismo, para estar en condiciones de realizar la (sic) cesiones de derecho entre particulares, y tratándose de personas físicas, se deberán de ajustar los interesados al tenor de los siguientes requisitos:
 
-d) Acta de matrimonio o constancia de concubinato del cedente y cesionario;
+a) Solicitud por escrito en el formato que expida la Dirección General de Transportes;
 
-e) Acta de nacimiento de todos y cada uno de los que conforman la familia;
+b) Título de la concesión;
 
-f) Carta consentimiento por parte del cónyuge para el caso de que el régimen matrimonial con el que contrajeran matrimonio sea el de sociedad conyugal o la propia concesión sea parte del patrimonio adquirido en sociedad;
+c) Acta de nacimiento del cesionario;
 
-g) Carta de residencia del cesionario, y
+d) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2009)
 
-h) Carta de antecedentes no penales del cesionario.
+e) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2009)
+
+f) Carta consentimiento por parte del cónyuge del cedente para el caso de que el régimen matrimonial con el que contrajeran matrimonio sea el de sociedad conyugal o la propia concesión sea parte del patrimonio adquirido en sociedad;
+
+g) Carta de residencia del cesionario;
+
+h) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2009)
 
 ###### ARTÍCULO 111.
 
@@ -1211,27 +1259,35 @@ Además de los requisitos antes señalados, a la solicitud deben acompañarse lo
 
 I. Depósito de las láminas durante el trámite de la cesión de derechos en el caso por defunción;
 
-II. Tarjetón;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-III. Factura;
+II. Tarjetón original;
 
-IV. Tarjeta de circulación;
+III. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2009)
 
-V. Últimos cinco pagos de tenencia;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+IV. Original y copia de Tarjeta de circulación vigente para cotejo;
+
+V. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2009)
 
 VI. Seguro de viajero y la póliza respectiva vigente;
 
-VII. Recibo de renovación de concesión;
+VII. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2009)
 
-VIII. Revista mecánica;
+VIII. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2009)
 
-IX. Pago de refrendo por derechos de control vehicular;
+IX. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2009)
 
-X. Identificaciones oficiales;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-XI. Licencia de chofer, y
+X. Identificaciones oficiales del cesionario y testigos;
 
-XII. Título de concesión.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+XI. Licencia de chofer del solicitante, y
+
+XII. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2009)
 
 ###### ARTÍCULO 112.
 
@@ -1329,9 +1385,15 @@ XV. Respetar los acuerdos y criterios emitidos por el Consejo Consultivo de Tran
 
 XVI. Abstenerse de inscribir en las unidades en las que se preste el servicio público concesionado o permisionado, leyendas ofensivas, obscenas o despectivas hacia las personas, instituciones y dependencias;
 
-XVII. Respetar el enrolamiento y horarios establecidos en el propio reglamento de la asociación, que permitan la mejor prestación del servicio para el usuario, y
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-XVIII. Las que resulten de los convenios que celebre el Estado con la autoridad federal relacionados con dichos servicios.
+XVII. Abstenerse de realizar actos que pudieran ser constitutivos de delito tipificado por la legislación penal;
+
+XVIII. Respetar el enrolamiento y horarios establecidos en el propio reglamento de la asociación, que permitan la mejor prestación del servicio para el usuario, y
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+XIX. Las que resulten de los convenios que celebre el Estado con la Autoridad Federal relacionados con dichos servicios.
 
 ###### ARTÍCULO 123.
 
@@ -1435,23 +1497,19 @@ IX. Alumbrado: En el exterior del vehículo las unidades deben llevar luces inte
 
 X. Puertas de emergencia: las unidades deben contar con salidas de emergencia, adicionales a las puertas de ascenso y descenso, a fin de proporcionar cuando menos una opción de salida en cualquier posición, en caso de emergencia;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 XI. Cumplir con las siguientes dimensiones:
 
-Autobús
+DIMENSIONES TIPO DE VEHÍCULO
 
-Minibús Panel
+AUTOBÚS MICROBÚS PANEL
 
-Altura total 3.00 m. max
+Altura total 3.00m. max 2.70m. max 2.30m. max
 
-2.70 m. max 2.30 m. max
+Largo total 8.50m. max 7.00m. max 5.30m. max
 
-Largo total 8.50 m. max
-
-7.00 m. max 5.30 m. max
-
-Ancho total 2.50 m. max
-
-2.30 m. max 1.70 m. max
+Ancho total 2.50m. max 2.30m. max 1.70m. max
 
 XII. El tubo de escape debe ser instalado de tal forma que los gases de humo del motor no se descarguen por el lado donde se encuentra la entrada y salida de pasajeros;
 
@@ -1463,31 +1521,23 @@ XV. Tener estribo de acceso al vehículo considerándolo en vació a una altura 
 
 XVI. Tener como mínimo 190 centímetros de altura de piso a toldo medida al centro del pasillo, así como en todo el interior del vehículo, y tener un ancho mínimo del pasillo, del piso a los 0.9 m. de altura de 45 centímetros y un ancho, a partir de los 90 centímetros, hasta el toldo de 55 centímetros las áreas de pasillos solo se deben utilizar para la afluencia de pasajeros;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 XVII. Las dimensiones de los asientos deben cumplir las condiciones siguientes:
 
-Cojín Profundidad
+Cojín Profundidad 0.38m. mínimo
 
-0.38m. mínimo
+Ancho 0.45m mínimo
 
-Ancho
+Inclinación 4 grados mínimo
 
-0.45m mínimo
+Respaldo Altura 0.70m. mínimo
 
-Inclinación
+Ancho 0.45m. mínimo
 
-4 grados mínimo
+igual a la intersec.
 
-Respaldo Altura
-
-0.70m. mínimo
-
-Ancho
-
-0.45m. mínimo igual a la intersec.
-
-Inclinación
-
-5 grados mínimo
+Inclinación 5 grados mínimo
 
 XVIII. Tener una distancia mínima de 70 centímetros entre asientos en un mismo sentido, considerando esta longitud desde la intersección entre el cojín con el respaldo del asiento;
 
@@ -1495,7 +1545,7 @@ XIX. El anclaje de los asientos debe evitar que estos se muevan, así como propo
 
 XX. Traer a bordo dos triángulos de seguridad para ser utilizados como medida preventiva en caso de emergencia, deberán contar con sistema desempañante de parabrisas, y
 
-XXI. Llevar la defensa trasera a una altura máxima de 60 centímetros y la delantera menor a 65centímetros a partir del piso hasta la parte inferior de la defensa.
+XXI. Llevar la defensa trasera a una altura máxima de 60 centímetros y la delantera menor a 65 centímetros a partir del piso hasta la parte inferior de la defensa.
 
 ###### ARTÍCULO 130.
 
@@ -1617,6 +1667,18 @@ La Dirección General de Transportes, en los primeros meses del año respectivo 
 
 El trámite de la revista mecánica tiene vigencia únicamente durante el año en que fue expedida.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+Para el trámite de la revista mecánica se deberá presentar físicamente la unidad para su revisión y copia de los siguientes requisitos:
+
+I. Tarjeta de circulación vigente;
+
+II. Licencia de conducir clasificación de chofer;
+
+III. Póliza de seguro y recibo de pago vigente, y
+
+IV. Boleta original de revista mecánica del año anterior.
+
 ###### ARTÍCULO 151.
 
 Los vehículos del servicio público del transporte de pasajeros y de carga, además de cumplir con los dispositivos y equipamiento correspondiente, serán factibles de revisión directa en los siguientes términos:
@@ -1629,11 +1691,13 @@ b) Doce años de antigüedad para los vehículos de los Municipios de Amacuzac, 
 
 II. Transporte Público de Pasajeros con Itinerario Fijo:
 
-a) Autobús, 16 años;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+a) Autobús y midibús, 16 años;
 
 b) Microbús, 13 años;
 
-c) Minibús 12 años, y
+c) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2009)
 
 d) Panel, 10 años.
 
@@ -1659,9 +1723,11 @@ El Departamento de Revista Mecánica revisará y en su caso, autorizará los adi
 
 La autorización de aditamento, equipamiento y dispositivos instalados en los vehículos del servicio público y privado tiene vigencia únicamente durante el año en que fue expedido y deberá renovarse cada año.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 153.
 
-Si durante la revisión mecánica se encuentran deficiencias en el vehículo inspeccionado, se otorgará al concesionario o permisionario un plazo de 30 días para que proceda a su reparación, quien deberá presentarlo nuevamente ante el Departamento de Revista Mecánica para nueva revisión, y de no hacerlo se aplicará la sanción respectiva. En caso de que el vehículo ponga en peligro la seguridad de los usuarios, operadores, peatones y público en general, será retirado de la circulación y se hará acreedor a las sanciones correspondientes.
+Si durante la revisión mecánica se encuentran deficiencias en el vehículo inspeccionado, se otorgará al concesionario o permisionario un plazo de 30 días para que proceda a su reparación, quien deberá presentarlo nuevamente ante el Departamento de Revista Mecánica para nueva revisión, para ello el Departamento de Revista Mecánica deberá elaborar oficio de apercibimiento al concesionario o permisionario, especificándole la fecha en que éste deberá de presentar de nueva cuenta su vehículo y le retirará una de las placas; de no hacerlo dentro del plazo concedido en el oficio de apercibimiento se aplicará la sanción respectiva. Para ello se remitirá a la Secretaría de Seguridad Pública el oficio de apercibimiento y la placa para que procedan a realizar la infracción respectiva. En caso de que el vehículo ponga en peligro la seguridad de los usuarios, operadores, peatones y público en general, será retirado de la circulación y se hará acreedor a las sanciones correspondientes.
 
 ###### ARTÍCULO 154.
 
@@ -1731,9 +1797,11 @@ La constancia de antecedentes administrativos deberá solicitarse por escrito, p
 
 ### CAPÍTULO PRIMERO
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 163.
 
-La Dirección General de Transportes vigilará que el servicio público y privado de transporte en cualquiera de sus modalidades se proporcione en condiciones de seguridad, comodidad, higiene y eficiencia; para este propósito, contará en su estructura orgánica con un Departamento de Quejas y Denuncias que brindará información, orientación, asesoría así como atención a las quejas, denuncias y sugerencias presentadas por los usuarios del servicio público y privado de transporte.
+La Dirección General de Transportes verificará que el servicio público y privado de transporte en cualquiera de sus modalidades se proporcione en condiciones de seguridad, comodidad, higiene y eficiencia; para este propósito, contará en su estructura orgánica con un Departamento de Quejas y Denuncias que brindará información, orientación, asesoría así como atención a las quejas, denuncias y sugerencias presentadas por los usuarios del servicio público y privado de transporte.
 
 ###### ARTICULO 164.
 
@@ -1747,9 +1815,11 @@ III. Firma y huella digital del interesado, y
 
 IV. Una narración sucinta de los hechos que se denuncian.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 165.
 
-Recibida la queja, la Dirección General de Transportes dentro de los 10 días hábiles siguientes, hará del conocimiento a los concesionarios o permisionario sobre la misma, señalando día y hora para que comparezca a manifestar lo que a sus intereses corresponda, desahogándose el procedimiento administrativo correspondiente.
+Recibida la queja, la Dirección General de Transportes dentro de los 15 días hábiles siguientes, hará del conocimiento a los concesionarios o permisionario sobre la misma, señalando día y hora para que comparezca a manifestar lo que a sus intereses corresponda, desahogándose el procedimiento administrativo correspondiente.
 
 ###### ARTÍCULO 166.
 
@@ -1795,9 +1865,11 @@ II. La queja de cualquier agrupación no constituida legalmente, se entenderá p
 
 Recibida la queja, registrada y asignado el número de expediente, se procederá a su registro en el Libro de Gobierno.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 175.
 
-Dentro del término de 15 días hábiles se procederá a la calificación de la queja, cuando la queja sea calificada de legal por la Dirección Jurídica de la Dirección General de Transportes, enviará al quejoso copia del acuerdo de calificación de la instancia, en el que se le informará el resultado de su calificación y se le invitará a mantener comunicación con esta Dependencia durante la tramitación del expediente, citándolo los días que se estime necesario para que proporcione datos o pruebas para la mejor solución de su inconformidad.
+Dentro del término de 10 días hábiles se procederá a la calificación de la queja, cuando la queja sea calificada de legal por la Dirección Jurídica de la Dirección General de Transportes, enviará al quejoso copia del acuerdo de calificación de la instancia, en el que se le informará el resultado de su calificación y se le invitará a mantener comunicación con esta Dependencia durante la tramitación del expediente, citándolo los días que se estime necesario para que proporcione datos o pruebas para la mejor solución de su inconformidad.
 
 ###### ARTÍCULO 176.
 
@@ -1919,6 +1991,10 @@ La publicidad se autorizará únicamente en vehículos destinados al servicio p�
 
 La autorización a que se refiere el presente artículo tendrá vigencia máxima de seis meses, y podrá ser renovada por la Dirección General de Transportes.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+La Publicidad integral a que hace referencia el artículo 198 del presente Reglamento se autorizará únicamente en vehículos destinados al servicio público de transporte con itinerario fijo, y podrá ser autorizada por el tiempo que dure el crédito por medio del cual se adquirió la unidad; la autorización antes mencionada se deberá refrendar cada seis meses ante la Dirección General de Transportes.
+
 ###### ARTÍCULO 196.
 
 La Dirección General de Transportes, será la encargada de recibir las solicitudes, tramitar, expedir, renovar o negar las autorizaciones para la instalación y uso de los anuncios publicitarios, así como de establecer un control de anuncios colocados.
@@ -1947,11 +2023,13 @@ II. No se cubran los pagos por concepto de refrendo de la autorización.
 
 En la notificación de cancelación de la autorización, se ordenará el retiro del anuncio, otorgando al titular un plazo de 48 horas para hacerlo voluntariamente, apercibiéndolo de que en caso de incumplimiento se hará acreedor a una sanción y que el anuncio será retirado por el personal de la Dirección General de Transportes, con cargo al titular de la autorización.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 201.
 
-La Dirección General de Transportes, a través de su personal ejercerá las funciones de vigilancia para verificar que se cuente con las autorizaciones correspondientes y se hayan cubierto todos los pagos por concepto de refrendo.
+La Secretaría de Seguridad Pública, a través de su personal ejercerá las funciones de vigilancia para verificar que se cuente con las autorizaciones correspondientes y se hayan cubierto todos los pagos por concepto de refrendo.
 
-En la aplicación de la presente disposición, el personal de supervisión deberá proceder en la forma y términos que señala el artículo 227 fracción II, inciso e) de este Reglamento.
+En la aplicación de la presente disposición, la Secretaría de Seguridad Pública, deberán proceder en la forma y términos que señala el artículo 227 fracción II, inciso e) de este Reglamento.
 
 ###### ARTÍCULO 202.
 
@@ -2001,13 +2079,17 @@ La Dirección General de Transportes, previa autorización del Secretario de Gob
 
 ### CAPÍTULO ÚNICO
 
-###### ARTICULO 209.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-El personal adscrito al Departamento de supervisión está facultado para llevar a cabo las inspecciones que la Dirección General de Transportes, determine, en los vehículos del servicio público y privado de transporte en cualquiera de sus modalidades, ya sea para comprobar su funcionamiento y seguridad, o durante la realización del servicio, para verificar que cumplen con lo establecido en la concesión o permiso, en la Ley, este Reglamento y demás normas técnicas.
+###### ARTÍCULO 209.
 
-###### ARTICULO 210.
+El personal que para tal efecto designe la Dirección General de Transportes en coordinación con la Secretaría de Seguridad Pública, llevarán a cabo las inspecciones que estimen convenientes en los vehículos del servicio público y privado de transporte en cualquiera de sus modalidades, ya sea para comprobar las condiciones mecánicas generales, funcionamiento y seguridad, o durante la realización del servicio, para verificar que cumplen con lo establecido en la concesión o permiso, en la Ley, este Reglamento y demás normas técnicas aplicables.
 
-La Dirección General de Transportes, por conducto del personal de supervisión, tendrá a su cargo:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 210.
+
+La Secretaría de Seguridad Publica, por conducto de los elementos de supervisión del transporte que para tal efecto designe, tendrá a su cargo:
 
 I. Supervisar los vehículos destinados al servicio público y privado de transporte en cualquiera de sus modalidades, que circulen en la vía pública, sus servicios y equipamiento auxiliares;
 
@@ -2019,13 +2101,17 @@ IV. Participar en operativos con autoridades estatales y municipales, según sea
 
 V. Las demás que les confiere la Ley y el presente Reglamento.
 
-###### ARTICULO 211.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-El personal del departamento de supervisión está facultado para proceder en los casos en que los operadores de vehículos del servicio público y privado de transporte, contravengan alguna de las disposiciones de la Ley y el presente Reglamento, levantado, en su caso, las actas de infracciones, en los términos que establece la Ley, el presente Reglamento y demás ordenamientos vigentes en la materia.
+###### ARTÍCULO 211.
 
-###### ARTICULO 212.
+Los elementos de supervisión del transporte de la Secretaría de Seguridad Pública están facultados para proceder en los casos en que los operadores de vehículos del servicio público y privado de transporte, contravengan alguna de las disposiciones de la Ley y el presente Reglamento, levantado, en su caso, las actas de infracciones, en los términos que establece la Ley, el presente Reglamento y demás ordenamientos vigentes en la materia.
 
-Las visitas de supervisión a los vehículos destinados al servicio público y privado de transporte en cualquiera de sus modalidades, a los servicios y equipamiento auxiliares, se practicarán en cualquier día y hora hábiles o previa habilitación de días y horas inhábiles, por personal autorizado que exhiba identificación vigente y la orden escrita de supervisión emitida por la Dirección General de Transportes. En la verificación e inspección de los servicios y equipamiento auxiliares se levantará acta debidamente circunstanciada.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 212.
+
+Las visitas de supervisión a los vehículos destinados al servicio público y privado de transporte en cualquiera de sus modalidades, a los servicios y equipamiento auxiliares, se practicarán en cualquier día y hora hábiles o previa habilitación de días y horas inhábiles, por personal autorizado que exhiba identificación vigente y la orden escrita de supervisión emitida por la Secretaría de Seguridad Pública. En la verificación e inspección de los servicios y equipamiento auxiliares se levantará acta debidamente circunstanciada.
 
 ## TÍTULO DÉCIMO OCTAVO. DEL SEGURO DE VIAJERO Y FONDO DE GARANTÍA
 
@@ -2061,9 +2147,11 @@ I. Por prestar el servicio público de pasajeros o de carga en vehículo particu
 
 II. Por prestar el servicio público fuera de ruta establecida, derrotero autorizado, fuera de la jurisdicción autorizada o prestar el servicio distinto al autorizado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 218.
 
-Cuando los operadores de vehículos contravengan flagrantemente algunas de las disposiciones de este Reglamento, el personal adscrito al Departamento de Supervisión procederá de la siguiente forma:
+Cuando los operadores de vehículos contravengan flagrantemente algunas de las disposiciones de este Reglamento, los elementos de supervisión del transporte adscritos a la Secretaría de Seguridad Pública procederán de la siguiente forma:
 
 I. Indicarán al operador detener la marcha del vehículo y estacionarlo en un lugar donde no obstruya la circulación;
 
@@ -2097,9 +2185,11 @@ VIII. Nombre completo y firma de quien elaboró el acta de infracción, y
 
 IX. Firma del infractor o la anotación de que se negó a hacerlo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 220.
 
-Para garantizar el pago de la multa correspondiente a la infracción, el personal adscrito al Departamento de Supervisión solo podrá retener la licencia de chofer, gafete de identificación de operador del servicio público, la tarjeta de circulación o placa metálica en su caso, con excepción de los casos que refiere el artículo 87 del presente Reglamento.
+Para garantizar el pago de la multa correspondiente a la infracción, los elementos de supervisión del transporte adscritos a la Secretaría de Seguridad Pública sólo podrá retener la licencia de chofer, gafete de identificación de operador del servicio público, la tarjeta de circulación o placa metálica en su caso, con excepción de los casos que refiere el artículo 88 del presente Reglamento.
 
 En el caso de que no presente ninguno de los documentos señalados en el artículo anterior, se procederá a retirar el vehículo de la circulación.
 
@@ -2111,21 +2201,27 @@ Cando la infracción no amerite el retiro del vehículo, el acta que con tal mot
 
 En caso de que el infractor reincida en la conducta o infracción en un periodo de un año contado a partir de la fecha en que se cometió la primera infracción, se le aplicará el doble de la multa correspondiente.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 223.
 
-El personal de la Dirección General de Transportes únicamente podrá detener la marcha de un vehículo, cuando su conductor haya violado de manera flagrante alguna de las disposiciones de este Reglamento, en consecuencia, la sola revisión de documentos no será motivo para detener la circulación de un vehículo, salvo en caso de campañas, operativos o cualquier otro acto de revisión de documentos y unidades por parte de ésta.
+Los elementos de supervisión del transporte adscrito a la Secretaría de Seguridad Pública, únicamente podrán detener la marcha de un vehículo, cuando su contador haya violado de manera flagrante alguna de las disposiciones de este Reglamento, en consecuencia, la sola revisión de documentos no será motivo para detener la circulación de un vehículo, salvo en caso se campañas, operativos o cualquier otro acto de revisión de documentos y unidades por parte de ésta.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 224.
 
-La Dirección General de Transportes deberá poner a disposición del Ministerio Público a toda persona que, al conducir un vehículo destinado al transporte público en cualquiera de sus modalidades, incurra en hechos que puedan ser constitutivos de un delito.
+Los elementos de supervisión del transporte adscritos a la Secretaría de Seguridad Pública, deberá poner a disposición del Ministerio Público a toda persona que, al conducir un vehículo destinado al transporte público en cualquiera de sus modalidades, incurra en hechos que puedan ser constitutivos de un delito.
 
 ###### ARTÍCULO 225.
 
 Si transcurridos treinta días naturales, contados a partir de la fecha en que fue impuesta la multa, ésta no es pagada, se seguirá el procedimiento administrativo de ejecución que marca el Código Fiscal vigente en el Estado.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 226.
 
-No se autorizará ningún trámite administrativo respecto de un concesionario, permisionario u operador, cuando estén pendientes de pago multa por infracciones.
+No se autorizará ningún trámite administrativo respecto de un concesionario, permisionario u operador, cuando tenga pendiente de pago multa por infracción. Para lo anterior la Secretaría de Seguridad Pública remitirá a la Dirección General de Transportes la relación de infractores que, pasados los primeros 30 días a la elaboración de la infracción, hayan omitido realizar el pago de sus multas.
 
 ###### ARTÍCULO 227.
 
@@ -2133,141 +2229,217 @@ Las multas que se impongan por infringir el presente Reglamento, serán con base
 
 I. A los operadores:
 
-a) De veinte a veinticinco días por conducir vehículos de servicio público de transporte sin portar licencia de chofer;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-b) De veinte a veinticinco días, por no cumplir con las condiciones en la prestación del servicio o falta de higiene del vehículo;
+a) De ocho a diez días, por conducir vehículos de servicio público de transporte sin portar licencia de chofer;
 
-c) De veinte a veinticinco días, por hacer sitio en lugar no autorizado;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-d) De cuatrocientos cincuenta a quinientos días, por prestar el servicio fuera de la ruta establecida o del territorio autorizado;
+b) De cinco a siete días, por no cumplir con las condiciones en la prestación del servicio o falta de higiene en el vehículo;
 
-e) De cuatrocientos cincuenta a quinientos días, por prestar servicio de transporte con itinerario fijo, cuando el autorizado es el de transporte sin itinerario fijo (colectivo);
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-f) De cuarenta y cinco a cincuenta y cinco días, por negarse a prestar el servicio sin causa justificada;
+c) De cinco a siete días, por hacer sitio en lugar no autorizado;
 
-g) De veinte a veinticinco días, por no cumplir con la frecuencia de servicio autorizada en la ruta asignada;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-h) De noventa y cinco a ciento cinco días, por no cumplir con el itinerario autorizado en la ruta asignada, salvo causa debidamente justificada y acreditada ante la Dirección General de Transportes;
+d) De cinco a siete días, por alterar la tarifa autorizada;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+e) De cinco a siete días, por hacer ascenso y descenso de pasaje en lugar no autorizado;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+f) De cinco a siete días, por negarse a prestar el servicio sin causa justificada;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+g) De cinco a siete días, por no cumplir con la frecuencia del servicio autorizada en la ruta asignada;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+h) De ocho a diez días, por no cumplir con itinerario autorizado en la ruta asignada, salvo causa debidamente justificada y acreditada ante la Dirección General de Transportes;
 
 i) De cuarenta y cinco, a cincuenta y cinco días, al servicio de transporte público con itinerario fijo, por abastecer combustible con pasajeros a bordo;
 
-j) De veinte a veinticinco días, por faltarle al respeto a los usuarios o a los inspectores de la Dirección General de Transportes debidamente acreditados;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-k) De veinte a veinticinco días, por transportar un número de pasajeros superior al autorizado para el vehículo que conduzca;
+j) De cinco a siete días, por faltarle al respeto a los usuarios o al personal de la Secretaría de Seguridad Pública;
 
-l) De trescientos noventa y cinco a cuatrocientos días, por conducir vehículo de servicio público de transporte en estado de ebriedad o bajo los efectos de alguna droga que afecte sus facultades físicas o mentales, aunque su uso le este autorizado por prescripción médica, y será puesto a disposición del Ministerio Público para la correspondiente certificación y, en todo caso le será cancelado el Gafete de Operador del Servicio Público de conformidad con el artículo 69 de la Ley, debiéndose además girar oficio a la Dirección General de Control Vehicular, pudiendo el concesionario liberar la unidad sin cubrir la infracción generada por esta infracción;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-m) De veinticinco a treinta y cinco días, por no hacer alto total para el ascenso y descenso de pasaje, en las paradas autorizadas para ello, y
+k) De cinco a siete días, por transportar un número de pasajeros superior al autorizado para el vehículo que conduzca;
 
-n) De veinte a veinticinco días, por mantener conversaciones, uso de teléfono móvil que lo distraiga mientras conduce el vehículo.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+l) De noventa y cinco a cien días, por conducir vehículos del servicio público de transporte en cualquiera de sus modalidades en estado de ebriedad o bajo los efectos de alguna droga que afecte sus facultades físicas o mentales, aunque su uso le éste autorizado por prescripción médica, asimismo será puesto a disposición del Ministerio Público para la correspondiente certificación y, en todo caso le será cancelado el Gafete de Operador del Servicio Público de conformidad con el artículo 69 de la Ley, debiéndose además girar oficio a la Dirección General de Control Vehicular a efecto de que sea cancelada la licencia de conducir, pudiendo el concesionario liberar la unidad sin cubrir el pago generado por esta infracción;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+m) De ocho a diez días por no hacer alto total para el ascenso y descenso de pasaje, en las paradas autorizadas para ello;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+n) De cinco a siete días, por mantener conversaciones, uso del teléfono móvil que lo distraiga mientras conduce el vehículo;
 
 II. A los Concesionarios o Permisionarios:
 
-a) De veinticinco a treinta y cinco días, por permitir la circulación de un vehículo que preste servicio de transporte de carga particular o público que carezca de razón social;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-b) De veinticinco a treinta días, por permitir conducir sin licencia o gafete de identificación de operador del servicio público;
+a) De cinco a siete días, por permitir la circulación de un vehículo que preste servicio de transporte de carga particular o privado que carezca de razón social o ésta no sea visible;
 
-c) De cuarenta y cinco a cincuenta y cinco días, por negarse a prestar el servicio sin causa justificada;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-d) De noventa a ciento diez días, por falta de cumplimiento a lo dispuesto en el artículo 9 del presente Reglamento, y
+b) De cinco a siete días, por permitir conducir sin Licencia o Gafete de identificación de operador del Servicio Público;
 
-e) De veinte a veinticinco días, por carecer de autorización para portar publicidad.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+c) De cinco a siete días, por negarse a prestar servicio sin causa justificada;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+d) De ocho a diez días, Por falta de cumplimiento a lo dispuesto en el artículo 9 del presente Reglamento;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+e) De cinco a siete días, por carecer de autorización para portar publicidad;
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+f) De cinco a siete días por portar logotipos o cromática distinta a la autorizada en el servicio público y privado;
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+g) De cinco a siete días por prestar el servicio público en vehículo en mal estado, sin perjuicio de otras sanciones aplicables;
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+h) De cinco a siete días, por falta de cromática;
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+i) De cinco a siete días, por falta de revista mecánica, y
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+j) De diez a doce días, por falta de seguro de viajero;
 
 III. A las asociaciones o sociedades del transporte público con Itinerario Fijo:
 
-a) De cuatrocientos a quinientos días, cuando por causas no justificadas ante la Dirección General de Transportes, no permitan el enrolamiento de unidades de transporte pertenecientes a la misma ruta. La multa se duplicará cuando, a falta de enrolamiento debidamente justificado se provoque algún hecho de tránsito, lesión o daños a terceros o, entre las mismas rutas.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-IV. Placas:
+a) De cuarenta y cinco a cincuenta días cuando por causas no justificadas ante la Dirección General de Transportes, no permitan el enrolamiento de unidades del Transporte perteneciente a la misma ruta. La multa se duplicará cuando, a falta de enrolamiento debidamente justificada se provoque algún hecho de tránsito lesiones o daño a terceros o entre las mismas rutas. Lo anterior sin perjuicio de otras responsabilidades que resulten aplicables;
 
-a) De veinte a veinticinco días, por falta de una placa o dos placas:
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-b) De treinta y cinco a cuarenta días, por impedir la visibilidad;
+IV. A la persona responsable con relación a las placas:
 
-c) De ciento noventa y cinco a doscientos cinco días, por sustituirlas por placas decorativas o de otro país;
+a) De cinco a siete días, por falta de una placa o dos placas;
 
-d) De noventa y cinco a cien días, por circular con placas no vigentes;
+b) De cinco a siete días, por impedir la visibilidad;
 
-e) De cuatrocientos cincuenta a quinientos días, por circular con placas de otro vehículo;
+c) De cinco a siete días, por sustituirlas por placas decorativas o de otro país;
 
-V. Luces:
+d) De cinco a siete días, por circular con placas no vigentes;
 
-a) De veinte a veinticinco días, por falta de luces de faros principales delanteros;
+e) De cuarenta y cinco a cincuenta días por circular con placas de otro vehículo;
 
-b) De veinte a veinticinco días, por falta de luces de lámparas posteriores o delanteras, y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-c) De cuarenta y cinco a cincuenta y cinco días, por carecer de lámparas demarcadas y de identificación los autobuses, camiones, remolques, semirremolques y camión tractor.
+V. A la persona responsable con relación a las luces:
 
-VI. Visibilidad:
+a) De cinco a siete días, por falta de luces de faros principales delanteros;
 
-a) De veinte a veinticinco días, por colocar en los cristales del vehículo, rótulos, leyendas carteles u objetos que la obstruyan, y
+b) De cinco a siete días, por falta de luces de lámparas posteriores o delanteras y,
 
-b) De noventa y cinco a ciento cinco días, por pintar los cristales u obscurecerlos, que disminuyan la visibilidad.
+c) De cinco a siete días, por carecer de lámparas demarcadas de identificación los autobuses, camiones, remolques, semirremolques y camión tractor;
 
-VII. Circulación:
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-a) De veinte a veinticinco días, por obstruir;
+VI. A la persona responsable con relación a la visibilidad:
 
-b) De veinte a veinticinco días, por expedir humo excesivo que produzca contaminación sin causa justificada;
+a) De cinco a siete días, por colocar en los cristales del vehículo rótulos, leyendas carteles u objetos que la obstruyan;
 
-c) De veinte a veinticinco días, por circular en sentido contrario:
+b) De cinco a siete días, por pintar los cristales u obscurecerlos, que disminuyan la visibilidad, y
 
-d) De veinte a veinticinco días, por conducir con personas o bulto en los brazos;
+c) De cinco a siete días por no realizar el cambio de cristales estrellados;
 
-e) De cuarenta y cinco a cincuenta y cinco días, por que el operador arroje basura o desperdicios en la vía pública;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-f) De veinte a veinticinco días, por dar vuelta en “U” en lugar no permitido;
+VII. A los operadores, con relación a la circulación:
 
-g) De veinte a veinticinco días, por llevar pasajeros en salpicaduras, defensas, estribos, puertas o fuera de la cabina en general;
+a) De cinco a siete días, por obstruir el tráfico o la circulación;
 
-h) De cuarenta y cinco a cincuenta y cinco días por conducir vehículos de carga, cuando ésta estorbe, constituya peligro;
+b) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2009)
 
-i) De cuarenta y cinco a cincuenta y cinco días, por no llevar banderolas en el día, reflejante o lámpara roja en la noche, cuando la carga sobresalga;
+c) De ocho a diez días, por circular en sentido contrario;
 
-j) De veinte a veinticinco días, por no dar preferencia de paso al peatón;
+d) De ocho a diez días por conducir con personas o bulto en los brazos;
 
-k) De veinticinco a treinta y cinco días, por no ceder el paso a vehículos con preferencia;
+e) De ocho a diez días, por que el operador arroje basura o desperdicios en la vía pública;
 
-l) De treinta y cinco a cuarenta días, por darse a la fuga después de que un supervisor de la Dirección General de Transportes le ha indicado hacer alto;
+f) De cinco a siete días, por dar vuelta en “U” en un lugar no permitido;
 
-m) De veinticinco a treinta y cinco días, por circular con puertas abiertas cuando se ponga en riesgo al usuario;
+g) De cinco a siete días, por llevar pasajeros en salpicaduras, defensas, estribos, puertas o fuera de la cabina en general;
 
-n) De veinte a veinticinco días, por falta de lona;
+h) De cinco a siete días, por conducir vehículos de carga cuándo este estorbe, constituya peligro;
 
-o) De treinta y cinco a cuarenta y cinco días, por abandono de vehículo;
+i) De cinco a siete días, por llevar banderolas en el día, reflejante o lámparas rojas en la noche, cuando la carga sobresalga;
 
-p) De treinta y cinco a cuarenta y cinco días, por falta de cromática;
+j) De cinco a siete días, por no dar preferencia de paso al peatón;
 
-q) De treinta y cinco a cuarenta y cinco días, por falta de revista mecánica, y
+k) De ocho a diez días, por no ceder el paso a vehículos de emergencia con preferencia;
 
-r) De noventa y cinco a cien días, por falta de seguro de viajero.
+l) De ocho a diez días por darse a la fuga después que un elemento de Seguridad Pública le ha indicado hacer alto;
 
-VIII. Velocidad:
+m) De ocho a diez días, por circular con puertas abiertas cuando se ponga riesgo al usuario;
 
-a) De treinta a treinta y cinco días, por manejar con exceso de velocidad, y
+n) De cinco a siete días, por falta de lona en vehículo de carga;
 
-b) De treinta y cinco a cuarenta y cinco días, por circular a tan baja velocidad que obstruya la circulación.
+o) De cinco a siete días, por abandono de vehículo;
 
-IX. Ruido:
+p) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2009)
 
-a) De cuarenta y cinco a cincuenta y cinco días, por usar la bocina cerca de hospitales, sanatorios, centro de salud, escuelas o en lugares prohibidos o innecesarios;
+q) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2009)
 
-b) De veinte a veinticinco días, por producidos con el escape, y
+r) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2009)
 
-c) De cuarenta y cinco a cincuenta y cinco días, por usar equipo de radio estereofónico a volumen excesivo.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-X. Alto:
+VIII. A los operadores, con relación a la velocidad:
 
-a) De veinte a veinticinco días, por no acatarlo cuando lo indique el semáforo.
+a) De cinco a siete días, por manejar en exceso de velocidad, y
 
-XI. Documentos:
+b) De cinco a siete días, por circular a tan baja velocidad que obstruya la circulación;
 
-a) De trescientos noventa y cinco a cuatrocientos días, por alterarlos;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-b) De veinte a veinticinco días, sin tarjeta de circulación:
+IX. A los operadores, con relación al ruido:
 
-c) De veinte a veinticinco días, sin gafete, y
+a) De cinco a siete días, por usar la bocina cerca de hospitales, sanatorios, centros de salud, escuelas o en lugares prohibidos o cuando sea innecesario;
 
-d) De noventa a cien días, por cambiar motor o chasis, en cuyo caso se deberá dar aviso a la Dirección General de Transportes dentro del término de 30 días, y en caso de no acreditar dicho cambio se pondrá a disposición del Ministerio Público.
+b) De cinco a siete días, por generar ruidos producidos con el escape, y
+
+c) De cinco a siete días por usar equipo de radio estereofónico a volumen excesivo;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+X. A los operadores, con relación a la señal de alto:
+
+a) De ocho a diez días por no acatarlo cuándo lo indique el semáforo, y
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+XI. A la persona responsable, con relación a los documentos:
+
+a) De cuarenta y cinco a cincuenta días, por alterarlos; asimismo la autoridad de transporte pondrá a los responsables a disposición del Ministerio Público;
+
+b) De cinco a siete días, sin tarjeta de circulación;
+
+c) De cinco a siete días, sin Gafete, y
+
+d) De cinco a siete días, por cambiar motor o chasis, en cuyo caso se deberá dar aviso a la Dirección General de Transportes dentro del termino de 30 días y en caso de no acreditar dicho cambio se pondrá a disposición del Ministerio Público.
 
 ###### ARTÍCULO 228.
 
@@ -2335,6 +2507,10 @@ Si a la entrega del vehículo el concesionario o permisionario detecta faltantes
 
 El depósito vehicular será responsable de cualquier parte o accesorio faltante, cuya preexistencia conste en el inventario respectivo, así como de los daños causados a los vehículos durante el tiempo que permanezcan bajo su custodia y, en cualquier caso, deberá restituirlos o repararlos a satisfacción del concesionario o permisionario.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+Así mismo, la persona a cargo del depósito vehicular será responsable por permitir la liberación del vehículo infraccionado sin que exista el pago de la infracción que originó su remisión al mismo o en su caso oficio de liberación emitido por la Secretaría de Seguridad Pública; dicha responsabilidad podrá ser civil, penal o administrativa.
+
 ## TÍTULO VIGÉSIMO PRIMERO. IMPUGACIÓN (SIC) DE SANCIONES
 
 ### CAPÍTULO ÚNICO
@@ -2372,3 +2548,13 @@ EL SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos o trámites materia del reglamento de Transporte para el Estado de Morelos, que se hayan iniciado con anterioridad a al (sic) entrada en vigor del presente Decreto, se resolverán de conformidad con las disposiciones vigentes al momento de su inicio.
