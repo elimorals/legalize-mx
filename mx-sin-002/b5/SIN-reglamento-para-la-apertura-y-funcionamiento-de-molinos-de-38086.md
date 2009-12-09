@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-para-la-apertura-y-funcionamiento-de-molinos-de-3808
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-08"
-last_updated: "2004-03-08"
+last_updated: "2009-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 REGLAMENTO PARA LA APERTURA Y FUNCIONAMIENTO DE MOLINOS DE NIXTAMAL Y TORTILLERIAS DEL MUNICIPIO DE ANGOSTURA SINALOA Y COMERCIALIZACION EN LA VIA PUBLICA DEL PRODUCTO QUE ELABORAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 8 de marzo de 2004.
 
@@ -59,6 +59,10 @@ III.- Molinos-tortillerías: los establecimientos donde se prepara y/o muele el 
 
 IV.- Expendedor ambulante: las personas físicas que se dedican al comercio y distribución de masa y tortilla de maíz en la vía pública.
 
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+V.- Tienda de abarrotes, misceláneas y mini súper: Comercios que se dedican a la venta de tortillas de harina de maíz ya sea elaboradas por ellos mismos o que la adquieran con la finalidad de revenderla al menudeo al consumidor.
+
 ###### Artículo 4.
 
 La aplicación del presente reglamento corresponde en el ámbito de su respectiva competencia a las siguientes autoridades:
@@ -83,17 +87,21 @@ Se exime de requisito de licencia para la elaboración de tortilla de maíz que 
 
 Las ventas de tortillas de maíz que dentro de los mercados efectúen personas que carezcan de establecimiento propio, siempre que sean elaboradas manualmente por ellas, requerirán de autorización para venta y comercialización, por parte del Secretario del H. Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 7.
 
-Es responsabilidad de la autoridad del municipio de Angostura de regular la comercialización y distribución de masa de nixtamal o tortillas de maíz por comerciantes ambulantes, cualquiera que sea su giro mercantil, dentro del área comprendida por la fracción II del artículo 13 del presente reglamento.
+Es responsabilidad de la autoridad del Municipio de Angostura de regular la comercialización y distribución de masa de nixtamal o tortillas de maíz por comerciantes ambulantes y comercios establecidos cualquiera que sea su giro mercantil, dentro del área comprendida de la Fracción II del Artículo 13 del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 8.
 
-Los molinos de nixtamal y las tortillerías deberán expender directamente al público los productos que elaboren en la envoltura de papel higiénicamente empacado:
+En la vía publica y locales del comercio establecido los molinos de nixtamal y las tortillerías deberán expender directamente al publico los productos que elaboren la envoltura de papel higiénicamente empacado:
 
 I.- En el momento de su producción en venta al mostrador;
 
-II.- En la vía pública, debidamente envasado y en apego a las reglas y normas que establece la Secretaría de Salud, la Secretaría de Economía y la Procuraduría Federal del Consumidor; siempre y cuando no se violen preceptos del artículo anterior y se garantice la no interferencia en el área que señala la fracción II del artículo 13 de este reglamento.
+II.- En la vía pública, debidamente envasado y en apego a las reglas y normas que establece la Secretaría de Salud, la Secretaría de Economía y la Procuraduría Federal del Consumidor; siempre y cuando no se violen preceptos del artículo anterior y se garanticen la no interferencia en el área que señala la fracción II del artículo 13 de este reglamento.
 
 ###### Artículo 9.
 
@@ -117,9 +125,11 @@ VI.- En general, la aplicación y vigilancia del cumplimiento de las disposicion
 
 ### CAPÍTULO II. DE LAS LICENCIAS DE APERTURA Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 11.
 
-Sólo previa licencia expedida por el Secretario del H. Ayuntamiento, y atendiendo previamente la opinión de la Unión de Industriales de la Masa y la Tortilla del Municipio de Angostura; podrá autorizarse la apertura de nuevos establecimientos a que se refiere el artículo 3 de este reglamento.
+Solo previa licencia expedida por el Secretario del H. Ayuntamiento ya tendiendo previamente la opinión de la Unión de Industriales de la masa y la tortilla del Municipio de Angostura; podrá autorizarse la apertura y venta de totillas (sic) a nuevos establecimientos a que se refiere el Artículo 3 de este reglamento.
 
 ###### Artículo 12.
 
@@ -139,7 +149,9 @@ A la solicitud para la obtención de la licencia a que se refiere el artículo a
 
 I.- Croquis del local y de su ubicación, describiendo el acceso del público y las distancias a las calles transversales en que se encuentre el domicilio del establecimiento;
 
-II.- Opinión emitida por la Unión de Industriales de la Masa y la Tortilla del municipio de Angostura, en el que se señale que el establecimiento mercantil que se desea establecer satisface el requisito de instancia, de 400 metros; es el espacio que debe existir entre como mínimo entre una negociación u otra, de las que se dedican al mismo giro en el dictamen a que se refiere el párrafo anterior, también deberá tomarse en cuenta la densidad geográfica y demográfica que exista en la zona en donde se pretenda instalar el establecimiento mercantil de que se trate.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+II.- Emitida por la Unión de Industriales dela (sic) Masa y la Tortilla del Municipio de Angostura, en el que se señale el establecimiento mercantil que se desea establecer satisface el requisito de distancia, de 800 metros; es el espacio que debe existir como mínimo entre una negociación y otra, de las que se dedican al mismo giro en el dictamen a que se refiere el párrafo anterior, también deberá tomarse en cuenta la densidad geográfica y demográfica que exista en la zona donde se pretende instalar el establecimiento mercantil de que se trate;
 
 III.- Manifestación de impacto ambiental, expedida por la autoridad correspondiente de conformidad con la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Sinaloa.
 
@@ -372,3 +384,11 @@ Presidente Municipal
 PROFR. SAMUEL BOJORQUEZ CAMACHO.
 
 Secretario del Ayuntamiento
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento para la Apertura y Funcionamiento de Molinos de Nixtamal y Tortillerías del Municipio de Angostura, Sinaloa y Comercialización en la Vía Pública del Producto que Elaboran, entrará en vigor después de que salga publicado en el Periódico Oficial "El Estado de Sinaloa".
