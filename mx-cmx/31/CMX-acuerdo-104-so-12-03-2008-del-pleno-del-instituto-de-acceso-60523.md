@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-104-so-12-03-2008-del-pleno-del-instituto-de-acceso-605
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-15"
-last_updated: "2008-04-15"
+last_updated: "2009-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60523&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2011-04-29"
 
 ACUERDO MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS EN MATERIA DE RECURSOS FINANCIEROS DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, Y SE ABROGA LOS APROBADOS MEDIANTE EL ACUERDO 096/SO/31- 08/2006
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE DICIEMBRE DE 2009.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el martes 15 de abril de 2008.
 
@@ -337,11 +337,13 @@ El ejercicio del gasto por concepto de adquisiciones de bienes, servicios y obra
 
 Todos los pagos sin excepción, se encontrarán condicionados a que la documentación comprobatoria satisfaga los requisitos fiscales y administrativos previstos en la legislación vigente.
 
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 33.
 
-En casos excepcionales y debidamente justificados, el Pleno podrá autorizar compromisos con recursos de ejercicios fiscales subsecuentes o la celebración de contratos con dichos recursos; otorgar concesiones, permisos, licencias o realizar cualquier otro acto de naturaleza análoga, que impliquen la posibilidad de algún gasto contingente o adquirir obligaciones futuras.
+En casos excepcionales y debidamente justificados, el Pleno del Instituto podrá autorizar contratos, cuya ejecución comprenda más de un ejercicio fiscal, en términos de lo dispuesto en el artículo 15 de los Lineamientos en materia de Adquisiciones, Arrendamientos y Prestación de Servicios del Instituto.
 
-Igualmente de manera excepcional, el Pleno podrá autorizar efectuar depósitos u otorgar garantías para el cumplimiento de sus obligaciones de pago.
+Igualmente de manera excepcional, el Pleno podrá autorizar depósitos u otorgar garantías para el cumplimiento de las obligaciones de pago del Instituto.
 
 ###### Artículo 34.
 
@@ -612,3 +614,9 @@ La contraloría realizará una revisión y análisis de los informes de avance p
 ###### Artículo 83.
 
 El Pleno podrá autorizar la contratación de auditorías externas sobre uno o más ejercicios presupuestales, independientemente de las que realice la contraloría. De los resultados tendrá conocimiento el Pleno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 9 DE DICIEMBRE DE 2009.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
