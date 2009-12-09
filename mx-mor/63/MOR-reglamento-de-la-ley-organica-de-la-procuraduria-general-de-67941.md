@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-679
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-01"
-last_updated: "2009-10-21"
+last_updated: "2009-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MARZO DE 2010 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -113,27 +115,29 @@ XXII. Dirección General de Sistemas e Información Criminógena;
 
 XXIII. Dirección General de Servicios Periciales;
 
-XXIV. Visitaduría General;
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-XXV. Unidades Especializadas de investigación;
+XXIV. Dirección General de Planeación y Operaciones Tácticas;
 
-XXVI. Coordinaciones de Control de Procesos;
+XXV. Visitaduría General;
 
-XXVII. Coordinaciones Regionales de Servicios Periciales;
+XXVI. Unidades Especializadas de investigación;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+XXVII. Coordinaciones de Control de Procesos;
 
-XXVIII. Coordinación Estatal de Plataforma México;
+XXVIII. Coordinaciones Regionales de Servicios Periciales;
 
-XXIX. Direcciones Regionales de la Policía Ministerial;
+XXIX. Coordinación Estatal de Plataforma México;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
-
-XXX. Dirección Operativa de la Policía Ministerial; y
+XXX. Direcciones Regionales de la Policía Ministerial;
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-XXXI. Dirección de Aprehensiones de la Policía Ministerial.
+XXXI. Dirección Operativa de la Policía Ministerial; y
+
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XXXII. Dirección de Aprehensiones de la Policía Ministerial.
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
@@ -535,11 +539,15 @@ XII. Establecer y operar un sistema de supervisión permanente del personal de l
 
 XIII. Autorizar la habilitación de los peritos cuando la Procuraduría no cuente con especialistas en una determinada disciplina, ciencia o arte que se requiera o en casos urgentes;
 
-XIV. Proponer a sus superiores jerárquicos programas de intercambio de experiencias, conocimientos y avances tecnológicos con las unidades de Servicios Periciales de la Procuraduría General de la República y de las Procuradurías Generales de Justicia de los Estados, así como con instituciones similares del extranjero, para lograr el mejoramiento y la modernización de sus funciones;
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-XV. Revisar y proponer a su superior jerárquico los Manuales de Organización y de Políticas y Procedimientos, así como aquellos normativos, de coordinación y de operación de las diversas unidades a su cargo, y
+XIV. Establecer las acciones para la asistencia y asesoría de las víctimas del delito;
 
-XVI. Las demás que le confieran los ordenamientos jurídicos aplicables y las que le determine el Superior Jerárquico.
+XV. Proponer a sus superiores jerárquicos programas de intercambio de experiencias, conocimientos y avances tecnológicos con las unidades de Servicios Periciales de la Procuraduría General de la República y de las Procuradurías Generales de Justicia de los Estados, así como con instituciones similares del extranjero, para lograr el mejoramiento y la modernización de sus funciones;
+
+XVI. Revisar y proponer a su superior jerárquico los Manuales de Organización y de Políticas y Procedimientos, así como aquellos normativos, de coordinación y de operación de las diversas unidades a su cargo, y
+
+XVII. Las demás que le confieran los ordenamientos jurídicos aplicables y las que le determine el Superior Jerárquico.
 
 > <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -627,35 +635,45 @@ XV. Supervisar y controlar la operación de los sistemas de reclutamiento y sele
 
 XVI. Controlar el sistema de evaluación de Agentes de la Policía Ministerial, sobre el que se apoyen obligatoriamente los procedimientos de ascenso y promoción en las estructuras jerárquicas y administrativas de la misma coordinación;
 
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+XVII. Planear operativos especiales que le ordene el Procurador, o en su caso que sean necesarios para coadyuvar con instituciones de seguridad pública federal, estatal o municipal;
+
 > <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XVII. Ordenar se levante acta circunstancial y firmarla cuando el personal que tiene a su cargo no cumpla con sus obligaciones u órdenes emitidas;
+XVIII. Ordenar se levante acta circunstancial y firmarla cuando el personal que tiene a su cargo no cumpla con sus obligaciones u órdenes emitidas;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-XVIII. Apoyar como órgano auxiliar de la investigación al Ministerio Público; y
+XIX. Apoyar, como órgano auxiliar de la investigación al Ministerio Público, y
 
-XIX. Las demás que le señalen las disposiciones legales aplicables.
+XX. Las demás que le señalen las disposiciones legales aplicables.
 
 La investigación policial se sujetará en todo momento al principio del respeto de los derechos humanos y se ejercerá con estricto apego a la legalidad. El Ministerio Público en cada caso concreto instruirá detalladamente a la Policía Ministerial sobre los indicios, datos o evidencias que deben ser investigados o recabados para establecer que se ha cometido el delito y que tiendan a demostrar la probabilidad de que el indiciado lo cometió o participó en su comisión.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MARZO DE 2010 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 22.
 
 La Coordinación General de la Policía Ministerial tendrá bajo su mando las siguientes unidades administrativas:
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-I. Dirección Operativa de la Policía Ministerial;
+I. Dirección General de Planeación y Operaciones Especiales;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-II. Dirección de Aprehensiones de la Policía Ministerial;
+II. Dirección Operativa;
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-III. Direcciones Regionales de la Policía Ministerial; y la
+III. Dirección de Aprehensiones;
 
-IV. Coordinación Estatal de Plataforma México.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+IV. Direcciones Regionales de la Policía Ministerial, y
+
+V. Coordinación Estatal de Plataforma México.
 
 DE LA COORDINACIÓN GENERAL DE ASESORES Y VINCULACIÓN INSTITUCIONAL
 
@@ -1484,6 +1502,62 @@ XII. Conformar una base general de datos de los peritos que le estén adscritos,
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 XIII. Las demás que le confieran las disposiciones legales aplicables y las que le determine el Superior Jerárquico.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+DIRECCIÓN GENERAL DE PLANEACIÓN Y OPERACIONES TÁCTICAS
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
+
+ARTÍCULO 43 BIS. La Dirección General de Planeación y Operaciones Tácticas estará adscrita a la Coordinación General de la Policía Ministerial y tendrá, además de las establecidas en el artículo 28, las siguientes atribuciones:
+
+I. Coordinar y establecer los mecanismos y la logística de los operativos tácticos que le determine su superior jerárquico;
+
+II. Coadyuvar en el análisis de información para la aplicación de acciones de los grupos de operaciones tácticas;
+
+III. Supervisar que las medidas de seguridad para la protección de víctimas y testigos se ejecuten correctamente por parte de los grupos de operaciones tácticas, de la Policía Ministerial;
+
+IV. Dar cumplimiento a las medidas disciplinarias establecidas al personal que integra los grupos de operaciones tácticas de la Policía Ministerial, que tenga adscritos;
+
+V. Controlar los vehículos, armamento y radio comunicación de los grupos de operaciones tácticas, que tenga adscritos;
+
+VI. Proponer a su superior jerárquico, los planes o programas de trabajo de los grupos de operaciones tácticas, que tenga adscritos;
+
+VII. Dirigir y organizar los grupos de operaciones tácticas de la Policía Ministerial para ejecutar operativos especiales;
+
+VIII. Proponer la implementación de mecanismos y acciones para el desarrollo ético y la disciplina de los agentes de la Policía Ministerial que integran los grupos de operaciones tácticas;
+
+IX. Coordinar la actualización de los registros únicos de los policías ministeriales que integran los grupos de operaciones tácticas;
+
+X. Controlar las autorizaciones individuales de portación de armas de fuego del personal que tenga a su cargo, de conformidad con las disposiciones aplicables;
+
+XI. Vigilar que los agentes que intervienen en los operativos que coordine, ejecuten sus funciones con estricto apego a la ley, y con respeto a los derechos humanos de los ciudadanos;
+
+XII. Vigilar el respeto de los derechos humanos de las personas que sean aprehendidas o detenidas en los operativos que implemente o coordine;
+
+XIII. Rendir informes previos o justificados en los juicios de amparo, en los que se le señale como autoridad responsable;
+
+XIV. Acordar con su superior jerárquico la ejecución de operativos tácticos y acciones propias de su encargo;
+
+XV. Identificar en los operativos que coordine, los indicios, huellas o vestigios del hecho delictuoso; así como los instrumentos, objetos o productos del delito, de conformidad con los lineamientos y normas jurídicas aplicables;
+
+XVI. Recolectar, levantar, embalar técnicamente y etiquetar los indicios, huellas o vestigios del hecho delictuoso; así como los instrumentos, objetos o productos del delito, de los operativos que coordine; describir la forma en que se haya realizado la recolección y levantamientos respectivos, así como las medidas tomadas para asegurar la integridad de los mismos;
+
+XVII. Preservar el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso; así como los instrumentos, objetos o productos del delito, de los operativos que coordine;
+
+XVIII. Fijar, señalar, levantar, embalar y entregar la evidencia física de los operativos que coordine al Agente del Ministerio Público, conforme a las disposiciones jurídicas aplicables;
+
+XIX. Solicitar al agente del Ministerio Público, que requiera a las autoridades competentes, informes y documentos para los fines de sus investigaciones;
+
+XX. Realizar informes de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas;
+
+XXI. Realizar respecto de los operativos que coordine, los informes policiales homologados, partes policiales y demás documentos necesarios, con los requisitos de fondo y forma que establezcan las disposiciones jurídicas aplicables;
+
+XXII. Realizar, respecto de los operativos que coordine, el Registro Inmediato de la Detención en los términos de las disposiciones jurídicas aplicables;
+
+XXIII. Coordinar los servicios técnicos y de apoyo logístico que requieran las unidades administrativas y operativas que tenga adscritas, y
+
+XXIV. Las demás que le confieran otras disposiciones jurídicas aplicables, su superior jerárquico o el Procurador.
 
 ### CAPÍTULO VII. DE LA VISITADURÍA GENERAL
 
@@ -2516,3 +2590,15 @@ SEXTO.- Las Direcciones Generales de Averiguaciones Previas y Procedimientos Pen
 SÉPTIMO. La Dirección General de Investigaciones y Procesos Penales de la Subprocuraduría de Investigaciones Especiales ejercerá las atribuciones establecidas en el artículo 29 del Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos, en tanto existan averiguaciones previas y procesos penales que se rijan por el Código de Procedimientos Penales publicado en el Periódico oficial "Tierra y Libertad" número 3820, del nueve de octubre de mil novecientos noventa y seis.
 
 OCTAVO. Las Coordinaciones de Control de Procesos seguirán operando en el nuevo sistema de justicia penal.
+
+P.O. 9 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto tendrá vigencia a partir del día siguiente de su publicación, en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- La inobservancia del contenido de este instrumento, generará la aplicación de las sanciones previstas por la Ley Estatal de Responsabilidades de los Servidores Públicos.
+
+TERCERO.- Quedan sin efecto todos aquellos acuerdos, circulares y demás disposiciones que contravengan el presente Decreto.
+
+CUARTO.- Los Manuales de Organización y de Políticas y Procedimientos deberán realizarse en un plazo no mayor de sesenta días hábiles.
+
+QUINTO.- En tanto se expiden los manuales respectivos, el Procurador queda facultado para resolver las cuestiones de procedimiento y operaciones que se originen por la aplicación de este ordenamiento.
