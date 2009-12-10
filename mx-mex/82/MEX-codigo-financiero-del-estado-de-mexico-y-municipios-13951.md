@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2009-01-01"
+last_updated: "2009-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2009.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -199,41 +199,41 @@ XXXIX. Traspaso Presupuestario Interno. A las modificaciones de los recursos asi
 
 XL. Vivienda. Es la prevista en la fracción I del artículo 5.41 del Código Administrativo del Estado de México y que se refiere a los tipos siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-A). Social Progresiva. Aquella cuyo valor al término de la construcción o adquisición no exceda de 226,557 pesos.
+A). Social Progresiva. Aquella cuyo valor al término de la construcción o adquisición no exceda de 236,752 pesos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-B). interés Social. La que tenga al término de la construcción o adquisición un valor mayor a 226,558 pesos y menor o igual a 294,524 pesos.
+B). Interés Social. La que tenga al término de la construcción o adquisición un valor mayor a 236,752 pesos y menor o igual a 307,777 pesos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-C). Popular. La que tenga al término de la construcción o adquisición un valor mayor a 294,525 pesos y menor o igual a 430,458 pesos.
+C). Popular. La que tenga al término de la construcción o adquisición un valor mayor a 307,777 pesos y menor o igual a 449,828 pesos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-D). Media. La que tenga al término de la construcción o adquisición un valor mayor a 430,459 pesos y menor o igual a 1'219,284 pesos.
+D). Media. La que tenga al término de la construcción o adquisición un valor mayor a 449,828 pesos y menor o igual a 1,274,152 pesos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-E). Residencial. La que tenga al término de la construcción o adquisición un valor mayor a 1'219,285 pesos y menor o igual a 2'026,648 pesos.
+E). Residencial. La que tenga al término de la construcción o adquisición un valor mayor a 1,274,152 pesos y menor o igual a 2,117,847 pesos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-F). Residencial alto y campestre. La que tenga al término de la construcción o adquisición un valor que exceda de la cantidad de 2'026,649 pesos.
+F). Residencial alto y campestre. La que tenga al término de la construcción o adquisición un valor que exceda de la cantidad de 2,117,847 pesos.
 
 En el caso que las leyes federales incrementen o disminuyan los montos estimados, se deberá estar a lo dispuesto en esas disposiciones legales.
 
@@ -1273,9 +1273,15 @@ XIV. Presentar aviso de baja del padrón vehicular de la entidad, en un término
 
 La presentación del aviso no libera de contribuciones pendientes de pago.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+XV. Entregar constancias de retención, en caso de estar obligado conforme a las disposiciones de este Código.
+
 > <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-XV. Las demás que establezca este Código.
+XVI. Las demás que establezca este Código.
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -1522,6 +1528,80 @@ Para los efectos del presente artículo, el Contador Público autorizado que for
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Cuando el Contador Público que formule el dictamen o las personas jurídico colectivas de las que éste sea miembro, integrante o ejerza cualquier cargo o función, hayan proporcionado al contribuyente que se dictamine directamente o a través de terceros, servicios contables, fiscales, legales, financieros, consultivos, de asesoría o de auditoría hasta por los dos ejercicios fiscales inmediatos anteriores al que se dictamina, el Contador Público en cuestión deberá manifestar en dicho dictamen el Registro Federal de Contribuyentes de quien prestó dichos servicios, la descripción de los mismos y la fecha en que éstos fueron prestados.
+
+> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+Artículo 47 F.- Las normas de auditoria a que se refiere la fracción II del artículo 47 C de este Código, se consideran cumplidas en la forma siguiente:
+
+I. Las relativas a la capacidad, independencia e imparcialidad profesionales del Contador Público autorizado, cuando su registro se encuentre vigente y no tenga impedimento para dictaminar en términos del artículo 47 E de este Código.
+
+II. Las relativas al trabajo profesional, cuando:
+
+A). La planeación del trabajo y la supervisión de sus ayudantes le permitan allegarse de los elementos de juicio suficientes para fundar su dictamen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+B). El estudio y evaluación del sistema de control interno del contribuyente le permita determinar el alcance y naturaleza de los procedimientos de auditoría aplicables a las circunstancias que habrán de emplearse.
+
+C). Los elementos probatorios y la información presentada en el dictamen como soporte de la determinación y pago de la contribución revisada al contribuyente y en las notas aclaratorias relativas, sean suficientes y adecuados para su razonable interpretación.
+
+En caso de excepciones a lo anterior, el Contador Público deberá mencionar claramente en qué consisten, indicando los motivos y, en su caso, los fundamentos legales y conceptos que las originaron, señalando las inconsistencias o diferencias detectadas, así como su efecto cuantificado sobre la determinación y pago de la contribución revisada, emitiendo en consecuencia como resultado de su trabajo, una opinión negativa o con salvedades, según corresponda. Cuando se carezca de elementos probatorios, el Contador Público emitirá una abstención razonada de opinión sobre la información y documentación que en su conjunto tenga del contribuyente, respecto del cumplimiento de sus obligaciones fiscales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Para los efectos de este artículo, dentro del alcance que se establezca y la naturaleza de los procedimientos de auditoría generales aplicables a las circunstancias, deberá considerarse la revisión del total de los conceptos por remuneraciones al trabajo personal prestado dentro del territorio del Estado que deban integrar la base para la determinación del impuesto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+Artículo 47 G.- La información cuantitativa a que se refiere la fracción III del quinto párrafo del artículo 47 B de este Código, se presentará en forma mensual e independiente según corresponda a la causación o retención de la contribución revisada; se expresará en pesos, una vez ajustados los montos que contengan fracciones de pesos a la unidad inmediata anterior o superior, ya sea que incluyan de uno hasta cincuenta centavos o de cincuenta y uno a noventa y nueve centavos, respectivamente; se referirá en forma precisa a los conceptos o parámetros y tasa que conforme a este Código resulten aplicables durante el ejercicio fiscal dictaminado para la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, misma que deberá contener y cumplir con lo siguiente:
+
+> <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+I. La integración de esta información se presentará por cada uno de los establecimientos dentro del territorio del Estado, en los que se haya realizado el hecho generador o actividades que generen obligaciones fiscales respecto del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, indicando su domicilio o ubicación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+II. La información se mostrará relacionada con la descripción de la base para la determinación y el pago de la contribución revisada, ya sea como causante y/o retenedor, observando las diferencias determinadas respecto del cálculo del contribuyente dictaminado, debiendo manifestarse todos los pagos realizados en efectivo o en especie por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado, independientemente de la denominación que se les haya otorgado, así como el número total de trabajadores, informando aquellos pagos que no se consideraron en la determinación referida.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+III. En cuanto a los pagos de la contribución revisada que haya realizado el contribuyente dictaminado, deberá mencionarse su importe y el folio de la declaración o del acuse de recibo del documento digital de la declaración electrónica correspondiente que permita su identificación. Asimismo, se indicará el monto de las compensaciones y estímulos fiscales que se disminuyan del impuesto determinado a cargo del contribuyente o retenedor en el ejercicio fiscal que se dictamina, cuando dichas aplicaciones hayan sido autorizadas en caso necesario por la autoridad fiscal competente y surtan sus efectos para dicho ejercicio fiscal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+IV. En caso de que el contribuyente dictaminado tenga saldos a favor de la contribución revisada provenientes de ejercicios fiscales anteriores al que se refiera el dictamen, que se encuentren pendientes de aplicación al cierre del ejercicio fiscal inmediato anterior al que se revisa, dichos saldos y los que en su caso se generen en el ejercicio fiscal revisado, deberán manifestarse en el dictamen indicando el periodo en el que se originaron y en el que se aplicaron en caso de haberse compensado o solicitado en devolución durante el ejercicio fiscal revisado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+V. Análisis pormenorizado de la contribución revisada cuando se encuentre por pagar al cierre del ejercicio fiscal que se dictamina, el cual se presentará por cada periodo de causación o retención al que esté sujeta, una vez considerados los pagos que hayan sido cubiertos por el contribuyente o retenedor a la fecha de presentación del dictamen formulado. Cuando se haya obtenido de la autoridad fiscal competente la autorización para el pago en parcialidades de dicha contribución, esta situación deberá aclararse en el dictamen señalando los datos de identificación del documento de autorización correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+VI. Conciliación entre las cifras dictaminadas acumuladas de las remuneraciones al trabajo personal prestado dentro del territorio del Estado determinadas por el Contador Público y los saldos finales acumulados de las cuentas y subcuentas incluidas en la balanza de comprobación del contribuyente dictaminado que respalde la información contenida en sus estados financieros para efectos fiscales al último día del ejercicio fiscal revisado, resultantes de la contabilidad que esté obligado a llevar, señalándose la cuenta o subcuenta correspondiente y su número de referencia contable de conformidad con el catálogo de cuentas que tenga establecido el contribuyente en cuestión, debiendo manifestarse las aclaraciones pertinentes por las diferencias observadas. Los saldos finales referidos serán aquellos que se obtengan una vez realizados los asientos de ajuste contables que en su caso resulten pertinentes con motivo de la auditoría practicada, antes de efectuarse el asiento del cierre del ejercicio fiscal.
+
+En caso de que los saldos finales de las cuentas y subcuentas mencionadas en el párrafo inmediato anterior contengan información relativa a erogaciones realizadas por concepto de remuneraciones al trabajo personal prestado fuera del territorio del Estado, la conciliación referida deberá efectuarse únicamente respecto del monto que represente en dichos saldos las erogaciones realizadas por el contribuyente dictaminado por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+VII. Comparación analítica entre los conceptos o parámetros considerados para la determinación y pago de la contribución revisada en el ejercicio fiscal dictaminado y los considerados en el ejercicio fiscal inmediato anterior.
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -1875,6 +1955,12 @@ G). El dictamen haya sido formulado en contravención a lo dispuesto en este Có
 
 H). El contribuyente no acepte o no esté de acuerdo con su dictamen respecto del Contador Público autorizado que lo haya formulado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+I). El Contador Público Autorizado que haya formulado el dictamen hubiese fallecido.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
@@ -2087,11 +2173,11 @@ IX. Pagos en bienes y servicios, incluyendo la casa habitación, inclusive con l
 
 X. Pagos de comisiones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-XI. Pagos realizados a administradores, comisarios, accionistas, socios o asociados de personas jurídico colectivas.
+XI. Pagos realizados a administradores, comisarios, accionistas, socios o asociados de personas jurídicas colectivas, que provengan de una relación de trabajo personal.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -2141,77 +2227,79 @@ Quienes realicen pagos a trabajadores por concepto de edificación de obra, acab
 
 En caso de que el contribuyente después de ser requerido por la autoridad fiscal competente, no aporte dentro del término de 20 días, los datos y documentos necesarios y suficientes para la determinación del impuesto o cuando no sea posible establecer la base, se calculará considerando el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal, cuyo monto global no exceda de 226,556 pesos no causarán este impuesto. Tampoco causarán este impuesto, los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, cuando la obra no exceda un monto de 45,310 pesos. El documento con el que se acreditarán los supuestos anteriores lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
+Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal, cuyo monto global no exceda de 236,752 pesos no causarán este impuesto. Tampoco causarán este impuesto los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, cuando la obra no exceda un monto de 47,349 pesos. El documento con el que se acreditarán los supuestos anteriores lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 Al importe que resulte de multiplicar el número de metros cuadrados de construcción por el costo de mano de obra por metro cuadrado, de acuerdo a la siguiente tabla, se le aplicará la tasa vigente a que se refiere el artículo 57 de este código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 Tipo de obra Costo por m2
 
-Bardas $261
+Bardas $273
 
-Bodegas $347
+Bodegas $362
 
-Canchas de tenis $145
+Canchas de tenis $151
 
-Casa habitación de interés social $581
+Casa habitación de interés social $607
 
-Casa habitación tipo medio $689
+Casa habitación tipo medio $720
 
-Casa habitación residencial de lujo $901
+Casa habitación residencial de lujo $942
 
-Cines $672
+]
 
-Edificios habitacionales de interés social $561
+Cines $702
 
-Edificios habitacionales tipo medi o $653
+Edificios habitacionales de interés social $586
 
-Edificios habitacionales de lujo $961
+Edificios habitacionales tipo medio $682
 
-Edificios de oficinas $56I
+Edificios habitacionales de lujo $1,004
 
-Edificios de oficinas y locales comerciales $741
+Edificios de oficinas $586
 
-Escuelas de estructura de concreto $506
+Edificios de oficinas y locales comerciales $774
 
-Escuelas de estructura metálica $608
+Escuelas de estructura de concreto $529
 
-Estacionamientos $327
+Escuelas de estructura metálica $635
 
-Gasolineras $387
+Estacionamientos $342
 
-Gimnasios $581
+Gasolineras $404
 
-Hospitales $998
+Gimnasios $607
 
-Hoteles $1,005
+Hospitales $1,043
 
-Hoteles de lujo $1,353
+Hoteles $1,050
 
-Locales comerciales $603
+Hoteles de lujo $1,414
 
-Naves industriales $515
+Locales comerciales $630
 
-Naves para fábricas, bodegas y/o talleres $361
+Naves industriales $538
 
-Piscinas $459
+Naves para fábricas, bodegas y/o talleres $377
 
-Remodelaciones $591
+Piscinas $480
 
-Templos $553
+Remodelaciones $618
 
-Urbanizaciones $200
+Templos $578
 
-Vías de comunicación subterráneas y conexas $1,024
+Urbanizaciones $209
+
+Vías de comunicación subterráneas y conexas $1,070
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -2303,9 +2391,11 @@ H). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
 I). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XI. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+XI. Pagos realizados a personas físicas por la prestación de su trabajo personal independiente, por el cual se deba pagar y en su caso retener el Impuesto al Valor Agregado.
 
 #### SECCION SEGUNDA. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS AUTOMOTORES
 
@@ -2405,29 +2495,35 @@ I. Tratándose de automóviles de hasta diez años modelo anterior al de aplicac
 
 Se considerará el valor total del automóvil establecido en la factura original o carta factura que hubiese expedido el fabricante, ensamblador o distribuidor autorizado, sin incluir el Impuesto al Valor Agregado, siempre y cuando se encuentre desglosado, y se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente tabla:
 
-AÑOS DE AÑO FACTOR DE DE FACTOR DE
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ANATIGÜEDAD DEPRECIACIÓN ACTUALIZACIÓN
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-1 2009 0.9750 1.0000
+AÑOS DE
 
-2 2008 0.8500 1.0480
+ANTIGÜEDAD AÑO FACTOR DE FACTOR DE
 
-3 2007 0.7250 1.0889
+DEPRECIACIÓN ACTUALIZACIÓN
 
-4 2006 .6000 1.1329
+1 2010 0.9750 1.0000
 
-5 2005 0.5000 1.1706
+2 2009 0.8500 1.0454
 
-6 2004 0.4000 1.2314
+3 2008 0.7250 1.1136
 
-7 2003 0.3000 1.2804
+4 2007 0.6000 1.1555
 
-8 2002 0.2250 1.3534
+5 2006 0.5000 1.2023
 
-9 2001 0.1500 1.4130
+6 2005 0.4000 1.2424
 
-10 2000 0.0750 1.5396
+7 2004 0.3000 1.3069
+
+8 2003 0.2250 1.3589
+
+9 2002 0.1500 1.4363
+
+10 2001 0.0750 1.4960
 
 La cantidad obtenida conforme a los pasos anteriores, se multiplicará por el factor de actualización a que se refiere este artículo, y al resultado se le aplicará la tasa del 1%.
 
@@ -2435,17 +2531,19 @@ La cantidad obtenida conforme a los pasos anteriores, se multiplicará por el fa
 
 II. En el caso de vehículos de más de diez años modelo de fabricación o ejercicio automotriz anterior al año fiscal de que se trata la determinación del impuesto será atendiendo al número de cilindros del motor conforme a lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-NÚMERO DE CILINDROS TARIFA
+TARIFA
 
-Hasta 4 $201
+CONCEPTO DE CILINDRAJE
 
-De 5 a 6 $608
+Hasta 4 $210
 
-De más de 6 $759
+De 5 a 6 $635
+
+De más de 6 $793
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -2527,11 +2625,13 @@ VII. Los organismos públicos descentralizados de la administración pública es
 
 VIII. Los Ayuntamientos del Estado que destinen el producto de las actividades gravadas por este impuesto a la asistencia social o privada, previa autorización de la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 67.
 
-El impuesto se determinará aplicando la tasa del 12% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías, rifas y sorteos. Cuando los billetes, boletos, contraseñas, documentos, objetos o registros sean distribuidos gratuitamente o no se exprese su valor o la suma del valor de éstos sea inferior al monto de los premios, el impuesto se calculará sobre el valor total de los premios.
+El impuesto se determinará aplicando la tasa del 12% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos o registros distribuidos para participar en loterías, rifas y sorteos, disminuida del monto de los premios efectivamente pagados o entregados. Cuando los billetes, boletos, contraseñas, documentos, objetos o registros sean distribuidos gratuitamente o no se exprese su valor o la suma del valor de éstos sea inferior al monto de los premios, el impuesto se calculará sobre el valor total de los premios.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -2793,9 +2893,15 @@ A). Servicio regular de pasaje.
 
 1. Colectivo:
 
-a). Autobuses de la. Clase. $20,234.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-b). Autobuses de 2a. Clase. $16,590.
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+a). Autobuses. $20,234.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+b). (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
 c). Minibuses. $16,590.
 
@@ -2817,11 +2923,37 @@ con un máximo de cinco asientos y un mínimo de cuatro,
 
 incluido el del operador. $15,614.
 
-C). Por estudios técnicos y económicos, a solicitud de los particulares, para el otorgamiento de concesiones, ampliación de ruta y territorio de operación, referidos a:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-1. Concesiones para servicio de transporte de pasajeros. $1,348.
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-2. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
+C). El servicio discrecional de arrastre o de salvamento:
+
+1. Grúas de arrastre u otros vehículos especializados para
+
+trasladar vehículos impedidos mecánica o legalmente
+
+para su autodesplazamiento. $21,408
+
+2. Grúas de salvamento. $21,408
+
+3. Servicio de depósito de vehículos para guarda y custodia
+
+de vehículos accidentados o a disposición de autoridades
+
+diversas por cada corralón. $21,408
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+D). Por estudios técnicos y económicos, a solicitud de los particulares, para el otorgamiento de concesiones, ampliación de ruta y territorio de operación, referidos a:
+
+1. Concesiones para servicio de transporte de pasajeros. $1,426
+
+2. Concesiones para servicio discrecional de arrastre o
+
+de salvamento. $1,426
 
 II. Por la cesión de derechos o cambio de titular de la concesión, que se refieran a las modalidades:
 
@@ -2829,9 +2961,15 @@ A). Servicio regular de pasaje:
 
 1. Colectivo:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
 a). Autobuses de 1a. Clase. $16,188.
 
-b). Autobuses de 2a. Clase. $13,490.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+b). (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
 c). Minibuses. $13,490.
 
@@ -2841,7 +2979,11 @@ d). Vagonetas. $13,271.
 
 3. Mixto:
 
-a). Camioneta mixta de carga y pasaje. $10,792.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+a). Camioneta de carga y pasaje. $10,792.
 
 B). Servicio discrecional de pasaje:
 
@@ -2853,21 +2995,49 @@ con un máximo de 5 asientos y un mínimo de cuatro,
 
 incluido el del operador. $13,490.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+C). El servicio discrecional de arrastre o de salvamento:
+
+1. Grúas de arrastre u otros vehículos especializados para
+
+trasladar vehículos impedidos mecánica o legalmente
+
+para su autodesplazamiento. $17,127
+
+2. Grúas de salvamento. $17,127
+
+3. Servicio de depósito de vehículos para guarda y
+
+custodia de vehículos accidentados o a disposición
+
+de autoridades diversas por cada corralón. $17,127
+
 III. Por la prórroga o cambio de temporalidad de vigencia de la concesión, que se refieran a las modalidades de:
 
 A). Servicio regular de pasaje
 
-I. Colectivo:
+1. Colectivo:
 
-a). Autobuses de 1a. Clase. $10,116.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-b). Autobuses de 2a. Clase. $8,431.
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+a). Autobuses. $10,116.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+b). (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
 c). Minibuses. $8,431.
 
 d). Vagonetas. $8,431.
 
-2. Alta capacidad o masivo. $0.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+2. (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
 3. Mixto:
 
@@ -2885,11 +3055,31 @@ incluido el del operador. $8,431.
 
 Las tarifas establecidas en esta fracción, amparan la prórroga o cambio de la temporalidad de vigencia de las concesiones por un período hasta de diez años, pudiendo los contribuyentes solicitar la prestación de estos servicios por anualidad, para lo cual se pagarán los derechos correspondientes en forma proporcional al período solicitado, cuando así lo acuerde la autoridad administrativa.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+C). El servicio discrecional de arrastre o de salvamento:
+
+1. Grúas de arrastre u otros vehículos especializados para
+
+trasladar vehículos impedidos mecánica o legalmente
+
+para su autodesplazamiento. $10,703
+
+2. Grúas de salvamento. $10,703
+
+3. Servicio de depósito de vehículos para guarda y custodia de vehículos accidentados o a disposición de autoridades diversas por cada corralón. $10,703
+
 IV. Por el otorgamiento de permisos de:
 
 A). Servicio discrecional de pasaje en la modalidad especializado:
 
-1. Vehículos de transporte de pasaje especializado escolar y personal de empresa:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+1 Vehículos de transporte de pasaje especializado escolar y personal de empresa en que se obtenga lucro por la prestación del servicio:
 
 a). Autobús. $1,886.
 
@@ -2897,7 +3087,11 @@ b). Minibús. $1,886.
 
 c). Vagonetas. $1,618.
 
-2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica, en que se obtenga lucro por la prestación del servicio:
 
 a). Autobús. $4,164.
 
@@ -2913,43 +3107,27 @@ B). Transporte de carga en general:
 
 2. Capacidad de carga de más de 3,000 kgs. $2,698.
 
-C). Servicio especializado de carga:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-1. Capacidad hasta de 3,000 kgs. $2,018.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-2. Capacidad de carga de más de 3,000 kgs. $2,698.
+C). Por la realización de estudios técnicos y económicos
 
-D). El servicio discrecional de arrastre o de salvamento:
+a solicitud de los particulares, para el otorgamiento de
 
-1. Grúas de arrastre u otros vehículos especializados para
+permisos en la modalidad de vehículos de propulsión
 
-trasladar vehículos impedidos mecánica o legalmente
+no mecánica. $113
 
-para su auto-desplazamiento. $8,093.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-2. Grúas de salvamento u otros vehículos especializados
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-para el rescate de personas, objetos o animales que se
+D). El servicio discrecional de arrastre y traslado, prestado
 
-encuentren en situaciones de peligro o que atenten contra
+a través de grúas para transportar vehículos impedidos
 
-la seguridad de terceros en sus personas o bienes. $8,093.
-
-3. Servicio de depósito de vehículos para guarda y custodia
-
-de vehículos accidentados o a disposición de autoridades
-
-diversas por cada corralón. $5,755.
-
-4. Realización de estudios técnicos relativos a los numerales
-
-anteriores a que se refiere este inciso. $1,348.
-
-5. Por la realización de estudios técnicos y económicos a
-
-solicitud de los particulares, para el otorgamiento de permisos
-
-en la modalidad de vehículos de propulsión no mecánica. $107.
+mecánicamente para su auto-desplazamiento o para traslado. $10,703
 
 E). Por el Otorgamiento de permiso o autorización de bases,
 
@@ -2985,25 +3163,29 @@ de cobertizos. $2,727.
 
 8. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
-9. Por la realización de estudios técnicos y económicos a
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-solicitud de los Particulares, para el otorgamiento de
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-concesiones y permisos en todas sus Modalidades, por
+9. Por la realización de estudios técnicos y económicos
 
-unidad vehicular. $1,348.
+para el otorgamiento de concesiones y permisos en todas
 
-10. Por la realización de estudios técnicos y económicos a
+sus modalidades, por unidad vehicular. $1,348.
 
-solicitud de los Particulares, para la autorización de ruta o
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-derrotero, enlace, enrolamiento, sitios, bases o lanzaderas. $3,372.
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-11. Por la realización de estudios técnicos y económicos a
+10. Por la realización de estudios técnicos y económicos,
 
-solicitud de los Particulares, para la modificación de ruta o
+para la autorización o modificación de ruta o derrotero,
 
-derrotero, enlace, enrolamiento, Sitios, bases o lanzaderas. $3,372.
+enlace, enrolamiento, sitios, bases o lanzaderas. $3,372.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+11. (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
 12. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
@@ -3035,11 +3217,19 @@ especializado escolar, personal de empresa y turismo
 
 y el servicio de arrastre o salvamento. $674.
 
-V. Por la cesión de derechos o cambio de titular del permiso de carga en general y especializado de carga:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+V. Por la cesión de derechos o cambio de titular del permiso de carga en general:
 
 A). El servicio discrecional de pasaje:
 
-1. Transporte de pasaje especializado escolar y personal de empresa:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+1. Transporte de pasaje especializado escolar y personal de empresa, en que se obtenga un lucro por la prestación:
 
 a). Autobús. $1,618.
 
@@ -3057,35 +3247,25 @@ c). Vagonetas. $2,158.
 
 d). Vehículos de propulsión no mecánica, bicitaxis. $273.
 
-B). El servicio de carga en general y especializado de carga:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+B). El servicio de carga en general:
 
 1. Capacidad hasta de 3,000 kgs. $1,012.
 
 2. Capacidad de carga de más de 3,000 kgs. $1,350.
 
-C). El servicio discrecional de arrastre o de salvamento:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-1. Grúas de arrastre u otros vehículos especializados para
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-trasladar vehículos impedidos mecánica o legalmente
+C). El servicio discrecional de arrastre y traslado, prestado
 
-para su auto-desplazamiento. $8,093.
+a través de grúas para transportar vehículos impedidos
 
-2. Grúas de salvamento u otros vehículos especializados
-
-para el rescate de personas, objetos o animales que se
-
-encuentren en situaciones de peligro o que atenten contra
-
-la seguridad de terceros en sus personas o bienes. $8,093.
-
-3. Servicio de depósito de vehículos por cesión de derechos o
-
-cambio de titular de permiso para guardar y custodia de
-
-vehículos accidentados o a disposición de autoridades diversas,
-
-por cada corralón. $5,755.
+mecánicamente para su auto-desplazamiento o para traslado. $8, 563
 
 D). Los servicios conexos:
 
@@ -3107,15 +3287,23 @@ VI. Por la prórroga o cambio de la temporalidad de vigencia del permiso respect
 
 A). El servicio discrecional de pasaje:
 
-1. El servicio de transporte de pasaje especializado escolar y personal de empresa:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+1. El servicio de transporte de pasaje especializado escolar y personal de empresa en que se obtenga un lucro por la prestación del servicio:
 
 a). Autobús. $1,012.
 
-b ). Minibús. $810.
+b ).Minibús. $810.
 
 c). Vagonetas. $810.
 
-2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica que obtenga un lucro por la prestación del servicio:
 
 a). Autobús. $2,023.
 
@@ -3131,27 +3319,15 @@ B). El servicio de carga en general y especializado de carga:
 
 2. Capacidad de carga de más de 3,000 kgs. $1,350.
 
-C). El servicio discrecional de arrastre o de salvamento:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-1. Grúas de arrastre u otros vehículos especializados para
+(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009) (F. DE E., G.G. 2 DE FEBRERO DE 2010)
 
-trasladar vehículos impedidos mecánica o legalmente
+C). El servicio discrecional de arrastre y traslado, prestado
 
-para su auto-desplazamiento. $4,046.
+a través de grúas para transportar vehículos impedidos
 
-2. Grúas de salvamento u otros vehículos especializados
-
-para el rescate de personas, objetos o animales que se
-
-encuentren en situaciones de peligro o que atenten contra
-
-la seguridad de terceros en sus personas o bienes. $4,046.
-
-3. Servicio de depósito de vehículos para guarda y
-
-custodia de vehículos accidentados o a disposición de
-
-autoridades diversas por cada corralón. $5,755.
+mecánicamente para su auto-desplazamiento o para traslado. $4,281.
 
 D). Los servicios conexos, por el establecimiento de:
 
@@ -3283,7 +3459,9 @@ B). Por el duplicado de la tarjeta de identificación personal
 
 para operadores de transporte público con la vigencia del
 
-documento expedido originalmente y con la leyenda "Duplicado". $608.
+documento expedido originalmente y con la leyenda
+
+"Duplicado". $608.
 
 La expedición de la tarjeta de identificación personal incluye exámenes medico, Psicométrico y toxicológico.
 
@@ -3363,7 +3541,7 @@ hayan sido autorizados para prestar el servicio público de
 
 autotransporte colectivo de pasajeros, en rutas fijas dentro
 
-del territorio del Estado. $376.
+del territorio del Estado. $376
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -3381,7 +3559,9 @@ del territorio del Estado. $376.
 
 Las personas físicas y jurídicas colectivas que presten los servicios de seguridad privada, pagarán derechos conforme a la siguiente:
 
-(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 TARIFA
 
@@ -3393,19 +3573,19 @@ Registro Público correspondiente, respecto del
 
 personal operativo con que cuentan los prestadores
 
-de servicios, por elemento. $110.
+de servicios, por elemento. $300
 
 II. Por el estudio y evaluación de la solicitud para la
 
 prestación de servicios de seguridad privada, en los
 
-términos de ley, o su revalidación. $330.
+términos de ley, o su revalidación. $1,500
 
 III. Por el estudio para determinar la legalidad de inscribir
 
 cada arma de fuego o equipo utilizado en la prestación de
 
-los servicios, por cada arma o equipo. $110.
+los servicios, por cada arma o equipo. $300
 
 IV. Por el estudio para determinar la legalidad de inscribir
 
@@ -3415,23 +3595,23 @@ elementos operativos de quienes la Secretaría haya
 
 efectuado la consulta previa de antecedentes policiales,
 
-por elemento. $110.
+por elemento. $300
 
 V. Por la expedición de cédula de identificación a personal
 
-operativo, por cada elemento o su reposición. $165.
+operativo, por cada elemento o su reposición. $250
 
 VI. Por la modalidad de la prestación de los servicios de
 
-seguridad privada. $275.
+seguridad privada. $500
 
 VII. Por el cambio de modalidad del servicio de seguridad
 
-privada o su ampliación. $330.
+privada o su ampliación. $1,500
 
 VIII. Por inscripción de licencia colectiva de portación de
 
-arma de fuego por cada uno de los elementos operativos. $110.
+arma de fuego por cada uno de los elementos operativos. $300
 
 SUBSECCION TERCERA
 
@@ -3567,9 +3747,11 @@ Por inscripción de documentos o actos relativos a bienes inmuebles se pagarán 
 
 I. Por inscripciones relativas a la propiedad o posesión originaria de bienes inmuebles:
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-A). Apeo y deslinde. $440.
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+A). Apeo y deslinde judicial. $440.
 
 (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
@@ -3837,41 +4019,11 @@ VIII. Otros actos inscribibles o anotables. $1,180.
 
 Las microindustrias que se encuentren registradas en el Padrón Nacional de la Microindustria, previa comprobación de su registro, pagarán por concepto de derechos establecidos en el artículo (sic) $90.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 80.
 
-Por inscripciones de títulos de propiedad sujetos a registro en los términos del Registro Público de la Propiedad, se pagarán derechos, conforme a la siguiente:
-
-(ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
-
-TARIFA
-
-CONCEPTO
-
-1. Cuando los actos a inscribir no tengan valor determinado
-
-o éste sea hasta de $177,277. $1,191.
-
-2. Cuando el valor de los actos a inscribir sea de más de
-
-$177,277 y hasta de $221,597. $3,576.
-
-3. Cuando el valor de los actos a inscribir sea de más de
-
-$221,597 y hasta de $265,916. $5,962.
-
-4. Cuando el valor de los actos a inscribir sea de más de
-
-$265,916 y hasta de $310,236. $8,346.
-
-5. Cuando el valor de los actos a inscribir sea de más de
-
-$310,236 y hasta de $354,557. $10,731.
-
-6. Cuando el valor de los actos a inscribir sea de más de
-
-$354,557. $11,947.
+(DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
 #### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTRAS OPERACIONES TRASLATIVAS DE DOMINIO DE INMUEBLES
 
@@ -3985,6 +4137,24 @@ C). De inscripción. $556.
 
 D). De libertad o de existencia de gravámenes. $647.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+Tratándose de la expedición de certificados de libertad o
+
+existencia de gravámenes relacionados con la adquisición
+
+de viviendas de interés social, social progresiva o popular. $119
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+Tratándose de terrenos en donde se construyan viviendas
+
+de interés social, social progresiva o popular. $297
+
 Los derechos a que se refiere esta fracción, se pagarán por cada fracción de terreno, lote o vivienda.
 
 II. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
@@ -4049,11 +4219,11 @@ Por la calificación de los documentos, cuando se devuelvan sin haberse practica
 
 Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos $92.
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 86.
 
-Por la expedición de formas aprobadas, se pagarán por concepto de derechos $45.
+(DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
 ###### Artículo 87.
 
@@ -4121,15 +4291,23 @@ asienten en nota complementaria dentro del acto jurídico que
 
 corresponda. $450.
 
-X. Deposito de aviso de testamento, por cada uno. $45.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+X. Depósito de aviso de testamento, incluyendo
+
+el que se realiza por vía correo electrónico, por cada uno. $45.
 
 Por la autorización definitiva de escrituras que contengan diversos contratos o actos, los derechos se fijarán en su totalidad por cada uno de los actos o contratos principales, y en una mitad por los accesorios o complementarios.
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS [N. DE E. REFORMADO], G.G. 1 DE ENERO DE 2009)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 89.
 
-Los notarios públicos deberán, estimar el monto de los derechos a su cargo y efectuar el pago correspondiente de los derechos establecidos en esta subsección, directamente y bajo su responsabilidad ante las instituciones autorizadas, mediante la presentación, documental o por medios electrónicos de los formatos autorizados para tal efecto por el Instituto de la Función Registral. Al presentar para su inscripción el testimonio respectivo, agregará al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
+Los notarios públicos deberán efectuar el pago de los derechos correspondientes, conforme a lo establecido en esta subsección, directamente y bajo su responsabilidad ante las instituciones bancarias, utilizando los formatos autorizados para tal efecto por el Instituto de la Función Registral del Estado de México. Al presentar para su inscripción el testimonio respectivo, agregarán al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad verificará y calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
 
 SUBSECCION QUINTA
 
@@ -4161,29 +4339,31 @@ concentradas en la Dirección General y oficinas regionales
 
 del Registro Civil. $23.
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III. Expedición de copia certificada en papel seguridad de las
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-actas de los actos y/o hechos del estado civil concentrados
+III. Expedición de copia certificada en papel seguridad, de
 
-en la Dirección General. $47.
+las actas de los actos y/o hechos del estado civil
+
+concentradas en la Dirección General. $47.
 
 (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
 IV. Por el dictamen de procedencia del divorcio administrativo. $880.
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V. Búsqueda en los libros y archivos del Registro Civil
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-que se encuentren concentrados en la Dirección
+V. Búsqueda en los libros y archivos sistematizados del
 
-General del Registro Civil, subdirecciones y oficinas
+Registro Civil que se encuentren concentrados en la
 
-regionales, cuando no se señale fecha de registro, por
+Dirección General, subdirecciones y oficinas regionales,
 
-cada año o fracción. $12.
+cuando no se señale fecha de registro, por cada año o fracción. $12.
 
 (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
@@ -4205,13 +4385,15 @@ IX. Por juego de formato para el asentamiento de hechos y
 
 actos del estado civil. $4.
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 X. Por el servicio de encuadernación o rehabilitación de los
 
 libros de Oficialía de las diversas actas de los actos y hechos
 
-del estado civil, por libro. $157.
+del estado civil, por libro. $224.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -4369,9 +4551,17 @@ G). Motocicleta, motoneta, trimoto y cuadrimoto, emplacada
 
 en otra entidad federativa. $0.
 
-VIII. Por la expedición con vigencia anual de placas de vehículos
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-en demostración y traslado. $1,270.
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+VIII. Por los servicios relativos a las placas en demostración y traslado.
+
+A). Por la expedición inicial de placas y tarjeta de circulación. $1,343.
+
+B). Refrendo anual. $838.
+
+C). Baja. $317.
 
 IX. Por otros servicios relativos al transporte particular y comercial, se pagarán los siguientes derechos:
 
@@ -4489,11 +4679,9 @@ A). Autorización:
 
 4. Normal. $8,166.
 
-5. Escuelas inscritas en el programa de incorporación gradual
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-a particulares que prestan servicio de educación preescolar
-
-al Sistema Educativo Estatal. $4,324.
+5. (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
 B). (DEROGADO, G.G. 1 DE ENERO DE 2009) (REPUBLICADO, G.G. 1 DE ENERO DE 2009)
 
@@ -4669,21 +4857,23 @@ II. (DEROGADA, G.G. 30 DE JUNIO DE 2006) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
 III. Por vigencia anual de derechos, por plan de estudios, modalidad, carrera y turno a escuelas particulares:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
 A). Autorización:
 
-1. Preescolar. $3,869.
+1. Preescolar. $4,426.
 
-2. Primaria. $3,869.
+2. Primaria. $4,583.
 
-3. Secundaria. $4,644.
+3. Secundaria. $5,394.
 
-4. Normal. $7,739.
+4. Normal. $8,640.
 
-B). A escuelas inscritas en el programa para la incorporación
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-gradual de los particulares que imparten educación
-
-preescolar al Sistema Educativo Estatal. $4,016.
+B). (DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
 
 IV. Por expedición de certificados o duplicado de certificados de estudios realizados en escuelas oficiales o particulares incorporadas, de tipo:
 
@@ -4713,7 +4903,11 @@ ingreso matriculado en el plantel educativo, por una sola
 
 vez independientemente del grado o ciclo que curse. $62.
 
-VII. Por cambio del nombre del plantel, titular de incorporación, representante legal, apoderado legal, director escolar, domicilio o turno:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+VII. Por cambio del nombre del plantel, titular del acuerdo de autorización, representante legal, apoderado legal, directivos, modificación a la plantilla docente, domicilio o turno:
 
 1. Educación Básica. $837.
 
@@ -4798,6 +4992,12 @@ VIII. Por el trámite para permitir gravar, fideicomitir o afectar para sí en a
 (ACTUALIZADA EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
 
 IX. Por la aprobación de proyectos arquitectónicos de equipamiento urbano para conjuntos urbanos y condominio, se pagarán. $1, 101.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+X. Por la aprobación del respectivo proyecto de lotificación del conjunto urbano, se pagarán$2,000.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -4885,7 +5085,11 @@ En caso de que un municipio distinto a los anteriores solicite el servicio, ser�
 
 B). Para usuarios que tengan asignación directa de la Comisión Nacional del Agua y utilicen la infraestructura que opera la Comisión del Agua del Estado de México, para la conducción de los volúmenes asignados, pagarán:
 
-Por cada metro cúbico de agua asignada de fuentes federales $1.4779.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+Por cada metro cúbico de agua asignada de fuentes federales $1.88.
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -5041,11 +5245,11 @@ A). De 0 a 999 metros. $13.
 
 B). A partir de 1000 metros. $8.
 
-III. Instalación de postería por cada metro:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-A). De 0 a 999 metros. $4.
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-B). A partir de 1000 metros. $4.
+III. Instalación de postería para instalación marginal, por cada poste. $240
 
 IV. Cruzamientos por cada metro:
 
@@ -5059,15 +5263,27 @@ A). De 0 a 999 metros. $9.
 
 B). A partir de 1000 metros. $6.
 
-VI. Por el uso y aprovechamiento del derecho de vía para la colocación de señales informativas y estructuras con fines de publicidad, se pagarán anualmente los siguientes derechos:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-A). Elaboración de estudio técnico:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+VI. Por el uso y aprovechamiento del derecho de vía para la colocación de señales informativas y estructuras con fines de publicidad, se pagarán los siguientes derechos:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+A). Elaboración de estudio técnico, al realizarse la instalación:
 
 1. Por señal informativa. $296.
 
 2. Por estructura para anuncios publicitarios. $2,956.
 
-B). Uso y aprovechamiento del derecho de vía:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+B). Uso y aprovechamiento del derecho de vía anualmente:
 
 1. Por señal informativa de hasta I0 metros cuadrados. $2,009.
 
@@ -5091,7 +5307,11 @@ h) Más de 70 y hasta 80 metros cuadrados $16,881.
 
 i) Más de 80 y hasta 90 metros cuadrados $18,991.
 
-C). Otorgamiento del Permiso:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+C). Otorgamiento del permiso anualmente:
 
 1. Por señal informativa. $107.
 
@@ -6307,23 +6527,43 @@ I. Por la búsqueda y reposición de la constancia sobre los
 
 resultados de la verificación del vehículo automotor. $122.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
 II. Por la expedición de la constancia que ampara a los
 
-vehículos que no quedan sujetos al programa "Hoy No Circula",
+vehículos que operan con combustibles alternos, como
 
-conforme a las normas técnicas emitidas al efecto. $547.
+gas licuado de petróleo, gas natural, diesel u otros, que
+
+conforme a las normas técnicas emitidas al efecto no
+
+quedan sujetos al Acuerdo “Hoy No Circula” y al Programa
+
+de Contingencias Ambientales. $547.
 
 III. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
 IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
-V. Por la inscripción y expedición de constancia del
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-padrón de vehículos mercantiles a domicilio que operan
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-con combustibles alternos de gas licuado de petróleo,
+V. Por la inscripción y expedición a domicilio de la
 
-natural o diesel, por cada uno. $596.
+constancia que ampara a los vehículos mercantiles
+
+que operan con combustibles alternos como gas
+
+licuado de petróleo, gas natural, diesel u otros, que
+
+conforme a las normas técnicas emitidas al efecto no
+
+quedan sujetos al Acuerdo “Hoy No Circula” y al
+
+Programa de Contingencias Ambientales, por cada uno. $596.
 
 VI. Por la certificación para la comercialización y/o
 
@@ -6371,13 +6611,13 @@ A). Industria. $3,538.
 
 B). Otros. $3,646.
 
-V. Por expedición del oficio de prórroga de la vigencia de la resolución que contenga el análisis respecto de:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-A). Informe previo. $1,768.
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-B). Manifestación de Impacto ambiental. $3,652.
+V. Por expedición del oficio de prórroga de la vigencia de la
 
-C). Estudio de riesgo. $5,477.
+resolución. $3,310
 
 VI. Por la expedición del oficio que determine que una
 
@@ -6411,11 +6651,13 @@ II. DEROGADA, G.G. 29 DE DICIEMBRE DE 2000) (REPUBLICADA, G.G. 1 DE ENERO DE 200
 
 III. DEROGADA, G.G. 29 DE DICIEMBRE DE 2000) (REPUBLICADA, G.G. 1 DE ENERO DE 2009)
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 101.
 
-Por los análisis técnicos y económicos para la procedencia operativa de verificentros autorizados, se pagarán $8,036., por cada doce meses, dentro de los primeros cinco días siguientes de haberse presentado la solicitud.
+Por las evaluaciones técnicas para la procedencia operativa de Verificentros autorizados, se pagarán $4,251, semestralmente, dentro de los primeros diez días naturales siguientes a la entrada en vigor del Programa de Verificación Vehicular correspondiente.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -6429,11 +6671,23 @@ TARIFA
 
 CONCEPTO
 
-I. Funcionamiento de emisiones a la atmósfera. $372.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Generador de residuos no peligrosos. $248.
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-III. Quema de materiales a cielo abierto. $620.
+I. Funcionamiento de emisiones a la atmósfera. $600.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+II. Generador de residuos de manejo especial. $450.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+III. Quema de materiales a cielo abierto. $800.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -6457,9 +6711,11 @@ Por los servicios prestados por la Procuraduría General de Justicia del Estado,
 
 CONCEPTO TARIFA
 
-(ACTUALIZADO PRIMER PARRAFO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2009)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I. Expedición de certificados de no antecedentes penales. $54.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+I. Expedición de certificados de no antecedentes penales. $100.
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -7025,7 +7281,11 @@ por día. 3.63
 
 Tratándose de las personas físicas y jurídicas colectivas que de manera eventual realicen esta actividad, deberán cumplir con la obligación de pago por el número de días en que se llevó a cabo la publicidad, conforme a la tarifa de este artículo, para lo cual, en caso de que no se señale una cuota diaria, deberán de dividir el monto a pagar bimestral entre 60 y el resultado multiplicarlo por el número de días en los que se efectuó la publicidad, de acuerdo al concepto de que se trate. En este caso, se pagará mediante declaración mensual que deberá presentarse dentro de los cinco días siguientes del mes siguiente.
 
-No pagarán este impuesto, aquellos anuncios que promuevan eventos educativos o culturales que no persigan fines de lucro.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+No se pagará este impuesto, por aquellos anuncios que tengan como única finalidad publicitar el nombre, la denominación o razón social del establecimiento a través de anuncios adosados o pintados en el mismo, así como aquellos que promuevan eventos educativos o culturales que no persigan fines de lucro.
 
 Para efectos de este artículo se entenderá como anuncio luminoso, aquél que sea alumbrado por una fuente de luz distinta de la natural, en su interior o exterior.
 
@@ -7179,19 +7439,17 @@ El consejo directivo del organismo público descentralizado de carácter municip
 
 Los usuarios del servicio de agua potable, alcantarillado y saneamiento están obligados a realizar el pago de los derechos derivados de la prestación del servicio, cuando se encuentren asentados en áreas urbanizables, susceptibles de ser integradas a los centros de población.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 130.
 
-Por el suministro de agua potable, se pagarán bimestralmente derechos conforme a lo siguiente:
+Los derechos por el suministro de agua potable, se pagarán mensualmente, bimestralmente o de manera anticipada a través de los dispositivos y modalidades que para tal fin establezcan los Municipios por sí o por conducto de los organismos operadores de agua de que se trate o con cargo a tarjeta de crédito otorgada por instituciones bancarias, conforme a lo siguiente:
 
 I. Para uso doméstico:
 
 A). Con medidor.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-TARIFA
 
 (VEASE ARCHIVO ANEXO)
 
@@ -7213,17 +7471,59 @@ Para consumo de agua en edificios de departamentos y vecindades que tengan para 
 
 La cuota mínima a pagar en el bimestre no será menor a la que corresponda a un consumo de 15 m3.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-B). Si no existe aparato medidor o se encuentra en desuso, se pagarán bimestralmente los derechos, dentro de los primeros diecisiete días siguientes al bimestre que corresponda de acuerdo con la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+B). Si no existe aparato medidor o se encuentra en desuso, se pagarán los derechos dentro de los primeros diecisiete días siguientes al mes o bimestre que corresponda de acuerdo con lo siguiente:
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-TARIFA
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-(VEASE ARCHIVO ANEXO)
+TARIFA MENSUAL
+
+GRUPOS DE MUNICIPIOS
+
+DIÁMETRO DE LA Número de Salarios Mínimos Generales Diarios
+
+TOMA 13MM del Área Geográfica que corresponda
+
+1 2 3 4
+
+Social Progresiva 2.0846 1.8830 1.6915 1.5101
+
+Interés Social y Popular 2.3124 2.0887 1.8763 1.6750
+
+Residencial Media 7.6407 6.8667 6.1327 5.4390
+
+Residencial Alta 23.1188 20.7902 18.5818 16.4938
+
+Toma de 19 a 26 mm 48.4030 43.5417 38.9310 34.5709
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+TARIFA BIMESTRAL
+
+GRUPOS DE MUNICIPIOS
+
+DIÁMETRO DE LA Número de Salarios Mínimos Generales Diarios
+
+TOMA 13MM del Área Geográfica que corresponda
+
+1 2 3 4
+
+Social Progresiva 4.1692 3.7660 3.3830 3.0201
+
+Interés Social y Popular 4.6247 4.1773 3.7525 3.3500
+
+Residencial Media 15.2813 13.7333 12.2654 10.8780
+
+Residencial Alta 46.2375 41.5803 37.1635 32.9876
+
+Toma de 19 a 26 mm 96.8060 87.0833 77.8619 69.1417
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -7237,12 +7537,6 @@ II. Para uso no doméstico:
 
 A). Con medidor:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-TARIFA
-
 (VEASE ARCHIVO ANEXO)
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
@@ -7253,17 +7547,71 @@ En caso de que el medidor se encuentre descompuesto, el usuario pagará los dere
 
 La cuota mínima a pagar en el bimestre no será menor a la que corresponda a un consumo de 15 m3.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-B). Si no existe aparato medidor, o se encuentra en desuso, se pagarán bimestralmente los derechos de acuerdo con la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+B). Si no existe aparato medidor o se encuentra en desuso, se pagarán los derechos dentro de los primeros diecisiete días siguientes al mes o bimestre que corresponda de acuerdo con lo siguiente:
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-TARIFA
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-(VEASE ARCHIVO ANEXO)
+TARIFA MENSUAL
+
+GRUPOS DE MUNICIPIOS
+
+DIÁMETRO DE Número de Salarios Mínimos Generales Diarios del
+
+LA TOMA Área Geográfica a la que corresponda
+
+EN MM 1 2 3 4
+
+13 12.6250 11.0051 9.5422 8.1528
+
+19 127.1476 114.2615 102.2339 90.7219
+
+26 201.5882 181.1577 162.0886 143.8366
+
+32 331.1087 301.7863 266.1619 227.9033
+
+39 414.1783 372.2024 333.0232 277.4298
+
+51 717.2495 644.5582 576.7095 473.3853
+
+64 1,083.5925 973.7734 871.2709 707.0207
+
+75 1,592.2573 1,430.8863 1,280.2666 1,099.4537
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+TARIFA BIMESTRAL
+
+GRUPOS DE MUNICIPIOS
+
+DIÁMETRO DE Número de Salarios Mínimos Generales Diarios del
+
+LA TOMA Área Geográfica a la que corresponda
+
+EN MM 1 2 3 4
+
+13 25.2500 22.0102 19.0844 16.3055
+
+19 254.2951 228.5230 204.4677 181.4438
+
+26 403.1763 362.3154 324.1771 287.6732
+
+32 662.2173 603.5726 532.3238 455.8065
+
+39 828.3565 744.4048 666.0463 554.8596
+
+51 1,434.4990 1,289.1164 1,153.4190 946.7705
+
+64 2,167.1850 1,947.5467 1,742.5418 1,414.0414
+
+75 3,184.5145 2,861.7726 2,560.5332 2,198.9073
 
 Para los efectos de estos derechos, se aplicará el 50% de la tarifa correspondiente, cuando se trate de núcleos de población de zonas rurales, que cuenten con sistemas locales de agua y que reporten una población menor a 1,000 habitantes.
 
@@ -7305,25 +7653,27 @@ Los usuarios que se abastezcan de agua mediante carros tanque, pagarán la tarif
 
 Por el suministro de agua en bloque por parte de las autoridades municipales o sus organismos descentralizados a conjuntos urbanos y lotificaciones para condominio en el periodo comprendido desde la construcción hasta la entrega de las obras al municipio, se pagarán bimestralmente los derechos desde el momento en que reciba el servicio y que quede debidamente establecido en los convenios que al efecto se celebren con la autoridad fiscal competente, de acuerdo a la siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 TARIFA
 
-CONCEPTO GRUPOS DE MUNICIPIOS NUMERO DE
+GRUPOS DE MUNICIPIOS
 
-SALARIOS MINIMOS GENERALES DIARIOS
+CONCEPTO Número de Salarios Mínimos Generales Diarios
 
-DEL AREA GEOGRAFICA QUE
-
-CORRESPONDA POR M3
+del Área Geográfica que Corresponda por M3
 
 Grupo 1 Grupo 2 Grupo 3 Grupo 4
 
-Agua en Bloque 0.1410 0.1293 0.1182 0.1077
+Agua en Bloque 0.1452 0.1332 0.1218 0.1109
 
-Por lo anterior, la autoridad fiscal correspondiente instalará un aparato medidor de consumo a costa del desarrollador para determinar el volumen del suministro de agua en bloque y éste estará obligado a reportar mediante los formatos oficiales los consumos y a efectuar su pago dentro de los primeros diecisiete días siguientes al del bimestre que se esté reportando.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+Por lo anterior, la autoridad fiscal correspondiente instalará un aparato medidor electrónico de consumo a costa del desarrollador para determinar el volumen del suministro de agua en bloque y éste estará obligado a reportar mediante los formatos oficiales los consumos y a efectuar su pago dentro de los primeros diecisiete días siguientes al del bimestre que se esté reportando, o bien realizarlo de conformidad con las modalidades señaladas en el artículo anterior.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -7547,9 +7897,11 @@ No pagarán los derechos previstos en este artículo los conjuntos urbanos o uni
 
 Los Ayuntamientos, que de conformidad con las características o circunstancias técnicas y operativas de la prestación de los servicios a que se refiere esta sección, requieran de tarifas diferentes a las establecidas, las propondrán a más tardar el 15 de noviembre a la Legislatura.
 
-> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Las tarifas que se propongan deberán atender a los costos directos que implique su prestación, determinados con base en el Manual Metodológico aprobado en el marco del Sistema de Coordinación Hacendaria.
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+Las tarifas que se propongan, en ningún caso podrán ser inferiores a las establecidas en este Código, y deberán atender a los costos directos que implique su prestación, determinados con base en el Manual Metodológico aprobado en el marco del Sistema de Coordinación Hacendaria del Estado de México.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -7581,29 +7933,39 @@ TARIFA
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-CONCEPTO NÚMERO DE SALARIOS MÍNIMOS DIARIOS
+CONCEPTO NÚMERO DE SALARIOS
 
-GENERALES DEL ÁREA GEOGRÁFICA
+MÍNIMOS DIARIOS
+
+GENERALES DEL
+
+ÁREA GEOGRÁFICA
 
 QUE CORRESPONDA
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 I. Asentamiento de actas de
 
 nacimiento de recién nacidos,
 
-hasta niños de un año. Exento
+hasta cumplido un año. Exento
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 II. Asentamiento de actas de
 
 los registros extemporáneos
 
-de nacimiento de hijos mayores
+de nacimiento de personas
 
-de un año, por cada año omiso. 0.17
+mayores de un año, por cada
+
+año omiso. 0.17
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -7661,15 +8023,17 @@ que no se originen por acuerdos de la
 
 Dirección General. 1.3.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XI. Expedición de copias certificadas del
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-Registro Civil en papel seguridad de las
+XI. Expedición de copias certificadas
 
-actas de los actos y/o hechos del estado
+del Registro Civil en papel seguridad,
 
-civil. 0.88.
+de las actas de los actos y/o hechos del
+
+estado civil. 0.88.
 
 A). Por certificación de constancias de
 
@@ -7689,43 +8053,61 @@ administrativos, concentrados en las
 
 oficialías. 0.44.
 
-> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XII. Búsqueda en los libros del Registro Civil
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-que se encuentren concentrados en las oficialías,
+XII. Búsqueda en los libros y archivos
 
-cuando no se señale fecha de registro, por cada
+sistematizados del Registro Civil que se
 
-año o fracción 0.144
+encuentren concentrados en las oficialías,
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+cuando no se señale fecha de registro, por
 
-XIII. Los actos celebrados fuera de las oficinas del
+cada año o fracción. 0.144
 
-Registro Civil, o en días y horas inhábiles, pagarán
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Una cuota adicional de: 4.95
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-XIV. Tramitación de divorcio
+XIII. Asentamiento de actos y/o hechos del
 
-administrativo efectuado ante
+estado civil realizados fuera de las oficinas
 
-las oficinas del Registro Civil. 20.92
+del Registro Civil, o en días y horas inhábiles,
+
+pagarán una cuota adicional de: 4.95
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+XIV. Tramitación de divorcio administrativo
+
+efectuado ante las Oficialías del Registro Civil. 20.92
 
 XV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XVI. Por la transcripción de las actas y/o
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-hechos celebrados por mexicanos en el
+XVI. Por la transcripción de las actas de los actos y/o hechos
+
+del estado civil celebrados por mexicanos en el
 
 extranjero ante autoridad extranjera. 6.60
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-XVII. Expedición de copia certificada del Registro Civil en papel bond para acuerdo de aclaración de actas, concentradas en las oficialías del Registro Civil. 0.46
+XVII. Expedición de copia certificada del
+
+Registro Civil en papel bond para acuerdo
+
+de aclaración de actas, concentradas en las
+
+oficialías del Registro Civil. 0.46
 
 En los casos de desastres como heladas, inundaciones, epidemias, sismos o de campaña de regularización como matrimonios colectivos o solicitudes de oficio de las autoridades, los ayuntamientos respectivos a través de sus autoridades fiscales enunciadas en este Código, podrán subsidiar hasta el 100% de los derechos que causen los actos de registro civil.
 
@@ -10391,23 +10773,27 @@ Sólo para efectos de este capítulo, el número de cajones de estacionamiento r
 
 El factor de mitigación de impacto vial se aplicará de acuerdo al tipo de vehículo que potencialmente hará uso del inmueble como sigue:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-TIPO DE VEHICULO FACTOR DE MITIGACION
+TIPO DE VEHICULO FACTOR DE
 
-DE IMPACTO VIAL
+MITIGACION
 
-A. Automóvil, camioneta y pickup $599.
+DE IMPACTO
+
+VIAL
+
+A. Automóvil, camioneta y pickup $626.
 
 B. Autobuses, microbuses y similares
 
-hasta con cuatro ejes $845.
+hasta con cuatro ejes $883.
 
-C. Camiones de carga de dos hasta seis ejes $1,280.
+C. Camiones de carga de dos hasta seis ejes $1,338.
 
-D. Combinación de un tracto-camión $1,050.
+D. Combinación de un tracto-camión $1,097.
 
 con semiremolque y/o remolque
 
@@ -10449,43 +10835,55 @@ Cuando no se encuentre comprendido en la tabla anterior por su denominación alg
 
 Tratándose de conjuntos urbanos habitacionales en el Estado, para la determinación de la aportación que por cada vivienda corresponda, se aplicará la siguiente tarifa:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 TIPO DE VIVIENDA MONTO DE APORTACIÓN
 
 POR VIVIENDA
 
-DE INTERÉS SOCIAL $546
+DE INTERÉS SOCIAL $571
 
-POPULAR $817
+POPULAR $854
 
-MEDIA $9,147
+MEDIA $9,559
 
-RESIDENCIA $15,207
+RESIDENCIA $15,891
 
 RESIDENCIAL ALTO
 
-Y CAMPESTRE $25,943
+Y CAMPESTRE $27,110
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 216-F.
 
-Estas Aportaciones para Obras de Impacto Vial deberán pagarse dentro de los diecisiete días siguientes al inicio de la vigencia de la primera licencia o primer permiso municipal de construcción, salvo que cualquiera de dichos documentos se hubiesen notificado o entregado en fecha posterior, caso en el cual, se tomará esta última fecha para el cómputo del plazo para el pago, salvo que el inicio de la construcción, modificación o ampliación se realice en fecha posterior, caso en el cual se estará a lo establecido en el segundo párrafo de este artículo, debiendo enterarlas mediante declaración en la forma oficial aprobada, o convenirse el pago diferido o en parcialidades, con otorgamiento de la garantía del interés fiscal conjuntamente con la solicitud de autorización, mismas que se deberán presentar dentro del plazo citado.
+Estas Aportaciones para Obras de Impacto Vial deberán pagarse en efectivo, dentro de los diecisiete días siguientes al inicio de la vigencia de la primera licencia o primer permiso municipal de construcción que se expida con relación a la obra objeto del dictamen, salvo que cualquiera de dichos documentos se hubiesen notificado o entregado en fecha posterior, caso en el cual, se tomará esta última fecha para el cómputo del plazo para el pago, salvo que el inicio de la construcción, modificación o ampliación se realice en fecha posterior, caso en el cual se estará a lo establecido en el segundo párrafo de este artículo, debiendo enterarlas mediante declaración en la forma oficial aprobada; en especie, conforme al artículo 26 A de este ordenamiento legal o en obra para infraestructura vial, o bien convenirse el pago en efectivo ya sea diferido o en parcialidades, con otorgamiento de la garantía del interés fiscal conjuntamente con la solicitud de autorización, mismas que se deberán presentar dentro del plazo citado.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Para el caso de no iniciar la obra de manera simultánea o inmediata a la entrega de la licencia o permiso, se tomará la fecha de inicio de la obra como el inicio del plazo de los 17 días para el pago de la aportación. La fecha de inicio no podrá ser superior a la conclusión de la vigencia de la licencia o permiso.
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 En todo caso, deberá de verificarse el inicio de la obra con el acta de inspección que levante la autoridad municipal, en éstos supuestos, el término para realizar el pago, contará a partir de la fecha de inicio de obra que se haga constar en dicha acta.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Las aportaciones de mejoras para obras de impacto vial, serán recibidas en obra para infraestructura vial cuando ésta se ubique en el territorio del municipio o municipios en que se hubiere dado el hecho generador, o bien, en depósito al fideicomiso de aportaciones para obras de impacto vial, de ser convenido previamente por la Secretaría de Comunicaciones y el municipio o municipios afectados.
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 Para el caso de que la Secretaría de Comunicaciones y el municipio o municipios involucrados, convengan el depósito del importe correspondiente a la aportación de mejoras, se procederá conforme señala el primer párrafo del presente artículo; si se conviene la recepción del importe a través de obra pública, la misma deberá ser realizada por el contribuyente en el territorio del municipio o municipios que de lugar a la causación de la aportación de mejoras para obras de impacto vial, en los términos que señale al efecto el Libro Séptimo del Código Administrativo del Estado de México, bajo la supervisión coordinada de la Secretaría de Comunicaciones y el municipio o municipios respectivos, debiéndose realizar la entrega a la dependencia, organismo descentralizado o municipio correspondiente.
 
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
 En caso de que los ingresos generados por las aportaciones de mejoras para obras de impacto vial, se hayan pagado y no exista convenio para su destino, se depositarán en el fideicomiso en un plazo no mayor a diez días hábiles contados a partir de su recepción, informándose al municipio municipios correspondientes en el mismo plazo.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 A fin de dar seguimiento a la aplicación de estos recursos, se constituirá el Comité de Control y Vigilancia de las Aportaciones para Obras de Impacto Vial, que estará integrado por:
 
@@ -10496,6 +10894,8 @@ II.- Un representante de la Secretaría de Comunicaciones;
 III.- Un representante de la Secretaría de Finanzas.
 
 IV.- Dos representantes de los municipios de la entidad, que serán designados anualmente en el seno del Instituto Hacendario del Estado de México, debiendo ser municipios en los cuales se genere la aportación.
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Este Comité será presidido por el representante de la Secretaría de Comunicaciones y tendrá, entre otras funciones, las siguientes:
 
@@ -10749,13 +11149,17 @@ La Recaudación Estatal Participable se distribuirá conforme a la fórmula sigu
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-La fórmula anterior no será aplicable en el evento de que en el año de cálculo la Recaudación Estatal Participable sea inferior a la observada en el año inmediato anterior, aplicándose a esta última la inflación anual registrada en dicho ejercicio fiscal. En dicho supuesto, la distribución de la Recaudación Estatal Participable se realizará en la misma proporción que cada municipio haya recibido en el año inmediato anterior.
+La fórmula anterior no será aplicable en el evento de que en el año de cálculo la Recaudación Estatal Participable sea inferior a la observada en el año inmediato anterior, aplicándole a esta última la inflación anual registrada en dicho ejercicio fiscal. En dicho supuesto, la distribución de la Recaudación Estatal Participable se realizará de acuerdo al coeficiente de las participaciones definitivas que para tal efecto publique la Secretaría.
 
 La Secretaría deberá publicar las reglas para la asignación de las participaciones federales y estatales a los municipios, las cuales deberán contener las definiciones de los conceptos referidos en este Código a través del Periódico Oficial “Gaceta del Gobierno” y en Internet.
 
-Las participaciones a favor de los municipios a que se refiere el inciso C) fracción I del artículo 219 de este Código, correspondiente al Fondo de Fiscalización, se distribuirán atendiendo a la recaudación registrada e informada por cada municipio en el ejercicio fiscal en que entró en vigor la coordinación en materia de derechos entre los Gobiernos del Estado y el Federal, por los conceptos que con motivo de dicha coordinación se dejaron de causar y cobrar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+Las participaciones a favor de los municipios a que se refiere el inciso C) fracción I del artículo 219 de este Código, correspondiente al Fondo de Fiscalización, se distribuirán atendiendo a la recaudación registrada e informada por cada municipio a través de los formatos autorizados por la Secretaría, en el ejercicio fiscal en que entró en vigor la coordinación en materia de Derechos entre los Gobiernos del Estado y el Federal, por los conceptos que con motivo de dicha coordinación se dejaron de causar y cobrar.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -11009,11 +11413,13 @@ El monto de la inversión asignada y ejercida con los fondos federales, convenio
 
 El Gobierno Estatal y el de los municipios, en el ámbito de sus respectivas competencias, serán responsables de la correcta orientación, destino y aplicación de los apoyos federales que se otorguen.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 239.
 
-Las aportaciones y sus accesorios a que se refiere este Capitulo, no serán embargables, ni podrán bajo ninguna circunstancia gravarse, afectarse en garantía, ni destinarse a fines distintos a lo expresamente previsto tanto en el Presupuesto de Egresos de la Federación como en la Ley de Coordinación Fiscal y en este Código.
+Salvo lo previsto en los artículos 50 de la Ley de Coordinación Fiscal y 264 fracción IV segundo párrafo del presente Código, las aportaciones y sus accesorios a que se refiere este Capítulo, no serán embargables, ni podrán bajo ninguna circunstancia gravarse, afectarse en garantía, ni destinarse a fines distintos a lo expresamente previsto tanto en el Presupuesto de Egresos de la Federación como en la Ley de Coordinación Fiscal y en este Código.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -11375,7 +11781,11 @@ Las obligaciones de deuda pública estarán destinadas al financiamiento de inve
 
 Estas obligaciones podrán incrementar el saldo de la deuda pública, cuando los costos del financiamiento se incrementen por efecto de la inflación o cuando por circunstancias especiales el costo financiero sea mayor a lo presupuestado, debiendo informar de esta circunstancia a la Legislatura.
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBREDE 2009)</small>
+
+Se entiende por Deuda Pública la que contraiga el Gobierno del Estado como responsable directo y como avalista o deudor solidario de sus organismos descentralizados, empresas de participación mayoritaria y sus respectivos fideicomisos públicos o municipios, siempre que no estén dentro de las prohibiciones previstas por la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 261.
 
@@ -11404,6 +11814,14 @@ IV. Los montos de endeudamiento adicionales a los previstos en la Ley de Ingreso
 > <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 V. La contratación de financiamiento y la reestructuración de créditos de los ayuntamientos cuando el plazo de amortización exceda el período constitucional para el que fue electo el Ayuntamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE 2009)</small>
+
+VI. Cuando dos o más municipios sometan por sí o conjuntamente y a través del Ejecutivo Estatal, una iniciativa ante la Legislatura para que se expida una autorización global para la afectación de aportaciones federales susceptibles de afectarse de conformidad con la legislación aplicable como garantía y/o fuente de pago de los financiamientos que contraten, incluyendo el mecanismo, el cual se podrá constituir por conducto del Ejecutivo Estatal, en el entendido de que, cuando sea a través de fideicomiso, éste podrá captar la totalidad de las aportaciones susceptibles de afectarse de conformidad con la legislación aplicable y el mismo no será considerado organismo auxiliar de la administración pública estatal ni municipal; a dichos esquemas se podrán adherir aquellos municipios que así lo consideren conveniente y obtengan la autorización de sus respectivos ayuntamientos. Dicha autorización se podrá otorgar a través de Decretos específicos.
+
+Para el caso de que los plazos de amortización de los financiamientos a contratar conforme lo previsto en el presente artículo excedan de la administración municipal, se deberá contar con la autorización de la Legislatura para el endeudamiento.
 
 > <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -11469,17 +11887,21 @@ I. Celebrar contratos, convenios y demás instrumentos legales relacionados dire
 
 II. Reestructurar los créditos adquiridos como deudor directo o responsable solidario.
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III. Construir las garantías y fuentes de pago directa y/o indirectas de las obligaciones contraídas en términos de la fracción I del presente artículo, además de aquellas que se contraigan con el carácter de aval y obligado solidario, en términos de la fracción I del presente artículo.
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+III. Constituir por si o con el apoyo del Ejecutivo Estatal, las garantías y fuentes de pago directa y/o indirecta de las obligaciones contraídas en términos de la fracción I del presente artículo, además de aquellas que se contraigan con el carácter de aval y obligado solidario, en términos de la fracción I del presente artículo.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE NOVIEMBRE DE 2002)</small>
 
 IV. Afectar como fuente o garantía de pago o ambas, de las obligaciones que contraigan los municipios, incluyendo la emisión de valores representativos de un pasivo a su cargo para su colocación en el Mercado de Valores, sus ingresos derivados de contribuciones, productos, aprovechamientos y accesorios, así como las participaciones derivadas del Sistema Nacional de Coordinación Fiscal.
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Además de los ingresos mencionados en el párrafo anterior, serán susceptibles de afectación las aportaciones del Fondo para la Infraestructura Social Municipal, en los términos que para el caso establezcan los lineamientos vigentes.
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+Además de los ingresos mencionados en el párrafo anterior, serán susceptibles de afectación las aportaciones del Fondo para la Infraestructura Social Municipal, en los términos y para los fines establecidos en los artículos 25 fracción III, 33 inciso a) y 50 de la Ley de Coordinación Fiscal, así como 230 y 239 del presente Código.
 
 En la emisión de valores serán aplicables las condiciones y requisitos previstos en los artículos 265-B, 265-C, 265-D y 265-E de este Código.
 
@@ -11513,7 +11935,7 @@ Los fideicomisos a que se refiere el párrafo anterior deberán ser inscritos en
 
 > <small>(REFORMADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
-Cuando el derecho a percibir las participaciones en ingresos federales y los demás ingresos o derechos a que se refieren las fracciones anteriores, se hayan afectado a ese tipo de fideicomisos, y éstos no tengan el carácter de fideicomisos públicos de acuerdo con la legislación aplicable y tengan por propósito primordial o exclusivo el servir como medio de pago o garantía de deuda pública contratada por el Estado o de obligaciones que deriven de contratos celebrados conforme al Libro Décimo Sexto del Código Administrativo del Estado de México, las erogaciones que se realicen con cargo al patrimonio de dichos fideicomisos sólo estarán sujetas a las disposiciones establecidas en el decreto por el que la Legislatura autorice al Ejecutivo la creación del fideicomiso respectivo y a las reglas, controles y previsiones aplicables al fideicomiso de que se trate de acuerdo con las normas contractuales respectivas. Estos fideicomisos no estarán comprendidos en los previstos en el artículo 256, fracción V de este Código y aquéllos que garanticen obligaciones que deriven de contratos celebrados conforme al Libro Décimo Sexto del Código Administrativo del Estado de México podrán no constituir deuda pública. La Secretaría llevará un registro de estos fideicomisos.
+Cuando el derecho a percibir las participaciones en ingresos federales y los demás ingresos o derechos a que se refieren las fracciones anteriores, se hayan afectado a ese tipo de fideicomisos, y éstos no tengan el carácter de fideicomisos públicos de acuerdo con la legislación aplicable y tengan por propósito primordial o exclusivo el servir como medio de pago o garantía de deuda pública contratada por el Estado o de obligaciones que deriven de contratos celebrados conforme al Libro Décimo Sexto del Código Administrativo del Estado de México, las erogaciones que se realicen con cargo al patrimonio de dichos fideicomisos sólo estarán sujetas a las disposiciones establecidas en el decreto por el que la Legislatura autorice al Ejecutivo la creación del fideicomiso respectivo y a las reglas, ccontroles y previsiones aplicables al fideicomiso de que se trate de acuerdo con las normas contractuales respectivas. Estos fideicomisos no estarán comprendidos en los previstos en el artículo 256, fracción V de este Código y aquéllos que garanticen obligaciones que deriven de contratos celebrados conforme al Libro Décimo Sexto del Código Administrativo del Estado de México podrán no constituir deuda pública. La Secretaría llevará un registro de estos fideicomisos.
 
 La designación y remoción del fiduciario de los fideicomisos a que se refiere este artículo le corresponderá únicamente a las partes del mismo, conforme a los términos del respectivo fideicomiso.
 
@@ -11831,7 +12253,9 @@ Cuando un crédito esté totalmente amortizado se deberá dar de baja en el Regi
 
 ### CAPITULO SEGUNDO. DE LA INTEGRACION Y PRESENTACION DEL PRESUPUESTO DE EGRESOS
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 285.
 
@@ -11921,7 +12345,7 @@ La Legislatura al aprobar el Presupuesto de Egresos no podrá dejar de señalar 
 
 ###### Artículo 290.
 
-La Secretaría será la responsable de integrar y someter a consideración del Gobernador el proyecto de Presupuesto de Egresos del Estado.
+La Secretaría será la responsable de integrar y someter a consideración del Gobernador el proyecto de Presupuesto de Egresos del Estado, el que se elaborará con base en el marco de referencia para las finanzas públicas estatales y/o en los criterios generales de política económica emitidos por el Gobierno Federal y deberá de ser congruente con el Plan de Desarrollo del Estado además de que será armónico con las disposiciones de carácter contable que emita el Consejo Nacional de Armonización Contable.
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -12291,13 +12715,21 @@ En caso de que se requiera la realización de traspasos presupuestarios que reba
 
 Los traspasos presupuestarios externos serán aquellos que se realicen entre programas o capítulos de gasto, debiendo la unidad ejecutora solicitar autorización de la Secretaría, y en el caso de los municipios a la Tesorería, en términos de las disposiciones aplicables.
 
-La solicitud deberá contener la justificación necesaria, así como el dictamen de reconducción y actualización correspondiente que deberá incluir los montos y programas afectados, la descripción del ajuste en metas y objetivos de los programas, las unidades ejecutoras afectadas y los capítulos de gasto que comprenden.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+La solicitud deberá contener la justificación necesaria, así como el dictamen de reconducción y actualización correspondiente que deberá incluir los montos, programas y proyectos afectados, la descripción del ajuste en sus metas y objetivos, así como las unidades ejecutoras afectadas y los capítulos de gasto que comprenden.
 
 Para el caso de las entidades públicas, adicionalmente a la solicitud de traspasos externos, deberán contar con la aprobación del órgano de gobierno y presentarla a la Secretaría.
 
 Los traspasos presupuestarios autorizados deberán informarse dentro de los primeros diez días del mes siguiente en el que se realicen para ser integrados al informe que el Poder Ejecutivo rinda al Poder Legislativo, el que invariablemente deberá contener montos, los programas, unidades ejecutoras y capítulos afectados por cada uno de los traspasos realizados.
 
-El monto total de traspasos presupuestarios externos que autorice la Secretaría no podrá exceder del 5% del presupuesto total autorizado anual, exceptuando de este Capítulo los ajustes por incrementos salariales de carácter general y las contingencias derivadas de desastres naturales y siniestros.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+El monto total de traspasos presupuestarios externos que autorice la Secretaría no podrá exceder del 5% del presupuesto total autorizado anual, exceptuando de este capítulo los ajustes por incrementos salariales de carácter general, los ajustes derivados de la firma de convenios específicos con otros ámbitos de gobierno y las contingencias derivadas de desastres naturales y siniestros.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -12323,7 +12755,11 @@ No se podrán realizar traspasos presupuestarios del gasto de inversión en obra
 
 El Ejecutivo, por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos, con cargo a los excedentes que, en su caso, resulten de los ingresos autorizados en la Ley de Ingresos, hasta por un monto equivalente al 2% del presupuesto aprobado.
 
-Están exceptuadas para el cálculo del 2% señalado en el párrafo anterior, las erogaciones destinadas al pago de deuda, a la inversión en obra pública y al cumplimiento de las disposiciones legales que así lo obliguen, así como las autorizaciones con cargo a los ingresos adicionales provenientes de los programas de apoyo y las aportaciones federales comprendidas en el Presupuesto de Egresos de la Federación por tener una aplicación a un fin determinado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+Están exceptuadas por el cálculo del 2% señalado en el párrafo anterior, las erogaciones destinadas al pago de deuda a la inversión en obra pública y el cumplimiento de las disposiciones legales que así lo obliguen, así como las autorizaciones con cargo a los ingresos adicionales provenientes de los programas de apoyo y las aportaciones federales comprendidas en el Presupuesto de Egresos de la Federación y/o convenios firmados con otros ámbitos de gobierno por tener una aplicación a un fin determinado.
 
 También se encuentran exceptuadas para el cálculo del 2% señalado en este artículo, las autorizaciones con cargo al excedente en los ingresos propios que obtengan las Entidades Públicas en el ejercicio de sus funciones, en atención a su personalidad jurídica y patrimonio propio; recursos que podrán ser aplicados para el cumplimiento de sus objetivos establecidos en términos de la Ley o Decreto de su creación.
 
@@ -12337,13 +12773,17 @@ El Ejecutivo Estatal, al presentar la cuenta pública del ejercicio fiscal que c
 
 Las solicitudes de ampliación presupuestaria que presenten las dependencias y entidades públicas a través de su dependencia coordinadora de sector, deberán ser autorizadas por la Secretaría, con base al dictamen de reconducción y actualización que emita su titular, justificando el origen de los recursos, cumpliendo los mismos requisitos planteados en el artículo 317 Bis de este Código.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En el caso de los Municipios, los Ayuntamientos serán competentes para autorizar la adecuación solicitada.
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+En el caso de los municipios, los Ayuntamientos podrán autorizar la adecuación solicitada.
 
-El Ejecutivo deberá informar a la legislatura al rendir la cuenta pública, los programas a los que se aprobaron erogaciones adicionales en los términos de este artículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+El Ejecutivo deberá informar a la Legislatura, tanto en los informes trimestrales que señala el artículo 327 E del presente Código como al rendir la cuenta pública, los programas a los que se aprobaron erogaciones adicionales en los términos de este artículo, describiendo con precisión los montos, proyectos, metas, unidades ejecutorias y capítulos afectados por dichos movimientos.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -12429,11 +12869,17 @@ IV. La medición de que el ejercicio de estos recursos, se sujetará a las dispo
 
 V. El compromiso de los Ayuntamientos cuando menos de:
 
-a) Eficientar su recaudación en ingresos propios en relación a las metas que al efecto recomiende el Instituto Hacendario del Estado de México.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-b) Impulsar la ejecución de obras y acciones de beneficio social, a través del sistema de aportaciones de mejoras.
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-c) Presentar un programa para sanear sus finanzas respecto de los compromisos contraídos con organismos públicos estatales y federales, en relación a los rubros de agua, energía eléctrica y aportaciones de seguridad social, de acuerdo a las condiciones económicas de cada uno de los municipios.
+a). Presentar un catálogo de programas y acciones que le permitan mejorar su situación financiera, el cual deberá ser evaluado y calificado por el Instituto Hacendario del Estado de México. La calificación determinará el acceso a los recursos aludidos en este artículo.
+
+b) Eficientar su recaudación en ingresos propios en relación a las metas que al efecto recomiende el Instituto Hacendario del Estado de México.
+
+c) Impulsar la ejecución de obras y acciones de beneficio social, a través del sistema de aportaciones de mejoras.
+
+d) Presentar un programa para sanear sus finanzas respecto de los compromisos contraídos con organismos públicos estatales y federales, en relación a los rubros de agua, energía eléctrica y aportaciones de seguridad social, de acuerdo a las condiciones económicas de cada uno de los municipios.
 
 VI. Contendrán las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento y evaluación del convenio.
 
@@ -12444,6 +12890,12 @@ VI. Contendrán las demás estipulaciones que las partes consideren necesarias p
 Los proyectos de inversión deberán guardar congruencia con los planes y programas, así como a sus objetivos, metas, estrategias, prioridades y líneas de acción contenidas en el Plan Estatal de Desarrollo.
 
 La Cartera de Programas y Proyectos de Inversión se integrará con aquellos que cuenten con el análisis de costo-beneficio correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+Los programas o disposiciones que el Poder Legislativo integre en el Presupuesto de Egresos del Gobierno del Estado y que incluyan recursos a los que puedan acceder los municipios, se ajustarán al requisito establecido en la fracción V inciso a) del artículo anterior.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -12505,17 +12957,19 @@ Las dependencias a través de las Unidades de Información, Planeación, Program
 
 Al efecto, se llevará a acabo la revisión, seguimiento y evaluación del cumplimiento de objetivos y metas establecidas en los proyectos aprobados, contra los resultados del ejercicio del Presupuesto de Egresos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 327-E.
 
-El Titular del Ejecutivo por conducto de la Secretaría, enviara a la Legislatura o a la Diputación Permanente cuando aquella se encuentre en receso, informes preliminares mensuales del comportamiento de los ingresos y egresos y, trimestralmente en abril, julio y octubre el avance programático-presupuestal del Poder Ejecutivo. Los informes mensual y trimestral preliminares correspondientes al cierre del ejercicio, se presentarán en el mes de marzo del año siguiente. En todos los casos, los informes reflejarán las incidencias presupuestales y programáticas sucedidas en el periodo que se reporta por unidad responsable del gasto, función, programa, proyecto, capítulo de gasto y partida presupuestal.
+El Titular del Ejecutivo por conducto de la Secretaría, enviará a la Legislatura o a la Diputación Permanente cuando aquella se encuentre en receso, informes preliminares mensuales del comportamiento de los ingresos y egresos y, trimestralmente en abril, julio y octubre el avance programático-presupuestal del Poder Ejecutivo. Los informes mensual y trimestral preliminares correspondientes al cierre del ejercicio, se presentarán en el mes de marzo del año siguiente. En todos los casos, los informes reflejarán las incidencias presupuestales y programáticas sucedidas en el periodo que se reporta.
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Se adicionará a dichos informes un apartado especial sobre las reasignaciones realizadas, describiendo con precisión los montos, programas, unidades ejecutoras y capítulos afectados en cada una de las operaciones, así como otro apartado para informar de las asignaciones de recursos excedentes en términos de lo dispuesto por el artículo 317 Bis A de este Código.
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+Se adicionará a dichos informes un apartado especial sobre la reasignaciones realizadas, describiendo con precisión los montos, programas, proyectos, metas, unidades ejecutoras y capítulos afectados en cada una de las operaciones, así como otro apartado para informar de las asignaciones de recursos excedentes en términos de lo dispuesto por el artículo 317 Bis A de este Código.
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -14459,11 +14913,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno".
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TRANSITORIO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-TERCERO.- Las retenciones y pagos que se realicen con cargo a los recursos del Fondo previsto en la fracción IV del artículo 228 del Código Financiero del Estado de México y Municipios, que correspondan al municipio y/o sus organismos operadores de agua, a que se refieren los artículos 230 B, 230 D, y 230 E del referido Código Financiero, sólo podrán solicitarse para el cobro de adeudos generados a partir del 10 de enero de 2008. Lo anterior, en el entendido de que las retenciones y pagos relativos a los conceptos del Derecho sobre agua por la explotación, uso o aprovechamiento de aguas nacionales y de aprovechamientos por el suministro de agua en bloque por parte de la Comisión Nacional del Agua y por concepto de suministro de agua en bloque, cloración, operación, uso de la infraestructura hidráulica para la conducción de volúmenes y entrega de agua por la Comisión del Agua del Estado de México, con cargo a los recursos del citado Fondo, deberán efectuarse mediante la aplicación de los recursos del Fondo mencionado de manera gradual, con base en los siguientes porcentajes aplicables sobre el total de los recursos que correspondan a cada municipio por concepto del Fondo previsto en la fracción IV del artículo 228 del propio Código Financiero vigente en la entidad.
+TERCERO.- Las retenciones y pagos que se realicen con cargo a los recursos del Fondo previsto en la fracción IV del artículo 228 del Código Financiero del Estado de México y Municipios, por adeudos que correspondan al municipio, sus organismos operadores de agua y/o sus organismos auxiliares, a que se refieren los artículos 230 B, 230 D, 230 E, 230 H, 230 J y 230 K del referido Código Financiero, solo podrán solicitarse para el cobro de adeudos generados a partir del 1º de enero de 2008. Lo anterior, en el entendido de que las retenciones y pagos relativos a los conceptos del Derecho sobre agua por la explotación, uso o aprovechamiento de aguas nacionales y de Aprovechamientos por el suministro de agua en bloque por parte de la Comisión Nacional del Agua, por concepto de suministro de agua en bloque, cloración, operación, uso de la infraestructura hidráulica para la conducción de volúmenes y entrega de agua por la Comisión del Agua del Estado de México, y por concepto de suministro de energía eléctrica, con cargo a los recursos del citado Fondo deberán efectuarse de manera gradual, con base en los siguientes porcentajes aplicables sobre el total de los recursos que correspondan a cada municipio por concepto del Fondo previsto en la fracción IV del artículo 228 del propio Código Financiero Vigente en la Entidad.
 
 EJERCICIO FISCAL PORCENTAJE MÁXIMO DE
 
@@ -14478,6 +14930,10 @@ RETENCIÓN DEL FORTAMUN
 2011 85%
 
 2012 EN ADELANTE 100%
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+Las retenciones y pagos realizados a favor de la Comisión Nacional del Agua y la Comisión del Agua del Estado de México a que se refiere el presente artículo, no podrán exceder de la aplicación de los porcentajes referidos en la tabla anterior, sobre la suma de la facturación de aprovechamientos e importes de derechos correspondientes.
 
 CUARTO.- Lo previsto en el Artículo Tercero Transitorio del presente Decreto, de ninguna manera se entenderá como una reducción porcentual o nominal de las obligaciones de pago de los municipios a que se refiere el artículo 230 A fracción I del Código Financiero del Estado de México y Municipios.
 
@@ -14548,6 +15004,14 @@ G.G. 1 DE ENERO DE 2009.
 Primero.- Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 Segundo.- Dése a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
+
+G.G. 10 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1º de enero de 2010.
+
+TERCERO.- Se ratifican las retenciones efectuadas al amparo de los artículos 230 E y 230 K del Código Financiero del Estado de México y Municipios y Tercero Transitorio del Decreto No. 123 de la H. "LVI" Legislatura publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México de fecha 27 de marzo de 2008, por el periodo de enero de 2008 a diciembre de 2009.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
