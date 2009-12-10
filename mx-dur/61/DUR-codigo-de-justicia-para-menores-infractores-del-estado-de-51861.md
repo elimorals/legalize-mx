@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-justicia-para-menores-infractores-del-estado-de-51861
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-11"
-last_updated: "2009-10-11"
+last_updated: "2009-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 CODIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y QUINTO TRANSITORIOS DEL CODIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO UNA VEZ QUE SE PUBLIQUE LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL CODIGO PROCESAL PENAL DEL ESTADO DE DURANGO, APROBADO MEDIANTE DECRETO No. 232, Y PUBLICADO EN EL PERIODICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE DURANGO, No. 11 DE FECHA 5 DE DICIEMBRE DE 2008.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO, NUMERO 1 DEL DECRETO No. 420, MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO HA ENTRADO EN VIGOR, POR TAL MOTIVO, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en el Extraordinario del Periódico Oficial del Estado de Durango, el lunes 11 de septiembre de 2006.
 
@@ -2233,42 +2233,122 @@ LIC. OLIVERIO REZA CUELLAR.
 
 P.O. 11 DE OCTUBRE DE 2009.
 
-###### ARTÍCULO PRIMERO.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El presente decreto entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-###### ARTÍCULO SEGUNDO.
+Artículo Primero. El presente decreto entrará en vigor en la fecha que determine la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
 
-Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-###### ARTÍCULO TERCERO.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-La modificación o reubicación de cualquier tipo penal a que se refiere el Código Penal, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
+Artículo Segundo. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
 
-###### ARTÍCULO CUARTO.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Las disposiciones de este código sólo se aplicarán a los hechos acaecidos con posterioridad a su entrada en vigor, por lo tanto, el Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha 11 de septiembre de 2006 y sus reformas, se aplicará para juzgar las conductas tipificadas como delitos cometidos durante la vigencia del mismo.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-###### ARTÍCULO QUINTO.
+Artículo Tercero. La modificación o reubicación de cualquier tipo penal a que se refiere el Código Penal aprobado mediante Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009, no implicará la libertad de los responsables por las conductas tipificadas como delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
 
-Se abroga el Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el lunes 11 de septiembre de 2006.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-###### ARTÍCULO SEXTO.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-Las conductas tipificadas como delitos permanentes y continuadas que inicien su comisión en la vigencia del Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha 11 de septiembre de 2006, se investigarán y juzgarán conforme a lo establecido en dicho ordenamiento, aún cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
+Artículo Cuarto. Las disposiciones de este Código, se aplicarán en la fecha que determine la declaratoria a que alude el artículo primero transitorio del presente decreto; las disposiciones del mismo, sólo se aplicarán a los procedimientos que se sigan por las conductas tipificadas como delitos a partir de las cero horas de la fecha que determine la referida declaratoria.
 
-###### ARTÍCULO SÉPTIMO.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los Magistrados del Tribunal para menores infractores, duraran en su encargo el tiempo por el cual fueron designados, en términos del Artículo Decimo Segundo, Transitorio del decreto 293, expedido por el H. Congreso del Estado de Durango que contiene el Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha, feneciendo dicho termino (sic) (14) catorce de septiembre de (2010) dos mil diez, pudiendo ser reelectos.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-A los jueces, Secretaria General de Acuerdos del Tribunal, los secretarios proyectistas, secretarios de acuerdos y demás personal de base y de confianza que labora en el Tribunal para Menores Infractores del Estado de Durango, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente el Estado de Durango, de fecha (11) once septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha.
+Artículo Quinto. El Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el lunes 11 de septiembre de 2006, seguirá rigiendo, en los procedimientos que se sigan por las conductas tipificadas como delitos con anterioridad a la aplicación del presente ordenamiento, y quedará abrogado cuando el último de los procedimientos tramitados conforme al primero, haya causado ejecutoria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Sexto. Las conductas tipificadas como delitos permanentes y continuadas que inicien su comisión en la vigencia del Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha 11 de septiembre de 2006, se investigarán y juzgarán conforme a lo establecido en dicho ordenamiento, aún cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Séptimo. Los Magistrados del Tribunal para Menores infractores, duraran en su encargo el tiempo por el cual fueron designados, en términos del Artículo Decimo Segundo, Transitorio del decreto 293, expedido por el H. Congreso del Estado de Durango que contiene el Código de Justicia para Menores Infractores vigente el (sic) Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha, feneciendo dicho termino (14) catorce de septiembre de (2010) dos mil diez, pudiendo ser reelectos.
+
+A los jueces, Secretaria General de Acuerdos del Tribunal, los secretarios proyectistas, secretarios de acuerdos y demás personal de base y de confianza que labora en el Tribunal para Menores Infractores del Estado de Durango, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente el (sic) Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha.
 
 Para los efectos del cumplimiento del presente, se entenderá que los Secretarios Proyectistas se denominaran en lo sucesivo, Secretarios Administrativos, conservando sus funciones y derechos.
 
-###### ARTÍCULO OCTAVO.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Para efectos de esta Ley (sic) se entenderá que el Centro Especializado de Readaptación y Tratamiento para Menores, será el Centro Especializado de Reintegración y Tratamiento para Menores Infractores en el Estado de Durango.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-###### ARTÍCULO NOVENO.
+Artículo Octavo. Para efectos de este ordenamiento se entenderá que el Centro Especializado de Readaptación y Tratamiento para Menores, será el Centro Especializado de Reintegración y Tratamiento para Menores Infractores en el Estado de Durango.
 
-La Sexagésima Cuarta Legislatura del Congreso del Estado de Durango, deberá adecuar el marco jurídico respectivo para readscribir el Tribunal para Menores Infractores del Estado de Durango al Poder Judicial del Estado a más tardar el treinta y uno de octubre de dos mil nueve.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Noveno. La Sexagésima Cuarta Legislatura del Congreso del Estado de Durango, deberá adecuar el marco jurídico respectivo para readscribir el Tribunal para Menores Infractores del Estado de Durango al Poder Judicial del Estado a más tardar el treinta y uno de octubre de dos mil nueve.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- El presente decreto, entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la declaratoria que emita el Congreso del Estado o la Comisión permanente a solicitud expresa del Tribunal Superior de Justicia del Estado.
+
+Artículo Tercero. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+Artículo Cuarto.- A efecto de dar cumplimiento al contenido del decreto No., 383, a 14 de octubre de 2009, mediante el cual se incorpora al Tribunal para Menores Infractores dentro del ámbito del Poder Judicial del Estado, se hace necesario reasignar el presupuesto establecido para el funcionamiento del Tribunal de referencia, dentro de la Ley de Egresos del Estado Libre y Soberano de Durango, para el ejercicio Fiscal de 2010.
+
+Artículo Quinto.- En tanto entre en vigor la presente Ley, el Magistrado, los Jueces de Menores y de Ejecución, tendrán la misma competencia prevista en el Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha 11 de septiembre de 2006 y sus reformas.
+
+A la entrada en vigor del presente decreto, la permanencia y atribuciones de los servidores públicos del Tribunal para Menores Infractores del Poder Judicial del Estado, se ajustarán a las siguientes prevenciones:
+
+I. Los Magistrados, duraran en su encargo el tiempo por el cual fueron designados, en términos del Artículo Decimo Segundo, Transitorio del decreto 293, expedido por el H. Congreso del Estado de Durango que contiene el Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha, feneciendo dicho termino (14) catorce de septiembre de (2010) dos mil diez, podrán ser reelectos, conforme el procedimiento
+
+II. A los jueces de Menores y de Ejecución, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha; lo anterior, sin perjuicio de que su ratificación, o nombramiento sea mediante examen por oposición, en los términos que dispone el Consejo de la Judicatura.
+
+III.- Al Secretario General de Acuerdos del Tribunal, los secretarios proyectistas, secretarios de acuerdos y demás personal de base y de confianza que labora en el Tribunal para Menores Infractores del Estado de Durango, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha;
+
+IV.- En la readscripción de los empleados y trabajadores del Tribunal para Menores Infractores, al Poder Judicial, se respetarán sus derechos adquiridos.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
+
+SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales y a la Asamblea Legislativa del Distrito Federal copia de la presente declaratoria.
+
+TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del articulo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
+
+Artículo Segundo.- El Sistema Procesal Penal Acusatorio se adoptará en el Primer Distrito Judicial o Región que tenga como cabecera la Ciudad de Victoria de Durango, Durango y con tal efecto entrarán en vigor en su jurisdicción territorial, a las cero horas del día 14 de Diciembre de 2009, los siguientes ordenamientos:
+
+I. Código Procesal Penal del Estado de Durango, aprobado mediante Decreto N° 232 del 4 de diciembre de 2008, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2008 y sus reformas posteriores;
+
+II. Código Penal para el Estado Libre y Soberano de Durango aprobado mediante Decreto Nº 284 del 11 de junio de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009;
+
+III. Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango aprobado mediante Decreto Nº 338 del 14 de Agosto de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 31 de fecha 15 de Octubre de 2009; y
+
+IV. Las reformas a la Ley de Seguridad Pública para el Estado de Durango relacionadas con el Sistema Procesal Penal Acusatorio, aprobadas mediante Decreto N° 259 del 18 de Febrero de 2009, promulgadas y publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 15 Bis de Fecha 19 de febrero de 2009 y las reformas posteriores a la citada Ley en la misma materia.
+
+Artículo Tercero.- La jurisdicción territorial correspondiente al Primer Distrito Judicial o Región, según sea el caso, será la que establece el Artículo Octavo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Durango aprobada por la LXIV Legislatura mediante Decreto Número 296 del 30 de Junio de 2009 y promulgada y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Número 1 de fecha 2 de Julio del año 2009 o la que determine en lo sucesivo el Pleno del Tribunal Superior de Justicia del Estado, en ejercicio de sus atribuciones mediante el Acuerdo General respectivo.
+
+Artículo Cuarto.- Entrarán en vigor en todo el territorio del Estado sin perjuicio de las prevenciones establecidas en sus decretos de creación y sus reformas posteriores:
+
+I.- La Ley del Instituto de Defensoría Pública del Estado de Durango aprobada mediante el Decreto 261 del 18 de Febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 20 de fecha 8 de marzo de 2009 y -sus reformas posteriores, y;
+
+II.- Ley de Justicia Penal Restaurativa del Estado de Durango aprobada mediante el Decreto Nº 257 del 18 de febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 17 bis, de fecha 26 de febrero de 2009 y sus reformas posteriores.
+
+Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Integral de Justicia para Menores Infractores y se incorporará a los ordenamientos enunciados a continuación, mismos que entrarán en vigor a las cero horas del día 14 de diciembre de 2009 en todo el territorio del Estado:
+
+1.- Código de Justicia para Menores Infractores del Estado de Durango aprobado mediante el Decreto 348 del 14 de Agosto de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango Nº 30 de fecha 11 de octubre de 2009;
+
+2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
+
+3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
