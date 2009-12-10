@@ -4,7 +4,7 @@ identifier: "DUR-codigo-procesal-penal-del-estado-de-durango-64852"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-05"
-last_updated: "2009-06-21"
+last_updated: "2009-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "DUR"
 
 CODIGO PROCESAL PENAL DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 283, PUBLICADO EN EL P.O. DE 21 DE JUNIO DE 2009, LA PRESENTE REFORMA ENTRARA EN VIGOR UNA VEZ QUE SE PUBLIQUE LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, SE ADOPTARA EN EL PRIMER DISTRITO JUDICIAL O REGION QUE TENGA COMO CABECERA LA CIUDAD DE VICTORIA DE DURANGO, DURANGO, Y CON TAL EFECTO ENTRARAN EN VIGOR EN SU JURISDICCION TERRITORIAL, A LAS CERO HORAS DEL DIA 14 DE DICIEMBRE DE 2009, EL DECRETO NUMERO 232, PUBLICADO EN EL P.O DEL 5 DE DICIEMBRE DE 2008 Y SUS REFORMAS POSTERIORES.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO QUINTO DE LA DECLARATORIA, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO SE ADOPTA EL SISTEMA INTEGRAL DE JUSTICIA PARA MENORES INFRACTORES Y SE INCORPORARA AL DECRETO NUMERO 232, PUBLICADO EN EL P.O. DEL 5 DE DICIEMBRE DE 2008 Y SUS REFORMAS POSTERIORES; MISMOS QUE ENTRARAN EN VIGOR A LAS CERO HORAS DEL DIA 14 DE DICIEMBRE DE 2009 EN TODO EL TERRITORIO DEL ESTADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2009.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Durango, el viernes 5 de diciembre de 2008.
 
@@ -49,7 +51,11 @@ CÓDIGO PROCESAL PENAL DEL ESTADO DE DURANGO
 
 Características y finalidad del proceso.
 
-El proceso penal será acusatorio y oral. Tiene por objeto el esclarecimiento de los hechos, garantizar la justicia en la aplicación del derecho y resolver el conflicto surgido como consecuencia del delito, para contribuir a restaurar la armonía social, en un marco de respeto irrestricto a los derechos fundamentales de las personas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El proceso penal será acusatorio y oral. Tiene por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen, para garantizar la justicia en la aplicación del derecho y contribuir a restaurar la armonía social, en un marco de respeto irrestricto a los derechos fundamentales de las personas.
 
 Se entenderá por derechos fundamentales de las personas a los reconocidos en las Constituciones Federal y Local, en los Tratados Internacionales ratificados por el Estado Mexicano y en las leyes que de aquellas emanen.
 
@@ -57,7 +63,11 @@ Se entenderá por derechos fundamentales de las personas a los reconocidos en la
 
 Derecho a un juicio previo y al debido proceso.
 
-Nadie podrá ser sentenciado a una pena ni sometido a una medida de seguridad, sino después de una sentencia firme obtenida luego de un proceso tramitado de manera pronta completa e imparcial con arreglo a este Código y con observancia estricta de las garantías y derechos fundamentales de las personas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Nadie podrá ser sentenciado a una pena ni sometido a una medida de seguridad, sino después de una sentencia firme obtenida luego de un proceso tramitado de manera pronta, completa e imparcial con arreglo a este Código y con observancia estricta de las garantías y derechos fundamentales de las personas.
 
 ###### Artículo 3.
 
@@ -105,7 +115,11 @@ Cuando el imputado esté privado de su libertad, el encargado de custodiarlo com
 
 Derecho a la defensa técnica.
 
-El imputado tendrá derecho a una defensa adecuada por abogado, el cual elegirá libremente incluso desde su detención. Desde el momento de su comparecencia ante el Ministerio Público deberá ser asistido y defendido por un Licenciado en Derecho o su equivalente autorizado en términos de la Ley. Si no quiere o no puede nombrar un abogado particular, después de haber sido requerido podrá hacerlo el agente del Ministerio Público o el juez según la etapa que corresponda le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El imputado tendrá derecho a una defensa adecuada por abogado, el cual elegirá libremente incluso desde su detención. Desde el momento de su comparecencia ante el Ministerio Público deberá ser asistido y defendido por un Licenciado en Derecho o su equivalente autorizado en términos de la Ley. Si no quiere o no puede nombrar un abogado particular, después de haber sido requerido para ello, se le designará un defensor público por el agente del ministerio público o el juez según la etapa de que se trate. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera.
 
 El derecho a la defensa técnica es irrenunciable. La violación a este derecho producirá la nulidad absoluta de las actuaciones que se realicen a partir de ese momento.
 
@@ -125,7 +139,11 @@ Las medidas cautelares restrictivas de la libertad personal o de otros derechos,
 
 Derecho a recurrir.
 
-El imputado o sentenciado tendrá derecho a impugnar ante un tribunal distinto al que emitió la decisión, en los supuestos previstos por este Código, cualquier resolución que le cause un agravio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El imputado o sentenciado tendrá derecho a impugnar cualquier resolución que le cause un agravio, tanto ante el juez que la dictó como ante un tribunal distinto, en los supuestos previstos por este Código.
 
 ###### Artículo 10.
 
@@ -133,7 +151,11 @@ Derecho a la protección de la intimidad y a la privacidad.
 
 Se respetará el derecho a la intimidad del imputado y de cualquier otra persona, especialmente la libertad de creencias, el domicilio, la correspondencia, los papeles y objetos, así como las comunicaciones privadas. El cateo, decomiso o intervención sobre cualquiera de ellos, sólo podrá realizarse con autorización del juez competente.
 
-Ninguno de los intervinientes en el proceso deberá divulgar datos o información personalísima de la víctima u ofendido, imputado o testigos y esta prohibición se mantendrá incluso después de terminado el proceso. Salvo lo dispuesto en las leyes respectivas o cuando el juzgador lo considere conveniente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Ninguno de los intervinientes en el proceso deberá divulgar datos o información personalísima de la víctima u ofendido, imputado o testigos y esta prohibición se mantendrá incluso después de terminado el proceso, salvo lo dispuesto en las leyes respectivas o cuando el juzgador lo considere conveniente.
 
 Cuando se trate de grabación de comunicación entre particulares, el juzgador podrá admitirla como dato o medio de prueba, únicamente cuando sea aportada de forma voluntaria por alguno de los que participen en ellas, debiendo valorar el alcance de éstas, siempre y cuando contengan información relacionada con la comisión de un delito. En ningún caso se admitirán comunicaciones que violen el deber de confidencialidad que establecen las Constituciones Federal y Local y demás leyes aplicables.
 
@@ -179,11 +201,19 @@ Corresponde a los jueces preservar el principio de igualdad procesal y resolver 
 
 Juzgamiento único.
 
-La persona sentenciada, absuelta o cuyo proceso haya sido sobreseído por sentencia ejecutoriada, no podrá ser sometida a otro proceso penal por los mismos hechos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La persona condenada, absuelta o cuyo proceso haya sido sobreseído por sentencia ejecutoriada, no podrá ser sometida a otro proceso penal por los mismos hechos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO EN SU RUBRO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 17.
 
-Juez competente.
+Juez natural.
 
 Nadie podrá ser juzgado por tribunales designados especialmente para el caso.
 
@@ -193,7 +223,11 @@ La potestad de aplicar la ley penal corresponderá sólo a tribunales constituid
 
 Independencia judicial.
 
-En su función de juzgar, los jueces son independientes de los demás integrantes del Poder Judicial y de los otros Poderes del Estado y de la sociedad en general.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+En su función de juzgar, los jueces son independientes de los demás integrantes del Poder Judicial, y de los otros Poderes del Estado y de la sociedad en general.
 
 Por ningún motivo y en ningún caso, los órganos del Estado podrán interferir en el desarrollo de las etapas del proceso.
 
@@ -225,7 +259,11 @@ Legalidad de la prueba.
 
 Los datos y medios de prueba sólo tendrán valor si han sido descubiertos, obtenidos, trasladados y manipulados conforme a las reglas de la cadena de custodia, producidos y reproducidos por medios lícitos e incorporados al proceso del modo que autoriza este Código.
 
-No tendrá valor la prueba obtenida mediante la violación de los derechos fundamentales de las personas, salvo lo dispuesto en el capítulo de nulidades.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+No tendrá valor la prueba obtenida mediante la violación de los derechos fundamentales de las personas, salvo lo dispuesto en el capítulo de nulidades de este Código.
 
 ###### Artículo 22.
 
@@ -245,9 +283,17 @@ Tampoco se podrá retrotraer el proceso a etapas anteriores, sobre la base de la
 
 Principio de justicia restaurativa.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 Para la solución de las controversias materia del presente Código se adopta el principio de justicia restaurativa, entendido como todo proceso en el que la víctima u ofendido y el imputado o sentenciado, participan conjuntamente, de forma activa, en la resolución de las cuestiones derivadas del delito, en busca de un resultado restaurativo.
 
-Se entiende por resultado restaurativo, el acuerdo encaminado a atender las necesidades y responsabilidades individuales y colectivas de las partes. Además, tiende a lograr la integración de la víctima u ofendido o infractor en la comunidad en busca de la reparación, la restitución y el servicio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Se entiende por resultado restaurativo, el acuerdo encaminado a atender las necesidades y responsabilidades individuales y colectivas de las partes. Además, tiende a lograr la integración de la víctima u ofendido e imputado en la comunidad en busca de la reparación, la restitución y el servicio.
 
 El Ministerio Público y los jueces promoverán o utilizarán como instrumentos para lograr la justicia restaurativa: la negociación, mediación y conciliación, entre otras.
 
@@ -323,7 +369,11 @@ Los archivos de documentos, mensajes, imágenes, bancos de datos y toda aplicaci
 
 Las alteraciones que afecten la autenticidad o integridad de dichos soportes los harán perder el valor jurídico otorgado.
 
-Cuando un órgano jurisdiccional utilice los medios señalados en el primer párrafo de este artículo, para hacer constar sus actos o resoluciones, los medios de protección del sistema resultarán suficientes para acreditar la autenticidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Cuando un órgano jurisdiccional utilice los medios señalados en el primer párrafo de este artículo para hacer constar sus actos o resoluciones, los medios de protección del sistema informático resultarán suficientes para acreditar la autenticidad.
 
 ###### Artículo 32.
 
@@ -359,11 +409,27 @@ Medios de apremio.
 
 La autoridad judicial, en el ámbito de su competencia para el cumplimiento de los actos que ordene, podrá disponer de cualquiera de los siguientes medios de apremio, de acuerdo a la naturaleza del caso:
 
-I. Apercibimiento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Intervención de la fuerza pública.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-III. Multa de uno hasta cien días de salario mínimo vigente en el Estado.
+I. Apercibimiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+II. Intervención de la fuerza pública;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+III. Multa de uno hasta cien días de salario mínimo vigente en el Estado; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 IV. Arresto hasta por treinta y seis horas.
 
@@ -403,7 +469,11 @@ Resoluciones.
 
 La autoridad judicial dictará sus resoluciones en forma de sentencias y autos, en forma de sentencia, para poner fin al proceso, y como autos, en todos los demás casos. Las resoluciones judiciales deberán señalar el lugar y la fecha en que se dictaron y en caso de que tengan que constar por escrito, deberán ser firmadas por el juzgador.
 
-En los órganos colegiados las resoluciones de trámite serán dictadas solo por el Presidente. Los autos y sentencias serán sustanciados y resueltos por los juzgadores integrantes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+En los órganos colegiados las resoluciones de trámite serán dictadas sólo por el Presidente. Los autos y sentencias serán sustanciados y resueltos por los juzgadores integrantes.
 
 No invalidará las resoluciones el hecho de que el juzgador las haya firmado extemporáneamente, siempre que no exista duda alguna sobre su participación en el acto que debió suscribir, sin perjuicio de la responsabilidad disciplinaria. En caso de que sea posible subsanar la omisión, así se hará, salvo que el juzgador no haya podido firmar por un impedimento invencible surgido luego del debate.
 
@@ -459,7 +529,11 @@ Cuando un acto procesal deba ejecutarse por medio de otra autoridad, el juez, el
 
 Dichas autoridades podrán utilizar los medios referidos en el artículo 31 de este Código, para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación.
 
-La autoridad requerida tramitará sin demora los requerimientos que reciban de ellos. La desobediencia a estas instrucciones será sancionada administrativamente, sin perjuicio de la responsabilidad penal que corresponda.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La autoridad requerida tramitará sin demora los pedimentos que reciban de ellos. La desobediencia a estas instrucciones será sancionada administrativamente, sin perjuicio de la responsabilidad penal que corresponda.
 
 ###### Artículo 47.
 
@@ -481,7 +555,11 @@ Cuando una autoridad expida un exhorto para la realización de un acto procesal 
 
 Retardo o rechazo.
 
-Cuando el trámite de un requerimiento de cualquier naturaleza sea demorado o rechazado injustificadamente, la autoridad requirente podrá dirigirse a quien ejerza el control disciplinario de quien deba cumplimentar dicho requerimiento a fin de que, si procede, ordene o gestione la tramitación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Cuando el trámite de un requerimiento de cualquier naturaleza sea demorado o rechazado injustificadamente, la autoridad requirente podrá dirigirse a quien ejerza el control disciplinario de quien deba cumplimentar dicho requerimiento a fin de que, si procede, ordene o gestione su tramitación.
 
 ### CAPÍTULO IV. NOTIFICACIONES, COMUNICACIONES Y CITACIONES
 
@@ -560,6 +638,10 @@ Notificación a persona ausente.
 Cuando la persona por notificar no sea encontrada en el domicilio señalado, la copia será entregada a cualquier persona con capacidad para comprender la diligencia de que se trate y que se encuentre en este lugar, debiendo asentarse esa circunstancia y el nombre de la persona que la recibió.
 
 No encontrándose a nadie en el domicilio señalado, se fijará una cita para el día siguiente en la puerta del lugar donde se practique el acto. Si en la fecha indicada no se encontrara a nadie, se fijará la copia de la resolución a notificar en el mismo sitio, asentando constancia de dicha actuación, sin perjuicio de la obligación de fijar otra copia en los estrados de las salas de audiencia o tribunal correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 58.
 
@@ -653,7 +735,11 @@ Quien no haya podido realizar una actuación en un determinado plazo, por causa 
 
 Duración del proceso.
 
-El proceso penal por delito cuya pena máxima de prisión no exceda de dos años, deberá tramitarse en el plazo de cuatro meses y antes de un año si la pena excede de este tiempo, tomando en cuenta el lapso que transcurre desde el momento en que se dicta el auto de vinculación a proceso, hasta que se pronuncie la sentencia, salvo que la defensa pida uno mayor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El proceso penal por delito cuya pena máxima de prisión no exceda de dos años, deberá tramitarse en el plazo de cuatro meses, y antes de un año si la pena excede de este tiempo, tomando en cuenta el lapso que transcurre desde el momento en que se dicta el auto de vinculación a proceso, hasta que se pronuncie la sentencia, salvo que la defensa pida uno mayor.
 
 ### CAPÍTULO VI. GASTOS DEL PROCESO
 
@@ -699,7 +785,11 @@ La determinación, liquidación y cobro de estos gastos será apelable.
 
 Acción civil.
 
-Si es admitida la pretensión civil en la sentencia, el imputado y el tercero civilmente demandado soportarán solidariamente los gastos; si se rechaza la pretensión, las soportará el actor civil.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si es admitida la pretensión civil en la sentencia, el imputado y el tercero civilmente demandado soportarán solidariamente los gastos; si se rechaza la pretensión, los soportará el actor civil.
 
 Si la acción no puede proseguir, cada uno de los intervinientes soportará sus propios gastos, salvo que las partes hayan convenido otra medida o el tribunal, por las circunstancias del caso, las distribuya de otra manera.
 
@@ -717,7 +807,11 @@ Deber de indemnizar.
 
 El imputado o acusado según la etapa del procedimiento, tiene derecho a ser indemnizado, cuando ilícitamente haya sido afectado en su derecho a la privacidad, integridad física, psicológica o moral, libertad personal o de trabajo.
 
-Se entenderá que se afecta la intimidad cuando, fuera de los casos previstos por la ley, se divulgue por medios masivos información contenida en la investigación seguida contra un imputado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Se entenderá que se afecta la intimidad cuando, fuera de los casos previstos por la ley, se divulgue por medios de comunicación masiva información contenida en la investigación seguida contra un imputado.
 
 Se entenderá que se afecta la libertad personal cuando se declare que el hecho no existió o que el imputado o acusado no ha tenido intervención en el mismo y éste haya sufrido prisión preventiva, internación en centro especializado para su tratamiento, arresto domiciliario, inhabilitación o suspensión en el ejercicio de una profesión u oficio durante el proceso; o bien, cuando con motivo del recurso de revisión, el sentenciado sea absuelto por haberse acreditado plenamente su inocencia o haya sufrido una pena o medida de seguridad mayores a la que, en su caso, se le debió imponer.
 
@@ -771,7 +865,11 @@ El Estado estará obligado a indemnizar a la víctima u ofendido por la reparaci
 
 Principio general sobre prueba ilícita.
 
-Cualquier dato o medio de prueba obtenido con violación de los derechos fundamentales será nulo. Salvo que se pueda demostrar la existencia de una fuente independiente, el descubrimiento inevitable o la convalidación mediante una consideración hipotética, o la atenuación del vínculo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Cualquier dato o medio de prueba obtenido con violación de los derechos fundamentales será nulo. Salvo que se pueda demostrar la existencia de una fuente independiente, el descubrimiento inevitable, la convalidación mediante una consideración hipotética, o la atenuación del vínculo.
 
 ###### Artículo 83.
 
@@ -779,11 +877,15 @@ Reglas para el saneamiento.
 
 No podrán ser valorados para fundar una decisión judicial ni utilizados como presupuesto de ella, los actos ejecutados con inobservancia de las formas que impliquen violación de derechos fundamentales y las garantías del debido proceso establecidas en este Código, salvo que el defecto haya sido saneado, de acuerdo con las normas que han sido previstas con ese objetivo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 84.
 
-Saneamiento de defectos formales.
+Imposibilidad de valorar actos por defectos formales.
 
-Tampoco podrán ser valorados, los actos ejecutados con inobservancia de las formas procesales que obstaculicen el ejercicio del derecho a la tutela judicial, de la víctima u ofendido; asimismo también quedarán comprendidos aquellos que impidan el ejercicio de los deberes del Ministerio Público, salvo lo dispuesto por este Código en materia de saneamiento.
+Tampoco podrán ser valorados los actos ejecutados con inobservancia de las formas procesales que obstaculicen el ejercicio del derecho a la tutela judicial, de la víctima u ofendido; asimismo también quedarán comprendidos aquellos que impidan el ejercicio de los deberes del Ministerio Público, salvo lo dispuesto por este Código en materia de saneamiento.
 
 ###### Artículo 85.
 
@@ -801,7 +903,11 @@ Se entenderá que el acto se ha saneado cuando, no obstante la irregularidad, ha
 
 Defectos absolutos.
 
-No será necesaria la protesta previa y podrán ser advertidos aun de oficio, bajo pena de nulidad:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+No será necesaria la protesta previa y podrán ser advertidos aún de oficio, bajo pena de nulidad:
 
 I. Los defectos por violación a garantías individuales; por falta de intervención, asistencia y representación del imputado en los casos y formas que la ley establece o por inobservancia de derechos fundamentales;
 
@@ -893,7 +999,11 @@ IV. La aplicación de un criterio de oportunidad, en los casos y las formas prev
 
 V. El cumplimiento del plazo de suspensión del proceso a prueba, sin que ésta sea revocada;
 
-VI. El cumplimiento de los acuerdos llevados a cabo conforme a los mecanismos previstos en el capítulo de justicia restaurativa;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+VI. El cumplimiento de los acuerdos llevados a cabo conforme a los medios alternativos de solución de controversias previstos en este Código;
 
 VII. La prescripción; y
 
@@ -927,7 +1037,11 @@ Los criterios de oportunidad podrán ejercerse hasta antes de dictado el auto de
 
 Impugnación.
 
-La decisión del Ministerio Público que aplique o niegue un criterio de oportunidad que no se ajuste a los requisitos formales o constituya una discriminación, será impugnable por la víctima u ofendido. También podrá ser impugnada por el imputado solo en el caso de que constituya una discriminación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La decisión del Ministerio Público que aplique o niegue un criterio de oportunidad que no se ajuste a los requisitos formales o constituya una discriminación, será impugnable por la víctima u ofendido, así como por el imputado.
 
 La impugnación deberá ser presentada ante el Juez de Control dentro de los tres días posteriores a la notificación. Presentada la impugnación, el juez convocará a las partes a una audiencia para resolver.
 
@@ -937,7 +1051,11 @@ Efectos del criterio de oportunidad.
 
 Si se aplica un criterio de oportunidad, se extinguirá la acción penal con respecto al autor o partícipe en cuyo beneficio se dispuso. Si la decisión se funda en la insignificancia del hecho, sus efectos se extenderán a todos los que reúnan las mismas condiciones.
 
-No obstante, en el caso de la fracción III del artículo 94, sus efectos se suspenderán hasta quince días naturales después de que quede firme la sentencia respectiva.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+No obstante, en el caso de la fracción III del artículo 94 de este Código, sus efectos se suspenderán hasta quince días naturales después de que quede firme la sentencia respectiva.
 
 ### CAPÍTULO II. ACCIÓN PARA OBTENER LA REPARACIÓN DEL DAÑO
 
@@ -1021,7 +1139,11 @@ III. En el caso que el delito se haya cometido en el límite de dos distritos ju
 
 IV. Cuando se trate de delitos cometidos fuera del Estado que se sigan cometiendo en éste o surtan sus efectos en el mismo, será competente la autoridad judicial en cuya jurisdicción se continúa cometiendo el delito o surtió sus efectos; y
 
-V. Para conocer de los delitos permanentes, continuos o continuados, será competente cualquier autoridad judicial en cuya jurisdicción se hayan ejecutado actos que por sí solos constituyan el o los delitos imputados.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+V. Para conocer de los delitos permanentes o continuos y continuados, será competente cualquier autoridad judicial en cuya jurisdicción se hayan ejecutado actos que por sí solos constituyan el o los delitos imputados.
 
 ###### Artículo 105.
 
@@ -1073,7 +1195,11 @@ III. Haya prevenido, si los delitos se cometieron en forma simultánea o no cons
 
 Acumulación de juicios.
 
-Si en relación con el mismo hecho que motivó la acusación a varios imputados se han formulado varias acusaciones, la autoridad judicial podrá ordenar, aun de oficio, la realización de un único juicio, siempre que ello no ocasione retardos procesales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si en relación con el mismo hecho que motivó la acusación a varios imputados se han formulado varias acusaciones, la autoridad judicial podrá ordenar, aún de oficio, la realización de un único juicio, siempre que ello no ocasione retardos procesales.
 
 La misma regla procederá cuando se trate de varios hechos delictivos imputados a una misma persona, en cuyo caso el tribunal podrá disponer que el debate se celebre en audiencias públicas, continuas y sucesivas, para cada uno de los hechos, siempre que ello no afecte el derecho de defensa. En este caso, el tribunal podrá resolver sobre la culpabilidad al finalizar cada audiencia y fijará la pena correspondiente a todos los casos después de celebrar la audiencia final.
 
@@ -1089,13 +1215,21 @@ Los magistrados y jueces deberán excusarse de conocer en la causa, cuando:
 
 I. En el mismo proceso haya pronunciado o concurrido a pronunciar el auto de apertura a juicio oral o la sentencia;
 
-II. Haya intervenido como Ministerio Público, defensor, mandatario o haya litigado en su contra, denunciante o querellante; actuado como perito, consultor técnico o conociera del hecho investigado como testigo, o tuviera interés directo en el proceso;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+II. Haya intervenido como Ministerio Público, defensor, mandatario o haya litigado en su contra; actuado como perito, consultor técnico o conociera del hecho investigado como testigo, o tuviera interés directo en el proceso;
 
 III. Si es cónyuge, concubina o concubinario, pariente dentro del cuarto grado de consanguinidad, afinidad o el que surge entre adoptante y adoptado de algún interesado, o éste viva o haya vivido a cargo de alguno de ellos;
 
 IV. Si es o ha sido tutor o curador, o ha estado bajo tutela o curatela de alguna de las partes;
 
-V. Cuando él, su cónyuge, concubina o concubinario padres o hijos, tengan un juicio pendiente iniciado con anterioridad, sociedad o comunidad con alguna de las partes salvo que se trate de la sociedad anónima;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+V. Cuando él, su cónyuge, concubina o concubinario padres o hijos, tengan un juicio pendiente iniciado con anterioridad, o tengan sociedad o comunidad con alguna de las partes salvo que se trate de sociedad anónima;
 
 VI. Si él, su cónyuge, concubina o concubinario, padres, hijos u otras personas que vivan a su cargo, son acreedores, deudores o fiadores de alguna de las partes;
 
@@ -1103,9 +1237,17 @@ VII. Cuando antes de comenzar el proceso haya sido denunciante o querellante de 
 
 VIII. Si ha dado consejos o manifestado extrajudicialmente su opinión sobre el proceso;
 
-IX. Cuando tenga amistad íntima o enemistad manifiesta con alguno de las partes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-X. Si él, su cónyuge, concubina o concubinario, padres, hijos u otras personas que vivan a su cargo, hayan recibido beneficios de importancia de alguna de las partes o si, después de iniciado el proceso, reciba de aquéllas presentes o dádivas; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+IX. Cuando tenga amistad íntima o enemistad manifiesta con alguna de las partes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+X. Si él, su cónyuge, concubina o concubinario, padres, hijos u otras personas que vivan a su cargo, recibieron beneficios de importancia de alguna de las partes o si, después de iniciado el proceso, reciben de aquéllas, presentes o dádivas; y
 
 XI. Por cualquier otra causa, fundada en motivos graves, que afecte su imparcialidad.
 
@@ -1117,7 +1259,11 @@ El juzgador que se excuse remitirá las actuaciones, por resolución fundada y m
 
 Cuando el juzgador forme parte de un tribunal colegiado y reconozca un motivo de excusa, pedirá a los restantes miembros que dispongan su separación.
 
-En caso de proceder la excusa, el juzgador será sustituido en la forma que disponga la ley antes referida y los acuerdos que al efecto dicten el Tribunal Superior de Justicia y el Consejo de la Judicatura del Poder Judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+En caso de proceder la excusa, el juzgador será sustituido en la forma que disponga la ley antes referida y los acuerdos que al efecto dicten el Tribunal Superior de Justicia o el Consejo de la Judicatura del Poder Judicial.
 
 ###### Artículo 113.
 
@@ -1193,7 +1339,11 @@ La carga de la prueba corresponderá al Ministerio Público o al acusador privad
 
 Objetividad y deber de lealtad.
 
-El Ministerio Público tiene el deber de actuar durante todo el proceso con absoluta objetividad y lealtad para el imputado o acusado, el defensor, la víctima u ofendido y los demás intervinientes en el proceso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El Ministerio Público tiene el deber de actuar durante todo el proceso con absoluta objetividad y lealtad para con el imputado o acusado, el defensor, la víctima u ofendido y los demás intervinientes en el proceso.
 
 La objetividad del Ministerio Público comprende el deber de suministrar a los intervinientes información veraz sobre la investigación realizada y sus resultados; asimismo, develar en el momento procesal oportuno, aquellos elementos que pudieran resultar favorables para la posición que ellos asumen, sobre todo cuando ha resuelto no incorporar alguno de esos elementos al proceso, dejando a salvo la reserva que debe existir para el éxito de la investigación.
 
@@ -1211,7 +1361,11 @@ El Ministerio Público deberá fundar y motivar sus determinaciones, requerimien
 
 Cooperación interestatal.
 
-Cuando las actividades delictivas se realicen, en todo o en parte, fuera del territorio estatal, o se les atribuyan a personas ligadas a una organización de carácter nacional, regional o internacional, el Ministerio Público se coordinará en el marco de los sistemas nacional y estatal de seguridad pública, para formar equipos conjuntos de recopilación, de información y, en su caso, de investigación con las autoridades competentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Cuando las actividades delictivas se realicen, en todo o en parte, fuera del territorio estatal, o se les atribuyan a personas ligadas a una organización de carácter nacional, regional o internacional, el Ministerio Público se coordinará en el marco de los sistemas nacional y estatal de seguridad pública, para formar equipos conjuntos de recopilación de información y, en su caso, de investigación con las autoridades competentes.
 
 ###### Artículo 125.
 
@@ -1305,9 +1459,17 @@ Víctima u ofendido.
 
 Se considerará víctima u ofendido:
 
-I. Al directamente afectado por el delito, ya sea que resienta el daño o perjuicio en su persona o en alguno de los bienes jurídicamente tutelados. La persona legitimada para querellarse, será la propietaria del bien jurídico, o en su caso, el poseedor o quien deba responder por cualquier causa, de hecho o de derecho, de dicho bien;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Al cónyuge, o la persona que haya vivido de forma permanente con la víctima u ofendido durante, por lo menos de dos años anteriores al hecho, los dependientes económicos, los descendientes económicos o ascendientes consanguíneos o civiles, los parientes colaterales, consanguíneos o civiles, hasta el segundo grado y al probable heredero, aunque no haya sido declarado como tal en la jurisdicción civil;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+I. Al directamente afectado por el delito, ya sea que resienta el daño o perjuicio en su persona o en alguno de los bienes jurídicamente tutelados;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+II. Al cónyuge, o la persona que haya vivido de forma permanente con la víctima u ofendido durante, por lo menos dos años anteriores al hecho, los dependientes económicos, los descendientes o ascendientes consanguíneos o civiles, los parientes colaterales, consanguíneos o civiles, hasta el segundo grado y al probable heredero, aunque no haya sido declarado como tal en la jurisdicción civil;
 
 III. A las comunidades indígenas, en los hechos punibles que impliquen discriminación o genocidio respecto de sus miembros o generen regresión demográfica, depredación de su hábitat, contaminación ambiental, explotación económica o alienación cultural; y
 
@@ -1317,41 +1479,81 @@ IV. A los socios, asociados o miembros, respecto de los delitos que afecten una 
 
 Derechos de la víctima u ofendido.
 
-Además de los previstos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano y la Ley respectiva y demás leyes secundarias, la víctima u ofendido tendrán los siguientes derechos:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I. Intervenir en el proceso, conforme se establece en este Código; y en la etapa de ejecución de sentencia, conforme a las reglas que se establecen en el Código Procesal Penal y en la Ley de Ejecución de Penas y Medidas de Seguridad;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-II. A tener acceso a los registros y a obtener copia de los mismos, salvo las excepciones previstas por la ley;
+Además de los previstos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano y demás leyes secundarias, la víctima u ofendido tendrá los siguientes derechos:
 
-III. A constituirse en acusador coadyuvante o privado, para lo cual deberá nombrar a un licenciado en derecho, autorizado por la ley respectiva para que lo represente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+I. Intervenir en el proceso, conforme se establece en este Código, y en la etapa de ejecución de sentencia, conforme a las reglas que se establecen en el citado ordenamiento y en la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+II. Acceder a los registros y a obtener copia de los mismos, salvo las excepciones previstas por la ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+III. Constituirse en acusador coadyuvante o privado, para lo cual deberá nombrar a un licenciado en derecho, autorizado por la ley respectiva para que lo represente;
 
 IV. Ser informado de las resoluciones que finalicen o suspendan el procedimiento, siempre que lo haya solicitado y tenga señalado domicilio conocido;
 
 V. Ser escuchados antes de cada decisión que decrete la extinción o suspensión de la acción penal y el sobreseimiento del proceso, siempre que lo solicite; salvo que la extinción de la acción penal se decrete en el auto de no vinculación del imputado a proceso;
 
-VI. Si está presente en el debate de juicio oral, a tomar la palabra después de los alegatos de clausura y antes de concederle la palabra final al imputado. Lo mismo ocurrirá si está presente en cualquiera de las audiencias de ejecución de sentencia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VII. Si por su edad, condición física o psicológica, se le dificulta su comparecencia ante cualquier autoridad del proceso penal, a ser interrogada o a participar en el acto para el cual fue citado en el lugar en donde se encuentre;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-VIII. A recibir asesoría jurídica, protección especial de su integridad física o psicológica, con inclusión de su familia inmediata, cuando reciba amenazas o corra peligro en razón del papel que cumple en el proceso penal;
+VI. Tomar la palabra después de los alegatos de clausura y antes de concederle la palabra final al imputado, si está presente en el debate de juicio oral. Lo mismo ocurrirá si está presente en cualquiera de las audiencias de ejecución de sentencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+VII. Ser interrogado o a participar en el acto para el cual fue citado en el lugar en donde se encuentre, si por su edad, condición física o psicológica, se le dificulta su comparecencia ante cualquier autoridad del proceso penal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+VIII. Recibir asesoría jurídica, protección especial de su integridad física o psicológica, con inclusión de su familia inmediata, cuando reciba amenazas o corra peligro en razón del papel que cumple en el proceso penal;
 
 IX. Solicitar la reapertura de la investigación cuando se haya decretado el archivo temporal;
 
 X. Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos;
 
-XI. Apelar las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+XI. Impugnar las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de archivo temporal o definitivo, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño; y
 
 XII. No ser objeto de información por los medios de comunicación o presentado ante la comunidad sin su consentimiento.
 
 La víctima u ofendido será informado sobre sus derechos, en su primera intervención en el procedimiento.
 
-En el caso del delito de violencia familiar, corrupción de menores e incapaces, pornografía infantil, lenocinio y otras víctimas particularmente vulnerables, éstas contarán con asistencia integral por parte de las Unidades Especializadas de la Procuraduría General de Justicia del Estado, quienes intervendrán con la debida diligencia, aplicando los protocolos emitidos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+En el caso de los delitos de violencia familiar, corrupción de menores e incapaces, pornografía infantil, lenocinio y otros en donde existan víctimas particularmente vulnerables, éstas contarán con asistencia integral por parte de las Unidades Especializadas de la Procuraduría General de Justicia del Estado, quienes intervendrán con la debida diligencia, aplicando los protocolos emitidos.
 
 ###### Artículo 134.
 
 Acusador coadyuvante.
 
-En el plazo señalado en el artículo 323 la víctima u ofendido podrá constituirse como acusador coadyuvante y en tal caso se le tendrá como parte para todos los efectos legales. Si se trata de varias víctimas u ofendidos, deberán nombrar un representante común y, si no alcanzan un acuerdo, el juzgador nombrará a uno de ellos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+En el plazo señalado en el artículo 323 de este Código la víctima u ofendido o su representante legal podrá constituirse como acusador coadyuvante y en tal caso se le tendrá como parte para todos los efectos legales. Si se trata de varias víctimas u ofendidos, deberán nombrar un representante común y, si no alcanzan un acuerdo, el juzgador nombrará a uno de ellos.
 
 ### CAPÍTULO III. EL IMPUTADO
 
@@ -1375,11 +1577,19 @@ II. Conocer su derecho a no declarar y a ser advertido de que todo lo que en su 
 
 III. Tener una comunicación inmediata y efectiva con la persona, asociación, agrupación o entidad a la que desee comunicar su detención;
 
-IV. Ser asistido, desde el primer acto del procedimiento, por el defensor que designe él, sus parientes o la agrupación a la que comunicó su detención y, a falta del (sic) aquél se le designará un defensor público;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+IV. Ser asistido, desde el primer acto del procedimiento, por el defensor que designe él, sus parientes o la agrupación a la que comunicó su detención y, a falta de aquél se le designará un defensor público;
 
 V. Reunirse con su defensor oportunamente y en estricta confidencialidad;
 
-VI. Ser asistido gratuitamente por un traductor o intérprete, si no comprende o no habla el idioma español o cuando por cualquier motivo esté imposibilitado para comunicarse verbalmente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+VI. Ser asistido gratuitamente por un traductor o intérprete si no comprende o no habla el idioma español o cuando por cualquier motivo esté imposibilitado para comunicarse verbalmente;
 
 VII. Ser presentado ante el Ministerio Público o Juez de Control, inmediatamente después de ser detenido o aprehendido, para ser informado y enterarse de los hechos que se le imputan;
 
@@ -1403,9 +1613,17 @@ Si no los suministra o se estima necesario, se solicitará constancia a las inst
 
 También podrá recurrirse a la identificación por testigos o a otros medios que se consideren útiles.
 
-La duda sobre los datos obtenidos no alterará el curso del proceso y los errores referentes a ellos podrán corregirse en cualquier oportunidad, aun durante la ejecución penal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Estas medidas podrán aplicarse aun en contra de la voluntad del imputado.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La duda sobre los datos obtenidos no alterará el curso del proceso y los errores referentes a ellos podrán corregirse en cualquier oportunidad, aún durante la ejecución penal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Estas medidas podrán aplicarse aún en contra de la voluntad del imputado.
 
 ###### Artículo 138.
 
@@ -1413,7 +1631,11 @@ Domicilio.
 
 En su primera intervención en el procedimiento, el imputado deberá indicar el lugar donde tiene su domicilio, su lugar de trabajo, el principal asiento de sus negocios o el sitio donde se le puede localizar, así como señalar el lugar y la forma para recibir notificaciones. Deberá notificar al Ministerio Público o juzgador cualquier modificación.
 
-La información falsa o la omisión deliberada sobre sus datos generales, será considerada como indicio de sustracción a la acción de la justicia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La información falsa o la omisión deliberada sobre sus datos generales, será considerada como presunción de sustracción a la acción de la justicia.
 
 ###### Artículo 139.
 
@@ -1555,17 +1777,23 @@ Si el defensor, sin causa justificada, abandona la defensa o deja al imputado si
 
 Cuando el abandono ocurra antes de iniciarse el juicio, podrá aplazarse razonablemente su comienzo para la adecuada preparación de la defensa, considerando la complejidad del caso, las circunstancias del abandono, las posibilidades de aplazamiento y la solicitud fundada del nuevo defensor.
 
-El defensor no podrá abandonar la sala de audiencia sin autorización del tribunal, so pena de imponerle las correcciones disciplinarias conducentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El defensor no podrá abandonar la sala de audiencia sin autorización del tribunal, bajo pena de imponerle las correcciones disciplinarias conducentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 154.
 
 Sanciones.
 
-Al defensor que abandone la defensa sin causa justificada se le impondrá la multa por días de salario que considere el juez o tribunal de juicio oral a que se refiere el artículo 165 de este Código:
+Al defensor que abandone la defensa sin causa justificada se le impondrá multa por los días de salario mínimo que considere el juez o tribunal de juicio oral a que se refiere el artículo 165 de este Código.
 
-I. El abandono de la defensa constituirá una falta grave; y
-
-II. Además de las sanciones establecidas en el Código Penal, el juzgador del proceso abandonado por la defensa sin causa justificada, determinará que el responsable pague una suma de dinero equivalente al costo de las audiencias que debieron repetirse o diferirse a causa del abandono. Para esto, se tomarán en cuenta los salarios de los servidores públicos intervinientes y los de los particulares.
+El abandono de la defensa constituirá una falta grave. Además de las sanciones establecidas en el Código Penal, el juzgador del proceso abandonado por la defensa sin causa justificada, determinará que el responsable pague una suma de dinero equivalente al costo de las audiencias que debieron repetirse o diferirse a causa del abandono. Para esto, se tomarán en cuenta los salarios de los servidores públicos intervinientes y los de los particulares.
 
 ###### Artículo 155.
 
@@ -1579,7 +1807,11 @@ Cuando intervengan en el procedimiento dos o más defensores, la notificación p
 
 Defensor común.
 
-La defensa de varios imputados en un mismo procedimiento por un defensor común será admisible, siempre que no exista incompatibilidad. No obstante, si ésta se advierte, será corregida de oficio y se proveerá lo necesario para reemplazar al defensor y si corresponde procederá en la forma dispuesta en este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La defensa de varios imputados en un mismo procedimiento por un defensor común será admisible, siempre que no exista incompatibilidad. No obstante, si ésta se advierte, será corregida de oficio y se proveerá lo necesario para reemplazar al defensor.
 
 ###### Artículo 157.
 
@@ -1621,7 +1853,11 @@ Las partes podrán designar asistentes para que colaboren en sus tareas y podrá
 
 Consultores técnicos.
 
-Si por las particularidades del caso, alguna de las partes considera necesaria la asistencia de un especialista en una ciencia, arte o técnica, así lo planteará a la autoridad judicial. El consultor técnico podrá acompañar en las audiencias a la parte con quien colabora, para apoyarla técnicamente en el interrogatorio o en el contra examen, según sea el caso, que se practiquen a los expertos que presenten las otras partes en el proceso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si por las particularidades del caso, alguna de las partes considera necesaria la asistencia de un especialista en una ciencia, arte o técnica, así lo planteará a la autoridad judicial. El consultor técnico podrá acompañar en las audiencias a la parte con quien colabora, para apoyarla técnicamente en el interrogatorio o en el contraexamen, según sea el caso, que se practique a los expertos que presenten las otras partes en el proceso.
 
 #### SECCIÓN 2. DEBERES DE LOS SUJETOS PROCESALES
 
@@ -1637,7 +1873,11 @@ Los jueces y tribunales velarán por la regularidad del proceso, el ejercicio co
 
 Reglas especiales de actuación.
 
-Cuando las características del caso ameriten adoptar medidas especiales para asegurar la regularidad y buena fe en el proceso, el juez o el Presidente del tribunal convocarán de inmediato a las partes, a fin de acordar reglas particulares de actuación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Cuando las características del caso ameriten adoptar medidas especiales para asegurar la regularidad y buena fe en el proceso, el juez de control o el presidente del tribunal oral convocarán de inmediato a las partes, a fin de acordar reglas particulares de actuación.
 
 ###### Artículo 165.
 
@@ -1651,7 +1891,11 @@ Quien resulte sancionado será requerido para que realice el pago de la multa en
 
 En caso de incumplimiento de pago, la autoridad judicial solicitará a la autoridad fiscal estatal para que haga efectivo el cobro. En el caso de defensores públicos y representantes del Ministerio Público, se comunicará la falta a su superior jerárquico.
 
-## TÍTULO SEXTO. MEDIDAS CAUTELARES
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+## TÍTULO SEXTO. PROVIDENCIAS PRECAUTORIAS Y MEDIDAS CAUTELARES
 
 ### CAPÍTULO I. NORMAS GENERALES
 
@@ -1659,23 +1903,39 @@ En caso de incumplimiento de pago, la autoridad judicial solicitará a la autori
 
 Principio general.
 
-Las medidas cautelares en contra del imputado son exclusivamente las autorizadas por este Código, tienen carácter excepcional y sólo pueden ser impuestas mediante resolución judicial fundada, motivada y debidamente documentada, por el tiempo absolutamente indispensable y para garantizar la comparecencia del imputado en el juicio, y demás actos que requieran su presencia, el desarrollo de la investigación, la protección de la víctima u ofendido, de los testigos o de la comunidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Las medidas cautelares en contra del imputado son exclusivamente las autorizadas por este Código, tienen carácter excepcional y sólo pueden ser impuestas mediante resolución judicial fundada, motivada por el tiempo absolutamente indispensable y para garantizar la comparecencia del imputado en el juicio, y demás actos que requieran su presencia, el desarrollo de la investigación y la protección de la víctima u ofendido, de los testigos o de la comunidad.
 
 La resolución judicial que imponga una medida cautelar o la rechace es modificable en cualquier estado del proceso.
 
 En todo caso, el juzgador puede proceder de oficio cuando favorezca la libertad del imputado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO EN SU RUBRO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 167.
 
-Delitos graves y principio de proporcionalidad.
+Delitos de prisión preventiva oficiosa y principio de proporcionalidad.
 
 No se podrá decretar una medida cautelar cuando ésta resulte desproporcionada en relación con las circunstancias de comisión del hecho atribuido y la sanción probable.
 
 Tratándose de medidas cautelares que impliquen privación de la libertad, en ningún caso podrán sobrepasar la pena mínima prevista para el delito de que se trate, ni exceder el plazo fijado en los artículos 196, fracción II y 197 de este Código, sin perjuicio de que vencido el plazo se aplique una medida cautelar distinta a la privación de libertad, conforme a las reglas previstas en este ordenamiento.
 
-De conformidad con lo previsto en el segundo párrafo del artículo 19 de la Constitución General de la República, se consideran delitos graves y en consecuencia deberá imponerse la medida cautelar de prisión preventiva, cuando la imputación se haga respecto de los siguientes delitos:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I. Homicidio doloso;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+De conformidad con lo previsto en el segundo párrafo del artículo 19 de la Constitución General de la República, se impondrá oficiosamente la medida cautelar de prisión preventiva, cuando la imputación se haga respecto de los siguientes delitos:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+I. Homicidio doloso simple o calificado;
 
 II. Violación;
 
@@ -1685,19 +1945,19 @@ IV. Cometidos con medios violentos como armas y explosivos; y
 
 V. Contra el libre desarrollo de la personalidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-Para los efectos de este artículo sólo podrán considerarse delitos cometidos por medios violentos los siguientes: homicidio doloso, secuestro, desaparición forzada de personas, tortura, robo cometido con armas. Se consideran delitos contra el libre desarrollo de la personalidad: Pornografía con personas menores de edad o que no tienen la capacidad para comprender el significado del hecho; Delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho; Lenocinio en menores de edad la persona que no tenga capacidad de comprender el significado del hecho o de resistirlo; Trata de Personas en los términos del artículo 305, fracción III incisos a) y c).
+Para los efectos de este artículo, sólo podrán considerarse delitos cometidos por medios violentos los siguientes: desaparición forzada de personas, tortura, robo cometido con armas. Se consideran delitos contra el libre desarrollo de la personalidad: Pornografía con personas menores de edad o que no tienen la capacidad para comprender el significado del hecho; Delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho; Lenocinio en menores de edad la persona que no tenga capacidad de comprender el significado del hecho o de resistirlo; Trata de Personas en los términos del artículo 305, fracción III incisos a) y c).
 
-La tentativa punible de los ilícitos penales mencionados en las fracciones anteriores, también se califica como delito grave.
+La tentativa punible de los ilícitos penales mencionados en las fracciones anteriores, también se califica como de prisión preventiva oficiosa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-Con excepción de los delitos de homicidio calificado, secuestro, violación, pornografía con personas menores de edad o que no tienen la capacidad para comprender el significado del hecho, delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho, lenocinio en menores de edad personas que no tenga capacidad de comprender el significado del hecho o de resistirlo, trata de Personas en los términos del artículo 305, fracción III, incisos a) y e), las partes podrán solicitar al juzgador, respecto de los delitos anteriores, que no aplique oficiosamente la prisión preventiva y el juez lo acordará en consecuencia, si estima que el imputado cumplirá con sus obligaciones procesales, no constituye un riesgo para el desarrollo de la investigación, para la víctima u ofendido o para terceros. El juez, en estos casos, podrá no aplicar la prisión preventiva y sustituirla por otra medida cautelar, siempre que el Ministerio Público no se oponga.
+Con excepción de los delitos de homicidio calificado, secuestro, violación, pornografía con personas menores de edad o que no tienen la capacidad para comprender el significado del hecho, delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho, lenocinio en menores de edad personas que no tenga (sic) capacidad de comprender el significado del hecho o de resistirlo, trata de Personas en los términos del artículo 305, fracción III, incisos a) y c), las partes podrán solicitar al juzgador, respecto de los delitos anteriores, que no aplique oficiosamente la prisión preventiva y el juez lo acordará en consecuencia, si estima que el imputado cumplirá con sus obligaciones procesales, no constituye un riesgo para el desarrollo de la investigación, para la víctima u ofendido o para terceros. El juez, en estos casos, podrá no aplicar la prisión preventiva y sustituirla por otra medida cautelar, siempre que el Ministerio Público no se oponga fundadamente.
 
 Tratándose de otros delitos, podrá aplicarse la prisión preventiva u otras medidas cautelares, siempre que resulten procedentes de conformidad con las disposiciones de este título.
 
@@ -1719,17 +1979,39 @@ Impugnación.
 
 Todas las decisiones judiciales relativas a las medidas cautelares reguladas por este Código son apelables. La presentación del recurso no suspende la ejecución de la resolución.
 
-### CAPÍTULO II. MEDIDAS CAUTELARES PERSONALES
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO II. PROVIDENCIA PRECAUTORIAS Y MEDIDAS CAUTELARES PERSONALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 170.
 
-Procedencia de la detención.
+Providencias Precautorias Personales.
 
-Ninguna persona podrá ser detenida sino por orden de juez competente, a menos que sea sorprendida en delito flagrante o se trate de caso urgente.
+Son providencias precautorias personales:
+
+I. Detención;
+
+II. Orden de aprehensión;
+
+III. Orden de presentación; y
+
+IV. Citación para la formulación de la imputación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 171.
 
-Presentación espontánea.
+Procedencia de la detención y presentación espontánea.
+
+Ninguna persona podrá ser detenida sino por orden de juez competente, a menos que sea sorprendida en delito flagrante o se trate de caso urgente.
 
 El imputado contra quien se haya librado la orden de aprehensión, podrá ocurrir ante el juez que corresponda para que se le formule la imputación. El juez podrá ordenar, según el caso, que se mantenga en libertad al imputado e, incluso, eximirlo de la aplicación de medidas cautelares personales.
 
@@ -1765,11 +2047,39 @@ Cualquier persona podrá detener a quien sorprenda en delito flagrante y deberá
 
 Las autoridades que intervengan en la detención deberán informar al imputado sobre su derecho a permanecer en silencio, la posibilidad de consultar a un abogado de su confianza y le darán a conocer el motivo de la detención. La policía elaborará un registro pormenorizado de las circunstancias de ésta y dará aviso inmediato al Ministerio Público para proceder a la puesta a disposición, la cual se realizará de inmediato.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El registro de detención deberá contener los siguientes requisitos:
+
+I. Nombre, apodo y media filiación del detenido;
+
+II. Formas de localización del detenido;
+
+III. Fecha, lugar y hora en que se realiza la detención;
+
+IV. Circunstancias que motivaron la detención;
+
+V. Nombre de los agentes que realizaron la detención, así como cargo y adscripción; y
+
+VI. Nombre de la autoridad ante quien se pondrá a disposición al detenido, así como el tiempo aproximado de traslado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Una vez que se realice la detención, el agente policial deberá informar inmediatamente al Ministerio Público para que tenga conocimiento de dicha detención.
+
 Los agentes policiales estarán obligados a detener a quienes sorprendan en la comisión de un delito. En este caso o cuando reciban de cualquier persona o autoridad a un detenido, deberán ponerla de inmediato a disposición del Ministerio Público.
 
 Cuando se detenga a una persona por un hecho que pudiera constituir un delito que requiera querella de parte ofendida, será informado inmediatamente quien pueda presentarla y si éste no se presenta en un plazo razonable que no podrá ser superior a veinticuatro horas, el detenido será puesto en libertad de inmediato.
 
-El Ministerio Público podrá dejar sin efecto la detención u ordenar que el detenido sea conducido ante el juez, dentro del plazo de cuarenta y ocho horas a que se refiere el artículo 16, párrafo noveno, de la Constitución Política de los Estados Unidos Mexicanos. Cuando no pretenda solicitar prisión preventiva en contra del imputado, deberá dejar sin efecto la detención; sin perjuicio de que pueda fijarle una caución a fin de garantizar su comparecencia ante el juez.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El Ministerio Público podrá dejar sin efecto la detención u ordenar que el detenido sea conducido ante el juez, dentro del plazo de cuarenta y ocho horas a que se refiere el artículo 16, párrafo décimo, de la Constitución Política de los Estados Unidos Mexicanos. Cuando no pretenda solicitar prisión preventiva en contra del imputado, deberá dejar sin efecto la detención; sin perjuicio de que pueda fijarle una caución a fin de garantizar su comparecencia ante el juez.
 
 En todos los casos, el Ministerio Público debe examinar inmediatamente después de que la persona es conducida a su presencia, las condiciones en las que se realizó la detención. Si ésta no fue conforme a las disposiciones de la ley, dispondrá la libertad inmediata de la persona y, en su caso, velará por la aplicación de las sanciones disciplinarias o penales que correspondan.
 
@@ -1803,7 +2113,11 @@ Detención en caso urgente.
 
 De actualizarse los requisitos previstos en el artículo anterior, el Ministerio Público podrá ordenar por escrito la detención del imputado, debiendo expresar en dicha orden los antecedentes de la investigación y los indicios que motivan su proceder.
 
-Los agentes de policía que ejecuten una orden de detención por caso urgente, deberán presentar inmediatamente al imputado ante el Ministerio Público que haya emitido dicha orden. El Ministerio Público deberá dejar sin efecto la detención cuando no pretenda solicitar prisión preventiva, sin perjuicio de que pueda fijarle una caución a fin de garantizar su comparecencia ante el juez. En caso contrario, ordenará que el detenido sea conducido ante el juez dentro del plazo a que se refiere el párrafo séptimo del artículo 16 de la Constitución Federal, contado desde que la detención se haya practicado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Los agentes de policía que ejecuten una orden de detención por caso urgente, deberán presentar inmediatamente al imputado ante el Ministerio Público que haya emitido dicha orden. El Ministerio Público deberá dejar sin efecto la detención cuando no pretenda solicitar prisión preventiva, sin perjuicio de que pueda fijarle una caución a fin de garantizar su comparecencia ante el juez. En caso contrario, ordenará que el detenido sea conducido ante el juez dentro del plazo a que se refiere el párrafo décimo del artículo 16 de la Constitución Federal, contado desde que la detención se haya practicado.
 
 ###### Artículo 179.
 
@@ -1825,7 +2139,11 @@ Medidas.
 
 A solicitud del Ministerio Público y una vez que se le haya dado la oportunidad al imputado de pronunciarse al respecto y de manifestar lo que a su derecho convenga, en la forma, bajo las condiciones y por el tiempo que se fija en este Código, la autoridad judicial puede imponer al imputado, las siguientes medidas cautelares:
 
-I. La presentación de una garantía económica suficiente en los términos de los artículos 188 y 189;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+I. La presentación de una garantía económica suficiente en los términos de los artículos 188 y 189 de este Código;
 
 II. La prohibición de salir del país, de la localidad en la cual reside o del ámbito territorial que fije el juez;
 
@@ -1855,7 +2173,11 @@ Sin perjuicio de lo previsto por este Código en el artículo 167, el juez puede
 
 Procedencia.
 
-El juez podrá aplicar las medidas cautelares siempre y cuando se le haya dado la oportunidad al imputado de manifestarse sobre su procedencia y exista una presunción razonable, por apreciación de las circunstancias del caso particular, de que el imputado no comparecerá al proceso u obstaculizará el desarrollo de la investigación. También podrán imponerse cuando por las mismas razones se estime que el imputado puede dañar a las víctimas u ofendidos, a los testigos o a la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El juez podrá aplicar la prisión preventiva, en delitos diversos a los contemplados en el artículo 167 de este Código, siempre y cuando exista una presunción razonable, por apreciación de las circunstancias del caso particular, de que el imputado no comparecerá al proceso u obstaculizará el desarrollo de la investigación. También podrán imponerse cuando por las mismas razones se estime que el imputado puede dañar a las víctimas u ofendidos, a los testigos o a la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso.
 
 ###### Artículo 182.
 
@@ -1863,7 +2185,11 @@ Imposición.
 
 A solicitud del Ministerio Público, el juez podrá imponer una sola de las medidas cautelares personales previstas en este Código o combinar varias de ellas, según resulte adecuado al caso y dictar las órdenes necesarias para garantizar su cumplimiento. La prisión preventiva no podrá combinarse con otras medidas cautelares, con excepción de la prohibición de comunicarse con personas determinadas.
 
-El juez no podrá aplicar estas medidas desnaturalizando su finalidad, ni imponer otras más graves que las solicitadas o cuyo cumplimiento resulte imposible.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El juez no podrá aplicar estas medidas desnaturalizando su finalidad, ni imponer otras diversas a las solicitadas o cuyo cumplimiento resulte imposible.
 
 ###### Artículo 183.
 
@@ -1947,19 +2273,39 @@ Se hará saber al garante, en la audiencia en la que se decida la medida, las co
 
 El imputado y el garante podrán sustituirla por otra equivalente, previa autorización del juzgador.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO EN SU RUBRO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 190.
 
-Formas de constitución de cauciones.
+Formas de constitución de garantía económica.
 
-La garantía consistente en depósito en efectivo, será igual a la cantidad señalada como caución y se hará en la oficina del fondo auxiliar que corresponda, pero cuando por razones de la hora o por ser día feriado no pueda constituirse el depósito, el Ministerio Público o el juzgador recibirá la cantidad en efectivo o en cheque certificado y la ingresará el primer día hábil. Donde no exista oficina recaudadora del fondo auxiliar, el depósito podrá constituirse provisionalmente en institución de crédito autorizada.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La hipoteca se constituirá mediante acta ministerial o judicial que firmará el propietario del inmueble, demostrando que éste no tiene ningún gravamen y que su valor catastral es dos veces mayor que el monto de la caución impuesta. La autoridad judicial enviará oficio al Registro Público de la Propiedad para que anote el gravamen, el cual quedará exento del pago de derechos.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-La prenda sólo se admitirá cuando se trate de muebles no perecederos y de fácil depósito, debiendo exhibir el constituyente la factura original solicitando su ratificación o promover la evaluación pericial del objeto, para demostrar que éste posee un valor dos veces mayor al monto de la caución impuesta.
+La garantía consistente en depósito en efectivo, será igual a la cantidad señalada como garantía económica y se hará en la oficina del fondo auxiliar que corresponda, pero cuando por razones de la hora o por ser día feriado no pueda constituirse el depósito, el Ministerio Público o el juzgador recibirá la cantidad en efectivo o en cheque certificado y la ingresará el primer día hábil. Donde no exista oficina recaudadora del fondo auxiliar, el depósito podrá constituirse provisionalmente en institución de crédito autorizada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La hipoteca se constituirá mediante acta ministerial o judicial que firmará el propietario del inmueble, demostrando que éste no tiene ningún gravamen y que su valor catastral es dos veces mayor que el monto de la garantía económica impuesta. La autoridad judicial enviará oficio al Registro Público de la Propiedad para que anote el gravamen, el cual quedará exento del pago de derechos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La prenda sólo se admitirá cuando se trate de muebles no perecederos y de fácil depósito, debiendo exhibir el constituyente la factura original solicitando su ratificación o promover la evaluación pericial del objeto, para demostrar que éste posee un valor dos veces mayor al monto de la garantía económica impuesta.
 
 El fideicomiso deberá tener un valor certificado por el fiduciario, dos veces mayor al monto de la garantía impuesta y se constituirá mediante acta suscrita por el fideicomisario, debiéndose notificar a la institución fiduciaria y ordenar la anotación del gravamen en el Registro Nacional de Fideicomisos.
 
-La fianza de institución autorizada, será por la misma cantidad impuesta como caución y no requerirá demostración de la solvencia económica de la empresa que expida la póliza, pero cuando un particular se ofrezca como fiador, deberá exhibir documentales públicas que le acrediten como propietario de uno o más inmuebles, libres de gravamen, cuyo valor catastral sea superior en dos tantos, por lo menos, a la caución impuesta. Se constituirá mediante acta suscrita por el fiador, en la que se le apercibirá de las penas en que puede incurrir en caso de producir deliberadamente su insolvencia, además de las obligaciones que contrae como fiador.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La fianza de institución autorizada, será por la misma cantidad impuesta como garantía económica y no requerirá demostración de la solvencia económica de la empresa que expida la póliza, pero cuando un particular se ofrezca como fiador, deberá exhibir documentales públicas que le acrediten como propietario de uno o más inmuebles, libres de gravamen, cuyo valor catastral sea superior en dos tantos, por lo menos, a la garantía económica impuesta. Se constituirá mediante acta suscrita por el fiador, en la que se le apercibirá de las penas en que puede incurrir en caso de producir deliberadamente su insolvencia, además de las obligaciones que contrae como fiador.
 
 ###### Artículo 191.
 
@@ -1991,7 +2337,11 @@ La separación del domicilio no podrá exceder de seis meses, sin perjuicio de l
 
 Revisión, sustitución, modificación y cancelación de las medidas. Y en su caso si se ofrece prueba para ello.
 
-El juez, aun de oficio y en cualquier estado del proceso, por resolución fundada y motivada revisará, sustituirá, modificará o cancelará las medidas cautelares personales y las circunstancias de su imposición, de conformidad con las reglas establecidas en este Código, cuando así se requiera por haber variado las condiciones que justificaron su imposición.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El juez, aún de oficio y en cualquier estado del proceso, por resolución fundada y motivada revisará, sustituirá, modificará o cancelará las medidas cautelares personales y las circunstancias de su imposición, de conformidad con las reglas establecidas en este Código, cuando así se requiera por haber variado las condiciones que justificaron su imposición.
 
 Las partes podrán producir prueba con el fin de sustentar la imposición, revisión, sustitución, modificación o cese de una medida cautelar personal.
 
@@ -2041,7 +2391,11 @@ Suspensión de los plazos de prisión preventiva.
 
 Los plazos previstos en los artículos anteriores se suspenderán cuando:
 
-I. El proceso esté suspendido a causa de un mandato derivado de un juicio de amparo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+I. Por alguna resolución de un juicio de amparo se vea afectado el normal desarrollo del proceso;
 
 II. El debate de juicio oral se encuentre suspendido o se aplace su iniciación a petición del imputado o su defensor, siempre que la suspensión o el aplazamiento no se haya dispuesto por necesidades relacionadas con la adquisición de la prueba; o
 
@@ -2055,19 +2409,43 @@ El juez podrá ordenar que una persona mayor de setenta años no sea sujeta a pr
 
 En estos casos, si es imprescindible la restricción de la libertad, se deberá decretar el arresto domiciliario o la ubicación en un centro médico o geriátrico.
 
-### CAPÍTULO IV. MEDIDAS CAUTELARES DE CARÁCTER REAL
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO IV. PROVIDENCIA PRECAUTORIAS Y MEDIDAS CAUTELARES REALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 200.
 
-Embargo precautorio de bienes.
+Providencias precautorias reales.
+
+Son providencias precautorias reales:
+
+I. Cateo;
+
+II. Anotaciones marginales;
+
+III. Aseguramiento de bienes;
+
+IV. Alimentos; y
+
+V. Retención de bienes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 201.
+
+Embargo precautorio de bienes y su Resolución.
 
 Para garantizar la reparación de los posibles daños y perjuicios provocados por el hecho punible, la víctima u ofendido o el Ministerio Público, podrán solicitar al juez el embargo precautorio de bienes.
 
 En la solicitud, el promovente deberá expresar el carácter con el que comparece, el daño o perjuicio concreto que se pretende garantizar, así como la persona en contra de la cual se pide el embargo y los antecedentes con que se cuenta para considerar como probable responsable de reparar el daño a dicha persona.
-
-###### Artículo 201.
-
-Resolución.
 
 El Juez de Control resolverá sobre la solicitud de embargo en audiencia privada con el Ministerio Público y la víctima u ofendido, en su caso. El juez ordenará el embargo, siempre y cuando de los antecedentes expuestos por el Ministerio Público y la víctima u ofendido, se desprenda el posible daño o perjuicio y la probabilidad de que la persona en contra de la cual se pide el embargo precautorio sea responsable de reparar dicho daño.
 
@@ -2083,7 +2461,11 @@ El plazo antes mencionado se suspenderá cuando las determinaciones de archivo o
 
 Revisión.
 
-Decretada la medida cautelar real, podrá revisarse, modificarse, substituirse o cancelarse a petición del imputado o de terceros interesados, debiéndose escuchar en la audiencia respectiva a la víctima u ofendido y al Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Decretada la medida cautelar real, podrá revisarse, modificarse, sustituirse o cancelarse a petición del imputado o de terceros interesados, debiéndose escuchar en la audiencia respectiva a la víctima u ofendido y al Ministerio Público.
 
 ###### Artículo 204.
 
@@ -2135,15 +2517,27 @@ Aplicación.
 
 El embargo precautorio de bienes se regirá en lo no previsto en este Código por las reglas generales del embargo previstas en la legislación civil.
 
-## TÍTULO SÉPTIMO. MEDIOS ALTERNATIVOS DE TERMINACIÓN DEL PROCESO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-### CAPÍTULO I. JUSTICIA RESTAURATIVA
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+## TÍTULO SÉPTIMO. JUSTICIA RESTAURATIVA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO I. MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS
 
 ###### Artículo 211.
 
 Definición.
 
-Por mecanismos de justicia restaurativa se entenderá todo procedimiento no jurisdiccional al cual pueden recurrir las partes en búsqueda de una solución acordada para poner fin a su controversia, mediante la utilización de técnicas o instrumentos específicos aplicados por especialistas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Por mecanismos alternativos de solución de controversias se entenderá todo procedimiento no jurisdiccional al cual pueden recurrir las partes en búsqueda de una solución acordada para poner fin a su controversia, mediante la utilización de técnicas o instrumentos específicos aplicados por especialistas.
 
 El pacto entre la víctima u ofendido y el imputado tiene como finalidad la solución del conflicto, ya se refiera a la reparación, restitución o resarcimiento del daño o perjuicios ocasionados por el delito. Asimismo, se extenderá a la realización o abstención de determinada conducta, prestación de servicio a la propia víctima u ofendido o a la comunidad, e incluso el pedimento de una disculpa o del perdón, mediante cualquier mecanismo idóneo para concluir el procedimiento.
 
@@ -2165,31 +2559,41 @@ II. El delito admita el perdón de la víctima u ofendido;
 
 III. Se trate de delitos patrimoniales que se hayan cometido sin violencia sobre las personas;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+IV. Los delitos que admitan la sustitución de sanciones o suspensión condicional de la condena; y,
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-IV. Los delitos que admitan la sustitución de sanciones o suspensión condicional de la ejecución de la pena; y,
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
-
-V. En los delitos cuya pena media aritmética no exceda de cinco años de prisión, siempre y cuando no se afecte un bien jurídico o interés público.
+V. En los delitos, incluyendo sus modalidades, cuya pena media aritmética no exceda de cinco años de prisión, siempre y cuando no se afecte un bien jurídico o interés público.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-En los delitos cuya pena media aritmética exceda de cinco años de prisión, los mecanismos alternativos de solución, sólo serán considerados para otorgar algún beneficio en cualquier etapa del procedimiento penal o relacionados con la disminución de la pena o la ejecución de la sentencia.
+En los delitos, incluyendo sus modalidades, cuya pena media aritmética exceda de cinco años de prisión, los mecanismos alternativos de solución de controversias, sólo serán considerados para otorgar algún beneficio en cualquier etapa del procedimiento penal o relacionados con la disminución de la pena o la ejecución de la sentencia.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-Se exceptúan de esta disposición, salvo cuando lo solicite en forma expresa la víctima u ofendido o su representante legal, los homicidios culposos que se cometan con motivo del tránsito de vehículos y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras substancias que impidan o perturben su adecuada conducción o violencia familiar.
+Se exceptúan de esta disposición, los delitos en contra del libre desarrollo de la personalidad, los cometidos contra menores de edad y los cometidos por servidores públicos en el ejercicio de sus funciones o con motivo de ellas.
 
-Tampoco procederá el uso de los mecanismos alternativos de solución de controversias, en los casos en que el imputado haya celebrado anteriormente otros pactos por hechos de la misma naturaleza, ni cuando se afecte un interés público prevalente y así lo solicite el Ministerio Público, en su caso, ante el Juez de Control.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+En el caso de los homicidios culposos que se cometan con motivo del tránsito de vehículos y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras substancias que impidan o perturben su adecuada conducción, así como en los de violencia familiar sólo procederán los mecanismos alternativos de solución de controversias cuando así lo solicite en forma expresa la víctima u ofendido o su representante legal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Tampoco procederá el uso de los mecanismos alternativos de solución de controversias, en los casos en que el imputado haya celebrado anteriormente otro pacto por hechos dolosos, ni cuando se afecte un interés público prevalente y así lo solicite el Ministerio Público, en su caso, ante el Juez de Control.
 
 Si el delito afecta intereses difusos o colectivos, el Ministerio Público asumirá la representación para efectos de los acuerdos de que se trata en el presente capítulo, cuando no se haya apersonado como víctima u ofendido alguno de los sujetos autorizados en este Código.
 
@@ -2197,7 +2601,11 @@ Si el delito afecta intereses difusos o colectivos, el Ministerio Público asumi
 
 Oportunidad.
 
-El uso de los mecanismos alternativos procederán hasta antes de decretarse el auto de apertura de juicio oral.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El uso de los mecanismos alternativos de solución de controversias procederá hasta antes de decretarse el auto de apertura de juicio oral.
 
 En los casos previstos en el artículo anterior, si las partes no lo han propuesto con anterioridad, desde su primera intervención el Ministerio Público o, en su caso, el Juez de Control invitarán a los interesados a que lleguen a acuerdos previstos en este capítulo, en los casos en que proceda y les explicará los efectos y los mecanismos alternativos de solución de controversias disponibles.
 
@@ -2207,7 +2615,11 @@ La información que se genere en los procedimientos respectivos no podrá ser ut
 
 Principios.
 
-Los mecanismos alternativos de solución de conflictos se rigen por los principios de voluntariedad de las partes, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad y honestidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Los mecanismos alternativos de solución de controversias se rigen por los principios de voluntariedad de las partes, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad y honestidad.
 
 ###### Artículo 215.
 
@@ -2223,37 +2635,53 @@ Efectos de la justicia restaurativa.
 
 Si las partes llegaran a acuerdos se elaborará convenio y se registrará de un modo fidedigno o por escrito, en el que se establezcan las obligaciones que se contraen, dentro de las que necesariamente debe estar la reparación del daño, en los términos a que se refiere el artículo 211 de este Código. El convenio deberá ser aprobado por el centro especializado en mecanismos alternativos de solución de controversias reconocido legalmente, si no se ha iniciado el procedimiento; por el Ministerio Público, una vez que inicio éste, o por el Juez de Control, si ya se dictó el auto de vinculación a proceso.
 
-El cumplimiento de lo acordado extingue la acción penal, que será decretada por quien haya aprobado el convenio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El cumplimiento de lo acordado extingue la acción penal que será decretada por quien haya aprobado el convenio.
 
 Si el imputado incumple las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de un año contado a partir del día siguiente de la ratificación del acuerdo ante el centro especializado en mecanismos alternativos de solución de controversias, ministerio público o Juez de Control, dependiendo del inicio del procedimiento o proceso, podrán presentar su denuncia o querella o continuar con el procedimiento o proceso, según la etapa en que se encuentre.
 
 El convenio entre la víctima u ofendido y el imputado obtenido a través de los mecanismos alternativos de solución de controversias tiene efectos vinculantes, en consecuencia, excluye el ejercicio de la acción para la reparación del daño derivada del delito.
 
-El especialista en mecanismos alternativos de solución de controversias en su caso, hará del conocimiento del Ministerio Público o al juez, de los resultados obtenidos y remitirá el convenio correspondiente para que determine sus efectos jurídicos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El especialista en mecanismos alternativos de solución de controversias en su caso, hará del conocimiento al Ministerio Público o al juez, de los resultados obtenidos y remitirá el convenio correspondiente para que determine sus efectos jurídicos.
 
 ###### Artículo 217.
 
 Impugnación ante la autoridad judicial.
 
-Cuando las partes o el Ministerio Público tengan motivos fundados para considerar que alguno de los intervinientes no está en condiciones de igualdad para negociar o ha actuado bajo coacción o amenaza, podrán impugnar ante el Juez de Control la validez del convenio y éste, en su caso, no lo tendrá por aprobado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Cuando las partes o el Ministerio Público tengan motivos fundados para considerar que alguno de los intervinientes no está en condiciones de igualdad para negociar o ha actuado bajo coacción o amenaza, podrán impugnar, dentro del plazo de treinta días, ante el Juez de Control la validez del convenio y éste, en su caso, no lo tendrá por aprobado.
 
 ###### Artículo 218.
 
 Suspensión.
 
-Los mecanismos alternativos de solución de controversias suspenden el proceso y la prescripción de la acción penal. En este caso la suspensión no podrá durar más de treinta días naturales. Si a criterio del Ministerio Público o del Juez de Control existen actuaciones urgentes o inaplazables, éstas se realizarán siempre que no impliquen un acto de molestia que sea relevante para el imputado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Los mecanismos alternativos de solución de controversias suspenden el proceso hasta por treinta días naturales y se suspenderá el término de la prescripción de la acción penal hasta el cumplimiento de lo pactado. Si a criterio del Ministerio Público o del Juez de Control existen actuaciones urgentes o inaplazables, éstas se realizarán siempre que no impliquen un acto de molestia que sea relevante para el imputado.
 
 ### CAPÍTULO II. SUSPENSIÓN DEL PROCESO A PRUEBA
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
 
 ###### Artículo 219.
 
 Procedencia.
 
-En los casos en que el auto de vinculación a proceso se haya dictado por un delito cuya pena máxima de prisión no exceda de cinco años, el imputado no haya sido condenado por delito doloso, no tenga o haya tenido otro proceso suspendido a prueba, proponga un plan de reparación del daño causado por el delito y no exista oposición fundada del Ministerio Público y de la víctima u ofendido, procederá la suspensión del proceso a prueba a solicitud del imputado o del Ministerio Público con acuerdo de aquél.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+En los casos en que el auto de vinculación a proceso se haya dictado por un delito, incluyendo sus modalidades, cuya pena máxima de prisión no exceda de cinco años, el imputado no haya sido condenado por delito doloso alguno, no tenga o haya tenido otro proceso suspendido a prueba, proponga un plan de reparación del daño causado por el delito y no exista oposición fundada del Ministerio Público o de la víctima u ofendido, procederá la suspensión del proceso a prueba a solicitud del imputado o del Ministerio Público con acuerdo de aquél.
 
 ###### Artículo 220.
 
@@ -2273,7 +2701,11 @@ Además, el imputado deberá proponer las condiciones que estaría dispuesto a c
 
 Resolución.
 
-El Juez de Control resolverá en audiencia sobre la solicitud de suspensión de proceso a prueba.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El Juez de Control resolverá en audiencia sobre la solicitud de suspensión del proceso a prueba.
 
 La víctima u ofendido serán citados a la misma, pero su incomparecencia no impedirá que el juez resuelva sobre la solicitud.
 
@@ -2281,7 +2713,11 @@ Si ésta es planteada antes de resolverse sobre la vinculación del imputado a p
 
 De considerarse procedente la solicitud, la resolución fijará las condiciones bajo las cuales se suspende el proceso y aprobará o modificará el plan de reparación propuesto por el imputado, conforme a criterios de razonabilidad. La oposición por parte de la víctima u ofendido o del Ministerio Público no vincula al juez, salvo que se encuentre debidamente fundada, pero la sola falta de recursos del imputado no podrá aducirse para rechazar la posibilidad de suspensión del proceso a prueba.
 
-La suspensión condicional del proceso a prueba será apelable por el imputado y por el Ministerio Público, también lo será por la víctima u ofendido referente al monto de la reparación del daño.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La resolución respecto de la suspensión del proceso a prueba será apelable por el imputado y por el Ministerio Público, también lo será por la víctima u ofendido referente al monto de la reparación del daño.
 
 ###### Artículo 223.
 
@@ -2297,7 +2733,11 @@ III. Abstenerse de consumir drogas, estupefacientes o bebidas alcohólicas;
 
 IV. Participar en programas especiales para la prevención y tratamiento de adicciones;
 
-V. Comenzar a finalizar la educación básica si no la ha cumplido, aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+V. Comenzar a finalizar la educación básica si no la ha cumplido aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez;
 
 VI. Prestar servicio social a favor del Estado o de instituciones de beneficencia pública;
 
@@ -2317,7 +2757,17 @@ XIII. Cumplir con los deberes de deudor alimentario.
 
 Cuando se acredite fehacientemente que el imputado no puede cumplir con alguna de las condiciones anteriores, por ser contrarias a su salud, a sus creencias religiosas o alguna otra causa de especial relevancia, el juez podrá sustituirlas, fundada y motivadamente, por el cumplimiento de otra u otras análogas que resulten razonables.
 
-Para fijar las condiciones, el juez puede disponer que el imputado sea sometido a una evaluación previa. El Ministerio Público, la víctima u ofendido, podrán proponer al juez condiciones a las que consideran debe someterse el imputado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Para fijar las condiciones, el juez puede disponer que el imputado sea sometido a una evaluación previa.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El Ministerio Público, o la víctima u ofendido, podrán proponer al juez condiciones a las que consideran debe someterse el imputado.
 
 El juez preguntará al imputado si se obliga a cumplir con las condiciones impuestas y lo prevendrá sobre las consecuencias de su inobservancia.
 
@@ -2365,7 +2815,11 @@ Durante el período de suspensión del proceso a prueba quedará suspendida la p
 
 Finalidad de la investigación.
 
-La etapa de investigación tiene por objeto el esclarecimiento de los hechos materia de la denuncia o querella, la obtención de la información y la recolección de los elementos que permitan fundar la acusación, contra una o varias personas a las que se les impute la comisión de un delito. Esta etapa estará a cargo del Ministerio Público, quien actuará con el auxilio de la policía y cuerpos de seguridad pública del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La etapa de investigación tiene por objeto el esclarecimiento de los hechos materia de la denuncia o querella, la obtención de la información y la recolección de los elementos que permitan fundar y motivar la acusación, contra una o varias personas a las que se les impute la comisión de un delito. Esta etapa estará a cargo del Ministerio Público, quien actuará con el auxilio de la policía y cuerpos de seguridad pública del Estado.
 
 ###### Artículo 229.
 
@@ -2389,9 +2843,13 @@ En cualquier tiempo y siempre que no haya prescrito la acción penal, el Ministe
 
 La víctima u ofendido podrá solicitar al Ministerio Público la reapertura de la investigación y la realización de diligencias. De ser negadas sus peticiones, podrá acudir en reclamación ante el Procurador General de Justicia del Estado o ante el servidor público en quien delegue esta función. Si después de ello, aún le son negadas sus pretensiones, podrá acudir ante el Juez de Control y éste decidirá lo conducente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO EN SU RUBRO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 232.
 
-Archivo Definitivo.
+Archivo definitivo.
 
 Antes de que se produzca la intervención del juez en el procedimiento, el Ministerio Público, previa autorización del titular de la Procuraduría General de Justicia del Estado o en quien delegue esa facultad, podrá archivar en forma definitiva las actuaciones cuando los antecedentes le permitan concluir que en el caso concreto se actualiza alguna de las causales de sobreseimiento previstas en esta ley.
 
@@ -2469,7 +2927,17 @@ Las personas obligadas a denunciar deberán hacerlo al momento en que tengan con
 
 Querella.
 
-La querella es el derecho discrecional que tiene la víctima u ofendido, el ofendido o su representante legal de hacer del conocimiento del Ministerio Público la comisión de hechos que pueden constituir un delito. Esta facultad implica la anuencia del ofendido para que el representante social se dedique a efectuar la investigación respectiva.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La querella es el derecho discrecional que tiene la víctima u ofendido o su representante legal de hacer del conocimiento del Ministerio Público la comisión de hechos que pueden constituir un delito. Esta facultad implica la anuencia del ofendido para que el representante social se dedique a efectuar la investigación respectiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La persona legitimada para querellarse, será la propietaria del bien jurídico, o en su caso, el poseedor o quien deba responder por cualquier causa, de hecho o de derecho, de dicho bien.
 
 Cuando con motivo del tránsito de vehículos culposamente se cause lesión y el ofendido quede en estado de inconsciencia o imposibilitado para formular su querella y no tenga quien lo represente legal o convencionalmente, se entenderá que su deseo es querellarse.
 
@@ -2541,7 +3009,11 @@ Tratándose de incapaces, la querella podrá ser presentada por sus representant
 
 El agente del Ministerio Público ejercerá directamente la acción penal cuando, siendo perseguible por querella, el delito:
 
-I. Se haya cometido contra un incapaz o un menor de edad, que no tengan representación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+I. Se haya cometido contra un incapaz o un menor de edad, que no tengan representación; o
 
 II. Se impute a quien tenga la custodia del incapaz o del menor de edad o sea su representante legal, tutor o pariente hasta el tercer grado de consanguinidad o afinidad.
 
@@ -2583,7 +3055,11 @@ El Ministerio Público, quienes participen en la investigación y las demás per
 
 Proposición de diligencias, control interno y judicial.
 
-El imputado y los demás intervinientes en el procedimiento, durante la investigación podrán solicitar al Ministerio Público todas aquellas diligencias que consideren pertinentes y útiles para el esclarecimiento de los hechos, quien ordenará que se lleven a cabo aquéllas si las estima conducentes. Si es rechazada la solicitud se podrá reclamar ante el superior jerárquico correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El imputado y los demás intervinientes en el procedimiento, durante la investigación podrán solicitar al Ministerio Público todas aquellas diligencias que consideren pertinentes y útiles para el esclarecimiento de los hechos, quien ordenará que se lleven a cabo aquéllas si las estima conducentes. Si es rechazada la solicitud se podrá reclamar ante el superior jerárquico correspondiente. Si después de ello aún le son negadas, podrá acudir ante el Juez de Control y éste resolverá lo conducente.
 
 Durante la investigación, el imputado podrá solicitar al juez que dicte las instrucciones necesarias para que sus peritos puedan acceder a examinar los objetos, documentos o lugares a que se refiere su dictamen.
 
@@ -2591,7 +3067,11 @@ Durante la investigación, el imputado podrá solicitar al juez que dicte las in
 
 Citación al imputado.
 
-En los casos en que sea necesaria la presencia del imputado para realizar una diligencia, el Ministerio Público o el juez, según corresponda, lo citará junto con su defensor a comparecer, con indicación del objeto del acto, el nombre del servidor público encargado de realizar la actuación y el apercibimiento de que la incomparecencia injustificada puede provocar que sea presentado por medio de la fuerza pública.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+En los casos en que sea necesaria la presencia del imputado para realizar una diligencia, el Ministerio Público o el juez, según corresponda, lo citará junto con su defensor a comparecer, con indicación precisa del hecho atribuido y del objeto del acto, la oficina a la que debe comparecer y el nombre del servidor público encargado de realizar la actuación. Se advertirá allí que la incomparecencia injustificada puede provocar su detención o conducción por la fuerza pública y que estará sujeto a las sanciones penales y disciplinarias correspondientes.
 
 En caso de impedimento, el citado deberá comunicarlo por cualquier vía al servidor público que lo cita y justificar inmediatamente el motivo de la incomparecencia.
 
@@ -2617,7 +3097,11 @@ III. Decidir sobre la aplicación de medidas cautelares;
 
 IV. Otorgar autorizaciones;
 
-V. Controlar el cumplimiento de los principios, garantías procesales y constitucionales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+V. Controlar el cumplimiento de los principios y garantías, tanto procesales como constitucionales;
 
 VI. Resolver las demás solicitudes propias de esta etapa; y
 
@@ -2627,7 +3111,17 @@ VII. Ejercer las demás funciones que señale la ley.
 
 Valor de las actuaciones.
 
-Las actuaciones practicadas durante la investigación carecen de valor probatorio para el dictado de la sentencia, salvo aquellas realizadas de conformidad con las reglas previstas en este Código para la prueba anticipada y para fundamentar y sustentar la solicitud de medidas cautelares, o bien, aquellas que este ordenamiento autoriza incorporar por lectura o reproducción por cualquier medio durante la audiencia de juicio oral.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Las actuaciones practicadas durante la investigación carecen de valor probatorio para el dictado de la sentencia, salvo aquéllas realizadas de conformidad con las reglas previstas en este Código para la prueba anticipada, o bien, aquéllas que este ordenamiento autoriza incorporar por lectura o reproducción por cualquier medio durante la audiencia de juicio oral.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Los medios de prueba desahogados para fundar y motivar la solicitud de medidas cautelares sólo podrán tomarse en cuenta para la individualización de la culpabilidad.
 
 Sí podrán ser invocadas como elementos para fundar cualquier resolución previa a la sentencia o para fundar ésta, en caso de procedimiento abreviado.
 
@@ -2645,7 +3139,11 @@ Se denomina prueba todo conocimiento cierto o probable sobre un hecho, que ingre
 
 Sólo se pueden utilizar, para fundar la decisión que el tribunal competente debe dictar, las pruebas desahogadas en una audiencia de las previstas en este Código, salvo las excepciones advertidas en la presente ley.
 
-Para ser admisibles los datos o medios de prueba deberán ser pertinentes, es decir, referirse directa o indirectamente al objeto de la investigación y deberán ser útiles para descubrir la verdad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Para ser admisibles los datos o medios de prueba deberán ser pertinentes, es decir, referirse directa o indirectamente al objeto de la investigación y deberán ser útiles para esclarecer los hechos.
 
 Los tribunales podrán limitar los datos o medios de prueba ofrecidos para demostrar un hecho o una circunstancia, cuando resulten manifiestamente impertinentes.
 
@@ -2655,11 +3153,19 @@ Cateo de recintos particulares.
 
 El cateo en recintos particulares, como casas habitación, oficinas privadas o establecimientos comerciales, requiere en forma previa autorización judicial y se realizará personalmente por el Ministerio Público, con el auxilio de la policía cuando se considere necesario.
 
-Las solicitudes de orden de cateo se formularán bajo protesta de decir verdad, por escrito o en conferencia privada con el juez o, en casos en que se pueda perder la evidencia, por teléfono.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Las solicitudes de orden de cateo se formularán bajo protesta de decir verdad, por escrito, en conferencia privada con el juez o por teléfono, en caso en que se pueda perder la evidencia.
 
 Cuando las solicitudes o una parte de ellas no se hagan por escrito, la solicitud oral requerirá un registro fidedigno equivalente que contenga la parte no escrita.
 
-Las solicitudes de cateo del Ministerio Público contendrán una breve descripción de los antecedentes de la investigación, las pruebas para establecer como probable que en el lugar que se pretende catear existen personas, objetos, documentos, huellas u otros indicios relacionados con el delito que se investiga.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Las solicitudes de cateo del Ministerio Público contendrán una breve descripción de los antecedentes de la investigación, los datos de prueba para establecer como probable que en el lugar que se pretende catear existen personas, objetos, documentos, huellas u otros indicios relacionados con el delito que se investiga.
 
 ###### Artículo 257.
 
@@ -2839,7 +3345,11 @@ Levantamiento e identificación de cadáveres.
 
 Levantamiento e identificación de cadáveres.
 
-En los casos de muerte violenta o cuando se sospeche que una persona falleció a consecuencia de un delito, se deberá practicar una inspección en el lugar de los hechos, disponer el levantamiento del cadáver y el peritaje correspondiente para establecer la causa y la manera de la muerte.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+En los casos de muerte violenta o cuando se sospeche que una persona falleció a consecuencia de un delito, se deberá practicar una inspección en el lugar de los hechos, disponer el levantamiento del cadáver y el peritaje correspondiente para establecer la causa y la manera en que murió.
 
 Cuando de la investigación no resulten datos para presumir la existencia de algún delito, el Ministerio Público podrá autorizar la dispensa de la autopsia.
 
@@ -2937,7 +3447,11 @@ Control judicial.
 
 Los interesados podrán objetar ante el Juez de Control las medidas que adopten la policía o el Ministerio Público, sobre la base de las facultades a que se refiere este apartado. El juez resolverá en definitiva lo que corresponda.
 
-#### SECCIÓN 5. PRUEBA ANTICIPADA Y PERITAJE IRREPRODUCTIBLE
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+#### SECCIÓN 5. PRUEBA ANTICIPADA Y PERITAJE IRREPRODUCIBLE
 
 ###### Artículo 286.
 
@@ -2945,7 +3459,11 @@ Prueba anticipada.
 
 Hasta antes de la apertura de la audiencia de juicio oral se podrá practicar anticipadamente cualquier dato o medio de prueba pertinente, con el cumplimiento de los siguientes requisitos:
 
-I. Que sea practicada ante el juez de control;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+I. Que sea practicada ante el Juez de Control;
 
 II. Que sea solicitada por alguna de las partes;
 
@@ -2981,13 +3499,21 @@ Si el testigo se encuentra en otro estado de la República Mexicana, la petició
 
 Si se autoriza la práctica de esta diligencia en el extranjero o en otro estado de la República y ésta no tiene lugar por causas imputables al oferente, se le tendrá por desistida.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO EN SU RUBRO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 289.
 
-Notificación al defensor de práctica de peritaje irreproductible.
+Notificación al defensor de práctica de peritaje irreproducible.
 
 Cuando un peritaje recaiga sobre objetos que se consuman al ser analizados, no se permitirá que se verifique el primer análisis sino en la cantidad estrictamente necesaria de la sustancia, a no ser que ésta sea tan escasa que los peritos no puedan emitir su opinión sin consumirla por completo. En este caso, el Ministerio Público se encuentra obligado a notificar al defensor del imputado si éste ya se encuentra individualizado, o al defensor público, en caso contrario, para que si lo desea, designe un perito que, conjuntamente con el designado por el Ministerio Público, practiquen el peritaje, o bien, para que acuda a presenciar la realización de la pericia practicada por aquél.
 
-Aun cuando no comparezca a la realización del peritaje el perito designado por el defensor del imputado, o éste omita designar uno para tal efecto, la pericial se llevará a cabo y será admisible como prueba en juicio. En caso de no darse cumplimiento a la obligación prevista en el párrafo que antecede, la pericial en cuestión deberá ser desechada como prueba, en caso de ser ofrecida.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Aún cuando no comparezca a la realización del peritaje el perito designado por el defensor del imputado, o éste omita designar uno para tal efecto, la pericial se llevará a cabo y será admisible como prueba en juicio. En caso de no darse cumplimiento a la obligación prevista en el párrafo que antecede, la pericial en cuestión deberá ser desechada como prueba, en caso de ser ofrecida.
 
 #### SECCIÓN 6. REGISTRO DE LA INVESTIGACIÓN Y CUSTODIA DE OBJETOS
 
@@ -3055,7 +3581,11 @@ A esta audiencia se citará al imputado, a quien se le indicará que deberá com
 
 Acceso a los registros de la investigación.
 
-Después de solicitar la celebración de la audiencia de vinculación a proceso, el Ministerio Público permitirá el acceso a los registros de investigación tanto al imputado como a su defensor, a fin de que puedan examinarlos y obtener copias, antes de la celebración de la misma, con la antelación necesaria tomando en cuenta la naturaleza del caso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Después de solicitar la celebración de la audiencia de formulación de imputación, el Ministerio Público permitirá el acceso a los registros de investigación tanto al imputado como a su defensor, a fin de que puedan examinarlos y obtener copias, antes de la celebración de la misma, con la antelación necesaria tomando en cuenta la naturaleza del caso.
 
 En caso de negativa del Ministerio Público, el defensor podrá reclamar ante el juez, quien después de escuchar al Ministerio Público determinará la suspensión de la audiencia respectiva para que el imputado y su defensor tengan conocimiento del registro, sin perjuicio de aplicar a aquél las sanciones a que se refiere el artículo 165 de este Código.
 
@@ -3063,7 +3593,11 @@ En caso de negativa del Ministerio Público, el defensor podrá reclamar ante el
 
 Formulación de la imputación y oportunidad para declarar.
 
-En la audiencia correspondiente, después de haber verificado el juez que el imputado conoce sus derechos fundamentales dentro del proceso penal o, en su caso, después de habérselos dado a conocer, ofrecerá la palabra al Ministerio Público para que exponga verbalmente el delito que se le imputa, la fecha, lugar y modo de su comisión, el grado de intervención que se le atribuye al imputado en el mismo, así como el nombre del denunciante o querellante. El juez, de oficio o a petición del imputado o su defensor, podrá solicitar las aclaraciones o precisiones que considere convenientes respecto a la imputación formulada por el Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+En la audiencia correspondiente, después de haber verificado el juez que el imputado conoce sus derechos fundamentales dentro del proceso penal o, en su caso, después de habérselos dado a conocer, ofrecerá la palabra al Ministerio Público para que exponga verbalmente el hecho que la ley señala como delito y que se le imputa, la fecha, lugar y modo de su comisión, el grado de intervención que se le atribuye al imputado en el mismo, así como el nombre del denunciante o querellante, además de lo previsto por el primer párrafo del artículo 100 de este Código. El juez, de oficio o a petición del imputado o su defensor, podrá solicitar las aclaraciones o precisiones que considere convenientes respecto a la imputación formulada por el Ministerio Público.
 
 Formulada la imputación, se preguntará al imputado si la entiende y si es su deseo contestar al cargo. En caso de que el imputado manifieste su deseo de declarar, su declaración se rendirá conforme a lo dispuesto en el artículo 381 de este Código.
 
@@ -3077,7 +3611,11 @@ Autorización para practicar diligencias sin conocimiento del imputado.
 
 Las diligencias de investigación que de conformidad con este Código requirieran de autorización judicial previa, podrán ser solicitadas por el Ministerio Público aún antes de la formulación de la imputación. Si el Ministerio Público estima necesario que se lleven a cabo sin previa comunicación al imputado, el juez autorizará que se proceda en la forma solicitada, cuando la gravedad de los hechos o la naturaleza de la diligencia de que se trate, permita presumir que dicha circunstancia resulta indispensable para su éxito.
 
-Si con posterioridad a la formulación de la imputación el Ministerio Público solicite proceder de la forma señalada en el párrafo anterior, el juez lo autorizará, cuando la reserva resulte estrictamente indispensable para la eficacia de la diligencia. No obstante, lo previsto en este párrafo la información deberá ser siempre oportunamente revelada para no afectar el derecho de defensa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si con posterioridad a la formulación de la imputación el Ministerio Público solicita proceder de la forma señalada en el párrafo anterior, el juez lo autorizará, cuando la reserva resulte estrictamente indispensable para la eficacia de la diligencia. No obstante, lo previsto en este párrafo la información deberá ser siempre oportunamente revelada para no afectar el derecho de defensa.
 
 #### SECCIÓN 8. VINCULACIÓN DEL IMPUTADO A PROCESO
 
@@ -3085,7 +3623,11 @@ Si con posterioridad a la formulación de la imputación el Ministerio Público 
 
 Concepto de vinculación del imputado a proceso.
 
-Es la resolución en la que se determina si los datos de prueba obtenidos en la investigación establecen un hecho que la ley señala como delito y que existe la probabilidad de que el imputado lo cometió o participó en su comisión con el fin de continuar el proceso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Es la resolución en la que se determina si los datos de prueba obtenidos en la investigación establecen que se ha cometido un hecho que la ley señala como delito y que existe la probabilidad de que el imputado lo cometió o participó en su comisión con el fin de continuar el proceso.
 
 ###### Artículo 301.
 
@@ -3097,9 +3639,17 @@ I. Que se haya formulado la imputación;
 
 II. Que el imputado haya ejercido su derecho a declarar o a guardar silencio;
 
-III. Que de los antecedentes de la investigación expuestos por el Ministerio Público, se desprenda los datos que establezcan que se ha cometido un hecho señalado como delito por la ley y que exista la probabilidad de que el imputado lo cometió o participó en su comisión; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV. Que no se encuentre demostrada, más allá de toda duda razonable, una causa de extinción de la acción penal o una excluyente de responsabilidad penal.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+III. Que de los antecedentes de la investigación expuestos por el Ministerio Público, se desprendan los datos que establezcan que se ha cometido un hecho señalado como delito por la ley y que exista la probabilidad de que el imputado lo cometió o participó en su comisión; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+IV. Que no se encuentre demostrada, más allá de toda duda razonable, una causa de extinción de la acción penal o una causa de exclusión del delito.
 
 El auto de vinculación a proceso únicamente podrá dictarse por los hechos que fueron motivo de la formulación de la imputación, pero el juez podrá otorgarles una clasificación jurídica diversa a la asignada por el Ministerio Público al formular la imputación.
 
@@ -3115,19 +3665,35 @@ El auto de no vinculación del imputado a proceso no impide que el Ministerio P�
 
 Plazos para resolver sobre la vinculación a proceso.
 
-Inmediatamente después de que el juez resuelva sobre las medidas cautelares personales solicitadas, en su caso, por el Ministerio Público, cuestionará al imputado respecto a si renuncia al plazo de setenta y dos horas para que se resuelva sobre su vinculación a proceso, o si solicita la duplicación de dicho plazo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Inmediatamente después de que el juez resuelva sobre las medidas cautelares personales solicitadas, en su caso, por el Ministerio Público, cuestionará al imputado respecto a si renuncia al plazo de setenta y dos horas para que se resuelva sobre su vinculación a proceso, o si solicita la duplicidad de dicho plazo.
 
 En caso de que el imputado renuncie al plazo de setenta y dos horas, el Ministerio Público deberá solicitar y motivar la vinculación del imputado a proceso, exponiendo en la misma audiencia los antecedentes de la investigación con los que considera se acreditan los datos que establezcan el hecho considerado como delito por la ley y la probable participación del imputado. El juez resolverá lo conducente después de escucharlo.
 
-Si el imputado no renuncia al plazo de las setenta y dos horas para que se resuelva sobre su vinculación o no a proceso, o solicita la duplicación de dicho plazo, el juez citará a una audiencia en la que pueda ofrecer datos de prueba de conformidad con el artículo 336 en lo conducente. El Juez tendrá la facultad de controlar los datos de prueba. Dicha audiencia deberá celebrarse, según sea el caso, dentro de las setenta y dos o ciento cuarenta y cuatro horas siguientes a que el imputado detenido fue puesto a su disposición o cuando éste compareció a la audiencia de formulación de la imputación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En este momento procesal el imputado o su defensor podrán ofrecer prueba y el juez la recibirá, siempre que la misma no haya estado incluida en las diligencias de investigación practicadas por el Ministerio Público y sean pertinentes para resolver sobre la vinculación o no del imputado a proceso.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si el imputado no renuncia al plazo de las setenta y dos horas para que se resuelva sobre su vinculación o no a proceso, o solicita la duplicidad de dicho plazo, el juez citará a una audiencia en la que pueda ofrecer datos de prueba de conformidad con el artículo 336 de este Código en lo conducente. El Juez tendrá la facultad de controlar los datos de prueba. Dicha audiencia deberá celebrarse, según sea el caso, dentro de las setenta y dos o ciento cuarenta y cuatro horas siguientes a que el imputado detenido fue puesto a su disposición o cuando éste compareció a la audiencia de formulación de la imputación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+En este momento procesal el imputado o su defensor podrán ofrecer medios de prueba y el juez la recibirá, siempre que la misma no haya estado incluida en las diligencias de investigación practicadas por el Ministerio Público y sean pertinentes para resolver sobre la vinculación o no del imputado a proceso.
 
 ###### Artículo 304.
 
 Audiencia de vinculación a proceso.
 
-La audiencia de vinculación a proceso a que se refiere el último párrafo del artículo anterior iniciará, en su caso, con el desahogo de los medios de prueba que el imputado haya ofrecido o presentado en la misma. Para tal efecto, se seguirán en lo conducente las reglas previstas para el desahogo de pruebas en la audiencia de debate de juicio oral. Desahogada la prueba, si la hubo, se le concederá la palabra en primer término al Ministerio Público y luego al imputado. Agotado el debate, el juez resolverá sobre la vinculación o no del imputado a proceso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La audiencia de vinculación a proceso a que se refiere el penúltimo párrafo del artículo anterior iniciará, en su caso, con el desahogo de los medios de prueba que el imputado haya ofrecido o presentado en la misma. Para tal efecto, se seguirán en lo conducente las reglas previstas para el desahogo de pruebas en la audiencia de debate de juicio oral. Desahogada la prueba, si la hubo, se le concederá la palabra en primer término al Ministerio Público y luego al imputado. Agotado el debate, el juez resolverá sobre la vinculación o no del imputado a proceso.
 
 En casos de extrema complejidad, el juez podrá decretar un receso que no podrá exceder de dos horas, antes de resolver sobre la vinculación o no del imputado a proceso.
 
@@ -3163,7 +3729,11 @@ IV. El Ministerio Público perderá la facultad de archivar temporalmente el pro
 
 Plazo para declarar el cierre de la investigación.
 
-Transcurrido el plazo para el cierre de la investigación, el Ministerio Público deberá cerrarla o solicitar justificadamente su prórroga al juez, observándose los límites máximos previstos en el artículo 306. Si el juez estima que la prórroga no se justifica, denegará la petición.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Transcurrido el plazo para el cierre de la investigación, el Ministerio Público deberá cerrarla o solicitar justificadamente su prórroga al juez, observándose los límites máximos previstos en el artículo 306 de este Código. Si el juez estima que la prórroga no se justifica, denegará la petición.
 
 Si el Ministerio Público no declara cerrada la investigación en el plazo fijado, o no solicita su prórroga, se le aplicará la sanción administrativa que la ley determine y las partes podrán solicitar al juez que lo aperciba para que proceda al cierre.
 
@@ -3197,19 +3767,33 @@ III. El imputado esté exento de responsabilidad penal;
 
 IV. Agotada la investigación, el Ministerio Público estime que no cuenta con los elementos suficientes para fundar una acusación;
 
-V. El desistimiento del acusador privado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VI. La acción penal esté extinguida por alguno de los motivos establecidos en la ley;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-VII. Una nueva ley suprima el carácter de ilícito al hecho por el cual se viene siguiendo el proceso;
+V. Hayan transcurrido seis meses después de haberse negado la orden de aprehensión o comparecencia o dictado auto de no vinculación a proceso, sin que se haya perfeccionado la pretensión punitiva;
 
-VIII. El hecho de que se trate haya sido materia de un proceso penal en el que se hubiera dictado sentencia firme respecto del imputado; y
+VI. El desistimiento del acusador privado;
+
+VII. La acción penal esté extinguida por alguno de los motivos establecidos en la ley;
+
+VIII. Una nueva ley suprima el carácter de ilícito al hecho por el cual se viene siguiendo el proceso;
+
+IX. El hecho de que se trate haya sido materia de un proceso penal en el que se hubiera dictado sentencia firme respecto del imputado; y
 
 IX. En los demás casos en que lo disponga la ley.
 
-La resolución que determine el sobreseimiento será apelable, salvo que se produzca en el transcurso del juicio oral.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Recibida la solicitud de sobreseimiento, el juez la comunicará a las partes y citará dentro de las veinticuatro horas siguientes si lo considera pertinente, a una audiencia donde se resolverá.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La resolución respecto de la solicitud de sobreseimiento será apelable, salvo que se produzca en el transcurso del juicio oral.
 
 ###### Artículo 311.
 
@@ -3227,6 +3811,12 @@ El sobreseimiento firme tiene efectos de sentencia absolutoria, pone fin al proc
 
 Suspensión del proceso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Recibida la solicitud de suspensión, el juez la comunicará a las partes y citará dentro de las veinticuatro horas siguientes si lo considera pertinente, a una audiencia donde se resolverá.
+
 El juez decretará la suspensión del proceso cuando:
 
 I. No se haya cumplido con alguna de las condiciones de procedibilidad legalmente establecidas o para el juzgamiento penal se requiera la resolución previa de una cuestión civil. En estos casos, decretada la suspensión, se levantarán las medidas cautelares personales que se hubieran dispuesto;
@@ -3237,9 +3827,17 @@ III. Después de cometido el delito, el imputado sufra trastorno mental transito
 
 IV. En los demás casos en que la ley expresamente lo ordene.
 
-A solicitud de cualquiera de las partes, el juez podrá decretar la reapertura del proceso cuando cese la causa que haya motivado la suspensión.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 La decisión sobre la suspensión del proceso será apelable.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+A solicitud de cualquiera de las partes, el juez podrá decretar la reapertura del proceso cuando cese la causa que haya motivado la suspensión.
 
 ###### Artículo 314.
 
@@ -3251,7 +3849,11 @@ Si el juez acoge la solicitud, ordenará al Ministerio Público reabrir la inves
 
 El juez no decretará ni renovará aquellas diligencias ordenadas a petición de las partes, incumplidas por negligencia o por razones imputables a ellas; tampoco las que se consideren manifiestamente impertinentes; las que tengan por objeto acreditar hechos públicos y notorios o aquellas solicitadas con fines puramente dilatorios.
 
-Una vez realizadas las diligencias o vencido el plazo o su ampliación, el Ministerio Público procederá en la forma señalada en el artículo 309.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Una vez realizadas las diligencias o vencido el plazo o su ampliación, el Ministerio Público procederá en la forma señalada en el artículo 309 de este Código.
 
 #### SECCIÓN 10. ACUSACIÓN
 
@@ -3259,7 +3861,11 @@ Una vez realizadas las diligencias o vencido el plazo o su ampliación, el Minis
 
 Concepto de acusación.
 
-Pretensión ejercida por el Ministerio Público ante la autoridad judicial, de una sentencia de condena, mediante la aportación de datos o medios de prueba que destruyan el principio de presunción de inocencia del imputado o acusado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Pretensión ejercida por escrito por el Ministerio Público ante la autoridad judicial, de una sentencia de condena, mediante la aportación de datos y medios de prueba que destruyan el principio de presunción de inocencia del imputado o acusado.
 
 ###### Artículo 316.
 
@@ -3295,7 +3901,11 @@ El Ministerio Público podrá formular distintas calificaciones jurídicas respe
 
 Ofrecimiento de medios de prueba.
 
-Si de conformidad con lo establecido en la fracción VI del artículo 316, el Ministerio Público ofrece prueba de testigos, deberá presentar una lista, identificándolos con nombre, apellidos, profesión u oficio y domicilio o residencia, señalando, además, la materia sobre la que habrán de recaer sus declaraciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si de conformidad con lo establecido en la fracción VI del artículo 316 de este Código, el Ministerio Público ofrece prueba de testigos, deberá presentar una lista, identificándolos con nombre, apellidos, profesión u oficio y domicilio o residencia, señalando, además, la materia sobre la que habrán de recaer sus declaraciones.
 
 ###### Artículo 319.
 
@@ -3325,13 +3935,17 @@ IV. Haya sido videograbada.
 
 #### SECCIÓN 1. DESARROLLO DE LA ETAPA INTERMEDIA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 321.
 
 Concepto y finalidad.
 
-La etapa intermedia es aquella se (sic) verifica ante el Juez de Control, una vez que concluyó el plazo fijado para el cierre de la investigación. En ella se dirimen todas aquellas cuestiones procesales que impedirían el libre y adecuado desarrollo de la audiencia de debate de juicio oral.
+La etapa intermedia es aquella que se verifica ante el Juez de Control, una vez que concluyó el plazo fijado para el cierre de la investigación. En ella se dirimen todas aquellas cuestiones procesales que impedirían el libre y adecuado desarrollo de la audiencia de debate de juicio oral.
 
-La etapa intermedia tiene como finalidad el ofrecimiento y admisión de pruebas, así como la depuración de los hechos controvertidos que serán materia de juicio oral.
+La etapa intermedia tiene como finalidad el ofrecimiento y admisión de medios de prueba, así como la depuración de los hechos controvertidos que serán materia de juicio oral.
 
 ###### Artículo 322.
 
@@ -3343,11 +3957,19 @@ Presentada la acusación, el juez ordenará su notificación a las partes y cita
 
 Actuación del acusador coadyuvante.
 
-Hasta diez días antes de la fecha fijada para la realización de la audiencia intermedia, la víctima u ofendido podrá constituirse en acusador coadyuvante y en tal carácter, por escrito, podrá:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Hasta diez días antes de la fecha fijada para la realización de la audiencia intermedia, la víctima u ofendido o su representante legal podrá constituirse en acusador coadyuvante y en tal carácter, por escrito, podrá:
 
 I. Señalar los vicios materiales y formales del escrito de acusación y requerir su corrección;
 
-II. Ofrecer la prueba que estime necesaria para complementar la acusación del Ministerio Público; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+II. Ofrecer los medios de prueba que estime necesarios para complementar la acusación del Ministerio Público; y
 
 III. Concretar sus pretensiones, ofrecer prueba para el juicio y cuantificar el monto de los daños y perjuicios cuando haya ejercido la acción civil resarcitoria. El monto reclamado corresponderá a los daños y perjuicios que fueren liquidables a esa fecha, sin perjuicio de su derecho a reclamar la parte ilíquida con posterioridad.
 
@@ -3377,9 +3999,9 @@ II. Deducir las excepciones de previo y especial pronunciamiento a que se refier
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-III. Exponer los argumentos de defensa que considere necesarios y señalar los medios de prueba que se producirán en la audiencia de debate;
+III. Exponer los argumentos de defensa que considere necesarios y señalar los medios de prueba que se producirán en la audiencia de debate, en los términos previstos para la acusación;
 
 IV. Ofrecer los medios de prueba relativos a la individualización de la pena o a la procedencia de sustitutivos de pena de prisión o suspensión de la misma; y
 
@@ -3405,7 +4027,11 @@ V. Extinción de la acción penal.
 
 Excepciones en la audiencia de debate.
 
-No obstante lo dispuesto en el artículo 326, si las excepciones previstas en las fracciones III y V del artículo anterior no fueren deducidas para ser discutidas en la audiencia intermedia, podrán ser planteadas en la audiencia de debate de juicio oral.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+No obstante lo dispuesto en el artículo 326 de este Código, si las excepciones previstas en las fracciones III y V del artículo anterior no fueren deducidas para ser discutidas en la audiencia intermedia, podrán ser planteadas en la audiencia de debate de juicio oral.
 
 #### SECCIÓN 2. DESARROLLO DE LA AUDIENCIA INTERMEDIA
 
@@ -3435,19 +4061,35 @@ Si la falta de comparecencia es de un defensor particular, el juez le designará
 
 Resolución de excepciones.
 
-Si el acusado plantea excepciones de las previstas en el artículo 327, el juez abrirá debate sobre el tema. Asimismo, de estimarlo pertinente, podrá permitir durante la audiencia la presentación de las pruebas que estime relevantes. El juez resolverá de inmediato las excepciones planteadas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si el acusado plantea excepciones de las previstas en el artículo 327 de este Código, el juez abrirá debate sobre el tema. Asimismo, de estimarlo pertinente, podrá permitir durante la audiencia la presentación de los medios de prueba que estime relevantes. El juez resolverá de inmediato las excepciones planteadas.
 
 Tratándose de la extinción de la acción penal o de la cosa juzgada, el juez decretará el sobreseimiento, siempre que el fundamento de la decisión se encuentre suficientemente justificado en los antecedentes de la investigación. En caso contrario, dejará la resolución de la excepción planteada para la audiencia de debate de juicio oral.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO EN SU RUBRO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 333.
 
-Debate acerca de las pruebas ofrecidas por las partes.
+Debate acerca de los medios de pruebas ofrecidos por las partes.
 
-Durante la audiencia intermedia cada parte podrá formular las solicitudes, observaciones y planteamientos que estime relevantes, con relación a las pruebas ofrecidas por las demás, para los fines de exclusión de pruebas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Durante la audiencia intermedia cada parte podrá formular las solicitudes, observaciones y planteamientos que estime relevantes, con relación a los medios de pruebas ofrecidas por las demás, para los fines de exclusión de los mismos.
 
 A instancia de cualquiera de las partes, podrán desahogarse en la audiencia datos o medios de prueba encaminados a demostrar la ilicitud de alguno de los ofrecidos por la contraparte.
 
-El Ministerio Público podrá ofrecer pruebas en la audiencia, únicamente con el fin de contradecir directamente las pruebas aportadas por la defensa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El Ministerio Público podrá ofrecer medios de prueba en la audiencia, únicamente con el fin de contradecir directamente los aportados por la defensa.
 
 ###### Artículo 334.
 
@@ -3467,17 +4109,33 @@ El juez autorizará el acuerdo probatorio, siempre y cuando lo considere justifi
 
 En estos casos, el juez indicará en el auto de apertura de juicio oral los hechos que se tengan por acreditados, a los cuales deberá estarse durante la audiencia de debate.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO EN SU RUBRO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 336.
 
-Exclusión de pruebas para la audiencia de debate.
+Exclusión de medios de prueba para la audiencia de debate.
 
-El juez, luego de examinar las pruebas ofrecidas y escuchar a las partes que comparezcan a la audiencia intermedia, ordenará fundadamente que se excluyan aquellas pruebas manifiestamente impertinentes, las que tengan por objeto acreditar hechos públicos y notorios y las que este Código determina como inadmisibles.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El juez, luego de examinar los medios de prueba ofrecidos y escuchar a las partes que comparezcan a la audiencia intermedia, ordenará fundadamente que se excluyan aquellos medios de prueba manifiestamente impertinentes, los que tengan por objeto acreditar hechos públicos y notorios y los que este Código determina como inadmisibles.
 
 Si estima que la aprobación en los mismos términos en que las pruebas testimonial y documental hayan sido ofrecidas, produciría efectos puramente dilatorios en la audiencia de debate, dispondrá también que la parte que las ofrezca reduzca el número de testigos o de documentos, cuando mediante ellos desee acreditar los mismos hechos o circunstancias que no guarden pertinencia sustancial con la materia que se someterá a juicio. El juzgador podrá determinar cuántos peritos deban intervenir, según la importancia del caso y la complejidad de las cuestiones por resolver, después de escuchar a las partes o podrá limitar su número cuando resulten excesivos y pudieran entorpecer la realización del juicio.
 
-Del mismo modo, el juez excluirá las pruebas que provengan de actuaciones o diligencias que hayan sido declaradas nulas y aquéllas que hayan sido obtenidas con inobservancia de garantías fundamentales. Asimismo, en los casos de delitos contra el libre desarrollo de la personalidad, el Juez de Control excluirá la prueba que pretenda rendirse sobre la conducta sexual anterior o posterior de la víctima u ofendido, a menos que sea estrictamente necesario para el esclarecimiento de los hechos; en estos casos, se adoptarán las medidas de protección adecuadas para la víctima u ofendido.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Las demás pruebas que se hayan ofrecido serán admitidas por el juez al dictar el auto de apertura de juicio oral.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Del mismo modo, el juez excluirá los medios de prueba que provengan de actuaciones o diligencias que hayan sido declaradas nulas y aquéllas que hayan sido obtenidas con inobservancia de garantías fundamentales. Asimismo, en los casos de delitos contra el libre desarrollo de la personalidad, el Juez de Control excluirá la prueba que pretenda rendirse sobre la conducta sexual anterior o posterior de la víctima u ofendido, a menos que sea estrictamente necesario para el esclarecimiento de los hechos; en estos casos, se adoptarán las medidas de protección adecuadas para la víctima u ofendido.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Los demás medios de prueba que se hayan ofrecido serán admitidas por el juez al dictar el auto de apertura de juicio oral.
 
 ###### Artículo 337.
 
@@ -3555,7 +4213,11 @@ II. El orden público pueda verse gravemente afectado;
 
 III. Peligre información de datos legalmente protegidos; o
 
-IV. Esté previsto específicamente en este Código o en otra
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+IV. Esté previsto específicamente en este Código o en otra ley.
 
 La resolución será fundada y motivada. Desaparecida la causa que motivó la restricción de la publicidad, se permitirá ingresar nuevamente al público y quien presida el debate informará brevemente sobre el resultado esencial de los actos cumplidos a puertas cerradas, cuidando de no afectar el bien protegido por la reserva. El tribunal podrá imponer a las partes en el acto el deber de reserva sobre aquellas circunstancias que han presenciado.
 
@@ -3749,7 +4411,11 @@ Antes de comenzar la diligencia, el testigo será instruido acerca de sus obliga
 
 A los menores de doce años sólo se les exhortará para que se conduzcan con la verdad.
 
-Si el testigo teme por su integridad física o la de alguien con quien habite, podrá autorizársele para no indicar públicamente su domicilio y se tomará nota reservada de éste, quedando prohibida su divulgación, pero la identidad del testigo no podrá ocultársele al acusado ni se le eximirá de comparecer en juicio. Solo podrá resguardarse la identidad del testigo cuando a juicio del juzgador sea necesario para su protección y se trate de víctimas de violación y secuestro, así como cuando sean menores de edad, sin perjuicio de lo dispuesto por el artículo 363.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si el testigo teme por su integridad física o la de alguien con quien habite, podrá autorizársele para no indicar públicamente su domicilio y se tomará nota reservada de éste, quedando prohibida su divulgación, pero la identidad del testigo no podrá ocultársele al acusado ni se le eximirá de comparecer en juicio. Sólo podrá resguardarse la identidad del testigo cuando a juicio del juzgador sea necesario para su protección y se trate de víctimas de violación y secuestro, así como cuando sean menores de edad, sin perjuicio de lo dispuesto por el artículo 363 de este Código.
 
 ###### Artículo 362.
 
@@ -3881,7 +4547,11 @@ Los incidentes promovidos en el transcurso de la audiencia de debate de juicio o
 
 Las decisiones que recaigan sobre estos incidentes no serán susceptibles de recurso alguno.
 
-Si durante el desarrollo de la audiencia de debate de juicio oral, alguna de las partes promoviera el sobreseimiento o el Ministerio Público se desistiera de la acusación previa autorización por escrito del titular de la Procuraduría General de Justicia del Estado o en quien delegue esta facultad, el tribunal resolverá lo conducente en la misma audiencia, conforme a las reglas generales de sobreseimiento para su procedencia previstas en el artículo 310. El tribunal podrá desechar de plano la petición de sobreseimiento planteada por el acusado por notoriamente improcedente o reservar su decisión para el dictado de la sentencia definitiva.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si durante el desarrollo de la audiencia de debate de juicio oral, alguna de las partes promoviera el sobreseimiento o el Ministerio Público se desistiera de la acusación previa autorización por escrito del titular de la Procuraduría General de Justicia del Estado o en quien delegue esta facultad, el tribunal resolverá lo conducente en la misma audiencia, conforme a las reglas generales de sobreseimiento para su procedencia previstas en el artículo 310 de este Código. El tribunal podrá desechar de plano la petición de sobreseimiento planteada por el acusado por notoriamente improcedente o reservar su decisión para el dictado de la sentencia definitiva.
 
 ###### Artículo 377.
 
@@ -3917,7 +4587,11 @@ Enseguida, concederá la palabra al Ministerio Público para que exponga su acus
 
 Defensa y declaración del acusado.
 
-El acusado podrá rendir su declaración en cualquier momento durante la audiencia. En tal caso, el titular del órgano jurisdiccional que presida la audiencia le permitirá que lo haga libremente o a preguntas de su defensor. Si es su deseo contestar a las preguntas del Ministerio Público o del acusador coadyuvante, podrá ser contra interrogado por éstos, conforme lo dispone el artículo 384. El juez podrá formularle preguntas destinadas a aclarar sus dichos, absteniéndose de contestar si es su deseo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El acusado podrá rendir su declaración en cualquier momento durante la audiencia. En tal caso, el titular del órgano jurisdiccional que presida la audiencia le permitirá que lo haga libremente o a preguntas de su defensor. Si es su deseo contestar a las preguntas del Ministerio Público o del acusador coadyuvante, podrá ser contra interrogado por éstos, conforme lo dispone el artículo 384 de este Código. El juez podrá formularle preguntas destinadas a aclarar sus dichos, absteniéndose de contestar si es su deseo.
 
 En cualquier estado del juicio, el acusado podrá solicitar ser oído, con el fin de aclarar o complementar su declaración siempre y cuando no altere el orden de la audiencia.
 
@@ -3955,7 +4629,11 @@ En sus interrogatorios, las partes que hayan presentado a un testigo o perito no
 
 Durante el contrainterrogatorio, las partes podrán confrontar al perito o testigo con sus propios dichos u otras versiones de los hechos presentados en el juicio.
 
-En ningún caso se admitirán preguntas capciosas, engañosas, ambiguas o aquellas que incluyan más de un solo hecho, así como aquéllas destinadas a coaccionar ilegítimamente al testigo o perito, ni las que sean formuladas en términos poco claros para ellos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Las partes podrán objetar las preguntas que consideren capciosas, engañosas, ambiguas o aquellas que incluyan más de un solo hecho, así como aquéllas destinadas a coaccionar ilegítimamente al testigo o perito, y las que sean formuladas en términos poco claros para ellos y el Tribunal resolverá lo conducente.
 
 Estas normas se aplicarán al acusado cuando consienta prestar declaración.
 
@@ -3993,7 +4671,11 @@ Lectura o exhibición de documentos, objetos y otros medios.
 
 Los documentos serán leídos y exhibidos en el debate, con indicación de su origen. Los objetos que constituyan evidencia deberán ser exhibidos y podrán ser examinados por las partes. Las grabaciones, los medios de prueba audiovisuales, computacionales o cualquier otro de carácter electrónico, apto para producir convicción, se reproducirán en la audiencia por cualquier medio idóneo para su percepción por los asistentes.
 
-El tribunal podrá autorizar, con acuerdo de las partes, la lectura o reproducción parcial o resumida de los medios de prueba mencionados o en los supuestos a que se refieren los artículos 374, 385 y 386, cuando ello parezca conveniente y se asegure el conocimiento de su contenido. Todos estos medios deberán ser exhibidos al acusado, a los peritos o testigos durante sus declaraciones, para complementar las mismas, cuando ello sea conveniente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El tribunal podrá autorizar, con acuerdo de las partes, la lectura o reproducción parcial o resumida de los medios de prueba mencionados o en los supuestos a que se refieren los artículos 374, 385 y 386 todos de este código, cuando ello parezca conveniente y se asegure el conocimiento de su contenido. Todos estos medios deberán ser exhibidos al acusado, a los peritos o testigos durante sus declaraciones, para complementar las mismas, cuando ello sea conveniente.
 
 ###### Artículo 389.
 
@@ -4007,7 +4689,11 @@ Prueba superveniente.
 
 El tribunal podrá ordenar la recepción de pruebas sobre hechos supervenientes o de las que no fueron ofrecidas oportunamente por alguna de las partes, cuando éstas justifiquen no haber sabido de su existencia.
 
-Si con ocasión de la rendición de una prueba surja una controversia relacionada exclusivamente con su veracidad, autenticidad o integridad, el tribunal podrá autorizar la presentación de nuevas pruebas destinadas a esclarecer esos puntos, aunque no hubieren sido ofrecidas oportunamente y siempre que no haya sido posible prever su necesidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si con ocasión de la rendición de una prueba surge una controversia relacionada exclusivamente con su veracidad, autenticidad o integridad, el tribunal podrá autorizar la presentación de nuevas pruebas destinadas a esclarecer esos puntos, aunque no hubieren sido ofrecidas oportunamente y siempre que no haya sido posible prever su necesidad.
 
 En ambos casos, el medio de prueba debe ser ofrecido antes de que se cierre el debate y el juez deberá salvaguardar la oportunidad de la contraparte del oferente de la prueba superveniente, para preparar los contra interrogatorios de testigos o peritos, según sea el caso y para ofrecer la práctica de diversas pruebas encaminadas a controvertir la superveniente.
 
@@ -4055,11 +4741,19 @@ Comunicada a las partes la decisión absolutoria, el tribunal dispondrá en form
 
 Convicción del tribunal.
 
-Nadie podrá ser declarado culpable por algún delito, sino cuando el tribunal que lo juzgue adquiera la convicción más allá de toda duda razonable de que el acusado es responsable de la comisión del hecho por el que se siguió el juicio. La duda deberá ser explicada
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Nadie podrá ser declarado culpable por algún delito, sino cuando el tribunal que lo juzgue adquiera la convicción más allá de toda duda razonable de que el acusado es responsable de la comisión del hecho por el que se siguió el juicio. La duda deberá ser explicada.
 
 El tribunal formará su convicción sobre la base de la prueba producida durante el juicio oral.
 
-Cuando se trate de un Tribunal Colegiado y se declare la culpabilidad del acusado, la decisión deberá ser unánime o por mayoría de votos. En el caso de que un juez o magistrado no esté de acuerdo con la decisión adoptada por la mayoría, extenderá y firmará su voto particular. Salvo lo previsto en el artículo 347 de este Código, si resulta aplicable
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Cuando se trate de un Tribunal Colegiado y se declare la culpabilidad del acusado, la decisión deberá ser unánime o por mayoría de votos. En el caso de que un juez o magistrado no esté de acuerdo con la decisión adoptada por la mayoría, extenderá y firmará su voto particular. Salvo lo previsto en el artículo 347 de este Código, si resulta aplicable.
 
 No se podrá declarar culpable a una persona con el solo mérito de su propia declaración.
 
@@ -4075,7 +4769,11 @@ II. La enunciación de los hechos y de las circunstancias o elementos que hayan 
 
 III. Una breve y sucinta descripción del contenido de la prueba rendida en la audiencia de juicio oral, antes de proceder a su valoración;
 
-IV. La enunciación breve de los hechos y circunstancias, objeto de la acusación; en su caso, los daños y perjuicios reclamados, la pretensión de reparación del daño y las defensas del acusado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+IV. En su caso, los daños y perjuicios reclamados, la pretensión de reparación del daño y las defensas del acusado;
 
 V. La exposición clara, lógica y completa de cada uno de los hechos y circunstancias que se consideren probados y de la valoración de los medios de prueba que fundamenten dichas conclusiones;
 
@@ -4137,7 +4835,11 @@ La fecha de la audiencia de individualización de las sanciones y reparación de
 
 Comparecencia de las partes a la audiencia de individualización de sanciones.
 
-A la audiencia deberán concurrir el Ministerio Público, el acusador coadyuvante en su caso, el sentenciado y su defensor. La víctima u ofendido podrá comparecer por sí o por medio de su representante o apoderado legal, sin embargo, la audiencia no se suspenderá en caso de que omitan comparecer personalmente o por medio de apoderado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+A la audiencia deberán concurrir el Ministerio Público, el acusador coadyuvante en su caso, el sentenciado y su defensor. La víctima u ofendido podrá comparecer por sí o por medio de su representante o apoderado legal, sin embargo, la audiencia no se suspenderá en caso de que omita comparecer personalmente o por medio de apoderado.
 
 ###### Artículo 405.
 
@@ -4147,19 +4849,31 @@ Abierta la audiencia, se le dará el uso de la palabra al Ministerio Público pa
 
 Enseguida, se le dará el uso de la palabra a la víctima u ofendido para que señale lo que considere conveniente respecto a los citados temas. Posteriormente, la defensa del acusado expondrá los argumentos que funden sus peticiones y los que considere conveniente apuntar, con relación a lo expuesto por el Ministerio Público y la víctima u ofendido.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 406.
 
-Desahogo de pruebas.
+Desahogo de medios de prueba.
 
-Expuestos los alegatos iniciales de las partes, se procederá al desahogo de las pruebas debidamente admitidas, empezando por las del Ministerio Público, después las de la víctima u ofendido y concluyendo con las de la defensa. En el desahogo de los medios de prueba serán aplicables las normas relativas al juicio oral.
+Expuestos los alegatos iniciales de las partes, se procederá al desahogo de los medios de prueba debidamente admitidas, empezando por las del Ministerio Público, después las de la víctima u ofendido y concluyendo con las de la defensa. En el desahogo de los medios de prueba serán aplicables las normas relativas al juicio oral.
 
 ###### Artículo 407.
 
 Alegatos finales y lectura de sentencia.
 
-Desahogadas las pruebas, las partes harán sus alegatos finales. Después de deliberar brevemente, el tribunal procederá a manifestarse con respecto a la sanción a imponer al sentenciado y sobre la existencia del daño causado a la víctima u ofendido y su reparación, así como los términos y condiciones en que se realizará, aún en la etapa de ejecución de sentencia, si es el caso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Asimismo, fijará las penas y se pronunciará sobre la eventual aplicación de alguna de las medidas alternativas a la pena de prisión o sobre su suspensión e indicará en que forma deberá, en su caso, repararse el daño. A continuación, el tribunal procederá a dar lectura íntegra de la sentencia condenatoria.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Desahogados los medios de prueba, las partes harán sus alegatos finales. Después de deliberar brevemente, el tribunal procederá a manifestarse con respecto a la sanción a imponer al sentenciado y sobre la existencia del daño causado a la víctima u ofendido y su reparación, así como los términos y condiciones en que se realizará, aún en la etapa de ejecución de sentencia, si es el caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Asimismo, se pronunciará sobre la eventual aplicación de alguna de las medidas sustitutivas de la pena de prisión o sobre su suspensión e indicará en que forma deberá, en su caso, repararse el daño. A continuación, el tribunal procederá a dar lectura íntegra de la sentencia condenatoria.
 
 El Tribunal tendrá la facultad de realizar una lectura resumida, si sólo han concurrido las partes. Y procederá a realizar la explicación correspondiente.
 
@@ -4185,11 +4899,23 @@ El procedimiento comenzará por la interposición de la querella o denuncia, por
 
 En lo conducente, se aplicarán las reglas establecidas en este Código, relativas a la etapa de investigación e intermedia.
 
-En la audiencia respectiva, el Juez de Control hará un examen de la acusación privada con el objeto de determinar si se encuentran acreditados los elementos probatorios que establezcan el hecho tipificado como delito y la probabilidad de que el imputado lo cometió o participó en él. En caso de que considere que no ha lugar a proseguir la acción privada porque no se reúnen los requisitos anteriores, dicha resolución será apelable.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si el caso llega hasta la presentación de la acusación, ello se hará ante el Tribunal de Juicio Oral, quién fijará audiencia, a fin de que el acusado en el plazo de cinco días, manifieste lo que considere conveniente en su defensa, ofrezca los medios de prueba conforme a las reglas comunes previstas para la audiencia intermedia y oponga las excepciones y recusaciones que estime adecuadas. Cuando se haya ejercido la acción civil, en esa misma oportunidad se le dará traslado.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-Como requisito indispensable el acusador privado deberá contar con la asistencia de un licenciado en derecho autorizado en términos de la ley respectiva.
+En la audiencia respectiva, el Juez de Control hará un examen de la acusación privada con el objeto de determinar si se desprenden datos que establezcan que se ha cometido un hecho tipificado como delito y la probabilidad de que el imputado lo cometió o participó en él. En caso de que considere que no ha lugar a proseguir la acción privada porque no se reúnen los requisitos anteriores, la parte legitimada podrá apelar.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si el caso llega hasta la presentación de la acusación, ello se hará ante el Tribunal de Juicio Oral, quien fijará audiencia, a fin de que el acusado en el plazo de cinco días, manifieste lo que considere conveniente en su defensa, ofrezca los medios de prueba conforme a las reglas comunes previstas para la audiencia intermedia y oponga las excepciones y recusaciones que estime adecuadas. Cuando se haya ejercido la acción civil, en esa misma oportunidad se le dará traslado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Como requisito indispensable el acusador privado deberá contar con la asistencia de un licenciado en derecho o su equivalente autorizado en términos de la ley respectiva.
 
 La víctima u ofendido y el acusado, podrán comparecer a la audiencia en forma personal o representados por mandatario con facultades suficientes para transigir, pero el acusado deberá designar defensor para que lo asista. Sin perjuicio de ello, deberán concurrir en forma personal, cuando el tribunal así lo ordene.
 
@@ -4221,7 +4947,11 @@ El acusador privado podrá desistirse expresamente en cualquier estado del juici
 
 Se tendrá por desistida la acción privada, por decisión del tribunal y el acusador privado igualmente quedará sujeto a responsabilidad pecuniaria:
 
-I. Si el procedimiento se paraliza durante un mes por inactividad del acusador privado o su mandatario y éstos no lo activan dentro del tercer día de habérseles notificado la resolución, que se dictará aun de oficio, en la que se les instará a continuar el procedimiento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+I. Si el procedimiento se paraliza durante un mes por inactividad del acusador privado o su mandatario y éstos no lo activan dentro del tercer día de habérseles notificado la resolución, que se dictará aún de oficio, en la que se les instará a continuar el procedimiento;
 
 II. Cuando el acusador privado o su mandatario no concurran, sin justa causa, a la audiencia para la adopción de acuerdos previstos en el capítulo de justicia restaurativa, en su caso;
 
@@ -4229,7 +4959,11 @@ III. Cuando el acusador privado o su mandatario no concurran, sin justa causa, a
 
 IV. En el caso de deceso o declarada la incapacidad del acusador privado, no comparezca ninguno de sus herederos o representantes legales a proseguir la acción, después de tres meses de ocurrida la muerte o incapacidad.
 
-En los casos de incomparecencia justificada, ésta deberá acreditarse antes de la iniciación de la audiencia, si es posible o, en caso contrario, dentro de cuarenta y ocho horas de la fecha fijada para aquella.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+En los casos de incomparecencia justificada, ésta deberá acreditarse antes de la iniciación de la audiencia, si es posible o, en caso contrario, dentro de cuarenta y ocho horas de la fecha fijada para aquélla.
 
 ###### Artículo 414.
 
@@ -4245,9 +4979,13 @@ Audiencia de acuerdos.
 
 Antes de la realización de la audiencia de juicio oral, se deberá citar con la debida oportunidad a las partes para la celebración de una audiencia, con el objeto de lograr acuerdos mediante la aplicación de cualquiera de los mecanismos previstos en el capítulo de justicia restaurativa. Se seguirán las mismas reglas previstas en este Código para este tipo de procedimientos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO EN SU RUBRO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 416.
 
-Conciliación y retractación.
+Conciliación.
 
 Cuando las partes alcancen un acuerdo en la audiencia o en cualquier estado del juicio, se sobreseerá la causa y los gastos procesales respectivos estarán a cargo de cada una de ellas, salvo que convengan lo contrario.
 
@@ -4255,7 +4993,11 @@ Cuando las partes alcancen un acuerdo en la audiencia o en cualquier estado del 
 
 Procedimiento posterior.
 
-Si el acusado no concurre a la audiencia de acuerdos o no se produce ésta o la retractación, el tribunal convocará a juicio conforme a lo establecido por este Código y aplicará las reglas del procedimiento ordinario.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si el acusado no concurre a la audiencia de acuerdos sin causa justificada o no se produce ningún acuerdo, el tribunal convocará a juicio conforme a lo establecido por este Código y aplicará las reglas del procedimiento ordinario.
 
 ### CAPÍTULO III. PROCEDIMIENTO ABREVIADO
 
@@ -4265,11 +5007,11 @@ Procedencia.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-El procedimiento abreviado se tramitará a solicitud del Ministerio Público o del imputado, cuando éste admita ante la autoridad judicial el hecho que se le atribuye en el escrito de acusación, consienta en la aplicación de este procedimiento y el Ministerio Público o el acusador coadyuvante, en su caso, no presente oposición fundada.
+El procedimiento abreviado se tramitará a solicitud del Ministerio Público o del acusado, cuando éste admita ante la autoridad judicial el hecho que se le atribuye en el escrito de acusación, consienta en la aplicación de este procedimiento y el Ministerio Público o el acusador coadyuvante, en su caso, no presente oposición fundada.
 
-Se entiende por oposición fundada, entre otras, cuando el querellante o denunciante se opone al procedimiento abreviado, en virtud de que haya efectuado una clasificación jurídica de los hechos; atribuido una forma de participación o señalado circunstancias modificatorias de la responsabilidad penal distintas a la sostenida por el Ministerio Público en su acusación y como consecuencia de ello haya una modificación sustancial de la pena. Aún en estos casos, el juez podrá apartarse de dicha solicitud mediante resolución debidamente motivada.
+Se entiende por oposición fundada, entre otras, cuando el querellante o denunciante se opone al procedimiento abreviado, en virtud de que haya efectuado una clasificación jurídica de los hechos, atribuido una forma de participación o señalado circunstancias modificatorias de la responsabilidad penal distintas a la sostenida por el Ministerio Público en su acusación y como consecuencia de ello haya una modificación sustancial de la pena. Aún en estos casos, el juez podrá apartarse de dicha solicitud mediante resolución debidamente motivada.
 
 La existencia de coimputados no impide la aplicación de estas reglas a alguno de ellos. Se escuchará a la víctima u ofendido, a pesar de que no se haya constituido como acusador coadyuvante, y sus manifestaciones serán tomadas en cuenta por el tribunal, el que podrá apartarse de las mismas en forma fundada y motivada. La incomparecencia injustificada de la víctima u ofendido a la audiencia no impedirá que se resuelva sobre la apertura del procedimiento abreviado y, en su caso, se dicte la sentencia respectiva.
 
@@ -4291,7 +5033,11 @@ Antes de resolver sobre la solicitud del Ministerio Público, el juez verificar�
 
 I. Ha prestado su conformidad al procedimiento abreviado en forma libre, voluntaria e informada y con la asistencia de su defensor;
 
-II. Conoce su derecho a exigir un juicio oral y renuncie voluntariamente a él y acepta ser juzgado con base en los antecedentes recabados en la investigación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+II. Conoce su derecho a exigir un juicio oral, que renuncie voluntariamente a él y acepte ser juzgado con base en los antecedentes recabados en la investigación;
 
 III. Entiende los términos del acuerdo y las consecuencias que éste pudiera implicarle; y
 
@@ -4301,7 +5047,11 @@ IV. Acepta los hechos materia de la acusación en forma inequívoca y de manera 
 
 Resolución sobre la solicitud de procedimiento abreviado.
 
-El Juez de Control aceptará la solicitud de procedimiento abreviado del Ministerio Público o imputado cuando considere actualizados los requisitos correspondientes y existan medios de convicción suficientes para corroborar la imputación. En caso contrario, la rechazará. En este último supuesto, el requerimiento anterior sobre la pena no vinculará al Ministerio Público durante el juicio; se tendrán por no formuladas la aceptación de los hechos por parte del acusado, así como las modificaciones de la acusación efectuadas para posibilitar la tramitación abreviada del procedimiento. De la misma forma, el Juez de Control dispondrá que todos los antecedentes relativos al planteamiento, discusión y resolución de la solicitud, no podrán ser utilizados en etapas posteriores del procedimiento en contra del acusado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El Juez de Control aceptará la solicitud de procedimiento abreviado del Ministerio Público o imputado cuando considere actualizados los requisitos correspondientes y existan medios de convicción suficientes para corroborar la acusación. En caso contrario, la rechazará. En este último supuesto, el requerimiento anterior sobre la pena no vinculará al Ministerio Público durante el juicio, se tendrán por no formuladas la aceptación de los hechos por parte del acusado, así como las modificaciones de la acusación efectuadas para posibilitar la tramitación abreviada del procedimiento. De la misma forma, el Juez de Control dispondrá que todos los antecedentes relativos al planteamiento, discusión y resolución de la solicitud, no podrán ser utilizados en etapas posteriores del procedimiento en contra del acusado.
 
 ###### Artículo 422.
 
@@ -4315,7 +5065,11 @@ Sentencia en el procedimiento abreviado.
 
 Terminado el debate, el juez emitirá su fallo sobre la culpabilidad o absolución en la misma audiencia y deberá dar lectura pública a la sentencia, dentro de un plazo de cuarenta y ocho horas. En caso de ser sentencia de culpabilidad, no podrá imponer una pena superior a la solicitada por el Ministerio Público. Y en su caso, abrirá debate sobre la concesión de la condena condicional y se pronunciará sobre la misma.
 
-Cuando la prueba producida no permita establecer con certeza el monto de los daños y perjuicios o de las indemnizaciones correspondientes, el tribunal podrá establecer genéricamente la reparación del daño y los perjuicios y ordenar que se liquiden en ejecución de sentencia por vía incidental, siempre que estos se hayan demostrado, así como su deber de repararlos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Cuando la prueba producida no permita establecer con certeza el monto de los daños y perjuicios o de las indemnizaciones correspondientes, el tribunal podrá establecer genéricamente la reparación del daño y los perjuicios y ordenar que se liquiden en ejecución de sentencia por vía incidental, siempre que éstos se hayan demostrado, así como su deber de repararlos.
 
 En ningún caso el procedimiento abreviado obstará a la concesión de alguna de las medidas alternativas consideradas en la ley, cuando corresponda.
 
@@ -4331,7 +5085,11 @@ Si el supuesto previsto en el párrafo primero se actualiza durante el juicio, i
 
 Las partes tendrán derecho a presentar sus peritajes en el plazo señalado en el párrafo anterior.
 
-De acreditarse el estado de inimputabilidad, se ordenará abrir el procedimiento especial, cuyo objeto exclusivo será decidir sobre la procedencia de la aplicación de medidas de seguridad, cuando se considere que el acusado constituye un riesgo fundado para la sociedad o para si mismo. El procedimiento especial se seguirá conforme a las siguientes reglas:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+De acreditarse el estado de inimputabilidad, se ordenará abrir el procedimiento especial, cuyo objeto exclusivo será decidir sobre la procedencia de la aplicación de medidas de seguridad, cuando se considere que el acusado constituye un riesgo fundado para la sociedad o para sí mismo. El procedimiento especial se seguirá conforme a las siguientes reglas:
 
 I. Las pruebas desahogadas sólo se valorarán en función de la existencia del hecho delictuoso y la participación o intervención del inimputable en su comisión, prescindiendo de toda valoración crítica de su conducta;
 
@@ -4403,13 +5161,21 @@ Ejercicio de la acción civil.
 
 Independientemente de lo dispuesto en este Código para la reparación del daño, la acción civil para restituir el objeto materia del hecho punible, así como la reparación de los daños y perjuicios causados, podrá ser ejercida en contra del tercero civilmente responsable, por la víctima u ofendido, sus herederos, sus legatarios, el beneficiario en el caso de pretensiones personales o por la Procuraduría General de Justicia del Estado en los casos que sea procedente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO EN SU RUBRO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 431.
 
-Requisitos del escrito inicial. Aplicación de mecanismos de justicia restaurativa.
+Requisitos del escrito inicial. Aplicación de mecanismos alternativos de solución de controversias.
 
 El escrito en que se presente el actor civil contendrá, los hechos en que se funda y la causa de pedir. Serán aplicables, en lo conducente las reglas de la denuncia o querella establecidas en el presente Código.
 
-Tanto el Ministerio Público, como los juzgadores invitarán a las partes a hacer uso de cualquiera de los mecanismos previstos en el capítulo de justicia restaurativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Tanto el Ministerio Público, como los juzgadores invitarán a las partes a hacer uso de cualquiera de los instrumentos previstos en el capítulo de mecanismos alternativos de solución de controversias.
 
 ###### Artículo 432.
 
@@ -4447,7 +5213,11 @@ II. Presentar el escrito de acusación;
 
 III. La audiencia intermedia, y
 
-IV. La audiencia de debate del juicio oral, se aleje de la audiencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+IV. La audiencia de debate del juicio oral o concurriendo se retire de ella.
 
 En los casos de incomparecencia la justificación deberá acreditarse, de ser posible, antes de la audiencia o, en su defecto, hasta el momento de su inicio.
 
@@ -4547,7 +5317,11 @@ Recurso de la víctima u ofendido.
 
 La víctima o el ofendido en su caso, aunque no se haya constituido en acusador coadyuvante, en los casos autorizados por este Código, podrán recurrir las decisiones que versen sobre el no ejercicio de la acción penal, el sobreseimiento de la causa o en aquéllas que afecten su derecho a la reparación del daño.
 
-En el caso de las decisiones que se producen en la fase de debate de juicio oral, sólo las podrá recurrir si se constituyó en acusador coadyuvante. Con excepción de las decisiones a que se refiere el párrafo anterior en cuanto al no ejercicio de la acción penal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+En el caso de las decisiones que se producen en la fase de debate de juicio oral, sólo las podrá recurrir si se constituyó en acusador coadyuvante con excepción de la decisión a que se refiere el párrafo anterior en cuanto al no ejercicio de la acción penal.
 
 El acusador privado puede recurrir, además, aquellas decisiones que le causen perjuicio, con independencia del Ministerio Público.
 
@@ -4603,17 +5377,25 @@ Cuando la resolución sólo sea impugnada por el imputado o sentenciado o su def
 
 Rectificación de errores en la citación del articulado y cuestiones formales.
 
-Los errores en la citación de los artículos que se refieren a la fundamentación de la sentencia o resolución impugnadas, que no hayan influido en la parte resolutiva, así como los errores de forma en la designación o el cómputo de las penas, no anularán la resolución, pero serán corregidos en cuanto sean advertidos o señalados por alguna de las partes procesales, o aun de oficio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Los errores en la citación de los artículos que se refieren a la fundamentación de la sentencia o resolución impugnadas, que no hayan influido en la parte resolutiva, así como los errores de forma en la designación o el cómputo de las penas, no anularán la resolución, pero serán corregidos en cuanto sean advertidos o señalados por alguna de las partes procesales, o aún de oficio.
 
 ### CAPÍTULO II. RECURSO DE REVOCACIÓN
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 455.
 
 Procedencia y efecto.
 
-El recurso de revocación procederá solamente contra las resoluciones de mero trámite, a fin de que el mismo juzgador que las dictó examine nuevamente la cuestión y para el efecto de que modifique o deje sin efecto y dicte la resolución que corresponda.
+El recurso de revocación procederá solamente contra las resoluciones de mero trámite, a fin de que el mismo juzgador que las dictó examine nuevamente la cuestión y para el efecto de que confirme, modifique o deje sin efecto y dicte la resolución que corresponda.
 
-En la interposición del recurso de revocación no se admitirá efecto suspensivo, salvo cuando proceda la apelación en ese efecto.
+En la interposición del recurso de revocación no se admitirá efecto suspensivo.
 
 ###### Artículo 456.
 
@@ -4641,7 +5423,11 @@ I. Las que pongan término al procedimiento o hagan imposible su prosecución, o
 
 II. Las que se pronuncien sobre las medidas cautelares;
 
-III. Los incidentes a que se refiere el artículo 327 fracciones I a IV;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+III. Los incidentes a que se refiere el artículo 327 fracciones I a IV de ese Código;
 
 IV. Las que conceden, nieguen o revoquen la suspensión del proceso a prueba;
 
@@ -4659,6 +5445,12 @@ X. Las que nieguen la posibilidad de celebrar acuerdos; y
 
 XI. Las demás que este Código señale.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+También serán apelables las resoluciones emitidas por los jueces de ejecución respecto a la situación jurídica de los sentenciados.
+
 ###### Artículo 459.
 
 Interposición.
@@ -4673,7 +5465,11 @@ Cuando el tribunal competente para conocer de la apelación tenga su sede en un 
 
 Emplazamiento.
 
-Presentado el recurso, el juez ordenará emplazar a las partes procesales para que comparezcan ante la Sala de Apelación y remitirá la resolución y copia certificada de los registros de las actuaciones judiciales pertinentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Presentado el recurso, el juez emplazará a las otras partes procesales para que comparezcan a contestarlo en el plazo de tres días y remitirá la resolución y copia certificada de los registros de las actuaciones judiciales pertinentes.
 
 Si se producen adhesiones durante el emplazamiento, correrá traslado a las otras partes procesales para que contesten la adhesión en un plazo igual. Integrado el recurso, se remitirán las actuaciones a la Sala de Apelación para que resuelva.
 
@@ -4723,19 +5519,23 @@ La interposición del recurso de casación suspende los efectos de la sentencia 
 
 Interpuesto el recurso, no podrán invocarse nuevas causales de nulidad; sin embargo, el tribunal podrá hacer valer y reparar de oficio, a favor del sentenciado, las violaciones a sus derechos fundamentales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 466.
 
 Inadmisibilidad del recurso.
 
-El tribunal competente para conocer del recurso de casación lo declarará inadmisible cuando:
+El tribunal competente para conocer del recurso de casación lo declarará inadmisible cuando se interponga:
 
-I. Haya sido interpuesto fuera del plazo;
+I. Fuera del plazo;
 
-II. Se haya deducido en contra de una resolución que no sea impugnable por medio de este recurso;
+II. En contra de una resolución que no sea impugnable por medio de este recurso;
 
-III. Lo interponga persona no legitimada para ello; o
+III. Por persona no legitimada para ello; o
 
-IV. El escrito de interposición carezca de agravios o peticiones concretas.
+IV. Sin expresión de agravios o peticiones concretas.
 
 ###### Artículo 467.
 
@@ -4793,15 +5593,27 @@ Se interpone ante el propio tribunal de juicio oral y el trámite respectivo lo 
 
 Medios de prueba.
 
-Podrá ofrecerse prueba cuando el recurso se fundamente en la inobservancia de las reglas en que fue llevado a cabo un acto procesal, en contraposición a lo señalado en las actuaciones, en el acta o registros del debate o en la sentencia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-También es admisible la prueba propuesta por el sentenciado o en su favor, incluso relacionada con la determinación de los hechos que se discuten, cuando:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Podrá ofrecerse medios de prueba cuando el recurso se fundamente en la inobservancia de las reglas en que fue llevado a cabo un acto procesal, en contraposición a lo señalado en las actuaciones, en el acta o registros del debate o en la sentencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+También son admisibles los medios de prueba propuestos por el sentenciado o en su favor, incluso relacionados con la determinación de los hechos que se discuten, cuando:
 
 I. Sea indispensable para sustentar el agravio que se formula; o
 
 II. Se actualicen los supuestos del recurso de revisión.
 
-El Ministerio Público o el acusador coadyuvante, podrán ofrecer prueba esencial para resolver el fondo del reclamo, sólo cuando tenga el carácter de superveniente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El Ministerio Público o el acusador coadyuvante, podrán ofrecer medios de prueba esenciales para resolver el fondo del reclamo, sólo cuando tenga el carácter de superveniente.
 
 Cuando se haya recibido prueba oral, los Magistrados integrantes de la Sala de Casación que la hayan recibido deberán integrar el tribunal al momento de la decisión final.
 
@@ -4815,13 +5627,21 @@ Si el tribunal de casación decreta procedente anular total o parcialmente la re
 
 Cuando la anulación sea parcial, se indicará el objeto concreto del nuevo juicio o resolución. En los demás casos, enmendará el defecto y resolverá el asunto de acuerdo con la ley aplicable.
 
-Si por efecto de la resolución del recurso deba cesar a prisión del sentenciado, el tribunal de casación ordenará directamente la libertad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si por efecto de la resolución del recurso deba cesar la prisión del sentenciado, el tribunal de casación ordenará directamente la libertad.
 
 ###### Artículo 473.
 
 Improcedencia para recurrir la sentencia de casación.
 
-La resolución que recaiga al recurso de casación, no será susceptible de recurso alguno, sin perjuicio del recurso de Revisión contra la sentencia condenatoria firme de que se trata en este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La resolución que recaiga al recurso de casación, no será susceptible de recurso alguno, sin perjuicio del recurso de revisión contra la sentencia condenatoria firme de que se trata en este Código.
 
 Tampoco será susceptible de recurso alguno la sentencia que se dicte en el nuevo juicio que se realice, como consecuencia de la resolución que haya acogido el recurso de casación. No obstante, si la sentencia fuera condenatoria y la que se hubiera anulado sea absolutoria, procederá el recurso de casación en favor del acusado, conforme a las reglas generales.
 
@@ -4883,7 +5703,11 @@ El tribunal competente podrá anular la sentencia, remitiendo a nuevo juicio cua
 
 Restitución.
 
-Cuando resulte la anulación o la sentencia sea absolutoria, se proveerá de oficio a la indemnización del sentenciado; se restituirá la pena pecuniaria y los objetos decomisados o su valor, siempre que sea posible, salvo que la anulación se base en lo señalado en la fracción IV del artículo 474.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Cuando resulte la anulación o la sentencia sea absolutoria, se proveerá de oficio a la indemnización del sentenciado; se restituirá la pena pecuniaria y los objetos decomisados o su valor, siempre que sea posible, salvo que la anulación se base en lo señalado en la fracción IV del artículo 474 de este Código.
 
 ###### Artículo 480.
 
@@ -4919,9 +5743,17 @@ El juez o Tribunal será competente para realizar la primera fijación de la pen
 
 Audiencias de ejecución de sentencia.
 
-El Ministerio Público, la parte coadyuvante, si la hay, el sentenciado y su defensor podrán plantear, ante el juez competente para la ejecución de la pena, incidentes relativos a la ejecución, sustitución, modificación o extinción de la pena o de las medidas de seguridad. Estos deberán ser resueltos dentro del término de cinco días, previo traslado a los interesados. Si fuera necesario incorporar elementos de prueba, el juez, aun de oficio, ordenará una investigación sumaria, después de la cual decidirá.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Todas las peticiones o planteamientos de las partes relativos a la revocación de cualquier beneficio concedido a los sentenciados por una autoridad judicial y en aquellos casos en que deba resolverse sobre libertad anticipada, libertad preparatoria, remisión parcial de la pena, libertad definitiva y todas aquellas peticiones que por su naturaleza o importancia requieran debate o producción de prueba, deberán necesariamente resolverse en audiencia oral por el Juez de Ejecución de Sentencia.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El Ministerio Público, la parte coadyuvante, si la hay, el sentenciado y su defensor podrán plantear, ante el juez competente para la ejecución de la pena, incidentes relativos a la ejecución, sustitución, modificación o extinción de la pena o de las medidas de seguridad. Estos deberán ser resueltos dentro del término de cinco días, previo traslado a los interesados. Si fuera necesario incorporar elementos de prueba, el juez, aún de oficio, ordenará una investigación sumaria, después de la cual decidirá.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Todas las peticiones o planteamientos de las partes relativos a la revocación de cualquier beneficio concedido a los sentenciados por una autoridad judicial y en aquellos casos en que deba resolverse sobre tratamiento preliberacional, libertad preparatoria, remisión parcial de la pena, libertad definitiva y todas aquellas peticiones que por su naturaleza o importancia requieran debate o producción de prueba, deberán necesariamente resolverse en audiencia oral por el Juez de Ejecución de Sentencia.
 
 Las reglas para llevar a cabo la audiencia precedente se fijarán en la ley respectiva.
 
@@ -4983,7 +5815,11 @@ Cómputo definitivo.
 
 El juez o Tribunal, en la sentencia respectiva deberá hacer el cómputo de la pena y abonará el tiempo de la prisión preventiva y el arresto domiciliario cumplidos por el sentenciado, para determinar con precisión la fecha en la que finalizará la condena.
 
-El cómputo será siempre reformable, aun de oficio por el Juez de Ejecución de Sentencia, si se comprueba un error o cuando nuevas circunstancias lo tornen necesario.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El cómputo será siempre reformable, aún de oficio por el Juez de Ejecución de Sentencia, si se comprueba un error o cuando nuevas circunstancias lo tornen necesario.
 
 La fecha del vencimiento de la pena se comunicará inmediatamente al sentenciado.
 
@@ -5031,13 +5867,21 @@ Multa.
 
 Si el sentenciado no paga la multa dentro del plazo que fija la sentencia, será citado para que indique si opta por sustituir la multa por trabajo en favor de la comunidad, solicitar plazo para pagarla o entregar bienes suficientes que alcancen a cubrirla. El juez podrá autorizar el pago en parcialidades.
 
-Si es necesario, el juez procederá al embargo y a la venta pública de los bienes embargados, conforme al Código Procesal Civil o hará efectivas las cauciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Si es necesario, el juez procederá al embargo y a la venta pública de los bienes embargados, conforme al Código de Procedimientos Civiles del Estado de Durango o hará efectivas las cauciones.
 
 ###### Artículo 495.
 
 Trámite del indulto.
 
-El Ejecutivo del Estado de conformidad con la ley de la materia remitirá al Tribunal Superior de Justicia copia auténtica de la disposición por la cual decide un indulto, o en su caso, la reducción de la pena privativa de libertad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El Ejecutivo del Estado de conformidad con la ley de la materia remitirá al Tribunal Superior de Justicia copia auténtica de la disposición por la cual decide un indulto.
 
 Recibida la comunicación, el Tribunal Superior de Justicia remitirá la decisión del Ejecutivo al Juez de Ejecución quien ordenará inmediatamente la libertad.
 
@@ -5065,9 +5909,17 @@ El Juez de Ejecución podrá suspender el cumplimiento de la pena privativa de l
 
 I. Cuando deba cumplirla una mujer en estado avanzado de embarazo o con hijo menor de seis meses de edad, siempre que la privación de libertad ponga en peligro la vida, la salud o la integridad psíquica o física de la madre, el concebido o el hijo; o
 
-II. Si el sentenciado se encuentra gravemente enfermo y la ejecución de la pena pone en peligro su vida, según dictamen médico autorizado.° (sic)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III. Cuando cesen estas condiciones, la sentencia continuará ejecutándose.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+II. Si el sentenciado se encuentra gravemente enfermo y la ejecución de la pena pone en peligro su vida, según dictamen médico autorizado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Cuando cesen estas condiciones, la sentencia continuará ejecutándose.
 
 ###### Artículo 499.
 
@@ -5107,49 +5959,99 @@ Si se suscita controversia sobre la restitución o su forma, se dispondrá que l
 
 T R A N S I T O R I O S
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 Artículo Primero.- Vigencia.
 
-La entrada en vigor del Código Procesal Penal del Estado de Durango contenido en el presente decreto entrará en vigor, de manera sucesiva, según las siguientes prevenciones:
+El Código Procesal Penal del Estado de Durango contenido en el presente decreto entrará en vigor, de manera sucesiva, según las siguientes prevenciones:
 
-I. Sus disposiciones se aplicarán a más tardar el 31 de Diciembre de 2009, en el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Durango, Dgo. En caso de que entrara en vigor antes de la fecha señalada, se atenderá el procedimiento que señala la fracción siguiente de este artículo;
+I. Sus disposiciones se aplicarán a más tardar el 31 de Diciembre de 2009, en el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Victoria de Durango, Dgo. En caso de que entrara en vigor antes de la fecha señalada, se atenderá el procedimiento que señala la fracción siguiente de este artículo;
 
 II. En el resto de los Distritos Judiciales o Regiones, sus disposiciones se aplicarán en la fecha que contenga la Declaratoria respectiva que deberá ser emitida por el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado. La Declaratoria deberá ser publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango;
 
-III. En caso de contar durante el Ejercicio Fiscal 2009, con la suficiencia presupuestal para su implementación, el Sistema Penal Acusatorio podrá aplicarse en uno o más de los Distrito Judiciales o Regiones atendiendo la prevención contenida en la fracción II del presente artículo; y
+III. En caso de contar durante el Ejercicio Fiscal 2009, con la suficiencia presupuestal para su implementación, el Sistema Penal Acusatorio podrá aplicarse en uno o más de los Distrito (sic) Judiciales o Regiones atendiendo la prevención contenida en la fracción II del presente artículo; y
 
 IV. En ningún caso las disposiciones de este Código Procesal Penal del Estado de Durango en la totalidad de los Distritos Judiciales o Regiones de la Entidad podrá exceder el plazo establecido en el artículo segundo transitorio del decreto por el cual se reforma la Constitución Política de los Estados Unidos Mexicanos en materia penal y de seguridad pública, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008.
 
+Para el Sistema Integral de Justicia para Menores Infractores, el presente ordenamiento entrará en vigor en todo el territorio del Estado, en la fecha que determine la declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 Artículo Segundo.- Abrogación y derogación.
 
-En los plazos de entrada en vigor de este Código, se abrogará el Código de Procedimientos Penales publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha treinta de enero de mil novecientos noventa y dos y sus reformas; asimismo, se deroga cualquier disposición que se oponga a lo preceptuado en este ordenamiento.
+El Código de Procedimientos Penales para el Estado de Durango, expedido mediante decreto, N° 278 de fecha 12 de noviembre de 1991, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 9 bis del 30 de enero de 1992 y sus reformas posteriores, se abrogará en la fecha y ámbito espacial y temporal de validez en que determine la declaratoria a que alude el artículo primero transitorio del presente decreto, conforme a las siguientes prevenciones:
+
+I.- En el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Durango, Dgo, el Código referido con antelación, seguirá rigiendo, en los procedimientos por delitos cometidos con anterioridad a la entrada en vigor del presente Código Procesal Penal del Estado de Durango, y quedará abrogado cuando el último de los procedimientos tramitados conforme al primero, haya causado ejecutoria;
+
+II.- En el resto de los Distritos Judiciales o Regiones, sus disposiciones seguirán aplicándose hasta la fecha y en los términos que contengan las declaratorias respectivas que emitirán el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, y que se publicarán en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Tercero.- Aplicación de este Código.
 
-Las disposiciones de este Código sólo se aplicarán a los hechos acaecidos con posterioridad a su entrada en vigencia, por lo tanto, el Código de Procedimientos Penales publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha treinta de enero de mil novecientos noventa y dos y sus reformas, se aplicará para investigar y juzgar los delitos cometidos durante la vigencia del mismo.
+El presente Código, se aplicará en las fechas y ámbitos espaciales y temporales de validez que determinen las declaratorias a que alude el artículo primero transitorio del presente decreto; y sus disposiciones sólo se aplicarán a los procedimientos por delitos cometidos a partir de su entrada en vigor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Cuarto.- Delitos permanentes y continuados.
 
-Los delitos permanentes y continuados que inicien su Comisión en la vigencia del Código de Procedimientos Penales publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha treinta de enero de mil novecientos noventa y dos, se investigarán y juzgarán conforme a dicho ordenamiento, aun cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
+Los delitos permanentes y continuados que inicien su comisión en la vigencia del Código de Procedimientos Penales publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha treinta de enero de mil novecientos noventa y dos, se investigarán y juzgarán conforme a dicho ordenamiento, aun cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Quinto.- Prohibición de acumulación de procesos.
 
-No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al abrogado.
+No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y el otro hecho delictuoso esté sometido al Código de Procedimientos Penales para el Estado de Durango, expedido mediante decreto, N° 278 de fecha 12 de noviembre de 1991, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 9 bis del 30 de enero de 1992 y sus reformas posteriores.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Sexto.- Eficacia Retroactiva.
 
-Ninguna norma del presente ordenamiento se podrá aplicar a los procesos que deban continuar tramitándose conforme al Código de Procedimientos Penales para el Estado de Durango publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha treinta de enero de mil novecientos noventa y dos y sus reformas, salvo lo que se dispone a continuación: A) La facultad de archivo y la aplicación de los criterios de oportunidad en el ejercicio de la acción penal, excepto cuando se trate de los delitos de asociación delictuosa y los calificados como graves, B) Los acuerdos previstos en el capítulo de justicia restaurativa y la suspensión del proceso a prueba, C) El procedimiento abreviado y D) El recurso de revisión.
+Ninguna norma del presente ordenamiento se podrá aplicar a los procesos que deban continuar tramitándose conforme al Código de Procedimientos Penales para el Estado de (sic)
+
+(sic) Durango publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha treinta de enero de mil novecientos noventa y dos y sus reformas, salvo lo que se dispone a continuación:
+
+I.- La facultad de archivo y la aplicación de los criterios de oportunidad en el ejercicio de la acción penal, excepto cuando se trate de los delitos de asociación delictuosa y los calificados como graves;
+
+II.- Los convenios que se generen por los acuerdos, previstos en el capítulo de justicia restaurativa y la suspensión del proceso a prueba;
+
+III.- El procedimiento abreviado, y
+
+IV.- El recurso de revisión.
 
 Las facultades que el presente Código concede al Juez de Control, serán ejercidas, para efectos de este artículo, por el Juez de Primera Instancia Penal o de conocimiento mixto según corresponda.
 
-Para la aplicación de los institutos procesales previstos en el presente ordenamiento al proceso regulado por el Código de Procedimientos Penales publicado en el Periódico Oficial del Gobierno Constitucional del Estado con fecha treinta de enero de mil novecientos noventa y dos y sus reformas, se estará a las siguientes normas de éste último:
+Para la aplicación de los institutos procesales previstos en el presente ordenamiento al proceso regulado por el Código de Procedimientos Penales publicado en el Periódico Oficial del Gobierno Constitucional del Estado con fecha treinta de enero de mil novecientos noventa y dos y sus reformas, se estará a las siguientes normas de este último:
 
-I. Los acuerdos previstos en el capítulo de justicia restaurativa podrán celebrarse hasta antes de la finalización de la audiencia a que se refiere el artículo 337 de éste Código;
+I.- Los acuerdos previstos en el capítulo de justicia restaurativa podrán celebrarse hasta antes de la finalización de la audiencia a que se refiere el artículo 309 del Código de Procedimientos Penales publicado en el Periódico Oficial del Gobierno Constitucional del Estado con fecha treinta de enero de mil novecientos noventa y dos, y
 
-II. La suspensión de proceso a prueba podrá decretarse hasta antes de que se cierre la instrucción, conforme lo dispone el artículo 309 de éste Código.
+II.- La suspensión de proceso a prueba podrá decretarse hasta antes de que se cierre la instrucción, conforme lo dispone el artículo 309 del Código citado en la fracción anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Séptimo.- Legislación de transición.
 
-Antes de la entrada en vigencia de este Código, deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la Defensoría Pública, del Ministerio Público, de los Cuerpos de Seguridad Pública, así como la legislación de ejecución de penas y medidas de seguridad y en general, toda aquella que sea necesaria para su implementación.
+Antes de la entrada en vigor de este Código, deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la Defensoría Pública, del Ministerio Público, de los Cuerpos de Seguridad Pública, así como la legislación de ejecución de penas y medidas de seguridad y en general, toda aquella que sea necesaria para su implementación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Octavo.- De los planes de implementación y presupuesto.
 
@@ -5187,14 +6089,82 @@ LIC. OLIVERIO REZA CUELLAR
 
 P.O. 21 DE JUNIO DE 2009.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, y comenzará su vigencia, De conformidad con el contenido del artículo segundo transitorio del presente decreto.
+Publicación.
+
+El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-La presente Ley entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango.
+Entrada en vigor.
+
+El presente decreto, entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la Vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO TERCERO.
 
+Derogación.
+
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+DECRETO NUMERO 415, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CODIGO PROCESAL PENAL DEL ESTADO DE DURANGO.
+
+Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- El presente decreto, entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la declaratoria que emita el Congreso del Estado o la Comisión permanente a solicitud expresa del Tribunal Superior de Justicia del Estado.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+DECRETO NUMERO 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
+
+SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales y a la Asamblea Legislativa del Distrito Federal copia de la presente declaratoria.
+
+TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del articulo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
+
+Artículo Segundo.- El Sistema Procesal Penal Acusatorio se adoptará en el Primer Distrito Judicial o Región que tenga como cabecera la Ciudad de Victoria de Durango, Durango y con tal efecto entrarán en vigor en su jurisdicción territorial, a las cero horas del día 14 de Diciembre de 2009, los siguientes ordenamientos:
+
+I. Código Procesal Penal del Estado de Durango, aprobado mediante Decreto N° 232 del 4 de diciembre de 2008, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2008 y sus reformas posteriores;
+
+II. Código Penal para el Estado Libre y Soberano de Durango aprobado mediante Decreto Nº 284 del 11 de junio de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009;
+
+III. Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango aprobado mediante Decreto Nº 338 del 14 de Agosto de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 31 de fecha 15 de Octubre de 2009; y
+
+IV. Las reformas a la Ley de Seguridad Pública para el Estado de Durango relacionadas con el Sistema Procesal Penal Acusatorio, aprobadas mediante Decreto N° 259 del 18 de Febrero de 2009, promulgadas y publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 15 Bis de Fecha 19 de febrero de 2009 y las reformas posteriores a la citada Ley en la misma materia.
+
+Artículo Tercero.- La jurisdicción territorial correspondiente al Primer Distrito Judicial o Región, según sea el caso, será la que establece el Artículo Octavo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Durango aprobada por la LXIV Legislatura mediante Decreto Número 296 del 30 de Junio de 2009 y promulgada y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Número 1 de fecha 2 de Julio del año 2009 o la que determine en lo sucesivo el Pleno del Tribunal Superior de Justicia del Estado, en ejercicio de sus atribuciones mediante el Acuerdo General respectivo.
+
+Artículo Cuarto.- Entrarán en vigor en todo el territorio del Estado sin perjuicio de las prevenciones establecidas en sus decretos de creación y sus reformas posteriores:
+
+I.- La Ley del Instituto de Defensoría Pública del Estado de Durango aprobada mediante el Decreto 261 del 18 de Febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 20 de fecha 8 de marzo de 2009 y sus reformas posteriores, y;
+
+II.- Ley de Justicia Penal Restaurativa del Estado de Durango aprobada mediante el Decreto Nº 257 del 18 de febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 17 bis, de fecha 26 de febrero de 2009 y sus reformas posteriores.
+
+Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Integral de Justicia para Menores Infractores y se incorporará a los ordenamientos enunciados a continuación, mismos que entrarán en vigor a las cero horas del día 14 de diciembre de 2009 en todo el territorio del Estado:
+
+1.- Código de Justicia para Menores Infractores del Estado de Durango aprobado mediante el Decreto 348 del 14 de Agosto de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango Nº 30 de fecha 11 de octubre de 2009;
+
+2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
+
+3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
