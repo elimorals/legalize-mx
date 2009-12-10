@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-justicia-para-menores-infractores-en-el-estado-de-707
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-11"
-last_updated: "2009-10-11"
+last_updated: "2009-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 CODIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR UNA VEZ QUE SE PUBLIQUE LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL CODIGO PROCESAL PENAL DEL ESTADO DE DURANGO, APROBADO MEDIANTE DECRETO No. 232, PUBLICADO EN EL P.O. No. 11 DE FECHA 5 DE DICIEMBRE DE 2008.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL NUMERAL 1 DEL ARTICULO QUINTO DEL DECRETO No. 420, MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA ENTRADO EN VIGOR.</small>
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 11 de octubre de 2009.
 
@@ -50,6 +50,12 @@ CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 ###### Artículo 1.
 
 Las disposiciones del presente Código, son de orden público y de observancia en todo el territorio del Estado de Durango.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Para efectos de este Código, cuando se haga referencia al Tribunal para Menores Infractores del Estado de Durango, se entenderá que se refiere al Tribunal de Menores Infractores del Poder Judicial del Estado contemplado en el apartado B del artículo 97 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### Artículo 2.
 
@@ -121,7 +127,11 @@ XXII. Sistema Integral de Justicia para Menores: El régimen jurídico especial 
 
 XXIII. Tratados internacionales: Los tratados, convenios o demás instrumentos internacionales, cualquiera que sea su denominación, celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que establezcan compromisos del Estado Mexicano en materia de personas menores de edad;
 
-XXIV. Tribunal: El Tribunal para Menores Infractores del Estado de Durango; y,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+XXIV. Tribunal: El Tribunal para Menores Infractores del Poder Judicial del Estado; y,
 
 XXV. Unidad de Diagnóstico: La Unidad de Diagnóstico del Tribunal para Menores Infractores del Estado de Durango.
 
@@ -145,7 +155,11 @@ I. La Procuraduría General de Justicia del Estado de Durango, por conducto del 
 
 II. El Tribunal para Menores Infractores del Estado de Durango, en lo relativo al juzgamiento de los menores, determinación de las medidas aplicables y su ejecución;
 
-III. La Secretaría de Seguridad Pública, respecto a la ejecución y la vigilancia de las medidas que estén a cargo de la autoridad judicial; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+III. La Secretaría de Seguridad Pública, respecto a la ejecución y la vigilancia de las medidas que estén a cargo de la autoridad judicial por conducto de los centros; y
 
 IV. El Instituto de la Defensoría Pública, que asumirá la defensa del menor, en caso de que éste no designe defensor particular.
 
@@ -265,9 +279,13 @@ XXIII. Lenocinio.
 
 La tentativa punible de los delitos antes mencionados en las fracciones anteriores se califica como delito grave.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 12.
 
-De conformidad con lo previsto en el segundo párrafo del artículo 19 de la Constitución Federal, se consideran delitos graves sujetos a la medida cautelar de internamiento preventivo de oficio, los siguientes:
+De conformidad con lo previsto en el segundo párrafo del artículo 19 de la Constitución Federal, se consideran delitos graves sujetos a la medida cautelar de internamiento preventivo de oficio siempre que así lo solicite el Ministerio Púbico, los siguientes:
 
 I. Homicidio doloso;
 
@@ -2343,15 +2361,17 @@ Dichas decisiones deberán ser notificadas inmediatamente al menor, a su defenso
 
 Contra las resoluciones dictadas por el Director del Centro, que lesionen derechos fundamentales o causen un daño irreparable al menor sometido a la medida, procederá el recurso de revisión ante el Juez de Ejecución.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 278.
 
 El Juez de Ejecución podrá, ya sea de oficio al supervisar el Plan Individual de Ejecución, o a petición de parte, revisar las medidas impuestas por el Juez de Menores, pudiendo decretar su modificación, sustitución o cese, si considera que éstas no están cumpliendo con los objetivos para los cuales fueron impuestas, o si éstas ya cumplieron con su finalidad y así se acredita.
 
-Cuando se presente una solicitud de modificación, sustitución o cese de la medida o medidas, el Juez de Ejecución citará a una audiencia que habrá de celebrarse dentro de los cinco días siguientes, a la que asistirán el menor, su defensor y el Ministerio Público.
+Cuando se presente una solicitud de modificación, sustitución o cese de la medida o medidas, el Juez de Ejecución citará a una audiencia que habrá de celebrarse dentro de los cinco días siguientes, a la que asistirán el menor, su defensor, el Ministerio Público y un representante del centro.
 
 En la audiencia se rendirán las pruebas e informes técnicos de la Unidad de Diagnóstico que se estimen pertinentes y el Juez de Ejecución deberá resolver lo que corresponda.
-
-Tratándose de la medida de internamiento, en ningún caso procederá el cese de la misma hasta en tanto no haya transcurrido la medida de menor gravedad impuesta por el Juez de Menores.
 
 ###### Artículo 279.
 
@@ -2863,6 +2883,10 @@ Las sentencias del Magistrado tendrán el carácter de definitivas y no admitir�
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 347.
 
 El recurso de casación tiene como objeto invalidar la audiencia de juicio oral, la sentencia o la resolución de sobreseimiento dictada en dicha audiencia, así como la resolución dictada por el Juez de ejecución para resolver sobre el cese, modificación o sustitución de las medidas impuestas, cuando en éstas se hubieren quebrantado las formalidades esenciales del procedimiento o sea vulnerado el principio de legalidad.
@@ -2997,9 +3021,9 @@ La interposición del recurso de revisión suspenderá la aplicación de la reso
 
 ###### Artículo 363.
 
-La justicia para los menores en el Estado de Durango, se impartirá por un Tribunal autónomo, con jurisdicción en todo el territorio del Estado y con la competencia y organización que establece este Código.
+La justicia para los menores en el Estado de Durango, se impartirá por un Tribunal para Menores Infractores adscrito al Poder Judicial del Estado, con jurisdicción en todo el territorio del Estado y con la competencia y organización que establece este Código.
 
-El Tribunal residirá en la capital del Estado y podrá contar con Juzgados en el interior del Estado, siempre que el presupuesto lo permita.
+El Tribunal residirá en la capital del Estado y podrá contar con Juzgados en el interior del Estado, siempre que así lo acuerde el Pleno del Tribunal Superior de Justicia y el presupuesto lo permita.
 
 ###### Artículo 364.
 
@@ -3043,9 +3067,17 @@ I. Un magistrado de la Sala Unitaria y un Magistrado supernumerario;
 
 II. Un Secretario General de Acuerdos del Tribunal;
 
-III. Los Jueces de Menores, que determine el presupuesto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV. Los Jueces de Ejecución, que determine el presupuesto;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+III. Los Jueces de Menores, que determine el Pleno del Tribunal Superior de Justicia y permita el presupuesto;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+IV. Los Jueces de Ejecución que determine el Pleno del Tribunal Superior de Justicia y permita el presupuesto;
 
 V. La Unidad de Diagnóstico;
 
@@ -3057,15 +3089,23 @@ VIII. Los actuarios.
 
 ### CAPITULO VI. JUECES DEL TRIBUNAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 370.
 
 El Tribunal, tendrá un Presidente que a su vez será el Magistrado de la Sala Unitaria y durará en su encargo seis años y podrá ser ratificado.
 
 No podrá actuar como patrono, abogado o representante ante el Tribunal de Menores dentro del año siguiente a la fecha de que dejen su cargo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 371.
 
-El Presidente del Tribunal será designado por el Titular del Poder Ejecutivo, y ratificado por Mayoría calificada del Congreso del Estado de Durango hasta por una ocasión.
+El Presidente del Tribunal será designado por el Titular del Poder Ejecutivo y ratificado por Mayoría calificada del Congreso del Estado de Durango. El mismo, podrá ser reelecto hasta por una ocasión, previa evaluación de su desempeño por parte del Congreso.
 
 ###### Artículo 372.
 
@@ -3097,6 +3137,8 @@ El Magistrado, los Jueces de Menores, Jueces de Ejecución, Secretarios y Actuar
 
 El Magistrado será inamovible durante el período de su encargo y sólo podrán (sic) ser privado de su cargo en los términos y en los casos legalmente aplicables, conforme a los procedimientos que establezcan la Constitución Política del Estado Libre y Soberano de Durango y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO No. 417, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR CONFORMADO POR ONCE FRACCIONES.</small>
+
 ###### Artículo 376.
 
 Son atribuciones del Magistrado Presidente, las siguientes:
@@ -3107,27 +3149,61 @@ II. Vigilar el cumplimiento del presente Código;
 
 III. Ser el conducto para tramitar ante otras autoridades los asuntos del Tribunal;
 
-IV. Elaborar y ejercer el Presupuesto de Egresos del Tribunal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V. Tomar la protesta de Ley a los Jueces del Tribunal;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-VI. Recibir y tramitar ante la autoridad competente las quejas sobre las irregularidades en que incurran los servidores públicos del Tribunal;
+IV. Elaborar y someter a la consideración de la Comisión de Administración, el anteproyecto de presupuesto del Tribunal para Menores Infractores del Poder Judicial del Estado y proponerlo, una vez aprobado, al Presidente del Tribunal Superior de Justicia, para su inclusión en el correspondiente del Poder Judicial del Estado;
 
-VII. Calificar los impedimentos, excusas y recusaciones respecto de los Jueces y, en su caso, designar a quien deba sustituirlos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VIII. Conocer y resolver las excitativas para que los Jueces emitan las resoluciones que correspondan de acuerdo con las prevenciones de este ordenamiento legal;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-IX. Disponer la forma de distribución de los asuntos de que deban conocer los jueces de primera instancia cuando haya dos o más en la misma localidad;
+V. Recibir y tramitar ante la autoridad competente las quejas sobre las irregularidades en que incurran los servidores públicos del Tribunal;
 
-X. Nombrar al Secretario General de Acuerdos del Tribunal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XI. Dictar las medidas necesarias para el buen servicio y disciplina en las oficinas del Tribunal;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-XII. Las demás que le confieran este Código y demás disposiciones aplicables.
+VI. Calificar los impedimentos, excusas y recusaciones respecto de los Jueces y, en su caso, designar a quien deba sustituirlos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+VII. Conocer y resolver las excitativas para que los Jueces emitan las resoluciones que correspondan de acuerdo con las prevenciones de este ordenamiento legal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+VIII. Disponer la forma de distribución de los asuntos de que deban conocer los jueces de primera instancia cuando haya dos o más en la misma localidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+IX. Proponer a la Comisión de Administración al Secretario General de Acuerdos del Tribunal, a los secretarios, a los actuarios, oficiales de partes, así como al personal administrativo y técnico que se requiera para el buen funcionamiento del Tribunal para Menores Infractores del Poder Judicial del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+X. Dictar las medidas necesarias para el buen servicio y disciplina en las oficinas del Tribunal; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+XI. Las demás que le confieran este Código y demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 377.
 
-El Presidente del Tribunal, dispondrá del número de servidores públicos que sean necesarios para el despacho de los asuntos de su competencia y que fije el presupuesto anual, cuyos nombramientos, re adscripciones y remociones serán efectuados libremente por el mismo.
+El Presidente del Tribunal, propondrá á la Comisión de Administración, el número de servidores públicos que sean necesarios para el despacho de los asuntos de su competencia.
 
 ###### Artículo 378.
 
@@ -3167,6 +3243,10 @@ Para ser Secretario General de Acuerdos del Tribunal, se requieren cumplir los r
 
 ### CAPITULO VIII. SECRETARIOS Y ACTUARIOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 381.
 
 Para ser Juez de Menores o Juez de Ejecución del Tribunal, se requiere:
@@ -3177,13 +3257,11 @@ II. Tener cuando menos veintiocho años cumplidos, al día de la propuesta de de
 
 III. Poseer para ese día de la designación una antigüedad mínima de cinco años en el título y Cedula profesional de Licenciado en Derecho o su equivalente, expedido por institución legalmente facultada para ello y registrado ante las autoridades correspondientes;
 
-IV. Tener experiencia mínima de dos años en materia de menores Infractores y conocimientos en los derechos de los niños;
+IV. Tener experiencia mínima de dos años en materia de menores Infractores y conocimientos en los derechos de los niños; y
 
-V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de libertad, de más de un año de prisión, pero si se tratase de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama, en el concepto público, le inhabilitará para el cargo, cualquiera que haya sido la pena;
+V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de libertad, de más de un año de prisión, pero si se tratase de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama, en el concepto público, le inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-VI. No haber sido senador, diputado federal, diputado local, presidente municipal, síndico o regidor de algún Ayuntamiento, gobernador de la entidad, secretario o subsecretario de alguna de las ramas de la administración pública estatal, Procurador General de Justicia en el Estado o Subprocurador, durante el año previo al de su designación.
-
-Los Jueces de Tribunal de Menores Infractores serán designados por examen de oposición de acuerdo a lo establecido en el reglamento que para tal efecto expida el Tribunal.
+Los Jueces de Tribunal de Menores Infractores serán nombrados por el Consejo de la Judicatura, previo examen por oposición, el cual podrá ser mediante concurso interno o libre, conforme al procedimiento establecido en la Ley Orgánica del Poder Judicial del Estado de Durango.
 
 Estos nombramientos, deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales, en el ejercicio de la actividad jurídica.
 
@@ -3251,7 +3329,11 @@ VIII. Evaluar, por lo menos cada tres meses, las medidas privativas de la libert
 
 IX. Dictar resolución mediante la cual se dé por cumplida la medida impuesta, así como la libertad total y definitiva del menor;
 
-X. Revocar o sustituir las medidas impuestas en externación si considera que ésta ya produjo sus efectos, es innecesaria o afecta gravemente el desarrollo, la dignidad o la reintegración social del menor;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+X. Revocar o sustituir las medidas impuestas si considera que ésta ya produjo sus efectos, es innecesaria o afecta gravemente el desarrollo, la dignidad o la reintegración social del menor;
 
 XI. Recibir y turnar a la Sala los recursos que se interpongan en contra de las resoluciones que emitan;
 
@@ -3260,6 +3342,10 @@ XII. Recibir y turnar a la Presidencia de este Tribunal los asuntos relacionados
 XIII. Los demás que este Código y demás ordenamientos prevengan.
 
 ### CAPITULO IX. FALTAS Y SUPLENCIAS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 385.
 
@@ -3271,7 +3357,11 @@ Son atribuciones de la Unidad de Diagnóstico, las siguientes:
 
 I. Apegarse en el ejercicio de sus funciones a los principios, derechos y demás lineamientos previstos en este Código, en aras del interés superior del menor;
 
-II. Emitir el estudio psicológico y familiar del menor y el dictamen técnico que corresponda, respecto a la situación del menor, de las medidas de orientación y supervisión conducentes a la adaptación social del menor;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+II. Presentar en la audiencia de juicio oral el dictamen respecto a la situación del menor, las medidas de orientación y supervisión conducentes a su adaptación social, basados en los estudios psicológico y familiar que le realicen;
 
 III. Conocer el desarrollo y el resultado de las medidas de orientación, de protección y de tratamiento, y emitir el dictamen técnico correspondiente para efectos de la evaluación prevista en este ordenamiento;
 
@@ -3285,11 +3375,15 @@ VI. Las demás que le confieran el presente Código.
 
 ###### Artículo 387.
 
-La Secretaria General de Acuerdos del Tribunal, los Jueces de Menores y los Jueces de Ejecución contarán con secretarios, actuarios y el personal administrativo de apoyo que determine el presupuesto.
+La Secretaria General de Acuerdos del Tribunal, los Jueces de Menores y los Jueces de Ejecución contarán con secretarios, actuarios y el personal administrativo de apoyo que autorice la Comisión de Administración.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 388.
 
-Los Secretarios y Actuarios del Tribunal serán nombrados por el Magistrado Presidente del Tribunal a propuesta de los Jueces.
+Los Secretarios y Actuarios del Tribunal serán nombrados por la Comisión de Administración a propuesta del Magistrado Presidente del Tribunal.
 
 ###### Artículo 389.
 
@@ -3307,7 +3401,7 @@ V. Experiencia de dos años en materia (sic) menores infractores y derechos de l
 
 ###### Artículo 390.
 
-Son atribuciones de los secretarios de acuerdos de los Jueces de Menores y de los Jueces de Ejecución del Tribunal, las siguientes:
+Son atribuciones de los secretarios de acuerdos de los jueces de menores y de los Jueces de Ejecución del Tribunal, las siguientes:
 
 I. Acordar con el Juez los asuntos de su competencia;
 
@@ -3331,7 +3425,11 @@ X. Librar citatorios y notificaciones en el procedimiento que se tramite ante el
 
 XI. Remitir a la Unidad de Diagnóstico copia certificada de la sentencia dictada al menor, para los efectos que se señalan en el presente Código, y
 
-XII. Las demás que determinen las leyes, los reglamentos, y el Presidente del Tribunal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+XII. Las demás que les señalen las leyes, sus reglamentos, y sus superiores jerárquicos relacionadas con el servicio.
 
 ###### Artículo 391.
 
@@ -3339,7 +3437,11 @@ Son atribuciones de los secretarios administrativos de los Jueces de Menores y d
 
 I. Acordar con el Juez los asuntos de su competencia;
 
-II. Levar el control de las audiencias del Juzgado al en que estén adscritos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+II. Levar el control de las audiencias del Juzgado al que estén adscritos;
 
 III. Documentar las actas, diligencias, acuerdos y toda clase de resoluciones que se expidan en las audiencias;
 
@@ -3375,7 +3477,7 @@ IV. Las demás que les señalen las leyes, los reglamentos y el Presidente del T
 
 ###### Artículo 393.
 
-Ninguna licencia podrá concederse por más de seis meses. Las de los Jueces cuando no excedan de un mes sin goce de sueldo, serán concedidas por el Presidente del Tribunal; las que excedan de ese tiempo, así como las del Magistrado serán concedidas por el Congreso del Estado.
+El servidor público del Tribunal para menores Infractores del Poder Judicial del Estado que pretendan ausentarse de sus funciones por más de un mes, deberá contar con licencia por escrito otorgada en los términos del Capítulo V del Título Séptimo de la Ley Orgánica del Poder Judicial del Estado de Durango.
 
 No se autorizarán licencias que tengan como propósito ocupar o desempeñar algún otro cargo ya sea a nivel Federal, Estatal o Municipal, sea o no de elección popular.
 
@@ -3483,9 +3585,19 @@ XIX. Informar al Juez de Ejecución y a la Unidad de Diagnóstico de los Trabajo
 
 XX. Fundar y motivar las decisiones que tome, las cuales deberán ser notificadas inmediatamente al menor, a su defensor y al Juez de Ejecución;
 
-XXI. Ejecutar las resoluciones emitidas por los Jueces de Menores y de Ejecución que determinen el traslado del menor a otro Centro, ya sea en forma temporal o definitiva;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XXII. Las demás que le señalen este Código, las leyes aplicables y las disposiciones reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+XX (SIC). Ejecutar las resoluciones emitidas por los Jueces de Menores y de Ejecución que determinen el traslado del menor a otro Centro, ya sea en forma temporal o definitiva, solicitando en su caso, auxilio a la Secretaría de Seguridad Pública;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+XXII. Solicitará al Juez de Ejecución la modificación, sustitución o cese de la medida o medidas, en los casos en que lo considere procedente; y
+
+XXIII. Las demás que le señalen este Código, las leyes aplicables y las disposiciones reglamentarias aplicables.
 
 ###### Artículo 403.
 
@@ -3517,9 +3629,13 @@ IV. Las demás que le encomiende las disposiciones legales y reglamentarias apli
 
 #### SECCIÓN PRIMERA. VIGILANCIA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 407.
 
-El servicio de vigilancia esta encomendado al cuerpo de vigilancia y celadores, consistente en las funciones de custodia interna y externa del Centro, de conformidad con lo que establezca el reglamento interior del Centro.
+El servicio de vigilancia esta encomendado al cuerpo de vigilancia y custodios, consistente en las funciones de resguardo interno y externo del Centro, de conformidad con lo que establezca el reglamento interior del Centro.
 
 ###### Artículo 408.
 
@@ -3531,17 +3647,19 @@ El personal de custodia deberá recibir constante capacitación en materia de tr
 
 #### SECCIÓN SEGUNDA. DEPARTAMENTO DE TRABAJO SOCIAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 410.
 
 El departamento de trabajo social tendrá las siguientes funciones:
 
 I. Fungir como orientadores en los programas individuales de orientación;
 
-II. Auxiliar al personal administrativo, en el seguimiento de las medidas impuestas a los menores;
+II. Auxiliar al personal administrativo, en el seguimiento de las medidas impuestas a los menores; y
 
-III. Cumplir con las tareas que le imponga el Juez de Ejecución; y
-
-IV. Todas las demás funciones que le imponga este ordenamiento y el Reglamento Interior del Centro.
+III. Todas las demás funciones que le imponga este ordenamiento y el Reglamento Interior del Centro.
 
 #### SECCIÓN TERCERA. DEPARTAMENTO DE PEDAGOGÍA
 
@@ -3587,41 +3705,77 @@ En el caso de que el menor necesite hospitalización o alguna clase de medicamen
 
 T R A N S I T O R I O S
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente decreto entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
+El presente decreto entrará en vigor en la fecha que determine la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO TERCERO.
 
-La modificación o reubicación de cualquier tipo penal a que se refiere el Código Penal, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
+La modificación o reubicación de cualquier tipo penal a que se refiere el Código Penal aprobado mediante Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009, no implicará la libertad de los responsables por las conductas tipificadas como delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO CUARTO.
 
-Las disposiciones de este código sólo se aplicarán a los hechos acaecidos con posterioridad a su entrada en vigor, por lo tanto, el Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha 11 de septiembre de 2006 y sus reformas, se aplicará para juzgar las conductas tipificadas como delitos cometidos durante la vigencia del mismo.
+Las disposiciones de este Código, se aplicarán en la fecha que determine la declaratoria a que alude el artículo primero transitorio del presente decreto; las disposiciones del mismo, sólo se aplicarán a los procedimientos que se sigan por las conductas tipificadas como delitos a partir de las cero horas de la fecha que determine la referida declaratoria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO QUINTO.
 
-Se abroga el Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el lunes 11 de septiembre de 2006.
+El Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el lunes 11 de septiembre de 2006, seguirá rigiendo, en los procedimientos que se sigan por las conductas tipificadas como delitos con anterioridad a la aplicación del presente ordenamiento, y quedará abrogado cuando el último de los procedimientos tramitados conforme al primero, haya causado ejecutoria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO SEXTO.
 
 Las conductas tipificadas como delitos permanentes y continuadas que inicien su comisión en la vigencia del Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha 11 de septiembre de 2006, se investigarán y juzgarán conforme a lo establecido en dicho ordenamiento, aún cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO SÉPTIMO.
 
-Los Magistrados del Tribunal para menores infractores, duraran en su encargo el tiempo por el cual fueron designados, en términos del Artículo Decimo Segundo, Transitorio del decreto 293, expedido por el H. Congreso del Estado de Durango que contiene el Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha, feneciendo dicho termino (14) catorce de septiembre de (2010) dos mil diez, pudiendo ser reelectos.
+Los Magistrados del Tribunal para Menores infractores, duraran en su encargo el tiempo por el cual fueron designados, en términos del Artículo Decimo Segundo, Transitorio del decreto 293, expedido por el H. Congreso del Estado de Durango que contiene el Código de Justicia para Menores Infractores vigente el (sic) Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha, feneciendo dicho termino (14) catorce de septiembre de (2010) dos mil diez, pudiendo ser reelectos.
 
-A los jueces, Secretaria General de Acuerdos del Tribunal, los secretarios proyectistas, secretarios de acuerdos y demás personal de base y de confianza que labora en el Tribunal para Menores Infractores del Estado de Durango, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha.
+A los jueces, Secretaria General de Acuerdos del Tribunal, los secretarios proyectistas, secretarios de acuerdos y demás personal de base y de confianza que labora en el Tribunal para Menores Infractores del Estado de Durango, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente el (sic) Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha.
 
 Para los efectos del cumplimiento del presente, se entenderá que los Secretarios Proyectistas se denominaran en lo sucesivo, Secretarios Administrativos, conservando sus funciones y derechos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO OCTAVO.
 
-Para efectos de esta Ley (sic) se entenderá que el Centro Especializado de Readaptación y Tratamiento para Menores, será el Centro Especializado de Reintegración y Tratamiento para Menores Infractores en el Estado de Durango.
+Para efectos de este ordenamiento se entenderá que el Centro Especializado de Readaptación y Tratamiento para Menores, será el Centro Especializado de Reintegración y Tratamiento para Menores Infractores en el Estado de Durango.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO NOVENO.
 
@@ -3654,3 +3808,69 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+DECRETO No. 417, POR EL QUE SE ADICIONAN Y REFORMAN DIVERSOS ARTICULOS AL CODIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO.
+
+Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- El presente decreto, entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la declaratoria que emita el Congreso del Estado o la Comisión permanente a solicitud expresa del Tribunal Superior de Justicia del Estado.
+
+Artículo Tercero. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+Artículo Cuarto.- A efecto de dar cumplimiento al contenido del decreto No., 383, a 14 de octubre de 2009, mediante el cual se incorpora al Tribunal para Menores Infractores dentro del ámbito del Poder Judicial del Estado, se hace necesario reasignar el presupuesto establecido para el funcionamiento del Tribunal de referencia, dentro de la Ley de Egresos del Estado Libre y Soberano de Durango, para el ejercicio Fiscal de 2010.
+
+Artículo Quinto.- En tanto entre en vigor la presente Ley, el Magistrado, los Jueces de Menores y de Ejecución, tendrán la misma competencia prevista en el Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha 11 de septiembre de 2006 y sus reformas.
+
+A la entrada en vigor del presente decreto, la permanencia y atribuciones de los servidores públicos del Tribunal para Menores Infractores del Poder Judicial del Estado, se ajustarán a las siguientes prevenciones:
+
+I. Los Magistrados, duraran en su encargo el tiempo por el cual fueron designados, en términos del Artículo Decimo Segundo, Transitorio del decreto 293, expedido por el H. Congreso del Estado de Durango que contiene el Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha, feneciendo dicho termino (14) catorce de septiembre de (2010) dos mil diez, podrán ser reelectos, conforme el procedimiento
+
+II. A los jueces de Menores y de Ejecución, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha; lo anterior, sin perjuicio de que su ratificación, o nombramiento sea mediante examen por oposición, en los términos que dispone el Consejo de la Judicatura.
+
+III.- Al Secretario General de Acuerdos del Tribunal, los secretarios proyectistas, secretarios de acuerdos y demás personal de base y de confianza que labora en el Tribunal para Menores Infractores del Estado de Durango, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha;
+
+IV.- En la readscripción de los empleados y trabajadores del Tribunal para Menores Infractores, al Poder Judicial, se respetarán sus derechos adquiridos.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
+
+SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales y a la Asamblea Legislativa del Distrito Federal copia de la presente declaratoria.
+
+TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del articulo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
+
+Artículo Segundo.- El Sistema Procesal Penal Acusatorio se adoptará en el Primer Distrito Judicial o Región que tenga como cabecera la Ciudad de Victoria de Durango, Durango y con tal efecto entrarán en vigor en su jurisdicción territorial, a las cero horas del día 14 de Diciembre de 2009, los siguientes ordenamientos:
+
+I. Código Procesal Penal del Estado de Durango, aprobado mediante Decreto N° 232 del 4 de diciembre de 2008, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2008 y sus reformas posteriores;
+
+II. Código Penal para el Estado Libre y Soberano de Durango aprobado mediante Decreto Nº 284 del 11 de junio de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009;
+
+III. Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango aprobado mediante Decreto Nº 338 del 14 de Agosto de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 31 de fecha 15 de Octubre de 2009; y
+
+IV. Las reformas a la Ley de Seguridad Pública para el Estado de Durango relacionadas con el Sistema Procesal Penal Acusatorio, aprobadas mediante Decreto N° 259 del 18 de Febrero de 2009, promulgadas y publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 15 Bis de Fecha 19 de febrero de 2009 y las reformas posteriores a la citada Ley en la misma materia.
+
+Artículo Tercero.- La jurisdicción territorial correspondiente al Primer Distrito Judicial o Región, según sea el caso, será la que establece el Artículo Octavo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Durango aprobada por la LXIV Legislatura mediante Decreto Número 296 del 30 de Junio de 2009 y promulgada y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Número 1 de fecha 2 de Julio del año 2009 o la que determine en lo sucesivo el Pleno del Tribunal Superior de Justicia del Estado, en ejercicio de sus atribuciones mediante el Acuerdo General respectivo.
+
+Artículo Cuarto.- Entrarán en vigor en todo el territorio del Estado sin perjuicio de las prevenciones establecidas en sus decretos de creación y sus reformas posteriores:
+
+I.- La Ley del Instituto de Defensoría Pública del Estado de Durango aprobada mediante el Decreto 261 del 18 de Febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 20 de fecha 8 de marzo de 2009 y -sus reformas posteriores, y;
+
+II.- Ley de Justicia Penal Restaurativa del Estado de Durango aprobada mediante el Decreto Nº 257 del 18 de febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 17 bis, de fecha 26 de febrero de 2009 y sus reformas posteriores.
+
+Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Integral de Justicia para Menores Infractores y se incorporará a los ordenamientos enunciados a continuación, mismos que entrarán en vigor a las cero horas del día 14 de diciembre de 2009 en todo el territorio del Estado:
+
+1.- Código de Justicia para Menores Infractores del Estado de Durango aprobado mediante el Decreto 348 del 14 de Agosto de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango Nº 30 de fecha 11 de octubre de 2009;
+
+2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
+
+3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
