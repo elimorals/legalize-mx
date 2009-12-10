@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2009-07-02"
+last_updated: "2009-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -51,9 +51,15 @@ I. El Tribunal Superior de Justicia;
 
 II. El Tribunal Electoral;
 
-III. Los juzgados de primera instancia y auxiliares; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. Los juzgados municipales.
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+III. El Tribunal para Menores Infractores del Poder Judicial del Estado;
+
+IV. Los juzgados de primera instancia y auxiliares; y
+
+V. Los juzgados municipales.
 
 En el Poder Judicial habrá un Consejo de la Judicatura, el cual es un órgano desconcentrado del Tribunal Superior de Justicia y tendrá las atribuciones que le señalan la Constitución Política del Estado Libre y Soberano de Durango y esta ley.
 
@@ -141,7 +147,11 @@ VI. La Comisión integrará un expediente y emitirá un dictamen, los cuales rem
 
 VII. El Congreso del Estado, durante la substanciación del procedimiento de evaluación, deberá garantizar al Magistrado su derecho de audiencia, respecto de los nuevos elementos que en su caso se hayan allegado al expediente, para que manifieste lo que a su derecho convenga.
 
-Los magistrados, al término de su encargo, tendrán derecho a un haber por retiro, de acuerdo con el Reglamento que expida el Pleno del Tribunal Superior de Justicia con relación a sus percepciones para compensar el año de limitación en el ejercicio profesional que les impone la Constitución Política del Estado Libre y Soberano de Durango. Tratándose de jueces inamovibles, podrán optar por regresar al juzgado de su adscripción o a otro de la misma materia que le sea asignado por el Consejo de la Judicatura, en cuyo caso no percibirán el haber por retiro antes mencionado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Los magistrados, al término de su encargo, tendrán derecho a un haber por retiro, de acuerdo con el Reglamento que expida el Pleno del Tribunal Superior de Justicia con relación a sus percepciones para compensar el año de limitación en el ejercicio profesional que les impone la Constitución Política del Estado Libre y Soberano de Durango. Tratándose de jueces ratificados e inamovibles, podrán optar por regresar al juzgado de su adscripción o a otro de la misma materia que le sea asignado por el Consejo de la Judicatura, en cuyo caso no percibirán el haber por retiro antes mencionado.
 
 ###### ARTÍCULO 5.
 
@@ -221,7 +231,7 @@ VI Autorizar de manera extraordinaria la transferencia de partidas del presupues
 
 VII. Conocer y dirimir las controversias que surjan entre las salas del Tribunal Superior de Justicia, entre los juzgados, entre los órganos administrativos internos y entre sus organismos auxiliares;
 
-VIII. Analizar, discutir y aprobar, en su caso, el anteproyecto del presupuesto anual de egresos del Poder Judicial del Estado, que someta a su consideración el Consejo de Ia Judicatura, atendiendo a las previsiones del ingreso y enviarlo al titular del Poder Ejecutivo para el trámite de aprobación respectivo;
+VIII. Analizar, discutir y aprobar, en su caso, el anteproyecto del presupuesto anual de egresos del Poder Judicial del Estado, que someta a su consideración el Consejo de la Judicatura, atendiendo a las previsiones del ingreso y enviarlo al titular del Poder Ejecutivo para el trámite de aprobación respectivo;
 
 IX. Aprobar la cantidad de que pueda disponerse anualmente de los recursos procedentes del Fondo Auxiliar para la Administración de Justicia y de las excepcionales que le proponga el Consejo de la Judicatura;
 
@@ -277,7 +287,11 @@ XXXIV. Atender las observaciones y recomendaciones que le formule la Entidad de 
 
 XXXV. Resolver, de oficio o por denuncia, las contradicciones entre precedentes obligatorios emitidos por las salas;
 
-XXXVI. Designar a los integrantes del Consejo de la Judicatura en los términos que establece la Constitución Política del Estado Libre y Soberano de Durango y la presente Ley y al Consejero que lo representará en la Comisión de Administración del Tribunal Electoral del Poder Judicial del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+XXXVI. Designar a los integrantes del Consejo de la Judicatura en los términos que establece la Constitución Política del Estado Libre y Soberano de Durango y la presente Ley y al Consejero que lo representará en la Comisión de Administración del Tribunal Electoral del Poder Judicial del Estado y en la Comisión de Administración del Tribunal para Menores Infractores del Poder Judicial del Estado;
 
 XXXVII. Conocer del recurso de revisión administrativa establecido en esta ley;
 
@@ -469,7 +483,7 @@ Corresponde conocer a las salas colegiadas del Tribunal
 
 Superior de Justicia:
 
-I. De las apelaciones de las·sentencias definitivas dictadas en materia civil, mercantil y familiar. En materia penal, de los recursos de casación y de revisión que se interpongan contra resoluciones pronunciadas por los tribunales de Juicio Oral. Estos recursos podrán ser resueltos incluso por magistrados que hubieren conocido en el mismo asunto en apelación;
+I. De las apelaciones de las sentencias definitivas dictadas en materia civil, mercantil y familiar. En materia penal, de los recursos de casación y de revisión que se interpongan contra resoluciones pronunciadas por los tribunales de Juicio Oral. Estos recursos podrán ser resueltos incluso por magistrados que hubieren conocido en el mismo asunto en apelación;
 
 II. De las recusaciones y excusas de los magistrados de las salas unitarias, así como de las de sus propios integrantes, las que se calificarán por los dos restantes; y
 
@@ -1117,7 +1131,11 @@ Son facultades y obligaciones del Consejo de la Judicatura, las siguientes:
 
 I. Asistir en Pleno a la sesión solemne del informe anual del Presidente del Tribunal Superior de Justicia;
 
-II. Proponer al Pleno del Tribunal Superior de Justicia, al Consejero de la Judicatura que formará parte de la Comisión de Administración del Tribunal Electoral del Poder Judicial del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+II. Proponer al Pleno del Tribunal Superior de Justicia, a los consejeros de la Judicatura que formarán parte de las comisiones de Administración del Tribunal Electoral del Poder Judicial del Estado y del Tribunal para Menores Infractores del Poder Judicial del Estado;
 
 III. Establecer las comisiones que estime convenientes para su adecuado funcionamiento y los consejeros que deban integrarlas;
 
@@ -1127,7 +1145,11 @@ V. Fijar las bases, convocar y realizar el procedimiento para que su Presidente 
 
 VI. Proponer, para su aprobación, al Pleno del Tribunal Superior de Justicia, el número de juzgados, su especialización, ubicación y los límites geográficos de los distritos judiciales en que se divida el territorio del Estado;
 
-VII. Nombrar a los jueces y resolver sobre su ratificación, adscripción o remoción, de conformidad con lo dispuesto por el artículo 98 de la Constitución Política del Estado Libre y Soberano de Durango;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+VII. Nombrar a los jueces y resolver sobre su ratificación, adscripción o remoción, de conformidad con lo dispuesto por los artículos 97 inciso B y 98 de la Constitución Política del Estado Libre y Soberano de Durango;
 
 VIII. Evaluar el desempeño y, en su caso, nombrar al personal jurídico de los juzgados, conforme a las reglas de la carrera judicial;
 
@@ -1137,7 +1159,11 @@ X. Tomar las medidas necesarias relacionadas con la separación de los jueces, e
 
 XI. Resolver sobre las quejas administrativas y los procedimientos de oficio, sobre responsabilidad de los servidores públicos del Poder Judicial del Estado, en los términos de lo que disponga la ley, con excepción de los magistrados del Tribunal Superior de Justicia;
 
-XII. Someter a la aprobación del Tribunal Superior de Justicia, el anteproyecto del presupuesto de egresos del Poder Judicial del Estado, con excepción de las partidas que le correspondan al Tribunal Electoral del Poder Judicial del Estado, exponiendo debidamente los fundamentos y motivos que lo sostienen, acompañado con los anexos técnicos del caso;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+XII. Someter a la aprobación del Tribunal Superior de Justicia, el anteproyecto del presupuesto de egresos del Poder Judicial del Estado, con excepción de las partidas que le correspondan al Tribunal Electoral del Poder Judicial del Estado y al Tribunal para Menores Infractores del Poder Judicial del Estado, exponiendo debidamente los fundamentos y motivos que lo sostienen, acompañado con los anexos técnicos del caso;
 
 XIII. Dictar las bases generales de organización y funcionamiento de los órganos auxiliares del propio Consejo;
 
@@ -1251,7 +1277,11 @@ IX. Otorgar licencias en los términos previstos en esta ley;
 
 X. Firmar las resoluciones y acuerdos del Pleno del Consejo de la Judicatura;
 
-XI. Presentar anualmente ante el Consejo de la Judicatura, un anteproyecto del presupuesto de egresos del Poder Judicial del Estado y lo relativo al ejercicio de los productos derivados de las inversiones del Fondo Auxiliar para la Administración de Justicia, con excepción de las partidas que le correspondan al Tribunal Electoral del Poder Judicial del Estado, para efectos de someterlo a la consideración del Pleno del Tribunal Superior de Justicia, según lo establece la fracción XII del artículo 87 de esta ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+XI. Presentar anualmente ante el Consejo de la Judicatura, un anteproyecto del presupuesto de egresos del Poder Judicial del Estado y lo relativo al ejercicio de los productos derivados de las inversiones del Fondo Auxiliar para la Administración de Justicia, con excepción de las partidas que le correspondan al Tribunal Electoral del Poder Judicial del Estado y al Tribunal para Menores Infractores del Poder Judicial del Estado, para efectos de someterlo a la consideración del Pleno del Tribunal Superior de Justicia, según lo establece la fracción XII del artículo 87 de esta ley;
 
 XII. Proponer al Pleno la designación del auditor interno del Poder Judicial del Estado;
 
@@ -1581,7 +1611,11 @@ VI. Diseñar formatos, plantillas, gráficas y cualquier otro instrumento que pe
 
 VII. Ordenar, clasificar y registrar la información recopilada;
 
-VIII. Solicitar al Tribunal Electoral del Poder Judicial del Estado su información estadística e integrarla a la información general del Poder Judicial;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+VIII. Solicitar al Tribunal Electoral del Poder Judicial del Estado y al Tribunal para Menores Infractores del Poder Judicial del Estado su información estadística e integrarla a la información general del Poder Judicial;
 
 IX. Recabar datos que arroje el Instituto de Defensoría Pública respecto de los asuntos de su conocimiento para su sistematización y presentación; y
 
@@ -1641,11 +1675,19 @@ La carrera judicial estará integrada por las siguientes categorías:
 
 I. Juez;
 
-II. Secretario General de Acuerdos del Pleno del Tribunal Superior de Justicia o del Tribunal Electoral del Poder Judicial del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+II. Secretario General de Acuerdos del Pleno del Tribunal Superior de Justicia o de los tribunales electoral y para menores infractores del Poder Judicial del Estado;
 
 III. Secretario de Acuerdos de Sala;
 
-IV. Secretario Proyectista de Sala e instructores de estudio y cuenta del Tribunal Electoral del Poder Judicial del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+IV. Secretario Proyectista de Sala e instructores de estudio y cuenta del Tribunal Electoral del Poder Judicial del Estado y del Tribunal para Menores Infractores del Poder Judicial del Estado;
 
 V. Secretario de Juzgado; y
 
@@ -2203,9 +2245,13 @@ Los magistrados del Tribunal Superior de Justicia rendirán la protesta de ley a
 
 El Pleno del Tribunal Superior de Justicia tomará protesta a su Secretario y a los integrantes del Consejo de la Judicatura.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 198.
 
-Los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura tomarán protesta a los jueces.
+Los Plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura tomarán protesta a los jueces del Tribunal Superior de Justicia y del Tribunal para Menores Infractores del Poder Judicial del Estado.
 
 ###### ARTÍCULO 199.
 
@@ -2249,6 +2295,28 @@ Las labores de los juzgados en materia penal no se interrumpirán durante las va
 
 Son empleados de confianza del Poder Judicial del Estado los siguientes: El Secretario General de Acuerdos, Consejeros, Jueces, Secretarios de Sala y de juzgados, Defensores Públicos y Asesores Jurídicos, Administradores de Sala, Actuarios Notificadores y Ejecutores, Oficiales Judiciales, Secretarios Administrativos, Directores y Jefes de Departamento y, en general, aquellas personas que por la naturaleza confidencial de sus labores o porque realicen tareas de dirección, deban ser consideradas como tales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Los oficiales judiciales serán aquellos empleados que tendrán a su cargo labores de archivo, captura de datos, costura o formación de expedientes, foliado, préstamo de expedientes, obtención de copiado, elaboración de oficios, listado, estadísticas y demás funciones similares, pero que por la naturaleza confidencial de la información que maneja debe tener carácter de confianza.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Para ser oficial se requiere:
+
+I. Ser ciudadano mexicano por nacimiento, de preferencia duranguense en pleno ejercicio de sus derechos;
+
+II. Poseer título o constancia de estudios o prácticas en ramos que tienen que ver con la escritura de documentos, toma de dictado, manejo de computadoras o similares;
+
+III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de la libertad de más de un año de prisión, excepto en el caso de delito por culpa; pero si se tratare de robo, falsificación, abuso de confianza u otro que lastime la buena fama en el concepto público, inhabilitará para el cargo cualquiera que sea la pena;
+
+IV. Aprobar el examen; y
+
+V. las (sic) demás que señalen las leyes y reglamentos relativos.
+
 ###### ARTÍCULO 206.
 
 No podrán formar parte de un mismo órgano del Poder Judicial, juzgado o dependencia administrativa, los servidores públicos que estuvieren unidos por vínculo matrimonial o estrechos lazos de afecto, o tuvieren parentesco dentro del cuarto grado por consanguinidad o afinidad.
@@ -2285,9 +2353,13 @@ El Poder Judicial del Estado, administrará en forma autónoma su patrimonio, pa
 
 En casos excepcionales, se podrá disponer, por acuerdo del Pleno del Tribunal Superior de Justicia, a propuesta del Consejo de la Judicatura, de las cantidades adicionales a las aprobadas para cada ejercicio fiscal, fijándose su destino en cada caso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 213.
 
-El presupuesto del Poder Judicial del Estado se ejercerá por el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura, salvo lo que corresponda al Tribunal Electoral, debiendo sujetarse a las disposiciones de la Ley de Egresos del Estado, la Ley de Presupuesto Contabilidad y Gasto Público y demás ordenamientos legales aplicables.
+El presupuesto del Poder Judicial del Estado se ejercerá por el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura, salvo lo que corresponda al Tribunal Electoral y al Tribunal para Menores Infractores del Poder Judicial del Estado, debiendo sujetarse a las disposiciones de la Ley de Egresos del Estado, la Ley de Presupuesto Contabilidad y Gasto Público y demás ordenamientos legales aplicables.
 
 ###### ARTÍCULO 214.
 
@@ -2745,6 +2817,166 @@ Los servidores públicos del Tribunal Electoral del Poder Judicial del Estado se
 
 Los servidores públicos y empleados del Tribunal Electoral del Poder Judicial del Estado, serán considerados como servidores públicos de confianza.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+## TÍTULO NOVENO. DEL TRIBUNAL PARA MENORES INFRACTORES DEL PODER JUDICIAL DEL ESTADO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LO ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 248.
+
+De conformidad con el artículo 97 de la Constitución Política del Estado Libre y Soberano de Durango, el Tribunal para Menores Infractores del Poder Judicial del Estado, será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado, competente para resolver las conductas tipificadas como delitos por el Código Penal o por las leyes estatales, en las que se encuentren implicados los menores de edad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 249.
+
+El Tribunal para Menores Infractores del Poder Judicial del Estado, se integrará por un Magistrado de la Sala Unitaria y un supernumerario, quienes ejercerán el cargo por un periodo de seis años, pudiendo ser ratificados por un periodo más.
+
+Los magistrados de menores percibirán la remuneración que corresponda a los magistrados del Tribunal Superior de Justicia del Estado, la cual no podrá ser disminuida durante el periodo de su encargo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 250.
+
+Por lo que respecta a los requisitos para la designación del personal, nombramientos, organización, estructura y funcionamiento, del Tribunal para Menores Infractores del Poder Judicial del Estado se estará a lo dispuesto en el Código de Justicia para Menores Infractores en el Estado de Durango.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO II. DE LA COMISIÓN DE ADMINISTRACIÓN
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 251.
+
+La administración, vigilancia y disciplina del Tribunal para Menores Infractores estarán a cargo de la Comisión de Administración, que se integrará por el Presidente de dicho Tribunal, quien la presidirá, por un Juez designado por insaculación y por un integrante del Consejo de la Judicatura designado por el Tribunal Superior de Justicia. La Comisión sesionará en las oficinas que al efecto se destinen en la sede del Tribunal para Menores Infractores del Poder Judicial del Estado.
+
+El Secretario General de Acuerdos del Tribunal para Menores Infractores del Poder Judicial del Estado, fungirá como Secretario de la Comisión y concurrirá a las sesiones con voz, pero sin voto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 252.
+
+La Comisión de Administración, a convocatoria de su Presidente, sesionará válidamente con la asistencia de sus tres integrantes y adoptará resoluciones por mayoría de votos de los presentes. Los comisionados no podrán abstenerse de votar, salvo que tengan excusas o impedimento legal.
+
+Cuando una sesión de la Comisión no se pueda celebrar por falta de quórum, se convocará nuevamente por el Presidente, para que tenga verificativo dentro de las cuarenta y ocho horas siguientes.
+
+El comisionado que disintiere de la mayoría, podrá formular por escrito voto particular dentro del término de tres días siguientes a la resolución, el cual se insertará en el acta respectiva.
+
+Las sesiones ordinarias o extraordinarias de la Comisión serán privadas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 253.
+
+Cuando la Comisión de Administración estime que sus reglamentos, acuerdos o resoluciones, pudieren resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 254.
+
+La Comisión de Administración tendrá las facultades y obligaciones siguientes:
+
+I. Elaborar y aprobar el Reglamento Interno del Tribunal para Menores Infractores;
+
+II. Expedir las normas interiores en materia administrativa, de ingreso, de escalafón y de régimen disciplinario del Tribunal para Menores Infractores del Poder Judicial del Estado, tomando en cuenta las disposiciones de esta ley y las del Código de Justicia para Menores Infractores para el Estado de Durango;
+
+III. Remitir de inmediato, por conducto de su Presidente, a la instancia competente, las renuncias de los magistrados del Tribunal para Menores Infractores del Poder Judicial del Estado y acordar sobre las que presenten los jueces, secretarios y demás personal jurídico y administrativo del mismo;
+
+IV. Decretar, cuando proceda, la suspensión, remoción o cese del Secretario General, así como del resto del personal jurídico y administrativo del Tribunal para Menores Infractores del Poder Judicial del Estado;
+
+V. Aprobar el anteproyecto de presupuesto de egresos del Tribunal para Menores Infractores del Poder Judicial del Estado para proponerlo al Presidente del Tribunal Superior de Justicia, para su inclusión en el del Poder Judicial del Estado;
+
+VI. Resolver sobre las renuncias y licencias de los titulares de los órganos auxiliares de la Comisión, removerlos por causa justificada o suspenderlos en los términos que determinen las leyes y los acuerdos correspondientes, y formular denuncia o querella en los casos en que legalmente proceda;
+
+VII. Establecer las disposiciones generales para la promoción de los servidores públicos con funciones no jurisdiccionales, así como el ingreso, estímulos, capacitación, ascenso y promociones por escalafón y remoción del personal administrativo del Tribunal para Menores Infractores del Poder Judicial del Estado, tomando en cuenta, en lo conducente, las disposiciones contenidas en el Título Quinto de esta ley y los acuerdos y resoluciones del Consejo de la Judicatura;
+
+VIII. Imponer las sanciones que correspondan a los servidores del Tribunal para Menores Infractores del Poder Judicial del Estado por las irregularidades o faltas en que incurran en el desempeño de sus funciones, aplicando en lo conducente, lo dispuesto por la Ley de los Trabajadores al Servicio de los Tres Poderes del Estado;
+
+IX. Ejercer las partidas del presupuesto de egresos del Tribunal para Menores Infractores del Poder Judicial del Estado;
+
+X. Proponer ante el Instituto de Especialización Judicial, por conducto del Consejo de la Judicatura, los programas relativos a la capacitación del personal del Tribunal para Menores Infractores del Poder Judicial del Estado;
+
+XI. Vigilar que los servidores del Tribunal para Menores Infractores del Poder Judicial del Estado cumplan en tiempo y forma con la presentación de las declaraciones de situación patrimonial;
+
+XII. Ejercer, en lo conducente, y en lo que no se oponga al presente capítulo, las facultades y obligaciones señaladas en el artículo 97 fracciones I, II y III de esta ley. Para estos efectos, las referencias al Poder Judicial del Estado, se entenderán al Tribunal para Menores Infractores, los hechos a las salas y juzgados, se entienden hechos a la sala y juzgados del Tribunal para Menores Infractores, y las del Consejo de la Judicatura a la Comisión de Administración;
+
+XIII. Nombrar a los secretarios, a los actuarios, oficiales de partes, así como al personal administrativo y técnico que se requiera para el buen funcionamiento del Tribunal para Menores Infractores del Poder Judicial del Estado; y
+
+XIV. Desempeñar cualquier otra función que la ley o el Reglamento Interno del Tribunal para Menores Infractores del Poder Judicial del Estado le encomienden.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 255.
+
+El Presidente de la Comisión de Administración, tendrá las facultades y obligaciones siguientes:
+
+I. Representar a la Comisión;
+
+II. Presidir, dirigir los debates y conservar el orden durante sus sesiones;
+
+III. Tramitar o turnar, cuando corresponda, los asuntos entre los integrantes de la Comisión para que se formulen los proyectos de resolución;
+
+IV. Despachar la correspondencia de la Comisión y firmar las resoluciones o acuerdos, así como legalizar por sí o por conducto del Secretario de la Comisión, la firma de cualquier servidor del Tribunal para Menores Infractores del Poder Judicial del Estado, en los casos en que la ley lo exija;
+
+V. Vigilar el correcto funcionamiento de los órganos auxiliares de la Comisión de Administración;
+
+VI. Informar al Consejo de la Judicatura de las faltas de su representante ante la Comisión de Administración, para los efectos legales y administrativos a que haya lugar;
+
+VII. Proponer para su nombramiento a la Comisión de Administración, a los titulares de sus órganos auxiliares; y
+
+VIII. Las demás que les señalen la ley, el Reglamento Interno y los acuerdos generales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 256.
+
+Para el adecuado ejercicio de las funciones que tiene encomendadas, la Comisión de Administración contará con los órganos auxiliares siguientes: la Secretaría Administrativa y el Centro de Documentación y Estadística Jurisdiccional.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 257.
+
+La Secretaría Administrativa tendrá a su cargo la atención, ejecución y cumplimiento de las resoluciones y acuerdos de la Comisión de Administración relativos a los recursos humanos, financieros y materiales del Tribunal para Menores Infractores, de acuerdo con las partidas autorizadas en el presupuesto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### ARTÍCULO 258.
+
+El Centro de Documentación y Estadística Jurisdiccional se sujetará a las reglas de organización y funcionamiento que determine la Comisión de Administración y tendrá a su cargo la actualización, incremento y vigilancia del acervo documental y lo relacionado con los servicios de consulta, difusión e intercambio bibliotecario que al efecto precise el Reglamento Interno del propio Tribunal para Menores Infractores del Poder Judicial del Estado, así como registrar, clasificar y compilar los criterios relevantes sustentados por el Tribunal para Menores Infractores del Poder Judicial del Estado, sistematizando los datos cuantitativos de la actividad jurisdiccional de éste.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -2785,11 +3017,15 @@ Derechos laborales y administrativos del personal.
 
 Esta Ley, al entrar en vigor, no afectará los derechos laborales y administrativos adquiridos y, por ende, tampoco su situación actual como servidores públicos del Poder Judicial del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO SÉPTIMO.
 
-Revisiones forzosas y extraordinarias.
+Apelaciones, Revisiones forzosas y extraordinarias.
 
-De las revisiones forzosas y extraordinarias seguirán conociendo las Salas Colegiadas del Tribunal Superior de Justicia hasta la conclusión de los asuntos del sistema penal tradicional.
+De las apelaciones, revisiones forzosas y extraordinarias seguirán conociendo las Salas Colegiadas del Tribunal Superior de Justicia, como lo venían haciendo hasta la conclusión de los asuntos del sistema penal tradicional.
 
 ###### ARTÍCULO OCTAVO.
 
@@ -2850,3 +3086,27 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- El presente decreto, entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la declaratoria que emita el Congreso del Estado o la Comisión permanente a solicitud expresa del Tribunal Superior de Justicia del Estado.
+
+Artículo Tercero. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+Artículo Cuarto.- A efecto de dar cumplimiento al contenido del decreto No., 383, a 14 de octubre de 2009, mediante el cual se incorpora al Tribunal para Menores Infractores dentro del ámbito del Poder Judicial del Estado, se hace necesario reasignar el presupuesto establecido para el funcionamiento del Tribunal de referencia, dentro de la Ley de Egresos del Estado Libre y Soberano de Durango, para el ejercicio Fiscal de 2010.
+
+Artículo Quinto.- En tanto entre en vigor la presente Ley, el Magistrado, los Jueces de Menores y de Ejecución, tendrán la misma competencia prevista en el Código de Justicia para Menores Infractores del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango con fecha 11 de septiembre de 2006 y sus reformas.
+
+A la entrada en vigor del presente decreto, la permanencia y atribuciones de los servidores públicos del Tribunal para Menores Infractores del Poder Judicial del Estado, se ajustarán a las siguientes prevenciones:
+
+I.- Los Magistrados, duraran en su encargo el tiempo por el cual fueron designados, en términos del Artículo Decimo Segundo, Transitorio del decreto 293, expedido por el H. Congreso del Estado de Durango que contiene el Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha; feneciendo dicho termino (14) catorce de septiembre de (2010) dos mil diez, podrán ser reelectos, conforme el procedimiento.
+
+II.- A los jueces de Menores y de Ejecución, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha; lo anterior, sin perjuicio de que su ratificación, o nombramiento sea mediante examen por oposición, en los términos que dispone el Consejo de la Judicatura.
+
+III.- Al Secretario General de Acuerdos del Tribunal, los secretarios proyectistas, secretarios de acuerdos y demás personal de base y de confianza que labora en el Tribunal para Menores Infractores del Estado de Durango, se les respetarán sus derechos laborales adquiridos conforme al Código de Justicia para Menores Infractores vigente (sic) el Estado de Durango, de fecha (11) once (sic) septiembre del año dos mil seis y publicado en el Periódico Oficial del Gobierno del Estado de Durango, en esa misma fecha;
+
+IV.- En la readscripción de los empleados y trabajadores del Tribunal para Menores Infractores, al Poder Judicial, se respetarán sus derechos adquiridos.
