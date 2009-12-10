@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2009-09-24"
+last_updated: "2009-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON LA FRACCION IV DEL ARTICULO SEGUNDO DEL DECRETO No. 420, MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL DECRETO No. 259 DEL 18 DE FEBRERO DE 2009 Y LAS REFORMAS POSTERIORES A LA CITADA LEY HAN ENTRADO EN VIGOR.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -787,7 +789,11 @@ VI. Los Directores y Subdirectores de Área de la Policía.
 
 La Policía, estará constituida por cuerpos, que atiendan enunciativamente las siguientes líneas de acción; apoyo a las instituciones encargadas de la administración de justicia penal, ecología, caminos, policía de contacto, cuerpo general de policía, apoyo táctico, unidad canina, seguridad penitenciaria, inteligencia e intervención, ejercerán las facultades que les otorgan esta Ley y las demás disposiciones jurídicas de la materia, apegándose a los principios constitucionales de legalidad, eficiencia, objetividad, profesionalismo, honradez y respeto a los derechos humanos.
 
-La Policía Estatal, contará con un cuerpo especializado en el apoyo a las labores que realicen los jueces y tribunales encargados de impartir la justicia penal que estará al mando de las citadas autoridades jurisdiccionales y de manera operativa de la Secretaría de Seguridad; dicho cuerpo será encargado de brindar el apoyo y seguridad en la realización de las actividades que se realicen en los juicios penales y aquellas que se deriven de la instrumentación de las medidas de seguridad que resulten de aquellos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La Policía Procesal es un cuerpo especializado encargado de brindar el apoyo en las labores de traslado y vigilancia de los procesados y sentenciados al interior del Tribunal de Juicio Oral, correspondiendo a los demás cuerpos de seguridad pública, las funciones referentes a la supervisión y vigilancia de las medidas de seguridad.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -2321,19 +2327,25 @@ Los Comités podrán formular propuestas a los Consejos de Seguridad Pública, p
 
 Las anteriores disposiciones sobre la regulación de los Consejos y Comités Ciudadanos podrán ser complementadas por otras que dicte el Consejo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-## TÍTULO SÉPTIMO. DE LA PREVENCIÓN Y REINSERCIÓN SOCIAL
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+## TÍTULO SÉPTIMO. DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
 
 ### CAPÍTULO I
 
 ###### ARTÍCULO 145.
 
-Facultades de la Dirección
+Facultades de la Dirección General de Ejecución de Penas y Medidas de Seguridad.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 La Dirección, dependiente de la Secretaría de Seguridad Pública, será el órgano del Poder Ejecutivo al que corresponda.
 
@@ -2685,38 +2697,128 @@ CUARTO. El Ejecutivo emitirá el Acuerdo Administrativo mediante el cual se esta
 
 P.O. 19 DE FEBRERO DE 2009.
 
-PRIMERO.- Las reformas, adiciones y derogaciones contenidas en el presente decreto, entrarán en vigor en los términos previstos en el Articulo Primero Transitorio, fracción II del Código Procesal Penal del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 11 de fecha 5 de diciembre de 2008.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-SEGUNDO.- Con la iniciación de la vigencia prevista en el anterior artículo transitorio, quedarán derogadas todas las disposiciones que se opongan a las contenidas en el presente decreto.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-TERCERO.- Las disposiciones que en materia de seguridad pública y seguridad privada, se encuentren vigentes al momento de la publicación del presente decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, continuarán en vigor hasta en tanto sean promulgadas, publicadas e inicien su vigencia los ordenamientos aludidos en los artículos sexto, séptimo y octavo transitorios del presente decreto.
+Artículo Primero.- Las reformas contenidas en el presente decreto relacionadas con el sistema procesal penal acusatorio, entrarán en vigor en las fechas y ámbitos espacial y temporal de validez que determinen la (sic) declaratorias que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
 
-CUARTO.- El Centro Estatal de Acreditación y Control de Confianza, a que se refiere el Título Noveno, Capítulo Único de la presente Ley deberá practicar las evaluaciones respectivas a sus integrantes conforme a lo establecido en el Artículo Transitorio Tercero de la Ley General del Sistema Nacional de Seguridad Pública.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-QUINTO.- Todos los integrantes de las Instituciones de Seguridad Pública deberán contar certificado a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y la presente Ley en los términos y plazos previstos en el artículo transitorio anterior. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-SEXTO.- Los servicios de carrera vigentes en la Secretaría de Seguridad Pública, a la fecha entrada en vigor de este Decreto, deberá ajustarse a los requisitos, criterios y procedimientos que establece la presente ley en la rama correspondiente en un plazo no mayor al establecido en el Artículo Quinto Transitorio de la Ley General del Sistema Nacional de Seguridad Pública.
+Artículo Segundo.- Con la iniciación de la vigencia prevista en el artículo transitorio anterior, quedarán derogadas todas las disposiciones que se opongan a las contenidas en el presente decreto.
 
-SEPTIMO.- El Ejecutivo Estatal expedirá los reglamentos respectivos en un plazo no mayor de noventa días a partir de la entrada en vigor del presente Decreto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-OCTAVO.- La Secretaría de Seguridad, emitirá los manuales de operación de las áreas correspondientes, a partir de la aprobación de los reglamentos a que se refiere el artículo anterior.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-NOVENO.- En lo que respecta a la elaboración de los planes y programas, así como proyectos de presupuesto se atenderá a lo dispuesto en el Artículo Octavo Transitorio del Código Procesal Penal del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 11 de fecha 5 de diciembre de 2008.
+Artículo Tercero.- Las disposiciones que en materia de seguridad pública y seguridad privada, se encuentren vigentes al momento de la publicación del presente decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, continuarán en vigor hasta en tanto sean promulgadas, publicadas e inicien su vigencia los ordenamientos aludidos en los articulas sexto, séptimo y octavo transitorios del presente decreto.
 
-DÉCIMO.- Las reformas y adiciones efectuadas en las secciones primera y segunda del Capítulo Tercero contenidas en el presente Decreto relacionadas con el Consejo Estatal de Seguridad Pública y el Secretariado Ejecutivo entrarán en vigor el día siguiente de la fecha de publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Cuarto.- El Centro Estatal de Acreditación y Control de Confianza, a que se refiere el Título Noveno, Capítulo Único de la presente Ley deberá practicar las evaluaciones respectivas a sus integrantes conforme a lo establecido en el Artículo Transitorio Tercero de la Ley General del Sistema Nacional de Seguridad Pública.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Quinto.- Todos los integrantes de las Instituciones de Seguridad Pública deberán contar con certificado a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y la presente ley en los términos y plazos previstos en el artículo transitorio anterior. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Sexto.- Los servicios de carrera vigentes en la Secretaría de Seguridad Pública, a la fecha de entrada en vigor de este Decreto, deberá ajustarse a los requisitos, criterios y procedimientos que establece la presente ley en la rama correspondiente en un plazo no mayor al establecido en el Artículo Quinto Transitorio de la Ley General del Sistema Nacional de Seguridad Pública.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Séptimo.- El Ejecutivo Estatal expedirá los reglamentos respectivos en un plazo no mayor de noventa días a partir de la entrada en vigor del presente Decreto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Octavo.- La Secretaría de Seguridad, emitirá los manuales de operación de las áreas correspondientes, a partir de la aprobación de los reglamentos a que se refiere el artículo anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Noveno.- En lo que respecta a la elaboración de los planes y programas, así como proyectos de presupuesto se atenderá a lo dispuesto en el Artículo Octavo Transitorio del Código Procesal Penal del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 11 de fecha 5 diciembre de 2008.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Décimo.- Las reformas y adiciones efectuadas en las secciones primera y segunda del Capítulo Tercero contenidas en el presente Decreto relacionadas con el Consejo Estatal de Seguridad Pública y el Secretariado Ejecutivo entrarán en vigor el día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 Se derogan todas las disposiciones que se opongan a las relacionadas con el Consejo Estatal de Seguridad Pública y el Secretariado Ejecutivo, citadas con anterioridad.
 
 En su aplicación se observarán las siguientes prevenciones:
 
-I. Dentro de los cinco días siguientes a la entrada en vigor del presente decreto, se constituirá la Junta Directiva del Secretariado Ejecutivo y fungirá como Secretario Ejecutivo el designado y actualmente en funciones en los términos de la fracción VIII del artículo 89 de la presente Ley;
+l. Dentro de los cinco días siguientes a la entrada en vigor del presente decreto, se constituirá la Junta Directiva del Secretariado Ejecutivo y fungirá como Secretario Ejecutivo el designado y actualmente en funciones en los términos de la fracción VIII del artículo 89 de la presente Ley;
 
 II. La Junta Directiva del Secretariado Ejecutivo emitirá el reglamento interior correspondiente dentro de los treinta días siguientes a la entrada en vigor del presente decreto;
 
-III. Los asuntos que se encuentren en trámite o en proceso en los que el Fideicomiso denominado Fondo de Seguridad Pública en el Estado de Durango, sea parte o tenga interés ella entrada en vigor del presente decreto, continuarán tramitándose hasta resolución de conformidad con las normas y el procedimiento vigente al momento de haber iniciado su respectivo desahogo.
+III. Los asuntos que se encuentren en trámite o en proceso en los que el Fideicomiso denominado Fondo de Seguridad Pública en el Estado de Durango, sea parte o tenga interés a la entrada en vigor del presente decreto, continuarán tramitándose hasta resolución de conformidad con las normas y el procedimiento vigente al momento de haber iniciado su respectivo desahogo.
 
 P.O. 24 DE SEPTIEMBRE DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+DECRETO No. 416, POR EL QUE SE REFORMAN DIVERSOS ARTICULOS DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO.
+
+Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- El presente decreto, entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
+
+SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales y a la Asamblea Legislativa del Distrito Federal copia de la presente declaratoria.
+
+TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del articulo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
+
+Artículo Segundo.- El Sistema Procesal Penal Acusatorio se adoptará en el Primer Distrito Judicial o Región que tenga como cabecera la Ciudad de Victoria de Durango, Durango y con tal efecto entrarán en vigor en su jurisdicción territorial, a las cero horas del día 14 de Diciembre de 2009, los siguientes ordenamientos:
+
+I. Código Procesal Penal del Estado de Durango, aprobado mediante Decreto N° 232 del 4 de diciembre de 2008, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2008 y sus reformas posteriores;
+
+II. Código Penal para el Estado Libre y Soberano de Durango aprobado mediante Decreto Nº 284 del 11 de junio de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009;
+
+III. Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango aprobado mediante Decreto Nº 338 del 14 de Agosto de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 31 de fecha 15 de Octubre de 2009; y
+
+IV. Las reformas a la Ley de Seguridad Pública para el Estado de Durango relacionadas con el Sistema Procesal Penal Acusatorio, aprobadas mediante Decreto N° 259 del 18 de Febrero de 2009, promulgadas y publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 15 Bis de Fecha 19 de febrero de 2009 y las reformas posteriores a la citada Ley en la misma materia.
+
+Artículo Tercero.- La jurisdicción territorial correspondiente al Primer Distrito Judicial o Región, según sea el caso, será la que establece el Artículo Octavo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Durango aprobada por la LXIV Legislatura mediante Decreto Número 296 del 30 de Junio de 2009 y promulgada y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Número 1 de fecha 2 de Julio del año 2009 o la que determine en lo sucesivo el Pleno del Tribunal Superior de Justicia del Estado, en ejercicio de sus atribuciones mediante el Acuerdo General respectivo.
+
+Artículo Cuarto.- Entrarán en vigor en todo el territorio del Estado sin perjuicio de las prevenciones establecidas en sus decretos de creación y sus reformas posteriores:
+
+I.- La Ley del Instituto de Defensoría Pública del Estado de Durango aprobada mediante el Decreto 261 del 18 de Febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 20 de fecha 8 de marzo de 2009 y -sus reformas posteriores, y;
+
+II.- Ley de Justicia Penal Restaurativa del Estado de Durango aprobada mediante el Decreto Nº 257 del 18 de febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 17 bis, de fecha 26 de febrero de 2009 y sus reformas posteriores.
+
+Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Integral de Justicia para Menores Infractores y se incorporará a los ordenamientos enunciados a continuación, mismos que entrarán en vigor a las cero horas del día 14 de diciembre de 2009 en todo el territorio del Estado:
+
+1.- Código de Justicia para Menores Infractores del Estado de Durango aprobado mediante el Decreto 348 del 14 de Agosto de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango Nº 30 de fecha 11 de octubre de 2009;
+
+2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
+
+3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
