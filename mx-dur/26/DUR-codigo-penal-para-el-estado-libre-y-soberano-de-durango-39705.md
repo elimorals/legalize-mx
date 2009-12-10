@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2009-06-14"
+last_updated: "2009-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO, SEGUNDO Y OCTAVO TRANSITORIOS DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO ABROGADO EN LO QUE SE OPONGA AL CONTENIDO DEL NUEVO CODIGO, HASTA EN TANTO SE PUBLIQUE EN EL P.O. DEL ESTADO LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL REFERIDO INSTRUMENTO, POR LO QUE LAS DISPOSICIONES DEL PRESENTE CODIGO SE APLICARAN PARA INVESTIGAR Y JUZGAR LOS DELITOS COMETIDOS DURANTE LA VIGENCIA DEL MISMO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -4025,6 +4025,140 @@ SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al pre
 
 P.O. 14 DE JUNIO DE 2009.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Primero.- Entrada en vigor.
+
+El presente Código entrará en vigor en fechas y ámbitos espacial y temporal de validez que determinen las Declaratorias que emita Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
+
+Para Sistema Integral de Justicia para Menores Infractores, el presente ordenamiento entrará en vigor en todo el territorio del Estado, en la fecha que determine la declaratoria que emita el Congreso del Estado o la Comisión Permanente, a solicitud expresa del Tribunal Superior de Justicia del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Segundo.- Abrogación y Derogación.
+
+El Código Penal Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 35 del 29 de abril de 2004 y sus reformas posteriores, se abrogará en la fecha y ámbito espacial y temporal de validez en que se determine la Declaratoria a que alude el artículo primero transitorio del presente decreto, conforme a las siguientes prevenciones:
+
+I.- En el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Victoria de Durango, Dgo, el Código referido con antelación, seguirá rigiendo, en los procedimientos por delitos cometidos con anterioridad a la entrada en vigor del presente Código Penal para el Estado Libre y Soberano de Durango, y quedará abrogado cuando el último de los procedimientos tramitados conforme al primero, haya causado ejecutoria;
+
+II.- En el resto de los Distritos Judiciales o Regiones, sus disposiciones seguirán aplicándose hasta la fecha y en los términos que contengan las declaratorias respectivas que emitirán el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, y que se publicarán en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Tercero.- Procedimientos anteriores.
+
+En los procedimientos iniciados por delitos previstos en el Código Penal Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 35 del 29 de abril de 2004 y sus reformas posteriores, que se perseguían oficiosamente y que a partir de la entrada en vigor del Presente Código Penal para el Estado Libre y Soberano de Durango.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Cuarto.- Libertad provisional.
+
+En los delitos cometidos con anterioridad a la vigencia del presente código, si los responsables tenían derecho a la libertad provisional bajo caución, seguirán gozando de dicho beneficio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Quinto.- Modificación o reubicación de tipos penales.
+
+La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Sexto.- Acción penal y pretensión punitiva.
+
+Cuando algún ordenamiento jurídico local haga referencia a la figura de la acción penal, se entenderá que lo hace refiriéndose a la pretensión punitiva consignada en el presente Código Penal para el Estado Libre y Soberano de Durango.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Séptimo.- Distribución de competencias en ejecución de sentencias.
+
+Las disposiciones relativas a la ejecución de penas, medidas de seguridad, medidas cautelares y las condiciones impuestas en la suspensión del proceso a prueba, respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto, serán ejercidas por los Jueces de Ejecución, sin perjuicio de la coordinación que deban mantener con la Dirección General de Ejecución de las Penas y Medidas de Seguridad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Octavo.- Aplicación de este código.
+
+El presente código, se aplicará en las fechas y ámbitos espaciales y temporales de validez, que determinen las declaratorias a que alude el artículo primero transitorio del presente Decreto; y sus disposiciones sólo se aplicarán a los procedimientos por delitos cometidos a partir de su entrada en vigor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Artículo Noveno.- Régimen para la delincuencia organizada.
+
+Las disposiciones en materia de delincuencia organizada, contempladas en el Capítulo II, Titulo Cuarto del Libro Segundo del presente Decreto, continuarán vigentes, hasta en tanto entren en vigor las disposiciones legales que el Congreso de la Unión expida, en ejercicio de la facultad que le confiere el artículo 73, fracción XXI de la Constitución Política de los Estados Unidos Mexicanos.
+
+Los procesos penales iniciados con fundamento en el presente ordenamiento, así como las sentencias emitidas con base en el mismo, no serán afectados por la entrada en vigor de la legislación federal. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, a las disposiciones vigentes antes de la entrada en vigor de esta última.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+DECRETO No. 415, POR EL QUE SE REFORMAN DIVERSOS PRECEPTOS DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del
+
+Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- El presente decreto, entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la declaratoria que emita el congreso del Estado o la Comisión permanente a solicitud expresa del Tribunal Superior de Justicia del Estado.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
+
+SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales y a la Asamblea Legislativa del Distrito Federal copia de la presente declaratoria.
+
+TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del articulo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
+
+Artículo Segundo.- El Sistema Procesal Penal Acusatorio se adoptará en el Primer Distrito Judicial o Región que tenga como cabecera la Ciudad de Victoria de Durango, Durango y con tal efecto entrarán en vigor en su jurisdicción territorial, a las cero horas del día 14 de Diciembre de 2009, los siguientes ordenamientos:
+
+I. Código Procesal Penal del Estado de Durango, aprobado mediante Decreto N° 232 del 4 de diciembre de 2008, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2008 y sus reformas posteriores;
+
+II. Código Penal para el Estado Libre y Soberano de Durango aprobado mediante Decreto Nº 284 del 11 de junio de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009;
+
+III. Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango aprobado mediante Decreto Nº 338 del 14 de Agosto de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 31 de fecha 15 de Octubre de 2009; y
+
+IV. Las reformas a la Ley de Seguridad Pública para el Estado de Durango relacionadas con el Sistema Procesal Penal Acusatorio, aprobadas mediante Decreto N° 259 del 18 de Febrero de 2009, promulgadas y publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 15 Bis de Fecha 19 de febrero de 2009 y las reformas posteriores a la citada Ley en la misma materia.
+
+Artículo Tercero.- La jurisdicción territorial correspondiente al Primer Distrito Judicial o Región, según sea el caso, será la que establece el Artículo Octavo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Durango aprobada por la LXIV Legislatura mediante Decreto Número 296 del 30 de Junio de 2009 y promulgada y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Número 1 de fecha 2 de Julio del año 2009 o la que determine en lo sucesivo el Pleno del Tribunal Superior de Justicia del Estado, en ejercicio de sus atribuciones mediante el Acuerdo General respectivo.
+
+Artículo Cuarto.- Entrarán en vigor en todo el territorio del Estado sin perjuicio de las prevenciones establecidas en sus decretos de creación y sus reformas posteriores:
+
+I.- La Ley del Instituto de Defensoría Pública del Estado de Durango aprobada mediante el Decreto 261 del 18 de Febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 20 de fecha 8 de marzo de 2009 y -sus reformas posteriores, y;
+
+II.- Ley de Justicia Penal Restaurativa del Estado de Durango aprobada mediante el Decreto Nº 257 del 18 de febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 17 bis, de fecha 26 de febrero de 2009 y sus reformas posteriores.
+
+Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Integral de Justicia para Menores Infractores y se incorporará a los ordenamientos enunciados a continuación, mismos que entrarán en vigor a las cero horas del día 14 de diciembre de 2009 en todo el territorio del Estado:
+
+1.- Código de Justicia para Menores Infractores del Estado de Durango aprobado mediante el Decreto 348 del 14 de Agosto de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango Nº 30 de fecha 11 de octubre de 2009;
+
+2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
+
+3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
+
 ###### ARTÍCULO PRIMERO.
 
 Inicio de Vigencia.
@@ -4036,47 +4170,3 @@ El presente decreto entrará en vigor una vez que se publique en el Periódico O
 Derogación tácita de preceptos incompatibles.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
-
-###### ARTÍCULO TERCERO.
-
-Procedimientos anteriores.
-
-En los procedimientos iniciados por delitos que se perseguían oficiosamente y en adelante lo sean por querella, no terminarán, a no ser que el interesado otorgue el perdón.
-
-###### ARTÍCULO CUARTO.
-
-Libertad provisional.
-
-En los delitos cometidos con anterioridad a la vigencia del presente código, si los responsables tenían derecho a la libertad provisional bajo caución, seguirán gozando de dicho beneficio.
-
-###### ARTÍCULO QUINTO.
-
-Modificación o reubicación de tipos penales.
-
-La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
-
-###### ARTÍCULO SEXTO.
-
-Acción penal y pretensión punitiva.
-
-Cuando algún ordenamiento jurídico local haga referencia a la figura de la acción penal, se entenderá que lo hace refiriéndose a la pretensión punitiva.
-
-###### ARTÍCULO SÉPTIMO.
-
-Distribución de competencias en ejecución de sentencias.
-
-Las disposiciones relativas a la ejecución de penas y medidas de seguridad respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto, que en lo subsecuente corresponda aplicarlas a la autoridad judicial, serán ejercidas, en su caso, por los jueces penales de primera instancia que hayan conocido de las causas respectivas, en los distritos judiciales en los que no haya entrado en vigor el Código Procesal Penal publicado el Periódico Oficial No. 11 de fecha cinco de diciembre de dos mil ocho en el Periódico Oficial del Gobierno Constitucional del Estado, sin perjuicio de la coordinación que deban mantener con las autoridades encargadas de la ejecución de las penas y medidas de seguridad.
-
-El Pleno del Tribunal Superior de Justicia acordará, mediante disposiciones generales que establezcan un modelo de distribución de competencias, el ejercicio de las facultades más trascendentes por parte de los jueces de ejecución de penas de otros distritos. Esta facultad la ejercerá el Pleno desde la entrada en vigor del presente decreto, hasta que el nuevo sistema de justicia penal se encuentre en vigor en todo el territorio estatal.
-
-###### ARTÍCULO OCTAVO.
-
-Aplicación de este código.
-
-Las disposiciones de este código sólo se aplicarán a los hechos acaecidos con posterioridad a su entrada en vigor, por lo tanto, el Código Penal para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 35 de fecha 29 de abril de 2004 y sus reformas, se aplicará para investigar y juzgar los delitos cometidos durante la vigencia del mismo.
-
-###### ARTÍCULO NOVENO.
-
-Régimen para la delincuencia organizada.
-
-Las disposiciones en materia de delincuencia organizada, contempladas en el Capitulo II, Titulo Cuarto del Libro Segundo del presente Decreto, continuarán vigentes, hasta en tanto entren en vigor las disposiciones legales que el Congreso de la Unión expida, en ejercicio de la facultad que le confiere el artículo 73, fracción XXI de la Constitución Política de los Estados Unidos Mexicanos.
