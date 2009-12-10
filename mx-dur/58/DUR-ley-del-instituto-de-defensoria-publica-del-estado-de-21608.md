@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-instituto-de-defensoria-publica-del-estado-de-21608"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-27"
-last_updated: "2009-06-21"
+last_updated: "2009-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "DUR"
 ---
 # LEY DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE DURANGO
 
-LEY DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE DURANGO
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O DE 8 DE MARZO DE 2009, Y REFORMADA POR DECRETOS NO. 281 Y NO. 419, PUBLICADOS EN EL P.O. DE 21 DE JUNIO Y 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO HASTA EN TANTO SE PUBLIQUE LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISIÓN PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL CÓDIGO PROCESAL PENAL DEL ESTADO, DE DURANGO.]
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DEL INSTITUTO DE DEFENSORIA PUBLICA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O DE 8 DE MARZO DE 2009, Y REFORMADO POR DECRETO No. 281, PUBLICADO EN EL P.O. DE 21 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO HASTA EN TANTO SE PUBLIQUE LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL CODIGO PROCESAL PENAL DEL ESTADO, DE DURANGO.</small>
+[NOTA 2: DE CONFORMIDAD CON LA FRACCIÓN I DEL ARTÍCULO CUARTO Y ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO NO. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN AL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.]
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2009.
+LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE DURANGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2009.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 27 de mayo de 2001.
 
@@ -483,21 +485,25 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO. A LOS VEINT
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ANGEL SERGIO GUERRERO MIER.- EL SECRETARIO GENERAL DE GOBIERNO. LIC. JOSE MIGUEL CASTRO CARRILLO.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O 8 DE MARZO DE 2009.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO PRIMERO.
 
-La presente Ley entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado, de Durango.
+La presente Ley entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado.
 
 Hasta que se dé cumplimiento a lo dispuesto en el párrafo anterior, se abrogará la Ley del Instituto de Defensoría Pública del Estado, contenida en el Decreto No. 403, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 42, de fecha 27 de mayo del 2001.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
 La presente Ley, se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO TERCERO.
 
@@ -509,11 +515,15 @@ I. El Director General, permanecerá en el cargo por el período que haya sido d
 
 II. Los puestos de Subdirector y de Coordinador de Defensores Públicos y Asesores Jurídicos, tendrán el carácter, denominación, atribuciones y período de encargo, que esta Ley le establece al Subdirector Operativo y al Coordinador General de los Servicios de Defensoría Pública respectivamente; los actuales titulares, podrán ser ratificados en los términos de la presente Ley.
 
-Para efectos del cumplimiento de esta ley, se entenderá que la Unidad Administrativa, asume las facultades y atribuciones conferidas a la Dirección Administrativa. Su titular podrá ser designado en los términos de la presente ley, una vez que se publique la misma en el Periódico Oficial del Gobierno Constitucional del Estado de Durango. En la readscripción de los empleados y trabajadores del Instituto de Defensoría Pública, del Poder Ejecutivo al Poder Judicial, se respetarán sus derechos adquiridos. .
+Para efectos del cumplimiento de esta ley, se entenderá que la Unidad Administrativa, asume las facultades y atribuciones conferidas a la Dirección Administrativa. Su titular podrá ser designado en los términos de la presente ley, una vez que se publique la misma en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+En la readscripción de los empleados y trabajadores del Instituto de Defensoría Pública, del Poder Ejecutivo al Poder Judicial, se respetarán sus derechos adquiridos.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO CUARTO.
 
-Con motivo de la entrada en vigor del nuevo sistema de justicia penal a que alude el artículo primero transitorio del Código Procesal Penal del Estado de Durango, aprobado mediante decreto 232, en fecha 4 de diciembre de 2008 y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 Extraordinario, en fecha 5 de diciembre de 2008; y de conformidad con las previsiones presupuestales respectivas se seleccionara, capacitaran y designaran a los servidores públicos que se requieran para la implementación de dicha reforma. Asimismo, se designaran a los profesionistas de los servicios auxiliares que se requieran,
+Con motivo de la entrada en vigor del Nuevo Sistema de Justicia Penal a que alude el artículo primero transitorio del Código Procesal Penal del Estado de Durango, aprobado mediante decreto 232 en fecha 4 de diciembre de 2008 y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 Extraordinario, en fecha 5 de diciembre de 2008, y de conformidad con las previsiones presupuestales respectivas se seleccionará, capacitarán y designarán a los servidores públicos que se requieran para la implementación de dicha reforma. Asimismo, se designarán a los profesionistas de los servicios auxiliares que se requieran.
 
 ###### ARTÍCULO QUINTO.
 
@@ -529,10 +539,60 @@ El Titular del Poder Ejecutivo efectuará las reasignaciones y transferencias pr
 
 P.O. 21 DE JUNIO DE 2009.
 
-###### ARTÍCULO PRIMERO.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y comenzará su vigencia, de conformidad con el contenido del artículo primero transitorio que se contiene en el decreto.
+Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
 
-###### ARTÍCULO SEGUNDO.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
-Se derogan todas las disposiciones que se opongan al presente decreto.
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P. O. 10 DE DICIEMBRE DE 2009.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 419.- QUE CONTIENE REFORMAS A LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE DURANGO”.]
+
+Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- El presente decreto, entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 420.- QUE CONTIENE LA DECLARATORIA DE INCORPORACIÓN AL SISTEMA PROCESAL PENAL ACUSATORIO, Y DE ENTRADA EN VIGOR DEL CODIGO PROCESAL PENAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
+
+SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales y a la Asamblea Legislativa del Distrito Federal copia de la presente declaratoria.
+
+TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del artículo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
+
+Artículo Segundo.- El Sistema Procesal Penal Acusatorio se adoptará en el Primer Distrito Judicial o Región que tenga como cabecera la Ciudad de Victoria de Durango, Durango y con tal efecto entrarán en vigor en su jurisdicción territorial, a las cero horas del día 14 de Diciembre de 2009, los siguientes ordenamientos:
+
+I. Código Procesal Penal del Estado de Durango, aprobado mediante Decreto N° 232 del 4 de diciembre de 2008, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2008 y sus reformas posteriores;
+
+II. Código Penal para el Estado Libre y Soberano de Durango aprobado mediante Decreto Nº 284 del 11 de junio de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009;
+
+III. Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango aprobado mediante Decreto Nº 338 del 14 de Agosto de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 31 de fecha 15 de Octubre de 2009; y
+
+IV. Las reformas a la Ley de Seguridad Pública para el Estado de Durango relacionadas con el Sistema Procesal Penal Acusatorio, aprobadas mediante Decreto N° 259 del 18 de Febrero de 2009, promulgadas y publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 15 Bis de Fecha 19 de febrero de 2009 y las reformas posteriores a la citada Ley en la misma materia.
+
+Artículo Tercero.- La jurisdicción territorial correspondiente al Primer Distrito Judicial o Región, según sea el caso, será la que establece el Artículo Octavo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Durango aprobada por la LXIV Legislatura mediante Decreto Número 296 del 30 de Junio de 2009 y promulgada y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Número 1 de fecha 2 de Julio del año 2009 o la que determine en lo sucesivo el Pleno del Tribunal Superior de Justicia del Estado, en ejercicio de sus atribuciones mediante el Acuerdo General respectivo.
+
+Artículo Cuarto.- Entrarán en vigor en todo el territorio del Estado sin perjuicio de las prevenciones establecidas en sus decretos de creación y sus reformas posteriores:
+
+I.- La Ley del Instituto de Defensoría Pública del Estado de Durango aprobada mediante el Decreto 261 del 18 de Febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 20 de fecha 8 de marzo de 2009 y sus reformas posteriores, y;
+
+II.- Ley de Justicia Penal Restaurativa del Estado de Durango aprobada mediante el Decreto Nº 257 del 18 de febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 17 bis, de fecha 26 de febrero de 2009 y sus reformas posteriores.
+
+Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Integral de Justicia para Menores Infractores y se incorporará a los ordenamientos enunciados a continuación, mismos que entrarán en vigor a las cero horas del día 14 de diciembre de 2009 en todo el territorio del Estado:
+
+1.- Código de Justicia para Menores Infractores del Estado de Durango aprobado mediante el Decreto 348 del 14 de Agosto de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango Nº 30 de fecha 11 de octubre de 2009;
+
+2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
+
+3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
