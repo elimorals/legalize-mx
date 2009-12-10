@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2008-12-11"
+last_updated: "2009-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -53,7 +53,7 @@ La presente Ley tiene por objeto regular la organización y funcionamiento de la
 
 ###### Artículo 2.
 
-El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las atribuciones, funciones y obligaciones que le señalen: La Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de México, la presente Ley y las demás disposiciones jurídicas relativas vigentes en el Estado. El Sector paraestatal, se regirá por la presente Ley y demás disposiciones que le resulten aplicables.
+El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las atribuciones, funciones y obligaciones que le señalen: la Constitución Política de los Estados Unidos Mexicanos, La Constitución Política del Estado de México, la presente Ley y las demás disposiciones jurídicas relativas vigentes en el Estado. El Sector paraestatal, se regirá por la presente Ley y demás disposiciones que le resulten aplicables.
 
 ###### Artículo 3.
 
@@ -597,7 +597,13 @@ LlV. Comparecer ante terceros con facultades para formular declaraciones en repr
 
 En los convenios antes mencionados que celebre el Estado se podrán estipular las cláusulas que se requieran incluyendo, entre otras, las aplicables a la jurisdicción.
 
-LV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+LV. Hacer efectivas las garantías otorgadas bajo cualquier modalidad a favor del Gobierno del Estado de México, mediante los procedimientos previstos en las disposiciones legales y reglamentarias aplicables.
+
+LVI. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2000)</small>
 
@@ -1884,6 +1890,14 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 CUARTO.- La emisión, venta y recaudación de las tarjetas de prepago deberá estar a cargo del concesionario que proporcione este servicio, por lo que se establece un término de 6 meses a fin, de concretar la mecánica de este programa.
+
+G.G. 10 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1º de enero de 2010.
+
+TERCERO.- Se ratifican las retenciones efectuadas al amparo de los artículos 230 E y 230 K del Código Financiero del Estado de México y Municipios y Tercero Transitorio del Decreto No. 123 de la H. "LVI" Legislatura publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México de fecha 27 de marzo de 2008, por el periodo de enero de 2008 a diciembre de 2009.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
