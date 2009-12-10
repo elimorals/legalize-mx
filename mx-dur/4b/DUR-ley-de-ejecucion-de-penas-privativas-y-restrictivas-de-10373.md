@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ejecucion-de-penas-privativas-y-restrictivas-de-10373"
 country: "mx"
 rank: "ley"
 publication_date: "1971-06-10"
-last_updated: "2009-10-15"
+last_updated: "2009-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY DE EJECUCION DE PENAS PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE EJECUCION DE PENAS PRIVATIVAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. 15 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO UNA VEZ QUE SE PUBLIQUE LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL CODIGO PROCESAL PENAL DEL ESTADO DE DURANGO, APROBADO MEDIANTE DECRETO No. 232, Y PUBLICADO EN EL PERIODICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE DURANGO, No. 11 DE FECHA 5 DE DICIEMBRE DE 2008.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO, FRACCION III DEL DECRETO No. 420, MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, LA LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE DURANGO HA ENTRADO EN VIGOR, POR TAL MOTIVO, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 10 de junio de 1971.
 
@@ -715,33 +715,47 @@ UNICO.- El presente decreto entrará en vigor, al día siguiente de su publicaci
 
 P.O. 15 DE OCTUBRE DE 2009.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-Inicio de Vigencia.
+Entrada en vigor.
 
-El presente decreto entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
+El presente decreto entrará en vigor en las fechas y ámbitos espacial y temporal de validez que determinen las Declaratorias que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
 
-La vigencia de la ley contenida en el presente decreto iniciará de manera sucesiva, según las siguientes prevenciones:
+La vigencia de la ley contenida en el presente decreto iniciará de manera sucesiva según las siguientes prevenciones:
 
-I. Sus disposiciones se aplicarán en la fecha que la Declaratoria a que hace referencia el primer párrafo de este artículo determine, en el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Durango, Dgo;
+I. Sus disposiciones se aplicarán en la fecha que determine la Declaratoria a que hace referencia el primer párrafo de este artículo, en el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Victoria de Durango, Dgo., únicamente, para los sentenciados en dicho distrito, con independencia del lugar en que estén compurgando la pena privativa de libertad.
 
-II. En el resto de los Distritos Judiciales o Regiones, sus disposiciones se aplicarán en la fecha que contenga la Declaratoria respectiva a que hace referencia al primer párrafo de este artículo;
+En el resto de los Distritos Judiciales o Regiones, sus disposiciones se aplicarán en las fechas que contengan las Declaratorias respectivas que emitirán el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, las que deberán ser publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango;
 
-III. Las disposiciones relativas a la libertad preparatoria, remisión parcial de la pena, tratamiento preliberacional y la suspensión condicional de la condena, respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor de la presente Ley, se regirán conforme a las disposiciones de la misma;
+II. Las facultades que prevé la presente a los jueces de ejecución respecto a la ejecución de las penas privativas de libertad, serán competencia del Titular del Poder Ejecutivo del Estado, por conducto de la Dirección General de Ejecución de Penas y Medidas de Seguridad, hasta el 31 de diciembre de 2009. Transcurrida dicha fecha, las facultades referidas serán competencia absoluta del Juez de Ejecución;
 
-IV. Las disposiciones relativas a la ejecución de penas y medidas de seguridad respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto, que en lo subsecuente corresponda aplicarlas a la autoridad judicial, serán ejercidas, en su caso, por los jueces penales de primera instancia que hayan conocido de las causas respectivas, en los distritos judiciales en los que no haya entrado en vigor el nuevo Código Procesal Penal, sin perjuicio de la coordinación que deban mantener con la Dirección General de Ejecución de Penas y Medidas de Seguridad.
+III. Las disposiciones relativas a la libertad preparatoria, remisión parcial de la pena, tratamiento preliberacional y la suspensión condicional de la condena, respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor de la presente Ley, se regirán conforme a las disposiciones de la presente, salvo lo previsto en la fracción anterior; y
 
-Respecto a las fracciones III y IV, el Pleno del Tribunal Superior de Justicia acordará, mediante disposiciones generales que establezcan un modelo de distribución de competencias, el ejercicio de las facultades más trascendentes por parte de los jueces de ejecución de sentencia de otros distritos. Esta facultad la ejercerá el Pleno desde la entrada en vigor del presente decreto, hasta que el nuevo sistema de justicia penal se encuentre en vigor en todo el territorio estatal.
+IV. Las disposiciones relativas a la ejecución de penas y medidas de seguridad, respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto en el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Victoria de Durango, Dgo., serán ejercidas por los Jueces de Ejecución, sin perjuicio de la coordinación que deban mantener con la Dirección General de Ejecución de Penas y Medidas de Seguridad.
 
-V. Las disposiciones relativas a la ejecución de las medidas cautelares y las condiciones impuestas en la suspensión del proceso a prueba, iniciarán su vigencia conforme a las reglas establecidas en este artículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Abrogación y derogación Tácita de Preceptos Incompatibles.
+Abrogación y derogación.
 
-Se abroga la Ley de Ejecución de Penas Privativas y Restrictivas de Libertad del Estado de Durango, promulgada el nueve de junio de mil novecientos setenta y uno.
+La Ley de Ejecución de Penas Privativas y Restrictivas de Libertad del Estado de Durango, promulgada el nueve de junio de mil novecientos setenta y uno y sus reformas posteriores, se abrogará en la fecha y ámbito espacial y temporal de validez en que determine la declaratoria a que alude el articulo primero transitorio del presente decreto, conforme a las siguientes prevenciones:
 
-Quedan derogados, en los términos señalados en los textos precedentes, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este ordenamiento.
+I. En el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Victoria de Durango, Dgo, la ley referida con antelación, seguirá rigiendo, en los procedimientos por delitos cometidos con anterioridad a la entrada en vigor de la presente, y quedará abrogada cuando el último de los procedimientos tramitados conforme a la primera, haya causado ejecutoria;
+
+II. En el resto de los Distritos Judiciales o Regiones, sus disposiciones seguirán aplicándose hasta la fecha y en los términos que contengan las declaratorias respectivas que emitirán el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, y que se publicarán en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO TERCERO.
 
@@ -749,20 +763,80 @@ Vigencia de reglamentos anteriores.
 
 Al entrar en vigor el presente Decreto, se seguirán aplicando los reglamentos que se hubieren expedido con anterioridad en lo que no se opongan al contenido de esta Ley, en tanto se expidan los nuevos reglamentos en un plazo que no excederá de noventa días a partir de la entrada en vigor de la presente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO CUARTO.
 
 De la Dirección General de Ejecución de Penas y Medidas de Seguridad.
 
 Para efectos de esta Ley, la Dirección de Prevención y Reinserción Social a que se refiere la Ley de Seguridad Pública para el Estado de Durango, será la Dirección General de Ejecución de Penas y Medidas de Seguridad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO QUINTO.
 
 Centros de reclusión municipal.
 
-Los centros de reclusión pertenecientes a los municipios en los que se ejecutan penas privativas de libertad, atenderán las disposiciones de esta Ley y sus reglamentos, en la medida en que aquella entre en vigor en su ubicación.
+La administración de los centros de reclusión y la custodia de procesados que actualmente se encuentra a cargo de las administraciones municipales, se ejercerá hasta que el Estado asuma dicha responsabilidad, en la medida que la capacidad presupuestal lo permita.
 
-La administración de los centros de reclusión y la custodia de procesados o sentenciados que actualmente se encuentra a cargo de las administraciones municipales, se ejercerá hasta que el Estado asuma dicha responsabilidad, en la medida que la capacidad presupuestal lo permita.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO SEXTO.
 
 Para la implementación de localizadores electrónicos, se requerirá que en el Presupuesto de Egresos del Estado de Durango, se destinen las partidas presupuestales necesarias, hasta en tanto, queda suspendida la ejecución de tal medida.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+DECRETO No. 416, POR EL QUE SE REFORMAN LOS TRANSITORIOS PRIMERO A SEXTO DEL DECRETO No. 338, PUBLICADO EN EL P.O. DE 15 DE OCTUBRE DE 2009.
+
+Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- El presente decreto, entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
+
+SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales y a la Asamblea Legislativa del Distrito Federal copia de la presente declaratoria.
+
+TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del articulo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
+
+Artículo Segundo.- El Sistema Procesal Penal Acusatorio se adoptará en el Primer Distrito Judicial o Región que tenga como cabecera la Ciudad de Victoria de Durango, Durango y con tal efecto entrarán en vigor en su jurisdicción territorial, a las cero horas del día 14 de Diciembre de 2009, los siguientes ordenamientos:
+
+I. Código Procesal Penal del Estado de Durango, aprobado mediante Decreto N° 232 del 4 de diciembre de 2008, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2008 y sus reformas posteriores;
+
+II. Código Penal para el Estado Libre y Soberano de Durango aprobado mediante Decreto Nº 284 del 11 de junio de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009;
+
+III. Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango aprobado mediante Decreto Nº 338 del 14 de Agosto de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 31 de fecha 15 de Octubre de 2009; y
+
+IV. Las reformas a la Ley de Seguridad Pública para el Estado de Durango relacionadas con el Sistema Procesal Penal Acusatorio, aprobadas mediante Decreto N° 259 del 18 de Febrero de 2009, promulgadas y publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 15 Bis de Fecha 19 de febrero de 2009 y las reformas posteriores a la citada Ley en la misma materia.
+
+Artículo Tercero.- La jurisdicción territorial correspondiente al Primer Distrito Judicial o Región, según sea el caso, será la que establece el Artículo Octavo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Durango aprobada por la LXIV Legislatura mediante Decreto Número 296 del 30 de Junio de 2009 y promulgada y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Número 1 de fecha 2 de Julio del año 2009 o la que determine en lo sucesivo el Pleno del Tribunal Superior de Justicia del Estado, en ejercicio de sus atribuciones mediante el Acuerdo General respectivo.
+
+Artículo Cuarto.- Entrarán en vigor en todo el territorio del Estado sin perjuicio de las prevenciones establecidas en sus decretos de creación y sus reformas posteriores:
+
+I.- La Ley del Instituto de Defensoría Pública del Estado de Durango aprobada mediante el Decreto 261 del 18 de Febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 20 de fecha 8 de marzo de 2009 y -sus reformas posteriores, y;
+
+II.- Ley de Justicia Penal Restaurativa del Estado de Durango aprobada mediante el Decreto Nº 257 del 18 de febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 17 bis, de fecha 26 de febrero de 2009 y sus reformas posteriores.
+
+Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Integral de Justicia para Menores Infractores y se incorporará a los ordenamientos enunciados a continuación, mismos que entrarán en vigor a las cero horas del día 14 de diciembre de 2009 en todo el territorio del Estado:
+
+1.- Código de Justicia para Menores Infractores del Estado de Durango aprobado mediante el Decreto 348 del 14 de Agosto de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango Nº 30 de fecha 11 de octubre de 2009;
+
+2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
+
+3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
