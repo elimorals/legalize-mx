@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-707
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-15"
-last_updated: "2009-10-15"
+last_updated: "2009-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 338, PUBLICADO EN EL P.O. DE 15 DE OCTUBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR UNA VEZ QUE SE PUBLIQUE EN EL P.O. DEL ESTADO DE DURANGO, LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, SE ADOPTARA EN EL PRIMER DISTRITO JUDICIAL O REGION QUE TENGA COMO CABECERA LA CIUDAD DE VICTORIA DE DURANGO, DURANGO, Y CON TAL EFECTO ENTRARAN EN VIGOR EN SU JURISDICCION TERRITORIAL, A LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009, EL DECRETO NUMERO 338, PUBLICADO EN EL P.O DEL 15 DE OCTUBRE DE 2009.</small>
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de octubre de 2009.
 
@@ -75,11 +75,17 @@ V. Proporcionar los parámetros generales para la prevención especial a través
 
 VI. Instituir los lineamientos generales para el desarrollo de las relaciones entre internos y autoridades encargadas de la ejecución de penas y medidas de seguridad, durante el tiempo que permanezcan en prisión; así como el contacto que deberán tener con el exterior.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 3.
 
-Vigilancia.
+Vigilancia y coordinación interinstitucional.
 
-Los Poderes Judicial y Ejecutivo del Estado vigilarán, en el ámbito de sus respectivas competencias, el cumplimiento y aplicación de esta Ley, así como la organización y funcionamiento de las instituciones destinadas a la ejecución de las penas y medidas judiciales.
+Los Poderes Judicial y Ejecutivo del Estado vigilarán, en el ámbito de sus respectivas competencias, el cumplimiento y aplicación de esta Ley, así como la organización y funcionamiento de las instituciones destinadas a la ejecución de las penas y medidas de seguridad y judiciales.
+
+En el cumplimiento de las penas, medidas de seguridad y judiciales dictadas durante el procedimiento o en sentencia firme, o de las resoluciones posteriores que las extingan, sustituyan o modifiquen, el Juez de Control, el Tribunal de Juicio Oral, o el Juez de Ejecución, en su caso, remitirán sus proveídos a la Dirección, quien de conformidad a la naturaleza de aquellas, las ejecutará, coordinará y vigilará la ejecución que quede a cargo de las autoridades auxiliares o instituciones privadas, dando cuenta oportuna a la autoridad judicial correspondiente sobre su cumplimiento.
 
 ###### Artículo 4.
 
@@ -89,7 +95,11 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. Centro. Los Centros de Prevención y Reinserción Social del Estado, dependientes de la Secretaría de Seguridad Pública del Estado de Durango, por conducto de la Dirección;
 
-II. Código Penal. El Código Penal del Estado de Durango;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+II. Código Penal. El Código Penal para el Estado Libre y Soberano de Durango;
 
 III. Código Procesal Penal. El Código Procesal Penal del Estado de Durango;
 
@@ -151,15 +161,15 @@ Si la sentencia en procedimiento abreviado resulta absolutoria para el acusado, 
 
 ### CAPÍTULO II. DEL JUEZ DE EJECUCIÓN
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 11.
 
-Jueces de Tribunal de Juicio Oral.
+Del Juez de Ejecución.
 
-Los jueces integrantes de los Tribunales de Juicio Oral en materia Penal fungirán, en lo individual, como jueces de ejecución de penas, dentro del Distrito Judicial correspondiente, con la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Tribunal Superior de Justicia del Estado dicte, en los términos de las facultades otorgadas al Pleno en la Ley Orgánica respectiva.
-
-###### Artículo 12.
-
-Atribuciones del Juez de Ejecución.
+Los jueces de ejecución designados por el Tribunal Superior de Justicia tendrán su jurisdicción en todo el Estado de conformidad con lo establecido por las fracciones I y II del artículo primero transitorio del Código Procesal Penal para el Estado de Durango.
 
 El Juez de Ejecución vigilará el respeto a las finalidades constitucionales y legales de la pena y de las medidas de seguridad, para lo cual, podrá hacer comparecer ante sí a los sentenciados o a los servidores públicos del Sistema, con fines de vigilancia y control de la ejecución, quien tendrá las siguientes atribuciones:
 
@@ -183,11 +193,15 @@ IX. Resolver en audiencia oral, todas las peticiones o planteamientos de las par
 
 X. Las demás atribuciones que ésta Ley y otros ordenamientos le asignen.
 
-###### Artículo 13.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 12.
 
 Audiencia ante el Juez de Ejecución.
 
-El Juez de Ejecución para llevar a cabo la audiencia a que se refiere la fracción IX del artículo 12, se sujetará a los principios que rigen la audiencia de debate de juicio oral y a las siguientes reglas:
+El Juez de Ejecución para llevar a cabo la audiencia a que se refiere la fracción IX del artículo 11, se sujetará a los principios que rigen la audiencia de debate de juicio oral y a las siguientes reglas:
 
 I. Notificará previamente a los intervinientes, entre ellos a la víctima u ofendido, al menos con siete días de anticipación a la celebración de la audiencia. Es imprescindible la presencia del Agente del Ministerio Público, el o los funcionarios de la Dirección que sean designados para tal efecto, el sentenciado y su defensor. La presencia de la víctima u ofendido no será requisito de validez para la celebración de la audiencia, cuando por cualquier circunstancia no pudiere comparecer, o no sea su deseo hacerlo y quede constancia de ello;
 
@@ -195,15 +209,17 @@ II. Si se requiere producción de prueba con el fin de sustentar la revisión, s
 
 III. Dirigirá el debate y ejercerá el poder de disciplina en la audiencia, previstas en los artículos 350 y 351 del Código Procesal Penal;
 
-IV. La resoluciones deberán emitirse inmediatamente después de concluido el debate.
-
-Excepcionalmente, en casos de extrema complejidad, el Juez podrá retirarse a deliberar su fallo en la forma establecida en el artículo 393 del Código Procesal Penal;
+IV. La resoluciones deberán emitirse inmediatamente después de concluido el debate. Excepcionalmente, en casos de extrema complejidad, el Juez podrá retirarse a deliberar su fallo en la forma establecida en el artículo 393 del Código Procesal Penal;
 
 V. Valorará los medios de prueba rendidos en la audiencia, conforme a las reglas generales establecidas para las audiencias de debate de juicio oral; y
 
 VI. De la resolución pronunciada en la audiencia a que se refieren las fracciones anteriores, deberá entregarse copia certificada a la Dirección y a la Procuraduría General de Justicia del Estado, para su conocimiento.
 
-###### Artículo 14.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 13.
 
 Apertura de la audiencia.
 
@@ -229,9 +245,11 @@ d) Quedará a su arbitrio la concesión del derecho de réplica y dúplica, cuan
 
 VI. Declarará cerrado el debate y dictará la resolución procedente.
 
-### CAPÍTULO III. DE LAS SALAS PENALES
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### Artículo 15.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 14.
 
 Resoluciones del Juez de Ejecución.
 
@@ -239,27 +257,33 @@ Para emitir sus resoluciones, los jueces de ejecución de penas se ajustarán a 
 
 I. Tratándose de pena o medida de seguridad impuesta por sentencia que haya causado ejecutoria, al recibir copia certificada de ésta, dará inicio al procedimiento de ejecución penal, realizando la notificación a la autoridad administrativa correspondiente, al sentenciado, a su defensor y al Ministerio Público; y
 
-II. Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución penal, se ajustará a las directrices generales que se contienen en el Código de (sic) Procesal Penal.
+II. Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución penal, se ajustará a las directrices generales que se contienen en el Código Procesal Penal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO III. DE LOS RECURSOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 15.
+
+De los recursos.
+
+Las resoluciones emitidas por los jueces de ejecución respecto a la situación jurídica de los sentenciados, serán impugnadas, mediante el recurso de apelación en los términos del capítulo III del Título Décimo del Código Procesal Penal.
+
+Las resoluciones que deriven del recurso de revisión, que tengan como consecuencia la anulación de sentencia por absolución del sentenciado o la disminución de la pena impuesta, serán comunicadas por la propia Sala a la autoridad administrativa correspondiente para su ejecución inmediata. Dicha resolución también se comunicará al Juez de Ejecución, al defensor del sentenciado y al Ministerio Público.
 
 ### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 16.
-
-Recurribilidad de las resoluciones.
-
-Las resoluciones emitidas por los jueces de ejecución respecto a la situación jurídica de los sentenciados, serán recurribles, mediante el recurso de apelación en los términos del capítulo III del Título Décimo del Código Procesal Penal.
-
-###### Artículo 17.
-
-Recurso de Revisión.
-
-Los magistrados que integran salas penales son competentes, en materia de ejecución de penas, para conocer colegiadamente del recurso de revisión, de conformidad con lo previsto en el Código Procesal Penal y en la Ley Orgánica del Poder Judicial del Estado.
-
-Las resoluciones que deriven de este medio de impugnación, que tengan como consecuencia la anulación de sentencia por absolución del sentenciado o la disminución de la pena impuesta, serán comunicadas por la propia Sala a la autoridad administrativa correspondiente para su ejecución inmediata. Dicha resolución también se comunicará al Juez de Ejecución, al defensor del sentenciado y al Ministerio Público.
-
-### CAPÍTULO V. AUTORIDADES AUXILIARES
-
-###### Artículo 18.
 
 Facultades de la Dirección.
 
@@ -297,7 +321,11 @@ h) Coadyuvar en el mantenimiento de la estadística criminal del Estado; y
 
 i) Las demás que otras leyes y reglamentos establezcan.
 
-###### Artículo 19.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 17.
 
 Cumplimiento de las facultades.
 
@@ -309,7 +337,13 @@ II. Requerir la información y documentación a las autoridades auxiliares e int
 
 III. Implementar en coordinación con las autoridades auxiliares, programas y protocolos orientados a la eficacia y cumplimiento de las medidas judiciales a su cargo.
 
-###### Artículo 20.
+### CAPÍTULO V. AUTORIDADES AUXILIARES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 18.
 
 Atribuciones de las Autoridades Auxiliares.
 
@@ -323,21 +357,27 @@ III. Determinar en base a un dictamen técnico debidamente justificado sobre la 
 
 IV. Informar a la Dirección sobre el cumplimiento, incumplimiento o cualquier irregularidad detectada.
 
-###### Artículo 21.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 19.
 
 Secretaría de Finanzas y de Administración.
 
 Corresponde a la Secretaría de Finanzas y de Administración, el auxilio en la ejecución:
 
-I. Durante el procedimiento, de la medida cautelar de garantía económica, tratándose de depósitos de dinero; y
-
-II. Durante la fase de cumplimiento de sentencia firme, de las penas de:
+I. Durante la fase de cumplimiento de sentencia firme, de las penas de:
 
 a) Sanción pecuniaria; e
 
 b) Intervención a la administración de personas morales privadas.
 
-###### Artículo 22.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 20.
 
 Secretaría General de Gobierno.
 
@@ -355,7 +395,11 @@ d) Tener un trabajo o empleo, o adquirir un oficio, arte o profesión; y
 
 e) Abstención de viajar al extranjero.
 
-###### Artículo 23.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 21.
 
 Cuerpos de Seguridad Pública en el Estado.
 
@@ -389,7 +433,11 @@ b) Prohibición de ir a una circunscripción territorial determinada o de residi
 
 c) Vigilancia de la autoridad.
 
-###### Artículo 24.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 22.
 
 Secretaría de Salud.
 
@@ -415,19 +463,47 @@ a) De la pena de trabajo a favor de la comunidad; y
 
 b) De la medida de seguridad de internamiento en centros psiquiátricos, de deshabituación, desintoxicación o de educación especial.
 
-###### Artículo 25.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 23.
 
 Secretaría de Educación.
 
 Corresponde a la Secretaría de Educación, durante el procedimiento, el auxilio en la ejecución de las condiciones de aprender una profesión u oficio o seguir cursos de capacitación en el lugar o institución que determine el juez.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 24.
+
+Secretaría del Trabajo y Previsión Social.
+
+Corresponde a la Secretaría de Trabajo y Previsión Social, durante el procedimiento, coadyuvar para la capacitación y obtención de un trabajo, empleo, arte, oficio o profesión.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25.
+
+Secretaría de Desarrollo Social.
+
+Corresponde a la Secretaría de Desarrollo Social, auxiliar durante el procedimiento, para la programación en los lugares y horarios de la actividad a desarrollar consistente en jornadas de trabajo a favor de la comunidad para el pago de la multa.
+
 ### CAPÍTULO VI. DE LA COORDINACIÓN INTERINSTITUCIONAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 26.
 
-Coordinación interinstitucional.
+Municipios.
 
-En el cumplimiento de las penas o medidas judiciales dictadas durante el procedimiento o en sentencia firme, o de las resoluciones posteriores que las extingan, sustituyan o modifiquen, el Juez de Control, el Tribunal de Juicio Oral, o el Juez de Ejecución, en su caso, remitirán sus proveídos a la Dirección, quien de conformidad a la naturaleza de aquellas, las ejecutará, coordinará y vigilará la ejecución que quede a cargo de las autoridades auxiliares o instituciones privadas, dando cuenta oportuna a la autoridad judicial correspondiente sobre su cumplimiento.
+Corresponde a los Ayuntamientos, auxiliar a la Dirección en la ejecución de las medidas cautelares o condiciones, impuestas y durante la fase de tratamiento, cuando se trate de imputado que residan (sic) en el lugar donde ejerzan su autoridad, de conformidad con el artículo 37 párrafo tercero de esta ley.
 
 ## TÍTULO TERCERO. EJECUCIÓN DE MEDIDAS JUDICIALES DURANTE EL PROCEDIMIENTO PENAL
 
@@ -439,15 +515,23 @@ En el cumplimiento de las penas o medidas judiciales dictadas durante el procedi
 
 Depósito de dinero.
 
-Cuando durante el procedimiento el Juez de Control haya impuesto la medida cautelar de garantía económica consistente en depósito de dinero, el imputado u otra persona, constituirán el depósito del monto fijado en alguna de las oficinas de Recaudación de Rentas de la Secretaría de Finanzas y de Administración del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Cuando durante el procedimiento el Juez de Control haya impuesto la medida cautelar de garantía económica consistente en depósito de dinero, el imputado u otra persona, constituirán el depósito del monto fijado en las oficinas del Fondo Auxiliar para la Administración de Justicia del Tribunal Superior de Justicia del Estado.
 
 El certificado de depósito se presentará dentro del plazo fijado por la autoridad judicial, y quedará bajo la custodia del administrador de la oficina correspondiente, asentándose constancia de ello. Cuando por razón de la hora o por ser día feriado no pueda verificarse el depósito directamente en la oficina mencionada, el juzgado recibirá la cantidad exhibida y la mandará depositar el primer día hábil siguiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 28.
 
 Garantía hipotecaria.
 
-Cuando la medida cautelar de garantía económica consista en hipoteca, que podrá ser otorgada por el imputado o por tercera persona, el inmueble no deberá tener gravamen alguno y su valor comercial determinado por institución autorizada, será cuando menos el de un tanto más del monto fijado. En este caso, la garantía hipotecaria se otorgará ante el propio Juez que conoce el proceso y surtirá sus efectos una vez que se haya inscrito en el Registro Público de la Propiedad, donde se le dará preferencia a este asiento.
+Cuando la medida cautelar de garantía económica consista en hipoteca, que podrá ser otorgada por el imputado o por tercera persona, el inmueble no deberá tener gravamen alguno y su valor comercial determinado por institución autorizada, será cuando menos dos tantos del monto fijado. En este caso, la garantía hipotecaria se otorgará ante el propio Juez que conoce el proceso y surtirá sus efectos una vez que se haya inscrito en el Registro Público de la Propiedad, donde se le dará preferencia a este asiento.
 
 ###### Artículo 29.
 
@@ -455,17 +539,25 @@ Garantía prendaria.
 
 La garantía prendaria también podrá otorgarse ante el propio Juez de Control que conozca del proceso y, en lo conducente, serán aplicables las reglas a que alude el artículo anterior, salvo el caso del valor de la prenda, que será de dos tantos más, cuando menos, del monto fijado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 30.
 
 Póliza de fianza personal.
 
-Es admisible la póliza de fianza personal cuando el monto de la garantía económica no exceda del equivalente a cien días del salario mínimo. Salvo que se trate de empresas dedicadas a otorgar fianzas, el fiador deberá responder las preguntas que le haga el Juez de Control sobre su solvencia económica. El valor de la póliza será, al menos, de un tanto más al del monto fijado.
+Es admisible la póliza de fianza personal cuando el monto de la garantía económica no exceda del equivalente a cien días del salario mínimo. Salvo que se trate de empresas dedicadas a otorgar fianzas, el fiador deberá responder las preguntas que le haga el Juez de Control sobre su solvencia económica. El valor de la póliza será, al menos, de dos tantos del monto fijado.
 
 ###### Artículo 31.
 
 Depósito de valores.
 
-Cuando la garantía económica fijada como medida cautelar consista en el depósito de valores distintos al dinero, dichos bienes serán recibidos e inventariados por el Juez de Control y puestos bajo custodia del administrador de oficina.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Cuando la garantía económica fijada como medida cautelar consista en el depósito de valores distintos al dinero, dichos bienes serán recibidos e inventariados por el Juez de Control y puestos bajo custodia del administrador general de las salas de juicio oral.
 
 El valor de los bienes deberá corresponder, cuando menos, a dos tantos más del monto fijado, y se constatará con un avalúo practicado por quienes estén autorizados para hacerlo, de conformidad con la legislación respectiva.
 
@@ -563,7 +655,11 @@ Ejecución de la medida.
 
 Al determinarse la prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares, se comunicará la resolución a la Secretaría de Seguridad Pública o a otros cuerpos de seguridad pública en el Estado, en su caso, con la finalidad de que sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, en la que indicará específicamente las restricciones impuestas.
 
-La autoridad ejecutora informará sobre el cumplimiento de la medida con la periodicidad determinada por la autoridad judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+La autoridad ejecutora informará por medio de la Dirección, sobre el cumplimiento de la medida con la periodicidad determinada por la autoridad judicial.
 
 #### SECCIÓN OCTAVA. PROHIBICIÓN DE CONVIVIR O COMUNICARSE CON PERSONAS DETERMINADAS
 
@@ -627,17 +723,25 @@ Observación.
 
 La observación de los imputados sujetos a prisión preventiva se limitará a recoger la mayor información posible sobre cada uno de ellos, a través de datos documentales y de entrevistas, y mediante la observación directa del comportamiento, estableciendo sobre estas bases la separación o clasificación interior en grupos y todo ello, con estricto apego al principio de presunción de inocencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 49.
 
 Trabajo del imputado.
 
-Los imputados sometidos a prisión preventiva podrán trabajar conforme a sus aptitudes e inclinaciones. La administración penitenciaria les facilitará los medios de ocupación de que disponga, permitiendo al interno procurarse a sus expensas otros, siempre que sean compatibles con las garantías procesales y la seguridad y el buen orden de aquél. Todo interno deberá contribuir al buen orden, limpieza e higiene del establecimiento penitenciario, siendo reglamentariamente determinados los trabajos organizados a dichos fines.
+Los imputados sometidos a prisión preventiva podrán trabajar conforme a sus aptitudes e inclinaciones. La administración penitenciaria les facilitará los medios de ocupación de que disponga, permitiendo al interno allegarse a sus expensas otros, siempre que sean compatibles con las garantías procesales y la seguridad y el buen orden de aquél. Todo interno deberá contribuir al buen orden, limpieza e higiene del establecimiento penitenciario, siendo reglamentariamente determinados los trabajos organizados a dichos fines.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 50.
 
 Estudios de personalidad.
 
-Desde que el interno quede sujeto a proceso penal, deberán realizarse los estudios sobre la personalidad integral en los aspectos médicos, psicológicos, sociales, pedagógicos y ocupacionales, enviando un ejemplar del estudio a la autoridad judicial que tiene a su cargo el proceso penal.
+Desde que el imputado sometido a prisión preventiva quede vinculado a proceso penal, deberán realizársele los estudios sobre la personalidad integral en los aspectos médicos, psicológicos, sociales, pedagógicos y ocupacionales, enviando un ejemplar del estudio a la autoridad judicial que tiene a su cargo el proceso penal.
 
 ###### Artículo 51.
 
@@ -645,13 +749,21 @@ Disposiciones supletorias.
 
 Serán aplicables para el cumplimiento de la prisión preventiva, en lo conducente, siempre que con ello no se transgredan los derechos fundamentales y garantías procesales del imputado, las disposiciones sobre la ejecución de la pena de prisión y el Sistema, de esta Ley, así como de los reglamentos que de ella deriven.
 
-### CAPÍTULO II. MEDIDAS CAUTELARES REALES
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO II. MEDIDA CAUTELAR DE CARÁCTER REAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 52.
 
 Embargo precautorio.
 
-Al decretarse la medida cautelar de embargo precautorio, se remitirá la resolución a la Secretaría de Finanzas y de Administración, para los efectos del Capítulo IV, Título Sexto, del Código Procesal Penal.
+Al decretarse la medida cautelar de embargo precautorio, se remitirá la resolución al Fondo Auxiliar para la Administración de Justicia del Tribunal Superior de Justicia del Estado.
 
 ### CAPÍTULO III. EJECUCIÓN DE CONDICIONES DURANTE LA SUSPENSIÓN DEL PROCESO A PRUEBA
 
@@ -695,11 +807,15 @@ Irregularidades o incumplimiento de las medidas.
 
 Si durante el período de cumplimiento de las medidas cautelares o condiciones, la autoridad, persona o institución ejecutora observa o da cuenta de incumplimiento o de cualquier irregularidad, dará aviso inmediato al Juez de Control, por conducto de la Dirección, para los efectos procesales conducentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 55.
 
 Sustitución, modificación o cancelación de las medidas cautelares o condiciones.
 
-El Juez de Control informará a la persona o institución ejecutora sus determinaciones sobre la sustitución, modificación o cancelación de la medida cautelar, así como de la revocatoria o cesación provisional de los efectos de la suspensión del proceso a prueba, en su caso.
+El Juez de Control informará a la persona o institución ejecutora y a la Dirección, sus determinaciones sobre la sustitución, modificación o cancelación de la medida cautelar, así como de la revocatoria o cesación provisional de los efectos de la suspensión del proceso a prueba, en su caso.
 
 ###### Artículo 56.
 
@@ -847,7 +963,11 @@ Previos los estudios especializados, el Juez de Ejecución podrá ordenar el cum
 
 Beneficios.
 
-Los beneficios de libertad anticipada, son aquellos otorgados por la autoridad ejecutora, cuando el sentenciado reúna los requisitos establecidos legalmente a cada modalidad, los cuales son:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Los beneficios de libertad anticipada, son aquellos otorgados por el Juez de Ejecución, cuando el sentenciado reúna los requisitos establecidos legalmente a cada modalidad, los cuales son:
 
 I. Tratamiento preliberacional;
 
@@ -887,33 +1007,27 @@ El sentenciado que disfrute de los beneficios estará sujeto a la vigilancia de 
 
 #### SECCIÓN PRIMERA. DEL TRATAMIENTO PRELIBERACIONAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 73.
 
 Tratamiento preliberacional.
 
-El tratamiento preliberacional es el beneficio que se otorga al sentenciado, después de cumplir una parte de la pena que le fue impuesta, quedando sometido a las formas y condiciones de tratamiento y vigilancia del Juez de Ejecución.
+El tratamiento preliberacional es un medio previo a la libertad preparatoria y/o a la libertad absoluta por la aplicación de la remisión parcial de la pena, el beneficio se otorga al sentenciado después de cumplir una parte de la pena que le fue impuesta, quedando sometido a las formas y condiciones de tratamiento y vigilancia del Juez de Ejecución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 74.
 
 Requisitos para su otorgamiento.
 
-El otorgamiento del tratamiento preliberacional se concederá al sentenciado que cumpla con los siguientes requisitos:
+El otorgamiento en el caso de la preliberación previa a la libertad preparatoria solo podrá aplicarse a aquellos internos que específicamente reúnan los requisitos para la libertad Preparatoria. El periodo de tratamiento será de entre dos a ocho meses antes del tiempo necesario para la libertad preparatoria.
 
-I. Cuando haya compurgado el cincuenta por ciento de la pena privativa de libertad impuesta;
-
-II. Que haya participado en las actividades y programas establecidos por la autoridad penitenciaria;
-
-III. Que haya observado buena conducta durante su internamiento;
-
-IV. Haber participado en las actividades culturales, deportivas y recreativas organizadas por la institución penitenciaria;
-
-V. Que haya cubierto la reparación del daño, cuando se le hubiere condenado a ello;
-
-VI. No estar sujeto a otro proceso penal en el que se haya decretado medida cautelar de prisión preventiva;
-
-VII. Ser primodelicuente (sic); y
-
-VIII. Que se acredite plenamente mediante los estudios de personalidad, que le practique el consejo técnico interdisciplinario de su centro de reclusión la viabilidad de su reinserción social.
+En el caso de los delitos exceptuados para otorgar la libertad preparatoria, el tratamiento preliberacional podrá concederse solamente como un medio previo a la libertad absoluta por la aplicación de la remisión parcial de la pena. El tratamiento será entre dos a ocho meses antes del tiempo necesario para la libertad absoluta por remisión de pena.
 
 ###### Artículo 75.
 
@@ -927,6 +1041,12 @@ II. Reclusión los sábados y domingos para tratamiento técnico.
 
 Para que se conceda la prisión intermitente, el beneficiado deberá acreditar previamente que cuenta con trabajo honesto en el exterior o que se encuentra inscrito en institución educativa legalmente autorizada, o que hará lo uno o lo otro en el plazo que le señale la Autoridad Ejecutora; en ambos casos la Dirección vigilara el cumplimiento de las obligaciones impuestas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+Estas condiciones podrán modificarse cuando a juicio de la Dirección no se cuente con los medios, infraestructura y condiciones de seguridad y tratamiento para los preliberados, pudiéndose cumplir con éste beneficio mediante presentaciones cada ocho días ante la Dirección o ante la autoridad que se señale para tal efecto La presentación será física con la obligación de firmar en el libro de Gobierno y/o en los medios biométricos que pudieran establecerse por la Dirección para su registro.
+
 #### SECCIÓN SEGUNDA. DE LA LIBERTAD PREPARATORIA
 
 ###### Artículo 76.
@@ -935,19 +1055,53 @@ Libertad preparatoria.
 
 La libertad preparatoria se podrá otorgar a los internos que por sentencia ejecutoriada hayan sido condenados a una pena de prisión por más de tres años y satisfagan los siguientes requisitos:
 
-I. Que haya cumplido la mitad de la pena de prisión impuesta en los delitos dolosos y la tercera parte tratándose de delitos culposos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+I. Que haya cumplido el sesenta por ciento de la pena de prisión impuesta en los delitos dolosos y cincuenta por ciento tratándose de delitos culposos;
 
 II. Haber acreditado plenamente durante su internamiento en prisión, los estudios de personalidad que le sean practicados por el Consejo;
 
-III. Que durante el plazo establecido en la resolución del Juez de Ejecución, acredite un medio honesto de vivir; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. Que haya reparado el daño causado.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+III. Que durante el plazo establecido en la resolución del Juez de Ejecución, acredite un medio honesto de vivir;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+IV. Que haya reparado el daño causado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+V. Ser primodelincuente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+VI. Que haya participado en las actividades, deportivas, educativas, culturales y de trabajo, además de los programas establecidos por la autoridad penitenciaria, así mismo haber observado durante su internamiento buena conducta; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+VII. No estar sujeto a otro Proceso Penal en el que se haya decretado medida cautelar de prisión preventiva.
 
 ###### Artículo 77.
 
 Improcedencia del beneficio.
 
-La libertad preparatoria no se concederá al sentenciado por los siguientes delitos, previstos en el Código Penal:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+El tratamiento preliberacional previo a la libertad preparatoria y la libertad preparatoria no se concederá al sentenciado por los siguientes delitos, previstos en el Código Penal:
 
 I. Homicidio conforme a los artículos 138 y 147 del Código Penal;
 
@@ -959,7 +1113,11 @@ IV. Retención, sustracción de menores o incapaces con fines de corrupción o t
 
 V. Violación;
 
-VI. Robo sancionado en los artículos 197, 198 y 199 en sus párrafos primero y segundo del Código Penal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+VI. Robo sancionado en el artículo 197 del Código Penal;
 
 VII. Trata de personas;
 
@@ -969,9 +1127,25 @@ IX. Pornografía con personas menores de edad o que no tienen la capacidad para 
 
 X. Delitos contra la formación de las personas menores de edad y protección integral de personas que no tienen la capacidad para comprender el significado del hecho;
 
-XI. Lenocinio sancionado en el artículo 286 del Código Penal; y
+XI. Lenocinio sancionado en el artículo 286 del Código Penal; y (sic)
 
-XII. Los cometidos con medios violentos como armas y explosivos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+XII. Los cometidos con medios violentos como armas y explosivos, cuya pena privativa de libertad exceda 5 años;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+XIII. Terrorismo; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2009)</small>
+
+XIV. En caso de los delitos previstos en las fracciones anteriores aun cuando estos sean en grado de tentativa.
 
 ###### Artículo 78.
 
@@ -1949,33 +2123,47 @@ VI. Las demás que señale el Código Penal.
 
 T R A N S I T O R I O S
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-Inicio de Vigencia.
+Entrada en vigor.
 
-El presente decreto entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
+El presente decreto entrará en vigor en las fechas y ámbitos espacial y temporal de validez que determinen las Declaratorias que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
 
-La vigencia de la ley contenida en el presente decreto iniciará de manera sucesiva, según las siguientes prevenciones:
+La vigencia de la ley contenida en el presente decreto iniciará de manera sucesiva según las siguientes prevenciones:
 
-I. Sus disposiciones se aplicarán en la fecha que la Declaratoria a que hace referencia el primer párrafo de este artículo determine, en el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Durango, Dgo;
+I. Sus disposiciones se aplicarán en la fecha que determine la Declaratoria a que hace referencia el primer párrafo de este artículo, en el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Victoria de Durango, Dgo., únicamente, para los sentenciados en dicho distrito, con independencia del lugar en que estén compurgando la pena privativa de libertad.
 
-II. En el resto de los Distritos Judiciales o Regiones, sus disposiciones se aplicarán en la fecha que contenga la Declaratoria respectiva a que hace referencia al primer párrafo de este artículo;
+En el resto de los Distritos Judiciales o Regiones, sus disposiciones se aplicarán en las fechas que contengan las Declaratorias respectivas que emitirán el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, las que deberán ser publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango;
 
-III. Las disposiciones relativas a la libertad preparatoria, remisión parcial de la pena, tratamiento preliberacional y la suspensión condicional de la condena, respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor de la presente Ley, se regirán conforme a las disposiciones de la misma;
+II. Las facultades que prevé la presente a los jueces de ejecución respecto a la ejecución de las penas privativas de libertad, serán competencia del Titular del Poder Ejecutivo del Estado, por conducto de la Dirección General de Ejecución de Penas y Medidas de Seguridad, hasta el 31 de diciembre de 2009. Transcurrida dicha fecha, las facultades referidas serán competencia absoluta del Juez de Ejecución;
 
-IV. Las disposiciones relativas a la ejecución de penas y medidas de seguridad respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto, que en lo subsecuente corresponda aplicarlas a la autoridad judicial, serán ejercidas, en su caso, por los jueces penales de primera instancia que hayan conocido de las causas respectivas, en los distritos judiciales en los que no haya entrado en vigor el nuevo Código Procesal Penal, sin perjuicio de la coordinación que deban mantener con la Dirección General de Ejecución de Penas y Medidas de Seguridad.
+III. Las disposiciones relativas a la libertad preparatoria, remisión parcial de la pena, tratamiento preliberacional y la suspensión condicional de la condena, respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor de la presente Ley, se regirán conforme a las disposiciones de la presente, salvo lo previsto en la fracción anterior; y
 
-Respecto a las fracciones III y IV, el Pleno del Tribunal Superior de Justicia acordará, mediante disposiciones generales que establezcan un modelo de distribución de competencias, el ejercicio de las facultades más trascendentes por parte de los jueces de ejecución de sentencia de otros distritos. Esta facultad la ejercerá el Pleno desde la entrada en vigor del presente decreto, hasta que el nuevo sistema de justicia penal se encuentre en vigor en todo el territorio estatal.
+IV. Las disposiciones relativas a la ejecución de penas y medidas de seguridad, respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto en el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Victoria de Durango, Dgo., serán ejercidas por los Jueces de Ejecución, sin perjuicio de la coordinación que deban mantener con la Dirección General de Ejecución de Penas y Medidas de Seguridad.
 
-V. Las disposiciones relativas a la ejecución de las medidas cautelares y las condiciones impuestas en la suspensión del proceso a prueba, iniciarán su vigencia conforme a las reglas establecidas en este artículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Abrogación y derogación Tácita de Preceptos Incompatibles.
+Abrogación y derogación.
 
-Se abroga la Ley de Ejecución de Penas Privativas y Restrictivas de Libertad del Estado de Durango, promulgada el nueve de junio de mil novecientos setenta y uno.
+La Ley de Ejecución de Penas Privativas y Restrictivas de Libertad del Estado de Durango, promulgada el nueve de junio de mil novecientos setenta y uno y sus reformas posteriores, se abrogará en la fecha y ámbito espacial y temporal de validez en que determine la declaratoria a que alude el artículo primero transitorio del presente decreto, conforme a las siguientes prevenciones:
 
-Quedan derogados, en los términos señalados en los textos precedentes, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este ordenamiento.
+I. En el Distrito Judicial o Región, según sea el caso, que tenga como cabecera la Ciudad de Victoria de Durango, Dgo, la ley referida con antelación, seguirá rigiendo, en los procedimientos por delitos cometidos con anterioridad a la entrada en vigor de la presente, y quedará abrogada cuando el último de los procedimientos tramitados conforme a la primera, haya causado ejecutoria;
+
+II. En el resto de los Distritos Judiciales o Regiones, sus disposiciones seguirán aplicándose hasta la fecha y en los términos que contengan las declaratorias respectivas que emitirán el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, y que se publicarán en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO TERCERO.
 
@@ -1983,19 +2171,29 @@ Vigencia de reglamentos anteriores.
 
 Al entrar en vigor el presente Decreto, se seguirán aplicando los reglamentos que se hubieren expedido con anterioridad en lo que no se opongan al contenido de esta Ley, en tanto se expidan los nuevos reglamentos en un plazo que no excederá de noventa días a partir de la entrada en vigor de la presente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO CUARTO.
 
 De la Dirección General de Ejecución de Penas y Medidas de Seguridad.
 
 Para efectos de esta Ley, la Dirección de Prevención y Reinserción Social a que se refiere la Ley de Seguridad Pública para el Estado de Durango, será la Dirección General de Ejecución de Penas y Medidas de Seguridad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO QUINTO.
 
 Centros de reclusión municipal.
 
-Los centros de reclusión pertenecientes a los municipios en los que se ejecutan penas privativas de libertad, atenderán las disposiciones de esta Ley y sus reglamentos, en la medida en que aquella entre en vigor en su ubicación.
+La administración de los centros de reclusión y la custodia de procesados que actualmente se encuentra a cargo de las administraciones municipales, se ejercerá hasta que el Estado asuma dicha responsabilidad, en la medida que la capacidad presupuestal lo permita.
 
-La administración de los centros de reclusión y la custodia de procesados o sentenciados que actualmente se encuentra a cargo de las administraciones municipales, se ejercerá hasta que el Estado asuma dicha responsabilidad, en la medida que la capacidad presupuestal lo permita.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO SEXTO.
 
@@ -2028,3 +2226,69 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+DECRETO NUMERO 416, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE DURANGO.
+
+Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo.- El presente decreto, entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+SE TRANSCRIBE EL ARTICULO DEL DECRETO QUE MODIFICA LA LEY, QUE SE RELACIONA CON EL ORDENAMIENTO.
+
+Artículo Décimo.- Las reformas y adiciones efectuadas en las secciones primera y segunda del Capítulo Tercero contenidas en el presente Decreto relacionadas con el Consejo Estatal de Seguridad Pública y el Secretariado Ejecutivo entrarán en vigor el día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Se derogan todas las disposiciones que se opongan a las relacionadas con el Consejo Estatal de Seguridad Pública y el Secretariado Ejecutivo, citadas con anterioridad.
+
+En su aplicación se observarán las siguientes prevenciones:
+
+I. Dentro de los cinco días siguientes a la entrada en vigor del presente decreto, se constituirá la Junta Directiva del Secretariado Ejecutivo y fungirá como Secretario Ejecutivo el designado y actualmente en funciones en los términos de la fracción VIII del artículo 89 de la presente Ley;
+
+II. La Junta Directiva del Secretariado Ejecutivo emitirá el reglamento interior correspondiente dentro de los treinta días siguientes a la entrada en vigor del presente decreto;
+
+III. Los asuntos que se encuentren en trámite o en proceso en los que el Fideicomiso denominado Fondo de Seguridad Pública en el Estado de Durango, sea parte o tenga interés a la entrada en vigor del presente decreto, continuarán tramitándose hasta resolución de conformidad con las normas y el procedimiento vigente al momento de haber iniciado su respectivo desahogo.
+
+P.O. 10 DE DICIEMBRE DE 2009.
+
+DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
+
+SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales y a la Asamblea Legislativa del Distrito Federal copia de la presente declaratoria.
+
+TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+
+Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del articulo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
+
+Artículo Segundo.- El Sistema Procesal Penal Acusatorio se adoptará en el Primer Distrito Judicial o Región que tenga como cabecera la Ciudad de Victoria de Durango, Durango y con tal efecto entrarán en vigor en su jurisdicción territorial, a las cero horas del día 14 de Diciembre de 2009, los siguientes ordenamientos:
+
+I. Código Procesal Penal del Estado de Durango, aprobado mediante Decreto N° 232 del 4 de diciembre de 2008, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2008 y sus reformas posteriores;
+
+II. Código Penal para el Estado Libre y Soberano de Durango aprobado mediante Decreto Nº 284 del 11 de junio de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 48 de fecha 14 de Junio de 2009;
+
+III. Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango aprobado mediante Decreto Nº 338 del 14 de Agosto de 2009, promulgado y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 31 de fecha 15 de Octubre de 2009; y
+
+IV. Las reformas a la Ley de Seguridad Pública para el Estado de Durango relacionadas con el Sistema Procesal Penal Acusatorio, aprobadas mediante Decreto N° 259 del 18 de Febrero de 2009, promulgadas y publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 15 Bis de Fecha 19 de febrero de 2009 y las reformas posteriores a la citada Ley en la misma materia.
+
+Artículo Tercero.- La jurisdicción territorial correspondiente al Primer Distrito Judicial o Región, según sea el caso, será la que establece el Artículo Octavo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Durango aprobada por la LXIV Legislatura mediante Decreto Número 296 del 30 de Junio de 2009 y promulgada y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Número 1 de fecha 2 de Julio del año 2009 o la que determine en lo sucesivo el Pleno del Tribunal Superior de Justicia del Estado, en ejercicio de sus atribuciones mediante el Acuerdo General respectivo.
+
+Artículo Cuarto.- Entrarán en vigor en todo el territorio del Estado sin perjuicio de las prevenciones establecidas en sus decretos de creación y sus reformas posteriores:
+
+I.- La Ley del Instituto de Defensoría Pública del Estado de Durango aprobada mediante el Decreto 261 del 18 de Febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 20 de fecha 8 de marzo de 2009 y sus reformas posteriores, y;
+
+II.- Ley de Justicia Penal Restaurativa del Estado de Durango aprobada mediante el Decreto Nº 257 del 18 de febrero de 2009, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 17 bis, de fecha 26 de febrero de 2009 y sus reformas posteriores.
+
+Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Integral de Justicia para Menores Infractores y se incorporará a los ordenamientos enunciados a continuación, mismos que entrarán en vigor a las cero horas del día 14 de diciembre de 2009 en todo el territorio del Estado:
+
+1.- Código de Justicia para Menores Infractores del Estado de Durango aprobado mediante el Decreto 348 del 14 de Agosto de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango Nº 30 de fecha 11 de octubre de 2009;
+
+2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
+
+3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
