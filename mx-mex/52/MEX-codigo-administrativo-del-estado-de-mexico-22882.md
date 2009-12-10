@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2009-08-06"
+last_updated: "2009-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2009.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -3231,25 +3231,31 @@ I. Ceder a título gratuito al Estado y al municipio, superficies de terreno par
 
 II. Construir obras de infraestructura, urbanización y equipamiento urbano, conforme a los proyectos, especificaciones y plazos autorizados por la Secretaría de Desarrollo Urbano y Obras Públicas y demás autoridades competentes;
 
-III. Dedicar definitivamente al uso para el que fueron hechas, las instalaciones del conjunto urbano, tales como clubes, construcciones para actividades deportivas, culturales o recreativas y otras que se utilicen como promoción para la venta de lotes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV. Garantizar la construcción de las obras de infraestructura, urbanización y equipamiento urbano;
+> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-V. Garantizar que las obras de infraestructura, urbanización y equipamiento urbano, se hayan ejecutado sin defectos ni vicios ocultos;
+III. Instalar un medidor electrónico de consumo para determinar el volumen del suministro de agua por cada unidad privativa que se ubique en el conjunto urbano autorizado;
 
-VI. Participar con las autoridades estatales y municipales, en la supervisión de las obras de infraestructura, urbanización y equipamiento;
+IV. Dedicar definitivamente al uso para el que fueron hechas, las instalaciones del conjunto urbano, tales como clubes, construcciones para actividades deportivas, culturales o recreativas y otras que se utilicen como promoción para la venta de lotes;
 
-VII. Inscribir en el Registro Público de la Propiedad el acuerdo de autorización respectivo y sus planos correspondientes;
+V. Garantizar la construcción de las obras de infraestructura, urbanización y equipamiento urbano;
 
-VIII. Abstenerse de enajenar lotes, otorgados en garantía a favor del Estado o del respectivo municipio;
+VI. Garantizar que las obras de infraestructura, urbanización y equipamiento urbano, se hayan ejecutado sin defectos ni vicios ocultos;
 
-IX. Precisar en los actos o contratos que celebre con los adquirentes de lotes, los gravámenes o garantías constituidas sobre éstos;
+VII. Participar con las autoridades estatales y municipales, en la supervisión de las obras de infraestructura, urbanización y equipamiento;
 
-X. Cubrir el pago de los impuestos y derechos correspondientes;
+VIII. Inscribir en el Registro Público de la Propiedad el acuerdo de autorización respectivo y sus planos correspondientes;
 
-XI. Dar aviso de la terminación de las obras de infraestructura, urbanización y equipamiento y hacer su entrega-recepción al municipio respectivo, con la intervención de la Secretaría de Desarrollo Urbano y Obras Públicas;
+IX. Abstenerse de enajenar lotes, otorgados en garantía a favor del Estado o del respectivo municipio;
 
-XII. Las demás inherentes que establezca la reglamentación de este Libro.
+X. Precisar en los actos o contratos que celebre con los adquirentes de lotes, los gravámenes o garantías constituidas sobre éstos;
+
+XI. Cubrir el pago de los impuestos y derechos correspondientes;
+
+XII. Dar aviso de la terminación de las obras de infraestructura, urbanización y equipamiento y hacer su entrega-recepción al municipio respectivo, con la intervención de la Secretaría de Desarrollo Urbano y Obras Públicas;
+
+XIII. Las demás inherentes que establezca la reglamentación de este Libro.
 
 Las organizaciones sociales que sean titulares de autorizaciones de conjuntos urbanos habitacionales social progresivos, no estarán sujetas a las obligaciones establecidas en las fracciones IV y V de este artículo.
 
@@ -4467,15 +4473,17 @@ b). Masivo o de alta capacidad, que es aquel que se presta en vías específicas
 
 c). Individual, que es el que se presta a uno o más pasajeros en vehículos denominados taxis;
 
-d). Especializado, que es el que comprende al de personal, al escolar, al de turismo y al que tenga una capacidad de más de 15 pasajeros.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. De carga, que se refiere al porte de mercancías que se presta a terceros, que puede ser:
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-a). En general;
+d). Especializado, que es el que comprende al de personal, al escolar, y al de turismo.
 
-b). De materiales de construcción y similares;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-c). Especializado.
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+II. De carga, que se refiere al porte de mercancías que se presta a terceros.
 
 III. Mixto;
 
@@ -4483,7 +4491,11 @@ IV. Particular:
 
 a). El destino para transporte de pasajeros de uso propio no considerado en las fracciones anteriores;
 
-b). De uso comercial, que es el destinado exclusivamente al servicio particular de carga de un establecimiento o empresa que constituya un instrumento de trabajo sin lucro alguno y con capacidad de carga de hasta 3,500 Kg.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+b). De carga particular, que es el destinado exclusivamente al servicio particular de carga de un establecimiento o empresa que constituya un instrumento de trabajo, y que no preste servicios a terceros.
 
 V. El destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales y que no esté considerado en las fracciones anteriores.
 
@@ -4495,21 +4507,27 @@ En la normatividad reglamentaria respectiva podrán establecerse otras modalidad
 
 25.- La Secretaría de Transporte expedirá las normas técnicas relativas a las características de los equipos, sistemas, dispositivos y accesorios de seguridad con que deberán contar los vehículos de su competencia que transiten por la infraestructura vial, así como sobre los demás conceptos que regula el presente Título y podrá así mismo expedir al respecto disposiciones de carácter general cuando lo estime procedente.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Corresponde a la Secretaría de Transporte matricular los vehículos destinados al transporte público, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios. Así mismo de los vehículos automotores destinados para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales.
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+Corresponde a la Secretaría de Transporte matricular los vehículos de transporte de pasajeros colectivo, masivo o de alta capacidad, individual, especializado, de carga, mixto y el destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales; expidiendo calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 Corresponde a la Secretaría de Finanzas matricular los vehículos destinados al transporte de uso particular, expidiendo las placas de matriculación, calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Tratándose de transporte de uso particular y comercial, en tanto se expiden las placas y documentos a que se refiere el párrafo anterior, la Secretaría de Finanzas podrá otorgar permisos provisionales.
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+En tanto se expiden las placas y documentos a que se refieren los párrafos anteriores, la Secretaría de Finanzas podrá otorgar permisos provisionales para circular como vehículo particular.
 
-La Secretaría de Finanzas podrá celebrar convenios con asociaciones de distribuidores, fabricantes o ensambladores de vehículos automotores, para que dentro de las instalaciones de sus agremiados, se puedan prestar los servicios relacionados con el control vehicular.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+La Secretaría de Finanzas podrá celebrar convenios con distribuidores, fabricantes o ensambladores de vehículos automotores, así como con las asociaciones de estos, para que en esas instalaciones productivas o comerciales, por sí mismas o a través de ellos, se presten servicios relacionados con el control vehicular.
 
 > <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -5028,6 +5046,10 @@ Los titulares de la concesión o permiso serán responsables solidarios para el 
 ## TITULO SEGUNDO. Del tránsito
 
 ### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
 
@@ -5693,7 +5715,7 @@ XX. La constitución del Fondo Estatal para la Capacitación de la Micro, Peque�
 
 ###### Artículo 10.
 
-13.- El Instituto de Investigación y Fomento de las Artesanías del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto el rescate, preservación, fortalecimiento y fomento de la actividad artesanal y las artes populares en la entidad.
+13.- El Instituto de Investigación y Fomento a las Artesanías del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto el rescate, preservación, fortalecimiento y fomento de la actividad artesanal y las artes populares; así como la comercialización de los productos de éstas en la entidad.
 
 El Instituto, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
 
@@ -5707,7 +5729,11 @@ IV. Fomentar la organización de los artesanos;
 
 V. Brindar capacitación y asesoría a los artesanos;
 
-VI. Promover la comercialización de los productos artesanales en los mercados regionales, nacional e internacional;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+VI. Promover y comercializar, por cuenta propia y de terceros, los productos artesanales elaborados en la entidad, en los mercados regionales, nacional e internacional;
 
 VII. Gestionar financiamientos con tasas preferenciales para la actividad artesanal;
 
@@ -8063,7 +8089,11 @@ II. Los bienes o materiales que reciban;
 
 III. El cumplimiento de los contratos;
 
-IV. Los defectos o vicios ocultos de los bienes o servicios.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+
+IV. Los defectos o vicios ocultos de los bienes o servicios, que en su caso procedan.
 
 Las garantías a que se refieren las fracciones I y II deberán constituirse por la totalidad del monto del anticipo o del importe de los bienes o materiales. En el caso de la fracción III las garantías se constituirán por el diez por ciento del importe total del contrato; y en la hipótesis de la fracción IV las garantías se constituirán hasta por el diez por ciento del importe total del contrato.
 
@@ -8773,7 +8803,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 ###### Artículo 14.
 
-40.- Las autoridades estatales en materia de información e investigación geográfica, estadística y catastral se coordinarán. Permanentemente con el Instituto Nacional de Estadística, Geografía e Informática, con el objeto de intercambiar la información, en el ámbito de sus respectivas competencias.
+40.- Las autoridades estatales en materia de información e investigación geográfica, estadística y catastral, se coordinarán permanentemente con el Instituto Nacional de Estadística, Geografía e Informática, con el objeto de intercambiar la información, en el ámbito de sus respectivas competencias.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -10734,3 +10764,11 @@ Se derogan las disposiciones legales que se opongan a los preceptos de esta Ley.
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado expedirá la Convocatoria para la integración del Consejo Consultivo Estatal de Turismo Sustentable en un plazo no mayor de treinta días a partir de la entrada en vigor de la presente Ley.
+
+G.G. 10 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1º de enero de 2010.
+
+TERCERO.- Se ratifican las retenciones efectuadas al amparo de los artículos 230 E y 230 K del Código Financiero del Estado de México y Municipios y Tercero Transitorio del Decreto No. 123 de la H. "LVI" Legislatura publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México de fecha 27 de marzo de 2008, por el periodo de enero de 2008 a diciembre de 2009.
