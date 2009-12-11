@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2007-12-28"
+last_updated: "2009-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURIDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2009.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -83,17 +83,17 @@ Para los efectos de esta Ley, la relación jurídica se entiende establecida ent
 
 Siendo los titulares de las dependencias los representantes de las mismas, exclusivamente para los efectos de esta Ley, se entenderá como titular:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-I.- En el poder Legislativo: El Presidente de la Gran Comisión;
+I.- En el Poder Legislativo: El Presidente de la Junta de Gobierno;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-II.- En el Poder Ejecutivo: El Gobernador del Estado, los Secretarios del Ramo, el Procurador de Justicia y los Directores de los Departamentos considerados en la Ley Orgánica de la Administración Pública Estatal;
+II.- En el Poder Ejecutivo: El Gobernador del Estado, los Secretarios del Ramo, el Fiscal General del Estado y los directores de las Unidades considerados en la Ley Orgánica de la Administración Pública;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-III.- En el Poder Judicial: El Pleno del Tribunal de Justicia, los Magistrados Presidentes de las Salas, los Magistrados Titulares de los Tribunales Unitarios de Distrito, los Jueces de Primera Instancia y los Consejos Tutelares para Menores; y
+III.- En el Poder Judicial:, El Pleno del Tribunal de Justicia, el Presidente del mismo, el Consejo de la Judicatura, los Magistrados Presidentes de las Salas, los Magistrados de los Tribunales Especializados cualquiera que sea su denominación, Los Magistrados de los Tribunales Distritales, los Jueces de Primera Instancia y Letrados y los titulares de los demás órganos jurisdiccionales;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
@@ -125,7 +125,9 @@ Son garantías sociales de los trabajadores en la forma y términos que determin
 
 I.- La duración de la jornada de trabajo que no podrá ser mayor a la máxima establecida por esta Ley;
 
-II.- El derecho al día de descanso semanal con goce de sueldo;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+II.- El derecho a, por lo menos, un día de descanso semanal con goce de sueldo;
 
 III.- El derecho a los días de descanso obligatorio que señala esta Ley;
 
@@ -139,9 +141,13 @@ VII.- El derecho al pago por horas extras trabajadas;
 
 VIII.- El derecho al aguinaldo;
 
-IX.- El derecho a indemnización por riesgos de trabajo;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-X.- El derecho a la jubilación por retiro y a la indemnización por despido injustificado;
+IX.- El derecho a la pensión por enfermedad y a la indemnización por riesgos de trabajo, previo dictamen emitido por autoridad competente, de acuerdo a las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+X.- El derecho a la jubilación y pensión por retiro, y a la indemnización por despido injustificado;
 
 XI.- El derecho a licencia por riesgos profesionales o no profesionales;
 
@@ -167,9 +173,11 @@ DE LOS TRABAJADORES.
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 10.
 
-Trabajador es toda persona física mayor de 14 años de edad que presta un servicio físico, intelectual, o de ambos géneros a los Poderes del Estado, en virtud de nombramiento expedido legalmente o por figurar en las listas de raya de trabajadores temporales.
+Trabajador es toda persona física mayor de 14 años de edad que presta un servicio físico, intelectual o de ambos géneros a los Poderes del Estado, en virtud de nombramiento expedido legalmente o por figurar en las nóminas de trabajadores temporales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
@@ -177,9 +185,17 @@ Trabajador es toda persona física mayor de 14 años de edad que presta un servi
 
 Los trabajadores de base deberán ser de nacionalidad mexicana y sólo podrán ser sustituidos por extranjeros cuando no existan mexicanos que puedan desarrollar el servicio respectivo. La sustitución será decidida por los titulares a que se refiere el artículo 4o. de la presente Ley.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 12.
 
-Los trabajadores son de base y de confianza.
+Los trabajadores son:
+
+I. De base;
+
+II. De base sindicalizados, y
+
+III. De confianza.
 
 ###### ARTICULO 13.
 
@@ -199,109 +215,111 @@ IV.- Las personas que presten sus servicios al Estado mediante contrato civil o 
 
 De conformidad con lo dispuesto por el artículo 82, fracción VI de la Constitución Política del Estado, los trabajadores de base a que se refiere dicha disposición Constitucional gozarán de las prerrogativas que esta Ley concede a este tipo de trabajadores, excepción hecha del derecho de inamovilidad.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ### CAPITULO II.
 
-TRABAJADORES DE BASE.
+TRABAJADORES DE BASE Y DE BASE SINDICALIZADOS.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 15.
 
-Son trabajadores de base los que desempeñan cargos o puestos no enumerados en el Capítulo III de este Título.
+Son trabajadores:
+
+a).- De base: los que desempeñan cargos o puestos no enumerados en el Capítulo IlI de este Título;
+
+b).- De base sindicalizados: los que desempeñan cargos o puestos no enumerados en el Capítulo III de este Título y pertenecen al Sindicato Único de Trabajadores al Servicio del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 16.
 
-Los trabajadores de base serán inamovibles.
+Los trabajadores de base y base sindicalizados serán inamovibles.
 
 ###### ARTICULO 17.
 
 En el caso de trabajadores de nuevo ingreso, su inamovilidad procederá hasta transcurridos seis meses de servicios sin nota desfavorable en su expediente.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 18.
 
-En caso de despido injustificado el trabajador de base tendrá derecho a optar por la reinstalación en su trabajo o por la indemnización de tres meses de salario.
+En caso de despido injustificado el trabajador de base o de base sindicalizado tendrá derecho a optar por la reinstalación en su trabajo o por la indemnización de tres meses de salario.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 19.
 
-Los trabajadores de base sólo podrán ser suspendidos o cesados por causa justificada en los términos que fija la Ley.
+Los trabajadores de base y de base sindicalizados sólo podrán ser suspendidos o cesados por causa justificada en los términos que fija esta Ley.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 20.
 
-Cuando el trabajador de base ocupe un puesto de confianza, al terminar su encargo en éste, volverá a su plaza de base. Este derecho estará sujeto a los términos del artículo 139 de esta Ley. El trabajador tendrá además el derecho a que se le compute todo el tiempo que haya desempeñado el puesto de confianza, para los efectos de la antigüedad en su base.
+Cuando un trabajador de base o de base sindicalizado ocupe un puesto de confianza, al terminar su encargo en éste, volverá a su plaza de base o de base sindicalizada. Este derecho estará sujeto a los términos del artículo 139 de esta ley. El trabajador tendrá además el derecho a que se le compute todo el tiempo que haya desempeñado el puesto de confianza, para los efectos de la antigüedad en su base.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 21.
 
-En ningún caso el cambio de titulares de una dependencia afectará a los trabajadores de base, excepto cuando se trate de la aplicación de alguna de las sanciones establecidas por esta Ley.
+En ningún caso el cambio de titulares de una dependencia afectará a los trabajadores de base y base sindicalizados, excepto cuando se trate de la aplicación de alguna de las sanciones establecidas por esta ley.
 
 ### CAPITULO III.
 
 TRABAJADORES DE CONFIANZA.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 22.
 
 Son trabajadores de confianza:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+I.- En el Poder Legislativo:
 
-I.- En el Poder Legislativo: El Oficial Mayor del Congreso y el personal que labora en la Auditoría Superior del Estado.
+El Oficial Mayor del Congreso, el Tesorero del Congreso, los encargados del manejo de valores, los Directores Generales, Directores y Subdirectores de Área, los Coordinadores Generales y Administrativos, los Asesores, los Secretarios Técnicos, Secretarios Particulares y Privados, los Encargados de Supervisión, Vigilancia, de Auditoría y Fiscalización Interna.
+
+Así mismo todos aquellos Asistentes o Auxiliares, independientemente de la denominación que se les asigne, que tengan plazas homologadas a Jefaturas de Departamento o Superiores.
+
+Igualmente son trabajadores de Confianza, todo el Personal que Labora en la Auditoría Superior del Estado.
 
 II.- En el Poder Ejecutivo:
 
-En el Despacho del Gobernador del Estado: el Secretario Particular, los Auxiliares y Ayudantes.
+Los Secretarios de las Dependencias, el Fiscal General del Estado, los Fiscales Especializados, los Subsecretarios, los Directores Generales, de Área, Jurídicos y Administrativos; el Procurador Social y de Atención Ciudadana, los Subdirectores, los Jefes de Departamento, de Oficina, Administrativos, de Unidades, de Diseño, de Información, de Programas y de Recursos Financieros; los Coordinadores Generales y Administrativos; Subcoordinadores, Defensores de Oficio; Delegados, Subdelegados; Guardias, Inspectores, Médicos Especialistas y Forenses, Psicólogos, Odontólogos, Pilotos, Pilotos del Ejecutivo, Capitán del Eurocopter, Presidentes y Actuarios de las Juntas Locales, Procuradores y Procuradores Auxiliares del Trabajo, Titular de la Comisión Coahuilense de Construcción de Obras, de Control de Obras y de las distintas regiones; Recaudadores de Rentas, Registradores de Oficinas, Representantes de las diferentes Secretarías, Residentes, Responsables de Unidades y de Laboratorios; Secretarios Auxiliares, de Acuerdos, de Oficina, Particulares, Privados, Técnicos y Adjuntos; Subcomisionados, Encargados, Supervisores, Visitadores, Abogados Dictaminadores, Asesores, Asistentes, Ejecutivos y Operativos; Auditores, Auxiliares de las Juntas, Agentes y Secretarios del Ministerio Público, Contralores Internos y vigilantes.
 
-En la Secretaría General de Gobierno: El Secretario General, el Director de Asuntos Jurídicos, el Director de Asuntos Administrativos, el Secretario Particular del Secretario Ejecutivo, los Abogados Consultores, el Oficial Mayor, el Oficial Primero de la Oficialía Mayor, los Jefes de Sección de la Oficialía Mayor, el Jefe del Archivo General del Estado, el Ayudante del Secretario del Ejecutivo y el Chofer del Oficial Mayor.
+Así mismo todos aquellos técnicos operativos que tengan plazas homologadas a jefaturas de departamento y a subdirecciones.
 
-En la Tesorería General del Estado: el Tesorero General del Estado, el Jefe del Departamento de Auditoría Interna, el Contador General, el Jefe y el Subjefe del Departamento de Contabilidad, el Cajero General, el Jefe del Departamento de Personal, el Director de Ingresos y Recaudaciones, el Jefe del Departamento de Participaciones Federales y Franquicias Fiscales, el Jefe del Departamento de Estudios Especiales, el Jefe del Departamento de Auditoría Fiscal, el Jefe del Departamento de Valores, el Jefe del Departamento de Ganadería y Alcoholes, el Director de Egresos, el Jefe del Departamento de Control Agrícola, el Jefe del Departamento de Control Presupuestal, el Jefe del Departamento de control de Adquisiciones, el Jefe del Departamento de Control de Inversiones, el Jefe del Departamento de Nóminas, el Jefe del Departamento de Control Magisterial, el Intendente de la Tesorería General, el Representante Fiscal en México, los Recaudadores de Rentas, los Jefes Inspectores y los Inspectores de las Recaudaciones de Rentas, los Fiscales Cobradores, los Sub-Recaudadores, los Abogados Consultores de las Recaudaciones de Rentas, los Oficiales Mayores de las Recaudaciones y los Encargados de Personal de las mismas.
+Todos aquellos que ocupen plazas de nueva creación que, independientemente de la denominación que se les dé, se les otorguen niveles de jefe de departamento, subdirectores, directores, directores generales, subsecretarios y secretarios.
 
-En la Dirección General de Catastro: el Director General, el Subdirector General, el Jefe del Departamento Administrativo, el Jefe del Departamento Técnico, el Arquitecto Urbanista del Departamento de Planeación y Urbanismo, el Delegado en Torreón, el Jefe del Departamento Técnico en Torreón, el Jefe y Subjefe de la Oficina del Catastro en Torreón.
+III.- En el Poder Judicial:
 
-En el Ministerio Público: el Procurador General, el Subprocurador General, los Agentes auxiliares y substitutos de la Procuraduría, los Agentes y Delegados del Ministerio Público, adscritos a los Juzgados Civiles, Penales y Locales, los Secretarios de las Agencias y Delegaciones del Ministerio Público y el Chofer del Procurador General.
+En el Tribunal Superior de Justicia: el Secretario General de Acuerdos, los Secretarios Auxiliares y Actuarios del Pleno; los Secretarios de Estudio y Cuenta o Proyectista y los de Acuerdo y Trámite, Secretarios Auxiliares y Actuarios de las Salas; los Secretarios Particulares, Adjuntos, Privados y Auxiliares de la Presidencia del Tribunal Superior de Justicia.
 
-En la Dirección de Policía y Tránsito: el Director de Policía y Tránsito, la Secretaria del Director, el Jefe del Servicio de Investigaciones, los Jefes de Grupo y Jefes de Laboratorio, el Subdirector de Tránsito, el Comandante de la Sección de Seguridad Rural, los Jefes de Grupo de la misma, el Director de la Academia de Policía en Torreón y los agentes de todos lo cuerpos de policía.
+En la Oficialía Mayor del Poder Judicial: el Oficial Mayor, los Directores de Recursos Humanos, Financieros, Materiales e Informática, los Subdirectores de Recursos Humanos y Finanzas y Presupuestos, el Jefe de la Unidad Jurídica, los Jefes de las Unidades Administrativas Distritales, el Jefe de Planeación y Desarrollo de Recursos Humanos, los Vigilantes y la Secretaria del Oficial Mayor.
 
-En los Centros Penitenciarios del Estado: el Coordinador de Centros Penitenciarios, el Director de la Penitenciaría del Estado, la Directora del Centro de Reclusión de Mujeres y el Director de la Escuela de Orientación para Menores, así como el personal de vigilancia de los mismos.
+En el Archivo General: el Director, los Encargados de los Archivos Regionales y Distritales.
 
-Los Jefes de Intendencia del Palacio de Gobierno y del Edificio Coahuila.
+En el Consejo de la Judicatura: el Secretario de Acuerdo y Trámite, los Secretarios de Estudio y Cuenta o Proyectistas, Secretarios Auxiliares y Actuarios.
 
-El Director General del Registro Público de la Propiedad en el Estado y los Directores y Subdirectores de las Oficinas del Registro Público de la Propiedad en el Estado.
+En los Tribunales Especializados cualquiera que sea su denominación, Tribunales Distritales, Juzgados de Primera Instancia y Letrados y demás órganos jurisdiccionales: Magistrados, Jueces, Secretarios de Acuerdo y Trámite, los Secretarios de Estudio y Cuenta o Proyectistas, Secretarios Auxiliares y Actuarios.
 
-El Proveedor del Estado.
+En la Visitaduría Judicial General: el Visitador Judicial General, los Visitadores y los Secretarios Auxiliares.
 
-El Administrador de los Talleres Tipográficos del Estado.
+En el Instituto de Especialización Judicial: el Director del Instituto, el Subdirector y el Coordinador Académico.
 
-El Director de la Biblioteca Pública del Estado.
+En el Centro de Medios Alternos de Solución de Controversias: el Director, los Coordinadores, Mediadores, Conciliadores, Evaluadores Neutrales y Árbitros.
 
-El Director de la Banda de Música del Estado.
+En el Centro de Evaluación Psicosocial: el Director, el Subdirector Técnico, el Jefe de Trabajo Social y los Psicólogos.
 
-En la Dirección General de Obras Públicas: el Director General, los Ingenieros Asesores.
+En las Oficialías Comunes de Partes: el Oficial Común de Partes y los Secretarios Auxiliares.
 
-El Administrador de la Ciudad Deportiva "Francisco I. Madero".
+En la Unidad de Proyectos Legislativos y Acceso a la Información Pública: el Jefe de la Unidad y el Secretario Auxiliar.
 
-El Comandante del Aeropuerto "Plan de Guadalupe".
+En general, los Directores, Subdirectores, Administradores, Jefes de Departamento, Coordinadores, Encargados, cualquiera que sea su denominación, así como los vigilantes, Secretarios Particulares, el Auditor Interno.
 
-Los Administradores de los Panteones Estatales.
+Además, aplicable a los tres Poderes serán considerados trabajadores de confianza aquéllos cuyo nombramiento o ejercicio del cargo requiera de la intervención directa del titular de la institución pública o del órgano de gobierno, los que rengan esa calidad en razón de la naturaleza de las funciones que desempeñen y no de la designación que se dé al puesto.
 
-En el Hospital Civil "Dr. Gonzalo Valdés": el Director, el Subdirector Técnico, el Contador General, la Secretaria del Director, el Encargado del Archivo, el Encargado del Departamento de Costos, el Auxiliar Administrativo del Director, los Médicos Jefes de Servicio, la Jefa General de Enfermeras, y las Enfermeras Jefas de Piso.
-
-En el Hospital Beatriz Velasco de Alemán: el Director, el Subdirector, el Contador, el Administrador, la Secretaria del Director, los Médicos Jefes de Servicio, la Jefa de Enfermeras, la Supervisora de Enfermeras, el Médico Residente y el Almacenista.
-
-En el Hospital General de Torreón Universitario: el Director, el Subdirector, la Secretaria del Director, la Cajera, el Contador, la Jefa de Enfermeras, las Jefas de Sala, la Jefa de Cocina, la Jefa de Quirófano, el Administrador, el Intendente, el Jefe de la División de Medicina, el Jefe de la División de Cirugía, los becarios, los Médicos Residentes, los Médicos Internos y los Internos de Pregrado.
-
-En el Departamento de Trabajo y Previsión Social: el Jefe del Departamento, los Procuradores Obreros y los Inspectores.
-
-En las Juntas Locales de Conciliación y Arbitraje: los Auxiliares, los Secretarios y los Actuarios.
-
-En las Oficialías del Registro Civil: los Oficiales del Registro.
-
-En el Departamento de Turismo: el Jefe y Subjefe.
-
-Los Jefes y Subjefes de las Direcciones y Departamentos del Estado, Encargados de Inventarios y Maquinarias, Directores y Subdirectores, Jefes y Subjefes de Dirección y Departamentos Técnicos, los Jefes y Subjefes de Intendencia, los miembros Directivos de las Comisiones, Consejos, Juntas, Comités y Patronatos, siempre y cuando los emolumentos que reciban figuren en la partida que se haya fijado en el presupuesto de Egresos, los Ayudantes, Choferes y Secretarios Particulares de los Titulares de las Dependencias:
-
-IV.- En el Poder Judicial: En el Tribunal Superior de Justicia: El Secretario del Tribunal Pleno y los Secretarios Auxiliares de Trámite y Estudio de las Salas Unitarias.
-
-En los Juzgados de Primera Instancia, Locales Letrados y Locales Legos, los Secretarios y los Actuarios.
-
-En la Defensoría de Oficio: los Defensores de Oficio.
-
-En el Tribunal para Menores: el Juez Abogado, el Juez Médico, el Juez Educador y el Secretario de Acuerdos.
+Son funciones de confianza: las de dirección, inspección, vigilancia, auditoría, fiscalización, asesoría, manejo de fondos o valores, control directo de adquisiciones, procuración y administración de justicia, protección civil, así como las que se relacionen con la representación directa de los titulares de las instituciones públicas o dependencias, con el manejo de recursos, las que realicen los auxiliares directos, asesores, secretarios particulares y adjuntos, choferes, secretarias y demás personal operativo que les sean asignados directamente a los servidores públicos de confianza o de elección popular.
 
 ###### ARTICULO 23.
 
@@ -327,9 +345,11 @@ Las mujeres disfrutan de los mismos derechos y tienen las mismas obligaciones qu
 
 Los propósitos fundamentales de las modalidades consignadas en este capítulo para el trabajo de las mujeres, consisten en cuidar con mayor esmero su salud, proteger la maternidad en relación tanto a la madre como al niño y facilitarles el cuidado del hogar en beneficio de la sociedad mexicana.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 28.
 
-Las mujeres trabajadoras pueden ser de base o de confianza, según el puesto que desempeñan, para lo cual se estará a lo dispuesto por los Capítulos II y III de este Título.
+Las mujeres trabajadoras pueden ser de base, de base sindicalizadas o de confianza, según el puesto que desempeñan, para lo cual se estará a lo dispuesto por los Capítulos II y III de este Título.
 
 ###### ARTICULO 29.
 
@@ -493,9 +513,11 @@ V.- Cuando esté sujeto a proceso ante el Tribunal de Conciliación y Arbitraje,
 
 DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 48.
 
-Ningún trabajador de base podrá ser cesado sino por justa causa; en consecuencia, el nombramiento o designación de los trabajadores de base sólo dejará de surtir efectos, sin responsabilidad para las dependencias, por las siguientes causas:
+Ningún trabajador de base o de base sindicalizado podrá ser cesado sino por justa causa; en consecuencia, el nombramiento o designación de los trabajadores de base o de base sindicalizados sólo dejará de surtir efecto, sin responsabilidad para las dependencias, por las siguientes causas:
 
 I.- Por renuncia o abandono de empleo del trabajador;
 
@@ -511,7 +533,9 @@ VI.- Por resolución del Tribunal de Conciliación y Arbitraje, en los casos sig
 
 a).- Cuando el trabajador incurriere en faltas de probidad u honradez o en actos de violencia, amagos, injurias o malos tratamientos contra sus jefes o compañeros o contra la esposa, los hijos, los padres o hermanos de uno u otros, ya sea dentro o fuera de las horas de servicio.
 
-b).- Cuando el trabajador falte sin causa justificada más de tres días consecutivos a sus labores.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+b).- Cuando el trabajador falte sin causa justificada por más de tres días en un período de treinta días.
 
 Para los efectos de esta Ley, dos medias jornadas computan un día de labores.
 
@@ -657,9 +681,11 @@ En los trabajos que requieran una labor continua, el sindicato y los titulares d
 
 VACACIONES.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 67.
 
-Los trabajadores que tengan más de doce meses de prestar sus servicios de manera contínua, tendrán derecho a un período anual de vacaciones pagadas, que en ningún caso será inferior a diez días hábiles consecutivos ni mayor de treinta días.
+Los trabajadores que tengan más de seis meses de prestar sus servicios de manera continua, tendrán derecho a dos períodos anuales de vacaciones pagadas, de cuando menos diez días hábiles cada uno, los cuales en su totalidad no podrán ser de más de treinta días hábiles consecutivos.
 
 Por cada cinco años de servicios contínuos el Período de vacaciones se aumentará en cinco días hábiles.
 
@@ -667,9 +693,11 @@ Por cada cinco años de servicios contínuos el Período de vacaciones se aument
 
 Las vacaciones deberán concederse y disfrutarse dentro de los seis meses siguientes al vencimiento del período correspondiente. Los trabajadores deberán recabar de las dependencias respectivas encargadas del control del personal en cada uno de los poderes, una constancia que certifique su antigüedad y de acuerdo con ella, el período de vacaciones que les corresponda. La fecha en que deberán disfrutarlas será fijada de común acuerdo por los titulares de la dependencia y el trabajador, teniendo en cuenta las necesidades del servicio.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 69.
 
-Una vez definida la fecha del período de vacaciones que disfrutará el trabajador, el titular de la dependencia la comunicará a la Tesorería General del Estado y a la Oficina de Control de Personal correspondiente.
+Una vez definida la fecha del período de vacaciones que disfrutará el trabajador, el titular de la dependencia la comunicará a la Secretaría de Finanzas del Estado y a las áreas administrativas correspondientes.
 
 ###### ARTICULO 70.
 
@@ -691,9 +719,11 @@ El salario es la retribución que debe pagarse al trabajador a cambio de los ser
 
 El salario será uniforme para cada una de las categorías de trabajadores y será fijado en el Presupuesto de Egresos del Gobierno del Estado, sin que su cuantía pueda ser disminuida durante la vigencia de éste.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 74.
 
-El plazo para el pago del salario no será mayor de quince días y se efectuará en el domicilio oficial de la dependencia o en el lugar donde los trabajadores presten sus servicios, en día laborable, ya sea durante las horas de trabajo o inmediatamente después de su terminación, debiendo hacerse precisamente en moneda del curso legal o en cheque.
+El plazo para el pago del salario no será mayor de quince días y se efectuará en el domicilio oficial de la dependencia o en el lugar donde los trabajadores presten sus servicios, en día laborable, ya sea durante las horas de trabajo o inmediatamente después de su terminación, debiendo hacerse precisamente en moneda del curso legal, en cheque o en pago por medios electrónicos.
 
 ###### ARTICULO 75.
 
@@ -749,17 +779,25 @@ VI.- De los descuentos a cargo del trabajador para contribuir al fondo de la Dir
 
 El monto total de los descuentos no podrá exceder del 30% del importe del salario total, excepto en los casos a que se refieren las fracciones IV, V y VI de este artículo, que en conjunto no podrán exceder del 50% del salario.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 84.
 
-En caso del fallecimiento del trabajador y si éste no ha designado beneficiarios, tendrán derecho a percibir las prestaciones e indemnizaciones pendientes de cubrirse, ejercitar las acciones y continuar los juicios sin necesidad de proceso sucesorio, las siguientes personas en el orden que se precisa:
+En caso del fallecimiento del trabajador y si éste no ha designado beneficiarios, tendrán derecho a percibir las prestaciones e indemnizaciones pendientes de cubrirse, ejercitar las acciones y continuar los juicios sin necesidad de proceso sucesorio:
 
-I.- El cónyuge o los hijos solteros menores de 18 años, o ambos si concurren;
+I.- El cónyuge, compañero civil, los hijos menores de 18 años y los mayores de esta edad si tienen una incapacidad de cincuenta por ciento o más;
 
-II.- La mujer con quien haya vivido como si fuera su esposa durante los últimos cinco años anteriores al fallecimiento o con la que tuvo hijos, aunque sea menor el tiempo de esa convivencia y siempre que ambos hayan permanecido libres de matrimonio durante la unión.
+II.- Los ascendientes concurrirán con las personas mencionadas en la fracción anterior, a menos que se pruebe que no dependían económicamente del trabajador;
 
-Si concurren varias mujeres con quienes haya hecho vida marital, ninguna tendrá los derechos que en este artículo se señalan;
+III.- A falta de cónyuge supérstite o compañero civil, concurrirá con las personas señaladas en las dos fracciones anteriores, la persona con quien el trabajador vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hubieran permanecido libres de matrimonio o pacto civil de solidaridad durante la relación.
 
-III.- En defecto de los anteriores, los padres, abuelos, nietos y hermanos que hayan vivido a expensas del trabajador.
+Si concurren varias personas con quienes haya mantenido las relaciones señaladas en el párrafo anterior, ninguna tendrá los derechos previstos en este artículo;
+
+IV.- En defecto de los anteriores, los padres, abuelos, nietos y hermanos;
+
+V.- A falta de las personas mencionadas en las fracciones anteriores, las personas que dependían económicamente del trabajador, y
+
+VI.- En el caso de que no concurra ninguna de las personas mencionadas en las fracciones anteriores, la dependencia correspondiente del Ejecutivo Estatal, para destinarla a obras de beneficencia social de los pensionados y jubilados del Gobierno del Estado.
 
 ## TITULO QUINTO.
 
@@ -785,7 +823,9 @@ V.- Guardar reserva en los asuntos de que tengan conocimiento con motivo de su t
 
 VI.- Evitar los actos u omisiones que pongan en peligro su seguridad o la de sus compañeros;
 
-VII.- Desarrollar las actividades deportivas que fueren compatibles con sus aptitudes, edad y condiciones de salud;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+VII.- Desarrollar las actividades deportivas o culturales que sean compatibles con sus intereses, aptitudes y condiciones de salud;
 
 VIII.- Desarrollar las actividades cívicas y asistir a las ceremonias conmemorativas de fechas patrióticas, cuando así lo disponga el titular de la dependencia en donde presten sus servicios;
 
@@ -837,7 +877,15 @@ VI.- Cubrir las aportaciones que correspondan al Gobierno del Estado de acuerdo 
 
 VII.- Cubrir las aportaciones que correspondan al Gobierno del Estado de conformidad con la Ley de Pensiones y Otros Beneficios Sociales para los trabajadores al Servicio del Estado de Coahuila, a fin de que los trabajadores gocen de las prerrogativas establecidas por dicha Ley;
 
-VIII.- Conceder licencias sin goce de sueldo a sus trabajadores para el desempeño de las comisiones sindicales que se les confieran, cuando sean promovidos temporalmente al ejercicio de otras comisiones en una dependencia diferente a la de su plaza o como funcionario de elección popular;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Conceder licencia o permiso a sus trabajadores:
+
+a) Con goce de sueldo para el desempeño de las comisiones sindicales que se les confieran;
+
+b) Con o sin goce de sueldo cuando sean promovidos temporalmente al ejercicio de otras comisiones en una dependencia diferente a la de su plaza, y
+
+c) Sin goce de sueldo tratándose de funcionarios de elección popular.
 
 IX.- Conceder licencia con o sin goce de sueldo a sus trabajadores para la atención de asuntos particulares o cuando vayan a realizar cursos de capacitación o de post-graduados y estudios que en alguna forma beneficien al buen funcionamiento de la dependencia.
 
@@ -901,6 +949,8 @@ DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES.
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 90.
 
 El Sindicato de Trabajadores al Servicio del Gobierno del Estado de Coahuila es la asociación de trabajadores de base que se constituye con fundamento en esta Ley para el estudio, mejoramiento y defensa de sus intereses comunes.
@@ -909,23 +959,33 @@ El Sindicato de Trabajadores al Servicio del Gobierno del Estado de Coahuila es 
 
 Sólo se reconocerá la existencia de un sindicato de trabajadores al Servicio del Estado. En caso de que concurran varios grupos que pretendan ese derecho, el reconocimiento se hará por el Tribunal de Conciliación y Arbitraje en favor de la asociación mayoritaria, no admitiéndose la formación de sindicatos minoritarios.
 
-El Sindicato tendrá su Central en la Capital del Estado y Delegaciones en las cabeceras de los Municipios.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+El Sindicato tendrá su central en la capital del Estado, así como secciones regionales y delegaciones municipales. El Sindicato estará representado por un Comité Directivo Estatal.
 
-Se podrá reconocer también la existencia de un Sindicato en las entidades paraestatales, siempre y cuando se reúnan los requisitos legales que se establecen para el Sindicato de la Administración Central.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Se podrá reconocer la existencia de un sindicato en las entidades paraestatales, siempre y cuando se reúnan los requisitos legales que se establecen para el Sindicato de la Administración Estatal Central.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 91 BIS.- El sindicato de trabajadores al servicio de los tres Poderes del Gobierno del Estado, se denomina Sindicato Único de Trabajadores al Servicio del Gobierno del Estado, sin perjuicio de lo previsto en el primer párrafo del artículo 91 de esta ley.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 92.
 
-Todos los trabajadores de base tienen derecho a formar parte del Sindicato; pero una vez que soliciten y obtengan su ingreso, no podrán dejar de formar parte de él, salvo que fueren expulsados.
+Todos los trabajadores de base tienen derecho a formar parte del sindicato, salvo que fueren expulsados o pretendan afiliarse a alguna fracción sindical dentro del mismo gobierno.
 
 ###### ARTICULO 93.
 
 Los trabajadores de confianza no podrán formar parte del Sindicato y si pertenecieren a éste por haber sido trabajadores de base, quedarán en suspenso todas sus obligaciones y derechos sindicales mientras desempeñan el cargo de confianza.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 94.
 
-El Sindicato tendrá derecho a redactar sus estatutos y reglamentos, elegir libremente a sus representantes, organizar su administración y sus actividades y formular su programa de acción.
+El Sindicato tendrá pleno derecho a redactar y aprobar sus estatutos y reglamentos, elegir libremente a sus representantes, en la forma que lo determinen, organizar su administración y sus actividades, y formular su programa de acción.
 
 ###### ARTICULO 95.
 
@@ -953,37 +1013,49 @@ Si transcurrido un plazo de dos meses a partir de la fecha de presentación de l
 
 El registro del Sindicato y de su directiva, produce efectos ante todas las autoridades.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 99.
 
 El Registro del Sindicato se cancelará:
 
-a).- Por disolución del mismo;
+I.- Por disolución del mismo;
 
-b).- Cuando deje de tener los requisitos que esta Ley establece; o
+II.- Cuando deje de tener los requisitos que esta Ley establece, o
 
-c).- Cuando apareciere diversa agrupación sindical que fuere mayoritaria.
-
-La solicitud de cancelación podrá hacerse por cualquier persona interesada y el Tribunal, en los casos de conflicto entre dos organizaciones que pretendan ser mayoritarias, ordenará desde luego el recuento correspondiente y resolverá de plano el asunto.
+III.- Cuando apareciere diversa agrupación sindical que fuere mayoritaria. En este caso, el Tribunal ordenará el recuento correspondiente y resolverá de plano el asunto.
 
 ###### ARTICULO 100.
 
 Los trabajadores que por su mala conducta o falta de solidaridad, fueren expulsados del Sindicato, perderán, por ese solo hecho, todos los derechos sindicales que esta ley les concede. La expulsión sólo podrá dictarse por acuerdo de las dos terceras partes de los miembros del Sindicato en asamblea especial, cuya convocatoria haya comprendido en la orden del día la expulsión y previa defensa del acusado.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 100 BIS.- La expulsión a que se refiere el artículo anterior, también podrá dictarse por acuerdo de las dos terceras partes de los delegados sindicales designados en el congreso estatal, cuya convocatoria haya comprendido en la orden del día la expulsión y previa defensa del acusado.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 101.
 
-El período de duración de la Directiva del Sindicato no excederá de tres años a partir de la fecha en que entre en funciones la misma.
+La duración del periodo del Comité Directivo Estatal estará prevista en los acuerdos que se tomen en el seno del Congreso Estatal.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 102.
 
-Los miembros de la Directiva del Sindicato no podrán ser reelectos para el mismo cargo en el período inmediato.
+Los integrantes del Comité Directivo Estatal y de las secciones regionales no podrán ser reelectos para el mismo cargo en el periodo inmediato.
 
 ###### ARTICULO 103.
 
 No podrán formar parte de la Directiva del Sindicato los trabajadores menores de 16 años, ni los extranjeros.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 104.
 
-El Sindicato celebrará asambleas, congresos o convenciones, cuando menos una vez al año, en donde la Directiva, rendirá cuenta completa y detallada de la administración del patrimonio sindical, haciéndose constar en el acta que al efecto se levante. Esta obligación no es dispensable.
+El sindicato celebrará congresos, convenciones y plenos, cuando menos una vez al año, a través del Comité Directivo Estatal, en donde la directiva rendirá cuenta completa y detallada de la administración del patrimonio sindical, haciéndose constar en el acta que al efecto se levante. Esta obligación no es dispensable.
+
+El sindicato llevará a cabo asambleas en cada una de las secciones regionales, atendiendo a las necesidades del mismo.
 
 ###### ARTICULO 105.
 
@@ -1011,7 +1083,9 @@ I.- Proporcionar los informes que en cumplimiento de esta Ley, solicite el Tribu
 
 II.- Comunicar al Tribunal de Conciliación y Arbitraje, dentro de los diez días siguientes a cada elección, los cambios que ocurrieren en su Directiva y las modificaciones que sufran los Estatutos y Reglamentos, acompañando por duplicado copia autorizada de las actas respectivas;
 
-III.- Informar al Tribunal de Conciliación y Arbitraje cada tres meses por lo menos, de las altas y bajas de sus miembros;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+III.- Informar al Tribunal de Conciliación y Arbitraje cada seis meses por lo menos, de las altas y bajas de sus miembros;
 
 IV.- Facilitar la labor del Tribunal de Conciliación y Arbitraje, en los conflictos que se ventilen ante el mismo, ya sea del sindicato o de sus miembros, proporcionándole la cooperación que le solicite; y
 
@@ -1071,131 +1145,183 @@ DEL ESCALAFON.
 
 ### CAPITULO II.
 
-COMISION MIXTA DE ESCALAFON.
+COMISIONES U ÓRGANOS DE ESCALAFON.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 115.
 
-El presente título es aplicable únicamente a los trabajadores de base en la forma y términos que establece.
+El presente Título es aplicable a los trabajadores de base y base sindicalizados en la forma y términos que establece.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 116.
 
-Escalafón es el sistema organizado en cada dependencia o unidad conforme a las bases establecidas en este título, para efectuar las promociones de ascensos de los trabajadores de base y autorizar las permutas.
+Escalafón es el sistema organizado en cada dependencia o entidad pública estatal conforme a las bases establecidas en este Título, para efectuar las promociones de ascensos de los trabajadores de base y de base sindicalizados, y autorizar las permutas.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 117.
 
-Se expedirá un Reglamento de Escalafón para los trabajadores de base de cada uno de los tres Poderes, de conformidad con las bases establecidas en este título. Los proyectos de los reglamentos se formularán por las Comisiones Mixtas de Escalafón y serán aprobados en definitiva por el Tribunal de Conciliación y Arbitraje.
+Se expedirán las disposiciones legales de escalafón para los trabajadores de base y de base sindicalizados que integran los tres Poderes del Gobierno del Estado, de conformidad con las bases establecidas en este Título.
 
-Los reglamentos entrarán en vigor un día después de su publicación en el Periódico Oficial del Gobierno del Estado. El escalafón y sus modificaciones tendrán la publicidad necesaria.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO No. 155, PUBLICADO EN EL P.O. DE 11 DE DICIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR CONFORMADO POR CINCO FRACCIONES Y DOS PARRAFOS.</small>
 
 ###### ARTICULO 118.
 
 Son factores escalafonarios:
 
-I.- Los conocimientos;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+I.- La escolaridad y el conocimiento;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 II.- La aptitud;
 
-III.- La antigüedad;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-IV.- La disciplina;
+III.- La puntualidad y asistencia;
 
-V.- La puntualidad; y
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-VI.- Las mayores cargas familiares que estén obligados a atender los candidatos a ascensos, según sus circunstancias personales.
+IV.- La antigüedad; y
 
-Se entiende:
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-a).- Por conocimientos: la posesión de los principios teóricos y prácticos que se requieren para el desempeño de una plaza.
+V.- La participación sindical, en su caso;
 
-b).- Por aptitud: la suma de facultades físicas y mentales, la iniciativa, la laboriosidad y la eficiencia para llevar a cabo una actividad determinada.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-c).- Por antigüedad: el tiempo de servicios prestados a la dependencia correspondiente.
+Para los efectos de este artículo, se entiende:
 
-d).- Por disciplina: la conducta asumida para el cumplimiento del servicio.
+a).- Por escolaridad: los estudios avalados mediante documento expedido por una institución educativa reconocida;
 
-e).- Por puntualidad: la asistencia al centro de trabajo en los días y horarios establecidos.
+b).- Por conocimiento: la posesión de principios teóricos y prácticos que se requieran para el desempeño de una función ó trabajo determinado;
+
+c).- Por aptitud: suma de facultades físicas y mentales, entendidas como disposición, iniciativa, laboriosidad y eficiencia para llevar a cabo una actividad:
+
+d).- Por puntualidad: la asistencia al centro de trabajo en los días y horarios establecidos;
+
+e).- Por antigüedad: los años de servicio prestados al Gobierno del Estado, y
+
+f).- Por participación sindical: el cumplimiento de comisiones de trabajo y asistencia a eventos de carácter sindical, cuando el trabajador forme parte del sindicato.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 119.
 
-Los factores escalafonarios se calificarán por medio de los tabuladores o a través de los sistemas adecuados de registro y evaluación que señale el Reglamento.
+Los factores escalafonarios se calificarán a través de los sistemas adecuados de registro y evaluación que señalen las disposiciones legales respectivas.
 
 ###### ARTICULO 120.
 
 El procedimiento para resolver las permutas de empleos, así como las inconformidades de los trabajadores afectados por alguna resolución de la Comisión Mixta de Escalafón, será previsto en el Reglamento.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 121.
 
-Los trabajadores de cada dependencia se clasificarán conforme a las categorías y denominaciones señaladas en el Reglamento y establecidas en el Presupuesto de Egresos.
+Los trabajadores de cada dependencia y/o entidad pública estatal se clasificarán conforme a las categorías y denominaciones señaladas en el reglamento correspondiente y establecidas en el Presupuesto de Egresos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO III.
 
-PROCEDIMIENTOS DE LAS PROMOCIONES DE LOS TRABAJADORES DE BASE.
+PROCEDIMIENTOS PARA ASCENSOS DE LOS TRABAJADORES DE BASE Y DE BASE SINDICALIZADOS.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 122.
 
-En cada uno de los tres Poderes del Estado y en las entidades paraestatales funcionará una Comisión Mixta de Escalafón, integrada por igual número de representantes del Poder y Entidad respectiva y del Sindicato, de acuerdo con las necesidades de sus dependencias, quienes designarán un árbitro que decida los casos de empate. Si no hay acuerdo, la designación del árbitro la hará el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Tres Poderes del Estado y Municipios, en un término que no excederá de diez días hábiles y de una lista de cuatro candidatos que las partes en conflicto le propongan.
+El órgano legalmente facultado para intervenir en la formación, manejo y movimientos escalafonarios de los trabajadores de base y de base sindicalizados de los tres Poderes que integran el Gobierno del Estado, será una comisión u órgano de escalafón, el cual funcionará de acuerdo a las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 123.
 
-Los integrantes de la Comisión Mixta de Escalafón deberán ser mayores de edad.
+Los integrantes de la comisión de escalafón deberán ser mayores de edad.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
-
-El representante del Sindicato será trabajador de base y deberá prestar sus servicios en el Poder o Entidad Paraestatal correspondiente.
+Las comisiones de escalafón estarán integradas de acuerdo a lo previsto en las disposiciones reglamentarias correspondientes.
 
 ###### ARTICULO 124.
 
-El árbitro fungirá como Presidente de la Comisión Mixta de Escalafón y durará en su cargo tres años, contados a partir de la fecha de su designación, pudiendo ser reelecto.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2009)
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 125.
 
-El Gobierno del Estado proporcionará a las Comisiones Mixtas de Escalafón los medios administrativos y materiales para su eficaz funcionamiento.
+El Gobierno del Estado proporcionará a las comisiones de escalafón los recursos materiales y financieros para su eficaz funcionamiento.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 126.
 
-Las facultades, obligaciones, atribuciones, procedimientos y derechos de las Comisiones Mixtas de Escalafón y de sus Organismos Auxiliares en su caso, quedarán señaladas en el Reglamento respectivo, sin contravenir las disposiciones de esta Ley.
+Las facultades, obligaciones, atribuciones, procedimientos y derechos de las comisiones de escalafón y de sus organismos auxiliares en su caso, quedarán señaladas en las disposiciones reglamentarias correspondientes.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO I.
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 127.
 
-Las promociones de los trabajadores de base, son los ascensos a que tienen derecho para cubrir provisional o definitivamente las vacantes existentes en una Dependencia en los términos que establezca el Reglamento de Escalafón.
+Los cambios de nivel de los trabajadores de base y de base sindicalizados, son los ascensos a que tienen derecho para cubrir temporal o definitivamente las vacantes existentes en una dependencia o entidad pública estatal en los términos que establezcan las disposiciones legales de escalafón respectivas.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 128.
 
-Para los fines de este Capítulo se considera como ascenso todo cambio de categoría de un trabajador, que implique aumento en su sueldo.
+Para los fines de este capítulo se considera como ascenso todo cambio de categoría de un trabajador, que implique aumento en su sueldo. Los ascensos podrán darse por:
+
+I. La aplicación de exámenes en las plazas vacantes de las diferentes áreas administrativas, para lo cual se convocará por lo menos tres veces anualmente;
+
+II. La calificación anual de los diversos factores escalafonarios conforme a las disposiciones reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 129.
 
-Tienen derecho a participar en los concursos para ser ascendidos, todos los trabajadores con un mínimo de seis meses en la plaza del grado inmediato inferior.
+Tienen derecho a participar en los procedimientos de ascenso, todos los trabajadores de base y de base sindicalizados con un mínimo de seis meses de antigüedad, en el caso de concursos de plazas vacantes, y cuatro años de antigüedad como trabajador sindicalizado para la aplicación de los derechos escalafonarios, de acuerdo a las disposiciones reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 130.
 
-Las dependencias darán a conocer a las Comisiones Mixtas de Escalafón las vacantes que se presenten dentro de los diez días siguientes en que se dicte el aviso de baja o se apruebe oficialmente la creación de plazas de base.
+Las dependencias y entidades públicas estatales de los diferentes poderes u órganos del Gobierno del Estado, informarán a la comisión de escalafón correspondiente, en un término que no exceda de diez días, las vacantes que se presenten, para que convoquen a la aplicación de exámenes, conforme a las disposiciones reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 131.
 
-Al tener conocimiento de las vacantes, las Comisiones Mixtas de Escalafón procederán desde luego a convocar a un concurso, entre los trabajadores de la categoría inmediata inferior, mediante circulares o boletines que se fijarán en lugares visibles de los centros de trabajo correspondientes.
+Al tener conocimiento de las vacantes, la comisión de escalafón correspondiente procederá a convocar a la aplicación de exámenes entre los trabajadores de las categorías inferiores del área administrativa de que se trate, mediante circulares o boletines que se fijarán en lugares visibles de los centros de trabajo correspondientes.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 132.
 
-Las convocatorias señalarán los requisitos para aplicar derechos, plazos para presentar solicitudes de participación en los concursos y demás datos que determinen los reglamentos.
+Las convocatorias señalarán los requisitos para aplicar exámenes, plazos para presentar solicitudes de participación y demás datos que determinen las disposiciones jurídicas respectivas.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 133.
 
-En los concursos se procederá por las Comisiones a verificar las pruebas a que se sometan los concursantes y a calificar los factores escalafonarios, teniendo en cuenta los documentos, constancias o hechos que los comprueben, de acuerdo con la valuación fijada en los reglamentos.
+En los procedimientos de ascenso se procederá por la comisión de escalafón a la aplicación y evaluación de los exámenes que consistirán en una prueba teórica y otra práctica, en los términos fijados por el reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 134.
 
-La vacante se otorgará al trabajador que habiendo sido aprobado de acuerdo con el Reglamento respectivo obtenga la mejor calificación.
+La vacante se otorgará a quien obtenga la mayor calificación y el resultado se dará a conocer por escrito a los participantes en el procedimiento de ascenso.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 135.
 
-Las plazas de última categoría disponibles en cada grupo, una vez corridos los escalafones respectivos con motivo de las vacantes que ocurrieren, serán cubiertas libremente por la dependencia.
+Las plazas disponibles en cada grupo, una vez corridos los escalafones respectivos con motivo de las vacantes que ocurrieren, serán cubiertas conforme a lo establecido en las disposiciones reglamentarias.
 
 ###### ARTICULO 136.
 
@@ -1209,13 +1335,23 @@ Cuando se trate de vacantes temporales mayores de tres meses, pero menores de se
 
 Las vacantes temporales mayores de seis meses serán ocupadas por riguroso escalafón; pero los trabajadores ascendidos serán nombrados en todo caso con el carácter de provisionales, de tal modo que si quien disfrute de la licencia reingresare al servicio, automáticamente se correrá en forma inversa el escalafón y el trabajador provisional de la última categoría correspondiente dejará de prestar sus servicios sin responsabilidad para la dependencia.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 139.
 
-Las vacantes temporales mayores de seis meses serán las que se originen por licencias otorgadas a un trabajador de base, sin goce de sueldo y por un término máximo no renovable de seis años, para desempeñar puestos de confianza, comisiones sindicales, cargos de elección popular o para realizar estudios o cursos de capacitación, especialización o de post-graduados.
+Las vacantes temporales mayores de seis meses serán las que se originen por licencias o permisos otorgados a un trabajador de base o de base sindicalizado en los términos siguientes:
+
+I. Sin goce de sueldo y por el término que dure el desempeño en los puestos de confianza o cargos de elección popular;
+
+II. Con goce de sueldo para el cumplimiento de las comisiones sindicales, y
+
+III. Con o sin goce de sueldo para la realización de estudios o cursos de capacitación, especialización o de postgrados.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 140.
 
-Todo aquel trabajador que siendo titular de una plaza de base, haya obtenido una licencia en los términos del artículo anterior, al concluir ésta, tendrá derecho a regresar a su plaza de base original y a que se le compute todo el tiempo que haya gozado de la licencia, para efectos de antigüedad en su plaza.
+Todo aquel trabajador que siendo titular de una plaza de base o de base sindicalizada, haya obtenido una licencia o permiso en los términos del artículo anterior, al concluir ésta tendrá derecho a regresar a su plaza original y a que se le compute todo el tiempo que haya gozado de la licencia o permiso, para efectos de antigüedad en su plaza.
 
 ## TITULO NOVENO.
 
@@ -1227,7 +1363,7 @@ DECLARACION Y PROCEDIMIENTO DE HUELGA.
 
 ###### ARTICULO 141.
 
-Huelga es la suspensión temporal del trabajo como resultado de una coalición de trabajadores de base, decretada en la forma y términos que esta ley establece.
+Huelga es la suspensión temporal del trabajo como resultado de una coalición de trabajadores de base y/o de base sindicalizados, decretada en la forma y términos que esta ley establece.
 
 ###### ARTICULO 142.
 
@@ -1285,7 +1421,9 @@ Para declarar una huelga se requiere:
 
 I.- Que sea motivada por alguna o algunas de las causas señaladas en los artículos 145 y 146 de esta Ley;
 
-II.- Que sea declarada por mayoría absoluta de las dos terceras partes de los trabajadores de base de las dependencias afectadas;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+II.- Que sea declarada por mayoría absoluta de las dos terceras partes de los trabajadores de base y/o sindicalizados de las dependencias afectadas;
 
 III.- Que no ponga en peligro la soberanía nacional o del Estado, la paz pública o la integridad de las instituciones públicas, a juicio del Gobernador o del H. Congreso del Estado.
 
@@ -1359,7 +1497,7 @@ I.- Las acciones para pedir la nulidad de un nombramiento;
 
 II.- El derecho de los trabajadores para volver a ocupar las plazas que hayan dejado por riesgo de trabajo o no profesional;
 
-III.- La facultad de las dependencias para cesar a sus trabajadores por causas justificadas; y
+III.- (DEROGADA, P.O. 11 DE DICIEMBRE DE 2009)
 
 IV.- El derecho de los trabajadores para ejercitar las acciones para exigir la reinstalación en su trabajo o las indemnizaciones que la ley concede cuando se trate de despido o suspensión injustificados.
 
@@ -1369,7 +1507,9 @@ Prescriben en dos meses:
 
 I.- El derecho para impugnar los dictámenes escalafonarios; y
 
-II.- La facultad de las dependencias para suspender a los trabajadores por causas justificadas y para disciplinar las faltas de éstos.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+II.- La facultad de las dependencias para suspender o cesar a los trabajadores por causas justificadas y para disciplinar las faltas de éstos.
 
 ###### ARTICULO 163.
 
@@ -1417,17 +1557,21 @@ El efecto de la interrupción es inutilizar para la prescripción, todo el tiemp
 
 INTEGRACION DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 167.
 
 En el caso señalado en la fracción I del artículo 161, la prescripción se contará a partir de la fecha en que se expida el nombramiento. Para el caso de la fracción II del mismo artículo, desde la fecha en que esté en aptitud de volver al trabajo de acuerdo con la constancia médica respectiva.
 
-Para el caso señalado en la fracción III del artículo 161, la prescripción se contará a partir de la fecha en que sean conocidas las causas que den origen al cese; y en el caso de la fracción IV del mismo artículo, desde el momento en que sea notificado el trabajador, del despido o la suspensión injustificados.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+En el caso de la fracción IV del mismo artículo, desde el momento en que sea notificado el trabajador, del despido o la suspensión injustificados.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 168.
 
-Para los casos señalados en la fracción I del artículo 162, la prescripción se contará a partir de la fecha en que se emita el dictamen escalafonario; y en los casos de la fracción II del mismo artículo, desde el momento en que se dé causa para la separación o que sean conocidas las faltas de disciplina.
+Para los casos señalados en la fracción I del artículo 162, la prescripción se contará a partir de la fecha en que se emita el dictamen escalafonario; y en los casos de la fracción II del mismo artículo, desde el momento en que la autoridad competente notifique al trabajador la acreditación de la causa justificada que motive la suspensión o cese.
 
 ###### ARTICULO 169.
 
@@ -1437,131 +1581,181 @@ En los casos señalados en la fracción I del artículo 163, la prescripción se
 
 Para los efectos de la prescripción los meses y los años se regularán por el número de días que les correspondan; el primer día se contará completo y cuando sea inhábil el último, no se tendrá por completa la prescripción, sino completo el primer día hábil siguiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MARZO DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO DECIMO PRIMERO.
 
-DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE PARA LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y DE LOS MUNICIPIOS.
+DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
 
 ### CAPITULO II.
 
 PERSONAL DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 171.
 
-El Tribunal de Conciliación y Arbitraje será colegiado y funcionará en dos Secciones, denominadas por número ordinal y presididas por un tercer árbitro que fungirá como Presidente del Tribunal y de cada una de las Secciones.
+El Tribunal de Conciliación y Arbitraje es un órgano especializado del Poder Judicial, dotado de autonomía constitucional, independencia y plena jurisdicción, en los términos que establece la Constitución Política del Estado y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+El Tribunal de Conciliación y Arbitraje funcionará con una Sala Superior y las Salas Especiales que se requieran conforme a las necesidades del servicio y al presupuesto anual de egresos respectivo. El acuerdo que determine el establecimiento de las Salas Especiales fijará su competencia y deberá publicarse en el Boletín Judicial, así como en el Periódico Oficial del Gobierno del Estado.
 
-La Primera Sección, conocerá de los conflictos que surjan entre los Poderes del Estado o las Entidades Paraestatales y sus trabajadores.
+La Sala Superior es el órgano supremo del Tribunal y está integrada por tres magistrados numerarios y tres magistrados supernumerarios, con residencia en la capital del Estado. Las Salas Especiales tendrán la residencia y jurisdicción que determine el Consejo de la Judicatura y estarán integradas por un magistrado numerario.
 
-Integrarán la primera Sección, además del tercer árbitro, un representante del Gobierno del Estado, que será designado por la Legislatura Local o por la Diputación Permanente durante los recesos de aquélla, a proposición que en sendas ternas presentará el Gobernador del Estado y el Pleno del Tribunal Superior de Justicia, y un representante de los trabajadores, designados por el Sindicato Unico de los Trabajadores al Servicio del Estado de Coahuila.
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-La Segunda Sección, conocerá de los conflictos que se susciten entre los Municipios y sus trabajadores.
+ARTICULO 171 BIS.- El procedimiento de designación de los Magistrados del Tribunal de Conciliación y Arbitraje se hará en base a la propuesta que haga el Consejo de la Judicatura entre las ternas que le hayan presentado los Poderes del Estado, organismos públicos autónomos, municipios y los trabajadores por conducto de sus representantes sindicales, en los términos que señala la Constitución Política del Estado de Coahuila de Zaragoza, la Ley Orgánica del Poder Judicial del Estado de Coahuila y demás disposiciones aplicables.
 
-Integrarán la Segunda Sección, además del tercer árbitro un Representante de los Ayuntamientos y otro de los trabajadores, que serán designados en la forma y términos previstos por el artículo 623 del Código Municipal.
-
-El tercer árbitro será designado por los representantes que integran las dos Secciones.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 172.
 
-El Presidente del Tribunal durará en su cargo seis años y sólo podrá ser removido por haber cometido delitos graves del orden común.
+El Presidente del Tribunal, quien también lo será de la Sala Superior será elegido de entre sus miembros y durará en su cargo tres años, pudiendo ser reelecto por un período igual, y sólo podrá ser removido en los términos del Título Séptimo de la Constitución Política del Estado de Coahuila de Zaragoza.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-Los representantes del Gobierno del Estado, de los Ayuntamientos y de los trabajadores, podrán ser removidos libremente por quienes los designaron.
+ARTICULO 172 BIS.- La administración, vigilancia y disciplina del Tribunal de Conciliación y Arbitraje corresponderán, en los términos que señale la ley, al Consejo de la Judicatura. El Presidente del Tribunal de Conciliación y Arbitraje formará parte del Consejo de la Judicatura siempre con voz, y voto únicamente en los asuntos que le competan al Tribunal que preside.
 
-Los integrantes del Tribunal disfrutarán de los emolumentos que fije el Presupuesto de Egresos.
-
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 1991)</small>
-
-Por cada Representante propietario y por el tercer árbitro, habrá un suplente.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 173.
 
-Las faltas temporales de los miembros del Tribunal serán cubiertas por sus respectivos suplentes.
+Las faltas temporales y absolutas de los magistrados del Tribunal serán cubiertas por los magistrados supernumerarios que correspondan, en el orden respectivo y de acuerdo con el turno que lleve el Presidente del Tribunal.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+En caso de falta absoluta, el magistrado supernumerario actuará hasta en tanto se realice la nueva designación, para lo cual el Presidente del Tribunal, inmediatamente que aquella ocurra, dará cuenta al Consejo de la Judicatura quien atenderá al procedimiento establecido en la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
 
-Las faltas absolutas de los miembros de la Primera Sección y del Presidente del Tribunal serán cubiertas siguiendo el procedimiento indicado en el Artículo 171. Las faltas absolutas de los Representantes en la segunda Sección, se cubrirán mediante nuevo sorteo, entre los candidatos que ya fueron propuestos al Congreso por los Ayuntamientos y por sus trabajadores.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 174.
 
-Para ser miembro del Tribunal de Conciliación y Arbitraje se requiere:
+Para ser Magistrado del Tribunal de Conciliación y Arbitraje se requiere:
 
-I.- Ser mexicano en pleno goce de sus derechos civiles;
+I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos;
 
-II.- Ser mayor de veinticinco años; y
+II.-Tener cuando menos 35 años cumplidos el día de la designación;
 
-III.- No haber sido condenado por delitos contra la propiedad o a sufrir pena mayor de un año de prisión por cualquier otra clase de delitos intencionales.
+II.- Poseer al día de la designación, una antigüedad mínima de diez años, título profesional de Licenciado en Derecho, expedido por autoridad o institución legalmente facultada para ello;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+IV.- Tener como mínimo tres años de experiencia acreditable en materia laboral;
 
-El presidente deberá ser Licenciado en Derecho, con tres años de ejercicio profesional como mínimo.
+V.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+VI.- Haber residido en el Estado durante los dos años anteriores al día de la designación, y
 
-Los representantes de los trabajadores deberán haber servido en las dependencias o entidades como empleados de base, por un período no menor de cinco años, precisamente anteriores a la fecha de la designación.
+VII.- No haber ocupado el cargo de Secretario del Ramo o su equivalente, en la Administración Pública Estatal, Fiscal General del Estado, Diputado Local o alguno de los cargos mencionados en la fracción VI del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de su nombramiento.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+Los nombramientos de los magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
-El representante del Gobierno del Estado deberá ser Licenciado en Derecho, con tres años de ejercicio profesional como mínimo.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 175.
 
-Los integrantes del tribunal podrán ser reelectos.
+Los Magistrados del Tribunal durarán 6 años en el primer ejercicio de su encargo, que se contará a partir de la fecha de su designación. Al término del citado período podrán ser designados nuevamente, por única vez, por un periodo de nueve años.
 
 ### CAPITULO III.
 
 COMPETENCIA DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 176.
 
-El Tribunal contará con un Secretario de Acuerdos para cada Sección, los secretarios, actuarios y el personal que que (sic) sea necesario. El personal con que cuente el Tribunal estará sujeto al presente Estatuto, pero los conflictos que se susciten con motivo de la aplicación del mismo, serán resueltos por la Junta de Conciliación y Arbitraje con residencia en la Capital del Estado.
+La Sala Superior y las Salas Especiales del Tribunal contarán con un Secretario de Acuerdo, los secretarios de estudio y cuenta, actuarios y demás personal que sea necesario.
+
+Los Magistrados y demás personal con que cuente el Tribunal estarán sujetos a las disposiciones previstas en materia disciplinaria, responsabilidades administrativas, carrera judicial y en todo lo que resulte conducente, previstas en la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, así como al presente Estatuto.
 
 ###### ARTICULO 177.
 
 Para ser Secretario del Tribunal de Conciliación y Arbitraje se requiere:
 
-I.- Ser mexicano en pleno goce de sus derechos civiles;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-II.- Tener título legalmente expedido de Licenciado en Derecho; y
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
-III.- No haber sido condenado por delito intencional sancionado con pena corporal.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 12 DE MARZO DE 1991)</small>
+II.- No tener menos de 21 años de edad el día de la designación;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+III.-Tener título legalmente expedido de Licenciado en Derecho;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional sancionado con pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+V.- Sustentar y aprobar el examen de méritos.
 
 ###### ARTICULO 178.
 
 Para ser Actuario del Tribunal de Conciliación y Arbitraje se requiere:
 
-I.- Ser mexicano en pleno goce de sus derechos civiles;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-II.- Haber terminado el tercer año o su equivalente de la carrera de Licenciado en Derecho, por lo menos; y
+I.- Ser ciudadano mexicano por nacimiento, mayor de edad, en pleno ejercicio de sus derechos civiles y políticos;
 
-III.- No haber sido condenado por delito intencional sancionado con pena corporal.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+II.-Tener buenos antecedentes de moralidad;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+III.-Tener título de Licenciado en Derecho;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+IV.- No haber sido condenado por delito intencional sancionado con pena corporal, y
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+V.- Sustentar y aprobar el examen de méritos.
 
 El resto del personal deberá llenar los requisitos que esta Ley señala para ser trabajador.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 179.
 
-El Tribunal nombrará, removerá o suspenderá a sus trabajadores en los términos de esta Ley.
+El Tribunal nombrará, removerá o suspenderá a sus trabajadores en los términos de esta Ley y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
 
 Los gastos que origine el funcionamiento del Tribunal serán cubiertos por el Estado, consignándose en el Presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 179 BIS.- Los servidores públicos del Tribunal de Conciliación y Arbitraje podrán participar en las promociones escalafonarias de los demás órganos jurisdiccionales, pero deberán demostrar conocimientos en la materia para la que deseen concursar.
 
 ### CAPITULO I.
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 180.
 
-El Tribunal de Conciliación y Arbitraje será competente para:
+El Tribunal de Conciliación y Arbitraje es competente para conocer y resolver, en los términos de las leyes de la materia, los conflictos que se susciten entre:
 
-I.- Conocer de los conflictos individuales que se susciten entre una dependencia y sus trabajadores;
+I. El Poder Legislativo y sus trabajadores;
 
-II.- Conocer de los conflictos colectivos que surjan entre las dependencias y el Sindicato;
+II. El Poder Ejecutivo y sus trabajadores;
+
+III. El Poder Judicial y sus trabajadores, con excepción de los del Tribunal Superior de Justicia, el que conocerá de los conflictos laborales con sus trabajadores;
+
+IV. Los Municipios y sus trabajadores;
+
+V. Los organismos públicos autónomos y sus trabajadores;
+
+VI. Los trabajadores al servicio del Estado y su Sindicato y los trabajadores al servicio de los municipios y sus sindicatos, y
+
+VII. Los trabajadores al servicio de la educación y sus sindicatos, y organismos públicos autónomos y sus sindicatos, en su caso.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 180 BIS.- El Tribunal de Conciliación y Arbitraje es competente para conocer y resolver los conflictos que se susciten entre los Poderes, entidades y demás instancias descritas en el artículo anterior, que podrán ser:
+
+I.- Los conflictos individuales que se susciten entre una dependencia y sus trabajadores;
+
+II.- Los conflictos colectivos que surjan entre las dependencias y el Sindicato;
 
 III.- Conceder o negar el registro del Sindicato, y en su caso, dictar la cancelación del mismo;
 
@@ -1569,11 +1763,13 @@ IV.- Conocer de los conflictos sindicales;
 
 V.- Efectuar el registro de las condiciones generales de trabajo;
 
-VI.- Conocer de todos los conflictos que se susciten en la aplicación de la presente ley;
+Vl.- Conocer de todos los conflictos que se susciten en la aplicación de la presente Ley;
 
-VII.- Conocer de todos los demás casos que esta ley determine deban ser resueltos por él;
+VII.- Conocer de todos los demás casos que esta Ley determine deban ser resueltos por él;
 
-VIII.- Expedir su Reglamento Interior sujetándose a los lineamientos generales del presente Estatuto.
+VIII.- Proponer al Consejo de la Judicatura el proyecto de Reglamento Interior del Tribunal y demás acuerdos generales para regular su organización y funcionamiento interno, y
+
+IX.- Las demás que le confiera la Constitución Política del Estado de Coahuila de Zaragoza, la Ley Orgánica del Poder Judicial del Estado de Coahuila, esta ley y demás disposiciones legales aplicables.
 
 ## TITULO DECIMO SEGUNDO.
 
@@ -1587,13 +1783,13 @@ MEDIOS DE APREMIO.
 
 ###### ARTICULO 181.
 
-En todo lo no previsto por este Título, se aplicará la Ley Federal del Trabajo y en su defecto el Código de Procedimientos Civiles del Estado.
+En todo lo no previsto por este Título, se aplicará la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 182.
 
-Tan pronto reciba la primera promoción relativa a un conflicto colectivo o sindical, el Presidente del Tribunal de Conciliación y Arbitraje, citará a las partes dentro de las veinticuatro horas siguientes a una audiencia de conciliación, que deberá llevarse a cabo dentro del término de tres días contados a partir de la fecha de la citación. En esta audiencia procurará avenir a las partes; de celebrarse convenio, se elevará a la categoría de laudo, que las obligará como si se tratara de sentencia ejecutoriada. Si no se avienen, remitirá el expediente a la Secretaría de Acuerdos de la Sección que deba conocer del asunto para que proceda al arbitraje de conformidad con el procedimiento que establece este Capítulo.
+Tan pronto reciba la primera promoción relativa a un conflicto colectivo o sindical, el Presidente del Tribunal de Conciliación y Arbitraje, citará a las partes dentro de las veinticuatro horas siguientes a una audiencia de conciliación, que deberá llevarse a cabo dentro del término de tres días contados a partir de la fecha de la citación. En esta audiencia procurará avenir a las partes; de celebrarse convenio, se elevará a la categoría de laudo, que las obligará como si se tratara de sentencia ejecutoriada. Si no se avienen, remitirá el expediente a la Secretaría de Acuerdos para que proceda al arbitraje de conformidad con el procedimiento que establece este Capítulo.
 
 ###### ARTICULO 183.
 
@@ -1603,11 +1799,13 @@ En el procedimiento ante el Tribunal de Conciliación y Arbitraje no se requiere
 
 El procedimiento para resolver las controversias que se sometan al Tribunal de Conciliación y Arbitraje, se reducirá: a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia; a la contestación, que podrá hacerse en cualquiera de las dos formas señaladas; y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes, y se pronunciará resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de otras diligencias, en cuyo caso se ordenará que se lleven a cabo, y, una vez desahogadas, se dictará laudo.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 185.
 
-Todas las actuaciones deberán efectuarse en las Secciones, con la asistencia de sus miembros y serán válidas con la concurrencia de dos de ellos. Sus resoluciones se dictarán por mayoría de votos.
+Las sesiones ordinarias del Tribunal tendrán verificativo por lo menos un día hábil de cada semana, sin perjuicio de las sesiones extraordinarias que, en uno y otro caso, al efecto convoque el presidente. Para la celebración de las sesiones, se requerirá la presencia de los tres magistrados; en consecuencia, si algún magistrado numerario se encuentra ausente, deberá llamarse de inmediato al supernumerario que corresponda para que lo supla en la sesión.
+
+Cada magistrado será ponente de los asuntos que le sean turnados.
 
 ###### ARTICULO 186.
 
@@ -1631,21 +1829,25 @@ La contestación de la demanda se presentará en un término que no exceda de ci
 
 Cuando el domicilio del demandado se encuentre fuera del lugar en que radica el Tribunal, se ampliará el término en un día por cada 100 Kms. de distancia o fracción que exceda de la mitad.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 188.
 
-La Sección a la que haya sido turnado el asunto, tan luego como reciba la contestación de la demanda o una vez transcurrido el plazo para contestarla, ordenará la práctica de las diligencias que fueren necesarias y citará a las partes, y, en su caso, a los testigos y peritos, para la audiencia de pruebas, alegatos y resolución.
+El Tribunal, tan pronto como reciba la contestación de la demanda o una vez transcurrido el plazo para contestarla, ordenará la práctica de las diligencias que fueren necesarias y citará a las partes y, en su caso, a los testigos y peritos, para la audiencia de pruebas, alegatos y resolución.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 189.
 
-El día y hora de la audiencia se abrirá el período de recepción de pruebas; la Sección calificará las mismas, admitiendo las que estime pertinentes y desechando aquéllas que resulten notoriamente inconducentes o contrarias a la moral o al derecho o que no tengan relación con la litis. Acto continuo se señalará el orden de su desahogo, primero las del actor y después las del demandado, en la forma y términos que estime oportuno, tomando en cuenta la naturaleza de las mismas y procurando la celeridad en el procedimiento.
+El día y hora de audiencia se abrirá al periodo de recepción de pruebas; el Tribunal calificará las mismas, admitiendo las que estime pertinentes y desechando aquellas que resulten notoriamente inconsecuentes o contrarias a la moral o al derecho o que no tengan relación con la litis. Acto continuo, se señalará el orden de su desahogo, primero las del actor y después las del demandado, en la forma y términos que estime oportuno, tomando en cuenta la naturaleza de las mismas y procurando la celeridad en el procedimiento.
 
 ###### ARTICULO 190.
 
 En la audiencia sólo se aceptarán las pruebas ofrecidas previamente, a no ser que se refieran a hechos supervenientes en cuyo caso se dará vista a la contraria, o que tengan por objeto probar las tachas contra testigos, o se trate de la confesional, siempre y cuando se ofrezcan antes de cerrarse la audiencia.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 190 BIS.- Para la admisión y desahogo de pruebas se aplicarán las disposiciones contenidas en la Ley Federal del Trabajo, en tanto no contravengan lo dispuesto por la presente Ley.
 
 ###### ARTICULO 191.
 
@@ -1664,6 +1866,30 @@ Cuando el demandado no conteste la demanda dentro del término concedido o si re
 ###### ARTICULO 194.
 
 El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujetarse a reglas fijas para su estimación, y resolverá los asuntos a verdad sabida y buena fe guardada, debiendo expresar en su laudo las consideraciones en que funde su decisión.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 194 BIS.- Las sesiones en donde tenga verificativo la resolución de un asunto de su competencia, se sujetarán a las bases siguientes:
+
+I. Serán públicas, excepto cuando sus integrantes determinen que deban ser secretas por que estimen que se afecta la moral o el orden público;
+
+II. Abierta la sesión pública por el presidente, el secretario general de acuerdos verificará el quórum legal;
+
+III. Enseguida, el magistrado ponente hará una síntesis del asunto a tratar y explicará las consideraciones que fundamentan el proyecto de resolución;
+
+IV. A continuación, los magistrados procederán a analizar y, en su caso, a discutir el proyecto presentado por el magistrado ponente. En su caso, se dará lectura a determinadas constancias cuando así lo requiera alguno de los magistrados;
+
+V. Cuando el presidente de la Sala Superior estime suficientemente discutido el proyecto, lo someterá a votación. El secretario general de acuerdos certificará la votación;
+
+VI. El magistrado que disienta de la mayoría podrá formular observaciones o un voto particular, que se agregará a la resolución sí así lo solicita y lo presenta por escrito dentro de las cuarenta y ocho horas siguientes;
+
+VII. Si el proyecto del magistrado ponente no fuere aprobado, se designará uno de los de la mayoría para que redacte la sentencia de acuerdo con los hechos probados y los fundamentos legales que se hayan tomado en consideración en la discusión, debiendo quedar firmado el engrose dentro de los cinco días siguientes;
+
+VIII. Los asuntos se fallarán en el orden en que se enlisten. Si no pudieren ser despachados en la audiencia todos los asuntos listados, los restantes figurarán en la lista siguiente en primer término, sin perjuicio de que la Sala Superior, en su caso, acuerde que se altere el orden de la lista, que se retire algún asunto, o que se aplace la vista del mismo, cuando exista causa justificada. El aplazamiento no podrá exceder de diez días;
+
+IX. El secretario general de acuerdos levantará el acta de cada sesión que contendrá una síntesis de los asuntos aprobados, y
+
+X. Al día siguiente de la sesión, el secretario general de acuerdos publicará en los estrados la lista de los asuntos resueltos.
 
 ###### ARTICULO 195.
 
@@ -1695,17 +1921,27 @@ El Tribunal sancionará las faltas de respeto que se le cometan, ya sea por escr
 
 El Tribunal de Conciliación y Arbitraje no podrá condenar el pago de costas.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 202.
 
-Los miembros de las Secciones del Tribunal de Conciliación y Arbitraje sólo podrán ser recusados con causa.
+Los magistrados del Tribunal de Conciliación y Arbitraje sólo podrán excusarse o ser recusados con causa.
 
-Son causas de recusación para los miembros del Tribunal de Conciliación y Arbitraje, las que marca la Ley Federal del Trabajo y se calificarán en los términos que la misma Ley laboral señala.
+Son causas de excusa y recusación para los miembros del Tribunal de Conciliación y Arbitraje, las previstas en el Código de Procedimientos Penales de Coahuila y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 202 BIS.- Las resoluciones serán tomadas por unanimidad o mayoría de votos de los magistrados, quienes no podrán abstenerse de votar sino por impedimento, excusa o recusación conforme a la ley de la materia, que previamente calificará la propia Sala Superior. En este caso, el presidente llamará al magistrado supernumerario que corresponda, para que supla la ausencia temporal del magistrado numerario de que se trate.
+
+Las resoluciones definitivas llevarán la firma de los magistrados presentes en la sesión y del secretario general de acuerdos de la Sala Superior. Los acuerdos de trámite y sustanciación llevarán sólo la firma del magistrado instructor y la del secretario general de acuerdos.
+
+Los votos particulares y las observaciones por escrito deberán ser firmadas por el magistrado que los formule y, en su caso, formarán parte de la resolución que corresponda.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 203.
 
-Las resoluciones dictadas por el Tribunal de Conciliación y Arbitraje serán irrecurribles y deberán ser cumplidas, desde luego, por las autoridades correspondientes.
+Las resoluciones dictadas por el Tribunal de Conciliación y Arbitraje serán definitivas e inatacables y deberán ser cumplidas, desde luego, por las autoridades correspondientes.
 
 Pronunciado el laudo, el Tribunal lo notificará a las partes.
 
@@ -1735,11 +1971,11 @@ CORRECCIONES DISCIPLINARIAS Y SANCIONES.
 
 El Tribunal de Conciliación y Arbitraje tiene la obligación de proveer a la eficaz e inmediata ejecución de los laudos y, a ese efecto, dictará todas las medidas necesarias en la forma y términos que su juicio sean procedentes.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 208.
 
-Cuando se pida la ejecución de un laudo, el Tribunal a través de la Sección a la que corresponda el conocimiento del asunto, despachará el auto de ejecución y comisionará a un actuario para que se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución, apercibiéndola de que de no hacerlo, se procederá conforme a lo dispuesto en el capítulo anterior.
+Cuando se pida la ejecución de un laudo, el Tribunal a través de la Sala a la que corresponda el conocimiento del asunto, despachará el auto de ejecución y comisionará a un actuario para que se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución apercibiéndola de que de no hacerlo, se procederá conforme a lo dispuesto en el capítulo anterior.
 
 ###### ARTICULO 209.
 
@@ -1882,3 +2118,17 @@ P.O. 28 DE DICIEMBRE DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
+
+P.O. 11 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Deberán elaborarse las disposiciones reglamentarias relativas al sistema de escalafón o servicio civil de carrera para los trabajadores de base, de base sindicalizados y de confianza.
+
+TERCERO.- Para dar cumplimiento a lo previsto en el presente Decreto, en la Constitución Política del Estado de Coahuila de Zaragoza, así como en la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, deberá quedar instalado formal y materialmente el Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza a partir de enero de 2010, fecha a partir de la cual, dicho órgano judicial recibirá las demandas y asuntos laborales de los trabajadores al servicio del Estado y los municipios que, por su naturaleza, deba conocer.
+
+CUARTO.- Se otorga un plazo de 180 días naturales contados a partir del día siguiente a aquel en que entre en funciones el Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, para que el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y de los Municipios, órgano del Poder Ejecutivo del Estado, para que concluya los trámites, procedimientos y expedientes que tenga pendientes, fecha a partir de la cual quedará formal y materialmente extinto.
+
+QUINTO.- El personal que forma parte del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los poderes del Estado y de los Municipios, quedará a disposición del Ejecutivo del Estado, una vez que se cumpla con lo previsto en el artículo que antecede.
+
+SEXTO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
