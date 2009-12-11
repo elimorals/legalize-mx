@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-planeacion-y-22346"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-05"
-last_updated: "2008-12-19"
+last_updated: "2009-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE PLANEACION Y FINANZAS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 5 de octubre de 2001.
 
@@ -371,11 +371,9 @@ I. Dirección de Ingresos;
 
 II. Dirección de Egresos;
 
-III. Dirección de Contabilidad Gubernamental; y (sic)
+III. Dirección de Contabilidad Gubernamental; y
 
-IV. Dirección de Auditoría Fiscal;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 V. Dirección de Verificación Aduanera.
 
@@ -449,7 +447,11 @@ Para el cumplimiento de sus funciones, éstas contarán con las demás oficinas 
 
 Compete a las Recaudaciones de Rentas del Estado, el ejercicio de las siguientes atribuciones:
 
-I. Recaudar las contribuciones y los demás ingresos que deba percibir el Estado a nombre propio o por cuenta ajena, proveniente del cumplimiento de las leyes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+I. Recaudar las contribuciones y los demás ingresos que deba percibir el Estado a nombre propio o por cuenta ajena, proveniente del cumplimiento de las leyes, en las oficinas de las Recaudaciones de Rentas, a través de las ventanillas de las instituciones de crédito que se establezcan en ellas, de acuerdo con los convenios que para tal efecto se celebren, así como en los demás lugares que autorice la Secretaría de Planeación y Finanzas, con la observancia de las políticas que establezca dicha Secretaria; y en su caso, recaudar directamente los citados ingresos cuando exista la necesidad de ello, lo cual deberá darse a conocer mediante reglas de carácter general;
 
 II. Llevar a cabo en términos de la legislación fiscal el procedimiento administrativo de ejecución;
 
@@ -631,7 +633,7 @@ La Dirección de Auditoría Fiscal contará con los servidores públicos que se 
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
-ARTICULO 25 BIS.- Compete a la Dirección de Verificación Aduanera el ejercicio de las siguientes atribuciones:
+ARTICULO 25 bis.- Compete a la Dirección de Verificación Aduanera el ejercicio de las siguientes atribuciones:
 
 I. Ordenar y practicar visitas domiciliarias para la verificación de vehículos y mercancías de procedencia extranjera a fin de comprobar su legal importación, almacenaje, estancias o tenencias en territorio nacional, de conformidad con la legislación aplicable, y en su caso, el embargo precautorio de las mismas;
 
@@ -673,7 +675,7 @@ XIX. Las demás que le confieren otros ordenamientos legales y administrativos, 
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
-ARTICULO 25 TER.- La Dirección de Verificación Aduanera contara con los servidores públicos que se requieran para el mejor ejercicio de sus atribuciones, los cuales tendrán a su cargo la atención y despacho de los asuntos que expresamente les instruyan el Director.
+ARTICULO 25 ter.- La Dirección de Verificación Aduanera contara con los servidores públicos que se requieran para el mejor ejercicio de sus atribuciones, los cuales tendrán a su cargo la atención y despacho de los asuntos que expresamente les instruyan el Director.
 
 ### CAPITULO VI. DE LA SUBSECRETARIA DE ESTRATEGIAS Y POLITICAS SECTORIALES
 
@@ -1206,3 +1208,9 @@ P.O. 19 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará envigar al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las facultades a que se refiere el artículo 25 bis que se adiciona, serán ejercidas en los mismos términos de dicho artículo por el Director de Ingresos del Estado, hasta en tanto sea nombrado el Director de Verificación Aduanera.
+
+P.O. 11 DE DICIEMBRE DE 2009.
+
+PRIMERO.- La presente reforma entrará en vigor el día 04 de enero de 2010, con las salvedades que se establecen en el artículo siguiente.
+
+SEGUNDO.- A fin de salvaguardar la eficiencia en la prestación de servicio a la ciudadanía, la aplicación de la presente reforma se realizará de manera progresiva, para lo cual, la misma deberá iniciar en la fecha señalada en el Artículo Transitorio anterior, en las oficinas de la Subrecaudación Auxiliar de Rentas para el Canje de Placas, .de la ciudad de Mexicali, y en la Subrecaudación Auxiliar de Rentas para el Canje de Placas en Vía Rápida, de la ciudad de Tijuana.
