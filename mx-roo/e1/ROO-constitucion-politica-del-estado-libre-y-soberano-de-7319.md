@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2009-11-06"
+last_updated: "2009-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -629,7 +629,7 @@ La calidad de ciudadano quintanarroense se pierde por sentencia ejecutoria, dict
 
 El territorio del Estado de Quintana Roo, comprende:
 
-I.- La porción oriental de la Península de Yucatán, limitada por una línea divisoria que partiendo de la costa norte del Canal de Yucatán, sigue el meridiano 87 grados, 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paraleleo que pasa por la torre sur de Chemax veinte kilómetros al oriente de este punto, llega después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche -cerca de Put- que se localiza en el meridiano 19 grados, 39 minutos, 07 segundos de latitud norte y 89 grados, 24 minutos, 52 segundos de longitud oeste de Greenwich y desciende al sur hasta el paralelo límite de las República (sic) de México y Guatemala, y
+I.- La porción oriental de la Península de Yucatán, limitada por una línea divisoria que partiendo de la costa norte del Canal de Yucatán, sigue el meridiano 87 grados, 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paraleleo (sic) que pasa por la torre sur de Chemax veinte kilómetros al oriente de este punto, llega después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche -cerca de Put- que se localiza en el meridiano 19 grados, 39 minutos, 07 segundos de latitud norte y 89 grados, 24 minutos, 52 segundos de longitud oeste de Greenwich y desciende al sur hasta el paralelo límite de las República (sic) de México y Guatemala, y
 
 II.- Las islas de: Cozumel, Cancún, Mujeres, Blanca y Contoy, situadas en el Mar Caribe y la de Holbox en el Golfo de México, así como las islas, islotes, cayos y arrecifes adyacentes a su litoral.
 
@@ -673,7 +673,9 @@ II.- La preparación, organización, desarrollo y vigilancia de los procesos par
 
 El Instituto Electoral de Quintana Roo, tendrá a su cargo en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos, prerrogativas y fiscalización del financiamiento a las agrupaciones políticas estatales y partidos políticos, impresión de material y documentación electorales, preparación de la jornada electoral, cómputos, la calificación de las elecciones y entrega de las constancias de mayoría o asignación respectivas en los términos que señale la Ley, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. El Instituto Electoral de Quintana Roo, por acuerdo de las dos terceras partes de los integrantes de su Consejo General, podrá convenir con el Instituto Federal Electoral que éste se haga cargo de las elecciones locales. Asimismo, el Instituto Electoral de Quintana Roo, deberá coordinarse con la autoridad administrativa electoral federal para la fiscalización de las finanzas de los partidos políticos, en términos del penúltimo párrafo de la Base V del Artículo 41 de la Constitución Federal, y de conformidad a las bases obligatorias que se prevengan en la Ley. De igual forma, el Instituto Electoral de Quintana Roo podrá suscribir convenios con autoridades municipales, estatales y federales, que tengan el propósito de coadyuvar con éste en la función estatal encomendada.
 
-De igual forma, el Instituto Electoral de Quintana Roo, podrá coadyuvar en la organización de las elecciones para elegir a los integrantes de las Alcaldías, Delegaciones y Subdelegaciones Municipales, en los términos que señale la Ley de los Municipios.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+De igual forma, el Instituto Electoral de Quintana Roo, podrá coadyuvar en la organización de las elecciones para elegir a los integrantes de las Alcaldías, Delegaciones y Subdelegaciones Municipales, en los términos que señale la ley de los Municipios, así también, el Instituto deberá regular y vigilar los debates públicos que se celebren durante los procesos electorales y que no sean organizados por éste, de conformidad con lo dispuesto en la Ley.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -3239,11 +3241,15 @@ DECRETO NO. 100, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA CON
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo, observándose las previsiones contenidas en los artículos siguientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Por esta única ocasión, el proceso electoral ordinario para renovar al actual titular del Poder Ejecutivo, a los Diputados a la Legislatura que se encuentran en funciones, así como de los integrantes de los Ayuntamientos que están desempeñando el cargo, iniciará el primero de octubre del año 2010.
+El proceso electoral ordinario para renovar al actual Titular del Poder Ejecutivo, a los Diputados de la Legislatura que se encuentran en funciones, así como de los integrantes de los Ayuntamientos que están desempeñando el cargo, iniciará el 16 de marzo del año 2010.
 
-La Jornada Electoral tendrá verificativo el primer domingo de febrero del año 2011 y quienes resulten electos tomarán posesión de la siguiente forma:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+La jornada electoral tendrá verificativo el primer domingo de julio del año 2010, y quienes resulten electos tomarán posesión de la siguiente forma:
 
 a).- Los Diputados a la Legislatura el día 24 de Marzo del año 2011 y estarán en funciones hasta que se instale la siguiente Legislatura, que lo hará el 14 de septiembre del año 2013;
 
@@ -3255,7 +3261,9 @@ c).- Los Miembros de los Ayuntamientos, el día 10 de Abril del año 2011 y esta
 
 El cuarto, quinto y sexto informes, que sobre el estado que guarda la Administración Pública de la Entidad, debe rendir el actual Gobernador del Estado de Quintana Roo, por excepción, los realizará el 26 de marzo de los años 2009, 2010 y 2011, respectivamente, en la apertura del periodo que corresponda a la Legislatura.
 
-El Gobernador del Estado de Quintana Roo que resulte electo en el año 2011, rendirá su primer informe, que sobre el estado que guarda la Administración Pública de la Entidad, el día 17 de Septiembre de 2012.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+El Gobernador del Estado de Quintana Roo que resulte electo el primer domingo de julio del año 2010, rendirá su primer informe, sobre el estado que guarda la administración pública de la entidad, el día 17 de septiembre de 2012.
 
 ###### ARTÍCULO CUARTO.
 
@@ -3308,3 +3316,17 @@ P.O. 15 DE MAYO DE 2009.
 P.O. 6 DE NOVIEMBRE DE 2009.
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 11 DE DICIEMBRE DE 2009.
+
+DECRETO NO. 197, POR EL QUE SE REFORMA EL PARRAFO TERCERO DE LA FRACCION II DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 11 DE DICIEMBRE DE 2009.
+
+DECRETO NO. 198, POR EL QUE SE REFORMAN LOS ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO NO. 100 QUE MODIFICO LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
