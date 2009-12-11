@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2009-10-23"
+last_updated: "2009-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -105,11 +105,13 @@ Servirá de base para el pago de este impuesto, los ingresos que se generen por 
 
 OBLIGACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 7.
 
-Los sujetos de este impuesto están obligados a recabar, cuando menos con tres días de anticipación a la celebración del acto, la autorización de la Secretaria de Finanzas, debiendo presentar solicitud que contendrá, cuando menos los siguientes requisitos:
+Los sujetos de este impuesto están obligados a recabar, cuando menos con tres días de anticipación a la celebración del acto, la autorización de las autoridades fiscales, debiendo presentar solicitud que contendrá, cuando menos, los siguientes requisitos:
 
 I.- Nombre y domicilio de quien promueva, organice o explote la diversión o espectáculo público para el cual se solicita autorización;
 
@@ -123,7 +125,11 @@ IV.- Hora señalada para que principien las funciones; y
 
 V.- Número de localidades de cada clase que haya en el local destinado al espectáculo y su precio al público; así como el número de cortesías, debidamente marcadas como tales, que serán entregadas para cada función.
 
-Cualquier modificación a los datos comprendidos en las fracciones precedentes, deberá comunicarse por escrito a la Secretaría de Finanzas, dentro de los tres días hábiles anteriores a la fecha en que vaya a realizarse la actividad objeto de este impuesto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Cualquier modificación a los datos comprendidos en las fracciones precedentes, deberá comunicarse por escrito a las autoridades fiscales, dentro de los tres días hábiles anteriores a la fecha en que vaya a realizarse la actividad objeto de este impuesto.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -133,11 +139,19 @@ No se pagará el impuesto por los boletos de entrada que no tengan precio al pú
 
 Una vez concedida la autorización, los sujetos de este impuesto tienen las obligaciones siguientes:
 
-I.- Presentar a la Secretaría de Finanzas, la emisión total de los boletos de entrada, cuando menos un día antes al de la realización de la actividad autorizada, a fin de que se autoricen con el sello respectivo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+I.- Presentar a las autoridades fiscales, la emisión total de los boletos de entrada, cuando menos un día antes al de la realización de la actividad autorizada, a fin de que se autoricen con el sello respectivo;
 
 II.- Entregar a la misma dependencia, por duplicado y dentro del mismo término, los programas del espectáculo;
 
-III.- No variar los programas y precios dados a conocer sin que se dé aviso a la Secretaría de Finanzas y se recabe nueva autorización antes de la realización de la actividad; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+III.- No variar los programas y precios dados a conocer sin que se dé aviso a las autoridades fiscales y se recabe nueva autorización antes de la realización de la actividad; y
 
 IV.- Garantizar el interés fiscal.
 
@@ -193,13 +207,21 @@ d) Palenques 6%
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 12.
 
-El impuesto a que se refiere este Capítulo se pagará en las oficinas recaudadoras de rentas de la Secretaria de Finanzas o en las instituciones de crédito o establecimientos autorizados.
+El impuesto a que se refiere este Capítulo se pagará en las Instituciones de Crédito o establecimientos autorizados.
 
-En la fecha en que se realice el evento, el interventor autorizado podrá recabar el pago correspondiente al impuesto y expedir un recibo provisional válido con el cual el organizador podrá exigir a contra-entrega del mismo el recibo oficial del pago del impuesto en las oficinas recaudadoras de rentas de la Secretaria de Finanzas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+En la fecha en que se realice el evento, el interventor autorizado podrá recabar el pago correspondiente al impuesto y expedir un recibo provisional válido con el cual el organizador podrá exigir a contra-entrega del mismo el recibo oficial del pago del impuesto en los establecimientos autorizados.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 Cuando no se realice el pago conforme a lo establecido en el presente articulo, la autoridad fiscal procederá a hacerlo efectivo mediante el Procedimiento Administrativo de Ejecución, o en su caso, aplicar la garantía otorgada por el contribuyente.
 
@@ -233,9 +255,13 @@ II.- Las personas comisionistas o físicas y morales propietarios de agencias, l
 
 BASE
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 16.
 
-Es base de este impuesto, el valor que resulte mayor entre el precio consignado en la operación y el que se encuentre señalado en los tabuladores oficiales de valores mínimos de la Secretaría de Finanzas, o de la Secretaría de Hacienda y Crédito Público, cuando sean modelos anteriores al año en curso.
+Es base de este impuesto, el valor que resulte mayor entre el precio consignado en la operación y el que se encuentre señalado en los tabuladores oficiales de valores mínimos de las autoridades fiscales, o de la Secretaría de Hacienda y Crédito Público, cuando sean modelos anteriores al año en curso.
 
 Para modelos del año en curso, será base del impuesto, el 100% del importe de la primera facturación.
 
@@ -251,15 +277,21 @@ La tasa correspondiente al Impuesto Sobre Enajenación de Vehículos de Motor, s
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 18.
 
-El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, dentro de los quince días siguientes a la celebración de la operación, aplicando la tasa que establezca esta ley.
+El pago de este impuesto deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, dentro de los quince días siguientes a la celebración de la operación, aplicando la tasa que establezca esta ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 19.
 
-Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar a la Secretaría de Finanzas, o en las instituciones de crédito autorizadas, una manifestación en las formas oficialmente aprobadas, que contenga los datos del vehículo y documentos relativos a la operación.
+Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar a las autoridades fiscales, o en las instituciones de crédito autorizadas, una manifestación en las formas oficialmente aprobadas, que contenga los datos del vehículo y documentos relativos a la operación.
 
 ###### ARTICULO 20.
 
@@ -282,6 +314,102 @@ I.- Los rendimientos, anticipos, excedentes, fondos de reserva, previsión socia
 II.- Los honorarios o percepciones de cualquier índole a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole, así como los honorarios a administradores, comisarios y gerentes generales, durante la vigencia de su administración.
 
 III.- Los honorarios a personas que presten servicios preponderantemente a un prestatario, siempre que los mismos se lleven a cabo en las instalaciones de este último.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+IV.- Pagos de premios, primas, bonos, estímulos e incentivos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+V.- Pagos de compensaciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+VI.- Pagos de gratificaciones y aguinaldos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+VII.- Pagos de tiempo extraordinario de trabajo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Pagos de participación patronal al fondo de ahorros.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+IX.- Pagos de primas de antigüedad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+X.- Pagos de participación de los trabajadores en las utilidades.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+XI.- Pagos de comisiones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+XII.- Pagos de servicios de comedor y comida a los trabajadores.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+XIII.- Pagos de vales de despensa.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+XIV.- Pagos de servicio de transporte.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+XV.- Pagos de primas de seguros por gastos médicos o de vida.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+XVI.- Indemnizaciones por rescisión o terminación de las relaciones de trabajo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+XVII.- Indemnización por riesgos de trabajo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+XVIII.- Premios por asistencia y puntualidad hasta el 10% de su salario base.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+XIX.- Aportaciones al Instituto del Fondo Nacional de la Vivienda para los trabajadores y al Instituto Mexicano del Seguro Social.
 
 SUJETO
 
@@ -309,11 +437,13 @@ La tasa correspondiente al Impuesto Sobre Nóminas, será el 1% sobre el monto t
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 25.
 
-El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se hubieren realizado las erogaciones objeto del mismo, en las formas aprobadas por la Secretaría de Finanzas.
+El pago de este impuesto deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se hubieren realizado las erogaciones objeto del mismo, en las formas aprobadas por las Autoridades Fiscales.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -373,29 +503,37 @@ Están exentas del pago de este impuesto:
 
 I.- Las erogaciones que se cubran por concepto de:
 
-1. Indemnizaciones derivadas de la rescisión o terminación de las relaciones de trabajo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-2. Indemnizaciones por riesgos de trabajo, que se concedan de acuerdo a las leyes o contratos respectivos;
+1. (DEROGADO, P.O. 11 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+2. (DEROGADO, P.O. 11 DE DICIEMBRE DE 2009)
 
 3. Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía o muerte;
 
 4. Los instrumentos de trabajo, tales como herramientas, ropa y otros similares;
 
-5. El ahorro, cuando se integre por un depósito de cantidad semanaria o mensual igual del trabajador y de la empresa; y las cantidades otorgadas por el patrón para fines sociales o sindicales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y al Instituto Mexicano del Seguro Social;
+5. (DEROGADO, P.O. 11 DE DICIEMBRE DE 2009)
 
-6. Las participaciones de los trabajadores en las utilidades de las empresas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-7. Los premios por asistencia;
+6. (DEROGADO, P.O. 11 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-8. Los premios por asistencia y puntualidad, siempre que el importe de cada uno de los conceptos no rebase el diez por ciento del salario base;
+7. (DEROGADO, P.O. 11 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-9. Los pagos por tiempo extraordinario, cuando no rebase las tres horas diarias ni tres veces por semana de trabajo, ni cuando este tipo de servicios esté pactado en forma de tiempo fijo;
+8. (DEROGADO, P.O. 11 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+9. (DEROGADO, P.O. 11 DE DICIEMBRE DE 2009)
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
@@ -475,17 +613,11 @@ IV.- Los funcionarios o empleados públicos que en ejercicio de sus funciones, a
 
 Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 35.
 
-Son responsables solidarios del pago del Impuesto:
-
-I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso de los vehículos gravados por este impuesto;
-
-II.- Quienes reciban en consignación o comisión para su enajenación, los vehículos a que se refiere este artículo; y
-
-III.- Los funcionarios o empleados públicos que en ejercicio de sus funciones, autoricen la expedición de placas, tarjeta de circulación o calcomanía, sin cerciorarse del pago del impuesto.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2009)
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -523,9 +655,13 @@ PAGO
 
 El pago de este impuesto deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, dentro de los tres primeros meses de cada año, en el mismo recibo con el que se paguen las contribuciones de control vehicular.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 38.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1999)
+El pago de este impuesto deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, dentro de los tres primeros meses de cada año, en el mismo recibo con el que se paguen las contribuciones de Control Vehicular.
 
 ###### ARTICULO 39.
 
@@ -653,13 +789,19 @@ Los contribuyentes trasladarán en forma expresa y por separado el impuesto a la
 
 Se entenderá por traslado del impuesto el cobro o cargo que los contribuyentes deben hacer a dichas personas por un monto equivalente al impuesto establecido en este Capítulo.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 60.
 
-El impuesto se calculará por mes de calendario y su pago deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, instituciones de crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se obtengan los ingresos por los servicios gravados por este impuesto, en las formas aprobadas por la Secretaría de Finanzas.
+El impuesto se calculará por mes de calendario y su pago deberá efectuarse en las instituciones de crédito o establecimientos autorizados, mediante declaración mensual que deberá presentarse dentro de los primeros diecisiete días naturales del mes siguiente a aquél en que se obtengan los ingresos por los servicios gravados por este impuesto, en las formas aprobadas por las Autoridades Fiscales.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 Si el contribuyente tuviera varios establecimientos en el territorio de Coahuila, presentará por todos ellos una sola declaración de pago en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente, si éste estuviera dentro del territorio de Coahuila o en el principal establecimiento dentro del territorio del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 Los contribuyentes que tengan varios establecimientos deberán conservar, en cada uno de ellos, copia de las declaraciones de pago, así como proporcionar copia de las mismas a las autoridades fiscales de las entidades federativas donde se encuentren ubicados esos establecimientos, cuando así lo requieran.
 
@@ -763,7 +905,11 @@ BASE
 
 Es base gravable de este impuesto, el valor o avalúo de los premios derivados de loterías, rifas, sorteos, juegos con apuestas permitidas y concursos de toda clase.
 
-Cuando los premios sean en especie y no se exprese su valor o cuando el valor expresado sea inferior al que tenga en el mercado el bien que se entrega como premio, éstos serán valuados por perito que será designado por la Secretaría de Finanzas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Cuando los premios sean en especie y no se exprese su valor o cuando el valor expresado sea inferior al que tenga en el mercado el bien que se entrega como premio, éstos serán valuados por perito que será designado por las autoridades fiscales.
 
 El impuesto que resulte a cargo de quienes reciban premios, deberá ser retenido por las personas que realicen el pago de éstos. Esta retención deberá realizarse aún cuando el retenedor resida en otra entidad federativa.
 
@@ -781,11 +927,13 @@ Los contribuyentes de este impuesto, podrán pagar el mismo mediante una cuota f
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 77.
 
-El pago de este impuesto deberá efectuarse por el retenedor en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, dentro de los diecisiete días naturales del mes siguiente a aquél en el cual se haga entrega del premio.
+El pago de este impuesto deberá efectuarse por el retenedor en las instituciones de crédito o establecimientos autorizados, dentro de los diecisiete días naturales del mes siguiente a aquél en el cual se haga entrega del premio.
 
 OBLIGACIONES
 
@@ -919,11 +1067,13 @@ XVII.- La inscripción de declaración unilateral de voluntad en que se contenga
 
 XVIII.- Por otros no especificados, $181.00 (CIENTO OCHENTA Y UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 80.
 
-El pago de estos derechos deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta ley, previamente a la prestación del servicio.
+El pago de estos derechos deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta Ley, previamente a la prestación del servicio.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 44], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1021,11 +1171,13 @@ IX.- La cancelación de inscripciones relativas al comercio causará el 10% de l
 
 En caso de que no se conozca el importe de los derechos pagados para su inscripción, se causará el 10% de los que corresponderían por su inscripción.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 83.
 
-El pago de estos derechos deberá efectuarse en las oficinas recaudadoras de rentas la (sic) Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta ley, previamente a la prestación del servicio.
+El pago de estos derechos deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta Ley, previamente a la prestación del servicio.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 47], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1111,11 +1263,13 @@ XII.- Búsqueda de actas en el Registro Civil, $50.00 (CINCUENTA PESOS 00/100 M.
 
 XIII.- Por otros servicios no especificados, $101.00 (CIENTO UN PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 86.
 
-El pago de los derechos por los servicios prestados por la Dirección Estatal y las oficialías del Registro Civil a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos por los servicios prestados por la Dirección Estatal y las oficialías del Registro Civil a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 #### SECCION TERCERA. POR OTROS SERVICIOS
 
@@ -1247,11 +1401,13 @@ Son sujetos de este derecho, las personas que soliciten los servicios que se est
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 89.
 
-El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de rentas la (sic) Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 #### SECCION CUARTA. POR SERVICIOS QUE PRESTA LA SECRETARIA DE GOBIERNO A TRAVES DEL ORGANISMO DESCONCENTRADO DENOMINADO PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO
 
@@ -1327,11 +1483,13 @@ El pago de las cuotas establecidas en la fracción V, darán derecho a que el co
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 91.
 
-El pago de los derechos por los servicios a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos por los servicios a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 ### CAPITULO SEGUNDO. POR SERVICIOS DE LA SECRETARIA DE FINANZAS
 
@@ -1525,7 +1683,9 @@ Se entenderá por giro de miscelánea, la compraventa al público en general, de
 
 Las personas físicas y morales con establecimientos temporales que con motivo de festividades regionales, ferias, verbenas, espectáculos públicos, y eventos recreativos de naturaleza análoga, se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyan el expendio de dichas bebidas, total o parcialmente con el público en general, deberán obtener el permiso del Estado.
 
-Para el otorgamiento del permiso, deberá hacerse una solicitud en la oficina recaudadora de rentas que corresponda, cumpliendo los requisitos que al efecto señale la autoridad estatal, acompañado del permiso temporal otorgado por el municipio en original y copia para su cotejo.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Para el otorgamiento del permiso, deberá hacerse una solicitud ante las Autoridades Fiscales, cumpliendo los requisitos que al efecto señale la autoridad estatal, acompañado del permiso temporal otorgado por el municipio en original y copia para su cotejo.
 
 El costo del permiso será del doce por ciento de la tarifa normal de la licencia que corresponda según el giro del establecimiento que se pretende instalar. El permiso se expedirá en un plazo no menor de cinco días hábiles, previa presentación del recibo de pago y en forma individual por cada local.
 
@@ -1649,21 +1809,163 @@ Las tarifas establecidas en los artículos 104, 105, 107 y 108, se reducirán en
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 111.
 
-El pago de este derecho deberá realizarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, dentro de los tres primeros meses de cada ejercicio fiscal y previamente a la expedición de la licencia de funcionamiento y refrendo anual, en su caso.
+El pago de este derecho deberá realizarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la expedición de la licencia de funcionamiento y revalidación anual, en su caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION CUARTA BIS. POR LOS SERVICIOS RELATIVOS A CONTROL VEHICULAR
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 111-A.
+
+Los servicios relativos a control vehicular causarán derechos conforme a la siguiente:
+
+TARIFA
+
+I.- Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual:
+
+1. Automóviles, camiones y camionetas:
+
+a) Hasta de 10 años de fabricación anteriores al ejercicio fiscal en curso, $806.00 (OCHOCIENTOS SEIS PESOS 00/100 M.N.).
+
+b) De más de 10 años y hasta 20 años de fabricación anteriores al ejercicio fiscal en curso, $615.00 (SEISCIENTOS QUINCE PESOS 00/100 M.N.).
+
+c) De más de 20 años de fabricación anteriores al ejercicio fiscal en curso, $426.00 (CUATROCIENTOS VEINTISEIS PESOS 00/100 M.N.).
+
+d) Los vehículos de carga de tres o más toneladas, omnibuses y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme a los subincisos anteriores, deberán pagar la cantidad de $651.00 (SEISCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
+
+Los ingresos que se generen conforme al párrafo anterior, deberán destinarse al pago de programas de rehabilitación y mejoramiento de las vías de comunicación.
+
+2. Para demostración, $997.00 (NOVECIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.)
+
+II.- Expedición de juego de placas para demostración de vehículos $1,921.00 (MIL NOVECIENTOS VEINTIUN PESOS 00/100 M.N.);
+
+III.- Expedición de tarjeta de circulación para remolques accionados por vehículos de tracción mecánica; $615.00 (SEISCIENTOS QUINCE PESOS 00/100 M.N.);
+
+IV.- Expedición de placa y tarjeta de circulación con vigencia anual para motocicleta, $192.00 (CIENTO NOVENTA Y DOS PESOS 00/100 M.N.);
+
+V.- Expedición de placa para bicicleta, $58.00 (CINCUENTA Y OCHO PESOS 00/100 M.N.);
+
+VI.- Dotación de placas metálicas con número identificatorio para los vehículos siguientes:
+
+1. Automóviles, camiones y camionetas, $552.00 (QUINIENTOS CINCUENTA Y DOS PESOS 00/100 M.N.);
+
+2. Vehículos de servicio público, $632.00 (SEISCIENTOS TREINTA Y DOS PESOS 00/100 M.N.); y
+
+3. Remolques $307.00 (TRESCIENTOS SIETE PESOS 00/100 M.N.).
+
+En el caso de que el contribuyente adquiera placas metálicas con número identificatorio, además deberá pagar los derechos por la expedición de la tarjeta de circulación y la calcomanía con número identificatorio.
+
+VII.- Por la obtención de un número de placas específico (sujeto a disponibilidad) $2,720.00 (DOS MIL SETECIENTOS VEINTE PESOS 00/100 M.N.).
+
+VIII.- Expedición de permisos por quince días para circular sin placas, $222.00 (DOSCIENTOS VEINTIDOS PESOS 00/100 M.N.);
+
+IX.- Reposición o cambio de tarjeta de circulación, $290.00 (DOSCIENTOS NOVENTA PESOS 00/100 M.N.);
+
+X.- Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $145.00 (CIENTO CUARENTA Y CINCO PESOS 00/100 M.N.); y
+
+XI.- La baja de placas del Estado y de otros Estados $0.00.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+OBLIGACIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 111-B.
+
+El propietario de un vehículo deberá dar aviso si se llevase a cabo la enajenación de éste o fuese motivo de baja en la circulación.
+
+Los avisos a que se refiere este artículo deberán presentarse dentro de los quince días siguientes al en que se realice la operación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 111-C.
+
+El solicitante del servicio de control vehicular y el adquirente de placas y tarjeta de circulación, deberán dar aviso de cuantos cambios de domicilio lleve a cabo que alteren el registro vehicular.
+
+Los avisos a que se refiere este artículo, deberán presentarse dentro de los quince días siguientes al en que se realice la operación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+PAGO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 111-D.
+
+El pago de estos derechos deberá hacerse en las Instituciones de Crédito o establecimientos autorizados, conforme a las tarifas que establece esta ley.
+
+La adquisición de placas, tarjeta de circulación y engomado con número identificatorio, deberá realizarse dentro de los primeros tres meses del año siguiente al en que venza su vigencia. Las personas físicas o morales que adquieran vehículos nuevos o usados que no cuenten con placas, deberán hacerlo dentro de los quince días siguientes a la fecha de adquisición.
+
+El refrendo anual correspondiente a las placas metálicas, deberá pagarse dentro de los primeros tres meses de cada año.
+
+Los demás derechos regulados en esta Sección, se pagarán en el momento en que se soliciten.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 111-E.
+
+Los documentos relativos a los servicios de control vehicular serán entregados a los contribuyentes por las autoridades fiscales previo pago de las contribuciones correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 111-F.
+
+La falta de pago oportuno de los derechos a que se refiere la presente Sección, causarán recargos conforme a la tasa que establezca la Ley de Ingresos del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 111-G.
+
+Los vehículos, cuyos propietarios no cumplan dentro del plazo establecido en este Capítulo con sus obligaciones fiscales de control vehicular, y por consecuencia no cuenten con tarjeta de circulación vigente, amparada con el engomado correspondiente, serán sujetos a los procedimientos económicos coactivos previstos en la legislación aplicable en el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 111-H.
+
+Las autoridades fiscales, en cumplimiento a lo señalado en el artículo que antecede, podrán embargar precautoriamente los vehículos que no cuenten con la tarjeta de circulación actualizada por el engomado correspondiente, cuando se incumplan las obligaciones fiscales de control vehicular en dos ejercicios fiscales consecutivos, siguiendo para ellos los procedimientos legales correspondientes.
+
+Si el contribuyente, en la diligencia de embargo, se niega a ser depositario del vehículo con todas las obligaciones inherentes a la depositaría judicial que contemple el Código de Procedimientos Civiles, o durante la diligencia omite o se niega a manifestar su aceptación de la referida depositaría, no obstante ser informado de ese derecho, el vehículo quedará bajo la depositaría de la autoridad fiscal, en el lugar que ésta designe para su guarda, corriendo el contribuyente con los gastos que se originen por este concepto.
+
+En los supuestos del párrafo anterior, si es necesario, la autoridad fiscal podrá requerir el auxilio de la fuerza pública para el traslado del vehículo al lugar designado por aquélla.
+
+Si antes de que se agote el procedimiento económico-coactivo, el contribuyente cumple con el pago de los derechos a que se refiere esta Sección y los recargos correspondientes o conviene con las autoridades fiscales el cumplimiento de su adeudo, se levantará el embargo en que se hubiere practicado sobre su vehículo.
 
 (REUBICADA [N. DE E. ANTES SECCION SEGUNDA], P.O. 29 DE DICIEMBRE DE 1998)
 
 #### SECCION QUINTA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
-
-#### SECCION PRIMERA. POR SERVICIOS DE CONTROL VEHICULAR
-
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 112.
 
@@ -1687,11 +1989,13 @@ III.- Servicios periciales contables, $75.00 (SETENTA Y CINCO PESOS 00/100 M.N.)
 
 IV.- Por constancias del padrón vehicular, $116.00 (CIENTO DIECISEIS PESOS 00/100 M.N.), por la primera hoja; $34.00 (TREINTA Y CUATRO PESOS 00/100 M.N.) por hoja adicional.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 113.
 
-El pago de los derechos a que se refiere esta Sección deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos a que se refiere esta Sección deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 ### CAPITULO TERCERO. POR SERVICIOS DE LA SECRETARIA DE DESARROLLO SOCIAL
 
@@ -1811,11 +2115,13 @@ Son solidariamente responsables del pago de este derecho los constructores y con
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 116.
 
-El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 EXENCIONES
 
@@ -1831,9 +2137,11 @@ No se causará este derecho cuando los servicios que se presten tengan por objet
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-#### SECCION SEGUNDA. POR OTROS SERVICIOS
+#### SECCION PRIMERA. POR SERVICIOS DE CONTROL VEHICULAR
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 26 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 118.
 
@@ -1841,47 +2149,27 @@ Los servicios que presta la Secretaría Obras Públicas y Transporte, relativos 
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 I.- Expedición de tarjetas de circulación y calcomanía con número identificatorio o refrendo anual:
 
-1.- Automóviles, camiones y camionetas:
+1.- Vehículos de servicio público, $997.00 (NOVECIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.).
 
-(ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
+2.- Remolque de servicio público, $568.00 (QUINIENTOS SESENTA Y OCHO PESOS 00/100 M.N.)
 
-a).- Hasta de 10 años de fabricación anteriores al ejercicio fiscal en curso, $652.00 (SEISCIENTOS CINCUENTA Y DOS PESOS 00/100 M.N.).
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-b).- De más de 10 años y hasta 20 años de fabricación anteriores al ejercicio fiscal en curso, $497.00 (CUATROCIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.).
+II.- Tarjetón de indentificación del servicio público de transporte, $260.00 (DOSCIENTOS SESENTA PESOS 00/100 M.N.);
 
-(ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c).- De más de 20 años de fabricación anteriores al ejercicio fiscal en curso, $345.00 (TRESCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
-
-d) Los vehículos con capacidad de carga de tres o más toneladas, omnibuses y tractores no agrícolas tipo quinta rueda, además de la cuota que les corresponde conforme a los subincisos anteriores, deberán pagar la cantidad de $543.00 (QUINIENTOS CUARENTA Y TRES PESOS 00/100 M.N.) con el refrendo anual, a excepción de los vehículos que presten el servicio público de pasajeros o carga, mediante concesión otorgada por las autoridades estatales o municipales.
-
-(ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
-
-2.- Vehículos de servicio público, $807.00 (OCHOCIENTOS SIETE PESOS 00/100 M.N.)
-
-(ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
-
-3.- Remolque de servicio público, $460.00 (CUATROCIENTOS SESENTA PESOS 00/100 M.N.).
-
-(ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
-
-4.- Para demostración, $807.00 (OCHOCIENTOS SIETE PESOS 00/100 M.N.).
-
-(ACTUALIZADA EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
-
-II.- Expedición de juego de placas para demostración de vehículos $1,554.00 (MIL QUINIENTOS CINCUENTA Y CUATRO PESOS 00/100 M.N.);
-
-(ACTUALIZADA EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
-
-III.- Expedición de tarjeta de circulación para remolques accionados por vehículos de tracción mecánica; $497.00 (CUATROCIENTOS NOVENTA Y SIETE PESOS 00/100 M.N.);
+III.- Expedición de constancia o certificación de documentos relativos a derechos de control vehícular, $143.00 (CIENTO CUARENTA Y TRES PESOS, 00/100 M.N.); y (sic)
 
 (ACTUALIZADA EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
 
@@ -1977,11 +2265,13 @@ Los avisos a que se refiere este artículo, deberán presentarse dentro de los q
 
 PAGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 121.
 
-El pago de estos derechos deberá hacerse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, conforme a las tarifas que establece esta ley.
+El pago de estos derechos deberá hacerse en las Instituciones de Crédito o establecimientos autorizados, conforme a las tarifas que establece esta ley.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1995,11 +2285,13 @@ El refrendo anual correspondiente a las placas metálicas, deberá pagarse dentr
 
 Los demás derechos regulados en esta Sección, se pagarán en el momento en que se soliciten.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 82], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 122.
 
-Los documentos relativos a los servicios de control vehicular serán entregados a los contribuyentes por la Secretaría de Finanzas previo pago de las contribuciones correspondientes.
+Los documentos relativos a los servicios de control vehicular serán entregados a los contribuyentes por las autoridades fiscales previo pago de las contribuciones correspondientes.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 83], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2013,17 +2305,29 @@ La falta de pago oportuno de los derechos a que se refieren las fracciones I, II
 
 Los vehículos, cuyos propietarios no cumplan dentro del plazo establecido en este Capítulo, con sus obligaciones fiscales de control vehicular, y por consecuencia no cuenten con tarjeta de circulación vigente, amparada con el engomado correspondiente, serán sujetos a los procedimientos económicos coactivos previstos en la legislación aplicable en el Estado.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 125.
 
-Las autoridades fiscales, en cumplimiento a lo señalado en el artículo que antecede, podrán embargar precautoriamente los vehículos que no cuenten con la tarjeta de circulación actualizada por el engomado correspondiente, cuando se incumplan las obligaciones fiscales de control vehicular en dos ejercicios fiscales consecutivos, siguiendo para ello los procedimientos legales correspondientes.
+Las autoridades fiscales, en cumplimiento a lo señalado en el artículo que antecede, podrán embargar precautoriamente los vehículos que no cuenten con la tarjeta de circulación actualizada por el engomado correspondiente, cuando se incumplan las obligaciones fiscales de control vehicular en dos ejercicios fiscales consecutivos, siguiendo para ellos los procedimientos legales correspondientes.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
 
 Si el contribuyente, en la diligencia de embargo, se niega a ser depositario del vehículo con todas las obligaciones inherentes a la depositaría judicial que contemple el Código de Procedimientos Civiles, o durante la diligencia omite o se niega a manifestar su aceptación de la referida depositaria, no obstante ser informado de ese derecho, el vehículo quedará bajo la depositaria de la autoridad fiscal, en el lugar que ésta designe para su guarda, corriendo el contribuyente con los gastos que se originen por este concepto.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+
 En los supuestos del párrafo anterior, si es necesario, la autoridad fiscal podrá requerir el auxilio de la fuerza pública para el traslado del vehículo al lugar designado por aquélla.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+
 Si antes de que se agote el procedimiento económico-coactivo, el contribuyente cumple con el pago de los derechos a que se refiere esta Sección y los recargos correspondientes, o conviene con las autoridades fiscales el cumplimiento de su adeudo, se levantará el embargo que se hubiere practicado sobre su vehículo.
+
+#### SECCION SEGUNDA. POR OTROS SERVICIOS
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 26 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 126.
 
@@ -2197,11 +2501,13 @@ Son sujetos de este derecho, las personas físicas o morales que soliciten los s
 
 Son solidariamente responsables del pago de este derecho los constructores y contratistas que realicen obras relativas al objeto de este derecho.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 128.
 
-El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos a que se refiere esta Sección, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -2331,11 +2637,13 @@ Son sujetos de este derecho, las personas que soliciten los servicios que se est
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 131.
 
-El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
@@ -2375,11 +2683,13 @@ Son sujetos de estos derechos, las personas físicas o morales que soliciten los
 
 PAGO
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 131-C.
 
-El pago de los derechos a que se refiere este capítulo deberán efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos a que se refiere este capítulo deberán efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -2425,15 +2735,15 @@ Son sujetos de este derecho, las personas que soliciten los servicios que establ
 
 PAGO
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 95], P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 135.
 
-La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago parcial o total de las obras o servicios, retendrá el importe de los derechos a que se refiere el artículo 132 de esta ley.
+La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago parcial o total de las obras o servicios, retendrá el importe de los derechos a que se refiere el artículo 118 de esta ley.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-El pago de los derechos por los servicios a que se refiere el artículo 133, deberá efectuarse en las oficinas recaudadoras de la Secretaria de Finanzas, instituciones de crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los derechos por los servicios a que se refiere el artículo 119, deberá efectuarse en las instituciones de crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2009)</small>
 
@@ -2547,9 +2857,11 @@ g).- Certificaciones y constancias, $106.00 (CIENTO SEIS PESOS 00/100 M.N.).
 
 En todos los casos en que el personal del Departamento de Servicios Periciales, con o sin equipo, deba trasladarse fuera de los locales en que normalmente presten sus servicios, se causarán derechos de $15.00 (QUINCE PESOS 00/100 M.N.) por kilómetro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Los prestados por otras unidades administrativas de la Fiscalía General del Estado:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+II.- Los servicios que presta la Fiscalía General del Estado a través de sus unidades administrativas, causarán derechos conforme a la siguiente:
 
 (ACTUALIZADO EN SU MONTO, P.O. 31 DE DICIEMBRE DE 2004)
 
@@ -2559,11 +2871,15 @@ II.- Los prestados por otras unidades administrativas de la Fiscalía General de
 
 2.- Por otros servicios no especificados, $154.00 (CIENTO CINCUENTA Y CUATRO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 137.
 
-El pago de los servicios a que se refiere este Capítulo deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+El pago de los servicios a que se refiere este Capítulo deberá efectuarse en las
+
+Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
 ### CAPITULO NOVENO. DE LOS SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA RELATIVOS AL DERECHO DE ACCESO A LA INFORMACIÓN PUBLICA
 
@@ -2655,11 +2971,13 @@ El envío de la información solicitada, podrá realizarse por correo simple, co
 
 PAGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 140-E.
 
-El pago de los servicios y gastos a que se refiere este Capítulo, deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio, conforme a la liquidación que expida la Dependencia que preste el servicio.
+El pago de los servicios y gastos a que se refiere este Capítulo, deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio, conforme a la liquidación que expida la Dependencia que preste el servicio.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -2703,19 +3021,23 @@ BASE
 
 La base de las contribuciones a que se refiere este Capítulo será el importe del gasto público provocado.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 104], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 144.
 
-La Secretaría de Finanzas estará facultada para determinar el importe de las contribuciones, quien deberá tomar en cuenta para su determinación, el costo real del gasto público originado.
+Las autoridades fiscales estarán facultadas para determinar el importe de las contribuciones, quien deberá tomar en cuenta para su determinación, el costo real del gasto público originado.
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 145.
 
-Las contribuciones por gasto deberán ser pagadas en las oficinas recaudadoras de rentas de la Secretaria de Finanzas o en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que surta efectos la notificación de la resolución que contenga la determinación de las contribuciones.
+Las contribuciones por gasto deberán ser pagadas en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que surta efectos la notificación de la resolución que contenga la determinación de las contribuciones.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2723,11 +3045,13 @@ Las contribuciones por gasto deberán ser pagadas en las oficinas recaudadoras d
 
 El monto total de la contribución en cada caso, no podrá exceder del costo del gasto público de que se trate.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 147.
 
-La Secretaría de Finanzas, formulará y notificará la resolución que determine las contribuciones a cargo de los contribuyentes, en la que se expresará la causa y monto del gasto provocado.
+Las autoridades fiscales, formularán y notificarán la resolución que determine las contribuciones a cargo de los contribuyentes, en la que se expresará la causa y monto del gasto provocado.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2777,11 +3101,13 @@ La tasa correspondiente a esta contribución para el fomento a la educación, se
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 153.
 
-El pago de esta contribución deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, Instituciones de Crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de esta contribución.
+El pago de esta contribución deberá efectuarse en las autoridades fiscales (sic), Instituciones de Crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos objeto de esta contribución.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -2829,11 +3155,13 @@ Los contribuyentes que realicen dos o más trámites por los que se causen derec
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 158.
 
-El pago de esta contribución deberá efectuarse en las oficinas recaudadoras de rentas de la Secretaría de Finanzas, instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos de los derechos objeto de esta contribución.
+El pago de esta contribución deberá efectuarse en las instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos de los derechos objeto de esta contribución.
 
 ### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
 
@@ -2903,11 +3231,13 @@ BASE
 
 La base de la contribución a que se refiere este Capítulo será el costo total de la obra pública específica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 162.
 
-Cuando se trate de obras por cooperación de carácter estatal, la Secretaría de Obras Públicas y Transporte y la Secretaría de Finanzas, serán el conducto del Ejecutivo del Estado para tomar las siguientes determinaciones:
+Cuando se trate de obras por cooperación de carácter estatal, la Secretaría de Comunicaciones y Transportes y las autoridades fiscales, serán el conducto del Ejecutivo del Estado para tomar las siguientes determinaciones:
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2921,13 +3251,19 @@ II.- Area beneficiada con la obra y zona de influencia; y
 
 III.- Determinar la cantidad global que deban cubrir los contribuyentes beneficiados.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 163.
 
-En todo caso, a la Secretaría de Finanzas le corresponderá:
+En todo caso, a las autoridades fiscales le corresponderá:
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 I.- Determinar la cuota que corresponda pagar a cada contribuyente en particular; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 II.- Establecer el plazo y forma en que deban efectuarse los pagos.
 
@@ -2987,17 +3323,21 @@ La contribución por obra pública se causará cuando la autoridad competente ac
 
 PAGO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 169.
 
-Las contribuciones por obra pública deberán ser pagadas en las oficinas recaudadoras de rentas de la Secretaria de Finanzas, o en las instituciones de crédito autorizadas, al inicio de la obra o dentro del plazo que se establezca en los convenios que se celebren con los particulares, en la forma y plazo que ésta determine.
+Las contribuciones por obra pública deberán ser pagadas en las instituciones de crédito autorizadas, al inicio de la obra o dentro del plazo que se establezca en los convenios que se celebren con los particulares, en la forma y plazo que ésta determine.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 170.
 
-La Secretaría de Finanzas del Estado formulará la liquidación de la contribución por obra pública para cada contribuyente en particular.
+Las autoridades fiscales formularán la liquidación de la contribución por obra pública para cada contribuyente en particular.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -3067,11 +3407,13 @@ BASE
 
 Servirá de base para el pago de esta contribución la cuantificación de los daños o deterioros causados por el uso de las instalaciones, infraestructura caminera, hidráulica y de servicios, o de uso comunitario y beneficio social, que sean propiedad del Estado, del dominio público o uso común, que se determinarán mediante los estudios técnicos que lleve a cabo la Secretaría de Obras Públicas y Transporte.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 179.
 
-La contribución por responsabilidad objetiva se pagará en las oficinas recaudadoras de rentas de la Secretaria de Finanzas o en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que se notifique al contribuyente el resultado de los estudios técnicos que lleve a cabo la Secretaría de Comunicaciones y Obras Públicas.
+La contribución por responsabilidad objetiva se pagará en las Instituciones de Crédito autorizadas, dentro de los quince días siguientes al en que se notifique al contribuyente el resultado de los estudios técnicos que lleve a cabo la Secretaría de Comunicaciones y Obras Públicas.
 
 TASA
 
@@ -3107,7 +3449,17 @@ VIII.- Venta de impresos y papel;
 
 IX.- Otorgamiento de aval en favor de las entidades a que se refiere la Ley de Deuda Pública para el Estado de Coahuila;
 
-X.- La explotación de las concesiones que en su favor otorgue el Gobierno Federal sobre vías generales de comunicación; y
+X.- La explotación de las concesiones que en su favor otorgue el Gobierno Federal sobre vías generales de comunicación; y (sic)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+XI.- Las comisiones a cargo de las personas físicas, comercios e instituciones, por concepto de retenciones que se realicen a los trabajadores del Gobierno del Estado, de conformidad con los convenios de pagos y aportaciones, las que en todo caso será (sic) del dos al millar; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 XI.- Otros no especificados.
 
@@ -3135,9 +3487,19 @@ VII.- Bienes y herencias vacantes, tesoros ocultos, herencias, legados, donacion
 
 VIII.- Aportaciones extraordinarias del Gobierno Federal, de Organismos Públicos o de particulares;
 
-IX.- Honorarios de notificación; y
+IX.- Honorarios de notificación; y (sic)
 
-X.- Otros no especificados.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+X.- Recursos provenientes de ahorros presupuestales; así como aquellos recaudados por cualquier otro concepto, que exceda del presupuesto de operación autorizado para los organismos y entidades públicas, incluso los provenientes de financiamientos; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+XI.- Otros no especificados.
 
 ## TITULO VII. INGRESOS COORDINADOS
 
@@ -3452,3 +3814,21 @@ PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publi
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor a partir del primero de enero del año 2010.
+
+###### ARTÍCULO SEGUNDO.
+
+Los servicios del Registro Público, que tiene a su cargo la Secretaría de Gobierno, regulado en el Titulo III, Capítulo Primero, Sección Primera, serán prestados por esta o por el Organismo descentralizado que se cree para tal efecto, a partir de la fecha en que éste inicie operaciones.
+
+###### ARTÍCULO TERCERO.
+
+Los servicios que tiene a su cargo la Secretaría de Finanzas, regulado en el Titulo III, Capítulo Segundo, serán prestados por está o por el Organismo descentralizado que se cree para tal efecto, a partir de la fecha en que éste inicie operaciones.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
