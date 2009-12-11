@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-seguridad-social-del-57812
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-27"
-last_updated: "2007-11-27"
+last_updated: "2009-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de noviembre de 2007.
 
@@ -129,9 +129,17 @@ a) Dirección Comercial:
 
 1. Gerencia de Ventas;
 
-2. Gerencia de Almacenes; y
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-3. Gerencia de Mercadotecnia.
+2. Gerencia de Almacenes;
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+3. Gerencia de Mercadotecnia; y
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+4. Gerencia de Ventas Institucionales.
 
 b) Dirección Inmobiliaria:
 
@@ -1075,9 +1083,17 @@ La Dirección Comercial deberá apoyar, coordinar y supervisar el trabajo de las
 
 I. Gerencia Ventas;
 
-II. Gerencia de Almacenes; y
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-III. Gerencia de Mercadotecnia.
+II. Gerencia de Almacenes;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+III. Gerencia de Mercadotecnia; y
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+IV. Gerencia de Ventas Institucionales.
 
 ###### Artículo 73.
 
@@ -1185,9 +1201,41 @@ VIII. Proponer la elaboración de material de comunicación y publicidad de las 
 
 IX. Coordinar y desarrollar eventos del área comercial.
 
-#### Sección Sexta. De la Dirección Inmobiliaria
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-#### Sección Séptima. De la Gerencia de Desarrollo Inmobiliario
+#### Sección Quinta Bis. De la Gerencia de Ventas Institucionales
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Artículo 79 A. La Gerencia de Ventas Institucionales tendrá a su cargo el coordinar y supervisar el funcionamiento de los establecimientos de farmacias Genéricas del Bajío y del Seguro Popular, efectuar negociaciones y convenios para el otorgamiento de líneas de crédito a (sic) Gobierno del Estado, dependencias y entidades, empresas particulares y personas físicas, así como a sus trabajadores.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Artículo 79 B. La Gerencia de Ventas Institucionales tendrá las siguientes atribuciones:
+
+I. Llevar a cabo los procesos relativos a la venta en los establecimientos comerciales de farmacias Genéricas del Bajío y del Seguro Popular, así como verificar que estos cumplan con los requisitos de instalación y ubicación para proporcionar un servicio adecuado;
+
+II. Efectuar negociaciones y convenios para el otorgamiento de líneas de crédito a los sectores públicos estatal y municipal, así como a empresas particulares;
+
+III. Revisar y supervisar la entrada y salida de mercancía de los establecimientos comerciales mediante programas de registro que estén establecidos para ello, así como la aplicación y el conteo de inventarios en establecimientos comerciales;
+
+IV. Implantar y dar seguimiento al sistema de registro estadístico, para medir el funcionamiento de los establecimientos comerciales a su cargo;
+
+V. Efectuar las negociaciones con la administración pública federal, estatal o de la iniciativa privada, para la distribución de medicamento y administración de las farmacias del Seguro Popular;
+
+VI. Elaborar pronósticos de ventas mensual y anual de las farmacias Genéricas del Bajío y del Seguro Popular en coordinación con la Gerencia de Mercadotecnia;
+
+VII. Presentar al Director Comercial reportes de ventas;
+
+VIII. Proponer y desarrollar estrategias comerciales que impulsen el crecimiento de las ventas;
+
+IX. Supervisar que se cumplan todas aquellas acciones y estrategias promocionales que en su momento sean definidas por la Dirección Comercial;
+
+X. Participar en los procesos de licitaciones de medicamento y material de curación estatal y nacional, en las que ISSEG obtenga un beneficio económico; y
+
+XI. Las demás que le confiera el Director General del ISSEG, el Subdirector General de Unidades de Negocio y el Director Comercial.
+
+#### Sección Sexta. De la Dirección Inmobiliaria
 
 ###### Artículo 80.
 
@@ -1227,7 +1275,7 @@ IX. Coordinar y supervisar la comercialización, compra, venta, arrendamiento, s
 
 X. Vigilar el cumplimiento de las metas y proyectos de la Dirección.
 
-#### Sección Octava. De la Gerencia de Administración de Inmuebles
+#### Sección Séptima. De la Gerencia de Desarrollo Inmobiliario
 
 ###### Artículo 83.
 
@@ -1253,7 +1301,7 @@ VII. Coordinar los proyectos ejecutivos, revisiones, modificaciones y normativid
 
 VIII. Supervisar los procesos para el pago de estimaciones, actas parciales de entrega recepción, elaborar finiquitos de obra y los relativos a las leyes y reglamentos aplicables.
 
-#### Sección Novena. De la Gerencia de Comercialización de Inmuebles
+#### Sección Octava. De la Gerencia de Administración de Inmuebles
 
 ###### Artículo 85.
 
@@ -1281,7 +1329,7 @@ VIII. Proponer a la Dirección Inmobiliaria obras de remodelación de inmuebles 
 
 IX. Las demás que le confiera el Director General del ISSEG, el Subdirector General de Unidades de Negocio y el Director Inmobiliario.
 
-#### Sección Única. De la Comisión de Vigilancia
+#### Sección Novena. De la Gerencia de Comercialización de Inmuebles
 
 ###### Artículo 87.
 
@@ -1303,7 +1351,7 @@ V. Realizar acciones tendientes a mejorar la rentabilidad de los bienes inmueble
 
 ### Capítulo X. De la Comisión de Vigilancia
 
-#### Sección Primera. De las Suplencias
+#### Sección Única. De la Comisión de Vigilancia
 
 ###### Artículo 89.
 
@@ -1335,11 +1383,13 @@ VIII. Las demás funciones que las disposiciones legales y reglamentarias le atr
 
 ### Capítulo XI. Suplencias y Relaciones Laborales
 
-#### Sección Segunda. De las Relaciones Laborales
+#### Sección Primera. De las Suplencias
 
 ###### Artículo 91.
 
 Las suplencias del Director General del ISSEG, serán cubiertas por el Subdirector que al efecto designe. Los demás funcionarios serán suplidos por el servidor público que designe para tal efecto el titular del área correspondiente o su superior jerárquico.
+
+#### Sección Segunda. De las Relaciones Laborales
 
 ###### Artículo 92.
 
@@ -1362,3 +1412,9 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN Y FINANZAS
 
 GUSTAVO ADOLFO GONZÁLEZ ESTRADA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE DICIEMBRE DE 2009.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
