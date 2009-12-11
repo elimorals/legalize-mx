@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2009-10-30"
+last_updated: "2009-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -4905,7 +4905,7 @@ III. Colaborar con las autoridades del Estado y del Municipio para el debido cum
 
 ###### Artículo 382.
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado (sic) para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -17515,7 +17515,7 @@ II. No se permitirán anuncios de este tipo en inmuebles destinados a uso habita
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IIl. La altura máxima de los objetos en que figure la publicidad deberá ser de acuerdo a lo que determine la Unidad Operativa Municipal de Protección Civil, previo Dictamen que para tal efecto realice;
+III. La altura máxima de los objetos en que figure la publicidad deberá ser de acuerdo a lo que determine la Unidad Operativa Municipal de Protección Civil, previo Dictamen que para tal efecto realice;
 
 IV. Si el objeto es colocado directamente en el piso, debe contar con una protección en forma de valla a cuando menos 2 metros alrededor del mismo;
 
@@ -27629,6 +27629,20 @@ VII.- Último ticket de pago.
 
 El pago por concepto de extinción de jubilación, la pagará el Ayuntamiento en una sola exhibición y en un plazo no mayor de sesenta días naturales, contados a partir de que la Secretaría del Ayuntamiento, reciba la solicitud y documentación correspondiente.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 1995 Bis.
+
+Cuando ocurra la muerte de un jubilado se pagará al beneficiario, por concepto de pago de marcha, la cantidad equivalente a siete meses del monto total del salario, entendiéndose como tal la pensión que mensualmente percibía el trabajador jubilado. En caso de no haber designado beneficiario, será el Tribunal de Arbitraje del Municipio de Puebla, quien determine los mismos.
+
+Para la solicitud de pago de marcha, el beneficiario deberá presentar a la Secretaría de Administración y Tecnologías de la Información, por conducto de la Dirección de Recursos Humanos, la siguiente documentación:
+
+I. Solicitud de pago de marcha;
+
+II. Acta de defunción y comprobante de gastos funerarios; e
+
+III. Identificación oficial del beneficiario.
+
 ###### Artículo 1996.
 
 Son beneficiarios de los jubilados y por lo tanto tienen derecho a las prestaciones que establecen las disposiciones de este Capítulo:
@@ -32166,3 +32180,13 @@ P.O. 30 DE OCTUBRE DE 2009.
 PRIMERO. Las presentes adiciones y reformas surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
+
+P.O. 11 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las prestaciones anteriores que se hubiesen otorgado y que sean compatibles con la presente adición se reconocen plenamente.
