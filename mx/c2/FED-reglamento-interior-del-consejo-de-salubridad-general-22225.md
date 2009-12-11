@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-consejo-de-salubridad-general-22225"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-30"
-last_updated: "2004-08-02"
+last_updated: "2009-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-10-25"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE SALUBRIDAD GENERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE AGOSTO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONSEJO DE SALUBRIDAD GENERAL, PUBLICADO EN EL D.O.F. DE 11 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 30 de octubre de 2001.
 
@@ -350,3 +352,23 @@ D.O.F. 2 DE AGOSTO DE 2004.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La Comisión para Definir Tratamientos y Medicamentos Asociados a Enfermedades que Ocasionan Gastos Catastróficos deberá emitir su Reglamento Interior en un plazo que no excederá de noventa días siguientes a la entrada en vigor del presente Decreto.
+
+D.O.F. 11 DE DICIEMBRE DE 2009.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior del Consejo de Salubridad General, publicado en el Diario Oficial de la Federación el 30 de octubre de 2001.
+
+Continuarán vigentes las normas expedidas con apoyo en el Reglamento que se abroga, en lo que no se opongan al presente.
+
+TERCERO. La Junta Ejecutiva emitirá sus reglas internas de operación dentro de los noventa días siguientes a la celebración de su primera sesión.
+
+CUARTO. El Consejo de Salubridad General expedirá su Código de Ética dentro de los noventa días posteriores a la entrada en vigor de este Reglamento.
+
+QUINTO. El Secretario elaborará el Documento Guía para los Debates del Consejo, dentro de los sesenta días posteriores a la entrada en vigor de este Reglamento.
+
+SEXTO. Los reglamentos interiores de las comisiones de Integración Funcional del Sistema Nacional de Salud, Consultiva Científica y Consultiva Ciudadana y las reglas internas de operación de los comités, se emitirán dentro de los noventa días posteriores a su primera sesión.
+
+SÉPTIMO. Las acciones que se deriven de la aplicación del presente Reglamento, se sujetarán a la disponibilidad de recursos que se haya aprobado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
+
+OCTAVO. En la instalación del Consejo, por única ocasión, serán invitados los Secretarios de Salud o su equivalente, representantes de dos de las regiones a que se refiere el artículo 5 del presente Reglamento, los cuales asistirán al Consejo solo por dos años, y se elegirán por insaculación.
