@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2009-02-20"
+last_updated: "2009-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -93,7 +93,11 @@ Son participaciones los ingresos provenientes de contribuciones y aprovechamient
 
 Son créditos fiscales los que tenga derecho a percibir el Estado o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus funcionarios o empleados o de los particulares, así como aquellos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
-La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará a través de la Secretaría de Finanzas, la cual podrá ser auxiliada por otras dependencias oficiales o por organismos públicos o privados, por disposición de la ley o por autorización de dicha Secretaría.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará a través de autoridades fiscales, las cuales podrán ser auxiliadas por otras dependencias oficiales o por organismos públicos o privados, por disposición de la ley o por autorización de dicha autoridad.
 
 ###### ARTICULO 7.
 
@@ -115,7 +119,11 @@ II. En cualquier otro caso dentro de los 5 días siguientes al momento de la cau
 
 En el caso de contribuciones que se deben pagar mediante retención, cuando quien deba efectuarla no la retenga, estará obligado a enterar una cantidad equivalente a la que debió haber retenido.
 
-Quien haga pago de créditos fiscales deberá obtener de la oficina recaudadora, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Finanzas o la documentación que en las disposiciones respectivas se establezca en la que conste la impresión original de la máquina registradora. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito, se deberá obtener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo electrónico con sello digital.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Quien haga pago de créditos fiscales deberá obtener de los establecimientos autorizados, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por las autoridades fiscales o la documentación que en las disposiciones respectivas se establezca en la que conste la impresión original de la máquina registradora. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito, se deberá obtener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo electrónico con sello digital.
 
 ###### ARTICULO 9.
 
@@ -223,7 +231,11 @@ En los casos en que el Índice Nacional de Precios al Consumidor del mes anterio
 
 Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco federal, así como a los valores de bienes u operaciones de que se traten, será 1.
 
-Las cantidades en moneda nacional que se establezcan en este Código, se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio a aquél en el que se haya dado dicho incremento. Para la actualización mencionada se considerará el periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado. Para estos efectos, el factor de actualización se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del período entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo de dicho periodo. La Secretaría de Finanzas del Estado de Coahuila realizará las operaciones aritméticas previstas en este artículo y publicará el factor de actualización así como las cantidades actualizadas en el Periódico Oficial del Estado de Coahuila.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Las cantidades en moneda nacional que se establezcan en este Código, se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio a aquél en el que se haya dado dicho incremento. Para la actualización mencionada se considerará el período comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado. Para estos efectos, el factor de actualización se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes inmediato anterior al más reciente del período entre el Índice Nacional de Precios al Consumidor correspondiente al mes anterior al más antiguo de dicho período. Las autoridades fiscales realizarán las operaciones aritméticas previstas en este artículo y publicarán el factor de actualización así como las cantidades actualizadas en el Periódico Oficial del Estado de Coahuila.
 
 Para determinar el monto de las cantidades a que se refiere el párrafo anterior, se considerarán, inclusive, las fracciones de peso; no obstante lo anterior, dicho monto se ajustará para que las cantidades de 0.01 a 5.00 pesos en exceso de una decena, se ajusten a la decena inmediata anterior y de 5.01 a 9.99 pesos en exceso de una decena, se ajusten a la decena inmediata superior.
 
@@ -231,29 +243,105 @@ Cuando de conformidad con las disposiciones fiscales se deban realizar operacion
 
 ### CAPITULO II. DE LOS MEDIOS ELECTRONICOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 16.
 
-Cuando las disposiciones fiscales obliguen a presentar documentos, declaraciones o realizar pagos de contribuciones o aprovechamientos podrán optar por cumplir con sus obligaciones a través de la red electrónica mundial.
+Cuando las disposiciones fiscales obliguen a presentar documentos, éstos podrán ser digitales, y mediante una Clave de Identificación Estatal optar por cumplir con sus obligaciones a través de la red electrónica mundial, salvo los casos que establezcan una regla diferente.
+
+Para efectos del párrafo anterior, se entiende por documento, entre otros, las solicitudes, declaraciones, avisos y constancias a que se refieren los artículos 19 y 31 de este Código.
+
+Se entiende por documento digital todo mensaje de datos que contiene información o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología.
+
+En los documentos digitales, una Clave de Identificación Estatal, garantizará la procedencia del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+Los datos de creación de las Claves de Identificación Estatal, podrán ser tramitados directamente ante las autoridades fiscales competentes, ubicadas de acuerdo con la circunscripción territorial correspondiente al domicilio fiscal del contribuyente, requiriendo que el interesado comparezca personalmente para acreditar su identidad. A su vez, facilitarán las herramientas informáticas para que el interesado genere su propia Clave de Identificación Estatal, la cual se considera válida desde el momento mismo de su creación.
+
+Los datos de identidad que las autoridades fiscales competentes obtengan con motivo de la comparecencia, no quedarán comprendidos dentro de lo dispuesto por el artículo 62 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 16-A.
+
+Cuando los contribuyentes remitan un documento digital a las autoridades fiscales, recibirán el acuse de recibo que contenga la Clave de Autorización Estatal. La Clave de Autorización Estatal es el mensaje electrónico que acredita que un documento digital fue recibido por la autoridad correspondiente, y estará sujeto a la misma regulación aplicable al uso de la Clave de Identificación Estatal. En este caso, la Clave de Autorización Estatal se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 16-B.
+
+La Clave de Identificación Estatal tramitada ante las autoridades fiscales competentes quedará sin efectos cuando:
+
+I. Lo solicite el firmante.
+
+II. Lo ordene una resolución judicial o administrativa.
+
+III. Fallezca la persona física titular de la clave. En este caso la revocación deberá solicitarse por un tercero legalmente autorizado, quien deberá acompañar el acta de defunción correspondiente.
+
+IV. Se disuelvan, liquiden o extingan las sociedades, asociaciones y demás personas morales. En este caso, serán los liquidadores quienes presenten la solicitud correspondiente.
+
+V. La sociedad escindente o la sociedad fusionada desaparezca con motivo de la escisión o fusión, respectivamente. En el primer caso, la cancelación la podrá solicitar cualquiera de las sociedades escindidas; en el segundo, la sociedad que subsista.
+
+VI. Cuando se ponga en riesgo la confidencialidad de la Clave de Identificación Estatal.
+
+Las autoridades fiscales podrán cancelar la Clave de Identificación Estatal tramitada por el contribuyente, cuando se pierda o inutilice por daños a las bases de datos que la contenga, así como en el supuesto de la hipótesis análoga prevista en la fracción VI de este artículo.
+
+Las solicitudes de revocación a que se refiere este artículo deberán presentarse de conformidad con las reglas de carácter general que al efecto establezcan las autoridades fiscales competentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 16-C.
+
+El titular de la Clave de Identificación Estatal tramitada ante las autoridades fiscales competentes, tendrá las siguientes obligaciones:
+
+I. Actuar con diligencia y establecer los medios razonables para evitar la utilización no autorizada de la Clave de Identificación Estatal.
+
+II. Solicitar la revocación de la Clave de Identificación Estatal ante cualquier circunstancia que pueda poner en riesgo la privacidad de la información que pueda ser accesada con la misma.
+
+El titular de la Clave de Identificación Estatal será responsable de las consecuencias jurídicas que deriven por no cumplir oportunamente con las obligaciones previstas en el presente artículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 17.
 
-La Secretaría de Finanzas deberá establecer mediante Reglas de Carácter General los requisitos y procedimientos que deberán observar los contribuyentes que opten por cumplir con sus obligaciones conforme al artículo anterior.
+Las autoridades fiscales deberán establecer mediante Reglas de Carácter General los requisitos y procedimientos que deberán observar los contribuyentes para el cumplimiento de lo dispuesto en los artículos 16, 16-A, 16-B y 16-C de este Código.
 
-Las reglas que para tal efecto expida la Secretaría de Finanzas deberán ser publicadas en el Periódico Oficial del Estado.
+Las reglas que para tal efecto expidan las autoridades fiscales deberán ser publicadas en el Periódico Oficial del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 18.
 
-El uso de las claves de identificación personal que se establezcan para la presentación de documentos, declaraciones y realización de pagos a través de la red electrónica mundial, sustituye a la firma autógrafa y producirá los mismos efectos que las leyes otorgan a las declaraciones y pagos efectuados en las recaudaciones o establecimientos autorizados; en consecuencia, las declaraciones y pagos realizados mediante el uso de la red electrónica mundial tendrán el mismo valor probatorio.
+El uso de las Claves de Identificación Estatal que se establezcan para la presentación de documentos, declaraciones y realización de pagos a través de la red electrónica mundial, sustituye a la firma autógrafa y producirá los mismos efectos que las leyes otorgan a las declaraciones y pagos efectuados en los establecimientos autorizados; en consecuencia, las declaraciones y pagos realizados mediante el uso de la red electrónica mundial tendrán el mismo valor probatorio.
 
 ## TITULO II. DE LOS PROCEDIMIENTOS, DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
 ### CAPITULO UNICO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 19.
 
-Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada autográficamente por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
+Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada autográficamente por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella dactilar.
 
-Las promociones deberán presentarse en las formas que al efecto apruebe la Secretaría de Finanzas, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Las promociones deberán presentarse en las formas que al efecto aprueben las autoridades fiscales, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera.
 
 Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos.
 
@@ -271,6 +359,26 @@ Cuando no se cumplan los requisitos a que se refiere este artículo, las autorid
 
 Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos a que se refiere el artículo 22 de este Código.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 19-A.
+
+Las Autoridades Fiscales podrán autorizar que las promociones se realicen mediante documento digital y enviarse por los medios electrónicos a las direcciones electrónicas que apruebe dicha dependencia. Para tal efecto, emitirá las reglas de carácter general que faciliten su cumplimiento.
+
+Los documentos digitales deberán tener por lo menos los siguientes requisitos:
+
+I. El nombre, la denominación o razón social, el domicilio, y en su caso el registro federal o estatal de contribuyentes.
+
+II. Señalar la autoridad a la que se dirige y el propósito de la promoción.
+
+III. La dirección de correo electrónico para recibir notificaciones.
+
+Cuando no se cumplan los requisitos a que se refieren las fracciones I y II de este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de 10 días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada, así como cuando se omita señalar la dirección de correo electrónico.
+
+El promovente deberá contar con la Clave de Identificación Estatal, la cual garantizará la procedencia del documento digital. Cuando acompañe documentos distintos a escrituras o poderes notariales, y éstos no sean digitalizados, la promoción deberá presentarla en forma impresa, cumpliendo los requisitos a que se refiere el artículo 19 de este Código. Las escrituras o poderes notariales deberán presentarse en forma digitalizada, cuando se acompañen a un documento digital.
+
 ###### ARTICULO 20.
 
 En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales o notario.
@@ -283,7 +391,11 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Los créditos fiscales y sus accesorios se causarán y pagarán en moneda nacional. De provenir su pago por situaciones pactadas en moneda extranjera, el tipo de cambio se determinará conforme al valor del día que rija de acuerdo a la determinación del tipo de cambio que publica el Banco de México, en el Diario Oficial de la Federación.
 
-Se aceptarán como medios de pago, los cheques certificados; los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito, así como las transferencias electrónicas de fondos reguladas por el Banco de México. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán en los lugares y operaciones que así autorice la Secretaría de Finanzas. Las transferencias electrónicas de fondos reguladas por el Banco de México, solamente se aceptarán de acuerdo a las reglas generales que fije la Secretaría de Finanzas. Los créditos fiscales podrán ser cubiertos en especie, previa autorización debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Se aceptarán como medios de pago, los cheques certificados, los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito, así como las transferencias electrónicas de fondos reguladas por el Banco de México. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán en los lugares y operaciones que así autoricen las autoridades fiscales. Las transferencias electrónicas de fondos reguladas por el Banco de México, solamente se aceptarán de acuerdo a las reglas generales que fijen las autoridades fiscales. Los créditos fiscales podrán ser cubiertos en especie, previa autorización debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes de acreditarse al adeudo principal, se hará a los accesorios en el siguiente orden:
 
@@ -405,7 +517,11 @@ III. Suspensión o baja de obligaciones fiscales.
 
 IV. Liquidación, fusión o escisión.
 
-La Secretaría de Finanzas llevará registros de contribuyentes basándose en los datos que las personas les proporcionen de conformidad con este artículo y en los que la propia Secretaría obtenga por cualquier otro medio; asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales, cuando en este último caso se trate de asuntos en que la Secretaría de Finanzas sea parte. Las personas inscritas deberán conservar en su domicilio fiscal la documentación comprobatoria de haber cumplido con las obligaciones que establece este artículo, hasta por el término de cinco años posteriores a la fecha en que hubiere ocurrido la baja o la extinción de la obligación fiscal correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Las autoridades fiscales competentes llevarán registros de contribuyentes basándose en los datos que las personas les proporcionen de conformidad con este artículo y en los que la propia autoridad obtenga por cualquier otro medio; asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales, cuando en este último caso se trate de asuntos en que éstas sean parte. Las personas inscritas deberán conservar en su domicilio fiscal la documentación comprobatoria de haber cumplido con las obligaciones que establece este artículo, hasta por el término de cinco años posteriores a la fecha en que hubiere ocurrido la baja o la extinción de la obligación fiscal correspondiente.
 
 ###### ARTICULO 29.
 
@@ -435,17 +551,41 @@ Las personas obligadas a llevar contabilidad deberán conservarlas en el lugar a
 
 Las personas que no estén obligadas a llevar contabilidad deberán conservar en su domicilio a disposición de las autoridades, toda documentación relacionada con el cumplimiento de las disposiciones fiscales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 31.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes, declaraciones o avisos, ante las autoridades fiscales, así como de expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Finanzas, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos, que dichas formas requieran.
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes, declaraciones o avisos, ante las autoridades fiscales, así como de expedir constancias o documentos, lo harán en las formas que al efecto aprueben éstas, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos, que dichas formas requieran.
 
-En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaría de Finanzas, los obligados a presentarlas las formularán en escrito por cuadruplicado que contenga su nombre, domicilio y clave de registro de contribuyentes, así como el ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Los contribuyentes podrán cumplir con la obligación a que se refiere el párrafo anterior, mediante la presentación de solicitudes, declaraciones o avisos, en documentos digitales a través de los medios y formatos electrónicos que señalen las autoridades fiscales mediante reglas de carácter general.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por las autoridades fiscales, los obligados a presentarlas las formularán en escrito por cuadruplicado que contenga su nombre, domicilio y clave de registro de contribuyentes, así como el ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Los formatos electrónicos a que se refiere el segundo párrafo de este artículo, se darán a conocer en la página electrónica de las autoridades fiscales.
 
 Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, deberán presentarlas aun cuando no haya pago a efectuar.
 
 Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones en el Estado, están obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales.
 
-Las declaraciones, avisos, solicitudes de inscripción en el registro de contribuyentes y demás documentos que exijan las disposiciones fiscales, se presentarán en las oficinas recaudadoras de la Secretaría de Finanzas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Las declaraciones, avisos, solicitudes de inscripción en el registro de contribuyentes y demás documentos que exijan las disposiciones fiscales, se presentarán en los establecimientos autorizados de las autoridades fiscales.
 
 Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones, ni objeciones y devolverán copia sellada a quien los presente. Unicamente se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, su clave de Registro Estatal de Contribuyentes, su número de registro estatal, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos.
 
@@ -453,7 +593,11 @@ Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones
 
 Las declaraciones que presenten los contribuyentes serán definitivas y se podrán modificar por el propio contribuyente, siempre que no se haya iniciado el ejercicio de las facultades de comprobación.
 
-Cuando se inicie el ejercicio de facultades de comprobación, únicamente se podrá presentar declaración complementaria en las formas especiales autorizadas por la Secretaría de Finanzas, debiéndose pagar las multas que establece el citado artículo 75.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Cuando se inicie el ejercicio de facultades de comprobación, únicamente se podrá presentar declaración complementaria en las formas especiales autorizadas por las autoridades fiscales, debiéndose pagar las multas que establece el citado artículo 75.
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 22 de este Código, a partir de la fecha en que se debió hacer el pago.
 
@@ -473,13 +617,35 @@ III. El Subsecretario de Ingresos de la Secretaría de Finanzas.
 
 IV. Los titulares de las unidades administrativas de la Secretaría de Finanzas con las facultades y atribuciones que les otorgue el Reglamento Interior de dicha Dependencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+V. El Titular del Servicio de Administración Tributaria del Estado de Coahuila, conforme a las facultades y atribuciones que le otorga la Ley de la materia y el Reglamento Interior del organismo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+VI. Los Titulares de las Unidades Administrativas del Servicio de Administración Tributaria del Estado de Coahuila, conforme a las facultades y atribuciones que le otorga la Ley que lo crea y el Reglamento Interior del organismo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Para efectos de la fracción anterior, el Servicio de Administración Tributaria del Estado de Coahuila y sus Unidades Administrativas también serán considerados como autoridades fiscales para efectos de la Ley de Coordinación Fiscal y de los convenios celebrados con el Gobierno Federal al amparo de dicha Ley.
+
 ###### ARTICULO 34.
 
 Las autoridades fiscales proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
 
 I. Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnicismos y en los casos en que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes.
 
-II. Mantener oficinas en diversos lugares del Estado que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+II. Mantener oficinas en diversos lugares del Estado que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones. En el caso de que dicho cumplimiento se realice através de medios electrónicos, las autoridades fiscales podrán poner a su disposición el equipo para ello.
 
 III. Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes y en su caso distribuirlos con oportunidad, e informar de las fechas y lugares de presentación.
 
@@ -491,7 +657,11 @@ VI. Efectuar en distintas partes del Estado reuniones de información con los co
 
 VII. Publicar las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a períodos inferiores a un año.
 
-Los servicios de asistencia al contribuyente a que se refiere esta fracción, deberán difundirse a través de la página electrónica que al efecto establezca la Secretaría de Finanzas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Los servicios de asistencia al contribuyente a que se refiere esta fracción, deberán difundirse a través de la página electrónica que al efecto establezcan las autoridades fiscales. En dicha página también se darán a conocer la totalidad de los trámites fiscales.
 
 ###### ARTICULO 35.
 
@@ -499,7 +669,11 @@ Las autoridades fiscales sólo están obligadas a contestar las consultas que so
 
 Las autoridades fiscales no resolverán las consultas efectuadas por los particulares cuando las mismas versen sobre la interpretación o aplicación directa de la Constitución. En estos casos, no procederá la negativa ficta a que se refiere el artículo 37 de este Código.
 
-La Secretaría de Finanzas publicará mensualmente un extracto de las principales resoluciones favorables a los contribuyentes a que se refiere este artículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Las autoridades fiscales publicarán mensualmente un extracto de las principales resoluciones favorables a los contribuyentes a que se refiere este artículo.
 
 ###### ARTICULO 36.
 
@@ -525,13 +699,23 @@ Las resoluciones que conforme a este artículo se dicten, deberán señalar las 
 
 Los actos administrativos que se deban notificar deberán tener por lo menos los siguientes requisitos:
 
-I. Constar por escrito;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+I. Constar por escrito en documento impreso, y en su caso, en digital.
+
+Tratándose de actos administrativos que consten en documentos digitales, las Autoridades Fiscales emitirán reglas de carácter general que faciliten su aplicación;
 
 II. Señalar la autoridad que lo emite;
 
 III. Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate;
 
-IV. Ostentar la firma del funcionario competente y, en su caso, el nombre o nombres de las personas a las que se envíe. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+IV. Ostentar la firma del funcionario competente y, en su caso, el nombre o nombres de las personas a las que se envíe. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación. En el caso de resoluciones administrativas que consten en documentos digitales, las Autoridades Fiscales emitirán reglas de carácter general que faciliten su aplicación.
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
 
@@ -585,7 +769,11 @@ V. Practicar u ordenar se practique avalúo o verificación física de toda clas
 
 VI. Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones.
 
-VII. Allegarse las pruebas necesarias para formular la denuncia o querella ante el Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practique la Secretaría de Finanzas tendrán el mismo valor probatorio que la ley relativa concede a las actas del Ministerio Público; y la propia Secretaría, a través de los abogados que designe, será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos Penales vigente en el Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+VII. Allegarse las pruebas necesarias para formular la denuncia o querella ante el ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la ley relativa concede a las actas del Ministerio Público; y la propia Autoridad, a través de los abogados que designe, será coadyuvante del ministerio público, en los términos del Código de Procedimientos Penales vigente en el Estado.
 
 ###### ARTICULO 43.
 
@@ -789,11 +977,15 @@ III. Señalen el nombre o domicilio de un tercero, real o ficticio, si se compru
 
 IV. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 58.
 
-Los hechos y omisiones que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien, que consten en la documentación o expedientes que lleven o tengan en su poder las autoridades fiscales, podrán ser utilizados por la Secretaría de Finanzas y por cualquier autoridad u organismo descentralizado que sea competente para determinar contribuciones de carácter estatal.
+Los hechos y omisiones que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien, que consten en la documentación o expedientes que lleven o tengan en su poder las autoridades fiscales, podrán ser utilizados por ellas y por cualquier autoridad u organismo descentralizado que sea competente para determinar contribuciones de carácter estatal.
 
-Las copias o reproducciones de microfilm de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
+Las copias, Impresiones o reproducciones que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
 
 ###### ARTICULO 59.
 
@@ -831,9 +1023,13 @@ Las facultades de las autoridades fiscales para investigar hechos constitutivos 
 
 Los contribuyentes, transcurridos los plazos a que se refiere este artículo, podrán solicitar se declare que se han extinguido las facultades de las autoridades fiscales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 62.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales del estado, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias, o en los supuestos previstos en la Ley de Acceso a la Información Pública.
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales del estado, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias, o en los supuestos previstos en la Ley de Acceso a la Información Pública del Estado de Coahuila. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público, así como la que se proporcione para efectos de la notificación por terceros a que se refiere el último párrafo del artículo 117 de este Código.
 
 ### CAPITULO I. DE LAS INFRACCIONES
 
@@ -873,11 +1069,19 @@ II. La omisión haya sido corregida por el contribuyente después de que las aut
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 67.
 
-La Secretaría de Finanzas podrá condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+Las autoridades fiscales podrán condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
 
-La solicitud de condonación de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+La solicitud de condonación de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicten las autoridades fiscales competentes al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
 
 Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
 
@@ -919,7 +1123,11 @@ I. El 40% de las contribuciones omitidas, cuando el infractor las pague junto co
 
 II. Del 50% al 100% de las contribuciones omitidas, en los demás casos.
 
-El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría de Finanzas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que aprueben las autoridades fiscales.
 
 ###### ARTICULO 70.
 
@@ -975,17 +1183,27 @@ IV. No hacer los asientos correspondientes a las operaciones efectuadas; hacerlo
 
 V. No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las leyes fiscales.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 73-B.
 
-A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el Artículo 83 de este Código, se impondrán las siguientes sanciones:
+A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 73-A de este Código, se impondrán las siguientes sanciones:
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
 I. De $940.00 a $9,340.00, a la comprendida en la fracción I.
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
 II. De $200.00 a $4,670.00, a las establecidas en las fracciones II y III.
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+
 III. De $200.00 a $3,740.00, a la señalada en la fracción IV.
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
 IV. De $570.00 a $7,470.00, a la señalada en la fracción V.
 
@@ -1059,9 +1277,13 @@ IV. De 5 a 10 días de salario mínimo vigente en la Entidad a la establecida en
 
 V. De 10 a 20 días de salario mínimo vigente en la Entidad a la establecida en la fracción V.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 80.
 
-Las sanciones que se apliquen en términos de este Código y de los Convenios de Colaboración Administrativa celebrados con la Federación, serán destinados a la formación de fondos de productividad, capacitación y equipamiento del personal que interviene en la administración, determinación y vigilancia de las disposiciones fiscales, conforme a la normatividad que al efecto expida el titular de la Secretaría de Finanzas.
+Las sanciones que se apliquen en términos de este Código y de los Convenios de Colaboración Administrativa celebrados con la Federación, serán destinados a la formación de fondos de productividad, capacitación y equipamiento del personal que interviene en la administración, determinación y vigilancia de las disposiciones fiscales, conforme a la normatividad que al efecto expida el titular de las autoridades fiscales.
 
 ### CAPITULO I. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -1125,13 +1347,21 @@ En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad m
 
 Para los efectos de este Código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos, con unidad de intención delictuosa e identidad de disposición legal, incluso de diversa gravedad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 89.
 
-La acción penal en los delitos fiscales perseguibles por querella del titular de la Secretaría de Finanzas o del funcionario competente, prescribirá en tres años contados a partir del día en que se tenga conocimiento del delito y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal del Estado.
+La acción penal en los delitos fiscales perseguibles por querella del titular de las autoridades fiscales o del funcionario competente, prescribirá en tres años contados a partir del día en que se tenga conocimiento del delito y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 90.
 
-No procede la sustitución o conmutación de sanciones o cualquier otro beneficio a los sentenciados por delitos fiscales, cuando se trate de los delitos previstos en los artículos 91 y 92 de este Código. En los demás casos, además de los requisitos señalados en el Código Penal vigente en el Estado, será necesario comprobar que los adeudos fiscales están cubiertos o garantizados a satisfacción de la Secretaría de Finanzas.
+No procede la sustitución o conmutación de sanciones o cualquier otro beneficio a los sentenciados por delitos fiscales, cuando se trate de los delitos previstos en los artículos 91 y 92 de este Código. En los demás casos, además de los requisitos señalados en el Código Penal vigente en el Estado, será necesario comprobar que los adeudos fiscales están cubiertos o garantizados a satisfacción de las autoridades fiscales.
 
 ###### ARTICULO 91.
 
@@ -1167,17 +1397,33 @@ Se impondrá sanción de tres meses a tres años de prisión, al que dolosamente
 
 Igual sanción se aplicará al que dolosamente altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 96.
 
-Se impondrá sanción de tres meses a tres años de prisión, a quien sin autorización de la Secretaría de Finanzas:
+Se impondrá sanción de tres meses a tres años de prisión, a quien sin autorización de las autoridades fiscales:
 
-I. Grabe o manufacture matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Secretaría use para imprimir, grabar o troquelar calcomanías, formas valoradas o numeradas, placas o tarjetones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Imprima, grabe o troquele calcomanías, formas valoradas o numeradas, placas o tarjetones semejantes a los que use la Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+I. Grabe o manufacture matrices, punzones, dados, clichés o negativos, semejantes a los que las autoridades fiscales usen para imprimir, grabar o troquelar calcomanías, formas valoradas o numeradas, placas o tarjetones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+II. Imprima, grabe o troquele calcomanías, formas valoradas o numeradas, placas o tarjetones semejantes a los que usen las autoridades fiscales.
 
 III. Utilice para beneficio propio o de terceros las calcomanías, formas valoradas o numeradas y tarjetones a que se refiere la fracción anterior.
 
-IV. Utilice las calcomanías, formas valoradas o numeradas, tarjetones u otros documentos emitidos o autorizados por la Secretaría de Finanzas, para comprobar el cumplimiento de obligaciones que en realidad no fueron cumplidas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+IV. Utilice las calcomanías, formas valoradas o numeradas, tarjetones u otros documentos emitidos o autorizados por las autoridades fiscales, para comprobar el cumplimiento de obligaciones que en realidad no fueron cumplidas.
 
 ###### ARTICULO 97.
 
@@ -1227,9 +1473,13 @@ d) Determinen el valor de los bienes embargados a que se refiere el artículo 15
 
 Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 103.
 
-El escrito de interposición del recurso deberá presentarse ante la Secretaría de Finanzas del Estado o ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los quince días siguientes a aquel en que haya surtido efectos su notificación excepto lo dispuesto en los artículos 109 y 155 de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que en los mismos se señala.
+El escrito de interposición del recurso deberá presentarse ante las autoridades fiscales competentes o ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los quince días siguientes a aquel en que haya surtido efectos su notificación excepto lo dispuesto en los artículos 109 y 155 de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que en los mismos se señala.
 
 Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta un año, si antes no se hubiere aceptado el cargo de representante de la sucesión.
 
@@ -1341,6 +1591,12 @@ En el recurso de revocación se admitirá toda clase de pruebas, excepto la test
 
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Cuando se trate de documentos digitales, para su valoración, se estará a lo dispuesto por el artículo 210-A del Código Federal de Procedimientos Civiles.
+
 Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos, incluyendo los digitales; pero, si en los documentos públicos citados se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
 
 Las demás pruebas quedarán a la prudente apreciación de la autoridad.
@@ -1393,7 +1649,17 @@ Cuando se interponga un medio de impugnación, se suspenderá el efecto de la re
 
 Las notificaciones de los actos administrativos se harán:
 
-I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+I. Personalmente o por correo certificado o mensaje de datos con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
+
+En el caso de notificaciones por documento digital, podrán realizarse en la página de Internet de las autoridades fiscales o mediante correo electrónico, conforme las reglas de carácter general que para tales efectos establezcan la (sic) mismas.
+
+El acuse de recibo consistirá en el mensaje electrónico que transmita el destinatario al abrir el documento digital que le hubiera sido enviado. Para los efectos de este párrafo, se entenderá como notificado, una vez que el particular hubiere tenido acceso al documento mediante la Clave de Identificación Estatal que como llave de seguridad proporcionaron las autoridades fiscales.
+
+Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales.
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior.
 
@@ -1402,6 +1668,12 @@ III. Por estrados, en los casos que señalen las leyes fiscales y este Código.
 IV. Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en el Estado.
 
 V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del artículo 120 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Las Autoridades Fiscales podrán habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este artículo, cumpliendo con las formalidades previstas en este Código y conforme a las reglas generales que para tal efecto establezca la misma.
 
 ###### ARTICULO 118.
 
@@ -1425,21 +1697,41 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán los gastos de ejecución a cargo de quien incurrió en el incumplimiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 121.
 
-Las notificaciones por estrados se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día siguiente a aquel en que se hubiera fijado el documento.
+Las notificaciones por estrados se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica de las autoridades fiscales. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día siguiente a aquel en que se hubiera fijado o publicado el documento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 122.
 
-Las notificaciones por edictos se harán mediante tres publicaciones consecutivas en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación en el Estado y contendrán un resumen de los actos que se notifican.
+Las notificaciones por edictos se harán mediante publicaciones en cualquiera de los siguientes medios:
 
-Se tendrá como fecha de notificación la de la última publicación en el Periódico Oficial del Gobierno del Estado o en uno de los periódicos de mayor circulación que hace referencia el párrafo anterior, según sea el caso.
+I. Durante tres días en el Periódico Oficial del Estado.
+
+II. Por un día en un diario de mayor circulación.
+
+III. Durante quince días en la página electrónica que al efecto establezcan las autoridades fiscales, mediante reglas de carácter general.
+
+Las publicaciones a que se refiere este artículo contendrán un extracto de los actos que se notifican.
+
+Se tendrá como fecha de notificación la de la última publicación.
 
 ###### ARTICULO 123.
 
 Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
 
-I. Depósito de dinero mediante certificado expedido por la Secretaría de Finanzas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+I. Depósito de dinero mediante certificado expedido por las autoridades fiscales.
 
 II. Prenda o Hipoteca.
 
@@ -1451,7 +1743,11 @@ V. Embargo en la vía administrativa.
 
 La garantía deberá comprender, además de las contribuciones adeudadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes y así sucesivamente.
 
-La Secretaría de Finanzas vigilará que las garantías sean suficientes tanto en el momento de su aceptación como con posterioridad, y si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes, previo requerimiento al particular para que mejore la garantía otorgada.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Las autoridades fiscales vigilarán que las garantías sean suficientes tanto en el momento de su aceptación como con posterioridad, y si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes, previo requerimiento al particular para que mejore la garantía otorgada.
 
 ###### ARTICULO 124.
 
@@ -1471,7 +1767,11 @@ No se otorgará garantía respecto de gastos de ejecución.
 
 Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del artículo 123 de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
 
-Si la garantía consiste en depósito de dinero, una vez que el crédito fiscal queda firme se ordena su aplicación por la Secretaría de Finanzas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Si la garantía consiste en depósito de dinero, una vez que el crédito fiscal queda firme se ordena su aplicación por las autoridades fiscales.
 
 La fianza se efectuará a través del procedimiento establecido en la Ley de la materia.
 
@@ -1519,11 +1819,19 @@ El término para que se consuma la prescripción se interrumpe con cada gestión
 
 Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 129.
 
-La Secretaría de Finanzas podrá cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
+Las autoridades fiscales podrán cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
-Se consideran créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 25 días de salario mínimo vigente en el Estado y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+Se consideran créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 200 unidades de inversión y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
 
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
@@ -1753,9 +2061,13 @@ Salvo los casos que este Código autoriza, toda enajenación se hará en subasta
 
 La autoridad podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 155.
 
-La base para la enajenación de los bienes inmuebles embargados será el avalúo catastral que formule la dependencia administrativa competente, en negociaciones será el avalúo pericial que formule institución nacional de crédito autorizada para tal efecto, y en los demás casos la que fijen de común acuerdo la autoridad y el embargado en un plazo de seis días. A falta de acuerdo, la Secretaría de Finanzas practicará avalúo pericial. En todo caso se notificará personalmente al embargado el resultado de la valuación.
+La base para la enajenación de los bienes inmuebles embargados será el avalúo catastral que formule la dependencia administrativa competente, en negociaciones será el avalúo pericial que formule institución nacional de crédito autorizada para tal efecto, y en los demás casos la que fijen de común acuerdo la autoridad y el embargado en un plazo de seis días. A falta de acuerdo, las autoridades fiscales competentes practicarán avalúo pericial. En todo caso se notificará personalmente al embargado el resultado de la valuación.
 
 El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de revocación a que se refiere la fracción II, inciso d) del artículo 101 de este Código, dentro de los diez días siguientes a aquel en que surta efectos la notificación a que se refiere el párrafo anterior, debiendo designar en el mismo perito de su parte o alguna empresa o institución dedicada a la compraventa y subasta de bienes.
 
@@ -1793,9 +2105,13 @@ Si el importe de la postura es menor al interés fiscal, se rematarán de contad
 
 La autoridad exactora podrá enajenar a plazos los bienes embargados. En este supuesto quedará liberado de la obligación de pago el embargado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 161.
 
-Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito por el diez por ciento, cuando menos, del valor fijado a los bienes en la convocatoria, expedido por la Secretaría de Finanzas.
+Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito por el diez por ciento, cuando menos, del valor fijado a los bienes en la convocatoria, expedido por la autoridad fiscal competente.
 
 El importe de los depósitos que se constituyen de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate, previa orden de la autoridad ejecutora, se devolverán los certificados de depósito a los postores, o las cantidades depositadas en la propia oficina, excepto el que corresponda al admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
 
@@ -1851,9 +2167,13 @@ En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo
 
 En el caso en que la autoridad fiscal entregue las cantidades pagadas por la adquisición de los bienes rematados, se dejará sin efectos el remate efectuado. Si con posterioridad a la entrega de las cantidades señaladas anteriormente cesa la causa por la cual la autoridad fiscal se vio imposibilitada jurídicamente para efectuar la entrega de los bienes rematados, ésta deberá iniciar nuevamente el procedimiento establecido en esta Sección para enajenar los mismos, dentro de los quince días siguientes a aquél en que haya cesado el impedimento o se cuente con resolución firme que permita hacerlo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 170.
 
-Queda estrictamente prohibido adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona, a los jefes y demás personas de las oficinas ejecutoras personal de la Secretaría de Finanzas, así como a todos aquellos que hubieren intervenido por parte del fisco estatal en el procedimiento administrativo. El remate efectuado con infracción a este precepto será nulo y los infractores serán sancionados conforme a este Código, además de estar obligados a la devolución de los bienes adquiridos con la consiguiente perdida de las cantidades pagadas por ellos a favor del fisco estatal.
+Queda estrictamente prohibido adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona, a los jefes y demás personas de las oficinas ejecutoras personal de las autoridades fiscales, así como a todos aquellos que hubieren intervenido por parte del fisco estatal en el procedimiento administrativo. El remate efectuado con infracción a este precepto será nulo y los infractores serán sancionados conforme a este Código, además de estar obligados a la devolución de los bienes adquiridos con la consiguiente perdida de las cantidades pagadas por ellos a favor del fisco estatal.
 
 ###### ARTICULO 171.
 
@@ -1921,7 +2241,11 @@ Cuando los bienes embargados hubieren causado abandono, las Autoridades Fiscales
 
 Los bienes que pasen a propiedad del fisco estatal o municipal conforme a este Artículo, podrán ser enajenados en los términos del artículo 174 de este Código o donarse para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas conforme a las Leyes de la materia.
 
-El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes en los términos que mediante reglas establezca la Secretaría de Finanzas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+
+El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes en los términos que mediante reglas establezcan las autoridades fiscales competentes.
 
 IV. Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de la autoridad y los propietarios de los mismos no los retiren dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
 
@@ -1990,3 +2314,13 @@ P.O. 20 DE FEBRERO DE 2009.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor a partir del primero de enero del año 2010.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
