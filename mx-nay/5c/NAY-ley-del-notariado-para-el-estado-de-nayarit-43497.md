@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-notariado-para-el-estado-de-nayarit-43497"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-29"
-last_updated: "2007-12-15"
+last_updated: "2009-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de enero de 2005.
 
@@ -367,11 +367,13 @@ El aspirante a Notario, el que haya sido Notario del Estado de Nayarit o el Nota
 
 El Notario que consienta con las conductas descritas por los artículos 34 y 35 de esta ley, se hará acreedor a la sanción prevista en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 38.
 
-Para garantizar la actualización de los profesionales que ejercen la función Notarial, el Notario y el Notario suplente adscrito, deberán obtener la certificación de actualización, necesaria para garantizar la calidad de los servicios notariales que presten. La certificación la obtendrán del Colegio, aquellos que asistan ya sea al curso de actualización que organice el Colegio dentro de los primeros cuatro meses de cada año o al evento de actualización organizado por la Asociación Nacional del Notario Mexicano, A.C., o por cualquier otro colegio del país. Dicha certificación tendrá una vigencia de un año. El fedatario que no cuente con la certificación por causas imputables a él, se hará acreedor a la sanción establecida en el artículo 221 de esta ley.
+Anualmente el Notario y su Suplente adscrito, para acreditar la actualización de la función que ejercen, deberán obtener la certificación ya sea en el curso que realiza el Colegio dentro de los primeros cuatro meses de cada año o en el que organiza la Asociación Nacional del Notariado Mexicano A. C. El Notario y en su caso su suplente, que no cuenten con la certificación por causas imputables a él, se hará acreedor a la sanción establecida por el artículo 221 de esta ley.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 La relación de Notarios certificados será elaborada por la Dirección para su publicación en el Periódico Oficial de conformidad con la documentación presentada por el Colegio.
 
@@ -459,17 +461,23 @@ A cada Notario Titular le asiste el derecho de proponer o solicitar al Ejecutivo
 
 Cuando se trate de solicitud de designación y no mediare propuesta formulada a favor de alguien en lo específico por el Notario Titular, quienes integren el padrón de aspirantes a Notarios, cuenten con la certificación a que se refiere el artículo 38 de esta Ley y estén interesados en concursar; se someterán al examen previsto en los artículos 60, 61 y 63 de este ordenamiento. El aspirante que tenga la calificación aprobatoria más alta obtendrá la patente.
 
-Cuando exista propuesta hecha por el Notario Titular, la persona de que se trate, deberá estar inscrita en el padrón de aspirantes a Notario, contar con la certificación a que se refiere el artículo 38 de esta Ley, y someterse al examen previsto en los artículos arriba indicados.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+Cuando exista persona propuesta por el Notario Titular, ésta deberá someterse al examen previsto en la presente ley, pero no será necesario que esté inscrita en el padrón de aspirantes a Notario.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 48.
 
-El Ejecutivo a través de la Dirección, convocará al profesional del derecho propuesto por el notario titular para que sea asignado con el carácter de notario suplente adscrito a su notaria, para que dentro de un término de 15 quince días hábiles, acredite los requisitos previstos en el artículo 57. Una vez satisfecho esto la dirección comprobará la fidelidad de la documentación presentada en los términos del segundo párrafo del artículo 58 de esta ley, y en caso de encontrarla ajustada a derecho establecerá el día, hora y lugar del examen, lo que comunicará al sustentante y al notario titular que hubiere realizado la propuesta.
+El Ejecutivo a través de la Dirección, previa solicitud del notario titular convocará en el término de 15 días hábiles siguientes a dicha solicitud al profesional del derecho propuesto para que sea asignado con el carácter de notario suplente adscrito a su notaría, a efecto que dentro de un término igual acredite los requisitos previstos en el artículo 57. La dirección comprobará la autenticidad de la documentación presentada en los términos del segundo párrafo del artículo 58 de esta Ley, y en consecuencia procederá al cumplimiento de lo ordenado por los artículos 65, 66 y 69 de esta Ley.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
 
 Para el efecto de cubrir la titularidad de notarías, vacantes o de nueva creación, distintas de la cual son titulares; o a la de su adscripción, respectivamente, los Notarios y los Notarios Suplentes Adscritos, podrán concursar en igualdad de condiciones que los Aspirantes, sin necesidad de acreditar el requisito de la práctica notarial.
 
-No se considerarán notarías vacantes aquellas en las (sic) se hubiere designado notario suplente adscrito.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2009)</small>
+
+No se considerarán notarías vacantes aquellas en las que se hubiere designado notario suplente adscrito.
 
 #### Sección Cuarta. Del Notario Honorario
 
@@ -571,7 +579,9 @@ El Ejecutivo convocará a los profesionales del derecho interesados en adquirir 
 
 Para solicitar el examen de Aspirante a Notario, el interesado deberá satisfacer los siguientes requisitos:
 
-I. Ser mexicano por nacimiento, originario del Estado o con una residencia en el mismo no menor a 5 cinco años ininterrumpidos y tener 28 veintiocho años cumplidos al momento de solicitar el examen;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2009)</small>
+
+I. Ser mexicano por nacimiento, originario del Estado o vecino de él y tener 25 veinticinco años cumplidos al momento de solicitar el examen;
 
 II. Estar en pleno ejercicio de sus derechos y gozar de facultades físicas y mentales que no impidan el uso de sus capacidades intelectuales para el ejercicio de la función notarial. No ser ministro de culto;
 
@@ -583,9 +593,9 @@ V. No haber sido declarado en Quiebra o Concurso de Acreedores;
 
 VI. No estar sujeto a proceso, ni haber sido condenado por sentencia ejecutoriada, por delito intencional;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
-VII. Acreditar cuando menos un año de práctica notarial ininterrumpida, bajo la dirección y responsabilidad de algún Notario del Estado, pudiendo mediar un lapso de hasta un año entre la terminación de dicha práctica y la solicitud del examen correspondiente, El inicio de la práctica notarial por el aspirante será autorizado por la Dirección, debiendo publicarse dicha autorización en el Periódico Oficial;
+VII. Acreditar cuando menos un año de práctica notarial ininterrumpida, bajo la dirección y responsabilidad de algún notario del Estado, pudiendo mediar un lapso de hasta un año entre la terminación de dicha práctica y la solicitud del examen correspondiente. La práctica notarial por el aspirante será autorizado por la Dirección debiendo publicarse dicha autorización en el Periódico Oficial; no se exigirá este requisito cuando hubiere mediado propuesta del Notario Titular para la designación de Notario Suplente Adscrito, realizada específicamente a favor de persona alguna, o cuando el solicitante tenga grado académico superior a la licenciatura, siempre que sea en materia jurídica;
 
 VIII. Presentar dicha solicitud por escrito a la autoridad competente en el formulario autorizado al efecto por la misma, marcando copia al Colegio, requisitando los datos y acompañando los documentos que el mismo formulario señale;
 
@@ -781,9 +791,13 @@ Las patentes de aspirante y de Notario deberán registrarse, en el Registro Púb
 
 Los Notarios y Notarios Suplentes Adscritos son inamovibles de su cargo, salvo los casos previstos en esta Ley. Asimismo la patente de los aspirantes es definitiva y permanente.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
-En el caso del Notario Suplente Adscrito, nombrado a petición del Titular, podrá ser revocado por el Ejecutivo, a solicitud fundada y motivada por el Titular.
+En el caso del Notario Suplente Adscrito, nombrado a petición del Titular, podrá a solicitud fundada y motivada de éste, ser revocado por el Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2009)</small>
+
+Dicha solicitud deberá ir acompañada de la opinión correspondiente del Colegio de Notarios.
 
 ### CAPÍTULO II. DE LA ACTUACIÓN NOTARIAL
 
@@ -2174,3 +2188,7 @@ P.O. 15 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 12 DE DICIEMBRE DE 2009.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
