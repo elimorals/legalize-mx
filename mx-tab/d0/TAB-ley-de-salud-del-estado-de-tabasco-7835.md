@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-7835"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2008-05-10"
+last_updated: "2009-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIOS SEGUNDO DE LA LEY DE SALUD DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 12 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 8 de febrero de 1995.
 
@@ -3250,3 +3252,45 @@ TERCERO.- La Secretaría de Seguridad Pública del Estado de Tabasco, así como 
 CUARTO.- La Secretaría de Salud del Estado, deberá contemplar en sus planes de infraestructuras, o en su caso habilitar algún centro de atención a adicciones por consumo de tabaco, en el que deberá proporcionar a la población demandante los medicamentos que la enfermedad requiera.
 
 QUINTO.- La Secretaría de Educación Pública del Estado, deberá implementar en los programas oficiales del estado de Tabasco, la prevención de adicciones. Para lo cual proporcionará el espacio adecuado para que personal de la Secretaría de Salud del Estado de Tabasco, efectúen las pláticas, video, terapias grupales o el método preventivo correspondiente, a la población estudiantil de los niveles de primaria, secundaria y preparatoria, con la finalidad de evitar en lo posible la adicción al consumo de tabaco.
+
+P.O. 12 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO
+
+La presente Ley entrará en vigor a los 90 días de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+Se abroga la anterior LEY DE SALUD DEL ESTADO DE TABASCO publicada, en el PERIÓDICO OFICIAL Numero 5470, del ocho de febrero de 1995 y sus posteriores reformas y adiciones.
+
+###### ARTÍCULO TERCERO
+
+En tanto se expidan las disposiciones administrativas derivadas de esta Ley, seguirán en vigor las que rigen actualmente en lo que no la contravengan.
+
+###### ARTÍCULO CUARTO
+
+Las autorizaciones sanitarias que se hubieren expedido con anterioridad a la fecha de entrada en vigor de la presente Ley, serán válidas hasta su vencimiento.
+
+###### ARTÍCULO QUINTO
+
+Los expedientes en trámite relacionados con las autorizaciones sanitarias, o procedimientos administrativos, se seguirán conforme a las disposiciones legales que le fueron aplicadas al iniciar la instancia.
+
+###### ARTÍCULO SEXTO
+
+Continuarán en vigor los acuerdos de Coordinación para la integración orgánica y la descentralización operativa de los servicios de salud, así como los acuerdos de coordinación celebrados con el propósito de descentralizar el ejercicio de las funciones de control y regulación sanitaria en la entidad.
+
+###### ARTÍCULO SÉPTIMO
+
+Se derogan todas las disposiciones que se opongan a la presente Ley, particularmente los artículos que refieren a la atención de la rehabilitación, que se encuentran en la Ley de Asistencia Social del estado de Tabasco, y que faculta al Desarrollo Integral de la Familia de su aplicación.
+
+###### ARTÍCULO OCTAVO
+
+Se establece un plazo de seis meses a partir de la entrada en vigor de la presente Ley, para que las infraestructuras, personal, programas, proyectos y todo lo concerniente a los centros de rehabilitación que controla el Desarrollo Integral de la Familia (DIF), pasen a formar parte de los activos y servicios de la Secretaría de Salud.
+
+###### ARTÍCULO NOVENO
+
+Se establece un término de noventa días a partir de la entrada en vigor de la presente Ley, para que la Secretaría de Salud, así como el poder ejecutivo, publiquen el reglamento de la Ley de Salud del Estado de Tabasco.
+
+###### ARTÍCULO DÉCIMO
+
+En tanto se expidan los Reglamentos y normas que se deriven de esta Ley seguirán aplicándose los reglamentos federales y las normas que la autoridad federal haya expedido.
