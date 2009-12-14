@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2009-11-02"
+last_updated: "2009-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -505,7 +505,11 @@ IV.- Organizar, operar, supervisar y evaluar la prestación de los servicios de 
 
 a).- La atención médica, preferentemente en beneficio de grupos vulnerables;
 
-b).- La atención materno-infantil;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+b).- La atención materno-infantil y Geriátrica;
 
 c).- La planificación familiar;
 
@@ -701,7 +705,11 @@ II.- La prevención y el control de las enfermedades transmisibles de atención 
 
 III.- La atención médica integral, que comprende actividades preventivas, curativas, de rehabilitación y paliativas, incluyendo la atención de urgencias;
 
-IV.- La atención materno-infantil;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+IV.- La atención materno-infantil y Geriátrica;
 
 V.- La planificación familiar;
 
@@ -937,7 +945,11 @@ Se concede acción popular para denunciar ante las autoridades sanitarias del Es
 
 La acción popular podrá ejercitarse por cualquier persona, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
 
-### CAPITULO VI. Servicios de Planificación Familiar
+### CAPITULO V BIS. Atención Geriátrica
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 69.
 
@@ -991,11 +1003,71 @@ En materia de higiene escolar, corresponde al Gobierno del Estado, aplicar las n
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales, municipales y educativas competentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO VI. Servicios de Planificación Familiar
+
+###### ARTICULO 74 Bis.
+
+La atención geriátrica comprende el conjunto de niveles de atención médica, sanitaria, psicológica y social que deben otorgar las instituciones públicas y privadas, encargadas de la atención y el cuidado de los adultos mayores, en su correspondiente ámbito de actuación y responsabilidad.
+
+Tiene como objetivo garantizar la calidad de vida, buscando en todo momento preservar la salud física, sanitaria, psicológica y social.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 74 Ter.
+
+La atención geriátrica comprende:
+
+I. El cuidado de la salud de los adultos mayores;
+
+II. La prevención de enfermedades y discapacidades;
+
+III. Atención y rehabilitación;
+
+IV. Terapias físicas;
+
+V. Terapias psicológicas;
+
+VI. La detección y atención temprana de las discapacidades psicomotoras;
+
+VII. Visitas domiciliaria (sic) cuando la incapacidad o gravedad del adulto mayor, haga difícil su desplazamiento a un centro de salud, asilo o casa de retiro;
+
+VIII. Actividades de educación y cuidados de salud dirigida a la familia o las personas encargadas del o de los adultos mayores, con la finalidad de propiciar una mayor calidad de vida;
+
+IX. Suministro de cuidados paliativos; y
+
+X. Las demás que confiera la ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 74 Quater.
+
+El Sistema Estatal de Salud así como las casas de retiro y los asilos encargados del cuidado y atención de los adultos mayores, en sus respectivos ámbitos de competencia, atenderán y fomentarán:
+
+I. La atención geriátrica;
+
+II. Los programas para promover la atención geriátrica;
+
+III. Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer las actividades ocupacionales del adulto mayor; y
+
+IV. Las demás que coadyuven a la salud y bienestar del adulto mayor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 74 Quinquies.
+
+El Sistema Estatal de Salud, así como las casas de retiro y asilos encargados del cuidado y atención de los adultos mayores deberán contar con equipo y personal especializado en atención a la salud geriátrica, gerontológica y psicogerontológica.
+
 ### CAPITULO VII. Salud Mental
-
-### CAPITULO I. Disposiciones Generales
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 75.
 
@@ -1033,11 +1105,13 @@ Los Comités y subcomités de Salud a que se refiere el Artículo 66 de esta Ley
 
 El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales y municipales de salud.
 
-### CAPITULO II. De los Beneficiarios
+### CAPITULO I. Disposiciones Generales
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO I. Profesionales, Técnicos y Auxiliares
+### CAPITULO II. De los Beneficiarios
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 79.
 
@@ -1079,19 +1153,19 @@ A estos efectos, se establecerá la coordinación necesaria entre las autoridade
 
 > <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO II. Servicio Social de Pasantes y Profesionales
+### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
 ## TITULO QUINTO BIS. REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO III. Formación, Capacitación y Actualización del Personal
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO II. Servicio Social de Pasantes y Profesionales
 
 ## TITULO SEXTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-### CAPITULO UNICO
+### CAPITULO III. Formación, Capacitación y Actualización del Personal
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 83 Bis 1.
 
@@ -1287,7 +1361,7 @@ En los casos en que se materialicen los supuestos a que se refieren los artícul
 
 ## TITULO SEPTIMO. INVESTIGACION PARA LA SALUD
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO UNICO
 
 ###### ARTICULO 84.
 
@@ -1329,7 +1403,7 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las espe
 
 Asimismo se deberá atender a lo establecido en la Ley General de Salud, al Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica y demás disposiciones legales aplicables.
 
-### CAPITULO II. Educación para la Salud
+### CAPITULO I. Disposiciones Comunes
 
 ###### ARTICULO 88.
 
@@ -1355,9 +1429,7 @@ Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación
 
 El Gobierno del Estado, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado de Aguascalientes, de conformidad con las disposiciones legales del Estado aplicables al ejercicio profesional.
 
-### CAPITULO III. Nutrición
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO II. Educación para la Salud
 
 ###### ARTICULO 93.
 
@@ -1401,7 +1473,9 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TITULO OCTAVO. INFORMACIÓN PARA LA SALUD
 
-### CAPITULO IV. Efectos del Ambiente en la Salud
+### CAPITULO III. Nutrición
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 98.
 
@@ -1461,13 +1535,11 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ## TITULO NOVENO. PROMOCION DE LA SALUD
 
-### CAPITULO V. Salud Ocupacional
+### CAPITULO IV. Efectos del Ambiente en la Salud
 
 ## TITULO DECIMO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO I. Disposiciones Comunes
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO V. Salud Ocupacional
 
 ###### ARTICULO 105.
 
@@ -1489,7 +1561,9 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
 
-### CAPITULO II. Enfermedades Transmisibles
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 107.
 
@@ -1509,7 +1583,7 @@ IV.- Salud ocupacional; y
 
 V.- Fomento sanitario.
 
-### CAPITULO III. Enfermedades no Transmisibles
+### CAPITULO II. Enfermedades Transmisibles
 
 ###### ARTICULO 109.
 
@@ -1527,7 +1601,7 @@ III.- Orientar y capacitar a la población preferentemente en materia de nutrici
 
 Las autoridades sanitarias estatales y municipales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-### CAPITULO IV. Accidentes
+### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 111.
 
@@ -1543,9 +1617,7 @@ Se deberá dar prioridad a la elaboración de programas nutricionales destinados
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+### CAPITULO IV. Accidentes
 
 ###### ARTICULO 113.
 
@@ -1591,7 +1663,9 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 El Organismo, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
-### CAPITULO I. De la Asistencia Social
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 118.
 
@@ -1603,19 +1677,19 @@ El Organismo tendrá a su cargo el control sanitario de los establecimientos en 
 
 El Gobierno del Estado, en coordinación con las dependencias y entidades municipales y federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre y la mujer.
 
-### CAPITULO II. De la Discapacidad
+### CAPITULO I. De la Asistencia Social
 
 ## TITULO DECIMO PRIMERO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
 
-### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO II. De la Discapacidad
 
 ###### ARTICULO 120.
 
 Corresponde al Organismo en coordinación con las autoridades federales y municipales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
 
-### CAPITULO II. Programa Contra el Tabaquismo
+### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 121.
 
@@ -1729,7 +1803,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos u objetos.
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO II. Programa Contra el Tabaquismo
 
 ###### ARTICULO 135.
 
@@ -1753,7 +1827,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO II. Mercados y Centros de Abasto
+### CAPITULO I. Disposiciones Comunes
 
 ###### ARTICULO 138.
 
@@ -1781,7 +1855,7 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 ## TITULO DECIMO SEGUNDO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO III. De las Construcciones
+### CAPITULO II. Mercados y Centros de Abasto
 
 ###### ARTICULO 139 Bis.
 
@@ -1923,7 +1997,7 @@ En tal caso se estará a lo que señalan las disposiciones penales aplicables.
 
 ## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
 
-### CAPITULO IV. Servicios Funerarios
+### CAPITULO III. De las Construcciones
 
 ###### ARTICULO 140.
 
@@ -2003,7 +2077,7 @@ Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus res
 
 El patrimonio de la beneficencia pública será administrado por el organismo creado para ello, correspondiéndole entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y distribuir los recursos que a la misma se le destinen.
 
-### CAPITULO V. Limpieza Pública
+### CAPITULO IV. Servicios Funerarios
 
 ###### ARTICULO 153.
 
@@ -2043,7 +2117,7 @@ El Organismo en coordinación con otras instituciones públicas, promoverá que 
 
 ## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO VI. Agua Potable y Alcantarillado
+### CAPITULO V. Limpieza Pública
 
 ###### ARTICULO 158.
 
@@ -2067,9 +2141,7 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO VII. Prostitución
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO VI. Agua Potable y Alcantarillado
 
 ###### ARTICULO 160.
 
@@ -2093,13 +2165,15 @@ III. La prevención del tabaquismo, haciendo énfasis en la infancia y la adoles
 
 IV. El tratamiento del tabaquismo.
 
-### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
+### CAPITULO VII. Prostitución
 
-### CAPITULO IX. Baños Públicos
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
 
 ## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO X. Centros de Reunión y Espectáculos
+### CAPITULO IX. Baños Públicos
 
 ###### ARTICULO 162.
 
@@ -2151,7 +2225,7 @@ VI.- Número de cédula profesional, en su caso, del responsable sanitario.
 
 Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
-### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías, Salones de Belleza y Estéticas
+### CAPITULO X. Centros de Reunión y Espectáculos
 
 ###### ARTICULO 169.
 
@@ -2169,7 +2243,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 Los establecimientos ubicados dentro de los mercados o centros de abasto, catalogados como de salubridad general, serán verificados por la autoridad sanitaria competente.
 
-### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
+### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías, Salones de Belleza y Estéticas
 
 ###### ARTICULO 172.
 
@@ -2205,7 +2279,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO XIII. Establecimientos para el Hospedaje
+### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
 
 ###### ARTICULO 180.
 
@@ -2229,9 +2303,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las Normas Oficiales Mexicanas que dicte la Secretaría de Salud.
 
-### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
-
-ARTICULO 219,- Para los efectos de esta Ley, se entiende por establecimientos destinados al almacenamiento y distribución de combustibles los destinados al suministro de gasolina, aceites, lubricantes y demás productos derivados del petróleo que sean usados en vehículos automotores.
+### CAPITULO XIII. Establecimientos para el Hospedaje
 
 ###### ARTICULO 184.
 
@@ -2269,7 +2341,9 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias, proveerán de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública, además de ordenar el mantenimiento y la fumigación periódica en los mismos; asimismo, fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
 
-### CAPITULO XV. Transporte Estatal y Municipal
+### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
+
+ARTICULO 219,- Para los efectos de esta Ley, se entiende por establecimientos destinados al almacenamiento y distribución de combustibles los destinados al suministro de gasolina, aceites, lubricantes y demás productos derivados del petróleo que sean usados en vehículos automotores.
 
 ###### ARTICULO 189.
 
@@ -2315,7 +2389,7 @@ Queda prohibido que los desechos o líquidos que conduzcan los caños sean verti
 
 Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicio de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
 
-### CAPITULO XVI. Prevención y Control de la Rabia en Animales
+### CAPITULO XV. Transporte Estatal y Municipal
 
 ###### ARTICULO 199.
 
@@ -2341,7 +2415,7 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La Autoridad Municipal en coordinación con el Organismo, determinarán los lugares en donde se permitirá el ejercicio de la prostitución, de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-### CAPITULO XVII. De la Medicina Alternativa
+### CAPITULO XVI. Prevención y Control de la Rabia en Animales
 
 ###### ARTICULO 205.
 
@@ -2361,9 +2435,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 122 de esta Ley.
 
-### CAPITULO I. Autorizaciones
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO XVII. De la Medicina Alternativa
 
 ###### ARTICULO 209.
 
@@ -2373,7 +2445,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 El agua que se utilice en los baños públicos deberá ser potable y cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -2385,7 +2457,9 @@ Para efectos de esta Ley, se entiende por centros de reunión y espectáculos, l
 
 El funcionamiento de los establecimientos a que se refiere el artículo anterior, deberá acatar a lo dispuesto por las disposiciones legales aplicables y contar con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 213.
 
@@ -2395,7 +2469,7 @@ Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza,
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO UNICO
+### CAPITULO III. Certificados
 
 ###### ARTICULO 215.
 
@@ -2411,9 +2485,7 @@ III.- Planchaduría: El establecimiento dedicado al planchado de ropa, independi
 
 Los establecimientos señalados en el artículo anterior que utilicen sustancias tóxicas o peligrosas para la salud, estarán sujetos además, a las disposiciones emitidas por la Secretaría de Salud en la materia.
 
-### CAPITULO I
-
-Medidas de Seguridad Sanitaria.
+### CAPITULO UNICO
 
 ###### ARTICULO 217.
 
@@ -2423,19 +2495,21 @@ Para los efectos de esta Ley, se entiende por establecimiento para el hospedaje,
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar al servicio de hospedaje, así como su funcionamiento, se requiere dar el aviso de funcionamiento en los términos del Artículo 167 de esta Ley.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I
+
+Medidas de Seguridad Sanitaria.
 
 ###### ARTICULO 220.
 
 Los establecimientos para el almacenamiento y distribución de combustibles deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 221.
 
 Para los efectos de esta Ley, se entiende por transporte todo aquel vehículo destinado al traslado de carga o de pasajeros sin importar su modo de propulsión, y que por sus características, puedan repercutir en la salud de la población, por lo que serán objeto de verificaciones periódicas por parte de la autoridad sanitaria, conforme a las disposiciones legales aplicables.
 
-### CAPITULO IV. Recurso de Inconformidad
+### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 222.
 
@@ -2469,11 +2543,13 @@ Los propietarios de los animales a que se refiere el artículo anterior estarán
 
 Las autoridades sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 226.
 
 Para los efectos de esta ley se entiende por medicina alternativa: homeopatía, medicina naturista, quiropráctica, herbolaria, acupuntura, terapias de sanción, terapia con electroimanes, intercambio iónico, aromaterapia, energía universal, flores de Bach y otros, estando sujetos al control y vigilancia sanitaria, y cumplir con las disposiciones de esta Ley.
+
+### CAPITULO V. Prescripción
 
 ## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
@@ -3138,3 +3214,17 @@ P.O. 2 DE NOVIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia el día 1° de enero del año 2010.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Instituciones que se dediquen a prestar su servicio a personas de la tercera edad, deberán contar con el personal adecuado y capacitado.
+
+###### ARTÍCULO TERCERO.
+
+En el Presupuesto de Egresos de Gobierno del Estado de Aguascalientes para el Ejercicio Fiscal del año 2010, se deberá contemplar la partida presupuestal correspondiente para cubrir las obligaciones del Estado derivadas del presente Decreto.
