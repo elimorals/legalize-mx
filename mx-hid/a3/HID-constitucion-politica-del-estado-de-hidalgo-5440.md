@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2009-10-06"
+last_updated: "2009-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -207,7 +207,9 @@ Queda prohibida la pena de muerte o cualesquiera otras penas inusitadas y trasce
 
 Toda persona reducida a prisión tiene derecho a la readaptación social y a los beneficios que de ella resulten, sobre las bases del trabajo, la capacitación para el mismo, la educación y reestructuración de su personalidad inspirados en un criterio de justicia social, eliminando todo concepto de venganza colectiva, con el objeto de restablecer su dignidad.
 
-El Gobierno del Estado creará instituciones especiales para el tratamiento de los menores infractores.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+El Gobierno del Estado creará instancias especiales para el tratamiento de los menores infractores.
 
 > <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
 
@@ -1291,9 +1293,7 @@ XXVI. Solicitar del Congreso autorización para el arreglo de los límites de la
 
 XXVII. Delegar en cualquiera de los organismos o servidores de la administración pública estatal, el ejercicio de las facultades mencionadas en la fracción XXVI;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
-
-XXVIII. Nombrar a los miembros del Consejo Tutelar para Menores en los términos que disponga la ley.
+XXVIII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2009)
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1715,7 +1715,9 @@ A. Son facultades del Tribunal Superior de Justicia:
 
 I. Conocer de las controversias en que el Estado fuere parte, salvo lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos;
 
-II. Resolver las controversias que se susciten en materia civil, familiar y penal;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+II. Resolver las controversias que se susciten en materia civil, familiar, penal, mercantil y especializada en justicia para adolescentes;
 
 III. Conocer de las controversias que resulten por la aplicación de leyes federales, en los casos que establezca la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -3180,3 +3182,9 @@ Octavo.- Los Presidentes Municipales de los Ayuntamientos electos para el trieni
 Noveno.- Los integrantes de los Ayuntamientos electos el primer domingo de julio de 2011 tomarán posesión de su encargo el 16 de enero del año 2012 y lo concluirán el 4 de septiembre de 2016.
 
 Décimo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
