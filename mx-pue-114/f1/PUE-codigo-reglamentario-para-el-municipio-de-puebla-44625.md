@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2009-12-11"
+last_updated: "2009-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 ---
 # CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
+CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -7439,9 +7439,9 @@ En todo lo no previsto en el presente Capítulo se aplicarán de manera supletor
 
 ## TÍTULO II. DE LA ACTIVIDAD COMERCIAL
 
-### CAPÍTULO 16. COMERCIO AMBULANTE, SEMIFIJO Y PRESTADORES AMBULANTES DE SERVICIOS EN LA VÍA PÚBLICA DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 15 BIS. DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS
 
-DISPOSICIONES GENERALES
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Articulo 601.
 
@@ -8135,7 +8135,7 @@ Contra cualquier acto de las autoridades fiscales municipales encargadas de la a
 
 > <small>(REFORMADO EN SU DENOMINACION, P.O. 27 DE MARZO DE 2006)</small>
 
-### CAPÍTULO 17. CONSTRUCCIONES
+### CAPÍTULO 16. COMERCIO AMBULANTE, SEMIFIJO Y PRESTADORES AMBULANTES DE SERVICIOS EN LA VÍA PÚBLICA DEL MUNICIPIO DE PUEBLA
 
 DISPOSICIONES GENERALES
 
@@ -9385,13 +9385,319 @@ IV. Las circunstancias de tiempo y lugar en que haya sido cometida la infracció
 
 Para los efectos de este Capítulo, será considerado como reincidente aquel que cometa dos o más infracciones.
 
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO 17. CONSTRUCCIONES
+
+DISPOSICIONES GENERALES
+
+###### Artículo 639 Bis.
+
+Las disposiciones del presente Capítulo tienen por objeto implementar el cerco sanitario municipal tendiente a regular la apertura, funcionamiento y operaciones de los negocios dedicados a la venta de productos cárnicos y/o subproductos y aves muertas para consumo humano, así como su transporte, conforme a las atribuciones que corresponden en la materia al Ayuntamiento del Municipio de Puebla.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 639 Ter.
+
+Para los efectos del presente Capítulo se entenderá por:
+
+I. Autoridades municipales competentes: El Ayuntamiento de Puebla, el Presidente Municipal, la Tesorería Municipal, el Titular de la Unidad de Normatividad y Regulación Comercial, o el área asignada en su caso, el Administrador General de Industrial de Abastos Puebla, los Inspectores Municipales a cargo de la supervisión del cerco sanitario al que se refiere el presente Capítulo y las autoridades administrativas competentes que ejerzan las facultades previstas en el presente Capítulo, así como las demás que ejerzan las funciones sanitarias dentro del Municipio, conforme a los ordenamientos legales aplicables;
+
+II. Autoridades Sanitarias: Los Servicios de Salud del Estado de Puebla, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la Unidad de Normatividad y Regulación Comercial o el área asignada en su caso de la Tesorería Municipal, Industrial de Abastos Puebla o el área asignada en su caso;
+
+III. Aves domésticas: Toda aquélla que sea criada en confinamiento o semiconfinamiento para fines de consumo humano, y comprende las siguientes: gallinas, guajolotes, pollos, gallinas de guinea, gansos, patos, pichones, guajolotes silvestres, gallaretas, codornices, tórtolas, agachonas, faisanes y chichicuilotes, así como las demás que determine la autoridad sanitaria;
+
+IV. Aves muertas: Las aves domésticas sin vida que se expenden en los establecimientos que cuenten con la licencia para tal efecto;
+
+V. Aviso de Funcionamiento: Documento expedido por los Servicios de Salud del Estado de Puebla;
+
+VI. Carne: Estructura compuesta por fibra muscular estriada, acompañada o no de tejido conjuntivo elástico, hueso, grasa, fibras nerviosas, vasos linfáticos, y sanguíneos, de las especies de animales bovino, porcino y ovino, autorizadas para el consumo humano.
+
+VII. Cerco Sanitario: Medidas adoptadas por el Municipio para la comercialización de animales de abasto, carnes, productos cárnicos y/o subproductos, y aves muertas que se consumen en el Municipio de Puebla a fin de lograr su calidad e inocuidad;
+
+VIII. Decomiso: Incautación de las canales, las vísceras y demás productos cárnicos y/o subproductos, considerados impropios para el consumo humano, que únicamente podrán ser aprovechados para uso industrial o incineración;
+
+IX. Expendios de carnes frías y/o salchichonerías: Establecimientos dedicados a la venta de productos cárnicos, así como vísceras, lonjas, grasas y similares, y de subproductos comprendidos en el artículo 1620 fracción XXIII de este Código;
+
+X. Frigoríficos: Empresa o establecimiento que se dedica a la conservación de productos cárnicos y/o subproductos mediante la utilización de frío;
+
+XI. Industrial de Abastos Puebla: Organismo Público Descentralizado de la Administración Pública Municipal;
+
+XII. Inspección sanitaria: Es la supervisión del cumplimiento de las disposiciones establecidas en el presente subtítulo y las demás comprendidas en el presente Código, realizada por las autoridades municipales competentes;
+
+XIII. Licencia: Documento expedido por la Tesorería Municipal en el que se autoriza la comercialización de los productos y/o subproductos y aves muertas referidos en este Capítulo;
+
+XIV. Médico Veterinario Responsable Oficial o Aprobado: Profesionista oficial o aprobado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, capacitado para la inspección de animales y sus productos;
+
+XV. Mercados: Los reconocidos por este Código;
+
+XVI. Planta de Rendimiento: Área provista del equipo apropiado para la industrialización de productos cárnicos y/o subproductos, no aptos para consumo humano;
+
+XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 1620 fracción XVIII de este Código;
+
+XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
+
+XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+
+XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 639 Quáter.
+
+Son autoridades competentes en la aplicación del presente Capítulo las señaladas en el artículo 639 Ter fracciones I y II, en el ámbito de su competencia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+DE LA LICENCIA DE FUNCIONAMIENTO
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 639 Quinquies.
+
+Para adquirir la licencia de funcionamiento para la comercialización de productos cárnicos y/o subproductos, así como la actualización de los locales comerciales, el interesado deberá presentar ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos o el área asignada en su caso, los siguientes documentos:
+
+A. Para el caso de la licencia de funcionamiento:
+
+I. Cubrir lo señalado en el artículo 629 apartado A del presente Código;
+
+II. Acreditar que se encuentra en trámite el aviso de funcionamiento ante los Servicios de Salud del Estado de Puebla;
+
+III. Plano del local;
+
+IV. Descripción de las instalaciones, así como de los servicios sanitarios con que cuenta, mismos que deberán ser los mencionados en el artículo 633 Septies del presente ordenamiento; y
+
+V. Relación de productos cárnicos y/o subproductos que operará.
+
+B. Para el caso de la actualización de licencia de funcionamiento:
+
+I. Cubrir los requisitos señalados en el artículo 629 apartado B del presente Código; y
+
+II. Presentar Licencia de funcionamiento original expedida por la Tesorería Municipal, a través del Departamento de Licencias y Padrón de Contribuyentes, o el área asignada en su caso, así como el aviso de funcionamiento expedido por los Servicios de Salud del Estado de Puebla.
+
+Para ambos casos se observará el procedimiento establecido en los artículos 629 y 630 del presente Código.
+
+Para la reposición, transferencia o cesión, así como el cambio de giro comercial, se estará a lo establecido por los artículos 629, 631 y 632 de este Código.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 639 Sexies.
+
+El interesado, una vez que haya obtenido el aviso de funcionamiento por parte de los Servicios de Salud del Estado de Puebla, tendrá un plazo de 45 días naturales para presentarlo ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos o el área asignada en su caso, de no hacerlo se procederá conforme a lo establecido en el artículo 2 de este Código Reglamentario, en caso de que el interesado haga caso omiso, se revocará la licencia de funcionamiento.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 639 Septies.
+
+Los locales para la venta de los productos cárnicos y/o subproductos, deberán contar con las siguientes características:
+
+I. Para el caso de los supermercados, centros comerciales, carnicerías, supercarnicerías y salchichonerías, que excedan de 100 metros cuadrados de superficie, es necesario contar con cuarto de refrigeración;
+
+II. Para el caso de locales para carnicería, supercarnicerías, salchichonerías, que no excedan de 100 metros cuadrados, deben reunir lo siguiente:
+
+a) Puerta de acceso a la calle.
+
+b) Patio techado.
+
+c) Refrigerador.
+
+d) Techos impermeables, de fácil limpieza.
+
+e) Suficiente ventilación natural o mecánica.
+
+f) Piso antiderrapante, pavimentado o de concreto;
+
+III. Los locales para venta de aves muertas, deberán reunir los requisitos señalados en los incisos c), d), e) y f) de la fracción II del presente artículo.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 639 Octies.
+
+Para la comercialización de los productos cárnicos y/o subproductos y aves muertas, el titular de la licencia de funcionamiento deberá cumplir con lo siguiente:
+
+A. Productos cárnicos y/o subproductos:
+
+I. Las carnes permanecerán siempre en refrigeración, excepto durante el tiempo necesario para ser destazadas y separadas las diferentes piezas o durante el momento del expendio;
+
+II. Para la elaboración de todos los productos comprendidos en el artículo 1620 fracciones XVIII y XXIII, se emplearán las carnes frescas apropiadas, especias e ingredientes que correspondan, observando las normas NOM-008-ZOO-1994, NOM-009-ZOO-1994, NOM-122-SSA1-1994, NOM-145-SSA1-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales que resulten aplicables, a fin de proteger la salud del público consumidor;
+
+III. Las carnes que se utilicen para la elaboración de los productos referidos en el artículo 1620 fracciones XVIII y XXIII del presente Código, deben provenir del sacrificio efectuado en el Rastro Municipal o lugares autorizados por la autoridad municipal;
+
+IV. Los productos cárnicos y/o subproductos, así como las grasas se entregarán al comprador envueltos en papel no impreso, limpio y en bolsas de papel o de plástico biodegradable; y
+
+V. Los productos mencionados en la fracción anterior, así como el chicharrón, las grasas y las carnes frías, se tendrán siempre en vitrinas adecuadas.
+
+Las salchichonerías y expendios de carnes frías deberán cumplir con los requisitos de higiene, salubridad y refrigeración necesarios para la protección del consumidor, mismas que se señalan en las fracciones II, III, IV y V del presente artículo.
+
+B. Aves muertas:
+
+I. Las aves muertas para el consumo humano estarán libres de deformaciones, heridas, laceraciones o cualquier otra forma que afecte su integridad;
+
+II. La carne de aves muertas, vísceras o demás partes comestibles, deberán mantenerse a una temperatura no mayor de 4° centígrados;
+
+III. La carne que se expenda deberá estar exenta de los colorantes denominados sudanés, solvente rojo 23, rojo toney, color índex 26100 o rojo DC 17 y de cualquier otro colorante no permitido;
+
+IV. Las vísceras y el pollo estarán separados y refrigerados, en caso de no contar con refrigerador deberán mantenerse cubiertos con hielo molido;
+
+V. Las aves muertas y sus productos podrán conservarse en piletas durante su comercialización, debiendo lavarse éstas con agua y detergente y desinfectarse cada vez que se depositan distintos lotes;
+
+VI. La carne de aves muertas se entregará al comprador envuelta en papel no impreso, limpio y en bolsa de papel o de plástico biodegradable; y
+
+VII. El producto fraccionado de las aves muertas, que no haya sido vendido debe mantenerse en recipientes distintos a los del producto entero y en refrigeración.
+
+En todos los casos, el molino que se emplee para elaborar carne molida debe desarmarse, lavarse con agua, detergente y desinfectarse por lo menos al inicio y al final de la jornada de trabajo.
+
+El Ayuntamiento, podrá en cualquier momento, ordenar las reparaciones que considere necesarias y el retiro de muebles y utensilios que no estén en las condiciones requeridas por este artículo, sin perjuicio de lo dispuesto por las autoridades sanitarias.
+
+La carne de equino será expendida o comercializada públicamente, en sitio distinto al que se utiliza para el expendio de las carnes y derivados que se mencionan en el presente artículo, lo anterior con objeto de evitar confusiones del consumidor.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 639 Nonies.
+
+El titular de la licencia de funcionamiento tendrá las siguientes obligaciones:
+
+I. Respetar el giro comercial autorizado en la licencia de funcionamiento;
+
+II. Asegurar que el personal que labora en su establecimiento cumpla con las condiciones de higiene y salud contempladas en las normas NOM-009-ZOO-1994, NOM-120-SSA1-1994, así como las normas oficiales vigentes y demás disposiciones legales aplicables;
+
+III. Cumplir con los precios y tarifas establecidos en la legislación aplicable para la comercialización de dichos productos;
+
+IV. Permitir el acceso a las instalaciones del comercio, para la realización de inspecciones sanitarias cada vez que sean requeridas por las autoridades competentes, mismas que se sujetarán a lo dispuesto por los artículos 1629 Bis y 1637 del presente Código;
+
+V. Exhibir la documentación comprobatoria de la sanidad y legal procedencia de los productos cárnicos y/o subproductos e información requerida durante la inspección; y
+
+VI. Cumplir con la normatividad municipal, estatal y federal vigente aplicables en la materia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS EN LOS MERCADOS MUNICIPALES Y/O DE APOYO
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 639 Decies.
+
+Para la obtención de licencias de funcionamiento para la comercialización de productos cárnicos y/o subproductos dentro de los mercados municipales y/o de apoyo, los locatarios además de cubrir los requisitos señalados en los artículos 1418 y 1419 de este Código, deberá acreditar que está en trámite el aviso de funcionamiento emitido por los Servicios de Salud del Estado de Puebla.
+
+Una vez que el interesado obtenga el aviso de funcionamiento correspondiente, observará lo establecido en el artículo 633 Sexies del presente Capítulo ante la Dirección de Abasto y Comercio Interior o el área asignada en su caso.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+Artículo 639 Undecies.- Para el caso de solicitar el refrendo de la licencia de funcionamiento en términos de la fracción XI del artículo 1431 del presente Código, deberá exhibir el aviso de funcionamiento otorgado por los Servicios de Salud del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+Artículo 639 Duodecies.- Cuando se solicite la reposición, transferencia o cesión, cambio de giro comercial, cambio de local dentro del mercado municipal y/o de apoyo, y baja de la licencia de funcionamiento, se estará a lo dispuesto en el Capítulo 20 del presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+Artículo 639 Terdecies.- Los locales que se destinen para expendio de productos cárnicos y/o subproductos, deberán reunir los siguientes requisitos:
+
+I. Local de 3 x 3 metros mínimo, o su equivalente, siempre que de frente no tenga menos de 2 metros, en material de concreto y piso de mosaico;
+
+II. Enjarrado o yeso, pintado en aceite y de color blanco;
+
+III. Instalaciones eléctricas;
+
+IV. Lavaderos de carne y mesas de azulejo;
+
+V. Refrigerador; y
+
+VI. Sierra eléctrica.
+
+Para el caso de locales en los que se expendan aves muertas además de lo señalado en las fracciones I, II, III y IV, cumplirán con lo consiguiente:
+
+a) Suficiente ventilación natural o mecánica; y
+
+b) El piso debe ser antiderrapante, pavimentado o de concreto.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+Artículo 639 Quaterdecies.- Los requisitos sanitarios para el caso de los locales dentro de los mercados municipales y/o de apoyo que expendan productos cárnicos y/o subproductos, así como aves muertas, estarán sujetos a lo establecido en el artículo 633 Octies de este Código.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+Artículo 639 Quindecies.- El titular de la licencia de funcionamiento tendrá las siguientes obligaciones:
+
+I. Respetar el giro comercial autorizado en la licencia de funcionamiento;
+
+II. Asegurar que el personal que labora en su establecimiento cumpla con las condiciones de higiene y salud contempladas en las normas oficiales NOM-009-ZOO-1994 y NOM-120-SSA1-1994, así como las normas oficiales vigentes y demás disposiciones legales aplicables;
+
+III. Cumplir con los precios y tarifas establecidos en la legislación aplicable para la comercialización de dichos productos;
+
+IV. Permitir el acceso a las instalaciones del comercio, para la realización de inspecciones sanitarias cada vez que sean requeridas por las autoridades competentes, mismas que se sujetarán a lo dispuesto por los artículos 1629 Bis y 1637 del presente Código;
+
+V. Facilitar la inspección sanitaria, exhibiendo la documentación comprobatoria de la sanidad y legal procedencia de los productos cárnicos y/o subproductos e información requerida durante la inspección; y
+
+VI. Cumplir con la normatividad municipal, estatal y federal vigente aplicables en la materia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS EN LOS MERCADOS TEMPORALES
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+Artículo 639 Sexdecies.- Los requisitos sanitarios para el caso de los establecimientos en los mercados temporales autorizados que expendan productos cárnicos y/o subproductos, así como aves muertas, deberán cumplir como mínimo con lo siguiente:
+
+I. Las carnes permanecerán siempre en lugar fresco, conforme a lo establecido en la Norma Oficial NOM-194-SSA1-2004;
+
+II. Los productos cárnicos y/o subproductos, se tendrán siempre en vitrinas adecuadas;
+
+III. Los productos a que se refiere la fracción anterior, así como las grasas se entregarán al comprador envueltos en papel no impreso, limpio y en bolsas de papel o de plástico biodegradable;
+
+IV. Las aves muertas para el consumo humano estarán libres de deformaciones, heridas, laceraciones o cualquier otra forma que afecte su integridad;
+
+V. La carne de aves muertas deberá estar exenta de los colorantes denominados sudanés, solvente rojo 23, rojo toney, color índex 26100 o rojo DC 17 y de cualquier otro colorante no permitido; y
+
+VI. Las vísceras y el pollo estarán separados y refrigerados, en caso de no contar con refrigerador deberán mantenerse cubiertos con hielo molido.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+
+Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+Artículo 639 Novodecies.- El producto cárnico que no esté amparado con la documentación de sanidad, legal procedencia y el sello del Rastro Municipal o del Rastro al que pertenece, será inspeccionado por la autoridad sanitaria municipal; la disposición de éste será de acuerdo al criterio del médico veterinario responsable oficial o aprobado; cuando el producto cárnico esté en condiciones de sanidad que permitan su uso en la alimentación humana, previo pago de los derechos correspondientes, será resellado con la leyenda "Inspeccionado y Aprobado", pudiendo el propietario aprovecharlo en su venta directa o en la elaboración de productos comestibles; en caso contrario deberá ser decomisado haciéndose constar tal situación en el acta de decomiso correspondiente y el propietario, a su costa, deberá enviarlo a la planta de rendimiento de su elección para su aprovechamiento como harina de carne y/o desnaturalización o en su caso incineración.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+Artículo 639 Vicies.- Para el caso de la reinspección de los productos cárnicos y/o subproductos procedentes de otro establecimiento, los inspectores municipales procederán de la siguiente manera:
+
+I. Si se encuentran alteraciones que los hagan impropios para el consumo humano, serán decomisados y se dispondrá de ellos en la forma en que se previene en el artículo inmediato anterior.
+
+II. Cuando estén en condiciones de sanidad que permitan su uso en la alimentación humana, previo pago de los derechos correspondientes, serán resellados con la leyenda "Inspeccionado y Aprobado", pudiendo el propietario aprovecharlo en su venta directa o en la elaboración de productos comestibles; esto también se hará constar en el acta respectiva.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+Artículo 639 Unvicies.- Para la imposición de las sanciones administrativas a que se refiere el artículo 639 Octodecies, la autoridad sanitaria municipal tomará en cuenta la gravedad de la infracción, la reincidencia, los daños y perjuicios causados, los antecedentes, circunstancias personales y situación socioeconómica del infractor.
+
+Las sanciones de referencia se impondrán, sin perjuicio de la responsabilidad administrativa o penal de la competencia de autoridad diversa.
+
+Si el incumplimiento a lo dispuesto en el presente Capítulo implica la comisión de un delito, los responsables serán puestos a disposición de la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+Artículo 639 Duovicies.- La autoridad sanitaria municipal, en caso de detectar alguna anomalía que no sea de su competencia, dará aviso a la dependencia correspondiente.
+
 ### CAPÍTULO 18. ANUNCIOS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-### CAPÍTULO 19. LIMPIA, RECOLECCIÓN Y DISPOSICIÓN FINAL DE RESIDUOS
-
-DISPOSICIONES GENERALES
 
 ###### Artículo 640.
 
@@ -9635,7 +9941,7 @@ Contra la resolución que se emita para efectos del párrafo que antecede, proce
 
 # LIBRO TERCERO. URBANÍSTICA DEL MUNICIPIO DE PUEBLA
 
-### CAPÍTULO 20. DE LOS MERCADOS MUNICIPALES
+### CAPÍTULO 19. LIMPIA, RECOLECCIÓN Y DISPOSICIÓN FINAL DE RESIDUOS
 
 DISPOSICIONES GENERALES
 
@@ -16777,7 +17083,7 @@ RECURSO DE INCONFORMIDAD
 
 Contra las medidas previstas en el presente Capítulo en relación con la Zona de Monumentos y contra aquellas sanciones que se impongan por violaciones la (sic) mismo, los interesados podrán interponer el Recurso de Inconformidad conforme a lo señalado en el artículo 252 de la Ley Orgánica Municipal para el Municipio de Puebla.
 
-### CAPÍTULO 21. DE LA CENTRAL DE ABASTO DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 20. DE LOS MERCADOS MUNICIPALES
 
 DISPOSICIONES GENERALES
 
@@ -19037,7 +19343,7 @@ La imposición de la sanción a que se refiere el artículo anterior por la inob
 
 > <small>(ADICIONADO CON LOS APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
-### CAPÍTULO 22. PANTEONES
+### CAPÍTULO 21. DE LA CENTRAL DE ABASTO DEL MUNICIPIO DE PUEBLA
 
 DISPOSICIONES GENERALES
 
@@ -19789,11 +20095,9 @@ MEDIOS DE IMPUGNACIÓN
 
 Los actos de la autoridad, derivados del cumplimiento del presente Capítulo, podrán ser recurridos a través del Recurso de Inconformidad, dispuesto en la Ley Orgánica Municipal.
 
-### CAPÍTULO 23. DEL SERVICIO PÚBLICO DEL RASTRO MUNICIPAL
+### CAPÍTULO 22. PANTEONES
 
 DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1398.
 
@@ -20075,11 +20379,11 @@ III.- (DEROGADA, P.O. 27 DE MARZO DE 2006)
 
 IV. Las demás que se desprendan de la Ley Orgánica Municipal para el Estado de Puebla y del presente Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 1428.
 
-Compete al Departamento de Registro y Fiscalización;
+Compete a la Unidad de Normatividad y Regulación Comercial o al área asignada en su caso:
 
 I. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 
@@ -20096,6 +20400,10 @@ V. (DEROGADA, P.O. 29 DE AGOSTO DE 2008)
 > <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
 VI. Verificar que en los mercados y zonas de mercados no se ejerza el comercio sin la autorización correspondiente, se altere el orden público; se practique cualquier deporte, juegos de azar, con o sin cruce de apuestas; o se tire basura fuera de los depósitos respectivos.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+VII. Ordenar la práctica de visitas a los locales en los que se expendan productos cárnicos y/o subproductos, así como aves muertas, a efecto de llevar a cabo inspecciones para verificar que se cumpla con el cerco sanitario a que se refiere la fracción VII del artículo 633 Ter del presente Código.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -20349,11 +20657,11 @@ Para los efectos de este capítulo, será considerado como reincidente el comerc
 
 (DEROGADO, P.O. 29 DE AGOSTO DE 2008)
 
-### CAPÍTULO 24. DEL SERVICIO PÚBLICO DE ESTACIONAMIENTO
+### CAPÍTULO 23. DEL SERVICIO PÚBLICO DEL RASTRO MUNICIPAL
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1445.
 
@@ -21117,11 +21425,11 @@ II. Retiro del producto o mercancía, y se impedirá la entrada del vehículo po
 
 III. Retiro del producto y multa equivalente a cinco días de salario mínimo, por invadir pasillos y zonas de circulación peatonal y vehicular.
 
-### CAPÍTULO 25. DEL ARCHIVO GENERAL DEL HONORABLE AYUNTAMIENTO DE PUEBLA
+### CAPÍTULO 24. DEL SERVICIO PÚBLICO DE ESTACIONAMIENTO
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 1528.
 
@@ -21835,9 +22143,11 @@ Contra las resoluciones de la Autoridad Municipal, derivadas de la aplicación d
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
 
-### CAPÍTULO 26. DE DESARROLLO SUSTENTABLE EN MATERIA ECOLÓGICA Y PROTECCIÓN AL
+### CAPÍTULO 25. DEL ARCHIVO GENERAL DEL HONORABLE AYUNTAMIENTO DE PUEBLA
 
-AMBIENTE NATURAL DEL MUNICIPIO DE PUEBLA
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1617.
 
@@ -21867,7 +22177,9 @@ II.- Canal: El cuerpo del animal después de haber sido insensibilizado, sacrifi
 
 III.- Desperdicios: Son la basura y los residuos que se encuentren en el rastro y no puedan ser aprovechados;
 
-IV.- Esquilmos: Son las materias residuales que resultan del sacrificio de los animales como: la sangre, óvulos, espermas, embriones, glándulas, bazo, hipófisis, el páncreas, testículos, patas, ubre, las cerdas, el pelo, el hueso calcinado, los cuernos, la piel, las pezuñas, las plumas, las hieles, el estiércol, etc.;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+IV. Esquilmos: Partes del animal no aptos para el consumo humano; son las materias residuales que resultan del sacrificio de los animales como: la sangre, óvulos, espermas, embriones, glándulas, bazo, hipófisis, el páncreas, testículos, patas, ubre, las cerdas, el pelo, el hueso calcinado, los cuernos, la piel, las pezuñas, las plumas, las hieles, el estiércol, etcétera;
 
 V.- Evisceración: Extracción de las vísceras contenidas en la cavidad toráxica, abdominal, craneana y bucal de las especies de animales consideradas algunas aptas para el consumo humano, pudiendo o no, extraerse los riñones;
 
@@ -21905,13 +22217,43 @@ XXI.- Sello Sanitario: Sistema de Control implementado por el Rastro Municipal, 
 
 XXII.- Secretaría: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-XXIII.- Subproductos: Son algunos de los esquilmos; partes del animal no aptos para el consumo humano;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+XXIII. Subproducto cárnico: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante;
 
 XXIV.- TIF: Establecimiento Tipo Inspección Federal;
 
 XXV.- Trato Humanitario: Medidas para evitar dolor innecesario a los animales durante su traslado, cuarentena y sacrificio; y
 
 XXVI.- Usuarios: Son todos aquéllos que utilicen los servicios del rastro.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+XXVII. Carne: Estructura compuesta por fibra muscular estriada, acompañada o no de tejido conjuntivo elástico, hueso, grasa, fibras nerviosas, vasos linfáticos, y sanguíneos, de las especies animales autorizadas para el consumo humano;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+XXVIII. Carne blanca: Es la canal o carne sin sello del Rastro Municipal o algún Rastro reconocido;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+XIX (SIC). Decomiso: Incautación de las canales, las vísceras y demás productos cárnicos y/o subproductos, considerados impropios para el consumo humano, que únicamente podrán ser aprovechados para uso industrial o en su caso incineración;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+XXX. Empacadora: Establecimiento que procesa carne fresca o congelada para su comercialización en cortes o piezas debidamente empacadas;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+XXXI. Establecimiento: Instalación sujeta a la inspección del H. Ayuntamiento de Puebla, en la que se sacrifican y/o procesan animales de las especies bovina, equina, ovina, caprina, porcina, aves, lepóridos o cualquier otra especie destinadas al consumo humano, para el comercio en la República Mexicana o para su exportación;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+XXXII. Planta industrializadora: Establecimiento que procesa e industrializa las partes comestibles de los animales hasta transformarlas en productos alimenticios; y
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+XXXIII. Vísceras: Órganos contenidos en las cavidades torácica, abdominal, pélvica, craneana y bucal.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -22235,11 +22577,11 @@ VI.- Rendir bajo su responsabilidad a la Autoridad Municipal un informe mensual 
 
 DE LA VERIFICACIÓN E INSPECCIÓN
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 1636.
 
-Los que procesen, refrigeren, empaquen, industrialicen, movilicen, comercialicen productos cárnicos para consumo humano dentro de los límites del Municipio, estarán sujetos a inspección por parte del Ayuntamiento, sin prejuicio de que concurran con el mismo fin, inspectores de los Servicios Coordinados de Salud Pública y autoridades competentes.
+Los que procesen, refrigeren, empaquen, industrialicen, movilicen, comercialicen productos cárnicos para consumo humano dentro de los límites del Municipio, estarán sujetos a inspección sanitaria por parte del Ayuntamiento, sin prejuicio de que concurran con el mismo fin, inspectores de los Servicios de Salud del Estado de Puebla y autoridades competentes.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -22253,11 +22595,21 @@ Para el cumplimiento de lo dispuesto en el artículo anterior se contará con el
 
 Las visitas de inspección se regirán y sujetarán a lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; artículos 51, 52 y 53 del Reglamento del Código Fiscal y Presupuestario para el Municipio de Puebla y normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 1637 Bis.
 
-El producto cárnico que no esté amparado con la documentación de sanidad, legal procedencia y el sello del Rastro Municipal o del rastro al que pertenece será decomisado y sometido a inspección sanitaria, de resultar apto para consumo se destinará a un establecimiento de beneficencia privada.
+El producto cárnico que no esté amparado con la documentación de sanidad, legal procedencia y el sello del Rastro Municipal o del Rastro al que pertenece será inspeccionado por la autoridad sanitaria municipal; la disposición de éste será de acuerdo al criterio del médico veterinario responsable oficial o aprobado; cuando el producto cárnico esté en condiciones de sanidad que permitan su uso en la alimentación humana, previo pago de los derechos correspondientes, será resellado con la leyenda "Inspeccionado y Aprobado", pudiendo el propietario aprovecharlo en su venta directa o en la elaboración de productos comestibles; en caso contrario deberá ser decomisado haciéndose constar tal situación en el acta de decomiso correspondiente y el propietario, a su costa, deberá enviarlo a la planta de rendimiento de su elección para su aprovechamiento como harina de carne y/o desnaturalización, o en su caso, incineración.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 1637 Bis 1.
+
+Para el caso de la reinspección de los productos cárnicos y/o subproductos procedentes de otro establecimiento, los inspectores municipales procederán de la siguiente manera:
+
+I. Si se encuentran alteraciones que los hagan impropios para el consumo humano, serán decomisados y se dispondrá de ellos en la forma en que se previene en el artículo inmediato anterior.
+
+II. Cuando estén en condiciones de sanidad que permitan su uso en la alimentación humana, previo pago de los derechos correspondientes, serán resellados con la leyenda "Inspeccionado y Aprobado", pudiendo el propietario aprovecharlo en su venta directa o en la elaboración de productos comestibles; esto también se hará constar en el acta respectiva.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -22375,11 +22727,11 @@ Los productos de la manzana serán entregados a sus propietarios por el personal
 
 En el Municipio de Puebla queda prohibido el sacrificio del ganado mayor o menor fuera de las instalaciones del rastro, excepto de aquellas especies que por su naturaleza y por la falta de instalaciones adecuadas en el rastro no puedan ser sacrificadas en el mismo; sin embargo se le dará aviso a la Autoridad Municipal para que otorgue el permiso correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 1647.
 
-La matanza que se realice en contravención a lo dispuesto en el presente Capítulo, será considerada como clandestina; los productos cárnicos serán decomisados por la Tesorería Municipal a través de la Unidad de Normatividad y Regulación Comercial y sometidos a inspección sanitaria; de resultar aptos para consumo humano, se destinarán a un establecimiento de Beneficencia Pública, si no son aptos para consumo se remitirán al Rastro Municipal para su incineración.
+La matanza que se realice en contravención a lo dispuesto en el presente Capítulo, será considerada como clandestina; los productos cárnicos serán decomisados por la Tesorería Municipal a través de la Unidad de Normatividad y Regulación Comercial o el área asignada en su caso, y sometidos a inspección sanitaria; debiendo seguir el procedimiento señalado en el artículo 1637 Bis del presente Código.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -22527,11 +22879,13 @@ Los particulares, previo pago de las cuotas que determina la Ley de Ingresos del
 
 Los productos cárnicos que se transporten en el Municipio, deberán estar amparados con la documentación comprobatoria de la sanidad y su legal procedencia que expidan las autoridades competentes del lugar de origen y certificado con los sellos sanitarios del rastro al que pertenecen, el cual podrá ser inspeccionado en todo momento por las Autoridades Municipales.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 1665 Bis.
 
-El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la Autoridad Municipal y sometido a inspección sanitaria; de ser apto para consumo humano se destinará a un establecimiento de Beneficencia Pública.
+El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la autoridad municipal y sometido a inspección sanitaria; adoptando las medidas señaladas en el artículo 1637 Bis del presente Código.
+
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -22695,9 +23049,9 @@ Contra de los actos emitidos por el Presidente Municipal o el Ayuntamiento, de l
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-### CAPÍTULO 27. PROTECCIÓN A LOS ANIMALES, PREVENCIÓN Y CONTROL DE LA RABIA
+### CAPÍTULO 26. DE DESARROLLO SUSTENTABLE EN MATERIA ECOLÓGICA Y PROTECCIÓN AL
 
-DISPOSICIONES GENERALES
+AMBIENTE NATURAL DEL MUNICIPIO DE PUEBLA
 
 ###### Artículo 1676.
 
@@ -23299,9 +23653,9 @@ El particular podrá impugnar los actos administrativos derivados de la aplicaci
 
 > <small>(REFORMADO EN SU ESTRUCTURA, P.O. 15 DE FEBRERO DE 2006)</small>
 
-### CAPÍTULO 28. DEL CONTROL PARA EL EXPENDIO DE PINTURAS EN AEROSOL Y
+### CAPÍTULO 27. PROTECCIÓN A LOS ANIMALES, PREVENCIÓN Y CONTROL DE LA RABIA
 
-SUBSTANCIAS CON EFECTOS TÓXICOS EN EL MUNICIPIO DE PUEBLA
+DISPOSICIONES GENERALES
 
 ###### Artículo 1688.
 
@@ -24045,9 +24399,9 @@ Los usuarios internos y externos, así como los investigadores que no observen l
 
 # LIBRO QUINTO. ECOLOGÍA
 
-### CAPÍTULO 29. USO DE SUELO PARA ESTACIONES DE SERVICIO DE GAS LICUADO DE PETRÓLEO CON ALMACENAMIENTO FIJO DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 28. DEL CONTROL PARA EL EXPENDIO DE PINTURAS EN AEROSOL Y
 
-DISPOSICIONES GENERALES
+SUBSTANCIAS CON EFECTOS TÓXICOS EN EL MUNICIPIO DE PUEBLA
 
 ###### Artículo 1712.
 
@@ -25625,7 +25979,9 @@ DEL RECURSO INCONFORMIDAD
 
 Las resoluciones dictadas por la autoridad Municipal con motivo de la aplicación del presente Capítulo y disposiciones que de él emanan, que apliquen sanciones y causen agravio personal y directo, podrán ser recurridas en términos de la Ley Orgánica Municipal.
 
-### CAPÍTULO 30. JUBILACIONES A EMPLEADOS MUNICIPALES
+### CAPÍTULO 29. USO DE SUELO PARA ESTACIONES DE SERVICIO DE GAS LICUADO DE PETRÓLEO CON ALMACENAMIENTO FIJO DEL MUNICIPIO DE PUEBLA
+
+DISPOSICIONES GENERALES
 
 ###### Artículo 1831.
 
@@ -26607,11 +26963,7 @@ DEL RECURSO DE INCONFORMIDAD
 
 Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación del presente Capítulo, podrán ser impugnadas, mediante el recurso de inconformidad previsto en la Ley Orgánica Municipal del Estado de Puebla.
 
-### CAPÍTULO 31. ESCALAFÓN DE LOS TRABAJADORES DE BASE DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
-
-DISPOSICIONES GENERALES
-
-DISPOSICIONES GENERALES
+### CAPÍTULO 30. JUBILACIONES A EMPLEADOS MUNICIPALES
 
 ###### Artículo 1929.
 
@@ -27133,11 +27485,11 @@ I. En el caso de substancias tóxicas, a programas de protección a menores impl
 
 II. En el caso de pinturas en aerosol, al remozamiento de las fachadas afectadas con graffitis.
 
-### CAPÍTULO 32. SEGURO DE VIDA PARA LOS TRABAJADORES DEL AYUNTAMIENTO
+### CAPÍTULO 31. ESCALAFÓN DE LOS TRABAJADORES DE BASE DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+DISPOSICIONES GENERALES
 
 ###### Artículo 1942.
 
@@ -27457,9 +27809,11 @@ TABLA NÚMERO UNO
 
 # LIBRO SEXTO. DE LAS PRERROGATIVAS DEL TRABAJO MUNICIPAL
 
-### CAPÍTULO 33. DEL SERVICIO PROFESIONAL DE CARRERA
+### CAPÍTULO 32. SEGURO DE VIDA PARA LOS TRABAJADORES DEL AYUNTAMIENTO
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 1981.
 
@@ -27663,13 +28017,9 @@ Es imprescriptible e irrenunciable el derecho al otorgamiento de una jubilación
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
-### CAPÍTULO 34. ESPECTÁCULOS DE BOX Y LUCHA LIBRE PARA EL MUNICIPIO DE PUEBLA
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+### CAPÍTULO 33. DEL SERVICIO PROFESIONAL DE CARRERA
 
 DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 1998.
 
@@ -27973,7 +28323,7 @@ El catalogo de puestos contenido en el presente artículo, atenderá a la estruc
 
 Los movimientos escalafonarios, serán operados tomando en cuenta el total del salario asignado a cada puesto y cada categoría en el tabulador correspondiente.
 
-### CAPÍTULO 35. "DE LA MEJORA REGULATORIA"
+### CAPÍTULO 34. ESPECTÁCULOS DE BOX Y LUCHA LIBRE PARA EL MUNICIPIO DE PUEBLA
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -28177,13 +28527,13 @@ DE LOS DESCUENTOS Y PÓLIZAS
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
-### CAPÍTULO 36. DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA
+### CAPÍTULO 35. "DE LA MEJORA REGULATORIA"
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 2074.
 
@@ -28494,6 +28844,14 @@ Cuando por necesidades del servicio público se lleve a cabo una reestructuraci�
 # LIBRO SÉPTIMO
 
 > <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+
+### CAPÍTULO 36. DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2007)</small>
 
 ###### Artículo 2107.
 
@@ -30009,7 +30367,7 @@ II. Los que celebre un representante o promotor con una empresa, respecto a una 
 
 III. Los de exclusividad, celebrados por un promotor o representante con una empresa para el efecto de que el boxeador actúe bajo su promoción por un tiempo determinado, de acuerdo con las cláusulas en el contrato respectivo, o entre éstos y el boxeador directamente en condiciones especiales.
 
-Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
+Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en que se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
 
 Una vez registrado y autorizado el contrato, se entregará un tanto al representante, otro al boxeador y el restante quedará depositado en el archivo de la Comisión.
 
@@ -30311,7 +30669,7 @@ Como un estímulo para los luchadores, se constituye en el Municipio, el título
 
 ###### Artículo 2236.
 
-Para poder ostentar cualquier título, será necesario contar con licencia legalmente expedida por la Comisión, o bien por alguna otra Comisión o Consejo de Lucha Libre Municipal, en los términos establecidos por el presente Capitulo.
+Para poder ostentar cualquier título, será necesario contar con licencia legalmente expedida por la Comisión, o bien por alguna otra Comisión o Consejo de Lucha Libre Municipal, en los términos establecidos por el presente Capítulo.
 
 El Título de Campeón Estatal de Lucha Libre, se otorgará al que resulte vencedor de quien actualmente y de manera legal ostente un Campeonato, reconocido por las Comisiones o Consejos de Box y Lucha del Estado.
 
@@ -32190,3 +32548,9 @@ La presente adición entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Las prestaciones anteriores que se hubiesen otorgado y que sean compatibles con la presente adición se reconocen plenamente.
+
+P.O. 14 DE DICIEMBRE DE 2009.
+
+PRIMERO. Las presentes reformas y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Dictamen.
