@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-arrendamientos-y-prestacion-de-2672
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-13"
-last_updated: "2002-11-13"
+last_updated: "2009-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS ESTABLECIDO EN EL MUNICIPIO DE GRAL. ESCOBEDO, N. L.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de noviembre de 2002.
 
@@ -101,9 +101,11 @@ VII. En general cumplir con las resoluciones y bases que emita la Tesorería Mun
 
 DEL COMITÉ DE ADJUDICACIONES
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 6.
 
-El Comité de Adjudicaciones es un organismo auxiliar de la Administración Municipal, de naturaleza técnica y consultiva, que se integrará por el Tesorero Municipal, quien fungirá como Presidente; el Secretario del R. Ayuntamiento, quien fungirá como Secretario; el Síndico Primero, Secretario de Desarrollo Urbano Obras Públicas y Ecología y, el Contralor Municipal, estos tres últimos representantes fungirán como vocales del Comité, los cuales podrán enviar un representante en algún supuesto.
+El Comité de Adjudicaciones es un Organismo Auxiliar de la Administración Pública Municipal, de naturaleza técnica y consultiva, que se integra de la siguiente forma: Por el titular de la Secretaría de Finanzas y Tesorería Municipal, quien fungirá como Presidente, por el Secretario del R. Ayuntamiento quien se desempeñará como Secretario, por el Síndico Primero, el Secretario de Obras Públicas, el Secretario de la Contraloría Municipal, el Director de Adquisiciones y el Director Jurídico Municipal en el concepto de que estos últimos cinco titulares fungirán como vocales. Los titulares antes mencionados, podrán designar sus respectivos representantes.
 
 ###### Artículo 7.
 
@@ -352,3 +354,15 @@ Presidente Municipal.
 LIC. ROLANDO MARTINEZ CHAVEZ
 
 Secretario del R. Ayuntamiento.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas al Reglamento de Adquisiciones, Arrendamientos y Prestación de Servicios establecido en el Municipio de General Escobedo, Nuevo león, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publiquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su publicación a través de la gaceta municipal.
