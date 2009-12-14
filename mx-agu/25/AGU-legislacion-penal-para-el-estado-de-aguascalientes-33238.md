@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2009-11-23"
+last_updated: "2009-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2009.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -223,33 +223,31 @@ Si el inculpado hiciere uso de violencia física o moral, se le aplicarán de do
 
 Si la víctima es menor de doce años de edad o por cualquier causa no puede resistir la conducta del sujeto activo, al responsable se le aplicarán de tres a seis años de prisión y de cincuenta a quinientos días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 22.
 
 La Corrupción de Menores consiste en:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+I. La inducción que se realice sobre una persona menor de 18 años de edad para la práctica de la mendicidad, ebriedad, toxicomanía o prostitución;
 
-I. La inducción que se haga de una persona no mayor de 18 años de edad para la práctica de la mendicidad, ebriedad, toxicomanía o prostitución, y en su caso, la inducción al delito mediante actos que hagan intervenir al menor en cualquiera de sus formas de comisión;
+II. El ofrecimiento que se haga para observar actos de exhibicionismo corporal realizados por una o varias personas menores de 18 años de edad;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+III. La inducción que se realice sobre una persona menor de 18 años de edad para que lleve a cabo actos de exhibicionismo corporal o de carácter sexual;
 
-II. La enseñanza de actos sexuales, perversos o prematuros que alteren el normal desarrollo psicosexual de persona menor de 18 años;
+IV. Fotografiar o videograbar actos de exhibicionismo corporal o de carácter sexual realizados por una persona menor de 18 años de edad;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+V. La comercialización, distribución o difusión de fotografías o videograbaciones que muestren actos de exhibicionismo corporal o de carácter sexual de personas menores de 18 años de edad; o
 
-III. La inducción para llevar a cabo actos de exhibicionismo corporal o de carácter sexual con personas menores de 18 años de edad, con el fin de videograbarlas o fotografiarlas;
+VI. La venta o suministro que de cualquier forma se haga a personas menores de 18 años de edad, de sustancias tóxicas, tales como materiales solventes, alcoholes, medicamentos y otras sustancias que produzcan efectos similares.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
-
-IV. La comercialización, distribución o difusión de fotografías o videograbaciones que muestren actos de exhibicionismo corporal o de carácter sexual de personas menores de 18 años; o
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
-
-V. La venta o suministro que de cualquier forma se haga a personas menores de 18 años de edad, de sustancias tóxicas, tales como materiales solventes, alcoholes, medicamentos y otras sustancias que produzcan efectos similares.
+Para los efectos de este Artículo, por exhibicionismo corporal se entenderá, mostrar el pene, senos, glúteos o vagina.
 
 Al responsable de Corrupción de Menores se le aplicarán de 6 a 14 años de prisión y de 80 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-La punibilidad descrita se duplicará, cuando el inculpado sea ascendiente, padrastro o madrastra de la víctima.
+La punibilidad descrita en el párrafo anterior se duplicará cuando el inculpado sea ascendiente, padrastro, o madrastra de la víctima, o cuando el inculpado habite en el mismo domicilio de la víctima, y se aplicará como pena la privación de los derechos de familia que el inculpado tenga en relación con la víctima.
+
+Si el inculpado labora en organizaciones dedicadas al cuidado o atención de menores de 18 años de edad, también se le aplicará como pena la privación del cargo, empleo o comisión que ahí desempeñe.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
@@ -779,7 +777,7 @@ III. De 4 a 6 años de prisión y de 150 a 200 días multa, y al pago total de l
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-Se aplicará la misma penalidad en los casos a que se refiere la Fracción V, de este Artículo.
+Se aplicará la misma penalidad en los casos a que 5e refiere la Fracción V, de este Artículo.
 
 ###### Artículo 51.
 
@@ -1233,7 +1231,7 @@ III. La revelación de una comunicación reservada que se conozca o que se haya 
 
 Al responsable de Revelación de Secretos se le aplicarán de 3 meses a 1 año de prisión y de 15 a 30 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Si el responsable de la Revelación de Secretos presta sus servicios profesionales o técnicos, o se trata de un servidor público; o el secreto revelado es de carácter industrial o científico, la punibilidad será de 1 a 5 años de prisión y de 30 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Si el responsable de la Revelación de Secretos presta sus servicios profesionales o técnicos, o se trata de un servidor público; o el secreto revelado es de carácter industrial o científico, la punibilidad será de1 a 5 años de prisión y de 30 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### Artículo 80.
 
@@ -5770,3 +5768,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 En un término no mayor a los treinta días naturales contados a partir de la entrada en vigencia del presente Decreto, el Instituto de Transparencia deberá realizar las adecuaciones necesarias al Reglamento del Recurso de Inconformidad a fin de prever los trámites procesales mínimos para el otorgamiento de la suspensión.
+
+P.O. 14 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
