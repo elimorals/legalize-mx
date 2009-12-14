@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-procuraduria-federal-del-consumidor-40112"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2004-07-16"
+last_updated: "2009-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-07-13"
 
 REGLAMENTO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el viernes 16 de julio de 2004.
 
@@ -33,9 +33,11 @@ REGLAMENTO DE LA PROCURADURÍA FEDERAL DEL CONSUMIDOR
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 1.
 
-Este Reglamento tiene por objeto establecer la organización de la Procuraduría Federal del Consumidor, para el ejercicio de las atribuciones que le confiere la Ley Federal de Protección al Consumidor.
+Este Reglamento tiene por objeto establecer la organización de la Procuraduría Federal del Consumidor, para el ejercicio de las atribuciones que le confieren la Ley Federal de Protección al Consumidor y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 2.
 
@@ -51,9 +53,17 @@ IV.- Procurador: el Procurador Federal del Consumidor,
 
 V.- Procuraduría: la Procuraduría Federal del Consumidor;
 
-VI.- Reglamento: el Reglamento de la Procuraduría Federal del Consumidor, y
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-VII.- Secretaría: la Secretaría de Economía.
+VI.- Reglamento: el Reglamento de la Procuraduría Federal del Consumidor;
+
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+VII.-Secretaría: la Secretaría de Economía, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Subdelegaciones: las Subdelegaciones de la Procuraduría.
 
 ###### ARTÍCULO 3.
 
@@ -153,17 +163,23 @@ Además de las atribuciones señaladas en la Ley, el Procurador tendrá las sigu
 
 I.- Proponer al Ejecutivo Federal, por conducto de la Secretaría, los proyectos de leyes, reglamentos, decretos, acuerdos y demás ordenamientos jurídicos necesarios para el cumplimiento de la Ley y otras disposiciones jurídicas concernientes a relaciones de consumo;
 
-II.- Expedir manuales de organización, de procedimientos y de servicios al público, así como los acuerdos y demás lineamientos y criterios necesarios para el funcionamiento de la Procuraduría;
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-III.- Adscribir orgánicamente las unidades administrativas previstas en este Reglamento;
+II.- Proponer a la Secretaría, la política de protección al consumidor;
 
-IV.- Establecer los criterios para la imposición de multas y demás sanciones previstas en la Ley, así como para condonarlas, reducirlas, modificarlas o conmutarlas, a fin de preservar la equidad, en términos de lo dispuesto por la propia Ley;
+III.- Expedir manuales de organización, de procedimientos y de servicios al público, así como los acuerdos y demás lineamientos y criterios necesarios para el funcionamiento de la Procuraduría;
 
-V.- Resolver los recursos interpuestos con relación a actos y resoluciones definitivas emitidas por los servidores públicos subalternos;
+IV.- Adscribir orgánicamente las unidades administrativas previstas en este Reglamento;
 
-VI.- Modificar o revocar de oficio aquellas resoluciones administrativas de carácter individual no favorables a un particular, emitidas por los Subprocuradores, cuando se demuestre fehacientemente que las mismas se hubieren emitido en contravención a las disposiciones aplicables, y
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-VII.- Las demás que le otorguen otros ordenamientos jurídicos.
+V.- Establecer los criterios para la imposición de las multas previstas en la Ley, así como para condonarlas, reducirlas, modificarlas o conmutarlas, a fin de preservar la equidad, en términos de lo dispuesto por la propia Ley;
+
+VI.- Resolver los recursos interpuestos con relación a actos y resoluciones definitivas emitidas por los servidores públicos subalternos;
+
+VII.- Modificar o revocar de oficio aquellas resoluciones administrativas de carácter individual no favorables a un particular, emitidas por los Subprocuradores, cuando se demuestre fehacientemente que las mismas se hubieren emitido en contravención a las disposiciones aplicables, y
+
+VIII.- Las demás que le otorguen otros ordenamientos jurídicos.
 
 ### CAPÍTULO III. DE LOS SUBPROCURADORES Y COORDINADORES GENERALES
 
@@ -195,9 +211,15 @@ XI.- Expedir copias certificadas de expedientes y documentos a cargo de las unid
 
 XII.- Autorizar los programas de capacitación que presenten, en el ámbito de su competencia, las unidades administrativas bajo su adscripción y proponerlos al Coordinador General de Administración para su incorporación en los programas de capacitación de la Institución y, en su caso, participar en su desarrollo;
 
-XIII.- Enviar a la Dirección General de Programación, Organización y Presupuesto los informes sobre el ejercicio del presupuesto y los avances en la ejecución de sus programas, así como la información contable y bancaria correspondiente, y
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-XIV.- Las demás que les confieran otros ordenamientos jurídicos y el Procurador.
+XIII.- Enviar a la Dirección General de Programación, Organización y Presupuesto los informes sobre el ejercicio del presupuesto y los avances en la ejecución de sus programas, así como la información contable y bancaria correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XIV.- Proponer al Coordinador General de Administración, en el ámbito de sus respectivas competencias, los precios y tarifas y, en su caso, su actualización, de los bienes y servicios que ofrecen al público a través de las unidades administrativas de su adscripción, y
+
+XV.- Las demás que les confieran otros ordenamientos jurídicos y el Procurador.
 
 ###### ARTÍCULO 10.
 
@@ -205,15 +227,21 @@ Son facultades de los Subprocuradores:
 
 I.- Conocer y analizar los hechos que puedan adecuarse a los supuestos previstos en los artículos 24, fracción XVII y 26 de la Ley, y solicitar la intervención que corresponda a la Subprocuraduría Jurídica;
 
-II.- Requerir de las autoridades, los proveedores y los consumidores, la información necesaria para el ejercicio de las atribuciones que confiere la Ley a la Procuraduría, así como para sustanciar los procedimientos respectivos;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+II.- Requerir de las autoridades, los proveedores y los consumidores, la información necesaria para el ejercicio de las atribuciones que confieren la Ley y otros ordenamientos legales a la Procuraduría, así como para sustanciar los procedimientos respectivos;
 
 III.- Previo acuerdo con el Procurador y conforme a lo dispuesto en la Ley, requerir a los proveedores o a las autoridades competentes a que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los intereses de los consumidores y, en su caso, publicar dicho requerimiento en periódicos de circulación nacional, regional o local, según corresponda;
 
 IV.- Ordenar, en el ámbito de su competencia, las medidas precautorias previstas por la Ley; aplicar las medidas de apremio e imponer las sanciones que correspondan de acuerdo a la Ley y a otras leyes, en el ámbito de su competencia, así como adoptar las medidas necesarias para su ejecución;
 
-V.- Suscribir los actos, resoluciones y demás documentos que correspondan conforme a su ámbito de competencia y en términos de lo dispuesto por la Ley, los ordenamientos aplicables y, en su caso, los lineamientos de la Subprocuraduría Jurídica, así como ordenar los trámites conducentes para la sustanciación de los procedimientos correspondientes;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-VI.- Condonar, reducir o conmutar las multas y demás sanciones conforme a lo dispuesto en la Ley y los criterios que determine el Procurador;
+V.- Suscribir los actos, resoluciones y demás documentos que correspondan conforme a su ámbito de competencia y en términos de lo dispuesto por la Ley, los ordenamientos legales aplicables y, en su caso, los lineamientos de la Subprocuraduría Jurídica, así como ordenar los trámites conducentes para la sustanciación de los procedimientos correspondientes;
+
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+VI.- Condonar, reducir o conmutar las multas conforme a lo dispuesto en la Ley y los criterios que determine el Procurador;
 
 VII.- Colaborar con las autoridades y organismos competentes en el desarrollo de las actividades y programas para lograr la eficaz protección de los intereses del consumidor;
 
@@ -227,19 +255,35 @@ X.- Participar en actividades de metrología, normalización y evaluación de la
 
 Son atribuciones del Subprocurador de Servicios:
 
-I.- Vigilar, coordinar y controlar los procedimientos de conciliación, arbitraje y por infracciones a la Ley, dentro de la competencia de las unidades administrativas que se le adscriban;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-II.- Emitir, previo dictamen de la Subprocuraduría Jurídica, los lineamientos y criterios para la aplicación de los procedimientos previstos en la fracción anterior, así como los relativos, en el ámbito de su competencia, a la bonificación o compensación establecida por la Ley y a la emisión del dictamen a que se refieren los artículos 114, 114 BIS y 114 TER de la propia Ley y supervisar su cumplimiento;
+I.- Vigilar, coordinar, controlar, sustanciar y resolver los procedimientos de conciliación, arbitraje y por infracciones a la Ley, dentro de la competencia de las unidades administrativas que se le adscriban;
 
-III.- Coordinar, instrumentar, vigilar y controlar los procedimientos relativos al registro y cancelación de los contratos de adhesión previstos en la Ley;
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-IV.- Monitorear y evaluar la publicidad relativa a bienes, productos y servicios que se difunda por cualquier medio de comunicación y ordenar, en su caso, la suspensión o corrección de aquélla que viole las disposiciones de la Ley, así como aplicar las sanciones correspondientes;
+II.- Vigilar, coordinar, controlar, sustanciar y resolver los procedimientos que deriven de ordenamientos legales diferentes a la Ley, que sean de competencia de la Procuraduría, dentro de las atribuciones de las unidades administrativas que se le adscriban;
 
-V.- Coordinar y convenir acciones de protección al consumidor con proveedores, instituciones y organizaciones de los sectores público, social y privado;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-VI.- Procurar la solución de las diferencias entre consumidores y proveedores conforme a los procedimientos establecidos en la Ley, y
+III.- Emitir, previo dictamen de la Subprocuraduría Jurídica, los lineamientos y criterios para la aplicación de los procedimientos previstos en las fracciones anteriores, así como los relativos, en el ámbito de su competencia, a la bonificación o compensación establecida por la Ley y a la emisión del dictamen a que se refieren los artículos 114, 114 BIS y 114 TER de la propia Ley y supervisar su cumplimiento;
 
-VII.- Resolver y emitir laudos arbitrales, sin perjuicio de las atribuciones que al respecto correspondan a otros servidores públicos.
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+IV.- Coordinar, instrumentar, vigilar y controlar los procedimientos relativos a la revisión, modificación, registro, suspensión del uso y cancelación de los modelos de contratos de adhesión y de estados de cuenta, así como suspensión de otras actividades, previstos en la Ley y en otros ordenamientos legales aplicables;
+
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+V.- Coordinar, instrumentar, vigilar y controlar los procedimientos relativos a las solicitudes de inscripción, cancelación, consulta, renovación, actualización y denuncias, relacionadas con el registro público de consumidores que no deseen que su información sea utilizada para fines mercadotécnicos o publicitarios;
+
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+VI.- Monitorear y evaluar la publicidad relativa a bienes, productos y servicios que se difunda por cualquier medio de comunicación y ordenar, en su caso, la suspensión o corrección de aquélla que viole las disposiciones de la Ley y de otros ordenamientos legales que otorguen competencia a la Procuraduría, así como aplicar las sanciones correspondientes;
+
+VII.- Coordinar y convenir acciones de protección al consumidor con proveedores, instituciones y organizaciones de los sectores público, social y privado;
+
+VIII.- Procurar la solución de las diferencias entre consumidores y proveedores conforme a los procedimientos establecidos en la Ley, y
+
+IX.- Resolver y emitir laudos arbitrales, sin perjuicio de las atribuciones que al respecto correspondan a otros servidores públicos.
 
 ###### ARTÍCULO 12.
 
@@ -255,13 +299,19 @@ IV.- Emitir, previo dictamen de la Subprocuraduría Jurídica, los lineamentos y
 
 V.- Ordenar la verificación y vigilancia de oficio o a petición de parte, en los términos previstos en la Ley y, en el ámbito de su competencia, de la Ley Federal sobre Metrología y Normalización, de las normas a que ésta se refiere y de las demás disposiciones legales, reglamentarias y normativas aplicables;
 
-VI.- Formular y coordinar el establecimiento de mecanismos de colaboración de proyectos de investigación específicos;
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-VII.- Emitir lineamientos en materia de investigación, pruebas y análisis que desarrolle el Laboratorio Nacional de Protección al Consumidor;
+VI.- Comisionar a los servidores públicos que practicarán las visitas de verificación y vigilancia, a efecto de actúen (sic) de manera individual o conjunta;
 
-VIII.- Proponer al Procurador los criterios y requisitos para la expedición de credenciales del personal que participe en diligencias de verificación y, en su caso, expedirlas, y
+VII.- Formular y coordinar el establecimiento de mecanismos de colaboración de proyectos de investigación específicos;
 
-IX.- Ordenar en los términos de la Ley y en el ámbito de su competencia, la verificación y vigilancia de la publicidad e información relativas a bienes, productos y servicios que se difundan por cualquier medio o forma.
+VIII.- Emitir lineamientos en materia de investigación, pruebas y análisis que desarrolle el Laboratorio Nacional de Protección al Consumidor;
+
+IX.- Proponer al Procurador los criterios y requisitos para la expedición de credenciales del personal que participe en diligencias de verificación y, en su caso, expedirlas, y
+
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+X.- Ordenar, en los términos de la Ley y en el ámbito de su competencia, la verificación y vigilancia de la publicidad e información relativas a bienes, productos y servicios que se difundan en aquellos lugares a que se refiere el artículo 96 de la Ley y ordenar también, en su caso, la suspensión o corrección de dicha publicidad o información.
 
 ###### ARTÍCULO 13.
 
@@ -269,7 +319,9 @@ Son atribuciones del Subprocurador Jurídico:
 
 I.- Prestar la consultoría jurídica en la Procuraduría;
 
-II.- Coordinar los procedimientos del registro de personas acreditadas para realizar trámites ante la Procuraduría;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+II.- Coordinar en la Procuraduría los procedimientos relativos al Registro Único de Personas Acreditadas de la Administración Pública Federal;
 
 III.- Revisar y dictaminar los proyectos jurídico-normativos que propongan las unidades administrativas de la Procuraduría conforme al ámbito de su competencia;
 
@@ -285,9 +337,21 @@ VIII.- Ejercer, ante los tribunales competentes las acciones que correspondan a 
 
 IX.- Representar individualmente o en grupo a los consumidores ante proveedores, autoridades administrativas y jurisdiccionales y ejercer las acciones que correspondan en los términos de la Ley;
 
-X.- Denunciar o formular querella ante el Ministerio Público de los hechos que puedan ser constitutivos de delitos y sean del conocimiento de la Procuraduría y, ante las autoridades competentes, los actos que constituyan violaciones administrativas que afecten los intereses de los consumidores, y
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-XI.- Emitir los lineamientos y criterios conforme a los cuales deberán sustanciarse y resolverse los recursos de revisión.
+X.- Denunciar o formular querella ante el Ministerio Público de los hechos que puedan ser constitutivos de delitos y sean del conocimiento de la Procuraduría y, ante las autoridades competentes, los actos que constituyan violaciones administrativas que afecten los intereses de los consumidores;
+
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XI.- Emitir los lineamientos y criterios conforme a los cuales deberán sustanciarse y resolverse los recursos de revisión;
+
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XII.- Representar a la Procuraduría ante los organismos de defensa de los Derechos Humanos, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XIII.- Fungir como enlace de la Procuraduría para la tramitación y atención de los asuntos relacionados con la Comisión Federal de Mejora Regulatoria.
 
 ###### ARTÍCULO 14.
 
@@ -307,7 +371,9 @@ VI.- Coordinar los estudios e investigaciones en materia de relaciones de consum
 
 VII.- Promover y coordinar la integración del acervo bibliográfico y hemerográfico de la Procuraduría, y
 
-VIII.- Establecer y coordinar las relaciones con organizaciones e instituciones extranjeras y organismos internacionales en materias relacionadas con el consumo o la protección al consumidor.
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Coordinar las relaciones con organizaciones e instituciones extranjeras, así como con organismos internacionales en materias relacionadas con el consumo o la protección al consumidor y coordinarse con la Subprocuraduría Jurídica, para la elaboración y revisión de los documentos e instrumentos jurídicos correspondientes.
 
 ###### ARTÍCULO 15.
 
@@ -315,7 +381,9 @@ Son atribuciones del Coordinador General de Educación y Divulgación:
 
 I.- Planear y establecer los programas de educación para el consumo y los de difusión a través publicaciones, radio y televisión y de organización de consumidores con el propósito de informar a los consumidores sobre sus derechos, la calidad y mejores condiciones de compra de bienes y servicios, así como para orientar a la industria y al comercio respecto de las necesidades y problemas de los consumidores;
 
-II.- Proponer nuevos o mejores sistemas y mecanismos que faciliten a los consumidores el acceso a bienes y servicios en mejores condiciones de mercado;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+II.- Proponer al Procurador sistemas y mecanismos que faciliten a los consumidores el acceso a bienes y servicios en mejores condiciones de mercado;
 
 III.- Formular y coordinar proyectos para el desarrollo de asociaciones de consumidores que prevean, entre otros rubros, el establecimiento de mecanismos para su financiamiento;
 
@@ -337,7 +405,9 @@ I.- Establecer las normas, criterios, sistemas y procedimientos para la administ
 
 II.- Autorizar los manuales y guías técnicas de la Procuraduría y establecer las políticas y lineamientos para su elaboración;
 
-III.- Coordinar la formulación del programa operativo anual y del proyecto de presupuesto de la Procuraduría y gestionar su autorización y modificaciones, así como vigilar su cumplimiento;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+III.- Coordinar la formulación de programas presupuestarios y del proyecto de presupuesto de la Procuraduría, así como vigilar su ejercicio y cumplimiento;
 
 IV.- Asignar anualmente presupuesto a cada unidad administrativa de la Procuraduría conforme al aprobado a la Institución para el cumplimiento de sus metas y establecer los lineamientos para la administración, ejercicio, control y evaluación programática presupuestal;
 
@@ -345,7 +415,9 @@ V.- Autorizar la documentación necesaria para el ejercicio y la comprobación d
 
 VI.- Por acuerdo del Procurador, suscribir aquellos documentos que impliquen actos de administración;
 
-VII.- Representar a la Procuraduría en los convenios y contratos en que sea parte y que afecten su presupuesto;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+VII.- Representar a la Procuraduría en los convenios y contratos en que sea parte y que afecten su presupuesto o patrimonio;
 
 VIII.- Proponer al Procurador las medidas técnicas y administrativas para la mejor organización y funcionamiento de la Institución;
 
@@ -357,13 +429,23 @@ XI.- Establecer y coordinar el programa de protección civil para la Procuradur�
 
 XII.- Coordinar las relaciones laborales de la Procuraduría y vigilar la correcta aplicación de las disposiciones aplicables en la materia;
 
-XIII.- Establecer los programas de capacitación en la Procuraduría;
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-XIV.- Expedir las credenciales o identificaciones a los servidores públicos y demás personas que presten sus servicios a la Procuraduría, con excepción de aquellas que se utilicen para diligencias de verificación;
+XIII.- Rescindir e imponer medidas disciplinarias en materia laboral a los servidores públicos de la Procuraduría, que incurran en faltas en el desempeño de sus funciones;
 
-XV.- Emitir los dictámenes administrativos relacionados con las modificaciones a las estructuras orgánicas y ocupacionales, así como de las plantillas de personal operativo de la Procuraduría, y
+XIV.- Establecer los programas de capacitación en la Procuraduría;
 
-XVI.- Normar y supervisar el funcionamiento de las áreas de administración de las diversas unidades administrativas de la Procuraduría.
+XV.- Expedir las credenciales o identificaciones a los servidores públicos y demás personas que presten sus servicios a la Procuraduría, con excepción de aquellas que se utilicen para diligencias de verificación;
+
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XVI.- Emitir los dictámenes administrativos relacionados con las modificaciones a las estructuras orgánicas y ocupacionales, así como de las plantillas de personal operativo de la Procuraduría;
+
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XVII.- Proponer al Procurador, los precios y tarifas de los bienes y servicios que de acuerdo con la normatividad vigente pueda cobrar la Procuraduría, así como gestionar su autorización ante las autoridades competentes, y
+
+XVIII.- Normar y supervisar el funcionamiento de las áreas de administración de las diversas unidades administrativas de la Procuraduría.
 
 ### CAPÍTULO IV. DE LAS DIRECCIONES GENERALES
 
@@ -379,7 +461,9 @@ II.- Administrar los recursos presupuestales que para el cumplimiento de sus fun
 
 III.- Proponer al Procurador, Subprocurador o Coordinador General al que se encuentren adscritos, la celebración de convenios y otros instrumentos jurídicos con otras dependencias, entidades del sector público y organismos privados, a fin de ejercer las atribuciones que les han sido encomendadas;
 
-IV.- Requerir a las autoridades, proveedores y consumidores, que proporcionen la información necesaria para sustanciar los procedimientos previstos en la Ley;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+IV.- Requerir a las autoridades, proveedores y consumidores, que proporcionen la información y documentación necesaria para sustanciar los procedimientos previstos en la Ley;
 
 V.- Proponer al Subprocurador o Coordinador General al que se encuentren adscritos la normatividad y lineamientos de aplicación general en los procedimientos materia de su competencia y una vez emitidos, difundirlos y supervisar su cumplimiento;
 
@@ -405,13 +489,17 @@ XV.- Realizar conforme al ámbito de su competencia monitoreos, pruebas, investi
 
 XVI.- Suscribir sus resoluciones y actuaciones conforme a la Ley, los lineamientos y demás disposiciones aplicables, así como ordenar los trámites conducentes para la sustanciación de los procedimientos correspondientes;
 
-XVII.- Resolver los recursos interpuestos con relación a actos y resoluciones definitivas emitidas por los servidores públicos subalternos;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XVII.- Recibir y sustanciar los recursos de revisión que presenten los particulares en contra de sus actos y resoluciones, así como resolver los interpuestos con relación a los actos y resoluciones emitidos por los servidores públicos subalternos;
 
 XVIII.- Proporcionar asesoría, resolver consultas y orientar a los consumidores y a los proveedores respecto de sus derechos y obligaciones;
 
 XIX.- Analizar los hechos que puedan adecuarse a los supuestos previstos en el artículo 24, fracciones XVII y XX, de la Ley y hacerlos del conocimiento de la Subprocuraduría Jurídica, para los efectos legales conducentes;
 
-XX.- Condonar, reducir, modificar o conmutar las multas y demás sanciones, conforme a lo dispuesto en la Ley y los criterios que determine el Procurador;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XX.- Condonar, reducir, modificar o conmutar las multas, conforme a lo dispuesto en la Ley y los criterios que determine el Procurador;
 
 XXI.- Elaborar y proponer a su superior jerárquico los programas de capacitación que en el ámbito de su competencia se requieran en la Institución y en su caso, participar en su desarrollo;
 
@@ -423,9 +511,11 @@ El Procurador podrá determinar que servidores públicos subalternos a los Direc
 
 ### CAPÍTULO V. DE LAS DELEGACIONES Y SUBDELEGACIONES
 
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 18.
 
-La Procuraduría tendrá las delegaciones y subdelegaciones que determine el Estatuto Orgánico. Los servidores públicos de dichas unidades administrativas ejercerán las atribuciones que la Ley y este Reglamento confieren a la Procuraduría tanto en la circunscripción territorial que a tales unidades determine el Procurador mediante acuerdos, como de manera concurrente en la circunscripción territorial de las delegaciones y subdelegaciones circunvecinas, conforme a los lineamientos que también por acuerdos expida el Procurador y que se publiquen en el Diario Oficial de la Federación.
+La Procuraduría tendrá las delegaciones y subdelegaciones que determine el Estatuto Orgánico. Los servidores públicos de dichas unidades administrativas ejercerán las atribuciones que la Ley, este Reglamento y otros ordenamientos legales confieren a la Procuraduría, tanto en la circunscripción territorial que a tales unidades determine el Procurador mediante acuerdos, como de manera concurrente en la circunscripción territorial de las delegaciones y subdelegaciones circunvecinas, conforme a los lineamientos que también por acuerdos expida el Procurador y que se publiquen en el Diario Oficial de la Federación.
 
 ###### ARTÍCULO 19.
 
@@ -449,15 +539,21 @@ VII.- Exhortar a las partes a designar a la Procuraduría como árbitro en las c
 
 VIII.- Sustanciar juicios arbitrales y emitir los laudos correspondientes;
 
-IX.- Sustanciar y resolver los procedimientos por infracciones a la Ley;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+IX.- Sustanciar y resolver los procedimientos por infracciones a la Ley y demás procedimientos que, en el ámbito de su competencia, le confieran otros ordenamientos legales a la Procuraduría;
 
 X.- Suscribir sus resoluciones y actuaciones conforme a la Ley y los lineamientos y determinaciones que al efecto se emitan y demás disposiciones aplicables, así como ordenar los trámites conducentes para la sustanciación de los procedimientos correspondientes;
 
-XI.- Recibir consignaciones en los casos previstos por la Ley, así como acordar su endoso o transferencia, en términos de la normatividad establecida;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XI.- Recibir consignaciones mediante la exhibición de billetes de depósito en los casos previstos por la Ley, así como acordar su endoso o transferencia, en términos de la normatividad establecida;
 
 XII.- Ordenar la realización de diligencias de acreditación de hechos, notificaciones, peritajes, ejecución de sanciones, monitoreos, pruebas, investigaciones, estudios y evaluaciones de la conformidad;
 
-XIII.- Ordenar la verificación y vigilancia de oficio o a petición de parte, en los términos previstos en la Ley y, en el ámbito de su competencia, de la Ley Federal sobre Metrología y Normalización, de las normas a que ésta se refiere y de las demás disposiciones legales, reglamentarias y normativas aplicables;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XIII.- Ordenar la verificación y vigilancia de oficio o a petición de parte, en los términos previstos en la Ley y, en el ámbito de su competencia, de la Ley Federal sobre Metrología y Normalización, de las normas a que ésta se refiere y de las demás disposiciones legales, reglamentarias y normativas aplicables, y comisionar a los servidores públicos que practicarán las visitas de verificación y vigilancia, a efecto de actúen (sic) de manera individual o conjunta;
 
 XIV.- Expedir las credenciales del personal que participe en diligencias de verificación;
 
@@ -465,7 +561,9 @@ XV.- Levantar, dictaminar y calificar actas de verificación;
 
 XVI.- Ordenar, en el ámbito de su competencia, las medidas precautorias previstas por la Ley; aplicar las medidas de apremio e imponer las sanciones que correspondan, así como adoptar las medidas necesarias para su ejecución;
 
-XVII.- Condonar, reducir, modificar o conmutar multas y demás sanciones impuestas por servidores públicos de su adscripción, conforme a lo dispuesto en la Ley y los criterios que determine el Procurador;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XVII.- Condonar, reducir, modificar o conmutar multas impuestas por servidores públicos de su adscripción, conforme a lo dispuesto en la Ley y los criterios que determine el Procurador;
 
 XVIII.- Promover y apoyar la constitución de asociaciones y organizaciones de consumidores;
 
@@ -473,9 +571,13 @@ XIX.- Asesorar a las asociaciones y organizaciones de consumidores en su funcion
 
 XX.- Capacitar a las asociaciones y organizaciones de consumidores y evaluar el impacto de los proyectos educativos enfocados a la capacitación de los consumidores;
 
-XXI.- Recibir y tramitar para su registro los contratos de adhesión y notificar a los interesados las modificaciones que deberán realizar al modelo de contrato presentado o en su caso, la inscripción del mismo en el Registro Público de Contratos de Adhesión, y vigilar su cumplimiento;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-XXII.- Recibir, analizar y, en su caso, aprobar las solicitudes de Registro de Personas Acreditadas para realizar trámites ante la Procuraduría Federal del Consumidor y realizar las inscripciones que correspondan en dicho registro;
+XXI.- Recibir y tramitar para su revisión, modificación, registro y cancelación, los contratos de adhesión, así como vigilar su cumplimiento y hacer a los interesados las notificaciones que correspondan;
+
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XXII.- Recibir, analizar y, en su caso, aprobar las solicitudes ante el Registro Único de Personas Acreditadas de la Administración Pública Federal;
 
 XXIII.- Recibir y sustanciar los recursos de revisión que presenten los particulares en contra de sus resoluciones;
 
@@ -503,15 +605,25 @@ XXXIV.- Resguardar la documentación comprobatoria del gasto;
 
 XXXV.- Enviar a la Dirección General de Programación, Organización y Presupuesto los informes sobre el ejercicio del presupuesto y los avances en la ejecución de sus programas, así como la información contable y bancaria correspondiente;
 
-XXXVI.- Llevar la contabilidad de la Delegación, la cual incluirá las cuentas para registrar activos y pasivos, ingresos, costos y gastos, así como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas del presupuesto, de conformidad con la Ley de Presupuesto, Contabilidad y Gasto Público Federal;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XXXVI.- Llevar la contabilidad de la Delegación, la cual incluirá las cuentas para registrar activos y pasivos, ingresos, costos y gastos, así como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas del presupuesto, de conformidad con lo establecido por las disposiciones legales, reglamentarias y normativas aplicables;
 
 XXXVII.- Expedir copias certificadas de expedientes y documentos a cargo de la Delegación;
 
-XXXVIII.- Recibir las quejas y denuncias que se presenten en contra de servidores públicos adscritos a la Delegación y transmitirlas al Órgano Interno de Control;
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-XXXIX.- Supervisar el cumplimiento de los lineamientos y demás disposiciones aplicables en la delegación y subdelegaciones adscritas, y
+XXXVIII.- Aplicar el cobro de los precios y tarifas autorizadas por las autoridades competentes o fijadas por el Procurador, de los bienes y servicios que les correspondan;
 
-XL.- Informar a la Dirección General de Delegaciones de la Procuraduría y, en su caso, a las unidades centrales que correspondan, sobre el cumplimiento de sus atribuciones, el desempeño de sus actividades, el desarrollo de sus programas y la administración de sus recursos.
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+XXXIX.- Suscribir pedidos o contratos de cualquier naturaleza, hasta por el monto de adjudicación directa establecido en cada ejercicio fiscal, conforme a la normatividad aplicable y previo acuerdo de la Coordinación General de Administración;
+
+XL.- Recibir las quejas y denuncias que se presenten en contra de servidores públicos adscritos a la Delegación y transmitirlas al Órgano Interno de Control;
+
+XLI.- Supervisar el cumplimiento de los lineamientos y demás disposiciones aplicables en la delegación y subdelegaciones adscritas, y
+
+XLII.- Informar a la Dirección General de Delegaciones de la Procuraduría y, en su caso, a las unidades centrales que correspondan, sobre el cumplimiento de sus atribuciones, el desempeño de sus actividades, el desarrollo de sus programas y la administración de sus recursos.
 
 Las Delegaciones ejercerán sus atribuciones de acuerdo con los lineamientos, criterios, instrucciones y acuerdos que el Procurador, los Subprocuradores, los Coordinadores Generales y la Dirección General de Delegaciones, en el ámbito de sus respectivas competencias, expidan con fundamento en la Ley, el Reglamento, el Estatuto Orgánico y los demás ordenamientos jurídicos que emanen de aquélla.
 
@@ -519,13 +631,21 @@ Las Delegaciones ejercerán sus atribuciones de acuerdo con los lineamientos, cr
 
 El Delegado será el responsable del ejercicio de las atribuciones señaladas en el artículo previo. Con independencia de lo anterior, las atribuciones podrán ser ejercidas por los siguientes servidores públicos:
 
-I.- Al Jefe de Departamento de Servicios competerá el ejercicio de las atribuciones indicadas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XVI, XXI, XXIII, XXXVII y XL;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-II.- Al Jefe de Departamento de Verificación y Vigilancia corresponderá el ejercicio de las atribuciones mencionadas en las fracciones IV, IX, X, XII, XIII, XV, XVI, XXIII, XXXVII y XL;
+I.- Al Jefe de Departamento de Servicios competerá el ejercicio de las atribuciones indicadas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XVI, XXI, XXIII, XXXVII y XLII;
 
-III.- Al Jefe de Departamento de Educación y Divulgación competerá el ejercicio de las atribuciones indicadas en las fracciones XVIII, XIX, XX, XXVII y XL, y
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-IV.- Al responsable o encargado administrativo corresponderá el ejercicio de las atribuciones previstas en las fracciones XXXII, XXXIII, XXXIV, XXXVI y XL.
+II.- Al Jefe de Departamento de Verificación y Vigilancia corresponderá el ejercicio de las atribuciones mencionadas en las fracciones IV, IX, X, XII, XIII, XV, XVI, XXIII, XXXVII y XLII;
+
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+III.- Al Jefe de Departamento de Educación y Divulgación competerá el ejercicio de las atribuciones indicadas en las fracciones XVIII, XIX, XX, XXVII y XLII, y
+
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+IV.- Al responsable o encargado administrativo corresponderá el ejercicio de las atribuciones previstas en las fracciones XXXII, XXXIII, XXXIV, XXXVI y XLII.
 
 ###### ARTÍCULO 21.
 
@@ -533,9 +653,13 @@ Al frente de cada una de las Subdelegaciones habrá un Subdelegado, quien será 
 
 Las Subdelegaciones estarán adscritas a las Delegaciones, de conformidad con lo establecido en el Estatuto y estas últimas tendrán la responsabilidad de coordinar y supervisar la operación y funcionamiento de aquéllas.
 
-Los Subdelegados tendrán las mismas atribuciones que los delegados excepto las señaladas en las fracciones XIV, XVII, XXII, XXIV, XXV, XXVI, XXIX, XXX, XXXI, XXXV, XXXVIII y XXXIX, del artículo 19 del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-Los Subdelegados podrán ejercer las atribuciones relacionadas con el procedimiento de verificación y vigilancia sólo como consecuencia de las órdenes e instrucciones que al efecto emitan el Subprocurador de Verificación y Vigilancia, los Directores Generales de la materia o el Delegado correspondiente.
+Los Subdelegados tendrán las mismas atribuciones que los delegados excepto las señaladas en las fracciones XIV, XVII, XXII, XXIV, XXV, XXVI, XXIX, XXX, XXXI, XXXV, XL y XLI, del artículo 19 del presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+
+Los Subdelegados podrán ejercer las atribuciones relacionadas con el procedimiento de verificación y vigilancia sólo como consecuencia de las órdenes e instrucciones que al efecto emitan el Subprocurador de Verificación, los Directores Generales de la materia o el Delegado correspondiente.
 
 Los Subdelegados deberán informar a la Delegación a la que estén adscritos sobre el cumplimiento de sus atribuciones, el desempeño de sus actividades, el ejercicio del presupuesto, los registros de contabilidad de la Subdelegación y el desarrollo de los programas que se les asignen.
 
@@ -548,3 +672,11 @@ SEGUNDO.- Se abroga el Reglamento de la Procuraduría Federal del Consumidor pub
 TERCERO.- Los procedimientos y recursos iniciados conforme al Reglamento que se deroga, se seguirán substanciando ante las unidades administrativas equivalentes previstas en el presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de julio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 14 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La entrada en vigor del presente Decreto no implicará erogaciones adicionales, por lo que la Procuraduría Federal del Consumidor debe sujetarse al Presupuesto de Egresos de la Federación para el ejercicio fiscal en curso y no incrementar su presupuesto regularizable.
