@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2008-12-31"
+last_updated: "2009-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -1119,13 +1119,21 @@ Para efectuar la toma de órganos y tejidos se requiere el consentimiento expres
 
 Tratándose de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, bastará el simple consentimiento por escrito del donante.
 
-El disponente originario podrá revocar el consentimiento en cualquier momento y sin responsabilidad de su parte.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+La manifestación del disponente originario, se considerará como disposición testamentaria, para todos los efectos a los que haya lugar, por lo que sus herederos no podrán oponerse a la donación.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+El consentimiento expreso de la donación, cuando corresponda a mayores de edad con capacidad jurídica, no podrá ser revocado por terceros, pero el donante podrá revocar su consentimiento en cualquier momento, sin responsabilidad de su parte.
 
 ###### ARTICULO 102.
 
 Cuando el disponente originario no haya otorgado su consentimiento en vida para la utilización de órganos, tejidos y sus componentes de su cadáver, se requerirá el consentimiento o autorización de los disponentes a que se refiere el artículo 316 de la Ley General de Salud; excepto cuando la autoridad competentes (sic) de conformidad con la Ley, ordene la necropsia, en cuyo caso la toma de órganos, tejidos y sus componentes, no requerirá de autorización o consentimiento alguno.
 
-Las Instituciones hospitalarias del Sistema Estatal de Salud deberán notificar al Registro Estatal de Trasplantes de los decesos ocurridos en sus instalaciones con el fin de facilitar la donación altruista de los órganos.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
+Las Instituciones hospitalarias del Sistema Estatal de Salud, y la Procuraduría General de Justicia del Estado, deberá notificar al Registro Estatal de Transplantes (sic) de los decesos ocurridos de los que tengan conocimiento, con el fin de facilitar la donación altruista de los órganos.
 
 ###### ARTICULO 103.
 
@@ -2940,5 +2948,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE DICIEMBRE DE 2008.
 
 PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
