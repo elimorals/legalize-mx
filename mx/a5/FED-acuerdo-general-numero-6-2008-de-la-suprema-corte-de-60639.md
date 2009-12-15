@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-6-2008-de-la-suprema-corte-de-60639"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-23"
-last_updated: "2008-04-23"
+last_updated: "2009-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60639&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-04-09"
 
 ACUERDO GENERAL NUMERO 6/2008, DE OCHO DE ABRIL DE DOS MIL OCHO DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA REMISION DE LOS EXPEDIENTES DE LOS ASUNTOS EN LOS QUE SE IMPUGNAN LOS ARTICULOS DEL 148 AL 155 DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL REFORMADOS Y ADICIONADOS MEDIANTE DECRETO PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL VEINTISIETE DE DICIEMBRE DE DOS MIL SIETE, Y ARTICULOS DE LA LEY EMPRESARIAL A TASA UNICA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL UNO DE OCTUBRE DE DOS MIL SIETE, AMBOS VIGENTES EN EL AÑO DOS MIL OCHO, POR PARTE DE LOS JUZGADOS DE DISTRITO Y AL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 15/2009, DE SIETE DE DICIEMBRE DE DOS MIL NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 15 DE DICIEMBRE DE 2009, SE LEVANTAN LA RESERVA DE ENVIO A LOS TRIBUNALES COLEGIADOS EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO Y EL APLAZAMIENTO DEL DICTADO DE LA SENTENCIA EN LOS ASUNTOS DE SU CONOCIMIENTO EN LOS QUE SE IMPUGNAN LOS ARTICULOS 148 AL 155 DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL, REFORMADOS Y ADICIONADOS MEDIANTE DECRETOS PUBLICADOS EN LA GACETA OFICIAL DE ESA ENTIDAD EL VEINTISIETE DE DICIEMBRE DE DOS MIL SIETE Y EL VEINTINUEVE DE DICIEMBRE DE DOS MIL OCHO, VIGENTES EN DOS MIL OCHO Y DOS MIL NUEVE, RESPECTIVAMENTE, ASI COMO LA DEVOLUCION A DICHOS TRIBUNALES, PARA SU RESOLUCION, DE LOS QUE SE ENCUENTRAN EN LA SUPREMA CORTE.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de abril de 2008.
 
@@ -68,3 +70,23 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Guillermo 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este ACUERDO GENERAL NUMERO 6/2008, DE OCHO DE ABRIL DE DOS MIL OCHO DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA REMISION DE LOS EXPEDIENTES DE LOS ASUNTOS EN LOS QUE SE IMPUGNAN LOS ARTICULOS DEL 148 AL 155 DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL REFORMADOS Y ADICIONADOS MEDIANTE DECRETO PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL VEINTISIETE DE DICIEMBRE DE DOS MIL SIETE, Y ARTICULOS DE LA LEY EMPRESARIAL A TASA UNICA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL UNO DE OCTUBRE DE DOS MIL SIETE, AMBOS VIGENTES EN EL AÑO DOS MIL OCHO, POR PARTE DE LOS JUZGADOS DE DISTRITO Y AL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, fue emitido por el Tribunal Pleno en Sesión Privada celebrada hoy, por unanimidad de once votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Mariano Azuela Güitrón, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Juan N. Silva Meza y Presidente Guillermo I. Ortiz Mayagoitia.- México, Distrito Federal, a ocho de abril de dos mil ocho.- Conste .- Rúbrica.
 
 EL CIUDADANO LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia constante de ocho fojas útiles, concuerda fiel y exactamente con su original consistente en el Acuerdo General Plenario Número 6/2008, y se certifica para dar cumplimiento a lo dispuesto en el Punto Segundo Transitorio. México, Distrito Federal, a nueve de abril de dos mil ocho.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE DICIEMBRE DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se levanta el aplazamiento dispuesto en los Acuerdos Generales 6/2008 y 9/2009, de ocho de abril de dos mil ocho y veintiuno de septiembre de dos mil nueve, respectivamente, del dictado de la resolución en los asuntos del conocimiento de los Tribunales Colegiados en Materia Administrativa del Primer Circuito en los que se impugnan los artículos 148 al 155 del Código Financiero del Distrito Federal, y artículo Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Financiero del Distrito Federal, publicados en la Gaceta Oficial de la entidad el veintisiete de diciembre de dos mil siete y el veintinueve de diciembre de dos mil ocho, todos ellos vigentes en dos mil ocho y dos mil nueve, respectivamente, que regulan el pago del impuesto predial; y, en consecuencia, se levanta la reserva de envío de estos asuntos a dichos Tribunales, suspendida mediante el Acuerdo General 10/2008, de seis de octubre de dos mil ocho.
+
+SEGUNDO. Los asuntos a que se refiere el punto anterior, pendientes de resolución tanto en esta Suprema Corte de Justicia de la Nación como en los Tribunales Colegiados en Materia Administrativa del Primer Circuito, deberán ser resueltos por éstos, aplicando la jurisprudencia y tesis aisladas sustentadas por este Alto Tribunal y, en su caso, pronunciarse con plenitud de jurisdicción sobre los demás temas que se hayan hecho valer, aun los de constitucionalidad.
+
+Por tanto, deberán remitirse los asuntos todavía radicados en esta Suprema Corte de Justicia de la Nación a los referidos Tribunales Colegiados de Circuito y éstos conservarán los radicados en ellos.
+
+TERCERO. La remisión de los expedientes a los Tribunales Colegiados en Materia Administrativa del Primer Circuito deberá hacerse observando el trámite dispuesto al respecto en el Acuerdo General 5/2001, de veintiuno de junio de dos mil uno.
+
+TRANSITORIOS:
+
+PRIMERO. Este Acuerdo General entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
