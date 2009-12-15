@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2009-08-19"
+last_updated: "2009-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -1197,59 +1197,83 @@ El Secretario General de Gobierno, en unión del Procurador General de Justicia,
 
 ### CAPITULO I. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 81.
 
-El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, en el Consejo de la Judicatura y en los Juzgados que la ley determine.
+El ejercicio de la función jurisdiccional corresponde al Poder Judicial, en el ámbito de su competencia y se deposita en el Tribunal Superior de Justicia y en los Juzgados que la ley determine.
 
-El Tribunal Superior de Justicia se integrará por siete Magistrados Numerarios y funcionará en Pleno o en Salas. Se podrán nombrar hasta tres Magistrados Supernumerarios.
+El Tribunal Superior de Justicia, se integrará por diecisiete Magistrados Numerarios y funcionará en Pleno o en Salas, Colegiadas o Unitarias.
+
+Se podrán nombrar hasta tres Magistrados Supernumerarios y durarán en su cargo 5 años.
+
+La ley establecerá los términos y condiciones para la solución de conflictos mediante procedimientos alternativos de justicia y juicios orales.
+
+Las autoridades están obligadas al estricto cumplimiento de las sentencias y resoluciones emitidas por el Poder Judicial, así como a prestar el auxilio que resulte necesario para el desarrollo de la función jurisdiccional. El incumplimiento de las resoluciones judiciales por parte de las autoridades será sancionado de conformidad con lo que establezca la ley.
 
 En los términos en que la ley disponga, las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público.
 
-El Consejo de la Judicatura determinará el número, división, especialización por materia y competencia territorial de los Juzgados que la ley establezca, salvo los asuntos en que por disposición legal deba conocer el Pleno del Tribunal Superior de Justicia.
-
-El Pleno del Tribunal Superior de Justicia estará facultado para emitir acuerdos generales, a fin de lograr, mediante una adecuada distribución entre las salas de los asuntos competentes, la mayor prontitud en su despacho.
+Es facultad del Pleno del Tribunal Superior de Justicia, emitir los acuerdos generales necesarios para el mejor y pronto despacho de los asuntos.
 
 La remuneración que perciban por sus servicios los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y Jueces no podrá ser disminuida durante su encargo.
 
-Los Magistrados del Tribunal Superior de Justicia durarán en su encargo diez años y sólo podrán ser removidos del mismo en los términos del Título Octavo de esta Constitución y, al vencimiento de su período, tendrán derecho a un haber por retiro.
+Los Magistrados del Tribunal Superior de Justicia durarán en su encargo diez años, podrán ser ratificados, y si lo fueren, sólo podrán ser removidos del mismo en los términos del Título Octavo de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-Ninguna persona que haya sido Magistrado podrá ser nombrada para un nuevo período, salvo el caso de los Supernumerarios que hubieren ejercido el cargo por un período no mayor de dos años ininterrumpidos.
+Tres meses antes de que concluya el periodo para el que fue nombrado un Magistrado, en los términos que disponga la ley, el Congreso del Estado, previa opinión del Gobernador y del Consejo de la Judicatura, deberá iniciar un procedimiento de evaluación. Al efecto resolverá en definitiva, oyendo al magistrado, fundando y motivando su resolución, la que se dictará a más tardar treinta días antes de que concluya el periodo respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1995)</small>
+Si el Congreso del Estado resuelve la no ratificación, el Magistrado cesará en sus funciones a la conclusión del periodo para el que fue designado, teniendo derecho a un haber por retiro en los términos que señale la Ley Orgánica del Poder Judicial; y se procederá a realizar un nuevo nombramiento en los términos del artículo 83 de esta Constitución.
+
+En caso de que el Congreso del Estado, omita resolver sobre la ratificación de un Magistrado expresada en los términos antes señalados, el Magistrado se considerará ratificado al cumplirse el periodo para el cual fue nombrado.
+
+Los Magistrados del Tribunal Superior de Justicia, sólo podrán ser privados de sus cargos conforme a las causas y con sujeción a los procedimientos previstos en esta Constitución.
+
+Los Magistrados y Jueces se retirarán de sus cargos en forma forzosa o voluntaria.
+
+Es causa de retiro forzoso:
+
+I.- Padecer incapacidad física o mental declarada legalmente, incluso cuando ésta fuese parcial o transitoria, y siempre que impida el ejercicio de su función.
+
+II.- Al cumplir setenta años de edad.
+
+La Ley Orgánica del Poder Judicial fijará las causas del retiro voluntario, y los beneficios que tendrá el Magistrado o Juez que se retire forzosa o voluntariamente.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 82.
 
-Para ser designado Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
+El Poder Judicial, tendrá competencia en los siguientes asuntos:
 
-I. Ser Ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
+I.- Garantizar la supremacía y tutela de la presente Constitución, interpretarla y anular actos, leyes o normas contrarias a ella;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
+II.- Garantizar y proteger los derechos fundamentales previstos en esta Constitución;
 
-II. Tener cuando menos treinta y cinco años cumplidos al día de la designación;
+III.- Resolver las controversias del orden civil, familiar, penal, de adolescentes del fuero común, y mercantil en jurisdicción concurrente;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
+IV.- Resolver los medios de impugnación en materia electoral en los términos que disponga la ley de la materia; y
 
-III. Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho, expedido por autoridad o institución legalmente autorizada para ello
+V.- Los demás que con base en la Constitución Federal, esta Constitución y demás leyes, se le confieran.
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
-
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
-
-V. Haber residido en el país durante los dos años anteriores al día de la designación, y
-
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 1995)</small>
-
-VI. No haber sido Secretario del Despacho del Poder Ejecutivo, Procurador General de Justicia o Diputado local, durante el año previo al día de la designación.
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 83.
 
-Para designar a cada uno de los Magistrados del Tribunal Superior de Justicia, el Gobernador del Estado someterá una terna a consideración de la Cámara de Diputados la cual, previa comparecencia de las personas propuestas elegirá al Magistrado que deba cubrir la vacante. La elección se hará por el voto de las dos terceras partes de los diputados presentes en la sesión, dentro del improrrogable término de treinta días. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
+Para ser designado Magistrado del Tribunal Superior de Justicia, se necesita:
 
-Si la Legislatura rechazare la totalidad de la terna propuesta, el Gobernador del Estado, someterá a su consideración una nueva, en los términos del párrafo anterior. Si esta segunda terna fuera rechazada, ocupará el cargo la persona que dentro de esa terna designe el Gobernador del Estado.
+I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
+
+II.- Tener cuando menos treinta y cinco años cumplidos al día de la designación;
+
+III.- Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho, expedido por autoridad o institución legalmente autorizada para ello;
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+V.- Haber residido en el país durante los dos años anteriores al día de la designación; y
+
+VI.- No haber sido Secretario del Despacho del Poder Ejecutivo, Procurador General de Justicia o Diputado local, durante el año previo al día de la designación.
+
+Para la designación de los Magistrados del Tribunal Superior de Justicia, el Gobernador someterá una terna a consideración del Congreso, quien previa comparecencia de las personas propuestas elegirá al Magistrado que deba cubrir la vacante. La elección se hará por el voto de las dos terceras partes de los diputados presentes en la sesión, dentro del improrrogable término de treinta días. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador.
+
+Si la Legislatura rechaza la totalidad de la terna propuesta, el Gobernador someterá a su consideración una nueva, en los términos del párrafo anterior. Si esta segunda tampoco es aceptada, ocupará el cargo la persona que dentro de esa terna designe el Gobernador.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
@@ -1257,51 +1281,51 @@ Si la Legislatura rechazare la totalidad de la terna propuesta, el Gobernador de
 
 Los Magistrados del Tribunal Superior de Justicia son inviolables por las opiniones que emitan en el desempeño de sus cargos, y jamás podrán ser reconvenidos por ellas.
 
-Los titulares de los Juzgados deberán satisfacer los requisitos que exija la ley y sólo podrán ser removidos de sus puestos en los términos del Título Octavo de esta Constitución. La ley reglamentará en su caso la duración y los derechos de retiro de los jueces.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+Los titulares de los Juzgados deberán satisfacer los requisitos que exija la ley; durarán en su encargo seis años, a cuyo vencimiento podrán ser ratificados, previa evaluación, en los términos que fije la ley, y si lo fueren, sólo podrán ser removidos de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 85.
 
-La administración, vigilancia y disciplina del Poder Judicial del Estado, estará a cargo del Consejo de la Judicatura en los términos que, conforme a las bases que señala esta Constitución, establezca la ley.
+La planeación del desarrollo institucional, evaluación, administración, vigilancia, disciplina y carrera judicial, del Poder Judicial, estará a cargo del Consejo de la Judicatura en los términos que señale la ley, conforme a las siguientes bases:
 
-El Consejo se integrará por cinco miembros de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; un Magistrado designado preferentemente por cada una de las Salas, un Juez y un Secretario que serán asignados mediante insaculación. Invariablemente, los dos últimos Consejeros deberán reunir los requisitos señalados en el Artículo 82 de esta Constitución.
+1.- Establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-Los cargos anteriores serán compatibles únicamente cuando los Consejeros designados se encuentren en el ejercicio de sus funciones jurisdiccionales que dieron origen a su nombramiento, a cuya separación del cargo se hará nueva designación.
+2.- Determinará el número, división, especialización por materia y competencia territorial de los Juzgados que la ley establezca.
 
-El Consejo funcionará en Pleno o en Comisiones. El Pleno resolverá sobre la designación, adscripción y remoción de Jueces, Secretarios y demás servidores públicos y empleados del Poder Judicial, así como los demás asuntos que la ley determine.
+3.- Resolverá de manera definitiva e inatacable los conflictos entre el Poder Judicial y sus servidores, en los términos que disponga la ley.
 
-Salvo el Presidente del Consejo, los demás Consejeros durarán cinco años en su cargo y serán sustituidos de manera escalonada, sin que por ningún motivo puedan ser nombrados para un nuevo período.
+4.- Podrá expedir acuerdos para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la Ley Orgánica del Poder Judicial.
 
-Los Consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Octavo de esta Constitución.
+5.- El Consejo de la Judicatura, se integrará por el Pleno del Tribunal Superior de Justicia y dos jueces que se elegirán conforme a la Ley Orgánica del Poder Judicial, y será presidido por el Presidente del Tribunal.
 
-La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+6.- En el ejercicio de las facultades a que se refiere el presente artículo, el Consejo de la Judicatura funcionará en Pleno o en Comisiones.
 
-El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley.
+7.- El Consejo Consultivo se integrará por cinco consejeros abogados de reconocido prestigio en el Estado, con carácter honorario, designados por el Tribunal Superior de Justicia y funcionará según lo disponga la ley.
 
-Los conflictos entre el Poder Judicial y sus servidores serán resueltos por el Consejo de la Judicatura Local.
-
-Las decisiones del Consejo serán definitivas e inatacables, salvo las que se refieren a la designación, adscripción y remoción de jueces, las cuales podrán ser revisadas a petición de parte interesada por el Pleno del Tribunal Superior de Justicia, únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca la Ley Orgánica respectiva.
-
-El Consejo de la Judicatura elaborará el presupuesto del Poder Judicial del Estado y lo remitirá para su inclusión en el proyecto de presupuesto de egresos del Estado.
-
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 86.
 
-El Tribunal Superior de Justicia cada año designará uno de sus miembros como Presidente, pudiendo éste ser reelecto.
+El Tribunal Superior de Justicia cada cuatro años, designará uno de sus miembros como Presidente y al concluir su mandato no podrá ser reelecto para el período inmediato.
 
-Cada Magistrado del Tribunal Superior de Justicia, al entrar a ejercer su encargo, protestará ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente, en la siguiente forma:
+El Presidente del Tribunal Superior de Justicia, rendirá anualmente, ante el Congreso, un informe por escrito respecto del ejercicio de facultades y atribuciones que esta Constitución y las leyes confiere al Poder Judicial, en los términos que disponga la ley.
 
-Presidente "¿PROTESTAIS DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE MAGISTRADO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NAYARIT, QUE SE OS HA CONFERIDO Y GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO, ASI COMO LAS LEYES QUE DE ELLAS EMANEN, MIRANDO EN TODO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO?"
+Los Magistrados del Tribunal Superior de Justicia al inicio de su encargo, rendirán protesta ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente en la forma siguiente:
 
-Magistrado "SÍ PROTESTO".
+Presidente del Congreso "¿Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal Superior de Justicia del Poder Judicial del Estado de Nayarit, que se os ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, así como las Leyes que de ellas emanen mirando en todo por el bien y la prosperidad del Estado?"
 
-Presidente "SI NO LO HICIEREIS ASÍ, LA NACION Y NAYARIT OS LO DEMANDE".
+El Magistrado:
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+"Sí, protesto".
 
-El Secretario General de Acuerdos, los Jueces y demás servidores que la ley señale, protestarán ante el Consejo de la Judicatura, en los mismos términos.
+El Presidente:
+
+"Si no lo hiciereis así, la Nación y Nayarit os lo demande".
+
+El Secretario General de Acuerdos, los Jueces y demás servidores que señale la Ley Orgánica del Poder Judicial, protestarán ante el Tribunal Superior de Justicia.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
@@ -1313,13 +1337,17 @@ Si la falta fuere definitiva, entrará provisionalmente en funciones el Magistra
 
 Si el nombramiento estuviere ratificado y el titular no aceptara el cargo, se hará nueva designación.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 88.
 
-Las renuncias de los Magistrados del Tribunal Superior de Justicia solamente procederán por causas graves; serán sometidas al Ejecutivo y si éste las acepta, serán enviadas para su aprobación al Congreso del Estado y, en su receso a la Diputación Permanente.
+Las renuncias de los Magistrados del Tribunal Superior de Justicia solo procederán por causas graves; el Pleno las someterá para su aprobación al Congreso del Estado y, en sus recesos, a la Diputación Permanente.
 
-Las licencias de los Magistrados, cuando no excedan de hasta noventa días, serán concedidas por el Tribunal Superior de Justicia del Estado, las que excedan de este tiempo, las concederá el Gobernador del Estado con la aprobación del Congreso del Estado, o en sus recesos, con la de la Diputación Permanente. Ninguna licencia podrá exceder del término de dos años.
+Las licencias de los Magistrados, cuando no excedan de noventa días, serán concedidas por el Pleno del Tribunal Superior de Justicia; las que excedan de ese tiempo, el Pleno las someterá, para su resolución al Congreso del Estado, o en sus recesos, a la Diputación Permanente.
+
+Ninguna licencia podrá exceder del término de un año.
+
+Las competencias, modo de suplir las faltas y obligaciones de los Magistrados, Jueces y demás Servidores Públicos del Poder Judicial, serán determinadas por su ley orgánica, de conformidad a lo previsto por esta Constitución.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 1989)</small>
 
@@ -1327,25 +1355,77 @@ Las licencias de los Magistrados, cuando no excedan de hasta noventa días, ser�
 
 Los nombramientos de los Magistrados y Jueces del Poder Judicial del Estado, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de acuerdo al procedimiento establecido por esta Constitución y en la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 90.
 
-Los Magistrados del Tribunal Superior de Justicia, los Jueces y Secretarios, así como los Consejeros de la Judicatura, en ejercicio, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, del Estado, Municipios o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficiencia (sic).
+Los Magistrados del Tribunal Superior de Justicia, los Jueces y Secretarios, en ejercicio, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, del Estado, Municipios o de particulares, salvo en instituciones científicas, docentes, literarias o de beneficencia.
 
-Quienes hubieren ocupado el cargo de Magistrados o Consejeros no podrán, dentro del año siguiente a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado, excepto tratándose de negocios propios, de su cónyuge y sus descendientes.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
-Durante dicho plazo, las personas que se hayan desempeñado como Magistrados, salvo que lo hubieren hecho con el carácter de Supernumerarios, no podrán ocupar los cargos señalados en la fracción VI del Artículo 82 de esta Constitución.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
-Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
-La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 91.
 
-Las competencias, modo de suplir las faltas y obligaciones de los Magistrados, Jueces y demás Servidores Públicos y empleados del Poder Judicial, serán determinadas por la Ley Orgánica ajustada a lo previsto por esta Constitución.
+En el Tribunal Superior de Justicia funcionará una Sala Constitucional-Electoral integrada por cinco magistrados, designados por el Pleno.
+
+El Presidente del Tribunal Superior de Justicia será a su vez el Presidente de la Sala Constitucional-Electoral.
+
+La Sala Constitucional-Electoral, conocerá en los términos que señale la ley reglamentaria de los asuntos siguientes:
+
+I.- De las controversias constitucionales que se susciten entre:
+
+a).- El Poder Legislativo y el Ejecutivo;
+
+b).- El Poder Legislativo o Ejecutivo con uno o más municipios del Estado;
+
+c).- Dos o más municipios;
+
+d).- El Poder Legislativo o Ejecutivo con uno o más organismos autónomos del Estado;
+
+e).- Uno o más municipios y uno o más organismos autónomos del Estado.
+
+Lo anterior, siempre que tales controversias no sean competencia de la Suprema Corte de Justicia de la Nación conforme al artículo 105, fracción I, de la Constitución General de la República.
+
+Las controversias tendrán por objeto resolver si la disposición general, el acto o actos impugnados son conformes o contrarios a esta Constitución, y declarar su validez o invalidez.
+
+Siempre que las controversias versen sobre disposiciones generales y la resolución de la Sala Constitucional-Electoral las declare invalidas, dicha resolución tendrá efectos generales cuando hubieren sido aprobadas por una mayoría de por lo menos cuatro votos.
+
+En los demás casos la resolución tendrá efectos únicamente respecto de las partes en la controversia.
+
+II. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.
+
+Las acciones de inconstitucionalidad podrán ejercitarse dentro de los treinta días naturales siguientes a la fecha de la publicación de la norma, por:
+
+a).- El Procurador General de Justicia del Estado;
+
+b).- Cuando menos una tercera parte de los miembros integrantes del Congreso, en contra de leyes o decretos expedidos por la propia legislatura;
+
+c).- Cuando menos una tercera parte de los integrantes de algún Ayuntamiento, en contra de disposiciones generales expedidas por éste;
+
+d).- La Comisión Estatal de Defensa de los Derechos Humanos, en contra de normas generales que vulneren los derechos fundamentales previstos en esta Constitución.
+
+Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas cuando menos por cuatro votos de los integrantes de la Sala Constitucional-Electoral, y surtirán efectos a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+III.- De las acciones de inconstitucionalidad por omisión, en contra de cualquier autoridad, a quien la Constitución o una ley ordena expedir una norma de carácter general y dicha omisión produce violaciones a esta Constitución.
+
+El ejercicio de esta acción corresponderá a cualquier autoridad o vecino del Estado.
+
+La resolución que declare fundada la acción de inconstitucionalidad por omisión, deberá ser aprobada cuando menos por tres votos y fijará el plazo para que la autoridad omisa expida la norma, el cual no podrá exceder de un año.
+
+IV.- De las cuestiones de inconstitucionalidad planteadas por cualquier autoridad u organismo autónomo, cuando consideren de oficio o a petición de parte, que una norma con carácter general, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a esta Constitución, en los términos que establezca la ley;
+
+V.- Conocer y resolver, en los términos de la ley respectiva, del juicio de protección de derechos fundamentales, por actos u omisiones que vulneren los derechos reconocidos por esta Constitución, provenientes de cualquier autoridad;
+
+VI.- Resolver los medios de impugnación en materia electoral en los términos que disponga la ley de la materia; y
+
+VII.- Los demás que con base en la Constitución Federal, esta Constitución y demás leyes, se le confieran.
 
 ### CAPITULO II. Del Ministerio Público
 
@@ -1771,7 +1851,9 @@ Dicho titular, durante el ejercicio de su encargo, no podrá formar parte de nin
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO UNICO. De la Inviolabilidad y Reformas de esta Constitución
+### CAPITULO UNICO. De la Supremacía, Inviolabilidad y Reformas de esta Constitución
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 122.
 
@@ -1903,11 +1985,15 @@ En demandas del orden civil no habrá fuero, ni inmunidad para ningún servidor 
 
 ## TITULO NOVENO
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
 ### CAPITULO UNICO. Prevenciones Generales
 
 > <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1988)</small>
 
 ###### Art. 130.
+
+Esta Constitución es la Ley Suprema del Estado, en cuanto a su régimen interior.
 
 Esta Constitución no perderá su fuerza y vigor aún cuando por trastornos se hubiere interrumpido su observancia. Si por cualquier caso se estableciere un Gobierno contrario a los principios que ella sanciona, una vez restablecido el orden constitucional volverá a ser acatada, exigiéndose la responsabilidad a todos los que la hubieren infringido.
 
@@ -2013,9 +2099,11 @@ La fiscalización de las finanzas de los partidos políticos con registro en el 
 
 Apartado D.- Del Sistema de Medios de Impugnación.
 
-Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un órgano jurisdiccional con autonomía e independencia en sus decisiones quien dará definitividad a las distintas etapas de los procesos electorales en el ámbito de su competencia. Para el ejercicio de sus atribuciones, y funciones se instalará durante los procesos electorales; sus sesiones y resoluciones serán públicas, en los términos que determine la ley.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
-Su integración lo dispondrán la ley de la materia y sus disposiciones reglamentarias.
+Al Poder Judicial le corresponde garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, en los términos que dispone esta Constitución y la ley; actuará con autonomía e independencia en sus decisiones y dará definitividad a las distintas etapas de los procesos electorales en el ámbito de su competencia. Las sesiones y resoluciones serán públicas, en los términos que disponga la ley.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 Las autoridades electorales sustentarán sus determinaciones en los principios rectores de certeza, legalidad, independencia, imparcialidad y objetividad.
 
@@ -2805,13 +2893,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-Para dar cumplimiento a lo dispuesto con relación al órgano jurisdiccional a que se refiere el apartado D del artículo 135, se observarán las siguientes reglas:
-
-I. El actual Tribunal Electoral del Estado, funcionará de forma permanente y concluirá sus funciones el día 14 de Diciembre del año 2010.
-
-II. A partir de la fecha a que se refiere la fracción anterior el órgano jurisdiccional, se instalará e integrará conforme lo disponga la Ley de Justicia Electoral.
-
-III. Si dentro del periodo a que se refiere la fracción I de este artículo, faltare algún Magistrado, el Congreso designará a quien lo sustituya sólo para cubrir el periodo que en dicha fracción se cita.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2009)
 
 ###### ARTÍCULO TERCERO.
 
@@ -2868,3 +2950,39 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente al d
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
 
 Artículo Tercero.- Remítase la presente Minuta con Proyecto de Decreto a los Honorables Ayuntamientos Constitucionales del Estado de Nayarit, para los efectos establecidos en el artículo 131 de la Constitución Política del Estado de Nayarit.
+
+P.O. 15 DE DICIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y administrativas que contravengan el presente Decreto.
+
+Artículo Tercero.- El Congreso en un plazo de tres meses contados a partir de la entrada en vigor del presente Decreto, deberá expedir la Ley Orgánica del Poder Judicial, en tanto ello ocurra se seguirá observando la Ley Orgánica del Poder Judicial vigente siempre que no contraríe lo dispuesto en la presente reforma.
+
+Artículo Cuarto.- El Congreso en un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto, deberá expedir la Ley reglamentaria del artículo 91.
+
+Artículo Quinto.- En un plazo no mayor a 60 días posteriores a la entrada en vigor de este Decreto, el titular del Poder Ejecutivo someterá las ternas respectivas al Congreso, quien deberá elegir dentro de este mismo término a los magistrados que integrarán el Tribunal Superior de Justicia de conformidad al artículo 81 que se contiene en la presente reforma.
+
+Artículo Sexto.- En vista de las atribuciones que el presente Decreto otorga a la Sala Constitucional-Electoral para la resolución de los medios de impugnación en materia electoral, el Tribunal Electoral del Estado de Nayarit, terminará sus funciones una vez integrada aquella; para ello deberá procederse en los siguientes términos:
+
+1. Deberán realizarse todas las acciones jurídicas y administrativas necesarias para proceder a la liquidación del personal y transferencia de los recursos materiales de que disponga, al Poder Judicial.
+
+2. Los actuales Magistrados del Tribunal Electoral del Estado, concluirán sus funciones y recibirán el pago de los haberes a que tienen derecho como si hubieran concluido su encargo de manera ordinaria.
+
+3. El Tribunal Electoral del Estado deberá hacer del conocimiento a la Sala Constitucional-Electoral de los asuntos en trámite.
+
+Artículo Séptimo.- Se deroga el artículo segundo transitorio del Decreto de reformas a la Constitución Política del Estado publicado el 14 de noviembre de 2007.
+
+Artículo Octavo.- Por lo que ve a los actuales integrantes del Consejo de la Judicatura se seguirán las siguientes reglas:
+
+1.- Una vez que hubieren sido nombrados por la Cámara de Diputados los Magistrados en los términos del artículo 81, se realizará una sesión para la instalación del nuevo Consejo de la Judicatura.
+
+2.- Todos y cada uno de los Magistrados formarán parte del mismo y no recibirán remuneración adicional por esa tarea.
+
+3.- Previo a la sesión de instalación el Pleno del Tribunal Superior de Justicia, fijará las reglas administrativas para la integración de los dos consejeros jueces que formarán parte del Consejo de la Judicatura.
+
+Artículo Noveno.- Expedida la ley a que se refiere el artículo tercero transitorio en un plazo no mayor a treinta días posteriores a la entrada en vigor, deberá integrarse el Consejo Consultivo, para lo cual el Tribunal Superior de Justicia requerirá a las Asociaciones de profesionales del derecho legalmente constituidas, realicen propuestas para su integración.
+
+Artículo Décimo.- Por lo que ve a la temporalidad del nombramiento del Magistrado Presidente, una vez que concluya el que se encuentra en funciones, se realizará una elección que tendrá la duración que indica el artículo 86 del presente Decreto.
+
+Artículo Décimo Primero.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado, remítase el presente Decreto a los Ayuntamientos de la entidad.
