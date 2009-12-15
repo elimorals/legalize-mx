@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-10-2008-del-pleno-de-la-suprema-64248"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-11-10"
-last_updated: "2008-11-10"
+last_updated: "2009-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64248&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-10-06"
 
 ACUERDO GENERAL NUMERO 10/2008, DE SEIS DE OCTUBRE DE DOS MIL OCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ORDENA A LOS JUZGADOS DE DISTRITO LA SUSPENSION DEL ENVIO DIRECTO A ESTE ALTO TRIBUNAL Y LA RESERVA DE LA REMISION A LOS TRIBUNALES COLEGIADOS DE CIRCUITO, DE LOS RECURSOS DE REVISION INTERPUESTOS EN CONTRA DE LAS SENTENCIAS DICTADAS EN LOS JUICIOS DE AMPARO EN LOS QUE SE IMPUGNARON LOS ARTICULOS DEL 148 AL 155 DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL, VIGENTE A PARTIR DEL 1o. DE ENERO DE 2008
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 15/2009, DE SIETE DE DICIEMBRE DE DOS MIL NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 15 DE DICIEMBRE DE 2009, SE LEVANTAN LA RESERVA DE ENVIO A LOS TRIBUNALES COLEGIADOS EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO Y EL APLAZAMIENTO DEL DICTADO DE LA SENTENCIA EN LOS ASUNTOS DE SU CONOCIMIENTO EN LOS QUE SE IMPUGNAN LOS ARTICULOS 148 AL 155 DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL, REFORMADOS Y ADICIONADOS MEDIANTE DECRETOS PUBLICADOS EN LA GACETA OFICIAL DE ESA ENTIDAD EL VEINTISIETE DE DICIEMBRE DE DOS MIL SIETE Y EL VEINTINUEVE DE DICIEMBRE DE DOS MIL OCHO, VIGENTES EN DOS MIL OCHO Y DOS MIL NUEVE, RESPECTIVAMENTE, ASI COMO LA DEVOLUCION A DICHOS TRIBUNALES, PARA SU RESOLUCION, DE LOS QUE SE ENCUENTRAN EN LA SUPREMA CORTE.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 10 de noviembre de 2008.
 
@@ -70,3 +72,23 @@ El Presidente de la Suprema Corte de Justicia de la Nación: Ministro, Guillermo
 EL CIUDADANO LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que este Acuerdo General Número 10/2008, DE SEIS DE OCTUBRE DE DOS MIL OCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ORDENA A LOS JUZGADOS DE DISTRITO LA SUSPENSION DEL ENVIO DIRECTO A ESTE ALTO TRIBUNAL Y LA RESERVA DE LA REMISION A LOS TRIBUNALES COLEGIADOS DE CIRCUITO, DE LOS RECURSOS DE REVISION INTERPUESTOS EN CONTRA DE LAS SENTENCIAS DICTADAS EN LOS JUICIOS DE AMPARO EN LOS QUE SE IMPUGNARON LOS ARTICULOS DEL 148 AL 155 DEL CODIGO FINANCIERO DEL DISTRITO FEDERAL, VIGENTE A PARTIR DEL 1o. DE ENERO DE 2008, fue emitido por el Tribunal Pleno en Sesión Privada celebrada hoy, por unanimidad de ocho votos de los señores Ministros Presidente Guillermo I. Ortiz Mayagoitia, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, José Fernando Franco González Salas, Genaro David Góngora Pimentel, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.- México, Distrito Federal, a seis de octubre de dos mil ocho.- Rúbrica.
 
 EL CIUDADANO LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia constante de ocho fojas útiles, concuerda fiel y exactamente con su original consistente en el Acuerdo General Número 10/2008, y se certifica para dar cumplimiento a lo ordenado en el Punto Tercero Transitorio del Acuerdo.- México, Distrito Federal, a seis de octubre de dos mil ocho.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE DICIEMBRE DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se levanta el aplazamiento dispuesto en los Acuerdos Generales 6/2008 y 9/2009, de ocho de abril de dos mil ocho y veintiuno de septiembre de dos mil nueve, respectivamente, del dictado de la resolución en los asuntos del conocimiento de los Tribunales Colegiados en Materia Administrativa del Primer Circuito en los que se impugnan los artículos 148 al 155 del Código Financiero del Distrito Federal, y artículo Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Financiero del Distrito Federal, publicados en la Gaceta Oficial de la entidad el veintisiete de diciembre de dos mil siete y el veintinueve de diciembre de dos mil ocho, todos ellos vigentes en dos mil ocho y dos mil nueve, respectivamente, que regulan el pago del impuesto predial; y, en consecuencia, se levanta la reserva de envío de estos asuntos a dichos Tribunales, suspendida mediante el Acuerdo General 10/2008, de seis de octubre de dos mil ocho.
+
+SEGUNDO. Los asuntos a que se refiere el punto anterior, pendientes de resolución tanto en esta Suprema Corte de Justicia de la Nación como en los Tribunales Colegiados en Materia Administrativa del Primer Circuito, deberán ser resueltos por éstos, aplicando la jurisprudencia y tesis aisladas sustentadas por este Alto Tribunal y, en su caso, pronunciarse con plenitud de jurisdicción sobre los demás temas que se hayan hecho valer, aun los de constitucionalidad.
+
+Por tanto, deberán remitirse los asuntos todavía radicados en esta Suprema Corte de Justicia de la Nación a los referidos Tribunales Colegiados de Circuito y éstos conservarán los radicados en ellos.
+
+TERCERO. La remisión de los expedientes a los Tribunales Colegiados en Materia Administrativa del Primer Circuito deberá hacerse observando el trámite dispuesto al respecto en el Acuerdo General 5/2001, de veintiuno de junio de dos mil uno.
+
+TRANSITORIOS:
+
+PRIMERO. Este Acuerdo General entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
