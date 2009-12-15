@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-11036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-26"
-last_updated: "2008-12-20"
+last_updated: "2009-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 26 de diciembre de 1990.
 
@@ -391,79 +391,653 @@ II.- A manifestar por escrito a la misma Secretaría, la baja de la explotación
 
 Las personas que accidentalmente organicen o exploten las operaciones gravadas por este Título, tendrán además de las obligaciones señaladas en el Artículo anterior la de garantizar a satisfacción de la Secretaria de Finanzas el pago del impuesto a que se refiere este capítulo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO V. DEL IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHICULOS
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO VII (SIC)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+APARTADO "A"
+
+DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
 > <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION PRIMERA. DEL OBJETO
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 33.
 
-Es objeto de este impuesto la tenencia o uso de vehículos de más de 10 años de fabricación anteriores al ejercicio fiscal en que se aplique el impuesto.
+Es objeto de este impuesto, la tenencia o uso de los siguientes vehículos automotores: automóviles, autobuses, camiones y tractores, a excepción de tractores destinados (sic) actividades agrícolas, remolques, semirremolques, motocicletas, embarcaciones y motos acuáticas, de modelo anterior a los diez últimos ejercicios fiscales, que circulen habitualmente por la circunscripción territorial del Estado de Nayarit.
+
+Para los efectos de este artículo, se consideran:
+
+a) Automóviles: vehículos especialmente aptos para el transporte de hasta quince pasajeros accionados con motores de combustión interna; energía eléctrica y/o híbridos.
+
+b) Autobuses: Vehículos destinados para el transporte de más de quince pasajeros, accionados con motores de combustión interna de 4 ó más cilindros;
+
+c) Camiones: Vehículos de cuatro o más ruedas destinado principalmente al transporte terrestre de carga, de bienes, personas o personas y bienes, de cuatro o más ruedas aún cuando se encuentre equipado con más de una cabina para pasajeros, accionados con motores de combustión interna.
+
+d) Tractores: vehículos fabricados para arrastrar remolques, semirremolques o para tirar de ellos, enganchados mediante sistemas mecánicos o hidráulicos, accionados por motores de combustión interna.
+
+e) Remolques y semirremolques: vehículo de carga que consta mínimamente de chasis, ruedas y superficie de carga.
+
+f) Motocicletas: Vehículo de dos o más ruedas impulsado por un motor de autopropulsión, en el que, el cuadro o en su caso, el casco y las ruedas, constituyen la estructura fundamental del vehículo. A este tipo de vehículos cuando están equipados con tres o cuatro ruedas, también se les conoce como trimotos, cuatrimotos o motocarros respectivamente, pudiendo ser accionados con motores de combustión interna y/o energía eléctrica y/o híbridos
+
+g) Embarcación: construcción cóncava capaz de flotar en el agua.
+
+h) Motocicleta acuática: vehículo acuático autopropulsado, con eslora de 2 o más metros, en la que, dado su diseño, los pasajeros no van acomodados dentro de un casco sino sobre el mismo, bien de pie o sentados.
+
+Asimismo, para efectos de este impuesto, se considera que el uso o tenencia del vehículo se efectúa dentro de la circunscripción territorial del Estado de Nayarit, cuando el registro del mismo se realice en el registro vehicular del Estado de Nayarit o en su defecto cuando el domicilio del propietario, tenedor o usuario del vehículo se localice en el propio Estado.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 34.
 
-Es sujeto de este impuesto las personas físicas o morales tenedores o usuarios de los vehículos a que se refiere el artículo anterior.
+Están obligadas al pago de este impuesto las personas físicas y morales que sean usuarias o tenedoras de los vehículos a que se refiere este Apartado, de modelo anterior a los diez últimos ejercicios fiscales, que circulen de manera habitual por la circunscripción territorial del Estado de Nayarit. Se presumirá lo anterior cuando el propietario, usuario o tenedor, tenga domicilio en el propio Estado.
 
-Para los efectos de este impuesto, se considera que el propietario es tenedor o usuario del vehículo, y que el año modelo del vehículo es el de su fabricación.
+Este impuesto se causará por ejercicios fiscales, los cuales se fijarán por año calendario. El pago del impuesto se efectuará durante los tres primeros meses del ejercicio a que corresponda, ante las instituciones u oficinas autorizadas por la Secretaría de Finanzas del Estado, y en las formas por ella aprobadas.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+No estarán obligados al pago de este impuesto los tenedores o usuarios de vehículos automotores que circulen con placas definitivas asignadas por otras entidades federativas, que acrediten ante la Secretaría de Finanzas que se pagó un gravamen similar por el mismo ejercicio fiscal. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas correspondientes al domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público.
 
-#### SECCION TERCERA. DE LA TARIFA
+Para los efectos de este impuesto, la autoridad fiscal presumirá, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor objeto de este impuesto, es quien se encuentra registrado como propietario ante la Secretaría de Finanzas del Estado y que el año modelo del vehículo es el de su fabricación.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+La Federación, el Estado, los Municipios, así como sus organismos y entidades, deberán pagar el Impuesto sobre Tenencia o Uso de Vehículos, con las excepciones que en la misma se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones estatales o municipales o estén exentos de ellos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+REFORMADA SU DENOMINACION, P.O. 15 DE DICIEMBRE DE 2009)
+
+#### SECCION TERCERA. DE LA BASE
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 35.
 
-Servirá de base para el pago del Impuesto Sobre Tenencia o Uso de Vehículos, el número de cilindros del motor del propio vehículo.
+El presente impuesto se causará por la tenencia o uso de automóviles, autobuses, camiones y tractores, a excepción de tractores destinados a actividades agrícolas; remolques, semirremolques, motocicletas, embarcaciones y motos acuáticas que sean de año modelo posterior a diez ejercicios fiscales a partir del año de su fabricación, accionados por motores de combustión interna, y/o energía eléctrica y/o híbridos.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION CUARTA. DEL PAGO
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 36.
 
-Este impuesto se liquidará de acuerdo al número de cilindros como sigue:
+Este impuesto se causará y liquidará de acuerdo a la siguiente tarifa:
 
-Concepto Cantidad a pagar
+A.- Motocicletas de cualquier tipo y modelo CUOTA:
 
-1 y 2 cilindros $47.60
+de las señalados (sic) en este apartado: $ 85.00
 
-3 y 4 cilindros $71 .40
+B.- Demás Vehículos:
 
-5 y 6 cilindros $95.20
+Los demás vehículos determinarán el impuesto a pagar aplicando al impuesto, el porcentaje de reducción establecido en la siguiente tarifa, dependiendo de los años de antigüedad que tenga el vehículo:
 
-8 o más $119.00
+Años de Antigüedad IMPUESTO Factor
 
-> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+Límite Límite de
 
-#### SECCION QUINTA. DEL PAGO
+Inferior Superior reducción
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+de
+
+impuesto
+
+por
+
+antigüedad
+
+11 20 $ 200.00 0
+
+21 25 $ 200.00 0.6
+
+26 En adelante $ 200.00 0.74
+
+Cuando el contribuyente de este impuesto sufra el robo, descompostura que implique la no utilización definitiva del vehículo o pérdida total del vehículo registrado, pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto del mismo.
+
+En los casos de robo del automóvil, descompostura o pérdida total por accidente, el propietario del mismo podrá acreditar la parte de la tenencia pagada no usada en el ejercicio fiscal de que se trate para el pago de este impuesto del año inmediato siguiente, presentando los documentos que acrediten fehacientemente tal situación. Las compañías aseguradoras no podrán acreditar el impuesto correspondiente, tratándose de vehículos recuperados y vendidos, que fueron propiedad de sus asegurados.
+
+El importe a acreditar no será sujeto de devolución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION QUINTA. DE LA RESPONSABILIDAD SOLIDARIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 37.
 
-El pago del impuesto estatal sobre tenencia o uso de vehículos deberá efectuarse por año de calendario, dentro de los tres primeros meses, mediante declaración que presente en las oficinas o instituciones autorizadas por fa Secretaría de Finanzas, que corresponda al domicilio fiscal del contribuyente y en las formas que apruebe la propia Secretaría. Las cantidades que señala esta ley se entenderán actualizadas al 31 de diciembre de 2007.
+Para efectos de este impuesto son responsables solidarios:
+
+I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso de vehículos automotores objeto de este impuesto, sin cerciorarse con la documentación comprobatoria correspondiente de su pago. La responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados;
+
+II.- Las personas físicas o morales con actividad permanente o temporal de compraventa de vehículos automotores, o que los reciban en consignación o comisión, la responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados; y
+
+III.- los (sic) servidores públicos que en ejercicio de sus funciones, autoricen movimientos al Padrón Vehicular del Estado de Nayarit, sin cerciorarse con la documentación comprobatoria correspondiente de su pago. La responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados.
+
+Lo anterior, sin perjuicio de lo señalado en la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION SEXTA. DE LAS EXCEPCIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 38.
+
+Se exceptúan del pago de este impuesto a los vehículos que hayan sufrido robo que implique pérdida total del mismo, en cuyo caso, deberá de acreditarse dicha circunstancia fehacientemente ante la Autoridad.
+
+Cuando el vehículo sufra descompostura que implique la inutilización o pérdida total por accidente del vehículo registrado, se pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto del mismo, siempre y cuando se acredite dicho supuesto a entera satisfacción de la autoridad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION SEPTIMA. DEL PADRON VEHICULAR DEL ESTADO DE NAYARIT
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39.
+
+El Padrón Vehicular del Estado, estará a cargo de la Secretaría de Finanzas, en el cual se inscribirán las unidades que por mandato de la Ley de Tránsito y Transportes del Estado deban de portar placas de circulación asignadas por el Gobierno del Estado.
+
+En el Padrón a que se refiere el párrafo anterior, sólo procederá el registro de los siguientes trámites:
+
+Inscripción, Cambios, Rectificaciones y Bajas.
+
+En los trámites a que se refiere el párrafo anterior, los interesados deberán acreditar la propiedad del vehículo, la residencia o domicilio en el Estado, así como no tener adeudos por contribuciones federales y estatales derivadas por la tenencia o uso de dicho vehículo. Para tal efecto, deberán cumplir con los requisitos que establezcan la Ley o Reglamento respectivo.
+
+La Secretaría de Finanzas mantendrá actualizado el Padrón Vehicular, para lo cual verificará y comprobará la veracidad de los documentos aportados para los diversos trámites. Los propietarios de los vehículos refrendarán su registro y pagarán el derecho de control vehicular a más tardar el 31 de marzo de cada año.
+
+Los propietarios de los vehículos registrados, además de las obligaciones señaladas en párrafos anteriores, deberán cumplir con lo siguiente:
+
+I. Si el vehículo es de procedencia extranjera, deberá acreditar la legal estancia en el país en los términos de la Ley Aduanera.
+
+II.- Presentar los avisos de baja o modificaciones siguientes:
+
+a) Alta por inscripción
+
+b) Por cambio de propietario
+
+c) Por cambio de domicilio
+
+d) Por cambio en el servicio a que se encuentra destinado
+
+e) Baja por venta
+
+f) Baja por robo o destrucción
+
+g) Alta por recuperación del vehículo robado o destruido.
+
+Los trámites deberán efectuarse ante las oficinas de la Secretaría de Finanzas, cumpliendo los requisitos que establezca el Reglamento del Padrón Vehicular.
+
+Para obtener la baja en el Padrón o realizar el canje de placas, será preciso devolver las placas respectivas, salvo en los casos de robo o destrucción.
+
+Se presume, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor, es quien se encuentra registrado como propietario ante la Secretaría de Finanzas del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+APARTADO "B"
+
+DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS NUEVOS Y DE HASTA 9 AÑOS MODELO ANTERIOR
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION PRIMERA. DE LOS SUJETOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-A.
+
+Están obligadas al pago de este impuesto las personas físicas y las morales, tenedoras o usuarias de los vehículos a que se refiere este Apartado, y señalados en el artículo 33 de esta Ley, que circulen de manera habitual por la circunscripción territorial del Estado de Nayarit y tenga su domicilio en el mismo. Para efectos de esta Ley, se presume que el propietario es tenedor o usuario del vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-B.
+
+Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas o instituciones autorizadas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circulación en traslado o alta del vehículo. El impuesto se pagará en las oficinas de la Secretaría de Finanzas que autoricen el registro, alta del vehículo o expida el permiso provisional para circulación en traslado, de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en esta Secretaría cuando el contribuyente acredite tener registrado su domicilio fiscal ante la Secretaría de Finanzas. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave del registro federal de contribuyentes correspondiente en los formatos de pago de este impuesto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-C.
+
+Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este Apartado, correspondiente al primer año de calendario en la Secretaría de Finanzas, en el momento en que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva y se registren en el Padrón Vehicular del Estado. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el Artículo anterior.
+
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar este impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el tercer párrafo de este Artículo.
+
+En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de este Apartado, se pagará el impuesto correspondiente al año de calendario en que se enajene o, importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+Para los efectos de este Apartado, también se consideran automóviles, a los ómnibus; camiones; pick up's y tractores no agrícolas tipo quinta rueda.
+
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este Apartado, se pagará como si éste fuese nuevo.
+
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
+
+MES DE FACTOR APLICABLE AL
+
+ADQUISICIÓN IMPUESTO CAUSADO
+
+FEBRERO 0.92
+
+MARZO 0.83
+
+ABRIL 0.75
+
+MAYO 0.67
+
+JUNIO 0.58
+
+JULIO 0.50
+
+AGOSTO 0.42
+
+SEPTIEMBRE 0.33
+
+OCTUBRE 0.25
+
+NOVIEMBRE 0.17
+
+DICIEMBRE 0.08
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-D.
+
+Para efectos de este Apartado, se entiende por:
+
+I. Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
+
+b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de la Ley, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
+
+II. Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía del Gobierno Federal como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+III. Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás.
+
+IV. Año modelo, el año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1o. de octubre del año anterior y el 30 de septiembre del año que transcurra.
+
+V. Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
+
+VI. Versión, cada una de las distintas presentaciones comerciales que tiene un modelo.
+
+VII. Línea:
+
+a) Automóviles con motor de gasolina o gas hasta de 4 cilindros.
+
+b) Automóviles con motor de gasolina o gas de 5, 6, 8 o más cilindros.
+
+c) Automóviles con motor diesel.
+
+d) Camiones con motor de gasolina, gas o diesel.
+
+e) Tractores no agrícolas tipo quinta rueda.
+
+f) Autobuses integrales.
+
+g) Automóviles eléctricos.
+
+h) Automóviles híbridos.
+
+i) Motocicletas.
+
+VIII. Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-E.
+
+La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Apartado, con las excepciones que en la misma se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION SEGUNDA. DEL OBJETO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-F.
+
+Es objeto de este impuesto, la tenencia o uso de los vehículos a que se refiere el Apartado "B" de este Capítulo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION TERCERA. DE LA BASE
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-G.
+
+El presente impuesto se causará por la tenencia o uso de vehículos a que se refiere este Apartado. La base del impuesto será la que resulte de multiplicar el valor total del vehículo consignado en la primera facturación por la tarifa que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION CUARTA. DEL PAGO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-H.
+
+Los contribuyentes comprobarán el pago del impuesto con el original y/o la copia certificada de la forma de pago del citado impuesto, misma información que deberá de validarse ante la autoridad emisora de dicho comprobante en los términos de la Ley o Reglamento respectivo.
+
+Tratándose de automóviles, autobuses, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
+
+I. En el caso de automóviles nuevos, destinados al transporte de pasajeros o efectos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+
+TARIFA
+
+TASA
+
+LÍMITE LÍMITE CUOTA PARA
+
+INFERIOR SUPERIOR FIJA APLICARSE
+
+SOBRE EL
+
+EXCEDENTE
+
+DEL LÍMITE
+
+INFERIOR
+
+$ $ $ %
+
+0.01 428,768.31 0 3
+
+428768.32 825,140.79 12,863.05 8.7
+
+825,140.80 1 109,080.70 47,347.45 13.3
+
+1,109,080.71 1,393,020.60 85,111.46 16.8
+
+1,393,020.61 En adelante 132,813.36 19.1
+
+II. Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere la Fracción anterior, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en la Fracción anterior, multiplicando el resultado por el factor de 0.80;
+
+III. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos; que cuenten con placas de servicio público de transporte de pasajeros o efectos y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil. Cuando el peso bruto vehícular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+Para los efectos de esta Fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable. Para los efectos de esta fracción, se entiende por automóviles destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-I.
+
+Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+
+TARIFA
+
+LÍMITE LÍMITE CUOTA PARA
+
+INFERIOR SUPERIOR FIJA APLICARSE
+
+SOBRE EL
+
+EXCEDENTE
+
+DEL LÍMITE
+
+INFERIOR
+
+$ $ $ %
+
+0.01 97,826.09 0 3
+
+97,826.10 188,260.87 2,934.78 8.7
+
+188,260.88 253,043.48 10,802.61 13.3
+
+253,043.49 En adelante 19,418.69 16.8
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-J.
+
+Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa del 0%.
+
+Para los efectos de este Artículo, el impuesto únicamente será aplicable a aquellas unidades que para su circulación requieran de placas y tarjeta de circulación expedidas por la autoridad estatal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-K.
+
+Para los efectos de lo dispuesto en los Artículos 39-H; 39-I, y 39-J, de este Apartado, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado, mismo que se obtendrá de conformidad con lo dispuesto en el Penúltimo Párrafo del Artículo 26-A del Código Fiscal del Estado de Nayarit.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+OTROS VEHICULOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-L.
+
+En este artículo se establecen las disposiciones aplicables a las embarcaciones, veleros, esquí acuático motorizado, tabla de oleaje con motor y motocicletas acuáticas nuevas.
+
+Para los efectos de este artículo, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5 %.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+VEHICULOS USADOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-M.
+
+Tratándose de vehículos de fabricación nacional o importados, a que se refieren los Artículos 39-H, Fracción III y 39-J de este Apartado, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+ANOS DE FACTOR
+
+ANTIGÜEDAD
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el Artículo 39-K de este Apartado.
+
+Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados "Taxis", el impuesto sobre tenencia o uso de vehículos se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este Artículo; y
+
+II. La cantidad obtenida conforme a la Fracción anterior se actualizará de conformidad con lo dispuesto en el Artículo 39-K de este Apartado; el resultado obtenido se multiplicará por 0.245%.
+
+Para los efectos de este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-N.
+
+Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años modelo anterior al de aplicación de este Apartado, destinados al transporte de hasta quince pasajeros o efectos, así como de motocicletas, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+ANOS DE ANTIGÜEDAD FACTOR DE DEPRECIACION
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+II. La cantidad obtenida conforme al (sic) Fracción anterior, se actualizará de conformidad con lo dispuesto en el Artículo 39-K de este Apartado; al resultado se le aplicará la tarifa a que hace referencia el Artículo 39-H de este Apartado.
+
+Para efectos de la depreciación y actualización a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-O.
+
+No se pagará el impuesto en los términos de este Apartado por la tenencia o uso de los siguientes vehículos:
+
+I.-Cuando el contribuyente de este impuesto sufra el robo, descompostura parcial que implique la inutilización o pérdida total del vehículo registrado, pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto del mismo.
+
+En los casos de robo del automóvil, descompostura o pérdida total por accidente, el propietario del mismo podrá acreditar la parte de la tenencia pagada no usada en el ejercicio fiscal de que se trate para el pago de este impuesto del año inmediato siguiente, presentando los documentos que acrediten tal situación.
+
+Las compañías aseguradoras no podrán acreditar el impuesto correspondiente, tratándose de vehículos recuperados y vendidos, que fueron propiedad de sus asegurados.
+
+El importe a acreditar no será sujeto de devolución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION QUINTA. DE LA RESPONSABILIDAD SOLIDARIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-P.
+
+Son solidariamente responsables del pago del impuesto establecido en este Apartado:
+
+I. Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto.
+
+II. Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
+
+III. Las autoridades estatales o municipales competentes, que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+
+Las autoridades Estatales competentes, solamente registrarán vehículos cuyos propietarios, tenedores o usuarios se encuentren domiciliados en su territorio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION SEXTA. DE LAS EXENCIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 39-Q.
+
+No se pagará el impuesto, en los términos de este Apartado, por la tenencia o uso de los siguientes vehículos:
+
+I. Los eléctricos utilizados para el transporte público de personas.
+
+II. Los importados temporalmente en los términos de la legislación aduanera.
+
+III. Los vehículos de la Federación, Estados y Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transporte de limpia, pipas de agua, servicios funerarios; así como las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los vehículos destinados a los cuerpos de bomberos.
+
+Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este artículo, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas que se encuentran comprendidos en dichos supuestos.
+
+IV. Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad.
+
+V. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las Fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
+
+### CAPITULO VI. DEL IMPUESTO SOBRE ADQUISICION DE BIENES MUEBLES
 
 #### SECCION PRIMERA. DEL OBJETO
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O.23 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 38.
+###### ARTICULO 40.
 
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
+Es objeto de este Impuesto la Adquisición por compraventa, donación, prescripción o por cualquier otra causa o título de toda clase de bienes muebles usados.
 
 #### SECCION SEGUNDA
 
@@ -471,51 +1045,23 @@ DEL SUJETO.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O.23 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 39.
-
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
-
-#### SECCION TERCERA. DE LA BASE
-
-#### SECCION CUARTA. DE LA CUOTA
-
-#### SECCION QUINTA. DEL PAGO
-
-#### SECCION SEXTA. DE LAS EXENCIONES
-
-#### SECCION PRIMERA. DEL OBJETO
-
-#### SECCION SEGUNDA. DE LOS SUJETOS
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
-
-### CAPITULO VI. DEL IMPUESTO SOBRE ADQUISICION DE BIENES MUEBLES
-
-#### SECCION TERCERA. DE LA BASE
-
-###### ARTICULO 40.
-
-Es objeto de este Impuesto la Adquisición por compraventa, donación, prescripción o por cualquier otra causa o título de toda clase de bienes muebles usados.
-
-#### SECCION CUARTA. DEL PAGO
-
 ###### ARTICULO 41.
 
 Es sujeto la persona que adquiere los bienes y solidariamente responsable del transmisor, a excepción de los bienes muebles enajenados por las empresas en los términos de la Ley del Impuesto al Valor Agregado.
 
-#### SECCION QUINTA. PARA EL FOMENTO DE LA EDUCACION
+#### SECCION TERCERA. DE LA BASE
 
 ###### ARTICULO 42.
 
 Servirá de base para el pago del impuesto a que se refiere este Título, el valor que resulte más alto entre el de la operación, el oficial y en los casos de bienes adquiridos por donación y prescripción el declarado.
 
-#### SECCION SEXTA. PARA LA ASISTENCIA SOCIAL
+#### SECCION CUARTA. DE LA CUOTA
 
 ###### ARTICULO 43.
 
 Este impuesto se causará y pagará conforme a las cuotas y tasas que señala la Ley de Ingresos del Estado.
 
-#### SECCION SEPTIMA. PARA LA UNIVERSIDAD AUTONOMA DE NAYARIT
+#### SECCION QUINTA. DEL PAGO
 
 ###### ARTICULO 44.
 
@@ -529,9 +1075,7 @@ III.- Dentro de los diez días siguientes a la realización de todas las demás 
 
 IV.- Tratándose de adquisiciones de vehículos el adquiriente será responsable del pago del impuesto que hubiera dejado de cubrirse en anteriores operaciones de compraventa.
 
-#### SECCION OCTAVA. DE LAS EXENCIONES
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+#### SECCION SEXTA. DE LAS EXENCIONES
 
 ###### ARTICULO 45.
 
@@ -541,15 +1085,13 @@ No causan el impuesto las operaciones por las que deba pagarse el Impuesto al Va
 
 #### SECCION PRIMERA. DEL OBJETO
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
-
 ###### ARTICULO 46.
 
 Es objeto de los impuestos adicionales el pago de impuestos, de derechos y productos que establezca la Ley de Ingresos del Estado.
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 47.
 
@@ -557,41 +1099,29 @@ Son sujetos de los Impuestos Adicionales los propios Impuestos, Derechos y Produ
 
 #### SECCION TERCERA. DE LA BASE
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
-
 ###### ARTICULO 48.
 
 La Base de los impuestos adicionales, será el monto de lo que pague por concepto de impuestos, derechos y productos.
 
-#### SECCION CUARTA. DE LA CUOTA
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+#### SECCION CUARTA. DEL PAGO
 
 ###### ARTICULO 49.
 
 Los impuestos adicionales se causarán y harán efectivos en el momento en que se paguen los impuestos y derechos que establezca la Ley de Ingresos del Estado.
 
-#### SECCION QUINTA. DEL PAGO
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+#### SECCION QUINTA. PARA EL FOMENTO DE LA EDUCACION
 
 ###### ARTICULO 50.
 
 Este impuesto se causará y pagará conforme a la tarifa que fije la Ley de Ingresos del Estado.
 
-#### SECCION SEXTA. DE LAS EXENCIONES
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+#### SECCION SEXTA. PARA LA ASISTENCIA SOCIAL
 
 ###### ARTICULO 51.
 
 Este impuesto se causará y pagará conforme a las tasas que señala la Ley de Ingresos del Estado.
 
-#### SECCION SEPTIMA
-
-DE LA ESTIMACION DE LAS EROGACIONES.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+#### SECCION SEPTIMA. PARA LA UNIVERSIDAD AUTONOMA DE NAYARIT
 
 ###### ARTICULO 52.
 
@@ -599,9 +1129,9 @@ Este Impuesto se causará y pagará conforme a las tasas que señala la Ley de I
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION OCTAVA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES DE ESTE IMPUESTO
+#### SECCION OCTAVA. DE LAS EXENCIONES
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 53.
 
@@ -613,9 +1143,9 @@ Se exime del pago de los impuestos adicionales a que se refiere este capítulo, 
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
+#### SECCION PRIMERA. DEL OBJETO
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 54.
 
@@ -637,9 +1167,9 @@ El impuesto a que se refiere este capítulo se causará al momento en que se per
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION SEGUNDA. DEL IMPUESTO CEDULAR POR LA PRESTACION DE SERVICIOS PROFESIONALES
+#### SECCION SEGUNDA. DE LOS SUJETOS
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 57.
 
@@ -653,9 +1183,9 @@ El contribuyente trasladará el impuesto, en forma expresa y por separado, a las
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION TERCERA. DEL IMPUESTO CEDULAR POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR EL USO O GOCE TEMPORAL DE BIENES INMUEBLES
+#### SECCION TERCERA. DE LA BASE
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-A], P.O. 17 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 59.
 
@@ -669,11 +1199,9 @@ Los servicios prestados bajo el sistema "todo incluido" por el cual el pago de l
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION PRIMERA. OBJETO Y SUJETOS
+#### SECCION CUARTA. DE LA CUOTA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 61.
 
@@ -681,11 +1209,9 @@ Este impuesto se calculará y liquidará aplicando la tasa que al efecto estable
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION SEGUNDA. BASE, TASA Y PAGO
+#### SECCION QUINTA. DEL PAGO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 62.
 
@@ -695,11 +1221,9 @@ El pago será la cantidad que resulte de aplicar la tasa del impuesto sobre el t
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION TERCERA. RESPONSABILIDAD DE TERCEROS
+#### SECCION SEXTA. DE LAS EXENCIONES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 63.
 
@@ -719,11 +1243,11 @@ F) Internados.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION CUARTA. EXENCIONES
+#### SECCION SEPTIMA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+DE LA ESTIMACION DE LAS EROGACIONES.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 64.
 
@@ -734,6 +1258,10 @@ I.- Cuando no presenten sus declaraciones, o no lleven los libros y registros co
 II.- Cuando por los informes que se obtengan se ponga de manifiesto que entre la tributación pagada en la que debió enterarse, exista discrepancia mayor a un 3%.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION OCTAVA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES DE ESTE IMPUESTO
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 65.
 
@@ -762,6 +1290,10 @@ VI.- Expedir comprobantes por la contraprestación objeto de este impuesto, llev
 DE LOS IMPUESTOS CEDULARES SOBRE LOS INGRESOS DE LAS PERSONAS FISICAS.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 65-A.
 
@@ -801,6 +1333,10 @@ Para los efectos de la presente Sección, a falta de disposición expresa se apl
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
+#### SECCION SEGUNDA. DEL IMPUESTO CEDULAR POR LA PRESTACION DE SERVICIOS PROFESIONALES
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+
 ###### ARTICULO 65-E.
 
 Están obligadas al pago del impuesto establecido en esta Sección, las personas físicas que en el territorio del Estado de Nayarit perciban ingresos derivados de la prestación de servicios profesionales.
@@ -829,7 +1365,11 @@ Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisional
 
 El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo a que se refiere el artículo anterior. Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Nayarit.
 
-Cuando los contribuyentes presten servicios profesionales a las personas morales, éstas deberán retener por concepto del impuesto correspondiente, el monto que resulte de aplicar la tasa del 2%, sobre el monto de los pagos que les efectúen, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 14 de esta Ley. El impuesto retenido en los términos de este párrafo será acreditable contra el impuesto a pagar que resulte en los pagos provisionales de conformidad con este artículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+Cuando los contribuyentes presten servicios profesionales a las personas morales, éstas deberán retener por concepto del impuesto correspondiente, el monto que resulte de aplicar la tasa del 3%, sobre el monto de los pagos que les efectúen, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 14 de esta Ley. El impuesto retenido en los términos de este párrafo será acreditable contra el impuesto a pagar que resulte en los pagos provisionales de conformidad con este artículo.
 
 El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Nayarit. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, ante las oficinas e instituciones de crédito autorizadas.
 
@@ -862,6 +1402,10 @@ IV. Presentar declaraciones provisionales y anual; y
 V. Conservar la contabilidad y los comprobantes de los asientos respectivos, así como aquellos necesarios para acreditar que se ha cumplido con las obligaciones fiscales, de conformidad con lo previsto por el Código Fiscal de la Federación y del Estado Nayarit.
 
 (REUBICADA [N. DE E. ANTES SECCION PRIMERA], P.O. 17 DE NOVIEMBRE DE 2007)
+
+#### SECCION TERCERA. DEL IMPUESTO CEDULAR POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR EL USO O GOCE TEMPORAL DE BIENES INMUEBLES
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-A], P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 65-K.
 
@@ -901,7 +1445,11 @@ Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado po
 
 Los contribuyentes que obtengan ingresos de los señalados en esta Sección efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio que se pagará a la tasa que fije anualmente la Ley de Ingresos del Estado de Nayarit, que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles disminuyendo las deducciones autorizadas por esta ley en ese período. El entero de los pagos provisionales se realizará en las oficinas e instituciones de crédito autorizadas por la Secretaría de Finanzas, teniendo como fecha límite de presentación a más tardar el día 17 del mes inmediato siguiente al mes que corresponde el pago.
 
-Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales, éstas deberán retener como pago provisional el monto que resulte de aplicar la tasa del 2% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas por el artículo 14 de esta Ley. El impuesto retenido en los términos de este párrafo, podrá acreditarse contra el que resulte de conformidad con el párrafo anterior.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
+Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales, éstas deberán retener como pago provisional el monto que resulte de aplicar la tasa del 3% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas por el artículo 14 de esta Ley. El impuesto retenido en los términos de este párrafo, podrá acreditarse contra el que resulte de conformidad con el párrafo anterior.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-E], P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
@@ -959,147 +1507,91 @@ Cuando el contribuyente obtenga ingresos de los previstos en esta Ley y no prese
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-###### ARTICULO 65
+#### SECCION PRIMERA. OBJETO Y SUJETOS
 
-1.- Son objeto del impuesto a que se refiere este Capítulo, sin deducción alguna, los ingresos en efectivo o en especie que realmente se perciban como productos o rendimientos de capitales invertidos, dentro del territorio del Estado o de fuentes de riqueza establecidas en el mismo, por los siguientes conceptos:
-
-I.- Intereses simples o capitalizados sobre préstamos en general, así como de adeudos reconocidos, provenientes de toda clase de actos, convenios o contratos;
-
-II.- Prestaciones que se obtengan con motivo del otorgamiento de fianzas o garantías, cuando no se presten por instituciones legalmente autorizadas;
-
-III.- Descuentos o anticipos sobre toda clase de títulos o documentos;
-
-IV.- Rendimientos de toda clase de bonos y obligaciones emitidos por sociedades mercantiles;
-
-V.- Intereses y demás Ingresos que obtengan los fideicomitentes o los fideicomisarios a través de instituciones fiduciarias como consecuencia de contratos de fideicomiso que generen los productos o rendimientos señalados en las fracciones anteriores;
-
-VI.- Ingresos de Productos de inversiones u operaciones de cualquier clase siempre que los mismos no se encuentren gravados conforme a otras disposiciones de esta Ley, ni expresamente exceptuados por la misma;
-
-VII.- De operaciones en las que el precio a plazos sea mayor que el precio de contado, caso en el cual la diferencia entre uno y otro, será objeto del impuesto;
-
-VIII.- Usufructo de capitales impuestos a rédito;
-
-IX.- Premios, primas, regalías o retribuciones provenientes de la explotación de patentes de invención y de marcas comerciales e industriales.
-
-También se considerarán como percepciones de las enumeradas en esta fracción, las que obtengan los Titulares de patentes o marcas mediante la fijación de un sobreprecio a las mercancías amparadas con dichas patentes o marcas;
-
-X.- Intereses por cantidades que se adeuden sobre el precio en contratos de promesa de venta, de compraventa con reserva de dominio o de compraventa a plazos;
-
-XI.- Intereses provenientes del contrato de cuenta corriente;
-
-XII.- Intereses sobre las cantidades anticipadas a cuenta del precio de toda clase de bienes o derechos.
-
-Para los efectos de este artículo se presumirá, salvo prueba en contrario, que existe derecho a percibir los intereses a que se refieren las fracciones I, V, X, XI y XII de este artículo, no obstante que en los documentos en que se hubieran hecho constar las operaciones relativas no aparezca estipulado ningún interés o cuando se determine que no causaron intereses, y en estos casos el ingreso gravable será el que resulte de aplicar al capital el interés legal que establece el Código Civil del Estado de Nayarit por falta de pago oportuno.
-
-Lo dispuesto en el párrafo anterior no será aplicable a las personas inscritas en el registro de contribuyentes.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 65
 
-2.- Son sujetos del impuesto las personas físicas o morales que perciban en el Estado o de fuentes de riqueza ubicadas en el mismo, ingresos de los mencionados en el artículo anterior, independientemente del lugar donde se otorguen los documentos en que se haga constar el acto generador de crédito fiscal. En consecuencia, es nulo todo pacto o convenio en contrario, cualquiera que sea la fecha y forma en que se hubiera hecho o se hiciera con posterioridad.
+1.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### ARTICULO 65
+
+2.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2009)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-###### ARTICULO 65
+#### SECCION SEGUNDA. BASE, TASA Y PAGO
 
-3.- El impuesto se causará a razón de 3% (tres por ciento) sobre el importe total de los ingresos que se obtengan.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 65
 
-4.- El pago del impuesto deberá efectuarse en las Oficinas o Instituciones autorizadas por la Secretaría de Finanzas, dentro de los días 1o. al 15 del mes siguiente a aquel en que se haya obtenido el ingreso.
+3.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 65
 
-5.- El contribuyente radicado en el Estado está obligado a indicar en el recibo que al efecto deberá expedir, el número del Registro Estatal de Causantes que para este impuesto le corresponda.
+4.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2009)
 
-Quien realice el pago está obligado a recabar dicho recibo.
-
-Los causantes de este impuesto están obligados a presentar ante la Secretaría de Finanzas para su registro, dentro del término de diez días siguientes a su otorgamiento, los documentos en que consten los actos, convenios o demás operaciones de las que se deriven ingresos gravables por este Capítulo.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 65
 
-6.- Para los efectos del pago del impuesto se considera que las cantidades abonadas por el deudor o que en cualquier otra forma obtenga el acreedor por concepto de pago total o parcial del adeudo, se aplican en primer término al pago de los productos o rendimientos del capital invertido.
+5.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### ARTICULO 65
+
+6.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2009)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
-###### ARTICULO 65
+#### SECCION TERCERA. RESPONSABILIDAD DE TERCEROS
 
-7.- Están obligados a retener el impuesto las personas que hagan pagos de los gravados en este Capítulo a contribuyentes radicados dentro o fuera del Estado.
-
-Las personas que efectúen retenciones harán los enteros relativos en el plazo establecido en el artículo 65-4, mediante una declaración en la que expresarán el concepto y monto de las cantidades retenidas.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 65
 
-8.- Los notarios y corredores públicos están obligados a dar aviso a la Secretaría de Finanzas, dentro de los treinta días siguientes a la fecha de su intervención, de cualquier acto en que intervengan del cual puedan derivarse ingresos de los gravados en este Capítulo.
+7.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 65
 
-9.- Los directores y encargados de las oficinas del Registro Público de la Propiedad en el Estado, están obligados a remitir a la Secretaría de Finanzas, dentro de los diez días siguientes a la fecha de su intervención, una copia autorizada de todos los documentos donde consten actos jurídicos de los cuales se deriven ingresos gravados en este Capítulo. Así mismo les queda prohibido registrar o cancelar inscripciones de actos jurídicos o de gravámenes de cualquier naturaleza, en los que se haya generado la obligación de pago de este impuesto, sin que previamente el interesado acredite fehacientemente haber hecho el entero correspondiente.
+8.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 65
 
-10.- Los jueces del Estado están obligados a remitir a la Secretaría de Finanzas, dentro de los diez días siguientes a la fecha en que sean dictadas, una copia certificada de las sentencias ejecutoriadas en las que se condene el pago de alguno o algunos de los conceptos gravados en este Capítulo.
+9.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2009)
 
-La Secretaría de Finanzas del Estado o quien se designe en el Reglamento Interior, está facultada para intervenir en los juicios, en que exista o se presuma la existencia de actos que generen créditos fiscales comprendidos en este Capítulo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### ARTICULO 65
+
+10.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2009)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
+#### SECCION CUARTA. EXENCIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### ARTICULO 65
 
-11.- Están exentos del pago del impuesto a que se refiere este Capítulo:
-
-I.- Los intereses percibidos con motivo de aceptaciones, préstamos u otros créditos a cargo de instituciones de crédito o de organizaciones auxiliares, nacionales y del extranjero;
-
-II.- Los intereses percibidos por las instituciones de crédito o por organizaciones auxiliares, nacionales y del extranjero;
-
-III.- Los intereses provenientes de bonos y obligaciones que emitan instituciones de crédito internacionales, de las que sean accionistas el Gobierno Mexicano o alguna institución nacional de crédito, así como de los que emita el propio Gobierno Federal;
-
-IV.- Los rendimientos de los valores a que se refiere la fracción IV del artículo 65-1, cuando la tasa no exceda de 10 % anual sobre el valor nominal del título;
-
-V.- Los dividendos o utilidades que distribuyan las sociedades establecidas en el País;
-
-VI.- Los intereses o ingresos sobre los cuales se pague el Impuesto al Valor Agregado;
-
-VII.- Los intereses que perciban las fundaciones de Asistencia Pública y Beneficencia Privada constituidas legalmente;
-
-VIII.- Los intereses obtenidos por la enajenación a plazo de inmuebles urbanos y rústicos;
-
-IX.- Los intereses que se perciban en el otorgamiento de créditos para la vivienda de interés social, con motivo de los financiamientos que se otorguen para la construcción, mejoramiento y ampliación de vivienda, así como para el pago de pasivo de las mismas, y;
-
-X.- Intereses y demás percepciones a que se refiere este capítulo, cuando el responsable del pago sea una Institución de Seguros o Fianzas, siempre y cuando dichos intereses y percepciones sean a cargo de su patrimonio.
+11.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2009)
 
 (REUBICADO, P.O. 14 DE DICIEMBRE DE 1996)
 
@@ -1534,3 +2026,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación, en e
 P.O. 20 DE DICIEMBRE DE 2008.
 
 ÚNICO: La presente reforma entrará en vigor el primero de enero de 2009, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del 1° de Enero del año dos mil diez, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
