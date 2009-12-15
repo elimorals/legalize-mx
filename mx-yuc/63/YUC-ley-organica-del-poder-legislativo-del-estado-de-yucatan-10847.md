@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-legislativo-del-estado-de-yucatan-10847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-02-24"
-last_updated: "2008-04-11"
+last_updated: "2009-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de febrero de 1988.
 
@@ -581,13 +581,25 @@ XI.- Derechos Humanos y Grupos Vulnerables.
 
 XII.- Desarrollo Municipal.
 
-> <small>(ADICIONADA, D.O. 10 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, D.O. 15 DE DICIEMBRE DE 2009)</small>
 
-XIII.- Ecología, Protección y Mejoramiento del Ambiente, y
+XIII.- Ecología, Protección y Mejoramiento del Ambiente.
 
-> <small>(ADICIONADA, D.O. 10 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, D.O. 15 DE DICIEMBRE DE 2009)</small>
 
 XIV.- Comunicaciones y Transporte.
+
+> <small>(ADICIONADA, D.O. 15 DE DICIEMBRE DE 2009)</small>
+
+XV.- De los Derechos de Niñas, Niños y Adolescentes y Asuntos de la Familia.
+
+> <small>(ADICIONADA, D.O. 15 DE DICIEMBRE DE 2009)</small>
+
+XVI.- Equidad de Género, y
+
+> <small>(ADICIONADA, D.O. 15 DE DICIEMBRE DE 2009)</small>
+
+XVII.- Para la implementación de la Reforma constitucional y legal en materia de Seguridad y de Justicia.
 
 > <small>(REFORMADO, D.O. 12 DE JUNIO DE 1995)</small>
 
@@ -664,6 +676,18 @@ m).- Ecología, Protección y Mejoramiento del Ambiente. Esta comisión tiene a 
 > <small>(ADICIONADO, D.O. 10 DE JULIO DE 2007)</small>
 
 n).- Comunicaciones y Transporte. Esta Comisión tendrá por objeto estudiar y dictaminar; Investigar y proponer soluciones sobre los asuntos relacionados con las vías de comunicaciones y transportes; mantener estrecha relación con todos los organismos de esta materia, para que en forma coordinada se logren la prestación de mejores servicios; conocerá de los asuntos relacionados con las comunicaciones y transportes que sean de la competencia estatal, así como de las disposiciones de vialidad, relacionadas con el control y el orden de la circulación vehicular y peatonal en las vías públicas del Estado.
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2009)</small>
+
+ñ).- De los Derechos de Niñas, Niños y Adolescentes y Asuntos de la Familia. Esta comisión tiene a su cargo el estudio y dictamen sobre los proyectos de Ley y reformas a disposiciones legales que tengan relación con los derechos de las niñas, niños y adolescentes y asuntos de la familia; para tal efecto, deberá mantener en constante revisión el marco jurídico local y realizar acciones para promover, garantizar y difundir la adecuación de la legislación local a los principios y disposiciones establecidas en la Constitución de los Estados Unidos Mexicanos, la propia del Estado y los instrumentos internacionales, y procurar la participación de las niñas, niños y adolescentes en los asuntos que así lo requieran; y promover dentro del H. Congreso del Estado la debida capacitación para sí mismos en materia de derechos de la Infancia como condición básica para el desempeño de sus funciones. Los asuntos turnados, deberán resolverse a más tardar en el período ordinario posterior al de su recepción;
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2009)</small>
+
+o).- Equidad de Género. Esta Comisión tiene a su cargo el estudio y dictamen sobre los proyectos de Ley y reformas a disposiciones legales que tengan relación con los derechos de las mujeres, atendiendo los temas con perspectiva de género y bajo los enfoques de igualdad, trato, oportunidades y transversalidad, previo estudio de las causas estructurales de la discriminación; a fin de prevenir, atender y erradicar la violencia hacia las mujeres y promover en todas las esferas de la vida social, educativa, cultural, laboral, económica y política, relaciones equitativas e igualitarias entre mujeres y hombres.
+
+> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2009)</small>
+
+p).- Para la implementación de la Reforma constitucional y legal en materia de Seguridad y de Justicia. Esta Comisión tendrá a su cargo el estudio y dictamen sobre los proyectos de Ley y reformas a disposiciones legales que tengan relación o que refieran exclusivamente o sean motivo del Sistema de Justicia Penal; para tal efecto, realizarán medidas que permitan el intercambio de opinión con expertos en la materia o de cualquier persona, institución pública o privada, así como para solicitar la comparecencia de funcionarios o servidores públicos, la suscripción de los convenios de colaboración que sean necesarios para el cumplimiento de sus atribuciones, la coordinación con las instituciones públicas y privadas en la materia y demás acciones necesarias para la adecuada implementación de la reforma constitucional y legal en materia de Seguridad y de Justicia en el Estado.
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1444,3 +1468,21 @@ El Congreso deberá designar al Director del Instituto de Investigaciones Legisl
 ###### ARTÍCULO TERCERO.
 
 El reglamento del Instituto, deberá emitirse a más tardar dentro de los 60 días posteriores al nombramiento del Director, en el que se preverá la estructura orgánica del mismo.
+
+D.O. 15 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+La Gran Comisión de la LVIII Legislatura, deberá presentar al Pleno del H. Congreso del Estado, la propuesta para integración (sic) las Comisiones Permanentes de los Derechos de Niñas, Niños y Adolescentes y Asuntos de la Familia, de Equidad de Género y para la implementación de la Reforma constitucional y legal en materia de Seguridad y de Justicia, en un plazo máximo de quince días contados a partir de la entrada en vigor del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones relativas a la creación y atribuciones de la Comisión Especial Permanente de Equidad y Género, contenidas en el Acuerdo del Poder Legislativo, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 6 de julio del año 2007.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos turnados por la LVIII Legislatura a la Comisión Especial Permanente de Equidad de Género, creada mediante Acuerdo del Poder Legislativo, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 6 de julio del año 2007; a partir de la entrada en vigor de este Decreto, se considerarán turnados a la Comisión Permanente de Equidad y Género, creada por este Decreto.
