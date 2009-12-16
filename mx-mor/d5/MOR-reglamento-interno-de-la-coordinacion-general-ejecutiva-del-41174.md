@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interno-de-la-coordinacion-general-ejecutiva-del-411
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-15"
-last_updated: "2004-09-15"
+last_updated: "2009-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERNO DE LA COORDINACION GENERAL EJECUTIVA DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el lunes 15 de septiembre de 2004.
 
@@ -306,3 +308,23 @@ EL SECRETARIO DE GOBIERNO
 LIC. JESÚS GILES SÁNCHEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE DICIEMBRE DE 2009.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el Reglamento Interno de la Coordinación General Ejecutiva del Consejo Estatal de Seguridad Pública de Morelos, publicado con fecha quince de septiembre del dos mil cuatro, en el Periódico Oficial "Tierra y Libertad", número cuatro mil trescientos cuarenta y nueve. Asimismo se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Reglamento.
+
+TERCERO. Todos los bienes muebles e inmuebles y archivo del Colegio Estatal de Seguridad Pública, creado mediante Decreto publicado en el Periódico Oficial "Tierra y Libertad" número 4445 de fecha 15 de marzo de 2006, y el Estatuto Orgánico del Colegio Estatal de Seguridad Pública publicado en el Periódico Oficial "Tierra y Libertad" número 4469 de fecha 28 de junio de 2006, pasarán a ser patrimonio del Estado Libre y Soberano de Morelos y formarán parte del inventario y archivos del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+Por cuanto a los remanentes financieros del Colegio Estatal de Seguridad Pública, se deberán transferir en forma íntegra al Secretariado Ejecutivo a más tardar el 31 de diciembre del año 2009, de conformidad con el segundo párrafo del artículo octavo transitorio de la Ley del Sistema de Seguridad Pública del Estado de Morelos, recursos que deberán ser destinados para el cumplimiento de los fines del Secretariado Ejecutivo.
+
+Respecto a los recursos humanos del Colegio Estatal de Seguridad Pública, se integrarán conforme lo establezca el presente Reglamento, Manuales de Organización y de acuerdo a las necesidades y requerimientos de las unidades administrativas que conformen el Secretariado Ejecutivo.
+
+CUARTO. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública en coordinación con la Secretaría de Finanzas y Planeación y la Secretaría de Gestión e Innovación Gubernamental, realizará las gestiones legales que correspondan dentro del ámbito de su competencia, tendientes a crear las unidades administrativas que se requieran y sean necesarias para el cumplimiento de las obligaciones del Secretariado Ejecutivo de conformidad con la Ley del Sistema de Seguridad Pública del Estado de Morelos.
+
+QUINTO. Se otorga la facultad al Coordinador del Instituto de Evaluación, Formación y Profesionalización para emitir los oficios y convocatorias correspondientes para dar cumplimiento al artículo transitorio octavo de la Ley del Sistema de Seguridad Pública del Estado de Morelos.
+
+SEXTO. Los Manuales de Organización y Políticas y Procedimientos, deberán adecuarse al presente Reglamento en un plazo no mayor de 6 meses a partir de la entrada en vigor del presente Reglamento y hasta en tanto no se expidan dichos manuales se seguirán aplicando los anteriores en lo que no se contrapongan al presente Reglamento, el Secretario Ejecutivo resolverá las cuestiones de procedimientos y operaciones que se originen por la aplicación de este ordenamiento legal.
