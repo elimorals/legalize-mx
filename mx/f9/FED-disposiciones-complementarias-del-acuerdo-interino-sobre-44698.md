@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-interino-sobre-44698"
 country: "mx"
 rank: "otro"
 publication_date: "2000-06-26"
-last_updated: "2009-02-17"
+last_updated: "2009-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,132 +19,52 @@ issue_date: "2000-06-19"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO INTERINO SOBRE COMERCIO Y CUESTIONES RELACIONADAS CON EL COMERCIO (COMUNIDAD EUROPEA, 1997)
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA, LOMOS DE ATUN ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, EL DECRETO POR EL QUE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, ASI COMO LOS DIVERSOS QUE ESTABLECEN EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA NORTE Y LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de febrero de 2009.
+Decreto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 16 de diciembre de 2009.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-GERARDO RUIZ MATEOS, Secretario de Economía, con fundamento en los artículos 1 de la Decisión 2/2004 del Consejo Conjunto CE-México; 34, fracciones I y XXXI de la Ley Orgánica de la Administración Pública Federal; 5o., fracción V, 13, 23 y 24, segundo párrafo de la Ley de Comercio Exterior; 14, 16, 26, 31 y 32, de su Reglamento; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; y 4o., fracción I, 12 y 13 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que para fortalecer y ampliar las relaciones comerciales con la Comunidad Europea y sus Estados Miembros, el 1 de julio de 2000 entró en vigor la Decisión 2/2000 del Consejo Conjunto CE-México que establece, entre otras, las disposiciones que regulan el comercio de bienes originarios entre las Partes;
+Que para permitir a la industria nacional abastecerse de insumos en condiciones competitivas es necesario exentar de arancel a la importación de determinados productos químicos, llantas nuevas para camión, tablillas de madera para la fabricación de lápices y cabezas de tijeras de podar;
 
-Que la Decisión mencionada en el considerando anterior prevé en su artículo 3 la posibilidad de que las Partes acuerden reducir sus aranceles aduaneros más rápido de lo previsto y que en este supuesto el acuerdo alcanzado por las Partes prevalecerá sobre los términos establecidos en la propia Decisión, y el artículo 10 establece que las Partes podrán examinar la posibilidad de que la Comunidad Europea otorgue a México un cupo con arancel preferencial para lomos de atún;
+Que a fin de brindar mayor claridad en la redacción de las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y evitar errores de clasificación arancelaria por parte de los operadores del comercio exterior resulta conveniente modificar la descripción de algunas fracciones arancelarias de los sectores químico, plástico, cerámico, electromecánico, electrónico, de la madera y de herramientas;
 
-Que el 28 de abril de 2004 el Consejo Conjunto CE-México adoptó la Decisión 2/2004 por la que se introduce un cupo arancelario con tratamiento preferencial para determinados productos originarios de México y enumerados en el Anexo I de la Decisión 2/2000 del Consejo Conjunto CE-México misma que se dio a conocer mediante Acuerdo publicado el 17 de mayo de 2004 en el Diario Oficial de la Federación;
+Que con el objeto de fomentar la competitividad de los sectores electrónico, químico, automotriz, del mueble, juguete, caucho y plástico, se considera conveniente incluir las fracciones arancelarias que clasifican insumos indispensables para la fabricación de bienes finales de dichos sectores en los Programas de Promoción Sectorial;
 
-Que el procedimiento de asignación del cupo que se trata en el presente Acuerdo, es un instrumento de la política sectorial para promover la competitividad de los sectores involucrados, y
+Que ante la necesidad de otorgar al usuario del comercio exterior una mayor certidumbre jurídica en la interpretación de la nomenclatura de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, es conveniente adicionar diversas Notas Aclaratorias;
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que es necesario actualizar el “Decreto por el que se establece el impuesto general de importación para la región fronteriza y franja fronteriza norte”, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2008 y su modificación, a efecto de especificar en qué casos resulta aplicable la desgravación total o parcial prevista en dicho Decreto;
 
-ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA INTERNAR A LA COMUNIDAD EUROPEA, LOMOS DE ATUN ORIGINARIOS DE LOS ESTADOS UNIDOS MEXICANOS
+Que debido a las modificaciones arancelarias antes señaladas, resulta necesario actualizar los decretos por los que se establecen las tasas aplicables para los Tratados de Libre Comercio, Acuerdos de Complementación Económica y Regionales de Apertura de Mercados y de Preferencia Arancelaria Regional, y
 
-###### ARTICULO PRIMERO.
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas arancelarias a que se refiere el presente Decreto fueron opinadas favorablemente por la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
 
-El cupo para internar a los Estados Miembros de la Comunidad Europea en el periodo comprendido del 1 de enero al 31 de diciembre de cada año, con el arancel preferencial establecido en la Decisión 2/2004 del Consejo Conjunto CE-México por la que se introduce un cupo arancelario para determinados productos originarios de México y enumerados en el Anexo 1 de la Decisión 2/2000 del Consejo Conjunto CE-México, lomos de atún, originarios de los Estados Unidos Mexicanos, es el que se determina a continuación:
+DECRETO
 
-Fracción Descripción indicativa Cupo
+…
 
-Arancelaria (Toneladas)1./
+V. Tratados y Acuerdos Comerciales.
 
-en la
+…
 
-Comunidad
+###### ARTÍCULO 17.
 
-Europea
+Se adiciona al ARTÍCULO 3 del “Decreto por el que se establece la Tasa aplicable a partir de 2007 del Impuesto General de Importación para las mercancías originarias de la Comunidad Europea”, publicado en el Diario Oficial de la Federación el 29 de noviembre de 2006 y sus modificaciones posteriores, la siguiente fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que le corresponde:
 
-(Los productos beneficiarios
+Fracción Descripción
 
-son los especificados en la
+2202.90.05 Bebidas llamadas cervezas sin alcohol.
 
-nomenclatura de la Comunidad
+…
 
-Europea o en la Decisión
+## TRANSITORIOS
 
-2/2000 del Consejo Conjunto
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-del Acuerdo de Asociación
+SEGUNDO.- Los certificados cupo expedidos por la Secretaría de Economía para los productos clasificados en las fracciones arancelarias que se citan en los artículos 5 y 6 del presente Decreto, seguirán vigentes por la cantidad o por el periodo de tiempo que se señalan en el certificado.
 
-Económica, Concertación
-
-Política y Cooperación entre
-
-los Estados Unidos Mexicanos,
-
-por una parte, y la Comunidad
-
-Europea y sus Estados Miembros,
-
-por otra, publicada en el Diario
-
-Oficial de la Federación el
-
-26 de junio de 2000.)
-
-1604.14.16 Lomos de atún. 6,000
-
-1_/El cupo aumentará en 1,000 Ton. cada año, condicionado a la utilización como mínimo del 80% del cupo establecido para el año anterior, hasta alcanzar un monto máximo de 15,000 Ton. anuales.
-
-###### ARTICULO SEGUNDO.
-
-De conformidad con el artículo 24 segundo párrafo, de la Ley de Comercio Exterior, se aplicará al cupo de exportación a que se refiere el presente Acuerdo el procedimiento de asignación directa en la modalidad de “primero en tiempo, primero en derecho”.
-
-###### ARTICULO TERCERO.
-
-Podrán solicitar asignación de este cupo las personas físicas y morales establecidas en los Estados Unidos Mexicanos.
-
-###### ARTICULO CUARTO.
-
-En la primera solicitud del año el beneficiario deberá presentar en la ventanilla de atención al público de la representación federal de la Secretaría de Economía que le corresponda, las solicitudes de asignación de cupo y la expedición del certificado de cupo de exportación de manera simultánea, para ello deberá utilizar los formatos SE-03-011-1 “Solicitud de asignación de cupo” y SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”, sin requisitar en este último el inciso 11) “Número de oficio de asignación de cupo”, adjuntando el formato de certificado de circulación EUR.1 debidamente requisitado, la copia de la factura comercial y copia del conocimiento de embarque, guía aérea o carta de porte, según sea el caso.
-
-La representación federal de la Secretaría de Economía expedirá, en su caso, la constancia de asignación y el certificado de cupo dentro de los 5 días hábiles siguientes a la fecha de presentación de dichas solicitudes.
-
-En caso de que la resolución de la solicitud de asignación del cupo sea negativa, se entenderá que la solicitud de expedición de certificado de cupo también lo es.
-
-Previo a la presentación de dichas solicitudes, de asignación y expedición de cupo, se deberá realizar el trámite SE-03-038-A, “Registro de productos elegibles para preferencias y concesiones arancelarias para la obtención del certificado de circulación de mercancías EUR.1” a través del formato SE-03-037 Cuestionario para la obtención del certificado de circulación de mercancías EUR.1 o el carácter de exportador autorizado. La representación federal de la Secretaría de Economía resolverá en un plazo máximo de dos días hábiles contados a partir del día hábil siguiente a la fecha de presentación de la solicitud. Una vez autorizado dicho Registro, la representación federal de la Secretaría de Economía proporcionará el formato de certificado de circulación EUR.1.
-
-Una vez obtenida la constancia de asignación, a que se refiere el párrafo segundo del presente artículo, para las solicitudes subsecuentes del año, el beneficiario únicamente deberá presentar en la ventanilla de atención al público de la representación federal de la Secretaría de Economía que le corresponda, la solicitud de expedición de certificado de cupo, en el formato SE-03-013-5 “Solicitud de certificado de cupo (obtenido por asignación directa)”, adjuntando el formato de certificado de circulación EUR.1 debidamente requisitado, copia de la factura comercial y copia del conocimiento de embarque, guía aérea o carta de porte, según sea el caso.
-
-La representación federal de la Secretaría de Economía expedirá el certificado de cupo dentro de los 5 días hábiles siguientes a la fecha de presentación de dichas solicitudes.
-
-###### ARTICULO QUINTO.
-
-Cuando el solicitante haya sido beneficiario de cuatro expediciones de certificado de cupo, a efecto de poder autorizarle certificados subsecuentes, deberá demostrar el ejercicio total de por lo menos una de las expediciones otorgadas anteriormente, adjuntando copia del pedimento de exportación, de forma tal que durante el periodo de vigencia del cupo, los beneficiarios no cuenten con más de cuatro certificados sin comprobar.
-
-Siempre que exista saldo en el cupo, el monto a expedir por solicitante, será el que resulte menor entre el monto indicado en la factura comercial y el conocimiento de embarque o la carta de porte o la guía aérea, según sea el caso.
-
-La vigencia máxima de las asignaciones y los certificados de cupo a que se refiere este Acuerdo será al 31 de diciembre de cada año.
-
-El certificado de circulación EUR.1 es el documento que se utilizará para que la aduana del país del Estado Miembro de la Comunidad Europea al que se interne la mercancía, aplique la preferencia establecida en la Decisión 2/2004 del Consejo Conjunto CE-México. El certificado de cupo es el documento que avalará que la empresa es beneficiaria del cupo.
-
-###### ARTICULO SEXTO.
-
-Los formatos citados en el presente Acuerdo, estarán a disposición de los interesados en las representaciones federales de la Secretaría de Economía, y en la página de Internet de la Comisión Federal de Mejora Regulatoria (www.cofemer.gob.mx), en las siguientes direcciones electrónicas:
-
-a) Para el caso del formato SE-03-037 “Cuestionario para la obtención del certificado de circulación de mercancías EUR.1 o el carácter de exportador autorizado”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-038-A
-
-b) Para el caso del formato SE-03-011-1 “Solicitud de asignación de cupo”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-B
-
-c) Para el caso del formato SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”:
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-B
-
-http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-C
-
-###### ARTICULO SEPTIMO.
-
-La Dirección General de Comercio Exterior dará a conocer en los primeros quince días del mes de enero de cada año la actualización del monto del cupo que se incremente derivado de la utilización como mínimo del 80% del cupo establecido para el año anterior a través del portal del “Sistema Integral de Información de Comercio Exterior” www.siicex.gob.mx.
-
-## TRANSITORIO
-
-UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-México, D.F., a 5 de febrero de 2009.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a ocho de diciembre de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
