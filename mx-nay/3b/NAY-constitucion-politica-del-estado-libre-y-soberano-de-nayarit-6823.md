@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2009-12-15"
+last_updated: "2009-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -985,10 +985,6 @@ II.- Sancionar, promulgar y ejecutar las Leyes y Decretos dados por el Poder Leg
 
 III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 1994)</small>
-
-IV.- Conducir y promover el desarrollo integral del Estado, de conformidad con los objetivos, niveles de participación y prioridades del sistema de planeación;
-
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 V.- (A). Presentar a la legislatura el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo, y en los términos que previene esta Constitución, remitirle la cuenta de todos los caudales del Estado.
@@ -1190,8 +1186,6 @@ El Secretario General de Gobierno substituirá al Gobernador en las faltas no pr
 ###### Art. 80 Bis.
 
 El Secretario General de Gobierno, en unión del Procurador General de Justicia, del Presidente del Supremo Tribunal, del Director General de Rentas, Jueces de Primera Instancia y Presidente del Ayuntamiento de la Capital del Estado, constituyen el Consejo de Gobierno, cuya Presidencia será asumida por el primero. El Consejo dará dictamen al Gobernador, siempre que éste lo pida, procurando fundarlo en la Ley.
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ## TITULO QUINTO
 
@@ -1399,7 +1393,7 @@ Siempre que las controversias versen sobre disposiciones generales y la resoluci
 
 En los demás casos la resolución tendrá efectos únicamente respecto de las partes en la controversia.
 
-II. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.
+II.- De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.
 
 Las acciones de inconstitucionalidad podrán ejercitarse dentro de los treinta días naturales siguientes a la fecha de la publicación de la norma, por:
 
@@ -1463,11 +1457,9 @@ Los Agentes del Ministerio Público serán nombrados y removidos por el Procurad
 
 Sus labores en términos generales, serán las de velar por el exacto cumplimiento de la ley, procediendo en contra de los infractores de ella, cualquiera que sea su categoría; la de perseguir y ejercer ante los tribunales que corresponda, las acciones penales respectivas, y vigilar a los Agentes del Ministerio Público, para que cumplan fielmente su cometido.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
-
 ###### Art. 99.
 
-El Procurador General de Justicia es el Jefe de la Policía Estatal.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2009)
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
 
@@ -1747,23 +1739,23 @@ VI. Las donaciones, legados, herencias y reintegros que se hagan o dejen al Teso
 
 VII. El importe de fianzas o depósitos carcelarios, y demás cantidades que por disposición de la Autoridad Judicial deban ingresar al Erario.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 117.
 
-Para la guarda y distribución de los caudales públicos, habrá una dependencia principal que se denominará Secretaría de Finanzas, a cargo de un Secretario nombrado por el Ejecutivo. Esta Secretaría será auxiliada por el número de oficinas recaudadoras foráneas y locales que sean necesarias.
+La recaudación, guarda y distribución de los caudales públicos, estará a cargo de la dependencia que determine la ley; su Titular nombrado por el Ejecutivo, se auxiliará por las oficinas recaudadoras que sean necesarias.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 118.
 
-El Secretario de Finanzas y los Recaudadores foráneos distribuirán los fondos públicos conforme al Presupuesto de Egresos y serán responsables de aquellos que distribuyan y no estuvieren comprendidos en dicho presupuesto o autorizados por una Ley posterior.
+Los fondos públicos se distribuirán conforme al Presupuesto de Egresos; los servidores públicos facultados, serán responsables de aquellos que distribuyan y no estuvieren comprendidos en dicho presupuesto o autorizados por una Ley posterior.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 119.
 
-Todo empleado de la Secretaría de Finanzas que tuviere manejo de caudales públicos, caucionará competentemente en los términos que establezca la Ley.
+Todo servidor público que tuviere manejo de caudales del Estado, caucionará en los términos que establezca la Ley.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2000)</small>
 
@@ -2986,3 +2978,11 @@ Artículo Noveno.- Expedida la ley a que se refiere el artículo tercero transit
 Artículo Décimo.- Por lo que ve a la temporalidad del nombramiento del Magistrado Presidente, una vez que concluya el que se encuentra en funciones, se realizará una elección que tendrá la duración que indica el artículo 86 del presente Decreto.
 
 Artículo Décimo Primero.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado, remítase el presente Decreto a los Ayuntamientos de la entidad.
+
+P.O. 16 DE DICIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Por lo que respecta a la derogación del artículo 99 surtirá sus efectos una vez que se realicen las adecuaciones legales conducentes.
+
+Artículo Tercero.- Para dar cumplimiento a lo establecido por el artículo 131 de la Constitución Política del Estado, remítase el presente Decreto a los Ayuntamiento (sic) de la Entidad.
