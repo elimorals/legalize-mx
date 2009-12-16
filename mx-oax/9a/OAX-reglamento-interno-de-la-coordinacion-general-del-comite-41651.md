@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-coordinacion-general-del-comite-41651"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-06"
-last_updated: "2004-10-06"
+last_updated: "2009-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA COORDINACION GENERAL DEL COMITE ESTATAL DE PLANEACION PARA EL DESARROLLO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COORDINACION GENERAL DEL COMITE ESTATAL DE PLANEACION PARA EL DESARROLLO DE OAXACA, PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el miércoles 6 de octubre de 2004.
 
@@ -84,6 +86,16 @@ VIII. Dirección de Operación Regional; I
 IX. Unidad Administrativa; y
 
 X. Unidad Jurídica.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XI. Dirección de Unidades Móviles:
+
+a) Unidad de Control a Unidades Móviles Región Norte;
+
+b) Unidad de Control a Unidades Móviles Región Centro;
+
+c) Unidad de Control a Unidades Móviles Región Sur;
 
 El (sic) Coordinación General podrá contar con una secretaria particular, así como con el número de asesores y personal administrativo necesarios para cumplir con sus atribuciones, de acuerdo con el presupuesto de la Coordinación.
 
@@ -460,3 +472,15 @@ LIC. CELESTINO M. ALONSO ÁLVAREZ
 COORDINADOR GENERAL DEL COPLADE
 
 ING. ADOLFO TOLEDO INFANZÓN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE DICIEMBRE DE 2009.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se deroga el Reglamento Interno de la Coordinación General del Comité Estatal de
+
+Planeación para el Desarrollo del Estado, publicado en el Extra del Periódico Oficial del Gobierno del Estado el seis de octubre de dos mil cuatro.
+
+TERCERO. Las disposiciones contenidas en el presente reglamento prevalecerán sobre cualquier otra disposición de igual o menor rango que se le opongan.
