@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-462
 country: "mx"
 rank: "otro"
 publication_date: "1995-03-13"
-last_updated: "2009-09-29"
+last_updated: "2009-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46227&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,31 +19,49 @@ issue_date: "1995-03-03"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (MULTILATERAL, 1994)
 
-ACUERDO QUE ADICIONA EL DIVERSO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA INTERNAR DURANTE LOS AÑOS 2009 Y 2010, A LA REPUBLICA DE COLOMBIA, VEHICULOS AUTOMOTORES NUEVOS, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CONFORME A LA DECISION 42 DE LA COMISION ADMINISTRADORA DEL TRATADO, SUSCRITA ENTRE LA REPUBLICA DE COLOMBIA, LA REPUBLICA BOLIVARIANA DE VENEZUELA Y LOS ESTADOS UNIDOS MEXICANOS
+DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, EL DECRETO POR EL QUE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, ASI COMO LOS DIVERSOS QUE ESTABLECEN EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA NORTE Y LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO TRATADOS Y ACUERDOS COMERCIALES
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 29 de septiembre de 2009.
+Decreto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 16 de diciembre de 2009.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-Con fundamento en los artículos 4-03.2, inciso a), párrafo iii del Tratado de Libre Comercio entre los Estados Unidos Mexicanos, la República de Colombia y la República de Venezuela y la Decisión 42 de la Comisión Administradora del Tratado; 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracción V, 23 y 24, segundo párrafo de la Ley de Comercio Exterior; 9o. fracción V, 31, 32, 33 y 35 del Reglamento de la Ley de Comercio Exterior; 1 y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; y 4o., fracción I, 12 y 13 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el 13 de enero de 2009, se publicó en el Diario Oficial de la Federación el Acuerdo por el que se da a conocer el cupo mínimo para internar durante los años 2009 y 2010, a la República de Colombia, vehículos automotores nuevos, originarios y provenientes de los Estados Unidos Mexicanos, conforme a la Decisión 42 de la Comisión Administradora del Tratado, suscrita entre la República de Colombia, la República Bolivariana de Venezuela y los Estados Unidos Mexicanos (Acuerdo);
+Que para permitir a la industria nacional abastecerse de insumos en condiciones competitivas es necesario exentar de arancel a la importación de determinados productos químicos, llantas nuevas para camión, tablillas de madera para la fabricación de lápices y cabezas de tijeras de podar;
 
-Que con el fin de dar mayor transparencia, certidumbre, equidad y eficiencia en el otorgamiento de cupos, se estableció en dicho Acuerdo, un nuevo mecanismo de asignación del cupo para internar a la República de Colombia, vehículos automotores originarios de los Estados Unidos Mexicanos;
+Que a fin de brindar mayor claridad en la redacción de las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y evitar errores de clasificación arancelaria por parte de los operadores del comercio exterior resulta conveniente modificar la descripción de algunas fracciones arancelarias de los sectores químico, plástico, cerámico, electromecánico, electrónico, de la madera y de herramientas;
 
-Que con el fin de evitar la subutilización del cupo, se establece un mecanismo para redistribuir los saldos no asignados en la segunda etapa de distribución y/o los montos devueltos por las empresas beneficiarias de la segunda etapa de asignación del cupo;
+Que con el objeto de fomentar la competitividad de los sectores electrónico, químico, automotriz, del mueble, juguete, caucho y plástico, se considera conveniente incluir las fracciones arancelarias que clasifican insumos indispensables para la fabricación de bienes finales de dichos sectores en los Programas de Promoción Sectorial;
 
-Que el objetivo de la medida contemplada en el considerando anterior, es el de procurar la máxima utilización del cupo, promoviendo la competitividad de las empresas exportadoras;
+Que ante la necesidad de otorgar al usuario del comercio exterior una mayor certidumbre jurídica en la interpretación de la nomenclatura de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, es conveniente adicionar diversas Notas Aclaratorias;
 
-Que es una estrategia prioritaria del Gobierno Federal fortalecer los mecanismos regionales de diálogo político y de integración económica, así como establecer los mecanismos adecuados para la administración de los acuerdos comerciales internacionales suscritos por los Estados Unidos Mexicanos;
+Que es necesario actualizar el “Decreto por el que se establece el impuesto general de importación para la región fronteriza y franja fronteriza norte”, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2008 y su modificación, a efecto de especificar en qué casos resulta aplicable la desgravación total o parcial prevista en dicho Decreto;
 
-Que la asignación de cupos de exportación busca promover la competitividad de los sectores involucrados, así como establecer un marco regulatorio más equitativo y transparente, y
+Que debido a las modificaciones arancelarias antes señaladas, resulta necesario actualizar los decretos por los que se establecen las tasas aplicables para los Tratados de Libre Comercio, Acuerdos de Complementación Económica y Regionales de Apertura de Mercados y de Preferencia Arancelaria Regional, y
 
-Que la medida a que se refiere el presente instrumento cuenta con la opinión favorable de la Comisión de Comercio Exterior, se expide el siguiente:
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas arancelarias a que se refiere el presente Decreto fueron opinadas favorablemente por la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
 
-ACUERDO QUE ADICIONA EL DIVERSO POR EL QUE SE DA A CONOCER EL CUPO MINIMO PARA INTERNAR DURANTE LOS AÑOS 2009 Y 2010, A LA REPUBLICA DE COLOMBIA, VEHICULOS AUTOMOTORES NUEVOS, ORIGINARIOS Y PROVENIENTES DE LOS ESTADOS UNIDOS MEXICANOS, CONFORME A LA DECISION 42 DE LA COMISION ADMINISTRADORA DEL TRATADO, SUSCRITA ENTRE LA REPUBLICA DE COLOMBIA, LA REPUBLICA BOLIVARIANA DE VENEZUELA Y LOS ESTADOS UNIDOS MEXICANOS
+DECRETO
+
+…
+
+V. Tratados y Acuerdos Comerciales.
+
+...
+
+###### ARTÍCULO 15.
+
+Se adiciona al ARTÍCULO 5 del “Decreto por el que se establece la Tasa aplicable a partir del 19 de noviembre de 2006 del Impuesto General de Importación para las mercancías originarias de la República de Colombia”, publicado en el Diario Oficial de la Federación el 17 de noviembre de 2006 y sus modificaciones posteriores, la siguiente fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, en el orden que le corresponde:
+
+Fracción Descripción Preferencia
+
+arancelaria
+
+2202.90.05 Bebidas llamadas cervezas sin alcohol. 28%
+
+…
 
 ###### ARTICULO UNICO.
 
@@ -65,8 +83,10 @@ donde:
 
 El periodo de recepción de solicitudes para 2009 será de cinco días hábiles contados a partir del día de publicación del presente Acuerdo en el Diario Oficial de la Federación, y para el 2010 será del 21 al 25 de junio de ese mismo año.”
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2010.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 21 de septiembre de 2009.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
+SEGUNDO.- Los certificados cupo expedidos por la Secretaría de Economía para los productos clasificados en las fracciones arancelarias que se citan en los artículos 5 y 6 del presente Decreto, seguirán vigentes por la cantidad o por el periodo de tiempo que se señalan en el certificado.
+
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a ocho de diciembre de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
