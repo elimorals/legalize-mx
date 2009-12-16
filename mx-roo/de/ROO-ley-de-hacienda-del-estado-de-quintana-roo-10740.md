@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2009-10-30"
+last_updated: "2009-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 17 DE DICIEMBRE DE 2009, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -661,27 +663,37 @@ Las disposiciones mencionadas en el párrafo anterior se sujetarán a lo estable
 
 Son sujetos pasivos de este impuesto, las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo anterior, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, aun cuando estos sujetos tengan su domicilio fuera del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Cuando en la contratación de trabajadores para una persona física, moral o unidad económica, a fin de que ejecuten trabajos o presten servicios para su actividad, participe un intermediario laboral, cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley. Las personas físicas, morales y unidades económicas que contraten los servicios de intermediarios laborales, deberán de presentar aviso a la Secretaría de Hacienda durante los siguientes treinta días posteriores a la fecha del contrato suscrito, en el cual por ambas partes involucradas se especifique el nombre o razón social, nombre comercial, registro federal de contribuyentes, domicilio fiscal designado como matriz en el Estado de Quintana Roo; así como el número de empleados, el monto de la operación contratada y la vigencia del contrato.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+Cuando en la contratación de trabajadores para una persona física, moral o unidad económica, a fin de que ejecuten trabajos o presten servicios para su actividad, participe un intermediario laboral, cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley. Las personas físicas, morales y unidades económicas que contraten los servicios de intermediarios laborales, deberán de presentar aviso en las formas aprobadas por la Secretaría de Hacienda durante los siguientes cinco días posteriores a la fecha del contrato suscrito o inicio de la prestación de los servicios, en el que especifique el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su proveedor; así como el número de empleados, el monto de la operación contratada y la vigencia del contrato.
 
 #### SECCION SEGUNDA. DE LA BASE Y DE LA TASA
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 41.
 
-Será base de este impuesto, el total de las erogaciones efectuadas en términos del artículo 39, calculados por ejercicios fiscales, salvo lo señalado por el artículo 43-D de esta ley, aplicando la tasa señalada en el artículo 42 de la misma ley.
+Será base de este impuesto, el total de las erogaciones efectuadas en términos del artículo 39, calculados por ejercicios fiscales, salvo lo señalado por el artículo 43-D de ésta ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 42.
 
-El presente impuesto se causará y pagará a razón del 2% sobre la base gravable señalada en el artículo anterior.
+El presente impuesto se causará y pagará aplicando la tasa del 2% sobre la base gravable señalada en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 43.
 
-Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, aún cuando estos sujetos tengan su domicilio fuera del Estado, deberán efectuar pagos mensuales mediante declaración provisional en las formas aprobadas por la propia Secretaría, a través de los medios electrónicos dispuestos por ésta, mediante reglas de carácter general y presentada para su oportuno pago a través de bancos, ventanilla de la oficina recaudadora de rentas o transferencia de fondos en línea debidamente referenciada en las fechas que les corresponda considerando el primer carácter alfabético del Registro Estatal de Contribuyentes, según el calendario que se señala a continuación:
+Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aún cuando estos sujetos tengan su domicilio fuera del Estado, así como los intermediarios laborales cualquiera que sea su denominación deberán efectuar pagos mensuales mediante declaración provisional en las formas aprobadas por la propia Secretaría, a través de los medios electrónicos dispuestos por ésta, mediante reglas de carácter general y presentada para su oportuno pago a través de bancos, ventanilla de la oficina recaudadora de rentas o transferencia de fondos en línea debidamente referenciada en las fechas que les corresponda considerando el primer carácter alfabético del Registro Estatal de Contribuyentes, según el calendario que se señala a continuación:
 
 LETRAS DEL FECHA DE PRESENTACIÓN
 
@@ -691,19 +703,19 @@ DE CONTRIBUYENTES
 
 De la “A” a la “F” A más tardar el día 19 del mes
 
-siguiente a aquel en que se
+siguiente a aquél en que se
 
 efectuó la erogación.
 
 De la “G” a la “N” A más tardar el día 21 del mes
 
-siguiente a aquel en que se
+siguiente a aquél en que se
 
 efectuó la erogación.
 
 De la “O” a la “Z” A más tardar el día 23 del mes
 
-siguiente a aquel en que se
+siguiente a aquél en que se
 
 efectuó la erogación.
 
@@ -835,6 +847,12 @@ Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado,
 
 En las declaraciones que se presenten en los términos del párrafo que antecede, deberán consignarse los datos concernientes al número de sucursales por las que se declarará y la ubicación de las mismas, así como el número de trabajadores por cada sucursal y los montos generados por cada una de ellas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+Tratándose de intermediarios laborales deberán manifestar el número de empleados e impuesto causado por cada uno de los establecimientos donde se le hubiese contratado.
+
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 46.
@@ -859,7 +877,7 @@ Para determinar la cantidad a retener se tomará como base del Impuesto, la cant
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-EI pago del impuesto retenido, deberá efectuarse dentro del (sic) los 10 días siguientes del mes en que se efectuó la retención, mediante declaración provisional en las formas aprobadas por la propia Secretaría.
+El pago del impuesto retenido, deberá efectuarse dentro del (sic) los 10 días siguientes del mes en que se efectuó la retención, mediante declaración provisional en las formas aprobadas por la propia Secretaría.
 
 #### SECCION CUARTA. DE LAS EXENCIONES
 
@@ -2155,11 +2173,13 @@ Son sujetos del impuesto, las personas físicas, morales o unidades económicas 
 
 #### SECCION TERCERA. DE LA TASA
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 168-F.
 
-El impuesto se calculará aplicando la tasa del 2% sobre el valor de facturación y/o contratación de los servicios a que se refieren los Artículos 168-A y 168-C.
+El impuesto se calculará aplicando la tasa del 3% sobre el valor de facturación y/o contratación de los servicios a que se refieren los artículos 168-A y 168-C.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -2305,7 +2325,7 @@ BIS-A.- Son sujetos del pago de este impuesto las, personas físicas y morales o
 
 ###### ARTICULO 168
 
-BIS-B.- La base para el cálculo de este impuesto será el volumen de metros cúbicos de material extraido en términos del artículo anterior.
+BIS-B.- La base para el cálculo de este impuesto será el volumen de metros cúbicos de material extraído en términos del artículo anterior.
 
 El impuesto a que se refiere este capítulo se causará por cada metro cúbico que se extraiga de los materiales objeto de la contribución con una tarifa de 0.14 veces el salario mínimo general vigente para el Estado de Quintana Roo.
 
@@ -2933,9 +2953,11 @@ De primera hasta 4,096 S.M.G. 3,466 S.M.G.
 
 De segunda hasta 3,780 S.M.G. 3,150 S.M.G.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Por la expedición de licencias de bebidas alcohólicas en los municipios de Benito Juárez, Cozumel y Solidaridad, para la:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+IV.- Por la expedición de bebidas alcohólicas en los Municipios de Benito Juárez, Cozumel, Solidaridad y Tulum, para la:
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -3065,9 +3087,9 @@ De segunda hasta 3,150 S.M.G. 2,520 S.M.G.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-j).-Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ZONA ZONA
 
@@ -3355,7 +3377,7 @@ De segunda hasta 210 126 S.M.G.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-j).-Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
 ZONA
 
@@ -4059,17 +4081,25 @@ De segunda hasta 630 316 S.M.G.
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
 ZONA TURISTICA
 
 Por cambio Otros
 
 de propietario cambios
 
-De lujo hasta 940 568 S.M.G.
+De lujo hasta 2,100 S.M.G. 1,260 S.M.G.
 
-De primera hasta 840 504 S.M.G.
+De primera hasta 1,890 S.M.G. 1,134 S.M.G.
 
-De segunda hasta 736 442 S.M.G.
+De segunda hasta 1,576 S.M.G. 946 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ZONA COMERCIAL
 
@@ -4077,11 +4107,11 @@ Por cambio Otros
 
 de propietario cambios
 
-De lujo hasta 736 442 S.M.G.
+De lujo hasta 1,680 S.M.G. 1,008 S.M.G.
 
-De primera hasta 630 378 S.M.G.
+De primera hasta 1,470 S.M.G. 882 S.M.G.
 
-De segunda hasta 526 316 S.M.G.
+De segunda hasta 1,050 S.M.G. 630 S.M.G.
 
 f).- Venta de cervezas en envase abierto.
 
@@ -4219,21 +4249,29 @@ IX.- Por los cambios de municipio de las licencias de bebidas alcohólicas de Ot
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
 ZONA HOTELERA
-
-De lujo hasta 852 S.M.G.
-
-De Primera hasta 866 S.M.G
-
-De segunda hasta 944 S.M.G.
-
-ZONA COMERCIAL
 
 De lujo hasta 944 S.M.G.
 
 De Primera hasta 905 S.M.G
 
 De segunda hasta 893 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+ZONA COMERCIAL
+
+De lujo hasta 944 S.M.G.
+
+De Primera hasta 866 S.M.G
+
+De segunda hasta 852 S.M.G.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -4497,21 +4535,29 @@ De segunda hasta 787 S.M.G.
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
 ZONA HOTELERA
-
-De lujo hasta 1,811 S.M.G.
-
-De Primera hasta 1,798 S.M.G.
-
-De segunda hasta 1,785 S.M.G.
-
-ZONA COMERCIAL
 
 De lujo hasta 1,837 S.M.G.
 
-De Primera hasta 1,825 S.M.G
+De Primera hasta 1,825 S.M.G.
 
 De segunda hasta 1,811 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+ZONA COMERCIAL
+
+De lujo hasta 1,811 S.M.G.
+
+De Primera hasta 1,798 S.M.G
+
+De segunda hasta 1,785 S.M.G.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -4817,19 +4863,27 @@ XII.- Por los cambios de municipio de las licencias de bebidas alcohólicas de J
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
 ZONA HOTELERA
 
 De lujo hasta 316 S.M.G.
 
-De Primera hasta 314 S.M.G.
+De Primera hasta 316 S.M.G.
 
 De segunda hasta 126 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ZONA COMERCIAL
 
 De lujo hasta 316 S.M.G.
 
-De Primera hasta 316 S.M.G
+De Primera hasta 314 S.M.G
 
 De segunda hasta 126 S.M.G.
 
@@ -4897,19 +4951,27 @@ De segunda hasta 882 S.M.G.
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
 ZONA HOTELERA
 
 De lujo hasta 2,520 S.M.G.
 
-De Primera hasta 2,206 S.M.G.
+De Primera hasta 2,332 S.M.G.
 
-De segunda hasta 1,890 S.M.G.
+De segunda hasta 2,204 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 2.520S.M.G.
+De lujo hasta 2.520 S.M.G.
 
-De Primera hasta 2,332 S.M.G
+De Primera hasta 2,206 S.M.G
 
 De segunda hasta 2,204 S.M.G.
 
@@ -5827,9 +5889,11 @@ en envase cerrado para distribución
 
 al mayoreo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. Para los establecimientos domiciliados en los municipios de Benito Juárez, Cozumel y Solidaridad, para la:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+IV. Para los establecimientos domiciliados en los Municipios de Benito Juárez, Cozumel, Solidaridad y Tulum para la:
 
 a) Venta de cervezas exclusivamente De 31 hasta 63 S.M.G.
 
@@ -6121,39 +6185,103 @@ q) Por el refrendo de la constancia de inscripción de embarcaciones, 3 veces el
 
 El plazo para la inscripción de embarcaciones nuevas será de quince días a partir de la fecha de adquisición y para el refrendo los primeros tres meses de cada año.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Por la expedición, renovación y reposición de licencias para conducir vehículos de motor, cada dos años
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
-a) Licencia de servicio público estatal 4.60 veces el S.M.G. vigente en el estado.
+III. Por la expedición, renovación y reposición de licencias para conducir vehículos de motor cada:
 
-b) Licencia de chofer 5.75 veces el S.M.G. vigente en el estado.
+a).- dos años:
 
-c) Licencia de automovilista 5.18 veces el S.M.G. vigente en el estado.
+1.- Licencia de servicio público estatal 4.60 veces el S.M.G. vigente en el Estado.
 
-d) Licencia de motociclista 2.30 veces el S.M.G. vigente en el estado.
+2.- Licencia de chofer 5.75 veces el S.M.G. vigente en el Estado.
 
-e) Permiso provisional para manejar sin licencia por 30 días 1.15 veces el S.M.G. vigente en el estado.
+3.- Licencia de automovilista 5.18 veces el S.M.G. vigente en el Estado.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+4.- Licencia de motociclista 2.30 veces el S.M.G. vigente en el Estado.
 
-Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en el pago de los incisos anteriores a que se refiere esta fracción.
+b).- tres años:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+1.- Licencia de servicio público estatal 6.90 veces el S.M.G. vigente en el Estado.
 
-IV.- Por arrastre de grúa 9.57 veces el S.M.G. vigente en el estado.
+2.- Licencia de chofer 8.62 veces el S.M.G. vigente en el Estado.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+3.- Licencia de automovilista 7.77 veces el S.M.G. vigente en el Estado.
 
-V.- Por día de estancia en el corralón 0.46 veces el S.M.G. vigente en el estado.
+4.- Licencia de motociclista 3.45 veces el S.M.G. vigente en el Estado.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+c).- cuatro años:
 
-VI.- Permiso para circular con cristales polarizados por 1 año 4.03 veces el S.M.G. vigente en el estado.
+1.- Licencia de servicio público estatal 9.20 veces el S.M.G. vigente en el Estado.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+2.- Licencia de chofer 11.49 veces el S.M.G. vigente en el Estado.
 
-VII.- Examen médico y de competencia para licencia de conducir vehículos de motor 2.10 S.M.G.
+3.- Licencia de automovilista 10.36 veces el S.M.G. vigente en el Estado.
+
+4.- Licencia de motociclista 4.6 veces el S.M.G. vigente en el Estado.
+
+d).- cinco años:
+
+1.- Licencia de servicio público estatal 11.50 veces el S.M.G. vigente en el Estado.
+
+2.- Licencia de chofer 14.36 veces el S.M.G. vigente en el Estado.
+
+3.- Licencia de automovilista 12.95 veces el S.M.G. vigente en el Estado.
+
+4.- Licencia de motociclista 5.75 veces el S.M.G. vigente en el Estado.
+
+Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+IV.- Permiso provisional para manejar sin licencia por:
+
+a).- 30 días 1.15 veces el S.M.G. vigente en el Estado.
+
+b).- 90 días 3.44 veces el S.M.G. vigente en el Estado.
+
+c).- 180 días 6.87 veces el S.M.G. vigente en el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+V.- Por arrastre de grúa 9.57 veces el S.M.G. vigente en el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+VI.- Por día de estancia en el corralón 0.46 veces el S.M.G. vigente en el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+VII.- Permiso para circular con cristales polarizados por 1 año, según su tipo:
+
+a).- De un humo para· servicio público 4.03 veces el S.M.G. vigente en el Estado.
+
+b).- De un humo para servicio particular 6.01 veces el S.M.G. vigente en el Estado.
+
+c).- De dos humos para servicio particular 12.09 veces el S.M.G. vigente en el Estado.
+
+d).- Hasta de tres humos para servicio oficial 12.09 veces el S.M.G. vigente en el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Examen médico y de competencia para licencia de conducir vehículos de motor 2.10 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+IX.- Permisos provisionales para la circulación de camiones de carga en el primer cuadro de la ciudad, por día 1.00 veces el S.M.G. vigente en el Estado.
 
 ###### ARTICULO 177.
 
@@ -6573,11 +6701,17 @@ Por el otorgamiento de la constancia de compatibilidad urbanística, a que se re
 
 I.- En caso de fraccionamiento de tipo habitacional, hotelero, comercial, industrial, granjas de explotación agropecuaria y demás aprovechamientos y usos, se cobrará el 0.5 % sobre el monto total de las obras de urbanización
 
-II.- 6 S.M.G. para el caso de ser una subdivisión menor de 10,000 mt2 en tres fracciones y 3 S.M.G. por fracción resultante adicional y para el caso de subdivisión de un predio cuya superficie original sea mayor a 10,000 mt2 se cobrará 3 S.M.G. por fracción resultante.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
-III.- Para el régimen de propiedad en condominio por cada unidad privativa asignada, independientemente del uso de suelo. 4 S.M.G., en el caso de desarrollos habitacionales de tipo condominal que contemplen vialidades intermedias, se cobrará el 0.5% sobre el monto total de las obras de urbanización.
+II.- 8 S.M.G. para el caso de ser una subdivisión menor de 10,000 mt2 en tres fracciones y 6 S.M.G. por fracción resultante adicional y para el caso de subdivisión de un predio cuya superficie original sea mayor a 10,000 mt2 se cobrará 6 S.M.G. por fracción resultante.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+III.- Para el régimen de propiedad en condominio por cada unidad privativa asignada, 8 S.M.G., en el caso de desarrollos habitacionales de tipo condominal de interés social. Y 20 S.M.G. para tipo residencial. De igual manera, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos habitacionales.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -6585,13 +6719,21 @@ IV.- Para la renovación de las Constancias de Compatibilidad Urbanística Estat
 
 a).- Para fraccionamientos, se cobrará el 0.5% del monto total del presupuesto únicamente de las obras de urbanización que falten por ejecutarse.
 
-b).- Por Régimen de propiedad en Condominio, se cobrarán 4 S.M.G por cada unidad privativa que falte por ejecutarse, o si este se hiciera por etapas; se cobrarán las unidades privativas de las etapas que falten por llevarse a cabo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+b).- Por régimen de propiedad en condominio, se cobrarán 8 S.M.G en el caso de desarrollos
+
+habitacionales de interés social y 20 S.M.G. para tipo residencial. De igual manera, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos habitacionales.
 
 c).- Por Régimen de propiedad en condominio con vialidades intermedias dentro del predio, se cobrarán el 0.5% del monto total del presupuesto únicamente de las obras de urbanización o de introducción de servicios que falten por ejecutar.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Para centros comerciales y centrales de abasto. 25 S.M.G.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+V.- Para centros comerciales y/o locales, plazas con uso comercial y oficinas y centrales de abasto. 25 S.M.G.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -6599,21 +6741,43 @@ VI.- Para centrales camioneras y de carga 25 S.M.G.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
-VII.- Para proyectos de industrias 25 S.M.G
+VII.- Para proyectos de industrias 25 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Cobro por modificación de Constancias de Compatibilidad Urbanística 20 S.M.G. adicionalmente a los incisos a), b) y c) de la fracción IV del presente artículo.
 
 ### CAPITULO XI. SERVICIOS OTORGADOS POR LAS AUTORIDADES DE SERVICIOS ESTATALES DE SALUD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 183.
 
 Los servicios que se presten en los hospitales de Gobierno del Estado, causaran los derechos de acuerdo con el estudio socio-económico que se le practique al paciente.
 
-El pago de los derechos por este concepto, se hará en la caja de los propios hospitales. Los administradores de dichas instituciones serán responsables de su cobro.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+El pago de los derechos por este concepto, se hará en la caja de los propios hospitales. Las unidades administrativas de dichas instituciones serán los responsables del cobro.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 La vigilancia del cumplimiento de lo que se indica en este capítulo quedará a cargo de las Recaudadoras de Rentas cuyos encargados podrán efectuar las inspecciones que estimen pertinentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 183
+
+BIS.- Los servicios médicos asistenciales que se otorguen a la población abierta se cobrarán en las unidades administrativas a que se refiere el artículo anterior y causarán los siguientes derechos, salvo los diagnósticos considerados dentro del Sistema de Protección Social en Salud, para su población afiliada, de acuerdo a la siguiente:
+
+(VEASE ARCHIVO ANEXO)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
@@ -6623,103 +6787,221 @@ La vigilancia del cumplimiento de lo que se indica en este capítulo quedará a 
 
 ###### ARTICULO 184.
 
-Los servicios que presten, las autoridades de los Servicios Estatales de Salud, de acuerdo con la Ley de Salud del Estado de Quintana Roo, a los particulares que por cuestiones de calidad y salud lo requieran para la realización de su actividad, causarán los siguientes derechos:
+Los servicios que presten, las autoridades de los Servicios Estatales de Salud, de acuerdo con la Ley de Salud del Estado de Quintana Roo, a los particulares que por cuestiones de calidad y salud lo requieran para la realización de su actividad, causarán los derechos de acuerdo a la siguiente:
 
 I.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Por expedición, reposición o resello de Tarjeta de control sanitario 3.5 S.M.G.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+II.- Por expedición o reposición de certificados médicos para manejadores de alimentos y/o bebidas:
+
+a).- En el Municipio de Othon P. Blanco 1.83 S.M.G.
+
+b).- En los Municipios de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 1.38 S.M.G.
+
+c).- en (sic) los Municipios de Benito Juárez, Solidaridad, Isla Mujeres, Cozumel y Tulum 2.37 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 III.- Análisis de laboratorio:
 
-a).- Mesofolicos aerobios (enlatados) $ 175.00
+1. Mesofolicos aerobios (enlatados) $ 175.00
 
-b).- Termofilos aerobios (enlatados) $ 175.00
+2. Termofilos aerobios (enlatados) $ 175.00
 
-c).- Termofilos anaerobios (enlatados) $ 175.00
+3. Termofilos anaerobios (enlatados) $ 175.00
 
-d).- Mesofílicos anaerobios (enlatados) $ 175.00
+4. Mesofílicos anaerobios (enlatados) $ 175.00
 
-e).- Hongos y levaduras $ 175.00
+5. Hongos y levaduras $ 175.00
 
-f).- Investigación de Shigella sp. $ 925.00
+6. Investigación de Shigella sp. $ 925.00
 
-g).- Métodos para la cuenta bacteriana aerobias en placa $ 175.00
+7. Métodos para la cuenta bacteriana aerobias en placa $ 175.00
 
-h).- Métodos para la determinación de bacterias coniformes por el número más probable $ 180.00
+8. Determinación de coniformes totales por el número más probable NMP $ 180.00
 
-i).- Investigación de S. Aureus $ 260.00
+9. Investigación de S. Aureus $ 260.00
 
-j).- Investigación de salmonella sp. $ 310.00
+10. Investigación de salmonella sp. $ 310.00
 
-k).-Métodos para la determinación de cuentas de mohos y levaduras en alimentos $ 175.00
+11. Métodos para la determinación de cuentas de mohos y levaduras en alimentos $ 180.00
 
-l).- Investigación de Toxinas S. Aureus $2,835.00
+12. Investigación de Toxinas S. Aureus $2,835.00
 
-m).- Investigación de E. Coli 0157:H7 $1,160.00
+13. Investigación de E. Coli 0157:H7 $1,160.00
 
-n).- Determinación de E. Coli por el número más probable NMP $ 230.00
+14. Determinación de E. Coli por el número más probable NMP $ 230.00
 
-ñ).- Investigación de V. Cholerae (aislamiento del microorganismo y detención de enterotoxinas) $ 575.00
+15. Investigación de V. Cholerae (aislamiento del microorganismo y detención de enterotoxinas) $ 575.00
 
-o).- Efectividad de germicidas. $ 247.00
+16. Efectividad de germicidas. $ 247.00
 
-p).- Métodos para la determinación de bacterias coliformes totales en placa. $ 175.00
+17. Métodos para la determinación de bacterias coniformes totales en placa. $ 180.00
 
-q).- Métodos para la determinación de bacterias coliformes fecales para la técnica del número más probable. $ 180.00
+18. Métodos para la determinación de bacterias coniformes fecales para la técnica del número más probable. $ 180.00
 
-r).- Investigación de listeria monocitógenes. $ 575.00
+19. Investigación de listeria monocitógenes. $ 575.00
 
-s).- Tipificación serología de salmonella sp. $ 998.00
+20. Tipificación serología de salmonella sp. $ 998.00
 
-t).- pH. (determinación de la acidez en una solución) $ 80.00
+21. PH. (Determinación de la acidez en una solución) $ 80.00
 
-v).- Cloro residual. $ 80.00
+22. Cloro residual. $ 80.00
 
-w).- Investigación de gnathostoma. $ 200.00
+23. Investigación de gnathostoma. $ 200.00
 
-x).- Investigación de Biotoxina Ciguata por bioensayo. $ 400.00
+24. Investigación de Biotoxina Ciguata por bioensayo en ratón. $ 2, 200.00
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+25. Entrococos. $200.00
 
-IV.- Verificación sanitaria de vehículos, embarcaciones y aeronaves que se dediquen al transporte de pasajeros y/o de carga:
+26. Colinesterasa. $70.00
 
-a).- Con cupo de hasta 10 pasajeros y/o carga de hasta 2 toneladas. 10.0 S.M.G.
+27. Clenbuterol por Elisa. $1,124.00
 
-b).- Con cupo de más de 10 hasta 100 pasajeros y/o carga de hasta 2 toneladas. 10.0 S.M.G.
+28. Determinación del Cloro libre residual-método con ortotoluidina y ersenito. $107.00
 
-c).- Con cupo de más de 100 pasajeros y/o más de 6 toneladas de carga. 80.0 S.M.G.
+29. Cloruros.método por titulación-argento métrico. $330.00
 
-V.- Guía sanitarias por embarque 2 al millar advaloren.
+30. Conductividad. $100.00
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+31. Dureza total CaCO3. $100.00
 
-VI.- Verificación sanitaria solicitada.14.0 S.M.G.
+32. Fluoruros como ión fluor-método potenciómetro. $812.00
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+33. SAAN (sustancias activas al azul de metileno). $526.00
 
-VII.- Por desinfección y por desinfestación 8.0 S.M.G.
+34. Turbiedad. $189.00
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+35. Determinación de fluoruros como ión flúor en sal para consumo humano. $812.00
 
-VIII.- Por actualización de datos en los avisos de funcionamiento o reposición en caso de extravío 1.5 S.M.G.
+36. Yodatados y yoduros de sodio y potasio como ión yodo (sal para consumo humano). $475.00
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+37. Grado alcohólico. $430.00
 
-IX.- Por verificación de productos del mar. 12.0 S.M.G.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
-X.- Autorización de planos:
+IV.- Verificación sanitaria desinfectación desinfección para vehículos, embarcaciones y aeronaves que se dediquen al transporte de pasajeros:
 
-En la primera y segunda planta, por metro cuadrado 0.13 S.M.G.
+a).- Con cupo de hasta 10 pasajeros 10 S.M.G.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+b).- Con cupo de más de 10 y hasta 100 pasajeros 20 S.M.G.
 
-XI.- En cualquier otro servicio no especificado. De 1.0 hasta 10.0 S.M.G.
+c).- Con cupo de más de 100 pasajeros 30 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+V.- Verificación sanitaria desinfectación o desinfección para vehículos, embarcaciones y aeronaves que se dediquen al transporte de carga, por tonelada de carga 20 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+VI.- Guía sanitaria por embarque 2 al millar ad valoren.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+VII.- Verificación sanitaria solicitada:
+
+a).- En el Municipio de Othón P. Blanco 6.00 S.M.G.
+
+b).- En el Municipio de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 4.00 S.M.G.
+
+c).- En el Municipio de Benito Juárez, Solidaridad, Isla Mujeres, Cozumel y Tulum 12.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Por desinfección desinfectación 8.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+IX.- Por reposición o expedición extemporánea de aviso de funcionamiento de salubridad local:
+
+a).- En el Municipio de Othón P. Blanco 3.00 S.M.G.
+
+b).- En el Municipio de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 2.00 S.M.G.
+
+c).- En el Municipio de Benito Juárez, Solidaridad, Isla Mujeres, Cozumel y Tulum 4.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+X.- Por verificación de productos del mar 12.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XI.- Autorización y verificación de planos por metro cuadrado 0.13 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XII.- Por expedición de certificado médico sin tipo de sangre 0.76 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XIII.- Por expedición de certificado médico con tipo de sangre 1.34 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XIV.- Por expedición de certificado médico prenupcial con tipo de sangre y VDRL 1.82 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XV.- Por expedición de certificado médico prenupcial con tipo de sangre y VDRL, incluyendo prueba de VIH 3.94 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XVI.- Oxigenación hiperbárica por servicio 6.92 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XVII.- Hemodiálisis con equipo para residentes nacionales 28.87 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XVIII.- Hemodiálisis con equipo para residentes extranjeros 92.39 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XIX.- Descompresión por hora 21.17 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XX.- En cualquier otro servicio no especificado de 1.00 a 10.00 S.M.G.
 
 ### CAPITULO XIII. LEGALIZACION DE FIRMAS Y CERTIFICACION DE COPIAS Y DOCUMENTOS
 
@@ -7623,7 +7905,7 @@ XIII.- Inscripción de revocación de poderes por cada apoderado 2.88 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-XIV.- Inscripción relativa a habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que en su defecto necesita la mujer para los mismos fines, la revocación de las mismas y las escrituras a que se refieren las fracciones X y Xl del artículo 21 de Código de Comercio................ 1.73 S.M.G.
+XIV.- Inscripción relativa a habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que en su defecto necesita la mujer para los mismos fines, la revocación de las mismas y las escrituras a que se refieren las fracciones X y XI del artículo 21 de Código de Comercio................ 1.73 S.M.G.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -7861,7 +8143,7 @@ Por el uso de la imagen de las ANP's y sus recursos: 380 S.M.G.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARIA DE EDUCACION Y CULTURA, A TRAVES DE LOS SERVICIOS EDUCATIVOS Y CULTURALES
+### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARIA DE EDUCACION
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -7919,7 +8201,9 @@ b).- Por el servicio de 24 horas de labores por 24 horas de descanso que preste 
 
 Las personas físicas o morales que requieran del servicio especial, lo solicitarán por escrito ante las oficinas recaudadoras indicando número de personal requerido, fecha de inicio y terminación del convenio, domicilio donde se prestará el servicio, nombre y denominación o razón social del solicitante, domicilio del mismo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO XX. DE LOS DERECHOS QUE SE GENERAN POR EL CONTROL, VIGILANCIA, Y EVALUACION
 
@@ -8229,7 +8513,7 @@ la Cultura Maya. 50 S.M.G. Por evento
 
 k).- Poliforum. 50 S.M.G. Por evento
 
-l) Galería de la Casa de
+l).- Galería de la Casa de
 
 la Cultura de Cozumel. 30 S.M.G. Por evento
 
@@ -8254,6 +8538,12 @@ Cultura de Chetumal. 10 S.M.G. Por evento.
 q).- Cafetería de la Casa
 
 de la Cultura ce Chetumal. 30 S.M.G. Por mes
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+Cuando los espacios contemplados en la tabla antes citada, sean requeridos para eventos de carácter oficial por el Gobierno del Estado o Municipios, no se causará derecho alguno.
 
 II.- Por el uso de la casa
 
@@ -8291,115 +8581,101 @@ Las tarifas contempladas en la tabla anterior, serán reducidas en un 50%, para 
 
 VII.- Por el acceso a la educación que imparten las escuelas estatales, se cobrará de acuerdo a la siguiente tarifa:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
 Por inscripción Por mensualidad
 
-a).- De música Carrera: 2.75 S.M.G. Carrera: 2.75 S.M.G.
+a).- De música Carrera: 2.50 S.M.G. Carrera: 2.50 S.M.G.
 
-Taller: 2.00 S.M.G. Taller: 2.00 S.M.G.
+Taller: de 0.57 S.M.G. taller de 1.44 S.M.G.
 
-b).- De danza 3.0 S.M.G. Aerodance, yoga y
+Hasta 3.0 S.M.G. hasta 5.00 S.M.G.
 
-ballet Danzo y
+b).- De danza De 0.87 S.M.G hasta De 1.44 S.M.G.
 
-Jazz:3.00 S.M.G.
+3.00 S.M.G. hasta 5.00 S.M.G.
 
-Sensibilización y jardín
+c).- De artes 1.00 S.M.G. Taller de dibujo y
 
-de danza: 2.00 S.M.G.
+plásticas pintura
 
-c).-De artes
+1.00 S.M.G.
 
-plásticas 1.00 S.M.G. Taller de dibujo
+2.00 S.M.G. Artes plásticas
 
-y pintura: 1.00 S.M.G.
-
-2.00 S.M.G. Artes plásticas: 2.00
-
-S.M.G.
+2.00 S.M.G.
 
 1.00 S.M.G. Taller juvenil de
 
-teatro: 1.00 S.M.G.
+Teatro
 
-Exento Curso avanzado de
+1.00 S.M.G.
 
-artes plásticas:12.5
+exento Curso avanzado
 
-S.M.G.
+de artes plásticas
+
+de 1.73 S.M.G.
+
+hasta 6.00 S.M.G.
+
+por trimestre
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 VIII.- Por el acceso a la educación que imparten las casas de la cultura en el Estado, se cobrará de acuerdo a la siguiente tarifa:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
 ZONA NORTE
 
 Por inscripción Por mensualidad
 
-a).-En Cancún 3.00 S.M.G. Lengua Maya: 4.25 S.M.G.
+a).-En Cancún De 0.92 hasta De 1.27 S.M.G.
 
-Inicio de música: 7.25 S.M.G.
+3.00 S.M.G. hasta 13.00 S.M.G.
 
-Jazz, danza, dibujo, ballet,
+b).-En Cozumel De 0.87 hasta De 1.58 S.M.G.
 
-música: 8.50 S.M.G.
+hasta 3.00 S.M.G. hasta 7.00 S.M.G.
 
-Ballet 1, tango argentino:
+c).- En Tulum De 0.28 hasta De 0.28 hasta
 
-10 S.M.G.
+3.00 S.M.G. hasta 7.00 S.M.G.
 
-Inicio de artística, dibujo y
-
-pintura: 10.5 S.M.G.
-
-Piano, vitral, cinematografía:
-
-12.50 S.M.G.
-
-b).-En Cozumel 3.0 S.M.G. Ballet, jazz, bailes modernos,
-
-piano, guitarra, batería, canto,
-
-pintura, hawaiano, folklore,
-
-salsa, gimnasia y ajedrez:
-
-5.25 S.M.G.
-
-Danza y karate: 6.25 S.M.G.
-
-c).- En Tulum Tae Kwon Do: Bordado, danza, música,
-
-200 S.M.G. artes plásticas, global,
-
-Internacional: 1.00 S.M.G.
-
-Bordado, danza,
-
-música, artes
-
-plásticas: 1.00 Tae Kwon Do e inglés: 6.25
-
-S.M.G. S.M.G.
-
-Secretarial: 13.50 S.M.G.
+d).- En Kantunilkin EXENTO EXENTO
 
 En lo relativo a la impartición de los talleres de Lengua Maya, la Secretaría deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ZONA SUR
 
 Por inscripción Por mensualidad
 
-a).- en Chetumal. 1.50 S.M.G. 3.00 S.M.G.
+a).- en Chetumal. De 0.45 hasta De 0.90 hasta
 
-b).- en Calderitas. 0.65 S.M.G. 0.25 S.M.G.
+2.00 S.M.G. hasta 3.00
 
-c).- en Bacalar. exento 1.00 S.M.G.
+S.M.G.
 
-d).- Felipe C. Puerto. 1.00 S.M.G. 2.00 S.M.G.
+b).- en Calderitas. EXENTO EXENTO
 
-e).- Chunhuhub. exento exento
+c).- en Bacalar. EXENTO EXENTO
+
+d).- Felipe C. Puerto. EXENTO EXENTO
+
+e).- En Chunhuhub. EXENTO EXENTO
 
 Con respecto a las tarifas de la tabla anterior, la Secretaría deberá contemplar espacios disponibles de manera gratuita a favor de personas mexicanas que residan en el Estado.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
 
@@ -8430,8 +8706,6 @@ Con respecto a las tarifas de la tabla anterior, la Secretaría deberá contempl
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO IV. DE LOS PRODUCTOS
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO UNICO
 
@@ -8473,43 +8747,93 @@ La venta del Periódico Oficial y los avisos que se inserten en el mismo, se suj
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Periódico hasta 5 hojas 1.00 S.M.G.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+I.- Periódico hasta 5 hojas 1 S.M.G.
 
-II.- Periódico de 6 hasta 100 hojas 1.50 S.M.G.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+II.- Periódico de 5 hasta 100 hojas 1.50 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 III.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Suscripción anual: 24 números ordinarios 20.00 S.M.G.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+IV.- Suscripción Anual: 24 números ordinarios 20 S.M.G.
 
-V.- Suscripción semestral: 12 números ordinarios 13.00 S.M.G.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
-VI.- Publicaciones por renglón 0.50 S.M.G.
+V.- Suscripción Semestral: 12 números ordinarios 13 S.M.G.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII. Publicaciones de más de 100 hojas 4.00 S.M.G.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+VI.- Periódico hasta 5 hojas vía internet 0.98 S.M.G.
 
-VIII. Búsqueda de publicación 1.00 S.M.G.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
-IX. Publicaciones extraordinarias menos de 5 hojas 119.00 S.M.G.
+VII. Periódico de 6 hasta 100 hojas vía internet 0.96 S.M.G.
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. Número especial de más de 200 hojas: 9.00 S.M.G.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+VIII. Suscripción anual: 24 números ordinarios, vía internet 9.62 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+IX. Suscripción semestral: 12 números ordinarios, vía internet 6.73 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+X. Publicaciones especiales de más de más de 100 hojas, vía internet 0.50 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XI. Publicaciones por renglón 0.50 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XII. Publicaciones de más de 100 hojas 4.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XIII. Búsqueda de publicación 1.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XIV. Publicaciones extraordinarias menos de 5 hojas 119.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+XV. Número especial de más de 200 hojas 9.00 S.M.G.
 
 El pago de los productos anteriores se harán por adelantado en las oficinas recaudadoras de rentas del Estado.
 
@@ -8545,7 +8869,37 @@ Las cuotas o tarifas aplicables al artículo anterior, serán las que autoricen,
 
 Los productos no especificados en este capítulo se cobrarán conforme a las cuotas que fije la tarifa que expida el Gobierno del Estado, esta tarifa y sus reformas surtirán sus efectos 30 días después de su publicación en el Periódico Oficial del Estado, así como el costo administrativo que origine la impresión o fabricación de formatos, calcomanías y demás valores, cualquiera que sea su tamaño, forma o composición. De acuerdo a la siguiente
 
-(VEASE TABLA ANEXA)
+TARIFA:
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+
+a).- Por reposición de documento extraviado
+
+inclusive licencias de funcionamiento. 2.00 S.M.G.
+
+b).- Por formato de alta y baja de vehículos. 0.50 S.M.G.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+
+c).- Por tarjeta de circulación. 0.25 S.M.G.
+
+d).- Por formatos en general. 0.0647 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
+e).- Por el título definitivo que se expida conforme al artículo 210 de esta ley, se cobrará de acuerdo a las siguientes bases:
+
+VALOR DEL TERRENO TARIFA
+
+Menor de $ 3,000.00 hasta 10 S.M.G.
+
+De $ 3,000.00 a $ 6,000.00 hasta 20 S.M.G.
+
+Mayor de $ 6,000.00 a $ 10,000.00 hasta 40 S.M.G.
+
+Mayor de $10,000.00 a $ 20,000.00 hasta 60 S.M.G.
+
+Mayor de $20,000.00 en adelante hasta 100 S..M.G.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -9398,3 +9752,75 @@ QUINTO.- El presente Decreto entrará en vigor a partir del 1o. de Enero de 2009
 P.O. 30 DE OCTUBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2009.
+
+Primero.- En tanto el Estado de Quintana Roo, permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes impuestos y derechos:
+
+I.- IMPUESTOS:
+
+1.- Al comercio y la industria.
+
+2.- Sobre productos y rendimientos de capital de manera parcial.
+
+3.- Sobre la enajenación de vehículos de motor y bienes muebles entre particulares de manera parcial.
+
+4.- Sobre la compraventa de primera mano de productos agrícolas.
+
+5.- Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6.- Sobre compraventa de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+7.- Sobre la cría de ganado.
+
+8.- Sobre compraventa o permuta de ganado o sus esquilmos.
+
+9.- Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
+
+10.- Sobre explotación y venta de primera mano de diversos materiales para la construcción.
+
+II.- DERECHOS:
+
+A).- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales e industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar las excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1.- Licencias de construcción.
+
+2.- Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3.- Licencias para fraccionar o lotificar terrenos.
+
+4.- Licencias para conducir vehículos.
+
+5.- Expedición de placas y tarjetas para la circulación de vehículos.
+
+6.- Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7.- Licencias, permisos o autorizaciones para la colocación de anuncios o carteles para la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B).- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro Civil.
+
+2. Registro Público de la Propiedad y del Comercio.
+
+C).- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D).- Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A y B de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las entidades federativas o a los municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+Segundo.- Tratándose de empresas dedicadas a la construcción, que deseen efectuar la contribución del impuesto en una sola exhibición en forma anticipada, siempre y cuando se trate de obra privada, se aplicarán los valores y porcentajes publicados en el Diario Oficial de la Federación, del costo de mano de obra por metro cuadrado para obra privada, mismos que se publican de forma anual a petición de la Dirección de Afiliación y Cobranza del Instituto Mexicano del Seguro Social.
+
+Tercero.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+Cuarto.- El presente Decreto entrará en vigor a partir del primero de enero del año 2010, previa publicación en el Periódico Oficial del Estado.
