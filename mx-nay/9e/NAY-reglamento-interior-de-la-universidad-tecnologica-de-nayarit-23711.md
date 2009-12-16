@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-universidad-tecnologica-de-nayarit-23
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2007-01-10"
+last_updated: "2009-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -650,9 +650,15 @@ II.- Las agresiones físicas, morales o verbales contra cualquier miembro de la 
 
 III.- La utilización del patrimonio de la Universidad para fines distintos a aquellos que está destinado;
 
-IV.- Los actos contra la disciplina y el orden de la Universidad, y
+IV.- Los actos contra la disciplina y el orden de la Universidad, y (sic)
 
-V.- El daño intencional contra los bienes de la institución.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+V.- El daño intencional contra los bienes de la institución, y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+VI.- El consumo de tabaco en todo el campus universitario.
 
 ###### ARTÍCULO 52.
 
@@ -739,5 +745,9 @@ SEGUNDO.- Los aspectos no previstos en este Reglamento serán objeto de análisi
 A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
 
 P.O. 10 DE ENERO DE 2007.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NAYARIT.
+
+P.O. 16 DE DICIEMBRE DE 2009.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NAYARIT.
