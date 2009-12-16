@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-archivo-general-del-estado-y-la-biblioteca-1083
 country: "mx"
 rank: "ley"
 publication_date: "1978-09-08"
-last_updated: "1985-11-05"
+last_updated: "2009-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL ARCHIVO GENERAL DEL ESTADO Y LA BIBLIOTECA PUBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el viernes 8 de septiembre de 1978.
 
@@ -43,65 +43,37 @@ D E C R E T A :
 
 LEY QUE CREA EL ARCHIVO GENERAL DEL ESTADO Y LA BIBLIOTECA PUBLICA DEL ESTADO DE PUEBLA.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE PUEBLA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
 ### CAPITULO I
 
 ###### ARTICULO 1o.
 
-Se crea el Archivo Administrativo e Histórico del Estado de Puebla, cuyos objetivos fundamentales serán los de recibir, revisar, clasificar, archivar, conservar y depurar el acervo documental y bibliográfico de la Entidad, así como proporcionar los servicios relativos a su consulta y certificación.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE PUEBLA, P.O. 16 DE DICIEMBRE DE 2009)
 
 ###### ARTICULO 2o.
 
-El Archivo Administrativo e Histórico será una Dependencia de la Secretaría de Cultura y tendrá las secciones que sean necesarias para cumplir sus objetivos.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE PUEBLA, P.O. 16 DE DICIEMBRE DE 2009)
 
 ###### ARTICULO 3o.
 
-El acervo del Archivo Administrativo e Histórico del Estado estará constituido por:
-
-I.- Los expedientes, legajos, libros y demás documentos de trámite concluido existentes en las Oficinas y Dependencias del Poder Ejecutivo del Estado, que por su importancia merezcan ser conservados temporal o permanentemente.
-
-II.- Los expedientes, libros, legajos y demás documentos públicos o privados que, por su importancia y origen, se consideren de trascendencia y valor histórico para el Estado de Puebla.
-
-III.- Los documentos históricos de propiedad privada y los provenientes de los Archivos de los Municipios y Poderes Legislativo y Judicial del Estado que le sean encomendados para su guarda y conservación; así como los archivos, libros, legajos y demás documentos que se hallen en depósito para su custodia y conservación en otros Organismos o Instituciones.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE PUEBLA, P.O. 16 DE DICIEMBRE DE 2009)
 
 ###### ARTICULO 4o.
 
-Para los efectos del Artículo anterior, las Oficinas y Dependencias del Poder Ejecutivo remitirán anualmente al Archivo Administrativo e Histórico del Estado los documentos a que dicha disposición se refiere, con excepción de los correspondientes al Registro Público de la Propiedad y al Archivo General de Notarías que por razón de sus propias funciones deben conservarlos en su poder.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE PUEBLA, P.O. 16 DE DICIEMBRE DE 2009)
 
 ###### ARTICULO 5o.
 
-Los Archivos de los Municipios y de los Poderes Legislativo y Judicial de la Entidad, coordinarán sus funciones con el Archivo Administrativo e Histórico del Estado y recibirán de éste la asesoría técnica que lo (sic) soliciten.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE PUEBLA, P.O. 16 DE DICIEMBRE DE 2009)
 
 ###### ARTICULO 6o.
 
-El Archivo Administrativo e Histórico del Estado tendrá las siguientes atribuciones:
-
-I.- Recibir y catalogar la documentación que le envíen las Oficinas y Dependencias del Ejecutivo.
-
-II.- Mantener un eficiente control de la documentación recibida, promoviendo su debida expedientación (sic).
-
-III.- Preservar, custodiar e incrementar el acervo documental histórico.
-
-IV.- Rescatar los documentos de trascendencia histórica que se encuentren en poder de Instituciones Públicas o Privadas, o de particulares.
-
-V.- Adquirir los originales o reproducciones de documentos que, producidos o existentes en otro Estado del País o en el extranjero, sean de especial interés para el estudio de nuestra historia.
-
-VI.- Recibir en custodia los documentos históricos de propiedad privada y los provenientes de los archivos de los Municipios y Poderes Legislativo y Judicial del Estado, que le sean encomendados para su guarda y conservación.
-
-VII.- Reproducir los documentos de su acervo en fotostáticas, microfilm u otro procedimiento facsimilar, con sujeción al Reglamento respectivo.
-
-VIII.- Proporcionar los servicios de consulta y certificación, en los términos que disponga el Reglamento.
-
-IX.- Establecer los órganos de información que se estimen convenientes.
-
-X.- Las demás que deriven de este ordenamiento y de su correspondiente Reglamento.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE PUEBLA, P.O. 16 DE DICIEMBRE DE 2009)
 
 ###### ARTICULO 7o.
 
-El Archivo Administrativo e Histórico estará bajo la responsabilidad de un Director General nombrado por el Secretario de Cultura y contará con el personal que determine el propio Secretario en función de las necesidades que el referido Archivo demande.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE PUEBLA, P.O. 16 DE DICIEMBRE DE 2009)
 
 ### CAPITULO II. De la Biblioteca
 
@@ -180,3 +152,27 @@ P.O. 5 DE NOVIEMBRE DE 1985.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2009.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se abroga la Ley que crea el Sistema Estatal de Archivos de Puebla de fecha treinta y uno de octubre de mil novecientos ochenta y cinco, publicada en el Periódico Oficial del Estado el cinco de noviembre de ese mismo año.
+
+TERCERO. Se abroga la Ley que crea los Archivos Municipales del Estado de Puebla de fecha veinticinco de octubre de mil novecientos ochenta y cuatro, publicada en el Periódico Oficial del Estado el dieciséis de noviembre de ese mismo año.
+
+CUARTO. Se derogan las disposiciones de la Ley que crea el Archivo General del Estado y la Biblioteca Pública de Puebla, de fecha siete de septiembre de mil novecientos setenta y ocho, publicada en el Periódico Oficial del Estado el ocho de septiembre de ese mismo año, en lo relativo al Archivo General del Estado.
+
+QUINTO. Se derogan las demás disposiciones que se opongan a la presente Ley.
+
+SEXTO. El Consejo Estatal de Archivos y los Comités de Archivos Estatales y Municipales, deberán celebrar sesión de instalación, en un plazo no mayor de seis meses, contados a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO. Los Órganos Gubernamentales contarán con el plazo de un año para el cumplimiento de las obligaciones que señalan las fracciones I, II, III, IV y XI del artículo 13 de la presente Ley.
+
+OCTAVO. Los Órganos Gubernamentales contarán con el plazo de tres años para el cumplimiento de las obligaciones que señalan las fracciones VI, VII, VIII, IX y XII del artículo 13 de la presente Ley.
+
+NOVENO. Los Órganos Gubernamentales dentro del plazo de seis meses contados a partir de la entrada en vigor del presente ordenamiento, emitirán el Reglamento respectivo.
+
+En el caso de los Poderes Legislativo y Judicial, expedirán los reglamentos que correspondan en el ámbito de su competencia, conforme a las disposiciones legales aplicables.
+
+DÉCIMO. Las erogaciones que se deriven de la aplicación de esta Ley, estarán sujetas a la suficiencia presupuestal correspondiente.
