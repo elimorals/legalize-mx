@@ -4,7 +4,7 @@ identifier: "FED-decreto-por-el-que-se-establece-el-impuesto-general-de-64759"
 country: "mx"
 rank: "decreto"
 publication_date: "2008-12-24"
-last_updated: "2009-03-03"
+last_updated: "2009-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64759&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -182,3 +182,11 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 CRONOLOGÍA DE LOS DECRETOS DE ACTUALIZACIONES.
 
 > <small>[N. DE E. A CONTINUACIÓN SE LISTAN DE MODO CRONOLÓGICO Y ANEXAN LOS DECRETOS DE ACTUALIZACIONES AL "DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACIÓN PARA LA REGIÓN FRONTERIZA Y LA FRANJA FRONTERIZA NORTE".]</small>
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 3 DE MARZO DE 2009.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO A LAS "MODIFICACIONES AL DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACIÓN PARA LA REGIÓN FRONTERIZA Y LA FRANJA FRONTERIZA NORTE".]</small>
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 16 DE DICIEMBRE DE 2009.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO A LAS "MODIFICACIONES AL DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACIÓN PARA LA REGIÓN FRONTERIZA Y LA FRANJA FRONTERIZA NORTE".]</small>
