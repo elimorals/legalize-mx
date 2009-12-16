@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-los-archivos-municipales-del-estado-de-puebla-1077
 country: "mx"
 rank: "ley"
 publication_date: "1984-11-16"
-last_updated: "1984-11-16"
+last_updated: "2009-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY QUE CREA LOS ARCHIVOS MUNICIPALES DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE ARCHIVOS DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 16 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 16 de noviembre de 1984.
 
@@ -110,3 +112,29 @@ Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza a los 25 días del mes de octubre de 1984.- Diputado Presidente.- Dr. Sergio Sandoval Espinosa.- Rúbrica.- Diputado Secretario.- Marco Antonio Fosado Ortiz.- Rúbrica.- Diputado Secretario.- Oscar Aguilar González.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los veintiséis días del mes de octubre de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Melquiades Morales Flores.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE DICIEMBRE DE 2009.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se abroga la Ley que crea el Sistema Estatal de Archivos de Puebla de fecha treinta y uno de octubre de mil novecientos ochenta y cinco, publicada en el Periódico Oficial del Estado el cinco de noviembre de ese mismo año.
+
+TERCERO. Se abroga la Ley que crea los Archivos Municipales del Estado de Puebla de fecha veinticinco de octubre de mil novecientos ochenta y cuatro, publicada en el Periódico Oficial del Estado el dieciséis de noviembre de ese mismo año.
+
+CUARTO. Se derogan las disposiciones de la Ley que crea el Archivo General del Estado y la Biblioteca Pública de Puebla, de fecha siete de septiembre de mil novecientos setenta y ocho, publicada en el Periódico Oficial del Estado el ocho de septiembre de ese mismo año, en lo relativo al Archivo General del Estado.
+
+QUINTO. Se derogan las demás disposiciones que se opongan a la presente Ley.
+
+SEXTO. El Consejo Estatal de Archivos y los Comités de Archivos Estatales y Municipales, deberán celebrar sesión de instalación, en un plazo no mayor de seis meses, contados a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO. Los Órganos Gubernamentales contarán con el plazo de un año para el cumplimiento de las obligaciones que señalan las fracciones I, II, III, IV y XI del artículo 13 de la presente Ley.
+
+OCTAVO. Los Órganos Gubernamentales contarán con el plazo de tres años para el cumplimiento de las obligaciones que señalan las fracciones VI, VII, VIII, IX y XII del artículo 13 de la presente Ley.
+
+NOVENO. Los Órganos Gubernamentales dentro del plazo de seis meses contados a partir de la entrada en vigor del presente ordenamiento, emitirán el Reglamento respectivo.
+
+En el caso de los Poderes Legislativo y Judicial, expedirán los reglamentos que correspondan en el ámbito de su competencia, conforme a las disposiciones legales aplicables.
+
+DÉCIMO. Las erogaciones que se deriven de la aplicación de esta Ley, estarán sujetas a la suficiencia presupuestal correspondiente.
