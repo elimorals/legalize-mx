@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-alternativa-del-estado-de-quintana-roo-11914"
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-14"
-last_updated: "2008-03-11"
+last_updated: "2009-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 16 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el jueves 14 de agosto de 1997.
 
@@ -308,3 +310,19 @@ PRIMERO.- El presente decreto entrará en vigor el día 1° de Septiembre del a�
 SEGUNDO.- En tanto entra en vigor el presente decreto, los servicios de ayuda técnico-legal a aquellas personas que carecen de recursos para contratar abogados o defensores particulares y el servicio de defensoría de oficio y asistencia jurídica seguirán siendo proporcionados por el Centro de Asistencia Jurídica del Poder Judicial del Estado.
 
 TERCERO.- Publíquese el presente decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 16 DE DICIEMBRE DE 2009.
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Queda abrogada la Ley de Justicia Alternativa, emitida por la IX Legislatura del Estado, mediante Decreto Número 80 y publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+TERCERO.- El Centro de Justicia Alternativa del Estado de Quintana Roo, dentro del término de 60 días naturales a partir de la entrada en vigor de la presente ley, deberá presentar para su aprobación ante el H. Consejo de la Judicatura del Poder Judicial del Estado, el reglamento interno y manual de procedimiento operativo del Centro de Justicia Alternativa del Estado de Quintana Roo. Documentos estos, que deberá aprobar el Consejo a más tardar, dentro del término de 30 días hábiles siguientes a las de su presentación.
+
+CUARTO.- Se derogan las disposiciones que se opongan a la presente ley.
+
+ARTÍCULOS TRANSITORIOS:
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
