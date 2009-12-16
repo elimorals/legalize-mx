@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-44412"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-14"
-last_updated: "2009-11-13"
+last_updated: "2009-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACION DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 14 de marzo de 2005
 
@@ -460,6 +460,14 @@ d) Cuida particularmente el transcurso natural de transición físico-corporal y
 La terminación de los estudios de secundaria abre oportunidades diversas para la incorporación al trabajo productivo y para continuar estudios escolares. La secundaria se articula con diversas modalidades de educación media y con otras de capacitación laboral.
 
 La educación secundaria, en general, abarca tres grados, y es antecedente académico del Bachillerato.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 30
+
+Bis.- La Secretaría implementará programas que fomenten en los educandos el consumo de alimentos de alto valor nutricional y establecerá los lineamientos que regulen la venta y consumo de alimentos o bebidas de bajo o nulo valor nutricional.
+
+La Coordinación de Nutrición Escolar, que estará vinculada con la Secretaría de Salud, promoverá y fomentará programas que establezcan entre otros aspectos la autorización de expendios de alimentos y bebidas en los centros escolares, revisión de sus menús, supervisión de la calidad de los alimentos que ofertan a los alumnos y las sanciones a que haya lugar por incumplimiento de los lineamientos.
 
 ### CAPÍTULO ÚNICO
 
@@ -1222,3 +1230,9 @@ P.O. 13 DE NOVIEMBRE DE 2009.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Las autoridades educativas realizarán las acciones necesarias que permitan dar cumplimiento a lo que establece la fracción VIII y IX del Artículo 20 de la presente ley a los 90 días de la entrada en vigor del presente decreto y presentaran un informe al respecto a las Comisiones de Salud, Educación, Cultura y Deportes; de Equidad y Género; y de Reglamentos de esta H. XII Legislatura.
+
+P.O. 16 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
