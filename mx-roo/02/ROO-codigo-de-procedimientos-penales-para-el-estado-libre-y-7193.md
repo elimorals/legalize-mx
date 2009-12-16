@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2009-11-06"
+last_updated: "2009-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2009.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -677,11 +677,15 @@ Tratándose de ataques a las vías de comunicación, si no fuere posible practic
 
 En los casos de ilícitos cometidos contra la seguridad del tránsito de vehículos, el tipo penal se comprobará con el examen médico que demuestre el estado de intoxicación y las alteraciones psíquicas y físicas del acusado, debiendo además acompañarse el documento correspondiente a la infracción al reglamento de tránsito, diversa a la de manejar en estado de ebriedad o bajo el influjo de estupefacientes.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 84.
 
-En la comprobación del tipo penal, los tribunales gozarán de la acción más amplia para emplear los medios de investigación que estimen conducentes según su criterio, aunque no sean los que menciona la ley, siempre que estos medios no estén reprobados por ella.
+En la comprobación del tipo penal, los Tribunales gozarán de la acción más amplia para emplear los medios de investigación que estimen conducentes según su criterio, aunque no sean los que menciona la ley, siempre que estos medios no estén reprobados por ella.
+
+En los delitos perseguidos por querella, el Ministerio Público durante la averiguación previa, o el Juez del conocimiento durante la etapa de instrucción, deberá a solicitud de cualquiera de las partes, remitir copia debidamente certificada del expediente al Centro de Justicia Alternativa de su jurisdicción, para la aplicación de los medios alternativos que propicien la solución anticipada del conflicto, mediante el acuerdo de voluntades y otorgamiento del perdón, suspendiéndose la integración de la averiguación previa o la instrucción hasta por un plazo no mayor de quince días.
+
+Para el caso de que alguna de las partes no acudiera o manifestara su negativa para someterse a dicho procedimiento alternativo ante el Centro, el titular de dicho árgano remitirá el informe y constancias correspondientes continuándose con la integración de la averiguación previa o la instrucción según el caso.
 
 > <small>(F. DE E., P.O. 7 DE OCTUBRE DE 1990)</small>
 
@@ -3870,3 +3874,13 @@ SEGUNDO.- Los procedimientos penales iniciados con anterioridad a la entrada en 
 P.O. 6 DE NOVIEMBRE DE 2009.
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 16 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigora partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+ARTÍCULOS TRANSITORIOS:
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
