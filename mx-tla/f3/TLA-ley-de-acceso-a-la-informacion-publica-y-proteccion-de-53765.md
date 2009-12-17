@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-acceso-a-la-informacion-publica-y-proteccion-de-53765"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-12"
-last_updated: "2007-05-22"
+last_updated: "2009-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES PARA EL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Número Extraordinario al Periódico Oficial del Estado de Tlaxcala, el viernes 12 de enero de 2007.
 
@@ -43,13 +43,17 @@ LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA 
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley tienen por objeto regular el derecho de acceso a la información pública y la protección y tratamiento de los datos personales en el Estado de Tlaxcala.
+Las disposiciones de esta Ley tienen por objeto regular el Derecho de Acceso a la Información Pública y Protección de Datos Personales conforme a los principios y bases establecidos en el segundo párrafo del artículo 6° de la Constitución Política de los Estados Unidos Mexicanos; y en la fracción V del artículo 19 de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 2.
 
-Toda persona tiene el derecho de:
+En el Estado de Tlaxcala toda persona tiene el derecho de:
 
 I. Investigar, recibir y difundir hechos de interés público salvo las excepciones previstas en esta Ley, y
 
@@ -59,73 +63,89 @@ II. La protección de su información personal y sensible con respeto a su honor
 
 Son datos sensibles, aquellos datos personales que se refieren a las características físicas o morales de las personas, tales como los hábitos personales, el origen racial, las ideologías y opiniones políticas, las creencias o convicciones religiosas, los estados de salud físicos o psíquicos y la vida sexual.
 
-###### Artículo 3.
-
-En materia de datos personales no se podrán afectar los registros y fuentes periodísticas, y es aplicable a los datos de carácter personal que obren en archivos, registros, bancos bases de datos de las personas físicas o morales así como de las entidades públicas.
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
 Todo uso posterior, incluso no automatizado, de datos de carácter personal registrados en soporte físico susceptible de tratamiento automatizado deberá observar lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 3.
+
+Son objetivos de esta Ley:
+
+I. Proveer lo necesario para que toda persona pueda tener acceso gratuito a la información pública, así como a sus datos personales mediante procedimientos sencillos, gratuitos y expeditos;
+
+II. Transparentar el ejercicio de la función pública a través de un flujo de información oportuno, verificable, inteligible, relevante e integral, a fin de impulsar la contraloría ciudadana y el combate a la corrupción;
+
+III. Garantizar una adecuada y oportuna rendición de cuentas de los sujetos obligados a través de la generación y publicación de información sobre el ejercicio de los recursos públicos de manera completa, veraz, oportuna y comprensible;
+
+IV. Garantizar la protección de datos personales en posesión de los sujetos obligados;
+
+V. Mejorar la organización, clasificación, archivo y uso de la información pública;
+
+VI. Asegurar que los sujetos obligados preserven los documentos que obran en sus archivos administrativos y mantengan de ellos un registro actualizado;
+
+VII. Mejorar los niveles de participación ciudadana en la toma de decisiones públicas y en la evaluación de las políticas públicas, y
+
+VIII. Contribuir a mejorar la rendición de cuentas, la consolidación de la democracia, y la plena vigencia del Estado de derecho.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 4.
 
-Para los efectos de esta Ley, se entenderá por:
+Para los efectos de la presente Ley, se entenderá por:
 
-I. Comisión: La Comisión de Acceso a la Información Pública y. Protección de Datos Personales del Estado de Tlaxcala;
+I. Cesión de datos: La comunicación o transmisión de datos hacia una persona distinta del interesado;
 
-II. Consentimiento: La manifestación expresa, libre, inequívoca, específica e informada, mediante la cual el interesado consiente el tratamiento de datos personales de lo que es titulo;
+II. Comisión: A la Comisión de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Tlaxcala;
 
-III. Cesión de datos: La comunicación o transmisión de datos hacia una persona distinta del interesado;
+III. Comisionado: Es el servidor público integrante del Consejo General de la Comisión de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Tlaxcala;
 
-IV. Derecho de acceso a la información pública: La prerrogativa que tiene toda persona para acceder y obtener la información creada, administrada o en poder de las entidades públicas, en los términos de esta Ley;
+IV. Consejo General: Es el órgano máximo de gobierno interno de la Comisión, encargado de la organización e instrumentación de los programas y acciones de la misma;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2007)</small>
+V. Consentimiento: La manifestación expresa, libre, inequívoca, específica e informada, mediante la cual el interesado consiente el tratamiento de datos personales de lo que es titular;
 
-V. Datos personales: La información que unívocamente distingue a un individuo de otro. Incluye no sólo a las llamadas "calidades generales", sino también el origen étnico o racional, la filiación religiosa o ideológica, las preferencias sexuales, etc.
+VI. Datos informáticos: Los datos personales tratados automatizadamente;
 
-VI. Entidades públicas: Los sujetos obligados en términos de lo dispuesto en el artículo 5 de esta Ley;
+VII. Datos personales: La información relativa a la vida privada de las personas;
 
-VII. Información pública: Todo registro, archivo o cualquier dato que se recopile, mantenga, procese o se encuentre en poder de las entidades públicas a que se refiere esta Ley;
+VlII. Datos: Un dato es la unidad o cantidad mínima de información no elaborada, sin sentido en sí misma pero que convenientemente tratada se puede utilizar en la realización de cálculos o toma de decisiones;
 
-VIII. Información reservada: La información que se encuentra temporalmente fuera del acceso público en los términos previstos en esta Ley;
+IX. Derecho de acceso a la información pública: La prerrogativa que tiene toda persona para acceder y obtener la información creada, administrada o en poder de las entidades públicas, en los términos de esta Ley;
 
-IX. Información confidencial: La información en poder de las entidades públicas relativa a las personas, protegida por el derecho fundamental a la privacidad conforme lo dispone esta Ley;
+X. Disociación de datos: Todo tratamiento de datos personales que impida asociarlos a persona identificada o identificable;
 
-X. Interés público: Valoración atribuida a los fines que persigue la consulta y examen de la información pública;
+XI. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro en posesión de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, entre otros escritos, impresos, sonoro, visual, electrónico, informático u holográfico;
 
-XI. Servidor público: Los establecidos en el artículo 107 de la Constitución Política del Estado Libre y Soberano de Tlaxcala;
+XII. Entidades públicas: Los sujetos obligados en términos de lo dispuesto en el artículo 5 de esta Ley;
 
-XII. Registro de datos: Conjunto de datos personales, organizados y tratados automatizadamente en archivos, registros, bases o banco de datos;
+XIII. Expediente: Un conjunto de documentos relacionados;
 
-XIII. Tratamiento de datos: Operaciones y procedimientos sistemáticos que tienen por objeto obtener, guardar, ordenar, modificar, relacionar, cancelar y cualquiera otra que implique el procesamiento de datos, o su cesión a terceros a través de comunicaciones, consultas, interconexiones y transferencias;
+XIV. Información confidencial: La información en poder de las entidades públicas relativa a las personas, protegida por el derecho fundamental a la privacidad conforme lo dispone esta Ley;
 
-XIV. Responsable de los datos: Persona física o jurídica que ostenta la titularidad del archivo, registro, banco o base de datos;
+XV. Información personal: Es la información que facilita la identificación del individuo, como su nombre, dirección de correo electrónico o información de facturación, dirección y número telefónico, u otro tipo de datos que se puedan enlazar de manera razonable para generar algún tipo de información;
 
-XV. Datos informáticos: Los datos personales tratados automatizadamente:
+XVI. Información pública: Todo registro, archivo o cualquier dato que se recopile, mantenga, procese o se encuentre en poder de las entidades públicas a que se refiere esta Ley;
 
-XVI. Usuario de datos: Toda persona física, jurídica o entidad pública que trata datos personales de manera voluntaria, ya sea en archivos, registros, bancos de datos propios o a través de conexión con los mismos;
+XVII. Información reservada: La información que se encuentra temporalmente fuera del acceso público en los términos previstos en esta Ley;
 
-XVII. Disociación de datos: Todo tratamiento de datos personales que impida asociarlos a persona identificada o identificable, y (sic)
+XVIII. Información: La contenida en los documentos que los sujetos obligados generan, obtienen, adquieren, transforman o conservan por cualquier título, o bien aquella que por una obligación legal deban de generar;
 
-XVIII. Interesado: La persona física titular de los datos personales;
+XIX. Interés público: Valoración atribuida a los fines que persigue la consulta y examen de la información pública;
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2007)</small>
+XX. Interesado: La persona física titular de los datos personales;
 
-XIX. Información: Es un conjunto organizado de datos, que constituyen un mensaje sobre un determinado ente o fenómeno;
+XXI. Registro de datos: Conjunto de datos personales, organizados y tratados automatizadamente en archivos, registros, bases o banco de datos;
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2007)</small>
+XXII. Responsable de los datos: Persona física o jurídica que ostenta la titularidad del archivo, registro, banco o base de datos;
 
-XX. Datos: Un dato es la unidad o cantidad mínima de información no elaborada, sin sentido en sí misma pero que convenientemente tratada se puede utilizar en la realización de cálculos o toma de decisiones;
+XXIII. Servidor público: Los denominados en la Constitución Política del Estado Libre y Soberano de Tlaxcala;
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2007)</small>
+XXIV. Tratamiento de datos: Operaciones y procedimientos sistemáticos que tienen por objeto obtener, guardar, ordenar, modificar, relacionar, cancelar y cualquiera otra que implique el procesamiento de datos, o su cesión a terceros a través de comunicaciones, consultas, interconexiones y transferencias;
 
-XXI. Información personal: Es la información que facilita la identificación del individuo, como su nombre, dirección de correo electrónico o información de facturación, dirección y número telefónico, u otro tipo de datos que se puedan enlazar de manera razonable para generar algún tipo de información;
+XXV. Usuario de datos: Toda persona física, jurídica o entidad pública que trata datos personales de manera voluntaria, ya sea en archivos, registros, bancos de datos propios o a través de conexión con los mismos, y
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2007)</small>
-
-XXII. Comisionado: Es el servidor público e integrante de la Comisión de Acceso a la Información Pública y Protección de Datos Personales, y
-
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2007)</small>
-
-XXIII. Consejo General: Es el órgano de gobierno interno de la Comisión, encargado de la organización e instrumentación de los programas y acciones de la misma.
+XXVI. Versión pública: Documento en el que se testa o elimina la información como reservada o confidencial para permitir su acceso.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
 
@@ -135,11 +155,13 @@ De manera enunciativa y no limitativa, son sujetos obligados a garantizar y prop
 
 I. Las dependencias centralizadas y las entidades paraestatales de la Administración pública Estatal;
 
-II. Del Poder Legislativo las comisiones ordinarias o especiales, Gran Comisión. Mesa Directiva, Comisión Permanente, Comité de Administración, unidades técnico administrativas y el Órgano de Fiscalización Superior;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2007)</small>
+II. Del Poder Legislativo, las Comisiones Ordinarias o Especiales, la Junta de Coordinación y Concertación Política, Mesa Directiva, Comisión Permanente, Comité de Administración, Unidades Técnico Administrativas y el Órgano de Fiscalización Superior;
 
-III. El Tribunal Superior de Justicia, el Pleno, las Salas, los juzgados civiles, familiares y penales, la Comisión de Gobierno Interno y Administración, el Fondo Auxiliar para la lmpartición de Justicia, así como sus unidades administrativas, en el caso del Poder Judicial;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+III. El Tribunal Superior de Justicia, el Pleno, las Salas, los Juzgados Civiles, Familiares y Penales, el Consejo de la Judicatura, el Fondo Auxiliar para la Impartición de Justicia, así como sus Unidades Administrativas, en el caso del Poder Judicial;
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2007)</small>
 
@@ -159,9 +181,15 @@ VIII. Los patronatos, los partidos políticos las asociaciones civiles y demás 
 
 IX. En general cualquier servidor público titular de alguna oficina pública o privada que maneje, administre o aplique recursos públicos.
 
+> <small>(ADICIONADO. P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+Los particulares que ejerzan actos de autoridad estarán obligados a entregar la información relacionada con esos actos a través del sujeto obligado que supervise estas actividades.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 6.
 
-Para la interpretación de esta Ley se favorecerá el principio de publicidad de la información y el derecho al honor e intimidad de las personas y de su familia conforme al último párrafo del artículo 6 de la Constitución Política de los Estados Unidos Mexicanos, artículo 3 fracción VII de la Constitución Política del Estado Libre y Soberano de Tlaxcala, la Declaración Universal de los Derechos Humanos, el Pacto de Derechos Civiles y Políticos, la Convención Interamericana de Derechos Humanos, los instrumentos internacionales suscritos y ratificados por el estado mexicano en la materia y la interpretación de los mismos que hayan realizado los órganos internacionales especializados, la Sección Tercera, Título Quinto, Libro Cuarto del Código Civil del Estado de Tlaxcala, así corno la jurisprudencia o tesis emitidas por los tribunales federales o local.
+Para la interpretación de esta Ley se favorecerá el principio de máxima publicidad de la información y el derecho al honor e intimidad de las personas y de su familia conforme al último párrafo del artículo 6 de la Constitución Política de los Estados Unidos Mexicanos, artículo 19 fracción V de la Constitución Política del Estado Libre y Soberano de Tlaxcala, la Declaración Universal de los Derechos Humanos, el Pacto de Derechos Civiles y Políticos, la Convención lnteramericana de Derechos Humanos, los instrumentos internacionales suscritos y ratificados por el estado mexicano en la materia y la interpretación de los mismos que hayan realizado los órganos internacionales especializados, la Sección Tercera, Título Quinto, Libro Cuarto del Código Civil del Estado de Tlaxcala, así como la jurisprudencia o tesis emitidas por los tribunales federales o local.
 
 En el caso de que cualquier disposición de esta Ley o de los tratados internacionales en la materia pudieran tener varias interpretaciones, prevalecerá aquella que proteja con mayor eficacia el derecho de acceso a la información pública y el derecho al honor e intimidad de las personas y de su familia.
 
@@ -209,9 +237,21 @@ El registro de datos relativos a la prevención, persecución, sanción y ejecuc
 
 Los datos personales se deben conservar por el tiempo que determine la ley aplicable o las disposiciones contractuales vigentes entre las partes.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 13.
 
-La consulta de la información pública ser gratuita; sin embargo la reproducción de la misma en copias simples o elementos técnicos, será cubierta por el solicitante sin gravamen extraordinario alguno, sin que dicho costo sea superior a la suma del costo de los materiales utilizados y al costo por concepto de envío de la información en su caso.
+Las solicitudes de acceso a la información serán gratuitas. Los costos de la reproducción de la información solicitada se cobrarán al particular de manera previa a su entrega y se calculará atendiendo a:
+
+I. El costo de los materiales utilizados para la reproducción de la información;
+
+II. El costo de su envío, y
+
+III. La certificación de documentos, cuando proceda.
+
+Cuando una solicitud implique la expedición de algún documento que genere derechos, conforme a lo dispuesto por el Código Financiero para el Estado de Tlaxcala y sus Municipios y en las respectivas leyes de ingresos, éstos deberán cubrirse previamente. Para tal efecto, las entidades públicas pondrán a disposición de los solicitantes un número de cuenta bancaria en el que se efectúe el pago correspondiente a los derechos generados.
+
+Los costos y derechos deben observar el principio de un costo razonable de reproducción de la información.
 
 ###### Artículo 14.
 
@@ -223,9 +263,11 @@ El quebranto a esta disposición se sancionará conforme a las disposiciones pen
 
 ### Capítulo I. Información Difundida de Oficio
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 15.
 
-Las entidades públicas, en el ámbito de su competencia, difundirán de oficio, por lo menos, la información siguiente:
+Las entidades públicas atendiendo al principio de máxima publicidad, en el ámbito de su competencia, difundirán de oficio, por lo menos, la información siguiente:
 
 I. Estructura orgánica, reglamento interior, manuales de organización, y en general, la información en que se describan las atribuciones, funciones y obligaciones que correspondan a cada una de sus unidades administrativas;
 
@@ -267,23 +309,79 @@ Las partes podrán oponerse a la publicación de sus datos personales.
 
 XVI. Dictámenes sobre iniciativas que se presenten en el Congreso;
 
-XVII. Información anual de actividades, y
+XVII. Información anual de actividades, y (sic)
 
-XVIII. En general aquella información que sea de utilidad para el ejercicio del derecho de acceso a la información pública.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+XVIII. Lista con el importe por concepto de viáticos, gastos de representación, alimentación o su equivalente, y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+XIX. En general aquella información que sea de utilidad para el ejercicio del derecho de acceso a la información pública.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 16.
 
-La información relativa a los procedimientos de adjudicación de contratos de obras, adquisiciones, arrendamientos y prestación de servicios, así como concesiones, precisará:
+Las entidades públicas deberán publicar la información relativa a los procedimientos de adjudicación de contratos de obras, adquisiciones, arrendamientos y prestación de servicios, así como para el otorgamiento de concesiones.
 
-I. La identificación del contrato o concesión;
+I. De licitaciones públicas o por invitación:
 
-II. El monto;
+a) La convocatoria o invitación emitida;
 
-III. La descripción de las obligaciones, condiciones y en general la información que resulte de interés público sobre el particular;
+b) Los participantes o invitados;
 
-IV. El nombre del proveedor o contratista, o de la persona física o moral a quien se hubiese adjudicado, y
+c) El nombre del ganador y las razones que lo justifican;
 
-V. El plazo para su cumplimiento o de vigencia.
+d) La unidad administrativa solicitante y la responsable de su ejecución;
+
+e) La fecha del contrato, su monto y plazo de entrega o de ejecución de los servicios u obra licitada, e (sic)
+
+f) En su caso, los convenios modificatorios que recaigan a la contratación, precisando en qué consisten y su fecha de firma.
+
+II. De las adjudicaciones directas:
+
+a) Los motivos y fundamentos legales aplicados;
+
+b) En su caso, las cotizaciones considerables;
+
+c) El nombre de la persona adjudicada;
+
+d) La unidad administrativa solicitante y la responsable de su ejecución;
+
+e) La fecha del contrato, su monto y plazo de entrega o de ejecución de los servidores u obra licitada, e (sic)
+
+f) En su caso, los convenios modificatorios que recaigan a la contratación. Esta difusión deberá incluir el padrón de proveedores y contratistas así como los informes de avance sobre las obras o servicios contratados.
+
+III. Salvo la información reservada o confidencial, los expedientes sobre las concesiones, permisos licencias y autorizaciones otorgadas por los sujetos obligados serán públicos, incluidas todas aquellas constancias documentales que reciban los sujetos obligados sobre el aprovechamiento de las mismas;
+
+IV. La identificación de las personas a quienes, por cualquier motivo, se les entreguen o usen recursos públicos. Esta información se deberá acompañar de las convocatorias, reglas, montos, criterios o instrumentos jurídicos conforme las cuales se efectuó la transferencia de recursos;
+
+V. Los servicios y programas que ofrecen pudiendo identificar lo que corresponde a recursos federales, estatales y criterios de acceso, así como los padrones de las personas beneficiarias de los programas sociales;
+
+VI. Cualquier información que los sindicatos y las cámaras empresariales deban entregar a los sujetos obligados, incluida aquella que este relacionada con su registro, agremiados, contratos colectivos o reconocimiento de representatividad;
+
+VII. La relativa a los convenios o contratos que los sujetos obligados celebren con:
+
+a) La federación, los estados y los municipios;
+
+b) Organizaciones de la sociedad civil;
+
+c) Sindicatos;
+
+d) Cámaras empresariales;
+
+e) Partidos y cualquier otro tipo de agrupaciones políticas;
+
+f) Instituciones de enseñanza privada;
+
+g) Fundaciones;
+
+h) Cualquier institución pública del Estado, e
+
+i) Con otros países.
+
+VIII. Cualquier otra información que se considere relevante y la que responda a las preguntas más frecuentes de la sociedad.
 
 ###### Artículo 17.
 
@@ -321,9 +419,13 @@ En toda reunión en que intervengan servidores públicos de las entidades públi
 
 La información tendrá el carácter de reservada en los casos que su difusión:
 
-I. Comprometa la seguridad pública del Estado;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
-II. Dañe la estabilidad financiera del Estado;
+I. Comprometa la Seguridad Pública Municipal o Estatal;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+II. Dañe la estabilidad financiera del Estado y/o de los municipios;
 
 III. Ponga en riesgo la vida, seguridad o la salud de cualquier persona;
 
@@ -333,9 +435,17 @@ a) Verificación del cumplimiento de las leyes;
 
 b) Prevención o persecución de los delitos;
 
-c) Impartición de la justicia, e (sic)
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
-d) Fiscalización de contribuciones.
+c) Impartición de la justicia, o la seguridad de un denunciante o testigo, incluyendo sus familias,
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+d) Fiscalización o recaudación de las contribuciones, e
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+e) Estrategias procesales en cuestiones jurisdiccionales, arbitrales o administrativas mientras las resoluciones no hayan causado estado.
 
 V. Cause serio perjuicio a las estrategias procesales en cuestiones jurisdiccionales o administrativas mientras las resoluciones no hayan causado estado.
 
@@ -367,9 +477,13 @@ X. Los exámenes, evaluaciones o pruebas que para la obtención de grados, recon
 
 Los documentos que por su naturaleza no sean substituibles, como los manuscritos, ediciones, libros, publicaciones periódicas, mapas, planos, folletos y grabados importantes o raros y cualquier otro objeto o medio que contenga información de este género, deberán ser protegidos por las entidades públicas y los pondrán a consulta de los particulares, a través de los instrumentos que aseguren su conservación.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 24.
 
-La información no se clasificará como reservada cuando su contenido sea relevante para la protección de derechos fundamentales de las personas, de acuerdo con las leyes mexicanas y los instrumentos internacionales sobre la materia.
+La información sólo podrá ser clasificada como reservada mediante resolución fundada y motivada en la que, a partir de elementos objetivos o verificables, pueda identificarse una alta probabilidad de dañar el interés público protegido.
+
+No podrá invocarse el carácter de reservado cuando se trate de la investigación de violaciones graves de derechos fundamentales o delitos de lesa humanidad.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2007)</small>
 
@@ -437,21 +551,41 @@ VIII. Las demás necesarias para facilitar el acceso a la información, y las qu
 
 ### Capítulo II. Procedimiento de Acceso a la Información Pública
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 32.
 
-La solicitud se hará por escrito, o por medio de un sistema electrónico de gestión de solicitudes, en cuyo caso el responsable del área registrará en un formato las características de la solicitud y entregará una copia del mismo al interesado.
+El procedimiento relativo al acceso a la información se regirá por los siguientes principios:
+
+I. Máxima publicidad;
+
+II. Simplicidad y rapidez;
+
+Ill. Gratuidad del procedimiento;
+
+IV. Costo razonable de reproducción de la información;
+
+V. Suplencia de las deficiencias de las solicitudes, y
+
+VI. Auxilio y orientación a los particulares.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 33.
 
-La solicitud de la información que se presente por escrito, contendrá cuando menos los requisitos siguientes:
+La solicitud de información contendrá, cuando menos, los requisitos siguientes:
 
 I. Identificación de la entidad pública a quien se dirija;
 
-II. Nombre completo y documento de identificación oficial del solicitante;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+II. Nombre completo del solicitante;
 
 III. Datos claros y precisos información que requiere, y
 
-IV. Teléfono o dirección electrónica para recibir la información o notificaciones.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+IV. Domicilio, teléfono o dirección electrónica para recibir la información o notificaciones.
 
 Si la solicitud no especifica la información requerida o carece de alguno de los datos señalados en las fracciones anteriores, la entidad pública lo notificará por escrito al solicitante, en un plazo no mayor de cinco días hábiles después de recibida aquélla, a fin de que la aclare o complete, en un plazo no mayor a tres días hábiles, en caso contrario se tendrá por desechada la solicitud.
 
@@ -459,13 +593,27 @@ El solicitante contará con el apoyo del área responsable designada por la enti
 
 Si la solicitud es presentada ante una oficina que no es competente para entregar la información o que ya no la tenga en su poder, el responsable del área de la oficina receptora notificará de inmediato esta circunstancia al solicitante y lo orientará para dirigirse a dónde corresponda.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+En ningún caso la entrega de la información estará condicionada a que el solicitante motive o justifique su utilización.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 34.
 
-El acuerdo que niegue la información se le comunicará por escrito al solicitante dentro de los quince días hábiles siguientes. Esta negativa deberá estar fundada y motivada.
+La solicitud de acceso a la información podrá realizarse de forma verbal por comparecencia del solicitante, por escrito o por medio de un sistema electrónico de gestión de solicitudes; para tal efecto, la entidad obligada proporcionará al solicitante los formatos que previamente hayan sido aprobados por el Comité de Información.
+
+El encargado del Área Responsable de la Información brindará al solicitante el auxilio necesario para elaborar la solicitud y le entregará una copia de la misma al interesado.
+
+Si el trámite de solicitud de información es realizado vía electrónica, la entidad pública al momento de recibirla expedirá al solicitante, por la misma vía, un número de folio y verificará la autenticidad de la dirección electrónica proporcionada.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 35.
 
-Toda solicitud de información realizada en los términos de esta Ley, será contestada en un plazo no mayor de quince días hábiles. El plazo, previo acuerdo notificado al solicitante, se podrá prorrogar por única vez por otros diez días hábiles.
+El acuerdo que niegue la información se le comunicará por escrito al solicitante dentro de los quince días hábiles siguientes. Esta negativa deberá estar fundada y motivada.
+
+Toda solicitud de información realizada en los términos de esta ley, será contestada en un plazo no mayor de quince días hábiles. El plazo, previo acuerdo notificado al solicitante, se podrá prorrogar por única vez por otros diez días hábiles.
 
 ### Capítulo III. Comités de Información
 
@@ -487,13 +635,23 @@ Los comités de información tendrán las funciones siguientes:
 
 I. Coordinar y supervisar las acciones realizadas en su respectiva entidad pública para el cumplimiento de las disposiciones previstas en esta Ley;
 
-II. Establecer, de conformidad con las disposiciones reglamentarias, las medidas que coadyuven a una mayor eficiencia en la atención de las solicitudes de acceso a la información;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+II. Establecer, de conformidad con las disposiciones reglamentarias, las medidas que coadyuven a una mayor eficiencia en la atención de las solicitudes de acceso a la información y protección de datos personales;
 
 III. Supervisar la aplicación de los criterios de clasificación de la información expedidos por la Comisión;
 
-IV. Elaborar un programa para facilitar la sistematización y actualización de la información, mismo que deberá remitirse a la Comisión dentro de los primeros veinte días de cada año, y
+IV. Elaborar un programa para facilitar la sistematización y actualización de la información, mismo que deberá remitirse a la Comisión dentro de los primeros veinte días de cada año, y (sic)
 
-V. Enviar los datos necesarios para la elaboración del informe anual de la Comisión, de conformidad con lo que ésta solicite.
+V. Enviar los datos necesarios para la elaboración del informe anual de la Comisión, de conformidad con lo que ésta solicite;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+VI. Revisar la clasificación de información y resguardarla conforme a los criterios y lineamientos que al efecto expida la Comisión, elaborando, en los casos precedentes, la versión pública de dicha información;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+VII. Turnar a la Comisión para su aprobación o modificación, en su caso, los resultados de la clasificación de la información; (sic)
 
 ## TÍTULO CUARTO. DATOS PERSONALES
 
@@ -871,9 +1029,15 @@ I. Consejo General;
 
 II. Secretaría Técnica y de Asuntos Jurídicos;
 
-III. Dirección de Capacitación y Vinculación con Entidades Públicas, y
+III. Dirección de Capacitación y Vinculación con Entidades Públicas, y (sic)
 
-IV. Dirección de Informática y Desarrollo Administrativo.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+IV. Dirección de Informática;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+V. Dirección de Desarrollo Administrativo.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2007)</small>
 
@@ -899,11 +1063,13 @@ Para ser Comisionado se requiere cumplir con los requisitos siguientes:
 
 I. Ser mexicano por nacimiento y con residencia en el Estado no menor de cinco años anteriores a la fecha de su nombramiento;
 
-II. (DEROGADA, P.O. 22 DE MAYO DE 2007)
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2007)</small>
+II. Tener grado de Licenciatura en el área de Ciencias Sociales, con título y cédula profesional legalmente expedidos, con antigüedad no menor de cincos años anteriores a la fecha de la convocatoria;
 
-III. Tener grado de Licenciatura en el área de Ciencias Sociales, con título y cédula profesional legalmente expedidos, con antigüedad no menor de cincos años anteriores a la fecha de la convocatoria y contar con experiencia profesional en la materia;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+III. Demostrar experiencia en actividades profesionales, del servicio público o académicas relacionadas con la materia de esta Ley;
 
 IV. Gozar de reconocido prestigio profesional y personal;
 
@@ -939,7 +1105,9 @@ El resultado que de a conocer el Sínodo, será ratificado ante el Pleno en sesi
 
 Los comisionados rendirán la protesta de ley ante el Pleno del Congreso del Estado; y, dentro de ellos insacularán al Presidente del Consejo General, dicha presidencia será rotativa cada año entre los comisionados.
 
-El Comisionado Presidente será el responsable de la organización e instrumentación de los programas de la Comisión, y fungirá como su representante legal en todos los actos que celebre ésta.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+El Comisionado Presidente rendirá un informe anual de manera pública, y lo entregará por escrito al Congreso del Estado. En este informe se deberá especificar, por lo menos, el uso de los recursos públicos, las acciones desarrolladas, sus indicadores de gestión y el impacto de su actuación.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MAYO DE 2007)</small>
 
@@ -963,9 +1131,11 @@ Los comisionados tendrán la misma calidad entre ellos, la que se traducirá en 
 
 Los comisionados en el ejercicio de su cargo recibirán una remuneración mensual, que no debe ser superior a la que perciben los jueces de primera instancia del Honorable Tribunal Superior de Justicia del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 80.
 
-El Consejo General de la Comisión sesionará los días miércoles y viernes de cada semana con la presencia de la mayoría de sus miembros.
+El Consejo General de la Comisión sesionará por lo menos una vez a la semana con la presencia de la mayoría de sus miembros.
 
 El Presidente podrá convocar a sesiones extraordinarias cuando por la naturaleza del asunto a tratar sea necesario o de urgente resolución.
 
@@ -975,43 +1145,123 @@ Las decisiones se tomarán por mayoría de votos, y para que sus sesiones sean v
 
 Si el Comisionado faltare a más de tres sesiones consecutivas, sin causa justificada, se llamará al suplente para que ocupe dicho cargo, sin perjuicio de proceder en contra del comisionado faltista, en los términos que prevenga la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 81.
 
-Son atribuciones de la Comisión las siguientes:
+Las atribuciones de la Comisión son las siguientes:
 
-I. Vigilar el cumplimiento de esta Ley;
+Apartado A. En materia de acceso a la información pública:
 
-II. Conocer del recurso de revisión que se interponga contra los actos y resoluciones dictados por las dependencias o entidades públicas, con relación a las solicitudes de información y protección de datos personales;
+I. Conocer y resolver los recursos que se interpongan, así como vigilar el cumplimiento de sus resoluciones tomando todas la (sic) medidas necesarias;
 
-II. Establecer y revisar los criterios de clasificación, desclasifícación y custodia de la información reservada y confidencial;
+II. Emitir políticas, resoluciones, instrucciones y recomendaciones que correspondan, para que los sujetos obligados cumplan con las disposiciones de esta Ley;
 
-IV. Implementar y coordinar el Registro Estatal de Datos Personales
+III. Dar parte a los órganos de control interno de los sujetos obligados cuando incurran en alguna responsabilidad previstas (sic) en esta Ley;
 
-V. Coadyuvar en la elaboración y aplicación de los criterios para la catalogación y conservación de los documentos, así como la organización de archivos de las entidades públicas conforme a la Ley de Archivos para el Estado de TIaxcala;
+IV. Conocer e investigar de oficio o por denuncia, los hechos que sean o pudieran ser constitutivos de infracciones a esta Ley y demás disposiciones de la materia y, en su caso, denunciar a la autoridad competente los hechos;
 
-VI. Orientar y asesorar a los particulares acerca de las solicitudes de acceso a la información y protección de sus datos personales;
+V. Evaluar la actuación de los sujetos obligados, mediante la práctica de visitas de inspección periódicas o a través de los medios que considere adecuados;
 
-VII. Proporcionar apoyo técnico a las entidades públicas en la elaboración y ejecución de sus programas de información y protección de datos personales establecidos en esta Ley;
+VI. Aplicar las medidas de apremio que den celeridad al recurso conforme lo establece esta Ley;
 
-VIII. Establecer los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales, que estén en posesión de las entidades públicas;
+VII. Requerir, recibir, analizar y sistematizar los informes que deberán enviarle a los sujetos obligados;
 
-IX. Realizar investigaciones a petición de parte, en relación a quejas sobre el incumplimiento de esta Ley, y presentar las denuncias o quejas en contra de los servidores públicos omisos;
+VIII. Revisar, modificar o revocar las clasificaciones de información hechas por los sujetos obligados;
 
-X. Realizar los estudios e investigaciones necesarios para el buen desempeño de sus atribuciones;
+IX. Establecer lineamientos y otorgar apoyos para la sistematización y archivo de la información por parte de los sujetos obligados;
 
-XI. Organizar seminarios, cursos y talleres que promuevan el conocimiento de esta Ley;
+X. Clasificar y desclasificar información, así como tener acceso en cualquier momento a la información clasificada como reservada o confidencial por los sujetos obligados para determinar su debida clasificación, desclasificación o procedencia de su acceso, y
 
-XII. Elaborar y publicar manuales, estudios e investigaciones para socializar y ampliar el conocimiento sobre la materia;
+Xl. Ejercer las demás facultades previstas en esta Ley para salvaguardar el Derecho de Acceso a la Información Pública.
 
-XIII. Elaborar su presupuesto manual y enviarlo al Poder Ejecutivo para su inclusión en el Decreto de Presupuesto para el Ejercicio Fiscal correspondiente;
+Apartado B. En materia de protección de datos personales:
 
-XIV. Dictar las sanciones por las faltas administrativas en que incurran los servidores públicos omisos;
+I. Establecer las normas, criterios y políticas para la administración, seguridad y tratamiento de la información referente a datos personales en poder de los sujetos obligados;
 
-XV. Presentar su informe anual en foro abierto a la sociedad y por escrito ante el Poder Legislativo;
+II. Establecer un listado que contengan la referencia de los sistemas de datos personales en poder de los sujetos obligados;
 
-XVI. Convenir los mecanismos de coordinación y colaboración necesarios para el cumplimiento de sus objetivos, y
+III. Requerir, recibir, analizar y sistematizar los informes que deberán enviarle los sujetos obligados;
 
-XVII. Las demás que establezca esta Ley y su reglamento.
+IV. Conocer y resolver los recursos de revisión que se interpongan, y
+
+V. Ejercer las demás facultades previstas en esta Ley, para la protección de este derecho.
+
+Apartado C. En materia de cultura de transparencia, acceso a la información pública y protección de datos personales:
+
+I. Implementar mecanismos de observación y contraloría ciudadana que permita a la población utilizar la transparencia para vigilar y evaluar el desempeño de los sujetos obligados;
+
+II. Promover y difundir de manera permanente la cultura de la transparencia y acceso a la información pública, así como la protección de datos personales;
+
+III. Promover la capacitación y actualización de los sujetos obligados responsables de la aplicación de esta Ley;
+
+IV. Orientar y asesorar a los particulares acerca de las solicitudes de acceso a la información y protección de sus datos personales;
+
+V. Instruir la elaboración de guías que expliquen los procedimientos y trámites que deban realizarse ante los sujetos obligados y ante la Comisión;
+
+VI. Promover que en los programas y planes de estudio, libros y materiales que se utilicen en las instituciones educativas, de todos los niveles y modalidades del Estado, se incluyan contenidos y referencias a los derechos tutelados en esta Ley;
+
+VII. Promover que las instituciones de educación superior públicas y privadas incluyan asignaturas que ponderen los derechos tutelados en esta Ley, dentro de sus actividades académicas curriculares y extracurriculares;
+
+VIII. Elaborar y publicar estudios, investigaciones y, en general, apoyar cualquier medio que difunda el conocimiento de la materia;
+
+IX. Orientar y auxiliar a las personas para ejercer los derechos de acceso a la información y protección de datos personales;
+
+X. Impulsar conjuntamente con instituciones de educación superior, la integración de centros de investigación, difusión y docencia sobre la transparencia, el derecho de acceso a la información pública y la protección de datos personales, que promuevan el conocimiento sobre estos temas y coadyuven con la Comisión en sus tareas sustantivas;
+
+Xl. Establecer políticas de creación, clasificación, tratamiento, conservación y resguardo de la información contenida en todos y cada uno de los archivos públicos e históricos;
+
+XII. Celebrar sesiones públicas, y
+
+XIII. Las demás que resulten necesarias para lograr estos objetivos.
+
+Apartado D. En materia de normativa:
+
+I. Proponer el reglamento de esta Ley y sus modificaciones;
+
+II. Expedir los lineamientos generales que deriven de esta Ley, mismos que serán de observancia obligatoria para los sujetos obligados;
+
+III. Implementar las medidas necesarias para la sistematización y la protección de los archivos administrativos en poder de los sujetos obligados, y
+
+IV. Establecer los lineamientos técnicos a efecto de determinar la forma de clasificación, resguardo, conservación y protección de los archivos.
+
+Apartado E. En materia de administración y gobierno interno:
+
+I. Establecer la estructura administrativa de la Comisión, así como los mecanismos para la selección y contratación del personal, en los términos de su reglamento;
+
+II. Examinar, discutir y, en su caso, aprobar o modificar los programas de trabajo que sometan a su consideración;
+
+III. Conocer y, en su caso, aprobar los informes de gestión de los diversos órganos de la Comisión;
+
+IV. Aprobar el informe anual que presentará el Comisionado Presidente al Honorable Congreso del Estado;
+
+V. Establecer un sistema que garantice y haga efectivo el adecuado y pleno ejercicio de los derechos de acceso a la información pública, y protección de datos personales, así como de rendición de cuentas de la Comisión;
+
+VI. Aprobar el proyecto del presupuesto anual de egresos de la Comisión;
+
+VII. Establecer las normas, procedimientos y criterios para la administración de los recursos financieros y materiales (sic) la Comisión, y
+
+VIII. Dictar todas aquellas medidas para el mejor funcionamiento de la Comisión.
+
+Apartado F. En materia de relaciones interinstitucionales:
+
+I. Celebrar convenios con autoridades federales, estatales o municipales;
+
+II. Celebrar convenios con organismos nacionales e internacionales, así como de la sociedad civil;
+
+III. Celebrar convenios para allegarse de recursos financieros, y
+
+IV, Mantener una efectiva colaboración y coordinación con los sujetos obligados, a fin de lograr el cumplimiento de esta Ley.
+
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2010)</small>
+
+Apartado G. Supletoriedad de los municipios:
+
+I. Coadyuvar en el cumplimiento de las obligaciones que esta Ley señala en materia de información pública de oficio para los municipios que lo soliciten;
+
+II. Apoyar a los municipios en el cumplimiento de esta Ley, y
+
+III. Capacitar a las personas que los municipios requieran para el cumplimiento de esta Ley.
 
 ###### Artículo 82.
 
@@ -1023,6 +1273,10 @@ El titular de la Secretaria Técnica y de Asuntos Jurídicos, asistirá a las se
 
 Sin perjuicio de lo que disponga la ley en la materia, los afectados podrán recurrir ante la Comisión, por medio del recurso de revisión, para impugnar los actos o resoluciones que retarden, nieguen o impidan el acceso a la información pública o protección de sus datos personales, así como de aquellos que la proporcionen de manera inexacta, incompleta o distinta a la solicitada.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+El recurso de revisión podrá interponerse de manera directa o por medios electrónicos ante la Comisión.
+
 ###### Artículo 84.
 
 Es optativo para el particular agotar el recurso de revisión o promover los medios de defensa que previenen las leyes locales o federales.
@@ -1031,9 +1285,11 @@ Es optativo para el particular agotar el recurso de revisión o promover los med
 
 El plazo para interponer el recurso de revisión será de quince días hábiles, contados a partir de la fecha en que surta efectos la notificación de la resolución administrativa impugnada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 86.
 
-La revisión se presentará por escrito o por comparecencia y para tal efecto se cumplir un los requisitos siguientes:
+El recurso de revisión se presentará por escrito o por comparecencia y para tal efecto se cumplirán los requisitos siguientes:
 
 I. Nombre del inconforme o, en su caso, el de su representante legal;
 
@@ -1196,3 +1452,17 @@ El titular del Poder Ejecutivo y la Legislatura del Estado harán la prevención
 ###### ARTÍCULO QUINTO.
 
 El Consejo General de la Comisión, expedirá su reglamento en un período no mayor a treinta días naturales a partir de que tomen protesta de su cargo los comisionados, asimismo dará cumplimiento a lo dispuesto en el apartado de transitorios artículos sexto y séptimo del Decreto 108, publicado en el Periódico Oficial del Gobierno del Estado de fecha 12 de enero del 2007, tomo LXXXVI segunda época número extraordinario.
+
+P.O. 17 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión de Acceso a la Información y Protección de Datos Personales para el Estado de Tlaxcala, a través de su Comisionado Presidente, deberá, en un plazo de 30 días naturales, enviar por escrito su informe anual al Congreso del Estado de Tlaxcala.
