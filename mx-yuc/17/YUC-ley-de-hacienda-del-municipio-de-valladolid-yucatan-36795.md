@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-valladolid-yucatan-36795"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2008-12-27"
+last_updated: "2009-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -411,35 +411,67 @@ La falta de cumplimiento de las obligaciones a que se refiere este artículo, se
 
 ### CAPITULO II. DE LAS LICENCIAS DE FUNCIONAMIENTO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 40.
 
-Las licencias de funcionamiento que expida la Tesorería Municipal serán gratuitas; excepto aquellas que autoricen el funcionamiento de establecimientos que de manera permanente o transitoria expendan bebidas alcohólicas.
+Las licencias de funcionamiento que expida la Tesorería Municipal serán gratuitas, excepto aquellas que autoricen el funcionamiento de establecimientos que de manera permanente o transitoria expendan bebidas alcohólicas.
 
-Dichas licencias tendrán una vigencia que iniciará en la fecha de su expedición y terminará el último día del período constitucional de la administración municipal que la expidió.
+Dichas licencias tendrán una vigencia que iniciará en la fecha de su expedición y terminará el 31 de diciembre del año que se soliciten, y deberán de ser revalidadas dentro de los primeros dos meses del año siguiente.
+
+La revalidación de las licencias de funcionamiento estará vigente desde el día de su tramitación y hasta el 31 de diciembre del año en que se tramitan.
 
 No obstante lo dispuesto en el párrafo anterior, la vigencia de las licencias podrá concluir anticipadamente e incluso, condicionarse el funcionamiento, cuando por la actividad de la persona física o moral, se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En estos casos, el plazo de vigencia o la condición serán iguales a las expresadas por dichas dependencias.
 
 En ningún caso la vigencia de la licencia de funcionamiento excederá del periodo de la administración municipal que la expidió.
 
-Los interesados deberán revalidar sus licencias durante los cuatro primeros meses de cada administración municipal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Las personas físicas o morales que deseen obtener la licencia municipal de funcionamiento, deberán presentar a la Tesorería Municipal los siguientes documentos:
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
-a).- Certificado de no adeudar impuesto predial.
+DEL OTORGAMIENTO
 
-b).- Carta de uso de suelo
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c).- Determinación sanitaria, en su caso.
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
 
-d).- Determinación de la Secretaría de la defensa nacional cuando se trate de establecimientos que expenden juegos pirotécnicos.
+ARTICULO 40 A.- Las personas físicas o morales que deseen obtener la licencia municipal de funcionamiento, deberán presentar a la Tesorería Municipal los siguientes documentos:
 
-Para la revalidación de la licencia municipal de funcionamiento deberán presentarse:
+a) Licencia de Uso de suelo Vigente.
 
-a).- Licencia de funcionamiento anterior.
+b) Copia del último recibo oficial de pago del impuesto predial del bien inmueble en el cual se ubicará el comercio, negocio o establecimiento por el cual se solicita la licencia de funcionamiento.
 
-b).- Certificado de no adeudar impuesto predial.
+c) Licencia Sanitaria, en aquellos casos que la Ley de Salud así lo establezca.
 
-c).- Determinación sanitaria en los casos de establecimientos que venden bebidas alcohólicas.
+d) Determinación de la Secretaría de la Defensa Nacional cuando se trate de establecimientos que expenden juegos pirotécnicos.
+
+e) Copia del comprobante del pago anualizado del servicio de recoja de basura comercial y del último bimestre del recibo de agua potable, correspondientes al año en curso.
+
+f) Copia del comprobante de inscripción en el Registro Federal de Contribuyentes.
+
+g) Copia del comprobante de su Clave Única de Registro de Población en su caso.
+
+En caso de que el bien inmueble en el cual se sitúe el comercio, negocio o establecimiento, no sea propiedad de la persona física o moral que solicita la licencia, deberá anexar:
+
+a) Original y copia del contrato, convenio u otro documento que compruebe la legal posesión del predio. El Original se utilizará únicamente para cotejo.
+
+b) En su caso, copia del recibo de arrendamiento.
+
+En caso de tratarse de personas morales, además de los incisos anteriores, se deberá acompañar a la solicitud copia certificada y fotocopia del poder notarial en el que se acredite la personalidad del representante legal, señalado en el apartado 5.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+DE LA REVALIDACIÓN
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 40 B.- Tratándose de revalidación de la Licencia de funcionamiento, se deberán anexar todos los documentos señalados en el artículo 40 A. Asimismo se deberá anexar la Licencia de funcionamiento original anterior o el duplicado, en su caso.
 
 ## TITULO TERCERO. DE LOS IMPUESTOS
 
@@ -549,7 +581,35 @@ DE LA TARIFA
 
 El impuesto a que se refiere este capítulo, se calculará aplicando a la base señalada en el artículo anterior la tarifa siguiente:
 
-(VER TABLA ANEXA)
+Para valores Hasta valores Factor fijo Taza %
+
+catastrales de catastrales de
+
+0.01 8,000.00 1.00 0.25
+
+8,000.01 14,000.00 1.14 0.25
+
+14,000.01 20,000.00 1.16 0.25
+
+20,000.01 27,000.00 1.18 0.25
+
+27,000.01 En adelante 1.20 0.25
+
+La mecánica para él calculo del impuesto será la siguiente: se ubicará la base del impuesto dentro de los rangos de la tarifa anterior. El factor fijo anual que corresponda a la base del impuesto se multiplicará por el salario mínimo. Al monto determinado anteriormente se la adicionará la cantidad que resulte de la multiplicación de la base del impuesto por la tasa que le corresponde en la tarifa a dicho valor. La suma de ambas cantidades será el impuesto a pagar
+
+Los predios que se encuentren en alguna de las situaciones siguientes:
+
+a) Sin construcción, con maleza y sin cercar.
+
+b) Con construcción, pero deshabitados, con maleza.
+
+Causarán una tarifa de tres veces el factor aplicable al valor catastral.
+
+Cuando la base del impuesto predial sea las rentas, frutos civiles o cualquier otra contraprestación, generada en los términos de la parte final del artículo anterior, el impuesto se pagará mensualmente conforme a la siguiente tasa:
+
+Habitacional 2% mensual sobre el monto de la contraprestación
+
+Otros 3% mensual sobre el monto de la contraprestación.
 
 DEL PAGO
 
@@ -1365,13 +1425,17 @@ II.- La superficie total del predio que deba limpiarse, a solicitud del propieta
 
 DE LA TARIFA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 100.
 
 La tarifa se pagará de conformidad con la siguiente tabla:
 
-a).- Doméstica 0.5 Salario mínimo vigente.
+a) Doméstica 0.5 Salario mínimo vigente mensual.
 
-b).-Comercial 1.1 Salario mínimo vigente.
+b) Comercial 1.1 Salario mínimo vigente mensual.
 
 ###### ARTICULO 101.
 
@@ -1379,13 +1443,17 @@ Tratándose de los servicios de tipo industrial o tratándose de servicios comer
 
 DEL PAGO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 102.
 
-El pago de las tarifas mencionadas se hará:
+El pago de las tarifas mencionadas se realizará de la siguiente forma:
 
-La señalada en la fracción I del artículo 99 mensualmente.
+La señalada en la fracción I del artículo 99 semestralmente.
 
-La señalada en la fracción II del artículo 99 el 50 % al inicio de los trabajos y el 50% a la conclusión de los mismos.
+La señalada en la fracción II del artículo 99, el 50 % al inicio de los trabajos y el 50% a la conclusión de los mismos.
 
 Sin afectar lo mencionado anteriormente, los usuarios del servicio de recolección de basura domestico que paguen en una sola exhibición el importe anual por este servicio, gozarán de un descuento del 20% de la tarifa que corresponda, siempre que dicho pago se realice durante los meses de enero y febrero de cada año.
 
@@ -1952,3 +2020,9 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+P.O. 17 DE DCIEMBRE DE 2009.
+
+###### ARTÍCULO UNICO.
+
+Este Decreto entrará en vigor el primero de Enero del año 2010, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
