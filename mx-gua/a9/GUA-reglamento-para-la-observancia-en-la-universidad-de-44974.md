@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-observancia-en-la-universidad-de-44974"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-20"
-last_updated: "2005-05-20"
+last_updated: "2009-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "GUA"
 
 REGLAMENTO PARA LA OBSERVANCIA EN LA UNIVERSIDAD DE GUANAJUATO DE LA LEY DE ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA OBSERVANCIA EN LA UNIVERSIDAD DE GUANAJUATO DE LA LEY DE ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2009. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 20 de mayo de 2005.
 
@@ -445,3 +447,11 @@ TERCERO.- Las normas complementarias que establece este Reglamento deberán emit
 La Secretaria General
 
 Dra. María Guadalupe Martínez Cadena.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente al de su aprobación por el Consejo General Universitario de la Universidad de Guanajuato, se publicará en el Periódico Oficial del Gobierno del Estado de Guanajuato y se difundirá entre la comunidad universitaria.
+
+SEGUNDO.- Se abroga el anterior Reglamento para la Observancia en la Universidad de Guanajuato de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
