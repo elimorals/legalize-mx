@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2009-10-06"
+last_updated: "2009-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1259,9 +1259,13 @@ IV.- Cuando la violación sea cometida aprovechando la confianza depositada en e
 
 A quien sin el consentimiento de una persona y sin el propósito de llegar a la cópula ejecute en ella un acto erótico sexual o lo obliguen a ejecutarlo, se le impondrá prisión de uno a tres años. La pena se aumentará hasta en una mitad más, cuando se empleare la violencia.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
-A quien sin propósito de llegar a la cópula ejecute un acto erótico sexual en una persona menor de catorce años de edad o impúber, o que no tenga la capacidad de comprender el hecho o que por cualquier causa no pueda resistirlo, o la obliguen a ejecutarlo se le impondrá prisión de tres a siete años. La pena se aumentará hasta en una mitad más cuando se empleare violencia, en los casos que proceda.
+A quien sin propósito de llegar a la cópula ejecute un acto erótico sexual en una persona menor de catorce años de edad o impúber, o que no tenga la capacidad de comprender el hecho o que por cualquier causa no pueda resistirlo, o la obliguen a ejecutarlo se le impondrá prisión de cuatro a ocho años. La pena se aumentará hasta en una mitad más cuando se empleare violencia o fuere cometido por alguna persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido en los casos que proceda.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+Además de las penas señaladas, se le privará de los derechos derivados de la patria potestad, de la tutela o custodia, cuando así proceda, a quienes teniendo el ejercicio de éstos en relación con el ofendido, cometa el delito a que se refiere el presente artículo.
 
 ### CAPITULO II. CALUMNIA
 
@@ -2151,7 +2155,7 @@ TER.- Se sancionará con prisión de uno a cinco años y de doscientos a trescie
 
 QUÁTER.- Se sancionará con prisión de tres a seis años e inhabilitación del cargo por un período de seis meses a tres años, si el agente que comete las conductas previstas en los Artículos 194 BIS y 194 TER, es servidor público, profesionista o auxiliar, en el ejercicio de su actividad.
 
-> <small>(ADICIONADO CO EL ARTICULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2009)</small>
 
 ### CAPITULO III. ABUSO DE FUNCIONES PUBLICAS
 
@@ -2908,3 +2912,11 @@ DECRETO NUMERO 158, POR EL QUE SE ADICIONA EL CAPITULO VII Y LOS ARTICULOS 113 B
 P.O. 6 DE OCTUBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O 18 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+ARTÍCULOS TRANSITORIOS (SIC):
+
+PRIMERO.- Publíquese para los efectos legales correspondientes, el presente decreto en el Periódico Oficial del Estado de Quintana Roo.
