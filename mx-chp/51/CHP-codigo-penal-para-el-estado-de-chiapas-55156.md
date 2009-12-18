@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2009-10-21"
+last_updated: "2009-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -674,6 +674,12 @@ Concluido el tiempo de tratamiento, la autoridad competente entregará al inimpu
 Cuando el sujeto activo haya sido condenado por un delito cuya comisión obedezca a adicciones o abuso de estupefacientes, psicotrópicos, bebidas alcohólicas o cualquier otra sustancia tóxica, se le aplicará un tratamiento de desintoxicación y de combate a adicciones, independientemente la pena que le corresponda por el delito cometido.
 
 Igualmente, al responsable del delito de violencia familiar o de cualquier otro delito cometido en contra de un pariente consanguíneo, en línea recta, ascendiente o descendiente sin limitación de grado, o colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, concubina o concubinario o de aquellos que se encuentren bajo su cuidado, custodia o tutela se le someterá a un tratamiento psicoterapéutico integral para su readaptación, independientemente de las penas que correspondan al delito cometido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+A la mujer que voluntariamente consienta que se le practique aborto se le someterá a un tratamiento médico integral si así lo solicita.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 Los tratamientos señalados en el presente artículo, no podrán exceder en su duración del término de la pena impuesta por el delito cometido, y si la pena impuesta no resultó en privación o restricción de la libertad, el tratamiento no excederá de dos años.
 
@@ -1469,13 +1475,17 @@ Si la persona a quien se instiga o se ayuda fuere un menor de edad o un imputabl
 
 Comete el delito de aborto el que, en cualquier momento de la preñez, cause la muerte del producto de la concepción aunque ésta se produzca fuera del seno materno, a consecuencia de la conducta realizada.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 179.
 
-Si se hiciere abortar al sujeto pasivo con su consentimiento, se impondrá a éste y a los que intervinieren, inclusive médicos cirujanos, comadronas o parteros, de uno a tres años de prisión; si faltare el consentimiento de la sujeto pasivo, o si es menor de edad, la de los padres o tutores, la sanción será de tres a seis años, y si mediare violencia física o moral, de seis a ocho años de prisión.
+A los médicos cirujanos, comadronas o parteras, enfermeras y demás personas que intervengan en la práctica del aborto, con consentimiento de la pasivo o la induzcan a otorgarlo, se les impondrá la sanción de 1 a 3 años de prisión, con suspensión de la profesión, cargo u oficio, por el término de la duración de la pena.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 180.
 
-Las penas establecidas en el artículo anterior, se impondrán a todos aquellos que de cualquier forma hayan participado en el aborto; si quienes lo causaren fueran médico cirujano, comadrón, partera, enfermero o practicante, además de las sanciones que le correspondan conforme al artículo anterior se les suspenderá en el ejercicio de su profesión u oficio, y se les inhabilitará si se tratara de servidores públicos, en ambos casos, hasta por un tiempo igual al de la pena de prisión impuesta.
+A los médicos cirujanos, comadronas o parteras, enfermeras y demás personas que intervengan en la práctica del aborto, sin consentimiento de la pasivo o esta fuese menor de edad sin consentimiento de los padres o tutores, la sanción será de 3 a 6 años y si mediare violencia física o moral, de 6 a 8 años de prisión, con suspensión de la profesión, cargo u oficio, por el termino de la duración de la pena.
 
 ###### Artículo 181.
 
@@ -1483,11 +1493,13 @@ No es punible el aborto cuando el embarazo sea consecuencia de violación, si é
 
 ###### Artículo 182.
 
-Cuando la abortante sea menor de edad, sólo se procederá penalmente en contra de aquellos que hayan intervenido para provocar el aborto, en caso de que la menor haya otorgado su consentimiento se estará a lo dispuesto a las disposiciones relativas para la evaluación de las conductas de menores.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2009)
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 183.
 
-A la mujer que voluntariamente practique o consienta que se le practique un aborto, se le impondrá de uno a tres años de prisión. En este caso, el delito sólo se sancionará si el aborto llega a consumarse.
+A la mujer que voluntariamente practique o consienta que se le practique un aborto, se le sancionará en términos a lo dispuesto por el artículo 70, de este Código.
 
 ### Capítulo I. Privación Ilegal de la Libertad
 
@@ -4512,5 +4524,11 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 21 DE OCTUBRE DE 2009.
 
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
