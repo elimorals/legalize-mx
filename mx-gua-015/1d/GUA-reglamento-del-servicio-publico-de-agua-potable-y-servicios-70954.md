@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-servicio-publico-de-agua-potable-y-servicios-709
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-06"
-last_updated: "2009-11-06"
+last_updated: "2009-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO DEL SERVICIO PUBLICO DE AGUA POTABLE Y SERVICIOS COMPLEMENTARIOS PARA EL MUNICIPIO DE GUANAJUATO, GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE DICIEMBRE DE 2009 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DEL SERVICIO PUBLICO DE AGUA POTABLE Y SERVICIOS COMPLEMENTARIOS PARA EL MUNICIPIO DE GUANAJUATO, GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE DICIEMBRE DE 2009.</small>
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 6 de noviembre de 2009.
 
@@ -755,7 +755,9 @@ XXI. Prestar asistencia técnica a las localidades del municipio que administren
 
 XXII. Determinar las sanciones que deban aplicarse a los infractores de este Reglamento;
 
-B. Recibir y resolver las quejas que en forma verbal o por escrito presenten los usuarios con motivo de la prestación de los servicios o por el cobro de tarifas;
+> <small>(F. DE E., P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+XXIII. Recibir y resolver las quejas que en forma verbal o por escrito presenten los usuarios con motivo de la prestación de los servicios o por el cobro de tarifas;
 
 XXIV. Ejecutar la obra con sujeción a la Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado y los Municipios de Guanajuato y su Reglamento y demás disposiciones legales;
 
@@ -1121,7 +1123,9 @@ II. Dirigir, apoyar, coordinar y supervisar las actividades de las Direcciones d
 
 III. Presentar al Consejo Directivo para su análisis, el pronóstico de ingresos que se generan por los servicios que presta el SIMAPAG y el anteproyecto de egresos;
 
-IV. Elaborar en coordinación con la Dirección General de Desarrollo Urbano del Municipio y con las Direcciones Administrativa y de Servicios Técnicos Hidráulicos del SIMAPAG, el Programa de Desarrollo Hidráulico y presentarlo al Consejo Directivo, para que una vez validado sea puesto a consideración del Ayuntamiento para su aprobación;
+> <small>(F. DE E., P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+IV. Elaborar en coordinación con la Dirección General de Desarrollo Urbano del Municipio y con las Direcciones de Administración y Finanzas y Dirección de Planeación y Programación del SIMAPAG, el Programa de Desarrollo Hidráulico y presentarlo al Consejo Directivo, para que una vez validado sea puesto a consideración del Ayuntamiento para su aprobación;
 
 V. Elaborar y presentar al Consejo Directivo para su aprobación, el programa anual de obras y sus modificaciones a realizar en el siguiente ejercicio, de acuerdo al pronostico de ingresos y anteproyecto de egresos, para que una vez aprobado, sea notificado por escrito a la Dirección General de Obra Pública y a la Dirección General de Desarrollo Urbano del Municipio;
 
