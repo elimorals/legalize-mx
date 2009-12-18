@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-cuotas-y-tarifas-para-los-servicios-publicos-de-agua-619
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-02"
-last_updated: "2009-02-18"
+last_updated: "2009-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE CUOTAS Y TARIFAS PARA LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO, TRATAMIENTO Y DISPOSICION DE AGUAS RESIDUALES DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 2 de julio de 2008.
 
@@ -43,9 +43,11 @@ LEY DE CUOTAS Y TARIFAS PARA LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARI
 
 El presente ordenamiento es de observancia general en el territorio del Estado de Quintana Roo, sus disposiciones son de orden público e interés social, tiene por objeto establecer las cuotas y tarifas del servicio público de agua potable y alcantarillado, tratamiento y disposición de aguas residuales, así como sus términos, condiciones de pago y los mecanismos para su actualización.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 2.
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de esta ley, se entiende por:
 
 I. Agua en bloque: volumen de agua suministrado a través de una infraestructura hidráulica para un desarrollo inmobiliario;
 
@@ -93,7 +95,7 @@ XXII. Reuso: la utilización de las aguas residuales tratadas en la industria, e
 
 XXIII. Servicio de agua potable y alcantarillado: conjunto de actividades mediante las cuales el prestador de servicios proporciona agua potable, alcantarillado y disposición de aguas residuales;
 
-XXIV. Servicio de alcantarillado por descargas en exceso: descargas de agua residual a la red de alcantarillado en una cantidad mayor a la realmente consumida de la red de agua potable;
+XXIV. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2009)
 
 XXV. Sectorizar: agrupar un conjunto de actividades dentro de una parte definida de la red de agua potable, para la administración eficiente del servicio;
 
@@ -287,13 +289,17 @@ Los usuarios de los servicios de agua potable, alcantarillado, tratamiento y dis
 
 Cuando el usuario no haga uso del agua y del alcantarillado o se limite el servicio por falta de pago, cubrirá la cuota que se hubiere fijado al consumo mínimo, toda vez que este concepto equivale a la parte proporcional que le corresponde del costo por conservación y mantenimiento de la infraestructura hidráulica.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 21.
 
-El consumo en M3 de agua potable y el servicio de alcantarillado por descargas en exceso, para su correspondiente cobro, se redondearán en números enteros.
+El consumo en m3 de agua potable para su correspondiente cobro, se redondeará en números enteros.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 22.
 
-Los servicios de agua potable y alcantarillado por descargas en exceso se cobrarán por períodos vencidos de treinta días, y se pagarán dentro de los quince días siguientes a la fecha en que el usuario tenga conocimiento del importe a pagar por dichos servicios.
+Los servicios de agua potable y alcantarillado se cobrarán por períodos vencidos de treinta días y se pagarán dentro de los quince días siguientes a la fecha en que el usuario tenga conocimiento del importe a pagar por dichos servicios.
 
 ###### Artículo 23.
 
@@ -313,11 +319,11 @@ La falta de pago oportuno de los servicios, es decir en la fecha límite de pago
 
 El prestador del servicio podrá suspender o limitar el servicio, en caso de incumplimiento del pago de las cuotas derivadas de la prestación de los servicios, con la salvedad de lo establecido por el artículo 81 párrafo segundo y tercero de la Ley de Agua Potable y Alcantarillado del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 26.
 
-Los adeudos a cargo de usuarios de los servicios de agua potable, y alcantarillado por descargas en exceso, no pagados en forma oportuna junto con sus actualizaciones y las multas que se apliquen con base en la Ley de Agua Potable y Alcantarillado y esta Ley, tendrán el carácter de créditos fiscales. Para su cobro, la Comisión hará uso de la facultad económica-coactiva, a través de la Dirección de Recuperación de Adeudos y Ejecución Fiscal.
-
-En los casos en los que el servicio se encuentre concesionado, la empresa concesionaria llevará a cabo el cobro de los adeudos, pudiendo turnarse para su cobro a la mencionada Dirección de Recuperación de Adeudos y Ejecución Fiscal.
+Los adeudos a cargo de usuarios de los servicios de agua potable y alcantarillado no pagados en forma oportuna junto con sus actualizaciones y las multas que se apliquen con base en la ley de agua potable y alcantarillado y ésta ley, tendrán el carácter de créditos fiscales. Para su cobro, la Comisión hará uso de la facultad económica-coactiva, a través de la Dirección de Recuperación de Adeudos y Ejecución Fiscal.
 
 ###### Artículo 27.
 
@@ -565,9 +571,7 @@ Los usuarios deberán de pagar por los servicios de alcantarillado una cuota adi
 
 ###### Artículo 47.
 
-Cuando los usuarios hagan sólo uso del alcantarillado o descarguen en la red de alcantarillado una cantidad de agua residual mayor a la cantidad consumida de la red de agua potable, deberán de pagar por cada metro cúbico descargado en exceso la cantidad de $13.14 por M3.
-
-El prestador del servicio podrá llevar a cabo la instalación de medidores de descarga, en los casos que considere que la descarga a la red de alcantarillado es superior al agua potable consumida de la red.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2009)
 
 ### CAPÍTULO SEXTO. DE LAS TARIFAS POR OTROS CONCEPTOS
 
@@ -694,3 +698,11 @@ P.O. 18 DE FEBRERO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones de igual o de menor jerarquía que se opongan a las previstas en el presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+ARTÍCULO TRANSITORIO:
+
+UNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
