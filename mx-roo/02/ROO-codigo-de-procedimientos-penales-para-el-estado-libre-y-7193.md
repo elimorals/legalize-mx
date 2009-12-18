@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2009-12-16"
+last_updated: "2009-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -799,9 +799,9 @@ Cuando un lesionado necesite pronta curación, cualquier médico puede atenderlo
 
 Queda estrictamente prohibido aprehender a persona alguna sin orden de aprehensión librada por la autoridad judicial competente de conformidad con el artículo 16 de la Constitución Política de los Estado Unidos Mexicanos; hecha excepción en los términos del citado precepto de los casos de flagrante delito o casos urgentes respecto de la comisión de delitos graves.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
-Se considera como graves los delitos previstos en los artículos: 86 en relación al 14 respecto de la conducta dolosa, 88, 89, 94, 100 fracción III y último párrafo en relación al 14 respecto de la conducta dolosa, 117, 124, 127, 128, 142 fracción II en relación al 145 fracciones I, V, VI, VII y VIII, 153 fracción XV, 159 párrafo segundo, 171 párrafo primero, 172-BIS, 172-TER, 189-BIS; 191, 192, 192-BIS, 192-TER, 192-QUÁTER, 193 último párrafo, 194 segundo párrafo, 194-Quinquies, 202, 203 y 204, del Código Penal para el Estado Libre y Soberano de Quintana Roo.
+Se consideran como graves los delitos previstos en los artículos: 86 en relación al 14 respecto de la conducta dolosa, 88, 89, 94, 100 fracción III y último párrafo en relación al 14 respecto de la conducta dolosa, 117, 124, 127, 128, 129 párrafo segundo, 142 fracción II en relación al 145 fracciones I, V, VI, VII y VIII, 153 fracción XV, 159 párrafo segundo, 171 párrafo primero, 172-BIS, 172-TER, 189-BIS, 191, 192, 192-BIS, 192-TER, 192-QUÁTER, 193 último párrafo, 194 segundo párrafo, 194-Quinquies, 202, 203 y 204 del Código Penal para el Estado Libre y Soberano ele Quintana Roo.
 
 El Ministerio Público podrá duplicar el plazo de 48 horas previsto en el citado artículo 16 Constitucional, en los casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo reglas de disciplina o jerarquía, para cometer de modo violento o reiterado o con fines predominantemente lucrativos, alguno de los delitos previstos en este artículo como graves.
 
@@ -1185,6 +1185,14 @@ Antes de que los testigos comiencen a declarar y estando reunidos todos ellos, s
 
 A las personas menores de dieciocho años, que deban declarar como testigos, en vez de hacérseles saber las penas en que incurren los que se producen con falsedad, se les exhortará para que se conduzcan con verdad.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+Cuando una persona menor de edad, exprese su conformidad de rendir su declaración testimonial en el caso de delitos contra la libertad sexual y su normal desarrollo y contra el libre desarrollo de la personalidad, lo diligencia se llevará a cabo evitando el contacto visual directo entre las partes, pudiéndose auxiliar de cualquier medio electrónico audiovisual.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+No obstante que exista el consentimiento del menor de edad y/o de quienes ejerzan le patria potestad, custodia o tutela, será necesaria la autorización de la Procuraduría de la Defensa del Menor y la Familia, para el desahogo de la declaración testimonial del menor, procurando en todo momento la protección de su integridad física y psicoemocional.
+
 > <small>(F. DE E., P.O. 7 DE OCTUBRE DE 1990)</small>
 
 ###### Artículo 183.
@@ -1304,6 +1312,10 @@ Cuando la pluralidad de las personas amerite varias confrontaciones, éstas se v
 ###### Artículo 205.
 
 Sin perjuicio de la garantía que consagra la fracción IV del artículo 20 de la Constitución Federal, podrán celebrarse careos procesales entre el acusado y las personas que depongan en su contra, siempre y cuando existan contradicciones en sus declaraciones, pudiendo realizarse a petición de parte o cuando el juzgador lo estime oportuno.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+Queda estrictamente prohibida la realización de careos entre el inculpado y la víctima menor de edad cuando se trate de delitos que afecten la libertad sexual y su normal desarrollo, así como en los delitos contra el libre desarrollo de la personalidad.
 
 ###### Artículo 206.
 
@@ -3515,6 +3527,10 @@ Para el caso de que ninguna de esas dependencias cuente en sus archivos con alg�
 
 Las audiencias serán publicas, excepto aquellas que el Juez o Tribunal considere que deban ser privadas.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+En los delitos contra la libertad sexual y su normal desarrollo, así como en los delitos contra el libre desarrollo de la personalidad, señalados por el Código Penal del Estado, las audiencias deberán ser privadas a fin de proteger la identidad de la víctima. En todo momento quedará prohibida la difusión de cualquier tipo de información que permita la identificación de una víctima involucrada en cualquiera de los delitos previstos por este párrafo, tanto durante el procedimiento de la integración de la averiguación previa como del proceso penal.
+
 (REFORMADO, P.O. 30 DE OCTUBRE DE 1992) (F. DE E., P.O. 3 DE NOVIEMBRE DE 1992)
 
 ###### Artículo 599.
@@ -3536,6 +3552,10 @@ Si intervinieren varios de los agentes del Ministerio Público, sólo se oirá a
 ###### Artículo 603.
 
 Las audiencias se llevarán a cabo, concurran o no las partes, salvo el Ministerio Público que no podrá dejar de asistir a ellas.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+A fin de asegurar la debida asistencia jurídica a los menores de edad, víctimas de un delito que atente contra su libertad sexual y el libre desarrollo de su personalidad, la Procuraduría de la Defensa del Menor y la Familia, a través de personal especializado en materia legal y/o psicológica, deberá estar presente en cada una de las audiencias en las que comparezca la víctima menor de edad.
 
 ###### Artículo 604.
 
@@ -3884,3 +3904,11 @@ ARTÍCULOS TRANSITORIOS:
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O 18 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+ARTÍCULOS TRANSITORIOS:
+
+PRIMERO.- Publíquese para los efectos legales correspondientes, el presente decreto en el Periódico Oficial del Estado de Quintana Roo.
