@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2009-12-16"
+last_updated: "2009-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -184,6 +184,16 @@ f) El estado reconoce la ciencia y la tecnología, como bases fundamentales del 
 6.- El Estado garantizará la producción de alimentos, constituyéndose como áreas estratégicas del desarrollo, la agricultura y el turismo.
 
 7.- Los productores del campo, ganaderos y pescadores gozarán de un seguro de vida en los términos que disponga la Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+8.- Todo individuo tiene derecho a beneficiarse del progreso científico en el área de la medicina genómica, por tanto, el estado reconoce el vínculo existente entre el derecho a la protección de la salud y el derecho a la investigación y al desarrollo científico.
+
+En la investigación en el área de las ciencias genómicas, deberán prevalecer los principios de dignidad humana, autonomía de la voluntad, respeto por la integridad física y psíquica, intimidad, confidencialidad, no discriminación e identidad genética; por tanto, queda prohibida cualquier práctica que atente contra estos principios, contra los derechos humanos o contra cualquier instrumento internacional que regule las ciencias genómicas.
+
+Todo individuo tiene derecho a conocer la información genómica personal y sus vínculos biológicos de parentesco, para tal efecto, la ley determinará los límites y modalidades mediante las pruebas científicas correspondientes.
+
+Toda investigación biomédica se orientará preferentemente a aliviar las enfermedades y mejorar la salud.
 
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2008)</small>
 
@@ -985,6 +995,10 @@ II.- Sancionar, promulgar y ejecutar las Leyes y Decretos dados por el Poder Leg
 
 III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
 
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1994)</small>
+
+IV.- Conducir y promover el desarrollo integral del Estado, de conformidad con los objetivos, niveles de participación y prioridades del sistema de planeación;
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 V.- (A). Presentar a la legislatura el presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo, y en los términos que previene esta Constitución, remitirle la cuenta de todos los caudales del Estado.
@@ -1186,6 +1200,8 @@ El Secretario General de Gobierno substituirá al Gobernador en las faltas no pr
 ###### Art. 80 Bis.
 
 El Secretario General de Gobierno, en unión del Procurador General de Justicia, del Presidente del Supremo Tribunal, del Director General de Rentas, Jueces de Primera Instancia y Presidente del Ayuntamiento de la Capital del Estado, constituyen el Consejo de Gobierno, cuya Presidencia será asumida por el primero. El Consejo dará dictamen al Gobernador, siempre que éste lo pida, procurando fundarlo en la Ley.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ## TITULO QUINTO
 
@@ -2986,3 +3002,13 @@ Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de s
 Artículo Segundo.- Por lo que respecta a la derogación del artículo 99 surtirá sus efectos una vez que se realicen las adecuaciones legales conducentes.
 
 Artículo Tercero.- Para dar cumplimiento a lo establecido por el artículo 131 de la Constitución Política del Estado, remítase el presente Decreto a los Ayuntamiento (sic) de la Entidad.
+
+P.O. 18 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Para los efectos previstos en el artículo 135 de la Constitución Política del Estado de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
