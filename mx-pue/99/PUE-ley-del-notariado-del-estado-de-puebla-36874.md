@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-del-estado-de-puebla-36874"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-02"
-last_updated: "2008-01-23"
+last_updated: "2009-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 18 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 2 de febrero de 2004.
 
@@ -1738,3 +1740,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los Notarios y las autoridades competentes a que se refiere el presente Decreto, tendrán un plazo de doce meses contados a partir de la entrada en vigor del mismo, para implementar o adecuar los equipos, redes y servicios informáticos que se requieran para el cumplimiento por vía electrónica de las obligaciones que el mismo establece. Durante este plazo, los avisos de testamento, las consultas y los reportes de búsqueda, se podrán formular y remitir de manera impresa.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se abroga la Ley del Notariado del Estado de Puebla, publicada en el Periódico Oficial del Estado el dos de febrero de dos mil cuatro, así como todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Subsistirán las Notarías de número, creadas por disposiciones anteriores con demarcación territorial en la Ciudad y Distrito Judicial de Puebla, así como en los demás Distritos Judiciales del Estado.
+
+CUARTO.- Se respetarán los derechos adquiridos y todos los asuntos y trámites iniciados durante la vigencia de la Ley del Notariado que se abroga, serán válidos hasta la etapa procedimental y de gestión en que se encuentren a la entrada en vigor de esta Ley, pero si ésta establece gestiones y procedimientos adicionales o diversos, se estará a lo que la misma señale y deberá cumplirse en sus términos.
+
+QUINTO.- Subsisten todos los derechos adquiridos por los Notarios Titulares, Auxiliares, Suplentes y Asociados nombrados de acuerdo a la Ley que se abroga y otras disposiciones anteriores y relativas al Notariado y derogadas.
+
+SEXTO.- Lo dispuesto en el artículo 198 de esta Ley por lo que respecta a la profesión y patente con que deberá contar el Titular del Archivo de Notarías, surtirá sus efectos con el nombramiento que realice el Ejecutivo del Estado de un nuevo Titular.
