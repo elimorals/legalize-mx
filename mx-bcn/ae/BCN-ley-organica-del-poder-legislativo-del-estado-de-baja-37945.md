@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2009-02-27"
+last_updated: "2009-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -477,9 +477,9 @@ VI.- La Dirección de Comunicación Social; y
 
 VII.- Las demás direcciones u órganos técnicos que sean necesarios para apoyar el cumplimiento de las atribuciones del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
-ARTICULO 40 BIS.- El Organo de Fiscalización Superior del Estado, es el órgano del Congreso del Estado de carácter técnico y con autonomía de gestión en el ejercicio de sus atribuciones para decidir sobre su organización, recursos, funcionamiento y resoluciones. Contará con las atribuciones y obligaciones que establecen la Constitución Local y la Ley de la materia.
+ARTICULO 40 BIS.- El Órgano de Fiscalización Superior del Estado, es el órgano del Congreso del Estado con autonomía técnica y de gestión en el ejercicio de sus atribuciones para decidir sobre su organización interna, recursos, funcionamiento y resoluciones. Contará con las atribuciones y obligaciones que establecen la Constitución Local y la Ley de la materia.
 
 ### CAPITULO III. DE LOS ÓRGANOS TÉCNICO Y ADMINISTRATIVOS
 
@@ -1233,15 +1233,17 @@ ARTICULO 87 QUINQUIES.- En la primera Sesión del Período Ordinario, el Preside
 
 El Congreso del Estado tendrá cada año de ejercicio constitucional, dos períodos de sesiones ordinarias que comprenderán del primero de octubre al último día de enero de cada año, y del primero de abril al último día de julio; y períodos en los que funcionará la Comisión Permanente, los que abarcarán del primero de febrero al último día de marzo y del primero de agosto al último día de septiembre.
 
-En el Primer Período, antes de concluir el año, examinará, analizará, discutirá y aprobará el Presupuesto de Egresos del Estado, correspondiente al siguiente Ejercicio Fiscal, decretando las contribuciones y percepciones necesarias para cubrirlo e impondrá también, las contribuciones y demás ingresos para cubrir las necesidades de los Municipios del Ejercicio Fiscal siguiente y determinará las bases, montos y plazos conforme a los cuales cubrirá la Federación sus participaciones a los propios Municipios.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+En ambos periodos ordinarios, la Legislatura del Estado estudiará y votará los dictámenes de las cuentas públicas y modificaciones presupuestales, que sean presentados a su consideración, así como las iniciativas de Leyes, decretos o acuerdos económicos; y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
 
-En el Segundo Período Ordinario, el Congreso se ocupará preferentemente del examen, discusión y aprobación de las Cuentas Públicas del año anterior, tanto del Estado como de los Municipios. En esta función el Congreso investigará si las cantidades gastadas están o no de acuerdo con las partidas respectivas del Presupuesto; comprobando la exactitud y justificación de los gastos hechos y determinará las responsabilidades que resultaren.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+En el Primer Periodo Ordinario, antes de concluir el año, examinará, discutirá y aprobara las Leyes de Ingresos del Estado y de los Municipios, así como los Presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los Organismos Públicos Autónomos, correspondientes al ejercicio fiscal siguiente, en los términos de la Ley de (sic) materia.
 
-En ambos Períodos Ordinarios, la Legislatura del Estado estudiará y votará las iniciativas de Leyes o Decretos que se presenten y resolverá los demás asuntos que le correspondan conforme a la Constitución Local.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+En el Segundo Periodo Ordinario, el Congreso concluirá la revisión, análisis, dictaminación y, en su caso, aprobación o no aprobación, de las Cuentas Públicas recibidas en el ejercicio anterior, que hayan sido fiscalizadas en los términos de Ley de la materia.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -1956,3 +1958,7 @@ P.O. 27 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2009.
+
+ÚNICO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
