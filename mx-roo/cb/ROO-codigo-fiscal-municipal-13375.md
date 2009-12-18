@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-13375"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-15"
-last_updated: "2008-12-12"
+last_updated: "2009-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre 1997.
 
@@ -581,7 +581,13 @@ X.- Determinar créditos fiscales conforme a las Leyes, Reglamentos, Acuerdos y 
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-XI.- Las demás que le correspondan conforme a este código u otras leyes, reglamentos y acuerdos en el ámbito de los Convenios de Colaboración en Materia Fiscal.
+XI.- Las demás que le correspondan conforme a este código u otras leyes, reglamentos y acuerdos en el ámbito de los Convenios de Colaboración en Materia Fiscal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+XII.- Decretar la cancelación de los créditos fiscales por no localización, incosteabilidad en el cobro o por insolvencia de los sujetos directos y de los responsables solidarios, en los términos del presente Código, así como de las reglas de carácter general que expida el propio Ayuntamiento.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -885,11 +891,13 @@ En caso de que no se formule inconformidad, no se ofrezcan pruebas o no se rinda
 
 Sólo procederá la inconformidad cuando se interpongan contra los hechos u omisiones contenidas en las actas.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 53.
 
-Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, deberán pagarse junto con sus accesorios dentro de los cuarenta y cinco días siguientes a su notificación.
+Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, deberán pagarse junto con sus accesorios dentro de los quince días siguientes a su notificación.
 
 ###### ARTICULO 54.
 
@@ -1463,11 +1471,19 @@ a).- Personalmente o por correo certificado con acuse de recibo, cuando se trate
 
 b).- Por correo ordinario o por telegrama cuando se trate de actos distintos de los señalados en el inciso anterior;
 
-c).- Por estrados, en los casos en que señale la Ley y este Código;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+c).- Por estrados, cuando la persona a quien deba notificarse se oponga a la diligencia de notificación o desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al registro municipal de contribuyentes, después de la notificación de la orden de visita, o bien, después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos, o tratándose de personas morales que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente se tenga obligación de presentar dicho aviso;
 
 d).- Por edictos, únicamente en caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, hubiere desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en el territorio estatal;
 
-e).- Por instructivo, solamente los casos y con las formalidades a que se refiere el tercer párrafo del artículo 110.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+e).- Por instructivo, solamente los casos que señala el Código y con las formalidades a que se refiere el segundo párrafo del artículo 110.
 
 ###### ARTICULO 108.
 
@@ -1507,9 +1523,13 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 Las notificaciones por estrados se harán fijando durante cinco días hábiles el documento que se pretenda notificar, en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día hábil siguiente a aquél en el que se hubiera fijado el documento y comenzará a surtir sus efectos ese mismo día.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 112.
 
-Las notificaciones por edictos se harán mediante publicaciones por una vez en el Periódico Oficial del Estado y por tres días consecutivos en uno de los periódicos de mayor circulación en la entidad y contendrá un resumen de los actos que se notifican. En este caso, se tendrá como fecha de notificación la de la última publicación.
+Las notificaciones por edictos se harán mediante publicaciones por tres días consecutivos en uno de los periódicos de mayor circulación en la entidad y contendrá un resumen de los actos que se notifican. En este caso, se tendrá como fecha de notificación la de la última publicación.
 
 ###### ARTICULO 113.
 
@@ -1591,11 +1611,31 @@ El término de la prescripción se inicia a partir de la fecha en que el pago pu
 
 Los contribuyentes podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+Asimismo se interrumpirá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 120-A.
 
-Los Ayuntamientos podrán cancelar créditos fiscales en las cuentas públicas, por la no localización del contribuyente, incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios. La cancelación de créditos fiscales por la incosteabilidad en el cobro, o por la insolvencia del sujeto pasivo, de los responsables solidarios o de los responsables objetivos, no libera a unos y otros de su obligación.
+El Presidente Municipal podrá cancelar créditos fiscales en las cuentas públicas, por la no localización del contribuyente, incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, tomando en consideración el plazo de prescripción establecido en el artículo que antecede. La cancelación de créditos fiscales por la no localización del contribuyente, incosteabilidad en el cobro o por la insolvencia del sujeto pasivo, de los responsables objetivos, no libera a unos de otros de su obligación.
+
+Se consideran créditos no localizados aquellos que habiéndose intentado la diligencia en el domicilio fiscal o convencional del deudor o responsable solidario, y agotada la búsqueda en las fuentes de verificación internas y externas, no se encuentre al deudor o a los responsables solidarios, ni bienes de su propiedad.
+
+Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual al equivalente a 20 S.M.G. de la zona, así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
+
+Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere el tercer párrafo de este artículo, se determinarán de conformidad con las disposiciones aplicables.
+
+La cancelación de los créditos a que se refiere éste artículo no libera de su pago.
+
+Los Ayuntamientos darán a conocer las reglas de carácter general para la aplicación de éste artículo.
 
 ###### ARTICULO 121.
 
@@ -1705,9 +1745,11 @@ III.- Bienes muebles no comprendidos en las fracciones anteriores; y
 
 IV.- Bienes inmuebles.
 
-> <small>(ADICIONADO, P.O 29 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En caso de que la persona con quien se entiende la diligencia se negare a designar testigos o al terminar la diligencia los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta que levante, la que deberán firmar dos testigos que él mismo designe, sin que tales circunstancias afecten la legalidad del embargo.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+En caso de que la persona con quien se entiende la diligencia se negare a designar testigos o al terminar la diligencia los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta que levante, sin que tales circunstancias afecten la legalidad del embargo.
 
 ###### ARTICULO 128.
 
@@ -1811,9 +1853,29 @@ De las diligencias que se practiquen con estos motivos, se levantarán actas cir
 
 Cualquier otra dificultad que se suscite tampoco impedirá la prosecución de la diligencia de embargo. El notificador-ejecutor la subsanará discrecionalmente a reserva de lo que disponga la Tesorería Municipal o sus unidades administrativas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 139.
 
-Los secuestros administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución, cuando la Tesorería Municipal estime que los bienes embargados son insuficientes para cubrir las prestaciones fiscales insolutas y los vencimientos inmediatos.
+Los embargos administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución, cuando la Tesorería Municipal estime que los bienes embargados son insuficientes para cubrir las prestaciones fiscales insolutas y los vencimientos inmediatos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 139
+
+Bis.- La ampliación del embargo procederá en los siguientes casos:
+
+I. Cuando a juicio de la tesorería municipal los bienes embargados no sean suficientes para cubrir el adeudo y los vencimientos futuros calculados en un año, así como los gastos de ejecución;
+
+II. Cuando no se embarguen bienes suficientes por no tenerlos el deudor en el momento de la diligencia y después resulten o los adquiera;
+
+III. Cuando el producto del remate de los bienes no sea suficiente para cubrir el adeudo.
+
+La ampliación del embargo en ningún caso suspenderá el procedimiento de ejecución fiscal.
 
 ###### ARTICULO 140.
 
@@ -2075,6 +2137,30 @@ En tanto no se hubieren rematado, enajenado o adjudicado los bienes, el embargad
 
 Una vez realizado el pago por el embargado, éste deberá reiterar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición, y en caso de no hacerlo se causarán derechos por almacenaje a partir del día siguiente. Cuando el monto del derecho por almacenaje sea igual o superior al valor de los bienes determinado conforme a la parte conducente del artículo 155 de este Código, se aplicarán a cubrir los adeudos que se generaren por éste concepto.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 173
+
+Bis.- Causarán abandono en favor del Fisco Municipal los bienes embargados por las autoridades fiscales, en los siguientes casos:
+
+I. Cuando habiendo sido enajenados o adjudicados los bienes al adquirente no se retiren del lugar en que se encuentren, dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+
+II. Cuando el embargado efectúe el pago del crédito fiscal u obtenga resolución o sentencia favorable que ordene su devolución derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado o adjudicado los bienes y no los retire del lugar en que se encuentren dentro de dos meses contados a partir de la fecha en que se pongan a disposición del interesado.
+
+III. Se trate de bienes muebles que no hubieren sido rematados después de transcurridos dieciocho meses de practicado el embargo y respecto de los cuales no se hubiere interpuesto ningún medio de defensa.
+
+IV. Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de la autoridad y los propietarios de los mismos no los retiren dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+
+Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
+
+Cuando los bienes embargados hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago de los derechos de almacenaje causados. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
+
+Los bienes que pasen a propiedad del Fisco conforme a este artículo, podrán ser enajenados o donarse para obras o servicios públicos, o a instituciones asistenciales o de beneficencia.
+
+El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes en los términos que mediante reglas establezca la Tesorería Municipal.
+
 ###### ARTICULO 174.
 
 Las cantidades excedentes después de haber hecho la aplicación del producto del remate, venta fuera de subasta o adjudicación de los bienes secuestrados, se entregarán al embargado, salvo que medie orden escrita de autoridad competente o que el propio embargado acepte, también por escrito, que se haga entrega total o parcial del saldo a un tercero.
@@ -2156,3 +2242,13 @@ P.O. 12 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2009, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se dejan sin efecto todas las disposiciones legales qua se opongan al presente decreto.
+
+P.O. 18 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del primero de enero del año 2010, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto.
+
+ARTÍCULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
