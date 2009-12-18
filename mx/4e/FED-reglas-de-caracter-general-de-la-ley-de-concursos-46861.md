@@ -4,7 +4,7 @@ identifier: "FED-reglas-de-caracter-general-de-la-ley-de-concursos-46861"
 country: "mx"
 rank: "reglas"
 publication_date: "2003-01-30"
-last_updated: "2008-01-08"
+last_updated: "2009-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46861&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-01-23"
 
 REGLAS DE CARACTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICION TRANSITORIA PRIMERA DE LAS REGLAS DE CARACTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES, PUBLICADA EN EL D.O.F. DE 18 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADAS.
 
 Reglas publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de enero de 2003.
 
@@ -548,3 +550,13 @@ PRIMERA. Con independencia de lo dispuesto por la RegIa 2 de las Reglas de Cará
 SEGUNDA. Los honorarios de los especialistas que han iniciado labores antes de la entrada en vigencia de esta reforma, se determinarán conforme al nuevo texto que se reforma en el presente, salvo aquellos que hayan sido aprobados mediante sentencia, los cuales se pagarán en los términos de ésta.
 
 TERCERA. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE DICIEMBRE DE 2009.
+
+Primera.- Estas Reglas entrarán en vigor el día 1o. de febrero de 2010. Se derogan todas las Reglas emitidas por este Instituto en fechas anteriores.
+
+Segunda.- Con independencia y sin perjuicio de lo dispuesto en la Regla 2, las presentes Reglas podrán ser publicadas en el Diario Oficial de la Federación.
+
+Tercera.- Los honorarios de los Especialistas que se encuentren en funciones al inicio de la vigencia de las presentes Reglas, se calcularán y cobrarán en los términos de las presentes, salvo aquellos casos en los que ya exista una resolución firme reconociendo los mismos y ordenando su pago.
+
+Cuarta.- El Registro de Especialistas sufrirá los cambios que se deriven de la aplicación de las presentes Reglas.
