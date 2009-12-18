@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-del-municipio-de-57379"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-22"
-last_updated: "2007-10-22"
+last_updated: "2009-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de octubre de 2007.
 
@@ -411,11 +411,11 @@ II. Extraordinarias.
 
 III. Solemnes.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 49.
 
-Se deberán celebrar dos sesiones ordinarias por mes, el segundo y cuarto jueves de cada mes, teniendo una duración de 3-tres horas como máximo, pudiendo ser ampliado este horario cuando así lo determine la mayoría de los integrantes del R. Ayuntamiento, para agotar los asuntos acordados.
-
-En caso necesario se puede cambiar la fecha y la hora cuando así sea acordado por la mayoría absoluta del R. Ayuntamiento o por acuerdo del Presidente Municipal. Debiendo notificar el presidente a los integrantes del Ayuntamiento por escrito y con un mínimo (sic) 24 horas de anticipación a la celebración de la sesión.
+Se deberán celebrar dos sesiones ordinarias por mes, las que podrán celebrarse cualesquier día de la semana, teniendo una duración de 3-tres horas como máximo, pudiendo ser ampliado este horario cuando así lo determine la mayoría de los integrantes del R. Ayuntamiento, para agotar los asuntos acordados.
 
 Se deberán publicar las convocatorias de todas las sesiones en la página electrónica del municipio.
 
@@ -1210,3 +1210,15 @@ Doy fe.-
 C. Margarita Martínez López
 
 Presidente Municipal
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas al Reglamento Interior del R. Ayuntamiento del Municipio de General Escobedo, Nuevo León, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su publicación a través de la gaceta municipal.
