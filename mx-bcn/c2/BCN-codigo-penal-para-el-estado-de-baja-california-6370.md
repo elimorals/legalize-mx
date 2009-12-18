@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2009-11-27"
+last_updated: "2009-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1623,7 +1623,7 @@ Tipo y punibilidad.- Se impondrán de tres meses a dos años de prisión hasta c
 
 ### CAPITULO I. VIOLACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO II. ABUSO SEXUAL
 
@@ -1755,41 +1755,41 @@ QUERELLA: El delito de revelación de secreto se perseguirá por querella de la 
 
 ###### Artículo 176.
 
-Tipo y punibilidad de la violación.- Se impondrá prisión de cuatro a doce años y hasta trescientos días multa, al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo; si la persona ofendida fuere menor de catorce años la pena de prisión será de diez a quince años y hasta quinientos días multa.
+Tipo y punibilidad de la violación.- Se impondrá prisión de seis a quince años y hasta trescientos días multa, al que por medio de la violencia física ó moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo; si la persona ofendida fuere menor de catorce años la pena de prisión será de quince a veintidós años y hasta quinientos días multa.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
 Sólo se procederá contra el violador a petición de la parte ofendida, cuando la violación se cometa entre cónyuges o entre personas que vivan en concubinato.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 177.
 
-Violación equiparada.- Al que tenga cópula con persona menor de catorce años de edad o que por cualquier causa no esté en posibilidad de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa; se le impondrá de diez a quince años de prisión y hasta quinientos días multa.
+Violación equiparada.- Al que tenga cópula con persona menor de catorce años de edad o que por cualquier causa no esté en posibilidad de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa; se le impondrá de doce a veintidós años de prisión y hasta quinientos días multa.
 
 Artículo 177 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 178.
 
-Violación impropia.- Se equipara a la violación, al que sin consentimiento de una persona o con el, consentimiento de un o una menor de catorce años, introduzca uno o más dedos o un objeto de cualquier naturaleza en la región anal o vaginal, la pena será de cuatro a doce años de prisión y hasta trescientos días multa, sin perjuicio de las penas que resulten de la comisión de otro u otros delitos.
+Violación impropia.- Se equipara a la violación, al que sin consentimiento de una persona o con el consentimiento de un o una menor de catorce años, introduzca uno o más dedos o un objeto de cualquier naturaleza en la región anal o vaginal, la pena será de seis a quince años de prisión y hasta trescientos días multa, sin perjuicio de las penas que resulten de la comisión de otro u otros delitos.
 
 Artículo 178 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 179.
 
-Agravación de la pena.- Cuando la violación fuere cometida con intervención directa o inmediata de dos o más personas, la prisión será de diez a dieciocho años y hasta quinientos días multa; sien la comisión de este delito intervinieren uno o más menores, esta circunstancia no relevará de responsabilidad a los mayores, que participen en su comisión; a los demás se les aplicará las reglas contenidas en el artículo 16 de este Código.
+Agravación de la pena.- Cuando la violación fuere cometida con intervención directa o inmediata de dos o más personas, la prisión será de quince a veintisiete años y hasta quinientos días multa; si en la comisión de este delito intervinieren uno o más menores, esta circunstancia no relevará de responsabilidad a los mayores, que participen en su comisión; a los demás se les aplicará las reglas contenidas en el artículo 16 de este Código.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
-Además de las sanciones que señalan los artículos que anteceden, se impondrán de dos a cuatro años de prisión cuando el delito de violación fuere cometido por un ascendiente contra un descendiente, por éste contra aquél, por el tutor en contra de su pupilo o por el padrastro o amasio de la madre del ofendido, en contra del hijastro. En los casos en que la ejerciere el culpable perderá la patria potestad o la tutela así como el derecho de heredar del ofendido.
+Además de las sanciones que señalan los artículos que anteceden, se impondrán de tres a seis años cuando el delito de violación fuere cometido por un ascendiente contra un descendiente, por éste contra aquél, por el tutor en contra de su pupilo o por el padrastro o amasio de la madre del ofendido, en contra del hijastro. En los casos en que la ejerciere el culpable perderá la patria potestad o la tutela, así como el derecho de heredar del ofendido.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
-Cuando el delito de violación sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o circunstancias que ellos le proporcionan, será destituido definitivamente del cargo o empleo, o suspendido por el término de seis años en el ejercicio de dicha profesión.
+Cuando el delito de violación sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o circunstancias que ellos le proporcionan, independientemente de las penas y sanciones que señala este capítulo, será destituido definitivamente de su cargo o empleo, o suspendido por el término de nueve años en el ejercicio de dicha profesión.
 
 Es aplicable para todos los casos de violación lo que para la reparación del daño establece el artículo 184 de este Código.
 
@@ -4602,5 +4602,9 @@ P.O. 13 DE NOVIEMBRE DE 2009.
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 27 DE NOVIEMBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
