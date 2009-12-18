@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-comision-estatal-electoral-en-materia-de-67268
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-25"
-last_updated: "2009-02-25"
+last_updated: "2009-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA COMISION ESTATAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de febrero de 2009.
 
@@ -205,7 +205,9 @@ II. Su estructura orgánica en un formato que permita vincular por cada eslabón
 
 III. El directorio de sus servidores públicos, desde el nivel de jefe de departamento o equivalente, con nombre, domicilio oficial, números telefónicos oficiales y, en su caso, dirección electrónica oficial;
 
-IV. La calendarización de las sesiones públicas del Pleno de la Comisión. Para las reuniones ya celebradas, se deberán difundir, en un plazo no mayor a 30 días naturales, las correspondientes actas de dichas sesiones, así como las listas de asistencia de sus integrantes;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+IV. La calendarización de las sesiones públicas del Pleno de la Comisión. Para las reuniones ya celebradas, se deberán difundir, en un plazo no mayor a 30 días naturales posteriores a su realización, las correspondientes actas de dichas sesiones, así como las listas de asistencia de sus integrantes;
 
 V. En su caso, una relación de sus servidores públicos comisionados por cualquier causa, indicando el objeto, lugar y duración de la comisión;
 
@@ -461,7 +463,9 @@ II. Que se encuentre dirigida a la Comisión;
 
 III. La descripción de la información que se solicita anexando en su caso cualquier dato que facilite su localización;
 
-IV. La dirección para recibir la información solicitada o las notificaciones que correspondan. Las notificaciones podrán hacerse a través de medios electrónicos, si así lo autoriza el solicitante; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+IV. El domicilio o medio para recibir la información solicitada o las notificaciones que correspondan, las cuales podrán hacerse a través de medios electrónicos, si así lo autoriza el solicitante; y
 
 V. La modalidad en la que prefiere se otorgue el acceso a la información, la cual podrá ser mediante consulta directa, copias simples, certificadas u otro tipo de medio electrónico. La Comisión podrá entregar la información en una modalidad distinta a la solicitada cuando exista causa justificada.
 
@@ -495,9 +499,13 @@ La respuesta a una solicitud de acceso deberá ser notificada al interesado en e
 
 Este plazo podrá prorrogarse por un periodo de diez días hábiles cuando no sea posible dar respuesta en dicho término. La Comisión deberá comunicar al solicitante, antes del vencimiento del plazo, las razones por las cuales hará uso de la prórroga. No podrán invocarse como causales de ampliación del plazo motivos que supongan negligencia o descuido de la Comisión en el desahogo de la solicitud.
 
-Las notificaciones a las solicitudes de información se realizarán por conducto de una tabla de avisos, instalada en lugar visible de la Comisión, por vía electrónica o a través del sistema electrónico autorizado.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
-Únicamente se harán de manera personal en el domicilio señalado para tal efecto, por única vez y por correo certificado, las notificaciones relativas al requerimiento de aclaración. Para efectos de cómputo se entenderá presentada en tiempo la solicitud aclaratoria o la notificación al solicitante cuando se deposite la pieza en correo dentro del plazo que el presente Reglamento señala.
+Las notificaciones relativas a las solicitudes de información se realizarán a través del sistema electrónico establecido por la Comisión o por medio de la dirección electrónica proporcionada por el solicitante. En caso de no haberse utilizado uno, ni proporcionado la otra, las notificaciones relativas a las solicitudes de información serán personales y se harán por medio de instructivo practicándose en el domicilio que el interesado señale para tal efecto.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+El domicilio designado para oír y recibir notificaciones deberá estar ubicado en Monterrey, Nuevo León. Cuando el interesado no cumpla con la anterior prevención o el domicilio no exista, las notificaciones se le harán por medio de instructivo que se fijará en la tabla de avisos o en el lugar visible del recinto de la Comisión.
 
 La información pública deberá entregarse dentro de los diez días hábiles siguientes a la fecha en que la Comisión le haya notificado al solicitante la disponibilidad de aquélla. En caso de que sea necesario cubrir costos para obtener la información en alguna modalidad de entrega, el plazo correrá a partir de la fecha en que el solicitante acredite haber cubierto el pago de los derechos correspondientes.
 
@@ -742,3 +750,13 @@ Presidente
 Dr. Víctor Aurelio Zúñiga González
 
 Secretario
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE DICIEMBRE DE 2009.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL ORDENAMIENTO.
+
+PRIMERO: Expedir la reforma al Reglamento de la Comisión Estatal Electoral en Materia de Transparencia y Acceso a la Información, en los términos expuestos en el presente acuerdo.
+
+SEGUNDO: Publicar el presente acuerdo en el Periódico Oficial del Estado, para los efectos legales a que haya lugar.
