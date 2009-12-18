@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-tecate-baja-24552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-01"
-last_updated: "2009-01-30"
+last_updated: "2009-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de febrero de 2001.
 
@@ -771,41 +771,75 @@ La comisión podrá invitar a los ciudadanos interesados en el asunto de que se 
 
 COMISIONES PERMANENTES
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 70.
 
-Son comisiones permanentes las siguientes:
+Serán Comisiones permanentes las siguientes:
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
 
 I.- Gobernación y Legislación.
 
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+
 II.- Hacienda.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
 
 III.- Obras y Servicios Públicos.
 
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+
 IV.- Desarrollo Urbano y Control Ecológico.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
 
 V.- Administración Pública.
 
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+
 VI.- Seguridad, Tránsito y Transporte.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
 
 VII.- Planeación del Desarrollo.
 
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+
 VIII.- Publicaciones y asuntos fronterizos.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
 
 IX.- Salud.
 
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+
 X.- Asistencia Social.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
 
 XI.- Educación, Cultura y Deporte.
 
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+
 XII.- Gestión Social.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
 
 XIII.- Bomberos y Protección Civil.
 
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+
 XIV.- Desarrollo Rural y Comunidades Indígenas.
 
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+
 XV.- Equidad de Género.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+XVI.- Migración.
 
 COMISIÓN DE GOBERNACIÓN Y LEGISLACION
 
@@ -1033,6 +1067,22 @@ V).- Gestionar ante las diferentes dependencias gubernamentales recursos suficie
 
 VI).- Las demás que el Cabildo le encomiende.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 82 CUATER.- La Comisión de Migración tendrá las siguientes atribuciones:
+
+I.- Conocer y dictaminar aquellas iniciativas en donde se encuentren involucrados los derechos de los migrantes;
+
+II.- Impulsar acciones ante el Gobierno del Estado, que coadyuven al bienestar y prosperidad de las familias de los migrantes;
+
+III.- Atender y dar seguimiento ante las instancias públicas federal, estatal y municipal, así como privadas y sociales, a la problemática que en materia de educación, salud, cultura y desarrollo presenten los migrados y sus familiares residentes en el territorio municipal;
+
+IV.- Realizar foros y estudios sobre las causas de migración y proponer las medidas para la atención de estas;
+
+V.- Los asuntos relacionados con los planes, programas, estrategias y políticas de apoyo a favor de los migrantes, así como el fortalecimiento de la vinculación intergubernamental para su desarrollo;
+
+En general, aquellas que el Cabildo le encomiende.
+
 REMISION A COMISIONES
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2008)</small>
@@ -1192,5 +1242,9 @@ P.O. 2 DE MAYO DE 2008.
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 30 DE ENERO DE 2009.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 18 DE DICIEMBRE DE 2009.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
