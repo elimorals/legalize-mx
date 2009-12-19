@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2008-08-30"
+last_updated: "2009-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -4827,7 +4827,9 @@ Para que una cantidad entregada por el vendedor tenga el carácter de arras debe
 
 ### CAPITULO TERCERO. DE LOS QUE PUEDEN VENDER Y COMPRAR
 
-1620.- Los consortes no pueden celebrar entre sí el contrato de compraventa, si el régimen de su matrimonio es el de sociedad conyugal. Si los cónyuges están casados bajo separación de bienes, sólo pueden realizar entre sí el contrato de compraventa con autorización judicial, siempre y cuando no se realice en fraude de acreedores.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+1620.- Los consortes pueden celebrar entre sí contratos de compraventa, en los términos de lo establecido en el Código Familiar del Estado, siempre y cuando no se realicen en fraude de acreedores.
 
 1621.- Los extranjeros y las personas morales no pueden comprar bienes raíces, sino sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en sus leyes reglamentarias.
 
@@ -8088,3 +8090,7 @@ P.O. 30 DE AGOSTO DE 2008.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas aquellas disposiciones que contravengan este Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2009.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 4o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE ZACATECAS.
