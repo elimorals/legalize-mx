@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2008-08-30"
+last_updated: "2009-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -475,13 +475,9 @@ III. La declaración de dos testigos mayores de edad, que conozcan a los pretend
 
 IV. Un certificado médico expedido por institución oficial, en el que haga constar que los pretendientes no padecen alguna enfermedad contagiosa, crónica o incurable;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
-V. El convenio que los pretendientes deberán celebrar con relación a los bienes presentes y a los que adquieran durante el matrimonio. Los términos en que se determinen los derechos y obligaciones objeto del convenio, podrán establecerse como resultado de un procedimiento de mediación familiar. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen, de sociedad conyugal, el de separación de bienes o mixto. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejar de presentarse este convenio aún so pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio.
-
-Al formalizarse el convenio se tendrá en cuenta lo que dispongan las leyes que regulen las capitulaciones matrimoniales, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber al efecto.
-
-Si fuere necesario conforme a derecho que el convenio conste en escritura pública, se acompañará el testimonio notarial de la misma;
+V. El convenio que los pretendientes deberán celebrar con relación a los bienes presentes y a los que adquieran durante el matrimonio. Los términos en que se determinen los derechos y obligaciones objeto del convenio, podrán establecerse como resultado de un procedimiento de mediación familiar. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal, el de separación de bienes o el régimen mixto. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejar de presentarse este convenio aún so pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio;
 
 VI. Copia certificada del acta de defunción del cónyuge fallecido, si alguno de los cónyuges es viudo; o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en el caso de que alguno de los pretendientes hubiere sido casado anteriormente; y
 
@@ -657,11 +653,11 @@ Las Autoridades Judiciales que declaren perdida la capacidad legal de alguna per
 
 DE ACTAS DEL REGISTRO CIVIL
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 94.
 
-La rectificación o modificación de un acta del Estado Civil, no puede hacerse sino ante el Juez de lo Familiar o Juez Municipal y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un progenitor de su hijo, el cual se sujetará a las prescripciones de este Código.
+La rectificación o modificación de un acta del Estado Civil, no puede hacerse sino ante el Juez de lo Familiar o Juez Municipal y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un progenitor de su hijo, el cual se sujetará a las prescripciones de este Código, así como el cambio de régimen por el que se celebró el matrimonio, que podrá celebrarse por convenio de los cónyuges, ante notario público, quien deberá enviar el testimonio al Registro Civil ante quien se celebró el matrimonio para que haga la anotación correspondiente.
 
 ###### ARTICULO 95.
 
@@ -669,7 +665,11 @@ Ha lugar a pedir la rectificación:
 
 I. Por falsedad, cuando se alegue que el suceso registrado no ocurrió;
 
-II. Por enmienda, cuando se solicite variar un nombre u otra circunstancia esencial.
+II. Por enmienda, cuando se solicite variar un nombre u otra circunstancia esencial;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+III. Por cambio del régimen patrimonial del matrimonio, celebrado ante autoridad judicial o notario público, en los términos del presente Código.
 
 ###### ARTICULO 96.
 
@@ -905,19 +905,35 @@ Los cónyuges tienen capacidad para administrar, contratar o disponer de sus bie
 
 El marido y la mujer menores de edad tendrán la administración de sus bienes, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos, y un tutor para sus negocios judiciales. Cada cónyuge puede disponer libremente de los frutos de su trabajo cumpliendo previamente la obligación de contribuir a los gastos de la familia.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 131.
 
-Los cónyuges requerirán autorización judicial para contratar entre ellos, excepto cuando el contrato sea de mandato para pleitos y cobranzas, o para actos de administración.
+Cuando los cónyuges quieran contratar entre sí, los contratos se sujetarán a lo siguiente:
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+I. Si el matrimonio se celebró bajo el régimen de sociedad conyugal:
+
+a) La donación o compraventa entre ambos deberá ir acompañada de las capitulaciones matrimoniales con relación a estos bienes, que deberán quedar fuera del patrimonio común y la declaración del adquirente de que se constituye en deudor subsidiario hasta por el valor del inmueble transferido, con relación a las obligaciones que el enajenante hubiere contraído con anterioridad a la enajenación de que se trate, para que la transmisión del dominio sea válida.
+
+b) El contrato de mandato para actos de dominio, invariablemente, deberá inscribirse en el Registro Público de la Propiedad y del Comercio.
+
+c) El contrato de mandato para actos de dominio sólo procederá cuando el objeto se refiera a bienes determinados.
+
+d) El contrato de mandato para actos de dominio no podrá ser irrevocable.
+
+II. Si el matrimonio se celebró bajo el régimen de separación de bienes, deberá contener declaración del adquirente de que se constituye en deudor subsidiario hasta por el valor del inmueble transferido, con relación a las obligaciones que el enajenante hubiere contraído con anterioridad a la enajenación de que se trate, para que la transacción sea válida; y reunir los requisitos señalados en los incisos b), c) y d) de la fracción anterior.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 132.
 
-Se requiere autorización judicial para que el cónyuge sea fiador o aval de su cónyuge o se obligue solidariamente con él en asuntos de interés exclusivo de cada uno de ellos, salvo cuando se trate de otorgar caución para que el otro obtenga su libertad. La ausencia de dicha autorización conlleva la nulidad del acto.
+Cuando el matrimonio se encuentre celebrado bajo el régimen de sociedad conyugal, se requiere autorización judicial para que el cónyuge sea fiador o aval de su consorte o se obligue solidariamente con él en asuntos de interés exclusivo de cada uno de ellos, salvo cuando se trate de otorgar caución para que el otro obtenga su libertad.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 133.
 
-El contrato de compraventa sólo podrá celebrarse entre los cónyuges, cuando el matrimonio esté sujeto a régimen de separación de bienes.
+El contrato de compraventa podrá celebrarse entre los cónyuges, cuando el matrimonio esté sujeto a los regímenes de sociedad conyugal, de separación de bienes o bajo el régimen mixto, en los términos de este Código.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -1037,11 +1053,11 @@ La administración de la sociedad corresponde a ambos cónyuges; pero puede conv
 
 Los actos de dominio sólo podrán realizarse por ambos cónyuges de común acuerdo.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 153.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los cónyuges. Los términos en que se determinen los derechos y obligaciones objeto del convenio pueden establecerse como resultado de un procedimiento de mediación. En los casos que alguno o ambos cónyuges fueren menores de edad, el convenio relativo sólo tendrá validez después de ser autorizado por el Juez de lo Familiar o Juez Municipal.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los cónyuges. Debiendo tramitarse ante el Juez Familiar o ante Notario Público, y cualquiera de los cónyuges deberá hacer llegar al Oficial del Registro Civil que corresponda, copia certificada de la resolución o testimonio en que se haga constar el cambio, para que se hagan las anotaciones en el acta de matrimonio. Lo anterior previo el pago de derechos correspondientes. Los términos en que se determinen los derechos y obligaciones objeto del convenio pueden establecerse como resultado de un procedimiento de mediación. En los casos que alguno o ambos cónyuges fueren menores de edad, el convenio relativo sólo tendrá validez después de ser autorizado por el Juez de lo Familiar o Juez Municipal.
 
 ###### ARTICULO 154.
 
@@ -1099,11 +1115,11 @@ En el régimen de separación de bienes, los cónyuges conservarán la propiedad
 
 La separación puede comprender no sólo los bienes de que sean dueños los consortes al celebrarse el matrimonio sino también los que adquieran después. La separación de bienes puede ser absoluta o parcial.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 166.
 
-Durante el matrimonio la separación de bienes puede terminar para ser sustituida por la sociedad conyugal o régimen mixto, pero si son los consortes menores de edad se precisará autorización judicial.
+Durante el matrimonio, si así lo acuerdan los cónyuges, la separación de bienes puede terminar para ser sustituida por la sociedad .conyugal o el régimen mixto, debiendo tramitarse ante el Juez Familiar o ante Notario Público, y cualquiera de los cónyuges deberá hacer llegar al Oficial del Registro Civil que corresponda, copia certificada de la resolución o testimonio en que se haga constar el cambio, para que se hagan las anotaciones en el acta de matrimonio. Lo anterior previo el pago de derechos correspondientes. Pero si son los cónyuges menores de edad se precisará autorización judicial.
 
 ###### ARTICULO 167.
 
@@ -1183,17 +1199,19 @@ Las donaciones antenupciales son revocables cuando, durante el matrimonio el don
 
 Los consortes pueden hacerse donaciones, si no son contrarias a las reglas que en su caso rijan la sociedad conyugal y si no perjudican el derecho de los ascendientes o descendientes a recibir alimentos.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 182.
 
-Son aplicables a las donaciones entre consortes las siguientes disposiciones:
+Son aplicables a las donaciones entre cónyuges las siguientes disposiciones:
 
-I. Pueden ser revocadas libremente y en todo tiempo por los donantes;
+I. Sólo pueden ser revocadas por extrema ingratitud del donatario con relación al donante;
 
-II. Los cónyuges no necesitan autorización judicial para revocarlas;
+II. El cónyuge donante requiere autorización judicial para revocarlas;
 
-III. Estas donaciones no se anularán por la superveniencia de hijos, pero se reducirán cuando sean inoficiosas en los mismos términos que las comunes; y
+III. La revocación por la única causa prevista en este artículo, sólo procederá si se realiza dentro de los tres años siguientes a la fecha de la escritura de donación, y
 
-IV. Sólo se confirmarán con la muerte del donante.
+IV. La donación entre consortes se perfecciona con la muerte del donante o cuando transcurran tres años contados a partir de la fecha del otorgamiento de la escritura.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -4714,3 +4732,7 @@ P.O. 30 DE AGOSTO DE 2008.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas aquellas disposiciones que contravengan este Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2009.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 4o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE ZACATECAS.
