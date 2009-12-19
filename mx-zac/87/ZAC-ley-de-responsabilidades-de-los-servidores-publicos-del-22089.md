@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-responsabilidades-de-los-servidores-publicos-del-22089"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-08"
-last_updated: "2005-06-11"
+last_updated: "2009-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 8 de septiembre de 2001.
 
@@ -191,9 +191,25 @@ XXVI. En el caso de los integrantes de los Ayuntamientos, ordenar y vigilar que 
 
 XXVII. Abstenerse de incurrir en nepotismo, que consiste en conceder empleo, cargo o comisión remunerados, a su cónyuge, parientes consanguíneos en línea recta sin límite de grado; y en línea colateral, así como por afinidad, hasta el segundo grado, y parientes por adopción.
 
-Se excluye de esta disposición a los trabajadores que tengan antigüedad anterior al inicio de una nueva administración; y
+Se excluye de esta disposición a los trabajadores que tengan antigüedad anterior al inicio de una nueva administración; y (sic)
 
-XXVIII. Las demás que le impongan las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+XXVIII. Abstenerse de cumplir y crear los programas de capacitación y adiestramiento dentro de la entidad pública de que sea titular;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+XXIX. Abstenerse de expedir al interior de la entidad pública el reglamento de escalafón de conformidad a lo establecido en la Ley del Servicio Civil del Estado;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+XXX. Dejar de aplicar, cumplir y hacer validas las multas y medios de apremio que contempla la legislación vigente;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+XXXI. Abstenerse de cumplir las resoluciones y laudos que dicte el Tribunal de Conciliación y Arbitraje del Estado;
+
+XXXII. Las demás que le impongan las leyes y reglamentos.
 
 ###### Artículo 6°.
 
@@ -301,7 +317,9 @@ Presentación de solicitud o denuncia
 
 I. Cualquier ciudadano, bajo su más estricta responsabilidad, podrá formular por escrito dirigido a la Legislatura, la solicitud o denuncia, respecto de aquellos actos u omisiones de servidores públicos que impliquen responsabilidades de acuerdo a esta ley;
 
-II. La solicitud o denuncia se presentará en días y horas hábiles en la Oficialía Mayor de la Legislatura; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+II. La solicitud o denuncia se presentará en días y horas hábiles en la Secretaría General de la Legislatura; y
 
 III. La solicitud o denuncia deberá ratificarse en comparecencia personal por quien promueva, dentro de los tres días hábiles siguientes a su presentación. Quien comparezca a ratificar deberá identificarse con su credencial de elector.
 
@@ -894,3 +912,13 @@ P.O. 11 DE JUNIO DE 2005.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 SEGUNDO.- La Dirección de Prevención y Readaptación Social iniciará de inmediato la elaboración y entrega de las constancias de readaptación de los condenados que hayan cumplido con su pena en un periodo de cinco años a la fecha; las relativas a las fechas anteriores, se expedirán, siempre y cuando sean solicitados por los interesados.
+
+P.O. 19 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos laborales burocráticos que iniciaron bajo la vigencia de la Ley, previas las reformas y adiciones y que continúen en trámite, serán regulados por las disposiciones que regían hasta antes de la entrada en vigor del presente Decreto.
