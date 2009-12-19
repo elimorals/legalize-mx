@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-31555"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-31"
-last_updated: "2009-04-25"
+last_updated: "2009-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 31 de mayo de 2003.
 
@@ -747,6 +747,10 @@ Los contratistas con quienes se celebren contratos de obra pública y de servici
 
 Las instituciones contratantes retendrán el importe de los derechos mencionados.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Asimismo, el fraccionador enterará a la Secretaría por concepto de derechos de supervisión, una cantidad equivalente al dos por ciento del presupuesto de las obras por ejecutar.
+
 ###### ARTICULO 51.
 
 La ejecución de la obra o servicios relacionados con la misma contratados deberán iniciarse en la fecha señalada, y para ese efecto, la institución contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que deba llevarse a cabo. El incumplimiento de la institución prorrogará en igual plazo, la fecha originalmente pactada para la terminación de los trabajos.
@@ -1160,3 +1164,9 @@ P.O. 25 DE ABRIL DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
