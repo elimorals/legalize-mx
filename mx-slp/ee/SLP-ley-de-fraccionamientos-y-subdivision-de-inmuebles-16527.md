@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fraccionamientos-y-subdivision-de-inmuebles-16527"
 country: "mx"
 rank: "ley"
 publication_date: "1983-04-15"
-last_updated: "1990-07-03"
+last_updated: "2009-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SLP"
 
 LEY DE FRACCIONAMIENTOS Y SUBDIVISION DE INMUEBLES
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO ECOLOGICO Y URBANO DEL ESTADO DE SAN LUIS POTOSI, PUBLICADO EN P.O. 3 DE JULIO DE 1990: "SE ABROGA LA LEY DE FRACCIONAMIENTO Y SUBDIVISION DE INMUEBLES, SALVO SUS ARTICULOS 44 Y 45, EN LA PARTE QUE CREAN LOS DERECHOS DE SUPERVISION DE LAS OBRAS POR EJECUTAR EN LOS FRACCIONAMIENTOS Y QUE EQUIVALEN A 2% DEL PRESUPUESTO DE LAS MISMAS".</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO No. 016, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el viernes 15 de abril de 1983.
 
@@ -544,3 +544,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 Abrogaciones.
 
 Se abroga la Ley de Asentamientos Humanos del Estado de San Luis Potosí, promulgada el 15 de febrero de 1977. Asimismo se abroga la Ley de Fraccionamientos y Subdivisión de Inmuebles, publicada en el Periódico Oficial del Estado el 15 de abril de 1983, salvo sus artículos 44 y 45 en la parte que crean los derechos de supervisión de las obras por ejecutar en los Fraccionamientos y que equivalen al 2% del presupuesto de las mismas.
+
+P.O. 19 DE DICIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
