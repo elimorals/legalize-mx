@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-deuda-publica-del-estado-de-nayarit-11000"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-20"
-last_updated: "2007-12-15"
+last_updated: "2009-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 20 de diciembre de 1995.
 
@@ -171,7 +171,9 @@ IV. Verificar que las operaciones de Deuda del Estado y de los Municipios, de su
 
 V. Hacer del conocimiento al Ejecutivo del Estado y al Ayuntamiento correspondiente de cualquier observación que surja de la verificación a que se refiere la fracción anterior, sin perjuicio de las responsabilidades que originen.
 
-VI. Autorizar, previa solicitud del Ejecutivo Estatal o Ayuntamiento en su caso, debidamente justificada y de conformidad con las disposiciones de la presente ley, los montos de endeudamiento adicionales necesarios, cuando se presenten circunstancias extraordinarias que así lo ameriten.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+VI. Autorizar al Ejecutivo Estatal o Ayuntamientos, en su caso, a través de la reforma o adición a la Ley de Ingresos correspondiente o mediante decreto específico, de conformidad con las disposiciones de la presente ley, los montos de endeudamiento adicionales necesarios, cuando se presenten circunstancias extraordinarias que así lo ameriten y/o se cuente con los recursos suficientes para el cumplimiento de las obligaciones que contraigan, incluida la afectación de participaciones y/o aportaciones federales susceptibles de afectar en términos de la legislación aplicable, para destinarlas como fuente y/o garantía de pago, o ambas, así como aprobar los mecanismos necesarios para cubrir la deuda con las afectaciones señaladas.
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -195,7 +197,9 @@ Además presentará informes trimestrales sobre la situación de la Deuda Públi
 
 III. Otorgar en su caso y previa autorización de la legislatura local, el aval o garantía para los financiamientos a favor de las entidades a que se refieren las fracciones II, III, IV, V y VI del artículo 2° de esta ley.
 
-IV. Contratar montos de endeudamiento adicionales, cuando se presenten circunstancias extraordinarias que así lo requieran; debiendo dar cuenta de los mismos en los informes a que se refiere la fracción II de este artículo.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+IV. Contratar montos de endeudamientos adicionales, cuando se presenten circunstancias extraordinarias que así lo requieran y/o se cuente con los recursos suficientes para el cumplimiento de las obligaciones que contraiga; debiendo dar cuenta de los mismos en los informes a que se refiere la fracción II de este artículo.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -207,7 +211,9 @@ VI. Contratar financiamientos de manera directa sin que medie autorización de l
 
 VII. Celebrar contratos y convenios, así como suscribir los documentos y títulos de crédito necesarios para formalizar las operaciones de restructuración (sic) o conversión de los créditos adquiridos por el Estado y sus entidades.
 
-VIII. Asesorar a los Municipios en todo lo relativo a la obtención de recursos crediticios, concentración de empréstitos y contratación de créditos y otras operaciones financieras para sí o para sus organismos descentralizados, fideicomisos y empresas dé participación municipal mayoritaria.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+VIII. Asesorar a los municipios en todo lo relativo a la obtención de recursos crediticios, la contratación de empréstitos, créditos y otras operaciones financieras para sí o para sus organismos descentralizados, fideicomisos y empresas de participación municipal mayoritaria, incluyendo en su caso, el apoyo a los municipios cuando dos o más de ellos se lo soliciten, para que concurran conjuntamente, o con el Ejecutivo del Estado ante el Congreso para la obtención de autorizaciones globales de endeudamiento, constitución de garantías y/o fuentes de pago y de los mecanismos para tales efectos, a las cuales se podrán adherir los demás municipios que lo estimen conveniente.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -215,9 +221,13 @@ IX. Constituir fideicomisos y afectar ingresos en los términos de ésta y demá
 
 X. Autorizar a las entidades del sector público paraestatal, a fin de que se lleven a cabo la contratación de créditos.
 
-XI. Afectar en garantía de pago de las obligaciones contraidas, directamente o como avalista las participaciones que en ingresos federales le corresponden al Estado.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
-XII. Afectar como garantía de pago de las obligaciones inscritas en el Registro a que se refiere esta ley y contraidas por los Municipios o sus entidades, las participaciones que le correspondan, sobre ingresos federales y municipales coordinados con el Estado, en los términos de lo dispuesto en las Leyes de Coordinación Fiscal Federal, y Estatal en su caso.
+XI. Previa autorización del Congreso, afectar en garantía y/o fuente de pago, o ambas, de las obligaciones contraídas, directamente o como garante o avalista, las participaciones y/o aportaciones federales que le correspondan al Estado, según proceda y se puedan afectar de conformidad a la legislación federal aplicable.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+XII. Con la previa autorización del Congreso, afectar como garantía y/o fuente de pago, o ambas, de las obligaciones inscritas en el Registro a que se refiere esta ley, contraídas por los Municipios y/o sus Organismos, las participaciones y/o aportaciones federales, o cualquier otro ingreso que les correspondan y que se puedan afectar de conformidad con la legislación aplicable, formalizando, por conducto de la Secretaría de Finanzas, cuando así se requiera, los Instrumentos o mecanismos a los cuales se puedan adherir los Municipios y/o sus Organismos.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -239,13 +249,17 @@ XVIII. Llevar el Registro de las obligaciones financieras derivadas de la contra
 
 XXI (SIC). Expedir los certificados de afectación a los ingresos municipales en gravámenes y fondos federales participables e ingresos coordinados con el Estado, cuando los Ayuntamientos los otorguen como garantía.
 
+> <small>(REFORMADO PRIMERA PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 14.
 
-Corresponde al Ayuntamiento Municipal:
+Corresponde al Ayuntamiento:
 
 I. Proporcionar la información que en relación a las operaciones de Deuda Pública le soliciten la Legislatura Local y el Ejecutivo del Estado, cuando éste funja como aval solidario.
 
-II. Formalizar contratos y convenios para la obtención de empréstitos, créditos y demás operaciones de Deuda Pública, suscribiendo los instrumentos requeridos para el efecto.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+II. Formalizar contratos y convenios para la obtención de empréstitos, créditos y demás operaciones de Deuda Pública, suscribiendo los instrumentos requeridos para el efecto, incluyendo los mecanismos o su adhesión a los mismos para otorgar la garantía y/o fuente de pago de las operaciones de financiamiento a su cargo.
 
 III. Celebrar convenios y contratos de reestructuración o conversión de créditos ya adquiridos, que modifiquen tasas de interés, plazos y formas de pago.
 
@@ -253,9 +267,9 @@ III. Celebrar convenios y contratos de reestructuración o conversión de crédi
 
 IV. Constituir fideicomisos y afectar ingresos en los términos de ésta y demás Leyes relativas, así como la realización de los demás actos relacionados con su objeto.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
-V. Autorizar en garantía de las obligaciones que contraiga, la afectación de sus ingresos en gravámenes y fondos federales participables.
+V. Sin perjuicio de la autorización que se le otorgue por el Congreso, autorizar como fuente y/o garantía de pago, o ambas, de las obligaciones que contraiga, la afectación de sus participaciones y/o aportaciones federales susceptibles de afectar en términos de la legislación aplicable.
 
 VI. Presentar a la Comisión Intersecretarial de Gasto y Financiamiento, el Programa Financiero que justifique la viabilidad de contraer obligaciones de Deuda Pública, en los casos en que el Ejecutivo funja como aval solidario de las contrataciones respectivas.
 
@@ -303,11 +317,15 @@ VIII. Las demás que le confiera el Ejecutivo Estatal, el Reglamento de esta ley
 
 El Ejecutivo Estatal concertará y formalizará los créditos y financiamientos que constituyan la deuda pública Estatal, a través de la Secretaría de Finanzas; cuyo monto máximo de endeudamiento neto, no podrá ser superior a la capacidad de pago del Gobierno del Estado, según lo determine la Comisión Intersecretarial de Gasto y Financiamiento.
 
-Los Gobiernos Municipales por conducto de sus Tesorerías, concertarán y formalizarán los créditos y financiamientos que constituyan Deuda Pública. Los organismos públicos descentralizados estatales, las empresas de participación estatal mayoritaria y los demás organismos de naturaleza estatal a que se refiere el Artículo 2o. de este ordenamiento, sólo podrán obtener créditos o financiamientos por conducto de la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Los Gobiernos Municipales por conducto de su Presidente, Síndico, Secretario y Tesorero municipales, concertarán y formalizarán los créditos y financiamientos que constituyan Deuda Pública. Los organismos públicos descentralizados estatales, las empresas de participación estatal mayoritaria y los demás organismos de naturaleza estatal a que se refiere el Artículo 2o. de este ordenamiento, sólo podrán obtener créditos o financiamientos por conducto de la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 18.
 
-Los montos de endeudamiento que se contraten por concepto de Deuda Pública, se sujetarán a los aprobados para tal efecto por el Congreso del Estado, conforme a lo previsto por la fracción I del Artículo 12 de esta ley.
+Los montos de endeudamiento que se contraten por concepto de Deuda Pública, se sujetarán a los aprobados para tal efecto por el Congreso del Estado, conforme a lo previsto por esta ley.
 
 ###### ARTICULO 19.
 
@@ -459,29 +477,31 @@ IV. Los Municipios y sus entidades, al efectuar el pago parcial o total de las o
 
 Los ingresos que generen de manera directa las obras materia del endeudamiento, deberán aplicarse preferentemente a las amortizaciones del mismo.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 39.
 
-La inscripción en el registro de deuda pública estatal de las obligaciones directas, indirectas o contingentes a cargo de los Municipios, confiere a los acreedores, en caso de incumplimiento de los deudores, el derecho a que sus créditos se cubran con cargo a los ingresos municipales en gravámenes y fondos federales participables que deba entregarle el Estado.
+La inscripción en el Registro de Deuda Pública Estatal de las obligaciones directas, indirectas o contingentes a cargo del Estado o los Municipios, confiere a los acreedores, en caso de incumplimiento de los deudores, el derecho a que sus créditos se cubran con cargo a los ingresos estatales o municipales, según corresponda, en gravámenes y fondos federales repartibles, incluyendo las participaciones y/o aportaciones federales en términos de la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 40.
 
-Para efecto de dar cumplimiento puntual y oportuno a los financiamientos que sean considerados deuda pública y que tengan como medio de pago las participaciones en Ingresos Federales por parte de las entidades referidas en el artículo 2, el Ejecutivo del Estado por conducto de la Secretaría de Finanzas, constituirá un fideicomiso de administración y pago de los financiamientos, mismo que se contratará con institución fiduciaria del sistema bancario nacional.
+Para efecto de dar cumplimiento puntual y oportuno a los financiamientos que sean considerados Deuda Pública y que tengan como medio de pago las participaciones y/o aportaciones federales por parte de las entidades referidas en el artículo 2° de esta Ley, según corresponda y se puedan afectar de conformidad a la legislación aplicable, el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podré constituir fideicomisos de administración y pago de los financiamientos, mismos que se contratarán con instituciones fiduciarias del sistema bancario nacional.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+Los fideicomisos señalados no serán considerados, en ningún caso, parte de la Administración Pública Paraestatal o Paramunicipal. Con el fin de cumplir con sus obligaciones en términos de la ley de Coordinación Fiscal, los fideicomisos podrán servir como instrumentos de captación, distribución o ambos de la totalidad de las aportaciones federales susceptibles de afectarse como garantía o fuente de pago de conformidad a la legislación aplicable, incluyendo los recursos que correspondan a los Municipios para su posterior entrega a los mismos, a través de cuentas, depósitos u otros medios legales, los cuales en su operación deberán respetar los montos, plazos y condiciones de entrega de los recursos al Estado y los Municipios conforme a la ley y los convenios aplicables, sin perjuicio de cumplir con los fines de las afectaciones que, como garantía o fuente de pago o ambas, hubieren realizado el Estado y/o los Municipios a favor de sus acreedores en términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 41.
 
-El fideicomiso señalado en el artículo anterior, se constituirá con el porcentaje de los ingresos que por concepto de participaciones en ingresos federales, correspondan al Estado y sus Municipios y que resulte suficiente para el cumplimiento oportuno de las obligaciones financieras a su cargo.
+A los fideicomisos señalados en el artículo anterior, se podrán afectar los porcentajes de los ingresos que por concepto de participaciones y/o aportaciones federales, correspondan al Estado y sus Municipios y que resulten suficientes para el cumplimiento oportuno de las obligaciones financieras a su cargo, susceptibles de afectar de conformidad a la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 42.
 
-La Secretaría de Finanzas, será la dependencia encargada de vigilar el correcto funcionamiento del fideicomiso de administración y pago.
+La Secretaría de Finanzas, o su equivalente en el Estado, será la dependencia encargada de vigilar el correcto funcionamiento de los fideicomisos de administración y pago que, en su caso, se constituyan de conformidad a lo previsto en esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -568,3 +588,9 @@ P.O. 15 DE DICIEMBRE DE 2007.
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
