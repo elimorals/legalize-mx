@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-13310
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-27"
-last_updated: "2006-10-25"
+last_updated: "2009-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de agosto de 1986.
 
@@ -795,9 +795,9 @@ f) Un representante del Sindicato Independiente de Trabajadores de Telesecundari
 
 II. La Comisión de Vigilancia la formarán:
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
-a) El Titular de la Contraloría Interna del Estado, quien tendrá el carácter de Presidente;
+a) El Contralor Interno del Estado, que tendrá el carácter de Presidente;
 
 b) Un Representante de la Secretaría de Finanzas del Gobierno del Estado;
 
@@ -993,9 +993,11 @@ Todo acto, contrato o documento que indique obligación o derecho inmediato o ev
 
 Los ingresos por cuotas y los egresos por prestaciones y gastos de administración, deberán contabilizarse en forma separada por cada concepto.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 122.
 
-Las cuentas del Instituto quedarán sujetas a la revisión de la Secretaría de Finanzas, quien le practicará auditoría anual, así como al control, evaluación, auditoría y fiscalización de la Secretaría de Contraloría General del Estado.
+Las cuentas del Instituto quedarán sujetas a la revisión de la Secretaría de Finanzas, quien le practicará auditoría anual, así como al control, evaluación, auditoría y fiscalización de la Contraloría Interna del Estado.
 
 ### CAPITULO III. DE LA PRESCRIPCION
 
@@ -1112,3 +1114,13 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 25 DE OCTUBRE DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos laborales burocráticos que iniciaron bajo la vigencia de la Ley, previas las reformas y adiciones y que continúen en trámite, serán regulados por las disposiciones que regían hasta antes de la entrada en vigor del presente Decreto.
