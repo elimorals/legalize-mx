@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-coordinacion-fiscal-y-de-gasto-publico-del-estado-de-142
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-16"
-last_updated: "1998-12-16"
+last_updated: "2009-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE COORDINACION FISCAL Y DE GASTO PUBLICO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 16 de diciembre de 1998.
 
@@ -71,7 +71,7 @@ II.- "Estado", el Estado de Nayarit.
 
 III.- "Municipio o Municipios", el o los Municipios que conforman el territorio del Estado de Nayarit.
 
-IV.- "Secretaría", la Secretaría de Finanzas de Gobierno del Estado dé Nayarit.
+IV.- "Secretaría", la Secretaría de Finanzas de Gobierno del Estado de Nayarit.
 
 V.- "Sistema", el Sistema de Coordinación Fiscal y de Gasto Público del Estado de Nayarit.
 
@@ -79,7 +79,7 @@ VI.- "Asamblea", la Asamblea Estatal de Coordinación Fiscal y de Gasto Público
 
 VII.- "Instituto", el Instituto Coordinador de Capacitación Fiscal y de Gasto Público del Estado de Nayarit.
 
-VllI.- "H. Legislatura", la H. Legislatura del Estado de Nayarit.
+VIII.- "H. Legislatura", la H. Legislatura del Estado de Nayarit.
 
 IX.- "Coordinación de Fortalecimiento", la Coordinación General de Fortalecimiento Municipal
 
@@ -89,23 +89,49 @@ IX.- "Coordinación de Fortalecimiento", la Coordinación General de Fortalecimi
 
 Para efectos de esta Ley, son participaciones federales las asignaciones que correspondan a los Municipios en los ingresos federales, de conformidad con la Ley de Coordinación Fiscal Federal.
 
-Los Municipios independientemente de las participaciones establecidas en la presente Ley, recibirán de la Federación por conducto del Estado, los Fondos de Aportaciones a que se refiere el Capitulo Quinto de la Ley de Coordinación Fiscal Federal.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Los Municipios independientemente de las participaciones establecidas en la presente Ley, recibirán de la Federación por conducto del Estado, los Fondos de Aportaciones a que se refiere el Capitulo Quinto de la Ley de Coordinación Fiscal Federal, los cuales únicamente podrán destinarse a los fines que se señalan en la misma.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 5o.
 
-La Secretaría realizará los cálculos de participaciones que correspondan a los Municipios por concepto de participaciones en ingresos federales, que al efecto establezca la Legislatura del Estado.
+El Estado percibirá las participaciones correspondientes a los ingresos en base a lo dispuesto en la Ley de Coordinación Fiscal Federal, mientras que los Municipios percibirán sus participaciones conforme a lo establecido en el inciso b) de la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y en el inciso b) artículo 115 de la Constitución Política del Estado Libre y Soberano de Nayarit.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 6o.
 
-La Contaduría Mayor de Hacienda de la Legislatura Estatal, revisará y dictaminará los cálculos de participaciones, vigilando el estricto cumplimiento de lo dispuesto en la Ley de Coordinación Fiscal Federal, así como en la presente.
+El Órgano de Fiscalización Superior, revisará y dictaminará los cálculos de participaciones, vigilando el estricto cumplimiento de lo dispuesto en la Ley de Coordinación Fiscal Federal, así como en la presente.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 7o.
 
-El Ejecutivo del Estado, durante el primer período de sesiones de la Legislatura Estatal, presentará la Iniciativa de Decreto que contenga las bases para la distribución de las participaciones que en ingresos federales correspondan a los Municipios.
+Las bases para la distribución de participaciones federales que en ingresos federales corresponden a los municipios, son las siguientes:
+
+I.- 22.5% de la recaudación que corresponda al Estado provenientes del Fondo General de Participaciones.
+
+II.- 100% de la recaudación que corresponda al Estado proveniente del Fondo de Fomento Municipal.
+
+III.- 22.5% de la recaudación que corresponda al Estado proveniente del Fondo de Fiscalización.
+
+IV.- 22.5% de la recaudación que corresponda al Estado proveniente del Fondo de Compensación, en tanto el Estado sea beneficiario de este Fondo.
+
+V.- 22.5% de la recaudación que corresponda al Estado por concepto de participación de la recaudación del Impuesto Especial Sobre Producción y Servicios, incluyendo, en su caso, lo recaudado por aumento a las cuotas por Venta de Gasolina y Diesel.
+
+VI.- 22.5% de la recaudación que corresponda al Estado derivado de participaciones en el Impuesto Federal Sobre Automóviles Nuevos.
+
+VII.- 22.5% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos.
+
+La Legislatura Estatal establecerá su distribución entre los Municipios mediante disposiciones de carácter general.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 8o.
 
-Los porcentajes de participaciones a que se refiere el artículo anterior, deberán ser publicados anualmente en el Periódico Oficial Organo del Gobierno del Estado.
+Los porcentajes de participaciones a los municipios y entre los municipios a que se refiere el artículo anterior, deberán ser publicados anualmente en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ###### ARTICULO 9o.
 
@@ -171,9 +197,11 @@ Los convenios referidos en el artículo anterior, establecerán los montos y las
 
 ### CAPITULO QUINTO. DE LOS ORGANISMOS EN MATERIA DE COORDINACION FISCAL Y DE GASTO PUBLICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 22.
 
-El Gobierno del Estado por conducto de la Secretaría de Finanzas, de la Secretaría de la Contraloría General y la Coordinación General de Fortalecimiento Municipal; los Ayuntamientos a través de sus tesorerías municipales; y el Poder Legislativo por medio de su Contaduría Mayor de Hacienda, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal y de Gasto Público del Estado y en forma conjunta integrarán:
+El Gobierno del Estado por conducto de la Secretaría de Finanzas o su equivalente en el Estado, de la Secretaría de la Contraloría General y la Coordinación General de Fortalecimiento Municipal; los Ayuntamientos a través de sus tesorerías municipales; y el Poder Legislativo por medio del Órgano de Fiscalización Superior, participaran en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal y de Gasto Público del Estado y en forma conjunta integrarán:
 
 I.- La Asamblea Estatal de Coordinación Fiscal y de Gasto Público.
 
@@ -183,9 +211,11 @@ II.- El Instituto Coordinador de Capacitación Fiscal y de Gasto Publico.
 
 La Asamblea Estatal de Coordinación Fiscal y de Gasto Público se establece como instancia de coordinación entre el Gobierno del Estado y sus Municipios, para la definición de la política tributaria y de gasto, de jurisdicción municipal, así como para la implementación de los sistemas de su administración y mecanismos de retroalimentación.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 24.
 
-La Asamblea se formará con el Secretaría (sic) de Finanzas del Estado, el Secretario de la Contraloría General del Estado, el Coordinador General de Fortalecimiento Municipal, el Contador Mayor de Hacienda, y los tesoreros municipales de los 20 Ayuntamientos del Estado.
+La Asamblea se formará con el Secretario de Finanzas o su equivalente en el Estado, el Secretario de la Contraloría General del Estado, el Coordinador General de Fortalecimiento Municipal, el Órgano de Fiscalización Superior, y los tesoreros municipales de los 20 Ayuntamientos del Estado.
 
 ###### ARTICULO 25.
 
@@ -227,9 +257,11 @@ VII.- Formular los proyectos de distribución de las aportaciones ordinarias y e
 
 VIII.- Las demás que determine la propia Asamblea Estatal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 31.
 
-La Dirección General del Instituto, estará a cargo del Contador Mayor de Hacienda y tendrá las siguientes funciones y actividades:
+La Dirección General del Instituto Coordinador de Capacitación Fiscal y de Gasto Público, estará a cargo del Órgano de Fiscalización Superior y tendrá las siguientes funciones y actividades:
 
 I.- Llevar a cabo investigaciones o estudios relativos al Sistema de Coordinación.
 
@@ -243,7 +275,7 @@ V.- Participar como consultor técnico de las haciendas públicas municipales.
 
 VI.- Capacitar al personal técnico y funcionarios fiscales, del Estado y Municipios.
 
-VIl.- Desarrollar programas inherentes a su función que apruebe la Asamblea.
+VII.- Desarrollar programas inherentes a su función que apruebe la Asamblea.
 
 VIII.- Participar y promover programas y actividades de capacitación con otras instituciones u organismos similares.
 
@@ -265,11 +297,13 @@ El Instituto desarrollará el programa que anualmente apruebe la Asamblea Estata
 
 ### CAPITULO SEXTO
 
-DE LA VlGlLANClA DEL SISTEMA DE COORDINACION FISCAL DEL ESTADO DE NAYARIT.
+DE LA VIGILANCIA DEL SISTEMA DE COORDINACION FISCAL DEL ESTADO DE NAYARIT.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 35.
 
-El Congreso del Estado a través de la Contaduría Mayor de Hacienda vigilará el estricto cumplimiento de las disposiciones contenidas en esta Ley.
+El Congreso del Estado a través del Órgano de Fiscalización Superior, vigilará el estricto cumplimiento de las disposiciones contenidas en esta Ley.
 
 ###### ARTICULO 36.
 
@@ -287,13 +321,17 @@ SEGUNDO.- La Asamblea Estatal deberá instalarse dentro de los 30 días siguient
 
 D A D O en la Sala de Sesiones "Lic. Benito Juárez" de este Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los once días del mes de diciembre de mil novecientos noventa y ocho.
 
-Dip. Presidente,
+Dip. Presidente
 
 BENJAMÍN PADILLA VALERA
 
-Dip. Secretario Dip. Secretario
+Dip. Secretario
 
-IGNACIA ARAMBULA NUÑO RITA MARIA ESQUIVEL REYES
+IGNACIA ARAMBULA NUÑO
+
+Dip. Secretario
+
+RITA MARIA ESQUIVEL REYES
 
 Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo le Nayarit, en Tepic, su Capital, a los once días del mes de diciembre de mil novecientos noventa y ocho.
 
@@ -303,4 +341,12 @@ Rigoberto Ochoa Zaragoza.
 
 El Secretario General de Gobierno.
 
-Lic. Sigfrido de la Torre Miramontes
+Lic. Sigfrido de la Torre Miramontes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
