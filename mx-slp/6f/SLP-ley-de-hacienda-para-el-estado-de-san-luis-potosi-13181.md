@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2008-11-20"
+last_updated: "2009-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
-LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
+LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -205,11 +205,11 @@ Cuando en un instrumento jurídico se consignen dos o más negocios de los previ
 
 Los fedatarios deberán cumplir con lo que establece el Código Fiscal del Estado respecto de los actos y contratos que originan este impuesto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO III. IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS, CONCURSOS, APUESTAS Y JUEGOS PERMITIDOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 15.
 
@@ -273,7 +273,7 @@ II. EN CUANTO A LOS CONCURSOS, EL IMPUESTO SE DETERMINARÁ APLICANDO LA TASA DEL
 
 Las personas que realicen o exploten de manera habitual las actividades gravadas por este impuesto, deberán presentar su declaración y enterar el pago mensualmente dentro de los quince días del mes inmediato posterior, siguientes al de su causación.
 
-Las personas que realicen o exploten actividades eventuales gravadas en este Capítulo, deberán presentar la declaración y enterar el pago dentro de los cinco días hábiles siguientes a la fecha en se que generó el acto, se realicen o celebren las actividades gravadas.
+Las personas que realicen o exploten actividades eventuales gravadas en este Capítulo, deberán presentar la declaración y enterar el pago dentro de los cinco días hábiles siguientes a la fecha en se que (sic) generó el acto, se realicen o celebren las actividades gravadas.
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 20/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -411,7 +411,111 @@ Para el fomento de la inversión productiva y la generación de empleos, las emp
 
 Este beneficio no libera a los contribuyentes de cumplir con las obligaciones fiscales previstas en el artículo 25 de esta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO IV BIS. DEL IMPUESTO A LA ADQUISICION DE BIENES INMUEBLES DESINCORPORADOS DEL REGIMEN EJIDAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 28 BIS. Son sujetos del impuesto que establece el presente capítulo, las personas físicas y morales o unidades económicas que adquieran, en su primera enajenación, mediante cualquier forma de transmisión legal de la propiedad, bienes inmuebles desincorporados del régimen ejidal.
+
+Cuando los adquirentes o beneficiarios sean la Federación, Estados o municipios, así como los organismos públicos descentralizados de cualquiera de los tres órdenes de gobierno, los mismos estarán exentos del pago del impuesto a que refiere este capítulo. Asimismo, estarán exentos los ejidatarios cuando transmitan por cualquier figura legal de uno a otro, bienes desincorporados del régimen ejidal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 28 TER. Es objeto de este impuesto la primera enajenación de bienes inmuebles desincorporados del régimen ejidal, que se ubiquen dentro del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 28 QUATER. La base para el cálculo y determinación del impuesto será la que resulte mayor entre el precio pactado o valor declarado y el valor catastral del inmueble. Para efecto de determinar la base del impuesto deberá atenderse al valor que arroje el avalúo catastral con una antigüedad no mayor de seis meses a partir de la fecha en que se formalice la operación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 28 QUINQUE. El impuesto se calculará y determinará aplicando a la base que señala el artículo anterior, la tasa del diez por ciento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 28 SEXTIES. Este impuesto se causará en el momento de la protocolización del acto jurídico por el que se transmita la propiedad del bien inmueble de que se trate, mediante la escritura pública correspondiente, y deberá ser calculado, retenido y enterado a la Secretaría de Finanzas por los fedatarios públicos que expidan la misma, dentro de los quince días siguientes al que celebren la operación respectiva.
+
+Las autoridades fiscales podrán determinar la cantidad del impuesto que deben pagar los contribuyentes, mediante el ejercicio de sus facultades de comprobación; incluso, en forma presuntiva, en términos del Código Fiscal del Estado.
+
+En su caso, el impuesto podrá ser pagado en especie, con la transmisión legal a la autoridad fiscal de la parte proporcional del bien inmueble motivo de la enajenación, que corresponda al diez por ciento de su valor, determinado en términos de lo dispuesto en el artículo 28 QUATER de esta Ley.
+
+La transmisión de la propiedad que corresponda al pago en especie al fisco, deberá realizarse ante el propio fedatario público que celebre el acto jurídico originario, debiendo constar la aceptación autorizada en forma expresa por el funcionario competente de la Secretaría de Finanzas. Los gastos de escrituración que en su caso se generen correrán a cargo del contribuyente.
+
 ### CAPITULO V. IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE
+
+###### ARTICULO 29.
+
+Es objeto de este impuesto el pago por el servicio de hospedaje que se reciba en hoteles, moteles, suites posadas, campamentos, paraderos de casas rodantes y de tiempo compartido, así como en toda clase de establecimientos que presten servicios de esta naturaleza.
+
+No se consideran servicios de hospedaje, el albergue o alojamientos prestados por hospitales, clínicas, asilos, conventos, seminarios, internados y aquellos prestados por establecimientos con fines no lucrativos.
+
+###### ARTICULO 30.
+
+Son sujetos al pago del impuesto que establece este capítulo todas las personas físicas o morales que dentro del Estado de San Luis Potosí reciban los servicios mencionados en el artículo anterior.
+
+###### ARTICULO 31.
+
+La base para el cálculo y determinación del impuesto será el importe pagado en efectivo, bienes o servicios, considerando solo el albergue sin incluir alimentos, demás servicios relacionados y el impuesto al valor agregado.
+
+Para estos efectos, el prestador del servicio de hospedaje, deberá realizar el desglose correspondiente en el comprobante fiscal que expida.
+
+Tratándose de servicios de hospedaje bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto el monto de los pagos que se reciban por cuotas considerando únicamente el importe desglosado del servicio de hospedaje.
+
+###### ARTICULO 32.
+
+El impuesto se calculará y determinará aplicando a la base que señala el artículo anterior, una tasa del 2%.
+
+###### ARTICULO 33.
+
+Este impuesto se causará en el momento de pago por la prestación del servicio de hospedaje recibido.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 34.
+
+Los prestadores de servicios de hospedaje, deberán calcular el impuesto y trasladarlo al momento del cobro; mensualmente enterarán el monto recaudado mediante declaración provisional, a cuenta del impuesto anual, utilizando los formatos aprobados por la Secretaría de Finanzas. Las declaraciones se presentarán en las oficinas recaudadoras o establecimientos autorizados, correspondientes al domicilio del prestador de los servicios de hospedaje en los plazos siguientes:
+
+I. Tratándose de personas físicas, a más tardar el día 19 siguiente al mes en que se retuvo el impuesto; y
+
+II. Tratándose de personas morales a más tardar el día 17 siguiente al mes en que se retuvo el impuesto.
+
+El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración ante la Oficina Recaudadora correspondiente al domicilio fiscal del contribuyente dentro de los tres meses siguientes al cierre del ejercicio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+###### ARTICULO 35.
+
+Para el cumplimiento oportuno de las obligaciones establecidas en el artículo anterior, las personas físicas o morales prestadoras de los servicios por los que se deba pagar este impuesto, deberán:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
+I. Presentar ante la Secretaría de Finanzas del Estado o ante la oficina recaudadora correspondiente a su domicilio, el aviso de inscripción dentro de los quince días hábiles siguientes a la fecha de inicio de sus operaciones, mediante los formatos que para el efecto apruebe la Secretaría de Finanzas;
+
+II. Presentar aviso ante las mismas autoridades, dentro de los 15 días hábiles siguientes de ocurrido uno o varios de los eventos como cambio de nombre, denominación o razón social, cambio de domicilio, sustitución patronal, suspensión de actividades o cualquier otra modificación a los datos aportados en el documento de empadronamiento;
+
+III. Llevar la contabilidad de sus operaciones en los registros correspondientes, en los términos y características fijadas por la legislación federal aplicable aún cuando conforme a estas no se tenga obligación de llevarla; y
+
+IV. El padrón de contribuyentes estará a cargo de la Secretaría de Finanzas del Estado de San Luis Potosí, el cual se conformará con la clave del registro federal de contribuyentes.
+
+###### ARTICULO 36.
+
+Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben pagar los contribuyentes, mediante el ejercicio de sus facultades de comprobación; incluso, en forma presuntiva, en términos del Código Fiscal del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO VI. IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHICULOS
 
@@ -451,79 +555,15 @@ I. Vehículos automotores de más de diez años y hasta veinte, pagarán 3, y
 
 II. Motocicletas y motonetas, pagarán 1.5.
 
-###### ARTICULO 29.
-
-Es objeto de este impuesto el pago por el servicio de hospedaje que se reciba en hoteles, moteles, suites posadas, campamentos, paraderos de casas rodantes y de tiempo compartido, así como en toda clase de establecimientos que presten servicios de esta naturaleza.
-
-No se consideran servicios de hospedaje, el albergue o alojamientos prestados por hospitales, clínicas, asilos, conventos, seminarios, internados y aquellos prestados por establecimientos con fines no lucrativos.
-
-###### ARTICULO 30.
-
-Son sujetos al pago del impuesto que establece este capítulo todas las personas físicas o morales que dentro del Estado de San Luis Potosí reciban los servicios mencionados en el artículo anterior.
-
-###### ARTICULO 31.
-
-La base para el cálculo y determinación del impuesto será el importe pagado en efectivo, bienes o servicios, considerando solo el albergue sin incluir alimentos, demás servicios relacionados y el impuesto al valor agregado.
-
-Para estos efectos, el prestador del servicio de hospedaje, deberá realizar el desglose correspondiente en el comprobante fiscal que expida.
-
-Tratándose de servicios de hospedaje bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto el monto de los pagos que se reciban por cuotas considerando únicamente el importe desglosado del servicio de hospedaje.
-
-###### ARTICULO 32.
-
-El impuesto se calculará y determinará aplicando a la base que señala el artículo anterior, una tasa del 2%.
-
-###### ARTICULO 33.
-
-Este impuesto se causará en el momento de pago por la prestación del servicio de hospedaje recibido.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
-
-###### ARTICULO 34.
-
-Los prestadores de servicios de hospedaje, deberán calcular el impuesto y trasladarlo al momento del cobro; mensualmente enterarán el monto recaudado mediante declaración provisional, a cuenta del impuesto anual, utilizando los formatos aprobados por la Secretaría de Finanzas. Las declaraciones se presentarán en las oficinas recaudadoras o establecimientos autorizados, correspondientes al domicilio del prestador de los servicios de hospedaje en los plazos siguientes:
-
-I. Tratándose de personas físicas, a más tardar el día 19 siguiente al mes en que se retuvo el impuesto; y
-
-II. Tratándose de personas morales a más tardar el día 17 siguiente al mes en que se retuvo el impuesto.
-
-El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración ante la Oficina Recaudadora correspondiente al domicilio fiscal del contribuyente dentro de los tres meses siguientes al cierre del ejercicio.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
-
-###### ARTICULO 35.
-
-Para el cumplimiento oportuno de las obligaciones establecidas en el artículo anterior, las personas físicas o morales prestadoras de los servicios por los que se deba pagar este impuesto, deberán:
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
-
-I. Presentar ante la Secretaría de Finanzas del Estado o ante la oficina recaudadora correspondiente a su domicilio, el aviso de inscripción dentro de los quince días hábiles siguientes a la fecha de inicio de sus operaciones, mediante los formatos que para el efecto apruebe la Secretaría de Finanzas;
-
-II. Presentar aviso ante las mismas autoridades, dentro de los 15 días hábiles siguientes de ocurrido uno o varios de los eventos como cambio de nombre, denominación o razón social, cambio de domicilio, sustitución patronal, suspensión de actividades o cualquier otra modificación a los datos aportados en el documento de empadronamiento;
-
-III. Llevar la contabilidad de sus operaciones en los registros correspondientes, en los términos y características fijadas por la legislación federal aplicable aún cuando conforme a estas no se tenga obligación de llevarla; y
-
-IV. El padrón de contribuyentes estará a cargo de la Secretaría de Finanzas del Estado de San Luis Potosí, el cual se conformará con la clave del registro federal de contribuyentes.
-
-###### ARTICULO 36.
-
-Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben pagar los contribuyentes, mediante el ejercicio de sus facultades de comprobación; incluso, en forma presuntiva, en términos del Código Fiscal del Estado.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
 ### CAPITULO I. SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
 
 ### CAPITULO II. SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
 
-### CAPITULO III. SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO, VIVIENDA Y OBRAS PUBLICAS
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
-
 ## TITULO TERCERO. DERECHOS
 
-### CAPITULO IV. SERVICIOS DE SALUD PUBLICA
+### CAPITULO III. SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO, VIVIENDA Y OBRAS PUBLICAS
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 37.
 
@@ -621,7 +661,7 @@ La inscripción de instrumentos jurídicos en el Registro Público de la Propied
 
 I. Títulos de propiedad:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 a) De bienes inmuebles, cuya base será el avalúo o reavalúo con una antigüedad o vigencia no mayor a seis meses, contados a partir en que se efectúen, emitido por la Dirección de Catastro municipal del ayuntamiento correspondiente; o bien el precio de la operación, si éste es mayor que el del avalúo o reavalúo catastral, y se aplicará la tarifa correspondiente.
 
@@ -845,9 +885,9 @@ Por la autorización que otorgue la Dirección General de Protección Social y V
 
 Para los efectos de la obligación que la Ley de Peritos del Estado de San Luis Potosí, impone a peritos dictaminadores y valuadores, de registrarse en la Secretaría General de Gobierno, se establece como tarifa por derechos de expedición de la credencial de identificación de perito, el importe de diez días de salario mínimo general de la zona y, por revalidación y/o refrendo anual de la misma, el importe de cinco días de salario mínimo general de la zona.
 
-### CAPITULO V. SERVICIOS PRESTADOS POR LA SECRETARIA DE ECOLOGIA Y GESTION AMBIENTAL
+### CAPITULO IV. SERVICIOS DE SALUD PUBLICA
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 64.
 
@@ -1059,7 +1099,7 @@ IV. Cuando se trate de reposición de licencias o permisos a que se refiere este
 
 El otorgamiento del permiso para la venta de bebidas con contenido alcohólico y su refrendo anual, que deberá solicitarse en el mes de enero de cada año, causarán los siguientes derechos que se expresan en salarios mínimos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 I. Tratándose de bebidas con contenido alcohólico no mayor de 6% de alcohol volumen, para los establecimientos que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará como sigue:
 
@@ -1143,7 +1183,7 @@ caballos, palenques, etcétera) 110.00 27.50
 
 Para los demás municipios se cubrirá el 75% de las tarifas señaladas en la fracción I.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 II. Tratándose de bebidas con contenido mayor de 6% de alcohol volumen, se cobrará, para los que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale:
 
@@ -1205,7 +1245,7 @@ clasificaciones 356.40 36.30
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
-I) Otos (salones de fiesta, cetros (sic)
+I) Otros (salones de fiesta, cetros (sic)
 
 sociales o de convenciones que se
 
@@ -1271,9 +1311,11 @@ La tarifa mínima por avalúo será el equivalente a 4.23 salarios mínimos, exc
 
 Tratándose de avalúos para adquisición de viviendas de interés social o popular, o de cualquier otra constancia catastral para el mismo fin, los derechos ascenderán a un máximo de un día de salario mínimo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
-### CAPITULO VI. OTROS SERVICIOS
+### CAPITULO V. SERVICIOS PRESTADOS POR LA SECRETARIA DE ECOLOGIA Y GESTION AMBIENTAL
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 70.
 
@@ -1370,6 +1412,26 @@ Los cursos de capacitación para conductor del servicio de transporte público, 
 ###### ARTICULO 80.
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1999)
+
+### CAPITULO VI. OTROS SERVICIOS
+
+###### ARTICULO 81.
+
+La expedición de permisos para establecimientos dedicados a la elaboración, venta, distribución, consumo, almacenamiento, transporte y expendio de alcoholes y bebidas de contenido alcohólico y otras actividades análogas, deberá sujetarse a las disposiciones de la Ley Estatal de Salud y de la Ley de Bebidas Alcohólicas del Estado de San Luis Potosí.
+
+###### ARTICULO 82.
+
+La expedición de licencias sanitarias anuales de funcionamiento a establecimientos, puestos o locales en donde se atienda al público, por razón de un comercio, industria o servicio general y su refrendo dentro de los treinta días anteriores a su vencimiento, serán de carácter gratuito.
+
+El mismo carácter tendrán las inspecciones sanitarias a las propiedades urbanas o rústicas para la comprobación de que reúnen los requisitos señalados por la Ley Estatal de Salud, la aprobación de planos y supervisión de las obras de fraccionamiento y la aprobación de planos a panteones particulares.
+
+###### ARTICULO 83.
+
+Por los servicios que preste el Estado a través de la Secretaría de Salud, por los análisis microbiológicos y físico-químicos de algunos alimentos, se aplicarán las siguientes tarifas:
+
+Tratándose de análisis microbiológicos de agua potable, refrescos, leche y sus derivados, carne y productos cárnicos se cobrará una tarifa de $150.00 por cada análisis.
+
+En el caso de análisis físico-químico de los productos citados en el párrafo inmediato anterior, se cobrará una tarifa de $300.00 por cada análisis.
 
 ### CAPITULO VII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PUBLICO ESTATAL
 
@@ -1719,26 +1781,6 @@ Exclusivo mensual 24 horas los niveles 7 y 8 la tarifa es de $250.00.
 
 Los derechos anteriores no estarán sujetos a lo dispuesto por el artículo 93 de esta Ley.
 
-###### ARTICULO 81.
-
-La expedición de permisos para establecimientos dedicados a la elaboración, venta, distribución, consumo, almacenamiento, transporte y expendio de alcoholes y bebidas de contenido alcohólico y otras actividades análogas, deberá sujetarse a las disposiciones de la Ley Estatal de Salud y de la Ley de Bebidas Alcohólicas del Estado de San Luis Potosí.
-
-###### ARTICULO 82.
-
-La expedición de licencias sanitarias anuales de funcionamiento a establecimientos, puestos o locales en donde se atienda al público, por razón de un comercio, industria o servicio general y su refrendo dentro de los treinta días anteriores a su vencimiento, serán de carácter gratuito.
-
-El mismo carácter tendrán las inspecciones sanitarias a las propiedades urbanas o rústicas para la comprobación de que reúnen los requisitos señalados por la Ley Estatal de Salud, la aprobación de planos y supervisión de las obras de fraccionamiento y la aprobación de planos a panteones particulares.
-
-###### ARTICULO 83.
-
-Por los servicios que preste el Estado a través de la Secretaría de Salud, por los análisis microbiológicos y físico-químicos de algunos alimentos, se aplicarán las siguientes tarifas:
-
-Tratándose de análisis microbiológicos de agua potable, refrescos, leche y sus derivados, carne y productos cárnicos se cobrará una tarifa de $150.00 por cada análisis.
-
-En el caso de análisis físico-químico de los productos citados en el párrafo inmediato anterior, se cobrará una tarifa de $300.00 por cada análisis.
-
-### CAPITULO UNICO
-
 ###### ARTICULO 84.
 
 Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental de obras o actividades cuya evaluación corresponda al Gobierno del Estado, conforme a las siguientes tarifas expresadas en salarios mínimos:
@@ -1765,7 +1807,7 @@ VII. Por la evaluación de la solicitud de exención de presentación de la mani
 
 ###### ARTICULO 85.
 
-Por el otorgamiento del permiso de operación para la prevención y control de la contaminación de la atmósfera, a las fuentes fijas de jurisdicción estatal que emitan olores, gases o partículas sólidas o Iíquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes tarifas expresadas en salarios mínimos:
+Por el otorgamiento del permiso de operación para la prevención y control de la contaminación de la atmósfera, a las fuentes fijas de jurisdicción estatal que emitan olores, gases o partículas sólidas o líquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes tarifas expresadas en salarios mínimos:
 
 I. Por la recepción y evaluación de solicitud de permiso, 32, y
 
@@ -1846,6 +1888,8 @@ IV. Copias fotostáticas simples de, códigos, decretos, leyes y demás document
 Todos los derechos previstos en esta Ley se incrementarán en un 10% adicional, cuyo importe se destinará íntegramente al apoyo de instituciones de asistencia social a la población. Dicho gravamen no estará sujeto a disminución o condonación, aunque lo fueren los principales sobre los que se aplica. El Ejecutivo informará trimestralmente al Congreso del Estado sobre las sumas recaudadas y su aplicación, independientemente de que lo haga en las cuentas públicas correspondientes.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE ABRIL DE 2003)</small>
+
+### CAPITULO UNICO
 
 ### CAPITULO UNICO
 
@@ -2205,7 +2249,7 @@ XIV. Por copia de contacto en papel fotográfico blanco y negro en formato de 23
 
 XV. Por cada diapositiva blanco y negro en formato 23x23 cm. Escala 1:20,000 y 1:35,000. 6.80
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 XVI. Por vértices de apoyo directo:
 
@@ -2295,7 +2339,7 @@ LIC. JUAN CARLOS BARRON CERDA.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE DICIEMBRE DE 1999.
 
@@ -2372,3 +2416,9 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE NOVIEMBRE DE 2008.
 
 UNICO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero de dos mil diez, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
