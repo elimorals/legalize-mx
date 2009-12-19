@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-deuda-publica-del-estado-de-nayarit-11000"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-20"
-last_updated: "2007-12-15"
+last_updated: "2009-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,47 @@ state: "NAY"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE NAYARIT
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE NAYARIT
+REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
+TEXTO ORIGINAL.
 
-Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 20 de diciembre de 1995.
+Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 26 de febrero de 1999.
 
-Al margen un Sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Nayarit
+Al margen izquierdo un Escudo del Estado de Morelos que dice.- La Tierra Volverá a Quienes la Trabajan con sus Manos.- Poder Ejecutivo del Estado de Morelos.
 
-C. RIGOBERTO OCHOA ZARAGOZA, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
+JORGE MORALES BARUD, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 70 FRACCIÓN XVII DE LA CONSTITUCIÓN POLÍTICA ESTATAL, Y
 
-Que el H. Congreso Local, se ha servido dirigirme para su promulgación, el siguiente:
+CONSIDERANDO:...
 
-DECRETO NUMERO 7906
+Por todo lo antes expuesto y fundado, he tenido a bien expedir el siguiente:
 
-El H. Congreso del Estado Libre y Soberano de Nayarit, representado por su XXIV Legislatura
+REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-D E C R E T A:
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE NAYARIT.
+###### Artículo 1.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+El presente Reglamento tiene por objeto regular la organización, el funcionamiento, la supervisión y el control del notariado; los requisitos para ingresar a la función notarial; el arancel al que se sujetará el cobro de honorarios por servicios notariales y las funciones del Colegio de Notarios.
+
+###### Artículo 2.
+
+En el Estado de Morelos, la función notarial estará a cargo de profesionales del derecho, a quienes el Ejecutivo del Estado haya expedido el nombramiento respectivo, en términos de la Ley del Notariado.
+
+###### Artículo 3.
+
+Para los efectos de este Reglamento, se entiende por:
+
+I.- Ley: Ley del Notariado del Estado de Morelos;
+
+II.- Reglamento: El presente ordenamiento;
+
+III.- Secretaría: La Secretaría General de Gobierno;
+
+IV.- Aspirante: Persona que haya obtenido el Registro de Aspirante a Notario;
+
+V.- Notario: Persona a quien el Ejecutivo del Estado haya otorgado la Patente para ejercer las funciones propias del notariado, y
+
+VI.- Colegio: Colegio de Notarios del Estado de Morelos, A.C.
 
 ###### ARTICULO 1o.
 
@@ -137,433 +157,481 @@ Las obligaciones de pasivo directas y contingentes derivadas del financiamiento 
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-Los recursos derivados de obligaciones de deuda pública se destinarán invariablemente a inversiones públicas productivas, entendiéndose por éstas aquellas obras, acciones o erogaciones que de forma directa, indirecta o mediata incrementen el bienestar social, incluyendo sin limitar todas aquellas erogaciones que tengan como finalidad promover el bienestar social de la población a través de la adquisición de bienes muebles e inmuebles, equipamiento institucional, realización de proyectos ejecutivos, estudios técnicos previos para obra y edificaciones públicas, obras públicas y de infraestructura, así como aquellas destinadas para la ampliación o mejoramiento de los servicios públicos con alta rentabilidad social y/o produzcan de manera indirecta o directa un incremento de los ingresos o en su caso, una disminución en los gastos de operación. El refinanciamiento, los gastos y comisiones inherentes a la contratación de los financiamientos o emisiones de deuda, la novación, modificación o reestructuración de la deuda pública vigente a cargo de las entidades y los financiamientos que tengan por objeto cubrir la aportación estatal al fondo de desastres naturales, tendrán también el carácter de inversión pública productiva.
+La convocatoria a exámenes para obtener el Registro de Aspirante a Notario, la expedirá la Secretaría y se publicará en el Periódico Oficial ''Tierra y Libertad'', por una sola vez y por tres veces consecutivas con intervalos de cinco días naturales, en uno de los diarios de mayor circulación en el Estado. En la convocatoria se determinarán las bases, el lugar, la fecha y la hora en la que se realizarán los exámenes.
 
-### CAPITULO SEGUNDO. DE LAS FACULTADES Y OBLIGACIONES DE LOS ORGANOS EN MATERIA DE DEUDA PUBLICA
+### CAPÍTULO II. DE LA UBICACIÓN E IDENTIFICACIÓN DE LAS NOTARÍAS
 
-###### ARTICULO 11.
+###### Artículo 4.
 
-Son organismos en materia de Deuda Pública, dentro de sus respectivas competencias:
+Las Notarías se ubicarán, preferentemente, en la sede de la correspondiente Demarcación Notarial; excepcionalmente podrán establecerse en alguna de las diversas poblaciones de la Demarcación respectiva, previo aviso por escrito que el Titular de la Notaría dé a la Secretaría, al Registro Público de la Propiedad, al Archivo General de Notarías y al Colegio.
 
-I. El Congreso del Estado.
+###### Artículo 5.
 
-II. El Ejecutivo del Estado.
+Para efectos de lo dispuesto por el artículo 8 de la Ley, en el Estado de Morelos se establecen las siguientes Demarcaciones Notariales:
 
-III. Los Ayuntamientos Municipales.
+I.- Primera Demarcación Notarial.- Comprende los Municipios de Cuernavaca, Tepoztlán, Huitzilac y Jiutepec, con sede en Cuernavaca;
 
-IV. La Comisión Intersecretarial de Gasto y Financiamiento.
+II.- Segunda Demarcación Notarial.- Comprende los Municipios de Tetecala, Coatlán del Río, Mazatepec y Miacatlán, con sede en Tetecala;
 
-###### ARTICULO 12.
+III.- Tercera Demarcación Notarial.- Comprende los Municipios de Puente de Ixtla y Amacuzac, con sede en Puente de Ixtla;
 
-Corresponde al Congreso del Estado:
+IV.- Cuarta Demarcación Notarial.- Comprende los Municipios de Jojutla, Zacatepec, Tlaquiltenango y Tlaltizapán, con sede en Jojutla;
 
-I. Autorizar los montos de endeudamiento neto para el financiamiento del Estado, de los Municipios y de las entidades Paraestatales y Paramunicipales, de conformidad con lo dispuesto por esta ley.
+V.- Quinta Demarcación Notarial.- Comprende los Municipios de Yautepec, Tlayacapan, Tlalnepantla, Totolapan y Atlatlahucan, con sede en Yautepec;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+VI.- Sexta Demarcación Notarial.- Comprende los Municipios de Cuautla, Ayala, Yecapixtla, Tetela del Volcán y Ocuituco, con sede en Cuautla;
 
-II. Autorizar al Ejecutivo Estatal para intervenir por conducto de la Secretaría de Finanzas, como aval, garante o deudor solidario de los empréstitos o créditos que contraten los municipios o las entidades paraestatales o paramunicipales cuando así lo soliciten.
+VII.- Séptima Demarcación Notarial.- Comprende los Municipios de Jonacatepec, Axochiapan, Tepalcingo, Zacualpan, Jantetelco y Temoac, con sede en Jonacatepec, y
 
-III. Autorizar, de manera expresa la contratación de endeudamiento por el Ejecutivo del Estado o Gobiernos Municipales en su caso, cuando los plazos de amortización de los créditos rebasen el término de la gestión para la cual fueron electos.
+VIII.- Octava Demarcación Notarial.- Comprende los Municipios de Temixco, Xochitepec y Emiliano Zapata, con sede en Temixco.
 
-IV. Verificar que las operaciones de Deuda del Estado y de los Municipios, de sus organismos, empresas y sus fideicomisos se lleven a cabo conforme a las disposiciones legales aplicables.
+###### Artículo 6.
 
-V. Hacer del conocimiento al Ejecutivo del Estado y al Ayuntamiento correspondiente de cualquier observación que surja de la verificación a que se refiere la fracción anterior, sin perjuicio de las responsabilidades que originen.
+Además de lo señalado en el artículo 4 del presente Reglamento para reubicación de su sede, los Notarios, a su costa, harán del conocimiento público el nuevo domicilio de su Notaría mediante dos publicaciones con intervalo de una semana en el Periódico Oficial ''Tierra y Libertad'' y en alguno de los diarios de mayor circulación en la capital del Estado o en la población más importante de la respectiva Demarcación Notarial.
 
-VI. Autorizar, previa solicitud del Ejecutivo Estatal o Ayuntamiento en su caso, debidamente justificada y de conformidad con las disposiciones de la presente ley, los montos de endeudamiento adicionales necesarios, cuando se presenten circunstancias extraordinarias que así lo ameriten.
+###### Artículo 7.
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+Las Notarías se establecerán en locales adecuados y contarán con los medios necesarios para realizar la función notarial; estarán abiertas todos los días hábiles de cada año, durante un mínimo de 8 horas diarias y el Notario establecerá su residencia dentro de la misma Demarcación o en su zona conurbada.
 
-VII. Aprobar en el presupuesto de egresos correspondiente, las partidas necesarias para cumplir con las obligaciones derivadas de la contratación de deuda pública en los términos de la presente ley.
+###### Artículo 8.
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+En el edificio donde se encuentre ubicada la Notaría se colocará en lugar visible, un letrero con los siguientes datos:
 
-VIII. Autorizar la constitución de fideicomisos de financiamiento a que se refiere la presente ley, así como la afectación de los ingresos necesarios para el cumplimiento de su objeto.
+I.- Nombre y Apellidos del Notario;
 
-###### ARTICULO 13.
+II.- Número de la Notaría;
 
-Corresponde al Ejecutivo del Estado:
+III.- Demarcación Notarial, y
 
-I. Someter a consideración del Congreso Local para su discusión y aprobación en su caso los montos de endeudamiento que constituyan operaciones de Deuda Pública.
+IV.- En caso de Notarios Asociados, el nombre y apellidos de su asociado y las palabras ''Notario Asociado''.
 
-II. Informar al Congreso del Estado previamente a la remisión de las Iniciativas de Ley de Ingresos y Presupuesto de Egresos sobre la situación de la Deuda Pública, así como al rendir la Cuenta Pública.
+###### Artículo 11.
 
-Además presentará informes trimestrales sobre la situación de la Deuda Pública a la Legislatura Local, debiéndose publicar dichos informes en el Periódico Oficial, órgano del Gobierno del Estado en un plazo que no exceda de cuarenta y cinco días posteriores al trimestre que se informe.
+Los interesados en obtener el Registro de Aspirante a Notario deberán presentar por triplicado ante la Secretaría, su solicitud acompañada de la documentación a que se refiere este Reglamento, dentro de los treinta días naturales siguientes a la última publicación de la convocatoria.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+###### Artículo 12.
 
-III. Otorgar en su caso y previa autorización de la legislatura local, el aval o garantía para los financiamientos a favor de las entidades a que se refieren las fracciones II, III, IV, V y VI del artículo 2° de esta ley.
+Concluido el plazo señalado en el artículo anterior, la Secretaría determinará, dentro de los treinta días naturales siguientes a la recepción de las solicitudes, quiénes reunieron los requisitos exigidos por la Ley para ser examinados y enviará al Colegio copia de la documentación respectiva.
 
-IV. Contratar montos de endeudamiento adicionales, cuando se presenten circunstancias extraordinarias que así lo requieran; debiendo dar cuenta de los mismos en los informes a que se refiere la fracción II de este artículo.
+La Secretaría notificará personalmente o mediante correo certificado con acuse de recibo al interesado, la procedencia o improcedencia de su solicitud. En caso afirmativo se le informará, con quince días naturales de anticipación por lo menos, el lugar, día y hora en que se celebrará el examen.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+###### Artículo 13.
 
-V. Vigilar que los recursos procedentes de financiamientos constitutivos de la deuda pública se destinen a la realización de inversiones públicas productivas.
+El jurado calificador de los exámenes para obtener el Registro de Aspirante a Notario y de oposición para obtener la Patente de Notario, se integrará y funcionará en los términos establecidos en el artículo 16 de la Ley.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+###### Artículo 14.
 
-VI. Contratar financiamientos de manera directa sin que medie autorización de la legislatura local en caso de desastres naturales y hasta por los montos necesarios para resolver las situaciones de emergencia previamente declarada que se presenten en la entidad; debiendo dar cuenta de tales financiamientos en los informes de cuenta pública.
+El examen para obtener el Registro de Aspirante al Notariado, comprenderá:
 
-VII. Celebrar contratos y convenios, así como suscribir los documentos y títulos de crédito necesarios para formalizar las operaciones de restructuración (sic) o conversión de los créditos adquiridos por el Estado y sus entidades.
+I.- Una prueba práctica que consistirá en la redacción de un instrumento notarial de entre 20 propuestos por el Colegio y aprobados por la Secretaría, contenidos en sobres cerrados y sellados y firmados por el titular de la Secretaría y por el Presidente y el Secretario del Jurado, quien los conservará en depósito un día antes del examen.
 
-VIII. Asesorar a los Municipios en todo lo relativo a la obtención de recursos crediticios, concentración de empréstitos y contratación de créditos y otras operaciones financieras para sí o para sus organismos descentralizados, fideicomisos y empresas dé participación municipal mayoritaria.
+El sobre que contenga el tema a desarrollar, será elegido al azar por un sustentante, el cual será designado por mayoría de los demás sustentantes; una vez seleccionado el sobre, el Presidente del Jurado solicitará al Secretario haga constar que se encuentra cerrado y de ser así, procederá a abrirlo y dar lectura en voz alta.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+Los sustentantes procederán a la redacción del instrumento sin asesoría y podrán consultar los Códigos y libros de consulta, previa su revisión y autorización del Jurado; y
 
-IX. Constituir fideicomisos y afectar ingresos en los términos de ésta y demás Leyes relativas, así como la realización de los demás actos relacionados con su objeto.
+II. Una prueba teórica que consistirá en examen oral, que los miembros del Jurado harán al sustentante sobre el caso jurídico notarial al que se refiera el tema que les haya correspondido.
 
-X. Autorizar a las entidades del sector público paraestatal, a fin de que se lleven a cabo la contratación de créditos.
+El examen se hará en un tiempo que no exceda de cinco horas y al concluirse, se recogerán los trabajos. El Jurado, a puerta cerrada calificará los exámenes y dentro de los tres días naturales siguientes comunicará a los sustentantes el resultado. Su veredicto será inapelable.
 
-XI. Afectar en garantía de pago de las obligaciones contraidas, directamente o como avalista las participaciones que en ingresos federales le corresponden al Estado.
+#### SECCIÓN SEGUNDA. DE LOS REQUISITOS PARA OBTENER LA PATENTE DE NOTARIO
 
-XII. Afectar como garantía de pago de las obligaciones inscritas en el Registro a que se refiere esta ley y contraidas por los Municipios o sus entidades, las participaciones que le correspondan, sobre ingresos federales y municipales coordinados con el Estado, en los términos de lo dispuesto en las Leyes de Coordinación Fiscal Federal, y Estatal en su caso.
+###### Artículo 15.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+Tendrán derecho a presentar el examen de oposición para obtener la Patente de Notario, los Aspirantes a Notario, quienes deberán cumplir los requisitos señalados en la Ley, mismos que se acreditarán de la siguiente manera:
 
-XIII. Afectar en garantía o como fuente de pago de las obligaciones contraídas directamente o como garante o avalista; las participaciones y aportaciones que en ingresos federales le corresponden al Estado.
+I.- El Registro de Aspirante a Notario con la correspondiente publicación del Periódico Oficial del Estado o por certificación que expida el Secretario General de Gobierno;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+II.- El no haber sido condenado por delito intencional.- Con el certificado de no antecedentes penales expedido por la autoridad competente, con antigüedad no mayor de 90 días previos al examen, y
 
-XIV. Afectar como garantía o como fuente de pago de las obligaciones inscritas en el Registro a que se refiere esta ley y contraídas por los municipios o sus entidades, las participaciones que le correspondan, sobre ingresos federales y municipales coordinados con el Estado, en los términos de lo dispuesto en las Leyes de Coordinación Fiscal Federal y Estatal, en su caso.
+III.- El no haber sido separado del ejercicio del notariado.- Mediante constancia expedida recientemente por el Notario con quien ejercitó la profesión.
 
-XV. Vigilar que los recursos obtenidos por todas las operaciones a las que se refiere este ordenamiento, sean aplicados precisamente a los fines previstos.
+###### Artículo 16.
 
-XVI. Vigilar que se efectúen oportunamente las amortizaciones de capital y los intereses derivados de empréstitos y créditos contratados.
+La convocatoria para cubrir Notarias vacantes o de nueva creación expedirá el Ejecutivo del Estado y contendrá los datos siguientes:
 
-XVII. Verificar que la capacidad de pago de las Entidades que contraten financiamientos, sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá supervisar en forma permanente el desarrollo de los Programas de Financiamiento así como la adecuada estructura financiera de las entidades acreditadas.
+I.- La Demarcación Notarial en donde se ubique la Notaría vacante o de nueva creación, y
 
-XVIII. Llevar el Registro de las obligaciones financieras derivadas de la contratación, por parte de las entidades a que se refiere el Artículo 2o. de esta ley, de empréstitos y créditos, en el que debe hacer constar cuando menos, monto, características y destino de los recursos.
+II.- Las bases, el lugar, la fecha y la hora en que se realizarán los exámenes de oposición.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+Los exámenes de oposición se efectuarán de conformidad con lo dispuesto por el artículo 20 de este ordenamiento.
 
-XXI (SIC). Expedir los certificados de afectación a los ingresos municipales en gravámenes y fondos federales participables e ingresos coordinados con el Estado, cuando los Ayuntamientos los otorguen como garantía.
+### CAPÍTULO III. DEL INGRESO A LA FUNCIÓN NOTARIAL
 
-###### ARTICULO 14.
+#### SECCIÓN PRIMERA. DE LOS REQUISITOS PARA OBTENER EL REGISTRO DE ASPIRANTE AL NOTARIADO
 
-Corresponde al Ayuntamiento Municipal:
+###### Artículo 9.
 
-I. Proporcionar la información que en relación a las operaciones de Deuda Pública le soliciten la Legislatura Local y el Ejecutivo del Estado, cuando éste funja como aval solidario.
+Los requisitos señalados en la Ley para obtener el Registro de Aspirante a Notario, se acreditarán en la forma siguiente:
 
-II. Formalizar contratos y convenios para la obtención de empréstitos, créditos y demás operaciones de Deuda Pública, suscribiendo los instrumentos requeridos para el efecto.
+I.- La Calidad de Morelense y la Residencia.- Con la copia certificada del acta de nacimiento expedida por el Oficial del Registro Civil y con la constancia de residencia expedida por la autoridad municipal correspondiente;
 
-III. Celebrar convenios y contratos de reestructuración o conversión de créditos ya adquiridos, que modifiquen tasas de interés, plazos y formas de pago.
+II.- La Autorización para el Ejercicio Profesional del Derecho.- Con los originales del título y de la cédula profesional, expedidos por las instituciones legalmente facultadas para ello, o copia certificada de los mismos;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+III.- La Práctica Notarial.- Con el aviso que por escrito, el Notario hubiere dado a la Secretaría y al Colegio, del inicio y terminación de la práctica del aspirante o de la continuación de la misma; surtiendo efectos a partir de la fecha de recepción de dichos documentos, tanto en la Secretaría como en el Colegio, y
 
-IV. Constituir fideicomisos y afectar ingresos en los términos de ésta y demás Leyes relativas, así como la realización de los demás actos relacionados con su objeto.
+IV.- El no haber sido condenado por delito intencional.- Con el certificado de no antecedentes penales expedido por la autoridad competente, con antigüedad no mayor de 90 días, previos al examen.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+###### Artículo 17.
 
-V. Autorizar en garantía de las obligaciones que contraiga, la afectación de sus ingresos en gravámenes y fondos federales participables.
+Los Aspirantes a obtener la Patente de Notario deberán presentar por triplicado ante la Secretaría, su solicitud y su registro de Aspirante al Notariado o copia certificada del mismo, en un plazo de treinta días hábiles, contados a partir de la última publicación de la convocatoria.
 
-VI. Presentar a la Comisión Intersecretarial de Gasto y Financiamiento, el Programa Financiero que justifique la viabilidad de contraer obligaciones de Deuda Pública, en los casos en que el Ejecutivo funja como aval solidario de las contrataciones respectivas.
+###### Artículo 18.
 
-VII. Acreditar conforme a lo dispuesto en esta Ley, que dispone de elementos económicos suficientes para hacer frente a la obligación contraida, en los montos y plazos conforme a su programa financiero.
+Concluido el plazo señalado en el artículo anterior, la Secretaría, dentro de los quince días naturales siguientes, determinará quienes reúnen los requisitos exigidos por la Ley para ser examinados y enviará copia de tal determinación al Colegio.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+La Secretaría notificará personalmente o mediante correo certificado al aspirante, la procedencia o improcedencia de su solicitud. En caso afirmativo, se le informará, por lo menos con quince días naturales de anticipación, el lugar, día y hora en que efectuará el examen.
 
-VIII. Acreditar conforme a lo dispuesto en esta ley, que dispone de la capacidad de pago suficiente para hacer frente a las obligaciones a ser adquiridas en los montos y plazos conforme a su programa financiero; y
+###### Artículo 19.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+El Jurado calificador para los exámenes de Aspirante al Notariado y de oposición, se compondrá de cinco miembros propietarios y sus suplentes, todos ellos licenciados en derecho y estará integrado de la siguiente manera:
 
-IX. Cumplir con las obligaciones de información para efectos del registro de deuda pública, así como la obligación de informar trimestralmente sobre la situación de la deuda pública a la legislatura local, debiendo publicar dichos informes en el Periódico Oficial, órgano del Gobierno del Estado y/o en la Gaceta Municipal en un plazo que no exceda de cuarenta y cinco días posteriores al trimestre de que se trate.
+I.- El Ejecutivo del Estado o el representante que éste designe, quien será el Presidente;
 
-###### ARTICULO 15.
+II.- Dos Notarios designados por el Ejecutivo del Estado, y
 
-La Comisión Intersecretarial de Gasto y Financiamiento será organismo auxiliar de consulta del Ejecutivo Estatal, en materia de Deuda Pública, cuya integración y funcionamiento se sujetará a lo previsto por la ley de la materia.
+III.- Dos Notarios designados por el Colegio.
 
-El Secretario de Finanzas, en su carácter de Secretario Técnico de dicha comisión, podrá convocar a los representantes de las entidades señaladas en las fracciones II, III, IV, V y VI del Artículo 2º de esta ley.
+Los suplentes serán nombrados por quien haga el nombramiento de los propietarios.
 
-###### ARTICULO 16.
+El Secretario del Jurado será designado de entre sus miembros.
 
-Además de las atribuciones que la ley le confiere, la Comisión lntersecretarial de Gasto y Financiamiento tendrá las siguientes funciones:
+Los demás integrantes del Jurado actuarán como Vocales del mismo.
 
-I. Conocer y evaluar las necesidades de crédito de las entidades señaladas en el Artículo 2o. de esta ley.
+No podrán formar parte del Jurado los Notarios en cuyas Notarias hayan realizado sus prácticas el o los sustentantes, su cónyuge, ni sus parientes hasta el cuarto grado en cualquier línea.
 
-II. Evaluar v determinar la capacidad de endeudamiento de dichas entidades.
+###### Artículo 20.
 
-III. Conocer y opinar sobre los estudios que se refieran a la Deuda del Sector Público y recomendar las políticas aconsejables para mantenerla dentro de su capacidad de pago.
+El examen de oposición para obtener la Patente de Notario, que en todo caso será uno por cada Notaría vacante consistirá en dos pruebas, una teórica y otra práctica. La proposición, autorización, sellado y custodia de los temas de examen se hará en los términos del artículo 14, fracción I, primer párrafo de este ordenamiento. Estos temas serán de los más complejos de la práctica notarial.
 
-IV. Evaluar y emitir opinión respecto de los empréstitos o créditos que solicite el Estado o de aquellos que requieran su garantía.
+I.- Para la prueba práctica.- Se reunirán los aspirantes en el lugar, día y hora que con quince días naturales de anticipación señale la Secretaría. En presencia de un representante de la Secretaría y de un Notario, ambos miembros del Jurado, uno de los aspirantes designado por la mayoría de los otros, tomará uno de los sobres cerrados que guarden los temas, debiendo todos los examinados desarrollar el tema sorteado, en forma separada y solo con el auxilio de un mecanógrafo (a), bajo la vigilancia de los miembros del Jurado ante quienes se haya hecho el sorteo, pudiendo consultar la legislación necesaria, previa autorización y revisión del Jurado. Para el efecto dispondrán de cinco horas corridas; al concluir el tiempo, los sinodales responsables de la vigilancia de la prueba, recogerán los trabajos hechos y los guardarán en sobres cerrados, firmados por los propios sinodales y por los interesados. Los sobres quedarán en custodia del Presidente del Jurado.
 
-V. Asesorar a las entidades señaladas en el Artículo 2o. de esta ley en materia de Deuda Pública.
+Concluido el examen práctico, el Jurado determinará y hará del conocimiento de los sustentantes, el lugar en el que se efectuará el examen teórico precisando el día y la hora en que deberán presentarse.
 
-VI. Recabar y mantener actualizada información sobre las entidades financieras con las cuales pueda realizarse la contratación de Deuda Pública.
+II.- La prueba teórica será pública y consistirá en preguntas que los sinodales formulen al sustentante sobre cuestiones de derecho que sean de aplicación en el ejercicio de las funciones notariales. Los aspirantes serán examinados sucesivamente en el orden en que hayan presentado su solicitud; la réplica de cada sinodal deberá limitarse a un máximo de 45 minutos.
 
-VII. Proponer las medidas de coordinación de las entidades señaladas en el Artículo 2o. de esta ley en lo que se refiera a la captación de recursos crediticios, que incluyan lineamientos de negociación sobre las condiciones generales de los financiamientos.
+###### Artículo 21.
 
-VIII. Las demás que le confiera el Ejecutivo Estatal, el Reglamento de esta ley y otras disposiciones legales.
+Concluida la prueba teórica, los miembros del Jurado emitirán separadamente y por escrito, la calificación que cada uno de ellos otorgue.
 
-### CAPITULO TERCERO. DE LA CONTRATACION DE EMPRESTITOS Y CREDITOS
+Los miembros del Jurado calificarán cada prueba en escala numérica del 0 al 10 y promediarán los resultados. La suma de los promedios se dividirán (sic) entre el número de miembros que integren el Jurado. La calificación mínima, para aprobar el examen será de 7 puntos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+El Jurado a puerta cerrada determinará quien de los aprobados obtuvo la mayor puntuación para obtener la patente de Notario. En caso de empate en la puntuación, se otorgará al sustentante de mayor antigüedad. El veredicto será irrevocable. El Secretario levantará el acta correspondiente que deberá ser suscrita por los integrantes del Jurado.
 
-###### ARTICULO 17.
+###### Artículo 22.
 
-El Ejecutivo Estatal concertará y formalizará los créditos y financiamientos que constituyan la deuda pública Estatal, a través de la Secretaría de Finanzas; cuyo monto máximo de endeudamiento neto, no podrá ser superior a la capacidad de pago del Gobierno del Estado, según lo determine la Comisión Intersecretarial de Gasto y Financiamiento.
+Cuando el Jurado haya determinado a quien se otorgará la patente respectiva, el Presidente hará saber a los asistentes la determinación correspondiente; así mismo, comunicará el resultado del examen de oposición a la Secretaría, a quien remitirá la documentación respectiva.
 
-Los Gobiernos Municipales por conducto de sus Tesorerías, concertarán y formalizarán los créditos y financiamientos que constituyan Deuda Pública. Los organismos públicos descentralizados estatales, las empresas de participación estatal mayoritaria y los demás organismos de naturaleza estatal a que se refiere el Artículo 2o. de este ordenamiento, sólo podrán obtener créditos o financiamientos por conducto de la Secretaría de Finanzas.
+###### Artículo 23.
 
-###### ARTICULO 18.
+Si transcurridos 15 minutos del día y hora señalados para el examen teórico o práctico no se encuentra presente alguno de los sinodales propietarios, entrará en funciones el suplente y si tampoco este concurre, no se llevará a cabo el examen, asentándose lo anterior en el acta que para ello se elabore. En cualquiera de estas circunstancias se señalará, dentro de los cinco días hábiles siguientes, nueva fecha y hora para la realización del examen que corresponda, la que se notificará personalmente a los interesados.
 
-Los montos de endeudamiento que se contraten por concepto de Deuda Pública, se sujetarán a los aprobados para tal efecto por el Congreso del Estado, conforme a lo previsto por la fracción I del Artículo 12 de esta ley.
+###### Artículo 24.
 
-###### ARTICULO 19.
+El Presidente del Jurado resolverá los incidentes que se presenten en la realización del examen.
 
-Podrán efectuarse operaciones de endeudamiento con amortizaciones que excedan el periodo para el cual fue electo el Ejecutivo Estatal o Ayuntamiento correspondiente, únicamente cuando los recursos que se obtengan por esa operación se apliquen a proyectos de inversión pública productiva, y previa la autorización a que se refiere la fracción III del Artículo 12 del presente ordenamiento.
+###### Artículo 25.
 
-###### ARTICULO 20.
+En caso de que ninguno de los sustentantes haya obtenido la calificación mínima aprobatoria, la Secretaría declarará desierto el examen y se emitirá nueva convocatoria.
 
-Cuando las entidades señaladas en las fracciones II, III, IV, V y VI del Artículo 2o. de esta ley, requieran el aval del Estado, la contratación de empréstitos o créditos se realizará con la aprobación del Congreso del Estado, previa autorización del Ejecutivo del Estado por conducto de la Secretaría de Finanzas.
+Lo dispuesto en el párrafo anterior, también será aplicable para el caso de que ningún aspirante se presente a la oposición convocada.
 
-###### ARTICULO 21.
+### CAPÍTULO IV. DE LA SUPLENCIA Y ASOCIACIÓN DE NOTARIOS
 
-Cuando las entidades señaladas en las fracciones II, III, IV, V y VI del Artículo 2o. de esta ley, requieran el aval referido en el artículo precedente, deberán formular solicitud al Ejecutivo del Estado a través de la Secretaría de Finanzas, la solicitud deberá ir acompañada de la información que al efecto se requiera.
+###### Artículo 26.
 
-###### ARTICULO 22.
+Los sustentantes de los exámenes para obtener la Patente de Notario que no obtengan la calificación mínima, no podrán presentar otro examen hasta que hayan transcurrido seis meses.
 
-Los Ayuntamientos y sus organismos paramunicipales, al solicitar el aval del Estado, deberán contar previamente con la autorización colegiada del Cabildo que se formalizará con la documentación correspondiente.
+###### Artículo 27.
 
-###### ARTICULO 23.
+Cuando sean varias las Notarías vacantes, se procederá conforme a lo dispuesto por el artículo 18 de la Ley.
 
-Cuando el Poder Ejecutivo haya otorgado su aval; los Ayuntamientos, las Entidades Paraestatales y Paramunicipales, tendrán la responsabilidad de llevar un registro y controlar internamente la Deuda Pública y rendir los informes que les solicite el Gobernador a través de la Secretaría de Finanzas.
+###### Artículo 28.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+Los convenios de suplencia y de asociación a que se refiere el artículo 33 de la Ley, podrán celebrarse entre dos Notarios Titulares cuyas notarías se encuentren dentro de una misma demarcación notarial. En el convenio de asociación se precisará el local donde ejercerán los Notarios asociados.
 
-###### ARTICULO 24.
+### CAPÍTULO V. DE LAS FUNCIONES DEL ASPIRANTE A NOTARIO ADSCRITO A NOTARÍA
 
-Para obtener créditos o financiamientos; los organismos descentralizados estatales, las empresas de participación estatal mayoritaria y los fideicomisos públicos paraestatales en los que el fideicomitente sea el Estado, deberán cumplir con los requisitos previstos para el Estado en la presente ley.
+###### Artículo 29.
 
-Asimismo, los organismos descentralizados municipales, las empresas de participación municipal mayoritaria y sus fideicomisos públicos paramunicipales, para obtener créditos o financiamientos deberán cumplir con los requisitos previstos para los municipios en esta ley.
+Mientras subsista el convenio de asociación, ambos Notarios firmarán las razones de apertura y de clausura en los volúmenes que integren su protocolo.
 
-###### ARTICULO 25.
+###### Artículo 30.
 
-En ningún caso, se autorizarán financiamientos que generen obligaciones que excedan, a juicio del Ejecutivo del Estado, la capacidad de pago de las entidades del sector público que los promueva.
+Los convenios de asociación a que se refiere el artículo 28 de este ordenamiento, así como la terminación de los mismos, empezarán a surtir efectos al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
-### CAPITULO CUARTO. DE LAS GARANTÍAS Y LOS AVALES
+###### Artículo 31.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+El aspirante o aspirantes adscritos a una Notaría, actuarán de conformidad con lo dispuesto por el artículo 17, fracciones I y II de la Ley.
 
-###### ARTICULO 26.
+###### Artículo 32.
 
-El Ejecutivo del Estado garantizará los créditos de los municipios, organismos públicos descentralizados y empresas públicas de participación estatal, que así lo soliciten, sólo si se cumple con los siguientes requisitos:
+Los Notarios deben guardar reserva sobre lo pasado ante ellos, salvo los informes que obligatoriamente establezcan las leyes respectivas y los actos que deban inscribirse en el Registro Público, en cuyo caso podrán enterarse las personas que sin haber intervenido en los mismos, a juicio del Notario, tengan interés legítimo en el asunto.
 
-I. Que acredite que cuenta con la capacidad de pago suficiente para hacer frente a la obligación a contraer en los montos y plazos, conforme a su programación financiera;
+###### Artículo 33.
 
-II. Que se acredite estar al corriente en el pago de sus amortizaciones;
+El Notario autorizará definitivamente la escritura al pie de la misma, cuando se den los supuestos del artículo 64 de la Ley y se hayan enterado los impuestos correspondientes. Si el Notario hubiese fallecido y en la escritura aparece la autorización preventiva con la razón "ante mi", su firma y su sello, el director o encargado del Archivo General de Notarías, podrá autorizarla definitivamente, una vez que se hubiesen enterado los impuestos mencionados.
 
-III. Que esté al corriente en el cumplimiento de sus obligaciones de información al Registro Estatal de Deuda Pública; y
+###### Artículo 34.
 
-IV. Los demás que se establezcan al respecto.
+Los instrumentos públicos otorgados ante funcionarios extranjeros, una vez legalizados y, en su caso, traducidos por perito oficial, podrán protocolizarse en el Estado de Morelos, salvo que el país en el cual se hubiesen otorgado dichos instrumentos, hayan suscrito el Convenio de la Haya, o se hubiere adherido al mismo; en este supuesto, no se requerirá de la protocolización mencionada, por lo que el instrumento respectivo tendrá efectos jurídicos en el Estado con el solo requisito de la apostilla y, en su caso, previa traducción.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+### CAPÍTULO VI. DEL EJERCICIO DEL NOTARIADO Y DE LA PRESTACIÓN DEL SERVICIO
 
-###### ARTICULO 27.
+###### Artículo 35.
 
-En los casos en que por circunstancias extraordinarias se requiera el aval del Gobierno del Estado respecto de obligaciones de los Ayuntamientos, organismos públicos descentralizados, empresas de participación municipal mayoritaria o fideicomisos públicos paramunicipales, la solicitud se formulará por conducto del Ayuntamiento respectivo y contendrá además la autorización del Cabildo y del órgano de gobierno interno de las citadas entidades y la justificación del carácter extraordinario de su solicitud. El Ejecutivo del Estado, resolverá sobre la procedencia de la solicitud en razón a la capacidad que tenga para adquirir obligaciones contingentes.
+La entrega-recepción de una Notaría se hará en la forma prevista por la Ley y mediante acta que contenga:
 
-###### ARTICULO 28.
+I.- Constancia de que en los volúmenes en uso del protocolo se asentó la razón de clausura;
 
-Una vez que se haya otorgado el aval a que se refiere el Artículo 26 de esta ley, los Municipios o sus organismos deberán solicitar la inscripción en el Registro de Deuda Pública de las operaciones crediticias, para lo cual anexarán a su petición de registro, lo siguiente:
+II.- El inventario de los volúmenes del protocolo que existan en la Notaría; con expresión del estado que conserven sus cubiertas y sellos;
 
-I. El instrumento jurídico en el que se haga constar la obligación directa o contingente.
+III.- Los expedientes judiciales que obren en poder del Notario, y
 
-II. Un ejemplar del decreto publicado en el Periódico Oficial que contenga la autorización del Congreso del Estado.
+IV.- Los apéndices, índices y en general, la documentación que obre en la Notaría.
 
-III. El acta de Cabildo y la autorización del Órgano de Gobierno interno, en su caso, en la que se le autorice a contratar y afectar en garantía de pago de las obligaciones contraidas los ingresos municipales.
+###### Artículo 36.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+En caso de muerte del Notario, el albacea de su sucesión, con intervención de la Secretaría y de un Notario designado por el Colegio, tomará posesión de los bienes muebles que hayan pertenecido al Notario y la Secretaría de los protocolos, apéndices, índices y demás documentación relacionada con los asuntos en trámite que obren en la Notaría. Igualmente, el albacea tomará posesión del inmueble en donde se encuentre establecida la misma, siempre que dicho mueble haya sido propiedad del Notario, de su familia o de algún tercero.
 
-IV. Información sobre el destino de los recursos.
+La Secretaría procederá en los términos establecidos en los artículos 135 y 136 de la Ley.
 
-V. Cualquier otro requisito que en forma general determine el Ejecutivo del Estado a través de la Secretaría de Finanzas.
+### CAPÍTULO VII. DE LA ENTREGA-RECEPCIÓN Y CLAUSURA DE LAS NOTARÍAS
 
-### CAPITULO QUINTO
+###### Artículo 37.
 
-DEL REGISTRO DE DEUDA PUBLICA.
+La Secretaría ejercerá el control de la actividad notarial por sí o por conducto de la unidad administrativa a que se refiera el Reglamento Interior de la propia Secretaría. El control de la actividad notarial se llevará a efecto a través de los siguientes medios:
 
-###### ARTICULO 29.
+I.- Registro:
 
-Todas las obligaciones directas, indirectas y contingentes que contraigan las entidades públicas enumeradas en el Artículo 2o. de esta Ley, invariablemente se inscribirán en el Registro de Deuda Pública Estatal, presentando para tal efecto la documentación correspondiente. El Registro estará a cargo de la Secretaría de Finanzas del Estado.
+a) General de Notarios y Notarías;
 
-###### ARTICULO 30.
+b) De visitas de inspección;
 
-En el Registro de Deuda Pública, se anotarán los datos siguientes:
+c) De ausencias y licencias de los Notarios;
 
-I. El número progresivo y fecha de inscripción.
+d) De sanciones aplicadas a los Notarios;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+e) De Aspirantes al Notariado;
 
-II. Características del acto, identificando las obligaciones contraídas, entidad que suscribió la obligación, objeto, plazo y monto, en su caso, entidad que otorga la garantía.
+f) De quejas, y
 
-III. Las fechas de las publicaciones de los decretos de autorización del Congreso del Estado.
+g) De protocolos autorizados.
 
-IV. En el caso de los Municipios y sus Entidades, la fecha del acta de Cabildo u órgano interno de Gobierno, en la cual se autoriza a éstos a asumir obligaciones, a solicitar el aval del Gobierno del Estado y en su caso, a afectar garantías. Así mismo se hará constar la autorización del Congreso del Estado.
+II.- Expedientes:
 
-V. Garantías afectadas.
+a) Personales de los Notarios, y
 
-VI. Cumplimiento o incumplimiento de las obligaciones contraidas.
+b) De las Notarías.
 
-VII. Cancelación de las inscripciones cuando se acredite el cumplimiento de las obligaciones que las generaron, y
+III.- Directorio:
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+a) General de Notarios y Notarías.
 
-VIII. Los demás que se establezcan al respecto.
+###### Artículo 38.
 
-###### ARTICULO 31.
+El Registro General de Notarios y Notarías deberá contener:
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2007)
+I.- Nombre del Notario;
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+II.- Fecha de su Nombramiento;
 
-###### ARTICULO 32.
+III.- Datos del Periódico Oficial en que se haya publicado el nombramiento, si la Ley exige dicho requisito;
 
-Las entidades públicas a que se refiere el artículo 2° de esta ley, están obligadas a comunicar a la Secretaria de Finanzas del Estado, los datos de todos los financiamientos contratados y de los movimientos que en estos se efectúen con una periodicidad mensual, a fin de mantener actualizados los saldos contenidos en el registro de deuda pública estatal. El informe deberá de remitirse dentro de los quince días posteriores al cierre de cada mes que corresponda.
+IV.- Fecha de protesta;
 
-###### ARTICULO 33.
+V.- Fecha de inicio de funciones;
 
-Las operaciones de crédito autorizadas, así como su registro, sólo podrán mortificarse con los mismos requisitos y formalidades relativos a su autorización.
+VI.- Número de Notaría, y
 
-###### ARTICULO 34.
+VII.- Demarcación Notarial.
 
-La Secretaría de Finanzas expedirá a todos aquellos que acrediten su interés jurídico, las certificaciones que soliciten respecto de las obligaciones inscritas en el Registro Estatal de Deuda Pública.
+###### Artículo 39.
 
-### CAPITULO SEXTO. DE LA CONVERSION DE LA DEUDA PUBLICA
+El registro de visitas de inspecciones generales y especiales practicadas, deberá contener:
 
-###### ARTICULO 35.
+I.- Fecha de la inspección;
 
-Para los efectos de esta ley, se entiende por Conversión de la Deuda Pública la consolidación realizada antes del vencimiento de los empréstitos existentes, con el objeto de lograr un mejor manejo o reducir los cargos por servicio.
+II.- Nombre del inspector que la realizó;
 
-###### ARTICULO 36.
+III.- Número de la Notaría y Demarcación a la que corresponda;
 
-En cualquier momento de la vigencia de los empréstitos, el Ejecutivo del Estado, previo dictamen de la Comisión Intersecretaríal de Gasto y Financiamiento, podrá negociar la Deuda Pública del Estado, sujetándose a las disposiciones de la presente Ley
+IV.- Número progresivo de las actas levantadas, y
 
-### CAPITULO SEPTIMO. DE LAS OBLIGACIONES DERIVADAS DE LAS OPERACIONES DE ENDEUDAMIENTO
+V.- Cantidad de Protocolos, Apéndices e Índices revisados.
 
-###### ARTICULO 37.
+###### Artículo 40.
 
-Las entidades públicas señaladas en el Artículo 2o. de esta ley tendrán las siguientes obligaciones:
+El registro de ausencias y licencias de los Notarios, deberá estar clasificado por Demarcación y por número de Notaría y contendrá:
 
-I. Llevar registro de las operaciones a que obliga la presente ley, conforme lo disponga el Ejecutivo del Estado a través de la Secretaría de Finanzas.
+I.- Nombre del Notario;
 
-II. En el caso de los Ayuntamientos y entidades paramunicipales, comunicar mensualmente a la dependencia antes señalada por conducto de la Tesorería Municipal, los datos de los empréstitos y créditos contratados, los movimientos realizados y estado que guarda su Deuda Pública.
+II.- Objeto y fecha de aviso;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+III.- Término de la licencia o ausencia, y
 
-III. Proporcionar al Ejecutivo del Estado a través de la Secretaría de Finanzas, toda la información, que ésta requiera para llevar a cabo la vigilancia a que se refieren las fracciones XV y XVII del artículo 13 de esta ley, respecto a la aplicación de los recursos provenientes de los financiamientos autorizados con la periodicidad y en la forma que la propia Secretaría de Finanzas determine.
+IV.- Fecha de reinicio de funciones.
 
-IV. Los Municipios y sus entidades, al efectuar el pago parcial o total de las obligaciones, deberán comprobarlo ante la Secretaría de Finanzas a fin de que ésta proceda a la cancelación parcial o total de las inscripciones correspondientes en el Registro de Deuda Pública Estatal.
+###### Artículo 41.
 
-###### ARTICULO 38.
+El registro de las sanciones aplicadas a los Notarios deberá contener:
 
-Los ingresos que generen de manera directa las obras materia del endeudamiento, deberán aplicarse preferentemente a las amortizaciones del mismo.
+I.- Nombre del Notario;
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+II.- Tipo de sanción aplicada y su causa, y
 
-###### ARTICULO 39.
+III.- Datos del Acuerdo en que se ordenó su imposición.
 
-La inscripción en el registro de deuda pública estatal de las obligaciones directas, indirectas o contingentes a cargo de los Municipios, confiere a los acreedores, en caso de incumplimiento de los deudores, el derecho a que sus créditos se cubran con cargo a los ingresos municipales en gravámenes y fondos federales participables que deba entregarle el Estado.
+###### Artículo 42.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+El Registro de Aspirantes al Notariado deberá contener, lo siguiente:
 
-###### ARTICULO 40.
+I.- Nombre completo del Aspirante a Notario, y
 
-Para efecto de dar cumplimiento puntual y oportuno a los financiamientos que sean considerados deuda pública y que tengan como medio de pago las participaciones en Ingresos Federales por parte de las entidades referidas en el artículo 2, el Ejecutivo del Estado por conducto de la Secretaría de Finanzas, constituirá un fideicomiso de administración y pago de los financiamientos, mismo que se contratará con institución fiduciaria del sistema bancario nacional.
+II.- Fecha de presentación del examen.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+### CAPÍTULO VIII. DE LA VIGILANCIA E INSPECCIÓN DE LAS NOTARÍAS
 
-###### ARTICULO 41.
+###### Artículo 43.
 
-El fideicomiso señalado en el artículo anterior, se constituirá con el porcentaje de los ingresos que por concepto de participaciones en ingresos federales, correspondan al Estado y sus Municipios y que resulte suficiente para el cumplimiento oportuno de las obligaciones financieras a su cargo.
+El registro de quejas se llevará en orden cronológico y deberá contener los siguientes datos:
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+I.- Número de expediente;
 
-###### ARTICULO 42.
+II.- Nombre del quejoso;
 
-La Secretaría de Finanzas, será la dependencia encargada de vigilar el correcto funcionamiento del fideicomiso de administración y pago.
+III.- Motivo de la queja;
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2007)</small>
+IV.- Nombre y número del Notario, así como la Demarcación a que pertenece la Notaría, y
 
-### CAPITULO OCTAVO. DE LAS OBLIGACIONES DERIVADAS DE FIDEICOMISOS DE FINANCIAMIENTO
+V.- Resolución recaída a la queja.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+###### Artículo 44.
 
-###### ARTICULO 43.
+El registro de protocolos autorizados, deberá contener:
 
-Las entidades referidas en el artículo 2° de la presente ley, podrán contratar o garantizar financiamientos o créditos, incluyendo de manera enunciativa más no limitativa la emisión de valores en el mercado de valores, de conformidad con la legislación aplicable, a través de fideicomisos denominados fideicomisos de financiamiento. Para estos efectos, dichas entidades podrán afectar sus bienes tangibles o intangibles, así como las cantidades que perciban por concepto de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios, y además ingresos, incluyendo las aportaciones federales e incentivos económicos derivados del cobro de impuestos federales que conforme a la legislación aplicable sean susceptibles de afectación, para que a su vez dichos fideicomisos contraten o garanticen financiamientos o créditos en los términos descritos en el presente párrafo. Los fideicomisos de financiamiento no constituirán fideicomisos públicos paraestatales ni fideicomisos públicos paramunicipales.
+I.- La cantidad de protocolos autorizados, y
 
-La afectación a que se refiere el párrafo anterior así como la celebración de contratos de fideicomisos de financiamiento, requerirá la autorización previa del Congreso del Estado. Los recursos que las entidades públicas reciban a través de estos fideicomisos, se destinarán a inversión pública productiva.
+II.- La fecha de su autorización.
 
-En la aprobación antes señalada o en acto posterior, el Congreso podrá autorizar a las entidades públicas la sustitución de los bienes, tangibles o intangibles, las cantidades que perciban por concepto de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios, además de las aportaciones federales e incentivos económicos derivados del cobro de impuestos federales que conforme a la legislación aplicable sean susceptibles de afectación.
+###### Artículo 45.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+En el expediente personal de los Notarios se archivarán:
 
-###### ARTICULO 44.
+I.- Copia de los documentos que acrediten el otorgamiento y actualización de la garantía;
 
-La operación de los fideicomisos de financiamiento será ajena a la normatividad aplicable a la administración pública estatal o municipal y se sujetarán a lo previsto en el propio contrato de fideicomiso y en las disposiciones mercantiles, financieras y bursátiles que correspondan.
+II.- Copia del acta de toma de protesta;
 
-Sin perjuicio de lo anterior, los Fideicomisos de Financiamiento se regularán de conformidad con lo establecido por el presente Capítulo, así como por las disposiciones aplicables de la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit y las demás leyes aplicables.
+III.- Autorizaciones para la utilización de protocolos y reposición de sellos, y
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+IV.- Avisos de ausencia, permisos y reinicio de funciones.
 
-###### ARTICULO 45.
+###### Artículo 46.
 
-Durante la vigencia del fideicomiso y salvo disposición específica en el contrato de fideicomiso, por lo que se refiere a las contribuciones cuyos ingresos se afectaron, no se otorgarán estímulos fiscales adicionales a los previstos en la Ley de Fomento para el Desarrollo Económico del Estado de Nayarit, ni se cancelarán créditos fiscales adicionales a los contemplados en el Código Fiscal del Estado, respecto de los impuestos, derechos, productos, aprovechamientos, accesorios, o demás ingresos que hayan sido afectados. Lo anterior no será aplicable en caso de desastre natural; sin embargo, se tendrán que afectar otros ingresos del Estado, por la misma proporción en que se reduzca el monto que corresponde a la afectación original y que disminuyó en virtud del estímulo o cancelación correspondiente.
+El expediente de cada Notaría contendrá:
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+I.- Acta de recepción o entrega de Notaría;
 
-###### ARTICULO 46.
+II.- Actas de inspecciones generales y especiales;
 
-Las obligaciones que deriven de los fideicomisos de financiamiento serán incluidas en el Presupuesto de Egresos de cada ejercicio, como una partida obligatoria en términos de la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit.
+III.- Avisos de cambio de domicilio, y
 
-TRANSITORIOS:
+IV.- Impresión del sello en uso.
 
-Artículo Primero.- La presente ley entrará en vigor el 1o. de enero de 1996, previa publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+###### Artículo 47.
 
-Artículo Segundo.- Las entidades públicas referidas en el Artículo 2o. de esta ley, deberán inscribir en el Registro de Deuda Pública Estatal, todos sus adeudos insolutos al 31 de diciembre de 1995, en un plazo que no exceda de 15 días contados a partir de la entrada en vigor de la presente ley.
+El Directorio General de Notarios y Notarías deberá contener:
 
-Artículo Tercero.- Se derogan todas las disposiciones que en materia de Deuda Pública Estatal y Municipal contravengan a la presente ley.
+I.- Nombre, número y carácter con el que actúa el Notario, y
 
-Artículo Cuarto.- El Ejecutivo Estatal emitirá el Reglamento de la presente ley en el primer trimestre de 1996.
+II.- Lugar de residencia, domicilio y números telefónicos del Notario y de la Notaría.
 
-D A D O en la Sala de Sesiones "LIC. BENITO JUAREZ", del Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los once días del mes de diciembre de mil novecientos noventa y cinco.
+###### Artículo 48.
 
-Dip. Presidente.
+Los registros anteriores deberán contenerse en libros y ordenarse alfabéticamente por Demarcaciones Notariales y por el número de Notaría.
 
-EZEQUIEL MEDINA BIBRIESCA
+###### Artículo 49.
 
-Dip. Secretario.
+La Secretaría atenderá y resolverá las quejas que los interesados presenten en contra de los notarios, así como las irregularidades en que estos incurran, de acuerdo al siguiente procedimiento:
 
-MA. LUISA HERMOSILLO GONZALEZ
+I.- Toda queja deberá ser presentada por escrito y contendrá:
 
-Dip. Secretario.
+a) Nombre y domicilio del promovente o de quien promueva en su nombre; en este caso, deberá acreditar la personalidad que ostente en términos de la ley de la materia;
 
-JAIME CERVANTES RIVERA
+b) Nombre y número del Notario en contra de quien se formule la queja;
 
-Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic, su Capital a los dieciocho días del mes de Diciembre de mil novecientos noventa y cinco.
+c) Los hechos y documentos en que funde su queja, y
 
-El Secretario General de Gobierno.
+d) Firma del promovente;
 
-Lic. Sigfrido de la Torre Miramontes.
+II.- Una vez admitida la queja, la Secretaría notificará al Notario a efecto de que éste, dentro de un término no mayor de diez días hábiles, manifieste lo que estime procedente y, en su caso, aporte las pruebas que a su juicio considere convenientes;
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+III.- La Secretaría, dentro del término de cinco días hábiles a partir de la fecha en que reciba el informe del Notario, lo turnará por otros diez días hábiles al Colegio para que su directiva o en su caso la Asamblea General emitan un dictamen, y posteriormente determinará si el asunto requiere la práctica de inspección especial, la que se realizará siguiendo el procedimiento señalado por la Ley, y
 
-P.O. 7 DE AGOSTO DE 1996.
+IV.- La resolución que dicte la Secretaría, deberá comprender la relación de los hechos y la valoración de las pruebas.
 
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Organo de Gobierno del Estado.
+### CAPÍTULO IX. DEL COLEGIO DE NOTARIOS
 
-P.O. 26 DE OCTUBRE DE 2002
+###### Artículo 50.
 
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial, Organo de Gobierno del Estado.
+Son atribuciones del Colegio además de las señaladas en la Ley, las siguientes:
 
-SEGUNDO.- Se abrogan todas aquellas disposiciones que se opongan a lo dispuesto en los artículos reformados mediante este decreto.
+I.- Celebrar convenios para la titulación de vivienda de interés social y popular;
 
-P.O. 22 DE NOVIEMBRE DE 2003.
+II.- Coordinar a los Notarios para que intervengan en los programas públicos de regularización de la tenencia de la tierra;
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del estado de Nayarit.
+III.- Comisionar a sus integrantes para prestar los servicios que solicite el Ejecutivo del Estado, por conducto de la Secretaría;
 
-P.O. 15 DE DICIEMBRE DE 2007.
+IV.- Organizar a los Notarios para el cumplimiento de las obligaciones derivadas de la legislación electoral;
+
+V.- Realizar cursos de actualización, congresos y conferencias tendientes a la superación del notariado;
+
+VI.- Emitir los dictámenes a que se refiere el artículo 49 fracción III de este Reglamento;
+
+VII.- Fomentar las relaciones con otras instituciones similares tanto de país como del extranjero;
+
+VIII.- Fijar a sus miembros las cuotas necesarias para el cumplimiento de sus fines, y
+
+IX.- Vigilar el cumplimiento de la Ley, del presente ordenamiento y de sus Estatutos.
+
+### CAPÍTULO X. DEL ARANCEL DE HONORARIOS Y GASTOS NOTARIALES
+
+###### Artículo 51.
+
+Los honorarios y gastos notariales serán convenidos libremente entre los Notarios y sus clientes, previamente a la prestación de los servicios; pero nunca podrán ser inferiores a los que señale el arancel que expedirá y actualizará el Ejecutivo del Estado, oyendo la opinión del Colegio y tomando en cuenta el incremento al índice nacional de precios al consumidor, el incremento a los salarios mínimos, las condiciones económicas imperantes en la entidad, así como los gastos necesarios para elaborar los instrumentos notariales.
+
+Cuando se trate de asuntos de interés social, como son la titulación de vivienda popular, las cuestiones agrarias o los que celebren las instituciones de crédito, los Notarios, por conducto de su Colegio, podrán celebrar convenios con las autoridades, con los organismos paraestatales relativos o con las instituciones de crédito, para establecer el monto de honorarios y la reducción de gastos, siempre y cuando se simplifique la titulación o el asiento de los actos notariales. Los citados convenios serán obligatorios para todos los Notarios del Estado de Morelos.
+
+Cuando un servicio no estuviere previsto por las disposiciones del arancel, será remunerado con los horarios que correspondan al servicio con el que tenga mayor analogía.
+
+Los honorarios que fije el arancel se establecen sobre la base de cuotas mínimas y no podrán reducirse por ningún concepto y se aumentarán atendiendo a la complejidad o urgencia, del asunto de que se trate.
+
+El incumplimiento de cualesquiera de las disposiciones contenidas en el arancel, serán sancionadas discrecionalmente por el Colegio.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDO.- Se abroga el Acuerdo del Ejecutivo Estatal, publicado en el Periódico Oficial "Tierra y Libertad", el treinta de marzo de mil novecientos noventa y cuatro, mediante el cual se crearon las Demarcaciones Notariales de Jiutepec, Temixco y Ayala, Morelos.
+
+TERCERO.- Se derogan todas las disposiciones administrativas que se opongan a lo dispuesto en el presente Reglamento.
+
+CUARTO.- A partir de la iniciación de la vigencia de este Reglamento, los Notarios insertarán en los instrumentos notariales que ante ellos se formalicen, la Demarcación Notarial que les corresponda.
+
+DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CUERNAVACA, MORELOS A LOS VEINTICINCO DÍAS DEL MES DE FEBRERO DEL MIL NOVECIENTOS NOVENTA Y NUEVE.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN
+
+GOBERNADOR DEL ESTADO DE MORELOS
+
+JORGE MORALES BARUD
+
+SECRETARIO GENERAL DE GOBIERNO
+
+JORGE ARTURO GARCÍA RUBÍ
+
+RÚBRICAS
 
 ###### ARTICULO ÚNICO.
 
