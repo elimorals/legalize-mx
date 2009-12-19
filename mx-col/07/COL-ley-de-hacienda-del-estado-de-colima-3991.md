@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2009-05-09"
+last_updated: "2009-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -283,7 +283,7 @@ Los vehículos objeto de la transmisión, garantizaran preferentemente el pago d
 
 ###### Artículo 30.
 
-Para la recaudación de este impuesto, se observarán las siguientes reglas:
+Para la recaudación de este impuesto, se observaran las siguientes reglas:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -395,13 +395,13 @@ Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mediante declar
 
 Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
-
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -557,13 +557,567 @@ XI.- Herramientas y uniformes para el trabajo y deportivos; y
 
 XII.- Becas para los trabajadores y sus familias.
 
-### CAPITULO I. Disposiciones Generales
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO II. De los servicios prestados por la Secretaría General de Gobierno
+> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO VIII. Del Impuesto sobre Tenencia o Uso de Vehículos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION PRIMERA. Del objeto
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 V.- Es objeto de este impuesto la tenencia o uso de vehículos que se efectúe en el territorio del Estado de Colima.
+
+Para los efectos de este impuesto se entiende por vehículos a los automóviles, motocicletas, aeronaves, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor.
+
+Se consideran también automóviles, a los omnibuses, minibuses, microbuses, midibuses, autobuses integrales, camiones y tractores no agrícolas tipo quinta rueda.
+
+Se consideran también motocicletas, a las trimotos y cuatrimotos.
+
+Se considera que el uso o tenencia del vehículo se efectúa dentro de la circunscripción territorial del Estado, cuando se de cualquiera de los siguientes supuestos:
+
+I.- El registro del vehículo se realice en el Registro Público vehicular del Estado de Colima.
+
+II.- Las personas físicas o las morales, tenedoras o usuarias de los vehículos se encuentren domiciliadas en el territorio del Estado.
+
+III.- Se expida el permiso provisional para circulación en traslado del vehículo.
+
+IV.- Se hayan tramitado placas de transporte público federal ante las autoridades federales competentes radicadas en el Estado, tratándose de vehículos destinados a dicho servicio.
+
+V.- Se hayan tramitado los certificados de aeronavegabilidad ante las autoridades federales competentes con circunscripción territorial en el Estado.
+
+VI.- Se realice la inspección de seguridad marítima por las autoridades federales competentes con circunscripción territorial en el Estado.
+
+VII.- Las personas físicas o las morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, los asignen a su propio servicio o al de sus funcionarios o empleados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION SEGUNDA. De los sujetos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 W.- Están obligadas al pago de este impuesto las personas físicas y las morales tenedoras o usuarias de los vehículos a que se refiere este capítulo.
+
+Para los efectos de este capítulo, se presume que el propietario es tenedor o usuario del vehículo.
+
+La Federación, el Estado y sus Municipios, así como sus organismos y entidades o cualquier otra persona, deberán pagar el impuesto sobre tenencia o uso de vehículos que establece este capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos locales o estén exentos de ellos.
+
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el artículo 41 Z BIS 12 de este capítulo.
+
+En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de este capítulo, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este capítulo, se pagará como si éste fuese nuevo.
+
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
+
+Mes de Adquisición Factor aplicable al
+
+impuesto causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 X.- Son solidariamente responsables del pago del impuesto establecido en este capítulo:
+
+I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto.
+
+II.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
+
+III.- Las autoridades competentes, que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+
+IV.- Las autoridades competentes que expidan los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, cuando al expedirlos el tenedor o usuario del vehículo no compruebe el pago del impuesto establecido en este capítulo, a excepción de los casos en que se encuentre liberado de ese pago.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Y.- Para efectos de este capítulo, se entiende por:
+
+I.- Vehículo nuevo:
+
+a).- El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
+
+b).- El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de este capítulo, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
+
+II.- Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+III.- Marca, las denominaciones y distintivos que los fabricantes de vehículos dan a estos para diferenciarlos de los demás.
+
+IV.- Año modelo, el año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1o. de octubre del año anterior y el 30 de septiembre del año que transcurra.
+
+V.- Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
+
+VI.- Versión, cada una de las distintas presentaciones comerciales que tiene un modelo.
+
+VII.- Línea:
+
+a).- Automóviles con motor de gasolina o gas hasta de 4 cilindros.
+
+b).- Automóviles con motor de gasolina o gas de 6 u 8 cilindros.
+
+c).- Automóviles con motor diesel.
+
+d).- Automóviles eléctricos.
+
+e).- Automóviles híbridos.
+
+f).- Camiones con motor de gasolina, gas o diesel.
+
+g).- Tractores no agrícolas tipo quinta rueda.
+
+h).- Omnibuses.
+
+i).- Autobuses integrales.
+
+j).- Minibuses.
+
+k).- Microbuses.
+
+l).- Midibuses.
+
+m).- Motocicletas.
+
+n).- Trimotos.
+
+o).- Cuatrimotos.
+
+p).- Motocicletas acuáticas.
+
+q).- Aeronaves.
+
+r).- Embarcaciones.
+
+s).- Veleros.
+
+t).- Tablas de oleaje con motor.
+
+u).- Esquís acuáticos motorizados.
+
+VIII.- Comerciantes en el ramo de vehículos, a las personas físicas y las morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION TERCERA. De la base
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z.- Será base de este impuesto el valor total del vehículo consignado en la primera facturación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS APARTADOS Y ARTICULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION CUARTA. De las Cuotas, Tasas y Tarifas
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+APARTADO 1
+
+Automóviles
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS.- Tratándose de automóviles el impuesto se calculará como a continuación se indica:
+
+I.- En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para Aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 428,768.31 0.00 3.0
+
+428,768.32 825,140.79 12,863.05 8.7
+
+825,140.80 1,109,080.70 47,347.45 13.3
+
+1,109.080.71 1,393,020.60 85,111.46 16.8
+
+1,393,020.61 En adelante 132,813.36 19.1
+
+Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
+
+II.- Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil. Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+
+Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses, midibuses, omnibuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+III.- Tratándose de automóviles de más de diez años modelo (sic) anteriores al de aplicación de este capítulo, el impuesto se pagará a la tasa del 0%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+APARTADO 2
+
+Otros Vehículos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 1.- En este apartado se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, automóviles eléctricos y motocicletas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 2.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $7,313.00, para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $7,877.00, para aeronaves de reacción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 3.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 4.- Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para Aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 200,000.00 0.00 3
+
+200,000.01 275,046.93 6,000.00 8.7
+
+275,046.94 369,693.57 12,529.08 13.3
+
+369,693.58 En adelante 25,117.08 16.8
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 5.- Tratándose de vehículos de más de diez años de fabricación anteriores al de aplicación de este capítulo, el impuesto se pagará conforme a la siguiente:
+
+TABLA
+
+TIPO DE VEHICULOS CUOTA
+
+AERONAVES
+
+Hélice $ 448.00
+
+Turbohélice 2,480.00
+
+Reacción 3,583.00
+
+HELlCOPTEROS 551.00
+
+El monto de las cuotas establecidas en este artículo se actualizarán (sic) con el factor a que se refiere el artículo 41 Z BIS 7 de este capítulo.
+
+Tratándose de motocicletas de más de diez años modelo (sic) anteriores al de aplicación de este capítulo, el impuesto se pagará a la tasa del 0%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 6.- Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 7.- Para los efectos de lo dispuesto en los artículos 41 Z BIS, 41 Z BIS 2, 41 Z BIS 4 Y 41 Z BIS 5, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes de noviembre del año anterior a aquel para el cual se realizará la actualización entre el citado Índice correspondiente al mes de noviembre del año en que se realizó la última actualización. La Secretaría de Finanzas publicará el factor de actualización en el Periódico Oficial "El Estado de Colima".
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+APARTADO 3
+
+Vehículos Usados
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 8.- Tratándose de vehículos de fabricación nacional o importados, a que se refieren los artículos 41 Z BIS, fracción II y 41 Z BIS 6 de este capítulo, así como de aeronaves, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+Años de Factor
+
+antigüedad
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 41 Z BIS 7.
+
+Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados "taxis", el impuesto sobre tenencia o uso de vehículos se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
+
+I.- El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este artículo; y
+
+II.- La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el artículo 41 Z BIS 7 de este capítulo; el resultado obtenido se multiplicará por 0.245%.
+
+Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 9.- Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años modelo anteriores al de aplicación de este capítulo, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con lo dispuesto en el artículo 41 Z BIS 7 de este capítulo; al resultado se le aplicará la tarifa a que hace referencia el artículo 41 Z BIS.
+
+Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 10.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+10 0.4000
+
+11 0.3500
+
+12 0.3000
+
+13 0.2625
+
+14 0.2250
+
+15 0.1875
+
+16 0.1500
+
+17 0.1125
+
+18 0.0750
+
+19 y siguientes 0.0375
+
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con lo dispuesto en el artículo 41 Z BIS 7 de este capítulo; al resultado se le aplicará la tasa a que hace referencia el artículo 41 Z BIS 3 del mismo.
+
+Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 11.- Tratándose de motocicletas de fabricación nacional o importadas, de hasta nueve años modelo (sic) anteriores al de aplicación de este capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total de la motocicleta se multiplicará por el factor de depreciación de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de depreciación
+
+1 0.9
+
+2 0.8
+
+3 0.7
+
+4 0.6
+
+5 0.5
+
+6 0.4
+
+7 0.3
+
+8 0.2
+
+9 0.1
+
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con lo dispuesto en el artículo 41 Z BIS 7 de este capítulo; al resultado se le aplicará la tarifa a que hace referencia el artículo 41 Z BIS 4 del mismo.
+
+Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION QUINTA. Del pago
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas autorizadas por la Secretaría de Finanzas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circulación en traslado o alta del vehículo, y comprobarán el pago del impuesto con el original o la copia certificada de la forma de pago del citado impuesto, misma información que deberá de validarse ante la autoridad emisora de dicho comprobante.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+#### SECCION SEXTA. De las exenciones
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 41 Z BIS 13.- No se pagará el impuesto, en los términos de este capítulo, por la tenencia o uso de los siguientes vehículos:
+
+I.- Los eléctricos utilizados para el transporte público de personas.
+
+II.- Los importados temporalmente en los términos de la legislación aduanera.
+
+III. Los vehículos de la Federación, el Estado y sus Municipios. que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
+
+IV.- Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad.
+
+V.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
+
+VI.- Las embarcaciones dedicadas al transporte mercante o a la pesca comercial.
+
+VII.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga, y
+
+VIII.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 14.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas que se encuentran comprendidos en dichos supuestos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+SECCION SEPTlMA
+
+Otras obligaciones
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Artículo 41 Z BIS 15.- Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, que tengan establecimiento en el Estado, tendrán la obligación de proporcionar a la Secretaría de Finanzas a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el territorio estatal en el mes inmediato anterior, a través de medios electrónicos procesados en los términos que señale dicha Secretaría. Los que tengan más de un establecimiento, deberán proporcionar esta información, haciendo la separación por cada uno de los establecimientos.
+
+### CAPITULO I. Disposiciones Generales
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
-### CAPITULO III. Servicios Prestados por la Secretaría de Finanzas
+### CAPITULO II. De los servicios prestados por la Secretaría General de Gobierno
 
 ###### Artículo 42.
 
@@ -591,7 +1145,7 @@ Cuando no se llenen los requisitos legales para el otorgamiento del permiso, con
 
 El servidor público que preste algún servicio, en contravención a lo dispuesto en este capítulo, será responsable de su pago, independientemente de las sanciones administrativas y corporales a que se pueda hacer acreedor.
 
-### CAPITULO IV. Servicios Prestados por la Secretaría de Desarrollo Urbano
+### CAPITULO III. Servicios Prestados por la Secretaría de Finanzas
 
 ###### Artículo 48.
 
@@ -1533,9 +2087,7 @@ XXXI.- Tratándose del servicio de consulta por Internet, previa autorización d
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Rural
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+### CAPITULO IV. Servicios Prestados por la Secretaría de Desarrollo Urbano
 
 ###### Artículo 53.
 
@@ -1909,7 +2461,9 @@ XIII.- Por búsqueda en los archivos históricos catastrales 1.000
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO VI. Servicios Prestados en la Secretaría de Educación
+### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Rural
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 55.
 
@@ -2675,9 +3229,9 @@ No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII 
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO VII. Servicios Prestados por la Secretaría de Salud y Bienestar Social
+### CAPITULO VI. Servicios Prestados en la Secretaría de Educación
 
-### CAPITULO VIII. Servicios Prestados en el Poder Judicial
+### CAPITULO VII. Servicios Prestados por la Secretaría de Salud y Bienestar Social
 
 ###### Artículo 56.
 
@@ -2701,9 +3255,7 @@ IV.- Expedición de credencial de identificación con vigencia por Tres años 1.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO IX. Otros Derechos
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+### CAPITULO VIII. Servicios Prestados en el Poder Judicial
 
 ###### Artículo 57.
 
@@ -3179,6 +3731,20 @@ Los ingresos que se obtengan de los diversos conceptos establecidos en el presen
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
+### CAPITULO IX. Otros Derechos
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 61.
+
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 1996)
+
+###### Artículo 62.
+
+(DEROGADO, P.O. 27 DE JULIO DE 1996)
+
+(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
+
 ### CAPITULO UNICO. Del Derecho por la Extracción de Materiales
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
@@ -3214,18 +3780,6 @@ Artículo 64 D.- Las personas físicas y las morales que realicen las actividade
 5.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas, todos los documentos e informes que le soliciten para comprobar el cumplimiento de las obligaciones fiscales.
 
 6.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
-
-###### Artículo 61.
-
-(DEROGADO, P.O. 21 DE DICIEMBRE DE 1996)
-
-###### Artículo 62.
-
-(DEROGADO, P.O. 27 DE JULIO DE 1996)
-
-(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
-
-### CAPITULO UNICO
 
 ### CAPITULO UNICO
 
@@ -3269,10 +3823,6 @@ IV.- Copias certificadas de sentencia 1.350
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
-
-Artículo 70 A.- Son recursos federalizados los que obtengan el Estado del Gobierno Federal, de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren.
-
 ###### Artículo 64.
 
 Por otros Servicios prestados en las dependencias del Gobierno del Estado:
@@ -3312,6 +3862,12 @@ a).- Los contratistas que celebren contratos de obra pública o de servicios rel
 III.- Información diversa no certificada expedida en los Kioscos de servicios e información de gobierno, por cada hoja.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+
+Artículo 70 A.- Son recursos federalizados los que obtengan el Estado del Gobierno Federal, de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren.
 
 ### CAPITULO UNICO
 
@@ -3790,3 +4346,9 @@ UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deber�
 P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 1° de enero de 2010, previa su publicación en el Periódico Oficial "El Estado de Colima".
