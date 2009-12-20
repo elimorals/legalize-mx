@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2009-04-23"
+last_updated: "2009-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -423,29 +423,23 @@ ART. 79.- Si el reconocimiento se hiciere en Oficialía diferente de aquella en 
 
 De las actas de adopción.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-ART. 80.- Ejecutoriada la resolución judicial que autorice la adopción simple o la adopción plena, el adoptante, dentro del plazo de quince días, presentará ante el Oficial del Registro Civil correspondiente, copia certificada de la misma, a efecto de que se levante el acta respectiva.
+ART. 80.- Ejecutoriada la Resolución Judicial que autorice la adopción, el Juez competente, girará al Oficial del Registro Civil donde se asentó el acta de nacimiento del menor para que se realicen las anotaciones marginales respectivas, y se incorpore un nuevo registro con los datos de los adoptantes como padres, sin hacer mención expresa de que se trata de una adopción y sin incluir algún dato que afecte la intimidad del mismo.
 
-ART. 81.- La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta el (sic) responsable a la pena señalada en el artículo 77.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+ART. 81.- La falta de registro de la adopción no evita que surta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 77 del presente Código.
 
-ART. 82.- El Acta de Adopción contendrá: Nombres apellido, fecha y lugar de nacimiento y domicilio del adoptado; nombres, apellidos, estado civil, domicilio y nacionalidad del ó de los Adoptantes, así como de los testigos: nombre, edad, estado civil, nacionalidad y domicilio de las personas cuyo consentimiento hubo de ser necesario para la Adopción y los datos esenciales de la Resolución Judicial, fecha de ésta y Tribunal que la dictó.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MAYO DE 1998)</small>
+ART. 82.- En los casos de adopción, se levantará el acta de nacimiento en los mismos términos de la que se expide para los hijos consanguíneos, incluyendo la fecha del acta de nacimiento anterior más no su número, llevando además los apellidos del o los adoptantes.
 
-En los casos de adopción plena, se levantará el acta de nacimiento en los mismos términos de la que se expide para los hijos consanguíneos, incluyendo la fecha del acta de nacimiento anterior más no su número, llevando además los apellidos del o los adoptantes.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
+ART. 83.- En el caso de adopción, no se expedirá constancia alguna que revele el origen del adoptado, ni su condición de tal, salvo providencia dictada en juicio, haciéndose las anotaciones en el acta de nacimiento, cuyo original quedará reservado para los efectos del Artículo 152 de este Código.
 
-ART. 83.- Extendida el acta de adopción simple, se anotará en la de nacimiento del adoptado y se archivará copia de las diligencias relativas; poniendo el mismo número del acta de adopción.
-
-En el caso de adopción plena, a partir del levantamiento del acta de adopción, no se expedirá constancia alguna que revele el origen del adoptado, ni su condición de tal, salvo providencia dictada en juicio, haciéndose las anotaciones en el acta de nacimiento, cuyo original quedará reservado para los efectos del Artículo 152 de este Código.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
-
-ART. 84.- El juez o tribunal que resuelva que una adopción simple queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+ART. 84.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
 ### CAPITULO V.
 
@@ -803,9 +797,9 @@ X.- El matrimonio subsistente con persona distinta de aquella con quien se prete
 
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-ART. 152.- Bajo el régimen de adopción simple, el adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
+ART. 152.- El adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
 
 ART. 153.- La mujer no puede contraer nuevo matrimonio con persona distinta sino hasta pasados 300 días después de la disolución anterior a menos que dentro de ese plazo diere a luz un hijo.
 
@@ -1449,19 +1443,19 @@ Del parentesco, de los Alimentos y de la Violencia Intrafamiliar.
 
 Del parentesco.
 
-ART. 287.- La ley no reconoce más parentesco que los de consanguinidad, afinidad y el civil.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+ART. 287.- La ley no reconoce más parentesco que los de consanguinidad, y el de afinidad.
 
 ART. 288.- El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
 
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-En el caso de la adopción plena, se equiparará el parentesco por consanguinidad a aquél que existe entre el adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
+En el caso de la adopción, se equiparará el parentesco por consanguinidad a aquél que existe entre el adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
 
 ART. 289.- El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
-
-ART. 290.- El parentesco civil es el que nace de la adopción simple, sólo existe entre el adoptante y el adoptado.
+ART. 290.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
 ART. 291.- Cada generación forma un grado, y la serie de grados constituye lo que se llama línea de parentesco.
 
@@ -1877,75 +1871,33 @@ De la adopción.
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
+ART. 385.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-ART. 385.- El mayor de veinticinco años, en pleno ejercicio de sus derechos, puede adoptar uno o mas menores o a un incapacitado, siempre que el adoptante tenga mas de diecisiete años de edad que el adoptado cuando menos, y que acredite además
+ART. 386.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-I.- Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trata de adoptarse, como hijo propio, según las circunstancias de la persona que trate de adoptar;
+ART. 386 BIS.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-II.- Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo al interés superior de la misma;
+ART. 387.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-III.- Que el adoptante es persona de buenas costumbres; y
+ART. 388.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-IV.- Que tiene buena salud física y mental.
+ART. 389.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
+ART. 390.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-ART. 386.- Los cónyuges podrán adoptar cuando los dos estén conformes en considerar al adoptado como hijo, siempre y cuando la diferencia de edad de cualquiera de los adoptantes en relación con el adoptado sea a la que se refiere el artículo anterior. Se deberán acreditar, además, los requisitos previstos en las fracciones del mismo artículo anterior.
+ART. 391.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2004)</small>
+ART. 392.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-ART. 386 BIS.- En igualdad de condiciones, se preferirá al que haya acogido al menor que se pretende adoptar.
+ART. 393.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-ART. 387.- Nadie puede ser adoptado por más de una persona, salvo el caso previsto en el artículo anterior.
+ART. 394.- Los procedimientos que regulan la adopción serán fijados en el Código de Procedimientos Civiles para el Estado de Durango. El Sistema para el Desarrollo Integral de la Familia, instituciones de salud pública, o peritos designados por el Juez, deberán efectuar los estudios socioeconómicos, psicológicos, médicos y los que el Juez estime pertinentes.
 
-Cuando circunstancias especiales lo aconsejen, el Juez podrá acordar la autorización de la adopción de más de dos menores o incapacitados simultáneamente.
+ART. 395.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-En todos los casos, será prioritario atender al interés superior del menor o de la persona con incapacidad que se pretenda adoptar.
-
-ART. 388.- El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
-
-ART. 389.- El menor o la persona con incapacidad que hayan sido adoptados bajo la forma de adopción simple, podrán impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que haya desaparecido la incapacidad.
-
-ART. 390.- El que adopta bajo el régimen de adopción simple, tendrá, respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
-
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 1998)</small>
-
-El adoptante podrá darle nombre y apellidos al adoptado, según la conveniencia de cada caso, haciéndose las anotaciones correspondientes en el acta de adopción.
-
-ART. 391.- El adoptante tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
-
-ART. 392.- Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
-
-I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
-
-II.- El tutor del que se va a adoptar;
-
-III.- Las personas que hayan acogido al que se pretende adoptar y lo traten como a hijo cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
-
-IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
-
-Si el menor que va a ser adoptado tiene diez años o más, deberá ser escuchado por el Juez.
-
-> <small>(ADICIONADA, P.O. 21 DE MAYO DE 1998)</small>
-
-V.- Las instituciones de asistencia social públicas o privadas que hubieren acogido al menor o al incapacitado que se pretenda adoptar.
-
-ART. 393.- Si el tutor o el Ministerio Público, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el Presidente Municipal del lugar en que resida el incapacitado, cuando encontrare que la adopción es notoriamente conveniente para los intereses morales y materiales de éste.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
-
-ART. 394.- Los procedimientos para hacer la adopción serán fijados en el Código de Procedimientos Civiles. El Sistema para el Desarrollo Integral de la Familia, instituciones de salud pública o peritos designados por el Juez, deberán efectuar los estudios socioeconómicos, psicológicos, médicos, y los que el Juez estime pertinentes.
-
-ART. 395.- Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
-
-ART. 396.- El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+ART. 396.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
 > <small>(ADICIONADA, P.O. 21 DE MAYO DE 1998)</small>
 
@@ -1953,51 +1905,23 @@ ART. 396.- El juez que apruebe la adopción remitirá copia de las diligencias r
 
 De la Adopción Simple.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
+ART. 397.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-ART. 397.- Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el Artículo 152 de este Código.
+ART. 398.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
+ART. 399.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-ART. 398.- Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante, salvo que en su caso el adoptante esté casado con alguno de los progenitores del adoptado, porque entonces se ejercerá por ambos cónyuges.
+ART. 400.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
+ART. 401.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-ART. 399.- La adopción simple podrá convertirse en plena siempre que se cumplan los requisitos de ésta última, debiendo escucharse al adoptado en el caso a que se refiere la fracción IV del Artículo 392 anterior.
+ART. 402.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 1998)</small>
+ART. 403.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-ART. 400.- La adopción simple puede revocarse:
+ART. 404.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 392;
-
-II.- Por ingratitud del adoptado;
-
-> <small>(ADICIONADA, P.O. 21 DE MAYO DE 1998)</small>
-
-III.- Cuando la Procuraduría de la Defensa del Menor, considere que existe causa grave y justificada que ponga en peligro al menor, en este caso, dará vista al Ministerio Público.
-
-ART. 401.- Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
-
-I.- Si comete algún delito que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendentes o descendientes;
-
-II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendentes o descendientes;
-
-III.- Ci (sic) el adoptado rehusa dar alimento al adoptante que ha caído en pobreza.
-
-ART. 402.- En el primer caso del artículo 400, el juez decretará que la adopción queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
-
-ART. 403.- El Decreto del Juez deja sin efecto la adopción simple y restituye las cosas al estado que guardaban antes de efectuarse ésta.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
-
-ART. 404.- En el caso de la fracción II del Artículo 400, la adopción simple deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución que declare revocada la adopción sea posterior.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
-
-ART. 405.- La resolución que dicte el Juez, aprobando la revocación de la adopción simple, se comunicará al Oficial del Registro Civil en que tuvo lugar, para que cancele el acta de adopción.
+ART. 405.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 1998)</small>
 
@@ -2005,25 +1929,11 @@ ART. 405.- La resolución que dicte el Juez, aprobando la revocación de la adop
 
 De la Adopción Plena.
 
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 1998)</small>
+ART. 405-A.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-ART. 405-A.- El adoptado, bajo la forma de adopción plena, se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
+ART. 405-B.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-La adopción plena extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de estos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado con alguno de los progenitores del adoptado, no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
-
-La adopción plena es irrevocable.
-
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 1998)</small>
-
-ART. 405-B.- Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los siguientes casos y contando con la autorización judicial:
-
-I.- Cuando se trate de impedimento para contraer matrimonio; y
-
-II.- Cuando el adoptado desee conocer sus antecedentes familiares, pero siempre que sea mayor de edad, si es menor, se requerirá del consentimiento de los adoptantes.
-
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 1998)</small>
-
-ART. 405-C.- Pueden ser adoptados de manera plena el huérfano, expósito y el abandonado por mas de seis meses, el entregado por el padre o la madre a una institución de asistencia social pública o privada y los hijos del cónyuge.
+ART. 405-C.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE MAYO DE 1998)</small>
 
@@ -2031,41 +1941,15 @@ ART. 405-C.- Pueden ser adoptados de manera plena el huérfano, expósito y el a
 
 De la Adopción Internacional.
 
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 1998)</small>
+ART. 405-D.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-ART. 405-D.- La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional. Esta adopción se regirá por la Convención sobre Protección de Menores y Cooperación en Materia de Adopción Internacional y por los tratados internacionales que el Estado Mexicano suscriba y ratifique posteriormente.
+ART. 405-E.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional. Esta adopción se regirá por lo dispuesto en el presente Código.
+ART. 405-F.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 1998)</small>
+ART. 405-G.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
-ART. 405-E.- En igualdad de circunstancias se preferirá a los adoptantes mexicanos sobre los extranjeros, a menos que el que ejerza la patria potestad o la tutela sobre el menor consienta en la adopción. En tal caso, deberá obtener la autorización del Sistema Estatal para el Desarrollo Integral de la Familia, el que tomará en cuenta el interés superior del niño.
-
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 1998)</small>
-
-ART. 405-F.- Las adopciones internacionales promovidas por ciudadanos originarios de los países que son parte de la Convención sobre Protección de Menores y Cooperación en Materia de Adopción Internacional, tendrán lugar cuando el Sistema Estatal para el Desarrollo Integral de la Familia, en su carácter de autoridad central, verifique y determine:
-
-I.- Que el menor es adoptable;
-
-II.- Que después de haber examinado adecuadamente las posibilidades de colocación del menor, se vea que la adopción es una alternativa y responde al interés superior del menor;
-
-III.- Que las personas, instituciones y autoridades, cuyo consentimiento se requiera para la adopción, han sido convenientemente asesoradas y debidamente informadas de las consecuencias de su consentimiento, el cual debe otorgarse libremente, sin que medie pago o compensación de clase alguna y constar por escrito; y
-
-IV.- Que las autoridades centrales del Estado de origen de los solicitantes, acrediten que han constatado que los futuros padres adoptivos son adecuados y aptos para adoptar, y que el menor ha sido o será autorizado para entrar y residir permanentemente en ese país.
-
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 1998)</small>
-
-ART. 405-G.- Las adopciones internacionales promovidas por ciudadanos originarios de países que no son parte de la Convención sobre la Protección de Menores y Cooperación en Materia de Adopción Internacional, se apegarán a lo dispuesto en el Artículo 385 de este Código, además de cumplir con los requisitos siguientes:
-
-I.- Presentar certificado de idoneidad, expedido por las autoridades competentes del Estado en que habrá de residir el adoptado, que acredite fehacientemente que se considere al solicitante apto para adoptar;
-
-II.- Acreditar su legal estancia en el país, a través de la forma migratoria expedida por el gobierno mexicano; y
-
-III.- Presentar autorización de su estado de origen, que autorice al menor para entrar y residir permanentemente en dicho estado y la documentación pertinente, debidamente legalizada por el Consulado Mexicano, salvo que se disponga otro procedimiento en los tratados internacionales que haya celebrado México.
-
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 1998)</small>
-
-ART. 405-H.- Una vez decretada la adopción, el Juez de lo Familiar lo informará al Sistema Estatal para el Desarrollo Integral de la Familia, a la Secretaría de Relaciones Exteriores y a la autoridad migratoria dependiente de la Secretaría de Gobernación, para los efectos legales y administrativos subsecuentes.
+ART. 405-H.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
 ## TITULO OCTAVO.
 
@@ -2115,9 +1999,9 @@ ART. 413.- Las obligaciones, facultades y restricciones establecidas para los tu
 
 La anterior custodia podrá terminar por decisión de quien la ejerce o por resolución judicial.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-ART. 414.- En la adopción simple, la patria potestad sobre el hijo adoptivo la ejercerán únicamente las personas que lo adopten: En la adopción plena, la patria potestad se ejercerá en los términos del Artículo 409 de este Código.
+ART. 414. En la adopción, la patria potestad se ejercerá en los términos del Artículo 409 de este Código.
 
 ART. 415.- Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quiénes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
@@ -2219,11 +2103,11 @@ I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
 II.- Con la emancipación, derivada del matrimonio;
 
-III.- Por la mayor edad del hijo.
+III.- Por la mayor edad del hijo;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-IV. Con la adopción plena del hijo, en cuyo caso, la patria potestad la ejercerá el adoptante o los adoptantes.
+IV.- Con la adopción del hijo, en cuyo caso, la patria potestad la ejercerá el adoptante o los adoptantes.
 
 ART. 439.- La patria potestad se pierde:
 
@@ -2233,7 +2117,7 @@ I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derec
 
 II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 278;
 
-III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la ley penal;
+III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JULIO DE 2007)</small>
 
@@ -2243,13 +2127,25 @@ IV.- Por la exposición que el padre o la madre hicieren de sus hijos, o porque 
 
 Cuando se acredite que el menor es expósito, la pérdida de la patria potestad operará de inmediato;
 
-> <small>(ADICIONADA, P.O. 21 DE MAYO DE 1998)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-V.- Por la entrega que el padre o la madre o quien ejerce la patria potestad hiciere del menor a una institución de asistencia social pública o privada con la finalidad de que sea dado en adopción; y
+V.- Por la entrega que el padre o la madre o quien ejerce la patria potestad hiciere del menor a una institución de asistencia social publica de acuerdo a lo establecido por la Ley de Adopciones para el Estado de Durango con la finalidad de que sea dado en adopción;
 
 > <small>(ADICIONADA, P.O. 21 DE MAYO DE 1998)</small>
 
 VI.- Cuando se tolere que otras personas cometan atentado o pongan en riesgo la integridad física, psíquica o sexual de los menores.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+VII.- Cuando el que la ejerce incurra en conductas de violencia familiar de manera reiterada en contra de los menores sobre los que ejerzan la patria potestad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico de las sustancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos, sean utilizadas o recurrido de manera reiterativa, y habiéndose negado a asistir y recibir rehabilitación o atención médica y en tal virtud amenacen causar algún perjuicio cualquiera que éste sea al menor; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+IX.- Cuando quien o quienes ejercen la patria potestad sobre el menor, padezca trastorno mental incurable, previa declaración judicial de interdicción.
 
 ART. 440.- (DEROGADO, P.O. 18 DE ABRIL DE 2004)
 
@@ -2383,7 +2279,9 @@ ART. 474.- Deben observarse todas las reglas, limitaciones y condiciones puestas
 
 ART. 475.- Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare temporalmente el tutor testamentario, el juez proveerá de tutor interio (sic) al menor, conforme a las reglas generales sobre nombramientos de tutores.
 
-ART. 476.- El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+ART. 476.- El o los adoptantes que ejerzan la patria potestad tienen derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
 ### CAPITULO III.
 
@@ -2437,19 +2335,21 @@ ART. 486.- El tutor del incapacitado que tenga hijos menores bajo su patria pote
 
 De la tutela legitima de los menores abandonados y de los acogidos por alguna persona, o depositados en establecimientos de beneficencia.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-ART. 487.- El expósito y el abandonado quedarán bajo la tutela de la persona que lo haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+ART. 487.- El expósito y el abandonado quedarán bajo la tutela de la persona que lo haya acogido, por un término máximo de treinta días naturales quien tendrá las obligaciones facultades y restricciones establecidas para los demás tutores, debiendo dar aviso a las autoridades ministeriales correspondientes y a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, de manera inmediata.
 
-Es expósito el menor cuyo origen se desconoce y se coloca en situación de desamparo en un hospital, casa particular o algún paraje público o privado, por quienes conforme a la ley están obligados a protegerlo.
+Es expósito el menor cuyo origen se desconoce y se coloca en situación de desamparo en un hospital, casa particular o algún lugar público o privado, por quienes conforme a la ley están obligados a protegerlo.
 
-Es abandonado, el menor cuyo origen se conoce y que ha sido abandonado de manera irresponsable por quienes ejercen la patria potestad o tutela, dejando de cumplir con sus deberes conforme a la ley; aceptándose en el caso, la posibilidad de que alguna persona o institución lo acoja. En el caso de abandono, deberán transcurrir seis meses por lo menos.
+Es abandonado, el menor cuyo origen se conoce y que ha sido abandonado de manera irresponsable por quienes ejercen la patria potestad o tutela, dejando de cumplir con sus deberes conforme a la ley; aceptándose en el caso, la posibilidad de que alguna persona o institución lo acoja. En el caso de abandono, deberán transcurrir dos meses por lo menos.
 
-Los menores expósitos y abandonados podrán ser adoptados por las personas que los hayan acogido, previo aviso al Sistema Estatal para el Desarrollo Integral de la Familia, donde se verificará que, quienes tienen interés en adoptar, cumplan con los requisitos señalados en el Artículo 385 de este Código. Si quienes dieren aviso sobre menores expósitos o abandonados no los acogieren, deberán entregarlos al Sistema para su protección, cuidado y promoción de la adopción correspondiente.
+Los menores expósitos y abandonados podrán ser adoptados por las personas que los hayan acogido, de acuerdo a lo establecido en la Ley de Adopciones para el Estado de Durango.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-ART. 488.- Los directores de las casas de instituciones de asistencia social, beneficencia pública y privada, donde se reciban expósitos o abandonados, desempeñarán la tutela de éstos, conforme a su reglamentación interna y/o estatutos. En estos casos no será necesario el discernimiento del cargo.
+ART. 488.- El Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, desempeñará la tutela de los expósitos o abandonados que se encuentren en las casas de instituciones de asistencia social y beneficencia pública, conforme a su reglamentación interna. En estos casos no será necesario el discernimiento del cargo.
+
+Las instituciones privadas que acojan a un expósito o abandonado estarán sujetas en los términos del artículo 487 de este ordenamiento.
 
 > <small>(REFORMADO, P.O. 21 DE MAYO DE 1998)</small>
 
@@ -2479,15 +2379,19 @@ ART. 495.- A los menores que no estén sujetos a la patria potestad, ni a tutela
 
 ART. 496.- En el caso del artículo anterior, tienen obligación de desempeñar la tutela mientras duren en los cargos que a continuación se enumeran:
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-I. El Gobierno del Estado a través del Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Durango o de la Procuraduría de la Defensa del Menor y la Familia, mediante los delegados que se designe al efecto; o el Presidente Municipal del domicilio del menor;
+I.- El Gobierno del Estado a través del Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Durango o de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, mediante los delegados municipales que se designe al efecto; o el Presidente Municipal del domicilio del menor;
 
-II.- Los demás regidores del Ayuntamiento;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+II.- Los regidores del Ayuntamiento;
 
 III.- Las personas que desempeñan la autoridad administrativa en los lugares en donde no hubiere Ayuntamiento;
 
-IV.- Los profesores oficiales de instrucción primaria, secundaria o profesional, del lugar donde vive el menor;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+IV.- Los profesores de instrucción primaria, secundaria o profesional, del lugar donde vive el menor;
 
 V.- Los miembros de las juntas benéficas públicas o privadas que disfruten sueldo del Erario;
 
@@ -6717,7 +6621,7 @@ ART. 1857.- En el caso del artículo anterior, si la eleccioón (sic) es del deu
 
 ART. 1858.- En los casos de los artículos que preceden, el acreedor está obligado al pago de los daños y perjuicios.
 
-ART. 1859.- Si el obligado a prestar una cosa o ejecutar un hecho se rehusare a hacer lo segundo y la elección es del acreedeor ésta (sic) podrá exigir la cosa o la ejecución del hecho por un tercero en los términos del artículo 1908. Si la elección es del deudor, éste cumple entregando la cosa.
+ART. 1859.- Si el obligado a prestar una cosa o ejecutar un hecho se rehusare a hacer lo segundo y la elección es del acredeor ésta (sic) podrá exigir la cosa o la ejecución del hecho por un tercero en los términos del artículo 1908. Si la elección es del deudor, éste cumple entregando la cosa.
 
 ART. 1860.- Si la cosa se pierde por culpa del deudor y la elección es del acreedor, éste podrá exigir el precio de la cosa, la prestación del hecho o la rescisión del contrato.
 
@@ -7705,21 +7609,17 @@ De la forma del contrato de compra-venta.
 
 ART. 2197.- El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1982)</small>
-
-ART. 2198.- La venta de un inmueble que tenga un valor hasta de $40,000.00 (CUARENTA MIL PESOS), podrá hacerse en instrumento privado que firma el vendedor y el comprador ante dos testigos.
+ART. 2198.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
 ART. 2199.- Si alguno de los contratantes supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del artículo 1718.
 
 ART. 2200.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1982)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-ART. 2201.- Si el valor del inmueble excede de $40,000.00 (CUARENTA MIL PESOS), su venta se hará por medio de escritura pública.
+ART. 2201.- Todas las operaciones de compraventa de inmuebles, sin importar el valor de las mismas, deberán realizarse mediante escritura pública.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1982)</small>
-
-ART. 2202.- Tratándose de bienes ya inscritos en el Registro Público de la Propiedad y cuyo valor no exceda de $40,000.00 (CUARENTA MIL PESOS) cuando la venta sea al contado puede hacerse tramitándose el dominio por endoso puesto en el Certificado de Propiedad que el Registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes. El endoso será ratificado ante el Registrador que tiene la obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas y previa comprobación de que están cubiertos los impuestos correspondientes a la compra-venta realizada en esta forma; hará una nueva inscripción de los vienes (sic) vendidos en favor del comprador.
+ART. 2202.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
 ART. 2203.- La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
 
@@ -8221,7 +8121,7 @@ II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del
 
 III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2361.
 
-ART. 2371.- En los casos del artículo 2326 el arrendatario podrá rescindir el contrato cuando la pérdida del uso fuere total y aun cuando fuese parcial si la reparación durare más de dos meses.
+ART. 2371.- En los casos del artículo 2326 el arrendatario podrá rescindir el contrato cuando la pérdida del uso fuere total y aún cuando fuese parcial si la reparación durare más de dos meses
 
 ART. 2372.- Si el arrendatario no hiciere uso del derecho que para rescindir el contrato le concede el artículo anterior, hecha la reparación continuará en el uso de la cosa, pagando la misma renta hasta que termine el plazo del arrendamiento.
 
@@ -8583,7 +8483,7 @@ ART. 2479.- El mandante puede eixgir (sic) la devolución del instrumento o escr
 
 El mandante que descuide exigir los documentos que acrediten los poderes, del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
 
-ART. 3480 (SIC.- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
+ART. 3480 (SIC).- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
 
 ART. 2481.- Aunque el mandato termine por la muerte del mandante, debe el mandatario continuar en la administración, entre tanto los herederos proveen por sí mismos a los negocios, siempre que de lo contrario pueda resultar algún perjuicio.
 
@@ -10286,3 +10186,25 @@ P.O. 23 DE ABRIL DE 2009.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2009.
+
+DECRETO No. 423 POR EL QUE SE REFORMAN Y DEROGAN DIVERSOS ARTICULOS DEL CODIGO CIVIL.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Los derechos y obligaciones adquiridos por quienes sean partes en adopciones bajo el régimen de adopción simple estarán en lo conducente a lo dispuesto por los artículos correspondientes que se derogan en la entrada en vigor del presente decreto, y quedarán derogados en la medida en que aquellos queden agotados.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por la (sic) presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2009.
+
+DECRETO No. 429 POR EL QUE SE REFORMA Y DEROGAN LOS ARTICULOS 2198, 2201 Y 2202 DEL CODIGO CIVIL.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y que se opongan al presente decreto.
