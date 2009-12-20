@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-para-los-municipios-del-estado-de-durango-51504
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-20"
-last_updated: "2007-12-20"
+last_updated: "2009-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de julio de 2006.
 
@@ -323,11 +323,11 @@ En este último caso, si las construcciones ya hubieren sido terminadas, los int
 
 Lo dispuesto en este artículo sólo surtirá efectos en relación con el impuesto mencionado y las multas que se apliquen por violaciones a la presente Sección.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-No obstante, lo dispuesto en el párrafo anterior, los Notarios no otorgarán autorizaciones definitivas de escrituras, cuando no se acredite estar al corriente en el pago de cuotas y tarifas por servicio de agua potable, alcantarillado y saneamiento o se tengan adeudos por conceptos distintos del Impuesto Predial, mientras no se les compruebe que se han verificado los pagos respectivos. En estos supuestos, el Registro Público de la Propiedad se abstendrá de inscribir cualquier contrato traslativo de dominio formalizado en escritura pública o privada.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-Las constancias de no adeudo y las autorizaciones que se expidan a los Notarios, tendrán vigencia en el bimestre en que hubiesen sido expedidos y en el siguiente al de su expedición.
+Las constancias de no adeudo de Impuesto Predial y de multas y las autorizaciones que se expidan a los Notarios, tendrán vigencia en el bimestre en que hubiesen sido expedidos y en el siguiente al de su expedición.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
@@ -617,7 +617,9 @@ El Impuesto Sobre Traslación de Dominio será el que resulta de aplicar a la ba
 
 La base gravable del Impuesto sobre Traslación de Dominio será:
 
-I.- La que resulte mayor entre el valor catastral y el valor del mercado y/o valor de operación;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+I.- La que resulte mayor entre el valor catastral y el valor de la operación;
 
 II.- Tratándose de contratos por los que se transmite la nuda propiedad, el valor mayor que resulte de conformidad con las reglas de la fracción I de este artículo. En estos casos al transmitirse la nuda propiedad se causara el 75% del importe del impuesto que así resulte y al transmitirse el usufructo el 25% restante de dicho importe;
 
@@ -625,9 +627,11 @@ III.- Tratándose de contratos de compraventa o cualesquiera otros traslativos d
 
 IV.- Tratándose de contratos de permuta, aún cuando estén sujetos a condición suspensiva, el impuesto se causará por la transmisión de cada uno de los inmuebles que sean objeto del contrato, sobre el valor mayor que resulte para cada uno de ellos de conformidad con las reglas de la fracción I de este artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 80.
 
-Los sujetos pasivos de este impuesto presentarán en la Tesorería Municipal o su Equivalente del lugar de ubicación de los bienes, previa revisión que haga la autoridad catastral, una declaración por quintuplicado, acompañada de avalúo y plano expedidos por la autoridad catastral y avalúo de mercado expedido por perito valuador registrado y autorizado en el padrón municipal correspondiente y se hará en las formas que al efecto apruebe la autoridad catastral debiendo acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
+Los sujetos pasivos de este impuesto presentarán en la Tesorería Municipal o su equivalente del lugar de ubicación de los bienes, previa revisión que haga la autoridad catastral, una declaración por quintuplicado, acompañada de avalúo y plano expedidos por la autoridad catastral, la cual se hará en las formas que al efecto apruebe dicha autoridad, debiendo acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
 
 I.- Nombres y domicilios de los contratantes o del adquirente en su caso;
 
@@ -641,7 +645,9 @@ V.- Ubicación y nomenclatura oficial, superficie del terreno y de la construcci
 
 VI.- Antecedentes de propiedad del inmueble en el Registro Público de la Propiedad;
 
-VII.- El valor catastral determinado por la autoridad catastral, el valor de mercado y el valor de operación del inmueble motivo del traslado de dominio;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+VII.- El valor catastral determinado por la autoridad catastral y el valor de operación del inmueble motivo del traslado de dominio;
 
 VIII.- Número de la cuenta o clave catastral del Impuesto Predial;
 
@@ -661,9 +667,11 @@ c) Tratándose de compraventa con reserva de dominio o cualesquiera otros contra
 
 d) Tratándose de la adquisición de la propiedad de bienes inmuebles en virtud de prescripción o de remate judicial o administrativo; el plazo será de sesenta días contados a partir de la fecha en que hubieren quedado firmes las resoluciones respectivas.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 81.
 
-Recibida la declaración de Traslación de Dominio y los anexos a ésta, la autoridad correspondiente verificará dentro de un término de diez días si dichas declaraciones reúnen los requisitos legales y si está correcta la liquidación del impuesto, en caso contrario requerirá al interesado o al Notario Público correspondiente, mediante oficio que se notificará conforme a lo dispuesto en esta Ley, para que dentro de un término de los 15 días siguientes haga las declaraciones o correcciones que procedan.
+Al momento de recibir la declaración de Traslación de Dominio y los anexos a ésta, la autoridad correspondiente verificará si dicha declaración reúne los requisitos legales y si está correcta la liquidación del impuesto. Si los requisitos y la liquidación están bien, la autoridad, en un plazo que no excederá de 3 días hábiles deberá hacer los asientos de la traslación de dominio y emitir el recibo de pago. En caso de que los requisitos o la liquidación sean incorrectos, en el acto de recepción, el funcionario encargado de la ventanilla, requerirá al interesado o al Notario Público para que realice o realicen las correcciones que procedan, dentro del término de los 15 días siguientes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2007)</small>
 
@@ -1546,3 +1554,13 @@ Artículo Quinto.- Se derogan todas las disposiciones que se opongan al presente
 P.O. 20 DE DICIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto surtirá sus efectos legales a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Durango.
+
+P.O. 20 DE DICIEMBRE DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y que se opongan al presente decreto.
