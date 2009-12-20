@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-procedimientos-civiles-para-el-estado-de-durango-4706
 country: "mx"
 rank: "codigo"
 publication_date: "1948-08-22"
-last_updated: "2007-08-02"
+last_updated: "2009-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22, jueves 26 y domingo 29 de agosto; jueves 2, domingo 5, jueves 9, domingo 12, jueves 16, domingo 19, jueves 23, domingo 26 y jueves 30 de septiembre; domingo 3, jueves 7, domingo 10, jueves 14, domingo 17 y jueves 21 de octubre de 1948.
 
@@ -5951,9 +5951,9 @@ Toda cuestión que surja en los negocios a que se refieren los capítulos siguie
 
 En los negocios de menores e incapacitados intervendrán el juez de Primera Instancia y los demás funcionarios que determina el Código Civil.
 
-### CAPITULO II.. Del nombramiento de tutores y curadores
+### CAPITULO II.
 
-y discernimiento de estos cargos.
+Del nombramiento de tutores y curadores y discernimiento de estos cargos.
 
 ###### ARTICULO 891.
 
@@ -6135,45 +6135,45 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 Adopción.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 912.
 
-El que pretenda adoptar, deberá acreditar los requisitos señalados por el Artículo 385 del Código Civil, debiéndose observar, además, lo siguiente:
+El procedimiento judicial dará inició con la solicitud que presentarán los adoptantes ante el juzgado correspondiente, la cual deberá contener:
 
-I.- En la promoción inicial deberá manifestar el tipo de adopción que se promueve, el nombre, edad y si hubiere, domicilio del menor o personas con capacidad que se pretende adoptar; el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya acogido. Los estudios socioeconómicos, psicológicos, médicos y los que el Juez estime pertinente para efectuar el trámite de adopción, deberán realizarse por el Sistema Estatal para el Desarrollo Integral de la Familia, instituciones de salud pública, o peritos designados por el Juez;
+I.- Nombre y domicilio para oír y recibir notificaciones de los adoptantes;
 
-II.- Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada; el adoptante o la institución según sea el caso, recabarán constancias del tiempo del abandono para los efectos del Artículo 439, fracción IV del Código Civil;
+II.- Nombre y edad del menor que se pretende adoptar;
 
-III. Si hubieren transcurrido menos de seis meses del abandono, se decretará el depósito de quien se pretenda adoptar con el presunto adoptante, entretanto se consuma dicho plazo;
+III.- Hacer manifestación expresa de que se solicita una adopción;
 
-IV.- Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, siempre y cuando ello fuere aconsejable a criterio del Juez;
+IV.- Nombre de quienes otorguen el consentimiento de adopción de conformidad con el artículo 14 de la Ley de Adopciones para el Estado de Durango; y
 
-V.- En los supuestos en que el menor haya sido entregado a las instituciones a que se refiere la fracción anterior, por quienes ejerzan en él la patria potestad, para promover su adopción en cualquiera de sus dos formas, no se requerirá que transcurra el plazo de seis meses; y
+V.- Anexar los documentos con que se acrediten los requisitos que marca el artículo 7 de la Ley de Adopciones para el Estado de Durango.
 
-VI.- Tratándose de extranjeros se deberá acreditar su legal estancia o residencia en el país, autorización de la Secretaría de Gobernación para integrarse y permanecer en el país con la finalidad de realizar una adopción, para la cual deberán cumplir con lo que dispone el Código Civil en materia de Adopción Internacional. La documentación que presenten los solicitantes extranjeros en idioma distinto al español, deberá acompañarse de la traducción oficial, y además, deberá estar apostillada o legalizada por el cónsul mexicano.
+En caso de ser una adopción de un menor en situación de desamparo además deberán anexarse copia certificada de la sentencia de pérdida de patria potestad, o el acta a través de la cual se hizo la entrega voluntaria de la niña, niño o adolecente a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, así como las actas del Consejo Técnico de Adopciones del Sistema para el Desarrollo Integral de la Familia en el Estado de Durango en que se autoriza el inicio del trámite de adopción.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 913.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 392 y 393 del Código Civil, el tribunal resolverá dentro del tercr (sic) día.
+Presentado el escrito inicial, el Juez competente, fijará fecha para desahogar la diligencia en la cual se deberá levantar el consentimiento de adopción y escuchar a la niña, niño o adolescente que se pretende adoptar, en caso de que esto sea posible, así como a los adoptantes, dentro del término de cinco días hábiles, dando vista además al Agente del Ministerio Público adscrito a ese Juzgado de lo Familiar, quien se encontrará presente en dicha diligencia, y será escuchado durante todo el procedimiento de acuerdo al artículo 884 del presente Código.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 914.
 
-Cuando el adoptante y adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 402 del Código Civil.
-
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes los prestaron para la adopción y sin oír al representante del Ministerio Público.
-
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 1998)</small>
+El Juez competente contará con un término de diez días hábiles para conceder o negar la autorización de la adopción, posteriores a la celebración de la diligencia mencionada en el artículo anterior debiendo fundar y motivar los razonamientos de tal determinación; tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
 
 ###### ARTICULO 914-A.
 
-Cuando el adoptante o adoptantes soliciten la conversión de adopción simple a plena y se reúnan los requisitos previstos en el Artículo 399 del Código Civil, el juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, luego de la cual se resolverá lo conducente, en el término ocho días.
+(REFORMADO [N. DE E. DEROGADO], P.O. 20 DE DICIEMBRE DE 2009)
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 915.
 
-La impugnación de la adopción y su revocación, en los casos de los artículo 389 y 400 fracción II del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
+El procedimiento judicial de adopción concluirá con la orden que el Juez competente, mediante oficio gire al Oficial del Registro Civil donde se asentó el acta de nacimiento del menor para que se realicen las anotaciones marginales respectivas, y se incorpore un nuevo registro con los datos de los adoptantes como padres, sin hacer mención expresa de que se trata de una adopción y sin incluir algún dato que afecte la intimidad del mismo.
 
 ### CAPITULO V.
 
@@ -6940,3 +6940,11 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente al de su publi
 TERCERO.- Las notificaciones, que no se hubiesen hecho a la fecha de entrada en vigor del presente decreto, se deberán hacer conforme a las reglas del mismo, de lo contrario, serán nulas, previa promoción del medio de defensa que corresponda.
 
 CUARTO.- En tanto no cuenten con los equipos informáticos necesarios, las notarías públicas y las autoridades competentes a que se refiere la presente iniciativa de reforma y adición, se podrá recibir el informe de aviso de testamento impreso en papel hasta por un período de doce meses contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Los procedimientos por quienes sean partes en adopciones bajo el régimen de adopción simple seguirán rigiendo, en lo conducente, en los iniciados con anterioridad a la aplicación del presente decreto, y quedarán derogados en la medida en que aquellos queden agotados.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por la presente Decreto.
