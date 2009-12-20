@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2009-10-04"
+last_updated: "2009-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -629,7 +629,11 @@ Para los efectos de este Título, se entiende por salario, el salario mínimo ge
 
 Los servicios que se presten por el Registro Público de la Propiedad y del Comercio causarán derechos conforme a un porcentaje de la base que corresponda o en días de salario o fracción del mismo de acuerdo a lo siguiente:
 
-DÍAS DE SALARIO
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+DÍAS DE PORCENTAJE
+
+SALARIO
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -647,15 +651,13 @@ extinga el dominio o la posesión de bienes
 
 inmuebles: 200
 
-> <small>(DEROGADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+Tratándose de la primera enajenación de vivienda, no causarán los derechos por el registro, cuando las mismas se encuentren edificadas en una superficie no mayor de 180 M2 de terreno, con una superficie construida máxima de 80 M2 cuyo valor no exceda de la cantidad que resulte de multiplicar por veinte el salario mínimo general diario vigente en el Estado elevado al año.
 
-Tratándose de la primera enajenación de vivienda, no causarán los derechos por el registro, cuando las mismas se encuentren edificadas en una superficie no mayor de 180m2 de terreno y tenga una superficie construida máxima de 80 m2 y cuyo valor no exceda de la cantidad que resulte de multiplicar por quince el salario mínimo general diario vigente en el Estado elevado al año.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
-
-Tratándose de la primera enajenación de vivienda, que se encuentre edificada en una superficie no mayor de 180m2 y tenga una superficie construida máxima de 100 2m y cuyo valor no exceda de la cantidad que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado elevado al año, tendrán derecho a una reducción del 50% en el monto del derecho que se cause.
+Tratándose de la primera enajenación de vivienda, que se encuentre edificada en un a (sic) superficie no mayor de 180 M2, con una superficie construida máxima de 130 M2, cuyo valor no exceda de la cantidad que resulte de multiplicar por treinta y dos el salario mínimo general diario vigente en el Estado elevado al año, tendrán derecho a una reducción del 50% en el monto del derecho que se cause.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -669,27 +671,39 @@ Tendrán derecho a una reducción del 50% en el monto del derecho que se cauce p
 
 Por lo que respecta a los subsidios mencionados en la presente fracción, sólo serán otorgados para aquellos contribuyentes que adquieran inmuebles con finalidad de construcción y ocupación habitacional propia. Por tanto, quedan excluidas las personas físicas o morales cuya actividad habitual sea la compra venta de terrenos con fines de lucro.
 
-II.- La inscripción de gravámenes sobre inmuebles por contratos; por resoluciones judiciales; por disposición testamentaria; por títulos que limiten el dominio del vendedor; por embargos; deudas hipotecarias; servidumbres y fianzas; por títulos en virtud de los cuales se adquieran, trasmitan, modifiquen o extingan derechos reales sobre inmuebles distintos de dominio; sobre el monto de la obligación garantizada o sobre el monto de la operación, según corresponda. 1.0%
+II.- La inscripción de gravámenes sobre inmuebles
+
+por contratos; por resoluciones judiciales; por
+
+disposición testamentaria; por títulos que limiten
+
+el dominio del vendedor; por embargos; deudas
+
+hipotecarias; servidumbres y fianzas; por títulos
+
+en virtud de los cuales se adquieran, trasmitan,
+
+modifiquen o extingan derechos reales sobre
+
+inmuebles distintos de dominio; sobre el monto
+
+de la obligación garantizada o sobre el monto
+
+de la operación, según corresponda. 1.0%
 
 III.- La cancelación de la inscripción a que se refiere la fracción anterior, sobre el monto de la obligación garantizada o sobre el monto de la operación, según corresponda. 0.15%
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-IV.- La inscripción de contratos de créditos
+IV.- La inscripción de contratos de crédito hipotecarios, prendarios, refaccionarios y de habilitación y avío, celebrados por instituciones de crédito, de seguros o fianzas y organizaciones auxiliares o por sociedades financieras de objeto limitado, Sociedades Financieras de Objeto Múltiple y Sociedades Nacionales de Crédito. Así como la inscripción de créditos con garantía hipotecaria otorgados por los gobiernos Federal, Estatal y Municipales, dependencias gubernamentales, órganos desconcentrados, organismos descentralizados y en general por instituciones públicas pertenecientes a cualquiera de los tres niveles de gobierno.
 
-hipotecarios, prendarios, refaccionarios y de
+100 0.50%
 
-habilitación y avío, celebrados por instituciones
+La cancelación de inscripción a que se refiere
 
-de crédito, de seguros o fianzas y
+la presente fracción, sobre el monto de la
 
-organizaciones auxiliares o por sociedades
-
-financieras de objeto limitado. 100
-
-La cancelación de inscripción a que se refiere la
-
-presente fracción, sobre el monto de la operación: 0.15%
+operación: 0.15%
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2007)</small>
 
@@ -2762,3 +2776,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 20 DE NOVIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y que se opongan al presente decreto.
