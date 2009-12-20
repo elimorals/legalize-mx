@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-catastro-para-el-estado-de-durango-16744"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-06-18"
-last_updated: "2000-06-18"
+last_updated: "2009-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE CATASTRO PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 18 de junio de 2000.
 
@@ -491,9 +491,11 @@ Los propietarios, poseedores o arrendatarios de bienes inmuebles, están obligad
 
 Los propietarios, poseedores o sus representantes, están obligados a manifestar a la autoridad catastral, cualquier modificación que se haga a los elementos que caractericen al bien inmueble, tales como construcciones, ampliaciones, remodelaciones, fusión, subdivisión, relotificación y fraccionamiento o cualquiera otra prevista por esta Ley, dentro del plazo de quince días hábiles contados a partir de la fecha de la modificación.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 33.
 
-Los Notarios Públicos o funcionarios que actúen con fe pública en el otorgamiento de contratos o actos que transmitan el dominio de un bien inmueble, no ejecutarán ninguna operación si el interesado no les presenta el avalúo expedido por la autoridad competente o persona autorizada en términos legales, relativo al bien inmueble de referencia y con antigüedad máxima hasta de un año.
+Los Notarios Públicos o funcionarios que actúen con fe pública en el otorgamiento de contratos o actos que transmitan el dominio de un bien inmueble, no podrán ejecutar ninguna operación si el interesado no les presenta el avalúo expedido por la autoridad competente, relativo al bien inmueble de referencia y con antigüedad máxima hasta de un año.
 
 ###### ARTÍCULO 34.
 
@@ -666,3 +668,15 @@ POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPOND
 DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS CATORCE DIAS DEL MES DE JUNIO DEL DOS MIL.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER; EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y que se opongan al presente decreto.
