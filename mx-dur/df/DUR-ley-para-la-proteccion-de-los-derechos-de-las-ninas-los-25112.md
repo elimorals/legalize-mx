@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-proteccion-de-los-derechos-de-las-ninas-los-25112"
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-23"
-last_updated: "2002-05-23"
+last_updated: "2009-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
 
-Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 23 de mayo de 2002.
+Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de mayo de 2002.
 
 EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, SABED:
 
@@ -635,13 +635,13 @@ Si la o las personas denunciadas tuvieren relación directa de filiación, paren
 
 ###### Artículo 64.
 
-En los casos en que el Ministerio Público lo considere necesario, dispondrá que los niños, niñas y adolescentes y sus familias, sigan un tratamiento psicológico a fin de mejorar el ambiente familiar, o en el caso de que el daño traiga como consecuencia la comisión de un delito, ejercitará la acción ante los Tribunales competentes.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 65.
 
-Una vez aplicado el tratamiento especializado a que se refiere el artículo anterior, el Ministerio Público determinará de acuerdo al dictamen correspondiente y escuchando a la Procuraduría de la Defensa del Menor, si el menor puede o no reintegrarse a su hogar.
-
-En los casos en que los padres, no muestren interés alguno por mejorar la situación familiar, o se vea que es perjudicial para las niñas, niños y adolescentes reintegrarlos, la Procuraduría de la Defensa del Menor, iniciará y tramitará en todas sus etapas procesales, el Juicio de Perdida de Patria Potestad, de acuerdo con el artículo 439 del Código civil vigente en el Estado.
+Una vez tomadas las medidas de protección señaladas en los artículos 61 y 62 de esta Ley, el Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, emitirá un acuerdo a través del cual determinará si la niña, niño o adolescente debe o no reintegrarse a su seno familiar; y en caso de considerar que no es favorable para éste reintegrarse por afectar su integridad física, emocional y/o sexual se apegará a lo dispuesto por la Ley de Adopciones para el Estado de Durango.
 
 ###### Artículo 66.
 
@@ -700,3 +700,11 @@ LIC. ANGEL SERGIO GUERRERO MIER. RUBRICA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO. RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
