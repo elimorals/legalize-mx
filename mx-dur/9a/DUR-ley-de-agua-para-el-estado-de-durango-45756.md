@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-para-el-estado-de-durango-45756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-07"
-last_updated: "2008-07-13"
+last_updated: "2009-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE AGUA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de julio de 2005.
 
@@ -1505,7 +1505,7 @@ Están obligados a contratar y cumplir con el pago y requisitos que establece la
 
 I.- Los propietarios o poseedores a cualquier título de predios edificados;
 
-II.- Los propietarios o poseedores a cualquier título de predios no edificados, cuando frente a los mismos existan instalaciones adecuadas para los servicios que sean requeridos; y
+II.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2009)
 
 III.- Los propietarios o poseedores de giros mercantiles, industriales o de cualquier otra actividad que por su naturaleza estén obligados a conectarse a los sistemas de abastecimiento de agua potable, alcantarillado y saneamiento, incluido el suministro de agua residual tratada.
 
@@ -1563,17 +1563,21 @@ Las personas físicas o morales obligadas a contratar los servicios de agua pota
 
 Cuando la solicitud para contratar los servicios de agua potable, alcantarillado y saneamiento, que presenten los interesados no cumpla con los requisitos necesarios, se prevendrá a éstos para que los satisfagan dentro del término de cinco días hábiles contados a partir de la fecha en que reciban la comunicación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 133.
 
-Presentada la solicitud debidamente requisitada, dentro de los cinco días hábiles siguientes, se practicará una inspección de la unidad habitacional, predio, giro o establecimiento de que se trate. La inspección a que se refiere este artículo tendrá por objeto:
+Presentada la solicitud debidamente requisitada, dentro de los dos días hábiles siguientes, se practicará una inspección de la unidad habitacional, predio, giro o establecimiento de que se trate. La inspección a que se refiere este artículo tendrá por objeto:
 
 I.- Corroborar la veracidad de los datos proporcionados por el solicitante;
 
-II.- Conocer las circunstancias que el organismo operador considere necesarias para determinar sobre la prestación de los servicios y el presupuesto correspondiente;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-III.- Estimar el presupuesto que comprenderá el importe del material necesario y la mano de obra, ruptura y reposición de banqueta, guarnición y pavimento si lo hubiese, así como cualquier otro trabajo que se requiera para estar en condiciones de prestar los servicios solicitados; y
+II.- Conocer las circunstancias que el organismo operador considere necesarias para determinar sobre la prestación de los servicios;
 
-IV.- Pagar la factibilidad de servicios solicitados.
+III.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2009)
+
+IV.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2009)
 
 ###### Artículo 134.
 
@@ -1645,9 +1649,11 @@ Todo predio en el que se construyan edificios o condominios que tengan como dest
 
 Las fraccionadoras o urbanizadoras de conjuntos habitacionales deberán construir por su cuenta las instalaciones y conexiones de agua potable, alcantarillado y saneamiento necesarias de conformidad con el proyecto autorizado por la autoridad competente y las especificaciones del municipio, el organismo operador correspondiente o, en su caso, por la Comisión; dichas obras pasarán al patrimonio de éste una vez que estén en operación.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 147.
 
-Cuando los sistemas operadores estén en posibilidad de otorgar factibilidad de servicios proporcionando los volúmenes de agua potable y teniendo la disposición para recibir las aguas residuales en su sistema de alcantarillado, requerido por los fraccionamientos o los nuevos usuarios habitacionales, comercial y de servicios. Estos solicitarán la factibilidad de servicios de acuerdo a la presente Ley y el reglamento del organismo operador.
+Cuando los sistemas operadores estén en posibilidad de otorgar los servicios de agua potable, drenaje y alcantarillado, de conformidad con los volúmenes requeridos por los fraccionamientos o los nuevos usuarios habitacionales, comerciales y de servicios, éstos solicitarán la contratación y conexión de los servicios de acuerdo con la presente Ley y el reglamento del organismo operador.
 
 ###### Artículo 148.
 
@@ -1943,9 +1949,11 @@ Para dar cumplimiento a las disposiciones de esta Ley y la Reglamentación respe
 
 Las facultades de los inspectores, serán las que expresamente les otorgan esta Ley y los Reglamentos relativos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 188.
 
-Se deberán practicarán (sic) inspecciones de conformidad con esta legislación, para:
+Se deberán practicar inspecciones de conformidad con esta legislación, para:
 
 I.- Verificar que el uso de los servicios sea el contratado;
 
@@ -2610,3 +2618,13 @@ P.O. 13 DE JULIO DE 2008.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por la presente.
+
+P.O. 20 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y que se opongan al presente decreto.
