@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2007-12-02"
+last_updated: "2009-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -241,9 +241,13 @@ LVI. Unidad de propiedad exclusiva: A la casa, departamento, vivienda, local o �
 
 LVII. Usuarios: A toda persona que utiliza un servicio público;
 
-LVIII. Vivienda de Interés Social: Aquella cuyo valor, al término de su construcción, no exceda de la suma que resulte de multiplicar por veinte el salario mínimo general elevado al año vigente en el estado;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-LIX. Vivienda Popular: Aquella cuyo valor al término de su construcción, no exceda de la suma que resulte de multiplicar por treinta y tres el salario mínimo general elevado al año vigente en el estado;
+LVIII. Vivienda de Interés Social: La vivienda, progresiva o terminada, que se encuentre edificada en una superficie no mayor de 180 M2, de terreno, con una superficie construida máxima de 80 M2, cuyo valor no exceda de la cantidad que resulte de multiplicar por veinte el salario mínimo general diario vigente en el Estado elevado al año, y que no cuente con todos los servicios de urbanización;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+LIX. Vivienda Popular: La vivienda terminada que se encuentre edificada en una superficie no mayor de 180 M2, de terreno, con una superficie construida máxima de 130 M2, cuyo valor no exceda de la cantidad que resulte de multiplicar por treinta y dos el salario mínimo general diario vigente en el Estado elevado al año y que con todos los servicios de urbanización;
 
 LX. Zona de Conurbación: El área circular generada por un radio de 10 kilómetros. El centro de dicha área es el punto de intersección de la línea fronteriza entre los municipios, y la que resulte de unir los centros de población correspondientes. El Gobernador del Estado y los ayuntamientos correspondientes podrán acordar una dimensión mayor; y
 
@@ -377,7 +381,7 @@ VIII.- Ejercer las atribuciones que la presente Ley le establece en los casos de
 
 IX.- Asesorar y apoyar a la Comisión para la Preservación del Patrimonio Cultural del Estado, respecto de las solicitudes para la construcción, modificación o demolición de monumentos, edificios, residencias o construcciones en el Estado que tengan un valor artístico, histórico o cultural;
 
-X.- Expedir las constancias estatales de compatibilidad urbanística, de acuerdo a lo previsto en la presente Ley y en el Programa Estatal de Desarrollo Urbano;
+X.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2009)
 
 XI.- Calificar las infracciones e imponer las medidas de seguridad y sanciones resolviendo sobre los recursos administrativos que conforme su competencia le sean planteados y que deriven de la aplicación de la presente Ley; y
 
@@ -1731,7 +1735,9 @@ VI.- De electrificación y alumbrado público;
 
 VII.- De protección civil, y
 
-VII (SIC).- De Catastro.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+VIII.- De Catastro.
 
 ###### ARTÍCULO 147.
 
@@ -2655,7 +2661,7 @@ a) Cuando se hayan ejecutado la totalidad de las obras de urbanización y de las
 
 b) Cuando se hayan terminado una etapa de construcción completa y las obras de urbanización correspondientes a esa etapa, estén concluidas y en condiciones de operación y previendo la interconexión a obras de cabeza de esa etapa y de las consecutivas hasta su conclusión; y
 
-c) Solamente podrán municipalizarse los fraccionamientos habitacionales o de lotes con servicios, cuando tengan un mínimo del 60% de ocupación efectiva o real.
+c) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2009)
 
 ###### ARTÍCULO 230.
 
@@ -2885,9 +2891,13 @@ En todos los casos será responsable solidario el perito o director responsable 
 
 Para el otorgamiento de las licencias de urbanización y construcción para fraccionamientos o condominios, se deberán acompañar las constancias de compatibilidad urbanística expedidas por las dependencias correspondientes, una vez cumplido este requisito la Dirección Municipal competente, otorgará la licencia de urbanización; y una vez cumplidos estos requisitos, el fraccionador o propietario podrá solicitar la licencia de construcción; iniciada ésta, se procederá a su inspección y supervisión.
 
-Conforme se vayan entregando las viviendas, la Dirección Municipal correspondiente, otorgará la constancia de uso y habitabilidad, con el propósito de los adquirentes tengan la seguridad de que la vivienda cuenta con las especificaciones de construcción y los servicios públicos; al llegar al 60% de la viviendas habitadas, será factible iniciar el procedimiento de municipalización, de conformidad con el artículo 229 de esta ley.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-Una vez recibida la solicitud de municipalizacion, el Ayuntamiento citará al desarrollador, a efecto de que se realice una inspección final del fraccionamiento o condominio, para verificar el cumplimiento de los requisitos urbanos señalados en el Título Séptimo de esta ley, levantándose el acta correspondiente, en la cual se determinará lo siguiente:
+Conforme se vayan entregando las viviendas, la Dirección Municipal correspondiente, otorgará la constancia de uso y habitabilidad, con el propósito de que los adquirentes tengan la seguridad de que la vivienda cuenta con las especificaciones de construcción y los servicios públicos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+Dentro de los 15 días siguientes a la fecha del acta de terminación de obra, el fraccionador deberá solicitar ante la Dirección de Obras Públicas del Municipio la municipalización del fraccionamiento. Dentro de los dos días siguientes a la recepción de la solicitud, la Dirección de Obras Públicas integrará el expediente respectivo con el proyecto autorizado, las bitácoras de obra en las que consten las supervisiones municipales y sus resultados, así como el acta de terminación de obra, el cual enviará al Ayuntamiento al día siguiente. Una vez recibido el expediente, el Ayuntamiento citará al desarrollador, a efecto de que, en un plazo no mayor de cinco días se realice la inspección final del fraccionamiento o condominio, junto con un perito y un supervisor, para verificar el cumplimiento de los requisitos urbanos señalados en el Título Séptimo de esta ley, levantándose el dictamen técnico correspondiente, en el cual se determinará lo siguiente:
 
 I. El estado físico de las obras de urbanización;
 
@@ -2903,11 +2913,11 @@ Tratándose de fraccionamientos autorizados en etapas, se observará además de 
 
 El dictamen técnico a que se refiere el artículo anterior, tendrá por objetivo sancionar que el fraccionador o promovente, haya cumplido con todas las obligaciones que le señala la presente ley y ejecutado las obras de urbanización, conforme al proyecto definitivo del fraccionamiento o condominio autorizado.
 
-(REUBICADO, P.O. 2 DE DICIEMBRE DE 2007)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 249.
 
-El dictamen técnico correspondiente será elaborado por el perito y supervisor encargados debiéndose hacer del conocimiento de la autoridad municipal la cual notificará al fraccionador o al promovente; además, en su caso, a la asociación de colonos o la asamblea de condóminos.
+El perito y el supervisor deberán entregar al Ayuntamiento el dictamen técnico correspondiente, a más tardar tres días después de realizada la inspección para su aprobación final en la siguiente sesión de Cabildo, y el resolutivo deberá de turnarse al día siguiente a la Dirección de Obras Públicas, para que en un término de tres días se levante el acta administrativa a que se refiere el artículo 230 de esta ley.
 
 En el caso de que el dictamen técnico no apruebe la totalidad de las obras de urbanización, el fraccionador o promovente deberá corregir a su costa, las anomalías que se desprenden de dicho dictamen, para que posteriormente el ayuntamiento apruebe el dictamen definitivo.
 
@@ -3720,3 +3730,13 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente 
 TERCERO.- Para adecuar las disposiciones reglamentarias municipales al contenido del presente decreto, los Ayuntamientos dispondrán de un plazo máximo de noventa días contados a partir de su entrada en vigor.
 
 CUARTO.- Las solicitudes de municipalización de fraccionamientos o condominios, presentadas con anterioridad a la entrada en vigor del presente decreto, deberán continuar y concluir su trámite, de conformidad con la normatividad que se encontraba en vigor a la fecha de su presentación.
+
+P.O. 20 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y que se opongan al presente decreto.
