@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-vivienda-del-estado-de-durango-y-sus-municipios-53547"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-17"
-last_updated: "2006-12-17"
+last_updated: "2009-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE VIVIENDA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 17 de diciembre de 2006.
 
@@ -117,9 +117,13 @@ XXII. Suelo social: La superficie de terrenos destinada para la producción de v
 
 XXIII. Vivienda progresiva: La acción destinada a satisfacer las necesidades habitacionales y cambiantes de las familias desde las etapas iniciales, en un proceso paulatino y discontinuo de construcción y adaptación;
 
-XXIV. Vivienda popular: La vivienda que se encuentre edificada en una superficie no mayor de 180 M2 de terreno y tenga una superficie construida máxima de 80 M2 y cuyo valor no exceda de la cantidad que resulte de multiplicar por quince el salario mínimo general diario vigente en el Estado elevado al año; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
-XXV. Vivienda de interés social: La vivienda que se encuentre edificada en una superficie no mayor de 180 M2 de terreno y tenga una superficie construida máxima de 100 M2 y cuyo valor no exceda de la cantidad que resulte de multiplicar por veinticinco el salario mínimo general diario vigente en el Estado elevado al año.
+XXIV. Vivienda popular: La vivienda terminada que se encuentre edificada en una superficie no mayor de 180 M2 de terreno, con una superficie construida máxima de 130 M2, cuyo valor no exceda de la cantidad que resulte de multiplicar por treinta y dos el salario mínimo general diario vigente en el Estado elevado al año y con todos los servicios de urbanización; y
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+XXV. Vivienda de interés social: La vivienda, progresiva o terminada, que se encuentre edificada en una superficie no mayor de 180 M2 de terreno, con una superficie construida máxima de 80 M2, cuyo valor no exceda de la cantidad que resulte de multiplicar por veinte el salario mínimo general diario vigente en el Estado elevado al año, y que no cuente con todos los servicios de urbanización.
 
 ###### Artículo 6.
 
@@ -1198,3 +1202,15 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y que se opongan al presente decreto.
