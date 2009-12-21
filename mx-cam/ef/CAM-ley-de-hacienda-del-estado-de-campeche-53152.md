@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-53152"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2006-12-21"
+last_updated: "2009-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 21 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en la Sección Legislativa al Periódico Oficial del Estado de Campeche, el jueves 21 de diciembre de 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+
+Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el jueves 21 de diciembre de 2006.
 
 JORGE CARLOS HURTADO VALDEZ, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
 
@@ -1440,3 +1442,117 @@ C. Vania María Kelleher Hernández, Diputada Presidenta.- C. Uvaldo Enrique Riv
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veinte días del mes de diciembre del año dos mil seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SUBSECRETARIO "A" DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARIA DE GOBIERNO, LIC. RICARDO MEDINA FARFAN.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La Ley de Hacienda del Estado de Campeche contenida en este decreto, entrará en vigor el día uno de enero de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Hacienda del Estado de Campeche, publicada en el Periódico Oficial del Estado el 21 de diciembre de 2006, así como todos aquellos decretos que en su oportunidad la modificaron y se derogan todas las demás disposiciones legales, reglamentarias y administrativas de carácter general en lo que se opongan al contenido del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se ratifican los Convenios de Colaboración Administrativa en materia Hacendaria de Ingresos, celebrados durante la vigencia de la Ley que este Decreto abroga por el Estado con los Municipios, para que éstos efectúen la administración del Impuesto Sobre Nóminas que ellos mismos causen.
+
+###### ARTÍCULO CUARTO.
+
+Para la aplicación de la tarifa del impuesto sobre nóminas, prevista en el artículo 24 de la ley de Hacienda del Estado de Campeche, durante los años 2010, 2011 y 2012, se aplicará gradualmente de la siguiente manera:
+
+2010
+
+LÍMITE LÍMITE CUOTA FIJA TASA
+
+INFERIOR SUPERIOR $ APLICABLE
+
+$ $
+
+0.01 252,625 0.00 2.000 %
+
+252,626 525,752 5,052.50 2.050 %
+
+525,753 2,520,124 10,651.58 2.100 %
+
+2,520,125 5,207,421 52,533.37 2.150 %
+
+5,207,422 8,559,929 110,310.24 2.200 %
+
+8,559,930 EN ADELANTE 184,065.39 2.250 %
+
+2011
+
+LÍMITE LÍMITE CUOTA FIJA TASA
+
+INFERIOR SUPERIOR $ APLICABLE
+
+$ $
+
+0.01 252,625 0.00 2.000 %
+
+252,626 525,752 5,052.50 2.100 %
+
+525,753 2,520,124 10,788.15 2.200 %
+
+2,520,125 5,207,421 54,664.31 2.300 %
+
+5,207,422 8,559,929 116,472.12 2.400 %
+
+8,559,930 EN ADELANTE 196,932.28 2.500 %
+
+2012
+
+LÍMITE LÍMITE CUOTA FIJA TASA
+
+INFERIOR SUPERIOR $ APLICABLE
+
+$ $
+
+0.01 252,625 0.00 2.000%
+
+252,626 525,752 5,052.50 2.150 %
+
+525,753 2,520,124 10,924.71 2.300 %
+
+2,520,125 5,207,421 56,795.24 2.450 %
+
+5,207,422 8,559,929 122,633.99 2.600 %
+
+8,559,930 EN ADELANTE 209,799.17 2.750 %
+
+2013 Y POSTERIORES
+
+LÍMITE LÍMITE CUOTA FIJA TASA
+
+INFERIOR SUPERIOR $ APLICABLE
+
+$ $
+
+0.01 252,625 0.00 2.000 %
+
+252,626 525,752 5,052.50 2.200 %
+
+525,753 2,520,124 11,061.27 2.400 %
+
+2,520,125 5,207,421 58,926.18 2.600 %
+
+5,207,422 8,559,929 128,795.87 2.800 %
+
+8,559,930 EN ADELANTE 222,666.07 3.000 %
+
+###### ARTÍCULO QUINTO.
+
+La determinación y los pagos del Impuesto Sobre Tenencia o Uso de Vehículos de carácter federal correspondientes a ejercicios fiscales de 2009 y anteriores, se realizaran conforme a las disposiciones vigentes en el ejercicio fiscal correspondiente, de cuya recaudación se participará a los Municipios en términos de lo dispuesto en la Ley de Coordinación Hacendaria del Estado de Campeche.
+
+A partir de la vigencia del Impuesto Sobre Tenencia o Uso de Vehículos estatal, de los recursos que perciba la Hacienda Pública del Estado, sus municipios percibirán el 20% del monto de la recaudación que se obtengan en sus respectivas jurisdicciones territoriales de conformidad con las bases de colaboración que a efecto se establezcan entre el Estado y sus Municipios, deduciendo los gastos de administración que ocasione la recaudación del citado impuesto, así como las cantidades que el Estado recupere a través de actos de fiscalización y de procedimiento administrativo de ejecución.
+
+###### ARTÍCULO SEXTO.
+
+Los sujetos del Impuesto Estatal Sobre Tenencia o Uso de Vehículos, deberán de registrarse o, regularizarse en términos de la Ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche y su Reglamento, así como ante la Secretaría de Finanzas para efectos del Registro Estatal Vehicular.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para efectos de esta Ley se entenderá que la tarifa a que hace referencia la fracción I del artículo 45 de esta ley se encuentra actualizada al 31 de diciembre del 2009.
