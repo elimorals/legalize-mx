@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-698
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-28"
-last_updated: "2009-08-28"
+last_updated: "2009-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69827&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-07-30"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL DE HIDROCARBUROS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de agosto de 2009.
 
@@ -213,9 +213,11 @@ El Secretario Ejecutivo adjuntará a la convocatoria la documentación necesaria
 
 La convocatoria y demás documentación podrá ser distribuida por medios impresos o electrónicos, siempre que se recabe constancia de su recepción.
 
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 14.
 
-Cuando no sea posible llevar a cabo alguna sesión ordinaria por tratarse de un día inhábil, la sesión tendrá verificativo el día hábil inmediato posterior. El Presidente instruirá al Secretario Ejecutivo que notifique a los asistentes y prepare la sesión en los términos del artículo anterior.
+Cuando no sea posible llevar a cabo alguna sesión ordinaria en la fecha preestablecida, se realizará en aquélla que por acuerdo decida el Organo de Gobierno. El Presidente instruirá al Secretario Ejecutivo para que convoque y prepare la sesión en los términos del artículo anterior.
 
 ###### Artículo 15.
 
@@ -311,7 +313,13 @@ VIII. Las demás que le confiera mediante acuerdo el Organo de Gobierno y las qu
 
 Para la mejor organización del trabajo, el Presidente podrá, sin perjuicio de su ejercicio directo, delegar sus atribuciones en servidores públicos subalternos, mediante acuerdos que deberán ser publicados en el Diario Oficial de la Federación.
 
-Son indelegables las atribuciones del Presidente señaladas en el artículo 10, fracciones III, V, VI y VII de la Ley; la representación de la Comisión, salvo por lo que se refiere a las atribuciones del Secretario Ejecutivo en el artículo 28, fracciones VIII y XIII, del Director General Jurídico en el artículo 30, fracciones VI, VII, VIII y XI del Director General de Supervisión y Control de Actividades Petroleras en el artículo 32, fracción V, del Reglamento Interno, así como sus funciones como integrante del Organo de Gobierno.
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2009)</small>
+
+Son indelegables las atribuciones del Presidente señaladas en el artículo 10, fracciones III y VI de la Ley, así como sus funciones como integrante del Organo de Gobierno.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2009)</small>
+
+Asimismo, podrá autorizar por escrito a servidores públicos subalternos para que realicen actos y suscriban documentos específicos, cuando para ello no se requiera acuerdo delegatorio.
 
 ### CAPITULO V. De los comisionados
 
@@ -321,7 +329,9 @@ Además de las atribuciones que señale la Ley, el Reglamento Interno y otros or
 
 I. Participar en el proceso de formulación del anteproyecto de presupuesto;
 
-II. Nombrar y remover a su personal de apoyo directo, de acuerdo con el presupuesto y estructura autorizada de la Comisión;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2009)</small>
+
+II. Solicitar que se nombre o remueva a su personal de apoyo directo, de acuerdo con el presupuesto y estructura autorizada de la Comisión;
 
 III. Participar en foros, eventos, reuniones o negociaciones relacionados con la competencia de la Comisión, cuando así lo decida el Organo de Gobierno;
 
@@ -371,9 +381,13 @@ XII. Auxiliar al Presidente en la administración del presupuesto aprobado a la 
 
 XIII. Llevar a cabo las operaciones que requiera la Comisión en materia de adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con la misma conforme a la normativa aplicable sobre la materia, incluyendo la celebración de pedidos, contratos y convenios y en los términos que le instruya el Presidente;
 
-XIV. Elaborar los proyectos de manuales de organización y de procedimientos de la Comisión y someterlos a la consideración del Presidente;
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2009)</small>
 
-XV. Auxiliar al Presidente en la tramitación de los asuntos de carácter administrativo de la Comisión y apoyar a las diferentes unidades de la Comisión en sus diversas actividades administrativas en el ámbito de su responsabilidad;
+XIV. Coordinar con las unidades que correspondan la elaboración de los proyectos de manuales de organización y de procedimientos de la Comisión y someterlos a la consideración del Presidente;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2009)</small>
+
+XV. Tramitar los asuntos de carácter administrativo de la Comisión y apoyar a las diferentes unidades de la Comisión en sus diversas actividades administrativas, en el ámbito de su responsabilidad;
 
 XVI. Atender, conforme a los lineamientos que señale el Presidente, los asuntos del personal, su capacitación y el mejoramiento de sus condiciones económicas, sociales, culturales y de trabajo;
 
@@ -383,7 +397,15 @@ XVIII. Establecer, controlar y evaluar los Programas Internos de Protección Civ
 
 XIX. Proponer lineamientos de carácter administrativo para la mejor organización de la Comisión;
 
-XX. Las demás funciones, encargos y asuntos que le encomienden, según sea el caso, el Organo de Gobierno o el Presidente, así como las demás que sean necesarias para el ejercicio de su competencia.
+> <small>(ADICIONADA, D.O.F. 21 DE DICIEMBRE DE 2009)</small>
+
+XX. Expedir certificaciones de los documentos que obren en los archivos de la Comisión, siempre que no corresponda en forma expresa a otro servidor público de la misma;
+
+XXI. Las demás funciones, encargos y asuntos que le encomienden, según sea el caso, el Organo de Gobierno o el Presidente, así como las demás que sean necesarias para el ejercicio de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2009)</small>
+
+El Secretario Ejecutivo podrá realizar por sí, o por conducto del Titular del área administrativa correspondiente, las acciones necesarias para ejercer el presupuesto de la Comisión.
 
 ###### Artículo 29.
 
@@ -604,3 +626,11 @@ Primero.- El Reglamento Interno entrará en vigor al día siguiente al de su pub
 Segundo.- En tanto se cuenta con la estructura organizacional necesaria, el Secretario Ejecutivo se encargará del despacho de la Dirección General Jurídica.
 
 Dado en la Ciudad de México, a 30 de julio de 2009.- El Presidente de la Comisión Nacional de Hidrocarburos, Juan Carlos Zepeda Molina.- Rúbrica.- Los Comisionados Integrantes de la Comisión Nacional de Hidrocarburos: Edgar René Rangel Germán, Javier Humberto Estrada Estrada, Guillermo Cruz Domínguez Vargas, Alfredo Eduardo Guzmán Baldizán.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE DICIEMBRE DE 2009.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. En tanto la Comisión Nacional de Hidrocarburos continúe sin los recursos presupuestarios para contratar la estructura organizacional establecida en su Reglamento Interno, el Organo de Gobierno de la Comisión redistribuirá las funciones que en éste se establecen, para cumplir con las atribuciones que la Ley le confiere a la Comisión, hasta donde sea posible.
