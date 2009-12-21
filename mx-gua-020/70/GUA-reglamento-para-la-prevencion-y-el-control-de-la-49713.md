@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-prevencion-y-el-control-de-la-49713"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-28"
-last_updated: "2008-09-30"
+last_updated: "2009-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO PARA LA PREVENCION Y EL CONTROL DE LA CONTAMINACION A LA ATMOSFERA GENERADA POR VEHICULOS AUTOMOTORES, PARA EL MUNICIPIO DE LEON, GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de febrero de 2006.
 
@@ -45,9 +45,11 @@ El presente Reglamento es de observancia general, sus disposiciones son de orden
 
 Para los efectos del presente Reglamento, serán aplicables las definiciones establecidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato, así como sus respectivos reglamentos, normas y demás disposiciones de observancia general, en materia de prevención y control de la contaminación a la atmósfera.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 3.
 
-La aplicación y vigilancia del presente Reglamento corresponde al Ayuntamiento de León, Guanajuato, a la Dirección General de Protección al Ambiente y Desarrollo Sustentable, y a la Dirección de Tránsito Municipal, en los términos de sus respectivas competencias, conforme al presente Reglamento, y las demás disposiciones aplicables.
+La aplicación y vigilancia del presente Reglamento corresponde al Ayuntamiento de León, Guanajuato, a la Dirección General de Medio Ambiente Sustentable, y a la Dirección General de Tránsito Municipal, en los términos de sus respectivas competencias, conforme al presente Reglamento, y las demás disposiciones aplicables.
 
 ###### ARTÍCULO 4.
 
@@ -57,7 +59,9 @@ I.- Prevenir y controlar la contaminación a la atmosfera generada por fuentes m
 
 II.- Establecer medidas preventivas y correctivas para reducir la emisión de contaminantes a la atmósfera en bienes y zonas de jurisdicción municipal;
 
-III.- Formular al Instituto de Ecología del Estado de Guanajuato las observaciones, adecuaciones o consideraciones al programa de verificación vehicular, con base en los resultados del monitoreo de la calidad del aire, y conforme a las propuestas que le presente la Dirección General de Protección al Ambiente y Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2009)</small>
+
+III.- Formular al Instituto de Ecología del Estado de Guanajuato las observaciones, adecuaciones o consideraciones al programa de verificación vehicular, con base en los resultados del monitoreo de la calidad del aire, y conforme a las propuestas que le presente la Dirección General de Medio Ambiente Sustentable;
 
 IV.- Tomar las medidas y acciones necesarias para que los propietarios o poseedores de vehículos automotores den cumplimiento a los programas de verificación vehicular y, en su caso, se impongan las sanciones correspondientes;
 
@@ -69,9 +73,11 @@ Vll.- Establecer las medidas preventivas necesarias para evitar contingencias am
 
 VIII.- Las demás que se deriven de las disposiciones jurídicas aplicables en la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 5.
 
-Corresponde a la Dirección General de Protección al Ambiente y Desarrollo Sustentable:
+Corresponde a la Dirección General de Medio Ambiente Sustentable:
 
 I.- Controlar la contaminación generada por vehículos automotores que circulen en el territorio del Municipio;
 
@@ -93,9 +99,11 @@ IX.- Proponer al Ayuntamiento la formulación de observaciones, adecuaciones y c
 
 X.- Las demás que se deriven de las disposiciones jurídicas aplicables en la materia, o que el Ayuntamiento le delegue.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 6.
 
-Corresponde a la Dirección de Tránsito Municipal:
+Corresponde a la Dirección General de Tránsito Municipal:
 
 I.- Exigir a los propietarios o poseedores de vehículos automotores el cumplimiento de las disposiciones del presente Reglamento, así como de los programas de verificación vehicular y, en su caso, retirar de la circulación a aquellos vehículos que no lo cumplan, pudiéndose coordinar con las dependencias y entidades competentes;
 
@@ -143,73 +151,71 @@ II.- Limitar o suspender la circulación vehicular en zonas o vías de contamina
 
 III.- Retirar de la circulación los vehículos automotores ostensiblemente contaminantes, o que no respeten las limitaciones o restricciones establecidas en los planes o programas que se formulen conforme al presente Reglamento, así como imponer las sanciones que procedan conforme a las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 11.
 
-La Dirección General de Protección al Ambiente y Desarrollo Sustentable, y la Dirección de Tránsito Municipal podrán solicitar a los centros de verificación vehicular autorizados, copia de los dictámenes de los vehículos que no hubieren aprobado la verificación vehicular, a efecto de que se lleve el control respectivo e implementen las medidas necesarias para la aplicación del presente Reglamento.
+La Dirección General de Medio Ambiente Sustentable, y la Dirección General de Tránsito Municipal podrán solicitar a los centros de verificación vehicular autorizados, copia de los dictámenes de los vehículos que no hubieren aprobado la verificación vehicular, a efecto de que se lleve el control respectivo e implementen las medidas necesarias para la aplicación del presente Reglamento.
 
 ### CAPÍTULO TERCERO. INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 12.
 
-La aplicación de las sanciones y medidas previstas en este Reglamento corresponde al Presidente Municipal, quien con fundamento en lo dispuesto en el artículo 70 fracciones II y XVIII de la Ley Orgánica Municipal para el Estado de Guanajuato, delega dicha atribución en la Dirección General de Protección al Ambiente y Desarrollo Sustentable y en la Dirección de Tránsito Municipal, en el ámbito de sus respectivas competencias.
+La aplicación de las sanciones y medidas previstas en este Reglamento corresponde al Presidente Municipal, quien con fundamento en lo dispuesto en el artículo 70 fracciones II y XVIII de la Ley Orgánica Municipal para el Estado de Guanajuato, delega dicha atribución en la Dirección General de Medio Ambiente Sustentable y en la Dirección General de Tránsito Municipal, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 13.
 
-Las infracciones a las disposiciones de los programas de verificación vehicular serán sancionadas por la Dirección de Tránsito Municipal en los términos señalados en los mismos programas.
+Las infracciones a las disposiciones de los programas de verificación vehicular serán sancionadas por la Dirección General de Tránsito Municipal en los términos señalados en los mismos programas.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 14.
 
 Los propietarios o poseedores de los vehículos automotores que circulen en el Municipio de León, Gto., que infrinjan las disposiciones de este Reglamento o del programa de verificación vehicular respectivo, se harán acreedores a las siguientes sanciones, mismas que se podrán imponer sin seguir el orden establecido:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
-
 I.- Al propietario o poseedor del vehículo:
 
 a).- Que contamine ostensiblemente, se le impondrá multa por el equivalente a 15 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción.
 
-b).- Que haya omitido realizar una verificación vehicular, de conformidad con el Programa de Verificación Vehicular respectivo, se le impondrá multa por el equivalente a 15 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción.
+b).- Que haya realizado la verificación vehicular, en uno o más semestres de conformidad con el Programa de Verificación Vehicular respectivo, se le impondrá multa por el equivalente a 10 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción.
 
-c).- Que no haya realizado la verificación vehicular, en dos o más semestres, de conformidad con el Programa o Programas de Verificación Vehicular correspondientes, se le impondrá multa por el equivalente a 20 días de salario mínimo general vigente en el Estado al momento de imponer la sanción;
+Si dentro de los cinco días hábiles siguientes al de la imposición de la multa, el infractor acredita ante las cajas de la Tesorería Municipal, haber aprobado la verificación vehicular, con el certificado correspondiente, se le reducirá la sanción, aplicándosele una multa por el equivalente a 5 días de salario mínimo general vigente en el Estado al momento de imponerla. Para lo cual, se creará una cuenta transitoria en la Tesorería Municipal en donde se depositaran estos recursos y serán aplicados .nica y exclusivamente para la adquisición de .árboles que la Dirección General de Medio Ambiente Sustentable establezca.
+
+De igual manera, la multa, podrá ser cancelada por las autoridades competentes, si el infractor dentro de los cinco días hábiles siguientes al de su imposición, acredita con los documentos correspondientes, haber aprobado la verificación vehicular, así como haber ingresado al vivero municipal, cinco .árboles de la familia de los cítricos (lima, limón o naranjo) que midan por lo menos un metro de altura;
 
 II.- Multa por el equivalente de 50 a 70 días de salario mínimo general vigente en el Estado al momento de imponer la sanción, a quien infrinja las medidas o acciones a que se refieren los Artículos 9 y 10 de este Reglamento;
 
 III.- Retiro de vehículos automotores, cuando contaminen ostensiblemente o se encuentren circulando en zonas o vías limitadas, y su traslado a los depósitos vehiculares respectivos, a efecto de que el propietario, previo el pago de las multas y derechos correspondientes, solicite su devolución. Cuando se trate de un vehículo del servicio público de transporte de personas, se procurará que los pasajeros lleguen a su destino;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
-
 IV.- Depósito del vehículo automotor durante el tiempo que permanezca vigente la restricción o limitación, cuando los conductores no las hayan respetado, o en tanto el vehículo continué contaminando ostensiblemente.
 
 El vehículo que haya sido retirado de la circulación, en los términos del presente ordenamiento deberá permanecer en el depósito vehicular que designe la autoridad municipal. Sin perjuicio de lo anterior, el propietario del vehículo, podrá solicitar, a su costa, el traslado de éste a cualquiera de los talleres o centros de verificación autorizados, para que se practique la medición y las reparaciones que resulten necesarias;
 
-> <small>(ADICIONADA [N. DE E. ANTES SEGUNDO PARRAFO], P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+V.- El propietario o poseedor del vehículo que no haya sido verificado en uno o más semestres, de conformidad con el Programa de Verificación vehicular respectivo, podrá voluntariamente realizar la medición de contaminantes sin cobro de multa; (sic)
 
-V.- Al propietario o poseedor del vehículo que no haya sido verificado en un semestre, dentro del periodo que le correspondiera, de conformidad con el programa de verificación vehicular respectivo, y pretenda voluntariamente realizar dicha medición en el semestre inmediato siguiente a aquel en que fue omiso, sin que exista infracción de tránsito de por medio, se le impondrá multa por el equivalente a 6 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción;
-
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
-
-VI.- Al propietario o poseedor del vehículo que no haya sido verificado en dos o más semestres, dentro del periodo que le correspondiera, de conformidad con el programa o programas de verificación vehicular respectivos, y pretenda voluntariamente realizar dicha medición en el semestre inmediato siguiente a aquellos en que fue omiso, sin que exista infracción de tránsito de por medio, se le impondrá multa por el equivalente a 10 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
-
-Los propietarios o poseedores de vehículos, que pretendan realizar la Verificación Vehicular conforme a lo dispuesto en las fracciones V y VI del presente artículo, deberán previo a ello, cubrir el monto de la multa correspondiente ante la Tesorería Municipal en oficinas ubicadas en los diversos puntos de la ciudad.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
-
-De conformidad con lo dispuesto en el artículo 56 fracción IV del Reglamento de la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato, en materia de Prevención y Control de la Contaminación de la Atmósfera, los Centros de Verificación Vehicular, estarán obligados en todo caso, a exigir el comprobante del pago de la multa respectiva, cuando el obligado no acredite haber efectuado la última verificación.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 15.
 
-La Dirección de Tránsito Municipal y la Tesorería Municipal, indistintamente, calificarán las infracciones contenidas en el presente Reglamento.
+La Dirección General de Tránsito Municipal y la Tesorería Municipal, indistintamente, calificarán las infracciones contenidas en el presente Reglamento.
 
-Las personas sancionadas por la Dirección de Tránsito Municipal, en los términos del presente Reglamento, así como en los de los programas de verificación vehicular y demás disposiciones jurídicas aplicables, deberán cubrir el monto de la multa ante la Tesorería Municipal, dentro de los diez días hábiles posteriores a la imposición de la misma.
+Las personas sancionadas por la Dirección General de Tránsito Municipal, en los términos del presente Reglamento, así como en los de los programas de verificación vehicular y demás disposiciones jurídicas aplicables, deberán cubrir el monto de la multa ante la Tesorería Municipal.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 16.
 
-Toda persona podrá denunciar cualquier hecho u omisión que implique la comisión de alguna infracción al presente Reglamento o a los programas de verificación vehicular, ante la Dirección General de Protección al Ambiente y Desarrollo Sustentable o ante la Dirección de Tránsito Municipal, según corresponda a la competencia de cada una de ellas.
+Toda persona podrá denunciar cualquier hecho u omisión que implique la comisión de alguna infracción al presente Reglamento o a los programas de verificación vehicular, ante la Dirección de Medio Ambiente Sustentable o ante la Dirección General de Tránsito Municipal, según corresponda a la competencia de cada una de ellas.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 17.
 
-Los actos y resoluciones definitivas dictados con motivo de la aplicación del presente ordenamiento, podrán ser impugnados por los afectados, mediante el recurso de inconformidad, mismo que se hará valer en la forma y términos previstos en la Ley Orgánica Municipal para el Estado de Guanajuato, y en el Reglamento respectivo.
+Los actos y resoluciones definitivas dictados con motivo de la aplicación del presente ordenamiento, podrán ser impugnados por los afectados, mediante los recursos y medios de defensa previstos en el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 ## TRANSITORIOS
 
@@ -244,3 +250,9 @@ P.O. 30 DE SEPTIEMBRE DE 2008.
 PRIMERO.- La presente Reforma entrará en vigor a los sesenta días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones normativas que se opongan a la presente reforma.
+
+P.O. 21 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes reformas.
