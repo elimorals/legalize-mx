@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-15838
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-03"
-last_updated: "2008-12-19"
+last_updated: "2009-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 3 de junio de 1987.
 
@@ -1021,7 +1021,7 @@ Dado en el Edificio de los Poderes del Estado, en Campeche, a los veintinueve d�
 
 P.O. 23 DE DICIEMBRE DE 1988.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 178 POR EL QUE “SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE”.]
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 178 POR EL QUE "SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE".]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -1045,7 +1045,11 @@ Primero.- El presente decreto entrará en vigor el día 1 de enero de 2008, prev
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
 
-Tercero.- Las cuotas que, conforme al artículo 30, los trabajadores deban aportar al Instituto, en adición a las que correspondan a la institución subrogatoria de las prestaciones, iniciarán con el 3.5% del sueldo de cotización y se incrementarán anualmente en el 1% del sueldo de cotización, hasta alcanzar el 8.5%.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2009)</small>
+
+Tercero.- Las cuotas que, conforme al artículo 30 de la Ley de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche, los trabajadores deban aportar al Instituto, en adición a las que correspondan a la institución subrogatoria de las prestaciones, se incrementarán anualmente en el 0.5% del sueldo de cotización, hasta alcanzar el 8.5%.
 
 Cuarto.- Las aportaciones que, conforme al artículo 31, deben cubrir las Entidades Públicas al Instituto, en adición a las que correspondan a la institución subrogatoria de las prestaciones, iniciarán con el 6% del sueldo de cotización y se incrementarán anualmente en el 1.5% del sueldo de cotización, hasta alcanzar el 13.5%.
 
@@ -1054,3 +1058,11 @@ P.O. 19 DE DICIEMBRE DE 2008.
 Primero.- El presente decreto entrará en vigor el día primero de enero del año dos mil nueve, previa su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que (sic) opongan al contenido del presente decreto.
+
+P.O. 21 DE DICIEMBRE DE 2009.
+
+Primero.- El presente decreto entrará en vigor el día 1 de enero de 2010, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- El porcentaje de las cuotas de aportación de los trabajadores actualmente del 4.5% para el ejercicio fiscal 2009, servirá de partida para la aplicación gradual analizada a que hace referencia el artículo que este decreto modifica.
