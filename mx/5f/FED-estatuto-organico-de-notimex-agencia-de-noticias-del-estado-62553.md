@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-notimex-agencia-de-noticias-del-estado-625
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-09-01"
-last_updated: "2009-01-19"
+last_updated: "2009-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-06-26"
 
 ESTATUTO ORGANICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO, PUBLICADO EN EL D.O.F. DE 21 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 1 de septiembre de 2008.
 
@@ -942,3 +944,15 @@ Rúbrica.
 D.O.F. 19 DE ENERO DE 2009.
 
 EL ACUERDO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 21 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Estatuto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de Notimex, Agencia de Noticias del Estado Mexicano publicado en el Diario Oficial de la Federación el 1 de septiembre de 2008, así como su aclaración, publicada en el mismo órgano de difusión el día 26 del mismo mes y año.
+
+TERCERO.- Con la finalidad de que no se altere la continuidad de la operación de la Agencia, ésta contará con los recursos financieros, humanos y materiales asignados para ejercicios correspondientes, durante la etapa de transición, misma que se amplía hasta en tanto se cuente con el Dictamen Organizacional que expida la Secretaría de la Función Pública respecto del presente Estatuto y el Dictamen Presupuestal que emita la Secretaría de Hacienda y Crédito Público, referentes a la aprobación y registro de la estructura organizacional correspondiente.
+
+CUARTO.- La denominación de las áreas de los dos niveles inferiores al de la Dirección General señaladas en este Estatuto Orgánico, así como en las referencias que se hagan en cualquier documento oficial, se entenderán hechas a las mismas como "En la etapa de transición" y surtirán los efectos jurídicos correspondientes propios del área y del cargo para los servidores públicos que las ocupen durante y hasta la terminación de la etapa de transición.
+
+QUINTO.- Los servidores públicos que ocupen cargos dentro de los dos niveles jerárquicos administrativos inferiores al del Director General, durante la duración etapa de transición, recibirán el nombramiento con el carácter y bajo la denominación de "Encargado del Despacho en la etapa de transición".
