@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2009-03-21"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1885,9 +1885,11 @@ VII. El Congreso del Estado deberá resolver la solicitud planteada en un térmi
 
 Para los efectos de la seguridad pública, los ayuntamientos y presidentes municipales ejercerán, de conformidad con lo dispuesto en los artículos 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos, las facultades que determine la ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 150.
 
-La policía preventiva municipal estará al mando del Presidente Municipal en los términos que establezca el reglamento respectivo; el titular de la policía preventiva, así como el de tránsito municipal, tendrán las atribuciones establecidas en los reglamentos correspondientes; y en el caso del titular de tránsito tendrá además, las señaladas en la Ley de Tránsito y Vialidad del Estado de San Luis Potosí.
+La policía preventiva municipal estará al mando del Presidente Municipal en los términos que establezca el reglamento respectivo; y su actuación se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez el titular de la policía preventiva, así como el de tránsito municipal, tendrán las atribuciones establecidas en los reglamentos correspondientes y en el caso del titular de tránsito tendrá además, las señaladas en la Ley de Tránsito y Vialidad del Estado de San Luis Potosí.
 
 La policía preventiva municipal deberá acatar las órdenes que el Gobernador del Estado les transmita, en los casos en que él mismo juzgue como de fuerza mayor o alteración grave del orden público.
 
@@ -2242,3 +2244,9 @@ P.O. 21 DE MARZO DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan a este Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
