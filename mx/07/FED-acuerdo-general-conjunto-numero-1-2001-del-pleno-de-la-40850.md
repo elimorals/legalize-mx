@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-conjunto-numero-1-2001-del-pleno-de-la-40850"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-09-11"
-last_updated: "2009-12-15"
+last_updated: "2009-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40850&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2001-09-04"
 
 ACUERDO GENERAL CONJUNTO NUMERO 1/2001, DEL VEINTISIETE DE AGOSTO DE DOS MIL UNO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LINEAMIENTOS PARA EL FLUJO DOCUMENTAL, DEPURACION Y DIGITALIZACION DEL ACERVO ARCHIVISTICO DE LOS JUZGADOS DE DISTRITO, TRIBUNALES UNITARIOS DE CIRCUITO Y TRIBUNALES COLEGIADOS DE CIRCUITO
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL ACUERDO GENERAL CONJUNTO NUMERO 2/2009, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 15 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA DEROGADO A LOS TREINTA DIAS NATURALES SIGUIENTES A LA PUBLICACION DEL NUEVO ACUERDO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL CONJUNTO NUMERO 3/2009, DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 22 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO POR LO QUE SE REFIERE AL TRATAMIENTO DE LOS EXPEDIENTES PROVENIENTES DE LOS TRIBUNALES UNITARIOS DE CIRCUITO; DE MANERA QUE CONTINUARAN VIGENTES EN MATERIA DE ACERVOS ARCHIVISTICOS DE TRIBUNALES COLEGIADOS DE CIRCUITO, HASTA EN TANTO SE EMITA EL RESPECTIVO ACUERDO GENERAL QUE LOS REGULE.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2009.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 11 de septiembre de 2001.
 
@@ -224,3 +224,37 @@ DECIMO PRIMERO. Estadística y Planeación, Informática y el Centro de Document
 DECIMO SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo General Conjunto.
 
 DECIMO TERCERO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; asimismo, hágase del conocimiento de los Magistrados de Tribunales Colegiados de Circuito para su cumplimiento.
+
+D.O.F. 22 DE DICIEMBRE DE 2009.
+
+PRIMERO. Este Acuerdo General entrará en vigor treinta días naturales después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deroga el Acuerdo General Conjunto 1/2001 del veintisiete de agosto de dos mil uno, del Pleno de la Suprema Corte de Justicia de la Nación y del Pleno del Consejo de la Judicatura Federal, que establece lineamientos para el flujo documental, depuración y digitalización del acervo archivístico de los Juzgados de Distrito, Tribunales Unitarios de Circuito y Tribunales Colegiados de Circuito, y su Acuerdo Complementario del tres de octubre de dos mil dos, del Comité del Centro de Documentación y Análisis, por lo que se refiere al tratamiento de los expedientes provenientes de los Tribunales Unitarios de Circuito; de manera que continuarán vigentes en materia de acervos archivísticos de Tribunales Colegiados de Circuito, hasta en tanto se emita el respectivo Acuerdo General que los regule.
+
+TERCERO. La atribución establecida en este Acuerdo General Conjunto a cargo de los Tribunales Unitarios de Circuito, consistente en digitalizar el escrito de agravios y la sentencia de los juicios de amparo en los que se haya negado o concedido la protección constitucional o el escrito de apelación y la sentencia cuando se haya abordado el fondo de lo planteado, se realizará por el Centro de Documentación y Análisis con apoyo de Informática, respecto de los expedientes que se radiquen hasta el año 2009.
+
+Los expedientes que se radiquen a partir del año 2010 se integrarán en copia digital por los Tribunales Unitarios de Circuito y su transferencia se realizará de conformidad con lo señalado en el presente Acuerdo General.
+
+CUARTO. Las transferencias correspondientes a expedientes radicados a partir del año 2007 se recibirán en el Centro Archivístico Judicial ubicado en la ciudad de Toluca, Estado de México, a partir de enero de 2011. Las transferencias de expedientes radicados en 2006 y años anteriores se continuarán recibiendo en los archivos del Primer Circuito y en las Casas de la Cultura Jurídica.
+
+QUINTO. Todas aquellas transferencias provisionales realizadas por los Tribunales Unitarios de Circuito con base en lo acordado por el entonces Comité de Biblioteca, Archivo e Informática y el Comité de Gobierno y Administración de la Suprema Corte el doce de mayo de dos mil cinco, por carecer de espacio, deberán ser actualizadas con acta de transferencia definitiva en los casos en que los expedientes judiciales cumplan con la temporalidad que establece este Acuerdo.
+
+SEXTO. Las Administraciones Regionales del Consejo brindarán el apoyo que los Magistrados de los Tribunales Unitarios de Circuito requieran para llevar a cabo la transferencia de expedientes al Centro Archivístico Judicial, así como para la desintegración material de los expedientes que se determine deban depurarse o destruirse.
+
+SEPTIMO. Las reglas de depuración y destrucción contenidas en el Capítulo Quinto del presente Acuerdo General se aplicarán por los Tribunales Unitarios de Circuito a partir de su entrada en vigor, y por el Centro de Documentación y Análisis, a partir del año 2011, conforme al programa que dicha Dirección General someta a la consideración del Comité procediendo a su digitalización en términos de lo indicado en el diverso punto Décimo Quinto de este instrumento.
+
+OCTAVO. En tanto la Suprema Corte y el Consejo emiten los lineamientos para el tratamiento de la documentación administrativa bajo su resguardo generada en los Tribunales Unitarios de Circuito, son susceptibles de destrucción las libretas de control de oficios, minutarios de exhorto, los diversos registros de correspondencia, los acuerdos de la sección de actuaría y de control de expedientes por sección, generados en dichos órganos jurisdiccionales, con independencia de su denominación, previa valoración del Magistrado del Tribunal Unitario de Circuito, para lo cual deberán conservarse los relativos a los dos años más recientes.
+
+No podrán destruirse los documentos referidos en el párrafo que antecede cuando estén relacionados con una investigación o con un procedimiento de responsabilidad administrativa.
+
+NOVENO. En cumplimiento a lo dispuesto en el Punto Quinto, fracción V, de este Acuerdo y con el propósito de contar con un solo manual para la organización de los archivos judiciales bajo resguardo de la Suprema Corte de Justicia de la Nación, el Centro de Documentación y Análisis presentará al Comité las actualizaciones que amerite el manual que se apruebe de conformidad con el Acuerdo General Conjunto 1/2009 del veintiocho de septiembre de dos mil nueve, de los Plenos de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, relativo a la transferencia, digitalización, depuración y destrucción de los expedientes generados por los Juzgados de Distrito, con base en lo que se determina en este acuerdo para el caso de los expedientes generados en los Tribunales Unitarios de Circuito, a más tardar treinta días hábiles después de la publicación de este instrumento.
+
+Asimismo, dicho manual se aplicará para la organización de los expedientes generados en los Tribunales Unitarios de Circuito, en lo que no se contraponga con lo que dispone el presente Acuerdo, hasta en tanto se aprueban las actualizaciones referidas en el párrafo anterior.
+
+DECIMO. En relación con los expedientes que se ubican en los archivos del Primer Circuito, el Consejo proveerá lo necesario para que los depósitos en los que se resguardan cuenten con las mejores condiciones de conservación, de conformidad con las especificaciones técnicas que precise el Centro de Documentación y Análisis.
+
+DECIMO PRIMERO. Estadística y Planeación, Informática y el Centro de Documentación y Análisis integrarán un grupo de trabajo en el que se determinarán los estándares, procesos, especificaciones y protocolo para el intercambio de la información a que se refiere este Acuerdo.
+
+DECIMO SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo General.
+
+DECIMO TERCERO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; asimismo, hágase del conocimiento de los Magistrados de Tribunales Unitarios de Circuito para su cumplimiento.
