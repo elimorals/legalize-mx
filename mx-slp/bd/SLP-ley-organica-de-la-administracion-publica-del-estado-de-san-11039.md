@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2009-06-24"
+last_updated: "2009-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -1169,9 +1169,17 @@ XXVI. Administrar los recursos que le sean asignados a efecto de realizar una eq
 
 XXVII. Otorgar a los tribunales el auxilio que soliciten para el ejercicio de sus funciones;
 
-XXVIII. Fungir, a través de su titular, como Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, con las funciones que determine el Reglamento respectivo, y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2009)</small>
 
-XXIX. Las demás que le sean encomendadas por el titular del Poder Ejecutivo; le confiera esta Ley, y otras disposiciones legales aplicables.
+XXVIII. Fungir, a través de su titular como Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, con las funciones que determine el Reglamento respectivo;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2009)</small>
+
+XXIX. Las demás que le sean encomendadas por el titular del Poder Ejecutivo; le confiera esta Ley, y otras disposiciones legales aplicables, y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2009)</small>
+
+XXX. Vigilar que en las instituciones de seguridad pública, estatales, y municipales, se aplique homogénea y permanentemente, el protocolo de certificación correspondiente, aprobado por el Centro Nacional de Certificación y Acreditación, y atendiendo a los principios de legalidad, eficiencia, profesionalismo y honradez.
 
 ###### ARTICULO 42.
 
@@ -1473,9 +1481,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La situación jurí dica (sic) de las personas que se encuentren compurgando una pena de prisión, por haber cometido un delito siendo menores de dieciocho años de edad, será resuelta sobre la base de las reformas al artí culo (sic) 18 de la Constitución Polí tica (sic) de los Estados Unidos Mexicanos, de la siguiente manera:
 
-El Juez Penal que conoció de la causa, remitirá el expediente correspondiente al Juez de Ejecución para que resuelva lo procedente.
+El Juez Penal que conoció de la causa, remitirá el expediente correspondiente al Juez Especializado para que resuelva lo procedente.
 
-CUARTO. El Juez o la Sala Penal que estén conociendo del proceso seguido en contra de personas menores de dieciocho años, por haber cometido un delito previsto por las leyes locales, o que lo cometieron cuando eran menores de dieciocho años, se declarará incompetente y enviará los autos al Juez Especializado, quien resolverá conforme al procedimiento establecido en la Ley de Justicia para Menores del Estado de San Luis Potosí.
+CUARTO. El Juez o la Sala Penal que estén conociendo del proceso seguido en contra de personas menores de dieciocho años, por haber cometido un delito previsto por las leyes locales, o que lo cometieron cuando eran menores de dieciocho años, se declarará incompetente y enviará los autos al Juez de Ejecución, quien resolverá conforme al procedimiento establecido en la Ley de Justicia para Menores del Estado de San Luis Potosí.
 
 La Sala Penal del Supremo Tribunal de Justicia que estéconociendo (sic) de recursos relacionados con menores de dieciocho años, o que hayan tenido menos de dieciocho años al momento de la comisión del ilí cito (sic) que se les atribuya, aplicará la Ley de Justicia para Menores del Estado de San Luis Potosí.
 
@@ -1516,3 +1524,9 @@ SEPTIMO. En tanto se lleven a cabo las reformas a la Ley de Seguridad Pública d
 OCTAVO. El titular del Ejecutivo del Estado deberá expedir el Reglamento Interior de la Secretaría de Seguridad Pública del Estado, así como realizar las adecuaciones correspondientes a los reglamentos de la materia, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
 
 NOVENO. Se derogan las disposiciones legales y administrativas que se opongan a este Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
