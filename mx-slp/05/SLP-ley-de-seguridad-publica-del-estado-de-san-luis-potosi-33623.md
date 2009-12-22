@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-seguridad-publica-del-estado-de-san-luis-potosi-33623"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-30"
-last_updated: "2008-06-28"
+last_updated: "2009-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -1316,3 +1318,17 @@ P.O. 28 DE JUNIO DE 2008.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2009.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Seguridad Pública del Estado de San Luis Potosí, publicada como Decreto No. 582 en el Periódico Oficial del Estado del 30 de agosto de 2003, así como sus reformas. Asimismo, se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por la presente Ley.
+
+TERCERO. Los prestadores de servicios de seguridad privada que se encuentren registrados conforme a la ley que se abroga, presentarán la documentación complementaria, en un plazo no mayor de ciento veinte días naturales, contados a partir del inicio de vigencia de este Ordenamiento.
+
+CUARTO. El titular del Ejecutivo del Estado expedirá en un término de ciento ochenta días a partir de la publicación de la presente Ley, los reglamentos derivados de esta Ley.
+
+QUINTO. Los ayuntamientos expedirán en un plazo de ciento ochenta días a partir de la vigencia de esta Ley, los reglamentos de sus policías preventivas.
+
+SEXTO. Los prestadores de servicios de seguridad privada tendrán un plazo de sesenta días, contados a partir de la entrada en vigor de esta Ley, para regularizar su funcionamiento; y de noventa días a partir de la publicación del reglamento, para elaborar sus reglamentos internos, que deberán presentar a la Secretaría para su aprobación y legal publicación.
