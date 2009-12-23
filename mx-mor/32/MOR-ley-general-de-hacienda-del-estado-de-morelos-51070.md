@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2007-08-15"
+last_updated: "2009-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
-Al margen izquierdo un Sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".-.La tierra volverá a quienes la trabajan con sus manos.
+Al margen izquierdo un Sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.
 
 SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
 
@@ -55,7 +55,7 @@ Así mismo, se hace la separación de un Capítulo del Impuesto sobre Prestació
 
 En el análisis de la Ley para efectos de actualización, se adicionan los conceptos relativos a Derechos por Servicios de la Comisión Estatal y Medio Ambiente; Seguridad Privada; Educación por Instituciones Privadas; Técnicos en Materia Inmobiliaria; y Acceso a la Información Pública.
 
-En la Ley de Ingresos para el ejercicio fiscal 2005 se establece que los ingresos del programa carretero, serán destinados al Organismo de Carreteras de Cuota, que por Decreto publicado en el Periódico Oficial "Tierra y Libertad", de fecha 14 de julio de 2004, se creo para administrar y operar los puentes o carreteras de cuota estatales. En este proyecto de nuevo ordenamiento se regulan estos ingresos que el Estado obtiene para el mantenimiento y conservación de las vías de comunicación, puentes o carreteras estatales o concesionadas por conducto de la Federación.
+En la Ley de Ingresos para el ejercicio fiscal 2005 se establece que los ingresos del programa carretero, serán destinados al Organismo de Carreteras de Cuota, que por Decreto publicado en el Periódico Oficial “Tierra y Libertad”, de fecha 14 de julio de 2004, se creo para administrar y operar los puentes o carreteras de cuota estatales. En este proyecto de nuevo ordenamiento se regulan estos ingresos que el Estado obtiene para el mantenimiento y conservación de las vías de comunicación, puentes o carreteras estatales o concesionadas por conducto de la Federación.
 
 Por una parte, se propone la modernización para la capacitación tributaria, mediante la utilización de medios electrónicos y transferencias bancarias, lo que permitirá una mayor capacitación y el cumplimiento oportuno de los contribuyentes, respecto de sus obligaciones fiscales.
 
@@ -1561,17 +1561,33 @@ En el Servicio Particular por inscripción al padrón vehicular con expedición 
 
 7. Auto antiguo: $650.00
 
-b) (sic) Servicio Público
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+b) (sic) Servicio Público:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 1. Servicio de Transporte de
 
-pasajeros sin itinerario fijo $600.00
+pasajeros sin itinerario fijo: $800.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 2. Servicio de Transporte de
 
-pasajeros con itinerario fijo $600.00
+pasajeros con itinerario fijo: $800.00
 
-3. Servicio de carga en general $600.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+3. Servicio de carga en general: $800.00
 
 4. Por sustitución o reposición de
 
@@ -1581,7 +1597,11 @@ a) Por una placa $200.00
 
 b) Por dos placas $400.00
 
-III. REFRENDO ANUAL DE TARJETAS DE CIRCULACIÓN Y HOLOGRAMA:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+III. REFRENDO ANUAL DE TARJETA DE CIRCULACIÓN Y HOLOGRAMA:
 
 1. Auto particular: $200.00
 
@@ -1599,15 +1619,27 @@ III. REFRENDO ANUAL DE TARJETAS DE CIRCULACIÓN Y HOLOGRAMA:
 
 8. Vehículos de servicio público:
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
 a). Servicio de Transporte de pasajeros
 
-sin itinerario fijo $300.00
+sin itinerario fijo: $400.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 b). Servicio de Transporte de pasajeros
 
-con itinerario fijo $300.00
+con itinerario fijo: $400.00
 
-c). Servicio de carga en general $300.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+c). Servicio de carga en general: $400.00
 
 IV. EXPEDICIÓN DE CONCESIÓN DEL SERVICIO PÚBLICO Y SU RENOVACIÓN:
 
@@ -3142,3 +3174,11 @@ P.O. 15 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 23 DE DICIEMBRE DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1 de enero del año 2010.
+
+SEGUNDO.- Se derogan todas las disposiciones que concedan subsidios o exenciones y se hayan publicado con anterioridad al inicio de vigencia de la presente Ley, con excepción de las previstas en la Ley General de Hacienda del Estado de Morelos.
+
+TERCERO.- Para los efectos de las disposiciones de la Ley General de Hacienda del Estado de Morelos, relativas a la actualización de las cuotas y tarifas de las contribuciones en cantidades determinadas, se autoriza la aplicación de un subsidio para mantener dichas cuotas y tarifas en los mismos montos que establece la mencionada Ley General de Hacienda del Estado de Morelos.
