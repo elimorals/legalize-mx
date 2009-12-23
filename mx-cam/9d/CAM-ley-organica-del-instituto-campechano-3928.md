@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-instituto-campechano-3928"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1965-08-31"
-last_updated: "2006-12-21"
+last_updated: "2009-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY ORGANICA DEL INSTITUTO CAMPECHANO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL INSTITUTO CAMPECHANO, PUBLICADA EN EL P.O. DE 23 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 31 de agosto de 1965
 
@@ -73,7 +75,7 @@ Se concede plena validez, en lo que corresponda, a los estudios hechos en las es
 
 ###### Artículo 5o.
 
-EI Instituto Campechano realizará la función docente y de investigación a través de los siguientes organismos:
+El Instituto Campechano realizará la función docente y de investigación a través de los siguientes organismos:
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 1981)</small>
 
@@ -872,3 +874,15 @@ Se transfieren al organismo descentralizado creado por este Decreto todos los bi
 ###### ARTÍCULO QUINTO.
 
 Se autoriza al Ejecutivo del Estado por conducto de su Secretario de Finanzas y Administración y, a los Municipios por conducto de sus presidentes y secretarios de sus respectivos Ayuntamientos a celebrar Convenios de Colaboración Administrativa en Materia Hacendaria de Ingresos, para que los Municipios efectúen la administración del Impuesto Sobre Nóminas que éstos mismos causen.
+
+P.O. 23 DE DICIEMBRE DE 2009.
+
+Primero.- El presente decreto entrará en vigor el día 2 de febrero de 2010, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Queda abrogado el Decreto Número 5 de fecha 30 de agosto de 1965, publicado en el Periódico Oficial del Estado el 31 de ese mismo mes y año, por el que la XLV Legislatura del Congreso del Estado de Campeche expidió la Ley Orgánica del Instituto Campechano; y derogadas todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+Tercero.- Entretanto el Consejo Superior expide los reglamentos y acuerdos a que lo faculta la nueva Ley Orgánica del lnstituto Campechano, quedan vigentes los expedidos al amparo de la Ley Orgánica que se abroga, en lo que no se opongan a la nueva Ley.
+
+Cuarto.- Hasta que se inicie la publicación de la Gaceta del Instituto Campechano, la publicidad a que alude el artículo 125 de la nueva Ley Orgánica del lnstituto Campechano se hará a través de los estrados o carteleras de la Rectoría.
+
+Quinto.- Por esta única ocasión el Gobernador del Estado designará a quien fungirá como Rector del Instituto Campechano en el período comprendido del 2 febrero de 2010 al 1 de febrero de 2014, sin posibilidad de reelección.
