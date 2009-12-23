@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2009-11-25"
+last_updated: "2009-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2009.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1191,13 +1191,11 @@ XVI.- Solicitar a la Comisión Permanente que convoque al Congreso a Sesiones Ex
 
 XVII.- Entre el dieciséis de noviembre y el dieciséis de diciembre de cada año, presentar al Congreso un informe debidamente documentado del estado que guarden los diversos ramos de la administración pública, así como en su caso, presentarse en las sesiones regionales acordadas por el Congreso;
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-XVIII.- Presentar cada año al Congreso, al tercer día de la Apertura del Segundo Período Ordinario de Sesiones, la cuenta pública correspondiente al año anterior;
+XVIII.- Presentar al Congreso del Estado y, en sus recesos, a la Comisión Permanente, la cuenta pública correspondiente al año anterior, a más tardar el día 30 de abril de cada año.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2000)</small>
-
-El ejercicio en el que proceda la renovación sexenal del Poder Ejecutivo, la cuenta pública que contemple los tres primeros trimestres del año, podrá ser presentada a mas tardar el día 7 de diciembre de ese mismo año, encargándose la siguiente administración de entregar la correspondiente al último trimestre.
+El ejercicio en el que proceda la renovación sexenal del Poder Ejecutivo, la cuenta pública que contemplen los tres primeros trimestres del año, podrá ser presentada a mas tardar el día 7 de diciembre de ese mismo año, encargándose la siguiente administración de entregar la correspondiente al último trimestre;
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2001)</small>
 
@@ -3526,3 +3524,9 @@ POR ÚNICA OCASIÓN, LA SEXAGÉSIMA CUARTA LEGISLATURA DEL CONGRESO DEL ESTADO, 
 PARA LOS EFECTOS DE LA INTEGRACIÓN DE LOS CONCEJOS MUNICIPALES A QUE SE REFIERE EL PÁRRAFO QUE ANTECEDE, EL CONGRESO DEL ESTADO RESPETARÁ LA REPRESENTACIÓN POLÍTICA QUE ACTUALMENTE GUARDAN LOS AYUNTAMIENTOS.
 
 Artículo Séptimo.- El H. Congreso del Estado deberá realizar las adecuaciones a la legislación electoral local a más tardar en un plazo de cinco días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
