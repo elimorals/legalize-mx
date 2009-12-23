@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2009-09-25"
+last_updated: "2009-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -1619,45 +1619,57 @@ Se impondrá la misma sanción prevista en el artículo anterior, a quien manufa
 
 #### SECCION PRIMERA. Disposiciones Generales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 115.
 
-Contra los actos administrativos dictados en materia fiscal estatal se podrá interponer los siguientes recursos:
+Contra los actos administrativos dictados en materia fiscal, se podrá interponer el recurso de revocación.
 
-I.- El de revocación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- El de oposición al procedimiento administrativo de ejecución.
-
-III.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 116.
 
-El recurso de revocación procederá contra las resoluciones definitivas que:
+El recurso de revocación procederá contra:
 
-I.- Determinen contribuciones o accesorios.
+I.- Las resoluciones definitivas dictadas por autoridades fiscales que:
 
-II.- Nieguen la devolución de cantidades que procedan conforme a la ley.
+a) Determinen contribuciones, accesorios o aprovechamientos;
+
+b) Nieguen la devolución de cantidades que procedan conforme a la Ley; y
+
+c) Cualquier resolución de carácter definitivo que cause agravio al particular en materia fiscal, salvo aquella a que se refiere el artículo 74 de este Código.
+
+II.- Los actos de autoridades fiscales que:
+
+a) Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la oficina ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 22 de este Código.
+
+b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue, que éste no se ha ajustado a la ley.
+
+c) Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 127 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### ARTICULO 117.
 
-El recurso de oposición al procedimiento administrativo de ejecución procederá contra los actos que:
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
-I.- Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la oficina ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 22 de este código.
-
-II.- Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la ley.
-
-III.- Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 127 de este código.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### ARTICULO 118.
 
-La impugnación de notificaciones se hará valer mediante la interposición de los recursos administrativos previstos en el artículo 115 de este Código y de conformidad con lo dispuesto en el artículo 128.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 119.
 
-La interposición de los recursos administrativos a que se refiere el Artículo 115 será optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo del Estado. Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que corresponda.
+La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo del Estado. Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que corresponda.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1667,7 +1679,11 @@ El escrito de interposición del recurso deberá presentarse ante la autoridad q
 
 Si el particular tiene su domicilio fuera de la población en que radique la autoridad que emitió o ejecutó el acto impugnado, el escrito de interposición del recurso podrá presentarse en la oficina exactora más cercana a dicho domicilio.
 
-Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta por noventa días, si antes no se hubiere aceptado el cargo de representante de la sucesión.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta por un año, si antes no se hubiere aceptado el cargo de representante de la sucesión.
 
 ###### ARTICULO 121.
 
@@ -1703,6 +1719,12 @@ La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren
 
 En el caso de que no se acompañen al escrito de interposición del recurso los documentos a que se refiere la fracción IV de este artículo, se tendrán por no ofrecidas las pruebas respectivas. Cuando no se acompañen alguno de los documentos a que se refieren las demás fracciones de este precepto, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los presente, su falta de presentación dará lugar a que se tenga por no interpuesto el recurso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+Los documentos a que se refieren las fracciones anteriores, podrán presentarse en fotocopia simple, siempre que obren en poder del recurrente los originales. En caso de que presentándolos en esta forma la autoridad tenga indicios de que no existen o son falsos, podrá exigir al contribuyente la presentación del original o copia certificada.
+
 ###### ARTICULO 123.
 
 Es improcedente el recurso cuando se haga valer contra actos administrativos:
@@ -1723,6 +1745,12 @@ V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso 
 
 VI.- Si son revocados los actos por la autoridad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+VII.- En caso de que no se amplíe el recurso de revocación o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 128 de este Código.
+
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 123 Bis.
@@ -1739,19 +1767,29 @@ IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
 
 #### SECCION SEGUNDA. Del Recurso de Revocación
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 124.
 
-El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Juzgado Fiscal. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente del otro, a excepción de las resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
+El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de lo Contencioso Administrativo del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de las resoluciones dictadas en cumplimiento de las emitidas en el recurso de revocación.
 
 #### SECCION TERCERA. Del Recurso de Oposición al Procedimiento Administrativo de Ejecución
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### ARTICULO 125.
 
-El recurso de oposición al procedimiento administrativo de ejecución se hará valer ante la oficina ejecutora y no podrá discutirse en el mismo la validez del acto administrativo en que se haya determinado el crédito fiscal.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 126.
 
-Cuando el recurso de oposición al procedimiento administrativo de ejecución se interponga porque este no se ajustó a la ley, las violaciones cometidas antes de la etapa del remate sólo podrán hacerse valer hasta el momento de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material, en cuyo caso el recurso podrá interponerse contra el acta en que conste la diligencia de embargo.
+Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate, sólo podrán hacerse valer ante la autoridad recaudadora hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en que surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
 
 Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se trate de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
 
@@ -1765,19 +1803,27 @@ El tercero que afirme ser propietario de los bienes o negociaciones, o titular d
 
 #### SECCION CUARTA. De la Impugnación de Notificaciones
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 128.
 
-Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme a los artículos 116 y 117, se estará a las reglas siguientes:
+Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 116, se estará a las reglas siguientes:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció.
 
 En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
 II.- Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiera practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
 
 El particular tendrá un plazo de 30 días a partir del siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 III.- La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo.
 
@@ -1787,9 +1833,13 @@ B).- Si resuelve que la notificación fue legalmente practicada y, como consecue
 
 #### SECCION QUINTA. Del Trámite y Resolución de los Recursos
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 129.
 
-En los recursos administrativos se admitirán toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
+En el recurso de revocación se admitirán toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
 
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
 
@@ -1814,6 +1864,12 @@ El recurrente podrá decidir esperar la resolución expresa o impugnar hasta ant
 La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
 
 La resolución expresará con claridad los actos que se modifiquen y si la modificación es parcial, se indicará el monto del crédito fiscal correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance de su resolución.
 
 ###### ARTICULO 132.
 
@@ -1939,15 +1995,25 @@ Las garantías constituidas para asegurar el interés fiscal a que se refieren l
 
 Si la garantía consiste en depósito de dinero en institución nacional de crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 142.
 
-No se ejecutarán los actos administrativos cuando se solicite la suspensión ante la autoridad ejecutora y se acompañen los documentos que acrediten que se ha garantizado el interés fiscal. Dentro de los treinta días siguientes a la fecha en que surta efectos la notificación del acto cuya ejecución se suspende, se deberá presentar copia sellada del escrito con el que se hubiera intentado recurso administrativo o juicio. En caso contrario, la autoridad estará facultada para hacer efectiva la garantía, aún cuando se trate de fianza otorgada por compañía autorizada. Si al presentar el medio de defensa no se impugna la totalidad de los créditos que derivan del acto administrativo cuya ejecución fue suspendida, deberá pagarse la parte del crédito consentido con los recargos correspondientes.
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación. Cuando el contribuyente hubiere interpuesto en tiempo y forma recurso de revocación en contra de un acto, el procedimiento administrativo de ejecución quedará suspendido sin necesidad de garantía alguna, hasta que se notifique la resolución definitiva que hubiere recaído sobre el mismo.
 
-El procedimiento administrativo quedará suspendido hasta que se haga saber la resolución definitiva e irrevocable que hubiere recaído sobre el medio de defensa hecho valer.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal. En todo caso, se observará lo dispuesto en el penúltimo párrafo del Artículo 139 de este Código.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+En el caso de que en el juicio contencioso administrativo o en el recurso de revocación, no se impugne la totalidad de los créditos que derivan del acto administrativo cuya ejecución haya sido suspendida, deberán pagarse los créditos no impugnados con los accesorios correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal. En todo caso, se observará lo dispuesto en el penúltimo párrafo del artículo 139 de este Código. Asimismo, no se exigirá garantía adicional respecto a los adeudos impugnados derivados de los impuestos predial, sobre adquisición de inmuebles y sobre aumento de valor y mejoría específica de la propiedad, cuando el crédito fiscal se haya determinado a cargo del propietario del bien inmueble, excepto cuando dicho bien inmueble deje de formar parte de su patrimonio.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2323,7 +2389,7 @@ Fincado el remate de bienes muebles se aplicará el depósito constituido. Dentr
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos, la cual deberá expedirla cumpliendo, en lo conducente, con los requisitos a que se refiere el artículo 30 de este Código, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
+Tan pronto como el postor cumpla con al requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos, la cual deberá expedirla cumpliendo, en lo conducente, con los requisitos a que se refiere el artículo 30 de este Código, apercibido de que si no lo hace, la autoridad ejecutara emitirá el documento correspondiente en su rebeldía.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -2944,3 +3010,7 @@ Artículo Único.- El presente Decreto entrará en vigor el día 1° de enero de
 P.O. 25 DE SEPTIEMBRE DE 2009.
 
 Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2009.
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero de 2010.
