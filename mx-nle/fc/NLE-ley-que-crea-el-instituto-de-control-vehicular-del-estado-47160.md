@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2008-12-31"
+last_updated: "2009-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -547,6 +547,12 @@ Artículo Décimo Tercero.- Para los efectos de lo dispuesto en el artículo 276
 
 Artículo Décimo Cuarto.- Durante el año 2009, los Municipios que se coordinen con el Instituto de Control Vehicular del Estado de Nuevo León para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+Artículo Décimo Quinto.- Durante el año 2010, los Municipios que se coordinen con el Instituto de Control Vehicular para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
+
 Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los treinta días del mes de noviembre de 2005. PRESIDENTE: DIP. CÉSAR AGUSTÍN SERNA ESCALERA: DIP. SECRETARIA: ALICIA MARGARITA AYALA MEDINA: DIP. SECRETARIO: JULIO REYES RAMÍREZ.- Rúbricas.
@@ -564,3 +570,7 @@ Artículo Único.- El presente Decreto entrará en vigor el 1° de Enero del añ
 P.O. 31 DE DICIEMBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor el 01 de Enero del año 2009.
+
+P.O. 23 DE DICIEMBRE DE 2009.
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero de 2010.
