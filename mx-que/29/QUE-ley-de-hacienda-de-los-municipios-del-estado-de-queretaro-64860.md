@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-64860
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-02"
-last_updated: "2009-10-23"
+last_updated: "2009-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el martes 2 de diciembre de 2008.
 
@@ -43,9 +43,13 @@ LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
 
 La presente Ley es de orden público y de observancia general; tiene por objeto regular la hacienda pública de los municipios del Estado de Querétaro y la totalidad de sus ingresos, por los conceptos contenidos en esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 2.
 
-Son competentes para la aplicación de la presente Ley: los ayuntamientos de los municipios del Estado, por conducto del encargado de las finanzas públicas municipales.
+Son competentes para la aplicación de la presente Ley: los ayuntamientos de los municipios del Estado, por conducto del titular de la dependencia encargada de las finanzas públicas municipales, el Director de Ingresos o el titular de la unidad administrativa encargada de la recaudación de los ingresos, así como los funcionarios que mediante acuerdo autorice el titular de la dependencia encargada de las finanzas públicas municipales.
 
 ###### Artículo 3.
 
@@ -1721,6 +1725,20 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su 
 
 Artículo Segundo. Se abroga la Ley de Hacienda de los Municipios del Estado de Querétaro Arteaga y la Ley del Impuesto Predial de los Municipios del Estado de Querétaro, publicadas en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", número 51, de fecha 13 de noviembre de 2002.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+Artículo Tercero. Los ayuntamientos del Estado de Querétaro, para el ejercicio fiscal 2010, deberán acordar que el impuesto predial que resulte de aplicar los valores de suelo y construcciones y la tarifa correspondiente, no sufra incremento respecto del impuesto causado en el ejercicio fiscal 2009.
+
+Se exceptúan de lo anterior, aquellos inmuebles que hayan incrementado su valor por sufrir modificaciones físicas, cambio de uso de suelo o cambio de situación jurídica.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+Artículo Cuarto. Los municipios del Estado de Querétaro, a través de sus respectivos ayuntamientos y durante la actual administración municipal, deberán aprobar programas tendientes a la regularización y actualización de valores catastrales dentro de su demarcación territorial.
+
 LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE. DADO EN EL SALÓN DE SESIONES "CONSTITUYENTES 1916-1917" RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, A LOS VEINTISIETE DÍAS DEL MES DE OCTUBRE DEL AÑO DOS MIL OCHO.
 
 A T E N T A M E N T E
@@ -1766,3 +1784,131 @@ Artículo Primero. La presente Ley entrará en vigor el día 1 de enero de 2010.
 Artículo Segundo. Se derogan todas las disposiciones fiscales que se opongan a la presente Ley.
 
 Artículo Tercero. Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 23 DE DICIEMBRE DE 2009.
+
+LEY POR LA QUE SE REFORMA EL ARTICULO 2 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO.
+
+Artículo Primero. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2010, serán las siguientes:
+
+I. Para los efectos de este ordenamiento se entiende por:
+
+a. Vivienda de interés social o popular, aquella a que se refiere el artículo 59 de la Ley de Hacienda del Estado de Querétaro.
+
+b. Por las siglas VSMGZ, veces el salario mínimo general vigente en la zona.
+
+II. Siempre que se trate de vivienda (sic) interés social o popular, los derechos que de acuerdo a la Ley de Hacienda del Estado (sic) Querétaro deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a. La inscripción de compraventa de inmuebles; compraventa de inmuebles con reserva de dominio; limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b. La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c. La expedición de certificados de no propiedad.
+
+III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a. La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b. Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c. Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 4 VSMGVZ por la inscripción del acto en el que conste la adquisición de vivienda social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona.
+
+IV. Se causarán al 50 por ciento los derechos establecidos en la Ley de Hacienda del Estado de Querétaro por los servicios del Registro Público de la Propiedad y del Comercio, consistentes en:
+
+a. La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
+
+b. La inscripción de la escritura pública en que conste la operación mediante las que las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios; y
+
+c. La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado.
+
+V. No se causarán derechos por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a. El acto en que conste la reestructuración de créditos señalados en el artículo 68 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicha dependencia se encuentre la anotación del crédito inicial;
+
+b. El testimonio en el que conste la adquisición de inmuebles, efectuada por personas físicas con actividad empresarial y personas morales, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que dichos inmuebles se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos; y
+
+c. El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas físicas con actividad empresarial y personas morales, siempre que con ello se propicie el mantenimiento de empleos.
+
+VI. Por la expedición de las constancias y certificaciones a que se refieren las fracciones III y IV del artículo 95 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1 VSMGZ.
+
+VII. Tratándose de desarrollos habitacionales de interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas causarán:
+
+a. Un derecho a razón de 6 VSMGZ, por los previstos en el artículo 103 de la Ley de Hacienda del Estado de Querétaro, siempre que la solicitud no implique cambio de uso de suelo.
+
+b. Un derecho a razón del (sic) 25 VSMGZ, por los previstos en el artículo 111 de la Ley de Hacienda del Estado de Querétaro, por cada prototipo de vivienda con que cuente el desarrollo, sin importar el número total de ellas en el mismo.
+
+Por los servicios previstos en los artículos 112, 113 y 119 del ordenamiento a que se refiere el inciso anterior, se causará y pagará el 50 por ciento de los derechos establecidos en dichos numerales.
+
+Por lo servicios previstos en el artículo 114 de la Ley de Hacienda del Estado de Querétaro, se causará y pagará el 25 por ciento de los derechos establecidos en la referida disposición.
+
+VIII. Los servicios prestados por las autoridades de la Secretaría de Seguridad Ciudadana, causarán el 50 por ciento de los derechos señalados en el artículo 131, cuando la revisión física y mecánica a que se refiere se lleve a cabo en el periodo ordinario que al efecto establezca la Secretaría de Gobierno.
+
+IX. Cuando los avisos de testamentos a los que se refiere el artículo 82 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes.
+
+X. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 54, obtendrán los siguientes beneficios:
+
+Mes de pago Descuento
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+XI. La Secretaría de Planeación y Finanzas podrá condonar los créditos fiscales que tiene derecho a percibir la hacienda pública del Estado, que al 31 de diciembre de 2009 sean exigibles y que el importe del crédito sea inferior o igual a 50 VSMGZ a esa fecha.
+
+XII. Tratándose de los derechos señalados en el artículo 145-C de la Ley de Hacienda del Estado de Querétaro, se estará a lo siguiente:
+
+a. Durante los meses de noviembre y diciembre, por la admisión, uso y disfrute del Parque Recreativo Mundo Cimacuático, para personas mayores a 16 años causarán un derecho de 0.24 VSMGZ.
+
+b. Durante los meses de noviembre y diciembre, por la admisión, uso y disfrute del Parque Recreativo Mundo Cimacuático, para personas de 16 años o menos causarán un derecho de 0.16 VSMGZ.
+
+XIII. Las personas adultas mayores que acrediten ser jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia del tal discapacidad emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la constancia única de propiedad que expida el Registro Público de la Propiedad y el Comercio para efectos de descuento en el impuesto predial.
+
+XIV. El Impuesto para el Fomento de la Educación Pública en el Estado, para Caminos y Servicios Sociales que se cause con motivo de los pagos que por concepto del Impuesto Sobre la Venta de Bienes Cuya Enajenación se Encuentra Gravada por la Ley del Impuesto Especial sobre Producción y Servicios a que se refiere el Capítulo Octavo del Título Tercero de la Ley de Hacienda del Estado, realicen los contribuyentes, se reducirá en un 100%.
+
+XV. Los servicios prestados por la Secretaría de Seguridad Ciudadana, contemplados en el artículo 129, fracción I, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán el equivalente a 0.25 VSMGZ adicional al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que será formado por el Secretario de Seguridad Ciudadana, el titular de la Dirección de Gestión de Emergencias y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a que se refiere este artículo.
+
+XVI. A los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 101-BIS, se aplicarán las siguientes reducciones:
+
+Reducción Supuesto
+
+30% En los paquetes familiares (por lo menos
+
+tres personas en las diferentes disciplinas,
+
+previa entrega de una copia del acta de
+
+nacimiento de cada familiar)
+
+Para adultos mayores.
+
+XVII. Para los efectos del Impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro, el Impuesto para el fomento de la educación pública en el Estado, para caminos y servicios sociales a que se refiere el Capítulo Cuarto del Título Tercero de dicho ordenamiento, se causará a la tasa del 0%.
+
+XVIII. Las personas físicas que sean propietarias de vehículos que provengan de otras entidades federativas, así como los de procedencia extranjera, que pretendan inscribirlos en el Padrón Vehicular Estatal, deberán acreditar su residencia en el Estado de Querétaro de por lo menos seis meses, presentando original y copia de la constancia de residencia municipal o de su credencial de elector con domicilio en el Estado de Querétaro.
+
+Las personas morales que tributen en términos del Título III de la Ley del Impuesto sobre la Renta y que se encuentren en los supuestos de los artículos 95 y 102 del mismo ordenamiento legal, que deseen dar de alta un vehículo de su propiedad en el Padrón Vehicular Estatal, deberán acreditar que su domicilio fiscal se encuentra ubicado en el Estado de Querétaro, por lo menos seis meses antes de la fecha en que se lleve a cabo el mencionado registro.
+
+En caso de que las personas a que se refieren los párrafos anteriores no acrediten lo establecido en este artículo, pagarán los derechos que se originen con motivo de los servicios previstos en la fracción II del artículo 135 de la Ley de Hacienda del Estado de Querétaro, en cantidad de 46 VSMGZ.
+
+XIX. Los servicios de control vehicular contemplados en el artículo 135, fracción II, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán el equivalente a 0.30 VSMGZ adicional al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un Comité que será formado por el Secretario de Seguridad Ciudadana, el titular de la Dirección de Gestión de Emergencias y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador.
+
+Artículo Segundo. La presente Ley entrará en vigor el día primero de enero de 2010.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+Artículo Cuarto. Publíquese en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 23 DE DICIEMBRE DE 2009.
+
+LEY POR LA QUE SE ADICIONAN LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS A LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del 01 de enero de 2010; envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
