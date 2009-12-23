@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-909-de-expropiacion-para-el-estado-de-veracruz-56995
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-05"
-last_updated: "2007-09-05"
+last_updated: "2009-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56995&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NUMERO 909 DE EXPROPIACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 593 DE EXPROPIACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 23 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de septiembre de 2007.
 
@@ -231,7 +233,7 @@ Primero. La presente Ley entrará en vigor al día siguiente de su publicación 
 
 Segundo. Se Abroga la Ley de Expropiación para el Estado de Veracruz de fecha 19 de agosto de 1987, publicada en la Gaceta Oficial del Estado el 8 de octubre del mismo año.
 
-Dada en el salón de sesiones de la LX Legislatura del Honorable Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los veintiséis días del mes de julio del año dos mil siete. Juan Nicolás Callejas Arroyo, diputado presidente.-Rúbrica. César Ulises García Vázquez, diputado secretario.-Rúbrica.
+Dada en el salón de sesiones de la LX Legislatura del Honorable Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los veintiséis días del mes de julio del año dos mil siete. Juan Nicolás Callejas Arroyo, diputado presidente.-Rúbrica. César Ulises García Vázquez, diputado secretario.- Rúbrica.
 
 Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/001487 de los diputados presidente y secretario de la Sexagésima Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los treinta días del mes de julio del año dos mil siete.
 
@@ -240,3 +242,13 @@ A t e n t a m e n t e
 Sufragio efectivo. No reelección
 
 Licenciado Fidel Herrera Beltrán, Gobernador del Estado.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 23 DE DICIEMBRE DE 2009.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se abroga la Ley de Expropiación número 909 para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado, de fecha cinco de septiembre del año dos mil siete.
+
+Tercero. Los procedimientos y expedientes de expropiación que se encuentren en curso a la entrada en vigor de la presente Ley, continuarán su trámite, hasta su conclusión, conforme a las disposiciones vigentes al momento de su inicio.
