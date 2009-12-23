@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-ganadero-del-estado-de-sinaloa-33344"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2003-07-30"
+last_updated: "2009-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DEL DESARROLLO GANADERO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 30 de julio de 2003.
 
@@ -181,7 +181,9 @@ VI. La Comisión Estatal de la Leche;
 
 VII. El Servicio de Clasificaciones y Especificaciones de Ganado y Carne;
 
-VIII. El Servicio Estatal de Clasificación da la Leche;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+VIII. El Servicio Estatal de Clasificación de la Leche, productos derivados y subproductos;
 
 IX. La Dirección de Vialidad y Transportes; y,
 
@@ -259,7 +261,9 @@ XXV. Levantar actas circunstanciadas con motivo de la violación de la presente 
 
 XXVI. Otorgar los permisos para el establecimiento de expendios de carne clasificada;
 
-XXVII. Implementar y ejecutar el Servicio de Clasificaciones y Especificaciones de Ganado y Carne, así como el Servicio Estatal de Clasificación de la Leche, expidiendo los acuerdos e instructivos necesarios para cumplir con sus funciones;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+XXVII. Implementar y ejecutar el Servicio de Clasificaciones y Especificaciones de Ganado y Carne, así como el Servicio Estatal de Clasificación de la Leche, Productos Derivados y Subproductos, expidiendo los acuerdos e instructivos necesarios para cumplir con sus funciones;
 
 XXVIII. Imponer las sanciones que prevé la presente Ley en el ámbito de sus competencias, así como resolver el recurso administrativo que se interponga;
 
@@ -1141,6 +1145,8 @@ Los propietarios o poseedores de animales de cualquier especie en el Estado, est
 
 ### Capítulo III. De la Industria de la Leche
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 174.
 
 Se declara de interés público la construcción y funcionamiento de corrales y praderas naturales y artificiales para engorda de ganado, así como el establecimiento de los grados de calidad de carne en canal de ganado mayor y menor, proveniente de las engordas en corrales y praderas irrigadas o de temporal, en buenas condiciones sanitarias y de alimentación.
@@ -1183,15 +1189,17 @@ Los sujetos a que se refiere el artículo 4 de esta Ley, están obligados a perm
 
 ###### Artículo 181.
 
-El Gobierno del Estado fomentará y promoverá el establecimiento de establos productores de leche, granjas agropecuarias, plantas pasteurizadoras y la realización de cuencas lecheras; asimismo, organizará e integrará a los productores de leche a las necesidades de la planificación agropecuaria.
+El Gobierno del Estado fomentará y promoverá el establecimiento de establos productores de leche, granjas agropecuarias, plantas pasteurizadoras, plantas procesadoras, fabricantes de productos derivados de leche y la realización de cuencas lecheras; asimismo, organizará e integrará a los productores de leche a las necesidades de la planificación agropecuaria.
 
 ###### Artículo 182.
 
 Los establecimientos o empresas destinados a la producción de leche deberán inscribirse en la Secretaría previa autorización de la autoridad Federal competente. Los requisitos de inscripción los fijará la misma Secretaría.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 183.
 
-Las plantas pasteurizadoras y las explotaciones lecheras deberán contar con instalaciones y equipos higiénicos, de acuerdo con las normas técnicas aplicables.
+Las plantas pasteurizadoras y procesadoras, así como las explotaciones lecheras deberán contar con instalaciones y equipos higiénicos, de acuerdo con las normas técnicas aplicables.
 
 ###### Artículo 184.
 
@@ -1219,51 +1227,79 @@ El Gobernador del Estado acordará la integración de la Comisión Estatal de la
 
 La Comisión Estatal de la Leche en el Estado de Sinaloa, tendrá las siguientes funciones:
 
-I. Asesorar, proponer iniciativas, lineamientos, criterios y actividades a realizar por la Secretaría, en coordinación con las dependencias o entidades responsables, a nivel federal, estatal o municipal para la ejecución de los programas en materia de producción, industrialización, comercialización, abasto, autenticidad, calidad sanitaria y nutricional de la leche para consumo humano;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-II. Fungir como instancia de coordinación y concertación entre el sector público, los productores, industriales y comerciantes, a efecto de que la ordeña y la comercialización de la totalidad de la leche, sea la requerida en calidad y en cantidad por los consumidores de la entidad;
+I. Asesorar, proponer iniciativas, lineamientos, criterios y actividades a realizar por la Secretaría, en coordinación con las dependencias o entidades responsables, a nivel federal, estatal o municipal para la ejecución de los programas en materia de producción, industrialización, comercialización, abasto, autenticidad, calidad sanitaria y nutricional de la leche, productos derivados y subproductos para consumo humano;
 
-III. Promover ante las autoridades estatales, los productores y los industriales de la leche, las medidas económicas, técnicas y jurídicas para que se propicie la eficiencia en todas las etapas de producción, industrialización y comercialización de la leche pasteurizada para consumo directo;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-IV. Coadyuvar con el Servicio Estatal de Clasificación de la Leche, en las funciones que tenga encomendadas;
+II. Fungir como instancia de coordinación y concertación entre el sector público, los productores, industriales y comerciantes, a efecto de que la ordeña, industrialización y la comercialización de la totalidad de la leche, sea la requerida en calidad y en cantidad por los consumidores de la entidad;
 
-V. Promover que la ordeña, transporte, pasteurización y distribución al consumidor de dicho alimento, se realice dentro de las normas sanitarias y nutricionales estipuladas en el Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios y el Reglamento de Control Sanitario de Productos y Servicios;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-VI. Formular estudios y demás instrumentos de información que requiera la planeación y fomento de la producción, industrialización y comercialización de la leche para consumo en Sinaloa;
+III. Promover ante las autoridades estatales, los productores y los industriales de la leche, las medidas económicas, técnicas y jurídicas para que se propicie la eficiencia en todas las etapas de producción, industrialización y comercialización de la leche pasteurizada, productos derivados y subproductos para consumo directo;
 
-VII. Proponer, a petición de las partes, solución a las controversias que puedan suscitarse entre los estableros, industrias pasteurizadoras y comerciantes, en relación a la calidad y mecanismo de comercialización de la leche fresca para consumo líquido dentro del Estado;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+IV. Coadyuvar con el Servicio Estatal de Clasificación de la Leche, Productos Derivados y Subproductos, en las funciones que tenga encomendadas;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+V. Promover que la ordeña, transporte, pasteurización, industrialización y distribución al consumidor de dicho alimento, productos derivados y subproductos se realice dentro de las normas sanitarias y nutricionales estipuladas en el Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios y el Reglamento de Control Sanitario de Productos y Servicios;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+VI. Formular estudios y demás instrumentos de información que requiera la planeación y fomento de la producción, industrialización y comercialización de la leche, productos derivados y subproductos para consumo en Sinaloa;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+VII. Proponer, a petición de las partes, solución a las controversias que puedan suscitarse entre los estableros, industrias pasteurizadoras, industrias procesadoras y comerciantes, en relación a la calidad y mecanismo de comercialización de la leche fresca, productos derivados y subproductos para consumo líquido dentro del Estado;
 
 VIII. Mantener el registro de productores y plantas procesadoras de leche en el Estado, con la finalidad de identificar su ubicación y producción;
 
-IX. Proponer acciones de capacitación, información, difusión y educación relacionadas con la leche;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+IX. Proponer acciones de capacitación, información, difusión y educación relacionadas con la leche, productos derivados y subproductos;
 
 X. Implementar y apoyar investigaciones científicas, que conduzcan a una mayor producción e industrialización de la leche, así como una mejor calidad sanitaria y nutricional; y,
 
 XI. Las demás que le otorgue esta Ley y su Reglamento.
 
-#### Sección I. Del Servicio Estatal de Clasificación de la Leche
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+#### Sección I. Del Servicio Estatal de Clasificación de la Leche, Productos Derivados y Subproductos
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 190.
 
-Con el fin de apoyar y estimular la producción y garantizar la calidad de la leche en el Estado de Sinaloa, se crea el Servicio Estatal de Clasificación de la Leche el cual tendrá por objeto clasificar la leche por su grado de calidad para venta y consumo humano dentro del Estado, el cual se prestará conforme a esta Ley y su Reglamento, además de los acuerdos e instructivos que en la materia expida la Secretaría. Es facultad de la Secretaría la implementación y ejecución del Servicio Estatal de Clasificación de la Leche.
+Con el fin de apoyar y estimular la producción y garantizar la calidad de la leche en el Estado de Sinaloa, se crea el Servicio Estatal de Clasificación de la Leche, Productos Derivados y Subproductos, el cual tendrá por objeto clasificar la leche, productos derivados y subproductos, por su grado de calidad para venta y consumo humano dentro del Estado, el cual se prestará conforme a esta Ley y su Reglamento, además de los acuerdos e instructivos que en la materia expida la Secretaría. Es facultad de la Secretaría la implementación y ejecución del Servicio Estatal de Clasificación de la Leche, Productos Derivados y Subproductos.
 
-Se establecerá las mismas condiciones para la clasificación de la leche local y la de introducción, incluyendo los cobros realizados para tal servicio.
+Se establecerán las mismas condiciones para la clasificación de la leche, productos derivados y subproductos locales y los de introducción, incluyendo los cobros realizados para tal servicio.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 191.
 
-El Servicio Estatal de Clasificación de la Leche es la herramienta principal con que cuenta la Secretaría, para verificar y garantizar la autenticidad, calidad sanitaria y nutricional de la leche para consumo dentro del Estado de Sinaloa, la cual se hará respetando la normatividad federal en la materia y en estrecha coordinación con las autoridades Federales y Estatales competentes.
+El Servicio Estatal de Clasificación de la Leche, Productos Derivados y Subproductos, es la herramienta principal con que cuenta la Secretaría, para verificar y garantizar la autenticidad, calidad sanitaria y nutricional de la leche, productos derivados y subproductos para consumo, dentro del Estado de Sinaloa, la cual se hará respetando la normatividad federal en la materia y en estrecha coordinación con las autoridades federales y estatales competentes.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 192.
 
-El Servicio Estatal de Clasificación de la Leche en coordinación con las autoridades de salud, a través de la inspección de los establos, plantas pasteurizadoras, distribuidores y establecimientos comerciales de leche líquida, verificará de manera permanente que se cumpla cabalmente con las especificaciones sanitarias con el fin de controlar su pureza y calidad. Para lo cual los propietarios o encargados de estos establecimientos, están obligados a permitir el libre acceso de los inspectores para cerciorarse de la observancia de la presente Ley y deberán proporcionarles todas las facilidades necesarias para el cumplimiento de sus atribuciones.
+El Servicio Estatal de Clasificación de la Leche, Productos Derivados y Subproductos en coordinación con las autoridades de salud, a través de la inspección de los establos, plantas pasteurizadoras, plantas procesadoras, fabricantes de productos y subproductos derivados de leche, distribuidores y establecimientos comerciales de leche líquida, productos derivados y subproductos verificará de manera permanente que se cumpla cabalmente con las especificaciones sanitarias con el fin de controlar su pureza y calidad. Para lo cual, los propietarios o encargados de estos establecimientos, están obligados a permitir el libre acceso de los inspectores para cerciorarse de la observancia de la presente Ley y deberán proporcionarles todas las facilidades necesarias para el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 193.
 
-El Gobierno del Estado en coordinación con otras instituciones públicas y privadas, involucradas en el sector, podrá promover esquemas de capacitación y asistencia técnica a favor de los productores pecuarios tendientes a mejorar la productividad y calidad de la leche.
+El Gobierno del Estado en coordinación con otras instituciones públicas y privadas, involucradas en el sector, podrá promover esquemas de capacitación y asistencia técnica a favor de los productores pecuarios tendientes a mejorar la productividad y calidad de la leche, productos derivados y subproductos.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 194.
 
-El Gobernador del Estado, por conducto de la instancia que corresponda y en coordinación con el Gobierno Federal, concederá los subsidios que juzgue convenientes en favor de los productores de leche líquida, que cumplan con lo dispuesto en la presente Ley y su Reglamento.
+El Gobernador del Estado, por conducto de la instancia que corresponda y en coordinación con el Gobierno Federal, gestionará y, en su caso, concederá los subsidios que juzgue convenientes en favor de los productores de leche líquida, que cumplan con lo dispuesto en la presente Ley y su Reglamento.
 
 ## Título Décimo. De la Inspección Ganadera
 
@@ -1381,9 +1417,11 @@ La Secretaría integrará una relación de multas impuestas, llevando el control
 
 La Secretaría de Administración y Finanzas, informará a la Secretaría del resultado del cobro efectuado.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 212.
 
-Las violaciones a las disposiciones legales concernientes al Servicio de Clasificaciones y Especificaciones de Ganado y Carne y al Servicio Estatal de Clasificación de la Leche se sancionarán por la Secretaría, escuchando la opinión de la Comisión Estatal de Desarrollo Ganadero y la Comisión Estatal de la Leche, respectivamente.
+Las violaciones a las disposiciones legales concernientes al Servicio de Clasificaciones y Especificaciones de Ganado y Carne y al Servicio Estatal de Clasificación de la Leche, Productos Derivados y Subproductos, se sancionarán por la Secretaría, escuchando la opinión de la Comisión Estatal de Desarrollo Ganadero y la Comisión Estatal de la Leche, respectivamente.
 
 ###### Artículo 213.
 
@@ -1462,3 +1500,11 @@ Jesús Vega Acuña.
 El Secretario de Administración y Finanzas.
 
 Oscar J. Lara Aréchiga
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
