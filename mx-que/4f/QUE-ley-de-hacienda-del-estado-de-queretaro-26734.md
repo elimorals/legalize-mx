@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-26734"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2008-12-13"
+last_updated: "2009-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre del 2002.
 
@@ -299,85 +299,593 @@ II. La documentación señalada en el artículo 136 fracción II, III y IV, y
 
 III. Presentar tarjeta de circulación. Para el caso de pérdida o extravío de la misma presentar constancia de no infracción expedida por la Secretaría de Seguridad Ciudadana del Estado de Querétaro.
 
-### CAPÍTULO SEGUNDO. IMPUESTO SOBRE TENENCIA
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-O USO DE VEHÍCULOS DE MOTOR
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-Objeto
+### CAPÍTULO SEGUNDO. IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 19.
 
-Es objeto de este impuesto, la tenencia o uso de vehículos de motor de modelo de más de diez años de antigüedad al año modelo de la unidad anterior al ejercicio fiscal en curso.
+Están obligadas al pago del impuesto previsto en este Capítulo, las personas físicas y las morales tenedoras o usuarias de los vehículos a que el mismo se refiere, siempre que el Estado de Querétaro expida placas de circulación en su jurisdicción territorial a dichos vehículos.
 
-Para los efectos del presente capítulo se deberá entender por año modelo, aquel que el fabricante le otorgue a la unidad como año de producción.
+Para los efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
 
-Sujeto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 20.
 
-Son sujetos de este Impuesto, las personas físicas y morales, tenedoras o usuarias de los vehículos de motor a que se refiere el artículo anterior.
+Los contribuyentes pagarán el impuesto a que se refiere este Capítulo, por año de calendario, durante los tres primeros meses, ante las oficinas autorizadas, salvo que en el apartado correspondiente se establezca disposición en contrario.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Las personas afiliadas al Instituto Nacional de Adultos en Plenitud o que tengan el carácter de pensionados o jubilados por las diversas instituciones sociales o personas con alguna discapacidad física que presenten la constancia del tal discapacidad emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, causarán y pagarán un 50% de este impuesto, debiendo acreditar ante la autoridad correspondiente el carácter con que se ostente.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-Obligaciones
+###### Artículo 21.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+El impuesto se pagará en las oficinas en las que la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro autorice el registro, alta del vehículo o expida el permiso provisional para circulación en traslado de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas de la mencionada Secretaría, siempre y cuando el domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público se encuentre dentro del territorio del Estado de Querétaro.
 
-###### ARTÍCULO 21.
+Los contribuyentes del impuesto a que se refiere este Capítulo, no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos al registro estatal de contribuyentes. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
 
-Cuando por cualquier causa un vehículo salga de la posesión o deje de ser usado por la persona a nombre de quien está inscrito en el padrón vehicular estatal o dicho vehículo sea registrado en otra entidad federativa, dicha persona estará obligada a dar de baja el vehículo y placas de circulación del registro mencionado, debiendo cumplir con los requisitos señalados en el artículo 140 de esta Ley.
+El pago antes mencionado se realizará de manera simultánea con los derechos por los servicios de control vehicular establecidos en esta Ley.
 
-En caso de incumplimiento, será considerado responsable solidario del pago del impuesto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-Tratándose de este impuesto y cuando los particulares sean omisos en el cumplimiento de la obligación a que se refiere el primer párrafo de este precepto, el plazo a que se refiere el artículo 44 del Código Fiscal del Estado de Querétaro, se computará a partir de la fecha en la que las autoridades fiscales tengan conocimiento del cambio de propietario, poseedor o usuario del vehículo en cuestión.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 22.
 
-Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
+Para los efectos de este capítulo se considera como:
 
-I. Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto.
+I. Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás;
 
-II. Quienes reciban en consignación o comisión, para su enajenación, los vehículos a que se refiere este Capítulo, hasta por el adeudo del impuesto que en su caso existiera.
+II. Año Modelo, el año de fabricación o ejercicio automotriz comprendido por el periodo entre el 1 de octubre del año anterior y el 30 de septiembre del año que transcurra;
 
-III. Las autoridades competentes que en el ejercicio de sus funciones, autoricen el registro de vehículos, matrículas, altas, cambios o bajas de placas, sin haberse cerciorado que no existen adeudos, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+III. Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico que configuran externamente a un vehículo y de la que derivan los diversos modelos;
 
-Base
+IV. Versión, cada una de las distintas presentaciones comerciales que tiene un modelo;
+
+V. Línea:
+
+a) Automóviles con motor de gasolina o gas hasta de 4 cilindros.
+
+b) Automóviles con motor de gasolina o gas de 6 u 8 cilindros.
+
+c) Automóviles con motor diesel.
+
+d) Camiones con motor de gasolina, gas o diesel.
+
+e) Tractores no agrícolas tipo quinta rueda.
+
+f) Autobuses integrales.
+
+g) Automóviles eléctricos;
+
+VI. Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados;
+
+VII. Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
+
+b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de este apartado, al año modelo en que se efectúe la importación o a los nueve años modelos inmediatos anteriores al año de la importación definitiva; y
+
+VIII. Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 23.
 
-La base del impuesto para motocicletas y vehículos destinados al transporte de personas de hasta diez pasajeros es el número de cilindros del motor, para vehículos de mayor capacidad será el tipo de vehículo del que se trate.
+Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+I. Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de dicha contribución;
+
+II. Quienes reciban vehículos en consignación o comisión, para su enajenación, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera; y
+
+III. Los servidores públicos competentes que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por el impuesto previsto en este Capítulo, a favor del Estado de Querétaro o del impuesto sobre tenencia o uso de vehículos previsto en la legislación federal, ya sea a favor de la Entidad, de otros Estados o de la Federación, según sea el caso, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de la obligación que corresponda.
+
+Las autoridades competentes, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio del Estado de Querétaro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 24.
 
-La cuota del impuesto sobre tenencia o uso de vehículos de motor se determinará como sigue:
+Cuando por cualquier causa un vehículo cambie de propietario, salga de la posesión o deje de ser usado por la persona a nombre de quien está inscrito en el padrón vehicular estatal o dicho vehículo sea registrado en otra entidad federativa, dicha persona estará obligada a dar de baja el vehículo y placas de circulación del registro mencionado, debiendo cumplir con los requisitos señalados en el artículo 140 de esta Ley.
 
-TIPO DE VEHICULO VSMGZ
+En caso de incumplimiento, será considerado responsable solidario del pago del impuesto a que se refiere este Capítulo.
+
+Cuando los particulares sean omisos en el cumplimiento de la obligación a que se refiere el primer párrafo de este precepto, el plazo a que se refiere el artículo 44 del Código Fiscal del Estado de Querétaro, se computará a partir de la fecha en la que las autoridades fiscales tengan conocimiento del cambio de propietario, poseedor o usuario del vehículo en cuestión.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25.
+
+La Federación, el Distrito Federal, los Estados, los Municipios, sus organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-A.
+
+No se causará el impuesto a que se refiere este Capítulo, por la tenencia o uso de los siguientes vehículos:
+
+I. Los eléctricos utilizados para el transporte público de personas;
+
+II. Los importados temporalmente, en los términos de la legislación aduanera;
+
+III. Los vehículos de la Federación, Estados, Municipios y Distrito Federal, y sus organismos descentralizados, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
+
+IV. Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
+
+V. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos. Tratándose de automóviles, el impuesto no se causará, siempre que carezcan de placas de circulación;
+
+VI. Las embarcaciones dedicadas al transporte marítimo;
+
+VII. Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga; y
+
+VIII. Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente, dentro de los 15 días siguientes a aquél en que tenga lugar el hecho de que se trate.
+
+Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este artículo, deberán comprobar ante la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro que se encuentran comprendidos en dichos supuestos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+APARTADO A
+
+VEHÍCULOS DE DIEZ O MÁS AÑOS MODELO ANTERIOR
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-B.
+
+Los tenedores o usuarios de vehículos cuyo año modelo tenga más de diez años de antigüedad al ejercicio fiscal en curso, previstos en este artículo, calcularán el impuesto a que se refiere este apartado de acuerdo a lo siguiente:
+
+TABLA
+
+TIPO DE VEHÍCULO VSMGZ
 
 Motocicleta 2
 
 Automóvil 3
 
-Camión, Autobús y Camión
+Camión, Autobús y Camión Tipo
 
-Tipo Tractor No Agrícol
+Tractor No Agrícola (Quinta Rueda) 5
 
-(Quinta Rueda) 5
+Embarcaciones 7
 
-Otros 7
+Veleros 5
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+Esquí acuático motorizado 4
 
-###### Artículo 25.
+Motocicleta acuática 4
 
-Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses del año o al momento de registrar la unidad en el padrón vehicular estatal; los pagos se realizarán ante las oficinas recaudadoras locales o módulos autorizados por la Secretaría de Planeación y Finanzas.
+Tabla de oleaje con motor 2
 
-El pago antes mencionado se realizará de manera simultánea con los Derechos por los Servicios de Control Vehicular establecidos en esta Ley.
+Las personas afiliadas al Instituto Nacional de las personas Adultas Mayores o que tengan el carácter de pensionados o jubilados por las diversas instituciones sociales o personas con alguna discapacidad física que presenten la constancia de tal discapacidad emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, causarán y pagarán un 50% de este impuesto, debiendo acreditar ante la autoridad correspondiente el carácter con que se ostente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-C.
+
+Tratándose de los vehículos previstos en este artículo, de más de diez años de fabricación anteriores al de aplicación de este apartado, el impuesto se pagará conforme a la siguiente:
+
+TABLA
+
+TIPO DE VEHÍCULOS CUOTA
+
+AERONAVES:
+
+Hélice $ 448.00
+
+Turbohélice 2,480.00
+
+Reacción 3,583.00
+
+HELICÓPTEROS 551.00
+
+El monto de las cuotas establecidas en este artículo, se actualizarán con el factor a que se refiere el artículo 25- L de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+APARTADO B
+
+VEHÍCULOS NUEVOS Y DE HASTA NUEVE AÑOS MODELO ANTERIOR
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-D.
+
+En el caso de vehículos nuevos o importados, el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circulación en traslado o alta del vehículo.
+
+Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este Capítulo, correspondiente al primer año de calendario, en el momento en que soliciten el registro del vehículo de que se trate, ante las oficinas de la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro. Por el segundo y siguientes años de calendario, se estará a lo dispuesto en el artículo 20 de esta Ley.
+
+Para los efectos del párrafo anterior, el impuesto se entenderá causado en el momento en el que queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva.
+
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el artículo 20 y el presente artículo de esta ley, según sea el caso.
+
+En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación del impuesto a que se refiere este apartado, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+Para los efectos de este apartado, también se consideran automóviles, a los omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
+
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este apartado, se pagará como si éste fuese nuevo.
+
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
+
+Mes de Factor aplicable al
+
+Adquisición impuesto causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-E.
+
+Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+#### SECCIÓN I. AUTOMÓVILES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-F.
+
+Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
+
+I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+
+TARIFA
+
+Límite inferior límite superior Cuota fija Tasa para aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 428,768.31 0.00 3.0
+
+428,768.32 825,140.79 12,863.05 8.7
+
+825,140.80 1,109,080.70 47,347.45 13.3
+
+1,109,080.71 1,393,020.60 85,111.46 16.8
+
+1,393,020.61 En adelante 132,813.36 19.1
+
+Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80; y
+
+II. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
+
+Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+
+Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+#### SECCIÓN II. OTROS VEHÍCULOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-G.
+
+En esta sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicleta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-H.
+
+Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $8,657.06 para aeronaves de pistón, turbohélice y helicópteros; y por la cantidad de $9,324.72 para aeronaves de reacción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-I.
+
+Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-J.
+
+Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+
+TARIFA
+
+Límite inferior límite superior Cuota fija Tasa para aplicarse
+
+$ $ $ sobre el excedente
+
+Del límite inferior
+
+%
+
+0.01 200,000.00 0.00 3
+
+200,000.01 275,046.93 6,000.00 8.7
+
+275,046.94 369,693.57 12,529.08 13.3
+
+369,693.58 en adelante 25,117.08 16.8
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-K.
+
+Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-L.
+
+Para los efectos de lo dispuesto en los artículos 25-F, 25-H, 25-I y 25-J de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-M.
+
+Las autoridades competentes, para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere este apartado, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+#### SECCIÓN III. VEHÍCULOS USADOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-N.
+
+Tratándose de vehículos de fabricación nacional o importados, a que se refieren los artículos 25-F, fracción II y 25-K de esta Ley, así como de aeronaves, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda, conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+Años de
+
+antigüedad Factor
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 25- L de esta Ley.
+
+Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados "taxis", el impuesto a que se refiere este apartado se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este artículo; y
+
+II. La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el artículo 25-L de esta Ley; el resultado obtenido se multiplicará por 0.245%.
+
+Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-O.
+
+Tratándose de automóviles de fabricación nacional o importada, de hasta nueve años modelo anteriores al de aplicación de este apartado, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Factor de
+
+antigüedad depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con lo dispuesto en el artículo 25-L de esta Ley; al resultado se le aplicará la tarifa a que hace referencia el artículo 25-F de esta Ley.
+
+Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-P.
+
+Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Antigüedad Factor de depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+10 0.4000
+
+11 0.3500
+
+12 0.3000
+
+13 0.2625
+
+14 0.2250
+
+15 0.1875
+
+16 0.1500
+
+17 0.1125
+
+18 0.0750
+
+19 y siguientes 0.0375
+
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con lo dispuesto en el artículo 25-L de esta Ley; al resultado se le aplicará la tasa a que hace referencia el artículo 25-I de la misma.
+
+Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 25-Q.
+
+Tratándose de motocicletas de fabricación nacional o importada, de hasta nueve años modelo anteriores al de aplicación de este apartado, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de depreciación
+
+1 0.9
+
+2 0.8
+
+3 0.7
+
+4 0.6
+
+5 0.5
+
+6 0.4
+
+7 0.3
+
+8 0.2
+
+9 0.1
+
+A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hace referencia el artículo 25-J de esta Ley.
+
+Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
 
 ### CAPÍTULO TERCERO. IMPUESTO POR LA PRESTACIÓN DE SERVICIO
 
@@ -1039,7 +1547,11 @@ PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 Por la inscripción de compraventa de inmuebles; compraventa de inmuebles con reserva de dominio; permuta de bienes inmuebles; adjudicaciones judiciales; dación en pago de inmuebles; escrituración en rebeldía; adjudicaciones por herencia; limitaciones de dominio; usufructo, uso, nuda propiedad; consolidación de propiedad; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios, se causará el derecho a razón del seis al millar sobre el valor del inmueble, de acuerdo a lo establecido en el artículo 65 de esta Ley.
 
-Por la inscripción de la cancelación de reserva de dominio de bienes inmuebles, el derecho se calculará sobre el monto respecto del cual se hubiere reservado el dominio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+Por la inscripción de la cancelación de reserva de dominio de bienes inmuebles, se causará un derecho equivalente a 3 VSMGZ.
 
 ###### Artículo 58.
 
@@ -1105,9 +1617,15 @@ XII. Rectificación de documento;
 
 XIII. Sustitución de deudor o acreedor;
 
-XIV. Prórroga de gravamen; y
+XIV. Prórroga de gravamen; y (sic)
 
-XV. Protocolización de acuerdos.
+XV. Protocolización de acuerdos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+XVI. Constitución de habitación.
 
 ###### Artículo 63.
 
@@ -1123,17 +1641,23 @@ Por la inscripción de actas de asambleas o administrativas que no impliquen aum
 
 Por la inscripción de cualquiera de los actos o contratos precisados en los artículos que anteceden, se pagará el derecho conforme al valor mayor que resulte entre el de la operación consignada o el avalúo comercial que se practique; si no se hubiere practicado el avalúo en razón a la naturaleza del acto, servirá de base para el pago el valor catastral, tratándose de inmuebles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-Tratándose de la inscripción de compraventa de inmueble con reserva de dominio, se causará el derecho a razón de seis al millar sobre el valor pagado al momento de la firma de la escritura. Así mismo, causará derechos en razón de seis al millar la inscripción de la cancelación de reserva de dominio de bienes inmuebles. El derecho se calculará sobre el monto respecto del cual se hubiere reservado el dominio, tomando como base del cálculo lo dispuesto por el párrafo que antecede.
+Tratándose de la inscripción de compraventa de inmueble con reserva de dominio, se causará el derecho a razón de seis al millar sobre el valor pagado al momento de la firma de la escritura.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 66.
 
-Se pagará por concepto de derechos el equivalente a tres VSMGZ, por la inscripción de:
+Se pagará por concepto de derechos el equivalente a 3 VSMGZ, por la inscripción de:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 I. Cancelación de:
 
@@ -1141,45 +1665,55 @@ a. Aviso definitivo o preventivo;
 
 b. Embargo;
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
-
 c. Fideicomiso, fideicomiso de garantía o traslativo de dominio o de administración;
 
-d. Suspensión de pagos; y (sic)
+d. Suspensión de pagos;
 
 e. Contrato de Hipoteca;
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+f. Arrendamiento financiero; y
 
-f. Arrendamiento financiero;
+g. Constitución de crédito agrícola.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
-
-g. Actos o contratos relativos a la subdivisión de régimen de copropiedad; y
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
-
-h. Constitución de crédito agrícola.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
 II. Contratos de comodato y otros de naturaleza mercantil no especificados en otras disposiciones de la presente ley;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
 III. Radicación de juicio sucesorio ante notario, informe de testamento, ratificación de firmas, registro de firma y sello de corredor público, registro de título de corredor público, emisión de certificados digitales;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
 IV. Modificación de fideicomiso con garantía;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2005)</small>
+
 V. Anotación marginal que no modifique el derecho; y (sic)
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
 VI. Cualquier acto, contrato o documento cuyo valor no pueda ser determinado;
 
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
-VII. Adjudicación que se realice a favor de los beneficiarios, respecto de bienes inmuebles considerados para efectos de esta Ley como vivienda de interés social, cuya transmisión haya sido dispuesta mediante testamento, en términos del artículo 1460-Bis del Código Civil del Estado de Querétaro.
+VII. Adjudicación que se realice a favor de los beneficiarios, respecto de bienes inmuebles considerados para efectos de esta Ley como vivienda de interés social, cuya transmisión haya sido dispuesta mediante testamento, en términos del artículo 1460-Bis del Código Civil del Estado de Querétaro;
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+VIII. Cancelación de convenio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 67.
 
-Por la inscripción de fianzas, obligaciones solidarias, compraventa con reserva de dominio de bienes muebles, constitución de garantías reales sobre muebles e hipotecas industriales, disolución de copropiedad, compraventa de bienes muebles, crédito con garantía hipotecaria, actos o contratos relativos a la disolución de la subdivisión del régimen de copropiedad, se cobrará por concepto de derechos el 2.5 al millar sobre el importe de operación.
+Por la inscripción de fianzas, obligaciones solidarias, compraventa con reserva de dominio de bienes muebles, constitución de garantías reales sobre muebles e hipotecas industriales, compraventa de bienes muebles, crédito con garantía hipotecaria, disolución de la copropiedad o actos o contratos relativos a la disolución de la subdivisión del régimen de copropiedad, se cobrará por concepto de derechos el 2.5 al millar sobre el importe de operación.
+
+En la inscripción de actos o contratos relativos a la subdivisión o disolución de copropiedad, los derechos señalados en el párrafo anterior, se causarán únicamente en aquellos casos en los que exista transmisión de los derechos de propiedad. De no existir dicha transmisión o demasía, se cobrarán por concepto de derechos 12 VSMGZ.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -1217,17 +1751,27 @@ Por toda clase de actos, contratos o convenios mediante los cuales se subdividan
 
 Por todos los actos, contratos o convenios semejantes a los enunciados en el artículo anterior, relativos a predios de tipo popular urbano, se cobrará por concepto de derechos en el registro cinco VSMGZ.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 73.
 
-Se pagarán cuarenta VSMGZ por la inscripción de:
+Se pagarán 40 VSMGZ por la inscripción de:
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 I. Aumento de capital de sociedades mercantiles;
 
-II. Autorización de fraccionamiento, nomenclatura de calles, protocolización de planos, lotificación o relotificación y acta de entrega-recepción.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+
+II. Autorización de fraccionamiento, nomenclatura de calles, protocolización de planos, lotificación o relotificación y acta de entrega-recepción;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+III. Protocolización de deslinde catastral.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -1289,11 +1833,11 @@ certificado por inmueble 3
 
 Las solicitudes emitidas por autoridades judiciales no causarán derechos, siempre y cuando su atención no implique la expedición de certificados, copias certificadas o la realización de algún acto de inscripción.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 76.
 
-Por el servicio de consulta asistida al sistema de información del Registro Público de la Propiedad, entendiéndose por tal servicio aquél que se presta a los usuarios por personal del Registro mediante consulta a una base de datos, se causarán 0.3 VSMGZ por cada consulta.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
@@ -1401,45 +1945,55 @@ VI. Copia certificada de plano de levantamiento topográfico o deslinde catastra
 
 ###### Artículo 85.
 
-Por la ejecución de deslindes catastrales se causaran y pagarán:
+Por la ejecución de deslindes catastrales se causarán y pagarán:
 
-I.- De predios urbanos o predios valuados como urbanos en los términos de la Ley de Catastro para el Estado de Querétaro, con superficie:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Metros Cuadrados VSMGZ Sumar 1 VSMGZ por cada:
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+I. De predios urbanos y predios valuados como urbanos en los términos de la Ley de Catastro para el Estado de Querétaro, con superficie:
+
+Metros Cuadrados VSMGZ Sumar 1 VSMGZ por cada
 
 Hasta de 150 20
 
-De más de 150 20 15 m2, hasta llegar a 500 m2
+De más de 150 20 15 m2 hasta llegar a 500 m2
 
-De más de 500 44 16 m2, hasta llegar a 1000 m2
+De más de 500 44 16 m2 hasta llegar a 1000 m2
 
-De más de 1000 76 80 m2, hasta llegar a 5000 m2
+De más de 1000 76 80 m2 hasta llegar a 5000m2
 
-De más de 5000 126 100 m2, hasta llegar a 20000 m2
+De más de 5000 126 100 m2 hasta llegar a 20000m2
 
-De más de 20000 276 120 m2
+De más de 20000 276 120 m2 hasta llegar a 50000m2
 
-II.- De predios rústicos con superficie:
+De más de 50000 526 200 m2 excedente
 
-Hectáreas VSMGZ
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Hasta 10 35 Por la primera hectárea o fracción, sumar 10
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-VSMGZ por cada hectárea o fracción que se
+II. De predios rústicos con superficie:
 
-exceda de la primera hectárea.
+Hectáreas VSMGZ Sumar 1 VSMGZ por cada
 
-De más de 10 125 Sumar 7 VSMGZ por cada hectárea hasta
+Hasta 10 55 Por primera hectárea o fracción, sumar
 
-llegar a 50 Has.
+10 VSMGZ por cada hectárea o
 
-De más de 50 405 Sumar 5 VSMGZ por cada hectárea hasta
+fracción que se exceda de
 
-llegar a 100 Has.
+la primera hectárea.
 
-De más de 100 655 Sumar 3 VSMGZ por cada hectárea
+De más de 10 145 Sumar 7 VSMGZ por cada
 
-excedente.
+hectárea hasta llegar a 50 Has.
+
+De más de 50 425 Sumar 6 VSMGZ por cada
+
+hectárea hasta llegar a 100 Has.
+
+De más de 100 675 Sumar 5 VSMGZ por cada hectárea excedente.
 
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
@@ -2467,7 +3021,15 @@ III. Para el cobro de metros cuadrados excedentes hasta seis, relativos al Uso A
 
 El cobro por modificación, corrección y/o ratificación de dictamen de uso de suelo será de cuatro VSMGZ.
 
-IV. Por la expedición de copias de dictámenes de uso de suelo se pagarán dos VSMGZ.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+IV. Por la expedición de copias de dictámenes de uso de suelo se pagarán:
+
+Copia simple 1 VSMGZ
+
+Copia certificada 2 VSMGZ
 
 V. En caso de que una industria o comercio pretenda establecerse en un parque, fraccionamiento o condominio industrial, el cual haya cumplido previamente con los trámites requeridos por la Secretaría de Desarrollo Urbano y Obras Públicas y efectuados los pago (sic) correspondientes, únicamente cubrirá un pago por la emisión del dictamen de uso de suelo individual de seis VSMGZ.
 
@@ -2939,9 +3501,17 @@ Por otros servicios prestados por la Secretaría de Desarrollo Urbano y Obras P�
 
 I. Por informes generales respecto de fraccionamientos emitidos por la Secretaría. 5 VSMGZ.
 
-II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2006)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Por copia simple de plano autorizado relativo a la licencia de construcción se pagará por cada plano 1 VSMGZ.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+II. Por copia simple de plano autorizado relativo a la licencia de construcción se pagará 1 VSMGZ por cada plano.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+III. Por constancia de trámite de licencia de construcción se pagará 1 VSMGZ.
 
 ### CAPÍTULO OCTAVO. POR LOS SERVICIOS PRESTADOS POR
 
@@ -3229,43 +3799,35 @@ Por el envío por mensajería con acuse de recibido de la Constancia de Registro
 
 Por la reposición física del dispositivo de almacenamiento que entregue la Secretaría de la Contraloría para la firma electrónica, se causará y pagará un derecho equivalente a 11.52 VSMGZ. Por la generación por segunda o ulterior ocasión del certificado para generación de firma electrónica se causará y para (sic) un derecho equivalente a 2.83 VSMGZ.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 126-C.
 
-Por los servicios de búsqueda, extracción o desglose, y reproducción de información del Poder Ejecutivo solicitada por los particulares, se causarán y pagarán los siguientes derechos:
+Por los servicios prestados por el Poder Ejecutivo, se causarán y pagarán los siguientes derechos:
 
 CONCEPTO VSMGZ
 
-Búsqueda de información del archivo,
+Búsqueda de información del archivo, por cada periodo a buscar 0.00
 
-por cada periodo a buscar. 0.50
+Extracción o desglose de la documentación solicitada para
 
-Extracción o desglose de la documentación
+fotocopiado, por periodo 0.00
 
-solicitada para fotocopiado, por periodo 0.25
+Fotocopia simple tamaño carta o digitalización, por cada hoja 0.010
 
-Fotocopia simple tamaño carta o digitalización,
-
-por cada hoja 0.010
-
-Fotocopia simple tamaño oficio o digitalización,
-
-por cada hoja 0.015
-
-Reproducción en disco compacto, por hoja 0.050
-
-Los derechos se causarán por cada solicitud y dependencia requerida o señalada como poseedora de la información.
-
-Los derechos por búsqueda de información se pagarán previo al inicio de dicha búsqueda.
+Fotocopia simple tamaño oficio o digitalización, por cada hoja 0.015
 
 Para los efectos de este artículo, se entiende por:
 
 A. Periodo a buscar: Cada mes calendario respecto del cual se solicite información.
 
 B. Extracción o desglose de la documentación: Se refiere al descosido y cosido de los archivos para permitir la reproducción de los mismos.
+
+Se exceptúa del pago de los derechos por búsqueda de información del archivo, por cada período a buscar, así como por la extracción o desglose de la documentación solicitada para fotocopiado, por período, a que se refiere el presente artículo, tratándose de solicitudes de información formuladas en términos de la Ley Estatal de Acceso a la Información Gubernamental en el Estado de Querétaro.
+
+En el supuesto de que la autoridad posea la información en medio electrónico y el particular solicite que le sea entregada la información a través de dicho medio, únicamente se pagará el costo correspondiente al material del medio electrónico en el que sea entregada la información.
 
 Tratándose de solicitudes que requieran la expedición de copias certificadas, cuyo costo no se encuentre establecido en esta Ley, se causarán y pagarán derechos por un monto equivalente a una VSMGZ.
 
@@ -3314,6 +3876,12 @@ VIII. Por capacitación en el Curso Básico de Formación para Custodios, se cau
 IX. Por capacitación en el Curso Básico de Formación para Policía Estatal Preventivo, se causará y pagará por persona, un derecho equivalente a 1668 VSMGZ.
 
 X. Por los servicios correspondientes al proceso de selección previo a los Cursos de capacitación a que se refieren las fracciones VIII y IX de este artículo, se pagarán 112 VSMGVZ.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+XI. Por la expedición de duplicado de certificado de estudios se causará y pagarán 2 VSMGZ.
 
 El pago y sujeción al proceso de selección previsto en la fracción X, será condición indispensable para tomar cualquiera de los cursos a que se refieren las fracciones VIII y IX, los cuales serán impartidos únicamente cuando se reúnan al menos 35 participantes por grupo para cada curso.
 
@@ -3524,6 +4092,28 @@ Taxi 1.5
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE DICIEMBRE DE 2008)</small>
 
 VI. Por la tramitación y, en su caso, expedición de permiso especial de transporte público para la atención de eventos temporales, con vigencia máxima de 30 días naturales, se causarán y pagarán derechos equivalentes a 5 VSGMZ.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+VII. Por la tramitación, estudio de campo y diagnóstico de factibilidad para autorización de modificación de ruta de transporte público colectivo, se causará y pagará un derecho equivalente a 10 VSMGZ por día de trabajo, sin que pueda exceder el cobro al importe que resulte de 50 VSMGZ.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+VIII. Por la expedición de autorización de modificación de ruta de transporte público colectivo, se causará y pagará un derecho equivalente a 10 VSMGZ.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+IX. Por permisos provisionales, cambio de titular o de modalidad para el servicio público de carga:
+
+Permiso nuevo por seis meses 30 VSMGZ
+
+Renovación semestral 15 VSMGZ
 
 ### CAPÍTULO DÉCIMO SEGUNDO. POR LOS SERVICIOS PRESTADOS POR AUTORIDADES FISCALES
 
@@ -3745,67 +4335,25 @@ Las personas afiliadas al Instituto Nacional de Adultos en Plenitud o que tengan
 
 ### CAPÍTULO DÉCIMO TERCERO. POR LOS SERVICIOS PRESTADOS POR LA LEGISLATURA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 144.
 
-Por los servicios prestados por la Legislatura se causarán y pagarán los siguientes derechos:
-
-Concepto VSMGZ
-
-Por la búsqueda de Por la primera hoja 0.5
-
-documentos y expedición
-
-de copias fotostáticas Por cada hoja excedente
-
-simples; a la primera 0.05
-
-Por la búsqueda de Por la primera hoja 1
-
-documentos y expedición
-
-de copias certificadas: Por cada hoja excedente
-
-a la primera 0.5
-
-Por la búsqueda y expedición de copia en medio
-
-magnético de Legislación cada una 1
-
-Por la expedición de copia de la Legislación Estatal
-
-en medio magnético 2
-
-Por la expedición de copia de una Legislación en medio impreso 2
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-Artículo 144 bis.- Por los servicios de búsqueda, extracción o desglose, y reproducción de información del Poder Legislativo solicitada por los particulares, se causarán y pagarán los siguientes derechos:
+Por los servicios prestados por el Poder Legislativo, se causarán y pagarán los siguientes derechos:
 
 CONCEPTO VSMGZ
 
-Búsqueda de información del archivo,
+Búsqueda de información del archivo, por cada periodo a buscar 0.00
 
-por cada periodo a buscar. 0.50
+Extracción o desglose de la documentación solicitada para
 
-Extracción o desglose de la documentación
+fotocopiado, por periodo 0.00
 
-solicitada para fotocopiado, por periodo 0.25
+Fotocopia simple tamaño carta o digitalización, por cada hoja 0.010
 
-Fotocopia simple tamaño carta
-
-o digitalización, por cada hoja 0.010
-
-Fotocopia simple tamaño oficio
-
-o digitalización, por cada hoja 0.015
-
-Reproducción en disco compacto, por hoja 0.050
-
-Los derechos se causarán por cada solicitud y dependencia requerida o señalada como poseedora de la información.
-
-Los derechos por búsqueda de información se pagarán previo al inicio de dicha búsqueda.
+Fotocopia simple tamaño oficio o digitalización, por cada hoja 0.015
 
 Para los efectos de este artículo, se entiende por:
 
@@ -3813,67 +4361,39 @@ A. Periodo a buscar: Cada mes calendario respecto del cual se solicite informaci
 
 B. Extracción o desglose de la documentación: Se refiere al descosido y cosido de los archivos para permitir la reproducción de los mismos.
 
+Se exceptúa del pago de los derechos por búsqueda de información del archivo, por cada período a buscar, así como por la extracción o desglose de la documentación solicitada para fotocopiado, por período, a que se refiere el presente artículo, tratándose de solicitudes de información formuladas en términos de la Ley Estatal de Acceso a la Información Gubernamental en el Estado de Querétaro.
+
+En el supuesto de que la autoridad posea la información en medio electrónico, y el particular solicite que le sea entregada la información a través de dicho medio, únicamente se pagará el costo correspondiente al material del medio electrónico en el que sea entregada la información.
+
 Tratándose de solicitudes que requieran la expedición de copias certificadas, cuyo costo no se encuentre establecido en esta Ley, se causarán y pagarán derechos por un monto equivalente a una VSMGZ.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+Artículo 144 bis.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
 ### CAPÍTULO DÉCIMO CUARTO. POR LOS SERVICIOS PRESTADOS POR EL
 
 TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 145.
 
-Por los servicios prestados por el Tribunal Superior de Justicia se causarán y pagarán los siguientes derechos:
-
-Concepto VSMGZ
-
-Por la búsqueda de Por la primera hoja 0.5
-
-documentos
-
-y expedición de copias Por cada hoja
-
-fotostáticas simples: excedente a la primera 05
-
-Por la búsqueda de Por la primera hoja 1
-
-documentos y
-
-expedición de copias Por cada hoja excedente
-
-certificadas: a la primera 0.5
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE DICIEMBRE DE 2008)</small>
-
-Por los servicios de búsqueda, extracción o desglose, y reproducción de información del Tribunal Superior de Justicia solicitada por los particulares, se causarán y pagarán los siguientes derechos:
+Por los servicios prestados por el Tribunal Superior de Justicia solicitada por los particulares, se causarán y pagarán los siguientes derechos:
 
 CONCEPTO VSMGZ
 
-Búsqueda de información del archivo,
+Búsqueda de información del archivo, por cada periodo a buscar. 0.00
 
-por cada periodo a buscar. 0.50
+Extracción o desglose de la documentación solicitada para
 
-Extracción o desglose de la documentación
+fotocopiado, por periodo 0.00
 
-solicitada para fotocopiado, por periodo 0.25
+Fotocopia simple tamaño carta o digitalización, por cada hoja 0.010
 
-Fotocopia simple tamaño carta o digitalización,
-
-por cada hoja 0.010
-
-Fotocopia simple tamaño oficio o digitalización,
-
-por cada hoja 0.015
-
-Reproducción en disco compacto, por hoja 0.050
-
-Los derechos se causarán por cada solicitud y dependencia requerida o señalada como poseedora de la información.
-
-Los derechos por búsqueda de información se pagarán previo al inicio de dicha búsqueda.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE DICIEMBRE DE 2008)</small>
+Fotocopia simple tamaño oficio o digitalización, por cada hoja 0.015
 
 Para los efectos de este artículo, se entiende por:
 
@@ -3881,9 +4401,9 @@ A. Periodo a buscar: Cada mes calendario respecto del cual se solicite informaci
 
 B. Extracción o desglose de la documentación: Se refiere al descosido y cosido de los archivos para permitir la reproducción de los mismos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+Se exceptúa del pago de los derechos por búsqueda de información del archivo, por cada período a buscar, así como por la extracción o desglose de la documentación solicitada para fotocopiado, por período, a que se refiere el presente artículo, tratándose de solicitudes de información formuladas en términos de la Ley Estatal de Acceso a la Información Gubernamental en el Estado de Querétaro.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE DICIEMBRE DE 2008)</small>
+En el supuesto de que la autoridad posea la información en medio electrónico y el particular solicite que le sea entregada la información a través de dicho medio, únicamente se pagará el costo correspondiente al material del medio electrónico en el que sea entregada la información.
 
 Tratándose de solicitudes que requieran la expedición de copias certificadas, cuyo costo no se encuentre establecido en esta Ley, se causarán y pagarán derechos por un monto equivalente a una VSMGZ.
 
@@ -3955,9 +4475,17 @@ I. Por la renta de aparato de audioguía turística, 0.81 VSMGZ por día
 
 II. Por la prestación del servicio del circuito “Querétaro desde adentro”
 
-a. General, 4.85 VSMGZ; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b. Menores de 12 años, estudiantes, maestros y personas adultas mayores 4.04 VSMGZ
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+a. General, 4.62 VSMGZ; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+b. Menores de 12 años, estudiantes, maestros y personas adultas mayores, 3.85 VSMGZ.
 
 III. Por la prestación del recorrido en tranvía turístico
 
@@ -3965,19 +4493,39 @@ a. Adultos, 0.81 VSMGZ; y
 
 b. Menores de 12 años y personas adultas mayores, 0.48 VSMGZ
 
-IV. Por la prestación del recorrido del circuito turístico “Querétaro, ruta del queso y buenos vinos”
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a. General, 2.42 VSMGZ; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-b. Menores de 12 años y personas adultas mayores, 1.94 VSMGZ
+IV. Por la prestación del recorrido del circuito turístico “Querétaro, ruta del queso y buenos vinos”;
 
-V. Por la venta de carteles, 0.57 VSMGZ
+a. General, 2.31 VSMGZ.
 
-VI. Por la venta de juego de seis carteles, 2.91 VSMGZ
+b. Menores de 12 años y personas adultas mayores, 1.85 VSMGZ.
 
-VII. Por la venta de tubo para cartel, 0.32 VSMGZ
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII. Por la venta de libro de Querétaro, 1.05 VSMGZ
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+V. Por la venta de carteles, 0.54 VSMGZ.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+VI. Por la venta de juego de seis carteles, 2.77 VSMGZ.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+VII. Por la venta de tubo para cartel, una cuota de .31 VSMGZ.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
+VIII. Por la venta de libro de Querétaro, 1 VSMGZ.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -4750,3 +5298,133 @@ Artículo Tercero. Se derogan todas aquellas disposiciones que se opongan a la p
 Artículo Cuarto. Las tarifas para los servicios prestados por el Registro Civil establecidas en la presente ley y en las leyes de los ingresos de los municipios, subsistirán, y en su caso serán aplicables las que resulten más favorables al contribuyente.
 
 Artículo Quinto. Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 23 DE DICIEMBRE DE 2009.
+
+SE REFORMA EL CAPITULO SEGUNDO DEL TITULO TERCERO DE LA LEY DE HACIENDA DEL ESTADO DE QUERETARO.
+
+Artículo Primero. Esta Ley entrará en vigor el 1 de enero de 2010.
+
+Artículo Segundo. Las obligaciones derivadas de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980, que hubieran nacido antes de que se suspenda el cobro del impuesto a que se refiere dicha ley, en los términos del Artículo Cuarto Transitorio del Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios, publicado en el Diario Oficial de la Federación el 21 de diciembre de 2007, por la realización de las situaciones jurídicas previstas en el ordenamiento primeramente citado, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
+
+Artículo Tercero. Durante el primer año de vigencia de la ley y para efectos del cálculo y entero del impuesto relativo a los vehículos, previstos en el Apartado B del Capítulo Segundo del Título Tercero de la Ley de Hacienda del Estado de Querétaro, cuando en dicho apartado se haga referencia al impuesto causado en el ejercicio inmediato anterior, se considerará como tal el impuesto causado en términos de la Ley del Impuesto sobre Tenencia o Uso de Vehículos publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980, durante el ejercicio inmediato anterior al de aplicación de esa Ley.
+
+P.O. 23 DE DICIEMBRE DE 2009.
+
+LEY POR LA QUE SE REFORMAN Y DEROGAN DIVERSOS ARTICULOS DE LA LEY DE HACIENDA DEL ESTADO DE QUERETARO.
+
+Artículo Primero. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2010, serán las siguientes:
+
+I. Para los efectos de este ordenamiento se entiende por:
+
+a. Vivienda de interés social o popular, aquella a que se refiere el artículo 59 de la Ley de Hacienda del Estado de Querétaro.
+
+b. Por las siglas VSMGZ, veces el salario mínimo general vigente en la zona.
+
+II. Siempre que se trate de vivienda (sic) interés social o popular, los derechos que de acuerdo a la Ley de Hacienda del Estado Querétaro deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a. La inscripción de compraventa de inmuebles; compraventa de inmuebles con reserva de dominio; limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b. La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c. La expedición de certificados de no propiedad.
+
+III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios del Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a. La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b. Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c. Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 4 VSMGVZ por la inscripción del acto en el que conste la adquisición de vivienda social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona.
+
+IV. Se causarán al 50 por ciento los derechos establecidos en la Ley de Hacienda del Estado de Querétaro por los servicios del Registro Público de la Propiedad y del Comercio, consistentes en:
+
+a. La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
+
+b. La inscripción de la escritura pública en que conste la operación mediante las que las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios; y
+
+c. La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado.
+
+V. No se causarán derechos por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a. El acto en que conste la reestructuración de créditos señalados en el artículo 68 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicha dependencia se encuentre la anotación del crédito inicial;
+
+b. El testimonio en el que conste la adquisición de inmuebles, efectuada por personas físicas con actividad empresarial y personas morales, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que dichos inmuebles se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos; y
+
+c. El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas físicas con actividad empresarial y personas morales, siempre que con ello se propicie el mantenimiento de empleos.
+
+VI. Por la expedición de las constancias y certificaciones a que se refieren las fracciones III y IV del artículo 95 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1 VSMGZ.
+
+VII. Tratándose de desarrollos habitacionales de interés social o popular, los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas causarán:
+
+a. Un derecho a razón de 6 VSMGZ, por los previstos en el artículo 103 de la Ley de Hacienda del Estado de Querétaro, siempre que la solicitud no implique cambio de uso de suelo.
+
+b. Un derecho a razón del 25 VSMGZ, por los previstos en el artículo 111 de la Ley de Hacienda del Estado de Querétaro, por cada prototipo de vivienda con que cuente el desarrollo, sin importar el número total de ellas en el mismo.
+
+Por los servicios previstos en los artículos 112, 113 y 119 del ordenamiento a que se refiere el inciso anterior, se causará y pagará el 50 por ciento de los derechos establecidos en dichos numerales.
+
+Por lo servicios previstos en el artículo 114 de la Ley de Hacienda del Estado de Querétaro, se causará y pagará el 25 por ciento de los derechos establecidos en la referida disposición.
+
+VIII. Los servicios prestados por las autoridades de la Secretaría de Seguridad Ciudadana, causarán el 50 por ciento de los derechos señalados en el artículo 131, cuando la revisión física y mecánica a que se refiere se lleve a cabo en el periodo ordinario que al efecto establezca la Secretaría de Gobierno.
+
+IX. Cuando los avisos de testamentos a los que se refiere el artículo 82 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes.
+
+X. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 54, obtendrán los siguientes beneficios:
+
+Mes de pago Descuento
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+XI. La Secretaría de Planeación y Finanzas podrá condonar los créditos fiscales que tiene derecho a percibir la hacienda pública del Estado, que al 31 de diciembre de 2009 sean exigibles y que el importe del crédito sea inferior o igual a 50 VSMGZ a esa fecha.
+
+XII. Tratándose de los derechos señalados en el artículo 145-C de la Ley de Hacienda del Estado de Querétaro, se estará a lo siguiente:
+
+a. Durante los meses de noviembre y diciembre, por la admisión, uso y disfrute del Parque Recreativo Mundo Cimacuático, para personas mayores a 16 años causarán un derecho de 0.24 VSMGZ.
+
+b. Durante los meses de noviembre y diciembre, por la admisión, uso y disfrute del Parque Recreativo Mundo Cimacuático, para personas de 16 años o menos causarán un derecho de 0.16 VSMGZ.
+
+XIII. Las personas adultas mayores que acrediten ser jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia del tal discapacidad emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la constancia única de propiedad que expida el Registro Público de la Propiedad y el Comercio para efectos de descuento en el impuesto predial.
+
+XIV. El Impuesto para el Fomento de la Educación Pública en el Estado, para Caminos y Servicios Sociales que se cause con motivo de los pagos que por concepto del Impuesto Sobre la Venta de Bienes Cuya Enajenación se Encuentra Gravada por la Ley del Impuesto Especial sobre Producción y Servicios a que se refiere el Capítulo Octavo del Título Tercero de la Ley de Hacienda del Estado, realicen los contribuyentes, se reducirá en un 100%.
+
+XV. Los servicios prestados por la Secretaría de Seguridad Ciudadana, contemplados en el artículo 129, fracción I, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán el equivalente a 0.25 VSMGZ adicional al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que será formado por el Secretario de Seguridad Ciudadana, el titular de la Dirección de Gestión de Emergencias y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a que se refiere este artículo.
+
+XVI. A los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 101-BIS, se aplicarán las siguientes reducciones:
+
+Reducción Supuesto
+
+30% En los paquetes familiares (por lo menos tres
+
+personas en las diferentes disciplinas, previa
+
+entrega de una copia del acta renacimiento
+
+de cada familiar)
+
+Para adultos mayores.
+
+XVII. Para los efectos del Impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro, el Impuesto para el fomento de la educación pública en el Estado, para caminos y servicios sociales a que se refiere el Capítulo Cuarto del Título Tercero de dicho ordenamiento, se causará a la tasa del 0%.
+
+XVIII. Las personas físicas que sean propietarias de vehículos que provengan de otras entidades federativas, así como los de procedencia extranjera, que pretendan inscribirlos en el Padrón Vehicular Estatal, deberán acreditar su residencia en el Estado de Querétaro de por lo menos seis meses, presentando original y copia de la constancia de residencia municipal o de su credencial de elector con domicilio en el Estado de Querétaro.
+
+Las personas morales que tributen en términos del Título III de la Ley del Impuesto sobre la Renta y que se encuentren en los supuestos de los artículos 95 y 102 del mismo ordenamiento legal, que deseen dar de alta un vehículo de su propiedad en el Padrón Vehicular Estatal, deberán acreditar que su domicilio fiscal se encuentra ubicado en el Estado de Querétaro, por lo menos seis meses antes de la fecha en que se lleve a cabo el mencionado registro.
+
+En caso de que las personas a que se refieren los párrafos anteriores no acrediten lo establecido en este artículo, pagarán los derechos que se originen con motivo de los servicios previstos en la fracción II del artículo 135 de la Ley de Hacienda del Estado de Querétaro, en cantidad de 46 VSMGZ.
+
+XIX. Los servicios de control vehicular contemplados en el artículo 135, fracción II, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán el equivalente a 0.30 VSMGZ adicional al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un Comité que será formado por el Secretario de Seguridad Ciudadana, el titular de la Dirección de Gestión de Emergencias y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo, pudiendo nombrarse un coordinador.
+
+Artículo Segundo. La presente Ley entrará en vigor el día primero de enero de 2010.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+Artículo Cuarto. Publíquese en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
