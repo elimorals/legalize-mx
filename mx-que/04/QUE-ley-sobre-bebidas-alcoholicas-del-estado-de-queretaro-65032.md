@@ -4,7 +4,7 @@ identifier: "QUE-ley-sobre-bebidas-alcoholicas-del-estado-de-queretaro-65032"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-13"
-last_updated: "2008-12-13"
+last_updated: "2009-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY SOBRE BEBIDAS ALCOHOLICAS DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 13 de diciembre de 2008.
 
@@ -495,9 +495,13 @@ XVI. Que se pretenda la acreditación de requisitos mediante documentos falsos o
 
 XVII. Los demás casos que señale esta Ley o su Reglamento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 28.
 
-Los ingresos que se deriven por concepto de expedición de licencias y permisos, así como aquellos que se obtengan por el refrendo de licencias en los términos de esta Ley, deducidos los gastos de administración, serán transferidos dentro de los primeros diez días posteriores al mes de su recaudación, al Fideicomiso de Inversión para Apoyar la Atención y Rehabilitación del Alcoholismo y Drogadicción en el estado de Querétaro los que se destinarán a los fines del mismo, correspondiendo, el 40% a programas estatales y un 60% a programas municipales del municipio donde se origine el ingreso, lo cual requerirá la existencia de esos programas, aprobados conforme a las disposiciones legales aplicables.
+Los ingresos que se deriven por concepto de expedición de licencias y permisos, así como aquellos que se obtengan por el refrendo de licencias en los términos de esta Ley, deducidos los gastos de administración, serán transferidos, dentro de los primeros diez días posteriores al mes de su recaudación, al Fideicomiso de Inversión para Apoyar la Atención y Rehabilitación del Alcoholismo y Drogadicción en el estado de Querétaro, los que se destinarán a los fines del mismo, correspondiendo el 40% a programas estatales y un 60% a programas del municipio donde se origine el ingreso, lo cual requerirá la existencia de esos programas, aprobados conforme a las disposiciones legales aplicables; de igual forma, deberá destinarse un porcentaje para la obtención de becas en instituciones destinadas al combate de las adicciones en el Estado de Querétaro.
 
 ###### Artículo 29.
 
@@ -948,3 +952,13 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE DICIEMBRE DE 2009.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del 01 de enero de 2010.
+
+Artículo Segundo. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Tercero. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
