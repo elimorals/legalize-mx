@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-de-energias-alternativas-66152"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-31"
-last_updated: "2009-09-23"
+last_updated: "2009-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY ORGANICA DEL INSTITUTO DE ENERGIAS ALTERNATIVAS, RENOVABLES, BIOCOMBUSTIBLES Y ENERGIAS ELECTRICAS DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA COMISION DE ENERGIAS Y BIOCOMBUSTIBLES DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 23 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de diciembre de 2008.
 
@@ -328,3 +330,25 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
 
 Artículo Tercero.- El Ejecutivo dispondrá se publique, circule y se le dé el debido cumplimiento.
+
+P.O. 23 DE DICIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- A partir de la publicación del presente Decreto en el Periódico Oficial del Estado, se abroga la Ley Orgánica del Instituto de Energías Alternativas, Renovables y Biocombustibles del Estado de Chiapas, publicada en el Periódico Oficial número 135-2ª Sección, Tomo III, de fecha miércoles 31 de diciembre de 2008, y sus reformas.
+
+Artículo Tercero.- Las dependencias normativas, en el ámbito de sus respectivas competencias, realizarán las acciones técnico-administrativas necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+Artículo Cuarto.- Los recursos humanos, materiales y financieros que formaban parte del Instituto de Energías Alternativas, Renovables, Biocombustibles y Energías Eléctricas del Estado de Chiapas, serán transferidos a la Comisión de Energías y Biocombustibles del Estado de Chiapas, que se crea mediante el presente decreto, respetando los derechos laborales de los trabajadores en términos de las disposiciones legales aplicables, así como de la normatividad respectiva.
+
+Artículo Quinto.- Las atribuciones y los compromisos adquiridos, así como los asuntos a cargo del Instituto de Energías Alternativas, Renovables, Biocombustibles y Energías Eléctricas del Estado de Chiapas, que a la fecha de entrada en vigor del presente decreto se encontraban en trámite o correspondían a éste, serán asumidos y se entenderán conferidos de inmediato a la Comisión de Energías y Biocombustibles del Estado de Chiapas.
+
+Artículo Sexto.- Las referencias, atribuciones o menciones que hagan otros ordenamientos legales o normativos en relación con el Instituto de Energías Alternativas, Renovables, Biocombustibles y Energías Eléctricas del Estado de Chiapas, serán transferidas y se entenderán conferidos al Organismo Público Descentralizado denominado Comisión de Energías y Biocombustibles del Estado de Chiapas, que se crea con el presente Decreto.
+
+Artículo Séptimo.- El Director General de la Comisión, deberá someter a consideración de la Junta de Gobierno, en un plazo no mayor a noventa días hábiles, contados a partir de la publicación del presente Decreto, el Reglamento Interior de dicho Organismo Descentralizado, para su aprobación, debiendo ser enviado al Titular del Ejecutivo del Estado para los efectos de su expedición y publicación correspondiente.
+
+Artículo Octavo.- Para el ejercicio de sus atribuciones, la Junta de Gobierno de la Comisión deberá instalarse en un plazo no mayor a treinta días hábiles, contados a partir de la publicación del presente Decreto.
+
+Artículo Noveno.- Para efectos de no entorpecer las actividades de la Comisión que en este decreto se crea, el actual Director General del Instituto de Energías Alternativas, Renovables, Biocombustibles y Energías Eléctricas del Estado de Chiapas, fungirá como Director General de la Comisión, hasta en tanto el Ejecutivo Estatal realice la designación correspondiente.
+
+Artículo Décimo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este decreto.
