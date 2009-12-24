@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-712
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-26"
-last_updated: "2009-12-17"
+last_updated: "2009-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO 
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 17 DE DICIEMBRE DE 2009.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 17 DE DICIEMBRE DE 2009 Y REPUBLICADA EL 24 DE DICIEMBRE DE 2009.</small>
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 26 de noviembre de 2009.
 
@@ -1599,7 +1599,7 @@ Los principios de actuación y régimen disciplinario de la policía ministerial
 
 El régimen disciplinario de la policía ministerial es un conjunto de lineamientos, directrices y parámetros de actuación hacia la comunidad y de orden y buena marcha de la Comisaría General de la Policía Ministerial.
 
-> <small>(F. DE E., G.G. 17 DE DICIEMBRE DE 2009)</small>
+> <small>(F. DE E., G.G. 17 DE DICIEMBRE DE 2009 Y REPUBLICADA, G.G. 24 DE DICIEMBRE DE 2009)</small>
 
 La imposición de sanciones por parte del jefe inmediato o las que imponga el Consejo de Honor y Justicia, en los términos de este capítulo, proceden sin perjuicio de otras aplicables en los términos de la Ley de Responsabilidades, así como de la Ley General de Seguridad Pública y de la Ley Orgánica de la Procuraduría.
 
@@ -1765,17 +1765,17 @@ El cambio de adscripción se ordenará cuando el comportamiento del agente de la
 
 Suspensión inmediata de funciones sin goce de sueldo, la suspensión tiene por objeto evitar afectar el proceso de investigación y permitir preservar los medios, cosas, objetos y personas, hasta la culminación y determinación de responsabilidad que en su caso resulte. La referida suspensión no podrá exceder de dos días.
 
-> <small>(F. DE E., G.G. 17 DE DICIEMBRE DE 2009)</small>
+> <small>(F. DE E., G.G. 17 DE DICIEMBRE DE 2009 Y REPUBLICADA, G.G. 24 DE DICIEMBRE DE 2009)</small>
 
 Resolución
 
-> <small>(F. DE E., G.G. 17 DE DICIEMBRE DE 2009)</small>
+> <small>(F. DE E., G.G. 17 DE DICIEMBRE DE 2009 Y REPUBLICADA, G.G. 24 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 80.
 
 Una vez que el jefe inmediato tenga conocimiento de la falta, tendrá que integrar el expediente y remitirlo al Consejo de Honor y Justicia, para su Resolución.
 
-> <small>(F. DE E., G.G. 17 DE DICIEMBRE DE 2009)</small>
+> <small>(F. DE E., G.G. 17 DE DICIEMBRE DE 2009 Y REPUBLICADA, G.G. 24 DE DICIEMBRE DE 2009)</small>
 
 El Consejo de Honor y Justicia deberá resolver los casos una vez otorgada la garantía de audiencia al agente de la policía ministerial, respecto de la falta cometida.
 
