@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-15059"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-07-01"
-last_updated: "2009-03-19"
+last_updated: "2009-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 24 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de julio de 1999.
 
@@ -1960,3 +1962,35 @@ P.O. 19 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2009.
+
+Artículo Primero.- Publíquese la presente Ley, en los términos previstos en la fracción X del artículo 55 de la Constitución Política del Estado Libre y Soberano de Durango.
+
+Artículo Segundo.- La Ley aquí contenida entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Las disposiciones relativas con la competencia, organización y funcionamiento de la Comisión Permanente, entrarán en vigor a partir del día 16 de diciembre del año 2010.
+
+Artículo Tercero.- Se derogan todas las disposiciones que contravengan a las contenidas en la presente Ley.
+
+Artículo Cuarto.- Se abroga la Ley Orgánica del Congreso del Estado de Durango aprobada mediante Decreto No. 89 de fecha 21 de Abril de 1999 y publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango N° 1 (uno) de fecha 1° (Primero) de Julio de 1999 y sus reformas posteriores.
+
+Artículo Quinto.- La organización y funcionamiento del Sistema de Comisiones Legislativas previstas en esta Ley, se ajustarán a las siguientes prevenciones generales y reglas de transición:
+
+I. Las Comisiones Legislativas Dictaminadoras electas en la Segunda Sesión del Primer Periodo Ordinario de Sesiones correspondiente al Tercer Año de Ejercicio Constitucional de la presente Legislatura, continuarán funcionando y ejercerán la competencia señalada en la presente Ley, hasta en tanto sean renovadas en los términos del artículo 94 de ésta última;
+
+II. Las Comisiones Legislativas Ordinarias electas en la sesión referida en la fracción anterior, continuarán funcionando y ejercerán la competencia prevista en la presente Ley, hasta que concluyan el periodo por el cual fueron electas;
+
+III. Las Comisiones Legislativas Especiales que a la fecha de aprobación de la presente Ley, hayan sido designadas por los Presidentes de la Mesa Directiva respectivos durante el ejercicio constitucional transcurrido de la LXIV Legislatura seguirán funcionando hasta en tanto desahoguen su propia encomienda;
+
+IV. Las Comisiones Legislativas Especiales de Asuntos Metropolitanos y Desarrollo Regional, de Ciencia y Tecnología y de Atención a Migrantes, conservarán su integración actual y asumirán como propias las facultades que esta Ley otorga a las nuevas Comisiones Legislativas Dictaminadoras de Asuntos Metropolitanos, de Ciencia, Tecnología e Innovación y de Atención a Migrantes, hasta en tanto éstas sean electas en los términos previstos en el Artículo 94 de la Ley citada con anterioridad; y
+
+V. Las nuevas Comisiones Legislativas Dictaminadoras de Fortalecimiento Municipal y de Juventud y Deporte, serán electas a más tardar en la Segunda Sesión del Segundo periodo Ordinario de Sesiones correspondiente al Tercer Año de Ejercicio Constitucional de la presente Legislatura, según las prevenciones del Artículo 94 de la presente Ley.
+
+Artículo Sexto.- Las solicitudes del Ministerio Público o denuncias o querellas de los ciudadanos y los procedimientos de responsabilidad, presentadas o en proceso de desahogo contra servidores públicos a la fecha de aprobación de la presente Ley, continuarán su trámite respectivo en los términos previstos en la Ley que se abroga.
+
+Artículo Séptimo.- El Libro de Protocolo Legislativo deberá ser presentado por la Comisión de Régimen, Reglamento y Prácticas Parlamentarias y aprobado por el Pleno a más tardar el día 31 de Marzo de 2010.
+
+Artículo Octavo.- El Sistema de Información Legislativa y de registro de asistencia y votación electrónica, deberán ser puestos en operación a más tardar el día 15 de Marzo de 2010.
+
+Artículo Noveno.- En la LXIV Legislatura, se tendrán por constituidas las Formas de Organización Partidista declaradas como Grupos Parlamentarios según las prevenciones contenidas en los artículos 258 a 262 del Título Octavo de la Ley Orgánica del Congreso del Estado de Durango que se abroga y a aquéllas Representaciones de Partido que por práctica parlamentaria son denominadas y reconocidas como tales de manera sistemática, reiterada y generalizada por los diputados integrantes de la Legislatura arriba citada.
