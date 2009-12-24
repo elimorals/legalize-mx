@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-economico-para-el-estado-de-durango-45889"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-31"
-last_updated: "2005-07-31"
+last_updated: "2009-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO ECONOMICO PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 31 de julio de 2005.
 
@@ -157,7 +157,9 @@ III. Un Secretario Técnico, que será designado por el Titular de la Secretarí
 
 IV. Ocho Consejeros representantes de las cámaras y organismos empresariales legalmente constituidos, de los cuales cuatro corresponderán a la región centro y cuatro a la región lagunera de Durango;
 
-V. Un Consejero representante de los Ayuntamientos que sean cabecera en cada región económica del Estado; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
+V. Un consejero representante de cada uno de los Consejos Municipales de Desarrollo Económico; y
 
 VI. Cuatro Consejeros: uno de la Secretaría de Finanzas y de Administración, uno de la Secretaría de Comunicaciones y Obras Públicas, uno de la Delegación Federal de la Secretaría de Economía y uno de Nacional Financiera, S.N.C.
 
@@ -169,9 +171,61 @@ El Consejo llevará a cabo sesiones ordinarias bimestrales y las extraordinarias
 
 En caso de ausencia del Presidente su suplente será el Vicepresidente. Por cada integrante del Consejo habrá un suplente, quien no podrá hacerse representar por otra persona. Los cargos del Consejo son honoríficos.
 
-El Consejo sesionará ordinariamente con la asistencia de la mayoría de sus integrantes, debiendo estar presente el Presidente o el Vicepresidente.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
+El Consejo sesionará ordinariamente con los integrantes que asistan, debiendo estar presente el Presidente o el Vicepresidente, o sus suplentes.
 
 Las decisiones del Consejo se aprobarán por la mayoría de sus integrantes presentes, teniendo el Presidente o su suplente, voto de calidad en caso de empate.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 9 Bis.
+
+Se crean los Consejos Municipales de Desarrollo Económico, como instancias de coordinación institucional y de concertación con los sectores social y privado en cada municipio, los cuales estarán conformados, por:
+
+I. El Presidente Municipal;
+
+II. El Director de Desarrollo Económico o su equivalente;
+
+III. El Director de Desarrollo Urbano y Obras Públicas o su equivalente;
+
+IV. El Director de Finanzas y de Administración o su equivalente, y
+
+V. Por lo menos cinco empresarios del municipio.
+
+Los empresarios deberán representar a todos los sectores económicos del Municipio y se elegirán preferentemente de entre los integrantes de las cámaras de organismos empresariales que tengan representación en el Municipio de que se trate, sin que esto sea obstáculo para elegir empresarios que no estén afiliados a un organismo; y de entre ellos será designado el Presidente de dicho Consejo.
+
+Cuando así lo estime el Presidente del Consejo Municipal de Desarrollo Económico, podrá invitar a las sesiones, a las personas que considere pertinentes para el logro de los objetivos de la misma, las cuales tendrán derecho a voz pero no a voto.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 9 Bis 1.
+
+Los Consejos Municipales de Desarrollo Económico tendrán los siguientes fines:
+
+I. Proponer y concertar con las dependencias y entidades del sector público federal, estatal y municipal, las cámaras y organismos empresariales y los particulares interesados, programas, proyectos y acciones que impulsen a las regiones, ramas y actividades económicas del municipio;
+
+II. Promover la articulación de los programas, estrategias y acciones de las dependencias y entidades de la administración pública federal, estatal y municipal como factores para elevar la competitividad de la economía, de acuerdo con la política nacional, estatal y municipal para el desarrollo económico;
+
+III. Contribuir a la formulación de planes y programas de desarrollo económico con visión de largo plazo para el Municipio, tomando en cuenta los estudios desarrollados por los sectores público y privado que resulten congruentes con el Plan Municipal de Desarrollo y que sienten las bases para una política de desarrollo económico de largo plazo;
+
+IV. Participar en la formulación, evaluación y seguimiento del Plan Municipal de Desarrollo y de los programas, estrategias y acciones que de éste se deriven en materia de desarrollo económico;
+
+V. Proponer proyectos de promoción y desarrollo empresarial; los cuales deberán presentarse en un orden prioritario que esté sustentado en los criterios técnicos que en mayor medida cumplan con los fines de esta Ley; siendo preponderantes los relativos a cantidad y calidad en la generación o conservación de empleos y de inversión;
+
+VI. Gestionar ante la administración pública federal, estatal y municipal asignaciones presupuestales de conformidad con la priorización de objetivos y metas establecidas en los programas operativos anuales en materia de desarrollo económico;
+
+VII. Proponer acciones de simplificación administrativa, de reingeniería de procesos en trámites y servicios estatales o municipales y de mejora de leyes y reglamentos en esta materia;
+
+VIII. Articular, vincular y coordinar sus actividades con las acciones de los diversos consejos, comisiones y comités en materia de desarrollo económico; y
+
+IX. Formular y aprobar su reglamento interior.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 9 Bis 2.
+
+Cada Consejo Municipal de Desarrollo Económico, designará a una persona para que lo represente en las sesiones del Consejo, así como para que funja como vínculo ante la Secretaría, a efecto de dar seguimiento a los acuerdos que se tomen en el Consejo y en el Consejo Municipal.
 
 ### CAPÍTULO III. DEL SISTEMA DE INCENTIVOS
 
@@ -195,19 +249,53 @@ III. Subsidios; y
 
 IV. Servicios de apoyo y gestoría institucional.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
+El Gobierno del Estado adquirirá productos elaborados en el propio Estado, de conformidad con las disposiciones aplicables, con igualdad de circunstancias de calidad y precio, con respecto a los productos foráneos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 13.
 
-La exención de impuestos o derechos y estímulos fiscales estatales que se establezcan para el fomento de las actividades o ramas económicas se solicitarán y obtendrán en los términos de esta Ley y su Reglamento, y se otorgarán conforme lo dispongan la Ley de Hacienda del Estado de Durango, el Código Fiscal del Estado de Durango, la Ley de Ingresos del Estado Libre y Soberano de Durango del ejercicio fiscal correspondiente, los reglamentos y demás disposiciones administrativas de carácter general que expidan las autoridades fiscales estatales.
+La exención de impuestos, derechos y estímulos fiscales estatales que se establezcan para el fomento de las actividades o ramas económicas, se solicitarán y obtendrán en los términos de esta Ley y su Reglamento, y se otorgarán conforme lo dispongan la Ley de Hacienda del Estado de Durango, el Código Fiscal del Estado de Durango, la Ley de Ingresos del Estado Libre y Soberano de Durango del ejercicio fiscal correspondiente, los reglamentos y demás disposiciones administrativas de carácter general que expidan las autoridades fiscales estatales:
 
 Las exenciones de impuestos o derechos y estímulos fiscales serán intransferibles y se aplicarán sobre:
 
-I. Exención temporal de los siguientes impuestos y derechos estatales:
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2009)</small>
 
-a) Impuesto Sobre Nómina;
+I. Exención temporal de los siguientes impuestos y derechos estatales, de conformidad con los siguientes parámetros:
 
-b) Derechos de inscripción de actos jurídicos en el Registro Público de la Propiedad; y
+a) Impuesto Sobre Nómina:
 
-c) El impuesto para el fomento de la educación pública, en la misma proporción de las exenciones otorgadas en impuesto sobre nómina o derechos registrales; y
+Tamaño de la empresa Años de exención del ISN
+
+Micro empresa 2
+
+Pequeña empresa 2
+
+Mediana empresa 4
+
+Empresa grande 4
+
+b) A la tasa del 75% de los derechos de inscripción de actos jurídicos en el Registro Público de la Propiedad, como son actas o contratos constitutivos y actas de aumento de capital de sociedades civiles, mercantiles, cooperativas, de producción rural, de solidaridad social y de responsabilidad limitada microindustriales; contratos de actos traslativos de dominio de bienes inmuebles directamente relacionados con los proyectos de inversión y que formen parte de los activos fijos del solicitante; contratos de adquisición, ampliación o reestructuración de créditos, así como de sus contratos y accesorios y de otorgamiento de garantías.
+
+c) A la tasa del 75% del Impuesto para la Modernización de los Registros Públicos, por contratos de actos traslativos de dominio de bienes inmuebles directamente relacionados con los proyectos de inversión y que formen parte de los activos fijos del solicitante.
+
+d) El Impuesto para el Fomento a la Educación Pública, en la misma proporción y tiempo a las exenciones que se otorguen con respecto al Impuesto Sobre Nómina, el Impuesto para la Modernización de los Registros Públicos y los derechos registrales, según lo señalado en los incisos a, b y c de esta fracción.
+
+Excepcionalmente se podrán otorgar exenciones mayores a las señaladas en este artículo, siempre y cuando sea para apoyar proyectos de inversión que se consideren estratégicos o de alto impacto por su ubicación, monto, empleos a generar y efectos multiplicadores en la economía de la entidad, de conformidad con los parámetros y el procedimiento de obtención de los incentivos fiscales señalados en esta Ley y su Reglamento.
+
+En caso de crisis económica o financiera generalizada en el Estado, de manera excepcional, y conforme al procedimiento de obtención de los incentivos fiscales establecidos en esta ley y su reglamento, se podrá otorgar total o parcialmente una exención al Impuesto Sobre Nómina, que genere su plantilla de personal, previa la justificación que haga la empresa solicitante, en la que demuestre la situación crítica de sus finanzas, el riesgo inminente de suspender las labores si no se le apoya y la consecuente terminación de la relación contractual con sus trabajadores, así como la repercusión que tendrá en el centro de población donde se encuentre ubicada. La exención a que se refiere este párrafo será de conformidad con la siguiente tabla:
+
+Tamaño de la empresa Años de exención del ISN
+
+Micro empresa 1
+
+Pequeña empresa 1
+
+Mediana empresa 2
+
+Empresa grande 2
 
 II. Exención temporal de los siguientes impuestos y derechos municipales:
 
@@ -228,6 +316,10 @@ g) Derechos por alumbrado público;
 h) Derechos por factibilidad de agua potable, drenaje y descargas residuales; y
 
 i) Derechos por disposición de residuos sólidos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
+Las autoridades municipales otorgarán los incentivos a que se refiere la presente fracción, de conformidad con el sistema de incentivos y los procedimientos que se establezcan en las leyes de ingresos municipales o en los reglamentos respectivos.
 
 ###### Artículo 14.
 
@@ -259,9 +351,11 @@ X. Empleen, de manera preferente, personas con discapacidad, adultos mayores o m
 
 XI. Se asocien en agrupamientos, cadenas productivas o cualquier otra alianza estratégica empresarial, al amparo de alguna figura jurídica de las contempladas en la legislación estatal y nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 16.
 
-El Gobernador del Estado, a través de la Secretaría de Finanzas y de Administración, en coordinación con la Secretaría, podrá otorgar incentivos, apoyos o realizar acciones de fomento económico a las empresas legalmente establecidas o por establecerse en la entidad que desarrollen proyectos o actividades que califiquen conforme a las siguientes categorías de desempeño:
+El Gobernador del Estado, a través de la Secretaría de Finanzas y de Administración, en coordinación con la Secretaría, podrá otorgar incentivos, apoyos o realizar acciones de fomento económico a las empresas legalmente establecidas o por establecerse en la entidad que desarrollen proyectos o actividades que califiquen y cumplan con los requisitos marcados en esta ley y su reglamento, conforme a las siguientes categorías de desempeño:
 
 I. Proyectos de inversión para nuevas empresas y ampliaciones: Inversiones en proyectos nuevos para la generación de empleos, de ampliación de capacidad o para la modernización tecnológica de sus procesos productivos;
 
@@ -277,7 +371,59 @@ VI. Programas para fomentar y apoyar la competitividad empresarial: Financiamien
 
 VII. Programas productivos de criterio social: Para aumentar sustancialmente la contratación directa como empleados, investigadores y trabajadores de personas con discapacidad o que sean Adultos Mayores; para contratar mujeres jefas de familia en procesos y actividades productivas o comunidades y regiones geográficas en donde ello no ocurra de manera habitual.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
+Se otorgará por cuatro años, sin distinción del tamaño de la empresa, y sin la necesidad de realizar ninguna inversión en activos fijos adicional, la exención del impuesto sobre nómina que se genere con motivo de la contratación de personas con discapacidad o adultos mayores, debiendo el empresario comprobar fehacientemente la discapacidad o la edad del trabajador contratado y su alta en el Instituto Mexicano del Seguro Social, junto con los demás requisitos de la solicitud de incentivos que presente a la Secretaría de Desarrollo Económico, esta exención será exclusivamente sobre la base del impuesto que genere el trabajador discapacitado o adulto mayor siempre y cuando durante este plazo se encuentre prestando sus servicios.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
+Por cada persona con discapacidad que contraten, siempre y cuando éste se encuentre prestando sus servicios durante el plazo establecido en el párrafo anterior, se otorgará la exención del impuesto sobre nómina que generen trabajadores sin discapacidad con el mismo sueldo, hasta por cuatro años, de conformidad con la siguiente tabla:
+
+Tamaño de la empresa. Trabajadores sin discapacidad exentos.
+
+Micro empresa. 1
+
+Pequeña empresa. 2
+
+Mediana empresa. 3
+
+Empresa grande. 3
+
 El Gobernador del Estado, podrá establecer sistemas especiales de incentivos orientados a regiones económicas prioritarias o a ramas o actividades económicas emergentes o estratégicas para la economía de la entidad.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 16 Bis.
+
+Para los efectos de lo dispuesto en los artículos 15 fracción X y 16 fracción VII, de esta Ley, el Gobierno del Estado otorgará a las empresas un subsidio único de dos meses de salario mínimo de la zona, por cada persona con discapacidad y adultos mayores que contraten, independientemente de cualquier otro incentivo que pudiera corresponderles de conformidad con lo señalado en esta Ley.
+
+Para la aplicación de este subsidio, deberán comprobar a la Secretaría, la contratación de las personas con discapacidad y de adultos mayores, mediante los avisos de alta ante el Instituto Mexicano del Seguro Social, acompañado del certificado médico en el que conste la discapacidad, expedido por una institución oficial; y para el caso de los adultos mayores, de una copia certificada del acta de nacimiento del trabajador.
+
+El beneficio de este subsidio se otorgará por la Secretaría, en coordinación con la Secretaría de Finanzas y de Administración, hasta un total de 250 trabajadores con discapacidad y 250 trabajadores adultos mayores anualmente, de conformidad con la siguiente tabla:
+
+Tamaño de la empresa. Número de trabajadores Número de trabajadores
+
+discapacitados adultos mayores
+
+beneficiados con el beneficiados con el
+
+subsidio. subsidio.
+
+Micro empresa. Hasta 2 Hasta 2
+
+Pequeña empresa. Hasta 4 Hasta 4
+
+Mediana empresa. Hasta 10 Hasta 10
+
+Empresa grande. Hasta 15 Hasta 15
+
+La Secretaría, en coordinación con la Secretaría de Finanzas y de Administración, previo análisis del impacto socioeconómico que tenga el proyecto de la empresa, podrá autorizar que se le proporcione el subsidio por más trabajadores con discapacidad o de adultos mayores, a los señalados en la tabla que precede, siempre y cuando no se llegue al máximo anual autorizado en este artículo.
+
+El subsidio único, con cargo al fondo de Fomento Económico de la Secretaría, se entregará a las empresas en dos pagos, el primero al iniciar el sexto mes de que se haya contratado al trabajador, y el segundo pago al inicio del duodécimo mes, siempre y cuando el trabajador siga prestando sus servicios en la empresa.
+
+El derecho a recibir el subsidio único a que se refiere el presente artículo, sólo podrá ser exigible mientras el trabajador se encuentre prestando sus servicios en la empresa correspondiente.
+
+En caso de que la empresa declare falsamente o no cumpla con los requisitos establecidos en el presente artículo respecto del tiempo en que se encuentren laborando las personas con discapacidad o adultos mayores, estarán obligados a la devolución de las cantidades recibidas con motivo del subsidio y a pagar las cantidades correspondientes a los beneficios descritos en los articules 16 y 16 bis, más los accesorios correspondientes de acuerdo con lo establecido por el Código Fiscal del Estado. En su caso, la devolución de la cantidad correspondiente, deberá enterarse en las cajas recaudadoras de la Secretaría de Finanzas y de Administración del Gobierno del Estado.
 
 ###### Artículo 17.
 
@@ -503,21 +649,69 @@ Para dar continuidad a la Mejora Regulatoria, la Secretaría integrará y operar
 
 El Programa fortalecerá e impulsará en forma permanente acciones para disminuir los tiempos y costos relativos a los trámites para el establecimiento y operación de las empresas.
 
-### CAPÍTULO VII. DE LAS VERIFICACIONES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO VII. DEL FOMENTO A LA TRANSFORMACIÓN Y COMERCIALIZACIÓN DE PRODUCTOS DURANGUENSES
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 37.
 
-La Secretaría podrá llevar a cabo visitas de verificación a la empresa con el objeto de revisar la información y documentación, así como constatar el cumplimiento de los compromisos que dieron origen al otorgamiento de los incentivos.
+El Ejecutivo Estatal, a través de la Secretaría, tendrá la obligación de posicionar el interés que el Estado tiene en ofrecer a los consumidores, productos elaborados en la entidad.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 38.
 
-Las visitas de verificación, a que se refiere el artículo anterior, se deberán ajustar al procedimiento previsto para tal efecto en el Código de Justicia Administrativa para el Estado de Durango.
+La Secretaría realizará una invitación formal y por escrito a los establecimientos que habrán de instalarse en la entidad, para que ofrezcan en sus instalaciones, productos de marca registrada generados por inversión directa o en co-inversión entre la firma comercial y los productores del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 39.
 
-Los beneficiarios del sistema de incentivos que así lo consideren podrán solicitar por escrito a la Secretaría la ampliación de los plazos para la ampliación de los compromisos pactados. El solicitante podrá gozar de la ampliación de los plazos por una sola ocasión.
+Cualquier empresa que se instale en el Estado y se asocie con productores o inversionistas locales para producir o transformar los productos primarios y promover su comercialización dentro y fuera de la entidad, tendrá acceso de manera preferencial al sistema de incentivos en los términos previstos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 40.
+
+Las empresas promoverán en sus anaqueles los productos procesados en Durango, en las mismas condiciones que se hace con los nacionales y con preferencia sobre los importados.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 41.
+
+Dependiendo del nivel de promoción de productos duranguenses, dentro y fuera del Estado, el Ejecutivo Estatal, a través de su sistema de incentivos, otorgará apoyos adicionales a las empresas que operen desde Durango.
+
+(REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO VII], P.O. 24 DE DICIEMBRE DE 2009)
+
+### CAPÍTULO VIII. DE LAS VERIFICACIONES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 37], P.O. 24 DE DICIEMBRE DE 2009)
+
+###### Artículo 42.
+
+La Secretaría podrá llevar a cabo visitas de verificación a la empresa con el objeto de revisar la información y documentación, así como constatar el cumplimiento de los compromisos que dieron origen al otorgamiento de los incentivos.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 38], P.O. 24 DE DICIEMBRE DE 2009)
+
+###### Artículo 43.
+
+Las visitas de verificación, a que se refiere el artículo anterior, se deberán ajustar al procedimiento previsto para tal efecto en el Código de Justicia Administrativa para el Estado de Durango.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 39], P.O. 24 DE DICIEMBRE DE 2009)
+
+###### Artículo 44.
+
+Los beneficiarios del sistema de incentivos que así lo consideren podrán solicitar por escrito a la Secretaría la ampliación de los plazos para la ampliación de los compromisos pactados. El solicitante podrá gozar de la ampliación de los plazos por una sola ocasión.
+
+(REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO VIII], P.O. 24 DE DICIEMBRE DE 2009)
+
+### CAPÍTULO IX. DE LAS INFRACCIONES Y SANCIONES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 40], P.O. 24 DE DICIEMBRE DE 2009)
+
+###### Artículo 45.
 
 La Secretaría sancionará, conforme a lo dispuesto por esta Ley, las siguientes infracciones:
 
@@ -529,7 +723,9 @@ III. Aprovechar los incentivos señalados en esta Ley para fines distintos a los
 
 IV. Ceder los beneficios concedidos en la resolución emitida por la Secretaría.
 
-###### Artículo 41.
+(REUBICADO [N. DE E. ANTES ARTICULO 41], P.O. 24 DE DICIEMBRE DE 2009)
+
+###### Artículo 46.
 
 En todo caso, las resoluciones de sanción tomarán en cuenta:
 
@@ -541,9 +737,9 @@ III. Los daños que se hubieran producido a la hacienda pública estatal; y
 
 IV. La reincidencia.
 
-### CAPÍTULO VIII. DE LAS INFRACCIONES Y SANCIONES
+(REUBICADO [N. DE E. ANTES ARTICULO 42], P.O. 24 DE DICIEMBRE DE 2009)
 
-###### Artículo 42.
+###### Artículo 47.
 
 Las sanciones consistirán en:
 
@@ -557,7 +753,9 @@ IV. Reparación del daño causado a la hacienda pública estatal. En caso de que
 
 Las sanciones establecidas en esta Ley se aplicarán sin perjuicio de las establecidas por otros ordenamientos legales.
 
-###### Artículo 43.
+(REUBICADO [N. DE E. ANTES ARTICULO 43], P.O. 24 DE DICIEMBRE DE 2009)
+
+###### Artículo 48.
 
 Cuando se incurra en alguna de las infracciones previstas en el artículo 40 de esta Ley, la Secretaría notificará al presunto infractor el inicio del procedimiento, para que éste, en un término de 5 días hábiles aporte pruebas y exponga lo que a su derecho convenga.
 
@@ -567,19 +765,27 @@ La resolución deberá notificarse al infractor y para ejecutarse se podrá hace
 
 Serán aplicables supletoriamente al procedimiento contenido en el presente artículo, en todo lo que no se opongan, las disposiciones del Título Cuarto del Código de Justicia Administrativa para el Estado de Durango.
 
-###### Artículo 44.
+(REUBICADO CON LOS ARTICULOS QUE LO INTEGRAN [N. DE E. ANTES CAPITULO IX], P.O. 24 DE DICIEMBRE DE 2009)
+
+### CAPÍTULO X. DE LOS MEDIOS DE DEFENSA
+
+(REUBICADO [N. DE E. ANTES ARTICULO 44], P.O. 24 DE DICIEMBRE DE 2009)
+
+###### Artículo 49.
 
 Contra de los actos y resoluciones de la Secretaría y de la Secretaría de Finanzas y de Administración que pongan fin al procedimiento administrativo, a una instancia administrativa o resuelva un expediente, procederá el recurso de inconformidad, en el cual deberá hacerse valer dentro de los 15 días hábiles siguientes a aquel en que hubiere surtido efectos la notificación de la resolución que se recurre.
 
 La interposición del recurso de inconformidad, podrá ser optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo del Estado de Durango.
 
-### CAPÍTULO IX. DE LOS MEDIOS DE DEFENSA
+(REUBICADO [N. DE E. ANTES ARTICULO 45], P.O. 24 DE DICIEMBRE DE 2009)
 
-###### Artículo 45.
+###### Artículo 50.
 
 La tramitación y resolución del recurso de inconformidad se hará con apego a lo establecido en el Título Quinto, secciones Segunda y Tercera del Código de Justicia Administrativa para el Estado de Durango.
 
-###### Artículo 46.
+(REUBICADO [N. DE E. ANTES ARTICULO 46], P.O. 24 DE DICIEMBRE DE 2009)
+
+###### Artículo 51.
 
 El recurso que se interponga ante la Secretaría o ante la Secretaría de Finanzas y de Administración, deberá ser resuelto en un plazo no mayor de 20 días hábiles contados a partir de la fecha de su interposición.
 
@@ -664,3 +870,15 @@ C.P. ISMAEL ALFREDO HERNÁNDEZ DERAS.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- La exención que establece el artículo 16, se otorgará sólo por cada trabajador discapacitado que se contrate a partir de la vigencia del presente Decreto.
+
+TERCERO.- El acceso preferencial al que se refiere el artículo 39 de esta Ley será registrado por la Secretaría, la que deberá mantener actualizada permanentemente la lista de beneficiarios.
+
+CUARTO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
