@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-del-archivo-municipal-de-solidaridad-63337"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-27"
-last_updated: "2008-08-27"
+last_updated: "2009-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DEL ARCHIVO MUNICIPAL DE SOLIDARIDAD, QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de agosto de 2008.
 
@@ -75,9 +75,11 @@ l.- Recibir, registrar y controlar los documentos que ingresen y egresen de toda
 
 II.- El asesorar y orientar a todas las dependencias del Ayuntamiento, respecto a la organización y funcionamiento de sus servicios documentales y archivísticos.
 
-III.- Dictaminar sobre el destino final de la documentación generada y conservada por las dependencias del ayuntamiento, una vez prescrita su utilidad administrativa legal y contable, determinando de ser el caso, su valor permanente o histórico.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2009)</small>
 
-El destino final será la destrucción de los mismos, mediante la trituración con el fin de reciclar el papel y evitar la contaminación ambiental. La trituración de los documentos, será cada ocho años respecto a los documentos administrativos, diez años aquellos que tengan carácter fiscal, y doce años para los de carácter legal; para llevar a cabo lo anterior, el Director del Archivo Municipal deberá notificar previamente al Secretario General del Ayuntamiento y a la Contraloría Municipal, independientemente de dar aviso a las direcciones de donde provengan los archivos a destruir; debiéndose levantar acta circunstanciada para tal efecto.
+III.- Presentar a consulta de la Comisión Dictaminadora de Valoración Histórica y Depuración Documental del Sistema Quintanarroense de Documentación, los expedientes que hayan cumplido con la finalidad para la que fueron generados y se proceda a su depuración.
+
+El destino final será la destrucción de los mismos, mediante la trituración con el fin de reciclar el papel y evitar la contaminación ambiental. La trituración de los documentos, será cada cinco años respecto a los documentos administrativos, seis años aquellos que tengan carácter fiscal contable, y ocho años para los de carácter legal. Para tal efecto, el Director, deberá recabar la anuencia de las direcciones de donde provengan los archivos a destruir, y dar aviso de tal circunstancia al Secretario General del Ayuntamiento.
 
 IV.- Organizar y describir los fondos y grupos documentales históricos que integran sus acervos, así como establecer normas para su préstamo y consulta.
 
@@ -170,3 +172,11 @@ DOY FE.
 M.D.C. RAFAEL EUGENIO CASTRO CASTRO
 
 SECRETARIO GENERAL DEL AYUNTAMIENTO DEL MUNICIPIO DE SOLIDARIDAD, Q. ROO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2009.
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO (SIC).- Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado.
