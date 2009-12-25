@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-seguridad-publica-60879
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2008-04-11"
+last_updated: "2009-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PÚBLICA DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA LA GACETA OFICIAL: 25 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 11 de abril de 2008.
 
@@ -83,9 +83,11 @@ La Secretaría deberá conducir sus actividades conforme a las políticas, prior
 
 Las Unidades Administrativas de la Secretaría estarán obligadas a coordinar entre sí sus actividades, a proporcionarse ayuda mutua, cooperación y asesoría y se regirán por las normas legales aplicables a su funcionamiento, por las disposiciones de este Reglamento y por los Manuales de Organización, Procedimientos y Servicios al Público que expida el Secretario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 8.
 
-Para la atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría de Seguridad Pública contará con las siguientes unidades administrativas:
+Para la atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría de Seguridad Pública contará con las unidades administrativas y órganos administrativos desconcentrados siguientes:
 
 I. Subsecretaría de Seguridad Pública A.
 
@@ -107,7 +109,19 @@ VII. Dirección Jurídica.
 
 VIII. Unidad Administrativa.
 
+> <small>(ADICIONADA, G.O. 25 DE DICIEMBRE DE 2009)</small>
+
+IX. Dirección del Centro de Evaluación y Control de Confianza.
+
+> <small>(ADICIONADA, G.O. 25 DE DICIEMBRE DE 2009)</small>
+
+X. El Órgano administrativo desconcentrado, Secretariado Ejecutivo del Sistema y del Consejo Estatal de Seguridad Pública.
+
 La Secretaría se auxiliará con Subdirecciones, Jefaturas y Subjefaturas de Departamento, Oficinas, Secciones y Mesas, así como prestadores de servicios de apoyo técnico o asesoría.
+
+> <small>(ADICIONADO, G.O. 25 DE DICIEMBRE DE 2009)</small>
+
+El Secretariado Ejecutivo del Sistema y del Consejo Estatal de Seguridad Pública ejercerá las atribuciones que le otorga la Ley del Sistema Estatal de Seguridad Pública, su Reglamento Interior que emita el Ejecutivo Estatal, y demás disposiciones aplicables.
 
 ###### Artículo 9.
 
@@ -195,13 +209,15 @@ XVII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aque
 
 XVIII. lnstrumentar el Sistema Estatal de Seguridad Pública y presidir el Consejo Estatal de Seguridad Pública;
 
-XIX. Nombrar y remover, con acuerdo del Gobernador del Estado, al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública y de su Consejo Estatal;
+XIX. (DEROGADA, G.O. 25 DE DICIEMBRE DE 2009)
 
 XX. Dirigir y ejercer el mando directo de las corporaciones policiales estatales y demás fuerzas de seguridad, así como nombrar y remover a los titulares de las mismas;
 
 XXI. Disponer, por acuerdo del Gobernador del Estado, del mando de la policía municipal en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
-XXII. Establecer, en el área de su competencia, el Servicio Policial de Carrera, en términos de la legislación aplicable y atendiendo los criterios que para tal efecto expida la Academia Nacional de Seguridad Pública; por cuanto hace a las etapas, procedimientos y procesos de los Subsistemas de dicho Servicio, que deban contenerse;
+> <small>(REFORMADA, G.O. 25 DE DICIEMBRE DE 2009)</small>
+
+XXII. Vigilar el cumplimiento de los lineamientos y criterios que establezcan los órganos competentes en materia del Servicio Policial de Carrera, en términos de la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables;
 
 XXIII. Realizar, en los casos que así proceda, acciones de coordinación, con el gobierno federal y el gobierno de otras entidades federativas, para atender de manera específica los problemas de seguridad pública que trasciendan los ámbitos locales, en términos de la legislación aplicable;
 
@@ -253,7 +269,9 @@ XIV. Cooperar, a petición de los Ayuntamientos, en la prevención del orden pú
 
 XV. Vigilar que la conducta de la policía a su mando se rija por los principios de legalidad, eficiencia, profesionalismo y honradez;
 
-XVI. Operar el Servicio Policial de Carrera de los elementos adscritos a su Subsecretaría;
+> <small>(REFORMADA, G.O. 25 DE DICIEMBRE DE 2009)</small>
+
+XVI. Atender y dar seguimiento, en el área de su competencia, a los lineamientos y criterios que establezcan los órganos competentes en materia del Servicio Policial de Carrera;
 
 XVII. Coadyuvar en la organización y operación del sistema estatal de información en materia de seguridad pública;
 
@@ -435,9 +453,13 @@ VIII. Las demás que le confieran las disposiciones legales aplicables y el supe
 
 La Dirección de la Academia Estatal de Policía estará adscrita directamente a la Secretaría y tendrá las siguientes atribuciones:
 
-I. Capacitar y especializar a los integrantes de las corporaciones policiales del Estado, así como a los aspirantes a formar parte de éstas, de conformidad con las leyes, reglamentos y decretos respectivos; y
+I. Capacitar y especializar a los integrantes de las corporaciones policiales del Estado, así como a los aspirantes a formar parte de éstas, de conformidad con las leyes, reglamentos y decretos respectivos; y (sic)
 
-II. Las demás que le atribuyan las leyes y reglamentos, así como las que le encomiende el Secretario.
+> <small>(ADICIONADA, G.O. 25 DE DICIEMBRE DE 2009)</small>
+
+II. Aplicar los Programas Rectores de Profesionalización, en términos de lo dispuesto por la Ley del Sistema Estatal de Seguridad Pública; y
+
+III. Las demás que le atribuyan las leyes y reglamentos, así como las que le encomiende el Secretario.
 
 ###### Artículo 26.
 
@@ -513,15 +535,25 @@ XXVII. Revisar y elaborar los proyectos de convenios, acuerdos, y bases de colab
 
 XXVIII. Elaborar el programa operativo anual de su área, así como rendir los informes que le sean requeridos;
 
-XXIX. Revisar y/o validar los contratos relacionados con los recursos materiales, humanos y financieros de la Dirección Jurídica;
+> <small>(REFORMADA, G.O. 25 DE DICIEMBRE DE 2009)</small>
+
+XXIX. Revisar y/o validar los contratos relacionados con recursos materiales, humanos y financieros;
 
 XXX. Participar como miembro del Subcomité de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles de la Secretaría de Seguridad Pública;
 
 XXXI. Asesorar jurídicamente al Secretario y demás Titulares de las unidades administrativas de la Secretaria, sobre la elaboración de contratos;
 
-XXXII. Elaborar el anteproyecto de presupuesto anual de egresos para someterlo a consideración de la unidad administrativa correspondiente de la Secretaría; y
+> <small>(REFORMADA, G.O. 25 DE DICIEMBRE DE 2009)</small>
 
-XXXIII. Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
+XXXII. Elaborar su anteproyecto de presupuesto anual de egresos para someterlo a consideración de la unidad administrativa;
+
+> <small>(ADICIONADA, G.O. 25 DE DICIEMBRE DE 2009)</small>
+
+XXXIII. El titular de la unidad fungirá como Secretario Técnico de la Comisión de Honor y Justicia, con las funciones inherentes a dicho cargo, en términos de la normatividad respectiva; y
+
+> <small>(REFORMADA, G.O. 25 DE DICIEMBRE DE 2009)</small>
+
+XXXIV. Las demás que le confieran las disposiciones legales aplicables y el Secretario dentro de la esfera de sus atribuciones.
 
 ###### Artículo 28.
 
@@ -569,9 +601,37 @@ XVIII. Realizar las afectaciones, transferencias y recalendarizaciones presupues
 
 XIX. Previo acuerdo del Secretario, firmar los contratos relacionados con los recursos materiales, humanos y financieros de la Secretaría, de conformidad con la legislación aplicable;
 
-XX. Expedir copias certificadas de los documentos que obran en los archivos y expedientes de la Dirección, a petición de particulares y autoridades competentes, cuando así proceda en los términos que la ley señale; y
+XX. Expedir copias certificadas de los documentos que obran en los archivos y expedientes de la Dirección, a petición de particulares y autoridades competentes, cuando así proceda en los términos que la ley señale; y (sic)
 
-XXI. Las demás que le confieran las disposiciones legales aplicables y el superior jerárquico dentro de la esfera de sus atribuciones.
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2009)</small>
+
+XXI. Fungir como enlace de la Secretaría ante órganos de fiscalización o auditoría, debiendo proporcionarles la información que requieran para el desempeño de sus funciones; y
+
+XXII. Las demás que le confieran las disposiciones legales aplicables y el superior jerárquico dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, G.O. 25 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 29 Bis.
+
+La Dirección del Centro de Evaluación y Control de Confianza estará adscrita directamente a la Secretaría y tendrá las siguientes atribuciones:
+
+I. Aplicar los procedimientos de evaluación y control de confianza conforme a los criterios y lineamientos que expidan el Centro Nacional de Certificación y Acreditación y el Centro Estatal de Evaluación y Control de Confianza;
+
+II. Efectuar y supervisar los exámenes médicos, psicológicos, poligráficos, de entorno socioeconómico y toxicológico a los cuerpos policiales y al personal adscrito a la Secretaría, así como a los aspirantes a ingresar; en términos de la legislación aplicable;
+
+III. Establecer un sistema de registro y control, que permita preservar la confidencialidad y resguardo de los expedientes de los sujetos examinados;
+
+IV. Actualizar la certificación del Centro ante las instancias correspondientes;
+
+V. Expedir los documentos probatorios de las pruebas realizadas;
+
+VI. Informar al titular de la Secretaría, sobre los resultados de las evaluaciones, así como elaborar los informes de resultados para la aceptación o rechazo de los aspirantes a ingresar a la dependencia;
+
+VII. Solicitar se efectúe el seguimiento individual de los integrantes de la dependencia evaluados, en los que se identifiquen factores que interfieran o pongan en riesgo el desempeño de sus funciones;
+
+VIII. Proporcionar a las autoridades competentes la información contenida en los expedientes de integrantes de la dependencia y que se requieran en procesos administrativos y judiciales, con las reservas previstas en las leyes aplicables; y
+
+IX. Las demás que establezcan las disposiciones legales aplicables.
 
 ### CAPÍTULO VII. DEL ÓRGANO INTERNO DE CONTROL
 
@@ -638,3 +698,15 @@ Gral. Brig. Ret. Juan Manuel Orozco Méndez
 Secretario de Seguridad Pública
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 25 DE DICIEMBRE DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Tercero. La Secretaría de Finanzas y Planeación y la Secretaría de Seguridad Pública realizarán las adecuaciones y transferencias presupuestales necesarias para el cumplimiento del presente Decreto.
+
+Cuarto. La Secretaría de Seguridad Pública emitirá, en un plazo no mayor a 60 días, los Manuales de Organización y Procedimientos correspondientes.
