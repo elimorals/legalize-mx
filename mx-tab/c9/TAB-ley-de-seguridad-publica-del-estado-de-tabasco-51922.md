@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-seguridad-publica-del-estado-de-tabasco-51922"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-13"
-last_updated: "2006-09-13"
+last_updated: "2009-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el viernes 13 de septiembre de 2006.
 
@@ -858,3 +860,25 @@ EXPIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIU
 "SUFRAGIO EFECTIVO. NO REELECCIÓN"
 
 LIC. MANUEL ANDRADE DE DÍAZ, GOBERNADOR DEL ESTADO DE TABASCO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor 25 días hábiles después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se otorga al Gobernador del Estado y a los Ayuntamientos un plazo máximo de seis meses contados a partir de la vigencia de la presente Ley, para la elaboración de la reglamentación que derive de la misma.
+
+En tanto se expidan las disposiciones reglamentarias en lo relativo a la disposición orgánica de los Cuerpos de Seguridad Pública Estatales y Municipales se aplicará la normatividad existente, en lo que no se oponga a esta Ley.
+
+TERCERO.- Con la finalidad de instrumentar eficazmente las disposiciones reglamentarias que permitan la operación del Servicio Profesional de Carrera Policial, es decir, la definición de cargos, estímulos, ascensos, procesos disciplinarios, de reclutamiento y bajas, se concede al Poder Ejecutivo un periodo de un año contado a partir de la entrada en vigor de la presente Ley, para su establecimiento.
+
+CUARTO.- Conforme a las disposiciones legales aplicables, el Ejecutivo Estatal realizará las transferencias presupuestarias necesarias, a efecto de que la Secretaria de Seguridad Pública y las instancias, los instrumentos, mecanismos y programas que lo conformen, puedan establecerse y desarrollar las funciones ordenadas en la presente Ley.
+
+QUINTO.- Las personas prestadoras de servicios de seguridad privada en el territorio del Estado que no cuenten con la autorización respectiva, gozarán de un plazo hasta de 90 días naturales improrrogables, contados a partir de la entrada en vigor de esta Ley, para solicitar la autorización.
+
+SEXTO.- La entrada en vigor de esta Ley abroga la Ley de Seguridad Pública para el Estado de Tabasco, publicada en el Periódico Oficial del Gobierno del Estado el 13 de septiembre de 2006.
+
+SÉPTIMO.- El "FONDO DE OPERACIÓN DE LAS POLICÍAS AUXILIAR Y LA BANCARIA INDUSTRIAL Y COMERCIAL" que prevé esta Ley, deberá constituirse en un periodo de diez días naturales después de la entrada en vigor de la presente Ley, a fin de garantizar la operación tanto de la Policía Auxiliar, como de la Policía Bancaria, Industrial y Comercial.
+
+OCTAVO.- El Congreso del Estado, en un término de ciento ochenta días contados a partir de la entrada en vigor de esta Ley, realizará las adecuaciones a las disposiciones legales, que se requieran con motivo de la aplicación de la presente Ley.
