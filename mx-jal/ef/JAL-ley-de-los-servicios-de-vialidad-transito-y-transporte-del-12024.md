@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2009-03-05"
+last_updated: "2009-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -2647,9 +2647,15 @@ Las autoridades competentes, tanto para levantar infracciones como para califica
 
 Si en el procedimiento que sigan las autoridades para tomar conocimiento de infracciones y ejecutar las sanciones administrativas previstas en esta Ley, constatan actos u omisiones que puedan integrar delitos, formularán la denuncia correspondiente al Ministerio Público.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 180.
 
-El crédito fiscal derivado de una multa de carácter administrativo, podrá pagarse sin recargo alguno, dentro de los quince días siguientes al de la notificación de la cédula de infracción; pero si el infractor efectúa su pago dentro de los primeros cinco días hábiles, tendrá derecho a una reducción del cincuenta por ciento en el monto de la misma; en el caso de que el pago lo haga del sexto a (sic) decimocuarto día, la reducción será únicamente del veinticinco por ciento.
+El crédito fiscal derivado de una multa de carácter administrativo, podrá pagarse sin recargo alguno, dentro de los treinta días siguientes al de la notificación de la cédula de infracción; pero si el infractor efectúa su pago dentro de los primeros diez días, tendrá derecho a una reducción del cincuenta por ciento en el monto de la misma; en el caso de que el pago lo haga del día décimo primero al vigésimo noveno día, la reducción será únicamente del veinticinco por ciento.
+
+El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá celebrar convenios con establecimientos comerciales para efectos de que reciban el pago de dichos créditos fiscales, dentro del plazo ordinario que no genera recargo, aplicando en su caso, los descuentos señalados.
 
 ###### Artículo 181.
 
@@ -3050,3 +3056,9 @@ P.O. 24 DE MAYO DE 2008.
 P.O. 5 DE MARZO DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor 90 días después de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. La Secretaría de Vialidad y Transporte deberá realizar una campaña estatal para hacer del conocimiento de la ciudadanía eta (sic) opción de pago.
