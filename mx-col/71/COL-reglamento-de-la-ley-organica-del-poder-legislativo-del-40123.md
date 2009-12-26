@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2009-08-21"
+last_updated: "2009-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -499,11 +499,11 @@ Las comisiones se encargarán de estudiar y analizar los asuntos de su competenc
 
 El Presidente de cada Comisión presentará en el mes de noviembre de cada año el programa de trabajo que dicha Comisión pretenda llevar a cabo en el siguiente ejercicio. En él detallará programas, acciones y metas por alcanzar, así como el costo financiero que deberá coincidir con la solicitud que al efecto haya presentado a la Comisión de Gobierno, en los términos del artículo 10 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 46.
 
-Las Comisiones del Congreso serán colegiadas, integradas por tres Diputados, quedando el primero de los nombrados como Presidente y los dos siguientes como Secretarios, a excepción de las Comisiones de Responsabilidades, de Hacienda y Presupuesto y de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y de Derechos Humanos, Atención al Migrante, y Promoción de la Equidad y Género, las que estarán integradas por cinco Diputados las tres primeras y siete la última; en éstas, los Diputados restantes tendrán el carácter de vocales.
+Las Comisiones del Congreso serán colegiadas, integradas por tres Diputados, quedando el primero de los nombrados como Presidente y los dos siguientes como Secretarios, a excepción de las Comisiones de Responsabilidades, de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y de Derechos Humanos y Atención al Migrante, las que estarán integradas por cinco Diputados las tres primeras y siete la última; en éstas, los Diputados restantes tendrán el carácter de vocales.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2006)</small>
 
@@ -511,39 +511,103 @@ Las Comisiones del Congreso serán colegiadas, integradas por tres Diputados, qu
 
 Las Comisiones del Congreso, serán las siguientes:
 
-I.- Justicia, Gobernación y Poderes;
+I. Justicia, Gobernación y Poderes;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-II.- Desarrollo Rural, Fomento Pesquero y Asuntos indígenas;
+II. Responsabilidades;
 
-III.- Educación, Cultura, y Deportes;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-IV.- Estudios Legislativos y Puntos Constitucionales;
+III. Educación y Cultura;
 
-V.- Hacienda y Presupuesto;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-VI.- Seguridad Pública, Prevención y Readaptación Social, y Protección Civil;
+IV. Salud, Deporte y Fomento del Sano Esparcimiento;
 
-VII.- Planeación, Turismo y Fomento Económico;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-VIII.- Comunicaciones y Transportes;
+V. Estudios Legislativos y Puntos Constitucionales;
 
-IX.- Asentamientos Humanos, Obras Públicas, y Protección y Mejoramiento Ambiental;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-X.- Responsabilidades;
+VI. Hacienda, Presupuesto y Fiscalización de los Recursos Públicos;
 
-XI.- Derechos Humanos, Atención al Migrante, y Promoción de la Equidad y Género;
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009) (F. DE E., P.O. 30 DE ENERO DE 2010)
 
-XII.- Salud, Asistencia Social, y Protección a la Niñez, Juventud, Adultos Mayores y Discapacidad,
+VII. Seguridad Pública, Protección Civil, Prevención y Readaptación Social;
 
-XIII.- Desarrollo Municipal, Participación Ciudadana, Peticiones, y Ediciones Legislativas;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+VIII. Planeación y Fomento económico;
 
-XIV.- Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-XV.- Ciencia, Tecnología e Innovación Gubernamental.
+IX. Turismo;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+X. Desarrollo Rural, Fomento Agropecuario y Pesquero, y Asuntos Indígenas.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XI. Comunicaciones y Transportes;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XII. Trabajo y Previsión Social;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XIII. Planeación del Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XIV. Vivienda;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XV. Ecología, Mejoramiento Ambiental, Cambio Climático y Cuidado del Agua;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XVI. Derechos Humanos y Atención al Migrante;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XVII. Promoción de la Equidad y Género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XVIII. Asistencia Social y Atención a los Grupos Vulnerables, Jefas de Familia, Adultos Mayores y Discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XIX. Protección de la Niñez y la Juventud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XX. Ciencia y Tecnología;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XXI. Desarrollo Municipal y Zonas Metropolitanas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XXII. Participación Ciudadana y Peticiones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XXIII. Difusión y Ediciones Legislativas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XXIV. Innovación Gubernamental; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XXV. Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2006)</small>
 
@@ -579,9 +643,9 @@ XII.- Los relacionados con la recepción de las propuestas de nombres que hagan 
 
 XIII.- Los relativos a controversias que se susciten entre el Poder Ejecutivo y el Judicial o entre ellos y alguno o algunos de los Ayuntamientos de la Entidad, que no sean de los que se establecen en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-XIV.- Analizar y dictaminar, conjuntamente con la Comisión de Derechos Humanos, Atención al Migrante, y Promoción de la Equidad y Género sobre las propuestas de nombramiento del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado;
+XIV.- Analizar y dictaminar, conjuntamente con la Comisión de Derechos Humanos y Atención al Migrante, sobre las propuestas de nombramiento del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
 
@@ -591,49 +655,75 @@ XV.- Los que se refieren al otorgamiento de amnistías; y
 
 XVI.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 49.
 
-Corresponde a la Comisión de Desarrollo Rural, Fomento Pesquero y Asuntos Indígenas, conocer de todas las iniciativas relacionadas con los planes y programas de desarrollo agropecuario, forestal, fomento pesquero, de explotación rural, y mejoramiento de ejidatarios, comuneros, pequeños propietarios y, en general, de los poseedores de predios agrícolas y ganaderos, así como del desarrollo e impulso de la acuacultura y aprovechamiento integral de los recursos acuícolas, en las áreas de competencia del Estado. Asimismo deberá conocer de todos los mecanismos jurídicos de desarrollo de los grupos indígenas y acciones de los gobiernos Federal, Estatal y Municipal que fortalezcan sus usos, costumbres, lengua, cultura e idiosincrasia, coadyuvando en el trabajo por la salud, educación, recursos para proyectos productivos y la igualdad de derechos de las mujeres, niñas y niños indígenas.
+Corresponde a la Comisión de Responsabilidades, conocer de los siguientes asuntos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2006)</small>
+I.- Los que el Congreso deba resolver erigiéndose en jurado de acusación y en jurado de procedencia, conforme a lo ordenado por los artículos 121 y 122 de la Constitución;
+
+II.- Dictaminar sobre los asuntos que en materia de juicio político y de declaración de procedencia envíen al Congreso las Cámaras del Congreso de la Unión, en los términos de los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos;
+
+III.- Estudiar y dictaminar los asuntos relativos a incompatibilidades en el servicio público de los Diputados;
+
+IV.- Conocer, analizar y emitir dictamen en los asuntos relacionados con responsabilidades administrativas provenientes de las auditorías que practique el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado;
+
+V.- Recibir las declaraciones anuales de situación patrimonial de los Diputados y servidores públicos del Poder Legislativo y proceder de conformidad con la ley de la materia; y
+
+VI.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 50.
 
-Corresponde a la Comisión de Educación, Cultura, y Deporte conocer de los siguientes asuntos:
+Corresponde a la Comisión de Educación y Cultura, conocer de los siguientes asuntos:
 
-I.- Los relativos a la educación pública del Estado en todos sus niveles;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+I.- Los relativos a la Educación Pública del Estado en todos sus niveles;
 
 II.- Los referentes a la creación, organización y funcionamiento de instituciones culturales, así como el fomento y promoción de la cultura;
 
 III.- Los que se refieran a la declaratoria de años y días festivos;
 
-IV.- Los que tengan por objeto la creación y otorgamiento de condecoraciones y preseas para reconocer méritos y servicios prestados a la humanidad y al Estado por colimenses, instituciones públicas, privadas o de servicio social, de conformidad con la ley respectiva, así como los que se relacionen con la inscripción o fijación en el Recinto Parlamentario, de nombres, fechas, bustos, estatuas, pinturas o frases;
+IV.- Los que tengan por objeto la creación y otorgamiento de condecoraciones y preseas para reconocer méritos y servicios prestados a la humanidad y al Estado por colimenses, instituciones públicas, privadas o de servicio social, de conformidad con la ley respectiva, así como los que se relacionen con la inscripción o fijación en el Recinto Parlamentario, de nombres, fechas, bustos, estatuas, pinturas o frases; y
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-V.- Conocer de los asuntos que se refieran a la creación, organización y funcionamiento de Instituciones encargadas de impulsar el Deporte en todas sus ramas, así como el fomento y promoción del Deporte, la Recreación y la Educación Física;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
-
-VI.- Analizar y dictaminar las propuestas que se hagan al Congreso para el reconocimiento de personas o instituciones públicas privadas o sociales que se hayan destacado por ser ejemplo en la promoción o práctica del deporte; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-VII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 51.
 
-Corresponde a la Comisión de Estudios Legislativos y Puntos Constitucionales conocer de los siguientes asuntos:
+Corresponde a la Comisión de Salud, Deporte y Fomento del Sano Esparcimiento, conocer de los siguientes asuntos:
+
+I.- Dictaminar, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales las iniciativas de reforma, adición o derogación de las leyes estatales sobre salud;
+
+II.- Los programas y acciones encaminados al mejoramiento de la salud y el bienestar físico y mental de los colimenses y al desarrollo integral de la familia, formulando las propuestas que considere convenientes;
+
+III.- Los programas y acciones encaminados al mejoramiento de la calidad de vida de los grupos marginados, especialmente del medio rural y de aquellas comunidades que carecen de servicios de salud, formulando las propuestas que considere convenientes;
+
+IV.- Conocer de los asuntos que se refieran a la creación, organización y funcionamiento de Instituciones encargadas de impulsar el Deporte en todas sus ramas, así como el fomento, estimulo y promoción del Deporte, la Recreación, el sano esparcimiento, la activación y la Educación Física;
+
+V.- Analizar y dictaminar las propuestas que se hagan al Congreso para el reconocimiento y estimulo de personas o instituciones públicas privadas o sociales que se hayan destacado por ser ejemplo en la promoción o práctica del deporte;
+
+VI.- Legislar en materia deportiva, con el propósito de contribuir con las dependencias de la administración pública estatal y los municipios, a la consolidación del sistema estatal del deporte, en la visión de que la práctica del deporte y la activación fisca, son el componente sustancial del mejoramiento de la salud y la calidad de vida de la población;
+
+VII.- Realizar los estudios legislativos pertinentes, que permitan valorar las posibilidades de la institucionalización de programas deportivos específicos y de activación fisca, para la población en general, que garanticen continuidad y generen, entre los diferentes sectores la sociedad, una cultura y una necesidad conveniente, en términos de mejoramiento de la salud;
+
+VIII.- Conocer de los asuntos que en materia legislativa requieran las instituciones públicas, a fin cumplir con eficacia su encomienda de promoción continua de la práctica del deporte y la activación fisca de la población en general, así como para que se mejoren las expectativas del gobierno del estado, respecto al mejoramiento de la salud pública de la sociedad;
+
+IX.- Conocer de los asuntos que en materia normativa o financiera, requieran las instituciones del Estado para la promoción del deporte y la activación fisca, en el afán de contribuir a la realización de las gestiones institucionales necesarias, orientadas al mejoramiento de la infraestructura deportiva y la creación y rehabilitación de espacios públicos que le permita a las familias colimenses contar con dichas áreas que alienten la convivencia familiar y generacional, que unan y consoliden sus lazos familiares; y
+
+XI (SIC).- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 52.
+
+Corresponde a la Comisión de Estudios Legislativos y Puntos Constitucionales, conocer de los siguientes asuntos:
 
 I.- Los que se refieran a reformas de la Constitución Política de los Estados Unidos Mexicanos y de la particular del Estado;
 
 II.- Los que la Constitución Federal autorice a las Legislaturas de los Estados para legislar en su ámbito de competencia, en materias concurrentes;
-
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
 
 III.- Los que se refieran a los Códigos Civil, Penal, de Procedimientos Civil y Penal, leyes ordinarias, orgánicas o reglamentarias de artículos de la Constitución;
 
@@ -641,17 +731,17 @@ IV.- Los relativos a la proposición de reformas a la Ley Orgánica del Poder Le
 
 V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-###### Artículo 52.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-Corresponde a la Comisión de Hacienda y Presupuesto conocer de los siguientes asuntos:
+###### Artículo 53.
 
-I.- Los que se refieran a la expedición o reformas de las leyes de hacienda del Estado y de los municipios;
+Corresponde a la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, conocer de los siguientes asuntos:
 
-II.- Los relacionados con la expedición y reformas de las leyes de ingresos del Estado y de los municipios y el presupuesto de egresos del Gobierno del Estado;
+I.- Los que se refieran a la expedición o reformas de las Leyes de Hacienda del Estado y de los Municipios, así como de los Códigos Fiscal del Estado y Municipal; de las leyes de Coordinación Fiscal, de Deuda Pública, y de Presupuesto, Contabilidad y Gasto Público Estatal y Municipal;
+
+II.- Los relacionados con la expedición y reformas de las Leyes de Ingresos del Estado y de los Municipios y el Presupuesto de Egresos del Gobierno del Estado;
 
 III.- Los que se refieran a la creación de impuestos extraordinarios o especiales, estatales y municipales;
-
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2007)</small>
 
 IV.- Los que se refieran a los casos previstos en las fracciones XI, XXXVIII y XL, del artículo 33 de la Constitución;
 
@@ -659,27 +749,17 @@ V.- Dictaminar sobre convenios y contratos de crédito o aval que suscriba el Go
 
 VI.- Los relativos a la fijación de bases y montos para la distribución de las participaciones federales y estatales que correspondan a cada municipio;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
-
-VII.- Dictaminar, conjuntamente con la Comisión de Asentamientos Humanos, Obras públicas, y Protección y Mejoramiento Ambiental, lo relativo a la desincorporación, enajenación y constitución de gravámenes sobre los bienes inmuebles del patrimonio estatal;
+VII.- Dictaminar, conjuntamente con la Comisión de Planeación del Desarrollo Urbano, lo relativo a la desincorporación, enajenación y constitución de gravámenes sobre los bienes inmuebles del patrimonio estatal; y
 
 VIII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-###### Artículo 53.
-
-(DEROGADO, P.O. 30 DE OCTUBRE DE 2006)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2009) (F. DE E., P.O. 30 DE ENERO DE 2010)
 
 ###### Artículo 54.
 
-(DEROGADO, P.O. 30 DE OCTUBRE DE 2006)
+Corresponde a la Comisión de Seguridad Pública, Protección Civil, Prevención y Readaptación Social, conocer de los siguientes asuntos:
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2006)</small>
-
-###### Artículo 55.
-
-Corresponde a la Comisión de Seguridad Pública, Prevención y Readaptación Social, y Protección Civil, conocer de los siguientes asuntos:
-
-I.- Dictaminar, en coordinación con la Comisión de Estudios Legislativos y Puntos Constitucionales, sobre la legislación que establezca y regule el sistema integral de tratamiento penal y el funcionamiento y estructura de los cuerpos de seguridad pública;
+I.- Dictaminar, en coordinación con las Comisiones de Estudios Legislativos y Puntos Constitucionales, sobre la legislación que establezca y regule el sistema integral de tratamiento penal y penitenciario, y el funcionamiento y estructura de los cuerpos de seguridad pública;
 
 II.- Conocer de todas las iniciativas relacionadas con la legislación establecida o que se establezca dentro del Sistema Estatal de Protección Civil;
 
@@ -689,9 +769,11 @@ IV.- Proponer acciones y políticas que se consideren deben ajustarse en el marc
 
 V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-###### Artículo 56.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-Corresponde a la Comisión de Planeación, Turismo y Fomento Económico conocer de los siguientes asuntos:
+###### Artículo 55.
+
+Corresponde a la Comisión de Planeación y Fomento Económico, conocer de los siguientes asuntos:
 
 I.- El estudio, análisis y dictamen de las iniciativas que se refieran al Sistema Estatal de Planeación Democrática en sus aspectos generales;
 
@@ -703,9 +785,61 @@ IV.- Participar como representante del Poder Legislativo en los consejos y comit
 
 V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 56.
+
+Corresponde a la Comisión de Turismo, conocer de los siguientes asuntos:
+
+I.- Dictaminar conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales, iniciativas en materia de Turismo;
+
+II.- Participar como representante del Poder Legislativo en los consejos y comités de apoyo de la Secretaría de Turismo, en los términos de la legislación aplicable;
+
+III.- Los relacionados con los programas y acciones encaminadas a la consolidación y promoción de la actividad turística;
+
+IV.- En coordinación con las comisiones de Planeación y Fomento Económico, y de Ecología, Mejoramiento Ambiental, Cambio Climático y Cuidado del Agua, revisar y analizar periódicamente la Ley de Turismo del Estado de Colima, así como impulsar y formular reformas y adecuaciones necesarias derivadas del dinamismo y diversificación de la actividad, las cuales fortalezcan los esquemas de regulación de la actividad y el desarrollo continuo en el Estado;
+
+V.- Promover la participación de la Comisión, en los trabajos de formulación del Plan Estatal de Desarrollo del Gobierno del Estado, los Planes Municipales de Desarrollo, así como en la formulación, seguimiento y evaluación del Programa Sectorial de Turismo, ante el Subcomité Sectorial de Ciencia y Tecnología de Comité de Planeación para el Desarrollo del Estado de Colima;
+
+VI.- Participar en Congresos, Simposios, Conferencias y eventos que promuevan las legislaturas de los Estado (sic), los Gobiernos Federal, Estatal o Municipales, los Congresos estatales, así como organizaciones o asociaciones civiles, que promuevan el intercambio de experiencias legislativas exitosas en materia turística y valorar con las dependencias del sector en la entidad, la viabilidad de su aplicación en el Estado;
+
+VII.- Promover reformas reglamentarias en los ayuntamientos, congruentes con el marco jurídico vigente en el país y el Estado, en la materia;
+
+VIII.- En coordinación con las dependencias federales, estatales y municipales del sector, conocer de los asuntos relacionados con concesiones y el establecimiento de desarrollos turísticos que para tal efecto expidan las autoridades competentes, los términos de las Leyes respectivas;
+
+IX.- En el ámbito de su competencia legislativa, promover el fortalecimiento de la actividad turística en los municipios con recursos turísticos potenciales, como alternativa al turismo tradicional de sol y playa; y
+
+X.- Las demás que le otorguen la ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 57.
 
-Corresponde a la Comisión de Comunicaciones y Transportes conocer de los siguientes asuntos:
+Corresponde a la Comisión de Desarrollo Rural, Fomento Agropecuario, Pesquero y Asuntos Indígenas, conocer de los siguientes asuntos:
+
+I.- Las iniciativas relacionadas con los planes y programas de desarrollo agropecuario, forestal, fomento pesquero, de explotación rural, y mejoramiento de ejidatarios, comuneros, pequeños propietarios y, en general, de los poseedores de predios agrícolas y ganaderos, así como del desarrollo e impulso de la acuacultura y aprovechamiento integral de los recursos acuícolas, en las áreas de competencia del Estado. Asimismo deberá conocer de todos los mecanismos jurídicos de desarrollo de los grupos indígenas y acciones de los gobiernos Federal, Estatal y Municipal que fortalezcan sus usos, costumbres, lengua, cultura e idiosincrasia, coadyuvando en el trabajo por la salud, educación, recursos para proyectos productivos y la igualdad de derechos de las mujeres, niñas y niños indígenas;
+
+II.- Los relacionados con los programas y acciones encaminados a la consolidación y promoción de las actividades económicas del Estado;
+
+III.- Participar como representante del Poder Legislativo en los consejos y comités de apoyo de las Secretarías de Planeación, de Desarrollo Rural y de Fomento Económico, en los términos de la legislación aplicable;
+
+IV.- En materia de desarrollo rural, a la Comisión le corresponderá promover y alentar el mejoramiento de la calidad de vida de la población en las localidades rurales del estado, emprendiendo un trabajo legislativo y de gestión institucional, cuyos resultados positivos, mejoren las expectativas de la población, respecto a su bienestar, progreso y una mejor calidad de vida;
+
+V.- La Comisión conocerá, además, de los asuntos referentes al respeto y aplicación efectiva de los derechos sociales de los sectores sociales de la población de las comunidades rurales;
+
+VI.- Conocerá también de los asuntos relacionados con la aplicación justa de la Ley de Desarrollo Social, local y nacional, así como de la aplicación justa y equitativa, de los programas instituciones que las dependencias de la administración pública del sector, de los tres niveles de gobierno, lleven a cabo;
+
+VII.- Desde el ámbito legislativo, promoverá estudios y análisis del marco jurídico estatal en materia social, con el propósito de valorar, justa, imparcial y técnicamente, el impacto de los programas institucionales que se lleven a cabo por las dependencias del sector publico de los tres órdenes de gobierno, relacionados a la atención y combate a la pobreza, el desempleo, la inseguridad, entre otros problemas sociales, así como la eficacia del ejercicio de sus derechos constitucionales fundamentales, como los derechos relacionados con la salud, la educación, vivienda, así como del mejoramiento de los centros de población, su entorno urbano-vecinal, que impactan notablemente en el desarrollo o el rezago de las comunidades;
+
+VIII.- Promoverá la gestión y la autogestión de la población de las localidades rurales del estado, como componentes sociales fundamentales para la organización social comunitaria, de tal manera que los habitantes de las comunidades rurales, sean los promotores de su propio desarrollo; y
+
+IX.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 58.
+
+Corresponde a la Comisión de Comunicaciones y Transportes, conocer de los siguientes asuntos:
 
 I.- El estudio, análisis y dictamen, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales, de las iniciativas relacionadas con la legislación aplicable en materia de comunicaciones y transportes de competencia estatal;
 
@@ -713,55 +847,71 @@ II.- Participar, en representación del Poder Legislativo en el Consejo Consulti
 
 III.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2006)</small>
-
-###### Artículo 58.
-
-Corresponde a la Comisión de Asentamientos Humanos, Obras Públicas, y Protección y Mejoramiento Ambiental, conocer de los siguientes asuntos:
-
-I.- Estudiar, analizar y dictaminar, en coordinación con la Comisión de Hacienda y Presupuesto, sobre la creación de impuestos o derechos especiales, indispensables para la realización de las obras que se contemplen en los planes de urbanización;
-
-II.- El estudio, análisis y dictamen, en coordinación con la Comisión de Hacienda y Presupuesto, de las iniciativas relacionadas con desincorporación de bienes inmuebles del patrimonio estatal;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
-
-III.- El estudio, análisis y dictamen sobre asuntos relacionados con la protección del medio ambiente y el equilibrio ecológico;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-IV.- Estudiar, analizar y dictaminar, en coordinación con la Comisión de Comunicaciones y Transportes, las iniciativas de ley encaminadas a establecer las condiciones y requisitos a que deben sujetarse los vehículos de motor para permitir su circulación; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 59.
 
-(DEROGADO, P.O. 30 DE OCTUBRE DE 2006)
+Corresponde a la Comisión de Trabajo y Previsión social, conocer de los siguientes asuntos:
 
-###### Artículo 60.
+I.- El estudio, análisis y dictamen, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales, de las iniciativas relacionadas con la legislación aplicable en materia laboral de competencia estatal;
 
-Corresponde a la Comisión de Responsabilidades conocer de los siguientes asuntos:
+II.- En coordinación con las Comisiones de Planeación y Fomento Económico, impulsar reformas legislativas, que alienten la generación de empleos permanentes y justamente remunerados;
 
-I.- Los que el Congreso deba resolver erigiéndose en jurado de acusación y en jurado de procedencia, conforme a lo ordenado por los artículos 121 y 122 de la Constitución;
+III.- Impulsar ante las instancias federales respectivas el diseño y control efectivo de las políticas macroeconómicas y de control de precios, que incidan en el mejoramiento de los salarios reales de los trabajadores; y
 
-II.- Dictaminar sobre los asuntos que en materia de juicio político y de declaración de procedencia envíen al Congreso las Cámaras del Congreso de la Unión, en los términos de los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos;
+IV.- Promover la participación de la Comisión, en los trabajos de formulación del Plan Estatal de Desarrollo del Gobierno del Estado, así como en la formulación, seguimiento y evaluación del Programa Sectorial en la materia, ante el Subcomité Sectorial de Trabajo y Previsión Social del Comité de Planeación para el Desarrollo del Estado de Colima; y
 
-III.- Estudiar y dictaminar los asuntos relativos a incompatibilidades en el servicio público de los Diputados;
+V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-IV.- Conocer, analizar y emitir dictamen en los asuntos relacionados con responsabilidades administrativas provenientes de las auditorías que practique el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado;
+###### ARTÍCULO 60.
 
-V.- Recibir las declaraciones anuales de situación patrimonial de los Diputados y servidores públicos del Poder Legislativo y proceder de conformidad con la ley de la materia; y
+Corresponde a la Comisión de Planeación del Desarrollo Urbano, conocer de los siguientes asuntos:
 
-VI.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+I.- Estudiar, analizar y dictaminar, en coordinación con la Comisión de Hacienda y Presupuesto y Fiscalización de Recursos Públicos, sobre la creación de impuestos o derechos especiales, indispensables para la realización de las obras que se contemplen en los planes de urbanización;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2006)</small>
+II.- El estudio, análisis y dictamen, en coordinación con la Comisión de Hacienda y Presupuesto y Fiscalización de Recursos Públicos, de las iniciativas relacionadas con las (sic) desincorporación, enajenación y constitución de gravámenes sobre los bienes inmuebles del patrimonio estatal;
+
+III.- Impulsar, en coordinación con las dependencias del sector, del Gobierno del Estado y los Ayuntamientos, reformas y adecuaciones al marco jurídico estatal en materia de Planeación del Desarrollo Urbano, que le permita a las entidades de la administración pública estatal, inducir eficazmente el fenómeno de urbanización, impulsar un crecimiento más ordenado y equilibrado de las principales ciudades de nuestro estado, en la visión de que el reordenamiento territorial, opere, a la vez, como un mecanismo para el impulso del desarrollo regional y económico de la entidad;
+
+IV.- Participar en la promoción de la creación o actualización de los planes y programas de desarrollo urbano del Estado y de los Municipios, así como de sus reglamentos de zonificación respectivos;
+
+V.- Impulsar la realización de estudios técnicos en materia de desarrollo urbano, que le permita al gobierno del Estado, conocer las tendencias y los índices de crecimiento del fenómeno de urbanización, que le permitan eficientar la toma de decisiones, en materia de inversión pública, para la creación de infraestructura social o productiva o como parte de sus estrategias y políticas en materia de fomento de la inversión productiva y de promoción económica;
+
+VI.- Contribuir en el impulso de programas institucionales en materia de urbanización, para la consolidación de los principales centros de población, sobre la base de un sólido sistema de ciudades, a partir del cual se esté en posibilidades de materializar los proyectos de urbanización necesarios, que hagan posible, en el mediano y largo plazo, la integración un sistema metropolitano de ciudades y municipios, que mejore las expectativas de crecimiento y desarrollo de las diversas regiones del estado, basado en la cooperación y la coordinación interinstitucional e intersectorial; y
+
+VII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 61.
 
-Corresponde a la Comisión de Derechos Humanos, Atención al Migrante, y Promoción de la Equidad y Género conocer de los siguientes asuntos:
+Corresponde a la Comisión de Vivienda, conocer de los siguientes asuntos:
+
+I.- Revisar y adecuar, en su caso, la legislación vigente en materia de vivienda en el Estado, así como en materia de asentamientos humanos, que privilegie la regulación y la inducción del fenómeno de urbanización conforme a los planes y programas de desarrollo urbano del gobierno del estado y los municipios de la entidad;
+
+II.- Coadyuvar en el análisis sobre esquemas de financiamiento público y privado para que la población tenga mejores condiciones para la adquisición y mejoramiento de vivienda; y
+
+III.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 62.
+
+Corresponde a la Comisión de Ecología, Mejoramiento Ambiental, Cambio Climático y Cuidado del Agua, conocer de los siguientes asuntos:
+
+I.- El estudio, análisis y dictamen sobre asuntos relacionados con la protección del medio ambiente y el equilibrio ecológico;
+
+II.- Estudiar, analizar y dictaminar, en coordinación con la Comisión de Comunicaciones y Transportes, las iniciativas de ley encaminadas a establecer las condiciones y requisitos a que deben sujetarse los vehículos de motor para permitir su circulación; y
+
+III.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 63.
+
+Corresponde a la Comisión de Derechos Humanos y Atención al Migrante, conocer de los siguientes asuntos:
 
 I.- De los programas y acciones necesarios para la divulgación, promoción y difusión de los derechos humanos en el Estado;
 
@@ -771,159 +921,157 @@ III.- Proponer las iniciativas que contribuyan al fortalecimiento y salvaguarda 
 
 IV.- Analizar y formular, conjuntamente con la Comisión de Gobierno, las observaciones procedentes al informe que rinda anualmente el Presidente de la Comisión de Derechos Humanos del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
-
 V.- Analizar y dictaminar, conjuntamente con la Comisión de Justicia, Gobernación y Poderes, sobre las propuestas de nombramiento del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
 
 VI.- Apoyar los convenios que beneficien a los Migrantes Colimenses;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA](ADICIONADA, P.O. 30 DE OCTUBRE DE 2006)</small>
-
 VII.- Coadyuvar con las autoridades competentes en la búsqueda de instrumentos adecuados para atender las causas que generan la Migración;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-VIII.- Realizar las acciones necesarias a fin de contribuir en la defensa de los derechos humanos de los Migrantes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-IX.- Los programas encaminados a crear una conciencia ciudadana de igualdad entre el hombre y la mujer, formulando las propuestas que considere convenientes.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-X.- Conocer lo relacionado con programas y acciones de los tres ordenes de gobierno encaminados a la atención y superación de las mujeres; formulando las propuestas que considere convenientes;
-
-(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006) (F. DE E., P.O. 7 DE MARZO DE 2009)
-
-XI.- Apoyar programas y acciones tendientes a atender la violencia intrafamiliar y la desigualdad entre géneros, propiciando que a la mujer se le de el apoyo, trato y respeto que merecen;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-XII.- Representar al Congreso en las instituciones, organismos y agrupaciones en que éste sea parte, relacionados con la materia de dicha Comisión, así como en los eventos que se organicen en este rubro; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-XIII.- Las demás que le otorgue la ley, este ordenamiento o los acuerdos internos aprobados por el Congreso.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2006)</small>
-
-###### Artículo 62.
-
-Corresponde a la Comisión de Salud, Asistencia Social, y Protección a la Niñez, Juventud, Adultos Mayores y Discapacidad conocer de los siguientes asuntos:
-
-I.- Dictaminar, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales las iniciativas de reforma, adición o derogación de las leyes estatales sobre salud, así como asistencia social y privada;
-
-II.- Los programas y acciones encaminados al mejoramiento de la salud y el bienestar físico y mental de los colimenses y al desarrollo integral de la familia, formulando las propuestas que considere convenientes;
-
-III.- Los programas y acciones encaminados al mejoramiento de la calidad de vida de los grupos marginados, especialmente del medio rural y de aquellas comunidades que carecen de servicios de salud, formulando las propuestas que considere convenientes; y (sic)
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
-
-IV.- Los relacionados con las iniciativas de reforma, adición o derogación de las leyes estatales sobre protección a la niñez, la juventud, adultos mayores y personas con discapacidad;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-V.- Los relacionados con programas encaminados a la protección jurídica y social de la niñez, incluyendo a menores abandonados y en situación difícil, formulando las propuestas que considere convenientes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-VI.- Las acciones encaminadas a impulsar y fortalecer el desarrollo integral, social, económico, cultural y deportivo de la juventud, formulando las propuestas que considere convenientes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-VII.- La formulación, ejecución y evaluación de programas y acciones encaminados a la protección, apoyo y estímulo a los adultos mayores y personas con discapacidad, formulando las propuestas que considere convenientes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-VIII.- Participar con la representación del Congreso, en las instituciones, organismos, comisiones o comités cuyas actividades estén relacionadas con la niñez, juventud, adultos mayores y personas con discapacidad; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
+VIII.- Realizar las acciones necesarias a fin de contribuir en la defensa de los derechos humanos de los Migrantes; y
 
 IX.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-###### Artículo 63.
-
-(DEROGADO, P.O. 30 DE OCTUBRE DE 2006)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 64.
 
-(DEROGADO, P.O. 30 DE OCTUBRE DE 2006)
+Corresponde a la Comisión de Promoción de la Equidad y Género, conocer de los siguientes asuntos:
+
+I.- Los programas encaminados a crear una conciencia ciudadana de igualdad entre el hombre y la mujer, formulando las propuestas que considere convenientes;
+
+II.- Conocer lo relacionado con programas y acciones de los tres órdenes de gobierno encaminados a la atención y superación de las mujeres; formulando las propuestas que considere convenientes;
+
+III.- Apoyar programas y acciones tendientes a atender la violencia intrafamiliar y la desigualdad entre géneros, propiciando que a la mujer se le dé el apto trato y respeto que merecen; y
+
+IV.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 65.
 
-(DEROGADO, P.O. 30 DE OCTUBRE DE 2006)
+Corresponde a la Comisión de Asistencia Social y Atención a los Grupos Vulnerables, Jefas de Familia, Adultos Mayores y Discapacidad, conocer de los siguientes asuntos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2006)</small>
+I.- Dictaminar, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales las iniciativas de reforma, adición o derogación de las leyes estatales sobre asistencia social y privada;
+
+II.- Los programas y acciones encaminados al mejoramiento de la salud y el bienestar físico y mental de los colimenses y al desarrollo integral de la familia, formulando las propuestas que considere convenientes;
+
+III.- Los relacionados con las iniciativas de reforma, adición o derogación de las leyes estatales sobre protección a las Jefas de Familia, Adultos Mayores y Personas con Discapacidad;
+
+IV.- La formulación, ejecución y evaluación de programas y acciones encaminados a la protección, apoyo y estímulo a los adultos mayores y personas con discapacidad, formulando las propuestas que considere convenientes;
+
+V.- Participar con la representación del Congreso, en las instituciones, organismos, comisiones o comités cuyas actividades estén relacionadas con los adultos mayores y personas con discapacidad;
+
+VI.- Los relacionados con programas encaminados a la protección jurídica y social de los adultos mayores, las personas con discapacidad, jefas de familia con problemas de violencia intrafamiliar, así como de toda persona en condición de vulnerabilidad, formulando las propuestas que considere convenientes;
+
+VII.- Impulsar el fortalecimiento del sistema que en materia de asistencia social se aplica en el Estado, alentando continuamente la participación y cooperación de la sociedad en programas institucionales que contribuyan a la disminución de la condición vulnerable de Jefas de Familia, Adultos Mayores y Discapacitados; y
+
+IX (SIC).- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 66.
 
-Corresponde a la Comisión de Desarrollo Municipal, Participación Ciudadana, Peticiones, y Ediciones Legislativas, conocer de los siguientes asuntos:
+Corresponde a la Comisión de Protección de la Niñez y la Juventud, conocer de los siguientes asuntos:
+
+I.- Los relacionados con programas encaminados a la protección jurídica y social de la niñez, incluyendo a menores abandonados y en situación difícil, formulando las propuestas que considere convenientes;
+
+II.- Las acciones encaminadas a impulsar y fortalecer el desarrollo integral, social, económico, cultural y deportivo de la juventud, formulando las propuestas que considere convenientes;
+
+III.- Los relacionados con las iniciativas de reforma, adición o derogación de las leyes estatales sobre protección a la niñez, la juventud; y
+
+V (SIC).- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 67.
+
+Corresponde a la Comisión de Ciencia y Tecnología, conocer de los siguientes asuntos:
+
+I.- Referentes a la creación, organización y funcionamiento de instituciones científicas, así como el fomento y promoción de la ciencia y tecnología;
+
+II.- Que tengan relación con los avances de la ciencia y tecnología, especialmente la promoción de actividades, conferencias, simposios y exposiciones encaminadas a su difusión y vinculación con el individuo, la familia y la sociedad;
+
+III.- Atender las cuestiones que en materia legislativa tengan que ver con el impulso y aplicación de programas institucionales de promoción, respaldo y financiamiento de la ciencia y la tecnología;
+
+IV.- En el ámbito de sus competencias legislativas, promover y fomentar a nivel sectorial, la cultura de la ciencia y la tecnológica, su aplicación en los sectores productivos como componente y mecanismo para el mejoramiento de sus procesos de producción y vinculación de mercados, así como de la propia productividad de las empresas colimenses;
+
+V.- En su calidad de integrante de la Junta Directiva del Consejo Estatal de Ciencia y Tecnología del Estado de Colima sugerir programas institucionales que mejoren las expectativas de financiamiento y promoción de los trabajos que realizan los profesionales dedicados a la investigación de la ciencia y tecnología;
+
+VI.- Promover el estudio y revisión continua de la Ley de Fomento y Desarrollo de Ciencia y Tecnología del Estado de Colima, su aplicación y funcionalidad, que permita a la comunidad científica y tecnológica del estado, mayores y mejores posibilidades de acceso a los programas institucionales que alienten su actividad;
+
+VII.- Promover la participación de la comisión, en los trabajos de formulación del Plan Estatal de Desarrollo el Gobierno del Estado, los Planes Municipales de Desarrollo, así como en la formulación, seguimiento y evaluación del Programa Sectorial de la materia, ante el Subcomité Sectorial de Ciencia y Tecnología de Comité de Planeación para el Desarrollo del Estado de Colima; y
+
+VIII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 68.
+
+Corresponde a la Comisión de Desarrollo Municipal y Zonas Metropolitanas, conocer de los siguientes asuntos:
+
+I.- Fomentar la cultura y la profesionalización de los servidores públicos municipales, impulsando el servicio civil de carrera en los Ayuntamientos;
+
+II.- Promover e impulsar en el ámbito de las competencias legislativas, el desarrollo municipal y el fortalecimiento de las administraciones municipales, a partir de programas institucionales conjuntos con el poder legislativo y otras entidades públicas del gobierno federal o estatal;
+
+III.- Desde el ámbito de sus respectivas competencias legislativas, la comisión conocerá de los asuntos que en materia de reforma municipal, impulsen a nivel estatal o federal los gobiernos respectivos;
+
+IV.- Revisar y analizar periódicamente las reformas o adecuaciones que en materia municipal impulse el Congreso de la Unión;
+
+V.- Conocer de los asuntos que en materia territorial y conurbada se impulsen, con el propósito de eficientar la prestación de servicios públicos comunes entre dos o más municipios; y
+
+VI.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 69.
+
+Corresponde a la Comisión de Participación Ciudadana y Peticiones, conocer de los siguientes asuntos:
 
 I.- Dictaminar en materia de plebiscito, referéndum e iniciativa popular;
 
 II.- Promover conjuntamente con los Ayuntamientos, la participación popular y la consulta ciudadana en la elaboración de los planes municipales de desarrollo;
 
-III.- Fomentar la cultura y la profesionalización de los servidores públicos municipales, impulsando el servicio civil de carrera en los Ayuntamientos; y (sic)
+III.- Los que no estén reservados a cualquiera de las demás comisiones permanentes, así como la de los ocursos y peticiones de particulares, personas físicas o morales, en las que expongan problemas que les afecten o soliciten intervención del Congreso; y
 
-> <small>(REFORMADA P.O. 30 DE OCTUBRE DE 2006)</small>
+IV.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-IV.- Los que no estén reservados a cualquiera de las demás comisiones permanentes, así como la de los ocursos y peticiones de particulares, personas físicas o morales, en las que expongan problemas que les afecten o soliciten intervención del Congreso;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-V.- Difundir las actividades legislativas y parlamentarias, mediante la publicación de revistas, folletos y toda clase de ediciones;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-VI.- Organizar y supervisar el archivo del Congreso, promoviendo la adquisición de obras relativas a la actividad legislativa;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-VII.- Promover la celebración de convenios con las Legislaturas de otros Estados, el Congreso de la Unión, la Suprema Corte de Justicia de la Nación e instituciones de educación superior públicas y privadas, encaminados al intercambio de información y a la edición de discos compactos y demás material informático, de la legislación estatal y su permanente actualización;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-VIII.- Promover y atender, en su caso, a grupos de estudiantes que visiten las instalaciones del Congreso, a fin de que conozcan las actividades que desempeña el Poder Legislativo; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2006)</small>
-
-IX.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
-
-###### Artículo 67.
-
-La Comisión de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, tendrá las facultades previstas en la Ley de la materia.
-
-###### Artículo 68.
-
-(DEROGADO, P.O. 30 DE OCTUBRE DE 2006)
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2006)</small>
-
-###### Artículo 69.
-
-Corresponde a la Comisión de Ciencia, Tecnología e Innovación Gubernamental conocer de los siguientes asuntos:
-
-I.- Referentes a la creación, organización y funcionamiento de instituciones científicas, así como el fomento y promoción de la ciencia y tecnología;
-
-II.- Que tengan relación con los avances de la ciencia y tecnología, especialmente la promoción de actividades, conferencias, simposium y exposiciones encaminadas a su difusión y vinculación con el individuo, la familia y la sociedad; y
-
-III.- Respecto a las propuestas e iniciativas relacionadas con la implementación de avances tecnológicos para la modernización de la Administración Pública Estatal, así como para el establecimiento de la legislación encaminada a regular la forma de operar, acceder y obtener los beneficios del gobierno electrónico.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 70.
 
-(DEROGADO, P.O. 30 DE OCTUBRE DE 2006)
+Corresponde a la Comisión de Difusión y Ediciones Legislativas, conocer de los siguientes asuntos:
+
+I.- Difundir las actividades legislativas y parlamentarias, mediante la publicación de revistas, folletos y toda clase de ediciones;
+
+II.- Organizar y supervisar el archivo del Congreso, promoviendo la adquisición de obras relativas a la actividad legislativa;
+
+III.- Promover la celebración de convenios con las Legislaturas de otros Estados, el Congreso de la Unión, la Suprema Corte de Justicia de la Nación e instituciones de educación superior públicas y privadas, encaminados al intercambio de información y a la edición de discos compactos y demás material informático, de la legislación estatal y su permanente actualización;
+
+IV.- Promover y atender, en su caso, a grupos de estudiantes que visiten las instalaciones del Congreso, a fin de que conozcan las actividades que desempeña el Poder Legislativo; y
+
+V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 71.
 
-(DEROGADO, P.O. 30 DE OCTUBRE DE 2006)
+Corresponde a la Comisión de Innovación Gubernamental, conocer de los siguientes asuntos:
+
+I.- Respecto a las propuestas e iniciativas relacionadas con la implementación de avances tecnológicos para la modernización de la Administración Pública Estatal, así como para el establecimiento de la legislación encaminada a regular la forma de operar, acceder y obtener los beneficios del gobierno electrónico.
+
+II.- Proponer e impulsar programas en materia de organización y administración, que contribuyan al mejoramiento de las estructuras organizativas de la Administración Pública Estatal y su eficaz desempeño.
+
+III.- Impulsar el mejoramiento continuo de los servicios administrativos que presta la Administración Pública Estatal y su difusión en los sectores de la sociedad;
+
+IV.- Impulsar el diseño y puesta en operación de un sistema de evaluación y seguimiento del desempeño de las estructuras de la Administración Pública Estatal y de los programas que lleva a cabo, con el propósito de que se mejoren continuamente la calidad de los servicios a la población; y
+
+V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 72.
 
-(DEROGADO, P.O. 30 DE OCTUBRE DE 2006)
+La Comisión de Vigilancia del Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado, tendrá las facultades previstas en la Ley de la materia.
 
 ###### Artículo 73.
 
@@ -1419,11 +1567,13 @@ d).- Artículos transitorios.
 
 Las iniciativas que se reciban, una vez dada cuenta de ellas a la Asamblea o la Comisión Permanente, en su caso, serán turnadas a la comisión o comisiones que correspondan, para su estudio, análisis y dictamen correspondiente y sólo podrán dispensarse de este trámite, por acuerdo expreso de la Asamblea, aquellos asuntos que tengan una obvia resolución por no ameritar un examen profundo o que a juicio de la misma sean urgentes.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ### CAPITULO XIII. DE LOS TRÁMITES
 
 ###### Artículo 129.
 
-Las peticiones de particulares, corporaciones o autoridades que carezcan del derecho de iniciativa, se turnarán a la Comisión de Peticiones, la que determinará si son de tomarse o no en consideración. En caso afirmativo, la hará suya, la presentará y se seguirá el trámite respectivo.
+Las peticiones de particulares, corporaciones o autoridades que carezcan del derecho de iniciativa, se turnarán a la Comisión de Participación Ciudadana y Peticiones, la que determinará si son de tomarse o no en consideración. En caso afirmativo, la hará suya, la presentará y se seguirá el trámite respectivo.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -2270,3 +2420,7 @@ P.O. 21 DE AGOSTO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
