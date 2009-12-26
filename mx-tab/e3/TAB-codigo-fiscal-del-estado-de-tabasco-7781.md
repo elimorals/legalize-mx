@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "2000-12-30"
+last_updated: "2009-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO FISCAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -497,17 +497,45 @@ Las modificaciones de las declaraciones a que se refiere este artículo, se efec
 
 ### Capítulo Unico
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ## TITULO III. FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES FISCALES
 
 ### Capítulo I. Infracciones
 
 ###### Artículo 31.
 
-Las autoridades señaladas en el artículo 8 de este Código tendrán las facultades y obligaciones que esta ley les otorga y además las que dispongan los ordenamientos legales respectivos.
+Las autoridades fiscales tendrán las facultades y obligaciones que les otorga este Código, además de las que dispongan los ordenamientos legales respectivos, siendo competentes para el mejor cumplimiento de sus facultades para lo siguiente:
 
-Las autoridades fiscales proporcionarán asistencia gratuita a los contribuyentes, mediante explicaciones de las disposiciones fiscales en las que se utilizará un lenguaje llano alejado de tecnicismo y en los casos que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes.
+I. Proporcionar asistencia gratuita a los contribuyentes y para ello procurarán:
 
-Las autoridades fiscales están obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados, de su resolución favorable se derivan derechos para el particular, en cuyos casos la resolución se emitirá por escrito.
+a) Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnicismos y, en los casos que así se considere, elaborar y distribuir folletos entre los contribuyentes.
+
+b) Mantener oficinas, cuando así se requiera, en diversos lugares del territorio del Estado de Tabasco que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones fiscales, incluso las que se realicen a través de medios electrónicos, poniendo a su disposición el equipo para ello.
+
+c) Elaborar, cuando proceda, los formularios de declaración de manera que puedan ser llenados fácilmente por los contribuyentes y distribuirlos o difundirlos con oportunidad, así como informar de las fechas y de los lugares de presentación de los que se consideren de mayor importancia.
+
+d) Señalar en forma precisa en los requerimientos mediante los cuales se exija a los contribuyentes la presentación de declaraciones, avisos y demás documentos a que estén obligados; cuál es el documento cuya presentación se exige.
+
+e) Difundir de manera general entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales.
+
+f) Efectuar en distintas partes del Estado de Tabasco reuniones de información con los contribuyentes, especialmente cuando se modifiquen las disposiciones fiscales y durante los principales periodos de presentación de declaraciones.
+
+g) Publicar anualmente las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a periodos inferiores a un año. Las resoluciones que se emitan conforme a este inciso y que se refieran a sujeto, objeto, base, tasa o tarifa, no generarán obligaciones o cargas adicionales a las establecidas en las propias leyes fiscales.
+
+h) Dar a conocer, mediante publicación en el Periódico Oficial del Estado de Tabasco, los criterios no vinculativos de las disposiciones fiscales.
+
+Los servicios de asistencia al contribuyente a que se refiere esta fracción también deberán difundirse a través de la página electrónica que al efecto establezca la Secretaría. En dicha página también se podrán dar a conocer todos los trámites fiscales.
+
+II. Para los efectos de lo dispuesto en este artículo, la autoridad fiscal, en el ejercicio de sus facultades de asistencia al contribuyente, podrá realizar recorridos; campañas de difusión por medios electrónicos e impresos; invitaciones verbales, electrónicas, impresas; o censos, para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales y promover su incorporación voluntaria o actualización de sus datos en los registros de contribuyentes que para tal efecto mantenga la Secretaría.
+
+No. se considera que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando derivado de lo señalado en el párrafo que antecede, soliciten a los particulares los datos, informes y documentos necesarios para corregir o actualizar los Registros de Contribuyentes que mantenga la Secretaría de Administración y Finanzas
+
+Asimismo, las autoridades fiscales darán a conocer a los contribuyentes, a través de los medios de difusión que se señalen en reglas de carácter general, los criterios de carácter interno que emitan para el debido cumplimiento de las disposiciones fiscales, salvo aquéllos que, a juicio de la propia autoridad, tengan el carácter de reservados, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Periódico Oficial del Estado de Tabasco
+
+Cuando las Leyes, Reglamentos y demás disposiciones legales hagan referencia u otorguen atribuciones a la Secretaría en materia de ingresos públicos, se entenderán hechas también a la Subsecretaría de Ingresos.
+
+III. Las autoridades fiscales están obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados, cuya resolución de ser favorable sólo generará derechos para el particular. En estos casos la resolución se emitirá por escrito.
 
 ###### Artículo 32.
 
@@ -843,9 +871,19 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 56.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias, estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargado (sic) de la administración y la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal, a los tribunales competentes que conozcan de pensiones alimenticias o en el supuesto previsto en el artículo 49 de este Código.
+Los servidores públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias estarán obligados a guardar absoluta reserva y confidencialidad en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva y confidencialidad no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal, a los tribunales competentes que conozcan de pensiones alimenticias o en el supuesto previsto en el artículo 49 de este Código.
+
+Dicha reserva o confidencialidad tampoco comprenderá la información relativa a los adeudos fiscales de los contribuyentes, que las autoridades fiscales proporcionen o difundan únicamente a las sociedades de información crediticia que operen de conformidad con la Ley para Regular las Sociedades de Información Crediticia, sea que estos adeudos emanen de contribuciones locales o de contribuciones federales coordinadas. A efecto de la correcta y debida aplicación de la facultad prevista en este párrafo, la Secretaría podrá solicitar o auxiliarse de la colaboración que brinden las autoridades federales.
+
+Sólo por acuerdo expreso del titular de la Secretaría se podrán publicar los siguientes datos por grupos de contribuyentes: nombre, domicilio, actividad y montos de adeudos fiscales no cubiertos o pagados.
+
+Mediante acuerdo de intercambio recíproco de información, suscrito por el titular de la Secretaría, se podrá suministrar la información a las autoridades fiscales de otras entidades federativas o del Gobierno Federal, siempre que se pacte o acuerde que la misma sólo se utilizará para efectos fiscales y se guardará el secreto fiscal correspondiente.
+
+Los datos personales recabados a través de las solicitudes, avisos, declaraciones y demás manifestaciones, ya sean impresos o por medios electrónicos, serán incorporados, protegidos y tratados en los sistemas de datos personales de la Secretaría conforme a las disposiciones fiscales, con la finalidad de ejercer las facultades conferidas a la autoridad fiscal y únicamente podrán ser transmitidos en los términos y con las excepciones establecidas en el presente artículo, además de las previstas en otros ordenamientos legales fiscales estatales o federales.
 
 ## TITULO IV. INFRACCIONES Y DELITOS FISCALES
 
@@ -2132,3 +2170,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Las contribuciones que conforme el párrafo quinto del artículo 21 de esta Código, vigente hasta el treinta y uno de diciembre del año 2000, serán cubiertas de conformidad a lo establecido en dicho numeral.
 
 Artículo Tercero.- Los contribuyentes que entrada en vigor de la presente reforma y adición del Código, podrán compensarlas a partir del primer pago de la contribución del ejercicio fiscal del año 2001.
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, la Secretaría proporcionará a las sociedades de información crediticia autorizadas, conforme a la ley de la materia, los adeudos de ejercicios fiscales anteriores que a la fecha no hayan sido cubiertos dentro de los plazos legalmente establecidos.
+
+TERCERO. Será de aplicación supletoria para la debida y mejor observancia de lo dispuesto en el presente Decreto, lo previsto en las disposiciones fiscales legales, reglamentarias y normativas de carácter federal.
