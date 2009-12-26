@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2008-12-13"
+last_updated: "2009-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE TABASCO
 
-CODIGO CIVIL PARA EL ESTADO DE TABASCO
+CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -903,7 +903,9 @@ II.- La constancia de que otorgan su consentimiento las personas a que se refier
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal alguno para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-IV.- Un certificado suscrito por médico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, ni enfermedad crónica e incurable que sea, además, contagiosa y hereditaria;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+IV.- Un documento emitido por la Secretaría de Salud del Estado o por otra institución de salud pública o privada, avalada por la primera, que contenga información clara, explícita, con fundamento científico, expresada en lenguaje cotidiano y accesible a toda la población, en el que se informe a los contrayentes los aspectos mas relevantes relacionados con la salud reproductiva, incluidas las enfermedades contraídas por contacto estrecho y prolongado, enfermedades transmitidas por contacto sexual y la prevención de ambas, los riesgos y cuidados del embarazo y el parto, así como los cuidados del recién nacido;
 
 V.- Copia certificada de la constancia relativa a: defunción del cónyuge, del divorcio administrativo, parte resolutiva de la sentencia de divorcio judicial o de nulidad del matrimonio, en caso de que cualquiera de los contrayentes hubiere sido casado anteriormente; y
 
@@ -1313,15 +1315,13 @@ VI.- El atentado contra la vida de alguno de los casados, para casarse con el qu
 
 VII.- La fuerza o miedo graves. En caso de rapto subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente manifieste su voluntad;
 
-VIII.- La embriaguez habitual;
+VIII.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
+IX.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
-IX.- El uso no terapéutico de enervantes, estupefacientes, psicotrópicos o de cualquiera otra substancia que altere la conducta y produzca farmacodependencia;
+X.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
-X.- La impotencia por causa física para consumar el matrimonio, siempre que sea incurable;
-
-XI.- Las enfermedades crónicas e incurables que sean, además, contagiosas o hereditarias;
+XI.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
 XII.- La disminución o perturbación de la inteligencia; y
 
@@ -25528,6 +25528,14 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al presente Decreto.
 
 TERCERO. Los procesos jurisdiccionales relacionados con la materia que regula el presente decreto actualmente en trámite, se concluirán de conformidad con la normatividad que los reguló al momento de su inicio.
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Los trámites que actualmente se encuentran en proceso, se concluirán conforme a las nuevas disposiciones.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 ###### ARTICULO PRIMERO.
 
