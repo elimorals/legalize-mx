@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-colegio-de-bachilleres-del-estado-de-jalisco-12364"
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-21"
-last_updated: "1997-06-21"
+last_updated: "2009-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL COLEGIO DE BACHILLERES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 21 de junio de 1997.
 
@@ -43,7 +43,9 @@ LEY DEL COLEGIO DE BACHILLERES DEL ESTADO DE JALISCO
 
 El Colegio de Bachilleres del Estado de Jalisco, como Organismo Público Descentralizado del Gobierno del Estado con personalidad jurídica y patrimonio propios, con domicilio en la Ciudad de Guadalajara, Jalisco, podrá establecer planteles en las regiones o Municipios que lo requieran dentro del territorio de esta Entidad.
 
-Para los efectos de la presente Ley, cuando se menciona Colegio se estará aludiendo al Colegio de Bachilleres del Estado de Jalisco, y al referir Reglamento, se estará citando al Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+Para los efectos de la presente Ley, cuando se menciona Colegio se estará aludiendo al Colegio de Bachilleres del estado de Jalisco, y al referir Reglamento, se estará citando al Reglamento Interno del Colegio.
 
 ###### Art. 2º.
 
@@ -89,21 +91,29 @@ IV. Su Consejo Consultivo; y
 
 V. Los Directores de cada uno de los planteles que establezca el Colegio.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO No. 23026/LVIII/09, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO PARA QUEDAR CONFORMADO POR CUATRO FRACCIONES.</small>
+
 ###### Art. 6º.
 
 La Junta Directiva del Colegio es la máxima autoridad de la institución y estará integrada por:
 
-I. Un Presidente, que será el Secretario de Educación del Estado o la persona que el Gobernador designe;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-II. Un Secretario Ejecutivo, cuyo cargo recaerá en el representante de la Secretaría de Educación Pública del Estado; y
+I. Dos representantes del Poder Ejecutivo del Gobierno del estado de Jalisco, designados por su titular, uno de los cuales la presidirá;
 
-III. Un Tesorero, que será nombrado por el Titular del Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-IV. Un representante del Sector Social que será designado por el Gobierno del Estado; y
+II. Dos representantes del Gobierno Federal, designados por el Secretario de Educación Pública;
 
-V. Un representante del Sector Productivo que participe en el financiamiento del Colegio mediante el patronato.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-Los cargos enunciados en las fracciones I, II, IV y V serán honoríficos y por lo tanto no remunerados.
+III. Un representante del Sector Social, designado por la Junta Directiva a propuesta del Poder Ejecutivo del Gobierno del Estado, y
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+IV. Dos representantes del Sector Productivo que participen en el financiamiento del Colegio, mediante un Patronato constituido para apoyar la operación del mismo. Estos representantes serán designados por el propio Patronato de conformidad con sus estatutos.
+
+Los cargos enunciados en las fracciones I, II, IV y V (sic) serán honoríficos y por lo tanto no remunerados.
 
 ###### Art. 7º.
 
@@ -143,6 +153,10 @@ XII. Aprobar el plan de actividades y ejercer las demás funciones que se determ
 
 Para ser Director General se deberán satisfacer los requisitos que se contengan en el Reglamento. El Director General será el representante legal del Colegio, con todas las facultades de un apoderado legal para actos de administración y para pleitos y cobranzas; también podrá ejercer actos de dominio, previa autorización por escrito de la Junta Directiva.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+Su cargo tendrá una duración de cuatro años, pudiendo ser ratificado para un nuevo periodo por una sola ocasión.
+
 ###### Art. 10.
 
 Son facultades y obligaciones del Director General:
@@ -155,9 +169,21 @@ III. Hacer cumplir las normas y disposiciones que rijan al Colegio;
 
 IV. Efectuar en los términos de esta Ley y su Reglamento, las designaciones y remociones del personal docente, técnico y administrativo, que no estén reservadas a otra actividad del Colegio;
 
-V. Presentar a la Junta Directiva, en la última sesión de cada período escolar; un informe de las actividades del Colegio realizadas durante el ciclo anterior; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-VI. Las demás que se señalen en otras disposiciones legales aplicables.
+V. Presentar a la Junta Directiva, en la última sesión de cada periodo escolar; un informe de las actividades del Colegio realizadas durante el ciclo anterior;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+VI. Delegar la representación legal del Colegio en el titular del Área Jurídica, el cual le informará semestralmente sobre los asuntos atendidos;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+VII. Certificar documentos internos del Colegio, y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+VIII. Las demás que se señalen en otras disposiciones legales aplicables.
 
 ###### Art. 11.
 
@@ -219,7 +245,9 @@ Serán considerados como trabajadores de confianza: El Director General, el Teso
 
 ## TRANSITORIOS
 
-PRIMERO. El reglamento de la presente Ley deberá ser expedido por el Colegio de Bachilleres del Estado de Jalisco, en un plazo no mayor de ciento ochenta días hábiles siguientes a la entrada en vigor de esta Ley, el cual deberá de ser aprobado por la Junta Directiva.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+PRIMERO. El Reglamento Interno deberá ser expedido por el Colegio de Bachilleres del estado de Jalisco, el cual deberá de ser aprobado por la Junta Directiva y remitido al titular del Poder Ejecutivo para su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Se faculta al Titular del Poder Ejecutivo del Estado para que celebre los convenios de apoyo financiero y técnico con la Secretaría de Educación Pública y dependencias competentes del Gobierno Federal y de Coordinación y Asesoría con el Colegio de Bachilleres de la Ciudad de México, en los términos y condiciones que sean apropiados para la operación del Colegio de Bachilleres del Estado de Jalisco.
 
@@ -254,3 +282,19 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+DECRETO No. 23025/LVIII/09 POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 1 Y EL PRIMER TRANSITORIO DEL DECRETO NUMERO 16585 QUE CONTIENE LA LEY DEL COLEGIO DE BACHILLERES DEL ESTADO DE JALISCO.
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+DECRETO No. 23026/LVIII/09 POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 6, 9, Y 10 DE LA LEY DEL COLEGIO DE BACHILLERES DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. La duración del cargo del actual Director General empezará a contar a partir de cuando tomó posesión.
