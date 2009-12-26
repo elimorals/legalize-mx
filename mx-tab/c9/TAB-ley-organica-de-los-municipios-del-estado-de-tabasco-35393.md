@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2009-03-14"
+last_updated: "2009-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -3107,7 +3107,11 @@ IV. Indicar el uso de suelo del predio;
 
 V. La exposición de motivos en que se fundamente la solicitud; además de la mención del acto jurídico que habrá de formalizarla;
 
-VI. Acreditar que el adquiriente no sea familiar por afinidad, ni por consanguinidad hasta el cuarto grado, de alguno de los integrantes del Ayuntamiento, en cuyo caso la enajenación será nula;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+VI. Acreditar que el adquiriente no sea familiar por afinidad, ni por consanguinidad hasta el segundo grado, de alguno de los integrantes del Ayuntamiento, en cuyo caso la enajenación será nula;
 
 VII. Señalará los beneficiarios, especificando si se trata de personas físicas o jurídicas colectivas.
 
@@ -3117,15 +3121,27 @@ Tratándose de personas jurídicas colectivas se expresará su denominación, do
 
 VIII. Superficie, medidas, linderos y ubicación exacta del inmueble, acompañando el plano correspondiente;
 
-IX. Certificación del Registro Público de la Propiedad y del Comercio, de que el solicitante, cuando es un particular, y el predio se destina para una vivienda, no es propietario de algún inmueble ni su cónyuge ni sus hijos menores de edad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. Que la superficie no exceda de la necesaria para una vivienda de interés social cuando la enajenación no se destine a otros usos de carácter social, como construcción de escuelas, hospitales o edificios públicos similares;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+IX. Certificación del Registro Público de la Propiedad y del Comercio, de que el solicitante, cuando es un particular, y el predio se destina para una vivienda, no es propietario de algún inmueble;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+X. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
 XI. Comprobación de que el inmueble no está ni será destinado al servicio público municipal; y
 
 XII. Certificación de que el inmueble no tiene un valor arqueológico, histórico o artístico, en caso de que exista indicio de ello, la que deberá ser expedida por la Institución competente.
 
 Una vez recibida la solicitud, el Cabildo emitirá por acuerdo de las dos terceras partes de sus integrantes la resolución que corresponda, sujetándose a lo señalado en esta Ley y a las demás disposiciones aplicables, ordenándose la publicación de los resolutivos correspondientes en el Periódico Oficial del Estado. Asimismo, en su oportunidad se deberán inscribir el o los títulos de propiedad que se expidan.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+El Ayuntamiento podrá coordinarse con la autoridad federal, estatal o de otro municipio, competente en la materia, para la regularización de los asentamientos humanos.
 
 ###### Artículo 234.
 
@@ -3594,3 +3610,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación.
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor a los 30 días siguientes a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
