@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2008-04-12"
+last_updated: "2009-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -897,11 +897,23 @@ I.- Cuando así lo soliciten el Presidente Municipal o la mayoría de los miembr
 
 II.- Cuando se traten asuntos relativos a la responsabilidad de los integrantes del cabildo o los servidores públicos de la administración pública municipal centralizada y paramunicipal.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 88.
 
-Los integrantes del cabildo presentes en la sesión de que se trate estarán obligados a manifestar el sentido de su voto, a favor o en contra de la propuesta, debiendo en este último caso razonar el sentido del mismo.
+Los integrantes del Cabildo presentes en la sesión de que se trate estarán obligados a expresar el sentido de su voto, a favor o en contra de la propuesta, teniendo derecho a razonar el sentido de su decisión mediante la formulación de votos particulares por escrito, sin perjuicio de las manifestaciones verbales que en la propia sesión realicen.
 
-Las abstenciones que se registren se sumarán al sentido de la mayoría.
+El munícipe que comparta el sentido del acuerdo o resolución aprobado por la mayoría de los integrantes del Ayuntamiento, pero discrepe de las consideraciones que lo sustentan, podrán formular voto particular concurrente.
+
+El munícipe que disienta del acuerdo o resolución aprobado por la mayoría de los integrantes del Ayuntamiento, así como de sus consideraciones, podrá formular voto particular disidente.
+
+El voto concurrente se tendrá como voto a favor y se sumará al sentido de la mayoría. El voto disidente se tendrá como voto en contra y se sumará al sentido de la minoría.
+
+Los votos particulares deberá (sic) anunciarse en la propia sesión de cabildo en la que se acuerden o resuelvan los asuntos que los motivan y se presentarán por escrito ante el Secretario del H. Ayuntamiento dentro de las 48 horas siguientes al término de dicha sesión. Se insertarán íntegramente en el acta de la sesión de Cabildo al final del acuerdo o resolución que los hubiese originado.
+
+Los munícipes podrán abstenerse de votar los asuntos que se tratan en la Sesión, siempre y cuando justifiquen el motivo de esa decisión. Las abstenciones que se registren se sumarán al sentido de la mayoría.
+
+El Secretario del Ayuntamiento hará constar en el acta de cabildo respectiva los motivos de la abstención.
 
 ###### Artículo 89.
 
@@ -2027,7 +2039,7 @@ a) Jefatura del Departamento de Prensa.
 
 b) Jefatura del Área de Radio y Televisión.
 
-a) (sic) Jefatura del Área de Análisis Informativo.
+a (sic)) Jefatura del Área de Análisis Informativo.
 
 III. Coordinación General de Atención y Participación Social
 
@@ -4902,3 +4914,13 @@ En tanto el Ayuntamiento no asuma la función de la seguridad pública en el Mun
 Dado en el Salón de Cabildos del Honorable Ayuntamiento de Colima, a los 4 días del mes de abril de 2008.
 
 LIC. MARIO ANGUIANO MORENO, Presidente Municipal. Rúbrica.- LIC. JULIO CÉSAR MARÍN VELÁZQUEZ COTTIER, Secretario del Ayuntamiento. Rúbrica.- C.P. JOSÉ ANTONIO OROZCO SANDOVAL, Síndico Municipal. Rúbrica.- REGIDORES: PROFR. NICOLÁS CONTRERAS CORTES, Rúbrica.- C. GONZALO VERDUZCO GENIS, Rúbrica.- LIC. IGNACIA MOLINA VILLARREAL, Rúbrica. C.P. LEONOR DE LA MORA BEJAR, Rúbrica.- LIC. VÍCTOR JACOBO VÁZQUEZ CERDA, Rúbrica. JOSÉ VERDUZCO MORENO, Rúbrica.- LIC. MARGARITA PADILLA CAMBEROS, Rúbrica.- LIC. ELIA BEATRIZ CÁRDENAS W., Rúbrica.- LIC. PATRICIA LUGO BARRIGA, Rúbrica.- ARQ. MILTON DE ALVA GUTIÉRREZ, Rúbrica.- ING. ARMANDO GONZALEZ MANZO, Rúbrica.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+TERCERO.- EL Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo a lo dispuesto por el artículo 47, fracción I, incisos a) y f), de la Ley del Municipio Libre del Estado de Colima, y 140 del Reglamento del Gobierno del Municipio de Colima.
