@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-54101"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-03"
-last_updated: "2007-01-03"
+last_updated: "2009-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA LA PROTECCION DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de enero de 2007.
 
@@ -59,6 +59,10 @@ La presente Ley de orden público, interés social y de observancia general en e
 
 La aplicación de la presente ley corresponde al Titular del Poder Ejecutivo y los Ayuntamientos; quienes en el ámbito de sus respectivas competencias, deberán expedir las normas, establecer los programas y tomar las medidas administrativas necesarias a efecto de dar cumplimiento a esta Ley.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+Será aplicable supletoriamente a esta Ley el Código Civil y el Código de Procedimientos Civiles, ambos ordenamientos del Estado Libre y Soberano de Tabasco.
+
 ###### Artículo 3.
 
 Para los efectos de esta Ley, son niñas y niños las personas de hasta 12 años y adolescentes los mayores de 12 y menores de 18 años.
@@ -85,7 +89,9 @@ c) Promover la cultura de respeto hacia niñas, niños y adolescentes en el ámb
 
 La protección de los derechos de niñas, niños y adolescentes, tiene como objetivo asegurarles un desarrollo pleno e integral, lo que implica la oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad, en cada una de las etapas de crecimiento.
 
-El Estado otorgará especial cuidado y la atención que merecen aquellas niñas, niños y adolescentes en condiciones de vulnerabilidad, tanto en su hábitat como en la calle y el campo; así como aquellos que se encuentren en condiciones de vulnerabilidad.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+El Estado otorgará especial cuidado y la atención que merecen las niñas, niños y adolescentes en condiciones de vulnerabilidad.
 
 ###### Artículo 6.
 
@@ -134,6 +140,10 @@ Ningún abuso, ni violación de sus derechos podrá considerarse válido ni just
 La madre y el padre son igualmente responsables del desarrollo sano e integral de sus hijos, compartiendo en la misma medida los derechos y obligaciones; debiendo garantizar lo necesario para su subsistencia, salud, educación y los elementos que favorezcan su incorporación al medio social.
 
 La obligación contenida en la parte final del párrafo anterior recaerá también en los tutores y las personas responsables de su guarda y custodia temporales según sea el caso.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+El hecho que los padres no vivan en el mismo domicilio, no impide que cumplan con las obligaciones que les impone la presente Ley.
 
 ###### Artículo 12.
 
@@ -191,9 +201,13 @@ IV Que se asignen mayores recursos a las instituciones encargadas de proteger su
 
 ### CAPÍTULO SEGUNDO. Derecho a la Vida
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 17.
 
-Niñas, niños y adolescentes tienen derecho a la vida; el Estado y los Ayuntamientos garantizarán en la máxima medida posible su derecho a una vida digna, plena y a su desarrollo Integral.
+Niñas, niños y adolescentes tienen derecho a una vida digna, plena, y a su desarrollo Integral. El Estado y los Ayuntamientos garantizarán ese derecho.
+
+Las autoridades correspondientes deberán crear programas, para difundir la cultura de respeto a la vida de niñas, niños y adolescentes.
 
 ### CAPÍTULO TERCERO. Derecho a la No Discriminación
 
@@ -210,6 +224,10 @@ Las medidas que se tomen y las normas que se dicten para proteger a niñas, niñ
 ###### Artículo 20.
 
 Es deber de las autoridades, ascendientes, tutores y de miembros de la sociedad Tabasqueña promover e impulsar un desarrollo igualitario y equitativo entre niñas, niños y adolescentes, debiendo combatir y erradicar desde la más temprana edad las costumbres y prejuicios de desigualdad.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+Los derechos de las niñas, niños y adolescentes migrantes serán protegidos independientemente de su calidad migratoria.
 
 ### CAPÍTULO CUARTO. Derecho a Vivir en Condiciones de Bienestar y a un Sano Desarrollo Psicofísico
 
@@ -265,7 +283,9 @@ III. La filiación y su origen, salvo en los casos que las leyes lo prohíban.
 
 Niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de sus padres o de los familiares con los que convivan.
 
-El Estado velará porque sólo sean separados de sus padres y de sus madres mediante sentencia u orden preventiva judicial que declare legalmente la separación y de conformidad con causas previamente dispuestas en las leyes.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+El Estado velará porque sólo sean separados de sus padres mediante sentencia u orden preventiva judicial que declare legalmente la separación y de conformidad con causas previamente dispuestas en las leyes.
 
 El Estado y los Ayuntamientos procurarán establecer programas de apoyo a las familias para que la falta de recursos económicos no sea causa de separación.
 
@@ -291,13 +311,35 @@ III. A falta de las anteriores, se recurrirá a las instituciones de asistencia 
 
 Las autoridades estatales y municipales, en el ámbito de sus atribuciones, y la Procuraduría de la Defensa del Menor y la Familia o sus similares en los municipios, velarán porque en las adopciones, custodias y guardas provisionales se respeten plenamente sus derechos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 30.
 
-El Estado y los Ayuntamientos en el ámbito de su competencia, velarán por que en las adopciones se respeten las normas que las rijan, las cuales serán diseñadas a fin de que niñas, niños y adolescentes sean adoptados en pleno respeto de sus derechos.
+Las asignaciones de los niños albergados en los Centros Asistenciales del DIF TABASCO, se harán a través del Consejo Técnico de Adopciones, quien a su vez estará facultado para revisar, evaluar y determinar las solicitudes de adopción presentadas al órgano, por nacionales o extranjeros que pretendan adoptar a un menor de edad.
+
+El Consejo Técnico de Adopciones estará integrado por:
+
+I. Un Presidente Honorario, que será la Presidenta del Patronato del DIF-TABASCO;
+
+II. Un Presidente Ejecutivo que será la Dirección General del DIF-TABASCO;
+
+III. Un Secretario Técnico que será el Director de la Procuraduría de la Defensa del Menor y la familia;
+
+IV. El Director de Orientación Familiar y Asistencia Social;
+
+V. El Titular del Centro de Desarrollo Infantil No. 1 Casa Hogar; y
+
+VI. Cuatro Consejeros que serán: Un profesional en Psicología, un profesional en Medicina Humana, un profesional en Trabajo Social y un profesional en Derecho, estos serán designados por la Dirección General del DIF-TABASCO.
+
+Las decisiones del Consejo Técnico de Adopciones deberá de tomarse por mayoría de votos de los integrantes del mismo que se encuentren presentes y serán de carácter irrevocable, en caso de empate el voto de calidad lo emitirá la presidenta del Patronato del DIF-TABASCO.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 31.
 
-Tratándose de adopción internacional, las normas internas deben disponer lo necesario para asegurar que niñas, niños y adolescentes sean adoptados por nacionales de países en donde existan reglas jurídicas de adopción y de tutela de sus derechos, cuando menos equivalentes a las mexicanas y con apego a los tratados internacionales en vigor en la materia de los que México sea parte.
+Se dará preferencia en la adopción a mexicanos sobre extranjeros atendiendo siempre el interés superior del menor.
+
+Tratándose de adopción por extranjeros, las normas internas deben disponer lo necesario para asegurar que niñas, niños y adolescentes sean adoptados por nacionales de países en donde existan reglas jurídicas de adopción y de tutela de sus derechos, equivalentes a las mexicanas y con apego a los tratados internacionales en vigor en la materia de los que México sea parte.
 
 ###### Artículo 32.
 
@@ -319,7 +361,9 @@ II. Asegurarles asistencia médica y sanitaria para la prevención, tratamiento 
 
 III. Promover la lactancia materna;
 
-IV. Establecer programas para combatir la desnutrición infantil;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+IV. Impulsar el desarrollo de actividades y de programas en materia de nutrición, encaminados a promover hábitos alimentarios adecuados, a fin de prevenir, tratar y controlar la desnutrición, el sobrepeso, la obesidad y los trastornos alimenticios;
 
 V. Fomentar los programas de vacunación;
 
@@ -379,13 +423,17 @@ Toda medida correctiva que se adopte en los centros educativos, se aplicará res
 
 ### CAPÍTULO DÉCIMO. Derechos al Descanso y al Juego
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 38.
 
-Por ninguna razón o circunstancia, se les podrán imponer regímenes de vida, estudio, trabajo o reglas de disciplina que impliquen la renuncia de estos derechos.
+Por ninguna razón o circunstancia, se les podrán imponer regímenes de vida, estudio, trabajo o reglas de disciplina que impliquen la renuncia de estos derechos, siempre y cuando el ejercicio de tales derechos no signifique una efectación en su educación, salud física o mental.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 39.
 
-El Titular del Poder Ejecutivo a través de la Secretaría de Educación, en coordinación con los Ayuntamientos, las Dependencias y Entidades que tengan actividades afines fomentará la realización de actividades culturales, artísticas, recreativas y deportivas que contribuyan al pleno desarrollo de las niñas, los niños y adolescentes.
+Las autoridades Estatales y Municipales, en el ámbito de sus atribuciones, así como las escuelas, instituciones educativas y la sociedad en general que tengan actividades afines, fomentarán la realización de actividades culturales, artísticas, recreativas, programas deportivos, actividades físicas, que contribuyan al pleno desarrollo de las niñas, niños y adolescentes.
 
 ###### Artículo 40.
 
@@ -411,9 +459,11 @@ Niñas, niños y adolescentes tienen derecho a la libertad de expresión; la cua
 
 Niñas, niños y adolescentes tienen derecho a ejercer sus capacidades de opinión, análisis, critica y presentar propuestas en todos los ámbitos en los que viven, trátese de familia, escuela, sociedad o cualquier otro de su interés, sin más limitaciones que las que establezcan las legislaciones federal y estatal respeto a los derechos de terceros.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 45.
 
-El derecho de niñas, niños y adolescentes a expresar opinión implica que se les tome su parecer respecto de los asuntos que los afecten y el contenido de las resoluciones que les conciernen, así como que se escuchen y tomen en cuenta sus opiniones y propuestas respecto a los asuntos de su familia o comunidad.
+El derecho de niñas, niños y adolescentes a expresar opinión implica que se les tome su parecer respecto de los asuntos que los afecten y el contenido de las resoluciones que les conciernen, de conformidad con lo establecido en la Convención Sobre los Derechos del Niño, así como que se escuchen y tomen en cuenta sus opiniones y propuestas respecto a los asuntos de su familia o comunidad.
 
 ###### Artículo 46.
 
@@ -453,6 +503,8 @@ En caso de que un adolescente cometa una infracción al Código Penal, se estar�
 
 ### CAPÍTULO SEGUNDO. Niñas, Niños y Adolescentes con Discapacidad
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 50.
 
 Son niñas, niños y adolescentes en circunstancias vulnerables, de manera enunciativa aquellos que se encuentren sujetos a:
@@ -485,7 +537,7 @@ La administración pública estatal y municipal, en el ámbito de sus respectiva
 
 ###### Artículo 53.
 
-Se considera persona con discapacidad a quien presenta capacidad disminuida o limitada para realizar por sí misma, las actividades necesarias para su normal desempeño físico, mental, social, ocupacional y económico, como consecuencia de una insuficiencia somática, psicológica o social.
+Para efectos de este capítulo, se entenderá como persona con discapacidad, la definición que señala la Ley para la Protección y Desarrollo de los Discapacitados del Estado de Tabasco.
 
 ###### Artículo 54.
 
@@ -551,9 +603,11 @@ Las niñas, niños y adolescentes en situación de calle, deberán ser remitidos
 
 El Sistema Estatal y Municipal para el Desarrollo Integral de la Familia, impulsarán e implementarán medidas tendientes a prevenir y evitar que niñas, niños y adolescentes realicen actividades marginales o de sobrevivencia, procurando integrarlos a programas compensatorios, tales como los de talleres de oficios varios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación, además de establecer un programa específico y prioritario para brindarles las medidas de defensa jurídica, de provisión, prevención, protección, asistencia y guarda provisional.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 65.
 
-El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Social y Protección al Medio Ambiente, establecerá la coordinación y concertación, con organismos, instituciones e instancias competentes para generar la participación efectiva de la comunidad y de las organizaciones sociales en las políticas de beneficio a niñas, niños y adolescentes en situación de calle y en la calle.
+El Titular del Poder Ejecutivo del Estado, por conducto de la Unidad de Atención Social del Estado, establecerá la coordinación y concertación, con organismos, instituciones e instancias competentes para generar la participación efectiva de la comunidad y de las organizaciones sociales en las políticas de beneficio a niñas, niños y adolescentes en situación de calle y en la calle.
 
 ### CAPÍTULO PRIMERO. Autoridades
 
@@ -563,9 +617,19 @@ El Titular del Poder Ejecutivo y los Ayuntamientos, a través de sus Dependencia
 
 Las acciones que se implementen tendrán por objeto la protección de los menores contra las peores formas de trabajo o liberarlos de ellas, garantizándoles su rehabilitación e inserción social con medidas que permitan atender sus necesidades educativas, Físicas y psicológicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 67.
 
-las autoridades laborales, en coordinación con los Municipios, Dependencias o Entidades Federales en la materia, garantizarán a los adolescentes, sujetos a una relación laboral, el respeto y aplicación de las normas de trabajo; al efecto, se implementarán programas de acción y consulta en las que se procurará intervengan las organizaciones de empleadores y trabajadores para:
+Las autoridades laborales, en coordinación con los Municipios, Dependencias o Entidades Federales de la materia, garantizarán que los adolescentes de entre 14 a 17 años sujetos a una relación laboral, cuenten con la protección y el respeto a los derechos que otorga la ley Federal del Trabajo.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+La administración pública, a través de las dependencias competentes, impulsará proyectos de empleo y capacitación, en coordinación con los sectores social y privado, para la creación de empleos y bolsas de trabajo dirigidas a los adolescentes de 14 a 17 años que tengan necesidad de trabajar.
+
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+Para efectos del párrafo anterior, se implementarán programas de acción y consulta en las que se invitará a participar a las organizaciones de empleadores, instituciones educativas y a los trabajadores adolescentes para:
 
 I. Prestar asistencia directa e inmediata a los adolescentes trabajadores, para el conocimiento de sus derechos y obligaciones laborales;
 
@@ -589,13 +653,27 @@ II. Secretaría de Salud;
 
 III. Secretaría de Educación;
 
-IV. Secretaría de Desarrollo Social y Protección al Medio Ambiente;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+IV. Unidad de Atención Social del Estado;
 
 V. Sistema para el Desarrollo Integral de la Familia del Estado y de los Municipios;
 
-VI. Procuraduría de la Defensa del Menor y la Familia del Estado y de los Municipios; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-VII. Ayuntamientos.
+VI. Procuraduría de la Defensa del Menor y la Familia del Estado y de los Municipios;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+VII. Ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+VIII. Procuraduría General de Justicia del Estado; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+IX. Tribunal Superior de Justicia del Estado.
 
 ### CAPÍTULO TERCERO. De la Secretaría de Salud
 
@@ -629,7 +707,9 @@ XII. Crear los mecanismos o instancias correspondientes para el cumplimiento de 
 
 XIII. Las demás que le confieran otros ordenamientos jurídicos.
 
-### CAPÍTULO CUARTO. Secretaría de Salud
+### CAPÍTULO SÉPTIMO (SIC). De los Niños y Niñas con Madre Privada de su Libertad
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 70.
 
@@ -643,19 +723,47 @@ III. Participar en los programas de políticas compensatorias para niñas, niño
 
 IV. Diseñar programas para garantizar la atención, en los servicios integrales de salud con los que cuenta la administración pública, a niñas, niños y adolescentes que no cuentan con los servicios de seguridad social;
 
-V. Orientar a la comunidad sobre el significado de la maternidad y paternidad responsables, del parto y de los cuidados personales de la madre y de la niña, niño o adolescente;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+V. Orientar a la comunidad sobre el significado de la maternidad y paternidad responsables, del parto, de los cuidados personales de la madre, de la niña, niño y adolescente;
 
 VI. Promover campañas de sensibilización a fin de mantener los vínculos de la madre y el padre con sus hijos e hijas, con su familia y su comunidad;
 
-VII. Diseñar programas específicos para la atención especial a menores de edad embarazadas, cuyo propósito sea el de brindar los cuidados y protección que sean necesarios durante el proceso de gestación;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-VIII. Implementar programas de prevención y tratamiento de adicciones; y
+VII. Diseñar programas específicos para la atención especial a niñas y adolescentes embarazadas, cuyo propósito sea el de brindar los cuidados y protección que sean necesarios durante el proceso de gestación;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+VIII. Implementar programas de prevención y tratamiento de adicciones, tendientes a crear en las familias y la sociedad, la concientización sobre los efectos nocivos del uso de drogas, fármacos y sustancias que produzcan adicción; y
 
 IX. Las demás que le confieran la Ley de Salud del Estado y otros ordenamientos jurídicos.
 
-### CAPÍTULO QUINTO. Secretaría de Desarrollo Social y Protección del Medio Ambiente
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-### CAPÍTULO SEXTO. Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco
+### CAPÍTULO CUARTO. De la Secretaría de Educación
+
+###### Artículo 70 Bis.
+
+Cuando el niño o niña depende emocional o economicamente de una persona privada de su libertad y por lo tanto quede en una situación de desprotección, tendrá derecho a permanencer (sic) con ella, así como a resibir (sic) todos los servicios antes, durante y después del parto, hasta la edad de 6 años, siendo responsable el Estado de su bienestar a menos que sea probadamente contrario a su integridad.
+
+Entre los servicios que recibiran los niños y niñas a que se refiere éste artículo se incluyen:
+
+I. Incorporación a un centro de atención infantil donde pueda recibir la educación.
+
+II. Atención médica.
+
+III. Alimentación, espacios de recreación, atención para la salud, atención psicológica; y
+
+IV. Contacto con el mundo exterior al centro del reclusorio.
+
+Si el niño o niña a que se refiere este artículo, al cumplir los 6 años de edad no tienen un familiar que pueda hacerse cargo de su manutención economica y de otorgarle el disfrute de los derechos que otorga esta Ley y demás disposiciones aplicables, deberá ser enviado a un centro de atención infantil para su adecuado desarrollo, en donde se le asegurarán todos sus derechos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO QUINTO. De la Unidad de Atención Social del Estado
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 71.
 
@@ -675,7 +783,9 @@ VI. Incentivar, mediante el otorgamiento de becas, a las niñas, niños y adoles
 
 VII. Coordinar con las instituciones de cultura, la difusión de la participación de niñas, niños y adolescentes en las manifestaciones culturales y artísticas;
 
-VIII. Difundir programas formativos para que a través de coordinaciones interinstitucionales se forme conciencia y se divulgue el uso responsable de los recursos naturales, tendientes a la conservación del medio ambiente;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+VIII. Difundir programas formativos para que a través de coordinaciones interinstitucionales se forme conciencia y se divulgue el uso responsable de los recursos naturales, tendientes a la conservación del ambiente;
 
 IX. Promover dentro de las bibliotecas públicas, la creación de espacios especialmente para niñas, niños y adolescentes, fomentado (sic) así la lectura y el conocimiento;
 
@@ -695,11 +805,13 @@ Quien ejerza la patria potestad o tutela de las niñas, niños y adolescentes es
 
 Las instituciones educativas, públicas y privadas, elaborarán el reglamento escolar que las rija, tomando en cuenta los principios rectores de esta Ley.
 
-### CAPITULO SÉPTIMO. Procuraduría para la Defensa del Menor y la Familia del Estado y de los Municipios
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO SEXTO. Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco
 
 ###### Artículo 74.
 
-Corresponde a la Secretaria de Desarrollo Social y Protección al Medio Ambiente, en relación con niñas, niños y adolescentes:
+Corresponde a la Unidad de Atención Social del Estado, en relación con niñas, niños y adolescentes:
 
 I. Formular, fomentar, coordinar, instrumentar y difundir, salvo que de forma expresa las leyes atribuyan a otras dependencias, las políticas públicas, programas y acciones de defensa y representación jurídica, provisión, prevención, protección y participación para el mejoramiento general de sus condiciones de vida en el Estado, promoviendo la equidad y la igualdad de oportunidades, tendientes a disminuir la exclusión social;
 
@@ -723,13 +835,15 @@ X. Promover la difusión y defensa de sus derechos, así como las disposiciones 
 
 XI. Vigilar que las organizaciones sociales y privadas que presten servicios o realicen actividades en su beneficio, lo hagan respetando en todo momento sus derechos; en caso de detectar irregularidades deberá hacerlas del conocimiento de las autoridades competentes, para lo cual se establecerán los sistemas de registro e información que se requieran;
 
-XII. Dar seguimiento al cumplimiento de los lineamientos básicos del régimen de protección especial a los adolescentes trabajadores, en coordinación con laa (sic) autoridades laborales competentes;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XII. Dar seguimiento al cumplimiento de los lineamientos básicos del régimen de protección especial a niñas, niños y adolescentes trabajadores, en coordinación con las autoridades laborales competentes;
 
 XIII. Elaborar, dentro del ámbito de sus atribuciones, lineamientos generales para la prestación de servicios sociales, así como proponer a las instituciones encargadas de su aplicación las normas técnicas necesarias; y
 
 XIV. Las demás que le confieran otros ordenamientos jurídicos.
 
-### CAPÍTULO OCTAVO. Ayuntamientos
+### CAPITULO SÉPTIMO. Procuraduría para la Defensa del Menor y la Familia del Estado y de los Municipios
 
 ###### Artículo 75.
 
@@ -745,7 +859,7 @@ IV. Operar centros de asistencia social en beneficio de menores en circunstancia
 
 V. Las demás que establezcan las disposiciones legales aplicables en la materia.
 
-### CAPÍTULO NOVENO. Comité Impulsor de los Derechos de Niñas, Niños y Adolescentes
+### CAPÍTULO OCTAVO. Ayuntamientos
 
 ###### Artículo 76.
 
@@ -769,9 +883,15 @@ II. Integrar y participar en el Comité Impulsor de los Derechos de Niñas, Niñ
 
 III. Proporcionar en forma gratuita los servicios de asistencia jurídica y orientación a niñas, niños y adolescentes, a sus progenitores, familiares, tutores o quienes los tengan bajo su cuidado;
 
-IV. Patrocinar y representar a niñas, niños y adolescentes ante los órganos jurisdiccionales en los trámites o procedimientos relacionados con ellos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-V. Realizar acciones de prevención y protección a niñas, niños y adolescentes maltratados, en desamparo o con problemas sociales, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas para su custodia, formación e instrucción, así como garantizar en todo momento su situación jurídica conforme a lo previsto en el Código Civil;
+IV. Patrocinar y representar a niñas, niños y adolescentes ante los órganos jurisdiccionales en los trámites o procedimientos relacionados con ellos, a falta de sus progenitores, familiares, tutores o quienes los tengan bajo sus cuidados.
+
+O teniéndolos el trámite o procedimiento se haya instaurado en contra de ellos y el menor necesite la intervención del Estado para las (sic) salvaguarda de sus derechos;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+V. Realizar acciones de prevención y protección a niñas, niños y adolescentes maltratados, en desamparo o con problemas sociales, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas para su custodia, formación e instrucción, así como regularizar su situación jurídica conforme a lo previsto en el Código Civil;
 
 VI. Coadyuvar con la Procuraduría General de Justicia del Estado, en la atención y tratamiento de niñas, niños y adolescentes víctimas del delito;
 
@@ -779,27 +899,39 @@ VII. Impulsar y promover el reconocimiento y ejercicio de los derechos de niñas
 
 VIII. Ejecutar acciones y programas de protección especial para niñas, niños y adolescentes en circunstancias vulnerables;
 
-IX. Promover, mediante la vía conciliatoria, la solución a la problemática familiar, cuando se vulneren los derechos y garantías de niñas, niños y adolescentes, a excepción de casos tipificados por el Código Penal del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+IX. Promover, mediante la vía conciliatoria, la solución a la problemática familiar, cuando se vulneren los derechos y garantías de niñas, niños y adolescentes;
 
 X. Recibir quejas, denuncias e informes en relación de quienes ejerzan la patria potestad, la tutela, curatela o guarda y custodia o quienes los tengan bajo su cuidado, sobre la violación de los derechos de niñas, niños y adolescentes, haciéndolo del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes;
 
-XI. Denunciar ante las autoridades competentes cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación, y en general cualquier acción que perjudique a niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XI. Denunciar ante las autoridades competentes o en su caso las acciones legales necesarias cuando se tenga conocimiento de actos de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acción que perjudique a niñas, niños y adolescentes;
 
 XII. Poner a disposición del Ministerio Público Especializado o de cualquier órgano jurisdiccional los elementos a su alcance para la protección de niñas, niños y adolescentes y proporcionar a aquellos la información que les requieran sobre el particular;
 
-XIII. Procurar que niñas, niños y adolescentes que se encuentren vivan en circunstancias especialmente difíciles, cuenten con un lugar donde vivir, que tengan los espacios suficientes para cubrir sus necesidades básicas, dentro de una familia u hogar provisional o instituciones de asistencia pública o privada;
+XIII. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
-XIV. Vigilar que las instituciones y los hogares provisionales presten el cuidado y atención adecuada a, niñas, niños y adolescentes, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Desarrollo Social y Protección del Medio Ambiente;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-XV. Gestionar ante el Registro Civil la inscripción de niñas, niños y adolescentes, solicitadas por instituciones privadas y sociales;
+XIV. Vigilar en el ámbito de su competencia, que las instituciones y los hogares provisionales presten el cuidado y atención adecuada a niñas, niños y adolescentes, respetando sus derechos a través de mecanismos de seguimiento y supervisión, en coordinación con la Unidad de Atención Social del Estado;
 
-XVI. Supervisar y vigilar que en cada institución que atienda niñas, niños y adolescentes se lleve un registro personalizado de los mismos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XV. Gestionar ante el Registro Civil, en el ámbito de su competencia, la inscripción de niñas, niños y adolescentes, solicitadas por instituciones privadas y sociales;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XVI. Supervisar y vigilar que en cada institución pública o privada que atienda niñas, niños y adolescentes se lleve un registro personalizado de los mismos;
 
 XVII. Promover la filiación de niñas, niños y adolescentes, para efectos de su identidad;
 
 XVIII. Comparecer ante las autoridades o instituciones competentes, en los casos en que corresponda o se le designe para ejercer la guarda y custodia provisional y en su caso, la tutela de niñas, niños y adolescentes en los términos de las disposiciones legales aplicables;
 
-XIX. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XIX. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás instituciones públicas y privadas en el ámbito de su competencia;
 
 XX. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de los derechos de niñas, niños y adolescentes;
 
@@ -809,11 +941,13 @@ XXII. Realizar, promover y difundir estudios e investigaciones para fortalecer l
 
 XXIII. Proponer al Ejecutivo del Estado las políticas y mecanismos que garanticen la protección de niñas, niños y adolescentes;
 
-XXIV. Promover en los municipios la formación de los Comités Locales de Tutelas;
+XXIV. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
-XXV. Proponer ante los Ayuntamientos a los integrantes de los Comités Locales de Tutelas;
+XXV. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
-XXVI. - Emitir su opinión respecto del beneficio de la adopción de un menor o incapaz conforme a lo establecido en el Código Civil;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XXVI. Promover los juicios de adopción nacional e internacional de menores albergados en los centros asistenciales públicos y privados del Estado;
 
 XXVII. Dar seguimiento al cumplimiento de los lineamientos básicos del régimen de protección especial a los adolescentes trabajadores, en coordinación con las autoridades laborales competentes.
 
@@ -821,7 +955,7 @@ XXVIII. Aplicar las sanciones establecidas en esta Ley; y
 
 XXIX. Las demás que le confieran otros ordenamientos jurídicos.
 
-### CAPÍTULO PRIMERO. Procedimiento Especial de Protección ante la Procuraduría de la Defensa del Menor y la Familia
+### CAPÍTULO NOVENO. Comité Impulsor de los Derechos de Niñas, Niños y Adolescentes
 
 ###### Artículo 80.
 
@@ -839,13 +973,15 @@ V. Crear el Comité Municipal Impulsor de los Derechos de Niñas, Niños y Adole
 
 VI. Las demás que le confieran otros ordenamientos jurídicos.
 
-### CAPÍTULO TERCERO (SIC). Procedimiento de Conciliación
+### CAPÍTULO PRIMERO. Procedimiento Especial de Protección ante la Procuraduría de la Defensa del Menor y la Familia
 
 ###### Artículo 81.
 
 Se crea el Comité Impulsor de los Derechos de Niñas, Niños y Adolescentes en el Estado de Tabasco, como órgano honorífico, de asesoría, apoyo y consulta del Gobierno del Estado, así como de concertación entre los sectores público, social y privado, teniendo por objeto promover, proponer y concertar acciones que favorezcan al pleno cumplimiento de sus derechos.
 
-Este Órgano tendrá una Secretaría Técnica, con el objeto de que vigilar y ejecutar los programas y políticas públicas que se acuerden, para ello contará con una partida especial en la Ley de Ingresos y Presupuesto de Egresos del Estado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+Este Órgano tendrá una Secretaría Técnica, con el objeto de vigilar y ejecutar los programas y políticas públicas que se acuerden, para ello contará con una partida especial en el Presupuesto de Egresos del Estado.
 
 ###### Artículo 82.
 
@@ -853,15 +989,17 @@ El Comité Impulsor de los Derechos de Niñas, Niños y Adolescentes se integrar
 
 I. El Titular del Poder Ejecutivo del Estado, quien presidirá y tendrá voto de calidad;
 
-II. El Titular de la Secretaría de Gobierno;
+II. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
-III. El Titular de la Secretaría de Desarrollo Social y Protección al Ambiente;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+III. El Titular de la Unidad de Atención Social del Gobierno del Estado;
 
 IV. El Titular de la Secretaría de Salud;
 
 V. El Titular de la Secretaría de Educación;
 
-VI. El Titular de la Secretaría de Seguridad Pública;
+VI. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
 VII. El Procurador General de Justicia;
 
@@ -875,19 +1013,21 @@ XI. El Presidente de la Comisión de Atención a Grupos Vulnerables, Personas co
 
 XII. El Procurador de la Defensa del Menor y la Familia;
 
-XIII. Dos representantes de instituciones académicas los cuales serán designados mediante el procedimiento que para tal efecto la Secretaría Técnica establezca;
+XIII. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
 XIV. Dos representantes del sector empresarial los cuales serán designados mediante el procedimiento que para tal efecto la Secretaría Técnica establezca;
 
 XV. Dos representantes de los medios de comunicación los cuales serán designados mediante el procedimiento que para tal efecto la Secretaría Técnica establezca;
 
-XVI. Cuatro representantes de las organizaciones sociales que realicen trabajo a favor de niñas, niños y adolescentes tabasqueños, quienes podrán ser propuestos por la Comisión Permanente de Infancia, Jóvenes, Recreación y Deporte del H. Congreso del Estado; y
+XVI. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
 XVII. El Titular de la Comisión Estatal de Derechos Humanos.
 
 Cada uno de los integrantes, podrá acreditar un suplente para su representación.
 
-De igual forma, el Comité Impulsor de los Derechos de Niñas, Niños y Adolescentes podrá invitar a sus reuniones a cualquier persona física o jurídica colectiva, pública o privada de reconocida trayectoria que se hayan destacado por su trabajo, estudio o compromiso en materia de niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+De igual forma, el Comité Impulsor de los Derechos de Niñas, Niños y Adolescentes podrá invitar a sus reuniones a cualquier persona física o jurídica colectiva, pública o privada.
 
 El Comité sesionará ordinariamente cada dos meses y extraordinariamente cuando fuese necesario.
 
@@ -899,7 +1039,9 @@ El Comité Impulsor de los Derechos de Niñas, Niños y Adolescentes tendrá las
 
 I. Proponer programas en beneficio de niñas, niños y adolescentes, previa elaboración de un diagnóstico general en la materia;
 
-II. Proponer un programa de concertación de acciones entre las distintas dependencias de la administración pública que fije lineamientos generales para unificar los criterios en el ejercicio de los recursos financieros destinados a los programas de atención a niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+II. Diseñar políticas públicas que permitan dar cumplimiento a los principios y disposiciones emanadas de la presente ley;
 
 III. Fomentar y fortalecer la colaboración, concertación, coordinación, y participación corresponsable de instituciones públicas y privadas en la realización de acciones para garantizar el ejercicio de los derechos de niñas, niños y adolescentes en el Estado;
 
@@ -909,13 +1051,23 @@ V. Evaluar los logros y avances de los programas de la administración pública 
 
 VI. Analizar y proponer a las instancias competentes, modelos de atención para niñas, niños y adolescentes;
 
-VII. Contribuir a la difusión de los principios, derechos y deberes de niñas, niños y adolescentes en el Estado; y,
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-VIII. Las demás que le confieren las leyes.
+VII. Impulsar acciones de difusión sobre los derechos de las niñas, los niños y adolescentes, así como sensibilizar a la sociedad sobre su problemática;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+VIII. Aprobar el reglamento interno a propuesta del Secretario Técnico; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+IX. Las demás que le confieren las leyes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 84.
 
-La Secretaría Técnica del Comité Impulsor de los Derechos de Niñas, Niñas (sic) y Adolescentes estará a cargo del Director General del Sistema para el Desarrollo Integral de la Familia del Estado, que tendrá las facultades siguientes:
+La Secretaría Técnica del Comité Impulsor de los Derechos de Niñas, Niños y Adolescentes estará a cargo de la Procuraduría de la Defensa del Menor y la Familia del Estado, que tendrá las facultades siguientes:
 
 I. Convocar e invitar a las reuniones del Comité;
 
@@ -925,21 +1077,27 @@ III. Dar seguimiento a los acuerdos adoptados por el Comité; y
 
 IV. Las demás inherentes a su cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 85.
 
-En cada uno de los Municipios del Estado se establecerá un Comité Impulsor presidido por el Presidente Municipal, e integrado por el Sistema para el Desarrollo Integral de la Familia del Municipio, los Directores o equivalentes de Desarrollo Social; Asuntos Jurídicos; Educación, Cultura y Recreación; Atención Ciudadana y Jueces Calificadores.
+En cada uno de los Municipios del Estado se establecerá un Comité Impulsor, de manera similar al Comité Estatal y tendrán las funciones relativas para hacer posible la coordinación y los fines para los cuales se crea, en su ámbito de competencia.
 
-El Presidente Municipal podrá invitar a participar en el Comité Impulsor Municipal a representantes de la Secretaría de Salud, de la Secretaría de Desarrollo Social y Protección al Medio Ambiente y de la Secretaría de Educación, así como a representantes de organizaciones sociales y privadas dedicadas a la atención de niñas, niños y adolescentes, asociaciones de padres de familia y a especialistas en el tema.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+El Presidente Municipal podrá invitar a participar en el Comité Impulsor Municipal a representantes de la Secretaría de Salud, de la Unidad de Atención Social del Estado y de la Secretaría de Educación, así como a representantes de organizaciones sociales y privadas dedicadas a la atención de niñas, niños y adolescentes, asociaciones de padres de familia y a especialistas en el tema.
 
 Los Comités Impulsores Municipales podrán establecer acciones de coordinación con el Comité Impulsor de los Derechos de Niñas, Niños y Adolescentes del Estado, y sus acuerdos serán tomados por mayoría simple.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 86.
 
-Las facultades de los Comités Impulsores Municipales de los Derechos de Niñas, Niños y Adolescentes se ajustarán a lo preceptuado en el artículo 79 de esta Ley, en el marco de sus respectivas competencias.
+Las facultades de los Comités Impulsores Municipales de los Derechos de Niñas, Niños y Adolescentes se ajustarán a lo preceptuado en el artículo 83 de esta Ley, en el marco de sus respectivas competencias.
 
 ## TÍTULO SEXTO. Procuración de la Defensa y Protección de los Derechos de Niñas, Niños y Adolescentes
 
-### CAPÍTULO CUARTO. Del Recurso Administrativo
+### CAPITULO SEGUNDO. Procedimiento de Conciliación
 
 ###### Artículo 87.
 
@@ -1003,21 +1161,29 @@ Cuando la Procuraduría de la Defensa del Menor y la Familia tenga conocimiento 
 
 De inmediato el Ministerio Público Especializado realizará todas y cada una de las investigaciones correspondientes, para localizar a los responsables de dicho abandono.
 
-Constatado el abandono, transcurrido el plazo de dos meses y una vez agotada la investigación de trabajo social, y sin que nadie se haya presentado a reclamar al menor de edad resguardado, la Procuraduría de la Defensa del Menor y la Familia procederá a realizar las diligencias procedimiento judicial no contencioso a efectos otorgarle un nombre y proceder a su registro.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+Constatado el abandono mediante la investigación del Ministerio Público Especializado y tratandose de menores que no cuenten con Acta de Nacimiento la Procuraduría de la Defensa del Menor y la Familia procederá a presentarlo ante el oficial del Registro Civil para su registro conforme a lo establecido en el Código Civil para el Estado de Tabasco.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 93.
 
-Cuando la Procuraduría de la Defensa del Menor y la Familia tenga conocimiento de que alguna niña, niño o adolescente, está siendo maltratado o abusado de cualquier manera y lo constate mediante intervenciones de las áreas de trabajo social y/o psicología, procederá a presentar la denuncia correspondiente ante el Ministerio Público Especializado, quien actuará de manera inmediata protegiendo los derechos del menor.
+Cuando la Procuraduría de la Defensa del Menor y la Familia tenga conocimiento de que alguna niña, niño o adolescente es víctima de maltrato, lesiones, abuso físico o psicológico, sexual, abandono, descuido o negligencia, explotación y en general de cualquier acción que los perjudique, y lo constantate (sic) mediante intervenciones de las áreas de trabajo social y/o psicológico procederá a ejercer las acciones necesarias o en su caso presentar las denuncias ante el Ministerio Público Especializado quien actuará de manera inmediata protegiendo los derechos del menor.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 94.
 
-Cuando peligre la vida, la integridad física o emocional de una niña, niño o adolescente, la Procuraduría de la Defensa del Menor y la Familia, podrá tomar las medidas pertinentes para el aseguramiento temporal de éstos.
+Cuando la Procuraduría de la Defensa del Menor y la Familia tenga conocimiento del problable (sic) peligro de la vida, la integridad física o emocional de una niña, niño o adolescente, inmediatamente procederá a asegurar provisionalmente a estos en lo que se realizan las investigaciones de Trabajo Social y Valoración Psicológica con la finalidad de verificar tales hechos, y una vez comprobado presentará la denuncia correspondiente ante el Ministerio Públilco (sic) Especializado quien deberá decretar la medida preventiva de aseguramiento en los términos que dispone el Código de Procedimientos Penales para el Estado Tabasco.
 
 El tiempo del aseguramiento se determinará hasta que se restablezca un ambiente adecuado para el sano desarrollo de la niña, niño o adolescente, procurando la reintegración con familiares más próximos en grado o en una familia sustituta, previa realización de investigación de trabajo social que verifique la idoneidad de quien ejercerá la guarda y custodia provisional, siempre y cuando la violencia o abuso no haya sido cometida por alguno de ellos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 95.
 
-Comprobada en la instancia administrativa la existencia de indicios de maltrato o abuso en perjuicio de un menor y si la persona denunciada tuviere alguna relación directa de filiación, parentesco, responsabilidad o representación con la persona ofendida, se planteará, a la vez, la acción pertinente ante el Juez de lo Familiar
+Comprobada en la instancia administrativa la existencia de algún delito en perjuicio de un menor y si la persona .denunciada tuviere alguna relación directa de filiación, parentesco, responsabilidad o representación con la persona ofendida se planteará, a la vez, la acción pertinente ante el Juez de lo Familiar.
 
 ###### Artículo 96.
 
@@ -1037,9 +1203,11 @@ V. En su caso, sujetarlas al procedimiento penal respectivo.
 
 En los casos en que la Procuraduría de la Defensa del Menor y la Familia lo considere necesario, dispondrá que los niños, niñas y adolescentes y sus familias, sigan un tratamiento psicológico a fin de mejorar el ambiente familiar.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 98.
 
-En los casos en que los padres, no muestren interés alguno por mejorar la situación familiar, la Procuraduría de la Defensa del Menor y la Familia, aplicará las medidas de apremio correspondientes.
+En los casos en que los padres, no muestren interés alguno por mejorar la situación familiar, la Procuraduría de la Defensa del Menor y la Familia, aplicará las sanciones establecidas en el artículo 108 de la presente Ley.
 
 ###### Artículo 99.
 
@@ -1049,33 +1217,47 @@ l. Prevención escrita acerca de la violación o puesta en riesgo del derecho de
 
 II. Orden de cese inmediato de la situación que viola o pone en riesgo el derecho en cuestión, cuando se hubiere actuado conforme a la fracción anterior y no comparezca en el plazo conferido para tal efecto o bien, cuando haya comparecido y continúe la misma situación perjudicial.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 100.
 
-Al aplicar las medidas señaladas en los artículos 86 y 95 de la presente Ley, se tendrán en cuenta las necesidades de los afectados y prevalecerán las que tengan por objeto fortalecer vínculos familiares y comunitarios. Las medidas previstas podrán adoptarse separada o conjuntamente y ser sustituidas en cualquier tiempo.
+Al aplicar las medidas señaladas en los artículos 89 y 96 de la presente Ley, se tendrán en cuenta las necesidades de los afectados y prevalecerán las que tengan por objeto fortalecer vínculos familiares y comunitarios. Las medidas previstas podrán adoptarse separada o conjuntamente y ser sustituidas en cualquier tiempo.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 101.
 
-En caso de incumplirse algunas de las medidas previstas en los artículos 86 y 95 de la presente Ley, la Procuraduría de la Defensa del Menor y la Familia, podrá ampliar el plazo de cumplimiento o remitir el asunto al juez, para la suspensión o pérdida de la patria potestad.
+En caso de incumplirse algunas de las medidas previstas en los artículos 89 y 96 de la presente Ley, la Procuraduría de la Defensa del Menor y la Familia, podrá ampliar el plazo de cumplimiento o remitir el asunto a la autoridad competente a efecto de ejercitar las acciones legales correspondientes.
 
-Si la medida incumplida, fuere alguna de las previsiones previstas en el artículo 87 de la presente Ley, la Procuraduría de la Defensa del Menor y la Familia, promoverá la denuncia ante la autoridad administrativa a quien corresponderá adoptar las acciones coercitivas que procedan.
+Si la medida incumplida, fuere alguna de las previsiones previstas en el artículo 99 de la presente Ley, la Procuraduría de la Defensa del Menor y la Familia, promoverá la denuncia ante la autoridad administrativa a quien corresponderá adoptar las acciones coercitivas que procedan.
 
-### CAPÍTULO QUINTO. Fideicomiso de Ayuda a Niñas, Niños y Adolescentes
+> <small>(ADICIONADO [N. DE E. REFORMADA SU NUMERACION, ANTES CAPITULO TERCERO], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO TERCERO. Infracciones y Sanciones
+
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 102.
 
 El procedimiento conciliatorio se iniciará a petición de parte o de oficio cuando la Procuraduría de la Defensa del Menor y la Familia, tenga conocimiento de un caso que amerite su intervención.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 103.
 
-El procedimiento a que se refiere el artículo anterior, se llevará a cabo en una sola audiencia de conciliación y resolución, la cual podrá suspenderse por una sola vez, a efecto de reunir todos los elementos de convicción necesarios para apoyar las propuestas de las partes.
+El procedimiento a que se refiere el artículo anterior, se llevará a cabo en una sola audiencia de conciliación, previo citatorio los cuales no podrán exceder de tres, según el (sic) sea el caso misma que podrá suspenderse, a efecto de reunir todos los elementos de convicción necesario para apoyar las propuestas de las partes.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 104.
 
-Al iniciarse la audiencia, el conciliador exhortará a las partes para privilegiar el interés superior de la niña, niño o adolescente. Si las partes llegan a la conciliación se celebrará un convenio que será firmado por quienes intervengan en él.
+Al iniciarse la audiencia, el conciliador exhortará a las partes para privilegiar el interés superior de la niña, niño y adolescente. Si las partes llegan a la conciliación se celebrará un convenio, acta compromiso o constancia de arreglo conciliatorio según corresponda el caso, el cual será firmado por quienes intervengan en él.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 105.
 
-De no lograrse la conciliación, la Procuraduría de la Defensa del Menor y la Familia continuará con el procedimiento que concluirá con una resolución, que será de carácter vinculatorio y exigible para ambas partes.
+De no lograrse la conciliación o de no comparecer la persona citada, la Procuraduría de la Defensa del Menor y la Familia continuará con el procedimiento, determinando lo que en su caso corresponda en beneficio del menor que concluirá con una resolución, que será de carácter vinculatorio y exigible para ambas partes.
 
 ###### Artículo 106.
 
@@ -1083,31 +1265,51 @@ El procedimiento a que se refiere el artículo anterior, se verificará en la au
 
 I. Se iniciará con la comparecencia de las partes o con la constancia administrativa, que contendrá los datos generales y la relación suscinta de los hechos;
 
-II. Las partes en dicha comparecencia ofrecerán las pruebas que a sus derechos convenga a excepción de la confesional, pudiendo allegarse el conciliador todos los medios de prueba que estén reconocidos legalmente, que le permitan emitir la resolución, aplicándose supletoriamente, el Código de Procedimientos Civiles para el Estado de Tabasco; y
+II. Las partes en dicha comparecencia ofrecerán las pruebas que a sus derechos convenga a excepción de la confesional, pudiendo allegarse el conciliador todos los medios de prueba que estén reconocidos legalmente, que le permitan emitir la resolución, aplicándose supletoriamente, el Código de Procedimientos Civiles para el Estado de Tabasco; y (sic)
 
-III. Una vez admitidas y desahogadas las pruebas, se recibirán los alegatos verbales de las partes, los cuales quedarán asentados en autos, procediendo el conciliador a emitir su resolución.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-### CAPÍTULO SEXTO. De las Sanciones
+III. Para el caso que lo amerite, deberán obrar en el expediente administrativo el trabajo social y/o la valoración psicológica;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+IV. Una vez admitidas y desahogadas las pruebas, se recibirán los alegatos verbales de las partes, los cuales quedarán asentados en autos, procediendo el conciliador a emitir su resolución.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO CUARTO. Del Recurso Administrativo
 
 ###### Artículo 107.
 
-En los casos en que la Procuraduría de la Defensa del Menor y la Familia lo considere necesario, dispondrá que los niños, niñas y adolescentes y sus familias, sigan un tratamiento psicológico a fin de mejorar el ambiente familiar.
+Se consideran infracciones a la presente Ley:
+
+I. El no asistir sin causa justificada a los citatorios de la Procuraduría de la Defensa del Menor y la Familia;
+
+II. El incumplimiento al convenio, acta compromiso, constancia de arreglo conciliatorio o determinaciones de la Procuraduría de la Defensa del Menor y la Familia, derivado del procedimiento de conciliación; y
+
+III. Negarse a cumplir con las medidas de protección a que se refieren los artículos 89 y 96 de la presente ley.
+
+(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2009)
 
 ###### Artículo 108.
 
-Cuando alguna de las partes incumpla con las obligaciones y deberes establecidos en los convenios o en la resolución, el conciliador, podrá imponer las siguientes sanciones:
+Cuando alguna de las partes incumpla con las obligaciones y deberes establecidos en los convenios, actas compromiso o constancias de arreglo conciliatorio, el conciliador, podrá imponer las siguientes sanciones:
 
 I. Amonestación; o
 
 II. Multa de uno hasta ciento ochenta veces el salario mínimo vigente en la entidad a la fecha en que ocurra el incumplimiento.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 109.
 
-En el caso de que la trasgresión constituya un hecho punible, los mismos se harán del conocimiento del Ministerio Público, a efecto de que se proceda en contra de los presuntos responsables.
+En el caso de que el incumplimiento constituya un hecho punible, se harán del conocimiento del Ministerio Público, a efecto de que se proceda en contra de los presuntos responsables.
+
+(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2009)
 
 ###### Artículo 110.
 
-Para la determinación de la sanción a la que se refiere el artículo 102 de esta Ley, la institución especializada de procuración estará a lo dispuesto por esta Ley y las disposiciones derivadas de ella, considerando, en el siguiente orden:
+Para la determinación de las sanciones a la que se refiere el artículo 108 de esta Ley, la institución especializada de procuración estará a lo dispuesto en la misma y las disposiciones derivadas de ella, considerando, en el siguiente orden:
 
 I. La gravedad de la infracción;
 
@@ -1115,29 +1317,43 @@ II. La capacidad económica del infractor;
 
 III. La magnitud del daño ocasionado;
 
-IV. El carácter intencional de la infracción; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-V. La situación de reincidencia.
+IV. El carácter intencional de la infracción;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+V. La situación de reincidencia; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+VI. Las demás circunstancias especiales que sean relevantes para determinar su conducta a los requerimientos de la norma.
+
+### CAPÍTULO QUINTO. Fideicomiso de Ayuda a Niñas, Niños y Adolescentes
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 111.
 
-En contra de las resoluciones que dicte la Procuraduría de la Defensa del Menor y la Familia podrá interponerse el recurso de reconsideración.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2009)
 
 ###### Artículo 112.
 
-El recurso de reconsideración se hará valer ante el Procurador de la Defensa del Menor y la Familia mediante escrito en el cual se precisen los agravios que la resolución origine al recurrente, dentro de los cinco días hábiles siguientes al que haya sido notificado o tenga conocimiento de la resolución impugnada.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2009)
 
 ###### Artículo 113.
 
-El Procurador de la Defensa del Menor notificará a la contraparte al día hábil siguiente en que tuvo conocimiento del recurso, para que en un término no mayor de cinco días hábiles a partir de que surtió efectos la notificación, la contraparte haga valer lo que a su derecho convenga, concluida esta etapa la autoridad competente contará con un término de quince días hábiles para dictar la resolución correspondiente.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2009)
+
+### CAPÍTULO SEXTO. De las Sanciones
 
 ###### Artículo 114.
 
-En el ámbito estatal y municipal el Sistema para el Desarrollo Integral de la Familia y el Comité Impulsor de los Derechos de Niñas, Niñas (sic) y Adolescentes propiciarán la creación del Fideicomiso de Ayuda a Niñas, Niños y Adolescentes de Tabasco, que tendrá como objetivo financiar la creación y el mantenimiento de los Centros de Atención para la Infancia y la Adolescencia de Tabasco.
+En el ámbito estatal y municipal el Sistema para el Desarrollo Integral de la Familia y el Comité Impulsor de los Derechos de Niñas, Niños y Adolescentes propiciarán la creación del Fideicomiso de Ayuda a Niñas, Niños y Adolescentes de Tabasco, que tendrá como objetivo financiar la creación y el mantenimiento de los Centros donde se preste atención física, psicológica, pedagógica y jurídica a Niñas, Niños y Adolescentes.
 
 ###### Artículo 115.
 
-Las Casas Hogar que actualmente operen podrán ser utilizadas para los fines señalados en el artículo anterior, siempre y cuando no existan las condiciones presupuéstales para abrir nuevos espacios.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2009)
 
 ###### Artículo 116.
 
@@ -1167,7 +1383,7 @@ IX. Las demás que establezcan el reglamento y el contrato respectivo.
 
 ###### Artículo 118.
 
-Los servidores públicos que incumplan o interfieran en el cumplimiento de lo dispuesto en esta Ley, serán sancionados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado; así como por lo establecido en la legislación Civil y Penal aplicable según sea el caso concreto.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2009)
 
 ## TRANSITORIOS
 
@@ -1196,3 +1412,15 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
