@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-45519"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-22"
-last_updated: "2008-12-27"
+last_updated: "2009-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 22 de junio de 2005.
 
@@ -825,35 +825,67 @@ Queda estrictamente prohibido a los oficiales y demás servidores públicos del 
 
 Por los servicios relacionados con tránsito, se causarán y pagarán los derechos siguientes:
 
-I. Por expedición y reposición de licencias para
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-conducir de dos años:
+I.- Por expedición, renovación o reposición de licencias para conducir por dos años:
 
-a) Vehículos de servicio público de pasajeros. 8.0 D.S.M.G.V.
+a) Chofer 8.0 D.S.M.G.V.
 
-b) Chofer. 8.0 D.S.M.G.V.
+b) Automovilista 7.0 D.S.M.G.V.
 
-c) Automovilista. 7.0 D.S.M.G.V.
+c) Motociclista 3.0 D.S.M.G.V.
 
-d) Motociclistas. 3.0 D.S.M.G.V.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-II. Por la expedición de licencias provisional:
+II.- Por expedición, renovación o reposición de licencias para conducir por cinco anos:
 
-a) Para manejar hasta por treinta días. 3.0 D.S.M.G.V.
+a) Chofer 18.0 D.S.M.G.V.
 
-b) Para menores de edad ( de 16 a 18 años)
+b) Automovilista 16.0 D.S.M.G.V.
 
-con vigencia de tres meses. 5.0 D.S.M.G.V.
+c) Motociclista 7.0 D.S.M.G.V.
 
-c) Emergente hasta por un año. 5.0 D.S.M.G.V.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-d) De traslado hasta por tres días. 5.0 D.S.M.G.V.
+III.- Por expedición, renovación o reposición de licencias para conducir por diez años:
 
-III. Por expedición de permisos provisional
+a) Chofer 34.0 D.S.M.G.V.
 
-Para circular sin placas por 15 días. 8.0 D.S.M.G.V.
+b) Automovilista 30.0 D.S.M.G.V.
 
-IV. Otros. 3.0 D.S.M.G.V.
+c) Motociclista 13.0 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+IV.- Por expedición, renovación o reposición de permisos de conducir:
+
+a) Para menores de edad en los términos
+
+del artículo 26 de la Ley General de Tránsito y
+
+Vialidad del Estado de Tabasco 5.0 D.S.M.G.V.
+
+b) Para extranjeros en los términos del
+
+artículo 27 de la ley General de Tránsito
+
+y Vialidad del Estado de Tabasco con una
+
+vigencia de seis meses 5.0 D.S.M.G.V.
+
+c) Para extranjeros en los términos del
+
+artículo 27 de la Ley General de Tránsito
+
+y Vialidad del Estado de Tabasco con una
+
+vigencia de un año 10.0 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+V.- Por expedición de permiso provisional
+
+para circular sin placas por 15 días 8.0 D.S.M.G.V.
 
 #### SECCIÓN QUINTA
 
@@ -2084,3 +2116,7 @@ SECRETARIO DE GOBIERNO.
 P.O. 27 DE DICIEMBRE DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y será de observancia obligatoria para todos los sujetos obligados a la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco, con excepción de los Municipios, que hasta en tanto cuenten con sus propias contribuciones dentro de sus respectivas legislaciones municipales queden autorizados para aplicar el cobro de los derechos aquí previstos.
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
