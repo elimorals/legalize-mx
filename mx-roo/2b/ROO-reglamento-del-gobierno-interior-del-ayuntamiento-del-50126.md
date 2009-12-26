@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-gobierno-interior-del-ayuntamiento-del-50126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-17"
-last_updated: "2006-03-17"
+last_updated: "2009-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DEL GOBIERNO INTERIOR DEL AYUNTAMIENTO DEL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de marzo de 2006.
 
@@ -1553,9 +1553,11 @@ VIII. La sentencia condenatoria que halla (sic) causado estado por algún delito
 
 Durante las ausencias autorizadas por más de 15 y hasta 90 días naturales, el ausente no gozará de ningún salario, emolumento o cantidad alguna de dinero por concepto de dieta. Se exceptúa a lo anterior aquellas licencias que se otorguen con goce de sueldo motivadas por razones graves de salud o por causa de fuerza mayor.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 169.
 
-En el periodo constitucional del Ayuntamiento, sólo podrá otorgarse a cualquiera de los integrantes del Ayuntamiento un total de dos licencias con un plazo máximo de 90 días para la primera y no mayor a 30 días para la segunda.
+En el periodo constitucional del Ayuntamiento, este podrá autorizar hasta tres licencias a cualquiera de sus miembros, con un plazo de hasta noventa días cada una de ellas.
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
@@ -1768,3 +1770,11 @@ CANCÚN, QUINTANA ROO, A LOS VEINTITRÉS DÍAS DEL MES DE ENERO DE AÑO DOS MIL 
 LIC. RODOLFO GARCIA PLIEGO
 
 EL SECRETARIO GENERAL DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE DICIEMBRE DE 2009
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+TERCERO.- El presente acuerdo entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
