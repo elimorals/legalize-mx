@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2009-08-21"
+last_updated: "2009-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DEL 2009.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -451,7 +451,7 @@ El Presidente y Vicepresidente durarán en sus cargos, un mes pudiendo ser reele
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
-El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, este debiere abandonar el Recinto; si en esta última hipótesis no se encontrare presente el Vicepresidente, la Asamblea, exigiendo quórum verificado por un Secretario, nombrará un Presidente para dicha sesión.
+El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, éste debiere abandonar el Recinto; si en esta última hipótesis no se encontrare presente el Vicepresidente, la Asamblea, exigiendo quórum verificado por un Secretario, nombrará un Presidente para dicha sesión.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -699,85 +699,105 @@ II.- Especiales.
 
 Durante el primer mes de la nueva Legislatura, a propuesta de la Comisión de Gobierno y mediante votación nominal, la asamblea designará las comisiones permanentes, siendo estas las siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA [N. DE. E. REPUBLICADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 I.- Justicia, Gobernación y Poderes;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-II.- Desarrollo Rural, Fomento Pesquero y Asuntos Indígenas;
+II.- Responsabilidades;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-III.- Educación, Cultura y Deportes;
+III.- Educación y Cultura;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-IV.- Estudios Legislativos y Puntos Constitucionales;
+IV.- Salud, Deporte y Fomento del Sano Esparcimiento;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-V.- Hacienda y Presupuesto;
+V.- Estudios Legislativos y Puntos Constitucionales;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-VI.- Seguridad Pública, Prevención y Readaptación Social y Protección Civil;
+VI.- Hacienda, Presupuesto y Fiscalización de los Recursos Públicos;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009) (F. DE E., P.O. 30 DE ENERO DE 2010)
 
-VII.- Planeación, Turismo y Fomento Económico;
+VII. Seguridad Pública, Protección Civil, Prevención y Readaptación Social;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-VIII.- Comunicaciones y Transportes;
+VIII.- Planeación y Fomento económico;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-IX.- Asentamientos Humanos, Obras Públicas, y Protección y Mejoramiento Ambiental;
+IX.- Turismo;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-X.- Responsabilidades;
+X.- Desarrollo Rural, Fomento Agropecuario y Pesquero, y Asuntos Indígenas;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-XI.- Derechos Humanos, Atención al Migrante, y Promoción de la Equidad y Género;
+XI.- Comunicaciones y Transportes;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-XII.- Salud, Asistencia Social y Protección a la Niñez, Juventud, Adultos Mayores y Discapacidad;
+XII.- Trabajo y Previsión Social;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-XIII.- Desarrollo Municipal, Participación Ciudadana, Peticiones, y Ediciones Legislativas;
+XIII.- Planeación del Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-XIV.- Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado; y
+XIV.- Vivienda;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-XV.- Ciencia, Tecnología e Innovación Gubernamental.
+XV.- Ecología, Mejoramiento Ambiental, Cambio Climático y Cuidado del Agua;
 
-XVI.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-XVII.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+XVI.- Derechos Humanos y Atención al Migrante;
 
-XVIII.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-XIX.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+XVII.- Promoción de la Equidad y Género;
 
-XX.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-XXI.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+XVIII.- Asistencia Social y Atención a los Grupos Vulnerables, Jefas de Familia, Adultos Mayores y Discapacidad;
 
-XXII.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-XXIII.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+XIX.- Protección de la Niñez y la Juventud;
 
-XXIV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-XXV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2006)
+XX.- Ciencia y Tecnología;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XXI.- Desarrollo Municipal y Zonas Metropolitanas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XXII.- Participación Ciudadana y Peticiones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XXIII.- Difusión y Ediciones Legislativas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XXIV.- Innovación Gubernamental; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+XXV.- Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado.
 
 Estas comisiones permanentes serán por todo el ejercicio constitucional; excepcionalmente, a petición de uno de sus miembros o de un grupo parlamentario y con la conformidad de los integrantes de las mismas, podrán proponerse cambios.
 
@@ -793,9 +813,9 @@ Las comisiones serán electas por mayoría simple y estarán integradas por tres
 
 En caso de no lograrse la mayoría simple, las comisiones serán asignadas entre los grupos parlamentarios en proporción al número de Diputados que los integran en relación con el total de los que conforman al Congreso.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
-Las Comisiones de Responsabilidades y de Hacienda y Presupuesto, respectivamente, se integrarán por cinco Diputados, de conformidad con los términos que señale el Reglamento respectivo.
+Las Comisiones de Responsabilidades, y de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, respectivamente, se integrarán por cinco Diputados, de conformidad con los términos que señale el Reglamento respectivo.
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
 
@@ -1023,7 +1043,7 @@ Cuando el Congreso actúe erigido en jurado de acusación o declaración de proc
 
 ###### ARTICULO 81.
 
-Para que puedan instalarse validamente las sesiones del Congreso, será necesario que concurran, cuando menos, la mayoría absoluta.
+Para que puedan instalarse válidamente las sesiones del Congreso, será necesario que concurran, cuando menos, la mayoría absoluta.
 
 ###### ARTICULO 82.
 
@@ -1362,3 +1382,7 @@ P.O. 21 DE AGOSTO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
