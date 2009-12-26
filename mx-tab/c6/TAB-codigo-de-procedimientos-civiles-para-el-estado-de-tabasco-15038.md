@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-civiles-para-el-estado-de-tabasco-1503
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-12"
-last_updated: "2009-11-11"
+last_updated: "2009-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de abril de 1997.
 
@@ -2041,9 +2041,11 @@ b) Las costas serán a cargo del actor, salvo convenio en contrario. En este cas
 
 II.- Por caducidad de la instancia. En este caso se aplicarán las reglas siguientes:
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-a) La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del proceso, desde el primer auto que se dicte en el mismo, hasta la citación para sentencia, si transcurridos ciento veinte días hábiles contados a partir de que haya surtido efectos la notificación de la última determinación judicial, no hubiere promoción de cualquiera de las partes que tienda a impulsar el procedimiento;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+a) La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del proceso, desde la presentación de la demanda hasta la citación para sentencia, si transcurridos ciento veinte días hábiles contados a partir de que no hubiere promoción de cualquiera de las partes que tienda a impulsar el procedimiento;
 
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
@@ -10020,3 +10022,13 @@ TERCERO. Los juicios de rectificación de actas y los relativos a procedimientos
 P.O. 11 DE NOVIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los 30 días siguientes al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+En cuanto a los procedimientos iniciados y que se encuentren en trámite, se les podrá aplicar de oficio a todos aquellos que se hubieren iniciado con 6 meses de anterioridad a la entrada en vigor el presente Decreto.
