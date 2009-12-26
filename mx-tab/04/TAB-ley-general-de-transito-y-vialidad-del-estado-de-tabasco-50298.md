@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-de-transito-y-vialidad-del-estado-de-tabasco-50298"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-03-29"
-last_updated: "2008-12-17"
+last_updated: "2009-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY GENERAL DE TRANSITO Y VIALlDAD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -115,7 +115,7 @@ I. Realizar acciones de planeación, regulación, ordenamiento, y vigilancia en 
 
 II. Establecer las políticas y lineamientos técnicos en la materia, en términos de esta misma Ley, su Reglamento y demás legislación relativa aplicable;
 
-III. Administrar y dirigir a la Policía Estatal de Caminos, así como coordinar sus acciones con las demás autoridades federales, estatales y municipales, a efecto de garantizar la debida circulación y organización del tránsito de vehículos, peatones y animales en el territorio del Estado, e igualmente en la procuración y salvaguarda del orden e interés público;
+III Administrar y dirigir a la Policía Estatal de Caminos, así como coordinar sus acciones con las demás autoridades federales, estatales y municipales, a efecto de garantizar la debida circulación y organización del tránsito de vehículos, peatones y animales en el territorio del Estado, e igualmente en la procuración y salvaguarda del orden e interés público;
 
 IV. Conocer de los ilícitos, incidentes o faltas administrativas cometidas en la vía pública de comunicación terrestre. En su caso, dar aviso inmediato y remitir a las autoridades federales, estatales y municipales, los asuntos de su competencia en los términos jurisdiccionales y legales correspondientes, poniendo a su disposición a personas, elementos materiales y probatorios que en razón de flagrancia y de colaboración institucional obren o se encuentren en su poder; y
 
@@ -259,7 +259,11 @@ Para los fines de esta Ley, las autoridades competentes estarán obligadas a imp
 
 Toda persona que conduzca un vehículo por las vías públicas del Estado, deberá obtener y portar una licencia de manejo: de automovilista, motociclista o chofer, según corresponda al tipo y características de vehículo que conduzca, observando los siguientes criterios:
 
-I. Las licencias podrán otorgarse por una validez de 2 a 5 años, debiendo en cada renovación aprobar el examen de aptitud física y de valoración psicológica. En los casos de registrar antecedentes por infracciones de tránsito, prescritas o no, el conductor deberá revalidar los exámenes teórico-prácticos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
+I. Las licencias podrán otorgarse por una validez de 2, 5 o 10 años. Para la renovación, cada 10 años, deberá aprobarse los exámenes de aptitud. En los casos de registrar antecedentes por infracciones NO PAGADAS O SE ACREDITE HABER INCURRIDO EN MAS DE 2 INFRACCIONES, el conductor deberá revalidar los exámenes teóricos-prácticos;
 
 II. A partir de la edad de 65 años podrán expedirse licencias únicamente por 2 años siempre y cuando el conductor apruebe los exámenes de aptitud física y psicológicos correspondientes; y
 
@@ -351,9 +355,13 @@ V. Datos de identificación general y de notificación en casos de urgencia o ac
 
 En ningún caso podrá la autoridad expedir permiso a persona menor de edad para efectos de conducir vehículos del servicio público, aún cuando sea a solicitud del padre o tutor.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 27.
 
-la autoridad competente podrá expedir permisos para conducir para extranjeros que acrediten su legal estancia en el país, con una vigencia de seis meses, previo el pago de los derechos. Para tal efecto deberán cumplir con los requisitos administrativos que le soliciten y realizar los cursos especiales que para tal efecto determine la propia autoridad. Asimismo las licencias que se expidan en otras entidades federativas o en el extranjero, tendrán plena validez dentro de la jurisdicción estatal, siempre y cuando corresponda al tipo de vehículo de que se trate y tenga dentro del estado una actividad transitoria.
+La autoridad competente podrá expedir permisos para conducir a extranjeros que acrediten su legal estancia en el país, con una vigencia por seis meses o un año, previo el pago de los derechos. Para tal efecto deberán cumplir con los requisitos administrativos previstos en la normatividad aplicable y realizar los cursos especiales que para tal efecto determine la propia autoridad. Las licencias que se expidan en otras entidades federativas o el extranjero, tendrán plena validez, en nuestra entidad.
 
 ### Capítulo IV
 
@@ -1024,3 +1032,13 @@ SEGUNDO. Cuando en otras disposiciones jurídicas sea (sic) atribuyan facultades
 TERCERO. El Ejecutivo del Estado dictará y adoptará todas las medidas presupuestales y administrativas necesarias para dar cumplimiento al presente Decreto.
 
 CUARTO. El Ejecutivo del Estado deberá hacer las adecuaciones reglamentarias correspondientes en un periodo no mayor a 90 días a partir de la aprobación del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 01 de enero de 2010.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
