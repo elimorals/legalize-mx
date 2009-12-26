@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2008-12-13"
+last_updated: "2009-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO PENAL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -2969,6 +2969,8 @@ TITULO DECIMOCUARTO
 
 DELITOS CONTRA LA MORALIDAD PUBLICA
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 306.
 
 Para los efectos de este capítulo son vías y medios de comunicación y transporte de jurisdicción local, los así considerados por la legislación del Estado de Tabasco.
@@ -3191,13 +3193,11 @@ DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMATICOS Y MAGNETICOS
 
 ###### Artículo 327.
 
-Se aplicará prisión de dos a seis años y multa de quinientos a setecientos días multa al que obtenga algún beneficio económico explotando en cualquier forma el comercio carnal de las personas.
-
-Si la persona explotada es menor de diecisiete años la prisión será de tres a nueve años.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2009)
 
 ###### Artículo 328.
 
-Cuando se cometan los delitos previstos en el Artículo anterior, sin el consentimiento, mediante engaño o violencia física o moral, o valiéndose el agente de la autoridad que ejerce sobre aquél, o de la función pública que tiene, la sanción se aumentará de uno a tres años.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2009)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE MAYO DE 2003)</small>
 
@@ -3211,7 +3211,7 @@ I.- La iniciación en la vida sexual, cuando, además, es impúber;
 
 II.- La perversión sexual;
 
-III.- La práctica de la prostitución o de la mendicidad.
+III.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
 ###### Artículo 330.
 
@@ -3670,3 +3670,11 @@ Se derogan todas las disposiciones que se opongan al correspondiente Decreto.
 P.O. 13 DE DICIEMBRE DE 2008.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 26 DE DICIEMBRE DE 2009.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero. Los delitos que se hubieren cometido con anterioridad con la entrada en vigor del presente Decreto, se sancionarán conforme a las disposiciones normativas que se derogan.
