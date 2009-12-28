@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2009-07-29"
+last_updated: "2009-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -1401,9 +1401,11 @@ El Titular del Poder Ejecutivo del Estado expedirá el Reglamento que contenga e
 
 ### CAPÍTULO TERCERO. DE LA POLICÍA PREVENTIVA DE LOS MUNICIPIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 130.
 
-La Policía Preventiva de los Municipios, tendrá las atribuciones siguientes:
+La Policía Preventiva de los Municipios, tendrá las atribuciones y obligaciones siguientes:
 
 I. Prevenir las conductas delictivas e infracciones administrativas;
 
@@ -1435,9 +1437,15 @@ XIV. Colaborar con el organismo de participación ciudadana en materia de Seguri
 
 XV. Coordinar acciones con los Comités de Participación Comunitaria de los Municipios;
 
-XVI. Solicitar a las autoridades de seguridad pública del Estado, cuando la circunstancia lo requiera, la intervención de sus Grupos Tácticos o Unidades Especiales de Intervención o de Reacción; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-XVII. Las demás que señale esta Ley.
+XVI. Solicitar a las autoridades de seguridad pública del Estado, cuando la circunstancia lo requiera, la intervención de sus Grupos Tácticos o Unidades Especiales de Intervención o de Reacción;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XVII. Proceder inmediatamente a la búsqueda y ubicación de una persona reportada por cualquier medio como desaparecida, dando aviso sin dilación alguna a su superior inmediato, para los efectos que haya a lugar; y
+
+XVIII. Las demás que señale esta Ley.
 
 ###### Artículo 131.
 
@@ -2632,3 +2640,9 @@ P.O. 29 DE JULIO DE 2009.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- En un plazo no mayor de treinta días a la entrada en vigor del presente Decreto, el Secretario de Seguridad Pública del Estado y los Subsecretarios, Directores y Subdirectores de las dependencias a que se refiere el artículo 27 de esta Ley, se someterán a los procesos de control de confianza.
+
+P.O. 28 DE DICIEMBRE DE 2009.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los Municipios reformarán, en lo conducente, sus reglamentos, protocolos, y demás marcos normativos policiales en un plazo no mayor a sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto, a fin de homologarlos a esta disposición.
