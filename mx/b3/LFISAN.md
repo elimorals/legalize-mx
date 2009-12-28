@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2009-08-17"
+last_updated: "2009-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2006.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 17 DE AGOSTO DE 2009.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 28 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 1996.
 
@@ -176,17 +176,21 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA PRIMERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 17 DE AGOSTO DE 2009.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DE LA RESOLUCIÓN QUE MODIFICA LA LEY.</small>
+
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $172,364.01. En el precio mencionado no se considerará el impuesto al valor agregado.
+II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $179,017.26. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA PRIMERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 17 DE AGOSTO DE 2009.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DE LA RESOLUCIÓN QUE MODIFICA LA LEY.</small>
+
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 15 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $172,364.02 y hasta $218,327.74, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
+Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $179,017.27 y hasta $226,755.19, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
 
 El precio a que se refiere el párrafo anterior, se actualizará en el mes de enero de cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
 
@@ -863,3 +867,1639 @@ G. Código de claves vehiculares
 Atentamente
 
 México, D.F., a 4 de agosto de 2009.- El Jefe del Servicio de Administración Tributaria, Alfredo Gutiérrez Ortiz Mena.- Rúbrica.
+
+D.O.F. 28 DE DICIEMBRE DE 2009.
+
+Primero. La presente Resolución entrará en vigor el 1 de enero de 2010.
+
+Segundo. Los contribuyentes que de conformidad con el contenido de las reglas 2.10.19., vigente en la Resolución Miscelánea Fiscal para 2001 y 2.9.8., vigente en la Resolución Miscelánea Fiscal para 2002, 2003, 2004 y 2005, que hubieran efectuado el pago, provisional, definitivo o del ejercicio, del ISR, IMPAC, IVA, IEPS, IVBSS o impuesto sustitutivo del crédito al salario, incluyendo retenciones, mediante transferencia electrónica de fondos, sin haber presentado a través de transmisión electrónica de datos o mediante formas oficiales, la declaración correspondiente a dicha transferencia, podrán asignar el pago realizado respecto de las obligaciones fiscales que corresponda.
+
+I. Para tal efecto, los contribuyentes a que se refiere el párrafo anterior deberán cumplir con lo siguiente:
+
+a) Que las obligaciones fiscales a las cuales se asignará el pago realizado mediante transferencia electrónica de fondos, correspondan al mismo periodo por el que se hizo originalmente dicha transferencia.
+
+b) Que la cantidad a pagar y el número de folio a 18 posiciones de la operación realizada que se asiente en el recuadro de la forma oficial a que se refiere la fracción II del presente artículo, sea igual a la cantidad pagada mediante el sistema de transferencia electrónica de fondos y al folio asignado.
+
+c) Que el pago total realizado mediante la transferencia electrónica de fondos, se asigne por única vez a las obligaciones fiscales que correspondan a través de la forma oficial respectiva, en los términos del presente artículo, debiéndose presentar una forma oficial por cada transferencia a asignar.
+
+d) Que la transferencia electrónica de fondos se haya realizado antes del 29 de agosto de 2005.
+
+Los saldos a favor que, en su caso, se declaren en las formas oficiales a que se refiere el presente artículo, se tendrán por manifestados en la fecha en que las mismas sean presentadas de conformidad con las fracciones anteriores. Asimismo, para efectos del cumplimiento de obligaciones fiscales, se considerará como fecha de presentación de la declaración, aquella en que sea recibida la forma oficial que contenga la declaración correspondiente, presentada para efectos de la asignación del pago de conformidad con la presente regla.
+
+II. El pago efectuado mediante transferencia electrónica de fondos, se deberá asignar mediante la presentación de las formas oficiales siguientes:
+
+a) Tratándose de pagos provisionales y definitivos de los impuestos citados, se utilizarán las formas oficiales 1-E, 1-D, 1-D1 y 17, contenidas en el Anexo 1, debiendo anotar el número de folio de la citada transferencia en el espacio designado para ello en la forma oficial.
+
+b) Tratándose de declaraciones del ejercicio anteriores a 2002 de los citados impuestos, se utilizarán las formas oficiales 2, 2-A, 3, 4, 13 y 13-A, contenidas en el Anexo 1, anotando el número de folio de la transferencia en el espacio designado para ello en la forma oficial.
+
+La asignación de transferencias electrónicas de fondos que se efectúe de conformidad con el procedimiento anterior, que hubieran sido pagadas dentro de los plazos establecidos en las disposiciones fiscales, no dará lugar a la actualización de contribuciones ni a la causación de recargos por las obligaciones fiscales que se dejaron de asignar mediante la declaración correspondiente. Tratándose de la asignación de transferencias electrónicas de fondos, que correspondan a declaraciones complementarias, extemporáneas o de corrección fiscal, únicamente procederá su asignación cuando la transferencia efectuada contenga la actualización, recargos y, en su caso, la multa por corrección, correspondientes a la fecha en que se realizó la transferencia electrónica de fondos, sin que en este caso dé lugar a actualización de contribuciones ni a la causación de recargos por dicha asignación.
+
+III. La forma oficial en la cual se hace la asignación de pagos a que se refiere la fracción anterior, se deberá presentar ante la ALSC que corresponda al domicilio fiscal del contribuyente.
+
+Lo dispuesto en este artículo, también será aplicable a los contribuyentes que estando obligados a realizar pagos provisionales o definitivos de julio de 2002 al 29 de agosto de 2005, fecha de publicación de la Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2005, publicada en el DOF el 29 de agosto de 2005 y de los ejercicios de 2002, 2003 y 2004 del ISR, IMPAC, IVA, IEPS, IVBSS o impuesto sustitutivo de crédito al salario, incluyendo retenciones, según corresponda de conformidad con lo dispuesto en los Capítulos 2.14. a 2.19., lo hubieran efectuado mediante transferencia electrónica de fondos en los términos de la regla 2.9.8., vigente hasta el 29 de agosto de 2005, sin haber presentado, a través de transmisión electrónica de datos o mediante formas oficiales, la declaración correspondiente a dicha transferencia.
+
+Los contribuyentes a que se refiere este Artículo, podrán asignar hasta el 31 de diciembre de 2010, el pago realizado respecto de las obligaciones fiscales que corresponda mediante el procedimiento mencionado.
+
+Tercero. Los contribuyentes que de julio de 2002 al 29 de agosto de 2005, fecha de publicación de la Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2005, hubieran efectuado indebidamente el pago de alguna de sus obligaciones fiscales correspondientes a dicho periodo o a los ejercicios de 2002, 2003 o 2004, mediante transferencia electrónica de fondos de conformidad con la regla 2.9.8., vigente en la Resolución Miscelánea Fiscal para 2002, 2003, 2004 y hasta el 29 de agosto de 2005 y que hubieran presentado declaración complementaria a través de los desarrollos electrónicos a que se refieren los Capítulos 2.14. a 2.19., podrán asignar el pago realizado mediante dicha transferencia, siempre que lo realicen de conformidad con lo dispuesto en el Artículo Transitorio anteriormente señalado.
+
+Los contribuyentes a que se refiere este Artículo, podrán asignar hasta el 31 de diciembre de 2010, el pago realizado respecto de las obligaciones fiscales que corresponda mediante el procedimiento mencionado.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LAS MODIFICACIONES AL ANEXO 15 DE LA RESOLUCION MISCELANEA FISCAL PARA 2009.</small>
+
+Modificación al Anexo 15 de la Resolución Miscelánea Fiscal para 2009
+
+Contenido
+
+Impuesto sobre Tenencia o Uso de Vehículos
+
+A. Tarifa para determinar la tasa del impuesto sobre tenencia o uso de vehículos nuevos para el año 2010.
+
+B. Tarifa para determinar la tasa del impuesto sobre tenencia o uso de motocicletas nuevas para el año 2010.
+
+C. Tarifas del impuesto sobre tenencia o uso de aeronaves de año modelo anterior a 2001.
+
+D. Tarifa para determinar la tasa del Impuesto sobre Automóviles Nuevos para el año 2010.
+
+E. Cantidades para aeronaves y helicópteros nuevos para el año 2010.
+
+F. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2010.
+
+G. Código de Claves Vehiculares:
+
+1. Autorizadas.
+
+A. Tarifa para determinar la tasa del impuesto sobre tenencia o uso de vehículos nuevos para el año 2010.
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 526,657.78 0.00 3.0
+
+526,657.79 1,013,523.64 15,799.73 8.7
+
+1,013,523.65 1,362,288.13 58,157.06 13.3
+
+1,362,288.14 1,711,052.62 104,542.74 16.8
+
+1,711,052.63 En adelante 163,135.16 19.1
+
+B. Tarifa para determinar la tasa del impuesto sobre tenencia o uso de motocicletas nuevas para el año 2010.
+
+Límite inferior Límite superior Cuota fija Tasa para aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 220,660.00 0.00 3.0
+
+220,660.01 303,459.28 6,619.80 8.7
+
+303,459.29 407,882.92 13,823.33 13.3
+
+407,882.93 En adelante 27,711.67 16.8
+
+C. Tarifas del impuesto sobre tenencia o uso de aeronaves de año modelo anterior a 2001.
+
+Tarifa 2010, en pesos
+
+TIPO CUOTA
+
+$
+
+PISTON (HELICE) 2,115.74
+
+TURBOHELICE 11,710.12
+
+REACCION 16,918.38
+
+HELICOPTEROS 2,600.99
+
+D. Tarifa para determinar la tasa del impuesto sobre automóviles nuevos para el año 2010.
+
+Límite inferior Límite superior Cuota fija Tasa para aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 192,840.28 0.00 2.0
+
+192,840.29 231,408.28 3,856.74 5.0
+
+231,408.29 269,976.45 5,785.22 10.0
+
+269,976.46 347,112.35 9,642.02 15.0
+
+347,112.36 En adelante 21,212.39 17.0
+
+Si el precio del automóvil es superior a $532,497.60 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $532,497.60
+
+E. Cantidades para aeronaves y helicópteros nuevos para el año 2010.
+
+Aeronaves de pistón, turbohélice y helicópteros: $9,557.39
+
+Aeronaves de reacción: $10,294.49
+
+F. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2010.
+
+###### Artículo 8o.
+
+fracción II primer párrafo: $179,017.26
+
+###### Artículo 8o.
+
+fracción II segundo párrafo: $179,017.27 y hasta $226,755.19
+
+G. Código de claves vehiculares
+
+1. Autorizadas
+
+Clave Empresa 01 : Chrysler de México, S.A.
+
+Modelo 44 : Chrysler PT 4 puertas
+
+0014413 Versión 13 : Cruiser Classic 4 cil.
+
+Modelo 65 : Dodge Attitude 4 puertas (importado)
+
+0016504 Versión 04 : GLS Equipado, manual, 4 cil.
+
+Modelo 68 : Dodge Nitro (importado)
+
+0016807 Versión 07 : SXT Premium 4x2, aut., 6 cil.
+
+Modelo 10 : Dakota
+
+1011014 Versión 14 : SLT Crew Cab 4x4, automático 6 cil.
+
+Modelo 22 : Dodge Ram 2500 (nacional)
+
+1012213 Versión 13 : SLT, automático, 8 cil., 4x4, con/sin
+
+paquete Sport
+
+1012214 14 : ST, automático, 8 cil., 4x4
+
+1012215 15 : ST, manual, 8 cil., 4x4
+
+1012216 16 : SLT Crew Cab, automático, 8 cil., 4x2
+
+1012217 17 : SLT Crew Cab, automático, 8 cil., 4x4
+
+1012218 18 : SLT Crew Cab Laramie, automático, 8 cil., 4x2
+
+1012219 19 : SLT Crew Cab Laramie, automático, 8 cil., 4x4
+
+Clave Empresa 03 : General Motors de México, S.de R. L. de C.V.
+
+Modelo 15 : Chevy
+
+0031577 Versión 77 : Paq. "J" Básico, aut., c/aire, direc. hidr.,
+
+AM/FM/CD/MP3, 3 ptas. (nacional)
+
+0031578 78 : Paq. "J" Básico, aut., c/aire, direc. hidr.,
+
+AM/FM/CD/MP3, 4 ptas. (nacional)
+
+0031579 79 : Paq. "J" Básico, aut., c/aire, direc. hidr.,
+
+AM/FM/CD/MP3, 5 ptas. (nacional)
+
+Modelo 26 : Chevrolet Express Van (importado)
+
+0032609 Versión 09 : Paq. “C” 3500, 15 pasajeros, aut., motor vortec,
+
+V8, 6.0 lts., SFI
+
+Modelo 70 : Chevrolet Optra 4 puertas (importado)
+
+0037006 Versión 06 : Paq. “C” manual, tela, rines de acero, c/aire,
+
+ABS, bolsas de aire, potencia 127 HP
+
+Modelo 79 : Pontiac G3 5 puertas (nacional)
+
+0037904 Versión 04 : Paq. "G" manual, motor 1.5 lts., 4 cil., c/aire,
+
+radio AM/FM, tela
+
+0037905 05 : Paq. "H" manual, motor 1.5 lts., 4 cil., c/aire, radio
+
+M/FM/6 CD's, tela
+
+0037906 06 : Paq. "J" manual, motor 1.5 lts., 4 cil., c/aire, radio
+
+AM/FM/6 CD's, tela, quemacocos
+
+0037907 07 : Paq. "L" aut., motor 1.5 lts., 4 cil., c/aire, radio
+
+AM/FM/6 CD's, tela
+
+Modelo 80 : Pontiac G3 4 puertas (nacional)
+
+0038004 Versión 04 : Paq. "M" manual, motor 1.5 lts., 4 cil., c/aire,
+
+radio AM/FM, tela
+
+0038005 05 : Paq. "N" manual, motor 1.5 lts., 4 cil., c/aire,
+
+radio AM/FM/6 CD's, tela, quemacocos
+
+0038006 06 : Paq. "N" aut., motor 1.5 lts., 4 cil., c/aire,
+
+radio AM/FM/6 CD's, tela, quemacocos
+
+Modelo 84 : Traverse (importado)
+
+0038403 Versión 03 : Paq "C" aut., a/c, radio AM/FM/CD/MP3/DVD,
+
+motor 3.6 lts., 6 cil.
+
+Modelo 86 : Cadillac SRX (nacional)
+
+0038601 Versión 01 : Paq "A" 4x2 aut., c/aire, motor 3.0 lts., 6 cil.,
+
+piel, quemacocos
+
+0038602 02 . Paq "B" 4x2 aut., e/e, c/aire, motor 3.0 lts.,
+
+6 cil., piel, quemacocos
+
+0038603 03 : Paq "C" AWD aut., e/e, c/aire, motor 3.0 lts.,
+
+6 cil., piel, quemacocos
+
+Modelo 87 : Buick Lacrosse 4 puertas (importado)
+
+0038701 Versión 01 : Paq "C" aut., c/aire, motor 3.6 lts., 6 cil.,
+
+piel, quemacocos, AM/FM/CD/MP3/USB
+
+Modelo 88 : Buick Enclave (importado)
+
+0038801 Versión 01 : Paq "C" aut., c/aire, motor 3.6 lts., 6 cil.,
+
+piel, quemacocos, AWD,
+
+AM/FM/CD/CD-R/MP3/USB, DVD
+
+0038802 02 : Paq "P" aut., c/aire elect, radio XM, DVD R1,
+
+motor 3.6 lts., 6 cil., piel, quemacocos Pan,
+
+AWD, OnStar
+
+Modelo 29 : Sierra (importado)
+
+1032904 Versión 04 : Paq. “B” Cab Regular, aut., 6 vel., motor 5.3 lts.,
+
+tela, A/C
+
+Clave Empresa 04 : Nissan Mexicana, S.A. de C.V.
+
+Modelo 11 : Sentra Sedán 4 puertas
+
+0041155 Versión 55 : Sport Road T/M 2.0 lts.
+
+0041156 56 : Sport Road CVT 2.0 lts.
+
+Modelo 13 : Altima
+
+0041328 Versión 28 : Coupé SR 3.5 lts., CVT
+
+0041329 29 : SR 3.5 lts., CVT con modo manual
+
+Modelo 39 : Tiida Sedán 4 puertas
+
+0043911 Versión 11 : Comfort T/M 1.8 lts.
+
+0043912 12 : Comfort T/M A/C 1.8 lts.
+
+Modelo 40 : Aprio Sedán 4 puertas
+
+0044014 Versión 14 : Convenience T/M
+
+0044015 15 : Convenience T/M A/C
+
+Modelo 15 : NP300
+
+1041517 Versión 17 : Doble Cabina, Lujo, T/M
+
+Modelo 16 : NV200 5 puertas
+
+1041601 Versión 01 : Panel T/M (Prototipo)
+
+Clave Empresa 05 : Volkswagen de México, S.A. de C.V.
+
+Modelo 05 : Jetta 4 puertas
+
+0050549 Versión 49 : Europa y/o GL, motor 2.0 lts., 115 CV (DIN)
+
+114 HP (SAE) estándar, 5 vel.
+
+0050550 50 : Europa y/o GL, motor 2.0 lts., 115 CV (DIN)
+
+114 HP (SAE) aut. tiptronic, 6 vel.
+
+0050551 51 : Trendline y/o Sport, motor 2.0 lts., 115 CV
+
+(DIN) 114 HP (SAE) estándar, 5 vel.
+
+0050552 52 : Trendline y/o Sport, motor 2.0 lts., 115 CV
+
+(DIN) 114 HP (SAE) aut. tiptronic, 6 vel.
+
+0050555 55 : GLI, motor 1.8 lts. turbo, 180 CV (DIN)
+
+177 HP (SAE) estándar, 5 vel.
+
+0050556 56 : GLI, motor 1.8 lts. turbo, 180 CV (DIN)
+
+177 HP (SAE) aut. tiptronic, 6 vel.
+
+0050557 57 : GLS, motor 1.8 lts. turbo, 180 CV (DIN)
+
+177 HP (SAE) aut. tiptronic, 6 vel.
+
+Modelo 07 : Passat 4 puertas
+
+0050718 Versión 18 : Passat CC turbo, motor 2.0 lts., 200 CV
+
+(DIN) 197 HP (SAE) 6 vel., aut. Tiptronic
+
+y/o DSG
+
+0050721 21 : Passat turbo, motor 2.0 lts., 200 CV (DIN)
+
+197 HP (SAE) 6 vel., DSG
+
+Modelo 13 : Audi 2 puertas
+
+0051349 Versión 49 : Audi A5 Cabrio y/o Coupé, motor 4 cil.,
+
+2.0 lts., Turbo FSI 211 HP, Trans.
+
+S Tronic, Tracción Quattro
+
+0051350 50 : Audi TT RS Coupé, motor 5 cil., 2.5 lts.,
+
+FSI, 340 HP, manual, Tracción Quattro
+
+0051351 51 : Audi TT RS Roadster, motor 5 cil., 2.5 lts.,
+
+FSI, 340 HP, manual, Tracción Quattro
+
+Modelo 20 : Seat 4 puertas
+
+0052003 Versión 03 : Seat Cordoba Stella y/o Reference 1.6 lts.,
+
+100 HP, 5 vel., manual
+
+0052066 66 : Ibiza Reference, motor 1.6 lts., 105 HP,
+
+aut. DSG, 7 vel.
+
+0052067 67 : Leon Cupra R, motor 2.0 lts., TSI,
+
+265 HP, manual, 6 vel.
+
+Modelo 35 : Bora 4 puertas
+
+0053530 Versión 30 : Sport y/o Style motor 2.5 lts., 170 CV (DIN)
+
+168 HP (SAE) 6 vel., aut. Tiptronic
+
+0053531 31 : Bora Style motor 2.5 lts., 170 CV (DIN)
+
+168 HP (SAE) 5 vel., manual
+
+0053532 32 : Bora Style y/o Sport motor 2.5 lts., 170 CV (DIN)
+
+168 HP (SAE) 6 vel., Tiptronic
+
+0053533 33 : Bora Sport motor 2.5 lts., 170 CV (DIN)
+
+168 HP (SAE) 6 vel., Tiptronic
+
+0053534 34 : Bora TDI motor 1.9 lts., 105 CV (DIN)
+
+103 HP (SAE) 5 vel., manual (diesel)
+
+0053535 35 : Bora TDI motor 1.9 lts., 105 CV (DIN)
+
+103 HP (SAE) 6 vel., DSG (diesel)
+
+0053536 36 : Bora GLI motor 2.0 lts., 200 CV (DIN)
+
+197 HP (SAE) 6 vel., manual
+
+0053537 37 : Bora GLI motor 2.0 lts., 200 CV (DIN)
+
+197 HP (SAE) 6 vel., DSG
+
+0053538 38 : Bora Protect motor 2.0 lts., Turbo, 200 CV (DIN)
+
+197 HP (SAE) 6 vel., DSG
+
+0053539 39 : Bora motor Turbo TSI 2.0 lts., 200 CV (DIN)
+
+197 HP (SAE) 6 vel., manual
+
+0053540 40 : Bora TDI motor 1.6 lts., 105 CV (DIN)
+
+103 HP (SAE) 5 vel., manual (diesel)
+
+Modelo 38 : Bentley 2 puertas
+
+0053806 Versión 06 : Continental Supersports, motor 12 cil., 6 lts.,
+
+630 HP, tiptronic (6), tracción cuatro ruedas
+
+Modelo 43 : Golf 3 puertas
+
+0054304 Versión 04 : GTI, motor 2.0 lts., Turbo FSI, 200 CV (DIN)
+
+197 HP (SAE) 6 vel., manual
+
+0054305 05 : GTI, motor 2.0 lts., Turbo FSI, 210 CV (DIN)
+
+208 HP (SAE) 6 vel., DSG y/o manual
+
+Modelo 49 : Audi 4 puertas
+
+0054914 Versión 14 : Audi Q7, motor 8 cil., 4.2 lts., TDI, 340 HP,
+
+Trans. Tiptronic, Tracción Quattro
+
+0054915 15 : Audi S4, motor 6 cil., 3.0 lts., Turbo FSI,
+
+333 HP, manual
+
+0054916 16 : Audi A5 Sportback, motor 4 cil., 2.0 lts.,
+
+Turbo FSI, 211 HP, Trans. S Tronic,
+
+Tracción Quattro
+
+0054917 17 : Audi A5 Sportback, motor 6 cil., 3.2 lts.,
+
+FSI, 265 HP, Trans. S Tronic, Tracción Quattro
+
+Modelo 55 : Porsche Boxster
+
+0055505 Versión 05 : Boxster Spyder, motor 3.4 lts., 6 cil.,
+
+320 HP, tracción trasera manual
+
+0055506 06 : Boxster Spyder, motor 3.4 lts., 6 cil.,
+
+320 HP, tracción trasera PDK
+
+Modelo 58 : Golf Sportwagen 5 puertas
+
+0055801 Versión 01 : Golf Sportwagen, motor 2.5 lts.,
+
+170 CV (DIN) 168 HP (SAE) 6 vel.,
+
+aut. Tiptronic
+
+0055802 02 : Golf Sportwagen, motor TDI 2.0 lts.,
+
+140 CV (DIN) 138 HP (SAE) 6 vel., estándar
+
+0055803 03 : Golf Sportwagen, motor TSI 1.4 lts.,
+
+160 CV (DIN) 158 HP (SAE) 7 vel., DSG
+
+0055804 04 : Golf Sportwagen, motor TDI 2.0 lts.,
+
+140 CV (DIN) 138 HP (SAE) 6 vel., DSG
+
+0055805 05 : Golf Sportwagen, motor TDI 1.2 lts.,
+
+105 CV (DIN) 103 HP (SAE) 6 vel., estándar
+
+0055806 06 : Golf Sportwagen, motor TSI 1.4 lts.,
+
+160 CV (DIN) 158 HP (SAE) 6 vel., estándar
+
+0055807 07 : Golf Sportwagen, motor TSI 1.4 lts.,
+
+122 CV (DIN) 121 HP (SAE) 7 vel., DSG
+
+Modelo 59 : Porsche 911 2 puertas
+
+0055901 Versión 01 : 911 Turbo Coupé, motor 3.8 lts., 6 cil.,
+
+500 HP, tracción cuatro ruedas, manual
+
+0055902 02 : 911 Turbo Coupé, motor 3.8 lts., 6 cil.,
+
+500 HP, tracción cuatro ruedas, PDK
+
+0055903 03 : 911 Turbo Cabriolet, motor 3.8 lts., 6 cil.,
+
+500 HP, tracción cuatro ruedas, manual
+
+0055904 04 . 911 Turbo Cabriolet, motor 3.8 lts., 6 cil.,
+
+500 HP, tracción cuatro ruedas, PDK
+
+0055905 05 : Carrera Sport Classic, motor 3.8 lts., 6 cil.,
+
+408 HP, tracción trasera manual
+
+0055906 06 : GT3 RS, motor 3.8 lts., 6 cil., 450 HP,
+
+tracción trasera manual
+
+Modelo 60 : T5 Multivan
+
+0056001 Versión 01 : Highline, motor 3.2 lts., 240 HP, 6 cil., 6 vel., aut.
+
+Modelo 61 : Transporter Pasajeros
+
+0056101 Versión 01 : Transporter Pasajeros, motor TDI 2.0 lts.,
+
+102 HP, 5 vel., manual (diesel)
+
+Modelo 09 : Transporter Carga
+
+1050901 Versión 01 : Transporter Cargo Van, motor TDI 2.0 lts.,
+
+102 HP, 5 vel., manual (diesel)
+
+1050902 02 : Transporter Chasis Cabina, motor TDI 2.0 lts.,
+
+102 HP, 5 vel., manual (diesel)
+
+Modelo 10 : Saveiro Pick Up
+
+1051001 Versión 01 : Saveiro Pick Up Básico Cabina Sencilla,
+
+motor 1.6 lts., 101 HP, 5 vel., manual
+
+1051002 02 : Saveiro Pick Up Trendline Cabina
+
+Extendida, motor 1.6 lts., 101 HP, 5 vel.,
+
+manual
+
+Modelo 06 : Crafter
+
+2050607 Versión 07 : Cargo Van, motor 2.5 lts., 145 HP,
+
+Trans. Semiautomática Shifmatic, 6 vel.
+
+(diesel) 3,880 Kg. PBV
+
+2050608 08 : Cargo Van, motor 2.5 lts., 140 HP,
+
+TDI 5 cil., Shiftmatic, 6 vel. (diesel)
+
+3,880 Kg. PBV
+
+2050609 09 : Cargo Van, motor 2.5 lts., 140 HP,
+
+TDI 5 cil., Shiftmatic, 6 vel. (diesel)
+
+5,000 Kg. PBV
+
+Clave Empresa 06 : Dina Camiones, S.A. de C.V.
+
+Modelo 03 : Chasís Control Delantero
+
+2060367 Versión 67 : 553-200-70 Chasis plataforma control
+
+delantero, motor delantero, susp.
+
+mecánica, manual, 5 vel., diesel, 200 HP
+
+2060368 68 : 455-200-70 Chasis plataforma
+
+semi-control delantero, motor delantero,
+
+susp. mecánica, manual, 5 vel., diesel,
+
+200 HP
+
+Clave Empresa 07 : Renault México, S.A. de C.V.
+
+Modelo 01 : Clio 5 puertas
+
+0070125 Versión 25 : Comfort 1.6 T/M
+
+Modelo 21 : Sandero 4 puertas
+
+0072101 Versión 01 : Authentique 1.6, 8 válvulas T/M
+
+0072102 02 : Authentique Pack, 1.6, 8 válvulas T/M
+
+0072103 03 : Expression 1.6, 16 válvulas T/M
+
+0072104 04 : Expression 1.6, 16 válvulas T/A
+
+0072105 05 : Dynamique 1.6, 16 válvulas T/M
+
+0072106 06 : Dynamique 1.6, 16 válvulas T/A
+
+Modelo 22 : Stepway 5 puertas
+
+0072201 Versión 01 : Dynamique 1.6, 16 válvulas T/M
+
+Clave Empresa 09 : Kenworth Mexicana, S.A. de C.V.
+
+Modelo 02 : T
+
+2090213 Versión 13 : T 460 Tractocamión Quinta Rueda 14,969 Kg.
+
+o más de PBV
+
+2090214 14 : T 470 Tractocamión Quinta Rueda 14,969 Kg.
+
+o más de PBV
+
+Modelo 09 : Camión Pesado T
+
+2090903 Versión 03 : T 460 14,969 Kg. o más de PBV
+
+2090904 04 : T 470 14,969 Kg. o más de PBV
+
+Clave Empresa 10 : Mexicana de Autobuses, S.A. de
+
+C.V./Volvo Industrial de México, S.A. de C.V.
+
+Modelo 03 : Urbano
+
+2100310 Versión 10 : Autobús Urbano B7R
+
+2100311 11 : Autobús Urbano B7RLE
+
+Clave Empresa 14 : Mercedes-Benz México, S. de R. L.
+
+de C.V./Mercedes-Benz México, S.A. de C.V.
+
+Modelo 43 : C 4 puertas
+
+0144321 Versión 21 : C300 Elegance
+
+0144322 22 : C300 Sport
+
+0144323 23 : C200 Kompressor MT
+
+0144324 24 : C200 Kompressor AT
+
+0144325 25 : C300 Classic
+
+0144326 26 : C300 Elegance Ltd.
+
+0144327 27 : C200 CGI Avantgarde
+
+0144328 28 : C200 CGI Sport
+
+Modelo 44 : ML 4 puertas
+
+0144411 Versión 11 : 350 4x2
+
+0144412 12 : ML 350 Sport
+
+0144413 13 : ML 350 Sport AMG
+
+Modelo 46 : E Coupé 2 puertas
+
+0144602 Versión 02 : E500 Coupé
+
+Modelo 53 : SL 2 puertas
+
+0145304 Versión 04 : SL65 Roadster AMG Black Series
+
+0145305 05 : SL63 Roadster AMG IWC
+
+Modelo 54 : G 2 puertas
+
+0145403 Versión 03 : G 280 CDI 4x4
+
+Modelo 68 : GLK 5 puertas
+
+0146804 Versión 04 : GLK 280 Special
+
+0146805 05 : GLK 350 Special
+
+0146806 06 : GLK 300
+
+0146807 07 : GLK 300 Sport
+
+0146808 08 : GLK 300 con paquete cristales traseros
+
+de privacidad
+
+0146809 09 : GLK 300 Sport con paquete visual
+
+0146810 10 : GLK 350 Sport con paquete visual
+
+Modelo 69 : E Sedán 4 puertas
+
+0146901 Versión 01 : E300
+
+0146902 02 . E300 Avantgarde
+
+Clave Empresa 25 : Honda de México, S.A. de C.V.
+
+Modelo 04 : Acura 4 puertas
+
+0250410 Versión 10 : TSX, sedán, T. Aut., 6 cil., 3.5 lts., 280 HP,
+
+a/a, v/p
+
+Modelo 07 : CR-V 5 puertas
+
+0250712 Versión 12 : LX, T. Aut., 4 cil., 2.4 lts., 175 HP, a/a, v/t
+
+0250713 13 : EX, T. Aut., 4 cil., 2.4 lts., 175 HP, a/a, v/t
+
+0250714 14 : EXL, T. Aut., 4 cil., 2.4 lts., 175 HP, a/a, v/p
+
+Modelo 09 : Acura 5 puertas
+
+0250905 Versión 05 : MDX, T. Aut., 6 cil., 3.7 lts., 304 HP, a/a, v/p
+
+0250906 06 : ZDX, T. Aut., 6 cil., 3.7 lts., 304 HP, a/a, v/p
+
+Modelo 12 : Honda City 4 puertas
+
+0251201 Versión 01 : LX, T. Man., 4 cil., 1.5 lts., 118 HP, a/a, v/t
+
+0251202 02 : LX, T. Aut., 4 cil., 1.5 lts., 118 HP, a/a, v/t
+
+0251203 03 : EX, T. Man., 4 cil., 1.5 lts., 118 HP, a/a, v/t
+
+0251204 04 : EX, T. Aut., 4 cil., 1.5 lts., 118 HP, a/a, v/t
+
+Modelo 13 : Accord Crosstour 5 puertas
+
+0251301 Versión 01 : EX, T. Aut., 6 cil., 3.5 lts., 271 HP, a/a, v/t
+
+0251302 02 : EXL, T. Aut., 6 cil., 3.5 lts., 271 HP, a/a, v/p
+
+Clave Empresa 26 : BMW de México, S.A. de C.V.
+
+Modelo 01 : Serie 3, 4 puertas
+
+0260150 Versión 50 : 325i Progressive/Premium/Navi/Business
+
+Selection manual
+
+0260151 51 : 325iA Progressive/Premium/Navi/Business
+
+Selection automático
+
+Modelo 02 : Serie 5, 4 puertas
+
+0260246 Versión 46 : 535iA Gran Turismo automático
+
+0260247 47 : 550iA Gran Turismo automático
+
+0260248 48 : 535iA Gran Turismo Top automático
+
+Modelo 03 : Serie 7, 4 puertas.
+
+0260329 Versión 29 : 760LiA automático
+
+Modelo 05 : Serie M, 2 puertas
+
+0260518 Versión 18 : M6 Coupé, trans. secuencial
+
+0260519 19 : M6 Convertible, trans. secuencial
+
+Modelo 17 : Mini Cooper 2 puertas
+
+0261731 Versión 31 : Mini Cooper Mayfair manual
+
+0261732 32 : Mini Cooper Mayfair automático
+
+0261733 33 : Mini Cooper Camden manual
+
+0261734 34 : Mini Cooper Camden automático
+
+0261735 35 : Mini Cooper Earl Grey manual
+
+0261736 36 : Mini Cooper Earl Grey automático
+
+0261737 37 : Mini Cooper S Mayfair manual
+
+0261738 38 : Mini Cooper S Mayfair automático
+
+0261739 39 : Mini Cooper S Camden manual
+
+0261740 40 : Mini Cooper S Camden automático
+
+0261741 41 : MINI Cooper Laurel 1 manual
+
+0261742 42 : MINI Cooper Laurel 1 automático
+
+0261743 43 : MINI Cooper Laurel 2 manual
+
+0261744 44 : MINI Cooper Laurel 2 automático
+
+0261745 45 : MINI Cooper Ray manual
+
+0261746 46 : MINI Cooper Ray automático
+
+0261747 47 : MINI Cooper S Laurel 1 manual
+
+0261748 48 : MINI Cooper S Laurel 1 automático
+
+0261749 49 : MINI Cooper S Laurel 2 manual
+
+0261750 50 : MINI Cooper S Laurel 2 automático
+
+0261751 51 : MINI Cooper S Ray manual
+
+0261752 52 : MINI Cooper S Ray automático
+
+0261753 53 : MINI Cooper S John Cooper Works
+
+WorldChampionship manual
+
+0261754 54 : MINI Cooper S John Cooper Works Aerokit
+
+0261755 55 : MINI Cooper S John Cooper Works Aerokit Top
+
+Modelo 30 : X1, 5 puertas
+
+0263001 Versión 01 : X1 xDrive28iA automático
+
+0263002 02 : X1 xDrive28iA Top automático
+
+Modelo 31 : X5, 5 puertas
+
+0263101 Versión 01 : X5 M automático
+
+Modelo 32 : X6, 5 puertas
+
+0263201 Versión 01 : X6 M automático
+
+Clave Empresa 28 : Navistar México, S.A. de C.V.
+
+Modelo 01 : Chasís Cabina
+
+2280109 Versión 09 : 4400 - 250 HP/260 HP (6x2) y (6x4)
+
+2280113 13 : 7300 - 195 HP/210 HP/225 HP (4x2)
+
+2280115 15 : 7400 - 260 HP (4x2)
+
+Modelo 04 : Chasís Cabina Tandem
+
+2280412 Versión 12 : 5600 - ISX - 450 HP (6x4)
+
+Clave Empresa 32 : Peugeot México, S.A. de C.V.
+
+Modelo 21 : Partner M59 VP/GRAND RAID 5 puertas
+
+0322107 Versión 07 : Grand Raid Origin Base, 5 vel., manual,
+
+motor 1.6 lts., 4 cil.
+
+0322108 08 : Grand Raid Origin Base HDI, 5 vel.,
+
+manual, motor 1.6 lts., 4 cil.
+
+0322109 09 : Grand Raid Origin Pack, 5 vel., manual,
+
+motor 1.6 lts., 4 cil.
+
+0322110 10 : Grand Raid Origin Pack HDI, 5 vel.,
+
+manual, motor 1.6 lts., 4 cil.
+
+0322111 11 : Grand Raid Origin Base, 8 plazas, 5 vel.,
+
+manual, motor 1.6 lts., 4 cil.
+
+0322112 12 : Grand Raid Origin Base HDI, 8 plazas,
+
+5 vel., manual, motor 1.6 lts., 4 cil.
+
+0322113 13 : Grand Raid Origin Pack, 8 plazas, 5 vel.,
+
+manual, motor 1.6 lts., 4 cil.
+
+0322114 14 : Grand Raid Origin Pack HDI, 8 plazas,
+
+5 vel., manual, motor 1.6 lts., 4 cil.
+
+0322115 15 : Grand Raid Maya, 8 plazas, 5 vel., manual,
+
+motor 1.6 lts., 4 cil.
+
+0322116 16 : Grand Raid Maya HDI, 8 plazas, 5 vel.,
+
+manual, motor 1.6 lts., 4 cil.
+
+Modelo 01 : Partner 4 puertas
+
+1320102 Versión 02 : Partner Flotillas, 5 vel., manual, motor 1.6 lts.,
+
+4 cil.
+
+1320103 03 : Partner Flotillas, 5 vel., manual, motor 1.6 lts.,
+
+4 cil., diesel
+
+1320104 04 : Partner PLC Pack, 5 vel., manual, motor 1.6 lts.,
+
+4 cil.
+
+1320105 05 : Partner PLC Pack, 5 vel., manual, motor 1.6 lts.,
+
+4 cil., diesel
+
+1320106 06 : Partner PLC Pack 5 plazas, 5 vel., manual,
+
+motor 1.6 lts., 4 cil.
+
+1320107 07 : Partner PLC Pack 5 plazas, 5 vel., manual,
+
+motor 1.6 lts., 4 cil., Turbo diesel
+
+Modelo 05 : Expert Chasis Cabina 2 puertas
+
+1320501 Versión 01 : Expert Chasis Cabina Base, 6 vel.,
+
+manual, motor 2.0 lts., 4 cil., diesel
+
+Modelo 02 : Manager HDI 4 puertas
+
+2320206 Versión 06 : Manager Furgon 435 L3H2 Base, 6 vel.,
+
+manual, motor 3.0 lts., 4 cil., diesel
+
+2320207 07 : Manager Furgon 435 L3H2 Pack, 6 vel.,
+
+manual, motor 3.0 lts., 4 cil., diesel
+
+Modelo 04 : Manager Chasis Cabina 2 puertas
+
+2320401 Versión 01 : Manager Chasis Cab 435 L4 Base,
+
+6 vel., manual, motor 3.0 lts., 4 cil., diesel
+
+2320402 02 : Manager Chasis Cab 435 L4 Base AC,
+
+6 vel., manual, motor 3.0 lts., 4 cil., diesel
+
+Clave Empresa 34 : Volvo Trucks de México, S.A. de C.V.
+
+Modelo 01 : Chasís Cabina
+
+2340119 Versión 19 : MACK MRU612 TERRAPRO (importado)
+
+2340120 20 : MACK MRU613 TERRAPRO (importado)
+
+2340121 21 : MACK GU812 GRANITE (importado)
+
+2340122 22 : MACK GU813 GRANITE (importado)
+
+Modelo 02 : Tractocamión
+
+2340224 Versión 24 : MACK GU813 GRANITE (importado)
+
+Clave Empresa 37 : Autos Especiales de México, S.A. de C.V.
+
+Modelo 18 : Alfa Romeo 2 puertas
+
+0371808 Versión 08 : Coupé 8C Competizione, F1, 8 cil.
+
+Modelo 29 : Maserati 2 puertas
+
+0372906 Versión 06 : GS Spyder, manual, 8 cil.
+
+0372907 07 : GS Spyder, F1, 8 cil.
+
+0372908 08 : GS Spyder, automático, 8 cil.
+
+Modelo 30 : Lamborghini 2 puertas
+
+0373001 Versión 01 : Murcielago LP 640 Roadster Coupé, manual, 12 cil.
+
+0373002 02 : Murcielago LP 640 Coupé, manual, 12 cil.
+
+0373003 03 : Murcielago LP 640 Coupé, Secuencial al
+
+volante (e-gear), F1, 12 cil.
+
+0373004 04 : Murcielago LP 640-4 SV (Super Veloz)
+
+Coupé, Secuencial al volante (e-gear),
+
+tracción en las 4 ruedas, F1, 12 cil.
+
+0373005 05 : Gallardo LP 560-4 Coupé, tracción en
+
+las 4 ruedas, manual, 10 cil.
+
+0373006 06 : Gallardo LP 560-4 Coupé, Secuencial al
+
+volante (e-gear), tracción en las 4 ruedas,
+
+F1, 10 cil.
+
+0373007 07 : Gallardo LP 560-2 Valentino Balboni
+
+Coupé, Secuencial al volante (e-gear)
+
+tracción en las 2 ruedas traseras, F1, 10 cil.
+
+0373008 08 : Gallardo LP 560-4 Spyder,Secuencial al
+
+volante (e-gear), tracción en las 4 ruedas,
+
+F1, 10 cil.
+
+0373009 09 : Gallardo LP 560-4 Spyder, tracción en las
+
+4 ruedas, manual, 10 cil.
+
+Clave Empresa 49 : Servicio Integral Automotor, S. de R. L.
+
+de C.V./Ford Motor Company, S.A. de C.V.
+
+Modelo 13 : Escape 4 puertas (importado)
+
+0491309 Versión 09 : XLT 4x2, I4, T/A, piel, 4 cil.
+
+Modelo 41 : Fusion 4 puertas (nacional)
+
+0494114 Versión 14 : I4 SE ST, motor 2.5 lts., I4, 6 vel., T/A, tela
+
+Modelo 43 : Edge 4 puertas (importado)
+
+0494303 Versión 03 : Edge Sport 4x2, V6, motor 3.5 lts., 6 vel., T/A, piel, 6 cil.
+
+0494304 04 : Edge Sport 4x2, V6, motor 3.7 lts., 6 vel.,
+
+T/A, piel, 6 cil.
+
+0494305 05 : Edge SE 4x2, V6, motor 3.5 lts., 6 vel.,
+
+T/A, tela, 6 cil.
+
+Modelo 46 : Mazda3 4 puertas (importado)
+
+0494607 Versión 07 : Mazda3 “S” estándar 6 vel., tela, 2.5 lts., 4 cil.
+
+0494608 08 . Mazda3 “S” automático-sport, tela, 2.5 lts., 4 cil.
+
+0494609 09 : Mazda3 “S Grand Touring” automático-sport,
+
+piel, 2.5 lts., 4 cil.
+
+Modelo 47 : Mazda3 5 puertas (importado)
+
+0494704 Versión 04 : Mazda3 “S” estándar 6 vel., tela, 2.5 lts., 4 cil.
+
+0494705 05 : Mazda3 “S” automático-sport, tela, 2.5 lts., 4 cil.
+
+0494706 06 : Mazda3 “S Grand Touring” automático-sport,
+
+piel, 2.5 lts., 4 cil.
+
+Modelo 50 : MX-5 2 puertas (importado)
+
+0495004 Versión 04 : MX-5 “Grand Touring” automático 6 vel.,
+
+piel, 2.0 lts., 4 cil., toldo rígido retractil
+
+Modelo 51 : CX-7 5 puertas (importado)
+
+0495101 Versión 01 : CX-7 “Sport” o “S Sport” automático-sport
+
+6 vel., tela, 2.3 lts., 4 cil., turbo
+
+0495102 02 : CX-7 “Grand Touring” o “S Grand
+
+Touring” automático-sport 6 vel., piel,
+
+2.3 lts., 4 cil., turbo
+
+0495103 03 : CX-7 “Grand Touring” o “S Grand Touring”
+
+AWD automático-sport, piel, 2.3 lts., 4 cil., turbo
+
+0495104 04 : CX-7 “i Sport” automático-sport 5 vel., tela,
+
+2.5 lts., 4 cil.
+
+Modelo 60 : Volvo XC60 4 puertas (importado)
+
+0496002 Versión 02 : XC60, T/Geartronic, 3.2 AWD, gasolina,
+
+5 asientos, piel
+
+0496003 03 : XC60, T/Geartronic, 3.2 FWD, gasolina,
+
+5 asientos, piel
+
+Modelo 10 : Transit Van 4 puertas (importado)
+
+1491002 Versión 02 : Van SWB 2.2 lts., I4 diesel, T/M, 6 vel., tela, 4 cil.
+
+Modelo 05 : F-450 2 puertas (importado)
+
+2490501 Versión 01 : XL, motor 6.8 lts., T/M ZF o Tremec, tela, 10 cil.
+
+Modelo 06 : F-550 2 puertas (importado)
+
+2490601 Versión 01 : XL, motor 6.8 lts., T/M ZF o Tremec, tela, 10 cil.
+
+Clave Empresa 52 : Toyota Motor Manufacturing de Baja
+
+California, S. de R. L. de C.V. /Toyota
+
+Motor Sales de México, S. de R.L. de C.V.
+
+Modelo 01 : Camry 4 puertas
+
+0520112 Versión 12 : XLE, Sedán, L4 2.5 lts., T/A, 6 vel., AC
+
+Modelo 05 : Sienna 5 puertas
+
+0520509 Versión 09 : CE, Mini-Van, V6, T/A, 5 vel., 24 válvulas,
+
+AC, vidrios traseros manuales o eléctricos
+
+Modelo 10 : Sequoia 5 puertas
+
+0521007 Versión 07 : SR5, SUV, V8 4.6 lts., T/A, 6 vel.,
+
+vidrios eléctricos, A/C, piel
+
+Modelo 05 : Tundra 4 puertas
+
+1520505 Versión 05 : SR5 Doble Cabina, V8 4.6 lts., T/A 6 vel.,
+
+vidrios elec., A/C
+
+Clave Empresa 55 : DaimlerChrysler Vehículos Comerciales
+
+México, S.A. de C.V./ Daimler
+
+Vehículos Comerciales México, S.de R.L.
+
+de C.V.
+
+Modelo 04 : Mercedes-Benz Viano 5 puertas
+
+0550401 Versión 01 : Viano 3.5, 3,200 mm distancia entre ejes,
+
+aut., 5 vel.
+
+0550402 02 : Viano 3.5, 3,200 mm distancia entre ejes,
+
+con volado trasero largo, aut., 5 vel.
+
+0550403 | 03 : Viano 3.5, 3,430 mm distancia entre ejes,
+
+aut., 5 vel.
+
+Modelo 03 : Autobús Mercedes Benz
+
+2550368 Versión 68 : OH 1626/30 L Alliado 16,000 Kg. PBV
+
+2550370 70 : OMC 1623/58 L Torino 16,000 Kg. PBV
+
+Modelo 09 : Chasis Cabina Freightliner
+
+2550906 Versión 06 : Freightliner 360, 7,255 Kg. PBV
+
+Clave Empresa 57 : Suzuki Motor de México, S.A. de C.V.
+
+Modelo 03 : Swift 5 puertas (importado)
+
+0570303 Versión 03 : Edición aniversario, manual, 5 vel., motor 1.5 lts., 4 cil.
+
+Modelo 04 : Grand Vitara 5 puertas (importado)
+
+0570405 Versión 05 : Típico, GL, aut., 4 vel., motor 2.4 lts., 4 cil.
+
+0570406 06 : Lujo, GLS, aut., 4 vel., motor 2.4 lts., 4 cil.
+
+Modelo 06 : SX4 4 puertas (importado)
+
+0570603 Versión 03 : Sedán, manual, 6 vel., motor 2.0 lts., 4 cil.
+
+0570604 04 : Sedán, aut. CVT, motor 2.0 lts., 4 cil.
+
+Modelo 07 : SX4 5 puertas (importado)
+
+0570703 Versión 03 : X-OVER, manual, 6 vel., motor 2.0 lts., 4 cil.
+
+0570704 04 : X-OVER, aut. CVT, motor 2.0 lts., 4 cil.
+
+Modelo 08 : Kizashi 4 puertas (importado)
+
+0570801 Versión 01 : GL, Sedán, manual, motor 2.4 lts., 4 cil.
+
+0570802 02 : GL, Sedán, trans. automática CVT, motor
+
+2.4 lts., 4 cil.
+
+0570803 03 : GLS, Sedán, trans. automática CVT,
+
+motor 2.4 lts., 4 cil.
+
+Clave Empresa 59 : Mazda Motor de México, S. de R. L. de C.V.
+
+Modelo 01 : Mazda3 4 puertas (importado)
+
+0590109 Versión 09 : “S Grand Touring” automático-sport, piel,
+
+2.5 lts., 4 cil.
+
+Modelo 02 : Mazda3 5 puertas (importado)
+
+0590206 Versión 06 : “S Grand Touring” automático-sport, piel,
+
+2.5 lts., 4 cil.
+
+Modelo 06 : CX-7 4 puertas (importado)
+
+0590601 Versión 01 : “Sport” o “S Sport” automático-sport 6 vel.,
+
+tela, 2.3 lts., 4 cil., Turbo
+
+0590602 02 : “Grand Touring” o “S Grand Touring”
+
+automático-sport 6 vel., piel, 2.3 lts., 4 cil.,
+
+Turbo
+
+0590603 03 : “Grand Touring” o “S Grand Touring”
+
+automático-sport 6 vel., piel, 2.3 lts., 4 cil.,
+
+Turbo, AWD
+
+0590604 04 : “i Sport” automático-sport 5 vel., tela, 2.5 lts.,
+
+4 cil.
+
+Modelo 09 : CX-7 5 puertas (importado)
+
+0590901 Versión 01 : “Sport” o “S Sport” automático-sport 6 vel.,
+
+tela, 2.3 lts., 4 cil., Turbo
+
+0590902 02 : “Grand Touring” o “S Grand Touring”
+
+automático-sport 6 vel., piel, 2.3 lts., 4 cil.,
+
+Turbo
+
+0590903 03 : “Grand Touring” o “S Grand Touring”
+
+automático-sport 6 vel., piel, 2.3 lts., 4 cil.,
+
+Turbo, AWD
+
+0590904 04 : “i Sport” automático-sport 5 vel., tela, 2.5 lts.,
+
+4 cil.
+
+Clave Empresa 61 : SKBC, S.A. de C.V.
+
+Modelo 01 : Fiat Strada 2 puertas
+
+1610103 Versión 03 : Pick Up compacta cabina extendida,
+
+1.8 lts., paquete “STX”: manual, A/C,
+
+radio CD/MP3/Bluetooth, equipo eléctrico,
+
+ABS, Locker
+
+Clave Empresa 63 : Subaru de México, S.A. de C.V.
+
+Modelo 01 : Subaru Legacy 4 puertas
+
+0630107 Versión 07 : Legacy 2.5i, automático, trans. Variable
+
+continua, asientos en piel
+
+0630108 08 : 2.5i Ltd., automático, trans. Variable
+
+continua, asientos en piel
+
+Modelo 02 : Subaru Outback 5 puertas
+
+0630205 Versión 05 : Outback 2.5i, automático, trans.
+
+variable continua, asientos en piel
+
+0630206 06 : Outback 2.5i Ltd., automático, trans.
+
+variable continua, asientos en piel
+
+0630207 07 : Outback 3.6 R, automático, 5 vel.,
+
+asientos en piel
+
+Clave Empresa 64 : Hino Motors Sales México, S.A. de C.V.
+
+Modelo 01 : Chasis Cabina Hino
+
+2640124 Versión 24 : Serie 300 7.2 tons. PBV (versión semi largo)
+
+2640125 25 : Serie 300 A/C, 7.2 tons. PBV (versión semi largo)
+
+Clave Empresa 65 : Man Truck & Bus México, S.A. de C.V.
+
+Modelo 04 : Camión Chasis Cabina Marca MAN (importado)
+
+2650409 Versión 09 : N08 4x2, 17-19 PBV
+
+Clave Empresa 66 : GS Distribución, S.A. de C.V.
+
+Modelo 07 : FAW F3 SL (importado)
+
+0660701 Versión 01 : Comfort Sedán Lujo, 5 vel., 1.3 lts., 4 cil.,
+
+A/C, eléctrico
+
+Clave Empresa 67 : Jaguar Land Rover México, S.A. de C.V.
+
+Modelo 01 : Jaguar 2 puertas (importado)
+
+0670103 Versión 03 : XKR Coupé, V8, motor Super Cargado
+
+5.0 lts., T/A, 6 vel., piel, 8 cil.
+
+0670104 04 : XK Coupé, V8, motor Normalmente Aspirado
+
+5.0 lts., T/A, 6 vel., piel, 8 cil.
+
+0670105 05 : XKR Convertible, V8, motor Super Cargado
+
+5.0 lts., T/A, 6 vel., piel, 8 cil.
+
+0670106 06 : XK Convertible, V8, motor Normalmente
+
+Aspirado 5.0 lts., T/A, 6 vel., piel, 8 cil.
+
+Modelo 02 : Jaguar 4 puertas (importado)
+
+0670207 Versión 07 : XF Premium Luxury Sedán, V8, motor
+
+5.0 lts., T/A, 6 vel., piel, 8 cil.
+
+0670208 08 : XF Supercargado Sedán, SC, motor 5.0 lts.,
+
+T/A, 6 vel., piel, 8 cil.
+
+Modelo 03 : Land Rover 4 puertas (importado)
+
+0670309 Versión 09 : LR4 HSE, V8, motor 5.0 lts., T/A, 7 asientos,
+
+piel, 8 cil.
+
+0670310 10 : LR4 SE, V8, motor 5.0 lts., T/A, 7 asientos,
+
+piel, 8 cil.
+
+0670311 11 : Range Rover HSE, V8, motor 5.0 lts., T/A,
+
+6 vel., piel
+
+0670312 12 : Range Rover SC, V8, motor 5.0 lts. SC,
+
+T/A, 6 vel., piel
+
+0670313 13 : Range Rover Sport HSE, V8, motor 5.0 lts.,
+
+T/A, 6 vel., piel
+
+0670314 14 : Range Rover Sport SC, V8, motor
+
+5.0 lts. SC, T/A, 6 vel., piel
+
+Clave Empresa 68 : Daimler Tractocamiones, S. de R.L. de C.V.
+
+Modelo 01 : Tractocamión marca Freightliner
+
+2680101 Versión 01 : Cascadia, mayor a 14,968.5 Kg. PBV
+
+Clave Empresa 69 : Volvo Auto de México, S.A. de C.V.
+
+Modelo 01 : Volvo C30 2 puertas (importado)
+
+0690101 Versión 01 : Volvo C30, Hatchback, motor 2.4 lts.,
+
+5 cil., T/Geartronic, tela
+
+0690102 02 : Volvo C30, Hatchback, motor 2.5 lts. T5,
+
+5 cil., T/Geartronic, piel
+
+0690103 03 : Volvo C30, Hatchback r-design, motor
+
+2.5 lts. T5, 5 cil., T/M, k-tex
+
+Modelo 02 : Volvo C70 2 puertas (importado)
+
+0690201 Versión 01 : Volvo C70, Convertible, motor 2.5 lts. T5,
+
+5 cil., T/Geartronic, piel
+
+Modelo 03 : Volvo S40 4 puertas (importado)
+
+0690301 Versión 01 : Volvo S40, Sedán Kinetic, motor 2.5 lts.
+
+T5, 5 cil., T/Geartronic, piel
+
+0690302 02 : Volvo S40, Sedán Inspiration, motor 2.5 lts.
+
+T5, 5 cil., T/Geartronic, piel
+
+0690303 03 : Volvo S40, Sedán, motor 2.4 lts.,
+
+5 cil., T/Geartronic, piel
+
+0690304 04 : Volvo S40, Sedán r-design, motor 2.5 lts.
+
+T5, 5 cil., T/Geartronic, k-tex
+
+Modelo 04 : Volvo S80 4 puertas (importado)
+
+0690401 Versión 01 : Volvo S80, Sedán V8, motor 4.4 lts.,
+
+8 cil., T/Geartronic, piel
+
+0690402 02 : Volvo S80, Sedán T6, motor 3.0 lts.,
+
+6 cil., T/Geartronic, piel
+
+Modelo 05 : Volvo XC60 4 puertas (importado)
+
+0690501 Versión 01 : Volvo XC60, T6 AWD, motor 3.0 lts.,
+
+6 cil., T/Geartronic, piel
+
+0690502 02 : Volvo XC60, 3.2 AWD, motor 3.2 lts.,
+
+6 cil., T/Geartronic, piel
+
+Modelo 06 : Volvo XC90 4 puertas (importado)
+
+0690601 Versión 01 : Volvo XC90, FWD, motor 3.2 lts.,
+
+6 cil., T/Geartronic, piel, 7 asientos
+
+0690602 02 : Volvo XC90, AWD, motor 3.2 lts.,
+
+6 cil., T/Geartronic, piel, 7 asientos
+
+0690603 03 : Volvo XC90, AWD, motor 4.4 lts., 8 cil.,
+
+T/Geartronic, piel, 7 asientos
+
+0690604 04 : Volvo XC90 R-Design, AWD, motor 4.4 lts.,
+
+8 cil., T/Geartronic, piel, 7 asientos
+
+Clave Empresa 70 : Hino Motors Manufacturing México, S.A. de C.V.
+
+Modelo 01 : Chasis cabina Hino Serie 500
+
+2700101 Versión 01 : 500 FC6JGSA-NNW (1018G) diesel,
+
+10,400 Kg. PBV
+
+2700102 02 : 500 FC6JJSA-NNW (1018J) diesel,
+
+10,400 Kg. PBV
+
+2700103 03 : 500 FG8JMSB-KGW (1524M) diesel,
+
+15,100 Kg. PBV
+
+2700104 04 : 500 FG8JPSB-KGW (1524P) diesel,
+
+15,100 Kg. PBV
+
+2700105 05 : 500 GH8JMSA-KGW (1724M) diesel,
+
+16,500 Kg. PBV
+
+2700106 06 : 500 GH8JPSA-KGW (1724P) diesel,
+
+16,500 Kg. PBV
+
+2700107 07 : 500 GH8JMSA-QGW (1727M) diesel,
+
+16,500 Kg. PBV
+
+2700108 08 : 500 GH8JPSA-QGW (1727P) diesel,
+
+16,500 Kg. PBV
+
+2700109 09 : 500 GH8JGSD-TGW (1727G) diesel,
+
+16,500 Kg. PBV
+
+Clave Empresa 98 : Empresas ensambladoras e importadoras
+
+de camiones nuevos
+
+Modelo 48 : Camión Foton Ollin
+
+2984807 Versión 07 : Foton Ollín (OLN) 3500 Cabina sencilla,
+
+motor diesel, 4 cil., 3,760 cm3, 6,500 Kg. PBV
+
+2984808 08 : Foton Ollín (OLN) 4500 Cabina sencilla,
+
+motor diesel, 4 cil., 3,760 cm3, 8,200 Kg. PBV
+
+2984809 09 : Foton Ollín (OLN) 5500 Cabina y media,
+
+motor diesel, 4 cil., 3,760 cm3, 10,660 Kg. PBV
+
+2984810 10 : Foton Ollín (OLN) 7000 Cabina techo plano
+
+con dormitorio, motor diesel, 4 cil., 3,760 cm3,
+
+12,400 Kg. PBV
+
+Modelo 61 : Tractocamión/Camión Marca CIA
+
+2986104 Versión 04 : CP Fayad, 310 HP, 26,000 Kg. PBV
+
+2986105 05 : CL Fayad, 130 HP, 7,500 Kg. PBV
+
+Modelo 68 : Autobús Marca Serval
+
+2986801 Versión 01 : SV-200/D, Autobús Chato, motor
+
+delantero, 14,000 Kg. PBV
+
+2986802 02 : SV-200/T, Autobús Chato, motor trasero,
+
+A/C, audio y video, 14,000 Kg. PBV
+
+2986803 03 : SV-300/L, Autobús Chato, motor trasero,
+
+14,000 Kg. PBV
+
+2986804 04 : SV-400/2, Autobús Chato, motor trasero,
+
+16,000 Kg. PBV
+
+2986805 05 : SV-400/3, Autobús Chato, motor trasero,
+
+18,000 Kg. PBV
+
+2986806 06 : SV-Aerocar, Autobús Chato, motor
+
+trasero, servicio interno en aeropuertos
+
+14,000 Kg. PBV
+
+2986807 07 : SV-4700TC, Autobús, motor delantero,
+
+turismo, 14,000 Kg. PBV
+
+2986808 08 : SV-4700, Autobús, motor delantero,
+
+14,000 Kg. PBV
+
+Modelo 69 : Autobús Marca Kateno
+
+2986901 Versión 01 : Chasis Control delantero, 4,535 Kg. PBV
+
+2986902 02 : Chasis Control trasero, 8,391 Kg. PBV
+
+Modelo 71 : Camión Híbrido Marca Vehizero
+
+2987101 Versión 01 : Chasis Cabina, motor eléctrico 26.5 HP,
+
+motor de combustión interna 1 cil., 9 HP,
+
+manual
+
+Atentamente.
+
+México, D. F., a 21 de diciembre de 2009.- En ausencia del Jefe del Servicio de Administración Tributaria y del Administrador General de Grandes Contribuyentes, con fundamento en el artículo 8 del Reglamento Interior del Servicio de Administración Tributaria, firma Jesús Rojas Ibañez, Administrador General Jurídico.- Rúbrica.
