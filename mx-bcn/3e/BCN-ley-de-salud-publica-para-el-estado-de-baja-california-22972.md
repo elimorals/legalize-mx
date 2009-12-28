@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2009-11-13"
+last_updated: "2009-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -405,15 +405,19 @@ II.- Las actividades recreativas, de esparcimiento y culturales destinadas a for
 
 III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MAYO DE 2006)</small>
-
-IV.- La suspensión de la calidad nutricional de los alimentos que se proporcionan o venden a los niños en las instituciones educativas de conformidad a lo dispuesto en las Normas Oficiales Mexicanas, a fin de evitar aquellos, que a criterio de la propia Secretaría de Salud del Estado, causen daño a la salud ya sea por su contenido o por las prácticas de higiene y sanidad en su preparación, de conformidad con los lineamientos que en la materia se expidan; y,
+IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 28 DE DICIEMBRE DE 2009)
 
 V.- Las demás que coadyuven a la protección de la salud materno-infantil.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 25.
 
-En materia de higiene escolar, corresponde a la Secretaría de Salud del Estado y Autoridades Educativas, observar las normas oficiales mexicanas para proteger la salud del educando y de la comunidad escolar.
+En materia de salud escolar, corresponde a la Secretaría de Salud del Estado y autoridades educativas, observar las normas oficiales mexicanas para proteger la salud del educando y de la comunidad escolar.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+Corresponde a la Secretaría de Salud del Estado, emitir los lineamientos y recomendaciones en materia de nutrición escolar, así como hacerlos llegar de forma oficial a las autoridades e instituciones educativas para su implementación.
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre la Secretaría de Salud del Estado y las Autoridades Educativas competentes.
 
@@ -2066,3 +2070,7 @@ PRIMERO.- Las presentes reformas entrarán en vigor, al día siguiente de su pub
 SEGUNDO.- Los centros de desarrollo infantil, estancias, guarderías o lugares en donde se presten estos servicios, cualquiera que sea su denominación, contarán con un plazo de un año a partir de la publicación de las presentes reformas, para regularizar su funcionamiento de conformidad con las nuevas disposiciones en la materia.
 
 TERCERO.- La Secretaría de Salud dentro del plazo de 180 días contados a partir de la entrada en vigor de las presentes reformas, expedirá el reglamento interno e instalará el Consejo Consultivo para los Centros de Desarrollo Infantil y Estancias Infantiles Familiares en el Estado.
+
+P.O. 28 DE DICIEMBRE DE 2009.
+
+Único.- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
