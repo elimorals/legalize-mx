@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-para-la-proteccion-y-preservacion-del-4497
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-24"
-last_updated: "2009-05-01"
+last_updated: "2009-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44973&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO EN MATERIA DE PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO EN MATERIA DE PREVENCION Y CONTROL DE LA CONTAMINACION DE LA ATMOSFERA, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 24 de mayo de 2005.
 
@@ -804,3 +806,21 @@ Periódico Oficial del Gobierno del Estado.
 Artículo Segundo. Para efectos de la renovación de las autorizaciones en los términos de este Reglamento, cuyos efectos serán a partir del año 2010, por única ocasión los titulares de la autorización deberán acudir al Instituto durante el mes de septiembre de 2009 a presentar su solicitud y el Instituto deberá resolverlas a más tardar el quince de diciembre del mismo año.
 
 Artículo Tercero. Se deroga el Título Tercero y demás disposiciones del reglamento de la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato en materia de Prevención y Control de la Contaminación de la Atmósfera, contenidas en el Decreto Gubernativo Número 224, publicado en el Periódico Oficial del Gobierno del Estado Número 82, Tercera Parte de fecha 24 de mayo del 2005, que se opongan a este instrumento.
+
+P.O. 28 DE DICIEMBRE DE 2009.
+
+Inicio de vigencia del Reglamento
+
+Artículo Primero. El presente Reglamento entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de Reglamento
+
+Artículo Segundo. Se abroga el Decreto Gubernativo Número 224, mediante el cual se expide el Reglamento de la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato en materia de Prevención y Control de la Contaminación de la Atmósfera, publicado en el Periódico Oficial del Gobierno del Estado número 82, Tercera Parte, de fecha 24 de mayo del 2005.
+
+Culminación de procedimientos previos a la vigencia de este Reglamento
+
+Artículo Tercero. Los procedimientos que se estén llevando en trámite ante el Instituto a la entrada en vigor del presente Reglamento, se substanciarán conforme a las disposiciones del Ordenamiento que se abroga hasta su debida conclusión.
+
+Periodo para solicitar la nueva Licencia Ambiental de Funcionamiento
+
+Artículo Cuarto. Los propietarios de fuentes fijas, que cuenten con Licencia Ambiental de Funcionamiento a la entrada en vigor del presente Reglamento, deberán solicitar a partir del siete de enero hasta el veintiocho de febrero del año 2010 su Licencia en los términos del presente Reglamento.
