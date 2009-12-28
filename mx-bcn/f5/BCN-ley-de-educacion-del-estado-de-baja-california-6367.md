@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2009-10-09"
+last_updated: "2009-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -89,13 +89,19 @@ III.- Otorgar apoyos pedagógicos a grupos con requerimientos educativos especí
 
 IV.- Establecerá sistemas de educación a distancia.
 
-V.- Efectuará programas dirigidos a los Padres de Familia, que les permitan dar mejor atención a sus hijos, y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+V.- Efectuará programas dirigidos a los Padres de Familia, que les permitan dar mejor atención a sus hijos.
 
 VI.- Realizará las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos, incluyendo los desayunos escolares para las zonas urbanas y rurales que lo requieran.
 
 > <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2004)</small>
 
 VII.- Atenderá de manera especial, las escuelas en las que se imparta educación especial, o aquellas que acepten para su integración a alumnos con capacidades diferentes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Impulsar acciones para vigilar el procesamiento y expendio de los alimentos en las escuelas, conforme a las normas oficiales mexicanas, lineamientos y recomendaciones en materia de nutrición escolar que emita la Secretaría de Salud del Estado, para fomentar la sana alimentación de los educandos.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -1156,3 +1162,7 @@ P.O. 25 DE JULIO DE 2008.
 P.O. 9 DE OCTUBRE DE 2009.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2009.
+
+Único.- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
