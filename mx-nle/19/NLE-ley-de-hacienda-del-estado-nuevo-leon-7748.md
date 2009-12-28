@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2008-12-19"
+last_updated: "2009-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -427,7 +427,7 @@ X.- Los ingresos procedentes de la venta o del arrendamiento de bienes inmuebles
 
 No quedan comprendidos en esta franquicia:
 
-a) Los ingresos provenientes del arrendamiento de casas o apartamientos amueblados, así como los destinados al hospedaje, ni aún cuando tales percepciones las obtengan las instituciones a que se refiere la Fracción XII de este Artículo:
+a) Los ingresos provenientes del arrendamiento de casas o apartamientos amueblados, así como los destinados al hospedaje, ni aun cuando tales percepciones las obtengan las instituciones a que se refiere la Fracción XII de este Artículo:
 
 b) Las ventas de lotes de terreno a los particulares en los panteones, verificadas por las personas dedicadas a dicha actividad;
 
@@ -1264,6 +1264,30 @@ III.- Presentar los avisos, datos, documentos e informes que les soliciten las a
 IV.- Los contribuyentes deberán presentar aviso de apertura o cierre de sucursales, bodegas, agencias u otras dependencias de la matriz, en la forma que al efecto apruebe la Secretaría de Finanzas y Tesorería General del Estado y pagarán el impuesto correspondiente en la declaración que presenta la matriz. Cuando la misma se encuentre fuera del territorio del Estado, deberá inscribirse una de las sucursales, para efectos del pago del impuesto correspondiente al territorio del Estado.
 
 V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 159 Bis.
+
+Los contribuyentes que otorguen apoyos para la creación de obras literarias o artísticas de autores nuevoleoneses podrán acreditar, contra el impuesto sobre nóminas a su cargo, una cantidad equivalente al 80% del apoyo otorgado, conforme a lo siguiente:
+
+1.- El monto total del estímulo fiscal a distribuir no excederá de $6,000,000.00 anuales;
+
+2.- El monto anual del apoyo susceptible de aplicarse al estímulo fiscal no podrá exceder de $500,000.00 por creador ni por proyecto; y
+
+3.- El monto a acreditarse no podrá exceder del 10% del impuesto sobre nómina a cargo del contribuyente.
+
+Los estímulos previstos en este artículo podrán aplicarse a los procesos de creación de obras artísticas a que se refiere la Ley Federal del Derecho de Autor, en las ramas literaria, musical, dramática, danza, pictórica o de dibujo, escultórica y de carácter plástico, caricatura e historieta, guión cinematográfico y fotografía. Para los efectos de este artículo, no se considerará como creación literaria ni artística la interpretación, la ejecución, la reproducción, la divulgación o la difusión de dichas obras ni quedarán incluidas las obras que resulten de la adaptación o transformación de obras originales, tales como arreglos, compendios, ampliaciones, traducciones, adaptaciones, paráfrasis, compilaciones y colecciones de obras literarias o artísticas.
+
+Los apoyos serán inembargables, deberán proporcionarse en dinero y el contribuyente podrá optar por entregarlos directamente al creador o hacerlo a través del Consejo para la Cultura y las Artes de Nuevo León, conforme a las reglas de operación que este organismo expida.
+
+Los apoyos otorgados en los términos previstos en este artículo no podrán acumularse a otros estímulos que se otorguen en relación con diversas contribuciones federales, estatales o municipales.
+
+Corresponderá al Consejo para la Cultura y las Artes de Nuevo León la autorización de los proyectos de creación literaria y artística y el establecimiento de los requisitos y trámites que deberán cumplir los interesados para hacerse merecedores del estímulo fiscal.
+
+El Consejo para la cultura y las Artes de Nuevo León deberá publicar en su página de Internet, dentro de los meses de julio y enero de cada año, un informe que contenga los montos erogados durante el primero y segundo semestres del ejercicio fiscal respectivo, según corresponda, así como las personas beneficiadas con el otorgamientos (sic) del estímulo fiscal y los proyectos de creación artística y literaria de dicho estímulo.
+
+La Secretaría de Finanzas y Tesorería General del Estado, con base en su disponibilidad presupuestal, podrá ampliar las cantidades previstas en el presente artículo. Asimismo en el ejercicio de sus facultades, verificará el correcto uso del estímulo fiscal.
 
 ###### ARTICULO 160.
 
@@ -2155,7 +2179,7 @@ b) Por el excedente de N$ 50,000.00, por cada millar o fracción ….. N$ 5.00
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-c) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja ..... .5 cuotas
+c) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja ....... 5 cuotas
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2203,7 +2227,7 @@ VI.- Por ratificación de firmas ante el Registrador, en los casos a que se refi
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-VII.- Por el Registro de subdivisiones de predios, por cada lote resultante… .57 cuotas
+VII.- Por el Registro de subdivisiones de predios, por cada lote resultante….... 57 cuotas
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2213,11 +2237,11 @@ A.- Fraccionamientos habitacionales:
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-a) Con lotes cuya superficie promedio sea mayor de 250 metros cuadrados…. .5 cuotas
+a) Con lotes cuya superficie promedio sea mayor de 250 metros cuadrados…...... 5 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-b) Con lotes cuya superficie promedio sea hasta 250 metros cuadrados .. .28 cuotas
+b) Con lotes cuya superficie promedio sea hasta 250 metros cuadrados ........ 28 cuotas
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2225,7 +2249,7 @@ B.- Fraccionamientos comerciales, industriales y campestres ….. 1 cuota
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-C.- Cementerios… .23 cuotas
+C.- Cementerios…....23 cuotas
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2257,7 +2281,7 @@ XII.- Por inscripción de avisos preventivos, por cada lote o inmueble ….. 3 c
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-XIII.- Por la búsqueda de antecedentes registrales… .93 cuotas
+XIII.- Por la búsqueda de antecedentes registrales…...93 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2277,7 +2301,7 @@ b) Expedición de copias de registro de antecedentes, por cada una ….. 0.07 cu
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-c) Información de datos de antecedentes registrales... .70 cuotas
+c) Información de datos de antecedentes registrales........70 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2467,7 +2491,7 @@ I.- Por certificación de constancia 2.5 cuotas
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-II.- Por expedición de Segundos Testimonios, por hoja.… .46 cuotas
+II.- Por expedición de Segundos Testimonios, por hoja.….46 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2493,7 +2517,7 @@ I.- Constancias de Estudios:
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
 
-a) Constancias, Certificaciones o Revalidaciones de Estudios de Primaria y Secundaria, por cada un 0.50 cuotas
+a) Constancias, Certificaciones o Revalidaciones de Estudios de Primaria y Secundaria, por cada una 0.50 cuotas
 
 2. Escuelas Técnicas y Comerciales:
 
@@ -2975,7 +2999,7 @@ b) Tamaño oficio 0.017 cuotas
 
 II. Copias a color por hoja:
 
-a) Tamaño carta. 0.024cuotas
+a) Tamaño carta. 0.024 cuotas
 
 b) Tamaño oficio. 0.034 cuotas
 
@@ -3547,7 +3571,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 Artículo Primero.- Esta Ley entrará en vigor el 1° de enero del año 2004.
 
-Artículo Cuarto.- Durante el año 2004, y mientras permanezca en vigor la Coordinación en Materia Federal de Derechos entre la Federación y el Estado de Nuevo León a que se contrae la declaratoria emitida por el Secretario de Hacienda y Crédito Publico, con fecha 12 de septiembre de 1994, en los términos previstos en la Ley de Coordinación Fiscal, se suspende la vigencia de los derechos contenidos en los Artículos 267; 268; 274; 275 Bis, fracción II y 277, fracciones III, IV, VIII y IX de la Ley de Hacienda del Estado.
+Artículo Cuarto.- Durante el año 2004, y mientras permanezca en vigor la Coordinación en Materia Federal de Derechos entre la Federación y el Estado de Nuevo León a que se contrae la declaratoria emitida por el Secretario de Hacienda y Crédito Público, con fecha 12 de septiembre de 1994, en los términos previstos en la Ley de Coordinación Fiscal, se suspende la vigencia de los derechos contenidos en los Artículos 267; 268; 274; 275 Bis, fracción II y 277, fracciones III, IV, VIII y IX de la Ley de Hacienda del Estado.
 
 Artículo Quinto.- Si se da por terminada la Coordinación en Materia Federal de Derechos, entre la Federación y el Estado de Nuevo León a que se refiere el transitorio que antecede, entrando en vigor nuevamente desde el día siguiente al en que surta sus efectos la terminación de la citada Coordinación, los derechos contenidos en los Artículos 267; 268; 274; 275 Bis, fracción II y 277, fracciones III, IV, VIII y IX de la Ley de Hacienda del Estado.
 
@@ -3596,5 +3620,9 @@ P.O. 10 DE OCTUBRE DE 2007.
 Artículo Único.- El presente Decreto entrará en vigor a partir del día 01 de enero del 2008.
 
 P.O. 19 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
