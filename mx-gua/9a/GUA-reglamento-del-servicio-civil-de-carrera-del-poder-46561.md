@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-servicio-civil-de-carrera-del-poder-46561"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-27"
-last_updated: "2008-06-10"
+last_updated: "2009-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO CIVIL DE CARRERA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de septiembre del 2005.
 
@@ -748,3 +750,17 @@ P.O. 10 DE JUNIO DE 2008.
 Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Cualquier referencia que en circulares, acuerdos y demás instrumentos administrativos se haga a la Unidad del Servicio Civil de Carrera, se entenderá hecha a la Dirección del Servicio Civil de Carrera.
+
+P.O. 28 DE DICIEMBRE DE 2009.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Reglamento iniciará su vigencia el 1 de enero de 2010, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del reglamento vigente.
+
+Artículo Segundo. Se abroga el Reglamento del Servicio Civil de Carrera del Poder Ejecutivo del Estado de Guanajuato, contenido en el Decreto Gubernativo 238, publicado el 27 de septiembre de 2005, en el Periódico Oficial del Gobierno del Estado número 154, Segunda Parte.
+
+Ultractivídad de disposiciones administrativas
+
+Artículo Tercero. En tanto se expiden las disposiciones administrativas señaladas en el presente Reglamento, se continuarán aplicando las emitidas con anterioridad en lo que no se opongan o contravengan al mismo.
