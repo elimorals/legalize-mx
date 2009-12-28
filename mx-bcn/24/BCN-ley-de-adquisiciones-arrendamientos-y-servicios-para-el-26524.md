@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2009-11-13"
+last_updated: "2009-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -227,7 +227,11 @@ II.- Revisar los programas y presupuestos de adquisiciones, arrendamientos y ser
 
 III.- Dictaminar previamente a la iniciación del procedimiento, sobre la improcedencia de celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 38 de esta Ley, salvo en los casos de las fracciones II y IV del mismo precepto, en cuyo caso se deberá informar al Comité una vez concluida la contratación respectiva;
 
-IV.- Proponer y aplicar las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios;
+IV.- Proponer y aplicar las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+El Comité procurará incorporar en dichas políticas, bases y lineamientos, aspectos de sustentabilidad ambiental que deberán observarse en las adquisiciones, arrendamientos y servicios, con el objeto de optimizar y utilizar de forma sustentable los recursos para disminuir costos financieros y ambientales;
 
 V.- Analizar exclusivamente para su opinión, cuando se le solicite, los dictámenes y fallos emitidos por los servidores públicos responsables de ello;
 
@@ -274,6 +278,10 @@ El Comité pondrá a disposición pública a través de medios electrónicos, la
 ###### ARTÍCULO 22.
 
 Las adquisiciones, arrendamientos y servicios, se contratarán por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado o a través de medios electrónicos, que será abierto públicamente, a fin de asegurar al sujeto obligado, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, garantías, formas de pago, oportunidad y demás circunstancias que se estimen pertinentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+En las adquisiciones, arrendamientos y servicios, se procurará además, que éstos garanticen la eficiencia energética, uso responsable del agua, optimización y uso sustentable de los recursos.
 
 La proposición a que hace referencia este artículo podrá entregarse, a elección del licitante, en sobre cerrado en el lugar de celebración del acto de presentación y apertura de proposiciones; o bien, si así lo establece el Comité, enviarlo a través del servicio postal o de mensajería, o por medios electrónicos, conforme a las disposiciones técnicas y administrativas que establezca la unidad administrativa.
 
@@ -1026,3 +1034,7 @@ P.O. 13 DE NOVIEMBRE DE 2009.
 PRIMERO.- Las presentes reformas a la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. 28 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
