@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2003-02-28"
+last_updated: "2009-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -251,13 +251,39 @@ XVIII. Provisiones: Las áreas que serán utilizadas para la fundación de un ce
 
 XIX. Reservas territoriales: Las áreas de un centro de población que serán utilizadas para su futuro crecimiento y se integren al sistema de suelo para el desarrollo urbano y la vivienda;
 
-XX. Servicios urbanos: Las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades colectivas en los centros de población;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-XXI. Suelo urbanizado: Todo aquel terreno que ha recibido la acción de urbanización y que es susceptible de ser incorporado o reincorporado al municipio;
+XX. Secretaría: La Secretaría de Infraestructura y Desarrollo Urbano del Estado;
 
-XXII. Zonificación: La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-XXIII. Usos: Los fines particulares a que podrán destinarse determinadas zonas, áreas y predios de un centro de población.
+XXI. Servicios urbanos: Las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades colectivas en los centros de población;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XXII. Suelo urbanizado: Todo aquel terreno que ha recibido la acción de urbanización y que es susceptible de ser incorporado o reincorporado al municipio;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XXIII. Zonificación: La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XXIV. Usos: Los fines particulares a que podrán destinarse determinadas zonas, áreas y predios de un centro de población;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XXV. Zona Metropolitana: Es el espacio territorial de influencia dominante de un centro de población; pudiendo constituirse en cualquiera de los siguientes casos:
+
+Cuando uno o más municipios, demarcaciones territoriales o asentamientos humanos en los que se localiza una ciudad de 50 mil o más habitantes, cuya área urbana, funciones y actividades rebasan el límite del centro de población, municipio o demarcación que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a poblados o municipios vecinos, predominantemente urbanos, con los que mantiene un alto grado de integración socioeconómica; o
+
+En aquéllos poblados o municipios, demarcaciones territoriales o asentamientos humanos que cuenten con una cuidad de un millón o más de habitantes, o
+
+En aquéllos poblados, municipios, demarcaciones territoriales o asentamientos humanos que cuenten con ciudades de 250 mil o más habitantes y que comparten procesos de conurbación con ciudades de Estados Unidos de América;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XXVI. Zona Conurbada o Metropolitana Interestatal: Aquella zona conurbada o metropolitana cuyos límites colinden con otra entidad federativa. Para su planeación y desarrollo se estará, además de lo dispuesto en la presente la Ley, a lo dispuesto en la Ley General de Asentamientos Humanos.
 
 ### CAPITULO SEGUNDO. De la concurrencia y competencia de las autoridades y órganos auxiliares
 
@@ -271,11 +297,17 @@ II. El Gobernador del Estado;
 
 III. Los Ayuntamientos del Estado;
 
-IV. La Secretaría de Asentamientos Humanos y Obras Públicas del Estado; y,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-V. La Comisión Coordinadora de Desarrollo Urbano del Estado;
+IV. La Secretaría;
 
-VI. La Dirección General de Ecología del Estado.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+V. La Comisión Coordinadora de Desarrollo Urbano del Estado; y,
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+VI. La Secretaría de Protección al Ambiente del Estado.
 
 ###### ARTICULO 8.
 
@@ -289,7 +321,9 @@ I. Dictar los Decretos sobre la fundación de nuevos centros de población previ
 
 II. Dictar los Decretos sobre los límites de los centros de población, así como su modificación a propuesta de los Ayuntamientos, previo dictamen técnico de congruencia del Ejecutivo del Estado;
 
-III. Aprobar los límites de las zonas de conurbación intermunicipal con base en el proyecto de declaratoria que formule el Ejecutivo del Estado, para reconocer su existencia o el Acuerdo que celebre el Ejecutivo del Estado con los Ayuntamientos involucrados, conforme a lo dispuesto en el Título Tercero de esta Ley;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+III. Aprobar los límites de las zonas de conurbación intermunicipales y los de las Zonas Metropolitanas, con base en el proyecto de declaratoria que formule el Ejecutivo del Estado, para reconocer su existencia o el acuerdo que celebre el Ejecutivo del Estado con los Ayuntamientos involucrados, conforme a lo dispuesto en el Título Tercero, de esta Ley;
 
 IV. Resolver las diferencias que sobre la materia de la presente Ley existan entre las autoridades estatales y municipales; y,
 
@@ -317,9 +351,13 @@ VIII. Aprobar, ejecutar, controlar, evaluar y revisar los Programas Parciales qu
 
 IX. Ordenar la inscripción en el Registro Público de la Propiedad y del Comercio y disponer la publicación de los Planes y Programas de Desarrollo Urbano a que se refiere el Artículo 24 del presente ordenamiento, las declaratorias y todas aquellas resoluciones que de acuerdo con esta Ley corresponda al Ejecutivo;
 
-X. Extender a los Ayuntamientos a través de la Secretaría de Asentamientos Humanos y Obras Públicas, el dictamen técnico de congruencia correspondiente a permisos y licencias de uso del suelo y edificaciones que por sus características, impacto en el ambiente o en la estructura urbana, se consideran, en los términos de la presente Ley y demás disposiciones relativas, como de importancia estatal o se ubiquen fuera de los límites de los centros de población;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-XI. Otorgar o negar a través de la Secretaría de Asentamientos Humanos y Obras Públicas o la Dirección General de Ecología del Estado, según corresponda, las autorizaciones sobre todo tipo de acciones de urbanización y edificación que se ubiquen fuera de los centros de población, o que afecten las áreas naturales protegidas declaradas así por la Federación, el Estado o los Municipios, o las que se destinen a industrias de alto riesgo, extractivas o de transformación y que puedan tener un impacto negativo en el medio ambiente, sin importar su ubicación, incluidos o no, en el Plan y los Programas de Desarrollo Urbano Estatal, Regional, Municipal o de Centros de Población;
+X. Extender a los Ayuntamientos a través de la Secretaría, el dictamen técnico de congruencia correspondiente a permisos y licencias de uso del suelo y edificaciones que por sus características, impacto en el ambiente o en la estructura urbana, se consideran, en los términos de la presente Ley y demás disposiciones relativas, como de importancia estatal o se ubiquen fuera de los límites de los centros de población;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XI. Otorgar o negar a través de la Secretaría o la Secretaría de Protección al Ambiente del Estado, según corresponda, las autorizaciones sobre todo tipo de acciones de urbanización y edificación que se ubiquen fuera de los centros de población, o que afecten las áreas naturales protegidas declaradas así por la Federación, el Estado o los Municipios, o las que se destinen a industrias de alto riesgo, extractivas o de transformación y que puedan tener un impacto negativo en el medio ambiente, sin importar su ubicación, incluidos o no, en el Plan y los Programas de Desarrollo Urbano Estatal, Regional, Municipal o de Centros de Población;
 
 XII. Revisar y publicar los Acuerdos de autorización para realizar acciones de urbanización expedidos por los Ayuntamientos, o por el propio Estado, así como ordenar su registro y autorizar la enajenación de los lotes resultantes;
 
@@ -327,11 +365,17 @@ XIII. Celebrar convenios con los Municipios del Estado, con otras Entidades Fede
 
 XIV. Apoyar y asesorar a los Ayuntamientos en la elaboración de sus Planes y Programas de Desarrollo Urbano;
 
-XV. Participar con los Gobiernos Municipales, las Entidades Federativas y la Federación en la ordenación y regulación de las conurbaciones interestatales, en los términos de la Ley General de Asentamientos Humanos;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-XVI. Reconocer mediante declaratoria la existencia de un fenómeno de conurbación, respecto de los centros de población situados en el territorio de dos o más municipios de la entidad;
+XV. Participar con los Gobiernos Municipales, las Entidades Federativas y la Federación en la ordenación y regulación de las conurbaciones o Zonas Metropolitanas interestatales, en los términos de la Ley General de Asentamientos Humanos;
 
-XVII. Promover ante el Congreso del Estado la fijación o modificación de los límites de las zonas conurbadas municipales;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XVI. Reconocer mediante declaratoria, la existencia de un fenómeno de conurbación o Zona Metropolitana, respecto de los centros de población situados en el territorio de dos o más municipios de la entidad;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XVII. Promover ante el Congreso del Estado, la fijación o modificación de los límites de las zonas conurbadas municipales y de las Zonas Metropolitanas;
 
 XVIII. Participar en forma conjunta y coordinada con los Ayuntamientos, en la ordenación y regulación de los centros de población ubicados en una zona conurbada intermunicipal;
 
@@ -349,13 +393,17 @@ XXIV. Elaborar, aprobar, ejecutar, evaluar y revisar los Programas Regionales y 
 
 XXV. Ofertar y promover terrenos y construcciones en acciones de interés social, especialmente los destinados a la vivienda popular;
 
-XXVI. Coordinar las políticas y prácticas del Registro Público de la Propiedad y del Comercio, de la Secretaría de Asentamientos Humanos y Obras Públicas y de las Dependencias de Catastro Municipal mediante convenio con los Ayuntamientos respectivos, para hacer efectivas las disposiciones expedidas, a fin de ordenar y regular los centros de población en el Estado, expresadas en los Planes y Programas de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XXVI. Coordinar las políticas y prácticas del Registro Público de la Propiedad y de Comercio, de la Secretaría y de las Dependencias de Catastro Municipal mediante convenio con los Ayuntamientos respectivos, para hacer efectivas las disposiciones expedidas, a fin de ordenar y regular los centros de población en el Estado, expresadas en los Planes y Programas de Desarrollo Urbano;
 
 XXVII. Promover obras para que los habitantes de la Entidad cuenten con una vivienda digna, espacios adecuados para el trabajo, áreas de esparcimiento y recreación, el equipamiento indispensable para la vida de la comunidad y los medios de comunicación y transporte que se requieran;
 
 XXVIII. Promover y constituir asociaciones con particulares o entidades públicas, para convenir y coordinar la realización de acciones de urbanización y vivienda de interés público y de objetivo social;
 
-XXIX. Convenir con los municipios para que la Secretaría de Asentamientos Humanos y Obras Públicas asuma las funciones técnicas que les correspondan en la aplicación de esta Ley;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XXIX. Convenir con los municipios para que la Secretaría asuma las funciones técnicas que les correspondan en la aplicación de esta Ley;
 
 XXX. Cumplir con las disposiciones de esta Ley, expidiendo los reglamentos en los aspectos que no estén encomendados expresamente a los Ayuntamientos o a otra entidad pública;
 
@@ -395,7 +443,9 @@ XI. Participar en la ordenación y regulación de las zonas conurbadas que inclu
 
 XII. Solicitar al Gobierno del Estado el apoyo necesario para cumplir con las finalidades de esta Ley en el ámbito de su jurisdicción, mediante la celebración del convenio de coordinación que corresponda;
 
-XIII. Solicitar a la Secretaría de Asentamientos Humanos y Obras Públicas, la asesoría y apoyo técnico que requiera para elaborar su Plan y sus Programas de Desarrollo Urbano, aplicarlos, controlarlos, evaluarlos y revisarlos, conforme a los convenios de coordinación que celebre con el Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XIII. Solicitar a la Secretaría, la asesoría y apoyo técnico que requiera para elaborar su Plan y sus Programas de Desarrollo Urbano, aplicarlos, controlarlos, evaluarlos y revisarlos, conforme a los convenios de coordinación que celebre con el Ejecutivo Estatal;
 
 XIV. Celebrar con el Gobierno del Estado y con su concurrencia con la Federación y los Gobiernos de otras Entidades Federativas, los convenios que apoyen los objetivos y prioridades propuestos en los Planes y Programas de Desarrollo Urbano que se ejecuten en su territorio municipal, de conformidad con esta Ley y demás ordenamientos aplicables;
 
@@ -435,9 +485,13 @@ XXXI. Acordar la incorporación o reincorporación de áreas o predios donde se 
 
 XXXII. Acordar la recepción de las acciones de urbanización;
 
-XXXIII. Convenir con el Ejecutivo del Estado, que la Secretaría de Asentamientos Humanos y Obras Públicas por un período que no podrá exceder a su gestión constitucional, desempeñe las funciones técnicas que le corresponden en la aplicación de esta Ley;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-XXXIV. Solicitar a la Secretaría de Asentamientos Humanos y Obras Públicas el dictamen técnico de congruencia correspondiente a los permisos y licencias de uso del suelo y edificaciones, que por sus características o impacto en el ambiente o en la estructura urbana, se consideren de importancia estatal o se ubiquen fuera de los perímetros de los centros de población en los términos de esta Ley y no estén previstos en los diferentes Planes o Programas del Desarrollo Urbano Municipal, declaratorias correspondientes y demás disposiciones relativas;
+XXXIII. Convenir con el Ejecutivo del Estado, que la Secretaría por un período que no podrá exceder a su gestión constitucional, desempeñe las funciones técnicas que le corresponden en la aplicación de esta Ley;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XXXIV. Solicitar a la Secretaría el dictamen técnico de congruencia correspondiente a los permisos y licencias de uso del suelo y edificaciones, que por sus características o impacto en el ambiente o en la estructura urbana, se consideren de importancia estatal o se ubiquen fuera de los perímetros de los centros de población en los términos de esta Ley y no estén previstos en los diferentes Planes o Programas del Desarrollo Urbano Municipal, declaratorias correspondientes y demás disposiciones relativas;
 
 XXXV. Proveer en el ámbito de su competencia, el cumplimiento de las disposiciones de esta Ley;
 
@@ -447,9 +501,11 @@ XXXVII. Tramitar y resolver los recursos administrativos previstos en esta Ley; 
 
 XXXVIII. Las demás atribuciones que le señale esta Ley, sus normas y disposiciones reglamentarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 12.
 
-La Secretaría de Asentamientos Humanos y Obras Públicas del Estado es la dependencia de la Administración Pública Estatal, que tiene a su cargo ejecutar la política del Gobierno del Estado en el sector de desarrollo urbano y vivienda. Sus atribuciones serán las siguientes:
+La Secretaría es la dependencia de la Administración Pública Estatal, que tiene a su cargo ejecutar la política del Gobierno del Estado en el sector de desarrollo urbano y vivienda. Sus atribuciones serán las siguientes:
 
 I. Elaborar en los términos que fija esta Ley, el Plan Estatal de Desarrollo Urbano para someterlo al dictamen de la Comisión Coordinadora de Desarrollo Urbano del Estado;
 
@@ -473,31 +529,43 @@ X. Apoyar a los Ayuntamientos que lo soliciten, en la elaboración de los distin
 
 XI. Otorgar a la autoridad competente la información necesaria para la realización del Plan de Ordenamiento Ecológico del Estado;
 
-XII. Intervenir en la ordenación y regularización de las zonas conurbadas interestatales;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XII. Intervenir en la ordenación y regularización de las zonas conurbadas y metropolitanas interestatales;
 
 XIII. Determinar las infracciones y sanciones, adoptar y ejecutar las medidas de seguridad en el ámbito de su competencia en los términos de esta Ley y demás normas legales y reglamentos aplicables; y,
 
 XIV. Las demás atribuciones que le señale esta ley y otras normas legales y reglamentarias aplicables e intervenir en los asuntos que sobre la materia le encomiende el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 13.
 
-El titular de la Secretaría de Asentamientos Humanos y Obras Públicas ejercerá las facultades de su competencia y podrá delegar en sus subalternos cualesquiera de éstas, salvo aquellas que expresamente sean indelegables de acuerdo con la Ley Orgánica de la Administración Pública del Estado y demás Leyes relativas.
+El titular de la Secretaría ejercerá las facultades de su competencia y podrá delegar en sus subalternos cualesquiera de éstas, salvo aquellas que expresamente sean indelegables de acuerdo con la Ley Orgánica de la Administración Pública del Estado y demás Leyes relativas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 14.
 
-Se crea la Comisión Coordinadora de Desarrollo Urbano del Estado, quien para el mejor desempeño de sus atribuciones, coordinará sus programas de trabajo y acciones con los Ayuntamientos involucrados y con la Secretaría de Asentamientos Humanos y Obras Públicas en el ámbito de sus respectivas competencias, con el objeto de lograr una gestión más eficaz como organismo de coordinación gubernamental.
+Se crea la Comisión Coordinadora de Desarrollo Urbano del Estado, quien para el mejor desempeño de sus atribuciones, coordinará sus programas de trabajo y acciones con los Ayuntamientos involucrados y con la Secretaría en el ámbito de sus respectivas competencias, con el objeto de lograr una gestión más eficaz como organismo de coordinación gubernamental.
 
 La Comisión Coordinadora de Desarrollo Urbano del Estado se integrará por:
 
-I. El Secretario de Asentamientos Humanos y Obras Públicas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-II. El Subsecretario de Obras Públicas, los Directores de los Organismos y Entidades Paraestatales de su sector; Comisiones Estatales de Servicios Públicos, las Inmobiliarias del Estado, Promotora Estatal para el Desarrollo de las de Comunidades Rurales y Populares, Comisión para la Regularización de la Tenencia de la Tierra del Estado, Dirección General de Ecología y Dirección de Tránsito y Transportes del Estado;
+I. El titular de la Secretaría;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+II. Un Subsecretario de la Secretaría, los Directores de los Organismos y Entidades Paraestatales de su sector; Comisiones Estatales de Servicios Públicos, las Inmobiliarias del Estado, Promotora Estatal para el Desarrollo de las de Comunidades Rurales y Populares, Comisión para la Regularización de la Tenencia de la Tierra del Estado, Secretaría de Protección al Ambiente y Dirección de Tránsito y Transportes del Estado;
 
 III. Los Presidentes Municipales del Municipio correspondiente; cuando conforme a la presente Ley se traten asuntos de Desarrollo Urbano referentes a su circunscripción territorial, éstos ocurrirán a las sesiones de la Comisión personalmente o por conducto del servidor público responsable del desarrollo urbano en su Municipio, así como el Presidente del Consejo de Urbanización del Municipio correspondiente;
 
 IV. El Delegado de la Secretaría de Desarrollo Social en el Estado; y
 
-V. Un representante de la Secretaría de Planeación y Presupuesto del Estado.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+V. Un representante de la Secretaría de Planeación y Finanzas del Estado.
 
 El Gobernador del Estado podrá invitar a los representantes de la Administración Pública Federal para que aporten su consejo en la formulación de las políticas, criterios y lineamientos que fije dicha Comisión. Por cada Consejero propietario se designará un suplente que lo sustituya en sus faltas temporales.
 
@@ -505,21 +573,31 @@ El Gobernador del Estado podrá invitar a los representantes de la Administraci�
 
 En los casos de conurbación intermunicipal se integrará dentro del seno de la Comisión Coordinadora de Desarrollo Urbano del Estado, una subcomisión intermunicipal que ordene y regule la zona de que se trate en los términos del Título Tercero de esta Ley.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+En los casos de Zonas Metropolitanas el Ejecutivo del Estado, deberá constituir un Consejo de Desarrollo Metropolitano, cuya integración, funciones y atribuciones se determinaran en el decreto de creación que al efecto expida.
+
 ###### ARTICULO 16.
 
 Cuando se trate de asuntos referentes a una zona de conurbación se convocará a los representantes de los Municipios involucrados en esa zona, según lo dispuesto en el Artículo 95 de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 17.
 
-Será Presidente de la Comisión Coordinadora de Desarrollo Urbano, el Secretario de Asentamientos Humanos y Obras Públicas. Las sesiones se efectuarán por lo menos cuatro veces al año, requerirán la presencia mínima del cincuenta por ciento mas uno de sus integrantes y los acuerdos se tomarán por mayoría de votos presentes, correspondiendo al Presidente el voto de calidad en caso de empate. En ausencia del Presidente, asumirá sus funciones el Subsecretario de Obras Públicas.
+Será Presidente de la Comisión Coordinadora de Desarrollo Urbano, el titular de la Secretaría. Las sesiones se efectuarán por lo menos cuatro veces al año, requerirán la presencia mínima del cincuenta por ciento mas uno de sus integrantes y los acuerdos se tomarán por mayoría de votos presentes, correspondiendo al Presidente el voto de calidad en caso de empate. En ausencia del Presidente, asumirá sus funciones quien él designe como suplente.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 18.
 
-El Secretario Ejecutivo de la Comisión Coordinadora de Desarrollo Urbano será designado por el Secretario de Asentamientos Humanos y Obras Públicas, quien formulará la convocatoria para las sesiones.
+El Secretario Ejecutivo de la Comisión Coordinadora de Desarrollo Urbano será designado por el titular de la Secretaría, quien formulará la convocatoria para las sesiones.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 19.
 
-El titular de la Secretaría de Asentamientos Humanos y Obras Públicas será el representante legal de la Comisión Coordinadora de Desarrollo Urbano del Estado.
+El titular de la Secretaría será el representante legal de la Comisión Coordinadora de Desarrollo Urbano del Estado.
 
 ###### ARTICULO 20.
 
@@ -545,9 +623,11 @@ IX. Elaborar su propio Reglamento interno; y
 
 X. Ejercer las demás atribuciones que le correspondan conforme a esta Ley y dictaminar sobre otros asuntos que por su trascendencia le encomiende el Ejecutivo del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 21.
 
-Corresponde a la Dirección General de Ecología del Estado:
+Corresponde a la Secretaría de Protección al Ambiente del Estado:
 
 I. Desarrollar criterios ecológicos en la promoción del desarrollo estatal;
 
@@ -559,7 +639,9 @@ IV. Hacer y respetar los Planes de Ordenamiento Ecológico;
 
 V. Notificar sobre la existencia de reservas ecológicas, áreas de desarrollo industrial a proyectos urbanos y áreas de desarrollo urbano a proyectos industriales, conforme a los Planes de Ordenamiento Ecológico Estatal y Federal.
 
-VI. Las demás que le correspondan en los términos de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+VI. Las demás que le correspondan en los términos de la Ley de Protección al Ambiente para el Estado.
 
 ###### ARTICULO 22.
 
@@ -567,7 +649,9 @@ Los Planes y Programas de Desarrollo Urbano Estatales o Municipales se formular�
 
 En dicha consulta se garantizará como mínimo la participación de:
 
-I. El Secretario de Asentamientos Humanos y Obras Públicas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+I. El titular de la Secretaría;
 
 II. La Cámara Nacional de Comercio;
 
@@ -587,9 +671,11 @@ VIII. Los organismos promotores de vivienda y bienes inmuebles del Estado de Baj
 
 ### CAPITULO PRIMERO. Del Sistema Estatal de Programas de Desarrollo Urbano
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 23.
 
-La planeación del desarrollo urbano en el Estado estará a cargo del Gobernador a través de la Secretaría de Asentamientos Humanos y Obras Públicas, la Comisión Coordinadora de Desarrollo Urbano del Estado, los Ayuntamientos en sus respectivas jurisdicciones y la participación social en los términos establecidos en la Ley de Planeación del Estado de Baja California, esta Ley y demás disposiciones aplicables.
+La planeación del desarrollo urbano en el Estado estará a cargo del Gobernador a través de la Secretaría, la Comisión Coordinadora de Desarrollo Urbano del Estado, los Ayuntamientos en sus respectivas jurisdicciones y la participación social en los términos establecidos en la Ley de Planeación para el Estado, esta Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 24.
 
@@ -599,7 +685,9 @@ I.- Los Planes y Programas a nivel estatal y regional que comprenden:
 
 1.- El Plan Estatal de Desarrollo Urbano;
 
-2.- Los Programas que ordenen y regulen zonas conurbadas interestatales en donde participe el Estado con una o más Entidades Federativas, en los términos de la Ley General de Asentamientos Humanos;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+2.- Los Programas que ordenen y regulen Zonas Metropolitanas o conurbadas interestatales en donde participe el Estado con una o más Entidades Federativas, en los términos de la Ley General de Asentamientos Humanos;
 
 3.- Los Programas Regionales de Desarrollo Urbano;
 
@@ -639,7 +727,9 @@ El Ejecutivo Estatal ordenará la publicación de los Planes y Programas Municip
 
 De cada Plan o Programa de Desarrollo Urbano y las declaratorias que ordene publicar, el Gobernador remitirá copia al Congreso del Estado para su conocimiento y ordenará su inscripción en el Registro Público de la Propiedad y del Comercio, conforme lo dispone este mismo ordenamiento.
 
-Asimismo, se mantendrán a consulta pública en las oficinas en donde se lleve su registro, en la Secretaría de Asentamientos Humanos y Obras Públicas y en las Dependencias Municipales que designen los Ayuntamientos, según corresponda a su nivel de aplicación.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+Asimismo, se mantendrán a consulta pública en las oficinas en donde se lleve su registro, en la Secretaría y en las Dependencias Municipales que designen los Ayuntamientos, según corresponda a su nivel de aplicación.
 
 ###### ARTICULO 29.
 
@@ -743,13 +833,17 @@ X. En general, todas aquellas acciones que contribuyan a su realización.
 
 El Plan Estatal de Desarrollo Urbano, representa el compromiso del Gobierno del Estado en materia de ordenación y regulación de los asentamientos humanos. Se expide para imprimir unidad y congruencia a las actividades de la Administración Pública Estatal y en especial, a todas las dependencias y entidades coordinadas del sector de asentamientos humanos y obras públicas. Asimismo, el Plan servirá de referencia a las actividades que se desarrollen con la participación de los Municipios y la Federación a partir de los convenios de coordinación respectivos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 35.
 
-El Plan Estatal de Desarrollo Urbano será formulado por la Secretaría de Asentamientos Humanos y Obras Públicas a partir de los estudios e investigaciones que realice, de las propuestas que hagan las dependencias y entidades coordinadas de ese sector de la Administración Pública Estatal representadas en la Comisión Coordinadora de Desarrollo Urbano del Estado, de las propuestas que formulen los Ayuntamientos y de la evaluación que se realice del mismo Plan, mediante la consulta que organice en los términos de la Ley de Planeación del Estado de Baja California.
+El Plan Estatal de Desarrollo Urbano será formulado por la Secretaría a partir de los estudios e investigaciones que realice, de las propuestas que hagan las dependencias y entidades coordinadas de ese sector de la Administración Pública Estatal representadas en la Comisión Coordinadora de Desarrollo Urbano del Estado, de las propuestas que formulen los Ayuntamientos y de la evaluación que se realice del mismo Plan, mediante la consulta que organice en los términos de la Ley de Planeación para el Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 36.
 
-Una vez elaborado el Plan Estatal de Desarrollo Urbano, el Titular de la Secretaría de Asentamientos Humanos y Obras Públicas lo someterá a la aprobación del Gobernador del Estado, previo análisis y revisión de la Comisión Coordinadora de Desarrollo Urbano. Aprobado el Plan, el Gobernador ordenará su publicación y registro en los términos de esta Ley.
+Una vez elaborado el Plan Estatal de Desarrollo Urbano, el Titular de la Secretaría lo someterá a la aprobación del Gobernador del Estado, previo análisis y revisión de la Comisión Coordinadora de Desarrollo Urbano. Aprobado el Plan, el Gobernador ordenará su publicación y registro en los términos de esta Ley.
 
 ### CAPITULO TERCERO. De los Programas Regionales de Desarrollo Urbano
 
@@ -845,7 +939,9 @@ VII. El establecimiento de las siguientes políticas:
 
 a). De promoción de los medios de comunicaciones y transportes;
 
-b). De dotación de servicios para las zonas conurbadas;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+b). De dotación de servicios para las zonas conurbadas o metropolitanas;
 
 c). De promoción turística y recreativa;
 
@@ -859,9 +955,11 @@ VIII. Todas aquellas que en adición a las anteriores, contribuyan a lograr los 
 
 El procedimiento para la elaboración del proyecto del Programa Regional de Desarrollo Urbano, se sujetará a las disposiciones del Artículo 35 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 43.
 
-Elaborado el proyecto del Programa Regional de Desarrollo Urbano, se someterá a la consideración de los Ayuntamientos comprendidos en la región de referencia, a fin de que expresen sus opiniones en el término de treinta días a partir de la fecha en que reciban el documento. Recibidas las observaciones de los Ayuntamientos, la Secretaría de Asentamientos Humanos y Obras Públicas ajustará el proyecto de Programa a las mismas, en caso de que procedan y los enviará a la Comisión Coordinadora de Desarrollo Urbano quien lo someterá a la opinión de los Organos Auxiliares que corresponda, en los términos de la Ley de Planeación del Estado de Baja California.
+Elaborado el proyecto del Programa Regional de Desarrollo Urbano, se someterá a la consideración de los Ayuntamientos comprendidos en la región de referencia, a fin de que expresen sus opiniones en el término de treinta días a partir de la fecha en que reciban el documento. Recibidas las observaciones de los Ayuntamientos, la Secretaría ajustará el proyecto de Programa a las mismas, en caso de que procedan y los enviará a la Comisión Coordinadora de Desarrollo Urbano quién lo someterá a la opinión de los Órganos Auxiliares que corresponda, en los términos de la Ley de Planeación para el Estado.
 
 Posteriormente la Comisión Coordinadora de Desarrollo Urbano lo someterá a la consideración del Gobernador del Estado, quien una vez que lo haya aprobado, procederá a establecer la coordinación con los Ayuntamientos involucrados.
 
@@ -869,13 +967,17 @@ Posteriormente la Comisión Coordinadora de Desarrollo Urbano lo someterá a la 
 
 Aprobado el Programa Regional y el convenio de coordinación municipal, se ordenará su publicación y registro en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 45.
 
-El Programa Regional de Desarrollo Urbano se dará a conocer al público en las oficinas y residencias de la Secretaría de Asentamientos Humanos y Obras Públicas, en las oficinas del Registro Público de la Propiedad y del Comercio y en los Ayuntamientos comprendidos en la región de referencia.
+El Programa Regional de Desarrollo Urbano se dará a conocer al público en las oficinas y residencias de la Secretaría, en las oficinas del Registro Público de la Propiedad y de Comercio y en los Ayuntamientos comprendidos en la región de referencia.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 46.
 
-La Secretaría de Asentamientos Humanos y Obras Públicas verificará el cumplimiento por parte de los servidores públicos responsables, de la correcta ejecución de los actos de registro relacionados con el Plan Estatal de Desarrollo Urbano y los Programas Regionales que se expidan.
+La Secretaría verificará el cumplimiento por parte de los servidores públicos responsables, de la correcta ejecución de los actos de registro relacionados con el Plan Estatal de Desarrollo Urbano y los Programas Regionales que se expidan.
 
 ###### ARTICULO 47.
 
@@ -1127,9 +1229,11 @@ Para la aprobación, publicación y registro de los Programas y Declaratorias co
 
 Los Programas Sectoriales de Desarrollo Urbano se refieren a las acciones específicas, que en materia de vivienda, aprovechamiento integral de los recursos naturales en la vivienda, infraestructura, vialidad y transporte, equipamiento urbano, ordenamiento ecológico, protección ambiental, reservas territoriales, imagen urbana, patrimonio artístico y cultural, prevención y atención de emergencias urbanas, entre otros, se deban de realizar a nivel estatal, regional, municipal, centro de población o una parte de éste último.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 73.
 
-Los programas sectoriales a nivel estatal y regional serán elaborados por la Secretaría de Asentamientos Humanos y Obras Públicas, por instrucciones del Gobernador del Estado o por la Dependencia Estatal que designe el Ejecutivo de acuerdo a la materia que corresponda, con la participación de la Comisión Coordinadora de Desarrollo Urbano del Estado y la opinión del órgano auxiliar correspondiente en los términos de la Ley de Planeación del Estado de Baja California. La aprobación, publicación y difusión se hará en los términos que la presente Ley señala para los Programas de Desarrollo Urbano y demás disposiciones aplicables.
+Los programas sectoriales a nivel estatal y regional serán elaborados por la Secretaría, por instrucciones del Gobernador del Estado o por la Dependencia Estatal que designe el Ejecutivo de acuerdo a la materia que corresponda, con la participación de la Comisión Coordinadora de Desarrollo Urbano del Estado y la opinión del órgano auxiliar correspondiente en los términos de la Ley de Planeación para el Estado. La aprobación, publicación y difusión se hará en los términos que la presente Ley señala para los Programas de Desarrollo Urbano y demás disposiciones aplicables.
 
 ###### ARTICULO 74.
 
@@ -1145,9 +1249,11 @@ El Plan Estatal y los Programas Regionales y Sectoriales de Desarrollo Urbano de
 
 Los Planes Municipales y los Programas de Centros de Población, Parciales y Sectoriales de Desarrollo Urbano deberán ser revisados, modificados o elaborados según sea el caso, dentro de un plazo no mayor de seis meses a partir del inicio de la gestión constitucional de los Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 77.
 
-Para controlar y verificar los avances obtenidos en el Plan Estatal y los Programas Regionales y Sectoriales de Desarrollo Urbano, la Secretaría de Asentamientos Humanos y Obras Públicas evaluará cada año estos programas, presentando un informe a la Comisión Coordinadora de Desarrollo Urbano y al Gobernador de la entidad. En el caso de los Planes Municipales y Programas Sectoriales de Desarrollo Urbano, el Presidente Municipal evaluará cada año estos planes y programas, presentando un informe al Ayuntamiento.
+Para controlar y verificar los avances obtenidos en el Plan Estatal y los Programas Regionales y Sectoriales de Desarrollo Urbano, la Secretaría evaluará cada año estos programas, presentando un informe a la Comisión Coordinadora de Desarrollo Urbano y al Gobernador de la entidad. En el caso de los Planes Municipales y Programas Sectoriales de Desarrollo Urbano, el Presidente Municipal evaluará cada año estos planes y programas, presentando un informe al Ayuntamiento.
 
 ###### ARTICULO 78.
 
@@ -1211,9 +1317,13 @@ En el caso de que sea de estricta necesidad demoler total o parcialmente, las ed
 
 Las obras que sean a cargo de las autoridades estatales o municipales, se ejecutarán en los términos previstos en esta Ley y demás disposiciones específicas.
 
-## TITULO TERCERO. DE LAS CONURBACIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-### CAPITULO UNICO. De las Conurbaciones
+## TITULO TERCERO. DE LAS CONURBACIONES Y DE LAS ZONAS METROPOLITANAS
+
+> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO PRIMERO. De las Conurbaciones y de las Zonas Metropolitanas
 
 ###### ARTICULO 88.
 
@@ -1233,9 +1343,11 @@ El Gobernador del Estado y los Ayuntamientos correspondientes podrán acordar cu
 
 Los Ayuntamientos y el Ejecutivo del Estado, podrán acordar con los Ejecutivos de otras Entidades Federativas y con el Gobierno Federal, una dimensión mayor o menor, en el caso de que lo consideren conveniente si se presentase una conurbación interestatal.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 91.
 
-Las declaratorias de conurbación, para que surtan sus efectos, serán publicadas por una sola vez en el Periódico Oficial del Gobierno del Estado y en dos diarios de circulación estatal e inscritos en el Registro Público de la Propiedad.
+Las declaratorias de conurbación y de Zonas Metropolitanas, para que surtan sus efectos, serán publicadas por una sola vez en el Periódico Oficial del Gobierno del Estado, y en dos diarios de circulación estatal, e inscritos en el Registro Público de la Propiedad y de Comercio.
 
 ###### ARTICULO 92.
 
@@ -1255,9 +1367,11 @@ III. Se proyecte o funde un centro de población y se prevea su expansión en te
 
 El acuerdo que se celebre en los términos del artículo anterior, tendrá efectos de declaratoria y se publicará como lo establece esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 95.
 
-Cuando el Ejecutivo Estatal haya hecho una declaratoria de conurbación, convocará a los Presidentes Municipales correspondientes para constituir dentro de los treinta días siguientes a la publicación de la declaratoria, una Subcomisión Intermunicipal de Conurbación de carácter permanente dentro del seno de la Comisión Coordinadora de Desarrollo Urbano del Estado, que ordene y regule el desarrollo de dicha zona. La Subcomisión será presidida por el Secretario de Asentamientos Humanos y Obras Públicas y tendrá facultades para promover la presentación de proposiciones, captar información, realizar investigaciones y oír la opinión de distintos grupos sociales de los centros de población respectivos, a través de los organismos legalmente constituidos que los representen.
+Cuando el Ejecutivo Estatal haya hecho una declaratoria de conurbación, convocará a los Presidentes Municipales correspondientes para constituir dentro de los treinta días siguientes a la publicación de la declaratoria, una Subcomisión Intermunicipal de Conurbación de carácter permanente dentro del seno de la Comisión Coordinadora de Desarrollo Urbano del Estado, que ordene y regule el desarrollo de dicha zona. La Subcomisión será presidida por el titular de la Secretaría y tendrá facultades para promover la presentación de proposiciones, captar información, realizar investigaciones y oír la opinión de distintos grupos sociales de los centros de población respectivos, a través de los organismos legalmente constituidos que los representen.
 
 ###### ARTICULO 96.
 
@@ -1267,9 +1381,11 @@ La Subcomisión expedirá su reglamento interior en un plazo no mayor de treinta
 
 Una vez aprobado por el Gobernador del Estado el Programa que ordene y regule la zona conurbada, se expedirán las declaratorias de provisiones, reservas, usos y destinos de áreas y predios comprendidos en dicho territorio, de acuerdo con lo establecido en esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 98.
 
-Cuando se presente una conurbación interestatal, se estará a lo establecido en el Capítulo Cuarto de la Ley General de Asentamientos Humanos.
+Cuando se presente una Zona Metropolitana o de conurbación interestatal, se estará a lo dispuesto en el Capítulo Cuarto de la Ley General de Asentamientos Humanos.
 
 ###### ARTICULO 99.
 
@@ -1359,25 +1475,27 @@ Las políticas y acciones de conservación y mejoramiento del ambiente en los as
 
 Los programas a que se refiere la presente Ley contendrán el ordenamiento ecológico de los asentamientos humanos y tendrá por objeto mantener, mejorar o restaurar el equilibrio de dichos asentamientos con los elementos naturales y asegurar el mejoramiento de la calidad de vida de la población.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 112.
 
-En el ordenamiento ecológico de los asentamientos humanos se observarán los criterios y políticas establecidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado, el Plan de Ordenamiento Ecológico del Estado y las demás disposiciones estatales aplicables en la materia.
+En el ordenamiento ecológico de los asentamientos humanos se observarán los criterios y políticas establecidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Protección al Ambiente para el Estado, el Plan de Ordenamiento Ecológico del Estado y las demás disposiciones estatales aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 113.
 
-Se consideran áreas naturales protegidas, en los términos de la Ley General de Equilibrio Ecológico y la Protección al Ambiente y la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado:
-
-I. Los parques urbanos; y
-
-II. Las zonas que, formando parte de los centros de población en los términos del Artículo 103 de la presente Ley, sean señaladas por los programas como sujetas a conservación o mejoramiento ecológico.
+Se consideran áreas naturales protegidas, en los términos de la Ley General de Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección al Ambiente para el Estado.
 
 ###### ARTICULO 114.
 
 La reglamentación del uso y conservación de los parques urbanos corresponderá a los Ayuntamientos de la Entidad.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 115.
 
-En el caso de obras públicas o privadas que puedan causar desequilibrios ecológicos, los requerimientos de estudios de impacto ambiental estarán coordinados conforme al Artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y el Artículo 22 de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado. Así, antes de la otorgación de un permiso, el solicitante deberá cumplir con los requerimientos y disposiciones técnicas que le marque la Federación, el Estado y los Municipios.
+En el caso de obras públicas o privadas que puedan causar desequilibrios ecológicos, los requerimientos de estudios de impacto ambiental estarán coordinados conforme al Artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y a lo establecido en la Ley de Protección al Ambiente para el Estado. Así, antes de la otorgación de un permiso, el solicitante deberá cumplir con los requerimientos y disposiciones técnicas que le marquen la Federación, el Estado y los Municipios.
 
 ###### ARTICULO 116.
 
@@ -1501,15 +1619,19 @@ Conforme lo dispone el Artículo 47 de la Ley General de Asentamientos Humanos, 
 
 Igual derecho de preferencia tendrán el Gobierno del Estado y los Municipios para adquirir los predios comprendidos en la declaratoria de reserva, en caso de remate judicial o administrativo, al precio que se fije en remate al mejor postor, mismo que deberá ser ratificado por la Comisión Estatal de Avalúos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 128.
 
-Para hacer efectivo este derecho de preferencia, los propietarios de los predios comprendidos en la declaratoria de reserva, los notarios, los jueces y las autoridades administrativas deberán notificarlo a la Secretaría de Asentamientos Humanos y Obras Públicas y a la Presidencia Municipal correspondiente dando a conocer el monto de la operación, a fin de que éstos, en un plazo no mayor de treinta días naturales contados a partir de recibida la notificación, ejerzan el derecho de preferencia si lo consideran conveniente.
+Para hacer efectivo este derecho de preferencia, los propietarios de los predios comprendidos en la declaratoria de reserva, los notarios, los jueces y las autoridades administrativas deberán notificarlo a la Secretaría y a la Presidencia Municipal correspondiente dando a conocer el monto de la operación, a fin de que éstos, en un plazo no mayor de treinta días naturales contados a partir de recibida la notificación, ejerzan el derecho de preferencia si lo consideran conveniente.
 
 Si en el plazo señalado en el párrafo anterior, la autoridad no emite contestación a la notificación, manifestando que es su decisión ejercer el derecho de preferencia en la adquisición del predio, se entenderá que se abstiene de ejercitarlo en ese acto.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 129.
 
-Cuando la Secretaría de Asentamientos Humanos y Obras Públicas y la Autoridad Municipal expresen para el mismo acto su decisión de ejercer el derecho a que refiere el Artículo 127 de esta Ley, la venta o adjudicación se hará a favor del Municipio.
+Cuando la Secretaría y la Autoridad Municipal expresen para el mismo acto su decisión de ejercer el derecho a que refiere el Artículo 127 de esta Ley, la venta o adjudicación se hará a favor del Municipio.
 
 ###### ARTICULO 130.
 
@@ -1531,9 +1653,11 @@ El derecho de preferencia a que se refiere este Capítulo, se extinguirá en aqu
 
 Cuando para la ejecución de los Planes y Programas de Desarrollo Urbano o de las Declaratorias sea necesaria o de mayor beneficio social la ocupación de la propiedad, la autoridad competente por causa de utilidad pública proveerá la expropiación de la misma de conformidad con la Ley de Expropiación del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 134.
 
-Los Planes y Programas de Desarrollo Urbano y Declaratorias que establezcan provisiones, usos, reservas y destinos de áreas, zonas o predios, entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado y deberán ser inscritos dentro de los veinte días siguientes en el Registro Público de la Propiedad y del Comercio y los registros que correspondan, por razón de la materia. Los Programas de Desarrollo Urbano estarán a consulta del público en las oficinas de los Ayuntamientos correspondientes y en las Residencias de la Secretaría de Asentamientos Humanos y Obras Públicas.
+Los Planes y Programas de Desarrollo Urbano y Declaratorias que establezcan provisiones, usos, reservas y destinos de áreas, zonas o predios, entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado y deberán ser inscritos dentro de los veinte días siguientes en el Registro Público de la Propiedad y de Comercio y los registros que correspondan, por razón de la materia. Los Programas de Desarrollo Urbano estarán a consulta del público en las oficinas de los Ayuntamientos correspondientes y en las Residencias de la Secretaría.
 
 Son responsables del incumplimiento de esta disposición las autoridades que expidan las citadas declaratorias y no gestionen su inscripción, así como los encargados de las oficinas del Registro Público de la Propiedad y del Comercio que se abstengan de llevarla a cabo o la realicen con deficiencia; estos incumplimientos se sancionarán conforme al Título Octavo de esta Ley.
 
@@ -1647,7 +1771,9 @@ Las personas físicas o morales, propietarias de terrenos, quienes se desempeñe
 
 El otorgamiento de permisos y autorizaciones para realizar acciones de urbanización es competencia de los ayuntamientos, salvo las condiciones y excepciones siguientes:
 
-I. El Ejecutivo del Estado a través de la Secretaría de Asentamiento Humanos y Obras Públicas del Estado, deberá extender un dictamen técnico de congruencia a solicitud de los ayuntamientos, previo a cualquier expedición de autorización cuando se trate de acciones de urbanización de alcance estatal tales como todo tipo de infraestructura que no haya sido considerada dentro de los Planes y Programas de Desarrollo Urbano Estatal, Municipal y de Centros de Población, como son:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+I. El Ejecutivo del Estado a través de la Secretaría, deberá extender un dictamen técnico de congruencia a solicitud de los ayuntamientos, previo a cualquier expedición de autorización cuando se trate de acciones de urbanización de alcance estatal tales como todo tipo de infraestructura que no haya sido considerada dentro de los Planes y Programas de Desarrollo Urbano Estatal, Municipal y de Centros de Población, como son:
 
 1. Puentes vehiculares y peatonales sobre vialidades primarias intraurbanas mayores de 25 metros de ancho a parámetros o vialidades interurbanas;
 
@@ -1657,9 +1783,13 @@ I. El Ejecutivo del Estado a través de la Secretaría de Asentamiento Humanos y
 
 4. Instalaciones de redes de servicios de agua potable, drenaje sanitario y pluvial; cárcamos, bombas, acueductos, poliductos y gaseoductos; energía eléctrica, alumbrado público, telefonía e instalaciones especiales; estaciones y subestaciones eléctricas, nucleoeléctricas, geotérmicas; sistemas de transporte público sobre rieles metálicos interestatales o intraurbanos; plantas recicladoras de residuos peligrosos y rellenos sanitarios;
 
-II. El Ejecutivo a través de la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, otorgará las autorizaciones que correspondan cuando se trate de acciones de urbanización que se ubiquen fuera de los límites de los Centros de Población definidos en los Planes y Programas de Desarrollo Urbano debidamente aprobados, publicados e inscritos en el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
-III. Cuando las acciones de urbanización afecten las áreas naturales protegidas declaradas por la Federación, el Estado o los Municipios, y sean destinadas para la industria de alto riesgo o con posibilidad de un impacto negativo en el medio ambiente, para la industria extractiva y de transformación, indistintamente de su ubicación y no considerados en los Planes y Programas de Desarrollo Urbano aplicables y sus declaratorias y que requieran de la elaboración de un estudio de evaluación de impacto ambiental; los ayuntamientos verificarán el cumplimiento de la Ley del Equilibrio Ecológico y Protección del Ambiente del Estado.
+II. El Ejecutivo a través de la Secretaría, otorgará las autorizaciones que correspondan cuando se trate de acciones de urbanización que se ubiquen fuera de los límites de los Centros de Población definidos en los Planes y Programas de Desarrollo Urbano debidamente aprobados, publicados e inscritos en el Registro Público de la Propiedad y de Comercio;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+III. Cuando las acciones de urbanización afecten las áreas naturales protegidas declaradas por la Federación, el Estado o los Municipios, y sean destinadas para la industria de alto riesgo o con posibilidad de un impacto negativo en el medio ambiente, para la industria extractiva y de transformación, indistintamente de su ubicación y no considerados en los Planes y Programas de Desarrollo Urbano aplicables y sus declaratorias y que requieran de la elaboración de un estudio de evaluación de impacto ambiental; los ayuntamientos verificarán el cumplimiento de la Ley de Protección al Ambiente para el Estado.
 
 ### CAPITULO SEGUNDO. De la Incorporación Municipal
 
@@ -1809,7 +1939,9 @@ X. La compatibilidad de los usos propuestos, los usos condicionados y los no com
 
 XI. Los impactos económicos y sociales de la acción de urbanización en la zona de influencia;
 
-XII. Los impactos físicos y ambientales de la acción de urbanización en la zona de influencia, en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+XII. Los impactos físicos y ambientales de la acción de urbanización en la zona de influencia, en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección al Ambiente para el Estado.
 
 ###### ARTICULO 163.
 
@@ -1829,9 +1961,11 @@ Cuando el solicitante sea distinto al urbanizador, se le denominará "promotor i
 
 El promotor inmobiliario deberá asumir expresamente la responsabilidad de la ejecución de las obras de urbanización, en forma solidaria con los propietarios de los terrenos o de fincas y predios, según corresponda, en la solicitud de trámite correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 167.
 
-Cuando se desee realizar alguna de las acciones de urbanización a que se refiere el Artículo 147 y éstas se localicen fuera de los Centros de Población o no estén contempladas dentro de los Programas de Desarrollo Urbano de los Centros de Población, o no existan Programas de Desarrollo Urbano, la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, aprobará los estudios que demuestren su factibilidad y congruencia con los diferentes Planes y Programas de Desarrollo Urbano, elaborando los solicitantes un anteproyecto que contenga los elementos de un Programa Parcial de Desarrollo Urbano, siguiendo los lineamientos que dictamine la Comisión Coordinadora de acuerdo con la fracción IV del Artículo 21 de ésta Ley y los demás que sean requeridos por el Reglamento correspondiente, salvo las excepciones que por ubicación, tamaño o densidad en el mismo se consideren y para proceder con su aprobación en los términos de la presente Ley.
+Cuando se desee realizar alguna de las acciones de urbanización a que se refiere el Artículo 147 y éstas se localicen fuera de los Centros de Población o no estén contempladas dentro de los Programas de Desarrollo Urbano de los Centros de Población, o no existan Programas de Desarrollo Urbano, la Secretaría, aprobará los estudios que demuestren su factibilidad y congruencia con los diferentes Planes y Programas de Desarrollo Urbano, elaborando los solicitantes un anteproyecto que contenga los elementos de un Programa Parcial de Desarrollo Urbano, siguiendo los lineamientos que dictamine la Comisión Coordinadora de acuerdo con la fracción IV del Artículo 21 de ésta Ley y los demás que sean requeridos por el Reglamento correspondiente, salvo las excepciones que por ubicación, tamaño o densidad en el mismo se consideren y para proceder con su aprobación en los términos de la presente Ley.
 
 La solicitud de aprobación de Programa Parcial de Desarrollo y su propuesta de Programa, deberán ser entregados a la autoridad competente según el municipio en que se pretendan realizar las acciones de urbanización.
 
@@ -1847,9 +1981,11 @@ El no hacer las correcciones en el tiempo convenido, causará la cancelación au
 
 Formulado el proyecto de Programa Parcial de Desarrollo Urbano e integrado su expediente, la autoridad procederá a considerar su aprobación en los términos de esta Ley. El acuerdo de la autoridad puede recurrirse solicitando su revocación.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 170.
 
-Una vez aprobado por la autoridad el Programa Parcial de Desarrollo Urbano, se remitirá al Ejecutivo del Estado a través de la Secretaría de Asentamientos Humanos y Obras Públicas, para tramitar la publicación de su versión abreviada y su registro conforme lo previsto en esta Ley.
+Una vez aprobado por la autoridad el Programa Parcial de Desarrollo Urbano, se remitirá al Ejecutivo del Estado a través de la Secretaría, para tramitar la publicación de su versión abreviada y su registro conforme lo previsto en esta Ley.
 
 ###### ARTICULO 171.
 
@@ -1895,7 +2031,9 @@ Cuando en la zona de influencia se requieran obras de infraestructura o equipami
 
 Para la transmisión de la propiedad, posesión, usufructo o aprovechamiento de lotes resultantes de las acciones de urbanización realizadas, el urbanizador deberá cumplir previamente con los siguientes requisitos:
 
-I. Que se cuente con las actas o constancias aprobatorias de terminación de las obras de urbanización expedidas por los organismos competentes, así como la constancia de terminación de la acción de urbanización expedida por la Secretaría de Asentamientos Humanos y Obras Públicas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+I. Que se cuente con las actas o constancias aprobatorias de terminación de las obras de urbanización expedidas por los organismos competentes, así como la constancia de terminación de la acción de urbanización expedida por la Secretaría;
 
 II. Que se hayan cumplido los requisitos de incorporación o reincorporación urbana y en el caso de fraccionamientos por objetivo social progresivos, que la autoridad competente haya aprobado las obras mínimas conforme lo establece el Reglamento correspondiente; y,
 
@@ -1921,9 +2059,11 @@ En ningún caso se podrán iniciar las acciones de urbanización antes de que se
 
 La ejecución de las acciones de urbanización autorizadas conforme al proyecto definitivo, se hará bajo la responsabilidad de los peritos debidamente registrados que se requieran, según el caso. Todas las acciones de urbanización se ajustarán a las especificaciones y normas de calidad mínima que se establezcan en los Reglamentos y Normas Técnicas correspondientes.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 181.
 
-Tanto el Ayuntamiento como la Secretaría de Asentamientos Humanos y Obras Públicas, según corresponda, tendrán en todo tiempo la facultad de supervisar mediante inspección técnica la ejecución de las obras, para verificar el debido cumplimiento de las normas de calidad y las especificaciones del proyecto autorizado.
+Tanto el Ayuntamiento como la Secretaría, según corresponda, tendrán en todo tiempo la facultad de supervisar mediante inspección técnica la ejecución de las obras, para verificar el debido cumplimiento de las normas de calidad y las especificaciones del proyecto autorizado.
 
 ###### ARTICULO 182.
 
@@ -1937,9 +2077,11 @@ Para cualquier modificación del proyecto definitivo de las acciones de urbaniza
 
 Cuando el urbanizador al realizar las acciones de urbanización para ejecutar el programa parcial incurra en violaciones graves o sustanciales, se aplicarán las medidas de seguridad y sanciones previstas en la presente Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 185.
 
-La Secretaría de Asentamientos Humanos y Obras Públicas cuando practique una supervisión, comunicará sus observaciones al Ayuntamiento correspondiente, a fin de enterarlo de posibles anomalías en el proceso de ejecución. Esta Secretaría, conforme el convenio que celebre el Ayuntamiento con el Ejecutivo del Estado, podrá asumir las funciones y facultades que a los Ayuntamientos le otorga esta Ley, cuando éstos no dispongan de los recursos humanos y técnicos necesarios. Asimismo, a solicitud expresa de la autoridad municipal, dicha Secretaría acudirá a su auxilio como ejecutora de las medidas de seguridad y sanciones a que se refiere el artículo anterior.
+La Secretaría cuando practique una supervisión, comunicará sus observaciones al Ayuntamiento correspondiente, a fin de enterarlo de posibles anomalías en el proceso de ejecución. Esta Secretaría, conforme el convenio que celebre el Ayuntamiento con el Ejecutivo del Estado, podrá asumir las funciones y facultades que a los Ayuntamientos le otorga esta Ley, cuando éstos no dispongan de los recursos humanos y técnicos necesarios. Asimismo, a solicitud expresa de la autoridad municipal, dicha Secretaría acudirá a su auxilio como ejecutora de las medidas de seguridad y sanciones a que se refiere el artículo anterior.
 
 ###### ARTICULO 186.
 
@@ -1961,9 +2103,11 @@ Si transcurrido el plazo a que se refiere el párrafo anterior, el urbanizador n
 
 En tanto no se concluyan las acciones de urbanización y éstas sean recibidas por el Municipio, quedan bajo la responsabilidad del urbanizador para cumplir las obligaciones que se establecen en esta Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 189.
 
-Terminadas las acciones de urbanización, el interesado solicitará a las dependencias que operarán las redes de servicios y sistemas, el levantamiento de actas de certificación aprobatorias de dichos trabajos, así como a la Secretaría de Asentamientos Humanos y Obras Públicas una constancia de cumplimiento de las acciones de urbanización.
+Terminadas las acciones de urbanización, el interesado solicitará a las dependencias que operarán las redes de servicios y sistemas, el levantamiento de actas de certificación aprobatorias de dichos trabajos, así como a la Secretaría una constancia de cumplimiento de las acciones de urbanización.
 
 Una vez que la acción de urbanización esté concluida y reunidos todos los requisitos y constancias aprobatorias que marca la presente Ley y su Reglamento, se procederá a la entrega de las obras a las autoridades y su correspondiente incorporación o reincorporación urbana.
 
@@ -2041,15 +2185,19 @@ Ninguna obra de edificación podrá realizarse sin la licencia respectiva expedi
 
 Dicha licencia se otorgará de conformidad con lo dispuesto en este Capítulo, la Ley de Edificaciones del Estado de Baja California, sus Reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 200.
 
-Los Ayuntamientos deberán solicitar a la Secretaría de Asentamientos Humanos y Obras Públicas, dictamen de congruencia previo a la expedición de la licencia de construcción en los casos previstos en el Artículo 60, fracciones I a IV y 61 de la Ley de Edificaciones del Estado.
+Los Ayuntamientos deberán solicitar a la Secretaría, dictamen de congruencia previo a la expedición de la licencia de construcción en los casos previstos en el Artículo 60, fracciones I a IV y 61 de la Ley de Edificaciones del Estado.
 
 ###### ARTICULO 201.
 
 Los Ayuntamientos solo podrán autorizar obras de edificación en terrenos no urbanizados dentro del Centro de Población, cuando se lleven a cabo simultáneamente con la acción de urbanización respectiva.
 
-Para los casos de obras de edificación en terrenos fuera de los centros de población, los Ayuntamientos deberán exigir primeramente la autorización de acción de urbanización correspondiente expedida por la Secretaría de Asentamientos Humanos y Obras Públicas.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+Para los casos de obras de edificación en terrenos fuera de los centros de población, los Ayuntamientos deberán exigir primeramente la autorización de acción de urbanización correspondiente expedida por la Secretaría.
 
 Para ambos casos será obligatorio el respetar los requisitos de trámite y contenido especificados en esta Ley, la Ley de Edificaciones del Estado y sus Reglamentos respectivos.
 
@@ -2171,7 +2319,9 @@ Para la realización de las acciones de urbanización y reparcelación por asoci
 
 I. El organismo promovente con la aprobación de por lo menos el 80% de los propietarios integrará los estudios urbanísticos que acrediten el interés público del desarrollo urbano propuesto;
 
-II. Dicho estudio será presentado a la Comisión Coordinadora de Desarrollo Urbano, quien si lo aprueba dispondrá la elaboración del Programa Parcial de Desarrollo Urbano con la intervención del Ayuntamiento respectivo o con la de la Secretaría de Asentamientos Humanos y Obras Públicas, según el tipo de acción de urbanización de que se trate o su ubicación geográfica; y,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
+II. Dicho estudio será presentado a la Comisión Coordinadora de Desarrollo Urbano, quien si lo aprueba dispondrá la elaboración del Programa Parcial de Desarrollo Urbano con la intervención del Ayuntamiento respectivo o con la de la Secretaría, según el tipo de acción de urbanización de que se trate o su ubicación geográfica; y,
 
 III. Tanto la aprobación del Programa Parcial de Desarrollo Urbano como el Acuerdo de Autorización de la acción de urbanización se darán en los términos de la presente Ley.
 
@@ -2243,9 +2393,11 @@ Mientras las obras de urbanización no estén concluidas conforme las disposicio
 
 Los propietarios de lotes en una acción de urbanización por objetivo social o quienes adquieran sus derechos, están obligados solidariamente en las responsabilidades derivadas de la realización de las obras de urbanización progresiva. Este hecho deberá consignarse en las escrituras de propiedad que se expidan y en las inscripciones que se hagan en el Registro Público de la Propiedad y del Comercio.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 231.
 
-El Estado participará como promotor a través de la Secretaría de Asentamientos Humanos y Obras Públicas y demás organismos descentralizados.
+El Estado participará como promotor a través de la Secretaría y demás organismos descentralizados.
 
 ###### ARTICULO 232.
 
@@ -2262,6 +2414,8 @@ Cuando las obras de urbanización progresiva se concluyan de conformidad con las
 ## TITULO OCTAVO. DE LAS RESPONSABILIDADES, MEDIDAS DE SEGURIDAD, SANCIONES Y DEFENSA DE LOS PARTICULARES
 
 ### CAPITULO SEGUNDO. De las Medidas de Seguridad y Sanciones
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 235.
 
@@ -2295,7 +2449,7 @@ Se sancionará a los responsables señalados en el artículo anterior, de acuerd
 
 ###### ARTICULO 239.
 
-El Ejecutivo del Estado, a través de la Secretaría de Asentamientos Humanos y Obras Públicas del Estado así como las Autoridades Municipales correspondientes, tendrán a su cargo la vigilancia del cumplimiento de las disposiciones de esta Ley y demás disposiciones relativas; para tal efecto, podrán adoptar y ejecutar las medidas de seguridad, calificar las infracciones e imponer las sanciones administrativas que correspondan.
+El Ejecutivo del Estado, a través de la Secretaría así como las Autoridades Municipales correspondientes, tendrán a su cargo la vigilancia del cumplimiento de las disposiciones de esta Ley y demás disposiciones relativas; para tal efecto, podrán adoptar y ejecutar las medidas de seguridad, calificar las infracciones e imponer las sanciones administrativas que correspondan.
 
 ###### ARTICULO 240.
 
@@ -2442,3 +2596,7 @@ P.O. 28 DE FEBRERO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE DICIEMBRE DE 2009.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
