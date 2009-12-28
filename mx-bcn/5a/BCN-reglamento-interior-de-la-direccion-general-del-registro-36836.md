@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-direccion-general-del-registro-36836"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-04-13"
-last_updated: "2001-04-13"
+last_updated: "2009-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DE LA DIRECCION GENERAL DEL REGISTRO ESTATAL DE ELECTORES DEL INSTITUTO ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE VIGILANCIA DE LA DIRECCION GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de abril de 2001.
 
@@ -648,3 +650,21 @@ PRESIDENTE
 LIC. GRACIELA AMEZOLA CANSECO
 
 SECRETARIA FEDATARIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su aprobación por el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Dirección General del Registro Estatal de Electores aprobado por el Consejo Estatal Electoral del Instituto Estatal Electoral del Estado de Baja California, en la Novena Sesión Extraordinaria celebrada en la ciudad de Mexicali, Baja California, el día veintinueve de marzo del año dos mil uno, y reformas aprobadas durante la Séptima Sesión Extraordinaria de fecha veinticuatro de marzo del año dos mil cuatro.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente reglamento en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Se ordena la publicación de los puntos resolutivos del presente dictamen en el Periódico Oficial del Estado de Baja California.
