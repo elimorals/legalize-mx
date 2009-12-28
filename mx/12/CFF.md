@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2009-12-07"
+last_updated: "2009-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2009.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 10 DE FEBRERO DE 2009.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 28 DE DICIEMBRE DE 2009.
 
 Código publicado en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -1786,9 +1786,9 @@ Para los efectos de este artículo, una vez que las autoridades fiscales hayan i
 
 Las personas físicas con actividades empresariales y las personas morales que se encuentran en alguno de los supuestos de las siguientes fracciones, están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a $34,803,950.00, que el valor de su activo determinado en los términos del artículo 9o-A de la Ley del Impuesto sobre la Renta sea superior a $69,607,920.00 o que por lo menos trescientos de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior.
 
@@ -3540,7 +3540,7 @@ A quien cometa las infracciones relacionadas con el Registro Federal de Contribu
 
 I. De $2,440.00 a $7,340.00, a las comprendidas en las fracciones I, II y VI.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3970,7 +3970,7 @@ XXXII. De $8,000.00 a $15,000.00, para la establecida en la fracción XXXII.
 
 XXXIII. De $8,000.00 a $15,000.00, para la establecida en la fracción XXXIII.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4064,7 +4064,7 @@ II. De $230.00 a $5,330.00 a las establecidas en las fracciones II y III.
 
 III. De $230.00 a $4,270.00 a la señalada en la fracción IV.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4076,11 +4076,11 @@ IV. De $12,070.00 a $69,000.00, a la señalada en la fracción VII. Tratándose 
 
 V. De $650.00 a $8,530.00 a la señalada en la fracción VI.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
-VI. De $12,070.00 a $69,000.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, la multa será de $1,210.00 a $2,410.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+VI. De $12.070.00 a $69,000.00, a la señalada en la fracción IX cuando se trate de la primera infracción. Tratándose de contribuyentes que tributen conforme al Título IV, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, la multa será de $1,210.00 a $2,410.00 por la primera infracción. En el caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
@@ -4114,7 +4114,7 @@ XI. De $470.00 a $9,290.00, a la comprendida en la fracción XII.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XII. De $1,220.00 a $3,680.00, a la comprendida en la fracción XIV, por cada documento en el que se omita incluir la clave vehicular referida.
 
@@ -4186,9 +4186,9 @@ IX. No informar a la autoridad fiscal sobre la inmovilización de los depósitos
 
 X. No proporcionar la información a que se refiere el artículo 32-E de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 84-B.
 
@@ -4226,19 +4226,19 @@ V. De $4,650.00 a $69,650.00 a la establecida en la fracción V.
 
 VI. De $17,700.00 a $53,120.00 a la establecida en la fracción VI.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 VII. De $70.00 a $140.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de $10,000.00 a $15,000.00 por no proporcionar la información, a las señaladas en la fracción VII.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 VIII. De $225,000.00 a $250,000.00, a las establecidas en la fracción VIII.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4286,7 +4286,7 @@ De $4,650.00 a $46,440.00, a quien cometa la infracción a que se refiere el art
 
 Se considera infracción en la que pueden incurrir las casas de bolsa, el no proporcionar la información a que se refiere el artículo 60 de la Ley del Impuesto sobre la Renta, respecto de contribuyentes que enajenen acciones con su intermediación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4508,11 +4508,13 @@ III. Ser cómplice en cualquier forma no prevista, en la comisión de infraccion
 
 No se incurrirá en la infracción a que se refiere la fracción primera de este artículo, cuando se manifieste en la opinión que se otorgue por escrito que el criterio contenido en ella es diverso a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código o bien manifiesten también por escrito al contribuyente que su asesoría puede ser contraria a la interpretación de las autoridades fiscales.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2009, D.O.F. DEL 28 DE DICIEMBRE DE 2009. SE SUGIERE CONSULTAR EL TRANSITORIO PRIMERO DE ESTA RESOLUCIÓN PARA LA ENTRADA EN VIGOR.</small>
+
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 90.
 
-Se sancionará con una multa de $35,000.00 a $55,000.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89 de este Código.
+Se sancionará con una multa de $39,670.00 a $62,340.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89 de este Código.
 
 En los supuestos señalados en la fracción I del artículo citado, se considerará como agravante que la asesoría, el consejo o la prestación de servicios sea diversa a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código. En este caso, la multa se aumentará de un 10% a un 20% del monto de la contribución omitida, sin que dicho aumento exceda del doble de los honorarios cobrados por la asesoría, el consejo o la prestación de servicios.
 
@@ -5982,13 +5984,13 @@ II. Por la de embargo, incluyendo los señalados en los artículos 41, fracción
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REFORMADO], D.O.F. 10 DE FEBRERO DE 2009)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $300.00 se cobrará esta cantidad en vez del 2% del crédito.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 10 DE FEBRERO DE 2009)
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA CUARTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2008, D.O.F. DEL 10 DE FEBRERO DE 2009.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -8389,3 +8391,39 @@ Para los efectos del artículo 69 del Código Fiscal de la Federación, las auto
 ## Transitorio
 
 Único.- El presente Decreto entrará en vigor el 1 de enero de 2010.
+
+D.O.F. 28 DE DICIEMBRE DE 2009.
+
+Primero. La presente Resolución entrará en vigor el 1 de enero de 2010.
+
+Segundo. Los contribuyentes que de conformidad con el contenido de las reglas 2.10.19., vigente en la Resolución Miscelánea Fiscal para 2001 y 2.9.8., vigente en la Resolución Miscelánea Fiscal para 2002, 2003, 2004 y 2005, que hubieran efectuado el pago, provisional, definitivo o del ejercicio, del ISR, IMPAC, IVA, IEPS, IVBSS o impuesto sustitutivo del crédito al salario, incluyendo retenciones, mediante transferencia electrónica de fondos, sin haber presentado a través de transmisión electrónica de datos o mediante formas oficiales, la declaración correspondiente a dicha transferencia, podrán asignar el pago realizado respecto de las obligaciones fiscales que corresponda.
+
+I. Para tal efecto, los contribuyentes a que se refiere el párrafo anterior deberán cumplir con lo siguiente:
+
+a) Que las obligaciones fiscales a las cuales se asignará el pago realizado mediante transferencia electrónica de fondos, correspondan al mismo periodo por el que se hizo originalmente dicha transferencia.
+
+b) Que la cantidad a pagar y el número de folio a 18 posiciones de la operación realizada que se asiente en el recuadro de la forma oficial a que se refiere la fracción II del presente artículo, sea igual a la cantidad pagada mediante el sistema de transferencia electrónica de fondos y al folio asignado.
+
+c) Que el pago total realizado mediante la transferencia electrónica de fondos, se asigne por única vez a las obligaciones fiscales que correspondan a través de la forma oficial respectiva, en los términos del presente artículo, debiéndose presentar una forma oficial por cada transferencia a asignar.
+
+d) Que la transferencia electrónica de fondos se haya realizado antes del 29 de agosto de 2005.
+
+Los saldos a favor que, en su caso, se declaren en las formas oficiales a que se refiere el presente artículo, se tendrán por manifestados en la fecha en que las mismas sean presentadas de conformidad con las fracciones anteriores. Asimismo, para efectos del cumplimiento de obligaciones fiscales, se considerará como fecha de presentación de la declaración, aquella en que sea recibida la forma oficial que contenga la declaración correspondiente, presentada para efectos de la asignación del pago de conformidad con la presente regla.
+
+II. El pago efectuado mediante transferencia electrónica de fondos, se deberá asignar mediante la presentación de las formas oficiales siguientes:
+
+a) Tratándose de pagos provisionales y definitivos de los impuestos citados, se utilizarán las formas oficiales 1-E, 1-D, 1-D1 y 17, contenidas en el Anexo 1, debiendo anotar el número de folio de la citada transferencia en el espacio designado para ello en la forma oficial.
+
+b) Tratándose de declaraciones del ejercicio anteriores a 2002 de los citados impuestos, se utilizarán las formas oficiales 2, 2-A, 3, 4, 13 y 13-A, contenidas en el Anexo 1, anotando el número de folio de la transferencia en el espacio designado para ello en la forma oficial.
+
+La asignación de transferencias electrónicas de fondos que se efectúe de conformidad con el procedimiento anterior, que hubieran sido pagadas dentro de los plazos establecidos en las disposiciones fiscales, no dará lugar a la actualización de contribuciones ni a la causación de recargos por las obligaciones fiscales que se dejaron de asignar mediante la declaración correspondiente. Tratándose de la asignación de transferencias electrónicas de fondos, que correspondan a declaraciones complementarias, extemporáneas o de corrección fiscal, únicamente procederá su asignación cuando la transferencia efectuada contenga la actualización, recargos y, en su caso, la multa por corrección, correspondientes a la fecha en que se realizó la transferencia electrónica de fondos, sin que en este caso dé lugar a actualización de contribuciones ni a la causación de recargos por dicha asignación.
+
+III. La forma oficial en la cual se hace la asignación de pagos a que se refiere la fracción anterior, se deberá presentar ante la ALSC que corresponda al domicilio fiscal del contribuyente.
+
+Lo dispuesto en este artículo, también será aplicable a los contribuyentes que estando obligados a realizar pagos provisionales o definitivos de julio de 2002 al 29 de agosto de 2005, fecha de publicación de la Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2005, publicada en el DOF el 29 de agosto de 2005 y de los ejercicios de 2002, 2003 y 2004 del ISR, IMPAC, IVA, IEPS, IVBSS o impuesto sustitutivo de crédito al salario, incluyendo retenciones, según corresponda de conformidad con lo dispuesto en los Capítulos 2.14. a 2.19., lo hubieran efectuado mediante transferencia electrónica de fondos en los términos de la regla 2.9.8., vigente hasta el 29 de agosto de 2005, sin haber presentado, a través de transmisión electrónica de datos o mediante formas oficiales, la declaración correspondiente a dicha transferencia.
+
+Los contribuyentes a que se refiere este Artículo, podrán asignar hasta el 31 de diciembre de 2010, el pago realizado respecto de las obligaciones fiscales que corresponda mediante el procedimiento mencionado.
+
+Tercero. Los contribuyentes que de julio de 2002 al 29 de agosto de 2005, fecha de publicación de la Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2005, hubieran efectuado indebidamente el pago de alguna de sus obligaciones fiscales correspondientes a dicho periodo o a los ejercicios de 2002, 2003 o 2004, mediante transferencia electrónica de fondos de conformidad con la regla 2.9.8., vigente en la Resolución Miscelánea Fiscal para 2002, 2003, 2004 y hasta el 29 de agosto de 2005 y que hubieran presentado declaración complementaria a través de los desarrollos electrónicos a que se refieren los Capítulos 2.14. a 2.19., podrán asignar el pago realizado mediante dicha transferencia, siempre que lo realicen de conformidad con lo dispuesto en el Artículo Transitorio anteriormente señalado.
+
+Los contribuyentes a que se refiere este Artículo, podrán asignar hasta el 31 de diciembre de 2010, el pago realizado respecto de las obligaciones fiscales que corresponda mediante el procedimiento mencionado.
