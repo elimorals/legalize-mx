@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-del-centro-preventivo-de-internamiento-22528
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-26"
-last_updated: "2009-07-24"
+last_updated: "2009-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE GUADALUPE, NUEVO LEÓN.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de noviembre de 2001.
 
@@ -31,9 +31,7 @@ EL ING. PEDRO GARZA TREVIÑO, PRESIDENTE MUNICIPAL DE CIUDAD GUADALUPE, NUEVO LE
 
 Que el R. Ayuntamiento, en sesión ordinaria de fecha 23 de Octubre del 2001, con fundamento en lo dispuesto por los artículos 115, fracción II, de la Constitución Política del País, 131 de la Constitución Política del Estado y 10, 26 inciso a), fracciones I y VII, 32, 35, 166 y demás relativos de la Ley Orgánica de la Administración Pública Municipal, aprobó el Reglamento Interno del Centro Preventivo de Internamiento Distrital del Municipio de Ciudad Guadalupe, N.L:, en los siguientes términos:
 
-REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO
-
-DISTRITAL DE GUADALUPE, NUEVO LEÓN.
+REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE GUADALUPE, NUEVO LEÓN.
 
 INDICE
 
@@ -65,9 +63,7 @@ DISTRIBUCION DE INTERNAMIENTO EN CELDAS, MEDIDAS DE SEGURIDAD, REGLAS DE INTERNA
 
 ## TRANSITORIOS
 
-REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO
-
-DISTRITAL DE GUADALUPE, NUEVO LEÓN.
+REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE GUADALUPE, NUEVO LEÓN.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -87,11 +83,11 @@ El Centro Preventivo de Internamiento Distrital, es la Institución que se relac
 
 El Centro Preventivo de Internamiento Distrital, podrá recibir a las personas que remitan en calidad de internos por haber cometido faltas al Reglamento de Policía y Buen Gobierno de Guadalupe, Nuevo León; o en su defecto que se encuentren bajo la presunción de la comisión de un hecho delictuoso dentro del Segundo Distrito Judicial en el Estado.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 5.
 
-El Centro Preventivo de Internamiento Distrital, estará bajo la Dirección Administrativa de un Comandante de Policía con facultades de supervisor, y son sus jefes superiores el Director de Policía, el Secretario de Seguridad de Guadalupe, Nuevo León, por conducto del primero y de un Comandante de Policía con facultades de supervisor.
+El Centro Preventivo de Internamiento Distrital, estará bajo la Dirección Administrativa de un Comandante de Policía con facultades de supervisor, y son sus jefes superiores el Director de Policía, el Secretario de Seguridad Pública, por conducto del primero y de un Comandante de Policía con facultades de supervisor.
 
 ### CAPITULO II. COMPETENCIA, RESPONSABILIDADES Y FUNCIONES
 
@@ -103,9 +99,9 @@ I.- El Presidente Municipal.
 
 II.- El Secretario del R. Ayuntamiento.
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-III.- El Secretario de Seguridad de Guadalupe, Nuevo León.
+III.- EI Secretario de Seguridad Pública.
 
 IV.- El Coordinador de Jueces Calificadores.
 
@@ -115,9 +111,9 @@ VI.- Los Alcaides.
 
 VII.- El Comandante de Barandilla.
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-VIII.- Los Oficiales de Policía adscritos a la Barandilla y a las diferentes áreas en el edificio de la Secretaría de Seguridad de Guadalupe, Nuevo León.
+VIII.- Los Oficiales de Policía adscritos a la Barandilla y a las diferentes áreas en el edificio de la Secretaria de Seguridad Pública.
 
 ###### ARTÍCULO 7.
 
@@ -125,11 +121,11 @@ Las autoridades señaladas en el artículo que antecede, con excepción de las m
 
 Reglamento.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 8.
 
-El Secretario de Seguridad de Guadalupe, Nuevo León, además de las facultades y obligaciones que tiene por su cargo, le corresponderá:
+El Secretario de Seguridad Pública, además de las facultades y obligaciones que tiene por su cargo, le corresponderá:
 
 I.- Organizar, dirigir, y administrar los establecimientos carcelarios de este municipio.
 
@@ -151,19 +147,19 @@ VIII.- Informar a la Comisión de Regidores correspondiente de las recomendacion
 
 El municipio podrá llevar a cabo toda clase de convenio con las autoridades estatales y federales, así como con diversas instituciones públicas o privadas, a fin de capacitar profesionalmente al personal encargado de la custodia y manutención de los internos en las celdas municipales.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 10.
 
-El personal que durante el desempeño y sus funciones estén relacionadas con las actividades propias del centro preventivo carcelario, estará obligado a asistir al curso teórico-práctico de formación y actualización que organice y disponga el Secretario de Seguridad de Guadalupe, Nuevo León.
+El personal que durante el desempeño y sus funciones estén relacionadas con las actividades propias del centro preventivo carcelario, estará obligado a asistir al curso teórico-práctico de formación y actualización que organice y disponga el Secretario de Seguridad Pública.
 
 ###### ARTÍCULO 11.
 
 El Coordinador de Jueces Calificadores, quien depende del Secretario del R. Ayuntamiento de este municipio, además de las facultades y obligaciones que tienen relación con lo previsto en otros Reglamentos, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-I.- Contará con Alcaide o Alcaides necesarios bajo su mando, para establecer en coordinación con el Secretario de Seguridad de Guadalupe, Nuevo León, reglas o normas de seguridad del Centro Preventivo de Internamiento Distrital.
+I.- Contará con Alcaide o Alcaides necesarios bajo su mando, para establecer en coordinación con el Secretario de Seguridad Pública, reglas o normas de seguridad del Centro Preventivo de Internamiento Distrital.
 
 A) Lo referente a las funciones de la barandilla y custodia de los internos en las celdas municipales.
 
@@ -419,11 +415,11 @@ e).- Los detenidos que forman parte de una corporación policial deberán ser in
 
 f).- Se tendrán las consideraciones del caso a las personas de la tercera edad, así como a las personas discapacitadas y a los detenidos por delitos culposos.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 41.
 
-Por ningún motivo se internara en el área de celdas a persona alguna que sea remitida por alguna autoridad administrativa o judicial, sino (sic) presenta el oficio o boleta de internamiento, el cual deberá contener los datos de la persona que será internada, así como la firma y sello de la autoridad ordenadora, el cual deberá estar dirigido al titular de la Secretaría de Seguridad de Guadalupe, Nuevo León, o Director de Policía Municipal, debiéndose acompañar el dictamen médico correspondiente elaborado en la fecha y hora reciente del internamiento.
+Por ningún motivo se internará en el área de celdas a persona alguna que sea remitida por alguna autoridad administrativa o judicial, sino presenta el oficio o boleta de internamiento, el cual deberá contener los datos de la persona que será internada, así como la firma y sello de la autoridad ordenadora, el cual deberá estar dirigido al titular de la Secretaría de Seguridad Pública o Director de Policía Municipal, debiéndose acompañar el dictamen médico correspondiente elaborado en la fecha y hora reciente del internamiento.
 
 ###### ARTÍCULO 42.
 
@@ -439,11 +435,11 @@ Como medida de seguridad y con el objeto de salvaguardar la integridad y los der
 
 ### CAPITULO VII. INFORMATICA
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 45.
 
-La Coordinación de Jueces Calificadores mantendrá actualizada (sic) los informes estadísticos relacionados con las personas que se encuentran internas en el Centro Preventivo de Internamiento Distrital de esta ciudad, debiéndose rendir un informe diario y mensual sobre los índices de internamiento. El cual será entregado a la Secretaría del R. Ayuntamiento quedando a disposición de la Secretaría de Seguridad Ciudadana y Tránsito la información citada, cuando así sea requerida por el titular de la mencionada institución.
+La Coordinación de Jueces Calificadores mantendrá actualizada (sic) los informes estadisticos relacionados con las personas que se encuentran internas en el Centro Preventivo de Internamiento Distrital de esta ciudad, debiéndose rendir un informe diario y mensual sobre los índices de internamiento. El cual será entregado a la Secretaria del R. Ayuntamiento, quedando a disposición de la Secretaría de Seguridad Pública la información citada, cuando así sea requerida por el titular de la mencionada institución.
 
 ### CAPITULO VIII. CONTROL DE VISITAS
 
@@ -473,7 +469,9 @@ El personal de seguridad solicitará a las personas que pretendan ingresar al Ce
 
 A las visitas del sexo femenino se les informará también el tipo de revisión a que serán sometidas, de acuerdo a las disposiciones legales conducentes, debiendo firmar de consentimiento y el libro correspondiente.
 
-c) (sic).- Se solicitará quienes (sic) acudan a visita familiar que firmen el libro de acceso y den su consentimiento para que les sea sellada la mano izquierda a fin de diferenciarlos de los internos.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+a).- Se solicitará quienes acudan a visita familiar que firmen el libro de acceso y den su consentimiento para que les sea sellada la mano izquierda a fin de diferenciarlos de los internos.
 
 b).- Para la visita de defensores, se solicitará que exhiban la cédula profesional o los documentos idóneos en donde se acredite el carácter de defensor.
 
@@ -543,7 +541,9 @@ Anillos
 
 Cadenas
 
-Cualquier tipo de medicamento o sustancia, salvo cuando un interno, se encuentre bajo tratamiento autorizado por un médico, caso en el cual, el familiar deberá hacerlo del conocimiento del Coordinador de Jueces Calificadores, quien previa opinión del Médico asignado a la Secretaría, podrá autorizar el acceso exclusivamente de dicho medicamento, a través de la Coordinación de Jueces Calificadores, para que sea proporcionado al interno por el personal médico adscrito a la Secretaría.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+Cualquier tipo de medicamento o sustancia, salvo cuando un interno, se encuentre bajo tratamiento autorizado por un médico, caso en el cual, el familiar deberá hacerlo del conocimiento del Coordinador de Jueces Calificadores, quien previa opinión del Médico asignado a la Secretaría de Seguridad Pública, podrá autorizar el acceso exclusivamente de dicho medicamento, a través de la Coordinación de Jueces Calificadores, para que sea proporcionado al interno por el personal médico adscrito a la Secretaría de Seguridad Pública.
 
 OBJETOS
 
@@ -771,11 +771,11 @@ El Centro Preventivo de Internamiento Distrital, deberá contar con el personal 
 
 ### CAPITULO XI. MANTENIMIENTO AL AREA DE CELDAS
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 64.
 
-El Secretario de Seguridad de Guadalupe, Nuevo León, podrá contratar el personal necesario para llevar acabo (sic) el aseo en el área de celdas municipales y mantenerles en optimas condiciones, a fin de salvaguardar los derechos humanos de los internos, que ante cualquier situación legal en la que se encuentren, deben ser tratados con dignidad y respeto, de acuerdo a lo estipulado en la Constitución Política de los Estados Unidos Mexicanos y la Particular del Estado de Nuevo León.
+El Secretario de Seguridad Pública, podrá contratar el personal necesario para llevar acabo el aseo en el área de celdas municipales y mantenerles en optimas condiciones, a fin de salvaguardar los derechos humanos de los internos, que ante cualquier situación legal en la que se encuentren, deben ser tratados con dignidad y respeto, de acuerdo a lo estipulado en la Constitución Política de los Estados Unidos Mexicanos y la Particular del Estado de Nuevo León.
 
 ###### ARTÍCULO 65.
 
@@ -852,3 +852,19 @@ PRIMERO.- Estas modificaciones al Reglamento Interno del Centro Preventivo de In
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes modificaciones.
 
 TERCERO.- Se remita el presente al C. Síndico Segundo Encargado del Despacho de la Presidencia Municipal, a fin de que tenga a bien instruir al C. Secretario del R. Ayuntamiento para que se sirva enviar el Acuerdo para su debida publicación en el Periódico Oficial del Estado, así como en la Gaceta Municipal.
+
+P.O. 29 DE DICIEMBRE DE 2009.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE GUADALUPE, NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas por modificación al REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE GUADALUPE, NUEVO LEÓN, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por modificación.
+
+###### ARTÍCULO TERCERO.
+
+Remítase a la C. Presidenta Municipal, a fin de que instruya al C. Secretario del Ayuntamiento, para que mande publicar las modificaciones del presente Reglamento en el Periódico Oficial del Estado de Nuevo León, así como en la Gaceta Municipal.
