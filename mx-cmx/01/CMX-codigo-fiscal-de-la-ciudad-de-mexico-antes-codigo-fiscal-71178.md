@@ -1,0 +1,8839 @@
+---
+title: "CODIGO FISCAL DE LA CIUDAD DE MEXICO -- ANTES CODIGO FISCAL DEL DISTRITO FEDERAL --"
+identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
+country: "mx"
+rank: "codigo"
+publication_date: "2009-12-29"
+last_updated: "2009-12-29"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
+department: "Gaceta Oficial de la Ciudad de México"
+jurisdiction: "mx-cmx"
+scjn_id: "71178"
+scjn_status: "VIGENTE"
+gazette: "Gaceta Oficial de la Ciudad de México"
+original_category: "CODIGO"
+original_gazette_section: "G.O. 747"
+reform_count: "46"
+scjn_last_update: "2026-10-08"
+issue_date: "2009-12-28"
+---
+# CODIGO FISCAL DE LA CIUDAD DE MEXICO -- ANTES CODIGO FISCAL DEL DISTRITO FEDERAL --
+
+CODIGO FISCAL DEL DISTRITO FEDERAL
+
+TEXTO ORIGINAL.
+
+Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
+
+DECRETO POR EL QUE SE EXPIDE EL CÓDIGO FISCAL DEL DISTRITO FEDERAL
+
+(Al margen superior un escudo que dice: Ciudad de México.- Capital en Movimiento)
+
+DECRETO POR EL QUE SE EXPIDE EL CÓDIGO FISCAL DEL DISTRITO FEDERAL.
+
+MARCELO LUIS EBRARD CASAUBON, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
+
+Que la H. Asamblea Legislativa del Distrito Federal, V Legislatura se ha servido dirigirme el siguiente:
+
+DECRETO
+
+(Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- V LEGISLATURA)
+
+ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+
+V LEGISLATURA
+
+D E C R E T A
+
+DECRETO POR EL QUE SE EXPIDE EL CÓDIGO FISCAL DEL DISTRITO FEDERAL.
+
+ÚNICO.- Se expide el Código Fiscal del Distrito Federal, para quedar como sigue:
+
+CÓDIGO FISCAL DEL DISTRITO FEDERAL
+
+## TITULO PRELIMINAR
+
+### CAPITULO UNICO. Disposiciones de Carácter General
+
+###### ARTICULO 1.
+
+Las disposiciones de este Código, son de orden público e interés general, tienen por objeto regular la obtención, administración, custodia y aplicación de los ingresos del Distrito Federal, las infracciones y delitos contra la hacienda local, las sanciones correspondientes, así como el procedimiento para interponer los medios de impugnación que el mismo establece.
+
+Los sujetos obligados a cumplir las disposiciones de este Código, deberán observar que la recaudación, concentración, manejo, administración y custodia de los ingresos locales, federales, de aplicación automática y propios, se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, equidad de género y derechos humanos.
+
+###### ARTICULO 2.
+
+Para los efectos de este Código, se entenderá por:
+
+I. Asamblea: La Asamblea Legislativa del Distrito Federal;
+
+II. Autoridades Electorales: El Instituto Electoral y el Tribunal Electoral del Distrito Federal;
+
+III. Código: El Código Fiscal del Distrito Federal;
+
+IV. Comisión: La Comisión de Derechos Humanos del Distrito Federal;
+
+V. Instituto: El Instituto de Acceso a la Información Pública del Distrito Federal;
+
+VI. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
+
+VII. Contraloría: La Contraloría General del Distrito Federal;
+
+VIII. Delegaciones: Los Órganos Político-Administrativos de cada demarcación territorial en que se divide el Distrito Federal;
+
+IX. Dependencias: Las unidades administrativas que integran la Administración Pública Centralizada;
+
+X. Entidades: Los organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos del Sector Paraestatal del Distrito Federal;
+
+XI. Estatuto: El Estatuto de Gobierno del Distrito Federal;
+
+XII. Investigación y desarrollo de tecnología: Los gastos e inversión destinados directa y exclusivamente a la ejecución de proyectos que se encuentren dirigidos al desarrollo de productos, materiales o procesos de producción, que representen un avance científico o tecnológico, de conformidad con las reglas generales acordadas por el Sistema de Aguas de la Ciudad de México y el Instituto de Ciencia y Tecnología del Distrito Federal;
+
+XIII. Grandes Contribuyentes: Las personas físicas y morales que en términos de la normatividad que emita la Tesorería, se consideren como tales;
+
+XIV. Jefe de Gobierno: El Jefe de Gobierno del Distrito Federal;
+
+XV. La Junta: La Junta Local de Conciliación y Arbitraje del Distrito Federal;
+
+XVI. Ley de Austeridad: Ley de Austeridad para el Gobierno del Distrito Federal;
+
+XVII. Ley de Ingresos: Ley de Ingresos del Distrito Federal;
+
+XVIII. Ley Orgánica: Ley Orgánica de la Administración Pública del Distrito Federal;
+
+XIX. Órganos Desconcentrados: Los que con este carácter se establezcan conforme a la Ley Orgánica de la Administración Pública del Distrito Federal y su Reglamento, que integran la Administración Pública Desconcentrada;
+
+XX. Procuraduría Fiscal: La Procuraduría Fiscal del Distrito Federal;
+
+XXI. Reglamento Interior: El Reglamento Interior de la Administración Pública del Distrito Federal;
+
+XXII. Secretaría: La Secretaría de Finanzas;
+
+XXIII. Sistema de Aguas: El Sistema de Aguas de la Ciudad de México;
+
+XXIV. Tesorería: La Tesorería del Distrito Federal;
+
+XXV. Tribunal: El Tribunal Superior de Justicia del Distrito Federal;
+
+XXVI. Tribunal de lo Contencioso: El Tribunal de lo Contencioso Administrativo del Distrito Federal;
+
+XXVII. Universidad: La Universidad Autónoma de la Ciudad de México, y
+
+XXVIII. Vivienda de Interés Social o Popular: Las determinadas con tal carácter por la Ley de Desarrollo Urbano del Distrito Federal.
+
+###### ARTICULO 3.
+
+La Secretaría interpretará para efectos administrativos las disposiciones de este Código.
+
+# LIBRO PRIMERO. DE LOS INGRESOS
+
+## TITULO PRIMERO. DEL PRESUPUESTO DE INGRESOS
+
+### CAPITULO I. Disposiciones Generales
+
+###### ARTICULO 4.
+
+Todos los ingresos que tenga derecho a percibir el Distrito Federal serán recaudados por las autoridades fiscales o por las personas y oficinas que las mismas autoricen.
+
+### CAPITULO II. De la Iniciativa de Ley de Ingresos
+
+###### ARTICULO 5.
+
+El titular de la Tesorería, en el ámbito de las atribuciones que le confiere el Reglamento Interior, deberá remitir a la Asamblea junto con la iniciativa de la Ley de Ingresos, la evaluación cuantitativa y cualitativa de los cobros realizados por concepto de las contribuciones, aprovechamientos y sus accesorios, así como los productos señalados en la Ley de Ingresos, en el que se informe la relación entre los resultados y avances y el costo de los programas respectivos.
+
+### CAPITULO III. De la Ejecución de la Ley de Ingresos
+
+###### ARTICULO 6.
+
+Corresponde a las autoridades fiscales del Distrito Federal la ejecución de la Ley de Ingresos. Dicha ejecución se llevará a cabo mediante el ejercicio de las facultades de recaudación, comprobación, determinación, administración y cobro de los impuestos, contribuciones de mejoras, derechos y aprovechamientos establecidos en este Código, así como cualquier otro ingreso que en derecho corresponda al Distrito Federal.
+
+###### ARTICULO 7.
+
+Para los efectos de este Código y demás leyes vigentes son autoridades fiscales, las siguientes:
+
+I. La Jefatura de Gobierno del Distrito Federal;
+
+II. La Secretaría;
+
+III. La Tesorería;
+
+IV. La Procuraduría Fiscal;
+
+V. La Unidad de Inteligencia Financiera;
+
+VI. La dependencia, órgano desconcentrado, entidad o unidad administrativa que en términos de las disposiciones jurídicas correspondientes, tenga competencia para llevar a cabo las atribuciones a que se refiere el artículo anterior, y
+
+VII. El Sistema de Aguas de la Ciudad de México.
+
+Para el ejercicio de sus facultades, las autoridades fiscales tendrán competencia en todo el territorio del Distrito Federal.
+
+## TITULO SEGUNDO. DE LOS ELEMENTOS GENERALES DE LAS CONTRIBUCIONES
+
+### CAPITULO I. Disposiciones Generales
+
+###### ARTICULO 8.
+
+Las personas físicas y las morales están obligadas al pago de las contribuciones y aprovechamientos establecidos en este Código, conforme a las disposiciones previstas en el mismo. Cuando en este Código se haga mención a contribuciones relacionadas con bienes inmuebles, se entenderá que se trata de los impuestos predial, sobre adquisición de inmuebles y contribuciones de mejoras.
+
+###### ARTICULO 9.
+
+Las contribuciones establecidas en este Código, se clasifican en:
+
+I. Impuestos. Son los que deben pagar las personas físicas y morales, que se encuentran en la situación jurídica o de hecho prevista en este Código, y que sean distintas a las señaladas en las fracciones II y III de este artículo;
+
+II. Contribuciones de mejoras. Son aquéllas a cargo de personas físicas o morales, privadas o públicas, cuyos inmuebles se beneficien directamente por la realización de obras públicas, y
+
+III. Derechos. Son las contraprestaciones por el uso o aprovechamiento de los bienes del dominio público del Distrito Federal, con excepción de las concesiones o los permisos, así como por recibir los servicios que presta la Entidad en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando, en este último caso, se trate de contraprestaciones que no se encuentren previstas como tales en este Código.
+
+###### ARTICULO 10.
+
+Son aprovechamientos los ingresos que perciba el Distrito Federal por funciones de derecho público y por el uso, aprovechamiento o explotación de bienes del dominio público distintos de las contribuciones, de los ingresos derivados de financiamiento, y de los que obtengan las empresas de participación estatal y los organismos descentralizados, salvo que en este último supuesto se encuentren previstos como tales en este Código. Así también, se consideran aprovechamientos, los derivados de responsabilidad resarcitoria, entendiéndose por tal la obligación a cargo de los servidores públicos, proveedores, contratistas, contribuyentes y en general, a los particulares de indemnizar a la Hacienda Pública del Distrito Federal, cuando en virtud de las irregularidades en que incurran, sea por actos u omisiones, resulte un daño o perjuicio estimable en dinero, en los términos del artículo 454 de este Código.
+
+###### ARTICULO 11.
+
+Son accesorios de las contribuciones y de los aprovechamientos los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el artículo 37 de este Código, los cuales participan de la naturaleza de la suerte principal, cuando se encuentren vinculados directamente a la misma.
+
+###### ARTICULO 12.
+
+Son productos las contraprestaciones por los servicios que presta el Distrito Federal en sus funciones de derecho privado, así como por el uso, aprovechamiento y enajenación de sus bienes de dominio privado.
+
+###### ARTICULO 13.
+
+Son créditos fiscales, los que tenga derecho a percibir el Distrito Federal o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos, de sus accesorios, así como aquellos a los que las leyes les den ese carácter y demás que el Distrito Federal tenga derecho a percibir por cuenta ajena; y las contraprestaciones por los servicios que presta el Distrito Federal en sus funciones de derecho privado, por el uso, aprovechamiento y enajenación de sus bienes de dominio privado, de acuerdo a la normatividad aplicable.
+
+###### ARTICULO 14.
+
+Las disposiciones fiscales que establezcan cargas a los particulares y las que señalen excepciones a las mismas, así como las que fijen las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa.
+
+Las otras disposiciones fiscales se interpretarán aplicando cualquier método de interpretación jurídica. A falta de norma fiscal expresa, se aplicarán supletoriamente las disposiciones del derecho común, cuando su aplicación no sea contraria a la naturaleza propia del derecho público.
+
+###### ARTICULO 15.
+
+Los contribuyentes tendrán la obligación de presentar declaraciones para el pago de las contribuciones en los casos en que así lo señale este Código. Para tal efecto lo harán en las formas que apruebe la Secretaría, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran. No obstante lo anterior, la autoridad fiscal podrá emitir propuestas de declaraciones para facilitar a los contribuyentes el cumplimiento de tales obligaciones, las cuales no tendrán el carácter de resoluciones fiscales y por tanto no relevarán a los contribuyentes de la presentación de las declaraciones que correspondan.
+
+Si los contribuyentes aceptan las propuestas de declaraciones a que se refiere el párrafo anterior, las presentarán como declaración y la autoridad ya no realizará determinaciones por el período que corresponda, si los datos conforme a los cuales se hicieron dichas determinaciones corresponden a la realidad al momento de hacerlas. Si los contribuyentes no reciben dichas propuestas podrán solicitarlas en las oficinas autorizadas.
+
+###### ARTICULO 16.
+
+Las formas oficiales aprobadas que se mencionan en este Código deberán publicarse en la Gaceta Oficial del Distrito Federal; en tanto se publiquen, los contribuyentes presentarán sus declaraciones por escrito firmado por el contribuyente o su representante legal, en el que se precise, por lo menos, el nombre, denominación o razón social según se trate, su domicilio fiscal, el número de cuenta, contribución a pagar, periodo o periodos a cubrir, así como su importe.
+
+La presentación de informes, avisos, declaraciones y demás obligaciones de carácter formal a que este Código se refiere, podrán ser cumplidas por el contribuyente o sujeto obligado a ello, a través de medios electrónicos o magnéticos que se establezcan en las reglas de carácter general que al efecto emita la Secretaría.
+
+La falta de publicación de las formas oficiales a que se refiere este artículo, no podrá ser causa de revocación o nulidad, cuando el contribuyente las impugne en recurso de revocación o ante el Tribunal de lo Contencioso.
+
+###### ARTICULO 17.
+
+Ante la negativa de la autoridad fiscal de recibir el pago de una contribución, el contribuyente puede consignarlo al Tribunal de lo Contencioso mediante cheque certificado o de caja, acompañado de la declaración o formato de pago relativos al periodo y concepto que corresponda, en términos de lo dispuesto en el artículo 15 de este Código.
+
+Una vez recibida la documentación a que hace referencia el párrafo anterior, el Tribunal de lo Contencioso en el plazo de dos días hábiles, deberá remitirla a la Tesorería, a efecto de que ésta proceda a la aplicación del pago por el período en que el contribuyente haya consignado, sin perjuicio de las facultades de comprobación de las autoridades fiscales.
+
+###### ARTICULO 18.
+
+Las cuotas y las tarifas de las contribuciones, las multas, valores y, en general, las cantidades que en su caso se establecen en este Código, vigentes en el mes de diciembre de cada año, se actualizarán a partir del primero de enero del año siguiente con el factor que al efecto se establezca en la Ley de Ingresos.
+
+En el caso de que para un año de calendario la Asamblea no emita los factores a que se refiere el párrafo anterior, las cuotas y las tarifas de las contribuciones, las multas, valores y, en general las cantidades que en su caso se establecen en este Código, que se encuentren vigentes al treinta y uno de diciembre, se actualizarán a partir del primero de enero del año siguiente, conforme a la variación del promedio anual del Índice Nacional de Precios al Consumidor emitido por el Banco de México al mes de noviembre del año anterior al ejercicio fiscal en que deban actualizarse. Para ello, deberá dividirse el índice promedio de los doce meses más recientes entre el índice promedio de los doce meses anteriores, para aplicar su resultado como factor de ajuste.
+
+###### ARTICULO 19.
+
+El pago de los derechos que establece este Código deberá hacerse por el contribuyente, previamente a la prestación de los servicios, salvo los casos en que expresamente se señale otra época de pago.
+
+Cuando no se compruebe que el pago de los derechos se ha efectuado previamente a la prestación del servicio y se trate de derechos que deban pagarse por anticipado, el servicio no se proporcionará.
+
+En caso de que el pago de derechos deba efectuarse con posterioridad a la prestación del servicio por tratarse de servicios continuos o porque así se establezca en este Código dejará de prestarse si no se efectúa dicho pago.
+
+###### ARTICULO 20.
+
+Para que se otorguen las licencias, permisos o el registro de las manifestaciones de construcción a que hacen referencia los artículos 141, fracción II, 183, 185, 186, 187, 188, 189, 191, fracciones I, II y III, y 193, fracciones I y III, de este Código, los contribuyentes deberán estar al corriente en el pago de las contribuciones respectivas a dichas licencias, permisos o registro de manifestaciones de construcción y continuar así para su revalidación correspondiente.
+
+Para lo anterior, el contribuyente deberá presentar ante la autoridad administrativa respectiva, la constancia de adeudos emitida por la Administración Tributaria que corresponda o, en su caso, por el Sistema de Aguas.
+
+###### ARTICULO 21.
+
+Se considera domicilio fiscal:
+
+I. Tratándose de personas físicas:
+
+a). El local en que se encuentre el principal asiento de sus negocios, en el Distrito Federal;
+
+b). Cuando sus actividades las realicen en la vía pública, la casa en que habiten en el Distrito Federal;
+
+c). Cuando tengan bienes que den lugar a contribuciones, el lugar del Distrito Federal en que se encuentren los bienes, y
+
+d). En los demás casos, el lugar del Distrito Federal donde tengan el asiento principal de sus actividades.
+
+II. En el caso de personas morales:
+
+a). El lugar del Distrito Federal en el que esté establecida la administración principal del negocio;
+
+b). En caso de que la administración principal se encuentre fuera del Distrito Federal, será el local que dentro del Distrito Federal se ocupe para la realización de sus actividades;
+
+c). Tratándose de sucursales o agencias, de negociaciones radicadas fuera del territorio del Distrito Federal, el lugar de éste donde se establezcan, y
+
+d). A falta de los anteriores, el lugar del Distrito Federal en el que se hubiere realizado el hecho generador de la obligación fiscal.
+
+III. Tratándose de contribuciones relacionadas con bienes inmuebles, el lugar en donde se encuentre el inmueble respectivo, a menos que el contribuyente hubiera señalado, por escrito, a la autoridad fiscal competente otro domicilio distinto, dentro del Distrito Federal.
+
+Cuando los contribuyentes señalen como domicilio fiscal uno diferente a los establecidos en este artículo, las autoridades fiscales podrán practicar diligencias en el lugar que conforme a este Código se considera domicilio fiscal. Lo establecido en este párrafo no es aplicable al domicilio que los contribuyentes indiquen en sus promociones para oír y recibir notificaciones.
+
+###### ARTICULO 22.
+
+Para efectos fiscales los avalúos vinculados con las contribuciones establecidas en este Código, sólo podrán ser practicados además de la autoridad fiscal, por:
+
+I. Peritos valuadores debidamente registrados ante la autoridad fiscal, que cumplan con los mismos requisitos que se exigen a quienes se consideran en las demás fracciones de este artículo;
+
+II. Instituciones de Crédito;
+
+III. Sociedades civiles o mercantiles cuyo objeto específico sea la realización de avalúos;
+
+IV. Dirección General de Patrimonio Inmobiliario, y
+
+V. Corredores públicos.
+
+Los peritos valuadores a que se hace referencia en la fracción I, serán independientes o auxiliares, quienes podrán suscribir y realizar avalúos. Los últimos sólo lo harán bajo el respaldo de una Institución de Crédito, sociedad civil o mercantil a que hace referencia este artículo; debiendo acreditar ante la autoridad fiscal los siguientes requisitos:
+
+a). Que tengan la acreditación de perito valuador de bienes inmuebles otorgada por el Colegio Profesional respectivo, en concordancia con la ley de la materia, o registro de la Dirección General de Patrimonio Inmobiliario;
+
+b). Que tengan como mínimo una experiencia de dos años en valuación inmobiliaria;
+
+c). Que tengan conocimientos suficientes de los procedimientos y lineamientos técnicos de valuación inmobiliaria, así como del mercado de inmuebles del Distrito Federal, para lo cual se someterá a los aspirantes a los exámenes teóricos-prácticos que la propia autoridad fiscal estime conveniente, y
+
+d). Que tengan título profesional en algún ramo relacionado con la materia valuatoria, registrado ante la autoridad competente, y que figuren en la lista anual de Peritos autorizados del Colegio Profesional respectivo, en concordancia con la ley de la materia.
+
+Los corredores públicos deberán acreditar ante la autoridad fiscal que cumplen con los requisitos de los incisos b) y c) de este artículo, así como que se encuentren legalmente habilitados para ejercer como corredores.
+
+Las Instituciones de Crédito, así como las sociedades civiles o mercantiles a que se hace mención, deberán auxiliarse para la suscripción y realización de los avalúos de los peritos auxiliares registrados ante la autoridad fiscal.
+
+La autoridad fiscal podrá convocar a las personas que cuenten con registro de perito valuador, auxiliar o independiente a la realización de exámenes teórico-prácticos, a efecto de verificar su actualización en el conocimiento de las leyes, lineamientos y manuales técnicos y administrativos, así como del mercado inmobiliario actual del Distrito Federal.
+
+Las personas a que se refieren las fracciones I a V de este artículo, deberán presentar ante la Tesorería, a más tardar el día 15 de cada mes, los avalúos que suscriban realizados en el mes inmediato anterior, respecto de inmuebles ubicados en el Distrito Federal, a través de los medios que establezca para tal efecto la Tesorería.
+
+###### ARTICULO 23.
+
+En caso de que las personas autorizadas por la autoridad fiscal o registradas ante ella, practiquen avalúos sin ajustarse a los procedimientos y lineamientos técnicos de valuación inmobiliaria, dicha autorización o registro, podrán ser suspendidos de seis hasta treinta y seis meses. Si hubiere reincidencia o participación en la comisión de algún delito fiscal, se podrá cancelar en forma definitiva dicha autorización o registro, sin perjuicio de las demás sanciones administrativas o penales en que pudieran llegar a incurrir, y se notificará al Colegio respectivo.
+
+Para la determinación de las sanciones a que hace referencia el párrafo anterior, se estará a lo dispuesto en este Código, así como en los procedimientos y lineamientos técnicos de valuación inmobiliaria.
+
+La revisión de los avalúos practicados por las personas autorizadas por la autoridad fiscal o registrada ante ella, se podrá efectuar en forma independiente al ejercicio de otras facultades de comprobación de la autoridad fiscal.
+
+Los avalúos que no reúnan los requisitos a que se refiere este Código, no producirán efectos fiscales.
+
+###### ARTICULO 24.
+
+Los avalúos a que se refiere este Código y las determinaciones de valor efectuadas por los propios contribuyentes que señala el artículo 119, tendrán vigencia durante seis meses, contados a partir de la fecha en que se efectúen, salvo que durante ese período los inmuebles objeto de avalúo, sufran modificaciones que impliquen variaciones en sus características físicas.
+
+###### ARTICULO 25.
+
+La Federación, el Distrito Federal, los estados, los municipios, las entidades paraestatales, los prestadores de servicios públicos concesionados de carácter federal o local y, en general, cualquier persona o institución oficial o privada, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones o estén exentos de ellas, deberán cubrir las que establezca este Código, con las excepciones que en él se señalan.
+
+###### ARTICULO 26.
+
+Tratándose de las contribuciones relacionadas con la propiedad inmobiliaria, a que se refiere el segundo párrafo del inciso c) de la fracción IV del artículo 115 de la Constitución, la Federación y los organismos descentralizados, sólo quedan relevados de su pago cuando los bienes de que se trate se encuentren sujetos al régimen de dominio público de la Federación, conforme a las disposiciones de las leyes respectivas, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
+Las personas que de acuerdo con las disposiciones fiscales no estén obligadas a pagar contribuciones únicamente tendrán las obligaciones de carácter formal que establezca este Código.
+
+###### ARTICULO 27.
+
+Los interesados deberán presentar al Notario ante quien se formalice en escritura la adquisición o transmisión de la propiedad de bienes inmuebles las declaraciones y comprobantes de pago, relativos al Impuesto Predial, Derechos por el Suministro de Agua y, en su caso, Contribuciones de Mejoras, respecto del bien inmueble de que se trate, correspondientes a los últimos cinco años anteriores al otorgamiento de dichos instrumentos.
+
+Los Notarios deberán agregar al apéndice de la escritura referida en el párrafo anterior, una relación en la que únicamente se mencionen las declaraciones y comprobantes de pago mencionados, que efectivamente les sean exhibidos por los interesados; quienes estarán obligados a mostrarlos a la autoridad fiscal, cuando sean requeridos para tal efecto.
+
+Tratándose de adeudos fiscales que fueren declarados sin efecto por sentencia definitiva de los tribunales judiciales o administrativos o bien se encuentre garantizado el interés fiscal por haberse interpuesto algún medio de defensa, los citados Notarios deberán hacerlo constar en la escritura de que se trate y agregarán la documentación que lo acredite al apéndice respectivo.
+
+El Registro Público de la Propiedad correspondiente, únicamente inscribirá los citados documentos cuando conste la relación a que se refiere este artículo.
+
+### CAPITULO II. Del Nacimiento, Determinación, Garantía y Extinción de los Créditos Fiscales
+
+###### ARTICULO 28.
+
+La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho previstas en las disposiciones fiscales, la cual se determinará y liquidará conforme a las disposiciones vigentes en el momento de su nacimiento, pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
+
+###### ARTICULO 29.
+
+La determinación de los créditos fiscales establecidos en este Código, corresponde a los contribuyentes.
+
+En caso de que las autoridades fiscales deban hacer la determinación, los contribuyentes les proporcionarán la información necesaria dentro de los quince días siguientes a la fecha de su causación.
+
+###### ARTICULO 30.
+
+Los créditos fiscales a que este Código se refiere podrán garantizarse en alguna de las formas siguientes:
+
+I. Depósito de dinero;
+
+II. Prenda o hipoteca;
+
+III. Fianza otorgada por compañía autorizada, la que no gozará de los beneficios de orden y excusión;
+
+IV. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia, y
+
+V. Embargo en la vía administrativa.
+
+La garantía deberá comprender, además del crédito fiscal actualizado, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá ampliarse la garantía para que cubra dicho crédito y el importe de los recargos correspondientes a los doce meses siguientes, con excepción de aquellos casos previstos en la fracción V del artículo siguiente.
+
+###### ARTICULO 31.
+
+La garantía a que se refiere el artículo anterior se otorgará a favor de la Tesorería en los siguientes términos:
+
+I. El depósito de dinero, podrá otorgarse mediante billete o certificado expedido por Nacional Financiera, S.N.C., el cual quedará en poder de la Secretaría, o en efectivo mediante recibo oficial expedido por la propia Secretaría, cuyo original se entregará al interesado;
+
+II. Tratándose de prenda o hipoteca se constituirá sobre los siguientes bienes:
+
+a). Bienes muebles por el 75% de su valor de avalúo siempre que estén libres de gravámenes hasta por ese porciento. La Secretaría podrá autorizar a instituciones o corredores públicos para valuar o mantener en depósito determinados bienes. La prenda deberá inscribirse en el Registro Público de la Propiedad correspondiente, cuando los bienes en que recaiga estén sujetos a esta formalidad.
+
+No serán admisibles como garantía los bienes que ya se encuentren embargados por autoridades fiscales, judiciales o en el dominio de los acreedores. Los de procedencia extranjera, sólo se admitirán cuando se compruebe su legal estancia en el país.
+
+Las garantías a que se refiere este inciso, podrán otorgarse entregando contratos de administración celebrados con instituciones financieras que amparen la inversión en Certificados de la Tesorería de la Federación o cualquier otro título emitido por el Gobierno Federal, que sea de renta fija, siempre que se designe como beneficiario único a la Tesorería. En estos supuestos se aceptará como garantía el 100% del valor nominal de los certificados o títulos, debiendo reinvertirse una cantidad suficiente para cubrir el interés fiscal, pudiendo el contribuyente retirar los rendimientos, y
+
+b). Bienes inmuebles por el 75% del valor de avalúo o catastral. Para estos efectos se deberá acompañar a la solicitud respectiva el certificado del Registro Público de la Propiedad y de Comercio en el que no aparezca anotado algún gravamen ni afectación urbanística o agraria, que hubiera sido expedido cuando más con tres meses de anticipación. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de éstos y el interés fiscal a garantizar no podrá exceder del 75% del valor.
+
+En la hipoteca, el otorgamiento de la garantía se hará en escritura pública que deberá inscribirse en el Registro Público de la Propiedad correspondiente, y contener los datos relacionados con el crédito fiscal. El otorgante podrá garantizar con la misma hipoteca los recargos futuros o ampliar la garantía cada año en los términos del artículo 30 de este Código;
+
+III. En caso de que garantice mediante fianza, ésta deberá quedar en poder y guarda de la Tesorería o de la autoridad recaudadora del Distrito Federal que sea competente para cobrar coactivamente créditos fiscales;
+
+IV. Tratándose del embargo en la vía administrativa, se sujetará a las siguientes reglas:
+
+a). Se practicará a solicitud del contribuyente;
+
+b). El contribuyente señalará los bienes en que deba trabarse, debiendo ser suficientes para garantizar el interés fiscal, siempre que se cumplan los requisitos y porcientos que establece este artículo. No serán susceptibles de embargo los bienes de fácil descomposición o deterioro o materias flamables, tóxicas o peligrosas; tampoco serán susceptibles de embargo los bienes necesarios para trabajar y llevar a cabo la actividad principal del negocio;
+
+c). Tratándose de personas físicas el depositario de los bienes será el propietario y en el caso de personas morales el representante legal. Cuando a juicio del superior jerárquico de la autoridad recaudadora exista peligro de que el depositario se ausente, enajene u oculte sus bienes o realice maniobras tendientes a evadir el cumplimiento de sus obligaciones, podrá removerlo del cargo; en este supuesto los bienes se depositarán en un almacén general de depósito, o en su caso, con la persona que designe el mismo;
+
+d). Deberá inscribirse en el Registro Público de la Propiedad correspondiente, el embargo de los bienes que estén sujetos a esta formalidad, y
+
+e). Deberá cubrirse, con anticipación a la práctica de la diligencia de embargo en la vía administrativa, los gastos de ejecución señalados en la fracción II del artículo 373 de este Código. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia;
+
+V. Para que un tercero asuma la obligación de garantizar el interés fiscal, deberá sujetarse a lo siguiente:
+
+a). Manifestará su aceptación mediante escrito firmado ante notario público o ante la autoridad recaudadora que tenga encomendado el cobro del crédito fiscal, requiriéndose en este caso la presencia de dos testigos;
+
+b). Cuando sea persona moral la que garantice el interés fiscal, el monto de la garantía deberá ser menor al 10% de su capital social mínimo fijo, y siempre que dicha persona no haya tenido pérdida fiscal para efectos del impuesto sobre la renta en los dos últimos ejercicios de doce meses o que aún teniéndola, ésta no haya excedido de un 10% de su capital social mínimo fijo, y
+
+c). En caso de que sea una persona física la que garantice el interés fiscal, el monto de la garantía deberá ser menor al 10% de los ingresos declarados para efectos del impuesto sobre la renta en el último ejercicio, sin incluir el 75% de los ingresos declarados como actividades empresariales o del 10% del capital afecto a su actividad empresarial, en su caso.
+
+Para formalizar el otorgamiento de la garantía, el titular de la oficina recaudadora que corresponda, deberá levantar un acta de la que entregará copia a los interesados y solicitará que se hagan las anotaciones correspondientes en el Registro Público de la Propiedad correspondiente.
+
+Para que un tercero asuma la obligación de garantizar por cuenta de otro con prenda, hipoteca o embargo en la vía administrativa, deberá cumplir con los requisitos que para cada caso se establecen en este artículo.
+
+###### ARTICULO 32.
+
+La garantía del interés fiscal se ofrecerá por el interesado ante la autoridad recaudadora que corresponda, para que en un plazo de cinco días hábiles la califique, acepte si procede y le dé el trámite correspondiente. El ofrecimiento deberá ser acompañado de los documentos relativos al crédito fiscal por garantizar, y se expresará la causa por la que se ofrece la garantía.
+
+Las autoridades a que se refiere el párrafo anterior para calificar la garantía ofrecida, deberán verificar que se cumplan los requisitos que se establecen en este Código en cuanto a la clase de la garantía ofrecida, el motivo por el cual se otorgó y que su importe cubra los conceptos que señala el último párrafo del artículo 30 de este Código; cuando no se cumplan, la autoridad requerirá al interesado, a fin de que en un plazo de cinco días contados a partir del día siguiente a aquél en que se le notifique dicho requerimiento, cumpla con el requisito omitido; en caso contrario, no se aceptará la garantía.
+
+Para garantizar el interés fiscal sobre un mismo crédito, podrán combinarse las diferentes formas que al efecto establece el artículo 30 de este Código, así como sustituirse entre sí, caso en el cual, antes de cancelarse la garantía original deberá constituirse la sustituta, cuando no sea exigible la que se pretende sustituir.
+
+La garantía constituida podrá comprender uno o varios créditos fiscales, siempre que la misma comprenda los conceptos previstos en el último párrafo del artículo 30 de este Código.
+
+###### ARTICULO 33.
+
+La cancelación de la garantía procederá en los siguientes casos:
+
+I. Por sustitución de garantía;
+
+II. Por el pago del crédito fiscal;
+
+III. Cuando en definitiva quede sin efectos la resolución que dio origen al otorgamiento de la garantía, y
+
+IV. En cualquier otro caso en que deba cancelarse de conformidad con las disposiciones de este Código.
+
+La garantía podrá disminuirse o sustituirse por una menor en la misma proporción en que se reduzca el crédito fiscal por pago de una parte de éste.
+
+###### ARTICULO 34.
+
+Para los efectos del artículo anterior el contribuyente o el tercero que tenga interés jurídico, deberá presentar solicitud de cancelación de garantía ante la autoridad recaudadora que la haya exigido o recibido, acompañando los documentos necesarios para tal efecto.
+
+La cancelación de las garantías en las que con motivo de su otorgamiento se hubiera efectuado inscripción, se hará mediante oficio de la autoridad recaudadora correspondiente al Registro Público de la Propiedad.
+
+###### ARTICULO 35.
+
+Procede garantizar el interés fiscal, cuando:
+
+I. Se solicite la suspensión del procedimiento administrativo de ejecución y el crédito fiscal exceda de ochocientas veces el salario mínimo general diario vigente en el Distrito Federal;
+
+II. Se solicite prórroga para el pago de los créditos fiscales o para que sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente y siempre que el crédito fiscal tenga un monto superior a ochocientas veces el salario mínimo general diario vigente en el Distrito Federal;
+
+III. Se solicite la aplicación del producto en los términos del artículo 385 de este Código;
+
+IV. Tratándose de créditos derivados de multas administrativas y éstos sean impugnados, independientemente de su monto, y
+
+V. En los demás casos que señale este ordenamiento y demás disposiciones legales aplicables.
+
+La Secretaría podrá dispensar la garantía del interés fiscal cuando, en relación con el monto del crédito respectivo, sean notorias la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
+
+###### ARTICULO 36.
+
+Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del artículo 30 de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
+
+Si la garantía consiste en depósito de dinero una vez que el crédito fiscal quede firme procederá su aplicación por la Secretaría.
+
+Tratándose de fianza a favor del Distrito Federal, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se estará a lo dispuesto en las leyes que rijan la materia.
+
+###### ARTICULO 37.
+
+El pago de un crédito fiscal podrá hacerse en efectivo, con cheque de caja o certificado, o en especie en los casos que así lo establezca este Código y demás leyes aplicables.
+
+La Secretaría, aceptará otros instrumentos de pago diferentes a los señalados en el párrafo anterior, previo cumplimiento de los requisitos que se señalen en las reglas de carácter general que para tal efecto expida, mismas que deberán publicarse en la Gaceta Oficial del Distrito Federal, o bien, cuando se cuente con la autorización que en cada caso emita la Secretaría.
+
+Los pagos con cheque se recibirán salvo buen cobro. Se aceptarán también cheques distintos a la cuenta personal del contribuyente siempre y cuando el librador se identifique previamente a satisfacción de la autoridad, salvo cuando se trate de cheques de caja.
+
+El cheque recibido por las autoridades fiscales deberá ser presentado al librado dentro de los quince días naturales siguientes al de su fecha y en caso de que no sea pagado por causas imputables al librador, dará lugar al cobro del monto del cheque, a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de la suerte principal y los accesorios que se hubieren generado a cargo del contribuyente.
+
+Para tal efecto, la autoridad notificará al librador respectivo, para que dentro del plazo de tres días, contado a partir de aquél en el que surta efectos la notificación correspondiente, efectúe el pago a que se refiere el párrafo anterior, o acredite con las pruebas documentales procedentes que la falta de pago no le es imputable o presente escrito acompañando dichas pruebas.
+
+Transcurrido el plazo señalado si no se obtiene el pago a que se alude en el párrafo anterior o el librador no demuestra que la falta de pago del título de crédito se produjo por causas ajenas a su voluntad, la autoridad fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada, el crédito fiscal y en su caso, los demás accesorios causados, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediera.
+
+Quien pague créditos fiscales recibirá de la oficina recaudadora el recibo oficial o la forma prellenada, así como los medios de comprobación fiscal de carácter electrónico, documentos y medios que deberán ser expedidos o generados, y controlados exclusivamente por la Secretaría, en tratándose de recibo oficial o forma prellenada deberá constar la impresión original de la máquina registradora, y cuando se carezca de ella, deberá constar el sello de la oficina recaudadora y el nombre y la firma del cajero o del servidor público autorizado. Tratándose de los pagos efectuados a través de las instituciones de crédito, el comprobante para el contribuyente deberá contener los requisitos que se establezcan en las reglas de carácter general a que se refiere el segundo párrafo de este artículo, en las que se regulará el cumplimiento de obligaciones fiscales de carácter formal y la forma de comprobar el pago de la obligación fiscal, tratándose de pagos realizados mediante transferencia electrónica, así como la fecha en que se tendrá por cumplida.
+
+En el caso de que el contribuyente haya realizado el pago de los créditos fiscales a su cargo con cheque o mediante transferencia electrónica, y el entero no aparezca reflejado en los sistemas de cómputo de la Tesorería, pero el título de crédito o el abono por transferencia electrónica se encuentre concentrado en las cuentas bancarias de la Secretaría, pero no abonado a la cuenta del contribuyente, procede se reconozca el entero realizado y se refleje en los registros de la Tesorería, debiéndose seguir el procedimiento resarcitorio en contra de los funcionarios que resulten responsables.
+
+###### ARTICULO 38.
+
+Para el pago de los créditos fiscales y sus accesorios, las cantidades en fracciones de la unidad monetaria, se ajustarán hasta cincuenta centavos al peso inferior y a partir de cincuenta y un centavos al peso superior.
+
+###### ARTICULO 39.
+
+Los créditos fiscales se pagarán en la fecha o dentro del plazo señalado en las disposiciones respectivas.
+
+A falta de disposición expresa, el pago deberá hacerse dentro de los siguientes quince días a aquél en que se produzca el hecho generador.
+
+Tratándose de los créditos fiscales determinados por las autoridades, en el ejercicio de sus facultades de comprobación, determinación o sancionadoras, deberán pagarse o garantizarse junto con sus accesorios dentro de los quince días siguientes a aquél en que surta efectos su notificación.
+
+###### ARTICULO 40.
+
+Los particulares podrán acudir ante las autoridades fiscales dentro de un plazo de seis días siguientes a aquél en que haya surtido efectos la notificación de las resoluciones a que se refieren los artículos 88, 464, 466, 467 y 470 de este Código, así como en los casos en que la autoridad fiscal determine mediante reglas de carácter general, a efecto de hacer las aclaraciones que consideren pertinentes, debiendo la autoridad, resolver en un plazo de seis días contados a partir de que quede debidamente integrado el expediente.
+
+Lo previsto en este artículo no constituye instancia, ni interrumpe ni suspende los plazos para que los particulares puedan interponer los medios de defensa. Las resoluciones que se emitan por la autoridad fiscal no podrán ser impugnadas por los particulares.
+
+###### ARTICULO 41.
+
+Cuando no se cubran los créditos fiscales en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, lo anterior debido al transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban de actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor que determine el Banco de México conforme a la legislación aplicable que regula su cálculo, del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período.
+
+En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último Indice mensual publicado.
+
+La actualización no se efectuará por fracciones de mes.
+
+Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización.
+
+El factor de actualización a que se refiere este artículo deberá calcularse hasta el diez milésimo.
+
+Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de los créditos fiscales, será 1.
+
+###### ARTICULO 42.
+
+La falta de pago de un crédito fiscal en la fecha o plazo a que se refiere el artículo 39 de este Código, dará lugar a que el crédito sea exigible, y deberán pagarse recargos en concepto de indemnización a la Hacienda Pública del Distrito Federal por la falta de pago oportuno. Dichos recargos se calcularán conforme a una tasa que será 30% mayor de la que establezca la Asamblea en la Ley de Ingresos, para el caso de pago diferido o en parcialidades.
+
+Los recargos se causarán hasta por cinco años por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe, excepto cuando el contribuyente pague en forma espontánea en términos del artículo 462 de este Código, los créditos fiscales omitidos, caso en el cual el importe de los recargos no excederá de los causados en los últimos doce meses.
+
+Cuando el contribuyente deba pagar recargos o las autoridades fiscales intereses, la tasa aplicable en un mismo periodo mensual o fracción de éste, será siempre la que esté en vigor al primer día del mes o fracción de que se trate, independientemente de que dentro de dicho periodo la tasa varíe.
+
+Los recargos se calcularán sobre el total de las contribuciones o aprovechamientos previamente actualizados en términos del artículo 41 de este Código, excluyendo los propios recargos y cualquier otro accesorio. En los mismos términos se calcularán los recargos sobre otros créditos fiscales.
+
+Salvo lo dispuesto en los artículos 44, fracción I, y 105 del presente Código, en ningún caso las autoridades fiscales podrán condonar total o parcialmente los recargos correspondientes.
+
+###### ARTICULO 43.
+
+Cuando el contribuyente solicite la liquidación y la autoridad se retrase para emitirla por causas imputables a ella, no se aplicarán recargos ni sanciones, por el período en que hubiere durado la emisión de la liquidación, siempre que el contribuyente pague su adeudo dentro de los quince días posteriores al que se le haya notificado la resolución liquidatoria.
+
+###### ARTICULO 44.
+
+El Jefe de Gobierno mediante resoluciones de carácter general podrá emitir resoluciones de carácter para:
+
+I. Condonar o eximir, total o parcialmente, el pago de contribuciones, aprovechamientos y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades cuando se haya afectado o trate de impedir que se afecte la situación de alguna zona del Distrito Federal, una rama de actividad o su realización, así como en casos de catástrofes sufridas por fenómenos naturales, plagas o epidemias, y
+
+II. Dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos señalados en este Código, sin variar las disposiciones relacionadas con el sujeto, el objeto, la base, la cuota, la tasa o la tarifa de los gravámenes, las infracciones o las sanciones, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
+
+La emisión de resoluciones de carácter general que conforme a este artículo dicte el Jefe de Gobierno, deberán apegarse a lo siguiente:
+
+1. Cuando se haya afectado o trate de impedir que se afecte la situación de alguna zona del Distrito Federal;
+
+2. Cuando se haya afectado o trate de impedir que se afecte una rama de actividad o su realización;
+
+En los casos de catástrofes sufridas por fenómenos naturales, plagas o epidemias;
+
+3. Las resoluciones de carácter general deberán estar fundadas y motivadas de acuerdo con lo que establece la regla II de éste mismo artículo;
+
+4. Las resoluciones de carácter general deberán mencionar, en cuanto al sujeto:
+
+a. Las personas beneficiarias y las porciones del padrón que se incluirán, detallando zona catastral o área de valor, colonia y predios.
+
+b. Las personas beneficiarias en el caso de ramas de actividad, determinando los giros que la integran, y de acuerdo al padrón de la Tesorería;
+
+5. Respecto al alcance de los beneficios, se deberán contemplar en el resolutivo:
+
+a. El alcance del beneficio en cuanto a importe o porcentaje de condonación;
+
+b. Las contribuciones, aprovechamientos y accesorios que estarán incluidos en el beneficio;
+
+c. Los ejercicios fiscales contemplados en el beneficio;
+
+d. El plazo en que se difieren los pagos otorgados por el beneficio;
+
+6. Señalar las contribuciones o aprovechamientos a que se refieren, el monto o la proporción de los beneficios y plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
+
+En los informes de avance trimestral, se informará sobre el ejercicio que haga el Jefe de Gobierno de la facultad conferida en este artículo.
+
+###### ARTICULO 45.
+
+Las autoridades fiscales competentes, a petición de los contribuyentes, podrán autorizar el pago a plazos de los créditos fiscales, ya sea diferido o en parcialidades, sin que la duración total de los plazos autorizados para pagar exceda de cuarenta y ocho meses. Para estos efectos, los contribuyentes deberán pagar cuando menos el 20% del monto total del crédito fiscal al momento de la autorización del pago a plazos. El monto total del adeudo se integrará por la suma de los siguientes conceptos:
+
+a). El monto de las contribuciones omitidas actualizado desde el mes en que se debieron pagar y hasta aquél en que se autorice el pago a plazos.
+
+b). Las multas que correspondan actualizadas desde el mes en que se debieron pagar y hasta aquél en que se autorice el pago a plazos.
+
+c). Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que se autorice el pago a plazos.
+
+No procederá la autorización que refiere el párrafo anterior, tratándose de los créditos derivados de los Impuestos sobre Adquisición de Inmuebles, sobre Loterías, Rifas, Sorteos y Concursos y por la Prestación de Servicios de Hospedaje, de multas administrativas, así como a los provenientes de derechos, con excepción de los de Suministro de Agua.
+
+Durante el plazo concedido se causarán recargos por concepto de financiamiento, que se calcularán sobre el saldo insoluto del crédito fiscal, a la tasa que establezca la Asamblea en la Ley de Ingresos.
+
+Las autoridades fiscales al autorizar el pago a plazos, ya sea en forma diferida o en parcialidades, exigirán que se garantice el interés fiscal en relación con el monto total del adeudo restante, dentro de los quince días siguientes a la fecha en que hubiere sido autorizada la solicitud de pago a plazos en los términos del artículo 30 de este Código, cuando el contribuyente esté obligado a otorgar garantía.
+
+Notificada la autorización de pago a plazos, el contribuyente deberá efectuar el pago de la primera parcialidad dentro de los cinco días hábiles siguientes en que surta efectos la notificación, en caso de incumplimiento se tendrá por desistido al contribuyente de su petición.
+
+Tratándose de la autorización del pago a plazos en parcialidades, el saldo que se utilizará para el cálculo de las parcialidades será el resultado de disminuir el pago efectuado conforme a lo señalado en el primer párrafo de este artículo, del monto total del crédito fiscal.
+
+Tratándose de la autorización del pago a plazos de forma diferida, el monto que se diferirá será el resultado de restar el pago efectuado conforme a lo señalado en el primer párrafo de este artículo, del monto total del crédito fiscal.
+
+El monto para liquidar el adeudo a que hace referencia el párrafo anterior, deberá cubrirse en una sola exhibición a más tardar en la fecha de pago especificada por el contribuyente en su solicitud de autorización de pago a plazos.
+
+La autorización a que se refiere este artículo, sólo podrá otorgarse por dos ocasiones para el mismo crédito fiscal.
+
+En los casos en que el crédito fiscal esté controvertido, la autoridad fiscal, previa autorización de la Secretaría, podrá modificar dicho crédito, conviniendo con el contribuyente la forma de efectuar el pago del adeudo fiscal.
+
+###### ARTICULO 46.
+
+Cesará la autorización para pagar a plazo en forma diferida o en parcialidades, y será inmediatamente exigible el crédito fiscal, cuando:
+
+I. No se otorgue, desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente, en los términos establecidos en este Código;
+
+II. El contribuyente sea declarado en concurso mercantil o solicite su liquidación judicial;
+
+III. El contribuyente no pague tres parcialidades sucesivas con sus recargos, o no efectúe el pago de alguna de las dos últimas parcialidades autorizadas, en el transcurso de los dos meses siguientes al vencimiento de la parcialidad omitida.
+
+Cuando no se paguen oportunamente los montos de las parcialidades autorizadas, el contribuyente estará obligado a pagar recargos por falta de pago oportuno sobre la parcialidad no cubierta oportunamente;
+
+IV. El deudor cambie de domicilio, sin dar aviso a la autoridad fiscal que otorgó dicha autorización, y
+
+V. El contribuyente no pague el crédito fiscal en el plazo otorgado en el caso de diferimiento de pago.
+
+###### ARTICULO 47.
+
+Los pagos que haga el deudor se aplicarán, antes que al crédito principal, a cubrir los accesorios en el siguiente orden:
+
+I. La indemnización a que se refiere el artículo 37 de este Código;
+
+II. Los recargos;
+
+III. Las multas, y
+
+IV. Los gastos de ejecución.
+
+Cuando se trate de contribuciones que se causen periódicamente, y se adeuden los correspondientes a diversos períodos, si los pagos relativos a esas contribuciones no cubren la totalidad del adeudo, se aplicarán a cuenta de los adeudos que corresponden a los períodos más antiguos.
+
+Los contribuyentes podrán efectuar pagos a cuenta de los créditos fiscales determinados por las autoridades fiscales, lo cual no interrumpirá el procedimiento administrativo de ejecución.
+
+Las oficinas recaudadoras recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Únicamente podrán rechazar la presentación cuando no contengan el nombre, denominación o razón social del contribuyente, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+
+###### ARTICULO 48.
+
+Son responsables solidarios del pago de los créditos fiscales:
+
+I. Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar contribuciones, hasta por el monto de dichas contribuciones;
+
+II. Quien manifieste expresamente su voluntad de asumir responsabilidad solidaria;
+
+III. Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o concurso mercantil, así como de aquéllas que se causaron durante su gestión;
+
+IV. La persona o personas cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las personas morales, por las contribuciones causadas o no retenidas por dichas personas morales durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la persona moral que dirigen, cuando:
+
+a). No presenten solicitud de inscripción al padrón del Impuesto sobre Nóminas;
+
+b). Cambien de domicilio sin presentar el aviso respectivo, siempre que el cambio se efectúe después de que se hubiera notificado el inicio del ejercicio de las facultades de comprobación previstas en este Código y antes de que se haya notificado la resolución que se dicte con motivo de dicho ejercicio, o cuando se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos, y
+
+c). No lleven contabilidad, la oculten o la destruyan;
+
+V. Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del valor de la propia negociación;
+
+VI. Los representantes legales y mandatarios, incluyendo a los albaceas, por los créditos fiscales que dejen de pagar sus representados o mandantes, en relación con las operaciones en que aquéllos intervengan, hasta por el monto de dichos créditos;
+
+VII. Quienes ejerzan la patria potestad o la tutela, por las contribuciones a cargo de su representado;
+
+VIII. Los legatarios y los donatarios a título particular respecto de los créditos fiscales que se hubieran causado en relación con los bienes legados o donados, hasta por el monto de éstos;
+
+IX. Los adquirentes de bienes inmuebles, cuando los enajenantes no hayan pagado las contribuciones o lo hayan hecho en cantidad menor a lo señalado en este Código, sin que la responsabilidad exceda del valor del inmueble. En el caso de inmuebles bajo el régimen de propiedad en condominio, la responsabilidad solidaria del adquirente de los derechos de una unidad de propiedad exclusiva, será proporcional al porcentaje indiviso que le corresponda a esa unidad, en relación al total del inmueble condominal;
+
+X. Los terceros que para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el embargo de bienes, hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado;
+
+XI. Los socios o accionistas, respecto de las contribuciones que se hubieran causado por la sociedad cuando tenía tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con sus bienes, siempre que dicha sociedad incurra en cualquiera de los supuestos a que se refieren los incisos a), b) y c) de la fracción IV de este artículo, sin que la responsabilidad exceda de la participación que tenían en el capital social de la sociedad durante el periodo o la fecha de que se trate, siempre que hubieren tenido algún cargo de dirección o administración en la sociedad;
+
+XII. Los propietarios de los inmuebles en donde se instalen tomas de agua, cuando los usuarios del servicio no cubran la contribución por el suministro de este líquido;
+
+XIII. Las sociedades escindidas, por las contribuciones causadas en relación con la adquisición de los inmuebles transmitidos por la escindente, así como por las contribuciones causadas por esta última con anterioridad a la escisión, sin que la responsabilidad exceda del valor del capital de cada una de ellas al momento de la escisión;
+
+XIV. Las sociedades nacionales de crédito, instituciones de crédito y cualquier otra persona autorizada por la ley para llevar a cabo operaciones fiduciarias, respecto de los créditos fiscales que se hubieren causado por las operaciones derivadas de la actividad objeto del fideicomiso, hasta por el valor de los bienes fideicomitidos;
+
+XV. Los copropietarios, o los participantes en derechos mancomunados, respecto de los créditos fiscales derivados del bien o derecho en común y hasta por el valor de éste. Por el excedente de los créditos fiscales cada uno quedará obligado en la proporción que le corresponda en el bien o derecho mancomunado;
+
+XVI. Las personas autorizadas y registradas para practicar avalúos con fines fiscales, así como los peritos valuadores que auxilien a las primeras, con relación a los avalúos que hayan emitido, siempre que con ellos se hayan determinado contribuciones de manera incorrecta, en perjuicio del Distrito Federal;
+
+XVII. Quien exprese su voluntad por medio de un contrato o título de concesión, de pagar las contribuciones en lugar del sujeto directo obligado en la relación jurídico principal;
+
+XVIII. La persona que libre un cheque para cubrir el monto de un crédito fiscal a cargo de un tercero, que no sea pagado por causas imputables al propio librador, será responsable solidario de la suerte principal y los accesorios que se hubieren generado a cargo del contribuyente, de conformidad con lo dispuesto por el artículo 37 de este Código;
+
+XIX. Las instituciones de crédito, cuando por causas imputables a éstas no fue posible el pago del cheque a que hace referencia el artículo 37 de este Código, hasta por el pago de la indemnización de que se trate;
+
+XX. Los usufructuarios de bienes inmuebles así como los que detenten derechos de uso y de habitación, por las contribuciones que se hubieren causado con relación a los bienes usufructuados, y
+
+XXI. Las demás personas físicas o morales que señale este Código y las leyes aplicables.
+
+La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por los actos u omisiones propios.
+
+###### ARTICULO 49.
+
+Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con este Código y demás leyes aplicables. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo para abono en cuenta del contribuyente o depósito en su cuenta, para lo cual deberá manifestar su aprobación y proporcionar su número de cuenta en la solicitud de devolución correspondiente, o certificado de devolución expedido a nombre de este último, el cual se podrá utilizar para cubrir cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor, o bien, transmitirse a diverso contribuyente quien podrá aplicarlo como medio de pago en los mismos términos o a su vez transmitirlo. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes.
+
+En su caso podrá también realizarse la devolución mediante la dación en pago.
+
+Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente.
+
+Cuando se solicite la devolución, ésta deberá efectuarse dentro de un plazo de ciento veinte días hábiles siguientes a la fecha en que se presentó la solicitud ante la autoridad competente con todos los datos, informes y documentos que señale la forma oficial respectiva; si faltare alguno de los datos, informes o documentos, la autoridad requerirá al promovente, a fin de que en un plazo de diez días hábiles cumpla con el requisito omitido. En caso de no subsanarse la omisión, la promoción se tendrá por no presentada. Si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades deberán acompañar al requerimiento la forma respectiva en el número de ejemplares establecido. De existir requerimiento en los términos de este párrafo, el plazo de ciento veinte días hábiles se contará a partir de que se presente la información, datos o documentos solicitados.
+
+Las autoridades fiscales podrán devolver una cantidad menor a la solicitada por los contribuyentes con motivo de la revisión efectuada a la documentación aportada. En este caso, se considerará negada por la parte que no sea devuelta. Para tales efectos, las autoridades fiscales deberán fundar y motivar las causas que sustentan la negativa parcial o total de la devolución respectiva, la que se tendrá que notificar al contribuyente.
+
+No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes y documentos, a que se refiere el cuarto párrafo anterior, pudiendo ejercerlas en cualquier momento.
+
+Para el caso de depósito en cuenta, se entenderá que la devolución se realizó a partir de la fecha en que la autoridad efectúe el depósito en la institución bancaria señalada en la solicitud de devolución. El comprobante del pago de la devolución respectiva, será el de la transferencia electrónica de recursos efectuada por la autoridad.
+
+No se causarán intereses durante el tiempo que transcurra de la fecha en que la autoridad notifique al solicitante que el cheque o el certificado por el importe de la devolución se encuentra a su disposición en las oficinas de la autoridad fiscal al día en que lo recoja.
+
+Si la devolución no se hubiera efectuado en el plazo de ciento veinte días hábiles, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al de vencimiento de dicho plazo, conforme a una tasa que será igual a la prevista para los recargos en los términos del articulo 42 de este Código, sobre las cantidades que se hayan pagado indebidamente.
+
+El pago de intereses deberá incluirse en la liquidación correspondiente, sin necesidad de que exista petición expresa del pago de intereses por parte del contribuyente.
+
+El contribuyente que habiendo efectuado el pago de una contribución determinada por él mismo o por la autoridad, interponga oportunamente los medios de defensa que el presente Código y demás leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del Distrito Federal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 42 de este Código, sobre las cantidades que se hayan pagado indebidamente y a partir de que se efectuó el pago. En estos casos el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra la misma o distinta contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor.
+
+En ningún caso los intereses a cargo del Distrito Federal excederán de los que se causen en cinco años. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 42 de este Código, sobre las cantidades devueltas indebidamente, como por los intereses indebidamente pagados por las autoridades fiscales, a partir de la fecha de la devolución.
+
+La obligación de devolver prescribe en el término de tres años. Para estos efectos, la solicitud de devolución que presente el particular interrumpe la prescripción.
+
+En el caso de contribuciones pagadas cuyo cobro esté controvertido, la autoridad recaudadora, podrá convenir con el contribuyente la reducción en el monto de la devolución, siempre y cuando se reúnan los siguientes requisitos:
+
+I. Que lo solicite el contribuyente previo desistimiento de la acción intentada;
+
+II. Que el contribuyente acredite fehacientemente que interpuso los medios de defensa que este Código o las leyes establecen, y
+
+III. Que la reducción no sea superior a un 40%.
+
+###### ARTICULO 50.
+
+El crédito fiscal se extingue por prescripción en el término de cinco años. El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
+
+La declaratoria de prescripción de créditos fiscales podrá hacerse de oficio por el Órgano Colegiado de Tesorería que para tal efecto se integre o a petición de los particulares por el Procurador Fiscal del Distrito Federal.
+
+Asimismo, se interrumpirá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+
+###### ARTICULO 51.
+
+Los contribuyentes obligados a pagar mediante declaración o cualquier otro formato de trámite de pago podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución o de contribuciones distintas que no tengan destino específico, incluyendo sus accesorios, y se realizará en los formatos que al efecto emita la Secretaría.
+
+La compensación de contribuciones de distinta naturaleza, se deberá efectuar a partir de la declaración correspondiente al mes o período inmediato siguiente a aquél al que corresponda la declaración en la que se determinó el saldo a favor.
+
+Una vez efectuada la compensación a que se refiere el párrafo anterior, si resulta un remanente de saldo a favor, éste se podrá compensar en las declaraciones correspondientes a los meses o períodos posteriores, o bien solicitar su devolución.
+
+No podrá solicitarse la devolución de las cantidades determinadas a favor de los contribuyentes en las declaraciones cuya compensación se hubiera efectuado.
+
+Si la compensación se hubiere efectuado y no procediera, se causarán recargos en los términos del artículo 42 de este Código sobre las cantidades compensadas indebidamente.
+
+No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación para devolverlas.
+
+Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando éstos sean objeto de una sentencia ejecutoriada o sean firmes por cualquier otra causa, contra las cantidades que las autoridades fiscales estén obligadas a devolver al mismo contribuyente en los términos de lo dispuesto en el artículo 49, aun cuando la devolución ya hubiera sido solicitada. En este caso se notificará personalmente al contribuyente la resolución que efectúe la compensación.
+
+Se entenderá que es una misma contribución si se trata del mismo impuesto, contribución de mejoras o derechos.
+
+Se podrán compensar los créditos y deudas entre el Distrito Federal por una parte y la Federación, los Estados, Municipios, organismos descentralizados o empresas de participación estatal mayoritarias, por la otra. Por reciprocidad, la Secretaría en estos convenios de compensación podrá aplicar a los créditos que tengan a su favor el factor de actualización que, en su caso, aplique la otra parte.
+
+Cuando el Distrito Federal y los particulares reúnan la calidad de acreedores y deudores recíprocos, por su propio derecho podrán compensar créditos fiscales con adeudos de carácter civil, mercantil o de otra naturaleza.
+
+No se causarán recargos cuando el contribuyente compense el saldo a su favor, hasta por el monto de dicho saldo, siempre que éste se haya originado con anterioridad a la fecha en que debió pagarse la contribución de que se trate.
+
+Cuando el saldo a favor del contribuyente se hubiere originado con posterioridad a la fecha en que se causó la contribución a pagar, sólo se causarán recargos por el período comprendido entre la fecha en que debió pagarse la contribución y la fecha en que se originó el saldo a compensar.
+
+###### ARTICULO 52.
+
+Las autoridades fiscales estarán facultadas para llevar a cabo la cancelación de créditos fiscales cuyo cobro les corresponda efectuar en los casos en que exista incosteabilidad manifiesta.
+
+Para que un crédito sea considerado incosteable la autoridad fiscal atenderá los siguientes: monto del crédito, costo de las acciones de recuperación, antigüedad del crédito y probabilidad del cobro.
+
+La Secretaría establecerá con sujeción a lo establecido en el presente artículo, los supuestos en que procederá la cancelación a que refiere este artículo.
+
+La cancelación de los créditos a que se refieren los párrafos anteriores no libera de su pago.
+
+La Secretaría a más tardar el 31 de octubre de cada ejercicio fiscal, enviará un informe detallado a la Contaduría Mayor de Hacienda del Distrito Federal, mismo que mencionará el nombre de las personas físicas y morales que hayan sido sujetas a la aplicación de lo previsto en el presente artículo, además de mencionar los lineamientos que la Secretaría tomo como base para determinar los casos de incosteabilidad. Dicho informe deberá contener por lo menos: sector, actividad, tipo de contribuyente, porcentaje de cancelación y el reporte de las causas que originaron la incosteabilidad del cobro.
+
+###### ARTICULO 53.
+
+La Secretaría podrá condonar las multas por infracción a las disposiciones fiscales y administrativas, inclusive las determinadas por el propio contribuyente para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción. La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría al respecto no podrán ser impugnadas por los medios de defensa que establece este Código.
+
+La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal. Sólo procederá la condonación de multas que hayan quedado firmes y siempre que la determinación del crédito principal no sea materia de impugnación o habiéndose impugnado el contribuyente se desista de la instancia intentada.
+
+Para los efectos de este artículo se entiende por multa firme aquella que no haya sido controvertida por algún medio de defensa o hubiere transcurrido el término legal para interponerlo, cuando el contribuyente se desista de la instancia promovida, o se dictó resolución o sentencia declarando la validez de la multa.
+
+### CAPITULO III. De los Derechos y Obligaciones de los Contribuyentes
+
+###### ARTICULO 54.
+
+Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en un plazo de hasta cuatro meses; transcurrido dicho plazo sin que se notifique la resolución expresa, se considerará como resolución afirmativa ficta, que significa decisión favorable a los derechos e intereses legítimos de los peticionarios, por el silencio de las autoridades competentes, misma que tendrá efectos, siempre y cuando no exista resolución o acto de autoridad debidamente fundado.
+
+Cuando se requiera al promovente que cumpla los requisitos omitidos o proporcione los elementos necesarios para resolver, el término comenzará a correr desde que el requerimiento haya sido cumplido debidamente.
+
+###### ARTICULO 55.
+
+No operará la resolución afirmativa ficta tratándose de la autorización de exenciones de créditos fiscales, la caducidad de las facultades de la autoridad, la facultad de revisión prevista en el artículo 111 de este Código, la prescripción o condonación de créditos fiscales, el otorgamiento de subsidios, disminuciones o reducciones en el monto del crédito fiscal, el reconocimiento de enteros, la solicitud de compensación, la devolución de cantidades pagadas indebidamente y consultas.
+
+Tampoco se configura la resolución afirmativa ficta, cuando la petición se hubiere presentado ante autoridad incompetente o los particulares interesados no hayan reunido los requisitos que señalen las normas jurídicas aplicables.
+
+En los casos en que no opere la afirmativa ficta, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior al plazo a que se refiere el primer párrafo del artículo anterior, mientras no se dicte la resolución, o bien, esperar a que ésta se dicte.
+
+###### ARTICULO 56.
+
+Son obligaciones de los contribuyentes:
+
+a). Inscribirse ante la autoridad fiscal en los padrones que les corresponda, por las obligaciones fiscales a su cargo previstas en el Código, en un plazo que no excederá de quince días a partir de la fecha en que se dé el hecho generador del crédito fiscal, utilizando las formas oficiales que apruebe la Secretaría de acuerdo con el procedimiento que determine mediante reglas de carácter general.
+
+Cuando en las declaraciones, manifestaciones y avisos previstos en este Código, se requiera la clave de registro al padrón correspondiente y el código de barras, se deberán proporcionar los que hubiesen sido asignados por la autoridad fiscal.
+
+Para el caso de que un inmueble se encuentre en copropiedad, deberá registrarse el nombre completo de cada uno de los copropietarios y designarse a un representante común;
+
+b). Presentar los avisos que modifiquen los datos registrados en los padrones del Distrito Federal, en un plazo que no excederá de quince días a partir de la fecha en que se dé la modificación.
+
+Los avisos a que se refiere este inciso que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados. Tratándose del aviso de cambio de domicilio fiscal, éste no surtirá efectos cuando en el nuevo domicilio manifestado por el contribuyente sea impreciso o no exista;
+
+c). Declarar y en su caso pagar los créditos fiscales en los términos que disponga este Código;
+
+d). Firmar las declaraciones, manifestaciones y avisos previstos por este Código bajo protesta de decir verdad;
+
+e). Mostrar los libros exigidos por la legislación correspondiente, cuando les sean solicitados;
+
+f). Llevar un registro acorde con sus sistemas de contabilidad, en el que se consignarán tanto el monto de las erogaciones realizadas para remunerar el trabajo personal subordinado en el Distrito Federal, como los conceptos por los cuales efectuaron tales erogaciones. El registro deberá conformarse en un plazo que no excederá de cuarenta y cinco días naturales a partir de la fecha de presentación del aviso de inscripción al padrón del Impuesto sobre Nóminas, o de la fecha en que se realice el primer hecho generador del impuesto;
+
+g). Llevar un registro acorde con sus sistemas de contabilidad en el que se consigne el monto correspondiente al valor de la contraprestación por los servicios de hospedaje, donde se desglosen los servicios accesorios que en su caso se presenten. El registro deberá conformarse en un plazo que no excederá de cuarenta y cinco días naturales a partir de la fecha de presentación del aviso de inscripción al padrón del Impuesto por la Prestación de Servicios de Hospedaje, o de la fecha en que se realice el primer hecho generador del impuesto.
+
+En el caso de que un contribuyente cuente con dos o más inmuebles donde se presten servicios de hospedaje deberá llevar el registro a que se refiere el párrafo anterior para cada uno de ellos, a excepción de los inmuebles colindantes por los que se llevará un sólo registro;
+
+h). Conservar la documentación y demás elementos contables y comprobatorios, en domicilio ubicado en el Distrito Federal durante el período de cinco años;
+
+i). Proporcionar a las autoridades fiscales los datos o informaciones que se les soliciten, directamente relacionadas con el cumplimiento de sus obligaciones fiscales, dentro del plazo señalado para ello, y
+
+j). Las demás que establezca este Código.
+
+###### ARTICULO 57.
+
+Son derechos de los contribuyentes:
+
+a). Obtener de las autoridades fiscales asistencia gratuita, para el cumplimiento de sus obligaciones fiscales;
+
+b). Obtener la devolución de cantidades indebidamente pagadas;
+
+c). Interponer recursos administrativos y demás medios de defensa;
+
+d). Obtener la contestación de las consultas que sobre situaciones reales y concretas, formulen a las autoridades fiscales;
+
+e). Autodeterminar el valor de los inmuebles destinados a vivienda para efectos del Impuesto Sobre Adquisición de Inmuebles;
+
+f). Optar por autodeterminar el consumo de agua y los derechos correspondientes;
+
+g). Autocorregir su situación fiscal, una vez iniciada la visita domiciliaria por parte de la autoridad fiscal, siempre y cuando no se haya determinado crédito fiscal alguno;
+
+h). Efectuar el pago anticipado de las contribuciones a su cargo.
+
+Para los efectos del presente inciso, la autoridad recaudadora no podrá negarse a recibir los pagos anticipados de contribuciones, pero tampoco estará obligada a efectuar descuento alguno, si así lo solicitare el contribuyente, excepto en aquellos casos en que expresamente se señale en este Código.
+
+A petición del contribuyente, la autoridad fiscal emitirá una constancia en la que se señalen las declaraciones presentadas por el contribuyente en el ejercicio de que se trate y su fecha de presentación. Dicha constancia únicamente tendrá carácter informativo y en ella no se prejuzgará sobre el correcto cumplimiento de las obligaciones a su cargo.
+
+En cualquier caso, el contribuyente estará obligado a cubrir el monto que resulte a su cargo, de acuerdo con la fecha en que nazca el crédito fiscal, en los términos a que se refiere el artículo 28 del presente Código.
+
+En tratándose del pago de derechos realizado en un año diferente al en que se solicita la prestación del servicio de que se trate se deberán pagar las diferencias que procedan.
+
+En caso de que resulte una diferencia en el pago favorable al contribuyente, éste podrá solicitar a la autoridad fiscal su devolución, en términos del artículo 49 de este Código;
+
+i). Contar con atención especializada a través de la Tesorería, para atender, entre otros, a grandes contribuyentes, en el cumplimiento de sus obligaciones fiscales;
+
+j) Domiciliar el pago de las contribuciones a su cargo, y
+
+k). Las demás que este Código establezca.
+
+###### ARTICULO 58.
+
+Están obligadas a dictaminar el cumplimiento de sus obligaciones fiscales, en los términos de este Código y de las reglas de carácter general que publique la Secretaría, a más tardar el 15 de enero del ejercicio siguiente al que se dictaminará, las personas físicas y morales, que se encuentren en alguno de los supuestos siguientes y únicamente por cada uno de ellos:
+
+I. Las que en el año calendario anterior a aquel que se dictamina, hayan contado con un promedio mensual de ciento cincuenta o más trabajadores;
+
+II. Las que en el año calendario anterior a aquel que se dictamina, hayan contado con inmuebles, de uso diferente al habitacional, cuyo valor catastral por cada uno o en su conjunto, en cualquiera de los bimestres de dicho año, sea superior a $32,852,824.00. El dictamen deberá referirse a las obligaciones fiscales establecidas en este Código por el inmueble o los inmuebles que en su conjunto rebasen este valor;
+
+III. Las que en el año calendario anterior a aquel que se dictamina, hayan contado con inmuebles de uso mixto, cuyo valor catastral por cada uno o en su conjunto que rebasen el valor indicado en la fracción anterior;
+
+IV. Las que en el año calendario anterior a aquel que se dictamina, hayan consumido por una o más tomas, más de 1000 m3 de agua bimestral promedio, de uso no doméstico, de uso doméstico, o ambos usos; cuando el uso sea sólo doméstico siempre que el inmueble donde se encuentre instalada dicha toma o tomas de agua, se haya otorgado en uso o goce temporal total o parcialmente;
+
+V. Estar constituidos como organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos conforme a la ley de la materia, y
+
+VI. Las que en el año calendario anterior a aquel que se dictamina, hayan utilizado agua de fuentes diversas a la red de suministro del Distrito Federal y hayan efectuado las descargas de este líquido en la red de drenaje.
+
+Las personas físicas y morales que no se encuentren en alguno de los supuestos señalados en las fracciones de este artículo, tendrán la opción de hacer dictaminar el cumplimiento de sus obligaciones fiscales.
+
+La presentación del aviso para dictaminar y del dictamen en los plazos en que dispone este Código, no impide el ejercicio de las facultades de cobro de créditos fiscales en el caso de que la autoridad fiscal advierta diferencias u omisiones de pago.
+
+###### ARTICULO 59.
+
+El registro para formular dictámenes del cumplimiento de obligaciones fiscales establecidas en este Código, lo podrán obtener las personas que tengan Cédula Profesional de Contador Público registrada ante la Secretaría de Educación Pública; que sean miembros de un colegio de contadores públicos reconocido por la citada Secretaría, y que presenten solicitud de registro ante la Secretaría, acompañando copia certificada de los siguientes documentos:
+
+I. Cédula Profesional, y
+
+II. Constancia emitida por un colegio de contadores públicos que acredite su calidad de miembro activo por un período mínimo de tres años, expedida dentro de los dos meses anteriores a la fecha de la presentación de la solicitud.
+
+Una vez otorgado el registro, el Contador Público deberá comprobar ante la Secretaría, dentro de los tres meses siguientes a cada año, que es socio activo del colegio profesional y presentar constancia de cumplimiento de la norma de educación continua, expedida por dicho colegio, o constancia de que sustentó y aprobó el examen correspondiente ante la autoridad fiscal.
+
+###### ARTICULO 60.
+
+El contribuyente deberá proporcionar al Contador Público que vaya a emitir el dictamen a que se refiere el artículo 58 de este Código, un avalúo por cada uno de los inmuebles a considerar en el dictamen, practicado por alguna de las personas autorizadas o registradas por la autoridad fiscal, previstas en el artículo 22 del mismo Código.
+
+###### ARTICULO 61.
+
+Los contribuyentes que dictaminen el cumplimiento de sus obligaciones fiscales deberán presentar a través de los medios que establezca la Secretaría, a más tardar el 15 de febrero del ejercicio siguiente a la terminación del período a dictaminar, el aviso para dictaminar, la relación de los inmuebles a considerar en el dictamen, y las bases de las contribuciones declaradas que son objeto del dictamen, aún cuando el aviso se presente por primera ocasión. La presentación de la documentación se realizará de conformidad con las reglas de carácter general que al efecto emita la Secretaría.
+
+El aviso a que se refiere este artículo no surtirá efectos cuando:
+
+a). No se presente en el formato publicado;
+
+b). El Contador Público propuesto no cuente con el registro correspondiente ante las autoridades fiscales del Distrito Federal antes de la presentación del aviso y compruebe haber cumplido con lo dispuesto en el último párrafo del artículo 59, o su registro se encuentre suspendido en los términos del artículo 98, fracción II, de este Código;
+
+c). Exista impedimento del Contador Público que suscriba el aviso;
+
+d). Se esté practicando visita domiciliaria al contribuyente por el período al cual corresponde el aviso para dictaminar, salvo que se encuentren obligados por disposición del artículo 58 de este Código;
+
+e). El Contador Público propuesto no cumpla con lo dispuesto en el último párrafo del artículo 59, y
+
+f). Cuando se presente de manera extemporánea; no obstante lo anterior, los contribuyentes a que hace referencia el artículo 58 de este Código, deberán cumplir con esta obligación.
+
+El período del dictamen deberá abarcar las contribuciones causadas durante un año de calendario.
+
+###### ARTICULO 62.
+
+El aviso a que se refiere el artículo anterior, deberá ser suscrito por el contribuyente o su representante legal y por el Contador Público que vaya a dictaminar, y sólo será válido por el período y las contribuciones que se indiquen.
+
+Los contribuyentes podrán modificar el aviso originalmente presentado, cuando se sustituya al dictaminador designado, siempre y cuando lo comunique a las autoridades fiscales a más tardar un mes antes de que concluya el plazo para la presentación del dictamen, justificando los motivos que tuviere.
+
+Cuando el Contador Público señalado en el aviso no pueda formular el dictamen por incapacidad física o impedimento legal debidamente probado, el aviso para sustituirlo se podrá presentar en cualquier tiempo hasta antes de que concluya el plazo para la presentación del dictamen.
+
+###### ARTICULO 63.
+
+Son impedimentos para que el Contador Público dictamine el cumplimiento de obligaciones fiscales:
+
+a). Ser cónyuge, pariente por consanguinidad o civil en línea recta sin limitación de grado, transversal dentro del cuarto grado y por afinidad dentro del segundo, del propietario o socio principal de la empresa o de algún director, administrador o empleado que tenga intervención importante en la administración;
+
+b). Ser o haber sido en el ejercicio fiscal que dictamina, director, miembro del consejo administrativo, administrador o empleado del contribuyente o de una empresa afiliada, subsidiaria o que está vinculada económica o administrativamente a él, cualquiera que sea la forma como se le designe y se le retribuyan sus servicios.
+
+El comisario de la sociedad no se considerará impedido para dictaminar, salvo que concurra otra causal de las mencionadas en este artículo;
+
+c). Ser arrendador o arrendatario de los bienes inmuebles del contribuyente, cuando sobre dichos bienes recaiga la opinión del cumplimiento de las obligaciones fiscales en el dictamen;
+
+d). Tener o haber tenido en el ejercicio fiscal que dictamine, alguna injerencia o vinculación económica en los negocios del contribuyente, que le impida mantener su independencia o imparcialidad;
+
+e). Recibir, por cualquier circunstancia o motivo, participación directa en función de los resultados de su auditoría o emita su dictamen relativo al cumplimiento de las obligaciones fiscales del contribuyente, en circunstancias en las cuales su emolumento dependa de su resultado;
+
+f). Estar prestando sus servicios en la Secretaría o en cualquier otro organismo fiscal competente para determinar contribuciones locales o federales;
+
+g). Ser agente o corredor de bolsa de valores en ejercicio, y
+
+h). Encontrarse vinculado en cualquier otra forma con el contribuyente, que le impida independencia e imparcialidad de criterio.
+
+###### ARTICULO 64.
+
+El dictamen a que se refiere el artículo 58 de este Código y la documentación que se señala en el artículo 66 del mismo, se deberá presentar a través de los medios que establezca la Secretaría, a más tardar el 30 de abril del ejercicio siguiente al cierre del período a dictaminar, por los contribuyentes obligados a dictaminar y aquellos que hayan optado por dictaminar el cumplimiento de sus obligaciones. La presentación de la documentación se hará de conformidad con las reglas de carácter general que emita la Secretaría.
+
+###### ARTICULO 65.
+
+Las autoridades fiscales podrán conceder prórroga hasta por un mes, para la presentación del dictamen, si existen causas comprobadas que impidan el cumplimiento dentro del plazo establecido, previo análisis de las causas que motivaron el retraso. La solicitud de prórroga deberá ser firmada por el contribuyente o su representante legal, así como por el Contador Público que dictaminará y presentarse ante la Secretaría a más tardar quince días naturales antes del vencimiento del plazo de presentación, señalando los motivos que tuviere para el retraso. Se considerará concedida la prórroga hasta por un mes, si dentro de los diez días naturales siguientes a la fecha de presentación de la solicitud de prórroga, la Secretaría no da contestación.
+
+###### ARTICULO 66.
+
+Los contribuyentes que opten o se encuentren obligados a dictaminar el cumplimiento de sus obligaciones fiscales deberán exhibir la siguiente documentación:
+
+1. Carta de presentación del dictamen.
+
+2. El dictamen.
+
+3. El informe.
+
+4. Los anexos.
+
+###### ARTICULO 67.
+
+El dictamen deberá contener la opinión sobre el cumplimiento de las disposiciones fiscales establecidas en este Código, de las contribuciones sujetas a dictamen, con apego a las normas de auditoría generalmente aceptadas y procedimientos de auditoría que se consideren necesarios para conocer la situación del contribuyente.
+
+###### ARTICULO 68.
+
+Para los efectos del artículo anterior, las normas de auditoría se consideran cumplidas en la forma siguiente:
+
+I. Las relativas a la capacidad, independencia e imparcialidad profesionales, cuando su registro se encuentre vigente y no tenga impedimento para dictaminar;
+
+II. Las relativas al trabajo profesional, cuando:
+
+a). La planeación del trabajo y la supervisión de sus auxiliares le permitan allegarse de elementos de juicio suficientes para fundar su dictamen, y
+
+b). El estudio y evaluación del sistema de control interno del contribuyente le permita determinar el alcance y naturaleza de los procedimientos de auditoría que habrán de emplearse.
+
+En caso de excepciones a lo anterior, el Contador Público deberá mencionar claramente en qué consisten y su efecto sobre el dictamen, emitiendo, en consecuencia, un dictamen con salvedades, un dictamen negativo o con abstención de opinión, según sea el caso;
+
+III. El informe que se emitirá conjuntamente con el dictamen se integra en la forma siguiente:
+
+a). Se declarará, bajo protesta de decir verdad, que se emite el informe con base en la revisión practicada conforme a las normas de auditoría y a las reglas de carácter general que emita la Secretaría, por el período correspondiente;
+
+b). Se manifestará que dentro de las pruebas llevadas a cabo, en cumplimiento de las normas y procedimientos de auditoría, se examinó la situación fiscal del contribuyente por el período dictaminado. En caso de haber observado cualquier omisión respecto al cumplimiento de sus obligaciones fiscales, ésta se mencionará en forma expresa; de lo contrario se señalará que no se observó omisión alguna;
+
+c). Se hará mención expresa de que se verificó el cálculo y entero de las contribuciones sujetas a dictamen y que se encuentran establecidas en este Código a cargo y/o retenidas por el contribuyente, y
+
+d). En el caso del dictamen para efectos de la fracción IV del artículo 58, se deberá hacer mención expresa dentro del mismo, que se verificó que efectivamente estaba funcionando correctamente el medidor;
+
+IV. Se deberán presentar anexos en las formas oficiales aprobadas respecto de cada contribución a que esté sujeto el contribuyente, y
+
+V. Las omisiones conocidas en la revisión efectuada por el Contador Público, deberán pagarse antes de la entrega del dictamen o, en su caso, informar de las mismas a las autoridades fiscales.
+
+En los aspectos no contemplados en los artículos 58, 59, 60, 61, 63, 64, 65, 66 y 69 y en el presente, la Secretaría emitirá reglas de carácter general para el cumplimiento de las obligaciones fiscales.
+
+###### ARTICULO 69.
+
+Los contribuyentes que estén obligados a dictaminarse, así como los que opten por dictaminar el cumplimiento de sus obligaciones fiscales, deben hacerlo por los conceptos de Impuesto Predial, Derechos por el Suministro de Agua, Impuesto sobre Nóminas, Impuesto por la Prestación de Servicios de Hospedaje y derechos de descarga a la red de drenaje.
+
+Lo establecido en este artículo, no es limitante para que los contribuyentes dictaminen otras obligaciones fiscales a su cargo y/o como retenedores, atendiendo lo dispuesto por el artículo 58 de este Código.
+
+###### ARTICULO 70.
+
+Las declaraciones, que en los términos de este Código presenten los contribuyentes, podrán ser modificadas por ellos, mediante declaraciones complementarias, siempre que no se haya iniciado el procedimiento de comprobación por parte de la autoridad fiscal, sin que lo anterior limite de manera alguna a las autoridades en el ejercicio de sus facultades de comprobación.
+
+###### ARTICULO 71.
+
+Los contribuyentes tendrán la obligación de conservar las declaraciones y comprobantes de pago de las contribuciones y aprovechamientos a que se refiere este Código, durante el plazo de cinco años.
+
+###### ARTICULO 72.
+
+Los contribuyentes deberán dar toda clase de facilidades y acceso a sus inmuebles, a las autoridades fiscales competentes para que realicen las labores catastrales y para el ejercicio de sus facultades de comprobación.
+
+Asimismo, deberán permitir el acceso a las personas autorizadas para la instalación y verificación de tomas de agua y medidores, y para efectuar y verificar la lectura del aparato medidor.
+
+La orden de comprobación será por escrito y deberá contener el nombre de las personas autorizadas, quienes se identificarán con credenciales vigentes expedidas por las autoridades fiscales.
+
+### CAPITULO IV. De las Facultades de las Autoridades Fiscales
+
+###### ARTICULO 73.
+
+Las autoridades competentes, a fin de determinar la existencia de créditos fiscales, dar las bases de su liquidación, cerciorarse del cumplimiento a las disposiciones que rigen la materia y comprobar infracciones a las mismas, estarán facultadas para, en forma indistinta, sucesiva o conjunta, proceder a:
+
+I. Ordenar y practicar visitas a los contribuyentes, responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y documentos que estén relacionados con sus obligaciones fiscales contenidas en este Código y, en su caso, asegurarlos dejando en calidad de depositario al visitado, previo inventario que al efecto se formule;
+
+II. Ordenar y practicar visitas domiciliarias para verificar el estado y condiciones de las tomas de agua, sus ramificaciones y medidores, en su caso, adecuarlas y corregirlas; el de las instalaciones de los inmuebles en donde se encuentren, las áreas con existencia de fugas; el consumo de agua efectuado por los contribuyentes, así como para proceder a suspender o restringir, en su caso, el suministro de agua y restablecer el servicio;
+
+III. Verificar los diámetros y usos de las tomas de agua;
+
+IV. Practicar u ordenar la lectura del consumo en los medidores de agua;
+
+V. Instalar medidores de agua para cada uso y darles mantenimiento, en tomas generales y ramificaciones, cuando a juicio de la autoridad sea necesario, previo dictamen de factibilidad emitido por el Sistema de Aguas, medie o no solicitud del usuario; así como reparar o sustituir los medidores en malas condiciones o defectuosos;
+
+VI. Realizar la verificación física, clasificación, valuación o comprobación de toda clase de bienes relacionados con las obligaciones fiscales establecidas en este Código;
+
+VII. Verificar el monto total de salarios y demás prestaciones que se deriven de una relación laboral;
+
+VIII. Verificar el registro cronológico de las mediciones del consumo de agua, así como la aplicación de las tarifas correspondientes;
+
+IX. Requerir a los sujetos directamente obligados, responsables solidarios o terceros, con el fin de que exhiban en su domicilio o en las oficinas de las propias autoridades fiscales los libros de contabilidad y los demás documentos que se estimen necesarios para comprobar el cumplimiento de las disposiciones fiscales, así como que proporcionen los datos o informes que tengan relación con dicho cumplimiento, debiendo levantarse una última acta parcial o, en su caso, notificar oficio de observaciones, teniendo el contribuyente un plazo de 20 días contados a partir de su notificación para desvirtuar los hechos u omisiones observados;
+
+X. Recabar de los servidores públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones en materia fiscal y administrativa;
+
+XI. Allegarse las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales, o en su caso, para formular la querella respectiva;
+
+XII. Practicar avalúos de bienes inmuebles y revisar los avalúos que presenten los contribuyentes o fedatarios públicos, y en caso de encontrar errores, ya sea aritméticos, de clasificación de inmuebles o de aplicación de valores y en métodos alternativos de valuación aplicados; manifestaciones incorrectas en la superficie de terreno, de la construcción, uso del inmueble, del número de niveles, determinación de la clase, omisión de la valuación de instalaciones especiales, elementos accesorios u obras complementarias, o incorrecta aplicación de factores de eficiencia que incrementen o demeriten el valor catastral o en su caso influyan en la determinación incorrecta no justificada y fundada técnicamente del valor comercial de los inmuebles, los comunicará a los contribuyentes mediante la liquidación del impuesto respectivo y sus accesorios legales. En caso de que la autoridad fiscal determine diferencias a favor de los contribuyentes, de oficio hará la corrección respectiva, teniendo derecho los contribuyentes a solicitar la devolución o a compensar el saldo resultante contra pagos posteriores;
+
+XIII. Revisar las declaraciones que en los términos de este Código se presenten, así como toda la información con que dispongan con base en la que puedan verificar tanto la presentación en tiempo y forma de tales declaraciones, como el entero de las contribuciones previstas en este Código y, en general, la correcta aplicación de sus disposiciones;
+
+XIV. Verificar previamente a la realización de los espectáculos públicos y celebración de loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase, según el caso, que se cuente con las licencias, permisos o autorizaciones de las autoridades competentes en los términos de este Código, y en caso de no exhibirse éstos, se hará del conocimiento a dichas autoridades para los efectos legales a que haya lugar;
+
+XV. Verificar el número de personas que ingresan a los espectáculos públicos, así como el valor que se perciba y la forma en que se manejan los boletos;
+
+XVI. Presenciar la celebración de loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase y verificar los ingresos que se perciban;
+
+XVII. Ordenar y practicar visitas domiciliarias para verificar el estado y condiciones de los dispositivos permanentes de medición continua en las descargas a la red de drenaje, así como verificar el volumen de agua extraída del pozo, y
+
+XVIII. Verificar el registro cronológico de las mediciones del volumen de agua descargada a la red de drenaje, en el formato correspondiente o en medio idóneo de registro electrónico en el que se encuentre, así como la aplicación de las tarifas correspondientes.
+
+###### ARTICULO 74.
+
+La Secretaría en representación del Jefe de Gobierno, podrá celebrar convenios de colaboración administrativa con los Estados y Municipios, en las materias de verificación, determinación y recaudación de las contribuciones, así como para la notificación de créditos fiscales y aplicación del procedimiento administrativo de ejecución.
+
+###### ARTICULO 75.
+
+Las autoridades fiscales, durante el mismo ejercicio fiscal en que ejerzan sus facultades de comprobación, no podrán iniciar más de dos visitas domiciliarias o de gabinete, respecto de las mismas contribuciones, periodo e idéntico sujeto pasivo de la relación jurídico tributaria, con excepción de que cuando haya identidad en el sujeto y la contribución, el objeto sea diferente.
+
+Concluida la visita en el domicilio fiscal, para iniciar otra al mismo sujeto obligado, se requerirá nueva orden. En el caso de que las facultades de comprobación se refieran a las mismas contribuciones, aprovechamientos y periodos, sólo se podrá efectuar la nueva revisión cuando se comprueben hechos diferentes a los ya revisados. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales; a menos que en este último supuesto la autoridad no haya objetado de falso el documento en el medio de defensa correspondiente pudiendo haberlo hecho o bien, cuando habiéndolo objetado, el incidente respectivo haya sido declarado improcedente.
+
+###### ARTICULO 76.
+
+Las autoridades fiscales al determinar las contribuciones podrán considerar presuntivamente los ingresos de los contribuyentes, para lo cual considerarán que:
+
+I. La información contenida en libros, registros, sistemas de contabilidad y documentación comprobatoria que se encuentre en poder del contribuyente, corresponde a operaciones celebradas por él, aun cuando aparezcan sin su nombre o a nombre de otra persona;
+
+II. La información escrita o documentos de terceros relacionados con el contribuyente, localizados en poder de personas a su servicio, o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente;
+
+III. La información escrita o documentos de terceros relacionados con el contribuyente, corresponde a operaciones realizadas por éste, en cualquiera de los casos siguientes:
+
+a). Cuando se refieran al contribuyente designado por su nombre, denominación o razón social;
+
+b). Cuando señalen como lugar para la entrega o recibo de bienes o prestación de servicios cualquiera de los establecimientos del contribuyente, aun cuando exprese el nombre, denominación o razón social de un tercero real o ficticio;
+
+c). Cuando señalen el nombre o domicilio de un tercero, real o ficticio, si se comprueba que el contribuyente entrega o recibe bienes o servicios a ese nombre o en su domicilio, y
+
+d). Cuando se refiera a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia;
+
+IV. Los depósitos en la cuenta bancaria del contribuyente que no correspondan a registros de su contabilidad, son ingresos del mismo.
+
+###### ARTICULO 77.
+
+Las autoridades fiscales también podrán estimar los ingresos de los sujetos pasivos, de los responsables solidarios o de los terceros, en cualquiera de los siguientes casos:
+
+I. Cuando se resistan y obstaculicen por cualquier medio, la iniciación o desarrollo de las visitas domiciliarias, o se nieguen a recibir la orden respectiva;
+
+II. Cuando no proporcionen los libros, documentos, informes o datos que se les soliciten;
+
+III. Cuando presenten libros, documentos, informes o datos alterados o falsificados, o existan vicios o irregularidades en su contabilidad, y
+
+IV. Cuando no lleven los libros o registros a que están obligados, o no los conserven en domicilio ubicado en el Distrito Federal.
+
+###### ARTICULO 78.
+
+En caso de que los contribuyentes se coloquen en alguna de las causales de estimativa se presumirá, salvo que comprueben su ingreso por el período respectivo, que el ingreso es igual al resultado de alguna de las siguientes operaciones:
+
+I. Si con base en la contabilidad y documentación del contribuyente, información de terceros y cualquier otro medio pudieran reconstruirse las operaciones correspondientes cuando menos a treinta días, el ingreso diario promedio que resulte se multiplicará por el número de días que corresponda al período objeto de la revisión, y
+
+II. Si la contabilidad y documentación del contribuyente no permite reconstruir las operaciones de treinta días, la Secretaría tomará como base los ingresos que observe durante tres días cuando menos de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión.
+
+Al ingreso estimado presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
+
+###### ARTICULO 79.
+
+Las autoridades fiscales podrán determinar presuntivamente el valor catastral de los inmuebles, cuando:
+
+I. Los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales;
+
+II. Los contribuyentes no cuenten con la información o documentación relativa al cumplimiento de las obligaciones fiscales a que se refiere este Código, que le sea solicitada por las autoridades fiscales en el ejercicio de sus facultades de comprobación, no proporcionen dicha información o documentación, la oculten o la destruyan, y
+
+III. Los contribuyentes se ubiquen en los supuestos que establece el artículo 128 de este Código.
+
+###### ARTICULO 80.
+
+Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales podrán determinar el valor catastral de los inmuebles utilizando conjunta o separadamente cualquiera de los siguientes medios:
+
+1. Los datos aportados por los contribuyentes en las declaraciones de cualquier contribución presentada a las autoridades fiscales federales o del Distrito Federal;
+
+2. Información proporcionada por terceros a solicitud de la autoridad fiscal, cuando tenga relación de negocios con los contribuyentes;
+
+3. Tratándose de inmuebles en proceso de construcción, la autoridad fiscal determinará el valor catastral considerando el 25% de los datos de la construcción total registrada en la manifestación respectiva, de acuerdo a lo establecido en el artículo 132 de este Código;
+
+4. Cualquier otra información obtenida por la autoridad fiscal en ejercicio de sus facultades, y
+
+5. Indirectos de investigación económica, geográfica, geodésica o de cualquier otra clase, que la Administración Pública del Distrito Federal o cualquier otra dependencia gubernamental o entidad paraestatal de la Administración Pública Federal utilice para tener un mejor conocimiento del territorio del Distrito Federal y de los inmuebles que en él se asientan, siendo éstos, los siguientes:
+
+a). Fotogrametría, incluyendo la verificación de linderos en campo;
+
+b). Topografía;
+
+c). Investigación de campo sobre las características físicas de los inmuebles, considerando el suelo, construcciones e instalaciones especiales, y
+
+d). Otros medios que permita el avance tecnológico en la materia.
+
+###### ARTICULO 81.
+
+Las autoridades fiscales podrán determinar presuntivamente el consumo de agua, cuando:
+
+I. La toma carezca de medidor autorizado por la normatividad aplicable;
+
+II. Se trate de tomas no registradas, para lo que se calcularán los derechos a pagar por los últimos cinco años;
+
+III. Se retire el medidor sin la autorización correspondiente o los medidores hayan sido cambiados de lugar o retirados sin autorización de las autoridades competentes;
+
+IV. El contribuyente impida u obstaculice la lectura, verificación e instalación de aparatos medidores, así como la iniciación o desarrollo de las facultades de comprobación de las autoridades;
+
+V. No declaren el consumo de agua en los términos del artículo 174 de este Código;
+
+VI. No funcione el medidor o exista cualquier situación que impida su lectura, cuando se compruebe ante la autoridad fiscal que dichas circunstancias no son imputables al usuario, y no reporten esta situación a la autoridad competente;
+
+VII. Estén rotos los sellos del medidor o se haya alterado su funcionamiento;
+
+VIII. Se lleven a cabo instalaciones hidráulicas, así como derivaciones de agua, sin la autorización respectiva, o cuando se realicen modificaciones o manipulaciones a los ramales de las tuberías de distribución;
+
+IX. Existan circunstancias que impidan u obstaculicen la lectura, verificación e instalación de aparatos medidores, así como la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales. La determinación presuntiva a que se refiere este artículo, procederá independientemente de los recargos y sanciones a que haya lugar, y
+
+X. El Sistema de Aguas de la Ciudad de México, detecte un uso diferente al registrado en su padrón de usuarios y el contribuyente no lo haya notificado en términos de lo dispuesto en los artículos 56, inciso b) y 176, fracción V de este Código.
+
+###### ARTICULO 82.
+
+Para efectos de la determinación prevista en el artículo anterior, las autoridades fiscales calcularán el consumo de agua utilizando indistintamente cualquiera de los siguientes procedimientos:
+
+I. Tomando como base dos lecturas que se hagan al aparato medidor instalado en la toma de agua, al aparato instalado cuando la toma no hubiere contado con él o al aparato medidor cuando se encuentre funcionando correctamente con motivo de su reparación, las cuales corresponderán a un lapso que en ningún caso será inferior a siete días;
+
+II. Con otra información obtenida por las autoridades fiscales en el ejercicio de sus facultades de comprobación, y
+
+III. Emplear medios indirectos de investigación de cualquier clase, que las autoridades administrativas utilicen, siendo entre otros:
+
+a). Los datos aportados por los propios contribuyentes en declaraciones presentadas ante las autoridades fiscales federales o del Distrito Federal;
+
+b). Información proporcionada por terceros a solicitud de la autoridad fiscal;
+
+c). Cualquier otra información obtenida por la autoridad fiscal en ejercicio de sus facultades, que incluye información estadística derivada de los registros históricos de consumos del propio contribuyente, y
+
+d). Otros medios que permita el avance tecnológico en la materia.
+
+Cuando la determinación del consumo de agua bimestral se haga con base en lecturas, se obtendrá la diferencia de las lecturas y ésta será dividida entre el número de días naturales transcurridos entre ellas, para obtener el consumo promedio diario, el cual se multiplicará por los días naturales de cada bimestre.
+
+###### ARTICULO 83.
+
+Las autoridades fiscales podrán determinar presuntivamente las erogaciones realizadas por los contribuyentes para remunerar el trabajo personal subordinado, cuando:
+
+I. Los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales;
+
+II. Los contribuyentes no presenten sus libros de contabilidad, registros, documentación o no proporcionen informes relativos al cumplimiento de las disposiciones fiscales, y
+
+III. Se adviertan otras irregularidades en sus registros, o documentación para efectos del Impuesto sobre Nóminas a que se refiere este Código, que imposibiliten el conocimiento de sus erogaciones o impidan la determinación del monto de las erogaciones efectuadas en el Distrito Federal.
+
+###### ARTICULO 84.
+
+Cuando se den los supuestos previstos en el artículo anterior, la determinación presuntiva se hará a través de cualquiera de los siguientes procedimientos:
+
+I. Utilizando los registros, contabilidad o documentación que obre en poder del contribuyente;
+
+II. Tomando como base los datos contenidos en declaraciones formuladas por el contribuyente presentadas ante las autoridades fiscales federales;
+
+III. Con base en cualquier otra información obtenida por las autoridades fiscales en ejercicio de sus facultades, con aquélla proporcionada por terceros o por cualquier dependencia o entidad gubernamental;
+
+IV. Calculando el monto de las erogaciones correspondientes a cuando menos 30 días, los más cercanos posibles al período revisado, cuando ello pueda llevarse a cabo con base en la documentación que obra en poder del contribuyente, en su contabilidad, en la información de tercero o en la de cualquier dependencia o entidad gubernamental;
+
+V. Observando las erogaciones realizadas por el contribuyente durante un lapso de siete días cuando menos, incluyendo los inhábiles.
+
+Para efectos de las fracciones IV y V anteriores, se obtendrá el promedio diario de erogaciones correspondientes al período calculado u observado, el cual se multiplicará por el número de días del período sujeto a revisión, respecto del cual no se acreditó el pago del impuesto en los términos de este Código, y
+
+VI. Cuando el contribuyente omita llevar el registro a que se refiere el inciso f), del artículo 56 de este Código, o llevándolo no sea posible identificar las erogaciones que llevó a cabo en el Distrito Federal, así como los conceptos por los que se realizaron dichas erogaciones, se considerará, salvo prueba en contrario, como monto de las erogaciones gravadas a su cargo, el total de aquéllas que hubiese realizado en dinero o en especie, por concepto de remuneración al trabajo personal subordinado, en el período sujeto a revisión.
+
+Lo dispuesto en las fracciones V y VI sólo se aplicará cuando no se pueda determinar el monto total de las erogaciones y conceptos siguiendo cualquiera de los procedimientos a que se refiere este artículo.
+
+###### ARTICULO 85.
+
+Las autoridades fiscales podrán determinar presuntivamente los derechos de descarga a la red de drenaje, cuando:
+
+I. El contribuyente impida u obstaculice la lectura, la verificación de los dispositivos de medición instalados en las descargas a la red de drenaje, o bien, la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales;
+
+II. No lleven control o medición del agua extraída;
+
+III. No lleven el registro cronológico de sus lecturas o no instalen los dispositivos de medición en las descargas a la red de drenaje en caso de ejercer la opción de determinar, declarar y pagar el derecho;
+
+IV. No declaren los derechos en los términos del artículo 267 de este Código;
+
+V. No funcionen los dispositivos de medición en las descargas a la red de drenaje o exista cualquier situación que impida su lectura, y
+
+VI. Se trate de descargas no registradas, para lo que se calcularán los derechos a pagar por los últimos cinco años.
+
+###### ARTICULO 86.
+
+Para efectos de la determinación presuntiva prevista en el artículo anterior, las autoridades fiscales calcularán el volumen de descarga a la red de drenaje utilizando indistintamente cualquiera de los siguientes procedimientos:
+
+I. Tomando como base las lecturas de los medidores del agua extraída;
+
+II. Con otra información obtenida por las autoridades fiscales en el ejercicio de sus facultades de comprobación, y
+
+III. Empleando los medios indirectos de investigación de cualquier clase, que las autoridades administrativas utilicen, siendo entre otros:
+
+a). Los datos aportados por los propios contribuyentes en declaraciones presentadas ante las autoridades fiscales federales o del Distrito Federal;
+
+b). Información proporcionada por terceros a solicitud de la autoridad fiscal;
+
+c). Cualquier otra información obtenida por la autoridad fiscal en el ejercicio de sus facultades, y
+
+d). Otros medios que permita el avance tecnológico en la materia.
+
+###### ARTICULO 87.
+
+Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan, impidan u obstaculicen físicamente el inicio o desarrollo del ejercicio de las facultades de las autoridades fiscales, éstas podrán aplicar como medidas de apremio, las siguientes:
+
+I. Imponer la multa que corresponda en los términos de este Código;
+
+II. Auxilio de la fuerza pública;
+
+III. Denuncia respectiva, en su caso, por desobediencia a un mandato legítimo de autoridad competente, y
+
+IV. Decretar el aseguramiento precautorio de los bienes o de la negociación del contribuyente.
+
+En los casos, en que la autoridad practique el aseguramiento precautorio deberá levantar acta circunstanciada en la que precise de qué manera el contribuyente se opuso, impidió u obstaculizo físicamente el inicio o desarrollo del ejercicio de las facultades de las autoridades fiscales, y deberá observar en todo momento las disposiciones contenidas en el Título Primero Libro Tercero de este Código.
+
+Para efectos de este artículo, los cuerpos de seguridad o policiales del Distrito Federal, deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal, en los términos de los ordenamientos que los regulan.
+
+El apoyo a que se refiere el párrafo anterior consistirá en efectuar las acciones necesarias para que las autoridades fiscales ingresen al domicilio fiscal, establecimientos, sucursales, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y en general cualquier local o establecimiento que se utilicen para el desempeño de las actividades de los contribuyentes.
+
+###### ARTICULO 88.
+
+Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, o cuando habiéndolos presentado, la autoridad fiscal advierta de la información con que dispongan, que los contribuyentes han omitido parcial o totalmente el pago de alguna contribución prevista en este Código, mediante requerimiento de obligaciones omitidas exigirán al contribuyente la presentación de la declaración y pago respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
+
+I. Tratándose de la omisión en la presentación de una declaración para el pago de contribuciones, en el caso de que la autoridad fiscal únicamente conozca de la omisión de la presentación de la declaración, más no el monto de la contribución omitida, podrá hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que se hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o a la que resulte para dichos períodos de la determinación formulada por la autoridad, según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones propias o retenidas. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
+
+Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente el importe de la contribución, la propia autoridad fiscal podrá hacer efectiva al contribuyente, con carácter provisional, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
+
+Si el contribuyente o responsable solidario presenta la declaración omitida antes de que se le haga efectiva la cantidad resultante conforme a lo previsto en esta fracción, quedará liberado de hacer el pago determinado provisionalmente. Si la declaración se presenta después de haberse efectuado el pago provisional determinado por la autoridad, éste se disminuirá del importe que se tenga que pagar con la declaración que se presente.
+
+Cuando la autoridad fiscal con base en la información con que dispone, advierta que los contribuyentes han omitido parcial o totalmente el pago de alguna contribución prevista en este Código, aún y cuando hubieren cumplido con la obligación formal de presentación de la declaración, la propia autoridad fiscal podrá hacer efectiva al contribuyente con carácter provisional la contribución omitida.
+
+II. Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido en un plazo de seis días. Si no atiende el requerimiento se impondrá multa por cada requerimiento no atendido. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
+
+En el caso de la fracción II y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
+
+###### ARTICULO 89.
+
+Las visitas domiciliarias para comprobar que los contribuyentes o responsables solidarios han acatado las disposiciones fiscales, se sujetarán a lo siguiente:
+
+I. Sólo se practicarán mediante orden de visita domiciliaria, suscrita y emitida por autoridad fiscal competente, el cual deberá expresar, por lo menos, los siguientes requisitos:
+
+a). El nombre de la persona a quien va dirigida la visita y el lugar o lugares en los que deberá efectuarse. Cuando se ignore el nombre de la persona que debe ser visitada, se señalará en la orden datos suficientes que permitan su identificación;
+
+b). El nombre de los servidores públicos que deban efectuar la visita, los cuales podrán ser sustituidos, aumentados o reducidos en su número en cualquier tiempo por la autoridad competente, sin más requisito que notificar por escrito esta circunstancia al visitado; dichos servidores públicos podrán actuar conjunta o separadamente, y
+
+c). El período sujeto a revisión, el cual no excederá de los cinco años anteriores a la fecha de notificación de la orden o, en su caso, la fecha del acto o actos sujetos a revisión, la cual no excederá de los cinco años anteriores a la fecha de notificación de la orden, salvo que opere alguno de los supuestos de suspensión previstos en el segundo párrafo del artículo 99 de este Código.
+
+II. Para el desarrollo de la visita domiciliaria, los visitadores, visitado, la persona con quien se entienda la diligencia y responsables solidarios estarán a lo siguiente:
+
+a). La visita se realizará en el lugar o lugares señalados en la orden de visita;
+
+b). Si al presentarse los visitadores al lugar en donde debe practicarse la visita no estuviera el visitado o su representante legal, dejarán citatorio con la persona que se encuentre en dicho lugar, para que el mencionado visitado o su representante legal los esperen a hora determinada del día siguiente para recibir la orden, así como la carta de derechos del contribuyente; si no lo hicieran, la visita se iniciará con quien se encuentre en el lugar visitado.
+
+En este caso, los visitadores al citar al visitado o su representante legal podrán hacer una relación de los sistemas, libros, registros, licencias, comprobantes de pago de contribuciones locales, avisos y demás documentación que integre la contabilidad. Si el contribuyente presenta aviso de cambio de domicilio después de recibido el citatorio, la visita podrá llevarse a cabo en el nuevo domicilio y en el anterior, cuando el visitado conserve el local de éste, sin que para ello se requiera nueva orden o ampliación de la orden de visita, haciendo constar tales hechos en el acta que levanten.
+
+Cuando se presuma que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la visita domiciliaria los visitadores procederán al aseguramiento de la documentación relativa al cumplimento de las obligaciones fiscales establecidas en este Código;
+
+c). Al iniciarse la visita en el domicilio señalado en la orden, así como en cada ocasión que los visitadores acudan al domicilio o domicilios señalados en la orden de visita a levantar cualquier tipo de actas parciales, complementarias, última parcial y final, los visitadores que en ella intervengan, se deberán identificar ante la persona con quien se entienda la diligencia, a fin de que el visitado constate que las personas nombradas en la orden de visita y las que comparecen a su realización son las mismas, lo cual quedará debidamente asentado en el acta que al efecto se levante, así como la vigencia de la credencial identificatoria, nombre de la dependencia que expide dicha credencial, cargo del visitador actuante, y dependencia a la cual está adscrito.
+
+En el mismo acto, los visitadores requerirán a la persona con quien se entienda la visita para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores procederán a designar otros de inmediato, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la visita.
+
+Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar en el cual se esté llevando a cabo la visita, pero deberá de hacerse constar en las actas que al efecto se levanten, la sustitución de testigos que se realice en cualquier tiempo así como el motivo de tal sustitución, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigos; en tales circunstancias la persona con la que se entienda la diligencia deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores designarán a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita;
+
+d). Los visitados, sus representantes, o la persona con quien se entienda la visita, están obligados a permitir a los visitadores designados por las autoridades fiscales el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad, documentación comprobatoria de pagos efectuados, registro cronológico de lecturas al aparato medidor, registro de erogaciones realizadas por concepto de remuneración al trabajo personal subordinado en el Distrito Federal, licencias y demás papeles que acrediten el cumplimiento de las obligaciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas parciales o finales que levanten con motivo de la visita. También deberán permitir la verificación de instrumentos, aparatos medidores, documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados, y
+
+e). Los libros, registros y documentos serán examinados en el domicilio del visitado. Para tal efecto, éste deberá mantenerlos a disposición de los visitadores desde el momento en que inicie la visita y hasta que ésta concluya.
+
+###### ARTICULO 90.
+
+La visita domiciliaria se desarrollará conforme a las siguientes reglas:
+
+I. De toda visita domiciliaria se levantará acta en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieran conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas harán prueba plena de la existencia de tales hechos o de las omisiones encontradas, respecto de las contribuciones a cargo del visitado en el período sujeto a revisión, sin producir efectos de resolución fiscal.
+
+Las actas que al efecto se levanten deberán ser firmadas por los visitadores, por el visitado, su representante legal o la persona con quien se entienda la diligencia y por los testigos, debiéndose proporcionar una copia legible al visitado. Si el visitado, su representante legal o la persona con quien se entienda la diligencia, así como los testigos no comparecen a firmar las actas o se niegan a firmarlas, dicha circunstancia se asentará en el acta, sin que esto afecte la validez y valor probatorio de la misma.
+
+Los papeles de trabajo anexos a una acta de visita, serán parte de ésta si de ellos se entrega copia al contribuyente y están firmados por el personal que practicó la visita, por lo que los hechos asentados en dichos papeles tendrán el mismo valor legal que los que se hacen constar en el acta, ya que acta y papeles integran una sola actuación jurídica.
+
+II. Durante el desarrollo de la visita, los visitadores a fin de asegurar la contabilidad, correspondencia, registros cronológicos de lecturas al aparato medidor, registros de erogaciones por concepto de remuneración al trabajo personal subordinado en el Distrito Federal, comprobantes de pago y en general toda la documentación que no estén registrados en la contabilidad, podrán, indistintamente, sellar o colocar marcas en dichos documentos, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto se formule.
+
+En caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia de los mismos.
+
+III. Con las mismas formalidades a que se refiere este artículo, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones que puedan entrañar incumplimiento a las disposiciones fiscales o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita; también se consignarán en dichas actas los hechos u omisiones que se conozcan por terceros. Si al levantamiento de las actas parciales o complementarias no estuviere presente el visitado o el representante legal, se dejará citatorio para que se presente a una hora determinada del día siguiente. Si no se presentare, el acta se levantará ante quien esté presente en el lugar visitado.
+
+En la última acta parcial que al efecto se levante, se hará mención expresa de tal circunstancia, y entre ésta y el acta final, deberán transcurrir veinte días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones consignados. Cuando se trate de más de un ejercicio revisado se ampliará el plazo hasta por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
+
+Se tendrán por consentidos los hechos u omisiones consignados en las actas a que se refiere este artículo, cuando el contribuyente no presente dentro del plazo a que se refiere el párrafo anterior, los documentos, libros o registros que desvirtúen dichos hechos u omisiones.
+
+IV. Cuando resulte imposible continuar o concluir la visita domiciliaria en el lugar o lugares señalados en la orden de visita, las actas podrán levantarse en las oficinas de las autoridades fiscales. En este caso, se deberá notificar previamente a la persona con quien se entiende la visita, a fin de que acuda al levantamiento y se haga acompañar de sus testigos de asistencia.
+
+V. Si en el cierre del acta final de visita no estuviera presente el visitado o su representante legal, se dejará citatorio para que se presente a una hora determinada del día siguiente. Si no se presentare, el acta se levantará ante quien esté presente en el lugar visitado.
+
+Cerrada el acta final no se podrán levantar actas complementarias sin que exista nueva orden de visita.
+
+VI. Las actas parciales se entenderá que forman parte integrante del acta final de visita aunque no se señale así expresamente.
+
+VII. Las autoridades fiscales deberán concluir la visita domiciliaria o la revisión de la documentación que se realice en las oficinas de las propias autoridades, dentro de un plazo máximo de doce meses contados a partir de que se notifique la orden de visita o el requerimiento respectivo. Cuando las autoridades no cierren el acta final de visita o no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión, en el plazo mencionado, se entenderá concluida en esa fecha, y quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
+
+VIII. Cuando el contribuyente corrija su situación fiscal de acuerdo a los resultados de la visita domiciliaria, deberán elaborarse las declaraciones correspondientes, que contengan la firma del interesado o su representante legal.
+
+IX. Cuando de la revisión de los citatorios o de las actas de visita que se hayan levantado y demás documentación vinculada a éstas, se observe que el procedimiento de fiscalización no se hubiese ajustado a las normas aplicables, lo que pudiera provocar la invalidación de la determinación del crédito fiscal que en su caso se realizara, la autoridad podrá por una sola vez reponer el procedimiento de oficio, contando a partir de la reposición con un plazo de seis meses para concluir el procedimiento fiscalizador, siempre y cuando ésta se realice antes de que concluya el plazo a que se refiere el párrafo segundo del artículo 95 de este Código.
+
+Lo señalado en la fracción anterior, será sin perjuicio de la responsabilidad en que puedan incurrir los visitadores.
+
+X. Los plazos para concluir las visitas domiciliarias o las revisiones de gabinete; la prórroga a que se refiere la fracción VII de este artículo, así como la reposición del procedimiento que establece la fracción anterior, se suspenderán en los casos de:
+
+a). Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la misma;
+
+b). Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión, y
+
+c). Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice.
+
+###### ARTICULO 91.
+
+Las visitas domiciliarias ordenadas por las autoridades fiscales, deberán concluirse anticipadamente, cuando el contribuyente haya presentado ante la Tesorería, antes del inicio de la visita, aviso para dictaminar el cumplimiento de sus obligaciones fiscales, siempre que dicho aviso se haya presentado en el plazo y cumpliendo los requisitos establecidos en este Código. La conclusión anticipada de la visita, sólo será con relación a las contribuciones y período a dictaminar.
+
+En estos casos se deberá levantar acta en la que se señale esta situación.
+
+###### ARTICULO 92.
+
+Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
+
+I. La solicitud se notificará en el domicilio fiscal de la persona a la que va dirigida y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o en el lugar donde éstas se encuentren. Si al presentarse el notificador en el lugar donde deba de practicarse la diligencia, no estuviere la persona a quien va dirigida la solicitud o su representante legal, se dejará citatorio con la persona que se encuentre en dicho lugar, para que el contribuyente, responsable solidario, tercero o representante legal lo esperen a hora determinada el día siguiente para recibir la solicitud; si no se atendiere el citatorio, la solicitud se notificará con quien se encuentre en el domicilio señalado en la misma;
+
+II. En la solicitud se indicará el lugar y el plazo en el cual se deberán proporcionar los informes o documentos;
+
+III. Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante;
+
+IV. Como consecuencia de la revisión de informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubieren conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario. En el caso de que no existan observaciones, las autoridades fiscales dentro del plazo a que se refiere la fracción VII del artículo 90 de este Código, formularán oficio en el que se dé a conocer al contribuyente, responsable solidario o tercero, el resultado de la revisión;
+
+V. El oficio de observaciones a que se refiere la fracción IV anterior, se notificará en el lugar señalado en la fracción I de este artículo. El contribuyente contará con un plazo de veinte días contados a partir del siguiente a aquel en que se notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo.
+
+Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo a que se refiere el párrafo anterior, el contribuyente no presenta documentación comprobatoria que los desvirtúe, y
+
+VI. La resolución que determine las contribuciones omitidas se notificará en el lugar señalado en la fracción I de este artículo.
+
+###### ARTICULO 93.
+
+En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten informes, datos, documentos, la presentación de la contabilidad o parte de ella, del contribuyente, responsable solidario o tercero, deberán presentarse dentro de los siguientes plazos:
+
+a). Las boletas o declaraciones de pago de contribuciones, libros o registros que forman parte de la contabilidad, solicitados en el curso de una visita domiciliaria, deberán presentarse de inmediato, así como los diagramas y el diseño de sistema de registro electrónico, en su caso;
+
+b). Seis días contados a partir del siguiente a aquel en que se notificó la solicitud respectiva, cuando se trate de documentos que deba tener en su poder el contribuyente conforme a la legislación aplicable y le sean solicitados durante el desarrollo de la visita domiciliaria, y
+
+c). Diez días contados a partir del siguiente a aquel en que se le notificó la solicitud respectiva, en los demás casos.
+
+Las autoridades fiscales podrán ampliar hasta en diez días más los plazos antes señalados, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de obtener.
+
+###### ARTICULO 94.
+
+Las visitas de inspección y verificación sólo se practicarán mediante mandamiento escrito de autoridad competente debidamente fundado en el que se expresará, nombre, denominación o razón social del visitado; lugar a inspeccionarse o verificarse, y objeto de la visita.
+
+Al iniciarse la verificación o inspección en el domicilio señalado en la orden, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, a fin de que ella constate que las personas nombradas en la orden de visita y las que comparecen a su realización son las mismas, lo cual quedará debidamente circunstanciado en el acta que al efecto se levante.
+
+De toda visita de verificación o inspección se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona con quien se hubiere entendido la diligencia o por quien la practique si aquélla se hubiere negado a proponerlos, de la cual se dejará copia a la persona con quien se entendió la diligencia aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando el verificador o inspector haga constar la circunstancia en la propia acta. Los hechos u omisiones consignados por los visitadores en las actas harán prueba plena de la existencia de tales hechos u omisiones, con excepción de aquellos controvertidos por el contribuyente, sin producir efectos de resolución final.
+
+###### ARTICULO 95.
+
+Cuando con motivo del ejercicio de sus facultades de comprobación, las autoridades fiscales conozcan de la comisión de una o varias infracciones que originen la omisión total o parcial en el pago de las contribuciones establecidas en este Código, procederán a determinar el crédito fiscal que resulte, motivando la resolución con base en los hechos u omisiones consignadas en las actas u oficio de observaciones que al efecto se hayan levantado.
+
+Dicha resolución deberá emitirse y notificarse dentro de un plazo máximo de cinco meses contados a partir del día siguiente al levantamiento del acta final, o del día siguiente al vencimiento de los plazos previstos por las fracciones IX del artículo 90 y V del artículo 92 de este Código, según corresponda. Cuando las autoridades no emitan la resolución correspondiente en el plazo mencionado, quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
+
+El plazo para emitir la resolución a que se refiere el párrafo anterior, se suspenderá en los casos previstos en los incisos a), b) y c) de la fracción X del artículo 90 de este Código.
+
+Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa contra el acta final de visita o del oficio de observaciones de que se trate, dicho plazo se suspenderá desde la fecha en que se interpongan los citados medios de defensa y hasta que se dicte resolución definitiva de los mismos.
+
+Cuando las autoridades emitan y no notifiquen la resolución correspondiente dentro del plazo mencionado, quedará sin efectos la orden y las actuaciones que de ella se derivaron durante la visita o revisión de que se trate.
+
+En el caso de que concluida la visita domiciliaria, y una vez que la autoridad fiscal no conozca de la comisión de alguna infracción que origine la omisión total o parcial en el pago de las contribuciones establecidas en este Código, ésta comunicará por escrito al contribuyente esa situación, dentro de los cinco días hábiles siguientes.
+
+###### ARTICULO 96.
+
+Los hechos afirmados por Contadores Públicos en los dictámenes formulados en relación al cumplimiento de las obligaciones fiscales, así como en las aclaraciones respecto a dichos dictámenes, se presumirán ciertos, salvo prueba en contrario, si reúnen los siguientes requisitos:
+
+I. Que el Contador Público que dictamine cuente con registro actualizado ante la Secretaría para dictaminar contribuciones locales;
+
+II. Que el dictamen se formule de acuerdo a las disposiciones de este Código y de las reglas de carácter general que al efecto publique la Secretaría, y
+
+III. Que el Contador Público emita conjuntamente con su dictamen, un informe sobre la revisión fiscal en el que se consigne, bajo protesta de decir verdad, los datos que señale este Código y las reglas de carácter general que al efecto publique la Secretaría.
+
+Cuando el dictamen se haya presentado con abstención de opinión, opinión negativa, con salvedades que tengan implicaciones fiscales o no reúnan los requisitos establecidos en este Código, las autoridades fiscales podrán ejercer directamente sus facultades de comprobación sin necesidad de agotar el procedimiento que establece el artículo 97 de este Código. Tampoco se seguirá el mencionado procedimiento en el caso de que se determinen en el dictamen diferencias de contribuciones a pagar o contribuciones omitidas y éstas no se enteren de conformidad con lo dispuesto en la fracción V del artículo 68 de este Código. Dicha circunstancia se hará del conocimiento del Contador Público y del Contribuyente.
+
+Las opiniones o interpretaciones contenidas en los dictámenes no obligarán a las autoridades fiscales, las que podrán ejercer directamente sus facultades de vigilancia y comprobación sobre los sujetos pasivos o responsables solidarios y expedir la resolución por la que se determine el crédito fiscal que corresponda.
+
+La revisión de los dictámenes y demás documentos relativos a los mismos, podrá efectuarse en forma previa o simultánea al ejercicio de otras facultades de comprobación establecidas en este Código, respecto de los contribuyentes o responsables solidarios.
+
+###### ARTICULO 97.
+
+Las autoridades fiscales, estarán facultadas para revisar los dictámenes presentados por los contribuyentes, de acuerdo a lo siguiente:
+
+I. Requerirán al Contador Público, por escrito, con copia al contribuyente:
+
+a). Los papeles de trabajo elaborados con motivo de la auditoría practicada, los cuales, en todo caso, se entiende que son propiedad del Contador Público que dictamine, y
+
+b). Información y documentos que se consideren pertinentes para cerciorarse del cumplimiento de las obligaciones fiscales del contribuyente.
+
+II. Concederán al Contador Público, un plazo máximo de quince días hábiles contados a partir de la notificación del requerimiento, para que le proporcione la documentación o información requerida.
+
+III. Podrán requerir al contribuyente para que exhiba la documentación o informes requeridos, cuando ésta no sea proporcionada por el Contador Público en el plazo previsto en la fracción anterior, o bien, cuando habiéndola proporcionado no sea suficiente para comprobar los datos y cifras consignados en el dictamen y demás documentos.
+
+Una vez realizado lo anterior, si a juicio de las autoridades fiscales el dictamen no satisface los requisitos establecidos en este Código, dicha circunstancia se hará del conocimiento del Contador Público y del contribuyente, procediendo a ejercer directamente las facultades de comprobación.
+
+Cuando la autoridad fiscal advierta del dictamen a revisar, que existe omisión o diferencias en el pago de alguna contribución establecida en este Código, podrá requerir directamente al contribuyente, haciendo constar dicha circunstancia.
+
+IV. No deberán transcurrir más de doce meses, de la fecha en que surta efectos la notificación del inicio de facultades de comprobación al Contador Público o al propio contribuyente, a la fecha en que se formule el oficio de observaciones.
+
+Respecto de la revisión efectuada a la documentación y/o informes requeridos al Contador Público o al contribuyente si no existieran hechos u omisiones observadas las autoridades fiscales dentro del plazo a que se refiere la fracción IV de este artículo, formularán oficio en el que se dé a conocer el resultado de la revisión. Asimismo, respecto a la revisión efectuada al contribuyente, las autoridades fiscales deberán notificar el oficio de observaciones, contando el contribuyente con un plazo de 20 días a partir de la fecha en que surta efectos dicha notificación, para desvirtuar los hechos u omisiones observadas.
+
+###### ARTICULO 98.
+
+Cuando el Contador Público no dé cumplimiento a las disposiciones establecidas en este Código y en las reglas de carácter general que al efecto publique la Secretaría, las autoridades fiscales previa audiencia estarán facultadas para:
+
+I. Amonestar por escrito cuando:
+
+a). Se presente incompleta la información a que se refieren los artículos 61, 64, 65, 66, 67, 68 y 70, de este Código, y
+
+b). No cumpla con lo señalado en el artículo 97, fracción I, incisos a) y b), de este Código.
+
+II. Suspender los efectos de su registro para emitir dictámenes, cuando:
+
+a). Formule el dictamen en contravención a lo dispuesto en el artículo 96 de este Código. En este caso la suspensión será de un año para la primera ocasión y dos años para la segunda;
+
+b). No formule el dictamen debiendo hacerlo. En este caso la suspensión será de un año para la primera ocasión y dos años para la segunda;
+
+c). Acumule dos amonestaciones. En este caso la suspensión será de dos años;
+
+d). Se encuentre sujeto a proceso por la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal. En este caso, la suspensión durará el tiempo en que el Contador se encuentre sujeto a dicho proceso, y
+
+e). El Contador Público se haya auxiliado de personas distintas a las que se refiere el artículo 22 de este Código, para la determinación de la base gravable del Impuesto Predial. En este caso la suspensión será de un año para la primera ocasión y dos años para la segunda.
+
+El cómputo de las amonestaciones, se hará por cada actuación del Contador Público, independientemente del contribuyente a que se refieran.
+
+III. Proceder a la cancelación definitiva de su registro para emitir dictámenes, cuando:
+
+a). Exista reincidencia en la violación de las disposiciones que rigen la formulación del dictamen y demás información para efectos fiscales. Para estos efectos se entiende que hay reincidencia cuando el Contador Público acumule tres suspensiones, y
+
+b). Hubiera participado en la comisión de delitos de carácter fiscal o delitos intencionales que ameriten pena corporal, respecto de los cuales se haya dictado sentencia definitiva que lo declare culpable.
+
+IV. La audiencia a que se refiere este artículo, se sujetará a lo siguiente:
+
+a). Determinada la irregularidad se le notificará por oficio al Contador Público, concediéndole un plazo de quince días naturales contados a partir de la fecha de su notificación, a efecto de que manifieste, por escrito, lo que a su derecho convenga y ofrezca las pruebas documentales pertinentes, mismas que deberá acompañar a su escrito, y
+
+b). Agotada la fase anterior, con vista en los elementos que obren en el expediente, la Secretaría emitirá la resolución que proceda, misma que deberá hacerse del conocimiento del Colegio respectivo, sin perjuicio de las demás sanciones que pudiera llegar a incurrir el Contador Público.
+
+###### ARTICULO 99.
+
+Las facultades de las autoridades para determinar créditos fiscales derivados de contribuciones omitidas y sus accesorios; para imponer sanciones por infracciones a las disposiciones de este Código, así como determinar responsabilidades resarcitorias, se extinguirán en el plazo de cinco años contados a partir del día siguiente a aquel en que:
+
+I. Se presentó la declaración del ejercicio, cuando se tenga obligación de hacerlo. En estos casos las facultades se extinguirán por ejercicios completos, incluyendo aquellas facultades relacionadas con la exigibilidad de obligaciones distintas de la de presentar la declaración del ejercicio. No obstante lo anterior, cuando se presenten declaraciones complementarias el plazo empezará a computarse a partir del día siguiente a aquél en que se presenten, por lo que hace a los conceptos modificados en relación a la última declaración de esa misma contribución en el ejercicio;
+
+II. Se presentó o debió haberse presentado declaración que corresponda a una contribución que no se calcule por ejercicios o a partir de que se causaron las contribuciones cuando no exista la obligación de pagarlas mediante declaración;
+
+III. Se hubiere cometido la infracción a las disposiciones fiscales; pero si la infracción fuese de carácter continuo, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente;
+
+IV. Se hubiere cometido la conducta que causa el daño o perjuicio a la Hacienda Pública del Distrito Federal o al patrimonio de las entidades, y
+
+V. Se presentó el dictamen de cumplimiento de obligaciones fiscales emitido por un Contador Público registrado, siempre que éste no dé origen a la presentación de declaraciones complementarias por dictamen, toda vez que en caso contrario se estará a lo dispuesto en las fracciones I y II de este artículo.
+
+El plazo señalado en este artículo no estará sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales o cuando se inicien procedimientos de responsabilidad resarcitoria; se interponga algún recurso administrativo o juicio; cuando las autoridades no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o hubiere señalado de manera incorrecta su domicilio fiscal. En los dos últimos casos se reiniciará el cómputo del plazo de caducidad a partir de la fecha en que se localice al contribuyente.
+
+El plazo de caducidad que se suspende con motivo del ejercicio de las facultades de comprobación y la instauración de procedimientos resarcitorios, inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal. Para el caso del ejercicio de las facultades de comprobación, la suspensión a que se refiere este párrafo estará condicionada a que dentro de los doce meses siguientes al inicio de las facultades de comprobación, se levante acta final, se emita oficio de observaciones o se dicte la resolución definitiva a efecto de que opere la suspensión. Asimismo, para el caso de la instauración del procedimiento resarcitorio dicha suspensión estará condicionada a que dentro de los plazos establecidos por el artículo 458 de este ordenamiento, se dicte la resolución que corresponda en el procedimiento resarcitorio. De no cumplirse estas condiciones se entenderá que no hubo suspensión.
+
+No será necesario el levantamiento de las actas a que se refiere el párrafo anterior, cuando iniciadas las facultades de comprobación se verifiquen los supuestos señalados en los incisos a) y b) de la fracción X del artículo 90 de este Código.
+
+Los contribuyentes, transcurridos los plazos a que se refiere este artículo, podrán solicitar se declare que se han extinguido las facultades de las autoridades fiscales.
+
+###### ARTICULO 100.
+
+Los actos y resoluciones de las autoridades que se dicten en aplicación de este Código, se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
+
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de las autoridades fiscales.
+
+Cuando otras autoridades proporcionen expedientes o documentos a las autoridades fiscales conforme a lo dispuesto en el párrafo anterior, estas últimas deberán conceder a los contribuyentes un plazo de quince días, contado a partir de la fecha en la que les den a conocer tales expedientes o documentos, para manifestar por escrito lo que a su derecho convenga, lo cual formará parte del expediente administrativo correspondiente.
+
+Las mencionadas autoridades estarán a lo dispuesto en el primer párrafo de este artículo, sin perjuicio de su obligación de guardar la reserva a que se refiere el artículo 102 de este Código.
+
+Las copias, impresiones o reproducciones que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos de documentos que tengan en su poder las autoridades, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias, impresiones o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
+
+###### ARTICULO 101.
+
+Los actos administrativos que deben ser notificados deberán contener por lo menos los siguientes requisitos:
+
+I. Constar por escrito;
+
+II. Señalar la autoridad que lo emite;
+
+III. Estar fundado y motivado y expresar la resolución, causa, objeto o propósito de que se trate, y
+
+IV. Ostentar la firma autógrafa del funcionario competente que lo emite y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación. En el caso de actos administrativos que consten en documentos digitales y otorguen beneficios al particular, deberán contener la firma electrónica o facsimilar, la que tendrá el mismo valor que la firma autógrafa.
+
+Si se trata de actos administrativos que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
+
+###### ARTICULO 102.
+
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señale este Código y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración de la Hacienda Pública del Distrito Federal; a la Procuraduría Fiscal para efectos de procesos contenciosos administrativos, resolución de recursos, instauración de procedimientos de fincamiento de responsabilidad resarcitoria y presentación de denuncias o querellas de carácter penal; a los organismos encargados de la fiscalización del Gobierno del Distrito Federal, para efectos del desarrollo de auditorías a los procesos de revisión y actualización de padrones; al Ministerio Público en sus funciones de investigación y persecución del delito, a las autoridades judiciales en procesos del orden penal; a los Tribunales del Poder Judicial de la Federación, al Tribunal Superior de Justicia del Distrito Federal o cuando la información deba proporcionarse en virtud de convenios de intercambio de información que la Secretaría suscriba. Dicha reserva, tampoco comprenderá la información relativa a los créditos fiscales firmes o exigibles de los contribuyentes, que las autoridades fiscales puedan proporcionar a las Sociedades de Información Crediticia, autorizadas por la Secretaría de Hacienda y Crédito Público, o a sus auxiliares o a particulares habilitados para la recuperación y cobro del adeudo.
+
+###### ARTICULO 103.
+
+Las autoridades fiscales para el mejor cumplimiento de sus facultades, proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
+
+I. Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnicismos y en los casos en que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes;
+
+II. Mantener oficinas en diversos lugares del Distrito Federal que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones;
+
+III. Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes y distribuirlos con oportunidad, e informar de las fechas y lugares de presentación de los que se consideren de mayor importancia;
+
+IV. Señalar en forma precisa en los requerimientos mediante los cuales se exija a los contribuyentes la presentación de declaraciones, avisos y demás documentos a que estén obligados, cuál es el documento cuya presentación se exige;
+
+V. Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales. Para este efecto establecerán una carta de los derechos del contribuyente;
+
+VI. Efectuar reuniones de información con los contribuyentes, especialmente cuando se modifiquen las disposiciones fiscales;
+
+VII. Publicar anualmente las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a períodos inferiores a un año;
+
+VIII. Proporcionar información completa y confiable sobre los trámites, requisitos y plazos, para las instancias o peticiones que formulen los contribuyentes, para lo cual emitirán el Manual de Trámites y Servicios al Contribuyente, y
+
+IX. Proporcionar información de adeudos fiscales.
+
+###### ARTICULO 104.
+
+La Secretaría promoverá la colaboración de las organizaciones, de los particulares y de los colegios de profesionistas con las autoridades fiscales. Para tal efecto podrá:
+
+I. Solicitar o considerar sugerencias, en materia fiscal, sobre la adición o modificación de disposiciones reglamentarias o sobre proyectos de normas legales o de sus reformas;
+
+II. Analizar las observaciones que se le presenten, para que en su caso, se formulen instrucciones de carácter general que la Secretaría dicte a sus dependencias para la aplicación de las disposiciones fiscales;
+
+III. Solicitar de las organizaciones respectivas, estudios técnicos que faciliten el conocimiento de cada rama de la actividad económica, para su mejor tratamiento fiscal;
+
+IV. Recabar observaciones para la aprobación de formas e instructivos para el cumplimiento de las disposiciones fiscales;
+
+V. Celebrar reuniones o audiencias periódicas con dichas organizaciones para tratar problemas de carácter general que afecten a los contribuyentes o a la administración fiscal y para buscar su solución;
+
+VI. Coordinar sus actividades con las organizaciones mencionadas para divulgar las normas sobre deberes fiscales y para la mejor orientación de los contribuyentes, y
+
+VII. Realizar las demás actividades conducentes al logro de los fines señalados en este artículo.
+
+Para lograr lo anterior, las autoridades fiscales podrán promover que las organizaciones de los particulares y los colegios de profesionistas, designen delegados ante las mismas, para que se reúnan cada dos meses con el fin de que se resuelva la problemática operativa e inmediata que se presente en el cumplimiento de las obligaciones fiscales.
+
+###### ARTICULO 105.
+
+La Secretaría podrá establecer programas generales de regularización fiscal para los contribuyentes en los que se podrán contemplar, en su caso, la condonación total o parcial de contribuciones, multas, gastos de ejecución y recargos, así como facilidades administrativas.
+
+###### ARTICULO 106.
+
+Tratándose de créditos fiscales determinados por las autoridades fiscales, el Secretario de Finanzas o el Procurador Fiscal del Distrito Federal, deberán disminuir el monto del crédito fiscal, cuando medie petición del contribuyente, y opere indistintamente alguno de los siguientes supuestos:
+
+I. El adeudo fiscal sea exorbitante, ruinoso, confiscatorio o excesivo;
+
+II. El crédito fiscal derive por causas no imputables directamente al contribuyente;
+
+III. El contribuyente haya presentado dictamen de cumplimiento de obligaciones fiscales;
+
+IV. Cuando el crédito fiscal se haya incrementado por muerte del sujeto pasivo de la relación jurídica tributaria, o bien, por errores o dilación de las autoridades fiscales;
+
+V. Cuando el pago del crédito fiscal, implique la regularización de la propiedad inmobiliaria del contribuyente, y
+
+VI. Cuando el contribuyente realice actividades de beneficio social, y no tenga derecho a alguna reducción de las contempladas en este Código.
+
+Lo previsto en este artículo no constituye instancia, ni interrumpe ni suspende los plazos para que los particulares puedan interponer los medios de defensa. Las resoluciones que se emitan por la autoridad fiscal no podrán ser impugnadas por los contribuyentes.
+
+###### ARTICULO 107.
+
+Las autoridades fiscales sólo estarán obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente; de su resolución favorable se deriven derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas, y la resolución se haya emitido por escrito por autoridad competente para ello.
+
+Las autoridades fiscales no estarán obligadas a contestar consultas cuando hayan sido consentidas las situaciones sobre las que versen; se refieran a la interpretación directa del texto Constitucional, o a la aplicación de criterios del Poder Judicial Federal o Jurisprudencia.
+
+###### ARTICULO 108.
+
+Los funcionarios fiscales facultados debidamente podrán dar a conocer a las diversas dependencias de la Administración Pública del Distrito Federal el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos cuando se publiquen en la Gaceta Oficial del Distrito Federal.
+
+###### ARTICULO 109.
+
+Las resoluciones administrativas favorables a un particular sólo podrán ser modificadas por el Tribunal de lo Contencioso mediante juicio iniciado por las autoridades fiscales.
+
+Cuando la Secretaría modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
+
+###### ARTICULO 110.
+
+Las resoluciones administrativas de carácter individual o dirigidas a agrupaciones, dictadas en materia de impuestos que otorguen una autorización o que, siendo favorables a particulares, determinen un régimen fiscal, surtirá sus efectos en el año en el que se otorguen o en el inmediato anterior, cuando se hubiera solicitado la resolución, y ésta se otorgue en los tres meses siguientes al mes de diciembre de dicho año.
+
+Al concluir el año para el que se hubiere emitido una resolución de las que señala el párrafo anterior, los interesados podrán someter las circunstancias del caso a la autoridad fiscal competente para que dicte la resolución que proceda.
+
+Este precepto no será aplicable a las autorizaciones relativas a prórrogas o pagos en parcialidades y aceptación de garantías del interés fiscal.
+
+###### ARTICULO 111.
+
+Las autoridades fiscales y las auxiliares de éstas, facultadas para determinar créditos fiscales conforme a las disposiciones legales podrán revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando los contribuyentes no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
+
+La revisión anterior, no constituirá instancia y las resoluciones que dicten las autoridades fiscales y las auxiliares de éstas al respecto, no podrán ser impugnadas por los contribuyentes.
+
+### CAPITULO I. Del Impuesto sobre Adquisición de Inmuebles
+
+## TITULO TERCERO. DE LOS INGRESOS POR CONTRIBUCIONES
+
+### CAPITULO II. Del Impuesto Predial
+
+###### ARTICULO 112.
+
+Están obligadas al pago del Impuesto sobre Adquisición de Inmuebles, establecido en este Capítulo, las personas físicas y las morales que adquieran inmuebles que consistan en el suelo, en las construcciones o en el suelo y las construcciones adheridas a él ubicados en el Distrito Federal, así como los derechos relacionados con los mismos a que este Capítulo se refiere.
+
+###### ARTICULO 113.
+
+El impuesto se calculará aplicando, sobre el valor total del inmueble la siguiente tarifa:
+
+Rango Límite Inferior Límite Cuota Fija Factor de
+
+Superior Aplicación
+
+sobre el
+
+excedente
+
+de Límite
+
+Inferior
+
+A $0.12 $77,627.01 $146.34 0.00000
+
+B 77,627.02 124,203.16 146.35 0.03163
+
+C 124,203.17 186,304.56 1,619.55 0.03261
+
+D 186,304.57 372,609.23 3,644.68 0.03261
+
+E 372,609.24 931,523.08 9,720.07 0.03696
+
+F 931,523.09 1,863,046.16 30,377.54 0.04565
+
+G 1,863,046.17 En adelante 72,901.56 0.04565
+
+En caso de adquirirse una porción del inmueble, una vez obtenido el resultado de aplicar la tarifa señalada al valor total del inmueble, se aplicará a dicho resultado, el porcentaje que se adquiera.
+
+###### ARTICULO 114.
+
+Sólo los bienes que se adquieran para formar parte del dominio público del Distrito Federal y los que se adquieran para estar sujetos al régimen de dominio público de la Federación estarán exentos del impuesto a que se refiere este Capítulo.
+
+También estarán exentos los inmuebles adquiridos por representaciones Diplomáticas de Estados Extranjeros acreditados en el país, siempre y cuando exista reciprocidad del Estado solicitante, y organismos internacionales, en términos de lo dispuesto por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTICULO 115.
+
+Para los efectos de este Capítulo, se entiende por adquisición, la que derive de:
+
+I. Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir o liquidar la sociedad conyugal siempre que sean inmuebles propiedad de los cónyuges;
+
+En las permutas se considerará que se efectúan dos adquisiciones.
+
+En el caso de adquisiciones por causa de muerte, se aplicará una tasa de 0% del Impuesto sobre Adquisición de Inmuebles, siempre que el valor del inmueble a la fecha de la escritura de adjudicación no exceda de la suma equivalente a doce mil setenta y tres veces al Salario Mínimo General Vigente en el Distrito Federal;
+
+II. La compraventa en la que el vendedor se reserve el dominio, aun cuando la transferencia de ésta opere con posterioridad;
+
+III. La promesa de adquirir, cuando el futuro comprador entre en posesión de los bienes o el futuro vendedor reciba el precio de la venta o parte de él, antes de que se celebre el contrato prometido o cuando se pacte alguna de estas circunstancias;
+
+IV. La cesión de derechos del comprador o del futuro comprador, en los casos de las fracciones II y III que anteceden, respectivamente;
+
+V. Fusión y escisión de sociedades;
+
+VI. La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
+
+VII. Transmisión de usufructo o de la nuda propiedad, así como la extinción del usufructo, salvo que el mismo se extinga por muerte del usufructuario, independientemente de que el usufructo se haya constituido por tiempo determinado o como vitalicio;
+
+VIII. Prescripción positiva e información de dominio judicial o administrativa; salvo que el adquirente ya hubiera pagado el Impuesto sobre Adquisición de Inmuebles causado por la celebración del contrato base de la acción, previamente al ejercicio de la acción judicial en cuestión;
+
+IX. La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
+
+Se asimila a la cesión de derechos la renuncia o repudio de la herencia o legado efectuados después de la aceptación de herencia o de la declaratoria de herederos o legatarios;
+
+X. Actos que se realicen a través de fideicomiso, así como la cesión de derechos en el mismo, en los siguientes supuestos:
+
+a). En el acto en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él, y siempre que no tenga derecho a readquirir del fiduciario los bienes;
+
+b). En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho;
+
+Cuando el fideicomitente reciba certificados de participación por los bienes que afecte en fideicomiso, se considerarán enajenados esos bienes al momento en que el fideicomitente reciba los certificados, salvo que se trate de acciones.
+
+c). En el acto en el que el fideicomitente ceda los derechos que tenga sobre los bienes afectos al fideicomiso, si entre éstos se incluye el de que dichos bienes se transmitan a su favor;
+
+Cuando se emitan certificados de participación por los bienes afectos al fideicomiso y se coloquen entre el gran público inversionista, no se considerarán enajenados dichos bienes al enajenarse esos certificados, salvo que estos les den a sus tenedores derechos de aprovechamiento directo de esos bienes, o se trate de acciones. La enajenación de los certificados de participación se considerará como una enajenación de títulos de crédito que no representan la propiedad de bienes y tendrán las consecuencias fiscales que establecen las Leyes fiscales para la enajenación de tales títulos.
+
+Sin perjuicio de lo anterior, cuando el fideicomitente reciba certificados de participación por los bienes que afecte en fideicomiso y cuando se emitan certificados de participación por los bienes afectos al fideicomiso y se coloquen entre el gran público inversionista se considerarán enajenados esos bienes al momento en que el fideicomitente enajene dichos certificados o cuando el fideicomiso enajene los bienes aportados.
+
+d). En el acto en el que el fideicomitente transmita total o parcialmente los derechos que tenga sobre los bienes afectos al fideicomiso a otro fideicomitente, aun cuando se reserve el derecho de readquirir dichos bienes;
+
+e). En el acto en el que el fideicomisario designado ceda los derechos que tenga sobre los bienes afectos al fideicomiso, o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos, se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones, y
+
+f). En el acto en el que el fideicomitente afecte en fideicomiso un inmueble para ser destinado a un desarrollo inmobiliario, para transmitirlo todo o en partes a terceros, o con la finalidad de recibir alguna contraprestación, no obstante que se haya reservado el derecho de readquirir;
+
+XI. La división de la copropiedad por la parte que se adquiera en demasía del porciento que le correspondía al copropietario, tomando como base los valores a que se refiere el artículo 116 de este Código;
+
+XII. La cesión de derechos en los contratos de arrendamiento financiero, así como la adquisición de los bienes materia del mismo que se efectúe por persona distinta del arrendatario, y
+
+XIII. La adjudicación judicial o administrativa y la cesión de dichos derechos.
+
+###### ARTICULO 116.
+
+El valor del inmueble que se considerará para efectos del artículo 113 de este Código, será el que resulte más alto entre:
+
+I. El valor de adquisición;
+
+II. El valor catastral determinado con la aplicación de los valores unitarios a que se refiere el artículo 129 de este Código, o
+
+III. El valor comercial que resulte del avalúo practicado por la autoridad fiscal o por personas registradas o autorizadas por la misma.
+
+Tratándose de adquisiciones de inmuebles en proceso de construcción, los valores catastral y de avalúo, se determinarán de acuerdo a las características estructurales y arquitectónicas del proyecto respectivo.
+
+###### ARTICULO 117.
+
+Para determinar el valor del inmueble, se incluirán las construcciones que en su caso tenga, independientemente de los derechos que sobre éstos tengan terceras personas, salvo que se demuestre fehacientemente ante la autoridad fiscal y de manera previa al otorgamiento del instrumento público correspondiente, que dichas construcciones se realizaron con recursos propios del adquirente, o que las adquirió con anterioridad, habiendo cubierto el impuesto respectivo. Para los fines de este impuesto, se considerará que el usufructo y la nuda propiedad, tienen cada uno de ellos, el 50% del valor del inmueble.
+
+Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del valor de adquisición.
+
+Cuando se adquiera sólo una porción del inmueble o el usufructo o la nuda propiedad, la base gravable que se considerará para el cálculo del impuesto, será el valor del inmueble en su totalidad. Al impuesto determinado se le aplicará la proporción correspondiente a la parte que fue adquirida y el resultado será el monto del impuesto a pagar.
+
+Cuando se trate de adquisición por causa de muerte, el valor del inmueble que se considerará será el que resulte más alto entre el valor catastral y el valor que resulte del avalúo vigente al momento de otorgarse la escritura de adjudicación de los bienes de la sucesión, dicho avalúo deberá estar referido a la fecha de adjudicación, venta o cesión de los bienes de la sucesión.
+
+Cuando se trate de adquisición por aportación a toda clase de asociaciones o sociedades, fusión o escisión de sociedades, dación en pago y liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles, el valor del inmueble será el que resulte más alto entre el valor catastral, el valor de operación y el valor de avalúo referidos al momento de otorgarse la escritura de formalización de la transmisión de la propiedad de los inmuebles con motivo de dichos actos.
+
+Tratándose de adquisición por prescripción positiva e información de dominio judicial o administrativa, el valor del inmueble que se considerará será el que resulte más alto entre el valor catastral y el valor de avalúo referido a la fecha en que cause ejecutoria la sentencia de prescripción y de la resolución judicial o administrativa de información de dominio, respectivamente.
+
+En los casos no previstos en este Capítulo, tratándose de adquisiciones formalizadas en documentos privados, el avalúo deberá referirse a la fecha en que se adquiera el dominio del bien conforme a las leyes, o en su defecto, a la fecha de otorgamiento de la escritura pública correspondiente.
+
+###### ARTICULO 118.
+
+Los avalúos que se realicen para efectos de este impuesto, deberán ser practicados por las personas señaladas en el artículo 22 de este Código.
+
+En caso de que dichas personas, practiquen avalúos sin ajustarse a los procedimientos y lineamientos técnicos, se harán acreedoras a la suspensión o cancelación de la autorización o registro, según corresponda, y a las sanciones pecuniarias a que haya lugar, sin perjuicio de la responsabilidad penal en que pudieran incurrir en el caso de la comisión de algún delito fiscal.
+
+###### ARTICULO 119.
+
+En inmuebles destinados a vivienda, los propios contribuyentes podrán determinar el valor del inmueble, aplicando el procedimiento y los valores de referencia del Manual de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria y de Autorización de Sociedades y Registro de Peritos Valuadores, utilizando los formatos que para tal efecto sean aprobados por la autoridad fiscal.
+
+###### ARTICULO 120.
+
+El pago del impuesto deberá hacerse mediante declaración, a través de la forma oficial autorizada, que se presentará dentro de los 15 días siguientes a aquél en que se realicen cualquiera de los supuestos que a continuación se señalan:
+
+I. Cuando se adquiera el usufructo o la nuda propiedad. En el caso de cualquier usufructo, que se haya constituido por tiempo determinado o como vitalicio, cuando se extinga por cualquier causa distinta de la muerte del usufructuario;
+
+II. Cuando se adjudiquen los bienes de la sucesión, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente; asimismo, en los casos de formalización de adquisiciones en las que el enajenante falleciere sin que se hubiere pagado el impuesto correspondiente, se deberán pagar tanto el impuesto por la adquisición por herencia o legado, como el del acto que se formalice;
+
+III. Cuando se realicen los supuestos de enajenación a través de fideicomiso;
+
+IV. A la fecha en que cause ejecutoria la sentencia de la prescripción positiva, a la de la resolución correspondiente, en el caso de información de dominio judicial o administrativa, y a la de la formalización en escritura pública, tratándose de la adjudicación judicial o administrativa y a la fecha de la cesión de dichos derechos;
+
+V. En los contratos de compraventa con reserva de dominio y promesa de venta, cuando se celebre el contrato respectivo;
+
+VI. En los contratos de arrendamiento financiero, cuando se cedan los derechos respectivos o la adquisición de los bienes materia del mismo la realice una persona distinta del arrendatario;
+
+VII. Cuando se formalice en escritura pública la transmisión de propiedad de inmuebles, con motivo de la aportación a toda clase de asociaciones o sociedades, de la fusión o escisión de sociedades, de la dación en pago y liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles, y
+
+VIII. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público, o si se trata de documentos privados, cuando se adquiera el dominio del bien conforme a las leyes.
+
+El contribuyente podrá pagar el impuesto por anticipado.
+
+A la declaración a que se refiere este artículo deberá acompañarse la documentación que en la misma se señale.
+
+Tratándose de adquisiciones que se deriven de los actos mencionados en el artículo 115 de este Código, que no se hagan constar en escritura pública, el enajenante tendrá el carácter de responsable solidario respecto del impuesto sobre adquisición de inmuebles que se genere a cargo del adquirente y éste omita su pago.
+
+En el caso de adquisiciones de inmuebles derivadas de actos consignados en documentos privados, el plazo para el ejercicio de las facultades de comprobación de las autoridades fiscales, así como el de prescripción, comenzarán a correr a partir de que dichas autoridades tengan conocimiento de la celebración de tales actos.
+
+Los inmuebles servirán de garantía por los créditos fiscales que resulten con motivo de diferencias provenientes de los avalúos o determinaciones de valor efectuadas por los contribuyentes, tomados como base para el cálculo del impuesto a que se refiere este Capítulo, los que se harán efectivos mediante el procedimiento administrativo de ejecución.
+
+###### ARTICULO 121.
+
+En las adquisiciones que se hagan constar en escritura pública, los fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y mediante declaraciones lo enterarán en las oficinas autorizadas, dentro de los cinco días hábiles siguientes al en que se formalice en escritura pública la adquisición de que se trate.
+
+Si las adquisiciones se hacen constar en documentos privados, el cálculo y entero del impuesto deberá efectuarlo el adquirente bajo su responsabilidad.
+
+Se presentará declaración por todas las adquisiciones aun cuando no haya impuesto a pagar.
+
+Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en escritura pública operaciones por las que ya se hubiera pagado el impuesto y acompañen a su declaración copia de aquéllas con las que se efectuó dicho pago.
+
+###### ARTICULO 122.
+
+Cuando por avalúo practicado, ordenado o tomado en consideración por las autoridades fiscales, o bien, por las determinaciones de valor efectuadas por los propios contribuyentes a que se refieren los artículos 116, 117, 118 y 119 de este Código, resulten diferencias de impuesto, los fedatarios no serán responsables solidarios por las mismas.
+
+Tratándose de fideicomisos con inmuebles en los que el fedatario considere que no se causa el impuesto en los términos de este Capítulo, dicho fedatario deberá presentar aviso a las autoridades fiscales, anexando para tal efecto la documentación con la cual acredite tal situación.
+
+###### ARTICULO 123.
+
+Los fedatarios estarán obligados a verificar que los avalúos o las determinaciones de valor efectuadas por los propios contribuyentes, que sirvan de base para el cálculo del impuesto a que se refiere este Capítulo, se encuentran vigentes y en el caso de los primeros, que se hayan practicado y signado por las personas a que se refiere el artículo 22 de este Código, y cuya autorización o registro no se encuentre cancelada o suspendida.
+
+###### ARTICULO 124.
+
+Tratándose de inmuebles en condominio los fedatarios públicos deberán anotar en las escrituras públicas o demás documentos mediante los cuales se adquiera o transmita la propiedad de bienes inmuebles, una descripción general de la construcción del condominio, que comprenda las construcciones de uso común, indicando las medidas y superficies que les corresponda, así como la calidad de los materiales empleados, la descripción de cada departamento, vivienda, casa o local, su número, situación, medidas y superficies, piezas de que conste, espacio para estacionamiento de vehículos, si lo hubiere, los indivisos correspondientes a la localidad, así como la parte proporcional de los derechos sobre las áreas comunes del inmueble.
+
+###### ARTICULO 125.
+
+Cuando la adquisición de los bienes inmuebles opere por resoluciones de autoridades no ubicadas en el Distrito Federal, el pago del impuesto se hará dentro de los treinta días naturales contados a partir de la fecha en que haya causado ejecutoria la resolución respectiva.
+
+Cuando dicha adquisición opere en virtud de actos o contratos celebrados fuera del territorio de la República, o bien a través de resoluciones dictadas por autoridades extranjeras, el impuesto deberá ser cubierto dentro del término de noventa días hábiles contados a partir de la fecha en que surtan efectos en la República los citados actos, contratos o resoluciones.
+
+### CAPITULO III. Del Impuesto sobre Espectáculos Públicos
+
+###### ARTICULO 126.
+
+Están obligadas al pago del impuesto predial establecido en este Capítulo, las personas físicas y las morales que sean propietarias del suelo o del suelo y las construcciones adheridas a él, independientemente de los derechos que sobre las construcciones tenga un tercero. Los poseedores también estarán obligados al pago del impuesto predial por los inmuebles que posean, cuando no se conozca al propietario o el derecho de propiedad sea controvertible.
+
+Los propietarios de los bienes a que se refiere el párrafo primero de este artículo y, en su caso, los poseedores, deberán determinar y declarar el valor catastral de sus inmuebles, aun en el caso de que se encuentren exentos del pago del impuesto predial.
+
+La declaración a que se refiere el párrafo anterior, se presentará en los formatos oficiales aprobados ante las oficinas autorizadas, en los términos establecidos en el artículo 131 de este Código, así como en los supuestos y plazos a que se refiere el artículo 132 de este Código.
+
+En el caso de los inmuebles que hayan sido declarados exentos del impuesto predial, conforme a lo dispuesto en el artículo 133 de este Código, se debe acompañar a la declaración del impuesto, la resolución emitida por la autoridad competente, en la que se haya declarado expresamente que el bien de que se trate se encuentra exento.
+
+Es obligación de los contribuyentes calcular el impuesto predial a su cargo.
+
+Cuando en los términos de este Código haya enajenación, el adquirente se considerará propietario para los efectos de este impuesto.
+
+Los datos catastrales o administrativos, cualesquiera que éstos sean, sólo producirán efectos fiscales o catastrales.
+
+###### ARTICULO 127.
+
+La base del impuesto predial será el valor catastral determinado por los contribuyentes conforme a lo siguiente:
+
+A través de la determinación del valor de mercado del inmueble, que comprenda las características e instalaciones particulares de éste, incluyendo las construcciones a él adheridas, elementos accesorios, obras complementarias o instalaciones especiales, aún cuando un tercero tenga derecho sobre ellas, mediante la práctica de avalúo realizado por persona autorizada con base a lo establecido por el artículo 22 de este Código.
+
+La base del impuesto predial, determinada mediante el avalúo a que se refiere el párrafo anterior, será válida en términos del primer párrafo del artículo 132 de este Código, tomando como referencia la fecha de presentación del avalúo y hasta por los dos ejercicios fiscales siguientes, siempre que en cada uno de los años subsiguientes ésta se actualice aplicándole un incremento porcentual igual a aquél en que se incrementen para ese mismo año los valores unitarios a que se refiere el artículo 129 de este Código.
+
+Sin embargo, los contribuyentes podrán optar por determinar y declarar el valor catastral de sus inmuebles aplicando a los mismos los valores unitarios a que se refiere el artículo 129 de este Código.
+
+Para determinar el valor catastral de los inmuebles sujetos al régimen de propiedad en condominio, se considerarán para cada local, departamento, casa o despacho del condominio, las especificaciones relativas a las áreas privativas como jaulas de tendido, cajones de estacionamiento, cuartos de servicio, bodegas y cualquier otro accesorio de carácter privativo; también se considerará la parte proporcional de las áreas comunes que les corresponde, como corredores, escaleras, patios, jardines, estacionamientos y demás instalaciones de carácter común, conforme al indiviso determinado en la escritura constitutiva del condominio o en la escritura individual de cada unidad condominal.
+
+Con el objeto de facilitar el cumplimiento de las obligaciones de los contribuyentes, a que se refiere el párrafo tercero de esta fracción, la autoridad podrá proporcionar en el formato oficial una propuesta de determinación del valor catastral y pago del impuesto correspondiente.
+
+En caso de que los contribuyentes acepten tales propuestas y que los datos contenidos en las mismas concuerden con la realidad, declararán como valor catastral del inmueble y como monto del impuesto a su cargo los determinados en el formato oficial, presentándolo en las oficinas autorizadas y, en caso contrario, podrán optar por realizar por su cuenta la aplicación de los valores unitarios indicados o la realización del avalúo a que se refiere el párrafo primero de esta fracción.
+
+La falta de recepción por parte de los contribuyentes de las propuestas señaladas, no relevará a los contribuyentes de la obligación de declarar y pagar el impuesto correspondiente, y en todo caso deberán acudir a las oficinas de la autoridad fiscal a presentar las declaraciones y pagos indicados, pudiendo solicitar que se les entregue la propuesta correspondiente.
+
+###### ARTICULO 128.
+
+Cuando los contribuyentes omitan declarar el valor catastral de sus inmuebles, o sean inexactos, imprecisos o falsos los datos que utilizaron para determinar dicho valor, la autoridad fiscal utilizando los medios señalados en el artículo 80 de este Código, procederá a determinarlo aplicando cualquiera de los procedimientos señalados en el artículo anterior, a fin de realizar el cobro del impuesto correspondiente.
+
+###### ARTICULO 129.
+
+Para los efectos de lo establecido en los párrafos tercero y cuarto del artículo 127 de este Código, la Asamblea emitirá la relación de valores unitarios del suelo, construcciones adheridas a él, instalaciones especiales de tipo común, elementos accesorios u obras complementarias, que servirán de base a los contribuyentes para determinar el valor catastral de sus inmuebles y el impuesto predial a su cargo.
+
+Dichos valores unitarios atenderán a los precios de mercado del suelo y de las construcciones en el Distrito Federal, así como a las características comunes de los inmuebles que se ubiquen en las distintas zonas del mismo, refiriéndolos a colonias catastrales de condiciones homogéneas, tipo área de valor, tipo enclave de valor y tipo corredor de valor.
+
+La Asamblea podrá modificar la configuración y número de las colonias catastrales.
+
+Tratándose de inmuebles cuya región, manzana y valores unitarios de suelo no se encuentren contenidos en la relación respectiva a que se refiere el primer párrafo de este artículo, los contribuyentes podrán considerar como valor del metro cuadrado del suelo, el que les proponga la autoridad, previa solicitud que al efecto formulen o el que determinen a través de la práctica de avalúo conforme a la opción prevista en el artículo 127 de este Código.
+
+Las autoridades fiscales formularán las propuestas de determinación de valor a que se refiere el párrafo anterior, atendiendo a los valores fijados en la zona de que se trate y de acuerdo a las definiciones que respecto de las colonias catastrales se establecen en las relaciones de Valores Unitarios del Suelo, de las Construcciones, de las Instalaciones Especiales, Elementos Accesorios u Obras Complementarias contenidas en este Código.
+
+###### ARTICULO 130.
+
+El Impuesto Predial se calculará por períodos bimestrales, aplicando al valor catastral la tarifa a que se refiere este artículo:
+
+I. TARIFA.
+
+Rango Límite Inferior de Límite Superior Cuota Fija Porcentaje
+
+Valor Catastral de Valor Catastral Para
+
+de un Inmueble de un Inmueble Aplicarse
+
+Sobre el
+
+Excedente
+
+del Límite
+
+Inferior
+
+A $0.11 $162,740.82 $134.58 0.01344
+
+B 162,740.83 325,481.16 156.44 0.02561
+
+C 325,481.17 650,963.56 198.12 0.08004
+
+D 650,963.57 976,444.70 458.65 0.09822
+
+E 976,444.71 1,301,927.10 778.35 0.10074
+
+F 1,301,927.11 1,627,408.26 1,106.23 0.11709
+
+G 1,627,408.27 1,952,889.39 1,487.32 0.12099
+
+H 1,952,889.40 2,278,371.81 1,881.13 0.13219
+
+I 2,278,371.82 2,603,852.96 2,311.40 0.13827
+
+J 2,603,852.97 2,929,335.38 2,761.43 0.14229
+
+K 2,929,335.39 3,254,816.51 3,224.55 0.14666
+
+L 3,254,816.52 3,580,297.67 3,701.90 0.15065
+
+M 3,580,297.68 3,906,090.04 4,192.23 0.15914
+
+N 3,906,090.05 11,718,268.85 4,710.71 0.17185
+
+O 11,718,268.86 24,663,843.29 18,135.70 0.17193
+
+P 24,663,843.30 En adelante 40,393.19 0.17844
+
+En el caso de que los inmuebles tengan un valor inferior a la cuota fija correspondiente al rango A, sólo se pagará el porcentaje a aplicar sobre el excedente del límite inferior correspondiente a dicho rango.
+
+II. Tratándose de inmuebles de uso habitacional, el impuesto que resulte a cargo de los contribuyentes conforme a la tarifa prevista en la fracción I de este artículo será objeto de las reducciones que a continuación se señalan:
+
+1. Los contribuyentes con inmuebles cuyo valor catastral se ubique en los rangos A, B, C y D, pagarán la cuota fija de:
+
+Rango Cuota
+
+A $34.00
+
+B 39.00
+
+C 48.00
+
+D 58.00
+
+III. Tratándose de los inmuebles que a continuación se mencionan, los contribuyentes tendrán derecho a una reducción del impuesto a su cargo:
+
+1. Del 80% los dedicados a usos agrícola, pecuario, forestal, de pastoreo controlado, ubicados en la zona primaria designada para la protección o conservación ecológica; para lo cual deberá presentar una constancia de dicho uso, emitida por la Secretaría del Medio Ambiente, durante el ejercicio fiscal que corresponda, y
+
+2. Del 30% los ubicados en zonas en las que los Programas Delegacionales o Parciales del Distrito Federal determinen intensidades de uso, conforme a las cuales la proporción de las construcciones cuya edificación se autorice, resulte inferior a un 10% de la superficie total del terreno; siempre y cuando no los destine a fines lucrativos, para lo cual durante el ejercicio fiscal que corresponda deberá presentar ante la Administración Tributaria de que se trate, una constancia expedida por la Secretaría del Medio Ambiente con la que se acredite que el inmueble se ubica en este supuesto y manifestar bajo protesta de decir verdad que éste no se destina a fines de carácter lucrativo.
+
+En inmuebles de uso diverso, para la aplicación de las reducciones previstas en las fracciones II y III de este artículo, se estará a lo siguiente:
+
+a). Se aplicará a la parte proporcional del impuesto determinado que corresponda al valor de suelo y construcción del uso que sea objeto de dicha reducción, y
+
+b). Para determinar el porcentaje de reducción previsto en la fracción II de este artículo, se tomará como referencia el valor total del inmueble de que se trate.
+
+Las reducciones no serán aplicables a aquellos bienes inmuebles en los que se encuentren instalados o fijados anuncios con publicidad exterior, en los términos de lo dispuesto por la Ley de Desarrollo Urbano del Distrito Federal.
+
+###### ARTICULO 131.
+
+El pago del impuesto predial deberá hacerse en forma bimestral, durante los meses de febrero, abril, junio, agosto, octubre y diciembre, mediante declaración ante las oficinas autorizadas.
+
+Cuando los contribuyentes cumplan con la obligación de pagar el impuesto predial en forma anticipada, tendrán derecho a una reducción del 5%, cuando se efectúe el pago de los seis bimestres, a más tardar el último día del mes de enero del año que se cubra.
+
+###### ARTICULO 132.
+
+Cuando el valor catastral declarado se modifique por cualquier causa se declarará el nuevo valor, junto con el pago del impuesto predial que corresponda al mismo, a partir del bimestre siguiente a aquél en que ocurra la modificación.
+
+En el supuesto de que el contribuyente hubiere optado por pagar el impuesto predial en forma anticipada, con base en el valor catastral vigente al momento del pago, de acuerdo a lo dispuesto en el segundo párrafo del artículo anterior, en el momento de pagar el impuesto predial conforme al nuevo valor, podrá deducir el impuesto predial efectivamente pagado por anticipado, más la reducción del porcentaje correspondiente al pago anticipado que hubiera realizado.
+
+La autoridad fiscal otorgará al contribuyente las facilidades necesarias para la presentación de la declaración a que se refiere el párrafo anterior.
+
+En el caso de fraccionamientos de inmuebles, el impuesto se causará por cada fracción que resulte, a partir del bimestre siguiente a aquél en que se formalice la escritura respectiva, la que deberá ser presentada ante la autoridad competente en un plazo que no excederá de los 30 días hábiles siguientes a su formalización.
+
+Tratándose de subdivisión o fusión de inmuebles, el impuesto se causará a partir del bimestre siguiente a aquél en que se formalice la escritura respectiva, misma que deberá ser presentada ante la autoridad competente en un plazo que no excederá de los 30 días hábiles siguientes a su formalización.
+
+Para el caso de inmuebles en proceso de construcción, el valor catastral que servirá de base para calcular el impuesto predial a pagar, se determinará a partir de la clasificación que de dichos inmuebles se efectúe, tomando como base los datos proporcionados en la manifestación de construcción respectiva.
+
+Para tales efectos, el uso, rango y la clase de la construcción se definirán por las características y datos contenidos en la manifestación respectiva, definiendo así los datos catastrales conforme a los cuales se calculará el valor de la construcción, considerando solamente el 25% de la superficie de construcción total registrada en la manifestación respectiva, durante los bimestres que abarquen el tiempo de vigencia de tal manifestación o de las ampliaciones correspondientes, aplicando las tablas de valores unitarios de construcción vigentes en el ejercicio fiscal que corresponda. A lo anterior, se le adicionará el valor del suelo determinado conforme a las tablas de valores unitarios de suelo vigentes.
+
+En relación con el párrafo anterior, para el caso en que se suspenda o interrumpa el proceso de construcción de la obra respectiva por más de un bimestre, se deberá presentar ante la autoridad fiscal la manifestación correspondiente debidamente justificada, anexándola a la declaración que corresponda al bimestre siguiente a aquel en que se presente esta circunstancia y hasta que la misma desaparezca. En este supuesto, se determinará el valor real que corresponda a la construcción, debiendo dar aviso a dicha autoridad cuando se reanude la ejecución de la obra, en el bimestre siguiente al en que esto suceda, en cuyo caso se volverá a calcular el valor de la construcción considerando solamente el 25% de la superficie de construcción total registrada en la manifestación respectiva.
+
+###### ARTICULO 133.
+
+No se pagará el Impuesto Predial por los siguientes inmuebles:
+
+I. Los del dominio público del Distrito Federal;
+
+II. Los de propiedad de organismos descentralizados de la Administración Pública del Distrito Federal, utilizados en las actividades específicas que tengan encomendadas conforme a sus respectivos objetos, exceptuando aquellos que sean utilizados por dichos organismos o por particulares bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto;
+
+III. Los sujetos al régimen de dominio público de la Federación, en términos de la Ley General de Bienes Nacionales;
+
+IV. Los de propiedad de representaciones Diplomáticas de Estados Extranjeros acreditadas en el Estado Mexicano, en términos de la Convención de Viena sobre Relaciones Diplomáticas y, en su caso, de la Convención de Viena sobre Relaciones Consulares, y
+
+V. Los de propiedad de Organismos Internacionales de los que el Estado Mexicano sea parte ubicados en el Distrito Federal, siempre que exista ratificación por parte del Senado del Convenio Constitutivo correspondiente debidamente publicado en el Diario Oficial de la Federación, y que en dicho Convenio se prevea la exención de contribuciones para los países miembros.
+
+Los contribuyentes deberán solicitar a la autoridad fiscal la declaratoria de exención del Impuesto Predial, así como la revalidación correspondiente cada cinco años, acreditando que el inmueble se encuentra en alguno de los supuestos de exención previstos en el presente artículo, de conformidad con los lineamientos que para tal efecto emita la Secretaría.
+
+La autoridad podrá en todo momento ejercer las facultades de inspección, fiscalización y verificación, para confirmar que la situación jurídica del inmueble por la que se otorgó la exención no ha variado, así como que cumple con los requisitos establecidos en los citados lineamientos, en caso contrario, quedará sin efectos la declaratoria de exención respectiva.
+
+### CAPITULO IV. Del Impuesto sobre Loterías, Rifas, Sorteos y Concursos
+
+###### ARTICULO 134.
+
+Están obligadas al pago del Impuesto sobre Espectáculos Públicos establecido en este Capítulo, las personas físicas o morales que obtengan ingresos por los espectáculos públicos que organicen, exploten o patrocinen en el Distrito Federal, por los que no estén obligadas al pago del Impuesto al Valor Agregado.
+
+Se considera espectáculo público todo acto, función, diversión o entretenimiento al que tenga acceso el público y cubra una cuota de entrada, donativo, cooperación o cualquier otro concepto, ya sea directamente o por un tercero.
+
+###### ARTICULO 135.
+
+El Impuesto sobre Espectáculos Públicos no dará lugar a incrementos en los precios señalados por los contribuyentes, ni se expresará por separado en los boletos de entrada.
+
+###### ARTICULO 136.
+
+Los propietarios de los inmuebles en donde se efectúen los espectáculos públicos, serán responsables solidarios del pago del impuesto a que se refiere el artículo 134 de éste Código, cuando los contribuyentes no hayan dado cumplimiento a lo establecido en la reglamentación para el funcionamiento de establecimientos mercantiles y celebración de espectáculos públicos en el Distrito Federal, incluyendo el permiso que las autoridades competentes les otorguen.
+
+###### ARTICULO 137.
+
+El impuesto a que se refiere este Capítulo, se causará en el momento en que se perciba el valor del espectáculo de que se trate.
+
+###### ARTICULO 138.
+
+Para los efectos de este Capítulo, se considerará como valor del espectáculo público, la cantidad que se cobre por el boleto o cuota de entrada, así como las cantidades que se perciban en calidad de donativos, por cuotas de cooperación o por cualquier otro concepto, al que se condicione el acceso al espectáculo, ya sea directamente o por conducto de un tercero, incluyendo las que se paguen por derecho a reservar, apartar o adquirir anticipadamente el boleto de acceso al espectáculo público.
+
+###### ARTICULO 139.
+
+El Impuesto sobre Espectáculos Públicos se calculará aplicando la tasa del 8% al valor de los espectáculos.
+
+###### ARTICULO 140.
+
+Los contribuyentes del impuesto a que se refiere este Capítulo deberán pagarlo en la siguiente forma:
+
+I. Los que en forma habitual y en establecimiento fijo organicen, exploten o patrocinen algún espectáculo público, lo pagarán mediante declaración, en la forma oficial aprobada, que presentarán en las oficinas autorizadas, a más tardar el día diez de cada mes, sobre el valor de los espectáculos del mes de calendario anterior, y
+
+II. Los demás contribuyentes, pagarán el impuesto a su cargo, a más tardar el día miércoles de cada semana, mediante declaración, en la forma oficial aprobada, que presentarán en las oficinas autorizadas, sobre el valor de los espectáculos públicos realizados hasta el día domingo anterior.
+
+###### ARTICULO 141.
+
+Los contribuyentes del Impuesto sobre Espectáculos Públicos tendrán las siguientes obligaciones:
+
+I. Llevar un registro específico de las operaciones relativas a este impuesto;
+
+II. Presentar ante la autoridad fiscal el permiso o autorización otorgado por la autoridad competente para la realización del espectáculo público o el aviso cuando así esté dispuesto en la legislación respectiva, a más tardar tres días antes de la iniciación de sus actividades o de la realización de los espectáculos;
+
+III. Manifestar ante la autoridad fiscal, dentro del mismo plazo a que se refiere la fracción anterior, el aforo, clase, precio de las localidades, las fechas y horarios en que se realizarán los espectáculos, así como la información y documentación que se establezca en la forma oficial.
+
+Asimismo, deberán presentar ante la autoridad fiscal, a través de la forma oficial correspondiente, dentro del mismo plazo a que se refiere la fracción anterior, una muestra de cada uno de los tipos de boletos de acceso, los cuales tendrán que reunir los requisitos a que se refiera la reglamentación para el funcionamiento de establecimientos mercantiles y celebración de espectáculos públicos en el Distrito Federal;
+
+IV. A más tardar un día antes de la celebración del espectáculo público, manifestar los cambios que al programa se hayan realizado con posterioridad al cumplimiento de las obligaciones previstas en las fracciones II y III de este artículo;
+
+V. Presentar ante las oficinas autorizadas las declaraciones a que se refiere el artículo 140 de este Código y pagar el impuesto en los términos de este Capítulo;
+
+VI. Los contribuyentes de este impuesto deberán presentar, con las declaraciones a que se refiere el artículo 140 de este Código, los boletos que no hayan sido vendidos, los cuales deberán tener todas sus secciones y estar adheridos a los talonarios respectivos, ya que de no ser así se considerarán como vendidos.
+
+La Secretaría podrá autorizar en forma previa, sistemas electrónicos alternos de control, para la emisión de boletos de los espectáculos públicos que se realicen en el Distrito Federal, verificando que dichos sistemas cuenten con niveles de seguridad que garanticen su confiabilidad, respecto a los boletos no vendidos, y
+
+VII. Garantizar el interés fiscal cuando se encuentren en la hipótesis prevista en la fracción II del artículo 140 de este Código, siempre y cuando el crédito fiscal exceda de ochocientas veces el salario mínimo general diario vigente en el Distrito Federal.
+
+###### ARTICULO 142.
+
+No se causará el impuesto, respecto del valor de los boletos de cortesía que permitan el acceso al espectáculo en forma gratuita. El valor de los boletos de cortesía en ningún caso excederá del equivalente al 5% del valor del total de los boletos que se hayan declarado por cada función del espectáculo.
+
+En el propio boleto o contraseña se hará constar que el mismo es gratuito o de cortesía.
+
+###### ARTICULO 143.
+
+Las delegaciones deberán entregar a la Tesorería, un reporte mensual de los permisos expedidos para la realización de espectáculos públicos objeto del impuesto a que se refiere este Capítulo, el cual deberá contener los datos del solicitante, el tipo de espectáculo, el aforo estimado y la fecha de realización.
+
+###### ARTICULO 144.
+
+Las delegaciones y la Tesorería, antes del 31 de enero, llevarán a cabo conciliaciones de los permisos expedidos y de los pagos efectuados por concepto del Impuesto sobre Espectáculos Públicos, durante el año inmediato anterior, que permitan implementar los mecanismos necesarios para evitar omisiones o evasiones en el pago de dicho impuesto.
+
+### CAPITULO V. Del Impuesto sobre Nóminas
+
+###### ARTICULO 145.
+
+Están obligadas al pago del Impuesto sobre Loterías, Rifas, Sorteos y Concursos que se celebren en el Distrito Federal, las personas físicas o las morales:
+
+I. Que organicen loterías, rifas, sorteos, juegos con apuestas, apuestas permitidas y concursos de toda clase, aun cuando por dichos eventos no se cobre cantidad alguna que represente el derecho de participar en los mismos;
+
+II. Que obtengan los premios derivados o relacionados con las actividades a que se refiere la fracción anterior, incluyendo como premios las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades, salvo los obtenidos de sorteos de Bonos del Ahorro Nacional y de planes de ahorro administrados por el Patronato del Ahorro Nacional.
+
+Para efectos de este Capítulo, cuando en el mismo se haga mención a los juegos con apuestas, se entenderá que incluye a las apuestas permitidas.
+
+El pago de este impuesto no libera de la obligación de obtener los permisos o autorizaciones correspondientes, y
+
+III. Que organicen las actividades a que se refiere la fracción I de este artículo u obtenga los premios derivados de las mismas, cuando los billetes, boletos o contraseñas, sean distribuidos en el Distrito Federal, independientemente del lugar donde se realice el evento.
+
+###### ARTICULO 146.
+
+No pagarán el impuesto a su cargo en los supuestos a que se refieren las fracciones I y III del artículo anterior, la Federación, el Distrito Federal, los Estados, los Municipios, el Patronato del Ahorro Nacional, la Lotería Nacional para la Asistencia Pública y Pronósticos para la Asistencia Pública. Los Partidos Políticos Nacionales, no estarán obligados al pago de este impuesto en los términos de la Ley de la materia.
+
+###### ARTICULO 147.
+
+Quienes organicen loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, calcularán el impuesto aplicando la tasa del 12% al valor nominal de los billetes, boletos y demás comprobantes que se distribuyan en el Distrito Federal y que permitan participar en dichos eventos.
+
+Por lo que se refiere a las personas que organicen las actividades que se consignan en el presente Capítulo, que emitan billetes, boletos, contraseñas u otros documentos, cualquiera que sea la denominación que se les dé, en los cuales no se exprese el valor de los mismos o sean distribuidos gratuitamente, el impuesto se calculará aplicando la tasa del 12% al valor total de los premios.
+
+###### ARTICULO 148.
+
+El impuesto a que se refiere el artículo anterior no dará lugar a incrementos en los precios señalados por los contribuyentes, ni se expresará por separado en los billetes, boletos y demás comprobantes que permitan participar en loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase.
+
+###### ARTICULO 149.
+
+Quienes obtengan premios derivados de loterías, rifas, sorteos, juegos con apuestas y concursos, calcularán el impuesto aplicando al valor del premio obtenido la tasa del 6%.
+
+###### ARTICULO 150.
+
+El impuesto a que se refiere este Capítulo, se causará en el momento en que se entreguen a los participantes los billetes, boletos y demás comprobantes, que permitan participar en loterías, rifas, sorteos, juegos con apuestas o concursos de toda clase.
+
+Tratándose de las personas que obtengan premios, el impuesto se causará en el momento que los mismos les sean pagados o entregados por los organizadores de dichos eventos.
+
+###### ARTICULO 151.
+
+Para los efectos de este Capítulo, se considera como valor de las loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, el total de las cantidades que se obtengan por la realización de dichas actividades, deduciendo el monto de los premios pagados o entregados.
+
+Tratándose de las personas que obtengan premios, dicho valor será la cantidad correspondiente al monto total del premio obtenido o el valor del bien cuando el mismo no sea en efectivo.
+
+Si los premios ofrecidos en loterías, rifas, sorteos, juegos con apuesta y concursos de toda clase consisten en bienes distintos de dinero, los organizadores de estos eventos deberán señalar el valor de dichos bienes en los anuncios respectivos.
+
+###### ARTICULO 152.
+
+Los contribuyentes a que se refiere el artículo 147 de este Código, tendrán las siguientes obligaciones:
+
+I. Efectuar pagos provisionales mensuales a más tardar el día 20 de cada mes, por los ingresos obtenidos en el mes inmediato anterior;
+
+II. Presentar una declaración, en la forma oficial aprobada, del ejercicio ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio, una vez deducidos los pagos provisionales mensuales en aquellos casos en los que se esté obligado a presentarlos;
+
+III. Llevar contabilidad en registro específico de las operaciones relativas a este impuesto;
+
+IV. Retener el impuesto que corresponda a los premios obtenidos y enterarlo el día 20 de cada mes, mediante declaración provisional;
+
+V. Proporcionar constancia de retención del impuesto a la persona que obtenga el premio;
+
+VI. Proporcionar constancia de ingreso por los premios por los que no se está obligado al pago del impuesto en los términos de este Capítulo;
+
+VII. Presentar ante la autoridad fiscal, la licencia o permiso otorgado por las autoridades competentes, 3 días antes al inicio de sus actividades o a la realización del evento, manifestando en el formato oficial aprobado, el tipo de evento, precio y número de los boletos, billetes o contraseñas, la fecha de realización del mismo, así como la información y documentación que se establezca en la forma, acompañando una muestra de los referidos boletos, billetes o contraseñas.
+
+La Secretaría podrá autorizar en forma previa, sistemas electrónicos de control para la emisión de boletos, billetes o contraseñas de los eventos de cruce de apuestas, o de loterías, rifas, sorteos y concursos que se realicen en el Distrito Federal, verificando que dichos sistemas cuenten con niveles de seguridad que garanticen su confiabilidad, de acuerdo con el procedimiento que la misma determine mediante reglas de carácter general, y
+
+VIII. Manifestar ante la autoridad fiscal competente cualquier modificación de las bases para la celebración de loterías, rifas, sorteos y concursos, dentro de los 15 días siguientes a que esto ocurra.
+
+###### ARTICULO 153.
+
+Las personas físicas y morales que organicen loterías, rifas, sorteos y juegos con apuestas, apuestas permitidas y concursos de toda clase, que no estén obligadas al pago del impuesto a su cargo, conforme a lo dispuesto en el artículo 146 de este Código, tendrán las obligaciones previstas en las fracciones II, III, IV, V, VI, VII y VIII, del artículo anterior.
+
+###### ARTICULO 154.
+
+Quienes celebren loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase en forma accidental por los que deban pagar el impuesto en los términos de este Capítulo, presentarán declaraciones, en la forma oficial aprobada, en las oficinas autorizadas dentro de los quince días siguientes a aquél en que se celebren dichos eventos.
+
+###### ARTICULO 155.
+
+Las personas que celebren loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase en forma accidental en los términos del artículo anterior, deberán retener el impuesto que corresponda a los premios obtenidos y enterarlo en el plazo señalado en el citado artículo en las oficinas autorizadas.
+
+### CAPITULO VI. Del Impuesto sobre Tenencia o Uso de Vehículos
+
+### CAPITULO VII. Del Impuesto por la Prestación de Servicios de Hospedaje
+
+###### ARTICULO 156.
+
+Se encuentran obligadas al pago del impuesto sobre nóminas, las personas físicas y morales que, en el Distrito Federal, realicen erogaciones en dinero o en especie por concepto de remuneración al trabajo personal subordinado, independientemente de la designación que se les otorgue.
+
+Para los efectos de este impuesto, se considerarán erogaciones destinadas a remunerar el trabajo personal subordinado, las siguientes:
+
+I. Sueldos y salarios;
+
+II. Tiempo extraordinario de trabajo;
+
+III. Premios, primas, bonos, estímulos e incentivos;
+
+IV. Compensaciones;
+
+V. Gratificaciones y aguinaldos;
+
+VI. Participación patronal al fondo de ahorros;
+
+VII. Primas de antigüedad;
+
+VIII. Comisiones, y
+
+IX. Pagos realizados a administradores, comisarios o miembros de los consejos directivos de vigilancia o administración de sociedades y asociaciones.
+
+###### ARTICULO 157.
+
+No se causará el Impuesto sobre Nóminas, por las erogaciones que se realicen por concepto de:
+
+I. Instrumentos y materiales necesarios para la ejecución del trabajo;
+
+II. Aportaciones al Sistema de Ahorro para el Retiro;
+
+III. Gastos funerarios;
+
+IV. Jubilaciones, pensiones, haberes de retiro, así como las pensiones vitalicias u otras formas de retiro; las indemnizaciones por riesgos de trabajo de acuerdo a la ley aplicable;
+
+V. Aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y al Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado destinadas al crédito para la vivienda de sus trabajadores;
+
+VI. Cuotas al Instituto Mexicano del Seguro Social y al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+VII. Las aportaciones adicionales que el patrón convenga otorgar a favor de sus trabajadores por concepto de cuotas del seguro de retiro, cesantía en edad avanzada y vejez, del sistema obligatorio y las que fueren aportadas para constituir fondos de algún plan de pensiones, establecido por el patrón o derivado de contratación colectiva que voluntariamente establezca el patrón. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro;
+
+VIII. Gastos de representación y viáticos;
+
+IX. Alimentación, habitación y despensas onerosas;
+
+X. Intereses subsidiados en créditos al personal;
+
+XI. Primas por seguros obligatorios por disposición de Ley, en cuya vigencia de la póliza no se otorguen préstamos a los trabajadores por parte de la aseguradora;
+
+XII. Prestaciones de previsión social regulares y permanentes que se concedan de manera general, de acuerdo con las leyes o contratos de trabajo;
+
+XIII. Las participaciones en las utilidades de la empresa, y
+
+XIV. Personas contratadas con discapacidad.
+
+Para que los conceptos mencionados en este precepto, se excluyan como integrantes de la base del Impuesto sobre Nóminas, deberán estar registrados en la contabilidad del contribuyente, si fuera el caso.
+
+###### ARTICULO 158.
+
+El Impuesto sobre Nóminas se determinará, aplicando la tasa del 2.5% sobre el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal subordinado.
+
+###### ARTICULO 159.
+
+El Impuesto sobre Nóminas se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado y se pagará mediante declaración, en la forma oficial aprobada, que deberá presentarse a más tardar el día diecisiete del mes siguiente.
+
+Los contribuyentes del Impuesto sobre Nóminas, deberán formular declaraciones aun cuando no hubieren realizado erogaciones a que se refiere el párrafo anterior, en el período de que se trate, hasta en tanto no presenten el aviso de baja al padrón o de suspensión temporal de actividades.
+
+### CAPITULO VIII. De las Contribuciones de Mejoras
+
+###### ARTICULO 160.
+
+Están obligadas al pago del impuesto establecido en este Capítulo, las personas físicas y las morales, tenedoras o usuarias de los vehículos automotores, a que se refiere el artículo 5o. fracción V, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, expedida por el Congreso de la Unión.
+
+Para los efectos de este impuesto, se considera que el propietario es tenedor o usuario del vehículo.
+
+El año modelo del vehículo, es el de fabricación o ejercicio automotriz.
+
+Son responsables solidarios del pago del impuesto:
+
+I. Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, hasta por el monto del impuesto que, en su caso, existiera;
+
+II. Quienes reciban en consignación o comisión, para su enajenación, los vehículos a que se refiere este Capítulo, hasta por el monto del impuesto que se hubiese dejado de pagar, y
+
+III. Las personas que en ejercicio de sus funciones, autoricen altas o cambio de placas, sin cerciorarse del pago del impuesto, relativo a los últimos cinco años.
+
+###### ARTICULO 161.
+
+El Impuesto sobre Tenencia o Uso de Vehículos, se determinará como sigue:
+
+I. En caso de vehículos de uso particular hasta de quince pasajeros, la determinación se hará atendiendo el cilindraje del motor, conforme a lo siguiente:
+
+CILINDRAJE CUOTA $
+
+Hasta 4 $251.00
+
+De 6 754.00
+
+De 8 o más 940.00
+
+II. En el caso de vehículos importados al país, de año o modelo posterior a 1964, pagarán una cuota de $1,713.00, los demás pagarán conforme a la cuota señalada en la fracción anterior;
+
+III. En caso de motocicletas, se pagará una cuota de $314.00;
+
+IV. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $783.00, y
+
+V. En el caso de vehículos de carga con placas de carga o de servicio particular, se pagará una cuota de $152.00 por cada tonelada o fracción de capacidad de carga o de arrastre.
+
+El Impuesto sobre Tenencia o Uso de Vehículos se pagará mediante declaración en la forma oficial aprobada, dentro de los primeros cuatro meses de cada año conjuntamente con los derechos por servicio de control vehicular. Cuando se tramite el alta en el Distrito Federal de un vehículo matriculado en otra entidad federativa o por la Federación y ésta se realice en el segundo, tercero o cuarto trimestre del año, se cubrirá el 75%, 50% o 25% de las cuotas señaladas en este artículo, respectivamente.
+
+No pagarán el impuesto, en los términos de este Capítulo, los vehículos del Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes del Distrito Federal o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
+
+Se aplicarán en forma supletoria a las disposiciones de este Capítulo, las contenidas en la Ley del Impuesto sobre Tenencia o Uso de Vehículos.
+
+Pagarán la tarifa de la fracción II, los vehículos importados de las fracciones I, IV y V de este artículo, exceptuando a los vehículos eléctricos o eléctricos con motor de combustión interna (híbridos).
+
+Los vehículos eléctricos o eléctricos que además cuenten con motor de combustión interna (híbridos) tendrán una reducción del 100% en el pago del Impuesto sobre Tenencia o Uso de Vehículos sin perjuicio de las obligaciones que en su caso les correspondan conforme a lo establecido en la Ley del Impuesto sobre Tenencia o Uso de Vehículos.
+
+#### Sección Primera. De los derechos por el suministro de agua
+
+#### Sección Segunda. De los servicios de prevención y control de la contaminación ambiental
+
+#### Sección Tercera. De los servicios de construcción y operación hidráulica
+
+#### Sección Cuarta. De los servicios de expedición de licencias
+
+#### Sección Quinta. Del Registro Público de la Propiedad y de Comercio, y del Archivo General de Notarías
+
+### CAPITULO IX. De los Derechos por la Prestación de Servicios
+
+###### ARTICULO 162.
+
+Están obligados al pago del Impuesto por la Prestación de Servicios de Hospedaje, las personas físicas y las morales que presten servicios de hospedaje en el Distrito Federal.
+
+Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, dentro de los que quedan comprendidos los servicios prestados por hoteles, hostales, moteles, campamentos, paraderos de casas rodantes, tiempo compartido y departamentos amueblados.
+
+No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminarios e internados.
+
+Los contribuyentes realizarán el traslado del impuesto a las personas a quienes se preste servicios de hospedaje.
+
+###### ARTICULO 163.
+
+El impuesto a que se refiere este Capítulo se causará al momento en que se perciban los valores correspondientes a las contraprestaciones por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos, reembolsos, intereses normales o moratorios, penas convencionales y cualquier otro concepto, que deriven de la prestación de dicho servicio.
+
+Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, comida, uso de instalaciones, u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+
+###### ARTICULO 164.
+
+Los contribuyentes calcularán el Impuesto por la Prestación de Servicios de Hospedaje aplicando la tasa del 3% al total del valor de las contraprestaciones que perciban por servicios de hospedaje y deberán pagarlo mediante declaración que presentarán, en la forma oficial aprobada, ante las oficinas autorizadas, a más tardar el día quince del mes siguiente a aquél en que se perciban dichas contraprestaciones.
+
+En el caso de que un contribuyente cuente con dos o más inmuebles para servicios de hospedaje, deberá presentar la declaración a que se refiere el párrafo anterior respecto de cada uno de ellos, a excepción de los inmuebles colindantes por los que se presentará una sola declaración.
+
+Los contribuyentes del Impuesto por la Prestación de Servicios de Hospedaje, deberán formular declaraciones hasta en tanto no presenten el aviso de baja al padrón o de suspensión temporal de actividades.
+
+### CAPITULO X. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
+
+### CAPITULO XI. De las Reducciones
+
+### CAPITULO I. De los Aprovechamientos
+
+###### ARTICULO 165.
+
+Están obligadas al pago de las contribuciones de mejoras, las personas físicas y las morales cuyos inmuebles se beneficien en forma directa por las obras públicas proporcionadas por el Distrito Federal.
+
+Para los efectos de las contribuciones de mejoras se entenderá que quienes obtienen el beneficio son los propietarios de los inmuebles, cuando no haya propietarios se entenderá que el beneficio es para el poseedor.
+
+Cuando en los términos de este Código haya enajenación, el adquirente se considerará propietario para los efectos de las contribuciones de mejoras.
+
+###### ARTICULO 166.
+
+Las contribuciones de mejoras se causarán por las obras nuevas a que se refiere este artículo, ya sean construcciones o bien ampliaciones que representen cuando menos un 10% del total de las construcciones de las obras originales, atendiendo a la ubicación de los inmuebles dentro de las zonas de beneficio que también se señalan, hasta por un 50% del costo total de dichas obras.
+
+CLASIFICACION DE OBRA PUBLICA
+
+(VEASE ARCHIVO ANEXO)
+
+En ningún caso se pagarán contribuciones de mejoras por obras iguales realizadas en un período de cinco años.
+
+###### ARTICULO 167.
+
+Para determinar la zona de beneficio de un inmueble, se atenderá a la ubicación respectiva de la obra de que se trate, atendiendo a la siguiente:
+
+ZONA SERVICIOS EQUIPAMIENTO
+
+BÁSICOS COMPLEMENTARIOS
+
+A FRENTE O FRENTE O HASTA 50 m
+
+COLINDANCIA COLINDANCIA
+
+B HASTA 250 m HASTA 250 m DE 51 m
+
+EXCEPTO EXCEPTO HASTA 250 m
+
+ZONA A ZONA A
+
+C DE 251 m DE 251 m DE 251 m
+
+HASTA 470 m HASTA 470 m HASTA 470 m
+
+D DE 471 m DE 471 m DE 471 m
+
+HASTA 780 m HASTA 780 m HASTA 780 m
+
+E DE 781 m DE 781 m DE 781 m
+
+HASTA 1,260 m HASTA 1,260 m HASTA 1,260 m
+
+Para los efectos de este artículo, se considera que un inmueble se encuentra ubicado en una zona de beneficio determinada, cuando el 20% de la superficie del terreno se comprenda dentro de la misma. No se integrarán a la zona de beneficio los inmuebles separados de la obra pública por barreras topográficas.
+
+###### ARTICULO 168.
+
+Las Contribuciones de Mejoras se causarán al ponerse en servicio las obras.
+
+Las autoridades fiscales determinarán el monto de las Contribuciones de Mejoras atendiendo a la ubicación de los inmuebles en las zonas de beneficio determinadas tomando en cuenta las características topográficas del terreno, y al porcentaje del costo de la obra que como contribución señalan los artículos 166 y 167, en proporción al valor catastral del inmueble, determinado al momento de finiquitar la obra.
+
+Para los efectos de este Capítulo, el costo de la obra pública comprenderá los gastos directos de la misma y los relativos a su financiamiento. No se considerarán los gastos indirectos erogados por el Distrito Federal, con motivo de la administración, supervisión e inspección de la obra.
+
+Del valor que se obtenga conforme al párrafo anterior, se disminuirán las aportaciones que efectúen las dependencias o entidades paraestatales, así como las recuperaciones por enajenación de excedentes de inmuebles adquiridos o adjudicados y que no hubiesen sido utilizados en la ejecución de la obra.
+
+Asimismo, los particulares que aporten voluntariamente cantidades en efectivo, en especie o en mano de obra, para la realización de las obras públicas a que se refiere este Capítulo, tendrán derecho a reducir de la cantidad que se determine a su cargo, el monto de dichas aportaciones.
+
+Para los efectos del párrafo anterior, la autoridad encargada de la realización de la obra, expedirá recibo o constancia que ampare la aportación señalada, quedando facultadas dichas autoridades para determinar, en el caso de aquéllas en especie o mano de obra, su equivalente en numerario.
+
+###### ARTICULO 169.
+
+Las autoridades del Distrito Federal, que realicen la obra, publicarán en la Gaceta Oficial del Distrito Federal, las características fundamentales del proyecto de obra.
+
+En la publicación a que se refiere el párrafo anterior, se incluirá el tipo y costo estimado de la obra, el lugar o lugares en que habrá de realizarse y la zona o zonas de beneficio correspondientes.
+
+La documentación relativa al valor de la obra deberá estar a disposición de los contribuyentes, en las oficinas de la autoridad encargada de su realización, durante un año contado a partir de la determinación del crédito fiscal.
+
+###### ARTICULO 170.
+
+Las Contribuciones de Mejoras se pagarán, en un plazo de seis bimestres, en cantidades iguales y sucesivas.
+
+El plazo a que se refiere el párrafo anterior, empezará a correr a partir del bimestre siguiente a aquél en que la autoridad fiscal notifique el crédito correspondiente, debiendo efectuarse los pagos durante los meses de febrero, abril, junio, agosto, octubre y diciembre, según sea el caso.
+
+Los contribuyentes que efectúen mediante una sola exhibición el pago total del monto de las contribuciones a su cargo, dentro del primer mes del bimestre siguiente a aquél en que se determine la contribución, tendrán derecho a un porcentaje de descuento igual al que se establece para el pago anual del Impuesto Predial en el artículo 131 de este Código. De igual forma tendrán derecho los contribuyentes que paguen su parcialidad en el primer mes del bimestre respectivo, al descuento especificado en el pago del Impuesto Predial para estos casos, en el ejercicio fiscal de que se trate.
+
+###### ARTICULO 171.
+
+Las autoridades fiscales deberán autorizar, conforme a reglas de carácter general, que las Contribuciones de Mejoras se paguen en parcialidades en un plazo hasta de cuarenta y ocho meses, tomando en consideración la situación económica de la mayoría de las personas obligadas a pagar la contribución de que se trate, caso en el que los pagos se harán cuando se efectúen los correspondientes al Impuesto Predial. Las parcialidades causarán un interés, conforme a la tasa que será igual a la de recargos aplicables a los pagos en parcialidades que prevé este Código.
+
+No se pagarán las Contribuciones de Mejoras por los inmuebles a que se refiere el artículo 133 de este Código, sin embargo para efectos de determinar la contribución correspondiente a cada uno de los inmuebles ubicados en las zonas de beneficio, aquellos sí se tomarán en cuenta.
+
+El Jefe de Gobierno, mediante disposiciones de carácter general, podrá reducir total o parcialmente el pago de las Contribuciones de Mejoras, cuando el beneficio de la misma sea para la generalidad de la población y no exista un beneficio significativo para un sector reducido de la población, así como cuando los beneficiarios de las obras públicas sean personas de escasos recursos económicos y se trate de servicios indispensables.
+
+### CAPITULO II. De los Productos
+
+#### Sección Sexta. Del Registro Civil
+
+###### ARTICULO 172.
+
+Están obligados al pago de los Derechos por el Suministro de Agua que provea el Distrito Federal, los usuarios del servicio. El monto de dichos derechos comprenderá las erogaciones necesarias para adquirir, extraer, conducir y distribuir el líquido, así como su descarga a la red de drenaje, y las que se realicen para mantener y operar la infraestructura necesaria para ello, y se pagarán bimestralmente, de acuerdo a las tarifas que a continuación se indican:
+
+I. En caso de que se encuentre instalado o autorizado el medidor por parte del Sistema de Aguas, los derechos señalados se pagarán de acuerdo con lo siguiente:
+
+a). Tratándose de tomas de uso doméstico, que para efectos de este Código son las que se encuentren instaladas en inmuebles de uso habitacional, el pago de los derechos correspondientes se hará conforme al volumen de consumo medido en el bimestre, de acuerdo a la siguiente:
+
+Tarifa Sin Subsidio
+
+Consumo en Litros Tarifa
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 15,000 345.00
+
+MAYOR A 15,000 20,000 345.00 23.00
+
+MAYOR A 20,000 30,000 460.00 23.00
+
+MAYOR A 30,000 40,000 690.00 23.00
+
+MAYOR A 40,000 50,000 920.00 23.00
+
+MAYOR A 50,000 70,000 1,150.00 28.00
+
+MAYOR A 70,000 90,000 1,710.00 30.50
+
+MAYOR A 90,000 120,000 2,320.00 40.50
+
+A esta tarifa se le otorgarán subsidios de acuerdo a la manzana donde se ubique la toma de agua de los usuarios del servicio, que podrá ser popular, bajo, medio y alta; para tal efecto la Asamblea emitirá la relación considerando las regiones y manzanas.
+
+Subsidio para Manzana Tipo Popular
+
+Consumo en Litros Subsidio Subsidio Clasificación Popular
+
+Aplicado a
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 15,000 91.3043%
+
+MAYOR A 15,000 20,000 91.3043% 88.6957%
+
+MAYOR A 20,000 30,000 90.6522% 82.6087%
+
+MAYOR A 30,000 40,000 87.9710% 66.0870%
+
+MAYOR A 40,000 50,000 82.5000% 66.0435%
+
+MAYOR A 50,000 70,000 79.2087% 25.3571%
+
+MAYOR A 70,000 90,000 61.5731% 24.5902%
+
+MAYOR A 90,000 120,000 51.8491% 1.2346%
+
+Lo cual se traduce en lo siguiente:
+
+Consumo en Litros Tarifa Clasificación Popular Aplicado a
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 15,000 $ 30.00 $0.00
+
+MAYOR A 15,000 20,000 30.00 2.60
+
+MAYOR A 20,000 30,000 43.00 4.00
+
+MAYOR A 30,000 40,000 83.00 7.80
+
+MAYOR A 40,000 50,000 161.00 7.81
+
+MAYOR A 50,000 70,000 239.10 20.90
+
+MAYOR A 70,000 90,000 657.10 23.00
+
+MAYOR A 90,000 120,000 1,117.10 40.00
+
+Subsidio para Manzana Tipo Baja
+
+Consumo en Litros Subsidio Clasificación Baja
+
+Aplicado a
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 15,000 90.1449%
+
+MAYOR A 15,000 20,000 90.1449% 74.7826%
+
+MAYOR A 20,000 30,000 86.3043% 69.5652%
+
+MAYOR A 30,000 40,000 80.7246% 69.5217%
+
+MAYOR A 40,000 50,000 77.9239% 38.3043%
+
+MAYOR A 50,000 70,000 70.0000% 25.0000%
+
+MAYOR A 70,000 90,000 55.2632% 24.5902%
+
+MAYOR A 90,000 120,000 47.1983% 1.2346%
+
+Lo cual se traduce en lo siguiente:
+
+Consumo en Litros Tarifa Clasificación Baja
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 15,000 $ 34.00 $0.00
+
+MAYOR A 15,000 20,000 34.00 5.80
+
+MAYOR A 20,000 30,000 63.00 7.00
+
+MAYOR A 30,000 40,000 133.00 7.01
+
+MAYOR A 40,000 50,000 203.10 14.19
+
+MAYOR A 50,000 70,000 345.00 21.00
+
+MAYOR A 70,000 90,000 765.00 23.00
+
+MAYOR A 90,000 120,000 1,225.00 40.00
+
+Subsidio para Manzana Tipo Media
+
+Consumo en Litros Subsidio Clasificación Media
+
+Aplicado a
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 15,000 67.3913%
+
+MAYOR A 15,000 20,000 67.3913% 36.9565%
+
+MAYOR A 20,000 30,000 59.7826% 36.9130%
+
+MAYOR A 30,000 40,000 52.1594% 36.8696%
+
+MAYOR A 40,000 50,000 48.3370% 36.8261%
+
+MAYOR A 50,000 70,000 46.0348% 18.8571%
+
+MAYOR A 70,000 90,000 37.1345% 1.6393%
+
+MAYOR A 90,000 120,000 27.8017% 1.2346%
+
+Lo cual se traduce en lo siguiente:
+
+Consumo en Litros Tarifa Clasificación Media
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 15,000 $ 112.50 $0.00
+
+MAYOR A 15,000 20,000 112.50 14.50
+
+MAYOR A 20,000 30,000 185.00 14.51
+
+MAYOR A 30,000 40,000 330.10 14.52
+
+MAYOR A 40,000 50,000 475.30 14.53
+
+MAYOR A 50,000 70,000 620.60 22.72
+
+MAYOR A 70,000 90,000 1,075.00 30.00
+
+MAYOR A 90,000 120,000 1,675.00 40.00
+
+Subsidio para Manzana Tipo Alto
+
+Consumo en Litros Subsidio Clasificación Alta
+
+Aplicado a
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 15,000 60.8696%
+
+MAYOR A 15,000 20,000 60.8696% 33.9130%
+
+MAYOR A 20,000 30,000 54.1304% 33.8696%
+
+MAYOR A 30,000 40,000 47.3768% 33.8261%
+
+MAYOR A 40,000 50,000 43.9891% 33.7826%
+
+MAYOR A 50,000 70,000 41.9478% 17.0714%
+
+MAYOR A 70,000 90,000 33.8012% 1.6393%
+
+MAYOR A 90,000 120,000 25.3448% 1.2346%
+
+Lo cual se traduce en lo siguiente:
+
+Consumo en Litros Tarifa Clasificación Alta
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 15,000 $135.00 $0.00
+
+MAYOR A 15,000 20,000 135.00 15.20
+
+MAYOR A 20,000 30,000 211.00 15.21
+
+MAYOR A 30,000 40,000 363.10 15.22
+
+MAYOR A 40,000 50,000 515.30 15.23
+
+MAYOR A 50,000 70,000 667.60 23.22
+
+MAYOR A 70,000 90,000 1,132.00 30.00
+
+MAYOR A 90,000 120,000 1,732.00 40.00
+
+Las tarifas se aplicarán, ubicando el rango de consumo, de acuerdo con la lectura del medidor, donde se pagará la cuota mínima correspondiente más el producto del excedente sobre el límite inferior por la cuota adicional.
+
+Para los consumos mayores a 120,000 litros se cobrarán por cada 1,000 litros adicionales 63 pesos.
+
+b). Las tomas de agua instaladas en inmuebles distintos a los señalados en el inciso anterior, se considerarán como de uso no doméstico para efectos de este Código y el pago de los derechos correspondientes, se hará conforme al volumen de consumo medido en el bimestre, de acuerdo a la siguiente:
+
+Tarifa Sin Subsidio
+
+Consumo en Litros Tarifa
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 10,000 $345.00 $0.00
+
+MAYOR A 10,000 20,000 345.00 23.00
+
+MAYOR A 20,000 30,000 575.00 35.00
+
+MAYOR A 30,000 50,000 925.00 35.00
+
+MAYOR A 50,000 70,000 1,625.00 35.00
+
+MAYOR A 70,000 90,000 2,325.00 37.00
+
+MAYOR A 90,000 120,000 3,065.00 41.00
+
+A esta tarifa se le otorgara el siguiente subsidio:
+
+Consumo en Litros Subsidio Aplicado a
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 10,000 60.8696%
+
+MAYOR A 10,000 20,000 60.8696% 39.1304%
+
+MAYOR A 20,000 30,000 52.1739% 27.2000%
+
+MAYOR A 30,000 50,000 42.7243% 17.1429%
+
+MAYOR A 50,000 70,000 31.7046% 5.8571%
+
+MAYOR A 70,000 90,000 23.9226% 5.4054%
+
+MAYOR A 90,000 120,000 19.4519% 2.4390%
+
+Lo cual se traduce en lo siguiente:
+
+Consumo en Litros Tarifa
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 10,000 $135.00 $0.00
+
+MAYOR A 10,000 20,000 135.00 14.00
+
+MAYOR A 20,000 30,000 275.00 25.48
+
+MAYOR A 30,000 50,000 529.80 29.00
+
+MAYOR A 50,000 70,000 1,109.80 32.95
+
+MAYOR A 70,000 90,000 1,768.80 35.00
+
+MAYOR A 90,000 120,000 2,468.80 40.00
+
+Para los consumos mayores a 120,000 litros se cobrarán por cada 1,000 litros adicionales 63 pesos.
+
+Las autoridades fiscales determinarán el consumo de agua por medio de la lectura de los aparatos medidores, con base al promedio del consumo diario resultante de las dos lecturas más recientes con antigüedad no mayor de un año.
+
+II. En el caso de que no haya medidor instalado, el medidor esté descompuesto o exista la imposibilidad de efectuar la lectura del consumo, los derechos señalados se pagarán de acuerdo a lo siguiente:
+
+a). Tratándose de tomas de uso doméstico, se pagará el derecho considerando el consumo promedio que corresponda a la colonia catastral en que se encuentre el inmueble en que esté instalada la toma, siempre que en dicha colonia catastral el número de tomas con medidor sea mayor o igual al 70% del total de tomas existentes en esa colonia. Cuando el medidor esté descompuesto se pagará el derecho considerando el consumo histórico del usuario hasta por un año.
+
+En los casos en que no se cumplan ninguna de las condiciones anteriores, se aplicará la cuota fija de $2,500.00.
+
+Para tal efecto, se considerará el subsidio y la ubicación del inmueble donde se tenga instalada la toma, con base en el tipo de colonia catastral a que refiere este Código.
+
+Tipo de colonia nominal en que se Subsidio
+
+ubique el inmueble y esté instalada
+
+una toma de agua.
+
+0 97.4000%
+
+1 96.4400%
+
+2, 3 y 8 95.2400%
+
+4, 5 y 7 77.8800%
+
+6 55.6000%
+
+Los inmuebles ubicados en las colonias
+
+tipo 6 y 7 que tengan un valor catastral
+
+que corresponda al rango marcado con
+
+la literal "M" a la "P" de la tarifa establecida
+
+en la fracción I del artículo 130 de
+
+este Código. 1.2480%
+
+Lo cual se traduce en lo siguiente:
+
+Tipo de colonia nominal en que se Cuota Fija Bimestral
+
+ubique el inmueble y esté instalada expresada en pesos
+
+una toma de agua.
+
+0 $65.00
+
+1 $89.00
+
+2, 3 y 8 $119.00
+
+4, 5 y 7 $553.00
+
+6 $1,110.00
+
+Los inmuebles ubicados en las colonias
+
+tipo 6 y 7 que tengan un valor catastral
+
+que corresponda al rango marcado
+
+con la literal "M" a la "P" de la tarifa
+
+establecida en la fracción I del artículo
+
+130 de este Código. $2,468.80
+
+El Sistema de Aguas publicará en la Gaceta Oficial del Distrito Federal, las listas de las colonias catastrales que vayan contando con un 70% o más de tomas con medidor instalado.
+
+b). En el caso de tomas de agua consideradas para efectos de este Código como de uso no doméstico, se pagará una cuota fija bimestral, considerando el diámetro de la toma, conforme a la siguiente:
+
+Diámetro de la toma en Cuota bimestral
+
+milímetros expresada en pesos
+
+13 $1,816.00
+
+MAS DE 13 A 15 $9,436.50
+
+MAS DE 15 A 19 $15,439.50
+
+MAS DE 19 A 26 $30,019.50
+
+MAS DE 26 A 32 $46,318.50
+
+MAS DE 32 A 39 $67,762.50
+
+MAS DE 39 A 51 $120,085.50
+
+MAS DE 51 A 64 $180,124.50
+
+MAS DE 64 A 76 $257,322.00
+
+MAS DE 76 A 102 $523,219.50
+
+MAS DE 102 A 150 $2,007,112.50
+
+MAS DE 150 A 200 $3,139,326.00
+
+MAS DE 200 A 250 $3,830,910.00
+
+MAS DE 250 A 300 $4,520,286.00
+
+MAS DE 300 EN ADELANTE $4,794,768.00
+
+La autoridad fiscal, a solicitud del contribuyente, recibirá los pagos bimestrales de los derechos a que se refiere esta fracción, con el carácter de provisionales, debiendo efectuarse los ajustes correspondientes cuando el aparato medidor se instale, repare o posibilite su lectura, a partir de la fecha en que se hubiere solicitado su instalación, reparación o lectura, ya sea para que los contribuyentes cubran la diferencia que resulte a su cargo o bien para que puedan acreditar contra pagos posteriores la cantidad que pagaron de más.
+
+III. A los usuarios del servicio de agua potable con uso doméstico y no doméstico simultáneamente, que cuenten con medidor, el pago de los derechos correspondientes se hará conforme al volumen de consumo medido en el bimestre, de acuerdo a la siguiente:
+
+Tarifa Sin Subsidio
+
+Consumo en Litros Tarifa
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 10,000 $345.00 $0.00
+
+MAYOR A 10,000 20,000 345.00 23.00
+
+MAYOR A 20,000 30,000 575.00 35.00
+
+MAYOR A 30,000 50,000 925.00 35.00
+
+MAYOR A 50,000 70,000 1,625.00 35.00
+
+MAYOR A 70,000 90,000 2,325.00 37.00
+
+MAYOR A 90,000 120,000 3,065.00 41.00
+
+A esta tarifa se le otorgara el siguiente subsidio:
+
+Consumo en Litros Subsidio Aplicado a
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 10,000 78.2609%
+
+MAYOR A 10,000 20,000 78.2609% 67.3913%
+
+MAYOR A 20,000 30,000 73.9130% 63.2857%
+
+MAYOR A 30,000 50,000 69.8919% 57.1429%
+
+MAYOR A 50,000 70,000 64.4000% 14.2857%
+
+MAYOR A 70,000 90,000 49.3118% 5.4054%
+
+MAYOR A 90,000 120,000 38.7113% 2.4390%
+
+Lo cual se traduce en lo siguiente:
+
+Consumo en Litros Tarifa
+
+Límite Inferior Límite Cuota Cuota Adicional
+
+Superior Mínima por cada 1,000
+
+litros excedentes
+
+al límite inferior
+
+0 10,000 $75.00 $0.00
+
+MAYOR A 10,000 20,000 75.00 7.50
+
+MAYOR A 20,000 30,000 150.00 12.85
+
+MAYOR A 30,000 50,000 278.50 15.00
+
+MAYOR A 50,000 70,000 578.50 30.00
+
+MAYOR A 70,000 90,000 1,178.50 35.00
+
+MAYOR A 90,000 120,000 1,878.50 40.00
+
+Para los consumos mayores a 120,000 litros se cobrarán por cada 1,000 litros adicionales 63 pesos.
+
+IV. Cuando por razón que el medidor haya transcurrido su vida útil y no se pueda obtener una lectura confiable del mismo se cobrará para el caso doméstico el promedio de consumo de la colonia catastral en donde se encuentre el predio a la tarifa aplicable.
+
+###### ARTICULO 173.
+
+Las personas físicas y las morales que usen o aprovechen agua residual o residual tratada que suministre el Distrito Federal en el caso de contar con excedentes, así como agua potable proporcionada por el mismo Distrito Federal, a través de los medios que en este artículo se indican, pagarán derechos conforme a las siguientes cuotas:
+
+I. Tratándose de agua potable:
+
+a). De tomas de válvula de tipo cuello de garza $42.00 por m3
+
+b). Cuando se surta en camiones cisternas para su comercialización incluyendo transporte en el Distrito Federal $76.50 por m3
+
+II. Agua residual $3.00 por m3
+
+III. Agua residual tratada a nivel secundario:
+
+a). De tomas de válvula del tipo cuello de garza, el 40% de la cuota prevista en el inciso a) de la fracción I de este artículo;
+
+b). Cuando exista toma en el inmueble, el 40% de la cuota correspondiente en la tarifa prevista en el inciso b) de la fracción I del artículo 172 de este Código, y
+
+c). Cuando se surta en camiones cisternas para su comercialización, incluyendo el transporte en el Distrito Federal, el 50% de la cuota prevista en el inciso b) de la fracción I de este artículo.
+
+IV. Agua residual tratada a nivel terciario:
+
+a). De tomas de válvula del tipo cuello de garza, el 60% de la cuota prevista en el inciso a) de la fracción I de este artículo.
+
+b). Cuando exista toma en el inmueble, el 60% de la cuota prevista en la fracción I del artículo 172 de este Código, según corresponda el uso.
+
+c). Cuando se surtan en camiones cisternas para su comercialización, incluyendo el transporte en el Distrito Federal, el 70% de la cuota prevista en el inciso b) de la fracción I de este artículo.
+
+En el caso de tomas en el inmueble, el pago de los derechos se realizará por periodos bimestrales, dentro de los treinta días naturales siguientes al de la emisión de la boleta correspondiente, ante las oficinas autorizadas; en los demás casos, los derechos deberán pagarse antes de la prestación del servicio respectivo.
+
+Cuando se trate de predios subdivididos de manera informal, podrá asignarse una toma a cada subdivisión con su respectivo número de cuenta y el cobro será independiente a cada una de ellas, siempre y cuando la primer toma del predio se encuentre al corriente en sus pagos al momento del trámite.
+
+###### ARTICULO 174.
+
+La determinación de los derechos por el suministro de agua potable, residual y residual tratada, se realizará por periodos bimestrales y el pago se deberá efectuar dentro del mes siguiente al bimestre que se declara en las fechas límites que al efecto establezca el Sistema de Aguas.
+
+I. Tratándose de las tomas a que se refieren los artículos 172 y 173 de este Código, la determinación de los derechos a pagar será efectuada por la autoridad fiscal del Distrito Federal, de acuerdo a las disposiciones establecidas en esta Sección y se hará constar en las boletas que para tal efecto se emiten. Dichas boletas serán enviadas mediante correo ordinario u otro medio idóneo al domicilio en que se encuentre ubicada la toma o al que señalen los contribuyentes. Los contribuyentes que no reciban las boletas a que se refiere esta fracción, deberán dar aviso oportuno y por escrito en las oficinas del Sistema de Aguas, debiendo solicitarlas en el acto, ya que la falta de recepción de las mismas no los libera de la obligación de efectuar el pago dentro del plazo establecido.
+
+Como excepción a lo previsto en el párrafo anterior, los contribuyentes podrán optar por determinar el consumo de agua, declararlo y pagar el monto del derecho que corresponda a cada toma general o individual, para lo cual durante los primeros tres meses del año deberán solicitarlo y registrarse ante la oficina del Sistema de Aguas que corresponda a su domicilio, y declarar y pagar la contribución en las formas oficiales aprobadas.
+
+Para determinar el derecho que corresponda por cada bimestre, los propios contribuyentes efectuarán la lectura de los medidores de las tomas de agua el mismo día cada bimestre de acuerdo a lo establecido en el artículo 172 de este Código, anotándolo en el formato que al efecto se establezca, mismo que se presentará con el de autodeterminación de derechos al efectuar el pago ante las oficinas del Sistema de Aguas de la Ciudad de México.
+
+Cuando los contribuyentes que hayan optado por determinar sus consumos, omitan la determinación y declaración del derecho correspondiente a su consumo, o bien, declaren consumos menores a los determinados por la autoridad competente, ésta en el ejercicio de sus facultades de comprobación, identificará, determinará y liquidará los derechos omitidos con los recargos y sanciones que correspondan.
+
+II. El Sistema de Aguas podrá establecer la determinación de los derechos por suministro de agua por anticipado, siempre y cuando no exista servicio medido en la colonia catastral y no rebase el año fiscal del ejercicio, emitiéndose para tal efecto una boleta que incluya los diferentes periodos bimestrales. Se podrá realizar el pago total o bimestral dentro de los 30 días naturales siguientes al término de cada bimestre.
+
+III. La autoridad fiscal asignará una cuenta:
+
+a). Para cada una de las tomas generales en el predio;
+
+b). Para cada una de las ramificaciones internas correspondientes a cada apartamento, vivienda o local en régimen en condominio, y
+
+c). Para cada una de las ramificaciones internas correspondientes a cada apartamento, vivienda o local en regímenes distintos al condominio, a solicitud de todos los usuarios o del propietario del inmueble, previo dictamen técnico de la autoridad.
+
+IV. Cuando exista medidor, la determinación de los consumos realizados por los usuarios será a partir de los registros de los consumos de la o las tomas generales y, en su caso, de las ramificaciones internas.
+
+Tratándose de inmuebles que cuenten con más de una toma y número de cuenta, o cuando dos o más tomas alimenten el mismo sistema hidráulico o a inmuebles colindantes de un mismo usuario, se aplicará la tarifa correspondiente a la suma de los consumos de dichas tomas. Los contribuyentes al determinar, declarar y pagar sus consumos de agua, o la autoridad al emitir las boletas, aplicarán el procedimiento anterior y deberán especificar las tomas cuyos consumos se sumaron para la determinación.
+
+V. En los inmuebles en régimen en condominio que tengan varios apartamentos, viviendas y locales y en los de régimen distinto al de condominio con cuentas individuales asignadas:
+
+a). Cuando exista medidor individual para cada apartamento, vivienda o local y cuenten con medidor o medidores generales, se emitirá una boleta para cada uno de los medidores individuales, aplicando la tarifa que corresponda, según el uso que proceda. Asimismo, el remanente que resulte de determinar el consumo de la toma o tomas generales que corresponde al consumo de las áreas comunes deberá prorratearse entre los usuarios, cantidad que deberá sumarse al consumo de cada apartamento, vivienda o local y a cada suma individual se le aplicará una sola vez la tarifa que corresponda, según el uso que proceda;
+
+b). Cuando no existan medidores individuales y se cuente con medidor en toma general o tomas generales, el consumo será dividido entre el número de departamentos, viviendas o locales que se encuentren habitados u ocupados, al volumen de consumo así determinado se le aplicará la tarifa que corresponda según el uso que proceda y se emitirá una boleta por cada apartamento, vivienda o local, sin que lo anterior se considere como una excepción a lo dispuesto por la fracción I del artículo 176 de este Código;
+
+c). Cuando cuenten con medidor en la toma o tomas generales y la instalación hidráulica de por lo menos una unidad no permita la instalación de medidor individual en cada apartamento, vivienda o local, el consumo de sus unidades medidas será restado del consumo total de la toma o tomas generales y la diferencia será prorrateada entre las unidades sin medidor, emitiéndose una boleta por cada unidad con el consumo así determinado y de acuerdo al uso que corresponda, y
+
+d). En los inmuebles que tengan varios apartamentos, viviendas o locales, o unidades que cuenten con medidores individuales y que no cuenten con medidor en la toma o tomas generales, el consumo o consumos por las áreas comunes que no sean registrados se pagarán a prorrata entre los usuarios aplicándose la tarifa del uso que proceda prevista en el artículo 172, fracción II de este Código.
+
+VI. En los inmuebles distintos al régimen en condominio que tengan varios apartamentos, viviendas y locales:
+
+a). Cuando exista medidor individual en cada apartamento, vivienda o local, y cuenten con medidor o medidores generales, se aplicará lo dispuesto en el inciso a), fracción V que antecede;
+
+b). Cuando no existan medidores individuales y cuenten con medidor en la toma o tomas generales, el consumo que corresponda a la toma o tomas generales será dividido entre el número de apartamentos, viviendas o locales, que sean servidos por la toma o tomas de que se trata y al volumen de consumo así determinado se le aplicará la tarifa que corresponda según el uso que proceda, emitiéndose una sola boleta, salvo la asignación posterior de cuentas individuales, sin que lo anterior se considere como una excepción a lo dispuesto por la fracción I del artículo 176 de este Código, y
+
+c). Cuando cuenten con medidor en la toma o tomas generales y la instalación hidráulica de por lo menos una unidad no permita la instalación de medidor individual en cada apartamento, vivienda o local, el consumo de sus unidades medidas será restado del consumo total de la toma o tomas generales y la diferencia se dividirá entre las unidades sin medidor; al volumen de consumo así determinado, se le aplicará la tarifa que corresponda según el uso que proceda y se emitirá una sola boleta por la diferencia de consumo, salvo la asignación posterior de cuentas individuales.
+
+VII. En los inmuebles que tengan varios apartamentos, viviendas, locales o unidades en condominio, que cuenten con medidores individuales y que no cuenten con medidor en la toma o tomas generales, el consumo o los consumos por las áreas comunes que no sean registrados se pagarán a prorrata entre los usuarios aplicándose la tarifa del uso que proceda prevista en el artículo 172, fracción II, de este Código.
+
+Cuando se trate de predios subdivididos de manera informal, podrá asignarse una toma a cada subdivisión con su respectivo número de cuenta y el cobro será independiente a cada una de ellas, siempre y cuando la primera toma del predio se encuentre al corriente en sus pagos al momento del trámite.
+
+###### ARTICULO 175.
+
+Cuando existan descomposturas o situaciones que impidan la lectura de los medidores, los contribuyentes deberán dar aviso de estos hechos al Sistema de Aguas durante el bimestre en que ocurran.
+
+En el caso de que la descompostura no sea por el uso normal de los medidores, los contribuyentes deberán cubrir el costo de la reparación o reposición de los medidores, sus piezas internas y los elementos que conforman el cuadro en el que está instalado el medidor, de conformidad con los presupuestos que al efecto elabore el Sistema de Aguas.
+
+Dependiendo de los resultados obtenidos del proceso de toma de lectura, el Sistema de Aguas, tendrá la facultad para determinar los casos en los que la reparación al medidor y a sus aditamentos sea al momento de identificar los daños, integrando como parte del servicio proporcionado al usuario el reporte de anomalías, donde se especifica el lugar y el tiempo máximo para cubrir el costo de la reparación o reposición de los medidores y sus aditamentos.
+
+En el caso de omisión del aviso, la autoridad procederá de acuerdo a lo dispuesto en el último párrafo de la fracción II del artículo 172 de este Código, según el caso.
+
+En el caso de que la descompostura o defecto del medidor genere error en la emisión de boletas, y ésto sea imputable al Sistema de Aguas, siempre que medie aviso por parte del contribuyente, el monto a pagar será el equivalente al consumo promedio de la toma durante el último año antes del error, hasta en tanto sea reparado o sustituido.
+
+###### ARTICULO 176.
+
+Los contribuyentes de los servicios de agua y/o descarga a la red de drenaje tienen las siguientes obligaciones:
+
+I. Solicitar al Sistema de Aguas, el registro en el padrón de usuarios de agua y la instalación de aparatos medidores, así como el registro de conexiones a la red de drenaje o a otros puntos de descarga.
+
+En los edificios y apartamentos, viviendas o locales, la obligación de solicitar la instalación del aparato medidor se refiere tanto a la toma o tomas generales como a las ramificaciones de apartamentos, viviendas o locales que se surtan de ellas, siendo a su cargo el costo de las adaptaciones, tuberías y accesorios necesarios para regularizar el cuadro de cada toma individual, siempre y cuando proceda por contar con las instalaciones correspondientes así como el costo de la instalación y el derecho por el uso de medidores conforme a lo dispuesto por el artículo 181 de este Código, y podrán ser instalados previo dictamen de la autoridad.
+
+En caso de que en el mismo predio el agua suministrada tenga usos doméstico y no doméstico, abastecida por una misma toma, los usuarios solicitarán la instalación de medidores individuales para cada uso. El costo de las instalaciones, incluyendo el derecho por el uso de los medidores, quedará a cargo de los usuarios. En tanto no se instalen los medidores individuales, los usuarios están obligados a pagar el derecho conforme a la tarifa correspondiente, según el uso que proceda;
+
+II. Conservar y resguardar los aparatos medidores y sus aditamentos en condiciones adecuadas de operación y, en caso de pérdida de su posesión o destrucción, deberán solicitar al Sistema de Aguas, la instalación de un nuevo medidor, previo pago de los derechos establecidos en el artículo 181, Apartado A, fracción III de éste Código;
+
+III. Dar aviso a las autoridades competentes de las descomposturas y fallas de su medidor y sus aditamentos o de sus situaciones que impidan su lectura, dentro del bimestre en que ello ocurra;
+
+IV. Permitir el acceso a las personas autorizadas, así como al personal habilitado por la autoridad competente, para la instalación, renovación, verificación o inspección de tomas y medidores; para la adecuación y corrección de tomas; para efectuar y verificar la lectura del aparato medidor;
+
+V. Comunicar al Sistema de Aguas el cambio de uso de las tomas de agua, dentro del bimestre en que este hecho ocurra.
+
+Los contribuyentes que usen o aprovechen agua en tomas instaladas en inmuebles de uso habitacional, que habiéndose utilizado para fines distintos vuelvan al de habitacional, en tanto no cumplan con la obligación de comunicar el cambio de uso, seguirán declarando conforme al uso anterior; cuando se presenten consumos excesivos, deberá el contribuyente informar por escrito al Sistema de Aguas, en un lapso que no deberá ser mayor al del bimestre siguiente al en que se detectó el citado cobro;
+
+VI. El solicitante de una licencia de construcción o registro de manifestación de construcción, que cuente con toma de agua y no cuente con medidor, previamente a la obtención de la licencia o registro respectivo, deberá cubrir el costo de las adaptaciones, tuberías y accesorios necesarios para regularizar el cuadro de cada toma individual, así como el costo de la instalación del medidor, conforme a lo dispuesto por el artículo 181 de este Código, sin embargo el Gobierno del Distrito Federal conservará la propiedad de los medidores;
+
+VII. Presentar los avisos que modifiquen los datos registrados en los padrones del Distrito Federal en un plazo que no excederá de 15 días a partir de la fecha en que se dé la modificación;
+
+VIII. Actualizar el nombre o razón social en los registros del padrón de usuarios de agua, dentro del bimestre en que ocurra dicho cambio;
+
+IX. Reportar anomalías de las lecturas, consumos, facturación de éstos, dentro del bimestre siguiente en que ello ocurra, dicha reclamación deberá ser por escrito y presentarse ante las oficinas del Sistema de Aguas que corresponda a su domicilio;
+
+X. Tratándose de tomas de agua de uso no doméstico, o doméstico en que se haya optado por la determinación del consumo por parte del mismo contribuyente, deberán llevar un registro cronológico en la forma oficial aprobada por la autoridad fiscal, en donde consten las mediciones del consumo de agua que realicen el primer día de cada bimestre para determinar el monto del derecho a su cargo;
+
+XI. Pagar oportunamente los derechos derivados de los servicios por suministro de agua y/o de descarga a la red de drenaje, y
+
+XII. Renovar el aparato medidor cuando éste haya superado los siete años de servicio, o antes si lo solicita el usuario al Sistema de Aguas.
+
+###### ARTICULO 177.
+
+En caso de que los contribuyentes no paguen los derechos a su cargo en dos o más periodos consecutivos o alternados, o bien, cuando reincidan en declarar consumos menores a los determinados por la autoridad, el Sistema de Aguas, analizando el caso en concreto, determinará si aplica la suspensión o restricción de los servicios hidráulicos, sin perjuicio de las demás sanciones a que hace referencia la Ley de Aguas del Distrito Federal.
+
+Para el caso de que tengan ambos usos doméstico y no doméstico, el Sistema de Aguas determinará la suspensión del suministro.
+
+Igualmente, queda obligado dicho órgano para suspender el servicio, cuando se comprueben modificaciones o manipulaciones a los ramales de las tuberías de distribución; se comercialice el agua suministrada por el Distrito Federal a través de tomas conectadas a la red pública, sin autorización; se empleen mecanismos para succionar agua de las tuberías de distribución o bien, se destruyan, alteren o inutilicen los aparatos medidores. Cuando se comprueben tomas o derivaciones no autorizadas o con uso distinto al manifestado, previo requerimiento al contribuyente para que acredite la legal instalación y funcionamiento de la toma, se procederá a la supresión de la misma.
+
+Asimismo, el Sistema de Aguas podrá suspender los servicios hidráulicos a inmuebles de uso no doméstico o bien suspenderlo o restringirlos a la cantidad necesaria para satisfacer los requerimientos básicos, tratándose de inmuebles de uso doméstico, en los casos en que la autoridad haya determinado importes adicionales a pagar por parte de los contribuyentes y que los mismos omitan el pago en los plazos indicados, esto sin perjuicio de las sanciones a que hace referencia la Ley de Aguas del Distrito Federal.
+
+Tratándose de inmuebles que cuenten con servicio de agua potable con uso doméstico y no doméstico simultáneamente, la suspensión o restricción se aplicará de conformidad con lo dispuesto en la Ley de Aguas del Distrito Federal.
+
+Cuando se suspenda o restrinja alguno de los servicios hidráulicos, para su restablecimiento, previamente se cubrirán los derechos y accesorios legales que se hubiesen generado, por la omisión del pago, así como aquellos que correspondan a su reinstalación, conforme a lo dispuesto en la fracción V del artículo 181, según el caso.
+
+El Sistema de Aguas, restablecerá los servicios hidráulicos una vez cubiertos los derechos de agua y accesorios legales que se hubiesen generado por la omisión del pago, así como los costos de reinstalación de los servicios, en los casos en que el usuario opte por realizar el pago en parcialidades, la reinstalación de los servicios se hará una vez cubierta la primera parcialidad a que se refiera la autorización respectiva.
+
+No obstante lo anterior, la autoridad quedará facultada para suspender o restringir nuevamente el servicio, a partir del día siguiente a aquel en que deba hacerse el pago de una parcialidad, y el usuario entere un importe menor a ésta, u omita el pago de la misma.
+
+###### ARTICULO 178.
+
+El 1% de los Derechos por la Prestación de servicios por el suministro de Agua establecidos en la Ley de Ingresos del Distrito Federal serán destinados a investigación y desarrollo de tecnología para la gestión integral del agua de conformidad con las reglas generales acordadas por el Sistema de Aguas de la Ciudad de México y el Instituto de Ciencia y Tecnología del Distrito Federal.
+
+#### Sección Séptima. De los derechos por servicios de control vehicular
+
+###### ARTICULO 179.
+
+Por los servicios de evaluación de impacto ambiental, dictamen técnico y fuentes móviles, que efectúe la autoridad competente en los términos de la legislación correspondiente, se pagarán las siguientes cuotas:
+
+I. Por la verificación del informe preventivo de impacto ambiental $3,828.00
+
+II. Por la evaluación de la manifestación de impacto ambiental:
+
+a). En su modalidad general $4,459.00
+
+b). En su modalidad específica $6,791.00
+
+III. Por la evaluación del estudio de riesgo ambiental $12,209.00
+
+IV. Por el dictamen técnico sobre daños ambientales o lesiones, daños y perjuicios ocasionados a personas, por infracciones a la Ley o al Reglamento de la materia $6,761.00
+
+V. Por la certificación, acreditación y autorización a personas físicas y/o morales para la comercialización y/o instalación de sistemas, equipos y dispositivos de control de emisiones $4,329.00
+
+a). Para el caso de las renovaciones anuales de certificación, acreditación y autorización serán de $1,081.00
+
+###### ARTICULO 180.
+
+Por el canje o reposición del certificado, así como de la calcomanía de verificación vehicular, relativos a la emisión de contaminantes se pagarán derechos por: $72.00
+
+#### Sección Octava. De los servicios de alineamiento y señalamiento de número oficial y de expedición de constancias de zonificación y de uso de inmuebles
+
+###### ARTICULO 181.
+
+Por la instalación, reconstrucción, reducción o cambio de lugar de tomas para suministrar agua potable o agua residual tratada y su conexión a las redes de distribución del servicio público, así como por la instalación de derivaciones o ramales o de albañales para su conexión a las redes de desalojo, se pagará el derecho respectivo conforme a los Apartados A y B de este artículo.
+
+Previa la autorización de los servicios señalados en el párrafo anterior, el contribuyente deberá estar al corriente en el pago de los derechos por suministro de agua y descarga a la red de drenaje.
+
+APARTADO A: AGUA POTABLE Y RESIDUAL TRATADA
+
+I. Conexión, reconstrucción o cambio de diametro de tomas domiciliarias de agua potable y agua residual tratada, en terrenos tipo I y II, con los diámetros que se especifican:
+
+a). 13 mm $5,950.00
+
+b). 19 mm $7,622.00
+
+c). 25 mm $11,490.00
+
+d). 32 mm $12,766.00
+
+e). 38 mm $15,417.00
+
+f). 51 mm $18,752.00
+
+g). 64 mm $20,811.00
+
+h). 76 mm $23,966.00
+
+i). 102 mm $28,146.00
+
+j). 152 mm $31,118.00
+
+k). 202 mm $34,541.00
+
+l). 252 mm $38,340.00
+
+m). 302 mm $42,558.00
+
+II. Conexión, reconstrucción o cambio de diametro de tomas domiciliarias de agua potable y agua residual tratada, en terrenos tipo III, con los diámetros que se especifican:
+
+a). 13 mm $6,192.00
+
+b). 19 mm $9,728.00
+
+c). 25 mm $18,485.00
+
+d). 32 mm $19,769.00
+
+e). 38 mm $23,577.00
+
+f). 51 mm $26,913.00
+
+g). 64 mm $28,971.00
+
+h). 76 mm $33,291.00
+
+i). 102 mm $37,472.00
+
+j). 152 mm $41,427.00
+
+k). 202 mm $45,984.00
+
+l). 252 mm $51,042.00
+
+m). 302 mm $56,658.00
+
+III. Instalación de medidor, atendiendo al diámetro:
+
+a). 13 mm $2,950.00
+
+b). 19 mm $4,265.00
+
+c). 25 mm $5,765.00
+
+d). 32 mm $9,126.00
+
+e). 38 mm $12,000.00
+
+f). 51 mm $18,057.00
+
+g). 64 mm $20,576.00
+
+h). 76 m $22,901.00
+
+i). 102 mm $31,982.00
+
+j). 152 mm $93,525.00
+
+k). 202 mm $102,375.00
+
+l). 252 mm $136,667.00
+
+m). 302 mm $164,000.00
+
+IV. Armado de cuadro, atendiendo al diámetro:
+
+a). 13 mm $513.00
+
+b). 19 mm $825.00
+
+c). 25 mm $1,206.00
+
+d). 32 mm $2,093.00
+
+e). 38 mm $2,696.00
+
+f). 51 mm $3,956.00
+
+g). 64 mm $27,410.00
+
+h). 76 mm $36,897.00
+
+i). 102 mm $51,276.00
+
+j). 152 mm $70,884.00
+
+k). 202 mm $114,579.00
+
+l). 252 mm $165,054.00
+
+m). 302 mm 198,065.00
+
+V. Reinstalación de Servicio Hidráulico
+
+A. Diámetros de 13 a 38 mm
+
+a). Por Cuadro $974.00
+
+b). Por Banqueta $3,612.00
+
+c). Por Arroyo $7,224.00
+
+B. Diámetros mayores a 38 mm
+
+a). Por Cuadro $974.00
+
+b). Por Banqueta $6,165.00
+
+c). Por Arroyo $12,331.00
+
+Además, en los predios en que exista más de un usuario, que se sirvan de una misma toma, cada usuario deberá cubrir los derechos de la instalación de medidor y del armado de cuadro en el caso en que no cuente con dicho cuadro o el armado sea incorrecto, en el diámetro que le corresponda, de acuerdo con las cuotas establecidas.
+
+El pago de los derechos por instalación de medidor y por armado de cuadro a que se refieren las fracciones III y IV del Apartado A de este artículo, podrá realizarse a plazos, ya sea diferido o en parcialidades, en términos del artículo 45 de este Código, procediendo en este caso la instalación de medidor y el armado del cuadro una vez cubierta la primera parcialidad autorizada.
+
+Los derechos a que se refiere la fracción III de este artículo se destinarán bimestralmente al Sistema de Aguas como ampliación líquida de su presupuesto.
+
+APARTADO B: DRENAJE
+
+I. Conexión, reconstrucción o cambio de diámetro de descargas domiciliarias, en terrenos tipo I y II, con los diámetros siguientes:
+
+a). 15 cm $7,780.00
+
+b). 20 cm $10,973.00
+
+c). 25 cm $17,261.00
+
+d). 30 cm $19,638.00
+
+e). 38 cm $22,568.00
+
+f). 45 cm $24,894.00
+
+II. Conexión, reconstrucción o cambio de diámetro de descargas domiciliarias, en terrenos tipo III, de conformidad con los siguientes diámetros:
+
+a). 15 cm $10,033.00
+
+b). 20 cm $15,226.00
+
+c). 25 cm $30,219.00
+
+d). 30 cm $35,127.00
+
+e). 38 cm $43,283.00
+
+f). 45 cm $48,324.00
+
+El monto de los derechos a que se refiere este artículo, incluye los materiales, mano de obra directa y el valor del medidor de agua.
+
+Se considerará terreno tipo I y II, aquel constituido por un material que por su cohesión para ser aflojado y removido, una persona requiere de pala, pico, barreta, o auxiliarse de cuña y marro, y una vez suelto se puede extraer con pala.
+
+Se considerará terreno tipo III, aquel constituido por un material bastante cohesionado, que para removerlo, una persona requiere fracturarlo a base de cuña y marro, o bien con explosivos, o cuña con vibrador neumático.
+
+Se exceptúa el pago de este derecho cuando la reinstalación, reconstrucción, reducción, cambio de lugar de tomas, o conexiones referidas en este artículo, sean para reparar algún daño a la red originado por causas no imputables al usuario del servicio.
+
+###### ARTICULO 182.
+
+Por la autorización para usar las redes de agua y drenaje o modificar las condiciones de uso, así como por el estudio y trámite, que implica esa autorización, se pagarán los derechos conforme a las siguientes cuotas:
+
+I. Por el estudio de la solicitud y de la documentación técnica, administrativa y legal para el trámite de la obtención de dicha autorización; tratándose de nuevos fraccionamientos o conjuntos habitacionales, comerciales, industriales o de servicios y demás edificaciones de cualquier tipo, se pagará:
+
+1. Cuando el inmueble sea destinado a casa habitación, se atenderá al diámetro de la toma de agua y se pagarán las siguientes cuotas:
+
+Diámetro de la toma Cuota a pagar
+
+13 mm $2,800.00
+
+19 mm $6,655.69
+
+25 mm $15,807.28
+
+38 mm $44,197.99
+
+51 mm $168,610.99
+
+64 mm $272,259.61
+
+76 mm $388,734.30
+
+102 mm $709,594.37
+
+2. Tratándose de inmuebles cuyo destino sea distinto al habitacional, se pagará atendiendo al diámetro de la toma de agua, las siguientes cuotas:
+
+Diámetro de la toma Cuota a pagar
+
+13 mm $5,900.00
+
+19 mm $13,866.04
+
+25 mm $32,931.84
+
+38 mm $92,079.14
+
+51 mm $175,636.45
+
+64 mm $283,603.76
+
+76 mm $404,931.56
+
+102 mm $739,160.80
+
+II. Por el estudio de la solicitud y de la documentación técnica, administrativa y legal para el trámite del cambio de uso habitacional a uso distinto, se causará el 50% de la cuota prevista en el numeral 2 de la fracción I de este artículo;
+
+III. Por la autorización para usar las redes de agua y drenaje o modificar las condiciones de uso, se pagará la cantidad de $1,000.00
+
+IV. Cuando se trate del estudio de la solicitud y de la documentación técnica, administrativa y legal para el trámite y obtención de la autorización e instalación de una toma de agua de diámetro de entrada más grande que la ya existente, a fin de atender una mayor demanda de agua, los derechos que se causen serán con base en la siguiente tabla:
+
+Diámetro de Diámetro de Cuota a pagar
+
+entrada de la entrada de la en pesos
+
+toma actual en toma solicitada
+
+Milímetros en milímetros
+
+13 19 $92,537
+
+13 25 $308,740
+
+13 32 $556,097
+
+13 38 $880,410
+
+13 51 $1,621,792
+
+13 64 $2,625,876
+
+13 76 $3,769,644
+
+13 102 $7,084,856
+
+19 25 $216,206
+
+19 32 $463,560
+
+19 38 $787,874
+
+19 51 $1,529,161
+
+19 64 $2,533,340
+
+19 76 $3,677,107
+
+19 102 $6,992,322
+
+25 32 $247,351
+
+25 38 $571,662
+
+25 51 $1,246,316
+
+25 64 $2,317,132
+
+25 76 $3,461,065
+
+25 102 $6,776,109
+
+32 38 $324,311
+
+32 51 $1,065,697
+
+32 64 $2,069,757
+
+32 76 $3,213,547
+
+32 102 $6,528,759
+
+38 51 $741,389
+
+38 64 $1,745,465
+
+38 76 $2,889,249
+
+38 102 $6,204,449
+
+51 64 1,004,076
+
+51 76 $2,147,855
+
+51 102 $5,463,065
+
+64 76 $1,143,774
+
+64 102 $4,458,982
+
+76 102 $3,315,211
+
+En los supuestos de causación de los derechos a que se refiere este artículo, el pago de estos derechos será requisito indispensable para la expedición de la autorización de cambio de uso del suelo o de registro de obra, así como para la expedición de la licencia de construcción de obra nueva o ampliación correspondiente, y servirá como base de la contribución para la determinación de las cuotas señaladas, la superficie construida que se autorice en la licencia respectiva.
+
+Cuando no se tenga la obligación de solicitar licencia de construcción, la base para el cálculo de la contribución será la superficie construida.
+
+Por la autorización anual que el Sistema de Aguas otorgue para la comercialización de agua potable por particulares, derivada de tomas de uso comercial o industrial, se pagará por concepto de derechos la cantidad de $539.00 y por su revalidación, se cobrará el 50% del valor de la misma.
+
+Se libera el pago del derecho por la autorización señalada en este artículo si el uso de las redes de agua y drenaje o la modificación de las condiciones de uso, son para reparar algún daño sufrido en dichas redes, originados por causas no imputables al usuario del servicio.
+
+#### Sección Novena. De los derechos sobre las concesiones de inmuebles
+
+###### ARTICULO 183.
+
+Por la expedición de licencias para fraccionamiento de terreno, se pagará el derecho de fraccionamientos conforme a la tasa de 3.45% sobre el monto total de presupuesto de obras por ejecutar en el fraccionamiento o en zonas que vayan a desarrollarse.
+
+Los derechos a que se refiere este artículo comprende la revisión y estudio de planos y proyectos, así como la supervisión de las obras de urbanización que se ejecuten en el fraccionamiento. Dichos recursos serán transferidos por la Tesorería a la Delegación correspondiente conforme a sus presupuestos aprobados por la Asamblea.
+
+###### ARTICULO 184.
+
+Se pagarán derechos por la supervisión y revisión que efectúen las autoridades del Distrito Federal, en los siguientes términos:
+
+I. El equivalente al 1.5% sobre el total de cada una de las estimaciones que presenten los contratistas antes de impuestos y/o deductivas y, en su caso, sobre la liquidación al momento de su pago, por concepto de:
+
+a). Las obras o proyectos integrales sujetos a contrato que se realicen en el Distrito Federal en términos de la legislación de la materia,
+
+b). Las obras públicas sujetas a contrato que se realicen en el Distrito Federal en términos de la legislación federal.
+
+Se entenderá que la supervisión y revisión de las obras públicas la efectúan las autoridades del Distrito Federal, cuando a través de sus órganos presten dichos servicios o cuando la realicen terceros por encargo de dichas autoridades.
+
+II. Se pagarán derechos por los servicios de inspección, control y vigilancia de los contratos de:
+
+a). Obra pública regulada en la legislación de la materia del Distrito Federal y financiada exclusivamente con recursos locales, se pagarán derechos por la cantidad equivalente al 2% sobre las estimaciones antes de cualquier impuesto y/o deductiva y, en su caso, sobre la liquidación al momento de su pago, y
+
+b). Obra pública o de servicios relacionados con la obra pública, que se realicen en el Distrito Federal con recursos total o parcialmente federales, pagarán derechos de conformidad con lo que establece la normatividad federal.
+
+Los derechos de supervisión y revisión que realicen las delegaciones, se destinarán a las áreas de obra de las mismas conforme a sus presupuestos aprobados por la Asamblea.
+
+Por supervisión de instalaciones subterráneas o áreas en la vía pública, un 10% de los derechos causados por la licencia que corresponda.
+
+###### ARTICULO 185.
+
+Por el registro, análisis y estudio de manifestación de construcción tipos "A", "B" y "C", se pagará el derecho respectivo conforme a las cuotas que a continuación se establecen:
+
+A) Inmuebles de uso habitacional
+
+I. Manifestación de construcción tipo A
+
+a). Por el registro $227.00
+
+b). Por el análisis y estudio, por m2 $12.00
+
+II. Manifestación de construcción tipo B
+
+a). Por el registro $414.00
+
+b). Por el análisis y estudio, por m2 $39.00
+
+III. Manifestación de construcción tipo C
+
+a). Por el registro $605.00
+
+b). Por el análisis y estudio, por m2 $44.00
+
+B) Inmuebles de uso no habitacional
+
+I. Manifestación de construcción tipo B
+
+a). Por el registro $450.00
+
+b). Por el análisis y estudio, por m2 $65.00
+
+II. Manifestación de construcción tipo C
+
+a). Por el registro $658.00
+
+b). Por el análisis y estudio, por m2 $76.00
+
+Para el caso de construcción de ampliaciones y reparaciones, se pagará por el registro, análisis y estudio de manifestación de construcción de que se trate, los derechos establecidos en los incisos A) y B) de este artículo, respecto de las áreas que se pretenda ampliar o reparar.
+
+Cuando se trate de modificación, se pagará, una cuota equivalente al 20% de los derechos que se causarían por el registro, análisis y estudio de la manifestación de construcción respectiva.
+
+Por la prórroga del registro de manifestación de construcción, se pagará una cuota equivalente al 10% de los derechos causados por el registro, análisis y estudio de la manifestación de que se trate.
+
+###### ARTICULO 186.
+
+Por la expedición de licencias de construcción especial, se pagarán derechos de acuerdo a las cuotas que a continuación se establecen:
+
+I. Para instalaciones subterráneas o aéreas en la vía pública:
+
+a). Excavaciones, rellenos, romper pavimento o hacer cortes en las banquetas y guarniciones de la vía pública, con un ancho de:
+
+1. Hasta 40 cm de ancho por cada metro lineal $209.00
+
+2. De más de 40 cm de ancho por cada metro cuadrado $306.00
+
+b). Perforación direccional por cada metro lineal $209.00
+
+c). Por cada poste de hasta 40 cm de diámetro $596.00
+
+II. Estaciones repetidoras de comunicación celular o inalámbrica:
+
+a). Para soportes de antenas:
+
+1. De hasta 3 m de altura $1,326.00
+
+2. De hasta 15 m de altura $13,262.00
+
+3. Por cada metro adicional de altura $2,652.00
+
+b). Por cada antena de radio frecuencia o de microondas $1,326.00
+
+III. Por excavaciones o cortes cuya profundidad sea mayor de 1 metro $79.00 m3
+
+IV. Para tapiales que invadan la acera en una medida superior a 50 cm:
+
+a). Hasta 2.50 metros de altura, por metro lineal o fracción $14.00
+
+b). Por la altura excedente a que se refiere el inciso anterior, por m2 o fracción $5.00
+
+c). Por tapial ocupando banquetas en paso cubierto (túnel elevado), sobre la superficie ocupada, por día $5.00 m2
+
+d). Por andamios o cualquier otra forma de usar la vía pública, sobre la superficie ocupada, por día $11.00 m2
+
+V. Ferias con aparatos mecánicos, circos, carpas, graderías desmontables y otros similares $14.00 m2
+
+VI. Por instalaciones o modificaciones en edificaciones existentes, de ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico, excepto obra nueva $7,957.00
+
+VII. Demoliciones por la superficie cubierta, computando cada piso o planta $11.00 m2
+
+Por la prórroga de la licencia para construcción de las obras a que se refiere este artículo, se pagará una cuota equivalente al 10% de los derechos causados por su expedición.
+
+###### ARTICULO 187.
+
+Por la expedición de licencia de conjunto o condominio, se pagarán los derechos correspondientes, conforme a las cuotas que a continuación se establecen:
+
+I. Licencia de conjunto:
+
+a). Proyectos de vivienda de más de diez mil metros cuadrados de construcción $37.00 m2
+
+b). Proyectos que incluyen oficinas, comercios, industrias, servicios o equipamiento, por más de cinco mil metros cuadrados $86.00 m2
+
+II. Licencia de condominio $12.00 m2
+
+Por la prórroga de la licencia de conjunto o de la licencia de condominio, a que se refiere este artículo, se pagará una cuota equivalente al 20% de los derechos causados por su expedición.
+
+###### ARTICULO 188.
+
+Por la expedición de licencias de subdivisión, relotificación o fusión de predios, se pagarán los derechos correspondientes, conforme a lo siguiente:
+
+1. Por predios con superficie hasta de 3,000 m2, una cuota del 0.5% del valor de avalúo.
+
+2. Por predios con superficie mayor a 3,000 m2, una cuota del 1.0% del valor de avalúo.
+
+Los porcentajes anteriores se aplicarán considerando la superficie total del predio a subdividir o relotificar, o aquélla resultante de la fusión de los predios.
+
+Los contribuyentes podrán determinar el valor del predio, aplicando los procedimientos y lineamientos técnicos de valuación inmobiliaria.
+
+Por la prórroga de la licencia de subdivisión, relotificación o fusión de predios a que se refiere este artículo, se pagará una cuota equivalente al 10% de los derechos causados por su expedición.
+
+Los derechos previstos en este artículo, deberán pagarse previamente a la expedición de la licencia respectiva o su prórroga.
+
+###### ARTICULO 189.
+
+Las personas físicas o morales que exploten yacimientos de materiales pétreos ubicados en el Distrito Federal, están obligadas al pago de derechos por la expedición de licencias, así como por su revalidación, de acuerdo a las cuotas que a continuación se establecen:
+
+Para licencia nueva:
+
+De 1,000 a 50,000 m2 de proyecto de explotación $94,335.00
+
+De 50,001 a 100,000 m2 de proyecto de explotación $251,564.00
+
+De 100,001 a 300,000 m2 de proyecto de explotación $440,243.00
+
+De 300,001 a 500,000 m2 de proyecto de explotación $628,909.00
+
+Mayores a 500,000 m2 de proyecto de explotación $880,474.00
+
+Para la revalidación, se cobrará el 50% del costo de la licencia nueva.
+
+###### ARTICULO 190.
+
+Por la expedición del Permiso para la Celebración de Espectáculos Públicos, se pagarán derechos conforme a las siguientes cuotas:
+
+a) Musicales $3,365.00
+
+b) Deportivos $5,608.00
+
+c) Taurinos $3,365.00
+
+d) Teatrales $1,121.00
+
+Por la revisión del cumplimiento de los requisitos que en el Distrito Federal exijan las disposiciones jurídicas correspondientes, tratándose de estacionamientos públicos, se pagarán derechos conforme a una cuota de $2,591.00
+
+###### ARTICULO 191.
+
+Por la expedición y revalidación de licencia de funcionamiento, declaración de apertura y autorización, así como por la verificación de giros y establecimientos mercantiles, espectáculos públicos o en ferias, romerías, kermesses y festejos populares, con venta de bebidas alcohólicas en envase cerrado, abierto o al copeo, se pagarán derechos conforme a lo siguiente:
+
+I. Por la expedición de Licencia de Funcionamiento tipo ordinarias, se pagarán:
+
+a). Por los primeros 50 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $7,266.00
+
+b). Por cada metro cuadrado que exceda a los 50 metros cuadrados y hasta 100 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $146.00
+
+c). Por cada metro cuadrado que exceda a los 100 metros cuadrados y hasta 300 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $290.00
+
+Después de 300 metros cuadrados el costo de la Licencia de Funcionamiento será lo que resulte de la suma de los incisos a), b) y c).
+
+II. Por la expedición de licencia de funcionamiento tipo especial, se pagarán:
+
+a). Por los primeros 50 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $14,532.00
+
+b). Por cada metro cuadrado que exceda a los 50 metros cuadrados y hasta 100 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $290.00
+
+c). Por cada metro cuadrado que exceda a los 100 metros cuadrados y hasta 300 metros cuadrados de construcción, incluyendo todos sus accesorios, excepto estacionamiento $581.00
+
+d). Por pulquerías $7,266.00
+
+Después de 300 metros cuadrados el costo de la Licencia de Funcionamiento será lo que resulte de la suma de los incisos a), b) y c).
+
+III. Tratándose de Establecimientos Mercantiles que extiendan sus servicios a la vía pública y que requieran de un Permiso, en los términos de la Ley de la materia, se pagará una cuota semestral por cada metro cuadrado que utilice, conforme a lo siguiente:
+
+a). Para los establecimientos mercantiles que funcionen con Licencia de Funcionamiento $1,110.00
+
+b). Para los establecimientos mercantiles que funcionen con declaración de apertura $558.00
+
+IV. Tratándose de Actividades Mercantiles que requieran de una Autorización, en los términos de la Ley de la materia, se pagará una cuota conforme a lo siguiente:
+
+a). Por cada metro cuadrado $15.00
+
+V. Por la verificación a que se hace referencia en el primer párrafo $2,458.00
+
+Para efectos de la revalidación de la Licencia de Funcionamiento a que hace referencia las fracciones I y II, se cobrará el 30% del valor de la misma al finalizar el periodo de vigencia que refiere la Ley de la materia.
+
+Los Permisos a que hace referencia la fracción III, tendrán una vigencia de seis meses y podrán ser otorgados semestralmente siempre que cumplan con las disposiciones de la Ley de la materia.
+
+Las Autorizaciones a que se refiere la fracción IV no son objeto de prórroga ni revalidación y tendrán una vigencia de no más de 15 días.
+
+###### ARTICULO 192.
+
+Por los siguientes servicios prestados en los términos de la reglamentación de construcciones del Distrito Federal, se pagarán las cuotas que se indican:
+
+I. Por la evaluación y registro de aspirantes a directores responsables de obra o corresponsables, por la primera evaluación $1,499.00
+
+Por las subsiguientes $756.00
+
+###### ARTICULO 193.
+
+Por la expedición de licencias anuales, autorizaciones temporales y permisos publicitarios de anuncios, así como por su revalidación, incluyendo a los anuncios denominativos, conforme a lo establecido en la legislación en materia para el Distrito Federal, y en las demás disposiciones jurídicas correspondientes, con excepción de los anuncios que no requieran licencia, autorización temporal o permiso publicitario y los de televisión, radio, periódicos y revistas, se pagarán derechos, cualquiera que sean sus fines, el lugar en que se fijen o instalen, el procedimiento para su colocación y los materiales, estructuras, soportes y sistemas de iluminación utilizados en su construcción, de acuerdo a las cuotas que a continuación se establecen:
+
+I. Licencia para construir, instalar, fijar, modificar o ampliar, los siguientes anuncios:
+
+a). En azotea o autosoportados con cartelera de 1 metro cuadrado hasta la máxima permitida por la normatividad aplicable, aun cuando sean de neón o electrónicos, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de cartelera por $2,355.00
+
+b). Anuncios comerciales en marquesinas, con dimensión desde 1 y hasta 5 metros cuadrados y un espesor de 20 centímetros aún cuando sean electrónicos o de neón:
+
+1. Por el otorgamiento de licencia $7,402.00
+
+2. Por cada metro adicional en su dimensión $1,290.00
+
+c). Adosados con cartelera desde 3.24 metros cuadrados hasta la máxima permitida por la normatividad aplicable, aun cuando sean de neón o electrónicos, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados por $1,402.00
+
+d). En saliente, volados o colgantes, con cartelera desde 1 metro cuadrado hasta la máxima permitida por la normatividad aplicable $3,701.00
+
+e). En mobiliario urbano (MUPIS), se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de cartelera por $1,402.00
+
+f). Por el otorgamiento de licencia de anuncios en vallas publicitarias, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de cartelera por $4,711.00
+
+En ningún caso el pago de derechos hará presumir la regularidad de la licencia o autorización temporal, cuya expedición deberá sujetarse a lo dispuesto por la Ley de Desarrollo Urbano del Distrito Federal, en materia de anuncios y publicidad exterior por lo dispuesto por el artículo 29 del Reglamento para el Ordenamiento del Paisaje Urbano del Distrito Federal.
+
+g). De proyección óptica, con las superficies autorizadas por la legislación vigente, se pagarán por cada anunciante, marca o producto, los derechos que resulten de multiplicar el número de metros cuadrados de superficie de proyección por $1,121.00
+
+h). Anuncios en lona o en material similar en inmuebles y/o monumentos en construcción, remodelación o restauración, de conformidad con la normatividad aplicable, se pagarán los derechos que resulten de multiplicar cada metro cuadrado de cartelera por $1,402.00
+
+i). Anuncios denominativos pintados en bardas, vidrieras y escaparates, cortinas metálicas, muros laterales de acceso a establecimientos que den a la calle, orla o cenefa de toldos y cortinas de tela, fachadas, así como integrados, adosados o en gabinete en fachada, con las superficies autorizadas por la legislación vigente, se pagarán los derechos que resulten de multiplicar cada metro cuadrado de cartelera por $1,402.00
+
+Por la revalidación anual de los anuncios a que se refiere esta fracción, se cobrará el mismo monto que se pagó por la expedición de la licencia, a excepción de los anuncios denominativos, en cuyo caso se cobrará un 20% del costo de la Licencia.
+
+II. Autorización temporal para construir, instalar, fijar, modificar o ampliar los siguientes anuncios:
+
+a). En mantas desde 1 metro hasta la máxima permitida por la normatividad vigente, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de superficie por $34.00
+
+b). En objetos inflables, incluyendo los que sean aerostáticos o anclados al piso $1,458.00
+
+c). Pintados o adosados desde 1.50 y hasta 3.50 metros cuadrados de superficie, se pagarán los derechos que resulten de multiplicar los metros cuadrados de superficie por $40.00
+
+d). En postes del mobiliario urbano, por Banderola con una dimensión de 1.80 hasta 3.60 metros de altura por 90 centímetros de longitud $48.00
+
+e). En saliente, volados o colgantes que requieran autorización temporal en términos de la legislación aplicable, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de superficie del anuncio por $953.00
+
+f). Autosoportados que requieran autorización temporal en términos de la legislación aplicable, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de superficie del anuncio por $617.00
+
+g). En marquesinas que requieran de autorización temporal en términos de la legislación aplicable, se pagarán los derechos que resulten de multiplicar el número de metros cuadrados de superficie del anuncio por $281.00
+
+Por la revalidación de las autorizaciones temporales a que se refiere esta fracción, se cobrará el mismo monto que para su expedición.
+
+III. Por la expedición del permiso por un año, para contratar y colocar anuncios publicitarios en los vehículos que prestan el servicio público de pasajeros, taxi, carga y privado, de conformidad con la legislación aplicable, se pagarán los derechos siguientes:
+
+a). De 0 m2 hasta 3.0 m2 $1,252.00
+
+b). De 3.01 m2 hasta 30.0 m2 $5,553.00
+
+IV. Por la colocación de anuncios de publicidad en bicicletas adaptadas, el anunciante pagará por la expedición del permiso $112.00
+
+En los casos en que los anuncios mencionados en las fracciones anteriores no cuenten con la licencia, autorización temporal o permiso publicitario, correspondiente, la autoridad deberá ordenar su retiro a costa del propietario de los mismos. En la determinación del costo por retiro del anuncio, la autoridad lo cuantificará de acuerdo al valor de mercado.
+
+Los derechos a que se refiere este artículo, deberán pagarse previo a la expedición de la licencia, autorización temporal o permiso publicitario, respectivo, mediante declaración del contribuyente en la forma oficial aprobada y en el periodo que fije la legislación en la materia.
+
+###### ARTICULO 194.
+
+Por la expedición del permiso para impartir cursos y clases de manejo, en el Distrito Federal, se pagará el derecho respectivo conforme a las siguientes cuotas:
+
+I. Por su otorgamiento, por un año $3,310.00
+
+II. Por su revalidación $3,310.00
+
+###### ARTICULO 195.
+
+Las dependencias, órganos desconcentrados, entidades y delegaciones que brinden el servicio u otorguen el documento en el que consten las licencias o permisos referidos en la presente Sección, deberán llevar un control en el cual conste el número de solicitudes autorizadas o actos otorgados, así como el monto recaudado por cada concepto; debiendo rendir un informe mensual a la Secretaría a más tardar el día 15 del mes siguiente a aquel al que corresponda dicho informe, con el objeto de que la información obtenida sea incorporada a los padrones correspondientes.
+
+Sólo los bienes de dominio público del Distrito Federal y los sujetos al régimen de dominio público de la Federación, estarán exentos del pago de los derechos establecidos en los artículos 183, 185, 186 y 188 de esta Sección.
+
+#### Sección Décima. De los derechos por servicios de almacenaje
+
+###### ARTICULO 196.
+
+Por cada inscripción, anotación o cancelación de inscripción que practique el Registro Público correspondiente, se causará una cuota de $1,274.00, con las excepciones que se señalan en las fracciones siguientes y en los demás artículos de esta Sección.
+
+I. Se causará una cuota de $12,772.00
+
+a). Por la inscripción de documentos por los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes muebles o inmuebles o derechos reales, incluyendo aquellos derivados de fideicomisos, así como las compraventas en las que el vendedor se reserve el dominio y las cesiones de derechos;
+
+b). Por la inscripción de documentos por los que se constituyan gravámenes o limitaciones a la propiedad o posesión de bienes muebles o inmuebles, de contratos de arrendamiento o de comodato, y
+
+c). Por la inscripción de actos relacionados con la constitución, modificación, aumento de capital, escisión o fusión de personas morales. Así como la inscripción de actos relacionados con contratos de arrendamiento financiero, de crédito con garantía hipotecaria, refaccionarios o de habilitación o avío.
+
+II. Cuando los actos a que se refieren los incisos a), b) y c) de la fracción anterior no tengan valor determinado o éste sea menor al monto establecido para las viviendas de interés social en la Ley de Desarrollo Urbano del Distrito Federal, la cuota a pagar será la señalada en el primer párrafo de este artículo. Si el valor de los actos a inscribir es de hasta dos veces el monto señalado en la referida Ley, la cuota a que se refiere el primer párrafo de este artículo aumentará en dos tantos por cada 25% adicional. En el caso de actos relacionados con bienes muebles, en que su valor sea de hasta 4.5 veces el referido monto establecido para la vivienda de interés social, la cuota prevista en el primer párrafo de este artículo se aumentará en un 30% por cada 10% adicional.
+
+Para los actos registrales relacionados con la adquisición o transmisión de inmuebles, se considerará como valor, el mayor entre el de adquisición, el valor catastral y el valor que resulte del avalúo practicado por la autoridad fiscal o por persona autorizada por la misma.
+
+Cuando la adquisición o transmisión se realice sobre una porción de un inmueble o derecho, el valor que se considerará para el pago de la cuota será proporcional al porcentaje adquirido o transmitido.
+
+En los casos en que las autoridades federales, o de las entidades federativas, o del Distrito Federal, requieran las inscripciones de embargos, expedición de certificados de libertad de gravamen, o cualquier otro servicio necesario para la correcta continuación del Procedimiento Administrativo de Ejecución, los servicios se prestarán al momento de la solicitud, y los derechos correspondientes serán pagados cuando concluya dicho Procedimiento y la propia autoridad ordene al contribuyente deudor el pago de los gastos que se hayan originado, o en su caso, cuando sean sacados al remate los bienes respectivos; salvo que el Procedimiento Administrativo de Ejecución concluya por haber quedado sin efectos jurídicos cuando así lo determine una resolución administrativa o sentencia firme, caso en el cual, no habrá lugar al pago de derechos.
+
+Las cuotas a que se refiere este artículo comprenderán la búsqueda de antecedentes registrales.
+
+###### ARTICULO 197.
+
+Por la devolución de documentos como resultado de la calificación, ya sea que se deniegue el asiento por causas insubsanables, o cuando no se cumpla con los requisitos exigidos en la suspensión, se pagarán $437.00.
+
+En los casos de devolución de documentos a solicitud del interesado, siempre y cuando el documento no haya entrado a calificación, se pagará por concepto de derechos la cantidad de $214.00.
+
+###### ARTICULO 198.
+
+Por la expedición de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos, las siguientes cuotas:
+
+I. Certificado de existencia o inexistencia de gravámenes, limitaciones de dominio y anotaciones preventivas hasta por un período de veinte años $409.00
+
+Por cada período de cinco años o fracción que exceda de ese lapso $275.00
+
+II. Informes o constancias solicitados por autoridades de la Federación, de las entidades federativas, municipios u organismos de ellos $802.00
+
+III. Certificados de adquisición o enajenación de bienes inmuebles por un período de veinte años a la fecha de expedición $388.00
+
+IV. Certificado de no inscripción de un bien inmueble, por cada período de cinco años a partir del año de 1871 $275.00
+
+V. Por cada certificación de asientos registrales de un folio o de una partida de los libros $1,067.00
+
+En el caso de que la certificación a que se refiere esta fracción, exceda de 50 hojas, se cobrará por cada hoja adicional $9.00
+
+Las cuotas a que se refiere este artículo comprenderán la búsqueda de antecedentes registrales.
+
+###### ARTICULO 199.
+
+Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos, las siguientes cuotas:
+
+I. Por otorgamiento de poderes, efectuados en un mismo folio $586.00
+
+II. Por revocación o renuncia de poderes, efectuados en un mismo folio $586.00
+
+###### ARTICULO 200.
+
+Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos, las siguientes cuotas:
+
+I. Fianzas, contrafianzas u obligaciones solidarias con el fiador, para el sólo efecto de comprobar la solvencia del fiador, contrafiador u obligado solidario $802.00
+
+II. Sustitución de acreedor o deudor, modificaciones de plazo, intereses, garantías o cualquiera otras que no constituyan novación del contrato $802.00
+
+III. División de crédito, en cualquier caso y por cada inmueble, con excepción de lo previsto por la siguiente fracción $275.00
+
+IV. Por la individualización de gravámenes a que se refiere el artículo 2912 del Código Civil, se pagará, por la primera, la cuota que corresponda a la tarifa prevista en el artículo 196, fracción I de este Código, y por cada anotación subsecuente se pagará $1,280.00
+
+V. Por la anotación de embargo de varios bienes, se pagará por el primero la cuota que corresponda a la tarifa prevista en el artículo 196, fracción I de este Código, y por cada anotación en folio que se derive de la misma orden judicial, se pagará $1,280.00
+
+VI. Por el asiento registral de la cancelación de hipoteca, incluidos sus ampliaciones, convenios y modificaciones, así como fianza o embargo, se pagará $1,280.00
+
+###### ARTICULO 201.
+
+Por la ratificación de firmas ante el registrador, se pagarán por concepto de derechos $56.00 por cada firma.
+
+###### ARTICULO 202.
+
+Por el registro de cada acto correspondiente al cumplimiento de la condición, cancelación de la reserva de dominio o consolidación de la propiedad, en cada caso $534.00.
+
+###### ARTICULO 203.
+
+Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán por concepto de derechos las siguientes cuotas:
+
+I. Por la constitución del patrimonio familiar $534.00
+
+II. Por la cancelación del patrimonio familiar $534.00
+
+III. Por la anotación del régimen patrimonial del matrimonio y capitulaciones matrimoniales $534.00
+
+IV. Documentos o resoluciones judiciales relativas a las sucesiones, independientemente de los derechos que se causen por el registro de la transmisión de los bienes hereditarios $1,280.00
+
+V. Por la aplicación de bienes por disolución de sociedad conyugal exclusivamente a favor del cónyuge que no sea titular registral $1,067.00
+
+###### ARTICULO 204.
+
+Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán las siguientes cuotas:
+
+I. Actos, contratos, convenios o resoluciones judiciales o administrativas por los que se constituya un fraccionamiento, se lotifique, relotifique, divida o subdivida un inmueble, por cada lote $802.00
+
+II. Fusión, por cada lote $802.00
+
+III. Constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad $802.00
+
+En aquellos casos en que los actos regulados en el presente artículo se originen por la constitución de un polígono de actuación y/o la aplicación de un sistema de actuación a los que se refieren los artículos 62 y 64 de la Ley de Desarrollo Urbano del Distrito Federal, en los que intervenga el Gobierno del Distrito Federal, quedarán exentos de los pagos previstos en las fracciones I, II y III de este artículo, siempre y cuando exista autorización de la Procuraduría Fiscal.
+
+###### ARTICULO 205.
+
+Por el registro de los documentos en que consten los actos que a continuación se relacionan se pagará por concepto de derechos las siguientes cuotas:
+
+I. Matrícula de comerciante persona física $802.00
+
+II. Constitución o aumento de capital o inscripción de créditos, de sociedades mercantiles comprendidas en la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal $534.00
+
+III. De corresponsalía mercantil, por su registro o cancelación $802.00
+
+###### ARTICULO 206.
+
+Por el registro de los documentos en que consten los actos que a continuación se relacionan, se pagarán las siguientes cuotas:
+
+I. Fideicomisos de garantía que no incluyan inmuebles, por cada inscripción $1,280.00
+
+II. Por la cesión de derechos hereditarios o fideicomisarios que no incluyan inmuebles $1,280.00
+
+###### ARTICULO 207.
+
+Por los actos que a continuación se mencionan se pagarán derechos conforme a las siguientes cuotas:
+
+I. Depósito de testamentos ológrafos en el Archivo General de Notarías:
+
+a). Si fueren hechos en los locales de las oficinas respectivas, en horas hábiles $802.00
+
+b). Si fueren hechos en los locales de las oficinas respectivas, en horas inhábiles $1,174.00
+
+c). Si fueren hechos fuera de los locales de las oficinas respectivas, en horas hábiles $1,596.00
+
+d). Si fueren hechos fuera de los locales de las oficinas respectivas, en horas inhábiles 2,406.00
+
+II. Depósito del escrito de Constitución de la Sociedad de Convivencia en el Archivo General de Notarias $56.00
+
+III. Servicios de inspección en el Registro Público de la Propiedad y de Comercio de los avisos de testamentos, se pagará el derecho de inscripción en el registro de la propiedad:
+
+a). Si se hace dentro de días y horas hábiles $377.00
+
+b). Si se hace en días y horas inhábiles $748.00
+
+###### ARTICULO 208.
+
+Por los servicios que preste el Registro Público de la Propiedad correspondiente por la expedición de documentos que a continuación se mencionan o búsqueda de antecedentes, se pagarán derechos conforme a las siguientes cuotas:
+
+I. De la búsqueda de antecedentes registrales de un inmueble, persona moral o bien mueble, por los índices de los libros o utilizando los sistemas electrónicos, incluyendo el primer folio o imagen digitalizada $389.00
+
+II. Por la expedición de constancia de antecedentes registrales se pagará por las primeras 20 hojas $150.00 y $4.00 adicionales por cada hoja subsecuente.
+
+III. Por conexión y servicio de vinculación remota al Sistema Integral de Informática Registral del Registro Público de la Propiedad, se pagará una cuota anual de $24,926.00
+
+IV. Por cada ejemplar del Boletín Registral en la fecha de su expedición $36.00
+
+V. Por la búsqueda oficial de antecedentes registrales de un inmueble, sobre la base del lote y manzana registral, plano catastral o cualquier documento fehaciente aportado por el solicitante $1,268.00
+
+VI. Por la investigación del tracto registral de un antecedente, folio o partida de libro, por cada período de cinco años $274.00
+
+###### ARTICULO 209.
+
+Para el cobro de los derechos que establece esta Sección, cuando un mismo documento origine dos o más asientos, se causarán derechos por cada uno de ellos.
+
+###### ARTICULO 210.
+
+Para la integración de jurado para el exámen correspondiente, se pagará un derecho conforme a las siguientes cuotas:
+
+I. Examen para aspirante de Notario $3,000.00
+
+II. Examen de oposición para el ejercicio notarial $5,000.00
+
+###### ARTICULO 211.
+
+Por los servicios de guarda definitiva y revisión de los libros del protocolo de los notarios públicos, se pagará el derecho conforme a las cuotas que a continuación se establecen:
+
+I. Por la búsqueda en los índices de protocolos Notariales, en el archivo General de Notarias 648.00
+
+II. Por la revisión y la certificación de la razón de cierre, por libro $1,000.00
+
+III. Por la recepción para guarda definitiva en el Archivo General de Notarías, de cada decena de protocolo 3,000.00
+
+Cuando el apéndice exceda de la decena, por cada libro adicional de apéndice $500.00
+
+IV. Por la recepción para guarda definitiva en el Archivo General de Notarías, de cada libro de registro de cotejos $1,000.00
+
+###### ARTICULO 212.
+
+Por los servicios de registro, que preste la Dirección General Jurídica y de Estudios Legislativos, el Archivo General de Notarias y el Registro Público de la Propiedad y de Comercio, se pagará una cuota por cada uno de los rubros que a continuación se indican:
+
+I. Patente de Aspirante a Notario y Corredor Público $3,000.00
+
+II. Patente de Notario y Corredor Público $5,000.00
+
+III. Sello y/o firma $1,921.00
+
+IV. Convenios de Notarios y Corredores Públicos $1,921.00
+
+###### ARTICULO 213.
+
+Por los servicios que preste el Archivo General de Notarías, se pagarán los mismos derechos que para el Registro Público de la Propiedad y de Comercio establece esta Sección.
+
+###### ARTICULO 214.
+
+Se exceptúan de lo dispuesto en el artículo anterior, los siguientes servicios que se pagarán con las cuotas que se indican:
+
+I. Por las certificaciones de instrumentos o registros notariales en guarda del Archivo General de Notarías, por cada instrumento o registro incluyendo su apéndice $2,144.00
+
+Se exceptúan de lo dispuesto en la fracción anterior:
+
+a). Certificación de instrumento que sólo contenga testamento $428.00
+
+b). Certificación de instrumento que sólo contenga mandato o poderes $428.00
+
+c). Certificación de instrumento que sólo contenga fe de hechos o declaraciones ante notario $428.00
+
+d) Certificación de instrumento que contenga tomos completos del apéndice $600.00 por cada tomo
+
+e) Certificación de instrumento que solo contenga documento de Voluntad Anticipada $428.00
+
+II. Cualquier anotación marginal en un protocolo $56.00
+
+III. Registro de avisos de testamentos públicos abiertos, cerrados o simplificados, otorgados ante notarios $56.00
+
+Por el informe respecto al registro o depósito de testamentos o designaciones de tutor cautelar, que se rindan a solicitud de jueces, notarios o partes interesadas $1,067.00
+
+IV. Por el asiento de la razón de haberse cumplido los requisitos legales de un instrumento notarial, que practique el Archivo General de Notarías, incluyendo el asiento de notas marginales o complementarias y, en su caso, la expedición de testimonio o copia certificada del instrumento $2,144.00
+
+V. Registro de avisos dados por notarios en el caso de designaciones de tutor cautelar $48.00
+
+###### ARTICULO 215.
+
+Las autoridades fiscales, en el registro de ingresos por concepto de los Servicios del Registro Público de la Propiedad o del Comercio y del Archivo General de Notarías, deberán registrar el concepto de cobro. Antes del 31 de enero, las autoridades fiscales remitirán a las del Registro Público de la Propiedad y de Comercio, un informe de los ingresos por este servicio, correspondiente al ejercicio fiscal del año inmediato anterior, a efecto de que estas últimas efectúen una conciliación entre los servicios prestados y los ingresos percibidos.
+
+Sólo estarán exentos de pago los derechos establecidos en los artículos 196, 198, 204, 208, 209 y 213 previstos en esta Sección, los bienes de dominio público del Distrito Federal y los sujetos al régimen de dominio público de la Federación.
+
+#### Sección Décima Primera. De los derechos por servicio de publicaciones
+
+###### ARTICULO 216.
+
+Por los servicios que preste el Registro Civil se pagarán derechos conforme las cuotas que a continuación se establecen:
+
+I. Inscripción de matrimonio en los Juzgados del Registro Civil $841.00
+
+II. Inscripción de tutela, adopción, estado de interdicción, declaración de ausencia o presunción de muerte $167.00
+
+III. Expedición de constancia de inexistencia de registro de nacimiento, matrimonio o defunción $50.00
+
+IV. Inscripción de los hechos o actos del estado civil de los mexicanos en el extranjero $843.00
+
+V. Por el divorcio a que se refiere el artículo 272 del Código Civil para el Distrito Federal $841.00
+
+VI. Expedición de copias certificadas $50.00 c/u
+
+VII. Búsqueda de datos registrales de actas del estado civil, independientemente del resultado de la búsqueda $50.00
+
+VIII. Por otras inscripciones 167.00
+
+No se pagará el derecho a que se refiere este artículo por la aclaración de actas del Registro Civil, así como por la inscripción de nacimientos que se celebren en la oficina del Registro Civil, de matrimonios celebrados colectivamente, ni por la inscripción de defunciones.
+
+###### ARTICULO 217.
+
+Por las anotaciones marginales e inserciones en las actas del Registro Civil se pagará el derecho por anotaciones en acta del Registro Civil conforme a las siguientes cuotas:
+
+I. De cambio de régimen patrimonial en el matrimonio $1,688.00
+
+II. De rectificación de actas $411.00
+
+III. De actas de defunción de personas fallecidas fuera del Distrito Federal o en el extranjero $167.00
+
+IV. De divorcio en el acta de matrimonio $167.00
+
+V. Del levantamiento de una nueva acta de nacimiento por reasignación sexo-genérica $168.00
+
+VI. De nulidad del acta del estado civil $157.00
+
+VII. Por otras anotaciones e inserciones $157.00
+
+Por las anotaciones marginales de reconocimiento y legitimación de descendientes, no se pagará el derecho a que se refiere este artículo.
+
+###### ARTICULO 218.
+
+Por los servicios que preste el Registro Civil fuera de sus oficinas se pagará el derecho de extraordinarios del Registro Civil, conforme a las cuotas que a continuación se establecen:
+
+I. Por el registro de nacimientos $260.00
+
+II. Por la celebración de matrimonios $1,688.00
+
+III. Por la autorización para que los jueces del Registro Civil celebren matrimonios fuera de la circunscripción territorial que les corresponda, independientemente de la cuota que señala la fracción anterior 3,477.00
+
+IV. Por otros servicios $2,206.00
+
+No se pagará el derecho a que refiere la fracción I de este artículo, por el registro de nacimiento que se celebre fuera de la oficina del Registro Civil, cuando el menor por cuestiones de salud no pueda salir del lugar donde ocurrió el nacimiento.
+
+#### Sección Décima Segunda. De las cuotas de recuperación por la prestación de servicios médicos
+
+###### ARTICULO 219.
+
+Por los servicios de control vehicular que se presten respecto a vehículos particulares, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por el refrendo para la vigencia anual de las placas de matrícula o para trámite de alta que comprende la expedición inicial de placas, tarjeta de circulación y calcomanía:
+
+a). Por el refrendo $291.00
+
+b). Por el trámite de alta $495.00
+
+II. Por la expedición del permiso de carga ocasional, por siete días, para que un vehículo de uso particular se destine temporalmente a fines de carga particular $71.00
+
+III. Por expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía:
+
+a). Hasta por 30 días $150.00
+
+b). Hasta por 60 días $300.00
+
+IV. Por reposición o renovación de tarjeta de circulación $220.00
+
+V. Por cambio de propietario, carrocería, motor, domicilio y corrección de datos incluyendo la expedición de tarjeta de circulación $220.00
+
+VI. Por trámite de baja de vehículo $300.00
+
+VII. Por cualquier otro permiso que conceda la autoridad no especificado en este artículo, que no exceda de 90 días $220.00
+
+VIII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $220.00
+
+IX. Por reposición de calcomanía $150.00
+
+Tratándose de vehículos habilitados para personas con discapacidad y vehículos eléctricos, los pagos de contribuciones o derechos a que se refieren las fracciones I, incisos a) y b); III, incisos a) y b), y IV, tendrán una reducción del 50%.
+
+###### ARTICULO 220.
+
+Por los servicios de control vehicular que se presten respecto a vehículos del servicio público, mercantil, privado y particular de transporte de pasajeros y de carga, así como lo relacionado al equipamiento auxiliar de transporte, excepto al servicio público de transporte individual de pasajeros, se pagarán las siguientes cuotas:
+
+I. Por el otorgamiento de concesiones y permisos:
+
+a). Concesión de Servicio Público de Transporte Colectivo de Pasajeros:
+
+1. Por su otorgamiento, por cada vehículo que comprenda $28,037.00
+
+2. Por su prórroga, por cada vehículo que comprenda $10,979.00
+
+3. Por reposición de título-concesión $2,711.00
+
+4. Por la cesión o transmisión de los derechos y obligaciones derivados de una concesión $7,230.00
+
+b). Autorización de Servicio de Transporte Público Metropolitano de Pasajeros:
+
+1. Por su otorgamiento, por cada recorrido de organizaciones y empresas de otras entidades $8,252.00
+
+2. Por cada vehículo adicional de otras entidades que ingresen, por unidad $2,634.00
+
+3. Por la vigencia anual, por cada vehículo $158.00
+
+4. Por cada cajón vehicular autorizado en bases establecidas, por anualidad $356.00
+
+5. Por la realización de estudios técnicos para el establecimiento de recorridos y bases para la prestación del servicio público colectivo metropolitano de pasajeros $571.00
+
+c). Concesiones para el servicio público de transporte de carga en general:
+
+1. Por su prórroga, por cada vehículo que comprenda $10,979.00
+
+2. Por reposición de título concesión $2,711.00
+
+3. Por cada cajón vehicular autorizado en bases establecidas $356.000
+
+4. Por el establecimiento de estación de servicio $1,011.00
+
+5. Por el establecimiento de caseta $1,171.00
+
+6. Por el otorgamiento de concesión de servicio público de transporte de carga en general $14,120.00
+
+d). Permiso:
+
+1. Por su otorgamiento o prórroga, por cada vehículo que comprenda, por año:
+
+1.1. Transporte mercantil de pasajeros y de carga:
+
+a). De valores $1,319.00
+
+b). De mensajería $1,319.00
+
+c). De sustancias tóxicas o peligrosas $1,792.00
+
+d). Especializado de pasajeros y carga y de turismo $1,522.00
+
+e). Grúas $1,522.00
+
+f). Transporte de pasajeros escolar y de personal $1,319.00
+
+1.2. Transporte privado de pasajeros y de carga:
+
+a). De una negociación o empresa $1,319.00
+
+b). De valores $1,319.00
+
+c). De mensajería $1,319.00
+
+d). De sustancias tóxicas o peligrosas $1,694.00
+
+e). Especializado de pasajeros y carga, y de turismo $1,522.00
+
+f). Transporte Privado Escolar $792.00
+
+g). Transporte Privado de Personal $792.00
+
+h). Transporte de Pasajeros Especializado $1,319.00
+
+i). Transporte de Turistas en Circuitos Específicos16,240.00
+
+j). Transporte de Pasajeros en Bicicletas o Motocicletas Adaptadas $526.00
+
+k). Grúas $1,522.00
+
+2. Por su otorgamiento, para el establecimiento y operación en equipamiento auxiliar del servicio de transporte colectivo de pasajeros y por cada cajón vehicular autorizado en bases establecidas, por anualidad $895.00
+
+3. Por la vigencia anual de recorrido, por cada vehículo $470.00
+
+4. Por reposición del Permiso $1,767.00
+
+5. Por la realización de estudios técnicos para el establecimiento de recorridos y bases para la prestación del servicio público de transporte colectivo de pasajeros, y de carga $541.00
+
+II. Autorización y Registro:
+
+1. Por el servicio de transporte de carga particular, por vehículo, por anualidad $786.00
+
+2. Autorización especial para transporte de carga mercantil de mensajería en vehículos de más de 3.5 toneladas $1,319.00
+
+III. Por el trámite de alta que comprende expedición inicial de placas, tarjeta de circulación y calcomanía, así como por su refrendo para la vigencia anual de las placas de matrícula:
+
+a). Tratándose de vehículos de servicio público de transporte:
+
+1. Por el trámite de alta $1,024.00
+
+2. Por el refrendo $742.00
+
+b). Tratándose de vehículos de servicio particular de transporte:
+
+1. Por el trámite de alta $970.00
+
+2. Por el refrendo $703.00
+
+c). Tratándose de servicio de transporte de carga:
+
+1. Por el trámite de alta $1,024.00
+
+2. Por el refrendo $742.00
+
+IV. Por reposición de placas, por cada una:
+
+a). Vehículos de servicio público de transporte $726.00
+
+b). Vehículos de servicio particular de transporte $602.00
+
+c). Vehículos de servicio de transporte de carga $726.00
+
+V. Por la expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por sesenta días naturales $600.00
+
+VI. Por la expedición de permisos para circular con aditamentos a la carrocería $221.00
+
+VII. Por reposición de tarjeta de circulación o calcomanía $149.00
+
+VIII. Por cambio de carrocería, motor o domicilio y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $115.00
+
+IX. Por sustitución de vehículos del servicio público de transporte de pasajeros o del servicio de transporte de carga, en todas sus modalidades, por vehículo $221.00
+
+X. Por la vigencia anual de la concesión o permiso y la revista $1,326.00
+
+XI. Por el trámite de baja de vehículo o la suspensión provisional de la prestación del servicio hasta por un año $380.00
+
+XII. Por la autorización de cesión de derechos de concesión, por cada vehículo que comprenda $7,844.00
+
+XIII. Por la autorización a centros de capacitación para impartir los cursos a transportistas de pasajeros y de carga y a clínicas para aplicar la evaluación médica integral $3,810.00
+
+XIV. Registro de organizaciones y empresas de concesionarios y permisionarios del transporte público de pasajeros colectivo y de carga $3,810.00
+
+XV. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $221.00
+
+###### ARTICULO 221.
+
+Para efectos del artículo anterior, tratándose de vehículos habilitados para personas con discapacidad y vehículos eléctricos, los pagos de contribuciones o derechos a que se refieren las fracciones I, inciso a) números 1, 2 y 3; inciso b), números 1, 2, 3 y 4; inciso c) números 1, 2, 3, 4 y 5; inciso d) números 1, 2, 3, 4 y 5; II, números 1 y 2; III, inciso a) números 1 y 2; inciso b) números 1 y 2; inciso c) números 1 y 2; IV, inciso a), b) y c), V; VII; IX; X y XI tendrán una reducción del 75%.
+
+###### ARTICULO 222.
+
+Por los servicios de control vehicular que se presten respecto a vehículos de servicio público de transporte individual de pasajeros (taxi), se pagarán las cuotas siguientes:
+
+I. Concesión de Servicio Público de Transporte Individual de Pasajeros:
+
+a). Por su otorgamiento, por cada vehículo que comprenda $28,037.00
+
+b). Por su prórroga, por cada vehículo que comprenda $5,832.00
+
+c). Por reposición de título concesión $2,706.00
+
+d). Por la autorización de cesión de derechos de concesión $7,042.00
+
+e). Por la cesión o transmisión de los derechos y obligaciones derivados de una concesión $6,765.00
+
+II. Permiso para el establecimiento de equipamiento auxiliar de transporte en sitios, bases y módulos de encierro $1,009.00
+
+a). Por la realización de estudios técnicos para el establecimiento de bases de servicio $541.00
+
+III. Por el trámite de alta que comprende expedición inicial de placas, tarjeta de circulación y calcomanía, así como por su refrendo para la vigencia anual de las placas de matrícula:
+
+a). Por el trámite de alta $1,023.00
+
+b). Por el refrendo $741.00
+
+IV. Por reposición de placas, por cada una $739.00
+
+V. Por la expedición de permiso para circular sin placas, tarjeta de circulación o calcomanía, hasta por sesenta días naturales $599.00
+
+VI. Por la expedición de permisos para circular con aditamentos a la carrocería $219.00
+
+VII. Por reposición de tarjeta de circulación o calcomanía $150.00
+
+VIII. Por cambio de carrocería, motor o domicilio y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $116.00
+
+IX. Por sustitución de vehículos de servicio público de transporte individual de pasajeros, por vehículo $221.00
+
+X. Por la vigencia anual de la concesión y la revista $1,326.00
+
+XI. Por el trámite de baja de vehículo y suspensión provisional de la prestación del servicio hasta por un año $449.00
+
+XII. Por cada cajón vehicular autorizado en bases establecidas, por anualidad $926.00
+
+XIII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $221.00
+
+XIV. Registro de organizaciones y empresas de concesionarios y permisionarios del transporte público individual de pasajeros $3,810.00
+
+XV. Por la autorización de modificación de cromática oficial de vehículos del transporte público de taxi, por cada unidad $926.00
+
+Tratándose de vehículos habilitados para personas con discapacidad y vehículos eléctricos, los pagos de contribuciones o derechos a que se refieren las fracciones I, incisos a), b), c) y d); II, IV, V, VII, IX, X, XI, XII y XV tendrán una reducción del 75%.
+
+###### ARTICULO 223.
+
+Por los servicios de control vehicular que se presten respecto a remolques, se pagará el derecho conforme a las siguientes cuotas:
+
+I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $872.00
+
+II. Por refrendo para vigencia anual de placa $309.00
+
+III. Por la expedición de permiso para circular sin placa o tarjeta de circulación por sesenta días $299.00
+
+IV. Por reposición de tarjeta de circulación $150.00
+
+V. Por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $116.00
+
+VI. Por el trámite de baja $247.00
+
+VII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $239.00
+
+###### ARTICULO 224.
+
+Por los servicios de control vehicular que se presten respecto a motocicletas y motonetas, se pagarán las siguientes cuotas:
+
+I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $360.00
+
+II. Por refrendo para vigencia anual de placa $239.00
+
+III. Por reposición de tarjeta de circulación $150.00
+
+IV. Por cambio de propietario o domicilio y corrección de datos, incluyendo la expedición de nueva tarjeta de circulación $116.00
+
+V. Por la expedición de permiso para circular sin placa o tarjeta de circulación por treinta días $150.00
+
+VI. Por el trámite de baja de vehículo $247.00
+
+VII. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $116.00
+
+###### ARTICULO 225.
+
+Por los servicios de control vehicular que se presten respecto de bicicletas y motocicletas adaptadas, se pagarán las siguientes cuotas:
+
+I. Por el trámite de alta que comprende expedición inicial de placa y tarjeta de circulación $783.00
+
+II. Por el refrendo para la vigencia anual de placas $93.00
+
+III. Por reposición de tarjeta de circulación $251.00
+
+IV. Por reposición de placa, derivada de pérdida $791.00
+
+V. Por reposición de placa, derivada de mutilación o deterioro $299.00
+
+VI. Por cambio de propietario o domicilio, incluyendo la expedición de nueva tarjeta de circulación $251.00
+
+VII. Por la expedición de permiso para circular sin placa o tarjeta de circulación $282.00
+
+VIII. Por el trámite de baja $154.00
+
+IX. Por cualquier otro servicio distinto a los señalados en las fracciones anteriores $204.00
+
+###### ARTICULO 226.
+
+El pago de los derechos a que se refieren los artículos 219, fracciones IV y VI, 220, fracción XII, 222, fracciones IV y XII, 223, fracción VI, 224, fracciones III y VI y 225, fracciones IV y VIII, no causarán gravamen alguno si se deriva de delito, acreditándolo en el acta de denuncia previamente presentados ante la autoridad competente.
+
+###### ARTICULO 227.
+
+Los derechos por refrendo para vigencia de placas y, en su caso, de tarjeta de circulación de vehículos de uso particular, del servicio público, mercantil, privado y particular de transporte de pasajeros, los remolques, motocicletas y motonetas, deberán pagarse conjuntamente en los mismos plazos establecidos en este ordenamiento, así como en la Ley del Impuesto sobre Tenencia o Uso de Vehículos, en las formas oficiales aprobadas.
+
+###### ARTICULO 228.
+
+Por la expedición o refrendo de placas de demostración:
+
+a). Por la expedición $1,203.00
+
+b). Por el refrendo $934.00
+
+###### ARTICULO 229.
+
+Por los servicios relacionados con licencias y permisos para conducir vehículos, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por expedición o reposición de permiso para conducir vehículos particulares, con vigencia única $298.00
+
+II. Por licencia tipo “A” para conducir vehículos particulares y motocicletas $580.00
+
+III. Por licencia tarjetón tipo "B" para conducir taxis, por su expedición y renovación:
+
+a). Por dos años $722.00
+
+b). Por tres años $1,085.00
+
+IV. Por licencia tarjetón tipo "C" para conducir vehículos de transporte de pasajeros por expedición y renovación:
+
+a). Por dos años $1,045.00
+
+b). Por tres años $1,570.00
+
+V. Por licencia tarjetón tipo “D” para conducir vehículos de transporte de carga, por expedición y renovación:
+
+a). Por dos años $1,045.00
+
+b). Por tres años $1,570.00
+
+VI. Por licencia tarjetón tipo “E” para conducir vehículos de transporte especializado, por expedición y renovación:
+
+a). Por dos años $1,045.00
+
+b). Por tres años $1,570.00
+
+VII. Por reposición de las licencias a que se refieren las fracciones anteriores, se cobrarán las mismas cuotas que se prevén para la expedición de las mismas.
+
+VIII. Por certificación de expedición de licencia $131.00
+
+IX. Por expedición de antecedente de licencia o permiso $131.00
+
+###### ARTICULO 230.
+
+Por el servicio de grúa que se preste como consecuencia de la comisión de infracciones a las disposiciones en materia de tránsito y vialidad, o bien, a solicitud de los conductores de vehículos, los propietarios de los mismos pagarán las siguientes cuotas:
+
+I. Cuando se preste el servicio con vehículos cuya capacidad de arrastre sea de hasta 3.5 toneladas $508.00
+
+II. Cuando se preste el servicio con vehículos cuya capacidad de arrastre sea mayor a 3.5 toneladas $1,015.00
+
+III. Por el servicio de retiro de candado inmovilizador que se utiliza en los casos a que se refiere el artículo 13 del Reglamento de Tránsito Metropolitano, los propietarios de los vehículos pagarán una cuota de $173.00
+
+IV. Por el servicio de retiro de candado inmovilizador colocado por estacionarse en los lugares y rampas designados para personas con discapacidad, los propietarios de los vehículos pagarán una cuota de $784.00
+
+El derecho a que se refiere este artículo se causará por la sola prestación del servicio, con independencia de las sanciones administrativas que procedan.
+
+En caso de que las autoridades fiscales del Distrito Federal, requieran el servicio de grúa para el traslado de vehículos embargados dentro del procedimiento administrativo de ejecución a los almacenes o lugares de resguardo, los servicios se prestarán en el momento de la solicitud y los derechos correspondientes serán pagados cuando concluya dicho procedimiento y la propia autoridad ordene al contribuyente deudor el pago de los gastos que se hayan originado, o en su caso, cuando sean sacados a remate dichos vehículos.
+
+###### ARTICULO 231.
+
+Por el servicio de almacenaje de cualquier tipo de vehículo, se pagará por cada día un derecho, a partir del día siguiente en que entre el vehículo de $52.00, en tanto los propietarios no los retiren.
+
+Si transcurridos dos meses de que el vehículo quedó a disposición del propietario éste no lo retira, las autoridades fiscales procederán a determinar el crédito fiscal adeudado hasta esa fecha y lo notificarán mediante publicación que se haga por una sola vez en la Gaceta Oficial del Distrito Federal y en por lo menos en algún periódico de circulación del Distrito Federal, en la que se señalarán las características del vehículo.
+
+La erogación por el concepto a que se refiere el párrafo anterior será a cargo del propietario del vehículo y tendrá el carácter de crédito fiscal.
+
+Si al mes siguiente a la publicación, no se presenta el propietario del vehículo a pagar o garantizar el crédito fiscal adeudado, se iniciará el procedimiento administrativo de ejecución, trabándose embargo sobre el vehículo y se procederá, en su caso, al remate del mismo, en términos de lo dispuesto en Capítulo I, Título Primero, del Libro Tercero de este Código.
+
+Los propietarios de los vehículos a que se refiere este artículo y el anterior, sólo podrán retirarlos una vez cubierto el monto de los derechos a su cargo.
+
+Quedan exceptuados del cobro de los derechos previstos en este artículo, los propietarios de vehículos cuyo almacenaje se origine por encontrarse a disposición del Agente del Ministerio Público o de la autoridad judicial penal del Distrito Federal.
+
+###### ARTICULO 232.
+
+Las autoridades fiscales, en el registro de ingresos por concepto de los derechos por servicios de control vehicular, deberán registrar el concepto de cobro. Antes del 31 de enero, las autoridades fiscales remitirán a las de transportes y vialidad, un informe de los ingresos por este servicio, correspondiente al ejercicio fiscal del año inmediato anterior, a efecto de que estas últimas efectúen una conciliación entre los servicios prestados y los ingresos percibidos.
+
+#### Sección Décima Tercera. De los derechos por servicios de demolición
+
+###### ARTICULO 233.
+
+Por los servicios de alineamiento de inmuebles sobre la vía pública, se pagará el derecho de alineamiento de inmuebles conforme a una cuota de $30.00 por cada metro de frente del inmueble.
+
+Están exentos del pago de los derechos previstos en este artículo, los inmuebles de dominio público del Distrito Federal y los sujetos al régimen de dominio público de la Federación.
+
+###### ARTICULO 234.
+
+Por los servicios de señalamiento de número oficial de inmuebles se pagará el derecho por número oficial conforme a una cuota de $200.00.
+
+No se pagará el derecho que establece el párrafo anterior, cuando las autoridades competentes del Distrito Federal, ordenen el cambio de número.
+
+Están exentos del pago de derechos establecidos en este precepto, los bienes de dominio público del Distrito Federal y los sujetos al régimen de dominio público de la Federación.
+
+###### ARTICULO 235.
+
+Por los servicios de expedición de certificaciones, licencias, estudios y dictamen que a continuación se indican, se cubrirán por concepto de derechos, las siguientes cuotas:
+
+I. Por certificación de zonificación para uso específico, certificación de zonificación para usos del suelo permitidos y certificación de acreditación de uso del suelo por derechos adquiridos, por cada una $1,000.00
+
+II. Por el dictamen de estudio de impacto urbano que efectúe la autoridad competente, modificación o su prórroga:
+
+a). En los proyectos de vivienda que tengan más de 10,000 metros cuadrados de construcción $2,090.00
+
+b). En los proyectos que incluyan oficinas, comercios, industrias, servicios o equipamientos, por más de 5,000 metros cuadrados de construcción, así como las estaciones de servicio de combustibles y crematorios $4,174.00
+
+III. Por certificado único de uso de suelo específico y factibilidades $794.00
+
+IV. Dictamen de informe preliminar $2,081.00
+
+Tratándose de estudios y dictámenes de incremento de densidad, relacionados con viviendas de interés social, no se estará obligado al pago de los derechos correspondientes.
+
+#### Sección Décima Cuarta. De los derechos de registro de modificaciones a los programas parciales o delegacionales de desarrollo urbano
+
+###### ARTICULO 236.
+
+Por el otorgamiento de concesiones para el uso o goce de inmuebles del dominio público del Distrito Federal, se pagará anualmente, por cada uno, el derecho de concesión de inmuebles conforme a una cuota de $940.00.
+
+Tratándose de inmuebles que se destinen a uso agrícola, ganadero, pesquero o silvícola, la cuota a que se refiere el párrafo anterior se reducirá en un 50%.
+
+Este derecho se pagará independientemente del que corresponda conforme a la Sección Segunda, Capítulo X, Título Tercero del Libro Primero de este Código.
+
+#### Sección Décima Quinta. De los derechos por los servicios de recolección y recepción de residuos sólidos
+
+###### ARTICULO 237.
+
+Por los servicios de almacenaje de bienes en bodegas o locales proporcionados por el Distrito Federal, distintos a los señalados en el artículo 231 de este Código, se pagará el derecho de almacenaje, conforme a las siguientes cuotas:
+
+I. Cuando los bienes ocupen hasta tres metros cuadrados de superficie y hasta tres metros de altura, por día $7.00
+
+II. Por cada metro o fracción que exceda de la superficie o de la altura mencionada, por día $3.00
+
+El derecho de almacenaje se pagará a partir del día siguiente a la fecha de ingreso de los bienes en las bodegas o locales, excepto cuando se trate de bienes que habiendo sido embargados o decomisados y almacenados hubiesen sido rematados por autoridad administrativa o judicial, en cuyo caso, el derecho se pagará a partir del décimo primer día siguiente a la fecha en que se hubiere fincado el remate.
+
+No se pagará el derecho de almacenaje cuando los bienes almacenados sean propiedad del Distrito Federal. El derecho establecido en este artículo se pagará por períodos de diez días vencidos.
+
+#### Sección Décima Sexta. De los derechos por el control de los servicios privados de seguridad
+
+###### ARTICULO 238.
+
+Por los servicios de publicaciones, que preste el Distrito Federal, se pagará el derecho de publicaciones conforme a las siguientes cuotas:
+
+I. Publicaciones en el Boletín Judicial:
+
+a). Hasta 80 palabras $30.00
+
+b). Hasta 120 palabras $44.00
+
+c). Hasta 160 palabras $57.00
+
+d). Hasta 200 palabras $72.00
+
+e). Por mayor número, además de la cuota anterior por cada palabra $0.30
+
+II. Publicaciones en la Gaceta Oficial del Distrito Federal:
+
+a). Por plana entera $1,404.00
+
+b). Por media plana $755.00
+
+c). Por un cuarto de plana $470.00
+
+III. Publicaciones urgentes en la Gaceta Oficial del Distrito Federal:
+
+a). Por plana entera $2,938.00
+
+b). Por media plana $1,578.00
+
+c). Por un cuarto de plana $982.00
+
+Para los efectos de la presente fracción se consideran publicaciones urgentes aquellas que sean realizadas dentro de los 3 días siguientes a la presentación de la solicitud respectiva.
+
+###### ARTICULO 239.
+
+No se pagará el derecho de publicaciones a que se refiere el artículo anterior por las publicaciones en el boletín judicial ordenadas por las dependencias de la Administración Pública del Distrito Federal y las relativas a asuntos que se tramiten por la Defensoría de Oficio del Ramo Civil cuando la parte que ésta patrocine y a quien interese la publicación sea persona de escasos recursos económicos. Tampoco se pagarán por las publicaciones que ordene el poder judicial y tribunales administrativos del Distrito Federal, salvo que se trate de publicaciones relacionadas con un asunto en particular en los que el derecho pueda ser cobrado a la parte interesada.
+
+Asimismo, no se pagará el derecho de publicaciones en la Gaceta Oficial del Distrito Federal cuando sean ordenadas por las dependencias de la Administración Pública del Distrito Federal, salvo que se trate de publicaciones ordenadas en interés de un particular, ni las que ordene la Suprema Corte de Justicia de la Nación, tratándose de resoluciones emitidas en procedimiento de acción de inconstitucionalidad o de controversias constitucionales en que haya sido parte algún órgano de gobierno del Distrito Federal.
+
+#### Sección Décima Séptima. De los derechos por la prestación de otros servicios
+
+###### ARTICULO 240.
+
+Las personas físicas que utilicen los servicios médicos que presta el Distrito Federal pagarán derechos, los que tendrán el carácter de cuotas de recuperación del costo de los servicios y en ningún caso excederán del 70% de dicho costo conforme al Tabulador de Cobro de Derechos que la Secretaría publique en la Gaceta Oficial del Distrito Federal.
+
+El monto de las cuotas citadas, se determinará atendiendo a las condiciones socioeconómicas del contribuyente, estableciéndose al efecto en el Tabulador de Cobro la clasificación de los mismos en tantas categorías como sea necesario.
+
+Quedan exceptuadas del pago de dichas cuotas, las personas cuyos ingresos sean hasta una vez el salario mínimo general de la zona económica a que corresponda el Distrito Federal, vigente en el momento de la prestación del servicio.
+
+La autoridad competente elaborará y aprobará los dictámenes por virtud de los cuales se establezcan las condiciones socioeconómicas de las personas que se mencionan en este artículo.
+
+#### Sección Décima Octava. De los derechos por servicio de información y cartografía catastral
+
+###### ARTICULO 241.
+
+Por los servicios de demolición que preste el Distrito Federal se pagarán derechos equivalentes a la erogación que éste deba hacer por cada metro cuadrado de construcción demolida.
+
+#### Sección Décima Novena. De las autorizaciones y certificaciones en relación al turismo alternativo, árboles y venta de mascotas
+
+###### ARTICULO 242.
+
+Por la inscripción en el Registro de los Planes y Programas de Desarrollo Urbano de las modificaciones y cambios de uso del suelo, dictámenes de homologación de uso del suelo no especificados, constitución de polígonos de actuación, aplicación del sistema de transferencia de potencialidades de desarrollo urbano y determinación del límite de zonas señalados en los Programas Delegacionales y Parciales de Desarrollo Urbano, efectuados a solicitud de los propietarios de los predios o inmuebles involucrados, se cubrirán los derechos de inscripción ante la Tesorería, conforme a una cuota de 4 al millar, en la forma descrita a continuación:
+
+Por la inscripción en el Registro de los Planes y Programas de Desarrollo Urbano de las modificaciones a los Programas Delegacionales o Parciales de Desarrollo Urbano, con fundamento en el artículo 26 de la Ley de Desarrollo Urbano del Distrito Federal, efectuadas a solicitud de particulares propietarios de los predios o inmuebles involucrados, se cubrirán los derechos correspondientes ante la Tesorería, conforme a una cuota de 4 al millar, que se aplicará sobre el valor comercial por m² de la superficie del predio cuyo uso haya sido modificado, con base en el avalúo comercial elaborado por la persona autorizada o registrada ante la autoridad fiscal.
+
+Por la inscripción en el Registro de los Planes y Programas de Desarrollo Urbano de los cambios de uso del suelo a los Programas Delegacionales o Parciales de Desarrollo Urbano, de conformidad con el artículo 74 de la Ley de Desarrollo Urbano del Distrito Federal, efectuados a solicitud de particulares propietarios de los predios o inmuebles involucrados, se cubrirán los derechos correspondientes ante la Tesorería, conforme a una cuota de 4 al millar, que se aplicará sobre el valor de la superficie del predio cuyo uso haya sido cambiado, ya sea a través de un avalúo, o bien, por la determinación del valor de los inmuebles señalada en el último párrafo de este artículo.
+
+Por la inscripción en el Registro de los Planes y Programas de Desarrollo Urbano de los dictámenes de homologación de uso del suelo no especificados en las tablas de uso del suelo de los Programas Delegacionales o Parciales de Desarrollo Urbano, realizados conforme al artículo 49, fracción XVI, del Reglamento Interior, efectuados a solicitud de particulares propietarios de los predios o inmuebles involucrados, se cubrirán los derechos correspondientes ante la Tesorería, conforme a una cuota de 4 al millar, que se aplicará sobre el valor comercial por m2 de la superficie del predio cuyo uso haya sido homologado, con base en el avalúo comercial elaborado por la persona autorizada o registrada ante la autoridad fiscal.
+
+Por la inscripción en el Registro de los Planes y Programas de Desarrollo Urbano de la constitución de polígonos de actuación realizados con fundamento en los artículos 62 y 64 de la Ley de Desarrollo Urbano del Distrito Federal, efectuados a solicitud de particulares propietarios de los predios o inmuebles involucrados, se cubrirán los derechos correspondientes ante la Tesorería, conforme a una cuota de 4 al millar, que se aplicará sobre el valor comercial por m2 de la superficie del (los) predio(s) que integre(n) al polígono, con base en el (los) avalúo(s) comercial(es) elaborado(s) por la persona autorizada o registrada ante la autoridad fiscal.
+
+Por la inscripción en el Registro de los Planes y Programas de Desarrollo Urbano de la aplicación del Sistema de Transferencia de Potencialidades de Desarrollo Urbano, realizado de conformidad con el artículo 50 de la Ley de Desarrollo Urbano del Distrito Federal, efectuado a solicitud de particulares propietarios de los predios o inmuebles receptores, se cubrirán los derechos correspondientes ante la Tesorería, conforme a una cuota de 4 al millar, que se aplicará únicamente sobre el valor comercial de los m2 a adquirir, con base en el avalúo elaborado por la Dirección de Avalúos, dependiente de la Dirección General del Patrimonio Inmobiliario del Gobierno del Distrito Federal.
+
+Por la inscripción de la determinación del límite de zonas de los Programas Delegacionales y Parciales de Desarrollo Urbano, efectuada a solicitud de los propietarios de los predios afectados por los Programas de Desarrollo Urbano conforme a una cuota de 4 al millar que se aplicará únicamente sobre el valor de la superficie del inmueble cuyo uso haya sido cotejado y verificado.
+
+Para la determinación del valor de los inmuebles, como excepción a lo dispuesto en el artículo 22 de este Código, los contribuyentes podrán aplicar los procedimientos y lineamientos técnicos de valuación inmobiliaria.
+
+Cuando en la constitución de un polígono de actuación y/o la aplicación de un sistema de actuación en términos de lo previsto en los artículos 62 y 64 de la Ley de Desarrollo Urbano del Distrito Federal tenga participación el Gobierno del Distrito Federal, quedará exento del pago a que se refiere el párrafo quinto del presente artículo, así como de la obligación contenida en el artículo 49, fracción III, de la Ley de Desarrollo Urbano del Distrito Federal, siempre y cuando exista autorización de la Procuraduría Fiscal.
+
+#### Sección Vigésima. De los Derechos por la Prestación de Servicios de Protección Ciudadana
+
+###### ARTICULO 243.
+
+Por los servicios de recolección, recepción y disposición final de residuos sólidos que generen los establecimientos mercantiles, empresas, fábricas, comerciantes en vía pública, tianguis y mercados sobre ruedas, mercados públicos, centros de abasto, grandes concentraciones comerciales, industrias y similares, así como las dependencias y entidades federales, generadoras de residuos sólidos en alto volumen que presta el Gobierno del Distrito Federal, se pagarán los derechos correspondientes por cada kilogramo que exceda los 50 kilogramos, conforme a las siguientes cuotas:
+
+I. Por servicio de recolección:
+
+a). De residuos sólidos urbanos separados, por cada kilogramo, excepto poda $1.00
+
+b). De residuos de poda, por cada kilogramo $1.83
+
+c). De residuos de manejo especial, por cada kilogramo, excepto construcción $2.60
+
+d). De residuos de construcción, en vehículos registrados y autorizados, por cada kilogramo $0.50
+
+II. Por servicio de recepción:
+
+a). En estaciones de transferencia, por cada kilogramo de residuos sólidos urbanos separados, excepto poda $0.58
+
+b). En estaciones de transferencia, por cada kilogramo de residuos sólidos de poda $1.16
+
+c). En centros de compostaje registrados y autorizados, por cada kilogramo de residuos orgánicos y/o de poda $1.17
+
+III. Por el servicio de recepción de residuos de la construcción:
+
+a). En estaciones de transferencia, por cada kilogramo $0.33
+
+b). En sitio de disposición final autorizado, por cada kilogramo $0.10
+
+IV. Por el servicio de recepción de residuos sólidos urbanos separados en sitios de disposición final, por cada kilogramo, excepto poda $0.25
+
+V. Por el servicio de recepción de residuos no peligrosos de manejo especial en sitios de disposición final, por cada kilogramo $0.50
+
+Para los efectos de estos derechos se considerarán residuos de manejo especial aquellos establecidos en la legislación aplicable.
+
+El servicio de recepción de residuos sólidos no peligrosos se prestará siempre que no se encuentren mezclados con residuos peligrosos.
+
+El pago de estos derechos se hará previamente a la recolección o a la recepción de los residuos, debiendo enterarse por periodos quincenales dentro de los primeros cinco días correspondientes a cada periodo por el que deba efectuarse el pago ante las oficinas autorizadas por la autoridad fiscal, salvo los casos que autorice la Secretaría.
+
+En el caso en que el monto de los derechos causados resulte superior al efectuado conforme a las estimaciones realizadas por el contribuyente, se pagarán las diferencias con los recargos que correspondan conforme al artículo 42 de este Código, dentro de los primeros cinco días siguientes al mes de causación del derecho.
+
+Cuando los comerciantes en vía pública, tianguis y mercados sobre ruedas, mercados públicos y centros de abasto celebren convenios con la autoridad competente para el depósito de la fracción orgánica de los residuos sólidos urbanos generados en alto volumen, excepto aquellos de manejo especial, y realicen el traslado de dichos residuos por cuenta propia a los centros de compostaje o de procesamiento de residuos urbanos orgánicos autorizados por la Secretaría de Obras y Servicios quedarán exentos del pago a que se refiere la fracción II del presente artículo.
+
+La Secretaría de Finanzas celebrará convenios con los Órganos Político-Administrativos a efecto de que una vez determinado el monto mensual recaudado por concepto de los derechos que se detallan en este artículo, participe con el 50% del recurso recaudado a las Delegaciones, mismas que lo destinarán a la adquisición de insumos utilizados en la prestación del servicio de limpia.
+
+###### ARTICULO 244.
+
+Por el pago de las autorizaciones y registro a establecimientos mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de residuos sólidos, se pagará:
+
+I. Por registro $5,278.00
+
+II. Por renovación $1,000.00
+
+III. Por registro de unidad de transporte de residuos sólidos $50.00
+
+#### Sección Vigésima Primera. De los Derechos por la Prestación de Servicios en materia de Protección Civil para el Distrito Federal
+
+###### ARTICULO 245.
+
+Por el otorgamiento de permisos, licencias y autorizaciones, por un año, para prestar servicios o realizar actividades de seguridad privada en el Distrito Federal, así como por su revalidación, conforme a lo establecido en la legislación de la materia para el Distrito Federal, se pagarán derechos de acuerdo a las cuotas que a continuación se establecen:
+
+a). Permisos:
+
+I. Seguridad y protección personal $10,496.00
+
+II. Vigilancia y protección de bienes $9,913.00
+
+III. Custodia, traslado y vigilancia de bienes o valores $11,662.00
+
+IV. Localización e información de personas y bienes $9,330.00
+
+V. Actividades inherentes a la seguridad privada $8,864.00
+
+Por la revalidación anual de los permisos a que se refiere este inciso, se cobrará el mismo monto que se pagó por su expedición.
+
+b). Licencias tipos "A" o "B", para la prestación de servicios de seguridad privada a terceros $233.00
+
+Por la reposición de las licencias a que se refiere el inciso anterior $157.00
+
+c). Autorizaciones a personas físicas o morales, para que realicen actividades de seguridad privada $3,499.00
+
+Por la revalidación anual de las autorizaciones a que se refiere este inciso, se pagará el mismo monto que se pagó por su otorgamiento.
+
+En los casos en que las empresas a que este artículo se refiere, soliciten una modificación o ampliación de los servicios autorizados, se aplicarán las cuotas señaladas en las fracciones anteriores, para cada uno de los supuestos señalados.
+
+###### ARTICULO 246.
+
+Por la expedición de la constancia de información, registro, folio o certificación que proporcione el registro de servicios de seguridad privada, se pagarán derechos por $212.00
+
+###### ARTICULO 247.
+
+Por la expedición de la constancia de certificación de aptitud, idoneidad y confiabilidad, para prestar servicios o realizar actividades de Seguridad Privada, se pagará la cantidad de $349.00
+
+#### Sección Primera. De los derechos por el estacionamiento de vehículos
+
+###### ARTICULO 248.
+
+Tratándose de los servicios que a continuación se enumeran que sean prestados por cualquiera de las autoridades administrativas y judiciales del Distrito Federal y por la Procuraduría General de Justicia del Distrito Federal, se pagarán derechos conforme a las cuotas que para cada caso se indican, salvo en aquellos casos que en otros artículos de este Capítulo se establezcan cuotas distintas:
+
+I. Expedición de copias certificadas:
+
+a). Heliográficas de plano $242.00
+
+b). De planos en material distinto al inciso anterior $244.00
+
+c). De documentos, por cada página tamaño carta u oficio $8.00
+
+d). Expedición de copias simples de los documentos mencionados en los incisos a) y b) $188.00
+
+II. Expedición de copias simples o fotostáticas de documentos, tamaño carta u oficio, excepto los que obren en autos de los órganos judiciales del Distrito Federal y en Agencias del Ministerio Público del Distrito Federal:
+
+a). Copia simple o fotostática, por una sola cara $2.00
+
+b). Copia simple o fotostática en reducción o ampliación, por una sola cara 2.00
+
+III. Por reposición de constancia o duplicado de la misma $35.00
+
+IV. Compulsa de documentos, por página $6.00
+
+V. Por la búsqueda de documento original en los archivos oficiales $55.00
+
+VI. Legalización de firma y sello de documento público $64.00
+
+VII. Apostilla en documento público $64.00
+
+VIII. Constancia de adeudos $115.00
+
+IX. Informe de adeudos $51.00
+
+X. Por certificaciones de no adeudo de contribuciones $58.00
+
+XI. Por certificaciones de pagos a partir del número de cuenta, placa o registro de contribuyente $58.00
+
+XII. Por cualquier otra certificación o expedición de constancias distintas a las señaladas en las fracciones anteriores $115.00
+
+XIII. Por autorización para la práctica de avalúos para efectos fiscales:
+
+a). Por la autorización a personas morales cuyo objeto sea la realización de avalúos $10,755.00
+
+b). Por la revalidación multianual de la autorización a que se refiere el inciso anterior:
+
+1. Por un año $5,736.00
+
+2. Por dos años $11,185.00
+
+3. Por tres años $16,348.00
+
+c). Por la autorización a corredores públicos $5,975.00
+
+d). Por la revalidación anual de la autorización a corredores públicos $3,155.00
+
+e). Por el registro como perito valuador para auxiliar en la práctica de avalúos $4,780.00
+
+f). Por la revalidación anual del registro a que se refiere el inciso anterior $2,868.00
+
+g). Por el registro como perito valuador independiente en la practica de avalúos $9,560.00
+
+h). Por la revalidación anual del registro a que se refiere el inciso anterior $5,306.00
+
+i). Por el examen de materia de valuación $3,700.00
+
+XIV. Materiales complementarios, necesarios para la expedición de información pública, de conformidad con las disposiciones aplicables:
+
+a). Discos flexibles de 3.5”, discos compactos, audiocassettes $15.00
+
+b). Videocasetes $40.00
+
+XV. Por la tramitación de la constitución de la sociedad de convivencia incluido la ratificación y el registro $50.00
+
+XVI. Por los servicios que presta la Dirección General Jurídica y de Gobierno del Órgano Político Administrativo respecto de las modificaciones y/o terminación de la sociedad de convivencia se pagará conforme a lo siguiente:
+
+a). Inscripción de modificación y adición a la sociedad de convivencia $1,688.00
+
+b). Registro del aviso de terminación de la sociedad de convivencia $1,688.00
+
+Las certificaciones a que se refiere la fracción X de este artículo, se emitirán previo ejercicio de las facultades de comprobación de la autoridad fiscal y a petición del contribuyente.
+
+La cuota indicada en la fracción XI de este artículo, comprenderá la totalidad de los registros de pago que se contengan en el sistema computarizado de la Secretaría, por número de cuenta, placa o registro.
+
+Cuando por causas no imputables a los solicitantes de algunos de los servicios a que se refiere este Capítulo fuere necesario reponer o modificar algún registro, documento o trámite, no se pagarán los derechos correspondientes a la reposición o modificación.
+
+No se entenderá que existe prestación de servicios en los términos de la fracción I del presente artículo, cuando las autoridades de la Administración Pública del Distrito Federal lleven a cabo acciones de colaboración en la defensa de los intereses del Gobierno del Distrito Federal, o bien, se trate de asuntos de carácter oficial que impliquen trámites vinculados con los mismos, y por ende, se requiera información o documentación para el cabal cumplimiento de sus funciones.
+
+Los derechos a que se refiere el inciso c) de la fracción I de este artículo, y que sean generados por los servicios que presta el Tribunal, serán destinados al mismo, como ampliación líquida de su presupuesto, los cuales deberán aplicarse íntegramente a la impartición de justicia.
+
+###### ARTICULO 249.
+
+Por la expedición en copia certificada, simple o fotostática o reproducción de información pública, derivada del ejercicio del derecho de acceso a la información pública, se deberán pagar las cuotas que para cada caso se indican a continuación:
+
+I. De copia certificada, por una sola cara $4.00
+
+II. De versión pública, por una sola cara $1.00
+
+III. De copia simple o fotostática, por una sola $1.00
+
+IV. De planos 75.00
+
+V. De discos flexibles de 3.5 $15.00
+
+VI. De discos compactos $15.00
+
+VII. De audiocassettes $15.00
+
+VIII. De videocasetes $40.00
+
+#### Sección Segunda. De los Derechos por el Uso de Suelo
+
+###### ARTICULO 250.
+
+Por los servicios de revisión de datos catastrales en gabinete o mediante levantamientos físico, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por revisión de datos catastrales de gabinete, cuando el inmueble no rebase los 1000 m2 de terreno y/o de construcción, por cada número de cuenta predial $435.00
+
+II. Por revisión de datos catastrales de gabinete cuando el inmueble rebase 1000 m2 de terreno más construcción, por cada número de cuenta predial $870.00
+
+III. Por revisión de datos catastrales mediante levantamiento físico de un inmueble para corrección de uso, tipo, clase, superficie de construcción o superficie de terreno, cuando éste no rebase los 1000 m2 de superficies de terreno más construcción, por cada número de cuenta predial o por predio fusionado $1,248.00
+
+IV. Por revisión de datos catastrales mediante levantamiento físico de inmueble para corrección de uso, tipo, clase, superficie de construcción o superficie de terreno y un uso diferente al pecuario, agrícola, forestal o de pastoreo controlado, se cobrará la cuota establecida en la fracción III de este artículo más una cuota sobre el excedente de los 1000 m2 de $1.248xm²
+
+V. Por revisión de datos catastrales mediante levantamiento de un inmueble para corrección de uso, tipo, clase, superficie de construcción o superficie de terreno, cuando éste rebase los 1000 m2, de superficies de terreno y/o de construcción y tenga un uso pecuario, agrícola, forestal o de pastoreo controlado, se cobrará la cuota establecida en la fracción III de este artículo más una cuota sobre el excedente de los 1000 m² de $0.624xm2
+
+Quedan exentos del pago de servicios de levantamiento físico a que se refiere este artículo, los contribuyentes que soliciten este servicio por primera vez, siempre que se inscriba al padrón catastral el predio objeto a examen.
+
+###### ARTICULO 251.
+
+Por los servicios de información catastral que preste el Distrito Federal, se pagarán los derechos conforme a las siguientes cuotas:
+
+I. Una vez realizada la búsqueda, previo pago de derechos establecidos en la fracción V, del artículo 248 de este Código, se efectuará la expedición de copias fotostáticas de planos catastrales y de fotografías aéreas de:
+
+a). Cartografía catastral a nivel de manzana con la delimitación de predios y con información del predio de interés a escala 1:1,000 por cada hoja $183.00
+
+b). Planos catastrales correspondientes a un predio, con acotaciones a la escala que se requiera $318.00
+
+c). De fotografía aérea de tamaño de 23 x 23 centímetros, a escala 1:4,500 o 1:10,000, por cada hoja $1.50
+
+En caso de que la información referida se requiera en copias certificadas, deberá adicionarse el monto señalado en el artículo 248, fracción I, inciso b) del presente Código.
+
+###### ARTICULO 252.
+
+La revisión de datos y levantamientos topográficos, cartografía e información a que se refiere esta Sección, sólo producirán efectos fiscales o catastrales.
+
+Se excluye de la prestación de estos servicios, la información respecto de la que el personal oficial debe guardar absoluta reserva, en los términos del artículo 102 de este Código.
+
+#### Sección Tercera. De los Derechos por el Uso o Aprovechamiento de Inmuebles
+
+###### ARTICULO 253.
+
+Los permisos y autorizaciones para actividades culturales, deportivas y recreativas que se realicen en áreas de valor ambiental y áreas naturales protegidas se incrementarán en un 2% al monto establecido en el presente Código.
+
+Por el pago de permisos por la prestación de servicios de turismo alternativo a los que se refieren la Ley de Turismo del Distrito Federal en el suelo de conservación se pagará la cuota de $2,068.00, y cuando se trate de la prestación de servicios de turismo alternativo en áreas de valor ambiental y áreas naturales protegidas se pagará la cuota de $3,448.00
+
+Por el pago de autorizaciones del estudio de capacidad de carga para turismo alternativo se pagará la cuota de $1,379.00
+
+Por el pago de certificaciones de personal calificado para prestar servicios de turismo alternativo se pagará la cuota de $689.00
+
+###### ARTICULO 254.
+
+Para las autorizaciones por el derribo, poda, trasplante, remoción y retiro de árboles ubicados en bienes de dominio público o bienes particulares, se pagará la cuota de $206.00.
+
+###### ARTICULO 255.
+
+Por los servicios para las autorizaciones y certificaciones a las que se refiere la Ley de Protección a los Animales del Distrito Federal, se pagarán las siguientes cuotas:
+
+I. Por la expedición de certificados de venta de animales en establecimientos comerciales, ferias y exposiciones que se dedican a la venta de mascotas $206.00
+
+II. Por la expedición de certificados veterinarios de salud por la venta de mascotas $138.00
+
+III. Liberación de animales en centros de control animal $35.00
+
+IV. Autorización para la cría de animales $138.00
+
+V. Certificados para el adiestramiento de perros de seguridad $689.00
+
+VI. Por el servicio de monta o tiro deportivo $689.00
+
+El pago de estos servicios será anual y los montos recibidos serán destinados al fondo para la protección de los animales que la Ley de Protección a los Animales prevé.
+
+#### Sección Cuarta. Derechos de Descarga a la Red de Drenaje
+
+###### ARTICULO 256.
+
+Por los servicios de Protección Ciudadana, se pagarán derechos conforme a las cuotas que a continuación se establecen:
+
+A) Del Heroico Cuerpo de Bomberos del Distrito Federal:
+
+I. Por el visto bueno para la celebración de espectáculos públicos masivos en lo relativo a extintores, señalización para el caso de incendio y sismos, rutas de evacuación y salidas de emergencia $2,639.00
+
+II. Por la supervisión de campo en los lugares donde se celebren espectáculos públicos masivos $3,695.00
+
+B) De la Secretaría de Seguridad Pública del Distrito Federal:
+
+Por los servicios que preste la Secretaría de Seguridad Pública, con motivo de espectáculos públicos celebrados por particulares, que afecten las funciones de control, supervisión y regulación de tránsito de personas y de vehículos en la vía pública, se pagarán los derechos que se indican:
+
+Concepto Cuota mínima Cuota máxima
+
+ELEMENTOS
+
+DE SEGURIDAD $750.00 $850.00
+
+Vehículo Cuota por unidad
+
+PATRULLA $500.00
+
+GRUAS $750.00
+
+MOTOCICLETAS $250.00
+
+No se entenderá que existe prestación de servicios en los términos de este artículo, cuando las autoridades de la Administración Pública del Distrito Federal, celebren espectáculos públicos masivos y, por ende, se requiera el visto bueno y la supervisión de campo en el lugar respectivo o de la prestación de servicios de la Secretaría de Seguridad Pública.
+
+###### ARTICULO 257.
+
+El pago de los derechos de servicios de prevención de incendios, de conformidad con lo dispuesto en la normatividad de la materia, será conforme a las siguientes tarifas:
+
+Concepto Tarifa mínima Tarifa máxima
+
+por turno por turno
+
+ELEMENTOS
+
+BOMBEROS $734.00 $785.00
+
+SUPERVISORES $796.00 $884.00
+
+Vehículo Tarifa por unidad por turno
+
+PATRULLA $240.00
+
+CAMIONETA
+
+EQUIPADA $503.00
+
+CAMIÓN BOMBA $2,917.00
+
+CAMIÓN PIPA $385.00
+
+HAZMAT $1,502.00
+
+CAMIÓN DE VOLTEO $476.00
+
+CAMIONETAS DE 31/2
+
+TONELADAS $229.00
+
+BOBCAT $366.00
+
+VEHÍCULO DE
+
+RESCATE $3,122.00
+
+Los derechos a los que se refiere el artículo 256, inciso A), así como los previstos en el presente artículo, se destinarán al Heroico Cuerpo de Bomberos del Distrito Federal, como ampliación liquida a su presupuesto y deberán aplicarse íntegramente a la adquisición de insumos necesarios para la prestación de su servicio.
+
+#### Sección Quinta. De los derechos por el uso de la vía pública
+
+###### ARTICULO 258.
+
+Por los servicios que preste la Secretaría de Protección Civil del Distrito Federal, se pagarán derechos conforme a las cuotas que a continuación se establecen:
+
+I. Por la inspección y evaluación de los programas internos de protección civil.
+
+1. Conjuntos habitacionales, vivienda plurifamiliar y unidades habitacionales $5,000.00
+
+No causará el pago de estos derechos las viviendas consideradas de interés social y popular.
+
+2. Inmuebles en los que de acuerdo a la naturaleza de su giro y actividad que realizan deba elaborarse un programa interno de protección civil en términos del artículo 47 de la Ley de Protección Civil $8,000.00
+
+II. Por la autorización de programas especiales de protección civil para la realización de espectáculos públicos en el Distrito Federal, para promotores particulares, se pagará:
+
+Aforo del evento Derechos
+
+De 2,500 a 10,000 asistentes $3,000.00
+
+De 10,001 asistentes en adelante $4,500.00
+
+III. Por servicios de supervisión, apoyo y vigilancia por parte del personal especializado en materia de protección civil, durante el desarrollo del espectáculo público en el Distrito Federal, se pagará conforme a las siguientes tarifas:
+
+Concepto Derechos
+
+Elemento operativo $445.00
+
+Supervisor $625.00
+
+Vehículo de Emergencia $250.00
+
+IV. Por la expedición y renovación de registro para terceros acreditados en materia de protección civil, se pagará el derecho conforme a las siguientes cuotas:
+
+a). Por la expedición y renovación de registro como tercero acreditado persona física:
+
+1. Por la expedición en la modalidad de la elaboración de programas internos y/o especiales en materia de protección civil $2,500.00
+
+1.1. Por su renovación $1,500.00
+
+2. Para impartir capacitación en materia de protección civil $1,500.00
+
+2.1. Por su renovación $1,000.00
+
+b). Por la expedición y renovación de registro como tercero acreditado persona moral:
+
+1. Por la expedición en la modalidad de elaboración de programas internos y/o especiales en materia de protección civil $3,500.00
+
+1.1. Por su renovación $2,500.00
+
+2. Para impartir capacitación en materia de protección civil $2,500.00
+
+2.1. Por su renovación $1,500.00
+
+3. Como empresa de consultoría y estudios de riesgo vulnerabilidad $3,500.00
+
+3.1. Por su renovación $2,500.00
+
+c). Por la aplicación de examen de conocimiento, por cada modalidad de registro solicitado $300.00
+
+d). Para la expedición de registro como empresa de mantenimiento y recarga de extintores $6,000.00
+
+Por su renovación $4,000.00
+
+e). Para la expedición de registro a las organizaciones civiles $300.00
+
+Por su renovación $200.00
+
+### CAPITULO III. De los Recursos Crediticios
+
+#### Sección Primera. De la recepción y concentración de fondos y valores
+
+###### ARTICULO 259.
+
+Por el estacionamiento de vehículos en la vía pública bajo el esquema de parquímetros se pagará el derecho de estacionamiento conforme a una cuota de $2.00 por cada quince minutos.
+
+El pago de este derecho se hará mediante relojes marcadores, tarjetas o cualquier otro sistema que determinen las autoridades fiscales. El horario será establecido por la Secretaría y será publicado en la Gaceta Oficial del Distrito Federal.
+
+#### Sección Segunda. De la custodia y administración de fondos y valores
+
+###### ARTICULO 260.
+
+Tratándose de establecimientos mercantiles que extiendan sus servicios a la vía pública en los términos de la Ley para el Funcionamiento de Establecimientos Mercantiles, se pagará una cuota mensual por cada metro cuadrado que ocupen, equivalente al 1% del valor del suelo para las colonias catastrales en el Distrito Federal y tipo de Corredor establecidos en este Código. Los derechos a los que se refiere este artículo se destinarán a la delegación correspondiente como ampliación líquida a sus presupuestos.
+
+###### ARTICULO 261.
+
+Están obligadas a pagar el derecho por el uso o aprovechamiento de inmuebles, las personas físicas y las morales que usen o gocen inmuebles del dominio público del Distrito Federal, conforme a la tasa del 5% anual del valor del inmueble.
+
+No se estará obligado al pago establecido en esta Sección, cuando se usen o gocen inmuebles señalados en otras secciones del mismo Capítulo. Tratándose de bienes de uso común sólo se estará obligado al pago del derecho cuando se tenga concesión para un aprovechamiento especial o cuando, de hecho dicho aprovechamiento se lleve a cabo sin tener la concesión.
+
+Quedan exceptuadas de esta Sección, las concesiones y permisos administrativos temporales revocables, que se otorguen y se cubran conforme a lo establecido en la Ley del Régimen Patrimonial y del Servicio Público.
+
+###### ARTICULO 262.
+
+Para los efectos del artículo anterior, el valor del inmueble del Distrito Federal será el que resulte del avalúo practicado por la autoridad.
+
+###### ARTICULO 263.
+
+El derecho por el uso o aprovechamiento de inmuebles, se calculará por ejercicios fiscales. Los contribuyentes efectuarán pagos provisionales mensuales a más tardar el día 10 de cada mes mediante declaración que presentarán en las oficinas autorizadas. El pago provisional será una doceava parte del monto del derecho calculado al año.
+
+###### ARTICULO 264.
+
+Están obligados al pago de los derechos establecidos en esta sección, los locatarios de los mercados públicos del Distrito Federal, por el uso y utilización de los locales que al efecto les sean asignados por la autoridad competente, así como por las demás instalaciones y servicios inherentes, a razón de $14.00 pesos por metro cuadrado, mismos que se causarán mensualmente y se pagarán por periodos semestrales, dentro del mes siguiente al semestre de que se trate.
+
+El suministro de agua hasta por 30 m3 y energía eléctrica están comprendidos dentro de los servicios inherentes a que tienen derecho los locatarios que cubran la contribución prevista en el párrafo anterior, siempre y cuando el consumo de agua y energía eléctrica se destine para actividades acordes con el giro autorizado.
+
+Cuando los contribuyentes cumplan con la obligación de pagar la contribución establecida en este artículo, en forma anticipada, tendrán derecho a una reducción, en los términos siguientes:
+
+I. Del 10%, cuando se efectúe el pago del primer semestre del año, durante los meses de enero y febrero del mismo ejercicio;
+
+II. Del 10%, cuando se efectúe el pago del segundo semestre del año, durante los meses de julio y agosto del mismo ejercicio, y
+
+III. El porcentaje de reducción anterior, también se otorgará al contribuyente que efectúe el pago del segundo semestre del año, durante los primeros dos meses del mismo ejercicio.
+
+Los comerciantes de las concentraciones, pagarán el derecho de uso y utilización de los locales que ocupan, en los mismos términos del primer párrafo de este artículo.
+
+Los derechos a que se refiere este artículo, se destinarán a la Delegación correspondiente, como ampliación líquida de sus presupuestos y deberán aplicarse íntegramente a la infraestructura de mantenimiento de los mercados públicos y concentraciones de que se trate.
+
+###### ARTICULO 265.
+
+Están obligadas al pago de estos derechos, las personas físicas y morales que utilicen agua de fuentes diversas a la red de suministro de agua potable del Distrito Federal, por las descargas de este líquido en la red de drenaje, este concepto incluye la conservación y el mantenimiento de la infraestructura hidráulica destinada a las descargas, así como la conducción de las mismas.
+
+I. En el caso de que la fuente de abastecimiento de agua cuente con medidor, el monto del derecho de descarga se calculará tomando como base el 80% del volumen de agua extraída, al que se le aplicará la cuota que corresponda por metro cúbico a que se refiere la tabla siguiente:
+
+Límite Límite Cuota Cuota Adicional
+
+Inferior Superior Mínima por m3 excedente
+
+del Límite inferior
+
+0.0 10 $111.71 $0.00
+
+MAS DE 10 20 223.25 0.00
+
+MAS DE 20 30 335.09 0.00
+
+MAS DE 30 60 335.09 16.59
+
+MAS DE 60 90 832.79 21.57
+
+MAS DE 90 120 1,479.89 26.58
+
+MAS DE 120 240 2,277.29 31.53
+
+MAS DE 240 420 6,060.89 36.53
+
+MAS DE 420 660 12,635.39 41.49
+
+MAS DE 660 960 22,592.99 46.74
+
+MAS DE 960 1500 36,614.99 52.35
+
+MAS DE 1500 En adelante 64,883.99 53.70
+
+II. El usuario que haya optado por instalar dispositivos permanentes de medición continua en las descargas a la red de drenaje del agua que provenga de fuentes diversas a la red de suministro del Distrito Federal, pagará los derechos de descarga de acuerdo a la cuota que corresponda por metro cúbico a que se refiere la tabla anterior.
+
+El usuario que haya optado por no instalar dispositivos permanentes de medición continúa en las descargas a la red de drenaje, tendrá la obligación de solicitar a la autoridad competente la instalación del aparato medidor que determine la cantidad de agua que proviene de fuentes diversas, por lo cual deberá cubrir el pago de los derechos previstos en el artículo 181 de este Código, por la instalación del mismo.
+
+III. Cuando la fuente de abastecimiento de agua, carezca de medidor, no funcione o exista la imposibilidad de efectuar la lectura y no sea posible determinar el volumen extraído, se aplicará la cuota que corresponda de acuerdo a la tarifa establecida en la siguiente tabla:
+
+Diámetro del cabezal Cuota Bimestral
+
+del pozo en mm.
+
+DE 20 A 26 $22,460.30
+
+DE 27 A 32 34,578.69
+
+DE 33 A 39 50,587.11
+
+DE 40 A 51 89,647.68
+
+DE 52 A 64 134,469.06
+
+DE 65 A 76 192,099.77
+
+DE 77 A 102 390,601.35
+
+DE 103 A 150 1,498,378.73
+
+DE 151 A 200 2,343,615.09
+
+DE 201 A 250 2,343,615.09
+
+DE 251 A 300 3,374,548.88
+
+DE 301 en adelante 3,552,458.58
+
+IV. En caso de abastecimiento de agua por medio de carro tanque la tarifa de descarga se calculará conforme al 80% de la cuota fija establecida para el diámetro de la toma de agua potable que se encuentra en el inmueble.
+
+V. En el caso de que el usuario cuente con sistemas de tratamiento y aprovechamiento de sus aguas residuales y no descargue a la red de drenaje, podrá optar por solicitar la cancelación de la instalación hidráulica de drenaje.
+
+Cuando la descarga sea menor al 80% del volumen de agua extraída, los contribuyentes podrán optar por instalar dispositivos permanentes de medición continúa en las descargas a la red de drenaje del agua que provenga de fuentes diversas a la red de suministro del Distrito Federal, quedando bajo su responsabilidad el costo de las adaptaciones y medidores que se requieran para dicha instalación, así como su operación y mantenimiento.
+
+Los contribuyentes que opten por lo señalado en el párrafo anterior, instalarán sistemas de medición en la descarga de aguas residuales, los cuales deberán contar con las siguientes características mínimas: el medidor será del tipo electrónico con indicador de lectura instantánea de flujo y totalizador de volumen, en el caso de que su capacidad de almacenamiento sea muy restringida, se deberá contar con un registrador de datos (equipo accesorio de almacenamiento de datos conocido como Data Logger), para almacenar lecturas hasta por un tiempo mínimo de 6 meses, mediante el cual la información será descargada por un equipo de adquisición de datos (computadora), con su software correspondiente.
+
+El contribuyente también podrá implementar una conexión directa de su registrador de datos hacia una computadora (que hará la función de Data Logger), con el software correspondiente para poder descargar los datos almacenados.
+
+En caso de que el contribuyente ejerza la opción de instalar el sistema de medición en su descarga, deberá de solicitar por escrito al Sistema de Aguas, la validación del dispositivo de medición en la descarga, durante el mes de enero de cada año.
+
+El Sistema de Aguas determinará presuntivamente el volumen de la descarga mediante la lectura del medidor instalado en la descarga, por el personal del Sistema de Aguas. A los usuarios con sistema de medición en sus descargas, se les asignará una cuenta por cada descarga y el pago deberá hacerse por cada una.
+
+El Sistema de Aguas podrá verificar en todo momento la precisión de los dispositivos instalados, y ordenar al contribuyente realizar las modificaciones que se requieran, a fin de que los mismos midan correctamente las descargas a la red de drenaje.
+
+En el caso de que el personal del Sistema de Aguas, al revisar la operación de los medidores instalados en la descarga, y éste no se encuentre en precisión (no mida correctamente el volumen de agua descargada), el contribuyente deberá pagar los derechos correspondientes en base al 80% del volumen extraído del pozo por el bimestre o bimestres en que esto haya ocurrido, hasta que la falla haya sido corregida.
+
+Cuando el contribuyente tenga un sistema de drenaje combinado y su sistema de medición de descarga registre los volúmenes de agua pluvial durante el período de lluvias, así como de otra fuente de abastecimiento, deberá de realizar las adecuaciones a su sistema de drenaje a fin de separar las aguas residuales que causan el derecho de descarga de las pluviales, en caso contrario deberán de pagar los volúmenes que registre su sistema en su totalidad.
+
+Tratándose de inmuebles que cuenten con más de un dispositivo permanente de medición continua y con número de cuenta, o bien, cuando éstos sirvan a inmuebles colindantes de un mismo contribuyente, se aplicará la tarifa correspondiente a la suma de las descargas de dichas cuentas. Los contribuyentes al determinar, declarar y pagar los derechos de descarga a la red de drenaje o la autoridad al emitir las boletas, aplicarán el procedimiento anterior una vez obtenido el monto del derecho a pagar, éste será prorrateado entre el número de dispositivos permanentes de medición o cuentas que sirvieron para la sumatoria del volumen de descargas, de acuerdo a los metros cúbicos del volumen de descargas de cada una.
+
+###### ARTICULO 266.
+
+Los contribuyentes de los derechos de descarga a la red de drenaje, tienen las siguientes obligaciones:
+
+I. Solicitar a Sistema de Aguas, el registro al padrón de los derechos de descarga a la red de drenaje;
+
+II. Conservar los dispositivos permanentes de medición continúa en condiciones adecuadas de operación;
+
+III. Permitir el acceso a las personas autorizadas para efectuar y verificar la lectura a los dispositivos de medición instalados;
+
+IV. Formular declaraciones, en los casos que proceda, hasta en tanto no presenten el aviso de baja al padrón;
+
+V. Enviar mensualmente la información almacenada en el equipo accesorio en el formato que Sistema de Aguas, designe para el manejo de los datos y su posterior análisis;
+
+VI. Realizar la correcta calibración de sus equipos de medición una vez al año, empleando para ello un Laboratorio o Institución de prestigio en el ramo;
+
+VII. Enviar al Sistema de Aguas el comprobante correspondiente de la calibración (incluyendo la curva de calibración) efectuada al equipo de medición, en el primer mes del año siguiente, para poder validar su dispositivo de medición en la descarga;
+
+VIII. Avisar por escrito al Sistema de Aguas del mantenimiento que se tenga que dar al equipo de medición, ya sea por su uso normal o por cualquier falla cuando menos una semana antes cuando se trate de mantenimiento programado y de 3 días hábiles posteriores cuando se trate de un evento extraordinario que se origine y que no permita tomar la lectura correspondiente. En este último caso, el usuario pagará estos derechos con el promedio de los últimos tres bimestres anteriores a aquél en que se presentó la falla del medidor de descarga, y
+
+IX. Solicitar por escrito la baja en el padrón de derechos de descarga una vez que el pozo o los pozos han sido segados de acuerdo con la normatividad vigente en la materia, acompañada por el acta de cancelación del aprovechamiento subterráneo expedida por la Comisión Nacional del Agua, así como una constancia de adeudos por concepto de los Derechos de Descarga.
+
+###### ARTICULO 267.
+
+La determinación del derecho a que se refiere el artículo 265 de este Código, se hará por períodos bimestrales. La autoridad fiscal enviará la boleta respectiva, debiendo pagarse este derecho dentro del mes siguiente al bimestre que se declara. En el caso de los contribuyentes que opten por la autodeterminación, deberán pagar este derecho dentro del mismo periodo.
+
+Las boletas señaladas en el párrafo anterior serán enviadas mediante correo ordinario al domicilio del usuario, siendo obligación de los contribuyentes que no las reciban, solicitarlas en las oficinas fiscales autorizadas, ya que la falta de recepción de las mismas no los libera de la obligación de efectuar el pago dentro del plazo establecido para tal efecto, ni de los recargos y sanciones, que en su caso procedan.
+
+Para los efectos de esta Sección, será aplicable en lo conducente, lo establecido en la Sección Primera del Capítulo IX.
+
+###### ARTICULO 268.
+
+Las autoridades fiscales mantendrán un padrón actualizado de contribuyentes de derechos de descarga a la red de drenaje, y deberán llevar un expediente en forma impresa o medio magnético del historial general de cada contribuyente incluyendo el registro de sus pagos.
+
+En caso de que el contribuyente omita el pago de los derechos correspondientes, el Sistema de Aguas podrá suspender la descarga de aguas residuales, en los términos de la fracción III del artículo 48 de la Ley de Aguas del Distrito Federal.
+
+###### ARTICULO 269.
+
+Por la expedición del Permiso de Filmación en la vía pública, se pagarán derechos por día conforme a las siguientes cuotas:
+
+a) Filmación en ciclovías $528.00
+
+b) Filmación en vías de tránsito peatonal $528.00
+
+c) Filmación en vías primarias de tránsito vehicular $2,639.00
+
+d) Filmación en vías secundarias de tránsito vehicular $1,320.00
+
+e) Filmación urgente en vías de tránsito vehicular $5,278.00
+
+f) Modificación de Permiso $528.00
+
+g) Prórroga de Permiso $528.00
+
+El pago de los derechos previstos en este artículo aumentará en cincuenta por ciento, cuando la filmación solicitada se lleve a cabo en el perímetro vial conformado por Eje Central Lázaro Cárdenas, José María Izazaga y su continuación San Pablo, Anillo de Circunvalación y su continuación Vidal Alcocer, Peña y Peña y su continuación Apartado y República de Perú; así como en el perímetro vial constituido por Avenida Hidalgo, Doctor Mora, Avenida Juárez y Eje Central Lázaro Cárdenas.
+
+Un cincuenta por ciento de los derechos correspondientes a este artículo se destinarán para la operación de la Comisión de Filmaciones de la Ciudad de México como recursos de aplicación automática.
+
+### CAPITULO IV. De los Ingresos Derivados de la Coordinación Fiscal
+
+###### ARTICULO 270.
+
+Las personas físicas propietarias o poseedoras de viviendas de interés social o vivienda popular, adquiridas con créditos otorgados dentro de los programas de vivienda oficiales, tendrán derecho a una reducción en el pago del Impuesto Predial, de tal manera que sólo se realice el pago establecido como cuota fija para el rango A, en la fracción II del artículo 130 de este Código.
+
+Para lo anterior, se deberá acreditar que las viviendas se adquirieron con créditos otorgados dentro de los programas de vivienda oficiales, desarrollados por el Instituto del Fondo Nacional para la Vivienda de los Trabajadores; Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Fideicomiso de Vivienda, Desarrollo Social y Urbano; Fondo Nacional de Habitaciones Populares; Fideicomiso de Recuperación Crediticia de la Vivienda Popular; Instituto Nacional para el Desarrollo de la Comunidad y de la Vivienda Popular; Programa de Vivienda Casa Propia; Fideicomiso Programa Casa Propia; Programa Emergente de Viviendas Fase II; Programa de Renovación Habitacional Popular; Caja de Previsión de la Policía Preventiva del Distrito Federal; Caja de Previsión para Trabajadores a Lista de Raya del Distrito Federal; Instituto de Vivienda del Distrito Federal, y los organismos u órganos que los hayan sustituido o los sustituyan.
+
+Asimismo, también se deberá acreditar que el contribuyente es propietario o poseedor del inmueble en que habite, por el que se le haya otorgado el crédito para su adquisición.
+
+###### ARTICULO 271.
+
+Los poseedores de inmuebles que se encuentren previstos en los programas de regularización territorial del Distrito Federal, tendrán derecho a una reducción equivalente al 80%, respecto de las contribuciones a que se refieren los artículos 112, 126, 185, 187, 188, 233, 234, 248, fracciones I, II, III, IV y V, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código.
+
+La reducción a que se refiere este artículo, con excepción de las contribuciones que se contemplan en los artículos 112, 126 y 185 de ese Código, también se le otorgará a las personas que hayan regularizado su propiedad dentro de los programas de regularización territorial del Distrito Federal, y tengan la necesidad de llevar a cabo una rectificación de la escritura pública correspondiente.
+
+Tendrán derecho a una reducción equivalente al 80% de los derechos establecidos en el Capítulo IX de la Sección Quinta del Título Tercero del Libro Primero de este Código, quien teniendo un título válido previo a la expropiación del inmueble de que se trate hasta 1997, proceda a tramitar la inscripción de la leyenda de exceptuado ante el Registro Público de la Propiedad y de Comercio del Distrito Federal.
+
+La reducción por concepto del Impuesto Predial, se dejará de aplicar, cuando el inmueble de que se trate sea regularizado en cuanto a la titularidad de su propiedad.
+
+Quedan excluidos de los beneficios a que se refiere el párrafo primero, los propietarios de otros inmuebles o que ya tengan algún título de propiedad distinto al que solicitan se regularice.
+
+Para la obtención de la reducción contenida en este artículo, los contribuyentes deberán acreditar su calidad correspondiente por medio de la documentación oficial respectiva.
+
+###### ARTICULO 272.
+
+Los propietarios de vivienda cuya construcción se encuentre irregular, tendrán derecho a una reducción equivalente al 55% por concepto de los derechos correspondientes a las licencias relativas a las construcciones, ampliaciones o modificaciones que se regularicen.
+
+Para la obtención de la reducción contenida en este artículo, los contribuyentes deberán cumplir con lo siguiente:
+
+I. Acreditar la presentación de su valor catastral y pago del Impuesto Predial, del año en curso;
+
+II. Que sean inmuebles ubicados dentro del área urbana del Distrito Federal destinados a vivienda en su totalidad o en forma preponderante, cuando la superficie destinada a vivienda no sea inferior al 80% de la superficie total, siempre que el número de viviendas construidas en un mismo inmueble no exceda de 40, ya sea en forma horizontal o vertical, y
+
+III. En el caso de construcciones de vivienda plurifamiliar que tengan más de dos niveles, además de cumplir con lo dispuesto en las fracciones I y II de este artículo, deberán acreditar que presentaron ante la autoridad competente el dictamen de seguridad estructural suscrito por un Director Responsable de Obra o por un Corresponsable en Seguridad Estructural, según corresponda de conformidad con el Reglamento de Construcciones para el Distrito Federal, acompañando dos juegos de los planos arquitectónicos (plantas, corte y fachada).
+
+###### ARTICULO 273.
+
+Los propietarios o adquirentes de los inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia, el Instituto Nacional de Bellas Artes o por la Secretaría de Cultura del Distrito Federal, y que los sometan a una restauración o remodelación, tendrán derecho de una reducción equivalente al 70%, respecto de las contribuciones a que se refieren los artículos 112, 126, 185, 188 y 235, así como los derechos establecidos en el Capítulo IX de la Sección Quinta del Título Tercero, del Libro Primero de este Código.
+
+Para la obtención de la reducción contenida en este artículo, los contribuyentes deberán presentar el Certificado Provisional de Restauración o, en su caso, la prórroga del referido Certificado, emitidos previamente por la Secretaría de Desarrollo
+
+Urbano y Vivienda, y acreditar que el plazo que dure la remodelación o restauración del inmueble correspondiente no excederá de doce meses y que el monto de la inversión es al menos el 10% del valor de mercado del inmueble.
+
+Las reducciones contempladas en este artículo procederán sólo por el plazo que dure la remodelación o restauración del inmueble correspondiente, de conformidad con lo señalado en el punto anterior.
+
+Las reducciones que se otorguen con base en este precepto, no excederán la tercera parte de la inversión realizada, y tendrán efectos provisionales hasta en tanto el contribuyente exhiba el Certificado Definitivo de Restauración, con el que se acredite el término de la restauración o remodelación respectiva.
+
+En el caso de inmuebles ubicados dentro del perímetro A del Centro Histórico de la Ciudad de México, tanto el Certificado Provisional de Restauración, la prórroga del mismo, así como el Certificado Definitivo de Restauración serán emitidos por la Secretaría de Desarrollo Urbano y Vivienda en coordinación con la Autoridad del Centro Histórico.
+
+###### ARTICULO 274.
+
+Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia o por el Instituto Nacional de Bellas Artes y Literatura, y que los habiten y no los utilicen para uso comercial alguno, tendrán derecho a una reducción equivalente al 50%, respecto del Impuesto Predial, sin que en ningún caso el monto a pagar sea inferior a la cuota fija establecida para el rango A, en la fracción II del artículo 130 de este Código.
+
+Para lo anterior, el contribuyente deberá presentar lo siguiente:
+
+I. El certificado del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura, en el que se establezca que el inmueble está declarado o catalogado como monumento histórico o artístico, así como copia del mismo para su cotejo;
+
+II. Un comprobante a satisfacción de la autoridad, que acredite que el inmueble es habitado por su propietario. En el caso de inmuebles ubicados dentro del perímetro A del Centro Histórico de la Ciudad de México, dicho comprobante será emitido por la Autoridad del Centro Histórico, y
+
+III. La declaración fiscal que corresponda.
+
+###### ARTICULO 275.
+
+Las personas físicas o morales que tengan por objeto desarrollar nuevos proyectos inmobiliarios, preponderantemente de servicios o comerciales, o la restauración y rehabilitación de inmuebles ubicados dentro de los perímetros A y B del Centro Histórico, tendrán derecho a una reducción equivalente al 60%, respecto de las contribuciones a que se refieren los artículos 185, 186, 187, 189, 233, 234 y 235, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
+
+Para la obtención de la reducción contenida en este artículo, los contribuyentes deberán presentar la constancia que emita la Secretaría de Desarrollo Urbano y Vivienda en la que conste que se desarrollará el proyecto inmobiliario correspondiente o la restauración y/o rehabilitación del inmueble de que se trate.
+
+La reducción a que se refiere este precepto, tendrá efectos provisionales, hasta en tanto el contribuyente exhiba la Constancia definitiva emitida por la Secretaría de Desarrollo Urbano y Vivienda, con la que se acredite que se cumplió con lo inicialmente manifestado.
+
+Las reducciones previstas en este artículo no serán aplicables en aquellos casos en que se otorgue el uso o goce del inmueble en construcción para la instalación o fijación de anuncios o cualquier otro tipo de publicidad exterior.
+
+###### ARTICULO 276.
+
+Las personas físicas o morales que para coadyuvar a combatir el deterioro ambiental, realicen actividades empresariales de reciclaje o que en su operación reprocesen parte de sus residuos sólidos generados, tendrán derecho a una reducción en el Impuesto sobre Nóminas, en los términos siguientes:
+
+I. Del 20%, cuando reprocesen o reciclen sus residuos sólidos, de un 33% hasta 44%;
+
+II. Del 30%, cuando reprocesen o reciclen sus residuos sólidos, de un 45% hasta 59%, y
+
+III. Del 40% cuando reprocesen o reciclen sus residuos sólidos, de un 60% hasta 100%.
+
+Para la obtención de la reducción a que se refiere este artículo, los contribuyentes deberán presentar una constancia expedida por la Secretaría del Medio Ambiente, resultado de la acreditación de su Programa de Autorregulación y Auditoría Ambiental, en la que se señale el porcentaje de residuos sólidos que reprocesen o reciclen y el monto total de la inversión efectuada para llevar a cabo las actividades motivo de la reducción.
+
+Asimismo, los propietarios de viviendas o bienes inmuebles de uso habitacional que instalen y utilicen dispositivos como lo son paneles solares, y sistemas de captación de agua pluvial para la disminución del consumo de energía y/o agua o el reciclaje de esta última, podrán obtener una reducción de hasta el 20% de los derechos por suministro de agua. Las reducciones a que se refiere el presente artículo se aplicarán de conformidad con lo dispuesto en el artículo 297 de este Código.
+
+Los propietarios de los bienes inmuebles a que se refiere el párrafo anterior, deberán presentar una constancia expedida por la Secretaría de Medio Ambiente, en la que se precise el tipo de dispositivos con que cuentan y los beneficios que representan para el ahorro de energía eléctrica y/o agua.
+
+###### ARTICULO 277.
+
+Las empresas o instituciones que cuenten con programas comprobables de mejoramiento de condiciones ambientales tendrán derecho a una reducción respecto del Impuesto Sobre Nóminas, en los términos siguientes:
+
+I. Del 20%, cuando disminuyan sus condiciones normales de operación de un 30% hasta 44%;
+
+II. Del 30%, cuando disminuyan sus condiciones normales de operación de un 45% hasta 59%, y
+
+III. Del 40%, cuando disminuyan sus condiciones normales de operación de un 60% hasta 100%.
+
+Tratándose de acciones relacionadas con el consumo de agua potable, combustible o energía eléctrica, o minimización o manejo adecuado de residuos mediante rediseño de empaques y embalajes y/o la utilización de materiales biodegradables y/o fácilmente reciclables, se deberá acreditar disminuir el valor original determinado antes de la aplicación del programa de Autorregulación y Auditoría Ambiental, además de precisar el tipo de acciones que realizan y los beneficios que representan para mejorar el medio ambiente.
+
+Las empresas industriales o de servicios ubicadas en el Distrito Federal que adquieran, instalen y operen tecnologías, sistemas, equipos y materiales o realicen acciones que acrediten prevenir o reducir las emisiones contaminantes establecidos por las normas oficiales mexicanas y las ambientales para el Distrito Federal, podrán obtener una reducción respecto del Impuesto Predial, en los términos siguientes:
+
+I. Del 10%, cuando adquieran, instalen y operen tecnología, sistema, equipos y materiales que reduzcan sus emisiones contaminantes de un 30% hasta 39%;
+
+II. Del 15%, cuando adquieran, instalen y operen tecnología, sistema, equipos y materiales que reduzcan sus emisiones contaminantes de un 40% hasta 49%, y
+
+III. Del 20%, cuando adquieran, instalen y operen tecnología, sistema, equipos y materiales que reduzcan sus emisiones contaminantes de un 50% hasta 100%.
+
+Las empresas o instituciones a que se refiere este artículo, para efectos de las reducciones, deberán presentar una constancia expedida por la Secretaría del Medio Ambiente, en la que se precise, resultado de la acreditación de su programa de autorregulación y auditoría ambiental, el tipo de programas que realizan y los beneficios que representan para mejorar el medio ambiente, así como la tecnología que aplican para fomentar la preservación, restablecimiento y mejoramiento ambiental del Distrito Federal, o bien, con la que se acredite que realizan las actividades a que se refiere el párrafo segundo de este artículo. Además para la reducción del Impuesto Predial se deberá presentar la evaluación de emisiones de contaminantes correspondiente.
+
+La reducción por concepto del Impuesto sobre Nóminas se aplicará durante el ejercicio fiscal en que fue emitida la constancia respectiva. La correspondiente al Impuesto Predial sólo se aplicará respecto del inmueble donde se desarrollen las actividades motivo por el cual se otorga la reducción.
+
+El monto de las reducciones que se aplican en el presente artículo, en ningún caso podrán rebasar el monto total de la inversión realizada en las acciones por las que se otorga el beneficio.
+
+###### ARTICULO 278.
+
+Las empresas que anualmente acrediten que incrementaron desde un 25% su planta laboral y las que inicien operaciones, tendrán derecho a una reducción equivalente al 20% y 45% respectivamente, por el pago del Impuesto sobre Nóminas.
+
+La reducción para las empresas que anualmente incrementen desde un 25% su planta laboral, se aplicará a partir del mes siguiente en que acrediten el incremento anual, y la reducción únicamente se aplicará respecto de las erogaciones que se realicen en virtud del porcentaje adicional de empleos.
+
+La reducción para las empresas que incrementen su planta laboral, se aplicará siempre y cuando la empresa mantenga el porcentaje adicional de nuevos empleos.
+
+Cuando se trate del inicio de operaciones a que se refiere el primer párrafo de este artículo, la reducción, será del 70% para las micro y pequeñas empresas.
+
+La reducción para las empresas que acrediten que iniciaron operaciones empresariales, se aplicará sólo durante el primer ejercicio de actividades de la empresa.
+
+Para la aplicación de las reducciones a que se refiere este artículo, se entenderá que una empresa inicia operaciones a partir de la fecha indicada en la recepción del aviso de declaración de apertura, o en la expedición de la licencia de funcionamiento, según sea el caso.
+
+Tratándose de industrias, se entenderá que inicia operaciones a partir de la fecha de expedición del visto bueno de seguridad y operación.
+
+Para los efectos de este artículo, no serán consideradas empresas que inician operaciones:
+
+I. Las que se constituyan como consecuencia de una escisión en los casos siguientes:
+
+a). Que conserven el mismo objeto social de la escindente.
+
+b). Que sean constituidas por los mismos socios de la escindente.
+
+c). Que su objeto social guarde relación con el de la escindente y ésta no se extinga.
+
+d). Que mantenga relaciones de prestación de servicios de suministro, de materia prima o enajenación de productos terminados con la escindente.
+
+II. Las que se constituyan como resultado de la fusión de varias sociedades, y
+
+III. Las administradoras o controladoras de nóminas de las empresas.
+
+Asimismo, las empresas que regularicen voluntariamente su inscripción al padrón del Impuesto sobre Nóminas y los pagos de dicha contribución, tendrán derecho a una reducción equivalente al 50%, respecto de ese impuesto.
+
+Para la obtención de las reducciones contenidas en este artículo, las empresas deberán:
+
+I. Presentar una constancia expedida por la Secretaría de Desarrollo Económico, por la que se acredite el incremento anual del 25% de empleos o el inicio de operaciones, según sea el caso, y tratándose de la regularización al padrón del Impuesto sobre Nóminas, se deberá presentar una constancia de la Tesorería;
+
+II. Llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto sobre Nóminas y los conceptos por los que se efectuaron tales erogaciones, y
+
+III. Acreditar, en el caso de las empresas que anualmente incrementen en un 25% su planta laboral, que los trabajadores que contraten no hayan tenido una relación laboral con la empresa de que se trate, con su controladora o con sus filiales.
+
+###### ARTICULO 279.
+
+A las empresas que se ubiquen en los siguientes supuestos, se les aplicarán reducciones por los conceptos y porcentajes que se señalan a continuación:
+
+I. Las que contraten a personas con capacidades diferentes de acuerdo a la ley de la materia, tendrán una reducción por concepto del Impuesto sobre Nóminas, equivalente al impuesto que por cada una de las personas con capacidades diferentes de acuerdo a la ley de la materia, que de integrar la base, se tendría que pagar.
+
+Las empresas a que se refiere esta fracción para obtener la reducción, deberán acompañar a la declaración para pagar el Impuesto sobre Nóminas, lo siguiente:
+
+a). Una manifestación del contribuyente en el sentido de que tiene establecida una relación laboral con personas con capacidades diferentes, expresando el nombre de cada una de ellas y las condiciones de dicha relación; además, la empresa deberá llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto sobre Nóminas y los conceptos por los que se efectuaron tales erogaciones;
+
+b). Certificado que acredite una incapacidad parcial permanente o invalidez, expedido por el Instituto Mexicano del Seguro Social, o el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, conforme a sus respectivas leyes, o del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, tratándose de incapacidades congénitas o de nacimiento, y
+
+c). Demostrar con la documentación correspondiente, que ha llevado a cabo adaptaciones, eliminación de barreras físicas o rediseño de sus áreas de trabajo.
+
+II. Las empresas industriales instaladas en el Distrito Federal que sustituyan al menos el 50% del valor de materias primas importadas por insumos de producción local, tendrán derecho a una reducción equivalente al 30% por concepto del Impuesto sobre Nóminas.
+
+Los contribuyentes para obtener la reducción, deberán presentar una constancia emitida por la Secretaría de Desarrollo Económico, con la que se acredite la sustitución de importaciones.
+
+La empresa deberá llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto sobre Nóminas y los conceptos por los que se efectuaron tales erogaciones.
+
+III. Las empresas que realicen inversiones en equipamiento e infraestructura para la sustitución de agua potable por agua residual tratada en sus procesos productivos, incluyendo la instalación de la toma, tendrán derecho a una reducción equivalente al 80% de los Derechos por el Suministro de Agua a que se refiere el artículo 173 de este Código.
+
+Para la obtención de la reducción, los contribuyentes deberán presentar la constancia emitida por el Sistema de Aguas, en la que se haga constar la utilización del agua residual tratada.
+
+IV. Las micro, pequeñas y medianas empresas industriales, que comprueben haber llevado a cabo la adquisición o arrendamiento de maquinaria y equipo que incremente la capacidad instalada de la empresa, tendrán derecho a una reducción equivalente al 10% por concepto del Impuesto Predial.
+
+Los contribuyentes para obtener la reducción a que se refiere esta fracción, deberán presentar una constancia emitida por la Secretaría de Desarrollo Económico, con la que se acredite, en el caso de las micro industrias, que realizaron una inversión adicional de por lo menos 2,500 días de salario mínimo general vigente en el Distrito Federal; en el caso de las pequeñas industrias, de por lo menos 5,200 días de salario mínimo general vigente en el Distrito Federal, y en el caso de industrias medianas, de por lo menos 7,000 días de salario mínimo general vigente en el Distrito Federal.
+
+V. Las empresas de producción agropecuaria o agroindustrial que realicen inversiones adicionales en maquinaria o equipo de por lo menos 3,000 días de salario mínimo general vigente en el Distrito Federal, tendrán derecho a una reducción equivalente al 30% por concepto del Impuesto Predial, para lo cual deberán presentar una constancia emitida por la Comisión de Recursos Naturales y Desarrollo Rural.
+
+VI. Las empresas que acrediten que iniciaron operaciones en los sectores de alta tecnología, tendrán derecho a una reducción equivalente al 55% respecto del Impuesto sobre Nóminas, del 30% por concepto del Impuesto Predial y del 80% tratándose del Impuesto sobre Adquisición de Inmuebles.
+
+Para la obtención de la reducción a que se refiere esta fracción, las empresas deberán presentar una constancia de la Secretaría de Desarrollo Económico, con la que se acredite que la empresa de que se trate, tiene como objeto social la innovación y desarrollo de bienes y servicios de alta tecnología, en áreas como las relativas a desarrollo de procesos y productos de alta tecnología; incubación de empresas de alta tecnología; sistemas de control y automatización; desarrollo de nuevos materiales; tecnologías; informáticas; telecomunicaciones; robótica; biotecnología; nuevas tecnologías energéticas y energías renovables; tecnologías del agua; tecnología para el manejo de desechos; sistemas de prevención y control de la contaminación y áreas afines.
+
+La empresa deberá llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto sobre Nóminas y los conceptos por los que se efectuaron tales erogaciones.
+
+A las empresas que se contemplan en esta fracción, ya no se les aplicará la reducción del Impuesto sobre Nóminas a que se refiere el artículo 278 de este Código.
+
+VII. Las personas morales que se dediquen a la industria maquiladora de exportación y que adquieran un área de los espacios industriales construidos para tal fin por las entidades públicas o promotores privados, tendrán derecho a una reducción equivalente al 30%, respecto del Impuesto sobre Adquisición de Inmuebles y Derechos del Registro Público de la Propiedad y de Comercio.
+
+Los contribuyentes para obtener la reducción a que se refiere esta fracción, deberán acreditar mediante una constancia expedida por la Secretaría de Desarrollo Económico, que se dedican a la industria maquiladora de exportación y que pretenden adquirir un área de las que hace referencia el párrafo anterior.
+
+VIII. Las empresas que acrediten que realizan actividades de maquila de exportación, tendrán derecho a una reducción equivalente al 10% respecto del Impuesto sobre Nóminas.
+
+Para obtener la reducción a que se refiere esta fracción, los contribuyentes deberán presentar una constancia de la Secretaría de Desarrollo Económico, en la que se indique la actividad de maquila de exportación que se realiza.
+
+La empresa deberá llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto sobre Nóminas y los conceptos por los que se efectuaron tales erogaciones.
+
+IX. Las empresas que acrediten que más del 50% de su planta laboral reside en la misma demarcación territorial donde está ubicado su lugar de trabajo, tendrán derecho a una reducción equivalente al 10% respecto del Impuesto sobre Nóminas. Para obtener la reducción a que se refiere esta fracción, los contribuyentes deberán presentar una constancia de la Secretaría de Desarrollo Económico en la que se acredite dicha calidad.
+
+La empresa deberá llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto sobre Nóminas y los conceptos por los cuales se efectuaron tales erogaciones.
+
+X. Las empresas que realicen proyectos de investigación aplicada y desarrollo tecnológico que impacten en el Distrito Federal, de conformidad con las reglas generales que establezca el Instituto de Ciencia y Tecnología del Distrito Federal, tendrán derecho a una reducción equivalente al 60% del Impuesto sobre Nóminas causado por las erogaciones destinadas a remunerar el trabajo personal subordinado de investigadores y tecnólogos contratados especialmente para el desarrollo de dichos proyectos.
+
+Para obtener la reducción a que se refiere esta fracción, los contribuyentes deberán presentar una constancia del Instituto de Ciencia y Tecnología del Distrito Federal, en la que se acredite el personal contratado y el tipo de proyectos de investigación que realizan.
+
+La empresa deberá llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto sobre Nóminas y los conceptos por los cuales se efectuaron tales erogaciones.
+
+Las reducciones por concepto del Impuesto Predial que se regulan en este artículo, sólo se aplicarán respecto del inmueble donde se desarrollen las actividades motivo por el cual se reconoce la reducción.
+
+###### ARTICULO 280.
+
+Las personas físicas que participen en programas oficiales de beneficio social que requieran de la autorización para usar las redes de agua y drenaje, tendrán derecho de una reducción equivalente al 75%, respecto de los Derechos por la Autorización para Usar las Redes de Agua y Drenaje, establecidos en el artículo 182, fracción III de este Código.
+
+Las personas físicas para obtener la reducción a que se refiere este artículo, deberán formar parte de los Programas Oficiales de Beneficio Social que al efecto desarrollen las delegaciones.
+
+###### ARTICULO 281.
+
+Los jubilados, pensionados por cesantía en edad avanzada, por vejez, por incapacidad por riesgos de trabajo, por invalidez, así como las viudas y huérfanos pensionados, tendrán derecho a una reducción del Impuesto Predial, de tal manera que sólo se realice el pago establecido como cuota fija para el rango A, en la fracción II del artículo 130 de este Código.
+
+También serán beneficiarios de la reducción, las mujeres separadas, divorciadas, jefas de hogar y madres solteras que demuestren tener dependientes económicos, así como las personas con capacidades diferentes.
+
+Los contribuyentes mencionados en los párrafos anteriores también gozarán de una reducción equivalente al 50% de la cuota bimestral, por concepto de los Derechos por el Suministro de Agua que determine la Tesorería o Sistema de Aguas, correspondiente a la toma de uso doméstico, sin que en ningún caso el monto a pagar sea inferior a la cuota bimestral mínima que corresponda a esos derechos.
+
+Para que los contribuyentes obtengan las reducciones a que se refiere este artículo, según el caso, deberán:
+
+I. Acreditar que cuentan con una pensión o jubilación del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, de Petróleos Mexicanos, de la Comisión Federal de Electricidad, de Ferrocarriles Nacionales de México, de la Asociación Nacional de Actores, del Banco Nacional de Obras y Servicios Públicos, S.N.C., de Nacional Financiera, S.N.C., de la Caja de Previsión de la Policía Preventiva del Distrito Federal y de la Caja de Previsión para los Trabajadores a Lista de Raya del Distrito Federal, o de aquel sistema de pensiones que conforme al artículo 277 de la Ley Federal del Trabajo se constituya;
+
+II. Ser propietario del inmueble en que habiten, respecto del cual se aplicará única y exclusivamente la reducción;
+
+III. Que el valor catastral del inmueble, de uso habitacional, no exceda de la cantidad de $1,682,251.00;
+
+IV. Acreditar el divorcio o la existencia de los hijos mediante las actas de divorcio y de nacimiento de los hijos, siempre que éstos sean menores de 18 años o con capacidades diferentes. La separación deberá probarse en términos de la legislación aplicable. La jefatura de hogar deberá acreditarse mediante declaración bajo protesta de decir verdad ante la propia autoridad fiscal;
+
+V. Acreditar ser una persona con capacidades diferentes, mediante la credencial oficial emitida por la autoridad competente en la que se certifique la discapacidad del portador de la misma, y
+
+VI. Que el volumen de consumo de agua no exceda de 77 m3, tratándose de tomas con medidor, y si se carece de medidor, la toma deberá de ubicarse en las colonias catastrales 0, 1, 2, 3 y 8.
+
+Los beneficios a que se refiere este artículo no serán aplicables cuando el propietario otorgue el uso o goce temporal del inmueble, incluso para la instalación o fijación de anuncios o cualquier otro tipo de publicidad.
+
+###### ARTICULO 282.
+
+Los adultos mayores sin ingresos fijos y escasos recursos, tendrán derecho a una reducción del Impuesto Predial, equivalente a la diferencia que resulte entre la cuota a pagar y la cuota fija establecida para el rango A, de la fracción II del artículo 130 de este Código que corresponda a ese impuesto, de tal manera que en ningún caso el monto a pagar sea inferior a la cantidad establecida como cuota fija para el rango A, de la fracción II del artículo 130 de este Código.
+
+Dichos contribuyentes también gozarán de la reducción equivalente al 50% de la cuota bimestral por concepto de los Derechos por el Suministro de Agua, del ejercicio que se curse, determinados por la Tesorería o Sistema de Aguas, correspondiente a la toma de uso doméstico, sin que en ningún caso el monto a pagar sea inferior a la cuota bimestral mínima que corresponda a esos derechos en el mismo ejercicio.
+
+Las reducciones previstas en este artículo, no serán aplicables en aquellos casos en que se otorgue el uso o goce del inmueble, incluso para la instalación o fijación de anuncios o cualquier otro tipo de publicidad.
+
+Los contribuyentes para obtener las reducciones a que se refiere este artículo, deberán:
+
+I. Presentar identificación oficial, con la que se acredite que se trata de un adulto mayor;
+
+II. Ser propietario del inmueble en que habite, respecto del cual se aplicará única y exclusivamente la reducción;
+
+III. Que el inmueble respecto del cual se solicita la reducción se ubica dentro de las colonias catastrales 0, 1, 2, 3 y 8, a que se refiere el artículo 172 del Código;
+
+IV. Que el valor catastral del inmueble, de uso habitacional, no exceda de la cantidad de $1,682,251.00, y
+
+V. Que el volumen de consumo de agua no exceda de 77 m3, tratándose de tomas con medidor, y si se carece de medidor, la toma deberá de ubicarse en las colonias catastrales 0, 1, 2, 3 y 8.
+
+###### ARTICULO 283.
+
+Tendrán derecho a una reducción equivalente al 80% respecto de las contribuciones a que se refieren los artículos 112, 126, 134, 145, 156 y 185, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías, las organizaciones que realicen las actividades que a continuación se señalan:
+
+I. Fortalezcan y fomenten el goce y ejercicio de los derechos humanos;
+
+II. Fomenten condiciones sociales que favorezcan integralmente el desarrollo humano;
+
+III. Promuevan la realización de obras y la prestación de servicios públicos para beneficio de la población;
+
+IV. Fomenten el desarrollo regional y comunitario, de manera sustentable y el aprovechamiento de los recursos naturales, la protección del medio ambiente y la conservación y restauración del equilibrio ecológico;
+
+V. Realicen acciones de prevención y protección civil;
+
+VI. Apoyen a grupos vulnerables y en desventaja social en la realización de sus objetivos;
+
+VII. Presten asistencia social en los términos de las leyes en la materia;
+
+VIII. Promuevan la educación cívica y la participación ciudadana para beneficio de la población;
+
+IX. Desarrollen servicios educativos en los términos de la Ley General de Educación;
+
+X. Aporten recursos humanos, materiales o de servicios para la salud integral de la población, en el marco de la Ley General de Salud y de la Ley de Salud para el Distrito Federal;
+
+XI. Apoyen las actividades a favor del desarrollo urbano y el ordenamiento territorial;
+
+XII. Impulsen el avance del conocimiento y el desarrollo cultural;
+
+XIII. Desarrollen y promuevan la investigación científica y tecnológica;
+
+XIV. Promuevan las bellas artes, las tradiciones populares y la restauración y mantenimiento de monumentos y sitios arqueológicos, artísticos e históricos, así como la preservación del patrimonio cultural, conforme a la legislación aplicable;
+
+XV. Proporcionen servicios de apoyo a la creación y el fortalecimiento de las organizaciones civiles mediante:
+
+a). El uso de los medios de comunicación;
+
+b). La prestación de asesoría y asistencia técnica;
+
+c). El fomento a la capacitación, y
+
+XVI. Favorecer el incremento de las capacidades productivas de las personas para alcanzar su autosuficiencia y desarrollo integral.
+
+La reducción por concepto del Impuesto Predial, sólo operará respecto de los inmuebles propiedad de las organizaciones a que se refiere este artículo que se destinen en su totalidad al cumplimiento del objetivo de la organización.
+
+La reducción por concepto de Impuesto Predial no será aplicable en aquellos casos en que se otorgue el uso o goce temporal del inmueble, incluso para la instalación o fijación de anuncios o cualquier otro tipo de publicidad.
+
+Asimismo, la reducción por concepto de Impuesto sobre Nómina, operará sólo en el caso de que se acredite que la organización de que se trate se encuentra seriamente afectada en su economía, supervivencia y realización de sus objetivos.
+
+El beneficio de reducción por concepto de Impuesto sobre Adquisición de Inmuebles y de los Derechos del Registro Público de la Propiedad relacionados con los actos de adquisición, sólo será procedente cuando los inmuebles que se adquieran se destinen en su totalidad al cumplimiento del objetivo de la organización.
+
+El Impuesto sobre Espectáculos Públicos e Impuesto sobre Loterías, Rifas, Sorteos y Concursos, sólo operará respecto de los espectáculos y eventos señalados, que se lleven a cabo para allegarse de fondos que les permitan solventar los gastos derivados del cumplimiento del objetivo de la organización.
+
+Para efectos del cumplimiento de este precepto, las organizaciones civiles deberán solicitar a la Secretaría de Desarrollo Social durante el primer semestre, una constancia en la que se acredite el registro y verificación de los supuestos antes señalados, en los términos que establece la Ley de Fomento de Actividades de Desarrollo Social del Distrito Federal.
+
+Las organizaciones a que se refiere este artículo, para la obtención de la reducción deberán acreditar lo siguiente:
+
+I. Que sean donatarias autorizadas por la Secretaría de Hacienda y Crédito Público;
+
+II. Que estén inscritas en el Registro de Organizaciones Civiles del Distrito Federal que lleva la Secretaría de Desarrollo Social del Distrito Federal, en los términos que establece la Ley de Fomento a las Actividades de Desarrollo Social de las Organizaciones Civiles para el Distrito Federal, y
+
+III. Que los recursos destinados por las organizaciones en el año inmediato anterior a las actividades de desarrollo social, de conformidad con lo establecido por la Ley de Fomento a las Actividades de Desarrollo Social de las Organizaciones Civiles para el Distrito Federal, hayan sido iguales o superiores al monto de las reducciones que soliciten.
+
+###### ARTICULO 284.
+
+Las Instituciones de Asistencia Privada, legalmente constituidas, tendrán derecho a una reducción equivalente al 80%, respecto de las contribuciones a que se refieren los artículos 112, 126, 134, 145, 156, 172, 182, 185 y 186, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
+
+La reducción por concepto del Impuesto Predial, sólo operará respecto de los inmuebles propiedad de las Instituciones de Asistencia Privada que se destinen al objeto asistencial.
+
+Asimismo, la reducción por concepto de Derechos por el Suministro de Agua, operará exclusivamente en el caso de inmuebles utilizados directamente por las Instituciones de Asistencia Privada en el cumplimiento de su objeto asistencial.
+
+Las Instituciones de Asistencia Privada para obtener la reducción a que se refiere este artículo, deberán solicitar a la Junta de Asistencia Privada del Distrito Federal durante el primer semestre, una constancia con la que se acredite que realizan las actividades de su objeto asistencial señalado en sus estatutos, y que los recursos que destinó a la asistencia social en el ejercicio fiscal inmediato anterior al de su solicitud, se traducen en el beneficio directo de la población a la que asisten, los cuales deberán ser superiores al monto de las reducciones que solicitan.
+
+En la constancia, la Junta de Asistencia Privada del Distrito Federal deberá señalar el monto de los recursos que destinó la Institución de Asistencia Privada a la asistencia social, así como la vigencia que tendrá, la cual no deberá exceder del último día del año en que se haya emitido.
+
+###### ARTICULO 285.
+
+Las personas que lleven a cabo programas para el desarrollo familiar, tendrán derecho a una reducción equivalente al 80%, respecto de las contribuciones a que se refieren los artículos 126, 134, 145 y 216 de este Código.
+
+La reducción por concepto de Derechos del Registro Civil, se aplicará únicamente para los beneficiarios de los citados programas.
+
+Para obtener la reducción contenida en este artículo, los contribuyentes deberán acreditar que realizan sin ningún fin lucrativo, programas para el desarrollo familiar, acreditando dicha situación con una constancia expedida por el Sistema para el Desarrollo Integral de la Familia del Distrito Federal, en la que se precise el tipo de programas que realizan y los beneficios que representan para la población de la Ciudad de México.
+
+###### ARTICULO 286.
+
+Las personas que lleven a cabo sin ningún fin lucrativo, programas para el desarrollo cultural, incluidos los museos, tendrán derecho a una reducción equivalente al 80%, respecto de los Impuestos sobre Espectáculos Públicos y sobre Loterías, Rifas, Sorteos y Concursos.
+
+Los contribuyentes a que se refiere este artículo, deberán acreditar que realizan programas culturales, con una constancia expedida por la Secretaría de Cultura, en la que se precise el tipo de programas que realizan y los beneficios que representan para la población del Distrito Federal.
+
+La reducción por concepto de las contribuciones mencionadas en el primer párrafo, sólo operará respecto de los espectáculos y eventos que se lleven a cabo para allegarse de fondos que les permita solventar los gastos derivados de los programas para el desarrollo cultural.
+
+###### ARTICULO 287.
+
+Las personas que lleven a cabo producciones cinematográficas mexicanas, tendrán derecho a una reducción respecto de los derechos a que refiere el artículo 269, incisos c), d) y e), en los términos siguientes:
+
+a) Del 80% en caso de que las producciones sean realizadas por estudiantes debidamente acreditados, y
+
+b) Del 80% en caso de producciones cinematográficas mexicanas efectuadas por personas distintas a las señaladas en el inciso anterior.
+
+Para obtener la reducción a que refiere este artículo, los contribuyentes deberán acreditar que su producción cinematográfica es 100% mexicana y, en su caso, el carácter de estudiantes, a través de la constancia que para tal efecto expida la Comisión de Filmaciones de la Ciudad de México.
+
+###### ARTICULO 288.
+
+Las personas que lleven a cabo sin ningún fin lucrativo, programas para el desarrollo del deporte, tendrán derecho a una reducción equivalente al 60%, respecto de los Impuestos sobre Espectáculos Públicos y sobre Loterías, Rifas, Sorteos y Concursos.
+
+Los contribuyentes para obtener la reducción, deberán acreditar que realizan programas para el desarrollo del deporte, con una constancia expedida por el Instituto del Deporte del Distrito Federal, en la que se precise el tipo de programas que realizan y los beneficios que representan para la población del Distrito Federal.
+
+La reducción por concepto de las contribuciones mencionadas en el primer párrafo, sólo operará respecto de los espectáculos y eventos que se lleven a cabo para allegarse de fondos que les permita solventar los gastos derivados de los programas para el desarrollo del deporte.
+
+###### ARTICULO 289.
+
+Las entidades públicas y promotores privados que construyan espacios comerciales tales como plazas, bazares, corredores y mercados, o rehabiliten y adapten inmuebles para este fin en el Distrito Federal, cuyos locales sean enajenados a las personas físicas que en la actualidad ejerzan la actividad comercial en la vía pública de la Ciudad de México, tendrán derecho a una reducción equivalente al 30%, respecto de las contribuciones a que se refieren los artículos 112, 185, 188 y 235, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
+
+Las reducciones a que se refiere el párrafo anterior, también se aplicarán a las entidades públicas y promotores privados que construyan espacios industriales como miniparques y corredores industriales o habiliten y adapten inmuebles para este fin en el Distrito Federal, para enajenarlos a personas físicas o morales que ejerzan actividades de maquila de exportación.
+
+Los contribuyentes a que se refiere este artículo, para obtener la reducción deberán presentar una constancia expedida por la Secretaría de Desarrollo Económico, con la que se acredite la construcción de espacios industriales como miniparques y corredores industriales, o los habiliten y adapten para ese fin, así como la constancia expedida por la Secretaría de Desarrollo Urbano y Vivienda, en la que se apruebe el proyecto de construcción de que se trate, y acreditar que los predios donde se pretende realizar el proyecto, se encuentran regularizados en cuanto a la propiedad de los mismos.
+
+En ninguno de los casos las reducciones excederán el 30% de la inversión total realizada.
+
+Las reducciones previstas en este artículo, no serán aplicables en aquellos casos en que se otorgue el uso o goce del inmueble en construcción para la instalación o fijación de anuncios o cualquier otro tipo de publicidad exterior.
+
+###### ARTICULO 290.
+
+Los comerciantes en vía pública que adquieran un local de los espacios comerciales construidos por las entidades públicas o promotores privados, y los comerciantes originalmente establecidos y cuyo predio donde se encontraba su comercio haya sido objeto de una expropiación y que adquieran un local, tendrán derecho a una reducción equivalente al 30%, respecto del Impuesto sobre Adquisición de Inmuebles y Derechos de Inscripción en el Registro Público de la Propiedad y del Comercio. Asimismo, obtendrán una reducción del 30% por concepto de impuesto predial.
+
+Los contribuyentes para obtener la reducción, deberán acreditar mediante constancia expedida por la Secretaría de Desarrollo Económico, que son comerciantes en vía pública o, en su caso, que el lugar donde se encontraba su comercio fue objeto de una expropiación.
+
+###### ARTICULO 291.
+
+Las personas físicas o morales que inviertan de su propio patrimonio, para realizar obras para el Distrito Federal, de infraestructura hidráulica, instalaciones sanitarias, alumbrado público, arterias principales de tránsito, incluyendo puentes vehiculares, distribuidores viales, vías secundarias, calles colectoras, calles locales, museos, bibliotecas, casas de cultura, parques, plazas, explanadas o jardines con superficies que abarquen de 250 m2. hasta 50,000 m2., módulos deportivos, centros deportivos, canchas a cubierto y módulos de vigilancia, o cualquier otra obra de interés social, tendrán derecho a una reducción equivalente al 90%, respecto de las contribuciones establecidas en el Capítulo IX en sus Secciones Tercera, Cuarta, Octava y Décima Tercera, del Título Tercero del Libro Primero de este Código.
+
+Se podrá reducir en un 20% la cantidad a pagar por concepto del Impuesto Predial a aquellas personas que otorguen donaciones en dinero para la realización de obras públicas.
+
+No procederán los beneficios a que se refiere este artículo, tratándose de bienes sujetos a concesión o permiso.
+
+Para ser sujetos del beneficio que prevé este artículo, se deberán reunir los siguientes requisitos:
+
+I. Donar en favor del Gobierno del Distrito Federal la obra a realizarse, renunciando a ejercer derecho alguno sobre la misma;
+
+II. Celebrar el convenio de donación correspondiente ante autoridad competente, por el contribuyente o por su representante legal;
+
+III. La donación que se realice, será independientemente a la que, en su caso, se encuentre obligado en términos de la Ley de Desarrollo Urbano del Distrito Federal, y
+
+IV. La donación que se realice no dará derecho a devolución de bienes.
+
+Asimismo, las personas físicas o morales que aporten recursos de su patrimonio para la realización de las obras a que se refiere este artículo o cualesquiera otras obras sociales en el Distrito Federal, deberán realizar la aportación por conducto de la Secretaría, la cual les entregará el comprobante correspondiente. Estos recursos se destinarán a las citadas obras, mismos que se especificarán en los convenios respectivos, en los cuales también se incluirán, en su caso, las aportaciones a que se comprometa el Gobierno del Distrito Federal.
+
+Las reducciones a que se refiere este artículo, en ningún caso podrán ser superiores a las donaciones.
+
+De igual manera, todas aquellas personas físicas que aporten su mano de obra individual, familiar o colectiva para la ejecución de las obras en los servicios de construcción y operación hidráulica correspondientes a la conexión de tomas domiciliarias de agua potable, en los terrenos tipo I y II, con un diámetro de 13 mm. y en la conexión de descargas domiciliarias, en terrenos tipo I y II, con un diámetro de 15 cm., tendrán derecho a una reducción equivalente al 95%, respecto de las contribuciones establecidas en el artículo 181, apartado A, fracción I, inciso a); y Apartado B, fracción I, inciso a).
+
+###### ARTICULO 292.
+
+Los organismos descentralizados, fideicomisos públicos, promotores públicos, sociales y privados, que desarrollen proyectos relacionados con vivienda de interés social o vivienda popular, tendrán derecho a una reducción equivalente al 80% y 60%, respectivamente, respecto de las contribuciones a que se refieren los artículos 112, 185, 186, 187, 188, 233, 234, 235 y 242, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
+
+Para obtener las reducciones a que refiere el párrafo primero de este artículo, los contribuyentes deberán presentar la Constancia provisional emitida por la Secretaría de Desarrollo Urbano y Vivienda, en la que se indique su calidad de promotor de las referidas viviendas.
+
+Los organismos y fideicomisos públicos de vivienda del Distrito Federal, tendrán derecho a una reducción equivalente al 80% por concepto del Impuesto Predial, respecto de los inmuebles que hayan sido objeto de una expropiación, para destinarse a la realización de proyectos de vivienda de interés social o vivienda popular final.
+
+La reducción a que se refiere el párrafo anterior sólo se aplicará a los adeudos anteriores a la expropiación, cuando no sea posible deducir el Impuesto Predial del pago indemnizatorio, por no existir un reclamante que acredite fehacientemente su derecho de propiedad.
+
+Para obtener la reducción por concepto del Impuesto Predial, los organismos y fideicomisos públicos de vivienda del Distrito Federal deberán acreditar esa circunstancia conforme a las disposiciones administrativas que se emitan al respecto.
+
+Las reducciones contenidas en este precepto, con excepción de la reducción al Impuesto Predial, tendrán efectos provisionales, hasta en tanto el contribuyente exhiba la Constancia definitiva emitida por la Secretaría de Desarrollo Urbano y Vivienda, con la que se acredite que los proyectos de construcción de vivienda de interés social o vivienda popular, se realizaron conforme a lo inicialmente manifestado, lo cual deberá hacer durante el bimestre siguiente a aquél en que concluya el proyecto respectivo.
+
+###### ARTICULO 293.
+
+Las personas que adquieran o regularicen la adquisición de una vivienda de interés social o vivienda popular, tendrán derecho a una reducción equivalente al 80% y 60%, respectivamente, con relación al Impuesto sobre Adquisición de Inmuebles y Derechos del Registro Público de la Propiedad y de Comercio, que se generen directamente por la adquisición o regularización.
+
+Para que los contribuyentes obtengan las reducciones contenidas en este artículo, deberán acreditar que su vivienda es de interés social o popular, cuyo valor no debe exceder de los determinados al respecto por la Ley de Desarrollo Urbano del Distrito Federal.
+
+###### ARTICULO 294.
+
+Los concesionarios y permisionarios del servicio público, mercantil, privado y particular de transporte de pasajeros y de carga, así como del servicio público de transporte individual de pasajeros, tendrán derecho a una reducción equivalente al 15%, respecto de los derechos por la revista reglamentaria anual, contemplados en los artículos 220 y 222 de este Código.
+
+Las personas a que se refiere este artículo, para obtener la reducción deberán efectuar el pago de los citados derechos en una sola exhibición.
+
+###### ARTICULO 295.
+
+Las personas físicas o morales que organicen loterías, rifas, sorteos, juegos con apuestas, apuestas permitidas, concursos de toda clase, que cuenten con instalaciones ubicadas en el Distrito Federal destinadas a la celebración de sorteos o apuestas permitidas o juegos con apuestas, tendrán derecho a una reducción del 10% respecto del impuesto a que hace referencia el artículo 145 de este Código.
+
+Para obtener los beneficios a que se refiere este artículo, las personas físicas y morales a que hace referencia el primer párrafo, deberán acreditar mediante una constancia emitida por la Secretaría de Finanzas, que hayan generado como mínimo dos mil empleos directos y/o indirectos y una inversión acumulada y consolidada en activos fijos superior a cincuenta mil veces el salario mínimo general vigente en el Distrito Federal elevado al año. Sin excepción, la inversión debió realizarse en las instalaciones ubicadas en el Distrito Federal que se destinen a la celebración de las loterías, rifas, sorteos, apuestas permitidas o juegos con apuestas.
+
+También gozarán de este beneficio, las personas físicas o morales que obtengan los premios derivados o relacionados con las actividades a que se refiere el primer párrafo de este artículo.
+
+###### ARTICULO 296.
+
+Los propietarios de inmuebles destinados a casa habitación que cuenten con árboles adultos y vivos o con áreas verdes no arboladas en su superficie, tendrán derecho a una reducción equivalente al 25% del Impuesto Predial, siempre y cuando el arbolado o las áreas verdes ocupen cuando menos la tercera parte de la superficie de los predios.
+
+Para la obtención de la reducción a que se refiere este artículo, los contribuyentes deberán presentar una constancia expedida por la Secretaría del Medio Ambiente con la que acredite que el predio objeto de la reducción cuenta con árboles adultos y vivos o con áreas verdes no arboladas en su superficie y que éstos ocupan cuando menos la tercera parte de la superficie de los predios. Para gozar de los beneficios a que se refiere este artículo, en el caso de los árboles adultos y vivos deberán estar unidos a la tierra, y no a las plantaciones en macetas, macetones u otros recipientes similares, y recibir el mantenimiento necesario de conformidad con la normatividad ambiental.
+
+Los predios que sean ejidos o constituyan bienes comunales que sean explotados totalmente para fines agropecuarios, tendrán derecho a una reducción equivalente al 50% respecto del pago de impuesto predial, para lo cual deberán acreditar que el predio de que se trate sea un ejido explotado totalmente para fines agropecuarios mediante la constancia del Registro Agrario Nacional correspondiente.
+
+Asimismo, las personas físicas o morales que acrediten ser propietarias de edificios respecto de los cuales demuestren la aplicación de sistemas sustentables ante la Secretaría del Medio Ambiente, gozarán en un periodo de un año de la reducción del 10% del impuesto predial, correspondiente a dicho inmueble, previa obtención de constancia emitida por la Secretaría antes mencionada.
+
+###### ARTICULO 297.
+
+Las reducciones contenidas en este Capítulo, se harán efectivas en las Administraciones Tributarias o, en su caso, ante el Sistema de Aguas, y se aplicarán sobre las contribuciones, en su caso, sobre el crédito fiscal actualizado, siempre que las contribuciones respectivas aún no hayan sido pagadas, y no procederá la devolución o compensación respecto de las cantidades que se hayan pagado. Las reducciones también comprenderán los accesorios de las contribuciones en el mismo porcentaje.
+
+No será procedente la acumulación de beneficios fiscales establecidos en este Código, para ser aplicados a un mismo concepto y ejercicio fiscal.
+
+Las reducciones comprendidas en este Capítulo, se aplicarán durante el ejercicio fiscal en que se haya emitido la constancia respectiva, y por los créditos fiscales generados en dicho ejercicio, salvo los casos previstos en este Código.
+
+En caso de que los contribuyentes no hayan solicitado alguna de las reducciones comprendidas en este Capítulo, o no hayan aplicado la constancia respectiva en el ejercicio en que se haya emitido, caducará su derecho para hacerlo valer con posterioridad.
+
+Tratándose de las personas físicas o morales que soliciten alguna de las reducciones contenidas en este Capítulo, y que hubieren interpuesto algún medio de defensa contra el Gobierno del Distrito Federal, no procederán las mismas hasta en tanto se exhiba el escrito de desistimiento debidamente presentado ante la autoridad que conozca de la controversia y el acuerdo recaído al mismo.
+
+Las unidades administrativas que intervengan en la emisión de las constancias y certificados para efecto de las reducciones a que se refiere este Capítulo, deberán elaborar los lineamientos que los contribuyentes tienen que cumplir para obtener su constancia o certificado; asimismo, la Tesorería formulará los lineamientos aplicables a cada una de las reducciones, mismos que deberán observarse por los contribuyentes al hacer efectiva la reducción de que se trate.
+
+Los lineamientos a que se refiere este artículo, para su operación, deberán contar con la validación de la Procuraduría Fiscal.
+
+## TITULO CUARTO. DE LOS INGRESOS NO PROVENIENTES DE CONTRIBUCIONES
+
+### CAPITULO V. De los Otros Ingresos
+
+###### ARTICULO 298.
+
+Los concesionarios o permisionarios de uso de bienes del dominio público del Distrito Federal o de la prestación de servicios públicos, deberán cubrir las contraprestaciones en favor de la entidad que otorgue el permiso o el título de concesión respectivos, las cuales tendrán la naturaleza jurídica de aprovechamientos, salvo en aquellos casos en que las disposiciones legales aplicables denominen tales prestaciones como derechos.
+
+###### ARTICULO 299.
+
+Las personas físicas y morales que dañen o deterioren las vías y áreas públicas, la infraestructura hidráulica y de servicios del dominio público, deberán cubrir en concepto de aprovechamientos, el pago de servicios por rehabilitación que preste el Distrito Federal.
+
+El pago de estos aprovechamientos, comprenderá el importe total de los daños o deterioros causados, y se deberá realizar en las oficinas recaudadoras de la Secretaría o en las instituciones de crédito autorizadas, dentro de los quince días siguientes al que se notifique al contribuyente el costo de los servicios por rehabilitación.
+
+###### ARTICULO 300.
+
+Las personas físicas y morales que realicen construcciones en términos del artículo 51 del Reglamento de Construcciones para el Distrito Federal, deberán cubrir el pago por concepto de aprovechamientos para que la autoridad competente realice las acciones necesarias para prevenir, mitigar o compensar las alteraciones o afectaciones al ambiente y los recursos naturales, a razón de $34.00 por metro cuadrado de construcción.
+
+Para llevar a cabo el cálculo de los aprovechamientos a que se refiere este artículo, no se considerarán los metros cuadrados destinados a estacionamientos.
+
+Los aprovechamientos a que se refiere este artículo, deberán aplicarse íntegramente en la Delegación correspondiente a través de la autoridad competente para la implementación de medidas de seguridad y mitigación o compensación a las alteraciones o afectaciones al ambiente y a los recursos naturales, que se generen en la Delegación correspondiente.
+
+La autoridad competente dará el visto bueno respecto a que el particular cumplió con las medidas de mitigación, previo a la ocupación de la obra.
+
+Este concepto no aplica para viviendas unifamiliares.
+
+###### ARTICULO 301.
+
+Las personas físicas o morales que realicen obras o construcciones en el Distrito Federal de más de 200 metros cuadrados de construcción deberán cubrir el pago por concepto de aprovechamientos para que la autoridad competente realice las acciones para prevenir, mitigar o compensar los efectos del impacto vial, de acuerdo con lo siguiente:
+
+a). Habitacional, por metro cuadrado de construcción $74.00
+
+b). Otros Usos, por metro cuadrado de construcción $100.00
+
+c). Las estaciones de servicio, pagarán a razón de $212,184.00, por cada dispensario.
+
+Para llevar a cabo el cálculo de los aprovechamientos a que se refiere este artículo, no se considerarán los metros cuadrados destinados a estacionamiento.
+
+Los aprovechamientos a que se refiere este artículo, deberán aplicarse íntegramente en la Delegación correspondiente a través de la autoridad competente para la implementación de medidas de seguridad y mitigación o compensación a las alteraciones o afectaciones al impacto vial generado por el aumento de las construcciones.
+
+La autoridad competente dará el visto bueno respecto a que el particular cumplió con las medidas de mitigación, previo a la ocupación de la obra.
+
+Este concepto no aplica para viviendas unifamiliares.
+
+###### ARTICULO 302.
+
+Las personas físicas y morales que construyan nuevos desarrollos urbanos, nuevas edificaciones, amplíen la construcción ó cambien el uso de las construcciones que requieran nuevas conexiones de agua y drenaje o ampliaciones, deberán cubrir el pago por concepto de aprovechamientos a razón de $195.00 por cada metro cuadrado de construcción nueva ó de ampliación, a efecto de que el Sistema de Aguas de la Ciudad de México, realice las obras necesarias para estar en posibilidad de prestar los servicios relacionados con la infraestructura hidráulica.
+
+Para el cálculo a que se refiere este artículo, no se considerarán los metros cuadrados destinados a estacionamiento.
+
+Este concepto no aplica para viviendas unifamiliares.
+
+Los aprovechamientos a que se refiere este artículo, deberán aplicarse íntegramente en la Delegación correspondiente a través de la autoridad competente para aplicarse íntegramente a la ejecución de las obras necesarias para prestar los servicios relacionados con la infraestructura hidráulica.
+
+La autoridad competente dará el visto bueno respecto a que el particular cumplió con las medidas de mitigación, previo a la ocupación de la obra.
+
+###### ARTICULO 303.
+
+La Secretaría controlará los ingresos por aprovechamientos, aun cuando se les designe como cuotas o donativos que perciban las distintas dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal.
+
+Dicha autoridad y las expresamente facultadas para tal fin, podrán fijar o modificar los aprovechamientos que se cobrarán por el uso o aprovechamiento de bienes del dominio público o por los servicios prestados en el ejercicio de funciones de derecho público, cuando sean proporcionados por delegaciones o por órganos desconcentrados de la Administración Pública del Distrito Federal.
+
+En el caso de las delegaciones, éstas podrán fijar o modificar los precios y tarifas que cobrarán por el uso o aprovechamiento de bienes del dominio público que tengan asignados o por los servicios prestados en el ejercicio de sus funciones de derecho público, cuando sean proporcionados por ellas. En este caso, las delegaciones publicarán estos precios y tarifas, en la Gaceta Oficial del Distrito Federal, previa opinión de la Secretaría.
+
+Para establecer el monto de los aprovechamientos a que hace referencia este artículo, se tomarán en consideración criterios de eficiencia y saneamiento financiero de los Órganos Desconcentrados que realicen dichos actos conforme a lo siguiente:
+
+a). La cantidad que deba cubrirse por concepto de uso o aprovechamiento de bienes y servicios que tienen referencia internacional, se fijará considerando el cobro que se efectúe por el uso o aprovechamiento o la prestación del servicio de similares características en países con los que México mantiene vínculos comerciales estrechos.
+
+b). Los aprovechamientos que se cobren por el uso o disfrute de bienes o por la prestación de servicios que no tengan referencia internacional, se fijarán considerando su costo, siempre que se derive de una valuación de dichos costos en los términos de eficiencia económica.
+
+c). Se podrán establecer aprovechamientos diferenciales por el uso de bienes o prestación de servicios, cuando éstos respondan a estrategias de comercialización o racionalización y se otorguen de manera general. La omisión total o parcial en el cobro de los aprovechamientos establecidos en los términos de este Código, afectará a los Órganos, disminuyendo una cantidad equivalente a dos veces el valor de la omisión efectuada del presupuesto del Órgano de que se trate.
+
+d). Los aprovechamientos generados por multas administrativas causadas por establecimientos mercantiles con una superficie no mayor a 30 metros cuadrados, cuyo titular sea persona física y que funcionen con declaración de apertura o licencia ordinarias, que no sean consideradas de impacto vecinal y que prohíban la venta de bebidas alcohólicas, podrán cubrirse en pagos parciales hasta por 36 meses, siempre que el monto de la multa impuesta no exceda de 40 días de salario mínimo vigente en el Distrito Federal.
+
+Quedan exceptuadas del pago en parcialidades las multas previstas en los artículos 85, 86, 87 y 88 de la Ley de Establecimientos Mercantiles del Distrito Federal.
+
+Los aprovechamientos derivados del ejercicio de las funciones de las áreas que los generen, podrán destinarse preferentemente a la operación de dichas áreas, previa autorización de la Secretaría, de conformidad con las reglas generales que emita, las cuales se publicarán a más tardar el día veinte de enero de cada año en la Gaceta Oficial del Distrito Federal.
+
+###### ARTICULO 304.
+
+Los Comerciantes en Vía Pública, con puestos semifijos, ubicados a más de doscientos metros de los Mercados Públicos, pueden ocupar una superficie de 1.80 por 1.20 metros o menos; asimismo los comerciantes en las modalidades de Tianguis, Mercado sobre Ruedas y Bazares, pueden ocupar hasta una superficie máxima de seis metros cuadrados, siempre que cuenten con Permiso Vigente, expedido por las Demarcaciones Territoriales, para llevar a cabo actividades comerciales de cualquier tipo o concesión otorgada por Autoridad competente, pagarán trimestralmente, en todas las Delegaciones, los aprovechamientos por el uso o explotación de las vías y áreas públicas, cuotas por día, dividiéndose para este efecto en dos grupos.
+
+Grupo I:
+
+Puestos Semifijos de 1.80 por 1.20 metros, o menos, incluyendo los de Tianguis, Mercados sobre Ruedas y Bazares $6.00
+
+Para efecto de lo dispuesto en el párrafo anterior, se contemplan los Giros Comerciales siguientes:
+
+Alimentos y Bebidas preparadas.
+
+Artículos eléctricos, electrónicos, electrodomésticos y muebles.
+
+Accesorios para automóviles.
+
+Discos y cassettes de audio y video.
+
+Joyería y relojería.
+
+Ropa y calzado.
+
+Artículos de ferretería y tlapalería.
+
+Aceites, lubricantes y aditivos para vehículos automotores.
+
+Accesorios de vestir, perfumes, artículos de bisutería, cosméticos y similares.
+
+Telas y mercería.
+
+Accesorios para el hogar.
+
+Juguetes.
+
+Dulces y refrescos.
+
+Artículos deportivos.
+
+Productos naturistas.
+
+Artículos esotéricos y religiosos.
+
+Alimentos naturales.
+
+Abarrotes.
+
+Artículos de papelería y escritorio.
+
+Artesanías.
+
+Instrumentos musicales.
+
+Alimento y accesorios para animales.
+
+Plantas y ornato y accesorios.
+
+Los giros de libros nuevos, libros usados, cuadros, cromos y pinturas, como promotores de cultura, quedan exentos de pago.
+
+Grupo 2: Exentos
+
+Se integra por las personas con capacidades diferentes, adultas mayores, madres solteras, indígenas y jóvenes en situación de calle, que ocupen puestos de 1.80 por 1.20 metros cuadrados o menos, quedarán exentas de pago, siempre que se encuentren presentes en los mismos.
+
+La autoridad está obligada a expedir el correspondiente permiso y gafete en forma gratuita.
+
+Las personas a que se refiere esta exención de pago de contribuciones, acreditarán su situación, mediante la presentación de solicitud escrita, dirigida al Jefe Delegacional correspondiente, en la que manifiesten bajo protesta de decir verdad, que se encuentran en la situación prevista en el grupo 2, de exentos.
+
+El Jefe Delegacional está obligado a dar respuesta por escrito al solicitante, debidamente fundada y motivada, en un término de 15 días naturales, así como a emitir y expedir los recibos correspondientes al pago de los aprovechamientos a que se refiere este artículo, durante los primeros quince días naturales de cada trimestre.
+
+Cuando los contribuyentes que estén obligados al pago de estos aprovechamientos que cumplan con la obligación de pagar la cuota establecida en este Artículo, en forma anticipada, tendrán derecho a una reducción en los términos siguientes:
+
+I. Del 20% cuando se efectúe el pago del primer semestre del año, durante los meses de enero y febrero, del mismo ejercicio; y
+
+II. Del 20% cuando se efectúe el pago del segundo semestre del año. Durante los meses de julio y agosto del mismo ejercicio.
+
+Los Comerciantes que hasta la fecha, no se hayan incorporado al Programa de Reordenamiento del Comercio en Vía Pública y se incorporen, causarán el pago de los aprovechamientos que se mencionan, a partir de la fecha de su incorporación.
+
+Las cuotas de los puestos fijos que se encuentren autorizados y que cumplan la normatividad vigente de conformidad con el Reglamento de Mercados, no podrán ser superiores a $40.00 por día, ni inferiores a $20.00 por día de ocupación; dependiendo de la ubicación del área ocupada para estas actividades.
+
+Las personas obligadas al pago de las cuotas a que se refiere el presente artículo, deberán cubrirlas a su elección, por meses anticipados o en forma trimestral.
+
+Los aprovechamientos a los que se refiere este artículo se destinarán a la delegación correspondiente como recursos de aplicación automática.
+
+###### ARTICULO 305.
+
+Tratándose de los siguientes aprovechamientos por la utilización de bienes de uso común se pagarán semestralmente las siguientes tarifas:
+
+a). Los acomodadores de vehículos que utilicen para la recepción de los vehículos la vía pública, sin publicidad y que en ningún caso podrá exceder de un metro cuadrado de dimensión $1,121.00
+
+b). Los acomodadores de vehículos que utilicen para la recepción de los vehículos la vía pública, con publicidad y que en ningún caso podrá exceder de un metro cuadrado de dimensión $5,608.00
+
+Los aprovechamientos a los que se refiere este artículo se destinarán a la delegación correspondiente como recursos de aplicación automática.
+
+###### ARTICULO 306.
+
+Los concesionarios, permisionarios y otros prestadores del servicio de transporte público de pasajeros autorizados a ingresar a paraderos, cualquiera que sea el tipo de unidad, pagarán aprovechamientos por el uso de los bienes muebles e inmuebles de los Centros de Transferencia Modal del Gobierno del Distrito Federal, a razón de $157.00 mensuales por cada unidad, mismos que se pagarán en forma anticipada, dentro de los primeros diez días naturales del mes de que se trate.
+
+Toda unidad deberá portar en la parte superior del parabrisas el tarjetón que ampara el pago de los aprovechamientos anteriormente descritos, misma que deberá emitir la dependencia de la Administración Pública encargada de los Centros de Transferencia Modal.
+
+Los aprovechamientos a que se refiere este artículo se destinarán a la dependencia u órganos responsables de dichos centros como recursos de aplicación automática, de conformidad con las reglas generales que emita la Secretaría, conforme a lo dispuesto en el último párrafo del artículo 303 de este Código.
+
+###### ARTICULO 307.
+
+Tratándose de los siguientes aprovechamientos por la utilización de bienes de uso común se pagarán semestralmente las siguientes tarifas:
+
+a). Casetas Telefónicas $792.00 c/u
+
+Los aprovechamientos a los que se refiere este artículo se destinarán a la Delegación correspondiente como recursos de aplicación automática.
+
+### CAPITULO I. Disposiciones Generales
+
+###### ARTICULO 308.
+
+Los productos por los servicios que preste el Distrito Federal, se cubrirán ante las oficinas autorizadas. La Secretaría autorizará los precios y tarifas relacionados con los productos, cuando esta facultad no se confiera expresamente por disposición jurídica a otra autoridad, y emitirá las reglas de carácter general para el control de los ingresos por este concepto, mismas que se publicarán a más tardar el día veinte de enero de cada año en la Gaceta Oficial del Distrito Federal.
+
+En el caso de las delegaciones, éstas podrán fijar o modificar los precios y tarifas de los productos por los servicios que presten en sus funciones de derecho privado, así como por el uso, aprovechamiento y enajenación de sus bienes de dominio privado que tengan asignados. En este caso, las delegaciones publicarán estos precios y tarifas, en la Gaceta Oficial del Distrito Federal, previa opinión de la Secretaría.
+
+###### ARTICULO 309.
+
+Para el pago de los precios y tarifas autorizados con relación a los productos, los montos a pagar se ajustarán hasta cincuenta centavos al peso inferior y a partir de cincuenta y un centavos hasta noventa y nueve centavos, al peso superior.
+
+###### ARTICULO 310.
+
+Los productos derivados del ejercicio de las funciones de las áreas que los generen, podrán destinarse, a la operación de dichas áreas de conformidad con las reglas generales a que se refiere el artículo 308 de este Código.
+
+### CAPITULO II. De la Recaudación
+
+###### ARTICULO 311.
+
+Se considerarán como ingresos crediticios, aquéllos que con base en los contratos de derivación de fondos se celebren, de acuerdo con lo previsto en la legislación de la materia y de este Código.
+
+###### ARTICULO 312.
+
+La Secretaría deberá preparar la propuesta de montos de endeudamiento anual que deberán incluirse a la Ley de Ingresos, que en su caso requiera el Distrito Federal y las entidades de su sector público conforme a las bases de la ley de la materia y someterla a la consideración del Jefe de Gobierno.
+
+###### ARTICULO 313.
+
+La Secretaría deberá preparar los informes trimestrales y el informe anual sobre el ejercicio de los recursos crediticios, a efecto de que el Jefe de Gobierno presente los informes correspondientes a la Asamblea y al Presidente de la República respectivamente, así como para la elaboración de la cuenta pública.
+
+###### ARTICULO 314.
+
+La Secretaría será la única autorizada para gestionar o tramitar, créditos para el financiamiento de los programas a cargo de las dependencias, órganos desconcentrados, delegaciones y entidades. En ningún caso gestionará financiamientos que generen obligaciones que excedan, a juicio de la Secretaría, la capacidad de pago del Distrito Federal.
+
+###### ARTICULO 315.
+
+Para determinar las necesidades de endeudamiento neto, cuyos montos en su oportunidad deberán ser aprobados por el Congreso de la Unión, la Secretaría deberá tomar en cuenta los programas debidamente aprobados, que requieran de financiamientos para su realización.
+
+###### ARTICULO 316.
+
+Los montos de endeudamiento aprobados por el Congreso de la Unión, serán la base para la contratación de los créditos necesarios para el financiamiento de los programas contemplados en el Presupuesto de Egresos, que tengan como objetivo la realización de inversiones públicas, o bien, actividades productivas que generen los recursos suficientes para el pago del crédito o que se utilicen para el mejoramiento de la estructura del endeudamiento público.
+
+###### ARTICULO 317.
+
+Para efectos del artículo anterior, las dependencias, órganos desconcentrados, delegaciones y entidades, deberán indicar claramente los recursos que se utilizarán para el pago de los financiamientos que se promuevan.
+
+###### ARTICULO 318.
+
+La Secretaría incluirá en el Presupuesto de Egresos, el monto de las partidas destinadas a satisfacer los compromisos derivados de la contratación de financiamientos.
+
+###### ARTICULO 319.
+
+La Secretaría llevará los registros de los financiamientos contratados, conforme a las reglas que señale la Secretaría de Hacienda y Crédito Público.
+
+###### ARTICULO 320.
+
+Corresponde a la Secretaría, en relación a los financiamientos contratados, lo siguiente:
+
+I. Administrar los recursos procedentes de créditos para el financiamiento del presupuesto;
+
+II. Tomar las medidas de carácter administrativo relativas al pago del principal, liquidación de intereses, comisiones, gastos financieros, requisitos y formalidades de los documentos contractuales respectivos que deriven de los empréstitos concertados por la Federación para el Distrito Federal;
+
+III. Efectuar oportunamente los pagos de capital e intereses de los créditos a que se refiere el artículo anterior;
+
+IV. Turnar simultáneamente a la Asamblea, copia de los informes completos que por disposición de Ley debe remitir trimestral y anualmente a la Secretaría de Hacienda y Crédito Público, y a través de ésta, al H. Congreso de la Unión respecto a la contratación, ejercicio y saldos de la deuda pública del Distrito Federal, y
+
+V. Las demás que otras leyes y ordenamientos le confieran.
+
+### CAPITULO III. De la Custodia y Administración de Bienes Embargados
+
+###### ARTICULO 321.
+
+Se considerarán como ingresos locales del Distrito Federal los derivados del Sistema Nacional de Coordinación Fiscal, de conformidad con el Acuerdo o Convenio de Coordinación que al efecto se celebre, y la legislación aplicable.
+
+###### ARTICULO 322.
+
+Las multas que perciba el Distrito Federal como consecuencia de actos regulados por la Ley, Acuerdos o Convenios de Coordinación Fiscal, Acuerdos Administrativos y cualquier otro instrumento jurídico, podrán ser destinadas a los fines y en los montos que la Secretaría determine, mediante acuerdo de carácter administrativo para elevar la productividad.
+
+### CAPITULO UNICO. Del Pago de Devoluciones
+
+###### ARTICULO 323.
+
+Los ingresos que perciba el Distrito Federal derivados del procedimiento administrativo de ejecución, entablado contra una persona condenada a la reparación del daño, por sentencia ejecutoriada, no se considerarán como ingresos propios de la Entidad y por lo tanto el control que se lleve de ellos debe ser independiente de la contabilidad general de ingresos.
+
+###### ARTICULO 324.
+
+Los ingresos a que se refiere el artículo anterior deberán ser puestos dentro de los diez días hábiles siguientes a la recepción de los mismos por parte de la autoridad fiscal, a disposición de la víctima u ofendido señalado en la sentencia ejecutoriada. En caso de que dichos ingresos no se reintegren en el plazo señalado, la autoridad fiscal pagará intereses conforme a una tasa, que será igual a la prevista para recargos por la falta de pago oportuno, establecida en este Código, contados a partir de la fecha en que se percibió el ingreso y hasta el momento de su entrega.
+
+###### ARTICULO 325.
+
+La Secretaría dentro de los diez días siguientes a la recepción de los donativos en efectivo que se realicen a las dependencias, órganos desconcentrados o entidades, les entregará a éstas dichos donativos, según corresponda.
+
+# LIBRO SEGUNDO. DE LOS SERVICIOS DE TESORERIA
+
+## TITULO PRIMERO. DE LA PRESTACION DE LOS SERVICIOS
+
+### CAPITULO I. De las Garantías del Cumplimiento de Obligaciones
+
+###### ARTICULO 326.
+
+Los servicios de tesorería del Distrito Federal, estarán a cargo de la Secretaría.
+
+###### ARTICULO 327.
+
+Para los efectos de este Código se entenderá por servicios de tesorería aquéllos relacionados con las materias de: recaudación, concentración, manejo, administración y custodia de fondos y valores de la propiedad o al cuidado del Distrito Federal, así como la ejecución de los pagos, la ministración de recursos financieros y demás funciones y servicios que realice la Secretaría.
+
+###### ARTICULO 328.
+
+Los servicios de tesorería a que se refiere este Capítulo, serán prestados por:
+
+I. La Secretaría y las distintas unidades administrativas que la integran, y
+
+II. Los auxiliares a que se refiere el artículo siguiente.
+
+###### ARTICULO 329.
+
+Son auxiliares de la Secretaría:
+
+I. Las unidades administrativas de las dependencias de la Administración Pública del Distrito Federal expresamente autorizadas por la Secretaría para prestar estos servicios;
+
+II. Las sociedades nacionales de crédito y las instituciones de crédito, autorizadas por la Secretaría;
+
+III. Las unidades administrativas de los Órganos de Gobierno, de la Comisión y de las Entidades de la Administración Pública Paraestatal, Local y Federal, encargadas del manejo y administración de recursos presupuestales, y
+
+IV. Las personas morales y físicas legalmente autorizadas. La autorización deberá de ser publicada en la Gaceta Oficial del Distrito Federal.
+
+La Secretaría conservará, en todo caso, la facultad de ejercer directamente las funciones que desempeñen los auxiliares.
+
+###### ARTICULO 330.
+
+Las personas a que se refiere la fracción IV del artículo anterior, deberán garantizar con fianza de institución autorizada el desempeño de su función.
+
+###### ARTICULO 331.
+
+La Secretaría, conforme a la legislación aplicable, dictará las reglas de carácter general que establezcan sistemas, procedimientos e instrucciones en materia de servicios de tesorería conforme a las cuales deberán ajustar sus actividades las unidades administrativas de la Secretaría y sus auxiliares. La Secretaría supervisará el cumplimiento de las citadas reglas.
+
+La Contraloría realizará la vigilancia y supervisión de los servicios de tesorería, y en su caso hará las observaciones y recomendaciones que considere pertinentes para su eficaz prestación, a la Secretaría.
+
+###### ARTICULO 332.
+
+La Secretaría tendrá a su cargo la emisión, distribución y control de las formas numeradas que utilicen los auxiliares en los servicios de recaudación, devolución de impuestos y pagos con cargo al Presupuesto de Egresos, así como las demás que requieran los servicios por ella prestados o cuya emisión deba efectuarse por disposición legal u orden de la Secretaría. De igual forma, intervendrá en la destrucción de las referidas formas, cuando así proceda, junto con los materiales empleados en su producción.
+
+Tratándose de recursos de aplicación automática, la emisión, distribución y control de las formas numeradas correrá a cargo de la unidad generadora. La Secretaría quedará facultada para aprobar el formato respectivo, y en su caso, verificar el control de dichas formas, así como su congruencia con los asientos contables de la unidad generadora respectiva
+
+### CAPITULO II. De la Calificación, Aceptación, Registro y Guarda de las Garantías
+
+###### ARTICULO 333.
+
+El servicio de recaudación consistirá en la recepción, custodia y concentración de fondos y valores de la propiedad o al cuidado del Distrito Federal.
+
+###### ARTICULO 334.
+
+La recaudación se efectuará en moneda nacional, dentro del territorio del Distrito Federal, aceptándose, únicamente como medios de pago, los previstos en este Código.
+
+###### ARTICULO 335.
+
+A fin de asegurar la recaudación de toda clase de créditos a favor del Distrito Federal, la Secretaría podrá autorizar la dación en pago de bienes y servicios, ya sea para cumplir con las obligaciones fiscales a cargo del interesado o de un tercero.
+
+La aceptación de bienes o servicios suspenderá provisionalmente, a partir de la notificación de la resolución correspondiente, todos los actos tendientes al cobro del crédito respectivo, así como la actualización de éste y sus accesorios. Si no se formaliza la dación en pago o el deudor no presta los servicios ofrecidos en el plazo y condiciones establecidos, quedará sin efecto la suspensión del cobro del crédito, debiendo actualizarse las cantidades desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe.
+
+Tratándose de bienes muebles o inmuebles, se aceptará el valor del avalúo practicado por las personas autorizadas o autoridad fiscal competente, en los términos de lo dispuesto por el artículo 22 de este Código.
+
+En el caso de servicios, el deudor deberá promover que le sea adjudicada su contratación, en apego a la Ley de Adquisiciones para el Distrito Federal, debiendo prestar el servicio en un plazo máximo de 18 meses contados a partir de la resolución de aceptación de la dación en pago.
+
+La dación en pago quedará formalizada y se tendrá por extinguido el crédito conforme a lo siguiente:
+
+I. Cuando se trate de bienes inmuebles, a la fecha de la firma de la escritura pública en que se transmita el dominio del bien al Gobierno del Distrito Federal, que se otorgará dentro de los 45 días hábiles siguientes a aquél en que se haya notificado la resolución de aceptación. Los gastos de escrituración y las contribuciones que origine la operación, serán por cuenta del deudor al que se le haya aceptado la dación en pago.
+
+II. Tratándose de bienes muebles, a la fecha de la firma del acta de entrega de los mismos que será dentro de los cinco días hábiles siguientes a aquél en que se haya notificado la aceptación.
+
+En el caso de que resulte algún gasto por la entrega del bien, corresponderá al deudor del crédito fiscal cubrirlo, así como las contribuciones que en su caso se generen.
+
+El plazo señalado en las fracciones I y II no será aplicable cuando el contribuyente hubiere ofrecido la entrega del bien mueble o inmueble en tiempo distinto al establecido en éstas, pero deberá formalizarse en los términos y condiciones previstos en las mismas, extinguiéndose el crédito fiscal al actualizarse dichos supuestos.
+
+III. Respecto a los servicios, en la fecha que éstos sean efectivamente prestados. En caso de cumplimiento parcial se extinguirá proporcionalmente el crédito respectivo.
+
+En el caso de propuestas de dación en pago de bienes muebles e inmuebles o servicios, ofrecidos para ser entregados en tiempo determinado, el tiempo aproximado de formalización o prestación, deberá estar relacionado con el tipo de bien o servicio ofrecido, que tratándose de estos últimos no deberá exceder de 18 meses, y se deberá garantizar el crédito fiscal, en cualquiera de las formas prevista en el artículo 30 del Código Fiscal del Distrito Federal.
+
+Los bienes recibidos en dación en pago quedarán en custodia y administración de la Secretaría a partir de que ésta se formalice, a fin de que la misma, en su caso, los enajene por medio de licitación pública, subasta, remate o adjudicación directa, siempre que el precio no sea en cantidad menor a la del valor en que fueron recibidos, con adición de los gastos de administración o venta generados, excepto cuando el valor del avalúo actualizado sea menor, en cuyo caso éste será el precio mínimo de venta, o bien los ponga a disposición de la autoridad correspondiente, con el objeto de incorporarlos en el inventario o registro respectivo.
+
+La aceptación o negativa de la solicitud de dación en pago se emitirá en un término que no excederá de 30 días hábiles, cuando se haya integrado debidamente el expediente, de no emitirse la resolución en dicho término se tendrá por negada.
+
+###### ARTICULO 336.
+
+La recepción de los fondos y, en su caso, los valores resultantes de la recaudación, se justificará con los documentos relativos a la determinación del crédito, resoluciones administrativas o judiciales, autorizaciones, convenios, contratos, permisos, concesiones, transferencias vía electrónica, y los demás que establezca este Código y demás disposiciones legales aplicables. Dichos fondos se comprobarán con los documentos o formas oficiales que establezcan las reglas de carácter general que para tal efecto se expidan conforme a lo establecido en el artículo 37 de este Código.
+
+En todos los casos, la recepción de los fondos deberá reflejarse en los registros de la Secretaría en los términos de este Código.
+
+###### ARTICULO 337.
+
+Todos los fondos que se recauden, provenientes de la aplicación de la Ley de Ingresos y de este Código, comprendidos los que estén destinados a un fin determinado, así como los que por otros conceptos tenga derecho a percibir el Distrito Federal, por cuenta propia o ajena, se concentrarán en la Secretaría, salvo los siguientes:
+
+I. Los provenientes de cuotas de seguridad social destinadas a las Cajas de Previsión de la Policía Preventiva, Policía Auxiliar y de los Trabajadores a Lista de Raya del Gobierno del Distrito Federal;
+
+II. Los provenientes de productos y aprovechamientos, cuando la unidad administrativa o delegación cuente con autorización de la Secretaría, para la aplicación directa de la totalidad de estos fondos o en la proporción que la propia Secretaría determine;
+
+III. Los provenientes de Derechos, cuando se presten por el Tribunal, mismo que gozará de autonomía para concentrarlos, así como los ingresos por productos y aprovechamientos, incluyendo multas, con base en las disposiciones que al respecto emita su órgano de gobierno;
+
+IV. Los ingresos propios de los organismos descentralizados y empresas de participación estatal mayoritaria, y
+
+V. Los demás que por disposición de este Código y demás leyes aplicables, se establezca la excepción de concentración de fondos.
+
+En el caso de los fondos destinados a un fin determinado, sólo podrá disponerse de ellos por aplicación del Presupuesto de Egresos.
+
+###### ARTICULO 338.
+
+Los fondos se concentrarán en la Secretaría, o en su caso, en el banco concentrador, en el horario que establezca la propia Secretaría contra la entrega del recibo correspondiente, el mismo día en que se efectúe la recaudación, con las excepciones siguientes:
+
+I. Los organismos descentralizados concentrarán la recaudación el día hábil siguiente de efectuada, salvo que se trate de la realizada en viernes o en día inmediato anterior a otro inhábil, casos en los que deberá concentrarse el mismo día. La Secretaría podrá ampliar o autorizar la no sujeción a los plazos antes indicados, cuando por disposición legal los fondos estén destinados para fines patrimoniales de los propios organismos y tengan encomendada su administración hasta por los montos autorizados por la Secretaría, y
+
+II. Las sociedades nacionales de crédito, instituciones de crédito y los particulares legalmente autorizados, concentrarán los fondos al día hábil siguiente de recibidos, excepto en aquellos casos en que la Secretaría autorice un plazo distinto, el cual no podrá exceder de 24 horas adicionales.
+
+Las sociedades nacionales de crédito, instituciones de crédito y particulares, deberán pagar intereses, por concepto de indemnización en caso de concentración extemporánea, conforme a la tasa que para los casos de mora en el pago de créditos fiscales, señale la Ley de Ingresos, los cuales se calcularán por mes o fracción que transcurra a partir del día en que debió hacerse la concentración y hasta que la misma se efectúe.
+
+###### ARTICULO 339.
+
+El servicio de concentración de fondos, podrá efectuarse por conducto de sociedades nacionales de crédito e instituciones de crédito que autorice la Secretaría.
+
+###### ARTICULO 340.
+
+La recolección de los fondos en las oficinas recaudadoras, se considerará para los efectos de esta Sección, como parte integrante del servicio de concentración de fondos.
+
+La recolección de fondos, podrá prestarse por las sociedades nacionales de crédito, las instituciones de crédito o los particulares que autorice la Secretaría.
+
+###### ARTICULO 341.
+
+El importe de las entregas derivadas de la recolección a que se refieren los artículos anteriores, se documentará con las formas oficiales aprobadas, así como con el recibo provisional que por la entrega extiendan el o los bancos responsables de la concentración de fondos, o la empresa de servicios especializados de conducción y protección que utilicen dichos bancos para la recolección o los particulares que contrate directamente la Secretaría, cuyos servicios deberán aprobarse previamente por ésta. La recolección matutina se concentrará el mismo día, la vespertina se hará el día inmediato siguiente.
+
+###### ARTICULO 342.
+
+La custodia de fondos y valores de la propiedad o al cuidado del Distrito Federal, provenientes de la recaudación comprende su guarda, protección, traslado y conducción, desde su recolección hasta su entrega.
+
+La custodia de fondos y valores estará a cargo:
+
+I. Del personal de las oficinas recaudadoras de la Secretaría o de otras dependencias de la Administración Pública del Distrito Federal que, por la naturaleza del puesto o por habilitación expresa, desempeñen la función y tengan caucionado su manejo;
+
+II. De las sociedades nacionales de crédito o instituciones de crédito que recauden ingresos locales, o efectúen servicios de concentración de fondos o valores;
+
+III. Del personal de las entidades de la Administración Pública Paraestatal que administren ingresos locales, y
+
+IV. De los particulares que conforme a este Código reciban fondos y valores locales.
+
+La custodia de fondos y valores dentro de las oficinas recaudadoras y de los auxiliares, a que se refiere este título, se realizará conforme a las reglas de carácter general que emita la Secretaría.
+
+###### ARTICULO 343.
+
+La protección de fondos y valores, estará a cargo del resguardo de valores como unidad administrativa de la Secretaría, con atribuciones de custodia, vigilancia, protección y seguridad de los fondos y valores del Distrito Federal, durante su traslado, conducción y guarda. El servicio a que se refiere este artículo se prestará con estricto apego a los sistemas y procedimientos que establezca la Secretaría mediante reglas generales. En caso de que se considere conveniente, la Secretaría podrá contratar dicho servicio con empresas especializadas de comprobada experiencia.
+
+###### ARTICULO 344.
+
+La Secretaría deberá invertir los fondos disponibles en valores de alto rendimiento y fácil realización.
+
+Las dependencias y entidades de la Administración Pública del Distrito Federal, deberán sujetarse a los lineamientos que determine la Secretaría, respecto de las disponibilidades financieras con que cuenten durante el ejercicio fiscal.
+
+###### ARTICULO 345.
+
+La falta de entrega a la Secretaría de los recursos a que se refiere el artículo anterior y la de valores representativos de inversiones financieras del Distrito Federal, será materia de responsabilidad para los servidores públicos que tengan a su cargo la administración de la entidad que los conserve en su poder.
+
+###### ARTICULO 346.
+
+La Secretaría ejercerá los derechos patrimoniales de los valores que representen inversiones financieras del Distrito Federal. La custodia y administración de dichos valores estará exclusivamente a cargo de la Secretaría.
+
+###### ARTICULO 347.
+
+Las entidades a que se refiere la fracción X del artículo 2 de este Código, en las que el Distrito Federal tenga inversiones financieras, informarán a la Secretaría los dividendos, utilidades o remanentes respectivos, a más tardar 15 días después de la aprobación de los estados financieros.
+
+###### ARTICULO 348.
+
+El ejercicio de los derechos patrimoniales tendrá por objeto la recaudación de los dividendos, utilidades, intereses que se causen, remanentes o cuotas de liquidación que resulten de las inversiones financieras del Distrito Federal, así como el precio de venta de la participación accionaria.
+
+###### ARTICULO 349.
+
+En los casos de transmisión de valores que representen inversiones financieras del Distrito Federal, o cualquier otro título de crédito o débito, el Titular de la Secretaría endosará o firmará por cuenta de la Entidad, conjuntamente con el servidor público en el cual se delegue también dicha facultad, los referidos documentos y hará la entrega al beneficiario.
+
+### CAPITULO III. De la Cancelación y Devolución de las Garantías
+
+###### ARTICULO 350.
+
+Los bienes que se embarguen por autoridades del Distrito Federal, distintas de las fiscales conforme a las leyes administrativas aplicables, y los abandonados expresa o tácitamente en beneficio del Distrito Federal, se pondrán a disposición de la Secretaría, junto con la documentación que justifique los actos, para su guarda, administración, aplicación, adjudicación, remate o venta, donación o destrucción, según proceda.
+
+Los montos de los bienes que se generen como resultado de la aplicación de lo dispuesto en este artículo, se reportarán en un apartado específico del Informe de Avance, indicando el valor económico de los bienes sujetos de guarda, administración, aplicación, remate o venta, donación o destrucción.
+
+El abandono de bienes que, estén en poder o al cuidado de las autoridades del Distrito Federal, procederá si no son reclamados en el plazo de tres meses contados a partir de la fecha en que queden a disposición de quien tenga derecho o interés jurídico en ellos.
+
+Transcurrido el plazo antes señalado sin que se hayan retirado los citados bienes, se notificará al interesado del vencimiento de dicho plazo y que cuenta con quince días para proceder a su retiro. Si se desconoce el domicilio del interesado, la notificación se hará por estrados. Una vez vencido el plazo de quince días antes citado sin que se haya hecho el retiro, los bienes serán declarados abandonados y pasarán a ser propiedad del Distrito Federal.
+
+Los bienes embargados a que se refiere este artículo, deberán inventariarse por lo menos dos veces al año. Dicho inventario deberá cotejarse con el control administrativo a cargo del propio Gobierno del Distrito Federal, y en caso de diferencias entre el control físico y administrativo, deberá investigarse y aclararse, incluso para deslindar responsabilidades a las personas que estén a cargo de esos controles.
+
+Los bienes y valores que se encuentren a disposición de la autoridad investigadora del Ministerio Público o de las Judiciales del Distrito Federal, conforme al Código Penal para el Distrito Federal, y que no hubieren sido recogidos por quien tenga derecho o interés jurídico en ellos, se venderán e invertirán de conformidad con las disposiciones legales y administrativas aplicables. Los bienes perecederos de consumo y durables y aquellos que carezcan de valor o éste sea menor a lo que pudiera costar su enajenación, podrán ser donados a instituciones de asistencia pública en el Distrito Federal, en los términos y condiciones que se establezcan, mediante acuerdo que emita el Procurador General de Justicia del Distrito Federal. El procedimiento administrativo de venta estará a cargo de la Procuraduría General de Justicia del Distrito Federal o del Tribunal.
+
+Tratándose de bienes decomisados por las autoridades judiciales les será aplicable lo dispuesto en el párrafo anterior. Las autoridades competentes determinarán su destino conforme a las prescripciones del Código Penal.
+
+En los casos previstos por los dos párrafos anteriores de este artículo, los fondos deberán ser concentrados en los Fondos de Apoyo a la Procuración y Administración de Justicia, según corresponda.
+
+###### ARTICULO 351.
+
+Para efectuar el retiro de los bienes a que se alude en el artículo anterior, deberá acreditarse el interés jurídico, presentar la documentación que justifique dicho retiro y, en su caso, pagar los créditos fiscales que se determinen conforme a lo establecido en este Código.
+
+###### ARTICULO 352.
+
+Los bienes embargados por autoridades administrativas del Distrito Federal, a que se refiere este Capítulo, y que se encuentren a disposición de la Secretaría, así como aquellos que causen abandono a favor del Distrito Federal, una vez que se verifique la documentación comprobatoria que se acompañe y de no haber impedimento legal alguno, podrán ser rematados en subasta pública, conforme a lo previsto en el Capítulo I del Título Primero, del Libro Tercero, de este Código, enajenados fuera de remate o adjudicados a favor del Distrito Federal, para que sean donados o destinados para su uso en un área específica del propio Gobierno del Distrito Federal, conforme a las reglas de carácter general que dicte la Secretaría. El producto del remate quedará en depósito en la Secretaría a efecto de ser aplicado presupuestalmente en los programas autorizados, o bien, para proceder de acuerdo con las instrucciones de las autoridades judiciales o disposiciones legales aplicables.
+
+Cuando la utilidad de los bienes antes referidos sea nula y no exista la posibilidad de obtener provecho alguno por su venta o de sus residuos, podrá ordenarse su destrucción, previa resolución debidamente justificada y levantamiento de un acta administrativa.
+
+###### ARTICULO 353.
+
+En los actos de remate, venta, adjudicación al Distrito Federal, donación o destrucción a que se refiere el artículo anterior, intervendrá un representante de la Contraloría.
+
+###### ARTICULO 354.
+
+Para los efectos de este Código, se entenderá por vehículo chatarra: los medios de transporte terrestre, como el automóvil, camioneta, autobús, vehículos de carga, entre otros, que se encuentran deteriorados, inservibles, destruidos, desbaratados, podridos o inutilizados permanentemente para su circulación.
+
+###### ARTICULO 355.
+
+La Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad llevarán a cabo un inventario de las unidades que se encuentren en sus depósitos, el cual constará en un acta debidamente circunstanciada en presencia de fedatario público, a efecto de hacer constar el estado en que se encuentran los vehículos al momento en que se practique el inventario y el deterioro que guardan los denominados vehículos chatarra.
+
+Además, en el acta circunstanciada a que se refiere el párrafo anterior, la Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad identificarán aquellos vehículos de los que se conozca al propietario o poseedor, el motivo y fecha de su ingreso al depósito de que se trate, a efecto de que la Secretaría de Finanzas lleve a cabo el procedimiento de cobro a que hace referencia el artículo 356, fracción I del presente Código.
+
+###### ARTICULO 356.
+
+Una vez que la Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad, lleven a cabo lo señalado en el artículo anterior, se procederá conforme a lo siguiente:
+
+I. Tratándose de vehículos en donde se tenga identificado al propietario o poseedor, la Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad, proporcionarán a la Secretaría de Finanzas los elementos suficientes para la determinación del crédito fiscal generado por el almacenaje del vehículo, así como las multas que le hayan sido impuestas, con el apercibimiento de que si el propietario o poseedor no realiza o garantiza el pago dentro de los quince días siguientes a aquél en que surta efectos la notificación de la determinación del crédito, los vehículos serán declarados abandonados y pasarán a ser propiedad del Distrito Federal.
+
+Los gastos por concepto de la diligencia a que se refiere el párrafo anterior serán a cargo del propietario o poseedor del vehículo y tendrán el carácter de crédito fiscal.
+
+Transcurrido el plazo a que hace referencia el primer párrafo de esta fracción, la Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad procederán a enajenar fuera de remate, en cuyo caso el procedimiento de enajenación estará a cargo de las mismas, con la participación de la Oficialía Mayor del Distrito Federal y la Contraloría.
+
+Cuando no se trate de vehículos chatarra, el valor base para su enajenación, será el que corresponda al avalúo pericial.
+
+II. Cuando se desconozca al titular del derecho de propiedad o posesión de los vehículos, la Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad, realizarán una publicación dirigida al público en general, por una sola ocasión en un periódico de circulación en el Distrito Federal, en la que se señalarán las características que se puedan precisar de los vehículos de que se trate, a efecto de que los legítimos propietarios o poseedores de los mismos, gocen del término de un mes para acudir ante la autoridad señalada en dicha publicación para acreditar tal carácter, así como determinar el motivo de su ingreso a los mencionados depósitos y proceder al pago de los adeudos correspondientes.
+
+La publicación a que se refiere el párrafo anterior deberá cumplir los requisitos del artículo 101 de este Código y los costos de la misma quedarán a cargo de la Secretaría de Seguridad Pública o de la Secretaría de Transportes y Vialidad, según corresponda.
+
+III. Transcurrido el plazo de un mes a que se refiere la fracción anterior, en el que quedará a disposición del titular del derecho de propiedad o posesión del vehículo de que se trate, sin que sea retirado, pasará a ser propiedad del Distrito Federal y deberá ser enajenado fuera de remate, en cuyo caso el procedimiento de enajenación, estará a cargo de la Secretaría de Seguridad Pública o la Secretaría de Transportes y Vialidad con la participación de la Oficialía Mayor del Distrito Federal, así como de la Contraloría. Cuando no se trate de vehículos chatarra, el valor base para su enajenación, será el que corresponda al avalúo pericial.
+
+IV. Cuando se trate de operativos llevados a cabo por la Secretaría de Seguridad Pública, con el objeto de retirar de la vía pública, vehículos chatarra o abandonados, éstos deberán ser puestos a disposición del Ministerio Público, quien procederá a iniciar averiguación previa, conforme a lo dispuesto por el Título Vigésimo Tercero, Capítulo Primero del Código Penal, o por cualesquier otro delito que resulte, y realizará en su caso, el procedimiento previsto para los bienes asegurados, a fin de que los recursos que de ello se obtengan sean depositados íntegramente en el Fondo de Apoyo a la Procuración de Justicia.
+
+El producto de la enajenación de los vehículos remitidos a los depósitos vehiculares por las Delegaciones en términos del artículo 9 bis de la Ley de Transporte y Vialidad del Distrito Federal, así como las multas que en su caso se hayan pagado respecto de dichos vehículos, se destinarán a la Delegación que los haya remitido como recursos de aplicación automática, de conformidad con la normatividad aplicable, para destinarlos a obras y trabajos para mejoramiento urbano de la demarcación.
+
+Durante la aplicación de los procedimientos a que se refiere este artículo, la guarda o administración de los vehículos estarán a cargo de la Secretaría de Seguridad Pública o de la Secretaría de Transportes y Vialidad.
+
+###### ARTICULO 357.
+
+Cuando de la documentación que se acompañe a los bienes que vaya a recibir la Secretaría, se desprenda la existencia de impedimentos legales para disponer de ellos, ésta se abstendrá de aceptarlos para que la autoridad remitente los mantenga en guarda o administración, según corresponda, en tanto desaparece el impedimento.
+
+## TITULO SEGUNDO. DE LA MINISTRACION DE FONDOS Y DE LOS PAGOS
+
+### CAPITULO IV. De la Efectividad y Aplicación de las Garantías
+
+###### ARTICULO 358.
+
+La devolución de las cantidades percibidas indebidamente por el Distrito Federal y las que procedan de conformidad con lo previsto en este Código, se efectuarán por conducto de la Secretaría, mediante cheque nominativo para abono en cuenta del contribuyente o certificados expedidos a nombre de este último, de conformidad con lo que establece el primer párrafo del artículo 49 de este Código. Las Instituciones de crédito autorizadas podrán llevar a cabo dicha devolución mediante autorización expresa y por escrito de la Secretaría, a través de la expedición de cheques de caja o mediante depósito en la cuenta del contribuyente, para lo cual, éste deberá manifestar su aprobación y proporcionar su número de cuenta en la solicitud de devolución correspondiente. Para tal efecto, las autoridades fiscales competentes dictarán de oficio o a petición de parte, las resoluciones que procedan.
+
+Asimismo, la devolución podrá realizarse a través de transferencia electrónica interbancaria para lo cual los contribuyentes proporcionarán, los datos de la institución financiera y el número de clave bancaria estandarizada para la transferencia electrónica al contribuyente en dicha institución financiera, debidamente integrado de conformidad con las disposiciones del Banco de México.
+
+Los estados de cuenta que expidan las instituciones financieras serán considerados como comprobantes de pago de la devolución respectiva.
+
+###### ARTICULO 359.
+
+La devolución de cantidades percibidas a favor de terceros, se resolverá a petición de parte, previa opinión del tercero beneficiario, que deberá rendirla dentro de un plazo de quince días hábiles contados a partir de la fecha de notificación y, si no lo hace, la Secretaría, con base a la opinión legal de la Procuraduría Fiscal, en caso procedente hará la devolución. Cuando la devolución corresponda a pensiones alimenticias descontadas y pagadas de más, el trámite no suspenderá el pago de la suma autorizada y una vez resuelta la devolución, los excedentes se regularizarán por la unidad ejecutora del pago, disminuyendo el 10% del importe de los pagos futuros hasta su total amortización.
+
+## TITULO TERCERO. DE LAS GARANTIAS A FAVOR DEL GOBIERNO DEL DISTRITO FEDERAL, DISTINTAS DE AQUELLAS DESTINADAS A GARANTIZAR CREDITOS FISCALES
+
+### CAPITULO I. Del Procedimiento Administrativo de Ejecución
+
+###### ARTICULO 360.
+
+Las garantías que deban constituirse a favor de las dependencias, órganos desconcentrados, delegaciones y entidades por actos y contratos que celebren, deberán sujetarse a lo siguiente:
+
+I. Salvo disposición expresa, la forma de garantizar el cumplimiento de las obligaciones a favor de las dependencias, órganos desconcentrados, delegaciones y entidades, será:
+
+a). Mediante fianza otorgada por compañía autorizada en los términos de la Ley Federal de Instituciones de Fianzas;
+
+b). Mediante depósito de dinero;
+
+c). Cheque de caja;
+
+d). Cheque certificado;
+
+e). Billete de depósito;
+
+f). Carta de crédito, o
+
+g). Cualquier otra forma que determine la Secretaría;
+
+II. Cuando la fianza se otorgue por actos o contratos celebrados por las dependencias, órganos desconcentrados y delegaciones deberá ser a favor y satisfacción de la Secretaría. En el caso de actos o contratos celebrados por las entidades, las garantías se otorgarán a favor de éstas, las cuales deberán en su caso, ejercitar directamente los derechos que les correspondan;
+
+III. Las dependencias, órganos desconcentrados, delegaciones y entidades deberán cuidar que las garantías que se otorguen por los actos y contratos que celebren, satisfagan los requisitos legales establecidos, según el objeto o concepto que les dé origen y que su importe cubra suficientemente el del acto u obligación que deba garantizarse;
+
+IV. La Secretaría calificará las garantías que se otorguen a su favor. Las entidades deberán calificar las garantías que se otorguen a su favor. En cada caso, si procede, deberán aceptarlas y guardarlas;
+
+V. Las garantías que se otorguen con relación a las adquisiciones y obras públicas se sujetarán a las disposiciones legales, reglamentarias y administrativas en general que sean aplicables, y
+
+VI. En lo no previsto en las fracciones anteriores se estará supletoriamente a lo dispuesto en la Ley Federal de Instituciones de Fianzas y al Código Civil para el Distrito Federal.
+
+La Secretaría resolverá las solicitudes de autorización que presenten las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, para admitir otra forma de garantía o eximir de ésta, respecto de actos y contratos que celebren.
+
+###### ARTICULO 361.
+
+Para la efectividad de los certificados de depósito de dinero expedidos a favor del Distrito Federal por institución de crédito autorizada, los auxiliares a que se refiere el artículo 329 de este Código, remitirán mensualmente dichos certificados a la Secretaría, una vez que haya transcurrido un año calendario contado a partir de la fecha de su expedición.
+
+A partir de que se transfiera el depósito y mientras subsista la garantía, la Secretaría continuará pagando intereses conforme a las tasas que hubiere estado pagando la sociedad nacional de crédito o la institución de crédito que haya expedido los certificados.
+
+###### ARTICULO 362.
+
+La Secretaría aplicará o devolverá los certificados de depósito de dinero expedidos a favor del Distrito Federal por instituciones autorizadas. La Secretaría directamente y bajo su responsabilidad podrá, en todo caso, hacer efectivos los certificados de depósito expedidos por sociedad nacional de crédito o institución de crédito autorizada a favor de la propia Secretaría, para transferir su importe a la cuenta de depósitos de la contabilidad de la Hacienda Pública del Distrito Federal, donde quedará acreditado sin perder su naturaleza de garantía a favor del Distrito Federal.
+
+### CAPITULO I. Consideraciones Generales
+
+###### ARTICULO 363.
+
+La Secretaría, directamente o por conducto de los auxiliares facultados legalmente para ello, calificará, aceptará, registrará, conservará en guarda y custodia, sustituirá, cancelará, devolverá y hará efectivas, según proceda las garantías que se otorguen a favor del Distrito Federal.
+
+En los casos de las fianzas que se otorguen ante las autoridades judiciales para garantizar el beneficio de la libertad provisional bajo caución o el de la libertad condicional, que conforme a las disposiciones legales respectivas, se deban hacer efectivas a favor del Estado, las propias autoridades judiciales ante quienes se constituyan las garantías, podrán realizar los actos señalados en el párrafo anterior.
+
+Las autoridades judiciales, ante quienes se constituyan garantías distintas de las previstas en el párrafo anterior, podrán realizar los actos señalados en el primer párrafo de este artículo, excepto hacerlas efectivas o efectuar su aplicación, lo cual se llevará a cabo por la Secretaría directamente o por conducto de los auxiliares facultados legalmente.
+
+En los casos de actos o contratos celebrados con las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, la calificación se hará cumpliendo los requisitos de verificación que para tal efecto establezcan las reglas administrativas en materia del servicio de tesorería.
+
+###### ARTICULO 364.
+
+Las garantías que se otorguen a favor del Distrito Federal, podrán sustituirse en los casos que establezcan las disposiciones legales, siempre y cuando no sean exigibles y las nuevas sean suficientes. Para la sustitución de las garantías en los contratos de obra pública y de adquisiciones, se estará a lo dispuesto por la Ley respectiva.
+
+### CAPITULO II. De las Formalidades de los Escritos
+
+###### ARTICULO 365.
+
+La cancelación de las garantías a que se refiere este Capítulo será procedente en los siguientes supuestos:
+
+I. Realizados los actos o cumplidas las obligaciones y, en su caso, período de vigencia establecidos en contratos administrativos, concursos de obras y adquisiciones, anticipos, permisos, autorizaciones, concesiones, prórrogas y otras de naturaleza no fiscal;
+
+II. Si se trata de depósitos constituidos por interesados en la venta de bienes en concursos en los que no resulten beneficiados con la adjudicación de los bienes o del contrato respectivo, y
+
+III. En cualquier otro caso previsto en las disposiciones legales.
+
+La Secretaría y los auxiliares que hayan calificado, aceptado y tengan bajo guardia y custodia las garantías, en los supuestos anteriores procederán a cancelarlas.
+
+###### ARTICULO 366.
+
+Cuando como consecuencia de la cancelación de las garantías deba devolverse dinero, bienes o valores, se observará lo siguiente:
+
+I. La garantía de depósito de dinero constituida en certificado expedido por institución autorizada, se endosará a favor del depositante, excepto cuando se trate de certificados que se hayan hecho efectivos. En este último caso, la devolución del importe lo hará la Secretaría, afectando la cuenta de depósitos de la contabilidad de la Hacienda Pública del Distrito Federal, expidiéndose a favor del interesado el cheque respectivo.
+
+La devolución de cantidades en efectivo depositadas por postores que no resulten beneficiados con la adjudicación de bienes embargados por autoridades distintas de las fiscales, deberá efectuarse por el auxiliar que lleve a cabo el remate o venta.
+
+La devolución de los depósitos en efectivo efectuados ante la Secretaría, por los interesados en concursos o licitaciones públicas en las que no resulten beneficiados, deberá realizarse a solicitud de la dependencia o entidad que llevó a cabo el concurso o licitación pública, y
+
+II. En las garantías de prenda, hipoteca, embargo administrativo u obligación solidaria, la devolución de los bienes o valores objeto de ellas, se efectuará una vez que se haya levantado el embargo o cancelado con las formalidades de ley la prenda, la hipoteca o la obligación solidaria, previo otorgamiento del recibo por el interesado o representante legal. Concurrentemente a la entrega de dichos bienes o valores, se tramitará ante el Registro Público de la Propiedad la cancelación de la inscripción correspondiente.
+
+### CAPITULO III. De las Notificaciones
+
+###### ARTICULO 367.
+
+Las garantías otorgadas a favor del Distrito Federal se harán efectivas por la Secretaría o por los auxiliares y, en su caso, por las autoridades judiciales, al hacerse exigibles las obligaciones o los créditos garantizados.
+
+Si las garantías se otorgaron con motivo de obligaciones contractuales, concursos de obra y adquisiciones, concesiones, autorizaciones, prórrogas, permisos o por otro tipo de obligaciones no fiscales, en caso de incumplimiento del deudor, la autoridad que tenga a su cargo el control y vigilancia de la obligación o adeudo garantizado, integrará debidamente el expediente relativo a la garantía para su efectividad, de conformidad con las reglas administrativas en materia del servicio de tesorería, con los originales o copias certificadas de los documentos que a continuación se indican:
+
+1. Determinante del crédito u obligación garantizada;
+
+2. Constitutivo de la garantía;
+
+3. Justificante de la exigibilidad de la garantía, tales como resoluciones administrativas o judiciales definitivas y su notificación al obligado principal o al garante cuando así proceda; acta de incumplimiento de obligaciones y liquidación por el monto de la obligación o crédito exigibles y sus accesorios legales, si los hubiere, y demás señalados en las Leyes y Reglamentos;
+
+4. Cualquier otro que motive la efectividad de la garantía de conformidad con las normas de carácter administrativo, que emita la Secretaría, y
+
+5. En su caso copia de la demanda, escrito de inconformidad o de cualquier otro recurso legal, presentados por el fiado, así como copias de las sentencias o resoluciones firmes de las autoridades competentes y de las notificaciones que correspondan a estas últimas.
+
+###### ARTICULO 368.
+
+Las garantías cuyo importe deba aplicarse parcialmente, se harán efectivas por su totalidad, debiéndose registrar contablemente ésta última, abonando el renglón de ingresos que corresponda y constituyendo crédito a favor del interesado por el remanente si lo hubiere, contra cuya entrega se recabará recibo del beneficiario o de su apoderado legal. Se exceptúa de lo anterior la garantía de fianza, que únicamente se hará efectiva por el importe insoluto de la obligación o crédito garantizados.
+
+###### ARTICULO 369.
+
+La Secretaría vigilará que los requerimientos de pago que haga a la fiadora, se cumplimenten dentro del plazo establecido por el artículo 95 de la Ley Federal de Instituciones de Fianzas, para que en caso de incumplimiento, se haga del conocimiento de la Comisión Nacional de Seguros y Fianzas, a efecto de que se rematen en bolsa, valores propiedad de la institución fiadora, bastantes para cubrir el importe de lo reclamado.
+
+En caso de que la fiadora haya impugnado ante las autoridades judiciales el requerimiento, la Secretaría vigilará el cumplimiento de la sentencia firme que declare la procedencia del cobro y si ésta no es atendida dentro de un plazo de treinta días naturales, lo comunicará a la referida Comisión para los mismos efectos.
+
+###### ARTICULO 370.
+
+Para la efectividad de las fianzas a que se refiere este Capítulo, la Secretaría podrá optar por cualquiera de los procedimientos que a continuación se señalan:
+
+I. Procedimiento administrativo de ejecución establecido en el artículo 95 de la Ley Federal de Instituciones de Fianzas;
+
+II. Procedimiento de conciliación ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, conforme a lo previsto en el Capítulo I del Título Quinto de la Ley de Protección y Defensa al Usuario de Servicios Financieros, y
+
+III. Demanda ante los Tribunales competentes.
+
+###### ARTICULO 371.
+
+La Secretaría o los auxiliares que hayan realizado la efectividad de las garantías, aplicarán el importe obtenido a los conceptos que correspondan de la Ley de Ingresos o a cuentas presupuestarias o de administración, según proceda.
+
+# LIBRO TERCERO
+
+## TITULO PRIMERO. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+
+### CAPITULO I. Disposiciones Generales
+
+###### ARTICULO 372.
+
+No satisfecho o garantizado un crédito fiscal dentro del plazo que para el efecto señalen las disposiciones legales, se exigirá su pago mediante el procedimiento administrativo de ejecución. En ningún caso se aplicará este procedimiento para el cobro de créditos derivados de productos.
+
+###### ARTICULO 373.
+
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas al pago de los gastos de ejecución, que se calcularán conforme a lo siguiente:
+
+I. Por la notificación de requerimiento para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, de cuyo posterior cumplimiento se derive el pago extemporáneo de prestaciones fiscales, y por las diligencias de requerimiento de pago, el 2% de las contribuciones o aprovechamientos omitidos, por cada una de las diligencias, y
+
+II. Por el embargo, la extracción de bienes muebles, la notificación en que se finque el remate de bienes, la enajenación fuera de remate o la adjudicación al fisco, el 2% del crédito fiscal, por cada una de dichas diligencias, con independencia de los gastos de ejecución extraordinarios que correspondan.
+
+Cuando en el caso de las fracciones anteriores, los porcentajes señalados sean inferiores a $192.00, se cobrará esta cantidad en lugar del 2% del monto de las contribuciones o aprovechamientos omitidos, o del crédito fiscal según sea el caso.
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las relativas a la inscripción de inmuebles, podrán exceder de $34,078.00.
+
+Asimismo, se pagarán los gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en el artículo 30, fracción V, de este Código; se consideran gastos de ejecución extraordinarios, entre otros, los siguientes: los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigación, los que deriven de los derechos por servicio de información y cartografía catastral señalados en los artículos 250 y 251 de este Código, necesarios para determinar el valor catastral de los inmuebles a rematar o enajenar fuera de remate, los que se originen por la inscripción, cancelación o anotación de embargos en el Registro Público de la Propiedad y de Comercio, según corresponda, conforme a las cuotas vigentes a la fecha en que se lleve a cabo la inscripción, cancelación o anotación referida, los erogados por la obtención del certificado de libertad de gravamen, los honorarios de los depositarios, interventores y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
+
+Los gastos de ejecución se determinarán por la autoridad recaudadora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
+
+Todo ingreso proveniente de gastos de ejecución será recaudado por las autoridades fiscales que tienen el carácter de ordinarios, se establecerán fondos de productividad y para financiar los programas de formación de funcionarios fiscales, siempre y cuando haya quedado firme el crédito. El Gobierno del Distrito Federal informará expresamente y de manera trimestral a la Asamblea del estado que guardan dichos fondos, así como la utilización detallada de los mismos.
+
+###### ARTICULO 374.
+
+Se podrá practicar embargo precautorio sobre bienes o la negociación del contribuyente para asegurar el interés fiscal, tratándose de un crédito fiscal que no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de ésta exista el peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo.
+
+La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones del embargo.
+
+La autoridad requerirá al obligado para que dentro del término de 10 días desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento. Transcurrido el plazo antes señalado, sin que el obligado hubiera desvirtuado el monto del embargo precautorio, éste quedará firme.
+
+El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará al procedimiento administrativo de ejecución.
+
+Si el particular garantiza el interés fiscal en los términos del artículo 30 de este Código, se levantará el embargo.
+
+Son aplicables al embargo precautorio a que se refiere este artículo, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
+
+###### ARTICULO 375.
+
+Las autoridades fiscales podrán decretar el aseguramiento de los bienes o la negociación del contribuyente cuando:
+
+I. El contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales o no se pueda notificar su inicio por haber desaparecido o por ignorarse su domicilio;
+
+II. Después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes, y
+
+III. El contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales, a que se está obligado.
+
+En los casos anteriores, la autoridad que practique el aseguramiento deberá levantar acta circunstanciada en la que precise las razones para hacerlo.
+
+El aseguramiento precautorio se practicará hasta por el monto de la determinación provisional de adeudos fiscales presuntos que, únicamente para estos efectos, la autoridad fiscal efectúe cuando el contribuyente se ubique en alguno de los supuestos establecidos en este artículo. Para determinar provisionalmente el adeudo fiscal, la autoridad podrá utilizar cualquiera de los procedimientos de determinación presuntiva establecidos en este Código.
+
+Los bienes o la negociación del contribuyente que sean asegurados conforme a lo dispuesto en este artículo podrán, desde el momento en que se notifique el aseguramiento y hasta que el mismo se levante, dejarse en posesión del contribuyente, siempre que para esos efectos se actúe como depositario de los mismos en los términos establecidos en el artículo 392 de este Código.
+
+El contribuyente que actúe como depositario designado en los términos del párrafo anterior, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
+
+El aseguramiento precautorio quedará sin efectos si la autoridad no emite, dentro de los plazos a que se refieren los artículos 90, fracción VII y 92 de este Código, resolución en la que determine créditos fiscales. Si dentro de los plazos señalados la autoridad determina algún crédito, dejará de surtir efectos el aseguramiento precautorio y se proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de este Capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución.
+
+###### ARTICULO 376.
+
+El procedimiento administrativo de ejecución se iniciará por la oficina recaudadora donde se encuentre radicado el crédito fiscal para su cobro, dictándose mandamiento de ejecución motivado y fundado, que consistirá en una orden del jefe de esa oficina, en la que se expondrán las razones y fundamentos legales que la apoyen, disponiendo que se requiera al deudor para que demuestre en el acto haber efectuado el pago del crédito, apercibiéndolo de que de no hacerlo, se le embargarán bienes suficientes para hacer efectivo el crédito fiscal y sus accesorios legales.
+
+En el mismo mandamiento de ejecución la Tesorería designará al actuario o a la persona habilitada por la autoridad fiscal para esos efectos que deban practicar el requerimiento y, en su caso, el embargo de bienes en cualquier parte del Distrito Federal.
+
+No será necesario expedir mandamiento de ejecución cuando el crédito fiscal haya sido garantizado mediante depósito en efectivo. En este caso, el jefe de la oficina recaudadora, expedirá acuerdo ordenando su aplicación definitiva en pago del crédito correspondiente.
+
+Cuando el depósito no cubra el importe total del adeudo, se expedirá mandamiento de ejecución sólo por la diferencia insoluta para hacerla efectiva al deudor.
+
+Cuando el requerimiento se haga personalmente, el actuario o la persona habilitada por la autoridad fiscal entregará copia del mandamiento de ejecución a la persona con quien entienda la diligencia y levantará acta pormenorizada, de la que también entregará copia, sin que para tal efecto deba levantarse acta de notificación que cumpla con las formalidades establecidas en el Capítulo III, del Título Segundo, del Libro Tercero, relativo a las Notificaciones.
+
+###### ARTICULO 377.
+
+Cuando la exigibilidad del crédito fiscal y sus accesorios se origine por cese de la prórroga, o de la autorización para el pago en parcialidades, por error aritmético en las declaraciones o por las situaciones previstas en los artículos 73, fracción XIII y 88, fracción I, de este Código, el deudor podrá efectuar el pago dentro de los seis días siguientes a la fecha en que surta efectos la notificación del requerimiento.
+
+El requerimiento de pago a que se refiere el párrafo anterior, se notificará en los términos de las fracciones I o IV del artículo 434 de este Código.
+
+Cuando haya transcurrido el plazo de seis días a que se refiere el párrafo primero de este artículo, y el contribuyente no haya efectuado el pago del crédito fiscal que se le requirió, la oficina recaudadora donde se encuentre radicado el crédito fiscal para su cobro, deberá emitir mandamiento de ejecución de acuerdo a lo dispuesto en el artículo 376 de este Código.
+
+###### ARTICULO 378.
+
+Para iniciar un procedimiento de cobro en contra de un responsable solidario del crédito fiscal, será necesario hacerle notificación, en la que se expresará:
+
+I. El nombre del contribuyente;
+
+II. La resolución de la que se derive el crédito fiscal en la que se desglosen las cantidades que lo integran y el monto total de éste;
+
+III. Los motivos y fundamentos por lo que se le considera responsable del crédito, y
+
+IV. El plazo para el pago que será de quince días, salvo que este Código establezca otro diverso.
+
+###### ARTICULO 379.
+
+Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán al deudor para que demuestre en el acto haber efectuado el pago y, en caso contrario, procederán de inmediato como sigue:
+
+I. A embargar bienes suficientes, o
+
+II. A embargar negociaciones con todo lo que de hecho y por derecho les corresponda.
+
+Para efectos de este Código se entenderá por empresa o negociación al conjunto de bienes organizados en una unidad económica de producción y distribución de bienes y servicios ofrecidos al mercado, con el fin de realizar actividades comerciales, industriales, agrícolas, ganaderas, pesqueras o silvícolas, generalmente onerosas o lucrativas.
+
+En la diligencia de embargo, la persona con la que se entienda estará obligada a señalar, bajo protesta de decir verdad, todos y cada uno de los bienes comprendidos directa o indirectamente en la realización de las actividades señaladas en el párrafo que antecede.
+
+###### ARTICULO 380.
+
+El deudor o, en su defecto, la persona con quien se entienda la diligencia de embargo, tendrá derecho a señalar los bienes en que éste se deba trabar, sujetándose al orden siguiente:
+
+I. Dinero, metales preciosos y depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
+
+II. Acciones, bonos, cupones vencidos, valores mobiliarios y en general, créditos de inmediato y fácil cobro, a cargo de dependencias o entidades de la Federación, Estados y Municipios y de instituciones o empresas particulares de reconocida solvencia;
+
+III. Bienes muebles no comprendidos en las fracciones anteriores;
+
+IV. Bienes inmuebles, y
+
+V. Negociaciones comerciales, industriales, agrícolas, ganaderas, pesqueras o silvícolas.
+
+La persona con quien se entienda la diligencia de embargo podrá designar dos testigos, y si no lo hiciere o al terminar la diligencia los testigos designados se negaren a firmar, así se hará constar en el acta que al efecto se levante por el actuario o la persona habilitada por la autoridad fiscal, sin que tales circunstancias afecten la legalidad del embargo.
+
+###### ARTICULO 381.
+
+La inmovilización que proceda como consecuencia del embargo de depósitos o seguros a que se refiere el artículo 380, fracción I del presente Código, así como la inmovilización de depósitos bancarios, seguros o cualquier otro depósito en moneda nacional o extranjera que se realice en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, derivado de créditos fiscales firmes, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, incluidas las aportaciones voluntarias que se hayan realizado hasta por el monto de las aportaciones que se hayan realizado conforme a la Ley de la materia, solo se procederá hasta por el importe del crédito y sus accesorios o en su caso, hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir los mismos. La autoridad fiscal que haya ordenado la inmovilización, girará oficio a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, a efecto de que esta última de inmediato la inmovilice y conserve los fondos depositados.
+
+Al recibir la notificación del oficio mencionado en el párrafo anterior por parte de la autoridad fiscal o la instrucción que se dé por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según corresponda, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate deberá proceder a inmovilizar y conservar los fondos depositados, en cuyo caso, la Tesorería notificará al contribuyente de dicha inmovilización por los medios conducentes.
+
+En caso de que en las cuentas de los depósitos o seguros a que se refiere el primer párrafo del presente artículo, no existan recursos suficientes para garantizar el crédito fiscal, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate, deberá efectuar una búsqueda en su base de datos, a efecto de determinar si el contribuyente tiene otras cuentas con recursos suficientes para tal efecto. De ser el caso, la entidad o sociedad procederá de inmediato a inmovilizar y conservar los recursos depositados hasta por el monto del crédito fiscal. En caso de que se actualice este supuesto, la entidad o sociedad correspondiente deberá notificarlo a la Tesorería, dentro del plazo de dos días hábiles contados a partir de la fecha de inmovilización a fin de que dicha autoridad realice la notificación que proceda conforme al párrafo anterior.
+
+La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberá informar a la autoridad fiscal a que se refiere el primer párrafo de este artículo, el incremento de los depósitos por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente.
+
+Los fondos de la cuenta del contribuyente únicamente podrán transferirse a la hacienda pública local, una vez que el crédito fiscal relacionado quede firme, y hasta por el importe necesario para cubrirlo.
+
+En tanto el crédito fiscal garantizado no quede firme, el contribuyente titular de las cuentas embargadas podrá ofrecer otra forma de garantía de acuerdo con el artículo 30 de este Código, en sustitución del embargo de las cuentas. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo de máximo de diez días. La autoridad tendrá la obligación de comunicar a la entidad financiera o la sociedad cooperativa de ahorro y préstamo el sentido de la resolución, enviándole copia de la misma, dentro del plazo de quince días siguientes a aquél en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la entidad o sociedad de que se trate levantará el embargo de la cuenta.
+
+###### ARTICULO 382.
+
+Una vez que el crédito fiscal quede firme, la autoridad fiscal procederá como sigue:
+
+I. Si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció otra forma de garantía del interés fiscal suficiente antes de que el crédito fiscal quedara firme, la autoridad fiscal ordenará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la Tesorería, dentro de los tres días posteriores a la orden de transferencia, el monto transferido y acompañar el comprobante que acredite el traspaso de fondos a la cuenta de la Tesorería;
+
+II. Si cuando el crédito fiscal quede firme, el interés fiscal se encuentra garantizado en alguna forma distinta a las establecidas en las fracciones I y III del artículo 30 de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días. En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder al embargo de cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, procediendo en los términos del párrafo anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo informe a la Tesorería haber transferido los recursos suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente;
+
+III. Si cuando el crédito fiscal quede firme, el interés fiscal se encuentra garantizado en alguna de las formas establecidas en las fracciones I y III del artículo 30 de este Código, la autoridad fiscal procederá hacer efectiva la garantía, y
+
+IV. Si cuando el crédito fiscal quede firme, el interés fiscal no se encuentra garantizado la autoridad fiscal podrá proceder a la inmovilización de cuentas y la transferencia de recursos en los términos de la fracción I de este artículo.
+
+En cualquiera de los casos indicados en este artículo, si al transferirse el importe a la autoridad fiscal, el contribuyente considera que éste es superior al crédito fiscal, deberá demostrar tal hecho ante la Tesorería con prueba documental suficiente, para que dicha autoridad proceda a la devolución de la cantidad transferida en exceso, en términos del artículo 49 de este Código en un plazo no mayor de veinte días. Si a juicio de la Tesorería las pruebas no son suficientes, se le notificará al interesado haciéndole saber que puede hacer valer el recurso de revocación correspondiente.
+
+###### ARTICULO 383.
+
+La autoridad fiscal, el actuario o la persona habilitada por la misma autoridad podrán señalar bienes sobre los que se trabará el embargo sin sujetarse al orden establecido en el artículo 380, cuando el deudor o la persona con quien se entienda la diligencia:
+
+I. No señale bienes o los señalados no sean suficientes o idóneos a juicio del mismo actuario o de la persona habilitada por la autoridad fiscal, o no haya seguido dicho orden al hacer el señalamiento, y
+
+II. Si el deudor, teniendo otros bienes susceptibles de embargo, señalare:
+
+a). Bienes ubicados fuera de la circunscripción de la oficina recaudadora;
+
+b). Bienes que ya reportaren cualquier gravamen real o cualquier embargo anterior, o
+
+c). Bienes de fácil descomposición o deterioro o materias inflamables.
+
+###### ARTICULO 384.
+
+Si al designarse bienes para el embargo, se opusiere un tercero fundándose en el dominio de ellos, no se practicará el embargo si se demuestra en el mismo acto la propiedad con prueba documental suficiente a juicio del actuario o la persona habilitada por la autoridad fiscal; asimismo, podrá oponerse el cónyuge que tenga titularidad de los bienes a embargar con motivo del régimen conyugal al cual se haya sometido. La resolución dictada tendrá el carácter de provisional y deberá ser sometida a ratificación, en todos los casos por la oficina recaudadora, a la que deberán allegarse los documentos exhibidos en el momento de la oposición. Si a juicio de la recaudadora las pruebas no son suficientes, ordenará al actuario o a la persona habilitada por la autoridad fiscal que continúe con el embargo, y notificará al interesado que puede hacer valer el recurso previsto en este Código.
+
+En todo momento los opositores podrán ocurrir ante la oficina recaudadora haciéndole saber la existencia de otros bienes propiedad del deudor del crédito fiscal libres de gravamen y suficientes para responder de las prestaciones fiscales exigidas. Esas informaciones no obligarán a la recaudadora a levantar el embargo sobre los bienes a que se refiere la oposición.
+
+###### ARTICULO 385.
+
+Si los bienes señalados para la traba de ejecución están ya embargados por otras autoridades no fiscales o sujetos a cédula hipotecaria, se practicará, no obstante, el embargo. Los bienes embargados se entregarán al depositario designado por la oficina recaudadora, por el actuario o por la persona habilitada por la autoridad fiscal, y se dará aviso a la autoridad correspondiente para que el o los interesados puedan hacer valer su reclamación de preferencia.
+
+Si los bienes señalados para la ejecución hubieren sido ya embargados por parte de la propia autoridad fiscal, se practicará el embargo, entregándose los bienes al depositario que haya designado con anterioridad. En el caso de que el embargo se haya practicado por autoridades fiscales federales u organismos fiscales autónomos, también se efectuará el embargo entregándose los bienes al depositario designado por la oficina recaudadora y se dará aviso a la autoridad federal. En caso de inconformidad, la controversia resultante será resuelta por los tribunales judiciales de la Federación; en tanto se resuelve el procedimiento respectivo no se hará aplicación del producto del remate, salvo que se garantice el interés fiscal a satisfacción de la Secretaría.
+
+###### ARTICULO 386.
+
+Quedan exceptuados de embargo:
+
+I. El lecho cotidiano y los vestidos del deudor y de sus familiares;
+
+II. Los muebles de uso indispensable del deudor y de sus familiares, no siendo de lujo a juicio del actuario o de la persona habilitada por la autoridad fiscal;
+
+III. Los libros, instrumentos, útiles y mobiliario indispensable para el ejercicio de la profesión, arte u oficio a que se dedique el deudor;
+
+IV. La maquinaria, enseres y semovientes propios para las actividades de las negociaciones, en cuanto fueren necesarios para su funcionamiento;
+
+V. Las armas, vehículos y caballos que los militares en servicio deban usar conforme a las Leyes;
+
+VI. Los granos, mientras éstos no hayan sido cosechados, pero no los derechos sobre las siembras;
+
+VII. El derecho de usufructo, pero no los frutos de éste;
+
+VIII. Los derechos de uso o de habitación;
+
+IX. El patrimonio de familia en los términos que establezca el Código Civil para el Distrito Federal, desde su inscripción en el Registro Público correspondiente;
+
+X. Los sueldos y salarios;
+
+XI. Las pensiones de cualquier tipo, y
+
+XII. Los ejidos.
+
+Los bienes señalados en la fracción IV del presente artículo podrán ser embargados, siempre y cuando así lo señale el deudor o la persona con la que se entienda la diligencia de embargo, o bien, podrán ser objeto de embargo con la negociación en su totalidad si a ella están destinados.
+
+###### ARTICULO 387.
+
+El actuario o la persona habilitada por la autoridad fiscal trabará embargo en bienes bastantes para cubrir los créditos fiscales y los gastos de ejecución, poniendo todo lo embargado, previa identificación de los bienes, bajo la guarda del o de los depositarios que fueren necesarios y que, salvo cuando los hubiera designado anticipadamente la oficina recaudadora, nombrará el actuario o la persona habilitada por la autoridad fiscal en el mismo acto de la diligencia.
+
+El nombramiento de depositario podrá recaer en el ejecutado y tratándose de bienes muebles podrá recaer en el ejecutor, pudiendo extraerlos en el momento de la diligencia, para ser depositados en el almacén fiscal que para ese fin se habilite, hechos que deberán constar en el acta que para ese efecto se levante.
+
+###### ARTICULO 388.
+
+El embargo de créditos será notificado personalmente por el actuario o por la persona habilitada por la autoridad fiscal, a los deudores del embargado para que hagan el pago de las cantidades respectivas en la oficina recaudadora, apercibidos de doble pago en caso de desobediencia.
+
+Los pagos a que se refiere el párrafo anterior, deberán realizarse el día de vencimiento de las obligaciones respectivas, aquellos que no tengan fecha de vencimiento, contarán con un plazo de 15 días a partir de la notificación del actuario o de la persona habilitada por la autoridad fiscal, para realizar el pago.
+
+Si en cumplimiento de lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el Registro Público correspondiente, el jefe de la oficina recaudadora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes a la notificación, firme la escritura en la que conste el pago y cancelación o el documento en que deba constar el finiquito.
+
+En caso de abstención del titular de los créditos embargados, transcurrido el plazo indicado, el jefe de la oficina recaudadora firmará la escritura o documentos relativos en rebeldía de aquél, lo que hará del conocimiento del Registro Público correspondiente, para los efectos procedentes.
+
+###### ARTICULO 389.
+
+El dinero, metales preciosos, alhajas y valores mobiliarios embargados, se entregarán por el depositario a la oficina recaudadora, previo inventario, dentro de un plazo que no excederá de veinticuatro horas. Tratándose de los demás bienes, el plazo será de cinco días contados a partir de aquél en que fue hecho el requerimiento para tal efecto, una vez transcurrido el plazo se procederá a la extracción.
+
+Las sumas de dinero objeto del embargo, así como la cantidad que señale el propio ejecutado, la cual nunca podrá ser menor del 25% del importe de los frutos y productos de los bienes embargados, se aplicarán a cubrir el crédito fiscal al recibirse en la caja de la oficina recaudadora.
+
+###### ARTICULO 390.
+
+Si el deudor o cualquiera otra persona impidiere materialmente al actuario o a la persona habilitada por la autoridad fiscal el acceso al domicilio de aquél o al lugar en que se encuentren los bienes, siempre que el caso lo requiera, el actuario o la persona habilitada por la autoridad fiscal, solicitará el auxilio de la policía o fuerza pública para llevar adelante los procedimientos de ejecución.
+
+###### ARTICULO 391.
+
+Si al inicio o durante el embargo, la persona con quien se entienda la diligencia no abriere las puertas de las construcciones, edificios o casas señalados para la traba o en los que se presuma que existen bienes muebles embargables, el actuario o la persona habilitada por la autoridad fiscal previo acuerdo fundado del jefe de la oficina recaudadora, hará que ante dos testigos sean rotas las cerraduras que fuere necesario, para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
+
+En igual forma procederá el actuario o la persona habilitada por la autoridad fiscal, cuando la persona con quien se entienda la diligencia no abriere los muebles en los que aquél suponga se guardan dinero, alhajas, objetos de arte u otros bienes embargables. Si no fuere factible romper o forzar las cerraduras el mismo actuario o la persona habilitada por la autoridad fiscal, trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la oficina recaudadora, donde serán abiertos en el término de tres días por el deudor o por su representante si se negare a abrirlos dentro de este plazo, la propia oficina designará un perito experto legal para que en presencia de dos testigos lo abra.
+
+El actuario o la persona habilitada por la autoridad fiscal, levantará un acta haciendo constar el inventario completo de los bienes, la cual deberá ser firmada por el mismo, los testigos y el depositario designado. En la propia oficina quedará a disposición del deudor una copia del acta a que se refiere este párrafo.
+
+Si no fuere factible romper o forzar las cerraduras de cajas u otros objetos unidos a un inmueble o de difícil transportación, el actuario o la persona habilitada por la autoridad fiscal, trabará embargo sobre ellos y su contenido y los sellará; para su apertura se seguirá el procedimiento establecido en los dos párrafos anteriores.
+
+###### ARTICULO 392.
+
+Los bienes embargados se dejarán bajo guarda del o de los depositarios que fueren necesarios. Los jefes de las oficinas recaudadoras bajo su responsabilidad nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales aplicables, y con las facultades y obligaciones señaladas en este Código. Cuando se efectúe la remoción del depositario, éste deberá poner a disposición del actuario o de la persona habilitada por la autoridad fiscal, los bienes que fueron objeto de la depositaria, pudiendo éstos realizar la sustracción de los bienes para depositarlos en almacenes para su resguardo o entregarlos al nuevo depositario.
+
+La responsabilidad de los depositarios cesará con la entrega de los bienes embargados a satisfacción de las autoridades fiscales.
+
+Cuando las autoridades fiscales embarguen negociaciones, el depositario designado tendrá el carácter de interventor con cargo a la caja o a la administración. El interventor encargado de la caja después de separar las cantidades que correspondan por concepto de salarios, honorarios y demás créditos preferentes, deberá retirar de la negociación intervenida el 10% de los ingresos en dinero y enterarlos en la caja de la oficina recaudadora diariamente o a medida que se efectúe la recaudación.
+
+Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del Distrito Federal, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina recaudadora, la que podrá ratificarlas o modificarlas.
+
+Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina recaudadora, ordenará que cese la intervención con cargo a la caja, y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a las disposiciones legales aplicables.
+
+El interventor encargado de la caja o el interventor administrador, podrá ser un profesionista con experiencia mínima de dos años en el ramo.
+
+El interventor administrador tendrá todas las facultades que normalmente correspondan a la administración de la sociedad y plenos poderes con las facultades que requieran cláusula especial conforme a la ley, para ejercer actos de dominio y de administración, para pleitos y cobranzas, otorgar o suscribir títulos de crédito, presentar denuncias y querellas y desistir de estas últimas, previo acuerdo del jefe de la oficina recaudadora, así como para otorgar los poderes generales o especiales que juzgue convenientes, revocar los otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
+
+El interventor administrador no quedará supeditado en su actuación al consejo de administración, asamblea de accionistas, socios o partícipes.
+
+Tratándose de negociaciones que no constituyan una sociedad, el interventor administrador tendrá todas las facultades de dueño para la conservación y buena marcha del negocio.
+
+El interventor administrador tendrá las siguientes obligaciones:
+
+I. Rendir cuentas mensuales comprobadas a la oficina recaudadora; y
+
+II. Recaudar el 10% de las ventas o ingresos diarios en la negociación intervenida, después de separar las cantidades que correspondan por concepto de salarios, honorarios y demás créditos preferentes, y entregar su importe en la caja de la oficina recaudadora a medida que se efectúe la recaudación.
+
+El interventor administrador no podrá enajenar los bienes del activo fijo.
+
+El nombramiento de interventor administrador deberá anotarse en el Registro Público correspondiente.
+
+Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida, cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 24% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado período del año, en cuyo caso el porciento será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porciento del crédito que resulte.
+
+En estos casos, se procederá al remate de conformidad con las disposiciones contenidas en este Código.
+
+La intervención se levantará cuando el crédito fiscal se hubiera satisfecho o cuando de conformidad con este Código se haya enajenado la negociación. En estos casos la oficina recaudadora comunicará el hecho al Registro Público correspondiente, para que se cancele la inscripción respectiva.
+
+En caso de que la negociación que se pretenda embargar ya esté embargada por otra autoridad, el interventor designado por dicha autoridad podrá ser depositario respecto de los intereses del fisco local.
+
+La designación o cambio de interventor se hará del conocimiento a las autoridades que ordenaron las anteriores o posteriores intervenciones.
+
+Las controversias que surjan con autoridades fiscales federales que hubiesen embargado un mismo bien o negociación, relativas al derecho de preferencia para recibir el pago de créditos fiscales se resolverán por los tribunales federales, tomando en cuenta las garantías constituidas y conforme a lo siguiente:
+
+a). La preferencia corresponderá al fisco que tenga en su favor créditos por impuestos sobre la propiedad raíz, tratándose de los frutos de los bienes inmuebles o del producto de la venta de éstos, y
+
+b). En los demás casos, la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
+
+###### ARTICULO 393.
+
+El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género, se inscribirá en el Registro Público correspondiente.
+
+###### ARTICULO 394.
+
+El embargo podrá ampliarse en cualquier momento del procedimiento administrativo de ejecución, cuando la oficina recaudadora estime que los bienes embargados son insuficientes para cubrir los créditos fiscales, o bien, cuando se trate de bienes o negociaciones, que tengan inscritos gravámenes que dificultarían la recuperación del crédito fiscal o no sea posible su inscripción ante el Registro Público de la Propiedad y de Comercio.
+
+En el caso de que los bienes embargados no sean propiedad del deudor, el jefe de la oficina recaudadora dejará sin efectos dicho embargo, y se procederá a embargar bienes suficientes.
+
+###### ARTICULO 395.
+
+Las diligencias para la enajenación de bienes embargados se iniciarán o reanudarán:
+
+I. A partir del día siguiente a aquél en que se hubiera fijado la base del remate, en los términos de este Código;
+
+II. En los casos de embargo precautorio, cuando los créditos se hagan exigibles y no se paguen al momento del requerimiento;
+
+III. Cuando el embargado no proponga comprador dentro del plazo previsto para tal efecto en este Código, y
+
+IV. Al quedar firme la resolución o sentencia confirmatoria de la validez del acto impugnado, recaída en los medios de defensa que se hubieren hecho valer.
+
+###### ARTICULO 396.
+
+Todo remate se hará en subasta pública, en el local de la oficina recaudadora, salvo las excepciones que en este Código se establecen.
+
+La Secretaría, podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o fracciones o en piezas sueltas.
+
+Las enajenaciones fuera de remate podrán ser en subasta pública respetando la base fijada para su venta.
+
+###### ARTICULO 397.
+
+El Distrito Federal tendrá preferencia para recibir el pago de los créditos provenientes de ingresos que debió percibir, con excepción de adeudos garantizados con prenda o hipoteca, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los trabajadores de acuerdo con la Ley Federal del Trabajo.
+
+Para que sea aplicable la excepción a que se refiere el párrafo anterior, será requisito indispensable que con anterioridad a la fecha en que surta efectos la notificación del crédito fiscal, las garantías se hayan inscrito en el Registro Público correspondiente y, respecto de los adeudos por alimentos, que se haya presentado la demanda ante las autoridades competentes.
+
+La vigencia y exigibilidad del crédito cuya preferencia se invoque deberá comprobarse en forma fehaciente al hacerse valer el recurso administrativo.
+
+En ningún caso el Distrito Federal entrará en los juicios universales. Cuando se inicie juicio de concurso mercantil, el juez que conozca del asunto deberá dar aviso a la Tesorería para que, en su caso, ordene, a la autoridad fiscal respectiva, que se hagan exigibles los créditos fiscales a su favor a través del procedimiento administrativo de ejecución.
+
+###### ARTICULO 398.
+
+La base para el remate de los bienes inmuebles embargados será el valor catastral determinado con base en la aplicación de valores unitarios de suelo y construcción, de conformidad con lo establecido en este Código; tratándose de negociaciones, la base será la que resulte del avalúo pericial.
+
+La base para la enajenación fuera de remate de los bienes inmuebles embargados será el 75% del valor catastral determinado con base en la aplicación de valores unitarios de suelo y construcción, actualizado al año fiscal que corresponda.
+
+En el caso de bienes muebles la base para el remate será la que fijen de común acuerdo la autoridad y el embargado, una vez transcurridos los plazos a que se refiere el párrafo primero del numeral 389 del presente Código y realizada la extracción de los bienes muebles, la autoridad requerirá al contribuyente se presente en la oficina recaudadora en un plazo de seis días contados a partir del día siguiente a aquel en que surtió efectos la notificación para tal efecto, a fin de fijar de común acuerdo la base para el remate. A falta de acuerdo, la autoridad practicará avalúo pericial, y tratándose de negociaciones, se designará perito dentro de los veinte días siguientes a aquel en que se dicte la resolución que ordene su enajenación.
+
+En todos los casos, la autoridad notificará al embargado el valor que servirá de base para la enajenación de los bienes embargados.
+
+El embargado o terceros acreedores que no estén de acuerdo con el valor base para la enajenación, dentro de los diez días siguientes a que surta efectos la notificación de dicho valor, deberán manifestar por escrito tal situación y designar en ese mismo acto valuador, que tratándose de bienes inmuebles será cualquier persona con autorización o registro vigente ante la autoridad fiscal; en el caso de bienes muebles, cualquier valuador idóneo o alguna empresa o institución dedicada a la compraventa y subasta de bienes, y para el caso de negociaciones, Contador Público certificado.
+
+Cuando el embargado o tercero interesado no manifieste en tiempo y forma no estar de acuerdo con el valor señalado como base para la enajenación de bienes, o haciéndolo no designe valuador o incluso habiéndolo designado éste no rinda su dictamen en el plazo señalado, se tendrá por aceptado el valor determinado conforme al primer párrafo de este artículo.
+
+Cuando del dictamen rendido por el valuador del embargado o terceros interesados resulte un valor superior a un 10% al determinado conforme a los párrafos primero y tercero de este artículo, la autoridad fiscal podrá consentir dicho dictamen, o bien, designar dentro del término de seis días, un valuador tercero en discordia. Del dictamen consentido o del rendido por el valuador tercero en discordia, se fijará el valor que ha de servir como base para el remate de los bienes.
+
+En todos los casos a que se refieren los párrafos que anteceden, los valuadores designados deberán rendir su dictamen en un plazo de diez días si se trata de bienes muebles, veinte días si son inmuebles y treinta días cuando sean negociaciones, contados a partir de la fecha de su designación.
+
+###### ARTICULO 399.
+
+El remate deberá ser convocado para una fecha fijada dentro de los cuarenta días hábiles siguientes al en que hubiere quedado firme la determinación del valor que deberá servir de base para el remate de los bienes embargados. La publicación de la convocatoria de remate se hará cuando menos diez días antes de la fecha del mismo.
+
+La convocatoria de remate se fijará en el sitio visible y usual de la oficina recaudadora y en los lugares públicos que se juzgue conveniente, además la convocatoria se dará a conocer en la página electrónica de las autoridades fiscales.
+
+Cuando el valor de los bienes muebles, inmuebles o la negociación a rematar exceda de $669,440.00, la convocatoria se publicará por una ocasión en uno de los periódicos de mayor circulación en el Distrito Federal.
+
+###### ARTICULO 400.
+
+Los acreedores que aparezcan en el certificado de gravámenes correspondiente a los últimos diez años, que deberá obtenerse oportunamente, serán citados para el acto del remate, así como para la enajenación fuera de remate y en caso de no ser factible, se tendrá como citación la que se haga en la convocatoria en que se anuncie el remate o en la difusión para la enajenación fuera de remate, en la que deberá expresarse el nombre de los acreedores.
+
+Los acreedores a que alude el párrafo anterior, tendrán derecho a concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la oficina respectiva en el acto de la diligencia.
+
+###### ARTICULO 401.
+
+Mientras no se realice la audiencia de remate de los bienes, se enajenen fuera de remate o se adjudiquen a favor del fisco, el embargado puede proponer comprador que ofrezca de contado, en efectivo o en cheque de caja o certificado, cantidad suficiente para cubrir el crédito fiscal.
+
+Cuando el contribuyente haya propuesto comprador, éste tiene de plazo para cubrir la totalidad del crédito fiscal, hasta antes de que se efectúe la audiencia de remate, se enajenen fuera de remate o se adjudiquen a favor del fisco; de lo contrario se continuará con el procedimiento a fin de efectuar el remate, enajenación o adjudicación de los bienes embargados.
+
+Una vez que el comprador propuesto por el embargado haya cubierto el crédito fiscal, se liberarán los bienes embargados para que el contribuyente formalice con el comprador las operaciones que estimen procedentes.
+
+###### ARTICULO 402.
+
+Es postura legal la que cubra las dos terceras partes del valor señalado como base para remate.
+
+###### ARTICULO 403.
+
+En toda postura deberá ofrecerse de contado, cuando menos la parte suficiente para cubrir el interés fiscal; si éste es superado por la base fijada para el remate, se procederá en los términos del artículo 418 de este Código.
+
+Si el importe de la postura es menor al interés fiscal, se rematarán de contado los bienes embargados.
+
+A falta de posturas o cuando las ofrecidas no puedan ser calificadas de legales, conforme al artículo anterior, se declarará desierta la subasta.
+
+###### ARTICULO 404.
+
+Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito por el diez por ciento, cuando menos, del valor fijado a los bienes en la convocatoria, expedido por institución de crédito autorizada para tal efecto.
+
+Al escrito en que se haga la propuesta para la enajenación fuera de remate se acompañará necesariamente un certificado de depósito por el veinte por ciento, cuando menos, del valor fijado a los bienes en la difusión, expedido por institución de crédito autorizada para tal efecto.
+
+El importe de los depósitos que se constituyan de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores y los interesados por las adjudicaciones que se les hagan de los bienes rematados o enajenados fuera de remate.
+
+Inmediatamente después de fincado el remate, previa orden de la autoridad recaudadora, se devolverán los certificados de depósito a los postores e interesados en la enajenación fuera de remate, excepto el que corresponda al postor o interesado a favor de quien se fincó el remate o enajenación fuera de remate, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del monto de enajenación.
+
+###### ARTICULO 405.
+
+Cuando el postor en cuyo favor se hubiere fincado un remate no cumpla con las obligaciones que contraiga y las que este Código señala, perderá el importe del depósito que hubiera constituido y se aplicará, de plano, por la oficina recaudadora a favor del Distrito Federal.
+
+En este caso se notificará al postor que hubiese ofrecido la segunda mejor postura, a efecto de que en un plazo de diez días cubra la postura que había ofrecido durante la subasta, una vez hecho lo anterior, se adjudicarán a su favor los bienes.
+
+Hecho lo anterior, sin que sea cubierto el monto de la postura, la autoridad procederá conforme a los artículos 414, 415 y 416 del Código.
+
+Asimismo, cuando el interesado en cuyo favor se hubiere fincado la enajenación fuera de remate no cumpla con las obligaciones que contraiga y las que este Código señala, perderá el importe del depósito que hubiera constituido y se aplicará, de plano, por la oficina recaudadora a favor del Distrito Federal.
+
+En este caso, será notificado el interesado que hubiese ofrecido la segunda mejor propuesta, a efecto de fijar el precio final de venta para que en un plazo de diez días cubra la cantidad ofrecida, una vez hecho lo anterior, se adjudicarán a su favor los bienes.
+
+###### ARTICULO 406.
+
+Las posturas y propuestas según sea el caso, deberán contener los siguientes datos:
+
+I. Tratándose de personas físicas, el nombre, edad, nacionalidad, estado civil, profesión, correo electrónico y domicilio fiscal del postor;
+
+II. Tratándose de personas morales, el nombre, denominación o razón social del postor, fecha de su constitución, Registro Federal de Contribuyentes, objeto, correo electrónico, domicilio fiscal y los datos del apoderado legal;
+
+III. La cantidad que se ofrezca de contado, y
+
+IV. El domicilio para oír y recibir notificaciones.
+
+Asimismo, deberá anexar original o copia certificada y copias simples para su cotejo, de los siguientes documentos:
+
+a) Tratándose de personas físicas, la identificación oficial vigente, el Registro Federal de Contribuyentes;
+
+b) Tratándose de personas morales, el Registro Federal de Contribuyentes, la escritura constitutiva de la persona moral.
+
+Cuando se promueva en representación de persona física o moral se deberá acompañar poder notarial debiendo especificar los alcances de dicha representación, manifestando bajo protesta de decir verdad que el mandato no le ha sido modificado, revocado, ni restringido.
+
+Se deberá de manifestar bajo protesta de decir verdad que se encuentra al corriente en el cumplimiento de sus obligaciones fiscales.
+
+Debiendo además manifestar expresamente en el escrito en que se realice la postura o propuesta para la enajenación fuera de remate, según sea el caso, que cualquier notificación se pueda practicar por correo electrónico y acuse de recibo por la misma vía.
+
+Todas las posturas o propuestas deberán presentarse hasta un día antes de la fecha programada para el remate o la enajenación fuera de remate y por ninguna causa será recibida después de esa fecha, en los lugares y horarios señalados en la convocatoria de remate o en la difusión de la enajenación fuera de remate.
+
+Recibidas las posturas o propuestas por la autoridad fiscal, no se les podrá hacer aclaraciones, o modificaciones de ninguna índole.
+
+###### ARTICULO 407.
+
+El día y hora señalados para el remate en la convocatoria, el jefe de la oficina recaudadora, hará saber a los postores que estén presentes cuáles posturas fueron calificadas como legales y les dará a conocer cuál es la mejor postura, concediendo plazos sucesivos de cinco minutos a cada uno, a efecto de que se ofrezcan posturas más elevadas, hasta que la última postura no sea mejorada.
+
+El titular de la oficina recaudadora fincará el remate a favor de quien hubiera hecho la mejor postura.
+
+Si en la última puja se ofrece igual suma de contado, por dos o más postores, se designará como mejor postura la que se hubiera formulado primero.
+
+Para la enajenación fuera de remate una vez agotado el período de difusión, el jefe de la oficina recaudadora, solicitará la presencia del interesado cuya propuesta haya sido calificada de legal, a fin de fijar el precio final de venta de los bienes embargados, fincándose la enajenación fuera de remate del bien inmueble de que se trate.
+
+Una vez fincada la enajenación fuera de remate, se notificará vía correo electrónico a los participantes las ofertas que no hayan sido aceptadas.
+
+###### ARTICULO 408.
+
+Fincado el remate o la enajenación fuera de remate de bienes muebles se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha de fincado el remate o la enajenación fuera de remate, el postor o interesado enterará en la caja de la oficina recaudadora el saldo de la cantidad ofrecida de contado o la que resulte de las mejoras a través de las pujas o propuestas que se realicen o la que se haya fijado como precio final de venta.
+
+Hecho lo anterior, se citará al contribuyente para que dentro del plazo de tres días hábiles, entregue las facturas o documentación comprobatoria del remate o de la enajenación de los mismos, apercibido de que en caso de no hacerlo, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
+
+Posteriormente, la autoridad deberá entregar al adquirente, conjuntamente con estos documentos, los bienes que le hubiere adjudicado.
+
+Una vez adjudicados los bienes al adquirente, deberán ser puestos a su disposición dentro del plazo de seis días, a partir del cual tendrá 3 días para retirarlos; transcurrido dicho plazo sin que sean retirados, se causarán derechos por el almacenaje.
+
+Previo al retiro de los bienes, se deberá cubrir los derechos por almacenamiento que se hubieren generado, en su caso.
+
+Cuando el monto de los derechos por el almacenaje sea igual o superior al valor en que se adjudicaron los bienes y no se cubran los derechos generados, dichos bienes se aplicarán a cubrir los adeudos que se hayan generado por este concepto.
+
+###### ARTICULO 409.
+
+Fincado el remate o la enajenación fuera de remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los diez días siguientes a la fecha de fincado el remate o la enajenación fuera de remate, el postor o interesado enterará en la caja de la oficina recaudadora el saldo de la cantidad ofrecida de contado o la que resulte de las mejoras a través de las pujas o propuestas que se realicen, o la que se haya fijado como precio final de venta.
+
+Hecho el pago a que se refiere el párrafo anterior, la autoridad procederá a adjudicarle los bienes que hubiera rematado o enajenado fuera de remate. Una vez adjudicados los bienes y designado en su caso el notario por el postor o el interesado a su costa, se citará al ejecutado para que, dentro del plazo de diez días, otorgue y firme la escritura de venta correspondiente, apercibido de que, si no lo hace, el jefe de la oficina recaudadora lo hará en su rebeldía.
+
+El ejecutado, aún en el caso de rebeldía, responde por la evicción y los vicios ocultos.
+
+###### ARTICULO 410.
+
+Los bienes pasarán a ser propiedad del adquirente libres de gravámenes, y a fin de que éstos se cancelen, tratándose de inmuebles, la autoridad recaudadora lo comunicará al Registro Público correspondiente, en un plazo que no excederá de quince días.
+
+###### ARTICULO 411.
+
+Una vez que se hubiera otorgado y firmado la escritura en que conste la adjudicación de un inmueble, la autoridad recaudadora dispondrá que se entregue al adquirente, girando las órdenes necesarias, aun las de desocupación si estuviere habitado por el ejecutado o por terceros que no pudieren acreditar legalmente el uso.
+
+En el caso, en que los bienes rematados o enajenados fuera de remate no puedan ser adjudicados o entregados al postor a cuyo favor se hubiere fincado el remate conforme lo establece el artículo 409 del Código y el párrafo primero de este artículo, por existir impedimento jurídico debidamente fundado para ello, aquél podrá, transcurrido un plazo de seis meses contado a partir de la fecha en que la autoridad fiscal le comunique el impedimento jurídico para adjudicar o entregar los bienes rematados, solicitar a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes. La autoridad entregará, la cantidad ofrecida y enterada por el postor o interesado tratándose de la enajenación fuera de remate, en un plazo de dos meses contado a partir de la fecha en que se efectúe la solicitud. Si dentro de este último plazo cesa la causa por la cual la autoridad se vio imposibilitada para efectuar la entrega de los bienes rematados, se procederá a su entrega en lugar de entregar al postor o interesado las cantidades pagadas por esos bienes.
+
+Transcurrido el plazo de seis meses a que se refiere el párrafo anterior, sin que el postor o interesado solicite a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes, el importe de la postura o propuesta causará abandono a favor del fisco local dentro de dos meses contados a partir de la fecha en que concluya el plazo antes citado y se estará a lo dispuesto en el artículo 419 de este Código.
+
+En el caso en que la autoridad fiscal, entregue las cantidades pagadas por la adquisición de los bienes rematados o enajenados fuera de remate, se dejará sin efectos el remate o la enajenación fuera de remate efectuados. Si con posterioridad a la entrega de las cantidades señaladas anteriormente, cesa la causa por la cual la autoridad fiscal se vio imposibilitada jurídicamente para efectuar la entrega de los bienes rematados o enajenados fuera de remate, ésta deberá iniciar nuevamente el procedimiento establecido en esta Sección para rematarlos o enajenarlos fuera de remate.
+
+###### ARTICULO 412.
+
+Queda estrictamente prohibido adquirir los bienes objeto de remate o la enajenación fuera de remate, por sí o por medio de interpósita persona, a los jefes de las oficinas recaudadoras y personal de las mismas, a las personas que hubieren intervenido por parte del Distrito Federal, desde el inicio de facultades de comprobación y dentro del procedimiento administrativo de ejecución; los tutores y curadores, los mandatarios, los interventores y los representantes o administradores que hayan tenido a su cargo la administración de los bienes. El remate o la enajenación fuera de remate efectuado en contravención a este precepto, será nulo y los servidores públicos infractores serán sancionados de acuerdo con lo que establece la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+###### ARTICULO 413.
+
+El producto obtenido del remate, enajenación o adjudicación de los bienes al fisco, se aplicará a cubrir el crédito fiscal y los accesorios en el orden que establece el artículo 47 de este Código.
+
+Si ya se hubiesen rematado, enajenado fuera de remate o adjudicado a favor del fisco los bienes, y lo obtenido no fuera suficiente para cubrir el crédito fiscal, el jefe de la oficina recaudadora exigirá el pago del monto faltante, mediante el procedimiento administrativo de ejecución.
+
+###### ARTICULO 414.
+
+El Distrito Federal podrá adjudicarse en forma preferente los bienes ofrecidos en remate:
+
+I. Cuando la subasta se declare desierta, conforme al artículo 403 de este Código;
+
+II. En caso de posturas o pujas iguales, y
+
+III. En los supuestos del artículo 405 de este Código.
+
+Para la adjudicación a favor del fisco, se considerará que el bien fue enajenado en un 50% del valor base para el remate, para el efecto de que la autoridad pueda adjudicárselo, enajenarlo o donarlo para obras o servicios públicos o a instituciones asistenciales o de beneficencia autorizadas conforme a las leyes de la materia.
+
+###### ARTICULO 415.
+
+En el caso de adjudicación de bienes muebles al Distrito Federal, el ejecutado será citado para que comparezca ante la autoridad fiscal a formalizar la transmisión de dichos bienes.
+
+Tratándose de bienes inmuebles, el acta de adjudicación debidamente firmada por la autoridad fiscal tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en el Registro Público de la Propiedad.
+
+Cuando el ejecutado no comparezca, no obstante de haber sido citado por la autoridad fiscal para efectos de lo dispuesto en el párrafo primero de este artículo ésta procederá a la formalización de la entrega de dichos bienes, debiendo inscribirlo en el Registro correspondiente en los casos que se requiera de esa formalidad.
+
+Para la formalización de los actos a que se refiere este artículo, se requerirá la presencia de la Oficialía Mayor del Distrito Federal, misma que fungirá como representante del Gobierno del Distrito Federal.
+
+Una vez formalizada la adjudicación de los bienes de que se trate, la Oficialía Mayor del Distrito Federal dispondrá de los mismos para los fines y efectos legales conducentes.
+
+###### ARTICULO 416.
+
+Los bienes embargados podrán enajenarse fuera de remate, cuando:
+
+I. Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, siempre que no se puedan guardar o depositar en lugares apropiados para su conservación;
+
+II. Se trate de bienes que habiendo salido a remate, la subasta se hubiera declarado desierta, o bien, no hayan sido adjudicados los bienes en términos de lo dispuesto por el artículo 405 de este Código, y
+
+III. Se trate de bienes cuya guarda pueda ocasionar gastos que no estén en relación con su valor.
+
+En los supuestos señalados en las fracciones anteriores, las autoridades fiscales podrán hacer la enajenación directamente o encomendarla a empresas o instituciones dedicadas a la compraventa o subasta de bienes.
+
+Para lo dispuesto en este artículo no será necesario que la autoridad fiscal se adjudique el bien de que se trate.
+
+La base para la enajenación fuera de remate de los bienes señalados en las fracciones I y III, será determinado por el jefe de la oficina recaudadora; en el caso de la fracción II, cuando los bienes sean muebles o negociaciones, la base para la enajenación será el equivalente al 75% de la obtenida como base para el remate, tratándose de bienes inmuebles será la establecida en el párrafo segundo del artículo 398 de este Código.
+
+En todos los casos la donación será el equivalente al 50% de la obtenida como base para el remate o para la enajenación fuera de remate.
+
+###### ARTICULO 417.
+
+En tanto que los bienes no se hubieran rematado, enajenado fuera de remate o adjudicado a favor del fisco, el embargado podrá pagar el crédito fiscal y los accesorios.
+
+Una vez realizado el pago por el embargado, los bienes objeto del embargo deberán ser puestos a su disposición de inmediato; tratándose de bienes muebles, el embargado tendrá un plazo de 3 días para retirarlos, transcurrido dicho plazo sin que sean retirados, se causarán derechos por el almacenaje.
+
+Previo al retiro de los bienes referidos, el embargado deberá cubrir los derechos por almacenamiento que en su caso se hubieren generado.
+
+Cuando el monto del derecho por el almacenaje sea igual o superior al monto que cubrió el embargado, y no se cubran los derechos generados, dichos bienes se aplicarán a cubrir los adeudos que se hayan generado por este concepto.
+
+###### ARTICULO 418.
+
+Cuando existan excedentes del producto obtenido del remate o adjudicación de los bienes al fisco local, después de haberse cubierto el crédito, se entregarán al deudor, salvo que medie orden de autoridad competente, o que el propio deudor acepte por escrito que se haga la entrega total o parcial del saldo a un tercero, con las siguientes modalidades:
+
+I. Tratándose de bienes que la autoridad se haya adjudicado, al producto obtenido por la adjudicación se aplicará el monto del crédito fiscal actualizado más sus accesorios, así como el monto de los gastos de administración y mantenimiento en que la autoridad haya incurrido. El remanente del producto mencionado será el excedente que se devuelva al contribuyente.
+
+II. Cuando se lleve a cabo la adjudicación por remate, el producto obtenido se aplicará en los términos de lo dispuesto en el artículo 413 de este Código, así como a recuperar los gastos de administración y mantenimiento. El remanente del producto mencionado será el excedente que se devolverá al contribuyente.
+
+En caso de conflicto, el remanente se depositará en institución de crédito autorizada en tanto resuelven las autoridades competentes.
+
+###### ARTICULO 419.
+
+Podrán causar abandono en favor del fisco local los bienes embargados por las autoridades fiscales, en los siguientes casos:
+
+I. Cuando habiendo sido enajenados o adjudicados los bienes al adquirente no se retiren del lugar en que se encuentren, dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+
+II. Cuando el embargado efectúe el pago del crédito fiscal u obtenga resolución o sentencia favorable que ordene su devolución derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado o adjudicado los bienes y no los retire del lugar en que se encuentren dentro de dos meses contados a partir de la fecha en que se pongan a disposición del interesado.
+
+III. Se trate de bienes muebles que no hubieren sido rematados, enajenados o adjudicados, después de trascurridos veinticuatro meses de practicado el embargo y respecto de los cuales no se hubiere interpuesto ningún medio de defensa. La autoridad fiscal requerirá al contribuyente embargado para que se presente en la oficina recaudadora a realizar el pago del crédito fiscal y accesorios legales que se hubieren generado, en un plazo de 5 días contados a partir del día siguiente a aquél en que surtió efectos la notificación realizada para tal efecto, apercibido de que en caso de no presentarse a pagar, los bienes muebles causarán abandono a favor del Distrito Federal.
+
+Tratándose de las fracciones I y II, se entenderá que los bienes se encuentran a disposición del interesado o propietario, a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
+
+Cuando los bienes embargados hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los interesados o propietarios de los mismos, la resolución que los declare abandonados y que cuentan con quince días para retirar los bienes, previo pago de los derechos de almacenaje causados, y en su caso del crédito fiscal y accesorios legales que se hubieren generado. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, o no se pueda determinar quien es el interesado o el propietario de los bienes la notificación se efectuará a través de estrados.
+
+Los bienes que pasen a ser propiedad del fisco local conforme a este artículo, la Oficialía Mayor decidirá su destino, conforme a la normatividad que regule la materia.
+
+Los plazos de abandono a que se refiere este artículo, se interrumpirán por la interposición de algún medio de defensa.
+
+###### ARTICULO 420.
+
+Se suspenderá el procedimiento administrativo de ejecución durante la tramitación del recurso de revocación o juicios contenciosos administrativos, cuando lo solicite el interesado y garantice el crédito fiscal impugnado y los posibles recargos, en alguna de las formas señaladas por el artículo 30 de este Código. En estos casos el plazo para garantizar el interés fiscal será de dos meses a partir del día siguiente a aquel en que se interponga cualquiera de los referidos medios de defensa, debiendo el interesado acreditar ante la autoridad fiscal que lo interpuso dentro de los quince días siguientes a aquel en que haya surtido sus efectos la notificación del acto impugnado.
+
+La suspensión se limitará exclusivamente a la cantidad que corresponda a la parte impugnada de la resolución que determine el crédito, debiendo el contribuyente pagar la parte consentida del crédito fiscal no impugnado con los recargos correspondientes, quedando la autoridad recaudadora facultada para continuar el procedimiento respecto de este adeudo.
+
+La suspensión podrá ser solicitada ante la oficina recaudadora, dentro de los dos meses contados a partir del día siguiente a aquél en que se interponga cualquiera de los referidos medios de defensa, acompañando copia del escrito con el que hubiera interpuesto el recurso administrativo o el juicio de que se trate. La autoridad recaudadora suspenderá provisionalmente el procedimiento, en tanto transcurre el término para que se constituya la garantía del interés fiscal.
+
+Constituida ésta, la oficina suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva en el recurso o juicio respectivos.
+
+No se exigirá garantía adicional si en el procedimiento administrativo de ejecución se hubieren ya embargado bienes suficientes para garantizar el interés fiscal, tratándose de bienes inmuebles o negociaciones el embargo deberá estar inscrito en el Registro Público de la Propiedad y de Comercio.
+
+En casos de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad recaudadora si se está tramitando el recurso administrativo, o ante la sala ordinaria del Tribunal de lo Contencioso que conozca del juicio respectivo si ya se ha iniciado el procedimiento contencioso. El superior o la sala ordinaria pedirán a la autoridad recaudadora un informe que deberá rendirse en un plazo de tres días y resolverá de inmediato la cuestión.
+
+## TITULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+### CAPITULO II. Del Recurso de Revocación
+
+###### ARTICULO 421.
+
+La autoridad administrativa a la que corresponda la tramitación de los procedimientos administrativos, adoptará las medidas necesarias para su celeridad, economía y eficacia.
+
+###### ARTICULO 422.
+
+Los procedimientos administrativos que regula este Código se regirán por los principios de legalidad, sencillez, celeridad, eficacia, publicidad, gratuidad y buena fe, en consecuencia:
+
+I. Se ajustarán estrictamente a las disposiciones de este Código;
+
+II. Sus trámites serán sencillos, evitando formulismos innecesarios;
+
+III. Deberán tramitarse y decidirse de manera pronta y expedita;
+
+IV. Se cuidará que alcancen sus finalidades y efectos legales;
+
+V. Las actuaciones serán públicas, salvo que la moral o el interés general exija que sean secretas;
+
+VI. Serán gratuitos, sin que pueda condenarse al pago de gastos y costas, y
+
+VII. Las autoridades administrativas y las partes interesadas se conducirán, en las promociones y actuaciones, con honradez, trasparencia y respeto.
+
+###### ARTICULO 423.
+
+La autoridad que tramite el procedimiento administrativo, velará por mantener el buen orden y de exigir que se le guarde respeto, tanto de las partes interesadas como de cualquier persona que ocurra a los locales de las unidades administrativas, así como de los demás servidores públicos, pudiendo al efecto aplicar correcciones disciplinarias e, incluso, pedir el auxilio de la fuerza pública, por la violación a este precepto, levantando al efecto acta circunstanciada en la que hará constar tal situación. Dicha facultad sancionadora también se ejercerá para hacer cumplir sus determinaciones. Son correcciones disciplinarias:
+
+I. Apercibimiento, y
+
+II. Multa de cien hasta doscientos días de salario mínimo general vigente en el Distrito Federal.
+
+Las conductas indebidas a que se refiere este artículo, por parte de los servidores públicos se sancionarán de acuerdo con lo dispuesto por la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+###### ARTICULO 424.
+
+El trámite administrativo podrá iniciarse de oficio o a petición de cualquier persona física o moral, pública o privada, que invoque un derecho subjetivo o un interés legítimo, y, en consecuencia, éstas serán consideradas parte interesada en el procedimiento administrativo respectivo.
+
+###### ARTICULO 425.
+
+Toda persona o entidad pública que tuviere conocimiento de violaciones a las disposiciones de este Código y de las que de él emanen, por parte de los servidores públicos, podrá presentar quejas o denuncias. Estas personas o entidades no son parte en los procedimientos que al respecto se inicien, salvo cuando por la denuncia se pretenda o reclame algún derecho o interés legítimo.
+
+###### ARTICULO 426.
+
+Ningún servidor público es recusable sin causa. Son causales de obligatoria excusación para los servidores públicos que tengan la facultad de decisión o que tengan a su cargo dictaminar o asesorar:
+
+I. Tener parentesco con el interesado por consanguinidad dentro del cuarto grado, o por afinidad hasta el segundo grado;
+
+II. Tener enemistad manifiesta o amistad estrecha con el interesado, y
+
+III. Tener interés personal en el asunto.
+
+###### ARTICULO 427.
+
+La autoridad administrativa acordará la acumulación de los expedientes del procedimiento administrativo que ante ella se siga, de oficio o a petición de parte, cuando las partes o los actos administrativos sean iguales, se trate de actos conexos o resulte conveniente el trámite unificado de los asuntos, para evitar la emisión de resoluciones contradictorias. La misma regla se aplicará, en lo conducente, para la separación de los expedientes.
+
+###### ARTICULO 428.
+
+Cuando se destruyan o extravíen los expedientes o alguna de sus piezas, la autoridad administrativa ordenará, de oficio o a petición de parte, su reposición.
+
+###### ARTICULO 429.
+
+Sólo una vez puede pedirse la aclaración o adición de la resolución que ponga fin al procedimiento ante la autoridad administrativa que la hubiera dictado, dentro de los tres días siguientes a la notificación correspondiente, indicando los puntos que lo ameriten. La autoridad formulará la aclaración sin modificar los elementos esenciales de la resolución. El acuerdo que decida la aclaración o adición de una resolución, se considerará parte integrante de ésta. Se tendrá como fecha de notificación de la resolución, la correspondiente al día de notificación del acuerdo que decida la aclaración o adición de la misma.
+
+### CAPITULO III. De la Impugnación de Notificaciones
+
+###### ARTICULO 430.
+
+Las promociones que se presenten ante las autoridades administrativas, deberán estar firmadas por el interesado o por su representante legal, requisito sin el cual se tendrán por no presentadas. Cuando el promovente no sepa o no pueda firmar, imprimirá su huella digital. Cuando en un procedimiento existen varios interesados, las actuaciones se entenderán con el representante común, que al efecto haya sido designado; y en su defecto, con el que figure en primer término.
+
+Las promociones deberán presentarse en las formas que al efecto apruebe la Secretaría, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera.
+
+Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las disposiciones legales y tener por lo menos los siguientes requisitos:
+
+I. Constar por escrito, en español y sin tachaduras ni enmendaduras;
+
+II. El nombre, Registro Federal de Contribuyentes, número telefónico, la denominación o razón social del promovente en su caso;
+
+III. Señalar la autoridad a la que se dirige y el propósito de la promoción;
+
+IV. Domicilio para oír y recibir notificaciones dentro del Distrito Federal y el nombre de la persona autorizada para recibirlas, y en su caso, correo electrónico para los mismos efectos;
+
+V. En caso de promover a nombre de otra persona, acompañar el documento con el que se acredite la representación legal de la misma;
+
+VI. El número de cuenta, en tratándose de promociones y documentos relacionados con el impuesto predial y derechos por el suministro de agua, y
+
+VII. Anexar, en original o copia certificada la documentación en que se sustente la promoción respectiva.
+
+Cuando no se cumplan los requisitos a que se refieren las fracciones I a la VII y respecto a la forma oficial a que se refiere este artículo, las autoridades requerirán al promovente a fin de que en un plazo de 10 días cumpla con el requisito omitido, salvo que el requisito que se omitió haya sido el número telefónico o el correo electrónico. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada, si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario. Cuando la omisión consista en no señalar el domicilio para oír y recibir notificaciones dentro del Distrito Federal, la notificación del requerimiento se efectuará por estrados, de conformidad con lo que dispone el artículo 434, fracción IV, de este Código.
+
+Los requisitos que se mencionan en las fracciones de este artículo, también son aplicables a las quejas o denuncias que se presenten, con excepción del apercibimiento y de la no presentación por la omisión respectiva, pues la sola presentación de la denuncia bastará para que la autoridad ejercite sus facultades de verificación.
+
+###### ARTICULO 431.
+
+En caso de duda de la autenticidad de la firma del promovente, la autoridad administrativa requerirá al interesado, para que dentro de un plazo de 10 días previa justificación de su identidad, se presente a ratificar la firma o el contenido del escrito.
+
+Si el promovente negare la firma o el escrito, se rehusare a comparecer o a contestar, se tendrá por no presentada la promoción.
+
+###### ARTICULO 432.
+
+En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales o notario.
+
+La representación de las personas físicas o morales ante las autoridades fiscales, también podrá acreditarse con la constancia de inscripción en el registro de representantes legales que para tal efecto lleven, en su caso, cada una de las autoridades fiscales a que se refiere este Código.
+
+Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer y rendir pruebas y presentar promociones relacionadas con estos propósitos.
+
+Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción.
+
+###### ARTICULO 433.
+
+En los plazos fijados en días, sólo se computarán los hábiles. En los no fijados por días sino por períodos, o bien, en aquéllos en que señalen una fecha determinada para la extinción del término, se computarán también los inhábiles, pero si el último día no están abiertas al público en general las oficinas receptoras, concluirá al día siguiente hábil. Asimismo, se prorrogará el plazo hasta el siguiente día hábil, cuando sea viernes el último día del plazo en que se deban presentar declaraciones. Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que en el primer caso el plazo concluye el mismo día del mes de calendario posterior a aquél en que se inició y en el segundo, el término vencerá el mismo día y mes del siguiente año de calendario a aquél en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término vencerá al primer día hábil siguiente. Los plazos principiarán a correr al día siguiente al de la fecha en que surta efectos la notificación, así como cuando se realicen los hechos o las circunstancias que las disposiciones legales o los actos administrativos prevean.
+
+Son días inhábiles los sábados y domingos, los días 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1° y 5 de mayo, el 16 de septiembre, el 2 de noviembre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 1° de diciembre de cada seis años con motivo de la transmisión del Poder Ejecutivo Federal y el 25 de diciembre, y demás días que se declaren inhábiles por la Secretaría, mediante reglas de carácter general.
+
+La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 7:00 y las 19:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez.
+
+Las autoridades fiscales para la práctica de visitas domiciliarias, de inspección, de verificación del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días u horas inhábiles. También se podrá continuar en días u horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular, lo cual no afectará la validez de la diligencia ni del documento en el que ésta conste, siempre y cuando se haga constar dicha circunstancia en el acta. Así también, se podrán habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
+
+### CAPITULO IV. De la Substanciación del Procedimiento
+
+###### ARTICULO 434.
+
+Las notificaciones de los actos administrativos se harán:
+
+I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos;
+
+II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
+
+III. Por edictos, únicamente en caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión o haya desaparecido o se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal acreditado ante las autoridades fiscales;
+
+IV. Por estrados, cuando en una petición o instancia el promovente no hubiera señalado domicilio para oír y recibir notificaciones, o el domicilio señalado no exista, sea impreciso, incompleto para practicar la notificación o esté ubicado fuera de la circunscripción territorial del Distrito Federal. Asimismo, cuando la persona a quien deba notificarse desaparezca después de iniciadas las facultades de comprobación, hubiera desocupado su domicilio sin haber presentado el aviso de cambio correspondiente, hubiere señalado de manera incorrecta el domicilio o se oponga a la diligencia de notificación.
+
+En este caso la notificación se hará fijando durante cinco días el documento que pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. Para los efectos de esta fracción, se tendrá como fecha de notificación la del sexto día siguiente en que se hubiera fijado en el estrado el documento correspondiente;
+
+V. Por transmisión facsimilar o por correo electrónico, cuando el promovente que así lo desee y lo manifieste expresamente, señale su número de telefacsímil o correo electrónico, en el escrito inicial, mediante el cual se pueda practicar la notificación por dichos medios, y acuse de recibo por la misma vía.
+
+En este caso, la notificación se considerará efectuada legalmente, aun cuando la misma hubiese sido recibida por una persona distinta al promovente o su representante legal, para cuyos efectos deberá enviarse el acuse de recibo correspondiente por la misma vía.
+
+Para efecto de lo anterior, la notificación de referencia, no se sujetará a las formalidades previstas en los artículos 436, 437 y 438 de este Código.
+
+###### ARTICULO 435.
+
+Las notificaciones de los actos administrativos se efectuarán, a más tardar, durante los veinte días siguientes al en que se dicten las resoluciones o actos respectivos.
+
+###### ARTICULO 436.
+
+Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar, haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate, a falta de señalamiento, o cuando habiéndose señalado domicilio la persona a quien se deba notificar ya no se encuentre en el mismo y no haya dado aviso a las autoridades fiscales, se estará a lo dispuesto por la fracción IV del artículo 434 de este Código.
+
+Se entenderán con la persona que debe ser notificada, su representante legal o persona autorizada en términos del artículo 432 de este Código, a falta de los anteriores, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día siguiente, si la persona que se encuentre en el domicilio se negare a recibir el citatorio, a identificarse o a firmar el mismo, la cita se hará por instructivo que se fijará en la puerta del domicilio o en un lugar visible del mismo y el notificador hará constar esta situación en el acta que al efecto se levante.
+
+Si el domicilio se encontrare cerrado, el citatorio se dejará con un vecino, y si éste se negare a recibirlo se citará por instructivo.
+
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, a identificarse o a firmar la misma, se realizará por instructivo que se fijará en la puerta del domicilio o en un lugar visible del mismo. Si el domicilio se encuentra cerrado, también la notificación se realizará por instructivo.
+
+En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, el documento o copia certificada a que se refiera la notificación.
+
+De las diligencias en que conste la notificación o cita, el notificador tomará razón por escrito.
+
+###### ARTICULO 437.
+
+Las notificaciones a las que se refiere el artículo 434, para su validez deberán contener:
+
+I. Los fundamentos jurídicos: indicar los artículos y, en su caso, las fracciones incisos o párrafos aplicables a la notificación que se practica, y
+
+II. Motivación:
+
+a). Fecha en la que se practica la diligencia de notificación, considerando el mes, día y año;
+
+b). Hora y lugar o, en su caso, el domicilio en el que se practique la diligencia; para estos efectos se deberán precisar los datos referentes a la calle, número exterior e interior, colonia, delegación y código postal;
+
+c). Nombre y domicilio de la persona a notificar;
+
+d). Nombre de la persona que va a realizar la notificación, y
+
+e). Firma del notificador, del notificado o de la persona con quien se entendió la diligencia cualquiera que ésta sea, y para el caso de que las mismas no supieran leer o escribir estamparán su huella digital.
+
+En el caso de que el notificado o quien reciba la notificación se negara a firmar o a estampar su huella, el notificador asentará esa cuestión, sin que ello afecte la validez de la notificación.
+
+Tratándose de la notificación personal a que se refiere al artículo 434, fracción I, de este Código, se deberán cumplir todos los requisitos de validez a que se refiere el presente artículo. Si se tratare de notificaciones por correo certificado u ordinario se deberán cumplir los requisitos que establece la Ley del Servicio Postal Mexicano. Las que fueren por telegrama, cumpliendo los requisitos que para este servicio prevé la ley que lo regula y para el caso de las que fueren por edictos o estrados se deberán cumplir los requisitos de los incisos a) y c) de la presente fracción, tratándose de los requisitos del inciso c), el domicilio se señalará siempre que éste se haga del conocimiento de la autoridad.
+
+###### ARTICULO 438.
+
+Para efectos del citatorio a que se refiere el artículo 436 de este Código, el mismo para su validez deberá contener:
+
+I. Fecha en que se realiza el citatorio considerando el día, mes y año;
+
+II. Nombre de la persona a quien va dirigido el citatorio, así como la fecha en la que se le cita, indicando hora, día, mes y año;
+
+III. Domicilio en que se le cita;
+
+IV. Nombre o, en su caso, la referencia de la persona a la que se le entregó el citatorio, su firma y para el caso de que la misma no supiera leer o escribir, estampará su huella digital, salvo que se negare a ello, caso en el cual el notificador asentará esa cuestión, sin que ello afecte la validez del citatorio, y
+
+V. Deberá indicar el motivo para lo cual se requiere la presencia del contribuyente o su representante legal.
+
+###### ARTICULO 439.
+
+Las notificaciones de actos administrativos que deriven de contribuciones relacionadas con bienes inmuebles, se harán en el propio inmueble si éste está edificado; en caso contrario, en el domicilio que deberá señalar el contribuyente y a falta de éste, se harán a través de edictos.
+
+Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de las resoluciones por notificar, dichas publicaciones deberán efectuarse por dos días consecutivos en la Gaceta Oficial del Distrito Federal y en uno de los periódicos de mayor circulación.
+
+###### ARTICULO 440.
+
+Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales, si las personas a quien deben efectuarse se presentan en las mismas.
+
+Toda notificación personal realizada con quien deba entenderse, será legalmente valida aun cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
+
+En los casos de sociedades en liquidación, cuando hubieren nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse validamente con cualquiera de ellos.
+
+Los actuarios y las personas habilitadas por la autoridad fiscal que realicen las diligencias de notificación tendrán fe pública únicamente en cuanto concierne a la práctica de las notificaciones a su cargo, respecto de las que hayan sido autorizadas.
+
+###### ARTICULO 441.
+
+Las notificaciones surtirán sus efectos:
+
+I. Las personales, a partir del día siguiente hábil de la fecha en que fueren practicadas;
+
+II. Las que se efectúen por oficio o correo certificado, desde el día siguiente hábil al en que se reciban, salvo disposición legal en contrario;
+
+III. Las que se efectúen por transmisión facsimilar o correo electrónico desde el día siguiente hábil al que se reciban.
+
+Se entiende que se reciben el día en que se envía el acuse de recibo por la misma vía, que en ningún caso podrá ser diversa a la fecha en que se practique la notificación;
+
+IV. Las que se hagan por edictos, desde el día hábil posterior al de la publicación;
+
+V. La notificación omitida o irregular, al día siguiente hábil en que el interesado o su representante se haga sabedor de la misma, y
+
+VI. Las que se hacen por estrados, al día siguiente al sexto día en que se hubiera fijado en el estrado el documento correspondiente.
+
+La manifestación que haga el interesado o su representante legal, de conocer un acto o resolución administrativa, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento, si ésta es anterior a la fecha en que debiera surtir sus efectos la notificación de acuerdo con las fracciones anteriores.
+
+###### ARTICULO 442.
+
+Salvo que las leyes o resoluciones señalen una fecha para la iniciación de los términos, éstos se computarán a partir del día hábil siguiente al en que surta sus efectos la notificación o en que se realicen los hechos o las circunstancias que las disposiciones legales o resoluciones administrativas prevengan.
+
+## TITULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
+
+### CAPITULO I. De las Infracciones y Sanciones Relacionadas con los Padrones de Contribuyentes
+
+###### ARTICULO 443.
+
+Contra los actos o resoluciones administrativas de carácter definitivo emitidos con base en las disposiciones de este Código, será optativo para los afectados interponer el recurso de revocación o promover juicio ante el Tribunal de lo Contencioso. La resolución que se dicte en dicho recurso será también impugnable ante el Tribunal de lo Contencioso.
+
+Para los efectos del párrafo anterior y del juicio de nulidad tramitado ante el Tribunal de lo Contencioso, las propuestas de declaraciones a que se refiere el primer párrafo del artículo 15 de este Código, los estados informativos y estados de cuenta, no se consideran actos o resoluciones definitivas y, en consecuencia, es improcedente el juicio de nulidad y el recurso de revocación en su contra.
+
+Cuando se haya hecho uso del recurso de revocación, previo desistimiento del mismo, el interesado podrá promover el juicio ante el Tribunal de lo Contencioso.
+
+Lo señalado en el párrafo anterior, será aplicable siempre que el promovente lo realice dentro del plazo de hasta cuatro meses, que es el plazo que la autoridad tiene para resolver el recurso.
+
+Cuando se interponga recurso de revocación o se promueva juicio ante el Tribunal de lo Contencioso, en contra de actos o resoluciones que traigan consigo el cumplimiento de obligaciones fiscales, el promovente deberá garantizar el interés fiscal y los posibles recargos en alguna de las formas señaladas por el artículo 30 de este Código. En caso de no cumplir con dicho requisito, el medio de defensa será procedente, pero la autoridad demandada podrá continuar con el procedimiento administrativo de ejecución independientemente de que no esté resuelto el medio de defensa intentado.
+
+Lo anterior, no será aplicable cuando el afectado estime que ha operado a su favor la prescripción o la caducidad.
+
+###### ARTICULO 444.
+
+La tramitación del recurso administrativo establecido en este Código, deberá cumplir los requisitos a que se refiere el artículo 430, y se sujetará a lo siguiente:
+
+I. Se interpondrá por el recurrente mediante escrito ante la Procuraduría Fiscal, dentro de los quince días siguientes a aquél en que haya surtido sus efectos la notificación del acto impugnado, mismo que deberá contener los siguientes elementos:
+
+a). Nombre, denominación o razón social del recurrente, así como su domicilio en el Distrito Federal para oír y recibir notificaciones y, en su caso, el número de telefacsímil o correo electrónico mediante el cual se pueda practicar la notificación por transmisión facsimilar o medio electrónico, cuando el particular que opte por ello y otorgue el acuse de recibo por la misma vía;
+
+b). El acto o la resolución administrativa de carácter definitivo que se impugne, así como la fecha en que fue notificado, o bien, en la que tuvo conocimiento del mismo;
+
+c). Descripción de los hechos, argumentos en contra del acto impugnado y, de ser posible, los fundamentos de derecho;
+
+d). El nombre y domicilio del tercero interesado, si lo hubiere, y
+
+e). Las pruebas.
+
+Cuando no se cumpla con alguno de los requisitos anteriores, la autoridad requerirá al promovente para que los indique en un plazo de cinco días hábiles, contados a partir del día siguiente a aquél en que surtió efectos la notificación, apercibiéndolo de que en caso de que no lo haga, se tendrá por no interpuesto el recurso.
+
+Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentran a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la Procuraduría Fiscal requiera su remisión. Para este efecto se deberá identificar con toda precisión los documentos y acompañar la copia sellada de la solicitud de los mismos debidamente presentada por lo menos, cinco días antes de la interposición del recurso, ante la autoridad respectiva.
+
+Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos, y
+
+II. El promovente deberá acompañar al escrito en que se interponga el recurso, ya sea en original o copia certificada ante el notario o corredor público:
+
+a). El documento en el que conste el acto o la resolución definitiva impugnada;
+
+b). Constancia de notificación del acto o la resolución definitiva impugnada, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió la constancia, que la notificación se haya practicado por correo certificado con acuse de recibo o por correo ordinario. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y en donde se hizo ésta, y
+
+c). Las pruebas documentales que ofrezca y el dictamen pericial, en su caso.
+
+Cuando no se acompañe alguno de los documentos a que se refiere esta fracción, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días contados a partir del día siguiente a aquél en que surta efectos la notificación los presente y, en caso que no lo haga, si se trata de los documentos mencionados en los incisos a) y b) anteriores se tendrá por no interpuesto el recurso, y en el caso del inciso c) se tendrán por no ofrecidas las pruebas.
+
+Cuando no se promueva en nombre propio, la representación de las personas físicas y morales, deberá acreditarse en términos del artículo 432 de este Código. También podrá acreditarse con la constancia de inscripción en el registro de representantes legales que para tal efecto lleven, en su caso, cada una de las autoridades fiscales a que se refiere el artículo 432. Asimismo, cuando no se acompañe el documento con el que se acredite la personalidad con la que se actúa, la autoridad fiscal requerirá al promovente para que en el plazo establecido en el párrafo anterior lo presente y, en caso de no hacerlo, se tendrá por no interpuesto el recurso.
+
+###### ARTICULO 445.
+
+Es improcedente el recurso cuando se haga valer contra actos o resoluciones administrativas definitivas:
+
+I. Que no sean de los previstos en el artículo 447 de este Código;
+
+II. Que no afecten el interés jurídico del recurrente;
+
+III. Que sean resoluciones dictadas en recursos administrativos, o en cumplimiento de éstas o de sentencias;
+
+IV. Que se hayan consentido expresa o tácitamente, entendiéndose por esto último aquéllos contra los que no se promovió el recurso dentro de los plazos señalados por este Código;
+
+V. Que haya sido revocado por la autoridad;
+
+VI. Que se hayan consumado de manera irreparable;
+
+VII. En los casos en que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno tratándose de lo previsto por la fracción II del artículo 448 de este Código;
+
+VIII. Que hayan sido impugnados ante el Tribunal de lo Contencioso;
+
+IX. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente;
+
+X. Que tengan por objeto hacer efectivas las fianzas otorgadas en garantía de obligaciones fiscales o contractuales a cargo de terceros;
+
+XI. Que determinen la base para el remate de los bienes embargados, y
+
+XII. En los demás casos en que la improcedencia resulte de alguna disposición de este Código.
+
+###### ARTICULO 446.
+
+El recurso se sobreseerá, en los siguientes casos:
+
+I. Por desistimiento del recurrente;
+
+II. Cuando durante la tramitación del recurso aparezca o sobrevenga alguna de las causas de improcedencia a que se refiere el artículo 445 de este Código;
+
+III. Por muerte o extinción del recurrente, ocurrida durante la tramitación del recurso, si su pretensión es intransferible o si con tales eventos deja sin materia el medio de defensa, y
+
+IV. Cuando de las constancias que obran en el expediente administrativo quede demostrado que no existe el acto o resolución recurrida.
+
+Cuando en cualquier momento, la autoridad se percate que ha operado alguna de las causales de sobreseimiento, no se configurará la afirmativa ficta establecida en el artículo 449 fracción III de este Código.
+
+### CAPITULO II. De las Infracciones y Sanciones Relacionadas con la Presentación de Declaraciones e Informes en General
+
+###### ARTICULO 447.
+
+El recurso de revocación procederá contra:
+
+I. Las resoluciones definitivas dictadas por las autoridades fiscales a que se refiere el artículo 7 de este Código que:
+
+a). Determinen contribuciones o sus accesorios;
+
+b). Nieguen la devolución de cantidades que procedan conforme a la Ley;
+
+c). Determinen responsabilidades resarcitorias;
+
+d). Impongan multas por infracción a las disposiciones previstas en este ordenamiento, y
+
+e). Causen agravio al particular en materia fiscal, salvo aquéllas a que se refieren los artículos 40, 53, 106 y 111 de este Código, y
+
+II. Los actos de autoridades fiscales que:
+
+a). Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la oficina recaudadora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 37 de este Código;
+
+b). Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la ley. En este caso, las violaciones cometidas antes del remate, sólo podrán hacerse valer ante la autoridad recaudadora hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en que se surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
+
+Si la violación se comete con posterioridad a dicho acto o se trate de venta de bienes fuera de subasta, el recurso se hará valer en contra del acto que finque el remate o que autorice la venta fuera de subasta, dentro de los quince días siguientes al en que surta efectos la notificación de los mismos o si éstos no le fueron notificados a partir de que tenga conocimiento de ellos.
+
+De ser por la oposición a que se refiere esta fracción, no podrá discutirse la validez del acto en el que se haya determinado el crédito fiscal. Tampoco en este recurso se podrá discutir la validez de la notificación realizada por las autoridades locales diferentes a las fiscales;
+
+c). Afecten el interés jurídico de terceros;
+
+d). Afecte el interés de quien afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales.
+
+Para los efectos del párrafo anterior, se considera que tienen preferencia, los créditos relativos al pago de las indemnizaciones de carácter laboral, así como los que se deriven de juicios en materia de alimentos, siempre que al respecto se haya dictado resolución firme.
+
+En el caso previsto en el inciso d) de la fracción II de este artículo, el recurso podrá hacerse valer en cualquier tiempo hasta antes de que se haya aplicado el importe del remate para cubrir el crédito fiscal.
+
+### CAPITULO III. De las Infracciones y Sanciones Relacionadas con el Pago de Contribuciones y Aprovechamientos
+
+###### ARTICULO 448.
+
+Cuando se alegue que un acto o resolución administrativa definitiva no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 447, previamente se estará a lo siguiente:
+
+I. Si el recurrente afirma conocer el acto o resolución administrativa definitiva, la impugnación contra su notificación se hará valer mediante la interposición del recurso de revocación en contra de tales actos o resoluciones, en el que manifestará la fecha en que los haya conocido.
+
+Para tal efecto, deberá impugnar tanto el acto o resolución administrativa definitiva como su notificación, de manera conjunta.
+
+II. Si el recurrente niega conocer el acto o resolución administrativa definitiva, bajo protesta de decir verdad, manifestará tal desconocimiento en el escrito por el que interponga el recurso administrativo; asimismo, deberá señalar la probable autoridad emisora de aquellos, por lo que en caso de omisión, la autoridad fiscal lo requerirá en términos y efectos del artículo 444, fracción I, de este Código. La Procuraduría Fiscal dará a conocer el acto o resolución administrativa junto con la notificación que del mismo se hubiera practicado, para lo cual el contribuyente señalará, en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada para tal efecto. Si no hace tal señalamiento, la autoridad citada dará a conocer el acto o resolución administrativa y la notificación en el domicilio que se haya señalado para oír y recibir notificaciones y a las personas que se hayan autorizado para tales efectos o, en su ausencia, lo hará por estrados.
+
+El recurrente tendrá un plazo de 15 días, a partir del siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo impugnando, simultáneamente, el acto o resolución administrativa definitiva y su notificación.
+
+III. La Procuraduría Fiscal para resolver el recurso administrativo estudiará los argumentos expresados contra la notificación, previamente al examen de la impugnación que haya hecho del acto o resolución administrativa, y
+
+IV. Si se resuelve que no hubo notificación o que fue ilegal, se tendrá al recurrente como sabedor del acto impugnado desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado con base en aquella, y se procederá al estudio de la impugnación en contra del acto o resolución administrativa definitiva.
+
+Si se resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto o resolución administrativa se interpuso extemporáneamente, se sobreseerá el recurso al actualizarse la causal de improcedencia establecida en la fracción IV, del artículo 445 de este Código.
+
+En el caso de actos o resoluciones administrativas regulados por leyes federales o locales diferentes a las fiscales, respecto de los cuales las autoridades fiscales del Distrito Federal tengan encomendado su cobro, la impugnación de la notificación se hará a través del recurso que, en su caso, establezca la Ley respectiva y de acuerdo con lo previsto en la legislación federal o local aplicable.
+
+### CAPITULO IV. De las Infracciones y Sanciones Relacionadas con la Contabilidad
+
+###### ARTICULO 449.
+
+El recurso previsto en este Código, se sujetará a lo siguiente:
+
+I. En el recurso administrativo de revocación se admitirá todo tipo de pruebas, excepto aquéllas que no tengan relación con los hechos controvertidos, la testimonial y la de confesión de las autoridades mediante absolución de posiciones directas. Por lo tanto, no se considera comprendida en esta fracción la petición de informes a las autoridades fiscales, respecto de los hechos que consten en sus expedientes.
+
+Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
+
+Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestación de hechos particulares, los documentos sólo prueban plenamente que, ante las autoridades que los expidió, se hicieron tales declaraciones o manifestaciones pero no prueba la verdad de lo declarado o manifestado.
+
+El valor de las demás pruebas queda al prudente arbitrio de la autoridad;
+
+II. La autoridad acordará sobre la admisibilidad del recurso y de las pruebas ofrecidas, desechando las que no sean procedentes, dentro del plazo de cinco días, contados a partir de la fecha en que fue presentado o a partir de que el recurrente dio cumplimiento a los requerimientos de la autoridad, según el caso;
+
+III. La autoridad deberá dictar resolución y notificarla en un término que no excederá de cuatro meses contados a partir de la admisión del recurso, el cual no correrá cuando se haya formulado requerimiento al promovente, sino hasta que sea debidamente cumplido. Transcurrido dicho plazo sin que se notifique la resolución, se considera que se ha configurado la afirmativa ficta, y la consecuencia es que el acto o resolución impugnado quede sin efecto, constituyendo esta afirmativa una resolución de carácter firme;
+
+IV. La resolución se fundará en derecho y examinará todos y cada uno de los argumentos hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los argumentos sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de ese.
+
+Se considera que no trascienden al sentido de la resolución impugnada, entre otros, los vicios siguientes:
+
+a). Cuando en un citatorio no se haga mención que es para recibir una orden de visita domiciliaria, siempre que ésta se inicie con el destinatario de la orden;
+
+b). Cuando en un citatorio no se haga constar en forma circunstanciada la forma en que el notificador se cercioró que se encontraba en el domicilio correcto, siempre que la diligencia se haya efectuado en el domicilio indicado en el documento que deba notificarse;
+
+c). Cuando en la entrega del citatorio se hayan cometido vicios de procedimiento, siempre que la diligencia prevista en dicho citatorio se haya entendido directamente con el interesado o con su representante legal;
+
+d). Cuando existan irregularidades en los citatorios, en las notificaciones de requerimientos de solicitudes de datos, informes o documentos, o en los propios requerimientos, siempre y cuando el particular desahogue los mismos, exhibiendo oportunamente la información y documentación solicitados;
+
+e). Cuando no se dé a conocer al contribuyente visitado el resultado de una compulsa a terceros, si la resolución impugnada no se sustenta en dichos resultados, y
+
+f). Cuando no se valore alguna prueba para acreditar los hechos asentados en el oficio de observaciones o en la última acta parcial, siempre que dicha prueba no sea idónea para dichos efectos;
+
+V. Las resoluciones serán claras, precisas y congruentes con las cuestiones planteadas por las partes o las derivadas del expediente del procedimiento administrativo, y
+
+VI. La resolución que ponga fin al recurso podrá:
+
+a). Sobreseerlo;
+
+b). Confirmar el acto impugnado;
+
+c). Mandar a reponer el procedimiento administrativo o que se emita una nueva resolución, y
+
+d). Revocar el acto impugnado, total o parcialmente, según corresponda, en el caso de que la revocación sea parcial, se precisará el monto del crédito fiscal que se deja sin efectos y el que subsiste.
+
+### CAPITULO V. De las Infracciones y Sanciones Relacionadas con Usuarios de Servicios, Fedatarios y Terceros
+
+## TITULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPITULO VI. De las Infracciones y Sanciones Relacionadas con las Facultades de Comprobación
+
+### CAPITULO VII. Del Destino de las Sanciones Fiscales
+
+### CAPITULO I. Disposiciones Generales
+
+# LIBRO CUARTO. DE LAS INFRACCIONES Y SANCIONES, RESPONSABILIDADES RESARCITORIAS Y DELITOS EN MATERIA DE HACIENDA PUBLICA
+
+## TITULO SEGUNDO. DE LAS RESPONSABILIDADES RESARCITORIAS
+
+###### ARTICULO 450.
+
+La aplicación de las multas por infracciones a las disposiciones establecidas en este Código, se harán independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, de las sanciones disciplinarias, en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, así como de las responsabilidades resarcitorias que este Código prevé, y las del orden civil o penal, previstas en los ordenamientos legales respectivos.
+
+Cuando las multas no se paguen en la fecha establecida en las disposiciones fiscales, su monto se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en términos del artículo 41 de este Código.
+
+###### ARTICULO 451.
+
+Son responsables de la comisión de las infracciones, las personas que realicen los supuestos previstos como tales en este Código.
+
+###### ARTICULO 452.
+
+Los servidores públicos que en ejercicio de sus funciones conozcan de hechos u omisiones que entrañen o puedan entrañar infracciones a las disposiciones de este Código y de las que del mismo emanen, lo comunicarán a la autoridad competente para no incurrir en responsabilidad, dentro de los quince días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
+
+Se libera de la obligación establecida en este artículo a los siguientes servidores públicos:
+
+I. Aquéllos que de conformidad con otras leyes tengan obligación de guardar reserva acerca de los datos o información que conozcan con motivo de sus funciones, y
+
+II. Los que participen en las tareas de asistencia al contribuyente previstas por las disposiciones fiscales.
+
+###### ARTICULO 453.
+
+La autoridad al imponer la sanción, deberá emitir la resolución debidamente fundada y motivada, considerando:
+
+I. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
+II. La condición económica del infractor;
+
+III. La gravedad de la infracción;
+
+IV. La reincidencia del infractor;
+
+V. Fundamentación, entendiéndose por tal la cita de los preceptos legales aplicables a la infracción cometida y a la sanción impuesta, precisando, en su caso, las fracciones, incisos o párrafos, y
+
+VI. Motivación, entendiéndose por ello el señalamiento de los siguientes datos:
+
+a). Tipo de infracción que se cometió;
+
+b). Fecha en que se cometiera o fuera descubierta la infracción;
+
+c). Nombre y domicilio del infractor, salvo que los datos del mismo sean indeterminados, y
+
+d). Autoridad que impone la sanción.
+
+La Secretaría se abstendrá de imponer sanciones, cuando se haya incurrido en infracciones a causa de fuerza mayor o caso fortuito, o bien por hechos ajenos a la voluntad del infractor, los cuales deberá demostrar ante dicha unidad administrativa.
+
+Lo dispuesto en este artículo no es aplicable tratándose de responsabilidades resarcitorias.
+
+## TITULO TERCERO. DE LAS INFRACCIONES Y SANCIONES FISCALES
+
+### CAPITULO II. De los Delitos Cometidos por Servidores Públicos
+
+###### ARTICULO 454.
+
+La Secretaría, en el ámbito de sus atribuciones, cuando descubra o tenga conocimiento de irregularidades por actos u omisiones de servidores públicos en el manejo, aplicación y administración de fondos, valores y recursos económicos en general, de propiedad o al cuidado del Distrito Federal, en las actividades de programación y presupuestación, así como por cualquier otros actos u omisiones en que servidores públicos, proveedores, contratistas, contribuyentes y en general, a los particulares, incurran y que se traduzcan en daños o perjuicios a la Hacienda Pública del propio Distrito Federal o al patrimonio de las entidades, fincará, es decir, iniciará, substanciará y resolverá, a través de la Procuraduría Fiscal, responsabilidades resarcitorias, las cuales tendrán por objeto reparar, indemnizar o resarcir dichos daños o perjuicios.
+
+Asimismo, iniciará, substanciará y resolverá responsabilidades resarcitorias en aquellos casos en que la Contaduría Mayor de Hacienda de la Asamblea emita pliegos de observaciones que no hayan sido solventados, previa solicitud que dicha autoridad presente, en términos del artículo 455 de este Código.
+
+De igual forma iniciará, substanciará y resolverá responsabilidades resarcitorias en el caso de que la Asamblea y el Tribunal en su carácter de órganos de gobierno y los órganos autónomos, se lo soliciten fundada y motivadamente, de acuerdo con lo previsto por el artículo 455 de este Código
+
+Para los efectos de este Título y a falta de disposición expresa en este Código, se aplicarán supletoriamente el Código Civil y el Código de Procedimientos Civiles para el Distrito Federal.
+
+###### ARTICULO 455.
+
+Las solicitudes que se presenten a la Procuraduría Fiscal, para el inicio del procedimiento resarcitorio, además de los requisitos previstos en el artículo 430 de este Código, deberán cumplir con lo siguiente:
+
+I. Estar dirigida al Procurador Fiscal del Distrito Federal o al Subprocurador de Asuntos Penales;
+
+II. Expresar los hechos constitutivos de los probables daños y perjuicios a la Hacienda Pública del Distrito Federal o al Patrimonio de las entidades, de la Asamblea y del Tribunal en su carácter de órganos de gobierno o de los órganos autónomos;
+
+III. Indicar el monto histórico total de los probables daños y perjuicios a que se refiere la fracción anterior; así como el monto que se le imputa a cada uno de los servidores públicos o particulares probables responsables, señalando la fecha en que se cometieron las irregularidades a que se refiere la fracción anterior;
+
+IV. Acompañar en original o copia certificada las constancias que acrediten los probables daños y perjuicios a la Hacienda Pública del Distrito Federal, y
+
+V. Precisar los nombres y domicilios de los servidores públicos y particulares, probables responsables de los hechos a que se refiere la fracción II que antecede. En el caso del domicilio del o los probables responsables, se deberán integrar las constancias con las que se acrediten que éste no es mayor a tres meses.
+
+Cuando no se cumpla con alguno de los requisitos, la Procuraduría Fiscal, requerirá al solicitante, para que en un plazo de cinco días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la solicitud se tendrá por no presentada.
+
+Quien solicite o promueva el inicio de un procedimiento resarcitorio deberá aportar los elementos probatorios para acreditar los hechos que causan el daño o perjuicio a la Hacienda Publica del Distrito Federal o al patrimonio de las entidades u órganos autónomos, o la presunta responsabilidad de las personas a las que se les imputa tales hechos; en caso contrario, dicha solicitud será desechada.
+
+En caso de que los elementos de prueba aportados sean falsos o se compruebe el uso indebido de información confidencial o reservada; el solicitante deberá cubrir el monto histórico a que se refiere la fracción III, de este artículo, independientemente de las sanciones establecidas en otros ordenamientos jurídicos.
+
+###### ARTICULO 456.
+
+Las responsabilidades a que alude el artículo anterior se fincarán de la manera siguiente:
+
+I. Directamente a los servidores públicos que hayan cometido las irregularidades respectivas;
+
+II. Subsidiariamente a los servidores públicos que por la índole de sus funciones hayan omitido la revisión o autorizado los actos irregulares, sea en forma dolosa o culposa o por negligencia, y
+
+III. Solidariamente a los proveedores, contratistas, contribuyentes y, en general, a los particulares, cuando hayan participado con los servidores públicos en las irregularidades que originen la responsabilidad.
+
+La responsabilidad solidaria prevista en la fracción III se establece únicamente entre el particular y el responsable directo. El responsable subsidiario gozará respecto del directo y del solidario, del beneficio de orden pero no de excusión.
+
+En el supuesto de que la Procuraduría Fiscal determine la existencia de dos o más responsables subsidiarios, la cantidad a resarcir por cada uno de éstos será determinada a prorrata sobre el total de los créditos fiscales que se hubiesen determinado.
+
+###### ARTICULO 457.
+
+La Procuraduría Fiscal al fincar la responsabilidad resarcitoria deberá emitir resolución debidamente fundada y motivada, en la que se precisará:
+
+I. Los daños o perjuicios causados o los que puedan llegar a producirse;
+
+II. El tipo de responsabilidad que a cada sujeto responsable le corresponda, y
+
+III. La cantidad líquida que corresponda al daño o perjuicio, según sea el caso.
+
+###### ARTICULO 458.
+
+Para el fincamiento de la responsabilidad resarcitoria, el inicio del procedimiento deberá notificarse previamente al probable responsable, para que éste, dentro del plazo de los quince días siguientes conteste lo que a su derecho convenga en torno a los hechos que le fueron imputados y, aporte las pruebas que estime pertinentes para desvirtuar las irregularidades que se le imputan. En el caso que el probable responsable no formule su contestación en torno a los hechos que le fueron imputados y no ofrezca pruebas dentro del plazo de los quince días, se le tendrá por perdido su derecho para hacerlo y para ofrecer pruebas sin necesidad de que se acuse rebeldía.
+
+En caso de que el domicilio proporcionado por la autoridad solicitante del procedimiento resarcitorio resulte incierto, o no se localice al probable responsable, se emitirá requerimiento a efecto de que se proporcione nuevo domicilio donde sea posible la localización, con el apercibimiento de que en caso de no realizarlo en el plazo de treinta días, se ordenará la notificación por edictos de conformidad con lo dispuesto por el artículo 439 de este Código.
+
+A fin de que el probable responsable pueda ofrecer sus pruebas, las autoridades deberán poner a su vista los expedientes de los cuales deriven las irregularidades de que se trate, y expedirles con toda prontitud las copias certificadas que solicite, las cuales se le entregarán una vez que acredite el pago de los derechos respectivos.
+
+No se pondrán a disposición del probable responsable los documentos que contengan información sobre la seguridad nacional o del Distrito Federal, o bien que pueda afectar el buen nombre o patrimonio de terceros.
+
+Terminada la etapa de ofrecimiento, admisión y desahogo de pruebas, se le concederá a cada probable responsable un término de cinco días para que alegue lo que a su interés jurídico corresponda.
+
+Una vez que se haya oído al o los probables responsables; desahogadas las pruebas ofrecidas y admitidas y transcurrido el término a que hace mención el párrafo anterior, la Procuraduría Fiscal notificará a los probables responsables la conclusión del procedimiento resarcitorio; hecho lo anterior, dictará la resolución que corresponda dentro de los quince días hábiles siguientes, si el expediente excede de 500 hojas, por cada 100 de exceso o fracción, se aumentará un día más al plazo señalado, sin que nunca sea mayor de treinta días hábiles.
+
+Si durante la tramitación del procedimiento y hasta antes de notificarse su conclusión, obran datos que dejen sin materia el mismo, o en su caso, se acredita fehacientemente que el daño o perjuicio quedó resarcido a satisfacción de la solicitante, la Procuraduría Fiscal dictará resolución definitiva declarando tales circunstancias.
+
+En caso de que el daño o perjuicio quede resarcido previo a la emisión de dicha resolución, se dará vista a la solicitante para que dentro del plazo de tres días, se pronuncie sobre la satisfacción del resarcimiento, los cuales se comenzarán a contar a partir de que se le haga saber la existencia del pago, apercibiéndole que en caso de no hacerlo así se le tendrá por satisfecha con el mismo.
+
+El procedimiento resarcitorio deberá concluir dentro de un plazo no mayor de veinte meses contados a partir de que se notifique el inicio del mismo a todos los involucrados.
+
+###### ARTICULO 459.
+
+El escrito mediante el cual el probable responsable deberá contestar exponiendo lo que a su derecho convenga y, en su caso aportar las pruebas que estime pertinentes para desvirtuar las irregularidades que se le imputan deberá contener los siguientes requisitos:
+
+I. Estar dirigido al Procurador Fiscal del Distrito Federal o al Subprocurador de Asuntos Penales, indicando el número de expediente;
+
+II. Indicar su nombre, denominación o razón social y Registro Federal de Contribuyentes;
+
+III. Su domicilio ubicado en la circunscripción territorial del Distrito Federal para oír y recibir notificaciones;
+
+IV. En su caso, designar personas autorizadas para oír y recibir notificaciones.
+
+Cuando se promueva en representación de persona física o moral se deberá acompañar poder notarial o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y los testigos ante la Procuraduría Fiscal, debiendo especificar los alcances de dicha representación;
+
+V. La fecha en que fue notificado o tuvo conocimiento del inicio del procedimiento resarcitorio;
+
+VI. Enumerar y narrar las consideraciones de hecho y de derecho que a sus intereses convenga, relacionadas con cada una de las irregularidades que se le atribuyen;
+
+VII. Las pruebas que, en su caso, se estimen pertinentes para desvirtuar las irregularidades que se le atribuyen en los términos que indican el artículo 460 de este Código, relacionándolas con los hechos controvertidos, expresando con toda claridad cual es el hecho o hechos que se tratan de demostrar, así como las razones por las que el oferente estima que demostrarán sus afirmaciones;
+
+VIII. Contener firma autógrafa.
+
+Cuando no se cumpla con alguno de los requisitos anteriores, la Procuraduría Fiscal requerirá al probable responsable para que, en un plazo de cinco días, cumpla con el requisito omitido, apercibiéndolo de que en caso de no subsanarse la omisión, se tendrá por no presentada su promoción, o bien, las pruebas ofrecidas, según sea el caso.
+
+###### ARTICULO 460.
+
+En el procedimiento resarcitorio se admitirán todo tipo de pruebas, excepto aquéllas que no tengan relación con los hechos controvertidos, la testimonial y la confesional. Por lo tanto, no se considera comprendida la petición de informes a autoridades, respecto de los hechos que consten en sus expedientes.
+
+Los documentos deberán ser presentados en original o copia certificada, así como el dictamen pericial que, en su caso, se ofrezca.
+
+Cuando las pruebas documentales no obren en poder del probable responsable o si éste no hubiera podido obtenerlas a pesar de ser documentos que legalmente se encuentran a su disposición, deberá señalar el archivo o lugar en que se encuentren, solicitando a la Procuraduría Fiscal para que requiera su remisión. Para ese efecto, deberá identificar con toda precisión los documentos y acompañar el original del acuse sellado de la solicitud que de los mismos hubiera hecho a la autoridad respectiva dentro del plazo a que se refiere el primer párrafo del artículo 458 de este Código y anexar el original del comprobante de pago de derechos correspondiente, expedido por la autoridad respectiva. De igual forma cuando las documentales que se ofrezcan como prueba corran agregadas al expediente del procedimiento resarcitorio, al momento del ofrecimiento de dichas pruebas deberán identificarse con toda precisión indicando el anexo y foja en el que se encuentren.
+
+Si la autoridad requerida no remite la documentación solicitada o acredita fehacientemente la imposibilidad de su remisión, se dará vista al oferente de la prueba para que en el plazo de tres días manifieste lo que a su derecho convenga, apercibido que en caso de no hacerlo se declarará desierta dicha prueba.
+
+Las pruebas supervenientes podrán presentarse, siempre que no se haya dictado resolución dentro del procedimiento, y sean documentos justificativos de hechos ocurridos con posterioridad a la notificación del inicio del procedimiento de responsabilidad resarcitoria o a la presentación del escrito de contestación del mismo o aquellos que aunque fuere anterior, bajo protesta de decir verdad, asevere que no se tuvo conocimiento de ellos.
+
+Cuando una prueba superveniente se presente una vez concluida la tramitación del procedimiento, el término de quince días a que se refiere el quinto párrafo del artículo 458, correrá a partir del día siguiente al desahogo de dicha prueba.
+
+Harán prueba plena la confesión expresa del probable responsable de los hechos que se le imputan, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos, pero si en estos últimos se contiene declaraciones de verdad o manifestación de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
+
+La prueba pericial sólo será admisible cuando se requieran conocimientos especiales de la ciencia, arte, técnica, oficio o industria de que se trate; para los efectos del procedimiento previsto en este Título, únicamente se valorará, el dictamen pericial, que en su caso ofrezcan los probables responsables, relacionándolo con las demás constancias que obren en el expediente, para que la Procuraduría Fiscal pueda emitir resolución.
+
+En todos los demás medios de prueba, la autoridad deberá exponer los razonamientos lógico jurídicos que haya tomado en cuenta para la valoración de las pruebas.
+
+###### ARTICULO 461.
+
+Las responsabilidades resarcitorias se harán efectivas mediante el procedimiento administrativo de ejecución y, para tal efecto, en su carácter de créditos fiscales, tendrán la prelación que corresponda, en los términos de este Código.
+
+En el caso de que existan varios probables responsables, con diferentes grados de responsabilidad en términos del artículo 456 de este Código, el pago total hecho por uno de ellos extingue el crédito fiscal, o bien, el resarcimiento efectuado hasta antes de que se declare concluida la tramitación del procedimiento libera a los demás, pero no excluye a ninguno de ellos de cualquier otro tipo de responsabilidad en que hubieran incurrido.
+
+### CAPITULO III. De la Defraudación Fiscal
+
+## TITULO CUARTO. DE LOS DELITOS
+
+###### ARTICULO 462.
+
+No se impondrán multas cuando se cumpla en forma espontánea las obligaciones fiscales fuera de los plazos señalados en este Código o cuando se haya incurrido en infracción a causa de fuerza mayor o por caso fortuito, así como cuando dicho cumplimiento sea con motivo de comunicaciones de las autoridades fiscales en las que se invite a los contribuyentes a solventar sus créditos fiscales. Se considerará que el cumplimiento no es espontáneo en los casos siguientes:
+
+a). La omisión sea descubierta por las autoridades fiscales, y
+
+b). La omisión haya sido corregida por el contribuyente después que las autoridades fiscales hubiesen notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes a la comprobación del cumplimiento de la obligación fiscal de que se trate.
+
+###### ARTICULO 463.
+
+Las autoridades al imponer multas por la comisión de las infracciones señaladas en este ordenamiento, deberán fundar y motivar su resolución y tener en cuenta lo siguiente:
+
+I. Se considerará como agravante el hecho de que el infractor sea reincidente. Se da la reincidencia cuando:
+
+a). Tratándose de infracciones que tengan como consecuencia la omisión del pago de contribuciones, incluyendo las retenidas o recaudadas, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción que tenga esa consecuencia, y
+
+b). Tratándose de infracciones que no impliquen omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo artículo de este Código.
+
+En las infracciones a que hace referencia este artículo, existirá reincidencia cuando las multas hayan quedado firmes ya sea por resolución definitiva, o bien que hayan sido consentidas;
+
+II. También será agravante en la comisión de una infracción, cuando se dé cualquiera de los siguientes supuestos:
+
+a). Que se haga uso de documentos falsos o en los que se hagan constar operaciones inexistentes;
+
+b). Que se utilicen, sin derecho a ello, documentos expedidos a nombre de un tercero para deducir su importe al calcular las contribuciones;
+
+c). Que se lleven dos o más sistemas de contabilidad con distinto contenido;
+
+d). Que se destruya, ordene o permita la destrucción total o parcial de la contabilidad, y
+
+e). Que se microfilmen o graben en discos ópticos o en cualquier otro medio que autorice la Secretaría, mediante reglas de carácter general, documentación o información para efectos fiscales, sin cumplir con los requisitos que establecen las disposiciones relativas. El agravante procederá sin perjuicio de que los documentos microfilmados o grabados en discos ópticos o en cualquier otro medio de los autorizados, en contravención de las disposiciones fiscales, carezcan de valor probatorio;
+
+III. Se considera también agravante, la omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes;
+
+IV. Igualmente es agravante, el que la comisión de la infracción sea en forma continua, entendiendo por tal cuando su consumación se prolongue en el tiempo;
+
+V. Cuando por un acto o una omisión se infrinjan diversas disposiciones a las que correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor, y
+
+VI. En caso de que la multa se pague dentro de los 15 días siguientes a la fecha en que se notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
+
+### CAPITULO IV. De los Delitos Relacionados con Inmuebles
+
+###### ARTICULO 464.
+
+Las infracciones relacionadas con los padrones de contribuyentes, darán lugar a la imposición de una multa de $320.00 a $560.00, en los siguientes casos:
+
+I. No solicitar la inscripción o hacerlo extemporáneamente, salvo cuando la solicitud se presente de manera espontánea, y
+
+II. No presentar los avisos que establece este Código o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea.
+
+### CAPITULO V. De los Delitos Relacionados con el Suministro de Agua Potable
+
+###### ARTICULO 465.
+
+Cuando los contribuyentes de los Impuestos Sobre Espectáculos Públicos y Loterías, Rifas, Sorteos y Concursos, omitan presentar las licencias, permisos o autorizaciones a que se refieren los artículos 141, fracciones II y VI, segundo párrafo, y 152, fracción VII, de este Código, según el caso, se les impondrán las siguientes multas:
+
+I. La mayor que resulte entre $1,535.00 y el 5% del valor de los espectáculos; y
+
+II. La mayor que resulte entre $1,535.00 y el 9% del valor nominal de los billetes, boletos y demás comprobantes que permitan participar en las loterías, rifas, sorteos, juegos con apuesta, apuestas permitidas y concursos de toda clase.
+
+La sanción prevista en este artículo también se impondrá a quienes presenten extemporáneamente los documentos a que el mismo se refiere.
+
+###### ARTICULO 466.
+
+A quien cometa las infracciones que a continuación se señalan, relacionadas con la obligación de presentar avisos, manifestación o documentos, se les impondrá las siguientes multas:
+
+I. Por no presentar el aviso de no causación del Impuesto Sobre Adquisición de Inmuebles a que se refiere el artículo 121 de este Código, multa de $2,397.00 a $6,079.00;
+
+II. Por no realizar las manifestaciones o presentar los documentos a que se refieren los artículos 141, fracción III y 152, fracción VIII, de este Código, o hacerlo extemporáneamente, multa de $2,397.00 a $6,079.00;
+
+III. Por no presentar el aviso a las autoridades competentes, sobre las descomposturas del medidor, en los términos del artículo 176, fracción III, de este Código, tratándose de tomas de uso no doméstico, multa de $456.00 a $797.00; en el caso de tomas de uso doméstico, la multa será en cantidad de $228.00 a $399.00;
+
+IV. Por presentar solicitudes que sin derecho den lugar a una devolución o compensación, una multa del 50% al 100% de la devolución o compensación indebida;
+
+V. Por no presentar aviso de cambio de domicilio, una multa de $320.00 a $558.00;
+
+VI. Por no señalar en las declaraciones y avisos que se presenten ante la autoridad fiscal, la clave a que se refiere el artículo 56, inciso a), párrafo segundo, de este Código, señalarla con errores o por no utilizar el código de barras, multa de $285.00 a $570.00;
+
+VII. Por no presentar el aviso de domicilio para oír y recibir notificaciones en el caso de inmuebles sin construcción o desocupados, a que se refiere el inciso b) del artículo 56, multa de $1,199.00 a $2,944.00;
+
+VIII. Por no poner nombre o domicilio, o señalarlos equivocadamente en las declaraciones y avisos que se presenten ante la autoridad fiscal, multa de $570.00 a $952.00;
+
+IX. Por cada dato no asentado o asentado incorrectamente, en las declaraciones y avisos fiscales, multa de $94.00 a $190.00, por cada dato;
+
+X. Omitir la presentación de anexos en las declaraciones y avisos fiscales, multa de $94.00 a $190.00, por cada anexo, y
+
+XI. Por no presentar los documentos a que se refiere el artículo 132 de este Código, o hacerlo extemporáneamente multa de $2,257.00 a $5,722.00.
+
+###### ARTICULO 467.
+
+A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, por cada declaración cuya presentación omita se le impondrán las siguientes multas:
+
+I. Por no presentar las declaraciones que tengan el carácter de periódicas:
+
+a). La mayor que resulte entre $350.00 y el 8% de la contribución que debió declararse tratándose de contribuciones relacionadas con inmuebles de uso habitacional, y
+
+b). La mayor que resulte entre $634.00 y el 10% de la contribución que debió declararse, en los casos distintos de los previstos en el inciso anterior;
+
+II. Por no presentar las declaraciones que tengan un carácter diverso a las de la fracción anterior, la mayor que resulte entre $480.00 y el 8% de la contribución que debió declararse.
+
+Cuando el monto de la contribución que debió declararse sea inferior a las cantidades señaladas en las fracciones anteriores, o no exista contribución a pagar, el monto máximo de la multa que se imponga será hasta el equivalente a tales cantidades, salvo que se trate de contribuciones relacionadas con inmuebles de uso habitacional en que la multa no excederá del equivalente a un tanto de la contribución omitida.
+
+###### ARTICULO 468.
+
+Por no cumplir los requerimientos a que se refiere la fracción II del artículo 88 de este Código, se aplicará una sanción de $350.00 a $606.00, por cada requerimiento.
+
+Cuando el monto de la contribución que debió declararse sea inferior a la sanción impuesta en el párrafo anterior, el monto máximo de la multa que se imponga será hasta el equivalente a tal cantidad.
+
+###### ARTICULO 469.
+
+A quien cometa la infracción relacionada con la obligación de señalar el número de cuenta en tratándose de promociones y documentos relacionados con el impuesto predial y derechos por el suministro de agua, que se presenten ante autoridades administrativas y jurisdiccionales, se le impondrá multa de $422.00 a $906.00.
+
+### CAPITULO VI. De los Delitos Relacionados con los Padrones de Contribuyentes
+
+###### ARTICULO 470.
+
+Tratándose de la omisión de contribuciones por error aritmético en las declaraciones, se impondrá una multa del 10% al 20% de las contribuciones omitidas. En caso de que dichas contribuciones se paguen junto con sus accesorios, dentro de los 15 días hábiles siguientes a la fecha en que surta sus efectos la notificación de la diferencia respectiva, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
+
+###### ARTICULO 471.
+
+Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones o aprovechamientos incluyendo las retenidas o recaudadas, de conformidad con este Código, y sean descubiertas por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
+
+I. Del 40% al 50% de las contribuciones o aprovechamientos omitidos, cuando el infractor las pague junto con sus accesorios antes de la notificación de la resolución que determine el monto de la contribución o aprovechamientos que omitió, y
+
+II. Del 60% al 90% de las contribuciones o aprovechamientos omitidos, en los demás casos.
+
+Si las autoridades fiscales determinan contribuciones o aprovechamientos omitidos mayores que las consideradas por el contribuyente para calcular la multa en los términos de la fracción I de este artículo, aplicarán el porciento que corresponda en los términos de la fracción II sobre el remanente no pagado de las contribuciones.
+
+El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría.
+
+También se aplicarán las multas a que se refiere este precepto, cuando las infracciones consistan en devoluciones o compensaciones, indebidos o en cantidad mayor de la que corresponda. En estos casos las multas se calcularán sobre el monto del beneficio indebido.
+
+###### ARTICULO 472.
+
+En los casos a que se refiere el artículo anterior, las multas se aumentarán o disminuirán, conforme a las siguientes reglas:
+
+I. Se aumentarán:
+
+a). En un 20% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor haya reincidido o cuando se trate del agravante señalado en el artículo 463, fracción IV, de este Código;
+
+b). En un 60% del monto de las contribuciones omitidas o del beneficio indebido, cuando en la comisión de la infracción se dé alguno de los agravantes señalados en el artículo 463, fracción II, de este Código, y
+
+c). En una cantidad igual al 50% del importe de las contribuciones retenidas o recaudadas y no enteradas, cuando se incurra en la agravante a que se refiere el artículo 463, fracción III, de este Código.
+
+Tratándose de los casos comprendidos en las fracciones I y II del artículo anterior, el aumento de multas, a que se refiere esta fracción, se determinará por la autoridad fiscal correspondiente, aun después de que el infractor hubiera pagado las multas en los términos del artículo precedente.
+
+II. Se disminuirán:
+
+a). En un 25% del monto de las contribuciones omitidas que hayan sido objeto de dictamen, o del beneficio indebido, si el infractor ha hecho dictaminar por contador público autorizado el cumplimiento de sus obligaciones fiscales correspondientes al periodo en el cual incurrió en la infracción. No se aplicará lo dispuesto en este inciso cuando exista alguno de los agravantes señalados en el artículo 463, fracción II, de este Código, y
+
+b). En un 20% del monto de las contribuciones omitidas o del beneficio indebido, en el caso de la fracción II del artículo anterior y siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la resolución respectiva. Para aplicar la reducción contenida en este inciso no se requiere modificar la resolución que impuso la multa.
+
+###### ARTICULO 473.
+
+La falta de pago de los aprovechamientos a que se refiere el artículo 304, tendrá como consecuencia que no se puedan utilizar para el ejercicio del comercio, las vías y áreas públicas permisionadas o concesionadas y, por lo tanto, las Delegaciones podrán proceder al retiro de las personas que las ocupen, independientemente de las demás sanciones que resulten aplicables.
+
+###### ARTICULO 474.
+
+A las personas que mediante terceros fijen, instalen, ubiquen o modifiquen anuncios de propaganda sin previo pago de los derechos a que se refiere el artículo 193 de este Código, se les aplicará una sanción económica de entre doscientos y doscientos cincuenta días de Salario Mínimo General Vigente en el Distrito Federal, más las actualizaciones, recargos y gastos del retiro de dichos anuncios; una vez retirada, la estructura utilizada en dichos anuncios quedará a disposición de la autoridad.
+
+Los propietarios de los inmuebles o en su caso los poseedores, en donde se encuentren instalados dichos anuncios sin licencia, que no permitan el retiro de los mismos, dentro de un plazo de cinco días a partir de la fecha de la notificación de retiro por parte de la autoridad, se harán acreedores a una sanción de entre $123,365.00 a $364,488.00 pesos, dependiendo del tipo de anuncio de que se trate.
+
+### CAPITULO VII. De los Delitos Cometidos por Depositarios e Interventores
+
+###### ARTICULO 475.
+
+A quien cometa las infracciones que a continuación se señalan, relacionadas con la contabilidad, se le impondrá las multas siguientes:
+
+I. De $6,581.00 a $13,166.00, por no llevar algún libro o registro especial, que establezcan las disposiciones fiscales;
+
+II. De $1,580.00 $3,552.00, por no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos; o hacerlos fuera del plazo respectivo;
+
+III. De $7,896.00 a $21,059.00, por no conservar la contabilidad a disposición de la autoridad por el plazo que establezcan las disposiciones fiscales;
+
+IV. De $3,157.00 a $6,581.00, por microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaría, mediante disposiciones de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos establecidos en las disposiciones relativas;
+
+V. De $18,989.00 a $47,473.00, por no presentar el aviso para dictaminar el cumplimiento de las obligaciones fiscales, y
+
+VI. De $17,090.00 a $42,723.00, por no dictaminar el cumplimiento de las obligaciones fiscales o no presentar el dictamen conforme lo establecen las disposiciones fiscales, habiendo formulado el aviso respectivo, en su caso.
+
+### CAPITULO VIII. De los Delitos de Falsificación en Materia Fiscal
+
+###### ARTICULO 476.
+
+Cuando los notarios, corredores públicos y demás personas que por disposición legal tengan fe pública, así como los jueces omitan el cumplimiento de cualquiera de las obligaciones previstas a su cargo por los artículos 27, 121, 122, 123 y 124, de este Código, se les impondrá una multa de $3,600.00 a $6,398.00.
+
+###### ARTICULO 477.
+
+A los fedatarios que no incluyan en el documento en que conste alguna adquisición, la cláusula especial a que se refiere el artículo 121 de este Código, se les impondrá una multa de $3,600.00 a $6,398.00.
+
+###### ARTICULO 478.
+
+En el caso de que las personas a que se refieren las fracciones I y V del artículo 22 de este Código, no se ajusten a los procedimientos y lineamientos técnicos, se les impondrá una multa de acuerdo al valor catastral del predio, como lo indica la siguiente tabla:
+
+Rangos Mínima Máxima
+
+A 20,650.96 21,952.88
+
+B 21,952.89 23,905.77
+
+C 23,905.78 26,509.62
+
+D 26,509.63 29,113.48
+
+E 29,113.49 31,717.33
+
+F 31,717.34 34,321.18
+
+G 34,321.19 36,925.03
+
+H 36,925.04 39,528.89
+
+I 39,528.90 42,132.74
+
+J 42,132.75 44,736.60
+
+K 44,736.61 47,340.45
+
+L 47,340.46 49,945.54
+
+M 49,945.55 82,497.43
+
+N 82,497.44 165,528.44
+
+O 165,528.45 518,655.36
+
+P 518,655.37 800,000.00
+
+En el caso de las personas señaladas en las fracciones II y III del artículo 22 de este Código que no se ajusten a los procedimientos y lineamientos técnicos, se les impondrá una multa equivalente al monto de la contribución omitida, sin que en ningún caso este importe sea inferior de $60,000.00.
+
+###### ARTICULO 479.
+
+En el caso de que las personas a que se refiere el artículo 98 de este Código, no cumplan con las disposiciones establecidas en él, se les impondrán las multas siguientes:
+
+I. De $6,790.00 a $20,370.00 por las comprendidas en la fracción I;
+
+II. De $16,188.00 a $48,564.00 por las comprendidas en la fracción II;
+
+III. De $62,341.00 a $187,023.00 por las comprendidas en la fracción III.
+
+###### ARTICULO 480.
+
+A quienes cometan las infracciones que a continuación se señalan, se les impondrán las siguientes multas:
+
+I. Por practicar, encubrir o consentir que se lleven a cabo instalaciones hidráulicas, así como derivaciones de agua, sin la autorización respectiva, así como realizar modificaciones o manipulaciones a los ramales de las tuberías de distribución según el diámetro de la instalación:
+
+DIAMETRO DE LA MULTA
+
+INSTALACION
+
+EXPRESADA
+
+EN MILIMETROS DE A
+
+HASTA 13 $3,840.13 $7,681.40
+
+HASTA 19 4,585.43 9,173.70
+
+HASTA 26 5,730.80 11,441.24
+
+HASTA 32 7,625.08 15,222.72
+
+HASTA 39 9,915.81 19,811.27
+
+HASTA 51 12,183.80 24,366.50
+
+HASTA 64 14,159.62 28,954.94
+
+DE 65 EN ADELANTE 14,478.03 37,778.41
+
+Asimismo, por practicar, encubrir o consentir que se lleven a cabo instalaciones de albañal y descargas industriales, independientemente de cubrir el monto de los trabajos necesarios, reparar los daños que se llegarán a ocasionar a la infraestructura, así como los daños al medio ambiente de acuerdo a la normatividad aplicable.
+
+DIAMETRO DE LA MULTA
+
+INSTALACION
+
+EXPRESADA
+
+EN MILIMETROS DE A
+
+HASTA 150 $3,309.66 $6,620.95
+
+HASTA 200 3,463.16 6,924.42
+
+HASTA 250 3,916.64 7,834.81
+
+HASTA 300 4,413.51 8,826.83
+
+HASTA 380 5,345.43 10,690.90
+
+HASTA 450 6,470.97 12,939.62
+
+DE 451 EN ADELANTE 17,202.65 34,403.70
+
+II. Por comercializar el agua suministrada por el Distrito Federal a través de tomas particulares conectadas a la red pública si en la misma existe aparato medidor, de $5,730.00 a $11,442.00; si no existe o tratándose de tomas de uso no doméstico, la comercialización se hace sin contar con autorización, la multa será de $11,442.00 a $22,874.00;
+
+III. Por emplear mecanismos para succionar agua de las tuberías de distribución, de $3,847.00 a $11,465.00, tratándose de tomas de uso doméstico y de $89,413.00 a $178,803.00, tratándose de tomas de uso no doméstico sin perjuicio del pago de la reparación del desperfecto causado, que tendrá el carácter de crédito fiscal. En el caso de aguas de uso mixto, si el consumo de agua del bimestre en que fue detectada la colocación del mecanismo succionador fuera menor o igual a 70 m3, se aplicará la multa correspondiente a la de tomas de uso doméstico, y si el consumo resultara mayor a dicho volumen, se le aplicará la multa correspondiente a la de tomas de uso no doméstico;
+
+IV. A quien omita solicitar la instalación o renovación de su medidor en los términos del artículo 176 de este Código, destruya, altere o inutilice los aparatos medidores o sus aditamentos o viole los sellos de los mismos:
+
+a). Tratándose de tomas de agua potable para uso doméstico de $939.00 a $3,444.00;
+
+b). Tratándose de tomas de agua de uso no doméstico, de $3,758.00 a $23,496.00, y
+
+c). En el caso de inmuebles que cuenten con tomas de agua de uso doméstico y no doméstico, se aplicará la sanción correspondiente al uso del medidor que se encuentre dañado.
+
+Para los efectos de esta fracción, se considera alteración, entre otros supuestos, el hecho de que se coloque cualquier dispositivo que impida medir correctamente el consumo de agua. Se presume que la alteración es accidental cuando el contribuyente lo comunique a las autoridades fiscales en el bimestre siguiente a aquél en que ocurra, salvo prueba en contrario;
+
+V. Por no presentar los avisos a que se refiere el artículo 176, fracción VII, de este Código, la multa será de $1,543.00 a $3,093.00 cuando se trate de tomas con diámetro de entrada de 19 milímetros o inferiores y de $3,093.00 a $6,182.00 para diámetros superiores;
+
+VI. Por el segundo aviso de descompostura de su medidor, que motive la práctica por las autoridades fiscales de una segunda visita, siempre que en la primera y segunda visita se verifique que el aparato medidor funciona correctamente, la multa será de $570.00 a $1,134.00;
+
+VII. Por derramar azolve a las coladeras, pozos, lumbreras y demás accesorios de la red de drenaje en la vía pública sin la autorización correspondiente, la multa será de $21,928.00 a $31,330.00;
+
+VIII. A los usuarios que practiquen, encubran o consientan que se lleven a cabo instalaciones o modificaciones de tomas tipo cuello de garza para el abastecimiento de agua potable o agua residual tratada, sin la autorización respectiva de la autoridad responsable de la operación hidráulica, se le impondrá una multa de $37,911.00 a $76,099.00;
+
+IX. Por llevar a cabo la interconexión entre la toma de agua potable y la de agua residual tratada, se sancionará con una multa de $78,362.00 a $156,711.00, sin perjuicio de la aplicación de sanciones previstas por la Ley de Salud para el Distrito Federal y la Ley de Aguas del Distrito Federal;
+
+X. Al usuario que se reconecte al servicio hidráulico y se encuentre éste restringido o suspendido, ya sea que retire el engomado, rompa el sello o abra la válvula, se le aplicará una multa de $3,831.00 a $177,250.00. Para imponer la multa, se tomará en consideración el tipo de usuario y la reincidencia en la conducta, y
+
+XI. A quienes desperdicien el agua tratándose de uso doméstico de 400 a 700 salarios mínimos vigentes en el Distrito Federal y en uso no doméstico de 2250 a 4500 salarios mínimos generales vigentes en el Distrito Federal, la multa se aplicará previa verificación y levantamiento del acta correspondiente, en el recibo de pago de los derechos por el suministro de agua del bimestre inmediato.
+
+###### ARTICULO 481.
+
+Cuando se deje sin efectos una notificación practicada ilegalmente, ya sea por virtud de una resolución administrativa o jurisdiccional emitida por autoridad competente, se podrá imponer al notificador, actuario o personal habilitado que la hubiere practicado, una multa mínima de 30 veces el salario mínimo general diario vigente en el Distrito Federal y hasta el 50% de la cantidad consignada en el documento a diligenciar.
+
+### CAPITULO IX. De los Delitos de Asociación Delictuosa en Materia Fiscal
+
+###### ARTICULO 482.
+
+A quien cometa las infracciones que a continuación se señalan, relacionadas con las facultades de comprobación, se le impondrá una multa de $10,185.00 a $20,370.00.
+
+I. Oponerse a que se practique la visita en el domicilio fiscal;
+
+II. No suministrar los datos e informes que legalmente exijan las autoridades fiscales; no proporcionar la contabilidad o parte de ella y, en general, los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros;
+
+III. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito, y
+
+IV. Proporcionar a las autoridades fiscalizadoras documentación falsa o indebida en la que conste el cumplimiento de obligaciones fiscales.
+
+###### ARTICULO 483.
+
+De los ingresos efectivos que el Distrito Federal obtenga por conceptos de multas pagadas por infracción a las disposiciones fiscales que establece este Código y que hubieran quedado firmes, con exclusión de las que tengan por objeto resarcir los daños y perjuicios causados a la Hacienda Pública del Distrito Federal o al patrimonio de las Entidades así como los de programas de regulación fiscal, el 15% se destinarán a la formación de fondos para la capacitación y superación, el 10% para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal hacendario, y el 75% restante se destinará al personal que participa directamente en el cobro de la multa, en la forma y términos que previenen los acuerdos de carácter administrativo que para tal efecto emita la Secretaría, privilegiando la mejora continua del desempeño mediante la integración, aplicación, seguimiento y evaluación de los respectivos indicadores.
+
+Las multas pagadas por infracciones relacionadas con los trámites de las licencias, permisos o los registros de manifestación de construcción, se destinarán a la delegación correspondiente como ampliación líquida a su presupuesto, de conformidad con la normatividad aplicable, para ser destinadas a obras y trabajos para mejoramiento de la infraestructura urbana de la demarcación.
+
+###### ARTICULO 484.
+
+Para proceder penalmente por los delitos fiscales previstos en este Título, será necesario que previamente la Procuraduría Fiscal formule la querella respectiva; excepto en aquellos en que participen servidores públicos en ejercicio de sus funciones o con motivo de ellas, en cuyo caso cualquiera podrá denunciar los hechos ante el Ministerio Público.
+
+De igual forma la Procuraduría Fiscal formulará las denuncias, aportará todos los elementos de prueba que sean necesarios y coadyuvará con el Ministerio Público, tratándose de las conductas que puedan implicar la comisión de delitos en contra de la Hacienda Pública del Distrito Federal.
+
+No se formulará querella si quien hubiera omitido el pago de la contribución o aprovechamientos y obtenido el beneficio indebido, lo entera espontáneamente con sus recargos antes de que la autoridad fiscal descubra la omisión o el perjuicio o medie requerimiento, orden de visita o cualquier gestión notificada por la misma, tendiente a la comprobación del cumplimiento de la obligación fiscal de que se trate.
+
+Para la integración y formulación de las denuncias y querellas que procedan conforme a este Código, así como para la función de cuadyuvancia correspondiente, las autoridades administrativas deberán proporcionar a la Procuraduría Fiscal los datos y elementos necesarios y suficientes.
+
+###### ARTICULO 485.
+
+Cuando en el ejercicio de sus facultades de comprobación la autoridad fiscal conozca de hechos probablemente delictuosos, lo hará del conocimiento de la Procuraduría Fiscal para la formulación de la denuncia o querella respectiva, sin perjuicio de que la propia autoridad fiscal pueda continuar ejerciendo sus facultades de comprobación, con base en las cuales podrán aportarse elementos adicionales.
+
+###### ARTICULO 486.
+
+Cuando los inculpados paguen las contribuciones o aprovechamientos omitidos y sus accesorios, o se garanticen a satisfacción de la autoridad fiscal, la Procuraduría Fiscal, podrá otorgar, hasta antes de dictarse sentencia de segunda instancia, el perdón legal en los delitos fiscales a que se refiere este Título, con excepción de aquellos en que participen servidores públicos en ejercicio de sus funciones o con motivo de ellas.
+
+La Procuraduría Fiscal, podrá solicitar el sobreseimiento, en los ilícitos a que se refiere este Título, de conformidad con la legislación aplicable.
+
+###### ARTICULO 487.
+
+En los delitos fiscales en que sea necesaria la determinación del daño o perjuicio causado a la Hacienda Pública del Distrito Federal, la Procuraduría Fiscal lo señalará en la averiguación previa, con base en los datos proporcionados por la autoridad fiscal correspondiente.
+
+No procederá la libertad caucional, en aquellos delitos que, conforme a las reglas señaladas en la legislación penal del Distrito Federal, deban considerarse como graves.
+
+En los casos en que proceda el beneficio de la libertad caucional, la autoridad competente la otorgará, cuando se garantice el daño o perjuicio señalado en la averiguación previa.
+
+###### ARTICULO 488.
+
+En los delitos fiscales, la autoridad judicial no condenará a la reparación del daño; las autoridades administrativas, con arreglo a las leyes fiscales, harán efectivas las contribuciones o aprovechamientos omitidos, los recargos y las sanciones administrativas correspondientes, sin que ello afecte al procedimiento penal.
+
+###### ARTICULO 489.
+
+Si un funcionario o empleado público en ejercicio de sus funciones o con motivo de ellas, comete o en cualquier forma participa en la comisión de un delito fiscal, la pena aplicable por el delito que resulte se aumentará de tres a cinco años de prisión, con excepción de lo dispuesto en los artículos 493 y 494 de este Código.
+
+###### ARTICULO 490.
+
+En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad más de la que resulte aplicable.
+
+###### ARTICULO 491.
+
+La acción penal en los delitos fiscales a que se refiere este Código, prescribirá en tres años contados a partir del día en que la Procuraduría Fiscal tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito.
+
+###### ARTICULO 492.
+
+Para los efectos de este Título y a falta de disposición expresa en este Código, se aplicarán supletoriamente el Código Penal para el Distrito Federal y el Código de Procedimientos Penales para el Distrito Federal.
+
+###### ARTICULO 493.
+
+Se impondrá sanción de dos a nueve años de prisión al servidor público que, en ejercicio de sus funciones o con motivo de ellas, realice las siguientes conductas:
+
+I. Ordene o efectúe el asiento de datos falsos en la contabilidad gubernamental de la dependencia, órgano desconcentrado, delegación o entidad, en la que preste sus servicios;
+
+II. Omita registrar, en los términos de las disposiciones aplicables, las operaciones y registros en la contabilidad gubernamental de la dependencia, órgano desconcentrado, delegación o entidad, en la que preste sus servicios o mediante maniobras altere o elimine los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes, resultados o base de datos fiscales;
+
+III. Falsifique o altere documentos fiscales o cualquier otro medio de control fiscal que expida o use la Secretaría o simule actos propios de su función o a sabiendas realice operaciones, actos, contratos u otras actividades que resulten en perjuicio de la Hacienda Pública del Distrito Federal;
+
+IV. Ordene o practique visitas domiciliarias, requerimientos de pagos o embargos sin mandamiento escrito de autoridad fiscal competente, así como que intimide con amenazas o engaños al visitado para obtener beneficios personales;
+
+V. Actúe con dolo en el desahogo e integración de los expedientes de las visitas domiciliarias, y/o en el levantamiento de las actas circunstanciadas con las cuales concluyó la visita domiciliaria;
+
+VI. Asesore o aconseje a los contribuyentes, un tercero interesado o a los representantes de éstos, con el propósito de que omitan total o parcialmente el pago de las contribuciones, aprovechamientos o productos, así como de los accesorios a que estén obligados, o bien, para que obtengan algún beneficio indebido;
+
+VII. Realice o colabore en la alteración o inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan o en los sistemas informáticos, y
+
+VIII. Otorgue cualquier identificación o documento en que se acredite como servidor público adscrito a una autoridad fiscal, a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia.
+
+###### ARTICULO 494.
+
+Al servidor público que en ejercicio de sus funciones o con motivo de ellas, contravenga la normatividad aplicable, respecto al resguardo, registro, control, administración, recepción, almacenaje y distribución de formas valoradas y numeradas, calcomanías, órdenes de cobro, recibos de pago, placas, tarjetones o cualquier otro medio de control fiscal, así como de los títulos de crédito o valores utilizados para el pago de ingresos que tenga derecho a recaudar el Distrito Federal, se le impondrá sanción de tres meses a tres años de prisión.
+
+###### ARTICULO 495.
+
+Comete el delito de defraudación fiscal quien mediante el uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución o aprovechamiento, previstos en este Código u obtenga, para sí o para un tercero, un beneficio indebido en perjuicio de la Hacienda Pública del Distrito Federal.
+
+El delito previsto en este artículo se sancionará con prisión de tres meses a dos años si el monto de lo defraudado no excede de mil veces el salario mínimo general diario vigente en el Distrito Federal; si el monto de lo defraudado excede la cantidad anterior, pero no de dos mil veces dicho salario, la sanción será de dos a cinco años de prisión; y si el valor de lo defraudado fuere mayor de esta última cantidad, la sanción será de cinco a nueve años de prisión.
+
+Para los efectos de este artículo se tomará en cuenta el monto de las contribuciones o aprovechamientos defraudados en un mismo año de calendario, aun cuando sean diferentes y se trate de diversas conductas.
+
+###### ARTICULO 496.
+
+Será sancionado con las mismas penas del delito de defraudación fiscal, quien dolosamente:
+
+I. Consigne en las declaraciones que presente para efectos fiscales valores inferiores a los que correspondan conforme a las disposiciones de este Código o erogaciones menores a las realmente realizadas;
+
+II. Omita enterar a las autoridades fiscales, dentro del plazo que este Código establezca, las cantidades que por concepto de contribuciones o aprovechamientos hubiera retenido o recaudado;
+
+III. Se aproveche de algún beneficio otorgado por las autoridades del Distrito Federal, sin tener derecho a ello;
+
+IV. Reciba subsidios y les dé un uso o aplicación diferente a los fines para los cuales se otorgaron;
+
+V. Disponga de manera indebida para su propio beneficio o el de un tercero, de cheques o cantidades destinadas por los contribuyentes al pago de créditos fiscales;
+
+VI. Elabore avalúos vinculados con las contribuciones establecidas en este Código con datos apócrifos, altere la documentación sobre la que se basa el avalúo o no se ajusten a los procedimientos y lineamientos técnicos de valuación inmobiliaria, y
+
+VII. Presenten ante las autoridades fiscales avalúos vinculados con las contribuciones establecidas en este Código con datos apócrifos o alteren la documentación sobre la que se basa el avalúo.
+
+###### ARTICULO 497.
+
+Cometen el delito de defraudación fiscal en materia de contribuciones relacionadas con inmuebles, quienes dolosamente:
+
+I. Declaren el impuesto a su cargo, en forma distinta a lo establecido por el artículo 127 de este Código;
+
+II. Omitan total o parcialmente el pago del Impuesto Predial, y
+
+III. Omitan total o parcialmente el pago del Impuesto Predial, como consecuencia de la omisión o inexactitud en la manifestación de las características físicas de los inmuebles de su propiedad, el destino o uso de los mismos.
+
+Los delitos previstos en este artículo se sancionarán con prisión de tres meses a dos años si el monto de lo defraudado no excede de mil veces el salario mínimo general diario vigente en el Distrito Federal; si el monto de lo defraudado excede de la cantidad anterior, pero no de dos mil veces dicho salario, la sanción será de dos a cinco años de prisión; y si el valor de lo defraudado fuere mayor de esta última cantidad, la sanción será de cinco a nueve años de prisión.
+
+Las sanciones previstas en este artículo, sólo se aplicarán a los propietarios o poseedores de inmuebles de uso habitacional, cuando hayan omitido total o parcialmente el pago de las contribuciones a su cargo durante un lapso mayor de un año.
+
+###### ARTICULO 498.
+
+Cometen el delito de defraudación fiscal en materia de suministro de agua potable quienes:
+
+I. Sin autorización de la autoridad competente o sin el pago de los derechos correspondientes, instalen, ordenen, consientan o se sorprenda en flagrancia instalando tomas de agua en inmuebles de su propiedad o posesión, o aprovechen en su beneficio dichas tomas o derivaciones;
+
+II. Declaren dolosamente los derechos por el suministro, uso o aprovechamiento de agua a su cargo, bajo un régimen distinto al que corresponda en razón del uso del inmueble;
+
+III. Omitan dolosamente, el pago total o parcial de los citados derechos;
+
+IV. Consignen en las declaraciones que presenten un volumen de agua inferior al realmente consumido;
+
+V. Alteren o destruyan dolosamente un medidor o sus aditamentos, lo retiren o sustituyan sin autorización de la autoridad competente; imposibiliten su funcionamiento o lectura, o rompan los sellos correspondientes; destruyan, extraigan, compren o vendan material así como tapas de accesorios de drenaje y agua potable de las instalaciones hidráulicas del Gobierno del Distrito Federal;
+
+VI. Se reconecten al servicio de suministro de agua encontrándose suspendido o restringido éste, por cualquiera de las causas previstas en el artículo 177 de este Código, y
+
+VII. Comercien sin contar con la autorización respectiva, con el agua provista por la autoridad competente, para usos no comerciales.
+
+Los delitos previstos en este artículo se sancionarán con prisión de tres meses a dos años si el monto de lo defraudado no excede de mil veces el salario mínimo general diario vigente en el Distrito Federal; si el monto de lo defraudado excede la cantidad anterior, pero no de dos mil veces dicho salario, la sanción será de dos a cinco años de prisión; y si el valor de lo defraudado fuere mayor de esta última cantidad, la sanción será de cinco a nueve años de prisión.
+
+Tratándose de los supuestos previstos en las fracciones I, V, VI y VII de este artículo, se impondrá una sanción de tres meses a nueve años de prisión, siempre que no se pueda cuantificar el monto de lo defraudado.
+
+###### ARTICULO 499.
+
+Se impondrá sanción de tres meses a tres años de prisión, a quien:
+
+I. Omita solicitar su inscripción a los padrones de contribuyentes del Distrito Federal, por más de un año contado a partir de la fecha en que debió hacerlo;
+
+II. No rinda los informes a que está obligado conforme a este Código, o lo haga con falsedad, y
+
+III. Desocupe el lugar donde se hubiera iniciado un procedimiento de comprobación o verificación, sin dar aviso a la autoridad fiscal encargada de llevarlo a cabo, después de la notificación de una orden de visita y antes de que transcurra un año contado a partir de dicha notificación, o bien después de que se le hubiese notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos.
+
+###### ARTICULO 500.
+
+Se impondrá sanción de uno a seis años de prisión al depositario o interventor designado por las autoridades fiscales del Distrito Federal que, con perjuicio del fisco del Distrito Federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubiesen constituido, si el valor de lo dispuesto no excede de dos mil veces el salario mínimo general diario vigente en el Distrito Federal; cuando exceda, la sanción será de tres a nueve años de prisión.
+
+Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente que lo requiera.
+
+###### ARTICULO 501.
+
+Se impondrá de dos a nueve años de prisión:
+
+I. Al que falsifique matrices, punzones, dados, clichés o negativos, que usa la Secretaría; o los utilice para imprimir, grabar o troquelar calcomanías, formas valoradas o numeradas, placas o tarjetones;
+
+II. Al que falsifique calcomanías, formas valoradas o numeradas, placas, tarjetones, órdenes de cobro o recibos de pago que usa la Secretaría;
+
+III. Al que altere en su valor, en el año de emisión, en el resello, leyenda, tipo, a las calcomanías, permisos, autorizaciones, formas valoradas o numeradas, placas o tarjetones emitidos conforme a este Código, y
+
+IV. Al que utilice máquinas registradoras de operación de caja, aparatos de control, marcas o sellos fiscales, de uso por la Secretaría, para imprimir o asentar como ciertos hechos o actos falsos en documentos.
+
+###### ARTICULO 502.
+
+Se impondrá sanción de dos a nueve años de prisión:
+
+I. Al que posea, venda, ponga en circulación, comercialice, use y/o reciba una forma valorada o numerada, calcomanía, orden de cobro, recibo de pago, placa, tarjetón o cualquier medio de control fiscal que expida o utilice la Secretaría, sea falsificado, o en su caso, lo adhiera a documentos, objetos o libros para acreditar el pago de alguna obligación fiscal a que tenga derecho recaudar la Hacienda Pública del Distrito Federal;
+
+II. Al que al pagar o acreditar el pago de alguna obligación fiscal prevista en este Código, utilice una forma valorada o numerada, calcomanía, orden de cobro, recibo de pago, una placa, tarjetón o cualquier otro medio de control fiscal, de que fue manufacturado con fragmentos, datos o recortes de otros o que sean falsos;
+
+III. Al que manufacture, venda ponga en circulación o en alguna otra forma comercie con los objetos descritos en la fracción anterior;
+
+IV. Al que dolosamente altere o destruya las máquinas registradoras de operación de caja, aparatos de control, marcas o sellos fiscales, que usa la Secretaría;
+
+V. Tenga en su poder sin haberlos adquirido legalmente, marbetes, calcomanías, formas fiscales con sellos o marcas oficiales, máquinas registradoras de operación de caja, aparatos de control, marcas o sellos fiscales, que usa la Secretaría, o los enajene directa o indirectamente sin estar autorizado para ello, y
+
+VI. Altere, destruya o asiente datos falsos en la contabilidad, documentos o sistemas informáticos o cualquier otro medio electrónico que la Secretaría utilice o autorice para recaudar, cobrar y administrar las contribuciones, aprovechamientos, productos y demás ingresos a que tenga derecho a recaudar el Distrito Federal en los términos de la normatividad aplicable.
+
+###### ARTICULO 503.
+
+A quienes en forma concertada preparen, inicien o ejecuten actividades contrarias a los servicios de tesorería a que se refiere este Código, que produzcan un daño o perjuicio a la Hacienda Pública del Distrito Federal, se les impondrá sanción de dos a nueve años de prisión.
+
+###### ARTICULO 504.
+
+Al que forme parte de una asociación o banda de tres o más personas, con el propósito de realizar actividades ilícitas que causen daño o perjuicio a la Hacienda Pública del Distrito Federal, se les impondrá una sanción de tres a nueve años de prisión.
+
+## ARTICULOS TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+El presente Código entrará en vigor a partir del día 1º de enero del año 2010.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+###### ARTICULO TERCERO.
+
+Se abroga el Código Financiero del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 31 de diciembre de 1994.
+
+###### ARTICULO CUARTO.
+
+A partir de la fecha de entrada en vigor del presente Código, quedarán sin efectos las disposiciones reglamentarias y administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general que se opongan a lo establecido en este Código. La Secretaría será responsable de modificar las disposiciones reglamentarias y normativas correspondientes para hacerlas congruentes con los preceptos contenidos en el presente Código; en tanto no se actualicen los mismos, se aplicará lo establecido en este ordenamiento y las disposiciones que no se opongan al mismo.
+
+###### ARTICULO QUINTO.
+
+A los contribuyentes de los derechos por el suministro de agua en sistema medido, de uso doméstico o mixto, que reciban el servicio por tandeo, se les aplicará por toma la cuota fija que corresponda, conforme a lo establecido en la tarifa del artículo 172, fracción II de este Código, en tanto se regulariza el suministro.
+
+Asimismo, a estos contribuyentes ubicados en las colonias catastrales 0, 1, 2, 3 y 8, para efectos de la conexión a las redes de agua y drenaje o su regularización, se les aplicará un descuento del 95% sobre el pago que deban efectuar por los derechos establecidos en la fracción I, numeral 1 del artículo 182 de este Código.
+
+El Sistema de Aguas de la Ciudad de México y los órganos político-administrativos de las demarcaciones territoriales correspondientes elaborarán a más tardar el 30 de enero de 2010, el dictamen técnico a fin de que la autoridad fiscal publique las zonas en que se aplicará el beneficio.
+
+###### ARTICULO SEXTO.
+
+Se otorgará una condonación en el pago de los derechos por el suministro de agua a los usuarios de uso doméstico o mixto, que a partir del año 2007, hayan recibido de manera irregular la prestación del servicio.
+
+Para efectos de lo anterior, el Sistema de Aguas de la Ciudad de México y los órganos político administrativos de las demarcaciones territoriales correspondientes elaborarán a más tardar el 30 de enero de 2010, el dictamen técnico a fin de que la autoridad fiscal publique las zonas en que se aplicará el beneficio.
+
+###### ARTICULO SEPTIMO.
+
+En tanto la Secretaría publique los horarios a que se refiere el artículo 259 de este Código, el horario de funcionamiento de los parquímetros será de Lunes a Viernes de 8:00 a 20:00 hrs.
+
+###### ARTICULO OCTAVO.
+
+Tratándose de personas físicas que tengan créditos fiscales derivados de derechos por el suministro de agua e impuesto predial en inmuebles de uso habitacional, determinados por la autoridad fiscal menores a 400 días de salario mínimo general diario vigente en el Distrito Federal, la autoridad fiscal implementará durante el ejercicio 2010, mecanismos de simplificación administrativa para disminuir dichos créditos en términos de lo dispuesto en el artículo 106 de este Código.
+
+###### ARTICULO NOVENO.
+
+Las visitas domiciliarias y de revisión de gabinete que se hayan iniciado antes de la entrada en vigor del presente Código, se desarrollarán y concluirán de conformidad con las disposiciones del Código Financiero del Distrito Federal vigentes al momento del inicio de la visita o revisión respectiva.
+
+###### ARTICULO DECIMO.
+
+Los procedimientos administrativos de ejecución, que se inicien a partir del 1° de enero de 2010, se tramitarán de conformidad con lo dispuesto en este ordenamiento.
+
+Los procedimientos administrativos de ejecución que al 1° de enero de 2010 se encuentren en tramite serán concluidos de conformidad con las disposiciones aplicables a partir de esa fecha que regulen las etapas no agotadas en dichos procedimientos en congruencia con lo dispuesto en la última parte del artículo 28 de este Código.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Cuando la autoridad fiscal, determine o liquide el impuesto predial omitido o sus diferencias, causado por el otorgamiento del uso o goce temporal de inmuebles, considerará únicamente los valores unitarios del suelo y construcción, emitidos por la Asamblea Legislativa del Distrito Federal vigentes en el año en que se generó el impuesto.
+
+El beneficio previsto en este artículo no da derecho a devolución o compensación alguna de las cantidades que se hayan pagado con anterioridad.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+La declaratoria de exención del impuesto predial obtenida a través del Sistema para la Presentación de Solicitudes de Exención por Internet (SIPRESEI), en el ejercicio fiscal 2009, será prorrogada por dos años más, siempre y cuando no varíe la naturaleza jurídica del inmueble por la cual se otorgó la exención.
+
+###### ARTICULO DECIMO TERCERO.
+
+Para establecer los criterios de la formación y distribución de los fondos a que se refiere el artículo 483, de este Código, la Secretaría de Finanzas, deberá publicar en la Gaceta Oficial del Distrito Federal, los acuerdos de carácter administrativo que correspondan, dentro de los 20 días hábiles siguientes a la fecha de publicación del presente Decreto.
+
+###### ARTICULO DECIMO CUARTO.
+
+Para inmuebles en manzanas clasificadas como popular y baja y en lo que se acredite que en ellos habitan más de diez personas, se establecerá un programa de carácter general en el que se otorguen facilidades de pago.
+
+###### ARTICULO DECIMO QUINTO.
+
+La Secretaría emitirá un programa de carácter general en el que se otorgue beneficios fiscales a los usuarios cuya toma se encuentre instalada en las colonias que actualmente reciben el servicio de manera irregular.
+
+###### ARTICULO DECIMO SEXTO.
+
+En los casos en que el suministro de agua potable en el Distrito Federal, no cumpla con lo previsto en la Norma Oficial Mexicana NOM-127-SSA1-1994, se implementará un programa de beneficios fiscales.
+
+###### ARTICULO DECIMO SEPTIMO.
+
+Los contribuyentes que al 1º de enero de 2010, tengan créditos fiscales por concepto de los derechos por el suministro de agua de conformidad con el artículo 194, fracción III del Código Financiero del Distrito Federal, que se hubieren generado antes de la fecha de entrada en vigor del presente Código, podrán optar por pagar en términos de lo dispuesto en el artículo 172, fracción III de este Código Fiscal.
+
+###### ARTICULO DECIMO OCTAVO.
+
+Para el caso de los derechos previstos en el artículo 256, inciso B), relativos a los servicios que presta la Secretaría de Seguridad Pública del Distrito Federal, surtirá sus efectos una vez que se modifiquen las normas administrativas correspondientes.
+
+###### ARTICULO DECIMO NOVENO.
+
+A partir del 1° de enero del ejercicio fiscal 2011, la tasa prevista en el artículo 164 de este Código, correspondiente al Impuesto por la Prestación de Servicios de Hospedaje, será de 2.5% y para el ejercicio fiscal 2012 será de 2.0%. Los recursos generados serán destinados al Fondo Mixto de Promoción Turística del Distrito Federal para promover la actividad turística de la Ciudad y su proyección mediante la realización de eventos de escala internacional.
+
+###### ARTICULO VIGESIMO.
+
+Para los efectos de emisión de valores unitarios del suelo, construcciones adheridas a él e instalaciones especiales a que se refiere el artículo 129 del Código Fiscal del Distrito Federal, se presentan a continuación las siguientes tablas cuya aplicación se hará conforme a las definiciones y normas que se indican:
+
+DEFINICIONES
+
+I. REGION: Es una circunscripción convencional del territorio del Distrito Federal determinada con fines de control catastral de los inmuebles, representada con los tres primeros dígitos del número de cuenta catastral asignado por la autoridad fiscal.
+
+II. MANZANA: Es una parte de una región que regularmente está delimitada por tres o más calles o límites semejantes, representada por los tres siguientes dígitos del mencionado número de cuenta, la que tiene otros dos que representan el lote, que es el número asignado a cada uno de los inmuebles que integran en conjunto una manzana, y tres dígitos más en el caso de condominios, para identificar a cada una de las localidades de un condominio construido en un lote.
+
+III. COLONIA CATASTRAL: Es una porción determinada de territorio continuo del Distrito Federal que comprende grupos de manzanas o lotes, la cual tiene asignado un valor unitario de suelo, expresado en pesos por metro cuadrado, en atención a la homogeneidad observable en cuanto a características, exclusividad y valor comercial. Existen tres tipos de colonia catastral: Área de valor, Enclave de valor y Corredor de valor.
+
+a). Colonia catastral tipo área de valor: Grupo de manzanas con características similares en infraestructura, equipamiento urbano, tipo de inmuebles y dinámica inmobiliaria.
+
+Cada área está identificada con la letra A, seguida de seis dígitos, correspondiendo los dos primeros a la delegación respectiva, los tres siguientes a un número progresivo y el último a un dígito clasificador de la colonia catastral.
+
+Dicha clasificación es la siguiente:
+
+0: Colonia catastral que corresponde a áreas periféricas de valor bajo con desarrollo incipiente, con usos del suelo que están iniciando su incorporación al área urbana y con equipamientos y servicios dispersos.
+
+1: Colonia catastral que corresponde a áreas periféricas o intermedias de valor bajo, en proceso de transición o cierta consolidación, con usos del suelo eminentemente habitacionales y con equipamientos y servicios semidispersos y de pequeña escala.
+
+2: Colonia catastral que corresponde a áreas intermedias de valor medio bajo, en proceso de transición o cierta consolidación, con usos del suelo eminentemente habitacionales y/o incipiente mezcla de usos y con equipamientos y servicios semidispersos y de regular escala.
+
+3: Colonia catastral que corresponde a áreas intermedias de valor medio con cierto proceso de transición o en consolidación, con usos del suelo eminentemente habitacionales y/o mezcla de usos y con equipamientos y servicios semiconcentrados y de regular escala.
+
+4: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano en escala significativa en la zona o zonas cercanas, con usos de suelo habitacional y/o mixtos y nivel socioeconómico de medio a medio alto.
+
+5: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano en escala significativa en la zona o zonas cercanas, usos de suelo habitacionales y/o mixtos y nivel socioeconómico de medio alto a alto.
+
+6: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano en escala significativa en la zona o zonas cercanas, usos de suelo habitacional y/o mixtos y nivel socioeconómico de alto a muy alto.
+
+7: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano de pequeña escala significativa, usos de suelo preponderantemente comercial y de servicios y nivel socioeconómico de medio bajo a alto.
+
+8: Colonia catastral que corresponde a áreas urbanas, con servicios completos, equipamiento urbano de diversas escalas y con usos de suelo eminentemente industrial.
+
+9: Colonia catastral que corresponde a áreas ubicadas en el suelo de conservación, con usos agrícola, forestal, pecuario, de reserva ecológica y/o explotación minera entre otros, con nulos o escasos servicios y equipamiento urbano distante.
+
+b). Colonia catastral tipo enclave de valor: Porción de manzanas o conjunto de lotes de edificaciones de uso habitacional, que cualitativamente se diferencian plenamente del resto de lotes o manzanas del área en que se ubica en razón de que, no obstante que comparten una infraestructura y equipamiento urbanos generales con las mencionadas áreas, cuentan con características internas que originan que tengan un mayor valor unitario de suelo que el promedio del área, como son la ubicación en áreas perfectamente delimitadas, el acceso restringido a su interior, que cuentan con vigilancia privada, mantenimiento privado de áreas comunes, vialidades internas y alumbrado público y/o privado.
+
+El valor por metro cuadrado de suelo del enclave se encuentra contenido en el presente Código Fiscal.
+
+Cada enclave de valor está identificada con la letra E, seguida de dos dígitos que corresponden a la delegación, y una literal progresiva.
+
+Quedan exceptuados como colonia catastral tipo enclave de valor, los inmuebles donde se ubiquen viviendas de interés social y/o popular.
+
+c). Colonia catastral tipo corredor de valor: Conjunto de inmuebles colindantes con una vialidad pública del Distrito Federal que por su mayor actividad económica repercute en un mayor valor comercial del suelo respecto del predominante de la zona, independientemente de su acceso o entrada principal de los inmuebles. El valor por metro cuadrado del suelo del corredor de valor se encuentra contenido en el presente Código Fiscal.
+
+Cuando un inmueble colinde con más de una vialidad pública considerada como corredor de valor, en términos del párrafo anterior, el valor por metro cuadrado del suelo a aplicar será el valor del corredor de valor que resulte más alto.
+
+Cada corredor está identificado con la letra "C", seguida de dos dígitos, que corresponden a la delegación, y una literal progresiva.
+
+IV. TIPO: Corresponde a la clasificación de las construcciones, considerando el uso al que se les dedica y el rango de niveles de la construcción, de acuerdo con lo siguiente:
+
+a). Uso: Corresponde al aprovechamiento genérico que tiene el inmueble y se clasifica en habitacional y no habitacional.
+
+(H). Habitacional.- Se refiere a las edificaciones en donde residen individual o colectivamente las personas o familias y comprende todo tipo de vivienda, a la que se incluyen los cuartos de servicio, patios, andadores, estacionamientos, cocheras y todas las porciones de construcción asociadas a dichas edificaciones. También se incluyen orfanatos, asilos, casas cuna, conventos y similares.
+
+Para efectos del párrafo anterior, se entenderá por porción de construcción todo aquél cuerpo constructivo que tenga una clara separación estructural de aquella donde residen individual o colectivamente las personas o familias, está asociada a este uso, cuando el beneficio del mismo sea sólo de las personas o familias que residen individual o colectivamente en el inmueble.
+
+Cuando una porción de construcción no se encuentre asociada al uso habitacional, se clasificará de acuerdo a las características de uso, rango de niveles, clase y edad que le corresponda.
+
+En caso de inmuebles de uso habitacional sujetos al régimen de propiedad en condominio las unidades de construcción privativas y las áreas de uso común que les correspondan en función del indiviso y que se establezcan en el referido régimen, se clasificarán conforme a las características que el mismo establezca.
+
+(NH). No Habitacional.- Se refiere a todo inmueble que no se ubique en el supuesto anterior y que para efectos de determinar su tipo se divide en:
+
+a). 1.- Construcciones que cuentan con cubiertas o techos (completos o semicompletos).
+
+L: Hotel. D: Deporte. C: Comercio. O: Oficina. S: Salud. Q: Cultura. E: Educación. A: Abasto. I: Industria. K: Comunicaciones.
+
+(L) Hotel.- Se refiere a las edificaciones destinadas a prestar servicio de alojamiento temporal, comprendiendo hoteles, moteles, casas de huéspedes, albergues y similares.
+
+(D) Deporte.- Se refiere a aquellas edificaciones e instalaciones en donde se practican ejercicios de acondicionamiento físico y/o se realicen y se presenten todo tipo de espectáculos deportivos, tales como: centros deportivos, clubes, pistas, canchas, gimnasios, balnearios, albercas públicas y privadas, academias de acondicionamiento físico y artes marciales, estadios, autódromos, plazas taurinas, arenas de box y luchas, velódromos, campos de tiro, centros de equitación y lienzos charros, así como instalaciones similares.
+
+(C) Comercio.- Se refiere a las edificaciones destinadas a la prestación o contratación de servicios o la comercialización o intercambio de artículos de consumo y en general cualquier mercadería, tales como: tiendas, panaderías, farmacias, boticas, droguerías, tiendas de auto servicio, tiendas departamentales, centros comerciales, venta de materiales de construcción y electricidad, ferreterías, madererías, vidrierías, venta de materiales y pinturas, renta y venta de artículos, maquinaria, refacciones, llantas, salas de belleza, peluquerías, tintorerías, sastrerías, baños, instalaciones destinadas a la higiene física de las personas, sanitarios públicos, saunas y similares, laboratorios fotográficos, servicios de limpieza y mantenimiento de edificios, servicios de alquiler y en general todo tipo de comercios. También incluye a las edificaciones destinadas al consumo de alimentos y bebidas, entre otros: restaurantes, cafeterías, fondas, cantinas, bares, cervecerías, pulquerías, videobares, centros nocturnos y salas de fiestas, entre otros.
+
+(O) Oficina.- Se refiere a aquellas edificaciones destinadas al desarrollo empresarial, público o privado, tales como: oficinas empresariales, corporativas, de profesionistas, sucursales de banco, casas de cambio, oficinas de gobierno, representaciones exclusivas para ese uso y sus accesorios, instalaciones destinadas a la seguridad del orden público y privado, agencias funerarias, de inhumaciones, mausoleos y similares, así como despachos médicos de diagnóstico.
+
+(S) Salud.- Se refiere a aquellas edificaciones destinadas a la atención, diagnóstico, tratamiento y rehabilitación de las personas afectadas por enfermedades o accidentes, tales como: unidades médicas, clínicas, hospitales, sanatorios, maternidades, laboratorios clínicos y radiológicos, consultorios, centros de tratamiento de enfermedades crónicas y similares.
+
+(Q) Cultura.- Se refiere a las edificaciones o instalaciones destinadas al desarrollo de actividades culturales, tales como: salas de lectura, hemerotecas, y archivos, galerías de arte, museos, centros de exposición, planetarios, observatorios, teatros, auditorios, cines, salas de conciertos, cinetécas, centros de convenciones, casas de cultura, academias de danza, música, pintura y similares. Así como, las edificaciones destinadas a las actividades de culto religioso, comprende templos, capillas, iglesias, sinagogas, mezquitas y similares.
+
+(E) Educación.- Se refiere a las edificaciones o instalaciones destinadas al desarrollo de actividades de enseñanza: guarderías, jardines de niños, básica, media, escuelas técnicas, superior, postgrado, especial y de enseñanza e investigación, especializadas y similares.
+
+(A) Abasto.- Se refiere a las edificaciones e instalaciones públicas y privadas destinadas al almacenamiento, tales como: centros de acopio y transferencia de productos perecederos y no perecederos, bodegas, silos, tolvas, almacén de granos, de huevo, de lácteos, de abarrotes, centrales y módulos de abasto, rastros, frigoríficos, obradores, mercados e instalaciones similares.
+
+(I) Industria.- Se refiere a cualquier instalación o edificación destinada a ser fábrica o taller, relacionada con la industria extractiva, manufacturera y de transformación, de ensamble, de bebidas, de alimentos, agrícola, pecuaria, forestal, textil, calzado, siderúrgica, metalmecánica, automotriz, química, televisiva, cinematográfica, electrónica y similares. También incluye las instalaciones para el almacenamiento de maquinaria, materias primas y productos procesados, así como aquellas destinadas al alojamiento de equipos e instalaciones relacionadas con los sistemas de agua potable, drenaje, energía eléctrica, servicios de limpia, disposición de desechos sólidos y similares. Comprende también a aquellas destinadas al almacenamiento o suministro de combustible para vehículos o para uso doméstico e industrial, tales como: gasolineras e inmuebles de depósito y venta de gas líquido y combustibles. Asimismo, se incluyen las edificaciones e instalaciones destinadas a prestar servicios de reparación y conservación de bienes muebles y herramientas, tales como: talleres de reparación, lubricación, alineación y balanceo de vehículos, maquinaria, lavadoras, refrigeradores, bicicletas, de equipo eléctrico, vulcanizadoras, carpinterías, talleres de reparación de muebles y similares.
+
+(K) Comunicaciones.- Se refiere a las edificaciones o instalaciones destinadas a transmitir o difundir información, hacia o entre las personas, incluye las edificaciones o instalaciones destinadas al traslado de personas o bienes, así como a los espacios reservados para el resguardo y servicio de vehículos y similares, tales como: correos, telégrafos, teléfonos, estaciones de radio, televisión, y similares, terminales de autobuses urbanos, taxis, peseros, terminales y estaciones de autobuses foráneos y de carga, estacionamientos cubiertos, ya sean públicos o privados, encierros e instalaciones de mantenimiento de vehículos, terminales aéreas, helipuertos, estaciones de ferrocarril, embarcaderos, muelles y demás edificios destinados a la actividad del transporte.
+
+a). 2.- Construcciones que no poseen cubiertas o techos: PE: Estacionamientos, patios y plazuelas. PC: Canchas deportivas.
+
+J: Jardines, P: Panteones. Se refieren a construcciones habilitadas directamente sobre el terreno o sobre estructuras y que conforman pavimentos o áreas verdes para los usos señalados.
+
+a). 3.- Inmueble sin construcciones (W), aquél que no tenga construcciones permanentes o que teniéndolas su superficie, sea inferior a un 10% a la del terreno, a excepción de:
+
+a) Los inmuebles que se ubiquen en zonas primarias designadas para la protección o conservación ecológica, y en las zonas secundarias denominadas áreas verdes y espacios abiertos, de acuerdo con la zonificación establecida en los Programas Delegacionales o Parciales del Distrito Federal. Si un predio no se encuentra en su totalidad en dichas zonas, únicamente se aplicará la reducción a la superficie afectada a que se refieren los numerales 1 y 2 de la fracción III, del artículo 130 de este Código;
+
+b) Los inmuebles que pertenezcan a instituciones educativas, culturales o de asistencia privada;
+
+c) Los campos deportivos o recreativos acondicionados y funcionando como tales;
+
+d) Los estacionamientos públicos debidamente autorizados y en operación;
+
+e) Los inmuebles cuya construcción sea inferior a un 10% de la superficie del terreno y que sea utilizado exclusivamente como casa-habitación por el contribuyente y;
+
+f) Otros inmuebles que sean efectivamente utilizados conforme a la autorización que hubiese otorgado la autoridad competente, misma que deberá ser renovada para presentarse ante la autoridad por ejercicio fiscal.
+
+(M). Mixto.- Cuando el inmueble se destine conjuntamente a uso habitacional y no habitacional o cuando tenga dos o más usos no habitacionales. No se considerará, para el caso habitacional, un uso mixto cuando se trate de una casa habitación que cuente con patios, jardines o estacionamientos descubiertos, siempre y cuando las áreas de estos usos no participen de actividades lucrativas para el propietario.
+
+b). Rango de niveles: Corresponde al número de plantas cubiertas y descubiertas de la construcción a partir del primer nivel utilizable o edificado en el predio en que se ubique.
+
+En los casos que en una cuenta catastral se encuentren varios cuerpos de edificios claramente separados, el valor total de la construcción se obtendrá de la suma del valor de cada uno de ellos, los cuales se calcularán en forma independiente.
+
+Cuando el nivel más alto de un edificio tenga un porcentaje de construcción menor al 20% de la planta cubierta anterior, el rango de nivel del inmueble se determinará sin tomar en cuenta el último nivel:
+
+El rango de nivel se considerará conforme a la siguiente edificación.
+
+CLAVE DESCRIPCION
+
+01 Superficies construidas descubiertas.
+
+02 De 1 a 2 niveles o bien, si no existe una clara
+
+distinción de ellos y la construcción tenga una
+
+altura hasta de 6.00 metros.
+
+05 De 3 a 5 niveles o bien, si no existe una clara
+
+distinción de ellos y la construcción tenga una
+
+altura de 6.01 metros a 15.00 metros.
+
+10 De 6 a 10 niveles.
+
+15 De 11 a 15 niveles.
+
+20 De 16 a 20 niveles.
+
+99 De 21 a más niveles.
+
+RU Se aplica a edificaciones sin una clara
+
+Rango Único distinción de niveles tales como naves
+
+industriales, bodegas galerones, centros
+
+comerciales, restaurantes y estructuras
+
+semejantes que excedan una altura de 15.00
+
+metros.
+
+V. CLASE: Es el grupo al que pertenece una construcción de acuerdo con las características propias de sus espacios, servicios, estructuras y acabados, la cual tiene asignado un valor unitario de construcción.
+
+Para determinar la clase de construcción a que pertenece cada edificación, se procederá conforme a lo siguiente:
+
+En primer término se debe considerar el uso genérico del inmueble, identificándolo como habitacional o no habitacional; posteriormente se ubica de manera específica en la "Matriz de Características" para determinar la clase que aplica para el uso de que se trate.
+
+Selección de elementos en la matriz de características.
+
+Cada "Matriz de Características" se compone de apartados en los cuales se consideran distintos elementos de la construcción. Por lo que se deberá seleccionar un solo elemento de los siete que componen cada columna, y así sucesivamente, para cada columna que integra esta matriz.
+
+Determinación de puntos y clase en la matriz de puntos.
+
+Se deberá identificar los puntos que correspondan a cada elemento seleccionado en la matriz de características.
+
+Hecho lo anterior, los puntos se anotarán en el reglón denominado "Puntos Elegidos", y se deberán sumar los puntos de este reglón, ubicando el resultado en el cuadro "Total de Puntos".
+
+Finalmente, el total de puntos se ubicará dentro de algún rango de la "Tabla de Puntos", determinándose de esa manera la clase a la cuál pertenece la construcción del inmueble.
+
+a). HABITACIONAL
+
+En el caso de que el uso genérico del inmueble sea habitacional, se identifican las características de la construcción en la "Matriz de Características" para determinar clases de construcción de Uso: Habitacional y se utilizan los puntos aplicables en la "Matriz de Puntos" para determinar clases de construcción de Uso: Habitacional, conforme al procedimiento señalado en esta fracción.
+
+Para vivienda multifamiliar, la superficie de construcción que se debe considerar como referencia para determinar la clase, es la que resulte de dividir la superficie total, incluyendo las áreas de uso común, entre el número de unidades familiares. No se consideran en este caso los inmuebles sujetos a régimen condominal.
+
+MATRIZ DE CARACTERISTICAS
+
+PARA DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO
+
+HABITACIONAL
+
+ANEXO 1
+
+MATRIZ DE PUNTOS PARA
+
+DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO
+
+HABITACIONAL
+
+ANEXO 1-A
+
+b). NO HABITACIONAL
+
+Cuando un inmueble construido originalmente para uso habitacional se destine a Oficina, Hotel, Comercio, Salud, Educación y/o Comunicaciones, se identifican las características de la construcción en la "Matriz de Características" para determinar clases de construcción de Uso: No Habitacional (Casa habitación adaptada para oficina, hotel, comercio, salud, educación y/o comunicaciones) conforme al procedimiento señalado en esta fracción.
+
+MATRIZ DE CARACTERISTICAS
+
+PARA DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL: CASA
+
+HABITACION ADAPTADA PARA
+
+OFICINA, HOTEL, COMERCIO,
+
+SALUD, EDUCACION Y/O
+
+COMUNICACIONES
+
+ANEXO 2
+
+MATRIZ DE PUNTOS PARA
+
+DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL:
+
+CASA HABITACION ADAPTADA
+
+PARA OFICINA, HOTEL,
+
+COMERCIO, SALUD,
+
+EDUCACION Y/O
+
+COMUNICACIONES
+
+ANEXO 2-A
+
+Cuando el uso del inmueble sea no habitacional y se trate de construcciones cuyo uso coincide con el propósito original para el que fue construido, tratándose de Oficina, Hotel, Comercio, Salud, Educación y/o Comunicaciones, para la determinación de la clase se aplica la "Matriz de Características" para determinar clases de construcción de Uso: no habitacional (Oficina, Hotel, Comercio, Salud, Educación y/o Comunicaciones), conforme al procedimiento señalado en esta fracción.
+
+MATRIZ DE CARACTERISTICAS
+
+PARA DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL:
+
+OFICINAS, HOTELES,
+
+COMERCIO, SALUD, EDUCACIÓN
+
+Y/O COMUNICACIONES
+
+ANEXO 3
+
+MATRIZ DE PUNTOS PARA
+
+DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL:
+
+OFICINAS, HOTELES,
+
+COMERCIO, SALUD, EDUCACIÓN
+
+Y/O COMUNICACIONES
+
+ANEXO 3-A
+
+Cuando el uso del inmueble sea no habitacional y se trate de construcciones cuyo uso coincide con el propósito para el que fue construido, tratándose de Industria, Abasto y/o Cultura, se identifican las características de la construcción en la "Matriz de Características" para determinar clases de construcción de Uso: no habitacional (Industria, Abasto y/o Cultura), conforme al procedimiento señalado en esta fracción.
+
+MATRIZ DE CARACTERISTICAS
+
+PARA DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL:
+
+INDUSTRIA, ABASTO Y/O
+
+CULTURA
+
+ANEXO 4
+
+MATRIZ DE PUNTOS PARA
+
+DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO
+
+NO HABITACIONAL:
+
+INDUSTRIA, ABASTO Y/O
+
+CULTURA
+
+ANEXO 4-A
+
+Cuando el uso del inmueble sea no habitacional y se trate de construcciones cuyo uso coincide con el propósito original para el que fue construido, tratándose de Deportes, para la determinación de la clase se aplica la "Matriz de Características" para determinar clases de construcción de uso no habitacional (Deportes), conforme al procedimiento señalado en esa fracción.
+
+MATRIZ DE CARACTERISTICAS
+
+PARA DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL: DEPORTE
+
+ANEXO 5
+
+MATRIZ DE PUNTOS PARA
+
+DETERMINAR CLASES DE
+
+CONSTRUCCIONES DE USO NO
+
+HABITACIONAL: DEPORTE
+
+ANEXO 5-A
+
+Para los efectos de la determinación de las clases de construcción y la aplicación de las Matrices de Características y Puntos para determinar Clases de Construcción señaladas en este artículo, se entenderá por:
+
+ESPACIOS:
+
+Sala: Es el cuarto de estar en una casa o vivienda.
+
+Comedor: Es un cuarto de la vivienda destinado para ingerir alimentos.
+
+Cocina: Cuarto de la vivienda utilizado para cocinar o calentar los alimentos con o sin muebles tipo cocina integral.
+
+Recámara: Es el cuarto de la vivienda destinado a dormir y al descanso de sus habitantes.
+
+Cuarto de servicio: Es un cuarto adicional de la vivienda generalmente aislado del resto de la casa, que se ocupa para el alojamiento del servicio doméstico.
+
+Cuarto de lavado y planchado: Es un cuarto adicional de la vivienda destinado para el alojamiento de los bienes muebles destinados a la limpieza y conservación de las prendas de vestir.
+
+Estudio: Es un cuarto adicional de la vivienda destinado al esparcimiento y/o desarrollo de actividades académicas, como son una biblioteca o la sala de televisión.
+
+Gimnasio: Cuarto adicional de la vivienda para realizar ejercicios gimnásticos o deportivos.
+
+Cajones de estacionamiento: Son los espacios asignados para el resguardo de vehículos.
+
+Espacios adicionales: Consiste en espacios tales como salón de juegos, salas de proyección, bar, cava y salón de fiestas.
+
+Unidad Familiar: Espacio de vivienda destinado al uso de un individuo, pareja o familia.
+
+Vivienda Familiar: Conjunto de unidades familiares, incluyendo áreas de uso común. Ejemplo: vecindades.
+
+SERVICIOS:
+
+Retrete: Mueble sanitario, generalmente de uso común, destinado para el desalojo de los desechos humanos.
+
+Lavabo: Pila con grifos y desagüe.
+
+Baño: Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera.
+
+Muebles tipo "A": Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera cuyo valor no es mayor a 2,000 pesos.
+
+Muebles tipo "B": Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera cuyo valor es de 2,001 pesos a 2,500 pesos.
+
+Muebles tipo "C": Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera cuyo valor es de 2,501 pesos a 3,000 pesos.
+
+Muebles tipo "D": Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera cuyo valor es de 3,001 pesos a 3,500 pesos.
+
+Muebles tipo "E": Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera cuyo valor es de 3,501 pesos a 4,000 pesos. Puede contar con jacuzzi o sauna.
+
+Muebles tipo "F": Habitación destinada al aseo corporal, consiste en wc, lavabo y regadera cuyo valor es mayor a 4,000 pesos. Puede contar con jacuzzi o sauna.
+
+Muebles tipo "G": Se tomará como referencia el wc, cuyo valor no es mayor a 3,250 pesos.
+
+Muebles tipo "H": Se tomará como referencia el wc, cuyo valor es de 3,251 pesos a 7,400 pesos.
+
+Muebles tipo "I": Se tomará como referencia el wc, cuyo valor es de 7,401 pesos a 9,100 pesos.
+
+Muebles tipo "J": Se tomará como referencia el wc, cuyo valor es de 9,101 pesos a 10,281 pesos.
+
+Muebles tipo "K": Se tomará como referencia el wc, cuyo valor es de 10,282 pesos a 14,600 pesos.
+
+Muebles tipo "L": Se tomará como referencia el wc, cuyo valor es mayor a 14,600 pesos.
+
+ESTRUCTURA:
+
+Estructura: Armazón de hierro, madera o concreto armado que soporta una construcción.
+
+Muros de carga: Obra de albañilería levantada en posición vertical, para cerrar un espacio y sostener entrepisos o cubiertas, cuya función principal es soportar la estructura.
+
+Marco rígido: Elemento estructural conformado por una trabe, una contratrabe y dos o más columnas.
+
+Losa: Superficie llana compacta de concreto armado, que se encarga de separar horizontalmente un nivel o piso.
+
+Concreto: Mezcla compuesta de piedras menudas, cemento y arena que se emplea en la construcción por su gran dureza y resistencia.
+
+Concreto armado: Mezcla de concreto reforzada con una armadura de barras de hierro o acero.
+
+Losa reticular: Losa que tiene forma de redecilla o red.
+
+Losa aligerada: Losa de concreto armado de poco espesor y alta resistencia.
+
+Entrepisos: Losas intermedias.
+
+Columna: Soporte cilíndrico o rectangular para sostener entrepisos y/o techumbres.
+
+Mampostería: Sistema constructivo realizado con piedras desiguales, ajustadas y unidas con mortero de cal y arena.
+
+Tabique: Masa de arcilla cocida de tamaño y grosor variable. Cuando es delgado se denomina ladrillo, cuando es grueso, tabique.
+
+Adobe: Ladrillo o tabique de barro sin cocer, secado al sol.
+
+Cubierta: Losa superior y exterior de una construcción.
+
+Viga: Madero largo y grueso que sirve para formar los techos en los edificios y asegurar las construcciones.
+
+Volados: Techo que en su longitud sólo tiene apoyo en uno de sus lados o costados.
+
+Claros: Espacio que existe entre elementos verticales de carga (muros o columnas).
+
+Claro largo: Distancia transversal a los ejes de carga entre dos puntos de apoyo.
+
+Cemento: Mezcla de arcilla molida y materiales calcáreos en polvo que, en contacto con el agua, se solidifica y endurece. Se utiliza como adherente y aglutinante en la construcción.
+
+Acero: Aleación de hierro y carbono, en diferentes proporciones, que adquiere con el temple gran dureza y elasticidad.
+
+Elementos prefabricados: Estructuras o elementos de acero y concreto previamente armados o colocados.
+
+Graderías: Asiento colectivo a manera de escalón corrido en teatros y estadios.
+
+ACABADOS:
+
+Acabado: Perfeccionamiento final de una obra.
+
+Yeso: Sulfato de calcio hidratado, compacto o terroso, generalmente blanco, que tiene la propiedad de endurecerse rápidamente cuando se amasa con agua, y se emplea en la construcción y en la escultura.
+
+Pisos: Referido a los materiales de construcción empleado en el terminado o calidad de las áreas para circulación de los habitantes.
+
+Pasta: Masa moldeable hecha con cualquier material para decorar muros.
+
+Alfombra: Tejido de lana o de otras materias con que se cubre el piso de las habitaciones y escaleras.
+
+Aplanado: Recubrimiento de las construcciones para el que se utilizan, básicamente como materiales una mezcla de cal y arena, sirve para proteger las superficies.
+
+Firme: Capa sólida de terreno sobre la que se pueden poner los cimientos de una construcción.
+
+Firme de concreto simple: Capa sólida de concreto.
+
+Firme de concreto simple pulido: Capa sólida de concreto pulido.
+
+Precolado de concreto: Piezas de concreto previamente armado.
+
+Linóleum: Papel plastificado para cubrir pisos presentado en rollos para su colocación.
+
+Mosaico: Técnica artística de decoración que se forma pegando sobre un fondo de cemento pequeñas piezas de piedra, vidrio o cerámica de diversos colores y diseños.
+
+Terrazo: Pavimento formado por trozos de mármol aglomerados con cemento y superficie pulida.
+
+Pulido: Alisar o dar tersura y lustre a una cosa.
+
+Parquet: Pavimento para suelos de interior, formado por listones muy pequeños de madera dispuestos en formas geométricas.
+
+Loseta: Pieza pequeña, generalmente de cerámica, que se pone en las paredes o en el suelo.
+
+Azulejo: Ladrillo pequeño vidriado, de diferentes colores, que se usa para cubrir suelos, paredes o en la decoración. Existen dos tipos: el industrializado o hecho a maquina y el decorado a mano que se le considera de valor mayor.
+
+Perfil: Reborde o contorno de cualquier pieza.
+
+Aluminio: Metal de color y brillo similares a los de la plata, ligero, maleable y buen conductor del calor y de la electricidad.
+
+Esmalte: Laca cosmética que cubre y protege diversos materiales (por ejemplo: madera y aluminio).
+
+Cancel: Armazón vertical de madera, hierro u otro material, que divide espacios en un cuarto de baño.
+
+Placa: Plancha o película de metal u otra materia, en general rígida que cubre una superficie.
+
+Cristal: Material cristalino y traslúcido.
+
+Cristal acústico: Cristal con aislante de ondas sonoras.
+
+Cristal térmico: Cristal que conserva la temperatura.
+
+Lámina: Plancha delgada de metal u otro material, porción de cualquier materia extendida en superficie y de poco grosor.
+
+Fachada: Aspecto exterior de la construcción.
+
+Piso: Pavimento natural o artificial de habitaciones, calles y caminos.
+
+Pavimento: Superficie que se hace para que el piso esté sólido y llano.
+
+Llano: Superficie sin altos ni bajos.
+
+Sólido: Macizo, denso y fuerte.
+
+Pintura: Color preparado con fines cosméticos en acabados.
+
+Recubrimientos tipo estuco: Pasta de cal, yeso y agua de acabado terso y fino. Se aplica como revestimiento o en relieves ornamentales.
+
+Ventana: Abertura hecha por lo general de la parte media a la parte superior de una pared para dar luz y ventilación compuesta por un armazón y cristales con que se cierra esa abertura.
+
+Aglomerado: Material que consiste en planchas compuestas por trozos de madera prensados y endurecidos.
+
+Mármol: Roca compuesta sobre todo de calcita, muy abundante en la naturaleza y utilizada en la construcción.
+
+Maderas Finas: Fresno, Roble, Cedro, Bambú.
+
+> <small>N. DE E. VEASE ANEXOS EN LA G.O. DE 29 DE DICIEMBRE DE 2009, PAGINAS DE LA 223 A LA 232.</small>
+
+VI. AVALÚO: Es el dictamen técnico practicado por persona autorizada o registrada ante la autoridad fiscal, que permite determinar el valor de mercado de un bien inmueble, con base en su uso, características físicas, además de las características urbanas de la zona donde se ubica, así como en la investigación, análisis y ponderación del mercado inmobiliario, contenido en un documento que reúna los requisitos de forma y contenido establecidos en el Manual de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria, así como de autorización y Registro de Personas para Practicar Avalúos.
+
+NORMAS DE APLICACIÓN
+
+1. Para la aplicación de la Tabla de Valores Unitarios de Suelo a un inmueble específico, se determinará primero la Delegación a que corresponda. Según su ubicación se constatará si se encuentra comprendido dentro de la Tabla de Colonia Catastral de tipo Enclave o de tipo Corredor, de ser alguno de estos casos le corresponderá al inmueble el valor unitario por metro cuadrado respectivo. En caso contrario se determinará la región con los tres primeros dígitos del número de cuenta catastral y su Manzana con los tres siguientes dígitos del mismo número de cuenta, a los cuales deberá corresponder una Colonia Catastral de tipo Area con un valor unitario por metro cuadrado. El valor unitario que haya correspondido se multiplicará por el número de metros cuadrados de terreno, con lo que se obtendrá el valor total del suelo del inmueble.
+
+2. Para la aplicación de la Tabla de Valores Unitarios de las construcciones, se considerarán las superficies cubiertas o techos y las superficies que no posean cubiertas o techos, según sea el caso. Para determinar el valor de la construcción se clasificará el inmueble en el tipo y clase que le correspondan: con este tipo y clase se tomará el valor unitario de la construcción, establecidos en la tabla de valores unitarios de las construcciones y se multiplicará por los metros cuadrados de la construcción, con lo que se obtendrá el valor total de la edificación.
+
+Para la determinación del valor de la construcción de un inmueble de uso habitacional se considerarán todos los espacios cubiertos propios de este uso incluyendo, entre otros, los cuartos de servicio, patios, cajón de estacionamiento, cocheras y, en su caso, las obras complementarias, elementos accesorios e instalaciones especiales con que cuente, mismos que deberán considerarse invariablemente como uso habitacional.
+
+El valor total de la construcción se obtendrá tomando en consideración la clase predominante.
+
+En caso de inmuebles de uso habitacional sujetos al régimen de propiedad en condominio, se considerará además, la parte proporcional de las áreas comunes que les corresponde conforme a su indiviso. Estas áreas comunes, así como las porciones privativas que estén en otro cuerpo constructivo serán clasificadas de acuerdo a sus usos, rangos de nivel, clases y edades.
+
+El valor total de la construcción de inmuebles de uso habitacional sujetos a régimen de propiedad en condominio se obtendrá de la suma del valor de la construcción privativa y el valor total de las porciones del inmueble correspondientes al indiviso.
+
+En los inmuebles de uso no habitacional, se considerará cada porción de uso y se determinará su tipo y clase que le corresponda. Los inmuebles en esta situación, deberán determinar el valor de la construcción con la suma total de cada una de ellas.
+
+Para el inmueble que cuenta con porciones de distinto uso, incluso habitacional, cuando las personas residan de manera ocasional o para resguardar dichos inmuebles, se debe tomar el valor de cada una y sumarse a las restantes para así obtener el valor total de la construcción.
+
+Al resultado obtenido se le aplicará una reducción según el número de años transcurridos desde que se termino la construcción o desde la última remodelación que hubiere afectado a por lo menos un 30% de la superficie de construcción, en razón del 1% para cada año transcurrido, sin que en ningún caso se descuente más del 40%. Si los inmuebles tuvieran porciones de construcción con diferentes fechas de terminación, la reducción procederá por cada porción, según el número de años transcurridos desde que se terminó cada una de ellas.
+
+3. Cuando el inmueble cuente con instalaciones especiales, elementos accesorios u obras complementarias, el valor resultante de aplicar lo señalado en el numeral 2, se incrementará en 8%.
+
+Instalaciones especiales, aquellas que se consideran indispensables o necesarias para el funcionamiento operacional del inmueble de acuerdo a su uso específico, tales como, elevadores, escaleras electromecánicas, equipos de calefacción o aire lavado, sistema hidroneumático, equipos contra incendio.
+
+Elementos Accesorios, son aquellos que se consideran necesarios para el funcionamiento de un inmueble de uso especializado, que sí se convierten en elementos característicos del bien analizado como: caldera de hoteles y baños públicos, espuela de ferrocarril en industrias, pantalla en un cinematógrafo, planta de emergencia en un hospital, butacas en una sala de espectáculos, entre otros.
+
+Obras complementarias, son aquellas que proporcionan amenidades o beneficios al inmueble como son: bardas, celosías, andadores, marquesinas, cisternas, equipos de bombeo, gas estacionario, entre otros.
+
+4. El valor del suelo del inmueble, de sus construcciones y de sus instalaciones especiales, según sea el caso, se sumarán para obtener el valor catastral del inmueble.
+
+La autoridad fiscal, mediante reglas de carácter general dará a conocer lo relativo a lo dispuesto en este artículo, en lenguaje llano y mediante folletos ejemplificativos.
+
+5. El valor catastral determinado mediante avalúo comprenderá la suma de los valores de suelo del inmueble, de sus construcciones, instalaciones especiales, elementos accesorios u obras complementarias, según sea el caso.
+
+VALORES UNITARIOS DE SUELO Y DE LA CONSTRUCCIÓN
+
+> <small>N. DE E. VEASE TABLAS EN LA G.O. DE 29 DE DICIEMBRE DE 2009, PAGINAS DE LA 237 A LA 397.</small>
+
+###### ARTICULO VIGESIMO PRIMERO.
+
+Para los efectos de dar a conocer el nivel de desarrollo al que pertenecen las manzanas, para efectos de otorgar un subsidio a los usuarios de los derechos por el suministro de uso doméstico en el Distrito Federal a que se refiere el artículo 172 del Código Fiscal del Distrito Federal, se presentan a continuación las siguientes tablas cuya aplicación se hará conforme a las definiciones y normas de aplicación que se indican:
+
+DEFINICIONES
+
+I. ÍNDICE DE DESARROLLO. (ID) Construcción estadística que mediante variables de tipo socioeconómico derivadas de información oficial, permite diferenciar territorialmente a la población del Distrito Federal de acuerdo a su nivel de desarrollo económico, agregando la información a nivel manzana. Las manzanas, en su conjunto, son clasificadas en cuatro distintos tipos: popular, medio, bajo, alto; de acuerdo al valor que para cada una de ellas arroja este índice.
+
+II. REGIÓN. Circunscripción convencional del territorio del Distrito Federal determinada con fines de control catastral de los inmuebles, representada por los tres primeros dígitos del número de cuenta catastral asignado por la autoridad fiscal.
+
+III. MANZANA. Es un segmento de la región que regularmente está delimitada por tres o más calles o límites semejantes, representada por los tres siguientes dígitos del mencionado número de cuenta catastral.
+
+IV. MANZANA CON ID POPULAR. Clasificación que engloba a las manzanas que guardan características socioeconómicas similares y que se tipifican por tener los niveles de desarrollo más bajos de la Ciudad. En esta categoría se agrupa, además, las manzana que se encuentran dentro de la zona rural del Distrito Federal.
+
+V. MANZANA CON ID BAJO. Clasificación que engloba a las manzanas que guardan características socioeconómicas similares y que se tipifican por tener niveles de desarrollo bajo de la Ciudad.
+
+VI. MANZANA CON ID MEDIO. Clasificación que engloba a las manzanas que guardan características socioeconómicas similares y que se tipifican por tener niveles de desarrollo medio de la Ciudad.
+
+VII. MANZANA CON ID ALTO. Clasificación que engloba a las manzanas que guardan características socioeconómicas similares y que se tipifican por tener niveles los más altos niveles de desarrollo de la Ciudad.
+
+NORMAS DE APLICACIÓN
+
+1. Para el establecimiento del subsidio otorgado a los usuarios del suministro doméstico de agua a que hace referencia el Artículo 172 del Código Fiscal del Distrito Federal, se determinará primero la Delegación a la que corresponda la toma del usuario.
+
+2. Posteriormente se identificará la región-manzana a la que pertenece mediante los seis primeros dígitos de la cuenta catastral que corresponde al inmueble de uso habitacional donde se encuentra la toma.
+
+3. Al identificar la región-manzana dentro de la Delegación se observará el tipo de manzana al que pertenece y ese remitirá, de manera directa, al subsidio que le corresponde al usuario de la toma de acuerdo al Artículo 172 del Código Fiscal.
+
+> <small>N. DE E. VEASE TABLAS EN LA G.O. DE 29 DE DICIEMBRE DE 2009, PAGINAS DE LA 399 A LA 523.</small>
+
+###### ARTICULO VIGESIMO SEGUNDO.
+
+A más tardar el 15 de enero del 2010, el Jefe de Gobierno deberá emitir un programa general de subsidios al impuesto predial al que se refiere el artículo 130 de este Código.
+
+###### ARTICULO VIGESIMO TERCERO.
+
+A más tardar el 15 de enero del 2010 el Jefe de Gobierno deberá emitir un programa general de condonación parcial del impuesto sobre nóminas para las micro, pequeñas y medianas empresas del Distrito Federal.
+
+###### ARTICULO VIGESIMO CUARTO.
+
+En el primer semestre del 2010 la Asamblea en coordinación con la autoridad fiscal, dentro del ámbito de sus respectivas competencias, deberán actualizar la clasificación de las manzanas con base en la información del Índice de Desarrollo que refieren los artículos 172 y vigésimo primero transitorio de este Código.
+
+###### ARTICULO VIGESIMO QUINTO.
+
+Aquel contribuyente que considere que la clasificación de su toma de agua no corresponde al determinado por este Código con base en el Índice de Desarrollo por manzana, podrá acudir ante la Tesorería a través de las Administraciones Tributarias. La Tesorería tendrá que, a más tardar dentro de los treinta días naturales posteriores en que se reciba la petición, realizar visita de inspección para determinar la procedencia o no de la solicitud. Ésta será resuelta y notificada al contribuyente en un plazo que en ningún caso excederá los treinta días naturales siguientes a la visita de inspección. La Tesorería notificará dicha resolución a la autoridad recaudadora del Sistema de Aguas de la Ciudad de México en un plazo no mayor a los 30 días posteriores a la determinación para que esta proceda a realizar el cobro con la nueva reclasificación.
+
+Será la Tesorería la autoridad competente para conocer y atender dichas peticiones de reclasificación. En caso de no responder la Tesorería dentro de los sesenta días posteriores a su solicitud, se considerará procedente la solicitud del usuario, sirviendo de comprobante de ajuste el acuse de recibo de la oficina competente; sin perjuicio de las facultades de la autoridad fiscal.
+
+###### ARTICULO VIGESIMO SEXTO.
+
+Para acceder al beneficio establecido en la fracción II, numeral 1 del artículo 130 de este Código, los propietarios de inmuebles de uso habitacional que se localizan en el perímetro A del Centro Histórico, deberán obtener una constancia que acredite que el inmueble es de uso habitacional, que será emitida por la Autoridad del Centro Histórico la cual deberá ser presentada en la Administración Tributaria correspondiente para la obtención de la cuota fija aplicable.
+
+###### ARTICULO VIGESIMO SEPTIMO.
+
+En el caso de vivienda plurifamiliar que cuente con una sola toma de agua de uso doméstico, el usuario podrá solicitar al Sistema de Aguas la emisión de recibos individuales por cada vivienda, prorrateando el consumo entre el total de viviendas. El total de viviendas dentro del predio se podrá acreditar mediante inspección y /o verificación del Sistema de Aguas de la Ciudad de México.
+
+###### ARTICULO VIGESIMO OCTAVO.
+
+A los solicitantes por primera vez, de los derechos por suministro de agua en sistema medido de uso doméstico que se ubiquen en manzanas tipo popular, bajo y medio y/o solicitantes a regularizar los servicios de agua en estas mismas zonas, se otorgará un descuento del 50% en lo referente al pago de derechos de conexión de tomas domiciliarias que se establecen en el artículo 181, apartado A, numeral I, inciso a); del Código Fiscal del Distrito Federal, exceptuando de dicho beneficio a las viviendas y edificaciones en conjunto.
+
+El pago de derechos con descuento anteriormente descrito, se realizará mediante cuatro pagos parciales.
+
+El monto de la parcialidad se añadirá a los cargos por suministro de agua potable en la boleta emitida por el Sistema de Aguas de la Ciudad de México.
+
+El monto por el pago de conexión se realizará mediante la presentación de los siguientes documentos:
+
+Copia simple de escritura del predio donde resida y/o copia de boleta predial.
+
+Este documento se entregará con la finalidad de acreditar la casa habitación que se encuentre dentro de un lote con más de una vivienda
+
+Recinto de la Asamblea Legislativa del Distrito Federal, a los veintitrés días del mes de diciembre del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. LIZBETH EUGENIA ROSAS MONTERO, PRESIDENTA.- DIP. MARÍA DE LOURDES AMAYA REYES, SECRETARIA.- RAFAEL CALDERÓN JIMÉNEZ, SECRETARIO.- FIRMAS.
+
+En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.
