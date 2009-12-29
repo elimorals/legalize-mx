@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2008-12-04"
+last_updated: "2009-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE DICIEMBRE DE 2009.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -1105,7 +1105,9 @@ El Reglamento del Registro Civil, establecerá los supuestos, requisitos y proce
 
 ### CAPITULO II. De los requisitos para contraer matrimonio
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 138 Ter.
 
@@ -1165,7 +1167,7 @@ Disposiciones generales
 
 ###### ARTICULO 146.
 
-Matrimonio es la unión libre de un hombre y una mujer para realizar la comunidad de vida, en donde ambos se procuran respeto, igualdad y ayuda mutua con la posibilidad de procrear hijos de manera libre, responsable e informada. Debe celebrarse ante el Juez del Registro Civil y con las formalidades que esta ley exige.
+Matrimonio es la unión libre de dos personas para realizar la comunidad de vida, en donde ambos se procuran respeto, igualdad y ayuda mutua. Debe celebrarse ante el Juez del Registro Civil y con las formalidades que estipule el presente código.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -1809,7 +1811,9 @@ Las donaciones entre cónyuges no se revocarán por la superveniencia de hijos, 
 
 ### CAPITULO XI. Del concubinato
 
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 235.
 
@@ -1829,11 +1833,13 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 9
 
 La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error dentro de los treinta días siguientes a que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 237.
 
-El matrimonio entre el hombre o la mujer menor de edad, dejará de ser causa de nulidad cuando el menor hubiere llegado a los dieciocho años, y ni él ni su cónyuge hubieren intentado la nulidad.
+El matrimonio de una persona menor de edad, dejará de ser causa de nulidad cuando la persona menor hubiere llegado a los dieciocho años, y ni ésta ni su cónyuge hubieren intentado la nulidad.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2251,7 +2257,7 @@ Ejecutoriada una sentencia de divorcio, el Juez de lo Familiar, bajo su más est
 
 ###### ARTICULO 291 Bis.
 
-La concubina y el concubinario tienen derechos y obligaciones recíprocos, siempre que sin impedimentos legales para contraer matrimonio, han vivido en común en forma constante y permanente por un período mínimo de dos años que precedan inmediatamente a la generación de derechos y obligaciones a los que alude este capítulo.
+Las concubinas y los concubinos tienen derechos y obligaciones recíprocos, siempre que sin impedimentos legales para contraer matrimonio, han vivido en común en forma constante y permanente por un período mínimo de dos años que precedan inmediatamente a la generación de derechos y obligaciones a los que alude este capítulo.
 
 No es necesario el transcurso del período mencionado cuando, reunidos los demás requisitos, tengan un hijo en común.
 
@@ -2301,11 +2307,13 @@ También se da parentesco por consanguinidad, entre el hijo producto de reproduc
 
 En el caso de la adopción, se equiparará al parentesco por consanguinidad aquél que existe entre el adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 294.
 
-El parentesco de afinidad, es el que se adquiere por matrimonio o concubinato, entre el hombre y la mujer y sus respectivos parientes consanguíneos.
+El parentesco de afinidad, es el que se adquiere por matrimonio o concubinato, entre los cónyuges y sus respectivos parientes consanguíneos.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3057,7 +3065,9 @@ III.- Que el adoptante es persona apta y adecuada para adoptar.
 
 Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 391.
 
@@ -5329,11 +5339,13 @@ El Ministerio Público velará por los intereses del ausente, será oído en tod
 
 El patrimonio familiar es una institución de interés público, que tiene como objeto afectar uno o más bienes para proteger económicamente a la familia y sostener el hogar. El patrimonio familiar puede incluir la casa-habitación y el mobiliario de uso doméstico y cotidiano; una parcela cultivable o los giros industriales y comerciales cuya explotación se haga entre los miembros de la familia; así como los utensilios propios de su actividad, siempre y cuando no exceda su valor, de la cantidad máxima fijada por este ordenamiento.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 724.
 
-Pueden constituir el patrimonio familiar la madre, el padre o ambos, la concubina, el concubino o ambos, la madre soltera o el padre soltero, las abuelas, los abuelos, las hijas y los hijos o cualquier persona que quiera constituirlo, para proteger jurídica y económicamente a su familia.
+Pueden constituir el patrimonio familiar la madre, el padre o ambos, cualquiera de los cónyuges o ambos, cualquiera de los concubinos o ambos, la madre soltera o el padre soltero, las abuelas, los abuelos, las hijas y los hijos o cualquier persona que quiera constituirlo, para proteger jurídica y económicamente a su familia.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -14102,3 +14114,13 @@ Publíquese en la Gaceta Oficial del Distrito Federal.
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 29 DE DICIEMBRE DE 2009.
+
+Primero.- El presente decreto entrará en vigor a los 45 días hábiles de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- A partir de la publicación del presente Decreto, el Jefe de Gobierno del Distrito Federal deberá realizar las adecuaciones jurídicas administrativas correspondientes, en un plazo no mayor a 45 días hábiles.
+
+Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+Cuarto.- Notifíquese por los conductos pertinentes el presente decreto al Jefe de Gobierno del Distrito Federal, al Presidente del Tribunal Superior de Justicia del Distrito Federal, al Presidente de la Comisión de Derechos Humanos del Distrito Federal.
