@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-prestacion-de-los-servicios-de-guarderia-109
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-06-30"
-last_updated: "1997-06-30"
+last_updated: "2009-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10913&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-06-27"
 
 REGLAMENTO PARA LA PRESTACION DE LOS SERVICIOS DE GUARDERIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 30 de junio de 1997.
 
@@ -51,7 +51,11 @@ II. Instituto. El Instituto Mexicano del Seguro Social.
 
 III. Reglamentos. Los emitidos por el Presidente de la República en ejercicio de las facultades conferidas por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, en relación a la Ley del Seguro Social y aquéllos que emita el Consejo Técnico del Instituto en uso de sus atribuciones.
 
-IV. Trabajador. Se entenderá por el o los trabajadores, a la mujer trabajadora o al padre trabajador viudo o divorciado que conserve la custodia de los hijos, cuando éstos no puedan proporcionarles cuidados durante su jornada de trabajo en la primera infancia y mediante el otorgamiento de las prestaciones establecidas en el capítulo VII, sección primera "del Seguro de Guarderías y de las Prestaciones Sociales", que la Ley prevé.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+IV. Trabajador. Se entenderá por el o los trabajadores, a la mujer trabajadora, al trabajador viudo o divorciado, a quien judicialmente se le hubiera confiado la custodia de sus hijos, así como a los asegurados que por resolución judicial ejerzan la patria potestad y la custodia de un menor, siempre que estén vigentes en sus derechos ante el Instituto y no puedan proporcionar la atención y cuidados al menor.
 
 ###### Artículo 3.
 
@@ -239,6 +243,12 @@ II. Cuando a juicio del Instituto sea necesario ejecutar obras de reparación, a
 
 III. Cuando sobrevenga algún fenómeno natural, calamidad o causa operativa que impida la prestación del servicio.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+En los casos a que se refiere la fracción II de este artículo, el Instituto, previo acuerdo del H. Consejo Técnico, mientras dure la suspensión temporal, cuando ésta se deba, a juicio del Instituto, a que esté en riesgo la seguridad de los menores, empleados de la guardería y, en general, de las personas que requieran asistir a dicho inmueble, otorgará a los trabajadores una ayuda en efectivo equivalente a la cuota que cubre el Instituto a los prestadores de servicios de guardería en la localidad correspondiente, a fin de que se proporcionen a sus hijos los cuidados necesarios durante su jornada de trabajo.
+
 ### CAPÍTULO V. DE LAS SANCIONES Y SUSPENSIONES
 
 ###### Artículo 32.
@@ -302,3 +312,11 @@ SEGUNDO. Se derogan todas las disposiciones reglamentarias o administrativas que
 .
 
 Los presentes Reglamentos se expiden en la Ciudad de México, D.F., a 27 de junio de 1997.- En cumplimiento a lo dispuesto por el H. Consejo Técnico en el Acuerdo citado, y de conformidad con la solicitud de la Dirección Jurídica contenida en su oficio 3,012, de fecha 18 de octubre de 1996".- El Secretario General del Instituto Mexicano del Seguro Social, Juan Moisés Calleja García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE DICIEMBRE DE 2009.
+
+Primero.- Las modificaciones y adiciones a este Reglamento, entrarán en vigor el primero de enero de dos mil diez.
+
+Segundo.- Se autoriza a la Dirección General para que, a partir de la entrada en vigor de las modificaciones y adiciones aprobadas al Reglamento para la Prestación de los Servicios de Guardería, por conducto de las Delegaciones respectivas, haga entrega de la ayuda a que se refiere el segundo párrafo del artículo 31 de dicho ordenamiento. Tercero.- La Dirección General, por conducto de las Direcciones de Prestaciones Económicas y Sociales y de Finanzas, deberá informar trimestralmente a este Organo de Gobierno, el importe total de las ayudas otorgadas en los términos del presente Acuerdo, con la finalidad de que se autoricen las modificaciones presupuestarias requeridas para el cumplimiento del mismo. Cuarto.- Se instruye a la Dirección de Prestaciones Económicas y Sociales para que emita los lineamientos respectivos que, en su caso, sean indispensables para el cumplimiento del presente Acuerdo. Quinto.- Se instruye a la Dirección Jurídica, a efecto de que lleve a cabo los trámites conducentes ante las instancias respectivas, para la publicación de las modificaciones y adiciones al Reglamento a que se refiere el punto Primero del presente Acuerdo, en el Diario Oficial de la Federación. (sic)
