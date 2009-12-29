@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2008-07-05"
+last_updated: "2009-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -1723,9 +1723,21 @@ II. Los cambios de residencia provisional o definitiva de los poderes del Estado
 
 III. El proceso de investir al Ejecutivo de facultades extraordinarias o especiales, cuando se hiciere necesario, así como la aprobación de los actos de ese Poder en el ejercicio de ellas;
 
-IV. La calificación de las causales para la procedencia del trámite de desintegración de ayuntamientos y suspensión o revocación del mandato a alguno de sus miembros; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-V. Las facultades del Ejecutivo para que por si o por apoderado especial represente al Estado en aquellos casos en que la ley lo requiera, así como para celebrar convenios con las demás entidades federativas vecinas respecto de las cuestiones de límites y sobre la ratificación de estos convenios.
+IV. La calificación de las causales para la procedencia del trámite de desintegración de ayuntamientos y suspensión o revocación del mandato a alguno de sus miembros;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+V. Las facultades del Ejecutivo para que por sí o por apoderado especial represente al Estado en aquellos casos en que la ley lo requiera, así como para celebrar convenios con las demás entidades federativas vecinas respecto de las cuestiones de límites y sobre la ratificación de estos convenios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+VI. La denominación de los municipios y de sus delegaciones, agencias y localidades, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+VII. La creación de municipios, así como erigir delegaciones y agencias municipales.
 
 ###### Artículo 89.
 
@@ -2969,7 +2981,9 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 
 2. En caso de que no se alcance la votación requerida para efectuar la elección, o en su caso ratificación, de los servidores públicos, la comisión competente debe actuar conforme a lo establecido en la Constitución Política del Estado y las leyes aplicables.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VIII. De la Creación de Municipios
+
+> <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 221.
 
@@ -2988,6 +3002,10 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 1. Una vez concluido el proceso de análisis del informe anual del estado que guarda la administración pública en comisiones, éstas envían sus conclusiones finales a la Asamblea, con las cuales, el Congreso del Estado establece su posición política al respecto.
 
 2. Las evaluaciones, análisis y conclusiones a que se refiere este artículo, son enviadas a la comisión competente para su examen, especialmente durante el proceso de estudio de la iniciativa del Presupuesto de Egresos del Estado de Jalisco.
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 224.
 
@@ -3035,11 +3053,487 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 
 1. Si la resolución adoptada por el Congreso del Estado se refiere a la suspensión o revocación del mandato de alguno de los miembros del Ayuntamiento, se notifica a éste para que llame al suplente y desempeñe el cargo durante el término de la suspensión, el cual no puede exceder de un año, o para que concluya el periodo en caso de revocación del mandato.
 
+(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2009) (F. DE E., P.O. 12 DE JUNIO DE 2010)
+
 ###### Artículo 233.
 
-1. Las infracciones cometidas por los servidores públicos al servicio del Congreso del Estado serán sancionadas por lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y las demás disposiciones que resulten aplicables.
+1. La creación de municipios estará orientada por los siguientes principios:
+
+I. Seguridad jurídica: En razón del cual no se podrá crear municipio alguno en contravención a lo establecido en esta ley.
+
+II. Debido proceso: Como el derecho de los ayuntamientos a ser escuchados, ofrecer pruebas y expresar alegatos dentro de los procedimientos en los que pudieren resultar afectados los intereses legítimos de su municipio.
+
+III. Certeza: Con relación a la evidencia científica y técnica que deben sustentar los dictámenes respecto al estado en que se encuentran la población y territorio dentro de los procedimientos de creación de municipios.
+
+IV. Viabilidad: Como la condición de sustentabilidad en los aspectos ambiental, social y económico, que determine la conveniencia del acto de creación de los municipios.
+
+V. Transparencia: Como disponibilidad pública de la información producida durante el proceso de creación de municipios; y
+
+VI. Participación Ciudadana: Como garantía de intervención de la sociedad en el proceso de creación de municipios.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 234.
+
+1. La creación de municipios sólo podrá realizarse mediante decreto emitido por el Congreso del Estado publicado por el Gobernador del Estado en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 235.
+
+1. Las notificaciones que realice el Congreso del Estado dentro de los procedimientos de creación de municipios, serán personales, salvo que se trate de acuerdos internos cuya ejecución no afecte intereses de las partes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 236.
+
+1. Conforme al decreto correspondiente, el Poder Ejecutivo, a través de la Secretaría General de Gobierno, informará a las dependencias federales de la creación municipal, particularmente a aquellas que tengan relación con los procesos electorales, medios de comunicación y el envío de participaciones federales a municipios.
+
+> <small>N. DE E. POR FE DE ERRATAS PUBLICADA EN EL P.O. DE 12 DE JUNIO DE 2010, SE SUPRIME LA SECCIÓN II DENOMINADA "DE LA CREACIÓN DE LOS MUNICIPIOS", A PARTIR DE ESTA FECHA.</small>
+
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2009) (F. DE E., 12 DE JUNIO DE 2010)
+
+#### Sección II. De la creación de los municipios
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 237.
+
+1. El Congreso del Estado puede constituir nuevos municipios de acuerdo con las bases siguientes:
+
+I. La superficie territorial en donde se pretenda constituir no sea menor de 250 kilómetros cuadrados;
+
+II. La población que habite en esa superficie sea mayor de 30,000 habitantes;
+
+III. Lo soliciten cuando menos una cuarta parte del total de ciudadanos inscritos en el padrón electoral con residencia en el territorio en donde se pretenda establecer el nuevo municipio;
+
+IV. El poblado que se elija como cabecera municipal tenga una población no inferior a 10,000 habitantes;
+
+V. Cuente con los servicios públicos indispensables y suficiente capacidad económica para generar el ingreso fiscal para atender los gastos de la nueva administración pública municipal, y
+
+VI. Que el o los municipios susceptibles de afectación no pierdan con la segregación las condiciones para ser municipios.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 238.
+
+1. La solicitud de creación de un nuevo municipio podrá afectar la población y el territorio de uno o más municipios.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 239.
+
+1. Cuando se inicie un expediente de creación de nuevo municipio los interesados constituirán un "Comité Pro Municipio" integrado por ciudadanos radicados en el territorio que se pretenda segregar.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 240.
+
+1. La integración del Comité Pro Municipio deberá constar en acta constitutiva notariada y se registrará ante la Secretaría General del Gobierno del estado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 241.
+
+1. El Comité Pro Municipio estará integrado por:
+
+I. Un presidente;
+
+II. Un secretario;
+
+III. Un Tesorero; y
+
+III (SIC). Un vocal por cada delegación o agencia municipal que se pretenda su incorporación al nuevo municipio.
+
+2. Por cada propietario se deberá designar un suplente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 242.
+
+1. Los integrantes del Comité Pro Municipio serán electos en una asamblea a la que deberán asistir cuando menos quinientos ciudadanos radicados en el territorio que se pretenda segregar.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 243.
+
+1. Para ser miembro del Comité Pro Municipio se requiere:
+
+I. Ser mexicano por nacimiento;
+
+II. Mayor de 18 años;
+
+III. Estar en pleno goce de sus derechos civiles y políticos;
+
+IV. No haber sido condenado por delito doloso, y
+
+V. Haber nacido o tener residencia dentro del territorio que se pretende segregar con antigüedad no menor a cinco años.
+
+2. Cualquier ciudadano que cumpla con estos requisitos podrá ser miembro del Comité.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 244.
+
+1. Son facultades y obligaciones del Comité Pro Municipio:
+
+I. Representar legalmente a los ciudadanos que pretendan la creación del nuevo municipio en el trámite del expediente respectivo;
+
+II. Convocar a asamblea general de vecinos para la suscripción de la solicitud de nuevo municipio;
+
+III. Entregar al archivo del nuevo ayuntamiento la documentación levantada con motivo del expediente respectivo, en su caso;
+
+IV. Convocar a los ciudadanos a las asamblea (sic) informativas que fuere necesario realizar;
+
+V. Ejecutar los acuerdos que se tomen en las asambleas de ciudadanos, y
+
+VI. Realizar las demás gestiones inherentes a su representación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 245.
+
+1. El Comité Pro Municipio será notificado de los actos y acuerdos en la persona de su Presidente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 246.
+
+1. Los miembros del Comité Pro Municipio podrán ser removidos por no cumplir con las obligaciones que les señala este capítulo, siempre que lo acuerden las dos terceras partes de la asamblea.
+
+2. La asamblea reunida para remover a los integrantes del Comité Pro Municipio no podrá integrarse con menos de 500 ciudadanos, los cuales deberán haber participado en la asamblea de su designación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 247.
+
+1. Una vez registrado el Comité Pro Municipio ante la Secretaría General de Gobierno no podrá integrarse ni registrarse otro por el mismo territorio.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 248.
+
+1. El Comité Pro Municipio formalizará la solicitud de nuevo municipio en asamblea general de vecinos que deberá estar integrada por cuando menos una cuarta parte del total de ciudadanos inscritos en el padrón electoral con residencia en el territorio que se pretende segregar.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 249.
+
+1. La asamblea general de vecinos podrá realizarse en uno o diversos eventos, atendiendo, en este caso, a la distribución de la población en colonias, barrios, pueblos y rancherías.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 250.
+
+1. El acta de solicitud de nuevo municipio será firmada por todos los integrantes del Comité Pro Municipio y los asistentes a cada uno de los eventos que se realicen para dicho fin.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 251.
+
+1. Los documentos que acrediten la identidad, firma y domicilio de cada uno de los asistentes a los eventos que integran la asamblea general de vecinos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 252.
+
+1. El Comité Pro Municipio deberá hacer llegar al Congreso del Estado la solicitud original para la creación del nuevo municipio.
+
+2. La solicitud original para la creación del nuevo municipio, y documentos anexos a ella, también podrán hacerse llegar en formato de iniciativa de decreto que presente cualquiera de los diputados de la legislatura local.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 253.
+
+1. No procederá el desistimiento de la solicitud para la creación del nuevo municipio una vez que sea presentada ante el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 254.
+
+1. La solicitud de nuevo municipio deberá contener lo siguiente:
+
+I. Estar dirigida al "Honorable Congreso del Estado";
+
+II. Nombre que se pretende asignar al nuevo municipio;
+
+III. Asentamientos humanos que se pretenda integrar dentro del perímetro del nuevo municipio;
+
+IV. Documento que acredite el número de habitantes domiciliados dentro del perímetro del municipio solicitado, expedido por autoridad competente;
+
+V. Poblado que se pretenda sea la cabecera municipal y número estimado de habitantes;
+
+VI. Descripción de linderos que se proponen para el nuevo municipio;
+
+VII. Servicios públicos y capacidad económica del territorio que se pretende segregar;
+
+VIII. Señalamiento de los municipios colindantes del municipio solicitado;
+
+IX. Nombre y firma de los integrantes del Comité Pro Municipio, domicilio para recibir notificaciones en la Zona Metropolitana de Guadalajara y autorizados para recibirlas, en su caso, y
+
+X. Nombre, firma y domicilio de los asistentes a los eventos realizados para conformar la asamblea general de vecinos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 255.
+
+1. A la solicitud de nuevo municipio se deberá acompañar, lo siguiente:
+
+I. Acta de integración del Comité Pro Municipio;
+
+II. Constancia de registro del Comité Pro Municipio ante la Secretaría General de Gobierno;
+
+III. Pruebas que acrediten el cumplimiento de los requisitos y condiciones establecidos en el artículo 237, y
+
+IV. Copias de la solicitud y documentos anexos suficientes, para efectos de lo señalado en el artículo 263.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 256.
+
+1. Recibida la solicitud de nuevo municipio el Congreso del Estado deberá turnarla para estudio y dictamen a la Comisión de Gobernación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 257.
+
+1. La Comisión de Gobernación en un plazo de 10 días hábiles deberá resolver respecto (sic) la admisión de la solicitud.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 258.
+
+1. Cuando la Comisión de Gobernación acuerde no admitir la solicitud de nuevo municipio presentará el dictamen a la Asamblea para su discusión y votación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 259.
+
+1. La Comisión solo podrá acordar la no admisión de la solicitud cuando la considere notoriamente improcedente.
+
+2. El acuerdo que resuelva la no admisión de la solicitud de nuevo municipio deberá ser notificado personalmente a los promoventes o en estrados del Congreso, en caso de no haberse proporcionado los domicilios correspondientes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 260.
+
+1. Si no fuere admitida la solicitud de nuevo municipio no se podrá presentar una nueva sino hasta una vez transcurridos seis meses de la fecha de notificación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 261.
+
+1. Contra el acuerdo legislativo que no admita la solicitud de nuevo municipio se podrá interponer el juicio de nulidad ante el Tribunal de lo Administrativo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 262.
+
+1. Admitida la solicitud, la Comisión de Gobernación tendrá un plazo de 180 días naturales contados a partir de la fecha en que fue recibida, para suscribir el dictamen que declare la procedencia o improcedencia de la creación del nuevo municipio y presentarlo a la consideración de la Asamblea.
+
+2. Para considerar el cumplimiento del plazo anterior se tomará en cuenta el día en que se tenga por recibido el dictamen por parte de la Presidencia de la mesa Directiva del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 263.
+
+1. Con las copias de la solicitud de nuevo municipio la Comisión de Gobernación emplazará al ayuntamiento, o ayuntamientos, del municipio, o municipios, que se pretendan afectar y además se dará vista a las siguientes entidades y dependencias:
+
+I. Municipios colindantes del pretendido nuevo municipio;
+
+II. Secretaría General de Gobierno;
+
+III. Secretaría de Promoción Económica;
+
+IV. Secretaría de Medio Ambiente para el Desarrollo Sustentable;
+
+V. Consejo Estatal de Población del Estado de Jalisco, y
+
+VI. Instituto de Información Territorial del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 264.
+
+1. El ayuntamiento del municipio o municipios susceptibles de ser afectados con la segregación solicitada, dentro de un término de treinta días, expresarán su posición respecto a la misma, mediante acuerdo tomado en sesión plenaria.
+
+2. Los regidores que sostengan opiniones divergentes con la decisión mayoritaria podrán emitir voto particular para razonar su posición, el cual será enviado al Congreso del Estado anexo al acta respectiva.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 265.
+
+1. Si el ayuntamiento del municipio o municipios susceptibles de ser afectados con la segregación solicitada estuviera en contra de la formación del nuevo municipio, en el acuerdo señalado en el artículo anterior expresará sus conceptos de defensa y ordenará ofrecer pruebas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 266.
+
+1. A partir del día siguiente al que hubieren recibido la copia de la solicitud de nuevo municipio, los ayuntamientos colindantes del pretendido nuevo municipio, tendrán un término de treinta días para manifestar lo que a su interés corresponda respecto a los límites territoriales propuestos. En caso de oposición a los linderos señalados en la solicitud, expresarán sus conceptos de inconformidad y ordenarán ofrecer las pruebas que consideren convenientes, con excepción de la confesional y la testimonial.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 267.
+
+1. Dentro del mismo término señalado en el artículo anterior, las entidades y dependencias del Gobierno del Estado señaladas en el artículo 263, emitirán opinión respecto a la viabilidad del nuevo municipio, conforme a su respectivo ámbito de competencia y atendiendo a los requisitos y principios rectores de la ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 268.
+
+1. Las pruebas documentales se anexarán a los escritos en donde se ofrezcan, y de no ser posible, se señalará el lugar en donde se pueda consultar o reproducir copia certificada.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 269.
+
+1. Cuando la Comisión de Gobernación lo considere necesario para motivar su dictamen, ordenará la realización de trabajos técnicos complementarios.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 270.
+
+1. Cuando la Comisión de Gobernación requiera de trabajos técnicos complementarios solicitará el auxilio de las dependencias y entidades públicas, o instituciones privadas que considere conveniente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 271.
+
+1. Producida la contestación al emplazamiento y desahogada la vista otorgada a las entidades y dependencias correspondientes, y una vez que no haya pruebas o diversos trabajos técnicos por desahogar, la Comisión de Gobernación hará relación de constancias y declarará cerrada la instrucción del procedimiento.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 272.
+
+1. El análisis de la viabilidad municipal deberá cuidar que con la creación del nuevo municipio no se afecten políticas públicas en materia de sustentabilidad ambiental, social y económica.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 273.
+
+1. Cerrada la instrucción, la Comisión de Gobernación pondrá a la vista de las partes las constancias que obren en el expediente y otorgará un plazo de cinco días hábiles para que expresen alegatos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 274.
+
+1. Cuando por causa justificada la Comisión de Gobernación requiera extender el plazo para presentar a la Asamblea el dictamen correspondiente deberá solicitar la prórroga mediante iniciativa de acuerdo legislativo.
+
+2. La iniciativa de acuerdo legislativo a que se refiere el párrafo anterior será resuelta de plano por la Asamblea y, en su caso, la prórroga no podrá ser mayor de noventa días naturales adicionales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 275.
+
+1. El dictamen de la Comisión de Gobernación propondrá a la Asamblea la procedencia o improcedencia de la creación del nuevo municipio, señalando los hechos y consideraciones de derecho que lo sustenten.
+
+2. El dictamen de creación de nuevo municipio deberá contener una relación de las actuaciones desahogadas en el procedimiento; un capítulo de consideraciones en donde se valoren las circunstancias probadas, se razone la justificación de la creación del nuevo municipio, y se fundamente el acto en los dispositivos legales aplicables; y diverso capítulo de proposiciones en donde fije los alcances del decreto.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 276.
+
+1. El Congreso del Estado solo podrá declarar improcedente la creación del nuevo municipio cuando no se haya cumplido alguno de los requisitos y condiciones establecidos en el artículo 237.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 277.
+
+1. El acuerdo del Congreso del Estado respecto a la procedencia o improcedencia de la solicitud de nuevo municipio se notificará al Comité Pro Municipio y a las entidades señaladas en el artículo 263.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 278.
+
+1. Una vez rechazada la solicitud de nuevo municipio no se podrá presentar diversa solicitud sino una vez transcurridos tres años del acuerdo legislativo respectivo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 279.
+
+1. El decreto de creación de un nuevo municipio deberá ser aprobado por el voto de las dos terceras partes de los diputados integrantes del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 280.
+
+1. Una vez entrado en vigor el decreto de creación del nuevo municipio, serán vigentes las siguientes disposiciones transitorias:
+
+I. El ayuntamiento del municipio afectado continuará ejerciendo gobierno y administración respecto al territorio y habitantes del nuevo municipio, hasta el momento en que tomen posesión del cargo las nuevas autoridades municipales, ya sea que se trate de un concejo o ayuntamiento municipal;
+
+II. Las autoridades del municipio afectado y del nuevo municipio realizarán la entrega-recepción de toda la información y documentación necesarias para el buen desempeño de la nueva administración municipal;
+
+III. Todos los reglamentos, bandos y circulares de carácter general, vigentes para el municipio afectado, lo serán para el nuevo municipio hasta la expedición de los nuevos ordenamientos municipales, en cuyo caso no podrá exceder su vigor por más de dieciocho meses contados a partir de la toma de posesión de las autoridades del nuevo municipio;
+
+IV. El nuevo municipio deberá recibir del municipio afectado la posesión y propiedad de los bienes muebles de propiedad municipal que hubieren estado destinados a prestar un servicio público de manera exclusiva en las poblaciones que integran el nuevo municipio;
+
+V. Los bienes inmuebles de propiedad municipal ubicados dentro de la circunscripción del nuevo municipio pasarán al patrimonio de éste, por lo que el municipio afectado deberá entregar la documentación relativa a los mismos y suscribir las transmisiones de dominio respectivas;
+
+VI. Las obligaciones contraídas por el municipio afectado para la ejecución de obras y servicios realizados en el territorio del nuevo municipio pasarán a cargo de éste, como deudor sustituto;
+
+VII. El Congreso del Estado aprobará la Ley de Ingresos y el Presupuesto de Egresos del nuevo municipio, para el período que corresponda de la entrada en funciones de las nuevas autoridades hasta el 31 de diciembre del mismo año;
+
+VIII. Serán aplicables al nuevo municipio, en el período fiscal señalado en la fracción anterior, las Tablas de Valores vigentes en el municipio afectado, y
+
+IX. Las nuevas autoridades respetarán los derechos laborales de los trabajadores municipales que hubieren trabajado con el municipio afectado asignados a tareas dentro de la circunscripción del nuevo municipio, en los términos de la Ley para los Servidores Públicos del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 281.
+
+1. A partir de la entrada en vigor del decreto de creación del nuevo municipio, sus residentes se considerarán vecinos y habitantes del mismo, quedando sujetos a la jurisdicción de las nuevas autoridades y con los derechos y obligaciones que de las leyes se desprenden.
+
+2. Sólo para efectos de computar antigüedad de residencia, se tomará en cuenta la que hubieren tenido en el lugar desde antes de la erección del nuevo municipio.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 282.
+
+1. Si el Congreso del Estado aprueba la creación del nuevo municipio, mandará la minuta al Poder Ejecutivo para su publicación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 283.
+
+1. El decreto que apruebe un nuevo municipio deberá contener lo siguiente:
+
+I. Nombre oficial del nuevo Municipio;
+
+II. Nombre oficial de la cabecera municipal;
+
+III. Descripción topográfica y plano limítrofe;
+
+IV. Fecha de la primera elección constitucional de autoridades municipales;
+
+V. Forma de elección, fecha de nombramiento y toma de protesta de los integrantes del Concejo Municipal, en su caso;
+
+VI. Relación de delegaciones y agencias municipales que se integran al nuevo municipio; y
+
+VII. Sinopsis histórica del nuevo municipio.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 284.
+
+1. El Gobernador del Estado deberá autorizar el otorgamiento de recursos económicos para apoyar el inicio de las funciones del nuevo municipio, los que serán descontados en su oportunidad de las participaciones estatales que le correspondan.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 285.
+
+1. La Toma de Protesta a las autoridades del nuevo municipio se hará en sesión solemne del Congreso del Estado, por el presidente de la mesa directiva, en lugar público de la cabecera municipal, a la que serán invitados el Gobernador y el Presidente del Supremo Tribunal de Justicia del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 286.
+
+1. Los decretos de creación municipal será impugnable (sic) ante el Tribunal de lo Administrativo del Poder Judicial por los ayuntamientos o diversa entidad pública con interés jurídico y por los Comités ciudadanos integrados conforme a esta ley.
 
 ## TÍTULO DÉCIMO. INFRACCIONES Y SANCIONES
+
+###### Artículo 287.
+
+1. Las infracciones cometidas por los servidores públicos al servicio del Congreso del Estado serán sancionadas por lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y las demás disposiciones que resulten aplicables.
 
 ## TRANSITORIOS
 
@@ -3348,3 +3842,11 @@ Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pas
 Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto. Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoria Superior del Estado.
 
 Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+> <small>(F. DE E., P.O. 12 DE JUNIO DE 2010)</small>
+
+SEGUNDO. El artículo segundo del presente decreto entrará en vigor al día siguiente de la entrada en vigor del Artículo Primero referido en la disposición transitoria anterior, previa su publicación en el periódico oficial El Estado de Jalisco.
