@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2008-11-18"
+last_updated: "2009-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # CODIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429
 
-CODIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429
+CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NÚMERO 429
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -157,7 +157,7 @@ b) En el acto en el que el fideicomitente pierda el derecho a readquirir los bie
 
 Cuando el fideicomitente reciba certificados de participación por los bienes que afecte en fideicomiso, se consideraran enajenados esos bienes al momento en que el fideicomitente reciba los certificados, salvo que se trate de acciones.
 
-VI. La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso , en cualquiera de los siguientes momentos:
+VI. La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
 
 a) En el acto en el que el fideicomisario designado ceda sus derechos o de instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero, en estos casos se considerara que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
 
@@ -1591,7 +1591,7 @@ Los documentos enunciados deberán soportar todos aquellos aspectos importantes 
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
-XXIl.- Cuando el Contador Público no dé cumplimiento a las disposiciones establecidas en este Código y en las reglas de carácter general que al efecto publique la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero las autoridades fiscales previa audiencia estarán facultadas para:
+XXII.- Cuando el Contador Público no dé cumplimiento a las disposiciones establecidas en este Código y en las reglas de carácter general que al efecto publique la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero las autoridades fiscales previa audiencia estarán facultadas para:
 
 1.- Amonestar por escrito cuando:
 
@@ -2537,6 +2537,24 @@ Los fondos únicamente podrán transferirse al Fisco Estatal una vez que el cré
 
 Si al estarse practicando la diligencia de embargo, el deudor hiciere el pago del adeudo y sus accesorios, el ejecutor suspenderá dicha diligencia y expedirá recibo de entero por el importe del pago.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 155 BIS.- La Secretaría de Finanzas y Administración podrá decretar el aseguramiento de los bienes o de la negociación del contribuyente cuando:
+
+I. El contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales estatales o no se puedan notificar su inicio por haber desaparecido o por ignorarse su domicilio.
+
+II. Si después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes.
+
+III. Se niegue el contribuyente a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales estatales, a que se está obligado.
+
+IV. La autoridad realice visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública y dichos contribuyentes no puedan demostrar que se encuentran inscritos en el registro federal de contribuyentes, ni exhibir los comprobantes que amparen la legal posesión o propiedad de las mercancías que vendan en esos lugares. Una vez inscrito el contribuyente en el citado registro y acreditada la posesión o propiedad de las mercancías se levantará el aseguramiento realizado.
+
+De las fracciones anteriores, la autoridad que practique el aseguramiento deberá levantar acta circunstanciada en la que precise las razones para hacerlo.
+
+El aseguramiento precautorio quedará sin efectos si la autoridad no emite, dentro de los plazos a que se refieren los artículos 88 fracción VII y 89 de este Código en el caso de las fracciones II y III, y de 18 meses en el de las fracciones I y IV, contados desde la fecha en que fue practicado resolución en la que se determinen créditos fiscales. Si dentro de los plazos señalados la autoridad determina algún crédito, dejará de surtir efectos el aseguramiento precautorio y se proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de este capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución.
+
 ###### ARTICULO 156.
 
 Si al designarse bienes para el secuestro administrativo, se opusiere un tercero fundándose en el dominio de ellos, no se practicará el embargo, si se demuestra en el mismo acto la propiedad, con prueba documental suficiente a juicio del ejecutor, la resolución dictada tendrá el carácter de provisional y deberá ser sometida a ratificación, ante la Secretaría de Finanzas y Administración, a la que deberán allegarse los documentos exhibidos en el momento de la oposición. Si a juicio de la Secretaría las pruebas no son suficientes, se ordenará al ejecutor que continúe con el embargo, y notificará al interesado que puede hacer valer el recurso de oposición al procedimiento administrativo de ejecución en los términos de éste Código.
@@ -2639,9 +2657,11 @@ III.- Remitir a la oficina ejecutora, el inventario de los bienes o negociacione
 
 En todo caso, en el inventario se hará constar la ubicación de los bienes o el lugar donde se guarden, a cuyo respecto todo depositario dará cuenta a la misma oficina ejecutora de los cambios de localización que se efectuaren;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV.- El interventor administrador tendrá la obligación de recaudar los frutos y productos de los bienes embargados, así como recabar el 10% de las ventas o ingresos diarios de la negociación intervenida y entregar su importe en la caja de la oficina exactora diariamente o a medida que se efectúe la recaudación;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+IV.- El interventor administrador tendrá la obligación de recaudar los frutos y productos de los bienes embargados, así como recabar el 10% de las ventas o ingresos diarios de la negociación intervenida, además del importe por concepto de honorarios de interventor en términos de lo previsto en la fracción IX de este artículo, y entregar su importe en la caja de la oficina exactora diariamente o a medida que se efectúe la recaudación;
 
 V.- Ejercitar ante las autoridades competentes las acciones y actos necesarios para hacer efectivos los créditos materia del depósito o incluidos en él, así como las ventas, regalías y cualesquiera otras prestaciones en numerarios o en especie;
 
@@ -2651,7 +2671,13 @@ VII.- Rendir cuentas mensuales comprobadas a la oficina ejecutora;
 
 VIII.- El depositario interventor que tuviere conocimiento de irregularidades en el manejo de las negociaciones sujetas a embargo o de operaciones que pongan en peligro los intereses del Fisco estatal, dictará las medidas provisionales urgentes que estime necesarias para proteger intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
 
-Cuando las medidas a que se refiere esta fracción no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración.
+Cuando las medidas a que se refiere esta fracción no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+IX.- El interventor con cargo a la caja, recibirá por concepto de honorarios como pago por sus servicios, el equivalente a 7 salarios mínimos de la Zona Económica "A", sin que dicho importe sea superior al salario que percibe el administrador o gerente de la negociación intervenida, excepto cuando no exista esta figura en la negociación, los honorarios serán el equivalente al doble del salario del empleado de la negociación intervenida que perciba el mayor salario.
 
 ###### ARTICULO 168.
 
@@ -2664,6 +2690,12 @@ El interventor administrador tendrá todas las facultades que normalmente corres
 El interventor administrador no quedará supeditado en su actuación al consejo de administración, asamblea de accionistas, socios o partícipes.
 
 Tratándose de negociaciones que no constituyan una sociedad el interventor administrador tendrá todas las facultades de dueño para la conservación y buena marcha del negocio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+El interventor administrador recibirá por concepto de honorarios como pago por sus servicios, el equivalente a 14 salarios mínimos de la Zona Económica "A", sin que dicho importe sea superior al salario que percibe el administrador o gerente de la negociación intervenida. Cuando no exista esta figura en la negociación, los honorarios serán el equivalente a 4 veces el salario del empleado de la negociación intervenida que perciba el mayor salario.
 
 ###### ARTICULO 169.
 
@@ -2703,13 +2735,21 @@ La Secretaría de Finanzas y Administración con objeto de un mayor rendimiento,
 
 La base para el remate de los bienes embargados será la que resulte de la valuación hecha por perito valuador con cédula profesional en la especialidad de que se trate, cuyas designaciones se hará (sic) conforme a las siguientes reglas:
 
-I.- La oficina ejecutora que deba proceder al remate, nombrará un perito con las características señaladas en el párrafo anterior y lo hará saber al interesado, que de no estar conforme con la designación, nombrará el suyo dentro del término de tres días;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+I.- La oficina ejecutora que deba proceder al remate, nombrará un perito con las características señaladas en el párrafo anterior y lo hará saber al interesado, que de no estar conforme con la designación, nombrará el suyo dentro del término de seis días;
 
 II.- El deudor deberá ponerse de acuerdo con la oficina ejecutora sobre el nombramiento de un perito tercero, quien intervendrá si hubiese desacuerdo entre los dos antes mencionados;
 
 III.- Si el deudor no se pone de acuerdo para los efectos de la fracción que antecede, con la oficina ejecutora, ésta nombrará perito valuador tercero, quien deberá contar con cédula profesional en la especialidad de que se trate;
 
-IV.- Los peritos deberán rendir su dictamen en un plazo de cinco días si se trata de bienes muebles, diez días si son inmuebles y veinte días cuando sean negociaciones a partir de la fecha de su designación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+IV.- Los peritos deberán rendir su dictamen dentro de los 10 días si se trata de bienes muebles, 20 días si son inmuebles y 30 días si son negociaciones, contados a partir del siguiente día de recibida la notificación y aceptado la designación.
 
 ###### ARTICULO 174.
 
@@ -2859,21 +2899,23 @@ IV.- Hasta por el monto del adeudo, si éste no excede de la cantidad en que deb
 
 La adjudicación regulada en este artículo, sólo será válida si lo aprueba la oficina ejecutora.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### ARTICULO 192.
 
-Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que dentro de los quince días siguientes se lleve a cabo la segunda almoneda, cuya convocatoria se hará en los términos del artículo 174 con la salvedad de que la publicación se hará una sola vez.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2009)
 
-La base para el remate de la segunda y última almoneda, se determinará deduciendo un 20% de la señalada para la primera.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si tampoco se fincare el remate en la segunda almoneda, se considerará que el bien fue enajenado en un 50% del valor de avalúo, asentándose como dación en pago para el efecto de que la autoridad pueda adjudicárselo, enajenarlo o donarlo para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas conforme a las leyes de la materia.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 193.
 
-Las oficinas ejecutoras podrán vender fuera de subasta cuando se trate de bienes de fácil descomposición o deterioro, de materias inflamables o de semovientes y cuando después de celebrar una almoneda declarada desierta, se presente con posterioridad un comprador que satisfaga en efectivo el precio integro que no sea inferior a la base de la última almoneda.
+Cuando no se hubiere fincado el remate en primera almoneda, las oficinas ejecutoras deberán fijar fecha para venta fuera de subasta después de haber celebrado y declarado la almoneda desierta, cuya convocatoria deberá difundirse diez días antes de la fecha señalada para tal fin. Asimismo, podrán vender fuera de subasta cuando se trate de bienes de fácil descomposición o deterioro, de materias inflamables o de semovientes y cuando después de celebrada la primera almoneda declarada desierta, se presente un comprador que satisfaga en efectivo el precio integro que no sea inferior a la base de la primera almoneda, en esta circunstancia, si ya ha sido publicada la convocatoria para venta fuera de subasta, se dictará acuerdo para dejar sin efecto la citada convocatoria.
 
-Cuando se trate de bienes raíces o de bienes inmuebles que habiendo salido a subasta por lo menos en una almoneda y no se hubieren presentado postores, las oficinas ejecutoras solicitarán de la Secretaría de Finanzas y Administración autorización para su venta, al nuevo comprador.
+También procederá la venta fuera de subasta, cuando el embargado señale al presunto comprador y acepte el precio que dicho comprador proponga, siempre que lo que se pague de contado cubra cuando menos el valor que se haya señalado.
 
-También procederá la venta fuera de subasta, cuando el embargado señale al presunto comprador y acepte el precio que dicho comprador proponga, siempre que lo que se pague de contado cubra cuando menos el valor que se haya señalado a los bienes embargados.
+Si no se fincara el remate en venta fuera de subasta, se considerará que el bien fue enajenado en un 50 % del valor del avalúo, asentándose como dación el pago para el efecto de que la autoridad pueda adjudicárselo, enajenarlo o donarlo para obras o servicios públicos, o instituciones asistenciales o de beneficencia autorizadas conforme a las leyes de la materia.
 
 ###### ARTICULO 194.
 
@@ -3226,3 +3268,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día primero de enero del añ
 SEGUNDO.- Para efectos de dar cumplimiento al Dictamen Fiscal Estatal 2008, se prorroga la vigencia de los avisos oficiales, y Cuadernillo del Dictamen para el cumplimiento de la presentación del Dictamen Fiscal Estatal, publicadas en el Periódico Oficial del Estado de Guerrero No. 77 de fecha 26 de septiembre de 2006.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil diez.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general y efectos legales procedentes.
