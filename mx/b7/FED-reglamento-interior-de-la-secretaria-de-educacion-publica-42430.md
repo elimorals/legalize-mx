@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-42430
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-21"
-last_updated: "2006-10-11"
+last_updated: "2009-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42430&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-20"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de enero de 2005.
 
@@ -57,9 +57,13 @@ V. Unidad de Planeación y Evaluación de Políticas Educativas;
 
 VI. Unidad de Coordinación Ejecutiva;
 
-VII. Dirección General de Comunicación Social;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
 
-VIII. Dirección General de Asuntos Jurídicos;
+VII. Unidad de Asuntos Jurídicos;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+VIII. Dirección General de Comunicación Social;
 
 IX. Coordinación General de Oficinas de Servicios Federales de Apoyo a la Educación;
 
@@ -163,7 +167,9 @@ El Secretario, para la mejor distribución y desarrollo del trabajo, podrá:
 
 I. Conferir aquellas facultades que sean delegables a servidores públicos subalternos, sin perjuicio de su ejercicio directo, expidiendo los acuerdos relativos que deberán ser publicados en el Diario Oficial de la Federación, y
 
-II. Autorizar por escrito a servidores públicos subalternos para que realicen actos y suscriban documentos que formen parte del ejercicio de sus facultades delegables. Dichas autorizaciones deberán registrarse en la Dirección General de Asuntos Jurídicos.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+II. Autorizar por escrito a servidores públicos subalternos para que realicen actos y suscriban documentos que formen parte del ejercicio de sus facultades delegables. Dichas autorizaciones deberán registrarse en la Unidad de Asuntos Jurídicos.
 
 ###### ARTÍCULO 5.
 
@@ -179,7 +185,9 @@ IV. Refrendar, en términos del artículo 92 de la Constitución Política de lo
 
 V. Dar cuenta al Honorable Congreso de la Unión, en términos del artículo 93 de la Constitución Política de los Estados Unidos Mexicanos, del estado que guardan los asuntos competencia de la Secretaría;
 
-VI. Representar al Presidente de la República en los juicios de amparo, en los términos de los artículos 19 de la Ley de Amparo y 14 de la Ley Orgánica de la Administración Pública Federal, así como en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y su Ley reglamentaria, en los casos en que lo determine el titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el presente Reglamento;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+VI. Representar al Presidente de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine el titular del Ejecutivo Federal, pudiendo ser suplido en términos del artículo 52 del presente Reglamento;
 
 VII. Aprobar la organización y funcionamiento de la Secretaría, así como adscribir las direcciones generales y demás unidades administrativas previstas en el presente Reglamento;
 
@@ -435,13 +443,17 @@ VIII. Coordinar sus actividades con las demás direcciones generales o unidades 
 
 IX. Firmar y notificar los acuerdos de trámite, las resoluciones o acuerdos de las autoridades superiores y aquellos que se emitan con fundamento en las atribuciones que les correspondan;
 
-X. Autorizar por escrito, conforme a las necesidades del servicio y de acuerdo con su superior jerárquico, a los servidores públicos subalternos para que, previo registro de dicha autorización en la Dirección General de Asuntos Jurídicos, firmen documentación relacionada con los asuntos que competan a la dirección general o unidad administrativa a su cargo;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+X. Autorizar por escrito, conforme a las necesidades del servicio y de acuerdo con su superior jerárquico, a los servidores públicos subalternos para que, previo registro de dicha autorización en la Unidad de Asuntos Jurídicos, firmen documentación relacionada con los asuntos que competan a la dirección general o unidad administrativa a su cargo;
 
 XI. Proporcionar, de conformidad con los lineamientos de las unidades administrativas competentes de la Secretaría, la información, datos, cooperación o asesoría técnica que les sea requerida por otras dependencias y entidades de la administración pública federal o por unidades administrativas de la propia Secretaría;
 
 XII. Incorporar a la base de datos correspondiente las incidencias del personal bajo su responsabilidad que, en los términos de la normatividad respectiva, permitan efectuar el pago de remuneraciones de acuerdo a su asignación presupuestal y a los analíticos de plazas-horas-puestos, aprobados por la Dirección General de Administración Presupuestal y Recursos Financieros;
 
-XIII. Imponer, previa la dictaminación de la Dirección General de Asuntos Jurídicos, de conformidad con las Condiciones Generales de Trabajo y las políticas que dicte el Secretario, las sanciones laborales a que se haga acreedor el personal adscrito a la dirección general o unidad administrativa a su cargo;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+XIII. Imponer, las sanciones laborales a que se haga acreedor el personal adscrito a la dirección general o unidad administrativa a su cargo, en los términos previstos en las Condiciones Generales de Trabajo, previo dictamen que emita la Unidad de Asuntos Jurídicos;
 
 XIV. Expedir copias certificadas de las constancias que obren en los archivos de la unidad administrativa a su cargo, previo pago de los derechos correspondientes, excepto cuando deban ser exhibidas en procedimientos judiciales o contencioso-administrativos y, en general, para cualquier proceso o averiguación, y
 
@@ -477,15 +489,41 @@ XI. Diseñar y producir materiales informativos y de difusión para radio, telev
 
 XII. Gestionar, promover y regular la transmisión por radio y televisión de materiales informativos y de difusión de la Secretaría, de los órganos desconcentrados y de las entidades paraestatales que lo requieran.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 13.
 
-Corresponde a la Dirección General de Asuntos Jurídicos el ejercicio de las siguientes atribuciones:
+Corresponde a la Unidad de Asuntos Jurídicos el ejercicio de las siguientes atribuciones:
 
 I. Proponer, aplicar y evaluar las políticas de la Secretaría en materia jurídica;
 
-II. Representar legalmente al Secretario, a la Secretaría, a sus servidores públicos y a sus unidades administrativas en asuntos jurisdiccionales, contencioso-administrativos y ante toda clase de autoridades administrativas y judiciales, en los procesos o procedimientos de toda índole, cuando se requiera su intervención y para absolver posiciones, así como atender los asuntos de orden jurídico que le correspondan a la Secretaría. El Director General de Asuntos Jurídicos mediante oficio podrá conferir dicha representación en servidores públicos subalternos y sustituir o revocar dichas facultades;
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
 
-III. Formular los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, órdenes y demás disposiciones jurídicas relativas a los asuntos competencia de las unidades administrativas y órganos desconcentrados de la Secretaría y de las entidades paraestatales coordinadas por ella, así como revisar todos los que se relacionen con la esfera de competencia de la propia Dependencia, conforme a las políticas que establezca el Secretario;
+I bis. Asesorar jurídicamente a la Secretaría, coordinar y participar en las actividades jurídicas de las unidades administrativas de la misma, sin perjuicio de las facultades conferidas específicamente a otras unidades administrativas en este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+I ter. Emitir opinión, escuchando en su caso a las áreas técnicas correspondientes, respecto de ordenamientos que corresponda firmar o refrendar al Secretario, así como de los que tengan relación con las materias competencia de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+II. Representar legalmente a la Secretaría y a sus unidades administrativas, así como al Secretario, Subsecretarios, Oficial Mayor y demás servidores públicos de esta Dependencia, en asuntos jurisdiccionales; contencioso-administrativos y ante toda clase de autoridades administrativas y judiciales, en los procesos o procedimientos de toda índole, cuando se requiera su intervención y para absolver posiciones, así como atender los asuntos de orden jurídico que le competa a la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+II bis. Conferir, mediante oficio, la representación legal referida en el párrafo anterior, en servidores públicos subalternos y, en su caso sustituir o revocar dichas representaciones;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+II ter. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría de Educación Pública representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+II quáter. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de Educación Pública represente al Presidente de la República;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+III. Coordinar al interior de la Dependencia la formulación y revisión de los anteproyectos y proyectos de iniciativas de leyes o decretos, así como de reglamentos, decretos, acuerdos y demás disposiciones de observancia general en las materias que son de la competencia de la Secretaría o del sector coordinado por ésta, conforme a los lineamientos que determine el Secretario;
 
 IV. Desahogar las consultas de carácter jurídico que le formulen los titulares de las unidades administrativas y órganos desconcentrados de la Secretaría, así como promover la coordinación con las entidades paraestatales agrupadas en el sector de la Secretaría a efecto de apoyar la prestación permanente de los servicios jurídicos de las mismas;
 
@@ -501,7 +539,17 @@ IX. Dictaminar la aplicación de las sanciones de carácter laboral a que se hag
 
 X. Representar al Secretario en los procedimientos de aplicación de sanciones laborales a que se haga acreedor el personal adscrito al Órgano Interno de Control;
 
-XI. Atender las resoluciones que pronuncien las autoridades jurisdiccionales, exigiendo su cumplimiento a las unidades administrativas de la Secretaría y prestando a éstas la asesoría necesaria; rendir los informes que requiera la Comisión Nacional de los Derechos Humanos; coadyuvar en la defensa de los juicios promovidos en el extranjero en que sean parte las entidades de la administración pública paraestatal coordinadas por la Secretaría;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+XI. Atender las resoluciones que pronuncien las autoridades jurisdiccionales, exigiendo su cumplimiento a los servidores públicos responsables de las unidades administrativas de la Secretaría, dando a éstos la asesoría necesaria;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+XI bis. Coadyuvar en la defensa de los juicios promovidos en el extranjero en que sean parte las entidades de la administración pública paraestatal coordinadas por la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+XI ter. Coordinar e integrar de conformidad con la información que corresponda proporcionar a las diversas unidades administrativas y a la Administración Federal de Servicios Educativos en el Distrito Federal, los informes y demás requerimientos que deban remitirse a la Comisión Nacional de Derechos Humanos;
 
 XII. Autenticar, cuando sea procedente, las firmas de los servidores públicos de la Secretaría asentadas en los documentos que se expidan con motivo del ejercicio de sus atribuciones;
 
@@ -513,7 +561,9 @@ XV. Substanciar y resolver los procedimientos administrativos de nulidad, revoca
 
 XVI. Expedir copias certificadas de las constancias que obren en los archivos de la Secretaría cuando deban ser exhibidas en procedimientos judiciales o contencioso-administrativos y, en general, para cualquier proceso, procedimiento o averiguación;
 
-XVII. Formular los proyectos de convenios, contratos y demás actos consensuales en los que intervenga la Secretaría, de acuerdo con los requerimientos de las unidades administrativas correspondientes; asesorar a las entidades paraestatales coordinadas por ella cuando lo soliciten, en la preparación de proyectos de dicha especie y llevar el registro de los actos aludidos una vez formalizados;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+XVII. Dictaminar los proyectos de convenios y contratos que, en su caso, deban suscribir los servidores públicos de la Secretaría, en el ejercicio de sus funciones, y llevar un registro de dichos instrumentos jurídicos;
 
 XVIII. Proponer al Secretario la normatividad general en materia de delegación y autorización para ejercer atribuciones;
 
@@ -525,9 +575,21 @@ XXI. Llevar el registro de las personas acreditadas para efectuar trámites ante
 
 XXII. Remitir para su publicación en el Diario Oficial de la Federación las disposiciones y lineamientos generales de la Secretaría y del sector educativo que así lo ameriten, así como difundir los acuerdos del Secretario que no se divulguen por dicho órgano oficial;
 
-XXIII. Otorgar o negar, dentro del ámbito de competencia de la Secretaría, las autorizaciones a que se refiere el artículo 40 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
 
-XXIV. Auxiliar y asesorar a las unidades administrativas de la Secretaría, respecto de la substanciación y resolución de los procedimientos por los que se revoque la autorización o se retire el reconocimiento de validez oficial a los particulares para impartir estudios.
+XXIII. Otorgar o negar, dentro del ámbito de competencia de la Secretaría, las autorizaciones a que se refiere el artículo 40 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+XXIV. Auxiliar y asesorar a los servidores públicos responsables de las unidades administrativas de la Secretaría, respecto de la substanciación y resolución de los procedimientos por los que se revoque la autorización o se retire el reconocimiento de validez oficial a los particulares para impartir estudios, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+XXV. Formar parte de la Comisión de Estudios Jurídicos del Gobierno Federal.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+Para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, el Titular de la Unidad de Asuntos Jurídicos, podrá auxiliarse, entre otros, por los Directores de Procesos Jurídico Administrativos, de Normatividad y Consulta, de Asuntos Laborales, de Proyectos Jurídicos Especiales, y Jurídico de Apoyo en Adquisiciones, Obra Pública y Servicios, así como por los subdirectores y jefes de departamento que de dicha Unidad dependan.
 
 ###### ARTÍCULO 14.
 
@@ -837,7 +899,9 @@ VIII. Registrar la creación de los Colegios de Profesionistas y la de sus Feder
 
 IX. Participar en la instrumentación de medidas que tiendan a elevar la calidad de los servicios profesionales;
 
-X. Comunicar a la Dirección General de Asuntos Jurídicos las conductas presumiblemente delictivas o las infracciones previstas en la Ley Reglamentaria del Artículo 5 Constitucional relativo al Ejercicio de las Profesiones en el Distrito Federal, a efecto de que se presenten las querellas y denuncias que correspondan, y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+X. Comunicar a la Unidad de Asuntos Jurídicos las conductas presumiblemente delictivas o las infracciones previstas en la Ley Reglamentaria del Artículo 5o. Constitucional, Relativo al Ejercicio de las Profesiones en el Distrito Federal, a efecto de que se presenten las querellas y denuncias que correspondan, y
 
 XI. Proponer la adopción de medidas de coordinación que permitan uniformar las normas a que deba sujetarse el ejercicio profesional en toda la República y promover la distribución geográfica y por rama de los profesionales conforme a las necesidades del país.
 
@@ -1211,7 +1275,9 @@ Corresponde a la Dirección General de Personal el ejercicio de las siguientes a
 
 I. Proponer normas para regular el sistema de administración y desarrollo del personal de la Secretaría, difundir las vigentes y vigilar su cumplimiento;
 
-II. Vigilar, en coordinación con la Dirección General de Asuntos Jurídicos, la observancia de las Condiciones Generales de Trabajo y de las específicas correspondientes, así como del Reglamento de Escalafón y las normas de ingreso y promoción del personal;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+II. Vigilar, en coordinación con la Unidad de Asuntos Jurídicos, la observancia de las Condiciones Generales de Trabajo y de las específicas correspondientes, así como del Reglamento de Escalafón y las normas de ingreso y promoción del personal;
 
 III. Proponer, conforme a las políticas y a las normas relativas, las estructuras y montos de las remuneraciones del personal de la Secretaría y del sector educativo e implementar los aprobados;
 
@@ -1229,7 +1295,9 @@ IX. Dar seguimiento a las acciones e incidencias propias de las relaciones labor
 
 X. Establecer criterios, políticas generales y programas de prevención en materia laboral respecto de las unidades administrativas y órganos desconcentrados de la Secretaría;
 
-XI. Vigilar, en coordinación con las demás unidades administrativas competentes, el cumplimiento de las disposiciones laborales y concertar las acciones necesarias para ello con la Dirección General de Asuntos Jurídicos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+XI. Vigilar, en coordinación con las demás unidades administrativas competentes, el cumplimiento de las disposiciones laborales y concertar las acciones necesarias para ello con la Unidad de Asuntos Jurídicos;
 
 XII. Dictaminar la vigencia o prescripción del derecho del personal de la Secretaría para efectuar el cobro de remuneraciones omitidas;
 
@@ -1345,7 +1413,9 @@ X. Supervisar el establecimiento y operación de los servicios de seguridad en l
 
 XI. Coordinar el establecimiento y operación de los programas de protección civil en las unidades administrativas de la Secretaría y asesorar en la materia a los planteles en que se imparte educación de los tipos medio superior y superior, así como a las entidades del sector educativo;
 
-XII. Tramitar, en coordinación con la Dirección General de Asuntos Jurídicos, los contratos de obra, adquisiciones, arrendamientos y de prestación de servicios de la Secretaría, así como realizar los trámites necesarios ante las autoridades competentes y las instituciones respectivas para recuperar las garantías otorgadas por proveedores y contratistas, y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+XII. Tramitar, en coordinación con la Unidad de Asuntos Jurídicos, los contratos de obra, adquisiciones, arrendamientos y de prestación de servicios de la Secretaría, así como realizar los trámites necesarios ante las autoridades competentes y las instituciones respectivas para recuperar las garantías otorgadas por proveedores y contratistas, y
 
 XIII. Vigilar que las obras de construcción, reparación, adaptación o mantenimiento se realicen conforme a las especificaciones de los contratos y proyectos respectivos.
 
@@ -1535,7 +1605,9 @@ VII. Desarrollar y mantener actualizados, con el apoyo de las unidades administr
 
 VIII. Capacitar y asesorar a las Coordinaciones de Carrera Magisterial en las entidades federativas, difundir el marco normativo y los resultados del Programa e intercambiar la información que propicie su mejor desarrollo, y
 
-IX. Coadyuvar con la Dirección General de Asuntos Jurídicos en la substanciación de los procedimientos judiciales y administrativos que se susciten con motivo de las resoluciones que versen sobre incorporaciones o promociones en el Programa Nacional de Carrera Magisterial y, en general, controversias que se presenten en relación con la interpretación y cumplimiento de las normas que rigen dicho Programa.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+IX. Coadyuvar con la Unidad de Asuntos Jurídicos en la substanciación de los procedimientos judiciales y administrativos que se susciten con motivo de las resoluciones que versen sobre incorporaciones o promociones en el Programa Nacional de Carrera Magisterial y, en general, controversias que se presenten en relación con la interpretación y cumplimiento de las normas que rigen dicho Programa.
 
 ###### ARTÍCULO 44.
 
@@ -1617,9 +1689,11 @@ Al frente de cada uno de los órganos internos de control que se mencionan en el
 
 ### CAPÍTULO XI. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 52.
 
-El Secretario será suplido en sus ausencias por los subsecretarios de Educación Superior, de Educación Media Superior, de Educación Básica, por el Oficial Mayor o por el Director General de Asuntos Jurídicos, en el orden indicado.
+El Secretario será suplido en sus ausencias por los subsecretarios de Educación Superior, de Educación Media Superior, de Educación Básica, por el Oficial Mayor o por el titular de la Unidad de Asuntos Jurídicos, en el orden indicado.
 
 ###### ARTÍCULO 53.
 
@@ -1628,6 +1702,10 @@ Las ausencias del Titular del Órgano Interno de Control, así como las de los t
 ###### ARTÍCULO 54.
 
 Las ausencias de los Subsecretarios y del Oficial Mayor serán suplidas por los titulares de las direcciones generales y demás unidades administrativas que de ellos dependan, en los asuntos de sus respectivas competencias.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+
+ARTÍCULO 54 BIS.- Las ausencias del titular de la Unidad de Asuntos Jurídicos serán suplidas por los Directores de Procesos Jurídico Administrativos, de Normatividad y Consulta, de Asuntos Laborales, de Proyectos Jurídicos Especiales y Jurídico de Apoyo en Adquisiciones, Obra Pública y Servicios. Las ausencias de los Directores adscritos a la Unidad de Asuntos Jurídicos, serán suplidas por los Subdirectores que de ellos dependan. Las ausencias de los Subdirectores adscritos a las Direcciones de la Unidad de Asuntos Jurídicos, serán suplidas por los Jefes de Departamento que de ellos dependan.
 
 ###### ARTÍCULO 55.
 
@@ -1668,3 +1746,11 @@ SEGUNDO.- Los recursos humanos, financieros y materiales asignados a la Direcci�
 TERCERO.- Las acciones que se deriven de la reforma a que se refiere el presente Decreto, se sujetarán al presupuesto aprobado por la H. Cámara de Diputados para la Secretaría de Educación Pública en el ejercicio fiscal 2006.
 
 CUARTO.- Los derechos de los trabajadores serán respetados conforme a la ley.
+
+D.O.F. 29 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que se hacen a la Dirección General de Asuntos Jurídicos en decretos, reglamentos, acuerdos, órdenes, reglas, manuales, circulares, lineamientos y demás disposiciones se entenderán hechas a la Unidad de Asuntos Jurídicos.
+
+TERCERO.- El cambio de denominación de la Dirección General de Asuntos Jurídicos a Unidad de Asuntos Jurídicos, no implica la creación de una Unidad Administrativa nueva.
