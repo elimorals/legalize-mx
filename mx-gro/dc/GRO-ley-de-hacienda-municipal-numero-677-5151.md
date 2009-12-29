@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2007-12-28"
+last_updated: "2009-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -145,15 +145,57 @@ Las personas que adquieran predios urbanos, suburbanos, rústicos o con el régi
 
 Se tendrá como base del impuesto:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- El valor catastral del predio y de las construcciones, apartamento o local en condominio, los del régimen de tiempo compartido y multipropiedad, determinado por la autoridad catastral municipal de acuerdo con los lineamientos previstos por la Ley de Catastro Municipal, el Reglamento de Catastro Municipal y el Manual de Valuación Catastral de los Municipios.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2004)</small>
+I.- El valor catastral del predio y de las construcciones, apartamento o local en condominio, los del régimen de tiempo compartido y multipropiedad, conforme a las disposiciones establecidas en esta Ley, en la Ley de Catastro Municipal y su Reglamento.
 
-II.- El valor de operación, en caso de que el predio sea objeto de contrato, convenio o de algún acto jurídico y siempre que el valor resulte superior al valor registrado o determinado conforme a la fracción anterior; salvo en los casos traslativos de dominio donde el bien inmueble sea para vivienda de interés social, la base del impuesto será el valor catastral determinado, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- El valor fiscal registrado en los padrones de contribuyentes.
+II.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+III.- El valor catastral determinado y declarado por los contribuyentes, a más tardar el último día del mes de febrero de cada ejercicio fiscal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+IV.- Así mismo, el valor catastral deberá ser determinado y declarado por los contribuyentes, dentro de los dos meses siguientes a la fecha en que ocurra alguna modificación de los predios o en su caso de las construcciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+V.- Los contribuyentes determinarán y declararán el valor catastral en los formatos autorizados por las autoridades correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+VI.- Para la determinación y declaración del valor catastral, la autoridad catastral municipal deberá proporcionar a los contribuyentes, los valores catastrales unitarios de suelo y construcción y demás información catastral, existente en el área de catastro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+VII.- Si el contribuyente acepta tanto los valores como los datos proporcionados por la autoridad catastral, así como la determinación catastral y la liquidación correspondiente del impuesto predial, podrá elegir por efectuar el pago, teniéndose por cumplida la obligación de su declaración.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Cuando el contribuyente no acepte los valores y datos proporcionados por la autoridad catastral, podrá interponer los recursos establecidos en la Ley de Catastro Municipal y su Reglamento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+IX.- Si el contribuyente incumple con lo establecido en las fracciones I, III y IV del presente artículo, o bien los valores declarados y determinados sean inferiores a los valores catastrales, la Dirección o Área de Catastro Municipal procederá a determinar el valor catastral del inmueble, aplicando las tablas de valores unitarios de suelo y construcción aprobados por el H. Congreso del Estado, para el ejercicio fiscal que corresponda.
 
 ###### ARTICULO 8o.
 
@@ -209,7 +251,9 @@ VIII.- Los predios edificados propiedad de pensionados y jubilados de nacionalid
 
 En las mismas condiciones gozarán de este beneficio las personas mayores de 60 años inscritas en el Instituto Nacional de la Senectud, madres jefas de familia, padres solteros y personas con capacidades diferentes.
 
-Para el caso de que exista valuación o revaluación de predios, la base para el cobro del impuesto corresponderá al 80% del valor catastral determinado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(DEROGADO TERCER PARRAFO, P.O 29 DE DICIEMBRE DE 2009).
 
 En ningún caso la contribución a pagar será menor de un día de salario mínimo vigente con que se inicie el ejercicio fiscal en cualquiera de los Municipios del Estado de Guerrero.
 
@@ -365,9 +409,11 @@ BIS.- Es objeto de este impuesto la adquisición de bienes inmuebles que realice
 
 Para los efectos de este capítulo, se entiende por adquisición la que se derive de:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase ele asociaciones o sociedades. La sociedad conyugal no estará comprendida en lo que refiere la presente sección.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades.
 
 II.- La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
 
@@ -1658,3 +1704,13 @@ P.O. 28 DE DICIEMBRE DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+P.O. 29 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil diez
+
+###### ARTÍCULO SEGUNDO.
+
+·Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
