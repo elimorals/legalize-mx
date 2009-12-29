@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-benemeritos-del-estado-de-jalisco-antes-ley-para-20360"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-13"
-last_updated: "2001-03-13"
+last_updated: "2009-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA DECLARAR Y HONRAR LA MEMORIA DE LOS BENEMERITOS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Jalisco, el martes 13 de marzo de 2001.
 
@@ -95,11 +95,15 @@ b) Que no hayan nacido dentro del territorio del Estado, pero que habiendo tenid
 
 c) Que habiendo nacido dentro del Estado y ejecutado su labor meritoria fuera del Estado, ésta haya redundado en beneficio directo de Jalisco.
 
-> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+Con independencia de que se trasladen o no, en los términos de la presente ley, los restos de un Benemérito a la Rotonda erigida en la "Plaza de los Jaliscienses Ilustres", dicha persona será honrada con la colocación de escultura conmemorativa en dicha plaza o, en su caso, mediante la inscripción de su nombre, en letras doradas, en las columnas de la citada Rotonda.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 7.
 
-El honor de inscribir el nombre de alguna persona en letras de oro en el muro central del Salón de Sesiones del Congreso del Estado, será exclusivo de los Jaliscienses declarados Beneméritos en grado Heroico, en los términos de la presente Ley.
+El honor de inscribir el nombre de alguna persona en letras doradas en el muro central del Salón de Sesiones del Congreso del Estado, se realizará de conformidad al decreto aprobado por la Asamblea Legislativa, en los términos de lo dispuesto por la presente ley.
 
 > <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2004)</small>
 
@@ -109,9 +113,13 @@ La rendición de homenajes a los Jaliscienses Beneméritos que se mencionan en l
 
 ### CAPITULO III. De la integración del expediente y la declaración de Beneméritos
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 9.
 
-Una vez presentada ante el pleno del Congreso del Estado el Congreso del Estado (sic) la iniciativa que declare Benemérito de Jalisco a una persona, dicha iniciativa será turnada, de manera conjunta, a las Comisiones de Cultura y de Educación del Congreso, las cuales deberán integrar un expediente previo a su estudio y dictaminación, pudiéndose solicitar la colaboración de los proponentes.
+Una vez presentada ante el Congreso del Estado la iniciativa que declare Benemérito de Jalisco a una persona, dicha iniciativa será turnada, de manera conjunta, a las Comisiones de Cultura y de Educación del Congreso, las cuales deberán integrar un expediente previo a su estudio y dictaminación, pudiéndose solicitar la colaboración de los proponentes.
+
+Los ayuntamientos de la entidad podrán presentar las iniciativas a que se refiere el párrafo anterior del presente artículo.
 
 ###### Artículo 10.
 
@@ -141,9 +149,13 @@ Las comisiones dictaminadoras deberán solicitar el beneplácito de los descendi
 
 En caso de que la mayoría de los descendientes en línea recta de una persona a la que se pretende declarar Benemérito, se opongan al traslado y depósito de los restos mortales en alguna de las rotondas que en esta Ley se mencionan, así se establecerá en el dictamen y se respetará la decisión de los familiares, sin que ello impida la declaración de Benemérito, en caso de merecer una persona, tal honor.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 14.
 
-Una vez aprobado el Decreto por el Pleno del Congreso del Estado, en los términos de su Ley Orgánica y, después de la publicación del decreto, El Gobernador del Estado adoptará las medidas que sean necesarias para efectuar con mayor solemnidad el traslado de los restos, desde el lugar en donde estuvieren inhumados, hasta su instalación definitiva en la rotonda que corresponda.
+Una vez aprobado el Decreto por el Congreso del Estado, en los términos de su Ley Orgánica y, después de la publicación del decreto, el Gobernador del Estado adoptará las medidas que sean necesarias para efectuar con mayor solemnidad el traslado de los restos, desde el lugar en donde estuvieren inhumados, hasta su instalación definitiva en la Rotonda erigida en la "Plaza de los Jaliscienses Ilustres".
+
+De igual forma, se deberá notificar al Ayuntamiento de Guadalajara la declaratoria de Benemérito, a fin de que coadyuve con el Ejecutivo del Estado en las acciones a que se refiere el párrafo anterior, así como para la colocación de la escultura conmemorativa correspondiente, o en su caso, mediante la inscripción de su nombre, en letras doradas, en las columnas de la citada Rotonda.
 
 ### CAPITULO IV. De la Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco
 
@@ -151,25 +163,33 @@ Una vez aprobado el Decreto por el Pleno del Congreso del Estado, en los términ
 
 Con el objeto de rendir homenaje a una o varias de las personas en favor de quienes, en los términos de esta Ley, se consideren Beneméritas funcionará una Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 16.
 
-La Comisión Para honrar la Memoria de los Beneméritos del Estado de Jalisco será desconcentrada de la Secretaría de Cultura del Poder Ejecutivo del Estado y constará de tres miembros nombrados por el gobernador del Estado: Un representante del Gobernador, quien será el Presidente de la Comisión; un representante de la Secretaría de Educación del Estado; un representante de la Secretaría de Cultura del Estado; y un representante de cada una de las Universidades Públicas asentadas en el Estado.
+La Comisión para Honrar la Memoria de los Beneméritos del Estado de Jalisco será desconcentrada de la Secretaría de Cultura del Poder Ejecutivo del Estado y constará de tres miembros nombrados por el gobernador del Estado: Un representante del Gobernador, quien será el Presidente de la Comisión; un representante de la Secretaría de Educación del Estado; un representante de la Secretaría de Cultura del Estado; un representante de cada una de las Universidades Públicas asentadas en el Estado; y un edil representante del Ayuntamiento de Guadalajara.
 
-La Comisión, cuando lo considere necesario, podrá realizar consultas a las Asociaciones Civiles o personas físicas, que se encuentren vinculadas con los distintos casos que se le presente.
+La Comisión, cuando lo considere necesario, podrá realizar consultas a las personas físicas o jurídicas, que se encuentren vinculadas con los distintos casos que se le presente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 17.
 
 Las atribuciones de dicha Comisión serán las siguientes:
 
-I. Organizar los homenajes públicos con ocasión del depósito de los restos de cada una de las personas en favor de quienes, de acuerdo con la presente Ley, se discierna tal honor.
+I. Organizar los homenajes públicos con ocasión del depósito de los restos de cada una de las personas en favor de quienes, de acuerdo con la presente Ley, se discierna tal honor;
 
-II. Presentar ante las autoridades correspondientes toda clase de proyectos que tiendan, tanto a la mejor honra de la memoria de los Jaliscienses Beneméritos, como a la conservación y embellecimiento de los monumentos en que sus restos quedarán depositados.
+II. Presentar ante las autoridades estatales y municipales correspondientes, toda clase de proyectos que tiendan, tanto a la mejor honra de la memoria de los Jaliscienses Beneméritos, como a la conservación y embellecimiento de sus esculturas, así como de los monumentos en que sus restos quedarán depositados;
 
-III. Organizar visitas y homenajes públicos en que participen grupos de niños y jóvenes escolares, personalidades oficiales de los diversos municipios del Estado, Delegaciones o representaciones del Gobierno federal o de los estatales, o de instituciones y organizaciones Jaliscienses, nacionales o extranjeras.
+III. Organizar, en coordinación con el Ayuntamiento de Guadalajara, visitas y homenajes públicos en que participen grupos de niños y jóvenes escolares, personalidades oficiales de los diversos municipios del Estado, Delegaciones o representaciones del Gobierno federal o de los estatales, o de instituciones y organizaciones Jaliscienses, nacionales o extranjeras;
 
-IV. Emitir opinión, cuando para ello sea requerida por el Congreso del Estado, sobre la conveniencia o méritos para declarar Benemérito de Jalisco a determinada persona para promover que sus restos sean depositados en la Rotonda de los Jaliscienses Ilustres.
+IV. Emitir opinión, cuando para ello sea requerida por el Congreso del Estado, sobre la conveniencia o méritos para declarar Benemérito de Jalisco a determinada persona para promover que sus restos sean depositados en la Rotonda de los Jaliscienses Ilustres;
 
-V. Todas las demás que señalen esta Ley o su reglamento y las que, por disposición del Ejecutivo, haya de tomar a su cargo para el mejor cumplimiento de las finalidades de la presente Ley.
+V. Emitir opinión en torno a la colocación de las esculturas de los Beneméritos en la Rotonda erigida en la "Plaza de los Jaliscienses Ilustres", o en su caso, de la inscripción de su nombre, en letras doradas, en las columnas de la citada Rotonda;
+
+VI. Promover que se honre en el marco de la Rotonda erigida en la "Plaza de los Jaliscienses Ilustres", a la totalidad de los Beneméritos del estado de Jalisco así declarados, ya sea a través de la colocación de su escultura o en su caso, de la inscripción de su nombre, en letras doradas, en las columnas de la citada Rotonda, y
+
+VII. Todas las demás que señalen esta Ley o su reglamento y las que, por disposición del Ejecutivo, haya de tomar a su cargo para el mejor cumplimiento de las finalidades de la presente Ley.
 
 ## TRANSITORIOS
 
@@ -202,3 +222,9 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 DR. MAURICIO LIMÓN AGUIRRE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
