@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-catastro-municipal-del-estado-de-guerrero-numero-676-51
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2007-12-28"
+last_updated: "2009-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL CATASTRO MUNICIPAL DEL ESTADO DE GUERRERO NUMERO 676
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -237,6 +237,12 @@ BIS I.- El Gobierno del Estado a través de (sic) Secretaría de Fianzas y Admin
 
 BIS II.- Los Ayuntamientos municipales podrán solicitar al Gobierno del Estado a través de la Secretaría de Finanzas y Administración y de la Coordinación General de Catastro, material cartográfico y sistemas informáticos, con la finalidad de eficientar la actividad catastral y la administración del impuesto predial.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 5
+
+BIS III.- El Gobierno del Estado, podrá realizar de manera coordinada con los Ayuntamientos, la vinculación de la actividad catastral y del agua potable, para implementar los programas y acciones orientados a fortalecer la recaudación de ingresos propios, toda vez que ambos conceptos forman parte de los ingresos asignables que integran la fórmula para la distribución de participaciones federales a estados y municipios.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 6o.
@@ -267,9 +273,13 @@ VIII.- Obtener de las autoridades, dependencias o instituciones de carácter fed
 
 IX.- Proponer las reformas necesarias a la legislación catastral tendientes a mejorar el catastro.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+X.- Llevar a cabo los sistemas de valuación y revaluación masiva donde se integren: descripción de terminología cualitativa, valores unitarios de suelo y construcción; coeficientes de demérito e incrementos; así como mecanismos de adecuación al mismo sistema y reglamentación para su aplicación, que aprobadas por la autoridad competente, sirvan de base para determinar el valor catastral en forma masiva de la propiedad inmobiliaria.
+
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-X.- Las demás que señale esta Ley y el Reglamento de Catastro Municipal.
+XI.- Las demás que señale esta Ley y el Reglamento de Catastro Municipal.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
@@ -302,6 +312,10 @@ IV.- Valuación y revaluación de predios.
 V.- Deslindes catastrales.
 
 VI.- Expedición de copias certificadas de planos y documentos relativos a los predios.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+VII.- Registro Temporal de Contribuyentes de Predios, en calidad de posesionarios, de conformidad con lo establecido en el artículo 14 del Reglamento de la Ley de Catastro Municipal número 676, vigente.
 
 ###### ARTICULO 9o.
 
@@ -491,11 +505,11 @@ Dichas Tablas de Valores Unitarios deberán presentarse para su aprobación, ant
 
 Las Tablas de Valores Unitarios de Terreno y Construcción deberán ser del dominio público y surtirán efecto a partir de su publicación en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal y en un periódico de mayor circulación en el Municipio; en caso de que alguno de los Ayuntamientos de esta Entidad Federativa no cuente con Gaceta Municipal ni con periódicos locales, su publicación se efectuará únicamente por estrados, que se fijarán en lugares visibles de la Tesorería Municipal y de mayor concurrencia de la población.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 31.
 
-Aprobadas las Tablas de Valores Unitarios, la Dirección o Area de Catastro, procederá a la valuación y revaluación individual de los predios.
+Aprobadas las Tablas de Valores Unitarios de Suelo y Construcción, la Dirección o Área de Catastro, procederá a la valuación y revaluación individual o masiva de los predios.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -527,11 +541,11 @@ En los casos de edificaciones construidas bajo los regímenes de condominio, tie
 
 ### CAPITULO V. De las Obligaciones Catastrales
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 37.
 
-Todo propietario o poseedor de predios, tiene la obligación de manifestarlo en el primer mes de cada año a la Dirección o Area de Catastro Municipal, en las formas oficiales expedidas al efecto, y deberán anexar los documentos y planos que se indiquen en las mismas.
+Todo propietario o poseedor de predios, tiene la obligación de presentar su declaración y determinación del valor catastral, dentro de los primeros dos mese de cada año a la Dirección o Área de Catastro Municipal, en las formas oficiales expedidas al efecto, debiendo anexar los documentos que se indiquen en las mismas.
 
 ###### ARTICULO 37
 
@@ -541,11 +555,11 @@ BIS.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
 
 Los propietarios poseedores u ocupantes de los predios, quedan obligados a proporcionar las facilidades necesarias para permitir el levantamiento de las características físicas del predio, así como practicar deslindes, avalúos y demás labores catastrales.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 39.
 
-Las ampliaciones o modificaciones a las construcciones existentes, las nuevas construcciones, la fusión o división del terreno, deberán ser manifestadas por su propietario o poseedor a la Dirección o área del Catastro, dentro de los quince días hábiles siguientes a su terminación o modificación. Utilizando para ello las formas oficiales respectivas.
+Las ampliaciones o modificaciones a las construcciones existentes, las nuevas construcciones, la fusión o división del terreno, deberán ser manifestadas por su propietario o poseedor a la Dirección o Área de Catastro, dentro de los primeros sesenta días hábiles siguientes a su terminación o modificación. Utilizando para ello las formas oficiales respectivas.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -695,11 +709,17 @@ En los casos de fraccionamientos que se constituyan total o parcialmente sin la 
 
 ### CAPITULO VII. De las Notificaciones
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 54.
 
-La Dirección o Area del Catastro Municipal, notificará a los propietarios, poseedores o a los representantes legales toda clase de citatorios, acuerdos, resoluciones, avalúos y cualesquiera otras operaciones catastrales relacionadas con el inmueble, en el predio objeto de la operación en el caso de que esté construido o en el domicilio señalado por escrito para oír y recibir notificaciones, tratándose de terreno baldío, exceptuando lo que contempla la fracción I del artículo 23 de esta Ley, en cuyo caso la revaluación, determinada con base en las tablas de valores unitarios para terreno y construcción, surtirá todos sus efectos con la simple publicación de dichas tablas de valores, en los términos que señala el artículo 30 de la presente Ley.
+La Dirección o Área del Catastro Municipal, notificará de forma personal a los propietarios, poseedores o a los representantes legales toda clase de citatorios , acuerdos, resoluciones, avalúos y cualesquiera otras operaciones catastrales relacionadas con el inmueble, en el predio objeto de la operación en el caso de que esté construido o en el domicilio señalado por escrito para oír y recibir notificaciones, tratándose de terrenos baldíos la notificación surtirá sus efectos legales con la simple publicación de las tablas de valores unitarios de suelo y construcción, en el caso de llevarse a cabo la valuación y revaluación, en los términos que señala el artículo 30 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 54
+
+Bis.- En el caso de que se lleve a cabo la valuación o revaluación masiva de bienes inmuebles, la notificación será mediante edictos, efectuándose a través de una publicación en el Periódico Oficial del Estado, en un periódico de mayor circulación en el Estado, así como en la gaceta municipal correspondiente, surtiendo sus efectos legales con la simple publicación de las tablas de Valores unitarios de Suelo y Construcción, aprobadas por el H. Congreso del Estado.
 
 ###### ARTICULO 55.
 
@@ -906,6 +926,16 @@ P.O. 28 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor a partir del primero de enero del año dos mil ocho.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil diez.
 
 ###### ARTÍCULO SEGUNDO.
 
