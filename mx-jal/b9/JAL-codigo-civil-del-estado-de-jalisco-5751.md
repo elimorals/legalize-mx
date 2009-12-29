@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2009-10-24"
+last_updated: "2009-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2519,11 +2519,19 @@ XV. Haber cometido uno de los cónyuges un delito que no sea político y que sea
 
 XVI. Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, con fines no terapéuticos, cuando amenacen causar la ruina de la familia o constituyan un continuo motivo de desavenencia conyugal;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-XVII. Cometer un cónyuge contra la otra persona o los bienes del otro, un delito declarado por sentencia ejecutoria, o bien, un acto que seria punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que exceda de un año de prisión, y
+XVII. Cometer un cónyuge contra la otra persona o los bienes del otro, un delito declarado por sentencia ejecutoria, o bien, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la Ley una pena que exceda de un año de prisión;
 
-XVIII. El mutuo consentimiento.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+XVIII. El mutuo consentimiento, y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+XIX. La separación ininterrumpida de los cónyuges por más de dos años, sin causa justificada, cuyo lapso empieza a correr al momento mismo de la separación.
+
+Esta causal podrá ser invocada por cualquiera de los cónyuges, si transcurridos dos años de separados, quien teniendo el derecho de acción para invocar el divorcio por las causales previstas en las fracciones VIII y IX de este mismo artículo no lo ha hecho.
 
 ###### Art. 405.
 
@@ -2574,6 +2582,10 @@ El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en 
 ###### Art. 410.
 
 El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él y dentro de los seis meses siguientes al día en que hayan llegado a su conocimiento los hechos en que se funde la demanda, salvo que se funde en causales de tracto sucesivo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+Tratándose de las causales previstas en las fracciones VII, XII y XIX del artículo 404, el divorcio podrá ser demandado por cualquiera de los cónyuges.
 
 ###### Art. 411.
 
@@ -17982,3 +17994,7 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
 
 TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
+
+P.O. 29 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
