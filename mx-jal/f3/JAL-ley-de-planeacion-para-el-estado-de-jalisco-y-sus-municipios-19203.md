@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-planeacion-para-el-estado-de-jalisco-y-sus-municipios-19
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-19"
-last_updated: "2007-01-04"
+last_updated: "2009-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PLANEACION PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de Diciembre de 2000.
 
@@ -469,9 +469,11 @@ Si algún municipio no cuenta con un órgano propio de difusión, dentro de los 
 
 Aprobado el Plan Municipal de Desarrollo, o en su caso, sus actualizaciones o sustituciones, el ayuntamiento deberá enviar copias de éstos al Congreso del Estado, para los efectos de lo dispuesto por la fracción VII del artículo 42 de la ley que establece las bases generales de la administración pública municipal.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 48.
 
-El Plan Municipal y los programas que de él se deriven, serán obligatorios para toda la administración pública municipal en el ámbito de sus respectivas competencias, conforme a las disposiciones legales que resulten aplicables, a partir de su publicación.
+El Plan Municipal y los programas que de él se deriven, serán obligatorios a partir de su publicación para toda la administración pública municipal en el ámbito de sus respectivas competencias, conforme a las disposiciones reglamentarias municipales que resulten aplicables y, en su defecto, a lo dispuesto por esta ley.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
 
@@ -479,19 +481,17 @@ El Plan Municipal y los programas que de él se deriven, serán obligatorios par
 
 Los Ayuntamientos deberán observar el Plan Municipal de Desarrollo y los programas que de él se deriven como base para realizar los proyectos de Ley de Ingresos y de Presupuesto de Egresos.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 50.
 
-El Plan Municipal de Desarrollo y los programas que de él se deriven, se tendrá en principio una vigencia indefinida, con proyecciones, según sea el caso, a corto, mediano y largo plazo, debiendo ser evaluado y en su caso actualizado o sustituido conforme a lo establecido en esta ley y en sus disposiciones reglamentarias.
+El Plan Municipal de Desarrollo, así como los programas que de él se deriven, tendrá en principio una vigencia indefinida, con proyecciones a corto, mediano y largo plazo, debiendo ser evaluado y en su caso actualizado o sustituido conforme a lo establecido en esta ley y en las disposiciones reglamentarias municipales.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 51.
 
-El Plan Municipal y los programas que de él se deriven, deberán ser evaluados y, en su caso actualizados o sustituidos conforme a lo siguiente:
-
-I. Dentro de los seis primeros meses del inicio del periodo constitucional de la administración municipal que corresponda; y
-
-II. En el último semestre del tercer año de gobierno de la administración, en cuyo caso comprenderá todo el período constitucional.
+El Plan Municipal y los programas que de él se deriven, deberán ser evaluados y, en su caso, actualizados o sustituidos, dentro de los seis primeros meses del inicio del periodo constitucional de la administración municipal que corresponda, en cuyo caso comprenderá todo el período constitucional.
 
 ###### Artículo 52.
 
@@ -812,3 +812,7 @@ P.O. 4 DE ENERO DE 2007.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El reglamento de la Ley de Planeación para el Estado de Jalisco y sus Municipios deberá normar la periodicidad y formalidades para el funcionamiento del COPLADE en pleno y los Subcomités.
+
+P.O. 29 DE DICIEMBRE DE 2009.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
