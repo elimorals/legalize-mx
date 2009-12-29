@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-ascensos-y-recompensas-para-el-personal-de-la-571
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-03"
-last_updated: "2007-09-03"
+last_updated: "2009-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DE LA SECRETARIA DE SEGURIDAD PUBLICA -ANTES REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DE LA SECRETARIA DE SEGURIDAD CIUDADANA Y TRANSITO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON-
 
-REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DE LA SECRETARIA DE SEGURIDAD CIUDADANA Y TRANSITO
+REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE GUADALUPE, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 3 de septiembre de 2007.
 
@@ -35,17 +35,23 @@ ACUERDO 1
 
 Con fundamento en los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos 118 y 130 de la Constitución Política del Estado Libre y Soberano de Nuevo León; 26 inciso a), fracción VII; 27 fracción IV y 29 fracción IV de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León; 13 fracciones V y VI y 16 fracción VIII; 52 fracciones II incisos g) y h) y III incisos f) g) y h); 58 y 60 del Reglamento Interior del R. Ayuntamiento de Guadalupe N.L., se EXPIDE el REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DE LA SECRETARÍA DE SEGURIDAD CIUDADANA Y TRÁNSITO del Municipio de Guadalupe, Nuevo León, para quedar en la siguiente forma:
 
-REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DE LA SECRETARIA DE SEGURIDAD CIUDADANA Y TRANSITO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DE GUADALUPE, NUEVO LEÓN.
 
 ## Título primero
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto establecer las bases para conceder ascensos a los integrantes de la Secretaría de Seguridad Ciudadana y Tránsito de Guadalupe, Nuevo León.
+El presente Reglamento tiene por objeto establecer las bases conceder ascensos a los integrantes de la Secretaría de Seguridad Pública de Guadalupe, Nuevo León.
 
-Ascenso es el acto mediante el cual es conferido a un elemento del personal de la Secretaría de Seguridad Ciudadana y Tránsito el grado inmediato superior en el escalafón jerárquico.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+Ascenso es el acto mediante el cual es conferido a un elemento del personal de la Secretaría de Seguridad Pública el grado inmediato superior en el escalafón jerárquico.
 
 Obtenido el ascenso será expedida la constancia correspondiente.
 
@@ -61,9 +67,13 @@ Los ascensos tienen como finalidad:
 
 I.- Cubrir las vacantes que se generen en los cuadros orgánicos de las unidades;
 
-II.- Asegurar la calidad de los mandos operativos de la Secretaría de Seguridad Ciudadana y Tránsito;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-III.- Establecer y mantener un desarrollo armónico y profesional de los elementos de la Secretaria de Seguridad Ciudadana y Tránsito.
+II.- Asegurar la calidad de los mandos operativos de la Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+III.- Establecer y mantener un desarrollo armónico y profesional de los elementos de la Secretaría de Seguridad Pública.
 
 ###### Artículo 4.
 
@@ -111,15 +121,19 @@ Para acreditar la antigüedad en la corporación requerirá, un oficio emitido p
 
 La conducta de los policías y tránsitos:
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 I.- Conducta Profesional:
 
-Será acreditado para los efectos de este Reglamento, con la hoja de desempeño personal expedida por el Secretario de Seguridad Ciudadana y Tránsito
+Será acreditado para los efectos de este Reglamento, con la hoja de desempeño personal expedida por el Secretario de Seguridad Pública.
 
-Cada año se emitirá una hoja de desempeño personal de cada elemento de la Secretaría, independientemente del grado o puesto que desempeñe, misma que será firmada por el Secretario de Seguridad Ciudadana y Tránsito, certificada por el Secretario de Ayuntamiento y el Presidente de la Comisión de Honor y Justicia.
+Cada año se emitirá una hoja de desempeño personal de cada elemento de la Secretaría, independientemente del grado o puesto que desempeñe, misma que será firmada por el Secretario de Seguridad Pública, certificada por el Secretario de Ayuntamiento y el Presidente de la Comisión de Honor y Justicia.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 II.- Conducta Ciudadana:
 
-Será acreditada a través de una investigación que se realizara con los vecinos por personal autorizado y designado por el Secretario de Seguridad Ciudadana y Tránsito.
+Será acreditada a través de una investigación que se realizara con los vecinos por personal autorizado y designado por el Secretario de Seguridad Pública.
 
 ###### Artículo 7.
 
@@ -129,9 +143,11 @@ I.- Cursos de adiestramiento y capacitación organizados para tal efecto por la 
 
 II.- Mediante examen de conocimientos, aptitudes y destrezas a través de una guía de estudios que se entregará a todo aquel que tenga el derecho de ser promovido y el material de estudio correspondiente para la jerarquía que se desee alcanzar, donde se fije claramente las fechas horas y lugares de examen.
 
+REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2009)
+
 ###### Artículo 8.
 
-El examen médico será practicado por médicos autorizados por la Secretaria de Seguridad Ciudadana y Tránsito que comprenderá:
+El examen médico será practicado por médicos autorizados por la Secretaría de Seguridad Pública que comprenderá:
 
 I.- Examen de salud.
 
@@ -153,7 +169,9 @@ IV.-Fuerza.
 
 El examen psicológico comprenderá la aplicación de las pruebas psicológicas necesarias para determinar la capacidad y aptitud para desempeñarse en el nuevo grado.
 
-PROMOCIONES PARA SEGURIDAD CIUDADANA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+PROMOCIONES PARA SEGURIDAD PÚBLICA
 
 ###### Artículo 11.
 
@@ -267,7 +285,9 @@ IV.- Aprobar el examen de aptitud física.
 
 V.- Aprobar el examen psicológico.
 
-VI.- Ser propuesto por el Director de Policía al Secretario de Seguridad Ciudadana y Tránsito y aprobado por este.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+VI.- Ser propuesto por el Director de Policía al Secretario de Seguridad Pública y aprobado por este
 
 VII.- Aprobar el examen de Control de Confianza, el cual será aplicado por peritos en la materia debidamente certificados.
 
@@ -405,17 +425,25 @@ VII.- Aprobar el examen de Control de Confianza, el cual será aplicado por peri
 
 VIII.- Aprobar el examen de Control de Confianza, el cual será aplicado por peritos en la materia debidamente certificados.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 25.
 
-La antigüedad para los elementos de la Secretaría de Seguridad Ciudadana y Tránsito se contará desde la fecha en que haya causado alta en cualquiera de las dependencias de Seguridad del Gobierno del Estado o Municipio en forma ininterrumpida.
+La antigüedad para los elementos de la Secretaría de Seguridad Pública se contará desde la fecha en que haya causado alta en cualquiera de las dependencias de Seguridad del Gobierno del Estado o Municipio en forma ininterrumpida.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 26.
 
-Para efectos del presente Reglamento, se establecen las siguientes jerarquías de los órganos de Seguridad Ciudadana y Tránsito
+Para efectos del presente Reglamento, se establecen las siguientes jerarquías de los órganos de Seguridad Pública
 
-SEGURIDAD CIUDADANA
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-Secretario de Seguridad Ciudadana y Tránsito del Municipio.
+SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+Secretario de Seguridad Pública del Municipio.
 
 Director de Policía
 
@@ -427,7 +455,7 @@ c) Oficial.
 
 d) Suboficial.
 
-f) Policía Primero.
+f) (SIC) Policía Primero.
 
 g) Policía Segundo.
 
@@ -451,13 +479,17 @@ e).- Oficial Motociclista
 
 f).-Oficial de Crucero
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 27.
 
-Las jerarquías citadas en los incisos anteriores del artículo que antecede, son las que conforman el escalafón Oficial de los Cuerpos de la Secretaría de Seguridad Ciudadana y Tránsito.
+Las jerarquías citadas en los incisos anteriores del artículo que antecede, son las que conforman el escalafón Oficial de los Cuerpos de la Secretaría de Seguridad Pública
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 28.
 
-A los integrantes de la Secretaria de Seguridad Ciudadana y Tránsito se les denominará según el grado que ostenten y no por la actividad, especialidad o grupo al cual estén asignados para desempeñar sus funciones.
+A los integrantes de la Secretaría de Seguridad Pública se les denominará según el grado que ostenten y no por la actividad, especialidad o grupo al cual estén asignados para desempeñar sus funciones.
 
 ###### Artículo 29.
 
@@ -467,15 +499,21 @@ Cuando un policía este imposibilitado temporalmente por enfermedad comprobada, 
 
 En todas las jerarquías el número de ascensos estará en razón directa de las plazas vacantes, o en la cantidad de puestos de nueva creación.
 
-Todo el personal operativo perteneciente a la Secretaria de Seguridad Ciudadana y Tránsito, tiene la obligación de superarse profesionalmente, por lo que deberán participar en las promociones de ascenso que para tal efecto se realicen; en la inteligencia de que en el caso de que alguna persona no deseé participar en alguna promoción a la cual tenga derecho, deberá manifestarlo por escrito, pero asistirá en calidad de oyente al curso correspondiente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-La Dirección Administrativa de la Secretaria de Seguridad Ciudadana y Tránsito, deberá de informar por escrito a aquellos que tengan el derecho de participar; publicándose con treinta días de anticipación en la orden general del día de cada dirección.
+Todo el personal operativo perteneciente a la Secretaría de Seguridad Pública, tiene la obligación de superarse profesionalmente, por lo que deberán participar en las promociones de ascenso que para tal efecto se realicen; en la inteligencia de que en el caso de que alguna persona no deseé participar en alguna promoción a la cual tenga derecho, deberá manifestarlo por escrito, pero asistirá en calidad de oyente al curso correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+La Dirección Administrativa de la Secretaría de Seguridad Pública, deberá de informar por escrito a aquellos que tengan el derecho de participar; publicándose con treinta días de anticipación en la orden general del día de cada dirección.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 31.
 
-Cuando un elemento de la Secretaria de Seguridad Ciudadana y Tránsito sea excluido de participar en los exámenes de promoción y considere que satisface los requisitos que se establecen en este reglamento, o cuando habiendo participado no sea ascendido, y estime tener derecho al ascenso, podrá manifestarlo por escrito dirigido al propio Secretario de Seguridad Ciudadana y Tránsito dentro de un plazo no mayor a los quince días a partir de haber recibido el documento que lo excluye o el de no haber ascendido, según sea el caso.
+Cuando un elemento de la Secretaria de Seguridad Pública sea excluido de participar en los exámenes de promoción y considere que satisface los requisitos que se establecen en este reglamento, o cuando habiendo participado no sea ascendido, y estime tener derecho al ascenso, podrá manifestarlo por escrito dirigido al propio Secretario de Seguridad Pública dentro de un plazo no mayor a los quince días a partir de haber recibido el documento que lo excluye o el de no haber ascendido, según sea el caso.
 
-Así mismo el Secretario de Seguridad Ciudadana y Tránsito tendrá él término de 15 días para responder por escrito sobre el motivo o razón por la cual haya caído en los supuestos mencionados anteriormente.
+Así mismo el Secretario de Seguridad Pública tendrá el término de 15 días para responder por escrito sobre el motivo o razón por la cual haya caido en los supuestos mencionados anteriormente.
 
 ###### Artículo 32.
 
@@ -527,9 +565,11 @@ III.- Durante el tiempo que dure la promoción no se le nombrara ningún servici
 
 ### Capítulo III. Instructivo y Guía de Estudio
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 37.
 
-El Secretario de Seguridad Ciudadana y Tránsito, el Director Administrativo y el Coordinador de la Academia Estatal, formulará las convocatorias, instructivos y demás documentos que sirvan como base para las promociones, cursos de especialización y pruebas a las que se someterán los interesados.
+El Secretario de Seguridad Pública, el Director Administrativo y el Coordinador de la Academia Estatal, formulará las convocatorias, instructivos y demás documentos que sirvan como base para las promociones, cursos de especialización y pruebas a las que se someterán los interesados.
 
 ###### Artículo 38.
 
@@ -541,9 +581,13 @@ Se proporcionará a cada uno de los participantes el temario correspondiente a l
 
 El grado que ostenten los policías será acreditado por un nombramiento que se expedirá a cada uno de los interesados de la siguiente forma:
 
-I.- Los nombramientos de Policía Raso u Oficial de Crucero a Oficial serán firmados por el Secretario de Seguridad Ciudadana y el Director de su adscripción.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-II.- Los nombramientos de Subinspector a Inspector serán firmados por el Presidente Municipal, Secretario de Ayuntamiento y el Secretario de Seguridad Ciudadana y Tránsito.
+I.- Los nombramientos de Policía Raso u Oficial de Crucero a Oficial serán firmados por el Secretario de Seguridad Pública y el Director de su adscripción.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+II.- Los nombramientos de Subinspector a Inspector serán firmados por el Presidente Municipal, Secretario de Ayuntamiento y el Secretario de Seguridad Pública.
 
 III.- Dichos nombramientos se harán constar los datos siguientes:
 
@@ -555,9 +599,11 @@ C) Antigüedad en el grado.
 
 ### Capítulo V. Del Jurado Calificador
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 40.
 
-El Jurado Calificador será nombrado por el Secretario de Seguridad Ciudadana y Tránsito y por el Director de Policía y el Director de Transito. En ningún caso un jurado podrá ostentar una jerarquía menor que la que tiene que calificar. Además recabará la evaluación de los expedientes que para tal efecto expida la Dirección Administrativa
+El Jurado Calificador será nombrado por el Secretario de Seguridad Pública y por el Director de Policía y el Director de Transito. En ningún caso un jurado podrá ostentar una jerarquía menor que la que tiene que calificar. Además recabará la evaluación de los expedientes que para tal efecto expida la Dirección Administrativa
 
 El jurado calificador que se integre para cada caso, contará con un mínimo de tres miembros.
 
@@ -583,27 +629,35 @@ VII.- Coordinarse con las autoridades de la Academia Estatal para supervisar y v
 
 VIII.- La Academia Estatal y el Jurado Calificador serán los encargados de supervisar el desarrollo de los exámenes de la promoción, presentando al Secretario el resultado de los mismos, anotando por puntuación las calificaciones obtenidas por cada participante.
 
-Será la propia Secretaría de Seguridad Ciudadana y Transito la que de acuerdo al número de vacantes, publique la lista de los ascendidos en cada grado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+Será la propia Secretaría de Seguridad Pública la que de acuerdo al número de vacantes, publique la lista de los ascendidos en cada grado.
 
 ### Capítulo VI. De la Convocatoria
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 42.
 
-La Secretaría de Seguridad Ciudadana y Tránsito emitirá la convocatoria en la cual fijará la fecha y el lugar donde se efectuarán los exámenes correspondientes, así como los requisitos para participar en la promoción, con un plazo de 90 días anteriores a la fecha de su realización.
+La Secretaría de Seguridad Pública emitirá la convocatoria en la cual fijará la fecha y el lugar donde se efectuarán los exámenes correspondientes, así como los requisitos para participar en la promoción, con un plazo de 90 días anteriores a la fecha de su realización.
 
 ### Capítulo VII. Publicación de Resultados
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 43.
 
-La Secretaría de Seguridad Ciudadana y Tránsito informará en un plazo no mayor de 15 días hábiles, contados a partir de la presentación de los exámenes, las calificaciones obtenidas, así como el número de vacantes y quienes las ocuparán en cada uno de los grados, de acuerdo a la puntuación mas alta obtenida.
+La Secretaría de Seguridad Pública informará en un plazo no mayor de 15 días hábiles, contados a partir de la presentación de los exámenes, las calificaciones obtenidas, así como el número de vacantes y quienes las ocuparán en cada uno de los grados, de acuerdo a la puntuación mas alta obtenida.
 
 ## Título II (sic). De las recompensas
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 44.
 
-Con el objetivo de estimular a los elementos de la Secretaria de Seguridad Ciudadana y Transito, por su heroísmo, méritos profesionales, servicios al Municipio o a la patria y otros actos meritorios, se establecen las siguientes recompensas:
+Con el objetivo de estimular a los elementos de la Secretaria de Seguridad Pública, por su heroísmo, méritos profesionales, servicios al Municipio o a la patria y otros actos meritorios, se establecen las siguientes recompensas:
 
 A) Condecoraciones;
 
@@ -613,9 +667,11 @@ C) Estímulos económicos
 
 ### Capítulo II. De las Condecoraciones
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 45.
 
-Las condecoraciones se otorgaran a los policías que presten sus servicios en la Secretaría de Seguridad Ciudadana y Tránsito. Obtenida la condecoración será expedido el nombramiento y la constancia correspondiente.
+Las condecoraciones se otorgaran a los policías que presten sus servicios en la Secretaría de Seguridad Pública. Obtenida la condecoración será expedido el nombramiento y la constancia correspondiente.
 
 ###### Artículo 46.
 
@@ -633,43 +689,59 @@ V.- Mérito Deportivo
 
 VI.- Mérito Ciudadano
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 47.
 
-Corazón policial es la condecoración que se otorgará por disposición del Presidente Municipal y a propuesta del Secretario de Seguridad Ciudadana y Tránsito al personal que fallezca o resulte herido en Servicio.
+Corazón policial es la condecoración que se otorgará por disposición del Presidente Municipal y a propuesta del Secretario de Seguridad Pública al personal que fallezca o resulte herido en Servicio.
 
 En el primer caso, la condecoración será entregada a sus deudos en un acto póstumo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 48.
 
-La condecoración al Valor Policial se otorgará por disposición del Presidente Municipal y a propuesta del Secretario de Seguridad Ciudadana y Tránsito, y tiene por objeto premiar a los policías que ejecuten con riesgo de su vida, actos de heroísmo.
+La condecoración al Valor Policial se otorgará por disposición del Presidente Municipal y a propuesta del Secretario de Seguridad Pública, y tiene por objeto premiar a los policías que ejecuten con riesgo de su vida, actos de heroísmo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 49.
 
-La condecoración al Mérito Policial se concederá por disposición del Presidente Municipal y a propuesta del Secretario de Seguridad Ciudadana y Tránsito, a los policías que sean autores de un invento de utilidad para las fuerzas de Seguridad o que coadyuve a modernizar y hacer más eficientes las labores policiales en beneficio de la ciudadanía.
+La condecoración al Mérito Policial se concederá por disposición del Presidente Municipal y a propuesta del Secretario de Seguridad Pública, a los policías que sean autores de un invento de utilidad para las fuerzas de Seguridad o que coadyuve a modernizar y hacer más eficientes las labores policiales en beneficio de la ciudadanía.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 50.
 
-La condecoración al Mérito Docente se concederá por disposición del Presidente Municipal y a propuesta del Secretario de Seguridad Ciudadana y Tránsito, a los policías y civiles, que presten sus servicios en las aulas, enseñando temas relacionados con la capacitación, profesionalización y actualización de los elementos pertenecientes a la corporación, durante un lapso de tiempo mínimo de tres años ininterrumpidos en la labor docente o que sean autores de un método o manual de capacitación que contribuya a la enseñanza y mejora de la educación policial.
+La condecoración al Mérito Docente se concederá por disposición del Presidente Municipal y a propuesta del Secretario de Seguridad Pública, a los policías y civiles, que presten sus servicios en las aulas, enseñando temas relacionados con la capacitación, profesionalización y actualización de los elementos pertenecientes a la corporación, durante un lapso de tiempo mínimo de tres años ininterrumpidos en la labor docente o que sean autores de un método o manual de capacitación que contribuya a la enseñanza y mejora de la educación policial.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 51.
 
-La condecoración del Mérito Deportivo se concederá por disposición del Presidente Municipal y a propuesta del Secretario de Seguridad Ciudadana y Tránsito, a los policías, que se distingan o que obtengan los primeros lugares en cualesquiera de las ramas del deporte.
+La condecoración del Mérito Deportivo se concederá por disposición del Presidente Municipal y a propuesta del Secretario de Seguridad Pública, a los policías, que se distingan o que obtengan los primeros lugares en cualesquiera de las ramas del deporte.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 52.
 
-La condecoración al Merito Ciudadano se concederá por disposición del Presidente Municipal y a propuesta del Secretario de Seguridad Ciudadana y Tránsito, a los elementos que ejecuten acciones meritorias que les dan derecho a obtener este reconocimiento ya que su conducta es digna de tomarse en cuenta y de imitarse
+La condecoración al Merito Ciudadano se concederá por disposición del Presidente Municipal y a propuesta del Secretario de Seguridad Pública, a los elementos que ejecuten acciones meritorias que les dan derecho a obtener este reconocimiento ya que su conducta es digna de tomarse en cuenta y de imitarse
 
 ### Capítulo III. De los reconocimientos
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 53.
 
-Cuando algún policía o grupo de policías ejecutan acciones meritorias que no les den derecho a obtener las condecoraciones especificadas en el presente ordenamiento, pero su conducta constituye un ejemplo digno de tomarse en consideración y de imitarse, serán distinguidos con un reconocimiento que otorgará el Presidente Municipal a propuesta del Secretario de Seguridad Ciudadana y Tránsito.
+Cuando algún policía o grupo de policías ejecutan acciones meritorias que no les den derecho a obtener las condecoraciones especificadas en el presente ordenamiento, pero su conducta constituye un ejemplo digno de tomarse en consideración y de imitarse, serán distinguidos con un reconocimiento que otorgará el Presidente Municipal a propuesta del Secretario de Seguridad Pública.
 
 Los reconocimientos serán publicados en las órdenes del día de la Dirección de Policía a que pertenezcan el o los reconocidos, así como en el periódico mural de la Secretaria, por cinco días consecutivos y comunicados por escrito a los interesados, anotándose en las hojas de desempeño personal de los elementos que la hayan merecido.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 54.
 
-Los reconocimientos de perseverancia se otorgarán por la Secretaría de Seguridad Ciudadana y Transito y estarán destinados a destacar los servicios ininterrumpidos en el activo de los miembros de los Cuerpos de Seguridad Pública, serán de seis clases y se otorgarán en el orden siguiente:
+Los reconocimientos de perseverancia se otorgarán por la Secretaría de Seguridad Pública y estarán destinados a destacar los servicios ininterrumpidos en el activo de los miembros de los Cuerpos de Seguridad Pública, serán de seis clases y se otorgarán en el orden siguiente:
 
 A).- A los que cumplan 30 años;
 
@@ -691,9 +763,11 @@ Los estímulos económicos, se les darán a los elementos policíacos que realic
 
 Todos los estímulos económicos que se otorguen serán entregados a través del Jurado Calificador, en un acto público.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 56.
 
-Todo lo no previsto en relación a los ascensos a que se refiere este Reglamento, será resuelto en forma colegiada por el Jurado Calificador y el Secretario de la Secretaria de Seguridad Ciudadana y Tránsito.
+Todo lo no previsto en relación a los ascensos a que se refiere este Reglamento, será resuelto en forma colegiada por el Jurado Calificador y el Secretario de la Secretaría de Seguridad Pública.
 
 ## TRANSITORIOS
 
@@ -704,3 +778,17 @@ SEGUNDO.- Quedan vigentes los reglamentos, circulares y demás disposiciones leg
 TERCERO.- Publíquese en el Periódico Oficial del Estado y en la Gaceta Municipal.
 
 Así lo firman y acuerdan los integrantes de las comisiones unidas de Policía y de Régimen Interior de Gobierno, en Guadalupe N.L., a los 27-veintisiete días del mes de agosto de 2007-dos mil siete.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2009.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DE LA SECRETARÍA DE SEGURIDAD CIUDADANA Y TRÁNSITO DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, CAMBIANDO ENTRE OTROS SU DENOMINACIÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas al REGLAMENTO DE ASCENSOS Y RECOMPENSAS PARA EL PERSONAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas.
