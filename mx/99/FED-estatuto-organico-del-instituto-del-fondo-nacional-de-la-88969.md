@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-88969"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-02-18"
-last_updated: "2009-02-18"
+last_updated: "2009-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88969&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-01-28"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 29 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 18 de febrero de 2009.
 
@@ -630,3 +632,23 @@ En todas las disposiciones donde se haga mención a la Coordinación del Distrit
 Atentamente
 
 Dado en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de enero de dos mil nueve, en cumplimiento al Acuerdo número 1427, tomado en la sesión ordinaria número 95 de la H. Asamblea General del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.- El Secretario General y de Asuntos Jurídicos, Jorge Pulido Vázquez.- Rúbrica.- El Gerente de Organos Colegiados Centrales, Carlos Gabriel Maury González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 29 DE DICIEMBRE DE 2009.
+
+###### ARTICULO PRIMERO.
+
+El presente Estatuto Orgánico abroga el aprobado mediante el Acuerdo 1427, tomado en la sesión ordinaria número 95 de la H. Asamblea General, celebrada el 18 de diciembre de 2008 y publicado en el Diario Oficial de la Federación el 18 de febrero de 2009.
+
+###### ARTICULO SEGUNDO.
+
+Este Estatuto entrará en vigor al día siguiente de su publicación.
+
+###### ARTICULO TERCERO.
+
+En todas las disposiciones donde se haga mención a la Secretaría General, se entenderá como la Secretaría General y de Asuntos Jurídicos, y en todas las disposiciones donde se haga mención al Secretario General, se entenderá como el Secretario General y de Asuntos Jurídicos.
+
+###### ARTICULO CUARTO.
+
+En todas las disposiciones donde se haga mención a la Coordinación del Distrito Federal, se entenderá como Delegación Regional del Distrito Federal, y en todas las disposiciones de este Estatuto en las que se haga mención a las Delegaciones Regionales, se considerará incluida la Delegación Regional del Distrito Federal.
