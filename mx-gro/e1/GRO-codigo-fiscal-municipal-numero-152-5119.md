@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-municipal-numero-152-5119"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-30"
-last_updated: "2004-12-24"
+last_updated: "2009-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO FISCAL MUNICIPAL NUMERO 152
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el miércoles 30 de diciembre de 1987.
 
@@ -326,6 +326,12 @@ II. A los sujetos pasivos o responsables solidarios les corresponde determinar e
 ###### ARTICULO 31o.
 
 La determinación de los créditos fiscales y de las bases para su liquidación, su fijación en cantidad líquida, su percepción y su cobro corresponderá a la Tesorería Municipal, la que ejercitará dichas funciones por conducto de las dependencias y órganos que las leyes señalen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O 29 DE DICIEMBRE DE 2009)</small>
+
+En el caso del impuesto predial, para su cobro, la determinación y declaración del valor catastral, estará a cargo del contribuyente; caso contrario se estará conforme a lo establecido en el artículo 7 de la Ley de Hacienda Municipal.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1999)</small>
 
@@ -1207,9 +1213,11 @@ En el momento de la notificación se entregará al notificado o, a la persona co
 
 Las notificaciones practicadas en los términos de los párrafos anteriores se tendrán por hechas en forma legal.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-b).- Por edicto que se publique una sola vez en el Periódico Oficial del Estado y durante tres días consecutivos en uno de los periódicos de mayor circulación, cuando el causante a notificar haya desaparecido, se ignore su domicilio en la Entidad, se encuentre en el extranjero sin haber dejado representante legal o hubiere fallecido y no se conozca al albacea de la sucesión.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+b).- Por edicto que se publique una sola vez en el Periódico Oficial del Gobierno del Estado de Guerrero, durante tres días consecutivos en uno de los periódicos de mayor circulación y en la gaceta municipal correspondiente, cuando el causante a notificar haya desaparecido, se ignore su domicilio en la Entidad, se encuentre en el extranjero sin haber dejado representante legal o hubiere fallecido y no se conozca al albacea de la sucesión, así como también en el caso de notificaciones al realizarse valuaciones o revaluaciones catastrales masivas, que tengan como objeto modificaciones en el valor catastral.
 
 c).- En los demás casos por medio de oficios o telegramas.
 
@@ -2132,3 +2140,9 @@ P.O. 24 DE DICIEMBRE DE 2004.
 Primero.- El presente Decreto entrará en vigor el día primero de enero del año dos mil cinco.
 
 Segundo.- Publíquese el presente en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
+
+P.O. 29 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil diez.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general y efectos legales procedentes.
