@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2009-01-07"
+last_updated: "2009-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGANICA DEL MUNICIPIO LIBRE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -479,7 +479,9 @@ XLI. Tomar la protesta de ley al Secretario del Ayuntamiento y al Tesorero Munic
 
 XLII. Procurar, promover y vigilar el cuidado de los bienes y otorgamiento de los servicios públicos necesarios para la seguridad, bienestar e interés general de los habitantes del Municipio;
 
-XLIII. Fomentar la educación y procurar el progreso social;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2009)</small>
+
+XLIII. Fomentar la educación y la creación de bibliotecas públicas, así como desarrollar programas de alfabetización y promoción de la lectura, para el progreso social;
 
 XLIV. Integrar, de conformidad con lo dispuesto por esta ley y demás disposiciones legales aplicables, la Unidad Municipal de Protección Civil;
 
@@ -671,13 +673,17 @@ XIV. Ecología y Medio Ambiente;
 
 XV. Registro Civil, Panteones y Reclutamiento;
 
-> <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
-XVI. Gobernación, Reglamentos y Circulares; y
+XVI. Gobernación, Reglamentos y Circulares;
 
-> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
-XVII. Equidad de Género.
+XVII. Equidad de Género; y
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2009)</small>
+
+XVIII. Bibliotecas, Fomento a la Lectura y Alfabetización.
 
 ###### Artículo 41.
 
@@ -1038,6 +1044,20 @@ VII. Gestionar que los apoyos y recursos que se soliciten, ya sea individualment
 VIII. Promover y organizar la participación de los ciudadanos y de los vecinos en las actividades del Ayuntamiento, desde una perspectiva de equidad de género; y
 
 IX. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
+
+Artículo 60 ter. Son atribuciones de la Comisión de Bibliotecas, Fomento a la Lectura y Alfabetización:
+
+I. Promover la creación de bibliotecas públicas y las acciones orientadas a su funcionalidad y modernización.
+
+II. Proponer al Ayuntamiento la realización de gestiones para incrementar el acervo bibliográfico de las bibliotecas públicas, así como campañas de donación de libros y equipos audiovisuales para las mismas.
+
+III. Difundir información entre los estudiantes y público en general acerca del material de consulta disponible y demás servicios que se presten en las bibliotecas públicas.
+
+IV. Procurar la implementación de programas de fomento a la lectura entre los habitantes del municipio; y
+
+V. Promover ante el Ayuntamiento programas municipales de alfabetización, en coordinación con las autoridades federales y estatales competentes.
 
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA Y ORGANISMOS AUXILIARES
 
@@ -2716,3 +2736,9 @@ G.O. 7 DE ENERO DE 2009.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto
+
+G.O. 29 DE DICIEMBRE DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
