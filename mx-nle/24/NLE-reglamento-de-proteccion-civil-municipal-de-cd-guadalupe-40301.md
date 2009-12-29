@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-municipal-de-cd-guadalupe-40301"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-26"
-last_updated: "2009-10-09"
+last_updated: "2009-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE PROTECCION CIVIL MUNICIPAL DE CD. GUADALUPE, N.L
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de julio de 2004.
 
@@ -113,9 +113,9 @@ I.- El Presidente Municipal;
 
 II.- El Secretario del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-III.- El Secretario de Seguridad de Guadalupe, Nuevo León;
+III.- El Secretario de Seguridad Pública;
 
 IV.- El Director de Protección Civil;
 
@@ -159,6 +159,10 @@ XII.- PROTECCIÓN CIVIL.- El conjunto de acciones, principios, normas, política
 
 XIII.- RECUPERACIÓN.- El proceso orientado a la reconstrucción y mejoramiento del sistema afectado (población y entorno); así como a la reducción de riesgo de concurrencia y la magnitud de los desastres futuros. Se logra con base en la evaluación de los daños ocurridos, en el análisis y la prevención de riesgos y en los planes de desarrollo establecidos.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+XIV.- SECRETARIO DE SEGURIDAD PUBLICA.- Secretario de Seguridad Pública del Municipio de Guadalupe, Nuevo León.
+
 ###### ARTÍCULO 8.
 
 Corresponde al Presidente Municipal en materia de Protección Civil:
@@ -193,13 +197,17 @@ El Sistema Municipal de Protección Civil tendrá como objetivo fundamental ser 
 
 El Sistema Municipal de Protección Civil se integrara enunciativamente con la información de:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 I.- El Consejo Municipal de Protección Civil;
 
 II.- El Centro Municipal de Operaciones;
 
 III.- Los Grupos de Voluntarios;
 
-IV.- Unidades de Respuestas en los Establecimientos, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+IV.- Unidades de Respuestas en los Establecimientos;
 
 V.- En general la información relativa a las unidades de protección civil, cualquiera que sea su denominación, de los sectores público, social y privado, que operen en territorio municipal.
 
@@ -219,17 +227,17 @@ a) El Presidente Municipal en funciones; como Presidente del Consejo.
 
 b) El Secretario del Ayuntamiento; como Secretario Ejecutivo.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-c) El Secretario de Seguridad.
+c) El Secretario de Seguridad Pública; como Secretario Técnico.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
 
 d) El Secretario de Bienestar Social y Desarrollo Comunitario; quien asistirá con carácter de vocal.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-e) El Director del Centro de Desarrollo Urbano y Ecología; quien asistirá con carácter de vocal.
+e) El Director General del Centro de Desarrollo Urbano y Ecología; quien asistirá con carácter de vocal.
 
 f) El Director de Protección Civil Municipal; quien asistirá con carácter de vocal.
 
@@ -351,7 +359,9 @@ III.- Ejercer la representación Legal del Consejo;
 
 IV.- Elaborar y certificar las actas del Consejo, dar fe de su contenido;
 
-V.- Las demás atribuciones que el presente Reglamento, los ordenamientos jurídicos aplicables l (sic) las que provengan de acuerdo el (sic) consejo o del Presidente Municipal que le sean conferidas.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+V.- Las demás atribuciones que le sean conferidas por el presente Reglamento, las que provengan de acuerdos del consejo o del Presidente Municipal y otras disposiciones jurídicas aplicables en la materia.
 
 ###### ARTÍCULO 20.
 
@@ -379,6 +389,8 @@ X.- Rendir cuenta al Consejo, respecto al estado operativo del sistema Municipal
 
 XI.- Llevar el registró de los recursos disponibles para casos de emergencias y desastres, y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 XII.- Los demás que les confieran la leyes, y el presente Reglamento, el Consejo, su Presidente o su Secretario Ejecutivo.
 
 ### CAPÍTULO III. DEL CENTRO MUNICIPAL DE OPERACIONES
@@ -399,21 +411,21 @@ III.- Aplicar el plan de emergencia ó los programas aprobados por el Consejo, y
 
 IV.- Establecer la operación de redes de comunicación disponibles en situaciones de normalidad, para asegurar la eficacia de las mismas situaciones de emergencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-### CAPÍTULO IV. DEL SECRETARIO DE SEGURIDAD DE GUADALUPE, NUEVO LEON, EN MATERIA DE PROTECCIÓN CIVIL
+### CAPÍTULO IV. DEL SECRETARIO DE SEGURIDAD PÚBLICA EN MATERIA DE PROTECCIÓN CIVIL
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 23.
 
-La Secretaría de Seguridad de Guadalupe, Nuevo León, tendrá como función, proponer, dirigir, presupuestar, ejecutar y vigilar la protección civil en el municipio; así como el control operativo de las acciones que en la materia de protección civil se efectúen, en coordinación con los sectores público, privado, grupos voluntarios, y la población en general, en apoyo a las resoluciones que dicte el Consejo Municipal de Protección Civil o, en su caso, del Centro Municipal de Operaciones.
+La Secretaría de Seguridad Publica tendrá como función, proponer, dirigir, presupuestar, ejecutar y vigilar la protección civil en el municipio; así como el control operativo de las acciones que en la materia de protección civil se efectúen, en coordinación con los sectores público, privado, grupos voluntarios, y la población en general, en apoyo a las resoluciones que dicte el Consejo Municipal de Protección Civil o, en su caso, del Centro Municipal de Operaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 24.
 
-La Secretaría de Seguridad de Guadalupe, Nuevo León, tendrá las siguientes atribuciones:
+La Secretaría de Seguridad Pública, tendrá las siguientes atribuciones:
 
 I.- Elaborar y presentar para su aprobación, al Presidente del Consejo Municipal de Protección Civil los subprogramas, planes y programas especiales derivados del Programa Municipal de Protección Civil;
 
@@ -495,17 +507,17 @@ XXV.- Coadyuvar con el Representante Municipal para el cumplimiento de sus atrib
 
 XXVI.- Las demás que le confiera el Presidente Municipal, el presente Reglamento y otros ordenamientos legales; así como las que se determinen por acuerdos y resoluciones del Consejo Municipal de Protección Civil y del Centro Municipal de Operaciones.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 25.
 
-La Secretaría de Seguridad de Guadalupe, Nuevo León, promoverá que los establecimientos a que se refiere este Reglamento, instalen sus propias unidades internas de respuesta, asesorándolos y coordinando sus acciones. Los establecimientos deberán realizar, asistidos por la Dirección de Bomberos, cuando menos dos veces al año, simulacros para hacer frente a los altos riesgos, emergencias ó desastres.
+La Secretaría de Seguridad Pública, promoverá que los establecimientos a que se refiere este Reglamento, instalen sus propias unidades internas de respuesta, asesorándolos y coordinando sus acciones. Los establecimientos deberán realizar, asistidos por la Dirección de Bomberos, cuando menos dos veces al año, simulacros para hacer frente a los altos riesgos, emergencias ó desastres.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 26.
 
-Cuando debido a la magnitud de los altos riesgos, emergencias ó desastres, sea necesaria la concurrencia simultánea de las Autoridades Municipales, Estatales y/o Federales de protección civil, la Secretaría de Seguridad de Guadalupe, Nuevo León, será quien coordine los trabajos de respuesta ante la contingencia, en el lugar de los hechos.
+Cuando debido a la magnitud de los altos riesgos, emergencias ó desastres, sea necesaria la concurrencia simultánea de las Autoridades Municipales, Estatales y/o Federales de protección civil, la Secretaría de Seguridad Pública, será quien coordine los trabajos de respuesta ante la contingencia, en el lugar de los hechos.
 
 ###### ARTÍCULO 27.
 
@@ -527,11 +539,11 @@ VI.- Las demás que le confieren los ordenamientos legales aplicables, las que c
 
 ### CAPÍTULO I. DE LOS GRUPOS VOLUNTARIOS
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 28.
 
-Se reconoce como grupos voluntarios a las instituciones y asociaciones que cuenten con su respectivo registro ante la Secretaría de Seguridad de Guadalupe, Nuevo León, y que serán coordinados por la Dirección de Protección Civil Municipal.
+Se reconoce como grupos voluntarios a las instituciones y asociaciones que cuenten con su respectivo registro ante la Secretaría de Seguridad Pública, y que serán coordinados por la Dirección de Protección Civil Municipal.
 
 ###### ARTÍCULO 29.
 
@@ -775,11 +787,11 @@ Es obligación de los responsables ó dueños de camiones pipa destinados al aca
 
 Es obligación de los responsables de los establecimientos de expendio de combustible, proveer del mismo a cualquier brigada debidamente acreditada, que en los momentos de una contingencia requiere de dicho combustible para llevar a cabo las actividades de auxilio; en la inteligencia de que el valor del combustible será restituido por la Autoridad Municipal después de haber atendido la emergencia.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 62.
 
-Los elementos de la Dirección de Protección Civil Municipal y demás personal adscrito a la Seguridad (sic) de Seguridad de Guadalupe, Nuevo León, deberán portar el uniforme, placa ó identificación personal cuando se presenten en servicio de auxilio y salvamento asimismo los vehículos utilizados, deberán distinguirse con los colores, logotipo y número de identificación que le asigne la Autoridad correspondiente.
+Los elementos de la Dirección de Protección Civil Municipal y demás personal adscrito a la Secretaría de Seguridad Pública, deberán portar el uniforme, placa ó identificación personal cuando se presenten en servicio de auxilio y salvamento asimismo los vehículos utilizados, deberán distinguirse con los colores, logotipo y número de identificación que le asigne la Autoridad correspondiente.
 
 ## TÍTULO CUARTO. DE LOS PLANES Y ACCIONES DE PROTECCIÓN CIVIL
 
@@ -841,9 +853,9 @@ II.- Los criterios a integrar el mapa de riesgo;
 
 III.- Los lineamientos para el funcionamiento y prestación de los distintos servicios públicos que deben ofrecerse a la población;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-IV.- Las acciones que la Secretaría de Seguridad de Guadalupe, Nuevo León, deberá ejecutar para proteger a las personas y sus bienes;
+IV.- Las acciones que la Secretaría de Seguridad Pública, deberá ejecutar para proteger a las personas y sus bienes;
 
 V.- El inventario de los recursos disponibles;
 
@@ -881,9 +893,11 @@ A fin de que la comunidad conozca el Programa Municipal de Protección Civil, é
 
 ### CAPÍTULO I. DE LA DECLARATORIA DE EMERGENCIA
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 75.
 
-El Presidente Municipal en su carácter de Presidente del Consejo de Protección Civil, en los casos de alto riesgo, emergencia ó desastre, podrá emitir una declaratoria de emergencia, que comunicará de inmediato al Presidente del Consejo de Protección Civil del Estado; mandando su (sic) publique en el Periódico Oficial del Estado, y se difundirá a través de los medios de comunicación masiva. En ausencia del Presidente del Consejo, el Secretario Ejecutivo deberá realizar la declaratoria a que se refiere el artículo anterior.
+El Presidente Municipal en su carácter de Presidente del Consejo de Protección Civil, en los casos de alto riesgo, emergencia ó desastre, podrá emitir una declaratoria de emergencia, que comunicará de inmediato al Presidente del Consejo de Protección Civil del Estado; mandando se publique en el Periódico Oficial del Estado, y se difundirá a través de los medios de comunicación masiva. En ausencia del Presidente del Consejo, el Secretario Ejecutivo deberá realizar la declaratoria a que se refiere el artículo anterior.
 
 ###### ARTÍCULO 76.
 
@@ -909,11 +923,11 @@ Se considerará zona de desastre, para los efectos de aplicación de recursos fe
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 78.
 
-La Secretaría de Seguridad de Guadalupe, Nuevo León, tendrá amplias facultades de inspección y vigilancia para prevenir o controlar la posibilidad de desastres, sin perjuicio de las facultades que se confieren a otras dependencias de la administración pública municipal, estatal y/o federal. Sin embargo, para este fin, deberá coordinarse, para todos los efectos, con las otras dependencias competentes en desarrollo urbano, ecología, servicios primarios y las demás que correspondan, de la administración pública municipal que, en virtud a las funciones propias de las mismas, infieran directa o indirectamente en la protección civil municipal, procurando, en todo momento, la prevención y protección civil ciudadana y comunitaria. La Secretaría de Seguridad de Guadalupe, Nuevo León, vigilará, en el ámbito de su competencia, el cumplimiento de este Reglamento y demás disposiciones que se dicten con base en él, y aplicará las medidas de seguridad que correspondan.
+La Secretaría de Seguridad Pública, tendrá amplias facultades de inspección y vigilancia para prevenir o controlar la posibilidad de desastres, sin perjuicio de las facultades que se confieren a otras dependencias de la administración pública municipal, estatal y/o federal. Sin embargo, para este fin, deberá coordinarse, para todos los efectos, con las otras dependencias competentes en desarrollo urbano, ecología, servicios primarios y las demás que correspondan, de la administración pública municipal que, en virtud a las funciones propias de las mismas, infieran directa o indirectamente en la protección civil municipal, procurando, en todo momento, la prevención y protección civil ciudadana y comunitaria. La Secretaría de Seguridad Pública, vigilará, en el ámbito de su competencia, el cumplimiento de este Reglamento y demás disposiciones que se dicten con base en él, y aplicará las medidas de seguridad que correspondan.
 
 ###### ARTÍCULO 79.
 
@@ -947,9 +961,9 @@ V.- Al inicio de la visita de inspección, el inspector deberá requerir al ocup
 
 VI.- De toda visita se levantará por triplicado, orden de inspección circunstanciada, cuyas fojas deberán ir numeradas y foliadas, en la que se expresará lo dispuesto en la fracción I de este artículo. Si alguna de las personas se niega a firmar, el inspector lo hará constar en la orden, sin que esta circunstancia altere el valor probatorio del documento, y
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-VII.- Uno de los ejemplares del acta quedará en poder de la persona con quien se entendió la diligencia, el original y la copia restante se entregará a la Secretaría de Seguridad de Guadalupe, Nuevo León.
+VII.- Uno de los ejemplares del acta quedará en poder de la persona con quien se entendió la diligencia, el original y la copia restante se entregará a la Secretaría de Seguridad Pública.
 
 ###### ARTÍCULO 82.
 
@@ -975,11 +989,11 @@ VII.- El auxilio de la fuerza pública, y
 
 VIII.- La emisión de mensajes de alerta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 84.
 
-Cuando en los establecimientos se realicen actos que constituyen riesgo a juicio de la Secretaría de Seguridad de Guadalupe, Nuevo León, esta autoridad en el ámbito de su competencia procederá como sigue:
+Cuando en los establecimientos se realicen actos que constituyen riesgo a juicio de la Secretaría de Seguridad Pública, esta autoridad en el ámbito de su competencia procederá como sigue:
 
 I.- Se notificará al responsable de la situación, exhortándolo para que en un término de setenta y dos horas, subsane la causa ó motivo constitutivo del riesgo;
 
@@ -1009,11 +1023,11 @@ La responsabilidad por daños o perjuicios derivados de acciones u omisiones que
 
 ### CAPÍTULO I. DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 88.
 
-Es competente para aplicar las sanciones a que se refiere el presente capítulo el Secretario de Seguridad de Guadalupe, Nuevo León.
+Es competente para aplicar las sanciones a que se refiere el presente capítulo el Secretario de Seguridad Pública.
 
 ###### ARTÍCULO 89.
 
@@ -1148,3 +1162,17 @@ Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y norma
 ###### ARTÍCULO TERCERO.
 
 Remítase al encargado del despacho de la Presidencia Municipal, a fin de que instruya al C. Secretario del Ayuntamiento, para que mande publicar las Adiciones del presente Reglamento en el Periódico Oficial del Estado de Nuevo León, así como en la Gaceta Municipal.
+
+P.O. 29 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas por adición y modificación al REGLAMENTO DE PROTECCIÓN CIVIL MUNICIPAL DE CD. GUADALUPE, N.L., entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes adiciones y modificaciones.
+
+###### ARTÍCULO TERCERO.
+
+Remítase a la C. Presidenta Municipal, a fin de que instruya al C. Secretario del Ayuntamiento, para que mande publicar las Adiciones y Modificaciones del Presente Reglamento en el Periódico Oficial del Estado de Nuevo León, así como en la Gaceta Municipal.
