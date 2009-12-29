@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2009-09-10"
+last_updated: "2009-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE DICIEMBRE DE 2009.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -2398,11 +2398,13 @@ ARTICULO 215
 
 Si al vencimiento del plazo concedido no se acredita al juez que se ha presentado la demanda, la denuncia o la querella, cesarán los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de las 24 horas siguientes.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ARTICULO 216
 
-Los derechos contemplados en el presente capítulo, también podrán ejercerlos la concubina y el concubinario, cuando tengan un domicilio común con las características del domicilio conyugal a que se refiere el Código Civil.
+Los derechos contemplados en el presente capítulo, también podrán ejercerlos las concubinas y los concubinos, cuando tengan un domicilio común con las características del domicilio conyugal a que se refiere el Código Civil.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -8600,15 +8602,17 @@ ARTICULO 941 QUINTUS (DEROGADO, G.O. 2 DE FEBRERO DE 2007)
 
 ARTICULO 941 SEXTUS (DEROGADO, G.O. 2 DE FEBRERO DE 2007)
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ARTICULO 942
 
-No se requieren formalidades especiales para acudir ante el juez de lo familiar cuando se solicite la declaración, preservación, restitución o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposición de padres y tutores y en general de todas las cuestiones familiares similares que reclamen la intervención judicial.
+No se requieren formalidades especiales para acudir ante el Juez de lo Familiar cuando se solicite la declaración, preservación, restitución o constitución de un derecho o se alegue la violación del mismo o el desconocimiento de una obligación, tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre cónyuges sobre administración de bienes comunes, educación de hijos, oposición de padres y tutores y en general de todas las cuestiones familiares similares que reclamen la intervención judicial.
 
 Esta disposición no es aplicable a los casos de divorcio o de pérdida de la patria potestad.
 
-Tratándose de violencia familiar prevista en el artículo 323 ter del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal, el juez exhortará a los involucrados en audiencia privada, a fin de que convengan los actos para hacerla cesar y, en caso de que no lo hicieran, en la misma audiencia el juez del conocimiento determinará las medidas procedentes para la protección de los menores y de la parte agredida. Al efecto, verificará el contenido de los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público.
+Tratándose de violencia familiar prevista en el Artículo 323 Ter del Código Civil para el Distrito federal en materia común y para toda la República en materia federal, el juez exhortará a los involucrados en audiencia privada, a fin de que convengan los actos para hacerla cesar y, en caso de que no lo hicieran en la misma audiencia el juez del conocimiento determinará las medidas procedentes para la protección de los menores y de la parte agredida. Al efecto, verificará el contenido de los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público.
 
 ARTICULO 943
 
@@ -10431,3 +10435,13 @@ SEGUNDO.- Las reformas previstas en el presente Decreto entrarán en vigor a los
 TERCERO.- Los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de las reformas a que se refiere el presente Decreto se tramitarán conforme a las disposiciones anteriores a ellas.
 
 CUARTO.- El gobierno del Distrito Federal deberá asegurar los recursos materiales y financieros necesarios para que se de cumplimiento al contenido de este decreto.
+
+G.O. 29 DE DICIEMBRE DE 2009.
+
+Primero.- El presente decreto entrará en vigor a los 45 días hábiles de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- A partir de la publicación del presente Decreto, el Jefe de Gobierno del Distrito Federal deberá realizar las adecuaciones jurídicas administrativas correspondientes, en un plazo no mayor a 45 días hábiles.
+
+Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+Cuarto.- Notifíquese por los conductos pertinentes el presente decreto al Jefe de Gobierno del Distrito Federal, al Presidente del Tribunal Superior de Justicia del Distrito Federal, al Presidente de la Comisión de Derechos Humanos del Distrito Federal.
