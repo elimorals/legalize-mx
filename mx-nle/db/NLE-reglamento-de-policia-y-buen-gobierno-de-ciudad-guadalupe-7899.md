@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2009-07-24"
+last_updated: "2009-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -131,9 +131,9 @@ I.- El C. Presidente Municipal.
 
 II.- El C. Secretario del R. Ayuntamiento.
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-III.- El C. Secretario de Seguridad de Guadalupe, Nuevo León.
+III.- El C. Secretario de Seguridad Pública.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
@@ -203,11 +203,11 @@ En dicho convenio se deberá prever la determinación de reglas operativas para 
 
 DE LAS FACULTADES Y OBLIGACIONES DE LA DIRECCION DE POLICÍA MUNICIPAL.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 7.
 
-Compete al Secretario de Seguridad de Guadalupe, Nuevo León, a través de la Dirección de Policía, las atribuciones siguientes:
+Compete al Secretario de Seguridad Pública a través de la Dirección de Policía, las atribuciones siguientes:
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
@@ -301,13 +301,13 @@ XXII. Tomar todas aquellas medidas que tengan por objeto el mantener el orden, l
 
 XXIII. Las demás conferidas por las leyes y los Reglamentos vigentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, 29 DE DICIEMBRE DE 2009)</small>
 
-ARTICULO 7 BIS.- La Secretaría de Seguridad de Guadalupe, Nuevo León, orientará su organización y funcionamiento a que la conservación del orden, la paz y tranquilidad pública; prevenir los delitos y las infracciones administrativas, privilegiando la proximidad y comunicación con la ciudadanía, procurando su participación en actividades relacionadas con la seguridad pública municipal.
+ARTICULO 7 BIS.- La Secretaría de Pública, orientará su organización y funcionamiento a que la conservación del orden, la paz y tranquilidad pública; prevenir los delitos y las infracciones administrativas, privilegiando la proximidad y comunicación con la ciudadanía, procurando su participación en actividades relacionadas con la seguridad pública municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-1.- La Secretaría de Seguridad de Guadalupe, Nuevo León, a través de la Dirección de Policía orientará el ejercicio de sus atribuciones conforme a lo ordenado por la Ley de Seguridad Pública para el Estado de Nuevo León aplicando los siguientes principios:
+1.- La Secretaría de Seguridad Pública, a través de la Dirección de Policía orientará el ejercicio de sus atribuciones conforme a lo ordenado por la Ley de Seguridad Pública para el Estado de Nuevo León aplicando los siguientes principios:
 
 > <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
@@ -399,9 +399,9 @@ I.- Colaborar en la preservación de la seguridad y la tranquilidad de los ciuda
 
 II.- Cooperar con la Autoridad Municipal en las campañas que se organicen para mejorar el servicio de Seguridad Pública.
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, 29 DE DICIEMBRE DE 2009)</small>
 
-III.- Informar a la Secretaría de Seguridad de Guadalupe, Nuevo León, sobre los problemas de Seguridad Pública que se presenten en su comunidad.
+III.- Informar a la Secretaría de Seguridad Pública, sobre los problemas de Seguridad Pública que se presenten en su comunidad.
 
 IV.- Solicitar la designación de uno o varios vigilantes, según el caso, el lugar, las condiciones y las necesidades del vecindario; siempre y cuando los vecinos cooperen para tal propósito.
 
@@ -795,7 +795,7 @@ DEL RECURSO DE INCONFORMIDAD.
 
 DE LA COMISIÓN DE HONOR Y JUSTICIA Y TRAMITE DE QUEJAS.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 39.
 
@@ -847,7 +847,7 @@ DE LA ACTUALIZACION DE ESTE REGLAMENTO.
 
 ###### ARTICULO 42.
 
-Se crea la Comisión de Honor y Justicia de los Cuerpos de Seguridad de Guadalupe, Nuevo León, a fin de dar cumplimiento al Artículo 86 de la Ley del Sistema de Seguridad Pública del Estado, la cual se regirá por su propio Reglamento.
+Se crea la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública del Municipio de Guadalupe, Nuevo León, a fin de dar cumplimiento al Artículo 86 de la Ley de Seguridad Pública para el Estado de Nuevo León, la cual se regirá por su propio Reglamento.
 
 ###### ARTICULO 43.
 
@@ -1032,3 +1032,13 @@ PRIMERO.- Estas modificaciones al Reglamento de Policía y Buen Gobierno del Mun
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes modificaciones.
 
 TERCERO.- Se remita el presente al C. Síndico Segundo Encargado del Despacho de la Presidencia Municipal, a fin de que tenga a bien instruir al C. Secretario del R. Ayuntamiento para que se sirva enviar el Acuerdo para su debida publicación en el Periódico Oficial del Estado, así como en la Gaceta Municipal.
+
+P.O. 29 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas al REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas.
