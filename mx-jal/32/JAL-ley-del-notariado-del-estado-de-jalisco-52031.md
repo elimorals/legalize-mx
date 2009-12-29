@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2009-02-05"
+last_updated: "2009-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 5 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -151,11 +151,13 @@ La acreditación de los requisitos señalados en las fracciones IV, V y de la VI
 
 El aspirante al ejercicio del notariado presentará solicitud para la obtención de la patente al Titular del Poder Ejecutivo por conducto de la Secretaría General de Gobierno, adjuntando la documentación necesaria que acredite el cumplimiento de los requisitos previstos por esta ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 12.
 
-Una vez acreditados debidamente los requisitos previstos en el artículo 9° de esta Ley, el titular del Ejecutivo, si lo estima pertinente, autorizará la presentación del examen, para lo cual remitirá el expediente al Consejo de Notarios para que practique el examen el día y hora que al efecto se determine conjuntamente con la Secretaría General de Gobierno. Los exámenes a que se refiere este artículo deberán llevarse a cabo en orden cronológico de la fecha de recepción del expediente por el Consejo de Notarios.
+Una vez acreditados debidamente los requisitos previstos en el artículo 9.° de esta Ley, el titular del Ejecutivo, si lo estima pertinente, autorizará la presentación del examen, para lo cual remitirá el expediente al Consejo de Notarios para que practique el examen el día y hora que al efecto se determine conjuntamente con la Secretaría General de Gobierno. Los exámenes a que se refiere este artículo deberán llevarse a cabo en orden cronológico de la fecha de recepción del expediente por el Consejo de Notarios.
 
-El titular del Poder Ejecutivo determinará anualmente el número de solicitudes de aspirantes para el ejercicio del notariado que serán admitidas.
+> <small>(REFORMADO [N. DE E. DEROGADO] SEGUNDO PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 13.
 
@@ -223,7 +225,9 @@ II. Ser tenedor de patente de aspirante al ejercicio del notariado;
 
 III. Acreditar que continúa vigente el cumplimiento de los requisitos previstos por el artículo 9° fracciones IV, V, VII y VIII de esta ley, previa actualización de los documentos relativos; y
 
-IV. Haber sido aprobado y obtener la mejor calificación en el examen de oposición que al efecto deberá realizarse. En caso de un solo sustentante no será necesario el examen.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+IV. Haber sido aprobado y obtener la mejor calificación en el examen de oposición que al efecto deberá realizarse. Dicha calificación no podrá se (sic) inferior a ochenta puntos.
 
 ###### Artículo 22.
 
@@ -265,7 +269,9 @@ Las causas de impedimento y de responsabilidad para los notarios integrantes del
 
 El examen de oposición deberá celebrarse en el domicilio del Consejo de Notarios de conformidad con las disposiciones contenidas en el Reglamento correspondiente, que determinará la forma y contenido en que se desarrollará el examen en su aspecto teórico.
 
-El jurado procederá a la calificación de los exámenes, determinará quién o quiénes aprobaron y entre éstos los que obtuvieron la mejor calificación y con esa prelación, el Consejo de Notarios informará al titular del Poder Ejecutivo para cubrir las notarías de nueva creación o vacantes.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+El jurado procederá a la calificación de los exámenes. Sólo se considerarán aprobados aquellos que hayan obtenido una calificación de ochenta puntos o más, por lo que determinará quién o quiénes obtuvieron la mejor calificación y con esa prelación, el Consejo de Notarios informará al titular del Poder Ejecutivo para cubrir las notarías de nueva creación o vacantes.
 
 El secretario del jurado será el sinodal de menor antigüedad como notario, en caso de igualdad en la antigüedad, será secretario el de mayor edad; quien al final del examen levantará acta circunstanciada del mismo, que firmarán sus integrantes y los sustentantes; dentro de los tres días hábiles siguientes, remitirá el acta al Consejo de Notarios, para que en igual término proceda a comunicar al Titular del Poder Ejecutivo, el resultado de los exámenes, adjuntando el dictamen del jurado para que expida el o los fiats de notario público que correspondan.
 
@@ -291,7 +297,9 @@ Los notarios adscritos a los municipios comprendidos en la fracción I del artí
 
 Los notarios adscritos a los restantes municipios deberán tener su oficina notarial única en la cabecera municipal de su adscripción, salvo cuando por acuerdo del Ejecutivo del Estado, se autorice el cambio a alguna otra Delegación del municipio, a solicitud del interesado o por exigencias del servicio, oyendo en estos casos la opinión del Consejo de Notarios; asimismo, deberán tener su residencia y habitación permanentes dentro del territorio del municipio de su adscripción.
 
-Durante el tiempo en que duren en funciones, los Notarios deberán demostrar la ausencia de impedimentos a que hace referencia la fracción VII del artículo 9 de esta Ley, debiendo presentar, por lo menos cada dos años, ante la Secretaría General de Gobierno, certificado expedido por la Secretaría de Salud, la cual servirá de base al Titular del Poder Ejecutivo para que en el caso de padecer enfermedad permanente que limite las facultades intelectuales o impedimento físico para ejercer las funciones del Notario, inicie el procedimiento respectivo y resuelva lo conducente en los términos del Título tercero de esta Ley.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+Durante el tiempo en que duren en funciones, los notarios deberán demostrar la ausencia de impedimentos a que hace referencia la fracción VIII del artículo 9.° de esta Ley, debiendo presentar, por lo menos cada dos años, ante la Secretaría General de Gobierno, certificado expedido por institución de salud pública o privada, de conformidad con el Reglamento que al efecto se expida, el cual servirá de base al titular del Poder Ejecutivo para que en el caso de padecer enfermedad permanente que limite las facultades intelectuales o impedimento físico para ejercer las funciones del notario, inicie el procedimiento respectivo y resuelva lo conducente en los términos del Título Tercero de esta Ley.
 
 ###### Artículo 29.
 
@@ -797,7 +805,9 @@ V. Sus números telefónicos y en su caso, el fax y correo electrónico;
 
 VI. Horario de servicio al público.
 
-Los datos a que se refieren las fracciones que anteceden deberán actualizarse en el mes de enero de cada año.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+Los datos a que se refieren las fracciones que anteceden deberán actualizarse en el mes de enero de cada año y dentro de los treinta días naturales siguientes a cualquier modificación de los mismos.
 
 ###### Artículo 46.
 
@@ -935,7 +945,9 @@ III. La revocación del nombramiento en los términos de esta ley;
 
 IV. El impedimento físico o psíquico total y permanente que lo imposibilite para actuar como notario.
 
-La representación social por sí o a solicitud de cualquier persona con interés legítimo y apoyada en indicios que hagan probable la existencia de causa de incapacidad para el desempeño de su función, podrá solicitar que la Secretaría de Salud Jalisco dictamine sobre las condiciones del notario para los efectos de la fracción III de este artículo y fracción I del artículo anterior, lo cual se hará del conocimiento en forma inmediata al Secretario General de Gobierno; y
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+
+La Procuraduría Social, o el Consejo de Notarios, de oficio o a solicitud de cualquier persona con interés legítimo, apoyados en indicios que hagan probable la existencia de causa de incapacidad para el desempeño de su función, podrán solicitar que la Secretaría de Salud (sic) Jalisco dictamine sobre las condiciones del notario para los efectos de la fracción III de este artículo y fracción I del artículo anterior, lo cual se hará del conocimiento en forma inmediata al Secretario General de Gobierno, y
 
 V. El fallecimiento o declaración de ausencia del notario.
 
@@ -1145,13 +1157,13 @@ Si se tratare de bienes inmuebles, aún en las sucesiones, relacionará el instr
 
 En el caso en que dichos inmuebles no estén inscritos, expresará la razón de ello, haciendo relación a los datos catastrales, con vista en el certificado catastral expedido por la autoridad municipal correspondiente.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-En el supuesto de que se transmitan inmuebles que no estuvieren registrados, cumpliéndose con lo estipulado en la Ley de Desarrollo Urbano, se deberá transcribir e insertar el certificado catastral con historial a partir de 1936. Cuando se trate de enajenación sobre bienes inmuebles inscritos, se insertará el certificado de libertad o gravamen actualizado, excepto en los casos en que la última escritura se hubiere otorgado dentro de 45 días hábiles.
+En el supuesto de que se transmitan inmuebles que no estuvieren registrados, cumpliéndose con lo estipulado en el Código Urbano, se deberá transcribir e insertar el certificado catastral con historial a partir de 1936. Cuando se trate de enajenación sobre bienes inmuebles inscritos, se insertará el certificado de libertad o gravamen actualizado, excepto en los casos en que la última escritura se hubiere otorgado dentro de 45 días hábiles.
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
-En todos los casos, se deberá agregar al Apéndice copia certificada de los documentos exhibidos por las partes, salvo que existan en la misma notaría, en este caso el notario certificará esta circunstancia, señalando los folios del Apéndice en que consten;
+En todos los casos, se deberá agregar al Apéndice copia, en lo conducente, de los documentos exhibidos por las partes, salvo que se hayan agregado con anterioridad, o se hubieren autorizado en el protocolo del mismo Notario;
 
 V. Al referir el nombre de algún notario, se expresará su número y adscripción, así como el número y fecha del instrumento;
 
@@ -1743,9 +1755,11 @@ La responsabilidad notarial prescribe a los cinco años de cometida la infracci�
 
 El término de la prescripción se suspenderá en la fecha en que el agraviado ratifique la queja o en la fecha en que de oficio se inicie el procedimiento.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 150.
 
-Se amonestará por escrito al notario cuando incurra en la violación a las siguientes disposiciones legales: 4°, 15, 41, 45 tercer y cuarto párrafos, 46, 47, 48, 70, 72, 84, 86, 100, 103, 105, 106, 107, 108, 109, 110, 112, 113, 114, 115. (sic) 116, 117, 118, 120, 124, 125 y 130 de esta ley.
+Se amonestará por escrito al notario cuando incurra en la violación a las siguientes disposiciones legales: 4.°, 15, 41, 45 tercer párrafo, 46, 47, 48, 70, 72, 84, 86, 100, 103, 105, 106, 107, 108, 109, 110, 112, 113, 114, 115, 116, 117, 118, 120, 124, 125 y 130 de esta ley.
 
 > <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
@@ -1755,9 +1769,11 @@ Se impondrá multa al notario, hasta un máximo de 200 días de salario mínimo,
 
 Los salarios mínimos que servirán de base para la cuantificación de la multa, serán los generales vigentes en la Zona Metropolitana en la fecha del pago de la sanción.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 152.
 
-El notario será suspendido en el ejercicio de sus funciones, hasta por un término de tres años, en los siguientes casos:
+E (sic) notario será suspendido en el ejercicio de sus funciones, hasta por un término de tres años, en los siguientes casos:
 
 I. Reincidir en cualquiera de los supuestos sancionados con amonestación que se precisan en el artículo 150;
 
@@ -1785,7 +1801,9 @@ VIII. Una vez recibidos los recursos económicos, no pagar el importe de los imp
 
 IX. Actuar sin autorización fuera del territorio de la adscripción del notario; y
 
-X. Infringir lo dispuesto por los artículos 28, 30, 35, 39 en cualquiera de sus fracciones, 43, 50, 75, 87, 89 fracción IV, 90, 91, 92, 93, 95, 96, 98, 101, 102, 123, 126, 128, 132 y 135 de esta ley.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
+X. Infringir lo dispuesto por los artículos 28, 30, 35, 39 en cualquiera de sus fracciones, 43, 45 párrafo cuarto, 50, 75, 87, 89 fracción IV, 90, 91, 92, 93, 95, 96, 98, 101, 102, 123, 126, 128, 132 y 135 de esta ley.
 
 > <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
 
@@ -1893,9 +1911,11 @@ El Titular del Ejecutivo del Estado, a través del Secretario General de Gobiern
 
 No se dará curso a quejas irregulares o notoriamente improcedentes.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 165.
 
-Las resoluciones que se pronuncien y los actos que se ejecuten con motivo de la aplicación del presente ordenamiento serán recurribles ante el Tribunal de lo Administrativo del Estado, en los términos de la Ley de Justicia Administrativa del Estado de Jalisco.
+Las resoluciones que se pronuncien y los actos que se ejecuten con motivo de la aplicación del presente ordenamiento no admitirán juicio ni recurso ordinario alguno.
 
 #### SECCIÓN SEGUNDA. DE LAS NOTIFICACIONES
 
@@ -2728,5 +2748,9 @@ P.O. 3 DE ABRIL DE 2008.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 5 DE FEBRERO DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE DICIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
