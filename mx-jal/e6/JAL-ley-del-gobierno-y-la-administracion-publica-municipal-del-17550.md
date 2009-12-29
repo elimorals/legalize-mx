@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2009-02-10"
+last_updated: "2009-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -313,39 +313,11 @@ El Estado de Jalisco se divide en los municipios libres siguientes:
 
 Los municipios deben conservar los límites que tengan en la fecha de expedición de la presente ley, según sus respectivos decretos de constitución o reconocimiento; y cualquier conflicto que se suscite con motivo de dichos límites, será resuelto por el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 6.
 
-El Congreso del Estado puede constituir nuevos Municipios, de acuerdo con las bases siguientes:
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
-
-I. La superficie territorial en donde se pretenda constituir no sea menor a doscientos cincuenta kilómetros cuadrados, y que el municipio escindente no resulte con una superficie menor a ésta;
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
-
-II. La población que habite en esa superficie sea mayor a treinta mil habitantes, y que el municipio escindente no resulte con una población menor a esta;
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
-
-III. Lo solicitud debe ser suscrita por cuanto menos las dos terceras partes de los habitantes que radiquen en la superficie donde se pretenda constituir el municipio, y que tengan una residencia comprobable de al menos cinco años anteriores a la presentación de la solicitud. Para los efectos de esta fracción se debe crear un comité o asociación promotora la cual da seguimiento al procedimiento realizado por el Congreso del Estado;
-
-IV. El poblado que se elija como cabecera municipal, tenga una población no inferior a 10,000 habitantes; y (sic)
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-V. El poblado cuente con los servicios públicos indispensables y, que tenga además, suficiente capacidad económica para atender a los gastos de la administración pública municipal; y
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
-
-VI. La opinión de los municipios afectados, debe constar en el acta de la sesión de ayuntamiento correspondiente.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
-
-Siempre que se constituya un nuevo Municipio, se debe cuidar que el o los Municipios que resulten afectados, sigan reuniendo los requisitos mínimos que establece este ordenamiento.
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
-
-El Congreso del Estado puede declarar la extinción, o la fusión de los municipios, cuando no alcancen la población requerida, modificando para ello, los límites de los municipios existentes, y concediendo previamente el derecho de audiencia y defensa a los Ayuntamientos de que se trate.
+El Congreso del Estado puede constituir nuevos Municipios de acuerdo con las bases que se señalen en la Ley Orgánica del Poder Legislativo del Estado de Jalisco.
 
 ### CAPITULO II. De las Delegaciones y Agencias
 
@@ -2784,3 +2756,11 @@ P.O. 25 DE DICIEMBRE DE 2008.
 P.O. 10 DE FEBRERO DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE DICIEMBRE DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+> <small>(F. DE E., P.O. 12 DE JUNIO DE 2010)</small>
+
+SEGUNDO. El artículo Segundo del presente decreto entrará en vigor al día siguiente de la entrada en vigor del Artículo Primero referido en la disposición transitoria anterior, previa su publicación en el periódico oficial El Estado de Jalisco.
