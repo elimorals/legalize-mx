@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-41958"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-30"
-last_updated: "2009-08-07"
+last_updated: "2009-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2004.
 
@@ -411,11 +411,15 @@ XXIII.- Presentar, dentro del ámbito de su competencia, denuncias y formular qu
 
 > <small>(ADICIONADA, P.O. 12 DE ENERO DE 2005)</small>
 
-XXIV.- Intervenir en los Juicios y Procedimientos relacionados con el cumplimiento de las Obligaciones derivadas de las Fianzas expedidas a favor del Estado.
+XXIV.- Intervenir en los Juicios y Procedimientos relacionados con el cumplimiento de las Obligaciones derivadas de las Fianzas expedidas a favor del Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+XXV.- Expedir documentos identificatorios del personal que lleve a cabo facultades de recaudación, auditorías, servicios de inspección y vigilancia fiscal, económica coactiva y las demás relacionadas a éstas de la hacienda pública estatal; así como las derivadas de los Convenios que en materia fiscal celebre el Gobierno del Estado con la Federación o los Ayuntamientos; y
 
 > <small>(ADICIONADA, P.O. 12 DE ENERO DE 2005)</small>
 
-XXV.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
+XXVI.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
 
 ###### Artículo 24.
 
@@ -855,7 +859,7 @@ XIV.- Los demás que le señalen las leyes, decretos y reglamentos.
 
 Artículo 33 bis.- A la Conserjería Jurídica del Gobierno del Estado corresponde el despacho de los siguientes asuntos:
 
-I.- Representar legalmente al Estado de Oaxaca, al Titular del Poder Ejecutivo del Gobierno del Estado como tal y a la Gubernatura en todo juicio, proceso o procedimiento en que sean parte. Esta representación tendrá los efectos de mandato judicial y se entiende conferida sin perjuicio de que, en su caso, el Gobernador del Estado asuma por si mismo la intervención que en dichos actos le corresponde;
+I.- Representar legalmente al Estado de Oaxaca, al Titular del Poder Ejecutivo del Gobierno del Estado como tal y a la Gubernatura en todo juicio, proceso o procedimiento en que sean parte. Esta representación tendrá los efectos de mandato judicial y se entiende conferida sin perjuicio de que, en su caso, el Gobernador del Estado asuma por sí mismo la intervención que en dichos actos le corresponde;
 
 II.- Intervenir como representante jurídico en los actos en que sea parte el Estado o su Gobierno, así como suscribir los convenios y contratos relacionados con su patrimonio inmobiliario, en los casos previstos por la Legislación aplicable;
 
@@ -959,7 +963,7 @@ X.- Aprobar las tarifas aplicables de los servicios públicos de transporte en e
 
 XI.- Coadyuvar operativamente con la Dirección de Tránsito del Estado, para el ejercicio de sus funciones;
 
-XII.- Integrar, con la participación de los sectores publico, social y privado, órganos colegiados de apoyo y asesoría técnica en materia de transporte, coordinando su funcionamiento; y
+XII.- Integrar, con la participación de los sectores público, social y privado, órganos colegiados de apoyo y asesoría técnica en materia de transporte, coordinando su funcionamiento; y
 
 XIII.- Las demás que le confieran las leyes, decretos y reglamentos.
 
@@ -1248,3 +1252,7 @@ SEGUNDO.- Los responsables de la Dependencia y las Coordinaciones que por virtud
 TERCERO.- El Gobernador del Estado, por conducto de las dependencias respectivas, dispondrá de todo lo relativo a los recursos humanos, materiales y presupuestales con que cuentan la Secretaría Técnica, la Coordinación de Proyectos Estratégicos y la Coordinación General de Asesores.
 
 CUARTO.- Se respetan los derechos laborales de los empleados de base, que en su caso estén adscritos a la Secretaría Técnica, la Coordinación de Proyectos Estratégicos y la Coordinación General de Asesores.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
