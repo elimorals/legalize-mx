@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2009-12-18"
+last_updated: "2009-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -4033,6 +4033,20 @@ El remanente será destinado a la procuración y administración de justicia.
 
 Las sanciones dispuestas en el presente artículo se aplicarán, independientemente de las sanciones que dispongan otros artículos de este título.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 457 Bis.
+
+Al que sin contar con la autorización de la autoridad competente, o contraviniendo los términos en que se haya concedido, desmonte o destruya la vegetación forestal, corte, arranque, derribe o tale árboles, realice aprovechamiento de recursos forestales o cambio de uso de suelo en terreno forestal, se le impondrá pena de prisión de cinco a doce años y multa de dos mil días de salario mínimo vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 457 Ter.
+
+A quien transporte, comercie, procese, acopie o distribuya recursos forestales maderables en cantidades de cuatro metros cúbicos o inferiores en rollo o su equivalente, sin la autorización de la autoridad competente, se impondrá de cinco a doce años y de dos mil a veinte mil días de salario mínimo vigente en el Estado.
+
+Se presumirá, salvo prueba en contrario, que la transportación, almacenamiento, distribución, comercialización o procesamiento de recursos forestales maderables, tienen fines ilícitos, cuando se realice de manera oculta o fuera del horario de las seis a las dieciocho horas, o la transportación se realice por ruta distinta a la señalada en la autorización correspondiente, en cuyo caso, se impondrá las penas previstas en el párrafo anterior.
+
 ###### Artículo 458.
 
 Se impondrá prisión de seis meses a seis años y multa de mil a veinte mil días de salario, al que realice cualquiera de las conductas que a continuación se señalan:
@@ -4532,3 +4546,9 @@ P.O. 18 DE DICIEMBRE DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+Artículo Primero.- El presente decreto entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
