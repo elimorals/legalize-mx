@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-ejecucion-de-sanciones-penales-y-medidas-de-56604"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-05-30"
-last_updated: "2009-07-08"
+last_updated: "2009-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # CODIGO DE EJECUCION DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-CÓDIGO DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
+CODIGO DE EJECUCION DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de mayo de 2007.
 
@@ -135,7 +135,7 @@ El régimen de prisión preventiva, tiene por objeto mantener al interno a dispo
 
 Para la mejor individualización del tratamiento y tomando en cuenta las condiciones de cada lugar y las posibilidades presupuestales, existirán instituciones especializadas y establecimientos especiales, así como establecimientos de mínima, media y de máxima seguridad.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O 15 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 8°.
 
@@ -217,7 +217,7 @@ I. Que se cumplan (sic) la ejecución de las sanciones penales, las medidas de s
 
 II. La reinserción social del sentenciado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE MAYO DE 2008)</small>
 
 #### Sección Primera. Del Comité Técnico
 
@@ -265,7 +265,7 @@ III. Establecer el procedimiento para el otorgamiento de los beneficios a que se
 
 IV. Las que señalen el presente Código, su Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2008)</small>
 
 #### Sección Segunda. Del Secretario de Seguridad
 
@@ -325,7 +325,9 @@ I. Rendir al Secretario de Seguridad los informes y datos que le solicite;
 
 II. Ejecutar las sanciones penales, así como las medidas de seguridad en los Centros, sujetándose a lo dispuesto por este Código;
 
-III. Crear y mantener actualizado un padrón de todas las personas procesadas y sentenciadas privadas de la libertad, en el que se establezcan datos concernientes al delito o delitos que se les imputen y de su personalidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2009)
 
 IV. Proporcionar las constancias y los informes de antecedentes penales que soliciten;
 
@@ -409,7 +411,7 @@ La Secretaría Ejecutiva, será el superior jerárquico de las autoridades penit
 
 La representación, trámite y resolución de los asuntos competencia de la Secretaría Ejecutiva, corresponden al Secretario Ejecutivo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ### Capítulo Segundo (sic). De las Atribuciones de la Institución del Ministerio Público en la Ejecución de Sanciones Penales y Medidas de Seguridad
 
@@ -1329,7 +1331,7 @@ La Comisión Interdisciplinaria, estará a cargo del sistema de cómputo para la
 
 ### Capítulo III. De la Libertad Preparatoria
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### Artículo 168.
 
@@ -1343,7 +1345,7 @@ III. Que el examen de personalidad, revele estar apto para su reinserción socia
 
 IV. Que haya reparado el daño causado, sujetándose a la forma, medidas y término que se le fijen, en caso de no poder cubrirlo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MAYO DE 2008)</small>
 
 ###### Artículo 169.
 
@@ -1381,7 +1383,7 @@ Los sentenciados que disfruten de libertad preparatoria, quedarán bajo el cuida
 
 ### Capítulo IV. De la Libertad con Sentencia Suspendida
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 173.
 
@@ -1441,7 +1443,7 @@ La Mesa de Reconciliación del Gobierno del Estado de Chiapas, es un órgano per
 
 Dicho órgano tiene por objeto, previo el estudio y análisis respecto de la integración de los procesos penales, desde la fase de averiguación previa hasta sentencias ejecutoriadas, emitir las recomendaciones necesarias a las autoridades correspondientes para que realicen las acciones pertinentes que garanticen la legalidad en el debido proceso y respeto a los derechos humanos y garantías individuales de los inculpados.
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2009)</small>
+ADICIONADO, P.O. 8 DE JULIO DE 2009)
 
 ###### Artículo 178 Quater.
 
@@ -1657,7 +1659,7 @@ De conformidad con la fracción I del artículo 42 de la Constitución Política
 
 Juan Sabines Guerrero, Gobernador del Estado.-Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE AGOSTO DE 2007.
 
@@ -1702,3 +1704,9 @@ Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al
 P.O. 8 DE JULIO DE 2009.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
