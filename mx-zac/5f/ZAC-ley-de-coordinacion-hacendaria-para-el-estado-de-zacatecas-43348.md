@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-hacendaria-para-el-estado-de-zacatecas-4334
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-01"
-last_updated: "2009-03-14"
+last_updated: "2009-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE COORDINACION HACENDARIA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 1 de enero de 2005.
 
@@ -385,15 +385,53 @@ IV. Los demás que establezca la Ley de Deuda Pública para Estado y Municipios 
 
 De las cantidades que perciba el Estado dentro del ejercicio de que se trate, por concepto de participaciones federales, se constituirá el "Fondo Único de Participaciones", el cual se integra con las bases siguientes:
 
-I. El 22% de las cantidades que el Estado reciba por concepto de participaciones del Fondo General;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+I. El 23% de las cantidades que el Estado reciba por concepto de participaciones del Fondo General;
 
 II. El 100% de los recursos provenientes del Fondo de Fomento Municipal;
 
-III. El 20% de la recaudación del Estado del Impuesto Federal sobre Tenencia o uso de Vehículos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. El 20% del monto percibido por el Estado, de la recaudación federal, del Impuesto Especial sobre Producción y Servicios; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-V. El 20% de la recaudación del Estado del impuesto sobre Automóviles nuevos.
+III. El 23% de la recaudación del Estado del Impuesto Federal Sobre Tenencia o Uso de Vehículos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+IV. El 23% del monto percibido por el Estado, de la Recaudación Federal del Impuesto Especial Sobre Producción y Servicios;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+V. El 23% de la recaudación del Estado del Impuesto Sobre Automóviles Nuevos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+VI. El 23% del Fondo de Fiscalización;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+VII. El 20% del Fondo del Impuesto Especial Sobre Producción y Servicios aplicado a la venta final de gasolina y diesel. Este porcentaje aplica a sus dos subfondos que son:
+
+a) 9/11 del Impuesto Especial Sobre Producción y Servicios aplicado a la venta final de gasolina y diesel, que se distribuye entre todas las Entidades Federativas, y
+
+b) 2/11 del Impuesto Especial Sobre Producción y Servicios aplicado a la venta final de gasolina y diesel, que se distribuye entre las 10 Entidades Federativas que, de acuerdo a la última información oficial del Instituto Nacional de Estadística, Geografía e Informática, tengan los menores niveles de Producto Interno Bruto per cápita nominero y no petrolero.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+VIII. El 23% del Fondo de Compensación del Impuesto sobre Automóviles Nuevos.
 
 Los importes a que se refieren las fracciones III, IV y V, estarán sujetos a la condición de que la Federación participe al Estado en 100% de estos conceptos.
 
@@ -424,6 +462,12 @@ e).- El 10% en proporción directa a a (sic) la recaudación de los derechos de 
 f).- El 10% se distribuirá en proporción inversa a las participaciones que por habitante haya obtenido cada Municipio por los conceptos de las fracciones I y II incisos a), b), c), d) y e), de este artículo.
 
 De no contar con la información de la recaudación municipal de alguno de los Municipios, se tomará como referencia la última información proporcionada al órgano de fiscalización de la Legislatura.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Para la distribución específica de los subfondos contenidos en los incisos a) y b) de la fracción VII del artículo 39 de esta Ley y de conformidad con lo dispuesto en el último párrafo del artículo 4A de la Ley de Coordinación Fiscal, el 70% se distribuirá atendiendo a los niveles de población y el 30% restante, se distribuirá entre los Municipios del Estado, de conformidad con los criterios y bases establecidos para el Fondo Único de Participaciones previsto en la presente Ley.
 
 ###### Artículo 41.
 
@@ -780,3 +824,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Los pagos corrientes que se realicen de manera oportuna por parte de los municipios o sus organismos operadores, deberán acreditarse, por parte de la Comisión Federal de Electricidad, por el total del monto de dicho pago, contra los adeudos históricos que tengan con dicha empresa paraestatal en los términos de la Ley de Ingresos de la Federación. Para ello, los municipios deberán solicitar por escrito a la Comisión Federal de Electricidad su interés en participar en este mecanismo de condonación.
 
 TERCERO.- Los pagos corrientes que se realicen de manera oportuna por los municipios o sus organismos operadores, deberán acreditarse por parte de la Comisión Estatal de Agua Potable y Alcantarillado, por el total del monto de dicho pago, contra los adeudos históricos que tengan con el organismo estatal o con la Comisión Nacional del Agua. Para ello, los municipios deberán solicitar por escrito a la Comisión Nacional del Agua su interés en participar en este mecanismo de condonación. En dicho escrito deberá reconocer el monto de sus adeudos históricos.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+Artículo primero.- El presente Decreto entrará en vigor el día 1º de enero del año 2010.
+
+Artículo segundo.- Publíquese el presente Decreto en el Periódico Oficial, Órgano del Gobierno del Estado.
