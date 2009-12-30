@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2008-12-27"
+last_updated: "2009-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -643,21 +643,21 @@ Salarios Mínimos
 
 I. La Dirección de Fraccionamientos:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-a) Expedición de Título 7 cuotas
+a) Expedición de Título 5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-b) Constancia para Procampo 1 cuota;
+b) Constancias para Procampo 0 cuotas
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 c) Otras constancias 1 cuota
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-d) Autorización para crédito con bancos. 4 cuotas
+d) Autorización para créditos con bancos 1.5 cuotas
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -667,37 +667,25 @@ e) Adjudicaciones 6 6% avalúo catastral
 
 f) Copia certificada del título 5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+g) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2009)
 
-g) Copia simple año 2007. Primera $ 4.10;
+h) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2009)
 
-Siguiente 2.21;
+i) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-h) Copia simple año 2006. Primera $ 6.16;
+j) Copia simple de título 2 cuotas
 
-Siguiente 2.21;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-i) Copia simple año 2005 y anteriores. Primera $ 7.78;
-
-Siguiente 2.21;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-j) Copia simple de título 3 cuotas
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-k) Trámite por cambio de uso de suelo
+k) Trámite por cambio de uso de suelo 1.5 cuotas
 
 (No incluye derechos por la adjudicación
 
-correspondiente al incremento en el valor
+correspondiente al incremento en el valor de
 
-de la superficie que modifique su uso) 7 cuotas
+la superficie que modifique su uso)
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -809,11 +797,17 @@ de registro civil 2 cuotas
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-e) Trámite para solicitud de actas de registro civil a oficialías del interior del Estado u otra Entidad Federativa 1 cuota
+e) Trámite para solicitud de actas de registro civil
+
+a oficialías del interior del Estado u otra Entidad
+
+Federativa 1 cuota
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-f) Autorización para registro de actas de registro civil provenientes del extranjero 5 cuotas
+f) Autorización para registro de actas de registro
+
+civil provenientes del extranjero 5 cuotas
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -2105,23 +2099,47 @@ Los servicios que presten por concepto de:
 
 Salarios Mínimos
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-I. Inscripción con vigencia de un año en el padrón de
+I. Inscripción con vigencia de un año en el padrón de proveedores y contratistas, al capital contable se le aplicará la siguiente tarifa:
 
-proveedores y contratistas: 22 cuotas;
+Límite Inferior Límite Superior
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+$0.01 $50,000.00 6 cuotas;
 
-II. Revalidación de la inscripción: 11 cuotas;
+$50,000.01 $100,000.00 10 cuotas;
+
+$100,000.01 $500,000.00 16 cuotas;
+
+$500,000.01 $1,000,000.00 20 cuotas;
+
+$1,000,000.01 en adelante 26 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+II. Revalidación de la inscripción:
+
+Límite Inferior Límite Superior
+
+$0.01 $50,000.00 3 cuotas;
+
+$50,000.01 $100,000.00 5 cuotas;
+
+$100,000.01 $500,000.00 8 cuotas;
+
+$500,000.01 $1,000,000.00 10 cuotas;
+
+$1,000,000.01 en adelante 13 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+III. Reposición de la cédula de registro 3 cuotas
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-III. Reposición de la cédula de registro 5 cuotas;
+IV. Inscripción a concursos de adquisición
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
-
-IV. Inscripción a concursos de adquisición por invitación 12 cuotas;
+por invitación 12 cuotas;
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -2249,9 +2267,11 @@ b) De tipo medio superior o academias $ 50.00;
 
 c) De tipo superior $ 70.00;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-XI. Compulsa de documentos, por foja: $ 8.00;
+XI. Compulsa de documentos, por documento
+
+original $8.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2845,25 +2865,33 @@ I. Arrendamientos, adjudicaciones, enajenaciones, explotación, uso y aprovecham
 
 II. Venta de impresos oficiales y papel especial para:
 
-a) Certificación de actas de registro civil $ 2.40
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-b) Asentamiento de actas de:
+a) Certificación de actas de registro civil $3.50;
 
-1.- Nacimiento, matrimonio o defunción, cada juego. $ 10.60
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-2.- Demás actas relativas al estado civil de las personas, cada juego $ 8.40
+b) Asentamiento de actas de registro civil,
 
-c) Asentamiento de escritura pública $ 2.50
+cada juego $15.50;
 
-d) Otras formas impresas, cada una $ 2.50
+c) Asentamiento de escritura pública $ 2.50;
+
+d) Otras formas impresas, cada una $ 2.50;
 
 e) Leyes, reglamentos, folletos y demás publicaciones, su costo se determinará de conformidad con el tiraje de la edición, número de hojas y calidad de impresión y encuadernación;
 
 f) Juego de 150 fojas de protocolo notarial abierto 10 cuotas;
 
-g) Formas de solicitud para inicio, renovación, cambio de domicilio, cambio de giro o transferencia del derecho de licencia, de establecimientos con venta de bebidas
+g) Formas de solicitud para inicio, renovación,
 
-alcohólicas $ 8.40
+cambio de domicilio, cambio de giro o
+
+transferencia del derecho de licencia, de
+
+establecimientos con venta de bebidas
+
+alcohólicas $ 8.40;
 
 h) Formas de permisos provisionales para circular sin placas. 1 cuota;
 
@@ -3058,3 +3086,9 @@ DECRETO No. 228, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
