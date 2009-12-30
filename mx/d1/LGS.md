@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2009-08-20"
+last_updated: "2009-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2009.
 
 ULTIMA MODIFICACION AL LISTADO DE SUSTANCIAS PSICOTROPICAS: 9 DE JULIO DE 1996.
 
@@ -1192,27 +1192,45 @@ Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura 
 
 El Sistema de Protección Social en Salud será financiado de manera solidaria por la Federación, los estados, el Distrito Federal y los beneficiarios en los términos de este Capítulo y el Capítulo V.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 77 Bis 12.
 
-El Gobierno Federal cubrirá anualmente una cuota social por cada familia beneficiaria del Sistema de Protección Social en Salud equivalente a quince por ciento de un salario mínimo general vigente diario para el Distrito Federal. La cantidad resultante se actualizará trimestralmente de acuerdo a la variación del Índice Nacional de Precios al Consumidor.
+El Gobierno Federal cubrirá anualmente una cuota social por cada persona afiliada al Sistema de Protección Social en Salud, la cual será equivalente al 3.92 por ciento de un salario mínimo general vigente diario para el Distrito Federal. La cantidad resultante se actualizará anualmente de conformidad con la variación anual observada en el índice Nacional de Precios al Consumidor.
 
-Esta aportación se hará efectiva a los estados y al Distrito Federal que cumplan con el artículo siguiente.
+Para los efectos de este artículo, la fecha de inicio para el cálculo de la actualización conforme al Índice Nacional de Precios al Consumidor será el primero de enero de 2009 y el salario mínimo general vigente diario para el Distrito Federal que se tomará en cuenta como punto de partida será el de ese mismo año.
 
-> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+La aportación a que se refiere este artículo se entregará a los estados y al Distrito Federal cuando cumplan con lo previsto en el artículo siguiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 77 Bis 13.
 
-Para sustentar el Sistema de Protección Social en Salud, el Gobierno Federal y los gobiernos de los estados y del Distrito Federal efectuarán aportaciones solidarias por familia beneficiaria conforme a los siguientes criterios:
+Para sustentar el Sistema de Protección Social en Salud, el Gobierno Federal y los gobiernos de los estados y del Distrito Federal efectuarán aportaciones solidarias por persona beneficiaría conforme a los siguientes criterios:
 
-I. La aportación estatal mínima por familia será equivalente a la mitad de la cuota social a que se refiere el artículo anterior, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2009)</small>
+
+I. La aportación mínima de los estados y del Distrito Federal por persona será equivalente a la mitad de la cuota social que se determine con base en el artículo anterior, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2003)</small>
 
 II. La aportación solidaria por parte del Gobierno Federal se realizará mediante la distribución del Fondo de Aportaciones para los Servicios de Salud a la Persona de conformidad con la fórmula establecida en las disposiciones reglamentarias de esta Ley. Dicha aportación deberá representar al menos una y media veces el monto de la cuota social que se fija en el artículo anterior.
 
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
 La fórmula a que hace referencia la fracción II de este artículo incorporará criterios compensatorios con base en el perfil de las necesidades de salud, la aportación económica estatal y el desempeño de los servicios estatales de salud.
 
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
+
 La Secretaría de Salud definirá las variables que serán utilizadas para establecer cada uno de los criterios compensatorios y determinará el peso que tendrá cada uno de ellos en la asignación por fórmula. Asimismo, proporcionará la información de las variables utilizadas para el cálculo.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 Los términos bajo los cuales se hará efectiva la concurrencia del Gobierno Federal y estatal para cubrir la aportación solidaria se establecerán en los acuerdos de coordinación a que hace referencia el artículo 77 Bis 6 de la Ley.
 
@@ -6056,21 +6074,21 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 421.
 
 Se sancionará con una multa equivalente de seis mil hasta doce mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 67, 101, 125, 127, 149, 193, 210, 212, 213, 218, 220, 230, 232, 233, 237, 238, 240, 242, 243, 247, 248, 251, 252, 255, 256, 258, 266, 306, 308, 309, 315, 317, 330, 331, 332, 334, 335, 336, 338, último párrafo, 342, 348, primer párrafo, 350 bis 1, 365, 367, 375, 376, 400, 411 y 413 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
 
 ###### ARTICULO 421 Bis.
 
 Se sancionará con multa equivalente de doce mil hasta dieciséis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 100, 122, 126, 146, 166 Bis 19, 166 Bis 20, 205, 235, 254, 264, 281, 289, 293, 298, 325, 327 y 333 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 422.
 
@@ -6987,3 +7005,11 @@ TERCERO.- A las personas que hayan cometido un delito de los contemplados en el 
 CUARTO.- Las autoridades competentes financiaran las acciones derivadas del cumplimiento del presente Decreto con los recursos que anualmente se prevea en el Presupuesto de Egresos de la Federación, sin menoscabo de los recursos que para tales efectos aporten las entidades federativas.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 30 DE DICIEMBRE DE 2009.
+
+Primero.- El presente Decreto entrará en vigor el día 1 de enero del 2010.
+
+Segundo.- El Ejecutivo Federal procederá a reformar y adicionar el Reglamento de la Ley General de Salud en materia de Protección Social en Salud, en un plazo que no excederá de nueve meses contados a partir de la entrada en vigor del presente Decreto. Mientras tanto las disposiciones de aquel se seguirán aplicando en lo que no se oponga al presente Decreto.
+
+Tercero.- A partir de la entrada en vigor de este Decreto, se podrán incorporar al Sistema de Protección Social en Salud la Población susceptible de nueva incorporación, con el fin de alcanzar el 100% de la cobertura en el año 2011.
