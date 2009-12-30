@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-24302"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-30"
-last_updated: "2008-12-29"
+last_updated: "2009-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el domingo 30 de diciembre de 2001.
 
@@ -445,11 +445,51 @@ Para efectos de pago de los créditos a cargo de los sujetos pasivos u obligados
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los 15 días siguientes a aquél en que haya surtido efectos su notificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 25.
 
-Se aceptarán como medios de pago, el efectivo y los cheques certificados o de caja, giros quirográficos, postal, bancario, así como los cheques de la cuenta personal del obligado, librado a favor de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca y a cargo de institución de crédito del domicilio correspondiente a la oficina en que deba efectuarse dicho pago. La Secretaría de Finanzas podrá, en su caso, autorizar algún otro medio o forma de pago.
+Se aceptarán como medios de pago de los créditos fiscales, el efectivo y los cheques certificados o de caja, giros quirográficos, postales, bancarios, así como los cheques de la cuenta personal del obligado, librados a favor de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca y a cargo de institución de crédito del domicilio correspondiente a la oficina en que deba efectuarse dicho pago. La Secretaría de Finanzas podrá, en su caso, autorizar algún otro medio o forma de pago.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Los pagos de los créditos fiscales que se realicen mediante cheques personales por parte de los contribuyentes sin certificar, deberán ser expedidos por los mismos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Cuando los créditos fiscales se paguen con cheque, éste deberá contener las inscripciones siguientes:
+
+I.- En el anverso:
+
+"Para abono en cuenta bancaria de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca";
+
+II.- En el reverso:
+
+“Cheque librado para el pago de contribuciones federales, coordinados o estatales, según sea el caso, a cargo del contribuyente (nombre, denominación o razón social del contribuyente) con Registro Federal de Contribuyentes (clave de Registro Federal de Contribuyentes); para abono en cuenta bancaria de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca";
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Los cheques a que se refiere este artículo no serán negociables y su importe deberá abonarse exclusivamente en la cuenta bancaria de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Podrá hacerse el pago de créditos fiscales con cheques personales del contribuyente sin certificar que cumplan con los requisitos señalados en este artículo, por conducto de los notificadores ejecutores en el momento de realizarse cualquier diligencia del procedimiento administrativo de ejecución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+En el acta respectiva se harán constar, en su caso, el número e importe del cheque, el número de cuenta contra la que se gira el cheque y la denominación de la Institución Bancaria correspondiente; debiendo indicarse al deudor del crédito fiscal que el comprobante de pago será puesto a su disposición en las oficinas de la autoridad ejecutora dentro del plazo de 3 días hábiles siguientes al del levantamiento del acta.
 
 Las contribuciones y sus accesorios se causarán y pagarán en moneda nacional.
 
@@ -581,15 +621,21 @@ I Cuando se trate de créditos o deudas, a cargo del estado, derivados de crédi
 
 II Cuando se trate de cualquier clase de créditos o deudas a cargo de la federación, otras entidades federativas, municipios u organismos descentralizados o empresas de participación estatal, a favor del estado; y,
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III Cuando se trate de obligaciones fiscales de pago a cargo de contribuyentes en los términos del artículo 17 de este Código, éstos podrán optar por compensar las cantidades que tengan a su favor, que se hubieren reflejado mediante declaración definitiva, según sea el caso, contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución. Para ello, bastará que efectúen la compensación en la siguiente declaración definitiva que presenten según sea el caso, de dichas cantidades actualizadas, cuando así procediere conforme al artículo 16 de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor, hasta aquél en que la compensación se realice;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+III Cuando se trate de obligaciones fiscales de pago a cargo de contribuyentes en los términos del artículo 17 de este Código. Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes tengan derecho a recibir de las autoridades fiscales por cualquier concepto contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retenciones a terceros que se encuentren firmes. Los contribuyentes podrán optar por compensar las cantidades que tengan a su favor, que se hubieren reflejado mediante declaración definitiva, según sea el caso, contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución. Para ello, bastará que efectúen la compensación en la siguiente declaración definitiva que presenten según sea el caso, de dichas cantidades actualizadas, cuando así procediere conforme al artículo 16 de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor, hasta aquél en que la compensación se realice.
 
 Si el saldo a favor cuya compensación se pretende no se hubiere reflejado en una declaración, el interesado presentará solicitud por escrito ante la Secretaría de Finanzas del Gobierno del Estado, adjuntando los documentos en que conste dicho saldo. De igual forma se procederá cuando se pretenda la compensación de cantidades provenientes de diversas contribuciones.
 
 En los casos previstos en las fracciones I y II de este artículo, la compensación procederá previo acuerdo de las partes.
 
-Cuando la compensación se hubiere operado en términos de la fracción III de este artículo y en tanto no se extingan las facultades de comprobación del fisco, tendrá el carácter de provisional.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Cuando la compensación se hubiere operado en términos de la fracción III de este artículo y en tanto no se extingan las facultades de comprobación del fisco, tendrá el carácter de provisional, excepto tratándose de la compensación de oficio que tendrá el carácter de definitiva.
 
 La compensación será procedente, cuando los créditos y deudas a favor o a cargo del fisco, sean líquidas o exigibles y provengan de la aplicación de un mismo ordenamiento legal.
 
@@ -601,7 +647,23 @@ Cuando se efectúe parcialmente la compensación, se podrá continuar compensand
 
 Si la compensación se hubiera efectuado y no procediera o se hiciere en cantidad mayor a la que legalmente se tuviere derecho, se causarán recargos sobre la cantidad compensada indebidamente y su correspondiente actualización, en términos de este Código, por el periodo transcurrido a partir de la fecha de la citada compensación y hasta que se efectúe el reintegro respectivo. Lo anterior sin perjuicio de las sanciones que en su caso haya lugar en los términos de los ordenamientos fiscales aplicables tanto para el contribuyente como para el responsable solidario en su caso.
 
-No se podrán compensar las cantidades cuya devolución haya sido solicitada o cuando hubiere prescrito la obligación a devolverlas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+La compensación también se podrá aplicar contra créditos fiscales inclusive aquellos cuyo pago se haya autorizado a plazos; en este último caso, la compensación deberá realizarse sobre el saldo insoluto al momento de efectuarse dicha compensación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Las autoridades fiscales notificaran personalmente al contribuyente la resolución que determine la compensación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+No se podrán compensar las cantidades cuando hubiere prescrito la obligación a devolverlas.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -627,7 +689,11 @@ Se faculta al ejecutivo del estado para que, a través de la Secretaría de Fina
 
 La Secretaría de Finanzas del Gobierno del Estado podrá condonar, total o parcialmente, las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo para imponer la sanción.
 
-La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto, no podrán ser impugnadas por los medios ordinarios de defensa.
 
 La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal, en los términos que al efecto establece el presente Código.
 
@@ -731,15 +797,25 @@ II Tratándose de créditos fiscales cuyo importe hubiere sido retenido alos (si
 
 III No procederá la devolución de cantidades pagadas indebidamente, cuando el crédito fiscal haya sido recaudado por tercero o repercutido por el obligado que hizo el entero correspondiente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 40.
 
-Para que proceda la devolución de cantidades pagadas indebidamente o en cantidad mayor a la debida, será necesario:
+La devolución de las cantidades pagadas indebidamente o en cantidad mayor a la debida, podrá hacerse de oficio o a petición del interesado.
 
-I Que medie petición por escrito ante la autoridad que recibió el pago, formulada por la parte interesada;
+Para que proceda la devolución a petición del interesado, será necesario:
+
+I Que medie petición por escrito ante la autoridad que recibió el pago;
 
 II Que no haya créditos fiscales exigibles, en cuyo caso cualquier excedente se aplicará a cuenta; y,
 
 III Que el derecho a reclamar la devolución, no se haya extinguido.
+
+Las autoridades fiscales, para verificar la procedencia de la devolución podrán requerir al contribuyente la presentación de los datos, informes o documentos adicionales que considere necesario y que estén relacionados con la misma. Para tal efecto las autoridades requerirán al promovente a fin de que en un plazo máximo de 15 días cumpla con lo solicitado, apercibiéndolo que de no hacerlo dentro de dicho plazo se le tendrá por desistido de su solicitud de devolución.
+
+No se considerara que las autoridades fiscales inicien ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes o documentos adicionales, a que se refiere el párrafo anterior.
 
 ###### ARTICULO 41.
 
@@ -803,23 +879,49 @@ No obstante la prevención anterior, los particulares o sus representantes podr�
 
 Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 46 A.- La Administración Pública del Estado, Centralizada y Paraestatal, en ningún caso contratará adquisiciones, arrendamientos, servicios u obra pública, con los contribuyentes que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con las disposiciones de este Código y demás ordenamientos aplicables, salvo que dichos contribuyentes celebren previamente convenio con las autoridades fiscales para cubrir a plazos, ya sea con pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo, con los recursos que obtengan por la enajenación, arrendamiento, servicios u obra pública que se pretendan contratar. Para estos efectos, en el convenio se establecerá que las dependencias antes citadas retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes; respetando los principios de la licitación de la que se trate.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-Los requisitos y procedimientos que deberán observar las Dependencias y Entidades de la Administración Pública Centralizada y Paraestatal del Estado para el cumplimiento de este artículo, se establecerán en las Reglas de Carácter General que para tal efecto emita la Secretaría de Finanzas del Gobierno del Estado.
+ARTICULO 46 A.- Los Poderes del Estado, incluidas en el Poder Ejecutivo las entidades paraestatales, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, con los contribuyentes que:
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+I. Tengan a su cargo créditos fiscales firmes;
 
-ARTICULO 46 B.- Las Dependencias y Entidades de la Administración Pública Centralizada y Paraestatal del Estado, a través de sus Titulares o responsables de sus unidades administrativas, tendrán la obligación de presentar ante las autoridades fiscales estatales, en la forma y términos que señale la Secretaría de Finanzas del Gobierno del Estado en las Reglas de Carácter General que para tal efecto emita, la información relativa a:
+II. Tengan a su cargo créditos fiscales determinados, que no se encuentren pagados o garantizados en alguna de las formas previstas en este Código;
+
+III. No se encuentren inscritos en el Padrón Fiscal de Contribuyentes;
+
+IV. Habiendo vencido el plazo para presentar alguna declaración periódica, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada.
+
+La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren previamente convenio con las autoridades fiscales para cubrir a plazos, ya sea con pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por la enajenación, arrendamiento, servicios u obra pública que se pretendan contratar, en un período que no deberá exceder del plazo establecido en el contrato celebrado con los Poderes del Estado, incluidas en el Poder Ejecutivo las entidades paraestatales.
+
+Para estos efectos, en el convenio referido en el párrafo que antecede se establecerá en el propio clausulado que los Poderes del Estado, incluidas en el Poder Ejecutivo las entidades paraestatales, retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos a que se refiere este artículo.
+
+Los requisitos y procedimientos que deberán observar los Poderes del Estado, incluidas en el Poder Ejecutivo las entidades paraestatales para el cumplimiento de este artículo, se establecerán en las Reglas de Carácter General que para tal efecto emita la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 46 B.- Los Poderes del Estado, incluidas en el Poder Ejecutivo las entidades paraestatales, a través de sus Titulares o responsables de sus unidades administrativas, tendrán la obligación de presentar ante las autoridades fiscales estatales, en la forma y términos que señale la Secretaría de Finanzas del Gobierno del Estado de Oaxaca en las Reglas de Carácter General que para tal efecto emita, la información relativa a:
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 I. Las personas a las que en el mes inmediato anterior les hubieren efectuado retenciones de impuestos federales, con motivo de pagos por concepto de arrendamientos o prestación de servicios.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+
 II. Los proveedores a los que les hubieren efectuado pagos por la adquisición de bienes, prestación de servicios, ejecución de obra pública o el uso o goce temporal de los bienes adquiridos o recibidos en el mes de que se trate.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 La información a que se refiere el párrafo anterior se deberá presentar a más tardar el día 10 del mes posterior al que corresponda dicha información.
 
-En caso de no cumplir con este artículo, los Titulares o responsables de las unidades administrativas de las Dependencias y Entidades mencionadas, se harán acreedores a la sanción prevista en el artículo 85, fracción IV de este Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+En caso de no cumplir con este artículo, los Titulares o responsables de las unidades administrativas de los Poderes del Estado, incluidas en el Poder Ejecutivo las entidades paraestatales, se harán acreedores a la sanción prevista en el artículo 85, fracción IV de este Código.
 
 ###### ARTICULO 47.
 
@@ -827,9 +929,13 @@ Son obligaciones de los sujetos pasivos:
 
 I Obtener previamente al ejercicio de sus actividades o inicio de operaciones, los permisos, licencias o registros que al efecto prevengan los ordenamientos fiscales, así como cumplir los requisitos señalados en los mismos y exhibirlos o acreditarlos ante las autoridades competentes, cuando éstas así lo requieran;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 II Inscribirse en la Secretaría de Finanzas del Gobierno del Estado dentro del mes siguiente, a partir de la fecha de inicio de operaciones o actividades;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -892,6 +998,12 @@ Quedan incluídos en la contabilidad los registros y cuentas especiales a que ob
 En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción VIII de este artículo, por los papeles de trabajo, cuentas bancarias, por los registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
 
 La Secretaría de Finanzas llevará registros de contribuyentes, basándose en los datos que éstos le proporcionen de conformidad con este Capítulo y en los que la propia Secretaría obtenga por cualquier otro medio. Asimismo, asignará el número de cuenta que corresponda a cada contribuyente inscrito, quien deberá citarla en todo documento que presente ante las autoridades fiscales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, continuarán haciéndolo en tanto no presenten los avisos que correspondan para efectos del Padrón Fiscal de Contribuyentes.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -1055,7 +1167,7 @@ En los supuestos previstos en esta fracción y agotados los actos señalados en 
 
 Las autoridades fiscales podrán solicitar a los obligados con cualquier carácter, datos, informes o documentos adicionales que consideren necesarios para aclarar la información asentada en las declaraciones de pago provisional, del ejercicio y complementarias, siempre que se soliciten en un plazo no mayor de tres meses siguientes a la presentación de las citadas declaraciones. La información solicitada, deberá presentarse dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la solicitud correspondiente.
 
-No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando únicamente soliciten los datos, informes y documentos a que se refiere este artículo, pudiendo ejercerlas en cualquier momento.
+No se considerará que las autoridades fiscales inician (sic) el ejercicio de sus facultades de comprobación, cuando únicamente soliciten los datos, informes y documentos a que se refiere este artículo, pudiendo ejercerlas en cualquier momento.
 
 ###### ARTICULO 60.
 
@@ -1069,7 +1181,7 @@ III Requerir a los sujetos pasivos, responsables solidarios o terceros, para que
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-IV Revisar los dictamenes formulados por contadores públicos registrados, sobre las contribuciones estatales de los contribuyentes;
+IV Revisar los dictámenes formulados por contadores públicos registrados, sobre las contribuciones estatales de los contribuyentes;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -1935,7 +2047,13 @@ En todo lo no previsto por el presente Código, se aplicarán las disposiciones 
 
 Las notificaciones de los actos administrativos, se harán:
 
-I Personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos, así como de resoluciones de carácter administrativo que puedan ser recurridas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+I Personalmente, por correo certificado o correo electrónico con mensaje de datos con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos, así como de resoluciones de carácter administrativos que puedan ser recurridas.
+
+En el caso de notificaciones por documento digital, deberá realizarse desde el sitio oficial de Internet de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, conforme a las reglas de carácter general que para tales efectos establezca la propia secretaría;
 
 II Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
 
@@ -2045,7 +2163,7 @@ Tratándose de fianza a favor de la Secretaría de Finanzas del Gobierno del Est
 
 I La autoridad ejecutora requerirá de pago a la afianzadora, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad. Para ello, se tendrá como apoderado de ésta y como domicilio para dicho efecto, el que se hubiere designado ante la Secretaría de Hacienda y Crédito Público, para estos efectos, en materia federal; y
 
-II Si no se paga dentro del mes siguiente a la fecha en que surta efectos la notificación del requerimiento, la propia ejecutora solicitará a la Secretaría de Hacienda y Crédito Publico, que remate en bolsa, valores propiedad de la afianzadora, suficientes para cubrir el importe de lo requerido y hasta el límite de lo garantizado y le envíe su producto.
+II Si no se paga dentro del mes siguiente a la fecha en que surta efectos la notificación del requerimiento, la propia ejecutora solicitará a la Secretaría de Hacienda y Crédito Público, que remate en bolsa, valores propiedad de la afianzadora, suficientes para cubrir el importe de lo requerido y hasta el límite de lo garantizado y le envíe su producto.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -2097,6 +2215,22 @@ El embargo precautorio quedará sin efectos si la autoridad no emite dentro del 
 
 El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de su exigibilidad y se aplicará el procedimiento administrativo de ejecución.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 121 A.- La Secretaría de Finanzas del Gobierno del Estado de Oaxaca, podrá cancelar créditos fiscales en las Cuentas Públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
+
+Se consideran créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 20 salarios mínimos; aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 1,000 salarios mínimos y cuyo costo de recuperación rebase el 75% del importe del crédito; así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
+
+Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o estos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere el segundo párrafo de este artículo, se determinarán de conformidad con las disposiciones aplicables.
+
+La Secretaría de Finanzas del Gobierno del Estado de Oaxaca dará a conocer las reglas de carácter general para la aplicación de este artículo, mismas que serán publicadas en el Periódico Oficial del Gobierno del Estado.
+
+La cancelación de los créditos a que se refiere este artículo no libera la obligación de su pago.
+
 ###### ARTICULO 122.
 
 Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, se causarán gastos de ejecución, que serán a cargo de la o las personas contra quien o quienes se hubiere instrumentado.
@@ -2110,6 +2244,12 @@ I Por la de requerimiento señalado en el primer párrafo del artículo 124 de e
 II Por la de embargo, incluyendo los señalados en los artículos 58 fracción II y 116 fracción IV;
 
 III Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Cuando el 3% del crédito, incluida su actualización, sea inferior a 5 veces el salario mínimo vigente en la fecha de la diligencia, se cobrará esta cantidad.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -2229,8 +2369,6 @@ El embargo podrá ampliarse en cualquier momento del procedimiento administrativ
 
 La persona con quien se entienda la diligencia de embargo podrá designar los bienes en que el mismo se debe trabar, siempre que los bienes que designe sean de fácil realización o venta, sujetándose al orden siguiente:
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
 I En los casos de embargo en la vía administrativa, los bienes inmuebles o las negociaciones; y
 
 II En los demás casos:
@@ -2257,19 +2395,23 @@ g) Negociaciones comerciales, industriales, agrícolas, ganaderas, pesqueras o s
 
 h) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2005)
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La persona con quien se entienda la diligencia podrá designar dos testigos que asistan a la misma.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+La persona con quien se entienda la diligencia de embargo tendrá derecho a designar dos testigos que asistan a la misma, si no lo hiciere o al término de la diligencia éstos se negaren a firmar, así lo hará constar el ejecutor en el acta respectiva sin que tales circunstancias afecten la legalidad del embargo.
 
-Si la persona con quien se entiende la diligencia no designa los testigos o al término de la diligencia éstos se negaren a firmar, el ejecutor los designará para el primer caso, y para el segundo así lo hará constar en el acta respectiva sin que tales circunstancias afecten la legalidad del embargo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 132.
 
-El servidor público designado para la práctica de la diligencia podrá señalar bienes sin sujetarse al orden establecido en la fracción II del artículo anterior:
+El notificador-ejecutor, designado para la práctica de la diligencia podrá señalar bienes sin sujetarse al orden establecido en la fracción II del artículo anterior:
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -2287,13 +2429,47 @@ b) Bienes que ya reporten cualquier gravamen.
 
 c) Bienes de fácil descomposición o deterioro o materias inflamables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+El notificador-ejecutor designado deberá señalar, invariablemente, bienes de fácil realización o venta. En el caso de bienes inmuebles, el notificador-ejecutor designado solicitará al deudor o a la persona con quien se entiende la diligencia que manifieste bajo protesta de decir verdad si dichos bienes reportan cualquier gravamen, se encuentran en copropiedad o pertenecen a sociedad conyugal legal o voluntaria. Para estos efectos, el deudor o la persona con quien se entienda la diligencia deberá acreditar fehacientemente dichos hechos dentro de los 15 días siguientes a aquel en que se inició la diligencia correspondiente, haciéndose constar esta situación en el acta que se levante o bien, su negativa.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Si al estarse practicando la diligencia de requerimiento de pago, el deudor hiciere el pago del crédito y de los accesorios causados, el notificador-ejecutor asentará este hecho en el acta de requerimiento, señalando que por este motivo no se continuará con la diligencia de embargo; siendo legalmente válido el requerimiento de pago efectuado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Si dicho pago se hiciere durante la diligencia de embargo, el notificador-ejecutor hará constar este hecho en el acta respectiva, asentando asimismo la suspensión de la diligencia por este motivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+En ambos casos, el notificador-ejecutor deberá asentar en el acta correspondiente la forma de pago utilizada por el deudor, con base en lo dispuesto en el artículo 25 de este Código, procediendo a asentar su nombre y firma en dicha acta, cuya copia con firma autógrafa será entregada al deudor como constancia de lo actuado, además del correspondiente mandamiento de ejecución, debiendo dicho notificador-ejecutor enterar el pago a más tardar al día hábil siguiente en la oficina ejecutora, misma que pondrá a disposición del contribuyente el comprobante del pago respectivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+El comprobante de pago respectivo que acredite el cumplimiento del adeudo, se entregará al deudor del crédito fiscal, representante legal o persona autorizada para tal efecto, siempre y cuando se identifique con documento oficial y acredite su representación o autorización ante la autoridad fiscal.
+
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
-El servidor público designado deberá señalar, invariablemente, bienes de fácil realización o venta. En el caso de bienes inmuebles, el servidor público designado solicitará al deudor o a la persona con quien se entiende la diligencia que manifieste bajo protesta de decir verdad si dichos bienes reportan cualquier gravamen, se encuentran en copropiedad o pertenecen a sociedad conyugal legal o voluntaria. Para estos efectos, el deudor o la persona con quien se entienda la diligencia deberá acreditar fehacientemente dichos hechos dentro de los 15 días siguientes a aquél en que se inició la diligencia correspondiente, haciéndose constar esta situación en el acta que se levante o bien, su negativa.
+###### ARTICULO 132 Bis.
 
-Si al estarse practicando la diligencia de embargo, el deudor hiciere pago del crédito y de los accesorios causados, el ejecutor suspenderá dicha diligencia y expedirá recibo provisional del entero correspondiente, debiendo dicho servidor público invariablemente, recabar el recibo oficial expedido por la Secretaría de Finanzas del Gobierno del Estado del entero citado, y entregarlo al contribuyente en el domicilio fiscal señalado por éste, dentro de un plazo que no exceda de tres días contados a partir del pago efectuado por el contribuyente.
+En el caso de depósitos bancarios en términos del artículo 131 fracción II, inciso a) del presente Código, la autoridad fiscal que haya ordenado el embargo girará oficio al gerente de la sucursal bancaria a la que corresponda la cuenta, a efecto de que inmovilice y conserve los fondos depositados.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+La institución bancaria deberá informar a la autoridad a que se refiere el párrafo anterior, el incremento de los depósitos bancarios por los intereses que se generen, en el mismo periodo y frecuencia con que lo haga el cuentahabiente.
+
+Los fondos únicamente podrán transferirse al fisco estatal una vez que el crédito fiscal relacionado quede firme, y hasta el importe necesario para cubrirlo.
+
+En tanto el crédito fiscal garantizado no quede firme, el sujeto titular de las cuentas bancarias embargadas podrá ofrecer otra forma de garantía de acuerdo con el artículo 116 de este Código, en sustitución de los embargos de las cuentas. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de 10 días. La autoridad tendrá obligación de comunicar a la institución bancaria el sentido de la resolución, enviándole copia de la misma, dentro del plazo de 15 días siguientes al en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la institución bancaria levantará el embargo de la cuenta.
 
 ###### ARTICULO 132
 
@@ -2391,7 +2567,7 @@ Si el crédito es litigioso, se hará además saber del embargo al juez que cono
 
 ###### ARTICULO 138.
 
-Cuando se embarguen dinero, metales preciosos, acciones, bonos o cualquier otro título de crédito o de valores, así como alhajas u objetos de arte, el depositario los entregará dentro de un término que no excederá de veinticuatro horas, previo inventario, en la caja de la oficina ejecutora, la que conservará dichos valores bajo su mas estricta responsabilidad, cuidando de hacer efectivos los títulos a su vencimiento. De lo anterior, se dejará constancia en el expediente de ejecución.
+Cuando se embarguen dinero, metales preciosos, acciones, bonos o cualquier otro título de crédito o de valores, así como alhajas u objetos de arte, el depositario los entregará dentro de un término que no excederá de veinticuatro horas, previo inventario, en la caja de la oficina ejecutora, la que conservará dichos valores bajo su más estricta responsabilidad, cuidando de hacer efectivos los títulos a su vencimiento. De lo anterior, se dejará constancia en el expediente de ejecución.
 
 Tratándose de los demás bienes, el plazo para la entrega de los bienes embargados serán (sic) de cinco días hábiles contados a partir del día siguiente de la diligencia de embargo.
 
@@ -2797,6 +2973,12 @@ Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria
 
 En el recurso de revocación se admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+La autoridad que conozca del recurso de revocación para un mejor conocimiento de los hechos controvertidos, podrá acordar la exhibición de cualquier documento, así como ordenar la práctica de cualquier diligencia que tengan (sic) relación con los mismos.
+
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2006)</small>
@@ -2861,9 +3043,9 @@ OTILIA GALINDO GARCIA,
 
 Diputada Secretaria. Rúbrica.
 
-Por lo tanto ##.-
+Por lo tanto (sic).-
 
-##.- mando que se imprima, publique, circule y se le dé el debido cumplimiento.
+(sic).- mando que se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Oaxaca de Juárez, Oax., 20 de diciembre del 2001.
 
@@ -2930,3 +3112,7 @@ SEGUNDO.- La Secretaría de Finanzas del Gobierno del Estado para la aplicación
 P.O. 29 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2010, previa publicación en el Periódico Oficial del Gobierno del Estado.
