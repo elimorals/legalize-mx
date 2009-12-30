@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-69312"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-15"
-last_updated: "2009-07-15"
+last_updated: "2009-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -153,7 +153,9 @@ II. Proponer al Titular del Ejecutivo del Estado, en el ámbito de su competenci
 
 III. Formular propuestas al Titular del Ejecutivo del Estado, de las medidas que convengan para el mejoramiento de la procuración de justicia, escuchando la opinión de los funcionarios públicos, personas y sectores que por su actividad, función o especialidad pudiesen aportar elementos de juicio;
 
-IV. Suscribir los acuerdos y convenios de colaboración, en materia de procuración de justicia, con la federación, los estados y los municipios, en términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Constitución Política del Estado Libre y Soberano de Puebla y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+IV. Suscribir los acuerdos, convenios, bases de colaboración, y demás instrumentos jurídicos en materia de procuración de justicia, con la federación, los estados, los municipios, organismos públicos y organizaciones del sector social y privado, en términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Constitución Política del Estado y demás disposiciones legales aplicables;
 
 V. Poner en conocimiento de la Presidencia del Tribunal Superior de Justicia del Estado, las irregularidades que se adviertan en los juzgados, para que se tomen las medidas conducentes;
 
@@ -171,9 +173,19 @@ XI. Proponer al Titular del Ejecutivo del Estado el nombramiento o remoción del
 
 XII. Realizar la rotación o cambio de adscripción del personal de la Dependencia, atendiendo al Servicio de Carrera Ministerial, Pericial y Policial;
 
-XIII. Autorizar el registro y funcionamiento de las personas físicas o jurídicas que presten servicios de seguridad privada en el Estado; y
+XIII. Autorizar el registro y funcionamiento de las personas físicas o jurídicas que presten servicios de seguridad privada en el Estado; y (sic)
 
-XIV. Las que le señalen los demás ordenamientos legales aplicables.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+XIV. Solicitar a la autoridad judicial federal correspondiente, la intervención de comunicaciones privadas en la investigación de delitos calificados como graves en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+XV. Autorizar, previa aprobación del Titular del Ministerio Público de la Federación o de quien éste designe, qué agentes de la policía ministerial bajo su conducción y mando posean, compren, adquieran o reciban la transmisión material de algún narcótico para lograr la detención del probable responsable de delitos contra la salud en su modalidad de narcomenudeo a que se refiere la Ley General de Salud; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+XVI. Las que le señalen los demás ordenamientos legales aplicables.
 
 ###### Artículo 10.
 
@@ -375,9 +387,11 @@ XV. Las que le señalen los demás ordenamientos legales aplicables.
 
 ### CAPÍTULO VI. DE LAS BASES DE ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 26.
 
-La Procuraduría General de Justicia del Estado, además de su Titular, contará con Subprocuradurías, Coordinaciones y Direcciones Generales, Direcciones, Coordinaciones y demás unidades necesarias. El Reglamento de la Ley, describirá el número, distribución, funciones y niveles de las áreas, para el cumplimiento de sus objetivos acorde con las necesidades y el presupuesto.
+La Procuraduría General de Justicia del Estado, además de su Titular, contará con Subprocuradurías, Coordinaciones y Direcciones Generales, Direcciones, Coordinaciones, Supervisiones, y demás unidades necesarias. El Reglamento de la Ley, describirá el número, distribución, funciones y niveles de las áreas, para el cumplimiento de sus objetivos acorde con las necesidades y el presupuesto.
 
 ###### Artículo 27.
 
@@ -417,9 +431,11 @@ VI. No haber sido condenado por sentencia irrevocable por delito doloso o culpos
 
 VII. Contar con el certificado y registro a que se refiere esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 33.
 
-Para ser Coordinador General, Director General, Director, o bien, Coordinador, la persona aspirante deberá reunir los requisitos siguientes:
+Para ser Coordinador General, Director General, Director, Coordinador o bien, Supervisor, la persona aspirante deberá reunir los requisitos siguientes:
 
 I. Tener nacionalidad mexicana, en pleno ejercicio de sus derechos;
 
@@ -427,7 +443,9 @@ II. Tener, como mínimo, veintinueve años cumplidos al momento de su designaci�
 
 III. Gozar de buen estado psicofisiológico;
 
-IV. Ser profesional del Derecho con título legalmente expedido, con la correspondiente cédula profesional;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+IV. Contar con título y cédula profesional;
 
 V. No haber sido condenada por sentencia irrevocable como responsable de delito doloso o culposo calificado como grave;
 
@@ -437,7 +455,13 @@ VII. No ser adicta a estupefacientes, sustancias psicotrópicas ni padecer alcoh
 
 VIII. Contar con el certificado y registro a que se refiere esta Ley; y
 
-IX. Tener, como mínimo, cinco años en el ejercicio profesional; salvo los casos de Coordinadores, en los que bastará tres años en el ejercicio de la profesión.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+IX. Tener, como mínimo, cinco años en el ejercicio profesional; salvo los casos de Coordinadores y Supervisores en los que bastará tres años en el ejercicio de la profesión.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Aquéllos que se encuentren directamente relacionados tanto con el área de Averiguaciones Previas como a la de Procesos, deberán ser profesionales del Derecho con título legalmente expedido y la correspondiente cédula profesional.
 
 ###### Artículo 34.
 
@@ -455,33 +479,39 @@ III. El personal contratado para el mejor ejercicio de las funciones del Ministe
 
 El Reglamento de esta Ley señalará a los servidores públicos que, sin tener el nombramiento de agente del Ministerio Público, por la naturaleza de sus funciones, deban ejercer dichas atribuciones. Los citados servidores públicos quedarán comprendidos en la fracción II de este artículo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 36.
 
 El Ministerio Público estará integrado por agentes del Ministerio Público de carrera y agentes del Ministerio Público de designación especial.
 
 Los servicios periciales estarán integrados por peritos de carrera y peritos de designación especial.
 
-Para los efectos de este artículo, se entiende por designación especial aquéllos que sin ser de carrera, son nombrados por el Procurador para atender asuntos que por sus circunstancias especiales así lo requieran.
+La policía ministerial estará integrada por policías de carrera y policías de designación especial.
+
+Para los efectos de este artículo, se entiende por designación especial aquéllos que sin ser de carrera, son nombrados por el Procurador.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 37.
 
-El Procurador, de conformidad con el Reglamento de esta Ley y lo que establezcan las disposiciones relativas al servicio de carrera ministerial y pericial podrá, en casos excepcionales, designar agentes del Ministerio Público o peritos especiales tratándose de personas con amplia experiencia profesional, dispensando la presentación de los concursos de ingreso; dichas personas deberán estar en pleno ejercicio de sus derechos y satisfacer los requisitos siguientes:
+Tratándose de personas con amplia experiencia profesional, el Procurador podrá, en casos excepcionales, designar agentes del Ministerio Público, peritos o agentes de la policía ministerial de designación especial, dispensando la presentación de los concursos, cursos de ingreso, formación inicial o básica correspondientes; el número de las mencionadas designaciones será el estrictamente necesario para atender las necesidades del servicio y no podrá exceder del plazo de dos años. Dichas personas deberán estar en pleno ejercicio de sus derechos y satisfacer los demás requisitos señalados en esta Ley para su cargo.
 
-I. Para ser agente del Ministerio Público, titular, adjunto, auxiliar u oficial, los señalados en esta Ley con excepción de la fracción VII del artículo 61; y
+Los agentes del Ministerio Público, peritos o policías ministeriales por designación especial, al momento de su nombramiento, no deberán ser miembros del servicio de carrera ministerial, pericial ni policial.
 
-II. Para ser perito, los señalados en esta Ley con excepción del establecido en el artículo 65 fracción V.
+En cualquier momento, se podrán dar por terminados los efectos del nombramiento de las personas designadas conforme a este artículo.
 
-Los agentes del Ministerio Público y peritos de designación especial, no podrán ser miembros del servicio de carrera ministerial y pericial.
-
-En cualquier momento, se podrán dar por terminados los efectos del nombramiento de las personas designadas conforme a este artículo, sin que para ello sea necesario agotar el procedimiento a que se refiere el artículo 89 de esta Ley.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 38.
 
-Los agentes del Ministerio Público y peritos de designación especial, en lo conducente participarán en los programas de capacitación, actualización y especialización, y gozarán de los derechos a que se refiere el artículo 44 de esta Ley, salvo los contenidos en las fracciones I, III, IV y V.
+Los agentes del Ministerio Público, peritos o policías ministeriales de designación especial, en lo conducente participarán en los programas de capacitación, actualización y especialización, y gozarán de los derechos y demás prestaciones que se establezcan por las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 39.
 
-Los agentes del Ministerio Público y peritos de designación especial, podrán ser miembros del servicio de carrera de procuración de justicia, siempre y cuando cumplan con los requisitos que para tal efecto señala esta Ley.
+Los agentes del Ministerio Público, peritos o policías ministeriales de designación especial, podrán ser miembros del servicio de carrera de procuración de justicia, siempre y cuando cumplan con los requisitos que para tal efecto señala esta Ley.
 
 ###### Artículo 40.
 
@@ -491,9 +521,11 @@ Ninguna persona podrá permanecer en el servicio público de la Procuraduría si
 
 ### CAPÍTULO I. DE LAS OBLIGACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 41.
 
-Los integrantes de la Procuraduría, con el fin de garantizar el cumplimiento de los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto de los derechos humanos, tendrán las obligaciones siguientes:
+Los integrantes de la Procuraduría, con el fin de garantizar el cumplimiento de los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto de los derechos humanos, en el ámbito de su competencia, tendrán las obligaciones siguientes:
 
 I. Someterse a los procesos de evaluación y certificación en los términos establecidos en esta Ley;
 
@@ -501,7 +533,9 @@ II. Participar en los cursos de capacitación, actualización y especialización
 
 III. Conducirse siempre con dedicación y disciplina, así como con apego al orden jurídico y respeto a las garantías individuales y derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos;
 
-IV. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+IV. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones legales aplicables, los agentes del Ministerio Público expedirán constancias de las actuaciones, registros o dictámenes que obren en su poder, por mandamiento fundado y motivado de autoridad judicial, ministerial o administrativa; por solicitud del ofendido o víctima; y por solicitud del inculpado o su defensor, cuando ya conste en actuaciones la declaración del inculpado; siempre que resulten indispensables para el ejercicio de un derecho o cumplimiento de obligaciones previstas por la Ley y no entorpezca la investigación de los hechos;
 
 V. Prestar auxilio a las personas que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos, cuando resulte procedente. Su actuación deberá ser congruente, oportuna y proporcional al hecho;
 
@@ -541,7 +575,33 @@ XXII. Impedir que personas ajenas a la Dependencia realicen actos inherentes a l
 
 XXIII. Excusarse del conocimiento de los asuntos en los cuales tenga algún interés, o sus familiares consanguíneos, en línea recta sin limitación de grado, colaterales dentro del cuarto grado, afines dentro del segundo, al cónyuge o a la persona con la que se encuentre en estado de concubinato; y
 
-XXIV. Las demás que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+XXIV. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+XXV. Utilizar los protocolos de investigación y de cadena de custodia adoptados por las Instituciones de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+XXVI. Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en su caso, en el personal bajo su mando;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+XXVII. Abstenerse, conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+XXVIII. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudadanía y en su caso, de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+XXIX. Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Institución, dentro o fuera del servicio; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+XXX. Las demás que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 42.
 
@@ -688,6 +748,10 @@ I. El ingreso comprende los requisitos y procedimientos de selección, formació
 II. El desarrollo comprenderá los requisitos y procedimientos de formación continua y especializada, de actualización, de evaluación para la permanencia, de evaluación del desempeño, de desarrollo y ascenso, de dotación de estímulos y reconocimientos, de reingreso y de certificación. De igual forma, deberá prever medidas disciplinarias y sanciones para los miembros del Servicio de Carrera; y
 
 III. La terminación comprenderá las causas ordinarias y extraordinarias de separación del Servicio, así como los procedimientos y recursos de inconformidad a los que haya lugar, ajustándose a lo establecido por las leyes y disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+El Reglamento correspondiente describirá los niveles jerárquicos de los agentes del Ministerio Público y los peritos.
 
 ###### Artículo 60.
 
@@ -963,45 +1027,59 @@ El régimen disciplinario se ajustará a los principios establecidos en la Const
 
 La Comisión de Honor y Justicia es la instancia colegiada facultada para resolver de las faltas al régimen disciplinario e imponer las correcciones disciplinarias a los elementos de la Policía Ministerial.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 80.
 
-La Comisión de Honor y Justicia está integrada por:
+La Comisión de Honor y Justicia, será presidida por el Procurador, quien tendrá voto de calidad, y estará integrada por los servidores públicos que determine el Reglamento; los cargos de sus integrantes serán honoríficos.
 
-I. El Procurador, quien tendrá voto de calidad;
+El funcionamiento y organización de la Comisión de Honor y Justicia será en los términos de las disposiciones reglamentarias correspondientes.
 
-II. Los Subprocuradores;
-
-III. El Titular de la Policía Ministerial; y
-
-IV. Dos comandantes y dos policías ministeriales de reconocido prestigio, buena reputación y excelente desempeño en la Dependencia; cuya designación estará a cargo del Procurador.
-
-El funcionamiento y organización de la Comisión de Honor y Justicia será en los términos que establezca el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 81.
 
-Corresponde a la Comisión de Honor y Justicia aplicar las sanciones que deban imponerse a los integrantes de la Policía Ministerial por faltas graves a la disciplina; las faltas no graves serán impuestas por el superior jerárquico, en términos del Reglamento de esta Ley.
+Corresponde a la Comisión de Honor y Justicia aplicar las sanciones que deban imponerse a los integrantes de la Policía Ministerial pertenecientes al servicio de carrera de procuración de justicia, por el incumplimiento a las obligaciones señaladas en el artículo 42 de esta Ley, lo que se traduce en faltas a la disciplina que serán calificadas como graves.
 
-El procedimiento se instaurará ante la unidad administrativa que determine el Reglamento de esta Ley, iniciará por solicitud fundada y motivada del titular de la unidad a la que se encuentre adscrita el servidor público o del titular de la unidad administrativa encargada de vigilar el desempeño de las funciones que ejercen los elementos policiales.
+Las faltas no graves serán impuestas por el superior jerárquico, en términos del Reglamento de esta Ley y son:
+
+I.- Desobedecer sin causa justificada las órdenes dictadas por sus superiores jerárquicos, relacionadas con el servicio que tienen encomendado;
+
+II.- Vejar o insultar a sus superiores, a elementos policiales del mismo grado o en su caso, a sus subordinados;
+
+III.- Asistir al servicio sin pulcritud en su persona o descuidar los documentos que se generen con motivo de sus funciones; y
+
+IV.- Ausentarse del servicio, comisión, o funciones encomendadas por un periodo menor de tres días.
 
 ###### Artículo 82.
 
 Se agregará al expediente del infractor, copia certificada de las correcciones o sanciones disciplinarias que se le impongan, según el caso:
 
-I. Las correcciones disciplinarias, que serán impuestas por el superior jerárquico en términos de lo que determine el Reglamento, y serán:
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-a) Amonestación privada o pública;
+I. La corrección disciplinaria impuesta por el superior jerárquico en términos de lo que determine el Reglamento, será el arresto, el cual consistirá en la reclusión del infractor en el lugar destinado al efecto durante un tiempo determinado no mayor de 15 días, sin que en ningún caso se le haga sufrir vejaciones, malos tratos o incomunicación.
 
-b) Arresto hasta por treinta y seis horas;
+Toda orden de arresto será por escrito, la cual contendrá el motivo y fundamento legal del mismo, duración y lugar en que deberá cumplirse;
 
-II. Las sanciones disciplinarias, que serán impuestas por la Comisión de Honor y Justicia, en los términos de lo que determine el Reglamento, y serán:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-a) Suspensión en el ejercicio del cargo y del goce de la remuneración correspondiente, hasta por noventa días; y
+II. Las sanciones disciplinarias, a imponer por la Comisión de Honor y Justicia, en los términos de lo que determine el Reglamento, serán:
 
-b) Remoción.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+a) Amonestación pública o privada;
+
+b) Suspensión en el ejercicio del cargo y del goce de la remuneración correspondiente, hasta por noventa días; y
+
+c) Remoción.
 
 ###### Artículo 83.
 
 La imposición de las sanciones disciplinarias que determine la Comisión de Honor y Justicia se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa en que incurran los integrantes de la Policía Ministerial.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+El procedimiento se instaurará ante la unidad administrativa que determine el Reglamento de esta Ley, iniciará por solicitud fundada y motivada del titular de la unidad a la que se encuentre adscrita el servidor público o del titular de la unidad administrativa encargada de vigilar el desempeño de las funciones que ejercen los elementos policiales.
 
 ###### Artículo 84.
 
@@ -1015,41 +1093,21 @@ III. Una vez celebrada la audiencia referida en la fracción anterior, la unidad
 
 Los procedimientos a que se refiere este artículo, deberán realizarse con estricto apego a las disposiciones legales aplicables y se observará en todo momento las formalidades esenciales del procedimiento.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 85.
 
-En contra de las resoluciones por las que se imponga alguna de las sanciones disciplinarias previstas en el artículo 82 fracción II de esta Ley, procede el Recurso de Revisión, mismo que deberá interponerse dentro de los cinco días hábiles siguientes a la notificación de la resolución ante la Comisión y será resuelto por el Procurador. En el escrito correspondiente se expresarán los agravios y se ofrecerán las pruebas sobre las que no hubiese tenido conocimiento en el procedimiento de origen.
+En contra de las resoluciones por las que la Comisión de Honor y Justicia imponga alguna de las sanciones disciplinarias a que se refiere esta Ley, no procede recurso administrativo alguno.
 
 ### CAPÍTULO V. DE LA COMISIÓN DE SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 86.
 
-La Comisión de Servicio de Carrera de Procuración de Justicia es la instancia normativa encargada del desarrollo y evaluación del Servicio de Carrera de Procuración de Justicia; será presidida por el Procurador y se integrará por:
+La Comisión de Servicio de Carrera de Procuración de Justicia es la instancia normativa encargada de la instrumentación, desarrollo y evaluación del Servicio de Carrera de Procuración de Justicia; estará integrada por los servidores públicos que determinen las disposiciones reglamentarias; será presidida por el Procurador, quien tendrá voto de calidad; y los cargos de sus integrantes serán honoríficos.
 
-I. El Procurador;
-
-II. Los Subprocuradores;
-
-III. El Director de Supervisión Técnica;
-
-IV. El Director del Instituto de Capacitación y Profesionalización;
-
-V. El Director de Información, Análisis y Control de la Conducta Individual;
-
-VI. El Director del Centro de Evaluación y Control de Confianza;
-
-VII. El Director Administrativo;
-
-VIII. El Director de Asuntos Internos de Policía Ministerial;
-
-IX. El Director de la Policía Ministerial;
-
-X. Un agente del Ministerio Público de reconocido prestigio profesional, buena reputación y excelente desempeño en la Dependencia, cuya designación estará a cargo del Procurador;
-
-XI. Un representante del Colegio de Peritos de la Procuraduría;
-
-XII. Dos representantes del ámbito académico, de reconocido prestigio, buena reputación y de desempeño ejemplar en el ámbito universitario o de investigación, cuya designación estará a cargo del Procurador; y
-
-XIII. Los demás funcionarios que en su caso determinen las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia o el Procurador por acuerdo.
+El funcionamiento y organización de esta Comisión será en los términos que establezcan las disposiciones reglamentarias correspondientes.
 
 ###### Artículo 87.
 
@@ -1097,13 +1155,17 @@ V. Contra la resolución de la Comisión de Servicio de Carrera de Procuración 
 
 ### CAPÍTULO VII. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 90.
 
-Las sanciones por incurrir en el incumplimiento de las obligaciones que señala esta Ley en los artículos 41 y 42 serán:
+Las sanciones por incurrir en el incumplimiento de las obligaciones que señala esta Ley en el artículo 41, serán:
 
 I. Amonestación pública o privada;
 
-II. Suspensión hasta por seis meses; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+II. Suspensión en el ejercicio del cargo y del goce de la remuneración correspondiente, hasta por seis meses; y
 
 III. Remoción.
 
@@ -1125,7 +1187,9 @@ III. A partir de la fecha de la notificación, se le concederá un término de q
 
 IV. Concluido el término antes señalado y dentro de los cinco días hábiles siguientes se llevará a cabo la audiencia de desahogo de pruebas y alegatos; y
 
-V. Hecho lo anterior, la unidad administrativa correspondiente turnará el expediente al Procurador, quien resolverá sobre la existencia o inexistencia de la responsabilidad del servidor público, imponiendo la sanción que corresponda.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+V. Se podrán imponer a los servidores públicos de la Procuraduría por el incumplimiento de las obligaciones señaladas en el artículo 41 de esta Ley, las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, mediante el procedimiento establecido en el presente artículo.
 
 ###### Artículo 93.
 
@@ -1233,9 +1297,11 @@ Los servidores públicos de la Procuraduría y en general toda persona que desem
 
 El órgano interno de control que determine el Reglamento de esta Ley, ejercerá las funciones que le otorga la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 110.
 
-Se podrán imponer a los servidores públicos de la Procuraduría, por el incumplimiento de las obligaciones señaladas en los artículos 41 y 42 de esta Ley las sanciones previstas en los ordenamientos legales aplicables en materia de responsabilidades de los servidores públicos, mediante el procedimiento establecido en el artículo 92 de esta Ley.
+Se podrán imponer a los servidores públicos de la Procuraduría por el incumplimiento de las obligaciones señaladas en el artículo 41 de esta Ley, las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, mediante el procedimiento establecido en el artículo 92 de esta Ley.
 
 ###### Artículo 111.
 
@@ -1255,11 +1321,21 @@ Si el agente del Ministerio Público interviene en un asunto aun cuando no deba 
 
 La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público dará lugar al empleo de medidas de apremio o a la imposición de correcciones disciplinarias, según sea el caso, en los términos que previenen las normas aplicables. Cuando la desobediencia o resistencia constituyan delito, se iniciará la averiguación previa respectiva.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 114.
 
 Los agentes del Ministerio Público, peritos y policías ministeriales podrán ser separados de sus cargos si no cumplen con los requisitos de permanencia que establezcan las leyes vigentes o si incurren en alguna causa de responsabilidad en el desempeño de sus funciones.
 
 Si la separación, remoción, inhabilitación o cualquier otra forma de terminación del servicio es injustificada, se deberá pagar la indemnización correspondiente y demás prestaciones a que tenga derecho, sin que en ningún caso proceda la reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido; de conformidad con el artículo 123, Apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos. Tal circunstancia será inscrita en el Registro Nacional de Personal de Seguridad Pública correspondiente.
+
+La indemnización a que se refiere el párrafo anterior consistirá en:
+
+I.- Veinte días de salario por cada uno de los años de servicios prestados; y
+
+II.- Tres meses de salario base.
+
+En los casos en que el servidor público separado se desista de la acción de que se trate, en cualquier etapa del procedimiento y hasta antes de que se dicte resolución definitiva, la Procuraduría podrá cubrir la indemnización que proceda de conformidad con las normas aplicables.
 
 ###### Artículo 115.
 
@@ -1310,3 +1386,13 @@ Artículo Decimosegundo.- Las erogaciones que se deriven de la aplicación de es
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los dieciocho días del mes de junio de dos mil nueve.- Diputada Presidenta.- BÁRBARA MICHELE GANIME BORNNE.- Rubrica.- Diputado Vicepresidente.- AVELINO TOXQUI TOXQUI.- Rúbrica.- Diputado Secretario.- JOSÉ MANUEL JANEIRO FERNÁNDEZ.- Rúbrica.- MELITÓN LOZANO PÉREZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecinueve días del mes de junio de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dadas las presentes reformas se amplía el plazo por treinta días más al señalado en el artículo Sexto Transitorio de los del Decreto a través del cual se expide la Ley Orgánica de la Procuraduría General de Justicia del Estado de Puebla, publicado en el Periódico Oficial del Estado el día quince de julio de dos mil nueve, para emitir las disposiciones reglamentarias correspondientes.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
