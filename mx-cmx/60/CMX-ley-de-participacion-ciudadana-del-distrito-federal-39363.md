@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2007-05-15"
+last_updated: "2009-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -690,15 +690,15 @@ Las medidas que acuerde el Jefe Delegacional como resultado del recorrido, será
 
 La Asamblea Ciudadana es el instrumento permanente de información, análisis, consulta, deliberación y decisión de los asuntos de carácter social, colectivo o comunitario; así como para la revisión y seguimiento de los programas y políticas públicas a desarrollarse en su Unidad Territorial.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 75.
 
 En cada Unidad Territorial habrá una Asamblea Ciudadana, que se reunirá al menos tres veces por año, será pública y abierta y se integrará con los habitantes de la Unidad Territorial, los que tendrán derecho a voz, y con los ciudadanos de ésta que cuenten con credencial de elector actualizada, los que tendrán derecho a voz y voto.
 
 No se podrá impedir la participación de ningún vecino del lugar en la Asamblea Ciudadana sin causa justificada. En éstas podrán participar niños y jóvenes con derecho a voz.
 
-> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
-
-En la Asamblea Ciudadana se elegirá un Comité Ciudadano por Unidad Territorial, cada tres años. A la Asamblea Ciudadana en la que se lleve a cabo el proceso de elección de Comité Ciudadano se le denominará Asamblea Ciudadana Electiva.
+En la Asamblea Ciudadana se elegirá un Comité Ciudadano por Unidad Territorial, cada tres años, mediante una jornada electiva. A la Asamblea Ciudadana en la que se lleve a cabo el proceso de elección de Comité Ciudadano se le denominará Asamblea Ciudadana Electiva.
 
 ###### Artículo 76.
 
@@ -890,7 +890,7 @@ El ámbito de trabajo de las dos coordinaciones restantes dependerá de las nece
 
 DE LA ELECCIÓN DE LOS COMITÉS CIUDADANOS.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 93.
 
@@ -916,13 +916,13 @@ La resolución de conflictos, las remociones y las sustituciones en los Comités
 
 ###### Artículo 97.
 
-El Comité Ciudadano de cada Unidad Territorial se elegirá en la Asamblea Ciudadana Electiva, por medio del voto universal, libre, secreto y directo de los ciudadanos, de conformidad con lo establecido en el artículo 85 Bis de la presente ley.
+La elección de los Comités Ciudadanos se realizará a través del voto universal, libre, secreto y directo de los ciudadanos que cuenten con credencial para votar con fotografía y cuyo domicilio corresponda a alguna de las secciones electorales de la Unidad Territorial de que se trate.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 98.
 
-Los Comités Ciudadanos serán electos durante los días sábado y domingo de los meses de septiembre y octubre e iniciarán sus funciones el primero de diciembre del año de la elección.
+Los comités Ciudadanos serán electos durante el último domingo de agosto e iniciarán sus funciones el primero de diciembre del año de la elección.
 
 ###### Artículo 99.
 
@@ -934,17 +934,17 @@ En la integración de las planillas se procurará la participación equitativa d
 
 La organización del proceso de elección de los Comités Ciudadanos estará a cargo del Instituto Electoral, de acuerdo a lo que establece esta Ley.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 101.
 
-La convocatoria para la elección será expedida por el Instituto Electoral del Distrito Federal, cuando menos cuarenta y cinco días antes del periodo en que se realice la primera Asamblea Ciudadana Electiva y deberá contener como mínimo lo siguiente:
+La convocatoria para la elección será expedida por el Instituto Electoral, cuando menos cuarenta y cinco días antes de la fecha en que se realice la jornada electiva de los Comités Ciudadanos y deberá contener como mínimo lo siguiente:
 
-I. El Catálogo de Unidades Territoriales de cada una de las demarcaciones territoriales y las secciones electorales que las integran.
+I. El Catálogo de Unidades Territoriales de cada una de las demarcaciones territoriales y las secciones electorales que las integran;
 
-II. Los requisitos y plazo para el registro de planilla.
+II. Los requisitos y plazo para el registro de planilla; y
 
-III. El periodo de campaña y el calendario de Asambleas Ciudadana Electivas, en el que se indicará lugar, fecha y hora de su realización.
+III. El periodo de campaña y la ubicación, fecha y hora de la Asamblea Ciudadana Electiva.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -1022,25 +1022,17 @@ La contravención a lo dispuesto en el presente artículo se sancionará con la 
 
 La elección se llevará a cabo en la Asamblea Ciudadana Electiva de cada Unidad Territorial, la cual se realizará en un espacio público abierto, ubicado en una zona de fácil y libre acceso dentro de cada ámbito territorial. En cada Asamblea Ciudadana Electiva habrá urnas que garanticen el voto universal, libre, secreto y directo; la votación concluirá una vez que hayan sufragado todos los ciudadanos asistentes.
 
-> <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 111.
 
-La Asamblea Ciudadana Electiva se instalará con la presencia de los funcionarios acreditados por el Instituto Electoral del Distrito Federal y los representantes de las planillas contendientes, con el siguiente orden del día:
+La Asamblea Ciudadana Electiva se instalará con la presencia de los funcionarios acreditados por el Instituto Electoral y los representantes de las planillas contendientes, con el siguiente orden del día:
 
-I. Instalación de la Asamblea Ciudadana Electiva por los funcionarios del Instituto Electoral del Distrito Federal.
+I. Instalación de la Asamblea Ciudadana Electiva por los funcionarios del Instituto Electoral.
 
-II. Presentación de la mesa.
+II. Lectura al procedimiento específico de la votación, conteo y publicación de los votos emitidos.
 
-III. Explicación del procedimiento de votación.
-
-IV. Inicio de la votación.
-
-V. Cierre de la votación.
-
-VI. Conteo y publicación de los votos emitidos.
-
-VII. Clausura de la Asamblea Ciudadana Electiva.
+III. Clausura de la Asamblea Ciudadana Electiva.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -1050,11 +1042,13 @@ El cómputo de la elección e integración del Comité Ciudadano se efectuará e
 
 ###### Artículo 113.
 
-Las controversias que se generen con motivo de la organización del proceso de elección de los Comités Ciudadanos en cualquiera de sus etapas serán resueltas en primera instancia por el Consejo General del Instituto Electoral del Distrito Federal, y sus resoluciones serán impugnables ante el Tribunal Electoral del Distrito Federal.
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2009)
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 114.
 
-Las controversias que se generen con motivo de los cómputos, resultados e integración de los Comités Ciudadanos, serán resueltas por el Tribunal Electoral del Distrito Federal.
+Las controversias que se generen con motivo de la elección de los Comités Ciudadanos, serán resueltas por el Tribunal Electoral del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 16 DE MAYO DE 2005)</small>
 
@@ -1206,27 +1200,19 @@ El Consejo Ciudadano podrá: Emitir opinión sobre programas y políticas a apli
 
 #### SECCIÓN TERCERA. DE LA ASAMBLEA CIUDADANA ELECTIVA
 
-> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 85 Bis.
 
-Para que una Asamblea Ciudadana Electiva se constituya deberá estar presente al menos el 0.5 por ciento del total de los ciudadanos inscritos en la lista nominal de la Unidad Territorial respectiva.
+Para constituir una Asamblea Ciudadana Electiva los ciudadanos acudirán en el transcurso del horario del día señalado en la convocatoria. La Asamblea Ciudadana Electiva realizará la jornada electiva en presencia del o los funcionarios acreditados para tal efecto por el Instituto Electoral del Distrito Federal, personal que llevará a cabo el procedimiento electivo. El Instituto Electoral del Distrito Federal será la autoridad responsable de validar el resultado de la elección.
 
-La Asamblea Ciudadana Electiva se llevará a cabo en primera convocatoria con un quórum de 0.5 por ciento de los ciudadanos inscritos en la lista nominal y presenten su credencial para votar con fotografía, si no se reúne el quórum necesario, los funcionarios autorizados por el Instituto Electoral del Distrito Federal harán una segunda convocatoria a fin de constituir la Asamblea Ciudadana Electiva respectiva a la semana siguiente de la primera convocatoria, con el número de ciudadanos que se encuentren presentes, en cuyo caso no podrá ser menor al número de integrantes del Comité Ciudadano.
-
-La Asamblea Ciudadana Electiva será convocada por el Instituto Electoral del Distrito Federal en términos de lo dispuesto por el artículo 101 de la presente ley.
-
-Para constituir una Asamblea Ciudadana Electiva los ciudadanos acudirán el día y hora señalados en la convocatoria.
-
-La Asamblea Ciudadana Electiva se realizará en presencia del o los funcionarios acreditados para tal efecto por el Instituto Electoral del Distrito Federal, personal que certificará el quórum y llevará a cabo el procedimiento de elección. El Instituto Electoral del Distrito Federal será la autoridad responsable de validar el resultado de la elección.
-
-> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 85 Ter.
 
 Son motivo de nulidad de la Asamblea Ciudadana Electiva:
 
-I. Modificar sin previo aviso el lugar, la fecha u hora de su instalación.
+I. Modificar sin previo aviso el lugar, la fecha o el horario de votación.
 
 II. Inducir durante su desarrollo la votación a favor de alguna o algunas de las planillas contendientes.
 
@@ -1234,9 +1220,7 @@ III. Hacer proselitismo durante el desarrollo de ésta.
 
 IV. Generar situaciones de disturbio o violencia que impidan el desarrollo adecuado de la misma.
 
-V. Realizar la Asamblea Ciudadana Electiva en algún espacio físico que no garantice la legalidad, la certidumbre y /o la imparcialidad del proceso.
-
-En caso de que se anule la Asamblea Ciudadana Electiva por el Instituto Electoral del Distrito Federal, éste convocará a una Asamblea Ciudadana Electiva extraordinaria en un plazo no mayor a 15 días.
+En caso de que el Instituto Electoral anule la Asamblea Ciudadana Electiva, se convocará a una Asamblea Ciudadana Electiva Extraordinaria en un plazo no mayor a 15 días.
 
 ## TRANSITORIOS
 
@@ -1254,7 +1238,7 @@ El reglamento de la presente ley deberá expedirse por el Jefe de Gobierno del D
 
 ###### ARTÍCULO CUARTO
 
-(DEROGADO, G.O. 28 DE ENERO DE 2005)
+(DEROGADO, G.O. 28 DE ENERO DE 2005) (REPUBLICADO, G.O. 30 DE DICIEMBRE DE 2009)
 
 > <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
 
@@ -1262,17 +1246,13 @@ El reglamento de la presente ley deberá expedirse por el Jefe de Gobierno del D
 
 Los actuales Comités Vecinales y las formas de organización vecinal formalmente constituidas en el Distrito Federal, continuarán en funciones hasta que entren en vigor las reformas que determinen las figuras, los plazos y los procedimientos correspondientes.
 
-> <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
-
 ###### ARTÍCULO SEXTO
 
-La primera elección de Comités Ciudadanos que conforme a los artículos 98 y Cuarto Transitorio de la Ley de Participación Ciudadana del Distrito Federal debe celebrarse el último domingo del mes de abril de 2005, no se realizará hasta que la Asamblea Legislativa del Distrito Federal, establezca lo conducente en la presente ley.
-
-> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2005)</small>
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2009)
 
 ###### ARTÍCULO SÉPTIMO
 
-El proceso de selección de Comités Ciudadanos que conforme a lo dispuesto en el artículo 98 de la Ley de Participación Ciudadana del Distrito Federal debería celebrarse el último domingo del mes de abril de 2005 se pospone, hasta en tanto, en trabajo de Comisiones Unidas de Participación Ciudadana y de Asuntos Político-Electorales de la Asamblea Legislativa del Distrito Federal, se busquen y acuerden formas de organización y representación ciudadanas adecuadas al contexto del Distrito Federal, así como los procesos de elección o integración que no resulten onerosos para los habitantes de esta Ciudad a efecto de que se aprueben por el Pleno del órgano legislativo local, en cuyo caso se deberá realizar la convocatoria que se disponga por virtud de la modificación legal correspondiente, incluso dentro del año 2005.
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2009)
 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del mes de abril del año dos mil cuatro.- POR LA MESA DIRECTIVA.- DIP. FRANCISCO CHIGUIL FIGUEROA, PRESIDENTE.- DIP. MA. ELENA TORRES BALTAZAR, SECRETARIA.- DIP. JOSÉ DE JESÚS LÓPEZ SANDOVAL, SECRETARIO.- (Firmas).
 
@@ -1323,3 +1303,19 @@ G.O. 15 DE MAYO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial.
+
+G.O. 30 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Esta Comisión se reserva para su estudio y análisis en una forma integral, por medio de los foros y mesas de trabajo que la comisión de Participación Ciudadana, determine necesarios, para las modificaciones, reformas y adiciones a la Ley de Participación Ciudadana que pudieran resultar de dichos foros; mismos que se deberán efectuar dentro de los primeros 69 días naturales del año 2010.
+
+CUARTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Para los efectos de las elecciones de Comités Ciudadanos a celebrarse el domingo 29 de agosto del año 2010, se faculta al Consejo General del Instituto Electoral del Distrito Federal, para aprobar los acuerdos y los procedimientos específicos, así como los materiales y documentación, que sean necesarios para la organización y desarrollo de las citadas elecciones, observando en todo momento los principios rectores de certeza, legalidad, independencia, imparcialidad, objetividad y equidad.
+
+Para las elecciones de Comités Ciudadanos a celebrarse el domingo 29 de agosto del año 2010, no serán aplicables las disposiciones del Código Electoral del Distrito Federal, que se opongan o resulten contradictorias a lo establecido en la presente Ley.
+
+QUINTO.- El Instituto Electoral contará con suficiencia presupuestal para la organización de la elección de los Comités Ciudadanos en el año 2010.
