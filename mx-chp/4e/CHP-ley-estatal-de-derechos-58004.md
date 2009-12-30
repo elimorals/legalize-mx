@@ -4,7 +4,7 @@ identifier: "CHP-ley-estatal-de-derechos-58004"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2009-10-21"
+last_updated: "2009-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ESTATAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -157,7 +157,7 @@ Acacoyagua, Acapetahua, Aldama, Altamirano, Amatán, Amatenango de la Frontera, 
 
 ## Título Segundo. De los Derechos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo I. Derechos por Servicios que Presta el Instituto de la Consejería y de Asistencia Legal
 
@@ -3115,21 +3115,7 @@ de Residuos Sólidos No Peligrosos. 15.0
 
 ###### Artículo 45.
 
-Por los servicios que presta el Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad:
-
-Servicio Tarifa
-
-S.M.D.V.E.
-
-Clasificación
-
-Municipal
-
-A B
-
-I. Por la expedición de constancias de antecedentes
-
-no penales. 4.0 3.0
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2009)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3177,15 +3163,19 @@ Recuperados. 1.5
 
 ### Capítulo XVI. Otros Derechos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 48.
 
-Tratándose de los servicios que a continuación se enumeran que sean prestados por los Poderes Judicial, Legislativo, Ejecutivo y Organismos Autónomos, se pagarán derechos conforme a las cuotas que para cada caso, a continuación se señalan:
+Tratándose de los servicios que a continuación se enumeran sean prestados por los poderes Judicial, Legislativo, Ejecutivo y Organismos Autónomos, se pagarán derechos conforme a las cuotas que para cada caso, a continuación se señalan:
 
 Servicio Tarifa
 
 S.M.D.V.E.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 I. Por certificación de documentos que expidan,
 
@@ -3195,9 +3185,15 @@ a) Por cada hoja adicional $5.00
 
 II. Compulsa de documentos, por hoja $ 7.00
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 III. Copias de planos certificados por cada una. 2.0
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 IV. Legalización de firmas 7.0
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 V. Por cualquier otra certificación o expedición
 
@@ -3205,9 +3201,23 @@ de constancias distintas de las señaladas en las
 
 fracciones que anteceden. 4.0
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 VI. Por ratificación de firmas en documentos
 
 privados ante autoridades estatales. 8.0
+
+Clasificación Municipal
+
+A B
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+VII. Por la expedición de constancias de 4.0 3.0
+
+Antecedentes No Penales
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3258,3 +3268,11 @@ P.O. 21 DE OCTUBRE DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La Secretaría de Hacienda, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que sean necesarias para el cumplimiento del presente decreto.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
