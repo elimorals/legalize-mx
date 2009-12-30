@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2009-12-07"
+last_updated: "2009-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -2096,10 +2096,6 @@ La sociedad controladora que opte por determinar su resultado fiscal consolidado
 
 Cuando en el ejercicio se incorpore una sociedad controlada, el saldo de la cuenta a que se refiere este artículo se incrementará con el saldo de la cuenta de utilidad fiscal neta que tenga la sociedad controlada al momento de su incorporación, considerando la participación consolidable que a esa fecha tenga la sociedad controladora en la sociedad controlada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
-
 ###### Artículo 70.
 
 La autorización para consolidar a que se refiere la fracción I del artículo 65 de esta Ley, surtirá sus efectos a partir del ejercicio siguiente a aquél en el que se otorgue.
@@ -2113,6 +2109,10 @@ Las sociedades que se incorporen a la consolidación con posterioridad a la fech
 En el caso en que una sociedad controladora no incorpore a la consolidación fiscal a una sociedad controlada cuyos activos representen el 3% o más del valor total de los activos del grupo que consolide al momento en que debió efectuarse la incorporación, hubiera o no presentado el aviso de incorporación a que se refiere el último párrafo de este artículo, deberá desconsolidar a todas sus sociedades controladas y enterar el impuesto respectivo como si no hubiera consolidado, con los recargos correspondientes al periodo transcurrido desde la fecha en que se debió haber enterado el impuesto de cada sociedad de no haber consolidado fiscalmente y hasta que el mismo se realice. Lo dispuesto en este párrafo también será aplicable en el caso en que la sociedad controladora no incorpore a la consolidación en un mismo ejercicio, a dos o más sociedades controladas cuyos activos representen en su conjunto el 6% o más del valor total de los activos del grupo que consolide. Lo anterior también se aplicará en el caso en que se incorpore a la consolidación a una o varias sociedades que no sean controladas en los términos de los artículos 66 y 67 de esta Ley. Para los efectos de este párrafo, el valor de los activos será el determinado conforme al artículo 9o-A de esta Ley.
 
 Para los efectos de este artículo, la sociedad controladora deberá presentar un aviso ante las autoridades fiscales, dentro de los quince días siguientes a la fecha en que adquiera directamente o por conducto de otras sociedades controladas, más del 50% de las acciones con derecho a voto de una sociedad. En el caso de sociedades controladas que se incorporen a la consolidación fiscal en el periodo que transcurra entre la fecha de presentación de la solicitud para consolidar y aquélla en que se notifique la autorización respectiva, la controladora deberá presentar el aviso de incorporación dentro de los quince días siguientes a la fecha en que se notifique la autorización por parte de las autoridades fiscales. En el caso de las sociedades que surjan con motivo de una escisión, la sociedad controladora deberá presentar el aviso dentro de los cuarenta y cinco días siguientes a la fecha en que se constituyan las sociedades escindidas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 70-A.
 
@@ -3154,7 +3154,7 @@ V. Mantener a disposición del público en general la información relativa a la
 
 > <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-VI. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de los donativos recibidos en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
+VI. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquél en el que se realice la operación, de los donativos recibidos en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
 
 La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del artículo 69 del Código Fiscal de la Federación.
 
@@ -4354,7 +4354,7 @@ IV. Presentar declaraciones provisionales y anual en los términos de esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-V. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de las contraprestaciones recibidas en efectivo, en moneda nacional, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
+V. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquél en el que se realice la operación, de las contraprestaciones recibidas en efectivo, en moneda nacional, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
 
 La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del Artículo 69 del Código Fiscal de la Federación.
 
@@ -4502,7 +4502,7 @@ El pago efectuado conforme a este artículo será acreditable contra el impuesto
 
 ###### Artículo 154 Ter.
 
-Los contribuyentes que obtengan ingresos por la enajenación de bienes, deberán informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de las contraprestaciones recibidas en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos. Las referidas reglas de carácter general podrán establecer supuestos en los que no sea necesario presentar la información a que se refiere este artículo.
+Los contribuyentes que obtengan ingresos por la enajenación de bienes, deberán informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquél en el que se realice la operación, de las contraprestaciones recibidas en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos. Las referidas reglas de carácter general podrán establecer supuestos en los que no sea necesario presentar la información a que se refiere este artículo.
 
 La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del Artículo 69 del Código Fiscal de la Federación.
 
@@ -6364,7 +6364,7 @@ Las sociedades mercantiles que tributen en los términos del Título II de esta 
 
 > <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
-I. Los accionistas que aporten bienes inmuebles a la sociedad, acumularán la ganancia por la enajenación de los bienes aportados, cuando se de cualquiera de los siguientes supuestos:
+I. Los accionistas que aporten bienes inmuebles a la sociedad, acumularán la ganancia por la enajenación de los bienes aportados, cuando se dé cualquiera de los siguientes supuestos:
 
 a) Enajenen las acciones de dicha sociedad, en la proporción que dichas acciones representen del total de las acciones que recibió el accionista por la aportación del inmueble a la sociedad, siempre que no se hubiera acumulado dicha ganancia previamente.
 
@@ -8408,6 +8408,16 @@ XIV. Para los efectos de lo dispuesto en el quinto párrafo del artículo 177 de
 
 XV. Los contribuyentes que, con anterioridad a la entrada en vigor del presente Decreto, hubieran sido beneficiados con el estímulo fiscal previsto en el artículo 219 de la Ley del Impuesto sobre la Renta que se deroga conforme al Artículo Primero del presente Decreto, podrán aplicar el monto pendiente de acreditar del estímulo fiscal autorizado por ejercicios anteriores, hasta agotarlo, conforme a las disposiciones vigentes al 31 de diciembre de 2009.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2009)</small>
+
+XVI. Los contribuyentes que durante el ejercicio fiscal 2009 hubieran sido beneficiados con el estímulo fiscal previsto en el artículo 226 de la Ley del Impuesto sobre la Renta, podrán aplicar lo dispuesto en el citado artículo vigente a partir del 1 de enero de 2010.
+
 ## Transitorio
+
+Único.- El presente Decreto entrará en vigor el 1 de enero de 2010.
+
+D.O.F. 30 DE DICIEMBRE DE 2009.
 
 Único.- El presente Decreto entrará en vigor el 1 de enero de 2010.
