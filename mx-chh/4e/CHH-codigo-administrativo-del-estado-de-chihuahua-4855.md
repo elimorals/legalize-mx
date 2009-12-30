@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2009-10-28"
+last_updated: "2009-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -9597,7 +9597,7 @@ DECIMA CUARTA PARTE
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO II. DEL DOMINIO PUBLICO
+### CAPITULO II. DEL DOMINIO PÚBLICO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9647,7 +9647,7 @@ IV.- Los demás inmuebles y muebles que por cualquier título jurídico adquiera
 
 Los bienes a que se refiere el artículo anterior pasarán a formar parte del dominio público del Estado cuando sean destinados al uso común, a un servicio público o a alguna de las actividades que se equiparan a los servicios públicos.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 ### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
 
@@ -9734,6 +9734,22 @@ Las concesiones sobre bienes de dominio público podrán rescatarse por causa de
 ###### ARTICULO 1659.
 
 Los bienes de dominio público que lo sean por disposición de la autoridad y no por naturaleza, podrán ser enajenados previo decreto de desincorporación dictado por el Congreso cuando por algún motivo dejen de servir para ese fin.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+En el supuesto del párrafo anterior, la Legislatura sólo autorizará la desincorporación de los bienes que pretenda enajenar el Estado, cumpliendo éste con los siguientes requisitos:
+
+I. Acreditar la propiedad del inmueble que se pretende enajenar;
+
+II. Presentar la descripción y ubicación exacta del inmueble, con el plano catastral correspondiente;
+
+III. Presentar avalúos vigentes del predio que se pretenda enajenar, y
+
+IV. Justificar, en su caso, el destino que se le va a dar al inmueble y especificar a favor de quién se va a enajenar.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+En caso de que la desincorporación tenga por objeto la donación de un inmueble, los beneficiarios tendrán el deber de no cambiar el destino del mismo y terminar la obra de construcción en un plazo no mayor de dos años, con la consecuencia que de no cumplir con estos requisitos, el bien se revertirá al patrimonio del Estado.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9875,11 +9891,13 @@ Los particulares pueden adquirir por prescripción los inmuebles de dominio priv
 
 El Ejecutivo del Estado gestionará que el Gobierno Federal le ceda o enajene a título gratuito los bienes propios federales que se encuentren dentro del Estado y no estén destinados a algún servicio público social, en los términos del artículo 38 de la Ley General de Bienes Nacionales.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 1676.
 
-La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los casos y en las condiciones que fija este Código.
+La enajenación de los bienes inmuebles del Estado sólo podrá hacerse cumpliendo los mismos requisitos establecidos en los párrafos segundo y tercero del Artículo 1659.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
 Los bienes inmuebles que adquiera el Gobierno del Estado para destinarlos a la urbanización y dotación de suelo para familias de escasos recursos económicos, para su enajenación, se sujetarán a las normas técnicas de operación de la Secretaría de Desarrollo Urbano y Ecología. En cualquier caso, para la enajenación es necesaria la autorización del Congreso.
 
@@ -11124,3 +11142,7 @@ ARTÍCULO DECIMOTERCERO. Siempre que en cualquier otra disposición, ordenamient
 Cuando la referencia se haga a Instituciones de Beneficencia Privada o Instituciones de Asistencia Privada, se entenderá que se hace alusión a las instituciones de asistencia social privada.
 
 ARTÍCULO DECIMOCUARTO. Los trabajos para el diseño, acopio y conformación del Subsistema de Información para la Asistencia Social Privada, deberán dar inicio durante el año dos mil nueve.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
