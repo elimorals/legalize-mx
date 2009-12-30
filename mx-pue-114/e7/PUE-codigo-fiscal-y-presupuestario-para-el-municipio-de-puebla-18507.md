@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "2008-12-31"
+last_updated: "2009-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -787,6 +787,12 @@ V. Tratándose de actos de fiscalización, dentro de los quince días siguientes
 
 Quien haga pago de créditos fiscales deberá obtener como medio de comprobación de pago de la Tesorería o de sus oficinas autorizadas, el recibo oficial autorizado expedido por ésta, por toda cantidad que ingrese al erario, cualquiera que sea su naturaleza.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Los ingresos que correspondan a los organismos podrán ser recaudados o cobrados a través del procedimiento administrativo de ejecución, por los propios organismos o a través de la Tesorería Municipal, previa suscripción y publicación del convenio de coordinación respectivo en el Periódico Oficial del Estado.
+
 ###### Artículo 35.
 
 En los términos fijados en días, por disposición de la ley o por las autoridades fiscales, se computarán solo los días hábiles, considerándose así, aquéllos en que se encuentren las oficinas abiertas al público, durante las horas que median entre las 8:00 y las 18:00. En los términos fijados en periodos, cuando no se señale una fecha específica, se comprenderán para su cómputo todos los días, incluso los inhábiles.
@@ -1159,25 +1165,81 @@ VI. Coordinar sus actividades con las organizaciones mencionadas, para divulgar 
 
 VII. Realizar las demás actividades conducentes al logro de los fines señalados en este artículo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 52 Bis.
+
+Los estímulos fiscales constituyen obligaciones fiscales aminoradas que incrementan los ingresos disponibles de los contribuyentes en beneficio colectivo, cuyo objeto deber ser:
+
+I. Fomentar el empleo, la inversión en actividades industriales, comerciales, agrícolas, educativas, de investigación, deportivas, culturales, la prestación de servicios, el desarrollo regional, la recaudación, la regularización de la situación de los contribuyentes, la protección al medio ambiente y desarrollo sustentable, así como la innovación y tecnología; y
+
+II. El impulso a la inversión y financiamiento para crear infraestructura en áreas prioritarias y el apoyo a sectores marginados de la sociedad.
+
+Los estímulos fiscales, serán considerados legalmente como subsidios, no implicarán un desvanecimiento de la obligación tributaria que es asumida por el Municipio, podrán abarcar la totalidad o una parte de las contribuciones, productos o aprovechamientos, constituyendo un trato diferenciado entre contribuyentes atendiendo a los fines extrafiscales que se establezcan y justifiquen al expedirlos.
+
+En su establecimiento deberán considerarse los siguientes aspectos:
+
+a) La existencia de un tributo o contribución a cargo del beneficiario del estímulo;
+
+b) Una situación especial del contribuyente establecida en abstracto por la disposición legal y que al concretarse da origen al derecho del contribuyente para exigir su otorgamiento; y
+
+c) Un objeto de carácter parafiscal que consta de un objetivo directo y un objetivo indirecto. El objetivo directo consistirá en obtener una actuación específica del contribuyente, y como indirecto lograr, mediante la conducta del propio gobernado, efectos que trasciendan de su esfera personal al ámbito social.
+
+Los incentivos fiscales, que sean aprobados por el Cabildo, no tendrán como origen la existencia de una obligación fiscal exigible y sus objetivos serán siempre de beneficio colectivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 52 Ter.
+
+Se entenderá como exención fiscal al privilegio creado por razones de equidad, conveniencia social, administrativa o económica, que libera al obligado de pagar una contribución, total o parcialmente, por disposición expresa de la ley.
+
+Para su validez deberá satisfacer los siguientes aspectos:
+
+I. Deberá estar establecida en una disposición materialmente legislativa;
+
+II. No deberá considerar contraprestación alguna;
+
+III. Su aplicación será futura;
+
+IV. Será temporal; y
+
+V. Beneficiará a sectores o grupos, pero no personas físicas o morales individualmente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 53.
 
-El Presidente por razones de equidad, podrá conceder reducciones, condonaciones o prórrogas en el pago de las contribuciones municipales y sus accesorios, así como de productos o aprovechamientos a aquellos contribuyentes cuya situación económica les impida cumplir con sus obligaciones.
+El Presidente por razones de equidad, podrá omitir total o parcialmente el ejercicio de sus facultades recaudatorias, por medio de resoluciones de carácter general, sea a través de condonaciones, eximentes o pagos diferidos, a plazos o en parcialidades, a aquellos contribuyentes cuya situación económica les impida cumplir con sus obligaciones.
 
-La facultad prevista en el párrafo anterior, podrá delegarse a las autoridades fiscales establecidas en el artículo 26 de este ordenamiento.
+La facultad prevista en el párrafo anterior, podrá delegarse mediante acuerdo escrito y publicado en el Periódico Oficial del Estado, a las autoridades fiscales establecidas en el artículo 26 de este ordenamiento.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+La Autoridad a la que se le haya conferido esa facultad y que conceda los beneficios a que se refiere este artículo, deberá informar mensualmente a la Contraloría del ejercicio de esta facultad, señalando el total de las cantidades que ha dejado de percibir el fisco municipal y documentando las razones que sustentaron cada decisión, así como los beneficiarios de la misma.
 
-La Autoridad que conceda los beneficios de condonación o reducción, a que se refiere este artículo deberá informar mensualmente a la Contraloría del ejercicio de esta facultad, señalando el total de las cantidades que ha dejado de percibir el fisco municipal y documentando las razones que sustentaron cada decisión, así como los beneficiarios de la misma.
+La facultad a que se refiere el presente artículo podrá ejercerse, además de contribuciones y sus accesorios, sobre productos y aprovechamientos.
+
+La resolución recaída a una solicitud de condonación es inimpugnable.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
 
 ###### Artículo 54.
 
-Podrán condonarse o reducirse los créditos fiscales municipales, cuando por causa de algún siniestro se afecte la situación económica de alguna región del territorio municipal.
+El Presidente podrá omitir total o parcialmente el ejercicio de sus facultades recaudatorias, por medio de resoluciones de carácter general, sea a través de condonaciones, eximentes o pagos diferidos, a plazos o en parcialidades, en situaciones de fuerza mayor o de emergencia, a fin de paliar sus consecuencias, sin modificar los elementos esenciales del tributo.
 
-Al efecto, el Presidente dictará mediante disposiciones casuísticas, las contribuciones, productos o aprovechamientos materia de la condonación o reducción, señalando las regiones del Municipio en las que se disfrutará de la misma.
+Al efecto, el Presidente dictará mediante disposiciones casuísticas, las contribuciones, productos o aprovechamientos materia del beneficio, señalando las regiones y/o personas del Municipio en las que se aplicarán los beneficios.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+La facultad prevista en el párrafo anterior, podrá delegarse mediante acuerdo escrito y publicado en el Periódico Oficial del Estado, a las autoridades fiscales establecidas en el artículo 26 de este ordenamiento.
 
-La Tesorería con base en los lineamientos que dicte el Cabildo, podrá condonar las multas que en materia fiscal hubiesen quedado firmes, atendiendo a la apreciación discrecional de las circunstancias particulares de cada caso y las causas que originaron la imposición de la sanción. Dichas resoluciones no podrán ser impugnadas por los medios de defensa que establece este Código.
+El Cabildo en materia presupuestal, podrá otorgar facultades habilitantes al Presidente en los casos a que se refiere el presente artículo.
+
+El Cabildo podrá autorizar el otorgamiento de premios con el objeto de estimular la recaudación.
 
 ###### Artículo 55.
 
@@ -1366,6 +1428,24 @@ Se entenderá que el contribuyente ha renunciado en forma tácita a la prescripc
 (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2007)
 
 Los particulares podrán solicitar a la autoridad fiscal con las formalidades a que se refiere el artículo 39 de este ordenamiento, la declaratoria de que ha operado la prescripción de los créditos fiscales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 61 Bis.
+
+Los términos de caducidad y prescripción se duplicarán en los siguientes casos:
+
+I. Tratándose del Impuesto Predial en el caso en que el contribuyente, un tercero en su nombre o un fedatario, haya omitido proporcionar o haya falseado la información para efectos de los registros catastrales a que se refiere el artículo 50 bis de este Código y que reduzca la carga fiscal;
+
+II. Tratándose del Impuesto Sobre Adquisición de Bienes Inmuebles:
+
+a) Cuando la declaración a que se refiere el artículo 189 de este Código contenga o se base en datos y/o documentos falsos u omisiones que reduzcan la carga fiscal;
+
+b) Cuando se declaren operaciones de traslado de dominio que no han sido pagadas; y
+
+c) Cuando los avisos notariales sean presentados en forma extemporánea.
 
 ###### Artículo 62.
 
@@ -1685,7 +1765,11 @@ IX. Los índices socioeconómicos obtenidos para cada zona rural o urbana serán
 
 Conforme a lo previsto en el párrafo anterior los sujetos pasivos deben aportar al gasto público en función de su respectiva capacidad contributiva de tal forma que el resultado de la zonificación e identificación de valores unitarios y la aplicación misma de la tasa arrojen un resultado tal que, la tributación sea creciente en función del valor catastral de la propiedad de cada uno y su potencialidad real de contribuir al gasto público.
 
-Para cada ejercicio el Ayuntamiento propondrá tasas progresivas o tarifas para el cobro de los Impuestos Predial y Sobre Adquisición de Bienes Inmuebles o podrá incorporar un porcentaje mínimo y/o otro máximo de incremento después de aplicar una tasa, con el objeto de adaptar la carga del impuesto a la capacidad contributiva del sujeto pasivo, cuando la progresión resulte un imperativo para preservar el principio de la capacidad contributiva del obligado y al mismo tiempo obtener los ingresos necesarios para mantener el equilibrio presupuestario.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Para cada ejercicio el Ayuntamiento propondrá tasas progresivas o tarifas para el cobro de los Impuestos Predial y Sobre Adquisición de Bienes Inmuebles o podrá incorporar un porcentaje máximo de incremento después de aplicar una tasa, con el objeto de adaptar la carga del impuesto a la capacidad contributiva del sujeto pasivo, cuando la progresión resulte un imperativo para preservar el principio de la capacidad contributiva del obligado y al mismo tiempo obtener los ingresos necesarios para mantener el equilibrio presupuestario.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -3079,7 +3163,9 @@ BASE. Es base del Impuesto Predial, el valor catastral que determine la Direcci�
 
 Cuando se trate de préstamos con garantía hipotecaria destinados a la construcción, el valor determinado conforme a este artículo, surtirá sus efectos para el cálculo de la base, a partir del primer día del séptimo mes siguiente al de la fecha en que se haya autorizado la escritura correspondiente.
 
-En todos los casos cuando se determine o modifique el monto de la base gravable, este impuesto surtirá sus efectos a partir del bimestre siguiente a aquél en que ocurran estos supuestos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO TERCER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 Para los efectos de la aplicación de tasas o tarifas, debe considerarse que los valores que sirven de base gravable del impuesto, tendrán la vigencia que determina la legislación básica en materia de catastro.
 
@@ -3089,11 +3175,15 @@ Los predios rústicos que sean fraccionados para fines de lotificación, desde l
 
 TASA O TARIFA. El Impuesto Predial se causará anualmente y se pagará conforme a las tasas o tarifas que señale la Ley de Ingresos del Municipio, para el ejercicio fiscal de que se trate.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 180.
 
-ÉPOCA Y LUGAR DE PAGO. El pago del Impuesto Predial, se realizará dentro de los dos primeros meses de cada año, en la Tesorería u oficinas autorizadas.
+ÉPOCA Y LUGAR DE PAGO. El pago del Impuesto Predial, se realizará dentro de los dos primeros meses de cada año, en la Tesorería, oficinas autorizadas o a través de los medios de pago autorizados.
 
-Tratándose de los sujetos de este impuesto, cuyo pago del ejercicio resulte superior a veinte veces la cuota mínima anual que establezca la Ley de Ingresos del Municipio, para el ejercicio fiscal de que se trate, podrán optar por pagarlo en forma bimestral, dentro de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada ejercicio fiscal.
+Podrá pagarse el Impuesto Predial por anualidades anticipadas hasta para el último Ejercicio Fiscal de su Administración, en el caso en que así lo acuerde el Ayuntamiento, a fin de gozar de la reducción de un porcentaje determinado, sin que revista carácter obligatorio, sino una decisión potestativa de los contribuyentes.
 
 ###### Artículo 181.
 
@@ -3163,15 +3253,29 @@ El Impuesto Sobre Adquisición de Bienes Inmuebles, se causará en toda operaci�
 
 SUJETOS. Son sujetos del Impuesto Sobre Adquisición de Bienes Inmuebles, las personas físicas o morales que adquieran inmuebles ubicados dentro del territorio del Municipio, así como los derechos relacionados con los mismos, por alguna de las causas señaladas en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 187.
 
-BASE. Es base del Impuesto Sobre Adquisición de Bienes Inmuebles, el valor catastral que determine la Dirección de Catastro, conforme a la zonificación catastral y las tablas de valores unitarios de suelo y construcción que apruebe el Congreso para cada ejercicio fiscal y en su caso sus actualizaciones.
+BASE. Es base de esta contribución el valor del inmueble, que debe ser el que resulte más alto de cualquiera de las tres hipótesis siguientes:
 
-Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará como parte del precio pactado.
+I. El valor de adquisición;
 
-Para los fines de este capítulo, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del cincuenta por ciento del valor de la propiedad.
+II. El valor catastral determinado con la aplicación de las tablas de valores unitarios de suelo y construcción que apruebe el Congreso para cada ejercicio fiscal y en su caso sus actualizaciones; y
+
+III. El valor que resulte del avalúo practicado por la Dirección de Catastro o por personas registradas o autorizadas.
+
+Para efectos de la fracción I del presente artículo, la base será el monto de la erogación pactada al realizarse el hecho imponible de este impuesto.
+
+Para efectos de la fracción II del presente artículo, el valor derivará del resultado de la aplicación de las operaciones catastrales.
+
+Para efectos de la fracción III del presente artículo, la base derivará la determinación directa que realice la Dirección de Catastro o los peritos valuadores registrados y autorizados, en los términos del presente Código, para practicar avalúos.
+
+Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará como parte del precio pactado para efectos del cálculo de la contribución.
+
+Para los fines de este Capítulo, se considera, para el cálculo de este impuesto, que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del cincuenta por ciento del valor de la propiedad.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -3229,7 +3333,11 @@ III. Insertar en las escrituras o documentos que otorguen, copia del documento q
 
 IV. Presentar la documentación requerida por las autoridades catastrales, en los términos que establece la legislación básica en materia de catastro; y
 
-V. No podrán autorizar ninguna escritura pública, en la que hagan constar operaciones de traslado de dominio de bienes inmuebles, así como la constitución o transmisión de derechos reales sobre los mismos, si no ha obtenido la constancia de no adeudo, misma que expedirá la Tesorería, la que acreditará que el bien de que se trata, se encuentra al corriente del pago de las contribuciones que le sean afectas. La vigencia de la constancia abarcará hasta el bimestre siguiente a aquél en que se expidió.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+V. No podrán autorizar ninguna escritura pública, en la que hagan constar operaciones de traslado de dominio de bienes inmuebles, así como la constitución o transmisión de derechos reales sobre los mismos, si no ha obtenido la constancia de no adeudo, misma que expedirá la Tesorería, la que acreditará que el bien de que se trata, se encuentra al corriente del pago de las contribuciones que le sean afectas. La vigencia de la constancia corresponderá al ejercicio fiscal en que se otorgue la misma.
 
 Los fedatarios no estarán obligados a enterar el Impuesto Sobre Adquisición de Bienes Inmuebles, cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado este impuesto y acompañen a su declaración copia de aquélla con la que se efectuó el pago.
 
@@ -4423,6 +4531,24 @@ Lo anterior sin perjuicio de las atribuciones del Síndico, en el caso de que el
 
 Quienes efectúen gasto público municipal, estarán obligados a proporcionar a la Tesorería la información que les solicite y a permitirle a su personal la práctica de visitas para verificar el cumplimiento de las obligaciones derivadas de este ordenamiento y de la normatividad expedida con base en ella.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Las Juntas Auxiliares, tratándose de los recursos hacendarios que administren, participarán del presupuesto de egresos, ejercerán y controlarán el gasto, conforme a este Código y los lineamientos que expida la Tesorería Municipal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+El Presidente podrá desconcentrar o coordinar a las Juntas Auxiliares y mediante acuerdo, funciones específicas y potestades impositivas, propiciando su desarrollo administrativo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+El acuerdo a que se refiere el párrafo anterior se publicará en el Periódico Oficial del Estado, y en su caso, deberá ser refrendado al iniciar cada ejercicio fiscal.
+
 ### CAPÍTULO IV. DE LA CONTABILIDAD
 
 ###### Artículo 311.
@@ -5566,3 +5692,13 @@ CUARTO.- Los ordenamientos, acuerdos, circulares y demás documentos que a la fe
 QUINTO.- Los ordenamientos, acuerdos, circulares y demás documentos que a la fecha de entrada en vigor de este Decreto citen a la Unidad del Sistema Municipal de Registro y Fiscalización, al Área de Coordinación Operativa de Comercios Establecidos, al Área de Coordinación Operativa de Vía Pública y al Área de Coordinación Operativa de Espectáculos Públicos, se entenderá que se refieren a la Unidad de Normatividad y Regulación Comercial, a la Coordinación de Fiscalización de Comercio Establecido, a la Coordinación de Fiscalización a Vía Pública y a la Coordinación de Fiscalización de Espectáculos Públicos, respectivamente.
 
 SEXTO.- En los casos en que por disposición de autoridad competente los servicios sean descentralizados o desconcentrados, el Ayuntamiento podrá acordar que los conceptos de ingresos que se recauden por los mismos, se destinen al cumplimiento de sus fines.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a partir del primero de enero de dos mil diez.
+
+###### ARTÍCULO SEGUNDO.
+
+Las exenciones otorgadas al amparo de las disposiciones que se reforman, surtirán sus efectos por el término que se haya estipulado en los acuerdos o convenios respectivos.
