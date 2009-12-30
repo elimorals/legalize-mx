@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2008-12-29"
+last_updated: "2009-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACION FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -191,9 +191,11 @@ I. En forma mensual dentro de los cinco días siguientes a la fecha en que se re
 
 Con base en los ajustes cuatrimestrales y definitivo que realice la Federación en los plazos y términos previstos en la Ley de Coordinación, la Secretaría efectuará los ajustes a los Municipios; los cuales serán liquidados dentro de los 5 días posteriores a la fecha en que el Estado reciba dichos ajustes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Cuando a petición que le formule el Municipio de que se trate a la Secretaría, mediante acuerdo expreso para estos efectos en acta de cabildo debidamente suscrita de conformidad con la legislación aplicable, la Secretaría podrá enterar a los Municipios dichas participaciones en forma quincenal en partes iguales, los días 15 y último de cada mes, en concepto de anticipos a cuenta de Participaciones.
+(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009) (F. DE E., P.O. 16 DE ENERO DE 2010)
+
+II. En concepto de anticipos a cuenta de participaciones los días 15 y último de cada mes en partes iguales, cuando el Municipio autorice a la Secretaría, mediante petición expresa a través de acta de cabildo aprobada por mayoría de sus integrantes formulada exclusivamente para estos efectos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -206,10 +208,6 @@ El monto quincenal que se liquidará a cada municipio en concepto de anticipo a 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Los Municipios que soliciten el pago de sus Participaciones en forma quincenal bajo los términos antes señalados, deberán autorizar a la Secretaría en el mismo acuerdo de cabildo, que ésta efectúe en forma cuatrimestral el cálculo de las diferencias entre las cantidades pagadas en concepto de anticipos a cuenta de Participaciones y las Participaciones determinadas provisionalmente por la Federación en los términos de la Ley de Coordinación. Las diferencias calculadas bajo este mecanismo, serán liquidadas dentro de los dos meses siguientes al cuatrimestre que corresponda.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -241,13 +239,19 @@ La Auditoría Superior del Estado, revisará y dictaminará sobre los cálculos 
 
 Las bases, factores de distribución, montos estimados y plazos de las participaciones municipales para el ejercicio que se trate, quedarán establecidas mediante Decreto que emita anualmente el Estado, el que se publicará en el Periódico Oficial del Gobierno del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Tratándose de los montos de las participaciones a que se refiere este artículo, el Estado deberá publicarlos mediante Decreto en el Periódico Oficial del Gobierno del Estado, quince días después de que la Secretaría de Hacienda y Crédito Público, en términos del artículo 6°, cuarto párrafo de la Ley de Coordinación Fiscal, publique en el Diario Oficial de la Federación, las participaciones estimadas que le correspondan al Estado y de las que éste debe participar a los municipios que lo conforman.
+
 El Estado, a través de la Secretaría independientemente de la publicación a que se refiere el párrafo anterior, proporcionará a cada uno de los Municipios por escrito, el monto anual estimado de sus Participaciones.
 
-Asimismo el Gobierno del Estado publicará en el Periódico Oficial y en uno de los periódicos de mayor circulación en la entidad, las Participaciones definitivas pagadas a los Municipios en el ejercicio de que se trate, dentro de los tres primeros meses del ejercicio inmediato posterior.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009) (F. DE E., P.O. 16 DE ENERO DE 2010)
 
-Tratándose de los montos de las participaciones a que se refiere este artículo, el Estado deberá publicarlos mediante Decreto en el Periódico Oficial del Gobierno del Estado, quince días después de que la Secretaría de Hacienda y Crédito Público, en términos del artículo 6°, tercer párrafo de la Ley de Coordinación Fiscal, publique en el Diario Oficial de la Federación, las participaciones estimadas que le correspondan al Estado y de las que éste debe participar a los municipios que lo conforman.
+El Gobierno del Estado publicará en el Periódico Oficial trimestralmente el importe de las participaciones entregadas, y el monto definitivo que le haya correspondido a los Municipios en el ejercicio de que se trate, dentro de los tres primeros meses del ejercicio inmediato posterior.
 
 ###### ARTICULO 12.
 
@@ -530,3 +534,7 @@ P.O. 29 DE DICIEMBRE DE 2007.
 P.O. 29 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2010, previa publicación en el Periódico Oficial del Gobierno del Estado.
