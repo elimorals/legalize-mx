@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-catastro-para-el-estado-de-oaxaca-10646"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2008-12-29"
+last_updated: "2009-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 16 de diciembre de 1996.
 
@@ -71,9 +71,9 @@ VI. Promover la integración y el desarrollo del Sistema de Información Geográ
 
 El catastro es un sistema de información territorial para usos múltiples, estructurado por los registros documentales, gráficos y alfanuméricos que contienen la información cuantitativa y cualitativa de los bienes inmuebles ubicados en el territorio del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 4.
 
@@ -107,25 +107,25 @@ VII. Integrar y mantener actualizado el Inventario de Infraestructura y equipami
 
 VIII. La formulación de las Tablas de Valores Inmobiliarios, para la determinación del cobro de los derechos por las operaciones catastrales efectuadas por las autoridades catastrales a que se refiere esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 IX. La elaboración del Instructivo Técnico de Valuación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 X. La determinación de los valores inmobiliarios de los bienes inmuebles, para efectos del cobro de derechos por operaciones catastrales sobre la propiedad inmobiliaria, con base en las Tablas de Valores Inmobiliarios y el Instructivo Técnico de Valuación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 XI. Las demás que se deriven de esta Ley, su Reglamento y disposiciones relativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 5.
 
@@ -133,9 +133,9 @@ Los actos y resoluciones en materia de catastro serán tramitados en la forma, t
 
 A falta de disposición expresa, se consideran como normas supletorias las disposiciones contenidas en el Código Fiscal del Estado, las del Código Civil y las de sus procedimientos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 6.
 
@@ -147,19 +147,19 @@ II. Los actos traslativos de dominio celebrados ante notarios y registradores;
 
 III. Las características del inmueble.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Las manifestaciones deberán hacerse en un plazo de treinta días naturales contados a partir de la expedición de los documentos en los que se haga constar la posesión, propiedad o la fecha de celebración de los actos traslativos de dominio, en los formatos oficiales que para el caso apruebe y expida el Instituto Catastral del Estado de Oaxaca, acompañando los documentos o planos que señala esta Ley y su Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Dichas manifestaciones o avisos generarán el pago de derechos por servicios catastrales en términos de la Ley de Ingresos para el Estado de Oaxaca para el ejercicio fiscal que corresponda, a cargo del propietario o poseedor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -247,7 +247,7 @@ Compete al Instituto Catastral del Estado de Oaxaca el ejercicio de las atribuci
 
 ARTÍCULO 12 BIS.- Compete a los Delegados Catastrales:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -255,7 +255,7 @@ I. Realizar las Operaciones Catastrales referentes a la identificación, descrip
 
 II. Solicitar a los propietarios o poseedores de bienes inmuebles datos y documentos que les permitan ratificar o rectificar la información proporcionada, registrar información veraz, confiable y actualizada en el padrón catastral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -365,13 +365,13 @@ XX. Atender y resolver las consultas técnicas y procedimentales que, sobre situ
 
 XXI. Resolver los recursos previstos en esta Ley y su reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 XXII. Llevar a cabo, previa autorización de la Secretaría de Finanzas la realización de valuaciones y revaluaciones de bienes inmuebles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -415,37 +415,37 @@ XXXII. Sistematizar la información estadística y generar los indicadores de ge
 
 XXXIII. Elaborar las Tablas de Valores Inmobiliarios para la determinación de los derechos por las operaciones catastrales, mismas que serán aprobadas por el Congreso del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 XXXIV. Determinar los valores inmobiliarios de los bienes inmuebles en el supuesto que señala la fracción XXII de este artículo, para efectos de los derechos por operaciones catastrales sobre la propiedad inmobiliaria, con base en las Tablas de Valores Inmobiliarios y en el Instructivo Técnico de Valuación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 XXXV. Ejercer las operaciones catastrales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 XXXVI. Certificar los avalúos catastrales e inmobiliarios emitidos por Perito Valuador con registro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 XXXVII. Realizar los estudios técnicos para la identificación y georreferenciación de los límites del territorio del Estado, de sus municipios y del perímetro de las áreas urbanas de sus localidades.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 XXXVIII. Verificar los avalúos realizados por los Peritos Valuadores, a fin de corroborar que los mismos se hayan realizado en apego a lo dispuesto en la presente Ley; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -511,7 +511,7 @@ II. Proponer adecuaciones a los métodos y sistemas para el desarrollo de las op
 
 III. Emitir opinión acerca de los estudios y proyectos de fotogrametría y medición catastrales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -549,23 +549,29 @@ VI. Control, conservación, actualización y archivo de los registros catastrale
 
 VII. Inscripción en el Catastro de los bienes inmuebles y sus modificaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-VIII. Elaboración de propuestas de Tablas de Valores Unitarios de Suelo y Construcciones, Tablas de Valores Inmobiliarios y el Instructivo Técnico de Valuación;
+VIII. Elaboración de propuestas de Tablas de Valores Unitarios de Suelo y Construcciones, Tablas de Valores Inmobiliarios y el Instructivo Técnico de Valuación.
 
 IX. Realizar estudios técnicos para la elaboración de las tablas de valores unitarios de suelo y construcciones.
 
 X. Zonificación catastral.
 
-XI. Elaboración y determinación de las tipologías constructivas; y
+XI. Elaboración y determinación de las tipologías constructivas; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 XII. Certificación de los avalúos catastral e inmobiliario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+XIII. Cancelación de registro de cuenta catastral en el Sistema de Información Territorial por resolución judicial o por duplicidad de cuentas que amparen el mismo bien inmueble.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -623,19 +629,19 @@ V. A solicitud del propietario o poseedor del inmueble, cumpliendo con los linea
 
 VI. Cuando la totalidad o parte del predio sea modificado en su régimen jurídico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VII. Cuando se presenten las manifestaciones o avisos que tienen por objeto la actualización o modificación del sistema de información territorial, para usos múltiples; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VIII. Cuando por convenio con los municipios del Estado, éstos soliciten la actualización del valor de predios ubicados dentro de su territorio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -647,7 +653,7 @@ En ambos casos se aplicarán las tablas vigentes en la fecha de elaboración del
 
 La vigencia de los avalúos a que se refiere este artículo será de doce meses contados a partir de la fecha de su expedición.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -655,13 +661,13 @@ La vigencia de los avalúos a que se refiere este artículo será de doce meses 
 
 En aquellos casos en que no sea posible el acceso al inmueble por causas no imputables al Instituto o al propietario o poseedor, la autoridad catastral podrá valuar el inmueble con los elementos aportados por el contribuyente, apoyándose en la cartografía, en las Tablas de Valores Unitarios de Suelo y Construcciones, las Tablas de Valores Inmobiliarios, así como en el Instructivo Técnico de Valuación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 32.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -669,13 +675,13 @@ En aquellos casos en que no sea posible el acceso al inmueble por causas no impu
 
 En el caso de un bien inmueble no registrado por causa imputable al propietario o poseedor, y en aquellos casos en que se hayan omitido los avisos y manifestaciones que esta ley establece, el avalúo catastral surtirá efectos desde la fecha en que debió haberse efectuado el registro sin exceder de cinco años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 34.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -683,13 +689,13 @@ En el caso de un bien inmueble no registrado por causa imputable al propietario 
 
 En caso de fusión de dos o más bienes inmuebles, el avalúo catastral así como el avalúo inmobiliario, se practicarán tomando en cuenta la superficie total de suelo de los inmuebles fusionados así como sus construcciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 36.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -701,7 +707,7 @@ Tratándose de ampliación de las construcciones, durante la vigencia de los ava
 
 Las autoridades correspondientes informarán por escrito al Instituto Catastral sobre las solicitudes de concesión o autorización de fraccionamientos o condominios para que, con base en los contenidos de las solicitudes, verifique la situación catastral de los bienes inmuebles e informe sobre la misma, para la continuación de los trámites respectivos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -721,13 +727,13 @@ I.- Empadronar los lotes producto de la subdivisión, lotificación, fraccionami
 
 II.- Valuar cada uno de los lotes del fraccionamiento o condominio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 41.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 42.
 
@@ -743,7 +749,7 @@ Los propietarios de fraccionamientos o condominios antes de celebrar contratos d
 
 De no cumplirse lo establecido en este artículo, los fedatarios públicos no autorizarán las escrituras de los actos señalados anteriormente y las autoridades competentes no las inscribirán. De celebrarse dichos contratos y trasmitirse la posesión de un predio o condominio, las autoridades catastrales harán del conocimiento de las autoridades competentes la existencia de esa irregularidad, para que apliquen a los infractores las sanciones a que haya lugar, o en su caso, las aplicarán directamente conforme a lo previsto en esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -765,33 +771,33 @@ III. Calificar las manifestaciones o avisos y exigir a los interesados que las a
 
 Contra los actos en los que se fije el valor catastral de los bienes inmuebles, podrá interponerse recurso de revocación, conforme a lo dispuesto en el Capítulo Décimo Cuarto de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LAS TABLAS DE VALORES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 48.
 
 Corresponde al Congreso del Estado aprobar las Tablas de Valores Unitarios de Suelo y Construcciones, las Tablas de Valores Inmobiliarios, así como el Instructivo Técnico de Valuación, los que surtirán efectos a partir de su aprobación y publicación en el Periódico Oficial del Gobierno del Estado, debiendo considerarse para su elaboración, al menos los siguientes factores:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 I. Valores de terreno y construcciones fijados por los enajenantes y adquirentes de bienes inmuebles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 II. Tipo y calidad de los servicios públicos de la zona que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -805,13 +811,13 @@ IV. Ubicación del fraccionamiento o asentamiento urbano.
 
 V. Características de asentamientos cercanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VI. Oferta y demanda en el mercado inmobiliario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -841,13 +847,13 @@ El Congreso del Estado, en coordinación con los municipios, adoptarán las medi
 
 Para tales efectos, los municipios podrán celebrar convenios de coordinación con el Instituto Catastral del Estado de Oaxaca, para que éste les proporcione asesoría y asistencia técnica en la elaboración de las tablas, de valores unitarios de suelo y construcciones aplicables al municipio de que se trate, para su aprobación por parte del Congreso del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO OCTAVO. DE LA VALUACIÓN CATASTRAL E INMOBILIARIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -867,7 +873,7 @@ III. La aplicación del procedimiento de valuación establecido en el Instructiv
 
 IV. La aplicación de las Tablas de Valores Unitarios de Suelo y Construcciones, las Tablas de Valores Inmobiliarios y el Instructivo Técnico de Valuación vigentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -875,11 +881,17 @@ IV. La aplicación de las Tablas de Valores Unitarios de Suelo y Construcciones,
 
 Tratándose de predios que estén fuera de la zonificación del municipio respectivo, para la determinación de los valores catastrales e inmobiliarios, se tomarán en consideración las Tablas de Valores Unitarios de Suelo y Construcciones, las Tablas de Valores Inmobiliarios, de suelo susceptible de transformación o suelo rústico, atendiendo a la clasificación de bienes inmuebles prevista en el artículo 8 de esta Ley, así como el Instructivo Técnico de Valuación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTÍCULO 50 A.- En el caso de manifestaciones de condominios, por cada aviso de asignación y reasignación de cuenta, se deben manifestar las superficies de suelo y construcción privativa, la superficie de suelo y construcción de áreas comunes, en porcentaje y en metros cuadrados que le corresponde a cada bien inmueble que constituye el condominio, para efectos de determinar su valor catastral e inmobiliario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTÍCULO 50 B.- La inscripción al Catastro de los Bienes Inmuebles se deberá acompañar obligatoriamente de los avalúos catastral e inmobiliario, practicados por perito valuador autorizado por la Secretaría de Finanzas y debidamente registrado por el Instituto Catastral del Estado de Oaxaca, con excepción de los trámites de corrección de datos, asignación de clave catastral, reasignación de cuenta, así como, aquellos que cuenten con un avalúo expedido por institución u organismo que esté autorizado para hacerlo.
 
 ### CAPÍTULO NOVENO. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PARTICULARES Y LOS FEDATARIOS
 
@@ -887,7 +899,7 @@ ARTÍCULO 50 A.- En el caso de manifestaciones de condominios, por cada aviso de
 
 Los propietarios y poseedores de bienes inmuebles tienen derecho a:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -897,7 +909,7 @@ I. Que se les reciban las manifestaciones, avisos, solicitudes y escritos relaci
 
 II. Obtener un avalúo apegado a la presente Ley, al instructivo técnico de valuación, a la zonificación catastral y a la tabla de valores unitarios de suelo y construcciones aprobados por el Congreso del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -907,25 +919,25 @@ IV. Solicitar a su costa copias certificadas de los documentos catastrales.
 
 V. Interponer los recursos previstos en esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VI. Conocer los resultados de los avalúos que señala el artículo 17 de esta Ley; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VII. Enterarse de los requisitos y formatos que para cada tipo de trámite catastral se requieren, así como de los derechos e impuestos que se generen por cada uno de ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 VIII. Los demás que establezcan esta Ley y su Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -935,7 +947,7 @@ Cuando en las manifestaciones o avisos a que se refiere esta Ley no se expresen 
 
 Sin perjuicio de lo establecido en este artículo, el Instituto Catastral del Estado de Oaxaca analizará y determinará la procedencia de las manifestaciones o avisos que presenten los fedatarios públicos y los particulares, cuidando en todo momento que los documentos presentados cumplan con las normas y procedimientos aplicables en las leyes vigentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -951,7 +963,7 @@ Cuando por causas imputables a los propietarios, poseedores o representantes de 
 
 Los propietarios, poseedores o cualquiera otra persona encargada de un bien inmueble, están obligados a manifestar a las autoridades catastrales debidamente autorizadas cualquier modificación que se haga a los elementos que caracterizan al bien inmueble, tales como construcciones, reconstrucciones, ampliaciones, fusión o subdivisión de predios o cualquier otra contemplada por esta Ley dentro de un plazo de 30 días naturales contados a partir de la fecha en que se hubiere realizado la modificación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -967,17 +979,17 @@ ARTÍCULO 55 BIS.- Cuando los propietarios o poseedores o cualquiera otra person
 
 Todas las autoridades, dependencias o instituciones que intervengan o den autorización para la celebración de actos jurídicos que por cualquier motivo modifiquen las características de la propiedad inmueble en general o de un bien en particular, están obligadas a manifestarlas al Instituto, dentro de un plazo de 30 días naturales, contados a partir de la fecha en que intervinieron o autorizaron la modificación de elementos que caractericen al predio o construcción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 57.
 
 Las manifestaciones y avisos que deban ser presentados en los términos de esta Ley y su Reglamento, deberán hacerse en los formatos que apruebe y expida el Instituto y acompañar los documentos o planos que se exigen en las mismas.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -991,7 +1003,7 @@ Los servicios relacionados con productos cartográficos se prestarán a cualquie
 
 La inscripción de un inmueble en el padrón catastral no genera ningún derecho de propiedad o posesión del mismo en favor de la persona a cuyo nombre aparezca inscrito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1001,7 +1013,7 @@ Los Notarios Públicos, fedatarios y los organismos federales, estatales o munic
 
 Las autoridades registrales no harán inscripción alguna de contratos, títulos o resoluciones judiciales que tengan por objeto transmitir o modificar el dominio de un bien inmueble así como aquellos que constituyan la propiedad o generen derechos de propiedad, mientras no se les exhiba el certificado de avalúo y de datos catastrales correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 61.
 
@@ -1023,11 +1035,11 @@ Los Ayuntamientos del Estado proporcionarán al Instituto, todos los datos, docu
 
 Los Ayuntamientos proveerán lo necesario, dentro de la esfera de su competencia, para la consolidación y desarrollo del Catastro del Estado de Oaxaca.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 ### CAPÍTULO DÉCIMO BIS. DE LOS PERITOS VALUADORES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1047,15 +1059,21 @@ IV. Exhibir currículum vitae actualizado; y
 
 V. Acreditar los conocimientos en materia catastral, mediante evaluación realizada a la conclusión del curso sobre valuación inmobiliaria, organizado por el Instituto Catastral del Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTÍCULO 64 B.- Las solicitudes para obtener la constancia del registro de Perito Valuador deberán presentarse en la forma y horarios que al efecto determine el Instituto Catastral del Estado de Oaxaca, a través de la convocatoria publicada en el Periódico Oficial del Gobierno del Estado y en un diario de mayor circulación en la Entidad, la cual será publicada en los períodos que se requieran, en función de las propias necesidades del Instituto, la que se deberá realizar cuando menos una vez al año.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-ARTÍCULO 64 B.- Las solicitudes para obtener la constancia del registro de Perito Valuador deberán presentarse en la forma y horarios que al efecto determine el Instituto Catastral del Estado de Oaxaca, a través de la convocatoria publicada en el Periódico Oficial del Gobierno del Estado y en un diario de mayor circulación en la Entidad, a más tardar los días cinco de marzo y cinco de noviembre de cada año.
-
 Los solicitantes deberán presentar ante el Instituto Catastral del Estado de Oaxaca, el formato que corresponda debidamente requisitado y firmado, mismo que podrán obtener en las oficinas de dicho Instituto, así como la documentación requerida de acuerdo a lo establecido en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 Al momento de presentar la solicitud de inscripción al curso, los aspirantes deberán cubrir los derechos que por este concepto establezca la Ley de Ingresos del Estado de Oaxaca. En ningún caso procederá la devolución de este pago.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Una vez aprobada la evaluación y antes del otorgamiento de la constancia de perito valuador, deberá otorgar fianza a favor de la Secretaría de Finanzas, por el importe de un mil días de salario mínimo general vigente en el Estado de Oaxaca, para garantizar lo siguiente:
 
@@ -1065,13 +1083,17 @@ II. Pago por la responsabilidad civil a favor del afectado; y
 
 III. Pago por responsabilidad solidaria a favor de la hacienda estatal, cuando por la práctica de avalúos catastrales e inmobiliarios, se determinen bases menores de las reales y por consecuencia se dejen de cubrir los derechos correspondientes en cada ejercicio fiscal, independientemente de las sanciones administrativas que se determinen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTÍCULO 64 C.- El Instituto Catastral del Estado de Oaxaca turnará los expedientes de los aspirantes a la Secretaría de Finanzas, la que, en su caso, emitirá su autorización en el término de quince días naturales contados a partir de la recepción de los mismos.
 
-Recibida la autorización de la Secretaría de Finanzas, el Instituto Catastral del Estado de Oaxaca, publicará la relación de Peritos Valuadores que se incorporan al Padrón en los meses de enero y mayo del año que transcurra en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación en el Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Recibida la autorización de la Secretaría de Finanzas, el Instituto Catastral del Estado de Oaxaca publicará la relación de Peritos Valuadores que se incorporarán al Padrón de Peritos Valuadores, en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación en la Entidad, a más tardar dentro de los quince días naturales siguientes, contados a partir de recibida dicha autorización.
 
 El Instituto Catastral del Estado de Oaxaca expedirá posteriormente la constancia de registro respectivo con vigencia para un ejercicio fiscal, la que deberá contener por lo menos:
 
@@ -1081,7 +1103,7 @@ II. Vigencia; y
 
 III. Fotografía del Perito Valuador.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1089,7 +1111,7 @@ ARTÍCULO 64 D.- El Instituto Catastral del Estado de Oaxaca no dará trámite a
 
 Para el caso de no aprobarse el registro, el Instituto Catastral del Estado de Oaxaca deberá notificarlo por escrito al solicitante, dentro de los quince días hábiles siguientes a la solicitud respectiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1097,7 +1119,7 @@ ARTÍCULO 64 E.- Podrá solicitarse la renovación de registro al Padrón de Per
 
 Los Peritos Valuadores que continúen cumpliendo con los requisitos para obtener la renovación serán publicados en el mes de enero de cada año en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1113,7 +1135,7 @@ IV. Acreditar un mínimo de cuarenta horas de capacitación sobre valuación cat
 
 V. No encontrarse en los supuestos previstos en los artículos 64 N y Ñ de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1133,19 +1155,19 @@ VI. Realizar conjuntamente con el personal autorizado por la Secretaría de Fina
 
 VII. Las demás que determinen las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTÍCULO 64 H.- El Perito Valuador deberá presentar en el Instituto Catastral del Estado de Oaxaca u oficina autorizada por éste, los avalúos elaborados para su certificación en términos de esta Ley y su Reglamento, mediante los formatos que para el caso expida dicho Instituto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTÍCULO 64 I.- La función de Perito Valuador es incompatible con el servicio en la función y fe públicas, empleos, cargos de elección popular federal, estatal o municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1161,7 +1183,7 @@ IV. Alterar los datos de los avalúos que se practiquen y de los autorizados por
 
 V. Presentar un avalúo con uso de suelo distinto al que está destinado el inmueble.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1175,13 +1197,13 @@ III. Suspensión temporal del registro de uno a seis meses; y
 
 IV. Cancelación definitiva del registro de Perito Valuador.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTÍCULO 64 L.- Procede la amonestación por escrito, cuando se presente un avalúo con errores de datos que no trasciendan al resultado del mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1203,13 +1225,13 @@ VII. No desempeñar personalmente sus funciones.
 
 Lo anterior sin perjuicio de las demás sanciones a que se refiere el artículo 64 K de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTÍCULO 64 N.- Son causas de suspensión realizar cualquiera de los supuestos previstos en el artículo 64 J de esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1221,7 +1243,7 @@ II. Reincidencia en la realización de los supuestos previstos en el artículo 6
 
 III. Ser condenado por delito intencional con motivo del ejercicio de sus funciones, mediante sentencia ejecutoriada que amerite pena corporal o que por la misma sea suspendido del ejercicio profesional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1231,7 +1253,7 @@ I. El oficio de observaciones dará inicio al procedimiento, en el cual se hará
 
 II. Una vez recibido el escrito y desahogadas las pruebas ofrecidas y admitidas, el Instituto Catastral del Estado de Oaxaca procederá dentro de los 15 días hábiles siguientes, a dictar por escrito la resolución que proceda, la cual deberá ser notificada en forma personal o por correo certificado con acuse de recibo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1239,7 +1261,7 @@ ARTÍCULO 64 P.- La resolución que dicte el Instituto Catastral del Estado de O
 
 El escrito de interposición del recurso deberá presentarse ante la Secretaría de Finanzas o ante la Oficina Recaudadora de Rentas correspondiente o por correo certificado con acuse de recibo, siempre que el envío se efectúe en el lugar en que resida el recurrente; en estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue en la oficina recaudadora o de correos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1255,7 +1277,7 @@ Cuando no se expresen los agravios, no se señale la resolución que se recurre,
 
 Cuando no se gestione en nombre propio, la representación deberá acreditarse en términos del artículo 13 de la Ley de Justicia Administrativa para el Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1273,7 +1295,7 @@ Los documentos a que se refieren las fracciones anteriores, podrán presentarse 
 
 Cuando no se acompañe alguno de los documentos a que se refieren las fracciones anteriores, la Secretaría de Finanzas, requerirá al promovente para que los presente dentro del término de cinco días. Si el promovente no los presentare dentro de dicho término y se trata de los documentos a que se refieren las fracciones I a III de este artículo, se tendrá por no interpuesto el recurso; si se trata de las pruebas a que se refiere la fracción IV de este mismo artículo, las mismas se tendrán por no ofrecidas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1293,7 +1315,7 @@ VI. En caso de que no se amplíe el recurso administrativo o si en la ampliació
 
 VII. Si la resolución es revocada por la autoridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1307,7 +1329,7 @@ III. Cuando de las constancias que obran en el expediente administrativo quede d
 
 IV. Cuando hayan cesado los efectos de la resolución impugnada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1327,7 +1349,7 @@ IV. Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurr
 
 Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra la resolución se interpuso extemporáneamente, desechará dicho recurso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1341,13 +1363,13 @@ Las demás pruebas quedarán a la prudente apreciación de la Secretaría de Fin
 
 Si por la adminiculación de las pruebas rendidas y de las presunciones formadas, las autoridades adquieren convicción distinta acerca de los hechos materia del recurso, podrán valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTÍCULO 64 W.- La autoridad deberá dictar resolución y notificarla en un término que no excederá de tres meses contados a partir de la fecha de interposición del recurso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1357,7 +1379,7 @@ La autoridad podrá corregir los errores que advierta en la cita de los precepto
 
 No se podrán revocar o modificar la resolución en la parte no impugnada por el recurrente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1385,9 +1407,9 @@ Las infracciones a la presente Ley serán sancionadas con multa, calculada con b
 
 Dichas sanciones se determinarán tomando en cuenta la trascendencia de la infracción y la reincidencia, salvo cuando la impuesta sea la mínima.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 66.
 
@@ -1397,7 +1419,7 @@ I. Que no proporcione al Instituto, los datos o informes que éste le solicite.
 
 II. Que, habiéndose cumplido las formalidades previstas en el Código Fiscal del Estado para las visitas domiciliarias, no permita el acceso al interior del inmueble al personal del Instituto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1407,13 +1429,13 @@ IV. Que no realice las manifestaciones o avisos que esta Ley le impone.
 
 V. Que no manifieste al Instituto cualquier modificación que se haga a los elementos y características físicas del inmueble.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Para la imposición de las multas en los supuestos señalados en las fracciones II y III de este artículo, la autoridad competente deberá levantar acta circunstanciada con las formalidades aplicables que señala el Código Fiscal para el Estado de Oaxaca para las visitas domiciliarias, en la que se hará constar la imposibilidad de realizar las operaciones catastrales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1477,7 +1499,7 @@ II. Cuando la clave catastral sea distinta de la que le corresponde al bien inmu
 
 III. En los demás casos en que haya diferencias entre los datos asentados en el padrón catastral y las características del bien inmueble.
 
-###### ARTICULO 73.
+###### ARTÍCULO 73.
 
 Los propietarios, poseedores o sus representantes legales podrán solicitar al Instituto en todo tiempo la aclaración de los datos asentados en el padrón catastral, en los casos a los que se refiere el artículo anterior.
 
@@ -1505,9 +1527,9 @@ El Instituto deberá resolver la aclaración dentro del tiempo de 15 días natur
 
 Los propietarios o poseedores de bienes inmuebles ubicados en el territorio del Estado, podrán interponer ante el Instituto por sí o por conducto de sus representantes legales el recurso de revocación en contra de los actos de las autoridades catastrales, en los términos y conforme a los procedimientos previstos en el presente capítulo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LAS NOTIFICACIONES
 
@@ -1515,9 +1537,9 @@ Los propietarios o poseedores de bienes inmuebles ubicados en el territorio del 
 
 Procede el recurso de revocación cuando la base catastral y/o inmobiliaria asignadas por las autoridades catastrales, no se hayan determinado conforme a los procedimientos y términos establecidos por la presente Ley y su Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 El Instituto Catastral del Estado resolverá acerca de los recursos de revocación que presenten los propietarios o poseedores de bienes inmuebles, en relación con la fijación de la base catastral y/o inmobiliaria siempre y cuando se argumente, con relación a los avalúos, alguna de las razones siguientes:
 
@@ -1529,7 +1551,7 @@ II. Inexacta aplicación de las tablas de valores o de la zonificación.
 
 III. Asignación de una extensión mayor o tipo diverso del que efectivamente tenga el bien inmueble.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -1597,7 +1619,7 @@ Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cump
 
 Y lo comunico a usted para su conocimiento y fines consiguientes. SUFRAGIO EFECTIVO. NO REELECCIÓN.- El Respeto al Derecho Ajeno es la Paz.- Oaxaca de Juárez, a 13 de diciembre de 1996. EL SECRETARIO GENERAL DE GOBIERNO.- Lic. Héctor Anuar Mafud Mafud. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE DICIEMBRE DE 1999.
 
@@ -1650,3 +1672,9 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día 1 de enero del
 SEGUNDO.- Para el ejercicio fiscal 2009, la convocatoria para obtener la constancia del registro de Perito Valuador a que se refiere esta Ley, deberá publicarse a más tardar el quince de enero y la publicación de dicho registro deberá realizarse a más tardar el quince de marzo.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias contrarias a lo establecido en el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2010, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Lo dispuesto en el artículo 50 B, entrará en vigor a partir del día 1 de marzo del año 2010, tomando en consideración que resulta necesario otorgar dicho plazo para autorizar y registrar a los Peritos Valuadores que se incorporarán al Padrón de Peritos Valuadores.
