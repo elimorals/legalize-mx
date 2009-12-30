@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2009-12-12"
+last_updated: "2009-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -64,6 +64,10 @@ En el Estado de Chihuahua, toda persona gozará de los derechos reconocidos en l
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2007)</small>
 
 Todos los habitantes del Estado tienen derecho a acceder en igualdad de oportunidades a los beneficios del desarrollo social. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad de la persona y de los grupos en que se integra, sean reales y efectivas; y remover los obstáculos que impidan o dificulten su plenitud.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+Es derecho de todo habitante del Estado de Chihuahua, el aprovechamiento de las fuentes renovables de energía solar, eólica y cualquier otro tipo de energía proveniente de sustancias orgánicas, para la generación de energía para el autoabastecimiento en los términos que establezca la ley en la materia.
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2007)</small>
 
@@ -279,15 +283,21 @@ Son obligaciones de los vecinos, inscribirse en los padrones respectivos y manif
 
 DE LOS CHIHUAHUENSES.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 18.
 
 Son chihuahuenses, las personas:
 
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2009)</small>
+
 I.- Nacidas en el Estado.
 
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2009)</small>
+
 II.- Hijas de padre o madre mexicanos y vecinos del Estado que nazcan fuera de éste.
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
 III.- Mexicanas que adquieran vecindad en el Estado.
 
@@ -1897,78 +1907,6 @@ XVI.- Conocer sobre las violaciones a los derechos de los gobernados en los tér
 
 XVII.- Ejercer las demás atribuciones que le señalan las leyes.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1988)</small>
-
-###### Art. 109.
-
-Corresponde al Pleno del Supremo Tribunal de Justicia:
-
-I.- Iniciar ante el Congreso Leyes y decretos, conforme a esta Constitución.
-
-II.- Emitir su opinión sobre los proyectos de ley o decreto relativos a la legislación civil, penal, de procedimientos y organización de tribunales, cuando con ese fin se los remita el Congreso.
-
-III.- Crear la Sala correspondiente cuando la elección de un Magistrado así lo amerite.
-
-IV.- Nombrar y remover.
-
-a).- A los Jueces del Estado.
-
-b).- Libremente: a los Secretarios de Salas, visitadores judiciales y demás funcionarios y empleados, cuya designación y remoción no esté determinada de otra forma en esta Constitución o en la Ley.
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-V.- Nombrar a su Presidente de entre sus integrantes, mediante votación por mayoría calificada de las dos terceras partes de los magistrados presentes en el Pleno.
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-VI.- Crear y suprimir juzgados de acuerdo a las necesidades de la administración de justicia.
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-VII.- Conceder licencias a los magistrados, para separarse de sus cargos cuando aquéllas pasen de cinco días, pero no de veinte.
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-VIII.- Conceder licencias por más de diez días y hasta por seis meses a funcionarios y empleados del Poder Judicial.
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-IX.- Suspender hasta por tres meses, por causa grave y justificada que no sea motivo de proceso, a los funcionarios y empleados del Poder Judicial.
-
-Podrá suspenderlos también, durante todo el tiempo que fuere necesario para realizar las investigaciones conducentes, con objeto de determinar su responsabilidad.
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-X.- Aprobar sus reglamentos interiores.
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-XI.- Formular y aplicar los exámenes de oposición para la designación de los Jueces de Primera Instancia.
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-XII.- Formular el Proyecto de Presupuesto de Egresos del Poder Judicial, así como administrar y ejercer el que le sea aprobado por el Congreso del Estado.
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-XIII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y el Legislativo del Estado, siempre que no sean de la competencia de la Cámara de Senadores del Congreso de la Unión o de la Suprema Corte de Justicia de la Nación.
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-XIV.- Resolver las controversias que se susciten entre los ayuntamientos y el Congreso del Estado.
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-XV.- Resolver los conflictos que se susciten entre dos o más municipios de la entidad, así como entre los municipios y el Ejecutivo del Estado, en los términos que disponga la ley.
-
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-XVI.- Conocer sobre las violaciones a los derechos de los gobernados en los términos del artículo 200 de esta Constitución; y
-
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
-
-XVII.- Ejercer las demás atribuciones que le señalan las leyes.
-
 ###### Art. 110.
 
 Los Jueces del Estado serán nombrados por el Pleno del Supremo Tribunal de Justicia. Los de Primera Instancia lo serán mediante concurso de oposición.
@@ -2465,7 +2403,11 @@ C.- Fomento de la educación física.
 
 X.- En materia de salubridad, salud y asistencia social:
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2009)</small>
+
 A.- Prestación de servicios de atención médica y vigilancia de mercados, servicios de agua potable, drenaje, limpia, transporte de basuras, epidemias; y
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2009)</small>
 
 B.- Prestación de servicios de asistencia social, así como el sostenimiento de hospitales, clínicas, casas hogar, centros de día, guarderías infantiles y demás establecimientos de asistencia social pública en el ámbito municipal.
 
@@ -3630,3 +3572,9 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política Local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
