@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2009-10-16"
+last_updated: "2009-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -2541,9 +2541,11 @@ La presente ley entrará en vigor al día siguiente de su publicación en el Per
 
 Se abroga la Ley del Sistema Integral de Seguridad Pública del Estado de Morelos, promulgada y publicada en el Periódico Oficial "Tierra y Libertad" número 4268 el 30 de Julio del 2003, así como todas las disposiciones que se opongan a la presente ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO TERCERO.
 
-La Ley Orgánica de la Procuraduría General de Justicia del Estado deberá ajustar su contenido de conformidad con lo establecido en la presente ley en un plazo de 4 meses contados a partir de la entrada en vigor de este ordenamiento.
+La Ley Orgánica de la Procuraduría General de Justicia del Estado deberá ajustar su contenido de conformidad con lo establecido en la presente Ley en un plazo de seis meses contados a partir de la entrada en vigor de este ordenamiento.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
 
@@ -2551,11 +2553,11 @@ El Consejo de Honor y Justicia a que se refiere el artículo 162 de esta Ley, de
 
 En tanto se ajusta el procedimiento señalado en el párrafo anterior, la Visitaduría seguirá conociendo de los asuntos iniciados contra el personal de la Procuraduría en los términos de la presente ley.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO CUARTO.
 
-Los consejos de honor y justicia de la Secretaría de Seguridad Pública y de las áreas de seguridad pública municipal, deberá (sic) quedar instalados conforme lo establece la ley, en un plazo de dos meses a partir de la entrada en vigor de las reformas de la ley orgánica de la Procuraduría General de Justicia del Estado de Morelos a que se refiere el segundo párrafo del artículo anterior, y para los mismos efectos establecidos en dicho artículo.
+Los Consejos de Honor y Justicia de la Secretaría de Seguridad Pública y de las áreas de seguridad pública municipal, deberán quedar instalados conforme lo establece la presente Ley, en un plazo de seis meses a partir de la entrada en vigor de la misma, para los mismos efectos establecidos en el artículo anterior. En tanto se realice la instalación de dichos Consejos, seguirán operando los anteriores, aplicando en lo conducente las disposiciones de la presente Ley, y en caso necesario las disposiciones que les dieron origen.
 
 ###### ARTÍCULO QUINTO.
 
@@ -2616,3 +2618,9 @@ Remítase al titular del Poder Ejecutivo para su promulgación y publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La presente reforma, entrará en vigor al día siguiente de su publicación.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
