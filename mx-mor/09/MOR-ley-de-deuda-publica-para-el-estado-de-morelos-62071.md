@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-deuda-publica-para-el-estado-de-morelos-62071"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-16"
-last_updated: "2008-11-05"
+last_updated: "2009-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de julio de 2008.
 
@@ -877,6 +877,72 @@ Con base en los datos del registro, la Secretaría podrá dar a conocer informac
 
 La Secretaría proporcionará la información relativa a los registros de la deuda pública que consten en el registro y que correspondan a financiamientos celebrados por las entidades a las instituciones calificadoras de valores contratadas por las mismas, para calificar su calidad crediticia o la de los valores que en su caso emitan, cuando estas así lo soliciten.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+### Capítulo Décimo. De la solicitud, autorización, contratación, garantías y pago en esquemas globales de financiamiento
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 103.
+
+El objeto del presente Capítulo es normar y establecer las bases a que deberán sujetarse el Poder Ejecutivo del Estado de Morelos y sus municipios, para contraer obligaciones o celebrar empréstitos o créditos que deriven del crédito público y que en términos de lo previsto por esta Ley, constituyan deuda pública, en esquemas globales de financiamiento, en los que se involucren dos o más municipios del Estado o bien, el Estado y dos o más de sus municipios.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 104.
+
+En lo no previsto en el presente Capítulo se aplicará lo establecido en las demás disposiciones de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 105.
+
+Además de las disposiciones establecidas en el artículo 3 de la presente Ley, para efectos del presente Capítulo se entenderá por:
+
+I.- Esquemas globales de financiamiento: Las operaciones de Deuda Pública que se promuevan por dos o más municipios del Estado, o bien, el Estado y dos o más de sus municipios, a favor del propio Estado en su caso, y de todos los municipios del Estado para la instrumentación de estructuras jurídico - financieras calificadas, para la obtención de mejores condiciones de financiamiento a su favor, respondiendo cada entidad por las obligaciones de deuda que, en su caso considere conveniente contraer, y
+
+II.- Autorización global: La autorización a que se refiere (sic) fracción X del artículo 40 de la Constitución Política del Estado Libre y Soberano de Morelos, cuando ésta se expida en un sólo decreto para el Poder Ejecutivo del Estado y dos o más de sus municipios, o solamente para dos o más municipios, para la instrumentación de esquemas globales de financiamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 106.
+
+Para efectos de lo establecido en el presente Capítulo, el Congreso podrá autorizar los actos a que se refieren las fracciones II, III, V, VII, IX, X y XII del artículo 12 de la presente Ley, a través de Decretos de Autorización Global.
+
+La solicitud que realice el Poder Ejecutivo del Estado con cuando menos dos o más municipios, o dos o más municipios conjuntamente, para instrumentar un esquema global de financiamiento, se realizará a través de una iniciativa con proyecto de decreto que deberá contener como mínimo lo siguiente:
+
+I.- La información relativa al crédito o empréstito que sea susceptible de celebrar cada entidad de que se trate, indicando, según resulte aplicable: monto, destino, plazo máximo, mecanismo de pago, los derechos e ingresos que serán afectados en garantía o fuente de pago para respaldar el cumplimiento de las obligaciones de los créditos que contraten, y demás datos que en su caso, se consideren relevantes;
+
+II.- La información que permita determinar la capacidad de pago de las entidades involucradas en la autorización y la necesidad debidamente razonada de la inversión que se pretenda realizar, o destino que se pretenda dar a los recursos provenientes del financiamiento. Tratándose de reestructuraciones o refinanciamientos para los que se requiera autorización del Congreso, se deberán señalar de manera general, los beneficios que se espera lograr en caso de realizarse la reestructuración o refinanciamiento correspondientes;
+
+III.- En su caso, la solicitud de dos o más municipios hacia el Estado para efectos de que concurran conjuntamente a realizar la solicitud de autorización global ante el Congreso; dicha solicitud deberá emitirse por acuerdo de los Ayuntamientos, y
+
+IV.- El proyecto de reformas y/o adiciones a la Ley de Ingresos del Estado y a las Leyes de Ingresos de los Municipios, según corresponda, así como la mención de entrada en vigor de dichas reformas y/o adiciones en la fecha en la que se perfeccione por cada entidad el acto de endeudamiento, que en su caso se celebre.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 107.
+
+El titular del Poder Ejecutivo del Estado podrá promover la iniciativa a que se refiere el artículo 106 de la presente Ley, cuando dos o más municipios del Estado se lo soliciten. Por su parte dos o más municipios también podrán promover de manera conjunta dicha iniciativa.
+
+Únicamente los municipios que promuevan la iniciativa de decreto, requerirán previamente la autorización de sus Ayuntamientos, sin embargo, en caso de que el Congreso apruebe el proyecto de iniciativa y emita el Decreto de Autorización Global, cada municipio que decida adherirse deberá obtener la autorización de su Ayuntamiento, previamente a la celebración de los actos jurídicos que impliquen el esquema global de financiamiento que se contenga en el Decreto. Cuando las operaciones que se pretendan realizar, comprometan al municipio por un plazo mayor al período para el que fue electo, el Ayuntamiento deberá contar con el acuerdo de las dos terceras partes de sus miembros.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 108.
+
+Los Municipios incluidos en el Decreto de Autorización Global que expida el Congreso podrán, si así lo consideran conveniente, adherirse al esquema global de financiamiento promovido por el Poder Ejecutivo del Estado con cuando menos dos municipios o conjuntamente promovido por dos o más municipios, con la afectación en garantía o fuente de pago de sus respectivos derechos e ingresos derivados de sus participaciones y/o aportaciones federales susceptibles de afectar en términos de la legislación aplicable, celebrando los actos jurídicos autorizados por el Congreso que deban formalizarse para garantizar o pagar las obligaciones derivadas de los financiamientos que decidan contratar, siempre que previamente a la formalización de los actos jurídicos que se requieran formalizar, cuenten con la aprobación de sus respectivos Ayuntamientos.
+
+En caso de que el Decreto de Autorización Global autorice que el Estado funja como aval de los municipios, éstos también deberán contar con la autorización de la Secretaría.
+
+Ante las solicitudes de autorización, la Secretaría o el Ayuntamiento respectivo, comunicarán oficialmente su resolución a los solicitantes, dentro de los veinte días hábiles siguientes a la fecha en que reciban la solicitud de que se trate, precisando, las características y condiciones bajo las cuales se podrá contratar el financiamiento o se otorgará el aval respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 109.
+
+La celebración de los mecanismos legales que bajo cualquier modalidad o forma, se propongan implementar las entidades a que se refiere este Capítulo, a efecto de garantizar o realizar el pago de sus respectivos financiamientos dentro de los esquemas globales de financiamiento, deberá ser previamente autorizada por el Congreso. En caso de que los mecanismos legales a que se refiere este artículo se perfeccionen a través de la constitución de un fideicomiso, éste podrá ser también utilizado como medio de captación de la totalidad de las participaciones o aportaciones federales que en términos de la legislación aplicable sean susceptibles de afectación, mismo que podrá constituir el Poder Ejecutivo al cual se puedan adherir los municipios que les resulte conveniente y cuenten con las respectivas autorizaciones.
+
 T R A N S I T O R I O S
 
 Artículo Primero.- La presente Ley entrará en vigor a los treinta días naturales siguientes al de su Publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
@@ -950,3 +1016,13 @@ Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para
 ###### ARTÍCULO TERCERO.
 
 Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial, "Tierra y Libertad" Órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto, entrará en vigor al día siguiente de su publicación.
