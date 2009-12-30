@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-coordinacion-fiscal-del-estado-de-yucatan-22766"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2005-12-29"
+last_updated: "2009-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2001.
 
@@ -69,21 +69,29 @@ En cumplimiento a lo dispuesto por los Artículos 2º., 2º.-A, 3º.-A y 6º. de
 
 ### CAPÍTULO III. DE LAS PARTICIPACIONES FEDERALES Y ESTATALES A LOS MUNICIPIOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 5.
 
-Los Municipios tendrán Participación en los ingresos estatales en la proporción y conceptos que a continuación se indica:
+Los Municipios participarán de los ingresos estatales en la proporción y conceptos que a continuación se indica:
 
-1.20% de los recursos que perciba el Estado procedentes del Fondo General de Participaciones, previsto en la Ley de Coordinación Fiscal Federal;
+1. 20% de los recursos que perciba el Estado procedentes del Fondo General de Participaciones, previsto en la Ley de Coordinación Fiscal Federal;
 
-2.20% de la Recaudación del Impuesto sobre Tenencia o Uso de Vehículos;
+2. 20% de la Recaudación del Impuesto sobre Tenencia o Uso de Vehículos;
 
-3.20% del Impuesto Especial sobre Producción y Servicios que recibe el Estado;
+3. 20% del Impuesto Especial sobre Producción y Servicios que recibe el Estado;
 
-4.20% de la recaudación del Impuesto sobre Automóviles Nuevos;
+4. 20% de la recaudación del Impuesto sobre Automóviles Nuevos;
 
-5.100% del Fondo de Fomento Municipal, en los términos de la Ley de Coordinación Fiscal Federal;
+5. 100% del Fondo de Fomento Municipal, en los términos de la Ley de Coordinación Fiscal Federal;
 
-6. 12% de los ingresos estatales derivados de los impuestos comprendidos en la Ley General de Hacienda del Estado de Yucatán, a excepción del Impuesto sobre Hospedaje.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
+
+6. 12% de los ingresos estatales derivados de los impuestos comprendidos en la Ley General de Hacienda del Estado de Yucatán, a excepción de los impuestos sobre Hospedaje, sobre Tenencia o Uso de Vehículos y de a (sic) aquellas contribuciones estatales recaudadas por los municipios en virtud de la celebración de convenios de colaboración administrativa con el Estado, homologados en igualdad de conceptos y porcentajes que deberá ser en todos los municipios.
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -318,3 +326,13 @@ D.O. 29 DE DICIEMBRE DE 2005.
 Artículo Primero.- Este Decreto entrará en vigor el día uno de enero del año dos mil seis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O. 30 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día uno de enero del año dos mil diez.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Diario Oficial del Gobierno del Estado de Yucatán.
