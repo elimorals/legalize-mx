@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-del-estado-de-oaxaca-19106"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2008-12-29"
+last_updated: "2009-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre del 2000.
 
@@ -495,7 +495,13 @@ IV.- Las aportaciones adicionales que el patrón otorgue a favor de sus trabajad
 
 V.- Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y las participaciones en las utilidades de las empresas;
 
-VI.- La alimentación y la habitación cuando no se proporcionen gratuitamente al trabajador, así como las despensas;
+VI.- La alimentación y la habitación cuando no se proporcionen gratuitamente al trabajador, así como las despensas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+La excepción establecida se limitará al 10% del salario del trabajador, para cada uno de los conceptos aludidos en el primer párrafo de esta fracción;
 
 VII.- Los premios por asistencia y puntualidad;
 
@@ -575,7 +581,11 @@ f) Sociedades cooperativas de consumo o de producción;
 
 g) Organismos que conforme a la Ley agrupen a las sociedades cooperativas ya sean de productores o de consumo;
 
-h) Sociedades o asociaciones civiles que se dediquen a la enseñanza sin fines de lucro con autorización o reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+h) Las Instituciones, Sociedades o Asociaciones Civiles, con reconocimiento de validez oficial que impartan educación en forma gratuita;
 
 i) Asociaciones o sociedades civiles organizadas con fines científicos políticos, religiosos y culturales o deportivos; y,
 
@@ -775,9 +785,11 @@ IV. Presentar declaraciones en los términos del presente Capítulo.
 
 Cuando los ingresos a que se refiere este Capítulo sean percibidos a través de operaciones de fideicomiso, será la Institución fiduciaria la que cumpla con las obligaciones previstas en este artículo.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
 ### CAPITULO I. DE LOS ACTOS DEL REGISTRO CIVIL
 
-## TITULO TERCERO. DE LOS DERECHOS
+## TITULO TERCERO. DERECHOS
 
 ### CAPITULO II. LEGALIZACION Y REGISTRO DE TITULOS
 
@@ -833,7 +845,7 @@ III.- En el caso de la constancia pericial para determinar las condiciones de se
 
 IV.- En los demás casos, en el momento que la persona solicite la prestación del servicio.
 
-### CAPITULO V. SERVICIOS CATASTRALES
+### CAPITULO IV BIS. DERECHOS POR AUTORIZACION DE PROTOCOLOS
 
 ###### ARTICULO 43.
 
@@ -871,13 +883,21 @@ No se aceptará inscripción alguna ni se expedirá certificado de constancias e
 
 Por la expedición de testimonios íntegros autorizados o copias también autorizadas de los actos, contratos o certificaciones existentes en los protocolos archivados, se pagarán los derechos que al efecto se establezcan en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
-DERECHOS POR AUTORIZACION DE PROTOCOLOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO VI. POR SERVICIOS QUE PRESTA EL INSTITUTO ESTATAL DE ECOLOGIA
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO V. SERVICIOS CATASTRALES
 
 ###### ARTICULO 50.
 
 Por la autorización de los libros destinados al servicio de las notarías del Estado y de los encargados del Registro Público se causarán los derechos que prevenga la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+### CAPITULO VI. POR SERVICIOS QUE PRESTA EL INSTITUTO ESTATAL DE ECOLOGIA
+
+###### ARTICULO 51.
+
+Los servicios que se presten por el Instituto Catastral del Estado de Oaxaca y demás autoridades catastrales causarán derechos conforme a la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
 ### CAPITULO VII. SERVICIOS EN MATERIA EDUCATIVA
 
@@ -891,9 +911,11 @@ ARTICULO 52 B.- Estos derechos deberán ser pagados en la Oficina Recaudadora de
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 51.
+###### ARTICULO 52.
 
-Los servicios que se presten por el Instituto Catastral del Estado de Oaxaca y demás autoridades catastrales causarán derechos conforme a la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+Por los servicios que presta el Instituto Estatal de Ecología, se cobrarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO VIII. SERVICIOS DE SEGURIDAD
 
@@ -918,12 +940,6 @@ ARTICULO 52 F.- La falta de pago oportuno, dará lugar a la actualización del c
 ARTICULO 52 G.- Por la autorización o revalidación que el Estado expida a los particulares para prestar servicios privados de seguridad en el territorio del Estado de Oaxaca, se pagarán los derechos que al efecto establezca la Ley de Ingresos del Estado de Oaxaca, para el ejercicio fiscal que corresponda.
 
 (REUBICADO [N. DE E. ANTES CAPITULO VII], P.O. 30 DE DICIEMBRE DE 2001)
-
-###### ARTICULO 52.
-
-Por los servicios que presta el Instituto Estatal de Ecología, se cobrarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO IX. DE LAS CERTIFICACIONES
 
@@ -951,6 +967,14 @@ ARTICULO 53 C.- La falta de pago oportuno, dará lugar a la actualización del c
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
+###### ARTICULO 53.
+
+Las certificaciones que realice cualquier autoridad en ejercicio de sus facultades, causarán por foja, los derechos que prevenga la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 ### CAPITULO XI. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE OBRAS PUBLICAS
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -964,14 +988,6 @@ ARTICULO 53 D.- Por los servicios que presta la Secretaría de Obras Públicas, 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 53 E.- Estos derechos deberán ser pagados en la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-###### ARTICULO 53.
-
-Las certificaciones que realice cualquier autoridad en ejercicio de sus facultades, causarán por foja, los derechos que prevenga la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1027,6 +1043,60 @@ ARTICULO 53 J.- Por los servicios que presta el Estado en materia de Acceso a la
 
 ARTICULO. 53 K.- Estos derechos deberán ser pagados en la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de. Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO XV. POR LOS SERVICIOS QUE PRESTA EL INSTITUTO ESTATAL DE PROTECCION CIVIL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 53 L.- Por los servicios que presta el Instituto Estatal de Protección Civil, se pagarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca, del ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 53 M.- Estos derechos deberán ser pagados en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO XVI. POR LOS SERVICIOS QUE PRESTAN INSTITUCIONES CULTURALES DEL ESTADO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 53 N.- Por los servicios que prestan Instituciones culturales se pagarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca, del ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 53 Ñ.- Los derechos que correspondan deberán ser pagados en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO XVII. POR LOS SERVICIOS QUE PRESTAN OTRAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA DEL ESTADO DE OAXACA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 53 O.- Por los servicios que presta el Estado a través de otras dependencias de la Administración Pública Centralizada y Entidades de la Administración Pública Paraestatal, se pagarán los derechos conforme a lo que establezca la Ley de Ingresos del Estado de Oaxaca, del ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 53 P.- Los derechos que correspondan deberán ser pagados en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
+
 DISPOSICION GENERAL
 
 ### CAPITULO UNICO. DEL SANEAMIENTO
@@ -1037,19 +1107,13 @@ DISPOSICION GENERAL
 
 ### CAPITULO UNICO
 
-### CAPITULO I. DE LOS FONDOS DE APORTACIONES FEDERALES
-
-### CAPITULO II. DE LOS SUBSIDIOS FEDERALES
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
-
-### CAPITULO UNICO
-
 ###### ARTICULO 54.
 
 Tratándose de los derechos a que se refiere el Título Tercero de esta Ley, que se causen con fines de asistencia o interés social, el Titular del Poder Ejecutivo, a través de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, tendrá la facultad de reducir y condonar los mismos. Para tal efecto los sujetos obligados deberán de solicitarlo previamente por escrito a la Secretaría de Finanzas.
 
 ## TITULO CUARTO. CONTRIBUCIONES DE MEJORAS
+
+### CAPITULO I. DE LOS FONDOS DE APORTACIONES FEDERALES
 
 ###### ARTICULO 55.
 
@@ -1064,6 +1128,10 @@ Las cuotas que por estos conceptos corresponda cubrir a los particulares benefic
 La recaudación de las cuotas o derechos por este concepto, corresponde a la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, la cual por los medios legales las hará efectivas y las aplicará a los fines específicos que les corresponda, debiendo de llevar en cada caso una cuenta especial.
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
+
+### CAPITULO II. DE LOS SUBSIDIOS FEDERALES
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 57.
 
@@ -1082,6 +1150,8 @@ IV.- Por publicaciones y venta del Periódico Oficial del Estado.
 Los productos por conceptos diversos de los señalados en el artículo que antecede se pagarán de acuerdo con los contratos celebrados al respecto o en los términos de las concesiones respectivas y de conformidad con la ley o disposiciones aplicables.
 
 ## TITULO SEXTO. DE LOS APROVECHAMIENTOS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 59.
 
@@ -1218,3 +1288,7 @@ P.O. 29 DE DICIEMBRE DE 2007.
 P.O. 29 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2009, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2010, previa publicación en el Periódico Oficial del Gobierno del Estado.
