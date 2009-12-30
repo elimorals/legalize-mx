@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2006-12-18"
+last_updated: "2009-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -667,13 +667,113 @@ I.- Una vez que la Secretaría de Finanzas y Administración recaude el Impuesto
 
 II.- El monto que resulte incrementará el Fondo de Desarrollo Municipal y se distribuirá de conformidad con lo previsto en la Ley para el Federalismo Hacendario del Estado de Puebla.
 
-### CAPITULO UNICO. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS DEPENDENCIAS Y ORGANISMOS AUXILIARES DE LA ADMINISTRACION PUBLICA DEL ESTADO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO VI. DEL IMPUESTO ESTATAL SOBRE LA REALIZACION DE JUEGOS CON APUESTAS Y SORTEOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 26 U.- Son sujetos de este impuesto las personas físicas o morales que en el territorio del Estado de Puebla realicen los juegos con apuestas, sorteos o concursos a que se refiere el artículo siguiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 26 U-I.- Es objeto del impuesto establecido en este Capítulo la realización en el territorio del Estado de Puebla de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento y, la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras y otras similares.
+
+Quedan comprendidos en los juegos con apuestas, aquéllos en los que se reciban, capten, crucen o exploten apuestas; y en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+Se considera que se realizan en el territorio del Estado, las apuestas, sorteos o concursos, cuando el billete, boleto, contraseña o cualquier otro comprobante que permita participar en los mismos, haya sido pagado, entregado, otorgado o distribuido en el territorio del Estado, independientemente del lugar en donde se realice el evento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 26 U-II.- Es base de este impuesto, el total de las cantidades efectivamente percibidas de los participantes por las actividades objeto de esta contribución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 26 U-III.- El impuesto estatal sobre la realización de juegos con apuestas y sorteos, se calculará aplicando a la base a que se refiere el artículo 26 U-II de esta Ley, la tasa que se establezca en la Ley de Ingresos del Estado de Puebla, vigente en el ejercicio fiscal que corresponda, se podrá disminuir el monto de los premios efectivamente pagados y/o entregados, así como las cantidades efectivamente devueltas a los participantes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 26 U-IV.- El impuesto estatal sobre la realización de Juegos con Apuestas y Sorteos, se causará en el momento en que se cobren efectivamente las contraprestaciones y sobre el monto de cada una de ellas.
+
+En caso de que las contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación efectivamente percibida, la tasa que establece la Ley de Ingresos del Estado, vigente en el ejercicio fiscal de que se trate.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 26 U-V.- Para el cálculo del impuesto a que se refiere este Capítulo, se considerará el total de las cantidades efectivamente percibidas de los participantes por dichas actividades. En los juegos o sorteos en los que se apueste, se considerará como valor el monto total de las apuestas. Tratándose de los juegos o sorteos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así como a través de bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o sorteo de que se trate, se considerará como valor el total de las cantidades equivalentes en moneda nacional que amparen dichos medios.
+
+En el supuesto de que en algún sorteo el premio ofrecido se encuentre contenido de manera referenciada y oculta en bienes cuya adquisición otorgue el derecho a participar en dicho sorteo, se considerará como valor el precio en el que la persona que lo realice haya enajenado todos los bienes que participen en ese sorteo.
+
+Tratándose de sorteos en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como valor el monto total nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones del sorteo establecidas en el permiso otorgado por la autoridad competente. Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en el sorteo de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad.
+
+Los valores a que se refiere este artículo se podrán disminuir con el monto de los siguientes conceptos:
+
+I. Los premios efectivamente pagados o entregados conforme a las disposiciones aplicables. Tratándose de premios diversos al efectivo, el monto que se podrá disminuir será el que corresponda al valor estipulado en el permiso otorgado por la autoridad competente o, en su defecto, el valor de mercado; y
+
+II. Las cantidades efectivamente devueltas a los participantes, siempre que las devoluciones se efectúen previo a la realización del evento y éstas se encuentren debidamente registradas en contabilidad y, tratándose de juegos o sorteos en los que se apueste, también se registren en el sistema central de apuestas. Cuando el premio incluya la devolución de la cantidad efectivamente percibida del participante, dicho concepto se disminuirá únicamente como premio.
+
+En caso de que el monto de los conceptos mencionados en las fracciones anteriores sea superior a los valores de las actividades a que se refiere el artículo 26 U-II de esta Ley, correspondiente al mes de que se trate, la diferencia se podrá disminuir en los meses siguientes hasta agotarse.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 26 U-VI.- El pago del impuesto se realizará a más tardar el día 17 del mes siguiente al de su causación, ante Instituciones Bancarias, establecimientos y, Oficinas Receptoras de Pago o a través de los medios electrónicos que autorice y dé a conocer la Secretaría de Finanzas y Administración mediante Reglas de Carácter General, que deberán publicarse en el Periódico Oficial del Estado.
+
+En la hipótesis de que ocasionalmente se realicen las actividades que den lugar al pago de este impuesto, el contribuyente estará obligado a presentar declaraciones dentro de los cinco días hábiles siguientes a aquél en que se cause dicho impuesto. En este caso, los contribuyentes quedan relevados de cumplir con la obligación de presentar el aviso de inscripción al Registro Estatal de Contribuyentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 26 U-VII.- El pago a que se refiere el artículo anterior, deberá hacerse mediante declaración, utilizando los formatos que para estos efectos la Dependencia citada autorice y publique en el Periódico Oficial del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 26 U-VIII.- Los sujetos de este impuesto, además de cumplir con las obligaciones establecidas en el Código Fiscal del Estado, estarán obligados a:
+
+I.- Llevar un registro de los juegos con apuestas, sorteos o concursos a que se refiere este Capítulo y de las cantidades que perciban por la realización de estos eventos, así como de los premios entregados, el número de participantes en cada evento y del pago que hayan efectuado cada uno de ellos para tener derecho a participar en los mismos;
+
+II.- Conservar a disposición de las autoridades fiscales del Estado y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados, del pago del impuesto correspondiente, así como de las cantidades efectivamente percibidas de los participantes por las actividades objeto de esta contribución;
+
+III.- Presentar semestralmente ante las Oficinas Recaudadoras y de Asistencia al Contribuyente, la información relativa a sus proveedores y prestadores de servicios, en la que se deberá señalar el nombre o razón social, el Registro Federal de Contribuyentes y el domicilio fiscal, mediante los formatos autorizados o medios electrónicos que apruebe la Secretaría de Finanzas y Administración.
+
+Dicha información deberá presentarse a más tardar los días 30 de los meses de enero y julio, con los datos relativos al semestre inmediato anterior; y
+
+IV.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 26 U-IX.- No se pagará el impuesto establecido en este Capítulo:
+
+I.- En caso de que los juegos con apuestas, sorteos o concursos a que se refiere este Capítulo sean organizados por Organismos Públicos Descentralizados de la Administración Pública Federal, Estatal o Municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública; y
+
+II.- Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir un bien o contratar un servicio, siempre que el sujeto obligado cumpla los requisitos siguientes:
+
+a) No obtenga más de diez permisos para celebrar sorteos en un año calendario; y
+
+b) El monto total de los premios ofrecidos en un año de calendario no exceda el 3% de los ingresos obtenidos en el año inmediato anterior.
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
+### CAPITULO UNICO. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS DEPENDENCIAS Y ORGANISMOS AUXILIARES DE LA ADMINISTRACION PUBLICA DEL ESTADO
 
 ###### ARTICULO 27.
 
@@ -723,7 +823,7 @@ ARTICULO 28 D.- Corresponde a las Autoridades Fiscales del Estado, establecer el
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 29.
 
@@ -749,7 +849,7 @@ Los contratos de arrendamiento de bienes muebles e inmuebles propiedad del Gobie
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 31.
 
@@ -759,7 +859,7 @@ Son aprovechamientos, los ingresos ordinarios del Estado, no clasificables como 
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 32.
 
@@ -801,7 +901,7 @@ VI.- Los aprovechamientos extraordinarios.
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 35.
 
@@ -812,6 +912,10 @@ Los contribuyentes realizarán el pago de las contribuciones en los plazos que s
 ## TITULO OCTAVO. DE LA COORDINACION HACENDARIA
 
 (ADICIONADO, CON LOS ARTICULOS QUE LO INTEGRAN P.O. DE 17 DE DICIEMBRE DE 2001).
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 36.
 
@@ -1002,3 +1106,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día primero de enero de dos mil diez.
