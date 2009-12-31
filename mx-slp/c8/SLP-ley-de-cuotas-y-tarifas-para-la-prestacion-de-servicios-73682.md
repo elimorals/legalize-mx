@@ -1,0 +1,398 @@
+---
+title: "LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS, DEL ORGANISMO OPERADOR PARAMUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO, DESCENTRALIZADO DE RIOVERDE, SAN LUIS POTOSI"
+identifier: "SLP-ley-de-cuotas-y-tarifas-para-la-prestacion-de-servicios-73682"
+country: "mx"
+rank: "ley"
+publication_date: "2009-12-31"
+last_updated: "2009-12-31"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73682&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-slp"
+scjn_id: "73682"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "EDICION EXTRAORDINARIA"
+reform_count: "0"
+scjn_last_update: "2009-12-31"
+issue_date: "2009-12-28"
+state: "SLP"
+---
+# LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS, DEL ORGANISMO OPERADOR PARAMUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO, DESCENTRALIZADO DE RIOVERDE, SAN LUIS POTOSI
+
+LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DEL ORGANISMO OPERADOR PARAMUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO, DESCENTRALIZADO DE RIOVERDE, S.L.P.
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 2009.
+
+Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
+
+DECRETO 143
+
+LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
+
+EXPOSICION DE MOTIVOS.
+
+Por lo anteriormente expuesto y con fundamento en lo que establece el Capítulo IV artículos 164 al 181 de la Ley de Aguas para el Estado de San Luis Potosí relativo al procedimiento de Cuotas y Tarifas para organismos operadores descentralizados de la administración municipal y de acuerdo a la metodología de cálculo para la determinación de cuotas y tarifas que establece el Decreto 594, publicado en la edición extraordinaria del Periódico Oficial del Estado de fecha 14 de septiembre del 2006, se establecen las Cuotas y Tarifas para prestación de servicios públicos, del Organismo Operador Paramunicipal de Agua Potable y Alcantarillado y Saneamiento, Descentralizado de Rioverde, S.L.P., para quedar como sigue:
+
+LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DEL ORGANISMO OPERADOR PARAMUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO, DESCENTRALIZADO DE RIOVERDE, S.L.P.
+
+## TITULO PRIMERO. DE LA CONTRATACION DEL SERVICIO PARA EFECTUAR CONEXIONES A LAS REDES PUBLICAS DE AGUA Y ALCANTARILLADO
+
+### Capítulo I. De la Contratación de los Servicios
+
+###### ARTICULO 1°.
+
+Los derechos por conexión a las líneas de agua potable y alcantarillado en áreas que ya cuentan con el servicio será de:
+
+Clasificación del Servicio Agua Potable Alcantarillado
+
+($) ($)
+
+Servicio Doméstico 93.57 93.57
+
+Servicios Públicos 93.57 93.57
+
+Servicio Comercial (chico) 140.36 140.36
+
+Servicio Industrial (chico) 187.15 187.15
+
+###### ARTICULO 2°.
+
+La contratación de la instalación del servicio de agua potable y alcantarillado entre el Organismo Operador y los usuarios, será de acuerdo a las siguientes cuotas y clasificación:
+
+Clasificación del Servicio Agua Potable Alcantarillado
+
+($) ($)
+
+Servicio Doméstico 93.57 93.57
+
+Usos Públicos 93.57 93.57
+
+Servicio Comercial (chico) 140.36 140.36
+
+Servicio Industrial (chico) 187.15 187.15
+
+###### ARTICULO 3°.
+
+Las cuotas de conexión del servicio de agua potable y alcantarillado entre el Organismo Operador Paramunicipal y los usuarios del servicio tipo comercial e industrial (medianos y grandes) tendrán un costo de acuerdo a las siguientes cuotas:
+
+Diámetro del Servicio Agua Potable Alcantarillado
+
+en pulgadas ($) ($)
+
+½ 11,100.00 11,100.00
+
+¾ 16,650.00 16,650.00
+
+1 27,750.00 27,750.00
+
+1 ½ 61,050.00 61,050.00
+
+###### ARTICULO 4°.
+
+Para tomas de mayor diámetro, el Organismo calculará la demanda y fijará la cuota correspondiente.
+
+Las cuotas anteriores son independientes de los costos por los trabajos necesarios para realizar la conexión a la red del Organismo Paramunicipal.
+
+###### ARTICULO 5°.
+
+Los trabajos de instalación, conexión, reconexión, supervisión y similares, los efectuará el Organismo Operador, previo el pago del presupuesto respectivo, incluyendo materiales, mano de obra y repavimentación en su caso; de hacerlo por su cuenta el usuario, deberá ser autorizado previamente y supervisado por el Organismo Operador, hasta su terminación.
+
+###### ARTICULO 6°.
+
+Firmando el contrato correspondiente y pagado el importe del costo de la instalación, conexión y de las cuotas que corre spondan (sic); el Organismo Operador ordenará la instalación de la toma y la conexión de las descargas de aguas residuales, la cual deberá de llevarse a cabo dentro de los 30 días hábiles siguientes a la fecha de pago en la oficina recaudadora del Organismo Operador.
+
+### Capítulo II. De la Modificación de las Condiciones de Instalación y de la Medición del Servicio
+
+###### ARTICULO 7°.
+
+El volumen del agua potable que consumen los usuarios, será medido mediante la instalación de aparatos micro medidores en el predio; la apor tación (sic) por la instalación del medidor correspondiente estará sujeta a la cotización del Organismo Operador, dependiendo del diámetro de la toma.
+
+###### ARTICULO 8°.
+
+E s obligatoria la medición para verificar el consumo de agua potable en los predios, giros o esta blecimientos (sic). El Organismo Operador instalará las tomas y aparatos medidores de agua potable en la entrada del predio, en forma tal que sin dificultad se pueda llevar a cabo las lecturas de consumo, las pruebas de funcionamiento de los aparatos y, cuando sea necesario, el cambio de los mismos.
+
+###### ARTICULO 9°.
+
+Cuando no se pueda determinar el volumen de agua potable consumida, como consecuencia de la descompostura del medidor por causas no imputables al usuario, la cuota de agua potable se pagará conforme a la cantidad de metros cúbicos consumidos en promedio de los tres últimos periodos de pago, teniendo el organismo la posibilidad de determinar la cantidad de metros considerando la situación actual de la cuenta o en su caso del último pago.
+
+###### ARTICULO 10.
+
+Para cualquier modificación que el usuario pretenda hacer al predio, que afecte las instalaciones de los servicios de agua potable y alcantarillado, deberá formular una solicitud al Organismo Operador y sujetarse a las indicaciones y plazos que se le autoricen.
+
+###### ARTICULO 11.
+
+Corresponde en forma exclusiva al prestador de los servicios, instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando haya sufrido daño o acumule 6 meses sin el pago correspondiente al servicio prestado. Cuando reúna 12 meses sin pago, el organismo dará de baja el contrato del padrón de usuario.
+
+###### ARTICULO 12.
+
+Los usuarios tienen la responsabilidad de cuidar que no se destruyan los aparatos medidores, por lo que deberán estar protegidos contra robo, manipulaciones indebidas y toda posible causa de deterioro, estando obligados a informar al organismo en un plazo máximo de 3 días hábiles, todo daño causado a los medidores, debiendo pagar el usuario los gastos que origine la reparación o sustitución.
+
+## TITULO SEGUNDO. DEL PAGO DE LOS SERVICIOS
+
+### Capítulo I. Del Agua Potable, Alcantarillado y Saneamiento
+
+###### ARTICULO 13.
+
+Los derechos derivados del servicio del agua potable y alcantarillado se causarán en forma mensual, conforme a las siguientes normas y cuotas.
+
+I. El suministro de agua potable se cobrará en base a una cuota fija por el consumo básico de hasta 10 metros cúbicos mensuales de acuerdo a las siguientes cuotas:
+
+CUOTA FIJA PARA EL SERVICIO DE AGUA POTABLE
+
+DOMESTICO PUBLICO COMERCIAL INDUSTRIAL
+
+($) ($) ($) ($)
+
+52.07 52.07 61.49 107.03
+
+II. Quienes excedan del consumo de los diez metros cúbicos pagarán además de la cuota fija, por cada metro cúbico adicional, la cuota que se presenta en la siguiente tabla:
+
+RANGO DOMESTICO PUBLICO COMERCIAL INDUSTRIAL
+
+(metros ($) ($) ($) ($)
+
+cúbicos)
+
+10.01-20.00 5.23 5.23 6.18 10.84
+
+20.01-30.00 5.26 5.26 6.44 10.90
+
+30.01-40.00 5.30 5.30 6.62 11.00
+
+40.01-50.00 5.34 5.34 6.85 11.06
+
+50.01-60.00 5.67 5.67 7.48 11.76
+
+60.01-80.00 5.87 5.87 8.00 12.17
+
+80.01-100.00 5.95 5.95 9.50 12.33
+
+100.01
+
+en adelante 7.91 7.91 15.86 16.40
+
+III. La toma de agua potable para uso comercial, que consuma más de 100 metros cúbicos mensuales, se pagará siempre conforme a la cuota industrial independientemente del giro de que se trate, y
+
+IV. En lo referente a permisos y trabajos que involucren al Organismo Operador, se realizarán de acuerdo con la siguiente relación:
+
+a) Desazolve de fosa séptica: $681.97 (seiscientos ochenta y un pesos 97/100 M.N.), costo por hora utilizada por el camión, contando el tiempo desde la salida de almacén del camión y hasta la llegada del vehículo al almacén nuevamente.
+
+b) Desazolve de línea de drenaje en domicilio particular: $329.45 (trescientos veintinueve pesos 45/100 M.N.), limpieza de drenaje dentro de vivienda cuando no circulen las aguas residuales hacia la línea principal.
+
+c) Infraestructura: $3,376.04 (tres mil trescientos setenta y seis pesos 04/100 M.N.), para interés social, $4,152.53 (cuatro mil ciento cincuenta y dos pesos 53/100 m. n.), para tipo popular y $5,107.61 (cinco mil ciento siete pesos 61/100 M.N.), para tipo residencial, cuota por reforzamiento de la infraestructura existente para fraccionamientos de nueva creación.
+
+d) Factibilidades: $303.10 (trescientos tres pesos 10/100 M.N.), al realizar análisis de condiciones de infraestructura existentes para nuevas conexiones.
+
+e) Llave cerrada a petición en centro de la ciudad: $20.58 (veinte pesos 58/100 M.N.), pago realizado cuando el usuario solicita cierre, con el propósito de que no se incrementen los cobros; debido a que no usan agua por estar provisionalmente deshabitada.
+
+f) Llave cerrada a petición en comunidades y zona conurbada: $41.17 (cuarenta y un pesos 17/100 M.N.), pago realizado cuando el usuario solicita cierre en comunidades y zona conurbada; debido a que no usan agua por estar provisionalmente deshabitada.
+
+g) Medidor: de acuerdo a cotización: pago realizado por el usuario por suministro y colocación de aparato de micro medición en tomas.
+
+h) Reconexión en centro de la ciudad: $20.58 (veinte pesos 58/100 M.N.), reconexión de tomas que han sido cerradas en el centro de la dudad.
+
+i) Reconexión en área conurbada: $41.17 (cuarenta y un pesos 17/100 M.N.), reconexión de tomas que han sido cerradas en la zona conurbada y comunidades.
+
+j) Supervisión de trabajos: $93.63 (noventa y tres pesos 63/100 M.N.), pago por revisión de trabajos realizados por personal externo al Organismo en tomas de agua potable.
+
+k) Constancia de no adeudo: $25.40 (veinticinco pesos 40/100 M.N.), pago por elaboración de oficios en el cual se haga constar la fecha de contratación de toma y que no cuenta con adeudos.
+
+l) Verificación: $45.47 (cuarenta y cinco pesos 47/100 M.N.), pago por verificación de línea y medidor.
+
+m) Subdivisiones: $1,515.48 (mil quinientos quince pesos 48/100 M.N.), pago realizado por cada nuevo servicio de agua potable y alcantarillado al subdividir un predio.
+
+###### ARTICULO 14.
+
+La dotación de agua en pipas tendrá un costo de $13.10 (trece pesos 10/100 M.N.) el metro cúbico por el agua potable y de $9.35 (nueve pesos 35/100 m.n.) el agua cruda.
+
+###### ARTICULO 15.
+
+Se aplicará un cobro de recargos cuando el usuario pague su recibo en forma extemporánea, esto es, después del día 14 de cada mes posterior al facturado aplicando un 4% mensual sobre el volumen facturado.
+
+###### ARTICULO 16.
+
+La falta de pago de 2 meses consecutivos del servicio, faculta al Organismo Operador, previo apercibimiento por escrito al usuario, suspender el servicio hasta que regularice su pago, previo pago de $38.51 (treinta y ocho pesos 51/100 M.N.) por cuota de reconexión.
+
+###### ARTICULO 17.
+
+Igualmente queda facultado el Organismo Operador a suspender el suministro, cuando se compruebe que existe en las tomas, derivaciones no autorizadas.
+
+###### ARTICULO 18.
+
+En época de escasez de agua, comprobada o previsible, por caso fortuito o de fuerza mayor el Organismo Operador podrá acordar medidas de restricción en las zonas que juzgue pertinentes y durante el lapso que estime necesario, previo aviso a los usuarios a través de los medios de comunicación.
+
+###### ARTICULO 19.
+
+Para cubrir el servicio de mantenimiento y conservación de la red de drenaje y alcantarillado, el usuario deberá pagar una cuota mensual equivalente al 15%, del importe del volumen de agua facturada cantidad que se incluirá en su recibo de pago.
+
+Por concepto de saneamiento se cobrará el 10% sobre el valor del monto facturado por consumo mensual de agua potable. Esto aplica para el usuario que descargue exclusivamente la calidad de agua residual contratada.
+
+###### ARTICULO 20.
+
+A los montos facturados por los servicios de agua potable y alcantarillado y demás que presta el Organismo Operador, causarán el Impuesto al Valor Agregado, a la cuota o tarifa del 16%, con excepción del volumen de agua potable para uso doméstico; dicho importe se incluirá desglosado en el recibo correspondiente.
+
+###### ARTICULO 21.
+
+Cuando el usuario solicite al organismo la ejecución de trabajos relacionados a la prestación de los servicios, se elaborará el presupuesto correspondiente para su aceptación.
+
+### Capítulo II. Del Ajuste de las Cuotas y Tarifas
+
+###### ARTICULO 22.
+
+Las cuotas y tarifas se actualizarán de manera automática cada que el índice nacional de precios al productor crezca en, al menos, cinco por ciento anual, de acuerdo a la fórmula de actualización que establece el Decreto 594 relativo a la metodología para el cálculo de cuotas y tarifas para los servicios públicos de agua potable, alcantarillado, tratamiento y disposiciones de sus aguas residuales en el Estado de San Luis Potosí, publicado en la edición extraordinaria del Periódico Oficial del Estado de fecha 14 de septiembre del 2006.
+
+## TITULO TERCERO. DE LOS SUBSIDIOS
+
+### Capítulo Unico. De las Personas Jubiladas y Pensionadas Afiliadas al Inapam
+
+###### ARTICULO 23.
+
+Las personas jubiladas, pensionadas y afiliadas al INAPAM, recibirán un descuento del 50% sobre el valor de cuota de uso doméstico de agua potable y alcantarillado, hasta por un consumo básico de 10 metros cúbicos, y para una sola toma por usuario.
+
+###### ARTICULO 24.
+
+Este subsidio deberá ser solicitado por escrito debidamente firmado por el usuario al Organismo Operador, anexando original y copia de la siguiente documentación: credencial vigente que compruebe su carácter de persona jubilada, pensionada o afiliada al lNAPAM (antes INSEN), comprobante de pago de la última pensión o cuota de jubilado en su caso, comprobante de domicilio donde habita el solicitante y último recibo de pago de servicios de agua potable y alcantarillado al corriente, una vez validada la documentación se devolverán inmediatamente los originales.
+
+###### ARTICULO 25.
+
+La documentación solicitada deberá ser presentada de manera anual por el usuario con el objeto de renovar su reducción, el cual tendrá una vigencia de un año a partir de su autorización y sólo procederá a una vivienda donde habite la persona.
+
+## TITULO CUARTO. DE LOS FRACCIONADORES Y URBANIZADORES
+
+### Capítulo Unico. Disposiciones Generales
+
+###### ARTICULO 26.
+
+En el caso de fraccionamientos nuevos, cuando se autoricen a los fraccionad ores (sic) a conectarse a la red de agua potable y alcantarillado estos deberán cubrir una cuota por cada lote por conexión que será de acuerdo a la siguiente clasificación:
+
+Tipo de Agua Potable Tamaño de
+
+Fraccionamiento ($) predio en m2
+
+Interés social 3,376.04 Hasta 90.00
+
+Popular 4,152.53 Entre 90.01 a
+
+300.00
+
+Residencia y otros 5,107.61 Más de 300.00
+
+Este importe cubre solo los derechos de conexión y es independiente de los costos de líneas, tomas y demás gastos que originan para la prestación del servicio. Asimismo, el cobro se efectúa, en razón de que el organismo no cuenta con capacidad suficiente para abastecerse de agua a nuevos fraccionadores.
+
+###### ARTICULO 27.
+
+Los fraccionadores o urbanizadores de conjuntos habitacionales, deberán construir por su cuenta, las instalaciones o infraestructura necesaria, de acuerdo con el proyecto autorizado por el Organ ismo (sic) Operador, contemplando las disposiciones del uso eficiente del servicio, así como instalar las tomas domiciliarias a cada predio incluyendo el medidor correspondiente.
+
+###### ARTICULO 28.
+
+Los fraccionadores o urbanizadores estarán obligados a realizar obras de cabecera necesarias para proporcionar los servicios, así como la instalación de un macro medidor o medidor general en el sitio de acometida del fraccionamiento independiente del que se instale en cada una de las viviendas.
+
+En el caso de fraccionadores, éstos se sujetarán para la conexión del servicio de alcantarillado, a lo establecido en la legislación aplicable, presentando previamente los planos autorizados y el permiso de fraccionar que les haya extendido la Presidencia Municipal.
+
+Las obras de inf raestructura (sic) hidráulica y sanitaria que se construyan por los fraccionadores y particulares que queden colocadas en la vía pública, pasarán a ser patrimonio del Organismo Operador una vez que entre en operación.
+
+###### ARTICULO 29.
+
+Para los efectos del cobro de la cuota para fraccionadores o urbanizadores, relativa a la factibilidad de suministro de agua potable, éste se determina correlacionando el costo del litro por segundo que corresponda a la demanda requerida para satisfacer el servicio de agua potable, considerando el tipo de urbanización y/o el uso a que sean destinados los servicios. Cuando se autorice a los fraccionadores a conectarse a la red de agua, éstos deberán cubrir una cuota por cada lote, cuyo importe se aplicará a reforzar el abastecimiento y c onducción (sic) que garantice la atención de la demanda; siempre y cuando el organismo cuente con la capacidad de suministrar a dichos fraccionamientos. En caso contrario los fraccionadores o urbanizadores cederán los derechos de extracción de agua al Organismo Operador, equivalente a la demanda anual que se haya determinado en los estudios realizados al fraccionamiento.
+
+###### ARTICULO 30.
+
+Para los fraccionamientos y urbanizaciones nuevas, se realizará un convenio entre los interesados y el Organismo Operador, requiriéndose para ello realizar un estudio de demanda de agua potable y alcantarillado para determinar la infraestructura requerida para la prestación de servicios, evaluando la disponibilidad y existencia de agua potable, dicho estudio se realizará por el Organismo Operador.
+
+El convenio que para este efecto se expida deberá establecer las obras de infraestructura necesarias y los derechos relativos a las cuotas que el fraccionador o urbanizador, deberá cubrir al Organismo Operador.
+
+## TITULO QUINTO. DEL MANTENIMIENTO DE TOMAS Y DESCARGAS
+
+### Capítulo Unico. De la Responsabilidad
+
+###### ARTICULO 31.
+
+Las fugas que existan en la red de distribución hasta antes del medidor, siempre y cuando se encuentre en el límite exterior del predio, deberán ser corregidos por el Organismo Operador, incluyendo mano de obra y materiales así como también la reposición de pavimentos y banquetas.
+
+###### ARTICULO 32.
+
+En el caso de requerirse la reposición de la toma o descarga, el usuario se hará acreedor a los cargos que correspondan a esta nueva instalación.
+
+###### ARTICULO 33.
+
+Los daños ocasionados por las fugas de agua en el interior de los domicilios serán responsabilidad del propietario o poseedor del predio, siendo obligación de todo ciudadano la reparación inmediata de las mismas.
+
+###### ARTICULO 34.
+
+El Organismo Operador, no se hará responsable de fugas intradomiciliarias no detectadas por el usuario, que le ocasionen daños en las construcciones o edificaciones de los predios aun cuando el medidor se localice dentro del límite interior del predio.
+
+###### ARTICULO 35.
+
+Cuando sean detectadas fugas intradomiciliarias por parte del Organismo Operador, el usuario contará con un plazo de 10 días hábiles para su reparación, de lo contrario se procederá a lo dispuesto en la legislación respectiva.
+
+## TITULO SEXTO. DE LAS OBLIGACIONES DE LAS PERSONAS USUARIAS DEL SERVICIO DE AGUA POTABLE
+
+### Capítulo I. Del Uso Racional de Agua y Descargas
+
+###### ARTICULO 36.
+
+Queda prohibido el uso de prácticas y acciones que tiendan a su desperdicio, tales como el riego de las calles, banquetas y el lavado de vehículos con mangueras o cualquier otro tipo de usos que ostensiblemente desperdicien agua potable.
+
+###### ARTICULO 37.
+
+Los usuarios del servicio de alcantarillado, se sujetan a lo establecido en la Ley de Aguas para el Estado de San Luis Potosí, relativas a descargas de agua residuales, además de cumplir con los límites máximos permisibles de contaminantes que establece la Norma Oficial Mexicana NOM-002-ECOL-1996.
+
+###### ARTICULO 38.
+
+Por la violación a las disposiciones anteriores, el usuario se hará acreedor a las sanciones administrativas que se señalen en la Ley de Aguas para el Estado de San Luis Potosí.
+
+###### ARTICULO 39.
+
+Es obligatoria la conexión a los servicios de agua potable y alcantarillado en los predios factibles que cuenten con tuberías de distribución y/o drenaje frente a los mismos, para lo cual los propietarios o poseedores de los predios deberán de realizar la solicitud respectiva.
+
+###### ARTICULO 40.
+
+Las personas que utilicen los servicios de agua potable, alcantarillado y saneamiento de manera clandestina, deberán pagar las cuotas y tarifas que correspondan a dichos servicios al Organismo Operador y además, se harán acreedores a las sanciones administrativas que se señalen en la Ley de Aguas para el Estado de San Luis Potosí o en su caso a las sanciones penales correspondientes.
+
+###### ARTICULO 41.
+
+Es obligatoria la instalación de medidores, dando prioridad, según la capacidad del Organismo Operador, para los usos industriales, baños públicos, autobaños, hoteles, moteles, fábricas de hielo, fraccionamientos residenciales y giros comerciales.
+
+### Capítulo II. De las Sanciones
+
+###### ARTICULO 42.
+
+El Organismo Operador sancionará a los usuarios que utilicen los servicios de agua potable y alcantarillado, de manera clandestina, o que cometan alguna de las infracciones que se establecen en los artículos 231 y 237 de la Ley de Aguas para el Estado de San Luis Potosí, haciéndose acreedores a las sanciones administrativas que se señalan en los artículos 232, 233, 234, 235, 236, 238, 239 y 240 de la misma ley o en su caso a las sanciones penales que procedan.
+
+###### ARTICULO 43.
+
+Para los casos no previstos en el presente Decreto, se aplicará de manera supletoria lo dispuesto por el Código Fiscal del Estado de San Luis Potosí, la Ley de Hacienda para el Estado de San Luis Potosí, la normatividad fiscal de la Federación y la Ley de Aguas para el Estado de San Luis Potosí con su reglamento.
+
+## TRANSITORIOS
+
+PRIMERO. Este Decreto entrará en vigor el día uno de enero del año 2010, previa publicación en el Periódico Oficial del Estado, quedando sin efecto las disposiciones que se opongan al mismo a partir de su inicio de vigencia.
+
+SEGUNDO. Las cuotas y tarifas que se establecen en este Decreto, deberán ser publicadas en los medios locales de información del Municipio de Rioverde, S.L.P., y a la vista de los usuarios en las oficinas del Organismo Operador.
+
+TERCERO. Las cuotas y tarifas por concepto de saneamiento contempladas en el artículo 19 del presente Decreto, entrarán en vigor una vez que entre en funciones óptimas la planta de tratamiento de aguas residuales.
+
+Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
+
+D A D O en el Salón de Sesiones del Honorable Congreso del Estado, el catorce de diciembre de dos mil nueve.
+
+Diputado Presidente: Manuel Lozano Nieto; Diputado Primer Secretario: Juan Daniel Morales Juárez; Diputado Segundo Secretario: Arnulfo Hernández Rodríguez. (Rúbricas).
+
+Por tanto mando se cumpla y ejecute el presente Decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
+
+D A D O en el Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los veintiocho días del mes de diciembre de dos mil nueve.
+
+El Gobernador Constitucional del Estado
+
+Dr. Fernando Toranzo Fernández
+
+(Rúbrica)
+
+El Secretario General de Gobierno
+
+Lic. José Guadalupe Durón Santillán
+
+(Rúbrica)
