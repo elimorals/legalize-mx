@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2009-12-29"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -311,7 +311,7 @@ Previo a la aprobación de la agenda legislativa, el Comité de Planeación del 
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
-Artículo 19 J.
+Artículo 19 J
 
 El proceso de planeación en el Poder Legislativo será organizado y conducido por la Comisión de Planeación para el Desarrollo con el auxilio del Secretario General del Congreso.
 
@@ -381,9 +381,9 @@ XI. Presentar al menos una iniciativa de ley dentro del tiempo que dure su encar
 
 XII. Presentar su declaración de situación patrimonial conforme a las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-XIII. Percibir exclusivamente la dieta o remuneración establecida en el Presupuesto de Egresos del Poder Legislativo y de conformidad con la ley, sin que bajo ninguna circunstancia puedan recibir bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y
+XIII. Percibir exclusivamente la remuneración establecida en el Presupuesto de Egresos del Poder Legislativo y de conformidad con la ley, sin que bajo ninguna circunstancia puedan recibir ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración; y
 
 > <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2004)</small>
 
@@ -1731,11 +1731,11 @@ IV. La calificación de las causales para la procedencia del trámite de desinte
 
 V. Las facultades del Ejecutivo para que por sí o por apoderado especial represente al Estado en aquellos casos en que la ley lo requiera, así como para celebrar convenios con las demás entidades federativas vecinas respecto de las cuestiones de límites y sobre la ratificación de estos convenios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 VI. La denominación de los municipios y de sus delegaciones, agencias y localidades, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 VII. La creación de municipios, así como erigir delegaciones y agencias municipales.
 
@@ -1767,17 +1767,15 @@ X. La supervisión y coordinación del órgano técnico de Hacienda Pública;
 
 XI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del Órgano Técnico de Hacienda Pública;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-XII. La vigilancia de que en el Presupuesto de Egresos del Estado de Jalisco no se realice la incorporación, bajo ninguna circunstancia, de bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración que legalmente deben recibir los servidores públicos, cualquiera que sea su denominación, de conformidad con la normatividad aplicable;
+XII. La vigilancia de que en el Presupuesto de Egresos del Estado de Jalisco no se realice la incorporación, bajo ninguna circunstancia, de ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración que legalmente deben recibir los servidores públicos, y
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA REFORMA DE LA PRESENTE FRACCIÓN, VÉASE PÁGINAS 20 Y 21 DEL DECRETO 23079/LVIII/09, P.O. 31 DE DICIEMBRE DE 2009.</small>
 
-XIII. La presentación, dentro del proceso de análisis de los presupuestos de egresos respectivos, a la Asamblea de los acuerdos legislativos que contengan las recomendaciones sobre percepciones salariales de los servidores públicos de todas las autoridades del Estado de Jalisco y sus Municipios, a que se refiere la ley estatal en materia de servidores públicos; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2004)</small>
-
-XIV. Las políticas, planes y programas en materia fiscal y hacendaria.
+XIII. Las políticas, planes y programas en materia fiscal y hacendaria.
 
 ###### Artículo 90.
 
@@ -3053,7 +3051,7 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 
 1. Si la resolución adoptada por el Congreso del Estado se refiere a la suspensión o revocación del mandato de alguno de los miembros del Ayuntamiento, se notifica a éste para que llame al suplente y desempeñe el cargo durante el término de la suspensión, el cual no puede exceder de un año, o para que concluya el periodo en caso de revocación del mandato.
 
-(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2009) (F. DE E., P.O. 12 DE JUNIO DE 2010)
+(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2009) (F. D E., P.O. 12 DE JUNIO DE 2010)
 
 ###### Artículo 233.
 
@@ -3088,12 +3086,6 @@ VI. Participación Ciudadana: Como garantía de intervención de la sociedad en 
 ###### Artículo 236.
 
 1. Conforme al decreto correspondiente, el Poder Ejecutivo, a través de la Secretaría General de Gobierno, informará a las dependencias federales de la creación municipal, particularmente a aquellas que tengan relación con los procesos electorales, medios de comunicación y el envío de participaciones federales a municipios.
-
-> <small>N. DE E. POR FE DE ERRATAS PUBLICADA EN EL P.O. DE 12 DE JUNIO DE 2010, SE SUPRIME LA SECCIÓN II DENOMINADA "DE LA CREACIÓN DE LOS MUNICIPIOS", A PARTIR DE ESTA FECHA.</small>
-
-(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2009) (F. DE E., 12 DE JUNIO DE 2010)
-
-#### Sección II. De la creación de los municipios
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -3849,4 +3841,8 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 > <small>(F. DE E., P.O. 12 DE JUNIO DE 2010)</small>
 
-SEGUNDO. El artículo segundo del presente decreto entrará en vigor al día siguiente de la entrada en vigor del Artículo Primero referido en la disposición transitoria anterior, previa su publicación en el periódico oficial El Estado de Jalisco.
+SEGUNDO. El artículo Segundo del presente decreto entrará en vigor al día siguiente de la entrada en vigor del Artículo Primero referido en la disposición transitoria anterior, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
