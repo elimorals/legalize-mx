@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2009-02-02"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -499,31 +499,31 @@ Este impuesto se causará y pagará de acuerdo a la siguiente:
 
 CUOTA
 
-A. Motocicletas de cualquier modelo $85.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+A. Motocicletas de cualquier modelo $90.00
 
 B. Demás Vehículos:
 
-Determinarán el Impuesto a pagar aplicando el porcentaje de reducción establecido en la siguiente tarifa, dependiendo de los años de antigüedad que tenga el vehículo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Se determinará el Impuesto a pagar aplicando el factor de reducción establecido en la siguiente tarifa, dependiendo de los años de antigüedad que tenga el vehículo.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 Años de antigüedad Impuesto Factor de
 
-Reducción de
+reducción
 
-Impuesto por
+Límite Límite de impuesto por
 
-Antigüedad
+inferior superior antigüedad
 
-Límite Límite
+10 18 269 0.00
 
-Inferior Superior
+19 24 269 0.60
 
-11 21 235 0
-
-22 27 235 0.6
-
-28 en 235 0.74
-
-adelante
+25 en adelante 269 0.74
 
 Cuando el contribuyente de este impuesto sufra el robo, descompostura parcial o que implique la no utilización del vehículo o pérdida total del vehículo registrado, pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto del mismo.
 
@@ -1341,7 +1341,9 @@ III.- Los intermediarios respecto de las adquisiciones gravadas por este impuest
 
 El impuesto se causará y pagará de acuerdo a lo siguiente:
 
-La cantidad que resulte de aplicar el 50% a la base, constituida por el Impuesto sobre Tenencia o Uso de Vehículos en materia federal correspondiente al ejercicio fiscal en que se efectúe la adquisición, respecto de vehículos usados de motor cuyo año modelo de antigüedad corresponda al periodo de los últimos diez años a la fecha en que se realice su adquisición. El pago mínimo por este concepto es de $315.00.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+La cantidad que resulte de aplicar el 50% a la, base, constituida por el Impuesto Sobre Tenencia o Uso de Vehículos en materia Federal, y en materia Estatal del Impuesto Sobre Tenencia o Uso de Vehículos Automotores, así como el Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta Nueve Años Modelo Anterior, según corresponda, del ejercicio fiscal en que se efectúe la adquisición. Respecto de vehículos usados de motor cuyo año modelo de antigüedad corresponda al periodo de los últimos diez años a la fecha en que se realice su adquisición, el pago mínimo por este concepto es de $315.00 cantidad que deberá de actualizarse a la fecha en que se lleve a cabo la operación, de conformidad con lo previsto en el Articulo 4° de esta Ley.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1890,6 +1892,12 @@ La reforma al Artículo 33, de la Ley de Hacienda del Estado de Aguascalientes, 
 Durante el ejercicio comprendido entre el 1° de enero al 31 de diciembre del año 2009, para los efectos de los Artículos 36 M Y 36 N de esta Ley se considerará como impuesto causado en el ejercicio inmediato anterior, el que se hubiere causado de conformidad con la Ley del Impuesto sobre Tenencia y Uso de Vehículos federal, vigente en el ejercicio fiscal comprendido entre el 1° de enero al 31 de diciembre del año 2008.
 
 P.O. 2 DE FEBRERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
