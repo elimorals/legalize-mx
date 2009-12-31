@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2009-10-29"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -2037,9 +2037,11 @@ IV.- Los contribuyentes que dejen de causar este impuesto, presentarán por una 
 
 V.- Las personas físicas que tengan registrados varios establecimientos con distintas actividades deberán presentar una sola declaración del impuesto en la oficina recaudadora o institución autorizada al efecto, correspondiente a su domicilio fiscal. En dicha declaración deberán incluirse las erogaciones en forma desglosada de cada uno de los establecimientos;
 
-> <small>(REFORMADA, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Los contribuyentes que tengan registrados trabajadores que no les resulte impuesto a pagar, presentarán por una sola vez la declaración correspondiente sin impuesto a cargo, anotando "0" (cero) en el renglón o renglones de dicha declaración que correspondan a la base e importe a pagar de este impuesto, debiéndose incluir los importes referentes al cálculo para la determinación del gravamen. En este caso se presumirá que no existe impuesto a pagar en las declaraciones posteriores que no sean presentadas, debiendo únicamente presentar las correspondientes a los meses de enero y diciembre de los ejercicios fiscales posteriores, salvo que al contribuyente no le resulte impuesto a pagar por motivo de exenciones fiscales, en cuyo caso presentará las declaraciones por los períodos que correspondan al inicio y término de dicha exención, quedando relevado de presentar las demás declaraciones que correspondan al período de la exención;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+VI.- Los contribuyentes que tengan registrados trabajadores que no les resulte impuesto a pagar, presentarán por una sola vez la declaración correspondiente sin impuesto a cargo, anotando "0" (cero) en el renglón o renglones de dicha declaración que correspondan a la base e importe a pagar de este impuesto, debiéndose incluir los importes referentes al cálculo para la determinación del gravamen. En este caso se presumirá que no existe impuesto a pagar en las declaraciones posteriores que no sean presentadas, debiendo únicamente presentar las correspondientes a los meses de enero y diciembre de los ejercicios fiscales posteriores;
 
 > <small>(ADICIONADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
@@ -2351,7 +2353,13 @@ VIII.- Impuesto a la prestación de servicios bajo la Dirección y dependencia d
 
 > <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-IX.- Impuesto sobre traslación de dominio de bienes muebles, en los supuestos a que se refiere el artículo 189 último párrafo, de este ordenamiento y por el pago de los derechos a que se refiere el artículo 298 fracción I, de esta Ley, que realicen las personas adultas de 60 años o más edad o que tengan el carácter de pensionados o jubilados.
+IX.- Impuesto sobre traslación de dominio de bienes muebles, en los supuestos a que se refiere el artículo 189 último párrafo, de este ordenamiento y por el pago de los derechos a que se refiere el artículo 298 fracción I, de esta Ley, que realicen las personas adultas de 60 años o más edad o que tengan el carácter de pensionados o jubilados;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+X.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, por servicios que presta el Registro Público de la Propiedad y en general por la legalización de firmas, expedición de certificados y certificaciones, que realicen las personas con discapacidad permanente. Para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del impuesto o derecho correspondiente, la credencial expedida por los Consejos Estatal o Municipales, para la integración de las personas con discapacidad.
 
 ###### Artículo 252.
 
@@ -2737,13 +2745,19 @@ b).- Harina de trigo $1.20 Por tonelada
 
 c).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 291.
 
-No causará la contribución a que se refiere este capítulo, el impuesto por la prestación de un servicio prestado bajo la Dirección y Dependencia de un tercero; el impuesto al ejercicio de profesiones liberales, artísticas e innominadas; e impuesto del 10% para la Universidad de Sonora.
+No causará la contribución a que se refiere este Capítulo, los pagos que se realicen por los siguientes conceptos:
 
-REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)
+I.- Impuesto por la prestación de un servicio prestado bajo la dirección y dependencia de un tercero; impuesto al ejercicio de profesiones liberales, artísticas e innominadas e impuesto para el sostenimiento de la Universidad de Sonora.
 
-Así mismo no causará esta contribución, el impuesto sobre traslación de dominio de bienes muebles, en las operaciones a que se refiere el artículo 189 último párrafo y los derechos a que se refiere el artículo 298 fracción I de este ordenamiento, tratándose de personas adultas de 60 años o más edad o que tengan el carácter de pensionados o jubilados.
+II.- Impuesto sobre traslación de dominio de bienes muebles, en las operaciones a que se refiere el artículo 189 último párrafo y los derechos a que se refiere el artículo 298 fracción I de este ordenamiento, tratándose de personas adultas de 60 años o más edad o que tengan el carácter de pensionados o jubilados.
+
+III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, por servicios que presta el Registro Público de la Propiedad y en general por la legalización de firmas, expedición de certificados y certificaciones, que realicen las personas con discapacidad permanente. Para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del impuesto o derecho correspondiente, la credencial expedida por los Consejos Estatal o Municipales, para la integración de las personas con discapacidad.
 
 ###### Artículo 292.
 
@@ -3323,9 +3337,11 @@ b).- Copia certificada $50.00
 
 8.- Por constancia de no servidor público. $130.00
 
-> <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-9.- Por expedición de certificados sobre antecedentes penales, por cada uno. $76.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+9.- Por la expedición de certificados sobre antecedentes penales, por cada uno. $ 50.00
 
 > <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3381,6 +3397,24 @@ o actualización bianual de datos, a petición del
 
 solicitante: $ 240.00
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+12.- Por los servicios relativos a la inscripción, permiso de operación y revalidación trianual, así como por constancias de reposición, de conformidad con la Ley que determina las Bases de Operación de las Casas de Empeño del Estado de Sonora:
+
+a).- Inscripción en el Registro Estatal de Casas de Empeño. Gratuita
+
+b).- Por reposición de la constancia de inscripción en el Registro Estatal de Casas de Empeño, a petición del solicitante. $ 244.00
+
+c).- Permiso de Operación de Casa de Empeño. Gratuita
+
+d).- Reposición de la constancia de Permiso de Operación de Casa de Empeño, a petición del solicitante. $ 244.00
+
+e).- Revalidación trianual, que deberá solicitarse en los primeros cuatro meses del año de que se trate. Gratuita
+
+f).- Reposición de la constancia de revalidación trianual a petición del solicitante. $ 244.00
+
 > <small>(REFORMADA SU DENOMINACION, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### Capítulo Décimo Segundo. Inspección Sanitaria
@@ -3407,7 +3441,11 @@ de la sucesión. $77.00
 
 6.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-7.- Por la recepción de los libros y apéndices del protocolo notarial para su guarda y custodia en el archivo notarial, por cada volumen recibido. $77.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+7.- Por la recepción de cada libro y de cada uno de los apéndices del protocolo notarial para su guarda y custodia, ya sea por antigüedad o por cierre de notaría pública: $77.00
 
 8.- Por certificación de cierre de protocolos enviados por los notarios para tal fin, por cada libro. $137.00
 
@@ -3421,17 +3459,37 @@ de la sucesión. $77.00
 
 12.- Por la sola búsqueda y localización de información relativa a escrituras públicas y antecedentes notariales y brindar información al interesado sin que esto implique la expedición y cobro del documento correspondiente:
 
-a).- Por notario y por cada 2 años de búsqueda. $150.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+a).- Por notario y por cada año de búsqueda. $150.00
 
 13.- Por los servicios urgentes a petición del usuario se causará un derecho adicional equivalente al 50% sobre la cantidad fijada para el servicio que se solicita. Se considerarán servicios urgentes cuando se proporcione dentro de las veinticuatro horas siguientes.
 
-14.- Por presentación de examen de aspirante de notario. $5,297.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-15.- Por presentación de examen de oposición para ser titular de una notaría pública. $10,593.00
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+14.- Por la presentación de examen de aspirante a notario. $ 15,000.00
 
-16.- Por la autorización de proyectos de escrituras a los jueces locales en funciones de notario público por ministerio de Ley, por cada instrumento, que requiera autorización. $100.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+15.- Por presentación de examen de oposición para ser titular de una notaría pública. $ 25,000.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+16.- Por la autorización de proyectos de escrituras a los jueces locales en funciones de Notario Público por Ministerio de Ley, por cada instrumento, que requiera autorización. $ 250.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+17.- Por la inscripción de disposiciones testamentarias en el Registro Nacional de Testamentos y el Registro Local de Testamentos. $ 120.00 Por cada disposición testamentaria.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4355,6 +4413,12 @@ I.- Por las inscripciones de:
 
 3.2.- Con la entrega de copia al interesado. $50.00
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+3.3.- Realizadas fuera del horario establecido para las guardias. $ 575.00
+
 4.- Matrimonios:
 
 4.1.- Dentro de la oficina en horas hábiles. $319.99
@@ -4379,7 +4443,9 @@ II.- Por la expedición de actas del Registro Civil en las oficialías:
 
 1.2.- Transcripción del libro (mecanografiada). $50.00
 
-1.3.- Impreso del libro a través del servicio telefónico denominado Avitel (medio electrónico). $50.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+1.3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 III.- Por las anotaciones marginales:
 
@@ -4393,9 +4459,23 @@ III.- Por las anotaciones marginales:
 
 Las inscripciones de cualquier acto que se celebre fuera de la oficina, en horas inhábiles, incluyendo los exentos, excepto el de matrimonio, causarán una cuota de: $484.00
 
-5.- Por la búsqueda que se efectúe para la localización de un acta, cuando el solicitante no aporte los datos necesarios, por cada 5 años de búsqueda. (Oficialías sin servicio de medios electrónicos). $50.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-6.- Por la expedición de certificados de inexistencia respectivo. $50.00
+> <small>(REFORMADO [N. DE E. ANTES SEGUNDO PARRAFO DEL NUMERAL 4], B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+5.- Las inscripciones de cualquier acto que se celebre fuera de la oficina, en horas inhábiles, incluyendo los exentos, excepto el de matrimonio y defunción. $ 575.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+6.- Por la búsqueda que se efectúe para la localización de un acta, de 1 a 5 años, cuando el acta no ha sido, localizada en la base de datos del sistema de consulta. $ 61.00
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+7.- Por la expedición de certificados de inexistencia respectivo. $ 61.00
 
 El Ejecutivo del Estado por conducto de la dependencia que corresponda, previo estudio socioeconómico, podrá autorizar la exención de los derechos a que se refieren los puntos 1 y 6 de la fracción I de este artículo.
 
@@ -4415,11 +4495,15 @@ I.- Por la expedición de actas:
 
 1.2.- Transcripción del libro (mecanografiada). $50.00
 
-1.3.- Impreso del libro a través del servicio telefónico denominado Avitel (medio electrónico). $50.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+1.3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
-II.- Por la búsqueda que se efectúe para la localización de un acta, cuando el solicitante no aporte los datos necesarios, por cada cinco años de búsqueda. $50.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II.- Por la búsqueda que se efectúe para la localización de un acta, de uno a cinco años, cuando el acta no ha sido localizada en la base de datos del sistema de consulta. $50.00
 
 1.- Por la expedición de certificados de inexistencia respectivo. $50.00
 
@@ -4731,9 +4815,9 @@ de estudio de impacto ambiental:
 
 a).- Riesgo ambiental. $3,615.00
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b).- Informe preventivo. $2,202.00
+b).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4743,21 +4827,13 @@ c).- Resolución de impacto ambiental, modalidad
 
 general: $4,267.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+d).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
-d).- Resolución de impacto ambiental, modalidad
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-intermedia: $6,401.00
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
-
-e).- Resolución de impacto ambiental, modalidad
-
-específica: $9,602.00
+e).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4767,21 +4843,23 @@ específica: $9,602.00
 
 a).- Resolución de licencia de funcionamiento: $3,773.00
 
-b).- Resolución de actualización de licencia de $1,853.00
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-funcionamiento:
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
-c).- Resolución de actualización en materia de $1,578.00
+b).- Resolución de actualización de licencia:
 
-impacto ambiental:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+c).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 14.- Por la inscripción en el Registro Estatal de:
 
-a).- Empresas generadoras de residuos sólidos
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-no peligrosos. $240.00
+a).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 b).- Prestadores de servicios de estudio de impacto
 
@@ -4817,13 +4895,9 @@ desarrollos turísticos, industriales o campestres,
 
 fuera del límite del centro de población $3,500.00
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-18.- Por el refrendo en el registro estatal de los
-
-prestadores de servicios de estudio de impacto
-
-ambiental. $1,396.00
+18.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -5103,23 +5177,21 @@ técnicos, universitarios y tecnológicos. $140.00
 
 14.- Registro de colegio de profesionistas. $3,000.00
 
-> <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-15.- Registro de modificación de estatutos de
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
-colegio de profesionistas. $300.00
+15.- Registro de titulo profesional. Gratuito
 
-> <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-16.- Registro de consejo directivo de colegio de
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
-profesionistas. $300.00
+16.- Expedición de cédula profesional. $ 500.00
 
-> <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-17.- Registro de un socio de colegio de
-
-profesionistas. $19.00
+17.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -5832,3 +5904,9 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 ###### ARTÍCULO SEGUNDO.
 
 Los contribuyentes podrán presentar la solicitud para obtener la deducibilidad del impuesto referido en el artículo 218-BIS de la Ley de Hacienda del Estado, hasta en tanto no se cumpla el porcentaje del 8% señalado en el párrafo quinto de dicho artículo o, en su caso, hasta el último día hábil del ejercicio fiscal de que se trate.
+
+B.O. 31 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del 1° de enero de 2010, previa su publicación en el Boletín Oficial del Gobierno del Estado.
