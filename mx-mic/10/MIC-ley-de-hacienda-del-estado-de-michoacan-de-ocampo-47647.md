@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-47647"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-28"
-last_updated: "2008-12-30"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 28 de diciembre de 2005.
 
@@ -317,9 +317,23 @@ k) El pago de becas para trabajadores o para sus hijos, seguro de vida y seguro 
 
 l) Los viáticos y gastos de representación efectivamente erogados por cuenta del patrón y que hayan sido debidamente comprobados en los mismos términos que, para su deducibilidad requiere la Ley del Impuesto Sobre la Renta;
 
-m) Las aportaciones a cargo del patrón al Instituto Mexicano del Seguro Social (IMSS), al Instituto del Fondo Nacional para la Vivienda de los Trabajadores (INFONAVIT), al Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado (ISSSTE), a la Dirección de Pensiones Civiles del Estado y al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM); y,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-n) Las pensiones y jubilaciones en caso de invalidez, vejez, cesantía en edad avanzada y muerte.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+m) Las aportaciones a cargo del patrón al Instituto Mexicano del Seguro Social (IMSS), al Instituto del Fondo Nacional para la Vivienda de los Trabajadores (INFONAVIT), al Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado (ISSSTE), a la Dirección de Pensiones Civiles del Estado y al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM);
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+n) Las pensiones y jubilaciones en caso de invalidez, vejez, cesantía en edad avanzada y muerte; y,
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+o) Las vacaciones.
 
 Tampoco formarán parte de las remuneraciones afectas al pago de este Impuesto, las prestaciones que se paguen a los trabajadores, como consecuencia de terminación de la relación laboral, así como las indemnizaciones por incapacidad física.
 
@@ -425,11 +439,603 @@ La recaudación que se obtenga de la aplicación de este impuesto, se destinará
 
 El Ejecutivo del Estado al presentar la Cuenta Pública informará al Congreso del Estado respecto del monto obtenido por la recaudación de este impuesto así como de su aplicación.
 
-### CAPÍTULO UNICO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES, SUBSECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+### CAPÍTULO V. DEL IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHÍCULOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+#### SECCIÓN PRIMERA. OBJETO, SUJETO Y GENERALIDADES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-A.
+
+Están obligadas al pago del impuesto estatal sobre tenencia o uso de vehículos, las personas físicas y morales tenedoras o usuarias de los vehículos a que se refiere este impuesto; que se encuentren domiciliados en el Estado de Michoacán.
+
+El impuesto referido, corresponde a aquellos vehículos de año modelo definido en este Capítulo; así como el posterior al de aplicación de la Ley de Ingresos del Estado y los de hasta nueve años anteriores al de aplicación de dicha Ley.
+
+Cuando las personas físicas y morales, que durante el Ejercicio Fiscal vigente, trasladen su domicilio al Estado de Michoacán; que sean tenedoras o usuarias de vehículos automotores que circulen con placas definitivas asignadas por otras entidades federativas, y que consecuentemente hayan pagado el impuesto sobre tenencia o uso de vehículos correspondiente en esa otra entidad federativa, no estarán obligadas a realizar dicho pago.
+
+Lo establecido en el párrafo anterior, procederá únicamente por lo que se refiere al ejercicio fiscal en que las personas físicas y morales hayan pagado dicho impuesto, antes de trasladarse al Estado de Michoacán; en caso de no haberlo realizado, deberán pagar el correspondiente al presente ejercicio fiscal y los posteriores, en esta Entidad Federativa, mostrando como mínimo, de uno a tres pagos, según el año modelo del automóvil.
+
+Las personas físicas y morales tenedoras o usuarias de vehículos, sujetas al pago de este impuesto, que cambien su lugar de residencia, ya sea en el interior del Estado, o que cambien de otra entidad federativa al Estado de Michoacán, deberán presentar aviso de cambio de domicilio, en los primeros 15 días hábiles, posteriores a dicho cambio.
+
+Lo señalado en el párrafo anterior se debe de realizar, independientemente de haber pagado el impuesto correspondiente al Ejercicio Fiscal al de aplicación de la Ley de Ingresos del Estado, ya sea en el Estado o en otra Entidad Federativa.
+
+Para los efectos de esta impuesto, se presume que el propietario es tenedor o usuario del vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-B.
+
+Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas autorizadas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circulación en traslado o alta del vehículo.
+
+El impuesto se pagará en las oficinas recaudadoras que la Secretaría de Finanzas y Administración del Estado autorice el registro, alta del vehículo o expida el permiso provisional para circulación en traslado, de dicho vehículo. También se puede realizar dicho pago a través de los medios electrónicos en los sitios de Internet o en las sucursales de las instituciones financieras autorizadas por ésta.
+
+Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas correspondientes al domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público, o en la Secretaría de Finanzas y Administración. Los contribuyentes de este impuesto no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos del registro federal o estatal de contribuyentes.
+
+Los importadores ocasionales efectuarán el pago de este impuesto, correspondiente al primer año de calendario en la aduana respectiva en el momento en que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado, o en el caso de importación temporal, al convertirse en definitiva. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el párrafo segundo de este artículo.
+
+Las personas físicas o morales cuya actividad sea la enajenación al público de vehículos nuevos o importados, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el primer párrafo de este artículo.
+
+En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de la Ley de Ingresos del Estado, se pagará la contribución correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto se pagará como si éste fuese nuevo.
+
+Dicho impuesto se pagará simultáneamente, con los derechos que establece el artículo 36 de la Ley de Hacienda del Estado de Michoacán de Ocampo.
+
+Las infracciones que se cometan por los contribuyentes del impuesto a que se refiere este Capítulo, se sancionarán conforme a lo dispuesto por el Código Fiscal del Estado de Michoacán de Ocampo.
+
+El contribuyente que con posterioridad a la fecha de pago del impuesto a que se refiere este Capítulo, compruebe que realizó algún pago indebido en exceso, podrá solicitar la devolución de la cantidad pagada indebidamente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-C.
+
+De los ingresos derivados de este impuesto que obtenga el Estado, participarán los municipios con un 20%; distribuyéndoseles lo que a cada uno corresponda, conforme a las reglas establecidas por la Ley de Coordinación Fiscal del Estado de Michoacán de Ocampo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-D.
+
+Cuando la enajenación o importación de automóviles o vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año, determinado conforme a lo establecido por los artículos 33-J, 33-K, 33-N y 33-P, según corresponda, se pagará en la proporción que resulte de aplicar el factor siguiente:
+
+Mes de Factor aplicable
+
+Adquisición al impuesto
+
+causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-E.
+
+Para efectos de este impuesto, se entiende por:
+
+I. Automóviles: a los omnibuses, camiones, camionetas y tractores no agrícolas tipo quinta rueda;
+
+II. Motocicleta: a las motocicletas, mototriciclos, motocarros y cuatrimotos, entre otras;
+
+III. Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos; y,
+
+b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de la Ley de Ingresos del Estado, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
+
+IV Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía, como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del Impuesto al Valor Agregado.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-F.
+
+Para los efectos de este impuesto se considera como:
+
+I. Marca: Las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás;
+
+II. Año Modelo: El año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1o. de octubre del año anterior y el 30 de septiembre del año que transcurra;
+
+III. Modelo: Todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos;
+
+IV. Versión: Cada una de las distintas presentaciones comerciales que tiene un modelo;
+
+V. Línea:
+
+a) Automóviles con motor de gasolina o gas hasta de 4 cilindros;
+
+b) Automóviles con motor de gasolina o gas de 6 u 8 cilindros;
+
+c) Automóviles con motor diesel;
+
+d) Camiones con motor de gasolina, gas o diesel;
+
+e) Tractores no agrícolas tipo quinta rueda;
+
+f) Autobuses integrales;
+
+g) Automóviles eléctricos; y,
+
+VI. Comerciantes en el ramo de vehículos: A las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-G.
+
+Las dependencias, coordinaciones, entidades y organismos descentralizados de la Administración Pública del Estado, organismos autónomos, los municipios, o cualquier otra persona física y moral que se encuentren domiciliados en el Estado de Michoacán, deberán pagar el impuesto, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos estatales y federales, o estén exentos de ellos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-H.
+
+Son solidariamente responsables del pago del impuesto:
+
+I. Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto;
+
+II. Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera; y,
+
+III. Las autoridades de la Secretaría de Finanzas y Administración competentes, que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+
+Las autoridades de la Secretaría de Finanzas y Administración competentes, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el Estado de Michoacán.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-I.
+
+Los contribuyentes comprobarán el pago del impuesto con el original de la forma por medio de la cual lo hayan efectuado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LA SUBSECCION Y ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+#### SECCIÓN SEGUNDA. BASE Y TASA PARA AUTOMÓVILES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-J.
+
+Tratándose de automóviles, ómnibus, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
+
+I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+
+TARIFA
+
+Limite Limite Cuota Tasa para
+
+inferior superior fija aplicarse al
+
+$ excedente
+
+del límite
+
+inferior %
+
+0.01 428,768.31 0.00 3.0
+
+428,768.32 825,140.79 12,863.05 8.7
+
+825,140.80 1,109,080.70 47,347.45 13.3
+
+1,109,080.71 1,393,020.60 85,111.46 16.8
+
+1,393,020.61 En adelante 132,813.36 19.1
+
+Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían (sic) que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80;
+
+II. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos, excepto Pick Ups; cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados «taxis», el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil. Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable; y,
+
+III. Tratándose de automóviles de más de diez años modelo anterior al de aplicación de la Ley de Ingresos del Estado, el impuesto se pagará a la tasa del 0%.
+
+Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-K.
+
+Tratándose (sic) automóviles nuevos Pick Up, destinados al transporte de pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+
+TARIFA
+
+Limite Limite Cuota Tasa para
+
+inferior superior fija aplicarse al
+
+$ excedente
+
+del límite
+
+inferior %
+
+0.01 250,000.00 0.00 0.245
+
+250,000.01 400,000.00 612.50 1.00
+
+400,000.01 600,000.00 2,112.50 3.00
+
+600,000.01 En adelante 8,112.50 8.70
+
+Tratándose de automóviles blindados referidos en este artículo, la tarifa anterior se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
+
+Tratándose de automóviles de más de diez años modelos anteriores al de aplicación de la Ley de Ingresos del Estado, el impuesto se pagará a la tasa del 0%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+SUBSECCIÓN PRIMERA
+
+DE LAS EXCENCIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-L.
+
+No se pagará el impuesto, en los términos de esta Sección, por la tenencia o uso de los siguientes vehículos:
+
+I. Los importados temporalmente en los términos de la legislación aduanera;
+
+Il. Los vehículos de la Federación, del Estado, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos; y,
+
+III. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-M.
+
+Los tenedores o usuarios de los vehículos a que se refieren las fracciones I y II del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas y Administración que se encuentran comprendidos en dichos supuestos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LA SUBSECCION Y ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+#### SECCIÓN TERCERA. BASE Y TASA PARA MOTOCICLETAS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-N.
+
+Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+
+TARIFA
+
+Limite Limite Cuota Tasa para
+
+inferior superior fija aplicarse al
+
+$ excedente
+
+del límite
+
+inferior %
+
+0.01 200,000.00 0.00 3.0
+
+200,000.01 275,046.93 6,000.00 8.7
+
+275,046.94 369,693.57 12,529.08 13.3
+
+369,693.58 en adelante 25,117.08 16.8
+
+Tratándose de motocicletas de más de diez años modelos anteriores al de aplicación de la Ley de Ingresos del Estado, el impuesto se pagará a la tasa del 0%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+SUBSECCIÓN PRIMERA
+
+DE LAS EXCENCIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-O.
+
+No se pagará el impuesto en los términos de lo dispuesto por esta Sección, por la Tenencia o uso de de (sic) los vehículos referidos en (sic) artículo 33-L de este impuesto. Para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas y Administración que se encuentran comprendidos en dichos supuestos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LA SUBSECCION Y ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+#### SECCIÓN CUARTA. BASE Y TASA PARA AUTOMÓVILES ELÉCTRICOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-P.
+
+Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto será la cantidad que resulte de aplicar al valor total del automóvil el 0.16%.
+
+Para los efectos de este artículo, el impuesto únicamente será aplicable a aquellas unidades que para su circulación requieran de placas y tarjeta de circulación expedidas por la Secretaría de Finanzas y Administración.
+
+Tratándose de los vehículos antes señalados, de más de diez años modelos anteriores al de aplicación de la Ley de Ingresos del Estado, el impuesto se pagará a la tasa del 0%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+SUBSECCIÓN PRIMERA
+
+DE LAS EXCENCIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-Q.
+
+No se pagará el impuesto en los términos de lo dispuesto por esta sección, por la tenencia o uso de los vehículos referidos en artículo 33-L de este Capítulo. Para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas y Administración que se encuentran comprendidos en dichos supuestos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+#### SECCIÓN QUINTA. DE LA ACTUALIZACIÓN
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-R.
+
+Para los efectos de lo dispuesto en los artículos 33-J, 33-K, 33-N y 33-P de este impuesto, los montos de las cantidades que en los mismos se señalan se actualizarán en el mes de enero de cada año, aplicando el factor correspondiente al período comprendido desde el mes de noviembre del penúltimo año, hasta el mes de noviembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con lo dispuesto por el artículo l7-A del Código Fiscal de la Federación.
+
+El factor determinado, conforme a lo dispuesto por el párrafo anterior, deberá calcularse hasta el diezmilésimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LAS SUBSECCIONES Y ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+#### SECCIÓN SEXTA. DE LOS VEHÍCULOS USADOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+SUBSECCIÓN PRIMERA
+
+VEHÍCULOS USADOS DE FABRICACIÓN NACIONAL O IMPORTADOS, DESTINADOS AL TRANSPORTE DE HASTA 15 PASAJEROS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-S.
+
+Tratándose de vehículos de fabricación nacional o importados, de hasta nueve años modelo (sic) anteriores al de aplicación de la Ley de Ingresos del Estado, referidos en el artículo 33-J, fracción II, 33-K y 33-P de este Capítulo, excepto automóviles destinados al transporte de hasta 15 pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 33-R de este Capítulo.
+
+Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+SUBSECCIÓN SEGUNDA
+
+VEHÍCULOS USADOS CON CAMBIO DE MODALIDAD DE SERVICIO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-T.
+
+Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados «taxis», de hasta nueve años modelo (sic) anteriores al de aplicación de la Ley de Ingresos del Estado, el impuesto estatal sobre tenencia o uso de vehículos se calculará, para el Ejercicio Fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en el artículo 33-S de este Capítulo; y,
+
+II. La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el artículo 33-R de este Capítulo; el resultado obtenido se multiplicará por 0.245%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-U.
+
+Tratándose de automóviles de servicio público de transporte denominados «taxis» que pasen a ser de servicio particular, de hasta nueve años modelos anteriores al de aplicación de la Ley de Ingresos del Estado, el impuesto estatal sobre tenencia o uso de vehículos se calculará, para el Ejercicio Fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al procedimiento establecido en el artículo 33-V siguiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+SUBSECCIÓN TERCERA
+
+VEHÍCULOS USADOS DE FABRICACIÓN NACIONAL O IMPORTADOS, DESTINADOS AL TRANSPORTE DE HASTA 15 PASAJEROS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33- V.
+
+Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años modelo (sic) anteriores al de aplicación de la Ley de Ingresos del Estado, destinados al transporte de hasta quince pasajeros, referidos en el artículo 33-J, fracción I de este Capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con lo dispuesto en el artículo 33-R de esta Ley; al resultado se le aplicará la tarifa a que hace referencia el artículo 33-J de este Capítulo.
+
+Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+SUBSECCIÓN CUARTA
+
+MOTOCICLETAS DE FABRICACIÓN NACIONAL O IMPORTADAS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33- W.
+
+Tratándose de motocicletas de fabricación nacional o importadas, de hasta nueve años modelo (sic) anteriores al de aplicación de la Ley de Ingresos del Estado; el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de depreciación
+
+1 0.9
+
+2 0.8
+
+3 0.7
+
+4 0.6
+
+5 0.5
+
+6 0.4
+
+7 0.3
+
+8 0.2
+
+9 0.1
+
+A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hace referencia el artículo 33-R de esta Ley.
+
+Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+#### SECCIÓN SÉPTIMA. OBLIGACIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-X.
+
+Cuando las autoridades fiscales embarguen precautoriamente vehículos por tenencia ilegal en el país de los mismos, en ejercicio de las facultades establecidas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal, el Estado percibirá como incentivo el 100% de dichos vehículos u otros con un valor equivalente, excepto automóviles deportivos y de lujo, una vez que hayan sido adjudicados definitivamente al fisco federal y cause ejecutoria la resolución respectiva. También percibirán el 100% de las multas efectivamente pagadas y que hayan quedado firmes.
+
+El Estado percibirá el 95% del producto neto de la enajenación de los vehículos que les hayan sido otorgados en los términos del párrafo anterior, siempre y cuando éstos estén inutilizados permanentemente para la circulación. Dicha enajenación se hará conforme a las reglas de carácter general que establezca la Secretaría de Hacienda y Crédito Público.
+
+El registro estatal vehicular a que se refiere el primer párrafo de este artículo, se integrará con datos de los vehículos de los contribuyentes que porten placas de la circunscripción territorial del Estado, que serán como mínimo: marca, modelo, año modelo, número de cilindros, origen o procedencia, número de motor, número de chasis, número de placas y año fiscal que cubre el impuesto a que se refiere esta Ley, así como los datos correspondientes al contribuyente: nombre o razón social, domicilio, código postal y, en su caso, el Registro Estatal o Federal de Contribuyentes. El registro estatal vehicular estará conectado a los medios o sistemas que para efectos de intercambio de información determine la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 33-Y.
+
+Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, domiciliados en el Estado de Michoacán tendrán la obligación de proporcionar a la Secretaría de Hacienda y Crédito Público, y a la Secretaría de Finanzas y Administración del Estado, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en territorio del Estado en el mes inmediato anterior, a través de dispositivos electromagnéticos procesados en los términos que señale la Secretaría de Finanzas y Administración, mediante disposiciones de carácter general. Los que tengan más de un establecimiento, deberán presentar la información a que se refiere este artículo, haciendo la separación por cada uno de los establecimientos y por cada Municipio.
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
-### CAPÍTULO I. DEL CONCEPTO
+### CAPÍTULO UNICO
 
 ###### Artículo 34.
 
@@ -437,9 +1043,7 @@ Las contribuciones especiales que se establezcan a cargo de las personas que se 
 
 ## TÍTULO CUARTO. DE LOS DERECHOS
 
-### CAPÍTULO II. DE LOS DERECHOS POR SERVICIOS QUE SE PRESTAN PERIODICAMENTE
-
-> <small>(F. DE E., P.O. 26 DE ENERO DE 2006)</small>
+### CAPÍTULO I. DEL CONCEPTO
 
 ###### Artículo 35.
 
@@ -449,7 +1053,7 @@ I. Derechos por servicios que se prestan periódicamente; y,
 
 II. Derechos por servicios que se prestan eventualmente.
 
-### CAPÍTULO III. DE LOS RECARGOS Y SANCIONES
+### CAPÍTULO II. DE LOS DERECHOS POR SERVICIOS QUE SE PRESTAN PERIODICAMENTE
 
 > <small>(F. DE E., P.O. 26 DE ENERO DE 2006)</small>
 
@@ -525,9 +1129,9 @@ El incumplimiento a lo estipulado en este artículo se sancionará conforme al C
 
 Los derechos por la expedición de licencias para conducir vehículos automotores, se pagarán a la Secretaría de Finanzas y Administración, previamente a la expedición de éstas, aplicando las cuotas que se establezcan en la Ley de Ingresos del Estado para el ejercicio fiscal de que se trate para cada tipo de licencia que expida la autoridad competente, de conformidad con lo dispuesto en los Capítulos Segundo y Tercero, del Título Segundo de la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo.
 
-### CAPÍTULO IV. DEL REGISTRO Y CONTROL DE VEHICULOS
+### CAPÍTULO III. DE LOS RECARGOS Y SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+> <small>(F. DE E., P.O. 26 DE ENERO DE 2006)</small>
 
 ###### Artículo 41.
 
@@ -541,9 +1145,9 @@ La Secretaría de Finanzas y Administración, exigirá el cumplimiento de las ob
 
 La autoridad de tránsito municipal y en su caso, por virtud de los convenios que se celebren, la autoridad de tránsito del Estado, podrán retirar de la circulación a los vehículos que hayan sido embargados a sus propietarios, previa designación de la autoridad que corresponda, como depositaria de los mismos.
 
-### CAPÍTULO V. DE LOS DERECHOS POR SERVICIOS EVENTUALES
+### CAPÍTULO IV. DEL REGISTRO Y CONTROL DE VEHICULOS
 
-> <small>(F. DE E., P.O. 26 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 42.
 
@@ -575,15 +1179,17 @@ Para la dotación de placas a los vehículos a que se refieren los supuestos enu
 
 Lo referido en el párrafo anterior, también será aplicable tratándose del documento denominado comúnmente “carta factura”.
 
-### CAPÍTULO VI. DEL PAGO
+### CAPÍTULO V. DE LOS DERECHOS POR SERVICIOS EVENTUALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+> <small>(F. DE E., P.O. 26 DE ENERO DE 2006)</small>
 
 ###### Artículo 43.
 
 Para los efectos del artículo 35 de esta Ley, se consideran servicios eventuales, los demás servicios que preste el Gobierno del Estado no comprendidos en el artículo 36 de esta Ley, conforme a los conceptos, tarifas y tasas que establezca la Ley de Ingresos del Estado para el ejercicio de que se trate.
 
-### CAPÍTULO VII. DE LAS EXENCIONES
+### CAPÍTULO VI. DEL PAGO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 44.
 
@@ -593,7 +1199,7 @@ Por lo que se refiere a los servicios de Catastro por concepto de: mediciones y 
 
 Por lo que se refiere a los servicios de Catastro por concepto de registro de predios ignorados y registro de excedencias de superficie, los derechos se pagarán en la fecha en que se inscriba la resolución relativa.
 
-### CAPÍTULO UNICO
+### CAPÍTULO VII. DE LAS EXENCIONES
 
 ###### Artículo 45.
 
@@ -733,7 +1339,7 @@ Los aprovechamientos se harán efectivos según proceda en cada caso, atendiendo
 
 ## TÍTULO SÉPTIMO. DE LAS PARTICIPACIONES EN INGRESOS FEDERALES
 
-### CAPÍTULO I. DE LOS FONDOS DE APORTACIONES FEDERALES
+### CAPÍTULO UNICO
 
 ###### Artículo 51.
 
@@ -741,13 +1347,13 @@ Son participaciones en ingresos federales, las que de conformidad con las leyes 
 
 ## TÍTULO OCTAVO. DE LAS TRANSFERENCIAS DE LA FEDERACION DESTINADAS A FINES ESPECIFICOS
 
-### CAPÍTULO II. TRANSFERENCIAS POR CONVENIO
+### CAPÍTULO I. DE LOS FONDOS DE APORTACIONES FEDERALES
 
 ###### Artículo 52.
 
 Los ingresos del Estado provenientes de los Fondos de Aportaciones Federales, se percibirán conforme a lo que disponga la Ley de Coordinación Fiscal y en su caso, el Presupuesto de Egresos de la Federación para el año de que se trate.
 
-### CAPÍTULO I. DE LAS APORTACIONES DE MUNICIPIOS Y DE PARTICULARES PARA OBRAS Y SERVICIOS PÚBLICOS
+### CAPÍTULO II. TRANSFERENCIAS POR CONVENIO
 
 ###### Artículo 53.
 
@@ -755,7 +1361,7 @@ Los ingresos que se transfieran al Estado, derivados de reasignaciones del Presu
 
 ## TÍTULO NOVENO. DE OTROS INGRESOS
 
-### CAPÍTULO II. DE OTROS INGRESOS ADICIONALES
+### CAPÍTULO I. DE LAS APORTACIONES DE MUNICIPIOS Y DE PARTICULARES PARA OBRAS Y SERVICIOS PÚBLICOS
 
 ###### Artículo 54.
 
@@ -764,6 +1370,8 @@ El Estado percibirá los importes que, por concepto de aportaciones realicen los
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 De los acuerdos referidos el párrafo anterior, deberá proporcionarse copia a la Secretaría de Finanzas y Administración dentro de los 15 días siguientes a la fecha de su firma, a efecto de que se realice la recaudación de las aportaciones concertadas.
+
+### CAPÍTULO II. DE OTROS INGRESOS ADICIONALES
 
 ###### Artículo 55.
 
@@ -816,3 +1424,13 @@ P.O. 30 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 La presente Ley entrará en vigor el día 1º de enero de 2009, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1° primero de enero de 2010, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo; con excepción de lo dispuesto por el Artículo Segundo Transitorio.
+
+###### ARTÍCULO SEGUNDO.
+
+La adición de los artículos 33-A al 33-Y, mediante los cuales se crea el impuesto estatal sobre tenencia o uso de vehículos, entrarán en vigor a partir del 1° primero de enero del año 2012.
