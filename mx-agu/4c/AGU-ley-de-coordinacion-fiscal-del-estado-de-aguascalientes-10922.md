@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-coordinacion-fiscal-del-estado-de-aguascalientes-10922"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-03"
-last_updated: "2007-12-24"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de noviembre de 1996.
 
@@ -61,7 +61,9 @@ V.- "H. Legislatura", la H. Legislatura del Estado;
 
 VI.- "Impuesto Especial sobre Producción y Servicios", el Impuesto Federal contenido en la Ley del Impuesto Especial sobre Producción y Servicios o aquella Legislación que la sustituya o reforme;
 
-VII.- "Impuesto sobre Tenencia o Uso de Vehículos", el Impuesto Federal contenido en la Ley del Impuesto sobre Tenencia o Uso de Vehículos, o aquella Legislación Estatal o Federal que la sustituya o reforme;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+VII.- Impuesto sobre Tenencia o Uso de Vehículos, el Impuesto sobre Tenencia o uso de vehículos Automotores y sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior, así como el impuesto sobre tenencia o uso de vehículos, previstos en la Ley de Coordinación Fiscal del Estado, o aquella legislación Estatal o Federal que lo sustituya o reforme;
 
 VIII.- "Incentivos", los ingresos que reciben los Estados y Municipios por concepto de la recaudación que se obtenga del Impuesto sobre Tenencia o Uso de Vehículos, así como por el Impuesto Especial sobre Producción y Servicios, en los porcentajes y forma que se señala en la Ley de Coordinación Fiscal Federal;
 
@@ -77,39 +79,45 @@ XIII.- "Sistema", el Sistema de Coordinación Fiscal del Estado el cual consiste
 
 ### CAPITULO II. De las Participaciones e Incentivos a los Municipios en Ingresos Federales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 3o.
 
-Para efectos de esta Ley, son participaciones e incentivos, las asignaciones que correspondan al Estado y a los Municipios en los ingresos federales del Fondo General de Participaciones, del Fondo de Fomento Municipal, así como del Impuesto sobre Tenencia o Uso de Vehículos y del Impuesto Especial sobre Producción y Servicios y del Impuesto Especial sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal de la Federación.
+Para efectos de esta Ley, son participaciones e incentivos, las asignaciones que correspondan al Estado y a los Municipios en los ingresos federales del Fondo General de Participaciones, del Fondo de Fomento Municipal, del Impuesto Especial sobre Producción y Servicios y del Impuesto sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal de la Federación, así como del Impuesto sobre Tenencia o Uso de Vehículos y el Impuesto sobre Tenencia o uso de vehículos Automotores y el impuesto sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior.
 
-El Estado, por conducto de la Secretaría, partiendo de los Fondos establecidos en el Título Unico de esta Ley y de conformidad con lo establecido en esta normatividad, así como en la Ley de Coordinación Fiscal Federal, distribuirá a los municipios las participaciones e incentivos mencionados anteriormente, de la siguiente forma:
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+El Estado, por conducto de la Secretaría, partiendo de los Fondos establecidos en el Título Único de esta Ley y de conformidad con lo establecido en esta normatividad, así como en la Ley de Coordinación Fiscal Federal, distribuirá a los municipios las participaciones e incentivos mencionados anteriormente, de la siguiente forma:
 
 I.- El 23% del Fondo General de Participaciones;
 
 II.- El 100% del Fondo de Fomento Municipal;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+III.- El 23% de la recaudación en el Estado del Impuesto sobre Tenencia o Uso de Vehículos; el Impuesto sobre Tenencia o uso de vehículos Automotores y sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 años modelo anterior;
 
-III.- El 23% de la recaudación en el Estado del Impuesto Federal sobre Tenencia o Uso de Vehículos;
+IV.- El 23% de la recaudación que obtenga el Estado del Impuesto Especial sobre. Producción y Servicios en los términos del Artículo 3-A de la Ley de Coordinación Fiscal Federal; y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+V.- El 23% de la recaudación en el Estado del Impuesto sobre Automóviles Nuevos;
 
-IV.- El 23% de la recaudación que obtenga el Estado del Impuesto Especial sobre Producción y Servicios en los términos del artículo 3-A de la Ley de Coordinación Fiscal Federal; y
+VI.- El 23% del Fondo de Fiscalización;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2007)</small>
+VII.- El Fondo derivado de las cuotas previstas en el Artículo 2°-A, fracción II de la Ley del Impuesto Especial Sobre Producción y Servicios, se distribuirá conforme al Artículo 4°-A de la Ley de Coordinación Fiscal Federal que establece una distribución para los municipios como mínimo del 20% de la recaudación que corresponda a las Entidades Federativas, consistente con el porcentaje previsto para el Fondo General de Participaciones previsto en la Ley de Coordinación Fiscal del Estado de Aguascalientes, mismo que se establece como porcentaje a distribuir el 23% de dicha recaudación, el cual será repartido de la siguiente manera:
 
-V.- El 23% de la recaudación en el Estado del Impuesto sobre Automóviles Nuevos.
+a) El 70% atendiendo a los niveles de población.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+b) El 30% atendiendo al porcentaje de cumplimiento en el pago de los Impuestos Sobre Tenencia y Uso de Vehículos Automotores y el Impuesto Sobre Tenencia o Uso de Vehículos Automotores y de Tenencia de Uso de Vehículos Nuevos y hasta 9 años Modelo anterior.
 
-Con el 4.3% de las participaciones e incentivos de las Fracciones I, III, IV y V del párrafo anterior, se constituirá el Fondo Resarcitorio, el cual se distribuirá a los Municipios en proporción inversa al porcentaje de población de cada uno de ellos, recurso que se destinará a obra pública y equipamiento.
+> <small>N. DE E. VÉASE FÓRMULAS Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2009, PÁGINA 2.</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+Para lo cual, la Secretaria de Finanzas del Estado publicará a más tardar el 31 de mayo de cada año en el Periódico Oficial del Estado un coeficiente de distribución, así Como el número de vehículos registrados en cada uno de los municipios, porcentaje de cumplimiento en el pago de Impuestos Sobre Tenencia o Uso de Vehículos Automotores y el Impuesto Sobre Tenencia o Uso de vehículos Nuevos y de hasta 9 años Modelo Anterior.
 
-Con el 95.7% restante, así como con las participaciones a que se refiere la Fracción II del presente Articulo, se constituirán los fondos municipales que se mencionan en el Título Único de este Capítulo.
+El cálculo del coeficiente, tomará como base el crecimiento en el cumplimiento en el pago de los Impuestos Sobre Tenencia o Uso de Vehículos Automotores y el Impuesto Sobre Tenencia o Uso de vehículos Nuevos y de hasta 9 años Modelo Anterior.
+
+El Fondo derivado de las cuotas previstas en el Artículo 2°-A, fracción II de la ley del Impuesto Especial sobre Producción y Servicios, será distribuido dentro de los 30 días siguientes al mes en que éste sea recaudado.
+
+Para efectos de la Fracción III de este Artículo, el 50% del monto recaudado se participará a los Municipios en los términos de los fondos municipales establecidos en el Titulo Único de este Capítulo, en tanto que el 50 % restante constituirá el Fondo Especial para el Fortalecimiento de las Haciendas Municipales, que será distribuido a los Municipios en proporción inversa a los ingresos ordinarios que perciba en el ejercicio fiscal inmediato anterior de que se trate.
+
+Con el 4.3% de la recaudación de las participaciones e incentivos de las Fracciones I, IV, V y VI del presente Artículo, se constituirá el Fondo Resarcitorio, el cual se distribuirá a los Municipios en proporción inversa al porcentaje de población de cada uno de ellos, recurso que se destinará a obra pública y equipamiento.
+
+Con el 95.7% restante, así como con las participaciones a que se refiere la Fracción II del presente Artículo, se constituirán los fondos municipales que se mencionan en el Título Único de este Capítulo.
 
 ###### ARTICULO 4o.
 
@@ -382,3 +390,9 @@ El presente Decreto iniciará su vigencia el 31 de diciembre del año 2007.
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
