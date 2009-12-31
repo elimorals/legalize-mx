@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-60028"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,2986 +21,2192 @@ state: "HID"
 ---
 # LEY PARA LA PROTECCION AL AMBIENTE DEL ESTADO DE HIDALGO
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
+LEY PARA LA PROTECCION AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
-Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
+Ley publicada en el Alcance Uno del Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
-Alfonso García González,
+MIGUEL ÁNGEL OSORIO CHONG, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
 
-GOBERNADOR PROVISIONAL DEL ESTADO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
+QUE LA LIX LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
 
-QUE LA H. LEGISLATURA CONSTITUYENTE DEL ESTADO SE HA SERVIDO DIRIGIRME LA SIGUIENTE:
+DECRETO NÚM. 542
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+QUE CONTIENE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-## TITULO PRIMERO
+El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado Libre y Soberano de Hidalgo, D E C R E T A:
 
-### CAPITULO I.. DEL ESTADO Y SU TERRITORIO
+A N T E C E D E N T E S
 
-###### ARTICULO 1.
+.
 
-El Estado de Baja California es parte integrante e inseparable de la Federación constituida por los Estados Unidos Mexicanos.
+POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
-###### ARTICULO 2.
+DECRETO
 
-La porción de territorio nacional que corresponde al Estado, es la que le ha sido reconocida en la Constitución Política de los Estados Unidos Mexicanos.
+QUE CONTIENE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO.
 
-###### ARTICULO 3.
+# LIBRO PRIMERO. DE LA CONSERVACIÓN ECOLÓGICA Y PROTECCIÓN AL AMBIENTE
 
-La base de la división territorial y de la organización política y administrativa del Estado, es el Municipio Libre.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTICULO 4.
+### CAPÍTULO I. DEL OBJETO Y APLICACIÓN DE LA LEY
 
-El Estado es Libre y Soberano en todo lo concerniente a su régimen interior, sin más limitaciones que las que establece la Constitución Política de los Estados Unidos Mexicanos.
+###### Artículo 1.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
+Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto regular las acciones a cargo del Estado y los Municipios, en materia de conservación ecológica y protección al ambiente.
 
-### CAPITULO II.. DE LA SOBERANIA DEL ESTADO
+###### Artículo 2.
 
-###### ARTICULO 5.
+La presente Ley es de observancia obligatoria en el Territorio del Estado de Hidalgo y tiene como finalidad propiciar el desarrollo sustentable y establecer las bases para:
 
-Todo poder público dimana del pueblo y se instituye para beneficio de éste.
+I.- Garantizar el derecho de toda persona a vivir en un ambiente adecuado para su desarrollo, salud y bienestar;
 
-La renovación de los poderes Legislativo, Ejecutivo y de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas.
+II.- Participar el Estado y los Municipios que lo integran en materia de preservación, conservación, restauración del equilibrio ecológico y la protección al ambiente;
 
-La Ley determinará la duración de las campañas que no deberán exceder de noventa días cuando haya elección de gobernador, ni de sesenta días cuando sólo se elijan diputados y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales. En la propaganda política o electoral que difundan los partidos políticos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
+III.- Realizar el Ordenamiento Ecológico Territorial de la Entidad;
 
-Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes del estado, como de los municipios, entidades paraestatales, organismos constitucionales autónomos y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
+IV.- Proteger las áreas naturales de jurisdicción Estatal y Municipal, y el aprovechamiento racional de sus elementos naturales, de manera que sea compatible la obtención de beneficios económicos y las actividades de la sociedad con la preservación de los ecosistemas;
 
-La jornada electoral para elecciones ordinarias deberá celebrarse el primer domingo de julio del año que corresponda.
+V.- Prevenir y controlar la contaminación del aire, agua y suelo en el Estado en aquellos casos que no sea competencia de la Federación;
 
-La Ley establecerá los supuestos, condiciones y reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación.
+VI.- Establecer las medidas de control, de seguridad y las sanciones administrativas que correspondan para garantizar el cumplimiento y la aplicación de esta Ley y de las disposiciones que de ella se deriven;
 
-La Ley electoral establecerá las faltas y sanciones administrativas, que se deriven de su incumplimiento o inobservancia. El Código Penal tipificará los delitos electorales y las penas que se deriven.
+VII.- Regular la responsabilidad por daños al ambiente y establecer los mecanismos adecuados para garantizar la incorporación de los costos ambientales en los procesos productivos; y
 
-APARTADO A. Los partidos políticos:
+VIII.- Coordinar a las diversas Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, así como la participación correspondiente de la sociedad, en las materias que regule esta Ley y las disposiciones que de ella se deriven.
 
-Los partidos políticos son entidades de interés público. La Ley determinará las formas específicas de su intervención en el proceso electoral.
+###### Artículo 3.
 
-Los Partidos Políticos Nacionales tendrán derecho a participar en las elecciones estatales y municipales en los términos que establezca la Ley.
+En todo lo no previsto en la presente Ley y a falta de disposición expresa, se aplicarán en forma supletoria la Ley General del Equilibrio Ecológico y Protección al Ambiente, así como las demás disposiciones contenidas en otras Leyes, relacionadas con la materia que regula este ordenamiento.
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Corresponde exclusivamente a los partidos políticos el derecho para solicitar el registro de candidatos a cargos de elección popular.
+###### Artículo 4.
 
-Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la ley.
+Para los efectos de esta Ley, se entenderá a las definiciones de los siguientes conceptos:
 
-El acceso de los partidos políticos a los tiempos en radio y televisión se estará a lo previsto en la Constitución Política de los Estados Unidos Mexicanos y leyes aplicables. Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+I.- ALMACENAMIENTO: Acción de retener temporalmente residuos en tanto se procesan para su aprovechamiento o confinamiento final;
 
-Los partidos políticos de acuerdo a las disponibilidades presupuestales, recibirán en forma equitativa, financiamiento público permanente y de campaña electoral, para la realización de sus fines.
+II.- AMBIENTE: El conjunto de elementos naturales y artificiales o inducidos por el hombre, que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
 
-La Ley determinará los montos máximos a que se sujetarán las aportaciones de los simpatizantes de los partidos políticos, cuya suma total anual no excederá el diez por ciento del tope de gastos de campaña que se determine para la última campaña de gobernador actualizada en términos de Ley.
+III.- ÁREAS NATURALES PROTEGIDAS: Las zonas del territorio del Estado no consideradas como de interés de la Federación, en que los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas, y que han quedado sujetas al régimen de protección;
 
-La Ley establecerá los medios de justificación del gasto y los plazos o modalidades de las entregas, así como los procedimientos para la fiscalización del origen y aplicación de los recursos que ejerzan los partidos políticos en Baja California; igualmente señalará las bases bajo las cuales se determinarán los límites o topes a las erogaciones de los partidos políticos en sus precampañas y campañas electorales.
+IV.- APROVECHAMIENTO SUSTENTABLE: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos;
 
-El procedimiento para la liquidación de los partidos políticos estatales que pierdan su registro y el destino de sus bienes y remanentes, se hará en los términos que establezca la Ley.
+V.- AGUAS RESIDUALES: Las aguas provenientes de actividades domesticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana y que por el uso recibido tengan incorporados contaminantes, en detrimento de su calidad original;
 
-El incumplimiento de las normas que regulen la comprobación de ingresos, egresos, topes de gastos y aportaciones, así como la liquidación de los partidos políticos, serán sancionados en los términos que señale la Ley.
+VI.- AUDITORIA AMBIENTAL: Examen metodológico de las actividades, operaciones y procesos, respecto de la contaminación y el riesgo ambiental, así como del grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger los recursos naturales y el ambiente;
 
-APARTADO B. Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
+VII.- BIODIVERSIDAD: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, acuáticos y los complejos ecológicos de los que forman parte; comprendiendo la diversidad dentro de cada especie y en los ecosistemas;
 
-La organización de las elecciones estatales y municipales es una función pública que se realiza a través de un organismo público autónomo e independiente denominado Instituto Electoral y de Participación Ciudadana del Estado de Baja California, dotado de personalidad jurídica y patrimonio propio, a cuya integración concurren los ciudadanos y los partidos políticos, según lo disponga la Ley. En el ejercicio de esta función pública, serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
+VIII.- CENTRO DE VERIFICACIÓN VEHICULAR: La instalación fija, móvil o local establecida o autorizada por el Consejo, en el que se lleva a cabo la medición de las emisiones contaminantes provenientes de los vehículos automotores en circulación con equipo autorizado;
 
-El Instituto Electoral y de Participación Ciudadana podrá convenir con el Instituto Federal Electoral se haga cargo de la organización de los procesos electorales locales, cuando exista causa justificada para ello, y en los términos que disponga la Ley.
+IX.- CONSEJO: El Consejo Estatal de Ecología;
 
-El Instituto Electoral y de Participación Ciudadana agrupará para su desempeño, en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos y prerrogativas de los partidos políticos, impresión de materiales electorales, preparación de la Jornada Electoral, cómputos, otorgamiento de constancias de mayoría, y asignaciones por el principio de representación proporcional. Así como lo relativo a la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Además, tendrá a su cargo en los términos que señale esta Constitución y la Ley, la realización de los procesos de Plebiscito, y Referéndum.
+X.- CONTAMINACIÓN: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
 
-El Instituto Electoral y de Participación Ciudadana será autoridad en la materia, autónomo en su funcionamiento e independiente en sus decisiones y profesional en su desempeño; contará en su estructura con un órgano normativo, un órgano directivo, órganos operativos, de vigilancia, técnicos y una Contraloría General.
+XI.- CONTAMINANTE: Toda materia o energía en cualquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
-El órgano superior normativo, denominado Consejo General Electoral, se integrará por siete Consejeros Electorales electos por el Poder Legislativo, y representantes de los partidos políticos acreditados paritariamente, con voz pero sin voto, y un Secretario Fedatario nombrado mediante votación aprobatoria de las dos terceras partes de los integrantes del Consejo General Electoral a propuesta del Consejero Presidente.
+XII.- CONSERVACIÓN AMBIENTAL: Mantener los ecosistemas en forma tal que se resguarde su equilibrio ecológico, llevando a cabo acciones de preservación o bien de aprovechamiento sustentable;
 
-Los Consejeros Electorales del Consejo General Electoral durarán en su cargo tres años; pudiendo ser considerados para la designación de un período inmediato en términos de Ley; no podrán tener empleo, cargo o comisión en la Administración Pública, salvo las actividades académicas o docentes. La retribución que perciban será determinada en la Ley, igual impedimento es aplicable al titular del órgano directivo del Instituto Electoral y de Participación Ciudadana.
+XIII.- CONTAMINACIÓN VISUAL: Alteración de las cualidades de la imagen de un paisaje natural o urbano, causada por cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio;
 
-Los Consejeros Electorales designarán de entre ellos mismos, con la aprobación de las dos terceras partes de sus integrantes a quien fungirá como Consejero Presidente. En caso de que transcurridas tres rondas de votaciones ninguno de los Consejeros alcanzare la votación requerida, la elección se hará por mayoría simple de los Consejeros Electorales que integran el Consejo General Electoral. La renovación del Consejo General Electoral se realizará cada tres años, el Consejero Presidente durará en su encargo tres años pudiendo ser reelecto.
+XIV.- CONTINGENCIA AMBIENTAL: Situación de riesgo derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
 
-Los Consejeros Electorales del Consejo General Electoral no podrán ocupar cargos públicos de primer y segundo nivel en la Administración Pública Estatal o Municipal, sino transcurrido un año después de haberse separado del cargo.
+XV.- CULTURA ECOLÓGICA: Conjunto de conocimientos, hábitos y actitudes que mueven a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones o adquiridos por medio de la educación ambiental;
 
-El órgano directivo será la Dirección General del Instituto Electoral y de Participación Ciudadana, a cargo de un titular, quien será nombrado por el órgano superior normativo a propuesta del Consejero Presidente, con la aprobación de las dos terceras partes de sus integrantes, durará en su encargo cuatro años con la posibilidad de ser reelecto por una sola ocasión, mediante el procedimiento que señale la Ley; en el supuesto de que transcurridas dos rondas de votación, el aspirante propuesto no alcanzare la votación requerida, la designación se hará por mayoría simple del Consejo General Electoral en los términos que disponga la Ley. La Dirección General, contará con direcciones ejecutivas.
+XVI.- DAÑO AMBIENTAL: Toda pérdida, disminución, detrimento o menoscabo significativo inferido al ambiente o a uno o más de sus componentes;
 
-La Contraloría General contará con autonomía técnica y de gestión, y tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto, así como la imposición de sanciones en los términos que determine la Ley.
+XVII.- DESARROLLO SUSTENTABLE: El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tiende a mejorar la calidad de vida y productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección al ambiente y aprovechamiento de recursos naturales de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-El titular de la Contraloría General del Instituto será designado por el Congreso del Estado por mayoría calificada a propuesta de instituciones públicas de educación superior, centros de investigación, y colegios de profesionistas del ramo contable debidamente registrados, en la forma y términos que determine la ley; en el supuesto de que transcurridas dos rondas de votación, ninguno de los aspirantes propuestos alcanzare la votación requerida, la designación se hará por mayoría absoluta del Pleno del Congreso.
+XVIII.- DESEQUILIBRIO ECOLÓGICO: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-El Contralor durará cuatro años en el cargo y podrá ser reelecto por una sola vez. Estará adscrito administrativamente al Consejo General Electoral y mantendrá la coordinación técnica necesaria con el Órgano de Fiscalización Superior del Estado.
+XVIII.- DISPOSICIÓN FINAL: Acción de depositar permanentemente los residuos, en sitios y condiciones adecuadas para evitar daños al ambiente;
 
-La fiscalización de las finanzas de los partidos políticos estará a cargo de un órgano técnico del Consejo General Electoral del Instituto, dotado de autonomía de gestión, cuyo titular será designado por el voto de las dos terceras partes del propio Consejo a propuesta del Consejero Presidente, que deberá satisfacer los requisitos que señala la Ley. De igual forma la ley desarrollará los procedimientos para la aplicación de sanciones por el Consejo General Electoral en esta materia.
+XX.- ECOSISTEMA: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
-Los Consejos Distritales son órganos operativos del Instituto Electoral y de Participación Ciudadana, que se integrarán por cinco Consejeros Electorales Distritales nombrados por las dos terceras partes de los integrantes del órgano superior normativo del cual dependen; así como por representantes acreditados por los partidos políticos, con voz pero sin voto, en la forma que establezca la Ley y, un Secretario Fedatario nombrado mediante votación de las dos terceras partes de los Consejos Distritales a propuesta de cada uno de los Consejeros Presidentes, la Ley establecerá los requisitos que deberán reunir para su designación.
+XXI.- EQUILIBRIO ECOLÓGICO: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-Las Mesas Directivas de Casilla estarán integradas por ciudadanos. El órgano de vigilancia que determine la Ley se integrará mayoritariamente por representantes de los partidos políticos.
+XXII.- EDUCACIÓN AMBIENTAL: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
 
-Los órganos técnicos y el órgano directivo dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
+XXIII.- ELEMENTO NATURAL: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado, sin la inducción del hombre;
 
-La Ley determinará las reglas para la organización y funcionamiento de los órganos del Instituto Electoral y de Participación Ciudadana, así como las relaciones de mando entre éstos. Las relaciones de trabajo de los servidores del Instituto Electoral y de Participación Ciudadana del Estado de Baja California, se regirán por la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California.
+XXIV.- EMISIÓN: La descarga directa o indirecta a la atmósfera, de toda sustancia, en cualquiera de sus estados físicos, o de energía;
 
-Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la Ley.
+XXV.- ESTUDIO DE RIESGO: Documento mediante el cual se da a conocer, a partir del análisis de ciertas acciones proyectadas para el desarrollo de una obra o actividad, el daño que éstas representan para el equilibrio ecológico o el ambiente, así como las medidas técnicas de seguridad, preventivas y correctivas, tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución y operación normal de la obra o actividad de que se trate;
 
-La Ley fijará el régimen de responsabilidades a que estarán sujetos los servidores públicos del Instituto Electoral y de Participación Ciudadana; para estos efectos, se consideran servidores públicos del Instituto el Consejero Presidente, los Consejeros Electorales del Consejo General y de los Consejos Distritales, el Director General, el Contralor General, los directores de área, los jefes de departamento, los funcionarios y empleados, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto Electoral. Compete a la Contraloría General del Instituto Electoral, conocer de las responsabilidades administrativas que cometan los servidores públicos del Instituto, así como imponer las sanciones que disponga la Ley.
+XXVI.- FAUNA SILVESTRE: Las especies animales que subsisten sujetas a los procesos de selección natural, y que se desarrollan libremente, incluyendo las poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
 
-APARTADO C. Justicia Electoral.
+XXVII.- FLORA SILVESTRE: Las especies vegetales, así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan en el territorio estatal, incluyendo las poblaciones o especimenes de estas especies que se encuentran bajo control del hombre;
 
-Para garantizar el principio de legalidad de los actos y resoluciones electorales se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos de la fracción III del Artículo 68 de esta Constitución. Además, este sistema deberá observar la garantía de audiencia y los principios de publicidad, gratuidad, economía, prontitud y concentración procesal.
+XXVIII.- FUENTE FIJA: Es toda instalación establecida en un lugar determinado de forma permanente, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
 
-En materia electoral, la interposición de los medios de impugnación constitucionales y legales no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+XXIX.- FUENTE MÓVIL: Todo vehículo, ya sea tractocamiones, autobuses integrales, camiones, microbuses, automóviles, motocicletas, equipos y maquinarias no fijos, con motores de combustión y similares, que con motivo de su operación generen o puedan generar emisiones contaminantes a la atmósfera;
 
-### CAPITULO III.. DE LOS SIMBOLOS OFICIALES
+XXX.- GACETA ECOLÓGICA: Documento que tiene por objeto publicar las disposiciones jurídicas, Decretos, Reglamentos, Acuerdos y demás actos administrativos y la información de interés general de materia ambiental que emite el Consejo;
 
-###### ARTICULO 6.
+XXXI.- INFORME PREVENTIVO: Documento mediante el cual se dan a conocer los datos generales de una obra o actividad para efectos de determinar si requiere ser evaluada a través de una manifestación de impacto ambiental;
 
-La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en todo el Estado, pero éste tendrá además su propio escudo. No habrá otras banderas, otros himnos ni escudos de carácter oficial. El uso de los símbolos nacionales se sujetará a lo dispuesto por los ordenamientos federales.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MARZO DE 1992)</small>
+XXXI Bis.- INCINERACIÓN: Todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
 
-###### ARTICULO 7.
+XXXII.- IMPACTO AMBIENTAL: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
 
-El Estado de Baja California acata plenamente y asegura a todos sus habitantes las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, así como los demás derechos que otorga esta Constitución.
+XXXIII.- JARDINES HISTÓRICOS: Los constituyen las áreas cuyo material de la composición arquitectónica es esencialmente vegetal y por lo tanto, vivo, perecedero y renovable, que desde el punto de vista histórico o del arte, tiene un interés público;
 
-Se establecerá por medio de una Ley las Bases para la creación de la Procuraduría de los Derechos Humanos y Protección Ciudadana, como un organismo administrativo, autónomo de participación ciudadana para vigilar y exigir de los servidores públicos un actuar apegado a la legalidad y asegurar el respeto de los derechos humanos en la entidad, sus resoluciones consistirán en solicitarles fundando y motivando ante las autoridades competentes, la aplicación de las sanciones previstas en la Ley.
+XXXIV.- LEY: Ley para la Protección al Ambiente en el Estado de Hidalgo;
 
-La Ley garantizará al Procurador su independencia y autonomía en el desempeño de su cargo, asimismo determinará los procedimientos para su nombramiento, la duración del cargo, sus funciones y facultades así como las demás condiciones necesarias para garantizar su eficacia.
+XXXV.- LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá una función jurisdiccional por lo que carece de facultades para modificar por si misma las resoluciones de la autoridad ni suspender las actuaciones administrativas objeto de queja. Sus resoluciones consistirán en recomendaciones, proposiciones, solicitudes y recordatorios de plazos y deberes legales dirigidas a los servidores públicos.
+XXXVI.- MANIFESTACIÓN DE IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
-Toda persona tiene el derecho a la práctica del deporte, a la cultura física y a gozar de un medio ambiente adecuado para su desarrollo y bienestar. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
+XXXVII.- MEDIDAS DE PREVENCIÓN Y MITIGACIÓN: Conjunto de disposiciones y acciones anticipadas, que tienen por objeto evitar o reducir los impactos ambientales que pudieran ocurrir en cualquier etapa de desarrollo de una obra o actividad;
 
-Toda persona tiene derecho a acceder a la información que la ley atribuye el carácter de pública. La Ley de la materia deberá observar entre otros los principios de máxima publicidad y gratuidad, asimismo, deberá establecer los procedimientos para acceder a la información pública y señalar aquella que tenga el carácter de reservada o confidencial.
+XXXVIII.- NORMAS OFICIALES: Las Normas Oficiales Mexicanas; La regulación técnica de observancia obligatoria expedida por las dependencias competentes que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistemas, actividad, servicio o método de producción u operación, así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado y las que se refieran a su cumplimiento o aplicación;
 
-La Ley establecerá un organismo ciudadano con atribuciones de consulta, propuesta, promoción y difusión del acceso a la información pública. Sus titulares tendrán carácter honorífico.
+XXXIX.- NORMAS TÉCNICAS ECOLÓGICAS ESTATALES: Las reglas técnicas o parámetros científicos o tecnológicos emitidas por el Consejo Estatal de Ecología, en las que se establecen los requisitos, especificaciones, condiciones, procedimientos, parámetro y límites permisibles que deberán observarse en el desarrollo de las actividades o uso y destino de bienes que causen o puedan causar desequilibrio ecológico o daños al ambiente y además que permitan uniformar los principios, criterios y políticas en la materia;
 
-Las leyes señalarán aquellos casos en que los juicios serán predominantemente orales, así como su procedimiento.
+XL.- PARQUES ESTATALES: Los constituyen representaciones biogeográficas a nivel estatal, de uno o más ecosistemas que sean significativos por su belleza escénica, su valor científico, educativo, de recreo, histórico, por la existencia de flora y fauna silvestres, por su aptitud para el desarrollo del turismo, o bien por otras razones análogas de interés general en el Estado;
 
-Las personas tendrán derecho a acceder a los medios alternativos de justicia para resolver sus controversias, en la forma y términos establecidos por las leyes respectivas.
+XLI.- PARQUES URBANOS MUNICIPALES Ó JARDINES PÚBLICOS: Áreas de uso público, declaradas por los Municipios en los centros de población para mantener el equilibrio entre los elementos naturales y el desarrollo urbano o industrial; o bien, para el esparcimiento de la población, la protección de valores artísticos, históricos o de belleza natural, significativos para la localidad;
 
-## TITULO SEGUNDO
+XLII.- PRESTADOR DE SERVICIOS AMBIENTALES: Es la persona que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo, resultando responsable del contenido de los mismos;
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE ABRIL DE 2001)</small>
+XLIII.- PRESERVACIÓN ECOLÓGICA: El conjunto de políticas y medidas para mantener las condiciones que propician la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
 
-### CAPITULO IV.. DE LAS GARANTIAS INDIVIDUALES, SOCIALES Y DE LA PROTECCION DE LOS DERECHOS HUMANOS
+XLIV.- RESERVA ECOLÓGICA ESTATAL: Áreas biogeográficas relevantes a nivel estatal, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser preservados, restaurados, en los cuales se desarrollen especies representativas de la biodiversidad estatal, incluyendo a las consideradas endémicas, amenazadas, sujetas a protección especial o en peligro de extinción;
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+XLV.- RESIDUO: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
 
-###### ARTICULO 8.
+XLVI.- RESIDUOS PELIGROSOS: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, tóxicas, venenosas, reactivas, explosivas, inflamables, biológicas, infecciosas o irritantes, representan un peligro para el equilibrio ecológico o el ambiente;
 
-Son derechos de los habitantes del Estado:
+XLVII.- RESIDUOS DE MANEJO ESPECIAL: Son aquéllos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-I.- Si son mexicanos, los que conceda la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanan y la presente;
+XLVIII.- RESIDUOS SÓLIDOS URBANOS: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
-II.- Ejercer el derecho de petición de manera respetuosa y pacífica, teniendo la autoridad la obligación de contestar en breve término; en materia política sólo ejercerán este derecho los ciudadanos mexicanos;
+XLIX.- RESTAURACIÓN DEL EQUILIBRIO ECOLÓGICO: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-III.- Si son extranjeros, gozarán de las garantías individuales y sociales, así como de los derechos establecidos en la Constitución General de la República, la presente y en las disposiciones legales que de ellas emanen. En ningún caso los extranjeros gozarán de derechos políticos; y
+L.- RIESGO AMBIENTAL: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud humana, en los ecosistemas, o en los bienes y propiedades pertenecientes a los particulares;
 
-IV.- Si además de mexicanos, son ciudadanos tendrán los siguientes:
+LI.- RECICLAJE: Proceso de utilización de los residuos que hayan sido tratados y que se aplicarán a un nuevo proceso de transformación;
 
-a).- Votar en las elecciones para integrar los órganos de elección popular de la entidad;
+LII.- RECOLECCIÓN: Acción de transferir los residuos al equipo destinado a conducirlos a las instalaciones de almacenamiento, tratamiento o reciclaje, o a los sitios para su disposición final;
 
-b).- Participar en los términos de esta Constitución y de la Ley en los procesos de Plebiscito y Referéndum;
+LIII.- RECURSO NATURAL: Elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
-c).- Ser votados siempre que reúnan los requisitos que determina esta Constitución y las leyes;
+LIV.- REGLAMENTO: Reglamento de la Ley para la Protección al Ambiente del Estado de Hidalgo;
 
-d).- Desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando la persona reúna las condiciones que exija la Ley para cada caso; y
+LV.- RUIDO: Sonido audible indeseable que moleste o perjudique la salud de las personas. Se mide generalmente en decibeles y es una fuente de contaminación;
 
-e).- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado; así como al partido político de su preferencia o asociación de que se trate.
+LVI.- SECRETARÍA: Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos;
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
+LVII.- TRATAMIENTO: Acción de transformar los residuos para cambiar sus características;
 
-V.- En su condición de padres, deben ser asistidos en la forma que la Legislación lo disponga para la protección y cuidado de los hijos.
+LVIII.- VERIFICACIÓN VEHICULAR: Medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
+LIX.- ZONA DE AMORTIGUAMIENTO: Es el resto de área de la reserva que protege las zonas núcleo del impacto exterior;
 
-VI.- Si son personas menores de dieciocho años de edad, tendrán los siguientes derechos:
+LX.- ZONAS DE PRESERVACIÓN ECOLÓGICA: Áreas constituidas por los municipios en zonas circunvecinas a los centros de población, en las que exista uno o más ecosistemas en buen estado de conservación, destinado a preservar los elementos naturales, necesarios para el funcionamiento de los ecosistemas y el bienestar general;
 
-a) Vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad.
+LXI.- ZONA DE RESTAURACIÓN: Aquellas áreas que presenten procesos de degradación, desertificación o graves desequilibrios ecológicos;
 
-b) Que el Estado les garantice de manera subsidiaria la protección nutricional, estableciendo los apoyos y lineamientos necesarios a cargo de las instituciones públicas, en los términos que determine la ley.
+LXII.- ZONAS ECOLÓGICAS Y CULTURALES: Son aquéllas cuyo objetivo es el de proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otras áreas para la recreación, la cultura e identidad de los pueblos indígenas que se desarrollan en el Estado;
 
-c) Si son menores de doce años que hayan realizado una conducta prevista como delito en la Ley, sólo serán sujetos a rehabilitación y asistencia social.
+LXIII.- ZONA NÚCLEO: Son aquellas áreas mejor conservadas, o no alteradas, que alojen ecosistemas o recursos naturales de especial importancia y especies de flora y fauna; y
 
-d) Si son adolescentes que se encuentran entre doce años de edad y menores (sic) dieciocho años, sujetos a un procedimiento por la comisión de conductas tipificadas como delito, se observará la garantía del debido proceso legal en instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para ellos, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin su reintegración social y familiar, así como el pleno desarrollo de su persona y capacidades.
+LXIV.- ORDENAMIENTO ECOLÓGICO: Es el instrumento de política ambiental para regular o inducir el uso del suelo y las actividades productivas a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos, con el fin de lograr la protección del medio ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+### CAPÍTULO II. DE LAS AUTORIDADES
 
-### CAPITULO V.. DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES
+###### Artículo 5.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+Son Autoridades competentes para la aplicación de esta Ley:
 
-###### ARTICULO 9.
+I.- El titular del Poder Ejecutivo del Estado;
 
-Son obligaciones de los habitantes del Estado:
+II.- La Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos;
 
-I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución General de la República y en la presente.
+III.- El Consejo Estatal de Ecología; y
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+IV.- Los Ayuntamientos de los Municipios del Estado.
 
-II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución General de la República, las que señala la presente Constitución y las que establezca la Ley.
+El Estado y los Municipios ejercerán sus atribuciones en materia de aprovechamiento de los recursos naturales, de la preservación y restauración del equilibrio ecológico y la protección al ambiente, de conformidad con los Artículos 25 párrafo sexto, 73 fracción XXIX-G, 115 y 124 de la Constitución Política de los Estados Unidos Mexicanos, 84 de la Constitución Política del Estado de Hidalgo, a la distribución de competencias previstas en la Ley General, en ésta Ley, su Reglamento y en los ordenamientos legales sobre la materia.
 
-III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución General de la República, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado.
+### CAPÍTULO III. COORDINACIÓN DE LA FEDERACIÓN CON EL ESTADO Y SUS MUNICIPIOS
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
+###### Artículo 6.
 
-IV.- Sin son padres de familia, tienen la obligación de educar, proteger y alimentar a sus hijos, propiciando un ambiente familiar armónico y afectivo, que garantice su desarrollo integral.
+El Estado, podrá suscribir con la Federación, los Estados y Municipios, convenios o acuerdos de coordinación y colaboración administrativa, con el propósito de atender y resolver problemas ambientales comunes y ejercer sus atribuciones de acuerdo a las instancias que al efecto determinen, para que asuman las siguientes facultades:
 
-> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+I.- Administrar y vigilar las áreas naturales protegidas de competencia de la Federación, conforme a lo establecido en el programa de manejo respectivo y demás disposiciones del presente ordenamiento;
 
-V.- Cuidar y conservar el medio ambiente para mejorar las condiciones de vida de la población.
+II.- Evaluar el impacto ambiental de las obras o actividades a que se refiere el Artículo 30 de esta Ley y, en su caso, la expedición de las autorizaciones correspondientes, con excepción de las obras o actividades contenidas en la Ley General;
 
-###### ARTICULO 10.
+III.- Proteger y preservar del suelo, la flora y fauna silvestre, terrestre y los recursos forestales;
 
-Los derechos de ciudadanos se pierden y suspenden, respectivamente, en los casos previstos en los artículos 37 y 38 de la Constitución Política de los Estados Unidos Mexicanos.
+IV.- Realizar las acciones para la protección, preservación y restauración del equilibrio ecológico y la protección al ambiente en la zona Federal de los cuerpos de agua considerados como nacionales;
 
-###### ARTICULO 11.
+V.- Prevenir y controlar la contaminación de la atmósfera, proveniente de fuentes fijas y móviles de jurisdicción Federal;
 
-La forma de Gobierno del Estado es republicana, representativa y popular.
+VI.- Prevenir y controlar de la contaminación ambiental originada por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia Federal; y
 
-El Gobierno del Estado se divide, para su ejercicio, en tres poderes: el Legislativo, el Ejecutivo y el Judicial, los cuales actúan separada y libremente, pero cooperando en forma armónica a la realización de los fines del Estado.
+VII.- Realizar acciones operativas tendientes a cumplir con los fines previstos en este ordenamiento.
 
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
+###### Artículo 7.
 
-Corresponde al Gobierno del Estado la rectoría del desarrollo estatal, garantizando que éste sea integral y sustentable, asegurando de manera simultánea, el crecimiento económico, la equidad y la sustentabilidad ambiental.
+Compete al Consejo ejercer las funciones que se contengan en los convenios de coordinación que celebre el Estado con la Federación, siempre que se refieran a la aplicación y observancia de la Legislación en materia de protección al ambiente, así como con los Ayuntamientos en los asuntos de su competencia.
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
+Corresponde al Consejo emitir y vigilar el cumplimiento de las Normas Técnicas Ecológicas Estatales a que se refiere esta Ley.
 
-El Municipio es el orden de gobierno representativo de la voluntad de los ciudadanos.
+## TÍTULO SEGUNDO. POLÍTICA AMBIENTAL
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-Las relaciones entre el Municipio y el Gobierno del Estado, se conducirán por los principios de subsidiariedad y equidad, en los términos de esta Constitución, con el propósito de lograr el desarrollo social y humano tendientes a mejorar la calidad de vida de los habitantes del Estado.
+###### Artículo 8.
 
-###### ARTICULO 12.
+Para la formulación y conducción de la política ambiental y la aplicación de los instrumentos previstos en esta Ley, en materia de preservación, restauración, y protección del equilibrio ecológico y medio ambiente, el Ejecutivo de Estado, las Dependencias de la Administración Pública y los Ayuntamientos, así como los particulares observarán los principios y lineamientos siguientes:
 
-No pueden reunirse dos o más poderes en una sola persona o corporación ni depositarse el Legislativo en un sólo individuo.
+I.- Los ecosistemas son patrimonio común de la sociedad y de su equilibrio dependen la vida y las posibilidades productivas de la Entidad;
 
-###### ARTICULO 13.
+II.- Los ecosistemas y sus elementos deben ser aprovechados de manera que se asegure una productividad óptima y sostenida, compatible con su equilibrio e integridad y contemplando una distribución equitativa de sus beneficios;
 
-El ejercicio del Poder Legislativo se deposita en una Asamblea de representantes del pueblo, que se denomina Congreso del Estado.
+III.- Toda persona tiene derecho a disfrutar de un ambiente sano para su desarrollo, salud y bienestar. Las Autoridades en los términos de ésta y otras Leyes, tomarán las medidas para garantizar ese derecho;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+IV.- Las Autoridades en todos los niveles de Gobierno Estatal y Municipal, en forma conjunta con los particulares y con la sociedad organizada deben asumir la responsabilidad de la conservación y restauración del equilibrio ecológico y de la protección al ambiente;
 
-###### ARTICULO 14.
+V.- Quien realice obras o actividades que afecten o puedan afectar el ambiente, está obligado a prevenir, minimizar o reparar los daños que cause, así como a asumir los costos que dicha afectación implique reinvirtiendo los recursos en la propia restauración del daño. Así mismo, debe incentivarse a quien proteja el ambiente y aproveche de manera sustentable los recursos naturales;
 
-El Congreso del Estado estará integrado por Diputados que se elegirán cada tres años; electos mediante sufragio universal, libre, secreto, directo, personal e intransferible; dieciséis serán electos en forma directa mediante el principio de mayoría relativa, uno por cada Distrito Electoral en que se divida el territorio del Estado, y en su caso, hasta nueve Diputados electos por el principio de representación proporcional en una circunscripción estatal. Por cada Diputado Propietario se elegirá un Suplente.
+VI.- La responsabilidad respecto al equilibrio ecológico, comprende tanto las condiciones presentes como las que determinarán la calidad de la vida de las futuras generaciones;
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+VII.- La prevención de las causas que los generan, es el medio más eficaz para evitar los desequilibrios ecológicos;
 
-Todos los Diputados tendrán idéntica categoría e igualdad de obligaciones y gozarán de las mismas prerrogativas.
+VIII.- El aprovechamiento de los recursos naturales renovables debe realizarse de manera sustentable con tecnologías adecuadas para asegurar su diversidad y renovabilidad;
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+IX.- Los recursos naturales no renovables deben utilizarse de modo sustentable evitando su agotamiento, la generación de efectos ecológicos adversos y contemplando la utilización de tecnología adecuada que evite la contaminación;
 
-Los Diputados, como representantes del pueblo, podrán auxiliar a sus representados y a las comunidades del Estado en sus demandas sociales y de orden administrativo de interés general, a fin de lograr su oportuna solución, por lo que las autoridades administrativas del Estado y los Ayuntamientos deberán atender su intervención y ver por la oportuna resolución de sus promociones.
+X.- Los asentamientos humanos deben planearse contemplando los servicios necesarios para asegurar el equilibrio ecológico y la protección de las áreas naturales de reserva;
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+XI.- La coordinación entre los distintos niveles de gobierno y la concertación con la sociedad, son indispensables para la eficacia de las acciones ambientales;
 
-###### ARTICULO 15.
+XII.- El propósito de la concertación de acciones ecológicas es reorientar la relación entre la sociedad y la naturaleza;
 
-La asignación de los Diputados por el principio de representación proporcional que le correspondan a cada partido político o coalición, se hará de acuerdo con el procedimiento que se establezca en la Ley, y atendiendo lo siguiente:
+XIII.- En el ejercicio de las atribuciones que las Leyes confieren al Gobierno Estatal, para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los campos económico y social, se considerarán los criterios de aprovechamiento sustentable de los recursos naturales, preservación y restauración del equilibrio ecológico y la protección del ambiente;
 
-I.- Para que los partidos políticos o coaliciones tengan este derecho deberán:
+XIV.- La política ambiental del Estado deberá ser revisada periódicamente;
 
-a).- Participar con candidatos a Diputados por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales;
+XV.- Garantizar el derecho de las comunidades, incluyendo a los pueblos indígenas, a la protección, preservación, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda y uso de la biodiversidad, de acuerdo a lo que determine la presente Ley y otros ordenamientos aplicables;
 
-b).- Haber obtenido por lo menos el cuatro por ciento de la votación estatal emitida en la elección de Diputados por el principio de representación proporcional, y
+XVI.- La erradicación de la pobreza es necesaria para el proceso de desarrollo sustentable;
 
-c).- Haber obtenido el registro de la lista de candidatos a Diputados por el principio de representación proporcional;
+XVII.- Las mujeres cumplen una importante función en la protección, preservación y aprovechamiento sustentable de los recursos naturales y en el desarrollo. Su completa participación es esencial para impulsar el proceso de un desarrollo sustentable;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
+XVIII.- El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son elementos fundamentales para elevar la calidad de la vida de la población;
 
-II.- El Instituto Electoral y de Participación Ciudadana del Estado de Baja California una vez verificados los requisitos de la fracción anterior, asignará un Diputado a cada partido político o coalición que tenga derecho a ello.
+XIX.- Es interés del Gobierno del Estado de Hidalgo que las actividades que se llevan a cabo dentro de su territorio, no afecten el equilibrio ecológico de otros Estados o zona de jurisdicción Federal; y
 
-En caso de que el número de partidos políticos o coaliciones sea mayor que el de diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse;
+XX.- La educación es un medio para valorar la vida a través de la prevención del deterioro ambiental, preservación, restauración y el aprovechamiento sostenible de los ecosistemas y con ello evitar los desequilibrios ecológicos y daños ambientales.
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
+### CAPÍTULO II. INSTRUMENTOS DE POLÍTICA AMBIENTAL
 
-III.- Si después de asignadas las diputaciones señaladas en la fracción anterior, aún quedasen diputaciones por asignar, se otorgarán a los partidos políticos o coaliciones, en los siguientes términos:
+###### Artículo 9.
 
-a).- Se obtendrá el porcentaje de votación de los partidos políticos o coaliciones que reúnan los requisitos que señala la fracción I de este artículo, mediante el siguiente procedimiento:
+Para la formulación y conducción de la política ambiental Estatal y Municipal, se observarán y aplicarán los principios que al respecto prevén los Planes Nacional y Estatal de Desarrollo. Son instrumentos de política ambiental los siguientes:
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
+I.- Los Programas de Planeación Ambiental;
 
-1.- Realizará la sumatoria de los votos obtenidos por los partidos políticos o coaliciones, en la elección de Diputados por el principio de representacón (sic) proporcional, que reúnan los requisitos, y
+II.- El Ordenamiento Ecológico del Territorio;
 
-2.- La votación de cada partido se dividirá entre la sumatoria obtenida en el numeral anterior y se multiplicará por cien;
+III.- Los instrumentos económicos;
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
+IV.- Las Normas Técnicas Ecológicas Estatales;
 
-b).- Se procederá a multiplicar el porcentaje de la votación obtenido por los partidos políticos o coaliciones, en la elección de Diputados por el principio de representación proporcional de cada partido político o coalición, por veinticinco;
+V.- La evaluación del impacto ambiental;
 
-c).- Al resultado obtenido en el inciso anterior se le restarán las diputaciones obtenidas de mayoría y la asignada conforme a la fracción anterior;
+VI.- La autorregulación ambiental;
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
+VII.- La educación e investigación ambiental;
 
-d).- Se asignará una diputación de representación proporcional por cada número entero que se haya obtenido en la operación señalada en el inciso anterior, procediendo en estricto orden de prelación conforme al porcentaje obtenido, de cada partido político o coalición, en los términos del párrafo segundo de la fracción II de este artículo e inciso a) de esta fracción, y
+VIII.- Licencia Ambiental Estatal;
 
-e).- Hechas las asignaciones anteriores, si aún existieren diputaciones por asignar, éstas se otorgarán a los que conserven los restos mayores, una vez deducidas las que se asignaron en el inciso d) anterior;
+IX.- Sistema de Información Ambiental; y
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
+X.- Ecoguardas.
 
-IV.- Ningún partido político o coalición podrá tener más de dieciséis Diputados por ambos principios, y
+#### SECCIÓN PRIMERA. DE LOS PROGRAMAS DE PLANEACIÓN AMBIENTAL
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2008)</small>
+###### Artículo 10.
 
-V.- La asignación de los Diputados por el principio de representación proporcional que le corresponda a cada partido político o coalición, la hará el Instituto Electoral y de Participación Ciudadana del Estado de Baja California, en los términos que señale la Ley.
+El titular del Ejecutivo del Estado y los Ayuntamientos, deberán expedir y Publicar en el Periódico Oficial, sus respectivos programas de planeación y protección Alcance ambiental que tengan por objeto el aprovechamiento sustentable de los recursos naturales, la preservación y restauración del equilibrio ecológico y la protección al ambiente, acordes con el Plan Estatal de Desarrollo y con el Programa Nacional del Medio Ambiente y Recursos Naturales, en los que se considerarán los siguientes criterios:
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+I.- La política ambiental en el Estado se llevará a cabo con base en una estrategia preventiva que otorgue prioridad a la búsqueda del origen de los problemas ambientales;
 
-###### ARTICULO 16.
+II.- Deben considerarse las relaciones existentes entre el crecimiento y desarrollo económico y la generación de nuevas alternativas de ingreso, con la conservación del ambiente y el aprovechamiento sustentable de los recursos naturales, bajo esquemas de planificación a mediano y largo plazo;
 
-Los Diputados propietarios de la Legislatura del Estado no podrán ser reelectos para el período inmediato. Los Diputados suplentes podrán ser electos para el período inmediato con el carácter de propietario, siempre que no hubieren estado en ejercicio, pero los Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+III.- Los costos de producción de bienes y servicios deben considerar los relativos a la preservación y restauración de los ecosistemas;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+IV.- Se deben incorporar variables o parámetros ambientales para que éste sea integral y sustentable;
 
-###### ARTICULO 17.
+V.- Deberán tomar en cuenta los lineamientos y estrategias contenidas en los Ordenamientos Ecológicos Territoriales Regionales y Municipales;
 
-Para ser electo Diputado Propietario o Suplente, se requiere:
+VI.- En la determinación de los usos del suelo, se buscará lograr una diversidad y eficiencia de los mismos y se evitará el desarrollo de esquemas segregados o unifuncionales;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+VII.- En la determinación de las áreas para el crecimiento de los centros de población, se fomentará la mezcla de los usos habitacionales con los productivos que no representen riesgos o daños a la salud de la población o al ambiente y se evitará que se afecten áreas con alto valor ambiental;
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos e hijo de madre o padre mexicanos.
+VIII.- Se establecerán y manejarán en forma prioritaria las áreas de preservación ecológica en torno a los asentamientos humanos;
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+IX.- El aprovechamiento del agua para usos urbanos, deberá llevarse a cabo en forma sustentable considerando la afectación a la calidad del recurso y la cantidad que se utilice, previendo el uso de agua tratada en el riego de área verde y en los procesos industriales, comerciales y de servicio que lo permitan;
 
-Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo;
+X.- En la determinación de áreas riesgosas, se establecerán las zonas intermedias de salvaguarda en las que no se permitan los usos habitacionales, comerciales, u otros que pongan en riesgo a la población o al ambiente;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1979)</small>
+XI.- La política ambiental en los asentamientos humanos, requiere de una estrecha vinculación con la planeación urbana, los criterios ambientales y de sustentabilidad y con el diseño y construcción de la vivienda;
 
-II.- Tener 21 años cumplidos el día de la elección; y
+XII.- La política ambiental debe buscar la corrección de aquéllas alteraciones al medio ambiente que deterioren la calidad de vida de la población, y a la vez, prever las tendencias de crecimiento del asentamiento humano, orientándolo hacia zonas aptas para este uso, a fin de mantener una relación suficiente entre la base de recursos y la población, cuidando de los factores ecológicos y ambientales que son parte integrante de la calidad de vida; y
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+XIII.- En el proceso de creación, modificación y mejoramiento del medio ambiente, urbano y del hábitat, es indispensable fortalecer las previsiones de carácter ambiental, para proteger y mejorar la calidad de vida, asegurando la sustentabilidad.
 
-III.- Tener vecindad en el Estado con residencia efectiva, de por lo menos cinco años inmediatos anteriores al día de la elección.
+Para el cumplimiento de estos criterios deberá asegurarse la eficiente coordinación entre las diferentes dependencias que tengan competencia.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+###### Artículo 11.
 
-La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de partido político, por motivo de estudios o por causas ajenas a su voluntad, se tenga que residir fuera del territorio del Estado.
+Los programas de planeación ambiental deberán ser evaluados por el Consejo Estatal de Ecología y actualizados anualmente, su observancia es obligatoria para la Administración Pública del Estado y los Municipios. Su incumplimiento será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos.
 
-###### ARTICULO 18.
+###### Artículo 12.
 
-No pueden ser electos diputados:
+Los programas de planeación ambiental deberán favorecer el conocimiento y la modificación de los ciclos y sistemas ambientales en beneficio de la salud y calidad de vida de la población, compatibilizando el desarrollo económico y la protección de sus recursos naturales fundamentales.
 
-I.- El Gobernador del Estado, sea Provisional, Interino o Encargado del Despacho durante todo el período de su ejercicio, aún cuando se separe de su cargo;
+###### Artículo 13.
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+En el Estado, el desarrollo urbano deberá tomar en cuenta:
 
-II.- Los Magistrados y Jueces del Tribunal Superior de Justicia del Estado, el Secretario General de Gobierno, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes de la elección;
+I.- Las disposiciones que establece la presente Ley en materia de preservación del patrimonio natural y protección al ambiente;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2002)</small>
+II.- El cumplimiento de los ordenamientos ecológicos territoriales regionales y Municipales;
 
-III.- Los Diputados y Senadores del Congreso de la Unión durante el período para el que fueron electos, aun cuando se separen de sus cargos; con excepción de los suplentes siempre y cuando éstos no estuvieren ejerciendo el cargo;
+III.- El cuidado de la proporción que debe existir entre las áreas verdes y las edificaciones destinadas a la habitación, los servicios y en general otras actividades, siendo obligación de la Autoridad Estatal, Municipal y de los habitantes de los centros de población, la forestación y reforestación de los predios ubicados dentro del perímetro urbano;
 
-IV.- Los militares en servicio activo o las personas que tengan mando de policía, a menos que se separen de sus cargos noventa días antes de la elección;
+IV.- La conservación de las áreas forestales y agrícolas fértiles, evitando su fraccionamiento para fines de desarrollo urbano;
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2002)</small>
+V.- Las limitaciones para crear zonas habitacionales en torno a centros industriales;
 
-V.- Los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos durante el período para el que fueron electos, aun cuando se separen de sus cargos; con excepción de los suplentes siempre y cuando éstos no estuvieren ejerciendo el cargo;
+VI.- La integración de los inmuebles de alto valor histórico, arquitectónico y cultural con áreas verdes; y
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+VII.- La conservación de las áreas naturales protegidas existentes, evitando ocuparlas con obras o instalaciones que se contrapongan a su función.
 
-VI.- Quienes tengan cualquier empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, o Instituciones educativas públicas; salvo que se separen en forma provisional noventa días antes del día de la elección.
+#### SECCIÓN SEGUNDA. ORDENAMIENTO ECOLÓGICO DEL TERRITORIO
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+###### Artículo 14.
 
-VII.- Los ministros de cualquier culto religioso, a menos que se separen en los términos que establece la Ley de la materia.
+El ordenamiento ecológico del territorio deberá estar dirigido a planear, programar el uso de suelo, el manejo de los recursos naturales en el Territorio Estatal y las actividades productivas para preservar y restaurar el equilibrio ecológico y, proteger el ambiente tiene por objeto:
 
-###### ARTICULO 19.
+I.- Asegurar que el aprovechamiento de los elementos naturales se realice de manera integral y sustentable;
 
-El Congreso se renovará totalmente cada tres años y se instalará el día 1ro. de octubre posterior a la elección.
+II.- Ordenar la ubicación de las actividades productivas y de servicios de acuerdo con las características de cada ecosistema o región, así como de la condición socioeconómica de la población;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
+III.- Determinar los criterios de regulación ecológica para la preservación, protección, restauración y aprovechamiento sustentable de los recursos naturales; y
 
-###### ARTICULO 20.
+IV.- Favorecer los usos de suelo con menor impacto adverso ambiental y el mayor beneficio a la población, sobre cualquier otro uso que propicie la afectación masiva de los elementos naturales del territorio.
 
-El Instituto Electoral y de Participación Ciudadana del Estado de Baja California, de acuerdo con lo que establezca la Ley, otorgará las constancias de mayoría a las fórmulas de candidatos que la hayan obtenido y hará la asignación de Diputados por el principio de representación proporcional, de acuerdo con el procedimiento que para tal efecto establece el Artículo 15 de esta Constitución y la Ley.
+El ordenamiento ecológico del territorio será obligatorio en materia de usos de suelo y actividades productivas.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+###### Artículo 15.
 
-El otorgamiento de las constancias de mayoría y la asignación de Diputados de representación proporcional que se mencionan en el párrafo anterior, podrán ser impugnadas ante el Tribunal de Justicia Electoral, en los términos que señale la Ley.
+El ordenamiento ecológico del territorio se llevará a cabo a través de los siguientes programas:
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
+I.- Estatal:
 
-###### ARTICULO 21.
+II.- Regional; y
 
-El Congreso del Estado, por mayoría calificada de sus integrantes, designará a los Consejeros Electorales del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California. En el supuesto de que no se aprueben la totalidad de los nombramientos, y habiéndose agotado una segunda ronda de votación, la designación se hará por mayoría absoluta del Pleno del Congreso del Estado; la Ley establecerá la forma, términos y el procedimiento correspondiente, observando por lo menos, las siguientes bases:
+III.- Municipal.
 
-I.- Los consejeros electorales deberán satisfacer los requisitos que señala la Ley, y serán designados de las propuestas que resulten de la convocatoria pública que formule el Congreso del Estado;
+###### Artículo 16.
 
-II.- Las instituciones de educación superior y centros de investigación en el Estado, los organismos empresariales y de la sociedad civil, podrán proponer al Congreso del Estado candidatos a ocupar el cargo de Consejero Electoral del Consejo General Electoral;
+En la formulación y evaluación de los Programas de Ordenamiento Ecológico del Territorio, el Consejo promoverá la participación de los municipios, grupos, organizaciones sociales, empresarios, instituciones académicas de investigación y demás interesados; en su realización y de (sic) consideraran los siguientes criterios:
 
-III.- No podrán ser consejeros electorales del Consejo General Electoral, ni titular de los órganos de fiscalización del Instituto, quienes hayan sido registrados como candidatos a cargos de elección popular, representantes ante órganos electorales, o hayan ocupado cargos en órganos directivos o de decisión de algún partido político; así como los que hayan ocupado cargos de primer y segundo nivel en la Administración Pública Federal, Estatal o Municipal durante el año anterior al que deban ser electos, y
+I.- La naturaleza y características de cada ecosistema existente en el territorio estatal;
 
-IV.- Conforme a los mismos requisitos y procedimientos se designarán a los Consejeros Electorales Supernumerarios, en orden de prelación.
+II.- La vocación de cada zona o región del Estado, en función de los recursos naturales; la distribución de la población y las actividades económicas predominantes;
 
-La Ley fijará los requisitos y el procedimiento para la elección de los Consejeros Electorales que integren los Consejos Distritales Electorales.
+III.- Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales;
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+IV.- El impacto ambiental que puedan producir nuevas obras, asentamientos humanos, vías de comunicación y demás obras o actividades;
 
-###### ARTICULO 22.
+V.- El equilibrio que debe existir entre los asentamientos humanos y sus condiciones ambientales;
 
-El Congreso del Estado tendrá cada año de ejercicio constitucional, dos períodos de sesiones ordinarias que comprenderán del primero de octubre al último día de enero de cada año y del primero de abril al último día de julio; y períodos en los que funcionará la Comisión Permanente, los que abarcarán del primero de febrero al último día de marzo y del primero de agosto al último día de septiembre.
+VI.- La conservación y preservación de la naturaleza; y
 
-En el Primer Período Ordinario, antes de concluir el año, examinará, discutirá y aprobará el Presupuesto del Estado correspondiente al siguiente Ejercicio Fiscal, decretando las contribuciones y percepciones necesarias para cubrirlo e impondrá también las contribuciones y demás ingresos para cubrir las necesidades de los Municipios del Ejercicio Fiscal siguiente y determinará las bases, montos y plazos conforme a los cuales cubrirá la Federación sus participaciones a los propios Municipios.
+VII.- Las observaciones y propuestas formuladas por la ciudadanía.
 
-En el Segundo Período Ordinario, el Congreso se ocupará preferentemente del examen, discusión y aprobación de las Cuentas Públicas del año anterior, tanto del Estado como de los Municipios. En esta función el Congreso investigará si las cantidades gastadas están o no de acuerdo con las partidas respectivas del Presupuesto; comprobando la exactitud y justificación de los gastos hechos y determinará las responsabilidades que resultaren.
+###### Artículo 17.
 
-En ambos Períodos Ordinarios, la Legislatura del Estado estudiará y votará las iniciativas de Leyes o Decretos que se presenten y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
+Le corresponderán al Titular del Poder Ejecutivo del Estado expedir los Programas de Ordenamiento Ecológico Territorial Estatal y Regional y a los ayuntamientos expedir sus Programas de Ordenamiento Ecológico Territorial Municipal.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+###### Artículo 18.
 
-###### ARTICULO 23.
+Dichos programas deberán ser congruentes con el Ordenamiento Ecológico Nacional y Estatal según sea el caso, y serán elaborados por el Consejo, en el marco de los Sistemas Nacional y Estatal de Planeación.
 
-El Congreso solo podrá sesionar con la asistencia de mas de la mitad del número total de sus miembros.
+###### Artículo 19.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+Cuando una región ecológica se ubique en varios Municipios de la Entidad, el Ejecutivo del Estado y los Ayuntamientos respectivos, en el ámbito de sus competencias, podrán formular un ordenamiento ecológico regional para dicha zona; para el efecto se celebrará los Acuerdos o Convenios de Coordinación.
 
-###### ARTICULO 24.
+###### Artículo 20.
 
-Si el día señalado para la instalación del Congreso, no se presentaren todos los Diputados electos; o si una vez instalado no hubiere quórum para la celebración de las sesiones, los que estuvieren presentes compelerán a los ausentes, para que concurran a la próxima sesión, la que no deberá rebasar el término de cinco días a la fecha de la instalación o de la sesión, apercibiéndolos hasta en dos ocasiones, de que en caso de que dejaren de comparecer injustificadamente se llamará a los suplentes. Si estos incurrieren en la misma omisión, se declarará vacante el puesto, obligándose inmediatamente a convocar a elecciones extraordinarias, conforme a la Ley de la materia.
+Los Programas de Ordenamiento Ecológico Municipal, tendrán por objeto:
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+I.- Delimitar el área a ordenar, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales, y de las tecnologías utilizadas por sus habitantes del área de que se trate;
 
-###### ARTICULO 25.
+II.- Regular fuera de los centros de población el uso de suelo, con el propósito de proteger el ambiente y preservar, restaurar y aprovechar de manera sustentable los recursos naturales respectivos, fundamentalmente en la realización de actividades productivas y en la localización de los asentamientos humanos; y
 
-Las sesiones del Congreso serán públicas, a excepción de aquellas que, por la naturaleza de los negocios que van a tratarse, deban ser privadas.
+III.- Establecer los criterios de regulación ecológica para la protección, preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro y fuera de los centros de población, a fin de que sean considerados en los planes o programas de desarrollo urbano correspondientes.
 
-###### ARTICULO 26.
+###### Artículo 21.
 
-Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y jamás podrán ser reconvenidos por ellas.
+La formulación, evaluación y aprobación de los Programas de Ordenamiento Ecológico Municipal, se sujetará a las siguientes bases:
 
-###### ARTICULO 27.
+I.- Deberán mantener congruencia con los programas de ordenamiento Ecológico Regional y Estatal;
 
-Son facultades del Congreso:
+II.- Cubrirán la extensión geográfica del Municipio;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2001)</small>
+III.- Deberán ser congruentes con los planes o programas de desarrollo urbano;
 
-I.- Legislar sobre todos los ramos que sean de la competencia del Estado y reformar, abrogar y derogar las leyes y decretos que expidieren, así como participar en las reformas a esta Constitución, observando para el caso los requisitos establecidos;
+IV.- Deberán ser congruentes con la vocación del suelo, incluyendo a ejidos, comunidades y pequeñas propiedades;
 
-II.- Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como proponer la reforma o derogación de unas y de otras;
+V.- Cuando se pretenda la ampliación de un centro de población o la realización de proyectos de desarrollo urbano, se sujetará a lo que establezca el Programa de Ordenamiento Ecológico Estatal, Regional o Municipal;
 
-III.- Facultar al Ejecutivo con las limitaciones que crea necesarias, para que por sí o por apoderado especial, represente al Estado en los casos que corresponda;
+VI.- Cuando un programa de Ordenamiento Ecológico Municipal incluya un área natural protegida, competencia de la Federación, o parte de ella, el programa será elaborado y aprobado en forma conjunta con la Federación y el Estado;
 
-IV.- Fijar la división territorial, política, administrativa y judicial del Estado;
+VII.- En su elaboración, ejecución y evaluación se garantizará la participación de los particulares, organizaciones sociales, empresariales y demás interesados mediante mecanismos, procedimientos de difusión y consultas públicas; y
 
-V.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la Administración, así como aumentar o disminuir los emolumentos de que éstos gocen, teniendo en cuenta las condiciones de la Hacienda Pública y lo que disponga la Ley del Servicio Civil del Estado;
+###### Artículo 22.
 
-VI.- Dar las bases para que el Ejecutivo celebre empréstitos, con las limitaciones que establece la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar los contratos respectivos y reconocer y autorizar el pago de las deudas que contraiga el Estado;
+Corresponde a los Ayuntamientos la autorización, el control y la vigilancia de los usos del suelo establecidos en los Programas de Ordenamiento Ecológico Territorial Municipal.
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2008)</small>
+###### Artículo 23.
 
-VII.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo que hubiere hecho el Instituto Electoral y de Participación Ciudadana del Estado;
+Para la formulación, aprobación, expedición, y modificación de los programas de ordenamiento ecológico, se estará a lo que establezca la presente Ley, las demás Leyes aplicables y el Reglamento que al efecto se expida, así mismo se sujetarán a los siguientes lineamientos:
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2008)</small>
+I.- Una vez formulado el proyecto de ordenamiento ecológico de que se trate, la autoridad competente ordenará la publicación de una síntesis del mismo, para efectos del proceso de consulta pública;
 
-VIII.- Expedir el Bando Solemne para dar a conocer en el Municipio respectivo la declaración de munícipes electos que hubiere hecho el Instituto Electoral y de Participación Ciudadana del Estado;
+II.- El expediente que se integre con motivo del proceso de consulta de los proyectos de ordenamiento ecológico territorial correspondientes deberá estar a disposición del público; y
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+III.- Una vez realizado el proceso de consulta, consensado y concluido el programa de ordenamiento ecológico correspondiente, se ordenará la Publicación de este en el Periódico Oficial del Gobierno del Estado.
 
-IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga;
+#### SECCIÓN TERCERA. DE LOS INSTRUMENTOS ECONÓMICOS
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+###### Artículo 24.
 
-X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución;
+El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, diseñarán, desarrollarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+El Consejo promoverá ante las instancias correspondientes el otorgamiento de estímulos a las personas físicas y morales que realicen acciones para la protección, preservación o restauración del equilibrio ecológico.
 
-XI.- Aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado;
+###### Artículo 25.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2004)</small>
+Dichos instrumentos se crearán con la finalidad de generar recursos económicos para facilitar el cumplimiento de los objetivos de la Política Ambiental, establecida en el Plan Estatal de Desarrollo.
 
-XII.- Revisar, analizar, auditar y dictaminar por medio del Organo de Fiscalización Superior del Estado para su aprobación o desaprobación las cuentas públicas anuales del Gobierno del Estado, Municipios, Organismos e Instituciones Descentralizadas, Empresas de Participación Estatal, Fideicomisos, Organismos Públicos constitucionalmente autónomos y demás entidades que administren recursos públicos;
+#### SECCIÓN CUARTA. NORMAS TÉCNICAS ECOLÓGICAS ESTATALES
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2004)</small>
+###### Artículo 26.
 
-XIII.- Vigilar, coordinar y evaluar el funcionamiento del Órgano de Fiscalización Superior del Estado por medio de la Comisión que determine la Ley;
+Las Normas Técnicas Ecológicas Estatales son disposiciones de carácter obligatorio en el Estado, señalan su ámbito de validez y vigencia respecto de su aplicación y tiene por objeto:
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2004)</small>
+I.- Prevenir, reducir, mitigar y en su caso, compensar los efectos adversos o alteraciones que se pudieran ocasionar al ambiente y sus recursos mediante el establecimiento de requisitos, especificaciones, condiciones procedimientos, metas, parámetros y límites permisibles que deberán observarse en regiones, zonas, cuencas o ecosistemas, en aprovechamiento de recursos naturales, en el desarrollo de actividades económicas, en el uso y destino de bienes, en insumos y procesos;
 
-XIV.- Nombrar y remover al Auditor Superior de Fiscalización;
+II.- Considerar las condiciones necesarias para el bienestar de la población y la preservación o restauración de los recursos naturales y la protección al ambiente;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+III.- Inducir a los agentes económicos para reorientar sus procesos y tecnologías a la protección del ambiente y al desarrollo sustentable;
 
-XV.- Nombrar a los Magistrados Numerarios del Tribunal Superior de Justicia así como a sus respectivos Supernumerarios en orden de prelación, y resolver respecto a su ratificación o no ratificación. Nombrar a los Magistrados del Tribunal de Justicia Electoral y designar a los Consejeros Numerarios y Supernumerario (sic) de la Judicatura del Poder Judicial;
+IV.- Otorgar certidumbre a largo plazo a la inversión e inducir a los agentes económicos a asumir los costos de la afectación ambiental que ocasionen; y
 
-XVI.- Designar, en los términos que previene esta Constitución, al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas;
+V.- Fomentar actividades productivas en un marco de eficiencia y sustentabilidad.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+###### Artículo 27.
 
-XVII.- Convocar a elecciones, cuando fuere necesario conforme a lo establecido en la Ley;
+En la formulación de la Normas Técnicas no deberán contravenir las disposiciones de las Normas Oficiales vigentes, ni otras disposiciones legales aplicables. Asimismo, deberán referirse a materias que sean de competencia Estatal o en su caso Municipal.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 28.
 
-XVIII.- Resolver acerca de las licencias definitivas de los Diputados y del Gobernador; así como respecto a las renuncias y remociones, de los Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de Justicia Electoral, y de los Consejeros de la Judicatura designados por el Congreso;
+La formulación de las Normas Técnicas, corresponderá al Consejo a través de un Comité Técnico y, previo a su aprobación, deberán someterse a un proceso de consulta pública, por un periodo de treinta días hábiles; transcurrido el plazo sin que se haya emitido consideración alguna, se procederá a su expedición mediante decreto y publicación en los términos señalados en el Reglamento de esta Ley.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+El procedimiento para proponer, someter a consulta y formular Normas Técnicas, así como la integración y funcionamiento del Comité Técnico, se establecerá en el
 
-XIX.- Otorgar licencias a los Diputados y al Gobernador para separarse de sus cargos; y a los Magistrados del Poder Judicial cuando ésto sea por más de dos meses;
+Reglamento de la presente Ley.
 
-XX.- Aprobar o reprobar los convenios que el Gobrenador (sic) celebre con las vecinas Entidades de la Federación respecto a la cuestión de límites, y someter tales convenios a la ratificación del Congreso de la Unión;
+#### SECCIÓN QUINTA. DE LA EVALUACIÓN DEL IMPACTO AMBIENTAL
 
-XXI.- Cambiar provisionalmente, y por causa justificada, la residencia de los Poderes del Estado;
+###### Artículo 29.
 
-XXII.- Resolver las competencias y dirimir las controversias que se susciten entre el Ejecutivo y el Tribunal Superior salvo lo prevenido en los Artículos 76 Fracción VI y 105 de la Constitución General de la República;
+La evaluación del impacto ambiental es el procedimiento a través del cual se establecen las condiciones a que se sujetara la realización de las obras y actividades que pueden causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y restaurar y conservar los ecosistemas, a fin de evitar o reducir sus efectos negativos sobre el ambiente.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+La manifestación de impacto ambiental será autorizada por la Secretaria, conforme al procedimiento previsto en el Reglamento de esta Ley.
 
-XXIII.- Elegir a los tres Magistrados Numerarios del Tribunal de lo Contencioso Administrativo, así como a los dos Supernumerarios en orden del prelación, y resolver respecto a su reelección o no reelección, renuncias y remociones;
+###### Artículo 30.
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+Quienes pretendan llevar alguna de las siguientes obras o actividades, requerirán previamente la autorización en materia de impacto ambiental:
 
-XXIV.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 94 de esta Constitución.
+I.- Obras públicas y privadas destinadas a la prestación de servicios públicos de competencia Estatal y Municipal;
 
-Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra éstos se instauren;
+I.- Desarrollos habitacionales;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+III.- Desarrollos comerciales, turísticos, recreativos, deportivos, públicos y privados;
 
-XXV.- Erigirse en Jurado de Sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del Artículo 93 de esta Constitución;
+IV.- Industrias textil, alimenticia, agropecuaria, de transformación, automotriz, ferroviaria, del plástico, de la construcción, del vidrio, química, metal mecánica, del papel, explotación, extracción, transporte, procesamiento de materiales pétreos y sustancias minerales no reservadas a la Federación;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2008)</small>
+V.- Establecimientos de almacenamiento, comercialización, distribución y trasvaso de combustibles fósiles;
 
-XXVI.- Crear o suprimir municipios, fijar, delimitar y modificar la extensión de sus territorios, autorizar mediante Decreto los convenios amistosos que sobre sus respectivos límites celebren los municipios; así como dirimir de manera definitiva las controversias o diferencias que se susciten sobre límites territoriales intermunicipales, modificando en su caso el Estatuto Territorial. Lo previsto en esta fracción se sujetará, a la emisión del voto aprobatorio de las dos terceras partes de los Diputados integrantes del Congreso;
+VI.- Plantas de asfalto;
 
-XXVII.- Conceder amnistía por delitos de carácter político de la competencia de los tribunales del Estado, cuando la pena no exceda de tres años de prisión, no se trate de reincidentes y siempre que sea acordada por dos tercias partes de los diputados presentes;
+VII.- Almacenamiento y trasvaso de sustancias químicas;
 
-XXVIII.- Otorgar premios o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado;
+VIII.- Construcción y funcionamiento de hornos para la elaboración de piezas fabricadas con arcilla;
 
-XXIX.- Conceder pensiones a los familiares de quienes hayan prestado servicios eminentes al Estado, siempre que su situación económica lo justifique;
+IX.- Construcción y funcionamiento de rastros;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
+X.- Instalación y funcionamiento de crematorios;
 
-XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Concejos Municipales en los términos de esta Constitución y las Leyes respectivas;
+XI.- Construcción y operación de hospitales, laboratorios de análisis clínicos y veterinarias;
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
+XII.- Almacenamiento, uso, manejo o disposición de Iodos provenientes del tratamiento de aguas residuales;
 
-XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+XIII.- Reuso de agua residual tratada y no tratada;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 1998)</small>
+XIV.- Obras hidráulicas y vías de comunicación, de jurisdicción Estatal y Municipal incluidos los caminos y puentes;
 
-XXXII.- Nombrar al Procurador General de Justicia del Estado, por el voto de las dos terceras partes de sus integrantes, en los términos de esta Constitución;
+XV.- Plantaciones forestales, con fines comerciales menores a 20 hectáreas;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2001)</small>
+XVI.- Zonas, corredores y parques industriales de competencia Estatal;
 
-XXXIII.- Aprobar los convenios de asociación que celebren los municipios del Estado con los de otras entidades federativas que tengan por objeto la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, y (sic)
+XVII.- Construcción y operación de instalaciones y rellenos sanitarios para almacenar, seleccionar, tratar, procesar y disponer residuos sólidos urbanos y de manejo especial;
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+XVIII.- Transporte de residuos sólidos urbanos y de manejo especial generados en procesos industriales y de servicios;
 
-XXXIV.- Erigirse en Asamblea de Transición por medio de la Mesa Directiva de la Comisión Permanente, a fin de preparar y cumplir con el proceso de entrega recepción de una Legislatura a otra, en los términos que disponga la Ley;
+XIX.- Obras, actividades o aprovechamientos que pretendan realizarse dentro de las áreas naturales protegidas establecidas por las Autoridades del Estado de Hidalgo en los términos de la presente Ley;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2004)</small>
+XX.- Granjas agrícolas, acuícolas y actividades agropecuarias de competencia Estatal y Municipal;
 
-XXXV.- Elaborar y aprobar el Plan de Desarrollo Legislativo en los términos de esta Constitución y de lo que disponga la Ley;
+XXI.- Cualquiera que pueda causar impacto ambiental adverso y que por razón de la obra, actividad o aprovechamiento de que se trate, no estén reservadas a la Federación por el Artículo 28 de la Ley General y por su Reglamento en Materia de Impacto Ambiental;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2004)</small>
+XXII.- Instalaciones dedicadas al acopio, selección, venta de partes automotrices usadas y residuos de manejo especial;
 
-XXXVI.- Expedir el Reglamento Interior del Congreso y demás acuerdos que resulten necesarios para la adecuada organización administrativa del Congreso;
+XXIII.- Instalaciones dedicadas al acopio, almacenamiento selección y venta de Artículos de plástico, madera, cartón, vidrio y otros; y
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2004)</small>
+XXIV.- Así como aquellas obras o actividades que por acuerdos o convenios de colaboración o modificación al marco legal sean de competencia Estatal.
 
-XXXVII.- Citar a los Secretarios del ramo, Procurador de Justicia del Estado, Titulares o Administradores de los Organismos Descentralizados Estatales o de las empresas de participación estatal mayoritaria, así como al Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura y a los Titulares de los Órganos Constitucionales Autónomos, para que informen cuando se discute una Ley, se realice la Glosa del Informe que rindan el Titular del Ejecutivo del Estado o del Poder Judicial o cuando se estudie un asunto concerniente a sus respectivos ramos o actividades.
+El Reglamento de la presente Ley y los listados que para el efecto expida el Consejo determinarán los sectores y subsectores sujetos a la obtención de dicha autorización.
 
-Los funcionarios a que se refiere el párrafo anterior, estarán obligados a acudir a las sesiones correspondientes, y
+Cuando se trate de actividades que contemplen el manejo de combustibles o sustancias químicas, la manifestación deberá incluir el estudio de riesgo correspondiente.
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2004)</small>
+###### Artículo 31.
 
-XXXVIII.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, a los Poderes del Estado de Baja California.
+Para obtener la autorización de impacto ambiental, los interesados deberán presentar al Consejo un informe preventivo o una manifestación de impacto ambiental.
 
-###### ARTICULO 28.
+###### Artículo 32.
 
-La iniciativa de las leyes y decretos corresponde:
+La realización de las obras y actividades a que se refiere el Artículo 41 de esta Ley, requerirá la presentación de un informe preventivo, cuando:
 
-I.- A los diputados;
+I.- Existan normas técnicas ecológicas estatales u otras disposiciones que regulen las emisiones, las descargas, el aprovechamiento de recursos naturales y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades;
 
-II.- Al Gobernador;
+II.- Las obras o actividades de que se trate estén expresamente previstas en los planes de desarrollo urbano o programas de ordenamiento ecológico territorial aplicables, que hayan sido evaluados en materia del impacto; y
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+III.- Se instalen en zonas o parques industriales autorizados en materia ambiental.
 
-III.- Al Tribunal Superior en asuntos relacionados con la organización y funcionamiento de la administración de Justicia; así como al Tribunal de Justicia Electoral en asuntos inherentes a la materia electoral;
+###### Artículo 33.
 
-IV.- A los Ayuntamientos.
+Una vez analizando el informe preventivo, el Consejo, en un plazo no mayor de quince días hábiles, notificará al promovente:
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2008)</small>
+I.- Que se encuentra en los supuestos previstos en el Artículo 34 de este (sic) Ley; y
 
-V.- Al Instituto Electoral y de Participación Ciudadana del Estado de Baja California, exclusivamente en materia electoral; y
+II.- Que se requiere de la presentación de una manifestación de impacto ambiental.
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+###### Artículo 34.
 
-VI.- A los ciudadanos residentes en el Estado, en los términos que establezca la Ley.
+Una vez presentada la manifestación de impacto ambiental, se iniciará el procedimiento de evaluación, para lo cual se revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su Reglamento, las Normas Oficiales, Normas Técnicas aplicables; y se integrará el expediente respectivo en un plazo no mayor de cuarenta y cinco días hábiles.
 
-###### ARTICULO 29.
+El Consejo podrá solicitar aclaraciones, rectificaciones o información adicional al contenido de la manifestación de impacto ambiental, suspendiéndose el término que restare para concluir el procedimiento. En ningún caso la suspensión podrá exceder de ese plazo, contados a partir de que ésta sea declarada por el Consejo.
 
-Las iniciativas de ley o decreto deberán sujetarse a los trámites siguientes:
+###### Artículo 35.
 
-I.- Dictamen de Comisiones;
+Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad el Consejo requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por diez días hábiles siempre que se justifique conforme a lo dispuesto en el Reglamento de la presente Ley.
 
-II.- Discusión;
+###### Artículo 36.
 
-III.- Votación.
+Una vez evaluada la manifestación de impacto ambiental, la Secretaría en un término de diez días hábiles emitirá debidamente fundada y motivada, la resolución correspondiente en la que podrá:
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DEL 2001)</small>
+I.- Autorizar la realización de la obra o actividad de que se trate, en los términos solicitados;
 
-###### ARTICULO 30.
+II.- Autorizar de manera condicionada la obra o actividad de que se trate, a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la preparación del sitio, construcción, operación y abandono de la obra. Cuando se trate de autorizaciones condicionadas, la Secretaría señalará los requerimientos que deban observarse en la realización de la obra o actividad prevista, o
 
-Las comisiones de dictamen legislativo anunciarán al Ejecutivo del Estado, cuando menos con cinco días de anticipación, la fecha de la sesión cuando haya de discutirse un proyecto, a fin de que pueda enviar un representante que, sin voto tome parte en los trabajos.
+III.- Negar la autorización solicitada, cuando:
 
-El mismo procedimiento se seguirá con:
+a).- Se contravenga lo establecido en esta Ley, sus Reglamentos, las Normas Oficiales, Normas Técnicas y demás disposiciones aplicables;
 
-I.- El Poder Judicial, cuando la iniciativa se refiere a asuntos relativos a la organización, funcionamiento y competencia del ramo de la Administración de Justicia; y
+b).- La obra o actividad de que se trate pueda propiciar que una o más especies declaradas en peligro de extinción o cuando se afecté a una de dichas especies,
 
-II.- Los ayuntamientos, cuando la Iniciativa se refiera a los asuntos de carácter municipal, en los términos de esta Constitución.
+c).- Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate.
 
-###### ARTICULO 31.
+El Consejo podrá exigir el otorgamiento de seguros o garantías respecto del cumplimiento de las condiciones establecidas en la autorización, cuando durante la realización de las obras puedan producirse daños a los ecosistemas.
 
-En los casos de urgencia notoria calificada por mayoría de votos, de los diputados presentes, el Congreso puede dispensar los trámites reglamentarios para la aprobación de las leyes y decretos.
+La resolución de la Secretaría solo se referirá a los aspectos ambientales de las obras y actividades de que se trate.
 
-###### ARTICULO 32.
+Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
 
-Desechada una iniciativa no podrá volver a presentarse en el mismo período de sesiones.
+#### SECCIÓN SEXTA. RIESGO AMBIENTAL
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+###### Artículo 37.
 
-En la reforma, derogación o abrogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
+El Reglamento de esta Ley y los listados que para el efecto se emitan, establecerá la clasificación de las Actividades que deban considerarse riesgosas en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, de los materiales, sustancias o combustibles que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento.
 
-###### ARTICULO 33.
+Aquellas actividades que sean clasificadas altamente riesgosas y que sean competencia de la Federación quedan exentas de este cumplimiento.
 
-Las iniciativas adquirirán el carácter de ley cuando sean aprobadas por el Congreso y promulgadas por el Ejecutivo.
+###### Artículo 38.
 
-Si la ley no fija el día en que deba comenzar a observarse, será obligatoria en todo el Estado tres días después de la fecha de su publicación en el Periódico Oficial del Estado.
+Quienes realicen actividades riesgosas, que por sus características no estén sujetas a la obtención de la autorización previa en materia de impacto ambiental deberán presentar un estudio de riesgo.
 
-###### ARTICULO 34.
+Una vez presentado el estudio de riesgo y el programa de prevención de accidentes, se deberá resolver sobre su autorización en los plazos que establezca el Reglamento.
 
-Si el Ejecutivo juzga conveniente hacer observaciones a un proyecto aprobado por el Congreso, podrá negarle su sanción y devolverlo con sus observaciones a éste Poder dentro de los ocho días siguientes a aquel en que se le haga saber, para que tomadas en consideración, se examine y discuta de nuevo.
+###### Artículo 39.
 
-En casos urgentes a juicio del Congreso el término de que se trata será de tres días y así se hará saber al Ejecutivo.
+Sin perjuicio de lo dispuesto en la presente Ley en materia de estudios de riesgo, las personas que realicen actividades riesgosas no reservadas a la Federación, deberán observar las medidas preventivas, de control y correctivas, establecidas en las Normas Oficiales o determinadas por las Autoridades competentes conforme a la Ley de Protección Civil para el Estado de Hidalgo y las demás disposiciones aplicables, para prevenir y controlar accidentes que puedan afectar la integridad de las personas o del ambiente.
 
-Se reputará aprobado por el Ejecutivo todo proyecto que no se devuelva con observaciones al Congreso dentro de los mencionados términos, a no ser que, corriendo éstos hubiere cerrado o suspendido sus sesiones el Legislativo, en cuyo caso, la devolución deberá hacerse el primer día hábil que siga al de la reanudación de las sesiones.
+###### Artículo 40.
 
-El proyecto de ley a que se hubieren hecho observaciones, será sancionado y publicado si el Congreso vuelve a aprobarlo por dos tercios del número total de sus miembros.
+Para evitar o reducir los riesgos ambientales con motivo de la realización de actividades riesgosas, corresponde al Consejo:
 
-Todo proyecto de ley al que no hubiere hecho observaciones el Ejecutivo dentro del término que establece este artículo, debe ser publicado en un plazo de quince días, como máximo, a contar de la fecha en que le haya sido remitido.
+I.- Evaluar y, en su caso aprobar, los estudios de riesgo ambiental y programa de atención a contingencias ambientales;
 
-Los proyectos de ley que hubieren sido objetados por el Ejecutivo, conforme a esta Constitución, y que hayan sido ratificados por el Congreso, deberán ser promulgados en un término que no exceda de cinco días, a contar de la fecha en que hayan sido remitidos nuevamente al Ejecutivo.
+II.- Establecer condiciones de operación y requerir la instalación de equipos o sistemas de seguridad;
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2002)</small>
+III.- Promover ante los responsables de la realización de las actividades riesgosas, la aplicación de la mejor tecnología disponible para evitar y minimizar los riesgos ambientales; y
 
-Las leyes, ordenamientos y disposiciones de observancia general que hayan sido aprobados por el Congreso del Estado y sancionadas por el Ejecutivo deberán ser publicados en el Periódico Oficial del Estado.
+IV.- Tomar las medidas preventivas necesarias para evitar contingencias ambientales.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2002)</small>
+###### Artículo 41.
 
-Si los reglamentos, circulares y demás disposiciones de observancia general, no fijan el día en que deben comenzar a observarse, serán obligatorias tres días después de su publicación en el Periódico Oficial del Estado.
+Los Municipios propondrán que en la determinación de los usos del suelo se especifiquen las zonas en las que se permita el establecimiento de industrias, comercios o servicios que de conformidad con esta ley o con la Ley General sean considerados riesgosas o altamente riesgosas, por la gravedad de los efectos que puedan generar en los ecosistemas o en el ambiente, tomando en consideración:
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+I.- Las condiciones topográficas, meteorológicas, climatológicas, geológicas y sísmicas de las zonas;
 
-Los asuntos que sean materia de acuerdo económico, se sujetarán a los trámites que fije la Ley.
+II.- Su ubicación y proximidad a centros de población, previniendo las tendencias de expansión del respectivo asentamiento y la creación de nuevos asentamientos;
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+III.- Los impactos que tendrá un posible evento extraordinario de la industria, comercio o servicio de que se trate sobre los centros de población y sobre los recursos naturales;
 
-Las leyes que expida el Congreso del Estado, excepto las de índole tributario o fiscal, podrán ser sometidas a Referéndum, conforme lo disponga la Ley.
+IV.- La compatibilidad con otras actividades de las zonas;
 
-(ADICIONADO, P.O. 30 DE ENERO DE 2004) (F. DE E., P.O. 9 DE ABRIL DE 2004)
+V.- La infraestructura existente y necesaria para la atención de emergencias ecológicas; y
 
-Los proyectos de Ley y los decretos aprobados por el Congreso, se remitirán al Ejecutivo firmados por el Presidente y el Secretario del Congreso.
+VI.- La infraestructura para la dotación de servicios básicos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 42.
 
-El Gobernador del Estado no podrá hacer observaciones sobre los decretos que manden abrir o cerrar sesiones del Congreso, los emitidos por éste cuando actúe en funciones de Jurado de Sentencia y las reformas constitucionales aprobadas en los términos del artículo 112 de esta Constitución.
+El Consejo promoverá ante las Autoridades Locales competentes, que en los planes o programas de desarrollo urbano se establezca; que en las zonas donde se lleven a cabo actividades riesgosas no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+#### SECCIÓN SÉPTIMA. AUTORREGULACIÓN AMBIENTAL
 
-###### ARTICULO 35.
+###### Artículo 43.
 
-Cuando en esta Constitución o en la Ley, se señale que una atribución que ejerza el Congreso del Estado debe ser aprobada por mayoría calificada o por dos terceras partes de sus integrantes, se entenderá que se requieren por lo menos diecisiete votos de los Diputados.
+Los productores, empresas u organizaciones empresariales que cumplan con la normatividad vigente en materia ambiental podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ecológico y se comprometan a cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+El Consejo, en el ámbito de su competencia, concertará e inducirá:
 
-###### ARTICULO 36.
+I.- El establecimiento y aplicación de sistemas de gestión ambiental en las empresas, así como su corresponsabilidad para el cumplimiento de objetivos sociales y ambientales en la Entidad;
 
-La Comisión Permanente es el órgano del Congreso del Estado que, fuera de los períodos ordinarios, desempeña las funciones que le señala la Constitución Política del Estado.
+II.- Convenios con cámaras o asociaciones industriales, de servicios u otras actividades productivas, organizaciones de productores o representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas en el desarrollo de procesos productivos adecuados y compatibles con la prevención del ambiente;
 
-La Comisión Permanente se compone de cinco miembros, quienes serán designados mediante el voto de la mayoría de los Diputados presentes, en los términos en que lo disponga la Ley.
+III.- El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental que sean menos estrictas que las Normas Oficiales o que se refieran a aspectos no previstos por éstas. Para tal efecto, el Consejo podrá promover el establecimiento de Normas Técnicas;
 
-La Comisión Permanente podrá convocar a períodos extraordinarios de sesiones de la Cámara de Diputados; sin embargo, no suspenderá sus trabajos durante dichos períodos. En tal circunstancia, el Pleno, solo se ocupará del asunto o asuntos que la propia Comisión sometiese a su conocimiento, los cuales se expresarán en la convocatoria respectiva.
+IV.- La elaboración de sistemas de certificación de procesos o productos para inducir patrones de consumo que sean compatibles o que preserven, mejoren o restauren el medio ambiente, debiendo observar las Normas y criterios ambientales Estatales; y
 
-La Comisión podrá conceder las licencias y permisos de la competencia del Congreso, siempre y cuando no sean de aquéllas que se regulan en los párrafos siguientes.
+V.- Las demás acciones que induzcan a las empresas a alcanzar objetivos de política ambiental superiores a los previstos en la normatividad ambiental establecida.
 
-Tratándose de las faltas absolutas o temporales del Ejecutivo del Estado durante el período en que esté en funciones la Comisión Permanente, ésta convocará de inmediato al Pleno a un período extraordinario de sesiones, para el efecto de que procedan en los términos que prevé esta Constitución. La convocatoria no podrá ser vetada por el Gobernador provisional.
+###### Artículo 44.
 
-Si el Congreso del Estado, se encuentra reunido en un período extraordinario de sesiones y ocurre la falta absoluta o temporal del Gobernador del Estado, la Comisión Permanente, de inmediato, ampliará el objeto de la convocatoria a fin de que el Congreso esté en aptitud de nombrar al Gobernador interino o sustituto, según proceda.
+Una vez que se ha solicitado la autorregulación y siempre que lo solicite el interesado, mediante el llenado de un cuestionario y la presentación de los documentos requeridos al efecto, podrá solicitar la realización de una visita de inspección voluntaria a la empresa.
 
-La Mesa Directiva de la Comisión Permanente, se integrará por un Presidente y un Secretario, quienes tendrán las atribuciones que disponga la Ley.
+Integrado el expediente, se revisará la información y documentación aportada, así como el resultado de la inspección realizada y de ser procedente emitirá un certificado.
 
-Llevada a cabo la elección de la Mesa Directiva, los electos tomarán posesión de sus cargos y el Presidente de la Mesa procederá a declarar instalada la Comisión Permanente.
+###### Artículo 45.
 
-Las sesiones de la Comisión Permanente se efectuarán en la forma y términos que disponga la Ley.
+Las personas físicas o morales podrán solicitar al Consejo la expedición de un certificado para acreditar que sus actividades son compatibles con la protección al ambiente, previo el análisis correspondiente.
 
-La elección de la Mesa Directiva se comunicará al Titular del Ejecutivo del Estado y al Tribunal Superior de Justicia del Estado, a la Cámara de Diputados Federal y la de Senadores, así como a los Órganos Legislativos de los Estados y del Distrito Federal.
+###### Artículo 46.
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2004)</small>
+Sin perjuicio de lo dispuesto en los Artículos precedentes, el Consejo podrá en todo momento, de oficio o a petición fundada y motivada de cualquier interesado, ordenar la realización de visitas de inspección para cerciorarse del cumplimiento de las disposiciones de la presente Ley.
 
-###### ARTICULO 37.
+El certificado solo tiene efectos declarativos y tendrá una vigencia de dos años, a partir de la fecha de su expedición.
 
-El Congreso del Estado contará con un órgano de fiscalización denominado Órgano de Fiscalización Superior, de carácter técnico y con autonomía de gestión en el ejercicio de sus atribuciones para decidir sobre su organización, recursos, funcionamiento y resoluciones.
+#### SECCIÓN OCTAVA. LICENCIA AMBIENTAL ESTATAL
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 2004)</small>
+###### Artículo 47.
 
-El Órgano Superior de Fiscalización Superior será administrado y dirigido por un Auditor Superior de Fiscalización, quien actuará con plena independencia e imparcialidad y responderá solo al mandato de la Ley.
+La Licencia Ambiental Estatal es el documento por el cual se concentran diversas obligaciones ambientales de los responsables de industrias y servicios que están sujetos a las disposiciones de esta Ley, mediante la tramitación de un solo procedimiento que ampare los permisos y autorizaciones referidos en la normatividad ambiental.
 
-Será designado por mayoría calificada del Congreso del Estado y podrá ser removido en los mismos términos de su elección.
+###### Artículo 48.
 
-Para ser Auditor Superior de Fiscalización se requiere además de los requisitos establecidos en las fracciones I, II, V, VI, VII del artículo 60 de esta Constitución, poseer Título Profesional de Contador Público, Licenciado en Derecho o profesión afín, así como tener reconocido prestigio profesional, capacidad y experiencia técnica. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los remunerados en asociaciones científicas, docentes, artísticas o de beneficiencia (sic).
+Para obtener la Licencia Ambiental Estatal, los responsables de las industrias y servicios deberán presentar al Consejo, la solicitud correspondiente acompañada de la siguiente información:
 
-> <small>(F. DE E., P.O. 9 DE ABRIL DE 2004)</small>
+I.- Datos generales del solicitante;
 
-El Auditor Superior de Fiscalización, no podrá desempeñar cargo alguno en los poderes o entidades fiscalizados durante los dos años siguientes a la terminación de su gestión.
+II.- Ubicación de la industria o servicio;
 
-El Órgano de Fiscalización Superior, tendrá las atribuciones siguientes:
+III.- Descripción del proceso;
 
-I.- Fiscalizar la administración, manejo, custodia y aplicación de fondos, subsidios y recursos de los poderes del Estado y de las entidades públicas estatales, incluyendo a los municipios, organismos dotados de autonomía y particulares, cuando manejen recursos de origen público, que incluirá auditoría de desempeño, eficiencia, economía, legalidad y cumplimiento;
+IV.- Distribución de maquinaria y equipo;
 
-II.- Entregar el informe de resultado de la revisión de la Cuenta Pública al Congreso del Estado dentro de los plazos que establece la Ley. Dentro de dicho informe se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los planes y programas respectivos, que comprenderá los comentarios y observaciones de los auditados, mismo que tendrá carácter público.
+V.- Cantidad y tipo de materias primas o combustibles que se utilicen en su proceso y forma de almacenamiento;
 
-El Órgano de Fiscalización Superior deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+VI.- Transporte de materias primas o combustibles al área de proceso;
 
-III.- Dar a conocer al Congreso del Estado los actos u omisiones en que se presuma alguna irregularidad o conducta ilícita en la administración, manejo, custodia y aplicación de fondos y recursos públicos;
+VII.- Transformación de materias primas o combustibles;
 
-IV.- Efectuar visitas domiciliarias en los términos que señale la Ley;
+VIII.- Productos, subproductos y residuos que se generen;
 
-V.- Proponer las bases para la determinación de daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal, o al Patrimonio de las Entidades Públicas Estatales y Municipales; así como para las indemnizaciones y sanciones pecuniarias correspondientes a los responsables, haciéndolo del conocimiento del Congreso quien procederá conforme a la Ley.
+IX.- Los anexos, estudios, análisis y planes de manejo que de acuerdo con la actividad del establecimiento, se deban presentar:
 
-La Ley determinará el procedimiento para la designación del Auditor Superior de Fiscalización. Dicho titular durará en su encargo cuatro años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la Ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Octavo de esta Constitución.
+a).- Emisiones a la atmósfera;
 
-Los poderes del Estado y los sujetos de fiscalización proporcionarán auxilio al Órgano de Fiscalización Superior para el ejercicio de sus funciones.
+b).- Descarga de aguas residuales;
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+c).- Generación y disposición de residuos de manejo especial, sólidos urbanos y los peligrosos generados por micro-generadores;
 
-###### ARTICULO 38.
+d).- Generación de ruido y vibraciones; y
 
-El Plan de Desarrollo Legislativo se aprobará en el segundo período de sesiones del inicio de una Legislatura y deberá contener la Agenda Legislativa Básica, la cual se elaborará bajo los principios de economía funcional, eficiencia y democrático.
+e).- Registro de emisiones y transferencia de contaminantes.
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+X.- Almacenamiento, transporte y distribución de productos y subproductos;
 
-###### ARTICULO 39.
+XI.- Cantidad y naturaleza de los contaminantes a la atmósfera esperados;
 
-El Plan de Desarrollo Legislativo se elaborará, controlará y coordinará conforme a los procedimientos y plazos que establezca la Ley.
+XII.- Equipos para el control de la contaminación que vayan a utilizarse; y
 
-El Plan de Desarrollo Legislativo, se elaborará sin perjuicio del derecho contenido en el Artículo 28 de esta Constitución.
+XIII.- Programas de acciones para el caso de contingencias atmosféricas, que contenga las medidas y acciones que se llevarán a cabo cuando las condiciones meteorológicas de la región sean desfavorables, o cuando se presenten emisiones de contaminantes extraordinarias no controladas.
 
-###### ARTICULO 40.
+###### Artículo 49.
 
-El Ejercicio del Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador del Estado.
+La información a que se refiere el Artículo anterior deberá presentarse en el formato que determine el Consejo, quien podrá requerir la información adicional que considere necesaria y verificar en cualquier momento la veracidad de la misma.
 
-El Gobernador del Estado conducirá la Administración Pública Estatal, que será Centralizada y Paraestatal, conforme a la Ley Orgánica que expida el Congreso, que distribuirá los asuntos del orden administrativo del Gobierno del Estado, que estarán a cargo de la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, la Procuraduría General de Justicia, las Secretarías y las Direcciones del Ramo, y definirá las bases de creación de las entidades Paraestatales, la intervención del Gobernador en su operación y las relaciones entre éstas y la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, la Procuraduría General de Justicia, las Secretarías y las Direcciones del Ramo.
+Una vez presentada la solicitud e integrado el expediente, se deberá emitir la resolución correspondiente en un plazo de sesenta días hábiles, debidamente fundada y motivada. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
 
-###### ARTICULO 41.
+###### Artículo 50.
 
-Para ser Gobernador del Estado se requiere:
+La Licencia Ambiental Estatal deberá señalar:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+I.- El número de registro ambiental;
 
-I.- Ser ciudadano mexicano por nacimiento e hijo de madre o padre mexicanos.
+II.- Las condiciones de operación;
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+III.- Los límites máximos permisibles de emisión por tipo de contaminante a que deberá sujetarse la fuente emisora;
 
-Aquellos ciudadanos candidatos a Gobernador del Estado cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo;
+IV.- Las obligaciones ambientales a las que queda sujeto el establecimiento, de acuerdo con sus características y actividad;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2002)</small>
+V.- La periodicidad con la que deberá llevarse a cabo la medición, monitoreo y reporte de emisiones; y
 
-II.- Tener treinta años cumplidos el día de la elección;
+VI.- Las medidas y acciones que deberán llevarse a cabo en caso de una contingencia.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+###### Artículo 51.
 
-III.- Tener vecindad en el Estado con residencia efectiva, de por lo menos quince años inmediatos anteriores al día de la elección.
+Obtenida la Licencia Ambiental Estatal y de acuerdo a lo que se señale en la misma, los responsables de los establecimiento (sic) que deban llevar a cabo la actualización de la información de su desempeño ambiental, deberán presentar la cédula de operación anual a que se refiere el Artículo 163 de la presente Ley, acompañada de los estudios, al análisis o planes de manejo correspondientes.
 
-La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de partido político, por motivo de estudios o por causas ajenas a su voluntad, se tenga que residir fuera del territorio del Estado.
+###### Artículo 52.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+La empresa o servicio sujeto a la obtención de la Licencia Ambiental Estatal, estarán obligados a presentar la actualización de la misma cuando se modifiquen sus procesos o materias primas.
 
-IV.- No ser ministro de cualquier culto religioso, a menos que se separe en los términos que establece la Ley de la materia.
+###### Artículo 53.
 
-V.- Estar en pleno goce de sus derechos Políticos.
+El Reglamento que al respecto se expida, determinará los sectores y subsectores sujetos a obtener la Licencia Ambiental Estatal.
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+#### SECCIÓN NOVENA. EDUCACIÓN E INVESTIGACIÓN AMBIENTAL
 
-VI.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, o Instituciones educativas públicas; salvo que se separen en forma provisional, noventa días antes del día de la elección.
+###### Artículo 54.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2002)</small>
+El Ejecutivo del Estado en el ámbito de su competencia promoverá:
 
-###### ARTICULO 42.
+I.- Asumir a la educación ambiental como eje trasversal en los diferentes niveles educativos, especialmente en el nivel básico, basados en el aprovechamiento racional de los recursos naturales y la protección del medio ambiente;
 
-No podrán ser electos Gobernador del Estado: el Secretario General de Gobierno, los Magistrados y Jueces del Tribunal Superior de Justicia del Estado, el Procurador General de Justicia y los Secretarios y Directores del Poder Ejecutivo, salvo que se separen de sus cargos en forma definitiva, noventa días antes de la elección.
+II.- La formación de una cultura ambiental, dirigida a todos los sectores de la sociedad, a través de acciones de educación formal, no formal e informal;
 
-Los Militares en servicio activo y los titulares de los cuerpos policíacos, no podrán ser electos Gobernador del Estado, salvo que se separen de sus cargos en forma provisional, noventa días antes de la elección.
+III.- El fortalecimiento de la conciencia ambiental, a través de los diferentes medios de comunicación, para que la sociedad conozca la problemática ambiental que exista en el Estado y participe en las alternativas de solución;
 
-Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos durante el período para el que fueron electos, aun cuando se separen de sus cargos; con excepción de los suplentes siempre y cuando éstos no estuvieren ejerciendo el cargo.
+IV.- La realización de proyectos de investigación que contribuyan a la atención de problemas específicos, de acuerdo al diagnóstico Estatal en materia ambiental;
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
+V.- Que las instituciones de educación superior y los organismos dedicados a la investigación científica y tecnológica en la Entidad, desarrollen programas para la formación de profesionistas e investigadores que se ocupen del estudio de las causas, efectos y soluciones de los problemas ambientales, que para el efecto determine el programa sectorial del medio ambiente; y
 
-###### ARTICULO 43.
+VI.- Las investigaciones científicas y programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, así como propiciar el aprovechamiento racional de los recursos naturales y proteger los ecosistemas.
 
-Los impedimentos para volver a ocupar el cargo de Gobernador son los que consigna el Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
+Los Ayuntamientos en el ámbito de su competencia promoverán:
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+I.- La formación de una cultura ambiental, dirigida a todos los sectores de la sociedad, a través de acciones de educación no formal e informal; y
 
-###### ARTICULO 44.
+II.- La organización de actividades culturales con los diferentes sistemas educativos del Estado, para propiciar que este sector participe en el cuidado de los recursos naturales.
 
-El Gobernador será electo cada seis años, mediante el sufragio universal, libre, secreto, directo, personal e intransferible y entrará a ejercer sus funciones el día primero del mes de Noviembre posterior a su elección.
+###### Artículo 55.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+El Consejo a través del Centro de Información y Documentación del Medio Ambiente, integrará el Registro de Investigaciones y Estudios Ambientales.
 
-###### ARTICULO 45.
+Para el efecto quienes realicen investigaciones en materia ambiental con recursos públicos deberán registrarlas ante el Consejo y los que la realicen con recursos distintos podrán tramitar el registro de su investigación.
 
-El Gobernador podrá ausentarse del Territorio del Estado o separarse de sus funciones hasta 30 días, dando aviso al Congreso y en esos casos el Secretario de Gobierno se hará cargo del despacho con las atribuciones que establezca la Ley Orgánica de la Administración Pública del Estado de Baja California.
+#### SECCIÓN DÉCIMA. SISTEMA DE INFORMACIÓN AMBIENTAL
 
-###### ARTICULO 46.
+###### Artículo 56.
 
-En las faltas temporales que excedan de treinta días el Congreso nombrará un Gobernador Interino.
+El Consejo organizara el Sistema de Información Ambiental, el cual tendrá por objeto obtener, organizar, actualizar y difundir información relevante en la materia.
 
-El nombramiento de Gobernador Interino lo hará el Congreso en escrutinio secreto y por mayoría absoluta de votos.
+El registro será público, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+###### Artículo 57.
 
-Son causas de falta absoluta del Gobernador del Estado, las siguientes:
+El Sistema de Información Ambiental, se coordinará y complementará, en lo posible, con el Sistema Nacional de Información Ambiental y de Recursos Naturales, con el Instituto Nacional de Estadística, Geografía e Informática, y con las dependencias, organismos e instituciones académicas o de investigación involucradas en este campo.
 
-I.- La muerte;
+###### Artículo 58.
 
-II.- La incapacidad total y permanente para ejercer el cargo; que será declarada por autoridad judicial y ratificada por el Congreso del Estado;
+El Sistema de Información Ambiental integrará información sobre:
 
-III.- La renuncia expresa por causa grave que será calificada por el Congreso del Estado;
+I.- El estado y evolución de los ecosistemas;
 
-IV.- La separación del cargo por declaratoria de autoridad competente;
+II.- El grado de avance en relación con los Planes Estatal y Nacional de desarrollo y con los programas sectoriales correspondientes;
 
-V.- Si transcurridos seis meses y convocado por el Congreso, el Gobernador ausente o separado de sus funciones no se presenta, sin causa justificada, a asumir el ejercicio de su cargo;
+III.- Las causas y efectos del deterioro existente;
 
-VI.- Las demás que establezca expresamente esta Constitución.
+IV.- Los distintos programas emergentes;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DEL 2001)</small>
+V.- Los inventarios de recursos naturales del Territorio Estatal;
 
-En caso de falta absoluta ocurrida durante los dos primeros años del período, el Congreso designará por mayoría absoluta de votos un Gobernador Provisional que convoque a elecciones dentro de los dos meses siguientes, debiendo verificar éstas en un término no mayor de cuatro meses posteriores a la convocatoria.
+VI.- Las áreas naturales protegidas en el Territorio del Estado;
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+VII.- Los mecanismos y resultados obtenidos de monitoreos de calidad del aire, agua y suelo;
 
-La persona que sea designada Gobernador Provisional, tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente.
+VIII.- El ordenamiento ecológico del territorio;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DEL 2001)</small>
+IX.- Las acciones a realizar en materia ecológica, vinculadas con los planes Estatal y Nacional de Desarrollo, así como los programas sectoriales correspondientes;
 
-Si la falta absoluta ocurriere después de los dos primeros años, el Congreso designará por mayoría absoluta y en un término no mayor de ocho días, un Gobernador Sustituto que termine el ejercicio constitucional del Ejecutivo; caso en el cual el Secretario de Gobierno se hará cargo del despacho, de conformidad con lo dispuesto por el Artículo 45 de esta Constitución.
+X.- El marco jurídico aplicable en materia ambiental, incluyendo los tratados internacionales y las normas internas de carácter Legislativo, Judicial o Administrativo, en los tres niveles de Gobierno, procurando su permanente actualización;
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+XI.- El padrón estatal de fuentes contaminantes;
 
-El ciudadano que sea designado para suplir al Titular del Poder Ejecutivo como Gobernador Interino, Provisional o Sustituto, deberá reunir los requisitos establecidos en el Artículo 41 de esta Constitución con excepción de lo dispuesto por la fracción VI.
+XII.- Bases de datos del Centro de Información y Documentación del Medio Ambiente;
 
-###### ARTICULO 47.
+XIII.- Los registros de Prestadores de Servicios Ambientales;
 
-Si al comenzar un período constitucional no se presentare el Gobernador electo o la elección no estuviere hecha o declarada, cesará sin embargo el Gobernador cuyo período hubiere concluido, y se designará por el Congreso a un provisional que se haga cargo del despacho hasta en tanto se presente el titular.
+XIV.- Estudios, reportajes y documentos hemerográficos relevantes en materia ambiental;
 
-###### ARTICULO 48.
+XV.- El registro de rellenos sanitarios, centros de acopio, confinamientos de residuos industriales y estaciones de transferencia que operen en el Estado;
 
-Todos los acuerdos y disposiciones que el Gobernador diere en uso de sus facultades, deberán para su valides (sic) ser autorizados con la firma del Secretario de Gobierno o de quien conforme a la Ley haga sus veces.
+XVI.- El archivo de programas preventivos y correctivos derivados de la práctica de autorregulación y auditorías ambientales;
 
-###### ARTICULO 49.
+XVII.- Los indicadores ambientales en la Entidad;
 
-Son facultades y obligaciones del Gobernador:
+XVIII.- Las denuncias ciudadanas presentadas ante el Consejo;
 
-I.- Promulgar, ejecutar y hacer que se cumplan las leyes, decretos y demás disposiciones que tengan vigencia en el Estado;
+XIX.- El catalogo de títulos que conforma el acervo existente en el Consejo; y
 
-II.- Iniciar ante el Congreso leyes y decretos que redunden en beneficio del pueblo;
+XX.- Cualquier otro tema de interés relacionado con el ambiente.
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
+###### Artículo 59.
 
-III.- Velar por la conservación del orden, tranquilidad y seguridad del Estado, así como el garantizar a toda persona residente en el mismo, el real disfrute de un medio ambiente adecuado para su desarrollo, bienestar y mejor calidad de vida.
+El Consejo publicará en la "Gaceta Ecológica", la cual será solo informativa y de interés general en materia ambiental, así como las disposiciones jurídicas, Decretos, Reglamentos y Acuerdos que se emitan en la materia.
 
-IV.- Presentar cada año al Congreso, a más tardar el día primero de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el ejercicio fiscal siguiente;
+###### Artículo 60.
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+Toda persona tiene derecho a que las autoridades ambientales, le proporcionen la información contenida en el Sistema de Información Ambiental, salvo cuando:
 
-V.- Rendir un informe general, por escrito, del estado que guarde la Administración Pública, remitiéndolo al Congreso a la apertura del primer periodo de sesiones ordinarias;
+I.- Se trate de información clasificada como reservada o confidencial en los términos previstos por la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo;
 
-VI.- Pedir y dar informes al Congreso y al Tribunal Superior de Justicia;
+II.- Se trate de información relativa a asuntos que son materia de procedimientos judiciales o de inspección y vigilancia, pendientes de resolución;
 
-VII.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2001)
+III.- Se trate de información sobre inventarios e insumos y tecnologías de proceso, incluyendo la descripción del mismo;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+IV.- No se disponga de la información solicitada;
 
-VIII.- Visitar los Municipios del Estado cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo, dando cuenta al Congreso, o al Tribunal Superior, de las faltas que notare y cuyo remedio corresponda a dichos Poderes, y solicitar al Congreso del Estado la suspensión de Ayuntamientos, que declare que éstos han desaparecido y la suspensión o revocación del mandato de alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, proponiendo al Congreso en su caso los nombres de los vecinos, para que designe a los integrantes de los Concejos Municipales, en los términos de esta Constitución y las Leyes respectivas.
+V.- La información no esté validada;
 
-IX.- Prestar a los tribunales el auxilio que éstos requieran para el ejercicio expedito de sus funciones y hacer cumplir sus fallos y sentencias;
+VI.- La información pertenezca a terceros y estos no hayan autorizado hacerla pública;
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1998)</small>
+VII.- La información sea de uso para la función pública Estatal o Municipal; o
 
-X.- Nombrar y remover libremente al Secretario de Gobierno y a los Funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad;
+VIII.- No se haya cubierto el pago previo de los derechos correspondientes previamente.
 
-XI.- Cuidar la recaudación y correcta inversión de los caudales del Estado;
+###### Artículo 61.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2008)</small>
+Quien reciba información ambiental en los términos de esta sección, será responsable de su adecuada utilización y responderá por los daños y perjuicios que se ocasionen por su uso indebido.
 
-XII.- Fomentar, impulsar y promover el desarrollo sustentable de la pesca y acuacultura en el Estado, considerando la participación del sector social y privado, así como coordinarse con la Federación y los Municipios de nuestra Entidad, cuando su intervención sea requerida para el ejercicio de las atribuciones que en esta materia les competan de conformidad con la presente Constitución y las leyes que correspondan.
+#### SECCIÓN DÉCIMA PRIMERA. ECOGUARDAS
 
-XIII.- Expedir los títulos profesionales con arreglo a las leyes y reconocer la validez de los que se expidan, en otras Entidades de la Federación, observando lo dispuesto en la fracción V del Artículo 121 de la Constitución de los Estados Unidos Mexicanos;
+###### Artículo 62.
 
-XIV.- Conceder, conforme a la Ley, conmutación de penas;
+El Consejo contará con personal denominado ecoguardas, que tendrán como propósito vigilar la aplicación, cumplimiento y ejecución del programa obligatorio de verificación vehicular, así como los diversos programas que se lleven a cabo. El Reglamento de esta Ley se establecerán sus obligaciones (sic).
 
-XV.- Celebrar convenios sobre límites del Estado sometiéndolos a la aprobación del Congreso para los efectos del artículo 27 fracción XX de esta Constitución;
+#### SECCIÓN PRIMERA. CARACTERÍSTICAS Y ZONIFICACIÓN DE LAS ÁREAS NATURALES PROTEGIDAS
 
-XVI.- Formular y expedir los reglamentos para el buen despacho de la administración pública;
+#### SECCIÓN SEGUNDA. DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACIÓN Y VIGILANCIA DE ÁREAS NATURALES PROTEGIDAS
 
-XVII.- Decretar expropiación de bienes por causas de utilidad pública, en la forma que determinen las leyes;
+## TÍTULO TERCERO. DE LA CONSERVACIÓN ECOLÓGICA
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1998)</small>
+### CAPÍTULO I. DE LAS ÁREAS NATURALES PROTEGIDAS
 
-XVIII.- Tener el mando directo de la fuerza pública de los municipios cuando el Congreso del Estado suspenda o declare desaparecidos a los Ayuntamientos, y tomar en caso de invasión o de trastornos interiores, medidas extraordinarias para hacer respetar la soberanía del Estado y reestablecer el orden con la aprobación del Congreso del Estado.
+###### Artículo 63.
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+Se entiende por Áreas Naturales Protegidas las zonas del Territorio del Estado, no consideradas como de interés de la Federación, en las que los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que requieren ser preservadas y restauradas, y que han quedado sujetas al régimen de protección, previsto en esta Ley y los demás ordenamientos aplicables.
 
-XIX.- Conceder licencias de acuerdo a la Ley del Servicio Civil y demás disposiciones aplicables en la materia y aceptar las renuncias de los funcionarios y empleados del Ejecutivo;
+Los propietarios, poseedores o titulares de derechos sobre tierras, aguas y demás bienes comprendidos dentro de áreas naturales protegidas deberán sujetarse a las restricciones que establezcan los decretos o certificados por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en el programa de manejo o estudio técnico y en los programas de ordenamiento ecológico aplicables.
 
-XX.- Proveer a la ejecución de las obras públicas;
+###### Artículo 64.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE SEPTIEMBRE DE 2008)</small>
+El establecimiento de áreas naturales protegidas tiene como propósito:
 
-XXI.- Fomentar el turismo, el desarrollo industrial, agrícola, ganadero y el aprovechamiento de las fuentes renovables de energía.
+I.- Preservar los ambientes naturales representativos de las diferentes regiones biogeográficas y ecológicas y de los ecosistemas;
 
-XXII.- Celebrar convenios con la Federación sobre participación de impuestos y coordinar sus esfuerzos en el Estado, a efecto de atender lo relativo a educación, salubridad y asistencia pública y para la construcción de caminos vecinales, así como en aquellas obras cuya ejecución pueda llevarse a cabo en cooperación con el Gobierno Federal y sujetándose el Ejecutivo Local a lo dispuesto por las Leyes respectivas;
+II.- Salvaguardar la diversidad genética de las especies silvestres de las que depende la continuidad evolutiva; así como asegurar la preservación y el aprovechamiento sustentable de la biodiversidad del Territorio del Estado;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 1998)</small>
+III.- Proporcionar un campo propicio para la investigación científica y el estudio de la biodiversidad y la educación ambiental;
 
-XXIII.- Presentar para su elección, al Congreso del Estado las propuestas de nombramiento para el cargo de Procurador General de Justicia del Estado, de conformidad con lo que establezca la Ley de la materia;
+IV.- Generar, rescatar y divulgar conocimientos, prácticas y tecnologías, tradicionales o nuevas, que permitan la preservación y el aprovechamiento sustentable de la biodiversidad del Territorio del Estado;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 1998)</small>
+V.- Proteger poblados, vías de comunicación y áreas agrícolas; y
 
-XXIV.- Remover al Procurador General de Justicia del Estado, en los términos de la Ley de la materia;
+VI.- Proteger los entornos naturales de monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otras áreas de importancia para la recreación, la cultura e identidad de la región y de los pueblos indígenas.
 
-XXV.- Las demás que le señalen expresamente esta Constitución y las Leyes Federales.
+#### SECCIÓN PRIMERA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES FIJAS
 
-###### ARTICULO 50.
+###### Artículo 65.
 
-Para el despacho de los negocios del Poder Ejecutivo habrá un funcionario que se denominará Secretario de Gobierno.
+Se consideran áreas naturales protegidas de competencia Estatal, las siguientes:
 
-###### ARTICULO 51.
+I.- Reservas Ecológicas Estatales;
 
-Para ser Secretario de Gobierno se requiere reunir los mismos requisitos que para ser Gobernador del Estado.
+II.- Parques Estatales; y
 
-###### ARTICULO 52.
+III.- Jardines Históricos.
 
-Son atribucines (sic) del Secretario de Gobierno:
+###### Artículo 66.
 
-I.- Autorizar con su firma las Leyes y Decretos que promulgue el Ejecutivo, así como las disposiciones y acuerdos que éste dicte en el uso de sus facultades;
+Se consideran áreas naturales protegidas de competencia Municipal, las siguientes:
 
-II.- Substituir al Gobernador en los casos que esta Constitución indique;
+I.- Zonas de Preservación Ecológica; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1985)</small>
+II.- Parques Urbanos Municipales o Jardines Públicos.
 
-III.- Las demás que le confiera la Ley Orgánica de la Administración Pública del Estado de Baja California.
+###### Artículo 67.
 
-###### ARTICULO 53.
+En el establecimiento, administración y manejo de las áreas naturales protegidas, el Consejo y los Ayuntamientos promoverán la participación de sus habitantes, propietarios o poseedores, pueblos indígenas y demás organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de la biodiversidad Para tal efecto, las Autoridades competentes deberán suscribir con los interesados los convenios correspondientes.
 
-El Secretario de Gobierno no podrá desempeñar otro puesto o empleo público o privado, con excepción de los docentes, ni ejercer profesión alguna durante el ejercicio de sus funciones.
+Para tal efecto, las Autoridades competentes deberán suscribir con los interesados los convenios correspondientes.
 
-###### ARTICULO 54.
+###### Artículo 68.
 
-Las faltas del Secretario de Gobierno, serán suplidas por el Oficial Mayor del Gobierno del Estado.
+Las áreas naturales protegidas, deberán de contar con una zonificación, en la que se defina, la Zona Núcleo y/o una Zona de Amortiguamiento, según sea el caso.
 
-###### ARTICULO 55.
+###### Artículo 69.
 
-El Tribunal de lo Contencioso Administrativo tendrá el carácter de órgano constitucional autónomo y resolverá las controversias de carácter administrativo y fiscal que se susciten entre los particulares y la administración pública estatal o municipal, así como entre el fisco estatal y los fiscos municipales sobre preferencia de créditos fiscales.
+Las superficies mejor conservadas de las áreas naturales protegidas, donde existan ecosistemas, o fenómenos naturales de especial importancia, o especies de flora y fauna que requieran protección especial, serán identificadas como zonas.
 
-El Tribunal contará con plena autonomía en su funcionamiento e independencia en sus decisiones, estará dotado de personalidad jurídica y patrimonio propio y poseerá plena jurisdicción e imperio suficiente para hacer cumplir sus resoluciones.
+###### Artículo 70.
 
-El Tribunal estará integrado por tres Magistrados numerarios y dos Supernumerarios quienes serán electos por mayoría calificada de los integrantes del Congreso, previa convocatoria y conforme al procedimiento que determine la Ley. Para ser electo Magistrado deberán cumplirse los requisitos previstos en el artículo 60 de esta Constitución, además de los señalados en la Ley.
+En las áreas naturales protegidas deberán determinarse la superficie o superficies que protejan la zona núcleo del impacto exterior, que serán señaladas como zonas de amortiguamiento, en donde sólo podrán realizarse actividades productivas emprendidas por los propietarios, poseedores o titulares de los derechos sobre tierras y las comunidades que allí habiten al momento de la expedición de la declaratoria respectiva o con su participación, que sean estrictamente compatibles con los objetivos, criterios y programas de aprovechamiento sustentable, en los términos del decreto respectivo y del programa de manejo que se formule y expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables.
 
-Los Magistrados del Tribunal desempeñarán su cargo por seis años y podrán ser reelectos por un sólo periodo de seis años. Seis meses antes de que concluya el periodo de seis años para el que fue electo el Magistrado, la Comisión instituida por el Congreso procederá a elaborar un dictamen de evaluación relativo a su reelección o no reelección, remitiendo el titular del órgano señalado en la Ley, para tal efecto los expedientes e informes que le solicite, debiendo resolver el Congreso tres meses antes de que concluya el cargo del mismo. La evaluación del desempeño del Magistrado deberá de sujetarse a criterios objetivos relativos a la excelencia profesional, honestidad y buena reputación, en los términos de la Ley.
+#### SECCIÓN SEGUNDA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES MÓVILES
 
-La vigilancia, administración y disciplina del Tribunal estará a cargo del órgano que señale la Ley. El Tribunal establecerá mecanismos que transparenten y propicien la rendición de cuentas de su función jurisdiccional, en los términos de las leyes.
+###### Artículo 71.
 
-El Presidente del Tribunal tendrá la representación del mismo y será designado en los términos señalados por la Ley.
+Las declaratorias para el establecimiento o modificación de las áreas naturales protegidas de competencia Estatal y/o Municipal, se expedirán mediante alcance decreto que al efecto expida el Ejecutivo de Estado, conforme a la Ley y demás disposiciones legales aplicables, o mediante certificado que expida el Consejo.
 
-El Pleno del Tribunal elaborará su proyecto de presupuesto de egresos por grupos y partidas presupuestales, el cual deberá remitir por conducto de su presidente al titular del Poder Ejecutivo del Estado para su inclusión en el Proyecto del Presupuesto de Egresos del Estado. El proyecto del Tribunal no podrá ser modificado por el titular del Poder Ejecutivo, pero sí por el Congreso del Estado. El presupuesto del Tribunal no podrá ser inferior al aprobado por el Congreso del Estado para el ejercicio anual anterior; para estos efectos no se considerarán las ampliaciones presupuestales.
+###### Artículo 72.
 
-La Ley desarrollará en los términos que señala esta Constitución, la carrera jurisdiccional en sus dimensiones de formación, promoción y permanencia, bajo los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+Previamente a la expedición de las declaratorias o de los certificados para el establecimiento de las áreas naturales protegidas, se deberá elaborar el programa de manejo y el estudio técnico correspondiente, mismo que deberá ser puesto a disposición para su consulta a la población beneficiada y Autoridades Locales.
 
-###### ARTICULO 56.
+###### Artículo 73.
 
-Ninguna persona puede hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
+Los pueblos indígenas, las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante el Consejo o los Ayuntamientos, según corresponda, el establecimiento, en terrenos de ser propiedad, posesión o mediante convenio con terceros, de áreas naturales protegidas, cuando se trate de áreas destinadas a la preservación, protección y restauración de la biodiversidad. El Consejo o los Ayuntamientos, en su caso, promoverán ante el titular del Poder Ejecutivo del Estado la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promotor.
 
-Toda persona tiene derecho a que se le administre justicia por Tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las Leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+###### Artículo 74.
 
-Nadie puede ser aprisionado por deudas de carácter puramente civil.
+Los sujetos señalados en el Artículo anterior, podrán destinar voluntariamente los predios que les pertenezcan a acciones de preservación de los ecosistemas y su biodiversidad, para lo cual deberán realizar solicitud al Consejo.
 
-Las audiencias serán públicas, excepto aquellas que la moral o el interés colectivo exija que sean secretas.
+###### Artículo 75.
 
-Las Corporaciones Policíacas, están obligadas a garantizar la plena ejecución de las resoluciones judiciales.
+Las declaratorias para el establecimiento de las áreas naturales protegidas, deberán contener lo siguiente:
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+I.- La delimitación precisa del área, señalando la superficie, ubicación, deslinde y en su caso, la zonificación correspondiente;
 
-###### ARTICULO 57.
+II.- Las modalidades a que se sujetará dentro del área, el uso o aprovechamiento de los recursos naturales en general o específicamente de aquellos sujetos a protección;
 
-El Poder Judicial del Estado se ejercerá por el Tribunal Superior de Justicia, Tribunal de Justicia Electoral, Juzgados de Primera Instancia, Juzgados de Paz y Jurados.
+III.- La descripción de actividades que podrán llevarse a cabo en el área correspondiente, y las modalidades y limitaciones a que se sujetarán;
 
-Contará con un Consejo de la Judicatura, el cual ejercerá funciones de vigilancia, disciplina, supervisión y administración.
+IV.- Los lineamientos generales para la administración, el establecimiento de órganos colegiados representativos, la creación de fondos o fideicomisos y la elaboración del programa de manejo del área;
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+V.- Los lineamientos para la realización de las acciones de preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de las áreas naturales protegidas, para su administración y vigilancia, así como para la elaboración de las reglas administrativas a que se sujetarán las actividades dentro del área respectiva; y
 
-La representación del Poder Judicial estará a cargo del Presidente del Tribunal Superior de Justicia del Estado, el cual se elegirá y desempeñará sus funciones de acuerdo a lo que señale la Ley.
+VI.- La causa de utilidad pública que en su caso justifique la expropiación de terrenos, para que el Estado adquiera su dominio, cuando al establecerse un área natural protegida se requiera dicha resolución.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 76.
 
-El Presidente del Tribunal Superior de Justicia, asistirá al Congreso, el segundo jueves del mes de octubre, para rendir en sesión solemne un informe general, por escrito, del estado que guarde la Administración de Justicia en la entidad.
+El certificado que emitan dichas autoridades, deberá contener, por lo menos, el nombre del promotor, la denominación del área respectiva, su ubicación, superficie y colindancias, el régimen de manejo a que se sujetará y, en su caso, el plazo de vigencia. Dichos predios se consideraran en alguna de las categorías previstas por la ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 77.
 
-El Poder Judicial emitirá un Plan de Desarrollo Judicial cada seis años. El Presidente del Tribunal lo remitirá al Congreso para su examen y opinión en los términos de la Ley; y posteriormente lo dará a conocer a la población mediante su publicación en el Periódico Oficial del Estado y por cualquier otro medio que estime pertinente. Dicho Plan se elaborará, instrumentará y evaluará en los términos que se señalan en esta Constitución y la Ley.
+El Consejo y los Ayuntamientos vigilarán el cumplimiento del programa de manejo o estudio técnico en las áreas naturales protegidas.
 
-Corresponde al Tribunal de Justicia Electoral como máxima autoridad jurisdiccional electoral estatal, y órgano especializado del Poder Judicial garantizar el cumplimiento del principio de legalidad de los actos y resoluciones electorales.
+###### Artículo 78.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 2 DE FEBRERO DE 2007)</small>
+Los certificados y las declaratorias, así como un resumen de sus programas de manejo o estudios técnicos, deberán Publicarse en el Periódico Oficial del Estado, debiendo inscribirse en el Registro Público de la Propiedad y registradas en el Registro Estatal de Áreas Naturales Protegidas.
 
-La Ley garantizará la independencia de los Magistrados, Jueces y Consejeros de la Judicatura en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
+###### Artículo 79.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+Una vez establecida un área natural protegida sólo podrá ser modificada por la Autoridad que la haya establecido, siguiendo las mismas formalidades previstas en esta Ley, para la expedición de la declaratoria respectiva.
 
-La remuneración de los Magistrados, Jueces y Consejeros de la Judicatura, del Poder Judicial, no podrá ser disminuida durante el tiempo de su gestión.
+###### Artículo 80.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+En el caso de la renovación de un Certificado, tendrá que realizarse, por parte del Consejo: una vez que, éste determine su factibilidad en base a las condiciones de conservación que presente el área.
 
-Los Magistrados, Jueces y Consejeros de la Judicatura, del Poder Judicial, no serán considerados trabajadores para efectos de la Ley especial de la materia.
+###### Artículo 81.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+Las actividades permitidas, en las áreas naturales protegidas de que se trate, deberán responder a la categoría correspondiente; así como al programa de manejo o estudio técnico.
 
-Durante su encargo, los Magistrados, Jueces y Consejeros de la Judicatura, del Poder Judicial, sólo podrán ser removidos en los términos que se señalan en esta Constitución y la Ley.
+###### Artículo 82.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2007)</small>
+En las áreas naturales protegidas queda prohibido:
 
-###### ARTICULO 58.
+I.- El establecimiento de cualquier asentamiento humano irregular y de nuevos asentamientos humanos regulares;
 
-El Tribunal Superior de Justicia estará integrado por trece Magistrados Numerarios como mínimo y tres Supernumerarios. Funcionará en los términos que disponga la Ley.
+II.- La realización de actividades que afecten los ecosistemas del área de acuerdo con la Ley, su Reglamento, las Normas Oficiales, las Normas Técnicas, el Decreto de Declaratoria del Área, su Programa de Manejo o la Evaluación de Impacto Ambiental respectiva;
 
-(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO NOVENO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+III.- La realización de actividades riesgosas;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+IV.- Las emisiones contaminantes al aire, agua, suelo y subsuelo así como el depósito o disposición de residuos de, cualquier tipo y el uso de los equipos anticontaminantes sin autorización correspondiente;
 
-EL CONGRESO DEL ESTADO ESTA FACULTADO PARA RESOLVER SOBERANA Y DISCRECIONALMENTE RESPECTO A LOS NOMBRAMIENTOS, RATIFICACIÓN O NO RATIFICACIÓN Y REMOCIÓN DE LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA. EN LOS MISMOS TÉRMINOS RESOLVERÁ SOBRE LA DESIGNACIÓN Y REMOCIÓN DE LOS INTEGRANTES DEL CONSEJO DE LA JUDICATURA. DICHAS RESOLUCIONES SERÁN DEFINITIVAS E INATACABLES, POR LO QUE NO PROCEDERÁ JUICIO, RECURSO O MEDIO DE DEFENSA ORDINARIO O EXTRAORDINARIO ALGUNO EN CONTRA DE LAS MISMAS.
+V.- La extracción de suelo o materiales del subsuelo con fines distintos a los establecidos en el programa de manejo o estudio técnico;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+VI.- La interrupción o afectación del sistema hidrológico de la zona;
 
-La Ley establecerá sistemas permanentes de evaluación del desempeño de los Magistrados del Tribunal Superior de Justicia y Jueces del Poder Judicial, para garantizar que quienes ocupen dichos cargos, durante el tiempo que los ejerzan, cumplan de manera continua y permanente con los requisitos y principios que esta Constitución señala para su nombramiento o su ratificación.
+VII.- El aprovechamiento ilícito de especies de fauna y flora silvestres; y
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DEL 2001)</small>
+VIII.- Las demás actividades previstas en el decreto o certificado de creación y en las disposiciones jurídicas aplicables.
 
-Seis meses antes de que concluya el período de los Magistrados del Tribunal Superior de Justicia, el Congreso del Estado, por el voto de las dos terceras partes de sus integrantes, procederá a realizar los nuevos nombramientos entre los aspirantes que integren la lista que le presente el Presidente del Tribunal Superior de Justicia del Estado de Baja California, la cual deberá contener únicamente a los profesionistas que hayan resultado aprobados en el examen que practique el Consejo de la Judicatura conforme al reglamento respectivo.
+###### Artículo 83.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DEL 2001)</small>
+Las áreas naturales protegidas podrán comprender, de manera parcial o total, predios sujetos a cualquier régimen de propiedad o posesión.
 
-El Tribunal de Justicia Electoral se integrará con tres magistrados Numerarios y hasta dos Supernumerarios, que desempeñarán su cargo por tres años, eligiéndose de entre ellos al Presidente, en sesión de Pleno. Los Magistrados de Justicia Electoral en ningún caso podrán ser ratificados.
+###### Artículo 84.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+El Consejo, en coordinación con los Ayuntamientos, prestará oportunamente a ejidatarios, comuneros y pequeños propietarios la asesoría técnica necesaria para el cumplimiento de lo dispuesto en las declaratorias de áreas naturales protegidas.
 
-El nombramiento de Magistrados del Tribunal Superior de Justicia se efectuará bajo el siguiente procedimiento:
+###### Artículo 85.
 
-I. Inmediatamente que exista una o varias vacantes de Magistrados o seis meses antes si la misma fuere previsible, el Consejo de la Judicatura deberá dar inicio al proceso de evaluación de aspirantes, haciéndolo del conocimiento del Congreso, el cual incluirá exámenes psicométricos, oposición y de méritos correspondientes, conforme a la Ley y el reglamento respectivo. El Consejo de la Judicatura, tendrá hasta noventa días naturales para desahogarlo, desde que emita la convocatoria pública, hasta que realice la entrega de la lista por conducto de su Presidente al Congreso;
+El Consejo y los ayuntamientos, según corresponda, tomando como base los estudios técnicos y socioeconómicos practicados, podrán solicitar a las autoridades competentes, la cancelación o revocación de permisos, licencias, concesiones o autorizaciones, cuando la exploración, explotación o aprovechamiento de recursos ocasione o pueda ocasionar deterioro al equilibrio ecológico, dentro de un área natural protegida.
 
-II. El Congreso resolverá dentro de los treinta días naturales siguientes a que reciba la lista, por mayoría calificada de sus integrantes, los nombramientos de Magistrados de entre los aspirantes que integren la lista, la cual deberá contener en orden de puntuación, únicamente a los profesionistas que hayan aprobado en el proceso de evaluación que practique el Consejo de la Judicatura;
+###### Artículo 86.
 
-III. En caso de que el Congreso no aprobara el nombramiento o nombramientos, o sólo cubriere algunas de las vacantes de Magistrados, o fuera omiso en el término previsto en la fracción anterior, el Consejo de la Judicatura abrirá un nuevo proceso de evaluación, que se deberá desahogar y remitir al Congreso dentro de los treinta días naturales siguientes, en el cual podrá participar cualquier interesado e incluirse en la lista a quienes hayan aprobado en el proceso de evaluación previsto en la fracción I de este artículo, y
+El titular del Poder Ejecutivo del Estado a través del Consejo y los ayuntamientos, en el ámbito de sus respectivas competencias:
 
-IV. Recibida la segunda lista, el Congreso tendrá hasta treinta días naturales para nombrar por mayoría calificada de sus integrantes al Magistrado o Magistrados, y si no lo hiciese en dicho término, ocuparán los cargos de Magistrados las personas que se encuentren en los primeros lugares de la lista, la cual deberá ser elaborada en los términos señalados en las fracciones II y III de este artículo.
+I.- Promoverán las inversiones públicas y privadas para el establecimiento y manejo de las áreas naturales protegidas;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+II.- Establecerán o, en su caso, promoverán la utilización de mecanismos para captar recursos y financiar o apoyar el manejo de las áreas naturales protegidas;
 
-Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley, al término de los cuales podrán ser ratificados y, si lo fueren, sólo podrán ser privados de su cargo en cualquiera de los siguientes supuestos:
+III.- Establecerán los incentivos económicos para las personas, y las organizaciones sociales, públicas o privadas, que participen en la administración y vigilancia de las áreas naturales protegidas, así como para quienes aporten recursos para tales fines o destinen sus predios a acciones de preservación;
 
-a) Al cumplir setenta años de edad.
+IV.- Promoverán el Turismo Ecológico, que permitan su explotación en este rubro, de manera regulada; y
 
-b) Al cumplir quince años en el cargo de Magistrado del Tribunal Superior de Justicia.
+V.- Establecerán o en su caso promoverán la utilización de mecanismos para fomentar la forestación, reforestación y cuidado de los bosques y lugares donde sea posible estos, en coordinación con las Autoridades Federales.
 
-c) Por incapacidad física o mental que impida el buen desempeño de sus funciones.
+###### Artículo 87.
 
-d) En los demás casos que establezca esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Una vez establecida un área natural protegida, el Consejo o los ayuntamientos, según corresponda, deberán designar un Consejo de Administración del área de que se trate, el que será responsable de ejecutar y evaluar el programa de manejo correspondiente, de conformidad con lo dispuesto en esta Ley y su Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+El Consejo y los Ayuntamientos supervisarán y evaluarán el cumplimiento de los programas de manejo, estudios técnicos, decretos y certificados.
 
-Tratándose de los incisos a) y b) de este artículo el Consejo de la Judicatura notificará al Magistrado, a más tardar seis meses antes, la fecha en que concluirá en definitiva su encargo, señalando la causa en que se funda la privación de su puesto. El supuesto previsto en el inciso c), se tendrá por acreditado en los términos de las disposiciones legales aplicables.
+###### Artículo 88.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+El programa de manejo de las áreas naturales protegidas deberá contener, por lo menos, lo siguiente:
 
-Un año antes de que concluya el periodo para el que fue nombrado el Magistrado, el Consejo de la Judicatura procederá a elaborar un dictamen técnico de evaluación en el que analice minuciosamente su actuación y desempeño y emita una opinión al respecto. El dictamen, así como el expediente del Magistrado, deberá ser remitido al Congreso, dentro de los noventa días naturales siguientes, debiendo contener todos aquellos elementos objetivos y requisitos que señale la Ley y que den a conocer si el Magistrado sujeto a proceso de ratificación, durante su desempeño, ha ejercido el cargo con excelencia profesional, honestidad, diligencia y que goza de buena reputación y buena fama en el concepto público, además de precisar si conserva los requisitos requeridos para su nombramiento previstos en el artículo 60 de esta Constitución.
+I.- La descripción de las características físicas, biológicas, sociales y culturales del área natural protegida, en el contexto regional y local, así como el análisis de la situación que guarda la tenencia de la tierra en la superficie respectiva;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+II.- Las acciones a realizar a corto, mediano y largo plazo, estableciendo su vinculación con el Plan Estatal de Desarrollo, así como con los programas sectoriales correspondientes. Dichas acciones comprenderán, entre otras las siguientes: de investigación y educación ambientales, de protección y aprovechamiento sustentable de los recursos naturales, la flora y la fauna, para el desarrollo de actividades recreativas, turísticas, obras. De infraestructura y demás actividades productivas, de financiamiento para la administración del área, de prevención y control de contingencias, de vigilancia y las demás que por las características propias del área natural protegida se requieran;
 
-El Congreso con base en lo anterior, y una vez que escuche al Magistrado sujeto a proceso de ratificación, resolverá sobre su ratificación o no ratificación, mediante mayoría calificada de sus integrantes, a más tardar seis meses antes de que el Magistrado concluya su encargo.
+III.- La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentadas en la misma, así como de todas aquellas personas, instituciones, grupos y organizaciones sociales interesadas en su protección y aprovechamiento sustentable;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+IV.- Los objetivos específicos del área natural protegida;
 
-Si el Congreso resuelve la no ratificación, el Magistrado cesará en sus funciones a la conclusión del periodo para el que fue nombrado y se procederá a realizar un nuevo nombramiento en los términos de este artículo.
+V.- Los inventarios biológicos existentes y los que se prevea realizar; y
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+VI.- Las reglas de carácter administrativo a que se sujetarán las actividades que se desarrollen en el área natural protegida de que se trate.
 
-###### ARTICULO 59.
+###### Artículo 89.
 
-Los Tribunales del Poder Judicial resolverán las controversias que en el ámbito de su competencia se les presenten.
+El Estudio Técnico de las Áreas Naturales Protegidas, deberá contener por lo menos lo siguiente:
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+I.- Contexto regional;
 
-La competencia del Tribunal Superior de Justicia, su funcionamiento en Pleno y en Salas; de los Juzgados de Primera Instancia, Juzgados de Paz, Jurados y Consejo de la Judicatura se regirá por lo que dispongan la Ley Orgánica del Poder Judicial y, de conformidad con las bases que esta Constitución establece. De la misma forma y de conformidad con lo señalado en este ordenamiento se establecerá la competencia y el funcionamiento del Tribunal de Justicia Electoral.
+II.- Descripción física y biológica general;
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+III.- Uso potencial del área;
 
-###### ARTICULO 60.
+IV.- Importancia ambiental;
 
-Para ser nombrado Magistrado del Poder Judicial, se requiere como mínimo:
+V.- Tipo de propiedad y superficie del área;
 
-I.- Ser ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+VI.- Denominación;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+VII.- Periodo de vigencia;
 
-II.- Tener cuando menos treinta y cinco, y no mas de sesenta y cinco años de edad, al día de su nombramiento;
+VIII.- Zonificación; y
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+IX.- Acciones de manejo.
 
-III.- Poseer el día de su nombramiento, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho o Abogado, expedido por autoridad o institución legalmente facultada para ello;
+###### Artículo 90.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+El Consejo, en coordinación con los dueños o poseedores, una vez que se cuente con el programa de manejo o estudio técnico respectivo, podrán invitar a grupos, organizaciones sociales, empresariales y demás personas físicas o morales interesadas, a coadyuvar en la administración de las áreas naturales protegidas. Para tal efecto, se deberán suscribir los convenios respectivos.
 
-IV.- Haber realizado por lo menos durante diez años, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación de normas jurídicas;
+###### Artículo 91.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+El Consejo integrará el Sistema Estatal de Áreas Naturales Protegidas, en donde deberán registrarse los decretos y certificados mediante los cuales se declaren las áreas naturales protegidas y los instrumentos que los modifiquen.
 
-V.- Haber residido en el Estado durante los diez años anteriores al día de su nombramiento;
+###### Artículo 92.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
+Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier derecho relacionado con bienes inmuebles ubicados en áreas naturales protegidas deberán contener referencia de la declaratoria correspondiente y de sus datos de inscripción en el Registro Público de la Propiedad.
 
-VI.- No haber sido condenado por delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+Los notarios y cualesquiera otros fedatarios públicos sólo podrán autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan, cuando se cumpla con lo dispuesto en el presente Artículo.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 93.
 
-VII.- Gozar de buena reputación y buena fama en el concepto público. La Ley determinará los procedimientos y términos en los que se realizarán consultas públicas, para acreditar dicha calidad, y
+Los ingresos que se perciban por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de áreas naturales protegidas, conforme lo determinen los ordenamientos aplicables, se destinarán a la realización de acciones de preservación y restauración de la biodiversidad dentro de las áreas en las que se generen dichos ingresos.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 94.
 
-VIII.- No haber ocupado cargo de elección popular, ni haber ocupado cargo de dirigencia de algún partido político, o haber sido titular de una dependencia o entidad de la administración pública federal, estatal o municipal, o Consejero de la Judicatura, durante el año previo a la fecha en que deba ser nombrado.
+La violación a las disposiciones contenidas en las declaratorias y certificados de áreas naturales protegidas y los programas de manejo y estudios técnicos correspondientes, será sancionada conforme a las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+### CAPÍTULO II. FLORA Y FAUNA SILVESTRE
 
-###### ARTICULO 61.
+###### Artículo 95.
 
-Cuando ocurra la falta absoluta de un Magistrado del Tribunal Superior de Justicia se estará a lo dispuesto por el artículo 58 de esta Constitución.
+Corresponde al Estado y a los Municipios en el ámbito de sus respectivas competencias, y en coordinación con las Autoridades Federales competentes, promover y realizar las acciones que le correspondan para la conservación, repoblamiento y aprovechamiento racional de la flora y fauna silvestre.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 96.
 
-Los Magistrados y Consejeros Supernumerarios cubrirán las faltas temporales de los Numerarios, así como las faltas absolutas de los mismos hasta en tanto el Congreso efectúe el nombramiento correspondiente, de acuerdo a lo que establece la Ley Orgánica del Poder Judicial del Estado.
+El Estado y los Municipios, coadyuvarán con las autoridades federales para la prevención y erradicación del tráfico de especies de flora y fauna silvestres, de conformidad con la Legislación aplicable.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+###### Artículo 97.
 
-A la falta temporal de un Magistrado del Tribunal de Justicia Electoral, se llamará al Magistrado Supernumerario conforme al orden de prelación que haya señalado el Congreso del Estado al momento de la designación. En caso de ausencia definitiva se obrará de igual forma, hasta en tanto se proceda a la elección del Magistrado Numerario. En caso de ausencias definitivas, renuncias y licencias por más de dos meses, el Pleno del Tribunal acordará que por conducto de su Presidente se haga del conocimiento del Congreso Local, para su aprobación.
+Los Ayuntamientos, de acuerdo a su competencia, podrán autorizar el derribo, poda o transplante de árboles, ubicados en bienes de dominio público o en propiedades de particulares, cuando se requiera para la salvaguarda de la Integridad de las personas o sus bienes.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 98.
 
-###### ARTICULO 62.
+Para la preservación y aprovechamiento sustentable de la flora y fauna silvestre en el Estado, se considerarán los criterios establecidos en la Ley General.
 
-Los Jueces serán designados en los términos de esta Constitución y la Ley; durarán cinco años en el cargo, y podrán ser ratificados hasta por dos periodos más, cuando se distingan en el ejercicio de sus funciones y una vez que fueren evaluados atendiendo a los criterios objetivos que disponga la Ley. En ningún caso podrán permanecer por más de quince años en el cargo. Para ser Juez se requiere:
+###### Artículo 99.
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+Para coadyuvar a la conservación y aprovechamiento sustentable de la flora y fauna, el Consejo, previo los estudios correspondientes, podrá promover ante las autoridades federales competentes:
 
-II. Tener cuando menos treinta años de edad, al día de su designación;
+I.- El establecimiento de vedas o modificación de vedas;
 
-III. Poseer título profesional de Licenciado en Derecho o Abogado, con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello;
+II.- La propuesta de declaración de especies amenazadas, raras, en peligro de extinción, endémicas o sujetas a protección especial;
 
-IV. Acreditar, cuando menos cinco años de práctica profesional, y aprobar los exámenes psicométricos, de oposición y de méritos correspondientes;
+III.- La creación de áreas de refugio para protección de las especies de flora y fauna; y
 
-V. Gozar de buena reputación y no haber sido condenado por un delito intencional que amerite pena corporal de más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
+IV.- La modificación o revocación de concesiones, permisos y, en general, de toda clase de autorizaciones para el aprovechamiento, posesión, administración, conservación, repoblación, propagación y desarrollo de la flora y fauna silvestres.
 
-VI. Haber residido en el Estado durante los cinco años anteriores al día de su designación, y
+###### Artículo 100.
 
-VII. No haber ocupado cargo de elección popular, titular de una dependencia o entidad de la administración pública federal, estatal o municipal, de dirigencia de algún partido político, o Consejero de la Judicatura, durante el año previo al día de la designación.
+El aprovechamiento de los recursos naturales en áreas que sean el hábitat de especies de flora o fauna silvestres, especialmente de las endémicas, amenazadas o en peligro de extinción, deberá hacerse de manera que no se alteren las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies.
 
-Las designaciones de jueces serán hechas, preferentemente de entre aquellas personas que presten o hubieren prestado sus servicios con eficacia y probidad en la Administración de Justicia, o que, sin haber laborado en el Poder Judicial, lo merezcan por su honorabilidad, competencia y antecedentes profesionales.
+El Consejo deberá promover y apoyar el manejo de la flora y fauna silvestre, con base en el conocimiento biológico tradicional, información técnica, científica y económica, con el propósito de hacer un aprovechamiento sustentable de las especies.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+###### Artículo 101.
 
-## TITULO TERCERO
+El Consejo promoverá ante la Autoridad Federal competente, el establecimiento de medidas de regulación o restricción, en forma total o parcial a la exportación o importación de la flora y fauna silvestre que se encuentran dentro del Territorio del Estado de Hidalgo.
 
-### CAPITULO UNICO.. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO ESTATAL Y MUNICIPAL
+## TÍTULO CUARTO. PROTECCIÓN AL AMBIENTE
 
-###### ARTICULO 63.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-Corresponde al Pleno del Tribunal Superior de Justicia:
+###### Artículo 102.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+El Consejo y los Municipios, deberán integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo con materiales y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones que en materia ambiental se tramiten ante la Autoridad competente del Gobierno del Estado y en su caso, de los Municipios.
 
-I.- Conocer de los negocios civiles y penales del fuero común, como Tribunal de Apelación o de última instancia ordinaria;
+Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del registro. La información del registro se integrará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+###### Artículo 103.
 
-II.- Resolver las cuestiones de competencia y las de acumulación que se susciten entre los Jueces, de conformidad a las leyes respectivas;
+Quienes realicen actividades contaminantes deberán asumir las medidas que se establezcan para minimizar la emisión de contaminantes y habrán de proporcionar toda información que le sea requerida por las autoridades competentes a fin de dar cumplimiento con lo señalado en el Artículo anterior.
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+###### Artículo 104.
 
-III.- Resolver sobre las recusaciones y excusas de Magistrados y Secretarios del Tribunal;
+El Consejo y las Autoridades Municipales, establecerán los mecanismos y procedimientos necesarios, con el propósito de que los interesados puedan realizar sus trámites.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+### CAPÍTULO II. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
-IV.- Resolver respecto a la designación, ratificación, remoción y renuncia de Jueces del Poder Judicial, de conformidad con lo previsto en esta Constitución, la Ley y el reglamento respectivo. Iguales facultades le corresponden en cuanto al personal jurisdiccional del Tribunal, quienes serán seleccionados por los Magistrados correspondientes, de entre la lista que presente el Consejo de la Judicatura en los términos de la Ley y el reglamento respectivo;
+###### Artículo 105.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+Para la prevención y control de la contaminación atmosférica se consideran los siguientes criterios:
 
-V.- Determinar la adscripción de los Magistrados en las Salas del Tribunal;
+I.- La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y las regiones del Estado, para el bienestar de la población y el equilibrio ecológico; y
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+II.- Las emisiones de contaminantes a la atmósfera, sean de fuentes fijas, naturales o móviles, deben ser reducidas y controladas para asegurar la calidad del aire, para el bienestar de la población y el equilibrio ecológico.
 
-VI.- Designar para un periodo de tres años, a uno de sus miembros como Presidente, pudiendo ser reelecto por otro periodo de tres años más;
+El Consejo es competente para aplicar y vigilar la observancia de las disposiciones de esta Ley que se refieren a la contaminación atmosférica generada por establecimientos industriales, servicios y vehículos automotores. Los Ayuntamientos serán competentes cuando las emisiones a la atmósfera provengan de fuentes diversas a las anteriormente señaladas.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+#### SECCIÓN TERCERA. QUEMAS A CIELO ABIERTO
 
-VII.- Expedir acuerdos para el mejor ejercicio de sus atribuciones;
+###### Artículo 106.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción estatal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá la Licencia Ambiental Estatal que expedirá el Consejo a los interesados que demuestren cumplir con los requisitos y límites determinados en las normas correspondientes y cumplir además con las siguientes obligaciones:
 
-VIII.- Establecer mecanismos que transparenten y propicien la rendición de cuentas de la función jurisdiccional de los Magistrados;
+I.- Canalizar las emisiones a través de conductos que permitan su control y medición;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
+II.- Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que no rebasen los niveles máximos permisibles establecidos en las Normas Oficiales y las Normas Técnicas correspondientes;
 
-IX.- Emitir opinión respecto al proyecto de Plan de Desarrollo Judicial que le presente el Consejo de la Judicatura, en los términos de la Ley, y
+III.- Integrar un inventario anual de sus emisiones contaminantes a la atmósfera, en el formato que determine al Consejo;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+IV.- Instalar plataformas y puertos de muestreo en chimeneas para realizar la medición de emisiones en campo, de acuerdo a lo establecido en las Normas correspondientes;
 
-X.- Ejercer las demás atribuciones que les señale esta Constitución y las Leyes.
+V.- Medir sus emisiones contaminantes a la atmósfera, registrar los resultados en el formato que determine al Consejo y remitir a ésta la información que se determine en el Reglamento, a fin de demostrar que opera dentro de los límites permisibles;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+VI.- Realizar monitoreo perimetral de emisiones a la atmósfera cuando por sus características de operación, el Consejo lo considere necesario;
 
-###### ARTICULO 64.
+VII.- Llevar una bitácora de operación y mantenimiento de sus equipos de combustión, de proceso y de control;
 
-Las funciones de la vigilancia, administración, supervisión y disciplina del Poder Judicial del Estado, excluyendo las facultades jurisdiccionales de Magistrados y Jueces, estará a cargo del Consejo de la Judicatura en los términos que establezcan las leyes conforme a las bases que señale esta Constitución.
+VIII.- Dar aviso anticipado al Consejo del inicio de operación de sus procesos, en el caso de paros programados y de inmediato en el caso de que estos sean circunstanciales, si ellos pueden provocar contaminación;
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+IX.- Dar aviso inmediato al Consejo en el caso de falla del equipo o sistema de control; y
 
-La vigilancia, administración, disciplina y carrera judicial del Tribunal de Justicia Electoral estará a cargo del Pleno del mismo Tribunal, auxiliado en los términos que la Ley establezca por la Comisión de Administración, órgano que se integra por los Magistrados del Tribunal de Justicia Electoral, presidido por el Presidente del mismo, y dos miembros del Consejo de la Judicatura, a estos últimos que se les denominará Comisionados.
+X.- Sujetarse a la verificación del Consejo o bien autorregularse de acuerdo a lo señalado en ésta Ley o su Reglamento.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+###### Artículo 107.
 
-Esta Comisión tiene el carácter de permanente y sesionará válidamente con la presencia de sus integrantes, adoptando sus decisiones por mayoría de los miembros. En caso de empate el Presidente tiene voto de calidad.
+En materia de prevención y control de la contaminación atmosférica producida por fuentes fijas, el Consejo establecerá las medidas preventivas y correctivas para reducir las emisiones contaminantes; y promoverá ante los responsables de operación de las fuentes, la aplicación de nuevas tecnologías con el propósito de reducir sus emisiones a la atmósfera.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+Serán sujetas del cumplimiento antes referido, aquellas emisiones que aun no estando normadas, puedan causar daños al medio ambiente o a la salud de la población.
 
-El Presidente del Tribunal Superior de Justicia, tendrá la representación del Consejo de la Judicatura, y las funciones que fije la Ley Orgánica respectiva.
+###### Artículo 108.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+El Consejo con la participación de los Ayuntamientos y, en su caso, la iniciativa privada establecerán y operarán sistemas de monitoreo de la calidad del aire, soportados con los programas respectivos, considerando lo establecido en las normas técnicas vigentes, sean Federales o Estatales.
 
-El Consejo de la Judicatura se integrará por:
+###### Artículo 109.
 
-I.- El Presidente del Tribunal Superior de Justicia, quien lo presidirá;
+Las emisiones de contaminantes generadas por fuentes móviles, que circulen en el Territorio Estatal, no deberán rebasar los límites máximos permisibles señalados en las Normas Oficiales y/o Normas Técnicas.
 
-II.- El Presidente del Tribunal de Justicia Electoral, y
+###### Artículo 110.
 
-(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+Los propietarios o poseedores de vehículos automotores, verificarán periódicamente estos, con el propósito de controlar, en la circulación de los mismos, las emisiones contaminantes. Dicha verificación deberá efectuarse en los periodos y centros de verificación vehicular autorizados por el Consejo.
 
-III.- TRES CONSEJEROS DESIGNADOS POR MAYORÍA CALIFICADA DEL CONGRESO DEL ESTADO, PREVIA CONVOCATORIA PÚBLICA, QUIENES DURARÁN EN EL CARGO SEIS AÑOS.
+###### Artículo 111.
 
-(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+El Consejo podrá limitar la circulación de vehículos automotores en el Estado de Hidalgo, incluyendo los que cuenten con placas expedidas por la Secretaría de Comunicaciones y Transportes, por otras entidades federativas o por el extranjero, para prevenir y reducir las emisiones contaminantes, en los términos de las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 112.
 
-ADEMÁS, EL CONGRESO DESIGNARÁ A UN CONSEJERO SUPERNUMERARIO EN LOS TÉRMINOS DE LA FRACCIÓN III DE ESTE ARTÍCULO.
+El propietario o poseedor del vehículo deberá pagar al centro de verificación respectivo la tarifa autorizada, en los términos del programa de verificación vehicular obligatoria para el Estado.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 113.
 
-###### ARTICULO 65.
+Si los vehículos en circulación rebasan los límites máximos permisibles de emisiones contaminantes fijadas por las normas correspondientes, o bien no porten el certificado de verificación vehicular vigente, serán retirados de la circulación por el Consejo, hasta que acredite su cumplimiento.
 
-Los Consejeros de la Judicatura deberán reunir los requisitos señalados en el artículo 60 de esta Constitución, y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
+###### Artículo 114.
 
-Los Consejeros previstos en la fracción III y último párrafo del artículo 64, serán sustituidos de manera escalonada, y en ningún caso serán designados para un nuevo periodo.
+El propietario o poseedor del vehículo que incumpla con las Normas
 
-(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+Oficiales o las Normas Técnicas de acuerdo con el Artículo anterior, tendrá un plazo de treinta días naturales para hacer las reparaciones necesarias y presentarlo a una nueva verificación y tres días hábiles para el caso de aquellos vehículos que no cuenten con la verificación vehicular vigente. El vehículo podrá circular en esos períodos sólo para ser conducido al taller mecánico o ante algún centro de verificación.
 
-EL CONSEJO FUNCIONARÁ EN PLENO O POR COMISIONES. PARA QUE LAS SESIONES DEL PLENO DEL CONSEJO SEAN VÁLIDAS SERÁ NECESARIA LA ASISTENCIA DE CUANDO MENOS TRES CONSEJEROS, DEBIENDO ESTAR SIEMPRE PRESENTE EL PRESIDENTE O EL CONSEJERO SECRETARIO, QUIENES EJERCERÁN LAS FACULTADES QUE LES SEÑALE LA LEY.
+###### Artículo 115.
 
-Corresponderá al Consejo de la Judicatura el desarrollo de la carrera judicial. Al Pleno del Consejo le corresponderá proponer al Pleno del Tribunal Superior la designación, adscripción, remoción y renuncia de Jueces del Poder Judicial en los términos de la Ley y el reglamento respectivo. Las propuestas de nombramiento de Jueces, Secretarios de Acuerdos, Actuarios y del personal jurisdiccional del Tribunal Superior de Justicia se integrarán con quienes hayan resultado aprobados en los exámenes psicométricos, de oposición y de méritos practicados por el Consejo de la Judicatura, conforme a la Ley y el reglamento respectivo. Los Secretarios de Acuerdos y Actuarios serán seleccionados por el Juez respectivo de entre quienes integren la lista que le presente el Consejo. Asimismo, resolverá los demás asuntos que la Ley determine.
+Los vehículos que transporten en el Estado de Hidalgo materiales o residuos peligrosos, unidades de valores, mensajería, transporte especializado, deberán cumplir con los requisitos y condiciones establecidos en esta ley y las demás disposiciones aplicables.
 
-Los Consejeros ejercerán su función con independencia e imparcialidad.
+###### Artículo 116.
 
-La Ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+Los vehículos que presten el servicio público de transporte o carga en el Estado, deberán utilizar las fuentes de energía, sistemas y equipos que determine el Consejo en coordinación con la dependencia correspondiente, para prevenir o minimizar sus emisiones contaminantes.
 
-El Consejo de la Judicatura estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones de conformidad con lo que establezca la Ley. Asimismo le corresponderá elaborar y aprobar el Plan de Desarrollo Judicial en los términos de esta Constitución y Ley.
+###### Artículo 117.
 
-(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+El Consejo expedirá anualmente el Programa Obligatorio de Verificación Vehicular, mismo que deberá contener:
 
-LAS RESOLUCIONES DEL CONSEJO SERÁN DEFINITIVAS E INATACABLES Y, POR LO TANTO, NO PROCEDERÁ RECURSO NI JUICIO ALGUNO, EN CONTRA DE ELLAS.
+I.- La periodicidad con la que deberán verificarse las emisiones contaminantes de vehículos automotores que circulan por el Territorio del Estado;
 
-El Consejo de la Judicatura del Estado elaborará el proyecto de presupuesto global del Poder Judicial, que comprenderá el del Tribunal Superior de Justicia y del Tribunal de Justicia Electoral, de los Juzgados y demás órganos judiciales; será elaborado por grupos y partidas presupuestales, y remitido por conducto de su presidente al titular del Poder Ejecutivo del Estado para el su (sic) inclusión en el Proyecto del Presupuesto de Egresos del Estado. El proyecto del Poder Judicial no podrá ser modificado por el titular del Poder Ejecutivo, pero el Congreso del Estado sí lo podrá modificar, en los términos señalados en (sic) artículo 90 de esta Constitución. El presupuesto estará vinculado a la aplicación del Plan de Desarrollo Judicial.
+II.- El calendario de verificación vehicular con base en el número de terminación de placas de circulación y el color del engomado;
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+III.- Los procedimientos técnico y administrativo para la verificación de emisiones contaminantes de vehículos automotores;
 
-###### ARTICULO 66.
+IV.- En general, las reglas técnicas y administrativas a que deberá sujetarse la verificación de vehículos automotores; y
 
-Los Magistrados, Jueces, Consejeros de la Judicatura, Secretario General, Secretarios Auxiliares, de Estudio y Cuenta, del Poder Judicial del Estado, durante el tiempo de su encargo, aún cuando tengan carácter de Interinos o cuenten con licencia, no podrán aceptar ni desempeñar empleo o encargo en la Federación, Estado o Municipios ni de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia. Asimismo estarán impedidos para litigar ante cualquier instancia, salvo cuando se trate de causa propia.
+V.- Los demás que se especifiquen en el Reglamento de esta Ley.
 
-Los Secretarios de Acuerdos y Actuarios del Poder Judicial del Estado, estarán sujetos a los mismos impedimentos a que alude el párrafo anterior, pero si podrán desempeñar cargos remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
+###### Artículo 118.
 
-La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida o privación del respectivo cargo dentro del Poder Judicial del Estado, independientemente de las demás sanciones que las leyes prevean.
+Los propietarios o poseedores que se presenten a verificar sus vehículos fuera de los plazos señalados en el programa correspondiente serán acreedores a una multa, y por ello serán sancionados en los términos de este ordenamiento y demás instrumentos normativos aplicables.
 
-Las personas que hayan ocupado el cargo de Magistrado del Poder Judicial o Consejero de la Judicatura, no podrán, dentro de los dos años siguientes a la fecha en que lo hayan dejado, ejercer la abogacía ante los órganos jurisdiccionales del Poder Judicial del Estado. Tampoco podrán actuar con tal calidad los jueces dentro del año siguiente a la fecha en que hayan dejado el cargo.
+#### SECCIÓN PRIMERA. DE LOS RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
 
-Todo servidor público del Poder Judicial que tenga conocimiento de la comisión de hechos posiblemente delictuosos que deban perseguirse de oficio o que pudieran constituir una responsabilidad administrativa, estará obligado a denunciarlos en los términos de las leyes respectivas. Corresponderá al Consejo de la Judicatura en ejercicio de sus facultades, investigar y determinar las responsabilidades de los servidores públicos del Poder Judicial, y formular en su caso denuncias o querellas por la comisión de delitos cometidos por los mismos, de acuerdo con lo previsto en las leyes.
+#### SECCIÓN SEGUNDA. DE LOS MICRO-GENERADORES DE RESIDUOS PELIGROSOS
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+###### Artículo 119.
 
-###### ARTICULO 67.
+Queda prohibida la quema de cualquier tipo de material o residuo sólido o líquido a cielo abierto, salvo en los siguientes casos y previo aviso al Consejo:
 
-Los Consejeros de la Judicatura, Magistrados, Jueces y demás funcionarios del Poder Judicial, serán responsables de los delitos y faltas en que incurran durante el ejercicio de su cargo.
+I.- Para acciones de adiestramiento y capacitación de personal encargado del combate de incendios;
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+II.- Cuando con esta medida se evite un riesgo mayor a la comunidad o los elementos naturales, y medie recomendación de alguna autoridad de atención a emergencias; y
 
-###### ARTICULO 68.
+III.- En caso de quemas agrícolas, cuando medie autorización de alguna autoridad forestal o agropecuaria.
 
-El Tribunal de Justicia Electoral será la máxima autoridad jurisdiccional electoral estatal y órgano especializado del Poder Judicial del Estado. Será autónomo en su funcionamiento e independiente en sus decisiones. El Poder Legislativo, garantizará su debida integración.
+El Consejo establecerá las condicionantes y medidas de seguridad que deberán observarse.
 
-El Tribunal de Justicia Electoral, tendrá competencia para resolver, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral estatal.
+### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
+###### Artículo 120.
 
-El Tribunal de Justicia Electoral funcionará en Pleno y en Salas en los términos que disponga la Ley. Las sesiones de resolución del Pleno serán públicas.
+Corresponde al Estado, a sus Municipios y a sus habitantes, prevenir y controlar la contaminación del suelo en el Territorio de la Entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
+###### Artículo 121.
 
-El Tribunal de Justicia Electoral resolverá en los términos de esta Constitución y de la Ley, sobre:
+Para la prevención y control de la contaminación del suelo, se considerarán los siguientes criterios:
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2008)</small>
+I.- La generación de residuos sólidos debe ser controlada desde su origen, reduciendo y previniendo su producción; ubicando su procedencia e incorporando métodos y técnicas para su rehusó (sic), reciclaje, manejo y disposición final, en su caso;
 
-I.- Las impugnaciones en las elecciones de Diputados, Munícipes y Gobernador.
+II.- En los suelos contaminados por la presencia de materiales o residuos, deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones, de tal manera que puedan ser utilizadas en cualquier tipo de actividades que resulte aplicable;
 
-El Tribunal sólo podrá declarar la nulidad de una elección por las causales que expresamente se establezcan en las leyes;
+III.- La utilización de plaguicidas, fertilizantes y sustancias toxicas deben de ser compatibles con el equilibrio de los ecosistemas, considerando sus efectos sobre la salud humana y la peligrosidad de su utilización; y
 
-II.- Las impugnaciones de actos y resoluciones de la autoridad electoral local distintas a las señaladas en la fracción anterior;
+IV.- La coparticipación de los Municipios y con el Gobierno Estatal, en el marco de políticas regionales, es una medida conveniente para el tratamiento de los residuos generados en la Entidad.
 
-III.- Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar y ser votado y de afiliación libre y pacífica para tomar parte en los asuntos políticos del Estado; y
+###### Artículo 122.
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2008)</small>
+Los criterios enunciados en el Artículo inmediato anterior, se deberán considerar lo siguiente:
 
-IV.- La imposición de sanciones derivadas de las quejas o denuncias instruidas por el Consejo General Electoral, por actos o hechos emitidos por los partidos políticos, sus dirigentes, militantes o simpatizantes, a excepción de las derivadas en materia de fiscalización sobre el origen, monto y destino de sus recursos, y;
+I.- Ordenación y regulación del desarrollo urbano;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2008)</small>
+II.- La operación de los sistemas de recolección, traslado, manejo y disposición final de residuos sólidos no peligrosos en rellenos sanitarios; y
 
-V.- Las demás que señale la Ley.
+III.- Las autorizaciones para la instalación y operación de rellenos sanitarios.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
+###### Artículo 123.
 
-La organización y competencia del Tribunal de Justicia Electoral, así como los procedimientos para la resolución de los asuntos de su competencia, y los mecanismos para fijar criterios obligatorios en la materia, serán los que determine la Ley.
+El Estado autorizará y vigilará la adecuada operación de los sistemas de manejo y disposición final de los residuos de manejo especial, con arreglo a las disposiciones aplicables en la materia.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE AGOSTO DE 2008)</small>
+###### Artículo 124.
 
-El Tribunal de Justicia Electoral, por conducto de su Presidente, presentará su proyecto de presupuesto al Presidente del Tribunal Superior de Justicia para su inclusión agregada al proyecto de presupuesto del Poder Judicial.
+Para los efectos del presente capítulo, queda prohibido descargar, derramar o depositar cualquier tipo de residuos de manejo especial o infiltración de sus lixiviados en la vía pública, carreteras Estatales, caminos rurales y en los sitios no autorizados para tal fin.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE AGOSTO DE 2008)</small>
+###### Artículo 125.
 
-El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas para su adecuado funcionamiento.
+Quienes realicen obras o proyectos que contaminen o degraden los suelos o desarrollen actividades relacionadas con la exploración, explotación, extracción y aprovechamiento de materiales o sustancias no reservadas a la Federación, están obligados a:
 
-###### ARTICULO 69.
+I.- Instrumentar prácticas y aplicar tecnologías o ecotécnias que eviten los impactos ambientales negativos;
 
-El Ministerio Público es la Institución encargada de la investigación y persecución de los delitos, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato. También le corresponde el velar por la exacta observancia de las leyes en los casos en que tenga intervención conforme a su Ley Orgánica respectiva. A ese fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales. Asimismo compete a esta institución proteger los intereses de los menores e incapaces, como también los derechos individuales y sociales, en los términos que señalen las leyes aplicables.
+II.- Cumplir con las Normas Oficiales Mexicanas y Normas Técnicas Ecológicas vigentes; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ENERO DE 2006)</small>
+III.- Restaurar las áreas utilizadas una vez concluidos los trabajos respectivos.
 
-Asimismo compete a esta institución proteger los intereses de las personas menores de dieciocho años de edad y de las personas que no tengan la capacidad para comprender el significado del hecho, como también los derechos individuales y sociales, en los términos que señalen las leyes aplicables.
+###### Artículo 126.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
+Los residuos que se acumulen o puedan acumularse y se depositen o infiltren en los suelos, deberán reunir las condiciones necesarias para prevenir o evitar:
 
-###### ARTICULO 70.
+I.- La contaminación del suelo;
 
-Ejercen y representan esta Institución en el Estado el Procurador General de Justicia, los Subprocuradores y Agentes del Ministerio Público que determine la Ley.
+II.- Las alteraciones nocivas en el proceso biológico de los suelos; y
 
-Los Subprocuradores y Agentes del Ministerio Público, serán nombrados y removidos por el Gobernador a propuesta del Procurador, en la forma que determine la Ley.
+III.- Las alteraciones en el suelo que perjudiquen su aprovechamiento, uso o explotación, riesgos y problemas de salud.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+###### Artículo 127.
 
-###### ARTICULO 71.
+Los Ayuntamientos son responsables del manejo integral de los residuos sólidos urbanos que consiste en la recolección, traslado, tratamiento y su disposición final, debiendo observar las disposiciones aplicables en la materia expedida sobre los sitios, el diseño, la construcción y la operación de las instalaciones.
 
-El Procurador General de Justicia representará al Estado en las acciones y controversias constitucionales a que se refiere el artículo 105 de la Constitución Federal, cuando este sea parte, tenga interés jurídico o se afecte su patrimonio.
+###### Artículo 128.
 
-Compete al Procurador General de Justicia del Estado, por sí o por medio de los Agentes del Ministerio Público, la investigación y persecución de los delitos del orden común con auxilio de la Policía Ministerial; reunir y aportar las pruebas que acrediten la responsabilidad de los inculpados; dar seguimiento a los juicios penales y civiles ante los tribunales del Estado, para hacer que la administración de Justicia sea pronta y expedita; pedir la aplicación de las penas para los infractores de las leyes e intervenir en todos los demás negocios que determinen esta Constitución y las leyes.
+Corresponde al Municipio el establecimiento y aplicación de las disposiciones jurídicas en materia de residuos sólidos urbanos y al Estado la regulación de los residuos de manejo especial provenientes de procesos productivos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+###### Artículo 129.
 
-###### ARTICULO 72.
+Las personas físicas o morales generadoras de residuos de manejo especial deberán presentar el manifiesto correspondiente, así como tramitar la Licencia Ambiental Estatal e ingresar ante el Consejo sus planes y programas de manejo que definan acciones y medidas para la prevención, control, minimización, reuso y reciclaje de sus residuos, su informe de avances y logros de forma anual, el cual podrá ser modificado a fin de lograr objetivos de protección al ambiente.
 
-La Ley Orgánica de la Procuraduría General de Justicia fijará el número, adscripción y demás deberes y atribuciones de los funcionarios y empleados que integren esta institución.
+###### Artículo 130.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+El Consejo emitirá los listados de los residuos de manejo especial sujetos a planes de manejo, que se Publicarán en el Periódico Oficial del Estado y en la Gaceta Ecológica.
 
-###### ARTICULO 73.
+###### Artículo 131.
 
-La función de Consejero Jurídico del Ejecutivo estará a cargo de la dependencia que para tal efecto establezca la Ley Orgánica de la Administración Pública del Estado.
+Son responsables por los daños que se produzcan tanto el generador como las empresas que presten los servicios de manejo, transporte y disposición final de los residuos de manejo especial.
 
-###### ARTICULO 74.
+###### Artículo 132.
 
-La Defensoría de Oficio proporcionará la defensa necesaria en materia penal, a los procesados que no tengan defensor particular y patrocinará en los asuntos civiles y administrativos a las personas que lo soliciten y acrediten no tener suficientes recursos económicos.
+Cuando la generación, manejo y disposición final de los residuos de manejo especial produzca contaminación del suelo, independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a:
 
-###### ARTICULO 75.
+I.- Llevar a cabo las acciones necesarias para recuperar y restablecer las condiciones originales del suelo; y
 
-La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y deberes inherentes a su organización.
+II.- En caso de que la recuperación y restablecimiento del suelo no sea factibles, a indemnizar los daños causados de conformidad con la Legislación Civil aplicable.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
+La responsabilidad a que se refiere este precepto es de carácter objetivo y para su actualización no requiere que medie culpa o negligencia del demandado.
 
-###### ARTICULO 76.
+###### Artículo 133.
 
-El Municipio es la base de la organización territorial del Estado; es la institución jurídica, política y social, de carácter autónomo, con autoridades propias, atribuciones específicas y libre administración de su hacienda. Su objeto consiste en organizar a la comunidad asentada en su territorio, para la gestión de sus intereses y la satisfacción de sus necesidades colectivas, tendientes a lograr su desarrollo integral y sustentable; proteger y fomentar los valores de la convivencia Local, así como ejercer las funciones y prestar los servicios públicos de su competencia.
+Para la protección al ambiente, con motivo de la operación de sitios destinados al manejo y disposición final de residuos de manejo especial, el Reglamento de esta Ley y las Normas Técnicas podrán establecer medidas o restricciones complementarias a las que emita la Federación.
 
-El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para reglamentar directa y libremente las materias de su competencia.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Cada Municipio será gobernado por un Ayuntamiento de elección popular directa que radicará en la cabecera de cada municipalidad y no habrá ninguna autoridad intermedia entre éstos y el Gobierno del Estado.
+###### Artículo 133 Bis.
 
-Para crear o suprimir un Municipio se requiere:
+Se prohíbe la incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado.
 
-I.- Delimitar previamente el territorio correspondiente;
+###### Artículo 134.
 
-II.- Realizar consulta mediante plebiscito, a los ciudadanos del Municipio que se pretenda afectar;
+Son considerados micro-generadores los establecimientos industrial, comercial o de servicios que generen una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida.
 
-III.- Tomar en cuenta los factores geográficos, demográficos y socioeconómicos del territorio respectivo;
+###### Artículo 135.
 
-IV.- Solicitar la opinión de los ayuntamientos afectados, la que deberá justificar la conveniencia o inconveniencia de la pretensión; y
+Los micro-generadores de residuos peligrosos, están obligados a registrarse ante el Consejo y los Municipios, según corresponda; sujetándose a los planes de manejo y condiciones que se establezcan para tal fin; así como llevar sus propios residuos peligrosos en los centros de acopio autorizados o enviarlos a través de transporte autorizado, de conformidad con las disposiciones legales aplicables.
 
-V.- Los demás requisitos que determine la Ley.
+###### Artículo 136.
 
-En el caso de la fijación y modificación de los límites territoriales de los municipios, además de lo que establezca la Ley, se estará a lo dispuesto en las fracciones III y IV de este Artículo.
+La obligación del Artículo anterior, estará sujeta a los convenios de colaboración específicos que en esta materia se firme con la Autoridad Federal competente.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2008)</small>
+### CAPÍTULO IV. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
-Los municipios pueden arreglar entre sí, mediante convenios amistosos, sus respectivos límites territoriales; pero no se llevarán a efecto estos arreglos sin la aprobación del Congreso del Estado.
+###### Artículo 137.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2008)</small>
+La prevención y control de la contaminación del agua, les corresponde a los organismos públicos que administren el agua del Estado y los Ayuntamientos.
 
-A falta de acuerdo, cualquiera de las partes podrá acudir entre el Congreso del Estado, quien actuará en términos del artículo 27, fracción XXVI, de esta Constitución.
+Las disposiciones contenidas en el presente Artículo son aplicables a las descargas de aguas residuales que se viertan a los cuerpos de agua, a los sistemas de drenaje y alcantarillado de los municipios, observando las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2008)</small>
+###### Artículo 138.
 
-Las Resoluciones del Congreso en la materia serán definitivas e inatacables.
+Para el aprovechamiento sustentable de los ecosistemas acuáticos y de las aguas se considerarán los siguientes criterios:
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
+I.- Corresponde al Estado y a la sociedad la protección de los ecosistemas acuáticos y del equilibrio de los elementos naturales que intervienen en el ciclo hidrológico;
 
-###### ARTICULO 77.
+II.- El aprovechamiento sustentable de los recursos naturales que comprenden los ecosistemas acuáticos, debe realizarse de manera que no afecte su equilibrio ecológico;
 
-El Ayuntamiento es el órgano colegiado de representación popular, depositario de la competencia y atribuciones que le otorgan al Municipio la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
+III.- Para mantener la integridad y el equilibrio de los elementos naturales que intervienen en el ciclo hidrológico, se deberán considerar la protección de suelos y áreas boscosas y el mantenimiento de caudales básicos de las corrientes de agua, así como la capacidad de recarga de los acuíferos; y
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DEL 2001)</small>
+IV.- La preservación y el aprovechamiento sustentable del agua, así como de los ecosistemas acuáticos es responsabilidad de sus usuarios, así como de quienes realicen obras o actividades que afecten dichos recursos.
 
-###### ARTICULO 78.
+###### Artículo 139.
 
-Los ayuntamientos se compondrán de munícipes electos por el sufragio universal, libre, secreto, directo, personal e intransferible y mediante los principios de mayoría relativa y de representación proporcional.
+Los criterios para el aprovechamiento sustentable de los ecosistemas acuáticos, serán considerados para:
 
-Los ayuntamientos iniciarán el ejercicio de sus funciones el día primero de diciembre que siga a su elección. Al efecto, el día inmediato anterior, se reunirán los munícipes electos, en sesión solemne con la finalidad de rendir protesta ante la comunidad e instalar los ayuntamientos.
+I.- La formulación; actualización y vigilancia del Programa Estatal Hidráulico con base en el Programa Nacional Hidráulico, que se expida en su caso;
 
-Los integrantes de los ayuntamientos durarán en su cargo tres años y no podrán ser reelectos para el período inmediato, de conformidad con lo dispuesto en el Artículo 115, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+II.- El otorgamiento de concesiones, permisos, y en clase de autorizaciones para el aprovechamiento de recursos naturales o la realización de actividades que afecten o puedan afectar el ciclo hidrológico;
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+III.- La operación y administración de los sistemas de agua potable y alcantarillado que sirven a los centros de población e industrias; y
 
-###### ARTICULO 79.
+IV.- Las políticas y programas para la protección de especies acuáticas endémicas amenazadas, en peligro de extinción o sujetas a protección especial.
 
-Los ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y por regidores de mayoría relativa y de representación proporcional, en el número que resulte de la aplicación a cada Municipio de las siguientes bases:
+###### Artículo 140.
 
-I.- El número de regidores de mayoría relativa y de representación proporcional será:
+Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de desperdicio, las Autoridades competentes promoverán el ahorro y uso eficiente del agua, el tratamiento de aguas residuales y su reuso.
 
-a).- Los municipios cuya población sean menor de doscientos cincuenta mil habitantes, tendrán cinco regidores electos según el principio de mayoría relativa y hasta cinco regidores de representación proporcional;
+###### Artículo 141.
 
-b).- Los municipios cuya población se encuentre en el rango comprendido de doscientos cincuenta mil a quinientos mil habitantes, tendrán siete regidores electos según el principio de mayoría relativa y hasta seis de representación proporcional;
+Se prohíbe verter o echar materiales y sustancias corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas a cuerpos de agua, así como a los sistemas de drenaje y alcantarillado de los Municipios, excepto en los siguientes casos:
 
-c).- Los municipios cuya población exceda de quinientos mil habitantes, tendrán ocho Regidores electos según el principio de mayoría relativa y hasta siete regidores de representación proporcional.
+I.- Cuando se viertan aguas provenientes de uso doméstico; y
 
-II.- Para que los partidos políticos o coaliciones tengan derecho a la asignación de regidores por el principio de representación proporcional, deberán cumplir los siguientes requisitos:
+II.- Cuando la acción se encuentre sujeta a límites y controles en las normas vigentes, sean Federales o Estatales.
 
-a).- Haber obtenido el registro de planilla completa de candidatos a munícipes en el Municipio que corresponda;
+### CAPÍTULO V. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN OCASIONADA POR RUIDO, VIBRACIONES, ENERGÍA TÉRMICA, LUMÍNICA Y OLORES
 
-b).- Haber obtenido por lo menos el tres por ciento de la votación emitida en la elección de munícipes correspondientes; y
+###### Artículo 142.
 
-c).- No haber obtenido la constancia de mayoría respectiva, y
+Quedan prohibidas las emisiones de ruido, vibraciones, olores, energía térmica y lumínica, cuando rebasen los limites máximos establecidos en las Normas Oficiales y Normas Técnicas, considerando los valores de concentración máxima permisibles para el ser humano y de contaminantes en el ambiente que determine la autoridad competente, quienes adoptarán las medidas para impedir que se trasgredan dichos limites y en su caso se aplicarán las sanciones correspondientes.
 
-III.- La asignación de regidores mediante el principio de representación proporcional se sujetará, a lo que disponga la Ley respectiva y mediante el siguiente procedimiento:
+En la construcción de obras o instalaciones que generen energía térmica o lumínica, olores, ruido o vibraciones, así como en la operación o funcionamiento de las existentes, deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el equilibrio ecológico y el ambiente.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
+###### Artículo 143.
 
-a).- El Instituto Electoral y de Participación Ciudadana del Estado de Baja California determinará qué partidos políticos o coaliciones cumplen con lo estipulado en la fracción anterior;
+Cualquier actividad no industrial que se realice en los centros de población cuyas emisiones de ruido, vibraciones, energía térmica y lumínica, rebasen o puedan rebasar los límites máximos establecidos por la Normas Oficiales, requiere permiso de la Autoridad Municipal competente.
 
-b).- Primeramente asignará un Regidor a cada Partido Político o coalición con derecho a la representación proporcional.
+###### Artículo 144.
 
-En caso de que el número de partidos políticos sea mayor que el de regidurías por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarlas;
+Se prohíbe producir ruido, vibraciones y olores, excepto en los siguientes casos:
 
-c).- Si después de efectuada la operación indicada en el inciso anterior aún hubiera regidurías por asignar, se realizarán las siguientes operaciones:
+I.- Cuando la acción se encuentre sujeta a límites y controles en la Norma Técnica vigente, sea Federal o Estatal; y
 
-1.- Se sumarán los votos de los partidos políticos o coaliciones con derecho a la representación proporcional, que servirá como base para obtener los nuevos porcentajes de participación a que se refiere el numeral siguiente;
+II.- Cuando la acción se encuentre prevista en el Licencia Ambiental Estatal.
 
-2.- Se deberá obtener el nuevo porcentaje de cada Partido Político o coalición, que tenga derecho a la asignación mediante el cociente natural que se obtiene multiplicando la votación municipal de cada Partido Político o coalición por cien, y dividiendo el resultado entre la suma de los votos de los partidos políticos o coaliciones participantes;
+###### Artículo 145.
 
-3.- Se obtendrá la expectativa de integración al Ayuntamiento de cada Partido Político o coalición, con derecho a ello mediante el cociente natural que se obtiene multiplicando el porcentaje obtenido en el numeral anterior de cada Partido Político o coalición por el número de regidurías de representación proporcional que corresponda, según la fracción I de este Artículo, dividiéndolo entre cien, y
+Son obligaciones de quienes con sus actividades produzcan ruido, vibraciones y olores las siguientes:
 
-4.- Se le restará de la expectativa de integración al Ayuntamiento a cada Partido Político o coalición, la asignación efectuada en los términos del inciso b) de esta fracción;
+I.- Abstenerse de rebasar los límites y condiciones establecidas en las Normas Técnicas vigentes, sean Federales o Estatales;
 
-d).- Se asignará a cada Partido Político o coalición alternadamente, tantas Regidurías como números enteros se hayan obtenido de la operación realizada en el numeral 4 del inciso anterior;
+II.- Equipar o instalar mecanismos para evitar o disminuir la producción de ruido, vibraciones y olores;
 
-e).- En caso de que aún hubieren más regidurías por repartir, se asignarán a los Partidos Políticos o coaliciones que conserven los restos mayores, después de deducir las asignaciones efectuadas en el inciso anterior, y
+III.- Llevar un registro de ruidos, vibraciones y olores, así como de su periodicidad, y
 
-f).- La asignación de las regidurías de representación proporcional que correspondan a cada Partido Político o coalición, la hará el Instituto Estatal Electoral de la lista de candidatos a Regidores que haya registrado cada Partido Político o coalición, en el orden que los mismos fueron registrados.
+IV.- Reportar semestralmente ante la Autoridad competente los datos del registro de producción de ruido, vibraciones y olores.
 
-Los integrantes de los ayuntamientos contarán con sus respectivos suplentes.
+### CAPÍTULO VI. CONTAMINACIÓN VISUAL Y PROTECCIÓN DEL PAISAJE
 
-Los conceptos que señala el Artículo 15 de esta Constitución, serán aplicables para el desarrollo de la fórmula de asignación aquí prevista.
+###### Artículo 146.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+Las Autoridades Ambientales emitirán las disposiciones generales con el propósito de evitar el deterioro del paisaje natural en las zonas con valor escénico y la contaminación visual en los centros de población. Por su parte, los Municipios deberán incorporar en sus Bandos de Policía y Gobierno, Reglamentos y disposiciones que regulen obras, actividades y anuncios publicitarios con el fin de evitar la contaminación visual en los centros de población.
 
-###### ARTICULO 80.
+El Consejo y los Municipios determinarán las zonas que tengan un valor escénico o de paisaje natural, y regularán y autorizará los tipos de obras o actividades que se puedan realizar dentro de éstas con el propósito de evitar su deterioro.
 
-Para ser miembro de un Ayuntamiento, con la salvedad de que el Presidente Municipal debe tener 25 años cumplidos el día de la elección, se requiere:
+###### Artículo 147.
 
-I.- Ser ciudadano mexicano por nacimiento, hijo de madre o padre mexicanos.
+Queda prohibido la alteración ocasionada a la imagen urbana a través de las pintas de signos, grabados, mensajes o dibujos denominados graffiti, por ser una conducta que afecta la presentación natural y visual de la propiedad pública y privada y será sancionada conforme a las disposiciones establecidas en la presente Ley, independientemente de lo que dispongan otras Leyes al respecto.
 
-Aquellos ciudadanos candidatos a munícipes Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo;
+### CAPÍTULO VII. DE LAS CONTINGENCIAS AMBIENTALES
 
-II.- Tener vecindad en el Municipio con residencia efectiva, de por lo menos diez años inmediatos anteriores al día de la elección.
+###### Artículo 148.
 
-La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de Partido Político, por motivo de estudios, o por causas ajenas a su voluntad, se tenga que residir fuera del Municipio;
+El Estado y los Municipios, de manera coordinada, participarán y tomarán las medidas necesarias para hacer frente a las situaciones de contingencia ambiental, conforme a las políticas y programas en materia ambiental, así como de protección civil que establezca el Ejecutivo del Estado.
 
-III.- No ser ministro de cualquier culto religioso, a menos que se separe en los términos que establece la Ley de la materia;
+###### Artículo 149.
 
-IV.- No tener empleo, cargo o comisión en el Gobierno federal, estatal o municipal, en los organismos descentralizados municipales o estatales, e instituciones educativas; salvo que se separen en forma provisional noventa días antes del día de la elección, y
+Las Autoridades competentes declararán contingencia ambiental cuando se presente una concentración de contaminantes o un riesgo ambiental, derivado de actividades humanas o fenómenos naturales, que puedan afectar la salud de la población o el ambiente, de acuerdo con las normas y elementos técnicos aplicables.
 
-No podrán ser electos miembros de un Ayuntamiento, el Gobernador del Estado sea provisional, interino, substituto o encargado del despacho, aún cuando se separe de su cargo, así como los Magistrados y Jueces del Tribunal Superior de Justicia, el Secretario General de Gobierno del Estado, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes de la elección.
+###### Artículo 150.
 
-(REFORMADO, P.O. 4 DE OCTUBRE DE 2002) (F. DE E., P.O. 18 DE OCTUBRE DE 2002)
+La declaratoria y las medidas que se aplicarán deberán darse a conocer a través de los medios de comunicación masiva y de los instrumentos que se establezcan para tal efecto. Dichas medidas se instrumentarán en los términos que se precisen en el Reglamento de esta Ley y en los respectivos Programas de Contingencia Ambiental y de Mejoramiento de la Calidad del Aire.
 
-Los Diputados Locales, los Diputados y Senadores del Congreso de la Unión, durante el periodo para el que fueron electos, aun cuando se separen de sus cargos; con excepción de los suplentes siempre y cuando estos no estuvieren ejerciendo el cargo.
+###### Artículo 151.
 
-(ADICIONADO, P.O. 4 DE OCTUBRE DE 2002) (F. DE E., P.O. 18 DE OCTUBRE DE 2002)
+Los Programas de Contingencia Ambiental establecerán las condiciones bajo las cuales permanecerán vigentes las medidas y los términos en que podrán prorrogarse, así como las condiciones y supuestos de exención.
 
-Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos en forma provisional noventa días antes de la elección.
+###### Artículo 152.
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
+En situación de contingencia ambiental, los responsables de las fuentes de contaminación estarán obligados a cumplir con las medidas de prevención y control.
 
-###### ARTICULO 81.
+### CAPÍTULO VIII. DE LOS CENTROS DE VERIFICACIÓN VEHICULAR
 
-La Ley en materia municipal deberá establecer las disposiciones generales sustantivas y adjetivas que le den un marco normativo común a los municipios, sin intervenir en las cuestiones específicas de los mismos; esta Ley tendrá por objeto;
+###### Artículo 153.
 
-I.- Establecer las bases generales bajo las cuales los ayuntamientos conducirán la administración pública municipal y a las que se sujetará el procedimiento administrativo que sus autoridades observarán para la conformación y emisión de sus actos;
+El Consejo, atendiendo a las necesidades de los servicios de verificación de vehículos automotores, expedirá, previa convocatoria pública, autorizaciones a los interesados que cumplan los requisitos correspondientes.
 
-II.- Establecer las bases generales para instituir en la reglamentación municipal, los medios de impugnación y el órgano para dirimir las controversias entre la administración pública municipal y los particulares, con sujeción a los principios de igualdad, publicidad audiencia y legalidad;
+El Consejo publicará las convocatorias en el Periódico Oficial del Estado y en un diario de circulación Estatal, en las cuales se determinarán los elementos materiales, humanos y demás condiciones que deberán reunir los interesados en obtener la autorización para operar los centros de verificación.
 
-III.- Determinar los casos en que se requiera el voto de las dos terceras partes de los integrantes del Ayuntamiento, cuando:
+###### Artículo 154.
 
-a).- Dicten resoluciones que afecten el patrimonio inmobiliario municipal; y
+La solicitud, evaluación, autorización, funcionamiento y en su caso la terminación y revocación de los centros de verificación vehicular, estarán determinados por el Reglamento de esta Ley y demás disposiciones aplicables.
 
-b).- Autoricen la celebración de actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento;
+###### Artículo 155.
 
-IV.- Establecer las normas de aplicación general que deberán de observarse cuando los ayuntamientos celebren actos que tengan por objeto:
+Los centros de verificación vehicular deberán obtener y mantener vigente una fianza para garantizar el cumplimiento de las obligaciones y condiciones establecidas en este Ley, su Reglamento y demás disposiciones aplicables y deberán mantener sus instalaciones y equipos en un estado de funcionamiento que permita la adecuada prestación del servicio.
 
-a).- La coordinación o asociación entre dos o más municipios para la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden;
+###### Artículo 156.
 
-b).- La prestación temporal de un servicio o el ejercicio de una función de carácter municipal por el Estado, ya sea de manera directa o a través del organismo correspondiente, o bien de manera coordinada con el Estado; y
+El Consejo podrá realizar visitas de inspección a efecto de constatar el cumplimiento de las disposiciones contenidas en esta Ley, su Reglamento y en los lineamientos normativos para la Operación de la Red Estatal de Centros de Verificación Vehicular, Manual de Imagen Interior y Exterior de la Red Estatal de Verificación Vehicular, el Programa de Verificación Vehicular Obligatoria para el Estado de Hidalgo, la Norma Oficial Mexicana y Técnicas Ecológicas.
 
-c).- El que un Ayuntamiento se haga cargo del ejercicio de funciones, la ejecución de obras, la operación de instalaciones o la prestación de servicios públicos que le correspondan al Estado.
+###### Artículo 157.
 
-V.- Establecer el procedimiento y condiciones para que el Estado asuma el ejercicio de una función o la prestación de un servicio público municipal, cuando el Municipio se encuentre imposibilitado y no exista convenio; al respecto, deberá mediar solicitud previa del Ayuntamiento, aprobada por cuando menos las dos terceras partes de sus integrantes y así lo apruebe el Congreso del Estado;
+Los centros de verificación están obligados a:
 
-VI.- Determinar las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes; y
+I.- Operar conforme a los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en esta Ley, su Reglamento, los lineamientos normativos para la Operación de la Red Estatal de Centros de Verificación Vehicular, las Normas Técnicas Federales o Estatales, el Programa de Verificación Vehicular, la autorización y circulares correspondientes;
 
-VII.- Establecer las normas que determinen los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos a que se refieren los artículos 84 y 85 fracción I, segundo párrafo, de esta Constitución, así como el segundo párrafo de la fracción VII del Artículo 116, de la Constitución Política de los Estados Unidos Mexicanos.
+II.- Que el personal del centro de verificación esté debidamente capacitado, así como acreditado por el Consejo;
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
+III.- Mantener sus instalaciones y equipos en las condiciones requeridas por el Consejo para la debida prestación del servicio de verificación vehicular;
 
-###### ARTICULO 82.
+IV.- Llevar un registro con la información de las verificaciones efectuadas y remitir al Consejo los datos obtenidos;
 
-Para el mejor desempeño de las facultades que le son propias, así como para la prestación de los servicios públicos y el ejercicio de las funciones que le son inherentes, los ayuntamientos tendrán a su cargo las siguientes:
+V.- Dar aviso inmediato al Consejo cuando dejen de prestar el servicio de verificación vehicular o los equipos e instalaciones no funcionen debidamente, en cuyo caso se abstendrán de realizar verificaciones hasta en tanto los mismos funcionen correctamente;
 
-A. ATRIBUCIONES:
+VI.- Conservar en depósito y manejar debidamente los documentos que reciban del Consejo para acreditar la aprobación de la verificación vehicular, hasta que éstos sean entregados al interesado y, en su caso, adheridos al vehículo automotor;
 
-I.- Regular todos los ramos que sean competencia del Municipio y reformar, derogar o abrogar los ordenamientos que expida, así como establecer todas las disposiciones normativas de observancia general indispensables para el cumplimiento de sus fines;
+VII.- Dar aviso inmediato al Consejo y presentar las denuncias correspondientes, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación vehicular;
 
-II.- Expedir los bandos de policía y gobierno, así como los demás reglamentos, circulares y disposiciones administrativas, que regulen:
+VIII.- Enviar al Consejo, en los términos establecidos por éste, la documentación e información requerida para la supervisión y control de la verificación;
 
-a).- La organización y funcionamiento interno del gobierno, del Ayuntamiento y la administración pública municipal, estableciendo los procedimientos para el nombramiento y remoción de los funcionarios, comisionados y demás servidores públicos;
+IX.- Mantener durante las horas de funcionamiento a un representante legal y recibir las verificaciones administrativas que ordene el Consejo;
 
-b).- Las materias, procedimientos, funciones y servicios públicos de su competencia;
+X.- Que sus establecimientos cuenten con los elementos distintivos determinados por el Consejo;
 
-c).- La participación ciudadana y vecinal; y
+XI.- Cobrar las tarifas autorizadas para la prestación del servicio de verificación vehicular;
 
-d).- La preservación del orden y la seguridad pública.
+XII.- Mantener en vigor la fianza correspondiente durante la vigencia de la autorización para prestar el servicio de verificación vehicular;
 
-III.- Participar en las reformas de esta Constitución, en los términos previstos por la misma;
+XIII.- Corroborar que el equipo y programa de cómputo que se le instale para proporcionar el servicio de verificación vehicular, sea la versión autorizada por el Consejo, de lo contrario abstenerse de proporcionar el servicio;
 
-IV.- Establecer y organizar demarcaciones administrativas dentro del territorio municipal para el ejercicio de sus funciones, la prestación de los servicios públicos a su cargo y la atención de las necesidades de su población;
+XIV.- Contar con el equipo y los sistemas para realizar la verificación vehicular conforme al proceso establecido en las normas técnicas vigentes;
 
-V.- Resolver respecto a la afectación, uso y destino de los bienes muebles municipales;
+XV.- Operar en los horarios determinados por el Consejo. Fuera del horario establecido no deberá permanecer vehículo alguno en las instalaciones del Centro de Verificación; y
 
-VI.- Resolver, mediante el voto aprobatorio de las dos terceras partes de sus integrantes, respecto de la afectación, gravamen, enajenación, uso y destino de los bienes inmuebles municipales;
+XVI.- Contar con un mínimo de noventa días naturales de respaldo en disco duro del servidor principal, con la información generada por las verificaciones realizadas y respaldar toda la información generada durante el semestre en cualquier medio de almacenamiento electrónico por el término mínimo de un año.
 
-VII.- Formular, dirigir e implementar la política de desarrollo social municipal; fomentar y regular el deporte y la cultura populares;
+Cuando los centros de verificación vehicular incumplan con alguna de las normas establecidas en la presente Ley, su Reglamento y lineamiento normativos para operación de la Red Estatal de Centros de Verificación Vehicular, el Consejo podrá iniciar el procedimiento administrativo con base en la documentación e información con la que se disponga.
 
-VIII.- Regular, autorizar, controlar y vigilar el uso del suelo en sus competencias territoriales;
+###### Artículo 158.
 
-IX.- Regular, autorizar, controlar y vigilar las construcciones, instalaciones y acciones de urbanización que se realicen dentro de sus competencias territoriales;
+El original del documento en el que conste que las emisiones contaminantes de un vehículo automotor no rebasan los límites máximos de emisión, será conservado por el propietario.
 
-X.- Ejercer la función de seguridad pública municipal, en coordinación con los órdenes de gobierno federal y estatal; y
+Una copia de dicha constancia será canjeada por un holograma que acredite que el vehículo fue verificado y que sus emisiones no rebasan los límites máximos permitidos.
 
-XI.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal.
+El holograma deberá ser adherido en lugar visible del vehículo y colocado en las instalaciones del centro de verificación.
 
-B. FUNCIONES Y SERVICIOS PUBLICOS:
+###### Artículo 159.
 
-I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+Los proveedores de equipos y servicios para la operación de los Centros de Verificación vehicular deberán contar con la autorización del Consejo.
 
-II.- Alumbrado Público;
+Las personas físicas o morales interesadas en obtener la autorización referida, deberán presentar solicitud en los términos que dicte la convocatoria que para ese efecto emita el Consejo y ajustarse a lo que dispongan los ordenamientos que regulen esta materia.
 
-III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+### CAPÍTULO IX. REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
 
-IV.- Mercados y centrales de abasto;
+###### Artículo 160.
 
-V.- Panteones;
+El Consejo deberá integrar un registro de emisiones y transferencia de contaminantes del aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la Autoridad correspondiente. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante el Consejo.
 
-VI.- Rastro;
+Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del registro.
 
-VII.- Calles, parques, jardines y su equipamiento;
+###### Artículo 161.
 
-VIII.- Seguridad Pública Municipal, policía preventiva y tránsito; y
+Se consideran establecimientos sujetos a reporte de competencia estatal, las fuentes emisoras de contaminación atmosférica, los generadores de residuos de manejo especial en términos de las disposiciones aplicables, así como aquellos que descarguen aguas residuales en cuerpos receptores de jurisdicción Estatal y los Sistemas de Drenaje y Alcantarillado Municipal.
 
-IX.- Catastro y control urbano.
+###### Artículo 162.
 
-El Congreso del Estado podrá establecer a favor de los municipios, la facultad de ejercer funciones o la prestación de servicios públicos de carácter supramunicipal, atendiendo a la eficacia de la gestión pública y tomando en consideración sus condiciones territoriales y socioeconómicas, así como su capacidad administrativa y financiera.
+El Reglamento que al respecto se expida, determinará los sectores y subsectores sujetos a proporcionar información para la integración del registro y los mecanismos para ello.
 
-Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios observarán lo dispuesto por las leyes federales y estatales.
+###### Artículo 163.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+Para actualizar la base de datos del registro, los establecimientos sujetos a reporte deberán presentar la información sobre sus emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de manejo especial, ocurridas durante el año calendario anterior.
 
-###### ARTICULO 83.
+La información a que se refiere el párrafo anterior se proporcionará a través de la Cédula de Operación Anual, durante el primer cuatrimestre de cada año la cual contendrá la siguiente información:
 
-En los términos de las leyes federales y estatales relativas, corresponde a los municipios:
+I.- Datos de identificación y firma del promovente, nombre de la persona física, o denominación o razón social de la empresa, Registro Federal de Contribuyentes, y domicilio para oír y recibir notificaciones;
 
-I.- Participar en la formulación de los planes de desarrollo regional. Cuando el Gobierno del Estado formule proyectos de planes o programas de desarrollo regional, asegurará la intervención de los municipios que deban involucrarse;
+II.- Datos de identificación del establecimiento sujetos a reporte de competencia estatal, los cuales incluirán su domicilio y ubicación geográfica en el sistema que el Consejo determine;
 
-II.- Participar en la creación y administración de sus reservas territoriales;
+III.- Fecha de inicio de operaciones, participación de capital, Cámara a la cual se encuentra afiliado, en su caso, datos de la Compañía Matriz o Corporativo al cual pertenece, número de personal empleado, y periodos de trabajo;
 
-III.- Intervenir en la regularización de la tenencia de la tierra urbana;
+IV.- La información técnica general del establecimiento, en la cual se incluirá el diagrama de operación y funcionamiento que describirá el proceso productivo desde la entrada del insumo y su trasformación, hasta que se produzca la emisión, descarga, generación de residuos de manejo especial o transferencia total o parcial de contaminantes, así como los datos de insumos, productos, subproductos y consumo energético empleados;
 
-IV.- Participar en la creación y administración de zonas de reservas ecológicas y, en la elaboración y aplicación de programas de ordenamiento en esta materia;
+V.- La relativa a las emisiones de contaminantes a la atmósfera, en la cual se incluirán las características de la maquinaria, equipo ó actividad que las genere, describiendo el punto de generación y el tipo de emisión, así como las características de las chimeneas y ductos de descarga de dichas emisiones;
 
-V.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
+VI.- La respectiva al aprovechamiento de agua, registro de descargas y transferencia de contaminantes y sustancias al agua, en la cual se reportarán las fuentes de extracción de agua, los datos generales de las descargas incluyendo las realizadas a cuerpos receptores y alcantarillado, así como las características de dichas descargas;
 
-VI.- Formular y conducir la política ambiental dentro del territorio municipal, que garantice un medio ambiente adecuado para el bienestar y desarrollo de su población e incorpore la dimensión ambiental en sus planes y programas de desarrollo;
+VII.- La inherente a la generación y transferencia de residuos de manejo especial, la cual contendrá en su caso el numero del registro del generador, los datos de generación y transferencia de residuos de manejo especial, incluyendo los relativos a su almacenamiento dentro del establecimiento, así como a su tratamiento y disposición final;
 
-VII.- Celebrar convenios para la administración y custodia de zonas federales;
+VIII.- La concerniente a la emisión y transferencia de aquellas sustancias que determine el Consejo como sujetas a reporte en la Norma Oficial correspondiente, así como los datos relacionados a su producción, elaboración o uso;
 
-VIII.- Garantizar la sustentabilidad del desarrollo en su territorio, creando las condiciones para la adecuada prestación de los servicios sociales a su cargo y alentando la coordinación y concertación de acciones con los gobiernos federal y estatal, así como la participación social, a fin de elevar la calidad de vida de las personas;
+IX.- La referente para aquellas emisiones o trasferencias derivadas de accidentes, contingencias, fugas o derrames, inicio de operaciones y paros programados, misma que deberá ser reportada por cada evento que se haya tenido, incluyendo la combustión a cielo abierto; y
 
-IX.- Prestar y regular en sus competencias territoriales el servicio de transporte público;
+X.- La relativa a la prevención y manejo de la contaminación, en la cual se describirán las actividades de prevención realizadas en la fuente y su área de aplicación, así como las de reutilización, reciclaje, obtención de energía, tratamiento, control o disposición final de las sustancias a que se refiere la fracción VIII del presente Artículo.
 
-X.- Regular, autorizar, controlar y vigilar en sus competencias territoriales, la venta, almacenaje y consumo público de bebidas con graduación alcohólica;
+###### Artículo 164.
 
-XI.- Expedir los reglamentos y disposiciones administrativas que fueren necesarios, de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y
+La presentación de la cédula de operación anual deberá ser a través del formato que determine el Consejo, cubriendo los lineamientos y formalidades que para el caso se establezcan. La información será verificada por el Consejo y en el caso de resultar falsa se sancionará en los términos de la presente Ley y demás disposiciones aplicables.
 
-XII.- Las demás que establezcan las Leyes.
+###### Artículo 165.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+Para la integración del registro, el Consejo y los Ayuntamientos podrán convenir con la Federación, la determinación de directrices y principios técnicos para uniformar y homologar la integración de las bases de datos de su competencia, así como los mecanismos para actualizar la información anualmente.
 
-###### ARTICULO 84.
+###### Artículo 166.
 
-Los municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden.
+La información relativa al Registro de Emisiones y Transferencia de Contaminantes podrá ser difundida a través de los medios de comunicación que la Autoridad estime conveniente y será únicamente para efectos de información y consulta.
 
-Tratándose de la asociación con municipios de otros estados, se deberá contar con la aprobación del Congreso del Estado.
+## TÍTULO QUINTO. DE LOS PRESTADORES DE SERVICIOS AMBIENTALES
 
-Cuando a juicio del Ayuntamiento respectivo resulte necesario, se podrá convenir con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y por el propio Municipio.
+###### Artículo 167.
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
+Podrán prestar servicios ambientales las personas físicas que cuenten con cédula profesional, o las morales cuyo objeto sea la prestación de sus servicios. Para el efecto el Consejo integrará un padrón de prestadores de servicios técnicos y auditores ambientales.
 
-### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
+###### Artículo 168.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+Para estar inscrito en el Padrón de Prestadores de Servicios Ambientales se requiere:
 
-###### ARTICULO 85.
+I.- Presentar solicitud por escrito ante el Consejo;
 
-El patrimonio de los municipios lo constituyen sus bienes del dominio público y del privado. Los bienes que integran el patrimonio municipal son inembargables; en consecuencia, no podrá emplearse la vía de apremio ni dictarse mandamiento de ejecución, ni hacerse efectivas por ejecución forzada, las resoluciones dictadas en contra del patrimonio municipal. En todo caso, los ayuntamientos deberán adoptar las adecuaciones presupuestales necesarias para satisfacer sus obligaciones. Las sentencias que se dicten contra el Ayuntamiento deberán ser incorporadas en el presupuesto de egresos correspondiente, a efecto de ser cumplidas.
+II.- Contar con título y cédula profesional para desempeñar la profesión con la que se ostenta;
 
-La Hacienda Municipal se formará de los rendimientos de los bienes que le pertenezcan, así como de las contribuciones y otros ingresos que el Congreso establezca a su favor, y en todo caso:
+III.- Contar con la infraestructura necesaria para la prestación de sus servicios;
 
-I.- Percibirá las contribuciones, incluyendo tasas adicionales, que se establezcan sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valores de los inmuebles.
+IV.- Presentar las acreditaciones vigentes y aplicables de acuerdo a su especialidad; y
 
-Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de estas contribuciones;
+V.- Pagar los derechos correspondientes.
 
-II.- Las participaciones federales y estatales, que serán cubiertas por la Federación y el Estado respectivamente, con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado conforme a la Ley y bajo el principio de justicia distributiva;
+###### Artículo 169.
 
-III.- Los ingresos derivados de la prestación de servicios públicos a su cargo; y
+Los prestadores de servicios son responsables de la calidad y veracidad de la información, así como del nivel profesional de los estudios que elaboren, y deberán recomendar a los promoventes sobre la adecuada realización de las medidas de mitigación y compensación derivadas de los estudios y la autorización.
 
-IV.- Los recursos públicos que se destinen en el presupuesto de egresos del Estado, para satisfacer el ejercicio de funciones o la prestación de servicios públicos exclusivos del Municipio.
+###### Artículo 170.
 
-Los recursos que integran la hacienda municipal serán ejercidos en forma directa y exclusiva por los ayuntamientos, o bien, por quien ellos autoricen conforme a la Ley.
+El Consejo deberá notificar por escrito al solicitante de registro, dentro del plazo de quince días hábiles, contados a partir de la celebración de la entrevista, si es procedente o no su inscripción en el padrón y, en su caso otorgar el número de registro e indicar la especialidad.
 
-No se establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones I y III de este artículo, a favor de persona o institución alguna. Sólo estarán exentos los bienes del dominio público de la Federación, del Estado y de los municipios, salvo que sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+###### Artículo 171.
 
-Los ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios del suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. Los ayuntamientos, de manera exclusiva, tendrán la facultad de presentar al Congreso del Estado para su aprobación, la Iniciativa de la Ley de Ingresos y las modificaciones a la misma.
+No podrá prestar servicios ambientales, directamente ni a través de terceros, el servidor público que intervenga en cualquier forma en la aplicación de la presente ley ni las personas con las que tenga interés personal, familiar o de negocios. La infracción a esta disposición será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
-Los ayuntamientos remitirán al Congreso para su revisión y fiscalización, cada año, las cuentas públicas del ejercicio anterior, dentro del término y conforme a las formalidades que señale la Ley.
+## TÍTULO SEXTO. DE LA VIGILANCIA
 
-Los presupuestos de egresos serán aprobados por los ayuntamientos, con base en sus ingresos disponibles.
+### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
+###### Artículo 172.
 
-### CAPITULO VI.. DE LOS CONCEJOS MUNICIPALES
+Cuando exista riesgo inminente de desequilibrio ecológico o casos de contaminación en el Territorio de la Entidad o en algún Municipio, con repercusiones para los ecosistemas, sus componentes o la salud pública, el Estado por conducto del Consejo o el Ayuntamiento del Municipio correspondiente, como medida de seguridad, podrán en el ámbito de su competencia, ordenar:
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+l.- La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se desarrollen las actividades que den lugar a los supuestos a que se refiere el párrafo anterior;
 
-###### ARTICULO 86.
+II.- El aseguramiento precautorio de materiales y residuos peligrosos, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad;
 
-El Congreso del Estado por acuerdo de las dos terceras partes de sus integrantes en los términos de la fracción IX, del artículo 27 de esta Constitución, podrá suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, procediendo a la designación de munícipes o de Concejos Municipales, a propuesta del Gobernador del Estado. La separación del cargo de los integrantes de los ayuntamientos, sólo procederá si se funda en una causa grave, conforme a la Ley.
+III.- La neutralización o cualquier acción análoga que impida los efectos previstos en el primer párrafo de este Artículo; y
 
-De igual forma se procederá cuando fuere declarada la nulidad de las elecciones de los ayuntamientos o las mismas no estuvieren hechas y declaradas; o sus integrantes, propietarios o suplentes, se separen colectivamente de manera voluntaria, faltaren en su totalidad o no se presentaren al iniciarse el período constitucional correspondiente.
+IV.- Además deberá promover ante la autoridad competente, en términos de sus leyes relativas, la ejecución de las medidas de seguridad que en dichos ordenamientos se establecen.
 
-Los Concejos Municipales podrán ser provisionales o substitutos, según lo disponga la Ley, la que determinará su integración con el mismo número previsto para los ayuntamientos y los casos en que proceda la elección de éstos.
+###### Artículo 173.
 
-En los términos de este artículo, el Congreso del Estado procederá a la designación de munícipes cuando éstos se separen de manera voluntaria y definitiva al cargo o falten uno o varios de ellos, propietarios o suplentes, o no se presentaren en igual número al iniciarse el ejercicio de un período constitucional. Estos munícipes serán nombrados en los mismos términos que dispone este artículo para los Concejos Municipales.
+Cuando el Consejo ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, su responsabilidad respecto de los daños causados al ambiente, ha (sic) los ecosistemas y a la salud pública, así como las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, y los plazos para su realización, a fin de que una vez cumplida éstas, se ordenará el retiro de la medida de seguridad impuesta.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
 
-###### ARTICULO 87.
+###### Artículo 174.
 
-Los integrantes de los Concejos Municipales y los Munícipes que se designen conforme a este Capítulo, deberán cumplir los requisitos de elegibilidad establecidos para los regidores y munícipes respectivamente; tendrán las facultades y obligaciones que esta Constitución y las leyes otorgan a los ayuntamientos.
+Las violaciones a los preceptos de esta Ley, su Reglamento y las demás disposiciones que de ella emanen, constituyen infracciones administrativas y serán sancionadas por el Consejo o los Ayuntamientos, en el ámbito de su respectiva competencia, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
-Las personas integrantes de los Concejos Municipales o los Munícipes designados de acuerdo con lo que expresa este Capítulo, no podrán ser integrantes de los ayuntamientos, para el período inmediato.
+###### Artículo 175.
 
-###### ARTICULO 88.
+Las sanciones administrativas podrán consistir en:
 
-Pertenecen al Estado, además de los bienes de dominio público, de las contribuciones decretadas por la Legislatura y de las rentas, participaciones y multas que debe percibir, todos los bienes que no correspondan a la Federación o a los Municipios, ni sean individual o colectivamente, de propiedad particular o ejidal.
+I.- Amonestación con apercibimiento;
 
-###### ARTICULO 89.
+II.- Multa por el equivalente de diez a veinte mil días de salario mínimo general vigente en el Estado, en el momento de poner la sanción;
 
-El Congreso expedirá la Ley de Hacienda que establecerá las bases para la fijación de los impuestos, derechos y participaciones y la manera de hacerlos efectivos, y que regule la organización de las oficinas recaudadoras.
+III.- Clausura temporal o definitiva, total o parcial;
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1997)</small>
+IV.- El aseguramiento de los instrumentos, productos o implementos utilizados en la infracción;
 
-###### ARTICULO 90.
+V.- El decomiso definitivo de los recursos naturales, materiales o residuos sólidos industriales o Municipales directamente relacionados con infracciones;
 
-El presupuesto formará siempre un sólo cuerpo distribuido en partidas, según los conceptos de erogación y serán obligatoriamente incluidos en él los gastos y las dotaciones necesarias para atender los servicios públicos.
+VI.- Aseguramiento de los bienes inmuebles que sirvieron para la ejecución;
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+VII.- La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes;
 
-Para garantizar su independencia económica, el Poder Judicial, contará con Presupuesto propio, el que administrará y ejercerá en los términos que fijen las Leyes respectivas. Este no podrá ser inferior al aprobado por el Congreso para el ejercicio anual anterior, para estos efectos no se considerarán las ampliaciones presupuestales. El Congreso podrá modificar, por causa justificada y fundada, el monto presupuestado.
+VIII.- La compensación del daño ambiental ocasionado;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+IX.- Hacer efectivas las fianzas o seguros que se hubieren otorgado;
 
-Para la aprobación del presupuesto anual del Poder Judicial, el Congreso podrá considerar lo previsto en el Plan de Desarrollo Judicial correspondiente.
+X.- Ordenar el retiro de la circulación de los vehículos que generen contaminación; y
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+XI.- La remisión de vehículos a los depósitos correspondiente.
 
-El Poder Judicial contará y administrará igualmente, con los recursos que se señalan para el Fondo de Administración de Justicia en las Leyes respectivas, administrado por el Consejo de la Judicatura. Dicho Fondo se destinará exclusivamente al mejoramiento de la impartición de justicia, y para otorgar estímulos al personal jurisdiccional del Poder Judicial, excluyendo a los Magistrados, Jueces y Consejeros de la Judicatura. La Ley establecerá los mecanismos para la plena fiscalización del Fondo por el Congreso.
+Si una vez vencido el plazo concedido por la Autoridad para subsanar la o las infracciones que se hubiesen cometido, resultare que dicha infracción o infracciones aún subsisten, se podrá imponer multas por cada día que transcurra, sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido.
 
-###### ARTICULO 91.
+En caso de reincidencia, el monto de la sanción económica podrá duplicarse.
 
-Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados, y, en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Se considera reincidente al infractor que incurra más de una vez en la misma conducta por la que ya ha sido sancionado en los términos de esta Ley y su Reglamento.
 
-El Gobernador del Estado durante el tiempo de su encargo solo podrá ser acusado por delitos graves del orden común.
+###### Artículo 176.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+Se sancionará con clausura temporal o definitiva, total o parcial y multa de hasta veinte mil días de salario mínimo vigente, a quienes:
 
-###### ARTICULO 92.
+I.- Realicen obras o actividades que causen una alteración significativa en el ambiente;
 
-El Congreso del Estado, dentro de los ámbitos de su competencia, expedirá la Ley Estatal de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes teniendo este carácter, incurran en responsabilidad, de conformidad con las siguientes prevenciones:
+II.- Efectúen obras o actividades en contravención al proyecto autorizado conforme a la evaluación de la manifestación de impacto ambiental;
 
-I.- Se impondrán, mediante juicio político, las sanciones indicadas en el Artículo 93 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+III.- Realicen obras o actividades sin haber obtenido previamente la autorización en materia de impacto ambiental, siendo responsabilidad del infractor reparar los daños ocasionados y reestablecer la superficie de suelo afectada en las condiciones en que se encontraba;
 
-No procede el juicio político por la mera expresión de ideas.
+IV.- Realicen actividades u obras riesgosas sin presentar el estudio de riesgo ambiental y un programa que establezca las acciones de prevención y control en caso de emergencia o contingencias ambientales;
 
-II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la (sic) penal; y
+V.- Omitan la instalación de equipos y sistemas de control de emisiones, provenientes de fuentes fijas y/o no adopten las medidas establecidas para su control;
 
-III.- Se aplicarán las sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+VI.- Rebasen los límites permitidos de emisiones contaminantes; y
 
-Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+VII.- Incumplan las Normas Oficiales y/o Normas Técnicas Estatales.
 
-Las Leyes determinarán los casos y circunstancias en las que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos cuya procedencia no pudiesen justificar.
+###### Artículo 177.
 
-La Ley Penal sancionará con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+Procede la revocación de permisos, concesiones, licencias y diversas autorizaciones a quienes no se sujeten a los términos establecidos en las propias autorizaciones relacionadas con la protección al ambiente.
 
-Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado respecto de las conductas a las que se refiere el presente Artículo.
+###### Artículo 178.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+La violación a cualquiera de las prescripciones, prohibiciones u obligaciones establecidas en esta Ley, será sancionada con multa de diez a veinte mil días de salario mínimo vigente, independientemente de que será responsabilidad del infractor reparar los daños ambientales ocasionados.
 
-La resolución emitida por el Congreso estará investida de soberanía, por lo que será definitiva e inatacable.
+###### Artículo 179.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
+Para la determinación del monto de las multas, la autoridad competente deberá considera (sic) los siguientes elementos:
 
-###### ARTICULO 93.
+I.- La gravedad de la infracción.
 
-Podrán ser sujetos de Juicio Político los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Oficial Mayor del Gobierno del Estado, Titulares de las Secretarías del Ejecutivo del Estado, Procurador General de Justicia del Estado, Procurador de los Derechos Humanos, Magistrados del Tribunal de lo Contencioso Administrativo, Jueces, Presidentes Municipales, Regidores, Síndicos Municipales y demás miembros de los Ayuntamientos de Elección Popular, Consejos Municipales, Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos.
+II.- Las condiciones económicas del infractor; y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+III.- La reincidencia si la hubiere.
 
-Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, cargos o comisiones de cualquier naturaleza en el servicio público.
+###### Artículo 180.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiese incurrido, previamente a que la Autoridad competente imponga una sanción, dicha Autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
-Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado, a través de una comisión de su seno instruirá, el procedimiento respectivo que concluirá en proposiciones concretas sobre la responsabilidad del inculpado previa audiencia de éste.
+La autoridad correspondiente, por si o a solicitud del infractor, podrá otorgar a éste, la opción para pagar la multa en plazos, o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor, no se trate de alguno de los supuestos previstos en el Artículo 174 de esta Ley, y la Autoridad justifique plenamente se (sic) decisión.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+###### Artículo 181.
 
-El Congreso del Estado concurriendo cuando menos las dos terceras partes del número total de sus miembros, se erigirá en Jurado de Sentencia una vez practicadas las diligencias correspondientes con audiencias del acusado, emitirá el fallo correspondiente tomado por acuerdo de las dos terceras partes del número total de diputado (sic). En ese caso no votarán quienes hayan integrado la Comisión Instructora.
+Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal o comisionado para ejecutarla, procederá a levantar acta circunstanciada, observando las disposiciones aplicables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 182.
 
-Las resoluciones que emita el Congreso del Estado, serán en ejercicio pleno de su soberanía, y por lo tanto, resolverá en forma libre y discrecional. Dichas resoluciones serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
+Se impondrán multas adicionales, sin perjuicio de las que puedan corresponder con arreglo a otras Leyes, cuando en la comisión de las infracciones que señala esta Ley concurra alguna de las circunstancias siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2007)</small>
+I.- Que la industria o actividad funcione clandestinamente, sin haber obtenido la respectiva autorización o aprobación administrativa de sus actividades o instalaciones;
 
-###### ARTICULO 94.
+II.- Que se hayan desobedecido las órdenes expresas de la Autoridad Administrativa de corrección o suspensión de labores por motivos de protección ambiental;
 
-Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Magistrados del Tribunal de lo Contencioso Administrativo, Secretario General de Gobierno, Procurador General de Justicia del Estado, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado, por la comisión de delitos durante el tiempo de su encargo el Congreso declarará por mayoría calificada de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de miembros presentes en sesión cuando se refiera a los demás Servidores Públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
+III.- Que se haya falseado u ocultado información sobre los aspectos ambientales ante la Autoridad;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+IV.- Que se haya obstaculizado la actividad inspectora de la Administración; y
 
-Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluído el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+V.- Que se haya producido un riesgo de deterioro irreversible.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+###### Artículo 183.
 
-Si el Congreso del Estado declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
+El Consejo podrá promover ante las Autoridades Federales, Estatales o Municipales competentes, con base en los estudios que haga para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales, o causar desequilibrio ecológico o perdida de la biodiversidad.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+###### Artículo 184.
 
-En el caso de que el Gobernador del Estado, Diputados, Magistrados del Poder Judicial del Estado y Consejeros de la Judicatura del Estado, sean declarados responsables en Juicio Político por la Cámara de Senadores del Congreso de la Unión o sujetos de declaración de procedencia por la Cámara de Diputados del mismo Congreso, la Legislatura del Estado determinará las sanciones de las señaladas en el Artículo 93 que deban imponerse al acusado si se está en el primer caso, o decretará la separación del Servidor Público de que se trate del cargo que ocupa y lo hará saber así a la Autoridad que haya solicitado la remoción del Fuero Constitucional.
+En los casos en que se imponga como sanción la clausura temporal, el Consejo deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+###### Artículo 185.
 
-El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal.
+En la resolución que ponga fin al procedimiento de inspección y vigilancia, el Consejo determinará las medidas de compensación del daño ambiental ocasionado, así como la forma y términos en que el sancionado deberá cumplirlas, con los apercibimientos que correspondan.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+###### Artículo 186.
 
-Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+La compensación del daño consistirá en la realización de actividades tendientes a restaurar el equilibrio ecológico.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+###### Artículo 187.
 
-En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
+El que obrando licita o ilícitamente o contra las buenas costumbres, cause daño al ambiente esta obligado a repararlo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+###### Artículo 188.
 
-Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos de cuya comisión el autor obtenga un beneficio económico o cause daños y perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+Cuando una persona hace uso de mecanismos o instrumentos, vehículos, aparatos, o substancias peligrosas o no peligrosas, por la velocidad que desarrollen, por su naturaleza explosiva o inflamable, por la energía de la corriente eléctrica que conduzcan o por otras causas análogas, esta obligada a responder por los daños que cause al ambiente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+###### Artículo 189.
 
-Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+Las personas morales son responsables de los daños al ambiente que causen sus socios, administradores, representantes, operarios, empleados, obreros en el ejercicio de sus actividades.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+###### Artículo 190.
 
-### CAPITULO I.. DEL PODER LEGISLATIVO
+Los patrones y los dueños de cualquier tipo de establecimiento, están obligados a responder de los daños al ambiente causados por sus empleados, obreros o dependientes en el ejercicio de sus actividades.
 
-###### ARTICULO 95.
+###### Artículo 191.
 
-No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el Párrafo Primero del Artículo 94, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+Los propietarios, poseedores o concesionarios de minas de pétreos son responsables del daño ambiental que se ocasione con motivo de su explotación y están obligados a repararlo.
 
-Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el Artículo 94, se procederá de acuerdo con lo dispuesto en dicho Precepto.
+###### Artículo 192.
 
-Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+Cuando por infracción a las disposiciones de esta Ley y sus disposiciones reglamentarias se ocasionen daños al ambiente, el Consejo dará inicio al procedimiento de inspección y vigilancia, dentro del cual emitirá un dictamen técnico que tendrá el valor de medio de convicción.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE AGOSTO DE 2007)</small>
+###### Artículo 193.
 
-La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+El dictamen técnico tiene por objeto determinar la relación de causalidad entre las infracciones, los daños ocasionados y la normatividad vigente.
 
-El procedimiento de juicio político solo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
+# LIBRO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-La responsabilidad por delitos cometidos durante el tiempo de su encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe alguno de los encargos a que hace referencia el Artículo 94.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos u omisiones a que hace referencia la Fracción III del Artículo 92. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+###### Artículo 194.
 
-## TITULO NOVENO
+Las disposiciones de esta Ley son de orden público, interés general, de carácter obligatorio y tienen por objeto regular el procedimiento administrativo ante las autoridades de la materia, que se suscite con motivo de su aplicación, de los Reglamentos, Decretos, Acuerdos y demás normas ambientales, así como para la imposición de medidas de seguridad y sanciones.
 
-### CAPITULO UNICO.. PREVENCIONES GENERALES
+En lo no previsto por este ordenamiento se aplicará en lo conducente y en forma supletoria, la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo y el Código de Procedimientos Civiles para el Estado de Hidalgo.
 
-###### ARTICULO 96.
+###### Artículo 195.
 
-La Capital del Estado de Baja California será la ciudad de Mexicali, donde residirán los poderes, los que solamente podrán trasladarse a otro lugar, por acuerdo de las dos tercias partes del número total de Diputados que integren el Congreso.
+El procedimiento administrativo que regula esta Ley se regirá por los principios de sencillez, celeridad, oficiosidad, eficacia, publicidad y buena fe; en consecuencia:
 
-###### ARTICULO 97.
+I.- Su trámite será sencillo, evitando formulismos innecesarios;
 
-Los funcionarios públicos no tienen más facultades que las que expresamente les otorgan las leyes.
+II.- Deberá tramitarse y decidirse de manera pronta y expedita;
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+III.- Se impulsará de oficio, sin perjuicio de la intervención de las partes interesadas;
 
-Los Servidores Públicos Titulares de los Poderes Legislativo, Ejecutivo, Judicial y de los Ayuntamientos recibirán una retribución adecuada e irrenunciable por el desempeño de su función, misma que será equitativa y congruente con la situación socioeconómica que guarde el Estado y con las condiciones de la Hacienda Pública, determinada en su monto total en el Presupuesto Anual de Egresos y dada a conocer en forma pública con la situación patrimonial de dichos titulares.
+IV.- Se cuidará que alcance sus finalidades y efectos legales;
 
-###### ARTICULO 98.
+V.- Las actuaciones serán públicas, salvo que la moral o el interés general exija lo contrario; y
 
-En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho al voto en cualquier elección, siempre que reúnan los re quisitos (sic) que señale la Ley.
+VI.- Las autoridades y las partes interesadas se conducirán en las promociones y actuaciones, con honradez, transparencia y respeto.
 
-###### ARTICULO 99.
+###### Artículo 196.
 
-Las relaciones entre el Estado y sus servidores estarán reguladas por Ley del Servicio Civil que se sujetará a los siguientes principios:
+Las promociones en el procedimiento se presentarán o realizarán en forma escrita.
 
-I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad;
+Para documentar el procedimiento podrán utilizarse impresos que estén legalmente autorizados, así como los elementos incorporables a un sistema de compilación y reproducción mecánico o electrónico, que garantice su conservación y recuperación completa y fidedigna.
 
-II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad (sic) y antecedentes en el servicio;
+###### Artículo 197.
 
-III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente;
+Las actuaciones, se escribirán con letra las fechas y cantidades; no se emplearán abreviaturas ni se enmendarán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose con toda precisión el error cometido.
 
-IX (sic).- La Ley fijará cuáles son los empleados de confianza y cuáles los de base.
+###### Artículo 198.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
+Toda promoción que sea presentada por escrito deberá contener la firma autógrafa de quien la formule, requisito sin el cual no se le dará curso. Cuando el promovente no sepa o no pueda firmar, estampará su huella digital.
 
-La Ley del Servicio Civil determinará cual es el procedimiento y el órgano competente para dirimir los conflictos que surjan entre el Gobierno del Estado de Baja California y sus trabajadores.
+###### Artículo 199.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2008)</small>
+Cuando una solicitud o promoción se formule por dos o más personas, deberán designar un representante común de entre ellas. Si no se hace el nombramiento, la Autoridad Administrativa considerará como representante común a la persona mencionada en primer término.
 
-###### ARTICULO 100.
+Los interesados podrán revocar, en cualquier momento, la designación del representante común, nombrando a otro, lo que se hará saber a la propia autoridad.
 
-Los recursos económicos de que disponga el Gobierno del Estado y los Municipios así como sus respectivas administraciones públicas descentralizadas, se administrarán con eficiencia, eficacia y honradez, de acuerdo a las metas que estén destinados dentro de sus respectivos Presupuestos de Egresos. Los servidores públicos tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+###### Artículo 200.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
+Las promociones y actuaciones se efectuarán en días y horas hábiles.
 
-Las adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas y convocatorias públicas, para que se presenten libremente proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, garantías, formas de pago, oportunidad y demás circunstancias pertinentes.
+Son días hábiles todos los del año, con exclusión de los sábados, domingos y aquéllos que se señalen en el calendario oficial correspondiente. Son horas hábiles las comprendidas entre las 8:30 y las 16:30 horas.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
+###### Artículo 201.
 
-Cuando las licitaciones a que se hace referencia en el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos, y demás elementos para acreditar la economía, eficiencia, eficacia y honradez que garanticen las mejores condiciones financieras, comerciales y de servicio.
+Las Autoridades Administrativas pueden habilitar los días y horas inhábiles, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
+Si una diligencia se inició en día y hora hábiles, puede llevarse hasta su fin sin interrupción y sin necesidad de habilitación expresa.
 
-Respecto a los bienes muebles del Estado deben implementarse y ejercerse estrictos sistemas de control para garantizar su uso racional y esmerada conservación, así como para operar las bajas, venta, permuta o donación de los mismos, cuando por su estado físico o cualidades técnicas ya no sean útiles o funcionales. Así también, cuando se hubieren extraviado, robado, accidentado o destruido, deberá darse debido cumplimiento a las disposiciones legales que resulten aplicables.
+###### Artículo 202.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE AGOSTO DE 2008)</small>
+Las Autoridades Administrativas podrán ordenar, de oficio o a petición de parte, subsanar las irregularidades u omisiones que observen en la tramitación del procedimiento para el sólo efecto de regularizar el mismo, sin que ello implique que puedan revocar sus propias determinaciones.
 
-La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+###### Artículo 203.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
+La Autoridad Administrativa podrá acordar la acumulación de expedientes del procedimiento que ante ellas se sigan, de oficio o a petición de parte, cuando:
 
-El manejo de los recursos económicos del Estado se sujetará a las bases de este Artículo.
+I.- Exista identidad de partes;
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1996)</small>
+II.- Se trate de actos conexos; o
 
-Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Octavo de la Constitución Política del Estado.
+III.- Resulte conveniente el trámite unificado de los asuntos para evitar la emisión de resoluciones contradictorias.
 
-###### ARTICULO 101.
+La misma regla se aplicará en lo conducente, para la separación de los expedientes.
 
-En el Estado será protegida la propiedad literaria y artística. La Ley fijará los derechos de los autores y las penas en que incurren los que violen este derecho de propiedad.
+###### Artículo 204.
 
-## TITULO CUARTO
+Para hacer cumplir sus determinaciones, las Autoridades Administrativas, podrán hacer uso de cualquiera de los siguientes medios de apremio y medidas disciplinarias:
 
-### CAPITULO II.. DE LAS PRERROGATIVAS DE LOS DIPUTADOS Y DE LAS FACULTADES DEL CONGRESO
+I.- Amonestación;
 
-###### ARTICULO 102.
+II.- Multa de diez a cien días de salario mínimo vigente en el Estado;
 
-El destino de las donaciones intervivos o testamentarias hechas conforme a las leyes para fines de interés social, no podrá ser variado ni modificado por ninguna ley, El Ejecutivo velará porque tales donaciones sean aplicadas a su objeto.
+III.- Auxilio de la fuerza pública;
 
-###### ARTICULO 103.
+IV.- Vista al ministerio público cuando se trate de hechos probablemente constitutivos de delito;
 
-Ninguna autoridad exigirá anticipos de contribuciones ni préstamos forzosos.
+V.- Arresto administrativo hasta por treinta y seis horas; y
 
-###### ARTICULO 104.
+VI.- Los demás que establezcan otros ordenamientos.
 
-La Ley Civil contendrá disposiciones que tiendan a proteger la estabilidad del hogar y la constitución del patrimonio familiar, con miras a evitar el desamparo de la esposa y de los hijos.
+###### Artículo 205.
 
-### CAPITULO III.. DE LA INICIATIVA Y LA FORMACION DE LAS LEYES Y DECRETOS
+Las partes del procedimiento podrán consultar los expedientes en que se documenta el procedimiento administrativo, y obtener copia certificada de los documentos y actuaciones que los integren, previo pago de derechos.
 
-###### ARTICULO 105.
+###### Artículo 206.
 
-El Ejecutivo creará el sistema penitenciario del Estado, estableciendo las cárceles de reclusión preventiva, las penitenciarías o colonias penales que fueren necesarias, organizando en unas y otras, un sistema de trabajo como medio de regeneración de los delincuentes. El Ejecutivo del Estado podrá celebrar convenios con la Federación para que los reos sentenciados extingan su pena en establecimientos federales de reclusión aún cuando se hallen fuera del Estado.
+Las resoluciones del procedimiento administrativo serán claras, precisas y congruentes con las cuestiones planteadas por las partes o las derivadas del expediente respectivo.
 
-###### ARTICULO 106.
+###### Artículo 207.
 
-El Estado vigilará y cooperará con el Gobierno Federal en la observancia de la higiene y salubridad pública, dictando las disposiciones y adoptando las medidas que fueren necesarias para prevenir y combatir las enfermedades, las epidemias y las epizootias.
+Cuando se inicie el procedimiento, la Autoridad Administrativa le asignará un número progresivo al expediente, que incluirá la referencia al año y mes en que se inicia; el cual se anotará en todas las promociones y actuaciones que se produzcan en el mismo.
 
-###### ARTICULO 107.
+###### Artículo 208.
 
-Nadie podrá entrar en el desempeño de ningún cargo o empleo del Estado, sin prestar previamente la protesta de Ley, la cual determinará la fórmula de la protesta y la autoridad ante quien deba hacerse.
+La Autoridad Administrativa llevará a cabo, de oficio o a petición de parte, los actos de tramitación adecuados para la determinación, conocimiento y comprobación de los datos sobre los que deba basarse la resolución del procedimiento.
 
-###### ARTICULO 108.
+## TÍTULO SEGUNDO. DE LA SUBSTANCIACIÓN DEL PROCEDIMIENTO
 
-Los funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución, sólo durarán en sus funciones el tiempo que les faltare para cumplir el período correspondiente.
+### CAPÍTULO I. DENUNCIA CIUDADANA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+###### Artículo 209.
 
-###### ARTICULO 109.
+Toda persona tiene derecho a denunciar ante la Autoridad competente, hechos, actos u omisiones que produzcan o puedan producir desequilibrio ecológico, daños al ambiente, a los recursos naturales, o que cualquier otro que constituya infracción a las disposiciones de la presente Ley, su Reglamento y de los demás ordenamientos de la materia.
 
-El Gobernador del Estado rendirá la protesta de Ley ante el Congreso en los siguientes términos:
+###### Artículo 210.
 
-"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California y las leyes que de ambas emanen, desempeñando leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado; y si así no lo hiciere que el pueblo me lo demande."
+La formulación de la denuncia ciudadana, así como los acuerdos, resoluciones y recomendaciones que emita, no afectarán el ejercicio de otros derechos o medios de defensa que pudieran corresponder a los afectados conforme a las disposiciones jurídicas aplicables, no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad,
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 211.
 
-Igualmente los Magistrados del Poder Judicial rendirán la protesta de Ley ante el Congreso o su Comisión Permanente, en la siguiente forma:
+Cuando del escrito de denuncia se advierta que la Autoridad a la que se presentó resulta incompetente, se le asignará el número de expediente que le corresponda, se emitirá el acuerdo respectivo remitiéndose las constancias a la que resulte competente.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 212.
 
-El Presidente del Congreso o de la Comisión Permanente preguntará:
+Las peticiones podrán formularse por los particulares en cualquier tiempo mientras no se hayan extinguido los derechos que invocan, en términos de las disposiciones legales aplicables, salvo los casos en que éstas señalen un plazo determinado.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+###### Artículo 213.
 
-"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Poder Judicial que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso o de su Comisión Permanente: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
+El escrito de denuncia deberá hacerse por escrito, en el que se señale:
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+I.- La Autoridad a la que se dirige;
 
-Los integrantes del Consejo de la Judicatura, rendirán Protesta de Ley ante el Congreso del Estado o su Comisión Permanente, en la siguiente forma:
+II.- El nombre del peticionario y, en su caso, de quien promueva en su nombre;
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+III.- El domicilio para recibir notificaciones, en el lugar de residencia de la Autoridad;
 
-Los nombramientos conferidos a los Consejeros de la Judicatura del Estado de Baja California, rendirán Protesta de Ley ante el Congreso del Estado, en la siguiente forma:
+IV.- Los hechos en los que se funde;
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+V.- Las disposiciones legales en que se sustente, de ser posible; y
 
-"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Consejero de la Judicatura del Estado de Baja California que se os ha conferido?", el interrogado contestará: "Sí protesto". Acto continuo, dirá quien tenga la facultad de protestarlo: si no lo hiciereis que la Nación y el Estado os lo demanden".
+VI.- Las pruebas que en su caso se ofrezcan.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+Se deberá adjuntar al escrito el documento con el que se acredite su personalidad, cuando no gestione a nombre propio y los documentos que ofrezca como prueba.
 
-Igualmente los Magistrados del Tribunal de lo Contencioso Administrativo rendirán la protesta de Ley ante el Congreso del Estado o su Comisión Permanente, en la siguiente forma:
+###### Artículo 214.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+Cuando el escrito de petición carezca de algún requisito formal o no se adjunten los documentos respectivos, la Autoridad Administrativa requerirá al promovente, para que en un plazo de cinco días hábiles, corrija o complete el escrito o exhiba los documentos ofrecidos, apercibiéndole de que en caso de no hacerlo, se tendrá por no presentado el escrito o las pruebas, según el caso.
 
-El Presidente del Congreso o de la Comisión Permanente preguntará:
+###### Artículo 215.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+El procedimiento se iniciará a petición de parte o de oficio por parte de la Autoridad Administrativa competente.
 
-"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal de lo Contencioso Administrativo que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso o de su Comisión Permanente: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
+Previo al inicio del procedimiento, la Autoridad podrá abrir un período de información previa, con el fin de conocer las circunstancias del caso concreto y estar en posibilidad de determinar la conveniencia, o no, de iniciar el procedimiento.
 
-###### ARTICULO 110.
+###### Artículo 216.
 
-El Secretario de Gobierno, el Procurador de Justicia y demás altos funcionarios del Estado rendirán la protesta ante el Gobernador y los empleados en la forma que determinen las leyes respectivas.
+Cuando la Autoridad Administrativa que conoce del procedimiento, requiera el auxilio de otras para la obtención de informes, declaraciones o documentos, se dirigirá a éstas por oficio en el que se indique lo que se solicita. La Autoridad requerida desahogará la petición dentro de los cinco días siguientes a su recibo.
 
-###### ARTICULO 111.
+### CAPÍTULO II. DE LAS VISITAS DE VERIFICACIÓN
 
-Los poderes del Estado legítimamente constituidos, no podrán reconocer, bajo ningún concepto, a los individuos que usurpen el Poder Ejecutivo de la Unión o del Estado, por medio de una asonada, motín o cuartelazo. Tampoco podrán reconocer la renuncia de los funcionarios que se haya obtenido por medio de la fuerza o coacción moral.
+###### Artículo 217.
 
-## TITULO DECIMO
+El Consejo y los ayuntamientos, para comprobar el cumplimiento de las disposiciones y condicionantes contenidas en la presente Ley, Reglamentos, Decretos, Acuerdos, licencias y autorizaciones, así como de cualquier otra norma ambiental, podrán llevar a cabo visitas de verificación en el domicilio, instalaciones, equipos e infraestructura, con que cuenten los inspeccionados.
 
-### CAPITULO I.. DE LAS REFORMAS A LA CONSTITUCION
+###### Artículo 218.
 
-###### ARTICULO 112.
+La orden de verificación deberá contener:
 
-Esta Constitución sólo podrá adicionarse o reformarse con los siguientes requisitos: cuando la iniciativa de adición o reforma haya sido aprobada por acuerdo de las dos tercias partes del número total de diputados, se enviará ésta a los Ayuntamientos, con copia de las actas de los debates que hubiere provocado; y si el cómputo efectuado por la Cámara, de los votos de los Ayuntamientos, demuestra que hubo mayoría en favor de la adición o reforma, la misma se declarará parte de esta Constitución.
+I.- El nombre de la persona física o moral que deba recibir la visita. Cuando se ignore el nombre de ésta, se señalarán datos suficientes que permitan su identificación;
 
-Si transcurriere un mes después de que se compruebe que ha sido recibido el proyecto de que se trata, sin que los Ayuntamientos remitieran al Congreso el resultado de la votación, se entenderá que aceptan la adición o reforma.
+II.- El domicilio, lugar o zona en que ha de llevarse a cabo la visita;
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+III.- El objeto y alcance que ha de tener la diligencia;
 
-Las reformas o adiciones efectuadas a esta Constitución, aprobadas de conformidad al procedimiento señalado, podrán ser sometidas a Referéndum, de conformidad a las disposiciones que la Ley establezca.
+IV.- El nombre de los servidores públicos que deban efectuar la visita, los cuales podrán ser sustituidos, aumentados o reducidos en su número, en cualquier tiempo por la Autoridad competente;
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 1999)</small>
+V.- Las disposiciones legales que la fundamenten; y
 
-Las adiciones o reformas a la Constitución Política de los Estados Unidos Mexicanos que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso del Estado, mediante Dictamen, referente a la afectación del texto de ésta, y a la parte de su cuerpo en que deba de incorporarse, aprobado por mayoría calificada, produciendo una declaratoria de reforma o adición constitucional, que deberá promulgarse sin necesidad de ningún otro trámite.
+VI.- El nombre, cargo y firma autógrafa de la Autoridad que la emite.
 
-### CAPITULO II.. DE LA INVIOLABILIDAD DE ESTA CONSTITUCION
+###### Artículo 219.
 
-###### ARTICULO 113.
+El personal que realice inspecciones deberá contar con credencial vigente que lo acredite expresamente para ello; la que deberá contener:
 
-Esta Constitución no perderá su fuerza y vigor, aún cuando por alguna rebelión o estado grave de emergencia se interrumpa su observancia.
+I.- El número de credencial;
 
-Si se estableciere un gobierno surgido en contravención a los principios que ella contiene, tan pronto como el pueblo recobre su libertad, se restablecerá su observancia y con sujeción a la misma y a las leyes que de ella hayan emanado, serán juzgados aquellos que la hubieren infringido.
+II.- La fotografía reciente del inspector;
 
-Transitorios:
+III.- El nombre y la firma del inspector;
 
-### CAPITULO IV.. DEL ORGANO DE FISCALIZACION SUPERIOR
+IV.- El nombre y la firma de la autoridad que la expide; y
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2004)</small>
+V.- El periodo de su vigencia.
 
-### CAPITULO V.. DE LA PLANEACION LEGISLATIVA
+###### Artículo 220.
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+Se podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
 
-### CAPITULO I.. DEL PODER EJECUTIVO
+###### Artículo 221.
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1985) (F. DE E. 20 DE MARZO DE 1986)
+La substanciación de la visita de verificación se deberá llevar a cabo conforme a las reglas siguientes:
 
-### CAPITULO II.. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
+I.- La visita de verificación no se encuentra sujeta a las formalidades prescritas para las notificaciones, y por tanto se podrá llevar a cabo con cualquier persona que se encuentre en el lugar visitado;
 
-### CAPITULO III.. DEL SECRETARIO DE GOBIERNO
+II.- Al iniciarse la verificación, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, con credencial o documento vigente con fotografía expedido por la Autoridad Administrativa, que los acredite legalmente para desempeñar su función;
 
-### CAPITULO I.. DE LA JURISDICCION ADMINISTRATIVA
+III.- La persona con quien se entienda la diligencia será requerida por los visitadores para que nombre a dos testigos que intervengan en la diligencia; si éstos no son nombrados o los señalados no aceptan servir como tales, los visitadores los designarán;
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+IV.- Los visitadores entregarán a la persona con la que se entienda la diligencia, la orden de verificación;
 
-### CAPITULO II.. DEL PODER JUDICIAL
+V.- Los visitados, sus representantes o la persona con quien se entienda la diligencia, están obligados a permitir a los visitadores el acceso al lugar o zona objeto de la visita y poner a la vista la documentación, equipos, bienes e instalaciones que les requieran, así como rendir la información que le sea solicitada;
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
+VI.- Se realizará en el lugar o zona señalados en la orden;
 
-## TITULO QUINTO
+VII.- Los visitadores harán constar todas y cada una de las circunstancias, hechos u omisiones que se hayan observado en la diligencia, en el acta que se suscriba para tal efecto;
 
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 1988)</small>
+VIII.- Concluida la inspección, se dará oportunidad al inspeccionado para que manifieste lo que a su derecho convenga en relación con las circunstancias asentadas en el acta y para que ofrezca las pruebas que considere convenientes en relación a los hechos u omisiones contenidos en el acta, lo que podrá hacer en un plazo de cinco días hábiles contados a partir del día siguiente de realizada la diligencia;
 
-## TITULO SEXTO. DE LOS MUNICIPIOS
+IX.- A continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia del acta al interesado. La negativa a firmar el acta o a recibir copia de la misma, se deberá hacer constar en el referido documento, sin que esta circunstancia afecte la validez del acta o de la diligencia practicada; y
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
+X.- Con las mismas formalidades indicadas en los puntos anteriores, se levantarán actas previas o complementarias, para hacer constar hechos concretos en el curso de la visita o después de su conclusión.
 
-### CAPITULO III.. DEL MINISTERIO PUBLICO Y DE LA DEFENSORIA DE OFICIO
+###### Artículo 222.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1997)</small>
+Una vez transcurrido el plazo concedido en el acta de inspección, la autoridad ordenadora, en caso de existir la presunción de infracciones, dictara acuerdo de inicio de procedimiento, en el cual concederá un término de diez días hábiles contados a partir del día siguiente al de la notificación, para que el inspeccionado, conteste por escrito los hechos u omisiones que se le imputen, ofrezca pruebas en relación a los hechos y señale domicilio para oír y recibir notificaciones en el lugar de residencia de la Autoridad, con los apercibimientos que se le tendrá aceptando los hechos que deje de contestar y por perdido el derecho para ofrecer pruebas, y las ulteriores notificaciones aún las personales se le harán por los estrados.
 
-### CAPITULO I.. DEL MUNICIPIO Y DEL GOBIERNO MUNICIPAL
+En el acuerdo de inicio de procedimiento, se harán saber al inspeccionado las medidas de seguridad que se hayan tomado.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
+###### Artículo 223.
 
-## TITULO SEPTIMO
+Para el caso de que el inspeccionado dentro del término concedido, no haya presentado su contestación, pruebas o hubiese omitido señalar domicilio para oír notificaciones, se le harán efectivos los apercibimientos que se le hayan decretado.
 
-### CAPITULO UNICO.. DE LA HACIENDA PUBLICA
+###### Artículo 224.
 
-## TITULO OCTAVO
+Una vez recibida la contestación del inspeccionado y las pruebas que haya ofrecido, la Autoridad competente dictará acuerdo en el que admita o deseche, tanto la contestación como las pruebas ofrecidas, ordenando el desahogo de las pruebas admitidas dentro de un plazo no mayor de quince días hábiles.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1983)</small>
+###### Artículo 225.
 
-### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+Concluida la recepción de pruebas admitidas o habiendo concluido el periodo para su desahogo, se pondrán a disposición de la parte interesada las actuaciones, para que en un plazo de cinco días hábiles, presente por escrito sus alegatos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+###### Artículo 226.
 
-### CAPITULO II.. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+En el caso en que el inspeccionado durante el procedimiento realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido previamente a que se imponga una sanción, la Autoridad competente deberá considerar tal situación como atenuante de la infracción cometida y en caso contrario tomaría en cuenta como una agravante al momento de imponer la sanción respectiva.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+###### Artículo 227.
 
-### CAPITULO III.. DE LAS BASES GENERALES EN MATERIA MUNICIPAL
+Concluido el plazo para alegar, la Autoridad competente emitirá por escrito la resolución que ponga fin al procedimiento, misma que notificará al interesado personalmente o mediante correo certificado con acuse de recibo. La resolución deberá contener:
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+I.- Un extracto de los hechos;
 
-### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
+II.- La decisión de todas las cuestiones planteadas;
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
+III.- Los fundamentos y motivos que la sustenten;
 
-###### ARTICULO PRIMERO.
+IV.- Los puntos resolutivos;
 
-La presente Constitución será promulgada, por el Gobernador Provisional, en el término de tres días y se publicará, desde luego, por bando solemne, en todas las poblaciones del Estado.
+V.- Las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas; y
 
-###### ARTICULO SEGUNDO.
+VI.- El nombre, cargo y firma autógrafa de la Autoridad que la emite.
 
-Esta Constitución entrará en vigor el mismo día de su publicación.
+###### Artículo 228.
 
-###### ARTICULO TERCERO.
+En la resolución administrativa correspondiente, concederá un plazo de cinco días hábiles al infractor para satisfacer las medidas que deberá llevar a cabo para corregir las deficiencias o irregularidades observadas, con el apercibimiento que de no darse cumplimiento a las medidas correctivas impuestas se procederá a su ejecución.
 
-Dentro del término de 15 días, contados a partir de su vigencia, el Gobernador Provisional convocará a elecciones para Diputados a la Legislatura del Estado y para Gobernador Constitucional del mismo, las cuales tendrán verificativo el día 25 de octubre del presente año.
+###### Artículo 229.
 
-###### ARTICULO CUARTO.
+El infractor tiene la obligación de subsanar las deficiencias o irregularidades observadas, por lo que deberá acreditar su cumplimiento con pruebas fehacientes, que deberá exhibir y exponer por escrito ante la Autoridad Ordenadora.
 
-Dichas elecciones se regirán por las disposiciones de esta Constitución y se sujetarán a las bases siguientes:
+###### Artículo 230.
 
-I.- Se crea la Comisión Electoral del Estado que tendrá, para la Jurisdicción de la Entidad; las facultades que a la Comisión Federal Electoral y a las Comisiones Locales Electorales señala la Ley Electoral Federal, aplicando, en lo conducente, sus disposiciones.
+Cuando una resolución administrativa derivada de la aplicación del presente instrumento legal, haya quedado firme, la Autoridad competente ordenará su ejecución requiriendo el cumplimiento de las condicionantes, y el pago de las sanciones impuestas.
 
-II.- La Comisión Electoral del Estado estará integrada por un presidente, un secretario y un vocal, que serán designados por el Gobernador Provisional, y por dos representantes de Partidos Políticos de los comprendidos en la Base IX que se designarán en los términos que señala el artículo 11 de la misma Ley Electoral Federal, aplicada en lo conducente. Por cada miembro propietario se designará un suplente. Los nombramientos de los miembros que debe designar el Gobernador recaerán en personas que reúnan los requisitos del artículo 16 de la propia Ley.
+Transcurrido el termino de cinco días hábiles a partir de la notificación de la resolución sin que el infractor haya cubierto el pago de la multa impuesta, la Autoridad competente, dictara mandamiento de ejecución debidamente fundado y motivado en el que se facultará al ejecutor, para requerir de pago al infractor y en caso de no realizarlo, en la misma diligencia se embargarán bienes suficientes para garantizar el monto de la multa.
 
-III.- La Comisión Electoral del Estado señalará las fechas y los plazos en que deban celebrarse los distintos actos del proceso electoral que no hayan sido previstos en estos transitorios.
+Si las medidas correctivas impuestas no han sido atendidas se procederá a la ejecución de la resolución conforme al apercibimiento que en ella se contenga.
 
-IV.- Funcionará, en la ciudad de Mexicali, con delegados en las poblaciones del Estado que se considere necesario una Oficina del Registro de Electores, que dependerá de la Comisión Electoral del Estado y cuyos funcionarios y empleados serán nombrados por la propia Comisión.
+###### Artículo 231.
 
-V.- La Oficina del Registro de Electores, teniendo en cuenta los datos del Censo Nacional de Población en 1950, y las disposiciones de esta Constitución, formulará un proyecto de la división territorial del Estado en Distritos Electorales para la elección de Diputados a la Legislatura Local y la someterá a la Comisión Electoral del Estado para su revisión y aprobación.
+Las Autoridades competentes, podrán celebrar con las personas sujetas a procedimiento, convenios de carácter conciliatorio que pongan fin a los asuntos, siempre que no sean contrarios a las disposiciones legales aplicables.
 
-VI.- En cada una de las cabeceras de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
+### CAPÍTULO III. DE LOS MEDIOS DE IMPUGNACIÓN
 
-VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal.
+###### Artículo 232.
 
-En cada Comité Distrital los Partidos Políticos a que se refiere la base IX podrán acreditar, cada uno de ellos, un representante propietario y un suplente. Los representantes serán citados a las sesiones que celebre el Comité y podrán intervenir, sin voto, en sus deliberaciones. Las designaciones de representantes ante los Comités Distritales serán registrados en la Comisión Electoral del Estado.
+Contra los actos y resoluciones de las autoridades administrativas, los afectados tendrán la opción de interponer el recurso administrativo de revisión ante la propia Autoridad, o el juicio ante el Tribunal Fiscal Administrativo del Poder Judicial del Estado de Hidalgo.
 
-VIII.- Para cada cabecera municipal la Comisión Electoral del Estado nombrará un delegado, que deberá reunir los mismos requisitos que se exigen a los miembros de los Comités Electorales Distritales y que tendrá, dentro de la circunscripción municipal respectiva, las atribuciones que le fije la Comisión Electoral del Estado para intervenir en la preparación y desarrollo del proceso electoral.
+## TRANSITORIOS
 
-IX.- Podrán registrar candidatos a diputados, a Gobernadores y a Munícipes los Partidos Políticos Nacionales, registrados en la Secretaría de Gobernación y que tengan Comités Locales en la Entidad. También podrán registrar candidatos a los mismos cargos, los Partidos Políticos locales que se constituyan y que se registren, dentro del plazo que señala la convocatoria a elecciones, ante el Gobierno del Estado, el cual sólo registrará a aquellos Partidos que demuestren tener tres mil miembros por lo menos y que reúnan los demás requisitos que señalan los artículos 29, 30 Fracción IV y 31 Fracción III de la Ley Electoral Federal, aplicados en lo conducente. El registro se publicará en el Periódico Oficial de la Entidad.
+PRIMERO: La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
-X.- Las candidaturas para Gobernador del Estado se registrarán ante la Comisión Electoral del Estado, las de diputados ante el correspondiente Comité Distrital Electoral y las de munícipes ante el Delegado Municipal respectivo; tratándose de las dos últimas la Comisión Electoral del Estado resolverá los conflictos y quejas que se presentaren.
+SEGUNDO: El Reglamento de la presente Ley se expedirá en un término de 120 días naturales a partir de su entrada en vigor.
 
-XI.- En cada sección electoral se instalará una casilla cuyo personal será nombrado por el Comité Distrital que corresponda y se compondrá de un presidente, un secretario y dos escrutadores.
+TERCERO: Se abroga la Ley para la Protección al Ambiente para el Estado de Hidalgo, Publicada en el Periódico Oficial del Estado de fecha 21 de junio de 2004.
 
-XII.- En cada casilla habrá dos ánforas para recibir la votación, una destinada a la elección de Diputados y la otra a la de Gobernador.
+CUARTO: Las controversias que estén tramitándose en el momento de la iniciación de vigencia de esta Ley, se resolverán conforme a lo dispuesto en la Ley que se abroga.
 
-XIII.- Durante el desarrollo del proceso electoral y en la resolución de las elecciones se observarán, en lo conducente, las disposiciones de la Ley Electoral Federal en cuanto no contradigan las prevenciones de esta Constitución.
+AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS VEINTISIETE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE.
 
-XIV.- Cerrada la votación la mesa procederá al escrutinio de los votos emitidos, aplicando en lo conducente los artículos 93, 94, 95, 96 y 97 de la Ley Electoral Federal.
+PRESIDENTE
 
-XV.- Los paquetes conteniendo la documentación relativa a elecciones, que se formarán separadamente respecto de diputados y Gobernador, se enviarán al Delegado Municipal con la debida oportunidad a fin de que estén en su poder antes del miércoles siguiente.
+DIP. JOSÉ ALBERTO NARVÁEZ GÓMEZ.
 
-XVI.- El miércoles siguiente a las elecciones los delegados municipales harán el cómputo de los votos emitidos en las elecciones de Diputados y terminada la operación enviará la documentación al Comité Distrital, informando a éste y a la Comisión Local del resultado de la elección. Acto seguido procederá al cómputo de los votos emitidos en la elección de Gobernador y terminada la operación enviará la documentación a la Legislatura del Estado informando del resultado tanto a ésta como a la Comisión Estatal.
+SECRETARIA
 
-XVII.- El siguiente domingo, después de la elección el Comité Electoral Distrital se reunirá, en presencia de los representantes que hayan designado los Partidos y los candidatos, para proceder al cómputo de los votos emitidos en la elección de Diputados. Terminado el cómputo hará la declaratoria respectiva en favor de quienes hayan obtenido mayoría de votos, expidiéndoles la constancia correspondiente.
+DIP. JERUSALEM KURI DEL CAMPO.
 
-XVIII.- Las constancias a que se refiere la base anterior deberán ser registradas ante la Comisión Electoral del Estado, la que otorgará registro si no encontrare que se hayan cometido durante el proceso electoral o en la elección actos capaces de viciar su validez. Esta facultad concedida a la Comisión Electoral del Estado no impedirá que la Legislatura del Estado haga la calificación de la elección de sus miembros en los términos del artículo 20 de esta Constitución.
+SECRETARIO
 
-XIX.- Los Partidos Políticos a que se refiere la base IX y los candidatos que hayan obtenido el registro, podrán nombrar representantes ante todos los organismos electorales que funcionen en el Estado, si tienen interés jurídico.
+DIP. TATIANA TONANTZIN P. ANGELES MORENO
 
-###### ARTICULO QUINTO.
+EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
-El día 5 de noviembre del presente año, sin necesidad de previa citación, se reunirán, en el recinto que oficialmente se destine para ello, las personas que, habiendo obtenido mayoría de votos en las elecciones para diputados, hubieren obtenido también el registro de su constancia de mayoría. Una vez reunidos procederán, aplicando, en lo conducente, las disposiciones contenidas en el Reglamento para el Gobierno Interior del Congreso de la Unión, en cuanto no pugnen a las prevenciones de la presente, y procederán a constituirse en junta preparatoria del primer Congreso del Estado, nombrando para el efecto un presidente y dos secretarios.
+DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS TREINTA Y UN DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SIETE.
 
-###### ARTICULO SEXTO.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
-A más tardar el día 10 de noviembre del presente año, deberá haberse aprobado el número suficiente de credenciales, a fin de que el Congreso del Estado pueda funcionar legítimamente. El día 11 de noviembre, la Primera Legislatura del Estado, después de haber rendido sus integrantes la protesta de ley, se declarará legítimamente instalada para iniciar el primer período ordinario de su ejercicio.
+LIC. MIGUEL ÁNGEL OSORIO CHONG
 
-###### ARTICULO SEPTIMO.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-El día 12 de noviembre del presente año la Legislatura abrirá formalmente su primer período ordinario de sesiones.
-
-###### ARTICULO OCTAVO.
-
-A más tardar tres días después de la apertura de sesiones el Congreso del Estado iniciará la calificación de las elecciones de Gobernador, procediendo previamente al cómputo general de los votos emitidos en el Estado, y declarará Gobernador Constitucional electo a quien hubiere obtenido mayoría de votos. Esta declaratoria será enviada al Gobernador Provisional, quien deberá promulgarla en el plazo de tres días y mandará publicarla por bando solemne, en todas las poblaciones del Estado, el domingo siguiente al de su promulgación.
-
-###### ARTICULO NOVENO.
-
-El día 1ro. de diciembre del presente año, la Legislatura del Estado se reunirá en sesión solemne para recibir la protesta del Gobernador Constitucional del Estado, quien al terminar el acto asumirá el ejercicio de sus funciones; en esta sesión el Gobernador Provisional rendirá informe de su gestión.
-
-###### ARTICULO DECIMO.
-
-El Gobernador Constitucional del Estado, dentro de los 15 días posteriores al primero de diciembre, convocará a elecciones de Ayuntamientos, las cuales se efectuarán el primer domingo de febrero de 1954, debiendo tomar posesión de sus cargos los electos el día primero de mrazo (sic) del mismo año.
-
-###### ARTICULO DECIMO PRIMERO.
-
-Las elecciones de Ayuntamientos se sujetarán al procedimiento establceido (sic) en los artículos anteriores, en lo conducente, y la convocatoria respectiva fijará los términos del proceso electoral.
-
-###### ARTICULO DECIMO SEGUNDO.
-
-Hasta en tanto la ley respectiva fije el número de Ayuntamientos que tendrá el Estado, para los efectos de estas elecciones, transitoriamente, se elevan a la categoría de Municipios las actuales Delegaciones de Gobierno de Ensenada, Mexicali, Tecate y Tijuana, siendo cabeceras municipales las respectivas ciudades del mismo nombre.
-
-###### ARTICULO DECIMO TERCERO.
-
-Los Ayuntamientos de Ensenada, Mexicali y Tijuana se compondrán de siete miembros, el de Tecate se compondrá de cinco.
-
-###### ARTICULO DECIMO CUARTO.
-
-En tanto toman posesión los Ayuntamientos electos continuarán funcionando las Delegaciones de Gobierno.
-
-###### ARTICULO DECIMO QUINTO.
-
-Entre tanto se constituye el Poder Judicial del Estado, en los términos que dispone esta Constitución, la administración de Justicia estará a cargo de un Tribunal Superior compuesto de tres magistrados y del número y categoría de los Juzgados que funcionan actualmente. Los Magistrados y los Jueces nombrados por el Gobernador Provisional continuarán en sus funciones durante es (sic) mismo lapso, salvo que hubiera causa legal para su remoción. Las faltas temporales o definitivas que de dichos funcionarios llegasen a presentarse, serán cubiertas por designación del Gobernador Provisional.
-
-###### ARTICULO DECIMO SEXTO.
-
-Durante el período que dure en su cargo el Gobernador Provisional y mientras el Estado no dicte sus propias leyes, continuará rigiendo en él la legislación del ex-Territorio Norte de la Baja California, excepto en aquello que pugne con las disposiciones de esta Constitución. Con las mismas salvedades consignadas en este artículo se seguirá aplicando la "Ley de Ingresos del Territorio Norte de la Baja California para el Ejercicio Fiscal de 1952", publicada en el Diario Oficial de la Federación de 31 de diciembre de 1951, y el "Presupuesto provisional de Egresos del Territorio Norte de la Baja California para el Ejercicio Fiscal de 1952", publicado en el número 37 del Periódico Oficial del Territorio Norte de la Baja California, correspondiente al 30 de diciembre de 1951.
-
-###### ARTICULO DECIMO SEPTIMO.
-
-Se faculta al Gobernador Provisional para que mientras dure en su cargo, reciba, en representación del Estado, los bienes muebles e inmuebles a que se refiere el Artículo 10 del Decreto del H. Congreso de la Unión promulgado con fecha 10 de noviembre de 1952 y publicado en el Diario Oficial de la Federación de 21 de noviembre del propio año.
-
-###### ARTICULO DECIMO OCTAVO.
-
-El Gobernador Provisional cesará el día en que, conforme a la presente Constitución, deba tomar posesión el Gobernador Constitucional electo.
-
-###### ARTICULO DECIMO NOVENO.
-
-Por esta sola vez los términos a que se refieren los artículos 18 y 42 de esta Constitución se reducen a treinta días.
-
-Mexicali, B. Cfa., 15 de Agosto de 1953.
-
-Dip. Presidente,
-
-LIC. EVARISTO BONIFAZ GOMEZ
-
-Dip. Vicepresidente,
-
-MIGUEL CALETTE ANAYA
-
-DIPUTADOS:
-
-DR. FRANCISCO DUEÑAS MONTES
-
-AURELIO CORRALES Jr.
-
-LIC. FRANCISCO H. RUIZ JR.
-
-Dip. Secretario,
-
-LIC. ALEJANDRO LAMADRID JR.
-
-Dip. Prosecretario,
-
-CELEDONIO APODACA BARRERA
-
-En tal virtud y con fundamento en los artículos 7 siete del Decreto de 10 diez de noviembre de 1952 mil novecientos cincuenta y dos publicado en el Diario Oficial de la Federación (número 17 del Tomo CXCV), correspondiente al día 21 veintiuno del mismo mes y Primero Transitorio de la Constitución del Estado de Baja California, promúlguese por Bando Solemne y publíquese en el Periódico Oficial y en los lugares públicos.
-
-Dado en el Palacio del Poder Ejecutivo en Mexicali, Estado de Baja California a 16 dieciséis de agosto de 1953 mil novecientos cincuenta y tres.
-
-El Gobernador Provisional del Estado,
-
-LIC. ALFONSO GARCIA GONZALEZ
-
-El Secretario General de Gobierno
-
-LIC. JOSE ELIAS CASTRO
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
-
-P.O. 10 DE JUNIO DE 1956.
-
-PRIMERO.- El presente Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Por esta única vez los nombramientos de los Magistrados y Jueces actualmente en funciones, cesarán en sus efectos legales a partir del día en que este Decreto entre en vigor y las nuevas designaciones al tiempo señalado por los artículos 59 y 64 Reformados por este Decreto, ésto es, hasta el treinta y uno de octubre de mil novecientos cincuenta y seis.
-
-P.O. 10 DE JUNIO DE 1966.
-
-UNICO.- La presente reforma comenzará a regir el día 1o. de Octubre de 1966.
-
-P.O. 30 DE JUNIO DE 1968.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Quedan derogadas todas las disposiciones que se opongan a este Decreto.
-
-P.O. 10 DE ENERO DE 1971.
-
-###### ARTICULO PRIMERO.
-
-Los Magistrados que sean designados para ocupar los cargos de nueva creación cesarán en sus funciones el día 31 de octubre de 1971, pero si los que deban substituirlos no se presentan oportunamente, aquéllos continuarán en ejercicio hasta que esto ocurra.
-
-###### ARTICULO SEGUNDO.
-
-Estas reformas entrarán en vigor treinta días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 20 DE DICIEMBRE DE 1971.
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 10 DE FEBRERO DE 1974.
-
-UNICO.- Esta reforma entrará en vigor treinta días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 10 DE FEBRERO DE 1979.
-
-UNICO.- Las reformas a que se refiere el presente Decreto entrarán en vigor una vez cumplido el procedimiento establecido en el Artículo 112 de la Constitución Política del Estado, y al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 20 DE NOVIEMBRE DE 1979.
-
-UNICO.- Las reformas a que se refiere el presente Decreto entrarán en vigor una vez cumplido el procedimiento establecido en el Artículo 112 de la Constitución Política del Estado, y al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 20 DE FEBRERO DE 1983.
-
-###### ARTICULO UNICO.
-
-Las reformas a que se refiere el presente Decreto, entrarán en vigor una vez cumplido el procedimiento establecido en el Artículo 112 de la Constitución Política del Estado, y al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 31 DE DICIEMBRE DE 1983.
-
-UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 31 DE ENERO DE 1984.
-
-UNICO.- Las Reformas, Adiciones y Derogación a que se refiere el presente Decreto, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 31 DE DICIEMBRE DE 1985.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 10 DE FEBRERO DE 1986.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 30 DE SEPTIEMBRE DE 1986.
-
-###### ARTICULO PRIMERO.
-
-Los mexicanos por nacimiento descendientes de padres mexicanos por nacimiento, nacidos en el extranjero y que a la fecha de la publicación del presente Decreto en el Periódico Oficial, Organo del Gobierno del Estado, hayan cumplido 20 años o más, se les concede un término de un año a partir de esta misma fecha para que obtengan su Certificado de Nacionalidad Mexicana.
-
-###### ARTICULO SEGUNDO.
-
-Las reformas a que se refiere el presente Decreto, entran en vigor una vez cumplido el procedimiento establecido en el Artículo 112, de la Constitución Política del Estado, y al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 20 DE MAYO DE 1988.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Los Magistrados nombrados por el Ejecutivo del Estado el primero de Noviembre de 1983, aprobados por el Congreso en esa misma fecha, y ratificados el primero de noviembre de 1986, deberán mantenerse en su encargo como inamovibles y no podrán ser removidos sino en los términos que determinen la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos.
-
-###### ARTICULO TERCERO.
-
-Los Magistrados nombrados por el Ejecutivo del Estado, aprobados por el Congreso y que aún no han sido ratificados en términos del Artículo 59 de la Constitución Política Local, ahora reformado, deberán completar un período de seis años a partir de la fecha de su nombramiento, y si son ratificados, también se considerarán inamovibles, con base en lo dispuesto por el Artículo 60 que se reforma.
-
-###### ARTICULO CUARTO.
-
-Deberán prorrogarse los actuales nombramientos de los Jueces del Estado, hasta el treinta de Noviembre de 1989.
-
-P.O. 30 DE SEPTIEMBRE DE 1989.
-
-DECRETO No. 193
-
-###### ARTICULO UNICO.
-
-Las reformas a que se refiere el presente Decreto, entrarán en vigor, a los noventa días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 30 DE SEPTIEMBRE DE 1989.
-
-DECRETO No. 195.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 10 DE MARZO DE 1992.
-
-###### ARTICULO UNICO.
-
-La presente modificación y adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 4 DE JUNIO DE 1993.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
-P.O. 6 DE MAYO DE 1994.
-
-###### ARTICULO PRIMERO.
-
-La presente Reforma entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Quedan sin efecto todas las disposiciones que se opongan o contradigan, a lo establecido por el presente Decreto.
-
-P.O. 14 DE DICIEMBRE DE 1994.
-
-PRIMERO.- Remítase a los Ayuntamientos del Estado la presente Iniciativa para los efectos del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-SEGUNDO.- El Congreso del Estado a través de su Departamento Jurídico procederá a integrar una Mesa de Consensos en la que participen los representantes de las Fracciones Parlamentarias y del Ejecutivo del Estado, para que se aboque, en base a las nuevas disposiciones constitucionales a la elaboración de la Ley reglamentaria correspondiente.
-
-TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, salvo la reforma al Artículo 38 que entrará en vigor el día primero de octubre de mil novecientos noventa y cinco.
-
-P.O. 25 DE SEPTIEMBRE DE 1995.
-
-PRIMERO.- Remítase a los Ayuntamientos del Estado la presente Iniciativa para los efectos del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-SEGUNDO.- El primer Consejo de la Judicatura por esta sola ocasión, iniciará sus funciones durante el mes de septiembre de mil novecientos noventa y cinco concluyéndolas el treinta y uno de octubre de mil novecientos noventa y ocho.
-
-Estará integrado por el actual Presidente del Tribunal Superior de Justicia quien fungirá como Presidente del Consejo y por tres Consejeros designados por el Congreso del Estado. Por esta única ocasión, uno de ellos será propuesto por el Titular del Poder Ejecutivo.
-
-El Presidente de este Primer Consejo de la Judicatura tendrá voto de calidad en caso de empate en las decisiones.
-
-Los Consejeros de la Judicatura rendirán su protesta de Ley ante el Congreso del Estado.
-
-El actual Presidente del Tribunal Superior de Justicia concluirá sus funciones en el Primer Consejo de la Judicatura el treinta y uno de octubre de mil novecientos noventa y cinco, debiendo ser substituido por el Magistrado que el Pleno del Tribunal Superior de Justicia designe como Presidente.
-
-TERCERO.- El Consejo de la Judicatura previsto en el Artículo anterior, deberá quedar instalado en Sesión Solemne ante el Congreso del Estado, debiendo realizar la selección de los Magistrados que deberán iniciar sus funciones el día primero de noviembre de mil novecientos noventa y cinco, a designar al Secretario General del Tribunal Superior de Justicia, acorde a lo que establece la Constitución y la Ley respectiva y a revisar por si o a través de Comisión, las Cuentas de la Administración del Tribunal Superior de Justicia saliente.
-
-CUARTO.- Los actuales Jueces, Secretarios, Actuarios y demás miembros del Poder Judicial, a excepción de los actuales Magistrados, continuarán realizando sus funciones hasta en tanto el Consejo de la Judicatura del Estado realice la selección y otorgue nuevos nombramientos.
-
-QUINTO.- El Consejo de la Judicatura previsto en el Párrafo Segundo del Artículo 66 del presente Decreto, deberá quedar integrado el día primero de noviembre de mil novecientos noventa y ocho, teniendo un período de duración al treinta y uno de octubre del año dos mil, pudiendo repetir por esa única vez los miembros que lo integraren con excepción de quien fungiere en esa época como Presidente del Tribunal de Justicia.
-
-Hecha que sea la nueva integración del Consejo de la Judicatura para el primero de noviembre del año dos mil, en lo sucesivo deberá invariablemente respetarse su duración de cinco años.
-
-SEXTO.- El Tribunal Superior de Justicia continuará encargado de los asuntos administrativos del propio Tribunal hasta el día treinta y uno de octubre de mil novecientos noventa y cinco, con excepción de lo referente a los nombramientos de los nuevos Magistrados, Secretario General de Acuerdos del propio Tribunal, Jueces, Secretarios, Actuarios y personal del Poder Judicial del Estado de Baja California.
-
-SEPTIMO.- Los derechos laborales de los Servidores Públicos del Poder Judicial del Estado, serán respetados íntegramente.
-
-OCTAVO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
-
-P.O. 20 DE DICIEMBRE DE 1996.
-
-PRIMERO.- Remítase al Ejecutivo del Estado el Proyecto de Decreto que reforma los artículos 99 y 100 de la Constitución Política del Estado, para efectos de su promulgación en los términos del último párrafo del artículo 34 de la misma.
-
-SEGUNDO.- El presente Decreto entrará en vigor a los tres días siguientes de su publicación el Periódico Oficial del Estado.
-
-P.O. 14 DE FEBRERO DE 1997.
-
-ÚNICO.- El presente Decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 9 DE MAYO DE 1997.
-
-###### ARTICULO PRIMERO.
-
-Aprobada la Iniciativa por esta H. Asamblea envíese la misma a los Ayuntamientos del Estado para dar cumplimiento a lo establecido por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-Agotado el trámite señalado por el Artículo 112 de la Constitución Estatal, la presente Reforma de Adición al Artículo 97 entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 3 DE OCTUBRE DE 1997.
-
-DECRETO No. 95
-
-UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
-
-P.O. 3 DE OCTUBRE DE 1997.
-
-DECRETO No. 104
-
-###### ARTICULO PRIMERO.
-
-Aprobada que sea esta iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-Agotado el trámite y pronunciada la declaratoria señalada por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, las presentes reformas entrarán en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 6 DE OCTUBRE DE 1997.
+P.O. 31 DE DICIEMBRE DE 2009.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, previo cumplimiento del procedimiento que prescribe el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTÍCULO SEGUNDO.
-
-Los derechos y obligaciones de los trabajadores del Tribunal de Justicia Electoral que se integra al Poder Judicial del Estado, serán respetados conforme a la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California y demás disposiciones legales aplicables.
-
-###### ARTÍCULO TERCERO.
-
-Las Leyes Electorales Estatales, deberán reformarse, promulgarse y publicarse por lo menos noventa días antes de que se inicie el proceso electoral en que vayan a aplicarse, y durante el mismo no podrá haber modificaciones legales, con fundamento en el Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
-
-###### ARTÍCULO CUARTO.
-
-A más tardar el día 11 de Diciembre de 1997, deberán ser nombrados los Consejeros Ciudadanos Numerarios y Supernumerarios, que sustituirán a los actuales Consejeros Ciudadanos, conforme a esta reforma Constitucional, mediante el voto de las dos terceras partes de los Diputados integrantes del Pleno del Congreso del Estado.
-
-###### ARTÍCULO QUINTO.
-
-A más tardar el día 11 de Diciembre de 1997, deberán ser nombrados los Magistrados Numerarios y los Supernumerarios del Tribunal de Justicia Electoral, que desempeñarán su encargo por tres años, y por el voto de las dos terceras partes de los Diputados Integrantes del Congreso del Estado.
-
-###### ARTÍCULO SEXTO.
-
-En tanto se hacen los nombramientos o se reforma la Ley de la materia, el Consejo Estatal Electoral y los Consejos Distritales Electorales, del Instituto Estatal Electoral, seguirán ejerciendo las competencias y funciones que actualmente les señala la Ley de Instituciones y Procesos Electorales para el Estado de Baja California.
-
-###### ARTÍCULO SÉPTIMO.
-
-En tanto se expiden o reforman las Leyes correspondientes, el Tribunal de Justicia Electoral, seguirá ejerciendo las competencias y funciones que actualmente le señala la Ley de Instituciones y Procesos Electorales para el Estado de Baja California.
-
-###### ARTÍCULO OCTAVO.
-
-Un Distrito Local Electoral de los dieciséis que tenga el Estado de Baja California, tendrá cabecera en el Municipio de Playas de Rosarito.
-
-P.O. 31 DE DICIEMBRE DE 1997.
-
-###### ARTÍCULO PRIMERO.
-
-Aprobado que sea el presente Dictamen, con el anexo del acta de debates correspondiente, remítase para consulta a los Ayuntamientos del Estado, a efecto de cumplimentar lo dispuesto en el párrafo primero del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTÍCULO SEGUNDO.
-
-En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo el Dictamen de la presente Reforma Constitucional para su publicación, la cual entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
-
-P.O. 20 DE FEBRERO DE 1998.
-
-###### ARTICULO PRIMERO.
-
-Aprobado que sea este Dictamen por la Honorable Asamblea, envíese a los Ayuntamientos del Estado la copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-Agotado el trámite y pronunciada la declaratoria señalada por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las disposiciones de esta reforma, no afectarán la situación jurídica de los servidores públicos nombrados con anterioridad a su vigencia.
-
-P.O. 20 DE MARZO DE 1998.
-
-###### ARTICULO PRIMERO.
-
-Aprobado que sea el presente Dictamen anexo el acta de debates correspondiente, se remita para consulta los Ayuntamientos del Estado, al efecto de que cumplimenten a lo dispuesto en el párrafo primero del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo el Dictamen de la presente Reforma Constitucional para su publicación, la cuál entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 28 DE AGOSTO DE 1998.
-
-###### ARTICULO PRIMERO.
-
-Aprobada que sea esta Iniciativa por la Honorable Asamblea, con el anexo del acta de debates correspondiente, envíese para consulta a los Ayuntamientos del Estado, para efecto de dar cumplimiento con lo previsto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas al Ejecutivo Estatal para los efectos conducentes, las cuales entrarán en vigor, el día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
-
-P.O. 27 DE NOVIEMBRE 1998.
-
-###### ARTICULO PRIMERO.
-
-Aprobado que sea el presente Dictamen, con el anexo del acta de debates correspondiente, remítase para consulta a los Ayuntamientos del Estado, a efecto de cumplimentar lo dispuesto en el párrafo primero del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo Estatal el Dictamen de la presente Reforma Constitucional para los efectos conducentes, la cual entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 15 DE ENERO DE 1999.
-
-DECRETO No. 32
-
-###### ARTÍCULO PRIMERO.
-
-Aprobado que sea el presente Dictamen, con el anexo del acta de debates correspondiente, remítase para consulta a los Ayuntamientos del Estado, a efecto de cumplimentar lo dispuesto en el párrafo primero del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTÍCULO SEGUNDO.
-
-En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo el Dictamen de la presente reforma Constitucional para los efectos conducentes.
-
-###### ARTÍCULO TERCERO.
-
-La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Baja California.
-
-P.O. 15 DE ENERO DE 1999.
-
-DECRETO No. 33
-
-###### ARTICULO PRIMERO.
-
-Aprobada que sea la presente Iniciativa, remítase a los Ayuntamientos, a fin de dar cumplimiento a lo dispuesto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-Una vez agotado el procedimiento contemplado en el Artículo 112, remítase al Ejecutivo del Estado para su promulgación.
-
-###### ARTICULO TERCERO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 15 DE ENERO DE 1999.
-
-DECRETO No. 34
-
-###### ARTICULO PRIMERO.
-
-Aprobada que sea la presente Iniciativa, remítase a los Ayuntamientos, a fin de dar cumplimiento a lo dispuesto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-Una vez agotado el procedimiento contemplado en el Artículo 112, remítase al Ejecutivo del Estado para su promulgación.
-
-###### ARTICULO TERCERO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 15 DE ENERO DE 1999.
-
-DECRETO No. 35
-
-###### ARTICULO PRIMERO.
-
-Aprobado que sea el presente Dictamen, con el anexo del acta de debates correspondiente, remítase para consulta a los Ayuntamientos del Estado, a efecto de cumplimentar lo dispuesto en el párrafo primero del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo el Dictamen de la presente Reforma Constitucional para su publicación, la cuál entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 15 DE ENERO DE 1999.
-
-DECRETO No. 36
-
-###### ARTICULO PRIMERO.
-
-Aprobada que sea la presente Iniciativa, remítase a los Ayuntamientos, a fin de dar cumplimiento a lo dispuesto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-Una vez agotado el procedimiento contemplado en el Artículo 112, remítase al Ejecutivo del Estado para su promulgación.
-
-###### ARTICULO TERCERO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 15 DE ENERO DE 1999.
-
-DECRETO No. 37
-
-###### ARTICULO PRIMERO.
-
-Aprobado que sea el presente Dictamen, con el anexo del acta de debates correspondiente, remítase para consulta a los Ayuntamientos del Estado, a efecto de cumplimentar lo dispuesto en el párrafo primero del Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
-
-###### ARTICULO TERCERO.
-
-La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 8 DE FEBRERO DE 1999.
-
-###### ARTICULO PRIMERO.
-
-Aprobado que sea este Dictamen por la Honorable Asamblea, envíese a los Ayuntamientos del Estado la copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-Agotado el trámite y pronunciada la declaratoria señalada por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 17 DE SEPTIEMBRE DE 1999.
-
-###### ARTICULO PRIMERO.
-
-Las presentes adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Córrase el trámite que señala el Artículo 12, de la Constitución Política del Estado a los Municipios para que emitan su opinión, en los términos de Ley.
-
-###### ARTICULO TERCERO.
-
-Envíese al Ejecutivo del Estado para su publicación.
-
-P.O. 29 DE OCTUBRE DE 1999.
-
-PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Córrase el trámite que señala el Artículo 112, de la Constitución Política del Estado a los Municipios para que emitan su opinión, en los términos de Ley.
-
-P.O. 6 DE OCTUBRE DE 2000.
-
-PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- En cumplimiento de los requisitos y trámites en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, envíese a los Ayuntamientos copia de la iniciativa y del acta de los debates que haya provocado.
-
-TERCERO.- Envíese al Ejecutivo para su publicación.
-
-P.O. 13 DE ABRIL DEL 2001.
-
-###### ARTICULO PRIMERO.
-
-Túrnese el presente Decreto a los ayuntamientos, de conformidad con el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-###### ARTICULO SEGUNDO.
-
-Una vez agotado el proceso legislativo en los términos del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, resultando el recuento aprobatorio, las presentes reformas pasarán a formar parte de esta Constitución.
-
-###### ARTICULO TERCERO.
-
-El Congreso del Estado, deberá expedir la Ley en materia municipal y realizará las adecuaciones a las leyes correspondientes, a más tardar noventa días posteriores a la entrada en vigor de las presentes reformas.
-
-###### ARTICULO CUARTO.
-
-Las presentes reformas iniciarán su vigencia una vez que se realicen las adecuaciones a que se refieren los presentes Artículos Transitorios, debiéndose en tanto, aplicar las disposiciones vigentes. Todos aquellos trámites, servicios, contrataciones o convenios relacionados con la prestación de servicios públicos municipales que hayan iniciado con anterioridad a la entrada en vigor de la presente reforma, y hasta en tanto no se concrete la adopción plena de servicios públicos por parte de los municipios, se seguirán llevando a cabo de conformidad con las disposiciones legales vigentes, en lo que no se oponga a lo establecido en el presente Decreto.
-
-###### ARTICULO QUINTO.
-
-El Gobierno del Estado deberá realizar las acciones necesarias, a efecto de transferir en ejercicio de plenitud, la prestación de los servicios y funciones de naturaleza municipal, que esta Constitución atribuye a favor de los ayuntamientos, dentro del término de un año, contado a partir de la entrada en vigor de las presentes reformas.
-
-P.O. 22 DE JUNIO DEL 2001.
-
-PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el Artículo 112 de la Constitución Política del Estado.
-
-SEGUNDO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
-
-TERCERO.- El Congreso del Estado resolverá, a más tardar el 31 de agosto del 2001, el nombramiento de los Magistrados que iniciarán su cargo a partir del primero de noviembre del 2001.
-
-P.O. 14 DE SEPTIEMBRE DE 2001.
-
-PRIMERO.- Las presentes reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Baja California, se remitirán de inmediato a los Ayuntamientos del Estado, a fin de dar cumplimiento a lo preceptuado por su Artículo 112.
-
-SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presente reformas se declararán parte de esta Constitución, para que inicien su vigencia, a partir del próximo 1° de octubre del 2001, previa su publicación en el Periódico Oficial del Estado.
-
-TERCERO.- Los ordenamientos o Leyes que resulten afectadas por las reformas a esta Constitución, se modificarán y armonizarán en su texto por este Congreso, en un plazo que no exceda de 60 días, contados a partir de la iniciación de su vigencia.
-
-P.O. 7 DE DICIEMBRE DE 2001.
-
-PRIMERO.- Las presentes reformas entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, una vez que se corra el trámite que señala el Artículo 112, de la Constitución Política del Estado a los Municipios para que emitan su opinión, en los términos de Ley.
-
-SEGUNDO.- El Presidente del Tribunal Superior de Justicia, por única ocasión, deberá asistir a sesión solemne del Congreso del Estado en la fecha que al efecto designe dicha Soberanía, para rendir el informe a que hace referencia éstas reformas.
-
-P.O. 24 DE MAYO DE 2002.
-
-PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-SEGUNDO.- La designación del Magistrado Presidente del Tribunal Superior de Justicia del Poder Judicial del Estado de Baja California por dos años, deberá recaer preferentemente en aquellos Magistrados que de acuerdo con su respectivo nombramiento, se encuentre vigente para el período que fueron electos por el Congreso del Estado.
-
-P.O. 20 DE SEPTIEMBRE DE 2002.
-
-UNICO.- La presente reforma y adición entrará en vigor al día siguiente al de su promulgación en el Periódico Oficial Órgano del Gobierno del Estado.
-
-P.O. 4 DE OCTUBRE DE 2002.
-
-UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 18 DE OCTUBRE DE 2002.
-
-PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
-
-SEGUNDO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, a los Municipios de esta entidad para que emitan su opinión en los términos de ley.
-
-P.O. 1 DE NOVIEMBRE DE 2002.
-
-UNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 10 DE ENERO DE 2003.
-
-UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 14 DE NOVIEMBRE DE 2003.
-
-DECRETO No. 214 POR EL QUE SE APRUEBA LA REFORMA AL ARTICULO 9 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
-
-UNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 14 DE NOVIEMBRE DE 2003.
-
-DECRETO No. 215 POR EL QUE SE APRUEBA LA INICIATIVA QUE ADICIONA UNA FRACCION XXXVI AL ARTICULO 27 Y MODIFICA LA DENOMINACION DEL CAPITULO IV Y REFORMA LOS ARTICULOS 38 Y 39, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
-
-ÚNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
-
-P.O. 14 DE NOVIEMBRE DE 2003.
-
-DECRETO No. 237 POR EL QUE SE REFORMAN LOS ARTICULOS 14 Y 15 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA.
-
-###### ARTÍCULO PRIMERO.
-
-Una vez aprobada la presente reforma por el Poder Legislativo envíense a los Ayuntamientos de la entidad en cumplimiento del artículo 112 de la Constitución Política del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Una vez obtenido el voto aprobatorio de los Ayuntamientos hágase la declaratoria correspondiente.
-
-###### ARTÍCULO TERCERO.
-
-La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
-
-P.O. 30 DE ENERO DE 2004.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-El Congreso del Estado tendrá un plazo de tres meses contados a partir de la entrada en vigor de este Decreto, para expedir la Ley que regule la organización y funcionamiento del Órgano de Fiscalización Superior.
-
-###### ARTÍCULO TERCERO.
-
-En tanto no se establezca y empiece a ejercer sus atribuciones el Órgano de Fiscalización Superior con la naturaleza jurídica que se le otorga en este Decreto, la Contaduría Mayor de Hacienda del Congreso del Estado continuará ejerciendo las atribuciones que actualmente tiene conforme a esta Constitución, la Ley de Fiscalización de las Cuentas Públicas del Estado de Baja California y demás disposiciones aplicables.
-
-###### ARTÍCULO CUARTO.
-
-Una vez creado el Órgano de Fiscalización Superior con la naturaleza y atribuciones que se le otorgan conforme a este Decreto, se le transmitirán los bienes y recursos de la actual Contaduría Mayor de Hacienda del Congreso del Estado y continuará atendiendo los asuntos pendientes a cargo de esta última.
-
-###### ARTÍCULO QUINTO.
-
-La revisión de la cuenta pública conforme al régimen previsto en los artículos que se modifican por este Decreto, se hará a partir de la cuenta pública del primer ejercicio fiscal posterior a la fecha de entrada en vigor de las normas que regulen la organización y funcionamiento del Órgano de Fiscalización Superior. La revisión de las cuentas públicas de ejercicios anteriores, se efectuará conforme a las disposiciones vigentes en dichos ejercicios.
-
-###### ARTÍCULO SEXTO.
-
-Los servidores públicos de la Contaduría Mayor de Hacienda del Congreso del Estado no serán afectados en sus derechos laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
-
-###### ARTÍCULO SÉPTIMO.
-
-Las referencias que se hagan en otras disposiciones legales a la Contaduría Mayor de Hacienda, o al Contador Mayor de Hacienda, se entenderán hechas al Órgano de Fiscalización Superior o al Auditor Superior de Fiscalización respectivamente.
-
-P.O. 20 DE OCTUBRE DE 2004.
-
-PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 28 DE OCTUBRE DE 2005.
-
-ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 20 DE ENERO DE 2006.
-
-PRIMERO.- Una vez aprobada la presente reforma por esta H. XVIII Legislatura, envíese a los Ayuntamientos para los efectos constitucionales procedentes.
-
-SEGUNDO.- Agotado el proceso legislativo y de obtener la reforma la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
-
-TERCERO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 20 DE OCTUBRE DE 2006.
-
-Primero.- Aprobada que sea esta reforma por el Pleno del Congreso del Estado de Baja California, deberá enviarse a los ayuntamientos del Estado de Baja California, en los términos del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-Segundo.- Una vez cumplidos los requisitos citados en el artículo que precede, remítase la presente reforma al Ejecutivo del Estado para su promulgación, la cual entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 2 DE FEBRERO DE 2007.
-
-PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, salvo las excepciones que se contengan en los artículos siguientes.
-
-TERCERO.- Las reformas a la Ley Orgánica del Poder Judicial del Estado, o en su caso la nueva Ley en la materia, deberán emitirse a más tardar dentro de los ciento ochenta días siguientes a partir de la publicación de las presentes reformas.
-
-CUARTO.- A más tardar el día treinta de junio del año dos mil siete, deberá ser remitido al Congreso del Estado y publicado en el Periódico Oficial del Estado, el Plan de Desarrollo Judicial a que hace mención el quinto párrafo del artículo 57 de estas reformas.
-
-QUINTO.- En la elección del próximo Presidente del Tribunal Superior de Justicia, será aplicable lo dispuesto por la fracción VI del artículo 63 de las presentes reformas, pudiendo ser elegible para esos efectos cualquiera de los Magistrados que integran el Tribunal, incluso quien en ese momento ejerza el cargo de Presidente.
-
-SEXTO.- La limitante prevista en el articulo 60 fracción VIII de estas reformas en relación a que para ser Magistrado se requiere no haber sido Consejero de la Judicatura durante el año previo a la fecha en que deba ser nombrado, no será aplicable al Juez que actualmente integra el Consejo de la Judicatura.
-
-SEPTIMO.- Los Jueces en funciones durarán en su cargo el término para el que fueron designados, previa evaluación podrán ser ratificados en los términos del artículo 62 de estas reformas, pudiendo ejercer el cargo hasta por quince años previas las ratificaciones respectivas, pero en ningún caso podrán ejercer su cargo por mas de quince años, los cuales se computarán a partir de la entrada en vigor de estas reformas.
-
-En su caso, el último periodo para el que sean ratificados deberá ajustarse al término máximo permitido para ocupar el cargo, por lo que dicho periodo podrá ser menor a cinco años.
-
-(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL ARTÍCULO OCTAVO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-OCTAVO.- EL CONGRESO DEL ESTADO DEBERÁ DESIGNAR POR MAYORÍA CALIFICADA UN CONSEJERO SUPERNUMERARIO DENTRO DE LOS CIENTO OCHENTA DÍAS SIGUIENTES A PARTIR DE LA ENTRADA EN VIGOR DE LAS PRESENTES REFORMAS, EL CUAL EJERCERÁ SUS FUNCIONES HASTA EL TREINTA Y UNO DE OCTUBRE DEL AÑO DOS MIL DIEZ.
-
-(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL ARTÍCULO NOVENO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-NOVENO.- LA INTEGRACIÓN DEL CONSEJO DE LA JUDICATURA A QUE SE REFIERE EL ARTÍCULO 64 DE ESTAS REFORMAS, DEBERÁ OBSERVARSE PARA EFECTOS DE LA CONFORMACIÓN DEL PRÓXIMO CONSEJO DE LA JUDICATURA, ES DECIR, EL QUE ENTRE EN FUNCIONES EL PRIMERO DE NOVIEMBRE DEL AÑO DOS MIL DIEZ.
-
-DE CONFORMIDAD CON LO ANTERIOR, LOS CONSEJEROS A LOS QUE HACE REFERENCIA LA FRACCIÓN III Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 64 SERÁN DESIGNADOS POR MAYORÍA CALIFICADA DE LOS DIPUTADOS INTEGRANTES DEL CONGRESO, Y POR ÚNICA OCASIÓN, EN LOS SIGUIENTES TÉRMINOS:
-
-A).- DOS CONSEJEROS SERÁN DESIGNADO (SIC) POR UN PERIODO DE SEIS AÑOS;
-
-B).- UN CONSEJERO SERÁ DESIGNADO POR UN PERIODO DE CUATRO AÑOS, Y
-
-C).- UN CONSEJERO SUPERNUMERARIO CUYA DESIGNACIÓN SERÁ POR UN PERIODO DE CUATRO AÑOS.
-
-P.O. 31 DE AGOSTO DE 2007.
-
-###### ARTÍCULO PRIMERO.
-
-La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Aprobada que sea la presente reforma, deberá enviarse a los Ayuntamientos del Estado de Baja California, en los términos del artículo 112 de la Constitución Política del Estado de Baja California.
-
-###### ARTÍCULO TERCERO.
-
-En un término que no exceda de 30 días en la entrada en vigor de dicha reforma, el Congreso del Estado deberá emitir la Ley reglamentaria a la que refiere el párrafo cuarto del artículo 95 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-P.O. 11 DE JULIO DE 2008.
-
-PRIMERO.- Una vez aprobada la presente reforma por el Poder Legislativo envíese a los Ayuntamientos de la entidad en cumplimiento del artículo 112 de la Constitución Política del Estado.
-
-SEGUNDO.- Luego de haber obtenido el voto aprobatorio de los Ayuntamientos, hágase la declaratoria correspondiente.
-
-TERCERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-P.O. 14 DE AGOSTO DE 2008.
-
-PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
-
-SEGUNDO.- El Consejero Presidente y los Consejeros Ciudadanos del Instituto Estatal Electoral del Estado que se encuentren en funciones a la entrada en vigor del presente Decreto, continuarán en su encargo hasta que concluya el periodo para el que fueron designados.
-
-TERCERO.- A efecto de que el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado, este integrado por siete consejeros, el Congreso del Estado deberá nombrar a la persona que cubra el cargo que correspondía al ciudadano Tonatiuh Guillén López, quien fungirá en el cargo el tiempo que le faltare por cumplir a este último. Bajo el siguiente procedimiento:
-
-a) Dentro de los quince días siguientes a la entrada en vigor de este Decreto, emitirá convocatoria pública a ocupar el cargo de Consejero Electoral, dirigida a los ciudadanos residentes en el Estado, a las instituciones de educación superior y centros de investigación en el Estado, a organismos empresariales, y de la sociedad civil, publicándola en el Periódico Oficial del Estado y en dos diarios de mayor circulación en la entidad;
-
-b) La convocatoria deberá contener, por lo menos: el plazo de inscripción para los ciudadanos, requisitos a cubrir por los aspirantes, procedimiento para comparecencia; el plazo en que las instituciones de educación superior y centros de investigación en el Estado, organismos empresariales, y de la sociedad civil, podrán proponer al Congreso del Estado hasta dos ciudadanos que consideren con mayor aptitud para el ejercicio de la función pública electoral;
-
-c) Corresponderá a la Comisión de Legislación y Puntos Constitucionales analizar y dictaminar sobre las solicitudes presentadas, para el cargo de Consejero Electoral;
-
-d) El Pleno del Congreso aprobará el nombramiento, a más tardar treinta días posteriores al cierre de inscripción para Consejero Electoral; y
-
-e) En el supuesto de que no se apruebe el nombramiento, y habiéndose agotado una segunda ronda de votación, la designación se hará por mayoría absoluta del Pleno del Congreso del Estado.
-
-QUARTO (SIC).- El personal que actualmente labora en el Instituto Estatal Electoral, en sus diferentes órganos que lo integran, quedan adscritos al Instituto Electoral y de Participación Ciudadana de acuerdo a su nueva conformación, conservando sus derechos y obligaciones conforme a lo previsto en la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California y demás disposiciones legales aplicables.
-
-QUINTO.- En tanto se hacen las reformas a la Ley de la materia, el Consejo General Electoral y la Dirección General del Instituto Electoral y de Participación Ciudadana, ejercerán las competencias y funciones que actualmente les señala la Ley de Instituciones y Procesos Electorales para el Estado de Baja California, al Consejo Estatal Electoral y a la Dirección General del Instituto Estatal Electoral, quien también ejercerá las relativas al Registro Estatal de Electores.
-
-SEXTO.- Los archivos, bienes y recursos materiales de todos y cada uno de los órganos que conformaban el Instituto Estatal Electoral, pasarán al patrimonio del Instituto Electoral y de Participación Ciudadana del Estado.
-
-SEPTIMO.- La Contraloría General del Instituto a que se refiere el Apartado B del artículo 5 del presente Decreto, entrará en funcionamiento a partir del primero de enero del año 2009. El Congreso del Estado deberá designar al titular respectivo.
-
-OCTAVO.- El Congreso del Estado deberá adecuar la legislación secundaria, a más tardar dentro de los noventa días siguientes a la entrada en vigor de las presentes reformas.
-
-NOVENO.- Los medios de impugnación, denuncias y quejas que a la entrada en vigor del presente Decreto se encuentren en trámite y las que se presenten en forma posterior pero antes de la reforma a la Ley de la materia, deberán resolverse conforme a las disposiciones vigentes al momento de su interposición.
-
-DÉCIMO.- Se derogan, en lo conducente, todas las disposiciones que se opongan a las presentes reformas.
-
-DÉCIMO PRIMERO.- Las menciones que en otras leyes se hagan al Instituto Estatal Electoral, se entenderán hechas al Instituto Electoral y de Participación Ciudadana.
-
-DÉCIMO SEGUNDO.- Si a la entrada en vigor del presente decreto estuviera vacante el cargo de Director General del Instituto Estatal Electoral, el Consejo General Electoral procederá a designar al Director General del Instituto Electoral y de Participación Ciudadana, bajo el siguiente procedimiento:
-
-I. El Consejero Presidente propondrá al aspirante al cargo de Director General del Instituto Electoral y de Participación Ciudadana, y será designado mediante la votación aprobatoria de las dos terceras partes de los integrantes del mismo Consejo;
-
-II. En el supuesto de que transcurridas dos rondas de votación, el aspirante propuesto por el Consejero Presidente no alcanzaré la votación requerida en la fracción anterior, se procederá a integrar una terna con candidatos propuestos por cada uno de los Presidentes de las Comisiones Permanentes del Consejo General a que se refiere el actual artículo 121 de la Ley de Instituciones y Procesos Electorales del Estado de Baja California. La designación en este caso se hará por mayoría simple del Consejo General.
-
-III. Corresponderá en todos los casos, a la Comisión de Reglamentos y Asuntos Jurídicos a que se refiere la fracción II del artículo 121 de la Ley de Instituciones y Procesos Electorales, dictaminar sobre los requisitos de elegibilidad de los candidatos que se propongan, quienes deberán reunir los requisitos referidos en el artículo 130 de la Ley.
-
-IV. El Director General del Instituto Electoral y de Participación Ciudadana, que se elija bajo el procedimiento de este artículo, estará en funciones cuatro años, y en su caso, hasta que el Consejo General Electoral, designe a un nuevo Director General.
-
-P.O. 19 DE SEPTIEMBRE DE 2008.
-
-DECRETO No. 122, POR EL QUE SE ADICIONA LA FRACCION XXI DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
-
-Artículo Primero.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
-
-Artículo Segundo.- Para los efectos de lo dispuesto en el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase la presente iniciativa a los Ayuntamientos de la entidad.
-
-P.O. 19 DE SEPTIEMBRE DE 2008.
-
-DECRETO No.123, POR EL QUE SE REFORMA LA FRACCION XXVI DEL ARTICULO 27 Y SE ADICIONA EL ARTICULO 76 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
-
-PRIMERO.- Túrnese el presente decreto a los ayuntamientos, de conformidad con el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
-
-SEGUNDO.- Una vez agotado el proceso legislativo en los términos del artículo 112 de la Constitución Política del estado Libre y Soberano de Baja California y resultando el recuento aprobatorio, las presentes reformas pasarán a formar parte de esta Constitución.
-
-TERCERO.- Se derogan todas las disposiciones que contravengan a esta reforma.
-
-CUARTO.- Se establece el plazo de 45 días, a efecto de que el Congreso del Estado realice las reformas legales correspondientes.
-
-QUINTO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 26 DE SEPTIEMBRE DE 2008.
-
-PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
-
-SEGUNDO.- Se derogan en lo conducente, todas las disposiciones que se opongan a la presente reforma.
-
-TERCERO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, a los Ayuntamientos para que emitan su opinión, en los términos de ley.
+La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
