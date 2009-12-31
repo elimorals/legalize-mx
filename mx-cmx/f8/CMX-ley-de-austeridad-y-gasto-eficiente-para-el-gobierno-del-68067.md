@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-y-gasto-eficiente-para-el-gobierno-del-68067"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2009-04-23"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68067&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2009-04-02"
 
 LEY DE AUSTERIDAD Y GASTO EFICIENTE PARA EL GOBIERNO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 31 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de abril de 2009.
 
@@ -151,3 +153,21 @@ CUARTO: Se derogan todas aquellas disposiciones que se contrapongan a la present
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinticuatro días del mes de marzo del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. CARLA ALEJANDRA SÁNCHEZARMAS GARCÍA, PRESIDENTA.- DIP. REBECA PARADA ORTEGA, SECRETARIA.- DIP. LAURA PIÑA OLMEDO, SECRETARIA.- FIRMAS
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dos días del mes de abril del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSE ÁNGEL ÁVILA PEREZ.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- SECRETARIA (SIC) DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JORGE ARGANIS DÍAZ LEAL.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, JESÚS ARTURO AISPURO CORONEL.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 31 DE DICIEMBRE DE 2009.
+
+Primero. El presente Decreto entrará en vigor a partir del 1° de enero del 2010.
+
+Segundo. A partir de la entrada en vigor de esta Ley se abroga la Ley de Austeridad y Gasto Eficiente para el Distrito Federal.
+
+Tercero. A partir de la entrada en vigor de esta Ley, las leyes que remitan a los preceptos del Código Financiero del Distrito Federal, se entenderán referidas a los correspondientes de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal, así como, en lo conducente, al Código Fiscal del Distrito Federal.
+
+Cuarto. Las Unidades Responsables de Gasto se apegarán en lo conducente al Plan de Cuentas emitido por el CONAC.
+
+Quinto. Quedan sin efectos las disposiciones legales e interpretaciones que contravengan o se opongan a lo preceptuado en esta Ley.
+
+Sexto. El Reglamento de la presente Ley se publicará a los 45 días posteriores a su entrada en vigor, mientras tanto estará vigente el Código Financiero del Distrito Federal vigente en el ejercicio fiscal 2009, en tanto no se oponga a esta Ley.
+
+Séptimo. Los Órganos de Gobierno y Autónomos deberán elaborar y determinar lineamientos tendientes a optimizar sus presupuestos y el gasto eficiente, y presentarlo ante la Asamblea Legislativa del Distrito Federal en el primer trimestre del año, para ser incorporado en la presente Ley.
