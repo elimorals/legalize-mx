@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2008-12-31"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # CODIGO FISCAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-CODIGO FISCAL DEL ESTADO DE MICHOACAN DE OCAMPO
+CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -99,11 +99,13 @@ Créditos fiscales son las prestaciones económicas que tiene derecho a percibir
 
 La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará por la Secretaria o por las oficinas que la misma autorice expresamente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 8o.
 
-Los créditos o deudas entre los gobiernos Estatal y Municipal, así como de sus organismos descentralizados o empresas de participación estatal se podrán compensar previo acuerdo que celebren, salvo por las deudas derivadas del pago del Impuesto sobre Erogaciones por Remuneración al Trabajo Personal, Prestado bajo la Dirección y Dependencia de un Patrón, y/o cualquier impuesto de características similares que lo sustituya, las cuales siempre deberán de ser pagadas en efectivo a la Secretaria, de conformidad con los términos establecidos en la Ley de Hacienda del Estado de Michoacán de Ocampo.
+Los créditos o deudas entre los gobiernos Estatal y Municipal, así como de sus organismos descentralizados o empresas de participación estatal se podrán compensar previo acuerdo que celebren, salvo por las deudas derivadas del pago del Impuesto sobre erogaciones por remuneración al trabajo personal, prestado bajo la Dirección y Dependencia de un Patrón, y/o cualquier impuesto de características similares que lo sustituya, las cuales siempre deberán de ser pagadas en efectivo a la Secretaría, de conformidad con los términos establecidos en la Ley de Hacienda del Estado de Michoacán de Ocampo.
 
 ###### ARTICULO 9o.
 
@@ -159,19 +161,13 @@ III. En el caso de personas morales, el lugar donde se encuentre la administraci
 
 Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligados a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda, de acuerdo con lo dispuesto en este mismo precepto; o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio, indistintamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 15.
 
-En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1° de enero, 5 y 10 de febrero, 21 de marzo, 1° y 10 de mayo, el día en que cada seis años que corresponda al cambio del Titular del Poder Ejecutivo Estatal, 16 y 30 de septiembre, así como, el día en que el Gobernador del Estado dé lectura al Informe de Gobierno correspondiente, 19 de octubre, 1° y 20 de noviembre, 10 de diciembre de cada seis años, cuando corresponda el cambio de Titular del Poder Ejecutivo Federal y el 25 de diciembre.
-
-En los plazos establecidos por períodos y aquellos en los que se señale una fecha determinada para su extinción, se computarán todos los días.
-
-Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que en el primer caso concluye el mismo día del mes de calendario posterior a aquel en que se inició y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquel en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
-
-No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el día siguiente hábil. Lo dispuesto en este artículo es aplicable inclusive cuando se autorice a oficinas distintas de las recaudadoras para la recepción de pagos.
-
-Esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
+En los plazos fijados en días no se contarán los sábados, los domingos, ni el primero de enero, 5 de febrero, 21 de marzo, 1° y 5 de mayo, el día en que corresponda al cambio del Titular del Poder Ejecutivo del Estado, 16 y 30 de septiembre, así como el día en que el Gobernador del Estado dé lectura al Informe de Gobierno correspondiente, 19 de octubre, 1° y 20 de noviembre, 1° de diciembre de cada seis años, cuando corresponda el cambio de Titular del Poder Ejecutivo Federal y el 25 de diciembre.
 
 ###### ARTICULO 16.
 
@@ -187,7 +183,7 @@ Las autoridades fiscales para la práctica de intervenciones, del procedimiento 
 
 Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Las promociones deberán presentarse en las formas que al efecto apruebe la Secretaria, en el número de ejemplares que establezca la forma oficial acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
 
@@ -241,7 +237,7 @@ Las contribuciones, así como las devoluciones a cargo del Fisco Estatal, no se 
 
 En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no se haya dado a conocer por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 20.
 
@@ -263,7 +259,7 @@ Los recargos se causarán por cada mes o fracción que transcurra a partir del d
 
 El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días, efectúe el pago del valor del mismo, junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que el rechazo del cheque por parte de la institución librada, obedeció exclusivamente a causas imputables a la misma. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre que su rechazo es imputable a la autoridad librada, la autoridad fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 21.
 
@@ -331,7 +327,7 @@ Las personas físicas y morales, que habitualmente realicen actividades gravadas
 
 La Secretaría asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales estatales, debiendo conservar en su domicilio fiscal, la documentación comprobatoria de haber cumplido con las obligaciones que establece este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 24.
 
@@ -365,7 +361,7 @@ I. El Gobernador del Estado;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-II. EI Secretario de Finanzas y Administración;
+II. El Secretario de Finanzas y Administración;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -383,7 +379,7 @@ V. Los Administradores y Receptores de Rentas dentro de sus respectivas jurisdic
 
 VI. Los demás subalternos de la propia Secretaria, comisionados por el titular de ésta, mediante instrucciones por escrito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 27.
 
@@ -425,7 +421,7 @@ XI. Tramitar y resolver los asuntos y recursos que ante él se presenten, confor
 
 XII. Las demás que le correspondan conforme a este Código u otras leyes y reglamentos fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 28.
 
@@ -489,11 +485,13 @@ XX. Garantizar el interés fiscal y de la Hacienda Pública Estatal, emitiendo l
 
 XXI. Las demás que le correspondan conforme a las leyes, reglamentos y acuerdos del Titular del Poder Ejecutivo.
 
-(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 16 DE ENERO DE 2009) (F. DE E., P.O. 29 DE MAYO DE 2009)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 29.
 
-La Secretaria a solicitud de los contribuyentes, podrá autorizar el pago a plazos, ya sea diferido o en parcialidades de las contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de un año, de conformidad con lo siguiente:
+La Secretaría a solicitud de los contribuyentes, podrá autorizar el pago a plazos, ya sea diferido o en parcialidades de las contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de 24 meses, de conformidad con lo siguiente:
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -687,7 +685,7 @@ I. El visitado, su representante o quien se encuentre en el lugar de la visita s
 
 II. No se hayan presentado todas las declaraciones periódicas a que obligan las disposiciones fiscales, por el período al que se refiere la visita.
 
-lll. Los datos anotados en los documentos o informes que se requieran, no coincidan o no se puedan conciliar con los asentados en las declaraciones o avisos presentados dentro del plazo que señalen las disposiciones fiscales o cuando sean falsos o amparen operaciones inexistentes.
+III. Los datos anotados en los documentos o informes que se requieran, no coincidan o no se puedan conciliar con los asentados en las declaraciones o avisos presentados dentro del plazo que señalen las disposiciones fiscales o cuando sean falsos o amparen operaciones inexistentes.
 
 IV. Cuando el visitado sea emplazado a huelga o suspensión de labores, en cuyo caso los datos, documentos o informes que se requieran sólo podrán recogerse dentro de las cuarenta y ocho horas anteriores a la fecha señalada para el inicio de la huelga o suspensión de labores.
 
@@ -705,7 +703,7 @@ I. De toda visita en el domicilio fiscal se levantará acta en la que se hará c
 
 II. Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial cumpliendo al respecto con lo previsto en la fracción II del Artículo 39-B de este Código.
 
-lll. Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
+III. Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
 
 IV. Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia, excepto en el supuesto de que el visitado hubiere desaparecido del domicilio fiscal durante el desarrollo de la visita.
 
@@ -763,27 +761,85 @@ Los plazos a los que se refiere este artículo se podrán ampliar por las autori
 
 Los contribuyentes que no estén conformes con los resultados encontrados de cualquier revisión, podrán inconformarse con los hechos contenidos en las resoluciones, mediante escrito que deberán presentar ante las autoridades fiscales dentro de los cuarenta y cinco días siguientes a la notificación de la resolución, a dicho escrito acompañarán las pruebas documentales pertinentes y vinculadas a los hechos con los que se inconformen.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 45.
 
-Las autoridades fiscales podrán determinar presuntivamente el valor de los actos o actividades por los que deben pagar contribuciones, cuando:
+Las autoridades fiscales podrán determinar presuntivamente, los ingresos, y el valor de los actos o actividades, así como las remuneraciones por los que deban pagar contribuciones, cuando:
 
-I. Se opongan u obstaculicen la determinación de las contribuciones que establece la Ley; y
+I. Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales; u omitan presentar la declaración del ejercicio de cualquier contribución hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de un mes desde el día en que venció el plazo para la presentación de la declaración de que se trate; y,
 
-II. Por otras irregularidades que imposibiliten el conocimiento de sus operaciones.
+II. No presenten la documentación comprobatoria de más del 3% de alguno de los conceptos de las declaraciones, o no proporcionen los informes relativos que acrediten el cumplimiento de las disposiciones fiscales.
 
 La determinación presuntiva a que se refiere este artículo, procederá independientemente de las sanciones a que haya lugar.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 46.
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales calcularán las bases de las contribuciones de que se trate utilizando medios indirectos de investigación económica o de cualquier otra clase.
+Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales calcularán los ingresos brutos de los contribuyentes, el valor de los actos o actividades, así como las remuneraciones por los que deban pagar contribuciones, sobre los que proceda el pago de contribuciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
+
+I. Utilizando información que obre en poder del contribuyente;
+
+II. Tomando como base los datos contenidos en las declaraciones del ejercicio correspondiente a cualquier contribución, sea del mismo ejercicio o de cualquier otro, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación;
+
+III. A partir de la información que proporcionen terceros a solicitud de las autoridades fiscales, cuando tengan relación de negocios con el contribuyente;
+
+IV. Con otra información obtenida por las autoridades fiscales en el ejercicio de sus facultades de comprobación; y,
+
+V. Utilizando medios indirectos de la investigación económica o de cualquier otra clase.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 47.
 
-Para comprobar el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente, corresponden a operaciones realizadas por éste, cuando:
+Para la comprobación de los ingresos, del valor de los actos o actividades, así como las remuneraciones por los que deban pagar contribuciones, las autoridades fiscales presumirán, salvo prueba en contrario:
 
-I. Se refieran al contribuyente designado por su nombre, denominación o razón social; y
+I. Que la información contenida en la documentación comprobatoria y correspondencia que se encuentren en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por el contribuyente;
 
-II. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
+Il. Que la información contenida en documentación y correspondencia a nombre del contribuyente localizado en poder de personas a su servicio, o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente;
+
+III. Que los depósitos en la cuenta bancaria del contribuyente que no correspondan a registros de las operaciones de sus actividades, son ingresos y valor de actos o actividades por los que se debe pagar contribuciones.
+
+También se presumirá que los depósitos que efectúen en un Ejercicio Fiscal en las cuentas bancarias de una persona que no esté inscrita en el Registro Estatal de Contribuyentes, son ingresos o valor de actos o actividades por los que se deben pagar contribuciones; y,
+
+IV. Que son ingresos y valor de actos o actividades de la empresa por los que se deben pagar contribuciones, los depósitos hechos en cuenta de cheques personal de los gerentes, administradores o terceros, cuando efectúen pagos de deudas de la empresa con cheques de dicha cuenta o depositen en la misma, cantidades que correspondan a la empresa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 47-A.
+
+Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere el artículo 45 de este Código, y no puedan comprobar por el período objeto de revisión sus ingresos, el valor de los actos o actividades, así como las remuneraciones por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las siguientes operaciones:
+
+I. Si con base en la documentación del contribuyente o información de terceros, pudieran reconstruirse las operaciones correspondientes cuando menos a treinta días lo más cercano posible al cierre del ejercicio, el ingreso o el valor de los actos o actividades, así como las remuneraciones por los que deban pagar contribuciones se determinará con base en el promedio diario del período reconstruido, el que se multiplicará por el número de días que correspondan al período objeto de la revisión; y,
+
+II. Si la documentación del contribuyente no permite reconstruir las operaciones del período de treinta días a que se refiere la fracción anterior, las autoridades fiscales tomarán como base la totalidad de ingresos o del valor de los actos o actividades, por los que deban pagar contribuciones que observen durante siete días incluyendo los inhábiles, cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión.
+
+Al ingreso o valor de los actos o actividades así como las remuneraciones por los que deban pagar contribuciones, estimados presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa que corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 47-B.
+
+Para comprobar los ingresos, el valor de los actos o actividades, así como las remuneraciones por los que deban pagar contribuciones los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente, corresponden a operaciones realizadas por éste, cuando:
+
+I. Se refieran al contribuyente designado por su nombre, denominación o razón social;
+
+II. Señalen como lugar para la entrega o recibo de bienes o prestación de servicios, relacionados con las actividades del contribuyente, cualquiera de sus establecimientos, aún cuando exprese el nombre, denominación o razón social de un tercero, real o ficticio;
+
+III. Señalen el nombre o domicilio de un tercero, real o ficticio, si se comprueba que el contribuyente entrega o recibe bienes o servicios a ese nombre o en ese domicilio; y,
+
+IV. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
 ###### ARTICULO 48.
 
@@ -847,7 +903,7 @@ II. La omisión haya sido corregida por el contribuyente después de que haya me
 
 III. Haya transcurrido el plazo que se establezca para la prestación de los servicios de control vehicular a que se refiere el Capitulo II, del Título Cuarto de la Ley de Hacienda del Estado de Michoacán.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 57.
 
@@ -881,6 +937,12 @@ c) Que la comisión de la infracción sea en forma continuada.
 
 III. Cuando por un acto o una omisión, se infrinjan diversas disposiciones fiscales a las que correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Cuando la multa aplicable a una misma conducta infraccionada, sea modificada posteriormente mediante reforma al precepto legal que la contenga, las autoridades fiscales aplicarán la multa que resulte menor entre la existente en el momento en que se cometió la infracción y la multa vigente en el momento de su imposición.
+
 ###### ARTICULO 59.
 
 Son infracciones relacionadas con el Registro Estatal de Contribuyentes las siguientes:
@@ -895,9 +957,17 @@ III. No presentar avisos o manifestaciones a que esté obligado a hacerlo extemp
 
 A quien cometa las infracciones relacionadas con el Registro Estatal de Contribuyentes a que se refiere el artículo anterior, se impondrán las siguientes multas:
 
-I. El equivalente a 10 días de salario mínimo diario vigente en la región, a la comprendida en la fracción I; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-II. El equivalente a 5 días de salario mínimo diario vigente en la región, a las comprendidas en las fracciones II y III.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+I. El equivalente de 10 a 15 días de salario mínimo diario vigente en la región, a la comprendida en la fracción I; y,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. El equivalente de 5 a 10 días de salario mínimo diario vigente en la región, a las comprendidas en las fracciones II y III.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -915,9 +985,17 @@ II. Oponerse a que se practique la visita en el domicilio fiscal. No suministrar
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de las autoridades a que se refiere el artículo anterior, se impondrán las siguientes multas:
 
-I. Se aplicará una multa del 50% al 100% de las contribuciones omitidas a la comprendida en la fracción I.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-II. A la comprendida en la fracción II, se aplicará una multa equivalente a 100 días de salario mínimo diario vigente en la región.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+I. Se aplicará una multa del 50% al 75% de las contribuciones omitidas a la comprendida en la fracción I; y,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. A la comprendida en la fracción II, se aplicará una multa equivalente de 100 a 150 días de salario mínimo diario vigente en la región.
 
 ###### ARTICULO 63.
 
@@ -937,9 +1015,17 @@ V. Exigir una prestación que no esté prevista en la Ley, aún cuando se apliqu
 
 A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo anterior, se impondrán las siguientes multas:
 
-I. Del equivalente a 75 días de salario mínimo diario vigente en la región, a las comprendidas en las fracciones III y V; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-II. Del equivalente a 200 días de salario mínimo diario vigente en la región, a las comprendidas en las fracciones l, II y IV.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+I. Del equivalente de 75 a 120 días de salario mínimo diario vigente en la región, a las comprendidas en las fracciones III y V; y,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. Del equivalente de 200 a 300 días de salario mínimo diario vigente en la región, a las comprendidas en las fracciones l, II y IV.
 
 ###### ARTICULO 65.
 
@@ -949,11 +1035,15 @@ I. Colaborar a la alteración de cuentas o asentar datos falsos en los documento
 
 II. Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 66.
 
-A quien cometa cualquiera de las infracciones señaladas en el artículo anterior, se le impondrá multa del equivalente a 150 días de salario mínimo diario vigente en la región.
+A quien cometa cualquiera de las infracciones señaladas en el artículo anterior, se le impondrá multa del equivalente de 150 a 200 días de salario mínimo diario vigente en la región.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 67.
 
@@ -973,11 +1063,23 @@ II. No exhibir oportunamente las declaraciones del ejercicio o presentarlas exte
 
 A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo anterior, se le impondrán las multas siguientes:
 
-I. Con el equivalente a 2 días de salario mínimo vigente en el Estado, a las personas físicas que se coloquen en el supuesto de la comprendida en la fracción I;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-II. Con el equivalente a 5 días de salario mínimo vigente en el Estado, a las personas morales que se coloquen en el supuesto de la comprendida en la fracción I; y,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-III. Con el equivalente al 50% de las sanciones a que se refieren las sanciones I y II de este artículo, a las personas físicas y morales y demás obligados, cuando se coloquen ene l supuesto de la comprendida en la fracción II.
+I. Con el equivalente de la 5 días de salario mínimo vigente en el Estado, a las personas físicas que se coloquen en el supuesto de la comprendida en la fracción I;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. Con el equivalente de 5 a 10 días de salario mínimo vigente en el Estado, a las personas morales que se coloquen en el supuesto de la comprendida en la fracción I; y,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+III. Con el equivalente del 50% al 75% de las sanciones a que se refieren las sanciones I y II de este artículo, a las personas físicas y morales y demás obligados, cuando se coloquen en el supuesto de la comprendida en la fracción II.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1003,19 +1105,25 @@ V. No revalidar las concesiones de servicio público.
 
 A quien cometa las infracciones señaladas en el artículo anterior, se impondrán las sanciones expresadas en el equivalente a los días de salario mínimo diario vigente en la región en la fecha en que las infracciones se cometan conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-I.- Del equivalente a 4 días de salario mínimo vigente, a las comprendidas en las fracciones I y II;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+I. Del equivalente de 4 a 6 días de salario mínimo vigente, a las comprendidas en las fracciones I y II;
 
-II.- Del equivalente a 8 días de salario mínimo vigente, a las comprendidas en las fracciones III y IV;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-III.- Del equivalente a 7 días de salario mínimo vigente, a la comprendida en la fracción V; y
+II. Del equivalente de 8 a 12 días de salario mínimo vigente, a las comprendidas en las fracciones III y IV;
 
-IV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1993)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+III. Del equivalente de 7 a 10 días de salario mínimo vigente, a la comprendida en la fracción V; y,
+
+IV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 71.
 
@@ -1031,7 +1139,7 @@ III. No renovar la tarjeta de circulación y calcomanía para vehículos automot
 
 IV. Renovar extemporáneamente la licencia para conducir vehículos automotores;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 V. No devolver, al realizar los trámites de baja o canje general;
 
@@ -1065,23 +1173,29 @@ XI. No realizar el refrendo anual de calcomanía, en las fechas correspondientes
 
 A quien cometa las infracciones señaladas en el artículo anterior, se impondrán sanciones expresadas en el equivalente a los días de salario mínimo vigente en la región en la fecha en que las infracciones se cometan, conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DEL 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-I. Del equivalente a 4 días de salario mínimo vigente, a las comprendidas en las fracciones I, II, III, VIII Y IX;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+I. Del equivalente de 4 a 6 días de salario mínimo vigente, a las comprendidas en las fracciones I, II, III, VIII y IX;
 
-II. Del equivalente a 1 día de salario mínimo vigente, a las comprendidas en las fracciones IV, VI y VII;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. Del equivalente de 1 a 3 días de salario mínimo vigente, a las comprendidas en las fracciones IV, VI y VII;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 III. Del equivalente de 2 a 4 días de salario mínimo vigente, a la comprendida en la fracción V incisos a) y b) respectivamente; y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-IV. Del equivalente a 20 días de salario mínimo vigente, a la comprendida en la fracción X y en caso de reincidencia por el doble de la señalada en esta fracción.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+IV. Del equivalente de 20 a 30 días de salario mínimo vigente, a la comprendida en la fracción X.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 73.
 
@@ -1099,9 +1213,17 @@ III. Alterar los documentos relativos a la propiedad del vehículo.
 
 A quien cometa las infracciones señaladas en el artículo anterior, se impondrán las siguientes multas:
 
-I. Del equivalente a un 20% del monto del impuesto que se determine en los casos a que se refieren las fracciones I y II; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-II. Del equivalente al 100% del monto del impuesto que se determine en el caso a que se refiere la fracción III.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+I. Del equivalente del 20% a un 40% del monto del impuesto que se determine en los casos a que se refieren las fracciones I y II; y,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. Del equivalente del 100% al 150% del monto del impuesto que se determine en el caso a que se refiere la fracción III.
 
 ### CAPITULO II. DE LOS DELITOS FISCALES
 
@@ -1115,7 +1237,7 @@ Los delitos fiscales que aprovechen a una persona moral o a una agrupación, aun
 
 Por los delitos fiscales no se impondrán sanciones pecuniarias en el proceso penal. Las autoridades fiscales con arreglo a las disposiciones de este Código, harán efectivo el cobro de las contribuciones omitidas, de los recargos, de las sanciones administrativas impuestas y demás prestaciones procedentes, sin que ello afecte el procedimiento penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 77.
 
@@ -1123,7 +1245,7 @@ Para proceder penalmente contra los presuntos responsables de los delitos fiscal
 
 No procederá la querella a que se refiere el párrafo anterior, si el adeudo fiscal, incluyendo el de las sanciones impuestas por infracciones al presente Código, no excede del equivalente a 100 días de salario mínimo diario vigente en la región.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 78.
 
@@ -1759,7 +1881,7 @@ Si al designarse bienes para el embargo administrativo se opusiera un tercero fu
 
 En todo momento, los opositores podrán ocurrir ante la oficina recaudadora, haciéndole saber la existencia de otros bienes propiedad del deudor del crédito fiscal libres de gravamen y suficientes para responder de las prestaciones fiscales exigidas. Esta información no obligará a la recaudadora a levantar el embargo sobre los bienes a que se refiere la oposición.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 141.
 
@@ -1927,7 +2049,7 @@ Si el importe de la postura es menor al interés fiscal, se rematarán de contad
 
 La autoridad ejecutora podrá enajenar a plazos los bienes embargados en los casos y condiciones que establezca la Secretaria. En este supuesto el embargado quedará liberado de la obligación de pago.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 163.
 
@@ -2041,7 +2163,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- DR. JAIME GENOVEVO FIGUEROA ZAMUDIO.- EL SECRETARIO DE GOBIERNO.- LIC. AUSENCIO CHAVEZ HERNANDEZ.- (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE DICIEMBRE DE 1993
 
@@ -2096,3 +2218,9 @@ P.O. 31 DE DICIEMBRE DE 2008.
 ###### ARTICULO ÚNICO.
 
 La presente Ley, entrará en vigor el día 1° de enero de 2009, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto, entrará en vigor el día 1° primero de enero de 2010, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
