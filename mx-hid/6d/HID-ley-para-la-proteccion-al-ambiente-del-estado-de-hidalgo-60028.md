@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-60028"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCION AL AMBIENTE DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Alcance Uno del Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -81,9 +81,11 @@ VIII.- Coordinar a las diversas Dependencias y Entidades de la Administración P
 
 En todo lo no previsto en la presente Ley y a falta de disposición expresa, se aplicarán en forma supletoria la Ley General del Equilibrio Ecológico y Protección al Ambiente, así como las demás disposiciones contenidas en otras Leyes, relacionadas con la materia que regula este ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 4.
 
-Para los efectos de esta Ley, se estará a las definiciones de los siguientes conceptos:
+Para los efectos de esta Ley, se entenderá a las definiciones de los siguientes conceptos:
 
 I.- ALMACENAMIENTO: Acción de retener temporalmente residuos en tanto se procesan para su aprovechamiento o confinamiento final;
 
@@ -147,6 +149,10 @@ XXX.- GACETA ECOLÓGICA: Documento que tiene por objeto publicar las disposicion
 
 XXXI.- INFORME PREVENTIVO: Documento mediante el cual se dan a conocer los datos generales de una obra o actividad para efectos de determinar si requiere ser evaluada a través de una manifestación de impacto ambiental;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XXXI Bis.- INCINERACIÓN: Todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
+
 XXXII.- IMPACTO AMBIENTAL: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
 
 XXXIII.- JARDINES HISTÓRICOS: Los constituyen las áreas cuyo material de la composición arquitectónica es esencialmente vegetal y por lo tanto, vivo, perecedero y renovable, que desde el punto de vista histórico o del arte, tiene un interés público;
@@ -161,7 +167,7 @@ XXXVII.- MEDIDAS DE PREVENCIÓN Y MITIGACIÓN: Conjunto de disposiciones y accio
 
 XXXVIII.- NORMAS OFICIALES: Las Normas Oficiales Mexicanas; La regulación técnica de observancia obligatoria expedida por las dependencias competentes que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistemas, actividad, servicio o método de producción u operación, así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado y las que se refieran a su cumplimiento o aplicación;
 
-XXXIX.- NORMAS TÉCNICAS ECOLÓGICAS ESTATALES: Las reglas técnicas o parámetros científicos o tecnológicos emitidas por el Consejo Estatal de Ecología, en las que se establecen los requisitos, especificaciones, condiciones, procedimientos, parámetro y limites permisibles que deberán observarse en el desarrollo de las actividades o uso y destino de bienes que causen o puedan causar desequilibrio ecológico o daños al ambiente y además que permitan uniformar los principios, criterios y políticas en la materia;
+XXXIX.- NORMAS TÉCNICAS ECOLÓGICAS ESTATALES: Las reglas técnicas o parámetros científicos o tecnológicos emitidas por el Consejo Estatal de Ecología, en las que se establecen los requisitos, especificaciones, condiciones, procedimientos, parámetro y límites permisibles que deberán observarse en el desarrollo de las actividades o uso y destino de bienes que causen o puedan causar desequilibrio ecológico o daños al ambiente y además que permitan uniformar los principios, criterios y políticas en la materia;
 
 XL.- PARQUES ESTATALES: Los constituyen representaciones biogeográficas a nivel estatal, de uno o más ecosistemas que sean significativos por su belleza escénica, su valor científico, educativo, de recreo, histórico, por la existencia de flora y fauna silvestres, por su aptitud para el desarrollo del turismo, o bien por otras razones análogas de interés general en el Estado;
 
@@ -531,7 +537,7 @@ Reglamento de la presente Ley.
 
 ###### Artículo 29.
 
-La evaluación del impacto ambiental es el procedimiento a través del cual se establecen las condiciones a que se sujetara la realización de las obras y actividades que pueden causar desequilibrio ecológico o rebasar los limites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y restaurar y conservar los ecosistemas, a fin de evitar o reducir sus efectos negativos sobre el ambiente.
+La evaluación del impacto ambiental es el procedimiento a través del cual se establecen las condiciones a que se sujetara la realización de las obras y actividades que pueden causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y restaurar y conservar los ecosistemas, a fin de evitar o reducir sus efectos negativos sobre el ambiente.
 
 La manifestación de impacto ambiental será autorizada por la Secretaria, conforme al procedimiento previsto en el Reglamento de esta Ley.
 
@@ -1009,7 +1015,7 @@ Previamente a la expedición de las declaratorias o de los certificados para el 
 
 ###### Artículo 73.
 
-Los pueblos indígenas, las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante el Consejo o los Ayuntamientos, según corresponda, el establecimiento, en terrenos de se propiedad, posesión o mediante convenio con terceros, de áreas naturales protegidas, cuando se trate de áreas destinadas a la preservación, protección y restauración de la biodiversidad. El Consejo o los Ayuntamientos, en su caso, promoverán ante el titular del Poder Ejecutivo del Estado la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promotor.
+Los pueblos indígenas, las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante el Consejo o los Ayuntamientos, según corresponda, el establecimiento, en terrenos de ser propiedad, posesión o mediante convenio con terceros, de áreas naturales protegidas, cuando se trate de áreas destinadas a la preservación, protección y restauración de la biodiversidad. El Consejo o los Ayuntamientos, en su caso, promoverán ante el titular del Poder Ejecutivo del Estado la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promotor.
 
 ###### Artículo 74.
 
@@ -1041,7 +1047,7 @@ El Consejo y los Ayuntamientos vigilarán el cumplimiento del programa de manejo
 
 ###### Artículo 78.
 
-Los certificados y las declaratorias, así como un resumen de sus programas de manejo o estudios técnicos, deberán Publicarse en el Periódico Oficial del Estado, debiendo inscribirse en el Registro Publico de la Propiedad y registradas en el Registro Estatal de Áreas Naturales Protegidas.
+Los certificados y las declaratorias, así como un resumen de sus programas de manejo o estudios técnicos, deberán Publicarse en el Periódico Oficial del Estado, debiendo inscribirse en el Registro Público de la Propiedad y registradas en el Registro Estatal de Áreas Naturales Protegidas.
 
 ###### Artículo 79.
 
@@ -1431,6 +1437,12 @@ La responsabilidad a que se refiere este precepto es de carácter objetivo y par
 
 Para la protección al ambiente, con motivo de la operación de sitios destinados al manejo y disposición final de residuos de manejo especial, el Reglamento de esta Ley y las Normas Técnicas podrán establecer medidas o restricciones complementarias a las que emita la Federación.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 133 Bis.
+
+Se prohíbe la incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado.
+
 ###### Artículo 134.
 
 Son considerados micro-generadores los establecimientos industrial, comercial o de servicios que generen una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida.
@@ -1763,7 +1775,7 @@ X.- Ordenar el retiro de la circulación de los vehículos que generen contamina
 
 XI.- La remisión de vehículos a los depósitos correspondiente.
 
-Si una vez vencido el plazo concedido por la Autoridad para subsanar la o las infracciones que se hubiesen cometido, resultare que dicha infracción o infracciones aun subsisten, se podrá imponer multas por cada día que transcurra, sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido.
+Si una vez vencido el plazo concedido por la Autoridad para subsanar la o las infracciones que se hubiesen cometido, resultare que dicha infracción o infracciones aún subsisten, se podrá imponer multas por cada día que transcurra, sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido.
 
 En caso de reincidencia, el monto de la sanción económica podrá duplicarse.
 
@@ -2190,3 +2202,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
