@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2009-05-12"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -163,6 +163,10 @@ V. En el Tribunal de Arbitraje y Escalafón; todo el personal, excepto actuarios
 
 De crearse categorías o cargos no comprendidos en este artículo, se hará constar en el nombramiento si es de base, confianza, supernumerario o becario, debiéndose atender los criterios señalados con los incisos de la a) a la j) de la parte inicial de este precepto.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Lo establecido en las condiciones de trabajo se extenderá a los trabajadores de confianza, salvo disposición en contrario consignada en el mismo contrato colectivo.
+
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Art. 5°.
@@ -191,13 +195,11 @@ Los servidores públicos supernumerarios una vez contratados de manera definitiv
 
 Los servidores públicos de base serán inamovibles, una vez transcurridos seis meses sin nota desfavorable en su expediente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 8°.
 
-Tratándose de servidores públicos de confianza, su nombramiento será por tiempo determinado, sin perjuicio de lo dispuesto por el artículo 6.° de esta ley; sin embargo, las entidades públicas de que se trate, sin responsabilidad para ellas, podrán dictar el cese que termine la relación laboral si existiere un motivo razonable de pérdida de confianza, sujetándose en lo conducente al procedimiento previsto en los artículos 23 y 26, salvo que se trate de los titulares de las entidades públicas a que se refiere el artículo 9.° de los servidores públicos designados por éstos y que dependan directamente de ellos, quienes en su caso podrán ser cesados en los términos de este artículo, sin necesidad de instauración del procedimiento señalado.
-
-Los elementos de las instituciones policiales del Estado y municipios, podrán ser removidos de su cargo si no cumplen con los requisitos que las leyes vigentes en el momento de la remoción señalen para permanecer en dichas instituciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y, en su caso, solo procederá la indemnización.
+Tratándose de servidores públicos de confianza, su nombramiento será por tiempo determinado, sin perjuicio de lo dispuesto por el artículo 6 de esta Ley; sin embargo, las entidades públicas de que se trate, sin responsabilidad para ellas, podrán dictar el cese que termine la relación laboral si existiere un motivo razonable de pérdida de confianza, sujetándose en lo conducente al procedimiento previsto en los artículos 23 y 26, salvo que se trate de los titulares de las Entidades Públicas a que se refiere el artículo 9º, quienes en su caso podrán ser cesados en los términos de este artículo, sin necesidad de instauración del procedimiento señalado.
 
 ###### Art. 9°.
 
@@ -295,9 +297,9 @@ V. Por Obra Determinada, cuando se otorgue para realizar tareas temporales direc
 
 VI. Beca, cuando se expida por tiempo determinado para la capacitación o adiestramiento del becario en alguna actividad propia de la administración pública estatal o municipal.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-En caso de no señalarse el carácter de los nombramientos otorgados por los titulares de los tres poderes del Estado, ayuntamientos y sus descentralizados de ambos, en las categorías de secretarios, directores, jefes de departamento o sus equivalentes, de acuerdo al artículo 4.° (sic) de este ordenamiento, se entiende que su periodo será por el término constitucional o administrativo para el que fue contratado.
+En caso de no señalarse el carácter de los nombramientos otorgados por los titulares de los tres poderes del Estado, ayuntamientos y los descentralizados de ambos, en la categoría de secretarios, subsecretarios, directores generales, directores de área o sus equivalentes en el nivel, de acuerdo al artículo 4.° de este ordenamiento, se entiende que su periodo será por el término constitucional o administrativo para el que fue contratado.
 
 ###### Art. 17.
 
@@ -627,6 +629,14 @@ Cuando los servidores públicos aspiren a un cargo público de elección popular
 
 Para que los permisos o licencias se concedan es requisito previo la solicitud por escrito con 8 días anteriores a la fecha en que debe empezar a surtir sus efectos el mismo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Art. 42 bis. Tratándose de licencias otorgadas a servidores públicos de elección popular, cuando las mismas sean por tiempo determinado, los mismos deberán reintegrarse a su función en la fecha correspondiente.
+
+En el caso de licencias por tiempo indefinido, cuando el servidor público pretenda reintegrarse a su cargo, deberá notificarlo a la autoridad competente, a fin de que quien la autorizó resuelva dentro de los tres días hábiles siguientes a la notificación. En caso de no resolver se entenderá en sentido afirmativo, debiendo el servidor público reintegrarse a su función.
+
+Para las suplencias de los servidores públicos a que se refiere este artículo, se estará a lo dispuesto por las leyes de la materia.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 43.
@@ -649,31 +659,29 @@ Los cómputos deberán hacerse por servicios continuos o cuando, de existir una 
 
 ### CAPITULO IV. De los sueldos
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 45.
 
-Sueldo es la remuneración que debe pagarse al servidor público por los servicios prestados.
+Sueldo es la remuneración o retribución que debe pagarse al servidor público por los servicios prestados.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 46.
 
-El sueldo para los servidores públicos se regirá por las disposiciones siguientes:
+El sueldo para los servidores públicos será determinado anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
 
-I. Debe estar previsto en el presupuesto de egresos respectivo, mismo que debe cumplir con los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación;
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo salarios, dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra prestación, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
 
-II. Debe ser racional, en cuanto esté basado en una adecuada fundamentación del derecho que lo sustenta;
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente;
 
-III. Debe ser proporcional en razón de que su cuantía debe guardar conformidad con la capacidad pecuniaria de la entidad, las necesidades de la misma, así como la responsabilidad y funciones inherentes al cargo; y
+III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente, y
 
-IV. Debe fijarse cumpliendo con los requisitos establecidos en la ley.
+IV. Las remuneraciones y sus tabuladores serán públicos, respetando los datos personales, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
-Las modificaciones a los presupuestos de egresos que resuelvan aumentos salariales deben estar fundadas y motivadas.
+El sueldo de los servidores públicos, en ningún caso puede ser disminuido, pero si puede permanecer sin variaciones las anualidades que sean necesarias, a fin de ajustarse a los principios establecidos en el presente artículo.
 
-El sueldo y demás prestaciones de los servidores públicos, en ningún caso pueden ser disminuidas, pero si pueden permanecer sin variaciones las anualidades que sean necesarias, a fin de ajustarse a los principios establecidos en el presente artículo.
-
-Es causal de responsabilidad administrativa en los términos de la ley de la materia, establecer en los presupuestos de egresos o autorizar el pago de bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación. En igual responsabilidad incurre el servidor que reciba este tipo de percepciones.
+Es causal de responsabilidad administrativa en los términos de la ley de la materia, establecer en los presupuestos de egresos o autorizar el pago de ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración. En igual responsabilidad incurre el servidor que reciba este tipo de percepciones.
 
 Las sanciones que se apliquen de conformidad con el párrafo anterior son independientes de las que procedan en caso de configurarse responsabilidad política, penal o civil.
 
@@ -795,9 +803,11 @@ El aguinaldo se cubrirá proporcionalmente tomando en cuenta las faltas de asist
 
 Los servidores públicos que no hayan cumplido un año de labores tendrán derecho a que se les pague esta prestación, en proporción al tiempo efectivamente trabajado.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Art. 54 bis. Los servidores públicos que integran los entes públicos a que se refiere el artículo 1 de esta ley, con excepción de sus titulares, mandos superiores y directores pueden recibir estímulos o compensaciones, mismos que deben estar sujetos a lo estrictamente establecido en el Presupuesto de Egresos respectivo.
+Art. 54 bis. Los servidores públicos que integran los entes públicos a que se refiere el artículo 1.° de esta ley, con excepción de sus titulares, secretarios, subsecretarios, directores generales o sus equivalentes, pueden recibir bonos, premios, recompensas, estímulos o compensaciones, mismos que deben estar sujetos a lo estrictamente establecido en las leyes correspondientes y el Presupuesto de Egresos respectivo.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
 El otorgamiento de los estímulos o compensaciones debe sujetarse estrictamente a lo siguiente:
 
@@ -813,6 +823,8 @@ V. El pago de estos beneficios debe registrarse en el recibo de nómina del serv
 
 VI. La información relativa a los criterios y procedimientos para la asignación de estímulos o compensaciones, así como los nombres de los servidores públicos merecedores de ellos, deben publicarse en los medios de divulgación correspondientes a cada autoridad.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
 Los servidores públicos que otorguen o reciban estímulos o compensaciones en contravención al presente artículo y demás disposiciones legales y reglamentarias aplicables incurren en responsabilidad, misma que se sanciona de conformidad con la legislación vigente.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 26 DE AGOSTO DE 2004)</small>
@@ -825,17 +837,23 @@ Art. 54 bis 1.- Son irrenunciables los salarios devengados, indemnizaciones y de
 
 Queda prohibido para todo servidor público, otorgar o recibir prestaciones distintas a las establecidas en esta ley y demás disposiciones legales aplicables.
 
-Se consideran acordes a la ley, las prestaciones otorgadas a los servidores públicos en los términos de las condiciones generales de trabajo o contratos colectivos celebrados de conformidad con la ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Se consideran legales, las prestaciones otorgadas a los servidores públicos en los términos de la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Art. 54 bis 2. La remuneración de los servidores públicos deberá cumplir con lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales y reglamentarias aplicables; será conforme a los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación, debiendo fijarse anualmente en los presupuestos de egresos respectivos.
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
-
-Art. 54 bis 2. La remuneración de los servidores públicos se tasará en salarios mínimos y será conforme a los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación, debiendo fijarse anualmente en los presupuestos de egresos respectivos.
 
 Al determinarse la remuneración de los servidores públicos, con excepción de los titulares de las autoridades a que se refiere esta ley, se tomará en cuenta su antigüedad, capacidad, nivel académico, productividad y responsabilidad, a la par de cumplir con los otros principios que establece la presente ley así como la demás normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Art. 54 bis 3. Los servidores públicos tendrán derecho a los servicios asistenciales que otorga la Dirección de Pensiones del Estado, en los términos establecidos en la ley de la materia.
+Art. 54 bis 3. Los servidores públicos tendrán derecho a los servicios asistenciales previstos en la ley estatal en materia de pensiones de los servidores públicos.
+
+La citada ley estatal en materia de pensiones determinará el mecanismo y la cuantía de las aportaciones que realicen los servidores públicos afiliados.
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -855,9 +873,11 @@ Art. 54 bis 5. Los servidores públicos pagarán las contribuciones fiscales que
 
 Art. 54 bis 6. Las licencias para separarse del cargo de manera voluntaria y temporal deberán ser autorizadas por el superior jerárquico del solicitante, con excepción de los casos en que conforme a esta ley se requiera procedimiento distinto, y una vez en vigencia suspenderán el goce del sueldo y demás prestaciones establecidas por el presente ordenamiento.
 
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Art. 54 bis 7. Quedan prohibidas las subvenciones en efectivo o en especie destinadas al disfrute privado del servidor público, así como bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, distintas a las establecidas en la presente ley, ya sea enunciadas como compensaciones, ayudas, bonos o cualquiera otra denominación.
+Art. 54 bis 7. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo.
+
+Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2005)</small>
 
@@ -923,9 +943,9 @@ XXIII. Presentar con oportunidad la declaración patrimonial ante el órgano del
 
 XXIV. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Contraloría, conforme a la competencia de ésta;
 
-> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-XXV. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y
+XXV. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, la presente ley y demás disposiciones legales y reglamentarias aplicables, quedando estrictamente prohibido percibir por sus servicios ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración, y
 
 > <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
@@ -2398,3 +2418,7 @@ P.O. 10 DE FEBRERO DE 2009.
 P.O. 12 DE MAYO DE 2009.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
