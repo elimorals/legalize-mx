@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2008-12-26"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO FISCAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -361,9 +361,11 @@ ARTÍCULO 24 BIS.- La Administración Pública Estatal, Centralizada y Paraestat
 
 El pago de los créditos fiscales deberá hacerse en efectivo, salvo que las disposiciones aplicables establezcan que se haga en especie.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo. También se admitirán como medio de pago los cheques de cuentas personales de los contribuyentes, los cuales se presumirán recibidos bajo la condición "salvo buen cobro" para los efectos de acreditar que se ha efectuado el pago.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Los giros postales, telegráficos o bancarios, los cheques certificados y los pagos en tarjeta de crédito o débito realizados en los lugares autorizados por la Secretaría de Hacienda, se admitirán como efectivo. También se admitirán como medio de pago los cheques de cuentas personales de los contribuyentes, los cuales se presumirán recibidos bajo la condición "salvo buen cobro" para los efectos de acreditar que se ha efectuado el pago.
 
 ###### ARTÍCULO 26.
 
@@ -2395,9 +2397,15 @@ Los acreedores que aparezcan en el certificado de gravámenes correspondientes a
 
 Los acreedores mencionados en el párrafo anterior, tendrán derecho a concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la respectiva autoridad ejecutora en el acto de la diligencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 178.
 
-Mientras no se finque el remate, el deudor puede hacer el pago de las cantidades reclamadas, de los vencimientos ocurridos y de los gastos de ejecución, así mismo puede proponer comprador que ofrezca de contado la cantidad suficiente para cubrir el crédito fiscal, en cuyos casos se levantará el embargo administrativo.
+En tanto no se hubieran rematado, enajenado o adjudicado los bienes, el embargado podrá pagar el crédito total, o parcialmente y recuperarlos inmediatamente en la proporción del pago, tomándose en cuenta el precio del avalúo.
+
+Una vez realizado el pago por el embargado o cuando obtenga resolución o sentencia favorable derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado, o adjudicado los bienes que obliguen a la (sic) autoridades a entregar los mismos, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición.
 
 ###### ARTÍCULO 179.
 
@@ -2461,21 +2469,13 @@ Posteriormente, la autoridad deberá entregar al adquirente, conjuntamente con e
 
 Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 186.
 
-Si los bienes rematados fueran inmuebles o muebles cuyo valor exceda de $ 5,000.00, la autoridad ejecutora dentro de un plazo de cinco días, enviará el expediente al Subsecretario de Ingresos, para que previa revisión y de considerarlo procedente, apruebe el remate si el procedimiento se apega a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la autoridad ejecutora quedará sin efecto y el postor solo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
-
-Aprobado el remate de bienes inmuebles se le comunicará al postor para que, dentro del plazo de diez días, entere en la caja de la oficina ejecutora la cantidad de contado ofrecida en su postura aceptada.
-
-Hecho el pago a que se refiere el párrafo anterior, y cuando proceda, designado el notario por el postor, se citará al deudor para que, dentro del plazo de tres días, otorgue y firme la escritura de venta correspondiente, apercibido de que si no lo hace, el jefe de la oficina ejecutora la otorgará y firmará en su rebeldía.
-
-En la misma escritura se otorgara por la adquirente garantía hipotecaria respecto a la parte del precio que quedare adeudado.
-
-El ejecutado, aún en el caso de rebeldía, responde por la evicción y los vicios ocultos.
+Si los bienes rematados fueran inmuebles o muebles cuyo valor exceda de $ 50,000.00, la autoridad ejecutora dentro de un plazo de cinco días, enviará el expediente al Subsecretario de Ingresos, para que previa revisión y de considerarlo procedente, apruebe el remate si el procedimiento se apega a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la autoridad ejecutora quedará sin efecto y el postor solo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
 
 ###### ARTÍCULO 187.
 
@@ -2503,27 +2503,13 @@ En el caso en que la autoridad fiscal entregue las cantidades pagadas por la adq
 
 Queda estrictamente prohibido adquirir los bienes objeto de un remate, por si o por medio de interpósita persona, a los jefes de las oficinas ejecutoras y personal de las mismas y a las personas que hubieren intervenido por parte del fisco local, en los procedimientos de ejecución. El remate efectuado con infracción a este precepto, será nulo y los infractores serán castigados de acuerdo con lo que establece este Código.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 190.
 
-Con el producto del remate se pagara el interés fiscal consistente en:
-
-I.- Los gastos de ejecución, a saber:
-
-a).- Los honorarios de los ejecutores, depositarios y peritos, de conformidad con lo dispuesto por el artículo 149 de este Código;
-
-b).- Los de impresión y publicación de convocatorias;
-
-c).- Los de transporte del personal ejecutor y de los bienes muebles embargados; y,
-
-d).- Los demás que, con el carácter de extraordinarios, eroguen las oficinas ejecutoras con motivo del procedimiento de ejecución.
-
-II.- Los recargos y multas;
-
-III.- Los impuestos, contribuciones especiales, derechos y aprovechamientos que motivaron el embargo; y,
-
-IV.- Los vencimientos ocurridos durante el procedimiento administrativo.
-
-Cuando hubiere varios créditos, la aplicación se hará por orden de antigüedad de los mismos.
+El producto obtenido del remate, enajenación o adjudicación de los bienes al fisco, se aplicará a cubrir el crédito fiscal en el orden que establece el artículo 19 de este Código.
 
 ###### ARTÍCULO 191.
 
@@ -3312,3 +3298,9 @@ B.O. 26 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del 1° de enero de 2009, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del 1° de enero de 2010, previa su publicación en el Boletín Oficial del Gobierno del Estado.
