@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-auditoria-publica-del-62116"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-05"
-last_updated: "2008-07-05"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FISCALIZACION SUPERIOR Y AUDITORIA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 5 de julio de 2008.
 
@@ -581,7 +581,9 @@ El Auditor Superior tendrá las siguientes atribuciones:
 
 I. Representar a la Auditoría Superior legalmente y con poderes de administración y de pleitos y cobranzas; de suscripción de instrumentos de pago y títulos de crédito, siempre y cuando el vencimiento de éstos no trascienda a su nombramiento, y en caso de que trascienda con la aprobación del Congreso; apoderado especial en materia laboral; todo lo anterior, con las limitaciones que establece esta ley, pudiendo otorgar poderes sin perder sus facultades;
 
-II. Remitir al Congreso del Estado, por conducto de la Comisión de Administración, su proyecto de presupuesto anual en los términos que establezca la ley en la materia, para su inclusión en el Presupuesto de Egresos del Poder Legislativo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. Remitir al Congreso del Estado, por conducto de la Comisión de Administración, su proyecto de presupuesto anual en los términos que establezca la ley en la materia, para su inclusión en el Presupuesto de Egresos del Poder Legislativo. El proyecto de presupuesto debe cumplir con los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación, y contener la plantilla de personal en la que se especifiquen todos los empleos públicos, con inclusión del Presidente, así como las remuneraciones que les sean asignadas a los mismos, las cuales deben ser acordes a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables, sin que bajo ninguna circunstancia, puedan incorporarse ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración;
 
 III. Administrar los bienes y recursos, así como resolver sobre la adquisición y enajenación de bienes muebles e inmuebles y la prestación de servicios de la Auditoría Superior, sujetándose a su presupuesto aprobado, el cual ejercerá con autonomía y conforme a la normatividad aplicable en la materia. Tratándose de enajenación de inmuebles, además se requerirá autorización del Congreso del Estado;
 
@@ -757,7 +759,7 @@ VI. Tener, al momento de su designación, conocimiento acreditado en materia de 
 
 VII. No haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro considerado como grave por la legislación penal, lo inhabilitará para el cargo cualquiera que haya sido la pena;
 
-VIII. No ser ministro de alguna asociación religiosa, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley de Asociaciones Religiosas y Culto Pública (sic) , reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
+VIII. No ser ministro de alguna asociación religiosa, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley de Asociaciones Religiosas y Culto Pública (sic), reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
 IX. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Procurador General de Justicia, Magistrado del Poder Judicial, integrante del Consejo General del Poder Judicial, Magistrado del Tribunal de Arbitraje y Escalafón, Encargado de Hacienda Municipal o titular de algún ente auditable durante los dos años previos al de su designación, y tener sus cuentas públicas aprobadas;
 
@@ -1473,7 +1475,7 @@ Las sanciones y demás resoluciones que sean emitidas con motivo de la revisión
 
 ## TRANSITORIOS
 
-PRIMERO. El presente decreto entrará en vigor al día 1°. de enero de 2009 en lo conducente, salvo lo establecido en el artículo tercero transitorio, mismo que entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+PRIMERO. El presente decreto entrará en vigor al día 1.° de enero de 2009 en lo conducente, salvo lo establecido en el artículo tercero transitorio, mismo que entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 Envíese la minuta correspondiente al Poder Ejecutivo del Estado, para los efectos del artículo 31 de la Constitución Política del estado de Jalisco, una vez que haya entrado en vigor la reforma constitucional contenida en la minuta de decreto 22222.
 
@@ -1534,3 +1536,9 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
