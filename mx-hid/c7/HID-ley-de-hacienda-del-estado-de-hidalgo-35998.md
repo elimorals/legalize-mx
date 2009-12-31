@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2008-12-31"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -89,9 +89,9 @@ DEL SUJETO:
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-### CAPITULO PRIMERO. IMPUESTO SOBRE HONORARIOS Y OTRAS ACTIVIDADES LUCRATIVAS
+### CAPITULO PRIMERO. DEL IMPUESTO SOBRE HONORARIOS Y OTRAS ACTIVIDADES LUCRATIVAS
 
 DEL OBJETO:
 
@@ -151,9 +151,11 @@ La presentación de declaraciones de este impuesto deberá realizarse, vía inte
 
 El pago de este impuesto podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas aperturadas en las Instituciones Bancarias autorizadas.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar ante el Centro Regional de Atención al Contribuyente de su jurisdicción, la declaración en ceros que corresponda.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar ante el Centro Regional de Atención al Contribuyente de su jurisdicción o vía internet, la declaración en ceros que corresponda.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -363,15 +365,21 @@ DEL PAGO:
 
 El impuesto, se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado; dicho impuesto se enterará a la Autoridad en la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Los contribuyentes que se encuentran en el supuesto establecido en la fracción I del Artículo 22 de ésta Ley, podrán presentar la declaración correspondiente de este impuesto vía Internet, o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de forma cuatrimestral dentro del término que no rebase el día 20 de los meses de Mayo y Septiembre del ejercicio fiscal en que se haya causado el impuesto y en el mes de Enero del ejercicio fiscal subsecuente; y (sic)
+I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-II.- Los contribuyentes que se encuentren en el supuesto establecido en las fracciones II y III del Artículo referido en la fracción anterior, deberán realizar la declaración vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de manera mensual, dentro del término que no rebase el día 20 del mes calendario siguiente al período de su causación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-III.- Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar ante el Centro Regional de Atención al Contribuyente de su jurisdicción, la declaración en ceros que corresponda.
+II.- Los contribuyentes que se encuentren en los supuestos establecidos en el Artículo anterior, deberán realizar la declaración vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas, de manera mensual, dentro del término que no rebase el día 20 del mes calendario siguiente al período de su causación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+III.- Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar ante el Centro Regional de Atención al Contribuyente de su jurisdicción o vía internet, la declaración en ceros que corresponda.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -535,9 +543,11 @@ V.- Llevar un registro contable de los servicios que presten, de las contraprest
 
 VI.- Presentar declaraciones mensuales con carácter de definitivas, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas, y efectuar los pagos que correspondan conforme a la dispuesto por el Artículo 30 de este capítulo; y
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII.- En los casos en que las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar una sola declaración en la que se acumulará la base gravamen e impuestos a pagar por cada una de ellas en el Centro Regional de Atención al Contribuyente que corresponda al domicilio de la Matriz.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+VII.- En los casos en que las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar una sola declaración en la que se acumulará la base gravable e impuestos a pagar por cada una de ellas en el Centro Regional de Atención al Contribuyente que corresponda al domicilio de la matriz.
 
 DE LAS EXCEPCIONES:
 
@@ -569,7 +579,7 @@ DE LA APLICACION:
 
 El ingreso que perciba el Estado proveniente del impuesto a que se refiere este capítulo, se destinará al fomento, promoción y difusión del sector turismo de la Entidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 34.
 
@@ -585,7 +595,7 @@ DEL SUJETO:
 
 Son sujetos del pago de este impuesto, las personas físicas o morales, usuarias o tenedoras de los vehículos de servicio público o privado a que se refiere este capítulo, con domicilio fiscal dentro de la circunscripción territorial del Estado de Hidalgo.
 
-### CAPITULO QUINTO. DEL IMPUESTO ESTATAL SOBRE TENENCIA DE VEHICULOS
+### CAPITULO QUINTO. IMPUESTO ESTATAL SOBRE TENENCIA DE VEHICULOS
 
 DEL OBJETO:
 
@@ -625,6 +635,12 @@ Automóviles 6 cilindros 4 3 2
 
 Automóviles 4 cilindros 3 2 1
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Automóviles 3 cilindros 2.5 1.5 0.5
+
 Pick-up de 500-1000 kg. 3 2 1
 
 Transporte de carga (más 4 3 2
@@ -661,9 +677,15 @@ Los contribuyentes de este impuesto, tendrán las siguientes obligaciones:
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-I.- Registrarse en el Centro Regional de Atención al Contribuyente correspondiente a su domicilio, dentro de los quince días siguientes a aquél en que se ubicó en el supuesto de causación de este impuesto, a través de las formas autorizadas por la Secretaría de Finanzas; y
+I.- Registrarse en el Centro Regional de Atención al Contribuyente correspondiente a su domicilio, dentro de los quince días siguientes a aquél en que se ubicó en el supuesto de causación de este impuesto, a través de las formas autorizadas por la Secretaría de Finanzas; y (sic)
 
-II.- Presentar las declaraciones y efectuar el pago del impuesto en la forma establecida en el Artículo 39 y conforme a la tarifa establecida en el Artículo 38 del presente capítulo.
+II.- Presentar las declaraciones y efectuar el pago del impuesto en la forma establecida en el Artículo 39 y conforme a la tarifa establecida en el Artículo 38 del presente capítulo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+III.- En caso de alta, baja y/o canje de placas, las mismas serán entregadas a la Autoridad Fiscal.
 
 DE LAS EXCEPCIONES:
 
@@ -677,7 +699,7 @@ II.- Los vehículos propiedad de los Gobiernos Federal, Estatal y Municipal que 
 
 III.- La maquinaria y equipos destinados a actividades agrícolas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 42.
 
@@ -731,9 +753,9 @@ IV.- Conservar la documentación relacionada con las constancias y retenciones d
 
 V.- Señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en los actos o actividades, el valor de los premios aun cuando éstos sean en especie.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-VIII (SIC).- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal, cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre, fusión o escisión, aumento o disminución de obligaciones, dentro del término de treinta días en que ocurra el hecho.
+VI.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal, cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre, fusión o escisión, aumento o disminución de obligaciones, dentro del término de treinta días en que ocurra el hecho.
 
 ###### ARTICULO 48.
 
@@ -955,7 +977,7 @@ XI.- Por constitución del patrimonio familiar. 3 salarios mínimos
 
 XII.- Otros actos inscribibles no previstos 3 salarios mínimos.
 
-### CAPITULO SEXTO. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS
+### CAPITULO SEXTO. IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS
 
 DEL OBJETO:
 
@@ -1991,7 +2013,9 @@ Los Organismos Descentralizados como personas jurídicas, cuyo objetivo es la re
 
 Los recursos que recauden deberán ser reportados a la Secretaría de Finanzas.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACION], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 87.
 
@@ -2131,13 +2155,13 @@ Los contratistas y destajistas que realicen obras para el Gobierno del Estado, a
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO SEPTIMO. REPRODUCCION DE INFORMACION
+### CAPITULO SEPTIMO. DE LA UNIDAD DE INFORMACION PUBLICA GUBERNAMENTAL DEL PODER EJECUTIVO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-ARTICULO 86 BIS.- La consulta de datos que realicen los particulares en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Hidalgo será gratuita, salvo que para su entrega se requiera su impresión o almacenamiento, en cuyo caso se pagarán las siguientes cuotas:
+ARTICULO 86 BIS.- Por la expedición en copia simple o certificada, o reproducción de la información en dispositivos de almacenamiento, derivado del ejercicio del derecho de acceso a la información, de conformidad con la Ley de Transparencia y Accesos a la Información Pública del Estado de Hidalgo, se causarán y pagarán los derechos de la siguiente forma:
 
 Expedición de hojas simples, por cada hoja 0.01 s.m
 
@@ -2151,7 +2175,11 @@ Copia de planos 0.50 s.m
 
 Copia certificada de planos 1.50 s.m
 
-En caso de que se requiera la contratación de alguna empresa de mensajería, los gastos de envío correrán a cargo del solicitante.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+En el supuesto de que los solicitantes requieran el envío de la información por correo certificado, mensajería local o foránea, la contratación de dichos servicios y el costo de los mismos deberán ser contratados por el solicitante con el prestador del servicio, que más convenga a sus intereses, debiendo informar a la Unidad de Información Pública Gubernamental del Poder Ejecutivo, los datos suficientes para poder realizar el envío.
 
 ### CAPITULO UNICO
 
@@ -2234,5 +2262,11 @@ TERCERO.- Lo dispuesto por el Artículo 86BIS de la Ley de Hacienda del Estado, 
 P.O. 31 DE DICIEMBRE DE 2008.
 
 PRIMERO.- El presente Decreto entrará en vigor el día 1° de enero de 2009, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de enero de 2010, previa su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
