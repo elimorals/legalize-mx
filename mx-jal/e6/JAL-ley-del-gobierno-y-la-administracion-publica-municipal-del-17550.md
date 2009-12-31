@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2009-12-29"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -45,7 +45,7 @@ Las disposiciones de la presente ley son de orden e interés público y regulan 
 
 ###### Artículo 2.
 
-El Municipio libre es un nivel de gobierno, así como la base de la organización política y administrativa y de la división territorial del Estado de Jalisco; tiene personalidad jurídica y patrimonio propios; y las facultades y limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, en la particular del Estado, y en la presente ley.
+El Municipio libre es un nivel de gobierno, así como la base de la organización política y administrativa y de la división territorial del Estado de Jalisco; tiene personalidad jurídica y patrimonio propios (sic); y las facultades y limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, en la particular del Estado, y en la presente ley.
 
 ###### Artículo 3.
 
@@ -397,9 +397,13 @@ En caso de falta absoluta por defunción del presidente entrante, se procederá 
 
 El Ayuntamiento debe iniciar sus funciones al día siguiente de que les fue tomada la protesta a sus integrantes.
 
-Los integrantes electos del Ayuntamiento que no se presenten en la fecha indicada, deben rendir la protesta de ley en la próxima sesión del Ayuntamiento.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Cuando exista causa justificada pueden rendir la protesta de ley dentro de los 90 días siguientes.
+Los integrantes electos del Ayuntamiento que no se presenten en la fecha indicada, deben rendir la protesta de ley en la próxima sesión del ayuntamiento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Cuando se esté en el desempeño de comisión de representación del Estado, de cargo de elección popular o exista otra causa justificada, los ediles electos pueden rendir la protesta de ley dentro de los 90 días siguientes.
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -519,11 +523,17 @@ EN CASO DE SUSPENSIÓN DEL MANDATO, LOS INTEGRANTES DEL AYUNTAMIENTO SUSPENDIDOS
 
 Se puede revocar el mandato de los miembros del Ayuntamiento por alguna de las siguientes causas:
 
-I. Por reincidir en las causales de suspensión establecidas en el artículo 23, con excepción de la fracción VIII.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-II. Por incapacidad permanente física o mental;
+I. Por reincidir en las causales de suspensión establecidas en el artículo 23, con excepción de la fracción VI.
 
-III. Porque exista sentencia judicial por delito doloso que haya causado estado, en la que se imponga como sanción la inhabilitación o cuando la pena impuesta exceda del término de su ejercicio; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. Por incapacidad permanente física o mental; o
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+III. Porque exista sentencia judicial por delito doloso que haya causado estado, en la que se imponga como sanción la inhabilitación o cuando la pena impuesta exceda del término de su ejercicio.
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEROGADA DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -611,7 +621,7 @@ Las sesiones del Ayuntamiento son públicas, salvo aquellas que por causas justi
 
 > <small>(REFORMADO [N. DE. E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2008)</small>
 
-Son sesiones con carácter de reservadas, las que versen sobre asuntos de seguridad publica, cuando exista algún riesgo inminente que ponga en peligro la gobernabilidad o la tranquilidad de la población o cuando por la naturaleza del asunto tenga que ver con cuestiones internas del Ayuntamiento.
+Son sesiones con carácter de reservadas, las que versen sobre asuntos de seguridad pública, cuando exista algún riesgo inminente que ponga en peligro la gobernabilidad o la tranquilidad de la población o cuando por la naturaleza del asunto tenga que ver con cuestiones internas del Ayuntamiento.
 
 Cuando el público asistente a las sesiones no guarde el orden debido, el Presidente Municipal puede auxiliarse de la fuerza pública para desalojar el recinto en donde sesione el Ayuntamiento.
 
@@ -887,7 +897,9 @@ IV. Aprobado por el Ayuntamiento un proyecto de norma, pasa al Presidente Munici
 
 V. La publicación debe hacerse en la Gaceta Oficial del Municipio o en el medio oficial de divulgación previsto por el reglamento aplicable y en caso de no existir éstos, en el Periódico Oficial "El Estado de Jalisco" y en los lugares visibles de la cabecera municipal, lo cuál debe certificar el servidor público encargado de la Secretaría del Ayuntamiento, así como los delegados y agentes municipales en su caso;
 
-VI. Los ordenamientos municipales pueden reformarse, modificarse o adicionarse siempre que se cumpla con los requisitos de discusión, aprobación, promulgación y publicación por parte del Ayuntamiento; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+VI. Los ordenamientos municipales pueden reformarse, modificarse, adicionarse, derogarse o abrogarse, siempre que se cumpla con los requisitos de discusión, aprobación, promulgación y publicación por parte del Ayuntamiento; y
 
 VII. Los Ayuntamientos deben mandar una copia de los ordenamientos municipales y sus reformas al Congreso del Estado, para su compendio en la biblioteca del Poder Legislativo.
 
@@ -1001,9 +1013,9 @@ X. Pasar diariamente al funcionario encargado de la Hacienda Municipal, en forma
 
 XI. Vigilar que el destino y monto de los caudales municipales se ajusten a los presupuestos de egresos y de la correcta recaudación, custodia y administración de los impuestos, derechos, productos, aprovechamientos, participaciones y demás ingresos propios del Municipio, así como ejercer la facultad económico coactiva para hacer efectivos los créditos fiscales, por conducto de las dependencias municipales correspondientes;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-XII. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación;
+XII. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales y reglamentarias aplicables, quedando estrictamente prohibido percibir por sus ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración;
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1063,11 +1075,13 @@ V. Acordar con el Presidente Municipal los asuntos especiales que se le encomien
 
 VI. No invocar o hacer uso de su condición de regidor, en el ejercicio de la actividad mercantil, industrial o profesional;
 
-VIl. No desempeñar otro empleo, cargo o comisión de la Federación, del Estado, de los municipios o sus entidades paraestatales, cuando se perciba sueldo, excepción hecha de las labores de docencia, investigación científica y beneficencia;
+VII. No desempeñar otro empleo, cargo o comisión de la Federación, del Estado, de los municipios o sus entidades paraestatales, cuando se perciba sueldo, excepción hecha de las labores de docencia, investigación científica y beneficencia;
 
 VIII. No intervenir en los asuntos municipales, en los que tengan un interés personal, o que interesen a su cónyuge, concubina o concubinario, o a sus parientes consanguíneos en línea recta sin limitación de grados, a los colaterales dentro del cuarto grado y a los afines dentro del segundo, siempre que no se trate de disposiciones de carácter general;
 
-IX. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+IX. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales y reglamentarias aplicables, quedando estrictamente prohibido percibir por sus ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración, y
 
 X. Las demás que establezcan las constituciones federal, estatal y demás leyes y reglamentos.
 
@@ -1157,9 +1171,9 @@ III. Representar al Municipio en todas las controversias o litigios en que éste
 
 IV. Abstenerse de ejercer o ejecutar actos propios de la Administración Pública Municipal o contratar servicios o personal a nombre del Ayuntamiento salvo en aquéllos casos en que, de manera expresa cumpla una orden del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-V. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y
+V. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales y reglamentarias aplicables, quedando estrictamente prohibido percibir por sus ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración, y
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -1371,9 +1385,9 @@ LAS FALTAS TEMPORALES DEL PRESIDENTE MUNICIPAL, HASTA POR DOS MESES, DEBEN SER S
 
 El Ayuntamiento debe reglamentar quién suplirá las ausencias menores a setenta y dos horas del Presidente Municipal, para efectos de la toma de decisiones administrativas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-De igual forma, el órgano de gobierno municipal debe designar por mayoría absoluta de votos, al munícipe de debe conducir las sesiones del Ayuntamiento en las que el Presidente Municipal no pueda asistir por motivo de compromisos oficiales o urgentes que requieran de su presencia por causas de fuerza mayor. En estos casos, el edil designado por el Ayuntamiento tiene facultades únicamente para conducir la sesión pero no suple al Presidente Municipal para la toma de decisiones ejecutivas, ni para el ejercicio del voto de calidad.
+De igual forma, el órgano de gobierno municipal debe designar por mayoría absoluta de votos, al munícipe que deba continuar en la conducción de las sesiones del Ayuntamiento en las que el Presidente Municipal deba retirarse por motivo de compromisos oficiales, urgentes que requieran de su presencia o por causas de fuerza mayor. En estos casos, el edil designado por el Ayuntamiento tiene facultades únicamente para presidir la sesión pero no suple al Presidente Municipal para la toma de decisiones ejecutivas, ni para el ejercicio del voto de calidad.
 
 > <small>(REFORMADO, P.O. 3 DE ABRIL DE 2008)</small>
 
@@ -1529,9 +1543,9 @@ b) La estimación de los ingresos que se estimen recaudar, para el próximo ejer
 
 c) Previsiones de egresos en relación a cada capítulo, concepto y partida para el sostenimiento de las actividades oficiales, obras o servicios públicos, en el siguiente ejercicio fiscal;
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-d) Las plantillas de personal en las que se especifiquen los empleos públicos del municipio y se señale el total de las percepciones económicas a que tenga derecho cada uno de los servidores públicos municipales, sin que se realice la incorporación, bajo ninguna circunstancia, de bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración que deben recibir legalmente los servidores públicos, cualquiera que sea su denominación, para efectos de la fiscalización de la cuenta pública; y
+d) Las plantillas de personal en las que se especifiquen los empleos públicos del municipio y se señale el total de las retribuciones a que tengan derecho cada uno de los servidores públicos municipales, las cuales deben ser acordes a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables, sin que bajo ninguna circunstancia, puedan incorporarse ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración, y
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II, INCISO E), DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -1576,6 +1590,10 @@ Si alguna de las asignaciones vigentes en el presupuesto de egresos resulta insu
 > <small>(DEROGADO, P.O. 25 DE ENERO DE 2007)</small>
 
 > <small>(DEROGADO, P.O. 25 DE ENERO DE 2007)</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Los ayuntamientos podrán prever para su último año de gestión administrativa, en sus respectivos presupuestos de egresos un capítulo específico para el proceso de entrega-recepción del órgano de gobierno municipal y de la administración pública que le deriva con el objeto de eficientar, agilizar y transparentar este proceso.
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2101,7 +2119,11 @@ II. Si ya han venido operando bajo precio o tarifa, éstos se prorrogarán por e
 
 Es de orden e interés público, el funcionamiento de personas jurídicas que organicen y representen a los vecinos de las colonias, barrios, zonas, centros de población y comunidades indígenas mediante los reglamentos que aprueben los Ayuntamientos con el fin de asegurar la participación ciudadana y vecinal en la vida y actividades del Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 121.
+
+Las asociaciones de vecinos cualesquiera que sea su denominación, deben adoptar la figura de asociación civil prevista en la legislación civil sustantiva estatal.
 
 Los reglamentos municipales deben regular el funcionamiento y las prevenciones mínimas que contendrán los estatutos de las asociaciones de vecinos y otras formas de organización ciudadana y vecinal a que se refiere el presente título, en lo que respecta a su papel como personas jurídicas auxiliares de la participación social, conforme a las siguientes bases:
 
@@ -2129,9 +2151,11 @@ V. LAS PERSONAS JURÍDICAS QUE TENGAN FUNCIONES DE REPRESENTACIÓN CIUDADANA Y V
 
 VI. LOS CONFLICTOS QUE SE PRESENTEN ENTRE LOS VECINOS Y LAS PERSONAS JURÍDICAS QUE LOS REPRESENTEN, ENTRE LOS INTEGRANTES DE ÉSTAS Y LAS DIRECTIVAS, ASÍ COMO ENTRE LAS DIVERSAS PERSONAS JURÍDICAS CON FUNCIONES DE REPRESENTACIÓN CIUDADANA Y VECINAL, SERÁN RESUELTOS MEDIANTE ARBITRAJE DE LA DEPENDENCIA MUNICIPAL DESIGNADA PARA COORDINAR LAS RELACIONES DEL MUNICIPIO CON LAS PERSONAS JURÍDICAS QUE SEÑALA ESTE TÍTULO. EN CASO DE PERSISTIR EL CONFLICTO, DEBE RESOLVER EL AYUNTAMIENTO CONFORME A LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 122.
 
-Las personas jurídicas con funciones de representación ciudadana y vecinal, pueden a su vez integrarse en una unión o federación de organismos de la misma naturaleza.
+Las personas jurídicas con funciones de representación ciudadana y vecinal, pueden a su vez integrarse en una unión o federación de organismos de la misma naturaleza, siempre que así lo prevean sus estatutos y sea aceptado por la mayoría de sus integrantes, atendiendo a lo dispuesto por la presente ley y demás disposiciones reglamentarias aplicables.
 
 ###### Artículo 123.
 
@@ -2153,7 +2177,7 @@ V. Las demás que les confiere esta ley, los reglamentos municipales respectivos
 
 ### CAPITULO I. De los Servidores Públicos Municipales
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
@@ -2187,9 +2211,13 @@ La forma de integración, organización y funcionamiento de los comités de plan
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
 
-###### Artículo 127.
+###### ARTÍCULO 127.
 
-Los servidores públicos del Municipio se dividen de conformidad con la naturaleza de su encargo y a las funciones que desempeñen, atendiendo a lo dispuesto por la ley estatal que regula a los servidores públicos.
+LOS SERVIDORES PÚBLICOS DEL MUNICIPIO SE DIVIDEN DE CONFORMIDAD CON LA NATURALEZA DE SU ENCARGO Y A LAS FUNCIONES QUE DESEMPEÑEN, ATENDIENDO A LO DISPUESTO POR LA LEY ESTATAL QUE REGULA A LOS SERVIDORES PÚBLICOS.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Los servidores públicos de base serán inamovibles, una vez transcurridos seis meses sin nota desfavorable en su expediente, en los términos de lo dispuesto por la presente ley, la ley estatal en materia de servidores públicos y demás disposiciones legales y reglamentarias aplicables.
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2595,7 +2623,7 @@ Artículo Sexto. En su primera sesión ordinaria el Concejo Municipal de San Ign
 
 Artículo Séptimo. El Ayuntamiento de Arandas seguirá ejerciendo sus funciones en la demarcación correspondiente al nuevo municipio, hasta la entrada en funciones del Concejo Municipal de San Ignacio Cerro Gordo.
 
-Artículo Octavo. Efectuada la designación por parte del Congreso del Estado, los integrantes del Concejo Municipal recibirán del Ayuntamiento de Arandas toda la información y documentación necesarias para el buen desempeño de la nueva administración municipal, incluyendo copias de los reglamentos municipales, padrones de contribuyentes, cuentas catastrales.
+Artículo Octavo. Efectuada la designación por parte del Congreso del Estado, los integrantes del Concejo Municipal recibirán del Ayuntamiento de Arandas toda la información y documentación necesarias (sic) para el buen desempeño de la nueva administración municipal, incluyendo copias de los reglamentos municipales, padrones de contribuyentes, cuentas catastrales.
 
 Artículo Noveno. Una vez que entre en funciones el Concejo Municipal de San Ignacio Cerro Gordo, el Ayuntamiento de Arandas procederá a darle posesión y a transferirle los bienes muebles e inmuebles que estén destinados al servicio público del nuevo municipio.
 
@@ -2621,7 +2649,7 @@ Segundo. El Presente decreto entrará en vigor el día 1º de septiembre del añ
 
 Tercero. El primer Ayuntamiento del Municipio de Capilla de Guadalupe será electo en las elecciones ordinarias a celebrarse el primer domingo del mes de julio del año 2006 y entrará en funciones el 1º de enero del año 2007.
 
-Cuarto. Mientras entra en funciones el primer Ayuntamiento, el gobierno y administración del Municipio de Capilla de Guadalupe se depositará en un Concejo Municipal designado por el Congreso del Estado e integrado por diez concejales y un síndico propietarios y sus respectivos suplentes que deberán reunir los mismos requisitos constitucionales y legales que se exigen para el cargo.
+Cuarto. Mientras entra en funciones el primer Ayuntamiento, el gobierno y administración del Municipio de Capilla de Guadalupe se depositará en un Concejo Municipal designado por el Congreso del Estado e integrado por diez concejales y un síndico propietarios (sic) y sus respectivos suplentes que deberán reunir los mismos requisitos constitucionales y legales que se exigen para el cargo.
 
 La designación del Consejo Municipal deberá hacerse en Sesión Ordinaria del Congreso del Estado que se celebre previa convocatoria para que presenten propuestas a consejeros a los habitantes del nuevo municipio, a más tardar el 30 de noviembre del año 2005. El Congreso del Estado por dos terceras partes de los diputados que concurran a la Sesión nombrará a los concejales y a quien habrá de fungir como Presidente del Concejo Municipal.
 
@@ -2709,11 +2737,11 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres víctimas de violencia que lo requieran.
 
-SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
+SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
 
 P.O. 5 DE JULIO DE 2008.
 
-Primero. El presente decreto entrará en vigor al día 1.° de enero de 2009 en lo conducente, salvo lo establecido en el artículo tercero transitorio, mismo que entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+Primero. El presente decreto entrará en vigor al día 1° de enero de 2009 en lo conducente, salvo lo establecido en el artículo tercero transitorio, mismo que entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 Envíese la minuta correspondiente al Poder Ejecutivo del Estado, para los efectos del artículo 31 de la Constitución Política del estado de Jalisco, una vez que haya entrado en vigor la reforma constitucional contenida en la minuta de decreto 22222.
 
@@ -2764,3 +2792,15 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 > <small>(F. DE E., P.O. 12 DE JUNIO DE 2010)</small>
 
 SEGUNDO. El artículo Segundo del presente decreto entrará en vigor al día siguiente de la entrada en vigor del Artículo Primero referido en la disposición transitoria anterior, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+DECRETO No. 23079/LVII/09 POR EL QUE SE REFORMAN LOS ARTICULOS 14, 24, 42 FRACCION VI, 47 FRACCION XII, 49 FRACCION IX, 52 FRACCION V, 68, 79 FRACCION II, INCISO D), 121, 122 Y 127 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+DECRETO No. 23084/LVIII/09 POR EL QUE SE REFORMA EL ARTICULO 79 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
