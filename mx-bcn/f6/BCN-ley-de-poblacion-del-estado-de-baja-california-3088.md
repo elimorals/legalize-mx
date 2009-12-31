@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-poblacion-del-estado-de-baja-california-3088"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-17"
-last_updated: "2006-08-18"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE POBLACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 17 de febrero de 1995.
 
@@ -53,17 +53,23 @@ Por lo mismo, establece las atribuciones que en la materia corresponden a cada d
 
 Corresponde al Ejecutivo del Estado establecer, promover, coordinar, ejecutar, supervisar y evaluar la política poblacional, dentro de un proceso de desarrollo integral del individuo y la sociedad.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 3º.
 
-Se crea el Consejo Estatal de Población de Baja California como un organismo público descentralizado del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propio, con domicilio legal en la ciudad de Mexicali, Baja California, pudiendo establecer oficinas representativas en otras localidades del Estado cuando la necesidad del servicio lo justifique y la disponibilidad presupuestal lo permita.
+Para establecer, promover, coordinar, ejecutar, supervisar y evaluar la política poblacional, así como para desarrollar las diversas acciones a que se refiere esta Ley, el Ejecutivo del Estado lo hará mediante el Comité de Planeación para el Desarrollo del Estado de Baja California, quien contará dentro de su estructura administrativa con una unidad para tal efecto.
 
 ###### ARTICULO 4°.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I.- CONSEJO: Consejo Estatal De Población De Baja California;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+I.- COPLADE: Comité de Planeación para el Desarrollo del Estado de Baja California;
 
 II.- PROGRAMA: Programa Estatal De Población;
 
@@ -79,9 +85,13 @@ III.- PROGRAMA MUNICIPAL: Programa Municipal De Población.
 
 La Política Estatal de Población consistirá en una serie de medidas tendientes a mejorar la calidad de vida de los habitantes, buscando el equilibrio en cuanto a su volumen, estructura, dinámica y distribución geográfica, en relación con el desarrollo, en plena concordancia con lo dispuesto en el Artículo 7º de esta Ley.
 
-###### ARTICULO 6°.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-La Política Estatal de Población será Responsabilidad del Ejecutivo del Estado. Su instrumentación estará a cargo del Consejo, y su implementación a cargo de las dependencias y entidades que correspondan.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 6º.
+
+La Política Estatal de Población será responsabilidad del Ejecutivo del Estado. Su instrumentación estará a cargo del COPLADE, y su implementación a cargo de las dependencias y entidades que correspondan.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -125,9 +135,13 @@ IV.- La descentralización en Materia Poblacional hacia los municipios tomando e
 
 Para los fines de la Política Estatal de Población, el Ejecutivo del Estado y los Ayuntamientos, según el caso, dictarán, ejecutarán o promoverán ante otras dependencias o entidades gubernamentales, de conformidad con las atribuciones y competencias de éstas, las medidas que se requieran para cumplir con las políticas, programas y acciones en materia de población.
 
-###### ARTICULO 10°.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El Ejecutivo del Estado y los Municipios, por conducto del Consejo, formularán el Programa Corres-Pondiente (sic).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 10º.
+
+El Ejecutivo del Estado y los Municipios, por conducto del COPLADE, formularán el Programa Correspondiente.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -231,215 +245,169 @@ El Presidente de la Junta Directiva informará anualmente, de manera personal o 
 
 El programa será obligatorio para las dependencias y entidades de la Administración Pública Estatal y Municipal cuyas acciones tengan que ver con políticas de población a efecto de que incida en los habitantes.
 
-## TITULO QUINTO. DEL CONSEJO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-### CAPITULO PRIMERO. OBJETO, ATRIBUCIONES Y PATRIMONIO DEL CONSEJO
+## TITULO QUINTO. DEL COPLADE
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO PRIMERO. OBJETIVO Y ATRIBUCIONES DEL COPLADE
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 20º.
 
-El Consejo tendrá por objeto promover entre la población, la formación de una cultura demográfica, acorde a las necesidades de los tiempos actuales, considerando su importancia y trascendencia, a través de acciones informativas y educativas que coadyuven al fortalecimiento del núcleo familiar, así como de los valores fundamentales del ser humano.
+El COPLADE tendrá por objeto, además de lo previsto en la ley de Planeación para el Estado de Baja California, promover entre la población, la formación de una cultura demográfica, acorde a las necesidades de los tiempos actuales, considerando su importancia y trascendencia, a través de acciones informativas y educativas que coadyuven al fortalecimiento del núcleo familiar, así como de los valores fundamentales del ser humano.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### ARTICULO 21°.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-El Consejo tendrá las siguientes atribuciones:
+###### ARTICULO 21º.
+
+El COPLADE tendrá las siguientes atribuciones en materia poblacional:
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
 
 I.- Normar la planeación demográfica, vigilando que el interés de la población prevalezca en los programas de desarrollo formulados por dependencias y entidades, procurando que los objetivos de dichos programas respondan a las necesidades que los fenómenos demográficos provoquen en la localidad;
 
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
 II.- Mantener la coordinación permanente con el Consejo Nacional de Población, en términos de los acuerdos de coordinación celebrados al efecto por el Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
 
 III.- Vincular las acciones de población con los planes de desarrollo nacional estatal y municipal;
 
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
 IV.- Regular y promover la ejecución de las acciones en materia de población;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
 
 V.- Establecer con las instancias nacionales en materia de población, las acciones necesarias para coordinar y evaluar la aplicación de las políticas en materia de población en torno al desarrollo;
 
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
 VI.- Promover la participación de las distintas instancias de la Administración Pública estatal, municipal y de los sectores privado y social;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
 
 VII.- Apoyar en materia de población a las dependencias y entidades públicas, privadas y sociales y celebrar con ellas los acuerdos o convenios pertinentes para concertar acciones conjuntas;
 
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
 VIII.- Apoyar acciones con el objeto de lograr fomentar la paternidad responsable, la creación de una cultura demográfica, la participación de la mujer en igualdad con el varón, el impulso de un proyecto de vida para los jóvenes basado en la responsabilidad y la integración y fortalecimiento del núcleo familiar para propiciar una mejor calidad de vida; así como de aquellos grupos prioritarios que por su importancia demográfica requieran una atención específica;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
 
 IX.- Realizar estudios que se requieran con el objeto de mejorar permanentemente la información estatal sobre población, como elemento básico de las acciones del Programa y como insumo para la planeación del desarrollo estatal;
 
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+
 X.- Evaluar los programas que lleven a cabo las diferentes dependencias y entidades del sector público de acuerdo al programa que se apruebe, y promover las medidas pertinentes para su cumplimiento;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
 
 XI.- Emitir opinión acerca de acciones o proyectos de población que operen o pretendan operar en el Estado, a efecto de que se ajusten a los lineamientos de esta Ley;
 
-XII.- Coordinar sus acciones con el Comité de Planeación para el Desarrollo del Estado, a través de los Subcomités de Población y el Técnico Regional de Estadística e Información Geográfica, así como los Comités Municipales de Población; y,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XII.- Coordinar sus acciones, con los Subcomités de Población y el Técnico Regional de Estadística e Información Geográfica, así como los Comités Municipales de Población; y,
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
 
 XIII.- Las demás relacionadas con su objeto y las que le encomiende el Ejecutivo del Estado.
 
-###### ARTICULO 22°.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El Consejo, en base a sus evaluaciones, propondrá las prioridades y objetivos de los programas sociales que inciden en la población, y de estudios demográficos que sirvan de insumo para la planeación, jerarquizando los recursos e inversiones que para ellos se requieran.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-###### ARTICULO 23°.
+###### ARTICULO 22º.
 
-El Consejo mantendrá un proceso permanente y constante de evaluación interna a sus prioridades y estrategias y a los resultados de sus programas, para adecuarlos a los cambios y situaciones específicas en materia de programación presupuestal.
+El COPLADE, en base a sus evaluaciones, propondrá las prioridades y objetivos de los programas sociales que inciden en la población, y de estudios demográficos que sirvan de insumo para la planeación, jerarquizando los recursos e inversiones que para ellos se requieran.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 23º.
+
+El COPLADE mantendrá un proceso permanente y constante de evaluación interna a sus prioridades y estrategias y a los resultados de sus programas, para adecuarlos a los cambios y situaciones especificas en materia de programación presupuestal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 24º.
 
-El patrimonio del Consejo se conformará de la siguiente manera:
+El COPLADE presupuestará y destinará los recursos necesarios para que su unidad administrativa correspondiente pueda desarrollar sus funciones.
 
-I.- Los recursos económicos, bienes muebles e inmuebles que le asigne el Poder Ejecutivo del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Las aportaciones, donaciones, bienes, legados y demás activos que reciba de las dependencias y entidades de los tres niveles de gobierno o de organismos públicos o privados;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-III.- Los ingresos obtenidos en la prestación de servicios por concepto de investigaciones y estudios sociodemográficos, cursos, talleres, así como por la venta de documentos ofrecidos a los sectores público y privado; y,
+###### ARTICULO 25º.
 
-IV.- En general, por todos los derechos y obligaciones del Consejo que entrañen utilidad económica.
+Las dependencias y entidades del Poder Ejecutivo, deberán coordinarse con el COPLADE en lo concerniente a acciones programáticas de población, colaborando con el mismo, para el cumplimiento de sus objetivos.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### ARTICULO 25°.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Las dependencias y entidades del Poder Ejecutivo, deberán coordinarse con el Consejo en lo concerniente a acciones programáticas de población, colaborando con el mismo, para el cumplimiento de sus objetivos.
+###### ARTICULO 26º.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001)</small>
+El COPLADE contará con el personal que se autorice en el presupuesto correspondiente y en la reglamentación interna respectiva para la atención de las funciones en materia de población.
 
-###### ARTICULO 26°.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los Órganos integrantes del Consejo son:
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+### CAPITULO SEGUNDO. DE LA PARTICIPACION DE LAS DEPENDENCIAS
 
-I.- La Junta Directiva; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
-
-II.- El Director General.
-
-III.- (DEROGADA, P.O. 11 DE MAYO DE 2001)
-
-### CAPITULO SEGUNDO. DE LA JUNTA DIRECTIVA
-
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 27º.
 
-La Junta Directiva será la máxima autoridad del Consejo y se integrará por:
+Las dependencias y entidades de la Administración Pública Estatal, deberán dar el apoyo que se (sic) requerido por el COPLADE en materia de población.
 
-I.- Un Presidente, que será el Titular de la Secretaría General de Gobierno; y,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Los siguientes Vocales:
-
-a) El Secretario de Educación y Bienestar Social;
-
-b) El Secretario de Infraestructura y Desarrollo Urbano;
-
-c) El Secretario de Planeación y Finanzas;
-
-d) El Secretario de Desarrollo Económico;
-
-e) El Secretario de Desarrollo Social;
-
-f) El Secretario de Salud;
-
-g) El Secretario del Trabajo y Previsión Social; y,
-
-h) Los Presidentes de los Comités Municipales de Población.
-
-Cada integrante de la Junta Directiva, nombrará por escrito un suplente con funciones de propietario para que cubra sus ausencias temporales, procurando que dicho nombramiento recaiga siempre en la misma persona.
-
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 28º.
 
-Los integrantes de la Junta Directiva ejercerán sus funciones en forma honorífica, por lo que no percibirán retribución, emolumento o compensación alguna por las actividades que desarrollen con tal carácter.
+Cuando alguna dependencia o entidad de la Administración Pública Estatal realice alguna acción en materia de población, deberá contar con la validación del COPLADE.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 29º.
 
-La Junta Directiva sesionará de manera ordinaria por lo menos cada tres meses, y en forma extraordinaria cuando así se requiera a juicio de su Presidente, o lo solicite la mayoría de sus integrantes.
+El COPLADE, a través de la unidad administrativa correspondiente, deberá proveer de información puntual, completa y oportuna en materia de población a la Secretaría General de Gobierno, para efecto de definir y coordinar la política poblacional en los términos de lo previsto en los Artículos 32 de la presente Ley, y 19 fracción XVI, de la Ley Orgánica de la Administración Pública del Estado de Baja California.
 
-El quórum para sesionar válidamente será con la asistencia de la mayoría de sus integrantes. Las resoluciones se tomarán por votación mayoritaria de los integrantes presentes, teniendo el Presidente voto de calidad, en caso de empate.
-
-Los integrantes de la Junta Directiva tendrán derecho a voz y voto y en sus ausencias este derecho corresponderá a sus suplentes.
-
-Para el mejor desempeño de sus funciones la Junta Directiva contará con un Secretario Técnico, él cual podrá participar en las sesiones con voz, pero sin voto, mismo que no se considerará para efectos del quórum requerido para sesionar. Dicho cargo tendrá el carácter de honorífico, por lo que no se percibirá retribución, emolumento o compensación alguna por su desempeño.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 30º.
 
-Corresponde a la Junta Directiva:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- Analizar, discutir y en su caso, aprobar el Programa, el Programa Institucional y el Programa Operativo Anual, así como las modificaciones que procedan a los mismos, a fin de promover la incorporación de la población en los planes de desarrollo socioeconómico del Estado a través de sus áreas específicas;
+###### ARTICULO 31º.
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
-
-II.- Aprobar el Presupuesto del Consejo y vigilar su ejercicio;
-
-III.- Vigilar la Ejecución y cumplimiento de las acciones previstas en el programa y cuidar su congruencia y complementariedad con el Programa Nacional de Población;
-
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
-
-IV.- Aprobar la celebración de convenios de coordinación con la Federación, Estados, Municipios y de concertación con el sector social y privado a efecto de realizar el cumplimento de las políticas de población;
-
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
-
-V.- Conocer los informes de avances del Programa; así como promover que la información sociodemográfica de estudios y análisis generada por el Consejo, sirva de base para la planeación y programación de las acciones de gobierno dentro de las dependencias y entidades;
-
-VI.- Promover y apoyar las investigaciones sobre la dinámica poblacional y sus componentes, que realice el Consejo por sí o en colaboración con Instituciones de Educación Superior así como con las de carácter científico y de investigación;
-
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
-
-VII.- Aprobar' acciones específicas para la integración de las políticas de población en la planeación del desarrollo socioeconómico y cultural de la Entidad;
-
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
-
-VIII.- Analizar, y en su caso, aprobar los informes trimestrales que rinda el Director General;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
-
-IX.- Aprobar y presentar ante el Titular del Poder Ejecutivo del Estado, para su expedición, el Proyecto de Reglamento Interno del Consejo y sus reformas, así como autorizar, los manuales administrativos necesarios para su operación, y las modificaciones que procedan;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
-
-X.- Aprobar la estructura orgánica del Consejo, así como las modificaciones que procedan;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
-
-XI.- Aprobar anualmente, previo informe del Comisario, los estados financieros del organismo y el cierre del ejercicio presupuestal, autorizando en su caso la publicación de los mismos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
-
-XII.- Analizar, y en su caso, aprobar la creación y supresión de plazas; y,
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE AGOSTO DE 2006)</small>
-
-XIII.- Las demás que resulten necesarias para el adecuado cumplimiento de su objeto y las que le señalen otras disposiciones legales aplicables.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
-
-###### ARTICULO 31°.
-
-El Presidente de la Junta Directiva tendrá las siguientes facultades y obligaciones:
-
-I.- Presidir las sesiones ordinarias o extraordinarias de la Junta Directiva y asumir la representación de la misma;
-
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
-
-II.- Promover la participación de las dependencias y entidades públicas del Estado que correspondan dentro del Programa;
-
-III.- Constatar los avances y resultados del programa;
-
-IV.- (DEROGADA, P.O. 18 DE AGOSTO DE 2006)
-
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
-
-V.- Las demás que le encomiende la Junta Directiva.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 (REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2001) (F. DE E., P.O. 20 DE JULIO DE 2001)
 
@@ -459,13 +427,19 @@ IV.- (DEROGADA P.O. 11 DE MAYO DE 2001)
 
 V.- Proponer y turnar al Gobernador los anteproyectos de Leyes, Reglamentos, Decretos, Convenios y Acuerdos sobre los asuntos de población;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Instruir al Titular del Registro Civil del Estado para que proporcione periódicamente al Consejo, información sobre los Registros de Actas del Estado Civil de las personas y demás información que se requiera;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+VI.- Instruir al Titular del Registro Civil del Estado para que proporcione periódicamente al COPLADE, información sobre los Registros de Actas del Estado Civil de las personas y demás información que se requiera;
 
 VII.- (DEROGADA, P.O. 18 DE AGOSTO DE 2006)
 
-VIII.- Participar y apoyar las Campañas de Difusión del Consejo, utilizando oportunamente sus canales de comunicación y distribución de que dispone.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Participar y apoyar las campañas de difusión del COPLADE, utilizando oportunamente sus canales de comunicación y distribución de que dispone.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
@@ -487,7 +461,11 @@ III.- Elaborar material de apoyo educativo que propicie y fortalezca la convicci
 
 IV.- Actualizar y capacitar al personal a su cargo, así como orientar a los padres de familia en materia de educación en población cuyos esfuerzos concurran a lograr una verdadera comunidad que ordenadamente busque su superación;
 
-V.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+V.- Participar y apoyar las campañas de difusión del COPLADE, utilizando oportunamente los canales de comunicación y distribución de que dispone.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
@@ -497,11 +475,17 @@ Son atribuciones de la Secretaría de Infraestructura y Desarrollo Urbano en mat
 
 I.- Apoyar los programas sobre distribución de la población que concuerden con un mejor aprovechamiento de la territorialidad disponible;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Solicitar la orientación del Consejo en la realización de las investigaciones o estudios sociodemográficos que requiera la dependencia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-III.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone;
+II.- Solicitar la orientación del COPLADE en la realización de las investigaciones o estudios sociodemográficos que requiera la dependencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+III.- Participar y apoyar las campañas de difusión del COPLADE, utilizando oportunamente los canales de comunicación y distribución de que dispone;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -515,7 +499,11 @@ Son atribuciones de la Secretaría de Planeación y Finanzas en materia de pobla
 
 I.- (DEROGADA P.O. 11 DE MAYO DE 2001)
 
-II.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II.- Participar y apoyar las campañas de difusión del COPLADE, utilizando oportunamente los canales de comunicación y distribución de que dispone;
 
 III.- Apoyar y fomentar las acciones de población a través de los Subcomités a que se refiere la fracción II del Artículo 47 de esta Ley.
 
@@ -525,9 +513,17 @@ Son atribuciones de la Secretaría de Desarrollo Económico en Materia de Poblac
 
 I.- Motivar a las organizaciones empresariales de la entidad sobre el conocimiento de la problemática demográfica estatal y nacional, con el objeto de que faciliten en sus empresas la realización de acciones de información y educación, promoviendo entre los empresarios conjuntamente con el Sector Salud, información de los programas en acciones de planificación familiar y mejoramiento de la salud en general, entre sus trabajadores;
 
-II.- Apoyar y fomentar el intercambio de información entre el Consejo y la Secretaría;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II.- Apoyar y fomentar el intercambio de información entre el COPLADE y la Secretaría;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+III.- Participar y apoyar las campañas de difusión del COPLADE, utilizando oportunamente los canales de comunicación y distribución de que dispone.
 
 ###### ARTICULO 37°.
 
@@ -541,7 +537,11 @@ Son atribuciones de la Secretaría del Trabajo y Previsión Social en materia de
 
 I.- Concientizar al Sector Laboral del Estado, sobre la problemática demográfica Estatal y Nacional;
 
-II.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II.- Participar y apoyar las campañas de difusión del COPLADE, utilizando oportunamente los canales de comunicación y distribución de que dispone.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
 
@@ -555,7 +555,11 @@ II.- Realizar cursos de capacitación al personal a su cargo para el cumplimient
 
 III.- Elaborar mensajes dirigidos a la población para contribuir al fortalecimiento de los valores socioculturales y sus conductas;
 
-IV.- Participar y apoyar las campañas de Difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+IV.- Participar y apoyar las campañas de Difusión deI COPLADE, utilizando oportunamente los canales de Comunicación y distribución de que dispone;
 
 (ADICIONADA, P.O. 11 DE MAYO DE 2001) (F. DE E., P.O. 20 DE JULIO DE 2001)
 
@@ -575,17 +579,23 @@ I.- Realizar acciones de salud con el propósito de impulsar y promover la mater
 
 II.- Realizar cursos de capacitación al personal a su cargo y elaborar material de apoyo, sobre temas de salud que impulsen la paternidad responsable;
 
-III.- Participar y apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+III.- Participar y apoyar las campañas de difusión del COPLADE, utilizando oportunamente los canales de comunicación y distribución de que dispone;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2001)</small>
 
 IV.- Fortalecer los objetivos institucionales del organismo en lo referente a los derechohabientes y población abierta para impulsar una auténtica cultura de salud que propicie el desarrollo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 41º.
 
-Con el propósito de que en la planeación demográfica estatal para el desarrollo participen los diferentes sectores e instituciones del Estado, el Presidente de la Junta Directiva podrá invitar a sus sesiones a representantes de los sectores social y privado, así como a las demás instituciones académicas y de investigación superior que tengan a su cargo programas en materia de población de cobertura nacional, regional, estatal o municipal, con el fin de:
+Con el propósito de que en la planeación demográfica estatal para el desarrollo participen los diferentes sectores e instituciones del Estado, el Presidente de la Junta Directiva del COPLADE podrá invitar a sus sesiones a representantes de los sectores social y privado, así como a las demás instituciones académicas y de investigación superior que tengan a su cargo programas en materia de población de cobertura nacional, regional, estatal o municipal, con el fin de:
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -593,7 +603,11 @@ I.- Concretar acuerdos para realizar proyectos de investigación en la materia;
 
 II.- Impulsar el incremento de especialistas en las disciplinas relacionadas con la demografía;
 
-III.- Apoyar las campañas de difusión del Consejo, utilizando oportunamente los canales de comunicación y distribución de que dispone;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+III.- Apoyar las campañas de difusión del COPLADE, utilizando oportunamente los canales de comunicación y distribución de que dispone;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2001)</small>
 
@@ -603,63 +617,45 @@ IV.- Integrar de acuerdo a la naturaleza de las acciones programáticas, grupos 
 
 ### CAPITULO TERCERO. DEL DIRECTOR GENERAL
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 42º.
 
-El Consejo para la adecuada operación y desarrollo de sus actividades contará con el Titular que se denominará Director General, mismo que será nombrado y removido libremente por el Gobernador del Estado, o a indicación de éste por el Secretario General de Gobierno, y tendrá las siguientes facultades y obligaciones:
+Para la adecuada operación y desarrollo de las actividades que le corresponde desarrollar al COPLADE en materia poblacional, su Director General tendrá las siguientes facultades y obligaciones:
 
-l.- Dirigir y administrar al Consejo, dando cumplimiento a su objeto, conforme a los acuerdos que emita la Junta Directiva;
+I.- Coadyuvar en la coordinación y administración de las sesiones en materia de población, dando cumplimiento a su objeto, conforme a los acuerdos que emita la Junta Directiva;
 
 II.- Ejecutar las disposiciones y acuerdos que la Junta Directiva le encomiende;
 
-III.- Elaborar y someter a consideración de la Junta Directiva, el programa, los proyectos de Programa Institucional y de Programa Operativo Anual, así como las modificaciones que estime necesarias;
+III.- Elaborar y someter a consideración de la Junta Directiva, el Programa, los proyectos de Programa Institucional y de Programa Operativo Anual, así como las modificaciones que estime necesarias;
 
-IV.- Presentar ante la Junta Directiva, un informe trimestral que refleje la situación programática, presupuestal y financiera del Consejo, rindiendo los informes que le sean requeridos por la misma;
+IV.- Presentar a la Junta Directiva un informe trimestral que refleje la situación programática, presupuestal y financiera del COPLADE en materia poblacional, rindiendo los informes que le sean requeridos por el mismo;
 
-V.- Formular el calendario oficial del Consejo y autorizar en casos extraordinarios, la suspensión de labores, previo acuerdo con el Secretario General de Gobierno;
+V.- Coordinar las acciones que en materia de población realicen las dependencias y entidades de la Administración Pública Estatal, así como los sectores social y privado;
 
-VI.- Conceder licencias y permisos al personal en los términos de las leyes correspondientes;
+VI.- Establecer mecanismos de coordinación con el Consejo Nacional de Población, a fin de coadyuvar en el cumplimiento de los objetivos del Programa Nacional de Población, así como para el establecimiento de canales de coordinación con los organismos e instancias nacionales en la materia;
 
-VII.- Vigilar las labores del personal del Consejo, exigiendo su debido cumplimiento e imponer las correcciones disciplinarias correspondientes;
+VII.- Convocar a los integrantes de la Junta Directiva a sesiones, así como a los representantes de los sectores social y privado cuando así se considere pertinente, previo acuerdo del Presidente;
 
-VIII.- Coordinar las acciones que en materia de población realicen las dependencias y entidades de la Administración Pública Estatal, así como los sectores social y privado;
+VIII.- Proponer a la Junta Directiva las medidas que considere más adecuadas para el logro de los objetos en materia poblacional;
 
-IX.- Establecer mecanismos de coordinación con el Consejo Nacional de Población, a fin de coadyuvar en el cumplimiento de los objetivos del Programa Nacional de Población, así como para el establecimiento de canales de coordinación con los organismos e instancias nacionales en la materia;
+IX.- Rendir anualmente el Informe General de las actividades, así como las cuentas de su administración en materia poblacional, en la fecha y con las formalidades que la Junta Directiva le señale;
 
-X.- Convocar a los integrantes de la Junta Directiva a sesiones, así como a los representantes de los sectores social y privado cuando así se considere pertinente, previo acuerdo del Presidente;
+X.- Rendir los informes que la Junta Directiva le solicite;
 
-XI.- Fungir como Secretario Técnico de las sesiones de la Junta Directiva;
+XI.- Suscribir los convenios de coordinación o de otra naturaleza para el cumplimiento de sus atribuciones en materia poblacional;
 
-XII.- Proponer a la Junta Directiva las medidas que considere más adecuadas para el logro de los objetos del Consejo;
+XII.- Proponer y promover la concertación de acciones conjuntas entre los sectores públicos, social y privado, a fin de coadyuvar al mejoramiento de las condiciones de bienestar de los habitantes del Estado y en especial de aquellos grupos, que en el campo o la ciudad, se encuentren marginados de los beneficios del desarrollo;
 
-XIII.- Elaborar y someter a consideración de la Junta Directiva, el anteproyecto de presupuesto anual de ingresos y egresos del Consejo, así como las modificaciones que estime necesarias;
+XIII.- Promover la coordinación y la participación activa de la sociedad en la identificación y la solución de los problemas demográficos;
 
-XIV.- Formular, ejecutar y controlar el presupuesto del Consejo, en los términos de esta Ley y demás disposiciones legales aplicables;
+XIV.- Impulsar y llevar a cabo las actividades relacionadas con la política de población para estimular la participación de los agentes activos de población, en la planeación, ejecución y evaluación de las acciones de gobierno en la materia, como condición indispensable para garantizar su acción rectora en el área;
 
-XV.- Rendir anualmente, en la fecha y con las formalidades que la Junta Directiva le señale, el Informe General de las actividades, así como las cuentas de su administración;
+XV.- Proponer a la Junta Directiva el proyecto de estructura orgánica para el desarrollo de sus funciones, y en su caso, las modificaciones que sean procedentes, incluyendo la creación y supresión de plazas; y,
 
-XVI.- Rendir los informes y cuentas parciales que el Presidente de la Junta Directiva le solicite;
-
-XVII.- Suscribir los convenios de coordinación o de otra naturaleza para el cumplimiento del objeto del Consejo;
-
-XVIII. - Proponer y promover la concertación de acciones conjuntas entre los sectores públicos (sic), social y privado, a fin de coadyuvar al mejoramiento de las condiciones de bienestar de los habitantes del Estado y en especial de aquellos grupos, que en el campo o la ciudad, se encuentren marginados de los beneficios del desarrollo,
-
-XIX.- Promover la coordinación y la participación activa de la sociedad en la identificación y la solución de los problemas demográficos;
-
-XX.- Impulsar y llevar a cabo las actividades relacionadas con la política de población para estimular la participación de los agentes activos de población, en la planeación, ejecución y evaluación de las acciones de gobierno en la materia, como condición indispensable para garantizar su acción rectora en el área;
-
-XXI.- Elaborar y someter a consideración de la Junta Directiva, para su análisis y aprobación, el Proyecto de Reglamento Interno del Consejo y sus reformas, así como los manuales administrativos necesarios para la operación del mismo y las modificaciones que se requieran.
-
-XXII.- Otorgar poderes generales o especiales con las facultades que le competan, inclusive los que requieran autorización o cláusula especial, en los términos de las disposiciones aplicables;
-
-XXIII.- Sustituir y revocar los poderes generales o especiales que haya otorgado;
-
-XXIV.- Proponer a la Junta Directiva la estructura orgánica del Consejo, y en su caso, las modificaciones que sean procedentes, incluyendo la creación y supresión de plazas;
-
-XXV.- Presentar ante a (sic) Junta Directiva, los estados financieros y el cierre del ejercicio presupuestal del Consejo; y,
-
-XXVI.- las demás que le otorguen la Junta Directiva, y otras disposiciones aplicables.
+XVI.- Las demás que le otorguen la Junta Directiva y otras disposiciones aplicables.
 
 ### CAPITULO CUARTO. DE LOS COMITES MUNICIPALES DE POBLACION
 
@@ -673,11 +669,13 @@ Con el fin de coadyuvar al bienestar de la población, las líneas generales de 
 
 Los Comités Municipales de Población serán presididos por los Presidentes Municipales, y su integración y funcionamiento serán determinados por el Reglamento Municipal correspondiente.
 
-(REFORMADO, P.O. 11 DE MAYO DE 2001) (F. DE E., P.O. 20 DE JULIO DE 2001)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### ARTICULO 45°.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Los presidentes de los Comités Municipales de Población deberán suscribir acuerdos de coordinación y apoyo con el Consejo, a fin de que las tareas, programas y acciones que sobre la política de población se lleven a cabo en el ámbito municipal, sean atendidas con mayor eficacia a través de los citados Comités Municipales.
+###### ARTICULO 45º.
+
+Los presidentes de los Comités Municipales de Población deberán suscribir acuerdos de coordinación y apoyo con el COPLADE, a fin de que las tareas, programas y acciones que sobre la política de población se lleven a cabo en el ámbito municipal, sean atendidas con mayor eficacia a través de los citados Comités Municipales.
 
 ###### ARTICULO 46°.
 
@@ -697,7 +695,11 @@ III.- Elaborar el Programa Municipal De Población enmarcado dentro de los progr
 
 IV.- Buscar los mecanismos para lograr de los organismos oficiales o privados los apoyos necesarios para fortalecer sus acciones;
 
-V.- Proponer al consejo acciones, lineamientos y políticas de población que respondan a las características, tradiciones culturales y valores propios de los habitantes Del Municipio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+V.- Proponer al COPLADE acciones, lineamientos y políticas de población que respondan a las características, tradiciones culturales y valores propios de los habitantes del Municipio.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
 
@@ -705,21 +707,23 @@ V.- Proponer al consejo acciones, lineamientos y políticas de población que re
 
 los presidentes municipales en su carácter .de presidente de los Comités de Población informarán anualmente por escrito, a los habitantes de sus municipios y a la Junta Directiva sobre el avance y los resultados de la ejecución del Programa Municipal de Población.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO SEXTO. DEL ORGANO DE VIGILANCIA
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 49º.
 
-El Consejo, contará con un órgano de vigilancia que se denominará Comisaría, el cual estará integrado por un Comisario Propietario y un Comisario Suplente, que serán designados y removidos libremente por el Contralor General del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 50º.
 
-La Comisaría del Consejo, ejercerá las funciones que expresamente le confieran la Ley de la (sic) Entidades Paraestatales del Estado de Baja California y el propio Reglamento Interno de la Contraloría General del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
 
@@ -727,15 +731,17 @@ La Comisaría del Consejo, ejercerá las funciones que expresamente le confieran
 
 Los Servidores de la Administración Pública Estatal, Paraestatal, Municipal y Paramunicipal, que en ejercicio de las funciones inherentes a su empleo, cargo a comisión, contravengan las disposiciones de ésta Ley y de la que de ella se deriven, serán sancionados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO OCTAVO. DE LA EXTINCION O FUSION
 
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 52º.
 
-Cuando el Consejo deje de cumplir con el objeto para lo que fue creado o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Planeación y Finanzas, atendiendo a la opinión de la Secretaría general (sic) de Gobierno, propondrá al Ejecutivo del Estado, la disolución, liquidación o extinción de este organismo. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ## TRANSITORIOS
 
@@ -782,3 +788,21 @@ P.O. 18 DE AGOSTO DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Las disposiciones contenidas en el Artículo Quinto del presente Decreto entrarán en vigor a los veinte días hábiles siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite y pendiente de resolución en el Consejo Estatal de Población de Baja California al momento de entrar en vigor las presentes disposiciones, serán resueltos por la unidad administrativa del Comité de Planeación para el Desarrollo del Estado que se adecue para tal efecto.
+
+TERCERO.- Continuarán en vigor los actos, resoluciones, acuerdos y las disposiciones de carácter general emitidas con fundamento en la Ley de Población del Estado de Baja California que se reforma mediante el Artículo Quinto del presente Decreto, en lo que no se opongan al citado Artículo Quinto; así como los poderes, mandatos y, en lo general, las representaciones otorgadas y las facultades concedidas, hasta en tanto no sean modificadas o revocadas expresamente.
+
+CUARTO.- Dentro del plazo de veinte días hábiles a que se refiere el Artículo Primero Transitorio del Artículo Quinto del presente Decreto, el Ejecutivo Estatal podrá adoptar las medidas normativas, presupuestales, patrimoniales, laborales y demás que resulten necesarias para dar cumplimiento a los efectos del Artículo Quinto del presente Decreto, en términos de la normatividad que resulte aplicable.
+
+Asimismo, dentro del plazo señalado en el párrafo anterior, el Consejo Estatal de Población de Baja California, deberá enviar la Cuenta Pública del Ejercicio Fiscal de 2009 en los términos de la Ley de Fiscalización Superior para el Estado de Baja California.
+
+Consecuentemente, el Comité de Planeación para el Desarrollo del Estado de Baja California, en coordinación con la Secretaria de Planeación y Finanzas del Estado de Baja California solventará las observaciones efectuadas por el Órgano de Fiscalización Superior sobre la Cuenta Pública del Ejercicio Fiscal de 2009.
+
+QUINTO.- Los nombramientos de Director General, del Consejo Estatal de Población de Baja California que se extingue mediante el Artículo Quinto del presente Decreto, y del personal que así corresponda conforme a su naturaleza, otorgados con fundamento en la ley que se reforma, quedarán sin efectos, por lo que deberán ser liquidados conforme a la normatividad aplicable.
+
+SEXTO.- Se derogan las disposiciones que se opongan al Artículo Quinto del presente Decreto.
