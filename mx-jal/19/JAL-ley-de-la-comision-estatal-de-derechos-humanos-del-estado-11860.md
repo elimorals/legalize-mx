@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2006-11-25"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -565,11 +565,9 @@ X. Enviar a cualquier poder del Estado, dependencia u organismo descentralizado 
 
 XI. Celebrar convenios de colaboración con autoridades y organismos públicos y privados interesados en la defensa de los derechos humanos, así como con las instituciones académicas, asociaciones culturales y medios de comunicación masivos para el mejor cumplimiento de sus fines;
 
-XII. Elaborar con la aprobación del Consejo Ciudadano, el proyecto del Presupuesto de Egresos de la Comisión y el informe respectivo sobre su ejercicio, para que sean presentados al Ejecutivo del Estado, a más tardar el primer día hábil del mes de noviembre;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
-
-El proyecto de presupuesto a que se refiere la fracción anterior debe cumplir con los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación, y contener la plantilla de personal en la que se especifiquen todos los empleos públicos, con inclusión del Presidente, así como las remuneraciones que, por conceptos de salarios y prestaciones de ley, les sean asignadas a los mismos, sin que bajo ninguna circunstancia, puedan recibir bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación, de conformidad a la normatividad aplicable.
+XII. Elaborar con la aprobación del Consejo Ciudadano, el proyecto del Presupuesto de Egresos de la Comisión y el informe respectivo sobre su ejercicio, para que sean presentados al Ejecutivo del Estado, a más tardar el primer día hábil del mes de noviembre. El proyecto de presupuesto debe cumplir con los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación, y contener la plantilla de personal en la que se especifiquen todos los empleos públicos, con inclusión del Presidente, así como las remuneraciones que les sean asignadas a los mismos, las cuales deben ser acordes a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables, sin que bajo ninguna circunstancia, puedan incorporarse ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración;
 
 XIII. Dictar las disposiciones que estime convenientes y establecer la creación de las áreas que le auxilien en su trabajo y hagan eficiente la función de la Comisión;
 
@@ -1410,3 +1408,7 @@ SEGUNDO. Las autoridades del Ministerio Público, Reclusorios y Sedes Judiciales
 P.O. 25 DE NOVIEMBRE DE 2006.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
