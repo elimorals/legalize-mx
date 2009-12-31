@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2009-10-24"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -1927,753 +1927,317 @@ En los casos a que se refieren las fracciones I y II del artículo anterior, la 
 
 El aviso deberá notificarse al interesado con el término suficiente para que se haga asistir de abogado particular y, la Procuraduría Social, deberá cuidar que con ello no se ponga en riesgo el éxito del negocio judicial que hubiere patrocinado.
 
-> <small>(REFORMADO CON LOS TITULOS, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON SUS TITULOS, CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 # LIBRO QUINTO. DE LAS PERSONAS CON DISCAPACIDAD
 
+> <small>(DEROGADO CON SUS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO I. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
 
 ###### Artículo 141.
 
-Este libro tiene por objeto:
-
-I. Regular las medidas y acciones tendientes a procurar el desarrollo integral de las personas con discapacidad, su bienestar físico y mental, así como la igualdad de oportunidades y equidad, a fin de facilitar su integración plena a la sociedad;
-
-II. Establecer los derechos de las personas con discapacidad;
-
-III. Regular la actuación de las distintas instancias de gobierno, instituciones privadas y de las organizaciones de la sociedad civil en la protección de los derechos de las personas con discapacidad;
-
-IV. Establecer las bases y lineamientos para la implementación de las políticas públicas tendientes a garantizar los derechos de la persona con discapacidad; y
-
-V. Establecer las bases para la creación y operación de la Comisión y el Consejo Estatal de Atención para las personas con discapacidad.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 142.
 
-Para efectos de este Código se entiende por:
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
-
-I. Persona con discapacidad: Todo ser humano que presenta una deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad para ejercer normalmente una o más actividades de la vida diaria;
-
-II. Habilitación: Aplicación coordinada de un conjunto de acciones médicas, psicológicas, educativas y ocupacionales, por tiempo determinado, que permitan a las personas con discapacidad congénita desarrollar su máximo grado de funcionalidad, a fin de ser aptos para realizar, en la medida de sus posibilidades, actividades que los integren familiar y socialmente;
-
-III. Rehabilitación: Aplicación coordinada de un conjunto de medidas y acciones médicas, psicológicas, educativas, ocupacionales y de capacitación social, por tiempo determinado, que tengan como finalidad readaptar y reeducar a la persona con discapacidad adquirida, para que alcance la mayor proporción posible de recuperación funcional, a fin de ser independiente y útil a sí misma, a su familia y a la sociedad;
-
-IV. Barreras Arquitectónicas: Aquellos elementos de construcción que entorpezcan o impidan el libre desplazamiento o el uso de servicios e instalaciones a personas con discapacidad;
-
-V. La Comisión: La Comisión Estatal Coordinadora del Programa de Atención de las personas con discapacidad; y
-
-VI. El Consejo Estatal: El Consejo de Valoración de las Personas con Discapacidad.
-
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO II. De los Derechos de las Personas con Discapacidad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2007)</small>
-
 ###### Artículo 143.
 
-Sin perjuicio de lo que señalen otras disposiciones legales aplicables, las personas con discapacidad tendrán derecho a:
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2003)</small>
+Artículo 143 bis.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-I. La asistencia médica, elementos técnicos, habilitación, rehabilitación y programas que les permitan la superación de sus discapacidades;
+Artículo 143 ter.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2003)</small>
+Artículo 143 quáter.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-II. La educación en todas sus modalidades;
-
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2003)</small>
-
-III. Un empleo digno y remunerado y tener oportunidades de desarrollo laboral, así como capacitación adecuada, de conformidad con su perfil, capacidades y aptitudes;
-
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2003)</small>
-
-IV. Las consideraciones especiales y preferencias en la utilización de los servicios públicos de transporte; tener acceso y libre desplazamiento en los lugares públicos, así como facilidades al personal, equipo, animales y cualquier otro instrumento de auxilio; y
-
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2003)</small>
-
-V. La recreación, el deporte, la cultura y el turismo.
-
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
-
-Artículo 143 bis.- El Estado procurará las mejores condiciones de vida posible de salud, educación, nutrición, vivienda, desarrollo integral y seguridad social para las personas con discapacidad, así como proporcionarles información y asesoría tanto sobre las garantías consagradas en esta Ley como sobre los derechos establecidos en otras disposiciones a favor de las personas con discapacidad.
-
-A través de la Secretaría de Desarrollo Humano, la Secretaría de Educación, la Secretaría de Salud y la Secretaría del Trabajo, promoverá la difusión de esta Ley para que la sociedad y las familias respeten a las personas con discapacidad e invariablemente otorguen el reconocimiento a su dignidad.
-
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
-
-Artículo 143 ter.- La familia de la persona con discapacidad deberá ser el principal apoyo afectivo y formativo para ella, siendo responsable en primera instancia de proporcionar los satisfactores necesarios para su atención y desarrollo.
-
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
-
-Artículo 143 quáter.- Son principios rectores de la Política Pública Estatal para las personas con discapacidad los siguientes:
-
-I. Impulsar su realización plena en todas las áreas de su vida, propiciando las condiciones necesarias a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su autoestima y preservar su dignidad como ser humano;
-
-II. Garantizar el pleno ejercicio de sus derechos, la igualdad de oportunidades y una vida digna, promoviendo la defensa y representación de sus intereses;
-
-III. Establecer los mecanismos de acciones entre las instituciones públicas y privadas, así como elaborar los programas y servicios para la atención de sus necesidades;
-
-IV. Fomentar la solidaridad y la participación de toda la sociedad en la solución de toda la problemática de las personas con discapacidad;
-
-V. Propiciar su incorporación al trabajo remunerado y digno, tanto en el sector público como en el privado, de acuerdo a sus capacidades y aptitudes; y
-
-VI. Promover el acceso a los servicios de salud, habilitación y rehabilitación, así como su incorporación a la educación general o especial según se requiera.
-
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON SUS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO SEGUNDO. DE LOS ORGANOS DE ATENCION A PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO I. De la Comisión Estatal Coordinadora del Programa Estatal de Desarrollo Integral de las Personas con Discapacidad
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 144.
 
-La Comisión es un órgano de carácter técnico consultivo y de coordinación, que tiene por objeto establecer políticas para procurar el desarrollo integral de las personas con discapacidad y su incorporación plena a la sociedad.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 145.
 
-La Comisión estará integrada por los siguientes miembros permanentes:
-
-I. Un coordinador general que será la persona que la Secretaría designe;
-
-II. (DEROGADA, P.O. 4 DE ENERO DE 2007)
-
-III. Un representante de las siguientes dependencias y organismos estatales:
-
-a) Secretaría de Salud;
-
-b) Secretaría de Educación;
-
-c) Secretaría del Trabajo y Previsión Social;
-
-d) Secretaría de Vialidad y Transporte;
-
-e) Secretaría de Cultura;
-
-f) Organismo Estatal;
-
-g) Instituto;
-
-h) Comité de Planeación para el Desarrollo del Estado; y
-
-i) Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud.
-
-IV. Un representante por cada una de las cinco organizaciones de personas con discapacidad de mayor representación en el estado.
-
-La elección de las organizaciones de personas con discapacidad corresponde al Gobernador del Estado, en base al registro que posea el Instituto y procurando que estén representados los distintos grupos de personas con discapacidad.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
-
-Además de los miembros permanentes, la Comisión contará con un Secretario Técnico, el cual sólo participará con voz; y cuando la naturaleza de los asuntos a tratar se relacione con determinadas áreas, se podrá invitar a participar con voz a las demás dependencias, instituciones y organismos públicos, privados y sociales que se requieran, para efectos de que apoyen a los discapacitados.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2007)</small>
-
-Los cargos de los integrantes de la Comisión serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 146.
 
-La Comisión tendrá las siguientes atribuciones:
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-I. Establecer políticas, estrategias y lineamientos para promover, orientar, coordinar, supervisar y evaluar los procesos en materia de prevención, atención, habilitación y rehabilitación de las personas con discapacidad, a través del Programa Estatal de Desarrollo Integral de las Personas con Discapacidad;
+Artículo 146 bis.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-II. Recomendar a organismos públicos y privados las medidas tendientes al desarrollo social de las personas con discapacidad;
-
-III. Procurar el mejoramiento de los niveles de vida, participación y desarrollo de las personas con discapacidad;
-
-IV. Acrecentar la nueva cultura de corresponsabilidad social entre gobierno y sociedad en la atención a las personas con discapacidad;
-
-V. Promover la participación de la sociedad en la prevención y control de las causas de la discapacidad;
-
-VI. Establecer vínculos de participación con los diferentes medios masivos de comunicación, a fin de informar permanentemente a toda la sociedad sobre los trabajos y acciones a favor de las personas con discapacidad;
-
-VII. Crear las subcomisiones que estime pertinentes para su buen funcionamiento;
-
-VIII. Celebrar convenios de colaboración con las instituciones de educación media superior y superior para la atención de las personas con discapacidad;
-
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2006)</small>
-
-IX. Impulsar estudios e investigaciones científicas y tecnológicas en materia de prevención y rehabilitación de las diversas discapacidades físicas, sensoriales y mentales;
-
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
-
-X. Promover, gestionar y coordinar acciones ante las instituciones públicas o privadas, para la organización de cooperativas de producción, consumo, ahorro y préstamo, en beneficio de los discapacitados;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2007)</small>
-
-XI. Elaborar campañas de difusión y sensibilización de los derechos de las personas con discapacidad;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2007)</small>
-
-XII. Promover la obtención de recursos provenientes de fuentes alternas de financiamiento, para el cumplimiento de este Libro;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2007)</small>
-
-XIII. Impulsar acuerdos de colaboración con organismos públicos y privados, nacionales e internacionales, para el desarrollo de proyectos que beneficien a las personas con discapacidad;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2007)</small>
-
-XIV. Proponer al ejecutivo estatal la celebración de convenios de colaboración con el gobierno federal, los municipios de la entidad y con los sectores público, social y privado, en materia de beneficios fiscales para las personas con discapacidad en los términos de esta ley; y
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE ENERO DE 2007)</small>
-
-XV. Las demás que señalen este libro y otras disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
-
-Artículo 146 bis.- Las resoluciones o acuerdos de la Comisión se tomarán por mayoría de los miembros presentes, teniendo el Coordinador General voto de calidad en caso de empate.
-
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO II. Del Organismo Estatal
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 147.
 
-El Organismo Estatal sin perjuicio de las facultades de la Secretaría, tendrá las siguientes atribuciones:
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-I. Participar en la planeación y programación de las acciones para la investigación, control y prevención de las discapacidades, habilitación y rehabilitación de las personas con discapacidad;
-
-II. La integración, ejecución, seguimiento y evaluación de los programas de atención a las personas con discapacidad;
-
-III. Promover la comercialización de productos elaborados por personas con discapacidad y los servicios prestados por ellos, así como promover incentivos fiscales a empresas que los contraten;
-
-IV. Alentar a las personas con discapacidad a constituirse en los promotores de su propia revalorización, incorporación y participación en el desarrollo familiar y social;
-
-V. Impulsar el fortalecimiento de los valores y la unidad familiar como primera causa y mayor efecto de la integración de las personas con discapacidad;
-
-VI. Intensificar las medidas preventivas de la discapacidad;
-
-VII. Cooperar con el Sistema Estatal de Información en materia de asistencia social; y
-
-VIII. Las demás que señalen este libro y otras disposiciones legales y reglamentarias aplicables.
-
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO III. Del Consejo de Valoración de las Personas con Discapacidad
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 148.
 
-El Consejo es un órgano técnico del Organismo Estatal que tiene por objeto la valoración de las personas con discapacidad, a través de la evaluación y calificación de las limitaciones o restricciones físicas y psicológicas.
-
-El Consejo estará integrado por un equipo multiprofesional en las áreas de medicina de habilitación y rehabilitación, psicología, trabajo social y educación, encabezado por el médico de habilitación y rehabilitación.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 149.
 
-El Consejo tiene las siguientes atribuciones:
-
-I. Emitir los diagnósticos de enfermedad y de discapacidad, así como sus repercusiones sociales, familiares, laborales y psicológicas;
-
-II. Evaluar y calificar la discapacidad, así como determinar el tipo de atención que requiera;
-
-III. Integrar el expediente respectivo, orientar al solicitante sobre el tratamiento adecuado a su discapacidad y remitirlo a las instituciones especializadas que proporcionen dicho tratamiento;
-
-IV. Dar seguimiento y revisar que la atención proporcionada se realice de acuerdo a la recomendación emitida;
-
-V. Elaborar los criterios de evaluación de las personas con discapacidad; y
-
-VI. Las demás que señalen otras disposiciones legales aplicables.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 150.
 
-La evaluación de las personas con discapacidad se basará en criterios unificados y sus resultados tendrán validez ante cualquier organismo público o privado con excepción de los que se utilicen como dictámenes o peritajes médicos en controversias planteadas ante tribunales judiciales o laborales del Estado de Jalisco.
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON SUS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO TERCERO. DE LA PRESTACION DE SERVICIOS A PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 151.
 
-El Ejecutivo del Estado, a través de las Secretarías, sus dependencias y entidades, con la participación voluntaria de los ayuntamientos y de las organizaciones privadas de asistencia social, implementará un sistema de servicios que tendrán por objeto el desarrollo integral de las personas con discapacidad.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 152.
 
-Los servicios se otorgarán a las personas con discapacidad, atendiendo a la evaluación de su capacidad funcional, aptitudes e intereses, procurando la permanencia de las personas con discapacidad en su medio familiar y la participación de sus familiares.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 153.
 
-El sistema de servicios comprenderá:
-
-I. La promoción de la prevención de las discapacidades;
-
-II. La evaluación de las discapacidades;
-
-III. La asistencia médica, habilitación y rehabilitación;
-
-IV. La atención especial a los niños con discapacidad en los centros de Desarrollo Infantil;
-
-V. La orientación y capacitación ocupacional;
-
-VI. La promoción del empleo de las personas con discapacidad, previa evaluación de sus capacidades y aptitudes;
-
-VII. La orientación y capacitación a los familiares para coadyuvar con su tratamiento;
-
-VIII. La prescripción y adaptación de prótesis, órtesis y equipos indispensables en su rehabilitación e integración;
-
-IX. Los programas de financiamiento, subsidios o coinversiones que sean necesarias a fin de que se les facilite a las personas con discapacidad el acceso a prótesis, órtesis y equipos indispensables en su rehabilitación e integración, para las personas de escasos recursos y de acuerdo al presupuesto correspondiente;
-
-X. La educación general y especial;
-
-XI. El procurar el acceso libre y seguro a los espacios públicos;
-
-XII. El establecimiento de mecanismos de información sobre salud reproductiva y ejercicio de la sexualidad de las personas con discapacidad;
-
-XIII. La promoción del establecimiento de albergues y centros comunitarios especializados para personas con discapacidad carentes de hogar y familia o con problemas de desintegración familiar;
-
-XIV. El diseño y operación de estrategias para el fomento de los deportes entre personas con discapacidad; y
-
-XV. Los demás que sean necesarios para el cumplimiento de los fines del presente libro.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 154.
 
-La información sobre los servicios deberá difundirse entre las personas con discapacidad y las asociaciones que estos formen.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 155.
 
-Las instituciones de salud y aquellas personas que atiendan habitualmente nacimientos fuera del lugar hospitalario deberán de participar en los programas de detección temprana de las discapacidades, con énfasis en la detección de problemas congénitos.
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO II. Del Padrón Estatal de Personas con Discapacidad
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 156.
 
-Para una mejor planeación y ejecución de las políticas públicas dirigidas a personas con discapacidad la Secretaría de Desarrollo Humano, en coordinación con el Organismo Estatal y la Comisión, deberá contar con un padrón estatal de personas con discapacidad, mismo que contendrá:
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-I. Los datos generales;
-
-II. La experiencia laboral;
-
-III. Tipo de discapacidad;
-
-IV. Las necesidades más apremiantes;
-
-V. Los medios de subsistencia;
-
-VI. La situación familiar; y
-
-VII. Los demás que se consideren necesarios.
-
-El padrón estatal de personas con discapacidad se actualizará permanentemente y deberá ser tomado en cuenta en la estructuración e implementación del Plan Estatal de Desarrollo, así como del que corresponda a los municipios.
-
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO III. De la Formación y Capacitación de Personal
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 157.
 
-Los establecimientos para la prestación de servicios, deberán contar con infraestructura y equipamientos apropiados, así como con equipos multiprofesionales de personal capacitado para atender a las personas con discapacidad.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 158.
 
-La Secretaría, en coordinación con la Secretaría de Salud y el Organismo Estatal, promoverá la formación y capacitación de personal adecuado que pueda responder a la atención de las personas con discapacidad en la Entidad.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 159.
 
-Cuando el personal de cualquiera de las dependencias y organismos públicos estatales o municipales, detecte o tenga conocimiento de alguna persona con discapacidad que requiera los beneficios de este Código, dará aviso de su caso al Organismo Estatal o a la Secretaría y proporcionará información de los mismos a la persona que lo requiere.
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO IV. De la Habilitación y Rehabilitación
 
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Primera. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 160.
 
-Los procesos de habilitación y rehabilitación de las personas con discapacidad podrán comprender:
-
-I. Habilitación y rehabilitación médico funcional;
-
-II. Orientación y tratamiento psicológico;
-
-III. Educación general y especial; y
-
-IV. Habilitación y rehabilitación laboral.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 161.
 
-La Secretaría y el Organismo Estatal establecerán convenios de coordinación y colaboración con municipios e instituciones públicas o privadas, para llevar a cabo las actividades que comprende el proceso habilitatorio y rehabilitatorio.
-
-Los Poderes del Estado darán apoyos técnicos, humanos y materiales, tales como traductores o intérpretes del lenguaje de señas, sistemas de impresión en braille o cualquier otro que se considere necesario para brindar y garantizar el pleno respeto de las personas con discapacidad.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 162.
 
-Los procesos de habilitación y rehabilitación serán prestados, tomando en cuenta la coordinación entre las áreas médica, escolar y laboral.
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Segunda. De la Habilitación y Rehabilitación Médico Funcional
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 163.
 
-La habilitación y rehabilitación médico funcional deberá:
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-I. Comenzar de forma inmediata a la detección y diagnóstico de cualquier discapacidad;
-
-II. Estar dirigida a dotar de las instalaciones y condiciones precisas para la recuperación de las personas con discapacidad; y
-
-III. Concluir hasta conseguir el máximo de funcionalidad posible, asegurando el mantenimiento de ésta.
-
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Tercera. De la Orientación y Tratamiento Psicológico
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 164.
 
-La orientación y tratamiento psicológico deberá:
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-I. Buscar en todo momento la superación de la persona con discapacidad, el desarrollo de su personalidad y su integración social;
-
-II. Estar dirigida a actualizar al máximo el uso de sus potencialidades;
-
-III. Tener en cuenta las características propias de la persona con discapacidad, sus motivaciones e intereses, así como los factores familiares y sociales que puedan condicionarle; e
-
-IV. Iniciar en el seno familiar, con la participación de los padres, tutores o responsables de la persona con discapacidad, comprendiendo las distintas fases del proceso habilitador y rehabilitador.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Cuarta. De la Educación
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 165.
 
-Las personas con discapacidad tendrán acceso al Sistema Educativo Estatal en la forma que señalan las leyes en materia educativa.
-
-De acuerdo con el resultado del diagnóstico, las personas con discapacidad se integrarán al sistema educativo general ordinario recibiendo, en su caso, los programas de apoyo y recursos que el presente código y otras disposiciones legales aplicables señalen.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
-
-Su discapacidad no será causa de rechazo o exclusión de ninguna institución educativa en Jalisco, salvo que por circunstancias particulares les sea imposible incorporarse.
-
-El Gobierno del Estado a través de la Secretaría de Educación fomentará la creación y equipamiento de escuelas de educación especial que se requieran, proporcionando a las existentes material didáctico, equipo e infraestructura.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 166.
 
-La educación especial será impartida a aquellos a los que les resulte imposible la integración en el sistema educativo ordinario y de acuerdo con lo previsto en este Código y las disposiciones legales aplicables.
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-La educación especial tendrá los siguientes objetivos:
-
-I. Superar las deficiencias y sus consecuencias o secuelas, de la persona con discapacidad;
-
-II. Desarrollar las habilidades, capacidades, aptitudes y la adquisición de conocimientos que le permitan a la persona con discapacidad la mayor autonomía posible; e
-
-III. Incorporar a la persona con discapacidad a la vida social y al sistema de trabajo que le permitan ser autosuficiente.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Quinta. Del Empleo
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 167.
 
-La política de empleo de trabajadores con discapacidad tiene como finalidad su integración al sistema ordinario de trabajo o, en su caso, su incorporación al sistema productivo mediante una forma de trabajo adecuada.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 168.
 
-Los procesos de habilitación y rehabilitación laboral o profesional comprenderán entre otras, las siguientes prestaciones:
-
-I. Los tratamientos de habilitación y rehabilitación médico funcional específicos para el desempeño de la función laboral;
-
-II. La orientación ocupacional y vocacional;
-
-III. La formación, readaptación y educación ocupacional;
-
-IV. La capacitación laboral que corresponda; y
-
-V. El seguimiento y evaluación del proceso de recuperación, desde el punto de vista físico, psicológico y laboral.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 169.
 
-La orientación ocupacional tendrá en cuenta:
-
-I. Las potencialidades reales de la persona con discapacidad, determinadas en base a los informes del Consejo;
-
-II. La educación escolar recibida;
-
-III. La capacitación y experiencia laboral o profesional;
-
-IV. Las perspectivas de empleo en cada caso; y
-
-V. La atención a sus motivaciones, aptitudes y preferencias vocacionales.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 170.
 
-Las autoridades a las que se refiere este libro procurarán el empleo de los trabajadores con discapacidad, mediante:
-
-I. El establecimiento de sistemas que faciliten su integración laboral; éstos podrán consistir, entre otros, en subvenciones o préstamos para la adaptación de los centros laborales;
-
-II. La eliminación de barreras arquitectónicas que dificulten su movilidad en centros laborales;
-
-III. La promoción del autoempleo, a través de la microempresa y empresas familiares, para lo cual se les otorgará asesorías, facilidades administrativas y financiamiento;
-
-IV. La promoción de la comercialización de los productos elaborados por las personas con discapacidad;
-
-V. La promoción de programas de trabajo en el domicilio de la persona con discapacidad;
-
-VI. La asistencia técnica a las empresas que contraten personas con discapacidad;
-
-VII. La celebración de convenios en donde se otorguen incentivos fiscales y de otra índole a las personas físicas o jurídicas que contraten personas con discapacidad;
-
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
-
-VIII. La implementación de mecanismos de financiamiento y coinversión para la ejecución de proyectos productivos y sociales, a favor de las personas con discapacidad;
-
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
-
-IX. La promoción del establecimiento de centros de trabajo o talleres protegidos, cuya base laboral sea integrada básicamente por personas con discapacidad; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2007)</small>
-
-X. La contratación de un porcentaje que, por el tipo y grado de sus capacidades puedan ser incorporadas a la actividad laboral.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 171.
 
-La Secretaría, en coordinación con el Organismo Estatal, la Secretaría de Promoción Económica, la Secretaría del Trabajo y Previsión Social y los Ayuntamientos, establecerá programas de promoción del empleo de las personas con discapacidad, creando al efecto una bolsa de trabajo, en la que se concentren listas de aspirantes con sus aptitudes y capacidades.
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO V. De la Recreación, Deporte, Cultura y Turismo
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 172.
 
-El Organismo Estatal deberá:
-
-I. Promover, en coordinación con el Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud, y la Secretaría de Cultura, que las actividades recreativas, deportivas y culturales de las personas con discapacidad, se realicen en las instalaciones de acceso general, a fin de contribuir a fomentar su integración social y trato digno;
-
-II. Promover, en coordinación con el Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud y la Secretaría de Cultura, programas de becas tendientes a fomentar la capacidad creadora, artística e intelectual, así como las demás actividades culturales y recreativas;
-
-III. Promover y propiciar, en coordinación con la Secretaría de Cultura, la formación de grupos de expresión cultural y artística a fin de impulsar y desarrollar las habilidades, en estos rubros, de las personas con discapacidad;
-
-IV. Canalizar a las personas con discapacidad hacia las instancias deportivas competentes, para que desarrollen sus aptitudes y habilidades deportivas, de conformidad con la ley de la materia;
-
-V. Promover en coordinación con el Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud, el deporte de alto rendimiento para personas con discapacidad, para lo cual se implementarán programas especializados; y
-
-VI. Promover en coordinación con la Secretaría de Turismo, la formulación y aplicación de programas de turismo social, de conformidad con la ley en la materia.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 173.
 
-En las bibliotecas públicas del Estado, existirá una área que permita a las personas con discapacidad visual, el uso de medios electrónicos que faciliten su aprendizaje y se adquirirán textos impresos en sistema braille y audiolibros.
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO VI. De las Medidas y Facilidades Urbanísticas y Arquitectónicas
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
-
 ###### Artículo 174.
 
-Los Planes y Programas de Desarrollo Urbano deberán contemplar que las construcciones o modificaciones de edificios e infraestructura urbana y arquitectónica se adecuen a las necesidades de las personas con discapacidad, de conformidad con las disposiciones aplicables en la materia.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 175.
 
-La Administración Pública del Estado y los Ayuntamientos deberán:
-
-I. Observar lo señalado en el artículo anterior en la aplicación y urbanización de las vías, parques y jardines públicos, a fin de facilitar el tránsito, desplazamiento y uso de estos espacios por las personas con discapacidad; y
-
-II. Contemplar en el programa que regule su desarrollo urbano, la adecuación de facilidades urbanísticas y arquitectónicas, acorde a las necesidades de las personas con discapacidad.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 176.
 
-En los auditorios, cines, teatros, salas de concierto y de conferencias, centros recreativos, deportivos y en general cualquier recinto en que se presenten espectáculos públicos, los administradores u organizadores, deberán establecer preferencialmente espacios reservados para las personas con discapacidad, que no puedan ocupar las butacas o asientos ordinarios, de conformidad con la legislación aplicable.
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+Artículo 176 bis.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-Artículo 176 bis.- Los reglamentos de autorización de proyectos para la construcción, adaptación o remodelación, así como la apertura de espacios destinados a prestar servicios al público, especialmente clínicas, hospitales, hoteles, restaurantes, oficinas públicas, bancos, terminales de pasajeros, plazas comerciales y tiendas de autoservicio, entre otros deberán contemplar se instalen, según corresponda a la magnitud y clase de proyectos, sanitarios, estacionamientos, elevadores, rampas y salidas de emergencia adaptados a las personas que se desplacen en silla de ruedas o cualquier otro elemento ortopédico.
+Artículo 176 ter.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
-
-Artículo 176 ter.- Las personas con discapacidad tienen derecho a una vivienda digna. Los programas de vivienda Estatales y Municipales incluirán proyectos arquitectónicos de construcciones que consideren las necesidades propias de las personas con discapacidad. De la misma manera, los organismos encargados de la promoción de la vivienda podrán otorgar facilidades a las personas con discapacidad para recibir créditos, o subsidios, en su caso, para la adquisición, construcción o remodelación de vivienda.
-
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO VII. De las Preferencias para el Libre Desplazamiento y el Transporte
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 177.
 
-El sistema de transporte deberá cumplir con las especificaciones técnicas y especiales que permitan el acceso y uso a las personas con discapacidad en los términos de la legislación aplicable.
-
-Cada unidad del servicio público de transporte colectivo de pasajeros, deberá contar con un mínimo de dos asientos preferenciales para personas con discapacidad, los cuales se fijarán de forma vertical, con el respaldo adherido a uno de los costados de la unidad y estarán cerca de la puerta de ingreso.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 178.
 
-La Administración Pública del Estado y los Ayuntamientos contribuirán a garantizar el uso adecuado de zonas preferenciales para el estacionamiento de vehículos en los que viajen personas con discapacidad, tanto en la vía pública, como en lugares de acceso al público.
-
-A efecto de facilitar el estacionamiento de vehículos, de los cuales tengan que descender o ascender personas con discapacidad, la autoridad correspondiente dispondrá las medidas necesarias, que inclusive podrán aplicarse en zonas de estacionamiento restringido, siempre y cuando no se afecte gravemente el libre tránsito de vehículos y peatones.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 179.
 
-La Secretaría de Vialidad y Transporte deberá:
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-I. Impulsar el diseño e instrumentación permanente de programas y campañas de educación vial y cortesía urbana, encaminados a motivar los hábitos de respeto hacia las personas con discapacidad en su tránsito por la vía pública y en lugares de acceso al público, de conformidad con la legislación aplicable; y
+Artículo 179 bis.- (DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-II. Procurar que existan unidades de servicio público de transporte urbano colectivo de pasajeros, con implementos y características para personas con discapacidad, de acuerdo a los estudios correspondientes, en consulta con las asociaciones de personas con discapacidad y de conformidad con los datos que arroje el padrón estatal de personas con discapacidad.
+Artículo 179 ter.-(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
-
-Artículo 179 bis.- El Ejecutivo del Estado a través de la Secretaría de Vialidad y Transporte, deberá impulsar el diseño e instrumentación permanente de programas y campañas de educación vial y cortesía urbana, encaminados a motivar los hábitos de respeto hacia las personas con discapacidad en su tránsito por la vía pública y en lugares de acceso al público, de conformidad con la legislación aplicable. El Ejecutivo del Estado deberá garantizar que existan unidades de servicio público de transporte urbano colectivo de pasajeros, con implementos y características para personas con discapacidad.
-
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
-
-Artículo 179 ter.-Los municipios, al expedir la autorización a las empresas del ramo, para colocar teléfonos en la vía pública, vigilarán que no invadan el libre tránsito de las personas discapacitadas y que se instalen teléfonos públicos especiales que permitan su utilización para personas discapacitadas.
-
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO VIII. De los Estímulos
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 180.
 
-A fin de estimular el desarrollo de las personas con discapacidad, el Ejecutivo del Estado instituirá un premio anual que será entregado en acto público, consistente en:
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-I. Reconocimiento oficial a las personas físicas, instituciones, grupos o asociaciones, que se hayan distinguido por su apoyo a las personas con discapacidad y a los programas que los beneficien; y
-
-II. Beneficios económicos y reconocimiento oficial a las personas con discapacidad que se distingan en cualquier actividad relacionada con las ciencias, el arte, la cultura, los deportes y la superación personal.
-
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON SUS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO CUARTO. DE LAS SANCIONES Y DEL RECURSO DE REVOCACION
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO I. De las Sanciones
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 181.
 
-Las violaciones a lo establecido por el presente Libro, su reglamento y demás disposiciones que de él emanen, serán sancionadas por la Secretaría o Dependencia que corresponda de la Administración Pública del Estado o de los Ayuntamientos.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 182.
 
-Se aplicarán a petición de parte o de oficio, independientemente de lo dispuesto por otras disposiciones legales, las siguientes sanciones:
-
-I. Multa equivalente de 10 a 50 veces el salario mínimo vigente en la Zona Metropolitana de Guadalajara, a quienes ocupen indebidamente los espacios de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con discapacidad;
-
-II. Multa equivalente de 30 a 90 veces el salario mínimo vigente en la Zona Metropolitana de Guadalajara, a los prestadores en cualquier modalidad del servicio de transporte público que nieguen, impidan u obstaculicen el uso del servicio a una persona con discapacidad; y
-
-III. Multa equivalente de 180 a 240 veces el salario mínimo vigente en la zona metropolitana de Guadalajara, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso, para personas con discapacidad.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 183.
 
-Para la imposición de sanciones se observará lo dispuesto por las leyes administrativas aplicables.
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO II. Del Recurso de Revocación
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
-
 ###### Artículo 184.
 
-Contra las resoluciones en las que se impongan las sanciones contenidas en este libro procederá el recurso de revocación, que se interpondrá dentro de los 15 días hábiles siguientes a la fecha de notificación de la resolución ante el superior jerárquico.
+(DEROGADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 185.
 
-(DEROGADO, P.O. 24 DE JUNIO DE 2003)
+(DEROGADO, P.O. 24 DE JUNIO DE 2003) (REPUBLICADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 186.
 
-(DEROGADO, P.O. 24 DE JUNIO DE 2003)
+(DEROGADO, P.O. 24 DE JUNIO DE 2003) (REPUBLICADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 187.
 
-(DEROGADO, P.O. 24 DE JUNIO DE 2003)
+(DEROGADO, P.O. 24 DE JUNIO DE 2003) (REPUBLICADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 188.
 
-(DEROGADO, P.O. 24 DE JUNIO DE 2003)
+(DEROGADO, P.O. 24 DE JUNIO DE 2003) (REPUBLICADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Artículo 189.
 
-(DEROGADO, P.O. 24 DE JUNIO DE 2003)
+(DEROGADO, P.O. 24 DE JUNIO DE 2003) (REPUBLICADO, POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA LA ATENCION Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, P.O. 31 DE DICIEMBRE DE 2009)
 
 > <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -2919,13 +2483,13 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 # LIBRO SEPTIMO. DE LOS ADULTOS MAYORES
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2969,7 +2533,7 @@ Para los efectos de la presente ley, se consideran adultos mayores a las persona
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
+## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3047,9 +2611,9 @@ V. Los demás que establezcan los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
+## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 234.
 
@@ -3083,9 +2647,9 @@ V. Los demás que establezcan a su cargo las disposiciones aplicables.
 
 Corresponde a la familia procurar que sus miembros adopten pautas de conducta y acciones que favorezcan a lo largo de su vida un desarrollo individual saludable y productivo teniendo presente el envejecimiento.
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
+## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3125,7 +2689,7 @@ Los establecimientos que presten servicio a los adultos mayores deberán habilit
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3189,9 +2753,9 @@ Las asociaciones civiles, fundaciones o patronatos de asistencia privada podrán
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
+## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 247.
 
@@ -3289,7 +2853,7 @@ Es responsabilidad de la Dirección del Trabajo y Previsión Social ofrecer capa
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
+## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3331,7 +2895,7 @@ El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la
 
 Artículo 255 bis.- Queda prohibida toda discriminación que atente contra la dignidad y los derechos de los adultos mayores.
 
-> <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 # LIBRO OCTAVO. DE LA DONACION DE ALIMENTOS
 
@@ -3724,3 +3288,15 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
 
 TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco" y en lo relativo a la creación del Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad, entrará en vigencia una vez que el Poder Ejecutivo haga las adecuaciones presupuestales que reflejen la dotación al Consejo de los recursos pertinentes para su operación, o en su caso, una vez que presente el Poder Ejecutivo al Congreso del Estado formal iniciativa de modificación al Presupuesto de Egresos para el ejercicio fiscal de 2010.
+
+SEGUNDO. Los recursos humanos, financieros y materiales asignados a la Comisión Estatal Coordinadora del Programa Estatal de Desarrollo Integral de las Personas con Discapacidad, así como los del Consejo de Valoración de las Personas con Discapacidad, pasarán a formar parte del Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad, respetando los derechos laborales de los servidores públicos involucrados; para los efectos de la operación de este artículo, el Poder Ejecutivo deberá realizar las adecuaciones administrativas necesarias en las dependencias involucradas.
+
+TERCERO. El Consejo dará seguimiento a las personas con discapacidad que están siendo beneficiadas con algún apoyo, servicio o trámite, así como a los asuntos pendientes o en proceso por parte de la Comisión Estatal Coordinadora del Programa Estatal de Desarrollo Integral de las Personas con Discapacidad, y del Consejo de Valoración de las Personas con Discapacidad.
+
+CUARTO. Las entidades y dependencias del Poder Ejecutivo del Estado y los ayuntamientos contarán con 180 días a partir de la publicación del presente decreto en el Periódico Oficial "El Estado de Jalisco", para crear o adecuar sus reglamentos conforme a lo establecido en la presente ley y deberán definir la instancia responsable de su aplicación.
+
+QUINTO. Se deroga el Libro Quinto del Código de Asistencia Social del Estado de Jalisco, en sus artículos del 141 al 189, así como todas las disposiciones legales que contravengan el presente decreto.
