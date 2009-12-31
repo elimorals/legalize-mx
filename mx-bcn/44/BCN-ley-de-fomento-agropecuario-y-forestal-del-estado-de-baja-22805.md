@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-agropecuario-y-forestal-del-estado-de-baja-22805
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-23"
-last_updated: "2008-05-16"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO AGROPECUARIO Y FORESTAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 23 de noviembre de 2001.
 
@@ -1487,99 +1487,139 @@ La Secretaría de Fomento Agropecuario promoverá y apoyará la transferencia de
 
 ASISTENCIA TECNICA INTEGRAL.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### ARTICULO 187.
 
-Se crea la "Comisión de Asistencia Técnica Agropecuaria y Forestal del Estado de Baja California" como un organismo público descentralizado, con personalidad jurídica y patrimonio propio, con domicilio en la ciudad de Mexicali, Baja California, que en lo sucesivo se denominará Comisión.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### ARTICULO 188.
 
 Se declara de interés social, el servicio de asistencia técnica integral a los productores agropecuarios y forestales y la planificación de la misma para el desarrollo rural en el Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### ARTICULO 189.
 
-La Comisión que esta Ley formaliza, se regirá normativamente por un Consejo Directivo que estará integrada por los representantes de las Instituciones y de la forma siguiente:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-I.- Un Presidente, que será el Ejecutivo del Estado y actuará como representante y auxiliar en esta función, el Secretario de Fomento Agropecuario del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Un Secretario, que será el Delegado Estatal de la S.A.G.A.R.P.A;
-
-III.- Un Tesorero, que será el gerente de la sucursal bancaria en la capital del Estado del BANRURAL, S.N.C.; y,
-
-IV.- Vocales, los representantes de las organizaciones de productores agrícolas, forestales, faunísticas y ganaderas en el Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 190.
 
-La Comisión operará a través de un director técnico que será el coordinador general de la asistencia técnica en el Estado, el cual será nombrado por la propia comisión y tendrá su residencia en la capital del Estado.
+La Secretaría de Fomento Agropecuario prestará el servicio de asistencia técnica integral a que se refiere el presente capítulo y será la coordinadora general de la asistencia técnica en el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 191.
 
-La Comisión podrá operar los servicios de clasificación de alimentos y los que se constituyan para tal efecto.
+La Secretaría de Fomento Agropecuario, por sí o por conducto de la unidad administrativa que determine, podrá operar los servicios de clasificación de alimentos y los que se constituyan para tal efecto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 192.
 
-La Comisión será el único organismo facultado para otorgar la asistencia técnica integral a los productores agropecuarios, forestales y faunísticos del Estado, de acuerdo con los lineamientos del Programa Estatal de Desarrollo Agropecuario y Forestal, cualquier otra asistencia técnica dentro de este sector otorgada por particulares o niveles diferentes de Gobierno, deberá estar registrado en la Secretaría de Fomento Agropecuario y ante la Comisión y acatar sus lineamientos.
+La Secretaría de Fomento Agropecuario, será la única Dependencia facultada para otorgar la asistencia técnica integral a los productores agropecuarios, forestales y faunísticos del Estado, de acuerdo con los lineamientos del Programa Estatal de Desarrollo Agropecuario y Forestal, cualquier otra asistencia técnica dentro de este sector otorgada por particulares o niveles diferentes de Gobierno, deberá estar registrado en la Secretaría de Fomento Agropecuario y ante la unidad administrativa a que se refiere el presente capítulo y acatar sus lineamientos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 193.
 
-El Patrimonio de la Comisión se formará con:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-I.- La aportación económica del Gobierno del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Las aportaciones económicas de los sectores interesados;
-
-III.- Los bienes muebles e inmuebles que adquiera por cualquier título legal;
-
-IV.- Con las aportaciones económicas y de todo tipo de Dependencias Oficiales, organismos particulares, que bajo cualquier título legal se destinen para el patrimonio de la Comisión; y,
-
-V.- Con el producto de las actividades económicas que la propia Comisión determine realizar a fin de incrementar su patrimonio.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 194.
 
-El Gobierno del Estado incluirá anualmente en su presupuesto de egresos, partidas presupuestales destinadas a cooperar para el sostenimiento de la Comisión y al mismo fin deberán hacer sus aportaciones todos los sectores interesados de acuerdo a lo que la propia Comisión proponga a fin de llevar adelante sus programas.
+El Gobierno del Estado incluirá anualmente en su presupuesto de egresos, partidas presupuestales destinadas a cooperar para el sostenimiento de la unidad administrativa de la Secretaría de Fomento Agropecuario, encargada de la asistencia técnica integral en la materia y al mismo fin eberán (sic) hacer sus aportaciones todos los sectores interesados de acuerdo a lo que la propia Secretaría de Fomento Agropecuario proponga a fin de llevar adelante sus programas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 195.
 
-Las aportaciones económicas de cualquier tipo que para el sostenimiento de la Comisión hagan los productores, Dependencias Oficiales o particulares, serán a través de Convenios en los que se estipulen claramente los compromisos y condiciones de los contratantes y pueden ser promovidos por los miembros de la Comisión o por su Director Técnico, siendo en todo caso aprobado en Consejo por la misma Comisión.
+Las aportaciones económicas de cualquier tipo que para el sostenimiento de las acciones en materia de asistencia técnica integral hagan los productores, dependencias oficiales o particulares, serán a través de Convenios en los que se estipulen claramente los compromisos y condiciones de los contratantes y pueden ser promovidos por cualquier interesado, siendo en todo caso necesario contar con el punto de vista favorable de la Secretaría de Fomento Agropecuario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 196.
 
-La Comisión tendrá como instrumento para el logro de sus objetivos, el Programa de Asistencia Técnica Integral que se contemplará en el Programa Estatal de Desarrollo Agropecuario y Forestal y podrá nombrar el personal administrativo y técnico, fijarle los sueldos respectivos y determinar su número de acuerdo al programa anual que se proponga y apruebe.
+La Secretaría de Fomento Agropecuario, tendrá como instrumento para el logro de sus objetivos, el Programa de Asistencia Técnica Integral que se contemplará en el Programa Estatal de Desarrollo Agropecuario y Forestal y podrá nombrar el personal administrativo y técnico, fijarle los sueldos respectivos y determinar su número de acuerdo al programa anual que se proponga y apruebe.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 197.
 
-La Comisión podrá contratar los servicios de técnicos o de otro tipo de profesionales, para estudios o trabajos específicos que se requieran en el cumplimiento de sus programas.
+La Secretaría de Fomento Agropecuario, podrá contratar los servicios de técnicos o de otro tipo de profesionales, para estudios o trabajos específicos que se requieran en el cumplimiento de sus programas de asistencia técnica integral.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 198.
 
-La Comisión para sus programas de Asistencia Técnica Integral, incrementará el ámbito de sus acciones de acuerdo a las necesidades del desarrollo rural y las actividades agropecuarias.
+La Secretaría de Fomento Agropecuario, para sus programas de Asistencia Técnica Integral, incrementará el ámbito de sus acciones de acuerdo a las necesidades del desarrollo rural y las actividades agropecuarias.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 199.
 
-El Presidente, Secretario, Tesorero y Vocales, tendrán voz y voto, el Director Técnico sólo tendrá derecho a voz y no a voto en las reuniones, debiendo proporcionar la información necesaria que oriente a los miembros de la Comisión en sus decisiones.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 200.
 
-La Comisión coordinará sus acciones con las de los demás sectores productivos, de servicio y de apoyo a fin de integrar correctamente las actividades que se registrarán para alcanzar el objetivo general de otorgar una asistencia técnica integral en el Estado y contribuir con esto al cumplimiento de los objetivos del Plan de Desarrollo Agropecuario y Forestal del Estado.
+La Secretaría de Fomento Agropecuario, coordinará sus acciones con las de los demás sectores productivos, de servicio y de apoyo a fin de integrar correctamente las actividades que se registrarán para alcanzar el objetivo general de otorgar una asistencia técnica integral en el Estado y contribuir con esto al cumplimiento de los objetivos del Plan de Desarrollo Agropecuario y Forestal del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 201.
 
-Prestarán su colaboración a la Comisión, todos los Organismos e Instituciones de investigación que participen directa o indirectamente con la producción agropecuaria y forestal del Estado.
+Prestarán su colaboración a la Secretaría de Fomento Agropecuario, todos los organismos e instituciones de investigación que participen directa o indirectamente con la producción agropecuaria y forestal del Estado.
 
 ###### ARTICULO 202.
 
 Las organizaciones de productores agropecuarios, forestales y faunísticos, participarán en la formulación de los programas de asistencia técnica integral.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 203.
 
-La Comisión promocionará nuevas tecnologías, con la finalidad de incrementar los rendimientos en la productividad y disminuir los costos de inversión de los productores.
+La Secretaría de Fomento Agropecuario, promocionará nuevas tecnologías, con la finalidad de incrementar los rendimientos en la productividad y disminuir los costos de inversión de los productores.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 204.
 
-El director técnico presentará a la Comisión un avance mensual de los programas establecidos y un balance de activo, pasivo y circulante que constituya su patrimonio.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 205.
 
-El director técnico presentará a la Comisión los programas y presupuestos, así como los convenios suscritos para su aprobación previo al inicio de cada ciclo productivo, así como los que requieran en forma eventual, un incremento de las actividades planteadas originalmente.
+El responsable de la unidad administrativa encargada de la asistencia técnica integral de la Secretaría de Fomento Agropecuario, presentará a la misma los programas y presupuestos, así como los convenios suscritos para su aprobación previo al inicio de cada ciclo productivo, así como los que requieran en forma eventual, un incremento de las actividades planteadas originalmente.
 
 ### CAPITULO II
 
@@ -1906,3 +1946,23 @@ BERNARDO BORBON VILCHES
 P.O. 16 DE MAYO DE 2008.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Las disposiciones contenidas en el Artículo Sexto del presente Decreto, entrarán en vigor a los veinte días hábiles siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite y pendiente de resolución en la Comisión de Asistencia Técnica Agropecuaria y Forestal del Estado de Baja California al momento de entrar en vigor las presentes disposiciones, serán resueltos por la unidad administrativa de la Secretaría de Fomento Agropecuario que se adecue para tal efecto conforme a la normatividad aplicable.
+
+TERCERO.- Continúan en vigor los actos, resoluciones, acuerdos y las disposiciones de carácter general emitidas con fundamento en la Ley que se reforma mediante el Artículo Sexto del presente Decreto, en lo que no se opongan al mismo; así como los poderes, mandatos y, en lo general, las representaciones otorgadas y las facultades concedidas, hasta en tanto no sean modificadas o revocadas expresamente.
+
+CUARTO.- Los nombramientos de Director Técnico, de la Comisión de Asistencia Técnica Agropecuaria y Forestal del Estado de Baja California que se extingue, y del personal que así corresponda conforme a su naturaleza, otorgados con fundamento en la Ley vigente antes de la entrada en vigor de la presente reforma, quedarán sin efectos, por lo que deberán ser liquidados conforme a la normatividad aplicable.
+
+QUINTO.- Dentro del plazo de veinte días hábiles a que se refiere el Artículo Primero Transitorio del Artículo Sexto del presente Decreto, el Ejecutivo Estatal podrá adoptar las medidas normativas, presupuestales, patrimoniales, laborales y demás que resulten necesarias para dar cumplimiento a los efectos del Artículo Sexto del presente Decreto, en los términos de la normatividad que resulte aplicable.
+
+La transferencia de los recursos presupuestales, se formalizará por conducto del grupo de trabajo a que se refiere el párrafo anterior, de conformidad con los lineamientos y plazos que el mismo determine, apegados a las normas de la materia.
+
+Asimismo, dentro del plazo señalado en el primer párrafo de este Artículo la Comisión de Asistencia Técnica Agropecuaria y Forestal del Estado de Baja California, deberá enviar la Cuenta Pública del Ejercicio Fiscal de 2009 en los términos de la Ley de Fiscalización Superior para el Estado de Baja California.
+
+Consecuentemente, la Secretaría de Fomento Agropecuario, en coordinación con la Secretaría de Planeación y Finanzas del Estado de Baja California solventará las observaciones efectuadas por el Órgano de Fiscalización Superior sobre la Cuenta Pública del Ejercicio Fiscal de 2009.
+
+SEXTO.- Se derogan las disposiciones que se opongan al contenido del Artículo Sexto del presente Decreto.
