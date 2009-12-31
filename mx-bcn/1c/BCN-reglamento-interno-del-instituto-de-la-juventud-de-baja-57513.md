@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-la-juventud-de-baja-57513"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-02"
-last_updated: "2007-11-02"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE LA JUVENTUD DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NUMERO 344 POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE BAJA CALIFORNIA, PUBLICADOS EN EL P.O. DE 31 DE DICIEMBRE DE 2009. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 2 de noviembre de 2007.
 
@@ -524,3 +526,17 @@ TERCERO.- El INJUVEN deberá actualizar dentro del término de noventa días sig
 De conformidad con lo dispuesto por la fracción I del Artículo 49 de la Constitución Política del Estado Ubre y Soberano de Baja California y con fundamento en el Artículo 9 de la Ley Orgánica de la Administración Pública del Estado, mando se imprima y publique el presente Reglamento para su debido cumplimiento y observancia.
 
 DADO en la Residencia Oficial del Poder Ejecutivo en la ciudad de Mexicali, Baja California a los 26 días del mes de octubre del año dos mil seis.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Las disposiciones contenidas en el Artículo Segundo del presente Decreto, entrarán en vigor a los veinte días hábiles siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Continuarán en vigor los actos, resoluciones, acuerdos y las disposiciones de carácter general emitidas con fundamento en la Ley que crea el Instituto de la Juventud de Baja California que se abroga mediante el Artículo Segundo del presente Decreto, en lo que no se opongan al mismo; así como los poderes, mandatos y, en lo general, las representaciones otorgadas y las facultades concedidas, hasta en tanto no sean modificadas o revocadas expresamente.
+
+TERCERO.- Los asuntos que se encuentren en trámite y pendiente de resolución en el Instituto de la Juventud de Baja California (INJUVEN) al momento de entrar en vigor las presentes disposiciones, serán resueltos por la Secretaría de Educación y Bienestar Social.
+
+CUARTO.- Dentro del plazo de veinte días hábiles a que se refiere el Artículo Primero Transitorio del Artículo Segundo del presente Decreto, el Ejecutivo Estatal podrá adoptar las medidas normativas, presupuestales, patrimoniales, laborales y demás que resulten necesarias para dar cumplimiento a los efectos del Artículo Segundo del presente Decreto, en términos de la normatividad que resulte aplicable.
+
+Asimismo, dentro del plazo señalado en el párrafo anterior, el Instituto de la Juventud de Baja California (INJUVEN) deberá enviar la Cuenta Pública del Ejercico Fiscal de 2009 en los términos de la Ley de Fiscalización Superior para el Estado de Baja California.
