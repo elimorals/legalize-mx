@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-urbanizacion-del-estado-de-baja-california-3356"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-20"
-last_updated: "2004-06-25"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE URBANIZACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el jueves 20 de agosto de 1981.
 
@@ -209,7 +209,9 @@ II.- La Junta de Urbanización del Estado;
 
 III.- Las Comisiones Estatales de Servicios Públicos;
 
-IV.- Las Promotoras para el Desarrollo de las Comunidades Rurales y Populares del Estado de Baja California;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 31 DE DICIEMBRE DE 2009)
 
 V.- La unidad administrativa en materia de obras públicas de los Ayuntamientos;
 
@@ -517,7 +519,11 @@ VIII.- Por un representante de los organismos siguientes que operen en el Munici
 
 A).- De Inmobiliaria del Estado;
 
-B).- De la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+B).- Las Entidades de la Administración Pública Estatal que tengan por objeto realizar obras de urbanización en los términos de esta ley, y que guarden relación con la acción de urbanización que se vaya a realizar;
 
 C).- Del Instituto de Vivienda en el Estado de Baja California;
 
@@ -1302,3 +1308,9 @@ Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su
 P.O. 25 DE JUNIO DE 2004.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Las disposiciones contenidas en el Artículo Cuarto del presente Decreto entrarán en vigor a los veinte días hábiles siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al Artículo Cuarto del presente Decreto.
