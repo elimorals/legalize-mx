@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2008-12-30"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -41,11 +41,13 @@ LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 1o.
 
-La hacienda pública de los municipios del Estado de Michoacán, percibirá en cada ejercicio fiscal para cubrir el gasto público y demás obligaciones a su cargo, los ingresos por concepto de impuestos, derechos, contribuciones especiales, aportaciones de mejoras, productos, aprovechamientos y participaciones en ingresos federales que anualmente se establezcan en la Ley de Ingresos para los Municipios del Estado de Michoacán.
+La Hacienda Pública de los Municipios del Estado de Michoacán, percibirá en cada Ejercicio Fiscal para cubrir el gasto público y demás obligaciones a su cargo, los ingresos por concepto de impuestos, derechos, contribuciones especiales, productos, aprovechamientos, participaciones en ingresos federales y estatales, aportaciones federales y transferencias por convenio e ingresos extraordinarios que anualmente se establezcan en la Ley de Ingresos para los Municipios del Estado de Michoacán.
 
 ###### ARTICULO 2o.
 
@@ -701,7 +703,9 @@ En los contratos celebrados fuera del Estado, pero en la República, en relació
 
 No se pagará el Impuesto sobre Adquisición de Inmuebles en las adquisiciones que realicen la federación, los estados y municipios para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
 
-Tampoco se pagará dicho impuesto, en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Sexta. Disposiciones Generales
 
@@ -1039,11 +1043,13 @@ Son sujetos de este derecho, las personas físicas o morales que ocupan locales 
 
 Este derecho se causará y pagará como lo señale la Ley de Ingresos vigente, tomando en cuenta la importancia de la población y zona comercial.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 86.
 
-El derecho de servicio de mercados se recaudará mediante boletos que contengan el valor autorizado por la Auditoría Superior de Michoacán, debiéndose formular liquidación mensual independientemente de la liquidación diaria del cobrador del ramo; acompañándose ambas liquidaciones a la cuenta correspondiente.
+El derecho de servicio de mercados, se recaudará mediante boletos que contengan el valor autorizado, debiéndose formular liquidación mensual, independientemente, de la liquidación diaria del cobrador del ramo; acompañándose ambas liquidaciones a la cuenta correspondiente.
 
 #### Sección Cuarta. De las Infracciones y Sanciones
 
@@ -1075,7 +1081,7 @@ Los sujetos de este derecho lo cubrirán en la Tesorería Municipal correspondie
 
 ###### ARTICULO 91.
 
-Las infracciones al presente Capítulo se sancionarán conforme a lo dispuesto por el Código Fiscal MunicipaI.
+Las infracciones al presente Capítulo se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
 
 ### CAPITULO III. POR LICENCIAS DE CONSTRUCCION, REPARACION O RESTAURACION DE FINCAS
 
@@ -1157,13 +1163,11 @@ Son sujetos de este derecho las personas físicas o morales propietarias, poseed
 
 #### Sección Cuarta. De las Excepciones
 
-(NOTA: EL 13 DE ABRIL DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 12 DE MAYO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 103.
 
-Quedan exceptuados del pago de este derecho, las personas físicas o morales propietarias, poseedoras, usufructuarias o usuarias de predios ubicados en el territorio del municipio en los que operen bombas de agua potable o negras, molinos de nixtamal y para usos agrícolas.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 #### Sección Quinta. De la Base
 
@@ -1243,15 +1247,19 @@ Están obligados al pago de los derechos por abastecimiento de agua potable y po
 
 #### Sección Cuarta. Del Pago
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 111.
 
-Los derechos por la prestación del servicio de abastecimiento de agua potable y por los de alcantarillado y saneamiento, se pagarán mensual o bimestralmente en la oficina que corresponda, dentro del mes siguiente al mes o bimestre de que se trate, conforme a las cuotas o tarifas que aprueben los ayuntamientos, en los términos de la Ley de Agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán.
+Los derechos por la prestación del servicio de abastecimiento de agua potable; y por los de alcantarillado y saneamiento, se pagarán mensual o bimestralmente en la oficina que corresponda, dentro del mes siguiente al mes o bimestre de que se trate, conforme a las cuotas o tarifas que aprueben los ayuntamientos, en términos de lo dispuesto por la Ley del Agua y Gestión de Cuencas del Estado de Michoacán de Ocampo.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+La falta de pago dentro de los plazos a que se refiere el párrafo anterior, causará recargos conforme a la tasa que establezca la Ley de Ingresos para los Municipios del Estado de Michoacán; y el pago de los derechos, conjuntamente con sus accesorios, será exigido por los organismos operadores, en su carácter de autoridades fiscales, mediante la aplicación del procedimiento administrativo de ejecución establecido en el Código Fiscal Municipal del Estado de Michoacán. Lo dispuesto en este párrafo no será aplicable en el caso del pago anticipado a que se refiere este artículo.
 
-La falta de pago dentro de los plazos a que se refiere al párrafo anterior, causará recargos conforme a la tasa que establezca la Ley de Ingresos para los Municipios del Estado de Michoacán; y el pago de los derechos, conjuntamente con sus accesorios, será exigido por los organismos operadores, en su carácter de autoridades fiscales, mediante la aplicación del procedimiento administrativo de ejecución establecido en el Código Fiscal Municipal del Estado de Michoacán.
+Los usuarios del servicio a que se refiere este Capítulo, podrán optar por el pago anual anticipado de derechos, el cual podrá dar lugar a un estímulo que para el efecto establezcan los ayuntamientos en las cuotas o tarifas que aprueben para el Ejercicio Fiscal correspondiente.
+
+En el caso de que el pago no se realice a cuota tija, sino de acuerdo al consumo, se podrá realizar el prepago anticipado sobre consumo medido, o en su caso, el organismo operador realizará la estimación de pago anual tomando como base el consumo del Ejercicio Fiscal inmediato anterior y, en caso de resultar diferencias al final del ejercicio, efectuará el ajuste correspondiente. Asimismo, en caso de que durante el ejercicio sea instalado el medidor y el usuario que haya optado por el pago anual anticipado, pase de pagar cuota fija a cuota por consumo, se realizará el prepago anticipado sobre consumo medido o en su caso realizará la estimación correspondiente al periodo comprendido entre la fecha de instalación del medidor y lo que reste del año, efectuando el ajuste que corresponda por las diferencias.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
@@ -1299,7 +1307,11 @@ Al monto de los derechos por suministro de agua potable, que se determinen confo
 
 Independientemente de las sanciones por las infracciones de carácter administrativo que se impongan conforme a las disposiciones correspondientes, las que se cometan en relación con este Capítulo, se sancionarán conforme a lo dispuesto en el Código Fiscal Municipal del Estado de Michoacán.
 
-### CAPITULO VII. POR EXPEDICION, REVALIDACION Y CANJE DE PERMISOS O LICENCIAS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO VII. POR EXPEDICION, REVALIDACION Y CANJE DE PERMISOS O LICENCIAS PARA FUNCIONAMIENTO DE ESTABLECIMIENTOS
 
 #### Sección Primera. Del Objeto
 
@@ -1349,7 +1361,11 @@ Todas las licencias y permisos estarán sujetos a revalidación anual mediante e
 
 Las infracciones al presente Capítulo se sancionarán de conformidad con lo dispuesto por el Código Fiscal Municipal.
 
-### CAPITULO VIII. POR PROPAGANDA, PROMOCIONES COMERCIALES Y ANUNCIOS DE CUALQUIER CLASE
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO VIII. POR EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS O PERMISOS PARA LA COLOCACIÓN DE ANUNCIOS PUBLICITARIOS
 
 #### Sección Primera. Del Objeto
 
@@ -1417,25 +1433,11 @@ Los certificados, certificaciones, actas legalización y copias de documentos qu
 
 #### Sección Sexta. De las Excepciones
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### ARTICULO 134.
 
-No causan derechos la expedición de certificados, certificaciones, actas, legalizaciones y copias de documentos, a solicitud de:
-
-I.- Los núcleos de población para asuntos ejidales o comunales;
-
-II.- Los trabajadores de alguna entidad pública para acreditar sus servicios o su buena conducta;
-
-III.- Los empleados fiscales de cualquier entidad pública para acreditar la solvencia de sus fiadores;
-
-IV.- Las personas, para acreditar la clausura de algún establecimiento mercantil o industrial de su propiedad;
-
-V.- Los acusados, para que surtan sus efectos en los procesos penales que se les instruyan;
-
-VI.- Los interesados en asuntos electorales;
-
-VII.- Los obreros, para asuntos laborales, y
-
-VIII.- Los demás casos que señalen otras leyes.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 #### Sección Séptima. De las Infracciones y Sanciones
 
@@ -1519,7 +1521,11 @@ El pago de estos derechos se cubrirá en la Tesorería Municipal que corresponda
 
 Las infracciones al presente Capítulo se sancionarán conforme lo dispuesto por el Código Fiscal Municipal.
 
-### CAPITULO XIII. POR LICENCIAS PARA LOTIFICACION DE TERRENOS Y/O FUNCIONAMIENTO DE FRACCIONAMIENTOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+### CAPITULO XIII. POR SERVICIOS URBANISTICOS
 
 #### Sección Primera. Del Objeto
 
@@ -1581,7 +1587,9 @@ Las infracciones al presente Capítulo se sancionarán de conformidad con las di
 
 Están obligados al pago de los derechos por la autorización de horario extraordinario, las personas físicas y morales, que realicen actividades empresariales y de prestación de servicios, cuando soliciten realizar dichas actividades fuera del horario autorizado, conforme a las cuotas que establezca la Ley de Ingresos Municipal del Estado de Michoacán.
 
-Se exceptúa del pago de los derechos que se refiere el párrafo anterior, las siguientes: agencias de inhumaciones, farmacias, estacionamientos y pensiones para vehículos automotores, estaciones de radio y televisión, gasolineras, hospitales, laboratorios de análisis clínicos, hoteles, moteles y casas de huéspedes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY</small>
+
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO CUARTO. CONTRIBUCIONES ESPECIALES
 
@@ -1787,11 +1795,13 @@ Las infracciones a este capítulo se sancionarán conforme a las disposiciones d
 
 Tendrán el carácter de productos, los ingresos que se obtengan por la enajenación de bienes muebles o inmuebles que pertenezcan a los Municipios del Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 180.
 
-Los muebles e inmuebles pertenecientes a los Municipios podrán ser enajenados cuando resulten antieconómicos en su conservación y sostenimiento, previa autorización del H. Congreso del Estado.
+Los muebles e inmuebles pertenecientes a los municipios, podrán ser enajenados cuando resulten antieconómicos en su conservación y sostenimiento, previa autorización del Honorable Cabildo.
 
 ###### ARTICULO 181.
 
@@ -2066,3 +2076,13 @@ P.O. 30 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 La presente Ley, entrará en vigor el día 1° de enero de 2009, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley, entrará en vigor el día 1° primero de enero de 2010, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto a los Ayuntamientos del Estado de Michoacán de Ocampo.
