@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-firma-electronica-certificada-para-el-estado-de-51984"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-14"
-last_updated: "2006-09-14"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY DE FIRMA ELECTRONICA CERTIFICADA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
-Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 14 de septiembre de 2006.
+Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 14 de septiembre de 2006.
 
 Al margen un sello que dice: Gobierno de Jalisco, Poder Ejecutivo. Secretaría General de Gobierno, Estados Unidos Mexicanos.
 
@@ -67,7 +67,7 @@ V. Los entes públicos estatales autónomos;
 
 VI. Los prestadores de servicios de certificación;
 
-VII. Los particulares que soliciten el uso de la firma electrónica certificada, en los términos de la presente ley; y
+VII. Los particulares que soliciten el uso de la firma electrónica certificada, en los términos de la presente Ley; y
 
 2. Los Titulares de las entidades públicas determinarán a los servidores públicos que, para los efectos de su cargo, harán uso de la firma electrónica certificada o bien, los que establezcan en el propio reglamento de la entidad pública de que se trate.
 
@@ -75,7 +75,7 @@ VII. Los particulares que soliciten el uso de la firma electrónica certificada,
 
 1. Para los efectos de esta Ley, se entenderá por:
 
-l. Certificado electrónico: El documento firmado electrónicamente por el prestador de servicios de certificación que vincula datos de verificación de firma electrónica al firmante y confirma su identidad;
+I. Certificado electrónico: El documento firmado electrónicamente por el prestador de servicios de certificación que vincula datos de verificación de firma electrónica al firmante y confirma su identidad;
 
 II. Datos de creación de firma electrónica o clave privada: Las claves criptográficas, datos o códigos únicos que genera el firmante de manera secreta para crear y vincular su firma electrónica;
 
@@ -83,7 +83,7 @@ III. Datos de verificación de firma electrónica o clave pública: Las claves c
 
 IV. Destinatario: La persona que recibe el mensaje de datos que envía el firmante como receptor designado por este último con relación a dicho mensaje;
 
-V. Dispositivo de creación de firma electrónica: El Programa o sistema informático que sirve para aplicar los datos de creación de firma electrónica;
+V. Dispositivo de creación de firma electrónica: El programa o sistema informático que sirve para aplicar los datos de creación de firma electrónica;
 
 VI. Dispositivo de verificación de firma electrónica: El programa o sistema informático que sirve para aplicar los datos de verificación de firma electrónica;
 
@@ -111,7 +111,7 @@ XVI. Titular: La persona a favor de quien se expide un certificado de firma elec
 
 1. El uso de la firma electrónica certificada tiene los siguientes principios rectores:
 
-l. Neutralidad tecnológica: que implica hacer uso de la tecnología necesaria sin que se favorezca a alguna en lo particular;
+I. Neutralidad tecnológica: que implica hacer uso de la tecnología necesaria sin que se favorezca a alguna en lo particular;
 
 II. Autenticidad: La certeza de que un mensaje de datos ha sido emitido por el firmante y por lo tanto le es atribuible su contenido y las consecuencias jurídicas que del mismo se deriven por la expresión de su voluntad;
 
@@ -123,7 +123,7 @@ V. Integridad: Es cuando el mensaje de datos ha permanecido completo e inalterad
 
 Artículo 5
 
-1. Queda prohibido el uso de 1afirma electrónica certificada a aquellas personas o entidades que realicen actos y negocios jurídicos o procedimientos administrativos que no cumplan con lo establecido por el artículo que antecede, que requieran de la comparecencia de los servidores públicos o de los particulares y para las disposiciones legales que exijan la firma autógrafa.
+1. Queda prohibido el uso de la firma electrónica certificada a aquellas personas o entidades que realicen actos y negocios jurídicos o procedimientos administrativos que no cumplan con lo establecido por el artículo que antecede, que requieran de la comparecencia de los servidores públicos o de los particulares y para las disposiciones legales que exijan la firma autógrafa.
 
 ###### Artículo 6.
 
@@ -135,15 +135,21 @@ Artículo 5
 
 1. La firma electrónica certificada tiene, respecto de la información consignada en el mensaje de datos, el mismo valor que la firma autógrafa tiene, respecto de los datos consignados en papel.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 7 Bis.
+
+1. Los certificados, constancias, copias y cualquier otro documento autorizado electrónicamente que requiera ser insertado o agregado a instrumentos públicos; el notario público, el corredor público o los servidores públicos del Registro Público de la Propiedad y Comercio facultados para ello, deberán transcribir en el instrumento respectivo la constancia impresa que contenga la cadena de autentificación de la firma electrónica de la emisora, o podrán insertar la citada impresión como imagen en el instrumento correspondiente, debiendo conservar en cualquiera de los casos el archivo electrónico respectivo.
+
 ###### Artículo 8.
 
 1. Cuando la firma electrónica se tramite en virtud de un poder o mandato, en el certificado electrónico se deberán incluir los límites con los que se otorgó dicha representación. En caso contrario se estará a lo establecido por la escritura correspondiente o por las disposiciones jurídicas aplicables a la representación en el Código Civil del Estado de Jalisco.
 
 ###### Artículo 9.
 
-I. Para que una firma electrónica certificada se considere válida, debe tener al menos los siguientes requisitos:
+1. Para que una firma electrónica certificada se considere válida, debe tener al menos los siguientes requisitos:
 
-l. Que los datos de creación de la firma electrónica certificada o clave privada, deben corresponder inequívocamente al firmante;
+I. Que los datos de creación de la firma electrónica certificada o clave privada, deben corresponder inequívocamente al firmante;
 
 II. Que los datos de creación de la firma electrónica certificada o clave privada, se encuentren bajo el control exclusivo del firmante desde el momento de su creación;
 
@@ -161,7 +167,7 @@ V. Que esté respaldada por un certificado electrónico expedido por algún pres
 
 1. El certificado electrónico es válido cuando:
 
-l. Es expedido, por un prestador de servicios de certificación debidamente autorizado, para lo cual se deben registrar todos sus datos de identificación y autorización ante la Secretaría o demás autoridades competentes; y
+I. Es expedido, por un prestador de servicios de certificación debidamente autorizado, para lo cual se deben registrar todos sus datos de identificación y autorización ante la Secretaría o demás autoridades competentes; y
 
 III. Responde a las formalidades o formatos estándares reconocidos internacionalmente, fijados por la Secretaría.
 
@@ -169,7 +175,7 @@ Artículo 11
 
 1. El formato de certificado electrónico a que se refiere el artículo anterior contendrán al menos los siguientes datos:
 
-l. La expresión de ser certificado electrónico;
+I. La expresión de ser certificado electrónico;
 
 II. El lugar, fecha y hora de expedición, renovación, suspensión o revocación;
 
@@ -183,13 +189,13 @@ VI. El periodo de vigencia, que en ningún caso podrá ser superior a dos años;
 
 VII. La mención de que puede verificarse la renovación, suspensión o extinción del certificado electrónico;
 
-VIII.- Los límites de uso, en caso de que se establezcan;
+VIII. Los límites de uso, en caso de que se establezcan;
 
 IX. El alcance de la responsabilidad del prestador de servicios de certificación ante el firmante;
 
 X. La referencia de la tecnología empleada para la creación de la firma electrónica certificada; y
 
-XI. Cualquier otro lado o circunstancia particular del firmante que se considere significativo en función del fin propio del certificado electrónico, cuando así lo soliciten.
+XI. Cualquier otro dato o circunstancia particular del firmante que se considere significativo en función del fin propio del certificado electrónico, cuando así lo soliciten.
 
 ###### Artículo 12.
 
@@ -261,11 +267,11 @@ XI. Cualquier otra que se establezca en el certificado electrónico.
 
 1. Sin perjuicio de lo establecido por otros ordenamientos legales, el titular de un certificado electrónico tiene los siguientes derechos:
 
-l. Recibir su certificado electrónico y cuando así lo solicite, constancia de existencia y registro;
+I. Recibir su certificado electrónico y cuando así lo solicite, constancia de existencia y registro;
 
 II. Modificar los datos de creación de su firma electrónica certificada o clave privada, cuando así convenga a su interés;
 
-III. Recibir información sobre el funcionamiento y características de la firma electrónica certificada, las condiciones precisas para la utilización del certificado electrónico y sus limites de uso, los costos del servicio y los términos por los cuáles se obligan el prestador de servicios de certificación y el firmante;
+III. Recibir información sobre el funcionamiento y características de la firma electrónica certificada, las condiciones precisas para la utilización del certificado electrónico y sus límites de uso, los costos del servicio y los términos por los cuáles se obligan el prestador de servicios de certificación y el firmante;
 
 IV. Conocer el domicilio y la dirección electrónica del prestador de servicios de certificación y de la Secretaría para solicitar aclaraciones, presentar quejas o reportes; y
 
@@ -275,7 +281,7 @@ V. Los demás que convenga con el prestador de servicios de certificación.
 
 1. El titular del certificado electrónico tiene las siguientes obligaciones:
 
-l. Proporcionar datos veraces, completos, oportunos y exactos;
+I. Proporcionar datos veraces, completos, oportunos y exactos;
 
 II. Mantener el control exclusivo de los datos de creación de su firma electrónica certificada;
 
@@ -293,15 +299,15 @@ VI. Cualquier otra que se acuerde al momento de la firma del certificado electr�
 
 I. Verificar la fiabilidad de la firma electrónica certificada; y
 
-II. Revisar los límites de uso de la firma electrónica certificada y la validez, suspensión o extinción del certificado electrónico; los elementos necesarios para verificar lo anterior, deberán a disposición del destinatario, a través de prestador de servicios de certificación o del firmante.
+II. Revisar los límites de uso de la firma electrónica certificada y la validez, suspensión o extinción del certificado electrónico; los elementos necesarios para verificar lo anterior, deberán a (sic) disposición del destinatario, a través de prestador de servicios de certificación o del firmante.
 
 ### CAPÍTULO SEXTO. Del prestador de servidos de certificación
 
 ###### Artículo 21.
 
-1. Los servicios de certificación, previa la autorización de la Secretaría, podrán ser prestados por:
+1. Los servicios de certificación, previa autorización de la Secretaría, podrán ser prestados por:
 
-l. Los notarios públicos;
+I. Los notarios públicos;
 
 II. Las personas físicas y jurídicas habilitadas para tal efecto; y
 
@@ -309,7 +315,7 @@ III. Las entidades públicas estatales o municipales.
 
 ###### Artículo 22.
 
-1. Las personas y entidades señaladas en el artículo que antecede pueden solicitar su autorización ante la Secretaria, previo cumplimiento de los siguientes requisitos:
+1. Las personas y entidades señaladas en el artículo que antecede pueden solicitar su autorización ante la Secretaría, previo cumplimiento de los siguientes requisitos:
 
 I. Solicitar por escrito a la Secretaría su autorización como prestador de servicios de certificación;
 
@@ -317,7 +323,7 @@ II. Contar con la infraestructura y elementos humanos, materiales, económicos y
 
 III. Definir y especificar los procedimientos para la tramitación y expedición del certificado electrónico, así como las medidas que garanticen su formalidad, conservación y consulta del registro;
 
-IV. Las personas que operen o accedan a los sistemas de información del prestador de servicios de certificación, no deben haber sido condenados por delito contra el patrimonio o falsedad que ameriten pena privativa de libertad o inhabilitados para desempeñar empleos, cargos o comisiones en el servicio público;
+IV. Las personas que operen o accedan a los sistemas de información del prestador de servicios de certificación, no deben haber sido condenados por delitos contra el patrimonio o falsedad que ameriten pena privativa de libertad o inhabilitados para desempeñar empleos, cargos o comisiones en el servicio público;
 
 V. Otorgar garantía y mantenerla actualizada de acuerdo a los lineamientos y condiciones que estipule la Secretaría en el reglamento respectivo; y
 
@@ -329,7 +335,7 @@ VI. Sujetarse por escrito a las revisiones que determine la Secretaría para com
 
 1. Los prestadores de servicios de certificación tendrán las siguientes obligaciones:
 
-l. Probar, por los medios establecidos en el reglamento, que tiene la capacidad técnica y fiabilidad necesaria para prestar los servicios de certificación;
+I. Probar, por los medios establecidos en el reglamento, que tiene la capacidad técnica y fiabilidad necesaria para prestar los servicios de certificación;
 
 II. Utilizar sistemas confiables que estén protegidos contra todo tipo de alteración y que garanticen la seguridad técnica y jurídica de los procesos de certificación a los que sirven de soporte;
 
@@ -347,7 +353,7 @@ VII. Dar aviso a la Secretaría de los certificados electrónicos que expida y d
 
 VIII. Manejar sistemas confiables que permitan almacenar y conservar los certificados electrónicos sin alteración y susceptibles de comprobar su autenticidad, así como mantener la confidencialidad de los datos personales aportados por el firmante para la creación de su firma electrónica certificada;
 
-IX. Solicitar a la Secretaría y al Archivo de Instrumentos Públicos que verifiquen si existe otro certificado electrónico vigente con fines idénticos, en cuyo caso, se abstendrá de otorgar el certificado electrónico solicitado;
+IX. Solicitar a la Secretaría y al Archivo de Instrumentos Públicos que verifiquen sí existe otro certificado electrónico vigente con fines idénticos, en cuyo caso, se abstendrá de otorgar el certificado electrónico solicitado;
 
 X. No almacenar ni copiar los datos de creación de la firma electrónica certificada de la persona que haya solicitado sus servicios;
 
@@ -355,13 +361,13 @@ XI. Recabar del firmante sólo aquellos datos necesarios para la expedición de 
 
 XII. Abstenerse de certificar su propia firma electrónica; y
 
-XIII. Las demás que establezca esta Ley ti otras disposiciones jurídicas aplicables.
+XIII. Las demás que establezca esta Ley u otras disposiciones jurídicas aplicables.
 
 ###### Artículo 24.
 
 1. Los prestadores de servicios de certificación formularán una declaración de prácticas de certificación que estará disponible al público de manera accesible, gratuita y como mínimo, a través de medios electrónicos, en la que señalarán de conformidad a lo establecido por esta Ley y otras disposiciones jurídicas aplicables:
 
-l. Las obligaciones que se comprometen a cumplir con relación a la creación y verificación de la firma electrónica certificada y expedición de los certificados electrónicos;
+I. Las obligaciones que se comprometen a cumplir con relación a la creación y verificación de la firma electrónica certificada y expedición de los certificados electrónicos;
 
 II. Las condiciones de la solicitud, expedición, uso, suspensión y extinción de la vigencia de los certificados electrónicos;
 
@@ -401,6 +407,18 @@ IV. Por suspensión o cancelación de la autorización emitida por la Secretarí
 
 1. Las sanciones a que hace referencia el artículo que antecede, se aplicarán sin perjuicio a las demás que le pudieran corresponder al prestador de servicios de certificación por la comisión de delitos o por la responsabilidad civil o penal.
 
+###### Artículo 29.
+
+1. Cuando un prestador de servicios de certificación haya sido sancionado de conformidad a lo establecido por el artículo 27 de la presente Ley o haya cesado el ejercicio de sus actividades, su archivo y registro quedarán temporalmente en resguardo del Archivo de Instrumentos Públicos, hasta en tanto no se determine a que prestador de servicios de certificación le serán transferidos.
+
+###### Artículo 30.
+
+1. Cuando el prestador de servicios de certificación sea suspendido de conformidad a lo establecido por el artículo 27, su archivo y registro le serán devueltos dentro de los cinco días hábiles posteriores a la fecha en que se haya cumplido la sanción.
+
+2. En caso de cancelación de la autorización o cese de actividades, el archivo y registro se transferirán de forma definitiva a otro prestador de servicios de certificación.
+
+3. El firmante cuyo certificado electrónico haya sido transferido a otro prestador de servicios de certificación, podrá optar entre quedarse con éste o elegir alguno otro.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero del 2007, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
@@ -411,25 +429,25 @@ TERCERO.- Las reformas contenidas en el artículo tercero del presente decreto r
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
-GUADALAJARA, JALISCO, 23 DE AGOSTO DE 2006-11-16
+GUADALAJARA, JALISCO, 23 DE AGOSTO DE 2006
 
 Diputado Presidente
 
 SALVADOR COSÍO GAONA
 
-(Rúbrica)
+(RÚBRICA)
 
 Diputada Secretaría
 
 CELIA FAUSTO LIZAOLA
 
-(Rúbrica)
+(RÚBRICA)
 
 Diputado Secretario
 
 JESÚS ELÍAS NAVARRO ORTEGA
 
-(Rúbrica)
+(RÚBRICA)
 
 En mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
 
@@ -439,10 +457,16 @@ El Gobernador Constitucional del Estado
 
 LIC. FRANCISCO JAVIER RAMÍREZ ACUÑA
 
-(Rúbrica)
+(RÚBRICA)
 
 El Secretario General de Gobierno
 
 MTRO. GERARDO OCTAVIO SOLÍS GÓMEZ
 
-(Rúbrica)
+(RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
