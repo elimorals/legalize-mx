@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-municipal-del-estado-de-michoacan-de-ocampo-10949
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-25"
-last_updated: "1999-12-30"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO FISCAL MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 25 de agosto de 1997.
 
@@ -89,9 +89,11 @@ Créditos Fiscales son las prestaciones económicas que tiene derecho a percibir
 
 La recaudación proveniente de todos los ingresos del Municipio, aún cuando se destinen a un fin específico, se hará por la Tesorería, excepto la correspondiente a la prestación del servicio de agua potable, alcantarillado y saneamiento, que se hará por los organismos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 8º.
 
-Los créditos o deudas entre los Gobiernos Municipal y Estatal, así como de sus organismos descentralizados municipales, se podrán compensar previo acuerdo que celebren.
+Los créditos o deudas entre los gobiernos Estatal y Municipal, así como de sus organismos descentralizados o empresas de participación estatal, se podrán compensar previo acuerdo que celebren, de conformidad con los términos establecidos en la Ley de Hacienda del Estado de Michoacán de Ocampo.
 
 ###### ARTICULO 9º.
 
@@ -133,15 +135,11 @@ II.- El manifestado para efectos catastrales; y
 
 III.- A falta de los señalados en las fracciones anteriores, el lugar donde se realice el hecho generador de la obligación fiscal.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 15.
 
-En los plazos fijados en días, no se contarán los sábados, los domingos, ni el 1º de enero, 5 de febrero, 21 de marzo, 1o. y 5 de mayo, el día de cada 6 años cuando corresponda al cambio del Titular del Poder Ejecutivo Estatal, 1o, y 16 de septiembre; el día de cada tres años en que se realice la trasmisión de los poderes municipales; el día de cada año en que el presidente municipal dé lectura al informe de gobierno municipal; 19 de octubre, 20 de noviembre, 1º de diciembre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, y el 25 de diciembre.
-
-En los plazos establecidos por periodos y aquellos en los que se señale una fecha determinada para su extinción, se computarán todos los días.
-
-Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que en el primer caso concluye el mismo día del mes de calendario posterior a aquél en que se inició y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquél en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
-
-No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas de las autoridades fiscales permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el día siguiente hábil.
+En los plazos fijados en días, no se contarán los sábados, los domingos, ni el primero de enero, 5 de febrero, 21 de marzo, 1° y 5 de mayo, el día en que corresponda al cambio del Titular del Poder Ejecutivo del Estado, 16 y 30 de septiembre, así como el día en que el Gobernador del Estado dé lectura al Informe de Gobierno correspondiente, 19 de octubre, 1° y 20 de noviembre, 1° de diciembre de cada seis años, cuando corresponda el cambio de Titular del Poder Ejecutivo Federal y el 25 de diciembre.
 
 ###### ARTICULO 16.
 
@@ -383,11 +381,13 @@ VI.- Tramitar y resolver los recursos e inconformidades que ante ellos se interp
 
 VII.- Las demás que les correspondan conforme a este Código y otras disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 30.
 
-La Tesorería y los organismos, a solicitud de los contribuyentes o usuarios, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de un año de conformidad con lo siguiente:
+La Tesorería y los organismos a solicitud de los contribuyentes, podrá autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de 24 meses, de conformidad con lo siguiente:
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 Se procederá a actualizar las contribuciones omitidas y las multas que correspondan, conforme a lo dispuesto por el artículo 19-A de este Código. Asimismo se calcularán los recargos, desde el mes en que debieron pagarse las contribuciones omitidas, hasta aquél en que se conceda la autorización, integrándose el crédito fiscal, de la siguiente forma:
 
@@ -399,25 +399,47 @@ c).- Los recargos por falta de pago oportuno, desde el mes en que debieron pagar
 
 d).- Gastos de ejecución por las diligencias de cobro practicadas hasta la fecha en que se conceda la autorización.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 Tratándose de multas por infracciones a las disposiciones fiscales, impuestas mediante resoluciones notificadas y no pagadas dentro del plazo concedido, éstas serán actualizadas desde el mes en que se debieron pagar y hasta aquél en que se conceda la autorización.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 El monto de la primera parcialidad, será el resultado de dividir el total del crédito fiscal integrado conforme a los incisos anteriores, entre el número de parcialidades solicitadas y previo pago de ésta, se aplicará conforme lo dispuesto por el artículo 19-A de este Código.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 Al monto del crédito fiscal, disminuida la primera parcialidad, se calculará el monto de los recargos por financiamiento, aplicando la tasa correspondiente que establezca la Ley de Ingresos para los Municipios, durante los meses que comprenda el plazo autorizado, desde la segunda hasta la enésima parcialidad de que se trate.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 El crédito determinado conforme al párrafo anterior, se expresará en Unidades de Inversión, dividiendo su importe entre el valor de la Unidad de Inversión, en la fecha de autorización.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 El valor de cada parcialidad restante, se determinará dividiendo el monto del crédito expresado en Unidades de Inversión, entre el resto de parcialidades autorizadas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 Tratándose de la autorización de pago a plazo diferido, una vez actualizadas las contribuciones omitidas y las multas que correspondan, en los términos del segundo párrafo de este artículo, se calcularán los recargos por financiamiento durante los meses que comprenda el plazo que se autorice, aplicando la tasa que para este efecto establezca la Ley de Ingresos para los Municipios.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 El monto del crédito determinado conforme al párrafo anterior, se expresará en Unidades de Inversión, dividiendo su importe entre el valor de la Unidad de Inversión, en la fecha de autorización.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 En la fecha de pago, los montos en Unidades de Inversión se reexpresarán en pesos, conforme al valor que para estos efectos dé a conocer el Banco de México.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 No procederá la autorización a que se refiere este artículo, tratándose de aquellas contribuciones que debieron de pagarse en el año de calendario en curso, o de las que debieron pagarse en los seis meses anteriores, al mes en que se solicite la autorización.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 La Tesorería, en el acuerdo de autorización de pago a plazos, exigirá del contribuyente, que garantice el interés fiscal en cualquiera de las formas que establece el artículo 118 de este Código.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 Quedará insubsistente la autorización de pagar a plazos en forma diferida o en parcialidades, cuando:
 
@@ -583,27 +605,99 @@ II.- Diez días contados a partir del siguiente a aquél en que se le notificó 
 
 Los plazos a que se refiere este artículo se podrán ampliar por las autoridades fiscales hasta por quince días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención, previa solicitud del contribuyente visitado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 47.
 
-Las autoridades fiscales municipales solo podrán determinar presuntivamente el valor de los actos o actividades de los contribuyentes, por los que deben pagar contribuciones, cuando:
+Las autoridades fiscales municipales, podrán determinar presuntivamente, los ingresos y el valor de los actos o actividades por los que deban pagar contribuciones, cuando:
 
-I.- Se opongan u obstaculicen la determinación de las contribuciones que establece la Ley; o
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-II.- Por otras irregularidades que imposibiliten el conocimiento de sus operaciones.
+I. Se opongan u obstáculicen la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales; u omitan presentar la declaración del ejercicio de cualquier contribución hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de un mes desde el día en que venció el plazo para la presentación de la declaración de que se trate; y,
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. No presenten la documentación comprobatoria de más del 3% de alguno de los conceptos de las declaraciones, o no proporcionen los informes relativos que acrediten el cumplimiento de las disposiciones fiscales.
 
 La determinación presuntiva a que se refiere este artículo, procederá independientemente de las sanciones a que haya lugar.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 48.
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales municipales calcularán las bases de las contribuciones de que se trate utilizando medios indirectos de investigación económica o de cualquier otra clase.
+Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales municipales calcularán los ingresos brutos de los contribuyentes, el valor de los actos o actividades, por los que deban pagar contribuciones, sobre los que proceda el pago de contribuciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+I. Utilizando información que obre en poder del contribuyente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Il. Tomando como base los datos contenidos en las declaraciones del ejercicio correspondiente a cualquier contribución, sea del mismo ejercicio o de cualquier otro, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+III. A partir de la información que proporcionen terceros a solicitud de las autoridades fiscales municipales, cuando tengan relación de negocios con el contribuyente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+IV. Con otra información obtenida por las autoridades fiscales municipales en el ejercicio de sus facultades de comprobación; y,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+V. Utilizando medios indirectos de la investigación económica o de cualquier otra clase.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 49.
 
-Para comprobar el valor de los actos o actividades de los contribuyentes, las autoridades fiscales municipales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente, corresponden a operaciones realizadas por éste, cuando:
+Para la comprobación de los ingresos, del valor de los actos o actividades, por los que deban pagar contribuciones, las autoridades fiscales presumirán, salvo prueba en contrario:
 
-I.- Se refieran al contribuyente designado por su nombre, denominación o razón social; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-II.- Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
+I. Que la información contenida en la documentación comprobatoria y correspondencia que se encuentren en poder del contribuyente, corresponde a operaciones celebradas por él, aún cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por el contribuyente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. Que la información contenida en documentación y correspondencia a nombre del contribuyente localizado en poder de personas a su servicio, o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+III. Que los depósitos en la cuenta bancaria del contribuyente que no correspondan a registros de las operaciones de sus actividades, son ingresos y valor de actos o actividades por los que se debe pagar contribuciones.
+
+También se presumirá que los depósitos que efectúen en un Ejercicio Fiscal en las cuentas bancarias de una persona que no esté inscrita en el Registro Estatal de Contribuyentes, son ingresos o valor de actos o actividades por los que se deben pagar contribuciones; y,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+IV. Que son ingresos y valor de actos o actividades de la empresa por los que se deben pagar contribuciones, los depósitos hechos en cuenta de cheques personal de los gerentes, administradores o terceros, cuando efectúen pagos de deudas de la empresa con cheques de dicha cuenta o depositen en la misma, cantidades que correspondan a la empresa.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 49-A.
+
+Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere el artículo 47 de este Código, y no puedan comprobar por el período objeto de revisión sus ingresos, el valor de los actos o actividades, así como las remuneraciones por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las siguientes operaciones:
+
+I. Si con base en la documentación del contribuyente o información de terceros, pudieran reconstruirse las operaciones correspondientes cuando menos a treinta días lo más cercano posible al cierre del ejercicio, el ingreso o el valor de los actos o actividades, así como las remuneraciones por los que deban pagar contribuciones se determinará con base en el promedio diario del periodo reconstruido, el que se multiplicará por el número de días que correspondan al período objeto de la revisión; y,
+
+II. Si la documentación del contribuyente no permite reconstruir las operaciones del período de treinta días a que se refiere la fracción anterior, las autoridades fiscales tomarán como base la totalidad de ingresos o del valor de los actos o actividades, por los que deban pagar contribuciones que observen durante siete días incluyendo los inhábiles, cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión.
+
+Al ingreso o valor de los actos o actividades por los que deban pagar contribuciones, estimados presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa que corresponda.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### ARTICULO 49-B.
+
+Para comprobar los ingresos, el valor de los actos o actividades, por los que deban pagar contribuciones los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente, corresponden a operaciones realizadas por éste, cuando:
+
+I. Se refieran al contribuyente designado por su nombre, denominación o razón social;
+
+II. Señalen como lugar para la entrega o recibo de bienes o prestación de servicios, relacionados con las actividades del contribuyente, cualquiera de sus establecimientos, aún cuando exprese el nombre, denominación o razón social de un tercero, real o ficticio;
+
+III. Señalen el nombre o domicilio de un tercero, real o ficticio, si se comprueba que el contribuyente entrega o recibe bienes o servicios a ese nombre o en ese domicilio; y,
+
+IV. Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
 ###### ARTICULO 50.
 
@@ -701,6 +795,10 @@ c).- Que la comisión de la infracción sea en forma continuada.
 
 III.- Cuando por un acto o una omisión, se infrinjan diversas disposiciones fiscales municipales a las que correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Cuando la multa aplicable a una misma conducta infraccionada, sea modificada posteriormente mediante reforma al precepto legal que la contenga, las autoridades fiscales aplicarán la multa que resulte menor entre la existente en el momento en que se cometió la infracción y la multa vigente en el momento de su imposición.
+
 ###### ARTICULO 61.
 
 Son infracciones relacionadas con el ejercicio de las facultades de las autoridades fiscales municipales, las siguientes:
@@ -717,7 +815,9 @@ A quien cometa las infracciones relacionadas con el ejercicio de las facultades 
 
 I.- De uno a tres tantos del monto de la contribución omitida, si hubo evasión de la misma y puede precisarse su monto; y
 
-II.- En caso contrario, se impondrán multas del equivalente a 30 días de salario mínimo general vigente en el Estado de Michoacán, por cada una de las infracciones señaladas en el artículo anterior.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II.- En caso contrario, se impondrán multas del equivalente a 30 o 45 días de salario mínimo general vigente en el Estado de Michoacán, por cada una de las infracciones señaladas en el artículo anterior.
 
 ###### ARTICULO 63.
 
@@ -735,9 +835,13 @@ IV.- Exigir una prestación que no esté prevista en la Ley, aún cuando se apli
 
 A quien cometa las infracciones a las disposiciones fiscales municipales a que se refiere el artículo anterior, se impondrán las siguientes multas:
 
-I.- Del equivalente a 75 días de salario mínimo general vigente en el Estado de Michoacán, a las comprendidas en las fracciones I y II; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-II.- Del equivalente a 200 días de salario mínimo general vigente en el Estado de Michoacán, a las comprendidas en las fracciones III, IV.
+I. Del equivalente de 75 a 113 días de salario mínimo general vigente en el Estado de Michoacán, a las comprendidas en las fracciones I y II; y,
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. Del equivalente de 200 a 300 días de salario mínimo general vigente en el Estado de Michoacán, a las comprendidas en las fracciones III y IV.
 
 ###### ARTICULO 65.
 
@@ -747,9 +851,11 @@ I.- Colaborar a la alteración de cuentas o asentar datos falsos en los document
 
 II.- Ser cómplice en cualquier forma no prevista, en la comisión de infracciones a las leyes fiscales municipales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 66.
 
-A quien cometa cualquiera de las infracciones señaladas en el artículo anterior, se le impondrá multa del equivalente a 200 días de salario mínimo general vigente en el Estado de Michoacán.
+A quien cometa cualquiera de las infracciones señaladas en el artículo anterior, se le impondrá multa del equivalente de 200 a 300 días de salario mínimo general vigente en el Estado de Michoacán.
 
 ###### ARTICULO 67.
 
@@ -769,13 +875,21 @@ V.- No entregar el boletaje resellado sobrante a la Tesorería, por conducto del
 
 A quien cometa las infracciones a que se refiere el artículo anterior, se impondrán las siguientes multas:
 
-I.- A las comprendidas en las fracciones I y II del equivalente a 5 días de salario mínimo general vigente en el Estado de Michoacán;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-II.- A la comprendida en la fracción III del equivalente al 10% del impuesto que se determine;
+I. A las comprendidas en las fracciones I y II del equivalente de 5 a 8 días de salario mínimo general vigente en el Estado de Michoacán;
 
-III.- A la comprendida en la fracción IV, del equivalente al 50% del impuesto que se determine mediante estimación; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-IV.- A la comprendida en la fracción V, del equivalente al monto del impuesto que se hubiera determinado por el valor de dicho boletaje.
+II. A la comprendida en la fracción III del equivalente del 10% al 15% del impuesto que se determine;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+III. A la comprendida en la fracción IV, del equivalente del 50% al 75% del impuesto que se determine mediante estimación; y,
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+IV. A la comprendida en la fracción V, del equivalente del 100% al 150% del monto del impuesto que se hubiera determinado por el valor de dicho boletaje.
 
 Cuando el contribuyente de este impuesto incurra en más de una de las infracciones a que se refiere el artículo anterior, se le impondrá la sanción más alta que corresponda a aquellas en que se incurra.
 
@@ -793,21 +907,31 @@ A quien cometa las infracciones señaladas en el artículo anterior, se aplicara
 
 I.- Por lo que se refiere al Impuesto Predial, cuando se dé el supuesto previsto en la fracción I:
 
-A) Tratándose de predios Urbanos con cuota mínima anual, el equivalente a 2 días de salario mínimo general vigente en el Estado de Michoacán.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-B) Tratándose de predios rústicos con cuota mínima anual, el equivalente a 1 día de salario mínimo general vigente en el Estado de Michoacán.
+A) Tratándose de predios urbanos con cuota mínima anual, el equivalente de 2 a 3 días de salario mínimo general vigente en el Estado de Michoacán;
 
-C) Tratándose de predios urbanos y rústicos respecto de los cuales el pago se haga bimestralmente, el equivalente a 1 día de salario mínimo general vigente en el Estado de Michoacán, por bimestre omitido.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-II.- Por lo que se refiere al Impuesto sobre Adquisición de Inmuebles, a las comprendidas en las fracciones I y II, el equivalente a 4 días de salario mínimo general vigente en el Estado de Michoacán.
+B) Tratándose de predios rústicos con cuota mínima anual, el equivalente de 1 a 2 días de salario mínimo general vigente en el Estado de Michoacán; y,
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+C) Tratándose de predios urbanos y rústicos respecto de los cuales el pago se haga bimestralmente, el equivalente de 1 a 2 días de salario mínimo general vigente en el Estado de Michoacán, por bimestre omitido.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. Por lo que se refiere al Impuesto sobre adquisición de inmuebles, a las comprendidas en las fracciones I y Il, el equivalente de 4 a 6 días de salario mínimo general vigente en el Estado de Michoacán.
 
 ###### ARTICULO 71.
 
 Es infracción relacionada con los derechos por suministro de agua potable, alcantarillado y saneamiento, independientemente de las que se cometan por infracción a las disposiciones administrativas, no efectuar el pago dentro del plazo que establezcan las disposiciones respectivas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTICULO 72.
 
-A quienes cometan la infracción señalada en el artículo anterior, se aplicará una multa equivalente a 1 día de salario mínimo general vigente en el Estado de Michoacán, cuando el periodo de pago sea bimestral y del 50 % de un día de dicho salario, cuando el periodo de pago sea mensual, por periodo omitido.
+A quienes cometan la infracción señalada en el artículo anterior, se aplicará una multa equivalente de 1 a 2 días de salario mínimo general vigente en el Estado de Michoacán, cuando el periodo de pago sea bimestral y del 50 % de 1 día, o 2 días, de dicho salario, según sea el caso, cuando el periodo de pago sea mensual. Por periodo omitido.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -821,9 +945,13 @@ Son infracciones relacionadas con los derechos por la expedición y renovación 
 
 A quienes cometan las infracciones señaladas en el artículo anterior, se impondrán las multas siguientes:
 
-I.- Tratándose de establecimientos que expendan bebidas alcohólicas al público en general y de la colocación de anuncios, sin las licencias respectivas, por el equivalente a otro tanto de la cuota de derechos que corresponda en cada caso, conforme a la Ley de Ingresos para los Municipios del Estado de Michoacán de Ocampo; y,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-II.- Tratándose de renovación o refrendo anual de licencias, por el equivalente al 50% de las cuotas de derechos que correspondan en cada caso, conforme a la Ley de Ingresos para los Municipios del Estado de Michoacán de Ocampo.
+I. Tratándose de establecimientos que expendan bebidas alcohólicas al público en general y de la colocación de anuncios, sin las licencias respectivas, por el equivalente del 100 % al 150% de la cuota de derechos que corresponda en cada caso, conforme a lo dispuesto en la Ley de Ingresos para los Municipios del Estado de Michoacán de Ocampo, o de la Ley de Ingresos para aquel Municipio, que en forma particular le fue aprobada por el Congreso del Estado, a Iniciativa del Ayuntamiento respectivo; y,
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. Tratándose de renovación o refrendo anual de licencias, por el equivalente del 50% al 75% de las cuotas de derechos que correspondan en cada caso, conforme a lo dispuesto en la Ley de Ingresos para los Municipios del Estado de Michoacán de Ocampo, o de la Ley de Ingresos para aquel Municipio, que en forma particular le fue aprobada por el Congreso del Estado, a Iniciativa del Ayuntamiento respectivo.
 
 ### CAPITULO I. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -1800,3 +1928,13 @@ El presente Decreto iniciará su vigencia el día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan aquellas disposiciones en lo que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley, entrará en vigor el día 1° de enero de 2010, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta a los Ayuntamientos del Estado de Michoacán de Ocampo.
