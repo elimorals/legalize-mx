@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-69793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-29"
-last_updated: "2009-10-31"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de julio de 2009.
 
@@ -367,7 +367,11 @@ XIII.- Participar activamente ante las dependencias y entidades oficiales compet
 
 XIV.- Participar conjuntamente con las autoridades competentes, en la elaboración, revisión y ejecución de los planes municipales de desarrollo urbano, correspondientes a su jurisdicción, así como en la ejecución de sus acciones, para el mejoramiento integral de los municipios; de conformidad con la Ley General de Asentamientos Humanos, la Ley de Desarrollo Urbano del Estado de Chiapas y demás ordenamientos relativos en la materia;
 
-XV.- Regular la propiedad y la tenencia de los predios urbanos y rurales; la planeación y ordenación de los asentamientos humanos y la prestación de los servicios públicos municipales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XV.- Regular la propiedad y la tenencia de los predios urbanos y rurales; la planeación y ordenación de los asentamientos humanos y la prestación de los servicios públicos municipales, en concordancia con la Ley de Fraccionamientos y Conjuntos Habitacionales para el Estado de Chiapas, la Ley sobre el Régimen de Propiedad en Condominio de Bienes Inmuebles del Estado de Chiapas y la Ley de Catastro para el Estado de Chiapas;
 
 XVI.- Impedir que los propietarios de los predios urbanos y rústicos, obstruyan o cambien los caminos vecinales o las servidumbres de paso y cualquier otra. Los cambios procederán con fundamento en las leyes o por acuerdo del propio ayuntamiento;
 
@@ -379,7 +383,11 @@ XIX.- Administrar el programa de desarrollo urbano y zonificación prevista en e
 
 XX.- Promover y apoyar el desarrollo de programas de vivienda popular y de interés social, suscribiendo convenios de coordinación de acciones con las dependencias y organismos correspondientes del Ejecutivo del Estado;
 
-XXI.- Otorgar licencias y permisos para construcción observando las disposiciones de la Ley General de Asentamientos Humanos, la Ley de Desarrollo Urbano del Estado de Chiapas, la Ley de Fraccionamientos del Estado de Chiapas y demás disposiciones aplicables;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XXI.- Otorgar licencias y permisos para construcción observando las disposiciones de la Ley General de Asentamientos Humanos, la Ley de Desarrollo Urbano del Estado de Chiapas, la Ley de Fraccionamientos y Conjuntos Habitacionales para el Estado de Chiapas, la Ley sobre el Régimen de Propiedad en Condominio de Bienes Inmuebles del Estado de Chiapas, la Ley de Catastro para el Estado de Chiapas y demás disposiciones aplicables;
 
 XXII.- Participar en el ámbito de su competencia, y en coordinación con la Federación y el Estado, en la planeación y regulación del desarrollo de los centros urbanos involucrados en procesos de conurbación;
 
@@ -1359,7 +1367,11 @@ IX.- Las características a que deban sujetarse las construcciones privadas y p�
 
 X.- Las características de la construcción y distribución de la infraestructura, servicios y equipos urbanos;
 
-XI.- Las características y especificaciones de las fusiones, subdivisiones, relotificaciones, fraccionamientos y demás modalidades de los terrenos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XI.- Las características y especificaciones de las fusiones, subdivisiones, relotificaciones, fraccionamientos y demás modalidades de los terrenos, en concordancia con la Ley de Fraccionamientos y Conjuntos Habitacionales para el Estado de Chiapas, la Ley sobre el Régimen de Propiedad en Condominio de Bienes Inmuebles del Estado de Chiapas y la Ley de Catastro para el Estado de Chiapas;
 
 XII.- A la preservación, conservación, restablecimiento y mejoramiento del medio ambiente y para la erradicación de la contaminación del agua, del suelo y de la atmósfera;
 
@@ -1893,7 +1905,7 @@ a).- Multa hasta de 50 veces el salario mínimo general vigente; y,
 
 b).- Revocación de la concesión, licencia o permiso.
 
-## Título X. De las Suplencias, Desaparición de Ios Ayuntamientos y Responsabilidades de los Servidores Públicos Municipales
+## Título X. De las Suplencias, Desaparición de los Ayuntamientos y Responsabilidades de los Servidores Públicos Municipales
 
 ### Capítulo IV. De la Renovación del Cargo a los Integrantes del Ayuntamiento
 
@@ -2086,3 +2098,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los Ayuntamientos deberán contemplar dentro de su presupuesto de egresos del ejercicio 2010, recursos financieros y humanos necesarios para cumplir con el presente Decreto.
 
 Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+Primero.- El presente Decreto entrará en vigor el día primero de enero de dos mil diez.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
