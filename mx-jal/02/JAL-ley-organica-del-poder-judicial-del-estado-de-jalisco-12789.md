@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2008-01-24"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -121,11 +121,11 @@ El plazo se computará a partir de la fecha en que rindan la protesta, el cual d
 
 En los casos de promoción, la inamovilidad en el nuevo empleo se adquirirá al transcurrir el plazo correspondiente a su ejercicio.
 
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 8 Bis.
 
-Los magistrados, consejeros, jueces y demás servidores públicos del Poder Judicial percibirán una remuneración adecuada e irrenunciable, misma que deberá encontrarse establecida en el Presupuesto de Egresos respectivo y ser acorde a la ley, sin que bajo ninguna circunstancia, puedan recibir bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación, de conformidad con lo dispuesto por el artículo 111 de la Constitución Política del Estado de Jalisco, y demás normatividad aplicable.
+Los magistrados, consejeros, jueces y demás servidores públicos del Poder Judicial percibirán una remuneración adecuada e irrenunciable, misma que deberá encontrarse establecida en el Presupuesto de Egresos respectivo y ser acorde a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables, sin que bajo ninguna circunstancia, puedan recibir ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración.
 
 ###### Artículo 9.
 
@@ -3311,7 +3311,7 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de la entrada 
 
 SEGUNDO.- El Consejo de la Judicatura deberá reglamentar las nuevas atribuciones adquiridas 60 días después de publicado el presente decreto.
 
-TERCERO.- La Oficialías de Partes Común del Supremo Tribunal de Justicia deberá recibir escritos de juzgados hasta cumplidos 60 días de publicado el presente decreto, transcurridos los cuales, será sustituida para esos efectos por la Oficialía de Partes común dependiente del Consejo de la Judicatura.
+TERCERO.- La Oficialía de Partes Común del Supremo Tribunal de Justicia deberá recibir escritos de juzgados hasta cumplidos 60 días de publicado el presente decreto, transcurridos los cuales, será sustituida para esos efectos por la Oficialía de Partes común dependiente del Consejo de la Judicatura.
 
 CUARTO.- Las reformas al artículo 20 y demás relativos, de la Ley Orgánica del Poder Judicial del Estado, contenidas en el Artículo Único del presente decreto, aplicarán en beneficio del Presidente del Supremo Tribunal de Justicia electo para el periodo en vigencia.
 
@@ -3346,3 +3346,7 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El presente decreto no se mandará publicar hasta en tanto no se haya publicado la reforma a los artículos 56 y 58 de la Constitución local que se dictaminó previamente y por separado, y producto de las mismas iniciativas.
 
 TERCERO. Se derogan todas las normas y disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
