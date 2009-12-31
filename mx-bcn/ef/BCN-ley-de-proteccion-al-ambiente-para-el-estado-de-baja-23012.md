@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2008-11-14"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -1669,9 +1669,11 @@ IV. Tramitar y obtener las autorizaciones correspondientes a que se refiere esta
 
 Las autoridades que tengan a su cargo la promoción y el fomento de las actividades agropecuarias, vigilarán y regularán que en la aplicación y empleo de plaguicidas, fertilizantes o sustancias tóxicas, no se provoque contaminación del suelo y así evitar daños a los seres humanos, al ambiente, cultivos y áreas circunvecinas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 141.
 
-(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
+Dentro del ámbito territorial del Estado, los establecimientos de servicios comerciales que tengan por actividad la utilización, facilitación y obsequio de bolsas de plástico para fines de envoltura y carga, deberán de utilizar aquellos fabricados solamente con materiales que faciliten su reuso, reciclado o de pronta biodegradación.
 
 > <small>(DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2322,3 +2324,13 @@ P.O. 27 DE JUNIO DE 2008.
 P.O. 14 DE NOVIEMBRE DE 2008.
 
 ÚNICO.- Las presentes reformas entraran en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+PRIMERO.- En el ámbito territorial del Estado de Baja California, las personas físicas y morales que se dediquen al obsequio de bolsas de plástico construidos con materiales derivados del petróleo, contarán con un plazo de 365 días a efecto de sustituir estos artículos por otros materiales que faciliten su reuso, reciclado o de pronta biodegradación a fin de proteger el medio ambiente.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, dentro del ámbito legal de sus atribuciones, deberá de emitir la normatividad y ajustar su reglamentación en la materia a los fines y objetivos de esta reforma.
+
+TERCERO.- Los municipios del Estado, dentro del ámbito legal de sus competencias, deberán de ajustar su normatividad reglamentaria en la materia a los fines y objetivos de esta reforma.
+
+CUARTO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
