@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2008-12-24"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -403,9 +403,9 @@ Los ingresos recaudados por el Impuesto Sobre Nóminas se destinarán íntegrame
 
 I. El 62.4% de estos recursos se entregarán al Gobierno del Estado para su aplicación conforme los mecanismos que el mismo acuerde;
 
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009) (F. DE E., B.O. 10 DE SEPTIEMBRE DE 2010)
 
-II. El 37.6% restantes se distribuirá entre los Municipios del Estado conforme a los porcentajes establecidos en el artículo 6 de la Ley de Coordinación Fiscal del Estado de Baja California Sur. El 53.2% de lo que reciba cada municipio por este concepto, deberá aportarlo mensualmente al patrimonio del Fideicomiso para Obras de Infraestructura Social constituido en su municipio; el 46.8% restante podrá ejercerlo de manera directa en obras de infraestructura social, o depositarlo en el citado fideicomiso.
+II.- El 37.6 % restante se distribuirá entre los municipios del Estado conforme a los porcentajes establecidos en el artículo 6 de la ley de Coordinación Fiscal del Estado de Baja California Sur. El 53.2% de estos recursos será depositado directamente por la Secretaría de Finanzas del Gobierno del Estado al patrimonio del Fideicomiso para Obras de Infraestructura Social constituido en cada municipio; el· 46.8% restante lo recibirá cada municipio y podrá ejercerlo de manera directa en obras de infraestructura social o depositarlo en citado fideicomiso.
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
@@ -1074,3 +1074,7 @@ B.O. 11 DE MARZO DE 2008.
 B.O. 24 DE DICIEMBRE DE 2008.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del uno de enero del año dos mil diez, previa su publicación, en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
