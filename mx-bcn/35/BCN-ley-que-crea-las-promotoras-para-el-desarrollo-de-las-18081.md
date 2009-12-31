@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-las-promotoras-para-el-desarrollo-de-las-18081"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-20"
-last_updated: "2006-05-19"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY QUE CREA LAS PROMOTORAS PARA EL DESARROLLO DE LAS COMUNIDADES RURALES Y POPULARES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO DEL DECRETO No. 344, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 2000.
 
@@ -482,3 +484,25 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 P.O. 19 DE MAYO DE 2006.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Las disposiciones contenidas en el Artículo Tercero del presente Decreto entrarán en vigor a los veinte días hábiles siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite y pendiente de resolución en las Promotoras para el Desarrollo de las Comunidades Rurales y Populares de Mexicali y Tijuana, al momento de entrar en vigor las presentes disposiciones, serán resueltos por la Secretaría de Desarrollo Social y Secretaría de Infraestructura y Desarrollo Urbano, o a la Unidad Administrativa que el Ejecutivo del Estado determine.
+
+TERCERO.- Continuarán en vigor los actos, resoluciones, acuerdos y las disposiciones de carácter general emitidas con fundamento en la Ley que crea las Promotoras para el Desarrollo de las Comunidades Rurales y Populares del Estado de Baja California que se abroga mediante el Artículo Tercero del presente Decreto, en lo que no se opongan al mismo; así como los poderes, mandatos y, en lo general, las representaciones otorgadas y las facultades concedidas, hasta en tanto no sean modificadas o revocadas expresamente.
+
+Los créditos fiscales generados a favor de la Promotora para el Desarrollo de las Comunidades Rurales y Populares Tijuana y de la Promotora para el Desarrollo de las Comunidades Rurales y Populares Mexicali, que hasta la fecha de entrada en vigor del Artículo Tercero del presente Decreto, queden sin cubrir, por obras realizadas en la zona de su competencia, pasarán a formar parte del patrimonio del Ejecutivo Estatal, para efecto de que se recauden y cobren por conducto de la Secretaría de Planeación y Finanzas o por la autoridad que ésta designe.
+
+CUARTO.- Las acciones que se venían desarrollando por la Promotora para el Desarrollo de las Comunidades Rurales y Populares Mexicali, así como la Promotora para el Desarrollo de las Comunidades Rurales y Populares Tijuana, continuarán desarrollándose por conducto de la Secretaría de Desarrollo Social y la Secretaría de Infraestructura y Desarrollo Urbano, o la Unidad Administrativa que el Ejecutivo del Estado determine.
+
+QUINTO.- Los nombramientos de los integrantes de la Junta Directiva correspondientes a los representantes de organizaciones campesinas y de los representantes de habitantes de colonias populares otorgados con fundamento en la Ley que crea las Promotoras para el Desarrollo de las Comunidades Rurales y Populares del Estado de Baja California que se abroga, quedan sin efecto una vez que entre en vigor el Artículo Tercero del presente Decreto.
+
+SEXTO.- Dentro del plazo de veinte días hábiles a que se refiere el Artículo Primero Transitorio del Artículo Tercero del presente Decreto, el Ejecutivo Estatal podrá adoptar las medidas normativas, presupuestales, patrimoniales, laborales y demás que resulten necesarias para dar cumplimiento a los efectos del Artículo Tercero del presente Decreto, en términos de la normatividad que resulte aplicable.
+
+Asimismo, dentro del plazo señalado en el párrafo anterior, las Promotoras para el Desarrollo de las Comunidades Rurales y Populares Mexicali y Tijuana, deberán enviar la Cuenta Pública del Ejercicio Fiscal de 2009 en los términos de la Ley de Fiscalización Superior para el Estado de Baja California.
+
+Consecuentemente, la Secretaría de Infraestructura y Desarrollo Urbano, en coordinación con la Secretaría de Planeación y Finanzas del Estado de Baja California solventará las observaciones efectuadas por el Órgano de Fiscalización Superior sobre la Cuenta Pública del Ejercicio Fiscal de 2009.
+
+SÉPTIMO.- Se derogan las disposiciones que se opongan al Artículo Tercero del presente Decreto.
