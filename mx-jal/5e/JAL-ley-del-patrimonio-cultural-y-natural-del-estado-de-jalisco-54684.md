@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-patrimonio-cultural-y-natural-del-estado-de-jalisco-546
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-13"
-last_updated: "2008-06-12"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PATRIMONIO CULTURAL Y NATURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 13 de febrero de 2007.
 
@@ -157,7 +157,7 @@ El patrimonio cultural y natural es el conjunto de manifestaciones producto de l
 
 Por determinación de esta ley el patrimonio cultural y natural del Estado y de sus municipios se conforma por:
 
-l. Los bienes inmuebles y zonas de protección determinados e identificados en los planes de desarrollo urbano, los programas de ordenamiento ecológico y el inventario de bienes culturales;
+I. Los bienes inmuebles y zonas de protección determinados e identificados en los planes de desarrollo urbano, los programas de ordenamiento ecológico y el inventario de bienes culturales;
 
 II. Los bienes Inmuebles del dominio público o privado destinados al uso común o a un servicio público;
 
@@ -227,13 +227,17 @@ VIII. Preservar y promover las manifestaciones de la cultura local y la de los g
 
 IX. Apoyar a los ayuntamientos en el incremento del patrimonio cultural mediante el estímulo de aquellas obras que cumplan los requisitos previstos por esta ley, tales como monumentos, bustos, conjuntos escultóricos, placas conmemorativas, plazas, plazoletas, paseos o elementos de ornato;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-X. Apoyar a los municipios en las acciones de rescate, remozamiento y restauración de aquellos bienes que integren su patrimonio cultural y natural, y
+X. Apoyar a los municipios en las acciones de rescate, remozamiento y restauración de aquellos bienes que integren su patrimonio cultural y natural;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-XI. Las demás que le confieran esta ley y otras disposiciones jurídicas aplicables a la materia.
+XI. Difundir y promover el conocimiento y valoración del Escudo del Estado, en los términos de la Ley Sobre el Escudo de Armas del Estado de Jalisco, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XII. Las demás que le confieran esta ley y otras disposiciones jurídicas aplicables a la materia.
 
 ###### Artículo 11.
 
@@ -249,13 +253,13 @@ IV. Ejecutar y evaluar el Programa Estatal de Protección del Patrimonio Cultura
 
 V. Gestionar los convenios de coordinación y colaboración a que se refiere el párrafo V del artículo que antecede;
 
-VI. Promover, en coordinación con los (las) entidades estatales y municipales, la constitución de organismos sociales que coadyuven en el cumplimiento del objeto del la presente Ley, fomenten los valores culturales del Estado y Municipios y apoyen sus actividades culturales;
+VI. Promover, en coordinación con los (sic) entidades estatales y municipales, la constitución de organismos sociales que coadyuven en el cumplimiento del objeto del la presente Ley, fomenten los valores culturales del Estado y Municipios y apoyen sus actividades culturales;
 
 VII. Otorgar o negar las autorizaciones relativas a intervenciones de bienes del dominio público o privado integrantes del patrimonio cultural y natural del Estado conforme a esta ley;
 
 VIII. Ejecutar, las obras necesarias para la restauración, conservación o mejoramiento de los bienes y zonas de protección afectos al patrimonio cultural y natural del Estado, en caso de notorio deterioro o peligro de pérdida de los mismos podrá ordenar la ejecución de medidas preventivas que tiendan a su salvaguarda, hasta en tanto no se emitan los dictámenes necesarios por el Consejo;
 
-IX. Coordinarse con él Procuraduría de Desarrollo Urbano y la SEMADES en la recepción y atención de las solicitudes y denuncias relacionadas con el patrimonio cultural y natural del Estado;
+IX. Coordinarse con la Procuraduría de Desarrollo Urbano y la SEMADES en la recepción y atención de las solicitudes y denuncias relacionadas con el patrimonio cultural y natural del Estado;
 
 X. Coordinar acciones con la SEMADES y las dependencias estatales encargadas del ordenamiento y planeación de los asentamientos humanos, para restaurar, conservar y mejorar los bienes y áreas de protección afectos al patrimonio cultural y natural del Estado;
 
@@ -313,7 +317,7 @@ III. Las demás disposiciones que le otorgue la presente Ley, la Ley de Desarrol
 
 Para los efectos de la presente Ley, la Procuraduría de Desarrollo Urbano, tendrá las siguientes atribuciones:
 
-Gestionar ante la entidad pública estatal o municipal competente y en su caso, ante los tribunales administrativos, la modalidad de licencias o permisos relativos a intervenciones de bienes inmuebles integrantes del patrimonio cultural o natural, cuando se contravenga lo establecido por la presente Ley o demás normatividad aplicable, particularmente la preservación del entorno de los bienes declarados patrimonio.
+Gestionar ante la entidad pública estatal o municipal competente y en su caso, ante los tribunales administrativos, la nulidad de licencias o permisos relativos a intervenciones de bienes inmuebles integrantes del patrimonio cultural o natural, cuando se contravenga lo establecido por la presente Ley o demás normatividad aplicable, particularmente la preservación del entorno de los bienes declarados patrimonio.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2008)</small>
 
@@ -341,11 +345,11 @@ IX. Celebrar con el Poder Ejecutivo, la Federación, los estados de la Repúblic
 
 Tratándose de monumentos históricos, artísticos y arqueológicos de carácter federal dentro de su jurisdicción los ayuntamientos deberán observar los lineamientos generales de coordinación y colaboración con las entidades federales en la materia;
 
-X. Establecer en sus layes de ingresos del ejercicio fiscal correspondiente, estímulos para los propietarios o poseedores de bienes y áreas de protección que estén declarados e inscritos en el Registro, que cumplan con lo establecido dentro de la presente Ley con relación a la restauración, conservación y mejoramiento de los mismos;
+X. Establecer en sus leyes de ingresos del ejercicio fiscal correspondiente, estímulos para los propietarios o poseedores de bienes y áreas de protección que estén declarados e inscritos en el Registro, que cumplan con lo establecido dentro de la presente Ley con relación a la restauración, conservación y mejoramiento de los mismos;
 
-XI Promover inversiones y. acciones que tiendan a conservar, mejorar y acrecentar los bienes y áreas de protección afectos al patrimonio cultural y natural;
+XI. Promover inversiones y. acciones que tiendan a conservar, mejorar y acrecentar los bienes y áreas de protección afectos al patrimonio cultural y natural;
 
-XII. Promover la constitución y participación de organismos sociales que se vinculen con el cumplimiento de los fines de la presente Ley y realizar convenlos y acuerdos con éstos, a efecto de apoyarlos para el desarrollo de sus actividades;
+XII. Promover la constitución y participación de organismos sociales que se vinculen con el cumplimiento de los fines de la presente Ley y realizar convenios y acuerdos con éstos, a efecto de apoyarlos para el desarrollo de sus actividades;
 
 XIII. Coordinar y promover en conjunto con entidades federales, la participación de organismos sociales en actividades de vigilancia, restauración, conservación y mejoramiento de los bienes y zonas de propiedad federal;
 
@@ -365,7 +369,7 @@ XVI. Ejercer las acciones de rescate, remozamiento y restauración de aquellos b
 
 XVII. Las atribuciones que le otorguen esta ley y demás normatividad aplicable en la materia.
 
-###### Articulo 18.
+###### Artículo 18.
 
 Los ayuntamientos deberán expedir su reglamentación y normatividad relativa al patrimonio cultural y natural de su municipio.
 
@@ -387,11 +391,11 @@ I. Construir, restaurar o mejorar edificios, a efecto de exhibir monumentos arqu
 
 II. Colaborar en la restauración, conservación y mejoramiento de los monumentos arqueológicos, artísticos e históricos y zonas de monumentos;
 
-III. Auxiliar los inspectores de monumentos arqueológicos, artísticos e históricos y zonas de monumentos, cuando éstos así lo soliciten;
+III. Auxiliar a los inspectores de monumentos arqueológicos, artísticos e históricos y zonas de monumentos, cuando éstos así lo soliciten;
 
 IV. Negar cualquier licencia de obra en las colindancias o en las zonas de monumentos arqueológicos, artísticos y (sic) históricos, sin la previa autorización de la entidad federal competente;
 
-V. Promover la formación de organismos de la sociedad civil o en su caso, la unión de campesinos, para que sean considerados como órganos auxiliares que impidan el saqueo, deterioro o destrucción monumentos arqueológicos, artísticos e históricos monumentos y zonas de monumentos que establezcan museos regionales;
+V. Promover la formación de organismos de la sociedad civil o en su caso, la unión de campesinos, para que sean considerados como órganos auxiliares que impidan el saqueo, deterioro o destrucción (sic) monumentos arqueológicos, artísticos e históricos y zonas de monumentos y que establezcan museos regionales;
 
 VI. Suspender las obras que en casos urgentes puedan constituir saqueo, daño, deterioro destrucción de los monumentos arqueológicos, artísticos e históricos y zonas de monumentos, notificándolo a la autoridad competente a la brevedad posible; y
 
@@ -411,7 +415,7 @@ Los particulares pueden promover, ante la entidad estatal o municipal correspond
 
 ###### Artículo 24.
 
-Las entidades estatales y municipales podrán suscribir acuerdos, convenios y. contratos con los particulares y con los organismos de la sociedad sociales, a efecto de coordinar acciones y medidas que permitan dar cumplimiento al establecido por la presente Ley.
+Las entidades estatales y municipales podrán suscribir acuerdos, convenios y. contratos con los particulares y con los organismos de la sociedad sociales, a efecto de coordinar acciones y medidas que permitan dar cumplimiento a lo establecido por la presente Ley.
 
 ###### Artículo 25.
 
@@ -449,7 +453,7 @@ VI. Las demás que les otorguen la presente Ley (sic) demás normatividad aplica
 
 Los organismos de consulta y apoyo deberán reunir los siguientes requisitos:
 
-l. Estar debidamente registrados ante la Secretaría o la entidad municipal que corresponda; y
+I. Estar debidamente registrados ante la Secretaría o la entidad municipal que corresponda; y
 
 II. Constituirse conforme a lo dispuesto por el Código Civil del Estado de Jalisco.
 
@@ -471,7 +475,7 @@ III. Proponer a la Secretaría las normas técnicas, especificaciones, proyectos
 
 IV. Realizar, en conjunto con la Secretaría, la supervisión de las intervenciones que se realicen a los bienes afectos al patrimonio cultural y natural
 
-V. Emitir opinión técnica respecto de los permisos y licencias concedan las entidades federales, estatales o municipales relativas al patrimonio cultural y natural del Estado;
+V. Emitir opinión técnica respecto de los permisos y licencias que concedan las entidades federales, estatales o municipales relativas al patrimonio cultural y natural del Estado;
 
 VI. Emitir opinión técnica y participar en la formulación del Programa Estatal de Turismo Cultural, planes, programas, estudios, reglamentos, proyectos y otras actividades que promuevan las, entidades, federales, estatales y municipales que afecten al patrimonio cultural y natural del Estado;
 
@@ -581,7 +585,7 @@ II. Presidir las sesiones de la Junta de Gobierno; y
 
 III. Reunirse mensualmente con el Director, a efecto de conocer el estado que guardan los acuerdos de la Junta de Gobierno.
 
-###### Articulo 37.
+###### Artículo 37.
 
 El Secretario de la Junta de Gobierno deberá:
 
@@ -627,13 +631,13 @@ Los Comités son los órganos colegiados de carácter consultivo, de coordinaci�
 
 Los Comités tendrán las siguientes atribuciones:
 
-l. Determinar los bienes y áreas de protección afectos al patrimonio cultural y natural del Estado que se encuentran dentro de los límites de la región que corresponda;
+I. Determinar los bienes y áreas de protección afectos al patrimonio cultural y natural del Estado que se encuentran dentro de los límites de la región que corresponda;
 
 II. Reconocer los monumentos arqueológicos artísticos e históricos y zonas de monumentos de carácter federal, que se localizan dentro de su región;
 
 III. Elaborar los proyectos necesarios que permitan ubicar, establecer y desarrollar lugares, zonas o corredores, donde se sitúen bienes y áreas de protección afectos al patrimonio, cultural y natural del Estado, ya sea dentro de un solo municipio o bien a lo largo de la región que corresponda, a efecto de promocionar y fomentar su desarrollo económico y turístico;
 
-IV. Realizar la propuesta, basada en estudios y dictámenes, que determinen los recursos económicos y proyectos necesarios para restaurar, conservar y mejorar los bienes y áreas de protección efectos al patrimonio cultural y natural ubicados en la región;
+IV. Realizar la propuesta, basada en estudios y dictámenes, que determinen los recursos económicos y proyectos necesarios para restaurar, conservar y mejorar los bienes y áreas de protección afectos al patrimonio cultural y natural ubicados en la región;
 
 V. Proponer el establecimiento e implementación de las acciones y medidas necesarias para aprovechar, difundir y promocionar los bienes y áreas de protección afectos al patrimonio cultural del Estado en la región;
 
@@ -709,9 +713,9 @@ c) Políticas financieras y presupuestales;
 
 d) Acciones de detección de áreas y valores de alto riesgo de deterioro o desaparición del patrimonio cultural y natural del Estado;
 
-e) Diseño e instrumentación de estímulos para, propietarios y propietarios de bienes afectos al patrimonio cultural y natural del Estado;
+e) Diseño e instrumentación de estímulos para, propietarios y poseedores de bienes afectos al patrimonio cultural y natural del Estado;
 
-f).Campañas de difusión sobre el valor e importancia de la protección del patrimonio cultural y natural del Estado;
+f) Campañas de difusión sobre el valor e importancia de la protección del patrimonio cultural y natural del Estado;
 
 g) La participación y las medidas de concertación y consulta con los organismos de la sociedad civil en el Estado, y en su caso, con los, municipios;
 
@@ -735,7 +739,7 @@ El Programa Municipal de Protección al Patrimonio Cultural y Natural, deberá s
 
 El Programa Municipal de Protección al Patrimonio Cultural y Natural deberá dar continuidad a las acciones y medidas de restauración conservación y mejoramiento que se hayan establecido en el programa municipal que antecede, para lo cual se podrá ratificar o modificar el ya existente.
 
-###### Articulo 49.
+###### Artículo 49.
 
 El Programa Municipal de Protección al Patrimonio Cultural y Natural deberá contener como mínimo, los mismos requisitos que se establecen para el Programa Estatal de Protección al Patrimonio Cultural Natural, dentro del ámbito de su competencia.
 
@@ -761,7 +765,7 @@ I. Nombre y domicilio del promovente;
 
 II. Descripción del bien o área objeto de la solicitud; y
 
-III. Exposición de los motivos en 105 que funde su petición.
+III. Exposición de los motivos en los que funde su petición.
 
 ###### Artículo 54.
 
@@ -805,7 +809,7 @@ VIII. Cualquier otra circunstancia que se considere como necesaria para el cumpl
 
 ###### Artículo 59.
 
-Cuando la Secretaría considere que un dictamen técnico no es viable, deberá notificar al Consejo, a efecto de que, dentro de los diez días hábiles siguientes, manifieste por escrito lo que a su derecho convenga, en caso contrario, el Consejo deberá notificar la resolución de la Secretaría al promoverte de la declaratoria.
+Cuando la Secretaría considere que un dictamen técnico no es viable, deberá notificar al Consejo, a efecto de que, dentro de los diez días hábiles siguientes, manifieste por escrito lo que a su derecho convenga, en caso contrario, el Consejo deberá notificar la resolución de la Secretaría al promovente de la declaratoria.
 
 ###### Artículo 60.
 
@@ -823,7 +827,7 @@ I. Nombre y domicilio del promovente;
 
 II. Los documentos que acrediten la propiedad o posesión del bien o área afectado;
 
-III. Narración de hechos y fundamentos sobre la ilegalidad de acto; y
+III. Narración de hechos y fundamentos sobre la ilegalidad del acto; y
 
 IV. Las pruebas que demuestren lo señalado en el punto anterior.
 
@@ -855,7 +859,7 @@ La inscripción en el Registro de los bienes muebles propiedad de los particular
 
 ###### Artículo 67.
 
-La inscripción de un bien afecto al patrimonio cultural o natural del Estado, no determina su autenticidad la certificación de autenticidad se expedirá a través del procedimiento que establezca el reglamento respectivo.
+La inscripción de un bien afecto al patrimonio cultural o natural del Estado, no determina su autenticidad. La certificación de autenticidad se expedirá a través del procedimiento que establezca el reglamento respectivo.
 
 ###### Artículo 68.
 
@@ -893,7 +897,7 @@ La revisión y actualización de los inventarios y catálogos de los bienes y á
 
 El inventario al que se refiere el presente capítulo, se organizará conforme a lo establecido por su reglamento.
 
-###### Articulo 76.
+###### Artículo 76.
 
 El Consejo difundirá un catálogo con una descripción ilustrada y detallada de los bienes con valor artístico y áreas de protección afectos al patrimonio cultural y natural del Estado.
 
@@ -913,7 +917,7 @@ La entidad municipal competente autorizará las intervenciones que se lleven a c
 
 Para llevar a cabo cualquier intervención, previamente el Consejo deberá observar las siguientes medidas:
 
-l. Elaborar un proyecto de restauración que deberá estar precedido por un cuidadoso y detallado estudio del bien o área de protección;
+I. Elaborar un proyecto de restauración que deberá estar precedido por un cuidadoso y detallado estudio del bien o área de protección;
 
 II. El proyecto de restauración deberá basarse en un levantamiento planimétrico, gráfico, fotográfico y en su caso, topográfico completo; y
 
@@ -933,7 +937,7 @@ II. Nombre y domicilio del propietario o poseedor del bien o área de protecció
 
 III. Planos, especificaciones y características de la obra;
 
-IV. Plano, descripción y fotografías del estado en que se encuentra el bien o área de protección, antes de las obras o acciones de intervención; y
+IV. Plano, descripción y fotografías del estado en que se encuentra el bien o área de protección, antes de las obras o acciones de intervención; y (sic)
 
 V. Número de inscripción en el Registro.
 
@@ -997,7 +1001,7 @@ La Secretaría, en coordinación con el Consejo, promoverá ante las entidades e
 
 ###### Artículo 91.
 
-El Titular del Poder Ejecutivo reservará, al menos el uno por ciento de la cantidad asignada para obra pública en el proyecto del presupuesto de egresas del ejercicio fiscal de que se trate, a fin de invertirlo en la investigación, restauración, conservación, mejoramiento, identificación, acrecentamiento y difusión de los bienes y áreas de protección integrantes del patrimonio cultural y natural del Estado, así como las becas y estímulos a que hace referencia el presente capítulo.
+El Titular del Poder Ejecutivo reservará, al menos el uno por ciento de la cantidad asignada para obra pública en el proyecto del presupuesto de egresos del ejercicio fiscal de que se trate, a fin de invertirlo en la investigación, restauración, conservación, mejoramiento, identificación, acrecentamiento y difusión de los bienes y áreas de protección integrantes del patrimonio cultural y natural del Estado, así como las becas y estímulos a que hace referencia el presente capítulo.
 
 ###### Artículo 92.
 
@@ -1011,7 +1015,7 @@ Cualquier acto u omisión que contravenga lo dispuesto por la presente Ley, prog
 
 ###### Artículo 94.
 
-Las sanciones por los actos u omisiones que contravengan lo dispuesto por el presente ordenamiento; serán las mismas que contemplan las Layes de Desarrollo Urbano y Estatal del Equilibrio Ecológico y la protección al Ambiente, sus reglamentos y demás disposiciones jurídicas que para tal efecto emitan los Ayuntamientos.
+Las sanciones por los actos u omisiones que contravengan lo dispuesto por el presente ordenamiento; serán las mismas que contemplan las Leyes de Desarrollo Urbano y Estatal del Equilibrio Ecológico y la protección al Ambiente, sus reglamentos y demás disposiciones jurídicas que para tal efecto emitan los Ayuntamientos.
 
 ###### Artículo 95.
 
@@ -1083,7 +1087,7 @@ MARTHA RUTH DEL TORO GAYTÁN
 
 (RÚBRICA)
 
-En mérito del lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
+En mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
 
 Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 31 treinta y un días del mes de enero de 2007 dos mil siete.
 
@@ -1102,3 +1106,7 @@ C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ.
 P.O. 12 DE JUNIO DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
