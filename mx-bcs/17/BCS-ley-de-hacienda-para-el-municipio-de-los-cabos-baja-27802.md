@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2007-12-31"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -227,33 +227,11 @@ h). Los usuarios y posesionarios bajo cualquier título jurídico de bienes inmu
 
 Son sujetos por deuda ajena y responsabilidad objetiva, los adquirientes por cualquier título de predios urbanos o rústicos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### ARTÍCULO 24º.
 
-Los sujetos en general del Impuesto Predial, deberán estar al corriente en el pago del Impuesto y de que el predio se encuentra catastrado, como requisito previo a su solicitud de los siguientes servicios y licencias:
-
-a). De construcción.
-
-b). De ampliación.
-
-c). De demolición o reconstrucción de cualquier clase.
-
-d). De lotificación, subdivisión o fusión de predios.
-
-e). De deslindes.
-
-f). De alineamiento.
-
-g). De autorizaciones de uso de suelo.
-
-h). De terminación de obra.
-
-i). Cuando solicite la introducción del servicio de agua potable.
-
-j). De servicios de drenaje o alcantarillado.
-
-k). Al solicitar licencia para iniciar o refrendar cualquier tipo de giro comercial, turístico o industrial cualquiera que fuese su actividad.
-
-l). Manifestación de contrato de arrendamiento.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 ###### ARTÍCULO 25º.
 
@@ -273,9 +251,17 @@ c). Los propietarios de predios que hubieren prometido en venta o hubieren vendi
 
 El Impuesto sobre la Propiedad Rústica se causará sobre el valor catastral de los predios rústicos conforme a las siguientes tasas:
 
-a). 3.5526 al millar anual si están explotados por su dueño.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b). 6.7230 al millar anual si no están explotados por su dueño.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+a). 1.7777 al millar anual si están explotados por su dueño.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+b). 3.3615 al millar anual si no están explotados por su dueño.
 
 En ningún caso el impuesto predial anual será inferior a tres días de salario mínimo.
 
@@ -285,11 +271,13 @@ En ningún caso el impuesto predial anual será inferior a tres días de salario
 
 El Impuesto sobre la Propiedad Ejidal se ajustará a las disposiciones relativas de la Ley Agraria y de la presente Ley.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 28º.
 
-El Impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de cualquier clase, se causará sobre el valor de la finca e instalaciones a razón de 4.25 al millar.
+El Impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de cualquier clase, se causará sobre el valor de la finca e instalaciones a razón de 2.125 al millar.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -297,15 +285,35 @@ El Impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de c
 
 El Impuesto Predial sobre la propiedad urbana se causará:
 
-a). A razón de 2.3 al millar sobre el valor catastral de los predios destinados exclusivamente para el uso de casa habitación, siempre que en ella habite el propietario; en este caso no se aplicará el segundo párrafo del inciso c) de este Artículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b). A razón de 4.6 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
-c). A razón de 9.2 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un .92 al millar hasta en tanto no sea construida una edificación. La tasa no excederá de 18.4 al millar.
+a). A razón de 1.15 al millar sobre el valor catastral de los predios destinados exclusivamente para el uso de casa habitación, siempre que en ella habite el propietario; en este caso no se aplicará el segundo párrafo del inciso c) de este Articulo.
 
-d). A razón del 4.6 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-e) A razón del 3.45 al millar sobre el valor catastral de los predios destinados al alquiler de casa habitación y a los de uso mixto, se entiende por uso mixto aquel que se destina a casa habitación y a cualquier otro previsto por la Ley de manera simultánea. Cuando resulte imposible deslindar la superficie utilizada para un uso específicos de los descritos en los incisos a), b), c) o d) que anteceden se aplicará supletoriamente la tasa que corresponde a este inciso.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+b). A razón de 2.3 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+c). A razón del 4.6 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un .46 al millar hasta en tanto no sea construida una edificación. La tasa no excederá de 9.2 al millar.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+d). A razón del 2.3 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+e). A razón del 1.725 al millar sobre el valor catastral de los predios destinados al alquiler de casa habitación y a los de uso mixto, se entiende por uso mixto aquel que se destina a casa habitación y a cualquier otro previsto por la Ley de manera simultánea. Cuando resulte imposible deslindar la superficie utilizada para un uso específico de los descritos en los incisos a), b), c) o d) que anteceden se aplicará supletoriamente la tasa que corresponde a este inciso.
 
 Se considerará lote baldío, aquel que teniendo construcciones, éstas representen menos del 50% del valor catastral del terreno. En ningún caso el impuesto predial anual será inferior a un día de salario mínimo.
 
@@ -713,7 +721,11 @@ Los ingresos que por conceptos de derechos obtenga el Ayuntamiento, procederán 
 
 2. Servicios Catastrales
 
-3. Licencias para construcción
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARAGRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+3. Licencias para construcción y regulación de actividades del medio ambiente.
 
 4. Servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales
 
@@ -741,13 +753,41 @@ Los ingresos que por conceptos de derechos obtenga el Ayuntamiento, procederán 
 
 16. Servicios de inspección municipal
 
-17. Bienes de uso común y ocupación de la vía pública
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARAGRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+17. Ocupación y uso de la vía pública o de bienes de uso común
 
 18. Recepción y Estudio de la solicitud de Registro, licencias y permisos de giros comerciales
 
-19. Por expedición de licencias, refrendos y revalidaciones, permisos o autorizaciones para el funcionamiento de establecimientos que expendan bebidas alcohólicas y horas extras para el ejercicio de dichas licencias.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARAGRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-20. Otorgamiento de licencias, permisos o autorizaciones para anuncios, carteles o publicidad en la vía pública o visibles desde la vía pública.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+19. Expedición, revalidación y modificaciones para giros que expendan bebidas alcohólicas y horas extras para el ejercicio de dichas licencias, así como recepción y estudio de la solicitud por primera vez
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARAGRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+20. Licencias, permisos y autorizaciones por anuncios, carteles o publicidad en la vía pública
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARAGRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+21. Permisos para la realización de espectáculos y eventos especiales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+ARTÍCULO 64° BIS.- Como requisito previo a las solicitudes de los servicios, autorizaciones, manifestaciones y licencias, según corresponda, de construcción, ampliación, demolición o reconstrucción de cualquier clase, lotificación, subdivisión o fusión de predios, deslindes, alineamiento, uso de suelo, terminación de obra, , (sic) inicio o refrendo de cualquier tipo de giro comercial, turístico o industrial cualquiera que fuese su actividad, y manifestación de contrato de arrendamiento, el interesado deberá acreditar ante la autoridad municipal correspondiente, que se encuentra al corriente en el pago del impuesto predial del inmueble con respecto al cual se solicitan y que este se encuentra catastrado, presentar constancia que acredite estar al corriente en el pago de los servicios de agua potable, alcantarillado y saneamiento, así como constancia de que la descarga de aguas residuales del predio o establecimiento de que se trate cumple con los parámetros que marquen las leyes y demás ordenamientos aplicables; dichas constancias deberán ser expedidas por el prestador de los servicios.
+
+Igualmente, para la introducción del servicio de agua potable y de drenaje o alcantarillado, como requisito previo a las solicitudes de dichos servicios, el interesado deberá acreditar ante la autoridad municipal correspondiente, que se encuentra al corriente en el pago del impuesto predial del inmueble con respecto al cual se solicitan y que este se encuentra catastrado.
+
+Cuando se trate de construcción o ampliación de plantas desaladoras o plantas de tratamiento, deberán presentar adicionalmente la autorización del Organismo Operador Municipal del Sistema de Agua Potable, Alcantarillado y Saneamiento de Los Cabos.
 
 ###### ARTÍCULO 65º.
 
@@ -837,7 +877,7 @@ adquieran, transmitan, modifiquen o
 
 extingan derechos reales sobre
 
-inmuebles, distintos de dominio ; de los
+inmuebles, distintos de dominio; de los
 
 que limiten el dominio del vendedor, a las
 
@@ -931,7 +971,7 @@ mínimo diario.
 
 XVI. Por la expedición de constancias, por 2 días salario
 
-cada persona : Cuota fija por servicio. mínimo.
+cada persona: Cuota fija por servicio. mínimo.
 
 XVI. Bis. Las Certificaciones o constancias que son solicitadas con carácter de urgente, se causaran al doble de las cuotas aplicables, conforme a la Fracción anterior.
 
@@ -976,6 +1016,20 @@ En ningún caso los Derechos a que se refiere este Artículo, podrán ser mayore
 XXII.- Por la anotación marginal que 2 días de salario
 
 corresponda a cada bien inmueble. mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XXIII.- En la expedición de copias certificadas
+
+a.- Pago fijo por servicio. 5 días salarios
+
+mínimos.
+
+b.- Por cada hoja adicional,
+
+a partir de la hoja numero 20. 2.00 pesos.
 
 ###### ARTÍCULO 74º.
 
@@ -1229,11 +1283,19 @@ II. Por caca copia de planos 5 días de salario
 
 mínimo
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
 III. Avalúos periciales por cada predio
 
-sobre su valor. Sin que pueda ser
+sobre su valor. Sin que Pueda ser
 
-inferior a un día de salario mínimo 0.5 al millar
+Inferior a un día de salario mínimo;
+
+incluyendo cedula de información
+
+catastral. 0.25 al millar
 
 IV. Certificados, por cada hoja o fracción 25% salario
 
@@ -1263,7 +1325,217 @@ VIII. Por expedición de coordenadas UTM 5 días salario
 
 mínimo.
 
-#### Sección Única. Licencia para construcción
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+IX. Mapa manzanero con nombres de calles,
+
+Límites de predios, construcciones y clave
+
+Catastral esc. 1:1,000, tamaño carta 2.5 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+X. Mapa manzanero con nombres de calles,
+
+límites de predios, construcciones y clave
+
+catastral esc. 1:1,000 tamaño doble carta 4 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XI. Mapa impreso de hoja escala 1:1,000,
+
+90 x 60 cm 8 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XII. Mapa impreso de hoja a escala 1:1000,
+
+tamaño 90 x 120 cm. 12 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XIII. Impresión de ortofoto a escala 1.1,000 del
+
+Año 2003, tamaño 90 x 60 cm. 12 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XIV. Mapa impreso de hoja a escala 1:5,000,
+
+90 x 60 tamaño 90 x 60 cm. 8 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XV. Mapa impreso de hoja a escala 1:5,000,
+
+Tamaño 90 x 120 cm. 12 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XVI. Impresión de ortofoto a escala 1.1,000
+
+del año 2003, tamaño 90 x 120 cm. 16 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XVII. Impresión de ortofoto a escala 1:5,000
+
+del año 2004, tamaño 90 x 60 cm. 12 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XVIII. Impresión de ortofoto a escala 1.5,000
+
+del año 2004, tamaño 90 x 120 cm. 16 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XIX. Mapa de Zona Urbana Cabo San Lucas,
+
+San José del Cabo o Ciudad Lineal con
+
+Manzanas, Nombres de Calles, Colonias,
+
+Banquetas, a escala 1:5,000 18 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XX. Mapa de Zona Urbana Cabo San Lucas, San
+
+José del Cabo o Ciudad Lineal con Manzanas,
+
+Nombres de Calles, Colonias, Banquetas, a
+
+Escala 1.10,000 a 1:12,000 12 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XXI. Mapa Municipal escala 1:100,000 con
+
+Localidades, Vías de Comunicación, Ríos,
+
+Curvas de Nivel. 28 días
+
+salario
+
+mínimo.
+
+RED GEODÉSICA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XXII. Memoria de vértice geodésico (listado de
+
+Coordenadas UTM y geográficas así como un
+
+croquis de localización e itinerario) y Memoria
+
+de banco de nivel (elevación sobre el nivel
+
+medio del mar, así como su croquis de
+
+localización e itinerario) 4 días
+
+salario
+
+mínimo.
+
+INFORMACIÓN CATASTRAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XXIII. Cedula de Información catastral 2 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+#### Sección Única
+
+Licencia para construcción y Regulación de Actividades de Protección al Medio Ambiente.
 
 ###### ARTÍCULO 78º.
 
@@ -1273,19 +1545,29 @@ Para edificar, reedificar, ampliar o reconstruir las fincas ubicadas en las pobl
 
 Para obtener la licencia a que se refiere el Artículo anterior, se deberá presentar una solicitud firmada por un profesionista en la materia, debidamente acreditado, y de acuerdo con las formas oficiales que se expidan y en los términos que indique el Reglamento de Construcciones del Estado de Baja California Sur.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 80º.
 
-La expedición de las licencias causarán derechos del 7 al millar sobre el valor de la construcción según el costo de las obras que se vayan a ejecutar. El pago se hará cuando hayan sido aprobados los planos a que debe sujetarse la obra previamente a la expedición o refrendo de las licencias.
+La expedición de las licencias causarán derechos del 7 al millar sobre el valor de la construcción según el costo de las obras que se vayan a ejecutar, es decir el costo final de dichas obras según presupuesto de obra presentado por el propietario o director responsable de obra. El pago se hará cuando hayan sido aprobados los planos a que debe sujetarse la obra previamente a la expedición o refrendo de las licencias.
 
-La expedición de autorización por uso del suelo habitacional en zonas populares, causará un derecho de un día de salario mínimo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+La expedición de autorización por uso del suelo habitacional en zonas populares, causará un derecho de un día de salario mínimo y la autorización por uso de suelo habitacional en zonas residenciales causara un derecho de 20 días de salario mínimo.
 
 La expedición de licencia de urbanización para los desarrollos urbanos tales como fraccionamientos, conjuntos habitacionales, desarrollos turísticos, condominiales, industriales o una combinación de los anteriores, causan un derecho del 7 al millar sobre el valor total de las obras de urbanización.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 81º.
 
-La dependencia Municipal correspondiente podrá autorizar el registro de los responsables de proyectos de obras, aprobación del mismo, autorizar la fusión, sub división, división, lotificación o relotificación de predios, autorizar el uso del suelo para desarrollos urbanos y uso del suelo comercial urbano para giros comerciales, supervisiones técnicas y dar visto bueno de seguridad y terminación de obra previo pago de acuerdo a la siguiente
+La dependencia Municipal correspondiente podrá autorizar el registro de los responsables de proyectos de obras, aprobación del mismo, autorizar la fusión, sub división, división por unidad condominal, lotificación o relotificación de predios, autorizar el uso del suelo para desarrollos urbanos y uso del suelo comercial urbano para giros comerciales, supervisiones técnicas, Dictamen Técnico y dar visto bueno de seguridad y terminación de obra, así como otros marcados en la tabla que se muestra enseguida, previo pago de acuerdo a la siguiente:
 
 TARIFA:
 
@@ -1333,9 +1615,221 @@ i) Supervisión Técnica 20 días salario
 
 mínimo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+j) Autorización de uso de suelo Residencial 20 días de
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+k) Dictamen Técnico, Residencial, condominal
+
+(1 casa habitación). 20 días de
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+l) Dictamen Técnico, en Condominio horizontal/
+
+Fraccionamiento, casa tipo (muestra). 25 días de
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+m) Dictamen Técnico, en Condominio/
+
+Fraccionamiento, por casa adicional a la casa
+
+Tipo y/o muestra. 5 días de
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+n) Dictamen Técnico, Hotel-Condohotel, condominio vertical:
+
+1.- Por cuarto. 2 días de
+
+salario
+
+mínimo.
+
+2.- Por cada 100 m2 de área de servicio. 7 días de
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+ñ) Dictamen Técnico por uso no especificado
+
+1.- Menor a 50 m2. 7 días de
+
+salario
+
+mínimo.
+
+2.- Mayor a 50 m2, por cada 50 m2 adicional. 7 días de
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+o) Lotificación, Relotificación, Cambios de
+
+Regímenes condominiales y Modificaciones de
+
+Regímenes Condominiales. 1 día de
+
+salario
+
+mínimo,
+
+por cada
+
+Lote o
+
+Unidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+p) Autorización del uso del suelo en zonas
+
+de playas (áreas de Z.F.M.T a Concesionar) 20 días
+
+de salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+q) Autorización del uso de suelo de arroyos
+
+(áreas de Z.F. a Concesionar) 20 días de
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+r) autorización del uso del suelo por unidad
+
+condominal en desarrollos condominiales, zonas
+
+residenciales o zonas habitacionales. 1 día de
+
+salario
+
+mínimo por
+
+cada unidad
+
+condominial
+
+resultante.
+
 ###### ARTÍCULO 82º.
 
 Si la obra no se concluye en el plazo concedido, se podrá solicitar el refrendo de la licencia, que se otorgará previo pago de los derechos correspondientes a razón de 3.5 al millar de obra pendiente por ejecutar, por el tiempo que se autorice para la conclusión de la misma, quedando obligado el interesado a dejar expedita la vía pública una vez terminado el plazo que se haya concedido.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+ARTÍCULO 82° BIS. La Dirección Municipal de Ecología y Medio Ambiente podrá autorizar los siguientes trámites en base a la siguiente:
+
+TARIFA:
+
+I.- Dictamen Técnico de Ecología 5 días de
+
+salario
+
+mínimo
+
+II.- Autorización de Trasplante, Deshierbe y
+
+Limpieza. 5 días de
+
+salario
+
+mínimo
+
+III.- Autorización de derribo de Árbol 3 días de
+
+salario
+
+mínimo
+
+IV.- Autorización de Trasplante 3 días de
+
+salario
+
+mínimo
+
+V.- Autorización de Poda 3 días de
+
+salario
+
+mínimo
+
+VI.- Autorización de Relleno 3 días de
+
+salario
+
+mínimo
+
+VII.- Resolución de Dictmen Técnico de Ecología 3 días de
+
+salario
+
+mínimo
+
+VIII.- Visto Bueno en Materia Ambiental 3 días de
+
+salario
+
+mínimo
+
+IX.- Autorización de Sonido 3 días de
+
+salario
+
+mínimo
 
 ### Capítulo Cuarto. Agua potable, drenaje, alcantarillado, saneamiento, tratamiento y disposición de aguas residuales
 
@@ -1361,7 +1855,19 @@ embarcaciones, bicicletas, motocicletas y 50 días salario
 
 aquellas donde participen animales mínimo.
 
-II. Conciertos masivos, bailes populares 20 días salario
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. a).- Conciertos masivos 40 días
+
+salarios
+
+mínimos.
+
+b).- Bailes populares 20 días de
+
+salario
 
 mínimo.
 
@@ -1487,6 +1993,16 @@ c). Fuera de la oficina 10 días salario
 
 mínimo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+d). Registro de Nacimiento Extemporáneo 3 días
+
+salario
+
+mínimo.
+
 II. Matrimonios:
 
 a). En horas inhábiles en la oficina 10 días salario
@@ -1536,6 +2052,50 @@ VI. Cualquier otro acto del Registro Civil 1 día salario
 no contemplado mínimo.
 
 VII. Expedición de actas de nacimiento 50% día salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Anotación de la sentencia de la Perdida
+
+de la Patria Potestad. 3 días de
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+IX.- Anotación de la Resolución de Adopción
+
+Simple y Plena. 10 días de
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+X.- Reconocimiento de Hijos 5 días de
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XI.- Cambio de Régimen de Sociedad Conyugal 10 días de
+
+salario
 
 mínimo.
 
@@ -1590,6 +2150,18 @@ V. Búsqueda de documentos del archivo
 Municipal, cuando no se precisen los 2 días salario
 
 datos y fechas del acto mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+VI.- Expedición de Constancias de Posesión
+
+de Bienes Inmuebles 2 días
+
+salario
+
+mínimo.
 
 ###### ARTÍCULO 98º.
 
@@ -1835,9 +2407,13 @@ X. Baja de placas: 1 salario mínimo
 
 XI. Reporte de extravío de placas. EXENTO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 114º.
 
-Los permisos y renovaciones de otros derechos por servicios de control vehicular, se pagarán por unidad anualmente, conforme a la siguiente:
+Los permisos y renovaciones de otros derechos por servicios de control vehicular, se pagarán por unidad anualmente, en los meses de Enero, Febrero, Marzo y Abril, conforme a la siguiente:
 
 TARIFA:
 
@@ -1873,13 +2449,181 @@ reglamento de tránsito, las cuales
 
 tendrán un valor anual por juego de: 12 salarios mínimos
 
-IV.- Permiso o revocación para
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+IV.- Permiso o renovación para
 
 explotar vehículos de alquiler sin
 
-chofer: 22 salarios mínimos
+chofer y vehículos turísticos de pasaje. 22 salarios mínimos
 
 V.- Reposición de tarjeta de circulación: 3 salarios mínimos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+VI.- Permiso Particular de Transporte de
+
+Personal. 50 días
+
+de Salarios
+
+anual
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+VII.- Permiso Particular de pasaje escolar de
+
+Instituciones publicas gubernamentales exento
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+VIII.- Permiso Particular de pasaje escolar
+
+de instituciones Privadas o particulares 50 días de
+
+Salarios
+
+Anual
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+IX.- Permiso Particular de Transporte de Carga
+
+de materiales sólidos a través de vehículos tipo
+
+volteo, góndolas, caja cerrada o similar. 15 días de
+
+salario
+
+mínimo por
+
+cada metro
+
+cúbico o
+
+tonelada de
+
+capacidad
+
+de la unidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+X.- Permiso Particular de Transporte de Carga
+
+Especializada por conducto de vehículos tipo
+
+Cisternas o colectores de basuras, grúas y
+
+Análogos. 15 días de
+
+salario
+
+mínimo por
+
+cada metro
+
+cúbico o
+
+tonelada de
+
+capacidad
+
+de la unidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XI.- Permiso Particular de Transporte especializada
+
+A través de ambulancia o similares. 50 días
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XII.- Permiso o renovación para explotar vehículo
+
+de alquiler tipo motos, go-karts, bicitaxis,
+
+calandrias, rhinos, bicicletas, vehículos tipo
+
+bugis. 20 días de
+
+salario
+
+mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XIII.- Cambio de unidad destinada para el
+
+Servicio publico para el transporte terrestre. 3 días de
+
+salario
+
+mínimo
+
+por cada
+
+cambio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XIV.- Permiso provisional para circular para
+
+Servicio publico que no exceda de 30 días. 7 días de
+
+salario
+
+mínimo
+
+por cada
+
+permiso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XV.- Permiso o Autorización Nuevo o Por cesión
+
+de derechos para la explotación de servicios en
+
+la renta al público de motos, go-karts, bicitaxis,
+
+calandrias, rhinos, bicicletas, vehículos tipo bugis. 50 días de
+
+salario
+
+mínimo por
+
+unidad o
+
+vehículo,
+
+único.
 
 ###### ARTÍCULO 115º.
 
@@ -1947,9 +2691,61 @@ Aseo, limpia, recolección, traslado, tratamiento y disposición final de basura
 
 Es objeto de este derecho el servicio que por recolección, traslado, tratamiento, saneamiento y disposición final de basura preste el Municipio de Los Cabos, Baja California Sur, por si o a través de concesiones a empresas, a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos obligados al pago de estos derechos, lo harán con base al volumen de basura que generen y entreguen en los lugares destinados para ello, enterando dicho pago en el lugar y en el momento de entrega de la basura, directamente al Ayuntamiento o a través de la empresa que para tales efectos contrate el Ayuntamiento, de acuerdo a las siguientes tarifas:
 
-a).- La cantidad de 6 salarios mínimos vigentes en el estado de Baja California Sur, por cada tonelada de basura que se reciba en el estación de transferencia de Residuos Sólidos Urbanos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b).- La cantidad de 4 salarios mínimos vigentes en el estado de Baja California Sur por tonelada recibida en la planta de clasificado, compactado y embalado de Residuos Sólidos Urbanos.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+a).- La cantidad de 4 salarios mínimos vigentes en el estado de Baja California Sur, por cada tonelada de basura de residuos sólidos domésticos, que se reciba en el (sic) estación de transferencia de Residuos Sólidos Urbanos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+b).- La cantidad de 6 salarios mínimos vigentes en el estado de Baja California Sur, por cada tonelada de basura de residuos sólidos comerciales, que se reciba en la estación de transfarencia de Residuos Sólidos Urbanos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+c).- Disposición final en los Rellenos Municipales:
+
+SERVICIO UNIDAD COSTO
+
+Disposición final de residuos tonelada 4 días de
+
+sólidos comerciales salario
+
+mínimo
+
+Disposición final de escombro toneladas 5 días de
+
+de construcción comercial salario
+
+mínimo
+
+Disposición final de restos de vehículo 3 días de
+
+animales comercial salario
+
+mínimo
+
+Disposición final de ramas y Metro 1 días de
+
+desechos de jardinerías cúbico salario
+
+comercial mínimo
+
+Disposición final de llantas Metro 1 días de
+
+de vehículos automotores cúbico salario
+
+comercial mínimo
+
+Disposición final de lodos Metro 1 días de
+
+estabilizados derivados de cúbico salario
+
+plantas de tratamientos mínimo
 
 ###### ARTÍCULO 120º.
 
@@ -2277,6 +3073,26 @@ X. Carreras de Caballos. 140 Salarios Mínimos
 
 XI. Peleas de Gallos. 30 Salarios Mínimos
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XII. Eventos sociales como Bodas, XV años, 1 Salarios (sic)
+
+Bautizos, Cumpleaños y Convivíos Familiares. Mínimo
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XIII. Exposiciones culturales, Artísticas, Ferreteras, 2.5 Salarios
+
+Expos en General, Exposición de Vehículos de Mínimos
+
+Agencias, Bienes Inmuebles y demás, de carácter
+
+## transitorio.
+
 Cuando cualquiera de las actividades señaladas en las fracciones que anteceden se celebren en la zona rural se cobrará solamente el 50 % de las tarifas respectivas.
 
 ###### ARTÍCULO 125º.
@@ -2556,6 +3372,48 @@ por día
 Servicio de almacenamiento 10% salario mínimo
 
 por día
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+ARTÍCULO 154° BIS. Por el uso y arrendamiento de teatros, casas culturales, foros cerrados, plazas y foros públicos abiertos, estadios de futbol, beisbol, auditorios municipales propiedad del ayuntamiento, se pagara una renta de acuerdo a la siguiente tarifa:
+
+I.- TEATROS CERRADOS:
+
+a) Se exenta del pago de arrendamiento a Instituciones educativas públicas sin fines de lucro y que otorguen el libre acceso al público en general al evento a realizar.
+
+b) Academias de arte privadas locales cuyo cobro de admisión no exceda del equivalente a dos salarios mínimos y que su giro no sea predominantemente empresarial, se cobraran 100 salarios mínimos diarios, si presenta una sola función; si presenta 2 o más funciones se le cobrara 60 salarios mínimos por cada función diaria.
+
+c) Persona física o moral que solicite la renta para una actividad propiamente empresarial y con fin de lucro, se le cobrara de 200 a 300 salarios mínimos diarios.
+
+d) Instituciones privadas educativas y de arte cuyo fin sea el de llevar a cabo el evento de apertura o clausura de cursos y ciclos escolares se cobrara 40 salarios mínimos por día.
+
+II.- FOROS CULTURALES CERRADOS:
+
+a) Se exenta del pago de arrendamiento a Instituciones educativas públicas sin fines de lucro y que otorguen el libre acceso al público en general al evento a realizar.
+
+b) Academias de arte privadas locales que el cobro de admisión no exceda del equivalente a dos salarios mínimos y que su giro no sea predominantemente empresarial, se cobraran diarios 25 salarios mínimos si presenta una sola función, si presenta 2 o más funciones se le cobrara 15 salarios mínimos por función diaria.
+
+c) Persona física o moral que solicite la renta para una actividad propiamente empresarial y con fin de lucro, se le cobrara de 50 a 100 salarios mínimos diarios.
+
+d) Instituciones privadas educativas y de arte cuyo fin sea el de llevar a cabo el evento de apertura o clausura de cursos y ciclos escolares se cobrara 10 salarios mínimos por día.
+
+III.- PLAZAS PÚBLICAS, FOROS Y ESPACIOS PÚBLICOS ABIERTOS:
+
+a) Se exenta del pago de arrendamiento a instituciones educativas públicas o privadas, organizaciones civiles, asociaciones civiles, y otras similares cuyo fin sea altruista y sin fin de lucro personal, que realicen conciertos, sesiones informativas, y conferencia de manera gratuita con acceso al público en general y sin fines de lucro personal.
+
+b) Organizaciones o empresas que realicen actividad comercial de manera temporal expidiendo o no alimentos y bebidas ya sea con graduación de alcohol o libre de éste,,(sic) haciendo uso total o parcial de los mencionados espacios públicos abiertos, además de hacer el pago por permisos de alcoholes, pagaran por 10 salarios mínimos vigentes.
+
+IV.- ESTADIOS DE FUTBOL, BEISBOL, AUDITORIOS MUNICIPALES Y ESPACIOS DEPORTIVOS MUNICIPALES:
+
+a) Bailes y conciertos masivos en estadios de béisbol y futbol, se cobrará 913 salarios mínimos por evento, cuando sean con fines de lucro.
+
+b) Eventos masivos deportivos especiales, se cobrara 913 salarios mínimos por evento, cuando sean con fines de lucro.
+
+c) Evento deportivo masivo por temporada, se cobrara 913 salarios mínimos por toda la temporada con independencia de los días ocupados, cuando sean con fines de lucro.
+
+d) Auditorios Municipales. 183 salarios mínimos, cuando sean con fines de lucro.
 
 ###### ARTÍCULO 147º.
 
@@ -3027,6 +3885,52 @@ preferencia. 10 a 11
 
 Cada Ocupante. 3 a 4
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+GRADOS DE ALCOHOLEMIA, A LOS CONDUCTORES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+135 De 0.01 a 0.07 No hay sanción, solo
+
+a los menores se les retira el permiso
+
+para conducir. 0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+136 De 0.08 a 0.20 Aliento alcohólico 25 días
+
+salario min.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+137 De 0.21 a 0.39 Ebrio completo 50 días de
+
+salario min.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+138 De 0.40 en adelante, no es apto
+
+Para conducir. 100 días
+
+de
+
+salario
+
+mínimo
+
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE JUNIO DE 2003)</small>
 
 b).- Violaciones al Reglamento de Construcciones para el Estado de Baja California Sur en los siguientes términos:
@@ -3267,9 +4171,13 @@ VII. Otros no especificados.
 
 ### Capítulo Segundo. Registro, licencias y permisos de giros comerciales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 169º.
 
-Todos los propietarios o explotadores de giros o actividades comerciales, industriales y de servicios, deberán inscribirse en el padrón fiscal de contribuyentes del Municipio de Los Cabos, siempre que llenen los requisitos de registro que establecen las leyes y reglamentos respectivos, y obtener su licencia antes de iniciar sus actividades.
+Todos los propietarios o explotadores de giros o actividades comerciales, industriales y de servicios, deberán inscribirse en el padrón fiscal de contribuyentes del Municipio de Los Cabos, dentro de los 30 días siguientes al inicio de operaciones, siempre que llenen los requisitos de registro que establecen las leyes y reglamentos respectivos, y obtener su licencia de funcionamiento y revalidación anual por cada una; realizando el pago de derechos por la cantidad de 7 días de salarios mínimos.
 
 ###### ARTÍCULO 166º.
 
@@ -3305,9 +4213,13 @@ Los giros que no estén inscritos en el padrón correspondiente, y los que no hu
 
 Todo causante sujeto a estos giros queda obligado a dar aviso a la oficina correspondiente en caso de cambio de nombre, denominación o razón social, de domicilio, en caso de sucesión de derechos y obligaciones, o de cualquier acto que modifique los padrones, dentro de los 30 días siguientes a la fecha en que se verifique el acto.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 174º.
 
-La inscripción al padrón de contribuyentes, iniciará el primero de enero y concluirá el día ultimo de marzo, pudiendo prorrogarse con carácter general cuando así lo determine, mediante acuerdo escrito, la Tesorería General Municipal no excediendo dicha prórroga del día último del mes de abril.
+La Revalidación anual al padrón de contribuyentes, iniciará el primero de enero y concluirá el día ultimo de marzo, pudiendo prorrogarse con carácter general cuando así lo determine, mediante acuerdo escrito, la Tesorería General Municipal no excediendo dicha prórroga del día último del mes de abril.
 
 ###### ARTÍCULO 175º.
 
@@ -3448,3 +4360,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 B.O. 31 DE DICIEMBRE DE 2007.
 
 ÚNICO: El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO
+
+El presente decreto entrará en vigor el día primero de Enero del año dos mil diez, previa su publicación en el Boletín Oficial del Gobierno del Estado.
