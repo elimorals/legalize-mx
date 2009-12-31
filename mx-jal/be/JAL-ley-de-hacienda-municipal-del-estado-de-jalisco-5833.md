@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2008-07-05"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -149,9 +149,13 @@ Para la elaboración de presupuestos y control de las erogaciones municipales, s
 
 La interpretación de las Leyes Fiscales relativas a la Hacienda Municipal, corresponde al Ayuntamiento, sin que ello implique variaciones en cuanto al sujeto, objeto, base, cuota, tasa o tarifa de los gravámenes, infracciones y sanciones.
 
-Los Ayuntamientos, por propia iniciativa o, a solicitud de las autoridades hacendarias del Municipio, así como los particulares, cuando consideren que alguna disposición de las Leyes Fiscales Municipales es confusa, podrán solicitar a la Legislatura o a la Diputación Permanente, que fije su interpretación.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-La interpretación que haga la Legislatura o la Diputación Permanente es obligatoria, en el orden administrativo, para todos los Municipios del Estado, a los que deberá hacerse conocer en los términos que proceda.
+Los ayuntamientos, las autoridades hacendarias del Municipio, así como los particulares, cuando consideren que alguna disposición de las leyes fiscales municipales es confusa, podrán solicitar al Congreso del Estado que fije su interpretación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+La interpretación que haga el Congreso del Estado es obligatoria, en el orden administrativo, para todos los municipios del Estado, a los que deberá hacerse conocer en los términos que proceda.
 
 ###### Art. 17.
 
@@ -2153,217 +2157,93 @@ V. Autorizar, previamente, los pagos o erogaciones de fondos que deban hacerse c
 
 VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la preparación del mismo para el ejercicio fiscal siguiente, deberá realizar estudios de carácter presupuestal, con el propósito de formar estadística razonada, respecto al desenvolvimiento de los servicios públicos, y determinar si su costo corresponde a la función que desarrollan, con fines de economía y eficiencia en el ejercicio del gasto público.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ## TITULO SEGUNDO. Del Presupuesto de Egresos
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO I. De la Estructura
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
-
 ###### Art. 206.
 
-El Presidente Municipal, para la elaboración del presupuesto de egresos, presentará al Ayuntamiento los siguientes documentos:
-
-I. La estimación de los ingresos a recaudar, tomando como base los rubros señalados en la Ley de Ingresos correspondiente al ejercicio fiscal siguiente;
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2007)</small>
-
-II. Las previsiones de gastos destinados a cada capítulo, concepto y partida, para el sostenimiento del desarrollo de los servicios públicos en el siguiente ejercicio fiscal; y
-
-III. Los demás informes financieros y datos estadísticos que estime conveniente agregar, para la mejor comprensión de su política hacendaria y del programa de trabajo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Art. 207.
 
-Las previsiones de egresos a que se refiere la fracción II del artículo anterior, se clasificarán de acuerdo a su naturaleza, por objeto del gasto, conforme a las siguientes bases:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
-
-1a. Los capítulos fundamentales para la clasificación del gasto público serán:
-
-I. Servicios Personales;
-
-II. Materiales y Suministros;
-
-III. Servicios Generales;
-
-IV. Subsidios y Subvenciones;
-
-V. Bienes Muebles e Inmuebles;
-
-VI. Obras Públicas;
-
-VII. Erogaciones Diversas; y
-
-VIII. Deuda Pública.
-
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
-
-2a. Estos capítulos se dividirán en conceptos, que representarán los grupos de autorización de naturaleza semejante; y
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
-
-3a. Los conceptos se dividirán en partidas que representen en forma específica el gasto público.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
-
-Los capítulos, conceptos y partidas que se utilizarán para la elaboración del presupuesto de egresos, deberán ajustarse al catálogo proporcionado por la Auditoria Superior del Estado, para los efectos de la revisión de la cuenta pública.
-
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2001)</small>
-
-Los Ayuntamientos podrán prever para su último año de gestión administrativa, en sus respectivos presupuestos de egresos un capítulo específico para el proceso de entrega-recepción del órgano de gobierno municipal y de la administración pública que le deriva, con el objetivo de eficientar, agilizar y transparentar este proceso.
-
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2001)</small>
-
-Los Ayuntamientos deberán cumplir con los criterios de racionalidad, austeridad y disciplina presupuestal al prever esta partida.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 208.
 
-Para los efectos de la determinación del monto del gasto público, el Tesorero Municipal deberá allegarse todos aquellos datos que considere necesarios, elaborando con ellos el proyecto que presentará al Presidente Municipal, para que éste, a su vez, lo presente al Ayuntamiento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Art. 209.
 
-El Tesorero Municipal, ajustándose a las estimaciones de ingresos aprobadas, formulará el anteproyecto de gasto definitivo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 210.
 
-El Presidente Municipal, dentro de los primeros quince días del mes de noviembre de cada año, deberá presentar al Ayuntamiento el Proyecto de Gasto Público, el cual se integrará con los documentos siguientes:
-
-I. Estimación de los ingresos a recaudar, tomando como base la política recaudatoria y la Ley de Ingresos que regirá en el ejercicio fiscal siguiente;
-
-II. Descripción clara de los programas que sean la base del gasto público, en los que deberán señalarse los objetivos, metas, y las unidades responsables de su ejecución, así como los egresos estimados por programas;
-
-III. Explicación y comentarios de los principales programas y, en especial, de aquellos que abarquen dos o más ejercicios fiscales;
-
-IV. Estimación de gastos para el ejercicio fiscal que se propone, con la indicación de los empleos que se incluyen;
-
-V. Estimación de ingresos y gastos del ejercicio fiscal en curso;
-
-VI. Ingresos y gastos reales del último ejercicio fiscal;
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2007)</small>
-
-VII. Las previsiones de egresos destinados a cada capítulo, concepto y partida, para el sostenimiento y desarrollo de los servicios públicos en el siguiente ejercicio fiscal;
-
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2001)</small>
-
-VIII. Situación de la deuda pública al final del último ejercicio fiscal, y estimación de la que se tendrá al término de los ejercicios fiscales en curso y el inmediato siguiente;
-
-> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2001)</small>
-
-IX. El desglose y justificación de las diferentes partidas del presupuesto;
-
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2002)</small>
-
-X. Las plantillas de personal en las que se especifique jornada, nivel, sueldo y demás prestaciones económicas que, por cualquier concepto, se asignen a cada uno de los servidores públicos del municipio;
-
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2002)</small>
-
-XI. El sueldo y la totalidad de las prestaciones económicas asignadas a los funcionarios de alto nivel de los ayuntamientos, incluyendo aquellos de elección popular y a los titulares de las dependencias y entidades municipales o en su caso, empresas de participación mayoritaria municipal; y
-
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2001)</small>
-
-XII. Los demás informes financieros y datos estadísticos que considere conveniente, para la mejor comprensión de su política hacendaria y del programa de administración.
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Art. 211.
 
-Una vez estudiado y revisado el Proyecto del Gasto Público, el monto del mismo será el que se apruebe por el Ayuntamiento, para erogar dicho gasto, durante el período de un año, a partir del día 1 de enero.
-
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
-
-Si por cualquier circunstancia el Ayuntamiento no aprueba en término el presupuesto de egresos correspondiente, se deberá aplicar el ejercicio el (sic) año inmediato anterior, incluyendo sus modificaciones.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Art. 212.
 
-Aprobado el presupuesto de egresos para el ejercicio fiscal respectivo, el gobierno municipal deberá remitir, antes del día veinte de diciembre de cada año, las copias del mismo y del acta de la sesión de ayuntamiento en que se aprobó, a la Auditoría Superior, para su conocimiento y efectos de control y revisión de la cuenta pública.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
-
-El presidente municipal, dentro de los treinta días que sigan a la aprobación del presupuesto o en su caso, de las modificaciones o ampliaciones del mismo, deberá ordenar la publicación de las percepciones económicas que se hubieren determinado para cada uno de los servidores públicos del ayuntamiento.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
-
-Mientras no se hubiere realizado la publicación, tales servidores públicos no podrán percibir ningún pago que no tengan expresamente asignado conforme a la última publicación efectuada.
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
-
-Las partidas destinadas al pago de prestaciones económicas distintas al sueldo se aplicarán atendiendo lo previsto en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y demás normatividad aplicable, sin que se realice la incorporación, bajo ninguna circunstancia, de bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración que deben recibir legalmente los servidores públicos, cualquiera que sea su denominación.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
-
-La publicación a que se refiere el párrafo anterior deberá hacerse en la Gaceta Municipal, en por lo menos uno de los diarios de mayor circulación en el Estado y, si los hubiere, en uno o más periódicos de la localidad de que se trate.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO II. De la Estimación del Monto
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
-
 ###### Art. 213.
 
-La ministración de los fondos correspondientes será autorizada, en todos los casos, por el Tesorero Municipal, en los términos de la Ley Orgánica Municipal.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Art. 214.
 
-Una vez concluida la vigencia del gasto público, sólo procederá a hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que se hubiesen contabilizado, debida y oportunamente, las operaciones correspondientes.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Art. 215.
 
-El gasto público deberá de ejercerse, conforme a lo autorizado en cada una de las partidas del Presupuesto de Egresos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ### CAPITULO III. De la Iniciativa, Discusión y Aprobación
 
-(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
-
 ###### Art. 216.
 
-Los nombramientos que expida el ayuntamiento serán enviados a la dependencia encargada de la hacienda municipal, con copia a la Auditoria Superior, dentro de los 5 días siguientes a la fecha en que se expidan los documentos relativos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Art. 217.
 
-Ningún gasto podrá efectuarse, sin que exista partida expresa del gasto público que la autorice.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-Toda erogación deberá ajustarse estrictamente, al texto de la partida que reciba el cargo. En los casos de duda, el Tesorero Municipal resolverá lo conveniente.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 218.
 
-El gasto público no podrá modificarse en ninguna de sus partidas, sin la previa autorización del Ayuntamiento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ### CAPITULO IV. De su Ejercicio
 
 ###### Art. 219.
 
-A toda proposición de creación de partida o aumento del gasto en el presupuesto de egresos, deberá agregarse la correspondiente Iniciativa de Ingresos, si con tal proposición se altera el equilibrio ingreso-gasto.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Art. 220.
 
-En los casos a que se refiere el artículo anterior, el Presidente Municipal, por conducto del encargado de la hacienda municipal del ayuntamiento, preparará las iniciativas de las modificaciones correspondientes debiendo comunicar a la Auditoría Superior dichos cambios, dentro de los cinco días posteriores a la realización de los mismos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ###### Art. 221.
 
-Excepcionalmente, cuando por razones de contingencia, la hacienda pública municipal cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Presidente Municipal, previo acuerdo del ayuntamiento, queda facultado para aplicarlo, dentro de la programación general de las actividades oficiales, obras y servicios públicos a cargo del ayuntamiento sin perjuicio de la revisión y control que debe practicar la Auditoría Superior del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 ### CAPITULO V. De las Modificaciones
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
 
 ## TITULO TERCERO. De la Cuenta Pública
 
@@ -3582,3 +3462,7 @@ Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado 
 Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoría Superior del Estado.
 
 Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
