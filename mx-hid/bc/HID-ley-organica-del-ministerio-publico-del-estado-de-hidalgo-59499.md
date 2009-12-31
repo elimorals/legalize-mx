@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-59499
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-31"
-last_updated: "2009-06-22"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "HID"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE HIDALGO
 
-LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE HIDALGO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2009.
+LEY ORGÁNICA DEL MINISTERIO PUBLICO DEL ESTADO DE HIDALGO
+
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO SEGUIRÁ RIGIENDO EN LO QUE SE OPONGA AL CONTENIDO DE LA NUEVA LEY, ENTRETANTO NO ENTRE EN VIGOR EL SISTEMA PROCESAL PENAL ACUSATORIO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -2007,7 +2011,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1 DE DICIEMBRE DE 2008.
 
@@ -2040,3 +2044,19 @@ P.O. 22 DE JUNIO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al contenido de este Decreto.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE DICIEMBRE DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+PRIMERO.- La presente Ley entrará en vigor al momento en que cobre vigencia el sistema procesal penal acusatorio, conforme a los transitorios que del Código Procesal Penal para el Estado de Hidalgo.
+
+SEGUNDO.- Entretanto no entre en vigor el sistema procesal penal acusatorio a que se refiere el Artículo anterior, en todo lo conducente seguirá rigiendo la Ley Orgánica del Ministerio Público del Estado de Hidalgo, Publicada el día 31 de diciembre de 2007 en el Periódico Oficial del Estado de Hidalgo, salvo lo establecido en el siguiente Artículo.
+
+TERCERO.- El servicio de carrera de procuración de justicia entrará en vigor al día siguiente del de la Publicación del presente Decreto en el Periódico Oficial del Estado de Hidalgo. No obstante ello, todos los agentes del Ministerio Público y los Peritos, deberán contar con el certificado a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema Nacional de Seguridad Pública, antes del día tres de enero del año dos mil doce. Quienes no obtengan el certificado serán separados del servicio, observándose lo dispuesto en el Artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, y las demás disposiciones aplicables.
+
+CUARTO.- En consecuencia, los agentes del Ministerio Público y Peritos que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General de Justicia, se someterán a las disposiciones normativas contenidas en esta Ley y en el Reglamento, para el servicio de carrera de procuración de justicia que se expida para tal efecto.
+
+QUINTO.- El Reglamento de la presente Ley, será expedido por el titular del Ministerio Público en un plazo que no exceda de sesenta días naturales, a partir de la entrada en vigor de este decreto, mismo que igualmente deberá ser Publicado en el Periódico Oficial del Estado.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
