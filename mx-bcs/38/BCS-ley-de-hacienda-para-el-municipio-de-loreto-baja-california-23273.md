@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-loreto-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2008-12-24"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -229,11 +229,9 @@ Los terrenos que cuenten con construcciones menores tales como palapas y/o barda
 
 El valor del terreno de un predio regular se determinará multiplicando la superficie obtenida por el valor unitario fijado a la calle de su ubicación y tratándose de predios ubicados en esquina, el valor de éstos se determinará multiplicando su superficie, por el mayor de los valores unitarios fijados a las calles que forman la esquina.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
-
-e). Predios destinados al campo de Golf en el área de Nopoló, a razón de 25 al millar
+e). Predios destinados al campo de Golf en el área de Nopoló, a razón de 2.5 al millar.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2891,7 +2889,7 @@ Los propietarios de los animales depositados en los corrales pertenecientes al M
 
 (REFORMADO, B.O. 28 DE DICIEMBRE DE 2005) (F. DE E., B.O. 20 DE FEBRERO DE 2006)
 
-###### Articulo 119 Bis.
+###### Artículo 119 Bis.
 
 Las personas físicas o morales que previa autorización de la autoridad municipal correspondiente, hagan uso del piso, de instalaciones subterráneas o áreas en vía pública, para la realización de actividades comerciales o de prestación de servicios en forma permanente o temporal pagaran los productos correspondientes conforme a la siguiente:
 
@@ -3330,3 +3328,7 @@ B.O. 24 DE DICIEMBRE DE 2008.
 ###### ARTICULO ÚNICO
 
 El presente decreto entrará en vigor el día primero de Enero del año dos mil nueve, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
