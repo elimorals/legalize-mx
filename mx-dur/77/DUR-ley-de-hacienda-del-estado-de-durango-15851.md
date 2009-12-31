@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2009-12-20"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -545,9 +545,17 @@ Están obligados al pago del Impuesto para la Modernización de los Registros P�
 
 La base gravable de este impuesto la constituye el monto total de la operación, considerándose como tal, la cantidad más alta que resulte de entre el pactado por las partes, el valor catastral vigente al momento de realizar el pago del impuesto, del avalúo bancario o el practicado por la Secretaría de Finanzas y de Administración.
 
-Todas las operaciones, cuyo monto total no rebase la cantidad de $680,000.00, quedarán exentas del pago de este impuesto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-A los contribuyentes cuyo valor de operación sea superiora la cantidad de $680,000.00, le será aplicable el beneficio a que se refiere el párrafo anterior, sólo hasta la cantidad exenta y calcularán el impuesto a su cargo disminuyendo a la base del impuesto la cantidad sujeta a exención.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Todas las operaciones, cuyo monto total no rebase el equivalente a 40 salarios mínimos elevados al año, quedarán exentas del pago de este impuesto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+A los contribuyentes cuyo valor de operación sea superior al equivalente de 40 salarios mínimos elevados al año les será aplicable el beneficio a que se refiere el párrafo anterior, sólo hasta la cantidad exenta y calcularán el impuesto a su cargo disminuyendo a la base del impuesto la cantidad sujeta a exención.
 
 El monto de la operación gravable, se ajustará tomando en consideración la exención prevista para este impuesto en el párrafo cuarto de este artículo. Esta exención será aplicable a todos los sujetos obligados al pago del presente impuesto.
 
@@ -585,7 +593,7 @@ Cuando sean varias las operaciones sujetas al presente impuesto, éste se causar
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO VI. DE LOS DERECHOS POR SERVICIO DE CONTROL DE VEHICULOS Y POR EXPEDIClON DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
+### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE CONTROL DE VEHICULOS Y POR EXPEDICION DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -693,11 +701,21 @@ de la operación, según corresponda. 1.0%
 
 III.- La cancelación de la inscripción a que se refiere la fracción anterior, sobre el monto de la obligación garantizada o sobre el monto de la operación, según corresponda. 0.15%
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL CONSIDERANDO TERCERO DEL DICTAMEN CORRESPONDIENTE AL PROCESO LEGISLATIVO DEL DECRETO 445 SE ADVIERTE QUE LA REFORMA ES APLICABLE AL PRIMER PÁRRAFO DE LA FRACCIÓN IV DE ESTE ARTÍCULO.]</small>
 
-IV.- La inscripción de contratos de crédito hipotecarios, prendarios, refaccionarios y de habilitación y avío, celebrados por instituciones de crédito, de seguros o fianzas y organizaciones auxiliares o por sociedades financieras de objeto limitado, Sociedades Financieras de Objeto Múltiple y Sociedades Nacionales de Crédito. Así como la inscripción de créditos con garantía hipotecaria otorgados por los gobiernos Federal, Estatal y Municipales, dependencias gubernamentales, órganos desconcentrados, organismos descentralizados y en general por instituciones públicas pertenecientes a cualquiera de los tres niveles de gobierno.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-100 0.50%
+IV.- La inscripción de contratos de créditos
+
+hipotecarios, prendarios, refaccionarios y de
+
+habilitación o avío, celebrados por instituciones
+
+de crédito, de seguros o fianzas y organizaciones
+
+auxiliares o por sociedades financieras de objeto
+
+limitado. 100
 
 La cancelación de inscripción a que se refiere
 
@@ -827,6 +845,18 @@ a la escritura constitutiva de personas morales que
 
 no implique aumento de capital o patrimonio. 5
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+La inscripción de contratos de créditos
+
+otorgados por sociedades financieras de 1.0%
+
+objeto múltiple, sobre el monto de la
+
+operación, según corresponda.
+
 XXVI.- La inscripción de actas de emisión de bonos
 
 u obligaciones de personas morales, o cualquier
@@ -943,9 +973,11 @@ o cuando no exista valor o monto. 5
 
 Se entenderá como monto de la operación, a que se refieren distintas fracciones del presente artículo, la cantidad más alta que resulte de entre: el valor de la operación, el valor catastral vigente al momento de solicitar la inscripción, del avalúo bancario o el practicado por la Secretaría de Finanzas y de Administración, salvo que la propia fracción lo determine.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ARTICULO 52 BIS.- Cuando el valor de las operaciones contempladas en la fracción IV del artículo anterior sea superior a $900,000.00, los contribuyentes pagarán el 0.5% sobre el excedente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+ARTICULO 52 BIS.- Cuando el valor de las operaciones contempladas en la fracción IV del artículo anterior sea superior al equivalente a 54 salarios mínimos elevados al año, los contribuyentes pagarán el 0.5% sobre el excedente.
 
 ###### ARTICULO 53.
 
@@ -1873,21 +1905,25 @@ expedición de título de propiedad de lote
 
 dentro de un fundo legal. 6.0
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV Bis.- Constancia de antecedentes y/o datos de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-lote de fundo legal. 3.0
+IV Bis.- Constancia de antecedentes del lote o
 
-V.- Por medición de terrenos y elaboración
+fracción de éste, del fundo legal. 6.0
 
-de plano, tratándose de predios urbanos, en
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-tamaño carta u oficio, de acuerdo con la
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-siguiente tabla:
+V.- Por medición de predios y elaboración de plano, tratándose de predios urbanos, el tamaño carta u oficio, de acuerdo con la siguiente tabla:
 
-a).- Por terreno:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+a).- Por predio:
 
 1) De 1 hasta 200 m2 10
 
@@ -1899,53 +1935,93 @@ a).- Por terreno:
 
 5) De 1000.01 hasta 3000.0 m2 16
 
-6) De 3000.01 en adelante 21
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El excedente del tamaño del plano se
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-cobrará por centímetro cuadrado a razón de 0.10
+6) De 3000.01 hasta 5000 M2 21
 
-b).- Por elaboración del plano de
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-construcción en planta, por cada 50m2 o
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-fracción, en tamaño carta u oficio. 1
+7) De 5,000.01 M2 en adelante, pagarán
 
-El excedente del tamaño del plano se
+el importe señalado en el numeral 6),
 
-cobrará por centímetro cuadrado a razón de. 0.10
+y, por el excedente del límite superior
 
-Los costos anteriores se incrementarán de
+de dicho numeral, por cada
 
-acuerdo a la distancia que exista entre el
+100 M2 o fracción. 0.10
 
-límite urbano de la ciudad donde se
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-encuentre ubicada la Dirección General de
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Catastro o cualquiera de sus delegaciones.
+El excedente de la medida del plano
 
-de acuerdo a lo siguiente:
+tamaño oficio, se cobrará por decímetro
+
+cuadrado a razón de: 0.10
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+b).- (REFORMADO [N. DE E. DEROGADO], P.O. 31 DE DICIEMBRE DE 2009)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. DEROGADO] SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Los costos citados en la presente fracción,
+
+se incrementarán de acuerdo a la distancia
+
+que exista entre el límite urbano de la ciudad
+
+donde radica la oficina de Catastro
+
+encargada de la medición de predios y
+
+elaboración de planos, con la ubicación del
+
+bien inmueble, de acuerdo a lo siguiente:
 
 1) Por kilómetro pavimentado 0.17
 
 2) Por kilómetro de brecha o terracería 0.27
 
-La clasificación del terreno y la distancia se
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+La clasificación del predio y la distancia se
 
 determinarán de acuerdo con las cartas
 
-topográficas elaboradas por ésta Dirección.
+topográficas oficiales.
 
-VI.- Por medición de terrenos y elaboración
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-de plano tratándose de predios rústicos, en
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-tamaño carta u oficio, de acuerdo con la
+VI.- Por medición de predio rústico y
 
-siguiente tabla:
+elaboración de plano en tamaño carta u
 
-a).- Terreno plano o lomerio:
+oficio, de acuerdo con la siguiente tabla:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+a) Por predio con fotografía plana o
+
+lomerío:
 
 1) De 1 a 10 HAS. 55
 
@@ -1965,49 +2041,79 @@ b).- Terreno quebrado:
 
 1) De 1 a 10 136
 
-2) De 10.01 a 50.0 200
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-3) De 50.01 a 100.0 HAS. 3.38 por HA ó fracción
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-4) De 100.01 a 500.0 2.00 por HA ó fracción
+En los siguientes casos, se pagará el importe del numeral 1) y, adicionalmente, por el excedente del límite superior de dicho numeral, por hectárea o fracción, como sigue:
 
-5) De 500.01 a 1000.0 HAS. 1.40 por HA ó fracción
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-6) De 1000.01 a 2000 HAS. 1.00 por HA ó fracción
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-7) De 2000.01 en adelante. 0.70 por HA ó fracción
+2) De 10.01 a 50.0 Has 2.0
 
-El excedente del tamaño del plano, se
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-cobrará por centímetro cuadrado a razón de. 0.10
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Los costos anteriores se incrementarán de
+3) De 50.01 a 100.0 Has 1.86
 
-acuerdo a la distancia que exista entre el
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-límite urbano de la ciudad donde se
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-encuentre ubicada la Dirección General de
+4) De 100.01 A 500.0 Has 1.10
 
-Catastro o cualquiera de sus delegaciones,
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-de acuerdo a lo siguiente:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+5) De 500.01 a 1000.0 Has 1.40
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+6) De 1000.01 a 2000 Has 1.0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+7) De 2000.01 Has. en adelante 0.70
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+El excedente de la medida del plano tamaño
+
+oficio, se cobrará por decímetro cuadrado a
+
+razón de: 0.10
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Los costos citados en la presente fracción, se incrementarán de acuerdo a la distancia que exista entre el límite urbano de la ciudad donde radica la oficina de Catastro encargada de la medición de predios y elaboración de planos, con la ubicación del bien inmueble, de acuerdo a lo siguiente:
 
 1) Por kilómetro pavimentado 0.17
 
 2) Por kilómetro de brecha o terracería 0.27
 
-La clasificación del terreno y la distancia se
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-determinarán de acuerdo con las cartas
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-topográficas elaboradas por ésta Dirección.
+La clasificación del predio y la distancia se determinarán de acuerdo con las cartas topográficas oficiales.
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI Bis.- Expedición de plano de localización
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-tamaño carta. 3.0
+VI Bis.- Elaboración de plano tamaño carta. 3.00
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
@@ -2019,9 +2125,11 @@ VIII.- Expedición de copia de plano, tamaño
 
 carta. 2
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX.- Certificación de documentos. 3
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+IX.- Certificación de cada plano 3.00
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
@@ -2049,19 +2157,25 @@ c) Por el excedente del valor catastral
 
 de 7200 salarios mínimos. 0.20
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XII.- Deslinde catastral simple dentro del
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-perímetro urbano de la ubicación de la
+XII.- Deslinde catastral dentro del perímetro 5.0
+
+urbano de la ubicación de la sede de la
 
 Dirección General de Catastro o sus
 
-Delegaciones. 5
+delegaciones.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIII.- Expedición de copias de plano: 4.0
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XIII.- Expedición de copia de plano superior
+
+al tamaño carta: 4.0
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
@@ -2079,35 +2193,35 @@ XVI.- Por corrección de información remitida por
 
 Usuarios. 2.0
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XVII.- Por impresión de fotografía aérea blanco y
+XVII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-negro a 4x1 metro cuadrado (aprox.). 10.0
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+XVIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-XVIII.- Por impresión de fotografía aérea blanco y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-negro a 2x50 centímetros cuadrados (aprox.). 5.0
+XIX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIX.- Por impresión de fotografía aérea blanco y
+XX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-negro de 23 por 23 centímetros. 2.0
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-XX.- Expedición de croquis de localización de
+XXI.- Llenado de la Forma para el pago
 
-predio urbano tamaño carta. 3.0
+del derecho de inscripción al Registro
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+Público de la Propiedad y para el pago
 
-XXI.- Llenado de hoja de traslado
+del impuesto municipal por Traslado
 
-de dominio: 1.0
+de Dominio. 1.0
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -2123,11 +2237,27 @@ trámites de actos de traslado
 
 de dominio: 2.0
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XXIV.- Registro Catastral 3.0
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XXV.- Certificación de documentos
+
+por cada hoja. 1.0
+
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
-XXIV.- Otros servicios no especificados en las
+XXVI.- Otros servicios no especificados en las
 
 fracciones anteriores. 3.0
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO UNICO
 
@@ -2175,9 +2305,9 @@ excepto agrícolas. 17
 
 El pago por servicio de control en la dotación de placas, por canje o replaqueo, deberá realizarse cada tres años en la forma y términos indicados en el artículo 61 de la presente ley.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-II. Los derechos que se causen por servicio de control en la expedición del holograma por refrendo para aquellos vehículos que cuenten con juego de placas, deberán ser cubiertos de conformidad con lo siguiente:
+II. Los derechos que se causen por refrendo al servicio de control vehicular para aquellos vehículos que cuenten con juego de placas, deberán ser cubiertos cada año en la forma establecida en el artículo 61 de la presente Ley.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
@@ -2223,7 +2353,9 @@ b) Segundo Permiso hasta por quince días. 26
 
 c) Tercer Permiso hasta por quince días. 50
 
-IV. Reposición de tarjetas de circulación. 7
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+IV. Reposición de tarjeta de circulación. 7
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -2431,13 +2563,13 @@ D) Vehículos de más de 10 tons. Hasta 15 tons. 600
 
 E) Vehículos de más de 15 tons. 650
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 4. La ratificación de concesiones a que se refiere esta
 
-fracción, causará anualmente el 5% del importe del derecho
+fracción, causará anualmente el 5% sobre el valor actual
 
-que corresponda.
+de la concesión correspondiente.
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -2786,3 +2918,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+Primero.- El presente Decreto entrará en vigor el día 1 de enero del año 2010.
