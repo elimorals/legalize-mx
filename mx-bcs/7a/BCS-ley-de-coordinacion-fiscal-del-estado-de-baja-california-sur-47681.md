@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2008-03-11"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -45,7 +45,11 @@ LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 Esta Ley tiene por objeto:
 
-I. Establecer la normatividad del Sistema de Coordinación Fiscal del Estado de Baja California y sus municipios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+I. Establecer la normatividad del Sistema de Coordinación Fiscal del Estado de Baja California Sur y sus municipios;
 
 II. Establecer la participación que corresponda a sus haciendas públicas municipales en los ingresos estatales y distribuir entre ellos dichas participaciones;
 
@@ -81,35 +85,61 @@ j) Secretaría: La Secretaría de Finanzas del Gobierno del Estado de Baja Calif
 
 k) Sistema de Coordinación Fiscal del Estado: El régimen jurídico relativo a las participaciones de tributos y otros ingresos estatales a favor de los municipios, incluyendo reglas sobre la colaboración administrativa, las conducentes a los organismos en materia de coordinación fiscal, y sobre los montos porcentuales que deben otorgarse a dichos municipios.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+l) Incentivos: Los incentivos federales que el Estado y los Municipios perciben de conformidad con los artículos 4, 4-A y 8 de la Ley de Coordinación Fiscal y la sección III del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, celebrado entre la Secretaria de Hacienda y Crédito Público y el Gobierno del Estado de Baja California Sur.
+
 ### CAPÍTULO SEGUNDO. DE LAS PARTICIPACIONES Y APORTACIONES FEDERALES Y DE LAS PARTICIPACIONES ESTATALES
 
 #### SECCIÓN I. DE LAS PARTICIPACIONES FEDERALES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 3.
 
-Las Participaciones que correspondan a los municipios en los porcentajes que establece esta Ley, se calcularán para cada ejercicio fiscal.
+Las participaciones e incentivos que correspondan a los Municipios en los porcentajes que establece esta Ley se calcularan para cada ejercicio fiscal.
 
 Los municipios participarán en el total de los impuestos federales a que tengan derecho de conformidad con lo establecido en la Ley de Coordinación Fiscal y en otros ingresos que señale expresamente esta Ley mediante la distribución de los fondos que en la misma se establecen.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ###### Artículo 4.
 
-De las Participaciones que perciba el Estado, los municipios participarán conforme a los siguientes porcentajes:
+De las participaciones que perciba el Estado, los Municipios participarán conforme a los siguientes porcentajes:
 
 a) El 22% del Fondo General de Participaciones.
 
 b) El 100% del Fondo de Fomento Municipal.
 
-c) El 22% de las participaciones que reciba el Estado derivadas de la recaudación que se obtenga por concepto del Impuesto Especial sobre Producción y Servicios sobre cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados.
+c) El 22% del Impuesto Especial sobre Producción y Servicios sobre cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados.
 
-d) El 20% del Impuesto sobre Tenencia o uso de Vehículos.
+d) El 20% del Fondo de Fiscalización.
 
-e) El 20% del Impuesto Federal Sobre Automóviles Nuevos.
+e) De llegar a recibir el Estado recursos provenientes de la Reserva de Contingencia, a través de la Secretaría se participará a los Municipios, como mínimo, una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus Municipios del total de participaciones de la entidad.
 
-f) El 80% de los ingresos federales que obtengan los Municipios por los derechos de otorgamiento de concesiones por el uso o goce de la zona federal marítima-terrestre.
+En el conjunto de participaciones a los Municipios no se incluirán aquellas a que se refieren las fracciones I y II del artículo 2-A de la Ley de Coordinación.
 
-g) De llegar a recibir el Estado recursos provenientes de la Reserva de Contingencia, a través de la Secretaría se participará a los Municipios, como mínimo, una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus Municipios del total de participaciones de la entidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-En el conjunto de participaciones a los Municipios no se incluirán aquéllas a que se refieren las fracciones I y II del artículo 2-A de la Ley de Coordinación.
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 4 Bis.
+
+De los incentivos que percibe el Estado, los Municipios participarán conforme a los siguientes porcentajes:
+
+a) El 20% del Impuesto Sobre Tenencia o Uso de Vehículos.
+
+b) El 20% del Impuesto federal sobre automóviles nuevos.
+
+c) El 20% del Impuesto Especial Sobre Producción y Servicios, a la venta final de Gasolinas y Diesel.
+
+d) El 80% de los Ingresos Federales que obtengan los Municipios por los derechos de otorgamiento de concesiones por el uso o goce de la zona federal marítima-terrestre.
 
 ###### Artículo 5.
 
@@ -147,9 +177,31 @@ Los Municipios, cuando así corresponda, además de las Participaciones establec
 
 De las cantidades que el Estado perciba por concepto del Impuesto Especial sobre Producción y Servicios sobre: cerveza; bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados, conforme a la Ley de Coordinación, los Municipios participarán y les corresponderá el 22% y se distribuirá en los mismos porcentajes establecidos para la distribución del Fondo General de Participaciones, de conformidad con lo previsto en el artículo 5 de esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 8 Bis.
+
+De las cantidades que el Estado reciba por concepto de Fondo de Fiscalización conforme a la Ley de Coordinación, corresponderá a los Municipios, un 20% de la mismas, de acuerdo al cálculo de distribución que establece el artículo 6 de ésta Ley.
+
 ###### Artículo 9.
 
 De las cantidades que el Estado recaude por concepto del Impuesto Sobre Tenencia o Uso de Vehículos, corresponderá a los municipios el 20% de lo que en cada uno de ellos efectivamente se recaude.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+###### Artículo 9 Bis.
+
+De las 9/11 partes que el Estado recaude por concepto del Impuesto Especial Sobre Producción y Servicios a la Venta Final de Gasolinas y Diesel, corresponderá a los Municipios el 20%, conforme a la siguiente distribución:
+
+a) El 70% en proporción a su nivel de población según los resultados del último censo de población, proporcionados por el Instituto Nacional de Estadística, Geografía e Informativa (sic) (INEGI).
+
+b) El 20% en proporción al ingreso Municipal por tenencia de vehículos.
+
+c) El 10% en proporción al ingreso por servicios de tránsito.
 
 ###### Artículo 10.
 
@@ -322,3 +374,7 @@ El monto promedio anual de las cantidades que deban cubrirse por concepto de pag
 B.O. 11 DE MARZO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del uno de enero del año dos mil diez, previa su publicación, en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
