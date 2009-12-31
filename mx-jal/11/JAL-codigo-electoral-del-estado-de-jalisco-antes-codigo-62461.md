@@ -4,7 +4,7 @@ identifier: "JAL-codigo-electoral-del-estado-de-jalisco-antes-codigo-62461"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-05"
-last_updated: "2008-08-05"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Código publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 5 de agosto de 2008.
 
@@ -2243,9 +2243,11 @@ XIII. Proponer anualmente para su aprobación al Consejo General del Instituto E
 
 XIV. Rendir anualmente al Consejo General del Instituto Electoral, a más tardar en el mes de Julio, un informe detallado sobre el ejercicio del presupuesto del Instituto Electoral correspondiente al año anterior;
 
-XV. Remitir al titular del Poder Ejecutivo el proyecto de presupuesto de egresos del Instituto Electoral, aprobado por el Consejo General, para los efectos legales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-XVI. El proyecto de presupuesto a que se refiere el párrafo anterior debe contener la plantilla de personal en la que se especifiquen todos los empleos públicos, con inclusión del Consejero Presidente y de los Consejeros Electorales, así como las remuneraciones que, por concepto de salarios o cualquiera otro, les sean asignadas;
+XV. Remitir al titular del Poder Ejecutivo el proyecto de presupuesto de egresos del Instituto Electoral, aprobado por el Consejo General, para los efectos legales. El proyecto de presupuesto debe cumplir con los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación, y contener la plantilla de personal en la que se especifiquen todos los empleos públicos, con inclusión del Presidente y de los consejeros, así como las remuneraciones que les sean asignadas a los mismos, las cuales deben ser acordes a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables, sin que bajo ninguna circunstancia, puedan incorporarse ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración;
+
+XVI. (REFORMADA [N. DE E. DEROGADA], P.O. 31 DE DICIEMBRE DE 2009)
 
 XVII. Presentar para su aprobación al Consejo General el proyecto de convocatoria para las elecciones constitucionales;
 
@@ -7077,7 +7079,7 @@ II. Lugar, hora y fecha en que se practica;
 
 III. Nombre de la persona con quien se entienda la diligencia; y
 
-IV. Firma de! actuario o notificador.
+IV. Firma del actuario o notificador.
 
 2. Si no se encuentra presente el interesado, la diligencia se entenderá con quien se encuentre en el domicilio.
 
@@ -8130,3 +8132,9 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
