@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-el-escudo-bandera-e-himno-del-estado-de-jalisco-54694
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-22"
-last_updated: "2007-02-22"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY SOBRE EL ESCUDO, BANDERA E HIMNO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NUMERO 23088/LVIII/09, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 22 de febrero de 2007.
 
@@ -282,3 +284,9 @@ El Secretario General de Gobierno
 C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
