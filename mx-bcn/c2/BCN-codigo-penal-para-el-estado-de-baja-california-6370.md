@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2009-12-18"
+last_updated: "2009-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2169,9 +2169,11 @@ VIII.- Posea, use, compre, custodie o de cualquier otra manera adquiera o reciba
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de las penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por el período igual a la pena de prisión impuesta.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-Artículo 208 QUARTER.- Excluyente de pretensión punitiva.- Será causa excluyente de pretensión punitiva el contar con documento expedido por la Procuraduría General de Justicia del Estado, que haga constar que en sus registros no se encuentra denuncia o reporte de robo de vehículo de motor de que se trate o de cualquiera de las partes de éste, o bien el comparecer voluntariamente ante ésta autoridad a presentar un vehículo de motor, o bien, alguna o algunas de sus partes, con el objeto de cerciorarse de su legítima procedencia.
+Artículo 208 QUARTER.- Excluyente de Pretensión Punitiva.- Será causa excluyente de pretensión punitiva el contar con documento expedido por la Procuraduría General de Justicia del Estado, que haga constar que en sus registros no se encuentra denuncia o reporte de robo de vehículo de motor de que se trate o de cualquiera de las partes de éste, o bien el comparecer voluntariamente ante ésta autoridad a presentar un vehículo de motor, o bien, alguna o algunas de sus partes, con el objeto de cerciorarse de su legítima procedencia.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
 
 Será también excluyente de delito, acreditar con la documentación correspondiente:
 
@@ -2180,6 +2182,10 @@ I.- Haber adquirido el vehículo o cualquiera de sus partes en subasta pública;
 II.- Haber comprado el vehículo, parte o partes del mismo en una negociación legalmente establecida, o directamente de un particular respecto de un vehículo de su propiedad; y
 
 III.- Haber recibido en custodia el vehículo de motor o cualquiera de sus partes, para su reparación o mejora, siempre que se trate de una negociación legalmente establecida y dedicado al ramo correspondiente a la actividad a realizar sobre el vehículo o sus partes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+Asimismo, no serán sancionadas las conductas a que se refieren las fracciones VII y VIII del artículo 208 TER de este Código, cuando el vehículo de motor robado, parte o partes a que aluden dichas disposiciones, hayan sido proporcionados por persona a quien le opere respecto de tales bienes, alguna de las excluyentes a que se refiere el presente artículo.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
 
@@ -4608,3 +4614,7 @@ P.O. 27 DE NOVIEMBRE DE 2009.
 P.O. 18 DE DICIEMBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
