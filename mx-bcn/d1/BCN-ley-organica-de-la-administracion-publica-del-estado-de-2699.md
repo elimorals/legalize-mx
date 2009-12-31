@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2008-12-26"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -181,21 +181,15 @@ XII.- Secretaría del Trabajo y Previsión Social;
 
 XIII.- Secretaría de Protección al Ambiente;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
-
-XIV.- Dirección General de Informática;
+XIV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
 
 XV.- Dirección del Registro Público de la Propiedad y del Comercio;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
+XVI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-XVI.- Dirección de Relaciones Públicas;
-
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2005)</small>
-
-XVII.- Dirección de Comunicación Social;
+XVII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
 (REFORMADA, P.O. 29 DE JUNIO DE 2001) (REPUBLICADA, P.O. 28 DE OCTUBRE DE 2005)
 
@@ -487,7 +481,9 @@ XVII.- Planear e integrar los programas de inversión de la Administración Púb
 
 XVIII.- Vigilar la integración del sistema estatal de estadística e información para la planeación, que opere el Comité de Planeación para el Desarrollo del Estado;
 
-XIX.- Promover en las dependencias y entidades los programas de modernización administrativa derivados del Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XIX.- Promover en las dependencias y entidades los programas de modernización administrativa derivados del Plan Estatal de Desarrollo; así como los proyectos de innovación en los que se incorpore el uso de las tecnologías de la información y las telecomunicaciones;
 
 XX.- Dictaminar las modificaciones a la estructura orgánica básica de las dependencias y entidades de la Administración Pública Estatal; así como apoyarlas en la formulación de sus instrumentos normativos de carácter administrativo;
 
@@ -495,9 +491,13 @@ XXI.- Proporcionar asesoría en materia de planeación, programación, presupues
 
 XXII.- Formar parte de los órganos de dirección y de Gobierno de las entidades de la Administración Pública Paraestatal;
 
-XXIII.- (DEROGADA, P.O. 14 DE FEBRERO DE 2003)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-XXIV.- (DEROGADA, P.O. 14 DE FEBRERO DE 2003)
+XXIII.- Formular, definir, establecer, aplicar y evaluar las políticas, lineamientos y criterios técnicos en materia de tecnologías de informática y de las telecomunicaciones, a que deberán sujetarse las dependencias y entidades de la Administración Pública Estatal, y asegurar su cumplimiento; así como emitir dictámenes técnicos relacionados con programas de capacitación, adquisición y arrendamiento de equipo, la contratación de sistemas de informática, servicios de informática y telecomunicaciones desarrollados y/o proporcionados por terceros que requieran las dependencias o entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XXIV.- Definir la estrategia de crecimiento, administración y operación de la red estatal de telecomunicaciones y las redes particulares de las dependencias integradas a éstas, asegurando el desarrollo ordenado de la infraestructura de cómputo y telecomunicaciones del Ejecutivo del Estado; así como operar y administrar la red estatal de datos y las redes particulares de las dependencias y entidades de la Administración Pública Estatal que así lo soliciten;
 
 XXV.- Intervenir en el establecimiento de criterios y montos de los subsidios y estímulos fiscales, en coordinación con las dependencias a quien corresponda el fomento de las actividades productivas;
 
@@ -827,9 +827,27 @@ IX.- Fomentar, difundir y coordinar la enseñanza y práctica de los deportes y 
 
 X.- Promover, autorizar y vigilar el establecimiento y funcionamiento de los Centros de Protección, de Desarrollo Infantil y de Asistencia Social;
 
-XI.- Registrar y controlar el ejercicio profesional en el Estado, así como auspiciar y vigilar el establecimiento de Colegios y Asociaciones de Profesionales, y
+XI.- Registrar y controlar el ejercicio profesional en el Estado, así como auspiciar y vigilar el establecimiento de Colegios y Asociaciones de Profesionales, y (sic)
 
-XII.- Los demás que determinen expresamente las Leyes y Reglamentos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XII.- Asesorar y auxiliar al Ejecutivo del Estado en la fijación, instrumentación, ejecución y evaluación de la política de la juventud en la entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XlII.- Promover y ejecutar la política de la juventud en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XIV.- Fomentar la participación del sector público, privado y social, para apoyar, encauzar, motivar y promover a los jóvenes en actividades de educación académica, capacitación laboral, rehabilitación de adicciones, educación sexual, desenvolvimiento de sus aptitudes en las artes, la ciencia y el deporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XV.- Promover, coordinadamente con las dependencias y entidades de la Administración Pública Estatal, las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, culturales y de recreación; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XVI.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO XIII
 
@@ -871,49 +889,15 @@ XV.- Impulsar la permanente actualización de las Disposiciones Legales en mater
 
 XVI.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE FEBRERO DE 2003)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO XIV
 
 DE LA COMPETENCIA DE LA DIRECCION GENERAL DE INFORMATICA.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2003)</small>
-
 ###### ARTICULO 33.
 
-A la Dirección General de Informática, le corresponde la atención y trámite de los siguientes asuntos:
-
-I.- Formular, definir, establecer, aplicar y evaluar las políticas, lineamientos y criterios técnicos en materia de informática, a que deberán sujetarse las dependencias y entidades de la Administración Pública Estatal; así como vigilar su adecuado cumplimiento;
-
-II.- Definir la política para el desarrollo de soluciones de gobierno electrónico, aplicables a todos los sectores de la administración gubernamental;
-
-III.- Integrar, establecer y coordinar el Programa Estatal de Informática y, vigilar el cumplimiento de las acciones que lo integran, así como las actividades que en la materia desarrollen las dependencias y entidades de la Administración Pública Estatal;
-
-IV.- Integrar y coordinar el Sistema de Información Gubernamental, como mecanismo institucional para mantener actualizada y disponible para la Administración Pública Estatal, todo el conjunto de datos, indicadores y estadísticas de carácter relevante para el eficaz desempeño de sus funciones, así como la elaboración de nuevos sistemas que considere estratégicos;
-
-V.- Operar y administrar la red estatal de datos, así como redes particulares de las dependencias y entidades de la Administración Pública Estatal que así lo soliciten;
-
-VI.- Definir la estrategia de crecimiento, administración y operación de la red estatal de telecomunicaciones, así como las redes particulares de las dependencias integradas a éstas; asegurando el desarrollo ordenado de la infraestructura de telecomunicaciones del Ejecutivo del Estado;
-
-VII.- Formular en coordinación con las dependencias y entidades de la Administración Pública Estatal, los proyectos de cambio integral de las mismas, en los que se incorpore el uso de la tecnología en materia de informática, para lograr mayor eficiencia en la función gubernamental;
-
-VIII.- Proveer a las dependencias y entidades gubernamentales de nuevas aplicaciones y servicios computacionales, así como brindar y dirigir el servicio de procesamiento electrónico de datos, a través de la organización y operación de equipos, y la custodia, emisión y distribución de información derivada de los sistemas institucionales;
-
-IX.- Emitir los dictámenes técnicos relacionados con programas de capacitación, adquisición y arrendamiento de equipo, la contratación de servicios de consultoría o asesoría en materia de informática, y la contratación de sistemas desarrollados por terceros que requieran las dependencias o entidades de Administración Pública Estatal;
-
-X.- Proporcionar asesoría a las distintas dependencias y entidades gubernamentales para la adquisición, instalación y utilización del equipo de cómputo que requieran para el eficaz desempeño de sus funciones;
-
-XI.- Asesorar y apoyar técnicamente a las dependencias y entidades de la Administración Pública Estatal, en el diseño y generación de indicadores y estadísticas de la actividad gubernamental, así como su actualización y conservación mediante bancos de información;
-
-XII.- Diseñar la estrategia del portal institucional del Poder Ejecutivo, así como administrar el contenido y apoyar a las dependencias y entidades paraestatales que así lo soliciten, en el diseño, elaboración, publicación y actualización de las páginas que lo conforman;
-
-XIII.- Diseñar la estrategia del Intranet del Poder Ejecutivo, así como administrar el contenido y apoyar a las dependencias y entidades paraestatales que así lo soliciten, en el diseño, elaboración, publicación y actualización de las páginas que lo conforman;
-
-XIV.- Diseñar la estrategia y validación de la información institucional que se generen a través del uso de sistemas de información, asegurando la integridad, confiabilidad, homogeneidad y oportunidad de la información crítica para el estado, así como promover el uso transversal de la misma, para la mejor toma de decisiones por parte del Poder Ejecutivo;
-
-XV.- Establecer en coordinación con la Oficialía Mayor de Gobierno, los planes, programas y calendarios anuales para impartir cursos en materia de informática;
-
-XVI.- Los demás que determinen las Leyes y Reglamentos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2001)</small>
 
@@ -977,25 +961,17 @@ VI.- Permitir que las inscripciones sean examinadas dentro de las horas de labor
 
 VII.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
 ### CAPITULO XVII
 
 DE LA COMPETENCIA DE LA DIRECCION DE RELACIONES PUBLICAS.
 
 ###### ARTICULO 36.
 
-A la Dirección de Relaciones Públicas corresponde la atención y trámite de los siguientes asuntos:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-I.- Llevar las relaciones públicas, establecer y cuidar el protocolo para las actividades públicas del Ejecutivo;
-
-II.- Proporcionar a la Dirección de Comunicación Social información debidamente relacionada, con el fin de que existan canales de comunicación permanente con la ciudadanía en general;
-
-III.- Programar y coordinar los diferentes eventos especiales y cívicos del Ejecutivo;
-
-IV.- Motivar y establecer los medios necesarios para que la opinión pública participe conjuntamente en las actividades del Gobierno del Estado;
-
-V.- Atender a invitados oficiales y especiales que indique el Titular del Ejecutivo, y
-
-VI.- Los demás que determinen expresamente las Leyes y Reglamentos.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO XVIII
 
@@ -1003,17 +979,7 @@ DE LA COMPETENCIA DE LA DIRECCION DE COMUNICACION SOCIAL.
 
 ###### ARTICULO 37.
 
-A la Dirección de Comunicación Social corresponde la atención y trámite de los siguientes asuntos:
-
-I.- Difundir las actividades públicas que el Titular del Ejecutivo y demás Dependencias desarrollen;
-
-II.- Proporcionar información escrita, gráfica y/o grabada a los medios masivos de comunicación que emita el Gobernador y demás Dependencias del Estado;
-
-III.- Planear, diseñar y realizar las campañas de difusión publicitaria de las diversas Dependencias Estatales;
-
-IV.- Desarrollar investigaciones de opinión pública, respecto a la imagen general del Gobierno del Estado, en particular la del Gobernador y de las Dependencias del Poder Ejecutivo, y
-
-V.- Los demás que determinen expresamente las Leyes y Reglamentos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2001)</small>
 
@@ -1784,3 +1750,15 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de s
 SEGUNDO.- El Congreso del Estado autorizará las adecuaciones presupuestales necesarias para dar cumplimiento efectivo al presente Decreto.
 
 TERCERO.- El Ejecutivo del Estado deberá realizar las adecuaciones normativas necesarias para el efectivo cumplimiento de los alcances del presente Decreto a más tardar dentro de los 180 días siguientes de su publicación.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Las disposiciones contenidas en el Artículo Primero del presente Decreto entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Oficinas del Titular del Poder Ejecutivo contarán con los recursos necesarios para desempeñar las funciones de comunicación social y de relaciones públicas del Poder Ejecutivo del Estado. Los asuntos que se encuentren en trámite y pendiente de resolución en la Dirección de Relaciones Públicas y en la Dirección (sic) Comunicación Social al momento de entrar en vigor el Artículo Primero del presente Decreto, serán resueltos por las unidades administrativas de las Oficinas del Titular del Poder Ejecutivo que se adecuen para tal efecto.
+
+TERCERO.- La Secretaría de Planeación y Finanzas contará con los recursos necesarios para desempeñar las funciones de informática del Poder Ejecutivo del Estado. Los asuntos que se encuentren en trámite y pendiente de resolución en la Dirección General de Informática al momento de entrar en vigor el Artículo Primero del presente Decreto, serán resueltos por la unidad administrativa de la Secretaria de Planeación y Finanzas que se adecue para tal efecto.
+
+CUARTO.- La Secretaría de Educación y Bienestar Social contará con los recursos necesarios para desempeñar las funciones en materia de juventud en el Estado. Los asuntos que se encuentren en trámite y pendiente de resolución en el Instituto de la Juventud de Baja California al momento de entrar en vigor el Artículo Primero del presente Decreto, serán resueltos por la unidad administrativa de la Secretaría de Educación y Bienestar Social que se adecue para tal efecto.
+
+QUINTO.- Se derogan las disposiciones que se opongan al Artículo Primero del presente Decreto.
