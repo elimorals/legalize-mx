@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-del-registro-civil-del-estado-de-baja-california-691
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-20"
-last_updated: "2009-06-20"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de junio de 2009.
 
@@ -133,7 +133,9 @@ Para ser Director Estatal del Registro Civil se requiere:
 
 I. Ser mexicano por nacimiento y en pleno goce de sus derechos;
 
-II. Tener título profesional de licenciado en derecho;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
+
+II. Preferentemente tener título profesional de licenciado en derecho;
 
 III. Gozar de buena reputación y no haber sido condenado por delito intencional que merezca pena corporal;
 
@@ -856,3 +858,9 @@ ING. NARCISO AGUNDEZ MONTAÑO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 T. C. C. LUIS ARMANDO DIAZ.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+B.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno de Baja California Sur.
