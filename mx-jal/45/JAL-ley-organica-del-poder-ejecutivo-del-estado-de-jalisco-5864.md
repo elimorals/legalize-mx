@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2009-10-24"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
+LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2009.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -225,7 +225,7 @@ XXIII. Ejercer en coordinación con la Federación y los municipios en el ámbit
 
 XXIV. Las demás atribuciones generales que le confieran las leyes, reglamentos y decretos vigentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Art. 23.
 
@@ -327,7 +327,7 @@ En el Reglamento Interior de cada una de las Secretarías y Dependencias a que s
 
 En casos extraordinarios, o cuando exista duda sobre la competencia de alguna dependencia gubernamental para conocer de un asunto determinado, el Gobernador del Estado, por conducto de la Secretaría General de Gobierno, resolverá a qué secretaría o dependencia corresponde el despacho del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 27.
 
@@ -559,9 +559,9 @@ XXXIV. Formular estudios sobre apoyos presupuestales y de descentralización de 
 
 XXXV. Coadyuvar con el Secretario Técnico del Gobernador, en el control de los presupuestos de programas descentralizados de la Federación al Gobierno del Estado, a través del Convenio Único de Desarrollo o instrumento similar;
 
-(REFORMADA, P.O. 26 DE AGOSTO DE 2004) (F. DE E., P.O. 16 DE DICIEMBRE DE 2004)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-XXXVI. Vigilar que en el proyecto de Presupuesto de Egresos del Estado que se ponga a consideración del Congreso del Estado no se realice la incorporación, bajo ninguna circunstancia, de bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración que deben recibir legalmente los servidores públicos, cualquiera que sea su denominación, de conformidad con la normatividad aplicable; y
+XXXVI. Vigilar que en el proyecto de Presupuesto de Egresos del Estado que se ponga a consideración del Congreso del Estado, las remuneraciones de los servidores públicos se apeguen a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales y reglamentarias aplicables, evitando la incorporación de ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración, y
 
 (ADICIONADA, P.O. 26 DE AGOSTO DE 2004) (F. DE E., P.O. 16 DE DICIEMBRE DE 2004)
 
@@ -605,7 +605,7 @@ XV. Formular, actualizar y proponer al Titular del Poder Ejecutivo, los instrume
 
 XV (SIC). Las demás que le asignen la Ley, el presente reglamento y otras leyes e instrumentos normativos en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
 
 ###### Art. 32.
 
@@ -713,7 +713,7 @@ XII. Coadyuvar con la Secretaría de Medio Ambiente para el Desarrollo Sustentab
 
 XIII. Las demás que le concedan las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 1993)</small>
 
 ###### Art. 33.
 
@@ -757,7 +757,7 @@ XV. Participar, en coordinación con las autoridades competentes, en la planeaci
 
 XVI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
-(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000) (REPUBLICADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000) (REPUBLICADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2007)
 
 ###### Art. 33 Bis.
 
@@ -851,7 +851,7 @@ XXI. Ejercer, por Acuerdo del Gobernador del Estado, las atribuciones y funcione
 
 XXII. Las demás que le confieran esta Ley y otras disposiciones legales aplicables.
 
-(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
+(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 ###### Art. 34.
 
@@ -935,7 +935,7 @@ XVIII. Promover en coordinación con autoridades federales y estatales, la mejor
 
 XIX. Las demás que le confiera esta ley y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
 
 ###### Art. 35.
 
@@ -1251,7 +1251,7 @@ Los resultados del desempeño de la contraloría en el ejercicio de sus atribuci
 
 La contraloría proporcionará a la Contaduría Mayor de Hacienda los informes que ésta requiera sobre el resultado de los trabajos de vigilancia, auditoría y evaluación que la primera practique en las Secretarías y Dependencias del Ejecutivo, y la Segunda, recomendará los procedimientos inherentes a la función de la Contraloría que sean empleables para hacer más congruentes y eficaces las actividades de ambas Dependencias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
 
 ###### Art. 40.
 
@@ -1561,7 +1561,7 @@ D) Industria Jalisciense de Rehabilitación Social; y
 
 E) (DEROGADO, P.O. 17 DE OCTUBRE DE 2000)
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 1992)</small>
 
 II. Secretaría de Desarrollo Urbano:
 
@@ -1631,7 +1631,7 @@ A) Consejo Consultivo de Turismo del Estado de Jalisco;
 
 B) Consejo Estatal para el Desarrollo Turístico.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 1993)</small>
 
 VI. Secretaría de Finanzas:
 
@@ -1775,7 +1775,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Enrique Romero González
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE AGOSTO DE 1992.
 
@@ -1801,10 +1801,6 @@ P.O. 11 DE ENERO DE 1994
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-P.O. 11 DE JULIO DE 1995.
-
-UNICO.- La Secretaría de Vialidad y Transporte dispondrá lo necesario para que las funciones del Consejo se sigan coordinando dentro de esta estructura administrativa.
-
 P.O. 10 DE ENERO DE 1998
 
 PRIMERO.- El presente Decreto entrará en vigor a los ciento veinte días de su publicación en el Periódico Oficial del Estado.
@@ -1816,6 +1812,10 @@ TERCERO.- Para la debida integración y estructuración de la Secretaría de Seg
 CUARTO.- En el proceso de instalación y creación de la Secretaría de Seguridad Pública, Prevención y Readaptación Social, se preservarán íntegramente los derechos laborales de los servidores públicos del Estado que deban ser transferidos de una dependencia o entidad a otra, debiendo sujetarse a lo dispuesto por la Ley de Servidores Públicos del Estado de Jalisco y sus Municipios; y
 
 QUINTO.- El Ejecutivo de la Entidad, emitirá el reglamento interior de la Secretaría de Seguridad Pública, Prevención y Readaptación Social, en un plazo no mayor de treinta días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 11 DE JULIO DE 1995.
+
+UNICO.- La Secretaría de Vialidad y Transporte dispondrá lo necesario para que las funciones del Consejo se sigan coordinando dentro de esta estructura administrativa.
 
 P.O. 23 DE SEPTIEMBRE DE 2000.
 
@@ -1955,13 +1955,13 @@ P.O. 10 DE FEBRERO DE 2007.
 
 P.O. 22 DE FEBRERO DE 2007.
 
-DECRETO NUMERO 21824-LVII/07
+DECRETO NÚMERO 21824-LVII/07
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 22 DE FEBRERO DE 2007.
 
-DECRETO NUMERO 21825-LVII/07
+DECRETO NÚMERO 21825-LVII/07
 
 Primero. El presente Decreto entrará en vigor el día 1 de Marzo de 2007, previa publicación en el Periódico Oficial "El Estado de Jalisco", salvo la fracción XX del artículo 23, la cual entrará en vigor el 1° de abril de 2007.
 
@@ -2005,13 +2005,13 @@ SEGUNDO. Hasta en tanto se cuente con suficiencia presupuestal las funciones enc
 
 P.O. 24 DE OCTUBRE DE 2009.
 
-DECRETO No. 22689/LVIII/09, POR EL QUE SE REFORMA LA FRACCION XVI DEL ARTICULO 33 BIS DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO.
+DECRETO No. 22689/LVIII/09, POR EL QUE SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 33 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 24 DE OCTUBRE DE 2009.
 
-DECRETO No. 22747/LVIII/09, POR EL QUE SE REFORMA EL NOVENO TRANSITORIO FRACCION IX INCISO C) DEL DECRETO 13570 MEDIANTE EL CUAL SE EXPIDE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO.
+DECRETO No. 22747/LVIII/09, POR EL QUE SE REFORMA EL NOVENO TRANSITORIO FRACCIÓN IX INCISO C) DEL DECRETO 13570 MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -2020,3 +2020,7 @@ SEGUNDO. En todos los procesos, procedimientos, juicios, sucesiones, legados, co
 TERCERA. En las demás disposiciones legales y reglamentarias en las que se haga referencia al Instituto Cabañas se entendería que se refiere al organismo público descentralizado denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
 
 CUARTO. A partir de la entrada en vigor de este decreto, el Poder Ejecutivo deberá actualizar su clasificador por objeto del gasto antes de la presentación del proyecto de presupuesto de egresos para el ejercicio fiscal del 2010.
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
