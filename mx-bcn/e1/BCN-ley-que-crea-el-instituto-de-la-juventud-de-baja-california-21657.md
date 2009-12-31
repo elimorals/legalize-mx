@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-el-instituto-de-la-juventud-de-baja-california-216
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-22"
-last_updated: "2001-06-22"
+last_updated: "2009-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY QUE CREA EL INSTITUTO DE LA JUVENTUD DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO No. 344, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
 
-Ley publicada en la Sección I, del Periódico Oficial del Estado de Baja California, el 22 de junio de 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 ALEJANDRO GONZALEZ ALCOCER
 
@@ -406,3 +406,23 @@ LIC. ALEJANDRO GONZALEZ ALCOCER.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. JORGE RAMOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+PRIMERO.- Las disposiciones contenidas en el Artículo Segundo del presente Decreto, entrarán en vigor a los veinte días hábiles siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Continuarán en vigor los actos, resoluciones, acuerdos y las disposiciones de carácter general emitidas con fundamento en la Ley que crea el Instituto de la Juventud de Baja California que se abroga mediante el Artículo Segundo del presente Decreto, en lo que no se opongan al mismo; así como los poderes, mandatos y, en lo general, las representaciones otorgadas y las facultades concedidas, hasta en tanto no sean modificadas o revocadas expresamente.
+
+TERCERO.- Los asuntos que se encuentren en trámite y pendiente de resolución en el Instituto de la Juventud de Baja California (INJUVEN) al momento de entrar en vigor las presentes disposiciones, serán resueltos por la Secretaría de Educación y Bienestar Social.
+
+CUARTO.- Dentro del plazo de veinte días hábiles a que se refiere el Artículo Primero Transitorio del Artículo Segundo del presente Decreto, el Ejecutivo Estatal podrá adoptar las medidas normativas, presupuestales, patrimoniales, laborales y demás que resulten necesarias para dar cumplimiento a los efectos del Artículo Segundo del presente Decreto, en términos de la normatividad que resulte aplicable.
+
+Asimismo, dentro del plazo señalado en el párrafo anterior, el Instituto de la Juventud de Baja California (INJUVEN) deberá enviar la Cuenta Pública del Ejercicio Fiscal de 2009 en los términos de la Ley de Fiscalización Superior para el Estado de Baja California.
+
+Consecuentemente, la Secretaría de Educación y Bienestar Social, en coordinación con la Secretaría de Planeación y Finanzas del Estado de Baja California solventará las observaciones efectuadas por el Órgano de Fiscalización Superior sobre la Cuenta Pública del Ejercicio Fiscal de 2009.
+
+QUINTO.- Los nombramientos de Director General, del Instituto de la Juventud de Baja California que se extingue, y del personal que así corresponda conforme a su naturaleza, otorgados con fundamento en la Ley que se abroga, quedarán sin efectos, por lo que deberán ser liquidados conforme a la normatividad aplicable.
+
+SEXTO.- Se derogan las disposiciones que se opongan al Artículo Segundo del presente decreto.
