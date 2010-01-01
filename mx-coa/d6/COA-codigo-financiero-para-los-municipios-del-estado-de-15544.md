@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-15544"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-23"
-last_updated: "2008-12-23"
+last_updated: "2010-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 23 de julio de 1999.
 
@@ -257,6 +257,10 @@ c). Los fideicomitentes mientras sean poseedores de los inmuebles objeto del fid
 
 d). Los titulares de los derechos agrarios sobre la propiedad ejidal o comunal, de conformidad con lo establecido en la Ley Federal de la Reforma Agraria.
 
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2010)</small>
+
+e). Los gobiernos federales, estatal y municipal respecto de la propiedad o posesión de bienes inmuebles que se empleen para actividades distintas a la prestación de un servicio público, como almacenes, bodegas, oficinas administrativas y demás de naturaleza análoga.
+
 II. Por responsabilidad objetiva:
 
 Los adquirentes por cualquier título de predios urbanos, rústicos, ejidales, comunales, plantas de beneficio y establecimientos metalúrgicos o mineros, y las construcciones permanentes adheridas a ellos, así como el fiduciario mientras no transmita la propiedad en cumplimiento del fideicomiso.
@@ -295,11 +299,11 @@ La tasa o tarifa aplicable a este impuesto será la que al efecto establezca la 
 
 DE LAS EXENCIONES DEL IMPUESTO
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 30.
 
-Sólo los bienes del dominio público de la Federación, de los Estados o los Municipios estarán exentos del pago del impuesto predial, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+Solo los bienes del dominio público de la Federación, de los Estados o los Municipios estarán exentos del pago del impuesto predial, salvo que tales bienes sean utilizados para actividades distintas a la prestación de un servicio público, como almacenes, bodegas, oficinas administrativas y demás de naturaleza análoga.
 
 DE LA DETERMINACIÓN Y PAGO DEL IMPUESTO
 
@@ -4334,3 +4338,11 @@ P.O. 23 DE DICIEMBRE DE 2008.
 PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE ENERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
