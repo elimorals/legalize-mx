@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2009-03-25"
+last_updated: "2010-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -35,7 +35,7 @@ Que por la Secretaría del H. Congreso se me ha dirigido el siguiente:
 
 EL HONORABLE CUADRAGESIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA,
 
-C O N S I D E R A N D O :
+C O N S I D E R A N D O:
 
 Que por oficio número 03722 de fecha 24 de septiembre de 1986, el Ciudadano Licenciado Guillermo Jiménez Morales Gobernador del Estado, sometió a la consideración de este Honorable Cuerpo Colegiado la Iniciativa de Decreto del CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
@@ -2113,11 +2113,11 @@ I.- Por patrocinar o ayudar a diversos contendientes o partes con intereses opue
 
 II.- Por abandonar la defensa de un cliente o la atención de un negocio sin motivo justificado, ni aviso previo, causando daño.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
 
 ###### Artículo 238.
 
-Los defensores sociales que sin causa justificada incurrieren en los hechos expresados en esta sección, aparte de las sanciones ya señaladas, serán destituidos de sus cargos.
+Los Defensores Públicos que sin causa justificada incurrieren en los hechos expresados en esta sección, aparte de las sanciones ya señaladas, serán destituidos de sus cargos.
 
 #### SECCION SEXTA.- USURPACION DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE UNIFORMES O CONDECORACIONES
 
@@ -4287,7 +4287,7 @@ Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigad
 
 No se considerarán como causas excluyentes de responsabilidad del delito de tortura el que se invoque o existan situaciones excepcionales como inestabilidad política interna, urgencia en las investigaciones o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
 
-T R A N S I T O R I O S :
+T R A N S I T O R I O S:
 
 ###### ARTICULO 1º.
 
@@ -4516,3 +4516,11 @@ P.O. 25 DE MARZO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE ENERO DE 2010.
+
+PRIMERO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+SEGUNDO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor social o de oficio, se entenderá ahora por éstos a los Defensores Públicos.
