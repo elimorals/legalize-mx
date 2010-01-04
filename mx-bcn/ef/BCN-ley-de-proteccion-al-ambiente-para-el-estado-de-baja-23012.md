@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2009-12-31"
+last_updated: "2010-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -59,7 +59,9 @@ V. Preservar y restaurar el equilibrio ecológico, así como prevenir el deterio
 
 VI. Preservar y proteger la biodiversidad, establecer, regular y administrar las áreas naturales protegidas de competencia del Estado, así como manejar y vigilar las que se asuman por convenio con la Federación.
 
-VII. Prevenir y controlar la contaminación del aire, agua y suelo en las áreas que no sean competencia de la Federación;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+
+VII. Prevenir y controlar la contaminación del aire, agua, atmósfera y suelo en las áreas que no sean competencia de la Federación;
 
 VIII. Coordinar y concertar, entre las distintas dependencias y organismos de la administración pública federal, estatal y municipal en las acciones de protección al ambiente;
 
@@ -91,45 +93,49 @@ V. CONSEJO: Al Consejo Estatal de Protección al Ambiente del Estado de Baja Cal
 
 VI. CONSERVACIÓN: Conjunto de políticas y medidas orientadas a mantener la diversidad genética y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2010)</small>
 
-VII. EUTROFICACIÓN: Proceso de fertilización acelerada en lagos, arroyos y esteros, generado por un enriquecimiento de nutrientes que produce alga, lama y plantas que deterioran el ambiente acuático;
-
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
-
-VIII. FUENTE FIJA: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+VII.- CONTAMINACIÓN LUMÍNICA: Emisión de flujo luminoso en la atmósfera de fuentes artificiales nocturnas, en intensidades, direcciones, rangos espectrales y horarios innecesarios para la realización de las actividades previstas en la zona en que se instala la fuente;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-IX. FUENTE MOVIL: Unidad sujeta a movimiento que genera y emite contaminantes a la atmósfera;
+VIII. EUTROFICACIÓN: Proceso de fertilización acelerada en lagos, arroyos y esteros, generado por un enriquecimiento de nutrientes que produce alga, lama y plantas que deterioran el ambiente acuático;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-X. INVERNADERO (EFECTO DE): Propiedad de la atmósfera de dejar entrar de una manera fácil la radiación solar, pero que a la vez dificulta la salida del calor. Este fenómeno se acentúa por la acumulación de gases en el aire producidos por la combustión de hidrocarburos y otras actividades humanas;
+IX. FUENTE FIJA: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XI. LEY: Ley de Protección al Ambiente para el Estado de Baja California;
+X. FUENTE MÓVIL: Unidad sujeta a movimiento que genera y emite contaminantes a la atmósfera;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XII. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XI. INVERNADERO (EFECTO DE): Propiedad de la atmósfera de dejar entrar de una manera fácil la radiación solar, pero que a la vez dificulta la salida del calor. Este fenómeno se acentúa por la acumulación de gases en el aire producidos por la combustión de hidrocarburos y otras actividades humanas;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XIII. MEJOR TECNOLOGÍA DISPONIBLE: El conjunto de equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, logra la mayor reducción, minimización o eliminación de dichos contaminantes, o reduce su grado de peligrosidad, comparada con otras tecnologías usuales. Se entiende asimismo, que su implementación es técnicamente factible, que es posible su adquisición en el mercado regional, y que su costo es razonablemente comparable a tecnologías usuales, tradicionales o análogas;
+XII. LEY: Ley de Protección al Ambiente para el Estado de Baja California;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XIV. QUEMA: Combustión no controlada de cualquier sustancia o material;
+XIII. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XV. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
+XIV. MEJOR TECNOLOGÍA DISPONIBLE: El conjunto de equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, logra la mayor reducción, minimización o eliminación de dichos contaminantes, o reduce su grado de peligrosidad, comparada con otras tecnologías usuales. Se entiende asimismo, que su implementación es técnicamente factible, que es posible su adquisición en el mercado regional, y que su costo es razonablemente comparable a tecnologías usuales, tradicionales o análogas;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XVI. SECRETARÍA: Secretaría de Protección al Ambiente del Estado de Baja California.
+XV. QUEMA: Combustión no controlada de cualquier sustancia o material;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XVI. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+
+XVII. SECRETARÍA: Secretaría de Protección al Ambiente del Estado de Baja California.
 
 ###### ARTÍCULO 3.
 
@@ -257,13 +263,17 @@ XXXI. Promover consulta pública en materia ambiental. En el caso de plebiscitos
 
 XXXII. Ejercer todas aquellas acciones tendientes a la preservación y restauración del equilibrio ecológico, así como la prevención y control de la contaminación del aire, agua y suelo que no sean de competencia federal; y (sic)
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2010)</small>
+
+XXXIII. Además de la prevención y el control de la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico o al ambiente, proveniente de fuentes fijas que funcionen como establecimientos industriales, así como, en su caso, de fuentes móviles que no sean competencia federal o municipal;
+
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
-XXXIII. La Secretaría propondrá los derechos que correspondan al aprovechamiento de recursos naturales de actividades y proyectos de competencia estatal no reservados a la Federación, y
+XXXIV. La Secretaría propondrá los derechos que correspondan al aprovechamiento de recursos naturales de actividades y proyectos de competencia estatal no reservados a la Federación, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2008)</small>
 
-XXXIV. Las demás que conforme a la legislación local y federal aplicable le correspondan.
+XXXV. Las demás que conforme a la legislación local y federal aplicable le correspondan.
 
 ###### ARTÍCULO 9.
 
@@ -665,11 +675,15 @@ VII. La sustitución o eliminación de sustancias que afecten o puedan llegar a 
 
 VIII. El saneamiento y restauración ambiental voluntario, cuando quien lo realice no haya sido responsable de la contaminación o deterioro;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
 
-IX. Las actividades de reciclaje de residuos de manejo especial y residuos sólidos urbanos; y
+IX. Las actividades de reciclaje de residuos de manejo especial y residuos sólidos urbanos;
 
-X. En general, aquellas acciones relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2010)</small>
+
+X. La incorporación y utilización de mecanismos, equipos y tecnologías que tengan por objeto, evitar, reducir o controlar la contaminación lumínica; y
+
+XI. En general, aquellas acciones relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
 #### SECCIÓN IV. Del fondo ambiental
 
@@ -1317,7 +1331,9 @@ El Registro de Emisiones y Transferencia de Contaminantes, será el instrumento 
 
 ### CAPÍTULO III. Prevención y control de la contaminación del agua
 
-#### SECCIÓN V. Regulación de quemas
+#### SECCIÓN V. Prevención y control de la contaminación lumínica
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 110.
 
@@ -1445,15 +1461,49 @@ Las constancias a que se refiere el artículo anterior, serán emitidas por los 
 
 En todo caso, corresponde a la Secretaría, vigilar el adecuado funcionamiento de los centros de verificación.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE ENERO DE 2010)</small>
+
 #### SECCIÓN I. Criterios ambientales
 
 ###### ARTÍCULO 120.
 
-(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
+Para la prevención y control de la contaminación lumínica la Secretaría, tendrá las siguientes facultades:
+
+I.- Promover la creación y ejecución del Programa para la Prevención y Control de la Contaminación Lumínica, en apego a lo dispuesto en esta Ley, en la Ley General y las Normas Oficiales Mexicanas;
+
+II.- Promover la realización de estudios y proyectos destinados a prevenir y controlar la contaminación lumínica en los municipios de la entidad;
+
+III.- Apoyar a los Municipios en la elaboración y aplicación de sus reglamentos, normas y programas para prevenir la contaminación lumínica y sujetar a los establecimientos comerciales y de servicios a los requerimientos que consideren pertinentes en la materia;
+
+IV.- Promover campañas y actividades de capacitación, difusión y sensibilización sobre la importancia de prevenir la contaminación lumínica; y
+
+V.- Promover convenios de colaboración con organismos e instituciones de investigación local, nacional e internacional, interesadas en la preservación de la calidad de la atmósfera.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 121.
 
-(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
+En materia de prevención y control de la contaminación lumínica, los municipios tendrán las siguientes facultades:
+
+I.- Participar en la elaboración del Programa para la Prevención y Control de la Contaminación Lumínica, en apego a lo dispuesto en esta Ley, en la Ley General y las Normas Oficiales Mexicanas;
+
+II.- Promover las disposiciones de protección ambiental para evitar la contaminación lumínica, en el ámbito de su competencia, en particular;
+
+a) La regulación de los establecimientos mercantiles o de servicios;
+
+b) En materia de alumbrado público;
+
+c) En materia de edificaciones;
+
+d) En materia de imagen urbana, y
+
+e) En general aquellas que pudieran generar contaminación lumínica;
+
+III.- Integrar y mantener actualizado el inventario de luminarias y coordinarse con el gobierno estatal para la integración del inventario en el Estado;
+
+IV.- Promover campañas y actividades de capacitación, difusión y sensibilización sobre la importancia de prevenir la contaminación lumínica; y
+
+V.- Promover convenios de colaboración con organismos e instituciones de investigación local, nacional e internacional, interesadas en la preservación de la calidad de la atmósfera.
 
 ### CAPÍTULO IV. Prevención y control de la contaminación del suelo
 
@@ -2334,3 +2384,13 @@ SEGUNDO.- El Poder Ejecutivo del Estado, dentro del ámbito legal de sus atribuc
 TERCERO.- Los municipios del Estado, dentro del ámbito legal de sus competencias, deberán de ajustar su normatividad reglamentaria en la materia a los fines y objetivos de esta reforma.
 
 CUARTO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE ENERO DE 2010.
+
+###### ARTÍCULO PRIMERO
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO
+
+Los municipios deberán crear o adecuar sus reglamentos, y demás disposiciones normativas, debiéndolos expedir dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este ordenamiento.
