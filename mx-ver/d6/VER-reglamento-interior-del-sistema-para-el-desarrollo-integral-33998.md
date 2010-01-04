@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-sistema-para-el-desarrollo-integral-339
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-08"
-last_updated: "2003-09-08"
+last_updated: "2010-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 4 DE ENERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 8 de septiembre de 2003.
 
@@ -760,3 +762,19 @@ Dado en la ciudad de Xalapa-Enríquez, Veracruz, a los cuatro días del mes de j
 Doctor Mauro Loyo Varela, presidente de la Junta de Gobierno del Sistema DIF Veracruz.- Rúbrica. Doctor Rafael Grajales Sensores, director general del Sistema DIF Veracruz.- Rúbrica.
 
 Vocales de la Junta de Gobierno: Licenciado Flavino Ríos Alvarado, ingeniero Everardo Souza Landa, doctor Luis Fernando Antiga Tinoco, Profra. Xóchitl A. Osorio Martínez, doctor Juan Antonio Amieva Huerta, licenciado Juan Maldonado Pereda, licenciado Pericles Namorado Urrutia, licenciado Fernando Charleston Salinas, ingeniero Juan Carmona Rascón.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 4 DE ENERO DE 2010.
+
+Artículo primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia, publicado en la Gaceta Oficial del estado de Veracruz de fecha 8 de Septiembre de 2003 y se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+Artículo tercero. Se establece un término de 60 días naturales, para actualizar y publicar los manuales administrativos de todas las áreas que integran al Sistema.
+
+Artículo cuarto. Para los asuntos no previstos en la Ley o en el presente Reglamento, se sujetarán a lo que al efecto acuerde la Junta de Gobierno.
+
+Artículo quinto. Túrnese a la Contraloría General del Estado de Veracruz para efectos del registro del presente ordenamiento de conformidad con el Artículo 34, fracción XIV de la Ley Orgánica del Poder Ejecutivo.
+
+Artículo sexto. Que en la Tercera Sesión Ordinaria del ejercicio 2009 de la Junta de Gobierno, celebrada el 30 de septiembre de 2009, fue presentado y aprobado en lo general y en lo particular el presente ordenamiento.
