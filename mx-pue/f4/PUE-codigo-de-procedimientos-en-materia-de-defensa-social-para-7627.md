@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2007-03-23"
+last_updated: "2010-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2010.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -431,7 +431,9 @@ III.- Será obligatoria, en la vista de la causa, la presencia del defensor, qui
 
 IV.- Si el defensor violare las prevenciones, que respecto a él contiene este artículo, se impondrá al infractor de plano una corrección disciplinaria de tres a treinta días de salario mínimo y se procederá a designar nuevo defensor en la forma que previene la ley;
 
-V.- Si el faltista fuere defensor de oficio, se comunicará la falta a su superior inmediato.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+
+V.- Si el faltista fuere Defensor Público, se comunicará la falta a su superior inmediato.
 
 ###### Artículo 36.
 
@@ -893,7 +895,9 @@ III.- Se le harán saber los siguientes derechos que le otorga la Constitución 
 
 a) No declarar si así lo desea, o en caso contrario, a declarar asistido por su defensor;
 
-b) Tener una defensa adecuada por sí, por abogado o por persona de su confianza, o si no quisiere o no pudiere designar defensor, se le designará desde luego un defensor de oficio;
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
+
+b) Tener una defensa adecuada por sí, por abogado o por persona de su confianza, o si no quisiere o no pudiere designar defensor, se le designará desde luego un Defensor Público;
 
 c) Que su defensor comparezca en todos los actos de desahogo de pruebas dentro de la averiguación;
 
@@ -1943,9 +1947,9 @@ VII.- Si el acusado se negare a responder a las preguntas que se le hicieren, se
 
 VIII.- No podrá el Juez emplear la incomunicación ni ningún otro medio coercitivo, para lograr la declaración.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
 
-IX.- Se hará saber en la misma diligencia al detenido la garantía de la libertad caucional, en los casos en que proceda, y el derecho que tiene a una defensa adecuada por sí, por abogado o por persona de su confianza, advirtiéndole que si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, el Juez le nombrará de oficio un defensor social, y
+IX.- Tendrá derecho a una defensa adecuada por abogado, el cual elegirá libremente incluso desde el momento de su detención, si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el Juez le designará un Defensor Público, también tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá la obligación de hacerlo cuantas veces se le requiera, y
 
 X.- Cuando el acusado hubiere nombrado varios defensores, éstos estarán obligados a nombrar un representante común o, en su defecto, lo hará el Juez.
 
@@ -2151,7 +2155,9 @@ I.- Se verificará la audiencia concurran o no las partes, salvo el Ministerio P
 
 II.- Si el defensor fuere particular y no asistiere a la audiencia sin contar para ello con la autorización expresa del acusado, se impondrá a aquél una corrección disciplinaria.
 
-III.- Se nombrará al acusado un defensor de oficio, salvo lo dispuesto en la fracción siguiente.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+
+III.- Se nombrará al acusado un Defensor Público, salvo lo dispuesto en la fracción siguiente.
 
 IV.- Si el acusado está presente y designa a otra persona para que continúe su defensa en la propia audiencia, se tendrá a esa persona como su defensor.
 
@@ -2455,7 +2461,9 @@ Son aplicables a la apelación las siguientes disposiciones:
 
 I.- Interpuesto el recurso en términos legales, el Juez que dictó la resolución apelada, lo admitirá o desechará de plano, previniendo en el primer caso a las partes, excepto al Ministerio Público, señalen casa para notificaciones ubicada en el lugar en que radique el Tribunal de alzada, y al acusado nombre defensor para la Segunda Instancia.
 
-II.- Si el acusado no nombra defensor o el nombrado no acepta, dentro de los tres días siguientes a la fecha en que se le haga saber su nombramiento, la Sala nombrará al Defensor de Oficio.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+
+II.- Si el acusado no nombra defensor o el nombrado no acepta, dentro de los tres días siguientes a la fecha en que se le haga saber su nombramiento, la Sala nombrará al Defensor Público.
 
 III.- Si las partes no señalan casa para notificaciones, estas se le harán por cédula que se fijará en la puerta de la Sala.
 
@@ -3656,3 +3664,11 @@ P.O. 23 DE MARZO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE ENERO DE 2010.
+
+PRIMERO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+SEGUNDO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor social o de oficio, se entenderá ahora por éstos a los Defensores Públicos.
