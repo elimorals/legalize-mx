@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2009-04-13"
+last_updated: "2010-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -12169,9 +12169,11 @@ Los cónyuges no pueden celebrar entre sí, el contrato de compraventa, si el r�
 
 Los funcionarios enumerados en el artículo 1669, no pueden comprar los bienes que sean objeto del juicio o procedimiento económicocoactivo (sic) en que intervengan respectivamente.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
+
 ###### Artículo 2147.
 
-La prohibición a que se refiere el artículo anterior y la establecida en el 1725, se extiende también al Ministerio Público, defensores de oficio, abogados, procuradores y testigos que intervengan en el juicio que verse sobre el bien vendido.
+La prohibición a que se refiere el artículo anterior y la establecida en el 1725, se extiende también al Ministerio Público, Defensores Públicos, abogados, procuradores y testigos que intervengan en el juicio que verse sobre el bien vendido.
 
 ###### Artículo 2148.
 
@@ -19882,3 +19884,11 @@ TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE ABRIL DE 2009.
 
 ÚNICO.- El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor a partir del día uno de julio de dos mil nueve.
+
+P.O. 4 DE ENERO DE 2010.
+
+PRIMERO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+SEGUNDO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor social o de oficio, se entenderá ahora por éstos a los Defensores Públicos.
