@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-40961"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-08-09"
-last_updated: "2008-01-25"
+last_updated: "2010-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 ENERO DE 2010.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 9 de agosto de 2004.
 
@@ -179,7 +179,9 @@ III.- Cuando las partes manifiesten que no desean ser patrocinadas por abogado p
 
 IV.- Cuando se trate de promociones que no tiendan a impulsar el procedimiento o de aquéllas por las que se interponga algún medio de impugnación.
 
-En los casos de las fracciones II y III del presente artículo, el Estado para asegurar la debida defensa de los intereses del particular, les proveerá un defensor social, sin perjuicio de que puedan ser patrocinados de manera gratuita por abogados de los bufetes de las instituciones públicas o privadas, que prestan tal servicio, los que deberán cubrir los mismos requisitos.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
+
+En los casos de las fracciones II y III del presente artículo, el Estado para asegurar la debida defensa de los intereses del particular, le proveerá un Defensor Público, sin perjuicio de que puedan ser patrocinados de manera gratuita por abogados de los bufetes de las instituciones públicas o privadas, que prestan tal servicio, los que deberán cubrir los mismos requisitos.
 
 ###### Artículo 20.
 
@@ -857,7 +859,7 @@ XVII.- Para la designación de tutor, rendición y aprobación de cuentas de és
 
 XVIII.- En los casos de impedimento para contraer matrimonio, el del lugar donde se hayan presentado los contrayentes;
 
-XIX.- En el juicio de alimentos, el del último domicilio familiar o el del lugar de residencia del o de los acreedores alimentarios, a elección de estos últimos;
+XIX.- En el juicio de alimentos, el del último domicilio familiar o el del lugar de residencia del o de los acreedores alimentarios, a elección de éstos últimos;
 
 XX.- En las acciones derivadas de actos celebrados por medios electrónicos, el del domicilio del actor, y
 
@@ -3131,7 +3133,7 @@ b).- A partir de la fecha en que se entregue al demandado la cédula hipotecaria
 
 c).- El demandado tendrá el carácter de depositario judicial, y si no acepta en el acto de la diligencia, el actor designará al que estime conveniente;
 
-d).- Si la diligencia no se entendiere directamente con el deudor, éste deberá dentro de los tres días siguientes, manifestar si acepta la responsabilidad de depositario, si no lo hace, el actor podrá pedir que se le entregue la tenencia material del inmueble, y
+d).- Si la diligencia no se entendiere directamente con el deudor, éste deberá dentro de los tres días siguientes, manifestar si acepta la responsabilidad de depositario, si no lo hace, el actor podrá pedir que se le entregue la tenencia material del inmueble; y
 
 e).- Si en el título fundatorio de la acción, se advierte que hay otros acreedores hipotecarios anteriores, el Juez mandará notificarles la existencia del juicio para que manifiesten lo que a su derecho corresponda.
 
@@ -3779,7 +3781,7 @@ II.- Si se pide el embargo de bienes indeterminados, se procederá conforme a la
 
 ###### Artículo 526.
 
-El solicitante de la medida precautoria otorgará garantía para responder de los daños y perjuicios que puedan causarse a la persona contra quien se pide, pero si la medida precautoria tiende a asegurar el pago de alimentos, de la responsabilidad civil proveniente del delito o de algún otro caso que prevenga la Ley, se decretará sin necesidad de otorgar aquella.
+El solicitante de la medida precautoria otorgará garantía para responder de los daños y perjuicios que puedan causarse a la persona contra quien se pide, pero si la medida precautoria tiende a asegurar el pago de alimentos, de la responsabilidad civil proveniente del delito o de algun otro caso que prevenga la Ley, se decretará sin necesidad de otorgar aquella.
 
 ###### Artículo 527.
 
@@ -6238,3 +6240,11 @@ P.O. 25 DE ENERO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE ENERO DE 2010.
+
+PRIMERO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+SEGUNDO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor social o de oficio, se entenderá ahora por éstos a los Defensores Públicos.
