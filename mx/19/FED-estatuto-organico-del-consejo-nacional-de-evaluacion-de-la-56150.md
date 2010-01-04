@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-evaluacion-de-la-5615
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-07-16"
-last_updated: "2007-07-16"
+last_updated: "2010-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-03-16"
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE EVALUACION DE LA POLITICA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 2010.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 16 de julio de 2007.
 
@@ -570,6 +570,10 @@ XI. Proponer al Secretario Ejecutivo el ingreso, promoción, licencia y remoció
 XII. Hacer del conocimiento del órgano interno de control en el Consejo, las quejas, denuncias e inconformidades que le sean presentadas por servidores públicos, personas o grupos sociales;
 
 XIII. Las demás que le confieran otras disposiciones jurídicas aplicables, el Consejo o el Secretario Ejecutivo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2010)</small>
+
+Artículo 30 bis.- Los titulares de las Direcciones Generales Adjuntas y de la Dirección de Servicios Jurídicos tendrán la facultad de expedir certificaciones de las constancias de los expedientes relativos a los asuntos de su competencia.
 
 ### Capítulo VIII. De la Dirección General Adjunta de Administración
 
@@ -1292,3 +1296,11 @@ Secretario Ejecutivo
 Gonzalo Hernández Licona
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 4 DE ENERO DE 2010.
+
+PRIMERO.- La presente reforma al Estatuto Orgánico del Consejo Nacional de Evaluación de la Política de Desarrollo Social entrará en vigor al día siguiente de la aprobación de su H. Comité Directivo.
+
+SEGUNDO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social y para su mayor difusión en el Diario Oficial de la Federación.
