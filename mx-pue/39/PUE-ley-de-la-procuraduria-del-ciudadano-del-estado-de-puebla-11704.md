@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-procuraduria-del-ciudadano-del-estado-de-puebla-11704
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-31"
-last_updated: "1997-12-31"
+last_updated: "2010-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA PROCURADURIA DEL CIUDADANO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2010.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Puebla, el miércoles 31 de diciembre de 1997.
 
@@ -249,7 +249,9 @@ V.- Dirección de Servicios Periciales;
 
 VI.- Dirección Administrativa; y,
 
-Además, contará con los Defensores Sociales necesarios para cumplir con el objeto de la Procuraduría del Ciudadano.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
+
+Además, contará con los Defensores Públicos necesarios para cumplir con el objeto de la Procuraduría del Ciudadano.
 
 ### CAPITULO II. DEL TITULAR DE LA PROCURADURIA
 
@@ -293,7 +295,9 @@ VI.- Intervenir en los asuntos de interés social, particularmente de carácter 
 
 VII.- Atender las consultas de los ciudadanos, a efecto de brindar asesoría legal, en la prevención de conflictos futuros;
 
-VIII.- Nombrar a los Defensores Sociales y determinar su adscripción, conforme a los lineamientos previstos en esta Ley; así como al personal administrativo necesario para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+
+VIII.- Nombrar a los Defensores Públicos y determinar su adscripción, conforme a los lineamientos previstos en esta Ley; así como al personal administrativo necesario para el cumplimiento de sus funciones;
 
 IX.- Procurar asesoría jurídica gratuita a personas carentes de recursos económicos, así como a aquellos que la Ley les otorga especial protección por su condición jurídica o social, en asuntos de naturaleza penal, civil, familiar, mercantil, agraria, laboral y administrativa, con el propósito de defender sus derechos;
 
@@ -361,7 +365,9 @@ VII.- Conforme a los lineamientos que establezca el Procurador del Ciudadano, as
 
 VIII.- Coordinar la elaboración de los manuales de organización y procedimientos de las Unidades Administrativas de la Procuraduría del Ciudadano, para su autorización;
 
-IX.- Encomendar a los Directores de Area o a los Defensores Sociales, la atención, estudio, opinión o trámite de los asuntos que estime de especial interés;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+
+IX.- Encomendar a los Directores de Área o a los Defensores Públicos, la atención, estudio, opinión o trámite de los asuntos que estime de especial interés;
 
 X.- Intervenir directamente en la atención, estudio, opinión o trámite de los asuntos que estime conveniente;
 
@@ -455,9 +461,11 @@ Los Titulares de las Direcciones señaladas en los anteriores artículos, deber�
 
 ### CAPITULO VI. DE LOS DEFENSORES SOCIALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2010)</small>
+
 ###### Artículo 25.
 
-Para ser Defensor Social, se requiere:
+Para ser Defensor Público, se requiere:
 
 I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -465,13 +473,17 @@ II.- Ser Abogado o Licenciado en Derecho, con cédula profesional legalmente exp
 
 III.- Acreditar que ha observado buena conducta y no haber sido condenado como responsable de delito doloso.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
+
 ###### Artículo 26.
 
-Los aspirantes a Defensores Sociales, deberán sustentar y aprobar el examen de admisión, en la forma y términos que se fijen en la convocatoria respectiva.
+Los aspirantes a Defensores Públicos, deberán sustentar y aprobar el examen de admisión, en la forma y términos que se fijen en la convocatoria respectiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2010)</small>
 
 ###### Artículo 27.
 
-Los Defensores Sociales tendrán las siguientes atribuciones:
+Los Defensores Públicos tendrán las siguientes atribuciones:
 
 I.- En asuntos de índole penal, prestar el servicio de defensa de cualquier detenido, indiciado, procesado, sentenciado o reo, sin distinción alguna, cuando así se solicite o sea nombrado por orden Ministerial o Judicial;
 
@@ -501,13 +513,17 @@ XIII.- Intervenir en todos aquellos asuntos de interés social o de carácter co
 
 XIV.- Vigilar que se cumpla estrictamente con las disposiciones legales y administrativas en los asuntos a él encomendados;
 
-XV.- Los Defensores Sociales percibirán una remuneración equivalente a la que perciben los Agentes del Ministerio Público del fuero común.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+
+XV.- Los Defensores Públicos percibirán una remuneración equivalente a la que perciben los Agentes del Ministerio Público del fuero común;
 
 XVI.- Las demás que le señale la presente Ley, el Reglamento, le encomiende el Procurador del Ciudadano, Subprocurador o Director de Area.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2010)</small>
+
 ###### Artículo 28.
 
-Los Defensores Sociales están impedidos para:
+Los Defensores Públicos están impedidos para:
 
 I.- Ejercer la Abogacía en lo particular, excepto cuando se trate de asuntos en los que sean parte sus ascendientes, descendientes, cónyuge o concubina, parientes consanguíneos por afinidad o civil hasta el cuarto grado;
 
@@ -515,9 +531,11 @@ II.- Actuar como apoderados judiciales, síndicos, administradores e interventor
 
 III.- Solicitar, aceptar o insinuar dádivas de cualquier naturaleza o alguna remuneración de sus defensos, patrocinados o de personas interesadas en los asuntos encomendados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2010)</small>
+
 ###### Artículo 29.
 
-Los Defensores Sociales incurrirán en responsabilidad por las causas siguientes:
+Los Defensores Públicos incurrirán en responsabilidad por las causas siguientes:
 
 I.- Negarse, sin causa justificada a patrocinar las defensas o asuntos que por su área le correspondan;
 
@@ -529,9 +547,11 @@ IV.- No promover oportunamente los recursos legales que procedan, incurrir en ne
 
 V.- Dejar de cumplir las obligaciones que le impone esta Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2010)</small>
+
 ###### Artículo 30.
 
-Los Defensores Sociales podrán excusarse del patrocinio de los asuntos del área de su asignación cuando:
+Los Defensores Públicos podrán excusarse del patrocinio de los asuntos del área de su asignación cuando:
 
 I.- Tenga relación de afecto, amistad o parentesco, con la parte contraria del solicitante del servicio;
 
@@ -547,7 +567,9 @@ IV.- Cuando surja una de estas causas durante la tramitación del asunto a él e
 
 Las responsabilidades en que incurran los integrantes de la Procuraduría del Ciudadano, serán sancionadas bajo los lineamientos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-Tratándose de los Directores de Area, Defensores Sociales y Personal Administrativo, el Subprocurador, tomará las medidas necesarias a fin de que, no se suspenda el trámite de los asuntos encomendados al infractor.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
+
+Tratándose de los Directores de Área, Defensores Públicos y Personal Administrativo, el Subprocurador, tomará las medidas necesarias a fin de que, no se suspenda el trámite de los asuntos encomendados al infractor.
 
 ### CAPITULO VIII. DE LAS SUPLENCIAS
 
@@ -559,9 +581,11 @@ Las faltas accidentales o temporales del Procurador del Ciudadano, serán suplid
 
 Las faltas del Subprocurador, serán suplidas por el Director de Area que el Procurador designe.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
+
 ###### Artículo 34.
 
-Las faltas de los Directores, Defensores Sociales y Personal Administrativo, serán suplidas, por la persona que el Subprocurador designe, procurando que no se retarde el trámite de los asuntos encomendados a la Procuraduría del Ciudadano.
+Las faltas de los Directores, Defensores Públicos y Personal Administrativo, serán suplidas, por la persona que el Subprocurador designe, procurando que no se retarde el trámite de los asuntos encomendados a la Procuraduría del Ciudadano.
 
 ## TRANSITORIOS
 
@@ -596,3 +620,13 @@ El Ejecutivo del Estado expedirá las disposiciones Reglamentarias conducentes p
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza a los seis días del mes de marzo de mil novecientos noventa y siete. Diputado Presidente.- CARLOS BARRIENTOS DE LA ROSA.- Rúbrica.- Diputado Secretario.- GERARDO TECPANECATL ROMERO.- Rúbrica.- Diputada Secretaria.- BENITA VILLA HUERTA.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DIAZ.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS MANUEL MEZA VIVEROS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE ENERO DE 2010.
+
+PRIMERO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+SEGUNDO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor social o de oficio, se entenderá ahora por éstos a los Defensores Públicos.
