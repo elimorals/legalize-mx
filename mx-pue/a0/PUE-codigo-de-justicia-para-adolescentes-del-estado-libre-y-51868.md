@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-justicia-para-adolescentes-del-estado-libre-y-51868"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-11"
-last_updated: "2009-03-25"
+last_updated: "2010-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE JUSTICIA PARA ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2010.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 11 de septiembre de 2006.
 
@@ -71,7 +71,9 @@ III.- Código.- El Código de Justicia para Adolescentes del Estado Libre y Sobe
 
 IV.- Consejo General Interdisciplinario.- Órgano colegiado de carácter público e interinstitucional, auxiliar del Ejecutivo del Estado y encargado de proponer políticas en materia de ejecución de medidas para adolescentes, así como de rehabilitación y asistencia social para personas menores de doce años; formular los estudios que deba conocer y dictaminar conforme a este Código para la determinación de responsabilidades, la imposición de medidas o el otorgamiento de beneficios de libertad anticipada; de coadyuvar pericialmente con las autoridades competentes en materia de justicia de menores, y de emitir las recomendaciones necesarias para la adecuada aplicación de las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente;
 
-V.- Defensor Social.- Defensor especializado para adolescentes, dependiente de la Procuraduría del Ciudadano;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+
+V.- Defensor Público.- Defensor especializado para adolescentes, dependiente de la Procuraduría del Ciudadano;
 
 VI.- DIF.- Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
 
@@ -205,7 +207,9 @@ II.- Ninguna persona sujeta de este Código podrá ser sometida a un procedimien
 
 III.- En ningún caso los sujetos de este Código podrán ser juzgados o valorados en ausencia;
 
-IV.- El Juez, el Ministerio Público o la autoridad que deba valorarlos, comunicará a los sujetos de este Código en forma inmediata que podrán nombrar por sí o a través de quien los represente legalmente a alguna persona de su confianza para que los defienda, a la cual se requerirá que proporcione su grado de escolaridad, y de no contar con cédula profesional que lo acredite como abogado, sin perjuicio de su designación deberá nombrarse al Defensor Social de la adscripción, con la finalidad de garantizar una adecuada defensa;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+
+IV.- Tendrá derecho a una defensa adecuada por abogado, el cual elegirá libremente incluso desde el momento de su detención, si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el Juez le designará un Defensor Público, también tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá la obligación de hacerlo cuantas veces se le requiera;
 
 V.- En ningún caso podrá recaer la defensa o representación legal de la persona a quien se atribuya la realización de una conducta tipificada como delito y de la víctima, sobre la misma persona en un mismo procedimiento;
 
@@ -393,9 +397,11 @@ VI.- Los Ayuntamientos; y
 
 VII.- Las Instituciones de Salud y Asistencia en el Estado.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
+
 ###### Artículo 36.
 
-Los Defensores Sociales, deberán tener los conocimientos sobre los derechos fundamentales de los adolescentes y en todos los asuntos donde sea parte, vigilará con estricto apego al Código, que no se violen las garantías del adolescente, teniendo la obligación de mantenerlo informado al igual que a sus padres, tutores, o quien ejerza la patria potestad, custodia o representación legal, sobre el curso de la investigación o procedimiento.
+Los Defensores Públicos, deberán tener los conocimientos sobre los derechos fundamentales de los adolescentes y en todos los asuntos donde sea parte, vigilará con estricto apego al Código, que no se violen las garantías del adolescente, teniendo la obligación de mantenerlo informado al igual que a sus padres, tutores, o quien ejerza la patria potestad, custodia o representación legal, sobre el curso de la investigación o procedimiento.
 
 ###### Artículo 37.
 
@@ -767,9 +773,9 @@ III.- Se le encuentren objetos o instrumentos directamente relacionados con los 
 
 En los casos de flagrancia, el Ministerio Público decretará bajo su responsabilidad, si procediere, la retención provisional del acusado hasta por un plazo de cuarenta y ocho horas, misma que podrá consistir en la detención preventiva en el Centro de Internamiento Especializado, en un centro médico, en un sitio seguro e independiente de los de detención para los mayores de edad o en su domicilio, con vigilancia de la policía competente para el caso, o en su caso, la remisión del adolescente al DIF, con el objeto de estar en posibilidad de realizar las investigaciones pertinentes y en su caso ordenar la remisión ante el Juez.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
 
-Si el hecho ocurrió en un lugar donde no haya Ministerio Público, ni Juez Especializado, deberá conocer el Ministerio Público del lugar o la autoridad que en auxilio de él se aboque al conocimiento del hecho, con la intervención del Defensor Social, iniciará inmediatamente la investigación del caso y dictará las providencias que sean necesarias, estableciendo la personalidad del menor, sus condiciones socio-familiares, la naturaleza de su conducta y las circunstancias que en ella concurrieron; además proveerá lo necesario para el cuidado personal del adolescente detenido y su retención, la cual podrá realizarse en las áreas que para el efecto deberán destinar especialmente los Ayuntamientos de las cabeceras distritales, con el fin de evitar su internamiento en un establecimiento o centro penitenciario. Las investigaciones ministeriales que se practiquen conforme a este párrafo, así como la remisión, deberán enviarse a la autoridad judicial del lugar donde se haya cometido la conducta dentro de un máximo de cuarenta y ocho horas, la cual deberá practicar las diligencias constitucionales urgentes en auxilio del Juez Especializado.
+Si el hecho ocurrió en un lugar en donde no haya Ministerio Público ni Juez Especializado, deberá conocer el Ministerio Público del lugar o la autoridad que en auxilio de él se aboque al conocimiento del hecho, con intervención del Defensor Público, iniciará inmediatamente la investigación del caso y dictará las providencias que sean necesarias, estableciendo la personalidad del menor, sus condiciones sociofamiliares, la naturaleza de su conducta y las circunstancias que en ella concurrieron; además proveerá lo necesario para el cuidado personal del adolescente detenido y su retención, la cual podrá realizarse en las áreas que para el efecto deberán destinar especialmente los Ayuntamientos de las cabeceras distritales, con el fin de evitar su internamiento en un establecimiento o centro penitenciario. Las investigaciones ministeriales que se practiquen conforme a este párrafo, así como la remisión, deberán enviarse a la autoridad judicial del lugar donde se haya cometido la conducta dentro de un máximo de cuarenta y ocho horas, la cual deberá practicar las diligencias constitucionales urgentes en auxilio del Juez Especializado.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2009)</small>
 
@@ -891,7 +897,9 @@ VII.- Si el acusado se negare a responder a las preguntas que se le hicieren, se
 
 VIII.- No podrá el Juez emplear la incomunicación ni ningún otro medio coercitivo, para lograr la declaración;
 
-IX.- Se hará saber en la misma diligencia el derecho que tiene a una defensa adecuada por sí, por abogado o por persona de su confianza, advirtiéndole que si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, por sí o a través de su representante legal, el Juez le nombrará de oficio un Defensor Social; y
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+
+IX.- Se hará saber en la misma diligencia el derecho que tiene a una defensa adecuada por sí, por abogado o por persona de su confianza, advirtiéndole que si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, por si o a través de su representante legal, el Juez le nombrará de oficio un Defensor Público; y
 
 X.- Cuando el acusado hubiere nombrado varios defensores, éstos estarán obligados a nombrar un representante común o, en su defecto, lo hará el Juez.
 
@@ -1195,7 +1203,9 @@ II.- La apelación podrá interponerse verbalmente en el momento de la notificac
 
 III.- Se interpondrá ante el mismo Juez de la causa que pronunció la resolución apelada; una vez interpuesto el mismo en términos legales, el Juez lo admitirá de plano, previniendo a las partes, excepto al Ministerio Público, señalen domicilio para recibir notificaciones ubicado en el lugar en que radique la Sala Unitaria, y al adolescente nombre defensor para la Segunda Instancia;
 
-IV.- Si el adolescente no nombra defensor o el nombrado no acepta, dentro de las veinticuatro horas siguientes a la fecha en que se le haga saber su nombramiento, la Sala Unitaria nombrará al Defensor Social;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+
+IV.- Si el adolescente no nombra defensor o el nombrado no acepta, dentro de las veinticuatro horas siguientes a la fecha en que se le haga saber su nombramiento, la Sala Unitaria nombrará al Defensor Público;
 
 V.- Si las partes no señalan domicilio para recibir notificaciones, éstas se le harán por cédula que se fijará en la puerta de la Sala Unitaria;
 
@@ -1223,7 +1233,9 @@ Enunciativamente se consideran violaciones al procedimiento en primera instancia
 
 I.- No hacer del conocimiento del adolescente el motivo del procedimiento o el nombre de las personas que le imputan la comisión de la conducta tipificada como delito en la legislación del Estado;
 
-II.- No haberse permitido al adolescente nombrar defensor o no nombrarle Defensor Social, como señala el presente Código;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+
+II.- No haberse permitido al adolescente nombrar defensor o no nombrarle Defensor Público, como señala el presente Código;
 
 III.- No haberse facilitado al adolescente la manera de hacer saber al defensor su nombramiento;
 
@@ -1647,9 +1659,11 @@ En el desarrollo de su actuación, el Consejo General Interdisciplinario obrará
 
 Cuando se trate de menores que tengan limitaciones físicas, mentales o sensoriales, el DIF procurará que las medidas se cumplan en establecimientos especializados que les permitan remediar o mejorar su condición.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
+
 ###### Artículo 185.
 
-Las actuaciones ante el Consejo General lnterdisciplinario y demás instancias estatales y municipales conforme a este Capítulo, son gratuitas y no requerirán la intervención de apoderado, sin perjuicio de que si el interesado quisiere hacerse representar, lo haga mediante defensor particular o social.
+Las actuaciones ante el Consejo General Interdisciplinario y demás instancias estatales y municipales conforme a este Capítulo, son gratuitas y no requerirán la intervención de apoderado, sin perjuicio de que si el interesado quisiere hacerse representar, lo haga mediante defensor particular o público.
 
 ###### Artículo 186.
 
@@ -1933,7 +1947,9 @@ III.- Los internos, sus defensores y las personas que los visiten, deben respeta
 
 IV.- Los internos tienen derecho a ser recibidos en audiencias por los funcionarios del respectivo Centro; así como a formular y entregar o exponer personalmente, en forma pacífica y respetuosa, peticiones y quejas que se refieran al régimen interno o a su trato, ante el Director del Centro, sus superiores jerárquicos, otras autoridades del exterior o las personas que los representen, y solicitar que se tomen las medidas oportunas del caso;
 
-V.- Los internos podrán requerir, directamente o a través de un familiar, y tendrán derecho a recibir el apoyo de un defensor privado o social, con el objeto de que los asesoren para la realización de cualquier promoción legal o trámite relacionado con la ejecución de las medidas que le hayan impuesto o con el régimen disciplinario;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
+
+V.- Los internos podrán requerir, directamente o a través de un familiar, y tendrán derecho a recibir el apoyo de un defensor privado o público, con el objeto de que los asesoren para la realización de cualquier promoción legal o trámite relacionado con la ejecución de las medidas que le hayan impuesto o con el régimen disciplinario;
 
 VI.- En caso de que el interno sea quien promueva juicio de garantías, interponga algún recurso o realice cualquiera otra promoción procesal o administrativa, deberá presentar el documento respectivo ante el Director del Centro, quien lo hará llegar a la autoridad a la que esté dirigido, antes de que venza el término para su admisión de ser posible o dentro de los tres días hábiles siguientes cuando no esté sujeto a plazo, entregando una copia sellada del mismo al recurrente;
 
@@ -2876,3 +2892,11 @@ P.O. 25 DE MARZO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE ENERO DE 2010.
+
+PRIMERO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+SEGUNDO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor social o de oficio, se entenderá ahora por éstos a los Defensores Públicos.
