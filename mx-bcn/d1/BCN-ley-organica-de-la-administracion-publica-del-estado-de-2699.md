@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2009-12-31"
+last_updated: "2010-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -1157,9 +1157,9 @@ X.- Promover el establecimiento o, en su caso, administrar museos, zonas de demo
 
 XI.- Realizar proyectos específicos de información y educación ecológica, de alcance general en la entidad o de interés del Estado, a fin de desarrollar en la población una mayor conciencia ambiental y promover el mejor conocimiento de esta Ley.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
-XII.- Prevenir, regular y controlar las emisiones de contaminantes a la atmósfera, incluidas las originadas por ruido, vibraciones, olores perjudiciales, energía térmica y luminosa, cuando éstas provengan de fuentes emisoras de competencia estatal.
+XII.- Prevenir, regular y controlar la contaminación a la atmósfera generada por la emisión de ruido, vibraciones, olores perjudiciales, energía térmica y lumínica, proveniente de fuentes fijas que funcionen como establecimientos industriales, así como en su caso, fuentes móviles que no sean de competencia Federal.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
 
@@ -1762,3 +1762,11 @@ TERCERO.- La Secretaría de Planeación y Finanzas contará con los recursos nec
 CUARTO.- La Secretaría de Educación y Bienestar Social contará con los recursos necesarios para desempeñar las funciones en materia de juventud en el Estado. Los asuntos que se encuentren en trámite y pendiente de resolución en el Instituto de la Juventud de Baja California al momento de entrar en vigor el Artículo Primero del presente Decreto, serán resueltos por la unidad administrativa de la Secretaría de Educación y Bienestar Social que se adecue para tal efecto.
 
 QUINTO.- Se derogan las disposiciones que se opongan al Artículo Primero del presente Decreto.
+
+P.O. 5 DE ENERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal y los Municipios deberán expedir las disposiciones legales que deriven del presente Decreto, a partir de su entrada en vigor.
+
+TERCERO.- Las obligaciones contempladas en el artículo 118 para los propietarios y poseedores de vehículos automotores en circulación, iniciarán hasta que sea publicado en los términos previstos en este Decreto, el Programa de Verificación Vehicular y, en su caso, estén operando los centros de verificación.
