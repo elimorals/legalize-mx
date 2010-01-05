@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2010-01-04"
+last_updated: "2010-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -85,55 +85,59 @@ II. AUDITORIA AMBIENTAL: Examen metodológico, de carácter voluntario de las re
 
 III. AUTORREGULACIÓN: Proceso voluntario a través del cual los particulares buscan mejorar su desempeño ambiental, respetando la legislación y normatividad vigente en la materia, y se comprometen a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental;
 
-IV. COMBUSTIBLES FOSILES: Materiales comburentes de origen orgánico que incluyen los hidrocarburos, el gas natural y el carbón;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
-V. CONSEJO: Al Consejo Estatal de Protección al Ambiente del Estado de Baja California;
+IV. CENTROS DE VERIFICACIÓN: Centros de verificación de emisiones contaminantes a la atmósfera de automotores en circulación;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
-VI. CONSERVACIÓN: Conjunto de políticas y medidas orientadas a mantener la diversidad genética y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
+V. COMBUSTIBLES FOSILES: Materiales comburentes de origen orgánico que incluyen los hidrocarburos, el gas natural y el carbón;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
-VII.- CONTAMINACIÓN LUMÍNICA: Emisión de flujo luminoso en la atmósfera de fuentes artificiales nocturnas, en intensidades, direcciones, rangos espectrales y horarios innecesarios para la realización de las actividades previstas en la zona en que se instala la fuente;
+VI. CONSEJO: Al Consejo Estatal de Protección al Ambiente del Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+
+VII. CONSERVACIÓN: Conjunto de políticas y medidas orientadas a mantener la diversidad genética y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 VIII. EUTROFICACIÓN: Proceso de fertilización acelerada en lagos, arroyos y esteros, generado por un enriquecimiento de nutrientes que produce alga, lama y plantas que deterioran el ambiente acuático;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 IX. FUENTE FIJA: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 X. FUENTE MÓVIL: Unidad sujeta a movimiento que genera y emite contaminantes a la atmósfera;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 XI. INVERNADERO (EFECTO DE): Propiedad de la atmósfera de dejar entrar de una manera fácil la radiación solar, pero que a la vez dificulta la salida del calor. Este fenómeno se acentúa por la acumulación de gases en el aire producidos por la combustión de hidrocarburos y otras actividades humanas;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 XII. LEY: Ley de Protección al Ambiente para el Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 XIII. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 XIV. MEJOR TECNOLOGÍA DISPONIBLE: El conjunto de equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, logra la mayor reducción, minimización o eliminación de dichos contaminantes, o reduce su grado de peligrosidad, comparada con otras tecnologías usuales. Se entiende asimismo, que su implementación es técnicamente factible, que es posible su adquisición en el mercado regional, y que su costo es razonablemente comparable a tecnologías usuales, tradicionales o análogas;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 XV. QUEMA: Combustión no controlada de cualquier sustancia o material;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 XVI. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 XVII. SECRETARÍA: Secretaría de Protección al Ambiente del Estado de Baja California.
 
@@ -263,13 +267,13 @@ XXXI. Promover consulta pública en materia ambiental. En el caso de plebiscitos
 
 XXXII. Ejercer todas aquellas acciones tendientes a la preservación y restauración del equilibrio ecológico, así como la prevención y control de la contaminación del aire, agua y suelo que no sean de competencia federal; y (sic)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
-XXXIII. Además de la prevención y el control de la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico o al ambiente, proveniente de fuentes fijas que funcionen como establecimientos industriales, así como, en su caso, de fuentes móviles que no sean competencia federal o municipal;
+XXXIII. Prevenir, regular y controlar la contaminación a la atmósfera generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, proveniente de fuentes fijas que funcionen como establecimientos industriales, así como, en su caso, de fuentes móviles que no sean de competencia Federal;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
-XXXIV. La Secretaría propondrá los derechos que correspondan al aprovechamiento de recursos naturales de actividades y proyectos de competencia estatal no reservados a la Federación, y
+XXXIV. La Secretaría propondrá los derechos que correspondan al aprovechamiento de recursos naturlales (sic) de actividades y proyectos de competencia estatal no reservados a la Federación, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2008)</small>
 
@@ -1305,7 +1309,7 @@ El uso de la energía nuclear con el fin de generar energía eléctrica deberá 
 
 #### SECCIÓN III. Control de emisiones proveniente de fuentes fijas
 
-#### SECCIÓN IV. Control de emisiones de fuentes móviles
+#### SECCIÓN IV. De los Centros de Verificación
 
 ### CAPÍTULO I. Disposiciones generales
 
@@ -1377,45 +1381,87 @@ V. Requerir a los responsables de la operación de fuentes generadoras de contam
 
 VI. Integrar y mantener actualizado el inventario de fuentes de emisiones contaminantes a la atmósfera proveniente de fuentes emisoras de competencia estatal y coordinarse con la Federación y los municipios para la integración de los inventarios correspondientes;
 
-VII. Promover y apoyar técnicamente a los gobiernos municipales que lo soliciten para el establecimiento de sistemas de monitoreo de la calidad del aire y de centros de verificación de emisiones vehiculares, en su jurisdicción territorial;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
-VIII. Proponer el establecimiento de normas ambientales estatales con el propósito de regular las emisiones del transporte y las medidas de tránsito y en su caso, la suspensión de la circulación vehicular, en casos graves de contaminación;
+VII. Promover y apoyar técnicamente a los gobiernos municipales que lo soliciten para el establecimiento de sistemas de monitoreo de la calidad del aire;
 
-IX. Tomar las medidas preventivas necesarias y los instrumentos de prevención y control para evitar contingencias ambientales por contaminación atmosférica;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
-X. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen; y
+VIII. Establecer y operar centros de verificación;
 
-XI. Aplicar las normas oficiales mexicanas y normas ambientales estatales para la protección de la atmósfera, en las materias y supuestos de su competencia.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+
+IX. Proponer el monto de las tarifas que deberán cubrirse por los servicios de verificación de emisiones de automotores en circulación;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+
+X. Llevar un registro de los centros de verificación y mantener actualizado los resultados obtenidos;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+
+XI. Entregar a los propietarios o poseedores de vehículos automotores, cuando proceda, el documento que acredite que dicha fuente no rebasa los límites máximos permisibles de emisión, conforme a las normas oficiales mexicanas y normas estatales, en su caso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2010)</small>
+
+XII. Proponer el establecimiento de normas ambientales estatales con el propósito de regular las emisiones del transporte y las medidas de tránsito y en su caso, la suspensión de la circulación vehicular, en casos graves de contaminación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2010)</small>
+
+XIII. Tomar las medidas preventivas necesarias y los instrumentos de prevención y control para evitar contingencias ambientales por contaminación atmosférica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2010)</small>
+
+XIV. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2010)</small>
+
+XV. Aplicar las normas oficiales mexicanas y normas ambientales estatales para la protección de la atmósfera, en las materias y supuestos de su competencia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ENERO DE 2010)</small>
+
+XVI. Las demás que tengan por objeto dar cumplimiento a lo dispuesto en la presente Ley.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO NO. 341, PUBLICADO EN EL P.O. DE 5 DE ENERO DE 2010, EL PRESENTE ARTICULO HA SIDO MODIFICADO EN SU ESTRUCTURA, PARA QUEDAR CONFORMADO POR NUEVE FRACCIONES.</small>
 
 ###### ARTÍCULO 113.
 
 Para prevenir, controlar, reducir o evitar la contaminación de la atmósfera, los municipios, en el ámbito de su circunscripción territorial, tendrán las siguientes facultades:
 
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+
 I. Aplicar los criterios generales para la protección a la atmósfera en los programas y planes de desarrollo urbano de su competencia, definiendo las zonas en que sea permitida la instalación de obras y actividades generadoras de emisiones;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 II. Requerir y aplicar las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica y en su caso autorizar a los responsables de fuentes emisoras de competencia municipal, para el cumplimiento de los límites máximos permisibles de emisión de contaminantes;
 
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+
 III. Proponer al Estado el establecimiento de normas ambientales estatales con el propósito de regular las emisiones del transporte y la circulación vehicular en casos graves de contaminación;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 IV. Requerir a los responsables de la operación de fuentes contaminantes, la aplicación de la mejor tecnología disponible, con el propósito de reducir y controlar sus emisiones a la atmósfera;
 
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+
 V. Integrar y mantener actualizado el inventario de emisiones contaminantes a la atmósfera provenientes de fuentes emisoras de competencia municipal;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
 VI. Establecer y operar sistemas de monitoreo de calidad del aire;
 
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+
 VII. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica, en coordinación con la Secretaría;
 
-VIII. Aplicar las normas oficiales mexicanas y normas ambientales estatales para la protección de la atmósfera, en materias de su competencia;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
-IX. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen;
+VIII. Aplicar las normas oficiales mexicanas y normas ambientales estatales para la protección de la atmósfera, en materias de su competencia; y
 
-X. Establecer y operar sistemas de verificación de emisiones de automotores en circulación, expedir la constancia de verificación de emisiones;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
-XI. Proponer el monto de las tarifas que deberán cubrirse por los servicios de verificación de automotores en circulación;
-
-XII. Llevar un registro de los centros de verificación de automotores en circulación y mantener actualizado de los resultados obtenidos; y
-
-XIII. Entregar, a los propietarios de vehículos automotores, cuando proceda, el documento que acredite que dicha fuente no rebasa los límites máximos permisibles de emisión, conforme a las normas oficiales mexicanas y normas estatales, en su caso.
+IX. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen.
 
 #### SECCIÓN II. Facultades
 
@@ -1445,21 +1491,105 @@ Para los efectos de lo dispuesto en este capítulo, se entiende por fuente fija 
 
 Los municipios, a través de los bandos de policía o reglamentos que al efecto expidan, podrán sujetar a los establecimientos comerciales y de servicios, a los requerimientos que considere pertinentes en materia de emisión de contaminantes a la atmósfera.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2010)</small>
+
 #### SECCIÓN III. Control de descargas de aguas residuales
 
 ###### ARTÍCULO 117.
 
 Queda prohibido la circulación de automotores que emitan contaminantes, cuyos niveles de emisión a la atmósfera rebasen los máximos permisibles establecidos en las normas aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2010)</small>
+
+La autoridad correspondiente podrá limitar la circulación de vehículos automotores en el Estado, incluyendo los que cuenten con placas expedidas por otra (sic) entidades federativas o en el extranjero, para prevenir y reducir las emisiones contaminantes, conforme a lo previsto por el Programa de Verificación Vehicular que expida la Secretaría, y en su caso, los reglamentos municipales que se emitan al respecto.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 118.
 
-Los propietarios o poseedores de vehículos automotores en circulación, en los términos del Reglamento Municipal correspondiente deberán obtener la constancia de verificación de emisiones en la que se señale que se cumple con los límites máximos permisibles que establezcan las normas aplicables y revalidarla en los plazos que el mismo Reglamento establezca.
+Los propietarios o poseedores de vehículos automotores en circulación deberán someter sus unidades a la verificación de emisiones contaminantes en los centros de verificación, dentro del periodo que le corresponda en los términos del Programa de Verificación Vehicular, así como obtener la constancia de verificación de emisiones en la que se señale que se cumple con los límites máximos permisibles que establezcan las normas oficiales mexicanas y demás aplicables, así como revalidarla anualmente.
+
+En su caso, los propietarios o poseedores de vehículos automotores deberán reparar los sistemas de emisiones de contaminantes de estos y sustituir los equipos y dispositivos que no funcionen adecuadamente en aquellos, en los términos que determine el Programa de Verificación Vehicular.
+
+El propietario o poseedor de un vehículo automotor que no haya realizado la verificación dentro del periodo que le corresponda, de acuerdo al calendario establecido en el Programa de Verificación Vehicular, deberá trasladarse en un término de treinta días naturales, únicamente a un taller mecánico o a un centro de verificación.
+
+Las sanciones por el incumplimiento a lo previsto en el presente artículo serán determinadas conforme a la presente Ley y a los reglamentos municipales en materia de transito, según corresponda.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 119.
 
-Las constancias a que se refiere el artículo anterior, serán emitidas por los centros de verificación de emisiones, establecidos en los términos del reglamento respectivo, por los gobiernos municipales o por los particulares que obtengan la correspondiente concesión.
+Las constancias a que se refiere el artículo anterior, serán emitidas por los centros de verificación establecidos por la Secretaría o por los particulares que obtengan la correspondiente concesión, en los términos de esta Ley, el Programa de verificación Vehicular y disposiciones reglamentarias correspondientes.
 
 En todo caso, corresponde a la Secretaría, vigilar el adecuado funcionamiento de los centros de verificación.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2010)</small>
+
+ARTÍCULO 119 BIS.- Será revocada la concesión a los centros de verificación que falseen pruebas con la finalidad de modificar los resultados para lograr la aprobación de emisiones, como ocurre tratándose de:
+
+I. Alterar el equipo o la toma de la muestra,
+
+II. Verificar un vehículo para aprobar otro,
+
+III. Capturar la información de identidad de un vehículo que no corresponda al que realmente efectuó la prueba, o
+
+IV. Usar cualquier dispositivo o sistema no autorizado por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2010)</small>
+
+ARTÍCULO 119 BIS 1.- Quienes entreguen documentos que acrediten la aprobación de verificaciones de vehículos automotores, sin contar con la concesión correspondiente, serán sancionados en los términos de esta Ley y las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2010)</small>
+
+ARTÍCULO 119 BIS 2.- Los centros de verificación deberán obtener y mantener vigente fianza por el equivalente a once mil quinientos días de salario mínimo general vigente en el Estado, para garantizar el cumplimiento de las obligaciones y condiciones establecidas en esta Ley, su reglamento, el Programa de Verificación Vehicular, la concesión y circulares correspondientes.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2010)</small>
+
+ARTÍCULO 119 BIS 3.- La concesión sólo podrá darse por terminada cuando:
+
+I. La Secretaría modifique las condiciones conforme a las que deberá prestarse el servicio,
+
+II. Concluya el término de la concesión, o
+
+III. En los casos de revocación previstos en el artículo 119 bis de la presente Ley.
+
+Para efectos de la fracción primera de este artículo, la Secretaría publicará en el Periódico Oficial del Estado y en un diario de circulación local, las nuevas condiciones que se deberán cumplir para que las concesiones sean revalidadas, con sesenta días naturales de anticipación, como mínimo, a la fecha prevista para que dichas condiciones entren en vigor.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2010)</small>
+
+ARTÍCULO 119 BIS 4.- Los centros de verificación están obligados a:
+
+I. Operar conforme a los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en esta Ley, las normas oficiales mexicanas, normas ambientales estatales, el Programa de Verificación Vehicular y demás normatividad correspondiente;
+
+II. Contar con personal debidamente acreditado por la Secretaría;
+
+III. Mantener sus instalaciones y equipos calibrados en las condiciones requeridas por la Secretaría, observando los requisitos que fije la misma para la debida prestación del servicio de verificación vehicular;
+
+IV. Destinar exclusivamente sus establecimientos respectivos a la verificación de emisiones contaminantes, sin efectuar en ellos reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad comercial o industrial;
+
+V. Abstenerse de recibir documentación reportada como robada, falsificada o notoriamente alterada como soporte de las verificaciones vehiculares;
+
+VI. Llevar un registro con la información de las verificaciones efectuadas y remitir a la Secretaría los datos obtenidos en los términos fijados por ésta;
+
+VII. Dar aviso inmediato a la Secretaría cuando dejen de prestar el servicio de verificación vehicular o los equipos e instalaciones no funcionen debidamente, en cuyo caso se abstendrán de realizar verificaciones hasta en tanto los mismos funcionen correctamente;
+
+VIII. Conservar en depósito y manejar debidamente los documentos que reciban de la Secretaría para acreditar la aprobación de la verificación vehicular, hasta que éstos sean entregados al interesado y, en su caso, adheridos a la fuente emisora de contaminantes;
+
+IX. Dar aviso inmediato a la Secretaría y presentar las denuncias correspondientes, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación vehicular;
+
+X. Enviar a la Secretaría, en los términos establecidos por ésta, la documentación e información requerida para la supervisión y control de la verificación;
+
+XI. Mantener durante las horas de funcionamiento a un responsable técnico y recibir las verificaciones administrativas que ordene la Secretaría en cualquier momento;
+
+XII. Contar con los elementos distintivos determinados por la Secretaría;
+
+XIII. Cobrar las tarifas autorizadas conforme a la normatividad aplicable, por la prestación del servicio de verificación vehicular;
+
+XIV. Mantener en vigor la fianza correspondiente durante la vigencia de la concesión para prestar el servicio de verificación vehicular;
+
+XV. Corroborar que el equipo y programa de cómputo que se le instale para proporcionar el servicio de verificación vehicular, sea la versión autorizada por la Secretaría, de lo contrario abstenerse de proporcionar el servicio; y
+
+XVI. Las demás que determine la Secretaría para garantizar el correcto funcionamiento de los centros de verificación.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 4 DE ENERO DE 2010)</small>
 
@@ -2394,3 +2524,11 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO
 
 Los municipios deberán crear o adecuar sus reglamentos, y demás disposiciones normativas, debiéndolos expedir dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este ordenamiento.
+
+P.O. 5 DE ENERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal y los Municipios deberán expedir las disposiciones legales que deriven del presente Decreto, a partir de su entrada en vigor.
+
+TERCERO.- Las obligaciones contempladas en el artículo 118 para los propietarios y poseedores de vehículos automotores en circulación, iniciarán hasta que sea publicado en los términos previstos en este Decreto, el Programa de Verificación Vehicular y, en su caso, estén operando los centros de verificación.
