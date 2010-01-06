@@ -4,7 +4,7 @@ identifier: "FED-ley-del-sistema-de-horario-en-los-estados-unidos-mexicanos-2268
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-29"
-last_updated: "2001-12-29"
+last_updated: "2010-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22685&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-12-28"
 
 LEY DEL SISTEMA DE HORARIO EN LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el sábado 29 de diciembre de 2001.
 
@@ -51,7 +51,11 @@ Para el efecto de la aplicación de esta Ley, se establecen dentro del territori
 
 I. Zona Centro: Referida al meridiano 90 grados al oeste de Greenwich y que comprende la mayor parte del territorio nacional, con la salvedad de lo establecido en los numerales II, III y IV de este mismo artículo.
 
-II. Zona Pacífico: Referida el meridiano 105 oeste y que comprende los territorios de los estados de Baja California Sur, Chihuahua, Nayarit, Sinaloa y Sonora;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 2010)</small>
+
+II. Zona Pacífico: Referida al meridiano 105 oeste y que comprende los territorios de los estados de Baja California Sur; Chihuahua; Nayarit, con excepción del municipio de Bahía de Banderas, el cual se regirá conforme a la fracción anterior en lo relativo a la Zona Centro; Sinaloa y Sonora;
 
 III. Zona Noroeste: Referida al Meridiano 120 oeste y que comprende el territorio del Estado de Baja California, y
 
@@ -84,3 +88,9 @@ Tercero. Se derogan todas las disposiciones que se opongan al presente ordenamie
 México, D.F., a 27 de diciembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Martha Silvia Sánchez González, Secretario.- Sen. Yolanda E. González Hernández, Secretaria.- Rúbricas.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de diciembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 6 DE ENERO DE 2010.
+
+Único. El presente Decreto entrará en vigor el día en que inicie el horario estacional inmediato posterior a la publicación en el Diario Oficial de la Federación.
