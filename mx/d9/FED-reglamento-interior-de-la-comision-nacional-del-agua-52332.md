@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-del-agua-52332"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-30"
-last_updated: "2006-11-30"
+last_updated: "2010-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52332&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-11-27"
 
 REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL AGUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 2010.
 
 Reglamento publicado en la Sexta Sección del Diario Oficial de la Federación, el jueves 30 de noviembre de 2006.
 
@@ -4951,158 +4951,18 @@ Las modificaciones que se lleven a cabo a la estructura orgánica de la Comisió
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
-Los Organismos tendrán su sede en las ciudades que se señalan en este artículo y ejercerán sus atribuciones dentro de la circunscripción que corresponde a las Regiones Hidrológico-Administrativas cuyos límites están constituidos por los municipios de las entidades federativas que circundan a dichas regiones como a continuación se establece:
-
-I. El Organismo de Cuenca Península de Baja California, con sede en Mexicali, Baja California, en la Región Hidrológico-Administrativa Península de Baja California, misma que está limitada por los siguientes municipios, ubicados en los estados que también se señalan:
-
-a) Municipios de Ensenada, Mexicali, Tecate, Tijuana y Playas de Rosarito, en el Estado de Baja California;
-
-b) Municipios de Comondú, Mulegé, La Paz, Los Cabos y Loreto, en el Estado de Baja California Sur;
-
-II. El Organismo de Cuenca Noreste, con sede en Hermosillo, Sonora, en la Región Hidrológico-Administrativa Noroeste, misma que está limitada por los siguientes municipios, ubicados en los estados que también se señalan:
-
-a) Municipios de Guerrero, Madera, Matachí, Temósachi, Ocampo, Uruachi y Álamos, en el Estado de Chihuahua;
-
-b) Municipios de Puerto Peñasco, San Luis Río Colorado, Alamos, General Plutarco Elías Calles, Altar, Caborca, Nogales, Pitiquito, Santa Cruz, Sáric, Hermosillo, Agua Prieta, Bacerac, Bácum, Bavispe, Cajeme, Empalme, Guaymas, Huachinera, Naco, Nácori Chico, San Ignacio Río Muerto, Etchojoa, Huatabampo y Benito Juárez, en el Estado de Sonora;
-
-III. El Organismo de Cuenca Pacífico Norte, con sede en Culiacán, Sinaloa en la Región Hidrológico-Administrativa Pacífico Norte, misma que está limitada por los siguientes municipios, ubicados en los estados que también se señalan:
-
-a) Municipios de: Chínipas, Guachochi, Guadalupe y Calvo, Guazapares, Maguarichi y Urique, en el Estado de Chihuahua;
-
-b) Municipios de: Canelas, Tamazula, Topia, Otáez, San Dimas, Canatlán, Guadalupe Victoria, Mezquital, Pánuco de Coronado, Poanas, Súchil y Nuevo Ideal, en el Estado de Durango;
-
-c) Municipios de: Acaponeta, Rosamorada, Ruíz, Santiago Ixcuintla y Tecuala, en el Estado de Nayarit;
-
-d) Municipios de: Ahome, Choix, El Fuerte, Guasave, Angostura, Culiacán, Navolato, Elota, Escuinapa, Mazatlán, Rosario y San Ignacio, en el Estado de Sinaloa;
-
-e) Municipios de: Chalchihuites y Sombrerete, en el Estado de Zacatecas;
-
-IV. El Organismo de Cuenca Balsas, con sede en Cuernavaca, Morelos, en la Región Hidrológico-Administrativa Balsas, misma que está limitada por los siguientes municipios, ubicados en los estados que también se señalan:
-
-a) Municipios de Coahuayutla de José María Izazaga, Coyuca de Catalán, La Unión de Isidoro Montes de Oca, Ajuchitlán del Progreso, Chilpancingo de los Bravo, General Heliodoro Castillo, San Miguel Totolapan, Ahuacuotzingo, Alcozauca de Guerrero, Atlamajalcingo del Monte, Atlixtac, Copanatoyac, Mártir de Cuilapan, Xalpatláhuac, Zitlala, Eduardo Neri y Acatepec, en el Estado de Guerrero;
-
-b) Municipios de Jilotlán de los Dolores, Santa María del Oro y Quitupan, en el Estado de Jalisco;
-
-c) Municipios de Amanalco, Temascaltepec, Villa de Allende, Villa Victoria, Atlautla, Coatepec Harinas, Joquicingo, Juchitepec, Ocuilan, Ozumba, Tenancingo y Villa Guerrero, en el Estado de México;
-
-d) Municipios de Apatzingán, Arteaga, Buenavista, Cotija, Charapan, La Huacana, Madero, Lázaro Cárdenas, Paracho, Los Reyes, Salvador Escalante, Tacámbaro, Tepalcatepec, Tingambato, Tingüindín, Uruapan, Angangueo, Aporo, Hidalgo, Ocampo, Tuxpan, Tzitzio y Zitácuaro en el Estado de Michoacán;
-
-e) Municipios de Huitzilac, Tepoztlán y Tlalnepantla, en el Estado de Morelos;
-
-f) Municipios de Asunción Cuyotepeji, San Antonio Acutla, San Juan Bautista Suchitepec, San Juan Mixtepec - Distr. 08, San Juan Teposcolula, San Martín Huamelúlpam, San Martín Itunyoso, San Martín Peras, San Miguel Tlacotepec, San Pedro Nopala, San Pedro y San Pablo Tequixtepec, San Sebastián Tecomaxtlahuaca, Santa Catarina Zapoquila, Santa Cruz Nundaco, Heroica Ciudad de Tlaxiaco, Santa María Camotlán, Santa María del Rosario, Santa María Nduayaco, Santiago Chazumba, Villa Tejúpam de la Unión, Santiago Yolomécatl, Santo Domingo Tonaltepec, Santos Reyes Tepejillo, San Pedro y San Pablo Teposcolula, Santiago Huajolotitlán, Santo Tomás Ocotepec, San Vicente Nuñú y La Trinidad Vista Hermosa en el Estado de Oaxaca de Juárez;
-
-g) Municipios de Atexcal, Cuyoaco, Chalchicomula de Sesma, Guadalupe Victoria, Huejotzingo, Juan N. Méndez, Lafragua, Libres, Ocotepec, Palmar de Bravo, San Nicolás de los Ranchos, San Salvador el Verde, Tecamachalco, Tepeyahualco, Tlachichuca, Tlahuapan y Xochitlán Todos Santos, en el Estado de Puebla, y
-
-h) Municipios de Altzayanca, Españita, Hueyotlipan, Terrenate, Tlaxco y Emiliano Zapata, en el Estado de Tlaxcala;
-
-V. El Organismo de Cuenca Pacífico Sur, con sede en Oaxaca, Oaxaca de Juárez, en la Región Hidrológico-Administrativa Pacífico Sur, misma que está limitada por los siguientes municipios, ubicados en los estados que también se señalan:
-
-a) Municipios de Atoyac de Álvarez, Benito Juárez, Coyuca de Benítez, José Azueta, Petatlán, Técpan de Galeana, Acapulco de Juárez, Ayutla de los Libres, Copala, Cuajinicuilapa, Chilapa de Álvarez, Florencio Villarreal, Juan R. Escudero, Malinaltepec, Metlatónoc, Mochitlán, Quechultenango, San Luis Acatlán, San Marcos, Tixtla de Guerrero, Tlacoachistlahuaca, Tlacoapa, Zapotitlán Tablas, Marquelia y José Joaquín de Herrera, en el Estado de Guerrero, y
-
-b) Municipios de Coicoyán de las Flores, Putla Villa de Guerrero, Santa María Huazolotitlán, Santiago Juxtlahuaca, Santiago Pinotepa Nacional, Santiago Tapextla, Santo Domingo Armenta, Magdalena Jaltepec, Magdalena Peñasco, Magdalena Zahuatlán, San Agustín Etla, San Andrés Huayapam, San Andrés Sinaxtla, San Antonio Sinicahua, San Bartolo Soyaltepec, San Cristóbal Amoltepec, San Esteban Atatlahuca, San Francisco Telixtlahuaca, San Jerónimo Sosola, San Juan Achiutla, San Juan Bautista Guelache, San Juan del Estado, San Juan Sayultepec, San Juan Yucuita, San Mateo Etlatongo, San Miguel el Grande, San Pablo Etla, San Pablo Villa de Mitla, San Pedro Topiltepec, Santa Catarina Tayata, Santa Cruz Tayata, Santa María Chachoápam, Santa María Yucuhiti, Santiago Jamiltepec, Santiago Nejapilla, Santiago Nuyoó, Santo Domingo Yanhuitlán, Tlalixtac de Cabrera, Villa Díaz Ordaz, Magdalena Yodocono de Porfirio Díaz, Santa Inés de Zaragoza, San Miguel del Puerto, San Pedro Huamelula, San Pedro Mixtepec - Distr. 22, San Pedro Pochutla, Villa de Tututepec de Melchor Ocampo, Santa María Colotepec, Santa María Huatulco, Santa María Tonameca, Santiago Astata, Asunción Ixtaltepec, Ciudad Ixtepec, Guevea de Humboldt, Juchitán de Zaragoza, San Dionisio del Mar, San Francisco del Mar, San Mateo del Mar, San Miguel Chimalapa, Santa María Guienagati, Santiago Laollaga, Santo Domingo Chihuitán, Santo Domingo Zanatepec, Nejapa de Madero, Salina Cruz, Teotitlán del Valle, Santiago Lachiguiri, San Carlos Yautepec, San Juan del Río, San Juan Juquila Mixes, San Lorenzo Albarradas, San Pedro Quiatoni, Santo Domingo Albarradas y Santo Domingo Tehuantepec, en el Estado de Oaxaca de Juárez;
-
-VI. El Organismo de Cuenca Río Bravo, con sede en Monterrey, Nuevo León, en la Región Hidrológico-Administrativa Río Bravo, misma que está limitada por los siguientes municipios, ubicados en los Estados que también se señalan:
-
-a) Municipios de Acuña, Ocampo, Cuatro Ciénegas, Guerrero, Hidalgo, Jiménez, Nava, Piedras Negras, Arteaga, General Cepeda, Ramos Arizpe y Saltillo en el Estado de Coahuila;
-
-b) Municipios de Ascensión, Bachíniva, Casas Grandes, Cuauhtémoc, Cusihuiriachi, Gómez Farías, Ignacio Zaragoza, Janos, Namiquipa, Balleza, Bocoyna, Camargo, Carichí, Coronado, Coyame del Sotol, Guadalupe, Jiménez, Juárez, Nonoava, Ojinaga, Praxedis G. Guerrero y Manuel Benavides en el Estado de Chihuahua;
-
-c) Municipio de Ocampo en el Estado de Durango;
-
-d) Municipios de Anáhuac, Aramberri, China, Gral. Terán, Iturbide, Linares y Rayones en el Estado de Nuevo León;
-
-e) Municipios de Guerrero, Mier, Miguel Alemán, Nuevo Laredo, Camargo, Gustavo Díaz Ordaz, Matamoros, Reynosa y Río Bravo en el Estado de Tamaulipas;
-
-VII. El Organismo de Cuenca Cuencas Centrales del Norte con sede en Torreón, Coahuila, en la Región Hidrológico-Administrativa Cuenca Centrales del Norte, misma que está limitada por los siguientes municipios, ubicados en los Estados que también se señalan:
-
-a) Municipios de Sierra Mojada, Francisco I. Madero, Parras y San Pedro, en el Estado de Coahuila;
-
-b) Municipios de Coneto de Comonfort, Cuencamé, Guanaceví, Indé, Peñón Blanco, San Bernardo, San Juan del Río, Santiago Papasquiaro, Tepehuanes, Hidalgo, Mapimí y Tlahualilo en el Estado de Durango;
-
-c) Municipios de Dr. Arroyo y Galeana, en el Estado de Nuevo León;
-
-d) Municipios de Cerro de San Pedro, Guadalcázar, San Luis Potosí, Soledad de Graciano Sánchez, Villa de Arriaga, Villa de Reyes y Villa Hidalgo, en el Estado de San Luis Potosí;
-
-e) Municipios de Bustamante, Miquihuana y Tula, en el Estado de Tamaulipas;
-
-f) Municipios de Fresnillo, Miguel Auza, Río Grande, Sain Alto, Calera, Concepción del Oro, General Pánfilo Natera, Guadalupe, Loreto, Mazapil, Melchor Ocampo, Noria de Ángeles, Pinos, El Salvador, Villa González Ortega, Zacatecas y Trancoso, en el Estado de Zacatecas;
-
-VIII. El Organismo de Cuenca Lerma-Santiago-Pacífico, con sede en Guadalajara, Jalisco, en la Región Hidrológico-Administrativa Lerma-Santiago-Pacífico misma que está limitada por los siguientes municipios, ubicados en los Estados que también se señalan:
-
-a) Municipios de Asientos y Tepezalá, en el Estado de Aguascalientes;
-
-b) Municipios de Armería, Manzanillo y Tecomán, en el Estado de Colima;
-
-c) Municipios de Doctor Mora, San Diego de la Unión, San Felipe, San José Iturbide, San Luis de la Paz y Ocampo, en el Estado de Guanajuato;
-
-d) Municipios de Ojuelos de Jalisco, Cabo Corrientes, Cihuatlán, La Huerta, Puerto Vallarta, Tamazula de Gordiano, Tecalitlán, Tomatlán y Valle de Juárez, en el Estado de Jalisco;
-
-e) Municipios de Almoloya de Juárez, Atlacomulco, Xalatlaco, Jiquipilco, Jocotitlán, Lerma, Ocoyoacac, Otzolotepec, San Felipe del Progreso, Temascalcingo, Temoaya, Tenango del Valle, Texcalyacac, Tianguistenco, Toluca, Xonacatlán, Zinacantepec y San José del Rincón, en el Estado de México;
-
-f) Municipios de Acuitzio, Contepec, Charo, Epitacio Huerta, Erongarícuaro, Indaparapeo, Irimbo, Maravatío, Morelia, Pátzcuaro, Queréndaro, Senguio, Zinapécuaro, Nahuatzen, Cherán, Chilchota, Jiquilpan, Marcos Castellanos, Tangamandapio, Tangancícuaro, Villamar, Aguililla, Aquila, Coahuayana, Coalcomán de Vázquez Pallares y Tumbiscatío, en el Estado de Michoacán;
-
-g) Municipios de Del Nayar, Tepic, Bahía de Balderas, San Pedro Lagunillas, San Blas y Compostela, en el Estado de Nayarit;
-
-h) Municipios de Huimilpan, El Marqués en el Estado de Querétaro de Arteaga;
-
-i) Municipios de Genaro Codina, Luis Moya, Ojocaliente, Villa García, Villanueva, Valparaíso, Jerez, Jiménez del Teul, en el Estado de Zacatecas;
-
-IX. El Organismo de Cuenca Golfo Norte, con sede en Ciudad Victoria, Tamaulipas, en la Región Hidrológico-Aadministrativa Golfo Norte, misma que está limitada por los siguientes municipios, ubicados en los Estados que también se señalan:
-
-a) Municipios de Tierra Blanca, Victoria, en el Estado de Guanajuato;
-
-b) Municipios de Acatlán, Atotonilco el Grande, Cuautepec de Hinojosa, Eloxochitlán, Huasca de Ocampo, Huichapan, Metepec, San Agustín Metzquititlán, Metztitlán, Mineral del Chico, Nicolás Flores, Nopala de Villagrán, Omitlán de Juárez, Santiago Tulantepec de Lugo Guerrero, Tecozautla, Tlahuiltepa, Tulancingo de Bravo, Zacualtipán de Ángeles, Zimapán, en el Estado de Hidalgo;
-
-c) Municipios de Acambay, Jilotepec, Timilpan, en el Estado de México;
-
-d) Municipio de Gral. Zaragoza, en el Estado de Nuevo León;
-
-e) Municipios de Amealco de Arteaga de Bonfil, Colón, Pedro Escobedo, San Juan del Río en el Estado de Quéretaro;
-
-f) Municipios de Armadillo de los Infante, Cerritos, Ciudad del Maíz, Santa María del Río, Tierra Nueva, Zaragoza y El Naranjo, en el Estado de San Luis Potosí;
-
-g) Municipios de Burgos, Méndez, San Fernando, Aldama, Hidalgo, Mainero, San Carlos, Soto La Marina, Villagrán, Altamira, Ciudad Madero, Jaumave, Ocampo, Palmillas, en el Estado de Tamaulipas;
-
-h) Municipios de Benito Juárez, Chicontepec, Chontla, Ixcatepec, Pueblo Viejo, Tamiahua, Tampico Alto, Tancoco y Zontecomatlán de López y Fuentes, en el Estado de Veracruz;
-
-X. El Organismo de Cuenca Golfo Centro, con sede en Jalapa, Veracruz, en la Región Hidrológico-Administrativa Golfo Centro, misma que está limitada por los siguientes municipios, ubicados en los estados que también se señalan:
-
-a) Municipios de Acaxochitlán, Agua Blanca de Iturbide, San Bartolo Tutotepec, Tenango de Doria, en el Estado de Hidalgo;
-
-b) Municipios de Asunción Cacalotepec, Asunción Nochixtlán, el Barrio de la Soledad, Concepción Buenavista, Santa Magdalena Jicotlán, San Cristóbal Suchixtlahuaca, San Francisco Teopan, San Juan Bautista Coixtlahuaca, San Juan Bautista Jayacatlán, San Juan Mazatlán, San Lucas Camotlán, San Miguel Aloápam, San Miguel Amatlán, San Miguel Chicahua, San Miguel Quetzaltepec, San Miguel Tulancingo, San Pablo Yaganiza, San Pedro Ocotepec, San Pedro y San Pablo Ayutla, Santa Catarina Ixtepeji, Santa Catarina Lachatao, Santa María Alotepec, Santa María Chimalapa, Santa María Nativitas, Santa María Tepantlali, Santa María Yavesía, Santiago Huauclilla, Santiago Ixcuintepec, Santiago Laxopa, Santiago Nacaltepec, Nuevo Zoquiapam, Santo Domingo Petapa, Santo Domingo Tepuxtepec, Santo Domingo Xagacía y Teococuilco de Marcos Pérez, en el Estado de Oaxaca de Juárez;
-
-c) Municipios de Ahuazotepec, Atzitzintla, Caltepec, Chignahuapan, Chignautla, Money, Chilchotla, Esperanza, Ixtacamaxtitlán, Cañada Morelos, Quimixtlán, Tehuacán, Tepanco de López, Tlacotepec de Benito Juárez, Tlatlauquitepec, Xiutetelco, Yehualtepec, Zacatlán, Zapotitlán y Zautla, en el Estado de Puebla;
-
-d) Municipios de Actopan, Alto Lucero de Gutiérrez Barrios, Alvarado, Angel R. Cabada, La Antigua, Ayahualulco, Boca del Río, Calcahualco, Catemaco, Cazones, Cerro Azul, Coatzacoalcos, Las Choapas, Huayacocotla, Ixhuatlán de Madero, Lerdo de Tejada, Mecayapan, Nautla, Pajapan, Papantla, La Perla, Perote, San Andrés Tuxtla, Tecolutla, Temapache, Tepetzintla, Texcatepec, Tlachichilco, Túxpam, Ursulo Galván, Vega de Alatorre, Veracruz, Agua Dulce y Tatahuicapan de Juárez y San Rafael en el Estado de Veracruz;
-
-XI. El Organismo de Cuenca Frontera Sur, con sede en Tuxtla Gutiérrez, Chiapas, en la Región Hidrológico-Administrativa Frontera Sur, misma que está limitada por los siguientes municipios, ubicados en los Estados que también se señalan:
-
-a) Municipio de Palizada, en el Estado de Campeche;
-
-b) Municipios de Acapetahua, Arriaga, Cacahoatán, Cintalapa, Frontera Comalapa, Frontera Hidalgo, Huixtla, Mapastepec, Motozintla, Ocosingo, Palenque, Pijijiapan, Suchiate, Tapachula, Tecpatán, Metapa, Mazatán, Mazapa de Madero, Las Margaritas, Amatenango de la Frontera, Tonalá, La Trinitaria, Tuxtla Chico, Unión Juárez, Benemérito de las Américas, Maravilla Tenejapa y Marqués de Comillas, en el Estado de Chiapas;
-
-c) Municipios de Balancán, Cárdenas, Centla, Emiliano Zapata, Huimanguillo, Jonuta, Paraíso y Tenosique en el Estado de Tabasco;
-
-d) Municipios de San Francisco Ixhuatán, San Pedro Tapanatepec, en el Estado de Oaxaca de Juárez;
-
-XII. El Organismo de Cuenca Península de Yucatán, con sede en Mérida, Yucatán, en la Región Hidrológico-Administrativa Península de Yucatán, misma que está limitada por los siguientes municipios, ubicados en los estados que también se señalan:
-
-a) Municipios de Calkiní, Champotón, Calakmul, Campeche, Hecelchakán, Candelaria, Carmen, Tenabo, en el Estado de Campeche;
-
-b) Municipios de Felipe Carrillo Puerto, Benito Juárez, Isla Mujeres, Lázaro Cárdenas, Cozumel, Othón P. Blanco, Solidaridad, en el Estado de Quintana Roo;
-
-c) Municipios de Celestún, Dzilam de Bravo, Progreso, Sinanché, Yobaín, Dzemul, Hunucmá, Río Lagartos, Telchac Puerto, Dzidzantún, Ixil, San Felipe y Tizimín en el Estado de Yucatán;
-
-XIII. El Organismo de Cuenca Aguas del Valle de México, con sede en la Ciudad de México, Distrito Federal, en la Región Hidrológico-Administrativa Aguas del Valle de México, misma que está limitada por los siguientes municipios, ubicados en los Estados que también se señalan:
-
-a) Municipios de Actopan, Alfajayucan, El Arenal, Cardonal, Chapantongo, Ixmiquilpan, San Agustín Tlaxiaca, Santiago de Anaya, Tasquillo, Tepeji del Río de Ocampo, Tula de Allende, Almoloya, Apan, Epazoyucan, Mineral del Monte, Pachuca de Soto, Mineral de la Reforma, Singuilucan y Tepeapulco, en el Estado de Hidalgo;
-
-b) Municipios de Chapa de Mota, Morelos, Soyaniquilpan de Juárez, Villa del Carbón, Amecameca, Ayapango, Cocotitlán, Chalco, Huixquilucan, Isidro Fabela, Ixtapaluca, Jilotzingo, Naucalpan de Juárez, Nicolás Romero, Temamatla, Tenango del Aire, Texcoco y Tlalmanalco, en el Estado de México;
-
-c) Municipios de Sanctórum de Lázaro Cárdenas, Nanacamilpa de Mariano Arista y Benito Juárez, en el Estado de Tlaxcala;
-
-d) En el territorio que ocupa el Distrito Federal.
-
-El Director General de la Comisión emitirá, dentro de los sesenta días siguientes a la entrada en vigor de este Reglamento, el Acuerdo en el que precisará la circunscripción de los Organismos prevista en este artículo, atendiendo a los límites de las regiones hidrológico-administrativas que en este precepto se establecen, así como la denominación de los municipios y entidades federativas que queden comprendidos dentro de dichos límites.
+(DEROGADO, D.O.F. 6 DE ENERO DE 2010)
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, José Luis Luege Tamargo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 6 DE ENERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Continuará vigente el Acuerdo por el que se determina la circunscripción territorial de los Organismos de Cuenca de la Comisión Nacional del Agua, publicado en el Diario Oficial de la Federación el 12 de diciembre de 2007 en tanto entre en vigor el Acuerdo que expida el Director General de la Comisión Nacional del Agua para modificar o, en su caso, determinar los límites y circunscripción territorial de los Organismos de Cuenca.
