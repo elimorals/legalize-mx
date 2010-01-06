@@ -4,7 +4,7 @@ identifier: "LGCT"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-05-30"
-last_updated: "2008-05-30"
+last_updated: "2010-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61148&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCT"
 
 LEY GENERAL PARA EL CONTROL DEL TABACO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de mayo de 2008.
 
@@ -340,9 +340,11 @@ Queda prohibido a cualquier persona consumir o tener encendido cualquier product
 
 En dichos lugares se fijará en el interior y en el exterior los letreros, logotipos y emblemas que establezca la Secretaría.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE ENERO DE 2010)</small>
+
 ###### Artículo 27.
 
-En lugares con acceso al público, o en áreas interiores de trabajo, públicas o privadas, incluidas las universidades e instituciones de educación superior, deberán existir zonas exclusivamente para fumar, las cuales deberán de conformidad con las disposiciones reglamentarias:
+En lugares con acceso al público, o en áreas interiores de trabajo, públicas o privadas, incluidas las universidades e instituciones de educación superior, podrán existir zonas exclusivamente para fumar, las cuales deberán de conformidad con las disposiciones reglamentarias:
 
 I. Ubicarse en espacios al aire libre, o
 
@@ -567,3 +569,9 @@ SEXTO. Todos los empaques de tabaco fabricados en o importados hacia México deb
 México, D.F., a 26 de febrero de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Gabino Cué Monteagudo, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de mayo de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 6 DE ENERO DE 2010.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
