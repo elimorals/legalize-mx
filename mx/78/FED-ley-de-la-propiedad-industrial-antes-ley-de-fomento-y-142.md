@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "2009-05-06"
+last_updated: "2010-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -125,9 +125,9 @@ VIII.- Sustanciar y resolver los recursos administrativos previstos en esta Ley,
 
 IX.- Fungir como árbitro en la resolución de controversias relacionadas con el pago de los daños y perjuicios derivados de la violación a los derechos de propiedad industrial que tutela esta Ley, cuando los involucrados lo designen expresamente como tal; de conformidad con las disposiciones contenidas en el Título Cuarto del Libro Quinto del Código de Comercio;
 
-> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 2010)</small>
 
-X.- Efectuar la publicación legal, a través de la Gaceta, así como difundir la información derivada de las patentes, registros, declaratorias de notoriedad o fama de marcas, autorizaciones y publicaciones concedidos y de cualesquiera otras referentes a los derechos de propiedad industrial que le confiere esta Ley;
+X.- Efectuar la publicación legal, a través de la Gaceta, así como difundir la información derivada de las patentes, registros, declaratorias de notoriedad o fama de marcas, autorizaciones y publicaciones concedidos y de cualesquiera otras referentes a los derechos de propiedad industrial que le confiere esta Ley, así como establecer las reglas generales para la gestión de trámites a través de medios de comunicación electrónica y su puesta en operación;
 
 XI.- Difundir, asesorar y dar servicio al público en materia de propiedad industrial;
 
@@ -192,6 +192,10 @@ Artículo 7o BIS 1.- El Director General, o su equivalente, es el representante 
 > <small>(ADICIONADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
 Artículo 7o BIS 2.- Corresponde al Director General del Instituto el ejercicio de las facultades a que se refiere el artículo 6 de esta Ley, quien, sin perjuicio de su ejercicio directo, únicamente podrá delegarlas en los términos que se establezcan en los acuerdos respectivos, que deberán ser aprobados por la Junta de Gobierno y publicados en el Diario Oficial.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 2010)</small>
+
+El Director General del Instituto expedirá, mediante Acuerdo publicado en el Diario Oficial, las reglas y especificaciones de las solicitudes, así como los procedimientos y requisitos específicos para facilitar la operación del Instituto y garantizar la seguridad jurídica de los particulares, incluyendo las reglas generales para la gestión de trámites a través de medios de comunicación electrónica.
 
 > <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 1994)</small>
 
@@ -1967,6 +1971,14 @@ IV.- En los casos no comprendidos en la fracción II, mediante poder otorgado co
 
 En cada expediente que se tramite deberá acreditarse la personalidad del solicitante o promovente; sin embargo, bastará con una copia simple de la constancia de registro, si el poder se encuentra inscrito en el registro general de poderes establecido por el Instituto.
 
+> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 2010)</small>
+
+Para acreditar la personalidad en las solicitudes de registro de marca, marca colectiva, aviso comercial y publicación de nombre comercial, sus posteriores renovaciones, así como la inscripción de las licencias o transmisiones correspondientes, bastará que el mandatario manifieste por escrito en la solicitud, bajo protesta de decir verdad, que cuenta con facultades para llevar a cabo el trámite correspondiente, siempre y cuando se trate del mismo apoderado desde el inicio hasta la conclusión del trámite.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 2010)</small>
+
+Si con posterioridad a la presentación de la solicitud interviene un nuevo mandatario, éste deberá acreditar la personalidad que ostenta en los términos del presente artículo.
+
 ###### Artículo 182.
 
 Cuando una solicitud o promoción sea presentada por varias personas, se deberá designar en el escrito quién de ellos será el representante común. De no hacerse esto, se entenderá que el representante común es la primera persona de las nombradas.
@@ -2762,3 +2774,21 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 D.O.F. 6 DE MAYO DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE ENERO DE 2010.
+
+DECRETO POR EL QUE SE ADICIONAN LOS PARRAFOS TERCERO Y CUARTO AL ARTICULO 181 DE LA LEY DE LA PROPIEDAD INDUSTRIAL.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Lo dispuesto en este Decreto se aplicará a las solicitudes de registro de marca, marca colectiva, aviso comercial y publicación de nombre comercial que sean presentadas a partir de su entrada en vigor. Para tal efecto, el Instituto Mexicano de la Propiedad Industrial deberá publicar las modificaciones correspondientes a los formatos oficiales en el Diario Oficial de la Federación.
+
+Artículo Tercero.- Respecto de las solicitudes de registro de marca, marca colectiva, aviso comercial y publicación de nombre comercial, las renovaciones, así como la inscripción de licencias o transmisiones que se encuentren en trámite, los interesados que opten por la aplicación de las disposiciones contenidas en el presente Decreto, deberán hacerlo saber, por escrito, al Instituto dentro de los treinta días naturales siguientes a su entrada en vigor.
+
+D.O.F. 6 DE ENERO DE 2010.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULO 6 Y 7 BIS 2 DE LA LEY DE LA PROPIEDAD INDUSTRIAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las acciones que deba realizar el Instituto Mexicano de la Propiedad Industrial para dar cumplimiento a la presente reforma, deberán implementarse de forma progresiva, sujetándose a los ingresos previstos en la Ley de Ingresos, a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y a los recursos aprobados para dicho fin en el Presupuesto de Egresos de la Federación.
