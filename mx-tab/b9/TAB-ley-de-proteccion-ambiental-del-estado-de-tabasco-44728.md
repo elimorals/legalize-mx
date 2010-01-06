@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-proteccion-ambiental-del-estado-de-tabasco-44728"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-20"
-last_updated: "2009-02-18"
+last_updated: "2010-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE PROTECCION AMBIENTAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 20 de abril de 2005.
 
@@ -1553,6 +1553,18 @@ XIII. La atención de los asuntos que en materia de residuos sólidos de manejo 
 
 La Secretaría, en coordinación con las autoridades competentes, elaborará, evaluará y aplicará el Programa Estatal para Prevención y Gestión Integral de Residuos Sólidos, mismo que se conformará con los lineamientos, acciones y metas en materia de manejo integral de los residuos sólidos urbanos y de manejo especial, de conformidad a los criterios que se señalen en el reglamento de esta Ley.
 
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2010)</small>
+
+ARTÍCULO 135 BIS.- La Secretaría será la Autoridad que tendrá a su cargo el desarrollo, implementación, seguimiento del periodo de sustitución y reemplazo de los materiales definidos en el artículo 140 bis de acuerdo a los plazos determinados en el artículo 140 ter.
+
+Asimismo, la Secretaría deberá diseñar e implementar el programa de sustitución y reemplazo de bolsas de polietileno por bolsas degradables y/o biodegradables, que consistirá en:
+
+I.- Realizar en convenio con el sector empresarial y la participación ciudadana de campañas de difusión y concientización sobre el uso racional del material no degradable y/o no biodegradable, para el envase y contención de los productos comercializados en dichos establecimientos;
+
+II.- Promover entre el resto de las empresas relacionadas con la comercialización de productos para adecuarse a las exigencias de la presente Ley; y
+
+III.- Informar al público en general sobre las posibles alternativas que pueden sustituir a las bolsas de plástico no degradables y/o no biodegradables.
+
 ###### ARTÍCULO 136.
 
 Salvo que sean considerados residuos sólidos urbanos o peligrosos en los términos de la Ley General, la Ley General para la Prevención y el Manejo Integral de Residuos y las normas oficiales mexicanas, los residuos de manejo especial, se clasifican en los términos siguientes:
@@ -1626,6 +1638,16 @@ Estarán obligados a la formulación y ejecución de los planes de manejo, segú
 I. Los grandes generadores y los productores, importadores, exportadores, comercializadores y distribuidores de los productos que al desecharse se conviertan en residuos urbanos y de manejo especial y que estén incluidos en los listados de residuos sujetos a planes de manejo; y
 
 II. Los generadores de residuos urbanos o de manejo especial, las empresas de servicios que manejen dichos residuos, así como los que dispongan o acepten la disposición final de residuos, en terrenos de su propiedad o competencia.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2010)</small>
+
+ARTÍCULO 140 BIS.- Queda prohibido regalar bolsas de plástico a los consumidores por parte de cualquier tienda departamental o de autoservicio.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2010)</small>
+
+ARTÍCULO 140 TER.- Los sujetos obligados en el artículo anterior, deberán reemplazarse progresivamente las bolsas de polietileno por contenedores de material que no dañe el medio ambiente, que resulte compatible con la minimización del impacto ambiental.
+
+Los autoservicios y tiendas departamentales que no cumplan con lo establecido en los artículos 140 Bis y 140 ter de la presente Ley, serán sancionados de conformidad con lo dispuesto en la Ley de Responsabilidad Civil por Daño y Deterioro al Ambiente y en las demás disposiciones aplicables.
 
 ###### ARTÍCULO 141.
 
@@ -2514,3 +2536,13 @@ P.O. 18 DE FEBRERO DE 2009.
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE ENERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales de igual rango o naturaleza y administrativas que se opongan al presente Decreto.
+
+TERCERO.- La Secretaria de Recursos Naturales y Protección Ambiental deberá formular los programas necesarios para hacer cumplir el presente Decreto en un plazo de seis meses a partir de su entrada en vigor.
+
+CUARTO.- Los sujetos obligados en el artículo 140 bis y 140 ter deberán proceder al reemplazo de las bolsas de polietileno que utilicen o expendan en un plazo no mayor a dieciocho meses posterior a la entrada en vigor del presente Decreto.
