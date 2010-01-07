@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2009-05-12"
+last_updated: "2010-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -391,7 +391,7 @@ XV. Las previstas en el artículo 15 de la Ley de Desarrollo Forestal Sustentabl
 
 En las zonas conurbadas declaradas por el Ejecutivo Estatal, la realización de acciones en materia ambiental se llevarán a cabo de manera coordinada entre el Estado y los Municipios involucrados en la declaratoria de conurbación correspondiente.
 
-## TÍTULO TERCERO. DE LA POLlTICA AMBIENTAL ESTATAL
+## TÍTULO TERCERO. DE LA POLITICA AMBIENTAL ESTATAL
 
 > <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -825,7 +825,7 @@ XXXIII. Establecer y operar el Sistema de Ventanilla Única en materia ambiental
 
 XXXIV. Formular, expedir y ejecutar los programas de ordenamiento ecológico regional, con la participación de los Ayuntamientos respectivos;
 
-XXXV. Formular, establecer y evaluar los sistemas de manejo ambiental de la administración pública estatal;
+XXXV. (DEROGADA, P.O. 7 DE ENERO DE 2010)
 
 XXXVI. Atender los demás asuntos que se prevén en este Libro y otros ordenamientos concordantes con el mismo, y que no se encuentren otorgados expresamente a la Federación; y
 
@@ -1213,7 +1213,7 @@ III. Si la autorización, en su caso, requiere ser modificada con objeto de impo
 
 1. Los productores, empresas y organismos de los sectores social o privado, así como el sector público, podrán desarrollar procesos voluntarios de autorregulación ambiental a través de los cuales obtengan un historial de excelencia ambiental en el Estado, respetando la legislación y normatividad vigentes en la materia, comprometiéndose a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental en Tamaulipas.
 
-2. En consecuencia, la Agencia Ambiental fomentará programas de autorregulación y auditoria ambiental y promoverá la aplicación de incentivos fiscales, a quienes participen en dichos programas. Al efecto inducirá y concertará:
+2. En consecuencia, la Agencia Ambiental fomentará programas de autorregulación y auditoría ambiental y promoverá la aplicación de incentivos fiscales, a quienes participen en dichos programas. Al efecto inducirá y concertará:
 
 I. El desarrollo de procesos productivos adecuados y compatibles con el medio ambiente, así como sistemas de protección y restauración en la materia, convenidos con organizaciones de los sectores social y privado y de carácter académico y cívico;
 
@@ -1229,27 +1229,27 @@ III. Las demás acciones que induzcan a las empresas a alcanzar objetivos de la 
 
 ###### ARTICULO 70.
 
-1. La Agencia Ambiental desarrollará programas dirigidos a obtener un reporte propio de las empresas y a fomentar la realización de auditorias ambientales en la esfera de su competencia, por parte de las empresas que se ubiquen en el territorio del Estado y podrá supervisar su ejecución.
+1. La Agencia Ambiental desarrollará programas dirigidos a obtener un reporte propio de las empresas y a fomentar la realización de auditorías ambientales en la esfera de su competencia, por parte de las empresas que se ubiquen en el territorio del Estado y podrá supervisar su ejecución.
 
 2. Con relación a las atribuciones del párrafo anterior, la Agencia Ambiental:
 
-I. Elaborará los términos de referencia que establezcan la metodología para la realización de las auditorias ambientales y la forma y términos como se efectuará el propio reporte;
+I. Elaborará los términos de referencia que establezcan la metodología para la realización de las auditorías ambientales y la forma y términos como se efectuará el propio reporte;
 
-II. Desarrollará programas de capacitación en materia de peritajes y auditorias ambientales;
+II. Desarrollará programas de capacitación en materia de peritajes y auditorías ambientales;
 
-III. Instrumentará un sistema de reconocimientos y estímulos que permita identificar a las industrias ubicadas en el territorio del Estado, que cumplan oportunamente los compromisos adquiridos en las auditorias ambientales;
+III. Instrumentará un sistema de reconocimientos y estímulos que permita identificar a las industrias ubicadas en el territorio del Estado, que cumplan oportunamente los compromisos adquiridos en las auditorías ambientales;
 
-IV. Promoverá la creación de centros regionales de apoyo a la mediana, pequeña y micro industria, con el fin de facilitar la realización de auditorias en dichos ramos;
+IV. Promoverá la creación de centros regionales de apoyo a la mediana, pequeña y micro industria, con el fin de facilitar la realización de auditorías en dichos ramos;
 
-V. Convendrá o concertará con personas físicas o morales, públicas o privadas, la realización de auditorias ambientales;
+V. Convendrá o concertará con personas físicas o morales, públicas o privadas, la realización de auditorías ambientales;
 
 VI. Establecerá periódicamente programas de incentivos al cumplimiento de las obligaciones ambientales bajo las premisas establecidas en el presente Libro para el cumplimiento voluntario de obligaciones ambientales; y
 
-VII. Podrá eximir de la obligación de realizar verificaciones en determinados períodos, a las empresas que realicen auditorias ambientales voluntarias, en los casos en que así lo considere conveniente. En este supuesto, esa circunstancia deberá constar en resolución por escrito, debidamente fundada y motivada.
+VII. Podrá eximir de la obligación de realizar verificaciones en determinados períodos, a las empresas que realicen auditorías ambientales voluntarias, en los casos en que así lo considere conveniente. En este supuesto, esa circunstancia deberá constar en resolución por escrito, debidamente fundada y motivada.
 
 ###### ARTICULO 71.
 
-1. La Agencia Ambiental pondrá a disposición de quienes resulten o puedan resultar directamente afectados, los programas preventivos y correctivos derivados de las auditorias ambientales, así como el diagnóstico básico del cual derivan.
+1. La Agencia Ambiental pondrá a disposición de quienes resulten o puedan resultar directamente afectados, los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan.
 
 2. En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
 
@@ -1937,7 +1937,7 @@ XVII. Promover y dar seguimiento a la formulación, implementación y evaluació
 
 XVIII. Las demás que se establezcan en la Ley General de Residuos, este Código y otros ordenamientos que resulten aplicables.
 
-## TITULO TERCERO. INSTRUMENTOS DE LA POLlTICA DE PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS
+## TITULO TERCERO. INSTRUMENTOS DE LA POLITICA DE PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS
 
 ### CAPITULO I. DE LOS PROGRAMAS ESTATAL Y MUNICIPALES PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS
 
@@ -2423,7 +2423,7 @@ Los residuos que hayan sido seleccionados para su reciclaje y que por sus caract
 
 Toda persona que lleve a cabo procesos de tratamiento de residuos sólidos urbanos orgánicos para composta, deberá cumplir con las disposiciones que establecen las Normas Oficiales Mexicanas y las Normas Ambientales Estatales en la materia.
 
-## TITULO SEXTO. PREVENCION, CONTROL Y REMEDlACION DEL SUELO CONTAMINADO
+## TITULO SEXTO. PREVENCION, CONTROL Y REMEDIACION DEL SUELO CONTAMINADO
 
 ### CAPITULO I. DE LA PREVENCION Y CONTROL DE SITIOS
 
@@ -3301,7 +3301,7 @@ La realización de cualquier obra o de aquellas actividades que puedan afectar l
 
 ### CAPITULO IV
 
-DE LA RESTAURACION, REHABILlTACION Y RECUPERACION.
+DE LA RESTAURACION, REHABILITACION Y RECUPERACION.
 
 ###### ARTICULO 235.
 
@@ -3311,7 +3311,7 @@ Cuando se presenten problemas de destrucción, contaminación, degradación, des
 
 ###### ARTICULO 236.
 
-1. La Comisión podrá establecer limitaciones al aprovechamiento de poblaciones de la vida silvestre incluyendo las vedas, su modificación o levantamiento, de acuerdo con lo previsto en el articulo 81 de la Ley General, cuando a través de otras medidas no se pueda lograr la conservación o recuperación de las poblaciones.
+1. La Comisión podrá establecer limitaciones al aprovechamiento de poblaciones de la vida silvestre incluyendo las vedas, su modificación o levantamiento, de acuerdo con lo previsto en el artículo 81 de la Ley General, cuando a través de otras medidas no se pueda lograr la conservación o recuperación de las poblaciones.
 
 2. En casos de desastres naturales o derivados de actividades humanas, la Comisión podrá establecer vedas temporales al aprovechamiento como medida preventiva y complementaria a otras medidas con la finalidad de evaluar los daños ocasionados, permitir la recuperación de las poblaciones y evitar riesgos a la salud de las personas.
 
@@ -3817,7 +3817,7 @@ La Agencia Ambiental o los Ayuntamientos, en su caso, de conformidad con las dis
 
 ###### ARTICULO 289.
 
-La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o varias personas obstaculicen o se opongan a la practica de las misma, sin demérito a las sanciones que correspondan.
+La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o varias personas obstaculicen o se opongan a la práctica de las misma, sin demérito a las sanciones que correspondan.
 
 ###### ARTICULO 290.
 
@@ -4225,7 +4225,7 @@ El artículo 156 del presente Código entrará en vigor a los tres años posteri
 
 ###### ARTICULO TERCERO.
 
-Se abroga la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Tamaulipas, expedida por Decreto No. LVIII-858 del 19 de octubre de 2004 de la Quincuagésima Octava Legislatura, publicada en el Periódico Oficial del Estado con fecha del 29 de diciembre de 2004, y sus reformas y adiciones contenidas en los Decretos No. LlX-39, del 7 de septiembre de 2005 de la Quincuagésima Novena Legislatura, publicado en el Periódico Oficial del Estado No. 122, del 12 de octubre del 2005, y el Decreto No. LlX-568, del 27 de septiembre de 2006 de la Quincuagésima Novena Legislatura, publicado en el Periódico Oficial del Estado No. 127, del 24 de octubre del 2006.
+Se abroga la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Tamaulipas, expedida por Decreto No. LVIII-858 del 19 de octubre de 2004 de la Quincuagésima Octava Legislatura, publicada en el Periódico Oficial del Estado con fecha del 29 de diciembre de 2004, y sus reformas y adiciones contenidas en los Decretos No. LIX-39, del 7 de septiembre de 2005 de la Quincuagésima Novena Legislatura, publicado en el Periódico Oficial del Estado No. 122, del 12 de octubre del 2005, y el Decreto No. LIX-568, del 27 de septiembre de 2006 de la Quincuagésima Novena Legislatura, publicado en el Periódico Oficial del Estado No. 127, del 24 de octubre del 2006.
 
 ###### ARTICULO CUARTO.
 
@@ -4243,7 +4243,7 @@ En términos de las atribuciones que le confieren las normas constitucionales ap
 
 Se derogan todas las disposiciones que se opongan al presente Código.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 2 de junio del año 2008.- DIPUTADO PRESIDENTE.- JOSE MANUEL ABDALA DE LA FUENTE.- Rúbrica.- DIPUTADO SECRETARIO.- JUAN CARLOS ALBERTO OLlVARES GUERRERO.- Rúbrica.- DIPUTADO SECRETARIO.- GELACIO MARQUEZ SEGURA.- Rúbrica."
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 2 de junio del año 2008.- DIPUTADO PRESIDENTE.- JOSE MANUEL ABDALA DE LA FUENTE.- Rúbrica.- DIPUTADO SECRETARIO.- JUAN CARLOS ALBERTO OLIVARES GUERRERO.- Rúbrica.- DIPUTADO SECRETARIO.- GELACIO MARQUEZ SEGURA.- Rúbrica."
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -4251,9 +4251,15 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION.".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.
 
 P.O. 12 DE MAYO DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ENERO DE 2010.
 
 ###### ARTICULO UNICO.
 
