@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2009-07-07"
+last_updated: "2010-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1897,11 +1897,11 @@ Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor 
 
 Si además de los delitos previstos en este capítulo resultare cometido otro, se aplicarán las reglas del concurso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 194.
 
-Queda prohibido emplear a menores de dieciocho años de edad en billares, cantinas, tabernas, giros mixtos, bares, boliche, cabaret, centro nocturno, café cantante, cervecería, discoteca, u otros centros donde se expendan bebidas alcohólicas. Al que contravenga esta disposición, se le impondrá una sanción de tres a cinco años de prisión y multa de doscientos a quinientos días salario y, además, el cierre definitivo del establecimiento si reincidiere en su conducta.
+Queda prohibido emplear a menores de dieciocho años de edad o a quien no tenga capacidad de comprender el significado del hecho, en billares, cantinas, tabernas, giros mixtos, bares, boliche, cabaret, centro nocturno, café cantante, cervecería, discoteca, u otros centros donde se expendan bebidas alcohólicas. Al que contravenga esta disposición, se le impondrá una sanción de tres a cinco años de prisión y multa de doscientos a quinientos días salario y, además, el cierre definitivo del establecimiento si reincidiere en su conducta.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2008)</small>
 
@@ -1969,9 +1969,17 @@ ARTICULO 194 QUATER.- Las penas que en su caso resulten aplicables por los delit
 
 I.- Si el delito es cometido con un menor de catorce años de edad, la sanción se aumentará hasta una tercera parte;
 
-II.- Si el delito se comete con un menor de doce años de edad, la sanción se aumentará hasta una mitad de la sanción impuesta; y
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2010)</small>
 
-III.- Si la conducta es ejecutada por quien se valiese de una función pública que tuviese asignada, o ejerciere alguna autoridad de cualquier índole sobre el pasivo, la sanción impuesta se aumentará hasta dos terceras partes mas y será destituido del empleo, cargo o comisión público e inhabilitado y para desempeñar otro hasta por un tiempo igual a la sanción impuesta.
+II.- Si el delito se comete con un menor de doce años de edad, la sanción se aumentará hasta una mitad de la sanción impuesta;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2010)</small>
+
+III.- Si la conducta es ejecutada por quien se valiese de una función pública que tuviese asignada, o ejerciere alguna autoridad de cualquier índole sobre el pasivo, la sanción impuesta se aumentará hasta dos terceras partes más y será destituido del empleo, cargo o comisión público e inhabilitado y para desempeñar otro hasta por un tiempo igual a la sanción impuesta; y
+
+> <small>(ADICIONADA, P.O. 7 ENERO DE 2010)</small>
+
+IV.- Si la conducta prevista en el párrafo segundo del artículo 194 de este Código interfiere u obstaculiza el acceso a la educación del menor, la sanción se aumentará hasta en una mitad.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -4970,6 +4978,12 @@ DECRETO No. LX-693, POR EL QUE SE REFORMA EL INCISO B) DEL ARTICULO 66 DEL CODIG
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ENERO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO OCTAVO
 
