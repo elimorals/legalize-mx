@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2009-07-07"
+last_updated: "2010-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -3517,9 +3517,43 @@ La citación para sentencia no será expresa, sino que operará por ministerio d
 
 En los juicios sumarios solamente los autos que decidan incidentes y las sentencias, serán apelables; el recurso sólo se admitirá en el efecto devolutivo.
 
-### CAPITULO III. JUICIO ORAL
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE ENERO DE 2010)</small>
 
-### CAPITULO IV. JUICIO EJECUTIVO
+### CAPITULO II BIS
+
+JUICIO DE PERDIDA DE LA PATRIA POTESTAD PARA MENORES ACOGIDOS POR INSTITUCIONES DE ASISTENCIA SOCIAL.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2010)</small>
+
+ARTICULO 473 BIS
+
+1. Se tramitarán conforme al presente procedimiento las demandas planteadas por instituciones públicas o privadas de asistencia social, por conducto del Ministerio Público o de la Procuraduría de la defensa del menor y la familia, que tengan por objeto determinar la pérdida de la patria potestad de los menores recibidos por dichas instituciones.
+
+2. El presente procedimiento podrá plantearse únicamente en los casos previstos por las fracciones III, IV, V, VI y VII del artículo 414 del Código Civil para el Estado. La acción corresponde al representante legal de la institución o al Ministerio Público.
+
+3. Admitida la demanda, se correrá traslado de ella a las personas a que se refiere el artículo 383 del Código Civil para el Estado, quienes deberán formular su contestación dentro de los diez días hábiles siguientes.
+
+4. Las notificaciones se sujetarán a lo dispuesto por el Capítulo V del Título Primero de este Código.
+
+5. En la contestación de la demanda se deberán hacer valer todas las excepciones. Los incidentes no suspenden el procedimiento y todas las excepciones que se opongan y recursos que se interpongan se resolverán en la sentencia definitiva.
+
+6. Si la parte demandada no formula su contestación, la demanda se tendrá por contestada en sentido negativo.
+
+7. En este juicio no es admisible la reconvención.
+
+8. Transcurrido el periodo de emplazamiento, dentro de los diez días siguientes se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
+
+9. Las pruebas se ofrecerán en los escritos de demanda y contestación de la misma. Las pruebas supervenientes se regirán por las reglas generales previstas en este Código.
+
+10. Si en la audiencia no fuera posible desahogar todas las pruebas, aquélla podrá diferirse por una sola vez dentro de un término no mayor de cinco días.
+
+11. Un vez desahogadas las pruebas y concluida la fase de alegatos, se dictará sentencia dentro de los cinco días siguientes.
+
+12. Contra la sentencia que se dicte procede la apelación en ambos efectos.
+
+13. La sentencia causará estado luego de cinco días hábiles de haber sido notificada.
+
+### CAPITULO III. JUICIO ORAL
 
 ###### ARTICULO 474.
 
@@ -3593,7 +3627,7 @@ El juez dictará sentencia en la audiencia misma, o a más tardar dentro de las 
 
 Las disposiciones relativas al juicio sumario podrán aplicarse al oral en concepto de supletorias, pero en su aplicación el juez deberá tomar en cuenta la naturaleza de éste, para no desvirtuarlo.
 
-### CAPITULO V. JUICIO HIPOTECARIO
+### CAPITULO IV. JUICIO EJECUTIVO
 
 ###### ARTICULO 481.
 
@@ -3867,7 +3901,7 @@ Del escrito de oposición se dará traslado por tres días al acreedor; si se pr
 
 Si se declarare infundada la oposición, el opositor será condenado al pago de los gastos y costas.
 
-### CAPITULO VI. JUICIO DE DESAHUCIO
+### CAPITULO V. JUICIO HIPOTECARIO
 
 ###### ARTICULO 530.
 
@@ -3963,7 +3997,7 @@ Si el superior revoca el fallo de primera instancia que declaró procedente el r
 
 Si comenzado el juicio se presentan alguno o algunos acreedores hipotecarios, se procederá conforme a las reglas de los concursos de acreedores hipotecarios.
 
-### CAPITULO VII. DIVORCIO
+### CAPITULO VI. JUICIO DE DESAHUCIO
 
 ###### ARTICULO 543.
 
@@ -4035,7 +4069,7 @@ En la situación del artículo que precede, se observarán, en cuanto fueren con
 
 Ni el juicio de desahucio, ni su resultado, perjudican las acciones que las partes pueden intentar, derivadas del incumplimiento del contrato respectivo, las cuales se decidirán, en su caso, en el juicio correspondiente.
 
-### CAPITULO VIII. RECTIFICACION DE ACTAS DEL ESTADO CIVIL
+### CAPITULO VII. DIVORCIO
 
 ###### ARTICULO 557.
 
@@ -4081,7 +4115,7 @@ Ejecutoriado el divorcio, el juez remitirá copia al Oficial del Registro Civil 
 
 La sentencia es apelable en ambos efectos, pero admite ejecución por lo que respecta a pensión alimenticia, cuando ésta se conceda.
 
-### CAPITULO IX. INTERDICCION E INHABILITACION
+### CAPITULO VIII. RECTIFICACION DE ACTAS DEL ESTADO CIVIL
 
 ###### ARTICULO 564.
 
@@ -4111,7 +4145,7 @@ La sentencia que recaiga será apelable en ambos efectos.
 
 Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
-### CAPITULO X. TUTORES, CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS
+### CAPITULO IX. INTERDICCION E INHABILITACION
 
 ###### ARTICULO 568.
 
@@ -4195,7 +4229,7 @@ El que promueva dolosamente el juicio de interdicción independientemente de la 
 
 Los gastos que ocasione el procedimiento serán pagados con cargo al patrimonio del incapacitado, y si no lo hay, al del promovente.
 
-### CAPITULO I. INTERDICTOS
+### CAPITULO X. TUTORES, CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS
 
 ###### ARTICULO 579.
 
@@ -4275,7 +4309,7 @@ La designación de tutor especial para que represente a un menor en un juicio de
 
 ## TITULO NOVENO. INTERDICTOS, PROPIEDAD Y POSESION
 
-### CAPITULO II. PLENARIO DE POSESION
+### CAPITULO I. INTERDICTOS
 
 ###### ARTICULO 589.
 
@@ -4397,7 +4431,7 @@ Los autos y sentencias que se dicten en los interdictos, serán apelables en el 
 
 Si la parte a quien el juez conminare para no ejecutar algún acto perjudicial o para conservar alguna situación de hecho no acata la orden, se aplicará la multa o arresto con que fue conminado, y además, con carácter urgente y en su caso, el juez ordenará la ejecución de las medidas que sean necesarias, para que las cosas vuelvan al estado anterior a costa del infractor, sin que para ello se necesite la promoción de nuevo interdicto.
 
-### CAPITULO III. DECLARATORIO DE PROPIEDAD
+### CAPITULO II. PLENARIO DE POSESION
 
 ###### ARTICULO 610.
 
@@ -4453,7 +4487,7 @@ Las acciones plenarias de posesión se ventilarán en juicio ordinario en el que
 
 El actor o el demandado que resulten vencidos en un juicio plenario sobre posesión, la perderán en definitiva en beneficio de su contraparte y quedarán impedidos legalmente para hacer uso de interdictos sobre los bienes que fueron objeto del litigio.
 
-### CAPITULO IV. JUICIO REVINDICATORIO (SIC)
+### CAPITULO III. DECLARATORIO DE PROPIEDAD
 
 ###### ARTICULO 619.
 
@@ -4465,7 +4499,7 @@ El que hubiere poseído bienes inmuebles por el tiempo y las condiciones exigida
 
 Si se declara procedente la acción, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad, y será inscrita, una vez protocolizadas las diligencias respectivas, en el Registro Público.
 
-### CAPITULO UNICO
+### CAPITULO IV. JUICIO REVINDICATORIO (SIC)
 
 ###### ARTICULO 621.
 
@@ -4541,7 +4575,7 @@ Por virtud de la sentencia que se dicte en los juicios reivindicatorios, se pier
 
 ## TITULO DECIMO. JUICIO ARBITRAL
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO UNICO
 
 ###### ARTICULO 628.
 
@@ -4701,7 +4735,7 @@ Los jueces están obligados a impartir el auxilio de su jurisdicción a los árb
 
 ## TITULO DECIMO PRIMERO. EJECUCION FORZOSA
 
-### CAPITULO II. EMBARGOS
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 646.
 
@@ -4955,7 +4989,7 @@ El ejecutante tendrá acción para combatir actos jurídicos celebrados entre el
 
 El acreedor puede servirse acumulativamente de las varias formas de ejecución forzosa previstas en la ley. En caso de que el deudor se oponga, el juez puede limitar la ejecución mediante auto no recurrible, a la forma que elija el actor, a la propuesta por el deudor, o a la que él mismo determine.
 
-### CAPITULO III. VENTAS Y REMATES JUDICIALES
+### CAPITULO II. EMBARGOS
 
 ###### ARTICULO 676.
 
@@ -5215,7 +5249,7 @@ III.- Si la ejecución se hubiere despachado a instancia de un segundo acreedor 
 
 IV.- En los casos de reembargo, el depositario del primer secuestro lo será respecto del posterior con las obligaciones inherentes al depósito del segundo embargo, debiendo notificársele el secuestro ulterior para la protección de los derechos del segundo embargante.
 
-### CAPITULO IV. PERIODO FINAL DE LA EJECUCION FORZOSA
+### CAPITULO III. VENTAS Y REMATES JUDICIALES
 
 ###### ARTICULO 691.
 
@@ -5437,7 +5471,7 @@ El juez tendrá durante la tramitación de los remates el poder de resolver y al
 
 Cualquier liquidación que tenga que hacerse respecto al pago de los gravámenes que afecten a los bienes vendidos, gastos de ejecución y demás, se regularán por el juez con un escrito de cada parte, y resolución dentro del tercer día.
 
-### CAPITULO V. DECLARACION DE VALIDEZ Y EJECUCION DE SENTENCIAS EXTRANJERAS
+### CAPITULO IV. PERIODO FINAL DE LA EJECUCION FORZOSA
 
 ###### ARTICULO 711.
 
@@ -5499,7 +5533,7 @@ d).- Los demás acreedores no privilegiados intervinientes se sujetarán a concu
 
 Si la distribución de la suma obtenida no alcanzare a cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO V. DECLARACION DE VALIDEZ Y EJECUCION DE SENTENCIAS EXTRANJERAS
 
 ###### ARTICULO 718.
 
@@ -5563,7 +5597,7 @@ Podrá hacerse valer una sentencia extranjera para fundar la cosa juzgada; pero,
 
 ## TITULO DECIMO SEGUNDO. CONCURSOS
 
-### CAPITULO III (SIC). RECTIFICACION Y GRADUACION DE CREDITOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 726.
 
@@ -5663,7 +5697,7 @@ II.- Presentar dentro de los cinco días de la notificación del auto que declar
 
 III.- Se abstendrá de seguir administrando sus bienes, así como continuar cualquier otra administración que por ley le corresponda.
 
-### CAPITULO III. ADMINISTRACION DEL CONCURSO
+### CAPITULO III (SIC). RECTIFICACION Y GRADUACION DE CREDITOS
 
 ###### ARTICULO 737.
 
@@ -5725,7 +5759,7 @@ Si hubiere algún remanente, se entregarán al concursado.
 
 Si hubiere varios acreedores hipotecarios garantizados con los mismos bienes, pueden formar un concurso especial entre ellos, y serán pagados por el orden de fechas con que se otorgaron las hipotecas, si éstas se registraron dentro del término legal, o según el orden en que se hayan inscrito los gravámenes, si la inscripción se hizo fuera del término de ley. Cuando en el concurso sólo hubiere acreedores hipotecarios, se nombrará síndico al acreedor hipotecario primero en tiempo, quien litigará en representación de los demás, observándose lo dispuesto en los artículos precedentes.
 
-### CAPITULO IV. EL DEUDOR COMUN
+### CAPITULO III. ADMINISTRACION DEL CONCURSO
 
 ###### ARTICULO 745.
 
@@ -5761,7 +5795,7 @@ El síndico deberá presentar, dentro de los primeros diez días de cada mes, un
 
 El síndico será removido de plano si dejare de rendir la cuenta mensual, o de caucionar su manejo. En los demás casos, la remoción se tramitará incidentalmente.
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO IV. EL DEUDOR COMUN
 
 ###### ARTICULO 752.
 
@@ -5791,7 +5825,7 @@ La demanda de rehabilitación se presentará ante el mismo juez que conoció del
 
 ## TITULO DECIMO TERCERO. SUCESIONES
 
-### CAPITULO II. TESTAMENTARIAS
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 754.
 
@@ -5977,9 +6011,7 @@ Las secciones tercera y cuarta podrán omitirse cuando el heredero sea único y 
 
 Una vez radicado un juicio sucesorio, sea testamentario o intestado, se publicarán edictos por dos veces, de diez en diez días, convocando a todos los que se consideren con derecho a la herencia y a los acreedores, para que se presenten en el juicio a deducirlos. Los edictos se publicarán en el Periódico Oficial y en uno de los de mayor circulación. Si el juicio no se radicó en el lugar del último domicilio del finado, también se publicarán en él los edictos. Si el valor del activo de la sucesión no excediere de diez mil pesos, no se hará publicación de edictos y sólo se fijarán éstos en la puerta del juzgado.
 
-### CAPITULO III. INTESTAMENTARIAS
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+### CAPITULO II. TESTAMENTARIAS
 
 ###### ARTICULO 773.
 
@@ -6095,7 +6127,9 @@ Las cuestiones que no afectan la validez del testamento o la capacidad para here
 
 Una vez celebrada la audiencia a que se refiere el artículo anterior y dictadas las resoluciones que correspondan, los trámites del juicio testamentario serán los mismos que los establecidos por los artículos siguientes, respecto a las acciones de inventarios, administración y partición.
 
-### CAPITULO IV. INVENTARIO Y AVALUO
+### CAPITULO III. INTESTAMENTARIAS
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 785.
 
@@ -6139,7 +6173,7 @@ En la misma sentencia se resolverá quién será el albacea, que será nombrado 
 
 La sentencia a que se refiere el artículo anterior será apelable en ambos efectos.
 
-### CAPITULO V. ADMINISTRACION
+### CAPITULO IV. INVENTARIO Y AVALUO
 
 ###### ARTICULO 794.
 
@@ -6265,7 +6299,7 @@ El inventario y avalúo se harán simultáneamente, excepto cuando sea urgente p
 
 La oposición a los avalúos se tramitará de acuerdo con las reglas establecidas en este Capítulo.
 
-### CAPITULO VI. LIQUIDACION Y PARTICION
+### CAPITULO V. ADMINISTRACION
 
 ###### ARTICULO 810.
 
@@ -6357,9 +6391,7 @@ VIII.- Si todos los interesados aprobaren la cuenta o no la impugnaren, el juez 
 
 IX.- El auto que apruebe o repruebe la cuenta será apelable en el efecto devolutivo.
 
-### CAPITULO VII. TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+### CAPITULO VI. LIQUIDACION Y PARTICION
 
 ###### ARTICULO 816.
 
@@ -6471,7 +6503,9 @@ Respecto a la partición y sus efectos se estará a lo dispuesto por el Código 
 
 La sentencia que apruebe o repruebe la partición es apelable en ambos efectos, cuando el monto del caudal exceda de cinco mil pesos.
 
-### CAPITULO VIII. TRAMITACION ANTE NOTARIOS
+### CAPITULO VII. TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 828.
 
@@ -6499,9 +6533,7 @@ VII.- El acta o actas en que consten las adjudicaciones servirán de título a l
 
 VIII.- La transmisión de los bienes del patrimonio familiar estará exenta de impuestos, cualquiera que sea su naturaleza.
 
-### CAPITULO I. REGLAS GENERALES
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
+### CAPITULO VIII. TRAMITACION ANTE NOTARIOS
 
 ###### ARTICULO 830.
 
@@ -6535,7 +6567,7 @@ Siempre que haya oposición de algún aspirante a la herencia, el notario suspen
 
 ## TITULO DECIMO CUARTO. JUZGADOS MENORES
 
-### CAPITULO II. COMPETENCIA Y PRELIMINARES DEL JUICIO
+### CAPITULO I. REGLAS GENERALES
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -6577,9 +6609,9 @@ Si los jueces impedidos no se excusaren, a pedimento de parte el superior impond
 
 Las recusaciones de los secretarios de los juzgados se substanciarán en la forma prevenida en los artículos 219, 220, 221, 222, 223, 224 y 225.
 
-### CAPITULO III. JUICIO
+### CAPITULO II. COMPETENCIA Y PRELIMINARES DEL JUICIO
 
-> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 844.
 
@@ -6657,7 +6689,9 @@ No será necesaria la identificación, aunque se trate de personas desconocidas,
 
 El que se presente como actor o como reo, usando el nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las sanciones que determine el Código Penal.
 
-### CAPITULO IV. EJECUCION
+### CAPITULO III. JUICIO
+
+> <small>(F. DE E., P.O. 4 DE OCTUBRE DE 1961)</small>
 
 ###### ARTICULO 852.
 
@@ -6695,7 +6729,7 @@ VIII.- De lo ocurrido en la audiencia se levantará una acta en la que bastará 
 
 Los jueces menores al interrogar a los testigos, tomarán las precauciones necesarias para que las declaraciones de quienes las vayan rindiendo no sean conocidas por los que les deban seguir. Se sujetarán a las reglas generales contenidas en este Código para la apreciación de las pruebas.
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO IV. EJECUCION
 
 ###### ARTICULO 857.
 
@@ -6747,7 +6781,7 @@ Cuando el interés de la tercería exceda del que la ley someta a la jurisdicci�
 
 ## TITULO DECIMO QUINTO. JURISDICCION VOLUNTARIA
 
-### CAPÍTULO II. INFORMACION AD PERPETUAM
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 866.
 
@@ -6805,7 +6839,7 @@ Declarado un hecho mediante estos procedimientos, se presume cierto, salvo prueb
 
 En los negocios sobre cuestiones familiares, de propiedad y posesión, concursos y sucesiones, y que por su naturaleza participen de la jurisdicción voluntaria, se aplicarán las reglas de los capítulos respectivos, y en lo no previsto, se tramitarán conforme a las reglas de este Título.
 
-### CAPÍTULO III. POSESION
+### CAPÍTULO II. INFORMACION AD PERPETUAM
 
 ###### ARTICULO 876.
 
@@ -6841,7 +6875,7 @@ Cuando no se trate de derechos reales, se expedirá al interesado copia certific
 
 En ningún caso se admitirán informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
 
-### CAPÍTULO IV. APEO Y DESLINDE
+### CAPÍTULO III. POSESION
 
 ###### ARTICULO 881.
 
@@ -6875,7 +6909,7 @@ Si el juez estima comprobada debidamente la posesión, lo declarará así por re
 
 En la resolución el juez fijará con precisión, hasta donde sea posible, desde cuándo debe considerarse que se inició la posesión. Si existe contradicción entre las atestaciones y los documentos presentados en cuanto a la fecha o época de aquélla, ésta se determinará conforme a las pruebas que merezcan mayor crédito.
 
-### CAPITULO V. ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS
+### CAPÍTULO IV. APEO Y DESLINDE
 
 ###### ARTICULO 883.
 
@@ -6939,9 +6973,7 @@ Los puntos respecto a los cuales hubiere oposición legal, no quedarán deslinda
 
 Los gastos generales del apeo y deslinde se harán por el que lo promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes, serán pagados por el que nombre a los unos y presente a los otros.
 
-### CAPITULO VI. DIVORCIO VOLUNTARIO
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+### CAPITULO V. ENAJENACION DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCION ACERCA DE SUS DERECHOS
 
 ###### ARTICULO 891.
 
@@ -6983,7 +7015,9 @@ El precio de la venta se entregará al tutor, si las fianzas o garantías presta
 
 El juez señalará un termino prudente al tutor para que justifique la inversión del precio de la enajenación.
 
-### CAPITULO VII. JURISDICCION VOLUNTARIA EN OTROS NEGOCIOS
+### CAPITULO VI. DIVORCIO VOLUNTARIO
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 896.
 
@@ -7033,7 +7067,7 @@ Ejecutoriada la resolución de divorcio, el Tribunal mandará remitir copia de e
 
 En el caso de que los cónyuges no tengan hijos y ratificaren la solicitud de divorcio, en los términos del Código Civil, el juez, dentro de los diez días siguientes dictará sentencia y se procederá conforme a lo previsto en el artículo anterior.
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO VII. JURISDICCION VOLUNTARIA EN OTROS NEGOCIOS
 
 ###### ARTICULO 905.
 
@@ -7055,11 +7089,11 @@ El juez queda facultado para hacer cotejar documentos redactados en idioma extra
 
 Para tramitar los asuntos a que se refiere este Capítulo, se estará a lo que particularmente establecen como requisito especial las leyes respectivas, y en lo demás, con arreglo a las disposiciones de este Título.
 
-### CAPITULO II. REVOCACION
+### CAPITULO I. GENERALIDADES
 
 ## TITULO DECIMO SEXTO. IMPUGNACION DE LAS RESOLUCIONES JUDICIALES
 
-### CAPITULO III. REVISION
+### CAPITULO II. REVOCACION
 
 ###### ARTICULO 908.
 
@@ -7091,9 +7125,7 @@ Sólo las partes y las personas a quien la ley conceda esta facultad pueden hace
 
 Los recursos se tendrán por abandonados cuando no se continúen en forma legal.
 
-### CAPITULO IV. APELACION
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+### CAPITULO III. REVISION
 
 ###### ARTICULO 914.
 
@@ -7114,6 +7146,10 @@ La revocación no suspende el curso del juicio.
 ###### ARTICULO 918.
 
 En los juicios que se tramitan oralmente, la revocación se decidirá tan luego como sea promovida. En los demás casos, se dará vista a las otras partes, por el término de tres días y, transcurrido dicho término, se resolverá sin más trámite, dentro de otros tres. La resolución que se dicte no admite recurso.
+
+### CAPITULO IV. APELACION
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 919.
 
@@ -7584,3 +7620,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE ENERO DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los juicios de pérdida de patria potestad que se encuentren en trámite al momento de entrar en vigor este Decreto, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio.
