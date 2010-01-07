@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2009-11-03"
+last_updated: "2010-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2010.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1513,7 +1513,7 @@ Si una vez practicada la prueba, se obtiene como resultado la no paternidad o ma
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
 
-ART. 347 BIS.- Generada la presunción de la filiación, en actos prejudiciales, podrá decretarse pensión alimenticia, como medida provisional y de protección, a cargo del presunto progenitor y a favor de (sic) pretendido hijo, al admitirse la demanda correspondiente.
+ART. 347 bis.- Generada la presunción de la filiación, en actos prejudiciales, podrá decretarse pensión alimenticia, como medida provisional y de protección, a cargo del presunto progenitor y a favor de (sic) pretendido hijo, al admitirse la demanda correspondiente.
 
 ART. 348.- La posesión de estado, para los efectos de los artículos 318 y 347, fracción II, se justificará demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre o por la familia de éste, como hijo del primero, o que el presunto padre ha proveído a su subsistencia y educación o establecimiento.
 
@@ -1855,17 +1855,19 @@ II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 26
 
 III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2010)</small>
+
 IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados en los casos siguientes:
 
-A.- Siendo recién nacido y menor de un año, por más de treinta días.
+A.- Siendo recién nacido y menor de un año, por más de veinte días; o
 
-B.- Cuando sea mayor de un año, por un periodo de dos meses; y
+B.- Cuando sea mayor de un año, por un periodo de más de cuarenta y cinco días;
 
 V.- Por abandono ocasional o negligencia que ponga en peligro su integridad física o su salud, cualquiera que sea la edad del menor, si esta circunstancia se prolonga hasta por tres meses.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2010)</small>
 
-VI.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor; y,
+VI.- Cuando el que la ejerza sea condenado por la comisión de un delito intencional en el que la víctima sea el menor, pudiendo el juez, en vista de las circunstancias, también determinar la pérdida de la patria potestad que ejerza sobre otros menores; y
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -9990,3 +9992,13 @@ P.O. 3 DE NOVIEMBRE DE 2009.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día suguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ENERO DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los juicios de pérdida de patria potestad que se encuentren en trámite al momento de entrar en vigor este Decreto, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio.
