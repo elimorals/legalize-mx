@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2009-07-07"
+last_updated: "2010-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -2103,7 +2103,9 @@ Son nulos de pleno derecho los actos que se otorguen en contravención a lo disp
 
 Las concesiones de servicios públicos municipales se sujetarán a las siguientes bases:
 
-I.- Se otorgarán por tiempo determinado que no exceda de quince años.
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2010)</small>
+
+I.- Se otorgarán por tiempo determinado que no exceda de treinta años.
 
 II.- El costo de la prestación del servicio será por cuenta del concesionario.
 
@@ -2121,9 +2123,15 @@ VIII.- En los términos de la Ley de la materia, el Ayuntamiento podrá ocupar t
 
 IX.- Las que determine el Congreso en cada caso.
 
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2010)</small>
+
+Tratándose de contratos de prestación de servicios de cualquier naturaleza, previstos en el artículo 172 de este Código, los mismos podrán tener la duración a que se refiere la fracción I del primer párrafo de este artículo, sujetándose a las previsiones que se establezcan para su celebración, ejecución y terminación en el Decreto correspondiente del Congreso del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2010)</small>
+
 ###### ARTICULO 175.
 
-Las concesiones terminarán por:
+Las concesiones, los contratos de obra pública y suministros, así como la prestación de servicios de cualquier naturaleza que otorgue el Municipio a los particulares terminarán por:
 
 I.- Expiración del plazo.
 
@@ -2131,49 +2139,69 @@ II.- Cancelación.
 
 II.- Caducidad.
 
-IV.- Expropiación de la empresa concesionaria.
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2010)</small>
+
+IV.- Expropiación de la empresa.
 
 ###### ARTICULO 176.
 
-A petición del concesionario, formulada antes de la expiración del plazo, la concesión podrá ser prorrogada previa autorización del Congreso, hasta por un término igual para el que fue otorgada, siempre que subsista la necesidad del servicio; que las instalaciones, maquinaria y equipo sean renovados; que el concesionario haya prestado el servicio en forma eficiente, y que el Ayuntamiento esté imposibilitado para prestarlo o lo considere conveniente.
+(DEROGADO, P.O. 7 DE ENERO DE 2010)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 177.
 
-El Ayuntamiento podrá decretar administrativamente y en cualquier tiempo la cancelación de la concesión, cuando:
+El Ayuntamiento podrá decretar administrativamente y en cualquier tiempo la cancelación de los actos señalados en el artículo 172, cuando:
 
-I.- Se compruebe que el servicio se presta en forma distinta de la concesionada.
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2010)</small>
 
-II.- No se preste el servicio concesionado en forma regular, salvo caso fortuito o fuerza mayor.
+I.- Se compruebe que el servicio se presta en forma distinta de la convenida.
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2010)</small>
+
+II.- No se preste el servicio público en forma regular, salvo caso fortuito o fuerza mayor.
 
 III.- Se alteren las tarifas autorizadas en perjuicio de los usuarios.
 
-IV.- No se cumpla con las obligaciones que se deriven de la concesión.
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2010)</small>
 
-V.- Se demuestre que el concesionario no conserva los bienes y demás instalaciones en buen estado o cuando estos sufran deterioro por negligencia, en perjuicio de la prestación normal del servicio.
+IV.- No se cumpla con las obligaciones convenidas.
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2010)</small>
+
+V.- Se demuestre que el particular no conserva los bienes y demás instalaciones en buen estado o cuando éstos sufran deterioro por negligencia, en perjuicio de la prestación normal del servicio; y
 
 VI.- Por cualquier otra causa grave, similar a las anteriores.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2010)</small>
+
 ###### ARTICULO 178.
 
-El Ayuntamiento podrá decretar administrativamente la caducidad de la concesión en los siguientes casos:
+El Ayuntamiento podrá decretar administrativamente la caducidad de las concesiones, los contratos de obra pública y suministros, así como la prestación de servicios de cualquier naturaleza que otorgue el Municipio a los particulares:
 
-I.- Por no iniciarse la prestación del servicio dentro del plazo señalado en la propia concesión.
+I.- Por no iniciarse la prestación del servicio dentro del plazo señalado;
 
-II.- Cuando el concesionario no otorgue o amplíe las garantías que se le fijen.
+II.- Cuando el particular no otorgue o amplíe las garantías que se le fijen; y
 
-III.- Porque el concesionario no haya realizado las obras e instalaciones o adquirido la maquinaria y equipo en el plazo y conforme a las especificaciones acordadas por el Ayuntamiento para la prestación del servicio.
+III.- Porque el prestador del servicio no haya realizado las obras e instalaciones o adquirido la maquinaria y equipo en el plazo y conforme a las especificaciones acordadas por el Ayuntamiento para la prestación del servicio.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 179.
 
-La expropiación de la empresa concesionaria procederá en los términos de la Ley de la materia.
+La expropiación de la empresa prestadora del servicio público procederá en los términos de la ley de la materia.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 180.
 
-Para resolver la cancelación o la caducidad de la concesión, el Ayuntamiento previamente emitirá un dictamen en base a los estudios realizados, del cual se dará vista al concesionario y quien podrá rendir las pruebas y alegatos que a sus intereses convenga en un plazo que no excederá de cinco días hábiles.
+Para resolver la cancelación o la caducidad de cualquiera de los actos señalados en el artículo 172, el Ayuntamiento emitirá previamente un dictamen con base en los estudios realizados, del cual se dará vista al particular, quien podrá rendir las pruebas y alegatos que a sus intereses convengan en un plazo que no excederá de cinco días hábiles.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 181.
 
-Las resoluciones del Ayuntamiento en materia de cancelación o caducidad de concesión podrán ser impugnadas en los términos del procedimiento fijado en el Capítulo II del Título Sexto de este Código.
+Las resoluciones del Ayuntamiento en materia de cancelación o caducidad de las concesiones, contratos de obra pública y suministros, así como de prestación de servicios de cualquier naturaleza que otorgue el Municipio a los particulares, podrán ser impugnadas en los términos del procedimiento fijado en el Capítulo II del Título Sexto de este Código.
 
 ### CAPITULO II. DE LAS RELACIONES INDIVIDUALES DE TRABAJO
 
@@ -3792,3 +3820,13 @@ DECRETO No. LX-650, POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III Y IV DEL AR
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ENERO DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las concesiones o los contratos de prestación de servicios de cualquier naturaleza, previstos en el artículo 172 de este Código, que actualmente presten los particulares a los Municipios, respecto a su duración, se sujetarán a lo dispuesto en el presente Decreto.
