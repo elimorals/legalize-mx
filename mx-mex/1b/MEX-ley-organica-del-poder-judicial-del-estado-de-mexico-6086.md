@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2009-09-30"
+last_updated: "2010-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -283,19 +283,31 @@ Los jueces serán los necesarios para el despacho de los asuntos que les corresp
 
 ### CAPITULO PRIMERO. De las designaciones
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
+
 ###### Artículo 16.
 
-Los magistrados del Tribunal Superior de Justicia y los jueces serán designados por el Consejo de la Judicatura del Estado de México, previo examen de oposición.
+Los Magistrados del Tribunal Superior de Justicia, serán designados por el Gobernador del Estado; y los jueces serán designados por el Consejo de la Judicatura del Estado de México, previo examen de oposición abierto.
 
 ###### Artículo 17.
 
 Los nombramientos de magistrados del Tribunal Superior de Justicia, se sujetarán a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, la cual la otorgará o negará dentro del término improrrogable de diez días hábiles. Si no resolviere dentro de ese plazo, se tendrán por aprobados.
 
-En caso de negativa, el Consejo de la Judicatura formulará una segunda propuesta y si tampoco es aprobada, quedará facultado para realizar un tercer nombramiento que surtirá efectos desde luego.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
+
+En caso de negativa el Gobernador formulará una segunda propuesta y si tampoco es aprobada, quedará facultado para realizar un tercer nombramiento que surtirá efectos desde luego.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 18.
 
-Sin la aprobación a que se refiere el artículo anterior y la protesta respectiva, no podrán tomar posesión los magistrados nombrados por el Consejo de la Judicatura, salvo el caso a que se refiere la parte final del precepto.
+Sin la aprobación a que se refiere el artículo anterior y la protesta respectiva, no podrán tomar posesión los magistrados nombrados por el Gobernador del Estado, salvo el caso a que se refiere la parte final del precepto.
 
 ###### Artículo 19.
 
@@ -343,9 +355,19 @@ Los magistrados, jueces, secretarios del pleno, de la presidencia, de acuerdos, 
 
 El Tribunal Superior de Justicia residirá en la capital del Estado, estará integrado por el número de magistrados que determine el Consejo de la Judicatura, designados en los términos previstos por la Constitución Política del Estado y esta ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
+
 ###### Artículo 26.
 
 Los magistrados que integren el Tribunal Superior de Justicia durarán en su cargo 15 años y serán sustituidos de manera escalonada.
+
+Al finalizar su encargo los magistrados gozarán de un haber de retiro equivalente, durante el primer año, al 100% del sueldo neto que obtengan los magistrados en activo; y los siguientes cinco años, será del 80%.
+
+Del monto total al que se tenga derecho deberá deducirse, en su caso, aquel que reciban por parte del Instituto de Seguridad Social del Estado de México y Municipios.
+
+La prestación en comento será otorgada siempre y cuando el magistrado haya concluido el periodo de su nombramiento, o bien, cuando haya ejercido diez años como magistrado y tenga más de veinticinco años al servicio del Estado o más de setenta años de edad. El desempeño laboral en cualquier otra instancia de gobierno, generará la suspensión de esta prestación, salvo la actividad docente.
 
 Solamente podrán ser privados de sus cargos por la Legislatura del Estado a petición del Consejo de la Judicatura, por delitos o faltas u omisiones graves en el desempeño de sus funciones, por mala conducta o separados porque estén incapacitados física o mentalmente. La ley determinará el procedimiento correspondiente.
 
@@ -371,7 +393,9 @@ II. No ser ministro de algún culto religioso, a menos que se separe formal, mat
 
 III. No tener impedimento físico o enfermedad que lo imposibilite para el desempeño del cargo; y
 
-IV. Haber aprobado el examen de oposición.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IV. (DEROGADA, G.G. 10 DE ENERO DE 2010)
 
 ###### Artículo 31.
 
@@ -449,11 +473,13 @@ Para ser secretario general de acuerdos, se necesitan los mismos requisitos que 
 
 Del Presidente del Tribunal Superior de Justicia.
 
-(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999) (F. DE E., P.O. 5 DE ENERO DE 2000)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 40.
 
-El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en forma abierta o secreta, por los magistrados que integren el Poder Judicial, según lo determine el pleno del propio Tribunal, en la primera sesión que celebre durante el mes de enero del año que corresponda y durará en su encargo cinco años, al concluir éste, deberá reintegrarse a la función jurisdiccional que le corresponda.
+El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en forma abierta o secreta, por los magistrados que integren el Poder Judicial, según lo determine el pleno del propio Tribunal, en la primer sesión que se celebre durante el mes de enero del año que corresponda, durará en su cargo tres años, y podrá ser reelecto para el periodo inmediato posterior, al concluir éste, deberá reintegrarse a la función jurisdiccional que le corresponda.
 
 ###### Artículo 41.
 
@@ -645,21 +671,59 @@ Los auxiliares de las salas deberán ser ciudadanos mexicanos, estar capacitados
 
 La administración, vigilancia y disciplina del Poder Judicial, estarán a cargo del Consejo de la Judicatura conforme a las bases que señala la Constitución Política del Estado y esta ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE ENERO DE 2010)</small>
+
 ###### Artículo 53.
 
-El Consejo de la Judicatura, se integra por:
+El Consejo de la Judicatura se integra por:
 
 I. Un presidente, que será el del Tribunal Superior de Justicia;
 
-II. Dos magistrados nombrados mediante insaculación; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Dos jueces de primera instancia, nombrados en los términos de la fracción anterior.
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+II. Dos magistrados del pleno del Tribunal Superior de Justicia designados por el Consejo de la Judicatura;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
+
+III. Un Juez de Primera Instancia designado por el Consejo de la Judicatura;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2010)</small>
+
+IV. Uno designado por el titular del Ejecutivo del Estado; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2010)</small>
+
+V. Dos designados por la Legislatura del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2010)</small>
+
+Las personas designadas por el Ejecutivo y la Legislatura deberán cumplir con los requisitos que para magistrado se exigen por la Constitución Política del Estado, salvo el de haber servido en el Poder Judicial del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2010)</small>
+
+Los magistrados y el juez designados por el Consejo de la Judicatura deberán tener cuando menos cinco años en esa categoría, no haber sido sancionados administrativamente con suspensión en el cargo y que se hayan distinguido por su capacidad profesional y honorabilidad en el ejercicio de sus actividades. El Consejo de la Judicatura emitirá acuerdo previo, que establezca los términos y procedimiento al que deberán sujetarse los interesados en participar en estas designaciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 54.
 
-Los integrantes del Consejo de la Judicatura durarán en su encargo cinco años, y serán sustituidos de manera escalonada, quienes al concluir su encargo, deberán reintegrarse a la función jurisdiccional que les corresponda.
+Los integrantes del Consejo de la Judicatura durarán en su encargo cinco años y serán sustituidos de manera escalonada. Los magistrados y el juez consejeros al concluir su encargo se reintegrarán a la función jurisdiccional que les corresponda.
 
 ###### Artículo 55.
 
@@ -669,13 +733,21 @@ El Consejo de la Judicatura funcionará en pleno o en comisiones.
 
 El Consejo de la Judicatura integrará una Comisión Especial, cuando así lo estime conveniente a solicitud del titular del Ejecutivo o del Pleno de la Legislatura, para realizar la averiguación de hechos que pudieran constituir un ilícito o responsabilidad administrativa, de algún magistrado o juez del Poder Judicial; cuando la petición se derive del Pleno de la Legislatura, por conducto de su Comisión de Administración de Justicia, podrá hacer llegar a la comisión especial, los elementos de prueba y demás información a su alcance, a efecto de que se determine lo procedente por el Consejo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
+
 ###### Artículo 56.
 
-El pleno del Consejo de la Judicatura celebrará sesiones ordinarias una vez cada 15 días y cuantas extraordinarias se requieran, previa convocatoria de su presidente, a iniciativa propia o a solicitud de cuando menos dos de sus integrantes.
+El pleno del Consejo de la Judicatura celebrará sesiones ordinarias una vez cada 15 días y cuantas extraordinarias se requieran, previa convocatoria de su presidente, a iniciativa propia o a solicitud de cuando menos tres de sus integrantes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 57.
 
-El pleno del Consejo de la Judicatura se integrará con los cinco consejeros, pero bastará la presencia del presidente y dos más de sus miembros para que sesione.
+El pleno del Consejo de la Judicatura se integrará con los siete consejeros, pero bastará la presencia del presidente y tres más de sus miembros para que se sesione.
 
 ###### Artículo 58.
 
@@ -705,7 +777,11 @@ Son facultades del Consejo de la Judicatura:
 
 I. Velar por la autonomía y la independencia de los miembros del Poder Judicial y evitar que se afecte su imparcialidad y libertad para juzgar;
 
-II. Expedir los nombramientos de los magistrados y someterlos a la aprobación de la Legislatura o de la Diputación Permanente y designar a los jueces y al personal de los juzgados, mediante exámenes de oposición;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
+
+II. Designar a los jueces y al personal de los juzgados, mediante exámenes de oposición abiertos;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1753,7 +1829,9 @@ El presidente del Consejo de la Judicatura firmará las operaciones activas o pa
 
 ### CAPITULO UNICO. De la Carrera Judicial
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 150.
 
@@ -1843,7 +1921,9 @@ IX. Cursos continuos de preparación para las distintas categorías de la Carrer
 
 ###### Artículo 157.
 
-El ingreso y promoción para las categorías que conforman la Carrera Judicial, se realizarán invariablemente mediante concursos de oposición, previa la aprobación de los cursos impartidos por la Escuela Judicial.
+El ingreso y promoción para las categorías que conforman la Carrera Judicial, se realizarán invariablemente mediante concursos de oposición que serán abiertos, y en los que no sólo podrán participar los servidores públicos del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 La Escuela Judicial, velará por brindar la oportunidad de acceder a una carrera judicial a todo ciudadano, con la única limitante de satisfacer los requisitos que la ley exija a cada categoría judicial.
 
@@ -1855,7 +1935,9 @@ La promoción de los servidores del Poder Judicial, se hará mediante el sistema
 
 La carrera judicial está integrada por las siguientes categorías:
 
-I. Magistrado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+I. (DEROGADA, G.G. 10 DE ENERO DE 2010)
 
 II. Juez de primera instancia;
 
@@ -2686,3 +2768,33 @@ Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno" del Esta
 ###### ARTÍCULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 10 DE ENERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de que inicie su vigencia la reforma a los artículos 61 fracción XV en sus párrafos primero y segundo, 77 en su fracción XII, 89, 107 en su primer párrafo y en sus fracciones II y III y, 110. La adición de las fracciones IV y V y los dos últimos párrafos al artículo 107 de la Constitución Política del Estado Libre y Soberano de México.
+
+###### ARTÍCULO TERCERO.
+
+Los consejeros designados por el titular del Poder Ejecutivo y el Poder Legislativo serán designados a más tardar el doce de enero del dos mil diez y entrarán en funciones el día trece de enero del propio año.
+
+###### ARTÍCULO CUARTO.
+
+La Legislatura local proveerá en el Presupuesto Anual de Egresos, los recursos presupuestales que permitan dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los jueces que actualmente integran el Consejo de la Judicatura seguirán en su encargo hasta la conclusión del periodo para el cual fueron insaculados, en tal virtud, por única ocasión, dicho Consejo se conformará por 8 personas.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro del plazo de 90 días naturales posteriores al de la entrada en vigor del presente Decreto, el Consejo de la Judicatura del Estado de México, deberá adecuar las disposiciones reglamentarias a que haya lugar.
