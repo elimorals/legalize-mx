@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2009-10-01"
+last_updated: "2010-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2010.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -831,9 +831,13 @@ XIII. Designar a los funcionarios electorales cuyo nombramiento le reserve ésta
 
 XIV. Constituirse en Colegio Electoral para designar Gobernador interino o sustituto, en los casos que determine la presente Constitución;
 
-XV. Aprobar los nombramientos de magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo que hagan el Consejo de la Judicatura y el Gobernador, respectivamente, dentro de los 10 días hábiles siguientes a la fecha de los nombramientos. Si éstos transcurren sin que la Legislatura hubiera resuelto, se entenderán aprobados.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE ENERO DE 2010)</small>
 
-En caso de negativa, el Consejo o el Gobernador, según corresponda, podrán formular una segunda propuesta diversa, y si tampoco es aprobada, el Consejo o el Gobernador quedarán facultados para hacer un tercer nombramiento, que surtirá efectos desde luego.
+XV. Aprobar los nombramientos de magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo que haga el Gobernador, dentro de los 10 días hábiles siguientes a la fecha de los nombramientos. Si éstos transcurren sin que la Legislatura hubiera resuelto, se entenderán aprobados.
+
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
+
+En caso de negativa, el Gobernador, podrá formular una segunda propuesta diversa, y si tampoco es aprobada, el Gobernador quedará facultado para hacer un tercer nombramiento, que surtirá efectos desde luego.
 
 Durante los recesos de la Legislatura, los nombramientos a que se refiere este precepto podrán ser aprobados por la Diputación Permanente;
 
@@ -1185,7 +1189,9 @@ X. Cuidar de la instrucción de la Guardia Nacional en el Estado, conforme a las
 
 XI. Objetar por una sola vez, en el improrrogable término de 10 días hábiles, las leyes y decretos aprobados por la Legislatura; si ésta después de haberlos discutido nuevamente los ratifica, serán promulgados;
 
-XII. Nombrar a los magistrados del Tribunal de lo Contencioso Administrativo del Estado, sometiendo los nombramientos a la aprobación de la Legislatura o de la Diputación Permanente, en su caso;
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
+
+XII. Nombrar a los magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Superior de Justicia, éstos últimos previa propuesta del Consejo de la Judicatura conforme a las disposiciones de la ley de la materia, sometiendo los nombramientos a la aprobación de la Legislatura o de la Diputación Permanente, en su caso;
 
 XIII. Aceptar las renuncias de los Magistrados del Tribunal de lo Contencioso Administrativo, sometiéndolas a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, así como acordar las licencias de esos funcionarios cuando éstas excedan de tres meses, sometiéndolas a la aprobación del Cuerpo Legislativo;
 
@@ -1439,13 +1445,13 @@ Contra la resolución emitida por la Sala Constitucional en primera instancia, p
 
 En caso de que la controversia o acción de inconstitucionalidad verse sobre la constitucionalidad de actos, o presunta violación o contradicción de preceptos constitucionales federales, se estará a lo dispuesto en la Constitución General de la Republica, así como a la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 89.
 
 El Tribunal Superior de Justicia se compondrá del número de magistrados que determine la Ley Orgánica del Poder Judicial, durarán en su encargo 15 años y serán sustituidos de manera escalonada.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2005)</small>
+Al finalizar su encargo los magistrados gozarán de un haber de retiro por el monto, plazo y bajo las condiciones que señale la Ley Orgánica del Poder Judicial del Estado.
 
 Los jueces de primera instancia, los de cuantía menor y los ejecutores de sentencias serán los necesarios para el despacho pronto y expedito de los asuntos que les correspondan en los distritos judiciales y en los municipios del Estado.
 
@@ -1617,17 +1623,39 @@ Para efectos de la administración de justicia, el Estado de México se dividir�
 
 La administración, vigilancia y disciplina del Poder Judicial, estarán a cargo del Consejo de la Judicatura del Estado de México, conforme a las bases que señala esta Constitución y las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 107.
 
-El Consejo de la Judicatura del Estado de México, se integrará por:
+El Consejo de la Judicatura del Estado de México se integrará por:
+
+> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
 I. Un Presidente, que será el del Tribunal Superior de Justicia;
 
-II. Dos magistrados electos mediante insaculación; y
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
 
-III. Dos Jueces de Primera Instancia electos mediante insaculación.
+II. Dos magistrados del pleno del Tribunal Superior de Justicia designados por el Consejo de la Judicatura;
+
+> <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
+
+III. Un Juez de Primera Instancia designado por el Consejo de la Judicatura;
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2010)</small>
+
+IV. Uno designado por el titular del Ejecutivo del Estado; y
+
+> <small>(ADICIONADA, G.G. 10 DE ENERO DE 2010)</small>
+
+V. Dos designados por la Legislatura del Estado.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2010)</small>
+
+Las personas designadas por el Ejecutivo y la Legislatura deberán cumplir con los requisitos que para magistrado señala esta Constitución, salvo el de haber servido en el Poder judicial del Estado.
+
+> <small>(ADICIONADO, G.G. 10 DE ENERO DE 2010)</small>
+
+Los magistrados y el juez designados por el Consejo de la Judicatura deberán tener cuando menos cinco años en el cargo y cumplir con los requisitos que señale la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1645,11 +1673,13 @@ El Consejo estará facultado para expedir acuerdos generales para el adecuado ej
 
 Las decisiones del Consejo serán definitivas e inatacables.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 110.
 
-Los consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo sólo podrán ser removidos en los términos que establece esta Constitución.
+Los consejeros ejercerán su función con independencia e imparcialidad y, no representan a quien los designa.
+
+Durante su encargo sólo podrán ser removidos en los términos que establece esta Constitución.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -3040,3 +3070,33 @@ G.G. 1 DE OCTUBRE DE 2009.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 10 DE ENERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO TERCERO.
+
+Los consejeros designados por el titular del Poder Ejecutivo y el Poder Legislativo serán designados a más tardar el doce de enero del dos mil diez y entrarán en funciones el día trece de enero del propio año.
+
+###### ARTÍCULO CUARTO.
+
+La Legislatura local proveerá en el Presupuesto Anual de Egresos, los recursos presupuestales que permitan dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los jueces que actualmente integran el Consejo de la Judicatura seguirán en su encargo hasta la conclusión del periodo para el cual fueron insaculados, en tal virtud, por única ocasión, dicho Consejo se conformará por 8 personas.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro del plazo de 90 días naturales posteriores al de la entrada en vigor del presente Decreto, el Consejo de la Judicatura del Estado de México, deberá adecuar las disposiciones reglamentarias a que haya lugar.
