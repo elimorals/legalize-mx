@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2009-11-16"
+last_updated: "2010-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -7373,7 +7373,7 @@ APARTADO DÉCIMO PRIMERO
 
 De las Faltas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2010)</small>
 
 ## TÍTULO TERCERO. DE LOS REQUISITOS PARA LICENCIAS DE CONSTRUCCIÓN
 
@@ -7381,7 +7381,7 @@ De las Faltas
 
 ###### ARTÍCULO 604.
 
-Son faltas leves por las que podrán ser sancionados los elementos de seguridad pública, mediante amonestación privada, pública o arresto, que conocerán y aplicarán, los Directores de Área y Jefes Operativos, las violaciones a lo dispuesto por los artículos 589, fracciones II, III, IV, VI, VII, XII, XV, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXXII ó XXXIII; 598 fracciones III, IV, XVI, XVII, XIX, XXV Y 599 fracciones I, II, III ó IV del presente ordenamiento.
+Son faltas leves por las que podrán ser sancionados los elementos de Seguridad Pública y Tránsito Municipal, mediante amonestación privada, pública o arresto, que conocerán y aplicarán, los Directores de Área y Jefes Operativos, las violaciones a lo dispuesto por los artículos 589, fracciones II, III, IV, VI, XII, XV, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXXII ó XXXIII; 598 fracciones III, IV, XVI, XVII, XXV Y 599 fracciones I, II, III ó IV del presente ordenamiento.
 
 Las faltas consideradas como leves conforme al presente artículo perderán ese carácter y serán consideradas como graves, cuando a juicio del superior jerárquico, el resultado de dichas conductas causen perjuicio al servicio que presta, vayan en detrimento del Municipio o de la sociedad en general, o sean reiterativas.
 
@@ -7393,7 +7393,9 @@ Son faltas sancionadas con amonestación pública, arresto hasta por 36 horas o 
 
 I. Disparar el arma de fuego sin causa justificada, siempre y cuando no se haya puesto en peligro la integridad física y psicológica de persona alguna o se hayan producido lesiones; y
 
-II. Las violaciones a lo dispuesto por los artículos 589, fracciones I, VIII, IX, XIII, XVII, XVlll ó XXXI; 598 fracciones II, V, VI, XV, XVIII ó XX y 599 fracción V del presente ordenamiento.
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2010)</small>
+
+II. Las violaciones a lo dispuesto por los artículos 589, fracciones I, VIII, XIII, XVII, XVlll ó XXXI; 598 fracciones VI ó XVIII y 599 fracción V del presente ordenamiento.
 
 > <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
@@ -7401,15 +7403,19 @@ II. Las violaciones a lo dispuesto por los artículos 589, fracciones I, VIII, I
 
 BIS.- Son faltas por las cuales podrán ser sancionados los elementos de seguridad pública, mismas que conocerá y sancionará el Secretario de Seguridad Pública y Tránsito Municipal o por la Comisión de Honor y Justicia, en sus respectivos ámbitos de competencia, las siguientes:
 
-I. Serán sancionados los elementos de seguridad pública, por el Secretario de Seguridad Pública y Tránsito Municipal mediante suspensión temporal del cargo de 11 a 15 días sin goce de sueldo a quienes cometan las siguientes faltas:
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2010)</small>
+
+I. Serán sancionados los elementos de Seguridad Pública, por el Secretario de Seguridad Pública y Tránsito Municipal mediante suspensión temporal del cargo de 11 a 15 días sin goce de sueldo a quienes cometan las siguientes faltas:
 
 a) Haber cometido 3 faltas leves en el lapso de un año;
 
-b) Las violaciones a lo dispuesto por los artículos 589 fracciones V, X, XIV, XXI, XXVll ó XXIX y 598 fracciones I ó IX del presente Código; y
+b) Las violaciones a lo dispuesto por los artículos 589 fracciones V, XXI, ó XXVll; y
 
 c) Poner en peligro la integridad física o psicológica de los particulares o sus subalternos por una acción u omisión, por causa de imprudencia, descuido, negligencia, pánico o abandono del servicio.
 
-II. .Serán sancionados los elementos de seguridad pública, por la Comisión de Honor y Justicia, mediante destitución o inhabilitación a quienes cometan las siguientes faltas:
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2010)</small>
+
+II. .Serán sancionados los elementos de Seguridad Pública, por la Comisión de Honor y Justicia, mediante destitución o inhabilitación a quienes cometan las siguientes faltas:
 
 a) Que se le dicte sentencia condenatoria por cometer un delito doloso, cualquiera que éste sea;
 
@@ -7419,11 +7425,17 @@ c) Obligar o sugerirle a sus subalternos a entregarles dinero o cualquier otro t
 
 d) Obligar, sugerir o despojar a los particulares de sus pertenencias ya sea en efectivo o en especie, haciendo uso de sus atribuciones;
 
-e) Las violaciones a lo dispuesto por los artículos 589 fracción XI, XVI, XIX, XX ó XXX, 598 fracciones VII, VIII, X, XI, XII, XIII, XIV, XXII, XXIII ó XXIV y 599 fracción V del presente Código; y
+e) Las violaciones a lo dispuesto por los artículos 589 fracción VII, IX, X, XI, XIV, XVI, XIX, XX, XXIX, ó XXX, 598 fracciones I, II, V, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XIX, XX, XI (sic) XXII, XXIII ó XXIV y 599 fracción V del presente Código; y
 
 f) Haber cometido dos faltas de las sancionadas por el Secretario de Seguridad Pública y Tránsito Municipal, de acuerdo al artículo 605 en el lapso de un año.
 
-Ningún elemento de la Secretaría de Seguridad Pública podrá ser sancionado más de una vez por el secretario de Seguridad Pública por la contravención de las conductas establecidas en la fracción I del presente artículo, por lo cual la reiteración de dichas faltas causará la destitución inmediata, la cual operará de inmediato.
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2010)</small>
+
+En caso que durante el procedimiento Administrativo seguido ante la Comisión de Honor y Justicia, se compruebe que el elemento ha incurrido en cualquiera de las faltas mencionadas en los artículos 604, 605 y fracción I del artículo 605 bis de este Código, la Comisión de Honor y Justicia dentro de su resolución final emitirá los razonamientos tendientes a acreditar la comisión de dichas faltas, y turnará la resolución al Secretario o al Superior Jerárquico, según sea el caso, para que aplique la sanción correspondiente en un término no mayor a 10 días hábiles.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2010)</small>
+
+Ningún elemento de la Secretaría de Seguridad Pública podrá ser sancionado más de una vez por el Secretario de Seguridad Pública por la contravención de las conductas establecidas en la fracción I del presente artículo, por lo cual la reiteración de dichas faltas causará la destitución.
 
 APARTADO DÉCIMO SEGUNDO
 
@@ -7631,13 +7643,19 @@ A las notificaciones derivadas del presente procedimiento le será aplicable lo 
 
 En caso de que el elemento de seguridad pública se negare a firmar la notificación, el notificador podrá dar fe de dicha conducta y así asentarlo en la cédula de notificación. Dicha negativa no afectará la validez de la notificación realizada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 620.
 
-Las decisiones de la Comisión de Honor y Justicia se tomarán por mayoría de votos, la votación en el seno de la Comisión, será de manera abierta y razonada por sus integrantes, el Presidente tendrá voto de calidad y los fallos que emitan serán inapelables y no admitirán recurso alguno.
+Las decisiones de la Comisión de Honor y Justicia se tomarán por mayoría simple de votos de los miembros presentes, misma mayoría que deberá presentarse para decretar la existencia de quórum en cualquier sesión, La (sic) votación en el seno de la Comisión, será de manera abierta y razonada por sus integrantes, únicamente en caso de empate, el Presidente tendrá voto de calidad y los fallos que emitan serán inapelables y no admitirán recurso alguno.
 
 Las facultades de la Comisión de Honor y Justicia se ejercerán sin perjuicio de las que correspondan al Presidente Municipal, al Secretario del H. Ayuntamiento y Director General de Gobierno, al Secretario de Seguridad Pública y Tránsito Municipal y al Contralor Municipal.
 
 El Secretario Técnico conocerá de la instrucción de cada asunto, pudiendo dictar los acuerdos de mero trámite, resolviendo en dicho periodo y dirigiendo el desarrollo de la sesión y cuidando en todo momento el cumplimiento de las formalidades esenciales.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2010)</small>
+
+El Secretario Técnico tendrá la facultad de expedir copias certificadas respecto de cualquier documento o constancia que obre dentro de los expedientes que sean consignados a la Comisión de Honor y Justicia.
 
 ###### ARTÍCULO 621.
 
@@ -11539,7 +11557,9 @@ II.- Cementerio Vertical: Aquel constituido por uno o más edificios con gavetas
 
 Los Cementerios estarán situados en las afueras de las poblaciones, en dirección opuesta a los vientos dominantes, circundados de muros o cercas sólidas y cerradas con puertas o rejas.
 
-Asimismo, estarán ubicados a distancia no menor de doscientos metros de depósitos naturales de agua o pozos destinados al servicio humano.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2010)</small>
+
+Asimismo, para los efectos de su correcta ubicación se tendrá que emitir el Dictamen de Impacto Ambiental ante la instancia correspondiente y la compatibilidad urbanística estará dispuesta conforme a los Programas de Desarrollo Urbano vigentes.
 
 ###### ARTÍCULO 830.
 
@@ -19310,3 +19330,21 @@ P.O. 16 DE NOVIEMBRE DE 2009.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE ENERO DE 2010.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 604, 605, 605-BIS Y 620 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas las infracciones cometidas por los elementos de seguridad pública, antes de la entrada en vigor del presente Decreto, serán sancionadas con forme (sic) a los procedimientos existentes previos a las presentes reformas.
+
+P.O. 11 DE ENERO DE 2010.
+
+DECRETO POR EL QUE SE REFORMA EL 829 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.
