@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-ejercicio-profesional-en-el-estado-de-tamaulipas-8088"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2006-11-30"
+last_updated: "2010-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -288,6 +288,10 @@ MEDICO CIRUJANO DENTISTA.
 MEDICO CIRUJANO PARTERO.
 
 MEDICO VETERINARIO ZOOTECNISTA.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ENERO DE 2010)</small>
+
+OPTOMETRISTA.
 
 PROFESOR INSTRUMENTISTA.
 
@@ -944,3 +948,9 @@ Los miembros de la junta de Gobierno de El Colegio de Tamaulipas que se encuentr
 ###### ARTÍCULO CUARTO.
 
 Los derechos laborales que hubiere adquirido el personal administrativo y académico de El Colegio de Tamaulipas no se afectarán con motivo de la expedición del presente Decreto, sin demérito de la sujeción al orden jurídico estatal en términos de la fracción VI del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 12 DE ENERO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
