@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2009-10-17"
+last_updated: "2010-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -97,11 +97,11 @@ XI. Minoría Cultural, grupo significativo de población con ciertas caracterís
 
 XII. Organismo Descentralizado, entidad de la administración pública paraestatal, con personalidad jurídica, competencia y patrimonio propios cualquiera que sea la estructura legal que adopte, constituida con fondos o bienes provenientes de la Administración Pública; su objeto es la prestación de un servicio público o social.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 3.
 
-En el Estado de Chihuahua, toda persona tiene derecho a recibir educación sin discriminación alguna, por motivos de raza, género, lengua, ideología, discapacidad, estado de gravidez o cualquiera otra condición personal, social o económica, por lo tanto las mismas oportunidades de acceso al Sistema Educativo con sólo satisfacer los requisitos que establezcan las disposiciones que de esta Ley se deriven.
+En el Estado de Chihuahua, toda persona tiene derecho a recibir educación sin discriminación alguna, por motivos de raza, género, lengua, ideología, necesidades educativas especiales asociadas o no a discapacidad, estado de gravidez o cualquiera otra condición personal, social o económica, por lo tanto las mismas oportunidades de acceso al Sistema Educativo con sólo satisfacer los requisitos que establezcan las disposiciones que de esta Ley se deriven.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -183,7 +183,9 @@ XVIII. Fomentar en las y los educandos una cultura cívica y de participación e
 
 XIX. Promover, mediante el establecimiento de procedimientos y formas de organización, de sistematización de la información, de trabajo y de convivencia administrativas, académicas y escolares, la cultura de la transparencia y la rendición de cuentas.
 
-XX. Fomentar la creación de una cultura de la no violencia, así como el respeto a las demás personas, la igualdad entre hombres y mujeres y a los principios de equidad y no discriminación, de conformidad a lo establecido en la Ley Estatal por el derecho de las mujeres a una vida libre de violencia.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
+
+XX. Promover y fomentar el desarrollo de la cultura por la paz y la no violencia, así como el respeto a las demás personas, la igualdad entre hombres y mujeres y a los principios de equidad y no discriminación, de conformidad a lo establecido en la Ley Estatal del Derecho de las Mujeres a una Vida Libre de Violencia y demás relacionadas.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -479,6 +481,10 @@ III. Proveer recursos especiales para mejorar la eficiencia terminal y la calida
 
 IV. Destinar los recursos federales etiquetados que reciba para la prestación de servicios educativos, exclusivamente para este fin.
 
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2010)</small>
+
+V. Crear los órganos de consulta de las autoridades, de conformidad a lo establecido por los artículos 10, fracción III y 11, fracción IV, de la Ley General de Educación.
+
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 23.
@@ -743,7 +749,9 @@ En los centros educativos matutinos y vespertinos se registrará a las y los alu
 
 La secundaria abierta se sujetará a lo dispuesto por la reglamentación correspondiente.
 
-Para el mejor desarrollo y continua evolución del educando con necesidades educativas especiales con discapacidad, se deberá proporcionar el apoyo en coordinación con educación especial.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
+
+Para el mejor desarrollo y continua evolución del educando con necesidades educativas especiales asociadas o no a una discapacidad, se deberá proporcionar el apoyo en coordinación con la modalidad de educación especial.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -767,7 +775,7 @@ La educación secundaria se sujetará al plan y programas, acuerdos y demás dis
 
 #### SECCIÓN VI. DE LA EDUCACIÓN ESPECIAL
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 45.
 
@@ -849,15 +857,25 @@ La Autoridad Educativa Estatal y los ayuntamientos otorgarán becas a las y los 
 
 ###### ARTÍCULO 51.
 
-La educación especial está destinada a atender y apoyar a personas que presenten alguna discapacidad. Su cobertura será garantizada a través de la atención a las y los educandos y deberá ser acorde a sus condiciones y necesidades, con equidad social y perspectiva de género, tomando en cuenta los siguientes criterios:
+La educación especial está destinada a atender y apoyar a personas que, derivado o no de una discapacidad, transitoria o definitiva, requieran para su desempeño escolar, de adecuaciones curriculares. Su cobertura será garantizada a través de la atención a las y los educandos y deberá ser acorde a sus condiciones y necesidades, con equidad social y perspectiva de género, tomando en cuenta los siguientes criterios:
 
-I. La educación que se imparta procurará, como primera opción, su integración a cualquier plantel de educación básica; para quienes no logren la incorporación, esta educación perseguirá la satisfacción de necesidades básicas de aprendizaje y el desarrollo de actividades prelaborales y para la vida, promoviendo su propio desenvolvimiento en el entorno social y laboral. Serán atendidos en instituciones educativas, creadas para dicho fin;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
+
+I. La educación que se imparta procurará, como primera opción, su integración a cualquier plantel de educación básica; para quienes no logren la incorporación, esta educación perseguirá la satisfacción de necesidades básicas de aprendizaje y el desarrollo de actividades prelaborales y para la vida, promoviendo su propio desenvolvimiento en el entorno social y laboral. Los alumnos y alumnas con aptitudes sobresalientes y/o talentos específicos, serán atendidos en instituciones educativas de nivel medio superior y superior con las que se lleven a cabo convenios de colaboración en los términos de gratuidad establecidos por la norma constitucional, o bien, en las creadas para dicho fin;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 II. La Autoridad Educativa Estatal, procurará impartir cursos de orientación a los padres, a las madres y a los tutores para la toma de decisiones que favorezcan la educación integral de sus hijos, hijas o pupilos;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 III. La Autoridad Educativa Estatal procurará impartir cursos de capacitación y actualización a los profesionales de la educación especial, a través de las instituciones formadoras de profesionales de la educación y/o la Unidad Estatal de Formación Continua de Maestros de Educación Básica;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 IV. La Autoridad Educativa Estatal procurará impartir cursos de capacitación a los docentes de educación básica regular para favorecer la integración educativa y la construcción de una escuela incluyente, a través de las Instituciones Formadoras de Profesionales de la Educación y/o la Unidad Estatal de Formación Continua para Maestros de Educación Básica; y
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 V. La Autoridad Educativa Estatal, en coordinación con las Instituciones Formadoras de Profesionales de la Educación de la Entidad, ofrecerá formación inicial y el desarrollo profesional para los docentes que la educación especial requiera para atender sus necesidades correspondientes.
 
@@ -1021,7 +1039,7 @@ La educación del tipo medio superior comprende el nivel de bachillerato y los e
 
 El bachillerato podrá ser propedéutico, terminal o bivalente:
 
-I. Será propedéutico, aquél que orienta hacia la preparación de la y del educando para su incorporación específica a los estudios de nivel superior;
+I. Será propedéutico, aquel que orienta hacia la preparación de la y del educando para su incorporación específica a los estudios de nivel superior;
 
 II. Será terminal, el que forme técnica o profesionalmente al egresado para su integración al sector productivo en la sociedad, sin que esto sea causa excluyente para el ingreso a niveles superiores; previa acreditación académica que corresponda; y
 
@@ -1369,11 +1387,15 @@ Dichas medidas estarán dirigidas, de manera preferente, a las comunidades de ap
 
 La Autoridad Educativa Estatal garantizará la equidad de la educación, a través de las siguientes acciones:
 
-I. Implementar programas compensatorios, en coordinación con la Autoridad Educativa Federal, orientados a alcanzar la equidad con una perspectiva de género, atendiendo de manera especial a las necesidades educativas de indígenas, campesinos, obreros, migrantes, personas con discapacidad y, en general, a la población en condiciones de marginación y exclusión de los ámbitos familiar, educativo y social. En la aplicación de estos programas tendrán prioridad las y los educandos de seis a quince años de edad.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
+
+I. Implementar programas compensatorios, en coordinación con la Autoridad Educativa Federal, orientados a alcanzar la equidad con una perspectiva de género, atendiendo de manera especial a las necesidades educativas de indígenas, campesinos, obreros, migrantes, personas con necesidades educativas especiales asociadas o no a discapacidad y, en general, a la población en condiciones de marginación y exclusión de los ámbitos familiar, educativo y social. En la aplicación de estos programas tendrán prioridad las y los educandos de seis a quince años de edad.
 
 II. Atender de manera especial a las escuelas que concentran en su población escolar a personas que provienen de grupos vulnerables, en la que es considerablemente mayor la posibilidad de marginación y exclusión, mediante la inversión de recursos económicos y humanos con preparación profesional para mejorar la calidad educativa de estos grupos;
 
-III. Desarrollar programas de actualización y capacitación, a través del Sistema de Formación de Profesionales de la Educación o la Unidad de Formación Continua para docentes de educación básica que realicen su labor en localidades aisladas o zonas urbanas marginadas, en centros poblacionales de fácil y difícil acceso, a fin de fomentar el arraigo en esas comunidades y mejorar la calidad educativa, así como desarrollar programas de actualización y capacitación para profesionalizar a los docentes que atiendan a personas provenientes de grupos vulnerables;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
+
+III. Desarrollar programas de actualización y capacitación, a través del Sistema de Formación de Profesionales de la Educación o la Unidad de Formación Continua para docentes de educación básica que realicen su labor en localidades aisladas o zonas urbanas marginadas, en centros poblacionales de fácil y difícil acceso, a fin de fomentar el arraigo en esas comunidades y mejorar la calidad educativa, así como desarrollar programas de actualización y capacitación para profesionalizar a los docentes que atiendan a personas provenientes de grupos vulnerables o con necesidades educativas especiales asociadas o no a discapacidad;
 
 > <small>(F. DE E., P.O. 16 DE JUNIO DE 2007)</small>
 
@@ -2438,3 +2460,19 @@ La Educación Preescolar será obligatoria en el primer año de Preescolar, a pa
 P.O. 17 DE OCTUBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día primero de enero del año 2010.
+
+P.O. 13 DE ENERO DE 2010.
+
+DECRETO No. 629/09, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 41, 51 Y 116 DE LA LEY ESTATAL DE EDUCACION.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ENERO DE 2010.
+
+DECRETO No. 630/09, POR EL QUE SE REFORMAN LOS ARTICULOS 8 Y 22 DE LA LEY ESTATAL DE EDUCACION.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
