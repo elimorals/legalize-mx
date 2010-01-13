@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-educacion-para-los-adultos-14
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-26"
-last_updated: "2007-06-30"
+last_updated: "2010-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE EDUCACION PARA LOS ADULTOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de mayo de 1999.
 
@@ -157,11 +157,11 @@ DE LOS ÓRGANOS DE ADMINISTRACIÓN Y CONTROL DEL INSTITUTO.
 
 La administración del Instituto estará a cargo de la Junta de Gobierno.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
 
 ###### Artículo 9.
 
-La Junta de Gobierno será el órgano supremo del Instituto y estará integrada por el Secretario de Educación y Cultura, quien la presidirá; los titulares de la Secretaría General de Gobierno y de la Secretaría de Finanzas y Administración, o quienes éstos designen para suplirlos; un representante del sector educativo estatal; un representante del organismo; un representante de la Secretaría de Educación Pública en el Estado; el Presidente del Patronato Pro Educación de Jóvenes y Adultos del Estado de Chihuahua, A.C., y un representante de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Único de Trabajadores del Instituto Nacional para la Educación de los Adultos.
+La Junta de Gobierno será el órgano supremo del Instituto y estará integrada por el Secretario de Educación y Cultura, quien la presidirá; los titulares de la Secretaría General de Gobierno y de la Secretaría de Finanzas y Administración, o quienes éstos designen para suplirlos; un representante del sector educativo estatal; a invitación del Presidente: un representante del organismo, un representante del Instituto Nacional para la Educación de los Adultos; un representante de la Secretaría de Educación Pública en el Estado; el Presidente del Patronato Pro Educación de Jóvenes y Adultos del Estado de Chihuahua, A.C., y un representante de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Único de Trabajadores del Instituto Nacional para la Educación de los Adultos.
 
 ###### Artículo 10.
 
@@ -448,3 +448,7 @@ Lo mismo se observará respecto a la intervención que otorgan a la ya inexisten
 ###### ARTÍCULO SEXTO.
 
 Cuando en cualquier otro ordenamiento legal, acuerdo, convenio o contrato de la naturaleza que fuere, se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+P.O. 13 DE ENERO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
