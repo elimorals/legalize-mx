@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2009-11-07"
+last_updated: "2010-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -2037,6 +2037,8 @@ Sin perjuicio de lo dispuesto en el artículo anterior, los municipios podrán c
 
 ### CAPÍTULO II. DENUNCIA POPULAR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 182.
 
 Las disposiciones de este título se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas y de comisión de delitos y sus sanciones y procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal regulados por esta Ley, salvo que otras leyes regulen en forma específica dichas cuestiones, en relación con las materias de este ordenamiento.
@@ -2051,7 +2053,7 @@ Quienes resulten responsables de la contaminación de un sitio, así como de da�
 
 ###### ARTÍCULO 184.
 
-Cualquier persona podrá denunciar ante la Secretaría o ante la autoridad municipal que corresponde, todo hecho, acto u omisión que cause o pueda causar desequilibrio ecológico o daños al ambiente o a los recursos naturales.
+Los diferentes grupos sociales, asociaciones y sociedades civiles y en general cualquier persona, podrán denunciar ante la Secretaría o ante la autoridad municipal que corresponda, todo hecho, acto u omisión que cause o pueda causar desequilibrio ecológico o daños al ambiente o a los recursos naturales.
 
 La denuncia popular, por consiguiente, es el instrumento jurídico que tiene la ciudadanía, para evitar que se contravengan las disposiciones de la presente Ley y las de los demás ordenamientos que regulen materias relacionadas con la protección al ambiente y preservación y restauración del equilibrio ecológico.
 
@@ -2083,7 +2085,9 @@ Una vez registrada la denuncia, la Secretaría ordenará en el mismo acuerdo lo 
 
 Si la denuncia presentada fuera de la competencia de otra autoridad, la Secretaría no admitirá la instancia y la turnará a la autoridad competente para su trámite y resolución, notificándole de tal hecho al denunciante.
 
-Cuando la denuncia se presentare ante la autoridad municipal y sea materia de competencia estatal, de inmediato la autoridad municipal lo hará del conocimiento de la Secretaría, pero antes adoptará las medidas necesarias si los hechos denunciados son de tal gravedad que pongan en riesgo la integridad física de la población.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
+
+Cuando la denuncia se presentare ante la autoridad municipal y sea materia de competencia estatal, de inmediato la autoridad municipal lo hará del conocimiento de la Secretaría, pero antes adoptará las medidas necesarias si los hechos denunciados son de tal gravedad que pongan en riesgo la integridad física de la población o generen un daño al ecosistema de que se trate.
 
 ###### ARTÍCULO 187.
 
@@ -2129,9 +2133,11 @@ VI.- Por desistimiento del denunciante.
 
 Las autoridades y servidores públicos involucrados en asuntos de la competencia de la Secretaría, que por razón de sus funciones o actividades puedan proporcionar información pertinente, deberán atender las peticiones que la Secretaría les formule en tal sentido.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 194.
 
-La Secretaría convocará de manera permanente al público en general a denunciar hechos, actos u omisiones que produzcan o puedan producir desequilibrio ecológico o daños al ambiente; para ello difundirá ampliamente su domicilio y número o números telefónicos destinados a recibir las denuncias.
+La Secretaría convocará de manera permanente al público en general a denunciar hechos, actos u omisiones que produzcan o puedan producir desequilibrio ecológico o daños al ambiente; para ello se auxiliará de la prensa escrita, radio, televisión y medios electrónicos a través de los cuales difundirá ampliamente su domicilio, número o números telefónicos y dirección o direcciones electrónicas destinadas a recibir las denuncias.
 
 ###### ARTÍCULO 195.
 
@@ -2271,7 +2277,9 @@ Cuando los ordenamientos a que se refiere el párrafo anterior no incluyan medid
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ellos emanen, constituyen infracción y, previa garantía de audiencia, serán sancionadas administrativamente por la Secretaría y por las autoridades de los municipios en sus respectivos ámbitos de su competencia, con una o más de las siguientes sanciones:
 
-I.- Multa por el equivalente de veinte a veinte mil días de salario mínimo general vigente en la ciudad de Chihuahua, Chihuahua, en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
+
+I.- Multa por el equivalente de cincuenta a veinte mil días de salario mínimo general vigente en la Entidad, en el momento de imponer la sanción;
 
 II.- Clausura temporal o definitiva, total o parcial, cuando:
 
@@ -2279,7 +2287,9 @@ A).- El infractor no hubiere cumplido en los plazos y condiciones impuestas por 
 
 B).- En casos de reincidencia, cuando las infracciones generen efectos negativos al ambiente;
 
-C).- Se trate de desobediencia reiterada, en tres o más ocasiones, al cumplimiento de alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad;
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
+
+C).- Se trate de desobediencia reiterada, en dos o más ocasiones, al cumplimiento de alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad;
 
 D).- Por no contar con autorizaciones de impacto ambiental y/o licencia de funcionamiento.
 
@@ -2288,6 +2298,10 @@ III.- Arresto administrativo hasta por treinta y seis horas. Tratándose de pers
 En las clausuras temporales, la autoridad debe especificar el periodo en que las mismas deben surtir sus efectos.
 
 Si una vez vencido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, resultare que dicha infracción o infracciones aún subsisten, podrá imponerse multa por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda del máximo establecido en la fracción I de este artículo.
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2010)</small>
+
+IV.- Trabajo a favor de la comunidad, el cual será determinado en tiempo y forma por la autoridad, atendiendo a las circunstancias particulares de la infracción.
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto, sin exceder del doble del máximo establecido, así como la clausura definitiva. Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
 
@@ -2332,6 +2346,10 @@ La Secretaría podrá promover ante las autoridades federales competentes, con b
 ###### ARTÍCULO 218.
 
 El infractor, además de las sanciones que se establecen en el presente Capítulo, estará obligado a restaurar en lo posible, las condiciones originales de los ecosistemas, zonas o bienes que resultaren afectados con motivo de la violación de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2010)</small>
+
+ARTÍCULO 218 bis.- En los casos que la autoridad estime conducente y necesario, con la finalidad de crear conciencia ambiental, determinará la obligación al infractor, ya sea persona física o moral, de adoptar o en su caso participar en las campañas de tipo ecológico que la Secretaría diseñe y opere al momento de cometerse la infracción.
 
 ### CAPÍTULO VIII. DELITOS DEL ORDEN COMÚN
 
@@ -2393,43 +2411,71 @@ Dicha resolución se notificará al interesado, personalmente o por correo certi
 
 Para proceder penalmente por los delitos previstos en este Capítulo, será necesario que previamente la Secretaría formule la denuncia correspondiente, salvo que se trate de casos de flagrante delito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 226.
 
-Se impondrá pena de tres meses a seis años de prisión y multa por el equivalente de cien a diez mil días de salario, al que, sin contar con las autorizaciones respectivas a que se refiere esta Ley, realice, autorice u ordene la realización de actividades que conforme a este mismo ordenamiento se consideren como riesgosas, que no sean competencia de la Federación, y que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas.
+Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil días de salario, al que, sin contar con las autorizaciones respectivas a que se refiere esta Ley, realice, autorice u ordene la realización de actividades que conforme a este mismo ordenamiento se consideren como riesgosas, que no sean competencia de la Federación, y que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas.
 
 Cuando las actividades consideradas como riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, se podrá elevar la pena hasta tres años más de prisión y la multa hasta veinte mil días de salario mínimo vigente en la Entidad.
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 227.
 
-Se impondrá pena de un mes a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario, al que con violación a lo dispuesto en las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas en materia ambiental aplicables, despida o descargue en la atmósfera, ordene o autorice despedir o descargar gases, humos, polvos, vapores u olores que ocasionen o puedan ocasionar daños graves a la salud pública, la flora, la fauna o los ecosistemas.
+Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil días de salario, al que con violación a lo dispuesto en las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas en materia ambiental aplicables, despida o descargue en la atmósfera, ordene o autorice despedir o descargar gases, humos, polvos, vapores u olores que ocasionen o puedan ocasionar daños graves a la salud pública, la flora, la fauna o los ecosistemas. Lo anterior, sin perjuicio de las multas y sanciones que ocurran en las citadas disposiciones y normas.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 228.
 
-Se impondrá pena de tres meses a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario, al que sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias y normas técnicas ecológicas aplicables descargue, deposite o infiltre o lo autorice u ordene, aguas residuales, desechos o contaminantes en los suelos, ríos, cuencas, vasos o demás depósitos o corrientes de agua de jurisdicción local que ocasionen o puedan ocasionar graves daños a los ecosistemas, o la salud pública, la flora o a la fauna.
+Se impondrá pena de seis meses a diez años de prisión y multa por el equivalente de quinientos a diez mil días de salario, al que sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias y normas técnicas ecológicas aplicables descargue, deposite o infiltre o lo autorice u ordene, aguas residuales, desechos o contaminantes en los suelos, ríos, cuencas, vasos o demás depósitos o corrientes de agua de jurisdicción local que ocasionen o puedan ocasionar graves daños a los ecosistemas, o la salud pública, la flora o a la fauna. Cuando se trate de aguas para ser entregadas en bloque a centros de población, la pena se podrá elevar hasta tres años más.
 
-Cuando se trate de aguas para ser entregadas en bloque a centros de población, la pena se podrá elevar hasta tres años más.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 229.
 
-Se impondrá pena de un mes a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario, a quien en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las Normas Oficiales Mexicanas en materia ambiental, genere emisiones de ruido, vibraciones, energía térmica o lumínica, en zonas de jurisdicción local, que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas.
+Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a diez mil días de salario, a quien en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las Normas Oficiales Mexicanas en materia ambiental, genere emisiones de ruido, vibraciones, energía térmica o lumínica, en zonas de jurisdicción local, que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas.
 
 ###### ARTÍCULO 230.
 
 Las multas a que se refiere este Capítulo se determinarán atendiendo al salario diario mínimo general vigente en el lugar donde se consumó el delito. En caso de delito continuado, se atenderá al salario mínimo vigente en el momento consumativo de la última conducta. Para el permanente, se considerará el salario mínimo vigente en el momento en que cesó la consumación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 231.
 
-Se impondrá pena de un mes a cuatro años de prisión y multa por el equivalente de cien a tres mil días de salario mínimo vigente, a quien:
+Se impondrá pena de seis meses a seis años de prisión y multa por el equivalente de doscientos a tres mil días de salario mínimo vigente, a quien:
 
-I.- Asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental Estatal.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
+
+I.- Omita asentar datos necesarios o asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado con el propósito de simular o evadir el cumplimiento de las obligaciones derivadas de la normatividad ambiental Estatal.
 
 II.- Destruya, altere u oculte información, registros, reportes o cualquier otro documento que se requiera mantener o archivar de conformidad a la normatividad ambiental Estatal.
 
-III.- Prestando sus servicios como auditor técnico, especialista, perito o prestadores de servicio en materia de impacto ambiental, emisiones a la atmósfera u otra materia ambiental, faltare a la verdad provocando que se cause un daño a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua o al ambiente; o
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
 
-IV.- No realice o cumpla las medidas técnicas, correctivas o de seguridad necesaria para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga.
+III.- Prestando sus servicios como auditor técnico, especialista, perito o prestadores de servicio en materia de impacto ambiental, emisiones a la atmósfera u otra materia ambiental, faltare a la verdad provocando que se cause un daño a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua, a la atmósfera o al ambiente;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2010)</small>
+
+IV.- No realice o cumpla las medidas técnicas, correctivas o de seguridad necesaria para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga, o
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2010)</small>
+
+V.- De forma ilícita corte, arranque, derribe, tale, desmonte o destruya:
+
+a. Árboles o palmeras que formen parte del paisaje urbano, o
+
+b. Vegetación natural que se encuentre en áreas verdes, parques públicos o que forme parte de la ornamentación de las zonas urbanas.
 
 Los delitos previstos en el presente Capítulo se perseguirán por querella de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2010)</small>
+
+###### ARTÍCULO 232.
+
+Para los casos en que el autor o partícipe de un delito de los señalados en el presente capítulo, sea un servidor público, procede la inhabilitación del mismo para el ejercicio de cualquier cargo público hasta por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, comenzando a correr el mismo a partir de que se tenga por cumplida la sentencia que se le haya impuesto.
 
 TRANSITORIOS:
 
@@ -2471,6 +2517,10 @@ Se derogan todas aquellas disposiciones legales en el Estado de Chihuahua que se
 
 Los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubieren iniciado bajo la vigencia de la que se abroga, se tramitarán y resolverán conforme a las disposiciones de dicha Ley.
 
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -2510,6 +2560,8 @@ CUARTO.- Todos los procedimientos, recursos administrativos y demás asuntos rel
 QUINTO.- Los municipios deberán adecuar sus reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con la competencia que le corresponda para que sea congruente con la presente Ley.
 
 SEXTO.- Los propietarios, administradores o responsables contarán con 90 días para realizar las modificaciones o adecuaciones necesarias para contar con zonas exclusivas para fumar, después de entrar en vigor la presente Ley.
+
+P.O. 13 DE ENERO DE 2010.
 
 ###### ARTÍCULO QUINTO.
 
