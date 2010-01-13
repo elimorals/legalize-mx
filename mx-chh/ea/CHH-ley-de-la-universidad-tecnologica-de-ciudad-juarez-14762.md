@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-universidad-tecnologica-de-ciudad-juarez-14762"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-12"
-last_updated: "1999-06-12"
+last_updated: "2010-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE LA UNIVERSIDAD TECNOLOGICA DE CIUDAD JUAREZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 12 de junio de 1999.
 
@@ -51,7 +51,9 @@ Artículo 1° Se crea la Universidad Tecnológica de Ciudad Juárez, como Organi
 
 Artículo 2° La Universidad Tecnológica de Ciudad Juárez se adhiere al Sistema Nacional de Universidades Tecnológicas, y por tanto, adopta como modelo pedagógico el establecido para ellas.
 
-Artículo 3° La Universidad Tecnológica de Ciudad Juárez, tendrá por objeto principal impartir Educación Técnica Superior, para formar profesionistas a los que se les denominará Técnico Superior Universitario; con aptitudes y conocimientos científicos y tecnológicos que coadyuven en la solución creativa de problemas, con un sentido de innovación y la aplicación de avances científicos y tecnológicos.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
+
+Artículo 3° La Universidad Tecnológica de Ciudad Juárez, tendrá por objeto principal impartir Educación Técnica Superior, para formar profesionistas a los que se les denominará Técnico Superior Universitario, así como Profesional Asociado, en programas de continuidad de estudios para sus egresados y para los de otras instituciones de educación superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura, con aptitudes y conocimientos científicos y tecnológicos que coadyuven en la solución creativa de problemas, con un sentido de innovación y la aplicación de avances científicos y tecnológicos.
 
 Artículo 4° Para el cumplimiento de su objeto la Universidad Tecnológica de Ciudad Juárez tendrá las siguientes atribuciones:
 
@@ -304,3 +306,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diez días del mes de junio de mil novecientos noventa y nueve.
 
 C.P. PATRICIO MARTINEZ GARCIA. El Secretario General de Gobierno. LIC. VICTOR E. ANCHONDO PAREDES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE ENERO DE 2010.
+
+PRIMERO.- Se declara la validez de los estudios que en su caso hayan impartido las Universidades Tecnológicas de Ciudad Juárez y de Chihuahua, respectivamente, con motivo de la celebración de los Convenios suscritos en cada caso en fecha 04 de mayo de 2009, para los efectos de ampliar su oferta educativa a Profesional Asociado de otras Instituciones de Educación Superior, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura, así como programas de continuidad de estudios conducentes.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
