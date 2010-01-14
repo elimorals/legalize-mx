@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2008-del-pleno-del-consejo-de-la-62651"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-09-05"
-last_updated: "2009-06-17"
+last_updated: "2010-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62651&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-08-27"
 
 ACUERDO GENERAL 21/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DOTA DE COMPETENCIA A LOS JUZGADOS DE DISTRITO QUE SE PRECISAN PARA CONOCER DE DELITOS COMETIDOS EN LUGAR DISTINTO AL DE SU JURISDICCION, POR RAZONES DE SEGURIDAD EN LAS PRISIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 2010.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 5 de septiembre de 2008.
 
@@ -62,6 +62,10 @@ SEGUNDO.- Cuando el Ministerio Público Federal considere necesario llevar el ej
 TERCERO.- El juez de Distrito que reciba una consignación, con o sin detenido, en la que se ejercite la acción penal por delito o delitos cometidos fuera de su jurisdicción, y se actualice la excepción competencial mencionada en el párrafo que antecede, es el competente para conocer y resolver el asunto, con independencia, en su caso, del centro federal de readaptación social de máxima seguridad donde se encuentre recluido el detenido.
 
 Bajo ningún supuesto podrá declinar su competencia el juez de Distrito ante quien se lleve el ejercicio de la acción penal, cuando se actualice la excepción competencial invocada, sea cual fuere la etapa del procedimiento penal en que se encuentre el asunto.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 2/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ENERO DE 2010)</small>
+
+Cuando el representante social estime que han desaparecido las razones que lo llevaron a consignar a un reo ante un juez cuya sede se encuentre en una cárcel de máxima seguridad, bastará su manifestación en ese sentido para que produzca los efectos legales conducentes, sin que sea necesario exigir la demostración de tal aseveración.
 
 CUARTO.- En los procesos penales federales, cuando por las razones precisadas en el punto segundo de este acuerdo, la autoridad judicial, de oficio o a petición de parte, estime necesario trasladar a un procesado a algún centro federal de readaptación social de máxima seguridad, por escrito expresará los motivos por los que considera actualizada la excepción competencial prevista en el párrafo tercero del artículo 10 del Código Federal de Procedimientos Penales y declinará el conocimiento del asunto al juzgado de Distrito del lugar en que se ubica el centro para que se avoque a su conocimiento.
 
@@ -112,3 +116,11 @@ SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, par
 TERCERO.- Las cuestiones de competencia, suscitadas entre juzgados de Distrito que se estén tramitando en los tribunales colegiados de Circuito en los que se trate de determinar a cuál órgano corresponde el conocimiento de una causa relacionada con lo previsto en la fracción XXXII del punto CUARTO del acuerdo general 57/2006 del Pleno del Consejo de la Judicatura Federal, se resolverán en los términos de este acuerdo.
 
 CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 21/2008, del Pleno del Consejo de la Judicatura Federal, por el que se dota de competencia a los Juzgados de Distrito que se precisan para conocer de delitos cometidos en lugar distinto al de su Jurisdicción, por razones de seguridad en las prisiones.
+
+D.O.F. 14 DE ENERO DE 2010.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la pagina de Internet del Consejo de la Judicatura Federal.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 21/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Dota de Competencia a los Juzgados de Distrito que se Precisan para Conocer de Delitos Cometidos en Lugar Distinto al de su Jurisdicción, por Razones de Seguridad en las Prisiones.
