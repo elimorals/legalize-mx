@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-alcoholes-para-el-municipio-de-ensenada-baja-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2003-01-10"
+last_updated: "2010-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -91,7 +91,7 @@ I. Ley.- La Ley para la Venta, Almacenaje y Consumo Público de Bebidas Alcohól
 
 II. Reglamento.- El presente ordenamiento.
 
-III. Bebidas Alcohólicas.- Son aquellos líquidos potables que contienen alcohol etílico en una proporción mayor de 2% y hasta 55% en volumen a 15 grados centígrados. Los contenidos alcohólicos se entenderán a la escala Gay Lussac;
+III. Bebidas Alcohólicas.- Son aquellos líquidos potables que contienen alcohol etílico en una proporción mayor de 2% y hasta 55% en volumen a 15 grados centígrados. Los contenidos alcohólicos se entenderán a la escala Gay Lussac.
 
 IV. Establecimientos.- Son todos aquellos lugares donde se venden o consumen bebidas alcohólicas al público en envase cerrado, abierto o al copeo, ya sea como actividad principal, ya sea como actividad accesoria o complementaria de otros servicios.
 
@@ -193,7 +193,7 @@ V.- Las demás facultades que le confiere éste ordenamiento y otras leyes.
 
 Son atribuciones del Presidente Municipal:
 
-I.- Canalizar las solicitudes que se reciban para la expedición de permisos permanentes para la venta, almacenaje para su venta y venta para consumo de bebidas con graduación alcohólica al Ayuntamiento para el otorgamiento o negativa del mismo.
+I.- Canalizar las solicitudes que se reciban para la expedición de permisos permanentes para la venta, almacenaje para su venta, y venta para consumo de bebidas con graduación alcohólica al Ayuntamiento para el otorgamiento o negativa del mismo.
 
 II.- Rechazar el trámite de la solicitud de permiso cuando no se cumpla previamente con los requisitos que para tal efecto señala este reglamento.
 
@@ -728,6 +728,18 @@ Recibida la solicitud a que se refiere el artículo anterior, ésta deberá ser 
 ###### ARTÍCULO 46.
 
 Los permisos para eventos especiales, otorgados por el Presidente Municipal, contendrán los siguientes datos: Evento, Nombre de la persona a favor de quien se expide, lugar, días y horas de funcionamiento del establecimiento, giro autorizado, cédula de empadronamiento, firma del Presidente Municipal o el funcionario en quien delegue esa facultad y el sello correspondiente que lo identifique.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2010)</small>
+
+ARTÍCULO 46 BIS.- Para la realización de eventos o festejos públicos municipales, el Presidente Municipal podrá otorgar a órganos de la Administración Pública Municipal, mediante la celebración de convenios, un permiso temporal para la Venta de Bebidas con Graduación Alcohólica exclusivamente respecto de la zona destinada para la realización del festejo de que se trate y por el tiempo de su duración; con la facultad, según se prevenga en el convenio correspondiente, de que éstos las comercialicen mediante la emisión de los permisos individuales respectivos.
+
+La comercialización de los permisos individuales para la venta de bebidas con graduación alcohólica en la zona de festejos a que se refiere el párrafo anterior, se sujetará a los reglas generales dispuestas en el presente reglamento, salvo las previstas en las fracciones IV, IX, X, XII, XIII, XIV del artículo 23, y II, III, VII, VIII y XI del artículo 24, y para su otorgamiento, independientemente de los requisitos que, en su momento fije, el órgano encargado de la organización del festejo, los interesados deberán cubrir mínimamente los siguientes requisitos:
+
+a) Solo se otorgará un permiso por persona.
+
+b) No tener adeudos previos con la Administración Pública Municipal por el mismo concepto.
+
+c) Que los permisos se paguen anticipadamente.
 
 ###### ARTÍCULO 47.
 
@@ -1322,3 +1334,11 @@ Presidente Municipal
 Lic. Ma. Eloisa Talavera Hernandez
 
 Secretaria Fedataria
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE ENERO DE 2010.
+
+PRIMERO. La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales de carácter municipal que se opongan a la presente disposición.
