@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-comercio-para-el-municipio-de-ensenada-baja-38724
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-19"
-last_updated: "2005-01-21"
+last_updated: "2010-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE COMERCIO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de marzo de 2004.
 
@@ -298,6 +298,18 @@ h).- Cuando no se respete el lugar asignado por la autoridad municipal y se inva
 i).- Cuando ocupe además del lugar asignado espacios públicos con vehículos motorizados o enseres propios para ejercer el negocio, tratándose de la zona urbana;
 
 j).- Reincidir hasta en tres ocasiones, en la comisión de cualquiera de las conductas prohibitivas o incumplimiento de obligaciones a que se refiere este Reglamento (artículos 48, 49, 50 y 51) en un período de tiempo de seis meses a partir de la fecha en que ocurrió la primera infracción por la que fue sancionado.
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2010)</small>
+
+ARTÍCULO 29 BIS.- Para la realización de festejos públicos municipales, el Presidente Municipal podrá otorgar a órganos de la Administración Pública Municipal, mediante la celebración de convenios, un permiso temporal de comercio en la vía pública exclusivamente respecto de la zona destinada para la realización del festejo público de que se trate y por el tiempo de su duración; con la facultad, según se prevenga en el convenio correspondiente, de que éstos los comercialicen mediante la emisión de los permisos individuales respectivos.
+
+La comercialización de permisos individuales de comercio en la vía pública en la zona de festejos a que se refiere el párrafo anterior, no se sujetará a las reglas generales dispuestas en el presente reglamento, y para su otorgamiento, independientemente de los requisitos que, en su momento fije, el órgano encargado de la organización del festejo, los interesados deberán cubrir mínimamente los siguientes requisitos:
+
+a) Solo se otorgará un permiso por persona;
+
+b) No tener adeudos previos con la Administración Pública Municipal por el mismo concepto, y
+
+c) Que los permisos se paguen anticipadamente.
 
 ### CAPITULO III. DE LAS MERCANCÍAS
 
@@ -690,3 +702,9 @@ SECRETARIO FEDATARIO
 P.O. 21 DE ENERO DE 2005.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 15 DE ENERO DE 2010.
+
+PRIMERO. La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales de carácter municipal que se opongan a la presente disposición.
