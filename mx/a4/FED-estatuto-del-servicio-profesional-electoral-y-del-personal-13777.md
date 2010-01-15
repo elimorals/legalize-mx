@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-electoral-y-del-personal-1377
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-03-29"
-last_updated: "2008-10-20"
+last_updated: "2010-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13777&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-03-16"
 
 ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 15 DE ENERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en el Diario Oficial de la Federación el lunes 29 de marzo de 1999.
 
@@ -3582,3 +3584,77 @@ SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO
 ...
 
 Segundo. El presente Acuerdo surtirá efectos al momento de su aprobación.
+
+D.O.F. 15 DE ENERO DE 2010.
+
+PRIMERO.- Las disposiciones del presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Estatuto, se abroga el Estatuto del Servicio Profesional Electoral publicado en el Diario Oficial de la Federación el 29 de marzo de 1999, así como sus modificaciones publicadas el 15 de septiembre y el 20 de octubre de 2008 y se derogan todas las disposiciones que contravengan al presente Estatuto.
+
+TERCERO.- Se reconoce al personal del Instituto las prestaciones devengadas o generadas durante la vigencia de las normas anteriores a la entrada en vigor del presente Estatuto.
+
+CUARTO.- Se mantendrá en vigor toda normativa secundaria que no se oponga al presente Estatuto, hasta en tanto no se expidan o reformen las disposiciones que deriven del presente ordenamiento.
+
+QUINTO.- Los asuntos, recursos, procesos y procedimientos que se encuentren en desarrollo o trámite a la fecha de entrada en vigor del presente Estatuto, se concluirán conforme a las disposiciones vigentes al momento de su inicio.
+
+SEXTO.- Los Lineamientos en materia de autorización de actividades externas, deberán ser aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+SEPTIMO.- Los permisos por actividades externas que fueron otorgados antes de la entrada en vigor del presente Estatuto continuarán vigentes hasta su fecha de término, conforme a las disposiciones vigentes al momento de su otorgamiento.
+
+OCTAVO.- Los Lineamientos para integrar los rangos correspondientes a los Cuerpos de la Función Directiva y Técnica, deberán ser aprobados dentro de los ocho meses posteriores a la entrada en vigor del presente Estatuto.
+
+NOVENO.- Los Lineamientos para llevar a cabo la planeación del Servicio, deberán ser aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+DECIMO.- El requisito del título profesional previsto para el ingreso de cargos del cuerpo directivo no será exigido a quienes en el momento de la entrada en vigor de este Estatuto ocupen esos cargos.
+
+UNDECIMO.- Los Lineamientos para las readscripciones de los miembros del Servicio, deberán ser aprobados dentro de los cuatro meses posteriores a la entrada en vigor del presente Estatuto.
+
+DECIMO SEGUNDO.- El procedimiento para la ocupación temporal del cargo de Vocal Ejecutivo de Junta Local Ejecutiva y Vocal Ejecutivo de Junta Distrital Ejecutiva, deberá ser aprobado dentro de los seis meses posteriores a la entrada en vigor del presente Estatuto.
+
+DECIMO TERCERO.- El Procedimiento de Cursos y Prácticas para la Vía de Ingreso deberá ser aprobado dentro de los doce meses posteriores a la entrada en vigor del presente Estatuto.
+
+DECIMO CUARTO.- Los Lineamientos en materia del Programa de Formación y asesorías sobre el contenido de los módulos, deberán ser aprobados dentro de los seis meses posteriores a la entrada en vigor del presente Estatuto.
+
+DECIMO QUINTO.- El Programa de Formación será regulado por las disposiciones vigentes al momento del ingreso del personal de carrera a dicho programa.
+
+DECIMO SEXTO.- Los miembros del Servicio que se encuentren cursando y concluyan la fase básica del Programa de Formación podrán incorporarse al marco regulatorio de dicho programa previsto en el presente ordenamiento.
+
+DECIMO SEPTIMO.- Los Lineamientos en materia de disponibilidad, serán aprobados dentro de los nueve meses posteriores a la entrada en vigor del presente Estatuto.
+
+DECIMO OCTAVO.- Las disposiciones contenidas en el presente Estatuto en materia de evaluación del desempeño, se aplicarán a partir de la aprobación del sistema de evaluación del desempeño para el ejercicio 2010, por parte de la Junta, previo conocimiento de la Comisión.
+
+DECIMO NOVENO.- Los Lineamientos para evaluar el desempeño de los miembros del Servicio, serán aprobados dentro de los seis meses posteriores a la entrada en vigor del presente Estatuto.
+
+VIGESIMO.- Los Lineamientos en materia de inconformidades a la evaluación del desempeño, serán aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+VIGESIMO PRIMERO.- Las inconformidades por la evaluación del desempeño de los ejercicios 2008, 2009, así como la especial 2008-2009, se desahogarán conforme a las disposiciones vigentes al momento de la aplicación correspondiente.
+
+VIGESIMO SEGUNDO.- Los Lineamientos en materia de promoción en rango, serán aprobados dentro de los ocho meses posteriores a la entrada en vigor del presente Estatuto.
+
+VIGESIMO TERCERO.- Los Lineamientos para el otorgamiento de incentivos y el Comité Valorador de Méritos Administrativos, serán aprobados dentro de los cuatro meses posteriores a la entrada en vigor del presente Estatuto.
+
+VIGESIMO CUARTO.- El otorgamiento de los incentivos correspondiente al año 2009, se realizará conforme al Estatuto publicado en el Diario Oficial de la Federación del 15 de septiembre de 2008.
+
+VIGESIMO QUINTO.- Los miembros provisionales del Servicio que se encuentren cursando el Programa de Formación a la entrada en vigor del presente ordenamiento, obtendrán su titularidad conforme a las normas vigentes al momento de su ingreso al Servicio.
+
+VIGESIMO SEXTO.- La tramitación de los procedimientos disciplinarios y administrativos que se encuentren en curso legal a la entrada en vigor del presente Estatuto, se instruirán conforme a lo previsto en el presente ordenamiento y se resolverán acorde con las disposiciones vigentes al momento en que se cometió la infracción que motivó su inicio.
+
+VIGESIMO SEPTIMO.- Para efectos de lo previsto en el dispositivo anterior, la DESPE entrará en funciones como autoridad instructora y como autoridad conciliadora en los términos previstos en este Estatuto, dentro de los cuatro meses posteriores a la ministración de los recursos financieros asignados para ejercer dichas atribuciones.
+
+VIGESIMO OCTAVO.- El registro de criterios orientadores para la autoridad resolutora en el ámbito del procedimiento disciplinario, deberá estar conformado al momento en que se colme la hipótesis prevista en el artículo inmediato anterior.
+
+VIGESIMO NOVENO.- Los Lineamientos del procedimiento de conciliación, serán aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+TRIGESIMO.- El registro de criterios orientadores para la DEA, deberá ser conformado dentro de los seis meses posteriores a la entrada en vigor del presente Estatuto.
+
+TRIGESIMO PRIMERO.- Los recursos de revocación para impugnar las resoluciones emitidas por la Contraloría General en materia de responsabilidades administrativas que se encuentren en trámite a la entrada en vigor del presente Estatuto, serán sustanciados y resueltos conforme a las normas vigentes al momento de su interposición.
+
+TRIGESIMO SEGUNDO.- Los Lineamientos y Procedimientos para la ocupación de vacantes del personal administrativo, serán aprobados dentro de los seis meses posteriores a la entrada en vigor del presente Estatuto.
+
+TRIGESIMO TERCERO.- Los Lineamientos para la evaluación al desempeño del personal administrativo, serán aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+TRIGESIMO CUARTO.- Los Lineamientos de la promoción y ascenso del personal administrativo, serán aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+TRIGESIMO QUINTO.- El Sistema de incentivos al personal administrativo, será aprobado dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+TRIGESIMO SEXTO.- Los Lineamientos para la readscripción administrativa del personal administrativo, serán aprobados dentro de los seis meses posteriores a la entrada en vigor del presente Estatuto.
