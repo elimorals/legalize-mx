@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-para-la-tramitacion-de-denuncias-del-instituto-83364
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-10"
-last_updated: "2009-11-10"
+last_updated: "2010-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "PUE"
 
 REGLAMENTO PARA LA TRAMITACIÓN DE DENUNCIAS DEL INSTITUTO ELECTORAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2010.
 
 Reglamento aprobado por unanimidad de votos de los integrantes del Consejo General del Instituto Electoral del Estado, en sesión ordinaria de fecha martes 10 de noviembre de 2009.
 
@@ -118,7 +118,9 @@ XIV. Consejos: los Consejos Distritales y Municipales Electorales;
 
 XV. Denuncia: Acto por medio del cual se hace del conocimiento de los órganos del Instituto los actos, hechos u omisiones presuntamente violatorios del Código de Instituciones y Procesos Electorales del Estado de Puebla;
 
-XVI. Denunciado: Precandidato, partido político o coalición que se señala como probable responsable de los actos, hechos u omisiones motivo del procedimiento.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+XVI. Denunciado: Los sujetos infractores que se señalan como probables responsables de los actos, hechos u omisiones motivo del procedimiento.
 
 XVII. Denunciante: Ciudadano, precandidato, partido político o coalición que formula por escrito la denuncia;
 
@@ -152,9 +154,11 @@ Para efectos del presente Reglamento, el cómputo de los plazos se hará en tér
 
 La interpretación del presente Reglamento se hará conforme a los criterios gramatical, sistemático y funcional, observando lo dispuesto por el artículo 4 del Código.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 6.
 
-En los casos no previstos en el presente Reglamento, se aplicará de manera supletoria lo señalado en el Código.
+Los casos no previstos en el presente Reglamento, serán resueltos por la Comisión.
 
 ### CAPÍTULO SEGUNDO. DE LAS NOTIFICACIONES
 
@@ -182,9 +186,11 @@ c) Cuando la notificación personal no haya sido entregada al denunciado, y se h
 
 d) Las demás notificaciones que señale el presente Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 8.
 
-Las notificaciones personales se realizarán en el domicilio señalado por el interesado, levantándose para tal efecto la certificación correspondiente, la cual contendrá por lo menos:
+Las notificaciones personales se realizarán en el domicilio señalado por el interesado, levantándose para tal efecto la razón correspondiente, la cual contendrá por lo menos:
 
 I. La descripción del acto o documento que se notifica;
 
@@ -192,7 +198,7 @@ II. Lugar, hora y fecha en que se hace;
 
 III. Nombre de la persona con quien se entienda la diligencia; y
 
-IV. Nombre del notificador.
+IV. Nombre del personal que practique la notificación.
 
 Si no se encuentra al interesado en su domicilio se le dejará con cualquiera de las personas que allí se encuentren un citatorio que contendrá:
 
@@ -206,25 +212,35 @@ d) Día y hora en que se deja el citatorio y nombre de la persona a la que se le
 
 e) El señalamiento de la hora a la que, al día siguiente, deberá esperar la notificación.
 
-Al día siguiente, en la hora fijada en el citatorio, el notificador se constituirá nuevamente en el domicilio y si el interesado no se encuentra, la notificación se entenderá con la persona que se encuentre en el domicilio, asentándose dicha circunstancia en la razón correspondiente, además la notificación se publicará en estrados.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
+Al día siguiente, en la hora fijada en el citatorio, el personal que practique la notificación se constituirá nuevamente en el domicilio y si el interesado no se encuentra, la notificación se entenderá con la persona que se encuentre en el domicilio, asentándose dicha circunstancia en la razón correspondiente, además la notificación se publicará en estrados.
 
 Si a quien se busca se niega a recibir la notificación, o las personas que se encuentran en el domicilio se rehúsan a recibir el citatorio, o no se encuentra nadie en el lugar, éste se fijará en el acceso al domicilio donde se practique la notificación, procediéndose a realizar la notificación por estrados, asentándose razón de ello en autos.
 
 A efecto de cumplimentar lo señalado en el párrafo anterior, las cédulas de notificación personal deberán contener:
 
-a) La descripción del acto o resolución que se notifica
+a) La descripción del acto o resolución que se notifica;
 
 b) Lugar, hora y fecha en que se hace;
 
 c) Nombre de la persona con quien se entienda la diligencia, y
 
-d) Nombre y firma del notificador.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
+d) Nombre y firma del personal que practique la notificación.
 
 Cuando los promoventes omitan señalar domicilio, éste no resulte cierto o se encuentre ubicado fuera de la ciudad de Puebla todas las notificaciones se practicarán por estrados.
 
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2010)</small>
+
+Los casos no previstos relacionados con las notificaciones se aplicará de manera supletoria lo indicado por el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
+
+REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)
+
 ###### ARTÍCULO 9.
 
-Las resoluciones se notificarán a más tardar dentro de los 3 días hábiles siguientes a aquél en el que se dicten los acuerdos o resoluciones que las motiven y surtirán sus efectos el mismo día de su realización.
+Las resoluciones se notificarán a más tardar dentro de los tres días hábiles siguientes a aquél en el que se dicten los acuerdos o resoluciones que las motiven y surtirán sus efectos el mismo día de su realización.
 
 Se entenderá hecha la notificación a los interesados cuando el representante acreditado de su partido político y/o coalición asista a la sesión en la que el Consejo apruebe la resolución correspondiente.
 
@@ -238,7 +254,9 @@ El Consejo tendrá las atribuciones siguientes:
 
 I. Recibir las denuncias presentadas;
 
-II. Turnar a la Secretaría por conducto del Consejero Presidente, las denuncias presentadas;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+II. Remitir a la Comisión, por conducto del Consejero Presidente, las denuncias presentadas;
 
 III. Resolver sobre la improcedencia y sobreseimiento de las denuncias;
 
@@ -254,33 +272,51 @@ VIII. Aprobar reformas o modificaciones al presente Reglamento; y
 
 IX. Las demás que le confiera el presente Reglamento, el Código y disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 11.
 
 Son atribuciones de la Comisión:
 
-I. Conocer de las medidas cautelares analizadas, valoradas y determinadas por la Secretaría, solicitadas por el denunciante o las que determine conducentes;
+I. Recibir y sustanciar las denuncias presentadas;
 
-II. Conocer sobre la investigación de los hechos denunciados que realice la Secretaría;
+II. Acordar la admisión o improcedencia de las denuncias presentadas;
 
-III. Aprobar la ampliación del plazo para la etapa de investigación;
+III. Requerir al denunciante cuando omita alguno de los requisitos para la presentación de la denuncia señalados en el Reglamento;
 
-IV. Conocer y aprobar el dictamen correspondiente derivado de las denuncias presentadas;
+IV. Conocer de las medidas cautelares analizadas, valoradas y determinadas por la Secretaría, solicitadas por el denunciante o las que determine conducentes;
 
-V. Proponer al Consejo reformas o modificaciones al presente Reglamento;
+V. Conocer sobre la investigación de los hechos denunciados que realice la Secretaría;
 
-VI. Vigilar en el ámbito de su competencia el cumplimiento del presente Reglamento; y
+VI. Aprobar la ampliación del plazo para la etapa de investigación;
 
-VII. Las demás que le confiera el presente Reglamento, el Consejo y las demás disposiciones aplicables.
+VII. Conocer y aprobar el dictamen correspondiente derivado de las denuncias presentadas;
+
+VIII. Interpretar el presente Reglamento y resolver los casos no previstos en él y, en su caso, someter a aprobación del Consejo los criterios que considere pertinentes;
+
+IX. Acordar las medidas conducentes para garantizar el adecuado desarrollo del procedimiento y normar cada una de sus etapas en caso de que existan violaciones al mismo;
+
+X. Proponer al Consejo reformas o modificaciones al presente Reglamento;
+
+XI. Vigilar en el ámbito de su competencia el cumplimiento del presente Reglamento; y
+
+XII. Las demás que le confiera el presente Reglamento, el Consejo y las demás disposiciones aplicables.
 
 ###### ARTÍCULO 12.
 
 Son atribuciones de la Secretaría:
 
-I. Coadyuvar con el Consejo en la recepción y substanciación de las denuncias presentadas;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
-II. Analizar y acordar la admisión o improcedencia de las denuncias presentadas;
+I. Coadyuvar con la Comisión en la recepción y substanciación de las denuncias presentadas;
 
-III. Informar a la Comisión la recepción de denuncias;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+II. Coadyuvar con la Comisión en el análisis de la admisión o improcedencia de las denuncias presentadas;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+III. Coadyuvar con la Comisión en requerir al denunciante cuando omita alguno de los requisitos para la presentación de la denuncia señalados en el Reglamento;
 
 IV. Emplazar una vez acordada la admisión de la denuncia al denunciado;
 
@@ -288,7 +324,9 @@ V. Analizar, valorar y determinar las medidas cautelares solicitadas por el denu
 
 VI. Investigar los hechos denunciados previo conocimiento de la Comisión;
 
-VII. Elaborar el proyecto de resolución del Consejo, en caso de acordarse la improcedencia de la denuncia;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+VII. Coadyuvar con la Comisión en la elaboración del proyecto de resolución del Consejo, en caso de acordarse la improcedencia de la denuncia;
 
 VIII. Requerir a solicitud de las partes y de la Comisión las pruebas necesarias y conducentes para la correcta integración del expediente;
 
@@ -342,7 +380,9 @@ IV. El denunciante presente escrito de desistimiento, el cual deberá ser presen
 
 El estudio de las causas de improcedencia o sobreseimiento de la denuncia se realizará de oficio.
 
-Si se advierte que se actualiza una de ellas, la Secretaría presentará al Consejo, por conducto del Consejero Presidente, el proyecto de resolución por el que se le proponga el desechamiento o sobreseimiento, según corresponda, en un término no mayor a 5 días contados a partir de la fecha en que la Secretaría dicto el acuerdo correspondiente.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
+Si se advierte que se actualiza una de ellas, la Comisión solicitará a la Secretaría elabore el proyecto de resolución por el que se le proponga el desechamiento o sobreseimiento, según corresponda, y lo presentará al Consejo, por conducto del Consejero Presidente, en un término no mayor a cinco días contados a partir de la fecha en que la Comisión solicitó a la Secretaría la elaboración del proyecto.
 
 ### CAPÍTULO QUINTO. DE LA ACUMULACIÓN
 
@@ -372,7 +412,7 @@ Las pruebas deberán ser ofrecidas al presentarse la denuncia; en caso contrario
 
 ###### ARTÍCULO 20.
 
-Las pruebas que podrán presentarse serán las siguientes
+Las pruebas que podrán presentarse serán las siguientes:
 
 I. Documentales Públicas:
 
@@ -438,7 +478,9 @@ II. Los surgidos antes de que fenezca el mencionado plazo, pero que el oferente 
 
 El denunciado podrá aportar pruebas supervenientes hasta la fecha en la que se desahoguen los alegatos.
 
-Una vez admitida una prueba superveniente se dará vista al denunciado para que en el plazo de 2 días manifieste lo que a su derecho convenga.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
+Una vez admitida una prueba superveniente se dará vista al denunciado para que en el plazo de dos días manifieste lo que a su derecho convenga.
 
 ### CAPÍTULO SÉPTIMO. DE LAS MEDIDAS CAUTELARES
 
@@ -448,25 +490,31 @@ Serán medidas cautelares las que determine la Secretaría y que proponga a la C
 
 Las medidas cautelares podrán ser aplicadas en la instauración de los procedimientos previstos en el presente Reglamento.
 
-La aplicación de las medidas cautelares a que se refiere el presente Reglamento se tendrá que cumplir con los siguientes requisitos:
+Para la aplicación de las medidas cautelares a que se refiere el presente Reglamento, en todo momento se tendrá que cumplir con los siguientes requisitos:
 
 I. La Secretaría analizará el escrito de denuncia para determinar si estima procedente la aplicación de medidas cautelares solicitadas por el denunciante;
 
-II. Para tal efecto, la Secretaría en el acuerdo donde determine la admisión de la denuncia, informará a la Comisión de las medidas cautelares acordadas y en donde formule la valoración correspondiente;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
-III. La Comisión tendrá conocimiento de la adopción de las medidas cautelares acordadas por la Secretaría cuando las estime necesarias y procedentes en relación con la gravedad de los hechos denunciados; y
+II. La Secretaría presentará el análisis de la procedencia de las medidas cautelares a la Comisión dentro del término previsto para decidir sobre la admisión o improcedencia de la denuncia; y
 
-IV. La Comisión resolverá en un plazo de 24 horas lo conducente, a fin de lograr la cesación de los actos o hechos que ocasionen daños irreparables, que afecten los principios rectores o vulneren los bienes jurídicos tutelados por las disposiciones contenidas en el Código.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+III. La Comisión resolverá en un plazo de veinticuatro horas lo conducente, a fin de lograr la cesación de los actos o hechos que ocasionen daños irreparables, que afecten los principios rectores o vulneren los bienes jurídicos tutelados por las disposiciones contenidas en el Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 29.
 
-La Secretaría deberá fundar y motivar las medidas cautelares que adopte con base en lo siguiente:
+La Secretaría deberá fundar y motivar las medidas cautelares con base en lo siguiente:
 
 I. La suspensión inmediata del o los actos presuntamente violatorios; y
 
 II. Ordenar el retiro de propaganda contraria a la ley.
 
-En el acuerdo mediante el cual se ordenan las medidas cautelares, se podrá establecer que el denunciado retire la propaganda en un plazo no mayor de 24 horas.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
+En el acuerdo mediante el cual se ordenan las medidas cautelares, se podrá establecer que el denunciado retire la propaganda en un plazo no mayor de veinticuatro horas.
 
 En los casos en que se haya ordenado el retiro de propaganda en lugares prohibidos, los responsables deberán observar las reglas de protección al medio ambiente.
 
@@ -504,15 +552,25 @@ III. Los documentos que sean necesarios para acreditar la personería del denunc
 
 IV. Nombre y domicilio del denunciado;
 
-V. La relación clara y sucinta de los hechos en que se motive la denuncia, así como los preceptos presuntamente violados; y
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
-VI. El denunciante deberá ofrecer o aportar las pruebas tendientes a demostrar la veracidad de su dicho o, en su caso, mencionar las que habrán de requerirse, cuando el denunciante acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas. El denunciante deberá relacionar las pruebas con cada uno de los hechos.
+V. La relación clara y sucinta de los hechos en que se motive la denuncia, así como los preceptos presuntamente violados;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+VI. El denunciante deberá ofrecer o aportar las pruebas tendientes a demostrar la veracidad de su dicho o, en su caso, mencionar las que habrán de requerirse, cuando el denunciante acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas. El denunciante deberá relacionar las pruebas con cada uno de los hechos; y
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2010)</small>
+
+VII. Presentar las copias legibles necesarias para correr traslado al o los denunciados, tanto del escrito de denuncia como de las pruebas que acompañe al mismo.
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL EXPEDIENTE
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 34.
 
-Una vez recibida la denuncia, el Consejo la turnará, por conducto del Consejero Presidente, a la Secretaría para el trámite correspondiente al día siguiente de la presentación de la misma.
+Una vez recibida la denuncia, el Consejo la remitirá, por conducto del Consejero Presidente, a la Comisión para el trámite correspondiente al día siguiente de la presentación de la misma.
 
 ###### ARTÍCULO 35.
 
@@ -522,37 +580,51 @@ Los Consejos que reciban una denuncia, deberán remitirla al día siguiente de s
 
 Recibida la denuncia, la Secretaría procederá a:
 
-I. Su registro, debiendo informar de su presentación a la Comisión;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
-II. Su revisión para determinar si debe prevenir al denunciante en términos de lo señalado en el presente artículo;
+I. Coadyuvar con la Comisión para su registro;
 
-III. Su análisis para acordar la admisión o plantear el desechamiento de la misma;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+II. Coadyuvar con la Comisión para su revisión a efecto de determinar si se debe prevenir al denunciante en términos de lo señalado en el presente artículo;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+III. Coadyuvar con la Comisión en el análisis para su admisión o improcedencia;
 
 IV. Realizar las diligencias solicitadas por el denunciante y las que considere necesarias aplicando los principios de idoneidad, proporcionalidad y exhaustividad, para la debida integración del expediente; y las que le instruya la Comisión cuando se consideren necesarias por ésta; y
 
 V. Acordar las medidas precautorias solicitadas por el denunciante o en su caso las que considere necesarias para la debida preservación de los indicios materia de la denuncia.
 
-Cuando el denunciante omita alguno de los requisitos señalados en el artículo 33 del presente Reglamento, la Secretaría le requerirá la solventación de dichas omisiones con el apercibimiento de que si no cumple en el término de 3 días contados a partir de la notificación del requerimiento respectivo, la denuncia se desechará de plano.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
+Cuando el denunciante omita alguno de los requisitos señalados en el artículo 33 del presente Reglamento, se requerirá la solventación de dichas omisiones con el apercibimiento de que si no cumple en el término de tres días contados a partir de la notificación del requerimiento respectivo, la denuncia se desechará de plano.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 37.
 
-La Secretaría contará con un plazo de 3 días para emitir el acuerdo de admisión contados a partir del día en que la denuncia cumpla con los requisitos señalados en el presente Reglamento.
+La Comisión contará con un plazo de tres días para emitir el acuerdo de admisión contados a partir del día en que la denuncia cumpla con los requisitos señalados en el presente Reglamento.
 
-En caso de que se aperciba al denunciante y este subsane alguno de los requisitos señalados en el artículo 33 del presente Reglamento; dicho plazo empezará a correr a partir de la contestación al requerimiento.
+En caso de que se aperciba al denunciante y este subsane alguno de los requisitos señalados en el artículo 33 del presente Reglamento; el plazo para resolver sobre la admisión empezará a correr a partir del vencimiento del término para solventar el requerimiento.
 
-De igual forma, contará con un plazo de 3 días para emitir el acuerdo de desechamiento contados a partir de la fecha en la que termine el plazo otorgado y no subsane alguno de de (sic) los requisitos señalados en el artículo 33 del presente Reglamento.
+De igual forma, contará con un plazo de tres días para emitir el acuerdo de desechamiento contados a partir de la fecha en la que termine el plazo otorgado y no subsane alguno de los requisitos señalados en el artículo 33 del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 38.
 
-Una vez acordada la procedencia de la denuncia, la Secretaría dentro de los 3 días siguientes emplazará al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
+Una vez acordada la procedencia de la denuncia, la Secretaría dentro de los tres días siguientes emplazará al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
 
 ###### ARTÍCULO 39.
 
 En caso de que el denunciante señale erróneamente las disposiciones legales presuntamente violadas o las omita, la denuncia será resuelta con fundamento en aquellas que le sean aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 40.
 
-El denunciado, una vez recibida la notificación a que se refiere el artículo 38 de este Reglamento, contará con un término de 3 días para que manifieste por escrito lo que a su derecho e intereses convenga, aportando las pruebas que considere necesarias.
+El denunciado, una vez recibida la notificación a que se refiere el artículo 38 de este Reglamento, contará con un término de tres días para que manifieste por escrito lo que a su derecho e intereses convenga, aportando las pruebas que considere necesarias.
 
 El escrito de contestación deberá cumplir con los siguientes requisitos:
 
@@ -576,7 +648,7 @@ La Secretaría hará del conocimiento de la Comisión lo indicado en el párrafo
 
 ###### ARTÍCULO 42.
 
-la investigación para el conocimiento cierto de los hechos se realizará de forma seria, congruente, eficaz, expedita, completa y exhaustiva, atendiendo los principios de Idoneidad, necesidad y proporcionalidad.
+La investigación para el conocimiento cierto de los hechos se realizará de forma seria, congruente, eficaz, expedita, completa y exhaustiva, atendiendo los principios de Idoneidad, necesidad y proporcionalidad.
 
 La etapa de investigación se realizará por la Secretaría efectuando las acciones tendientes al esclarecimiento de los hechos denunciados, comunicando previamente a la Comisión las medidas a adoptar y observando las determinaciones que al respecto dicte la misma.
 
@@ -586,11 +658,13 @@ Una vez que la Secretaría tenga conocimiento de los hechos denunciados podrá r
 
 ###### ARTÍCULO 44.
 
-la Secretaría se allegará de los elementos que estime pertinentes para realizar la investigación y análisis del asunto. Para tal efecto, solicitará mediante oficio a los Órganos del Instituto remitan la información requerida.
+La Secretaría se allegará de los elementos que estime pertinentes para realizar la investigación y análisis del asunto. Para tal efecto, solicitará mediante oficio a los Órganos del Instituto remitan la información requerida.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 45.
 
-El plazo para llevar a cabo la investigación no podrá exceder de 30 días, contados a partir de la recepción de la contestación de la denuncia en la Secretaría.
+El plazo para llevar a cabo la investigación no podrá exceder de treinta días, contados a partir de la recepción de la contestación de la denuncia en la Secretaría.
 
 El plazo a que se hace referencia en el párrafo anterior podrá ser ampliado por una sola vez, por el periodo que determine necesario la Comisión, mediante acuerdo debidamente motivado que emita la Comisión.
 
@@ -604,17 +678,23 @@ Dichos requerimientos de información o de solicitud de diligencias, serán form
 
 Independientemente del inicio del procedimiento correspondiente en términos de los párrafos anteriores, en caso de no cumplimentarse los requerimientos se resolverá con los elementos que se cuenten en el expediente.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 47.
 
-Cerrada la investigación, la Secretaría pondrá a disposición de las partes el expediente integrado con la finalidad de que en un plazo de 2 días presenten sus alegatos por escrito, pasado este plazo, con o sin alegatos se elaborará el dictamen que corresponda.
+Cerrada la investigación, la Secretaría pondrá a disposición de las partes el expediente integrado con la finalidad de que en un plazo de dos días presenten sus alegatos por escrito, pasado este plazo, con o sin alegatos se elaborará el dictamen que corresponda.
 
 ### CAPÍTULO CUARTO. DEL DICTAMEN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 48.
 
-La Secretaría procederá a elaborar el proyecto de dictamen correspondiente dentro de los 5 días siguientes al vencimiento del plazo para la presentación de alegatos, sometiéndolo a consideración de la Comisión al día siguiente.
+La Secretaría procederá a elaborar el proyecto de dictamen correspondiente dentro de los cinco días siguientes al vencimiento del plazo para la presentación de alegatos, sometiéndolo a consideración de la Comisión al día siguiente.
 
-La Comisión deberá sesionar dentro de los 3 días siguientes, determinando:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+
+La Comisión deberá sesionar dentro de los tres días siguientes, determinando:
 
 I. Aprobar el proyecto en los términos en que se le presente;
 
@@ -628,13 +708,17 @@ Una vez aprobado el dictamen por la Comisión al siguiente día deberá remitirl
 
 ### CAPÍTULO QUINTO. DE LA RESOLUCIÓN
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 50.
 
-Una vez recibido el dictamen correspondiente de la Comisión, el Consejo elaborará la resolución respectiva, misma que se hará del conocimiento de los integrantes del Consejo por lo menos con 1 día de anticipación a la sesión en que se proponga su aprobación, atendiendo a las circunstancias del caso.
+Una vez recibido el dictamen correspondiente de la Comisión, el Consejo elaborará la resolución respectiva, misma que se hará del conocimiento de los integrantes del Consejo por lo menos con un día de anticipación a la sesión en que se proponga su aprobación, atendiendo a las circunstancias del caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 51.
 
-El Consejo dentro de los 5 días siguientes a la remisión del dictamen deberá de sesionar para determinar:
+El Consejo dentro de los cinco días siguientes a la remisión del dictamen deberá de sesionar para determinar:
 
 I. Aprobar el dictamen de la Comisión en los términos en que se le presente;
 
@@ -712,55 +796,81 @@ III. Los documentos que sean necesarios para acreditar la personería del denunc
 
 IV. Nombre y domicilio del denunciado;
 
-V. La relación clara y sucinta de los hechos en que se motive la denuncia, así como los preceptos presuntamente violados; y
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
-VI. El denunciante deberá ofrecer o aportar las pruebas tendientes a demostrar la veracidad de su dicho o, en su caso, mencionar las que habrán de requerirse, cuando el denunciante acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas. El denunciante deberá relacionar las pruebas con cada uno de los hechos.
+V. La relación clara y sucinta de los hechos en que se motive la denuncia, así como los preceptos presuntamente violados;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+VI. El denunciante deberá ofrecer o aportar las pruebas tendientes a demostrar la veracidad de su dicho o, en su caso, mencionar las que habrán de requerirse, cuando el denunciante acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas. El denunciante deberá relacionar las pruebas con cada uno de los hechos; y
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2010)</small>
+
+VII. Presentar las copias legibles necesarias para correr traslado al o los denunciados, tanto del escrito de denuncia como de las pruebas que acompañe al mismo.
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL EXPEDIENTE
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 59.
 
-Una vez recibida la denuncia, el Consejo la turnará, por conducto del Consejero Presidente, a la Secretaría para el trámite correspondiente inmediatamente.
+Una vez recibida la denuncia, el Consejo la remitirá, por conducto del Consejero Presidente, a la Comisión para el trámite correspondiente inmediatamente.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 60.
 
-Los Consejos que reciban una denuncia, deberán remitirla dentro de las 24 horas siguientes de su recepción al Consejo para su trámite.
+Los Consejos que reciban una denuncia, deberán remitirla dentro de las veinticuatro horas siguientes de su recepción al Consejo para su trámite.
 
 ###### ARTÍCULO 61.
 
 Recibida la denuncia, la Secretaría procederá a:
 
-I. Su registro, debiendo informar de su presentación a la Comisión;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
-II. Su revisión para determinar si debe prevenir al denunciante en términos de lo señalado en el presente artículo;
+I. Coadyuvar con la Comisión para su registro;
 
-III. Su análisis para acordar la admisión o plantear el desechamiento de la misma;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+II. Coadyuvar con la Comisión para su revisión a efecto de determinar si se debe prevenir al denunciante en términos de lo señalado en el presente artículo;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+III. Coadyuvar con la Comisión en el análisis para su admisión o improcedencia;
 
 IV. Realizar las diligencias de investigación solicitadas por el denunciante y las que considere necesarias aplicando los principios de idoneidad, proporcionalidad y exhaustividad, para la debida integración del expediente; y las que le instruya la Comisión cuando se consideren necesarias por ésta; y
 
 V. Acordar las medidas precautorias solicitadas por el denunciante o en su caso las que considere necesarias para la debida preservación de los indicios materia de la denuncia.
 
-Dentro de las 24 horas siguientes a la recepción de la denuncia la Secretaría requerirá al denunciante cuando omita alguno de los requisitos señalados en el artículo 58 del presente Reglamento, con el apercibimiento de que si no cumple en el término de 24 horas contadas a partir de la notificación del requerimiento respectivo, la denuncia se desechará de plano.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
+Dentro de las veinticuatro horas siguientes a la recepción de la denuncia, se requerirá al denunciante cuando omita alguno de los requisitos señalados en el artículo 58 del presente Reglamento, con el apercibimiento de que si no cumple en el término de veinticuatro horas contadas a partir de la notificación del requerimiento respectivo, la denuncia se desechará de plano.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 62.
 
-La Secretaría contará con un plazo de 48 horas para emitir el acuerdo de admisión contadas a partir del día en que la denuncia cumpla con los requisitos señalados en el presente Reglamento.
+La Comisión contará con un plazo de cuarenta y ocho horas para emitir el acuerdo de admisión contadas a partir del día en que la denuncia cumpla con los requisitos señalados en el presente Reglamento.
 
-En caso de que se aperciba al denunciante, subsane alguno de los requisitos señalados en el artículo 58 del presente Reglamento dicho plazo empezará a correr a partir de haber dado contestación a dicho requerimiento.
+En caso de que se aperciba al denunciante, subsane alguno de los requisitos señalados en el artículo 58 del presente Reglamento; el plazo para resolver sobre la admisión empezará a correr a partir del vencimiento del término para solventar el requerimiento.
 
-De igual forma, contará con un plazo de 48 horas para emitir el acuerdo de desechamiento contados a partir de la fecha en la que termine el plazo otorgado y no subsane alguno de los requisitos señalados en el artículo 58 del presente Reglamento.
+De igual forma, contará con un plazo de cuarenta y ocho horas para emitir el acuerdo de desechamiento contados a partir de la fecha en la que termine el plazo otorgado y no subsane alguno de los requisitos señalados en el artículo 58 del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 63.
 
-Una vez acordada la procedencia de la denuncia, la Secretaría emplazará al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
+Una vez acordada la procedencia de la denuncia, la Secretaría dentro de las cuarenta y ocho horas siguientes emplazará al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
 
 ###### ARTÍCULO 64.
 
 En caso de que el denunciante señale erróneamente las disposiciones legales presuntamente violadas o las omita, la denuncia será resuelta con fundamento en aquellas que le sean aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 65.
 
-El denunciado una vez recibida la notificación a que se refiere el artículo 63 del presente Reglamento, contará con un término de 48 horas para que manifieste por escrito lo que a su derecho e intereses convenga, aportando las pruebas que considere necesarias.
+El denunciado una vez recibida la notificación a que se refiere el artículo 63 del presente Reglamento, contará con un término de cuarenta y ocho horas para que manifieste por escrito lo que a su derecho e intereses convenga, aportando las pruebas que considere necesarias.
 
 El escrito de contestación deberá cumplir con los siguientes requisitos:
 
@@ -768,7 +878,7 @@ I. Nombre del denunciado o su representante, con firma autógrafa o huella digit
 
 II. Domicilio para oír y recibir notificaciones;
 
-III. los documentos que sean necesarios para acreditar la personería; y,
+III. Los documentos que sean necesarios para acreditar la personería; y,
 
 IV. Ofrecer y aportar las pruebas con que cuente debiendo relacionar éstas con los hechos; o en su caso, mencionar las que habrán de requerirse por estar en poder de una autoridad y que no le haya sido posible obtener. En este último supuesto, el oferente deberá identificar con toda precisión dichas pruebas.
 
@@ -814,21 +924,33 @@ Dichos requerimientos de información o de solicitud de diligencias, serán form
 
 Independientemente del inicio del procedimiento correspondiente en términos de los párrafos anteriores, en caso de no cumplimentarse los requerimientos se resolverá con los elementos que se cuenten en el expediente.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 73.
+
+El plazo para llevar a cabo la investigación no podrá exceder de diez días, contados a partir de la recepción de la contestación de la denuncia en la Secretaría.
+
+El plazo a que se hace referencia en el párrafo anterior podrá ser ampliado de manera excepcional por una sola vez, hasta por un periodo igual al antes señalado, mediante acuerdo debidamente motivado que emita la Comisión.
 
 La Secretaría emitirá un acuerdo donde se dé por concluida la etapa de investigación.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 74.
 
-Cerrada la investigación, la Secretaría pondrá a disposición de las partes el expediente integrado con la finalidad de que en un plazo de 24 horas presenten sus alegatos por escrito, pasado este plazo, con o sin alegatos se elaborará el dictamen que corresponda.
+Cerrada la investigación, la Secretaría pondrá a disposición de las partes el expediente integrado con la finalidad de que en un plazo de veinticuatro horas presenten sus alegatos por escrito, pasado este plazo, con o sin alegatos se elaborará el dictamen que corresponda.
 
 ### CAPÍTULO QUINTO. DEL DICTAMEN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 75.
 
-La Secretaría procederá a elaborar el proyecto de dictamen correspondiente dentro de las 24 horas siguientes al vencimiento del plazo para la presentación de alegatos, sometiéndolo a consideración de la Comisión inmediatamente.
+La Secretaría procederá a elaborar el proyecto de dictamen correspondiente dentro de las veinticuatro horas siguientes al vencimiento del plazo para la presentación de alegatos, sometiéndolo a consideración de la Comisión inmediatamente.
 
-La Comisión deberá sesionar dentro de las 24 horas siguientes, determinando:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+
+La Comisión deberá sesionar dentro de las veinticuatro horas siguientes, determinando:
 
 I. Aprobar el proyecto en los términos en que se le presente;
 
@@ -836,19 +958,25 @@ II. Aprobarlo modificando el sentido del proyecto; y
 
 III. Retirar el proyecto e instruir a la Secretaría para la elaboración de un nuevo proyecto.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 76.
 
-Una vez aprobado el dictamen por la Comisión dentro de las 24 horas siguientes deberá remitirlo al Consejero Presidente para que por su conducto se someta a consideración del Consejo para la emisión de la resolución correspondiente.
+Una vez aprobado el dictamen por la Comisión dentro de las veinticuatro horas siguientes deberá remitirlo al Consejero Presidente para que por su conducto se someta a consideración del Consejo para la emisión de la resolución correspondiente.
 
 ### CAPÍTULO SEXTO. DE LA RESOLUCIÓN
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 77.
 
-Una vez recibido el dictamen correspondiente de la Comisión, el Consejo elaborará la resolución respectiva, misma que se hará del conocimiento de los integrantes del Consejo por lo menos con 24 horas de anticipación a la sesión en que se proponga su aprobación, atendiendo a las circunstancias del caso.
+Una vez recibido el dictamen correspondiente de la Comisión, el Consejo elaborará la resolución respectiva, misma que se hará del conocimiento de los integrantes del Consejo por lo menos con veinticuatro horas de anticipación a la sesión en que se proponga su aprobación, atendiendo a las circunstancias del caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 78.
 
-Dentro de las 48 horas siguientes a la remisión del dictamen el Consejo deberá de sesionar para determinar:
+Dentro de las cuarenta y ocho horas siguientes a la remisión del dictamen el Consejo deberá de sesionar para determinar:
 
 I. Aprobar el dictamen de la Comisión en los términos en que se le presente;
 
@@ -874,15 +1002,21 @@ La denuncia relacionada con propaganda electoral en radio y televisión deberá 
 
 Una vez recibida la denuncia, se observará lo siguiente:
 
-I. El Consejo la turnará al día siguiente de la presentación de la misma.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+I. El Consejo la turnará, por conducto del Consejero Presidente, a la Secretaría para el trámite correspondiente al día siguiente de la presentación de la misma.
 
 II. Al día siguiente de recibida la denuncia por la Secretaría ésta hará del conocimiento de los integrantes del Consejo la presentación de la denuncia. La Secretaría realizará un análisis mediante el cual, vinculando los hechos con el estado que guarda el proceso en la Entidad y las condiciones que para su desarrollo haya dictado, exponga los motivos por los cuales considera que el Instituto Federal Electoral deba conocer del asunto en cuestión.
 
-III. El plazo para llevar a cabo el análisis por la Secretaría no podrá exceder de 2 días.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+III. El plazo para llevar a cabo el análisis por la Secretaría no podrá exceder de dos días.
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 82.
 
-Los Consejos que reciban una denuncia, deberán remitirla dentro de las 24 horas siguientes de su recepción al Consejo para su trámite y se estará a lo establecido en el artículo inmediato anterior del presente reglamento.
+Los Consejos que reciban una denuncia, deberán remitirla dentro de las veinticuatro horas siguientes de su recepción al Consejo para su trámite y se estará a lo establecido en el artículo inmediato anterior del presente reglamento.
 
 ###### ARTÍCULO 83.
 
@@ -906,19 +1040,29 @@ I. El Consejo la turnará, por conducto del Consejero Presidente, a la Secretar�
 
 II. Recibida la denuncia, la Secretaría procederá a su registro debiendo informar de su presentación a la Comisión el mismo día de su recepción. Asimismo, procederá a su análisis para acordar la admisión o plantear el desechamiento de la misma.
 
-Cuando el denunciante omita alguno de los requisitos señalados en el artículo inmediato anterior del presente Reglamento, la Secretaría le requerirá la solventación de dichas omisiones con el apercibimiento de que si no cumple en el término de 2 días contados a partir de la notificación del requerimiento respectivo, la denuncia se desechará de plano.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
 
-III. La Secretaría contará con un plazo de 2 días contados a partir del día en que reciba la denuncia para emitir el acuerdo de admisión o de desechamiento. En caso de que se hubiese prevenido al denunciante, dicho plazo empezará a correr a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
+Cuando el denunciante omita alguno de los requisitos señalados en el artículo inmediato anterior del presente Reglamento, la Secretaría le requerirá la solventación de dichas omisiones con el apercibimiento de que si no cumple en el término de dos días contados a partir de la notificación del requerimiento respectivo, la denuncia se desechará de plano.
 
-IV. Una vez acordada la procedencia de la denuncia, la Secretaría dentro de los 3 días siguientes correrá traslado al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+III. La Secretaría contará con un plazo de dos días contados a partir del día en que reciba la denuncia para emitir el acuerdo de admisión o de desechamiento. En caso de que se hubiese prevenido al denunciante, dicho plazo empezará a correr a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+IV. Una vez acordada la procedencia de la denuncia, la Secretaría dentro de los tres días siguientes correrá traslado al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
 
 V. Las pruebas deberán ser ofrecidas al presentarse la denuncia, ninguna prueba aportada posteriormente será tomada en cuenta. No serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto.
 
-VI. El plazo para llevar a cabo la integración del expediente no podrá exceder de 10 días, contados a partir de la fecha en que la Secretaría recibió la denuncia.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+VI. El plazo para llevar a cabo la integración del expediente no podrá exceder de diez días, contados a partir de la fecha en que la Secretaría recibió la denuncia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 86.
 
-La Secretaría procederá a elaborar el proyecto de dictamen correspondiente dentro de los 3 días siguientes a que se integre el expediente, sometiéndolo a consideración de la Comisión al día siguiente.
+La Secretaría procederá a elaborar el proyecto de dictamen correspondiente dentro de los tres días siguientes a que se integre el expediente, sometiéndolo a consideración de la Comisión al día siguiente.
 
 La Comisión deberá sesionar dentro de los 2 días siguientes, determinando:
 
@@ -932,11 +1076,15 @@ III. Retirar el proyecto e instruir a la Secretaría para la elaboración de un 
 
 Una vez aprobado el dictamen por la Comisión al día siguiente deberá remitirlo al Consejero Presidente para que por su conducto se someta a consideración del Consejo para la emisión de la resolución correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 88.
 
-Una vez recibido el dictamen correspondiente de la Comisión, el Consejo elaborará la resolución respectiva, misma que se hará del conocimiento de los integrantes del Consejo por lo menos con 24 horas de anticipación a la sesión en que se proponga su aprobación, atendiendo a las circunstancias del caso.
+Una vez recibido el dictamen correspondiente de la Comisión, el Consejo elaborará la resolución respectiva, misma que se hará del conocimiento de los integrantes del Consejo por lo menos con veinticuatro horas de anticipación a la sesión en que se proponga su aprobación, atendiendo a las circunstancias del caso.
 
-Dentro de los 3 días siguientes a la remisión del dictamen el Consejo deberá de sesionar para determinar:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+
+Dentro de los tres días siguientes a la remisión del dictamen el Consejo deberá de sesionar para determinar:
 
 I. Aprobar el dictamen de la Comisión en los términos en que se le presente;
 
@@ -966,15 +1114,23 @@ I. El Consejo la turnará, por conducto del Consejero Presidente, a la Secretar�
 
 II. Recibida la denuncia, la Secretaría procederá a su registro debiendo informar de su presentación a la Comisión el mismo día de su recepción. Asimismo, procederá a su análisis para acordar la admisión o plantear el desechamiento de la misma.
 
-III. Cuando el denunciante omita alguno de los requisitos señalados en el artículo inmediato anterior del presente Reglamento, la Secretaría le requerirá la solventación de dichas omisiones con el apercibimiento de que si no cumple en el término de 2 días contados a partir de la notificación del requerimiento respectivo, la denuncia se desechará de plano.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
-IV. La Secretaría contará con un plazo de 2 días contados a partir del día en que reciba la denuncia para emitir el acuerdo de admisión o de desechamiento. En caso de que se hubiese prevenido al denunciante, dicho plazo empezará a correr a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
+III. Cuando el denunciante omita alguno de los requisitos señalados en el artículo inmediato anterior del presente Reglamento, la Secretaría le requerirá la solventación de dichas omisiones con el apercibimiento de que si no cumple en el término de dos días contados a partir de la notificación del requerimiento respectivo, la denuncia se desechará de plano.
 
-V. Una vez acordada la procedencia de la denuncia, la Secretaría dentro de los 3 días siguientes correrá traslado al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+IV. La Secretaría contará con un plazo de dos días contados a partir del día en que reciba la denuncia para emitir el acuerdo de admisión o de desechamiento. En caso de que se hubiese prevenido al denunciante, dicho plazo empezará a correr a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+V. Una vez acordada la procedencia de la denuncia, la Secretaría dentro de los tres días siguientes correrá traslado al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
 
 VI. Las pruebas deberán ser ofrecidas al presentarse la denuncia, ninguna prueba aportada posteriormente será tomada en cuenta. No serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto.
 
-VII. El plazo para llevar a cabo la integración del expediente no podrá exceder de 15 días, contados a partir de la fecha en que la Secretaría recibió la denuncia.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+VII. El plazo para llevar a cabo la integración del expediente no podrá exceder de quince días, contados a partir de la fecha en que la Secretaría recibió la denuncia.
 
 ###### ARTÍCULO 92.
 
@@ -1032,7 +1188,9 @@ El Consejo General conocerá de las infracciones de las autoridades, Notarios P�
 
 I. La Secretaría una vez que tenga conocimiento de la presunta infracción procederá a su registro debiendo informar de su presentación a la Comisión el mismo día de su recepción. Asimismo, procederá a su análisis para acordar la admisión o plantear el desechamiento de la misma.
 
-II. La Secretaría realizará un análisis sobre la presunta infracción el cual hará del conocimiento de la Comisión dentro de los 5 días siguientes a que tenga conocimiento de la misma.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+
+II. La Secretaría realizará un análisis sobre la presunta infracción el cual hará del conocimiento de la Comisión dentro de los cinco días siguientes a que tenga conocimiento de la misma.
 
 III. La Comisión, en su caso, hará las observaciones conducentes al análisis realizado por la Secretaría y lo hará del conocimiento del Consejo para su aprobación.
 
@@ -1049,3 +1207,9 @@ El presente Reglamento entrará en vigor al día siguiente de su aprobación por
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE ENERO DE 2010.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
