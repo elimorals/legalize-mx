@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2009-12-07"
+last_updated: "2010-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2010.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -431,25 +431,41 @@ Todos los vehículos deberán portar extinguidor contra incendios en buenas cond
 
 Queda prohibido en los vehículos portar en el parabrisas, en el medallón y en las ventanillas rótulos; carteles, calcomanías y objetos que obstruyan la visibilidad del conductor.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 26.
 
-Todo vehículo de motor deberá estar provisto de los faros necesarios delanteros que emitan luz blanca, dotados de mecanismo para el cambio de intensidad. La ubicación de estos faros deberá adecuarse a las normas previstas por los fabricantes de dichos vehículos. Queda prohibido el uso de faros de alta intensidad que puedan deslumbrar a conductores de vehículos circulantes, además los vehículos de motor deberán estar dotados de las siguientes luces:
+Todo vehículo de motor deberá estar provisto de los faros necesarios delanteros que emitan luz blanca, dotados de mecanismo para el cambio de intensidad. La ubicación de estos faros deberá adecuarse a las normas previstas por los fabricantes de dichos vehículos. Queda prohibido modificar los vehículos adaptándoles faros de alta intensidad que puedan deslumbrar a conductores de vehículos circulantes, además los vehículos de motor deberán estar dotados de las siguientes luces:
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 I.- Luces indicadoras de frenos en la parte trasera.
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+
 II.- Luces direccionales de destello intermitente delanteras y traseras.
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 III.- Luces de destello intermitente para parada de emergencia.
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+
 IV.- Cuartos delanteros de luz amarilla y traseros de luz roja.
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 V.- Luces especiales, según el tipo y dimensiones del vehículo.
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+
 VI.- Luz que ilumine la placa posterior; y
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+
 VII.- Luz de reversa.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 Los conductores están obligados a accionar los dispositivos enumerados, de acuerdo con las condiciones de visibilidad o necesidades de advertencia a terceros.
 
@@ -2960,3 +2976,9 @@ P.O. 7 DE DICIEMBRE DE 2009.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ENERO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
