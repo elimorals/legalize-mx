@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2009-09-10"
+last_updated: "2010-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ENERO DE 2010.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1366,13 +1366,11 @@ ARTÍCULO 181 QUÁTER. Cualquier persona que tenga conocimiento de las conductas
 
 Al que prive de la libertad a otro con el propósito de obtener rescate, algún beneficio económico, causar daño o perjuicio a la persona privada de la libertad o a cualquiera otra, se le impondrán de cuarenta a sesenta años de prisión y de mil a tres mil días multa.
 
-> <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2010)</small>
 
-ARTÍCULO 163 BIS. Comete el delito de privación de la libertad en su modalidad de secuestro express, el que prive de la libertad a otro por el tiempo estrictamente indispensable para cometer los delitos de robo o extorsión, previstos en los artículos 220 y 236 de este Código o para obtener algún beneficio económico.
+ARTÍCULO 163 BIS. Comete el delito de privación de la libertad en su modalidad de secuestro express (sic), el que prive de la libertad a otro por el tiempo estrictamente indispensable para cometer los delitos de robo o extorsión, previstos en los artículos 220 y 236 de este Código respectivamente, o para obtener algún beneficio económico.
 
-> <small>(REFORMADO, G.O. 24 DE FEBRERO DE 2006)</small>
-
-Se le impondrá de veinte a cuarenta años de prisión y de quinientos a dos mil días multa, sin perjuicio de las penas que corresponden por los delitos de robo o extorsión y de las reglas de aplicación del concurso para la imposición de sanciones.
+A quien cometa este delito se le impondrá de veinte a cuarenta años de prisión y de quinientos a dos mil días multa. Para el caso de este delito no se aplicará sanción alguna por los delitos de robo o extorsión.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE FEBRERO DE 2006)</small>
 
@@ -4151,3 +4149,9 @@ G.O. 10 DE SEPTIEMBRE DE 2009.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 19 DE ENERO DE 2010.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
