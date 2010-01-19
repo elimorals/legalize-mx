@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-adquisiciones-para-el-distrito-federal-12307"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-28"
-last_updated: "2008-09-15"
+last_updated: "2010-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12307&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-09-18"
 
 LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ENERO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 28 de septiembre de 1998.
 
@@ -836,9 +836,9 @@ Asimismo, podrán suspender definitivamente el procedimiento de una licitación 
 
 Los procedimientos señalados en este artículo se realizarán en términos de lo que establezca el Reglamento de esta Ley, conforme a los lineamientos de la misma.
 
-### Capítulo V. De las excepciones a la Licitación pública
+### Capítulo V. De las excepciones a la Licitación Pública
 
-> <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 43.
 
@@ -970,6 +970,8 @@ Para determinar que los precios ofertados no resultan convenientes, la convocant
 
 Una vez que declare desierta la licitación, la convocante procederá conforme a lo establecido por el artículo 55 de la Ley.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 19 DE ENERO DE 2010)</small>
+
 ### Capítulo VI. Del otorgamiento de los contratos
 
 > <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
@@ -978,7 +980,7 @@ Una vez que declare desierta la licitación, la convocante procederá conforme a
 
 En los supuestos y con sujeción a las formalidades que prevén los artículos 54 y 55 de esta Ley, las dependencias, órganos desconcentrados, delegaciones y entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de adquisiciones, arrendamiento y prestación de servicios, a través de un procedimiento de invitación restringida a cuando menos tres proveedores o de adjudicación directa.
 
-La opción que las dependencias, órganos desconcentrados, delegaciones y entidades ejerzan, deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren para la Administración Pública del Distrito Federal las mejores condiciones de oferta, oportunidad, precio, calidad, financiamiento y demás circunstancias pertinentes.
+La opción que las dependencias, órganos desconcentrados, delegaciones y entidades ejerzan, deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren para la Administración Pública del Distrito Federal las mejores condiciones de oferta, oportunidad, precio, calidad, financiamiento y demás circunstancias pertinentes. Debiendo optar primeramente por examinar si existen campesinos, grupos rurales, urbanos marginados y sociedades cooperativas legalmente constituidas que puedan prestar el servicio y sólo en el caso de que no exista ninguna de estas opciones, se invitará a los demás proveedores.
 
 > <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
 
@@ -1022,9 +1024,9 @@ VI.- Se trate de Adquisiciones de bienes perecederos, alimentos preparados, gran
 
 VII.- Se trate de servicios de consultoría, asesoría, estudios e investigaciones, auditorías y servicios de naturaleza similar, que pudiera afectar el interés público o ser de acceso restringido, de conformidad con las disposiciones legales aplicables;
 
-> <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2010)</small>
 
-VIII.- Se trate de adquisiciones, arrendamientos o prestación de servicios, cuya contratación se realice con campesinos o grupos rurales o urbanos marginados y que la dependencia, órgano desconcentrado, delegación o entidad contrate directamente con los mismos o con las personas morales constituidas por ellos;
+VIII.- Se trate de adquisiciones, arrendamientos o prestación de servicios, cuya contratación se realice con campesinos o grupos rurales o urbanos marginados y sociedades cooperativas legalmente constituidas que se funden y residan en el Distrito Federal y que la dependencia, órgano desconcentrado, delegación o entidad contrate directamente con los mismos o con las personas morales constituidas por ellos;
 
 > <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
 
@@ -1071,6 +1073,10 @@ Para efectos de lo dispuesto en este artículo, deberá obtenerse previamente la
 > <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
 
 Las dependencias, órganos desconcentrados, delegaciones y entidades preferentemente, invitarán a cuando menos tres proveedores, salvo que ello a su juicio no resulte conveniente, en cuyo caso se procederá a adquirir a través del procedimiento de adjudicación directa, a las personas cuyas actividades comerciales estén relacionadas con el objeto del contrato a celebrarse, y cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que les sean requeridos.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2010)</small>
+
+Para los efectos de la última parte del párrafo anterior, la Administración Pública del Distrito Federal, sus dependencias, órganos desconcentrados, entidades y delegaciones deberán optar por una sociedad cooperativa capaz de generar bien o proveer el servicio de que se trate.
 
 > <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
 
@@ -1513,3 +1519,11 @@ Artículo Tercero.- El Jefe de Gobierno sesionará de manera conjunta con sus Ga
 G.O. 15 DE SEPTIEMBRE DE 2008.
 
 PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 19 DE ENERO DE 2010.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida difusión.
+
+SEGUNDO.- Se abrogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
