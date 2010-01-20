@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2009-01-12"
+last_updated: "2010-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -155,7 +155,9 @@ I.- El pleno respeto y ejercicio de los derechos humanos;
 
 II.- La igualdad de oportunidades y la equidad en el acceso a los servicios de salud, educación, empleo, capacitación y readaptación laboral, cultura, recreación y deporte a las personas con discapacidad;
 
-III.- La gestión para que el transporte e infraestructura urbana les permita la movilidad, libre tránsito, uso y acceso con seguridad a los espacios públicos y privados;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+
+III.- La gestión para que el transporte e infraestructura urbana permita la movilidad, libre tránsito, uso y acceso de las personas con discapacidad, por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, con seguridad a los espacios públicos y privados;
 
 IV.- La promoción y apoyo para fortalecer los proyectos y programas que impulsen el desarrollo y la superación de las personas con discapacidad, a fin de potencializar y sumar esfuerzos recursos y voluntades para el respeto e inclusión e integración de las personas con discapacidad, de conformidad con las disposiciones legales y administrativas aplicables;
 
@@ -271,15 +273,21 @@ I.- Gozar de la oportunidad plena respecto de los derechos de todo ciudadano, de
 
 II.- Tener las mismas oportunidades laborales de acuerdo a su perfil profesional, técnico o manual;
 
-III.- Desplazarse libremente en los espacios públicos abiertos o cerrados de cualquier índole;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+
+III.- Desplazarse libremente con las formas de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, en los espacios públicos abiertos o cerrados de cualquier índole;
 
 IV.- Disfrutar de los servicios públicos estacionarios en igualdad de circunstancias que cualquier persona sin discapacidad; y
 
-V.- Facilitar el acceso y desplazamiento en el interior de espacios laborales, comerciales y recreativos.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+
+V.- Facilitar el acceso y desplazamiento con las formas de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, en el interior de espacios laborales, comerciales y recreativos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### Artículo 17.
 
-El tránsito de las personas con discapacidad, así como los derechos de que éstos gocen, se sujetarán además de lo previsto por esta Ley, a lo que prescriban las legislaciones vial, sanitaria, asistencial y demás ordenamientos legales aplicables; así como por las normas y medidas que se establezcan y apliquen en los siguientes aspectos:
+El tránsito de las personas con discapacidad, por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, así como los derechos de que éstas gocen, se sujetarán además de lo previsto por esta Ley, a lo que prescriban las legislaciones vial, sanitaria, asistencial y demás ordenamientos legales aplicables; así como por las normas y medidas que se establezcan y apliquen en los siguientes aspectos:
 
 I.- La organización, operación, supervisión y evaluación de las acciones que en materia de asistencia social se lleven a cabo para modificar y mejorar las circunstancias de carácter social que impidan a las personas con discapacidad su desarrollo integral;
 
@@ -341,7 +349,9 @@ Para llevar a cabo la valoración de las personas con discapacidad, la Comisión
 
 La valoración debe efectuarse en forma inmediata luego de que el solicitante acuda o sea canalizado por otras instituciones a la Comisión Estatal Coordinadora, participando en ella, todos los especialistas que integran la Comisión de valoración, la que se realizará preferentemente en el siguiente orden:
 
-I.- Valoración médica en la que se especifique el grado de discapacidad, el tratamiento rehabilitación requerido, y la necesidad en su caso, de prótesis, órtesis u otras ayudas funcionales.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+
+I.- Valoración médica en la que se especifique el grado de discapacidad, el tratamiento rehabilitatorio requerido, y la necesidad en su caso, de prótesis, órtesis u otras ayudas funcionales sea humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte;
 
 II.- Valoración psicológica, incluyendo estudio de personalidad;
 
@@ -567,39 +577,53 @@ Se proporcionará a través de la Comisión Estatal Coordinadora, dentro del Pro
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2010)</small>
+
 ###### Artículo 59.
 
-La Comisión Estatal Coordinadora, promoverá ante las autoridades competentes, la transformación y adaptación de la infraestructura urbana, para garantizar el libre acceso a todos los espacios y edificios públicos.
+La Comisión Estatal Coordinadora, promoverá ante las autoridades competentes, la transformación y adaptación de la infraestructura urbana, para garantizar el libre acceso de las personas con discapacidad, por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, a todos los espacios y edificios públicos.
 
 Los que deberán contar con las facilidades de accesibilidad y señalización necesarias, a fin de facilitar el libre tránsito, desplazamiento y uso seguro de estos espacios por las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+
 ###### Artículo 60.
 
-Las personas con discapacidad gozarán del derecho de paso en todas las intersecciones y zonas señaladas para este efecto, así como a disfrutar de los servicios públicos y tener acceso y facilidades para poderse desplazar en los espacios laborales, comerciales, oficiales y recreativos, a través de la construcción de accesos arquitectónicos apropiados, estando obligado el personal de seguridad pública y vial a brindarles la protección necesaria, efectuando las señales y realizando las maniobras que procedan según las circunstancias.
+Las personas con discapacidad gozarán del derecho de paso en todas las intersecciones y zonas señaladas para este efecto, así como a disfrutar de los servicios públicos y tener acceso y facilidades para poderse desplazar por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, en los espacios laborales, comerciales, oficiales y recreativos, a través de la construcción de accesos arquitectónicos apropiados, estando obligado el personal de seguridad pública y vial a brindarles la protección necesaria, efectuando las señales y realizando las maniobras que procedan según las circunstancias.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### Artículo 61.
 
-La Comisión Estatal Coordinadora, propondrá a las autoridades competentes, estrategias permanentes y progresivas para reformar los reglamentos Estatales y Municipales vigentes, de acuerdo a las necesidades de la población con discapacidad, de igual forma impulsará el diseño e instrumentación permanente de programas y campañas de educación vial y cortesía urbana, encaminadas a motivar los hábitos de respeto hacia las personas con discapacidad en su tránsito por la vía pública y en lugares de acceso al público, de conformidad con la legislación aplicable.
+La Comisión Estatal Coordinadora, propondrá a las autoridades competentes, estrategias permanentes y progresivas para reformar los reglamentos Estatales y Municipales vigentes, de acuerdo a las necesidades de la población con discapacidad, de igual forma impulsará el diseño e instrumentación permanente de programas y campañas de educación vial y cortesía urbana, encaminadas a motivar los hábitos de respeto hacia las personas con discapacidad que transiten por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, por la vía pública y en lugares de acceso al público, de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### Artículo 62.
 
-La Comisión Estatal Coordinadora, impulsará propuestas para modificar la prestación del servicio público de transporte para permitir el acceso de las personas con discapacidad.
+La Comisión Estatal Coordinadora, impulsará propuestas para modificar la prestación del servicio público de transporte para permitir el acceso de las personas con discapacidad, por sí o con ayuda de prótesis, órtesis u otras ayudas funcionales sea humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### Artículo 63.
 
-En todos los edificios que se preste un servicio al público, estatal o municipal, oficial o privado, se deberán contemplar las normas técnicas, que faciliten el acceso, la circulación y libre desplazamiento de las personas con discapacidad.
+En todos los edificios que se preste un servicio al público, estatales o municipales, o privados, se deberán contemplar las normas técnicas, que faciliten el acceso, la circulación y libre desplazamiento de las personas con discapacidad, por sí o con ayuda de prótesis, órtesis u otras ayudas funcionales sea humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### Artículo 64.
 
-Los prestadores del servicio público de transporte deberán reservar por lo menos un asiento por cada diez de los que tenga el vehículo o unidad que operen, a efecto de que en su caso, sean utilizados por pasajeros con discapacidad. Para tal efecto deberán colocar la señalética con el contenido correspondiente, a fin de que en todo momento se reserve dicho espacio, de acuerdo a lo previsto en la Ley de la materia.
+Los prestadores del servicio público de transporte deberán reservar por lo menos un asiento por cada diez de los que tenga el vehículo o unidad que operen, a efecto de que en su caso, sean utilizados por pasajeros con discapacidad, así como el espacio y la adecuación que se requiera a las unidades para aquellas personas que usen prótesis, órtesis u otras ayudas funcionales ya sea humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, y puedan acceder, así como viajar seguras y cómodas en el vehículo o unidad. Para tal efecto deberán colocar la señalética con el contenido correspondiente, a fin de que en todo momento se reserve dicho espacio, de acuerdo a lo previsto en la Ley de la materia.
 
 ###### Articulo 65.
 
 Las Dependencias y entidades Públicas, así como los establecimientos de carácter privado que realicen trabajos de obras de acceso para personas con discapacidad, estarán obligadas a colocar señalamientos y en un plazo mínimo concluir la obra y dejar en perfecto estado el acceso.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+
 ###### Artículo 66.
 
-Con el objeto de facilitar el acceso y libre desplazamiento de las personas con discapacidad, las autoridades competentes tendrán que proveer en la esfera administrativa que les corresponda, la normatividad conducente en materia de estacionamientos, baños públicos y sanitarios, elevadores y rampas, barreras arquitectónicas y las demás relativas a la vía pública, a efecto de otorgarles las condiciones adecuadas para realizar sus actividades de acuerdo con lo dispuesto en el presente ordenamiento.
+Con el objeto de facilitar el acceso y libre desplazamiento de las personas con discapacidad, por sí o con ayuda de prótesis, órtesis u otras ayudas funcionales sea humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, las autoridades competentes tendrán que proveer en la esfera administrativa que les corresponda, la normatividad conducente en materia de estacionamientos, baños públicos y sanitarios, elevadores y rampas, barreras arquitectónicas y las demás relativas a la vía pública, a efecto de otorgarles las condiciones adecuadas para realizar sus actividades de acuerdo con lo dispuesto en el presente ordenamiento.
 
 ## TÍTULO SÉPTIMO. DE LA COMUNICACIÓN E INFORMACIÓN ESTADÍSTICA
 
@@ -664,3 +688,11 @@ Se derogan todas las disposiciones legales y reglamentarias que se opongan a la 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los quince días de diciembre de dos mil ocho.- Diputada Presidenta.- MALINALLI AURORA GARCÍA RUIZ.- Rúbrica.- Diputado Vicepresidente.- HÉCTOR MAURICIO HIDALGO GONZÁLEZ.- Rúbrica.- Diputado Secretario.- RAÚL ERASMO ÁLVAREZ MARÍN.- Rúbrica.- Diputado Secretario.- GABRIEL GUSTAVO ESPINOSA VÁZQUEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dieciséis días del mes de diciembre de dos mil ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE ENERO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
