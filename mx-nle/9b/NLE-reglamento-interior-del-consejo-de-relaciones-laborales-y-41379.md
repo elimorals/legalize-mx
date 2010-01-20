@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-consejo-de-relaciones-laborales-y-41379
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-12"
-last_updated: "2008-10-27"
+last_updated: "2010-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE RELACIONES LABORALES Y PRODUCTIVIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO, PUBLICADO EN EL P.O. DE 20 DE ENERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el martes 12 de octubre de 2004.
 
@@ -374,3 +376,9 @@ P.O. 27 DE OCTUBRE DE 2008.
 PRIMERO.- El presente Acuerdo por el que se reforma el Reglamento Interior del Consejo de Relaciones Laborales y Productividad entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Consejo de Relaciones Laborales y Productividad se deberá coordinar con la Secretaria de Finanzas y Tesorería General del Estado y con la Oficialía Mayor de Gobierno a efecto de llevar a cabo los trámites correspondientes a la transferencia de los recursos financieros, materiales y humanos de la extinta Dirección de Autoempleo y Pequeños Negocios a la Dirección del Servicio Estatal de Empleo.
+
+P.O. 20 DE ENERO DE 2010.
+
+PRIMERO.- El presente Reglamento Interior de la Secretaría del Trabajo entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Consejo de Relaciones Laborales y Productividad, publicado en el Periódico Oficial del Estado en fecha 12 de octubre de 2004.
