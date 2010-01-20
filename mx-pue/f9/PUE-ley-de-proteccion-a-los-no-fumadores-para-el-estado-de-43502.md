@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-los-no-fumadores-para-el-estado-de-43502"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-26"
-last_updated: "2005-01-26"
+last_updated: "2010-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCION A LOS NO FUMADORES PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 26 de enero de 2005.
 
@@ -67,9 +67,17 @@ IV. Lugar Público: Sitio cercado, cerrado o cubierto destinado a la venta de un
 
 V. Área cerrada: Superficie comprendida dentro de un perímetro determinado que por sus características no permite la ventilación natural o artificial del mismo, de modo que dé lugar a la inhalación involuntaria del humo generado por la combustión del tabaco;
 
-VI. Tabaquismo: Intoxicación crónica producida por fumar tabaco; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
 
-VII. Reglamentos: Los que para efectos de esta Ley expidan las autoridades correspondientes dentro de sus respectivas competencias.
+VI. Tabaquismo: Intoxicación crónica producida por fumar tabaco;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+
+VII. Reglamentos: Los que para efectos de esta Ley expidan las autoridades correspondientes dentro de sus respectivas competencias; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2010)</small>
+
+VIII. Espacio 100% libre de humo de tabaco: Es el área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco.
 
 ### CAPÍTULO II. DE LOS ESPACIOS PARA FUMAR Y NO FUMAR
 
@@ -103,6 +111,14 @@ XII. En las demás que determinen los Reglamentos y las Autoridades Sanitarias d
 
 Tratándose de la obligación contenida en la fracción VII de este artículo, queda bajo la responsabilidad de los conductores el cumplimiento de esta disposición, con la estricta vigilancia de los permisionarios, propietarios y/o inspectores de los medios de transporte y en el caso de taxis o vehículos para el transporte individual de personas, corresponde al conductor determinar si en el mismo se autoriza o no fumar a los pasajeros, en ambos casos, deberá colocar señalización clara y visible al respecto.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
+
+ARTÍCULO 3 BIS. Además de lo preceptuado en el artículo anterior, queda prohibido consumir o tener encendido cualquier producto de tabaco en los espacios 100% libre de humo de tabaco.
+
+En éstas áreas se fijará en el interior y en el exterior los letreros, logotipos y emblemas que establezca la Secretaría.
+
+El propietario, administrador o responsable de un espacio 100% libre de humo de tabaco, está obligado a hacerlas respetar.
+
 ###### ARTÍCULO 4.
 
 Habrá tolerancia para fumar en las áreas cerradas de los lugares públicos a continuación enumerados, siempre que se acondicionen espacios para fumadores, que reúnan los requisitos señalados en el artículo 5 de esta Ley:
@@ -127,19 +143,35 @@ En las áreas cerradas de los lugares públicos en los que se tolere fumar, los 
 
 I. Tener ventilación hacia el exterior o un sistema de extracción o purificación de aire;
 
-II. Estar identificados como sitios de fumar, con señalización clara y visible; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
 
-III. Reunir los demás requisitos que determinen los Reglamentos y las Autoridades Sanitarias del Estado en el ámbito de sus respectivas competencias.
+II. Las que estén ubicadas al aire libre, deberán estar físicamente separadas e incomunicadas de los espacios 100% libres de humo de tabaco, no ser paso obligado para las personas o encontrarse en los accesos o salidas de los inmuebles. En estos espacios no podrán estar menores de edad y deberá advertirse a las mujeres embarazadas de los riesgos que corren ellas y el producto al estar en esa zona;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+
+III. Estar identificados como sitios de fumar, con señalización clara y visible; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2010)</small>
+
+IV. Reunir los demás requisitos que determinen las disposiciones legales aplicables en la materia y las Autoridades Sanitarias del Estado.
 
 En respeto a la dignidad y derechos de los fumadores, los sitios que se acondicionen o designen para éstos, deberán ser siempre de un tamaño razonable, de iguales condiciones, características y comodidades que los espacios para no fumadores, de acuerdo a la cantidad de fumadores y no fumadores que concurran al lugar de que se trate. En ningún caso deberán ser considerados los espacios exteriores o al aire libre como las únicas áreas para fumadores.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 6.
 
-Los responsables de los lugares públicos a que se refiere esta Ley deberán advertir, mediante señalización clara y precisa la prohibición de fumar.
+En las áreas 100% libres de humo de tabaco y en las zonas exclusivamente para fumar, se colocarán en un lugar visible letreros que indiquen claramente su naturaleza.
+
+En las entradas y en el interior de los mismos, deberán existir las señalizaciones y letreros que orienten a los trabajadores, usuarios y visitantes que se trata de un espacio 100% libre de humo de tabaco, así como letreros que contengan leyendas de advertencia sobre su incumplimiento.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 7.
 
-Cuando él o los responsables de los lugares públicos a que se refieren los artículos 3 y 4 adviertan que una persona está fumando en contravención a esta Ley, deberán exhortarlo a que deje de hacerlo y, en su caso, solicitarle que se reubique en las áreas identificadas para tal propósito. En caso de que se niegue a dejar de fumar o bien a reubicarse, él o los responsables, deberán, a la brevedad, dar aviso a la autoridad competente para que se respete el cumplimiento de esta Ley y en su caso, impongan las sanciones que correspondan.
+En el supuesto de que una persona esté fumando en un espacio 100% libre de humo de tabaco, o en los lugares públicos a que se refieren los artículos 3 y 4, será obligación del propietario, administrador o responsable de dicho lugar, en primera instancia, pedir que deje de fumar y apague su cigarro o cualquier otro producto de tabaco que haya encendido. En caso de que se niegue a dejar de fumar o bien a reubicarse, él o los responsables, deberán, a la brevedad, dar aviso a la autoridad competente para que se respete el cumplimiento de esta Ley y en su caso, impongan las sanciones que correspondan.
+
+La responsabilidad de los propietarios, poseedores o administradores, a que se refiere el presente artículo terminará en el momento en que den aviso a la autoridad correspondiente.
 
 ###### ARTÍCULO 8.
 
@@ -155,11 +187,27 @@ El incumplimiento de lo dispuesto en el artículo anterior será comunicado por 
 
 Las Autoridades Sanitarias del Estado en el ámbito de sus respectivas competencias, dictarán todas las medidas necesarias para prevenir y atender el tabaquismo, sobre todo en menores de dieciocho años.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 11.
 
-La Secretaría de Salud Pública del Estado formulará y desarrollará programas locales de salud en el marco de los Sistemas Estatal y Nacional de Salud para combatir y prevenir los padecimientos originados por el tabaquismo; así como la educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia y menores de dieciocho años.
+La aplicación de esta Ley estará a cargo de la Secretaría de Salud, que deberá coordinar sus acciones con las Dependencias y Entidades de los Gobiernos Estatal y Municipales, así como con otras autoridades competentes para el cumplimiento de los objetivos de este ordenamiento.
 
-Tratándose de lugares públicos, los superiores jerárquicos de los empleados que ahí laboren podrán dar facilidades, para que el personal que fuma pueda acceder a los sitios definidos para ese fin, cuando esta Ley autorice la tolerancia para fumar, así como el apoyo en tiempo que soliciten para asistir a terapias que lo ayuden a dejar de fumar.
+La Secretaría de Salud del Estado, coordinará, formulará y desarrollará programas de salud en el marco de los Sistemas Estatal y Nacional de Salud para la detección temprana, orientación y atención a fumadores que deseen abandonar el consumo, investigará sus causas y consecuencias, fomentará la salud considerando la promoción de actitudes y conductas que favorezcan estilos de vida saludables en la familia, el trabajo y la comunidad, y desarrollará acciones permanentes para disuadir y evitar el consumo de productos del tabaco principalmente por parte de niños, adolescentes y grupos vulnerables.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
+
+ARTÍCULO 11 BIS. La Secretaría de Salud del Estado, establecerá los lineamientos para la ejecución y evaluación del Programa contra el Tabaquismo, que comprenderá, entre otras, las siguientes acciones:
+
+I.- La promoción de la Salud;
+
+II.- El diagnóstico, prevención, tratamiento y rehabilitación del tabaquismo y de los padecimientos originados por él;
+
+III.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos y/o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar al interior de los espacios 100% libres de humo de tabaco que establezca esta Ley, sus reglamentos y demás disposiciones aplicables;
+
+IV.- La elaboración periódica de un programa de seguimiento y evaluación de metas y logros del Programa contra el Tabaquismo que incluya al menos las conductas relacionadas al tabaco y su impacto en la salud;
+
+V.- El diseño de campañas de publicidad que promueva la cesación y disminuya las probabilidades de iniciarse en el consumo de los productos del tabaco.
 
 ### CAPÍTULO IV. DE LA VIGILANCIA Y APLICACIÓN DE LA LEY
 
@@ -178,6 +226,24 @@ Es competencia de los órganos de control interno vigilar que se cumplan las dis
 Cualquier ciudadano o institución que detecte que una o varias personas están actuando de manera contraria a lo establecido por esta Ley, deberá dar aviso a la brevedad posible a la autoridad competente para efectos de que ordene su cumplimiento y actúe conforme al presente ordenamiento.
 
 Los integrantes de las asociaciones de padres de familia podrán vigilar en las áreas cerradas de centros o instituciones de educación inicial, preescolar, básica, media, media superior, superior y especial, de manera individual o colectiva, que se cumpla con las disposiciones de esta Ley debiendo dar aviso a la brevedad posible a la autoridad competente para efectos de que ordene su cumplimiento y actúe conforme a esta Ley, en caso de que detecte alguna anomalía.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
+
+ARTÍCULO 14 BIS. La Secretaría de Salud promoverá la participación de la sociedad civil en la prevención del tabaquismo y el control de los productos del tabaco en las siguientes acciones:
+
+I.- Promoción de los espacios 100% libres de humo de tabaco;
+
+II.- Promoción de la salud comunitaria;
+
+III.- Educación para la salud;
+
+IV.- Investigación para la salud y generación de la evidencia científica en materia del control del tabaco;
+
+V.- Difusión de las disposiciones legales en materia del control de los productos del tabaco;
+
+VI.- Coordinación con los consejos nacional y estatales contra las adicciones; y
+
+VII.- Las acciones de auxilio de aplicación de esta Ley como la denuncia ciudadana.
 
 ###### ARTÍCULO 15.
 
@@ -215,13 +281,23 @@ Para la aplicación de la multa, se tomará en cuenta la gravedad de la infracci
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 20.
 
-Se sancionará con multa equivalente de uno a tres veces el salario mínimo diario general vigente en el Estado el incumplimiento a lo dispuesto por el artículo 7 de la presente Ley, en caso de reincidencia se aumentará hasta en dos terceras partes el monto de la multa.
+Se sancionará con multa equivalente de cinco a quince veces el salario mínimo diario general vigente en el Estado, el incumplimiento a lo dispuesto por el artículo 7 de la presente Ley, en caso de reincidencia se aumentará hasta en dos terceras partes el monto de la multa.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 21.
 
-Se sancionará con multa equivalente de tres a treinta veces el salario mínimo diario general vigente en el Estado la inobservancia de lo establecido en el artículo 6 de esta Ley, en caso de reincidencia se aumentará hasta en dos terceras partes el monto de la multa.
+Se sancionará con multa equivalente de diez a sesenta veces el salario mínimo diario general vigente en el Estado, la inobservancia de lo establecido en el artículo 6 de esta Ley, en caso de reincidencia se aumentará hasta en dos terceras partes el monto de la multa.
+
+El monto recaudado producto de las multas será destinado preferentemente al Programa contra el Tabaquismo y a otros programas de salud prioritarios.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
+
+ARTÍCULO 21 BIS. Si con motivo de la aplicación de esta Ley, se desprenda la posible comisión de uno o varios delitos, la autoridad correspondiente hará del conocimiento a las autoridades competentes.
 
 ###### ARTÍCULO 22.
 
@@ -414,3 +490,11 @@ Se deroga cualquier disposición que contravenga lo dispuesto en la presente Ley
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil cuatro.- Diputado Presidente.- JOAQUÍN MALDONADO IBARGÜEN.- Rúbrica.- Diputado Vicepresidente.- JOSÉ LUIS MÁRQUEZ MARTÍNEZ.- Rúbrica.- Diputado Secretario.- JUAN FRANCISCO MENÉNDEZ PRIANTE.- Rúbrica.- Diputado Secretario.- ODÓN ABAD SIDAR FIERRO.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los quince días del mes de diciembre del año dos mil cuatro.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO RÓMULO S. ARREDONDO GUTIÉRREZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE ENERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
