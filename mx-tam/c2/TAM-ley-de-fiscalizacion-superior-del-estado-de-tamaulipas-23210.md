@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-superior-del-estado-de-tamaulipas-23210"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2007-06-05"
+last_updated: "2010-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre del 2001.
 
@@ -257,11 +257,17 @@ VI.- Una Dirección de Control y Evaluación; y,
 
 VII.- El personal profesional, técnico y de apoyo administrativo necesario para el cumplimiento de las funciones encomendadas, conforme al presupuesto aprobado.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 10.
 
-El Auditor Superior del Estado será designado por el Congreso del Estado a propuesta de la Junta de Coordinación Política, en los términos establecidos por la Constitución y la ley, para fungir por un solo período y durará en su encargo seis años. El titular de la Auditaría Superior del Estado, deberá permanecer en su cargo al término de su período, hasta que el Pleno del Congreso designe al nuevo titular.
+El Auditor Superior del Estado será designado por el Congreso del Estado a propuesta de la Junta de Coordinación Política, en los términos establecidos por la Constitución y la ley, para fungir por un período de siete años y podrá ser nombrado para un nuevo período por una sola vez.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
+
+El titular de la Auditoría Superior del Estado, deberá permanecer en su cargo al término de su período, hasta que el Pleno del Congreso designe al nuevo titular.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2007)</small>
 
 El Auditor Superior del Estado podrá ser removido sólo por las causas graves que señale la ley, que deberá juzgar y aprobar el Pleno del Congreso por el voto de cuando menos las dos terceras partes de sus integrantes. Podrá separarse del cargo por incapacidad legal para ejercer su encargo, o por enfermedad evidente y dictaminada.
 
@@ -285,9 +291,9 @@ V.- Gozar de buena reputación, y no haber sido condenado por delito intencional
 
 VI.- No haber sido, durante el año previo al de su nombramiento, titular de dependencias o entidades del poder Ejecutivo del Estado, Senador, Diputado Federal o local, Magistrado, Presidente Municipal gobernador del Estado; y (sic)
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
 
-VII.- Contar al momento de su designación con una experiencia de, al menos, cinco años en el control, administración y fiscalización de recursos;
+VII.- Contar al momento de su designación con una experiencia de, al menos, cinco años en materia de control presupuestal, auditoría financiera y de régimen de responsabilidades de servidores públicos; y,
 
 VIII.- No ser ministro de culto religioso.
 
@@ -435,6 +441,10 @@ La revisión comprenderá, la comprobación del ejercicio de las partidas de egr
 
 La fiscalización que realice la Auditoría se realizará de manera independiente y autónoma de cualquier otra forma de control interno que practiquen las entidades sujetas de fiscalización.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
+
+En cualquier caso la función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 16.
@@ -459,9 +469,15 @@ VI.- Si en la gestión financiera se cumple con las leyes, decretos, reglamentos
 
 VII.- Si la recaudación, administración y aplicación de recursos, y si los actos, contratos, convenios, concesiones u operaciones que las entidades sujetas de fiscalización celebren o realicen, se ajustan a la legalidad, y si no han causado daños o perjuicios en contra del Estado en su Hacienda Pública o al patrimonio de las entidades sujetas de fiscalización;
 
-VIII.- Las responsabilidades a que haya lugar, y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
 
-IX.- La imposición de las sanciones resarcitorias correspondientes en los términos de esta Ley.
+VIII.- Las responsabilidades a que haya lugar;
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2010)</small>
+
+IX.- Que la administración y el ejercicio de los recursos públicos de las entidades sujetas de fiscalización, observen los principios de eficiencia, eficacia, transparencia y honradez para satisfacer los objetivos a los que estén destinados; y
+
+X.- La imposición de las sanciones resarcitorias correspondientes en los términos de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
 
@@ -954,3 +970,9 @@ La Auditoría Superior del Estado presentará a la Comisión de Vigilancia de la
 ###### ARTÍCULO CUARTO.
 
 La Auditoría Superior del Estado dentro del término de seis meses, contados a partir de la publicación del presente Decreto, deberá expedir su Reglamento Interno.
+
+P.O. 20 DE ENERO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
