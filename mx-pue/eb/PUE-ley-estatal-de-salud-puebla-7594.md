@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2009-12-14"
+last_updated: "2010-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -143,7 +143,9 @@ VIII. La información relativa a las condiciones, recursos y servicios de salud;
 
 IX. La educación para la salud;
 
-X. La orientación y vigilancia en materia de nutrición;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+
+X. La prevención, orientación, control y vigilancia en materia de nutrición, enfermedades respiratorias, enfermedades cardiovasculares y aquéllas atribuibles al tabaquismo;
 
 XI. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
@@ -1701,21 +1703,11 @@ IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, 
 
 ###### ARTICULO 178.
 
-El Gobierno del Estado se coordinará con las Autoridades Sanitarias Federales para la ejecución en el Estado del programa contra el tabaquismo, que comprenderá, entre otras, las siguientes acciones:
-
-I. La prevención y el tratamiento de padecimientos originados por el tabaquismo, y
-
-II. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños, adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos.
+(DEROGADO, P.O. 20 DE ENERO DE 2010)
 
 ###### ARTICULO 179.
 
-Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
-
-I. La investigación de las causas del tabaquismo y de las acciones para controlarlas.
-
-II. La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
-
-III. La prohibición de vender tabaco a menores de edad.
+(DEROGADO, P.O. 20 DE ENERO DE 2010)
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
@@ -2952,6 +2944,12 @@ PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 14 DE DICIEMBRE DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE ENERO DE 2010.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
