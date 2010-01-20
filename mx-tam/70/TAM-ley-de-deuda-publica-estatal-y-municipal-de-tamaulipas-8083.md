@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-deuda-publica-estatal-y-municipal-de-tamaulipas-8083"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-30"
-last_updated: "2009-04-30"
+last_updated: "2010-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DEUDA PUBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 30 de diciembre de 1995.
 
@@ -113,27 +113,33 @@ Son órganos en materia de deuda pública dentro de sus respectivas competencias
 
 Al Congreso del Estado le corresponde:
 
-I.- Solicitar los informes necesarios para analizar y aprobar en su caso, las solicitudes de financiamiento estatal y municipales, en los que se incluirán los de sus organismos descentralizados, empresas de participación mayoritaria estatal o municipal y de sus fideicomisos.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+
+I.- Solicitar los informes necesarios para analizar y aprobar, en su caso, las solicitudes de financiamiento estatal y municipal, en los que se incluirán los de sus organismos descentralizados, empresas de participación mayoritaria estatal o municipal y de sus fideicomisos. Asimismo, podrá otorgar la autorización para la contratación de financiamientos aún y cuando no medie solicitud de parte de las Entidades Públicas, cuando existan circunstancias que así lo requieran o se cuente con recursos suficientes para el pago de sus obligaciones.
 
 II.- Aprobar los montos de endeudamiento neto anual a que se refieren las Leyes de Ingresos del Estado y Municipios. El Presupuesto de Egresos del Estado debe incluir las cantidades necesarias para atender el servicio de la deuda previamente contraída.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2010)</small>
 
-III.- Autorizar en los términos de la fracción anterior la afectación en garantía de pago, tanto de las participaciones en ingresos federales que correspondan al Estado o Municipios, de los Fondos de Aportaciones para la Infraestructura Social Municipal y Estatal, como las estatales en el caso de los Municipios, así como los bienes muebles e inmuebles y los derechos de cobro propiedad de las entidades públicas.
+III.- Autorizar en los términos de las fracciones anteriores la afectación como fuente o garantía de pago, o ambas, tanto de las participaciones o las aportaciones federales que correspondan al Estado o sus municipios, como las estatales en el caso de los Municipios, así como los bienes muebles e inmuebles y los derechos de cobro propiedad de las entidades públicas, así como los mecanismos necesarios para instrumentar el servicio de la deuda a través de las afectaciones señaladas, mismas que se realizarán de conformidad a la legislación aplicable.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
 Tratándose de contratos de proyectos para la prestación de servicios, cuando impliquen el otorgamiento de la garantía estatal, la misma se regirá por lo dispuesto en la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+
 ###### ARTICULO 10.
 
-El Congreso del Estado, previa solicitud debidamente justificada de las Entidades Públicas, por conducto del Ejecutivo Estatal, podrá autorizar a ejercer montos de endeudamiento adicionales a los incluidos en las Leyes de Ingresos Estatal y Municipales, cuando a juicio del propio Congreso se presenten circunstancias extraordinarias que así lo exijan.
+El Congreso del Estado, aún cuando no medie solicitud previa de parte de las entidades públicas, por conducto del Ejecutivo Estatal podrá autorizar a ejercer montos de endeudamiento adicionales a los incluidos en las Leyes de Ingresos del Estado y de los Municipios, cuando a juicio del propio Congreso se presenten circunstancias extraordinarias que así lo exijan o cuenten con la capacidad de pago para cumplir con las obligaciones derivadas de la deuda que contraerán, en términos del artículo 22 de esta ley.
 
 ###### ARTICULO 11.
 
 Al Ejecutivo del Estado le compete:
 
-I.- Presentar al Congreso del Estado la Iniciativa de Ley de Ingresos en la que incluirá el monto de endeudamiento neto necesario para el financiamiento complementario del Presupuesto de Egresos del Estado, mismo que deberá contener las partidas necesarias para el servicio de la deuda contraida con anterioridad, así como la descripción de las garantías que se pretenden afectar.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+
+I.- Presentar al Congreso del Estado la iniciativa de Ley de Ingresos en la que incluirá el monto de endeudamiento neto necesario para el financiamiento complementario del Presupuesto de Egresos del Estado, mismo que deberá contener las partidas necesarias para el servicio de la deuda contraída con anterioridad, así como la descripción de la fuente, garantías de pago o ambas que se pretenden afectar, de conformidad con la legislación aplicable.
 
 II.- Informar trimestralmente al Congreso del Estado de la situación de la Deuda Pública del Estado, a más tardar cuarenta y cinco días posteriores al trimestre y ordenar la publicación de los informes en el Periódico Oficial.
 
@@ -149,15 +155,15 @@ II.- Celebrar los contratos para la obtención de créditos y demás operaciones
 
 III.- Reestructurar los créditos contratados como deudor directo o responsable solidario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
 
-IV.- Afectar en garantía de pago de las obligaciones contraídas directamente o como avalista, las participaciones que en ingresos federales correspondan al Estado, de los Fondos de Aportaciones para la Infraestructura Social Estatal, así como los bienes muebles e inmuebles y los derechos de cobro propiedad del Estado.
+IV.- Previa aprobación del Congreso, afectar en fuente, garantía de pago, o ambas, de las obligaciones contraídas directamente o como avalista, las participaciones e inclusive, las aportaciones federales que le correspondan al Estado, así como los bienes muebles e inmuebles y los derechos de cobro propiedad del Estado, de conformidad con la legislación aplicable.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
 
-Para este efecto podrá celebrar los actos jurídicos necesarios a través de los cuales se establezcan fuentes alternas de pago de las obligaciones derivadas de la contratación o suscripción de deuda pública.
+V.- Asesorar a los municipios del Estado en todo lo relativo a la obtención de recursos crediticios, la contratación de empréstitos, créditos y otras operaciones financieras para sí o para sus organismos descentralizados, fideicomisos o las empresas de participación municipal mayoritaria, incluyendo, en su caso, la gestión en representación de ellos cuando dos o más se lo soliciten, para la obtención de autorizaciones globales para tales efectos.
 
-V.- Asesorar a los Municipios del Estado que se lo soliciten, en la formulación de sus proyectos financieros y en todo lo relativo a la obtención de recursos crediticios, contratación de los mismos y otras operaciones financieras.
+Asimismo, previa autorización del Congreso, podrá realizar las gestiones o formalizar los instrumentos para que los municipios afecten como garantía, fuente de pago, o ambas, las participaciones e, inclusive, las aportaciones federales que les corresponda o cualquier otro ingreso que les correspondan de conformidad con la legislación aplicable y constituir los mecanismos a los que se puedan adherir los municipios por las obligaciones contraídas directamente o por sus organismos, inscritas en el Registro a que se refiere esta ley.
 
 VI.- Consignar en el Proyecto de Presupuesto de Egresos la (sic) partidas necesarias para el servicio de la deuda contraída.
 
@@ -173,7 +179,9 @@ X.- Vigilar que la capacidad de pago de Las Entidades Públicas que soliciten fi
 
 XI.- Formular los informes a que se refiere el Artículo 11 Fracción II de esta ley.
 
-XII.- Inscribir en el Registro Estatal de Deuda Pública, las obligaciones financieras derivadas de la contratación por parte de Las Entidades Públicas, anotando el monto, características y destino de los recursos, institución acreedora, garantías afectadas y vencimientos.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+
+XII.- Inscribir en el Registro Estatal de Deuda Pública, las obligaciones financieras derivadas de la contratación por parte de las entidades públicas, anotando el monto, características y destino de los recursos, institución acreedora, fuente, garantía de pago, o ambas, afectadas y vencimientos.
 
 XIII.- Solicitar y obtener créditos directos a corto plazo cuyos montos no se considerarán de Deuda Pública y se contraten bajo las condiciones siguientes:
 
@@ -199,11 +207,19 @@ XV.- Establecer la comunicación oficial necesaria con las autoridades federales
 
 Corresponde a los Municipios:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
 
-I.- Presentar al Congreso del Estado su iniciativa de Ley de Ingresos, en la que incluirá el monto de endeudamiento neto necesario para el financiamiento complementario del Presupuesto de Egresos, mismo que deberá contener las partidas necesarias para el servicio de la deuda contraída con anterioridad, así como la descripción de las garantías que se pretendan afectar.
+I.- Presentar al Congreso del Estado su iniciativa de Ley de Ingresos, en la que incluirá el monto de endeudamiento neto necesario para el financiamiento complementario del Presupuesto de Egresos, mismo que deberá contener las partidas necesarias para el servicio de la deuda contraída con anterioridad, así como la descripción de la fuente y, en su caso, la garantía de pago que se pretenda afectar.
 
 II.- Informar mensualmente a la Legislatura, de la situación de la Deuda Pública del Municipio, a más tardar quince días hábiles posteriores al mes y publicar trimestralmente los informes en el Periódico Oficial del Estado dentro de los cuarenta días siguientes al trimestre.
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2010)</small>
+
+III.- Formalizar contratos y convenios para la obtención de empréstitos, créditos y demás operaciones de Deuda Pública, suscribiendo los instrumentos requeridos para el efecto, incluyendo los mecanismos o su adhesión a los mismos para otorgar la garantía o fuente de pago de las operaciones de financiamiento a su cargo.
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2010)</small>
+
+IV.- Sin perjuicio de la autorización que se le otorgue por el Congreso, autorizar en fuente o garantía de pago, o ambas, de las obligaciones que contraiga, la afectación de sus ingresos derivados de contribuciones, impuestos, derechos, productos, aprovechamientos, participaciones e inclusive, a las aportaciones federales, así como cualquier ingreso que le corresponda, de conformidad a la legislación aplicable.
 
 ###### ARTICULO 14.
 
@@ -245,7 +261,9 @@ IV.- Recabar y mantener información actualizada sobre la solvencia económica y
 
 V.- Cuidar que la negociación, contratación y cumplimiento de los compromisos pactados en materia de deuda por las entidades públicas se apegue a las bases previstas en esta ley.
 
-VI.- Dictaminar si proceden las solicitudes de créditos por parte del Gobierno del Estado y respecto de las garantías que se pretende afectar.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+
+VI.- Dictaminar si proceden las solicitudes de créditos por parte del Gobierno del Estado y respecto de la fuente y, en su caso, la garantía de pago que se pretende afectar, de conformidad con la legislación aplicable.
 
 VII.- Dictaminar, previa solicitud, si procede la garantía del Estado a Las Entidades Públicas mencionadas en las fracciones II al V del Artículo 2 de la presente ley y establecer los requisitos que deben observarse en estos casos.
 
@@ -261,9 +279,11 @@ X.- Conocer el planteamiento y desahogo de comunicaciones con las autoridades fe
 
 Las Entidades Públicas, sólo podrán obtener créditos con las limitantes de endeudamiento neto autorizadas por la Legislatura Estatal, con excepción de lo dispuesto en los Artículos 10 y 12 fracción XIII de esta Ley y que cuenten además, con la resolución favorable del Comité Técnico de Financiamiento.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+
 ###### ARTICULO 18.
 
-Los créditos que contraten Las Entidades Públicas, así como las garantías que el Estado otorgue, deberán estar inscritos en el Registro Estatal de Deuda Pública.
+Los créditos que contraten las entidades públicas, así como las garantías que el Estado otorgue, deberán estar inscritos en el Registro Estatal de Deuda Pública y, en su caso, ante la instancia competente de la Secretaría de Hacienda y Crédito Público, cuando así se requiera en términos de la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2003)</small>
 
@@ -279,7 +299,9 @@ III.- Citarán, tanto en el acta de emisión como en los títulos, los fundament
 
 Para efectos de esta ley, deben entenderse por inversiones públicas productivas, todas aquéllas destinadas a la ejecución de obras públicas, adquisición o manufactura de bienes y prestación de servicios públicos, siempre que en forma directa o indirecta produzcan incremento en los ingresos del Estado, de los Municipios o de sus respectivos organismos descentralizados, empresas públicas o fideicomisos.
 
-Cuando el Estado celebre operaciones de sustitución o canje de deuda con base en lo previsto por la fracción VIII del artículo 58 de la Constitución Política del Estado, de dará cuanta al Congreso sobre las mejores condiciones financieras que se hubieren contratado y el destino del ahorro para inversiones públicas productivas al remitirse el informe a que se refiere el artículo 11, fracción II, de esta ley.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+
+Cuando el Estado celebre operaciones de sustitución o canje de deuda con base en lo previsto por la fracción VII del artículo 58 de la Constitución Política del Estado, se dará cuenta al Congreso sobre las mejores condiciones financieras que se hubieren contratado y el destino del ahorro para inversiones públicas productivas al remitirse el informe a que se refiere el artículo 11, fracción II, de esta ley.
 
 ### CAPITULO CUARTO. DE LAS OBLIGACIONES DERIVADAS DE LAS OPERACIONES DE ENDEUDAMIENTO
 
@@ -337,11 +359,13 @@ Para la modificación del registro efectuado, deberán cumplirse los requisitos 
 
 Para la cancelación del registro efectuado, deberá comprobarse fehacientemente el pago total de las obligaciones que fueron materia de registro.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 28.
 
-La inscripción de las obligaciones a cargo de los Municipios confiere a los acreditantes el derecho a que sus créditos, en caso de incumplimiento, se cubran con cargo a las participaciones y al Fondo de Aportaciones para la Infraestructura Social Municipal afectados en garantía, deduciendo su importe de las que correspondan a aquéllos. Para este efecto, el acreditante deberá presentar su solicitud de pago ante la Secretaría de Finanzas del Estado, comunicándolo simultáneamente a la entidad pública deudora; la Secretaría confirmará la mora existente y, en su caso, efectuará el pago respectivo con cargo a las participaciones y al Fondo de Aportaciones para la Infraestructura Social Municipal afectados, informándolo al Municipio correspondiente.
+La inscripción de las obligaciones a cargo de los Municipios confiere a los acreditantes el derecho a que sus créditos se cubran con cargo a las participaciones e inclusive, las aportaciones afectadas en fuente o en garantía de pago, según corresponda, deduciendo su importe de las que correspondan a aquéllos.
+
+En tratándose de la garantía y en caso de incumplimiento, el acreditante deberá presentar su solicitud de pago ante la Secretaría de Finanzas del Estado, comunicándolo simultáneamente a la entidad pública deudora; la Secretaría confirmará la mora existente y, en su caso, efectuará el pago respectivo con cargo a las participaciones e inclusive, a las aportaciones afectadas, informándolo al Municipio correspondiente.
 
 T R A N S I T O R I O S
 
@@ -404,3 +428,9 @@ P.O. 30 DE ABRIL DE 2009.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
