@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2009-07-07"
+last_updated: "2010-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -281,11 +281,11 @@ Respecto de las aportaciones que reciban con cargo a este Fondo, los municipios 
 
 Los Presidentes Municipales garantizarán que los recursos provenientes de este Fondo y que tengan como destino la satisfacción de los requerimientos del área de seguridad pública, sean utilizados exclusiva y responsablemente en dicho rubro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 24.
 
-Las aportaciones con cargo a los Fondos señalados en este capítulo, no se destinarán a fines distintos de los expresados en la Ley de Coordinación Fiscal, y no serán objeto de embargo, gravamen, afectación en garantía, ni se destinarán a mecanismos de fuente de pago, salvo por lo dispuesto en los artículos 50 y 51 de dicha ley.
+Las aportaciones con cargo a los Fondos señalados en este capítulo, no serán embargables, ni se destinarán a fines distintos de los expresados en la Ley de Coordinación Fiscal, pero se podrán otorgar en fuente de garantía de pago, o ambas; serán cubiertas en efectivo y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 50 de la Ley de Coordinación Fiscal.
 
 > <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2009)</small>
 
@@ -418,6 +418,12 @@ DECRETO No. LX-566, POR EL QUE SE ADICIONAN LOS ARTICULOS 21 Y 23 DE LA LEY DE C
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE JULIO DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 2010.
 
 ###### ARTICULO UNICO.
 
