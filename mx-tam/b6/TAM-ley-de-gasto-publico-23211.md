@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2009-04-30"
+last_updated: "2010-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE GASTO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -493,9 +493,11 @@ La información señalada en el párrafo anterior será proporcionada conforme a
 
 En los casos en que las dependencias y entidades a que se refiere el artículo anterior, no proporcionen la información solicitada por los medios establecidos, la Secretaría de Finanzas tendrá la facultad de obtener dicha información en los términos del artículo 79 de esta ley, y podrá solicitar la intervención de la Contraloría Gubernamental.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+
 ###### ARTICULO 79.
 
-La Secretaría de Finanzas queda facultada para suspender la asignación de los egresos autorizados a los programas, cuando no se proporcione la información que solicite en los términos del artículo 77 de esta ley o cuando por conducto de la Contraloría Gubernamental se detecten desviaciones en las metas o en el destino del gasto.
+La Secretaría de Finanzas está facultada para suspender la asignación de los egresos autorizados a los programas, cuando no se proporcione la información que solicite en los términos del artículo 77 de esta ley o cuando por conducto de la Contraloría Gubernamental se detecten desviaciones en las metas o en el destino del gasto, salvo en el supuesto de los recursos destinados al servicio de la deuda contratada en términos de la Ley de Deuda Pública Estatal y Municipal de Tamaulipas.
 
 T R A N S I T O R I O S
 
@@ -554,3 +556,9 @@ DECRETO No. LX-566, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 51 DE 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
