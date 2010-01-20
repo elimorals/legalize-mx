@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2009-09-10"
+last_updated: "2010-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -2057,7 +2057,7 @@ En las causas que hubieren de formarse a los Magistrados en funciones, una vez q
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-### CAPITULO II. De los Otros Órganos de Impartición de Justicia
+### CAPITULO II. De los Otros Organos de Impartición de Justicia
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -2379,11 +2379,13 @@ Cuando dos o más centros urbanos situados en territorios municipales de este Es
 
 Cuando un acuerdo del ayuntamiento sea violatorio de la Constitución Federal o del Estado, o de cualquier otra ley, u ostensiblemente perjudicial a los intereses municipales, el Ejecutivo dará cuenta inmediatamente al Congreso para que resuelva lo conducente.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### Art. 136.
 
-La policía preventiva municipal estará al mando del presidente municipal, en los términos del reglamento correspondiente. Aquella acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+La policía preventiva estará al mando del presidente municipal, en los términos de la Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
 
 El Gobernador del Estado tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente.
 
@@ -2500,6 +2502,14 @@ Para los efectos de las responsabilidades a que se refiere este Título, se repu
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por delitos graves del orden común.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
+
+Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado y los Municipios sólo estarán obligados a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
+
+La autoridad estatal y municipal, a fin de propiciar el fortalecimiento del sistema de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes, instrumentarán sistemas complementarios de seguridad social.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -3844,6 +3854,12 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 10 DE SEPTIEMBRE DE 2009.
 
 Artículo Unico. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO QUINTO.
 
