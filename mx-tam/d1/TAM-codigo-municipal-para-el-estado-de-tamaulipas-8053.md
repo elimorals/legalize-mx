@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2010-01-07"
+last_updated: "2010-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -519,7 +519,9 @@ XVII.- Aceptar herencias, legados y donaciones que se hagan al Municipio, siempr
 
 XVIII.- Cumplir con las disposiciones de la Ley para la Entrega-Recepción de los Recursos Asignados a los Poderes y Ayuntamientos del Estado, haciendo entrega de los mismos al Ayuntamiento entrante.
 
-XIX.- Enviar al Congreso para su estudio y aprobación, las bases de contratación de empréstitos que afecten ejercicios fiscales futuros.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
+
+XIX.- Enviar al Congreso para su estudio y dictamen y, en su caso, aprobación, las bases de contratación de empréstitos que afecten ejercicios fiscales futuros, salvo que el Congreso emita la autorización cuando a su juicio existan circunstancias que así lo requieran o se cuente con los recursos suficientes para el pago de sus obligaciones.
 
 XX.- Fomentar las actividades productivas, educativas, culturales y deportivas.
 
@@ -641,9 +643,13 @@ b).- Se requerirá el acuerdo de las dos terceras partes de los miembros de los 
 
 8.- Contratos de garantía, como hipoteca, fianza y prenda.
 
-9.- Todos aquellos convenios, contratos y negocios jurídicos que afecten el patrimonio del Municipio, cuando la duración de los mismos exceda el periodo del Ayuntamiento.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
-En los casos a que se refiere este inciso, el Acuerdo de Cabildo se remitirá posteriormente, mediante la iniciativa correspondiente, al Congreso del Estado, para su autorización. También se requerirá ésta para la aceptación de herencias, legados y donaciones onerosas.
+9.- Todos aquellos convenios, contratos o negocios jurídicos que afecten el patrimonio del Municipio, cuando la duración de los mismos exceda el periodo del Ayuntamiento, aún en los casos en que se cuente con la autorización del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+
+En los supuestos previstos por este inciso, el acuerdo de Cabildo se remitirá adjunto a la iniciativa que al efecto se presente ante el Congreso del Estado. Igualmente ocurrirá en los casos que se solicite autorización para la aceptación de herencias, legados o donaciones onerosas.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2006)</small>
 
@@ -3830,3 +3836,9 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Las concesiones o los contratos de prestación de servicios de cualquier naturaleza, previstos en el artículo 172 de este Código, que actualmente presten los particulares a los Municipios, respecto a su duración, se sujetarán a lo dispuesto en el presente Decreto.
+
+P.O. 20 DE ENERO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
