@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-quejas-en-materia-de-fiscalizacion-y-72222"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-28"
-last_updated: "2009-12-28"
+last_updated: "2010-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE QUEJAS EN MATERIA DE FISCALIZACION Y VIGILANCIA DE LOS RECURSOS DE LOS PARTIDOS POLITICOS EN EL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO DE QUEJAS EN MATERIA DE FISCALIZACION Y VIGILANCIA DE LOS RECURSOS DE LOS PARTIDOS POLITICOS EN EL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO DE QUEJAS EN MATERIA DE FISCALIZACIÓN Y VIGILANCIA DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2009.
 
@@ -57,9 +57,13 @@ IV. Instituto Electoral: El Instituto Electoral y de Participación Ciudadana de
 
 V. Consejo General: El Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
 
-VI. Dirección de Fiscalización: La Dirección de Fiscalización de los Recursos de los Partidos Políticos del Consejo General Electoral;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-VII. Coordinación: La Coordinación de la Dirección de Fiscalización de los Recursos de los Partidos Políticos;
+VI. Comisión de Fiscalización: La Comisión de Fiscalización de los Recursos de los Partidos Políticos;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+VII. Dirección de Fiscalización: La Dirección de Fiscalización de los Recursos de los Partidos Políticos del Consejo General Electoral;
 
 VIII. Departamento Jurídico: El Departamento Jurídico de la Dirección de Fiscalización de los Recursos de los Partidos Políticos;
 
@@ -85,9 +89,13 @@ La abrogación, derogación, reforma o adición de las normas contenidas en este
 
 La Dirección de Fiscalización es el órgano responsable de substanciar los procedimientos de queja que versen sobre el financiamiento y gastos de los partidos políticos.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 7.
 
-En caso de que durante la substanciación de los procedimientos que regula este Reglamento, se advierta la posible violación a ordenamientos legales ajenos a la competencia de la Dirección de Fiscalización, ésta solicitará al Consejo General que dé parte a las autoridades competentes.
+La Dirección de Fiscalización informará lo conducente a la Comisión de Fiscalización, en caso de que durante la substanciación de los procedimientos que regula este Reglamento, advierta la posible violación a ordenamientos legales ajenos a la esfera de su competencia.
+
+Asimismo, se solicitará a la Dirección General del Instituto Electoral, que proceda a dar parte a las autoridades competentes, previo acuerdo del Consejo General.
 
 ###### ARTÍCULO 8.
 
@@ -115,9 +123,11 @@ II. Si la queja se refiere a hechos imputados a un partido político o coalició
 
 III. Cuando la Dirección de Fiscalización resulte incompetente para conocer los hechos denunciados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 13.
 
-La Dirección de Fiscalización podrá determinar el sobreseimiento del procedimiento de queja en los siguientes casos:
+La Dirección de Fiscalización podrá proponer a la Comisión de Fiscalización la determinación del sobreseimiento de una queja en los siguientes casos:
 
 I. Habiendo sido admitida la queja, sobrevenga alguna de las causales de improcedencia;
 
@@ -137,9 +147,11 @@ I. Litispendencia, que se actualiza cuando existe identidad entre las partes, la
 
 II. Conexidad de la causa, cuando hay identidad conductas o acciones denunciadas por dos o más quejosos.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 16.
 
-El Departamento jurídico podrá proponer para su aprobación a la Dirección de Fiscalización, la acumulación de expedientes al inicio, durante la substanciación del procedimiento o para la resolución de la queja. En caso de resulta (sic) procedente, la Dirección de Fiscalización emitirá un acuerdo en el que deberán exponer los razonamientos que motivaron la acumulación.
+La Dirección de Fiscalización podrá proponer para su aprobación a la Comisión de Fiscalización, la acumulación de expedientes al inicio, durante la substanciación del procedimiento o para la resolución de la queja. En caso de resultar procedente, la Dirección de Fiscalización emitirá un acuerdo en el que deberán exponer los razonamientos que motivaron la acumulación.
 
 ###### ARTÍCULO 17.
 
@@ -235,9 +247,11 @@ Las pruebas admitidas serán valoradas en su conjunto, atendiendo a las reglas d
 
 En el caso de existir imposibilidad material para compulsar las copias simples que obren en el expediente, éstas tendrán únicamente el valor de un indicio.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 32.
 
-Concluido el periodo de desahogo de pruebas, las partes dispondrán de un término de dos días para presentar por escrito, los alegatos que estime convenientes. Agotado lo anterior, la Dirección de Fiscalización ordenará el cierre de instrucción, y procederá dentro de los quince días siguientes, a elaborar el proyecto de dictamen correspondiente.
+Concluido el período de desahogo de pruebas, las partes dispondrán de un término de dos días para presentar por escrito, los alegatos que estime convenientes. Agotado lo anterior, la Dirección de Fiscalización ordenará el cierre de instrucción, asimismo, procederá dentro de los diez días siguientes, a elaborar el proyecto de dictamen correspondiente y lo remitirá a la Comisión de Fiscalización para su dictaminación.
 
 ###### ARTÍCULO 33.
 
@@ -251,15 +265,23 @@ III. Consideraciones y fundamentos legales;
 
 IV. Opiniones particulares y el examen y valoración de las pruebas aportadas y admitidas;
 
-V. Puntos resolutivos y en su caso, las sanciones correspondientes, y
+V. Puntos resolutivos y en su caso, las sanciones correspondientes, y (sic)
 
-VI. Fecha y firma del Titular de la Dirección de Fiscalización.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+VI. Fecha y firma de los integrantes de la Comisión de Fiscalización, y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2010)</small>
+
+VII. En su caso, el voto razonado de quien así lo quiera manifestar.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 34.
 
-La Dirección de Fiscalización celebrará reunión de trabajo, previa invitación a las partes involucradas en el procedimiento de queja, expedida por lo menos con veinticuatro horas de anticipación, para dar a conocer el proyecto de dictamen. Los Consejeros Electorales podrán participar en la reunión, únicamente con derecho a voz, emitiendo las opiniones particulares del asunto a tratar.
+La Comisión de Fiscalización celebrará sesión de dictaminación, previa convocatoria expedida por lo menos con veinticuatro horas de anticipación, para dar a conocer el proyecto de dictamen. Los consejeros electorales que no pertenezcan a ésta Comisión, podrán participar en los trabajos únicamente con derecho a voz.
 
-Posteriormente, la Dirección de Fiscalización remitirá a la Presidencia del Consejo General, el proyecto de dictamen correspondiente.
+Posteriormente, se remitirá al Consejo General, el dictamen emitido por la Comisión de Fiscalización, para su resolución definitiva.
 
 ###### ARTÍCULO 35.
 
@@ -296,3 +318,17 @@ CONSEJERO PRESIDENTE
 LIC. DANIEL GARCÍA GARCÍA
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ENERO DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación por el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su aprobación por parte del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado.
+
+TERCERO.- Se ordena la publicación de los puntos resolutivos del presente dictamen en el Periódico Oficial del Estado de Baja California.
