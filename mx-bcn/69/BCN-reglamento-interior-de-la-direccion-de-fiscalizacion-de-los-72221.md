@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-direccion-de-fiscalizacion-de-los-722
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-28"
-last_updated: "2009-12-28"
+last_updated: "2010-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DE LA DIRECCION DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS DEL CONSEJO GENERAL ELECTORAL
 
-REGLAMENTO INTERIOR DE LA DIRECCION DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS DEL CONSEJO GENERAL ELECTORAL
+REGLAMENTO INTERIOR DE LA DIRECCIÓN DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS DEL CONSEJO GENERAL ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2009.
 
@@ -59,9 +59,13 @@ V. Instituto Electoral: El Instituto Electoral y de Participación Ciudadana del
 
 VI. Consejo General: El Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
 
-VII. Dirección de Fiscalización: La Dirección de Fiscalización de los Recursos de los Partidos Políticos del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-VIII. Coordinación: La Coordinación de la Dirección de Fiscalización de los Recursos de los Partidos Políticos;
+VII. Comisión de Fiscalización: La Comisión de Fiscalización de los Recursos de los Partidos Políticos;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+VIII. Dirección de Fiscalización: La Dirección de Fiscalización de los Recursos de los Partidos Políticos del Consejo General Electoral;
 
 IX. Departamento Jurídico: El Departamento jurídico de la Dirección de Fiscalización de los Recursos de los Partidos Políticos, y
 
@@ -89,25 +93,31 @@ La Dirección de Fiscalización es el órgano técnico del Consejo General que t
 
 La Dirección de Fiscalización ejercerá las atribuciones que le confiere el artículo 84 de la Ley, y contará con la siguiente estructura:
 
-I. La Coordinación;
+I. (DEROGADA, P.O. 22 DE ENERO DE 2010)
 
 II. El Departamento Jurídico, y
 
-III. El Departamento de Fiscalización.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+III. El Departamento de Fiscalización, con el personal de auditoria de conformidad con la disponibilidad presupuestal; (sic)
 
 ###### ARTÍCULO 8.
 
 El Director de Fiscalización será designado por el Consejo General, en los términos que establece el artículo 83 de la Ley. Durará en su encargo cuatro años, pudiendo ser reelecto por una ocasión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 9.
 
-El titular de la Dirección de Fiscalización tendrá la facultad de designar o remover a los titulares de las áreas referidas en el artículo 7 de este Reglamento, los cuales deberán reunir los siguientes requisitos:
+El titular de la Dirección de Fiscalización tendrá la facultad de designar o remover al personal de las áreas referidas en el artículo 7 de este Reglamento, los cuales deberán reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano, en ejercicio de sus derechos político electorales y civiles, estar inscrito en el Padrón Electoral y contar con Credencial para Votar expedida por el Registro Federal de Electores;
 
 II. Haber obtenido título profesional a nivel Licenciatura, en áreas o disciplinas vinculadas a las funciones del cargo;
 
-III. En el caso del Coordinador deberá tener Licenciatura en Contaduría Pública, y
+III. (DEROGADA, P.O. 22 DE ENERO DE 2010)
+
+(REPUBLICADA, P.O. 22 DE ENERO DE 2010)
 
 IV. Acreditar experiencia profesional mínima de tres años en el área de que corresponda.
 
@@ -121,9 +131,11 @@ La Dirección de Fiscalización podrá realizar la contratación de servicios pr
 
 La Dirección de Fiscalización en el ejercicio de las atribuciones previstas por la Ley, deberá observar los acuerdos del Consejo General, las normas de información financiera, las normas de auditoría generalmente aceptadas, las normas de auditoría gubernamentales, así como los convenios de apoyo y colaboración suscritos en materia de fiscalización de los recursos de los partidos políticos con el Instituto Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 12.
 
-Para el cumplimiento de las atribuciones que la Ley le confiere, corresponde a la Dirección de Fiscalización:
+Corresponde al Director de Fiscalización para el cumplimiento de las atribuciones que la Ley le confiere, las siguientes funciones:
 
 I. Dirigir y evaluar el desarrollo de los programas y acciones internas, así como el despacho de los asuntos administrativos;
 
@@ -133,13 +145,17 @@ III. Proponer y promover programas de modernización, simplificación y desconce
 
 IV. Tramitar y atender los requerimientos de información y documentación que soliciten los distintos órganos del Instituto Electoral para el ejercicio de sus propias atribuciones, observando las reservas y confidencialidad legal para su difusión;
 
-V. Formular las opiniones e informes sobre los asuntos de su competencia, que le solicite los integrantes del Consejo General;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+V. Formular las opiniones e informes sobre los asuntos de su competencia, que le soliciten los miembros de la Comisión de Fiscalización y los consejeros electorales del Consejo General;
 
 VI. Requerir a las personas físicas o morales, públicas o privadas, la información necesaria sobre las operaciones que realicen con los partidos políticos o coaliciones;
 
 VII. Recibir, tramitar y dar respuesta a las consultas que presenten los partidos políticos o coaliciones, respecto del registro contable de sus ingresos y egresos, las características de la documentación comprobatoria y en general, sobre el manejo de sus recursos;
 
-VIII. Recibir, tramitar y dar respuesta a las solicitudes de colaboración que presente el Instituto Federal en materia de fiscalización de los recursos de los partidos políticos; para superar las limitaciones de los secretos bancario, fiduciario o fiscal;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+VIII. Formular las solicitudes de colaboración que se presenten ante el Instituto Federal en materia de fiscalización de los recursos de los partidos políticos; para superar las limitaciones de los secretos bancario, fiduciario o fiscal;
 
 IX. Recibir, tramitar y dar respuesta a las consultas en materia de transparencia y acceso a la información pública de su competencia;
 
@@ -151,9 +167,15 @@ XII. Instaurar los procedimientos de liquidación de los partidos políticos que
 
 XIII. Elaborar el proyecto de abrogación, derogación, reforma o adición de las normas contenidas en el presente Reglamento;
 
-XIV. Celebrar convenios de coordinación con el Instituto Federal en materia de fiscalización de los recursos de los partidos políticos nacionales, previa autorización expresa del Consejo General, y
+XIV. Celebrar convenios de coordinación con el Instituto Federal en materia de fiscalización de los recursos de los partidos políticos nacionales, previa autorización expresa del Consejo General, y (sic)
 
-XV. Las demás que le sean conferidas por el Consejo General.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+XV. Fungir como Secretario Técnico de la Comisión de Fiscalización, y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2010)</small>
+
+XVI. Las demás que le sean conferidas por el Consejo General.
 
 ###### ARTÍCULO 13.
 
@@ -252,3 +274,9 @@ CONSEJERO PRESIDENTE
 LIC. DANIEL GARCÍA GARCÍA
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ENERO DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación por el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
