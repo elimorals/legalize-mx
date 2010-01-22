@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2009-11-13"
+last_updated: "2010-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>N. DE E. EN RELACION A LA ENTRADA EN VIGENCIA DEL PRESENTE ORDENAMIENTO, VEASE, SEGUN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, VER ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2010.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -4585,13 +4585,17 @@ Rechazo.- El rechazo de la solicitud de revisión no impedirá la interposición
 
 T R A N S I T O R I O S
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2010)</small>
 
-Artículo Primero.- El presente Código entrará en vigor a las cero horas de día primero de febrero del año dos mil diez en el partido judicial de Mexicali y en forma sucesiva y anual, en los demás partidos judiciales del Estado, conforme al siguiente orden:
+Artículo Primero.- El presente Código entrará en vigor a las cero horas de día tres de mayo del año dos mil diez en el partido judicial de Mexicali y en forma sucesiva en los demás partidos judiciales del Estado, conforme al siguiente orden:
 
-I. Ensenada, a partir de las cero horas del día primero de febrero del año dos mil once.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
-II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día primero de febrero del año dos mil doce.
+I.- Ensenada, a partir de las cero horas del día tres de mayo del año dos mil doce.
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
+II.- Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil trece.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -4672,3 +4676,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 13 DE NOVIEMBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor de conformidad a lo dispuesto en el artículo primero transitorio del Código de Procedimientos Penales para el Estado publicado en el Periódico Oficial el 19 de octubre de 2007.
+
+P.O. 22 DE ENERO DE 2010.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
