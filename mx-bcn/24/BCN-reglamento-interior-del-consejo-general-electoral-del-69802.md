@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-consejo-general-electoral-del-69802"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-07"
-last_updated: "2009-08-07"
+last_updated: "2010-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL CONSEJO GENERAL ELECTORAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 7 de agosto de 2009.
 
@@ -111,9 +111,11 @@ El Órgano Superior Normativo denominado Consejo General, será responsable de v
 
 El Consejero Presidente informará al Congreso del Estado, las faltas permanentes o vacantes definitivas de los Consejeros, dentro de los cinco días siguientes a que tenga conocimiento. Asimismo, se llamará al Consejero Supernumerario en orden de prelación, para su sustitución en el Consejo General, hasta en tanto se designe a la persona que ocupe la vacante.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 9.
 
-En el desempeño de sus funciones, los Consejeros recibirán una dieta mensual para cubrir los gastos que generen por el desempeño del cargo, en los términos previstos por el artículo 195, primer párrafo de la Ley.
+En el desempeño de sus funciones, los Consejeros recibirán una dieta mensual para cubrir los gastos que generen por el desempeño del cargo, en los términos previstos por el artículo 195, primer párrafo y Quinto Transitorio de la Ley.
 
 ###### ARTÍCULO 10.
 
@@ -249,6 +251,10 @@ Los integrantes del Consejo General que hayan asistido a las sesiones de Pleno, 
 
 Cuando se trate de convocatorias a reuniones de trabajo o sesiones de Pleno, se realizarán por oficio, con excepción de los casos previstos por el artículo 28 de este Reglamento.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2010)</small>
+
+Cuando exista manifestación expresa de los integrantes del Consejo General, de las Comisiones Permanentes y Especiales o de los funcionarios del Instituto Electoral, las convocatorias, actos, acuerdos o resoluciones podrán notificarse en el domicilio, siempre que sea dentro del municipio sede del Consejo General, o con la persona que hayan acreditado por escrito los integrantes del Consejo General para oír y recibir notificaciones.
+
 ### CAPÍTULO IV. DEL ORDEN DEL DÍA
 
 ###### ARTÍCULO 28.
@@ -271,21 +277,41 @@ VII.- Presentación de proyectos normativos;
 
 VIII.- Dictámenes para discusión y votación;
 
-IX.- Informes de Comisiones;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-X.- Propuestas del Consejero Presidente;
+IX. Puntos de Acuerdo para discusión y votación;
 
-XI.- Peticiones formuladas previamente por Partidos Políticos;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-XII.- Peticiones formuladas por escrito por ciudadanos;
+X. Informes de Comisiones;
 
-XIII.- Presentación de propuestas y denuncias que no comprendan reformas y adiciones a reglamentos;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-XIV.- Seguimiento de asuntos pendientes;
+XI. Propuestas del Consejero Presidente;
 
-XV.- Asuntos generales, y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-XVI.- Clausura de la Sesión.
+XII. Peticiones formuladas previamente por Partidos Políticos;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+XIII. Peticiones formuladas por escrito por ciudadanos;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+XIV. Presentación de propuestas y denuncias que no comprendan reformas y adiciones a reglamentos;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+XV. Seguimiento de asuntos pendientes;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+XVI. Asuntos generales, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2010)</small>
+
+XVII. Clausura de la Sesión.
 
 Los asuntos generales deberán registrarse por escrito en forma previa al inicio de la sesión y no podrán versar sobre asuntos señalados en alguna de las fracciones comprendidas en este artículo. Asimismo, no podrá atenderse ningún asunto en las sesiones, del que no haya sido adjuntada su documentación en la convocatoria, con excepción de los asuntos aprobados como urgentes en los términos del artículo 21 de este Reglamento.
 
@@ -361,11 +387,11 @@ V.- Las mociones de orden.
 
 El Consejero Presidente declarará abierto el debate una vez que se haya dado lectura a cualquiera de los puntos señalados en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 39.
 
-El Consejero Presidente formulará una lista de integrantes del Consejo General que pidiesen la palabra en contra y otra de los que la pidiesen a favor, para el desahogo de cada asunto, las cuales leerá íntegras antes de preguntar si algún otro miembro del Pleno desea hablar en contra o a favor e iniciar las discusiones.
-
-De no existir oradores en contra, no se abrirá el debate, procediendo de inmediato a la votación.
+El Consejero Presidente formulará una lista de integrantes del Consejo General que pidiesen la palabra en contra y otra a favor, o para hacer observaciones, posicionamientos y propuestas de modificación en el desahogo de cada asunto, las cuales (sic) leerá integras antes de preguntar si algún otro miembro del Pleno desea participar en las discusiones.
 
 ###### ARTÍCULO 40.
 
@@ -373,13 +399,19 @@ Las intervenciones en los debates y discusiones se pronunciarán personalmente y
 
 El debate se sujetará al orden siguiente:
 
-I.- Siempre se iniciará el debate con los oradores inscritos en contra; de no haberse registrado ninguno, no harán uso de la palabra los oradores a favor;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+I.- Se iniciará el debate en el orden de los oradores inscritos;
 
 II.- Cuando en el debate los integrantes del Consejo General que se inscribieren para hacer el uso de la palabra, lo hicieren solo en contra, podrán hablar todos los inscritos, pero después de que hubiesen hablado tres, el Presidente preguntará si el asunto está suficientemente discutido;
 
-III.- De no haber inscritos oradores en contra no procederá a favor;
+III.- (DEROGADA, P.O. 22 DE ENERO DE 2010)
 
-IV.- Los integrantes del Consejo General solo podrán hablar dos veces sobre el mismo asunto, con excepción de las alusiones personales, réplicas, aclaración de hechos, moción o interpelación;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+IV.- Los Integrantes del Consejo General solo podrán hablar dos veces sobre el mismo asunto, con excepción de las· alusiones personales, réplicas, aclaración de hechos, moción o interpelación, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE ENERO DE 2010)</small>
 
 V.- Cuando algún Consejero o Representante que hubiese pedido la palabra, no estuviera presente en la sala de sesiones cuando le corresponda intervenir, el Consejero Presidente desechará su participación en el asunto a tratar, en la ronda que corresponda.
 
@@ -661,6 +693,22 @@ Las Comisiones Permanentes y Especiales podrán sostener entrevistas con funcion
 
 Las Comisiones Permanentes y Especiales únicamente sesionarán con la asistencia de cuando menos dos de sus integrantes. En caso de ausencia del Presidente de la Comisión, la sesión será presidida por uno de los Consejeros Vocales presentes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2010)</small>
+
+Cuando la naturaleza de un asunto tenga conexión o relación con otra u otras comisiones podrán éstas unirse a solicitud de la Comisión de origen para el desarrollo de los trabajos en forma conjunta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2010)</small>
+
+La Comisión de origen será la responsable de elaborar y presentar la resolución o dictamen al Pleno del Consejo General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2010)</small>
+
+Las Comisiones Unidas serán de carácter transitorio y se extinguirán cumplido el objetivo u objetivos que la formaron.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2010)</small>
+
+En las comisiones permanentes y especiales del Consejo General, cuando la naturaleza de los asuntos lo amerite, podrán participar en las discusiones todos los Consejeros Electorales a invitación del Presidente de la Comisión respectiva, reservándose el derecho de voto únicamente a los miembros de la Comisión.
+
 ###### ARTÍCULO 81.
 
 Son atribuciones de la Comisión del Régimen de Partidos Políticos:
@@ -743,6 +791,28 @@ X.- Conocer y dictaminar sobre la integración de las casillas especiales, apoy�
 
 XI.- Las demás que conforme a la naturaleza del asunto a tratar, le sean conferidas por la Ley o el Consejo General.
 
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
+
+ARTÍCULO 84 BIS.- Son atribuciones de la Comisión de Fiscalización de los Recursos de los Partidos Políticos:
+
+I. Conocer y dictaminar respecto del registro contable de los ingresos y egresos de los partidos políticos o coaliciones;
+
+II. Conocer y dictaminar respecto al establecimiento de las características que deba contener la documentación comprobatoria sobre el manejo de los recursos;
+
+III. Conocer y dictaminar lo relativo a los requisitos que deberán satisfacer los informes de ingresos y egresos de los partidos políticos o coaliciones;
+
+IV. Conocer y dictaminar sobre los proyectos de financiamiento público permanente y de campaña, que puedan erogar los partidos políticos o coaliciones en las elecciones locales;
+
+V. Conocer y dictaminar sobre los informes de resultados y proyectos de resolución de las auditorías y verificaciones practicadas a los partidos políticos o coaliciones;
+
+VI. Conocer y dictaminar sobre los informes de gastos de campaña que presencen (sic) los partidos políticos o coaliciones, para cada una de las campañas en las elecciones respectivas;
+
+VII. Conocer y dictaminar sobre los informes anuales de la totalidad de los ingresos obtenidos y de los gastos ordinarios realizados durante el ejercicio objeto del informe, que presenten los partidos políticos o coaliciones;
+
+VIII. Conocer y dictaminar lo relativo a las quejas sobre financiamiento y gasto de los partidos políticos, y
+
+IX. Las demás que conforme a la naturaleza del asunto a tratar, le sean conferidas por la Ley o el Consejo General.
+
 ## TÍTULO QUINTO. DE LOS FUNCIONARIOS DEL CONSEJO GENERAL
 
 ### CAPÍTULO I. DEL CONSEJERO PRESIDENTE DEL CONSEJO GENERAL
@@ -804,6 +874,72 @@ La ausencia del Secretario Fedatario en las sesiones de Pleno, será cubierta po
 El Secretario Fedatario será el responsable de vigilar que las notificaciones que requiera formular el Consejo General, se efectúen conforme a la Ley.
 
 Contará en su estructura con el apoyo de un Coordinador Jurídico y un Coordinador de Partidos Políticos, para el debido cumplimiento de sus funciones; asimismo, tendrá a su disposición un Notificador, quien estará investido de fe pública en la ejecución de los actos de su competencia y será el responsable de llevar a cabo las notificaciones que emita el Consejo General, y demás órganos normativos y técnicos del Instituto Electoral.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
+
+ARTÍCULO 89 BIS.- El Secretario Fedatario, para el cumplimiento de sus funciones contará con la siguiente estructura:
+
+I. Un Coordinador Jurídico;
+
+II. Un Coordinador de Partidos Políticos, y
+
+III. Un Notificador.
+
+El personal designado deberá reunir los mismos requisitos que para ser Secretario Fedatario del Consejo General establece la Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
+
+ARTÍCULO 89 TER.- Son funciones de la Coordinación Jurídica:
+
+I. Coordinar y supervisar la asesoría jurídica y la asistencia técnica en las sesiones del Consejo General Electoral, en las sesiones de las Comisiones de Reglamentos y Asuntos Jurídicos, y de Transparencia y Acceso a la Información Pública del Instituto Electoral y de Participación Ciudadana;
+
+II. Coordinar y supervisar la recepción, trámite y substanciación de los requerimientos formulados por las autoridades administrativas y jurisdiccionales;
+
+III. Coordinar y supervisar la elaboración y revisión de los convenios que requiera suscribir el Instituto Electoral con los organismos electorales administrativos y jurisdiccionales, con las autoridades federales, estatales y municipales, y con los centros de enseñanza;
+
+IV. Coordinar y supervisar la asesoría jurídica y la asistencia técnica y logística para la elaboración de los proyectos de abrogación, derogación, reforma o adición de los Reglamentos del Consejo General y del Instituto Electoral;
+
+V. Coordinar y supervisar la integración de los expedientes con las actas de los cómputos distritales;
+
+VI. Coordinar y supervisar la recepción, seguimiento y respuesta de las solicitudes de Acceso a la Información;
+
+VII. Coordinar y supervisar las actividades del personal asignado bajo su cargo, y
+
+VIII. Las demás que le sean conferidas por el Secretario Fedatario.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
+
+ARTÍCULO 89 QUATER.- Son funciones de la Coordinación de Partidos Políticos:
+
+I. Prestar la asesoría legal correspondiente a la Secretaría, a la Comisión del Régimen de Partidos Políticos, y en su caso, a los representantes de los partidos políticos o coaliciones;
+
+II. Coordinar y supervisar la elaboración de dictámenes, puntos de acuerdo, informes u opiniones de la Comisión del Régimen de Partidos Políticos;
+
+III. Coordinar y supervisar la integración de los archivos de los partidos políticos correspondientes a su registro, convenios de fusión o coalición y candidatos a los cargos de elección popular;
+
+IV. Mantener actualizado el directorio de los integrantes de los órganos directivos y sus representantes acreditados ante los Consejos del Instituto Electoral;
+
+V. Coordinar y supervisar la substanciación del Procedimiento Sancionador Ordinario, en relación con las quejas y denuncias turnadas a la Comisión del Régimen de Partidos Políticos;
+
+VI. Coordinar y supervisar la recepción y seguimiento a las solicitudes que formulen los ciudadanos que pretendan constituirse como partidos políticos estatales;
+
+VII. Coordinar y supervisar las actividades del personal asignado bajo su cargo, y
+
+VIII. Las demás que le sean conferidas por el Secretario Fedatario.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
+
+ARTÍCULO 89 QUINQUES.- Son funciones del Notificador:
+
+I. Llevar a cabo las notificaciones que requiera el Consejo General y sus Comisiones;
+
+II. Elaborar las convocatorias y los acuerdos emanados del Consejo General;
+
+III. Elaborar la lista de asistencia de las sesiones y reuniones de trabajo;
+
+IV. Integrar los expedientes de las sesiones del Consejo General, y
+
+V. Las demás que le sean conferidas por el Secretario Fedatario.
 
 ### CAPÍTULO III. DE LOS CONSEJEROS
 
@@ -901,9 +1037,17 @@ El Director de Fiscalización tendrá además las atribuciones siguientes:
 
 I.- Estar presente en las sesiones del Pleno, con derecho a voz, previa autorización del Consejo General, para atender únicamente los asuntos de su competencia;
 
-II.- Presentar al Consejo General, los informes, opiniones, puntos de acuerdo o dictámenes en materia de financiamiento público y quejas que se presenten en relación a la fiscalización de los recursos de los Partidos Políticos, y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-III.- Las demás que le confiera la Ley, este Reglamento, los Reglamentos de la materia o los acuerdos del Consejo General.
+II.- Presentar a la Comisión del Consejo General que corresponda, el proyecto de Reglamento de la materia, y los demás informes, opiniones, puntos de acuerdo o dictámenes en materia de financiamiento público y quejas que se presenten en relación a la fiscalización de los recursos de los Partidos Políticos:
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+III.- Fungir como Secretario Técnico de la Comisión de Fiscalización de los Recursos de los Partidos Políticos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2010)</small>
+
+IV.- Las demás que le confiera la Ley, este Reglamento, los Reglamentos de la materia o los acuerdos del Consejo General.
 
 ###### ARTÍCULO 101.
 
@@ -1003,7 +1147,7 @@ En todos los supuestos a que se refiere el párrafo anterior, deberá acompañar
 
 ###### ARTÍCULO 115.
 
-Para la presentación de la cuenta pública anual al Congreso del Estado, el Consejo General ordenará la práctica de una auditoría externa que se contratará con apego en lo dispuesto en la Ley de la materia y con base en los lineamientos que emita la Contraloría General. Una vez concluida, será turnada al Pleno del Consejo General para su conocimiento, quien ordenará su difusión en los medios de comunicación.
+(DEROGADO, P.O. 22 DE ENERO DE 2010)
 
 ###### ARTÍCULO 116.
 
@@ -1211,23 +1355,29 @@ Para el registro de convenios de fusión se deberá observar el procedimiento qu
 
 ### CAPÍTULO V. DEL FINANCIAMIENTO PÚBLICO
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 140.
 
-La Dirección de Fiscalización formulará los Proyectos de Financiamiento Público Permanente y de campaña, los cuales se someterán al Consejo General, en los términos de la Ley.
+La Dirección de Fiscalización formulará los Proyectos de Financiamiento Público Permanente y de Campaña, los cuales remitirá a la Comisión de Fiscalización de los Recursos de los Partidos Políticos para su análisis, discusión, aprobación en su caso, y remisión al Consejo General del proyecto de resolución respectivo, en los términos de la Ley.
 
 ###### ARTÍCULO 141.
 
 Los Partidos Políticos integrarán un órgano interno responsable de la obtención del Financiamiento Público. El titular deberá estar acreditado ante la Dirección de Fiscalización, y será el único que recibirá las ministraciones del financiamiento.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 142.
 
-Las quejas que se formulen en materia de fiscalización y vigilancia de los recursos de los Partidos Políticos, se presentarán ante la Dirección de Fiscalización, la cual instruirá los procedimientos administrativos correspondientes.
+Las quejas que se formulen en materia de fiscalización y vigilancia de los recursos de los Partidos Políticos, se presentarán ante la Dirección de Fiscalización, la cual instruirá los procedimientos administrativos correspondientes y una vez formulado el proyecto de resolución lo remitirá a la Comisión de Fiscalización de los Recursos de los Partidos Políticos para su análisis, discusión, aprobación en su caso, y remisión al Consejo General del proyecto de resolución respectivo, en los términos de la Ley.
 
 ### CAPÍTULO VI. DE LOS TOPES DE GASTOS DE CAMPAÑA
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 143.
 
-La Dirección de Fiscalización formulará el proyecto de topes máximos de gastos de campaña que puedan erogar los Partidos Políticos o Coaliciones en las elecciones locales, en los términos previstos por los artículos 268, 269, 270 y 271 de la Ley, y someterlos para su aprobación al Consejo General.
+La Dirección de Fiscalización formulará el proyecto de topes máximos de gastos de campaña que puedan erogar los Partidos Políticos o Coaliciones en las elecciones locales, en los términos previstos por los artículos 268, 269, 270 y 271 de la Ley, los cuales remitirá a la Comisión de Fiscalización de los Recursos de los Partidos Políticos para su análisis, discusión, aprobación en su caso, y remisión al Consejo General del proyecto de resolución respectivo, en los términos de la Ley.
 
 ### CAPÍTULO VII. DE LOS DEBATES DE CAMPAÑA
 
@@ -1356,3 +1506,9 @@ CONSEJERO PRESIDENTE
 C. DANIEL GARCÍA GARCÍA
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ENERO DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación por el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
