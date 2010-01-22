@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-direccion-general-del-instituto-70552
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-09"
-last_updated: "2009-10-09"
+last_updated: "2010-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DE LA DIRECCIÓN GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 9 de octubre de 2009.
 
@@ -185,13 +185,21 @@ Esta Dirección, para el cumplimiento de sus atribuciones durante el proceso ele
 
 La Coordinación de Participación Ciudadana y Educación Cívica contará en su estructura interna con un Departamento de Educación Cívica.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2010)</small>
+
+Esta Coordinación, para el cumplimiento de sus atribuciones tendrá una Delegación en cada uno de los Municipios, de conformidad con la disponibilidad presupuestal existente y en los términos que autorice el Director General.
+
 ###### ARTÍCULO 18.
 
 La Coordinación de Procesos Electorales contará con la siguiente estructura:
 
-I. Departamento de Organización Electoral, y
+I. Departamento de Organización Electoral, y (sic)
 
 II. Departamento de Capacitación Electoral.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ENERO DE 2010)</small>
+
+III. Departamento de Enlace Institucional.
 
 ###### ARTÍCULO 19.
 
@@ -476,6 +484,32 @@ XIII. Coadyuvar en la integración del anteproyecto de presupuesto de egresos;
 XIV. Desarrollar las funciones que le sean encomendadas dentro del ámbito de su competencia, y
 
 XV. Las demás que le confiera el Reglamento o el Director.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
+
+ARTÍCULO 30 BIS.- El Departamento de Enlace Institucional tendrá las funciones siguientes:
+
+I. Acordar con el Coordinador, los asuntos de su competencia;
+
+II. Ejecutar los trabajos para integrar las propuestas de los domicilios que servirán de cabecera a los Consejos Distritales y a las Delegaciones Municipales en el Estado;
+
+III. Elaborar el informe respectivo sobre la contratación de los locales donde se ubicarán los domicilios de los Consejos Distritales y las Delegaciones Municipales;
+
+IV. Operar la información generada en el Módulo de Consejos del Sistema de Información del Proceso Electoral;
+
+V. Establecer enlace con las demás áreas del Instituto para apoyar en la instalación y funcionamiento de los Consejos Distritales;
+
+VI. Coordinarse con los demás departamentos de la Dirección, para la ejecución de sus actividades;
+
+VII. Coordinar y supervisar al personal que se encuentra bajo su cargo;
+
+VIII. Elaborar y presentar mensualmente informe de actividades y de avances programáticos;
+
+IX. Coadyuvar en la integración del anteproyecto de presupuesto de egresos;
+
+X. Desarrollar las funciones que le sean encomendadas dentro del ámbito de su competencia, y
+
+XI. Las demás que le confiera el Reglamento o el Director.
 
 ### CAPÍTULO III. DE LAS FUNCIONES DE LA DIRECCIÓN EJECUTIVA DE ADMINISTRACIÓN Y DEPARTAMENTOS
 
@@ -948,3 +982,9 @@ CONSEJERO PRESIDENTE
 LIC. DANIEL GARCÍA GARCÍA
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ENERO DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación por el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
