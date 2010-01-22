@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2009-11-27"
+last_updated: "2010-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ENERO DE 2010.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -601,13 +601,59 @@ IX. Llevar a cabo las demás actividades dentro del área de su competencia, que
 
 ARTICULO 25 BIS.- Corresponde a la Dirección Ejecutiva de Vinculación y Desarrollo Institucional:
 
-I. Dirigir las actividades que permitan vincular a la Financiera con dependencias y entidades de la administración pública federal; comisiones intersecretariales y equivalentes; poderes legislativo y judicial; gobiernos de las entidades federativas; gobiernos municipales; organismos académicos y empresariales de los sectores privado y social; organizaciones de productores y organismos internacionales a fin de enriquecer las políticas relacionadas con el objeto de la Financiera;
+I. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-II. Supervisar el seguimiento a las solicitudes de información hechas por las dependencias y entidades, así como los señalados en la fracción anterior;
+II. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-III. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director General Adjunto Técnico y de Instrumentación Legal, y
+III. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-IV. Generar vínculos estratégicos y de cooperación, así como propiciar la celebración de convenios de colaboración e intercambio de información, experiencias y tecnología, con entidades nacionales e internacionales.
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+IV. Promover vínculos estratégicos y de cooperación, así como propiciar la celebración de convenios de colaboración e intercambio de información, experiencias y tecnología, con entidades nacionales e internacionales;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+V. Coordinar las acciones para el establecimiento de vínculos interinstitucionales y con los sectores públicos, privados, académicos y sociales, nacionales e internacionales;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VI. Coordinar reuniones y eventos con instituciones vinculadas al sector rural, instituciones académicas, empresas y organismos nacionales e internacionales;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VII. Establecer y mantener canales de comunicación y mecanismos de coordinación con los entes vinculados al sector;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VIII. Dar seguimiento a las iniciativas legislativas y a puntos de acuerdo de las cámaras vinculados al sector rural;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+IX. Coordinar la atención de requerimientos de los sujetos vinculados con la Institución;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+X. Fungir como Titular de la Unidad de Enlace y dirigir y coordinar las acciones para el cumplimiento de las disposiciones conforme a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XI. Asegurar el cumplimiento y difundir los acuerdos del Comité de Información;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XII. Coordinar la instrumentación de los mecanismos de acceso a la información pública institucional en apego a las disposiciones en la materia;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XIII. Coordinar la atención de solicitudes de información pública y vigilar el cumplimiento de las resoluciones del Instituto Federal de Acceso a la Información (IFAI);
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XIV. Coordinar la actualización de la información del Portal de Obligaciones de Transparencia, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XV. Coordinar el registro de trámites ante la Comisión Federal de Mejora Regulatoria (COFEMER).
 
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
 
@@ -617,7 +663,23 @@ I. Efectuar las actividades que permitan vincular a la Financiera con dependenci
 
 II. Dar seguimiento a las solicitudes de información hechas por las dependencias y entidades, así como los señalados en la fracción anterior;
 
-III. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director Ejecutivo de Vinculación y Desarrollo Institucional.
+III. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director Ejecutivo de Vinculación y Desarrollo Institucional;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+IV. Organizar reuniones y eventos con instituciones vinculadas al sector;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+V. Establecer y mantener comunicación con todas las entidades, dependencias, empresas y organismos vinculados con la Institución;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VI. Formular recomendaciones sobre los programas de financiamiento, apoyo y capacitación, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VII. Coordinar y facilitar las reuniones de los directivos de la Institución con las autoridades de los gobiernos estatales y municipales y con los representantes de las distintas organizaciones.
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -683,9 +745,13 @@ Corresponde a la Dirección Ejecutiva de Análisis Sectorial:
 
 I. Dirigir las actividades encaminadas al análisis del mercado objetivo de la Financiera Rural, identificando áreas de oportunidad que permitan a la Institución mantener una participación activa en el desarrollo del sector rural;
 
-II. Dirigir el análisis de las tendencias nacionales e internacionales de los mercados agropecuarios, forestales, pesqueros y todos los demás sectores vinculados al medio rural a fin de contribuir en la identificación de nuevas oportunidades, así como al mejoramiento de los programas y productos de crédito y los programas de apoyo de la Institución;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-III. Generar y difundir información sectorial de manera oportuna, enriqueciendo la información sectorial disponible en la Institución, particularmente en las áreas encargadas de analizar y autorizar las solicitudes de crédito, y brindando información relevante a los clientes de la Institución principalmente a través de la página web, o bien, a través de cualquier otro medio que se estime pertinente;
+II. Dirigir el análisis de las tendencias nacionales e internacionales de los mercados agropecuarios, forestales, pesqueros y todos los demás sectores vinculados al medio rural a fin de contribuir en la identificación de nuevas oportunidades de negocio, así como al mejoramiento de los programas y productos de crédito y los programas de apoyo de la Institución;
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+III. Generar y difundir información sectorial de manera oportuna, enriqueciendo la información sectorial disponible en la Institución, particularmente en las áreas encargadas de analizar y autorizar las solicitudes de crédito, y brindando información relevante a los clientes de la Institución a través de la página web, o bien, a través de cualquier otro medio que se estime pertinente;
 
 IV. Dirigir las funciones de análisis y evaluación del impacto de los diferentes instrumentos de política gubernamental enfocada al desarrollo del sector rural;
 
@@ -693,7 +759,9 @@ V. Dirigir las funciones vinculadas con la planeación estratégica de la instit
 
 VI. Dirigir los trabajos de evaluación interna y externa de los programas de apoyo sujetos a reglas de operación que se determinen en el Presupuesto de Egresos de la Federación y dar seguimiento a las recomendaciones que de dicha evaluación emanen, así como a la normatividad que en materia de evaluación de estos programas resulte aplicable; y
 
-VII. Las demás funciones que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -729,17 +797,17 @@ I. Coadyuvar en la coordinación y evaluación de la operación crediticia de la
 
 II. Participar en el desarrollo y mantenimiento del sistema de información gerencial, que permita generar y administrar la información de la operación crediticia de la Institución;
 
-> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-III. Preparar los reportes de seguimiento de las Coordinaciones Regionales y de las Agencias;
+III. Coordinar la preparación de los reportes de seguimiento de las Coordinaciones Regionales y de las Agencias;
 
-> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-IV. Analizar los avances de las áreas operativas respecto de los programas de trabajo previamente establecidos;
+IV. Analizar los avances de las áreas operativas respecto de los programas crediticios previamente establecidos;
 
-> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-V. Preparar la información que por Ley y disposiciones normativas debe ser entregada a entidades reguladoras de la Institución;
+V. Coordinar la preparación de la información que por Ley y disposiciones normativas debe ser entregada a entidades reguladoras de la Institución;
 
 VI. (DEROGADA, D.O.F. 19 DE JUNIO DE 2009)
 
@@ -773,17 +841,15 @@ XII. Las demás que le encomiende el Director Ejecutivo de Enlace y Evaluación 
 
 Corresponde a la Dirección Ejecutiva Fiduciaria:
 
-> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-I. Emitir lineamientos para el desarrollo de la actividad fiduciaria, de avalúos y la relacionada con mandatos y comisiones en la Financiera;
+I. Proponer lineamientos para el desarrollo de la actividad fiduciaria y la relacionada con mandatos, comisiones y avalúos en la Financiera;
 
-> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-II. Dictar lineamientos para la contratación, administración y operación del servicio fiduciario, de avalúos, mandatos y comisiones;
+II. Proponer lineamientos para la contratación, administración y operación del servicio fiduciario, mandatos y comisiones y de avalúos;
 
-> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
-
-III. Emitir procedimientos en materia de promoción y contratación fiduciaria, de avalúos, mandatos y comisiones;
+III. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
 > <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
@@ -797,9 +863,7 @@ V. Emitir procedimientos de supervisión en el desarrollo de las actividades en 
 
 VI. Supervisar el cumplimiento de los fines de los negocios fiduciarios a cargo de la Financiera;
 
-> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
-
-VII. Emitir lineamientos para la gestión y administración de avalúos, mandatos y comisiones, así como de control de los peritos valuadores externos;
+VII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
 > <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
@@ -807,11 +871,23 @@ VIII. Supervisar la ejecución de las disposiciones de la Comisión Nacional Ban
 
 > <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-IX. Realizar la actividad de administración de fondos que deriven de las disposiciones aplicables y que le sean encomendadas; y
+IX. Realizar la actividad de administración de fondos que deriven de las disposiciones aplicables y que le sean encomendadas; y (sic)
 
 > <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
-X. Supervisar el cumplimiento de los lineamientos y procedimientos aplicables en materia de negocios fiduciarios, avalúos, mandatos y comisiones.
+X. Supervisar el cumplimiento de los lineamientos y procedimientos aplicables en materia de negocios fiduciarios, avalúos, mandatos y comisiones;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XI. Desarrollar procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de mandatos, comisiones y avalúos;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XII. Desarrollar procesos, metodologías y procedimientos que reduzcan los riesgos operativos de los negocios fiduciarios, mandatos, comisiones y avalúos, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XIII. Generar y proponer políticas y estrategias para el desarrollo de los negocios fiduciario y de avalúos.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -853,7 +929,9 @@ Para tal efecto, se constituyen las Gerencias Regionales de Supervisión y Cobra
 
 Corresponde a la Subdirección Corporativa de Mesa de Control:
 
-I. Establecer los mecanismos para que las operaciones de crédito se apeguen a los términos y condiciones aprobados por los órganos e instancias facultadas;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+I. Establecer los mecanismos para que las operaciones de crédito y reporto se apeguen a los términos y condiciones aprobados por los órganos e instancias facultadas;
 
 > <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -861,13 +939,25 @@ II. Coordinar que periódicamente las agencias designadas, cuenten en el guardav
 
 III. Llevar a cabo aquellas funciones y actividades que correspondan al área de influencia establecidas en la normatividad aplicable, incluyendo las recomendaciones en materia de control interno realizadas por las autoridades competentes;
 
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+IV. Coordinar el procesamiento de las operaciones de crédito y reporto en la mesa de control;
+
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-IV.- Coordinar que sean procesadas las operaciones de crédito de la mesa de control; y
+V. Establecer los mecanismos de verificación y autorización de la liberación de recursos;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-V.- Establecer los mecanismos de verificación y autorización de la liberación de recursos.
+VI. Dirigir las acciones, para verificar que los documentos valor que respaldan las operaciones de financiamiento realizadas, se encuentren registrados y resguardos en los lugares definidos por los Coordinadores Regionales;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VII. Verificar los indicadores de control que evidencien la fortaleza de las medidas de control interno, así como su mejora y mantenimiento, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VIII. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director General Adjunto de Crédito.
 
 ###### ARTICULO 34.
 
@@ -881,15 +971,25 @@ Corresponde a la Subdirección Corporativa de Análisis de Crédito:
 
 I. Desempeñar la función de Secretario del Comité de Crédito;
 
-II. Integrar las carpetas con los asuntos que deban ser sometidos a consideración del Comité de Crédito con la información que envíen los subcomités de crédito y demás instancias;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-III. Supervisar y apoyar las actividades de análisis de las gerencias de análisis de crédito de las coordinaciones regionales;
+II. Dirigir la integración de las carpetas con los asuntos que deban ser sometidos a consideración del Comité de Crédito con la información que envíen los subcomités de crédito y demás instancias o áreas competentes;
 
-IV. Coordinar las actividades internas y externas relacionadas con las sociedades de información crediticia, conforme a las políticas aplicables;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-V. Coordinar y proponer programas de capacitación en materia de análisis, normatividad y procesos de crédito, y
+III. Apoyar y vigilar las actividades de las Gerencias de Coordinación Regional de Análisis de Crédito;
 
-VI. Desarrollar y proponer a las instancias que corresponda herramientas y elementos de apoyo para el análisis de crédito.
+IV. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+V. Coordinar y proponer programas de capacitación en materia de análisis y procesos de crédito;
+
+VI. Desarrollar y proponer a las instancias que corresponda herramientas y elementos de apoyo para el análisis de crédito;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VII. Coordinar la agenda de asuntos sometidos a consideración del Comité de Crédito que deban ser turnados al Comité de Operación o Consejo Directivo, en materia de crédito.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -897,25 +997,35 @@ VI. Desarrollar y proponer a las instancias que corresponda herramientas y eleme
 
 Corresponde a la Subdirección Corporativa de Normatividad de Crédito:
 
-I. Elaborar y proponer el Manual de Normas y Políticas de Crédito así como sus modificaciones o ajustes;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-II. Elaborar y proponer las circulares normativas e interpretaciones respecto al Manual de Normas y Políticas de Crédito y demás políticas, lineamientos, normas, reglas y procedimientos;
+I. Coordinar y proponer el Manual de Normas y Políticas de Crédito y el Manual de Normas y Políticas de Reporto así como sus modificaciones o ajustes;
 
-III. Mantener actualizadas las normas, políticas y procedimientos aplicables al proceso de crédito y actuar como área consultiva en dichas materias;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-IV. Elaborar y proponer los procedimientos de crédito así como sus modificaciones;
+II. Coordinar y proponer las circulares normativas e interpretaciones respecto al Manual de Normas y Políticas de Crédito y el Manual de Normas y Políticas de Reporto y demás políticas, lineamientos, normas, reglas y procedimientos;
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+III. Mantener actualizadas las normas, políticas y procedimientos aplicables al proceso de crédito y de reporto y actuar como área consultiva en dichas materias;
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+IV. Coordinar y proponer los procedimientos de crédito y de reporto, así como sus modificaciones;
 
 V. Coordinar los trabajos de calificación de cartera e integrar la información para su presentación y autorización por parte de las instancias correspondientes;
 
-> <small>(REFORMADA, D.O.F. 15 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-VI. Llevar a cabo el seguimiento del proceso de crédito;
+VI. Coordinar el seguimiento del proceso de crédito;
 
 VII. Coordinar y proponer programas de capacitación en materia de normatividad y procesos de crédito;
 
-> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 2008)</small>
+VIII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-VIII. Llevar a cabo el seguimiento de crédito a productores e intermediarios financieros rurales.
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+IX. Coordinar la supervisión a los almacenes Generales de Depósito como emisores de Certificados de Depósito, en el marco del Manual de Normas y Políticas de Reporto.
 
 > <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
 
@@ -927,11 +1037,17 @@ II. Coordinar y supervisar el desempeño de la recuperación y cobranza que efec
 
 III. Diseñar y proponer mecanismos de supervisión, seguimiento y vigilancia que permitan identificar, evaluar y corregir el desempeño de las acciones de supervisión y cobranza preventiva, administrativa y extrajudicial que realicen las Coordinaciones Regionales;
 
-IV. Coordinar y establecer estrategias con el área jurídica, para el seguimiento y atención de la cartera vencida que requiera cobranza extrajudicial y para traspaso en su momento a cobranza judicial;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-V. Evaluar la calidad de los reportes de seguimiento al acreditado, durante la vigencia del crédito;
+IV. Coordinar y establecer estrategias con el área jurídica, para el traspaso, seguimiento y atención de la cartera vencida que requiera cobranza extrajudicial;
 
-VI. Promover la correcta administración e integración de los expedientes de crédito;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+V. Evaluar la calidad de los reportes de seguimiento al acreditado, durante la vigencia del financiamiento;
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VI. Coordinar la correcta administración e integración de los expedientes de financiamiento;
 
 VII. Coordinar el seguimiento de crédito a productores e intermediarios financieros rurales y de otras figuras jurídicas, y
 
@@ -1013,21 +1129,21 @@ XVII. (DEROGADA, D.O.F. 19 DE JUNIO DE 2009)
 
 Corresponde a la Dirección Ejecutiva de Atención y Fomento a Productores, Organizaciones y Empresas Rurales:
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-I. Diseñar los programas, planes, proyectos, y acciones destinadas al diseño, incubación y fortalecimiento de proyectos productivos, empresas rurales, entidades dispersoras de crédito e intermediarios financieros rurales;
+I. Diseñar los programas, planes, proyectos, y acciones destinadas al diseño, incubación y fortalecimiento de proyectos productivos y empresas rurales;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-II. Diseñar estrategias para simplificar la atención de los usuarios de los servicios crediticios de la Financiera Rural, mediante la asociación de los Productores y el desarrollo de proyectos productivos, empresas rurales, entidades dispersoras de crédito e intermediarios financieros rurales;
+II. Diseñar estrategias para simplificar la atención de los usuarios de los servicios crediticios de la Financiera Rural, mediante la asociación de los Productores y el desarrollo de proyectos productivos y empresas rurales;
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 III. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-IV. Coordinar los convenios celebrados con los sectores público, social y privado destinados a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de proyectos productivos, entidades dispersoras de crédito e intermediarios financieros rurales, y (sic)
+IV. Coordinar los convenios celebrados con los sectores público, social y privado destinados a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de proyectos productivos;
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1051,15 +1167,21 @@ VIII. Coadyuvar en el establecimiento, dirección y supervisión de la promoció
 
 Corresponde a la Subdirección Corporativa de Atención a Productores, Organizaciones y Empresas Rurales:
 
-I. Coordinar los programas, planes, proyectos para proporcionar los apoyos y servicios de promoción, organización, capacitación, asesoría y otras modalidades que contribuyan al diseño, incubación y fortalecimiento de los proyectos productivos, empresas rurales y organizaciones de Productores para el mejor uso de los recursos crediticios y controlar la calidad de los mismos;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+I. Coordinar los programas, planes, proyectos para proporcionar los apoyos y servicios de promoción, organización, capacitación, asesoría y otras modalidades que contribuyan al diseño, incubación y fortalecimiento de los proyectos productivos, empresas rurales y organizaciones de Productores para el mejor uso de los recursos crediticios;
 
 II. Coordinar las estrategias para simplificar la atención de los usuarios de los servicios crediticios de la Financiera Rural, mediante el fomento de la asociación de los Productores, el fortalecimiento técnico de sus organizaciones y el desarrollo de proyectos productivos y de empresas rurales;
 
-III. Coordinar las acciones previstas en los convenios celebrados con los sectores público, social y privado destinadas a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de los proyectos productivos, empresas rurales y organizaciones de Productores;
+III. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-IV. Aprobar y coordinar la asignación de los recursos destinados a los apoyos y servicios para los proyectos productivos, empresas rurales y organizaciones de Productores, y
+IV. Aprobar y coordinar la asignación de los recursos destinados a los apoyos y servicios para los proyectos productivos, empresas rurales y organizaciones de Productores, y (sic)
 
-V. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares.
+V. Solicitar información relacionada con el ejercicio de sus atribuciones a los particulares;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VI. Coordinar las acciones previstas en los programas para la inscripción de prestadores de servicios en la Red de Prestadores de Servicios de la Financiera Rural.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ABRIL DE 2008)</small>
 
@@ -1079,9 +1201,9 @@ II. Coordinar las estrategias para simplificar la atención a los usuarios de lo
 
 III. Coordinar las acciones previstas en los convenios celebrados con los sectores público, social y privado destinadas a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de entidades dispersoras de crédito e Intermediarios Financieros Rurales;
 
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-IV. Aprobar y coordinar la asignación de los recursos destinados a los apoyos y servicios para las entidades dispersoras de crédito e Intermediarios Financieros Rurales, y (sic)
+IV. Autorizar y coordinar la asignación de los recursos destinados a los apoyos y servicios para las entidades dispersoras de crédito e Intermediarios Financieros Rurales;
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1109,21 +1231,35 @@ ARTICULO 40 BIS.- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2008)
 
 (DEROGADO, D.O.F. 23 DE ENERO DE 2008)
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE ENERO DE 2010)</small>
 
-ARTICULO 41 BIS.- Corresponde a la Dirección Ejecutiva de Diseño de Programas y Productos:
+ARTICULO 41 BIS.- Corresponde a la Dirección Ejecutiva de Programas y Productos:
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
 I. Proponer la creación y adecuación de programas y productos de crédito o garantía, de acuerdo a las necesidades del mercado y objetivos de la Institución y participar activamente en el desarrollo e implementación de los mismos;
 
-II. Supervisar la implantación de los programas de colocación diseñados en conjunto con el Gobierno Federal, Estatal y/o Municipal, con Intermediarios Financieros Rurales, así como los programas de microcrédito, a través de los distintos procesos y productos de crédito que ofrece la Financiera;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+II. Supervisar la implantación de los programas de colocación diseñados en conjunto con el Gobierno Federal, Estatal y/o Municipal, así como los programas de microcrédito, a través de los distintos procesos y productos de crédito que ofrece la Financiera;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
 III. Coordinar la investigación de campo a fin de conocer los movimientos y tendencias del sector en la oferta de productos y servicios; coordinar la investigación de campo que permita un continuo monitoreo de la rentabilidad de los productos y servicios que ofrece la institución a su clientela;
 
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
 IV. Elaborar en coordinación con otras áreas de la institución, en su caso, estudios que propicien mejores condiciones de mercado y la conveniencia de operar nuevos productos y servicios, que permitan a la Institución ofrecer un servicio integral y competitivo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
 V. Instrumentar los programas específicos que en materia de financiamiento rural se determinen en el Presupuesto de Egresos de la Federación, en los que se podrán incluir programas de tasa preferenciales, así como coordinarse con instancias que aporten capital de riesgo para el apoyo de diversos proyectos vinculados con el objeto de la Financiera;
 
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
+
 VI. Coordinar el desarrollo de programas de detección de oportunidades de negocio en las zonas rurales, con el propósito de definir estrategias de promoción orientadas a la inversión y al financiamiento de proyectos productivos que impulsen el desarrollo rural; y (sic)
+
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
 VII. Coordinar el desarrollo de esquemas y programas de detección de necesidades de financiamiento e inversión a nivel estatal y municipal, con objeto de vincularlos a los programas institucionales;
 
@@ -1213,9 +1349,17 @@ X. Coordinar el pago de remuneraciones y el otorgamiento de prestaciones en bene
 
 XI. Vigilar el cumplimiento del contrato colectivo de trabajo y de otros instrumentos normativos internos que rigen las relaciones laborales;
 
-XII. Vigilar que las unidades administrativas de la Financiera se ajusten a las estructuras orgánicas ocupacionales y salariales, y
+XII. Vigilar que las unidades administrativas de la Financiera se ajusten a las estructuras orgánicas ocupacionales y salariales, y (sic)
 
-XIII. Representar a la Financiera ante autoridades laborales, así como ante las instituciones de seguridad social y empresas que permitan mejorar los beneficios y prestaciones del personal, así como ante las organizaciones sindicales de la Institución, interviniendo en las negociaciones de las condiciones laborales, con la participación correspondiente del área jurídica.
+XIII. Representar a la Financiera ante autoridades laborales, así como ante las instituciones de seguridad social y empresas que permitan mejorar los beneficios y prestaciones del personal, así como ante las organizaciones sindicales de la Institución, interviniendo en las negociaciones de las condiciones laborales, con la participación correspondiente del área jurídica;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XIV. Formular el anteproyecto de presupuesto del Capítulo 1000 de Servicios Personales, con base al comportamiento del gasto, programas específicos de Recursos Humanos, necesidades estructurales y factores económicos y político laborales con el fin de que la Institución cuente con la suficiencia presupuestal para su operación, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XV. Coordinar la formulación de reportes solicitados por la Secretaría de la Función Pública; Programa de Transparencia y Combate a la Corrupción.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1223,33 +1367,59 @@ XIII. Representar a la Financiera ante autoridades laborales, así como ante las
 
 Corresponde a la Dirección Ejecutiva de Recursos Materiales y Servicios:
 
-I. Coordinar la formulación de políticas en materia de recursos materiales y servicios generales, para la aprobación del Director General Adjunto de Administración;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-II. Dirigir la instrumentación de las políticas relativas a los recursos materiales y servicios generales en la Financiera;
+I. Coordinar la formulación de políticas en materia de recursos materiales y servicios generales, para la aprobación de las instancias correspondientes;
 
-III. Coordinar la elaboración de las bases, lineamientos y programas anuales sobre adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, para presentación y aprobación de las instancias correspondientes;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-IV. Coordinar la elaboración de las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que la Financiera deba celebrar con terceros en estas materias, de conformidad con las normas aplicables, para presentación y aprobación de las instancias correspondientes;
+II. Dirigir la instrumentación de las políticas relativas a los recursos materiales, suministros y servicios generales en la Financiera;
 
-V. Dirigir y supervisar la instrumentación de las bases, lineamientos y programas anuales sobre adquisición, arrendamiento y enajenación de bienes muebles e inmuebles que sean patrimonio de la Financiera, de realización de obras y prestación de servicios;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-VI. Dirigir y supervisar la instrumentación de las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que la Financiera celebre con terceros en estas materias;
+III. Coordinar la elaboración de las bases, lineamientos y programas anuales sobre adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, para aprobación de las instancias correspondientes;
 
-VII. Dirigir y supervisar la licitación, adquisición de bienes, contratación de servicios, arrendamientos, obra pública y mantenimiento, conforme a la normatividad vigente;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-VIII. Dirigir y supervisar la ejecución de las políticas sobre utilización, conservación y salvaguarda de los bienes muebles e inmuebles al servicio de la Financiera;
+IV. Coordinar la elaboración de las políticas, bases y lineamientos generales que regulen los convenios, contratos, pedidos o acuerdos que la Financiera deba celebrar con terceros en estas materias, de conformidad con las normas aplicables, para aprobación de las instancias correspondientes;
 
-IX. Dirigir y evaluar el sistema de control de inventarios de bienes muebles e inmuebles, así como supervisar su operación en la Financiera;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-X. Dirigir y supervisar el uso y conservación de los equipos de transporte de la Institución con el fin de otorgar el servicio con márgenes de seguridad y funcionalidad;
+V. Dirigir la instrumentación de las bases, lineamientos y programas anuales sobre adquisición, arrendamiento y enajenación de bienes muebles e inmuebles que sean patrimonio de la Financiera, de realización de obras y prestación de servicios;
 
-XI. Dirigir y supervisar la instrumentación de las políticas de seguridad y protección civil emitidas para proteger la integridad del personal, y salvaguardar bienes muebles e inmuebles patrimonio de la Financiera, y (sic)
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-XII. Coordinar el funcionamiento de los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas, y aquellos que se instalen competencia (sic) de su área;
+VI. Dirigir la instrumentación de las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que la Financiera celebre con terceros;
 
-> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-XIII. Dirigir, instrumentar y ejecutar los actos y procedimientos derivados de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y sus respectivos reglamentos; así como instrumentar, resolver y ejecutar los procedimientos de rescisión administrativa que se implementen en la Financiera Rural.
+VII. Dirigir las estrategias para la licitación, adquisición de bienes, contratación de servicios, arrendamientos, obra pública, mantenimiento y enajenación de bienes, conforme a la normatividad vigente;
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VIII. Dirigir la ejecución de las políticas sobre utilización, conservación y salvaguarda y aseguramiento de los bienes muebles e inmuebles al servicio de la Financiera;
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+IX. Dirigir el sistema de control de inventarios de bienes muebles e inmuebles, así como supervisar su operación en la Financiera;
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+X. Dirigir el uso y conservación de los equipos de transporte de la Institución con el fin de otorgar el servicio con márgenes de seguridad y funcionalidad;
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XI. Dirigir la instrumentación de las políticas de seguridad y protección civil emitidas para proteger la integridad del personal, y salvaguardar bienes muebles e inmuebles patrimonio de la Financiera;
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XII. Coordinar el funcionamiento de los comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas, el de Bienes, el Interno de Ahorro de Energía y aquellos que se instalen competencia de su área, y
+
+XIII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XIV. Dirigir la instrumentación de las políticas para la conformación de archivos de la Financiera Rural en términos de la normatividad aplicable para tal fin.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -1287,7 +1457,11 @@ VII. Definir estrategias y políticas encaminadas al desarrollo e implantación 
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
 
-VIII. Dictar estrategias y políticas en materia operativa, encaminadas al cumplimiento de la supervisión y control de la dispersión, aplicación de la concentración de recursos, conciliación operativo-contable de las operaciones y administración de las Bases de Datos Institucionales.
+VIII. Dictar estrategias y políticas en materia operativa, encaminadas al cumplimiento de la supervisión y control de la dispersión, aplicación de la concentración de recursos, conciliación operativo-contable de las operaciones y administración de las Bases de Datos Institucionales;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+IX. Dictar estrategias y políticas en materia operativa asociadas a las diversas fuentes de fondeo disponibles en el mercado, encaminadas al cumplimiento de la supervisión y control operativo, contable o de tesorería que requieran dichos esquemas.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1295,7 +1469,7 @@ VIII. Dictar estrategias y políticas en materia operativa, encaminadas al cumpl
 
 Corresponde a la Dirección Ejecutiva de Finanzas:
 
-I. Definir metodologías para conformar el plan estratégico institucional;
+I. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
 II. Establecer directrices para la planeación financiera;
 
@@ -1303,9 +1477,9 @@ III. Supervisar la conformación de los informes de auto-evaluación;
 
 IV. Dictar lineamientos en materia contable y fiscal, encaminados al cumplimiento de las obligaciones que al respecto tiene la institución de acuerdo a las leyes y normas vigentes;
 
-V. Establecer proyectos para la implantación de sistemas de información financiera y de gestión, orientados a evaluar el desempeño institucional y satisfacer requerimientos de información internos y externos al respecto;
+V. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-VI. Establecer proyectos para la implantación y mantenimiento de sistemas de información contable y fiscal;
+VI. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
 VII. Dictar lineamientos para el cumplimiento de las normas y políticas para el registro contable, control y reportes a las autoridades de acuerdo a las distintas directrices establecidas por las autoridades financieras;
 
@@ -1313,31 +1487,37 @@ VIII. Emitir lineamientos para el control de pagos relacionados con los servicio
 
 IX. Proponer estrategias y proyectos encaminados a mejorar los resultados financieros institucionales;
 
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+X. Supervisar y dirigir el proceso de programación, presupuestación, control y seguimiento presupuestal, en apego a la normatividad establecida;
+
 > <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
 
-X. Supervisar el proceso de programación, presupuestación, control y seguimiento presupuestal, en apego a la normatividad establecida; y
+XI. Establecer los lineamientos para generar la información presupuestal para responder a los requerimientos internos y externos de las autoridades;
 
-> <small>(ADICIONADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-XI. Establecer los lineamientos para generar la información presupuestal para responder a los requerimientos internos y externos de las autoridades.
+XII. Dirigir proyectos para la implementación y/o mantenimiento de sistemas de información financiera, fiscal, contable y presupuestal, así como satisfacer requerimientos internos y externos de dicha información, y
 
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XIII. Fungir como Representante del Sistema de Gestión de Calidad ante la Alta Dirección con la responsabilidad y la autoridad para coordinar el desarrollo, implantación y mantenimiento del Sistema de Gestión de la Calidad de Financiera Rural, así como de promover su adecuación a los requisitos de la norma.
+
+> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2010)</small>
 
 ARTICULO 46 BIS.- Corresponde a la Dirección Ejecutiva de Tecnologías de la Información:
 
-I. Definir lineamientos en relación a planeación y administración de la plataforma informática y sus actualizaciones tecnológicas;
+I. Supervisar y administrar los servicios que la función de Tecnologías de la Información provee a las diferentes áreas de Financiera Rural;
 
-II. Establecer lineamientos y proyectos relativos a los servicios de soporte técnico y telecomunicaciones;
+II. Diseñar e impulsar cambios dentro de la organización funcional y sus diversos procesos de cualquier índole de la función de Tecnologías de la Información para mantener la alineación con la estrategia de ésta, los cuales deben soportar con calidad y oportunidad a los objetivos de la Financiera;
 
-III. Definir lineamientos y proyectos en relación con las adecuaciones, actualizaciones y nuevos desarrollos de sistemas aplicativos que la institución requiera o utilice;
+III. Establecer y mantener las relaciones del negocio e internamente en la función de Tecnologías de la Información, asegurando el cumplimiento de los objetivos del negocio;
 
-IV. Emitir lineamientos relativos a la operación y seguridad informática de la institución tendientes a preservar la integridad de los sistemas de cómputo y telecomunicaciones, así como la salvaguarda de la información Institucional;
+IV. Dirigir y supervisar las estrategias para la mejora continua y la optimización de los procesos definidos dentro de la función de Tecnologías de la Información bajo la aplicación de marcos referenciales, estándares y mejores prácticas de la industria, donde dichas tareas deberán cumplir con las regulaciones que el gobierno central dicte relativas a Tecnologías de la Información;
 
-V. Supervisar la identificación y evaluación de los requerimientos de bienes y servicios informáticos, y (sic)
+V. Administrar y controlar el portafolio de los proyectos para la optimización de procesos, asimismo dar seguimiento y control a los proyectos críticos de la Financiera, y
 
-VI. Proponer estrategias y proyectos de sistematización y actualización tecnológica encaminados a mejorar procesos administrativos y de operación de la institución; y
-
-VII. Las demás que le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas en el ámbito de su competencia.
+VI. Definir los procesos de operación de Tecnologías de la Información, para la optimización de los niveles de servicio existente y/o adquirido con los clientes internos, así como impulsar y liderar cambios de infraestructura y aplicaciones tecnológicas que redunden en mejoras en la calidad del servicio.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1363,11 +1543,61 @@ IV. Ejecutar Proyectos relativos a la operación y seguridad informática de la 
 
 V. Definir lineamientos para la identificación y evaluación de los requerimientos de bienes y servicios informáticos, y (sic)
 
-VI. Proponer estrategias y proyectos de sistematización y actualización tecnológica encaminados a mejorar procesos administrativos y de operación de la institución;
+VI. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
 
-VII. Las demás que le encomiende el Director Ejecutivo de Tecnologías de la Información en el ámbito de su competencia.
+VII. Las demás que le encomiende el Director Ejecutivo de Tecnologías de la Información en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VIII. Proponer y desarrollar estrategias para la mejora continua y optimización de los procesos definidos dentro de la función de Tecnologías de Información bajo la aplicación de marcos referenciales, estándares y mejores prácticas de la industria;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+IX. Vigilar el cabal cumplimiento del plan estratégico de Tecnología de la Institución, para las tareas de producción, desarrollo y de nuevos productos;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+X. Coordinar y colaborar en la implementación de los cambios dentro de la organización y procesos de la función de Tecnologías de Información para mantener la alineación con la estrategia de Tecnologías de Información y de la Financiera;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XI. Coordinar y colaborar en la definición de los lineamientos y procesos que permitan mantener la función de Tecnologías de Información asegurando el cumplimiento de los objetivos del negocio;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XII. Controlar y vigilar que los lineamientos existentes relativos a la operación y seguridad informática, tendientes a preservar la integridad de los sistemas de cómputo y telecomunicaciones, así como la salvaguarda de la información Institucional sean de prioridad absoluta;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XIII. Coadyuvar en la supervisión del cumplimiento del decreto de austeridad en lo referente a Tecnologías de Información y Comunicaciones, Gobierno Electrónico y Agenda Digital, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XIV. Supervisar la elaboración de los dictámenes para la firma del Director Ejecutivo.
+
+> <small>(ADICIONADO, D.O.F. 22 DE ENERO DE 2010)</small>
+
+ARTICULO 47 BIS.- Corresponde a la Subdirección Corporativa de Reingeniería de Procesos:
+
+I. Diseñar y proponer estrategias para asegurar una operación eficiente y de calidad de los servicios;
+
+II. Proponer, administrar y dirigir las estrategias para la mejora continua de la gestión y optimización de los procesos;
+
+III. Proponer y sustentar las mejoras a los procesos, mediante la definición de procesos automatizados en función a las necesidades de los usuarios, sin perder de vista que estén alineados a la estrategia funcional de la Financiera;
+
+IV. Diseñar y proponer los métodos y procedimientos derivados de las mejoras detectadas a los procesos, que faciliten el cumplimiento de los objetivos del negocio;
+
+V. Validar que las propuestas y la aplicación de las mejoras sean bajo la aplicación de marcos referenciales, estándares y mejores prácticas de la industria;
+
+VI. Proponer, dirigir e implementar procesos estadísticos y de referencia, que permitan realizar evaluaciones de forma permanente, mediante indicadores de gestión en las diferentes áreas de la institución;
+
+VII. Dirigir y coordinar las acciones de corrección o perfeccionamiento a los procesos implementados, para lograr la mejora continua de los procesos;
+
+VIII. Proponer los cambios factibles tecnológicos y de sistemas, derivados del análisis y evaluación de los procesos, que se consideren factibles de su automatización, y
+
+IX. Vigilar el cabal cumplimiento del plan estratégico de Tecnología de la Institución, para las tareas de planeación, control y mejora de los procesos de la Institución.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1375,9 +1605,9 @@ VII. Las demás que le encomiende el Director Ejecutivo de Tecnologías de la In
 
 Corresponde a la Subdirección Corporativa de Tesorería:
 
-I. Definir lineamientos para la administración del portafolio de inversiones, encaminados a satisfacer las necesidades de recursos de la institución;
+I. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-II. Supervisar y evaluar la administración del fondo de inversión;
+II. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
 III. Emitir lineamientos y procedimientos para la administración de la posición y flujo de efectivo en moneda nacional y extranjera de la tesorería en apego a la normatividad establecida;
 
@@ -1387,7 +1617,19 @@ V. (DEROGADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)
 
 VI. (DEROGADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)
 
-VII. Proponer estrategias y proyectos encaminados a mejorar el aprovechamiento del portafolio de inversiones.
+VII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VIII. Administrar las necesidades de recursos en moneda nacional y extranjera de la Financiera;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+IX. Administrar, supervisar y evaluar el Fondo de Inversión o Portafolio de la Financiera Rural en apego al régimen de inversión y estrategia, aprobado por el Comité de Inversión y dentro de los parámetros de exposición al riesgo establecido por el Comité de Administración Integral de Riesgos, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+X. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que por instrucción expresa le encomiende el Director General Adjunto de Finanzas, Operaciones y Sistemas.
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -1407,11 +1649,31 @@ III. Dirigir la definición, administración, operación y control de la base de
 
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
 
-IV. Establecer los lineamientos y mecanismos por los cuales optimice, con base en las necesidades de operación de la institución, la funcionalidad de los sistemas, relativos a la operación de financiamientos y apoyos institucionales; y
+IV. Establecer los lineamientos y mecanismos por los cuales optimice, con base en las necesidades de operación de la institución, la funcionalidad de los sistemas, relativos a la operación de financiamientos y apoyos institucionales; y (sic)
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2008)</small>
 
-V. Establecer mecanismos de supervisión sobre la aplicación de la concentración de los recursos recibidos.
+V. Establecer mecanismos de supervisión sobre la aplicación de la concentración de los recursos recibidos;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VI. Ser el enlace Institucional con fuentes de fondeo en temas operativos;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VII. Establecer los mecanismos para la coordinación general del proceso, la administración y el control de las Garantías y las fuentes de fondeo;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VIII. Establecer los mecanismos para la administración, supervisión y control de las conciliaciones con la fuente de Fondeo, así como el registro contable, de pagos y recuperaciones de los recursos fondeados;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+IX. Establecer los mecanismos para instrumentar la cobranza de créditos considerados como “corporativos” (PROCAMPO), así como cualquier esquema de operaciones especiales que opere la institución, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+X. Coordinar el soporte de la operación en el otorgamiento de apoyos específicamente encomendados.
 
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -1423,9 +1685,37 @@ II. Coordinar la aplicación de la concentración de los recursos recibidos;
 
 III. Coordinar que se lleve a cabo la conciliación de las cifras de cartera con la contabilidad institucional así como la definición de los perfiles de usuarios para la operación;
 
-IV. Coordinar el procesamiento de las operaciones de crédito que le envíe la mesa de control; y
+IV. Coordinar el procesamiento de las operaciones de crédito que le envíe la mesa de control; y (sic)
 
-V. Coordinar la definición, administración y operación de la base de datos de cartera institucional.
+V. Coordinar la definición, administración y operación de la base de datos de cartera institucional;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VI. Coordinar la definición, administración y operación de la base de datos de cartera institucional, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VII. Coordinar y gestionar la cobranza de créditos considerados como “corporativos” (PROCAMPO), así como cualquier esquema de operaciones especiales que opere la institución.
+
+> <small>(ADICIONADO, D.O.F. 22 DE ENERO DE 2010)</small>
+
+ARTICULO 48 QUATER.- Corresponde a la Subdirección Corporativa de Operaciones Especiales:
+
+I. Coordinar la administración y operación del descuento de cartera, con las diferentes fuentes de fondeo;
+
+II. Coordinar la definición de los lineamientos y procedimientos operativos en materia de descuento de cartera;
+
+III. Coordinar la capacitación y asesoría técnica en la operación crediticia hacia las diferentes áreas de la Financiera Rural;
+
+IV. Coordinar la difusión de las mecánicas operativas relativas al descuento de cartera y servicio de Garantía FIRA;
+
+V. Coordinar la automatización de nuevas funcionalidades en el Sistema Integral de Crédito, así como la implementación y adecuación a las funcionalidades existentes;
+
+VI. Coordinar la administración y operación del servicio de Garantías FIRA, así como la definición de los lineamientos y procedimientos aplicables;
+
+VII. Coordinar la administración, supervisión y control de las Conciliaciones con las fuentes de fondeo y del Servicio de Garantías FIRA, y
+
+VIII. Coordinar el proceso de validaciones operativas de crédito.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1583,45 +1873,73 @@ Para el ejercicio de las actividades enumeradas en el presente artículo, las co
 
 Corresponde a las agencias estatales de Crédito Rural:
 
-I. Promover y ejecutar los productos y programas de crédito y promoción con apego a los lineamientos establecidos, a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a las decisiones de la Dirección General, direcciones generales adjuntas y coordinaciones regionales;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-II. Vigilar que el proceso de originación, autorización, contratación, disposición y supervisión se realice con oportunidad, a fin de asegurar la calidad en el proceso crediticio;
+I. Coordinar y llevar a cabo la aplicación de los productos, programas y apoyos de crédito con apego a los lineamientos establecidos, a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a los objetivos de negocio establecidos;
 
-III. Coordinar las acciones y resultados de las agencias de Crédito Rural en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-IV. Vincular los diferentes programas con los gobiernos estatales y municipales de su adscripción;
+II. Verificar que el proceso de originación, autorización, contratación, disposición y supervisión se realice con oportunidad, a fin de asegurar la calidad en el proceso crediticio;
 
-V. Representar a la Financiera en las comisiones que se le asignen;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-VI. Coordinar la vigilancia, evaluación y control necesario para asegurar la adecuada operación con apego a la normatividad vigente;
+III. Coordinar las acciones y resultados de las Agencias Estatales en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
 
-VII. Supervisar la correcta integración de los expedientes de crédito y la custodia de los documentos (sic) valor;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
-VIII. Proponer al coordinador regional la apertura, reubicación y clausura de agencias y módulos en su adscripción estatal;
+IV. Coordinar y vincular los diferentes programas con los gobiernos estatales y municipales de su adscripción;
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+V. Representar a la Financiera en las comisiones que se le asignen, así como legalmente en el ámbito de su competencia;
+
+VI. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
+
+VII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
+
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+VIII. Analizar y proponer al coordinador regional la apertura, reubicación y clausura de agencias y módulos en su adscripción estatal;
 
 IX. Apoyar las gestiones específicas que realicen las agencias de Crédito Rural y módulos en el ámbito de su competencia;
 
-X. Integrar los informes que le sean requeridos;
+X. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-XI. Representar legalmente a la Financiera en el ámbito de su competencia;
+XI. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-XII. Ofrecer al productor y a los Intermediarios Financieros Rurales, los servicios y productos que ponga a disposición la Financiera en cumplimiento de su objeto;
+XII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
 XIII. Atender de manera directa las solicitudes de financiamiento, asesoría y capacitación que presenten los productores y los Intermediarios Financieros Rurales;
 
-XIV. Asegurar que la presencia de la Financiera llegue a los productores e Intermediarios Financieros Rurales directamente a sus unidades de producción;
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XIV. Asegurar que la presencia de la Financiera llegue a los productores e Intermediarios Financieros Rurales directamente a sus unidades de producción, a través de la promoción en sitio;
 
 XV. Vincular las necesidades de los Productores y los Intermediarios Financieros Rurales, a fin de que las mismas sean atendidas por la Financiera;
 
-XVI. Ejecutar los programas que en materia de financiamiento rural se determinen en la Financiera;
+XVI. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
 XVII. Identificar proyectos productivos que impulsen el desarrollo rural a fin de promoverlos ante instituciones nacionales o extranjeras dedicadas a la inversión y al financiamiento;
 
-XVIII. Capacitar y asesorar de manera directa o a través de terceros, a los productores para la mejor utilización de sus recursos crediticios, así como para aquellos que decidan constituirse como Intermediarios Financieros Rurales;
+XVIII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-XIX. Proponer al coordinador regional, el domicilio de las propias agencias estatales de Crédito Rural, agencias de Crédito Rural y módulos en el ámbito estatal, y
+XIX. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
-XX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, así como aquellas que le encomiende el Coordinador Regional de su adscripción.
+> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XX. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende su jefe inmediato superior;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XXI. Participar en el área de adscripción, la operación para la guarda y custodia de documentos valor considerando para su control: la normativa para su manejo, medidas de seguridad, entrega documentos valor derivados de operaciones de crédito, consulta de documentos valor, para la salida de documentos valor por asignación jurídica y liquidación de adeudos;
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XXII. Definir acciones de coordinación para la operación de los productos y modelos de atención de crédito en las agencias, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+
+XXIII. Supervisar y coordina las gestiones y desarrollo de sus áreas, así mismo los módulos que llegaran a establecerse en su zona de influencia, verificando la atención a las funciones, actividades y comisiones asignadas.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1903,6 +2221,10 @@ XI. El Director Ejecutivo de Contraloría Interna, en calidad de asesor.
 
 Los integrantes previstos en los incisos I, II, IX, X y XI acudirán con derecho a voz pero sin voto. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
 
+> <small>(ADICIONADO, D.O.F. 22 DE ENERO DE 2010)</small>
+
+En el caso del Director General Adjunto Técnico y de Instrumentación Legal, éste podrá nombrar como suplente indistintamente al Director Ejecutivo Jurídico o a los Subdirectores Corporativos que dependen de éste.
+
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 70.
@@ -1981,11 +2303,15 @@ Para casos específicos podrán invitarse a expertos externos en calidad de ases
 
 El suplente del presidente del Comité será designado conforme a la mecánica establecida en las Reglas de Operación del Comité de Crédito.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE ENERO DE 2010)</small>
+
+En el caso del Director General Adjunto Técnico y de Instrumentación Legal, éste podrá nombrar como suplente indistintamente al Director Ejecutivo Jurídico o a los Subdirectores Corporativos que dependen de éste.
+
+> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 72.
 
-El Comité de Crédito acordará la creación de instancias locales en las coordinaciones regionales para el otorgamiento de préstamos o créditos y para atender otros asuntos relacionados con la cartera, diferentes a los de reestructuración de adeudos, hasta por la cantidad de 700,000 Unidades de Inversión y a su vez determinará las reglas de operación de dichas instancias.
+El Comité de Crédito acordará la creación de instancias locales en las coordinaciones regionales para el otorgamiento de préstamos o créditos conforme al artículo 9 fracción I de la Ley y para atender otros asuntos relacionados con la cartera, y otros financiamientos.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -2154,5 +2480,9 @@ D.O.F. 24 DE SEPTIEMBRE DE 2009.
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
 
 D.O.F. 27 DE NOVIEMBRE DE 2009.
+
+UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE ENERO DE 2010.
 
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
