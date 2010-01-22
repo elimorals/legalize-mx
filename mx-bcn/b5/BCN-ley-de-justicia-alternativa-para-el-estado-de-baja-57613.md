@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-alternativa-para-el-estado-de-baja-57613"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-19"
-last_updated: "2009-11-13"
+last_updated: "2010-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO REFORMADO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR EN LAS FECHAS Y CONFORME AL ORDEN QUE SE ESTABLECE EN EL MISMO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2010.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -855,7 +857,9 @@ II. El día 20 de abril de 2010, en el Partido Judicial de Tijuana.
 
 III. El día 20 de abril de 2011, en el Partido Judicial de Ensenada.
 
-IV. Tratándose de los medios alternativos en materia penal, las normas que se contienen en esta Ley, se comenzarán a aplicar el día primero de febrero del año dos mil diez en el Partido Judicial de Mexicali; el día primero de febrero del año dos mil once en el Partido Judicial de Ensenada y el día primero de febrero del año dos mil doce en los municipios de Tijuana, Tecate y Playas de Rosarito.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+IV. Tratándose de los medios alternativos en materia penal, las normas que se contienen en esta Ley, se comenzarán a aplicar el día tres de mayo del año dos mil diez en el Partido Judicial de Mexicali; el día primero de febrero del año dos mil once en el Partido Judicial de Ensenada y el día primero de febrero del año dos mil doce en los municipios de Tijuana, Tecate y Playas de Rosarito.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -914,3 +918,7 @@ LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN 
 P.O. 13 DE NOVIEMBRE DE 2009.
 
 ÚNICO.- Tratándose de la aplicación de los medios alternativos de justicia en materia civil, familiar y mercantil, las presentes reformas entrarán en vigor el 1 de febrero de 2010, mientras que para la substanciación de los medios alternativos en materia penal, se hará en los términos señalados en la fracción IV del artículo primero transitorio de este ordenamiento.
+
+P.O. 22 DE ENERO DE 2010.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
