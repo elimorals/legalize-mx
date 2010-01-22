@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-precampanas-electorales-para-el-estado-de-72220"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-28"
-last_updated: "2009-12-28"
+last_updated: "2010-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72220&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,378 +21,272 @@ state: "BCN"
 ---
 # REGLAMENTO DE PRECAMPAÑAS ELECTORALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE HIDALGO
+REGLAMENTO DE PRECAMPAÑAS ELECTORALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2010.
 
-Ley publicada en el Alcance Dos al Núm. 30 del Periódico Oficial del Estado de Hidalgo, el miércoles 27 de julio de 2022.
+Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2009.
 
-OMAR FAYAD MENESES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
+Con fundamento en lo previsto por el artículo 147 fracción VI, XI Y XIII, y 148 fracción VIII, de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California, se publican en el Periódico Oficial del Estado de Baja California, los Acuerdos del Pleno del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana, emitidos en su Décima Sesión Extraordinaria, realizada el día 30 de septiembre del año 2009, en la cual se aprueban los siguientes Dictámenes presentados por la Comisión del Régimen de Partidos Políticos. Dictamen Número Trece, relativo a la "Expedición del Reglamento de Precampañas Electorales para el Estado de Baja California". Dictamen Número Catorce, relativo a la "Expedición del Reglamento interior de la Dirección de Fiscalización de los Recursos de los Partidos Políticos del Consejo General Electoral". Dictamen Número Quince, relativo a la "Expedición del Reglamento de Quejas en Materia de Fiscalización y Vigilancia de los Recursos de los Partidos Políticos en el Estado de Baja California", y Dictamen Número Dieciséis, relativo a la "Expedición del Reglamento que Establece los Lineamientos Aplicables a las Prerrogativas, Fiscalización de los Recursos y Liquidación de los Partidos Políticos en el Estado de Baja California".
 
-QUE LA LXV LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE
+DICTAMEN TRECE
 
-D E C R E T O NUM. 223
+P U N T O S R E S O L U T I V O S:
 
-POR EL QUE SE EXPIDE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE HIDALGO.
+PRIMERO.- Se aprueba el Reglamento de Precampañas Electorales para el Estado de Baja California.
 
-El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
+SEGUNDO.- Se expide el Reglamento de Precampañas Electorales para el Estado de Baja California, para quedar en los términos siguientes:
 
-A N T E C E D E N T E S
-
-[...]
-
-C O N S I D E R A N D O
-
-[...]
-
-POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
-
-D E C R E T O
-
-POR EL QUE SE EXPIDE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE HIDALGO.
-
-###### ARTÍCULO ÚNICO.
-
-SE EXPIDE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE HIDALGO, para quedar como sigue:
-
-LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE HIDALGO
+REGLAMENTO DE PRECAMPAÑAS ELECTORALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 1.
+###### ARTÍCULO 1.
 
-Esta Ley es de observancia general en el Estado de Hidalgo y tiene por objeto establecer las bases y procedimientos para reconocer y ejercer el derecho a la indemnización, de las personas que sufran daños en su esfera jurídica, a través de sus bienes o derechos, como consecuencia de la actividad administrativa irregular de los entes públicos.
+El presente Reglamento tiene por objeto establecer las normas para regular las actividades que desarrollan los partidos políticos y sus precandidatos, durante los procesos internos de selección de candidatos a puestos de elección popular, en los términos de la Constitución Política del Estado Libre y Soberano de Baja California y la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California.
 
-La responsabilidad patrimonial por actividad administrativa irregular a cargo de los entes públicos es objetiva y directa, y la indemnización debe ajustarse a los términos y condiciones señalados en esta Ley y en las demás disposiciones legales de la materia.
+###### ARTÍCULO 2.
 
-###### Artículo 2.
+Para los efectos de este Reglamento se entiende por:
 
-Para los efectos de esta Ley, se entiende por actividad administrativa irregular, aquella acción u omisión que cause daño o perjuicio a los bienes yderechos (sic) de las personas particulares que no tengan la obligación jurídica de soportar, en virtud de no existir fundamento legal o causa jurídica de justificación para legitimar el daño o perjuicio de que se trate.
+I. Constitución: La Constitución Política del Estado Libre y Soberano de Baja California;
 
-###### Artículo 3.
+II. Ley: La Ley de Instituciones y Procedimientos Electorales del Estado de Baja California;
 
-Son sujetos de esta Ley, los entes públicos estatales y municipales. Paralos (sic) efectos de la misma, se entiende por entes públicos, salvo mención expresa en contrario, los Poderes del Estado, las dependencias y organismos públicos descentralizados de la Administración Pública Estatal, fideicomisos públicos estatales, empresas de participación mayoritaria estatal, organismos públicos autónomos, Ayuntamientos, dependencias de la administración pública municipal, organismos descentralizados municipales y las empresas de participación mayoritaria municipal.
+III. Reglamento: El Reglamento de Precampañas Electorales para el Estado de Baja California;
 
-La Comisión de Derechos Humanos del Estado de Hidalgo y las personas servidoras públicas que le estén adscritas, no son sujetas de responsabilidad patrimonial por las opiniones y recomendaciones que formulen, así como por los actos que realicenen (sic) ejercicio de las funciones de su competencia.
+IV. Instituto Electoral: El Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
 
-###### Artículo 4.
+V. Consejo General: El Consejo General Electoral del Instituto Electoral;
 
-Para los efectos de esta Ley, no constituye actividad administrativa irregular:
+VI. Consejero Presidente: El Consejero Presidente del Consejo General;
 
-I. Los casos fortuitos y de fuerza mayor;
+VII. Comisión: La Comisión del Régimen de Partidos Políticos del Consejo General;
 
-II. Los daños y perjuicios que no sean consecuencia de la actividad administrativa irregular de los entes públicos;
+VIII. Presidente: El Consejero Electoral del Consejo General, en su carácter de Presidente de la Comisión;
 
-III. Aquellos daños que se deriven de hechos o circunstancias que no se hubieran podido prever o evitar según el estado de los conocimientos de la ciencia o dela (sic) técnica existentes en el momento de su acaecimiento; y,
+IX. Dirección de Fiscalización: La Dirección de Fiscalización de los Recursos de los Partidos Políticos del Consejo General;
 
-IV. Aquellos casos en los que el solicitante de la indemnización o un tercero seanlos (sic) causantes del daño y perjuicio.
+X. Partidos Políticos: Los partidos políticos con acreditación o registro ante el Consejo General;
 
-Los casos previstos en este artículo, no darán lugar a indemnización alguna.
+XI. Precampaña: El conjunto de actividades que realizan los precandidatos, conforme la fracción I del artículo 217 de la Ley;
 
-###### Artículo 5.
+XII. Propaganda de precampaña: El conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones determinadas en la fracción III del artículo 217 de la Ley;
 
-Los daños y perjuicios por los que se reclame la indemnización, incluidoslos (sic) personales o morales, habrán de ser reales, evaluables en dinero, directamente remunerable en moneda nacional, relacionada con una o varias personas, y desiguales a los que pudieran afectar al común de la población.
+XIII. Precandidato: El ciudadano que decide contender al interior de un partido político, con el objeto de alcanzar su nominación a candidato a un puesto de elección popular, y
 
-###### Artículo 6.
+XIV. Lineamientos: Los acuerdos que emiten los partidos políticos, a los cuales estarán sujetos los precandidatos en la etapa de precampaña.
 
-Los entes públicos cubrirán las indemnizaciones que se determinen conforme a esta Ley, con cargo a sus respectivos presupuestos.
+###### ARTÍCULO 3.
 
-Para efectos de lo anterior, los entes públicos, deben establecer en sus respectivos presupuestos de egresos, partidas destinadas a cubrir las indemnizaciones derivadas de su actividad irregular en los términos de esta Ley.
+Para la ejecución y aplicación de este Reglamento, su interpretación se realizará atendiendo a los fines que prevé el artículo I y a los criterios de interpretación establecidos en el artículo 7, ambos de la Ley.
 
-Los pagos de indemnizaciones se realizarán conforme a la disponibilidad presupuestal del ente público, en el ejercicio fiscal dentro del que se actúe, sin afectar el cumplimiento de los objetivos y programas aprobados en el presupuesto de egresos con cargo al cual deba hacersela (sic) erogación.
+###### ARTÍCULO 4.
 
-En la fijación de los montos de las partidas presupuestales, deben preverse las indemnizaciones que no hayan podido ser pagadas en el ejercicio inmediato anterior.
+A falta de disposición expresa en este Reglamento, se estará a las disposiciones de la Ley, del Reglamento Interior del Consejo General Electoral y demás normatividad reglamentaria del Instituto Electoral, así como de los acuerdos que emita el Consejo General.
 
-El Ejecutivo del Estado de Hidalgo a través de la Secretaría de Finanzas Públicas, deberá autorizar el traspaso de los montos presupuestales aprobados a los diferentes entes públicos estatales exclusivamente para el pago de indemnizaciones cuando por la naturaleza de la actividad administrativa de las mismas sea pertinente yse (sic) justifique ante las autoridades competentes.
+###### ARTÍCULO 5.
 
-El monto del presupuesto de egresos del Gobierno del Estado destinado al concepto de responsabilidad patrimonial, debe ajustarse anualmente en una proporción igual al incremento promedio que se registre en dichos presupuestos, salvo que exista una propuesta justificada de modificación presupuestal diferente a la regla general; lo quedebe (sic) suceder igualmente con el presupuesto municipal.
+La abrogación, derogación, reforma o adición de las normas contenidas en este Reglamento, se realizará mediante el voto de la mayoría calificada de los integrantes del Consejo General con derecho a voto.
 
-###### Artículo 7.
+###### ARTÍCULO 6.
 
-Las indemnizaciones fijadas por las autoridades y que excedan del montopresupuestado (sic) en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 15, de la presente Ley.
+La Comisión a través del Secretario Técnico y la Dirección de Fiscalización, en el ámbito de su competencia, tendrán la obligación de proporcionar la orientación y asesoría necesaria a los partidos políticos, para el cumplimiento de las disposiciones contenidas en este Reglamento.
 
-### CAPÍTULO II. DE LAS INDEMNIZACIONES
+###### ARTÍCULO 7.
 
-###### Artículo 8.
+El acceso a la información, materia de este Reglamento, se sujetará a las disposiciones contenidas por la Ley, la Ley de Acceso a la Información Pública para el Estado de Baja California y el Reglamento del Instituto Electoral en materia de Transparencia y Acceso a la Información Pública.
 
-En lo que no se opongan entre sí y en lo no previsto en esta Ley, son de aplicación supletoria la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo, el Código Fiscal Municipal parael (sic) Estado de Hidalgo y el Código Civil para el Estado de Hidalgo, así como los principios generales del derecho.
+### CAPÍTULO II. DE LOS PLAZOS Y LINEAMIENTOS DE PRECAMPAÑAS
 
-La interpretación de esta Ley es competencia del Tribunal de Justicia Administrativadel (sic) Estado de Hidalgo, para lo cual, los entes públicos estatales y municipales referidos en el artículo 3, pueden realizarle las consultas necesarias para su correctaaplicación. (sic)
+###### ARTÍCULO 8.
 
-###### Artículo 9.
+Las precampañas iniciarán:
 
-Los servidores públicos tienen la obligación de denunciar ante las autoridades de investigación penal del fuero que corresponda, a toda persona que directa o indirectamente participe, coadyuve o asista en simular la producción de daños con el propósito de acreditar indebidamente la responsabilidad delos (sic) entes públicos, con el fin de obtener alguna de las indemnizaciones a que se refiere esta Ley.
+I. El día veintidós de febrero del año de la elección, cuando se celebren elecciones para elegir Gobernador del Estado, Diputados y Munícipes, y
 
-###### Artículo 10.
+II. El día doce de marzo del año de la elección, cuando se celebren elecciones para elegir sólo Diputados y Munícipes.
 
-La indemnización por actividad administrativa irregularde (sic) los entes públicos, debe pagarse a la persona reclamante de acuerdo a las modalidades que establece esta Ley, así como lo establecido en las bases siguientes:
+Todas las precampañas deberán concluir, a más tardar, un día antes del inicio del período de la solicitud de registro de candidatos.
 
-I. Debe pagarse en moneda nacional;
+Para efectos del presente Reglamento, los plazos se computarán en los términos previstos en el artículo 410 de la Ley.
 
-II. Puede convenirse su pago en especie;
+###### ARTÍCULO 9.
 
-III. Debe calcularse de acuerdo a la fecha en que la lesión efectivamente se produjo o lafecha (sic) en que haya cesado, tratándose de carácter continuo;
+Los partidos políticos deberán, a más tardar, veinte días previos al inicio del período de precampaña, presentar por escrito ante la Oficialía de Partes del Consejo General, los lineamientos a los que estarán sujetos los precandidatos durante esta etapa, los cuales deberán reunir los requisitos previstos por la Ley.
 
-IV. Debe actualizarse la cantidad a indemnizar al tiempo en que haya de efectuarse el cumplimiento de la resolución por la que se resuelve y ordena el pago de la indemnización;
+###### ARTÍCULO 10.
 
-V. Tratándose de retraso en el cumplimiento del pago de la indemnización, procederá la actualización de conformidad con lo dispuesto en el Código Fiscal del Estado de Hidalgo, así como el Código Fiscal Municipal para el Estado de Hidalgo, según corresponda; y
+Recibidos los lineamientos, el Consejero Presidente remitirá de inmediato la documentación a la Comisión, con el objeto de instruir el procedimiento establecido en el artículo 221 de la Ley.
 
-VI. Los entes públicos pueden cubrir el monto de la indemnización mediante parcialidades en ejercicios fiscales subsecuentes, realizando una proyección de los pagos de acuerdo a lo siguiente:
+De reunir satisfactoriamente los requisitos, el Consejo General dará a conocer los partidos políticos con derecho a realizar precampaña, mediante la publicación en estrados del Instituto Electoral y el Periódico Oficial.
 
-a. Los diversos compromisos programados de ejercicios fiscales anteriores y losque (sic) previsiblemente se presenten en el ejercicio de que se trate;
+###### ARTÍCULO 11.
 
-b. El monto de los recursos presupuestados o asignados en los cinco ejerciciosfiscales (sic) previos al inicio del pago en parcialidades, para cubrir laresponsabilidad (sic) patrimonial del Estado por la actividad administrativa irregular impuestas por autoridad competente; y
+Los lineamientos que se presenten fuera de los plazos indicados por la Ley y el Reglamento, serán desechados de plano por el Consejo General y en consecuencia, el partido político no podrá realizar precampaña.
 
-c. Los recursos que previsiblemente sean aprobados y asignados en el rubro correspondiente a este tipo de obligaciones en los ejercicios fiscales subsecuentes con base en los antecedentes referidos en el numeral anteriory (sic) el comportamiento del ingreso-gasto.
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
 
-###### Artículo 11.
+Los candidatos a cargos de elección popular que hayan sido designados en forma directa, sin que mediare proceso democrático de selección interna, no podrán realizar actos o propaganda de precampaña electoral, en los términos de los artículos 216 y 221 de la Ley.
 
-Las indemnizaciones corresponderán a la reparación integral del daño y, en su caso, por el daño personal y moral.
+### CAPÍTULO III. DE LOS PRECANDIDATOS
 
-### CAPÍTULO III. DEL PROCEDIMIENTO DE RESPONSABILIDAD PATRIMONIAL
+###### ARTÍCULO 12.
 
-###### Artículo 12.
+Los partidos políticos deberán exigir a sus precandidatos el cumplimiento irrestricto a las disposiciones contenidas en el artículo 225 de la Ley.
 
-El monto de la indemnización por daños materiales se calculará de conformidad con los criterios establecidos por la Ley de Bienes del Estado de Hidalgo, la Ley de Expropiación por Causa de Utilidad Pública del Estado de Hidalgo, el Código Civil para el Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo, el Código Fiscal Municipal para el Estado de Hidalgo y demás disposiciones aplicables vigentes, debiéndose tomar en consideración los valores catastrales, comerciales o de mercado.
+###### ARTÍCULO 13.
 
-###### Artículo 13.
+Los precandidatos no podrán realizar actividades de proselitismo o difusión de propaganda, por ningún medio, antes de la fecha de inicio de las precampañas; la violación a esta disposición se sancionará de conformidad a lo establecido en el artículo 238 de la Ley.
 
-Tratándose de daños personales o morales, los montos de las indemnizaciones se calcularán de la siguiente forma:
+###### ARTÍCULO 14.
 
-I. En el caso de daños personales:
+Los precandidatos no podrán recibir aportaciones o donativos en dinero o en especie, por si o interpósita persona, y bajo ninguna circunstancia por los sujetos a que se refiere el artículo 74 de la Ley.
 
-a. Corresponderá una indemnización con base en los dictámenes médicos correspondientes, conforme a lo dispuesto para riesgos de trabajo en la Ley Federal del Trabajo;
+###### ARTÍCULO 15.
 
-b. Además de la indemnización prevista en el inciso anterior, el reclamante o causahabiente tendrá derecho a que se le cubran los gastos médicos que ensu (sic) caso se eroguen, de conformidad con lo que la Ley Federal del Trabajo disponga para riesgos de trabajo.
+Queda prohibido a los precandidatos la contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión. La violación a esta disposición, se sancionará con la negativa de registro como candidato, o en su caso, la cancelación de su registro.
 
-II. En el caso de daño moral, la autoridad administrativa o jurisdiccional, en su caso, calculará el monto de la indemnización tomando en consideración los dictámenes periciales ofrecidos por el reclamante; y
+###### ARTÍCULO 16.
 
-III. En el caso de muerte, incapacidad total permanente o incapacidad parcial permanente, el cálculo de la indemnización se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo.
+Queda prohibido a los precandidatos hacer uso de la infraestructura pública, para la obtención de financiamiento o en apoyo a la realización de cualquier acto de precampaña.
 
-La acción por reclamación de la indemnización, así como su disfrute, corresponderá a los herederos legítimos de la víctima, cuando el daño haya generado la muerte.
+###### ARTÍCULO 17.
 
-###### Artículo 14.
+Ningún ciudadano podrá participar simultáneamente en calidad de precandidato en precampañas por diferentes partidos políticos, con excepción de aquellos que medie convenio de coalición.
 
-Las indemnizaciones deben cubrirse en su totalidad de conformidad con los términos y condiciones dispuestos por esta Ley y a las que la misma remita.
+### CAPÍTULO IV. DISPOSICIONES COMUNES
 
-En los casos en los que se haya celebrado contrato de seguro contra la responsabilidad, ante la eventual producción de daños y perjuicios que sean consecuencia de la actividad administrativa irregular del Estado, la suma asegurada se destinará a cubrir el monto equivalente a la reparación integral. De ser ésta insuficiente, el Estado continuará obligado a resarcir la diferencia respectiva.
+###### ARTÍCULO 18.
 
-El pago de cantidades líquidas por concepto de deducible corresponde al Estado y no puede disminuirse de la indemnización.
+Corresponde a los partidos políticos informar al Consejo General, el registro de la acreditación de sus precandidatos.
 
-###### Artículo 15.
+###### ARTÍCULO 19.
 
-Las indemnizaciones previstas en esta Ley, serán pagadas tomando en cuenta el orden cronológico en que se emitan las resoluciones que las determinen de forma definitiva.
+Los partidos políticos deberán presentar las constancias de registro de sus precandidatos, dentro de los tres días siguientes al cierre del plazo del registro indicado en sus lineamientos, ante la Oficialía de Partes del Consejo General, así como, la información indicada por el artículo 222 de la Ley.
 
-Los entes públicos deben llevar un registro de indemnizaciones pagadas y pendientes por pagar, que será de consulta pública, a fin de que, siguiendoel (sic) orden establecido, acorde con su fecha de emisión, se otorguen las indemnizaciones que hayan resultado procedentes de acuerdo a la presente Ley.
+###### ARTÍCULO 20.
 
-###### Artículo 16.
+Los partidos políticos proporcionarán a sus precandidatos un formato de registro, que deberá contener la información siguiente:
 
-Los procedimientos de responsabilidad patrimonial de los entes públicos se iniciarán por reclamación de la parte interesada, o de quien legítimamente lo represente.
+I. Nombre del partido político que lo presenta;
 
-###### Artículo 17.
+II. Nombre completo del precandidato;
 
-La parte interesada debe presentar su reclamación por escrito ante el ente público presuntamente responsable conforme a lo establecido en la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo.
+III. Lugar y fecha de nacimiento;
 
-La persona reclamante, en su demanda debe señalar, en su caso, la persona servidora pública o las personas servidoras públicas involucradas en la actividad administrativa que se considere irregular.
+IV. Profesión u ocupación;
 
-Si iniciado el procedimiento de responsabilidad patrimonial, se encontrare pendiente algún procedimiento por el que el particular haya impugnado el acto de autoridad que se reputa como dañoso, el procedimiento de responsabilidad patrimonial previsto en este Capítulo, se suspenderá hasta en tanto en los otros procedimientos, la autoridad competente no haya dictado una resolución que cause estado.
+V. Cargo de elección popular al que aspira ser nominado;
 
-### CAPÍTULO IV. DE LA CONCURRENCIA
+VI. Nombre del representante del precandidato;
 
-###### Artículo 18.
+VII. Nombre del responsable de la obtención, administración y gasto de los recursos recabados, del precandidato;
 
-El procedimiento de responsabilidad patrimonial debe ajustarse, además de lo dispuesto por esta Ley, a lo dispuesto por la Ley del Tribunal de Justicia Administrativa del Estado de Hidalgo, en la vía jurisdiccional.
+VIII. Domicilio para oír y recibir notificaciones del precandidato o su representante;
 
-###### Artículo 19.
+IX. La protesta de ley, sobre la veracidad de la información proporcionada, y
 
-La actividad administrativa irregularde (sic) los entes públicos origina el derecho a la indemnización siempre y cuando el acto no sea anulado o revocado vía administrativa o jurisdiccional, antes de que se presente la reclamación respectiva.
+X. Nombre y firma del precandidato y representante del partido político.
 
-###### Artículo 20.
+###### ARTÍCULO 21.
 
-El daño patrimonial que sea consecuencia de la actividad administrativa irregular del ente público, debe acreditarse tomando en consideración los siguientes criterios:
+En el caso de la precampaña en al (sic) elección de munícipes, los partidos políticos sólo estarán obligados a proporcionar la información prevista por los artículos 21 y 22 del Reglamento, respecto de los precandidatos a presidente municipal, salvo que autoricen la realización de actos de precampaña en forma individual para integrar las planillas respectivas.
 
-I. En los casos en que la causa o causas productoras del daño sean claramenteidentificables, (sic) la relación causa-efecto entre el daño y la acción administrativaimputable (sic) al ente público debe probarse plenamente; y
+###### ARTÍCULO 22.
 
-II. En su defecto, la causalidad única o concurrencia de hechos y condiciones causales, así como la participación de otros agentes en la generación del daño reclamado, debe probarse a través de la identificación precisa de los hechos relevantes para la producción del resultado final, mediante el examen riguroso tanto de las cadenas causales autónomas o dependientes entre sí, como las posibles interferencias originales o sobrevenidas que hayan podidoatenuar (sic) o agravar el daño reclamado.
+Recibida la información de los precandidatos, el Consejero Presidente la remitirá de inmediato la Comisión, para su control y archivo.
 
-###### Artículo 21.
+El Consejo General dará a conocer los nombres de los precandidatos de los partidos políticos, mediante la publicación en estrados del Instituto Electoral. Así mismo, proporcionará la información a la Dirección de Fiscalización, para efectos de verificarla durante la recepción de los informes de gastos de precampaña sobre el origen, monto y destino de los recursos de los partidos políticos.
 
-La responsabilidad patrimonial del ente público debe probarla la personareclamante (sic) que se considere lesionada en su patrimonio, por no tener la obligación jurídica de soportarlo en virtud de no existir fundamento legal o causa jurídica de justificación para legitimar el daño de que se trate.
+### CAPÍTULO V. DE LA PROPAGANDA DE PRECAMPAÑA
 
-###### Artículo 22.
+###### ARTÍCULO 23.
 
-El ente público debe probar, la participación de terceros y de la persona reclamante en la producción de los daños y perjuicios, así como la actualización de alguno de los supuestos señalados en el artículo 4 de esta Ley.
+Las reglas para la propaganda de precampañas y su fijación, se sujetará a las disposiciones contenidas por los artículos 277 y 281 de la Ley.
 
-### CAPÍTULO V. DEL DERECHO A REPETIR EN CONTRA DE LAS PERSONAS SERVIDORAS PÚBLICAS
+###### ARTÍCULO 24.
 
-###### Artículo 35.
+En caso de violación al artículo anterior del Reglamento, se observará lo siguiente:
 
-Los entes públicos valorando las circunstancias particulares del caso, pueden solicitar de la persona servidora pública o a las personas servidoras públicasordenadoras (sic) o ejecutoras de la actividad administrativa irregular, el pago de la cantidad total o parcial que se hubiere entregado a la persona reclamante en concepto de indemnización conforme a la presente Ley, cuando previa vista al órgano interno de control correspondiente y, substanciación del procedimiento previsto en la Ley General de Responsabilidades Administrativas o el de la legislación local en la materia, se determine su responsabilidad y, que la falta administrativa resulte tener el carácter de grave. El monto que se exija a la personaservidora (sic) pública será independiente de la sanción económica que se le aplique.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-###### Artículo 36.
+I. El Consejo General por conducto de la Comisión, al tener conocimiento de los hechos, ordenará al Consejo Distrital Electoral que corresponda al ámbito territorial en que se presente la violación, proceder en un término de setenta y dos horas, verificación (sic) de los hechos, a través del Secretario Fedatario del Consejo, quien deberá levantar el acta correspondiente;
 
-La gravedad de la falta administrativa se calificará de acuerdo con los criterios que establecen en la Ley General de Responsabilidades Administrativas o de la legislación local en la materia. Además, se tomarán en cuenta los siguientes criterios:
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-I. Los estándares promedio de la actividad administrativa;
+II. De resultar ciertos los hechos, notificará al partido político para que en un plazo de veinticuatro horas manifieste lo que a su derecho convenga;
 
-II. La perturbación de la actividad administrativa;
+(REPUBLICADA, P.O. 22 DE ENERO DE 2010)
 
-III. La existencia o no de intencionalidad; y
+III. Recibida la contestación o vencido el plazo a que se refiere la fracción anterior, el Consejero Presidente del Consejo Distrital someterá a la aprobación de sus integrantes, el proyecto de resolución correspondiente, y
 
-IV. La responsabilidad profesional y su relación con la producción del resultado dañoso.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-###### Artículo 37.
+IV. De ordenarse el retiro de la propaganda, el partido político contará con un plazo de veinticuatro horas para acatar la resolución. En caso de incumplimiento, el Consejero Presidente del Consejo Distrital solicitará a la autoridad municipal el retiro inmediato e informará a la Comisión de su actuación; el costo que determine la autoridad municipal se deducirá del financiamiento público estatal del partido político responsable.
 
-El Estado también puede instruir procedimiento a las personas servidoras públicas por él nombrados, designados o contratados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturalezaen (sic) la Administración Pública Estatal o Municipal, cuando le hayan ocasionado dañosy (sic) perjuicios en sus bienes y derechos derivado de faltas administrativas graves. Lo anterior, sin perjuicio de lo dispuesto por otras leyes aplicables en la materia.
+###### ARTÍCULO 25.
 
-###### Artículo 38.
+Se prohíbe a los partidos políticos la sobreposición, destrucción o alteración de carteles, pintas y de cualquier otra modalidad de propaganda de precampaña de otros partidos políticos.
 
-Las personas servidoras públicas podrán impugnar las resoluciones administrativas por las que se les imponga la obligación de resarcir los daños y perjuicios que el Estado haya pagado con motivo de los reclamos indemnizatorios respectivos, ante la vía administrativa o jurisdiccional, conforme a la Ley General de Responsabilidades Administrativas o la legislación local en la materia.
+###### ARTÍCULO 26.
 
-###### Artículo 39.
+Los partidos políticos, precandidatos o particulares que de manera indebida destruyan propaganda de precampaña, serán sancionados conforme a la Ley.
 
-La presentación de reclamaciones por responsabilidad patrimonial de los entes públicos interrumpirá los plazos de prescripción que la Ley General de Responsabilidades Administrativas, los cuales se reanudarán cuando quede firme laresolución (sic) o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados.
+### CAPÍTULO VI. DE LOS TOPES DE GASTOS DE PRECAMPAÑA
 
-###### Artículo 40.
+###### ARTÍCULO 27.
 
-Las cantidades que se obtengan con motivo de las sanciones económicas que las autoridades competentes impongan a las personas servidoras públicas, en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas y en la legislación local, se adicionarán al monto de los recursos previstos para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial de los entes públicos.
+Corresponde a la Dirección de Fiscalización, a más tardar en el mes de enero del año en que se celebren elecciones ordinarias, elaborar el proyecto de topes de gastos de precampaña, en los términos de la Ley y el Reglamento que Establece los Lineamientos Aplicables a las Prerrogativas, Fiscalización de los Recursos y Liquidación de los Partidos Políticos en el Estado de Baja California.
+
+### CAPÍTULO VII. DE LA FISCALIZACIÓN DE LAS PRECAMPAÑAS
+
+###### ARTÍCULO 28.
+
+Los procedimientos de recepción, revisión, fiscalización y dictamen de los informes de gastos de precampaña, se sujetarán a las disposiciones contenidas en la Ley y el Reglamento que Establece los Lineamientos Aplicables a las Prerrogativas, Fiscalización de los Recursos y Liquidación de los Partidos Políticos en el Estado de Baja California.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2010)</small>
+
+###### ARTÍCULO 29.
+
+Los partidos políticos y sus precandidatos que incumplan con la obligación de presentar el informe de gastos de precampaña, en los plazos indicados por la Ley, y hayan obtenido la mayoría de votos en la consulta interna o en la asamblea respectiva, perderán el derecho de registrarse como candidatos.
+
+El precandidato que sin haber obtenido la postulación a la candidatura, no presente el informe señalado en el párrafo anterior, será acreedor a las sanciones previstas por la Ley.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
+###### ARTÍCULO 30.
+
+El precandidato que rebase el tope de gastos de precampaña establecido por el Consejo General, contrate propaganda en radio y televisión, se realicen actos de precampaña electoral contraviniendo lo dispuesto en los artículos 216 y 221 de la Ley, será sancionado con la cancelación de su registro, o en su caso, con la pérdida de la candidatura que haya obtenido. En el último supuesto, el partido político conservará el derecho de realizar la sustitución correspondiente, dentro de los plazos establecidos por la Ley.
 
 T R A N S I T O R I O S
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+###### ARTÍCULO PRIMERO.
 
-SEGUNDO. La vigencia del procedimiento que se regula a través del presente Decreto, iniciará al año siguiente a su entrada en vigor.
+El presente Reglamento entrará en vigor al día siguiente de su aprobación por el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
 
-TERCERO. Se derogan aquellas disposiciones contrarias al presente Decreto.
+###### ARTÍCULO SEGUNDO.
 
-CUARTO. Los procedimientos administrativos en materia de responsabilidad patrimonial iniciados con anterioridad a la entrada en vigor de esta Ley, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+Se abroga el Reglamento de Precampañas para el Estado de Baja California, aprobado en la Décima Sesión Extraordinaria del Consejo Estatal Electoral, celebrada en la ciudad de Mexicali, Baja California, el día veintiocho de diciembre del año dos mil seis, así como las reformas a los artículos 7, 22, 36, 37 Y 38, derogación a la fracción II del artículo 11 y 22, y adiciones del formato denominado "MODELO DE ESCRITO DE SOLICITUD DE ACREDITACIÓN PARA PRECANDIDATO" - "ACRED" y el formato denominado "INFORME SOBRE EL ORIGEN, MONTO Y DESTINO DE LOS RECURSOS PARA LAS PRECAMPAÑAS ELECTORALES" - "IPREC", en el apartado IV relativo al destino de los recursos de precampaña, la frase "S - VIATICOS".
 
-QUINTO. Dentro del año siguiente a la entrada en vigor del presente Decreto, el Estado y sus municipios, en el ámbito de sus competencias, realizarán las adecuaciones pertinentes a su marco normativo interno.
+TERCERO.- Se ordena la publicación de los puntos resolutivos del presente dictamen en el Periódico Oficial del Estado de Baja California.
 
-SEXTO. Los entes públicos deberán incluir en sus respectivos presupuestos de egresos para el ejercicio fiscal del año siguiente a la entrada en vigor del presente Decreto, una partida destinada a su responsabilidad patrimonial.
+DADO en la Sala de Sesiones "Licenciado Luis Rolando Escalante Topete" del Instituto Electoral y de Participación Ciudadana, en la ciudad de Mexicali, Baja California, a los treinta días del mes de septiembre del año dos mil nueve.
 
-AL EJECUTIVO DEL ESTADO, PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.- APROBADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HIDALGO, A LOS CINCO DÍAS DEL MES DE JULIO DEL AÑO DOS MIL VEINTIDÓS.
+ATENTAMENTE
 
-DIPUTADO EDGAR HERNÁNDEZ DAÑU
+"Por la Autonomía e Independencia de los Organismos Electorales"
 
-PRESIDENTE.
+C. VÍCTOR ALARCÓN REQUEJO
 
-RÚBRICA
+CONSEJERO PRESIDENTE
 
-DIPUTADO TIMOTEO LÓPEZ PÉREZ
+LIC. DANIEL GARCÍA GARCÍA
 
-SECRETARIO.
+SECRETARIO FEDATARIO
 
-RÚBRICA
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-DIPUTADO JESÚS OSIRIS LEINES MEDÉCIGO
+P.O. 22 DE ENERO DE 2010.
 
-SECRETARIO.
-
-RÚBRICA
-
-EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, Y EN OBSERVANCIA DE LO DISPUESTO POR EL ARTÍCULO 5° DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
-
-DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS VEINTIDÓS DÍAS DEL MES DE JULIO DEL AÑO DOS MIL VEINTIDÓS.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
-
-LIC. OMAR FAYAD MENESES
-
-RÚBRICA
-
-###### Artículo 23.
-
-El escrito de reclamación deberá cumplir con los requisitos formales establecidos en la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo.
-
-En caso de omitirse alguno de los requisitos señalados en el párrafo anterior, la autoridad ante quien se presentó el escrito de reclamación prevendrá a la parte interesada para que en un plazo de cinco días hábiles subsane lo requerido, si no lohiciese (sic) se le tendrá por no presentado el escrito.
-
-###### Artículo 24.
-
-Admitido el escrito de reclamación o subsanada la prevención, se le notificara al servidor público presuntamente responsable del acto administrativo irregular para que, en un plazo de cinco días hábiles, de contestaciónal (sic) escrito de reclamación y ofrezca las pruebas que considere pertinentes.
-
-Si el servidor público no contesta el escrito de reclamación se le tendrán por ciertoslos (sic) hechos expresados por el reclamante, salvo prueba en contrario.
-
-###### Artículo 25.
-
-Las resoluciones que se dicten con motivo de los reclamos que prevé la presente Ley, deben contener, como mínimo:
-
-I. La fijación clara y precisa de los puntos controvertidos, así como el examen y valoración de las pruebas que se hayan rendido;
-
-II. Los fundamentos legales en que se apoyen (sic) la resolución;
-
-III. La existencia o no de la relación de causalidad entre la actividad administrativa irregular y el daño producido;
-
-IV. La valoración del daño causado, así como el monto en dinero o en especie de la indemnización, explicando los criterios utilizados para la cuantificación, en su caso; y,
-
-V. De ser el caso, la existencia de los casos de concurrencia a que se refiere el capítulo siguiente, así como los criterios de imputación a cada ente público responsable de la indemnización.
-
-###### Artículo 26.
-
-Toda resolución que dé la razón al reclamante deberá precisar el tipo de responsabilidad que asumirá el ente público, producto de su probada responsabilidad, buscando siempre una reparación integral al gobernado.
-
-Las medidas para la adecuada reparación de la responsabilidad patrimonial, son las siguientes:
-
-I. Restitución; busca devolver al reclamante a la situación anterior al momento en que la acción u omisión le genero perjuicio;
-
-II. Rehabilitación; busca facilitar al reclamante hacer frente a los efectos sufridos por causa de la responsabilidad del Estado;
-
-III. Compensación; se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia de la responsabilidad patrimonial del Estado;
-
-IV. Satisfacción; busca reconocer y restablecer la dignidad del reclamante; y
-
-V. Las medidas de no repetición: buscan que el hecho reclamado, no vuelva a suceder.
-
-###### Artículo 27.
-
-Las resoluciones del ente público en las que se niegue la indemnizacióno (sic), aquellas que no satisfagan a la persona reclamante, podrán impugnarse mediante la vía jurisdiccional ante el Tribunal de Justicia Administrativa del Estado de Hidalgo.
-
-###### Artículo 28.
-
-El derecho a reclamar la indemnización prescribe en un año, mismo quese (sic) computará a partir del día siguiente a aquel en que se hubiere producido el daño, o a partir del momento en que hubiesen cesado sus efectos lesivos, si fuesen de carácter continúo. Cuando existan daños de carácter físico o psíquico, el plazo de prescripción empezará a correr desde la curación o la determinación del alcance delas (sic) secuelas, siendo este de dos años.
-
-En el caso de que la persona reclamante hubiese impugnado los actos administrativos y obtuviese sentencia favorable, el plazo de prescripción se computará a partir del día siguiente a la fecha de emisión de la resolución definitiva.
-
-###### Artículo 29.
-
-En cualquier parte del procedimiento se puede celebrar convenio con los entes públicos a fin de dar por concluida la controversia, mediante la fijación y el pago de la indemnización que las partes acuerden, el cual debe ratificarse ante el órgano interno de control u órgano de vigilancia del ente público, debiendo ser autorizado por el mismo.
-
-###### Artículo 30.
-
-En el caso de concurrencia acreditada, el pago de la indemnización debe distribuirse proporcionalmente entre todos los causantes del daño reclamado, de acuerdo con su respectiva participación.
-
-Para los efectos de la misma distribución, se tomarán en cuenta, entre otros, los siguientes criterios de imputación, mismos que deben graduarse y aplicarse de acuerdo con cada caso concreto:
-
-I. A cada ente público, debe atribuirse el daño que se ocasione derivado de su propia organización y operación;
-
-II. A los entes públicos de los cuales dependan otro u otros entes públicos, sólo se les atribuirán los hechos o actos cuando las segundas no hayan podido actuar en forma autónoma;
-
-III. Los entes públicos que tengan la obligación de vigilancia respecto de otras, sólo se les atribuirán los hechos o actos cuando de ellas dependiera el control y supervisión total de los entes públicos vigilados;
-
-IV. Cada ente público responderá del daño que hayan ocasionado las personas servidoras públicas que les estén adscritas;
-
-V. El ente público que tenga la titularidad competencial de la prestación de un servicio público y, que con su actividad provoque el o los daños materia de la indemnización, responderá de los mismos, sea por prestación directa o por colaboración interorgánica;
-
-VI. El ente público que haya proyectado obras ejecutadas por otros, responderádel (sic) daño causado, cuando éstos no hubieran tenido el derecho de modificar el proyecto por cuya deficiencia se generó el daño.
-
-Por su parte, los ejecutores de las obras responderán del daño causado que no tenga como origen deficiencias en el proyecto elaborado por el sujeto obligado.
-
-VII. En el supuesto de que las reclamaciones deriven de hechos o actos dañosos producidos como consecuencia de una concesión de servicio público por parte de la Administración Pública Estatal, o Municipal y aquellos hayan tenido como causa, una determinación del concesionante que sea de ineludible cumplimiento para el concesionario, el Estado responderá directamente.
-
-Los concesionarios tendrán la obligación de contratar seguros u otorgar garantías afavor (sic) del concesionante, para el caso de que el daño reclamado haya sido ocasionado por la actividad del concesionario y no se derive de una determinación del concesionante.
-
-###### Artículo 31.
-
-Cuando en los hechos o actos, concurra la intervención de la autoridadfederal (sic) y la entidad local, la primera responderá conforme a la legislación federal aplicable, mientras que la segunda responderá únicamente en la parte correspondiente de su responsabilidad patrimonial, de acuerdo a lo establecido en la presente Ley. El mismo orden ocurrirá, cuando en los hechos o actos, concurra la intervención municipal.
-
-###### Artículo 32.
-
-Los entes públicos pueden celebrar convenios de coordinación a fin deunificar (sic) los procedimientos de reclamación de indemnizaciones por responsabilidad patrimonial para los casos en que los mismos o la persona reclamante, aleguen que el daño fue causado por varios entes públicos que se rijan por diversos procedimientos de reclamación.
-
-###### Artículo 33.
-
-En el caso de que el ente público acredite la concurrencia de una persona particular o un tercero, en la generación del daño, sólo está obligado a indemnizar en la proporción de su participación en el hecho o acto dañoso. La persona reclamante tendrá expedito su derecho para exigir la responsabilidad civil al tercero por la vía correspondiente.
-
-###### Artículo 34.
-
-En el supuesto de que entre los causantes del daño reclamado no se pueda identificar su exacta participación en la producción del mismo, se distribuirá el pago de la indemnización en partes iguales entre todos los causantes.
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación por el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
