@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-que-establece-los-lineamientos-aplicables-a-las-7222
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-28"
-last_updated: "2009-12-28"
+last_updated: "2010-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "BCN"
 ---
 # REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS APLICABLES A LAS PRERROGATIVAS, FISCALIZACION DE LOS RECURSOS Y LIQUIDACION DE LOS PARTIDOS POLITICOS EN EL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS APLICABLES A LAS PRERROGATIVAS, FISCALIZACION DE LOS RECURSOS Y LIQUIDACION DE LOS PARTIDOS POLITICOS EN EL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS APLICABLES A LAS PRERROGATIVAS, FISCALIZACIÓN DE LOS RECURSOS Y LIQUIDACIÓN DE LOS PARTIDOS POLÍTICOS EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial de Estado de Baja California, el lunes 28 de diciembre de 2009.
 
@@ -58,11 +58,17 @@ IV. Instituto Electoral: El Instituto Electoral y de Participación Ciudadana de
 
 V. Consejo General: El Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
 
-VI. Dirección General: La Dirección General del Instituto Electoral y de Participación Ciudadana del Estado de Baja California;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-VII. Dirección de Fiscalización: La Dirección de Fiscalización de los Recursos de los Partidos Políticos del Consejo General del Estado de Baja California;
+VI. Comisión de Fiscalización: La Comisión de Fiscalización de los Recursos de los Partidos Políticos;
 
-VIII. Coordinación: La Coordinación de la Dirección de Fiscalización de los Recursos de los Partidos Políticos;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+VII. Dirección General: La Dirección General del Instituto Electoral y de Participación Ciudadana;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+VIII. Dirección de Fiscalización: La Dirección de Fiscalización de los Recursos de los Partidos Políticos del Consejo General Electoral;
 
 IX. Departamento Jurídico: El Departamento Jurídico de la Dirección de Fiscalización de los Recursos de los Partidos Políticos;
 
@@ -124,11 +130,11 @@ El acceso a la información materia de este Reglamento, se sujetará invariablem
 
 ### CAPÍTULO II. DEL CÓMPUTO DE TÉRMINOS Y RESGUARDO DE DOCUMENTACIÓN
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 8.
 
-Para la Dirección de Fiscalización, los partidos políticos o coaliciones, el cómputo de los términos se considerará los días hábiles, debiendo entenderse todos los días a excepción de los sábados, los domingos, los inhábiles en términos de Ley y en los períodos vacacionales del Instituto Electoral. Durante el proceso electoral se estará a lo dispuesto por el artículo 410 de la Ley.
-
-Los términos se computarán de momento a momento, y si están señalados por días, se considerarán de veinticuatro horas y empezarán a correr sus efectos al día siguiente en que se hubiere notificado el acto o resolución correspondiente.
+Para la Dirección de Fiscalización, la Comisión de Fiscalización, los partidos políticos o coaliciones, el cómputo de los términos se considerará (sic) los días hábiles, debiendo entenderse todos los días a excepción de los sábados, los domingos, los inhábiles en términos de Ley y en los períodos vacacionales del Instituto Electoral. Durante el proceso electoral se estará a lo dispuesto por el artículo 410 de la Ley.
 
 ###### ARTÍCULO 9.
 
@@ -162,37 +168,49 @@ La Dirección de Fiscalización por conducto de su titular, durante el mes de en
 
 La información que resulte, deberá remitirse al Departamento de Fiscalización, para que en un término de tres días proceda a formular los cálculos aritméticos previstos por los artículos 11 y 12 de este Reglamento.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 14.
 
-La Coordinación, revisará los cálculos aritméticos y en un término de cinco días, el Departamento Jurídico procederá a la elaboración del proyecto de financiamiento público estatal permanente.
+El titular de la Dirección de Fiscalización revisará los cálculos aritméticos y en un término de cinco días, el Departamento Jurídico procederá a la elaboración del proyecto de financiamiento público estatal permanente.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 15.
 
-El proyecto del financiamiento público estatal permanente, se compone de la siguiente manera:
+El proyecto de dictamen del financiamiento público estatal permanente, se compone de la siguiente manera:
 
-I. Antecedentes del asunto;
+I. Número de dictamen;
 
-II. Consideraciones y fundamento legal;
+II. Antecedentes del asunto;
 
-III. Cálculos aritméticos;
+III. Consideraciones y fundamento legal;
 
-IV. Propuesta del calendario de ministraciones;
+IV. Cálculos aritméticos;
 
-V. Puntos resolutivos, y
+V. Propuesta del calendario de ministraciones;
 
-VI. Fecha y firma del titular de la Dirección de Fiscalización.
+VI. Fecha y firma de los integrantes de la Comisión de Fiscalización, y
+
+VII. En su caso, el voto razonado de quien así lo quiera manifestar.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 16.
 
-El titular de la Dirección de Fiscalización remitirá el proyecto del financiamiento público estatal permanente al Consejo General, para su análisis y aprobación correspondiente.
+La Comisión de Fiscalización celebrará sesión de dictaminación, previa convocatoria expedida por lo menos con veinticuatro horas de anticipación, para dar a conocer el proyecto de dictamen. Posteriormente, se remitirá al Consejo General para su resolución definitiva.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 17.
 
-Aprobado el proyecto del financiamiento público estatal permanente, la Dirección de Fiscalización solicitará mensualmente a la Dirección General, la elaboración de las pólizas de cheques que garanticen el monto correspondiente de las ministraciones de los partidos políticos.
+Aprobado el financiamiento público estatal permanente, la Dirección de Fiscalización solicitará mensualmente a la Dirección General, la elaboración de las pólizas de cheques que garanticen el monto correspondiente de las ministraciones de los partidos políticos.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 18.
 
-La Dirección de Fiscalización realizará la entrega de las ministraciones mensuales al titular del órgano interno, en las fechas que corresponda al calendario que apruebe el Consejo General.
+La Dirección de Fiscalización realizará la entrega de las ministraciones mensuales al titular del órgano interno a través de cheque nominativo, o en su caso, mediante transferencia electrónica de fondos a la cuenta bancaria que determine el representante legal del partido político interesado conforme a sus estatutos, en las fechas que corresponda al calendario que apruebe el Consejo General.
 
 ###### ARTÍCULO 19.
 
@@ -214,29 +232,39 @@ SMGE = Salario mínimo diario general vigente en la Entidad.
 
 El monto total del financiamiento público estatal de campaña se distribuirá entre los partidos políticos, en los términos previstos por los artículos 72 y 73 de la Ley.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 22.
 
-La información que resulte, deberá remitirse a la Dirección de Fiscalización, para que en un término de tres días proceda a formular los cálculos aritméticos previstos por los artículos 20 y 21 de este Reglamento.
+El Departamento de Fiscalización, de la información que resulte, procederá a formular los cálculos aritméticos previstos por los artículos 20 y 21 de este Reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 23.
 
-La Coordinación revisará los cálculos aritméticos y en un término de cinco días, el Departamento Jurídico procederá a la elaboración del proyecto de financiamiento público estatal de campaña.
+El titular de la Dirección de Fiscalización revisará los cálculos aritméticos y en un término de cinco días, el Departamento Jurídico procederá a la elaboración del proyecto de financiamiento público estatal de campaña.
 
 ###### ARTÍCULO 24.
 
 El proyecto del financiamiento público estatal de campaña, deberá contener los requisitos previstos por el artículo 15 de este Reglamento.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 25.
 
-El titular de la Dirección de Fiscalización remitirá el proyecto del financiamiento público estatal de campaña al Consejo General, para su análisis y acuerdo correspondiente.
+La Comisión de Fiscalización dictaminará sobre el proyecto de financiamiento público estatal de campaña en los términos del artículo 16 de este Reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 26.
 
-Aprobado el proyecto del financiamiento público estatal de campaña, la Dirección de Fiscalización solicitará a la Dirección General, la elaboración de las pólizas de cheques que garanticen el monto correspondiente de las ministraciones de los partidos políticos o coaliciones.
+Aprobado el financiamiento público estatal de campaña, la Dirección de Fiscalización solicitará a la Dirección General, la elaboración de las pólizas de cheques que garanticen el monto correspondiente de las ministraciones de los partidos políticos o coaliciones.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 27.
 
-La Dirección de Fiscalización realizará la entrega de las ministraciones al titular del órgano interno, en las fechas que corresponda al calendario que apruebe el Consejo General.
+La Dirección de Fiscalización realizará la entrega de las ministraciones al titular del órgano interno a través de cheque nominativo, o en su caso, mediante transferencia electrónica de fondos a la cuenta bancaria que determine el representante legal del partido político interesado conforme a sus estatutos, en las fechas que corresponda al calendario previsto por la Ley.
 
 ###### ARTÍCULO 28.
 
@@ -260,13 +288,17 @@ El partido político durante el año que corresponda, deberá solicitar por escr
 
 La Dirección de Fiscalización remitirá la solicitud al Departamento Jurídico, para que en un término de tres días proceda a elaborar el proyecto de resolución.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 33.
 
-El titular de la Dirección de Fiscalización remitirá al Consejo General el proyecto de resolución, para efectos del análisis de su contenido, y en su caso, emita el acuerdo correspondiente.
+El proyecto de dictamen se discutirá y aprobará en su caso por la Comisión de Fiscalización, posteriormente se remitirá al Consejo General para su acuerdo definitivo.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 34.
 
-Aprobado el proyecto de resolución, la Dirección de Fiscalización notificará al partido político estatal y a la sucursal de SEPOMEX en la entidad, para ejercer la prerrogativa del registro postal en el período que corresponda.
+Aprobado el dictamen por el Consejo General, la Dirección de Fiscalización notificará al partido político estatal y a la sucursal de SEPOMEX en la entidad, para ejercer la prerrogativa del registro postal en el período que corresponda.
 
 ###### ARTÍCULO 35.
 
@@ -302,9 +334,13 @@ III. Una vez determinado el factor de la fracción anterior, este se multiplicar
 
 Quedarán comprendidos dentro de los topes de gastos de precampaña, aquellos que se encuentran determinados por el artículo 229 de la Ley.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 41.
 
-El proyecto de topes de gastos de precampaña, deberá contener los requisitos previstos por el artículo 15 del presente Reglamento, con excepción de la fracción IV.
+El proyecto de topes de gastos de precampaña, deberá contener los requisitos previstos por el artículo 15 del presente Reglamento, con excepción de la fracción V.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 42.
 
@@ -1274,11 +1310,11 @@ Los partidos políticos deberán presentar un informe preliminar por cada campa�
 
 ### CAPÍTULO VI. DE LOS PROCESOS EXTRAORDINARIOS
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 191.
 
-La Dirección de Fiscalización en casos de excepción y previa autorización del Consejo General, podrá abrir procesos extraordinarios de fiscalización con períodos diferentes a los indicados por la Ley.
-
-La determinación de abrir procesos extraordinarios podrán realizarse respecto de uno, varios o la totalidad de los partidos políticos o coaliciones.
+La Dirección de Fiscalización en casos de excepción, solicitará la autorización del Consejo General, para abrir procesos extraordinarios de fiscalización con períodos diferentes a los indicados por la Ley, previo conocimiento y dictamen de la Comisión de Fiscalización.
 
 ###### ARTÍCULO 192.
 
@@ -1298,9 +1334,11 @@ V. Plazo para la elaboración del dictamen correspondiente.
 
 Los informes deberán ser presentados en los formatos incluidos en este Reglamento, conforme a las disposiciones legales y reglamentarias para la presentación, revisión y dictamen de los informes anuales, de precampaña y de campaña, según sea el caso.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 194.
 
-Los procesos extraordinarios de fiscalización deberán concluir en un período de noventa días. En caso de ser insuficiente el lapso, la Dirección de Fiscalización podrá solicitar al Consejo General, la autorización de una prórroga hasta por un plazo de sesenta días para su debido cumplimiento.
+Los procesos extraordinarios de fiscalización deberán concluir en un período de noventa días. En caso de ser insuficiente el lapso, la Dirección de Fiscalización hará del conocimiento a la Comisión de Fiscalización, la solicitud de una prórroga hasta por un plazo de sesenta días y la someterá a consideración del Consejo General para su autorización.
 
 ## TÍTULO SÉPTIMO. DE LA REVISIÓN DE LOS INFORMES
 
@@ -1368,15 +1406,17 @@ Los partidos políticos o coaliciones antes de concluir el proceso de revisión,
 
 ### CAPÍTULO III. DE LA FORMULACIÓN Y PRESENTACIÓN DEL DICTÁMEN
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 206.
 
-La Dirección de Fiscalización dispondrá de un lapso de veinte días para emitir el dictamen sobre el resultado de la fiscalización de los informes sobre el origen, monto y destino de los recursos de los partidos políticos o coaliciones; con excepción de los informes de precampaña.
+La Dirección de Fiscalización dispondrá de un lapso de veinte días para elaborar el proyecto de dictamen sobre el resultado de la fiscalización de los informes sobre el origen, monto y destino de los recursos de los partidos políticos o coaliciones; con excepción de los informes de precampaña.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 207.
 
-La Dirección de Fiscalización celebrará reunión de trabajo, previa invitación expedida por lo menos con veinticuatro horas de anticipación, para dar a conocer los resultados del dictamen. El Consejo General podrá participar en la reunión solamente con voz, emitiendo las opiniones particulares del asunto a tratar.
-
-Posteriormente, la Dirección de Fiscalización contará con un término de tres días para remitir a la Presidencia del Consejo General, el dictamen correspondiente.
+La Dirección de Fiscalización turnará el proyecto de dictamen a la Comisión de Fiscalización para que dentro de los cinco días siguientes proceda a su análisis, discusión, aprobación en su caso, y remisión del dictamen al Consejo General.
 
 ###### ARTÍCULO 208.
 
@@ -1400,9 +1440,11 @@ I. Hay comisión reiterada o sistemática, cuando la falta cometida por el parti
 
 II. Las circunstancias especiales serán entendidas como el deber cuidado que los partidos políticos realicen en sus funciones, actividades y obligaciones previstas por sus estatutos y la Ley; así como la mayor o menor factibilidad de prever y evitar el daño que se hubiere causado.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 212.
 
-Los partidos políticos o coaliciones podrán impugnar el dictamen y resolución que en su caso se emita por el Consejo General, en la forma y términos indicados por la Ley.
+Los partidos políticos o coaliciones podrán impugnar el dictamen que emita el Consejo General, en la forma y términos indicados por la Ley.
 
 ###### ARTÍCULO 213.
 
@@ -1642,7 +1684,9 @@ Con la declaratoria de pérdida de registro se dará inicio al procedimiento de 
 
 Al día siguiente de la ejecutoria de pérdida de registro, el visitador entrará en funciones de interventor, por lo que tendrá amplias facultades para llevar a cabo actos de administración y dominio sobre el conjunto de bienes y recursos del partido político estatal.
 
-Para los efectos del párrafo anterior, el partido político estatal deberá otorgar dentro de los cinco días siguientes, el poder correspondiente ante notario público; en caso de omisión, la Dirección de Fiscalización solicitará al Consejo General la autorización para que se expida el citado instrumento público.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
+Para los efectos del párrafo anterior, el partido político estatal deberá otorgar dentro de los cinco días siguientes, el poder correspondiente ante notario público; en caso de omisión, la Dirección de Fiscalización solicitará al Consejo General la autorización para que se expida el citado instrumento público, previo conocimiento y dictamen de la Comisión de Fiscalización.
 
 ###### ARTÍCULO 256.
 
@@ -1771,3 +1815,17 @@ Se abroga el Reglamento que Establece los Lineamientos para la Presentación y F
 La fiscalización de los ingresos y egresos de los partidos políticos correspondientes al ejercicio fiscal 2008, se realizará en los términos del artículo octavo transitorio del Decreto número 157, emitido por la XIX Legislatura del Congreso del Estado de Baja California.
 
 > <small>N. DE E. VEASE ANEXO (FORMATOS E INSTRUCTIVOS) EN LA SECCION I DEL P. O. DE 28 DE DICIEMBRE DE 2009, DE LA PAGINA 82 A LA 191.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ENERO DE 2010.
+
+ÚNICO.- Las presentes modificaciones se incorporan al Reglamento que Establece los Lineamientos Aplicables a las Prerrogativas, Fiscalización de los Recursos y Liquidación de los Partidos Políticos en el Estado de Baja California, aprobado durante la Décima Sesión Extraordinaria del Consejo General Electoral de fecha 30 de septiembre del año dos mil nueve, para entrar en vigor el día primero de enero del año dos mil diez.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su aprobación por parte del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado.
+
+TERCERO.- Se ordena la publicación de los puntos resolutivos del presente dictamen en el Periódico Oficial del Estado de Baja California.
