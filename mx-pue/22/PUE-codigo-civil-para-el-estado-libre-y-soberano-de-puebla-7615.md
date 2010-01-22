@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2010-01-04"
+last_updated: "2010-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -2481,13 +2481,17 @@ No procede la acción de nulidad por falta de solemnidades en la celebración o 
 
 #### Sección Cuarta.- Efectos de la declaración de nulidad del matrimonio
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### Artículo 417.
 
-Ejecutoriada la sentencia que declare la nulidad, el Juez, de oficio, enviará copia autorizada de ella, por triplicado, al Director del Registro Civil, quien conservará una en el Archivo Estatal y las dos restantes las remitirá respectivamente al Juez del Registro del Estado Civil que autorizo el matrimonio nulo y a la Dirección General del Registro Nacional de Población.
+Ejecutoriada la sentencia que declare la nulidad, el Juez efectuará de oficio lo indicado en el artículo 841 del presente Código.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### Artículo 418.
 
-Los funcionarios del Registro Civil a que se refiere el artículo anterior, al margen del acta de matrimonio pondrán una nota circunstanciada en que consten los puntos resolutivos de la sentencia, su fecha, el Juez que la pronuncio y el número con que se marque la copia, que será depositada en el archivo.
+Los funcionarios del Registro Civil, al margen del acta de matrimonio pondrán una nota circunstanciada en la que consten los puntos resolutivos de la sentencia, su fecha y el Juez que la pronunció.
 
 ###### Artículo 419.
 
@@ -3527,17 +3531,17 @@ Si el tutor, el Ministerio Público o las personas a que se refiere la fracción
 
 El procedimiento para hacer la adopción y para revocarla será fijado en el Código de Procedimientos Civiles. En éste procedimiento será parte el Sistema para el Desarrollo Integral de la Familia y se oirá al Ministerio Público.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
-La resolución judicial que apruebe la adopción, contendrá la orden al Juez del Registro del Estado Civil correspondiente, para que se haga la anotación marginal en el acta respectiva; asimismo, en dicha resolución, se ordenará remitir oficio al Juez del Registro Civil de su Jurisdicción, con la copia certificada de la misma, para que éste a su vez inscriba en el libro correspondiente la nueva acta en los términos que establece el Libro Segundo, del Capítulo Décimo Tercero, Sección Segunda de este Código, para lo cual deberán comparecer los adoptantes proporcionando los datos necesarios dentro del término de treinta días.
+La resolución judicial que apruebe la adopción, ordenará se proceda conforme a lo indicado en el artículo 841; asimismo se ordenará remitir oficio al Juez del Registro Civil de su Jurisdicción, con la copia certificada de la misma, para que éste a su vez inscriba en el libro correspondiente la nueva acta en los términos que establece el Libro Segundo, del Capítulo Décimo Tercero, Sección Segunda de este Código, para lo cual deberán comparecer los adoptantes proporcionando los datos necesarios dentro del término de treinta días.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
 
 El acta a que se refiere el párrafo anterior, no causará la multa que establece el artículo 875 fracción I de este Código.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
-Una vez que se haya hecho la anotación marginal al acta originaria, se reservará en secreto, en el Registro del Estado Civil, por lo que no se expedirá constancia alguna de ella, salvo por resolución judicial.
+Una vez que se haya hecho la anotación marginal al acta originaria, se reservará en secreto en el Archivo Estatal y en el Registro del Estado Civil, por lo que no se expedirá constancia alguna de ella, salvo por resolución judicial.
 
 ###### Artículo 586.
 
@@ -3595,11 +3599,11 @@ En igualdad de circunstancias se dará preferencia en la adopción a mexicanos s
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 1992)
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### Artículo 596.
 
-El Juez que apruebe la impugnación, remitirá copia de la resolución respectiva al Juez del Registro del Estado Civil del lugar, para que asiente el acta correspondiente.
+El Juez que apruebe la impugnación procederá conforme a lo indicado por el artículo 841 para que se asiente en el acta correspondiente.
 
 ### CAPITULO DECIMO.- PATRIA POTESTAD
 
@@ -5143,11 +5147,11 @@ El Director del Registro del Estado Civil será abogado, procurándose que tambi
 
 El Secretario de Gobernación nombrará a Jueces Itinerantes, con jurisdicción en todo el territorio del Estado, quienes podrán desempeñar sus funciones en coordinación y para efectos de informe con el Juez del Registro Civil del Municipio o de la localidad correspondiente.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### Artículo 831.
 
-Los jueces del Registro del Estado Civil tendrán bajo su responsabilidad formas especiales, por cuadriplicado en las que asentarán: "Actas de nacimiento", "Actas de Reconocimiento de hijos", "Actas de tutela", "Actas de matrimonio", "Actas de divorcio", "Actas de inscripción de sentencias" y "Actas de defunción" y estas formas serán expedidas por el Director del Registro del Estado Civil, previa aprobación del Ejecutivo del Estado.
+Los jueces del Registro del Estado Civil tendrán bajo su responsabilidad, formas especiales por triplicado, en las que asentarán: "Actas de nacimiento", "Actas de Reconocimiento de hijos", "Actas de tutela", "Actas de matrimonio", "Actas de divorcio", "Actas de inscripción de sentencias" y "Actas de defunción" y estas formas serán expedidas por el Director del Registro del Estado Civil, previa aprobación del Ejecutivo del Estado.
 
 ###### Artículo 832.
 
@@ -5167,9 +5171,11 @@ II.- Los particulares que soliciten el servicio o los representantes de éstos, 
 
 III.- Los testigos que corroboren el dicho de los particulares y atestigüen el acto.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### Artículo 835.
 
-Las actas del estado civil se numerarán progresivamente cada año, y en ellas se hará constar la Clave Unica del Registro Nacional de Población que corresponda al o a los interesados, así como el año, mes, día y hora en que se presenten éstos; se tomará razón específica de los documentos que se presenten, y de los nombres, edad, nacionalidad y domicilio de todos los que en ella sean mencionados, en cuanto fuere posible.
+Las actas del estado civil se numerarán progresivamente cada año, y en ellas se hará constar la Clave de Registro e Identidad Personal que corresponda al o a los interesados, así como el año, mes, día y hora en que se presenten éstos; se tomará razón específica de los documentos que se presenten, y de los nombres, edad, nacionalidad y domicilio de todos los que en ella sean mencionados, en cuanto fuere posible.
 
 ###### Artículo 836.
 
@@ -5187,13 +5193,19 @@ Las actas serán firmadas por todos los interesados y testigos, previa lectura q
 
 Si un acto comenzado se entorpeciese porque las partes se nieguen a continuarlo, o por cualquier otro motivo, se inutilizará el acta, marcándola con dos líneas transversales y expresándose el motivo por el que se suspendió, debiendo firmar esta razón, la autoridad, los interesados y los testigos.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### Artículo 840.
 
-Extendida un acta del estado civil, el Juez que la autorice imprimirá en ella el sello de la oficina y entregará un ejemplar a los interesados; otro quedará en el Archivo del Juzgado, y los dos restantes se remitirán a la Dirección del Registro del Estado Civil, para que los envíe uno al Archivo Estatal y otro a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación.
+Extendida un acta del estado civil, el Juez que la autorice imprimirá en ella el sello de la oficina y entregará un ejemplar a los interesados; otro quedará en el Archivo del Juzgado, y el tercer ejemplar se remitirá a la Dirección del Registro del Estado Civil, para que lo envíe al Archivo Estatal y notifique al Registro Nacional de Población e Identificación Personal, sobre las anotaciones realizadas, en los términos convenidos para la transferencia de información.
+
+El Juez del Registro del Estado Civil que no cumpla con lo establecido en este artículo, será destituido de su cargo.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### Artículo 841.
 
-El Juez del Registro del Estado Civil que no cumpla con lo establecido en el artículo anterior, será destituido de su cargo.
+Cuando una sentencia tenga efectos de modificar un acta del estado civil, el Juez del conocimiento enviará copia certificada por duplicado al Director del Registro del Estado Civil, quien remitirá una al Archivo Estatal a efecto de hacer las anotaciones que correspondan al libro duplicado y la segunda, al Juzgado del Registro del Estado Civil en el que fue expedida, para que se proceda a realizar lo conducente en el libro original de actas.
 
 ###### Artículo 842.
 
@@ -5225,11 +5237,11 @@ Los apuntes dados por los interesados y los documentos que presenten, se anotar�
 
 Cualquier persona puede solicitar copia o extractos certificados de las actas del estado civil, así como de los apuntes y documentos de que habla el artículo anterior y el Director, el Encargado del Archivo y los Jueces del Registro del Estado Civil están obligados a expedirlos.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 1989)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### Artículo 849.
 
-Las copias y los extractos certificados de las actas, harán plena fe en juicio y fuera de él.
+Las copias de las actas y los extractos de las mismas, certificadas mediante firma autógrafa, harán plena fe en juicio y fuera de él.
 
 ###### Artículo 850.
 
@@ -5271,9 +5283,11 @@ En las poblaciones donde no haya Juez del Registro del Estado Civil, el niño se
 
 El nacimiento será declarado por el padre o la madre, y en defecto de éstos, por los médicos, cirujanos, matronas u otras personas que hayan asistido al parto.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### Artículo 859.
 
-El acta de nacimiento se extenderá con asistencia de dos testigos, que pueden ser designados por los interesados; contendrá la Clave Unica del Registro Nacional de Población que se asigne al nacido, el año, mes, día, hora y lugar del nacimiento; el sexo del registrado, el nombre y apellidos que se le pongan, los que no deben omitirse, la razón de si se ha presentado vivo o muerto, y la impresión de la huella digital del registrado.
+El acta de nacimiento se extenderá con asistencia de dos testigos, que pueden ser designados por los interesados; contendrá la Clave de Registro e Identidad Personal que se asigne al nacido, el año, mes, día, hora y lugar del nacimiento; el sexo del registrado, el nombre y apellidos que se le pongan, los que no deben omitirse, la razón de si se ha presentado vivo o muerto, y la impresión de la huella digital del registrado.
 
 ###### Artículo 860.
 
@@ -5384,6 +5398,10 @@ Si el reconocimiento no se hiciere en el acta de nacimiento, se hará en ésta u
 ###### Artículo 880.
 
 Si el reconocimiento se hiciere en oficina diversa, para cumplir lo dispuesto en el artículo anterior, los titulares de ambas oficinas deberán remitirse copia certificada en las actas autorizadas por ellos.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
+
+En todos los casos se notificarán de inmediato al Director del Registro del Estado Civil, las anotaciones realizadas en actas de nacimiento con motivo del reconocimiento, a efecto de ordenar las anotaciones que correspondan al libro duplicado de actas.
 
 #### Sección Quinta.- Actas de Tutela
 
@@ -5641,9 +5659,11 @@ Las autoridades judiciales que declaren la ausencia, presunción de muerte o la 
 
 El Juez del Registro del Estado Civil que reciba una de las sentencias a que se refiere el artículo anterior, levantará una acta que contendrá el nombre, apellidos, edad, ocupación, estado civil y nacionalidad de la persona de que se trate, los puntos resolutivos de la sentencia, la fecha de la resolución y el órgano judicial que la emitió.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### Artículo 929.
 
-Cuando se presente la persona declarada ausente o cuya muerte se presumía o se recobre la capacidad legal para administrar bienes, se dará aviso al Juez del Registro del Estado Civil por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
+Cuando se presente la persona declarada ausente o cuya muerte se presumía o se recobre la capacidad legal para administrar bienes, se procederá como indica el artículo 841 para que sea cancelada el acta a que se refiere el artículo anterior.
 
 #### Sección Primera.- Bienes muebles
 
@@ -5663,9 +5683,11 @@ II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia 
 
 En el juicio de rectificación se oirá al Juez del Registro del Estado Civil y a cualquiera persona que pretenda contradecir la demanda.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### Artículo 933.
 
-La sentencia que cause ejecutoria se comunicará al Juez del Registro del Estado Civil, y éste hará una referencia a ella al margen del acta controvertida, sea que el fallo conceda o niegue la rectificación.
+La sentencia que cause ejecutoria se comunicará al Director del Registro del Estado Civil, para los efectos del artículo 841.
 
 ###### Artículo 934.
 
@@ -5685,9 +5707,13 @@ III.- Los herederos de las personas comprendidas en las dos fracciones anteriore
 
 IV.- Los que, según los artículos 575 y 576, pueden intentar la acción que en ellos se trata y los que hayan sido reconocidos después de haber sido registrado su nacimiento.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### Artículo 936.
 
-Cuando la rectificación tienda a enmendar errores, yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, procede su aclaración, la que se promoverá ante el Director del Registro Civil, quien resolverá lo procedente y si la resolución es negativa, la aclaración deberá demandarse en juicio.
+Cuando la rectificación tienda a enmendar errores, yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, procede su aclaración, la que se promoverá ante el Director del Registro del Estado Civil, quien resolverá lo procedente y si la resolución es negativa, la aclaración deberá demandarse en juicio.
+
+De resultar procedente la rectificación administrativa, el Director del Registro del Estado Civil remitirá una copia certificada de la resolución al Archivo Estatal a efecto de hacer las anotaciones que correspondan al libro duplicado, y otra al Juzgado del Registro del Estado Civil en el que fue expedida, para que se proceda a realizar las anotaciones en el libro original de actas.
 
 ###### Artículo 937.
 
@@ -19892,3 +19918,9 @@ PRIMERO.- Se derogan las disposiciones legales que se opongan al presente Decret
 SEGUNDO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor social o de oficio, se entenderá ahora por éstos a los Defensores Públicos.
+
+P.O. 22 DE ENERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan las contenidas en el presente Decreto.
