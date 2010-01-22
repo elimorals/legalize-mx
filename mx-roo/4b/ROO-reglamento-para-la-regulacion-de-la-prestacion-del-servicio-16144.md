@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-la-regulacion-de-la-prestacion-del-servicio-161
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-15"
-last_updated: "2000-03-15"
+last_updated: "2010-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO PARA LA REGULACIÓN DE LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE URBANO DE PASAJEROS EN RUTA ESTABLECIDA EN EL MUNICIPIO DE SOLIDARIDAD, QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE URBANO DE PASAJEROS EN AUTOBUS EN RUTA ESTABLECIDA DEL MUNICIPIO DE SOLIDARIDAD, QUINTANA ROO, PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 22 de enero de 2010.
 
@@ -450,3 +452,17 @@ Segundo.- Se abrogan todas las disposiciones Municipales que se opongan al prese
 Tercero.- Quedan sujetos a la presente reglamentación todos los concesionarios de transporte urbano en ruta establecida en el Municipio de Solidaridad, Quintana Roo, incluyendo en éstos los denominadas colectivos, combis, peseras o peseros.
 
 Así lo mandan dictan y firman los Ciudadanos PRESIDENTE MUNICIPAL, LICENCIADO MIGUEL RAMÓN MARTÍN AZUETA; Síndico Municipal Jesús Martín Escalante; Primer Regidor Martín de la Cruz Gómez; Segundo Regidor Josefina Muza Simón; Tercer Regidor Alejandro González Colín; Cuarto Regidor Paulino Pat Tuyub; Quinto Regidor Marciano Dzul Caamal; Sexto Regidor Miguel Solis Espinoza; Séptimo Regidor José Carlos González Anguiano; Octavo Regidor Tomás Alberto Burgos; Noveno Regidor Hermelindo Bé Cituk, Cúmplase.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ENERO DE 2010.
+
+Único.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Acuerdos
+
+Primero...
+
+Segundo.- Se abroga el Reglamento para la Regulación (sic) de la Prestación del Servicio de Transporte Urbano de Pasajeros en Ruta Establecida en el Municipio de Solidaridad, Quintana Roo, publicado el 15 de Marzo de 2000 en el Periódico Oficial del Gobierno del Estado, así como cualquier otra disposición que contravenga e! presente Reglamento.
+
+Tercero.- Publíquese el presente en el Periódico Oficial del Gobierno del Estado.
