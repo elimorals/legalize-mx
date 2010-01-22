@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2010-01-04"
+last_updated: "2010-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1469,7 +1469,9 @@ Se aplicarán de seis meses a un año de prisión y multa de uno a diez días de
 
 Las disposiciones de esta sección se aplicarán salvo lo que disponga la Legislación Federal sobre la materia.
 
-#### SECCION PRIMERA.- ATAQUES A LAS VIAS DE COMUNICACION Y A LA SEGURIDAD EN LOS MEDIOS DE TRANSPORTE
+#### SECCION QUINTA.- USO INDEBIDO DE LOS SISTEMAS TELEFONICOS DE EMERGENCIA
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### Artículo 183.
 
@@ -1531,33 +1533,21 @@ III.- Cuando durante el proceso penal, el indiciado aporte pruebas ciertas, sufi
 
 IV.- Cuando un sentenciado aporte pruebas ciertas, suficientemente valoradas por el juez, para sentenciar a otros miembros de la delincuencia organizada con funciones de administración, dirección o supervisión, podrá otorgársele la remisión parcial de la pena, hasta en dos terceras partes de la pena privativa de libertad impuesta.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE ENERO DE 2010)</small>
+
+###### Artículo 186 Sexies.
+
+Al que realice una llamada de emergencia o permita utilizar su teléfono, a sabiendas de que es una llamada o aviso falso de alerta con el único objeto de inducir al error y movilizar a los sistemas de emergencias y urgencias o su equivalente, se le impondrá de dos meses a dos años de prisión y multa de diez a cien días de salario.
+
+#### SECCION PRIMERA.- ATAQUES A LAS VIAS DE COMUNICACION Y A LA SEGURIDAD EN LOS MEDIOS DE TRANSPORTE
+
 #### SECCION SEGUNDA.- VIOLACION DE CORRESPONDENCIA
+
+### CAPITULO CUARTO.- DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
 #### SECCION PRIMERA.- DELITO CONTRA LA ECOLOGIA
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 2001)</small>
-
-### CAPITULO CUARTO.- DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
-
-#### SECCION SEGUNDA.- DELITOS CONTRA LA INFRAESTRUCTURA HIDRAULICA
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
-
-ARTÍCULO 198 quáter.- Se aplicará prisión de uno a cuatro años y multa de tres a veinte mil días de salario, a quien de manera dolosa o culposa realice, autorice, consienta, permita u ordene, la descarga, el depósito o infiltración de contaminantes, sustancias corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, al sistema de alcantarillado o drenaje de las poblaciones, en contravención a las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas, así como a las normas técnicas ecológicas aplicables, que causen o puedan causar afectación a la salud de la población o al ecosistema.
-
-Igual sanción se aplicará si la descarga, el depósito o infiltración a que se refiere el párrafo anterior se realiza en ríos, cuencas, vasos o demás depósitos de corrientes de agua y ocasione o pueda ocasionar daños a la salud pública o al ecosistema.
-
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
-
-ARTÍCULO 198 quinquies.- Se aplicará prisión de uno a cuatro años y multa de tres a cien días de salario, independientemente del pago de los daños causados, a quien de manera dolosa, sin la autorización correspondiente, y en contravención a las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas, así como a las normas técnicas ecológicas aplicables, cause daño, deterioro, alteración o destrucción en:
-
-I.- Los sistemas de tratamiento de aguas residuales, sulfhídricas o salinas, estatales o municipales;
-
-II.- Los aparatos de medición de las tomas de agua;
-
-III.- Los tableros de control, pozos, bombas, válvulas, instalaciones o instrumentos de la red de agua potable, alcantarillado y drenaje, de jurisdicción estatal o municipal; y
-
-IV.- Las redes de agua potable, drenaje o sistemas de alcantarillado de jurisdicción estatal o municipal.
 
 ###### Artículo 187.
 
@@ -1621,7 +1611,25 @@ II.- (DEROGADA, P.O. 23 DE MARZO DE 2007)
 
 Las autoridades de Tránsito, bajo su responsabilidad, deberán denunciar ante el Ministerio Público al chofer, automovilista o motociclista que haya cometido el hecho a que se refiere el artículo anterior.
 
-#### SECCION SEGUNDA (SIC).- INCENDIO Y OTROS ESTRAGOS
+#### SECCION SEGUNDA.- DELITOS CONTRA LA INFRAESTRUCTURA HIDRAULICA
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
+
+ARTÍCULO 198 quáter.- Se aplicará prisión de uno a cuatro años y multa de tres a veinte mil días de salario, a quien de manera dolosa o culposa realice, autorice, consienta, permita u ordene, la descarga, el depósito o infiltración de contaminantes, sustancias corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, al sistema de alcantarillado o drenaje de las poblaciones, en contravención a las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas, así como a las normas técnicas ecológicas aplicables, que causen o puedan causar afectación a la salud de la población o al ecosistema.
+
+Igual sanción se aplicará si la descarga, el depósito o infiltración a que se refiere el párrafo anterior se realiza en ríos, cuencas, vasos o demás depósitos de corrientes de agua y ocasione o pueda ocasionar daños a la salud pública o al ecosistema.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2001)</small>
+
+ARTÍCULO 198 quinquies.- Se aplicará prisión de uno a cuatro años y multa de tres a cien días de salario, independientemente del pago de los daños causados, a quien de manera dolosa, sin la autorización correspondiente, y en contravención a las disposiciones legales, reglamentarias y Normas Oficiales Mexicanas, así como a las normas técnicas ecológicas aplicables, cause daño, deterioro, alteración o destrucción en:
+
+I.- Los sistemas de tratamiento de aguas residuales, sulfhídricas o salinas, estatales o municipales;
+
+II.- Los aparatos de medición de las tomas de agua;
+
+III.- Los tableros de control, pozos, bombas, válvulas, instalaciones o instrumentos de la red de agua potable, alcantarillado y drenaje, de jurisdicción estatal o municipal; y
+
+IV.- Las redes de agua potable, drenaje o sistemas de alcantarillado de jurisdicción estatal o municipal.
 
 ###### Artículo 195.
 
@@ -1641,9 +1649,7 @@ La disposición del artículo 195 de este Código no comprende la correspondenci
 
 ### CAPITULO QUINTO.- DELITOS CONTRA LA AUTORIDAD
 
-#### SECCION CUARTA.- DELITOS CONTRA EL ORDEN EN EL DESARROLLO URBANO
-
-> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+#### SECCION SEGUNDA (SIC).- INCENDIO Y OTROS ESTRAGOS
 
 ###### ARTÍCULO 198.
 
@@ -1669,9 +1675,11 @@ ARTÍCULO 198 ter.- Se impondrá de seis meses a tres años de prisión y multa 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE JULIO DE 2001)</small>
 
-#### SECCION PRIMERA.- DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+#### SECCION CUARTA.- DELITOS CONTRA EL ORDEN EN EL DESARROLLO URBANO
 
-#### SECCION SEGUNDA.- OPOSICION A QUE SE EJECUTE ALGUNA OBRA O TRABAJO PUBLICOS
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2008)</small>
+
+#### SECCION PRIMERA.- DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 ###### Artículo 199.
 
@@ -1679,7 +1687,7 @@ Se aplicará prisión de uno a diez años y multa de treinta a trescientos días
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 25 DE ENERO DE 2008)</small>
 
-#### SECCION TERCERA.- QUEBRANTAMIENTO DE SELLOS
+#### SECCION SEGUNDA.- OPOSICION A QUE SE EJECUTE ALGUNA OBRA O TRABAJO PUBLICOS
 
 ###### Artículo 199 Bis.
 
@@ -1721,13 +1729,13 @@ II.- Se entiende por asentamiento humano irregular un grupo de personas que se e
 
 III.- No se considerará fraccionamiento irregular, para los efectos de este Título, cuando un ascendiente transfiera la propiedad o posesión de partes de un inmueble a sus descendientes, pero éstos deberán cumplir las normas aplicables según el tipo de propiedad de que se trate, para ceder sus derechos a terceros.
 
-#### SECCION CUARTA.- DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
+#### SECCION TERCERA.- QUEBRANTAMIENTO DE SELLOS
 
 ### CAPITULO SEXTO.- PELIGRO DE CONTAGIO Y PROPAGACIÓN DE ENFERMEDADES
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-#### SECCION QUINTA.- ENCUBRIMIENTO
+#### SECCION CUARTA.- DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
 
 ###### Artículo 200.
 
@@ -1745,9 +1753,7 @@ Igual sanción se impondrá al denunciante, agraviado o testigos que no comparez
 
 Se impondrán de uno a dos años de prisión y multa de dos a veinte días de salario, al que empleando la fuerza, el amago o la amenaza, se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones o se resista al cumplimiento de un mandato, que sea legítimo y se ejecute en forma legal.
 
-#### SECCION PRIMERA.- ULTRAJES A LA MORAL PUBLICA
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+#### SECCION QUINTA.- ENCUBRIMIENTO
 
 ###### Artículo 202.
 
@@ -1761,9 +1767,9 @@ Cuando el delito establecido en el artículo anterior lo cometan dos o más pers
 
 A las sanciones de que habla la presente sección, se podrá agregar, a juicio del juzgador, multa de uno a diez días de salario.
 
-#### SECCION SEGUNDA.- CORRUPCION Y PORNOGRAFIA DE MENORES E INCAPACES O PERSONAS QUE NO PUDIEREN RESISTIR
+#### SECCION PRIMERA.- ULTRAJES A LA MORAL PUBLICA
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 205.
 
@@ -1773,7 +1779,9 @@ Al que quebrante los sellos puestos por orden de la autoridad, se le aplicará p
 
 Se impondrá multa de uno a diez días de salario, a las partes en un negocio civil, que de común acuerdo, quebrantaren los sellos puestos por la autoridad pública, y el quebrantamiento se hiciere sin autorización de ésta.
 
-#### SECCION TERCERA.- LENOCINIO Y TRATA DE PERSONAS
+#### SECCION SEGUNDA.- CORRUPCION Y PORNOGRAFIA DE MENORES E INCAPACES O PERSONAS QUE NO PUDIEREN RESISTIR
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 207.
 
@@ -1783,7 +1791,7 @@ Al que cometa un delito en contra de un funcionario público, empleado o agente 
 
 Los ultrajes hechos al Congreso del Estado, al Tribunal Superior de Justicia, o a un Cuerpo Colegiado de la Administración de Justicia o a cualquiera otra institución pública, se sancionarán con prisión de dos meses a dos años y multa de uno a cinco días de salario.
 
-#### SECCION CUARTA.- PROVOCACION DE UN DELITO O APOLOGIA DE ESTE O DE ALGUN VICIO
+#### SECCION TERCERA.- LENOCINIO Y TRATA DE PERSONAS
 
 ###### Artículo 209.
 
@@ -1813,9 +1821,7 @@ Lo dispuesto en el artículo anterior se aplicará aunque las personas en él en
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-#### SECCION QUINTA.- DISPOSICIONES COMUNES A LAS SECCIONES PRECEDENTES
-
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+#### SECCION CUARTA.- PROVOCACION DE UN DELITO O APOLOGIA DE ESTE O DE ALGUN VICIO
 
 ### CAPITULO SEPTIMO.- DELITOS CONTRA LA MORAL PUBLICA; CONTRA DERECHOS DE MENORES, INCAPACES O PERSONAS QUE NO PUDIEREN RESISTIR Y CONTRA LA DIGNIDAD DE LA PERSONA
 
@@ -1843,9 +1849,9 @@ III.- La pena se impondrá, sin perjuicio de las sanciones que correspondan si s
 
 ### CAPITULO OCTAVO.- VIOLACION DE SECRETOS
 
-#### SECCION PRIMERA.- RESPONSABILIDAD DE ABOGADOS, PATRONOS Y LITIGANTES
+#### SECCION QUINTA.- DISPOSICIONES COMUNES A LAS SECCIONES PRECEDENTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 215.
 
@@ -1859,9 +1865,9 @@ La misma sanción establecida en el artículo anterior se impondrá a quien púb
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MARZO DE 2007)</small>
 
-#### SECCION SEGUNDA.- RESPONSABILIDAD MEDICA
+#### SECCION PRIMERA.- RESPONSABILIDAD DE ABOGADOS, PATRONOS Y LITIGANTES
 
-> <small>(F. DE E. PRIMER PARRAFO, P.O. 6 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 217.
 
@@ -1939,7 +1945,9 @@ La posesión de una o más fotografías, filmes, vídeos o cualquier otro medio 
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
-#### SECCION TERCERA.- RESPONSABILIDAD TECNICA
+#### SECCION SEGUNDA.- RESPONSABILIDAD MEDICA
+
+> <small>(F. DE E. PRIMER PARRAFO, P.O. 6 DE ENERO DE 1987)</small>
 
 ###### Artículo 225.
 
@@ -1947,7 +1955,7 @@ A quien promueva, publicite, facilite, gestione o por cualquier medio invite a p
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MARZO DE 2007)</small>
 
-#### SECCION PRIMERA.- FALSIFICACION DE ACCIONES, OBLIGACIONES Y OTROS DOCUMENTOS DE CREDITO PUBLICO
+#### SECCION TERCERA.- RESPONSABILIDAD TECNICA
 
 ###### Artículo 226.
 
@@ -1993,9 +2001,9 @@ Si el delincuente fuera ascendiente, descendiente, cónyuge, hermano, tutor, cur
 
 Artículo 228 bis.- Las sanciones que señalan los artículos 227 y 228 se duplicarán si la persona explotada es menor de dieciséis años.
 
-#### SECCION SEGUNDA.- FALSIFICACION DE SELLOS, MARCAS Y PUNZONES
+#### SECCION PRIMERA.- FALSIFICACION DE ACCIONES, OBLIGACIONES Y OTROS DOCUMENTOS DE CREDITO PUBLICO
 
-#### SECCION TERCERA.- FALSIFICACION DE DOCUMENTOS EN GENERAL
+#### SECCION SEGUNDA.- FALSIFICACION DE SELLOS, MARCAS Y PUNZONES
 
 ###### Artículo 229.
 
@@ -2003,7 +2011,7 @@ El que públicamente provoque a cometer un delito o haga apología de éste, o d
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 23 DE MARZO DE 2007)</small>
 
-#### SECCION CUARTA.- FALSEDAD EN DECLARACIONES JUDICIALES E INFORMES DADOS A UNA AUTORIDAD
+#### SECCION TERCERA.- FALSIFICACION DE DOCUMENTOS EN GENERAL
 
 ###### Artículo 229 Bis.
 
@@ -2067,7 +2075,7 @@ Ninguna autoridad podrá exigir la revelación de los secretos a que se refiere 
 
 ### CAPITULO DECIMO.- FALSEDAD
 
-#### SECCION QUINTA.- OCULTACION O VARIACION DE NOMBRE O DOMICILIO
+#### SECCION CUARTA.- FALSEDAD EN DECLARACIONES JUDICIALES E INFORMES DADOS A UNA AUTORIDAD
 
 ###### Artículo 234.
 
@@ -2119,9 +2127,7 @@ II.- Por abandonar la defensa de un cliente o la atención de un negocio sin mot
 
 Los Defensores Públicos que sin causa justificada incurrieren en los hechos expresados en esta sección, aparte de las sanciones ya señaladas, serán destituidos de sus cargos.
 
-#### SECCION SEXTA.- USURPACION DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE UNIFORMES O CONDECORACIONES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1995)</small>
+#### SECCION QUINTA.- OCULTACION O VARIACION DE NOMBRE O DOMICILIO
 
 ###### Artículo 239.
 
@@ -2171,21 +2177,21 @@ Las sanciones a que se refiere el artículo anterior son independientes de las q
 
 En los casos previstos en los anteriores artículos de esta sección, además de las sanciones establecidas por ellos, sean intencionales o por imprudencia los delitos, de que se trate, se impondrá a los responsables, suspensión de un mes a tres años en el ejercicio de la profesión o definitiva en caso de reincidencia.
 
-#### SECCION SEPTIMA.- DISPOSICION COMUN A LOS CAPITULOS PRECEDENTES
+#### SECCION SEXTA.- USURPACION DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE UNIFORMES O CONDECORACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1995)</small>
 
 ###### Artículo 244.
 
 A los ingenieros, arquitectos, agrónomos, veterinarios, maestros de obras y, en general, todos los que se dediquen al ejercicio de una profesión, arte o actividad técnica, que con motivo de ese ejercicio causen daños indebidos, además de la sanción por éstos, según sean intencionales o imprudenciales, se les aplicará la establecida en el artículo 243.
 
-#### SECCION PRIMERA.- ATAQUES AL PUDOR
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+#### SECCION SEPTIMA.- DISPOSICION COMUN A LOS CAPITULOS PRECEDENTES
 
 ### CAPITULO UNDECIMO.- DELITOS SEXUALES
 
-#### SECCION SEGUNDA.- ESTUPRO
+#### SECCION PRIMERA.- ATAQUES AL PUDOR
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 245.
 
@@ -2223,9 +2229,9 @@ Si el infractor fuere funcionario o empleado público, además de las sanciones 
 
 En los supuestos previstos por el artículo 245, si el infractor fuere abogado, se le inhabilitará para el ejercicio de su profesión hasta por doce años y, en su caso, para ejercer la función notarial si fuese Notario.
 
-#### SECCION TERCERA.- VIOLACION
+#### SECCION SEGUNDA.- ESTUPRO
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 248.
 
@@ -2257,7 +2263,9 @@ VII.- Al que procurándose los verdaderos sellos, punzones, marcas y demás obje
 
 VIII.- Al que, a sabiendas, hiciere uso de llaves, sellos, marcas y demás objetos expresados en las fracciones I y III de este artículo.
 
-#### SECCION CUARTA.- RAPTO
+#### SECCION TERCERA.- VIOLACION
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 250.
 
@@ -2311,7 +2319,7 @@ V.- El que haga uso de una certificación verdadera expedida para otro, como si 
 
 VI.- El que, a sabiendas, hiciere uso de un documento falso, sea público o privado.
 
-#### SECCION QUINTA.- DISPOSICION COMUN AL ESTUPRO, VIOLACION Y RAPTO
+#### SECCION CUARTA.- RAPTO
 
 ###### Artículo 254.
 
@@ -2337,9 +2345,7 @@ En el supuesto previsto por la fracción II del artículo 254, la sanción podr�
 
 El testigo, el perito o el intérprete que se retracten espontáneamente de sus falsas declaraciones rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las dieron, sólo pagarán una multa de uno a diez días de salario; pero si faltaren a la verdad al retractarse de sus declaraciones, se les aplicará la sanción que corresponda conforme a esta sección, considerándolos como reincidentes.
 
-#### SECCION SEXTA.- HOSTIGAMIENTO Y ACOSO SEXUAL
-
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+#### SECCION QUINTA.- DISPOSICION COMUN AL ESTUPRO, VIOLACION Y RAPTO
 
 ###### Artículo 257.
 
@@ -2351,7 +2357,9 @@ II.- Al que, para eludir la práctica de una diligencia decretada por una autori
 
 III.- Al funcionario o empleado público, que en los actos propios de su cargo, atribuyere a una persona título o nombre, a sabiendas de que no le pertenecen.
 
-#### SECCION PRIMERA.- DELITOS CONTRA EL ESTADO CIVIL
+#### SECCION SEXTA.- HOSTIGAMIENTO Y ACOSO SEXUAL
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 258.
 
@@ -2373,7 +2381,7 @@ IV.- Al que preste servicios privados de seguridad o se ostente como prestador d
 
 Para los efectos del presente ordenamiento, se considerará como Servidor Público, al Notario que cuente con la Patente en Ejercicio; incluyendo a su Auxiliar o Substituto según sea el caso.
 
-#### SECCION SEGUNDA.- BIGAMIA
+#### SECCION PRIMERA.- DELITOS CONTRA EL ESTADO CIVIL
 
 ###### Artículo 259.
 
@@ -2381,9 +2389,7 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 ### CAPITULO DUODECIMO.- DELITOS CONTRA LA FAMILIA
 
-#### SECCION TERCERA.- SUSTRACCION Y TRAFICO DE MENORES
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+#### SECCION SEGUNDA.- BIGAMIA
 
 ###### Artículo 260.
 
@@ -2415,9 +2421,9 @@ III.- Cuando el sujeto pasivo sea mayor de doce años y el delito se ejecute con
 
 El delito de ataques al pudor se considerará siempre como delito consumado y se perseguirá a petición de parte, salvo que el sujeto pasivo estuviere en alguno de los supuestos previstos en la fracción II del artículo 261, en cuyo caso se perseguirá de oficio.
 
-#### SECCIÓN CUARTA. VIOLENCIA FAMILIAR
+#### SECCION TERCERA.- SUSTRACCION Y TRAFICO DE MENORES
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 264.
 
@@ -2435,9 +2441,9 @@ Cuando la persona estuprada fuere menor de quince años de edad se presumirá la
 
 No se procederá contra el estuprador, sino por queja del ofendido, de sus padres o a falta de éstos, de sus representantes.
 
-#### SECCION PRIMERA.- AMENAZAS
+#### SECCIÓN CUARTA. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 267.
 
@@ -2515,9 +2521,9 @@ III.- La introducción en una persona, por vía anal o vaginal, de cualquier obj
 
 En los casos previstos en las fracciones I y II, se impondrá al autor del delito, de ocho a cuarenta años de prisión y multa de ciento veinte a mil doscientos días de salario. En el caso de la fracción III la sanción será la establecida en el artículo 267.
 
-#### SECCION SEGUNDA.- ALLANAMIENTO DE MORADA
+#### SECCION PRIMERA.- AMENAZAS
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 273.
 
@@ -2539,7 +2545,9 @@ No se procederá contra el raptor, sino por queja de la mujer ofendida; pero si 
 
 Cuando el rapto vaya acompañado de otro delito perseguible de oficio, sí se procederá contra el raptor, por este último, aunque no haya queja de la ofendida.
 
-#### SECCION TERCERA.- ASALTO Y ATRACO
+#### SECCION SEGUNDA.- ALLANAMIENTO DE MORADA
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 278.
 
@@ -2547,7 +2555,7 @@ La reparación del daño en los casos de estupro, violación o rapto comprender�
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 23 DE MARZO DE 2007)</small>
 
-#### SECCION CUARTA.- PRIVACION ILEGAL DE LIBERTAD
+#### SECCION TERCERA.- ASALTO Y ATRACO
 
 ###### Artículo 278 Bis.
 
@@ -2587,19 +2595,17 @@ Si el sujeto pasivo del delito de acoso sexual es menor de dieciocho años de ed
 
 En los supuestos a que se refiere el artículo anterior, los delitos se perseguirán de oficio. En los demás casos se procederá contra el responsable a petición de parte ofendida.
 
+#### SECCION CUARTA.- PRIVACION ILEGAL DE LIBERTAD
+
 #### SECCION QUINTA.- PLAGIO Y SECUESTRO
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2003)</small>
-
-#### SECCION PRIMERA.- LESIONES
 
 ### CAPITULO VIGESIMO.- DELITOS ELECTORALES
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE FEBRERO DE 1995)</small>
 
-#### SECCION SEGUNDA.- HOMICIDIO
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+#### SECCION PRIMERA.- LESIONES
 
 ###### Artículo 279.
 
@@ -2623,7 +2629,9 @@ VIII.- Usurpar el estado civil de otro con el fin de adquirir derechos de famili
 
 Además de las sanciones indicadas, el delincuente perderá todo derecho de heredar que tuviere respecto de las personas a quienes, por la comisión del delito, perjudique en sus derechos de familia.
 
-#### SECCION TERCERA.- LESIONES Y HOMICIDIOS TUMULTUARIOS
+#### SECCION SEGUNDA.- HOMICIDIO
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 280.
 
@@ -2641,7 +2649,7 @@ A los testigos y a las personas que intervengan en la celebración del nuevo mat
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-#### SECCION CUARTA.- REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+#### SECCION TERCERA.- LESIONES Y HOMICIDIOS TUMULTUARIOS
 
 ###### Artículo 283.
 
@@ -2677,7 +2685,7 @@ Las mismas sanciones se impondrán a los terceros que recibieren al menor y a la
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION QUINTA.- INDUCCION Y AUXILIO AL SUICIDIO
+#### SECCION CUARTA.- REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### Artículo 284. Bis.
 
@@ -2687,7 +2695,7 @@ Comete el delito de violencia familiar el cónyuge; la cónyuge; concubino; conc
 
 A quien cometa el delito de violencia familiar, se le impondrán de uno a seis años de prisión y multa de cincuenta a ciento cincuenta días de salario; y estará sujeto a tratamiento integral para su rehabilitación por un tiempo que no rebase la sanción privativa de la libertad que se haya impuesto, así como la pérdida de la patria potestad, de los derechos hereditarios y de alimentos.
 
-La Autoridad Judicial y el Ministerio Público, en su caso, dictará las medidas necesarias para el tratamiento psicoterapéutico del agresor y de la víctima, ordenando cuando sea procedente las medidas apropiadas para salvaguardar la integridad de sus familiares.
+La Autoridad Judicial y el Ministerio Público, en su caso, dictará las medidas necesarias para el tratamiento psicoterapéutico del agresor y la víctima, ordenando cuando sea procedente las medidas apropiadas para salvaguardar la integridad de sus familiares.
 
 (ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003
 
@@ -2731,9 +2739,7 @@ Si en los casos previstos en el artículo anterior se cometiere otro delito, se 
 
 CAPITULO DECIMOCUARTO.- DELITOS CONTRA LA PAZ, LA SEGURIDAD Y LAS GARANTIAS DE LAS PERSONAS
 
-#### SECCION SEXTA.- HOMICIDIO EN RAZON DEL PARENTESCO O RELACION
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+#### SECCION QUINTA.- INDUCCION Y AUXILIO AL SUICIDIO
 
 ###### Artículo 290.
 
@@ -2761,9 +2767,9 @@ II.- Si exigió que el amenazado cometiera un delito, se acumulará a la sanció
 
 III.- Si lo que exigió fue que el amenazado dejara de ejecutar un acto lícito, se le impondrá el doble de la sanción correspondiente a la amenaza.
 
-#### SECCION SEPTIMA.- HOMICIDIO O LESIONES EN ESTADO DE EMOCION VIOLENTA
+#### SECCION SEXTA.- HOMICIDIO EN RAZON DEL PARENTESCO O RELACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
 ###### Artículo 293.
 
@@ -2771,7 +2777,9 @@ Al que sin motivo justificado, sin orden de autoridad competente y fuera de los 
 
 En el delito de allanamiento de morada será necesaria la formulación de la querella de la parte ofendida.
 
-#### SECCION OCTAVA.- ABORTO
+#### SECCION SEPTIMA.- HOMICIDIO O LESIONES EN ESTADO DE EMOCION VIOLENTA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 1994)</small>
 
 ###### Artículo 294.
 
@@ -2797,7 +2805,7 @@ Si los delitos a que se refieren los artículos 294 y 295, se realizaren de noch
 
 Cuando dos o más salteadores atacaren una población, se impondrán de quince a cincuenta años de prisión a los cabecillas o jefes, y de doce a cuarenta años a los demás, sin perjuicio de aplicar las reglas de acumulación por cualesquiera otros delitos que resultaren cometidos.
 
-#### SECCION PRIMERA.- ATAQUES PELIGROSOS
+#### SECCION OCTAVA.- ABORTO
 
 ###### Artículo 299.
 
@@ -2817,7 +2825,7 @@ Si la detención a que se refiere la fracción I del artículo anterior, excedie
 
 Se impondrá prisión de dos a seis años y multa de diez a cien días de salario, al que obligue a otro a prestarle trabajos o servicios personales sin la debida retribución, ya sea empleando violencia física o moral o valiéndose del engaño, de la intimidación o de cualquier otro medio.
 
-#### SECCION SEGUNDA.- ABANDONO DE PERSONAS
+#### SECCION PRIMERA.- ATAQUES PELIGROSOS
 
 ###### Artículo 302.
 
@@ -2875,15 +2883,13 @@ Para efectos de la fracción V del artículo 302, comete el delito de robo de in
 
 CAPITULO DECIMOQUINTO.- DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
+#### SECCION SEGUNDA.- ABANDONO DE PERSONAS
+
 #### SECCION PRIMERA.- GOLPES Y OTRAS VIOLENCIAS FISICAS
 
 #### SECCION SEGUNDA.- DIFAMACION
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
-
-#### SECCION TERCERA.- CALUMNIA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 305.
 
@@ -2969,9 +2975,9 @@ Si las lesiones fueren inferidas en riña, se impondrán al responsable como san
 
 Al que infiera lesiones calificadas se les impondrán las sanciones correspondientes a las lesiones simples, aumentadas hasta en un tercio más de su duración, por la concurrencia de cada una de las circunstancias previstas en el artículo 323.
 
-#### SECCION CUARTA.- DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
+#### SECCION TERCERA.- CALUMNIA
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 312.
 
@@ -3019,7 +3025,9 @@ Al responsable de cualquier homicidio simple intencional y que no tenga señalad
 
 Cuando el homicidio se cometiere en riña o duelo, se impondrá al responsable una sanción de dos a nueve años de prisión, si es el provocado y de cinco a doce años, si es el provocador.
 
-#### SECCION PRIMERA.- ROBO
+#### SECCION CUARTA.- DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 318.
 
@@ -3045,9 +3053,7 @@ III.- Cuando las lesiones sean unas mortales y otras no y se ignorare quiénes i
 
 IV.- Cuando las lesiones sólo fueren mortales por su número y no se pueda determinar quiénes las infirieron, se impondrán de tres a ocho años de prisión a todos los que hubieren atacado al occiso con armas a propósito para causarle esas lesiones.
 
-#### SECCION SEGUNDA.- ROBO DE GANADO, DE INSTRUMENTOS DE LABRANZA O DE FRUTOS
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+#### SECCION PRIMERA.- ROBO
 
 ###### Artículo 321.
 
@@ -3107,7 +3113,9 @@ Al responsable de un homicidio calificado, se le impondrá de veinte a cincuenta
 
 De las lesiones que a una persona cause algún animal, será responsable el que con esa intención lo azuce, o lo suelte o haga esto último por descuido.
 
-#### SECCION TERCERA.- ABUSO DE CONFIANZA
+#### SECCION SEGUNDA.- ROBO DE GANADO, DE INSTRUMENTOS DE LABRANZA O DE FRUTOS
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 333.
 
@@ -3125,7 +3133,7 @@ El que pudiendo impedir un suicidio, no lo impida o no lo evite, o impidiere que
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JULIO DE 1994)</small>
 
-#### SECCION CUARTA.- FRAUDE
+#### SECCION TERCERA.- ABUSO DE CONFIANZA
 
 ###### Artículo 336.
 
@@ -3143,7 +3151,7 @@ Al que cometa el delito a que se refiere el artículo que antecede, se le impond
 
 Sí la víctima fuere mujer, se aumentará de uno a tres años de las sanciones que correspondan imponer, conforme a los artículos 316, 331 y 337.
 
-#### SECCION QUINTA.- DESPOJO
+#### SECCION CUARTA.- FRAUDE
 
 ###### Artículo 338.
 
@@ -3153,7 +3161,7 @@ I.- (DEROGADA, P.O. 1 DE JULIO DE 1994)
 
 II.- (DEROGADA, P.O. 1 DE JULIO DE 1994)
 
-#### SECCION SEXTA.- DAÑO EN PROPIEDAD AJENA
+#### SECCION QUINTA.- DESPOJO
 
 ###### Artículo 339.
 
@@ -3193,11 +3201,11 @@ IV.- Cuando el aborto se deba a causas eugenésicas graves, según dictamen que 
 
 CAPITULO DECIMOSEXTO.- DELITOS DE PELIGRO
 
+#### SECCION SEXTA.- DAÑO EN PROPIEDAD AJENA
+
 #### SECCION SEPTIMA.- CHANTAJE
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-#### SECCION OCTAVA.- REGLA COMUN A VARIAS SECCIONES ANTERIORES
 
 ###### Artículo 344.
 
@@ -3207,7 +3215,7 @@ Se aplicará de tres días a dos años de prisión y multa de tres a treinta dí
 
 Si a consecuencia de los actos a que se refiere el artículo anterior se causare algún daño, solamente se impondrán las sanciones del delito que resultare.
 
-#### SECCION PRIMERA.- EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
+#### SECCION OCTAVA.- REGLA COMUN A VARIAS SECCIONES ANTERIORES
 
 ###### Artículo 346.
 
@@ -3255,9 +3263,9 @@ Si en los supuestos previstos por los artículos que forman esta sección, se ca
 
 CAPITULO DECIMOSEPTIMO.- DELITOS CONTRA EL HONOR
 
-#### SECCION SEGUNDA.- ABUSO DE AUTORIDAD O INCUMPLIMIENTO DE UN DEBER LEGAL
+#### SECCION PRIMERA.- EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
 
-#### SECCION TERCERA.- DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
+#### SECCION SEGUNDA.- ABUSO DE AUTORIDAD O INCUMPLIMIENTO DE UN DEBER LEGAL
 
 ###### Artículo 355.
 
@@ -3267,7 +3275,7 @@ Se impondrá de tres meses a tres años de prisión y multa de cinco a cincuenta
 
 Son simples los golpes y las violencias físicas que no causen lesión en el ofendido.
 
-#### SECCION CUARTA.- COHECHO
+#### SECCION TERCERA.- DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
 
 ###### Artículo 357.
 
@@ -3297,7 +3305,7 @@ III.- Al autor de un escrito o de un alegato, presentado en los tribunales, que 
 
 Lo prevenido en la fracción última del artículo anterior, no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio, o contenga hechos que no se relacionan con el negocio de que se trata. Si así fuere, se aplicarán las sanciones de la difamación o de la calumnia.
 
-#### SECCION QUINTA.- PECULADO
+#### SECCION CUARTA.- COHECHO
 
 ###### Artículo 362.
 
@@ -3321,7 +3329,7 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se li
 
 Cuando haya pendiente un juicio en averiguación de un delito imputado a alguien y se haya acusado de calumnia al denunciante o querellante, se suspenderá el ejercicio de la acción de calumnia, hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
 
-#### SECCION SEXTA.- CONCUSION
+#### SECCION QUINTA.- PECULADO
 
 ###### Artículo 366.
 
@@ -3363,7 +3371,7 @@ II.- Si la infracción se comete por medio de algún periódico, se aplicará lo
 
 CAPITULO DECIMOCTAVO.- DELITOS CONTRA LAS PERSONAS EN SU PATRIMONIO
 
-#### SECCION SEPTIMA.- ENRIQUECIMIENTO ILICITO
+#### SECCION SEXTA.- CONCUSION
 
 ###### Artículo 373.
 
@@ -3531,7 +3539,7 @@ El robo o destrucción de un título de crédito o de un documento original, en 
 
 Al que se le imputare el hecho de haber tomado una cosa ajena y acredite haberla tomado con carácter temporal para su uso, se le aplicarán de uno a seis meses de prisión, si no se negó a devolverla cuando se le requirió para ello.
 
-#### SECCION OCTAVA.- TRAFICO DE INFLUENCIA
+#### SECCION SEPTIMA.- ENRIQUECIMIENTO ILICITO
 
 ###### Artículo 390.
 
@@ -3577,7 +3585,7 @@ III.- Con prisión de tres a ocho años y multa de quince a ciento cincuenta dí
 
 Para la aplicación de las sanciones previstas en los artículos anteriores de esta sección, los jueces y tribunales tendrán en cuenta, además de las reglas generales consignadas en los artículos 72 a 75, la importancia del daño causado, en relación con las condiciones económicas del ofendido.
 
-#### SECCION NOVENA.- REGLAS GENERALES
+#### SECCION OCTAVA.- TRAFICO DE INFLUENCIA
 
 ###### Artículo 396.
 
@@ -3615,9 +3623,7 @@ Cuando el delito previsto en esta Sección, se cometa en perjuicio de cooperativ
 
 En el supuesto previsto en el artículo anterior, si el autor del delito repara el daño, antes de dictarse sentencia condenatoria, la sanción será de dos a cinco años de prisión y multa de treinta a trescientos días de salario.
 
-#### SECCION UNICA
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
+#### SECCION NOVENA.- REGLAS GENERALES
 
 ###### Artículo 402.
 
@@ -3748,6 +3754,10 @@ Se impondrá prisión de siete a diez años y multa de quinientos a mil días de
 ###### Artículo 407.
 
 Cuando el delito previsto en esta sección, se cometa en perjuicio de cooperativas, sociedades o agrupaciones en que estén interesados obreros, campesinos o indígenas, la sanción será de cuatro a diez años de prisión y multa de cincuenta a trescientos días de salario.
+
+#### SECCION UNICA
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
 
 #### SECCION UNICA
 
@@ -4524,3 +4534,9 @@ PRIMERO.- Se derogan las disposiciones legales que se opongan al presente Decret
 SEGUNDO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor social o de oficio, se entenderá ahora por éstos a los Defensores Públicos.
+
+P.O. 22 DE ENERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que contravengan las contenidas en el presente Decreto.
