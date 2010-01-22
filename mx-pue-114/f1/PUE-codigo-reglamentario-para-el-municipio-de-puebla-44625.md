@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2009-12-14"
+last_updated: "2010-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5023,7 +5023,7 @@ Los hospitales, sanatorios, clínicas, fabricas, industrias, comercios, oficinas
 
 ###### Artículo 392 Bis.
 
-El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social y privado, para implementar acciones de protección civil en beneficio de la sociedad.
+El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social Y privado, para implementar acciones de protección civil en beneficio de la sociedad.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -5465,7 +5465,7 @@ Los vehículos que contengan y transporten materiales y sustancias inflamables, 
 
 No se permitirán maniobras de carga y descarga después de las dieciocho horas y ninguna hora de acceso a la ciudad los días sábados y domingos. Los carros tanques que abastezcan la gasolina y combustibles a los expendios urbanos, quedan exceptuados de lo anterior.
 
-Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo y control en caso de fuga o derrame.
+Los propietarios o responsables deberán de proveer a los conductores de los vehículos de materiales o substancias químicas o con riesgo de incendio, del equipo de protección de personal e información necesaria para la prevención, manejo Y control en caso de fuga o derrame.
 
 ###### Artículo 426.
 
@@ -9657,9 +9657,9 @@ DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -9667,7 +9667,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -10089,27 +10089,53 @@ Director Responsable de Obra, es la persona física profesional competente que s
 
 La calidad de Director Responsable de Obra se adquiere con el registro de la persona ante la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, habiendo cumplido previamente con los requisitos establecidos en el artículo 662.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
-Todos los funcionarios del Ayuntamiento, en especial los de la Dirección de Gestión, encargados de la aplicación y vigilancia del cumplimiento de este Capítulo, deberán tener la calidad de Director Responsable de Obra o Corresponsable. En caso que no lo fuera en el momento de su nombramiento, contarán con un plazo de 6 meses a partir del mismo para cumplir este requisito.
+Todos los funcionarios del Ayuntamiento, en especial los de la Dirección de Gestión y la Dirección de Obras, encargados de la aplicación y vigilancia del cumplimiento de este Capítulo, deberán tener la calidad de Director Responsable de Obra o Corresponsable. En caso de que no lo fuera en el momento de su nombramiento, contarán con un plazo de 6 meses a partir del mismo para cumplir este requisito.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### Artículo 662.
 
 Para obtener el registro como Director Responsable de Obra, se deberán satisfacer los siguientes requisitos:
 
-I. Acreditar ante la comisión, que posee cédula profesional correspondiente a alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Militar, Constructor o Ingeniero Municipal;
+I. Presentar ante la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, los siguientes documentos:
 
-II. Acreditar ante la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, que conoce la Ley de Desarrollo Urbano Sustentable del Estado, Ley de Fraccionamientos y su reglamento, los Programas de Desarrollo Urbano Municipales vigentes, el presente Capítulo y sus Normas Técnicas Complementarias, el Código Civil para el Estado de Puebla, el Régimen de Propiedad en Condominio de Inmuebles y las otras leyes y disposiciones reglamentarias relativas y aplicables al diseño urbano, la vivienda, la construcción y la preservación del patrimonio histórico, artístico y arqueológico de carácter Federal, Estatal y Municipal;
+a) Solicitud por escrito, para inscribirse en el Registro de Directores Responsables de Obra y Corresponsables, señalando domicilio para oír y recibir notificaciones, debidamente firmada y dirigida al Presidente de la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla;
 
-III. Acreditar como mínimo tres años en el ejercicio profesional en la construcción de obras a las que se refiere este Capítulo mediante Currículo Vitae debidamente sustentado;
+b) Copia certificada reciente del acta de nacimiento;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+c) Copia certificada ante Notario Público del título y cédula profesional que acredite alguna de las siguientes profesiones: Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Militar, Constructor o Ingeniero Municipal, Urbanista o profesión afín;
 
-IV. Acreditar que es miembro con derechos vigentes, de uno o más colegios de profesionales constituidos en el Municipio; y
+d) Dos fotografías tamaño infantil a color;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+e) Comprobante de domicilio, que acredite una antigüedad mínima de seis meses anteriores a la fecha en que solicita el registro;
 
-V. Presentar constancia vigente de haber acreditado el curso de Directores Responsables de Obra y Corresponsables. Constancia que deberá tener como término, máximo de expedición de dos años, al día en que se inicien los trámites administrativos correspondientes ante la Dirección de Gestión.
+f) Clave Única del Registro de Población; y
+
+g) Pago de derechos, por la aplicación del examen de conocimientos específicos.
+
+II. Acreditar el examen que aplique la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, en lo relativo a los aspectos correspondientes a su especialidad;
+
+III. Acreditar un mínimo de tres años de experiencia en el ejercicio profesional en la construcción de obras a las que se refiere este Capítulo mediante Currículum Vitae debidamente sustentado y actualizado con: a) Desglose de cada una de las obras en que haya tenido intervención; b) Tipo de obra; c) Fecha o periodo de supervisión de la obra; d) Ubicación de la obra supervisada; e) Superficie construida; f) Director Responsable de Obra; g) Empresa a la que ha prestado sus servicios profesionales; debiendo acompañarlo de los convenios, contratos, facturas, actas de entrega recepción, constancias de terminación de obra y demás documentos que avalen las obras o actividades declaradas;
+
+V (SIC). Presentar constancia vigente de haber acreditado el curso de Directores Responsables de Obra y Corresponsables. Constancia que deberá tener como término máximo de expedición de dos años, al día en que se inicien los trámites administrativos correspondientes ante la Dirección de Gestión.
+
+La Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, deberá analizar si la solicitud y los demás documentos a que se refiere este artículo se encuentran completos, y en caso contrario se notificará personalmente al solicitante, para que en el término de dos días hábiles siguientes en que surta sus efectos la notificación, acompañe la documentación requerida, en caso de no hacerlo así, se tendrá por desechada su solicitud.
+
+Si la solicitud reúne los requisitos señalados, la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, dentro de los tres días hábiles posteriores a la recepción de la misma, señalará lugar, día y hora para la aplicación del examen, dando a conocer al solicitante esos datos en el domicilio que haya señalado para recibir notificaciones.
+
+El examen para obtener el registro de Directores Responsables de Obra y Corresponsables será elaborado y calificado por el Secretario Técnico, previa propuesta del contenido del mismo por parte de los Colegios miembros de la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla.
+
+El resultado se hará saber al solicitante, a más tardar, cinco días hábiles siguientes al examen, dicho resultado será integrado en listado público y el Colegio respectivo constatará y validará que coincida con los resultados obtenidos.
+
+El resultado del examen podrá ser objetado ante la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla.
+
+En caso de que el examen sea aprobado, la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, previo pago de derechos por la expedición de la autorización y credencial respectiva, requerirá a la Dirección de Gestión para que incorpore al solicitante al Registro de Directores Responsables de Obra y Corresponsables y lo considerará apto para hacerse responsable técnicamente de la observancia y cumplimiento de las normas técnicas de este Capítulo en las obras para las que otorgue su responsiva.
+
+El Registro de Directores Responsables de Obra y Corresponsables será de acceso público.
+
+Dentro del mes de enero de cada ejercicio fiscal, los Directores Responsables de Obra deberán refrendar su registro ante la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, previo pago de los derechos correspondientes, siempre y cuando no haya sido cancelado por causas imputables a los mismos.
 
 ###### Artículo 663.
 
@@ -10127,7 +10153,9 @@ IV. Suscriba un Dictamen o Constancia de estabilidad o seguridad estructural de 
 
 Son obligaciones del Director Responsable de Obra:
 
-I. Dirigir y vigilar la obra, asegurándose de que tanto el proyecto, como la ejecución de la misma, cumplan con lo establecido en los ordenamientos y demás disposiciones del artículo 662;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+I. Dirigir y vigilar la obra, asegurándose de que tanto el proyecto, como la ejecución de la misma, cumplan con lo establecido en los ordenamientos y demás disposiciones legales aplicables;
 
 II. Contar con los Corresponsables a que se refiere el artículo 666, en los casos que en ese mismo artículo se numeran. En los casos no incluidos en dicho artículo, el Director Responsable de Obra podrá definir libremente la participación de los Corresponsables. El Director Responsable de Obra, deberá comprobar que cada uno de los Corresponsables con que cuente, según sea el caso, cumpla con las obligaciones que se indican en el Artículo 669;
 
@@ -10163,7 +10191,9 @@ VII. Coadyuvar con el propietario, para que una vez concluida la obra, cuente co
 
 VIII. Refrendar anualmente su registro de Director Responsable de obra.
 
-En este caso, se seguirá el procedimiento indicado en el Artículo 662, sin que sea necesario presentar de nuevo la documentación que ya obra en poder de la Dirección; en particular informará a la Comisión sobre las licencias y dictámenes que haya suscrito, así como de todas sus intervenciones con el carácter de Director Responsable de Obra, debiendo además acreditar que es miembro activo del Colegio de Profesionales respectivo de la localidad. Y acreditar haber tomado durante el año un mínimo de 30 horas de cursos de actualización, los cuales deberán estar autorizados por la comisión.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
+En este caso, se seguirá el procedimiento indicado en el artículo 662, sin que sea necesario presentar de nuevo la documentación que ya obra en poder de la Comisión; debiendo informar a ésta sobre las licencias y dictámenes que haya suscrito, así como de todas sus intervenciones con el carácter de Director Responsable de Obra, debiendo además acreditar haber tomado durante el año un mínimo de 30 horas de cursos de actualización, los cuales deberán estar autorizados por la misma Comisión;
 
 IX. Vigilar que el ejecutor de la obra entregue al propietario al término de ésta, los manuales de operación y mantenimiento cuyo contenido mínimo será:
 
@@ -10263,11 +10293,15 @@ d) Corresponsables en instalaciones de gas. En crematorios, calderas, empresas q
 
 III. CORRESPONSABLE EN RESTAURACIÓN.- Para todas las edificaciones nuevas y existentes dentro de la zona de Monumentos, las que colinden con bienes de valor patrimonial y las Catalogadas fuera de ella, para Mantenimiento, Restauración, Aseguramiento, Reestructuración, Integración, Reintegración, Consolidación, Anastilosis, adecuación, introducción de nuevos sistemas de instalaciones y servicios, Actualización de Sitios Históricos y Revitalización. Se le considerará además como Corresponsable de bienes accesorios y bienes muebles asociados, con la licenciatura o especialidad en restauración de bienes muebles, para casos específicos determinados por la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables y del Comité Técnico correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### Artículo 667.
 
-Para obtener o refrendar el registro como Corresponsable, se requiere:
+Para obtener el registro como Corresponsable, se requiere presentar además de los requisitos señalados en la fracción I incisos a), b), d), e), f) y g) del artículo 662 los documentos siguientes:
 
-I. Acreditar que posee cédula profesional de licenciatura o maestría correspondiente a alguna de las siguientes profesiones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2010)</small>
+
+I. Presentar copia certificada del título y cédula profesional de licenciatura o maestría correspondiente a alguna de las siguientes profesiones:
 
 a) Para Seguridad Estructural, Diseño Urbano y Arquitectónico: De Arquitecto, Ingeniero Arquitecto, Ingeniero Civil, Ingeniero Militar Constructor e Ingeniero Municipal o Diseño Urbano;
 
@@ -10283,17 +10317,29 @@ b) Para instalaciones:
 
 Para los Corresponsables en Restauración se requiere, además de las señaladas en el párrafo inicial de esta fracción: la especialización académica correspondiente como restaurador de sitios y monumentos, conservador de sitios y monumentos, u otras, afines a la disciplina, a consideración de la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables y del Comité Técnico correspondiente;
 
-II. Acreditar ante la Comisión que conoce este Capítulo y las Normas Técnicas Complementarias, en lo relativo a los aspectos correspondientes a su especialidad, para lo cual deberá obtener el dictamen favorable por la autoridad competente;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-III. Acreditar como mínimo 5 años en el ejercicio profesional de su especialidad;
+II. Acreditar el examen que aplique la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, en lo relativo a los aspectos correspondientes a su especialidad;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-IV. Acreditar que es miembro con derechos vigentes del Colegio de Profesionales respectivo de la localidad;
+III. Acreditar como mínimo cinco años en el ejercicio profesional de su especialidad, mediante currículum vitae debidamente sustentado, y actualizado con: a) Desgloce (sic) de cada una de las obras en que haya tenido intervención; b) Tipo de obra; c) Fecha o periodo de supervisión de la obra; d) Ubicación de la obra supervisada; e) Superficie construida; f) Director Responsable de Obra; g) Empresa a la que ha prestado sus servicios profesionales; debiendo acompañarlo de los convenios, contratos, facturas, actas de entrega recepción, constancias de terminación de obra y demás documentos que avalen las obras o actividades declaradas;
 
-V. En el caso de refrendo del registro, acreditar ante la Comisión haber cumplido satisfactoriamente con las obligaciones a que se refiere el presente artículo durante el período previo al refrendo; y
+IV. (DEROGADA, P.O. 22 DE ENERO DE 2010)
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+V. Presentar constancia vigente de haber acreditado el curso de Directores Responsables de Obra y Corresponsables. Constancia que deberá tener como término máximo de expedición el de dos años, al día en que se inicien los trámites administrativos correspondientes ante la Dirección de Gestión Urbana; y
 
 VI. Para obtener el refrendo como Corresponsable deberá acreditar cursos de actualización en su especialidad, cumpliendo con los requerimientos que para el caso determine la CAADROC.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
+
+La Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, resolverá sobre el examen y el registro en los términos señalados por el artículo 662 del presente Código Reglamentario.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
+
+Dentro del mes de enero de cada ejercicio fiscal, los Corresponsables de Obra deberán refrendar su registro ante la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, previo pago de los derechos correspondientes, siempre y cuando no haya sido cancelado por causas imputables a los mismos. Debiendo informar a dicha Comisión, sobre su participación en aquellas licencias en las que haya otorgado su responsiva, así como de sus demás actuaciones con ese carácter.
 
 ###### Artículo 668.
 
@@ -10407,69 +10453,65 @@ e) Responder de cualquier violación a las disposiciones del presente Capítulo,
 
 f) Incluir en el letrero de la obra su nombre y número de registro.
 
-Todos los Corresponsables deberán refrendar su registro cada año o cuando lo determine la Dirección con la Comisión, por modificaciones al Capítulo o a las Normas Técnicas Complementarias; para ello se seguirá el procedimiento indicado en el Artículo 667. En particular informará a la Comisión de Asesoría y Admisión de Responsables de Obra y Corresponsables, sobre su participación en aquellas licencias en las que haya otorgado su responsiva, así como de sus demás actuaciones con ese carácter, debiendo acreditar además que es miembro activo del Colegio de Profesionales correspondiente en la localidad.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 22 DE ENERO DE 2010)</small>
 
 DE LA COMISION DE ASESORIA Y ADMISIÓN DE DIRECTORES RESPONSABLES
 
 DE OBRA Y CORRESPONSABLES
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### Artículo 670.
 
-Se crea la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables, la cual se integrará por:
+La Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, se integrará por:
 
-I. Dos representantes de la Dirección, designados por el C. Presidente Municipal, uno de los cuales será el secretario de la comisión;
+I. Un Presidente, con voz y voto, que será el Presidente Municipal;
 
-II. Un representante propietario y un suplente de los:
+II. Un Vicepresidente, con voz y voto, que será el Titular de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+III. Un Secretario Técnico, con voz y voto, que será el Director de Gestión y Desarrollo Urbano Sustentable;
 
-a). Colegios de Ingenieros Civiles registrados ante la Dirección de Gestión en el Municipio de Puebla.
+IV. Un Vocal, con voz y voto, que será el Director de Obras;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+V. Un Vocal, con voz y voto, que será el Presidente de la Comisión de Regidores de Desarrollo Urbano y Obras Públicas;
 
-b). Colegios de Arquitectos registrados ante la Dirección de Gestión en el Municipio de Puebla.
+VI. Un Vocal, con voz y voto, que será el Director de la Agencia de Protección al Ambiente para el Desarrollo Sustentable del Municipio de Puebla;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+VII. Un Vocal, con voz y voto, de cada uno de los siguientes Colegios:
 
-c). Colegios de Ingenieros Municipales registrados ante la Dirección de Gestión en el Municipio de Puebla.
+a) Colegios de Ingenieros Civiles registrados ante la Dirección de Gestión en el Municipio de Puebla;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+b) Colegios de Arquitectos registrados ante la Dirección de Gestión en el Municipio de Puebla;
 
-d). Colegios de Ingenieros Mecánicos y Electricistas registrados ante la Dirección de Gestión en el Municipio de Puebla.
+c) Colegios de Ingenieros Municipales registrados ante la Dirección de Gestión en el Municipio de Puebla;
 
-e). (DEROGADO, P.O. 14 DE DICIEMBRE DE 2005)
+d) Colegios de Ingenieros Mecánicos y Electricistas registrados ante la Dirección de Gestión en el Municipio de Puebla;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+e) Colegios de Restauradores registrados ante la Dirección de Gestión en el Municipio de Puebla; y
 
-f). Colegios de Restauradores registrados ante la Dirección de Gestión en el Municipio de Puebla.
+f) Colegio de Urbanistas registrados ante la Dirección de Gestión en el Municipio de Puebla.
 
-III. Por los Presidentes de las Comisiones de Regidores Desarrollo Urbano y Obra Pública del H. Ayuntamiento;
+VIII. Cuatro Vocales, con voz y sin voto, que serán los Presidentes de los Consejos Municipales de Participación Ciudadana siguientes:
 
-IV. Los Presidentes de los Consejos Consultivos;
+a) De Desarrollo Urbano;
 
-a). De Desarrollo Urbano.
+b) De Centro Histórico y Patrimonio Edificado;
 
-b). De Centro Histórico y Patrimonio Edificado.
+c) De Ecología; y
 
-c). De Gestión Ambiental; y
+d) De Obra y Servicios Públicos.
 
-d). De Obra y Servicios Públicos.
+Todos los miembros de la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, deberán nombrar un suplente que los representará en caso de ausencia.
 
-Todos los miembros de la Comisión deberán tener registro de Director Responsable de Obra o Corresponsable, a excepción de los mencionados en la fracción III y IV de este artículo.
+El Presidente de la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, contará con voto de calidad en caso de empate en los acuerdos tomados por la misma Comisión.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+Los Vocales señalados en la fracción VII, serán nombrados en Sesión Ordinaria de Cabildo de entre los Colegios registrados ante la Dirección de Gestión.
 
-En el mes de octubre de cada año, la Comisión de Asesoría y Admisión de los Directores Responsables de Obra y Corresponsables, a través de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable, solicitará a cada uno de los organismos participantes, los nombres de sus representantes Propietario y Suplente, quienes deberán cumplir con lo dispuesto en este artículo.
+Los miembros de la Comisión deberán tener registro de Director Responsable de Obra o Corresponsable, a excepción de los mencionados en las fracciones I, V, VI y VIII de este articulo.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+En el mes de octubre de cada año, la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables del Municipio de Puebla, a través de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable, solicitará a cada uno de los organismos participantes, los nombres de sus representantes propietario y suplente, quienes deberán cumplir con lo dispuesto en este articulo.
 
-El Periodo para la gestión de los representantes de Colegios será por un año y podrán ser ratificados por un máximo de dos años.
-
-El Presidente de la Comisión será el C. Presidente Municipal.
-
-La comisión contara con un vice-presidente ejecutivo, que será elegido en forma interna por los propios integrantes de esta comisión, en la segunda sesión del mes de octubre y tendrá una duración en su cargo por un periodo de dos años, pudiendo ser reelecto una sola ocasión y tendrá voto de calidad en caso de empate.
-
-No podrán ser electos al cargo de vicepresidente ejecutivo los integrantes mencionados en las fracciones III y IV de este artículo.
+El periodo para la gestión de los representantes de Colegios será por un año y podrán ser ratificados por un máximo de dos años.
 
 Las sesiones de la Comisión serán válidas cuando asistan por lo menos el cincuenta por ciento más uno de los representantes de las instituciones mencionadas.
 
@@ -10489,27 +10531,35 @@ V. Vigilar, la actuación de los Directores Responsables de Obra durante el proc
 
 VI. La Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables, podrá exponer sus consideraciones en relación a todos aquellos artículos previstos en este Capítulo;
 
-VII. Proponer el manual de funcionamiento de la misma y de los comités que la forman, que contemplaran el procedimiento para la evaluación de los aspirantes para Directores Responsables de Obra y Corresponsables, las propuestas de remoción de sus miembros, el procedimiento a seguir en los casos de renuncia o fallecimiento y el carácter rotatorio de la presidencia de los comités y deberán contar para ser vigentes con la aprobación de Cabildo; para lo cual los C. Regidores integrantes de la Comisión serán el conducto; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+VII. Proponer el manual de funcionamiento de la misma y de los Comités que la forman, que contemplarán, entre otros aspectos, las propuestas de remoción de sus miembros, el procedimiento a seguir en los casos de renuncia o fallecimiento y el carácter rotatorio de la Presidencia de los Comités y deberán contar para ser vigentes con la aprobación de Cabildo; para lo cual los Regidores integrantes de la Comisión serán el conducto; y
 
 VIII. Emitir opinión sobre las licencias de construcción de todas aquellas obras que por sus características constructivas o de impacto publico puedan afectar la traza urbana, los usos, las costumbres o la seguridad de la ciudadanía.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2010)</small>
 
 ###### Artículo 672.
 
-Para el cumplimiento de las atribuciones a que se refiere el artículo anterior, la Comisión contará con un Comité Técnico para cada una de las corresponsabilidades existentes, los cuales estarán integrados por profesionales de reconocida experiencia y capacidad técnica, designados por la Comisión, a propuesta de los Colegios Profesionales.
+Para el cumplimiento de las atribuciones a que se refiere el artículo anterior, la Comisión de Asesoría y Admisión de Corresponsables de Obra, contara con un Comité Técnico de Apoyo para cada una de las corresponsabilidades existentes, los cuales estarán integrados por profesionales de reconocida experiencia y capacidad técnica, designados por la Comisión, a propuesta de los Colegios Profesionales.
 
 El H. Ayuntamiento, a través del C. Presidente Municipal, tendrá derecho de veto en la designación de los miembros de los comités.
 
 Dichos comités quedarán integrados de la siguiente forma:
 
-I. El Comité Técnico de Directores Responsables de Obra, por un mínimo de tres Directores Responsables de Obra, que como mínimo tengan su registro de Director Responsable de Obra con una antigüedad de 5 años a su nombramiento;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-II. Los Comités Técnicos de Corresponsables en Seguridad Estructural, Diseño Urbano, Diseño Arquitectónico, Restauración y adecuación, Instalaciones Hidráulicas, Instalaciones Eléctricas, Instalaciones Mecánicas y de Gas se formarán cada cual, con tres profesionales especialistas en la correspondiente disciplina;
+I. El Comité Técnico de Apoyo de Directores Responsables de Obra, por un mínimo de tres Directores Responsables de Obra, que como mínimo tengan su registro de Director Responsable de Obra con una antigüedad de cinco años a su nombramiento;
 
-III. Los Comités evaluarán los conocimientos a que se refiere la fracción II del Artículo 662 y la fracción II del Artículo 667, de los aspirantes a Director Responsable de Obra y Corresponsables, debiendo emitir el dictamen correspondiente y enviarlo a la Comisión, para su validación; y
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-IV. Cada año se substituirá un miembro de cada Comité, a propuesta y selección de los propios comités, el organismo afectado propondrá a la comisión a el profesionista que lo substituirá.
+II. Los Comités Técnicos de Apoyo de Corresponsables en Seguridad Estructural, Diseño Urbano, Diseño Arquitectónico, Restauración y Adecuación, Instalaciones Hidráulicas, Instalaciones Eléctricas, Instalaciones Mecánicas, Gas, u otras, se formarán cada cual, con tres profesionales especialistas en la correspondiente disciplina;
+
+III. (DEROGADA, P.O. 22 DE ENERO DE 2010)
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+IV. Cada año se substituirá un miembro de cada Comité Técnico de Apoyo, a propuesta y selección de los propios Comités, el organismo afectado propondrá a la Comisión al profesionista que lo substituirá.
 
 DEL CAMBIO, TÉRMINO DE FUNCIONES, TÉRMINO DE RESPONSABILIDAD Y SUSPENSIÓN DE DIRECTORES RESPONSABLES DE OBRA
 
@@ -12489,7 +12539,63 @@ e). Disminución mínima del diámetro interior de la campana.
 
 f). Esp. medido en el cuerpo del tubo.
 
-(VEASE ARCHIVO ANEXO)
+A B C D E F
+
+0.20 0.610 0.762 0.914 0.273 0.057 1.20 0.019
+
+0.25 0.610 0.762 0.914 0.330 0.063 1.20 0.022
+
+0.30 0.610 0.762 0.914 0.387 0.063 1.20 0.025
+
+0.38 0.610 0.762 0.914 0.476 0.063 1.20 0.032
+
+0.45 0.610 0.762 0.914 0.565 0.070 1.20 0.038
+
+0.53 0.610 0.762 0.914 0.669 0.070 1.20 0.044
+
+0.61 0.610 0.762 0.914 0.749 0.076 1.20 0.054
+
+Los tubos de polietileno de alta densidad deberán tener las siguientes dimensiones mínimas
+
+a). Diámetro en metros.
+
+b). Longitud en metros.
+
+c). Diámetro interior medido en la boca de la campana.
+
+d). Profundidad de la campana en metros.
+
+e). Disminución mínima del diámetro interior de la campana.
+
+f). Esp. Medido en el cuerpo del tubo.
+
+A B C D E F
+
+0.10 M. 6.10 M. 0.12 M. 0.055 M. 0.01 M 0.05 M.
+
+0.15 M. 6.10 M. 0.18 M. 0.062 M. 0.01 M 0.05 M.
+
+0.20 M. 610 M . 0.23 M. 0.09 M. 0.01 M 0.06 M.
+
+0.25 M. 6.10 0.28 M. 0.10M 0.09 M.
+
+0.30 M. 6.10 M. 0.36 M. 0.11 M. 0.01 M 0.10 M.
+
+0.38 M. 6.10 M. 0.44 M. 0.125 M. 0.01 M 0.12 M.
+
+0.45 M. 6.10 M. 0.54 M. 0.15 M. 0.01 M 0.13 M.
+
+0.61 M. 6.10 M. 0.71 M. 0.175 M. 0.01 M 0.15 M.
+
+0.75 M. 6.10 M. 0.90 M. 0.285 M. 0.01 M 0.15 M.
+
+0.91 M. 6.10 M. 1.04 M. 0.285 M. 0.01 M 0.17 M.
+
+1.05 M. 6.10 M. 1.21 M. 0.30 M. 0.01 M 0.18 M.
+
+1.20 M. 6.10 M. 1.33 M. 0.30 M. 0.01 M 0.25 M.
+
+1.50 M. 6.10 M. 1.65 M. 0.30 M. 0.01 M 0.33 M.
 
 ###### Artículo 894.
 
@@ -15007,7 +15113,7 @@ VII. Salidas, rampas, pasillos y escaleras.
 
 ###### Artículo 1108.
 
-La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de "Informe de autorización" expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
+La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de “Informe de autorización” expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
 
 ###### Artículo 1109.
 
@@ -20417,7 +20523,7 @@ II. Emitir la Licencia de Funcionamiento en la que se otorgue la autorización y
 
 III. Expedir las credenciales con fotografía en la que se identifique al Titular de la autorización y/o concesión, con los datos correspondientes; y
 
-IV. Efectuar las anotaciones correspondientes en el padrón en el que se lleve el Registro de Mercado, con relación a las cesiones de derechos efectuadas entre particulares, respecto a los locales y/o plataformas de mercados municipales.
+IV. Efectuar las anotaciones correspondientes en el padrón en el que se lleve el Registro de Mercado, con relación a las cesiones de derechos efectuadas entre particulares, respecto a los locales y/o plataforma de mercados municipales.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -22885,7 +22991,7 @@ Los productos cárnicos que se transporten en el Municipio, deberán estar ampar
 
 El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la autoridad municipal y sometido a inspección sanitaria; adoptando las medidas señaladas en el artículo 1637 Bis del presente Código.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -28317,7 +28423,105 @@ CATALOGO DE PUESTOS
 
 El catalogo de puestos contenido en el presente artículo, atenderá a la estructura administrativa aprobada por el H. Ayuntamiento, tomando en consideración la siguiente tabla:
 
-(VEASE ARCHIVO ANEXO)
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+
+CATÁLOGO DE PUESTOS
+
+GRUPO CATEGORIAS PUESTOS
+
+Médico
+
+Abogado
+
+3º. Administrativo Contador Público
+
+especializado Ingeniero
+
+$5,233.28 Arquitecto
+
+Administrador Público
+
+Paleógrafo
+
+Dibujante
+
+Topógrafo
+
+2º. Técnico Proyectista
+
+Administrativo Fotógrafo
+
+RAMA $4,406.48 Camarógrafo
+
+ADMINISTRATlVA Analista
+
+Secretaria
+
+Cajera
+
+Músico
+
+Recepcionista
+
+Oficial de partes
+
+1o. Administrativo Mensajero
+
+$3,856.32 Pie de rama Notificador
+
+Supervisión de personal
+
+Personal operativo
+
+Visitador
+
+Alcalde
+
+Eléctrico
+
+Albañil
+
+Herrero
+
+3º. Oficial Carpintero
+
+$3,924.10 Mecánico
+
+Rotulista
+
+Plomero
+
+Fontanero
+
+Almacenista
+
+Chofer.
+
+Jefe de brigada
+
+RAMA DE 2º. Técnico Caso de cuadrilla
+
+SERVICIO $3,597.30 Supervisor de campo
+
+Encargado de patio
+
+Jardinero
+
+Sepulturero
+
+Vacunador
+
+Capturador
+
+1o. Auxiliar de servicios Machetero
+
+$3,111.15 Pie de rama Intendente
+
+Barrendero
+
+Velador
+
+Cadenero
 
 ###### Artículo 2035.
 
@@ -32554,3 +32758,17 @@ P.O. 14 DE DICIEMBRE DE 2009.
 PRIMERO. Las presentes reformas y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Dictamen.
+
+P.O. 22 DE ENERO DE 2010.
+
+PRIMERO.- Las presentes reformas, derogaciones y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Dictamen.
+
+TERCERO.- Todas las solicitudes presentadas para obtener el registro de Directores Responsables de Obra y Corresponsables hasta antes de la publicación del presente Dictamen, tendrán que resolverse en términos de la legislación anterior.
+
+CUARTO.- Los registros de Directores Responsables de Obra y Corresponsables, seguirán vigentes hasta el plazo estipulado, debiendo obtener el refrendo respectivo en términos del presente Dictamen.
+
+QUINTO.- Dentro de los quince días hábiles siguientes, contados. a partir de su publicación en el Periódico Oficial del Estado, la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables, sesionará a fin de incorporar a los nuevos miembros de la Comisión. Los Vocales señalados en el artículo 670 fracción VII del presente Reglamento, serán nombrados a propuesta de los Colegios miembros de dicha Comisión.
+
+SEXTO.- La Dirección de Gestión solicitará a la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables, elabore su Manual de Procedimientos dentro de los treinta días hábiles siguientes al nombramiento de los Vocales a que se refiere el artículo 670, para que sea sometido a consideración de la Contraloría Municipal para su correspondiente aprobación.
