@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-precampanas-electorales-para-el-estado-de-72220"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-28"
-last_updated: "2009-12-28"
+last_updated: "2010-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72220&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE PRECAMPAÑAS ELECTORALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2009.
 
@@ -125,6 +125,10 @@ De reunir satisfactoriamente los requisitos, el Consejo General dará a conocer 
 
 Los lineamientos que se presenten fuera de los plazos indicados por la Ley y el Reglamento, serán desechados de plano por el Consejo General y en consecuencia, el partido político no podrá realizar precampaña.
 
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2010)</small>
+
+Los candidatos a cargos de elección popular que hayan sido designados en forma directa, sin que mediare proceso democrático de selección interna, no podrán realizar actos o propaganda de precampaña electoral, en los términos de los artículos 216 y 221 de la Ley.
+
 ### CAPÍTULO III. DE LOS PRECANDIDATOS
 
 ###### ARTÍCULO 12.
@@ -205,13 +209,21 @@ Las reglas para la propaganda de precampañas y su fijación, se sujetará a las
 
 En caso de violación al artículo anterior del Reglamento, se observará lo siguiente:
 
-I. El Consejo General por conducto de la Comisión, al tener conocimiento de los hechos, ordenará al Consejo Distrital Electoral que corresponda al ámbito territorial en que se presente la violación, proceder en un término de cuarenta y ocho horas, a la verificación de los hechos, a través del Secretario Fedatario del Consejo, quien deberá levantar el aeta correspondiente;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
 
-II. De resultar ciertos los hechos, notificará al partido político para que en un plazo de seis horas manifieste lo que a su derecho convenga;
+I. El Consejo General por conducto de la Comisión, al tener conocimiento de los hechos, ordenará al Consejo Distrital Electoral que corresponda al ámbito territorial en que se presente la violación, proceder en un término de setenta y dos horas, verificación (sic) de los hechos, a través del Secretario Fedatario del Consejo, quien deberá levantar el acta correspondiente;
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+II. De resultar ciertos los hechos, notificará al partido político para que en un plazo de veinticuatro horas manifieste lo que a su derecho convenga;
+
+(REPUBLICADA, P.O. 22 DE ENERO DE 2010)
 
 III. Recibida la contestación o vencido el plazo a que se refiere la fracción anterior, el Consejero Presidente del Consejo Distrital someterá a la aprobación de sus integrantes, el proyecto de resolución correspondiente, y
 
-IV. De ordenarse el retiro de la propaganda, el partido político contará con un plazo de seis horas para acatar la resolución. En caso de incumplimiento, el Consejero Presidente del Consejo Distrital solicitará a la autoridad municipal el retiro inmediato e informará a la Comisión de su actuación; el costo que determine la autoridad municipal se deducirá del financiamiento público estatal del partido político responsable.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2010)</small>
+
+IV. De ordenarse el retiro de la propaganda, el partido político contará con un plazo de veinticuatro horas para acatar la resolución. En caso de incumplimiento, el Consejero Presidente del Consejo Distrital solicitará a la autoridad municipal el retiro inmediato e informará a la Comisión de su actuación; el costo que determine la autoridad municipal se deducirá del financiamiento público estatal del partido político responsable.
 
 ###### ARTÍCULO 25.
 
@@ -233,15 +245,19 @@ Corresponde a la Dirección de Fiscalización, a más tardar en el mes de enero 
 
 Los procedimientos de recepción, revisión, fiscalización y dictamen de los informes de gastos de precampaña, se sujetarán a las disposiciones contenidas en la Ley y el Reglamento que Establece los Lineamientos Aplicables a las Prerrogativas, Fiscalización de los Recursos y Liquidación de los Partidos Políticos en el Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 29.
 
-Los partidos políticos y sus precandidatos que incumpla (sic) con la obligación de presentar el informe de gastos de precampaña, en los plazos indicados por la Ley, y haya obtenido la mayoría de votos en la consulta interna o en la asamblea respectiva, perderá el derecho de registrarse como candidato.
+Los partidos políticos y sus precandidatos que incumplan con la obligación de presentar el informe de gastos de precampaña, en los plazos indicados por la Ley, y hayan obtenido la mayoría de votos en la consulta interna o en la asamblea respectiva, perderán el derecho de registrarse como candidatos.
 
 El precandidato que sin haber obtenido la postulación a la candidatura, no presente el informe señalado en el párrafo anterior, será acreedor a las sanciones previstas por la Ley.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 30.
 
-El precandidato que rebase el tope de gastos de precampaña establecido por el Consejo General o contrate propaganda en radio y televisión, será sancionado con la cancelación de su registro, o en su caso, con la pérdida de la candidatura que haya obtenido. En el último supuesto, el partido político conservará el derecho de realizar la sustitución correspondiente, dentro de los plazos establecidos por la Ley.
+El precandidato que rebase el tope de gastos de precampaña establecido por el Consejo General, contrate propaganda en radio y televisión, se realicen actos de precampaña electoral contraviniendo lo dispuesto en los artículos 216 y 221 de la Ley, será sancionado con la cancelación de su registro, o en su caso, con la pérdida de la candidatura que haya obtenido. En el último supuesto, el partido político conservará el derecho de realizar la sustitución correspondiente, dentro de los plazos establecidos por la Ley.
 
 T R A N S I T O R I O S
 
@@ -268,3 +284,9 @@ CONSEJERO PRESIDENTE
 LIC. DANIEL GARCÍA GARCÍA
 
 SECRETARIO FEDATARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE ENERO DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación por el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
