@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2009-11-13"
+last_updated: "2010-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGUN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007 Y 13 DE NOVIEMBRE DE 2009.</small>
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGUN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007, 13 DE NOVIEMBRE DE 2009 y 22 DE ENERO DE 2010.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2010.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3723,13 +3723,13 @@ P.O. 19 DE OCTUBRE DE 2007.
 
 DECRETO NUMERO 444
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
-Artículo Primero.- El presente Código entrará en vigor a las cero horas del día primero de febrero del año dos mil diez en el partido judicial de Mexicali y en forma sucesiva y anual, en los demás partidos judiciales del Estado, conforme al siguiente orden:
+Artículo Primero.- El presente Código entrará en vigor a las cero horas del día tres de mayo del año dos mil diez en el partido judicial de Mexicali y en forma sucesiva en los demás partidos judiciales del Estado, conforme al siguiente orden:
 
-I. Ensenada, a partir de las cero horas del día primero de febrero del año dos mil once.
+I. Ensenada, a partir de las cero horas del día tres de mayo del año dos mil once.
 
-II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día primero de febrero del año dos mil doce.
+II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil doce.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3818,3 +3818,7 @@ P.O. 13 DE NOVIEMBRE DE 2009.
 DECRETO No. 281, POR EL QUE SE ADICIONA EL ARTICULO 279 BIS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE ENERO DE 2010.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
