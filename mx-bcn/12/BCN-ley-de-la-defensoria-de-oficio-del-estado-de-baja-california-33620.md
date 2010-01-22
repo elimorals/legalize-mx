@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-defensoria-de-oficio-del-estado-de-baja-california-33
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-22"
-last_updated: "2009-05-22"
+last_updated: "2010-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 22 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO SEGUIRA VIGENTE HASTA EL 1 DE FEBRERO DE 2010.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIOS SEGUNDO DE LA LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 22 DE MAYO DE 2009, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN VIGENCIA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: NO VIGENTE.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2003.
 
@@ -475,7 +475,9 @@ P.O. 27 DE OCTUBRE DE 2006.
 
 P.O. 22 DE MAYO DE 2009.
 
-PRIMERO.- Inicio de Vigencia.- La presente ley entrará en vigor a las cero horas del día primero de febrero del año 2010.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
+PRIMERO.- Inicio de Vigencia.- La presente ley entrará en vigor a las cero horas del día tres de mayo del año 2010.
 
 SEGUNDO.- Hasta en tanto entre en vigor esta Ley, seguirá vigente la ley de la Defensoría de Oficio del Estado de Baja California publicada el día 22 de agosto de 2003, en el Periódico Oficial del Estado.
 
@@ -484,3 +486,7 @@ TERCERO.- A la entrada en vigor de esta Ley, todos los Defensores en funciones, 
 Para estos efectos, la Secretaría deberá impartir cursos de capacitación en las materias objeto del cargo que desempeñen.
 
 Los Defensores adscritos al nuevo sistema de justicia penal que aprueben las evaluaciones que practique la Secretaría, tendrán calida (sic) de trabajadores de confianza adscritos al servicio profesional de carrera.
+
+P.O. 22 DE ENERO DE 2010.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
