@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2009-12-29"
+last_updated: "2010-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE ENERO DE 2010.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -8975,7 +8975,29 @@ III.- Porque su objeto, o su motivo o fin sea ilícito;
 
 IV.- Porque el consentimiento no se haya manifestado en la forma que la ley establece.
 
-ARTICULO 1,796.- Los contratos se perfeccionan por el mero consentimiento; excepto aquellos que deben revestir una forma establecida por la ley. Desde que se perfeccionan obligan a los contratantes no sólo al cumplimiento de lo expresamente pactado, sino también a las consecuencias que, según su naturaleza, son conforme a la buena fe, al uso o a la ley.
+> <small>(REFORMADO, G.O. 22 DE ENERO DE 2010)</small>
+
+ARTICULO 1,796.- Los contratos se perfeccionan por el mero consentimiento, excepto aquellos que deben revestir una forma establecida por la Ley. Desde que se perfeccionan obligan a los contratantes no sólo al cumplimiento de lo expresamente pactado, sino también a las consecuencias que, según su naturaleza son conforme a la buena fe, al uso o a la ley, con excepción de aquellos contratos que se encuentren en el supuesto señalado en el párrafo siguiente.
+
+Salvo aquellos contratos que aparezcan celebrados con carácter aleatorio, cuando en los contratos sujetos a plazo, condición o de tracto sucesivo, surjan en el intervalo acontecimientos extraordinarios de carácter nacional que no fuesen posibles de prever y que generen que las obligaciones de una de las partes sean más onerosas, dicha parte podrá intentar la acción tendiente a recuperar el equilibrio entre las obligaciones conforme al procedimiento señalado en el siguiente artículo.
+
+> <small>(ADICIONADO, G.O. 22 DE ENERO DE 2010)</small>
+
+ARTICULO 1,796 Bis.- En el supuesto del segundo párrafo del artículo anterior, se tiene derecho de pedir la modificación del contrato. La solicitud debe hacerse dentro de los treinta días siguientes a los acontecimientos extraordinarios y debe indicar los motivos sobre los que está fundada.
+
+La solicitud de modificación no confiere, por sí misma, al solicitante el derecho de suspender el cumplimiento del contrato.
+
+En caso de falta de acuerdo entre las partes dentro de un término de treinta días a partir de la recepción de la solicitud, el solicitante tiene derecho a dirigirse al juez para que dirima la controversia. Dicha acción deberá presentarse dentro de los treinta días siguientes.
+
+Si se determina la procedencia de la acción por ocurrir los acontecimientos a que se refiere el artículo anterior, la parte demandada podrá escoger entre:
+
+I) La modificación de las obligaciones con el fin de restablecer el equilibrio original del contrato según lo determine el juez,
+
+II) La resolución del contrato en los términos del siguiente artículo.
+
+> <small>(ADICIONADO, G.O. 22 DE ENERO DE 2010)</small>
+
+ARTICULO 1,796 Ter.- Los efectos de la modificación equitativa o la rescisión del contrato no aplicarán a las prestaciones realizadas antes de que surgiera el acontecimiento extraordinario e imprevisible sino que estas modificaciones aplicarán a las prestaciones por cubrir con posterioridad a éste. Por ello tampoco procederá la rescisión si el perjudicado estuviese en mora o hubiere obrado dolosamente.
 
 ARTICULO 1,797.- La validez y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
 
@@ -14124,3 +14146,11 @@ Segundo.- A partir de la publicación del presente Decreto, el Jefe de Gobierno 
 Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
 
 Cuarto.- Notifíquese por los conductos pertinentes el presente decreto al Jefe de Gobierno del Distrito Federal, al Presidente del Tribunal Superior de Justicia del Distrito Federal, al Presidente de la Comisión de Derechos Humanos del Distrito Federal.
+
+G.O. 22 DE ENERO DE 2010.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida difusión.
+
+SEGUNDO.- Se abrogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
