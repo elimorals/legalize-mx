@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-12238"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-17"
-last_updated: "2009-11-13"
+last_updated: "2010-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA NUEVA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO SEGUIRA VIGENTE HASTA EL 1 DE FEBRERO DE 2010.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA NUEVA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN VIGENCIA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: NO VIGENTE.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes17 de abril de 1998.
 
@@ -1651,7 +1651,9 @@ P.O. 13 DE NOVIEMBRE DE 2009.
 
 DECRETO NUMERO 278, POR EL QUE SE APRUEBA LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA.
 
-PRIMERO.- La presente Ley entrará en vigor el 1 de febrero de 2010.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
+PRIMERO.- La presente Ley entrará en vigor el día tres de mayo de 2010.
 
 SEGUNDO.- Hasta en tanto entre en vigor esta Ley, seguirá vigente la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California publicada el día 17 de abril de 1998 en el Periódico Oficial del Estado de Baja California.
 
@@ -1662,3 +1664,7 @@ CUARTO.- Los agentes del Ministerio Público y peritos que a la entrada en vigor
 QUINTO.- Los asuntos a cargo de la Dirección de Asuntos Internos y Contraloría, que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor la presente Ley, serán atendidos y resueltos por la Visitaduría General conforme a los procedimientos que se encontraban vigentes cuando se iniciaron.
 
 SEXTO.- Las referencias que se hacen o que se hagan y las atribuciones que se otorgan en otras leyes, reglamentos, decretos y demás disposiciones legales, a la Dirección de Asuntos Internos y Contraloría se entenderán hechas a la Visitaduría General.
+
+P.O. 22 DE ENERO DE 2010.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
