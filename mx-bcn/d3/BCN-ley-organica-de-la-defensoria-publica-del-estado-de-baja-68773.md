@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-defensoria-publica-del-estado-de-baja-68773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-05-22"
-last_updated: "2009-05-22"
+last_updated: "2010-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRARA EN VIGOR A LAS CERO HORAS DEL 1 DE FEBRERO DE 2010.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2010.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de mayo de 2009.
 
@@ -465,7 +463,9 @@ Los procedimientos para la selección, ingreso, formación, capacitación, actua
 
 ## ARTÍCULOS TRANSITORIOS
 
-PRIMERO.- Inicio de Vigencia.- La presente ley entrará en vigor a las cero horas del día primero de febrero del año 2010.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+
+PRIMERO.- Inicio de Vigencia.- La presente ley entrará en vigor a las cero horas del día tres de mayo del 2010.
 
 SEGUNDO.- Hasta en tanto entre en vigor esta Ley, seguirá vigente la ley de la Defensoría de Oficio del Estado de Baja California publicada el día 22 de agosto de 2003, en el Periódico Oficial del Estado.
 
@@ -484,3 +484,9 @@ P R E S I D E N T E
 DIP. GLORIA MARÍA LOZA GALVÁN
 
 S E C R E T A R I A
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE ENERO DE 2010.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
