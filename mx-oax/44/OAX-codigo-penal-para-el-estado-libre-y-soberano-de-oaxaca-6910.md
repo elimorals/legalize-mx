@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2009-09-14"
+last_updated: "2010-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2099,17 +2099,25 @@ Abuso y hostigamiento sexual, estupro y violación.
 
 241.- Comete el delito de abuso sexual, quien sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto sexual, que no sea la cópula, o la obligue a observar cualquier acto sexual aun a través de medios electrónicos. Al responsable de tal hecho, se le impondrá de dos a cinco años de prisión y multa de cincuenta a doscientos días de salario mínimo.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 1529, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE PARRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.</small>
+
 La pena prevista en esté delito, se aumentará en una mitad en su mínimo y en su máximo cuando:
 
-I.- El delito fuere cometido contra persona menor de doce años;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2010)</small>
 
-II.- Cuando se realice en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo;
+I.- Sea cometido por dos o más personas;
 
-III.- Sea cometido por dos o más personas;
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2010)</small>
 
-IV.- Se hiciera uso de violencia física o moral; y
+II.- Se hiciere uso de violencia física o moral; y
 
-V.- Se hubiera administrado a la víctima alguna sustancia tóxica.
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2010)</small>
+
+III.- Se hubiera administrado a la víctima alguna sustancia tóxica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2010)</small>
+
+Cuando el delito fuere cometido contra persona menor de doce años o cuando se realice en persona, que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no puede resistirlo, la pena será de cinco a diez años de prisión y multa de doscientos a seiscientos días de salario mínimo. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2159,17 +2167,27 @@ Se equipara a la violación y se sanciona con la misma pena, al que introduzca p
 
 Se impondrá sanción de dieciocho a treinta años de prisión y multa de mil a mil quinientos días de salario, cuando el sujeto pasivo sea menor de 18 años de edad, mayor de sesenta años, se encuentre privado de razón o sentido, o cuando por enfermedad o por cualquier otra causa no pudiese resistir al delito.
 
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2010)</small>
 
-248 Bis.- Las penas previstas para los delitos de abuso sexual y violación, se aumentarán hasta en una mitad en su mínimo y máximo cuando:
+248 Bis.- Las penas que corresponden a los delitos de abuso sexual previsto por el artículo 241, violación previsto por el artículo 246, violación equiparada previsto por el artículo 247 y violación tumultuaria previsto por el artículo 248, se aumentarán hasta en una mitad en su mínimo y máximo, cuando:
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)</small>
 
 I.- El delito fuere cometido por un pariente de la víctima sin limitación de grado en línea recta ascendente o descendente, o hasta el cuarto grado en línea colateral; por el tutor contra su pupilo, por el padrastro o madrastra en contra el hijastro o hijastra, por el amante del padre o de la madre del ofendido o por la persona que vive en concubinato con el padre o la madre del pasivo. En estos casos, además el culpable perderá todos los derechos familiares y hereditarios que le puedan corresponder por su vínculo con la víctima;
 
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)</small>
+
 II.- El hecho sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o las circunstancias que ellos le proporcione (sic). Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio profesional;
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)</small>
 
 III.- El delito sea cometido por persona que tenga al ofendido bajo su custodia, tutela, guarda o educación, o que aproveche la confianza en él depositada;
 
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)</small>
+
 IV.- Tratándose del delito de violación, el hecho sea cometido por el cónyuge, concubina o concubino de la víctima.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 El delito a que se refiere la fracción inmediata anterior, solo se perseguirá por querella de la parte ofendida.
 
@@ -3630,3 +3648,7 @@ P.O. 18 DE ABRIL DE 2009.
 P.O. 14 DE SEPTIEMBRE DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE ENERO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
