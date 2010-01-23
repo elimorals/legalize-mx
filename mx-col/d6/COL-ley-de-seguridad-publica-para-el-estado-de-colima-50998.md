@@ -4,7 +4,7 @@ identifier: "COL-ley-de-seguridad-publica-para-el-estado-de-colima-50998"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-17"
-last_updated: "2009-08-21"
+last_updated: "2010-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DEL SISTEMA DE SEGURIDAD PUBLICA PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 23 DE ENERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 17 de junio de 2006.
 
@@ -1822,3 +1824,33 @@ SEGUNDO.- El Consejo Ciudadano para la Seguridad Pública, se conformará y empe
 TERCERO.- Una vez conformado el Consejo Ciudadano para la Seguridad Pública, en un plazo no mayor de sesenta días elaborará su Reglamento Interno.
 
 CUARTO.- El Ejecutivo del Estado garantizará los recursos materiales y humanos necesarios para el funcionamiento del presenté Consejo Ciudadano para la Seguridad Pública.
+
+P.O. 23 DE ENERO DE 2010.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Ejecutivo del Estado dispondrá máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Ordenamiento, a fin de que expidan los Reglamentos correspondientes a que hace referencia esta Ley.
+
+TERCERO.- Se abroga la Ley de Seguridad Pública para el Estado de Colima, publicada en el Periódico Oficial "El Estado de Colima" el día I7 de junio de 2006, mediante Decreto No. 390, así como las demás disposiciones que se opongan a la presente Ley.
+
+CUARTO.- Para todos los efectos legales a que diera lugar, en tanto se adecua la presente Ley, se deberá entender por Policía Ministerial a la denominada Policía de Procuración de Justicia, lo cual deberá hacerse en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+QUINTO.- Para todos los efectos legales a que diera lugar, a partir de la vigencia de la presente Ley, cualquier referencia que se haga a la Academia de Policía del Gobierno del Estado, se entenderá referido al Instituto de Formación Académica, en los términos de la presente Ley.
+
+De igual forma, para efectos de su operación técnica, presupuestal y operativa, el Instituto deberá adecuar sus planes, programas y protocolos homologados con su similar nacional, dentro de un plazo de 180 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+SEXTO.- Se autoriza al Ejecutivo del Estado a realizar las transferencias de recursos financieros de las partidas presupuestales que correspondan, para el efecto de garantizar los recursos materiales y humanos necesarios para el funcionamiento de las instancias y estructuras establecidas en la presente Ley.
+
+SÉPTIMO.- El Consejo Ciudadano para la Seguridad Pública se conformará y empezará sus funciones, en un plazo no mayor de 120 días naturales contados a partir de la entrada en vigor del presente Ordenamiento.
+
+OCTAVO.- Una vez conformado el Consejo Ciudadano para la Seguridad Pública, en un plazo no mayor de sesenta días elaborará su reglamento interno.
+
+NOVENO.- En el caso del Municipio de Colima, en tanto el Ayuntamiento asuma la función de seguridad pública municipal, ésta se continuará prestando por el Gobierno del Estado, por conducto de la Policía Estatal Preventiva.
+
+Asimismo, a efecto de dar cumplimiento al artículo 87 de esta Ley, el Centro Preventivo Municipal de Colima, tendrá la obligación de dar el aviso administrativo correspondiente de manera inmediata al Centro Estatal de Información, a través del informe policial homologado.
+
+DÉCIMO.- Los elementos de seguridad pública que no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo I23, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
+
+DÉCIMO PRIMERO.- De manera progresiva y en un plazo de cuatro años a partir de la entrada en vigor de esta Ley, las instituciones de seguridad pública, por conducto de los centros de evaluación, control y confianza, deberán practicar las evaluaciones respectivas a sus integrantes, de conformidad con lo dispuesto en esta Ley y sus respectivos ordenamientos legales.
+
+DÉCIMO SEGUNDO.- Los Ayuntamientos del Estado dispondrán máximo de 180 días naturales contados a partir de la entrada en vigor del presente Ordenamiento, a fin de que lleven a cabo la reglamentación correspondiente o, en su caso, su adecuación en los términos de esta Ley.
