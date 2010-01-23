@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2009-12-19"
+last_updated: "2010-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -373,19 +373,23 @@ II.- La prestación de servicios mediante el sistema de tiempo compartido o de c
 
 III.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los cuales se otorga el espacio e instalaciones para el estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorga espacio para acampar.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
-
-Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
-
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
+Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
+
+Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
 Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa del 2%.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -394,10 +398,6 @@ Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mediante declar
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -3357,7 +3357,7 @@ Para la determinación del número de alumnos, se tomará como base la estadíst
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 28 DE DICIEMBRE DE 2005)</small>
 
-El pago de este derecho deberá efectuarse en el mes de enero de cada año. Su pago extemporáneo causará recargos a la tasa que fije la Ley de Ingresos y podrá ser exigido a través del Procedimiento Administrativo de Ejecución.
+El pago de este derecho deberá efectuarse en el mes de enero de cada año. Su pago extemporáneo causará recargos a la tasa que fije esta Ley de Ingresos y podrá ser exigido a través del Procedimiento Administrativo de Ejecución.
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -4063,9 +4063,9 @@ PRIMERO.- La presente Ley entrará en vigor el día primero de enero de 1993, pr
 
 SEGUNDO.- Se abroga la Ley de Hacienda del Estado expedida el 23 de diciembre de 1981, y publicada en el Periódico Oficial "EL ESTADO DE COLIMA", el 26 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2010)</small>
 
-TERCERO.- En el ejercicio fiscal 2009, el pago de los derechos por la renovación anual de la calcomanía fiscal vehicular, prevista en el artículo 53, fracción IV de ésta Ley, podrá efectuarse sin recargos hasta el 31 de mayo del citado año.
+TERCERO.- En el ejercicio fiscal 2010, los contribuyentes que adeudan derechos por la expedición, renovación anual o reposición de la calcomanía fiscal del ejercicio 2009 y anteriores, gozarán de una reducción del 60% en los recargos causados y del 100% de las multas a que se hubieran hecho acreedores por el pago extemporáneo de los citados derechos, si realizan el pago de los adeudos entre el 20 de enero y el 28 de febrero de 2010.
 
 El Gobernador Constitucional del Estado dispondrá se publique, circule y observe.
 
@@ -4352,3 +4352,7 @@ P.O. 19 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 1° de enero de 2010, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE ENERO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
