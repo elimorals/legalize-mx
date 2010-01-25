@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-10110"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-28"
-last_updated: "1996-06-28"
+last_updated: "2010-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el viernes 28 de junio de 1996.
 
@@ -153,7 +153,9 @@ Para ser miembro de la junta directiva, se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Ser mayor de 30 años de edad;
+(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Tener experiencia profesional o laboral reconocida; y
 
@@ -223,7 +225,9 @@ Para ser director general se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Ser mayor de 30 años de edad;
+(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Poseer título del nivel licenciatura;
 
@@ -420,3 +424,15 @@ LIC. CESAR CAMACHO QUIROZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HECTOR XIMENEZ GONZALEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY</small>
+
+G.G. 25 DE ENERO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
