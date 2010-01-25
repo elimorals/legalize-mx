@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-gobierno-50802"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2007-05-10"
+last_updated: "2010-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE ENERO DE 2010
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de mayo de 2006.
 
@@ -41,11 +41,11 @@ La Secretaría de Gobierno como dependencia del Poder Ejecutivo Estatal tiene a 
 
 Cuando en este Reglamento se mencione a la Secretaría y al Secretario, se entenderá que se refiere a la Secretaría de Gobierno y a su Secretario titular.
 
-> <small>(REFORMADO, G.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2010)</small>
 
-###### Artículo 3°.
+###### Artículo 3.
 
-Para su atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría cuenta con las siguientes unidades administrativas, órganos desconcentrados y descentralizados:
+Para la atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría cuenta con las siguientes unidades administrativas y órganos desconcentrados:
 
 I. Secretaría de Gobierno:
 
@@ -59,9 +59,7 @@ c) Dirección General de Tránsito y Transporte;
 
 c) Bis. Dirección General de Prevención y Readaptación Social;
 
-> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2006)</small>
-
-c) Ter. Dirección de Detección del Delito;
+c) Ter. (DEROGADO, G.O. 25 DE ENERO DE 2010)
 
 d) Dirección General de Acción Social;
 
@@ -77,7 +75,7 @@ h) Coordinación Estatal de las Juntas de Mejoras;
 
 i) (DEROGADO, G.O. 10 DE MAYO DE 2007)
 
-j) Centros de Adaptación Social de Niños y Niñas en Conflicto con la Ley Penal;
+j) (DEROGADO, G.O. 25 DE ENERO DE 2010)
 
 k) Dirección General del Sistema Estatal de Becas;
 
@@ -85,9 +83,21 @@ l) Dirección General Jurídica de Gobierno, y (sic)
 
 m) Unidad Administrativa;
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2007)</small>
 
-n) Editora de Gobierno.
+n) Editora de Gobierno;
+
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2010)</small>
+
+ñ) Dirección General del Programa de Desarrollo e Integración de las Zonas Serranas y la Población Indígena;
+
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2010)</small>
+
+o) Dirección General de Atención a Migrantes, y
+
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2010)</small>
+
+p) Unidad de Acceso a la información;
 
 II. Subsecretaría de Gobierno, cuyas unidades administrativas son:
 
@@ -109,13 +119,17 @@ b) Consejo Estatal de Población de Veracruz;
 
 c) (DEROGADO, G.O. 10 DE MAYO DE 2007)
 
-d) Centro Estatal de Desarrollo Municipal de Veracruz, y (sic)
+d) (DEROGADO, G.O. 25 DE ENERO DE 2010)
 
 e) (DEROGADO, G.O. 10 DE MAYO DE 2007)
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2007)</small>
 
 f) Instituto Veracruzano de la Defensoría Pública;
+
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2010)</small>
+
+g) Dirección General de Ejecución de Medidas Sancionadoras;
 
 IV. (DEROGADA, G.O. 10 DE MAYO DE 2007)
 
@@ -381,25 +395,13 @@ VI. Proponer al secretario la suscripción de los convenios que deba celebrar el
 
 VII. Las demás que le confieren las disposiciones legales aplicables y el superior jerárquico dentro de la esfera de sus atribuciones.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+> <small>(DEROGADA CON EL ARTICULO QUE LO INTEGRA, G.O. 25 DE ENERO DE 2010)</small>
 
 #### SECCIÓN TERCERA TER. DE LA DIRECCIÓN DE DETECCIÓN DEL DELITO
 
-> <small>(ADICIONADO, G.O. 8 DE NOVIEMBRE DE 2006)</small>
+###### Artículo 8º Ter.
 
-###### Artículo 8° Ter.
-
-Al titular de la Dirección del delito le corresponden las siguientes atribuciones:
-
-I. Coordinar sus actividades con las instancias del Gobierno Federal especializadas en el seguimiento de los delitos;
-
-II. Realizar acciones que permitan detectar las causas que originan las conductas delictivas;
-
-III. Desarrollar estrategias de detección del delito y de combate a la delincuencia;
-
-IV. Coadyuvar con la Policía Ministerial del Estado en investigaciones relacionadas con los delitos, y
-
-V. Las demás que le confieran las disposiciones legales aplicables y el secretario dentro de la esfera de su competencia.
+(DEROGADO, G.O. 25 DE ENERO DE 2010)
 
 #### SECCIÓN CUARTA. DE LA DIRECCIÓN GENERAL DE ACCIÓN SOCIAL
 
@@ -533,13 +535,13 @@ IX. Las demás que se deriven de la Ley de Juntas de Mejoras del estado de Verac
 
 (DEROGADO, G.O. 10 DE MAYO DE 2007)
 
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, G.O. 25 DE ENERO DE 2010)</small>
+
 #### SECCIÓN DÉCIMA. DE LOS CENTROS DE ADAPTACIÓN SOCIAL DE NIÑOS Y NIÑAS EN CONFLICTO CON LA LEY PENAL
 
 ###### Artículo 15.
 
-Los Centros de Adaptación Social de Niños y Niñas en Conflicto con la Ley Penal son órganos centralizados de esta Secretaría, cuya tutela depende del Ejecutivo, en cumplimiento de la Ley Núm. 102 de Asistencia Social y Protección de Niños y Niñas del Estado.
-
-Los Centros Adaptación Social a que refiere este artículo tendrán el resguardo, administración, organización y funcionamiento que señala la ley de la materia, su reglamento interior y las leyes del estado aplicables.
+(DEROGADO, G.O. 25 DE ENERO DE 2010)
 
 #### SECCIÓN UNDÉCIMA. DE LA DIRECCIÓN GENERAL DEL SISTEMA ESTATAL DE BECAS
 
@@ -553,7 +555,7 @@ II. Coordinar la ejecución y desarrollo del programa de estímulos a estudiante
 
 > <small>(REFORMADA, G.O. 10 DE MAYO DE 2007)</small>
 
-III. Elaborar el programa anual de estímulos del Gobierno del Estado;
+III. Elaborar el programa anual de estímulos del Gobierno del Estado.
 
 IV. Las demás que expresamente le atribuyan las leyes del estado, este Reglamento y demás disposiciones aplicables, así como las que expresamente le confieran el Secretario.
 
@@ -649,7 +651,7 @@ XVI. Coadyuvar en la solución de los conflictos laborales que se susciten en la
 
 XVII. Las demás que expresamente le atribuyan las leyes del estado, este reglamento y demás disposiciones aplicables, además de las que expresamente le confiera el Secretario.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 10 DE MAYO DE 2007)</small>
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 10 DE MAYO DE 2007)</small>
 
 SECCIÓN DECIMOCUARTA
 
@@ -674,6 +676,102 @@ IV. Las demás que expresamente le atribuyan las leyes del estado, este reglamen
 ###### Artículo 18 Ter.
 
 La Editora de Gobierno podrá percibir ingresos derivados de la prestación de sus servicios, de conformidad con las disposiciones legales aplicables, los cuales se destinarán al desarrollo y atención de las actividades específicas de su competencia.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 25 DE ENERO DE 2010)</small>
+
+SECCIÓN DECIMAQUINTA
+
+DE LA DIRECCIÓN GENERAL DEL PROGRAMA DE DESARROLLO E INTEGRACIÓN DE LAS ZONAS SERRANAS Y LA POBLACIÓN INDÍGENA
+
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2010)</small>
+
+Artículo 18 Cuater (sic). Al Director General del Programa de Desarrollo e Integración de las Zonas Serranas y la Población Indígena le corresponden las atribuciones siguientes: previo acuerdo con el titular de la Secretaría.
+
+I. Evaluar las políticas públicas y la aplicación de los programas proyectos y acciones gubernamentales tendientes al desarrollo integral de los pueblos indígenas y comunidades marginadas;
+
+II. Elaborar las estrategias de fomento del desarrollo social, los programas y proyectos de su competencia y ejecutarlos en forma oportuna y adecuada;
+
+III. Coordinar acciones en materia de desarrollo social, dirigidas a las regiones con los niveles más altos de marginación, para atender las necesidades básicas;
+
+IV. Apoyar a las poblaciones indígenas en sus gestiones ante las diversas instancias gubernamentales;
+
+V. Establecer acciones de desarrollo social y participación institucional para lograr la conjunción de esfuerzos en la atención a regiones prioritarias;
+
+VI. Promover trabajos de planeación institucional con los tres órdenes de gobierno para la atención de micro regiones y otras regiones prioritarias del Estado;
+
+VII. Impulsar la planeación concertada de proyectos y acciones de desarrollo social, para establecer los criterios que deban regir el diseño y ejecución de las acciones encaminadas al combate a la pobreza;
+
+VIII. Asesorar a los municipios en materia de proyectos productivos, para reorientar las acciones hacia la población más necesitada;
+
+IX. Promover trabajos para la elaboración de diagnósticos municipales y regionales, que permitan detectar y conocer las necesidades prioritarias de la población y vocaciones productivas del Estado, para vincularlos con los programas de desarrollo social gubernamentales e iniciativas en la materia;
+
+X. Participar en las acciones de coordinación con las dependencias federales, estatales y ayuntamientos, para trabajar en la programación y ejecución de programas y acciones de desarrollo social en el Estado;
+
+XI. Planear tareas de seguimiento y evaluación de las acciones y proyectos integrales, que permitan ser congruentes con el Plan Veracruzano de Desarrollo;
+
+XII. Analizar los indicadores de pobreza en el Estado por región y municipio, para orientar los programas de desarrollo social hacia las localidades y municipios con mayores niveles de marginación;
+
+XIII. Las demás que expresamente les atribuyan las leyes del Estado, este Reglamento y demás normativa aplicable, así como las que le confiera el Secretario.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 25 DE ENERO DE 2010)</small>
+
+SECCIÓN DECIMASEXTA
+
+DE LA DIRECCIÓN GENERAL DE ATENCIÓN A MIGRANTES
+
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2010)</small>
+
+Artículo 18 Cinqer (sic). Le corresponde al Director General de Atención a Migrantes, previo acuerdo con el titular de la dependencia, las atribuciones siguientes:
+
+I. Ejecutar medidas y promover la coordinación de programas y acciones de protección a los emigrantes veracruzanos y sus familias.
+
+II. Brindar atención y orientación a los emigrantes veracruzanos y a sus familias.
+
+III. Realizar estudios de flujos migratorios y ofrecer orientación y alternativas a los migrantes veracruzanos y sus familias, con miras a incentivar el arraigo de la población en sus comunidades de origen.
+
+IV. Identificar alternativas para mejorar la calidad migratoria, tratando de mitigar la migración indocumentada de los veracruzanos.
+
+V. Diseñar y promover estrategias de comunicación para la integración y vinculación de emigrantes veracruzanos en el extranjero.
+
+VI. Establecer relaciones interinstitucionales en los tres niveles de gobierno y con organizaciones civiles y no gubernamentales para mejorar las condiciones de los migrantes y sus familias.
+
+VII. Coordinarse con oficinas de atención a migrantes en municipios, estados y en el extranjero.
+
+VIII. Formular propuestas de políticas y programas de fomento a la inversión productiva de las remesas de migrantes.
+
+IX. Promover la concurrencia de recursos de los tres niveles de gobierno y de los migrantes en la ejecución de proyectos productivos en el Estado.
+
+X. Identificar fuentes de financiamiento y realizar las gestiones con la finalidad de obtener recursos económicos para obras sociales en las localidades de origen de los emigrantes.
+
+XI. Promover acuerdos de coordinación tendientes a garantizar el respeto a los derechos fundamentales de los emigrantes veracruzanos.
+
+XII. Las demás que expresamente le atribuyan las leyes del Estado, este Reglamento y las que le confiera el Secretario.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 25 DE ENERO DE 2010)</small>
+
+SECCIÓN DECIMASÉPTIMA
+
+DE LA UNIDAD DE ACCESO A LA INFORMACIÓN
+
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2010)</small>
+
+Artículo 18 Sexter (sic). Corresponde al Jefe de la Unidad de Acceso a la Información Pública:
+
+I. Recibir las solicitudes de acceso a la información que se presenten a la secretaría;
+
+II. Orientar a los particulares en la presentación de las solicitudes de acceso a la información;
+
+III. Solicitar a los órganos y áreas administrativas de la Secretaría, los datos o informes que resulten necesarios para dar respuesta a las solicitudes en tiempo y forma;
+
+IV. Realizar las notificaciones a que se refiere la Ley de la materia;
+
+V. Elaborar y someter a consideración del Secretario los informes que establezca la normatividad aplicable;
+
+VI. Apoyar a los órganos y áreas administrativas de la Secretaría para que la información a que se refiere el artículo 8 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, cumpla con los lineamientos establecidos;
+
+VII. Someter a consideración del Comité de Información de Acceso Restringido de la Secretaría, los proyectos de clasificación de la información como de acceso restringido, remitidos por los órganos y áreas administrativas; y
+
+VIII. Las demás que se desprendan de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
 
 ### CAPÍTULO IV. DE LA SUBSECRETARÍA DE GOBIERNO Y SUS DIRECCIONES GENERALES
 
@@ -783,7 +881,7 @@ IV. Coadyuvar en el fortalecimiento de las relaciones entre la sociedad civil, l
 
 V. Las demás que expresamente le atribuyan las leyes del estado, este Reglamento y demás disposiciones aplicables, así como las que expresamente le confieran el Secretario, y el Subsecretario.
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2007)</small>
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 10 DE MAYO DE 2007)</small>
 
 #### SECCIÓN CUARTA. DE LAS OFICINAS DE REPRESENTACIÓN REGIONAL DEL GOBIERNO DEL ESTADO
 
@@ -887,49 +985,13 @@ El Consejo Estatal de Población de Veracruz es un organismo público desconcent
 
 (DEROGADO, G.O. 10 DE MAYO DE 2007)
 
-#### SECCIÓN CUARTA. DEL CENTRO ESTATAL DE DESARROLLO MUNICIPAL DE VERACRUZ
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, G.O. 25 DE ENERO DE 2010)</small>
 
-> <small>(REFORMADO, G.O. 10 DE MAYO DE 2007)</small>
+#### SECCIÓN CUARTA. DEL CENTRO ESTATAL DE DESARROLLO MUNICIPAL DE VERACRUZ
 
 ###### Artículo 27.
 
-El Centro Estatal de Desarrollo Municipal tendrá las siguientes atribuciones:
-
-I. Impulsar políticas y acciones de vinculación institucional del Gobierno del Estado con los ayuntamientos de la entidad;
-
-II. Promover y colaborar en la elaboración de un programa que contenga políticas y acciones tendentes al desarrollo municipal y al fortalecimiento de la capacidad de gestión y concertación en los municipios;
-
-III. Promover la realización de programas de desarrollo, a través de la concertación de acciones concretas con las distintas organizaciones sociales y privadas;
-
-IV. Contribuir a la modernización administrativa de los ayuntamientos por medio de programas de apoyo técnico, y con la aplicación de un sistema de informática para la administración municipal;
-
-V. Diseñar programas y ejecutar acciones de profesionalización, capacitación y actualización de los servidores públicos municipales;
-
-VI. Coordinar, promover y realizar proyectos de investigación, estudios y análisis de la organización municipal;
-
-VII. Impulsar la creación de grupos de trabajo y concertación que brinden apoyo y asesoría en las diversas tareas que propicien el desarrollo municipal;
-
-VIII. Coordinarse y colaborar con el Instituto Nacional para el Federalismo y el Desarrollo Municipal en la realización y ejecución de las acciones de su competencia;
-
-IX. Proponer la integración de las comisiones ejecutivas con la participación de los sectores social y privado involucrados para colaborar en la ejecución de las acciones que se deriven del Programa Estatal de Desarrollo Municipal;
-
-X. Apoyar los programas de colaboración intermunicipal para emprender acciones prioritarias de interés común, así como aquellas que den solución a problemas afines, a través de la concertación, integración e intercambio de recursos y actividades entre municipios;
-
-XI. Proponer al secretario de Gobierno las adecuaciones jurídicas y reglamentarias que permitan ordenar e impulsar acciones del desarrollo municipal que estima procedentes;
-
-XII. Organizar reuniones a nivel estatal y regional con los municipios para el intercambio de experiencias y analizar en ellas temas prioritarios y problemas comunes;
-
-XIII. Difundir por medio de publicaciones y actos académicos, por sí o a través de convenios con instituciones docentes y organismos públicos, los resultados de los trabajos de investigación científica, estudio, análisis y recopilación de información, documentación e intercambio que se realice;
-
-XlV. Efectuar seminarios, conferencias y mesas redondas, además de promover acciones de carácter académico y editorial encaminadas al fomento de una cultura del desarrollo municipal;
-
-XV. Establecer y destinar las áreas y recursos necesarios para la biblioteca, centro de documentación y de consulta en que se reúne el acervo documental y bibliográfico sobre la materia;
-
-XVI. Integrar un Centro Estatal de Informática Municipal que contenga un banco de datos sobre los distintos aspectos de la vida municipal, que sirva de base para la realización de estudios específicos, análisis comparativos, estudios de evolución y perspectiva y casos prácticos; para cuyo efecto se preverá la adecuada coordinación del centro con el Instituto Nacional de Estadística, Geográfica e Informática;
-
-XVII. Asesorar a la Secretaría de Gobierno, cuando así fuese requerido, en su relación con las autoridades municipales;
-
-XVIII. Las demás que otras disposiciones le confieran y las que le señale el secretario de Gobierno.
+(DEROGADO, G.O. 25 DE ENERO DE 2010)
 
 > <small>(DEROGADA, G.O. 10 DE MAYO DE 2007)</small>
 
@@ -943,7 +1005,7 @@ XVIII. Las demás que otras disposiciones le confieran y las que le señale el s
 
 (DEROGADA, G.O. 10 DE MAYO DE 2007)
 
-> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2007)</small>
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 10 DE MAYO DE 2007)</small>
 
 #### SECCIÓN SEXTA. DEL INSTITUTO VERACRUZANO DE LA DEFENSORÍA PÚBLICA
 
@@ -953,21 +1015,31 @@ XVIII. Las demás que otras disposiciones le confieran y las que le señale el s
 
 El Instituto Veracruzano de la Defensoría Pública es un órgano desconcentrado de la Secretaría, dependiente directamente del secretario. La organización y funcionamiento del Instituto se sujetará a lo dispuesto por el decreto de su creación, sus reglamentos y manuales correspondientes.
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 10 DE MAYO DE 2007)</small>
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 25 DE ENERO DE 2010)</small>
 
-#### SECCIÓN PRIMERA. DEL INSTITUTO VERACRUZANO DEL DEPORTE
+#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE MEDIDAS SANCIONADORAS
+
+> <small>(ADICIONADO, G.O. 25 DE ENERO DE 2010)</small>
+
+###### Artículo 29 Ter.
+
+La Dirección General de Ejecución de Medidas Sancionadoras es un Organismo Público Desconcentrado de la Administración Pública Estatal, sectorizado a la Secretaría el cual se regirá por las disposiciones de la Ley de Responsabilidad Juvenil para el Estado de Veracruz de Ignacio de la Llave y por su Reglamento Interno.
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 10 DE MAYO DE 2007)</small>
 
 ### CAPÍTULO VI. DE LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS
 
-> <small>(DEROGADA CON EL ARTICULO QUE LO INTERA, G.O. 10 DE MAYO DE 2007)</small>
+> <small>(DEROGADA CON EL ARTICULO QUE LO INTEGRA, G.O. 10 DE MAYO DE 2007)</small>
 
-#### SECCIÓN SEGUNDA. DE LA COMISIÓN ESTATAL PARA LA DEFENSA DE LOS PERIODISTAS
+#### SECCIÓN PRIMERA. DEL INSTITUTO VERACRUZANO DEL DEPORTE
 
 ###### Artículo 30.
 
 (DEROGADO, G.O. 10 DE MAYO DE 2007)
 
 > <small>(DEROGADA CON EL ARTICULO QUE LO INTEGRA, G.O. 10 DE MAYO DE 2007)</small>
+
+#### SECCIÓN SEGUNDA. DE LA COMISIÓN ESTATAL PARA LA DEFENSA DE LOS PERIODISTAS
 
 ###### Artículo 31.
 
@@ -1022,3 +1094,9 @@ G.O. 10 DE MAYO DE 2007.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+G.O. 25 DE ENERO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
