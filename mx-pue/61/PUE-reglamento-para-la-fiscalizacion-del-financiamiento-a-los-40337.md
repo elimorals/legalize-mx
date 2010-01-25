@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-para-la-fiscalizacion-del-financiamiento-a-los-40337
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-21"
-last_updated: "2007-05-11"
+last_updated: "2010-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO PARA LA FISCALIZACION DEL FINANCIAMIENTO A LOS PARTIDOS POLITICOS ACREDITADOS O REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO PRIMERO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO, PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2010, POR EL QUE SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO PARA LA FISCALIZACION DEL FINANCIAMIENTO A LOS PARTIDOS POLITICOS ACREDITADOS O REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO, Y EN TERMINOS DE LO INDICADO EN EL CONSIDERANDO CUARTO SE PRESENTA LA APROBACION A PROYECTO DE REFORMAS EL CUAL NO SEÑALA QUE ARTICULOS MODIFICA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2010.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 21 de julio de 2004.
 
@@ -1240,3 +1242,13 @@ TERCERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
 P.O. 11 DE MAYO DE 2007.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 25 DE ENERO DE 2010.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- El Consejo General del Instituto Electoral del Estado, aprueba diversas reformas al Reglamento para la Fiscalización del Financiamiento a los partidos políticos acreditados o registrados ante el Instituto Electoral del Estado, en términos de lo indicado en el considerando 4 del presente Acuerdo.
+
+SEGUNDO.- El Consejo General del Instituto Electoral del Estado faculta a la Titular de la Dirección de Prerrogativas, Partidos Políticos y Medios de Comunicación a efecto de que realice las modificaciones al Reglamento de Fiscalización del Financiamiento a los Partidos Políticos acreditados o registrados ante el Instituto Electoral del Estado y se ejecute el presente Acuerdo, en términos del considerando 5 de este documento.
+
+TERCERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
