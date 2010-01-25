@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-24540"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-10"
-last_updated: "1990-09-10"
+last_updated: "2010-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO TECNOLOGICO DE ESTUDIOS SUPERIORES DE ECATEPEC
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 10 de septiembre de 1990.
 
@@ -147,7 +147,9 @@ Para ser miembro de la Junta Directiva, se requiere:
 
 I. Ser de nacionalidad mexicana.
 
-II. Ser mayor de 30 años y menor de 70 años de edad.
+(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+II. Tener, por lo menos, 25 años de edad.
 
 III. Poseer título de licenciatura y/o tener experiencia académica y profesional equivalente.
 
@@ -325,10 +327,20 @@ LIC. HUMBERTO LIRA MORA.
 
 (Rúbrica)
 
-EL SECRETARIO DE EDUCACION, CULTURA
-
-Y BIENESTAR SOCIAL
+EL SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL
 
 LIC. JAIME ALMAZAN DELGADO.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 25 DE ENERO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
