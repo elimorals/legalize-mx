@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-servicios-de-salud-de-veracruz-64510"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-06"
-last_updated: "2008-11-06"
+last_updated: "2010-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE SERVICIOS DE SALUD DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE ENERO DE 2010.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 6 de noviembre de 2008.
 
@@ -773,27 +773,29 @@ LXXII. La Dirección Administrativa estará a cargo de un Director, quien se aux
 
 ### CAPÍTULO VII. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
 
+> <small>(REFORMADO, G.O. 25 DE ENERO DE 2010)</small>
+
 ###### Artículo 19.
 
 Corresponde a la Dirección de Asuntos Jurídicos:
 
-I. Asesorar en todos los asuntos de carácter jurídico a la Dirección General, así como a las unidades administrativas y órganos desconcentrados del Organismo;
+I. Asesorar en todos los asuntos de carácter jurídico a la Dirección General, así como a las unidades administrativas y Órganos Desconcentrados del Organismo;
 
 II. Atender, dirigir, coordinar y supervisar los asuntos jurídicos del Organismo;
 
-III. Establecer, sistematizar, unificar y difundir entre las unidades administrativas y órganos desconcentrados del Organismo, los criterios de interpretación y aplicación de las disposiciones legales, reglamentarias y administrativas que son competencia del mismo;
+III. Establecer, sistematizar, unificar y difundir entre las unidades administrativas y Órganos Desconcentrados del Organismo, los criterios de interpretación y aplicación de las disposiciones legales, reglamentarias y administrativas que son competencia del mismo;
 
-IV. Formular en coordinación con los órganos desconcentrados y unidades administrativas del Organismo, de acuerdo con su competencia, los proyectos de iniciativas de leyes, decretos, reglamentos, acuerdos, órdenes y demás disposiciones de observancia general;
+IV. Formular en coordinación con los Órganos Desconcentrados y unidades administrativas del Organismo, de acuerdo con su competencia, los proyectos de iniciativas de leyes, decretos, reglamentos, acuerdos, órdenes y demás disposiciones de observancia general;
 
-V. Compilar leyes, reglamentos, decretos, acuerdos, órdenes, normas oficiales, jurisprudencias y demás disposiciones jurídicas, en el ámbito de competencia del Organismo, para hacerlas del conocimiento a las unidades administrativas y órganos desconcentrados;
+V. Compilar leyes, reglamentos, decretos, acuerdos, órdenes, normas oficiales, jurisprudencias y demás disposiciones jurídicas, en el ámbito de competencia del Organismo, para hacerlas del conocimiento a las unidades administrativas y Órganos Desconcentrados;
 
 VI. Elaborar boletines, informes y cualquier otro medio impreso o digitalizado que contenga la interpretación, opinión o disertación de las normas jurídicas en materia de salud pública y atención médica;
 
-VII. Atender y resolver las consultas que le sean presentadas por el Director General y los titulares de las unidades administrativas y órganos desconcentrados del Organismo, así como aquellas que le formulen los particulares sobre casos reales y concretos en asuntos que sean de su competencia, sometiéndose a la aprobación del Director General;
+VII. Atender y resolver las consultas que le sean presentadas por el Director General y los titulares de las unidades administrativas y Órganos Desconcentrados del Organismo, así como aquellas que le formulen los particulares sobre casos reales y concretos en asuntos que sean de su competencia, sometiéndose a la aprobación del Director General;
 
 VIII. Requerir a la Dirección Administrativa los expedientes de contratos en los que se hayan otorgado garantías de cumplimiento a favor del Gobierno del Estado, en el caso de solicitudes de rescisión;
 
-IX. Analizar y emitir opinión al Director General, a las unidades administrativas y a los órganos desconcentrados del Organismo, respecto de los convenios y contratos en los que participen;
+IX. Analizar y emitir opinión al Director General, a las unidades administrativas y a los Órganos Desconcentrados del Organismo, respecto de los convenios y contratos en los que participen;
 
 X. Representar para todos los efectos el interés del Organismo, en los juicios laborales derivados de la relación contractual con los trabajadores de Servicios de Salud de Veracruz;
 
@@ -803,23 +805,23 @@ XII. Fijar, difundir y revisar los lineamientos y requisitos legales a que deben
 
 XIII. Llevar el registro de los contratos, convenios, acuerdos y demás actos que celebre el Organismo, así como los documentos y disposiciones internas que regulen la actividad administrativa del mismo;
 
-XIV. Asesorar e intervenir jurídicamente con las unidades administrativas y los órganos desconcentrados del Organismo en los asuntos laborales, para lo cual podrá:
+XIV. Asesorar e intervenir jurídicamente con las unidades administrativas y los Órganos Desconcentrados del Organismo en los asuntos laborales, para lo cual podrá:
 
-a) Fijar criterios para la elaboración de los contratos que regirán las relaciones laborales entre los trabajadores y el Organismo;
+a) Fijar criterios para la elaboración de los contratos individuales y colectivos que regirán las relaciones laborales entre los trabajadores y el Organismo;
 
 b) Asesorar a la Dirección Administrativa, cuando así lo solicite, en la substanciación del procedimiento señalado en la ley para dar por terminadas las relaciones de trabajo entre los empleados y el Organismo;
 
-c) Requerir a las unidades administrativas y órganos desconcentrados del Organismo, la entrega de toda la documentación que posibilite la defensa legal de los intereses de la dependencia en los asuntos de carácter laboral; y
+c) Requerir a las unidades administrativas y Órganos Desconcentrados del Organismo, la entrega de toda la documentación que posibilite la defensa legal de los intereses de la Dependencia en los asuntos de carácter laboral; y
 
-d) Notificar a la Dirección Administrativa las sanciones que resulten aplicables al personal adscrito al Organismo, por incumplimiento a sus obligaciones en materia laboral, con base en las condiciones generales de trabajo y las disposiciones legales aplicables, de acuerdo a los lineamientos que señale el Director General.
+d) Notificar a la Dirección Administrativa las sanciones que resulten aplicables al personal adscrito al Organismo, por incumplimiento a sus obligaciones en materia laboral, con base en las Condiciones Generales de Trabajo y las disposiciones legales aplicables, de acuerdo a los lineamientos que señale el Director General;
 
 XV. Solicitar a la Dirección Administrativa, el cálculo de las cantidades que legalmente procedan, a fin de efectuar el pago de liquidaciones del personal adscrito al Organismo, derivadas de las negociaciones conciliatorias que se desarrollen para resolver conflictos o procedimientos de carácter laboral;
 
 XVI. Establecer los lineamientos que deban seguirse para la instrumentación de actas administrativas por violación a las leyes laborales o a las Condiciones Generales de Trabajo y demás ordenamientos que norman las relaciones laborales del Organismo;
 
-XVII. Elaborar dictámenes de contestación de demandas, formulación y absolución de posiciones, desistimientos o allanamientos;
+XVII. Dictaminar en definitiva las actas administrativas que sean instauradas en contra de los trabajadores del Organismo por violación a las disposiciones laborales aplicables, así como reconsiderar, en su caso, los dictámenes que haya emitido.
 
-XVIII. Dictaminar en definitiva las actas administrativas que se levanten a los trabajadores del Organismo por violación a las disposiciones laborales aplicables, así como reconsiderar, en su caso, los dictámenes de cese que hubieren emitido;
+XVIII. Instrumentar requerimientos con carácter conciliatorio a aquellos trabajadores que hubiesen cometido faltas menores, que no se encuentren prescritas en la Ley Federal del Trabajo y/o en las Condiciones Generales de Trabajo;
 
 XIX. Resolver los recursos administrativos que no sean de la competencia de otra unidad administrativa;
 
@@ -829,45 +831,51 @@ XXI. Llevar a cabo los procesos de regularización inmobiliaria, respecto de los
 
 XXII. Coadyuvar con el Ministerio Público Federal y el del Fuero Común, en la integración de las averiguaciones previas, investigaciones ministeriales, respectivamente, así como en el trámite de los procesos que afecten al Organismo;
 
-XXIII. Designar a los abogados de su adscripción con el carácter de representantes autorizados para oír y recibir notificaciones en su nombre y representación en los juicios y procedimientos en que intervenga; Asimismo, mediante oficio podrá conferir dicha representación, cuando proceda, en servidores públicos subalternos y, en su caso, sustituir o revocar dichas facultades;
+XXIII. Designar a los abogados de su adscripción con el carácter de representantes autorizados para oír y recibir notificaciones en su nombre y representación en los juicios y procedimientos en que intervenga; asimismo, mediante oficio podrá conferir dicha representación, cuando proceda, en servidores públicos subalternos y, en su caso, sustituir o revocar dichas facultades;
 
-XXIV. Nombrar a los abogados de su adscripción, así como a los de los Hospitales, y Jurisdicciones Sanitarias del Organismo, los cuales deben tener el grado de licenciatura en derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultada para ello, preferentemente con experiencia mínima de tres años de litigio en el ramo o estudios de postgrado, y no tendrá que haber sido condenado por la comisión de un delito doloso;
+XXIV. Nombrar a los abogados de su adscripción, así como de los Hospitales, y Jurisdicciones Sanitarias del Organismo, los cuales deben tener el grado de Licenciatura en Derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultada para ello, preferentemente con experiencia mínima de tres años de litigio en el ramo o estudios de postgrado, y no tener antecedentes penales;
 
 XXV. Comparecer y representar al Organismo, ante las autoridades administrativas o judiciales, federales o estatales, en los juicios o procedimientos en que sea actora o demandada, o se le designe como parte, para lo cual ejercitará toda clase de acciones, defensas y excepciones que correspondan al Organismo;
 
-XXVI. Formular las demandas, contestaciones y, en general, todas las promociones que se requieran para la prosecución de los juicios o recursos interpuestos, incluido el juicio de amparo, ante las autoridades correspondientes;
+XXVI. Formular las demandas, contestaciones y, en general, todas las promociones que se requieran para la prosecución de los juicios o recursos interpuestos, incluido el juicio de amparo, ante las autoridades correspondientes; de aquellos asuntos en los que el Organismo sea parte;
 
 XXVII. Vigilar la continuidad de los juicios, procedimientos y diligencias respectivas;
 
-XXVIII. Elaborar los proyectos de informes previos y justificados que, en materia de amparo, deban rendir el Director General y los titulares de los órganos desconcentrados y unidades administrativas del Organismo;
+XXVIII. Elaborar los proyectos de informes previos y justificados que, en materia de amparo, deban rendir el Director General y los Titulares de los Órganos Desconcentrados y unidades administrativas del Organismo;
 
 XXIX. Denunciar ante el Ministerio Público de los hechos que puedan constituir delitos de los servidores públicos del Organismo en el desempeño de sus funciones, allegándose de elementos probatorios del caso, dando la intervención que corresponda a la Contraloría Interna;
 
-XXX. Tramitar y elaborar proyectos de resolución del recurso administrativo de los que deba conocer el Director General o los titulares de las unidades administrativas y órganos desconcentrados del Organismo;
+XXX. Tramitar y elaborar proyectos de resolución del recurso administrativo de los que deba conocer el Director General o los titulares de las unidades administrativas y Órganos Desconcentrados del Organismo;
 
 XXXI. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
-XXXII. Vigilar el cumplimiento de las resoluciones correspondientes;
+XXXII. Vigilar el cumplimiento de las resoluciones judiciales y administrativas a favor y/o en contra del Organismo;
 
-XXXIII. Otorgar, previo acuerdo del Director General, poderes generales para pleitos y cobranzas con cláusula especial para formular denuncias o querellas y su ratificación, así como representar al Organismo en toda clase de juicios, recursos y procedimientos ante autoridades judiciales o administrativas federales, estatales o municipales;
+XXXIII. Otorgar a los abogados de su adscripción, previo acuerdo del Director General, poderes generales para pleitos y cobranzas con cláusula especial para formular denuncias o querellas y su ratificación, así como representar al Organismo en toda clase de juicios, recursos y procedimientos ante autoridades judiciales o administrativas federales, estatales o municipales;
 
-XXXIV. Representar al Director General, a los órganos desconcentrados y unidades administrativas del Organismo, en todos los juicios y procedimientos que se ventilen ante autoridades y tribunales jurisdiccionales y administrativos, federales y estatales, incluido el juicio de amparo;
+XXXIV. Representar al Director General, a los Órganos Desconcentrados y unidades administrativas del Organismo, en todos los juicios y procedimientos que se ventilen ante autoridades y tribunales jurisdiccionales y administrativos, federales y estatales, incluido el juicio de amparo;
 
 XXXV. Formular denuncia de hechos, querellas y los desistimientos, así como otorgar, con el acuerdo del Director General, los perdones legales que procedan;
 
-XXXVI. Promover y desistirse, en su caso, de los juicios de amparo cuando el Organismo tenga el carácter de quejoso o intervenir como tercero perjudicado en los juicios de amparo y, en general, formular todas las promociones que a dichos juicios se refieran;
+XXXVI. Promover y desistirse, en su caso, de los juicios de amparo cuando el Organismo tenga el carácter de quejoso o intervenir como tercero perjudicado y/o interesado y en general, formular todas las promociones que a dichos juicios se refieran;
 
-XXXVII. Suscribir, por conducto de su titular, en ausencia del Director General y de los titulares de las unidades administrativas y órganos desconcentrados, los informes que dichos funcionarios deban rendir ante la autoridad judicial, así como los recursos, demandas y promociones de término en procedimientos judiciales y contencioso administrativos;
+XXXVII. Suscribir, por conducto de su titular, en ausencia del Director General y de los titulares de las unidades administrativas y Órganos Desconcentrados, los informes que dichos funcionarios deban rendir ante la autoridad judicial, así como los recursos, demandas y promociones de término en procedimientos judiciales y contencioso administrativos;
 
-XXXVIII. Asesorar a las unidades administrativas y órganos desconcentrados del Organismo para que cumplan adecuadamente las resoluciones judiciales o administrativas pronunciadas, así como las recomendaciones emitidas por la Comisión Nacional o Estatal de Derechos Humanos, con la participación que corresponda a otras áreas administrativas o dependencias competentes;
+XXXVIII. Asesorar a la Unidades Administrativas y Órganos Desconcentrados del Organismo para que cumplan adecuadamente las resoluciones judiciales o administrativas pronunciadas, así como las recomendaciones emitidas por la Comisión Nacional o Estatal de Derechos Humanos, con la participación que corresponda a las Áreas Administrativas o Dependencias competentes;
 
-XXXIX. Instruir los recursos que se interpongan en contra de actos o resoluciones de las unidades administrativas y órganos desconcentrados del Organismo, así como proponer los proyectos de resolución a dichos recursos;
+XXXIX. Corresponde igualmente a la Dirección de Asuntos Jurídicos substanciar los procedimientos relativos a las quejas y/o recomendaciones presentadas ante las Comisiones Estatal y Nacional de Derechos Humanos, así como de las Comisiones de Arbitraje Médico Nacional (CONAMED) y del Estado de Veracruz (CODAMED.VER), en contra del Organismo;
 
-XL. Certificar las constancias que obren en los archivos del Organismo, para ser exhibidas ante las autoridades judiciales, administrativas o del trabajo y, en general, para cualquier trámite, juicio, procedimiento, proceso o averiguación;
+XL. Substanciar el procedimiento de indemnización correspondiente, de conformidad con lo establecido en la Ley de Responsabilidad Patrimonial de la Administración Pública Estatal y Municipal del Estado de Veracruz de Ignacio de la Llave, así como en el Código de Procedimientos Administrativos vigente en la entidad federativa y demás disposiciones legales aplicables;
 
-XLI. La Dirección de Asuntos Jurídicos estará a cargo de un Director, quien se auxiliará, para el debido ejercicio de sus atribuciones, por los Jefes de Departamento de Legislación y Consulta, y de lo Contencioso Administrativo, Jefes de Oficina y por el personal estrictamente necesario para el cumplimiento de sus funciones;
+XLI. Instruir los recursos que se interpongan en contra de actos o resoluciones de las unidades administrativas y Órganos Desconcentrados del Organismo, así como proponer los proyectos de resolución a dichos recursos;
 
-XLII. Las demás que le señalen otras disposiciones legales o le sean conferidas por el Director General.
+XLII. Certificar las constancias que obren y deriven de los archivos del Organismo, para ser exhibidas ante las autoridades judiciales, administrativas o del trabajo y, en general, para cualquier trámite, juicio, procedimiento, proceso o averiguación;
+
+XLIII. La Dirección de Asuntos Jurídicos estará a cargo de un Director, quien se auxiliará para el debido ejercicio de sus atribuciones, por los Jefes de Departamento de Legislación y Consulta y de lo Contencioso Administrativo, Jefes de Oficina, Jefes de Área y por el personal estrictamente necesario para el cumplimiento de sus funciones;
+
+XLIV. Las demás que le señalen otras disposiciones legales o le sean conferidas por el Director General.
+
+> <small>(REFORMADO, G.O. 25 DE ENERO 2010)</small>
 
 ###### Artículo 20.
 
@@ -875,17 +883,19 @@ Queda prohibido a los abogados adscritos a la Dirección de Asuntos Jurídicos:
 
 I. Litigar asuntos propios, ajenos a los encomendados por SESVER;
 
-II. Tener interés personal en el asunto, o tenerlo su cónyuge o sus parientes con parentesco en línea recta, sin limitación de grados; en la colateral por consaguinidad (sic) hasta el cuarto grado y en la colateral por afinidad, hasta el segundo grado, con la parte contraría al organismo;
+II. Intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que puede resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado o por afinidad o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
 
-III. Ejercer o desempeñar las funciones de notario público, corredor público;
+III. Ejercer o desempeñar las funciones de notario público y/o corredor público;
 
-IV. Ejercer la abogacía en representación de SESVER, cuando sea cónyuge, hijo acreedor, fiador de la parte contraria al organismo;
+IV. Solicitar o recibir indebidamente, para sí o para otro, dinero o cualquier otra dádiva o acepte una promesa para hacer o dejar de hacer algo lícito o ilícito, relacionado en el desempeño de sus funciones;
 
-V. Aceptar presentes o servicios de la parte contraria del organismo.
+V. Intervenir en asuntos en los que haya sido Apoderado Legal del Organismo, en términos de lo dispuesto por el artículo 251 fracción II, Capitulo I del Código Penal vigente en el Estado de Veracruz, relativo a los delitos de abogados, defensores y litigantes.
+
+> <small>(REFORMADO, G.O. 25 DE ENERO 2010)</small>
 
 ###### Artículo 21.
 
-La responsabilidad en que incurran los abogados adscritos a esta Dirección, se sujetarán a los establecido (sic) en la Ley de Responsabilidades de los Servidores Públicos para el Estado Libre y Soberano de Veracruz-Llave.
+La responsabilidad en que incurran los abogados adscritos a esta Dirección, se sujetarán a los (sic) establecido en la Ley de Responsabilidades de los Servidores Públicos para el Estado Libre y Soberano de Veracruz-Llave, así como en el Código Penal Vigente en la entidad federativa y artículo 19 fracción XXIX del presente Reglamento.
 
 ## TÍTULO CUARTO
 
@@ -957,9 +967,13 @@ XXI. Las demás facultades que señalen otras disposiciones legales, así como l
 
 Las Coordinaciones de Protección Contra Riesgos Sanitarios de las Jurisdicciones Sanitarias, gozarán de autonomía técnica, operativa y administrativa, dependiendo directamente del titular de Protección contra Riesgos Sanitarios.
 
+> <small>(REFORMADO, G.O. 25 DE ENERO 2010)</small>
+
 ###### Artículo 28.
 
-El Departamento Jurídico de las Jurisdicciones Sanitarias, estarán a cargo de un licenciado en derecho, con título y cedula profesional expedidos por autoridad competente, quien dependerá directamente del titular de la Dirección de Asuntos Jurídicos, y no tendrá que haber sido condenado por la comisión de un delito doloso.
+El Departamento Jurídico de las Jurisdicciones Sanitarias y Hospitales, estarán a cargo de un Licenciado en Derecho, con título y cédula profesional expedidos por autoridad competente, quien dependerá directamente del Titular de la Dirección de Asuntos Jurídicos y no tener antecedentes penales.
+
+Por cuanto hace a los Departamentos Jurídicos de los Órganos Desconcentrados y Unidades Administrativas dependientes de Servicios de Salud de Veracruz, estarán a cargo de un Licenciado en Derecho, con título y cédula profesional expedidos por autoridad competente, quienes realizarán sus funciones en Coordinación con el Titular de la Dirección de Asuntos Jurídicos y no tener antecedentes penales.
 
 ###### Artículo 29.
 
@@ -1272,3 +1286,9 @@ Dra. Arcelia Guerrero Castro
 Directora de Asuntos Jurídicos
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE ENERO DE 2010.
+
+Único. Las modificaciones efectuadas al Reglamento Interior de Servicios de Salud de Veracruz, respecto a los artículos 19, 20, 21 y 28, entrarán en vigor el día de su publicación en la Gaceta Oficial del estado.
