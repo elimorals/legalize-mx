@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-al-organismo-publico-descentralizado-de-6163"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-27"
-last_updated: "1994-12-27"
+last_updated: "2010-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6163&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA AL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLOGICA «FIDEL VELAZQUEZ»
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 27 de diciembre de 1994.
 
@@ -141,7 +141,9 @@ Para ser miembro del Consejo Directivo se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Ser mayor de treinta años;
+(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Tener experiencia académica o profesional; y
 
@@ -209,7 +211,9 @@ Para ser Rector se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Ser mayor de 30 y menor de 65 años;
+(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Poseer título a nivel licenciatura;
 
@@ -263,7 +267,9 @@ Para ser Secretario Académico o de Vinculación se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Ser mayor de 25 y menor de 65 años;
+(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Tener título a nivel licenciatura en el área de conocimiento; y
 
@@ -337,7 +343,9 @@ VI. Las demás que le señalen las disposiciones universitarias.
 
 Para ser miembro del Patronato se requiere:
 
-I. Ser mayor de 30 años; y
+(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+I. Tener, por lo menos, 25 años de edad;
 
 II. Ser persona de reconocida solvencia moral.
 
@@ -414,3 +422,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. CESAR CAMACHO QUIROZ
 
 (Rúbrica)
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+G.G. 25 DE ENERO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
