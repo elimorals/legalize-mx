@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2009-12-14"
+last_updated: "2010-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2010.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -314,6 +314,14 @@ La punibilidad prevista para los Tipos Penales de violación, abuso sexual, viol
 I. Los hechos descritos sean cometidos a nivel de co-autoría; o
 
 II. Los hechos descritos sean cometidos por ascendiente contra su descendiente, el hermano con su colateral, el tutor con su pupilo o el padrastro o amasio de la madre con el hijastro, el maestro con el alumno o el guía religioso con su asesorado.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
+
+Artículo 28 A.- La Fecundación Artificial Indebida, consiste en utilizar cualquier medio diferente al coito sobre una mujer con el fin de preñarla, sin su consentimiento o con su consentimiento tratándose de una menor de dieciocho años de edad o incapaz de comprender el significado del hecho o para resistirlo.
+
+Al responsable de Fecundación Artificial Indebida, se le aplicarán de 5 a 10 años de prisión y de 20 a 100 días multa, y el pago total de la reparación de los daños y perjuicios ocasionados. Cuando la víctima resulte preñada, la punibilidad será de 7 a 14 años de prisión y de 50 a 150 días multa, y el pago total de la reparación de los daños y perjuicios ocasionados.
+
+Además de las penas señaladas en el párrafo anterior, se impondrá al responsable la suspensión del empleo o profesión por un tiempo igual al de la pena de prisión impuesta, siempre que en virtud de su ejercicio haya realizado la Fecundación Artificial Indebida; o bien, en caso de que el responsable sea servidor público se le privará del empleo, cargo o comisión público que haya estado desempeñando, siempre que en virtud de su ejercicio haya cometido dicha conducta típica.
 
 ###### Artículo 29.
 
@@ -777,7 +785,7 @@ III. De 4 a 6 años de prisión y de 150 a 200 días multa, y al pago total de l
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2007)</small>
 
-Se aplicará la misma penalidad en los casos a que 5e refiere la Fracción V, de este Artículo.
+Se aplicará la misma penalidad en los casos a que se refiere la Fracción V, de este Artículo.
 
 ###### Artículo 51.
 
@@ -861,9 +869,15 @@ V. Certificar falsamente que una persona tiene una enfermedad u otro impedimento
 
 VI. Suministrar un medicamento evidentemente inapropiado con perjuicio de la salud del paciente;
 
-VII. Expedir recetas para la adquisición de sustancias psicotrópicas cuyo empleo no sea para fines curativos.
+VII. Expedir recetas para la adquisición de sustancias psicotrópicas cuyo empleo no sea para fines curativos;
 
-Al responsable de la comisión de la presente figura típica se le aplicarán de 1 a 3 años de prisión, de 50 a 200 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y suspensión, privación o inhabilitación para el ejercicio profesional de 6 meses a 3 años.
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2010)</small>
+
+VIII. Utilizar un óvulo o esperma para procrear sin que quien lo produjo otorgue su consentimiento o con su consentimiento tratándose de un menor de dieciocho años de edad o incapaz de comprender el significado del hecho.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+
+Al responsable de la comisión de la presente figura típica se le aplicarán de 1 a 3 años de prisión, de 50 a 200 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y de 6 meses a 3 años de inhabilitación para ejercer su profesión.
 
 ###### Artículo 58.
 
@@ -1231,7 +1245,7 @@ III. La revelación de una comunicación reservada que se conozca o que se haya 
 
 Al responsable de Revelación de Secretos se le aplicarán de 3 meses a 1 año de prisión y de 15 a 30 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Si el responsable de la Revelación de Secretos presta sus servicios profesionales o técnicos, o se trata de un servidor público; o el secreto revelado es de carácter industrial o científico, la punibilidad será de1 a 5 años de prisión y de 30 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Si el responsable de la Revelación de Secretos presta sus servicios profesionales o técnicos, o se trata de un servidor público; o el secreto revelado es de carácter industrial o científico, la punibilidad será de 1 a 5 años de prisión y de 30 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### Artículo 80.
 
@@ -3243,11 +3257,15 @@ XXIV. Daño en las Cosas Culposo, previsto en el Artículo 95 con excepción de 
 
 > <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2008)</small>
 
-XXV. Usura, previsto en el Artículo 48; y
+XXV. Usura, previsto en el Artículo 48; y (sic)
 
 > <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2008)</small>
 
-XXVI. Uso Indebido de Llamadas Telefónicas para movilizar los sistemas de respuesta de emergencia, previsto en las Fracciones I y II del Artículo 91 G, con excepción de lo dispuesto en el último párrafo.
+XXVI. Uso Indebido de Llamadas Telefónicas para movilizar los sistemas de respuesta de emergencia, previsto en las Fracciones I y II del Artículo 91 G, con excepción de lo dispuesto en el último párrafo;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2010)</small>
+
+XXVII. Fecundación Artificial Indebida prevista en el Artículo 28 A, únicamente cuando el cónyuge o concubinario de la víctima tenga algún grado de intervención en la comisión del hecho punible.
 
 ###### Artículo 309.
 
@@ -5770,6 +5788,12 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 En un término no mayor a los treinta días naturales contados a partir de la entrada en vigencia del presente Decreto, el Instituto de Transparencia deberá realizar las adecuaciones necesarias al Reglamento del Recurso de Inconformidad a fin de prever los trámites procesales mínimos para el otorgamiento de la suspensión.
 
 P.O. 14 DE DICIEMBRE DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
