@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2007-07-23"
+last_updated: "2010-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALlENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de enero de 2007.
 
@@ -57,7 +57,9 @@ II. Elevar, por medio de la cultura física y deporte, el nivel de vida social y
 
 III. Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la cultura física y deporte;
 
-IV. Fomentar el desarrollo de la cultura física y deporte, como medio importante en la prevención del delito;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
+
+IV. Fomentar el desarrollo de la cultura física y deporte, como medio importante en la prevención del delito y como medida de desarrollo integral de las personas;
 
 V. Incentivar la inversión social y privada para el desarrollo de la cultura física y deporte, como complemento de la actuación pública;
 
@@ -67,9 +69,17 @@ VII. Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas, Dep
 
 VIII. Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
-IX. Garantizar a todas las personas, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
 
-X. Garantizar que los deportistas con algún tipo de discapacidad no sean objeto de discriminación alguna, siempre que las actividades a realizar no pongan en peligro su integridad.
+IX. Garantizar a todas las personas, sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
+
+X. Garantizar que los deportistas con algún tipo de discapacidad no sean objeto de discriminación alguna, siempre que las actividades a realizar no pongan en peligro su integridad; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2010)</small>
+
+XI. Promover el desarrollo del deporte adaptado y los apoyos para el fomento de la cultura física y el deporte para personas con discapacidad, a través de su integración, la equidad y la no discriminación.
 
 ###### Artículo 3°.
 
@@ -103,9 +113,17 @@ XIII. IDEA: El Instituto del Deporte del Estado de Aguascalientes;
 
 XlV. CEAAD: La Comisión Estatal de Apelación y Arbitraje del Deporte;
 
-XV. SIEDE: Sistema Estatal de Cultura Física y Deporte; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
 
-XVI. RESIEDE: Registro del Sistema Estatal de Cultura Física y Deporte.
+XV. SIEDE: Sistema Estatal de Cultura Física y Deporte;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
+
+XVI. RESIEDE: Registro del Sistema Estatal de Cultura Física y Deporte; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2010)</small>
+
+XVII. COMISIÓN: La Comisión de Control de Violencia en la Celebración de Espectáculos Deportivos.
 
 ###### Artículo 4°.
 
@@ -167,9 +185,11 @@ VII. Las Asociaciones y Sociedades que estén reconocidas en términos de esta L
 
 VIII. Las demás que a juicio del Consejo Directivo del Deporte deban de formar parte.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+
 ###### Artículo 10.
 
-El SIEDE deberá sesionar cuando menos una vez en cada año natural, a efecto de fijar la política operativa y de instrumentación en materia de cultura física y deporte y dar cumplimiento al Programa Estatal de Cultura Física y Deporte. El Instituto del Deporte del Estado de Aguascalientes tendrá la responsabilidad de integrar a dicho programa los acuerdos del SIEDE.
+El SIEDE deberá sesionar cuando menos una vez al año, a efecto de fijar la política operativa y de instrumentación en materia de cultura física y deporte así como para dar cumplimiento al Programa. En cada sesión se elaborará un informe detallado en el qué constarán tanto las resoluciones y acuerdos referidos a las acciones, financiamientos y programas necesarios para la coordinación, fomento, ejecución, apoyo, promoción, difusión y desarrollo de la cultura física y deporte. El IDEA tendrá la responsabilidad de integrar a dicho programa los acuerdos del SIEDE.
 
 ###### Artículo 11.
 
@@ -183,9 +203,13 @@ III. Proponer planes y programas que contribuyan a fomentar, promover y estimula
 
 IV. Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la cultura física y deporte;
 
-V. Las demás que le otorgue esta Ley u otros ordenamientos legales; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
 
-VI. Formular el programa estatal de cultura física y deporte y llevar a efecto las acciones que del mismo se deriven.
+V. Formular en coordinación con el IEA, el Programa y llevar a efecto las acciones que del mismo se deriven; y
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
+
+VI. Las demás que le otorgue esta Ley y otros ordenamientos Legales.
 
 ###### Artículo 12.
 
@@ -221,7 +245,9 @@ VIII. Coordinar acciones con las Dependencias y Entidades de la Administración 
 
 IX. Promover y fomentar ante las instancias correspondientes en el ámbito estatal, el otorgamiento de estímulos fiscales a los sectores social y privado derivado de las acciones que estos sectores desarrollen a favor de la cultura física y deporte;
 
-X. Promover el desarrollo de los programas de formación, capacitación, actualización y los métodos de certificación en materia de cultura física y deporte, promoviendo y apoyando, la inducción de la cultura física y deporte en los planes y programas educativos;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
+
+X. Promover el desarrollo de los programas de formación, capacitación, actualización y los métodos de certificación en materia de cultura física y deporte, promoviendo y apoyando, la inducción de la cultura física y deporte en los planes y programas de estudio de la educación básica;
 
 XI. Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte;
 
@@ -279,11 +305,15 @@ La administración del Instituto del Deporte de Aguascalientes, y de las estruct
 
 La Junta Directiva a que se refiere el artículo anterior, estará integrada por un representante de cada una de las siguientes dependencias:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE ENERO DE 2010)</small>
+
 a) Instituto de Educación de Aguascalientes;
 
 b) Secretaría de Finanzas del Estado;
 
-c) Secretaría de Gobierno del Estado;
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+
+c) Secretaría General de Gobierno del Estado;
 
 d) Secretaría de Gestión e Innovación;
 
@@ -295,7 +325,9 @@ g) Secretaría de Seguridad Pública;
 
 h) Procuraduría General de Justicia del Estado;
 
-i) El Presidente de la Comisión de Deporte y Recreación del Congreso del Estado;
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+
+i) El Presidente de la Comisión de Recreación y Deporte del Congreso del Estado;
 
 j) Secretaría de Relaciones Exteriores del Gobierno Federal;
 
@@ -647,9 +679,25 @@ El registro a que se refiere el párrafo anterior, será requisito indispensable
 
 Los órganos responsables en los municipios de la cultura física y deporte, se regirán por sus propios ordenamientos, sin contravenir lo dispuesto por la presente Ley y la Ley General de Cultura Física y Deporte, cumpliendo en todo momento con cada una de las obligaciones que como miembros del SIEDE les corresponde.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+
 ###### Artículo 36.
 
-Los Sistemas Municipales coordinarán sus actividades para aplicar las políticas, planes y programas que en materia de cultura física y deporte se adopten por el SIEDE.
+Los Sistemas Municipales coordinarán sus actividades para aplicar las políticas, planes y programas que en materia de cultura física y deporte se adopten por el SIEDE, cumpliendo con los siguientes objetivos:
+
+I. Identificar las necesidades públicas municipales en materia de deporte y recreación y crear los medios para satisfacerlas;
+
+II. Otorgar estimulas fiscales para el desarrollo y fomento del deporte;
+
+III. Promover la creación y apoyar a los organismos locales que desarrollen actividades deportivas en coordinación con el IDEA;
+
+IV. Organizar y coordinar las actividades deportivas en los fraccionamientos, colonias, barrios, zonas y centros de población a través de las asociaciones y juntas de vecinos, con el fin de fomentar y desarrollar el deporte;
+
+V. Asignar los recursos necesarios para el logro de los fines anteriormente señalados;
+
+VI. Vigilar el cumplimiento de las normas de seguridad aplicables para las personas que presten servicio de guía e instrucción en deportes extremos o de aventura; y
+
+VII. Las demás que le otorgue esta Ley u otros ordenamientos legales.
 
 ### CAPITULO SEXTO. De la Comisión Estatal de Apelación y Arbitraje del Deporte
 
@@ -899,7 +947,9 @@ El Instituto del Deporte del Estado de Aguascalientes coordinará y promoverá l
 
 El Ejecutivo del Estado y los Gobiernos Municipales brindarán facilidades administrativas y estímulos fiscales a los promotores de deporte profesional, con objeto de apoyar su presencia en el Estado.
 
-Para efectos de poder acceder a lo señalado en el párrafo anterior, el SIEDE determinará la pertinencia de dichos apoyos, considerando el impacto social del deporte de que se trate, a cambio de dichas facilidades y estímulos, los promotores de deporte profesional participarán con los gobiernos, estatal y municipales en actividades de desarrollo social que se acuerde mediante el convenio correspondiente.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+
+Para efectos de poder acceder a lo señalado en el párrafo anterior, el SIEDE determinará la pertinencia de dichos estímulo fiscales, considerando el impacto social del deporte de que se trate, a cambio de dichas facilidades y estímulos, los promotores de deporte profesional participarán con los gobiernos, estatal y municipales en actividades de desarrollo social promoviendo a través de los deportistas profesionales la importancia de practicar algún deporte previo acuerdo correspondiente.
 
 ### CAPITULO DECIMO. Del Deporte Adaptado
 
@@ -941,7 +991,9 @@ Los clubes, asociaciones o deportistas que practiquen deporte adaptado deberán 
 
 El Instituto del Deporte del Estado de Aguascalientes, contará dentro de sus instalaciones deportivas con las facilidades de acceso, desplazamiento y orientación para discapacitados, asimismo, procurará contar dentro de sus servicios médicos, con personal calificado para la atención de personas con discapacidad.
 
-Los deportistas discapacitados de alto rendimiento tendrán los mismos derechos y prerrogativas que otorga esta Ley en materia de deporte normal.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+
+Los deportistas discapacitados de alto rendimiento gozarán de los mismos derechos e incentivos establecidos en esta ley en materia de deporte normal y para los deportistas de alto rendimiento.
 
 ### CAPITULO DECIMO SEGUNDO. Del Deporte Estudiantil
 
@@ -1009,7 +1061,45 @@ Asimismo, el Instituto del Deporte deberá evaluar por lo menos una vez al año,
 
 El Instituto del Deporte del Estado de Aguascalientes, apoyará las actividades en materia de cultura taurina, disponiendo los recursos que su presupuesto prevea, para la preservación de escuelas que la promuevan.
 
-### CAPITULO DECIMO NOVENO. De la Infraestructura
+### CAPITULO DECIMO OCTAVO BIS. De los Deportes Extremos o de Aventura
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
+
+Artículo 93 bis.- Se entiende por deportes extremos o de aventura aquellos donde existe una real o aparente peligrosidad por las condiciones, difíciles en las que se practican.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
+
+Artículo 93 ter.- El Instituto del Deporte del Estado de Aguascalientes deberá contar con un registro de todas las empresas e instructores que ofrezcan el servicio de deportes extremos o de aventura que se presten en el Estado a fin de vigilar su desarrollo e involucramiento con la sociedad y el turismo.
+
+Es obligación de quienes presten el servicio de instrucción o guía de deportes extremos o de aventura, reunir los requisitos y condiciones que garanticen su práctica en las circunstancias lo más seguras posible.
+
+El reglamento de esta ley, establecerá las normas de seguridad con las que deberán contar quienes se dediquen a la explotación comercial o práctica de los deportes de extremos o de aventura, así como los requisitos que deberán cumplir para prestar el servicio de instrucción o guía.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
+
+Artículo 93 quater.- Para efectos de la presente ley, se considerarán deportes extremos o de aventura:
+
+I. Circuito de puentes colgantes y tirolesa;
+
+II. Campismo o excursionismo;
+
+III. Cueva y Boulder;
+
+IV. Montañismo o Rappel;
+
+V. Vuelo en ultraligeros;
+
+VI. Gotcha;
+
+VII. Deportes de combate o contacto;
+
+VIII. Motocross, motociclismo acrobático, ciclismo de montaña;
+
+IX. Lancha con remos;
+
+X. Automovilismo; y
+
+XI. Los demás que se establezcan en el reglamento o representen peligro directo e inmediato a la integridad física de las personas.
 
 ###### Artículo 93.
 
@@ -1017,9 +1107,11 @@ Los titulares de las dependencias de la Administración Pública Estatal, tendr�
 
 Igualmente, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con su entrenamiento y participación en competiciones oficiales.
 
-### CAPITULO VIGESIMO. De la Enseñanza, Investigación y Difusión
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE ENERO DE 2010)</small>
 
-### CAPITULO VIGESIMO PRIMERO. De las Ciencias Aplicadas
+### CAPITULO DECIMO NOVENO. De la Infraestructura
+
+### CAPITULO VIGESIMO. De la Enseñanza, Investigación y Difusión
 
 ###### Artículo 94.
 
@@ -1049,19 +1141,23 @@ En los términos de los convenios de coordinación y colaboración respectivos, 
 
 El Instituto del Deporte del Estado de Aguascalientes podrá solicitar a las autoridades correspondientes que se suspenda total o parcialmente el uso de cualquier instalación que no cumpla con los requisitos mínimos de operación señalados en las Normas Oficiales Mexicanas, cumpliendo el procedimiento que para ese propósito prevea el reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+
 ###### Artículo 100.
 
-Las instalaciones destinadas a la cultura física y al deporte deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, privilegiando la sana y pacifica convivencia, de manera que impidan o limiten al máximo las posibles acciones de violencia o conductas antisociales.
+Las instalaciones destinadas a la cultura física y al deporte y aquellas en las que se celebren espectáculos deportivos deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable a fin de procurar la integridad y seguridad de los asistentes y participantes, privilegiando la sana y pacífica convivencia de manera que impidan o limiten al máximo las posibles manifestaciones de violencia, xenofobia, racismo, intolerancia y cualquier otra conducta antisocial.
 
 ###### Artículo 101.
 
 El Instituto del Deporte del Estado de Aguascalientes moverá ante las diversas instancias de gobierno, la utilización concertada de laboratorios, centros de salud, parques, plazas y demás espacios o instalaciones públicas en apoyo a la cultura física y deporte.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+
 ###### Artículo 102.
 
-En el uso de las instalaciones a que se refiere este Capítulo, con fines de espectáculo, deberán tomarse las providencias necesarias y respetarse los programas y calendarios previamente establecidos y se deberá fijar una fianza suficiente que garantice la reparación de los daños que se pudieran ocasionar, mismos que será determinada por el Instituto del Deporte de Aguascalientes.
+En el uso de las instalaciones a que se refiere este Capítulo, con fines de espectáculo, deberán tomarse las providencias necesarias que determine la presente Ley y la Comisión. Asimismo, deberán respetarse los programas y calendarios previamente establecidos, así como acreditar por parte de los organizadores, ante la Comisión, que se cuenta con póliza de seguro vigente que cubra la reparación de los daños a personas y bienes que pudieran ocasionarse, cuando así se acredite su responsabilidad.
 
-### CAPITULO VIGESIMO SEGUNDO. Del Estímulo a la Cultura Física y al Deporte
+### CAPITULO VIGESIMO PRIMERO. De las Ciencias Aplicadas
 
 ###### Artículo 103.
 
@@ -1079,7 +1175,7 @@ El Instituto del Deporte del Estado de Aguascalientes participará en la elabora
 
 El Instituto del Deporte del Estado de Aguascalientes promoverá y gestionará conjuntamente con las asociaciones deportivas estatales, la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física y deporte. Para tal efecto, emitirá los lineamientos necesarios en los que se determine el procedimiento de acreditación considerando lo dispuesto por la Ley de Educación del Estado de Aguascalientes.
 
-### CAPITULO VIGESIMO TERCERO. Del Control de Sustancias Prohibidas y Métodos no Reglamentarios en el Deporte
+### CAPITULO VIGESIMO SEGUNDO. Del Estímulo a la Cultura Física y al Deporte
 
 ###### Artículo 107.
 
@@ -1111,7 +1207,7 @@ El Instituto de Salud de Aguas calientes y el Instituto del Deporte del Estado d
 
 Las instancias correspondientes, verificarán y certificarán que los laboratorios y profesionistas dedicados al ejercicio de estas ciencias, cumplan con los requisitos que fijen los Reglamentos y Normas Oficiales Mexicanas que sobre el particular, emita la dependencia con competencia en la materia.
 
-### CAPITULO VIGESIMO CUARTO. De los Riesgos, de la Prevención, de la Violencia y la Responsabilidad Civil en Espectáculos Deportivos
+### CAPITULO VIGESIMO TERCERO. Del Control de Sustancias Prohibidas y Métodos no Reglamentarios en el Deporte
 
 ###### Artículo 114.
 
@@ -1177,7 +1273,13 @@ IV. Facilitar cuanta información le sea requerida por las autoridades de la adm
 
 Las personas físicas y morales, así como las agrupaciones que hubieren contribuido al desarrollo de la cultura física y deporte estatal o nacional, podrán obtener reconocimiento por parte del Instituto del Deporte del Estado de Aguascalientes, así como en su caso, estímulos en dinero o especie con previo cumplimiento de los requisitos que para tal efecto se establezcan.
 
-### CAPITULO VIGESIMO QUINTO. De las Infracciones y Sanciones
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
+
+Para el cumplimiento del párrafo anterior, el Instituto del Deporte del Estado de Aguascalientes además podrá promocionar los logros de los deportistas mediante campañas .publicitarias en los diferentes medios de comunicación en todo el Estado y solicitar el apoyo de deportistas profesionales para ser promotores del deporte en todos los niveles educativos en el Estado.
+
+### CAPITULO VIGESIMO CUARTO. De la Prevención de la Violencia en la Celebración de Espectáculos Deportivos
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
 
 ###### Artículo 120.
 
@@ -1233,25 +1335,65 @@ Los métodos, prácticas y análisis para determinar el uso de sustancias y/o m�
 
 Los Poderes Públicos en el ámbito de sus respectivas competencias, adoptarán medidas normativas para controlar la circulación, disponibilidad, tenencia, importación, distribución, venta y utilización en el deporte de agentes dopantes y de métodos de dopaje prohibidos o no reglamentarios.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 2010)</small>
+
+### CAPITULO VIGESIMO QUINTO. De las Infracciones y Sanciones
+
 ###### Artículo 133.
 
-En la celebración de espectáculos públicos o privados, eventos, cursos, talleres o seminarios en materia de cultura física y deporte, sus promotores tienen la obligación de asegurar la integridad de los asistentes y la prevención de la violencia.
+En la celebración de espectáculos deportivos públicos o privados, eventos, cursos, talleres o seminarios en materia de cultura física y deporte, los organizadores tienen la obligación de informar a las autoridades de seguridad pública y protección civil, de los detalles del espectáculo, a fin de prever las medidas de seguridad tendientes a proteger la integridad de los asistentes y participantes.
 
-Para dar cumplimiento a lo dispuesto en el párrafo anterior, además de lo previsto en el reglamento de la presente Ley y en los lineamientos correspondientes que para el efecto que expida el Instituto del Deporte del Estado de Aguascalientes, deberán estar en los siguientes puntos:
+Para dar cumplimiento a lo dispuesto en el párrafo anterior, además de lo previsto en el Reglamento de la presente Ley y en los lineamientos correspondientes que para tal efecto expida la Comisión, los organizadores deberán establecer una estrecha coordinación con las autoridades correspondientes a fin de observar lo siguiente:
 
-I. Procurar que se movilicen servicios de policía preventiva suficientes para afrontar las manifestaciones de violencia en el lugar del evento o sus inmediaciones, así como a lo largo de las vías de tránsito utilizadas por los espectadores;
+I. La procuración de operativos de vigilancia, custodia y revisión tanto en el interior como en las inmediaciones de las instalaciones en donde se celebrare un espectáculo deportivo;
 
-II. Facilitar una cooperación estrecha y un intercambio de información apropiada entre los cuerpos de policía de las distintas localidades interesadas o que puedan llegar a estarlo; y
+II. Llevar a cabo visitas de verificación de las instalaciones en donde se celebrará el evento;
 
-III. Actuar de manera tal, que la proyección y estructura de los lugares donde se celebren eventos deportivos, garanticen la seguridad de los asistentes, no favorezcan la violencia entre ellos, permitan un control eficaz de los asistentes, contenga barreras o vallas apropiadas y permitan la intervención de los servicios médicos y de seguridad pública.
+III. Celebrar las reuniones necesarias previas a la realización de un espectáculo deportivo a fin de delimitar las zonas de activación y responsabilidad de cada uno de los involucrados, antes, durante y después del evento, tanto en las instalaciones como en las inmediaciones en donde se celebre dicho espectáculo;
+
+IV Promover la realización de programas y campañas de divulgación adecuados sobre la no violencia en el deporte;
+
+V. Promover normas encaminadas a la erradicación de actos racistas, xenófobos, intolerantes y violentos; y
+
+VI. Fomentar los valores de integración y convivencia social del deporte, del juego limpio y la no violencia.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
+
+Artículo 133 bis.- Dentro de los lineamientos que emita la Comisión a que se refiere el Artículo anterior deberán regularse en lo concerniente al acceso a los espectáculos deportivos, entre otras medidas:
+
+I. La introducción de armas, elementos cortantes, punzantes, contundentes u objetos susceptibles de ser utilizados como tales, mismos que puedan poner en peligro, la integridad física de los deportistas, atletas, árbitros y de espectadores o asistentes en general;
+
+II. El ingreso y utilización de petardos, bombas de estruendo, bengalas, fuegos de artificio u objetos análogos;
+
+III. La introducción de banderas, carteles, pancartas, mantas o elementos gráficos que atenten contra la sana convivencia o inciten a la violencia, así como cualquier elemento que impida la plena identificación de los espectadores o aficionados en general;
+
+IV. El ingreso de bebidas alcohólicas, estupefacientes, psicotrópicos, estimulantes o sustancias análogas, así como de personas que se encuentren bajo los efectos de las mismas;
+
+V. El establecimiento de espacios determinados, de modo permanente o transitorio, para la ubicación de las porras o grupos de animación empadronados por los clubes o equipos, y registrados ante su respectiva federación.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
 
 ###### Artículo 134.
 
+Quienes en su carácter de espectador acudan a la celebración de un espectáculo deportivo deberán:
+
+I. Acatar las disposiciones normativas relacionadas con la celebración de espectáculos deportivos que emita la Comisión, así como las de la localidad en donde se lleven a cabo; y,
+
+II. Cumplir con las condiciones señaladas en el reverso del boleto y en las puertas de acceso, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
+
 Con estricto respeto a los procedimientos previstos en otras leyes u ordenamientos aplicables, los espectadores y participantes, que cometan actos que generen violencia u otras acciones reprensibles al interior o exterior de los espacios destinados a la realización de la cultura física y deporte en cualquiera de sus modalidades, serán sujetos a la sanción aplicable.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
+
+Artículo 134 bis.- Los jugadores, deportistas, técnicos, directivos y demás personas relacionadas con el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que, para erradicar la violencia en la celebración de espectáculos deportivos, emita la Comisión y a las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Estatales respectivas.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
 
 ###### Artículo 135.
 
-Los integrantes del SIEDE, en coordinación con las autoridades competentes, están obligados a revisar continuamente sus reglamentos para controlar los factores que puedan provocar estallidos de violencia por parte de deportistas o espectadores.
+Los integrantes del SIEDE, en coordinación con las autoridades competentes, tienen la obligación de revisar continuamente sus reglamentos, a fin de promover y contribuir a controlar los factores que puedan provocar estallidos de violencia por parte de deportistas y espectadores.
+
+Asimismo brindarán las facilidades y ayuda necesaria, a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en los espectáculos deportivos, a fin de conseguir su correcta y adecuada implementación.
 
 ###### Artículo 136.
 
@@ -1261,9 +1403,47 @@ En las proximidades de los recintos en que se celebren acontecimientos deportivo
 
 El Cuerpo de Protección Civil prestará toda la ayuda posible a las unidades de policía, para que los efectivos especializados en la prevención de la violencia en los espectáculos deportivos, se mantengan actualizados en las disposiciones técnicas y métodos de trabajo que, a este objeto y en el ámbito de su competencia, establezcan las autoridades responsables.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
+
 ###### Artículo 138.
 
-La aplicación de las disposiciones previstas en este Capítulo, se realizará sin perjuicio de dar cumplimiento a otros ordenamientos en materia de espectáculos públicos del Estado y los municipios.
+La aplicación de las disposiciones previstas en este Capítulo, se realizará sin perjuicio de dar cumplimiento a otros ordenamientos en materia de espectáculos públicos del Estado y los Municipios.
+
+En el ámbito de la prevención de la violencia en los espectáculos deportivos, se creará la Comisión de Control de Violencia en la Celebración de Espectáculos Deportivos, integrada de manera plural y equitativa por.
+
+a) Un representante del SIEDE;
+
+b) Un representante de la CONADE;
+
+c) Un representante de la CODEME;
+
+d) Un representante de la COM;
+
+e) Un representante del IDEA;
+
+f) Un representante del Consejo Estatal del Deporte;
+
+g) Un representante de las Asociaciones Deportivas Estatales registradas ante el IDEA; y
+
+h) El Presidente de la Comisión de Recreación y Deporte del Congreso del Estado.
+
+En la Comisión podrán participar dependencias de la administración pública estatal, a fin de colaborar, apoyar y desarrollar planes y estudios .que aporten eficacia a las acciones encaminadas a la prevención de la violencia en la celebración de espectáculos deportivos.
+
+La coordinación y operación de los trabajos dé la Comisión, estarán a cargo del SIEDE.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2010)</small>
+
+Artículo 138 bis.- Las funciones de dicha Comisión, entre otras, que se establecerán para el cumplimiento de sus fines, conforme a lo dispuesto en el reglamento de la presente Ley, serán:
+
+I. Trabajar de manera coordinada con las dependencias estatales involucradas en la realización de espectáculos deportivos, como son: la Procuraduría General de Justicia del Estado, la Secretaría de Seguridad Pública Estatal y Municipal, y Protección Civil del Estado y Municipios;
+
+II. Promover e impulsar las acciones encaminadas a la Prevención de la Violencia en la Celebración de los Espectáculos Deportivos;
+
+III. Establecer los lineamientos generales para la debida y eficaz operación de los acuerdos de colaboración de los tres niveles de gobierno que estén encaminados a prevenir la violencia en los espectáculos deportivos;
+
+IV. Emitir los lineamientos necesarios para implementar medidas conforme a la clasificación de riesgo; y
+
+V. Emitir lineamientos que determinen medidas mínimas de seguridad y proceso de certificación.
 
 ###### Artículo 139.
 
@@ -1411,7 +1591,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE JULIO DE 2007.
 
@@ -1422,3 +1602,17 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Para dar cumplimiento a lo previsto por el Artículo Tercero Transitorio, de la Ley de Cultura Física y Deporte del Estado de Aguascalientes, contenida en el Decreto 245 publicado con fecha 22 de enero del año 2007, en el Periódico Oficial del Estado, el Reglamento de la Ley en cita, se deberá expedir dentro de un plazo no mayor de 60 días siguientes a la fecha de entrada en vigencia del presente Decreto.
+
+P.O. 25 DE ENERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las modificaciones al Reglamento de la Ley de Cultura Física y Deporte del Estado de Aguascalientes deberán realizarse en un plazo no mayor de 60 días a la fecha de entrada en vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión conforme a la presente Ley, deberá celebrar su sesión de instalación en un plazo no mayor de 60 días a la fecha de entrada en vigencia del presente Decreto, en la que se deberá de aprobar el plan de trabajo de la referida Comisión.
