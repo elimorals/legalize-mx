@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2009-12-10"
+last_updated: "2010-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -669,7 +669,9 @@ II. Vigilar y establecer medidas para controlar la contaminación originada por 
 
 El consejo interno se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con nueve vocales que son los representantes de las secretarías de Finanzas y Planeación, del Trabajo y de la Previsión Social, de Educación, Cultura y Bienestar Social, de Desarrollo Urbano y Obras Públicas, de Desarrollo Agropecuario, de Administración y de Ecología, así como un representante de la Secretaría de Salud del Gobierno Federal y otro de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
 
-El director general será nombrado por el Gobernador del Estado y deberá ser preferentemente ciudadano mexiquense y con experiencia en materias de salud pública y administración de servicios de salud; mayor de cuarenta años de edad; médico cirujano; de reconocida calidad moral, buena conducta, y honorabilidad manifiesta.
+(REFORMADO, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+El director general será nombrado por el Gobernador del Estado y deberá ser preferentemente ciudadano mexiquense y con experiencia en materias de salud pública y administración de servicios de salud; médico cirujano; de reconocida calidad moral, buena conducta, y honorabilidad manifiesta.
 
 La organización y funcionamiento del Instituto se regirá por el reglamento interno que expida el consejo interno.
 
@@ -1067,7 +1069,9 @@ El comisionado es nombrado por el Gobernador del Estado y deberá reunir los sig
 
 I. Ser mexicano por nacimiento y ciudadano en pleno ejercicio de sus derechos políticos y civiles, con residencia efectiva en el Estado de México de por lo menos 5 años anteriores a su designación;
 
-II. Tener cuando menos 50 años de edad cumplidos al día de su designación;
+(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Contar con estudios de posgrado preferentemente en el área medica;
 
@@ -9051,7 +9055,7 @@ VII. Proporcionar, divulgar o usar información que en términos de este Libro n
 
 VIII. Obtener algún ingreso no contemplado en las disposiciones legales vigentes por la prestación del Servicio Estatal;
 
-IX. Otorgar exenciones, condonaciones o subsidios.
+IX. Otorgar exenciones, condenaciones o subsidios.
 
 Las infracciones previstas en las fracciones I, III, V, VI y VII o la reincidencia en las conductas previstas en las demás fracciones de este artículo, serán consideradas como graves para efectos de su sanción administrativa, en términos de lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
 
@@ -10772,3 +10776,13 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el 1º de enero de 2010.
 
 TERCERO.- Se ratifican las retenciones efectuadas al amparo de los artículos 230 E y 230 K del Código Financiero del Estado de México y Municipios y Tercero Transitorio del Decreto No. 123 de la H. "LVI" Legislatura publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México de fecha 27 de marzo de 2008, por el periodo de enero de 2008 a diciembre de 2009.
+
+G.G. 25 DE ENERO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
