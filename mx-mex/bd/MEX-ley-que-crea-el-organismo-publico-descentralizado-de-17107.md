@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-17107"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-19"
-last_updated: "1994-10-19"
+last_updated: "2010-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE FEBRERO DE 2010 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
 
 Ley publicada en la Sección Cuarta del Número 78 de la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 1994.
 
@@ -135,7 +137,7 @@ Para ser miembro de la Junta Directiva se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Ser mayor de 30 y menor de 65 años;
+II. (DEROGADA, G.G. 25 DE ENERO DE 2010)
 
 III. Tener experiencia académica, profesional o laboral reconocida; y
 
@@ -217,7 +219,7 @@ Para ser Director General se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Ser mayor de 30 y menor de 65 años;
+II. (DEROGADA, G.G. 25 DE ENERO DE 2010)
 
 III. Poseer título de licenciatura; y
 
@@ -408,3 +410,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. CESAR CAMACHO QUIROZ
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 25 DE ENERO DE 2010.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUMERO 44.- CON EL QUE SE REFORMA LA LEY QUE CREA AL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLOGICA FIDEL VELAZQUEZ; LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLOGICA NEZAHUALCÓYOTL; LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZALO DE CARACTER ESTATAL DENOMINADO COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE MEXICO; LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO TECNOLOGICO DE ESTUDIOS SUPERIORES DE COACALCO; LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO TECNOLOGICO DE ESTUDIOS SUPERIORES DE ECATEPEC; LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZALO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLOGICA DE TECÁMAC; LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO Y AL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan todas las disposiciones de igualo menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
