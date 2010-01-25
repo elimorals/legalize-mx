@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-10169"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-28"
-last_updated: "2009-08-13"
+last_updated: "2010-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLOGICA DE TECAMAC
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 28 de junio de 1996.
 
@@ -175,7 +175,9 @@ Para ser miembro del consejo directivo se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Ser mayor de 30 años de edad;
+(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Tener experiencia académica, profesional o laboral reconocida; y
 
@@ -241,7 +243,9 @@ Para se (sic) rector se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Ser mayor de 30 años de edad;
+(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Poseer título del nivel licenciatura;
 
@@ -303,7 +307,9 @@ Para ser secretario académico y director de división o de centro se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Ser mayor de 25 años de edad;
+(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Tener título del nivel licenciatura;
 
@@ -450,3 +456,13 @@ G.G. 13 DE AGOSTO DE 2009.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 25 DE ENERO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
