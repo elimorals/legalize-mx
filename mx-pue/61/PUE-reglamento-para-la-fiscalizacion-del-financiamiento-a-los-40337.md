@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-para-la-fiscalizacion-del-financiamiento-a-los-40337
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-21"
-last_updated: "2007-05-11"
+last_updated: "2010-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1222 +21,1902 @@ state: "PUE"
 ---
 # REGLAMENTO PARA LA FISCALIZACION DEL FINANCIAMIENTO A LOS PARTIDOS POLITICOS ACREDITADOS O REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO
 
-REGLAMENTO PARA LA FISCALIZACION DEL FINANCIAMIENTO A LOS PARTIDOS POLITICOS ACREDITADOS O REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO
+LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
 
-Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 21 de julio de 2004.
+Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 23 de diciembre de 2019.
 
-Al margen un sello con una leyenda que dice: Instituto Electoral del Estado.- Secretaría General.
+ALFREDO DEL MAZO MAZA, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-ANTECEDENTES...
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-Por lo anteriormente expuesto y en ejercicio que le confiere el artículo 89 fracción LIII del, Código de Instituciones y Procesos Electorales del Estado de Puebla, el Consejo General de este Instituto emite el siguiente:
+La H. “LX” Legislatura del Estado de México decreta:
 
-ACUERDO
+DECRETO NÚMERO 113
 
-PRIMERO.- El Consejo General del Instituto Electoral aprueba el Reglamento para la Fiscalización del Financiamiento a los Partidos Políticos acreditados o registrados ante el Instituto Electoral del Estado, en términos de lo establecido en el considerando 4 del presente Acuerdo.
+LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
+## TÍTULO PRIMERO. Disposiciones Generales
 
-Este Acuerdo fue aprobado por unanimidad de votos de los integrantes del Consejo General del Instituto Electoral del Estado en sesión ordinaria de fecha treinta de junio de dos mil cuatro.- Consejero Presidente.- LICENCIADO ALEJANDRO ARTURO NECOECHEA GÓMEZ.- Rúbrica.- Secretario General.- LICENCIADO NOE JULIÁN CORONA CABAÑAS.- Rúbrica.
+### CAPÍTULO PRIMERO. Objeto, Interpretación y Definiciones
 
-EXPOSICIÓN DE MOTIVOS...
+###### Artículo 1.
 
-PRIMERA PARTE
+La presente Ley es de orden público e interés social y de observancia general en el Estado de México, de conformidad con el artículo 61 fracción IV de la Constitución Política del Estado Libre y Soberano de México, así como los Tratados Internacionales en materia de derechos humanos celebrados y ratificados por el Estado Mexicano y en armonía con la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
 
-REGLAMENTO
+###### Artículo 2.
 
-REGLAMENTO PARA LA FISCALIZACIÓN DEL FINANCIAMIENTO A LOS PARTIDOS POLÍTICOS ACREDITADOS O REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO
+La presente Ley tiene por objeto:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-## TÍTULO I. DISPOSICIONES PRELIMINARES
+I. Establecer las formas de coordinación entre el Estado y sus municipios para buscar a las Personas Desaparecidas, mediante la Alerta Nacional de Búsqueda, Localización e Identificación, ante la Noticia, Reporte o denuncia de Persona Desaparecida, y esclarecer los hechos; así como para prevenir, investigar, sancionar y erradicar los delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, en el ámbito de su respectiva competencia, así como los delitos vinculados que establece la Ley General;
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
+II. Establecer el Mecanismo Estatal de Coordinación en materia de Investigación y Búsqueda de Personas;
 
-### CAPÍTULO ÚNICO. DEL OBJETO DEL REGLAMENTO
+III. Regular la Comisión de Búsqueda de Personas del Estado de México;
 
-###### ARTÍCULO 1.
+IV. Establecer indicadores de evaluación, confiables y transparentes, sobre la eficacia y eficiencia de resultados en materia de hallazgo de personas desaparecidas, y de los programas establecidos para el combate a la desaparición de personas;
 
-El presente Reglamento establece las bases técnicas para la presentación de los informes justificatorios del origen, monto y destino de los recursos, con que cuenten los partidos políticos por cualquier modalidad de financiamiento reconocido en el Código de Instituciones y Procesos Electorales del Estado de Puebla; las relacionadas con su obtención, administración y requisitado; empleo y aplicación de los recursos obtenidos para los gastos; los procedimientos y mecanismos conforme a los cuales los institutos políticos deberán llevar y efectuar el registro de todos sus ingresos y egresos; los requisitos que deben reunir los comprobantes que respalden las operaciones del ejercicio del gasto; la integración, revisión y presentación de los informes sobre el origen, monto y destino de los recursos y dictamen que realice la Dirección y la Comisión respectivamente.
+V. Garantizar la protección integral de los derechos de las Personas Desaparecidas hasta que se conozca su suerte o paradero; así como la atención, la asistencia, la protección y, en su caso, la reparación integral y las garantías de no repetición, en términos de esta Ley y la legislación aplicable;
 
-###### ARTÍCULO 2.
+VI. Garantizar la participación de los familiares en el diseño, implementación, monitoreo y evaluación de las acciones de búsqueda e identificación de Personas Desaparecidas; así como garantizar la coadyuvancia en las etapas de la investigación, como en el proceso, de manera que puedan verter sus opiniones, recibir información, aportar indicios o evidencias, de acuerdo a los lineamientos y protocolos emitidos por el Sistema Nacional, y
 
-Para los efectos de este Reglamento, se entenderá por
+VII. Crear el Registro Estatal en la entidad que forma parte del Registro Nacional.
 
-I. Código: El Código de Instituciones y Procesos Electorales del Estado de Puebla;
+###### Artículo 3.
 
-II. Reglamento de Comisiones: El Reglamento de Comisiones del Instituto Electoral del Estado;
+La aplicación de la presente Ley corresponde a las autoridades del Estado y los municipios, en el ámbito de sus respectivas competencias, y se interpretará de conformidad con los principios de promoción, respeto, protección y garantía de los derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte, en la Ley General y en las demás leyes aplicables, favoreciendo en todo tiempo el principio pro persona.
 
-III. Instituto: El Instituto Electoral del Estado;
+###### Artículo 4.
 
-IV. Consejo: El Consejo General del Instituto Electoral del Estado;
+Para efectos de esta Ley se entiende por:
 
-V. Comisión: La Comisión Revisora en términos de lo dispuesto por los artículos 52 y 108 del Código;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
-VI. Presidente: El Presidente de la Comisión Revisora;
+I. Autoridades: a las dependencias y organismos auxiliares de la Administración Pública Estatal y municipal; los poderes legislativo y judicial, así como los órganos autónomos constitucionales;
 
-VII. Dirección: La Dirección de Prerrogativas, Partidos Políticos y Medios de Comunicación del Instituto Electoral del Estado;
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
-VIII. Órgano Interno: El Órgano Interno encargado de la administración de los recursos que por concepto de financiamiento reciba el partido político y/o coalición;
+I Bis. Banco Nacional de Datos Forenses: a la herramienta del Sistema Nacional que concentra las bases de datos de las Entidades Federativas y de la Federación; así como, otras bases de datos que tengan información forense relevante para la búsqueda e identificación de Personas Desaparecidas señalado en la Ley General;
 
-IX. Informe trimestral: El informe justificatorio trimestral del sostenimiento de actividades ordinarias permanentes y para el acceso equitativo de los partidos políticos a los medios de comunicación;
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-X. Informe anual: El informe justificatorio anual de sostenimiento de actividades ordinarias permanentes y para el acceso equitativo de los partidos políticos a los medios de comunicación;
+I Ter. Base Nacional de Carpetas de Investigación: al registro que contiene los datos de las carpetas de investigación o averiguaciones previas iniciadas por los delitos de desaparición forzada de personas y de desaparición cometida por particulares, la cual será operada por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y actualizada en tiempo real por la Fiscalía Especializada;
 
-XI. Informe de gastos de campaña: El informe justificatorio de actividades tendientes a la obtención del voto; y
+II. Células de Búsqueda: a los elementos de seguridad pública municipales o estatales, capacitados y especializados en la aplicación de los protocolos de búsqueda e investigación;
 
-XII. Régimen de financiamiento: Las modalidades de financiamiento público y privado estipuladas en el Código.
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-###### ARTÍCULO 3.
+II Bis. Clave Única de Registro de Población: a la fuente única de identidad de las personas, que permite asociar a una persona con cualquier registro en poder de Autoridades y particulares de cualquier naturaleza, que servirá como mecanismo para el cruce, alerta y consulta de la información de sus bases de datos, para el cumplimiento del objeto de la Ley General;
 
-Para efectos del presente Reglamento las actividades que realicen los partidos políticos, son las siguientes:
+III. Código Nacional: al Código Nacional de Procedimientos Penales;
 
-I. Obtención, administración y requisitado de cualquier modalidad de financiamiento;
+IV. Comisión Ejecutiva Estatal: a la Comisión Ejecutiva de Atención a Víctimas del Estado de México;
 
-II. Empleo y aplicación de los recursos obtenidos a los gastos;
+V. Comisión de Búsqueda de Personas: a la Comisión de Búsqueda de Personas del Estado de México;
 
-III. Llevar los sistemas y registros contables que señale el presente Reglamento;
+VI. Comisión Nacional: a la Comisión Nacional de Búsqueda de Personas;
 
-IV. llevarán la contabilidad en su Órgano Directivo Estatal correspondiente;
+VII. Estado: al Estado Libre y Soberano de México;
 
-V. Integración y presentación de los informes trimestral, anual y de gastos de campaña, así como de la documentación complementaria a los mismos.
+VIII. Familiares: a las personas que, en términos de la legislación aplicable, tengan parentesco con la Persona Desaparecida por consanguinidad o afinidad, en línea recta ascendente y descendente sin limitación de grado; en línea transversal hasta el cuarto grado; él o la cónyuge, la concubina o concubinario o, en su caso, quienes estén sujetos al régimen de sociedad en convivencia u otras figuras jurídicas análogas. Asimismo, las personas que dependan económicamente de la Persona Desaparecida, que así lo acrediten ante las autoridades competentes;
 
-###### ARTÍCULO 4.
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-En la interpretación del presente Reglamento por parte de la Comisión, así como los casos no previstos en él se aplicarán los criterios gramatical, sistemático y funcional observando lo dispuesto por el artículo 4 del Código, la analogía y el último párrafo del artículo 14 de la Constitución Federal.
+VIII Bis. Familia Social: persona o conjunto de personas cercanas a la Persona Desaparecida que mantienen o mantuvieron vínculos significativos de afecto, cuidado, convivencia o acompañamiento solidario, independientemente de la existencia de lazos consanguíneos, legales o de parentesco formal, de conformidad con los protocolos vigentes;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-###### ARTÍCULO 5.
+VIII Ter. Ficha de Búsqueda: documento oficial generado por la autoridad competente al momento de recibirse una Noticia, Reporte o denuncia de desaparición de una persona, que contiene los datos esenciales para su identificación, búsqueda, localización e investigación;
 
-La Comisión notificará a los titulares responsables del Órgano Interno de los partidos políticos y/o coaliciones, a la Dirección, así como a los integrantes del Consejo General, la interpretación del presente Reglamento, así como los criterios emitidos para regular los casos no previstos en ellos, dentro de los diez días siguientes a la aprobación del acuerdo correspondiente, el cual entrará en vigor una vez que sea notificado a los Órganos Internos respectivos.
+IX. Fiscalía Estatal: a la Fiscalía General de Justicia del Estado de México;
 
-Los partidos políticos y/o coaliciones podrán solicitar que se sometan a consideración del Consejo las interpretaciones o criterios que apruebe la Comisión.
+X. Fiscalía Especializada: a la Fiscalía Especializada para la Investigación y Persecución de Delitos en Materia de Desaparición Forzada de Personas y Desaparición Cometida por Particulares, adscrita a la Fiscalía General de Justicia del Estado de México;
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
+XI. Fiscalía General: a la Fiscalía General de la República;
 
-###### ARTÍCULO 6.
+XII. Grupo de Búsqueda: al grupo de personas especializadas en materia de búsqueda de personas de la Comisión de Búsqueda de Personas, que realizarán la búsqueda de campo, entre otras;
 
-Son atribuciones de la Comisión, las señaladas en el artículo 52 del Código y las demás relacionadas con la materia, así como las determinadas en el artículo 15 fracción V del Reglamento de Comisiones del Instituto Electoral del Estado, y las siguientes:
+XIII. Instituciones de Seguridad Pública: a las instituciones policiales, de procuración de justicia, del sistema penitenciario, y otras autoridades del Consejo Estatal de Seguridad Pública del Estado, encargadas o que realicen funciones de Seguridad Pública en los órdenes estatal y municipal;
 
-I. Interpretar el presente Reglamento y regular los casos no previstos en él, sometiendo a aprobación del Consejo los criterios que considere;
+XIV. Ley General: a la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
 
-II. Proporcionar, previa solicitud de los partidos políticos y/o coaliciones interesados, la orientación y asesoría necesaria para el cumplimiento, en tiempo y forma, de las obligaciones consignadas en el Código y el presente Reglamento;
+XV. Ley de Víctimas: a la Ley de Víctimas del Estado de México;
 
-III. Vigilar que los recursos recibidos por los partidos políticos y/o coaliciones, bajo las modalidades de financiamiento público y privado, se obtengan, apliquen, comprueben y justifiquen conforme a lo dispuesto por el Código y el presente Reglamento;
+XVI. Mecanismo Estatal: Mecanismo Estatal de Coordinación en materia de Prevención, Investigación y Búsqueda de Personas;
 
-IV. Ordenar visitas de verificación de acuerdo a su competencia, de manera fundada y motivada a los Órganos Internos responsables de la administración de los recursos de los partidos políticos y/o coaliciones, así como de los partidos políticos que la conformen, con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes, previa autorización del Consejo General;
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-V. Conocer los manuales de operaciones contables y organizacional administrativa de los partidos políticos y/o coaliciones;
+XVI Bis. Nombre Social: es el vocativo por el cual se reconoce, identifica y alude a la persona en sus relaciones personales dentro de los contextos específicos y consiste en el nombre que una persona se autoasigna;
 
-VI. Aplicar en sus actos las normas y procedimientos de auditoria aceptados por el Instituto Mexicano de Contadores Públicos A.C.;
+XVII. Noticia: a la comunicación hecha por cualquier medio, distinto al reporte o la denuncia, mediante la cual, la autoridad competente conoce de la desaparición de una persona;
 
-VII. Verificar la observancia por parte de los partidos políticos y/o coaliciones de los topes a los gastos de campaña aprobados para cada elección haciendo del conocimiento del Consejo General los casos en que se hayan excedido;
+XVIII. Persona Desaparecida: a la persona cuya ubicación y paradero se desconoce, independientemente de que su ausencia se relacione o no con la comisión de un delito;
 
-VIII. Elaborar los dictámenes por cada partido político y/o coalición correspondientes a la fiscalización sobre el origen, monto y aplicación de los recursos recibidos bajo las modalidades de financiamiento público y privado; y
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-IX. Las demás que le otorgue el Código, este Reglamento y demás disposiciones aplicables.
+XVIII Bis. Plataforma Única de Identidad: a la herramienta para la consulta, validación y gestión de las Claves Únicas de Registro de Población, a que se refiere la Ley General de Población;
 
-Son atribuciones de la Dirección, además de las señaladas en el artículo 105 del Código, las siguientes:
+XIX. Programa Estatal de Búsqueda: al programa que contiene las estrategias y acciones interinstitucionales diferenciadas y eficaces en búsqueda, investigación, localización, protección, registro y judicialización de casos de personas desaparecidas, el cual deberá ser análogo al Programa Nacional de Búsqueda, rector en la materia;
 
-I. Proporcionar a los Órganos Internos interesados, la orientación y asesoría necesaria para el cumplimiento, en tiempo y forma, de las obligaciones consignadas en el Código y el presente Reglamento;
+XX. Protocolo Homologado de Búsqueda: al Protocolo Homologado para la Búsqueda de Personas Desaparecidas;
 
-II. Aplicar en su revisión las técnicas de auditoria propuestas por el Instituto Mexicano de Contadores Públicos A.C.;
+XXI. Protocolo Homologado de Investigación: al Protocolo Homologado para la investigación de los delitos materia de la Ley General;
 
-III. Elaborar los informes por cada partido político o coalición correspondientes a la fiscalización sobre el origen, monto y aplicación de sus recursos bajo las modalidades de financiamiento público y privado;
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-IV. Devolver a los órganos internos el soporte documental correspondiente al origen, monto y aplicación de los recursos, remitido en los informes trimestrales, anuales y de gastos de campaña de los partidos políticos; y
+XXI Bis. Registros Administrativos: a las bases de datos de cualquier Autoridad que integren datos biométricos o identificativos de las personas, con motivo de los trámites o servicios que brindan;
 
-V. Las demás que le otorgue el Código, este Reglamento y demás disposiciones aplicables.
+XXII. Registro Estatal: Al Registro Estatal de Personas Desaparecidas, que concentra la información de los registros de Personas Desaparecidas del Estado de México y que forma parte del Registro Nacional;
 
-### CAPÍTULO ÚNICO. DEL OBJETO DEL REGLAMENTO
+XXIII. Registro Nacional: al Registro Nacional de Personas Desaparecidas, que concentra la información de los registros de Personas Desaparecidas, tanto de la Federación como de las Entidades Federativas, señalado en la Ley General;
 
-###### ARTÍCULO 7.
+XXIV. Registro Estatal de Fosas: al Registro Estatal de Fosas Comunes y de Fosas Clandestinas, que forma parte del Registro Nacional de Fosas el cual se alimenta con la entrega de informes actualizados;
 
-Los partidos políticos deberán contar con un Órgano Interno encargado de la administración de los recursos que obtengan por cualquier modalidad de financiamiento reconocido en el Código, así como de la presentación de los informes justificatorios de conformidad a las modalidades que al efecto determine el presente Reglamento.
+XXV. Registro Estatal de Personas Fallecidas: al Registro Estatal de Personas Fallecidas No Identificadas y No Reclamadas que forma parte del Registro Nacional de Personas Fallecidas;
 
-Dicho órgano se constituirá en los términos, características y modalidades que cada partido político determine según sus estatutos.
+XXVI. Registro Nacional de Personas Fallecidas y No Identificadas: al Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas que concentra la información forense procesada de la localización, recuperación, identificación y destino final de los restos tanto de la Federación como de las Entidades Federativas, cualquiera que sea su origen, señalado en la Ley General;
 
-###### ARTÍCULO 8.
+XXVII. Registro Nacional de Fosas: al Registro Nacional de Fosas Comunes y de Fosas Clandestinas, que concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la Fiscalía General, la Fiscalía Estatal, las Fiscalías y Procuradurías Locales localicen, señalado en la Ley General;
 
-Los partidos políticos a través de su representante acreditado ante el Consejo, notificará a la Dirección el nombre del o los titulares responsables del Órgano Interno, en un plazo máximo de diez días contados a partir de la fecha en que se realice el nombramiento. La Dirección informará a la Comisión de estos hechos.
+XXVIII. Reglamento: al Reglamento de la Ley en materia de Desaparición Forzada de Personas y Desaparición Cometida por Particulares para el Estado Libre y Soberano de México;
 
-En caso, de existir modificaciones en cuanto a la integración de dicho Órgano Interno, se hará del conocimiento de la Dirección en los términos de lo consignado en el presente artículo.
+XXIX. Reporte: a la comunicación mediante la cual la autoridad competente conoce de la desaparición de una persona;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+XXX. Sistema Nacional: al Sistema Nacional de Búsqueda de Personas;
 
-###### ARTÍCULO 9.
+XXXI. Tratados: a los Tratados Internacionales de los que el Estado Mexicano sea parte;
 
-Los partidos políticos que integren una coalición deberán señalar en el convenio por el que se constituye la misma, el nombre del representante acreditado del partido político de los que integran la coalición, que administrará su financiamiento público. Dicho representante actuará como Titular del Órgano Interno responsable de la correcta administración y comprobación del financiamiento ejercido por la coalición, así como de la presentación de los informes justificatorios de gastos de campaña con apego al Código, al presente Reglamento y a los demás ordenamientos que, en su caso, establezca la Autoridad Electoral Estatal.
+XXXII. Víctimas: A las que hace referencia la Ley General de Victimas, la Ley de Victimas y demás disposiciones aplicables; y
 
-En caso de existir modificaciones en cuanto a la integración de dicho Órgano Interno, se hará del conocimiento de la Dirección dentro de los 10 días siguientes al nombramiento respectivo.
+XXXIII. Víctimas Indirectas: a las víctimas indirectas a las que hace referencia la Ley General de Víctimas, la Ley de Víctimas y demás disposiciones aplicables.
 
-Asimismo, en el convenio de coalición se deberá establecer:
+###### Artículo 5.
 
-I. El partido político a nombre del cual deberá ser expedida la documentación comprobatoria de los egresos que realice y cuyo Registro Federal de Causantes (R.F.C.) será utilizado;
+Las acciones, medidas y procedimientos establecidos en esta Ley serán diseñados, implementados y evaluados aplicando los siguientes principios:
 
-II. La forma en que deberán ser distribuidos entre los partidos políticos integrantes de la coalición, los remanentes en las cuentas bancarias utilizadas para el manejo de los recursos en campaña, o los pasivos documentados que, en su caso, existieran una vez finalizadas las campañas electorales;
+I. Debida diligencia: todas las autoridades deben utilizar los medios necesarios para realizar con prontitud aquellas actuaciones esenciales y oportunas dentro de un plazo razonable para lograr el objeto de esta Ley, en especial la búsqueda de la persona desaparecida; así como la ayuda, atención, asistencia, derecho a la verdad, justicia y reparación integral a fin de que la víctima sea tratada y considerada como titular de derechos. En toda investigación y proceso penal que se inicie por los delitos previstos en la Ley General, las autoridades deben garantizar su desarrollo de manera autónoma, independiente, inmediata, imparcial, eficaz, y realizados con oportunidad, exhaustividad, respeto de derechos humanos y máximo nivel de profesionalismo;
 
-III. La distribución de los activos fijos que sean adquiridos por el o los candidatos o los partidos políticos de la coalición;
+II. Efectividad y exhaustividad: todas las diligencias que se realicen para la búsqueda de la Persona Desaparecida se harán de manera inmediata, oportuna, transparente, con base en información útil y científica, encaminadas a la localización y, en su caso, identificación, atendiendo a todas las posibles líneas de investigación. Bajo ninguna circunstancia se podrán invocar condiciones particulares de la Persona Desaparecida, o la actividad que realizaba previa o al momento de la desaparición para no ser buscada de manera inmediata;
 
-IV. La manifestación que los partidos políticos se sujetarán a los topes a los gastos de campaña que se fijen para los diversos tipos de elección, como si se tratarán de un solo partido político, atendiendo a la elección que haya motivado la coalición; y
+III. Enfoque diferencial y especializado: al aplicar esta Ley, las autoridades deben tener en cuenta la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su origen étnico o nacional, idioma o lengua, religión, edad, género, preferencia u orientación sexual, identidad de género, condición de discapacidad, condición social, económica, histórica y cultural, así como otras circunstancias diferenciadoras y que requieran de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las Víctimas. De igual manera, tratándose de las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deberán tomar en cuenta las características, contexto y circunstancias de la comisión de los delitos materia de la Ley General;
 
-V. La obligación de recibir recursos, exclusivamente a través de los partidos políticos que la conforman.
+IV. Enfoque humanitario: atención centrada en el alivio del sufrimiento, de la incertidumbre y basada en la necesidad de respuestas a los Familiares;
 
-###### ARTÍCULO 10.
+V. Gratuidad: todas las acciones, los procedimientos y cualquier otro trámite que implique el acceso a la justicia y demás derechos reconocidos en esta Ley, no tendrán costo alguno para las personas;
 
-Los partidos políticos deberán presentar ante la Comisión, por conducto de la Dirección, tres tipos de Informes:
+VI. Igualdad y no discriminación: para garantizar el acceso y ejercicio de los derechos y garantías de las Víctimas a los que se refiere esta Ley, las actuaciones y diligencias deben ser conducidas sin distinción, exclusión, restricción o preferencia que tenga por objeto o efecto impedir o anular el reconocimiento o el ejercicio de los derechos o la igualdad real de oportunidades de las personas. Toda garantía o mecanismo especial debe fundarse en razones de enfoque diferencial y especializado;
 
-I. Informe trimestral: El cual se referirá a todos los ingresos y gastos bajo los rubros del sostenimiento de actividades ordinarias permanentes y el acceso equitativo a los medios de comunicación correspondientes al trimestre y año de que se trate;
+VII. Interés superior de la niñez: las autoridades deberán proteger primordialmente los derechos de niñas, niños y adolescentes, y velar que cuando tengan la calidad de víctimas o testigos, la protección que se les brinde sea armónica e integral, atendiendo a su desarrollo evolutivo y cognitivo, de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México;
 
-II. Informe anual: El cual se referirá a todos los ingresos y todos los gastos bajo los rubros del sostenimiento de actividades ordinarias permanentes y el acceso equitativo a los medios de comunicación correspondiente al año del ejercicio que se reporte; e
+VIII. Máxima protección: la obligación de adoptar y aplicar las medidas que proporcionen la protección más amplia para garantizar el trato digno, la seguridad, protección, bienestar físico y psicológico e intimidad de las Víctimas a que se refiere esta Ley;
 
-III. Informe de gastos de campaña: Comprenderá cada una de las campañas en las elecciones respectivas y abarcarán el periodo comprendido entre el día siguiente de concluida la sesión de registro de candidatos que efectúe el Consejo Electoral competente para la aprobación del registro de candidatos, hasta el día de conclusión de las campaña (sic) electorales, debiendo incluir el origen y destino que dieron desde su entrega a la ministración bajo el rubro de actividades tendientes a la obtención del voto, así como su financiamiento privado.
+IX. No revictimización: la obligación de aplicar las medidas necesarias y justificadas de conformidad con los principios en materia de derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México y los Tratados, para evitar que la Persona Desaparecida y las Víctimas a que se refiere esta Ley, sean revictimizadas o criminalizadas en cualquier forma, agravando su condición, obstaculizando o impidiendo el ejercicio de sus derechos o exponiéndosele a sufrir un nuevo daño;
 
-En consecuencia, los partidos políticos presentarán:
+X. Participación conjunta: las autoridades de los distintos órdenes de Gobierno en sus respectivos ámbitos de competencia, permitirán la participación directa de los Familiares, en los términos previstos en esta Ley y demás disposiciones aplicables, en las tareas de búsqueda, incluido el diseño, implementación y evaluación de las acciones en casos particulares, como en políticas públicas y prácticas institucionales;
 
-a) Un informe por la campaña de su candidato a Gobernador del Estado cuando haya registrado;
+XI. Perspectiva de género: en todas las diligencias que se realicen para la búsqueda de la Persona Desaparecida, así como para investigar y juzgar los delitos previstos en la Ley General, se deberá garantizar su realización libre de prejuicios, estereotipos y de cualquier otro elemento que, por cuestiones de sexo, género, identidad u orientación sexual de las personas, propicien situaciones de desventaja, discriminación, violencia o se impida la igualdad;
 
-b) Un informe por cada fórmula de candidatos a Diputados de Mayoría relativa que haya registrado; y
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-c) Un informe por cada planilla de candidatos a miembros de Ayuntamientos, que haya registrado.
+XII. Presunción de vida: en las acciones, mecanismos y procedimientos para la búsqueda, localización y desarrollo de las investigaciones, las autoridades deben presumir que la Persona Desaparecida está con vida;
 
-En cada informe de gastos de campaña será reportado el origen de los recursos que hayan utilizado para financiar los gastos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
-Los partidos políticos estarán obligados a presentar los informes señalados en este artículo aún cuando no haya registrado ingresos y egresos en el periodo de que se trate.
+XIII. Proporcionalidad: consiste en que los Sujetos Obligados sólo deberán tratar los datos personales que resulten adecuados, relevantes y estrictamente necesarios para la finalidad que justifica su tratamiento, en términos de la presente Ley, la Ley General y conforme a la normatividad aplicable en materia de protección de datos personales, y
 
-En este sentido, en caso que algún candidato abandone la campaña que inició con un partido político o coalición, para registrarse como candidato en otro instituto político o coalición; renuncie a la campaña aun sin afiliarse a otro partido; decline a favor de otro candidato; no haya recibido y/o aplicado recurso alguno en efectivo y/o en especie, habiendo tenido el derecho a hacerlo; o cualquier otra circunstancia que origine la suspensión anticipada o duración irregular de una campaña, no exime ni al candidato ni al partido político o coalición de presentar al Instituto los informes justificatorios de gastos de campaña, por el tiempo que hubiese durado su campaña.
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
-###### ARTÍCULO 11.
+XIV. Verdad: el derecho de conocer con certeza lo sucedido y recibir información sobre las circunstancias en que se cometieron los hechos constitutivos de los delitos previstos en la Ley General, en tanto que el objeto de la misma es el esclarecimiento de los hechos, la protección de las Víctimas, el castigo de las personas responsables y la reparación de los daños causados, en términos de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México, la Ley General de Víctimas y la Ley de Víctimas.
 
-El Informe Trimestral que deberá presentar cada uno de los partidos políticos constará de:
+###### Artículo 6.
 
-a) Oficio de entrega de informe trimestral (formatos I y II);
+En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones establecidas en la Ley General, la Ley de Víctimas, la Ley General de Víctimas, el Código Nacional, Código Penal Federal y el Código Civil del Estado de México.
 
-b) Estado de posición financiera que corresponda al trimestre;
+### CAPÍTULO SEGUNDO. Disposiciones Generales para niñas, niños y adolescentes desaparecidos
 
-c) Estado de resultados que corresponda al trimestre;
+###### Artículo 7.
 
-d) Estado de origen y aplicación de recursos (trimestral y acumulado);
+Tratándose de niñas, niños y adolescentes respecto de los cuales haya Noticia, Reporte o Denuncia de que han desaparecido en cualquier circunstancia, se iniciará carpeta de investigación en todos los casos y se emprenderá la búsqueda especializada de manera inmediata y diferenciada, en su caso con perspectiva de género, de conformidad con el protocolo especializado en búsqueda que corresponda y bajo los principios enunciados en esta ley.
 
-e) Las balanzas de comprobación mensuales en forma analítica que correspondan al trimestre;
+###### Artículo 8.
 
-f) Registro de pólizas mensuales que correspondan al trimestre;
+La Comisión de Búsqueda de Personas y las autoridades que integran el Mecanismo Estatal deben tomar en cuenta el interés superior de la niñez, y deben establecer la información segmentada por género, edad, situación de vulnerabilidad, riesgo o discriminación.
 
-g) Impresión de auxiliares mensuales que correspondan al trimestre;
+La divulgación que hagan o soliciten las autoridades responsables en medios de telecomunicación sobre la información de niñas, niños y adolescentes desaparecidos, se hará de conformidad con las disposiciones aplicables.
 
-h) Conciliaciones bancarias mensuales que correspondan al trimestre;
+###### Artículo 9.
 
-i) Estados de cuenta bancarios mensuales que correspondan al trimestre;
+Todas las acciones que se emprendan para la investigación y búsqueda de niñas, niños y adolescentes desparecidos, garantizarán un enfoque integral, transversal y con perspectiva de derechos humanos de la niñez, que tome en cuenta las características particulares, incluyendo su identidad y nacionalidad.
 
-j) Sustento documental (cálculo de depreciaciones y amortizaciones, en su caso; nóminas, etc);
+###### Artículo 10.
 
-k) Pólizas de ingresos, egresos y diario;
+Las autoridades de búsqueda e investigación en el ámbito de su competencia se coordinarán con la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, para efectos de salvaguardar sus derechos, de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México y otras disposiciones aplicables.
 
-l) Comprobantes anexos a su respectiva póliza;
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, prestará servicios de asesoría a los familiares niñas, niños y adolescentes desaparecidos, sin perjuicio de los servicios que preste la Comisión de Búsqueda de Personas y la Comisión Ejecutiva Estatal.
 
-m) Recibos de aportaciones de militantes y organizaciones sociales (formato VI);
+Asimismo, podrá llevar la representación en suplencia de niñas, niños y adolescentes desaparecidos, sin perjuicio de las atribuciones que correspondan al Ministerio Público, de conformidad con las disposiciones jurídicas aplicables. De igual forma, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México se encuentra facultada para intervenir oficiosamente, con representación coadyuvante, en las acciones de búsqueda y localización que la realice la Comisión de Búsqueda de Personas o en las investigaciones que conduzca la Fiscalía Especializada.
 
-n) Recibos de aportaciones de simpatizantes en efectivo (formato VIII); y
+###### Artículo 11.
 
-o) Recibos de aportaciones de simpatizantes en especie (formato X).
+En los casos de niñas, niños o adolescentes, las medidas de reparación integral, así como de atención psicosocial, terapéutica y acompañamiento, deberán realizarse por personal especializado en derechos de la niñez y adolescencia, con perspectiva de género y de conformidad con la legislación aplicable.
 
-###### ARTÍCULO 12.
+###### Artículo 12.
 
-El Informe Anual que deberá presentar cada uno de los partidos políticos constará de:
+En el diseño de las acciones y herramientas para la búsqueda e investigación de niñas, niños y adolescentes, la Comisión de Búsqueda de Personas y las autoridades que integran el Mecanismo Estatal tomarán en cuenta la opinión de las autoridades del Sistema Integral de Protección de Niñas, Niños y Adolescentes del Estado de México.
 
-a) Oficio de entrega de informe anual (formatos IV y V);
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 4 DE FEBRERO DE 2026)</small>
 
-b) Informe anual sobre el origen y destino de los recursos provenientes de actividades ordinarias permanentes y el acceso equitativo a los medios de comunicación (formatos XVIII y XIX);
+### CAPÍTULO TERCERO. De las Obligaciones Comunes de los Sujetos Obligados
 
-c) Estado de posición financiera;
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-d) Estado de resultados;
+###### Artículo 12 Bis.
 
-e) Estado de origen y aplicación de recursos anual;
+Toda autoridad y particular de cualquier naturaleza que tenga a su cargo datos biométricos o cualquier otro dato identificativo de personas, deberá permitir a la Fiscalía, las autoridades a las que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en el ámbito de su competencia y actuando bajo la conducción y mando del Ministerio Público, así como a la Comisión Nacional, a la Comisión de Búsqueda de Personas y a las Comisiones de Búsqueda de las entidades federativas, la consulta inmediata de la información sobre Personas Desaparecidas contenida en sus registros, bases de datos o sistemas de información, exclusivamente para su búsqueda, localización, identificación en coordinación con la investigación.
 
-f) La balanza de comprobación anual en forma analítica;
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-g) El inventario físico del activo fijo;
+###### Artículo 12 Ter.
 
-h) Control de folios de recibos de aportaciones de militantes y organizaciones sociales (formato VII);
+Todos aquellos establecimientos regulados en la Ley General de Salud, así como los establecimientos residenciales de atención a las adicciones públicos o privados, centros de reinserción social, centros de asistencia social y estaciones migratorias que por sus actividades y objetivos autorizados recaben, utilicen, administren o conserven datos biométricos, tienen la obligación de contar con registros completos y actualizados y permitir su consulta a las Fiscalías, las autoridades a las que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos en el ámbito de su competencia y actuando bajo la conducción y mando del Ministerio Público, así como la Comisión Nacional de Búsqueda, a la Comisión de Búsqueda de Personas y las Comisiones Locales de Búsqueda de las entidades federativas, exclusivamente para búsqueda, localización e identificación de Personas Desaparecidas en coordinación con la investigación.
 
-i) Control de folios de recibos de aportaciones de simpatizantes en efectivo (formato IX);
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-j) Control de folios de recibos de aportaciones de simpatizantes en especie (formato XI);
+###### Artículo 12 Quater.
 
-k) Control de eventos por autofinanciamiento (formato XII);
+Todas las instituciones públicas o privadas que tengan bajo su resguardo cuerpos o restos humanos tendrán la obligación de asegurar el trato y resguardo digno, además de llevar y mantener actualizados registros sistematizados con la información forense que se obtenga de estos, permitir su interconexión, remitirlos al Banco Nacional de Datos Forenses y permitir su consulta a las Fiscalías, las autoridades a las que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos en el ámbito de su competencia y actuando bajo la conducción y mando del Ministerio Público, así como la Comisión Nacional de Búsqueda, a la Comisión de Búsqueda de Personas y las Comisiones de Búsqueda de las entidades federativas, a las que corresponda la investigación de los delitos, búsqueda, localización e identificación de Personas Desaparecidas en términos de la Ley General y la presente Ley.
 
-l) Detalle de aportaciones de militantes y organizaciones adherentes (formato XX);
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-m) Detalle de aportaciones de simpatizantes (formato XXI);
+###### Artículo 12 Quinquies.
 
-n) Detalle de ingresos obtenidos por autofinanciamiento (formato XXII); y
+Las instituciones públicas o privadas que generen o tengan acceso a imágenes y mediciones generadas por satélites, aeronaves no tripuladas o mediante otras tecnologías, estarán obligadas a permitir su consulta a la Fiscalía, las Fiscalías Locales, la Comisión Nacional de Búsqueda y Comisión (sic) Búsqueda de Personas, y las Comisiones de Búsqueda de las entidades federativas exclusivamente para las acciones de búsqueda, localización, identificación e investigación de Personas Desaparecidas en términos de la Ley General y la presente Ley.
 
-o) Detalle de ingresos por rendimientos financieros, fondos y fideicomisos (formato XXIII).
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-### CAPÍTULO ÚNICO. DE LAS ATRIBUCIONES
+###### Artículo 12 Sexies.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+Los servicios periciales y servicios forenses de la Fiscalía Estatal estarán obligados a atender las solicitudes de análisis forense, permitir el acceso y la consulta de registros y bases de datos forenses que les requieran las autoridades encargadas de la investigación, búsqueda, localización e identificación de Personas Desaparecidas, así como de las que investigan delitos en los términos de la Ley General y la presente Ley.
 
-### CAPÍTULO ÚNICO. DEL ÓRGANO INTERNO Y SU TITULAR
+Las instituciones públicas, de cualquier naturaleza que cuenten con infraestructura para la toma, procesamiento y análisis de muestras genéticas con fines de identificación de personas, estarán obligadas a atender las solicitudes de análisis forense que les formulen las autoridades facultadas para la investigación de la búsqueda, localización e identificación, incluyendo aquellas derivadas de peticiones formuladas por familiares de personas desaparecidas, en el marco de investigaciones relacionadas con la búsqueda, localización e identificación de Personas Desaparecidas, conforme a lo dispuesto en la Ley General y la presente Ley. Dichas solicitudes deberán ser atendidas bajo los más altos estándares científicos en materia de identificación humana.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-## TÍTULO II. DE LAS ATRIBUCIONES DE LA COMISIÓN Y LA DIRECCIÓN
+###### Artículo 12 Septies.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
+Los servicios periciales y servicios forenses del Estado que tengan en resguardo un cuerpo o resto humano no identificado, deberán, previo a remitirlos a las fosas comunes, practicar de oficio pruebas dactiloscópicas y genéticas para su identificación, y deberán registrar el resultado de las pruebas en el Banco Nacional de Datos Forenses, en un plazo no mayor a tres días contados a partir de que se obtuvo el resultado. Para tal efecto, podrán auxiliarse de instituciones públicas que cuenten con infraestructura para practicar las pruebas.
 
-### CAPÍTULO I. DE LA PRESENTACIÓN
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+### CAPÍTULO CUARTO. De la Ficha de Búsqueda, Localización e Identificación
 
-###### ARTÍCULO 13.
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-Los Informes de gastos de campaña que deberán presentar cada uno de los partidos políticos constarán de:
+###### Artículo 12 Octies.
 
-a) Oficio de entrega de informe de actividades tendientes a la obtención del voto (formato III);
+La autoridad competente que reciba una Noticia, Reporte o denuncia por la desaparición de una persona, la registrará sin dilación alguna en los Registros Estatal y Nacional y en la Base Nacional de Carpetas de Investigación, y remitirá por los medios disponibles a la Fiscalía Especializada y Comisión de Búsqueda de Personas una Ficha de Búsqueda, conforme al protocolo de Alerta Nacional de Búsqueda y Localización, debiendo asegurarse de la recepción. En este último supuesto la Fiscalía Especializada, de oficio y sin demora, deberá completar el registro en la Base Nacional de Carpetas de Investigación.
 
-b) Informe final sobre el origen, monto y destino de los recursos para las campañas electorales (formato XVI);
+La Ficha de Búsqueda deberá difundirse de manera masiva por todos los medios disponibles entre las autoridades, y de manera directa a:
 
-c) Estado de posición financiera;
+I. Administradoras de canales televisivos y radiodifusoras públicas;
 
-d) Estado de resultados;
+II. Personas prestadoras de servicios de transporte terrestre, aéreo y marítimo, así como a las personas administradoras de las respectivas terminales;
 
-e) Estado de origen y aplicación de recursos;
+III. Personas responsables, administradoras, incluidas las concesionarias de carreteras, caminos y puentes;
 
-f) Las balanzas de comprobación mensuales en forma analítica que correspondan al periodo de campañas electorales;
+IV. Instituciones de seguridad pública, ciudadana u homólogas, y
 
-g) Registro de pólizas mensuales que correspondan al periodo de campañas electorales;
+V. Cualquier ente público o privado que tenga la capacidad de transmitir masivamente un mensaje.
 
-h) Impresión de auxiliares mensuales que correspondan al periodo de campañas electorales;
+La Ficha de Búsqueda se notificará al Registro Nacional de Población, con la finalidad de que se active en la Plataforma Única de Identidad, los alertamientos de usos de la Clave Única de Registro de Población de la Persona Desaparecida o No Localizada, o la búsqueda de coincidencias con sus datos identificativos.
 
-i) Conciliaciones bancarias mensuales que correspondan al periodo de campañas electorales;
+En los casos en que se identifique un uso de la Clave Única de Registro de Población, el Registro Nacional de Población informará de inmediato a las autoridades competentes en todo el Estado para que, en el ámbito de sus atribuciones, realicen las acciones necesarias para la localización.
 
-j) Estados de cuenta bancarios mensuales que correspondan al periodo de campañas electorales;
+La Ficha de Búsqueda deberá integrar, como mínimo, los siguientes elementos:
 
-k) Sustento documental (cálculo de depreciaciones y amortizaciones, en su caso; nóminas, etc);
+I. Nombre completo, edad, sexo y género de la persona reportada;
 
-l) Pólizas de ingresos, egresos y diario;
+II. Fotografía reciente;
 
-m) Comprobantes anexos a su respectiva póliza;
+III. Fecha y lugar de la desaparición o última vez vista;
 
-n) Recibos de aportaciones de militantes y organizaciones sociales (formato VI);
+IV. Señas particulares, rasgos físicos distintivos;
 
-o) Control de folios de recibos de aportaciones de militantes y organizaciones sociales (formato VII);
+V. Si presenta una condición de vulnerabilidad;
 
-p) Recibos de aportaciones de simpatizantes en efectivo (formato VIII);
+VI. Datos de contacto para aportar información o colaborar con la búsqueda, y
 
-q) Control de folios de recibos de aportaciones de simpatizantes en efectivo (formato IX);
+VII. Folio único de identificación asignado por el Registro Nacional de Personas Desaparecidas y No Localizadas.
 
-r) Recibos de aportaciones de simpatizantes en especie (formato X);
+La Ficha de Búsqueda deberá generarse en formato físico y digital, y deberá difundirse de manera inmediata y amplía a través de medios institucionales, redes sociales, portales oficiales y, en su caso, medios masivos de comunicación, conforme a los protocolos establecidos por la Comisión Nacional.
 
-s) Control de folios de recibos de aportaciones de simpatizantes en especie (formato XI);
+## TÍTULO SEGUNDO. De los Delitos y de las Responsabilidades Administrativas
 
-t) Control de eventos por autofinanciamiento (formato XII);
+### CAPÍTULO PRIMERO. Disposiciones Generales
 
-u) Control de folios de recibos de reconocimientos por actividades políticas (formato XIV);
+###### Artículo 13.
 
-v) Control de reconocimientos por actividades políticas concentrado por persona (formato XV);
+Los tipos penales en materia de desaparición forzada de personas, desaparición cometida por particulares y de los delitos vinculados con la desaparición de personas, serán investigados, perseguidos y sancionados de acuerdo con las disposiciones generales, los criterios de competencia y las sanciones, previstas por la Ley General, en el ámbito de la competencia concurrente que dicha Ley establece.
 
-w) Conciliación sobre el origen, monto y destino de los recursos para las campañas electorales (formato XVII);
+### CAPÍTULO SEGUNDO. De las Responsabilidades Administrativas
 
-x) Detalle de aportaciones de militantes y organizaciones adherentes (formato XX);
+###### Artículo 14.
 
-y) Detalle de aportaciones de simpatizantes (formato XXI);
+Las personas servidoras públicas que incumplan injustificadamente con alguna de las obligaciones previstas en esta Ley o en la Ley General y que no constituyan un delito, serán sancionados en términos de lo establecido en la Ley de Responsabilidades Administrativas del Estado de México y Municipios y demás disposiciones jurídicas aplicables.
 
-z) Detalle de ingresos obtenidos por autofinanciamiento (formato XXII); y
+###### Artículo 15.
 
-aa) Detalle de ingresos por rendimientos financieros, fondos y fideicomisos (formato XXIII).
+Para efectos de lo previsto en esta Ley, se considerarán faltas graves, el incumplimiento injustificado o la actuación negligente ante cualquier obligación relacionada con la búsqueda inmediata de personas, en la investigación ministerial, pericial y policial, así como en los procedimientos establecidos en los protocolos correspondientes.
 
-### CAPÍTULO II. DE LOS PLAZOS DE PRESENTACIÓN
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-###### ARTÍCULO 14.
+De igual forma se considerará grave el uso de la Plataforma Única de Identidad, las bases de datos, registros, y demás plataformas o instrumentos tecnológicos y la información generada por los mismos, con fines distintos a los señalados por la Ley General y esta Ley.
 
-Los informes trimestrales, anuales y de gastos de campaña deberán ser suscritos por él o los titulares responsables del Órgano Interno, dentro de los plazos que establece el presente Reglamento.
+## TÍTULO TERCERO. Del Mecanismo Estatal
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+### CAPÍTULO PRIMERO. Creación y Objeto del Mecanismo Estatal
 
-###### ARTÍCULO 15.
+###### Artículo 16.
 
-Los informes trimestral, anual y de gastos de campaña, que presentarán cada uno de los partidos políticos, deberán ser presentados por el Órgano Interno, en forma impresa y en medios magnéticos, en los formatos y anexos que forman parte integrante del presente Reglamento debiendo cubrir todos y cada uno de los requisitos señalados en los mismos y en sus respectivos instructivos de llenado, conforme a lo siguiente:
+El Mecanismo Estatal tiene por objeto coordinar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre las distintas autoridades estatales y municipales relacionadas con la investigación y búsqueda de personas, para dar cumplimiento a las determinaciones del Sistema Nacional y de la Comisión Nacional, así como a lo establecido en la Ley General.
 
-a) La información contable deberá ser presentada impresa y en medio magnético mediante los sistemas ContPAQ o COI; y
+###### Artículo 17.
 
-b) La información referente a formatos y anexos deberá ser presentada impresa y en medio magnético mediante el sistema que apruebe la Comisión, mismo que será proporcionado por la Dirección a cada Órgano Interno.
+El Mecanismo Estatal se integra por:
 
-Los formatos y anexos integrantes del informe de gastos de campaña, que requieran de la firma de los candidatos a algún puesto de elección popular, podrán ser signados por un representante que acredite para tal efecto, mediante escrito que deberá ir anexo a los informes que presenten los partidos políticos y/o coaliciones.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-Se entenderá por representante acreditado, aquella persona a la que el candidato otorgue el poder para que en su nombre y representación firme los citados formatos y anexos.
+I. La persona titular de la Consejería Jurídica, quien lo presidirá;
 
-## TÍTULO III. DEL ÓRGANO INTERNO ENCARGADO DE LA ADMINISTRACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS Y/O COALICIONES
+II. La persona titular de la Fiscalía General;
 
-### CAPÍTULO III. DE LA REVISIÓN DE LOS INFORMES POR PARTE DE LA DIRECCIÓN
+III. La persona titular de la Comisión de Búsqueda de Personas, quien fungirá como Secretaría Ejecutiva;
 
-###### ARTÍCULO 16.
+IV. La persona titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-Los informes trimestrales deberán ser presentados dentro de los primeros quince días del mes siguiente al periodo que se justifica.
+V. La persona titular de la Secretaría de Seguridad;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+VI. La persona titular de la Secretaría de Finanzas;
 
-###### ARTÍCULO 17.
+VII. La persona titular de la Secretaría de Salud;
 
-Para el caso de informes trimestrales, los periodos se empezarán a justificar a partir del primer día del mes de enero al último día del mes de diciembre de cada año.
+VIII. La persona titular de la Secretaría de Movilidad;
 
-Los partidos políticos estatales que obtengan su registro y los partidos políticos nacionales que se acrediten ante el Instituto por primera vez, presentarán en su primer año, informes trimestrales correspondientes al período del primer día del mes de julio al último día del mes de diciembre del año que se trate.
+IX. La persona titular de la Coordinación General de Servicios Periciales de la Fiscalía Estatal;
 
-En caso de pérdida de registro de los partidos políticos estatales, los informes trimestrales serán presentados hasta el mes en que la cancelación del registro ocurra.
+X. Tres personas del Consejo Estatal Ciudadano que representen a cada uno de los sectores que lo integran;
 
-Sin perjuicio de lo anterior, los partidos políticos que hayan perdido su registro seguirán sujetos a la fiscalización que realice la autoridad electoral respecto de los recursos utilizados en el último proceso electoral en el que hubieren participado.
+XI. Una persona representante de la Legislatura del Estado;
 
-Asimismo, en caso de pérdida de registro de los partidos políticos nacionales y una vez que el Consejo resuelva declarando que el instituto político afectado ha perdido los derechos y prerrogativas que hubiere tenido en el ámbito estatal, los informes trimestrales serán presentados hasta el mes en que dicha resolución ocurra.
+XII. Una persona representante del Poder Judicial del Estado;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 18.
+XIII. La persona titular de la Comisión Ejecutiva de Atención a Víctimas del Estado de México;
 
-Los informes anuales corresponderán al periodo del primer día del mes de enero al último día del mes de diciembre de cada año, presentándose dentro de los setenta y cinco días siguientes a la conclusión del mes de diciembre del año que se reporte.
+XIV. La persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México;
 
-Los partidos políticos estatales que obtengan su registro y los partidos políticos nacionales que se acrediten ante el Instituto por primera vez, presentarán en su primer año, informes anuales que corresponderán al periodo del primer día del mes de julio al último día del mes de diciembre del año que se trate.
+XV. La persona titular de la Secretaría Ejecutiva del Sistema Integral de Protección de Niñas, Niños y Adolescentes del Estado de México;
 
-Independiente de lo establecido en el párrafo anterior, los partidos políticos estatales comunicarán al Consejo el origen, monto y destino de los recursos que hayan recibido hasta antes de la fecha de entrega del financiamiento público a que tengan derecho. El comunicado deberá ser presentado dentro de los quince días siguientes al de la entrega de la(s) prerrogativa(s) que correspondan en el año que se trate. Dicha comunicación será exclusivamente de carácter informativo.
+> <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
-Los partidos políticos estatales que pierdan su registro, presentarán el informe anual que corresponda al período del primer día del mes de enero a la fecha en que se pierda el registro, teniendo sesenta y cinco días a partir de que tal hecho sea resuelto por el Consejo General, para su entrega.
+XVI. La persona titular de la Secretaría de las Mujeres, y
 
-Sin perjuicio de lo anterior, los partidos políticos que hayan perdido su registro seguirán sujetos a la fiscalización que realice la autoridad electoral respecto de los recursos utilizados en el último proceso electoral en el que hubieren participado.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-Asimismo, en caso de pérdida de registro de los partidos políticos nacionales y una vez que el Consejo resuelva declarando que el instituto político afectado ha perdido los derechos y prerrogativas que hubiere tenido en el ámbito estatal, presentarán el informe anual que corresponda al período del primer día del mes de enero a la fecha de dicha resolución, teniendo sesenta y cinco días a partir de que tal hecho ocurra, para su entrega.
+XVII. La persona titular de la Vocalía Ejecutiva del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México.
 
-###### ARTÍCULO 19.
+Las personas integrantes del Mecanismo Estatal deben nombrar a sus respectivos suplentes, los cuales deben contar con el nivel jerárquico inmediato inferior.
 
-Los informes de gastos de campaña, deberán ser presentados a más tardar dentro de los sesenta y cinco días siguientes, contados a partir del día siguiente en que concluyan las campañas electorales.
+Para el caso de las fracciones IV, X, XI y XII la persona suplente será designada por el propio órgano al que se refiere la citada fracción.
 
-> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2005)</small>
+Las personas integrantes e invitados del Mecanismo Estatal no recibirán pago alguno por su participación en el mismo.
 
-ARTÍCULO 19 BIS.- En el supuesto que los partidos presenten de forma extemporánea a la Dirección los informes anuales y de gastos de campaña, se tendrá por precluida la etapa de revisión que realiza la Dirección, procediendo esta última a remitir dichos informes a la Comisión, quien realizará la revisión correspondiente.
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-Cabe resaltar que la adición a dicho documento permitirá una mejor comprensión de su contenido, observando en todo momento los principios de legalidad y certeza, actuando con estricto apego a las disposiciones del Código Comicial.
+La persona que presida el Mecanismo Estatal podrá invitar a las sesiones respectivas a cualquier autoridad u organismo nacional o internacional, así como cualquier otra institución, asociación u organización, colectivos y familiares, además de personas especialistas que se considere conveniente, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz, pero sin voto.
 
-Además, es importante resaltar que la disposición normativa propuesta permitirá que las etapas del proceso de fiscalización concluyan de manera adecuada, haciendo más ágil la actividad de revisión y otorgando mayor seguridad jurídica a los institutos políticos, pues la referida adición garantiza el respeto al derecho de audiencia de los mismos sin afectar el desarrollo del proceso de fiscalización, unificando además las posibles interpretaciones que sobre el particular se pudieran presentar.
+Será invitado permanente la persona representante de la Comisión Nacional de Búsqueda.
 
-De manera que, este Órgano Central estima que lo conducente es adecuar el Reglamento de Fiscalización del Financiamiento a los Partidos Políticos acreditados o registrados ante el Instituto Electoral del Estado, a través de la adición del artículo 19 Bis, lo que permitirá contar con un Reglamento adecuado y coherente con las disposiciones que tanto la Constitución del Estado, como el Código de la materia prevén sobre la fiscalización de los recursos de los partidos políticos.
+Las instancias y las personas que forman parte del Mecanismo Estatal están obligadas, en el marco de sus competencias, a cumplir con las acciones que deriven del ejercicio de las atribuciones de dicho órgano.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+###### Artículo 18.
 
-###### ARTÍCULO 20.
+El Mecanismo Estatal sesionará válidamente con la presencia de la mayoría de sus integrantes y sus resoluciones deben ser tomadas por mayoría de votos. La persona que ejerza el cargo de presidencia tiene voto dirimente en caso de empate.
 
-Con el propósito de facilitar a los partidos políticos el cumplimiento oportuno en la presentación de los informes, la Dirección efectuará el cómputo de los plazos, señalando la fecha de inicio y conclusión de los mismos; debiendo ser notificados a todos los partidos políticos a través del o los titulares responsables del órgano interno, dentro de los primeros quince días del mes de enero de cada año para el caso de los informes trimestrales y anuales, y dentro de los quince días siguientes al de la entrega de la prerrogativa bajo el rubro de las actividades tendientes a la obtención del voto para el caso de los informes de gastos de campaña.
+###### Artículo 19.
 
-La Dirección informará a los partidos políticos estatales que hayan obtenido su registro y a los partidos políticos nacionales que se acrediten ante el Consejo por primera vez, de los plazos para el cumplimiento oportuno en la presentación de sus informes dentro de los quince días siguientes al de la entrega de la(s) prerrogativa(s) que correspondan en el año que se trate.
+Las sesiones del Mecanismo Estatal deben celebrarse de manera ordinaria, por lo menos, cada seis meses por convocatoria de la Secretaría Ejecutiva del Mecanismo Estatal, por instrucción de quien presida, y de manera extraordinaria cuantas veces sea necesario a propuesta de un tercio de sus integrantes o a solicitud del Consejo Estatal Ciudadano.
 
-###### ARTÍCULO 21.
+Las convocatorias deben realizarse por oficio o por cualquier medio electrónico que asegure y deje constancia de su recepción, con al menos cinco días hábiles a la fecha de celebración de la sesión correspondiente, y dos días hábiles de anticipación para las sesiones extraordinarias. En ambos casos debe acompañarse el orden del día correspondiente.
 
-Al día siguiente de recepcionado el informe trimestral, la Dirección contará hasta con sesenta días para revisar dicho informe; de igual manera, respecto a los informes anuales y de gastos de camparla contará hasta con sesenta y noventa días, respectivamente para su revisión.
+###### Artículo 20.
 
-###### ARTÍCULO 22.
+Cada autoridad integrante del Mecanismo Estatal deberá designar un enlace para coordinación permanente con la Comisión de Búsqueda de Personas con capacidad de decisión y con disponibilidad plena para atender los asuntos de su competencia materia de esta ley.
 
-El personal de la Dirección podrá marcar los documentos presentados por el partido como soporte documental de sus ingresos y egresos, señalando el ejercicio de su revisión en el cual se presentó, la fecha de revisión y su firma. En el caso de gastos para actividades tendientes a la obtención del voto, se asentará también la campaña a la cual corresponde el ingreso o egreso y, en su caso, el criterio de prorrateo utilizado respecto de esa erogación específica.
+###### Artículo 21.
 
-###### ARTÍCULO 23.
+Las autoridades que integran el Mecanismo Estatal deberán, en el marco de sus atribuciones, implementar y ejecutar las disposiciones señaladas en la Ley General, los protocolos homologados y los lineamientos correspondientes para el debido funcionamiento de dichas herramientas en la entidad. Asimismo, la Comisión de Búsqueda de Personas, la Fiscalía Especializada y demás autoridades que integran el Mecanismo Estatal deberán proporcionar en tiempo y forma, la información cuando sea solicitada por el Sistema Nacional, la Comisión Nacional o la Fiscalía General, entre otras.
 
-Una vez aprobados por el Consejo, los dictámenes de la Comisión relativos a los informes a los que no se les determinen irregularidades, la Dirección devolverá al Órgano Interno dentro de los sesenta días posteriores a la aprobación de los citados dictámenes, el sustento documental de los ingresos y egresos del partido político y/o coalición correspondiente.
+###### Artículo 22.
 
-En los casos en que la Comisión determine irregularidades en los informes justificatorios de los partidos políticos y/o coaliciones, la Dirección devolverá el sustento documental de los ingresos y egresos correspondientes, al Órgano Interno dentro de los sesenta días posteriores a que cause estado la resolución emitida por el Órgano Jurisdiccional correspondiente, derivada de las resoluciones que a su vez dicte el Consejo.
+El Mecanismo Estatal tendrá las atribuciones siguientes:
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+I. Dar seguimiento (sic) los acuerdos y las acciones derivadas del Programa Estatal de Búsqueda;
 
-### CAPÍTULO IV. DE LA ELABORACIÓN DEL INFORME DE LA DIRECCIÓN Y SU PRESENTACIÓN A LA COMISIÓN
+II. Emitir recomendaciones a las autoridades estatales o municipales para el mejor desempeño de sus funciones en materia de Personas Desaparecidas;
 
-> <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
+III. Generar mecanismos para favorecer que las capacidades presupuestarias, materiales, tecnológicas y humanas, permitan la búsqueda eficiente y localización de Personas Desaparecidas;
 
-###### ARTÍCULO 24.
+IV. Proponer a la Comisión de Búsqueda de Personas acciones o mecanismos de coordinación para la búsqueda de Personas Desaparecidas;
 
-Si durante la revisión de los informes la Dirección advierte la existencia de errores u omisiones técnicas en la documentación que los integra, los notificará al partido político y/o coalición que hubiere incurrido en ellos, para que en un plazo de diez días contados a partir de su notificación, presente la documentación y/o aclaraciones o rectificaciones que estime pertinentes.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-A efecto de que los partidos políticos puedan subsanar los errores u omisiones técnicas determinadas por la Dirección, tendrán derecho a acceder a la documentación observada dentro de las instalaciones de la Dirección, siempre y cuando se esté dentro del plazo señalado en el párrafo que antecede.
+V. Implementar, proponer y ejecutar las acciones, mecanismos y los modelos de lineamientos de coordinación para la búsqueda de Personas Desaparecidas; así como implementar y ejecutar los lineamientos y acciones para el correcto funcionamiento de la Plataforma Única de Identidad, prevista en la Ley General;
 
-###### ARTÍCULO 25.
+VI. Analizar la información que se le presente y, en su caso, emitir las opiniones correspondientes;
 
-En los escritos en los que se responda a las solicitudes de aclaración de la Dirección, los partidos políticos y/o coaliciones podrán exponer lo que a su derecho convenga para aclarar y rectificar lo solicitado, aportando para tal efecto la información que se les solicite y ofreciendo las pruebas que respalden sus afirmaciones.
+VII. Colaborar, cooperar y participar, en términos de la Ley General, en la integración y funcionamiento del sistema único de información tecnológica e informática que permita el acceso, tratamiento y uso de toda la información relevante para la búsqueda, localización e identificación de Personas Desaparecidas; así como para la investigación y persecución de los delitos materia de la Ley General; así como informar sobre el proceso y los avances cuando se le requieran;
 
-###### ARTÍCULO 26.
+VIII. Rendir los informes que requieran el Sistema Nacional, la Comisión Nacional y la Comisión de Búsqueda de Personas, en relación con los avances e implementación de las acciones que le correspondan, previstas en las políticas públicas en materia de búsqueda de personas; en los programas nacional y regionales de búsqueda de personas, en el programa nacional de exhumaciones e identificación forense; en los protocolos homologados de búsqueda de personas e investigación; así como en los lineamientos y otras determinaciones emitidas por el Sistema Nacional y demás previstos en la Ley General.
 
-Al vencimiento del plazo para la revisión de los informes trimestrales, o bien para la entrega de documentación o la aclaración y/o rectificación de errores u omisiones, la Dirección dispondrá de un plazo de treinta días para elaborar un informe parcial, con base en el sustento documental anexo a los mismos.
+Los informes deberán integrar indicadores de evaluación de eficacia y eficiencia, según estándares internacionales de estructura, proceso y resultado;
 
-###### ARTÍCULO 27.
+IX. Realizar las acciones necesarias para favorecer que las capacidades presupuestarias, materiales, tecnológicas y humanas permitan la búsqueda eficiente y localización de Personas Desaparecidas, de acuerdo con lo recomendado por el Sistema Nacional;
 
-Al vencimiento del plazo para la revisión de los informes anuales, o bien para la entrega de documentación o la aclaración y/o rectificación de errores u omisiones, la Dirección dispondrá de un plazo de treinta días para elaborar un informe consolidado, con base en los informes parciales que haya elaborado la misma.
+X. Informar sobre el cumplimiento de las recomendaciones hechas por el Sistema Nacional;
 
-###### ARTÍCULO 28.
+XI. Atender y dar seguimiento a las recomendaciones del Consejo Estatal Ciudadano en los temas materia de esta Ley; así como proporcionar la información que sea solicitada por el mismo;
 
-Al vencimiento del plazo para la revisión del informe de gastos de campaña, o bien para la entrega de documentación o aclaración y/o rectificación de errores u omisiones, la Dirección dispondrá de un plazo de treinta días para elaborar un informe, con base en el sustento documental anexo a los mismos.
+XII. Implementar, vigilar y evaluar la aplicación de los lineamientos nacionales que regulen la participación de los Familiares en las acciones de búsqueda, en coordinación con la Comisión de Búsqueda de Personas;
 
-> <small>(ADICIONADO, 11 DE MAYO DE 2007)</small>
+XIII. Proponer acuerdos de colaboración entre sus integrantes y los del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, para el intercambio, sistematización y actualización de la información de seguridad pública que contribuyan a la búsqueda y localización de Personas Desaparecidas;
 
-###### ARTÍCULO 29.
+XIV. Constituir comisiones especiales, para dar cumplimiento al objeto del mecanismo;
 
-El informe parcial deberá ser presentado a la Comisión dentro de los tres días siguientes a su conclusión y estará integrado por:
+XV. Coordinar y supervisar el proceso de armonización e implementación en los municipios relacionados con el registro, la trazabilidad y la localización de las personas fallecidas sin identificar, y
 
-a) Copia simple de los Estados de origen y la aplicación de recursos trimestral y acumulado que presenten los partidos políticos sobre los recursos provenientes de actividades ordinarias permanentes y el acceso equitativo a los medios de comunicación;
+XVI. Los (sic) demás que se requieran para el cumplimiento de los objetivos de esta Ley y la Ley General.
 
-b) Relación de errores u omisiones técnicas determinadas por la Dirección a los informes justificatorios trimestrales de los partidos políticos correspondiente al periodo del que se trate; y
+Las autoridades municipales deberán colaborar con las autoridades integrantes del Sistema Nacional, el Mecanismo Estatal, autoridades nacionales y estatales que contribuyen en la búsqueda de Personas Desaparecidas; así como armonizar sus regulaciones y disposiciones legales, para el cumplimiento de los objetivos de la Ley General y la presente Ley.
 
-c) Relación de errores omisiones técnicas determinadas por la Dirección a la documentación comprobatoria de los egresos reportados en los informes justificatorios trimestrales de los partidos políticos correspondiente al periodo del que se trate.
+###### Artículo 23.
 
-(REUBICADO, P.O. 11 DE MAYO DE 2007)
+Las autoridades que forman parte del Mecanismo Estatal deberán:
 
-###### ARTÍCULO 30.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-Los informes anuales y de gastos de campaña deberán ser presentados a la Comisión dentro de los tres días siguientes a su conclusión y deberán contener:
+I. Coordinarse, en el marco de sus facultades, para el cumplimiento de lo señalado por esta Ley, la Ley General, y demás disposiciones que se deriven de las anteriores, para la búsqueda, localización e identificación de personas y la investigación de los delitos en la materia; así como implementar acciones de coordinación con las autoridades federales para establecer la Alerta Nacional de Búsqueda, Localización e Identificación, ante la noticia, reporte o denuncia de persona desaparecida, que deberá activarse en todo el país;
 
-a) Las Normas y procedimientos de auditoría;
+II. Ejecutar los lineamientos que regulen el funcionamiento de los registros y el Banco Nacional de Datos Forenses, contemplados en la Ley General;
 
-b) El resultado y las conclusiones de la revisión del informe anual presentados por cada partido político, y de la documentación comprobatoria correspondiente, señalando la documentación, aclaraciones y rectificaciones que haya presentado cada partido político después de haber sido notificado con este fin y la valoración correspondiente; y
+III. Implementar y ejecutar los lineamientos emitidos por el Sistema Nacional de Búsqueda que permitan la coordinación entre autoridades en materia de búsqueda de personas, así como de investigación de los delitos previstos en la Ley General, de acuerdo con los modelos emitidos por el Sistema Nacional; así como implementar los mecanismos adicionales que para ello sea necesario;
 
-c) En su caso, la mención de los errores o irregularidades encontradas en los informes o generadas con motivo de su revisión, que no hayan sido solventadas por los partidos políticos en los plazos establecidos para su notificación y respuesta respectiva.
+IV. Implementar y ejecutar las acciones del Programa Estatal de Búsqueda, previstas en las políticas públicas en materia de búsqueda de personas; en los programas nacional y regionales de búsqueda de personas, en el programa nacional de exhumaciones e identificación forense; en los protocolos homologados de búsqueda de personas e investigación; así como en los lineamientos, mecanismos y otras determinaciones ordinarias o extraordinarias emitidas por el Sistema Nacional y demás previstos en la Ley General;
 
-(REUBICADO, P.O. 11 DE MAYO DE 2007)
+V. Participar y cooperar con las autoridades integrantes del Sistema Nacional, en coordinación con la Comisión de Búsqueda de Personas, así como las demás autoridades que contribuyen en la búsqueda de Personas Desaparecidas, para el cumplimiento de los objetivos de la Ley General y esta Ley;
 
-###### ARTÍCULO 31.
+VI. Garantizar que las personas que participen en acciones de búsqueda y atención a víctimas, previstas en la Ley General y esta Ley, reciban la capacitación necesaria y adecuada para realizar sus labores de manera eficaz y diligente, considerando el enfoque de derechos humanos, la perspectiva de género, de interseccionalidad, del interés superior de la niñez y demás principios establecidos en esta Ley;
 
-Una vez recepcionados los informes que la Dirección elabora como consecuencia de la revisión a los informes anuales y de campaña de cada uno de los partidos políticos, la Comisión contará con sesenta días para revisar los informes citados con anterioridad.
+VII. Colaborar, cooperar y participar, en términos de la Ley General, en la integración y funcionamiento del sistema único de información tecnológica e informática que permita el acceso, tratamiento y uso de toda la información relevante para la búsqueda, localización e identificación de Personas Desaparecidas; así como para la investigación y persecución de los delitos materia de la Ley General; así como informar sobre el proceso y los avances cuando se le requieran;
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO IV], P.O. 11 DE MAYO DE 2007)</small>
+VIII. Rendir los informes que requieran el Sistema Nacional, la Comisión Nacional y la Comisión de Búsqueda de Personas, en relación con los avances e implementación de las acciones que le correspondan, previstas en las políticas públicas en materia de búsqueda de personas; en los programas nacional y regionales de búsqueda de personas, en el programa nacional de exhumaciones e identificación forense; en los protocolos homologados de búsqueda de personas e investigación; así como en los lineamientos y otras determinaciones emitidas por el Sistema Nacional y demás previstos en la Ley General.
 
-###### ARTÍCULO 32.
+Los informes deberán integrar indicadores de evaluación de eficacia y eficiencia, según estándares internacionales de estructura, proceso y resultado;
 
-Si durante la revisión de los informes que la Dirección elabora la Comisión advierte que aún existen errores u omisiones técnicas en la documentación que integra los informes que resultan los partidos políticos, lo notificará al Órgano Interno que hubiere incurrido en ellos, para que en un plazo de diez días contados a partir de la notificación presente la documentación y/o aclaración o rectificación que estime pertinentes.
+IX. Realizar las acciones necesarias para favorecer que las capacidades presupuestarias, materiales, tecnológicas y humanas permitan la búsqueda eficiente y localización de Personas Desaparecidas, de acuerdo con lo recomendado por el Sistema Nacional;
 
-A efecto de que los partidos políticos puedan subsanar los errores u omisiones técnicas determinadas por la Comisión, tendrán derecho a acceder a la documentación observada dentro de las instalaciones de la Dirección, siempre y cuando se esté dentro del plazo señalado en el párrafo que antecede.
+X. Atender y dar seguimiento a las recomendaciones del Consejo Estatal Ciudadano en los temas materia de esta Ley; así como proporcionar la información que sea solicitada por el mismo;
 
-### CAPÍTULO V. DE LA REVISIÓN DE LOS INFORMES Y RECEPCIÓN DE LA DOCUMENTACIÓN Y/O ACLARACIONES O RECTIFICACIONES POR PARTE DE LA COMISIÓN
+XI. Implementar, vigilar y evaluar la aplicación de los lineamientos nacionales que regulen la participación de los familiares en las acciones de búsqueda, en coordinación con la Comisión de Búsqueda de Personas;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+XII. Proponer acuerdos de colaboración entre sus integrantes y los del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, para el intercambio, sistematización y actualización de la información de seguridad pública que contribuyan a la búsqueda y localización de Personas Desaparecidas;
 
-###### ARTÍCULO 33.
+XIII. Emitir los lineamientos para la conformación y funcionamiento de las Células de Búsqueda, así como supervisar la adecuada coordinación de todas las autoridades involucradas en la búsqueda de personas desaparecidas, y
 
-En los escritos con los que se responda a las solicitudes de aclaración de la Comisión, los partidos políticos deberán exponer lo que a su derecho convenga para aclarar y rectificar lo solicitado, aportar información que se les solicite y ofrecer las pruebas que respalden sus afirmaciones, en su caso.
+XIV. Los demás que se requieran para el cumplimiento de los objetivos de esta Ley y la Ley General.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+Las autoridades municipales conformarán sus Células de Búsqueda y deberán coordinarse y colaborar con las autoridades integrantes del Sistema Nacional y del Mecanismo Estatal, así como con las personas servidoras públicas nacionales y estatales que contribuyen en la búsqueda de Personas Desaparecidas; además de armonizar sus regulaciones y disposiciones legales, habrán de asignar recursos suficientes para el cumplimiento de los objetivos de la Ley General y la presente Ley.
 
-###### ARTÍCULO 34.
+### CAPÍTULO SEGUNDO. De la Comisión de Búsqueda de Personas
 
-La Comisión informará al Órgano Interno dentro de los veinte días posteriores a la recepción de sus aclaraciones o rectificaciones sobre su procedencia o improcedencia, a fin de que tenga conocimiento y proceda en consecuencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
-(REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 11 DE MAYO DE 2007)
+###### Artículo 24.
 
-###### ARTÍCULO 35.
+La Comisión de Búsqueda de Personas es un órgano administrativo desconcentrado de la Consejería Jurídica, que determina, ejecuta y da seguimiento a las acciones de búsqueda de Personas Desaparecidas, en el territorio del Estado de México, en coordinación con la Comisión Nacional, las instituciones que integran el Sistema Nacional, el Mecanismo Estatal, las instituciones de Seguridad Pública, las Fiscalías Especializadas de la Fiscalía General, de la Fiscalía Estatal y de las Procuradurías o Fiscalías Locales y las demás autoridades competentes en la materia, de conformidad con lo establecido en la Ley General y las demás disposiciones jurídicas aplicables.
 
-Al vencimiento del plazo para la revisión del informe que la Dirección elabora como consecuencia de la revisión del informe anual y de campaña que presenta cada uno de los partidos políticos, o bien para la rectificación de errores u omisiones en la documentación que integra los informes que presentan los partidos políticos, la Comisión dispondrá de un plazo de treinta días para elaborar un dictamen consolidado por cada partido político.
+Tiene por objeto impulsar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre autoridades que participan en la búsqueda, localización e identificación de personas.
 
-Cada dictamen consolidado deberá ser presentado al Consejo dentro de los tres días siguientes a su conclusión, y deberá contener:
+Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con la Comisión de Búsqueda de Personas para el cumplimiento de esta Ley y la Ley General.
 
-a) Las normas y procedimientos de auditoria;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
-b) El resultado y las conclusiones de la revisión del informe anual y/o de actividades tendientes a la obtención del voto presentados por cada partido político, y de la documentación comprobatoria correspondiente, señalando las aclaraciones y rectificaciones que haya presentado cada partido político después de haber sido notificado con este fin y la valoración correspondiente; y
+###### Artículo 25.
 
-c) En su caso, la mención de los errores o irregularidades encontradas en los informes o generadas con motivo de su revisión y que aún permanezcan al momento de la elaboración del dictamen consolidado.
+La Comisión de Búsqueda de Personas estará a cargo de una persona titular nombrada y removida por la persona titular del Poder Ejecutivo del Estado de México, a propuesta de la persona titular de la Consejería Jurídica.
 
-###### ARTÍCULO 36.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-En la conformación de coaliciones, los partidos políticos que las integren y los candidatos que postulen deberán ajustarse, a lo dispuesto por el presente Reglamento, teniendo los candidatos de la coalición las mismas obligaciones que los candidatos de los partidos políticos.
+Para el nombramiento, a que se refiere el párrafo anterior, la Consejería Jurídica realizará una consulta pública previa, a los colectivos de Víctimas, personas expertas y organizaciones de la sociedad civil especializadas en la materia.
 
-La coalición se considerará como un solo partido político para efecto de topes de Gastos de Campaña en términos del Código.
+Para ser titular se requiere:
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, G.G. 14 DE FEBRERO DE 2025)</small>
 
-###### ARTÍCULO 37.
+I. Ser persona ciudadana mexicana en pleno goce de sus derechos civiles y políticos;
 
-Los partidos políticos deberán llevar la contabilidad o contabilidades que consideren, identificando claramente el origen y aplicación de cada una de las operaciones que realicen con los recursos de las modalidades y rubros en que se divide el financiamiento de los partidos políticos y/o coaliciones.
+> <small>(REFORMADA, G.G. 14 DE FEBRERO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+II. No haber sido sentenciada o sentenciado por delito doloso o inhabilitada o inhabilitado como persona servidora pública;
 
-### CAPÍTULO VI. DE LA ELABORACIÓN DEL DICTAMEN DE LA COMISIÓN Y SU PRESENTACIÓN AL CONSEJO
+> <small>(REFORMADA, G.G. 14 DE FEBRERO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+III. Contar con título profesional;
 
-###### ARTÍCULO 38.
+IV. No haber desempeñado cargo de dirigente nacional o estatal en algún partido político, dentro de los dos años previos a su nombramiento;
 
-Para efectos que la Dirección compruebe la veracidad de lo reportado en los informes, los partidos políticos deberán observar las siguientes reglas:
+> <small>(REFORMADA, G.G. 14 DE FEBRERO DE 2025)</small>
 
-a) Apegarse a los catálogos de cuentas y la guía contabilizadora que establece el presente Reglamento;
+V. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en la sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su nombramiento;
 
-b) Realizar los asientos de contabilidad de manera analítica;
+> <small>(REFORMADA, G.G. 14 DE FEBRERO DE 2025)</small>
 
-c) Identificar cada operación, acto o actividad y sus características, relacionándolas con la documentación comprobatoria;
+VI. Contar con conocimientos y experiencia comprobable en derechos humanos, en búsqueda de personas, preferentemente con conocimientos en ciencias forenses o investigación criminal;
 
-d) Relacionar los formatos que así lo requieran, con los saldos finales de las cuentas que integran sus registros contables;
+> <small>(ADICIONADA, G.G. 14 DE FEBRERO DE 2025)</small>
 
-e) Relacionar los estados de posición financiera y estado de resultados con los saldos de las cuentas que integran sus registros contables; y
+VII. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;
 
-f) Asegurar el registro total de operaciones, actos o actividades y garantizar que se asienten correctamente, mediante los sistemas de control y verificación internos necesarios.
+> <small>(ADICIONADA, G.G. 14 DE FEBRERO DE 2025)</small>
 
-###### ARTÍCULO 39.
+VIII. No estar inscrita o inscrito en el Registro Nacional de Obligaciones Alimentarias, y
 
-En la medida de sus necesidades y requerimientos, cada partido político podrá abrir cuentas adicionales para llevar sus registros contables, y deberá abrirlas para controlar los gastos de mayor cuantía.
+> <small>(ADICIONADA, G.G. 14 DE FEBRERO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+IX. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
 
-###### ARTÍCULO 40.
+En el nombramiento de la persona titular de la Comisión de Búsqueda de Personas, debe garantizarse el respeto a los principios que prevé esta Ley, especialmente los de enfoque transversal de género, diferencial y de no discriminación.
 
-Los partidos políticos y/o coaliciones deberán apegarse, en el control y registro de sus operaciones financieras, a las Normas de Información Financiera (NIF) emitidas por el Consejo Mexicano para la Investigación y Desarrollo de Normas de Información Financiera A.C.
+La persona titular de la Comisión de Búsqueda de Personas no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
-### CAPÍTULO I. PREVENCIONES GENERALES
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+###### Artículo 26.
 
-###### ARTÍCULO 41.
+Para la selección de la persona titular de la Comisión de Búsqueda de Personas, la Consejería Jurídica deberá emitir una convocatoria pública y abierta en la que se incluyan los requisitos y criterios de selección de conformidad con ésta Ley y la Ley General, así como los documentos que deban entregar las personas postulantes.
 
-Los partidos políticos deberán elaborar una balanza de comprobación mensual a último nivel. Las balanzas deberán ser entregadas a la Dirección anexas a los informes trimestrales.
+Tendrá que existir un mecanismo a través del cual la sociedad civil presente candidatos.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 42.
+Para la consulta pública a la que se hace referencia en el artículo anterior, la Consejería Jurídica deberá observar como mínimo, lo siguiente:
 
-Al final de cada ejercicio, los partidos políticos deberán elaborar, con base en las balanzas mencionadas en el artículo anterior, una balanza de comprobación anual, que deberá ser entregada a la Dirección anexa al informe anual y de gastos de campaña.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-Se entenderá por balanza de comprobación anual el documento que contenga el saldo inicial, total de cargos, total de abonos y el saldo final de todas las cuentas contables correspondientes al año del ejercicio que se reporte.
+I. Conformar un órgano técnico de consulta que deberá estar integrado por una persona representante de la Consejería Jurídica, una persona representante de la Fiscalía Estatal, una persona representante de la academia experto, tres personas representantes de la sociedad civil provenientes de los colectivos y familiares y una persona representante de la Comisión de Derechos Humanos del Estado de México;
 
-En caso que en los informes de campaña resulte un saldo acreedor, como resultado de un exceso de gastos sobre los ingresos recibidos, dicho saldo será considerado como ingresos en especie de simpatizantes y quedará comprendido dentro de los topes de gastos de campaña.
+II. El órgano técnico de consulta integrará un expediente público por cada persona postulante;
 
-Los bienes muebles o inmuebles adquiridos o recibidos en propiedad en campañas electorales, al término de éstas deberán destinarse al uso ordinario del partido político y, en caso de coaliciones, al partido político que le corresponda de acuerdo al convenio respectivo y ser registrados como activos fijos en la contabilidad de actividades ordinarias.
+III. Revisará y verificará que cumplan con los requisitos contemplados en esta Ley y publicará aquellos expedientes que hayan cubierto los requisitos;
 
-Los bienes muebles o inmuebles propiedad del candidato, destinados a su uso ordinario y personal, no se tomarán en cuenta como gastos de campaña, para tal efecto el partido político y/o coalición deberá informar de la existencia de dichos bienes y anexar los documentos que comprueben que su adquisición fue con anterioridad al inicio de su campaña.
+IV. El órgano técnico de consulta requerirá a las personas candidatas, que hayan cubierto los requisitos, una propuesta de plan de trabajo;
 
-###### ARTÍCULO 43.
+V. El órgano técnico de consulta realizará una evaluación objetiva a las personas candidatas. A través de la evaluación, se revisará y verificará los perfiles; conocimientos y experiencia en derechos humanos, búsqueda de personas y lo relacionado a las atribuciones de la Comisión de Búsqueda de Personas; asimismo se revisará el plan de trabajo propuesto;
 
-Los partidos políticos para comprobar la cesión de un bien mueble o inmueble, se requiere el contrato de comodato que acredite el mismo según el anexo II adjunto al presente Reglamento.
+VI. El órgano técnico de consulta organizará las comparecencias de las personas candidatas ante los familiares y colectivos ciudadanos vinculados en la materia de desaparición para la presentación de sus propuestas de plan de trabajo. Se garantizará el dialogo directo;
 
-###### ARTÍCULO 44.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ABRIL DE 2024)</small>
 
-En caso de que en los informes de campaña y/o anual resulte un saldo acreedor, como resultado de un exceso de gastos sobre los ingresos recibidos, deberán registrarse contablemente y estar soportados con la documentación que les dio origen.
+VII. El órgano técnico de consulta elaborará un informe con los resultados de las evaluaciones y comparecencias, el cual será entregado a la persona titular de la Consejería Jurídica, quien lo anexará cuando haga la propuesta correspondiente a la persona titular del Poder Ejecutivo del Estado. Dicho informe deberá ser público.
 
-### CAPÍTULO II. DE LOS INGRESOS
+El órgano técnico de consulta se disolverá luego de la publicación del informe, y
 
-###### ARTÍCULO 45.
+> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
-Los partidos políticos deberán llevar un registro contable de adquisiciones de bienes muebles e inmuebles, complementándolo con la toma de un inventario físico, que se deberá incluir, actualizado en el informe anual que rinda el instituto político ante la Dirección.
+VIII. La persona titular de la Consejería Jurídica hará público el nombramiento de quien obtenga la titularidad de la Comisión de Búsqueda de Personas, acompañada de una exposición fundada y motivada sobre la idoneidad del perfil elegido y la preferencia de su elección frente al resto de las personas candidatas.
 
-###### ARTÍCULO 46.
+###### Artículo 27.
 
-Los bienes muebles e inmuebles que se adquieran o reciban en propiedad deberán contabilizarse como activo fijo. En el caso de bienes muebles o inmuebles recibidos para su uso o goce temporal, en que no se transfiera la propiedad, su registro se hará en cuentas de orden, a los valores que correspondan, de acuerdo al sistema de valuación establecido, que deberán ser incluidos en los informes respectivos, debiendo formularse las notas correspondientes en los estados financieros, con montos y procedencias.
+La Comisión de Búsqueda de Personas tiene las siguientes atribuciones:
 
-###### ARTÍCULO 47.
+I. Emitir y ejecutar el Programa Estatal de Búsqueda, así como sus lineamientos, el cual deberá formar parte y ser análogo en lo conducente al Programa Nacional de Búsqueda, rector en la materia;
 
-Será opcional el registro contable de las depreciaciones del activo fijo y amortizaciones del activo diferido.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+II. Emitir y difundir públicamente los lineamientos que regulen el funcionamiento del Registro Estatal y coordinar su operación, en concordancia a los lineamientos que regulen el funcionamiento del Registro Nacional, la Ley General, esta Ley y demás ordenamientos aplicables;
 
-###### ARTÍCULO 48.
+III. Ejecutar en el Estado de México el Programa Nacional de Búsqueda, de conformidad con esta Ley y la Ley General y ejecutar los lineamientos que regulan el funcionamiento del Registro Nacional, producir y depurar información para satisfacer dicho registro y coordinarse con las autoridades correspondientes, en términos de la Ley General, y demás ordenamientos jurídicos aplicables en la materia;
 
-Los bienes muebles e inmuebles adquiridos por los aspirantes a candidatos o precandidatos, candidatos y por los partidos políticos en precampañas y campañas electorales, al término de éstas, deberán destinarse al uso ordinario del partido y ser registrados como activos fijos en la contabilidad de Actividades Ordinarias.
+IV. Solicitar el acompañamiento de las instituciones policiales, cuando realice trabajos de campo y lo considere necesario;
 
-Cuando los partidos políticos estatales nuevo pierdan su registro, los bienes muebles e inmuebles que hayan sido adquiridos con financiamiento público, pasarán a ser parte del patrimonio del Estado de Puebla, para tal efecto dispondrán de diez días posteriores a la Resolución del Consejo correspondiente, para presentar ante el mismo, por conducto de la Dirección, el Inventario final del activo fijo adquirido con financiamiento público, actualizado a la fecha en que la cancelación del registro surta efecto.
+V. Solicitar la colaboración de las instituciones policiales y de seguridad pública, de los tres órdenes de gobierno, en términos del artículo 67 de la Ley General, cuando sea necesario para el ejercicio de sus funciones;
 
-La Dirección efectuará la revisión del inventario en un término de diez días, haciendo del conocimiento de la Comisión el resultado de la misma, para que en un plazo de diez días, esta última informe al Consejo las observaciones que correspondan, a efecto de que el Consejo esté en condiciones de recibir los bienes muebles e inmuebles dentro de los treinta días naturales siguientes a la presentación del inventario por parte del partido.
+VI. Atender y formular solicitudes a las Instituciones de Seguridad Pública, previstas en el artículo 5, fracción VIII de la Ley General del Sistema Nacional de Seguridad Pública, y 6 fracciones XI y XII de la Ley de Seguridad del Estado de México, a efecto e (sic) cumplir con su objeto y dentro del ámbito de su competencia;
 
-###### ARTÍCULO 49.
+VII. Integrar, cada tres meses, un informe sobre los avances y resultados en el cumplimiento del Programa Nacional de Búsqueda, mismo que será enviado al Sistema Nacional, haciendo del conocimiento del mismo al Mecanismo Estatal, de conformidad con lo previsto en el artículo 30 de esta Ley;
 
-El control de inventarios de activo fijo se llevará a cabo mediante un sistema de asignación de números de inventario y listados para registrar altas y bajas, practicando una toma de inventarios físicos cuando menos una vez al año, dentro del trimestre más próximo a la entrega del informe anual que rinda el instituto político ante la Dirección, sirviendo estos listados como soporte contable de la cuenta de activo fijo.
+VIII. Presentar al Consejo Estatal de Seguridad Pública, los informes sobre los avances y resultados de la verificación y supervisión en el cumplimiento, establecidos en la fracción anterior, en coordinación con las autoridades competentes;
 
-###### ARTÍCULO 50.
+IX. Rendir, cuando sean solicitados por la Comisión Nacional, los informes correspondientes sobre el cumplimiento del Programa Nacional de Búsqueda;
 
-La propiedad de los bienes de los partidos políticos se acreditará, para efectos de su registro, con las facturas o los títulos de propiedad respectivo. Los bienes muebles que estén en posesión del partido político, de los cuales no se cuente con factura disponible o contrato de comodato, se presumirán propiedad del partido, salvo prueba en contrario, y deberán ser registrados.
+X. Atender los protocolos rectores establecidos por el Sistema Nacional y la Comisión Nacional y emitir aquéllos que sean necesarios para el cumplimiento de sus funciones;
 
-###### ARTÍCULO 51.
+XI. Promover la revisión y actualización del Protocolo Homologado de Búsqueda;
 
-El cómputo de los plazos se hará tomando solamente los días hábiles, debiendo entenderse por tales todos los días a excepción de los sábados, los domingos y los inhábiles en términos de la ley, del Estatuto del Servicio Electoral Profesional del Instituto y por acuerdo de la Junta Ejecutiva del Instituto. Los plazos se computarán de momento a momento, y si están señalados por días, éstos se entenderán de veinticuatro horas. Los plazos empezarán a correr al día siguiente de que surta efectos la notificación del acto correspondiente. Las notificaciones surten sus efectos al día siguiente en que se practican. Durante el proceso electoral estatal, todos los días y horas se considerarán hábiles.
+XII. Diseñar, proponer y aplicar los mecanismos de coordinación y colaboración con las demás autoridades de los diferentes órdenes de gobierno, a efecto de llevar a cabo las acciones en la búsqueda de Personas Desaparecidas;
 
-###### ARTÍCULO 52.
+XIII. Canalizar a los familiares ante la Fiscalía Especializada competente para que, de ser el caso, realicen la denuncia correspondiente y ante la Comisión Ejecutiva Estatal para que reciban asesoría o atención especializada;
 
-Los requisitos de los registros contables y la documentación de soporte que los partidos lleven, expidan o reciban en términos del presente Reglamento son independientes de lo que al efecto establezcan otras disposiciones legales o reglamentarias, o las reglas estatutarias de los propios partidos.
+XIV. Determinar y, en su caso, ejecutar, las acciones de búsqueda que correspondan, a partir de los elementos con que cuente, de conformidad con el protocolo aplicable. Así como, de manera coordinada con la Comisión Nacional y las demás Comisiones Locales de Búsqueda, realizar y dar seguimiento a las acciones de búsqueda, atendiendo a las características propias del caso, así como a las circunstancias de ejecución o la relevancia social del mismo;
 
-###### ARTÍCULO 53.
+XV. Aplicar los lineamientos emitidos por la Comisión Nacional para acceder, sin restricciones, a la información contenida en plataformas, bases de datos y registros de todas las autoridades para realizar la búsqueda de la Persona Desaparecida, de conformidad con las disposiciones aplicables;
 
-Independientemente de lo dispuesto en el presente Reglamento, los partidos políticos deberán sujetarse a las disposiciones fiscales y de seguridad social que están obligados a cumplir.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-###### ARTÍCULO 54.
+XVI. Solicitar la participación de la Guardia Nacional y a los integrantes de las Instituciones de Seguridad Pública Estatal y Municipal que se realicen acciones específicas de búsqueda, localización e identificación de Personas Desaparecidas;
 
-Para los efectos de este Reglamento se considerará como:
+XVII. Solicitar la colaboración de los tres órdenes de gobierno y demás instancias, para la búsqueda y localización de Personas Desaparecidas;
 
-I. Ingresos para el sostenimiento de las actividades ordinarias: aquellos obtenidos por los partidos políticos mediante los conductos legalmente estipulados en correspondencia de su financiamiento público otorgado por el Instituto y que son requeridos para la consecución de los programas, metas actividades y acciones fijados por los institutos políticos para el sostenimiento de sus actividades continuas o normales;
+XVIII. Mantener comunicación con autoridades federales, locales y municipales y establecer enlaces, cuando lo estime pertinente o por recomendación del Consejo Estatal Ciudadano;
 
-II. Ingresos para propiciar el acceso equitativo a los medios de comunicación social: aquéllos obtenidos por los partidos políticos mediante los conductos legalmente estipulados en correspondencia de su financiamiento público otorgado por el Instituto y que tienen como objeto acceder a los medios de comunicación para propiciar la exposición, información, desarrollo, discusión y difusión ante la ciudadanía de los programas, metas, actividades y acciones fijados por los institutos políticos.
+XIX. Integrar grupos de trabajo para proponer acciones específicas de búsqueda de personas, así como analizar el fenómeno de desaparición, a nivel Estatal, Regional o municipal. Así como colaborar con la Comisión Nacional y otras comisiones locales de búsqueda en el análisis del fenómeno de desaparición a nivel Nacional brindando información sobre el problema a nivel estatal y regional;
 
-III. Ingresos para las actividades tendientes a la obtención del voto: aquellos obtenidos por los partidos políticos mediante los conductos legalmente estipulados en correspondencia de su financiamiento público otorgado por el Instituto, con la finalidad de realizar actos de campaña, así como para promover a sus candidatos registrados ante los Órganos Electorales para la obtención del voto; y
+XX. Mantener reuniones periódicas y comunicación continua con las personas titulares de la Comisión Nacional de Búsqueda y otras comisiones locales, a fin de intercambiar experiencias y buscar las mejores prácticas para la localización de personas;
 
-IV. Otros ingresos: aquéllos obtenidos por los partidos políticos mediante los conductos legalmente estipulados en correspondencia de su financiamiento privado y que provengan de militantes, simpatizantes o por sus propios medios, así como de autofinanciamiento y rendimientos financieros, fondos o fideicomisos que tengan como finalidad primordial el cumplimiento de las diversas actividades de los partidos políticos.
+XXI. Dar aviso de manera inmediata a la Fiscalía Especializada que corresponda sobre la existencia de información relevante y elementos que sean útiles para la investigación de los delitos materia de la Ley General y otras leyes, de conformidad con el Protocolo Homologado de Búsqueda;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+XXII. Colaborar con las instituciones de procuración de justicia en la investigación de otros delitos;
 
-###### ARTÍCULO 55.
+XXIII. Solicitar la colaboración de medios de comunicación, organizaciones de la sociedad civil y de la sociedad en general para la búsqueda y localización de Personas Desaparecidas, de conformidad con la normativa aplicable;
 
-Todos los ingresos que obtengan los partidos políticos por cualquier modalidad de financiamiento en términos de lo establecido por el Código, sean en efectivo o en especie, deberán registrarse contablemente, respaldándose con la documentación correspondiente y reportarse en los informes que deberán presentar de acuerdo al presente Reglamento.
+XXIV. Mantener comunicación continúa con las Fiscalías Especializadas para la coordinación de acciones de búsqueda y localización, a partir de la información obtenida en la investigación de los delitos materia de la Ley General;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+XXV. Mantener comunicación continua y permanente con el Mecanismo de Apoyo Exterior previsto en la Ley General, en coordinación permanente con la Comisión Nacional, para coordinarse en la ejecución de las acciones de búsqueda y localización de personas migrantes y apoyo a sus familiares;
 
-###### ARTÍCULO 56.
+XXVI. Implementar y evaluar el cumplimiento de las políticas y estrategias para la búsqueda y localización de Personas Desaparecidas; así como vigilar su acatamiento por parte de las instituciones estatales y municipales;
 
-Todos los ingresos en efectivo que perciban los partidos políticos, bajo la modalidad de financiamiento público en términos de lo establecido por el Código, deberán depositarse en cuentas bancarias de cheques a nombre del partido político por cada uno de los rubros en que se divide éste; las cuales que se identificaran en los catálogos de cuentas como CBCDEPU (Cuenta Bancaria Comité Directivo Estatal Público)-(PARTIDO)-(NÚMERO), siendo estas exclusivas para este tipo de recursos y serán manejadas conforme a los estatutos de cada partido o la reglamentación correspondiente.
+XXVII. Conocer y opinar sobre las políticas y estrategias para la identificación de personas localizadas con vida y personas fallecidas localizadas en fosas comunes y clandestinas, así como vigilar su cumplimiento por parte de las instituciones del Estado;
 
-Los estados de cuenta respectivos deberán conciliarse mensualmente y remitirse a la Dirección trimestralmente, anexo al informe justificatorio respectivo.
+XXVIII. Celebrar, de conformidad con las disposiciones aplicables, convenios de coordinación, colaboración y concertación o cualquier otro instrumento jurídico necesario para el cumplimiento de los objetivos del Sistema Nacional, así como de sus atribuciones;
 
-Asimismo los partidos políticos dentro de los primeros quince días del mes de enero del año que se reporta deberán informar mediante oficio el número de cuentas bancarias que utilizarán para el manejo de sus recursos bajo los rubros de sostenimiento de actividades ordinarias permanentes y el acceso equitativo a los medios de comunicación, de igual forma los partidos políticos y/o coaliciones dentro de los primero quince días contados a partir de que les sean entregadas las ministraciones bajo el rubro de actividades tendientes a la obtención del voto informarán mediante oficio el número de cuenta bancaria que utilizan para el manejo de su recurso bajo este rubro, remitiendo para los efectos correspondientes a la Dirección, copia simple de los contratos bancarios respectivos.
+XXIX. Proponer la celebración de convenios a las autoridades competentes para la expedición de visas humanitarias a familiares de personas extranjeras desaparecidas dentro del territorio del Estado;
 
-De igual forma, deberán informar de la cancelación de alguna cuenta bancaria dentro de los 15 días siguientes de efectuarse el supuesto, anexando para tal caso copia simple del documento soporte de dicha cancelación.
+XXX. Disponer de una línea telefónica de asistencia, así como de cualquier otro medio de comunicación de acceso gratuito para proporcionar información, sin necesidad de cumplir con formalidad alguna, para contribuir en la búsqueda de Personas Desaparecidas;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO III. DE LAS TRANSFERENCIAS LOCALES
+XXXI. Solicitar al Sistema Mexiquense de Medios Públicos, así como a los concesionarios de radiodifusión y telecomunicaciones, dentro de las transmisiones correspondientes a los tiempos del Estado, de conformidad con la legislación en la materia, por conducto de la autoridad competente y previa autorización de los Familiares, la difusión de boletines relacionados con la búsqueda de Personas Desaparecidas;
 
-###### ARTÍCULO 57.
+> <small>(ADICIONADO, G.G. 2 DE ABRIL DE 2024)</small>
 
-Todos los ingresos en efectivo que perciban los partidos políticos, bajo la modalidad de financiamiento privado en términos de lo establecido por el Código, deberán depositarse en una sola cuenta bancaria de cheques a nombre del partido político; la cual se identificará en los catálogos de cuentas como CBCDEPR (Cuenta Bancaria Comité Directivo Estatal Privado)(PARTIDO)-(NÚMERO), siendo éstas exclusivas para este tipo de recursos y serán manejadas conforme a los estatutos de cada partido o la reglamentación correspondiente.
+Solicitar a los Ayuntamientos coadyuvar en la publicación y difusión de boletines de búsqueda de personas desaparecidas, quienes deberán de informar de manera inmediata a la Comisión de Búsqueda de Personas cualquier dato, indicio o información que resulte de su colaboración de búsqueda.
 
-Los estados de cuenta respectivos deberán conciliarse mensualmente y remitirse, a la Dirección trimestralmente, anexo al informe justificatorio respectivo. Asimismo, los partidos políticos dentro de los primeros quince días del mes de enero del año que se reporta deberán informar mediante oficio el número de cuentas bancarias que utilizarán para el manejo de sus recursos percibidos bajo la modalidad de financiamiento privado en términos de lo establecido por el Código Comicial, de igual forma los partidos políticos y/o coaliciones dentro de los primeros quince días contados a partir de que les sean entregadas las ministraciones bajo el rubro de actividades tendientes a la obtención del voto informaran mediante oficio el número de cuenta bancaria que utilizarán para el manejo de sus recursos percibidos bajo la modalidad citada anteriormente, remitiendo para los efectos correspondientes a la Dirección copia simple de los contratos bancarios respectivos.
+XXXII. Establecer acciones de búsqueda específicas para las desapariciones de personas vinculadas con movimientos políticos en coordinación con la Comisión Nacional de Búsqueda.
 
-De igual forma, deberán informar de la cancelación de alguna cuenta bancaria dentro de los 15 días siguientes de efectuarse el supuesto, anexando para tal caso copia simple del documento soporte de dicha cancelación.
+En los casos en que durante las acciones de búsqueda se encuentre algún indicio de la probable comisión de un delito, se dará aviso inmediato a la fiscalía correspondiente;
 
-El saldo positivo en las cuentas bancarias de los partidos políticos y/o coaliciones, al finalizar las campañas electorales, deberá ser transferido a la cuenta bancaria en la que el partido administre su financiamiento público para actividades ordinarias permanentes, en el caso de las coaliciones, se transferirá a las cuentas bancarias de los partidos que la integran en la proporción que hayan determinado en el respectivo convenio de coalición.
+XXXIII. Cuando en alguna región o municipio del Estado aumente significativamente el número de desapariciones, dará aviso inmediato a la Comisión Nacional solicitando las medidas extraordinarias y la emisión de la alerta a que se refieren la fracción XXXII del artículo 53 de la Ley General.
 
-Lo anterior, en el entendido que los recursos transferidos sólo podrán ser utilizados en cualquier campaña constitucional local.
+También deberá dar aviso al Mecanismo Estatal para que, en tanto se emita la alerta, éste diseñe, coordine y ejecute un Plan para la solución de la problemática;
 
-Los partidos políticos y/o coaliciones deberán prever que el financiamiento público y/o privado que destinen a las actividades tendientes a la obtención del voto no exceda los topes de gastos de campaña, cuidando los límites de financiamiento privado que tienen derecho a recibir en el año de la elección, en términos de los artículos 45 fracción II y 48 del Código.
+XXXIV. En caso que así lo determine la Comisión Nacional, llevar a cabo medidas extraordinarias y atender alertas cuando algún municipio de la entidad aumente significativamente el número de desapariciones, que serán atendidas por las autoridades competentes a quienes vayan dirigidas;
 
-La suma de los recursos recibidos por cada partido político y/o coalición por cualquier modalidad de financiamiento privado, en ningún momento podrá exceder los límites que por dicho financiamiento tiene derecho a recibir en el año, cada partido político y/o coalición, en términos de los artículos 45 fracción II y 48 del Código.
+XXXV. En los casos en que la Comisión Nacional emita una alerta en donde se vea involucrado un municipio de la entidad o el Estado, deberá vigilar que se cumplan, por parte de las autoridades obligadas, las medidas extraordinarias que se establezcan para enfrentar la contingencia;
 
-Las aportaciones en dinero y/o en especie realizadas o recibidas por los candidatos durante las campañas electorales, serán consideradas como parte de los límites que por aportaciones de militantes y/o simpatizantes puede recibir un partido político y/o coalición durante un año electoral en términos de los artículos 45 fracción II y 48 del Código. Tales aportaciones podrán realizarse en parcialidades y en cualquier tiempo, pero el monto total aportado durante la campaña por el candidato y/o simpatizante persona física o moral no podrá rebasar, según corresponda, los límites establecidos en el inciso c) fracción II del artículo 48 del Código.
+XXXVI. Diseñar, en colaboración con la Comisión Nacional y las comisiones locales de búsqueda que correspondan, programas regionales de búsqueda de personas, y en su caso, mecanismos de búsqueda de personas dentro de la entidad;
 
-Las aportaciones a campañas en efectivo y/o en especie de militantes y simpatizantes de los partidos políticos que conformen una coalición se acumularán a cada partido político integrante de la misma en la proporción en que se haya determinado en el Convenio de coalición respectivo.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-Queda prohibido a los partidos políticos y/o coaliciones, así como a sus candidatos recibir aportaciones o donativos, sea en dinero o en especie, por sí o por interpósita persona de:
+XXXVII. Suscribir convenios de colaboración y coordinación que se requieran con las autoridades competentes, municipales, estatales, nacionales y extranjeras, para la operación de los mecanismos de búsqueda transnacional de Personas Desaparecidas en coordinación con la Comisión Nacional;
 
-I. Los Poderes Legislativo, Ejecutivo o Judicial y los Ayuntamientos;
+XXXVIII. Recibir, las Denuncias o Reportes, así como información relacionada con las mismas, de las embajadas, los consulados y agregadurías, sobre personas migrantes desaparecidas dentro del territorio del Estado. Asimismo, establecer los mecanismos de comunicación e intercambio de información más adecuados que garanticen la efectividad en la búsqueda de las personas migrantes en coordinación con las autoridades competentes y el Mecanismo de Apoyo Exterior previsto en la Ley General;
 
-II. Las dependencias, entidades u organismos de la administración pública del Gobierno Federal, Estatal, Municipal, centralizadas o paraestatales y en general todos aquellos organismos o instituciones que ejerzan fondos públicos;
+XXXIX. En coordinación con la Comisión Nacional dar seguimiento y, en su caso, atender las recomendaciones y sentencias de órganos estatales, nacionales e internacionales de derechos humanos en los temas relacionados con la búsqueda de personas en el Estado de México;
 
-III. Las personas físicas o jurídicas extranjeras;
+XL. Dar seguimiento y atender a las recomendaciones del Consejo Estatal Ciudadano en los temas relacionados con las funciones y atribuciones de la Comisión de Búsqueda de Personas;
 
-IV. Los partidos políticos extranjeros;
+XLI. (DEROGADA, G.G. 4 DE FEBRERO DE 2026)
 
-V. Los organismos internacionales de cualquier naturaleza;
+XLII. Recibir la información que aporten los particulares, colectivos y organizaciones en los casos de desaparición de alguna persona y remitirla a otra Comisión de Búsqueda cuando así corresponda y, en su caso, a la Fiscalía Especializada competente;
 
-VI. Los ministros de culto y las asociaciones religiosas; y
+XLIII. Proponer a la Fiscalía Especializada, solicite al Ministerio Público de la Federación el ejercicio de la facultad de atracción, de conformidad con lo dispuesto en el artículo 24, fracción IV de la Ley General;
 
-VII. Las empresas mexicanas de carácter mercantil, así como aquéllas cuyo objeto social sea la realización de juegos de azar.
+XLIV. Dar vista al Ministerio Público y a las autoridades competentes en materia de responsabilidades administrativas de las personas servidoras públicas, sobre las acciones u omisiones que puedan constituir una violación a la Ley General y esta Ley;
 
-###### ARTÍCULO 58.
+XLV. Establecer mecanismos de comunicación, participación y evaluación con la sociedad civil y los familiares para que coadyuven con los objetivos, fines y trabajos de la Comisión de Búsqueda de Personas, en términos que prevean la Ley General y las leyes estatales;
 
-Los recursos en efectivo provenientes del financiamiento privado que reciban los candidatos deberán ser recibidos primeramente a través del Órgano Interno, los cuales una vez registrados por éste, lo reintegrará a los candidatos a través de cheque nominativo a favor del candidato, salvo las cuotas voluntarias y personales que cada candidato aporte exclusivamente para su campaña, así como los rendimientos financieros que produzcan las cuentas de cheques en que se manejen los recursos de campaña y los que se reciban en especie.
+XLVI. Solicitar a la Comisión Ejecutiva Estatal que implementen los mecanismos necesarios, para que a través del Fondo de Ayuda, Asistencia y Reparación Integral se cubran los gastos de ayuda cuando lo requieran los familiares por la presunta comisión de los delitos materia de la Ley General, de conformidad con la Ley de Víctimas y la Ley General de Víctimas;
 
-### CAPÍTULO IV. DE LAS TRANSFERENCIAS FEDERALES
+XLVII. Promover ante las autoridades competentes el empleo de técnicas y tecnologías que permitan mejorar las acciones de búsqueda y considerar las recomendaciones de la Comisión Nacional;
 
-###### ARTÍCULO 59.
+XLVIII. Incorporar a los procesos de búsqueda relacionados con Personas Desaparecidas a expertos independientes o peritos internacionales, cuando no cuente con personal nacional capacitado en la materia y lo considere pertinente o así lo soliciten los Familiares. Dicha incorporación se realizará de conformidad con las leyes aplicables;
 
-Los registros contables de los partidos políticos deben separar en forma clara los ingresos que tengan en especie, de aquéllos que reciban en efectivo.
+XLIX. Elaborar diagnósticos periódicos, que permitan conocer e identificar modos de operación, prácticas, patrones de criminalidad, estructuras delictivas y asociación de casos que permitan el diseño de acciones estratégicas de búsqueda;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+L. Elaborar diagnósticos periódicos, que permitan conocer la existencia de características y patrones de desaparición, de conformidad con el principio de enfoque diferenciado;
 
-###### ARTÍCULO 60.
+LI. Suministrar, sistematizar, analizar y actualizar la información de hechos y datos sobre la desaparición de personas, así como de los delitos previstos en la Ley General;
 
-Se consideran aportaciones en especie:
+LII. Elaborar informes de análisis de contexto que incorporen a los procesos de búsqueda elementos sociológicos, antropológicos, victimológicos y demás disciplinas necesarias a fin de fortalecer las acciones de búsqueda y garantizar el derecho a la verdad;
 
-a) Las donaciones de bienes de propaganda en relación directa con el artículo 93, fracción III, inciso a) de este Reglamento;
+LIII. Realizar las acciones necesarias para recabar y cruzar la información contenida en las bases de datos y registros que establece la Ley General, así como con la información contenida en otros sistemas que puedan contribuir en la búsqueda, localización e identificación de una Persona Desaparecida;
 
-b) Las donaciones de bienes muebles o inmuebles; y
+LIV. Atender los estándares, criterios de capacitación, certificación y evaluación que emita la Comisión Nacional sobre el personal que participe en las acciones de búsqueda de Personas Desaparecidas;
 
-c) La entrega de bienes muebles o inmuebles en comodato.
+LV. Solicitar asesoría de la Comisión Nacional, de otras comisiones Locales de Búsqueda o de las instituciones que sean necesarias para mejorar su actuación;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+LVI. Aplicar los criterios de capacitación, certificación y evaluación del personal que participe en las acciones de búsqueda de personas desaparecidas emitidos por la Comisión Nacional;
 
-###### ARTÍCULO 61.
+LVII. Tomar las acciones necesarias a efecto de garantizar la búsqueda de personas en el territorio del Estado de México, tomando en consideración aquéllas que se hayan iniciado en otras localidades que puedan ayudar a la búsqueda;
 
-Los ingresos por donación de bienes de propaganda y muebles, deberán valuarse y registrarse conforme a su valor comercial de mercado, determinado de la siguiente forma:
+LVIII. Promover, en términos de lo dispuesto en la Ley de Amparo y otras disposiciones legales aplicables, las medidas necesarias para lograr la protección de aquellas personas desaparecidas cuya vida, integridad o libertad se encuentre en peligro;
 
-Para el caso de bienes muebles:
+LIX. Expedir y modificar acuerdos y demás disposiciones jurídicas sobre los asuntos de su competencia;
 
-a) Si se cuenta con la factura correspondiente, se registrará al valor consignado en tal documento; y
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-b) Si no se cuenta con la factura correspondiente, se valuará y registrará al valor de mercado el cual se determinará a través de dos cotizaciones solicitadas por el partido político o coalición, de las cuales se tomará el valor promedio.
+LX. Coordinar operativamente a las Células de Búsqueda sin perjuicio del apoyo que solicite la Comisión de Búsqueda de Personas a los municipios;
 
-Para el caso de bienes muebles:
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
-a) Si el tiempo de uso del bien aportado es menor a un año y se cuenta con la factura correspondiente, se registrará el valor consignado en tal documento;
+LXI. Realizar las acciones necesarias para recabar y cruzar la información contenida en la Plataforma Única de Identidad, así como en las demás bases de datos y registros que establece la Ley General, así como con la información contenida en otros sistemas que puedan contribuir en la búsqueda, localización e identificación de una Persona Desaparecida, y
 
-b) Si el bien aportado tiene un tiempo de uso mayor a un año y se cuenta con la factura correspondiente, se valuará y registrará el valor consignado en la factura, aplicándole los índices de actualización y los porcentajes de depreciación dispuestos por la Ley del Impuesto Sobre la Renta;
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
-c) Si no se cuenta con la factura del bien aportado y éste tiene un valor aproximado menor al equivalente a un mil días de salario mínimo, se valuará y registrará a través de una cotización solicitada por el partido político o coalición;
+LXII. Las demás que prevea esta Ley, la Ley General, y demás disposiciones aplicables.
 
-d) Si no se cuenta con la factura del bien aportado y éste tiene un valor aproximado mayor al equivalente a un mil días de salario mínimo y menor a cinco mil días, se valuará y registrará a través de dos cotizaciones solicitadas por el partido político o coalición, de las cuales se tomará el valor promedio; y
+La información que la Comisión de Búsqueda de Personas genere con motivo del ejercicio de sus facultades, estará sujeta a las reglas de acceso a la información y protección de datos personales previstas en la legislación en la materia.
 
-e) Si no se cuenta con la factura del bien aportado y éste tiene un valor aproximado mayor al equivalente a cinco mil días de salario mínimo, se valuará y registrará a través de tres cotizaciones solicitadas por el partido político y/o coalición, de las cuales se tomará el valor promedio.
+Para el cumplimiento de sus atribuciones, la Comisión de Búsqueda de Personas contará con las áreas necesarias que determine su Reglamento Interior.
 
-### CAPÍTULO V. DE LOS EGRESOS
+###### Artículo 28.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+En la integración y operación de los grupos de trabajo a que se refiere la fracción XIX del artículo anterior, la Comisión de Búsqueda de Personas tiene las siguientes atribuciones:
 
-###### ARTÍCULO 62.
+I. Determinar las autoridades que deben integrar los grupos de trabajo, en cuyo caso podrá solicitar, cuando lo estime pertinente, la participación de autoridades de los tres órdenes de gobierno;
 
-Los ingresos por donación de bienes inmuebles deberán registrarse conforme a su valor estipulado en la escritura respectiva.
+II. Coordinar el funcionamiento de los grupos de trabajo;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+III. Solicitar al área de análisis de contexto informes para el cumplimiento de sus facultades, así como de la búsqueda de la verdad, y
 
-###### ARTÍCULO 63.
+IV. Disolver los grupos de trabajo cuando hayan cumplido su finalidad.
 
-Para determinar el valor de registro como aportaciones de uso de los bienes muebles o inmuebles otorgados en comodato se tomará el valor de uso promedio de dos cotizaciones solicitadas por el propio partido político, el cual se prorrateará en proporción al tiempo estimado de vida útil de conformidad con las disposiciones fiscales y al tiempo que se utilizará en beneficio del partido político y/o campaña, situación que informará al Instituto a fin de cumplimentar lo referente a los gastos totales aplicados a cada campaña.
+###### Artículo 29.
 
-Los bienes muebles o inmuebles otorgados en comodato a los candidatos, deberán ser concedidos únicamente para el plazo de duración de sus campañas.
+Las personas servidoras públicas integrantes de la Comisión de Búsqueda de Personas deben estar certificados y especializados en materia de búsqueda, de conformidad con los criterios que establezca la Comisión Nacional a que hace referencia la Ley General.
 
-###### ARTÍCULO 64.
+###### Artículo 30.
 
-El financiamiento privado que los partidos políticos perciban de sus militantes se conformará de acuerdo a lo señalado en los artículos 48, 49 y 50 del Código.
+Los informes previstos en el artículo 27, fracción VII, deben contener, al menos, lo siguiente:
 
-###### ARTÍCULO 65.
+I. Avance en el cumplimiento de los objetivos del Programa Nacional de Búsqueda con información del número de personas reportadas como desaparecidas Víctimas de los delitos materia de la Ley General; número de personas localizadas, con vida y sin vida; cadáveres o restos humanos que se han localizado e identificado; circunstancias de modo, tiempo y lugar de la localización;
 
-La Dirección llevará un registro de las organizaciones sociales que cada partido político declare como adherentes o instituciones similares, que serán las únicas facultadas para realizar aportaciones a los partidos políticos, dicha declaración deberá realizarse por los institutos políticos dentro de los primeros quince días del mes de enero del año que se reporta.
+II. Resultados de la gestión de la Comisión de Búsqueda de Personas;
 
-Cualquier modificación al registro deberá ser notificada a la Dirección, por el partido político interesado dentro de los quince días siguientes a que se produzca.
+III. Avance en la actualización y adecuado cumplimiento del Protocolo Homologado de Búsqueda a que se refiere el artículo 99 la Ley General;
 
-###### ARTÍCULO 66.
+IV. Resultado de la evaluación sobre el sistema al que se refiere el artículo 49, fracción II, de la Ley General, y
 
-Las cuotas o aportaciones que reciban los partidos políticos de sus militantes y organizaciones sociales, deberán respaldarse con la copia de los recibos foliados, según el formato "VI" anexo a este Reglamento, el cual para su impresión deberá ser autorizado por el Órgano Interno y dentro de los 15 días siguientes tendrán que ser presentados a la Dirección para la verificación del número de folio de los recibos impresos.
+V. Las demás que señalen los Reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+###### Artículo 31.
 
-###### ARTÍCULO 67.
+El Consejo Estatal de Seguridad Pública, de conformidad con la Ley de Seguridad Pública del Estado, analizará los informes sobre los avances y resultados de la verificación y supervisión en la ejecución de los programas previstos en esta Ley, a fin de proponer y adoptar, en coordinación con el Sistema Estatal, todas aquellas medidas y acciones que se requieran para su cumplimiento.
 
-Cada recibo foliado se imprimirá en original y tres copias, asimismo, se deberán expedir en forma consecutiva. El original deberá entregarse a la persona u organización que efectúa la aportación; una copia será para el Órgano Interno, otra copia para el Comité Estatal, Distrital o Municipal y la otra copia será remitida a la Dirección. Los recibos deben ser llenados de manera que los datos resulten legibles en todas las copias.
+###### Artículo 32.
 
-En el caso de aportaciones en especie, deberá expresarse, en el cuerpo del recibo la información relativa al bien aportado y el criterio de valuación que se haya utilizado. Dichas aportaciones deberán destinarse únicamente para el cumplimiento del objeto del partido político que haya sido beneficiado con la aportación.
+La Comisión de Búsqueda de Personas, para realizar sus actividades, debe contar como mínimo con:
 
-Para comprobar ingresos por concepto de cuotas o aportaciones por parte de militantes y organizaciones sociales, ya sea en efectivo o en especie, se deberá anexar a los recibos correspondientes copia simple de la credencial para votar del aportante y/o representante social.
+I. Grupo especializado de búsqueda, cuyas funciones se encuentran en el artículo 39 de esta Ley;
 
-Asimismo, cuando existan folios cancelados, se deberán remitir a la Dirección anexos a los informes trimestrales y de gastos de campaña de manera completa, entendiéndose por tal original y cada una de sus copias.
+II. Área de Análisis de Contexto, la cual desempeñará, además de las funciones que esta Ley u otras disposiciones jurídicas le asignen, las atribuciones a que se refieren las fracciones XLIX, L, LI, LII y LIII del artículo 27.
 
-###### ARTÍCULO 68.
+El área de análisis y contexto de la Comisión de Búsqueda de Personas se coordinará con la Unidad de Análisis y Contexto de la Fiscalía y la Unidad de Análisis y contexto de la Fiscalía Especializada para los Delitos Vinculados a la Violencia de Género y las demás existentes;
 
-Los partidos políticos llevarán un control de folios de los recibos que se impriman y expidan por el Comité Directivo Estatal, Distrital o Municipal. Dichos controles permitirán verificar y cotejar los recibos cancelados, el número total de recibos impresos, los recibos utilizados con su importe total y los recibos pendientes de utilizar. El control de folios deberá remitirse junto con el informe anual del año que corresponda.
+III. Área de Gestión y Procesamiento de Información, la cual desempeñará, además de las funciones que esta Ley u otras disposiciones jurídicas le asignen, las atribuciones a que se refiere la fracción LIII del artículo 27, y
 
-###### ARTÍCULO 69.
+IV. La estructura administrativa necesaria para el cumplimiento de sus funciones.
 
-El financiamiento privado que los partidos políticos perciban de sus simpatizantes se conformará de acuerdo a lo señalado en los artículos 48, 49 Y 50 del Código.
+### CAPÍTULO TERCERO. Del Consejo Estatal Ciudadano
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+###### Artículo 33.
 
-###### ARTÍCULO 70.
+El Consejo Estatal Ciudadano es un órgano ciudadano de consulta de la Comisión de Búsqueda de Personas, que forma parte del Mecanismo Estatal.
 
-Las cuotas o aportaciones que reciban los Partidos Políticos de sus simpatizantes, deberán respaldarse con la copia de los recibos foliados, según los formatos "VIII y X" que forman parte integrante de este Reglamento, los cuales para su impresión deberán ser autorizados por el Órgano interno y dentro de los 15 días siguientes, tendrán que ser presentados a la Dirección para la verificación del número de folio de los recibos impresos.
+###### Artículo 34.
 
-Para comprobar ingresos por concepto de cuotas o aportaciones por parte de simpatizantes, ya sea en efectivo o en especie, se deberá anexar a los recibos correspondientes copia simple de la credencial para votar del aportante.
+El Consejo Estatal está integrado por:
 
-A efecto de verificar y determinar lo conducente, en relación con los límites de aportaciones en dinero y en especie que reciban los partidos políticos provenientes de financiamiento privado, la Dirección realizará una conciliación de los ingresos que por dicho concepto reporten los institutos políticos en los diversos informes justificatorios sobre el origen, monto y destino de sus recursos bajo las diferentes modalidades de dicho financiamiento.
+I. Un familiar de personas desaparecidas por cada una de las ocho regiones del Estado siguientes:
 
-###### ARTÍCULO 71.
+a) Región Centro;
 
-Cada recibo foliado se imprimirá en original y tres copias, asimismo se deberán expedir en forma consecutiva. El original deberá entregarse a la persona u organización que efectúa la aportación; una copia será para el Órgano Interno, otra copia para el Comité Directivo Estatal, Distrital o Municipal u Órganos equivalentes y la otra copia será remitida a la Dirección. Los recibos deben ser llenados de manera que los datos resulten legibles en todas las copias.
+b) Región Oeste;
 
-En el caso de aportaciones en especie, deberá expresarse, en el cuerpo del recibo la información relativa al bien aportado y el criterio de valuación que se haya utilizado. Dichas aportaciones deberán destinarse únicamente para el cumplimiento del objeto del partido político que haya sido beneficiado con la aportación.
+c) Región Noroeste;
 
-Asimismo, cuando existan folios cancelados, éstos se deberán remitir a la Dirección anexos a los informes trimestral y de gastos de campaña de manera completa, entendiéndose por tal original y cada una de sus copias.
+d) Región Norte;
 
-###### ARTÍCULO 72.
+e) Región Este;
 
-Los partidos políticos deberán llevar un registro centralizado de las aportaciones en dinero que en un ejercicio haga cada persona física o moral. Este registro permitirá conocer el monto acumulado de los donativos de cada persona y se remitirá a la Dirección junto con el informe anual del año que corresponda.
+f) Región Sureste,
 
-###### ARTÍCULO 73.
+g) Región Noreste, y
 
-Los recursos provenientes de financiamiento privado, además de ajustarse a las disposiciones contenidas en el presente Reglamento, se sujetarán a las reglas señaladas en los artículos 48, 49 y 50 del Código.
+h) Región Nornoreste.
 
-###### ARTÍCULO 74.
+II. Dos especialistas de reconocido prestigio en la protección y defensa de los derechos humanos, con conocimiento en la búsqueda de Personas Desaparecidas o en la investigación y persecución de los delitos previstos en la Ley General. Se garantizará que uno de los especialistas siempre lo sea en materia forense, y
 
-Dentro de los quince días posteriores al acuerdo del Consejo donde se determine el total del financiamiento público a otorgarse a los partidos políticos, la Dirección realizará los cálculos correspondientes a los límites señalados en el artículo 48, incisos a y c del Código, e informará de ellos por oficio a los partidos políticos.
+III. Tres representantes de organizaciones de la sociedad civil de derechos humanos.
 
-###### ARTÍCULO 75.
+Las y los integrantes a que se refieren las fracciones anteriores deben ser nombradas por la Legislatura del Estado, previa consulta pública y con la participación efectiva y directa de las organizaciones de Familiares, de las organizaciones defensoras de los derechos humanos, de los grupos organizados de Víctimas y expertos en las materias de esta Ley.
 
-Los partidos políticos deberán contabilizar y registrar en un control por separado, los montos obtenidos en cada una de las colectas que realicen, deduciendo los gastos en que hubieren incurrido por cada una de ellas. Este registro se remitirá a la Dirección junto con el informe anual o de actividades tendientes a la obtención del voto del año que corresponda, según sea el caso.
+La duración de su función será de tres años, sin posibilidad de reelección, serán renovados de manera escalonada, y no deberán desempeñar ningún cargo como persona servidora pública.
 
-###### ARTÍCULO 76.
+La Legislatura determinará los municipios que conforman las ocho regiones que se mencionan en la fracción I de este artículo a propuesta del Mecanismo Estatal.
 
-El autofinanciamiento de los partidos políticos estará constituido de acuerdo a lo señalado en el artículo 48 fracción III del Código.
+###### Artículo 35.
 
-###### ARTÍCULO 77.
+Las y los integrantes del Consejo Estatal ejercerán su función en forma honorífica, y no deben recibir emolumento o contraprestación económica alguna por su desempeño.
 
-Los ingresos por autofinanciamiento estarán apoyados en un control por cada evento, que deberá contener número consecutivo, tipo de evento, forma de administrarlo, fuente de ingresos, control de folios, números y fechas de las autorizaciones legales para su celebración, importe total de los ingresos brutos obtenidos, importe desglosado de los gastos, ingreso neto obtenido, y nombre y firma del responsable del evento. Este control, así como el recibo que expida el propio partido político de los ingresos que haya obtenido en cada uno de los eventos y las copias simples de las autorizaciones legales de los eventos pasará a formar parte del sustento documental del registro del ingreso del evento. Este registro se remitirá a la Dirección anexo al informe anual que corresponda, o al de gastos de campaña respectivo, según sea el caso.
+Las personas integrantes del Consejo Estatal Ciudadano deben elegir a quien coordine los trabajos de sus sesiones, por mayoría de votos, quien durará en su encargo un año.
 
-###### ARTÍCULO 78.
+El Consejo Estatal Ciudadano emitirá sus reglas de funcionamiento en las que determinará los requisitos y procedimientos para nombrar a la persona que funja como Secretaria Técnica, la convocatoria a sus sesiones bimestrales y contenidos del orden del día de cada sesión.
 
-Para obtener el financiamiento por rendimientos financieros, los partidos políticos se sujetarán a lo señalado en el artículo 48 fracción IV del Código.
+Las recomendaciones, propuestas y opiniones del Consejo Estatal Ciudadano deberán ser comunicadas a la Comisión de Búsqueda de Personas y a las autoridades del Mecanismo Estatal en su caso y deberán ser consideradas para la toma de decisiones. La autoridad que determine no adoptar las recomendaciones que formule el Consejo ciudadano, deberá exponer las razones para ello.
 
-###### ARTÍCULO 79.
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
-Se considerarán ingresos por rendimientos financieros los intereses que obtengan los partidos políticos por las cuentas bancarias a que se hace referencia en el presente Reglamento, así como los provenientes de inversiones en valores o cualquier otra operación financiera.
+La Consejería Jurídica proveerá al Consejo Estatal Ciudadano de los recursos financieros, técnicos, de infraestructura y humanos necesarios para el desempeño de sus funciones. La Legislatura del Estado de México garantizará la suficiencia presupuestal para tal efecto.
 
-###### ARTÍCULO 80.
+###### Artículo 36.
 
-Los fondos y fideicomisos deberán ser registrados ante la Dirección, remitiendo un ejemplar del contrato o convenio correspondiente, dentro de los treinta días siguientes a su constitución.
+El Consejo Estatal Ciudadano tiene las funciones siguientes:
 
-## TÍTULO IV. DE LOS INFORMES DE LOS PARTIDOS POLÍTICOS
+I. Proponer a la Comisión de Búsqueda de Personas y a las autoridades del Mecanismo Estatal acciones para acelerar o profundizar sus labores, en el ámbito de sus competencias;
 
-###### ARTÍCULO 81.
+II. Proponer acciones a las instituciones que forman parte del Mecanismo Estatal para ampliar sus capacidades, incluidos servicios periciales y forenses;
 
-Los ingresos que perciban los partidos políticos por rendimientos financieros, fondos o fideicomisos, estarán sustentados con los estados de cuenta que les remitan las instituciones bancarias o financieras, así como por los documentos en que consten los actos constitutivos o modificatorios de las operaciones financieras de los fondos o fideicomisos correspondientes.
+III. Proponer acciones para mejorar el cumplimiento de los programas, registros, bancos y herramientas materia la Ley General y esta Ley;
 
-###### ARTÍCULO 82.
+IV. Proponer, acompañar y, en su caso, brindar las medidas de asistencia técnica para la búsqueda de personas, incluyendo casos de larga data;
 
-Para los efectos de este capítulo, se considera como transferencia local aquella transmisión de títulos nominativos o de fondos de una cuenta bancaria a otra, dentro del mismo banco o entre bancos distintos, realizadas por el Órgano Directivo Estatal u órgano equivalente a los Órganos Directivos Distritales y Órganos Directivos Municipales u órganos equivalentes.
+V. Solicitar información a cualquier autoridad integrante de la Comisión de Búsqueda de Personas y del Mecanismo Estatal para el ejercicio de sus atribuciones, y hacer las recomendaciones pertinentes;
 
-###### ARTÍCULO 83.
+VI. Acceder a la información estadística generada a través de las diversas herramientas con las que cuenta la Comisión de Búsqueda de Personas y las autoridades que integran el Mecanismo Estatal para el ejercicio de sus atribuciones;
 
-Quedan prohibidas las transferencias pecuniarias entre las cuentas bajo los rubros de actividades ordinarias, el acceso equitativo a los medios de comunicación y actividades tendientes a la obtención del voto.
+VII. Contribuir en la promoción de las acciones, políticas públicas, programas y proyectos relacionados con el objeto de esta Ley;
 
-###### ARTÍCULO 84.
+VIII. Dar vista a las autoridades competentes y órganos internos de control sobre las irregularidades en las actuaciones de personas servidoras públicas relacionadas con la búsqueda e investigación de Personas Desaparecidas. Se le reconocerá interés legítimo dentro de las investigaciones para la determinación de responsabilidades de las personas servidoras públicas relacionadas con la búsqueda e investigación de Personas Desaparecidas en términos de las disposiciones jurídicas aplicables;
 
-Las transferencias realizadas por el Órgano Directivo Estatal u órgano equivalente al Órgano Directivo Distrital y Órgano Directivo Municipal u órganos equivalentes, serán depositados en cuentas bancarias, a las cuales podrán ingresar solamente esta clase de recursos. Los estados de cuenta respectivos deberán conciliarse mensualmente y el Órgano Interno del partido deberá remitirlos a la autoridad electoral cuando ésta lo solicite. Estas cuentas se identificarán en los catálogos de cuentas como CBT (Cuenta Bancaria Transferencias)-(PARTIDO)-(DISTRITO, MUNICIPIO)-(NÚMERO). Los partidos políticos deberán acreditar el origen de todos los recursos depositados en dichas cuentas.
+IX. Emitir recomendaciones sobre la integración y operación de la Comisión de Búsqueda de Personas y el Mecanismo Estatal;
 
-###### ARTÍCULO 85.
+X. Elaborar, modificar y aprobar la Guía de procedimientos del Comité previsto en el artículo 37 de esta Ley;
 
-Las transferencias realizadas por un partido político a una de sus organizaciones adherentes o instituciones similares deberán depositarse en cuentas bancarias por cada organización, que serán manejadas conforme a los estatutos de cada partido o la reglamentación correspondiente, y a las cuales solamente podrán ingresar recursos de esta clase. Los estados de cuenta respectivos deberán conciliarse mensualmente y el Órgano Interno del partido deberá remitirlos a la autoridad electoral cuando ésta lo solicite. Estas cuentas se identificarán en los catálogos de cuentas como CBTOA (Cuenta Bancaria Transferencias Organizaciones Adherentes) (PARTIDO)-(ORGANIZACIÓN)-(NUMERO). Sólo podrán realizarse transferencias de esta clase una vez que se haya incorporado la organización al registro a que se refiere el artículo 65 del presente Reglamento.
+XI. Compartir con la Fiscalía Estatal los resultados de investigaciones, en materia de Personas Desaparecidas, que de manera independiente realicen las organizaciones de la sociedad civil, y
 
-###### ARTÍCULO 86.
+XII. Las demás que señale el Reglamento.
 
-Todos los recursos que sean transferidos de las cuentas CBCDE al Órgano Directivo Distrital y Órgano Directivo Municipal u órganos equivalentes deberán ingresar a alguna cuenta CBT.
+###### Artículo 37.
 
-###### ARTÍCULO 87.
+El Consejo Estatal Ciudadano conformará, de entre las personas que lo integran, un Comité para la evaluación y seguimiento de las acciones emprendidas por la Comisión de Búsqueda de Personas, que tendrá las siguientes atribuciones:
 
-Todas las transferencias de recursos que se efectúen conforme a lo establecido en este capítulo deberán estar registradas como tales en la contabilidad del partido, y deberán conservarse las pólizas de los cheques correspondientes junto con los recibos internos que hubiere expedido el Órgano Directivo Estatal, Órgano Directivo Distrital, Órgano Directivo Municipal u órganos equivalentes del partido u organización adherente que reciba los recursos transferidos.
+I. Solicitar información relacionada con los procedimientos de investigación de manera general y los procedimientos de búsqueda y localización;
 
-###### ARTÍCULO 88.
+II. Conocer y emitir Recomendaciones sobre los criterios de idoneidad, convenios, lineamientos, programas, protocolos y reglamentos que emita la Comisión de Búsqueda de Personas y el Mecanismo Estatal, previa información a las personas que integran el Consejo Estatal Ciudadano;
 
-Todos los egresos efectuados con los recursos transferidos conforme al presente capítulo deberán estar soportados de conformidad con lo dispuesto en e] capítulo V del presente título.
+III. Dar seguimiento y evaluar el cumplimiento de las Recomendaciones que formule a la Comisión de Búsqueda de Personas y al Mecanismo Estatal;
 
-###### ARTÍCULO 89.
+IV. Dar seguimiento a la implementación en el Estado de México del Programa Nacional de Búsqueda de Personas Desaparecidas y del Programa Nacional de Exhumaciones e Identificación Forense;
 
-Para los efectos de este capítulo, se considera como transferencia federal aquella transmisión pecuniaria de una cuenta bancaria a otra, dentro del mismo banco o entre bancos distintos, así como las efectuadas en especie realizadas por el Comité Ejecutivo Nacional u órgano equivalente de cada partido político a sus Órganos en el Estado.
+V. Dar seguimiento a la implementación de las buenas prácticas y los protocolos que garanticen los derechos de las víctimas en las investigaciones;
 
-###### ARTÍCULO 90.
+VI. Contribuir, de acuerdo a lo establecido en la presente Ley, la Ley General y demás disposiciones aplicables, a la participación directa de los Familiares en el ejercicio de sus atribuciones, y
 
-Todas las transferencias federales que sean realizadas por el Comité Ejecutivo Nacional u Órgano equivalente de cada partido político a sus Órganos en el Estado deberán comunicarse ante el Instituto. Para tal efecto, dicha comunicación será exclusivamente de carácter informativo a fin de cumplimentar lo referente a los gastos totales aplicados a cada campaña.
+VII. Las demás que determine el Consejo Estatal Ciudadano, en el marco de sus atribuciones.
 
-###### ARTÍCULO 91.
+### CAPÍTULO CUARTO. De los Grupos de Búsqueda
 
-Todos los recursos pecuniarios y en especie federales comunicados al Instituto y que sean utilizados para las actividades tendientes a la obtención del voto, deberán ser presentados de acuerdo al tipo de elección y demarcación electoral, identificando el Distrito o Municipio electoral donde fueron aplicados.
+###### Artículo 38.
 
-###### ARTÍCULO 92.
+La Comisión de Búsqueda de Personas contará con Grupos de Búsqueda integrados por personas servidoras públicas especializadas en la búsqueda de personas.
 
-La Comisión, a través del Órgano competente del Instituto, podrá, en términos de lo establecido por el artículo 5 del Código, solicitar información a la autoridad electoral federal, respecto de la transferencia de recursos federales.
+La Comisión de Búsqueda de Personas, deberá capacitar, conforme a los más altos estándares internacionales, a las personas servidoras públicas que integren los Grupos de Búsqueda en materia de derechos humanos, perspectiva de género, interés superior de la niñez, atención a las Víctimas, sensibilización y relevancia específica de la Desaparición de Personas, aplicación del Protocolo Homologado de Búsqueda, Protocolo Homologado para la investigación, identificación forense, cadena de custodia, entre otros. De igual forma, podrán participar con las autoridades competentes, en la capacitación de las personas servidoras públicas conforme a los lineamientos que sobre la materia emita el Sistema Nacional, en términos de la Ley General.
 
-###### ARTÍCULO 93.
+Con independencia de lo anterior, la Comisión de Búsqueda de Personas podrá auxiliarse por personas especializadas en búsqueda de personas, así como por cuerpos policiales especializados que colaboren con las autoridades competentes, en términos de las disposiciones aplicables.
 
-Para los efectos de este Reglamento se considera como:
+###### Artículo 39.
 
-I. Gastos para el sostenimiento de actividades ordinarias permanentes, los efectuados en bienes y servicios devengados aun cuando no hayan sido pagados, destinados a la realización de las actividades administrativas y de operación durante un periodo determinado y que son requeridos para la consecución de los programas, metas, actividades y acciones fijados por los institutos políticos para el sostenimiento de sus actividades continuas o normales;
+Los Grupos de Búsqueda, para el adecuado cumplimiento de sus acciones, tienen las siguientes atribuciones:
 
-II. Gastos para el acceso equitativo a los medios de comunicación, los servicios devengados aun cuando no hayan sido pagados proporcionados por los medios de comunicación social y cuya finalidad sea la exposición, información, desarrollo, discusión y difusión ante la ciudadanía de los programas, metas, actividades y acciones fijadas por los institutos políticos de sus actividades continuas y normales no relacionadas con la obtención del voto;
+I. Generar la metodología para la búsqueda inmediata, considerando el Protocolo Homologado de Búsqueda y otros existentes;
 
-III. Gastos para actividades tendientes a la obtención del voto: los efectuados en bienes y servicios devengados durante el periodo de campañas electorales de los partidos políticos y/o coaliciones, en su caso, aun cuando no hayan sido pagados, que son requeridos por los institutos políticos para promover a sus candidatos registrados ante los Órganos Electorales para la obtención del voto, que corresponda a los siguientes rubros:
+II. Solicitar a la Fiscalía Especializada para que realice actos de investigación específicos sobre la probable comisión de un delito, que puedan llevar a la búsqueda, localización o identificación de una persona, así como al esclarecimiento de los hechos en términos de lo dispuesto en el Código Nacional. Lo anterior, sin perjuicio del ejercicio directo de las facultades con que cuenta la Comisión de Búsqueda de Personas, para realizar acciones relacionadas con la búsqueda de personas previstas en esta ley;
 
-a) De propaganda: aquéllos efectuados por los partidos políticos y/o coalición en su caso y los candidatos con la finalidad de obtener, producir y difundir propaganda que haya de emplearse o distribuirse durante el periodo de campañas electorales.
+III. Implementar un mecanismo ágil y eficiente, que coadyuve a la pronta localización de personas reportadas como desaparecidas y salvaguarde sus derechos humanos;
 
-b) Operativos de campaña: aquellos efectuados por los partidos políticos y/o coaliciones en su caso y los candidatos registrados que comprenden los sueldos y salarios del personal eventual, el arrendamiento eventual de bienes muebles e inmuebles, el transporte de material y personal, viáticos y los valores de registro de las aportaciones de uso de los bienes muebles o inmuebles otorgados en comodato u otros relacionados de manera directa, durante el periodo de campañas electorales;
+IV. Garantizar, en el ámbito de su competencia, la preservación de la evidencia, el lugar de los hechos y del hallazgo, así como en los que se encuentren o se tengan razones fundadas para presumir que hay cadáveres o restos humanos de Personas Desaparecidas;
 
-c) En medios de comunicación social: aquéllos efectuados por los partidos políticos y/o coaliciones en su caso y los candidatos registrados en medios de comunicación social con la finalidad de difundir las actividades realizadas por los partidos políticos y/o las coaliciones, en su caso, y los candidatos registrados para la obtención del voto durante el periodo de campañas electorales; y
+V. Coordinarse e intercambiar información constante con la Fiscalía Especializada y la Comisión Ejecutiva Estatal para la atención integral a Víctimas, a fin de evitar procesos de revictimización, y
 
-d) En sondeos y encuestas de opinión sobre asuntos electorales: aquéllos efectuados por los partidos políticos y/o coaliciones en su caso y los candidatos registrados en la contratación de empresas o personas físicas con actividades empresariales dedicadas a la investigación de la opinión pública y la realización de encuestas y sondeos, así como la difusión de los resultados durante el periodo de campañas electorales.
+VI. Las demás que para tal efecto disponga la persona titular de la Comisión de Búsqueda de Personas conforme lo estime pertinente o por recomendación del Consejo Estatal o del Mecanismo Estatal.
 
-Se entenderá como medios de comunicación social: la televisión, la radio, la prensa, el teléfono y el internet.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-El importe de los gastos efectuados por los nuevos candidatos a un cargo de elección popular, no deberán rebasar el tope de gastos de campaña.
+###### Artículo 40.
 
-La Dirección notificará a los partidos políticos y/o coaliciones el tope de gastos de campañas, dentro de los cinco días siguientes a su aprobación por parte del Consejo.
+Las Instituciones de Seguridad Pública del Estado y municipales, en el ámbito de sus respectivas competencias, deben contar y garantizar la disponibilidad inmediata, de personal especializado y capacitado con los más altos estándares internacionales, técnicos y científicos para la búsqueda e investigación de los delitos, con pleno respeto a los derechos humanos y con enfoque psicosocial en materia de búsqueda de personas. Dicho personal debe atender las solicitudes de la Comisión de Búsqueda de Personas, según corresponda.
 
-En caso de que un candidato inicie campaña representando a un partido político o coalición y posteriormente sea registrado como candidato de otro instituto político o coalición, considerará los egresos que efectúe en el primer instituto político por el que contienda, con los egresos que registre en el subsiguiente partido político por el que haga campaña, para efectos de los topes a los gastos de campaña.
+El personal al que se refiere el párrafo anterior, además de cumplir con la certificación respectiva, debe acreditar los criterios de idoneidad que emita la Comisión Nacional.
 
-###### ARTÍCULO 94.
+### CAPÍTULO QUINTO. Del Fondo Estatal de Desaparición
 
-Los partidos políticos deberán utilizar los recursos otorgados por el Instituto bajo el rubro de financiamiento público, exclusivamente en el sostenimiento de sus actividades ordinarias, el acceso a los medios de comunicación y para sus actividades tendientes a la obtención del voto respectivamente, de acuerdo a la asignación del acuerdo del Consejo.
+###### Artículo 41.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+El Ejecutivo del Estado deberá constituir un fondo para que la Comisión de Búsqueda de Personas pueda contar con recursos, de manera inmediata, para la adquisición o arrendamiento de equipo que resulte necesario para llevar a cabo acciones de búsqueda de personas.
 
-###### ARTÍCULO 95.
+###### Artículo 42.
 
-Los egresos deberán registrarse contablemente y estar soportados con la documentación en original que expida a nombre del partido político y en caso de coaliciones a nombre del partido político que señale el convenio respectivo, por la persona física o moral a quien se efectuó el pago, debiéndose conservar las pólizas correspondientes anexas a la documentación comprobatoria. Dicha documentación deberá cumplir con los requisitos que exigen las disposiciones fiscales aplicables. Asimismo deberá anexarse como soporte a los informes trimestrales y al informe de actividades tendientes a la obtención del voto, con excepción de lo señalado en el siguiente párrafo.
+El patrimonio del Fondo Estatal se integrará de la siguiente manera:
 
-Se podrá comprobar vía bitácora aquellos gastos menores que no reúnan los requisitos fiscales hasta en un valor equivalente a treinta días de salario mínimo vigente en el Estado de Puebla, de acuerdo a las siguientes reglas:
+I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado;
 
-a) Bajo el rubro del sostenimiento de actividades ordinarias permanentes por cada uno de los trimestres que conforman el periodo del primer día del mes de enero al último día del mes de diciembre de cada año; y
+II. Recursos que destine la Federación al Fondo Estatal de Desaparición;
 
-b) Bajo el rubro de actividades tendientes a la obtención del voto para cada uno de los candidatos registrados a Gobernador del Estado, Diputados de mayoría relativa y por cada uno de los candidatos registrados a miembros de ayuntamientos.
+III. Donaciones de personas físicas o jurídico colectivas;
 
-Por lo anterior, se podrán comprobar en una bitácora según el anexo I de este Reglamento, los gastos menores que no reúnan los requisitos fiscales, en los que se señalen con toda precisión los siguientes conceptos: fecha, concepto del gasto, monto, lugar donde se efectuó el gasto y nombre o razón social de la persona a quien se efectuó el pago, independientemente de la obligación de anexar los documentos que no cumplan con los requisitos fiscales, dichas bitácoras deberán contener la firma de autorización del Órgano Interno y de la persona que efectuó el pago.
+IV. Los rendimientos que generen los recursos del Fondo Estatal de Desaparición, y
 
-En caso que en la revisión realizada por el Instituto a los diversos informes justificatorios que presenten los partidos políticos y/o coaliciones, así como de los diversos medios de verificación de que el mismo puede allegarse, se detecten gastos que no fueron reportados por los institutos políticos, se requerirá a estos últimos que informen sobre el origen, monto y destino de dichos gastos, a efecto de determinar lo conducente.
+V. Los demás ingresos que por ley le sean asignados.
 
-## TÍTULO V. DEL REGISTRO DE LOS INGRESOS, TRANSFERENCIAS Y EGRESOS DE LOS PARTIDOS POLÍTICOS
+###### Artículo 43.
 
-###### ARTÍCULO 96.
+En la aplicación de los recursos del Fondo Estatal de Desaparición se observarán los principios de publicidad, legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
 
-Todo documento que ampare un egreso, deberá contener el sello del partido político y/o coalición.
+###### Artículo 44.
 
-El sello deberá registrarse ante la Dirección de Prerrogativas, Partidos Políticos y Medios de Comunicación, dentro de los primeros quince días del mes de enero del año que se reporta para el caso de partidos políticos y respecto a las coaliciones dentro de los primeros quince días contados a partir del día siguiente a que el Consejo General resuelva sobre la solicitud de registro del convenio de coalición, el cual deberá reunir los siguientes requisitos:
+El ejercicio de los recursos del Fondo Estatal de Desaparición se realizará conforme a los criterios de transparencia, oportunidad, eficacia y racionalidad; y el Órgano Superior de Fiscalización del Estado de México, fiscalizará en los términos de la legislación local aplicable, su uso y destino, asimismo los recursos federales serán fiscalizados en términos de las disposiciones jurídicas aplicables.
 
-a) Emblema del partido político y/o coalición;
+### CAPÍTULO SEXTO. De la Fiscalía Especializada
 
-b) Denominación del partido político y/o coalición; y
+###### Artículo 45.
 
-c) Nombre del Órgano Interno encargado de la administración de los recursos por concepto de financiamiento.
+La Fiscalía Estatal contará con una Fiscalía Especializada para la investigación y persecución de los delitos de desaparición forzada de personas, desaparición cometida por particulares y delitos vinculados con la desaparición de personas, la cual deberá coordinarse con la Fiscalía Especializada de la Fiscalía General y Fiscalías Especializadas de otras Entidades Federativas a efecto de dar impulso permanente a la búsqueda de Personas Desaparecidas.
 
-Para efectos del registro del sello, los partidos políticos y/o coaliciones remitirán, mediante oficio, hoja que contenga la impresión del referido sello.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], G.G. 4 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+La Fiscalía Especializada a que se refiere el primer párrafo de este artículo, debe contar con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios; con capacidad de presentar con perspectiva de género, los casos ante un tribunal, así como con:
 
-###### ARTÍCULO 97.
+I. Unidades especializadas de investigación;
 
-Todo pago que rebase la cantidad de $5,500.00 (Cinco mil quinientos pesos 00/100 MN.) deberá realizarse mediante cheque nominativo expedido a nombre del prestador del bien o servicio, y que contenga la leyenda "para abono en cuenta del beneficiario", exceptuando los pagos de nómina. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia fotostática del cheque a que hace referencia este artículo.
+II. Unidades de análisis de contexto;
 
-En caso de que un comprobante rebase la cantidad equivalente al límite establecido en el artículo anterior de este Reglamento y el pago se realice en parcialidades, éstas deberán ser cubiertas mediante cheque nominativo en los términos de dicho artículo a partir del monto por el cual exceda el límite referido.
+III. Unidades de atención y seguimiento a víctimas;
 
-Los partidos políticos podrán realizar erogaciones por concepto de anticipos a proveedores, entendiéndose por éstos aquellas cantidades entregadas como parte o a cuenta de una cantidad global; bajo el rubro de actividades tendientes a la obtención del voto, desde el momento en que reciben el financiamiento público por este rubro y hasta que estén registrados los candidatos, siempre que:
+IV. Unidades de búsqueda inmediata y de larga data, y
 
-a) La póliza cheque esté soportada por el documento que contenga los datos del proveedor y el concepto por el que recibe el anticipo;
+V. Áreas especializadas en delitos cibernéticos.
 
-b) Que se trate de la adquisición de bienes a contratación de servicios que requieran de tiempo para su apartado, elaboración o entrega, como es la renta de salón, adquisición de propaganda, etc;
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE FEBRERO DE 2026)</small>
 
-c) La entrega del bien adquirido o el disfrute del servicio contratado se pacte en fecha posterior al registro de candidatos; y
+La Fiscalía Especializada a que se refiere el presente artículo deberá contar con personal sustantivo ministerial, policial, pericial, de análisis de contexto y de apoyo psicosocial, quienes deberán cumplir con los perfiles establecidos por la Conferencia Nacional de Procuración de Justicia.
 
-d) El pago que finiquite el adecuado y la factura que expida el proveedor sea dentro de las fechas que comprende la campaña electoral.
+> <small>(ADICIONADO [N. DE E. REUBICADO], G.G. 4 DE FEBRERO DE 2026)</small>
 
-###### ARTÍCULO 98.
+Todas las autoridades, en el ámbito de su competencia, están obligadas a colaborar de forma eficiente y eficaz con la Fiscalía Especializada para el cumplimiento de la Ley.
 
-Los partidos políticos deberán crear fondos revolventes para el pago (sic) gastos menores.
+###### Artículo 46.
 
-###### ARTÍCULO 99.
+Las personas servidoras públicas que integren la Fiscalía Especializada deberán cumplir, como mínimo, los siguientes requisitos:
 
-Para el manejo de los egresos que se efectúen en las campañas políticas para Presidente Municipal, cada partido político deberá abrir en el catálogo de cuentas subcuentas de la cuenta GASTOS POR COMPROBAR PM (Presidente Municipal), que se deberán comprobar al final de la jornada electoral.
+I. Tener acreditados los requisitos de ingreso y permanencia de la institución respectiva, de conformidad con la Ley de la Fiscalía General de Justicia del Estado de México y la Ley General del Sistema Nacional de Seguridad Pública;
 
-###### ARTÍCULO 100.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-Para el manejo de los egresos que se efectúen en las campañas políticas para Diputados al Honorable Congreso del Estado por el principio de mayoría relativa, cada partido político deberá abrir subcuentas de la cuenta GASTOS POR COMPROBAR DMR (Diputados Mayoría Relativa), que se deberán comprobar al final de la jornada electoral.
+II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Justicia, la Ley General del Sistema Nacional de Seguridad Pública, y deberá de ser acorde a los objetivos señalados en el artículo anterior, y
 
-###### ARTÍCULO 101.
+III. Acreditar los cursos de especialización, capacitación y de actualización, que establezca la Conferencia Nacional de Procuración de Justicia, según corresponda.
 
-Para el manejo de los egresos que se efectúen en las campañas políticas para Gobernador del Estado, cada partido político deberá abrir una subcuenta de la cuenta de GASTOS POR COMPROBAR GOB (Gobernador), que se deberá comprobar al final de la jornada electoral.
+La Fiscalía Estatal debe capacitar, conforme a los más altos estándares internacionales, a las personas servidoras públicas adscritas a la Fiscalía Especializada en materia de derechos humanos, perspectiva de género, interés superior de la niñez, atención a las Víctimas, sensibilización y relevancia específica de la Desaparición de Personas, aplicación del Protocolo Homologado de Investigación y demás protocolos sobre identificación forense, cadena de custodia, entre otros. De igual forma, podrá participar con las autoridades competentes, en la capacitación de las personas servidoras públicas, conforme a los lineamientos que sobre la materia emita el Sistema Nacional, en términos de esta Ley.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+###### Artículo 47.
 
-###### ARTÍCULO 102.
+La Fiscalía Especializada tiene, en el ámbito de su competencia, además de las atribuciones establecidas en la Constitución Federal, el Código Nacional, la Ley General, las siguientes:
 
-Un partido político y/o coalición no podrá presentar saldos financieros positivos en cuentas por cobrar, tales como “Deudores Diversos”, “Gastos por comprobar” o “Anticipo a Proveedores”, salvo que el candidato informe de la existencia de algún caso fortuito o de fuerza mayor, señalando que dichos importes deberán ser reintegrados monetariamente mediante depósito o la cuenta bancaria en la que el partido administre su funcionamiento público para actividades ordinarias permanentes, en el caso de las coaliciones, se transferirá a las cuentas bancarias de los partidos que la integra en la proposición que hayan determinado en el respectivo convenio de coalición.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-Lo anterior en el entendido que los recursos transferidos sólo podrán ser utilizados en cualquier campaña constitucional local.
+I. Recibir las Denuncias relacionadas con la probable comisión de hechos constitutivos de los delitos materia de la Ley General, esta Ley, e iniciar la carpeta de investigación correspondiente; así como ordenar las diligencias o actos de investigación que correspondan en el ámbito de su competencia;
 
-Para el manejo de los egresos por concepto de “Préstamos al personal” y “deudores diversos”, la póliza de cheques deberá respaldarse con recibo que especifique las condiciones, plazo y términos del préstamo, anexando copia de la identificación oficial del deudor, recuperándose el total del importe total prestado y reintegrándose mediante depósito a la cuenta bancaria que le dio origen.
+II. Mantener coordinación con la Comisión de Búsqueda de Personas para realizar todas las acciones relativas a la investigación y persecución de los delitos materia de la Ley General, conforme al Protocolo Homologado de Investigación, al Protocolo Homologado de Búsqueda y demás disposiciones aplicables;
 
-Para justificar egresos por concepto de artículos de despensa y/o alimentos procesados los cuales sean suministrados al personal del partido, se anexará al comprobante, relación que contenga el nombre y firma de los empleados beneficiados con tal prestación.
+III. Dar aviso de manera inmediata, a través del Registro correspondiente, a la Comisión de Búsqueda de Personas sobre el inicio de una investigación de los delitos materia de esta Ley, a fin de que se inicien las acciones correspondientes a la búsqueda; así como compartir la información relevante, de conformidad con el Protocolo Homologado de Investigación y demás disposiciones aplicables;
 
-###### ARTÍCULO 103.
+IV. Mantener comunicación continua y permanente con la Comisión de Búsqueda de Personas, a fin de compartir información que pudiera contribuir en las acciones para la búsqueda y localización de personas, en términos de las disposiciones aplicables;
 
-Si al cierre del ejercicio del año que comprende el informe anual, un partido político presenta en su contabilidad saldos positivos en las cuentas por cobrar, tales como "Deudores Diversos", "Préstamos al Personal", "Gastos por comprobar", "Anticipo a Proveedores" o cualquier otra, y al cierre del ejercicio siguiente los mismos gastos continúan sin haberse comprobado éstos serán considerados como no comprobados, salvo que el partido informe oportunamente de la existencia de algún caso fortuito o de fuerza mayor, para lo cual dichos saldos deberán ser reintegrados monetariamente mediante depósito a la cuenta bancaria que les dio origen dentro del plazo para la presentación del informe anual señalado en el artículo 18 del presente Reglamento.
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-###### ARTÍCULO 104.
+IV Bis. Proporcionar a la Comisión Nacional la información ministerial y pericial que ésta le solicite, tendiente a la búsqueda de personas con fines de identificación humana y entregar al Centro Nacional la información correspondiente bajo los criterios de homologación definidos por la Comisión;
 
-Para comprobar egresos por concepto de salarios y en general por la prestación de un servicio personal subordinado, se deberá sujetar a las disposiciones fiscales aplicables y de seguridad social que están obligados a cumplir.
+V. Informar de manera inmediata a la Comisión de Búsqueda de Personas, la localización o identificación de una Persona;
 
-Cabe señalar que este tipo de erogaciones se comprobarán anexando a la póliza respectiva la nómina, los recibos de pago por este concepto (con la copia simple de la credencial para votar) y los documentos que servirán de base para realizar los cálculos de las deducciones y obligaciones que presente dicha nómina.
+VI. Mantener comunicación continua y permanente, con el Mecanismo de Apoyo Exterior previsto en la Ley General y la Unidad de Investigación de Delitos para Personas Migrantes, para recibir, recabar y proporcionar información sobre las acciones de investigación y persecución, de los delitos materia de la Ley General, cometidos en contra de personas migrantes;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+VII. Tramitar la localización geográfica, en los términos establecidos en el Código Nacional;
 
-###### ARTÍCULO 105.
+VIII. Solicitar a través del titular de la Fiscalía Estatal la autorización para ordenar la intervención de comunicaciones, en términos de las disposiciones aplicables;
 
-Para comprobar egresos por concepto de pago de honorarios que se asimilan a salarios personales subordinados, se deberá anexar a las pólizas respectivas los recibos de pago correspondientes (con la copia simple de la credencial para votar), así como los papeles de trabajo utilizados para el cálculo de los impuestos que señalan las disposiciones fiscales y copia del escrito en el cual se comunica el prestatario que optan por pagar el impuesto en términos del capítulo de los ingresos por salarios y en general por la prestación de un servicio personal subordinado de la Ley de Impuesto Sobre la Renta.
+IX. Tramitar sin dilación aquellos actos que requieran de autorización judicial, que previamente hayan sido solicitados por la Comisión de Búsqueda de Personas, para la búsqueda y localización de una Persona Desaparecida e informarle;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+X. Conformar grupos de trabajo interinstitucionales y multidisciplinarios para la coordinación de la investigación de hechos probablemente constitutivos de los delitos materia de la Ley General, cuando de la información con la que cuente la autoridad se desprenda que pudieron ocurrir en dos o más Entidades Federativas o se trata de una persona extranjera en situación de migración, independientemente de su situación migratoria;
 
-###### ARTÍCULO 106.
+XI. Solicitar el apoyo policial a las autoridades competentes, para realizar las tareas de investigación en campo;
 
-Para comprobar egresos por concepto de reconocimientos por actividades políticas (REPAP), cada candidato registrado, hasta en un monto equivalente al diez por ciento del total de egresos reportados en su campaña electoral, podrá otorgar reconocimientos en efectivo a las personas que participen en actividades de apoyo político, dentro del periodo que comprendan las campañas electorales, debiendo observar lo siguiente:
+XII. Recabar la información necesaria para la persecución e investigación de los delitos previstos en la Ley General u otras leyes;
 
-a) Los reconocimientos deberán estar soportados por recibos según el formato XIII que forma parte de este Reglamento, anexando copia simple de la credencial para votar de la persona que recibe el reconocimiento y únicamente podrán ser pagadas a través de la cuenta bancaria de cheques bajo el rubro de actividades tendientes al voto;
+XIII. Remitir la investigación y las actuaciones realizadas a las autoridades competentes, cuando advierta la comisión de uno o varios delitos diferentes a los previstos en la Ley General;
 
-b) El Órgano interno deberá autorizar la impresión de los recibos foliados que se expedirán, e informará mediante oficio a la Dirección dentro de los treinta días siguientes, del número consecutivo de los folios de los recibos impresos. El original permanecerá en poder del Órgano Interno de cada Partido y la copia permanecerá en poder del candidato que haya otorgado el reconocimiento;
+XIV. Solicitar las medidas cautelares, de conformidad con el Código Nacional;
 
-c) Los recibos deberán estar firmados por el titular del Órgano Interno y la persona que recibe el pago;
+XV. Solicitar la participación de la Comisión Ejecutiva Estatal y de las Comisiones de Víctimas para la atención integral multidisciplinaria de las víctimas y ofendidos;
 
-d) No podrá recibir una sola persona física una cantidad equivalente o superior a $5,500.00 (Cinco mil quinientos pesos 00/100M.N.), dentro del periodo que comprenden las campañas electorales, ya sea que se paguen en una o varias exhibiciones, cuando excedan no podrán ser comprobadas a través de los recibos por reconocimiento por actividades políticas. En este caso, tales erogaciones deberán de estar soportadas de conformidad con lo establecido en los artículos 104 y 105 del presente Reglamento.
+XVI. Establecer mecanismos de cooperación, destinados al intercambio de información y adiestramiento continuo de las personas servidoras públicas especializadas en la materia;
 
-e) Los partidos políticos deberán llevar un control de recibos que se imprimirán y expedirán, para verificar los recibos cancelados, el número total de recibos impresos, los recibos utilizados con su importe total y los recibos pendientes de utilizar (formato XIV);
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-f) Con el informe de actividades tendientes a la obtención del voto, deberá presentarse relación de personas que recibieron reconocimientos por actividades políticas, así como el monto total que percibió cada una de ellas durante la campaña correspondiente (formato XV). Lo anterior deberá remitirse a la Dirección junto con el informe de actividades tendientes a la obtención del voto;
+XVII. Localizar a las familias de las personas fallecidas identificadas no reclamadas, en coordinación con las instituciones correspondientes, para poder hacer la entrega digna de cadáveres o restos humanos, conforme a lo señalado por el Protocolo Homologado de Investigación y demás normas aplicables;
 
-g) En el caso de reconocimientos por actividades políticas que no se hubieren otorgado en relación con una campaña específica, deberá seguirse con lo establecido en el artículo 107 del presente Reglamento.
+XVIII. Solicitar la participación de las instituciones y organizaciones de derechos humanos y de protección civil, en los términos de las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+XIX. Establecer coordinación e intercambio de información constante con la Comisión de Búsqueda de Personas y la Comisión Ejecutiva Estatal, para la atención integral a Víctimas, a fin de evitar procesos de revictimización;
 
-###### ARTÍCULO 107.
+XX. Solicitar a las autoridades jurisdiccionales competentes, la autorización para la realización de las exhumaciones en cementerios, fosas o de otros sitios en los que se encuentren o se tengan razones fundadas para creer que se encuentran cadáveres o restos humanos de Personas Desaparecidas;
 
-Los gastos de campaña centralizados y las erogaciones que involucren dos o más campañas podrán ser distribuidos o prorrateados, en la proporción que resulte de lo siguiente:
+XXI. Solicitar a las autoridades jurisdiccionales competentes el traslado de las personas internas a otros centros de reclusión salvaguardando sus derechos humanos, siempre que esta medida favorezca la búsqueda o localización de las Personas Desaparecidas o a la investigación de los delitos materia de la Ley General, en términos de la Ley Nacional de Ejecución Penal;
 
-a) Se sumará el importe de tope de gastos de campaña que corresponda a cada una de las campañas involucradas, considerando el resultado como el 100%;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-b) Se determinará el porcentaje que representa cada uno de los topes de gastos de campaña en cuestión, en relación con la suma determinada; y
+XXII. Registrar y actualizar de manera inmediata, la información de los registros, bases de datos y sistemas de información, desde el momento en que se inicie la investigación;
 
-c) Se distribuirán los gastos considerando los porcentajes determinados.
+XXIII. Facilitar la participación de los Familiares en la investigación de los delitos previstos en esta Ley, incluido brindar información en todo momento a los familiares sobre los avances en el proceso de la investigación y persecución de los delitos previstos en la Ley General en términos del Código Nacional;
 
-Se anexará a la factura el papel de trabajo utilizado para el cálculo del prorrateo.
+XXIV. Celebrar convenios de colaboración o cooperación, para el óptimo cumplimiento de las atribuciones que le corresponden de conformidad con la presente Ley;
 
-###### ARTÍCULO 108.
+XXV. Brindar la información que la Comisión Ejecutiva Estatal le solicite para mejorar la atención a las Víctimas, en términos de lo que establezca la Ley de Victimas del Estado y demás disposiciones aplicables;
 
-Para comprobar egresos por concepto de gasolina los partidos políticos, anexo al primer informe trimestral correspondiente al año del ejercicio que se reporte, deberán presentar inventario de equipo de transporte propiedad del partido (con la copia simple de la tarjeta de circulación), además del comprobante debidamente requisitado. Dicho inventario deberá contener el número de placa de los vehículos que integran el equipo citado anteriormente.
+XXVI. Brindar la información que el Consejo Estatal Ciudadano le solicite para el ejercicio de sus funciones, en términos de lo que establezcan las disposiciones aplicables;
 
-Se aceptarán las "notas-factura" y "remisión-factura" expedidas por las gasolineras hasta por un monto máximo de ciento veinte litros y que contengan el número de placa del o los vehículos a los cuales se les abasteció dicho combustible, este último requisito también será indispensable para el caso de facturas.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-Además, para la comprobación de gasolina para vehículos cuya propiedad no es del partido, se tendrá que remitir a la Dirección dentro del plazo señalado en el primer párrafo del presente artículo, listado de vehículos proporcionados por los funcionarios del partido para el desempeño de sus funciones (con la copia simple de la tarjeta de circulación), así como los contratos de comodato correspondientes. Dicho listado deberá contener el número de placa de los vehículos que se enlisten en el mismo.
+XXVII. Proporcionar asistencia técnica a las Fiscalías Especializadas de las Entidades Federativas que lo soliciten;
 
-Para el caso de comprobaciones bajo el rubro de actividades tendientes a la obtención del \loto también se tendrá que remitir anexo a los informes de gastos de campaña, listados de vehículos proporcionados a los candidatos registrados ante los Órganos Electorales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
-Cualquier modificación en el inventario de equipo de transporte propiedad del partido y/o listado de vehículos proporcionados por los funcionarios del partido para el desempeño de sus funciones, deberá ser notificada a la Dirección dentro de los cinco días siguientes a que se produzca.
+XXVIII. Proporcionar a las personas que hagan de conocimiento la desaparición de un familiar el número de carpeta de investigación, y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
-###### ARTÍCULO 109.
+XXIX. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
-Para comprobar egresos por concepto de mantenimiento de equipo de transporte, los partidos políticos anexo al primer informe trimestral correspondiente al año del ejercicio que se reporte, deberán presentar inventario de equipo de transporte propiedad del partido (con la copia simple de la tarjeta de circulación), además del comprobante debidamente requisitado. Dicho inventario deberá contener el número de placa de los vehículos que integran el equipo citado anteriormente.
+###### Artículo 48.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+La Fiscalía Especializada iniciará inmediatamente la carpeta de investigación, cuando el asunto no esté contemplado expresamente como competencia de la Federación. Cuando se actualicen los supuestos previstos en el artículo 24 de la Ley General, remitirá inmediatamente a su similar de la Fiscalía General los expedientes que correspondan.
 
-Además, para la comprobación de mantenimiento de equipo de transporte para vehículos cuya propiedad no es del partido, se tendrá que remitir a la Dirección dentro del plazo señalado en el primer párrafo del presente artículo, listado de vehículos proporcionados por los funcionarios del partido para el desempeño de sus funciones (con la copia simple de la tarjeta de circulación), así como los contratos de comodato correspondientes. Dicho listado deberá contener el número de placa de los vehículos que se enlisten en el mismo.
+###### Artículo 49.
 
-La documentación presentada para la comprobación de este concepto deberá contener el número de placa del o los vehículos a los cuales se les realizó dicho mantenimiento.
+Las personas servidoras públicas que sean señalados (sic) como imputados (sic) por el delito de desaparición forzada de personas, y que por razón de su encargo o influencia pueda (sic) interferir u obstaculizar las acciones de búsqueda o las investigaciones, podrán ser sujetos de medidas cautelares como la suspensión temporal de su encargo, entre otras, por la autoridad jurisdiccional competente, de conformidad con lo establecido en el Código Nacional.
 
-Para el caso de comprobaciones bajo el rubro de actividades tendientes a la obtención del voto también se tendrá que remitir anexo a los informes de gastos de campaña, listados de vehículos proporcionados a los candidatos registrados ante los Órganos Electorales.
+Adicionalmente a lo previsto en el párrafo anterior, el superior jerárquico adoptará las medidas administrativas y aquellas que resulten necesarias para impedir que la persona servidora pública interfiera con las investigaciones.
 
-Cualquier modificación en el inventario de equipo de transporte propiedad del partido y/o listado de vehículos proporcionados por los funcionarios del partido para el desempeño de sus funciones, deberá ser notificada a la Dirección dentro de los cinco días siguientes a que se produzca.
+###### Artículo 50.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+La Fiscalía Especializada deberá generar criterios y metodología específica para la investigación y persecución de los delitos de desaparición forzada de personas. En el caso de las desapariciones forzadas por motivos políticos de décadas pasadas, de conformidad con el Protocolo Homologado de Investigación, la Ley General y esta Ley, la Fiscalía Especializada deberá emitir criterios y metodología específicos que deberán permitir realizar, al menos, lo siguiente:
 
-###### ARTÍCULO 110.
+I. Los procedimientos de búsqueda permanente que se lleven a cabo para buscar personas en cualquier lugar donde se presuma pudieran estar privadas de libertad, como son centros penitenciarios, centros clandestinos de detención, estaciones migratorias, centros de salud y cualquier otro lugar en donde se pueda presumir que está la persona desaparecida, y
 
-Para comprobar egresos por concepto viáticos, los documentos que el partido político presente como comprobantes de éstos, deberán corresponder a provisiones para hacer un viaje fuera del Municipio de Puebla, siempre y cuando se destinen al hospedaje, alimentación, transporte, uso o goce temporal de automóviles, casetas de peaje y gasolina, los cuales deberán estar acompañados del formato de comprobación de viáticos, según el anexo III del presente Reglamento.
+II. Cuando se sospeche que la víctima ha sido privada de la vida, realizar las diligencias pertinentes para la exhumación de los restos en los lugares que se presume pudieran estar, de acuerdo a los estándares internacionales, siendo derecho de los Familiares, solicitar la participación de peritos especializados independientes, en términos de las disposiciones legales aplicables. En la generación de los criterios y metodología específicos, se tomarán en cuenta las sentencias y resoluciones nacionales e internacionales en materia de búsqueda e investigación de los casos de desaparición forzada.
 
-Para comprobar egresos por concepto de hospedaje y alimentos que se realicen por algún Órgano estatutario del partido, se anexará al comprobante la documentación que justifique el objeto del gasto.
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-###### ARTÍCULO 111.
+###### Artículo 50 Bis.
 
-Los comprobantes que el partido político presente como sustento de sus gastos, que indiquen que se trató de erogaciones realizadas fuera del Estado, deberán estar acompañados de evidencias que justifiquen razonablemente el objeto y las situaciones que provocaron estas erogaciones.
+La Fiscalía Estatal deberá enviar de forma mensual al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública un informe que contenga:
 
-###### ARTÍCULO 112.
+I. El número de Personas Desaparecidas y No Localizadas durante el periodo;
 
-Para comprobar egresos por concepto de servicio telefónico convencional, de telefonía celular, de radiolocalización (comunicación por radio y biper, entre otros) y de energía eléctrica, los partidos políticos deberán presentar el recibo y ticket de pago correspondientes, los cuales deberán estar expedidos a nombre del partido político que se trate y en caso de haberse expedido a nombre distinto deberá remitirse anexo a la erogación contrato de arrendamiento o contrato de comodato a favor del partido político, que deberá emitir la persona propietaria del inmueble en cuestión.
+II. El número de carpetas de investigación o averiguaciones previas por los delitos previstos en la Ley General;
 
-###### ARTÍCULO 113.
+III. El estado procesal de las carpetas de investigación o averiguaciones previas a que se refiere la fracción anterior;
 
-Para comprobar egresos efectuados para el acceso equitativo a los medios de comunicación y/o gastos de propaganda en prensa, radio y televisión los partidos políticos deberán conservar la página completa de un ejemplar original de las publicaciones que contengan las inserciones en prensa que realicen, así como de las tareas editoriales y publicaciones realizadas por los partidos (gacetas, videos, periódicos, libros, encartes, etc.) las cuales deberán anexarse a la documentación comprobatoria.
+IV. Acciones emprendidas para su búsqueda e identificación, y
 
-Los partidos políticos deberán solicitar a sus proveedores que en el interior de los comprobantes de gastos efectuados en radio y televisión, se incluya:
+V. Cualquier otra información que sea relevante para el seguimiento y cumplimiento de los objetivos previstos en esta Ley y la Ley General.
 
-a) El número del promocional transmitido;
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-b) El nombre de la campaña o slogan;
+###### Artículo 50 Ter.
 
-c) El texto del mensaje;
+La Fiscalía Estatal de forma obligatoria deberá incorporar, y actualizar permanentemente la Base Nacional de Carpetas de Investigación, con las carpetas de investigación, averiguaciones previas y los expedientes materia de esta Ley y la Ley General, de conformidad con las disposiciones que para tal efecto emita el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
 
-d) La fecha de transmisión de cada promocional;
+Los datos que se deberán de incorporar en la Base Nacional de Carpetas de Investigación serán, al menos, los siguientes:
 
-e) La hora de transmisión; y
+I. Número de la carpeta de investigación o de averiguación previa;
 
-f) El nombre de la estación o televisora, la banda, las siglas, la frecuencia en que se trasmitieron los promocionales difundidos.
+II. Nombre completo legal y social de la Persona Desaparecida o No Localizada;
 
-En caso de que la factura no contenga dichos datos, el partido político en cuestión solicitará que en hojas membreteadas (sic) de sus proveedores, se anexe una relación pormenorizada que contenga los datos citados con anterioridad, para lo cual dichas hojas deberán hacer mención del número de factura a que se refiere.
+III. Clave Única de Registro de Población;
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
+IV. Lugar y fecha de desaparición, en caso de contar con ella;
 
-###### ARTÍCULO 114.
+V. Autoridad que conoce de la investigación;
 
-Para comprobar egresos de propaganda institucional y de aquélla que tiene como finalidad promover a los candidatos registrados para la obtención del voto, los partidos políticos deberán anexar adicionalmente del comprobante correspondiente, la evidencia comprobatoria y pruebas que permitan verificar los artículos adquiridos, a efecto de comprobar la correcta aplicación del gasto, dentro de los rubros en que se divide el Financiamiento Público, y de cumplimentar lo referente a los gastos totales, aplicados a cada campaña, por lo que el partido político y/o coalición deberá considerar que en la propaganda de gastos de campaña se identifique de manera clara:
+VI. Nombre del probable responsable o posible partícipe cuando éste se conozca;
 
-a) El nombre del candidato;
+VII. Acciones emprendidas para su búsqueda e identificación;
 
-b) El cargo de elección popular al que aspira; y
+VIII. El estado procesal que guarda el expediente, y
 
-c) El partido político y/o coalición por el que realiza la campaña correspondiente.
+IX. Cualquier otra información que sea relevante para el seguimiento y cumplimiento de los objetivos previstos en esta Ley y en la Ley General.
 
-Se entenderá por evidencia comprobatoria y pruebas, aquella información y datos persuasivos, verificables, válidos y apropiados que permiten demostrar un hecho o una cosa tales como muestra de los artículos adquiridos, fotografías, vídeos u otras similares.
+###### Artículo 51.
 
-El valor de registro como aportaciones de uso de los bienes muebles o inmuebles otorgados en comodato al partido político y/o coalición, se registrará en el apartado de egresos correspondiente, dichos valores de registro se tomarán en consideración para los efectos de topes de gastos de campaña, a que están sujetos los candidatos, partidos políticos y/o coaliciones.
+La Fiscalía Especializada debe continuar sin interrupción la investigación de los delitos previstos en la Ley General, en términos de lo que establezca el Protocolo Homologado de Investigación y el Código Nacional.
 
-La documentación presentada por los partidos políticos para la comprobación de egresos a la cual se le determine por parte de la Dirección y/o Comisión observaciones referentes a incumplimiento a disposiciones fiscales tales como omisiones a: contener impreso el nombre, denominación o razón social, domicilio fiscal y clave del registro federal de contribuyentes de quien expida, número de folio, lugar y fecha de expedición, clave del registro federal de contribuyentes de la persona a favor de quien se expida cantidad y clase de mercancías o descripción del servicio, valor unitario consignado en número e importe total consignado en número y letra, así como el monto de los impuestos, número y fecha del documento aduanero, fecha de impresión y datos de identificación del impresor autorizado; podrán ser sustituidas por otras siempre y cuando se cumplan con todos y cada uno de los requisitos siguientes:
+###### Artículo 52.
 
-a) Que se presente nueva factura expedida por el mismo proveedor o prestador de servicios;
+En el supuesto previsto en el artículo 39, la Fiscalía Especializada debe continuar sin interrupción la investigación de los delitos previstos en la Ley General, en términos de lo que establezca el Protocolo Homologado de Investigación y el Código Nacional.
 
-b) Que su importe total coincida con el de la documentación comprobatoria observada; y
+###### Artículo 53.
 
-c) Que la cantidad en su caso, clase de servicio o producto, importe unitario, importe parcial e importe total coincida con el de la documentación observada.
+Las autoridades de todos los órdenes de gobierno están obligadas a proporcionar, en el ámbito de su competencia, el auxilio e información que la Fiscalía Especializada les soliciten para la investigación y persecución de los delitos previstos en la Ley General.
 
-###### ARTÍCULO 115.
+###### Artículo 54.
 
-Se considerarán y registrarán contablemente como "gastos no justificables'" todos aquellos egresos que amparen bebidas alcohólicas, propinas que excedan del 10% del consumo total, tabaco y en general todos aquéllos que no sean necesarios conforme a lo dispuesto por el artículo 93 del presente Reglamento.
+La Fiscalía Estatal, celebrará acuerdos Interinstitucionales con autoridades e instituciones para coordinar las acciones de investigación de mexicanos en el extranjero y migrantes extranjeros en el estado.
 
-###### ARTÍCULO 116.
+###### Artículo 55.
 
-En caso de que la Dirección determine de su revisión gastos que no hayan sido registrados como "gastos no justificables" y que los mismos amparen este concepto, deberán reclasificarse al registro contable citado en el artículo 115 del presente Reglamento.
+Las personas físicas o jurídicas colectivas que cuenten con información que pueda contribuir a la investigación y persecución de los delitos previstos en la Ley General, están obligadas a proporcionarla a la Fiscalía Especializada directamente o a través de cualquier otro medio.
 
-## ARTÍCULOS TRANSITORIOS
+###### Artículo 56.
 
-###### ARTÍCULO PRIMERO.
+La Fiscalía Especializada, no puede condicionar la recepción de la información a que se refiere el artículo anterior al cumplimiento de formalidad alguna.
 
-El presente Reglamento para la Fiscalización del Financiamiento a los Partidos Políticos acreditados o registrados ante el Instituto Electoral del Estado, entrará en vigor el primero de julio de dos mil cuatro.
+### CAPÍTULO SÉPTIMO. De la Búsqueda de Personas
 
-###### ARTÍCULO SEGUNDO.
+###### Artículo 57.
 
-Sin perjuicio de lo que disponen los artículos 17 y 18 del presente Reglamento, por única vez, el primer ejercicio que reportarán los partidos políticos bajo esta normatividad respecto al informe anual corresponderá al periodo del primero de julio al treinta y uno de diciembre del año dos mil cuatro, adecuándose en la parte conducente los plazos que señale este Reglamento.
+La búsqueda tendrá por objeto realizar todas las acciones y diligencias tendientes a dar con la suerte o el paradero de la persona hasta su localización, incluidas aquellas para identificar plenamente sus restos en caso de que éstos hayan sido localizados, así como garantizar en todo momento el derecho a la verdad.
 
-En este sentido, el primer informe trimestral corresponderá al lapso del primero de julio al treinta de septiembre de dos mil cuatro y el segundo informe trimestral corresponderá al periodo del primero de octubre al treinta y uno de diciembre de dos mil cuatro.
+La búsqueda a que se refieren (sic) la presente Ley y la Ley General, se realizará de forma conjunta, coordinada y simultánea, por la Comisión de Búsqueda de Personas con la Comisión Nacional.
 
-###### ARTÍCULO TERCERO.
+Las acciones de búsqueda deberán agotarse hasta que se determine la suerte o paradero de la persona. En coordinación con la Comisión Nacional, la Comisión de Búsqueda de Personas garantizará que las acciones de búsqueda, se apliquen conforme a las circunstancias propias de cada caso, de conformidad con esta Ley, la Ley General, el Protocolo Homologado de Búsqueda y los lineamientos correspondientes.
 
-El presente Reglamento para la Fiscalización del Financiamiento a los Partidos Políticos acreditados o registrados ante el Instituto Electoral del Estado, será revisado por el Órgano Superior de Dirección de este Organismo Electoral, por lo menos dentro del año siguiente de su aprobación.
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-SEGUNDA PARTE
+###### Artículo 57 Bis.
 
-FORMATOS E INSTRUCTIVOS
+Cualquier persona puede solicitar la búsqueda de una Persona Desaparecida mediante:
 
-REGLAMENTO PARA LA FISCALIZACION DE FINANCIAMIENTO A LOS PARTIDOS POLITICOS ACREDITADOS O REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO
+I. Noticia;
 
-> <small>N. DE E. VEASE FORMATOS EN LA TERCERA SECCION DEL P.O. DE 21 DE JULIO DE 2004, DE LA PAGINA 24 A LA 84.</small>
+II. Reporte, o
 
-SEGUNDA PARTE
+III. Denuncia.
 
-FORMATOS E INSTRUCTIVOS
+La Noticia, el Reporte o la Denuncia pueden realizarse en forma anónima.
 
-REGLAMENTO PARA LA FISCALIZACION DE FINANCIAMIENTO A LOS PARTIDOS POLITICOS ACREDITADOS O REGISTRADOS ANTE EL INSTITUTO ELECTORAL DEL ESTADO
+Tratándose de Denuncia, no será necesaria su ratificación. Tanto la búsqueda como la investigación se llevarán a cabo sin dilación.
 
-(VEASE ARCHIVO ANEXO)
+La autoridad que reciba una Noticia, Reporte o Denuncia deberá informar inmediatamente a la Fiscalía Especializada, la que iniciará sin dilación alguna la investigación y asignará el número de carpeta correspondiente. La omisión de iniciar la investigación correspondiente y/o de iniciar el reporte de desaparición pertinente, se sancionará de acuerdo con las disposiciones de la Ley General.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+Ningún protocolo establecerá plazos de espera para iniciar la investigación.
 
-P.O. 3 DE ENERO DE 2005.
+###### Artículo 58.
 
-SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL REGLAMENTO.
+Las acciones de búsqueda, localización e identificación de Personas Desaparecidas, deberán realizarse de conformidad con los Capítulos Sexto y Séptimo del Título Tercero de la Ley General, los Protocolos Homologados de Búsqueda e Investigación y los Lineamientos correspondientes.
 
-CONSIDERANDO
+La investigación y persecución de los delitos previstos por la Ley General se hará conforme a ésta y a los Protocolos a los que hace referencia el artículo 99 de la misma.
 
-.
+### CAPÍTULO OCTAVO. De los Registros
 
-4.-.
+###### Artículo 59.
 
-La adición al mencionado Reglamento estará en vigor al día siguiente de su aprobación.
+La operación y funcionamiento de los Registros previstos por la Ley General, será de conformidad a ésta y a los lineamientos que se expidan para tal efecto.
 
-.
+El Mecanismo Estatal, en el marco de las atribuciones de cada una de las autoridades que lo conforman, tiene el deber de implementar lo señalado por la Ley General y los lineamientos para el funcionamiento de las herramientas del Sistema Nacional.
 
-ACUERDO
+Las autoridades que intervengan en los procesos de búsqueda e investigación, tienen el deber de conocer las herramientas del Sistema Nacional y utilizarlos (sic) conforme a lo señalado por la Ley General, protocolos homologados y lineamientos emitidos al respecto.
 
-PRIMERO.- El Consejo General del Instituto Electoral del Estado, aprueba la adición al Reglamento para la Fiscalización del Financiamiento a los Partidos Políticos acreditados o registrado ante el Instituto Electoral del Estado, en términos de lo narrado en el considerando 4 del presente Acuerdo.
+###### Artículo 60.
 
-SEGUNDO.- El Consejo General del Instituto Electoral del Estado faculta al Secretario General del Instituto Electoral del Estado a efecto de que realice las modificaciones al Reglamento de Fiscalización del Financiamiento a los Partidos Políticos acreditados o registrados ante el Instituto Electoral del Estado y se ejecute el presente Acuerdo, en términos del considerando 5 de este documento.
+Las autoridades correspondientes, conforme a las atribuciones señaladas por la Ley General, deben recabar, ingresar y actualizar la información necesaria en los Registros y el Banco, a los que se refiere el artículo 4 de la presente Ley, en tiempo real y en los términos señalados en la misma.
 
-TERCERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
+La Fiscalía Estatal deberá coordinar la operación del Registro Estatal de Personas Fallecidas, el cual funcionará conforme a lo señalado por la Ley General y los protocolos y lineamientos emitidos al respecto.
 
-P.O. 11 DE MAYO DE 2007.
+###### Artículo 61.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+El personal de la Comisión de Búsqueda de Personas, la Fiscalía Especializada y la Coordinación General de Servicios Periciales, deberán recibir capacitación en las diferentes materias que se requieran para el adecuado funcionamiento de las herramientas del Sistema Nacional en el Estado.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 61 Bis.
+
+La Fiscalía y la Comisión de Búsqueda de Personas deberán acceder a la Plataforma Única de Identidad para la consulta de información requerida para la investigación, búsqueda, localización e identificación de Personas Desaparecidas, conforme a las medidas de seguridad y niveles de acceso establecidos y protocolos de actuación que determine la Secretaría de Gobernación, a través del Registro Nacional de Población.
+
+### CAPÍTULO NOVENO. Del Banco Estatal de Datos Forenses
+
+###### Artículo 62.
+
+El Banco Estatal de Datos Forenses está a cargo de la Fiscalía Estatal y tiene por objeto concentrar la información relevante para la búsqueda e identificación de Personas Desaparecidas, así como para la investigación de los delitos materia de la Ley General.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+El Banco Estatal de Datos Forenses se conforma con la base de datos de registros forenses, incluidos los de información genética, servicios periciales y forenses, los cuales deben estar interconectados en tiempo real al Banco Nacional de Datos Forenses. El incumplimiento de la actualización dará lugar a las responsabilidades administrativas correspondientes.
+
+El Banco Estatal de Datos Forenses debe estar interconectado con las herramientas de búsqueda e identificación previstas en esta Ley y en la Ley General, y ser actualizado en tiempo real, mediante personal designado y capacitado para ello.
+
+La información deberá ser recabada de conformidad con los protocolos correspondientes.
+
+El Banco Estatal de Datos Forenses deberá realizar cruces de información de manera permanente y continua con el Registro Estatal y el Registro Nacional. Así como, con otros registros que no forman parte del Sistema Nacional que contengan información forense relevante para la búsqueda de personas.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+La Fiscalía Estatal, la Fiscalía Especializada, el Tribunal Superior de Justicia del Estado de México y cualquier autoridad que tenga a su cargo los servicios periciales y forenses están obligados a interconectar sus bases de datos, registros o sistemas con el Banco Estatal de Datos Forenses y mantenerlas actualizadas; asimismo, deberán proporcionar la información que les sea requerida por la Fiscalía General para su adecuada operación.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 63.
+
+Corresponde a la Fiscalía Estatal coordinar la operación, actualización permanente e inmediata del Banco Estatal de Datos Forenses y compartir la información conforme a lo dispuesto por la Ley General, las disposiciones jurídicas aplicables y los lineamientos que emita la Fiscalía General.
+
+###### Artículo 64.
+
+Las personas servidoras públicas de la Coordinación General de Servicios Periciales de la Fiscalía Estatal deben capturar en el registro forense que corresponda, la información que recabe, de conformidad con la legislación y el protocolo correspondiente.
+
+Las autoridades del estado deben garantizar que el personal citado esté capacitado de forma permanente y continua en las diferentes materias que se requieren para el adecuado funcionamiento del Banco Estatal de Datos Forenses.
+
+###### Artículo 65.
+
+La autoridad pericial encargada de la toma de muestras debe informar a la persona que suministra la muestra o a su representante legal el uso que le dará a la información que recabe y entregarle una constancia de la diligencia ministerial.
+
+La información genética suministrada por los familiares será utilizada exclusivamente con fines de identificación de Personas Desaparecidas.
+
+###### Artículo 66.
+
+La persona que proporcione información para análisis pericial debe otorgar previamente su consentimiento por escrito, y tiene derecho a designar, a su cargo, a peritos independientes para que en su presencia se recabe la muestra.
+
+Los servicios periciales deberán almacenar las muestras y otros objetos relevantes para la búsqueda de Personas Desaparecidas, de conformidad con lo que establezca la Ley General, esta Ley, el protocolo correspondiente y los estándares internacionales en la materia.
+
+Los peritos independientes a que se refiere el párrafo anterior deben contar con la certificación legalmente expedida por instituciones públicas o privadas, nacionales o extranjeras, asegurando que cumplan con los estándares de certificación nacional o internacional y cuenten con una especialidad acreditada en el ramo de las ciencias forenses que correspondan. Los peritos serán acreditados ante la autoridad judicial o ministerial que corresponda, mismas que no pueden negarla injustificadamente ni demorarse en hacer la acreditación correspondiente.
+
+La designación y aceptación de los peritos independientes, y los dictámenes periciales que éstos formulen deben cumplir las disposiciones de la legislación procesal penal aplicable.
+
+###### Artículo 67.
+
+El Banco Estatal de Datos Forenses, además de la información pericial y forense, útil para la identificación de una persona, debe contar con una base de datos de información genética que contenga, los mínimos exigidos por la Ley General
+
+###### Artículo 68.
+
+La información contenida en los registros forenses puede utilizarse en otras investigaciones cuando aporte elementos para la localización de una persona, cuando sea de utilidad para otros procedimientos penales o para el ejercicio del derecho de la víctima a obtener la reparación integral.
+
+###### Artículo 69.
+
+La información contenida en los registros forenses puede ser confrontada con la información que esté en poder de otras autoridades e instituciones, nacionales o extranjeras, así como otros bancos forenses que puedan ser útiles para identificar a una persona.
+
+La Fiscalía Estatal debe establecer los mecanismos de colaboración necesarios para cumplir con lo dispuesto en el párrafo anterior.
+
+###### Artículo 70.
+
+Los datos personales contenidos en el Banco Estatal de Datos Forenses, deberán ser tratados de acuerdo con las disposiciones jurídicas aplicables en materia de transparencia y protección de datos personales.
+
+La obtención, administración, uso y conservación de información forense deben realizarse con pleno respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados, así como otros acuerdos con las instituciones internacionales que cuenten con bases de datos o bancos de datos forenses.
+
+Una vez identificada la Persona Desaparecida, los titulares de los datos personales o sus Familiares, según sea el caso, podrán solicitar el tratamiento de sus datos en los términos de la legislación de la materia.
+
+### CAPÍTULO DÉCIMO. De la Disposición de Cadáveres de Personas
+
+###### Artículo 71.
+
+La Fiscalía Especializada deberá contar con un Registro Estatal de Fosas que concentrará la información de las que existen en los cementerios y panteones de todos los municipios de la entidad, así como de las Fosas Clandestinas que se localicen en la entidad la Fiscalía Estatal o la Fiscalía Especializada; que estará interconectado en tiempo real con el Registro Nacional de Fosas.
+
+La Comisión de Búsqueda de Personas, para el cumplimiento de sus atribuciones, puede acceder al Registro Estatal de Fosas en cualquier momento.
+
+###### Artículo 72.
+
+Los servicios periciales y los servicios médicos forenses de la Fiscalía Estatal deben capturar en el Registro Forense Estatal, la información que recaben, de conformidad con la Ley General y el protocolo correspondiente.
+
+Los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados no pueden ser incinerados, destruidos o desintegrados, ni disponerse de sus pertenencias.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+La Fiscalía Estatal debe tener el registro del lugar donde sean colocados los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados, de acuerdo con el Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Cuando las investigaciones revelen la identidad del cadáver o los restos de la persona, el agente del Ministerio Público competente podrá autorizar que los Familiares dispongan de él y de sus pertenencias, salvo que sean necesarios para continuar con las investigaciones o para el correcto desarrollo del proceso penal, en cuyo caso dictará las medidas correspondientes de conformidad con el Código Nacional de Procedimientos Penales.
+
+En caso de emergencia sanitaria o desastres naturales, se adoptarán las medidas que establezca la Secretaría de Salud.
+
+###### Artículo 73.
+
+Una vez recabadas las muestras necesarias para el ingreso en los Registros correspondientes de acuerdo a lo señalado por la Ley General, la Fiscalía Estatal, podrá autorizar la inhumación de un cadáver o resto humano no identificado. En caso de inhumación, se tomarán las medidas necesarias para asegurar que ésta sea digna, en una fosa individualizada, con las medidas que garanticen toda la información requerida para el adecuado registro y en un lugar claramente identificado que permita su posterior localización.
+
+Los municipios deberán armonizar su regulación sobre panteones para garantizar que el funcionamiento de las fosas comunes cumpla con el estándar establecido en el párrafo anterior.
+
+###### Artículo 74.
+
+La Fiscalía Estatal y los municipios deberán mantener comunicación permanente para garantizar el registro, la trazabilidad y la localización de las personas fallecidas sin identificar en los términos señalados por la Ley General, esta ley, los protocolos y lineamientos correspondientes.
+
+###### Artículo 75.
+
+Todo propietario, encargado o titular de un hospital, clínica, centro o institución de salud, refugio, albergue, centro de atención de adicciones o de rehabilitación, institución educativa, centro de atención psiquiátrica e institución de salud mental, sean públicos o privados, así como de los sistemas para el desarrollo integral para la familia, tiene la obligación de informar a la Comisión de Búsqueda de Personas, inmediatamente, el ingreso y egreso a dichos establecimientos o instituciones de cadáveres, personas o personas no identificadas o de las cuales no se tenga la certeza de su identidad.
+
+###### Artículo 76.
+
+El funcionario del Ayuntamiento, que para tal efecto designe el Presidente Municipal respectivo, deberá informar de inmediato a la Comisión de Búsqueda de Personas de la inhumación de los restos o el cadáver de una persona no identificada, de la cual no se tenga certeza de su identidad o no haya sido reclamada, en alguna de las fosas comunes del municipio, remitiendo para tal efecto todos los antecedentes con los que cuente, así como todos los datos relacionados con el destino final del cadáver o de los restos humanos, incluyendo aquellos que permitan su inmediata localización y disposición.
+
+###### Artículo 77.
+
+El Oficial del Registro Civil que autorice la inhumación de restos humanos o del cadáver de una persona no identificada, de la cual no se tenga certeza de su identidad o que no haya sido reclamada, deberá informar de inmediato a la persona servidora pública que designe la autoridad municipal, remitiéndole, en su caso, copia certificada tanto del certificado de defunción como del permiso o autorización que para tal efecto emitió.
+
+###### Artículo 78.
+
+La Fiscalía Estatal tendrá a su cargo el Centro de Resguardo de Cadáveres de Identidad Desconocida y el Centro de Resguardo Óseo.
+
+### CAPÍTULO DÉCIMO PRIMERO. Del Programa Nacional de Búsqueda y del Programa Nacional de Exhumaciones e Identificación Forense
+
+###### Artículo 79.
+
+Las autoridades encargadas de la búsqueda y la investigación, en los términos señalados por esta ley y la Ley General, deberán implementar y ejecutar las acciones contempladas para el Estado de México por el Programa Nacional de Búsqueda y el Programa Nacional de Exhumaciones e Identificación Forense.
+
+Asimismo, deberán designar el presupuesto suficiente para dar cumplimiento a lo señalado en el párrafo anterior.
+
+###### Artículo 80.
+
+Dichas autoridades estarán obligadas a procesar y proporcionar la información solicitada por la Comisión Nacional y la Fiscalía Especializada de la Fiscalía General para la elaboración de los programas nacionales.
+
+Asimismo, están obligadas a colaborar con dichas autoridades para realizar las acciones que resulten necesarias en la elaboración de los programas.
+
+## TÍTULO CUARTO. De los Derechos de las Víctimas
+
+### CAPÍTULO PRIMERO. Disposiciones Generales
+
+###### Artículo 81.
+
+La Comisión Ejecutiva Estatal debe proporcionar, en el ámbito de sus atribuciones, medidas de ayuda, asistencia y atención, por sí mismas o en coordinación con otras instituciones competentes, en los términos del presente Título, de la Ley General de Víctimas y de la Ley de Víctimas.
+
+###### Artículo 82.
+
+Las Víctimas de los delitos de desaparición forzada de personas y desaparición cometida por particulares tendrán, además de los derechos a la verdad, el acceso a la justicia, la reparación del daño y las garantías de no repetición y aquellos contenidos en otros ordenamientos legales, los siguientes:
+
+I. A la protección de sus derechos, personalidad e intereses jurídicos;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+II. A que las autoridades inicien las acciones de búsqueda y localización de manera inmediata, bajo los principios de esta Ley, desde el momento en que se tenga Noticia, Reporte o Denuncia de su desaparición;
+
+III. A ser restablecido en sus bienes y derechos en caso de ser encontrado con vida;
+
+IV. A proceder en contra de quienes de mala fe hagan uso de los mecanismos previstos en esta Ley para despojarlo de sus bienes o derechos;
+
+V. A recibir tratamiento especializado desde el momento de su localización para la superación del daño sufrido producto de los delitos previstos en la presente Ley;
+
+VI. A que su nombre y honra sean restablecidos en casos donde su defensa haya sido imposible debido a su condición de Persona Desaparecida;
+
+VII. A que se cumpla con el principio de presunción de vida para la búsqueda e investigación;
+
+VIII. A que las autoridades lleven la investigación bajo los principios de esta Ley y la Ley General desde el momento en que se tengan Noticia, Reporte o Denuncia, y
+
+IX. A coadyuvar en las etapas de la investigación como en el proceso, de manera que puedan verter sus opiniones, recibir información, aportar indicios o evidencias, de acuerdo a los lineamientos y protocolos emitidos por el Sistema Nacional.
+
+El ejercicio de los derechos contenidos en las fracciones I, II, IV y VI de este artículo, será ejercido por los familiares y personas autorizadas de acuerdo a lo establecido en la presente Ley y en la legislación aplicable.
+
+###### Artículo 83.
+
+Los familiares de las víctimas de delitos de desaparición forzada de personas y desaparición por particulares tendrán, además de los derechos contenidos en otros ordenamientos legales, los siguientes derechos:
+
+I. Participar dando acompañamiento y ser informados de manera oportuna de aquellas acciones de búsqueda que las autoridades competentes realicen tendientes a la localización de la Persona Desaparecida;
+
+II. Proponer diligencias que deban ser llevadas a cabo por la autoridad competente en los programas y acciones de búsqueda, así como brindar opiniones sobre aquellas que las autoridades competentes sugieran o planeen. Las opiniones de los Familiares deberán ser consideradas por las autoridades competentes en la toma de decisiones. La negativa de la autoridad a atender las diligencias sugeridas por los Familiares deberá ser fundada y motivada por escrito;
+
+III. Acceder, directamente o mediante sus representantes, a los expedientes que sean abiertos en materia de búsqueda o investigación;
+
+IV. Obtener copia simple gratuita de las diligencias que integren los expedientes de búsqueda;
+
+V. Acceder a las medidas de ayuda, asistencia y atención, particularmente aquellas que faciliten su participación en acciones de búsqueda, incluidas medidas de apoyo psicosocial;
+
+VI. Beneficiarse de los programas o acciones de protección que para salvaguarda de su integridad física y emocional, la Comisión de Búsqueda de Personas promueva ante la autoridad competente.
+
+Las acciones de protección se dictarán de manera inmediata en casos urgentes;
+
+VII. Solicitar la intervención de expertos o peritos independientes, nacionales o internacionales en las acciones de búsqueda y en los procedimientos de investigación, en términos de lo dispuesto en la normativa aplicable;
+
+VIII. Ser informados de forma diligente y con respeto a la dignidad de las víctimas directas e indirectas, sobre los resultados de identificación o localización de restos, en atención a los protocolos en la materia;
+
+IX. Acceder de forma informada y hacer uso de los procedimientos y mecanismos que emanen de la presente Ley, además de los relativos a la Ley General y los emitidos por el Sistema Nacional de Búsqueda;
+
+X. Ser informados de los mecanismos de participación derivados de la presente Ley, además de los relativos a la Ley General y los emitidos por el Sistema Nacional de Búsqueda;
+
+XI. Participar en los diversos espacios y mecanismos de participación de Familiares, de acuerdo a los protocolos en la materia;
+
+XII. Acceder a los programas y servicios especializados que las autoridades competentes diseñen e implementen para la atención y superación del daño producto de los delitos contemplados en la Ley General;
+
+XIII. Participar en las investigaciones, sin que esto les represente una carga procesal de algún tipo;
+
+XIV. Participar en la elaboración y seguimiento del Plan de Investigación y el Plan de Búsqueda;
+
+XV. A recibir un trato digno y adecuado por parte de las autoridades y a tener un mecanismo adecuado de atención, y
+
+XVI. A contar con una asesoría jurídica especializada.
+
+XVII. A que se respeten sus usos y costumbres al localizar y entregar los restos mortales de las víctimas para su sepultura.
+
+### CAPÍTULO SEGUNDO. De las Medidas de Ayuda, Asistencia, Atención y Reparación
+
+###### Artículo 84.
+
+Las víctimas indirectas a partir del momento en que tengan conocimiento de la desaparición, y lo hagan del conocimiento de la autoridad competente, pueden solicitar y tienen derecho a recibir de inmediato y sin restricción alguna, las medidas de ayuda, asistencia, atención y reparación previstas en la Ley de Víctimas y demás disposiciones aplicables.
+
+###### Artículo 85.
+
+Las medidas a que se refiere el artículo anterior deben ser proporcionadas por la Comisión Ejecutiva Estatal en tanto realizan las gestiones para que otras instituciones públicas brinden la atención respectiva.
+
+La Comisión Ejecutiva Estatal deben proporcionar las medidas de ayuda, asistencia y atención a que se refiere el presente Título y la Ley de Víctimas, en forma individual, grupal o familiar, según corresponda.
+
+###### Artículo 86.
+
+Cuando la búsqueda o investigación, resulte ser competencia de las autoridades Federales u otras, las Víctimas deben seguir recibiendo las medidas de ayuda, asistencia y atención por la Comisión Ejecutiva Estatal, en tanto se establece el mecanismo de atención a Víctimas del ámbito que corresponda.
+
+Si la competencia resultara ser de las autoridades del Estado, las victimas deberán recibir, al menos, las medidas de ayuda, asistencia y atención equivalentes a las que ya recibían de otras autoridades.
+
+### CAPÍTULO TERCERO. De la Declaración Especial de Ausencia por Desaparición de Personas
+
+###### Artículo 87.
+
+Los Familiares, otras personas legitimadas por la ley y el Ministerio Público podrán solicitar a la autoridad jurisdiccional en materia civil que corresponda según la competencia, que emita la Declaración Especial de Ausencia por Desaparición de Personas, en términos de lo dispuesto en la Ley para la Declaración Especial de Ausencia por Desaparición de Personas del Estado de México.
+
+### CAPÍTULO CUARTO. De las Medidas de Reparación Integral a las Víctimas
+
+###### Artículo 88.
+
+Las Víctimas de los delitos establecidos en la Ley General tienen derecho a ser reparadas integralmente conforme a las medidas de restitución, rehabilitación, compensación, satisfacción y medidas de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica, en términos de la Ley de Víctimas.
+
+El derecho para que la víctima solicite la reparación integral es imprescriptible.
+
+###### Artículo 89.
+
+La reparación integral a las Víctimas de los delitos establecidos en la Ley General comprenderá, además de lo establecido en la Ley de Víctimas y en la jurisprudencia de la Corte Interamericana de Derechos Humanos y en normas del derecho internacional, los elementos siguientes:
+
+I. Medidas de satisfacción:
+
+a) Construcción de lugares o monumentos de memoria;
+
+b) Una disculpa pública de parte del Estado, los autores y otras personas involucradas;
+
+c) Recuperación de escenarios de encuentro comunitario;
+
+d) Recuperación de la honra y memoria de la persona o personas desaparecidas, o
+
+e) Recuperación de prácticas y tradiciones socioculturales que, en su caso, se perdieron por causa de un hecho victimizante, y
+
+II. Medidas de no repetición que, entre otras acciones, deben incluir la suspensión temporal o inhabilitación definitiva de las personas servidoras públicas investigadas o sancionadas por la comisión del delito de desaparición forzada de personas, según sea el caso y previo desahogo de los procedimientos administrativos y/o judiciales que correspondan u otras afines que cumplan con los objetivos de la presente Ley y las demás disposiciones aplicables.
+
+###### Artículo 90.
+
+El Estado, es responsable de asegurar la reparación integral a las Víctimas por Desaparición Forzada de Personas cuando sean responsables sus servidores públicos o particulares bajo la autorización, consentimiento, apoyo, aquiescencia o respaldo de éstos.
+
+El Estado compensará de forma subsidiaria el daño causado a las Víctimas de desaparición cometida por particulares en los términos establecidos en la Ley General de Víctimas y la Ley de Víctimas.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 90 Bis.
+
+El Estado establecerá, en el ámbito de su competencia, acciones de bienestar integral, con énfasis para hijos e hijas de personas desaparecidas.
+
+### CAPÍTULO QUINTO. De la Protección de Personas
+
+###### Artículo 91.
+
+Las (sic) Fiscalía Especializada, en el ámbito de su competencia, debe establecer programas para la protección de las Víctimas, los Familiares y toda persona involucrada en el proceso de búsqueda de Personas Desaparecidas, investigación o proceso penal de los delitos previstos en la Ley General, cuando su vida o integridad corporal pueda estar en peligro, o puedan ser sometidas a actos de maltrato o intimidación por su intervención en dichos procesos.
+
+Se tomarán medidas adecuadas, en su caso, para asegurar la protección del denunciante, los testigos, los allegados de la persona desaparecida y sus defensores, así como de quienes participen en la investigación, contra todo maltrato o intimidación en razón de la denuncia presentada o de cualquier declaración efectuada.
+
+También deberán otorgar el apoyo ministerial, pericial, policial especializado y de otras fuerzas de seguridad a las organizaciones de Familiares y a Familiares en las tareas de búsqueda de personas desaparecidas en campo, garantizando todas las medidas de protección y resguardo a su integridad física y a los sitios en que realicen búsqueda de campo.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 91 Bis.
+
+Los Protocolos contendrán planes de seguridad y protección para las familias.
+
+###### Artículo 92.
+
+La Fiscalía Especializada puede otorgar, con apoyo de la Comisión Ejecutiva Estatal, como medida urgente de protección la reubicación temporal, la protección de inmuebles, la escolta de cuerpos especializados y las demás que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas a que se refiere el artículo anterior, conforme a los procedimientos y con las autorizaciones aplicables.
+
+###### Artículo 93.
+
+Las (sic) Fiscalía Especializada puede otorgar, con apoyo de la Comisión Ejecutiva Estatal, como medida de protección para enfrentar el riesgo, la entrega de equipo celular, radio o telefonía satelital, instalación de sistemas de seguridad en inmuebles, vigilancia a través de patrullajes, entrega de chalecos antibalas, detector de metales, autos blindados, y demás medios de protección que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas por esta Ley.
+
+Cuando se trate de personas defensoras de los derechos humanos o periodistas se estará también a lo dispuesto por el Mecanismo de Protección para Personas Defensoras de Derechos Humanos y Periodistas y la ley respectiva.
+
+###### Artículo 94.
+
+La incorporación a los programas de protección de personas a que se refiere el artículo 91 de esta Ley debe ser autorizada por el agente del Ministerio Público encargado de la investigación o por el titular de la Fiscalía Especializada.
+
+###### Artículo 95.
+
+La información y documentación relacionada con las personas protegidas debe ser tratada con estricta reserva o confidencialidad, según corresponda.
+
+## TÍTULO QUINTO. De la Prevención de los Delitos
+
+### CAPÍTULO PRIMERO. Disposiciones Generales
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 96.
+
+La Consejería Jurídica, la Fiscalía Estatal y las Instituciones de Seguridad Pública deberán coordinarse para implementar las medidas de prevención previstas en esta Ley.
+
+###### Artículo 97.
+
+Todo establecimiento, instalación o cualquier sitio en control de las autoridades estatales o municipales que dispongan las leyes, en donde pudieran encontrarse personas en privación de la libertad, deberá contar con cámaras de video, garantizando su correcto funcionamiento, que permitan registrar los accesos y salidas del lugar. Las grabaciones deberán almacenarse de forma segura por dos años.
+
+###### Artículo 98.
+
+La Fiscalía Estatal debe administrar bases de datos estadísticas relativas a la incidencia de los delitos previstos en la Ley General, garantizando que los datos estén desagregados, al menos, por género, edad, nacionalidad, municipio, sujeto activo, rango y dependencia de adscripción, así como si se trata de desaparición forzada o desaparición cometida por particulares.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 99.
+
+El Mecanismo Estatal, a través de la Comisión de Búsqueda de Personas, la Consejería Jurídica, la Fiscalía Estatal y las Instituciones de Seguridad Pública, deben respecto de los delitos previstos en la Ley General:
+
+I. Llevar a cabo campañas informativas dirigidas a fomentar la Denuncia de los delitos y sobre instituciones de atención y servicios que brindan;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+I Bis. Generar políticas públicas y otras acciones para sensibilizar a la población en general, con enfoque diferenciado, en relación con la información, prevención y mitigación de los factores de riesgo de la desaparición de personas;
+
+II. Proponer acciones de capacitación a las Instituciones de Seguridad Pública, a las áreas ministeriales, policiales y periciales y otras que tengan como objeto la búsqueda de personas desaparecidas, la investigación y sanción de los delitos previstos en la Ley General, así como la atención y protección a Víctimas con una perspectiva psicosocial;
+
+III. Proponer e implementar programas que incentiven a la ciudadanía, incluyendo a aquellas personas que se encuentran privadas de su libertad, a proporcionar la información con que cuenten para la investigación de los delitos previstos en la Ley General, así como para la ubicación y rescate de las Personas Desaparecidas;
+
+IV. Promover mecanismos de coordinación con asociaciones, fundaciones y demás organismos no gubernamentales para fortalecer la prevención de las conductas delictivas;
+
+V. Recabar y generar información respecto a los delitos que permitan definir e implementar políticas públicas en materia de búsqueda de personas, prevención e investigación;
+
+VI. Identificar circunstancias, grupos vulnerables y zonas de alto riesgo en las que aumente la probabilidad de que una o más personas sean Víctimas de los delitos, así como hacer pública dicha información de manera anual;
+
+VII. Proporcionar información y asesoría a las personas que así lo soliciten, de manera presencial, telefónica o por escrito o por cualquier otro medio, relacionada con el objeto de esta Ley, con la finalidad de prevenir la comisión de los delitos;
+
+VIII. Reunirse como mínimo dos veces al año, para intercambiar experiencias que permitan implementar políticas públicas en materia de prevención de los delitos;
+
+IX. Emitir un informe público anual respecto de las acciones realizadas para el cumplimiento de las disposiciones de esta Ley;
+
+X. Diseñar instrumentos de evaluación e indicadores para el seguimiento y vigilancia del cumplimiento de la presente Ley, en donde se contemple la participación voluntaria de Familiares, y
+
+XI. Realizar de manera permanente diagnósticos, investigaciones, estudios e informes sobre la problemática de desaparición de personas y otras conductas delictivas conexas o de violencia vinculadas a este delito, que permitan la elaboración de políticas públicas que lo prevengan.
+
+###### Artículo 100.
+
+La Fiscalía Especializada debe intercambiar la información que favorezca la investigación de los delitos previstos en la Ley General, y que permita la identificación y sanción de los responsables en términos de lo previsto en el artículo 162 de la citada Ley.
+
+###### Artículo 101.
+
+La Fiscalía Estatal debe diseñar los mecanismos de colaboración que correspondan con la finalidad de dar cumplimiento a lo previsto en esta Ley y en la Ley General.
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
+###### Artículo 102.
+
+El Mecanismo Estatal, a través de la Consejería Jurídica y con la participación de la Comisión de Búsqueda de Personas, debe coordinar el diseño y aplicación de programas que permitan combatir las causas que generan condiciones de mayor riesgo y vulnerabilidad frente a los delitos previstos en esta Ley, con especial referencia a la marginación, la condición de pobreza, la violencia comunitaria, la presencia de grupos delictivos, la operación de redes de trata de personas, los antecedentes de otros delitos conexos y la desigualdad social.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 103.
+
+Los programas de prevención a que se refiere el presente Título deben incluir metas e indicadores a efecto de evaluar las capacitaciones y procesos de sensibilización impartidos al personal del servicio público, sector privado y población general.
+
+### CAPÍTULO SEGUNDO. De la Capacitación
+
+###### Artículo 104.
+
+La Comisión de Búsqueda de Personas, la Fiscalía Especializada y la autoridad municipal que el titular del Ayuntamiento determine deben establecer programas obligatorios de capacitación en materia de derechos humanos, enfocados a los principios referidos en el artículo 5 de esta Ley, para personal del servicio público de las Instituciones de Seguridad Pública involucrados en la búsqueda y acciones previstas en este ordenamiento, con la finalidad de prevenir la comisión de los delitos.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 105.
+
+La Fiscalía Estatal y las Instituciones de Seguridad Pública, con el apoyo de la Comisión de Búsqueda de Personas, deben capacitar, en el ámbito de sus competencias, al personal ministerial, policial y pericial y demás personal para el desarrollo de las funciones, los cuales serán acorde a los objetivos señalados en el artículo 45 de esta Ley, conforme a los más altos estándares internacionales, técnicos y científicos para la búsqueda, investigación y análisis de pruebas de los delitos a que se refiere la Ley General, con pleno respeto a los derechos humanos y con enfoque psicosocial.
+
+###### Artículo 106.
+
+Las Instituciones de Seguridad Pública seleccionarán, de conformidad con los procedimientos de evaluación y controles de confianza aplicables, al personal policial que conformará los Grupos de Búsqueda.
+
+###### Artículo 107.
+
+El número de integrantes que conformarán los Grupos de Búsqueda, será determinado conforme a los lineamientos que emita la Comisión Nacional, en términos de la Ley General, tomando en cuenta las cifras de los índices del delito de desaparición forzada de personas y la cometida por particulares que existan dentro del Estado.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 108.
+
+La Fiscalía Estatal y las Instituciones de Seguridad Pública, deben brindar formación continua, así como certificar, a su personal en las competencias y habilidades necesarias para dar cumplimiento a lo previsto en la presente Ley y la Ley General.
+
+###### Artículo 109.
+
+La Fiscalía Estatal y las Instituciones de Seguridad Pública deben capacitar a todo el personal policial respecto de los protocolos de actuación inmediata y las acciones específicas que deben realizar cuando tengan conocimiento, por cualquier medio, de la desaparición de una persona.
+
+###### Artículo 110.
+
+El Poder Judicial del Estado de México deberá capacitar permanentemente a su personal en el contenido de la Ley General y demás normatividad, para que en su aplicación se observe la perspectiva de derechos humanos, interseccionalidad, enfoque diferenciado y demás principios establecidos en esta Ley, con los más altos estándares internacionales en la materia, que garanticen el acceso a la justicia.
+
+###### Artículo 111.
+
+La Comisión Ejecutiva Estatal debe capacitar a su personal del servicio público, conforme a los más altos estándares internacionales, para brindar medidas de ayuda, asistencia y atención con un enfoque psicosocial y técnicas especializadas para el acompañamiento de las Víctimas de los delitos a que se refiere la Ley General.
+
+Además de lo establecido en el párrafo anterior, la Comisión Ejecutiva debe implementar programas de difusión a efecto de dar a conocer los servicios y medidas que brinda a las Víctimas de los delitos a que se refiere esta Ley, en términos de lo previsto en este ordenamiento.
+
+###### Artículo 112.
+
+Las autoridades señaladas en este capítulo, en el ámbito de sus atribuciones, brindarán capacitaciones para los familiares, ciudadanos, asociaciones civiles y organizaciones cuyo quehacer se vincule a la materia de esta ley, a solicitud de los mismos.
+
+## TRANSITORIOS
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+TERCERO. Los derechos laborales de las y los trabajadores que presten sus servicios en la Comisión de Búsqueda de Personas serán respetados, de conformidad con lo dispuesto en el párrafo siguiente, las leyes y demás disposiciones jurídicas aplicables, así como los recursos materiales, financieros y humanos de la misma.
+
+Para lograr su permanencia las personas servidoras públicas de la Comisión de Búsqueda de Personas deberán estar certificados (sic) y especializados (sic) de conformidad con los lineamientos que establezca el Sistema Nacional.
+
+CUARTO. El Mecanismo Estatal deberá quedar instalado a más tardar dentro de los ciento ochenta días naturales posteriores a la entrada en vigor de la presente Ley.
+
+QUINTO. Dentro de los ciento veinte días naturales posteriores a la entrada en vigor de la presente Ley deberán ser nombrados, por la Legislatura del Estado, los integrantes del Consejo Estatal Ciudadano.
+
+El nombramiento de los integrantes del Consejo Estatal Ciudadano será de forma escalonada, con la finalidad de no interrumpir los proyectos de trabajo que se planteen, por única ocasión serán nombrados de acuerdo a la siguiente formula:
+
+Los familiares: dos representantes serán nombrados por un año, tres por dos años y el resto por tres años;
+
+Los especialistas: el primer representante será nombrado por dos años y el segundo por tres años.
+
+Las organizaciones: el primer representante será nombrado por un año, el segundo por dos años y el tercero por tres años.
+
+SEXTO. La Legislatura, en la primera convocatoria para elección de los familiares que conformarán el Consejo Estatal Ciudadano, considerará para la conformación de las ocho regiones, a que se refiere el artículo 34, fracción I, de la esta Ley, los municipios siguientes:
+
+a) Región Centro: Almoloya de Juárez, Calimaya, Lerma, Metepec, Mexicaltzingo, Toluca y Zinacantepec;
+
+b) Región Oeste: Almoloya de Alquisiras, Almoloya del Río, Amatepec, Atizapán, Capulhuac, Chapultepec, Coatepec Harinas, Huixquilucan, Ixtapan de la Sal, Joquicingo, Luvianos, Malinalco, Naucalpan de Juárez, Ocoyoacac, Ocuilan, Otzolotepec, Rayón, San Antonio la Isla, San Simón de Guerrero, Sultepec, Tejupilco, Temascaltepec, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlanelpantla de Bas (sic), Tlataya, Tonatico, Valle de Bravo, Villa Guerrero, Xalatlalco, Xonacatlán, Zacazonapan, Zacualpan y Zumpanhuacán;
+
+c) Región Noroeste: Acambay, Aculco, Amanalco, Atlacomulco, Chapa de Mota, Coyotepec, Cuautitlán, Donato Guerra, El Oro, Ixtapan del Oro, Ixtlahuaca, Jilotepec, Jiquipilco, Jocotitlán, Melchor Ocampo, Morelos, Nicolás Romero, Otzoloapan, Polotitlán, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, Santo Tomás, Soyaniquilpan de Juárez, Temascalcingo, Temoaya, Teoloyucan, Timilpan, Villa de Allende y Villa Victoria;
+
+d) Región Norte: Atizapán de Zaragoza, Coacalco de Berriozábal, Cuautitlán Izcalli, Huehuetoca, Isidro Fabela, Jilotzingo, Tepotzotlán, Tultepec, Tultitlán, Villa del Carbón;
+
+e) Región Este: Amecameca, Apaxco, Atlautla, Axapusco, Ayapango, Chiautla, Chiconcuac, Cocotitlán, Ecatzingo, Hueypoxtla, Ixtapaluca, Jaltenco, Juchitepec, Nopaltepec, Otumba, Papalotla, San Martín de las Pirámides, Ozumba, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Tequixquiac, Texcoco, Tlalmanalco, Zumpango;
+
+f) Región Sureste: Chalco, Chicoloapan, Chimalhuacán, Valle de Chalco;
+
+g) Región Noreste: Nezahualcóyotl y La Paz, y
+
+h) Región Nornoreste: Acolman, Atenco, Ecatepec, Nextlalpan, Tezoyuca y Tonanitla.
+
+SÉPTIMO. En un plazo de sesenta días naturales posteriores a su instalación el Consejo Estatal Ciudadano deberá emitir sus Reglas de funcionamiento.
+
+OCTAVO. La Legislatura proveerá los recursos necesarios para dar cumplimiento a esta Ley.
+
+NOVENO. Dentro de los cientos ochenta días naturales posteriores a la entrada en vigor de la presente Ley, la Fiscalía Estatal deberá hacer las adecuaciones normativas a fin de atender con lo mandatado en el Capítulo Sexto del Título Tercero de esta Ley.
+
+DÉCIMO. El Ejecutivo del Estado, en un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente ordenamiento, deberá emitir el Reglamento y armonizar o, en su caso, expedir las disposiciones normativas que correspondan conforme a lo dispuesto en la presente Ley, garantizando el principio de participación conjunta, así como las reglas para la operación del Fondo Estatal de Desaparición.
+
+DECIMO PRIMERO. El Mecanismo Estatal contará con 60 días naturales contados a partir de la publicación del Protocolo Homologado de Búsqueda, para emitir los lineamientos para la conformación y funcionamiento de las Células de Búsqueda.
+
+En tanto se emitan los lineamientos, las Células de Búsqueda continuarán siendo coordinadas por la Fiscalía Estatal, sin perjuicio de que la Comisión de Búsqueda de Personas solicite acciones directas de búsqueda a dichas células.
+
+DÉCIMO SEGUNDO. La Comisión de Búsqueda de Personas deberá informar trimestralmente a la Legislatura, el seguimiento del ejercicio de los recursos del Fondo Estatal de Desaparición, la cual podrá requerir información y citar a las autoridades correspondientes en términos de las disposiciones jurídicas aplicables, a fin de garantizar la transparencia y rendición de cuentas.
+
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
+
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los doce días del mes de diciembre del año dos mil diecinueve.- Presidente.- Dip. Nazario Gutiérrez Martínez.- Secretarios.- Dip. Camilo Murillo Zavala.- Dip. Araceli Casasola Salazar.- Dip. María de Lourdes Garay Casillas.- Rúbricas.
+
+Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, México, a 20 de diciembre de 2019.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO
+
+LIC. ALFREDO DEL MAZO MAZA
+
+(RÚBRICA).
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+LIC. SERGIO ALEJANDRO OZUNA RIVERO
+
+(RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 29 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 191.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO; LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS; LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO; LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO; LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS; LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; LEY DE MOVILIDAD DEL ESTADO DE MÉXICO; LEY DE VIVIENDA DEL ESTADO DE MÉXICO; LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO; LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS; LEY PARA LA PROTECCIÓN DEL MAGUEY EN EL ESTADO DE MÉXICO; LEY DE APICULTURA DEL ESTADO DE MÉXICO; LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO; LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA VIVIENDA SOCIAL; LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO CONSEJO ESTATAL PARA EL DESARROLLO INTEGRAL DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE MÉXICO; LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO; LEY QUE CREA LA COMISIÓN DE FACTIBILIDAD DEL ESTADO DE MÉXICO; LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO; LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO; LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO; LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO; LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO; DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS; Y CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes, dando a conocer el impacto presupuestal de los ahorros obtenidos; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación al Consejo Estatal de la Mujer y Bienestar Social del Estado de México se entenderán hechas a la Secretaría de la Mujer.
+
+Los recursos humanos, materiales y financieros del Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de la Mujer.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el Consejo Estatal de la Mujer y Bienestar Social del Estado de México serán atendidos hasta su conclusión por la Secretaría de la Mujer.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas al Consejo Estatal de la Mujer y Bienestar Social del Estado de México de conformidad con las disposiciones jurídicas aplicables.
+
+El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de la Mujer, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría General de Gobierno, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SEXTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Desarrollo Agropecuario se entenderán hechas a la Secretaría del Campo.
+
+La Protectora de Bosques del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría del Campo, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría del Medio Ambiente, hasta en tanto sea (sic) realice la sectorización correspondiente.
+
+SÉPTIMO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano se entenderán hechas a la Secretaría de Desarrollo Urbano y Obra.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Obra Pública y de la Secretaría de Desarrollo Urbano y Metropolitano serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Desarrollo Urbano y Obra.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano serán atendidos hasta su conclusión por la Secretaría de Desarrollo Urbano y Obra.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Obra Pública y de Desarrollo Urbano y Metropolitano de conformidad con las disposiciones jurídicas aplicables.
+
+La Comisión de Factibilidad del Estado de México continuará rigiéndose por sus respectivas disposiciones jurídicas y dependerá de la Secretaría de Desarrollo Urbano y Obra, misma que ejercerá las atribuciones que en dichas disposiciones se otorgaban a la Secretaría de Justicia y Derechos Humanos.
+
+Los recursos materiales, financieros y humanos de la Comisión de Factibilidad del Estado de México como órgano desconcentrado, se transferirán a la Secretaría de Desarrollo Urbano y Obra.
+
+OCTAVO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a la Secretaría de Comunicaciones se entenderán hechas a la Secretaría de Movilidad.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Movilidad.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de Comunicaciones serán atendidos hasta su conclusión por la Secretaría de Movilidad.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de Comunicaciones de conformidad con las disposiciones jurídicas aplicables.
+
+NOVENO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación a las Secretarías de Cultura y Deporte, y de Turismo se entenderán hechas a la Secretaría de Cultura y Turismo.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Cultura y Deporte y de la Secretaría de Turismo serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Cultura y Turismo.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en las Secretarías de Cultura y Deporte, y de Turismo serán atendidos hasta su conclusión por la Secretaría de Cultura y Turismo.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a las Secretarías de Cultura y Deporte, y de Turismo de conformidad con las disposiciones jurídicas aplicables.
+
+DÉCIMO. Los organismos auxiliares cuyas dependencias coordinadoras de sector se fusionan con motivo del presente Decreto se entenderán sectorizadas a las nuevas dependencias derivadas del Decreto en tanto se realicen las sectorizaciones correspondientes.
+
+DÉCIMO PRIMERO. Las referencias contenidas en disposiciones jurídicas, legales, reglamentarias, administrativas, y documentación respecto de las dependencias u organismos que se fusionan, modifican, cambian de denominación o cuyas atribuciones se transfieren derivado del presente Decreto se entenderán hechas a las nuevas dependencias u organismos correspondientes.
+
+DÉCIMO SEGUNDO. Las Dependencias y Organismos Auxiliares del Ejecutivo Estatal, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del presente Decreto en términos de las disposiciones jurídicas aplicables.
+
+G.G. 6 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 51.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO, LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS EN EL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO Y LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Ejecutivo del Estado expedirá las disposiciones jurídicas reglamentarias correspondientes de conformidad a lo establecido en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglamentarias, administrativas, financieras, presupuestales, contables de transferencia y documentación a la Secretaría de la Mujer se entenderán hechas a la Secretaría de las Mujeres.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 22 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 179.- POR EL QUE SE REFORMAN, ADICIONAN, DEROGAN Y ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE ARMONIZACIÓN Y REINGENIERÍA JURÍDICA”.]
+
+PRIMERO. Publique el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley que Regula el Uso de la Fuerza Pública en el Estado de México, la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, la Ley de Extinción de Dominio del Estado de México, la Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México y la Ley de Justicia para Adolescentes del Estado de México, publicadas en el Periódico Oficial “Gaceta del Gobierno” el 18 de marzo de 2016, 26 de diciembre de 1985, 15 de junio de 2016, 25 de septiembre de 2008 y 25 de enero de 2007, respectivamente.
+
+CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México y que se encuentren en proceso o trámite a la entrada en vigor del presente Decreto, seguirán estando vigentes en los términos acordados hasta su conclusión, bajo la supervisión y atención de la persona que al efecto designe la persona Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 2 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 247.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO.]
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 5 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
+
+Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
+
+QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
+
+SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
+
+NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
+
+DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
+
+DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 14 DE FEBRERO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 88.- POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III, V Y VI Y SE ADICIONAN LAS FRACCIONES VII, VIII, Y IX AL ARTÍCULO 25 DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 266.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; SE REFORMAN LAS FRACCIONES XXXV Y XXXVI DEL ARTÍCULO 31 Y SE ADICIONA LA FRACCIÓN XXXVII AL ARTÍCULO 31, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 61 Y EL INCISO F) DE LA FRACCIÓN IV DEL APARTADO B DEL ARTÍCULO 100 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; Y SE REFORMA EL PÁRRAFO PRIMERO Y LAS FRACCIONES I Y II DEL ARTÍCULO 2.5 BIS, EL PÁRRAFO PRIMERO DEL ARTÍCULO 3.10 Y LA FRACCIÓN I DEL ARTÍCULO 4.146 QUINQUIES DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Mecanismo Estatal sesionará a más tardar dentro de los 30 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. La Fiscalía Estatal y la Fiscalía Especializada contarán con un plazo no mayor a 30 días hábiles para integrar su información a la Base Nacional de Carpetas de Investigación, contados a partir de que esté disponible conforme al plazo establecido en el artículo transitorio segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población, en materia de fortalecimiento de búsqueda, localización e identificación de personas desaparecidas, publicado en el Diario Oficial de la Federación en la edición vespertina del 16 de julio de 2025.
+
+QUINTO. El Poder Ejecutivo Estatal deberá armonizar las disposiciones reglamentarias y normativas correspondientes conforme al presente Decreto y el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población, en materia de fortalecimiento de búsqueda, localización e identificación de personas desaparecidas, publicado en el Diario Oficial de la Federación en la edición vespertina del 16 de julio de 2025, en un plazo no mayor a 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Se abrogan todas las disposiciones que contravengan el presente Decreto.
+
+SÉPTIMO. El Gobierno del Estado y sus municipios, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán armonizar la normatividad que regulen panteones, cementerios, servicios funerarios, crematorios, fosas comunes y cualquier espacio destinado a la disposición final de cuerpos humanos, ya sean instituciones públicas o privadas, para establecer al menos:
+
+I. La obligación de llevar registros precisos, digitalizados y actualizados de los cuerpos inhumados, cremados o trasladados, indicando características físicas, ubicación exacta, fecha y medio de disposición;
+
+II. Vincular dichos registros al Sistema Nacional de Búsqueda, conforme a los lineamientos técnicos emitidos por la Comisión Nacional, y
+
+III. Las obligaciones que permitan el cumplimiento de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Al respecto, los 125 municipios del Estado de México y todas aquellas instituciones públicas o privadas que brinden los servicios funerarios, crematorios, fosas comunes y cualquier espacio destinado a la disposición final de cuerpos humanos, deberán en tiempo dar cumplimiento a las obligaciones indicadas en el presente artículo.
+
+OCTAVO. La Fiscalía Estatal, en un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá actualizar todos aquellos registros y bases de datos vinculados con el Banco Nacional de Datos Forenses.
+
+NOVENO. Los Institutos, Centros Forenses o cualquier autoridad que tenga a su cargo los servicios periciales y/o de identificación y resguardo forense en el Estado deberán contar con la sistematización de sus bases de datos, registros o sistemas, en un plazo no mayor al año siguiente de la entrada en vigor del presente Decreto.
+
+DÉCIMO. Todas las instituciones que tengan a su cargo el resguardo de cuerpos y restos humanos de personas, identificados o no identificados, en un plazo máximo de tres meses, contados a partir de la entrada en vigor del presente Decreto, deberán diseñar, en el ámbito de sus respectivas competencias, programas específicos para la atención del rezago de larga data y de reciente ingreso.
+
+DÉCIMO PRIMERO. El Congreso del Estado deberá realizar las previsiones presupuestales necesarias para que los entes públicos puedan cumplir con lo previsto en este Decreto.
+
+DÉCIMO SEGUNDO. Los recursos para llevar a cabo la implementación de las acciones que se deriven del presente Decreto se cubrirán con cargo al presupuesto autorizado a las dependencias y entidades estatales, así como a los municipios.
