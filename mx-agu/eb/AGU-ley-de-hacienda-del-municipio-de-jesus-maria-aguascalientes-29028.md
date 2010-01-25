@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes-290
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2009-06-01"
+last_updated: "2010-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE JESUS MARIA, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE JESUS MARIA, AGUASCALIENTES, PUBLICADA EN EL P.O. DE 25 DE ENERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Octava del Alcance del Periódico Oficial del Estado de Aguascalientes, el martes 31 de diciembre de 1985.
 
@@ -1068,3 +1070,29 @@ P.O. 1 DE JUNIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ENERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Hacienda para el Municipio de Jesús María, Aguascalientes, publicada en el Periódico Oficial del Gobierno del Estado el 31 de Diciembre de 1985.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieren otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+El contenido del Artículo 166 de la presente ley, que establece la base para realizar el pago del Impuesto Sobre Adquisición de Inmuebles, se modificará para tomar como referencia el valor catastral que se establezca, en cuanto se dé a conocer por la Dirección de Finanzas Municipal, la lista definitiva de los bienes inmuebles ubicados en el Municipio de Jesús María, Aguascalientes, con tal valor.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos administrativos de ejecución, así como el ejercicio de las facultades de comprobación iniciadas antes de la entrada en vigencia de la presente Ley, y que estén pendientes de concluir, se tramitarán conforme a las disposiciones que se encontraban vigentes al momento en que se inició su trámite.
+
+###### ARTÍCULO SEXTO.
+
+El Impuesto de Fracciona-mientos (sic), entrará en vigencia hasta en tanto se fijen las tasas correspondientes en la Ley de Ingresos del Municipio de Jesús María, Aguascalientes.
