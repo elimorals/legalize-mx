@@ -4,7 +4,7 @@ identifier: "HID-ley-del-notariado-para-el-estado-de-hidalgo-5471"
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-18"
-last_updated: "1992-05-18"
+last_updated: "2010-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 25 DE ENERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 18 de mayo de 1992.
 
@@ -1468,3 +1470,31 @@ LIC. ADOLFO LUGO VERDUZCO.
 EL SECRETARIO DE GOBERNACION
 
 PROFR. HERNAN MERCADO PEREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE ENERO DE 2010.
+
+PRIMERO.- Esta Ley entrará en vigor a los 180 días naturales siguientes al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga la Ley del Notariado para el Estado de Hidalgo publicada en el Periódico Oficial del Estado de Hidalgo, el día 18 de mayo de 1992.
+
+TERCERO.- Se respetarán los derechos adquiridos y todos los asuntos y trámites iniciados durante la vigencia de la Ley del Notariado que se abroga, serán válidos hasta la etapa procedimental y de gestión en que se encuentren a la entrada en vigor de esta Ley.
+
+CUARTO.- El reglamento de la presente Ley se expedirá en un término de 90 días naturales a partir de su entrada en vigor.
+
+QUINTO.- El Colegio tendrá un plazo de 90 días naturales contados a partir de la entrada en vigor de esta Ley para expedir su reglamento interno.
+
+SEXTO.- Los Notarios Públicos deberán empezar a utilizar el Protocolo bajo el nuevo sistema de folios a más tardar 180 ciento ochenta días naturales posteriores a la entrada en vigor de la presente Ley; dentro de ese plazo, los Notarios Públicos en ejercicio podrán continuar utilizando el Protocolo ordinario ó Protocolo abierto especial que tengan en uso, deberán comunicar a la Dirección y al Colegio el número de los mismos que tengan autorizados, y en caso de agotar su espacio útil, sin haber transcurrido el plazo previsto, podrán optar por renovar sus libros, solicitándolo así a la Dirección, ó iniciar el uso de folios bajo el nuevo sistema. Transcurrido dicho plazo, o antes según sea el caso, los Notarios Públicos asentarán la razón de terminación en cada libro después de la última escritura o acta asentada. Acto seguido cancelarán las hojas no utilizadas si las hubiese y efectuaran las anotaciones de cierre que correspondan.
+
+SÉPTIMO.- La numeración de los instrumentos con la que cada Notario Público iniciará el uso del Protocolo abierto, será la que continúe al último instrumento asentado en los libros del Protocolo ordinario Que dejará de usarse
+
+OCTAVO.- Para fijar los montos y porcentajes que se apliquen a los cobros de honorarios, gastos notariales y de gestoría por la Función Notarial en los casos concretos se establecerá con las siguientes condiciones y procedimiento, el arancel que:
+
+I.- Deberá ser formulado por el Colegio, el cual hará estudios suficientes y razonables de carácter económico y actuarial para fijar una propuesta de arancel. La propuesta deberá ser formulada y entregada a las autoridades dentro de un plazo de 90 días naturales, contados a partir de la entrada en vigor de esta ley;
+
+II.- Tendrá que ser justo y proporcionado para la serie de servicios que se prestan, los solicitantes que los requieren y las funciones que desarrolle el Notario Público; deberá ser suficiente para garantizar la independencia, equilibrio y la adecuada y permanente prestación del servicio; y
+
+III.- En su regulación se deberán distinguir los diversos supuestos de la Función Notarial, su complejidad técnico Jurídica, su rango económico y las condiciones de creación del instrumento aplicando con sentido preventivo de conflictos judiciales la Ley en el caso especifico.
+
+NOVENO.- El Colegio entregará al Ejecutivo la formulación del arancel. La Secretaría lo revisará y la Coordinación dará su opinión, debiendo aprobarlo el Ejecutivo, si lo considera adecuado el arancel propuesto por el Colegio comenzará a regir a partir de su publicación en el Periódico Oficial del Estado y será de observancia obligatoria para tocos los Notarios Públicos del Estado de Hidalgo; lo mismo se aplicará a las modificaciones que se propongan con base a estudios del tipo descrito.
