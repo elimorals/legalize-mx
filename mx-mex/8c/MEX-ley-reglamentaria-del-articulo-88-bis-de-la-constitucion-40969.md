@@ -4,7 +4,7 @@ identifier: "MEX-ley-reglamentaria-del-articulo-88-bis-de-la-constitucion-40969"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-09"
-last_updated: "2004-09-09"
+last_updated: "2010-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY REGLAMENTARIA DEL ARTICULO 88 BIS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 9 de septiembre de 2004.
 
@@ -105,7 +105,9 @@ Para los efectos de esta Ley, todo lo que no esté previsto expresamente en ella
 
 Son partes en las Controversias Constitucionales:
 
-I. El actor: estado, poder o municipio o Comisionado de los Derechos Humanos, que promueva la Controversia Constitucional;
+> <small>(REFORMADA, G.G. 25 DE ENERO DE 2010)</small>
+
+I. El actor: estado, poder o municipio, que promueva la Controversia Constitucional;
 
 II. Demandado: estado, poder municipio que hubiere emitido y promulgado la disposición general o pronunciado el acto que sea objeto de la controversia; y
 
@@ -500,3 +502,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 25 DE ENERO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de menor jerarquía que se opongan al presente Decreto.
