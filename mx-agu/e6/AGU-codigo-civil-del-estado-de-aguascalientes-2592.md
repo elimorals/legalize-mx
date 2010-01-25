@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2009-11-23"
+last_updated: "2010-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2010.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2041,7 +2041,7 @@ XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro 
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
-XII.- La negativa injustificada de los cónyuges a cumplir con las obligaciones alimentarías entre sí o hacia sus hijos, sin que sea necesario agotar previamente los procedimientos tendientes a exigir su cumplimiento. También será causa de divorcio el incumplimiento sin justa causa por alguno de los cónyuges de la sentencia ejecutoriada que lo condenó al pago de alimentos a favor del otro cónyuge o de sus hijos;
+XII.- La negativa injustificada de los cónyuges a cumplir con las obligaciones alimentarias entre si o hacia sus hijos, sin que sea necesario agotar previamente los procedimientos tendientes a exigir su cumplimiento. También será causa de divorció el incumplimiento sin justa causa por alguno de los cónyuges de la sentencia ejecutoriada que lo condenó al pago de alimentos a favor del otro cónyuge o de sus hijos;
 
 XIII.- La acusación hecha por un cónyuge contra el otro, si resultare calumniosa;
 
@@ -2067,9 +2067,13 @@ XIX.- Las conductas de violencia familiar cometidas por uno de los cónyuges con
 
 Para los efectos de este artículo se entiende por violencia familiar lo dispuesto por el Artículo 347 Ter de este Código;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
 
-XX.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello.
+XX.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello; o
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2010)</small>
+
+XXI.- El sometimiento voluntario de la mujer, a un método de reproducción humana asistida sin el consentimiento de su cónyuge.
 
 ###### Artículo 290.
 
@@ -9301,7 +9305,7 @@ II.- Por muerte;
 
 III.- Por incapacidad legal, declarada en forma;
 
-IV.- Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen en menores o la Beneficencia;
+IV.- Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o la Beneficencia;
 
 V.- Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo;
 
@@ -10623,7 +10627,7 @@ Cuando la deuda de una cosa cierta y determinado procediere de delito o falta, n
 
 ###### Artículo 1891.
 
-El acreedor de una cosa pErdida o deteriorada sin culpa del deudor, se considerará dueño de cuantos derechos y acciones tuviere para reclamar la indemnización a quien fuere responsable.
+El acreedor de una cosa perdida o deteriorada sin culpa del deudor, se considerará dueño de cuantos derechos y acciones tuviere para reclamar la indemnización a quien fuere responsable.
 
 ###### Artículo 1892.
 
@@ -11793,7 +11797,7 @@ Si la venta se hizo sólo a la vista y por acervo, aun cuando sea de cosas que s
 
 ###### Artículo 2131.
 
-Habrá lugar a la rescisión si el vendedor presentare el acervo como de especie homogénea, Y ocultare en él especies de inferior clase y calidad de las que están a la vista.
+Habrá lugar a la rescisión si el vendedor presentare el acervo como de especie homogénea, y ocultare en él especies de inferior clase y calidad de las que están a la vista.
 
 ###### Artículo 2132.
 
@@ -12543,7 +12547,7 @@ El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del 
 
 Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido, se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieran habitado real y permanentemente el inmueble en vida del arrendatario.
 
-No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en esta artículo.
+No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
 
 ###### Artículo 2280.
 
@@ -13441,7 +13445,7 @@ En las operaciones hechas por el mandatario, con violación o con exceso del enc
 
 ###### Artículo 2438.
 
-El mandatario está obligado a dar oportunamente noticia al mandante, de todos los hechos o circunstancias que puedan determinarlo a revocar o modificar el encargo. Asimismo debe dársela sin demora de la ejecución de dicho encargo.
+El mandatario está obligado a dar oportunamente noticia al mandante, de todos los hechos o circunstancias que puedan determinarlo a revocar o modificar el encargo. Asimismo debe dársela sin demora de la ejecución de dicho cargo.
 
 ###### Artículo 2439.
 
@@ -16390,3 +16394,9 @@ P.O. 23 DE NOVIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE ENERO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
