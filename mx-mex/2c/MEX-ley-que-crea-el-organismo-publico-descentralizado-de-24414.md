@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-24414"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-04"
-last_updated: "1996-09-04"
+last_updated: "2010-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO TECNOLOGICO DE ESTUDIOS SUPERIORES DE COACALCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 4 de septiembre de 1996.
 
@@ -171,7 +171,9 @@ Para ser miembro de la junta directiva, se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Ser mayor de 30 años de edad;
+(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Tener experiencia profesional o laboral reconocida; en el caso de los miembros del sector público, poseer preferentemente grado de licenciatura; y
 
@@ -231,7 +233,9 @@ Para ser director se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Ser mayor de 30 años de edad y menor de 70;
+(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Poseer título en alguna de las carreras ofrecidas por el Tecnológico o en áreas afines, preferentemente con estudios de especialidad, maestría o doctorado;
 
@@ -420,3 +424,15 @@ LIC. CESAR CAMACHO QUIROZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HECTOR XIMENEZ GONZALEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 25 DE ENERO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
