@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-10167"
 country: "mx"
 rank: "ley"
 publication_date: "1991-09-07"
-last_updated: "1996-06-28"
+last_updated: "2010-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO: UNIVERSIDAD TECNOLOGICA DE NEZAHUALCOYOTL
 
-LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO: UNIVERSIDAD TECNOLÓGICA DE NEZAHUALCÓYOTL
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE FEBRERO DE 2010 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 28 DE JUNIO DE 1996.
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO: UNIVERSIDAD TECNOLÓGICA DE NEZAHUALCÓYOTLXXX
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 25 DE ENERO DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el sábado 7 de septiembre de 1991.
 
@@ -153,7 +155,7 @@ ARTICULO 8° Para ser miembro del Consejo Directivo se requiere:
 
 I. Ser ciudadano mexicano.
 
-II. Ser mayor de 30 años y menor de 65 años.
+II. (DEROGADA, G.G. 25 DE ENERO DE 2010)
 
 III. Tener experiencia académica, profesional o equivalente.
 
@@ -245,7 +247,7 @@ ARTICULO 14° Para ser rector se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Ser mayor de 35 años y menor de 65 años de edad;
+II. (DEROGADA, G.G. 25 DE ENERO DE 2010)
 
 III. Poseer Título de Educación Superior en las carreras que ofrece la Universidad o en áreas afines;
 
@@ -345,7 +347,7 @@ ARTICULO 22° Para ser secretario académico o de vinculación se requiere:
 
 I.- Ser ciudadano mexicano;
 
-II.- Ser mayor de 25 y menor de 65 años;
+II.- (DEROGADA, G.G. 25 DE ENERO DE 2010)
 
 III.- Poseer título de educación superior en las carreras que ofrece la universidad o en áreas afines; y
 
@@ -415,7 +417,7 @@ VI.- Las demás que le señalen las disposiciones universitarias.
 
 ARTICULO 29° Para ser miembro el patronato se requiere:
 
-I.- Ser mayor de 30 años; y
+I.- (DEROGADA, G.G. 25 DE ENERO DE 2010)
 
 II.- Ser persona de reconocida solvencia moral.
 
@@ -464,3 +466,15 @@ G.G. 28 DE JUNIO DE 1996.
 PRIMERO.- Publíquese el presente decreto en la Gaceta del Gobierno.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
+
+G.G. 25 DE ENERO DE 2010.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 44.- CON EL QUE SE REFORMA LA LEY QUE CREA AL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLÓGICA FIDEL VELÁZQUEZ; LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLÓGICA NEZAHUALCÓYOTL; LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MÉXICO; LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO TECNOLÓGICO DE ESTUDIOS SUPERIORES DE COACALCO; LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO TECNOLÓGICO DE ESTUDIOS SUPERIORES DE ECATEPEC; LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLÓGICA DE TECÁMAC; LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO Y AL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
