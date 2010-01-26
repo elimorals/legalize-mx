@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2009-11-18"
+last_updated: "2010-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ENERO DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -2811,7 +2811,9 @@ EE2 Remolques de trailers $ 9.00
 
 II. (DEROGADA, G.O. 12 DE ABRIL DE 2002)
 
-### CAPÍTULO QUINTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN Y CULTURA
+### CAPÍTULO QUINTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2010)</small>
 
 ###### Artículo 144.
 
@@ -2825,15 +2827,17 @@ b) Por Minuto excedente. 0.05 salarios mínimos
 
 II. Abonados. Telefónicos en línea comunal de magneto, mensualmente. 1 salario mínimo
 
+(REFORMADA SU DENOMINACION, P.O. 26 DE ENERO DE 2010
+
 ### CAPÍTULO SEXTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO REGIONAL
 
 ###### Artículo 145.
 
-Por los servicios prestados por la Secretaría de Educación y Cultura, se establece la siguiente tarifa para el pago de derechos:
+Por los servicios prestados por la Secretaría de Educación, se establece la siguiente tarifa para el pago de derechos:
 
 I. Por trámite de inscripción y reinscripción en los siguientes niveles educativos:
 
-a) Educación media superior: (semestral) 0.25 salario mínimo
+a) Educación media superior: (semestral) 0.25 salarios mínimos
 
 b) Educación terminal 1 salario mínimo
 
@@ -2853,19 +2857,19 @@ c) Educación superior:
 
 II. Por exámenes:
 
-a) A título de suficiencia para alumnos no promovidos de sexto grado de educación primaria: 0.50 salario mínimo
+a) A título de suficiencia para alumnos no promovidos de sexto grado de educación primaria: 0.50 salarios mínimos
 
-b) A título de suficiencia para alumnos que no cursaron alguna materia del Plan de Estudios del nivel medio superior vigente: 0.50 salario mínimo
+b) A título de suficiencia para alumnos que no cursaron alguna materia del Plan de Estudios del nivel medio superior vigente: 0.50 salarios mínimos
 
 c) De regularización para alumnos de los planteles de secundaria, bachillerato, de educación superior, educación terminal y Universidades Pedagógicas:
 
-1. Primera oportunidad 0.25 salario mínimo
+1. Primera oportunidad 0.25 salarios mínimos
 
-2. Segunda oportunidad 0.50 salario mínimo
+2. Segunda oportunidad 0.50 salarios mínimos
 
-3. Tercera oportunidad 0.75 salario mínimo
+3. Tercera oportunidad 0.75 salarios mínimos
 
-d) Examen profesional de Escuelas Normales y Universidades Pedagógicas:
+d) Por el examen profesional de Escuelas Normales y Universidades Pedagógicas:
 
 1. Profesor de Educación Preescolar o Primaria 1.75 salarios mínimos
 
@@ -2873,7 +2877,7 @@ d) Examen profesional de Escuelas Normales y Universidades Pedagógicas:
 
 3. Postgrado 3 salarios mínimos
 
-4. Educación terminal 0.25 salario mínimo
+4. Educación terminal 0.25 salarios mínimos
 
 e) Admisión:
 
@@ -2883,101 +2887,145 @@ e) Admisión:
 
 3. Educación terminal: 4.75 salarios mínimos
 
-I. Expedición y reexpedición de documentos:
+III. Expedición y reexpedición de documentos:
 
-a) Certificados de estudios de niveles de educación terminal, medio superior y superior: 1 salario mínimo
+a) Por los Certificados de estudios de niveles de educación terminal, medio superior y superior: 1 salario mínimo
 
-b) Duplicados de certificados de estudios de educación primaria, especial, secundaria, terminal, media superior y superior: 1 salario mínimo
+b) Por los Duplicados de certificados de estudios de educación primaria, especial, secundaria, terminal, media superior y superior: 1 salario mínimo
 
-c) Reposición de kardex en secundarias: 0.25 salario mínimo
+c) Por la reposición de kardex en secundarias: 0.25 salarios mínimos
 
-d) Certificación de kardex de estudios de educación normal: 0.75 salario mínimo
+d) Por la certificación de kardex de estudios de educación normal: 0.75 salarios mínimos
 
-e) Duplicado de credencial de educación superior: 0.50 salario mínimo
+e) Por el duplicado de credencial de educación superior: 0.50 salarios mínimos
 
-f) Constancia de calificaciones en el nivel superior: 0.50 salario mínimo
+f) Por la constancia de calificaciones en el nivel superior: 0.50 salarios mínimos
 
-g) Duplicado de boleta de calificaciones de estudios de educación superior: 1 salario mínimo
+g) Por el duplicado de boleta de calificaciones de estudios de educación superior: 1 salario mínimo
 
-h) Duplicado de constancia de servicio social: 0.25 salario mínimo
+h) Por el duplicado de constancia de servicio social: 0.25 salarios mínimos
 
-i) Título profesional:
+i) Por Título profesional:
 
-Universidades Pedagógicas. 2.50 salarios mínimos
+1. Universidades Pedagógicas. 2.50 salarios mínimos
 
-En los demás casos. 2 salarios mínimos
+2. En los demás casos. 2 salarios mínimos
 
 j) A punto y raya de examen profesional: 1 salario mínimo
 
 k) A punto y raya de título profesional: 1 salario mínimo
 
-l) Reposición del dictamen de equivalencia o revalidación de estudios: 2.25 salarios mínimo (sic)
+l) Reposición del dictamen de equivalencia o revalidación de estudios: 2.25 salarios mínimos
 
-I. Otorgamiento de autorización o de reconocimiento de validez oficial de estudios a escuelas particulares: 180 salarios mínimos
+IV. Por trámites relacionados con la autorización o Reconocimiento de validez Oficial de Estudios en planes y programas de instituciones particulares:
 
-II. Cuota anual por alumno de las escuelas particulares con autorización o con reconocimiento de validez oficial de estudios: 0.50 salario mínimo
+a) Por la solicitud, trámite y resolución de autorización o reconocimiento de validez oficial de estudios (por programa académico y modalidad):
 
-III. Convalidación, revalidación y equivalencia de estudios en los niveles de educación primaria y secundaria: 1 salario mínimo
+1. Educación Básica e Inicial 100 salarios mínimos
 
-IV. Convalidación, revalidación y equivalencia de estudios en los niveles de educación terminal y media superior: 2.5 salarios mínimo (sic)
+2. Educación Media Superior 110 salarios mínimos
 
-V. Convalidación, revalidación y equivalencia de estudios en los niveles de educación superior: 5 salarios mínimo (sic)
+3. Educación Superior 120 salarios mínimos
 
-VI. Cuota por otros servicios administrativos en los niveles terminal, media superior y superior: 0.25 salario mínimo
+4. Capacitación para el Trabajo 100 salarios mínimos
 
-VII. Autorización de traslado de alumno de educación superior de Estado a Estado: 1 salario mínimo
+b) Por alumno inscrito en instituciones particulares que cuentan con planes y programas con Autorización o Reconocimiento de Validez Oficial de Estudios (Anual, independientemente del número de ciclos escolares que tenga por año): 0.50 salarios mínimos
 
-VIII. Por los trámites relativos al ejercicio profesional:
+c) Por solicitud, trámite y resolución del refrendo anual (favorable o desfavorable) de la autorización de estudios o reconocimiento de validez oficial de estudios (por programa académico y modalidad):
 
-a) Registro de instituciones que imparten Educación Media Superior y Superior: 45 salarios mínimos
+1. Educación Básica e Inicial 3 salarios mínimos
 
-b) Registro de carreras: 23 salarios mínimos
+2. Educación Media Superior 5 salarios mínimos
 
-c) Registro de firmas autorizadas para la expedición de documentos y/o sellos para cancelarlos: 6 salarios mínimos
+3. Educación Superior 7 salarios mínimos
 
-d) Enmienda de los registros sobre instituciones que impartan educación profesional: 18 salarios mínimos
+4. Capacitación para el Trabajo 3 salarios mínimos
 
-e) Registro de Título Profesional, de diploma, de especialidad y de grado académico: 10 salarios mínimos
+d) Por solicitud, trámite y resolución (favorable o desfavorable) de cambio o ampliación de domicilio; de cambio de titular o de planes y programas de estudio en el Acuerdo por el que se otorgó el reconocimiento de validez oficial de estudios o la autorización de estudios, en su caso (por programa académico y modalidad):
 
-f) Registro y autorización para colegios de profesionistas: 30 salarios mínimos
+1. Educación Básica e Inicial 20 salarios mínimos
 
-g) Enmienda con relación a colegios de profesionistas: 10 salarios mínimos
+2. Educación Media Superior 30 salarios mínimos
 
-h) Inscripción de un asociado a un colegio de profesionistas que no figure en el registro original: 2 salarios mínimos
+3. Educación Superior 40 salarios mínimos
 
-i) Expedición a pasantes de credencial de autorización para ejercer la profesión: 9 salarios mínimos
+4. Capacitación para el Trabajo 20 salarios mínimos
 
-j) Expedición a pasantes de segunda credencial de autorización para ejercer la profesión: 11 salarios mínimos
+e) Por la solicitud y trámite para la actualización de plantilla docente, directiva, cambio de turno o cambio de denominación de la institución educativa, que preste servicios educativos con autorización o reconocimiento de validez oficial de estudios (por programa académico y modalidad):
 
-k) Expedición a pasantes de tercera credencial de autorización para ejercer la profesión: 13 salarios mínimos
+1. Educación Básica e Inicial 2 salarios mínimos
 
-l) Reposición de credencial de autorización a pasantes para ejercer la profesión: 9 salarios mínimos
+2. Educación Media Superior 2 salarios mínimos
 
-m) Registro de instituciones que imparten Educación Profesional Técnica: 23 salarios mínimos
+3. Educación Superior 2 salarios mínimos
 
-n) Enmiendas a los registros de instituciones que imparten Educación Profesional Técnica: 18 salarios mínimos
+4. Capacitación para el Trabajo 2 salarios mínimos
 
-o) Enmienda con relación a título profesional, de diploma de especialidad y de grado académico: 3 salarios mínimos
+f) Por concepto de visitas de verificación en el trámite para obtener el Reconocimiento de Validez Oficial de Estudios del tipo superior en la modalidad no escolarizada y/o mixta, a distancia: 40 salarios mínimos
 
-p) Duplicado de cédula profesional: 13 salarios mínimos
+V. Por la convalidación, revalidación y equivalencia de estudios en los niveles de educación primaria y secundaria: 1 salario mínimo
 
-q) Reposición de cédula profesional: 5 salarios mínimos
+VI. Por la convalidación, revalidación y equivalencia de estudios en los niveles de educación terminal y media superior: 2.5 salarios mínimos
 
-r) Registro de títulos profesionales de otras universidades del país: 10 salarios mínimos
+VII. Por la convalidación, revalidación y equivalencia de estudios en los niveles de educación superior: 5 salarios mínimos
 
-s) Gestoría de tramitación de registros de títulos profesionales y expedición de cédula profesional ante la S.E.P. México: 7 salarios mínimos
+VIII. Por autorización de traslado de alumnos de educación superior de Estado a Estado: 1 salario mínimo
 
-t) Pago por cotejo de documentos: 4 salarios mínimos
+IX. Por los trámites relativos al ejercicio profesional:
 
-u) Expedición de constancias de registro: 4 salarios mínimos
+a) Por registro de instituciones que imparten educación media superior y superior: 45 salarios mínimos
 
-v) Expedición de autorización provisional para ejercer, por encontrarse el título profesional en trámite: 6 salarios mínimos
+b) Por el registro de carreras: 23 salarios mínimos
 
-w) Expedición de constancias de archivo: 4 salarios mínimos
+c) Por el registro de firmas autorizadas para la expedición de documentos y/o sellos para cancelarlos: 6 salarios mínimos
+
+d) Por la enmienda de los registros sobre instituciones que impartan educación profesional: 18 salarios mínimos
+
+e) Por el registro de título profesional, de diploma, de especialidad y de grado académico: 10 salarios mínimos
+
+f) Por el registro y autorización para colegios de profesionistas: 30 salarios mínimos
+
+g) Por la enmienda con relación a colegios de profesionistas: 10 salarios mínimos
+
+h) Por la Inscripción de un asociado a un colegio de profesionistas que no figure en el registro original: 2 salarios mínimos
+
+i) Por la expedición a pasantes de credencial de autorización para ejercer la profesión: 5 salarios mínimos
+
+j) Por la expedición a pasantes de segunda credencial de autorización para ejercer la profesión: 11 salarios mínimos
+
+k) Por la expedición a pasantes de tercera credencial de autorización para ejercer la profesión: 13 salarios mínimos
+
+l) Por la reposición de credencial de autorización a pasantes para ejercer la profesión: 9 salarios mínimos
+
+m) Por el registro de instituciones que imparten Educación Profesional Técnica: 23 salarios mínimos
+
+n) Por las enmiendas a los registros de instituciones que imparten Educación Profesional Técnica: 18 salarios mínimos
+
+o) Por la enmienda con relación a título profesional, de diploma, de especialidad y de grado académico: 3 salarios mínimos
+
+p) Por el duplicado de cédula profesional: 13 salarios mínimos
+
+q) Por la reposición de cédula profesional: 5 salarios mínimos
+
+r) Por el registro de títulos profesionales de otras universidades del país: 10 salarios mínimos
+
+s) Por la gestoría de tramitación de registros de títulos profesionales y expedición de cédula profesional ante la SEP. México: 7 salarios mínimos
+
+t) Por el cotejo de documentos: 4 salarios mínimos
+
+u) Por la expedición de constancias de registro: 4 salarios mínimos
+
+v) Por la expedición de autorización provisional para ejercer, por encontrarse el título profesional en trámite: 6 salarios mínimos
+
+w) Por la expedición de constancias de archivo: 4 salarios mínimos
+
+x) Por la gestoría de tramitación de registro de instituciones que imparten Educación Media Superior y Superior ante la SEP, México: 10 salarios mínimos
+
+y) Por la expedición de constancia de documentación en trámite: 1 salario mínimo
 
 No se cobrarán los derechos a que se refiere esta fracción cuando se dé cualquiera de los siguientes supuestos:
 
-I. Por los registros correspondientes, a las instituciones que imparten educación profesional en el Estado de Veracruz, que dependan de la Secretaría de Educación y Cultura.
+1. Por los registros correspondientes, a las instituciones que imparten educación profesional en el Estado de Veracruz, que dependan de la Secretaría de Educación de Veracruz.
 
 2. Por autorización para el ejercicio profesional, por registro de título profesional y por expedición de cédula profesional a los maestros con título específico para enseñanza en cualquiera de sus grados.
 
@@ -8572,3 +8620,9 @@ G.O. 18 DE NOVIEMBRE DE 2009.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE ENERO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Todos aquellos casos que se encuentren en trámite a la entrada en vigor de estas reformas, continuarán rigiéndose por las normas vigentes y se resolverán conforme a ellas.
