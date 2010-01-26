@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-comite-de-admision-y-evaluacion-del-programa-606
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2008-03-14"
+last_updated: "2010-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MEX"
 
 REGLAMENTO DEL COMITE DE ADMISION Y EVALUACION DEL PROGRAMA "APADRINA A UN NIÑO INDIGENA" DE LA SECRETARIA DE DESARROLLO SOCIAL DEL GOBIERNO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2010.
 
 Reglamento publicado en la Sección Primera de la Gaceta de Gobierno del Estado de México, el viernes 14 de marzo de 2008.
 
@@ -58,25 +58,37 @@ V. Reglamento: Al Reglamento del Comité de Admisión y Evaluación del programa
 
 VI. Reglas de Operación del programa: A las Reglas de Operación del programa “Apadrina a un Niño Indígena”.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE ENERO DE 2010)</small>
+
 ###### Artículo 3.
 
-El Comité se integrará de la forma siguiente:
+El Comité es la máxima autoridad del Programa y se integrará de la forma siguiente:
 
 I. Un Presidente, que será el Secretario de Desarrollo Social del Gobierno del Estado de México;
 
-II. Un Secretario Técnico, que será designado por el Presidente del Comité;
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2010)</small>
+
+II. Un Secretario Técnico, que será el Vocal Ejecutivo del CEDIPIEM;
 
 III. Un Comisario, que será designado por la Secretaría de la Contraloría a petición del Secretario de Desarrollo Social;
 
-IV. Cuatro vocales, que serán los siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE ENERO DE 2010)</small>
+
+IV. Seis vocales, que serán los siguientes:
 
 a) El Secretario de Finanzas;
 
 b) El Secretario de Educación;
 
-c) El Vocal Ejecutivo del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México; y
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2010)</small>
 
-d) Un representante de la sociedad civil o de una institución académica.
+c) El Coordinador de Concertación Interinstitucional de la SEDESEM;
+
+d) Un representante de la sociedad civil o de una institución académica;
+
+> <small>(ADICIONADO, G.G. 26 DE ENERO DE 2010)</small>
+
+e) Dos representantes de la iniciativa privada.
 
 V. Cuatro invitados permanentes, que serán:
 
@@ -196,7 +208,7 @@ IX. Vigilar el cumplimiento de los acuerdos tomados por el Comité;
 
 X. Aprobar y firmar las actas de las sesiones;
 
-XI. Designar al Secretario Técnico;
+XI. (DEROGADA, G.G. 26 DE ENERO DE 2010)
 
 XII. Apelar al recurso de la dispensa de la lectura del acta anterior, de no existir observaciones en la misma;
 
@@ -234,7 +246,11 @@ X. Computar las votaciones;
 
 XI Enviar a los integrantes del Comité, copia del acta de cada una de las sesiones dentro de los diez días hábiles siguientes a la celebración de las mismas, a efecto de que realicen las observaciones que se estimen procedentes, en su caso validarla;
 
-XII. Levantar el acta de cada sesión, relacionando los asuntos tratados y los acuerdos tomados.
+XII. Levantar el acta de cada sesión, relacionando los asuntos tratados y los acuerdos tomados;
+
+> <small>(ADICIONADA, G.G. 26 DE ENERO DE 2010)</small>
+
+XIII. Dar cumplimiento y ejecutar los acuerdos y resoluciones que emita el Comité.
 
 ### CAPITULO CUARTO. DE LAS ATRIBUCIONES DEL COMISARIO
 
@@ -415,3 +431,13 @@ LIC. ERNESTO NEMER ALVAREZ
 SECRETARIO DE DESARROLLO SOCIAL Y PRESIDENTE DEL COMITE DE ADMISION Y EVALUACION
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 26 DE ENERO DE 2010.
+
+PRIMERO.- Publíquese el presente Acuerdo, en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
