@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-publica-63641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2009-10-28"
+last_updated: "2010-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63641&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de octubre de 2008.
 
@@ -72,9 +72,7 @@ b) Dirección General de Inspección Policial.
 
 c) Dirección Ejecutiva de Comunicación Social.
 
-> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-d) Coordinación General del Proyecto Bicentenario.
+d) (DEROGADO, G.O. 26 DE ENERO DE 2010)
 
 II. Unidades de Policía Complementaria:
 
@@ -1314,39 +1312,7 @@ XVII. Las demás que le atribuya la normatividad vigente.
 
 ###### Artículo 41.
 
-Son atribuciones de la Coordinación General de Proyecto Bicentenario:
-
-I. Coordinar y supervisar los trabajos de evaluación, desarrollo, implementación, pruebas y puesta en marcha del Sistema Multidisciplinario con Sensores, Comando, Control, Comunicaciones, y Computación, Información, Inteligencia, Investigación e Integración SMSC4i4 (Proyecto “Bicentenario” de la Ciudad de México);
-
-II. Establecer y aplicar los mecanismos de coordinación para la planeación e implementación del Proyecto “Bicentenario”, con las diferentes instituciones gubernamentales y privadas;
-
-III. Integrar y coordinar estudios, análisis, aspectos técnicos, tecnológicos, operativos y logísticos para la creación, ejecución y desarrollo del Proyecto “Bicentenario”;
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-IV. Coordinar procedimientos y acciones de control de la aplicación en materia de obras, adquisiciones, arrendamientos y servicios que correspondan conforme a la legislación y normatividad aplicable, al proyecto, conjuntamente con la Coordinación responsable e instancias correspondientes del Gobierno del Distrito Federal y Gobiernos Federal y Locales;
-
-V. Vigilar el cumplimiento de los reglamentos, leyes y demás ordenamientos jurídico - administrativos que competan para la implementación y ejecución del proyecto “Bicentenario”;
-
-VI. Supervisar el desarrollo del Proyecto “Bicentenario”, apegándose a los objetivos, alcances y tiempos comprometidos;
-
-VII. Coordinar la elaboración de bitácoras, memorias e informes diversos, que den a conocer objetivamente avances, tendencias y modificaciones del Proyecto “Bicentenario”; y (sic)
-
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-VIII. Suscribir documentos relativos al ejercicio de sus atribuciones, así como suscribir dictámenes, justificaciones, contratos, convenios, incluyendo su rescisión y terminación anticipada de estos últimos, y demás actos jurídicos de carácter administrativo o de cualquier otra índole que se celebren de conformidad con la Ley de Adquisiciones y su Reglamento, y Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y su Reglamento;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-IX. Establecer y coordinar los mecanismos necesarios para garantizar la operación del proyecto en operación cotidiana, en crisis y en desastres mayores;
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-X. Coordinar y supervisar los trabajos, estudios, aspectos técnicos, operativos, tecnológicos y logísticos para la correcta transferencia de conocimiento y tecnología al Gobierno del Distrito Federal en relación al Proyecto “Bicentenario”; y
-
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
-
-XI. Las demás que le atribuya la normativa vigente.
+(DEROGADO, G.O. 26 DE ENERO DE 2010)
 
 ###### Artículo 42.
 
@@ -1727,3 +1693,13 @@ Primero. - Publíquese en la Gaceta Oficial del Distrito Federal.
 Segundo. - El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 Tercero. - La Secretaría de Seguridad Pública del Distrito Federal emitirá las adecuaciones a sus manuales en los plazos que establezca la normativa vigente.
+
+G.O. 26 DE ENERO DE 2010.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Tercero.- La coordinación y supervisión de los trabajos de evaluación, desarrollo, implementación, pruebas y puesta en marcha del Sistema Multidisciplinario con Sensores, Comando, Control, Comunicación y Computación, Información, Inteligencia, Investigación e Integración SMSC4i4 (sic) (Proyecto Bicentenario de la Ciudad de México) y su concreción serán desarrollados por el Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México, quien establecerá y coordinará los mecanismos necesarios para garantizar su operación cotidiana, en crisis y en desastres mayores.
+
+Cuarto.- La Secretaría de Seguridad Pública del Distrito Federal deberá proceder a realizar las adecuaciones jurídico - administrativas y presupuestales para que los recursos humanos, materiales y financieros asignados al desarrollo del Proyecto Bicentenario "Ciudad Segura" de la Ciudad de México se transfieran al Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México.
