@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-jge101-2009-de-la-junta-general-ejecutiva-del-71264"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-01-08"
-last_updated: "2010-01-08"
+last_updated: "2010-01-27"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71264&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-30"
 
 ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA ADQUISICION Y ENAJENACION DE INMUEBLES DEL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 2010.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 8 de enero de 2010.
 
@@ -111,137 +111,9 @@ FUNDAMENTO LEGAL
 
 #### SECCION III. DEL PROCEDIMIENTO DE ARRENDAMIENTO FINANCIERO
 
-#### Sección I. De las solicitudes y su factibilidad
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2010)</small>
 
-Sin excepción, todas las solicitudes de adquisición de inmuebles serán presentadas ante la Dirección Ejecutiva de Administración, al tenor de las siguientes directrices.
-
-1. En una primera instancia, las Unidades Administrativas interesadas en proponer la adquisición de un inmueble, deberán solicitar a la Dirección Ejecutiva de Administración, preferentemente dentro del segundo trimestre del ejercicio fiscal que corresponda, la valoración del inmueble propuesto, especificando los siguientes datos:
-
-Inmueble actual
-
-- Domicilio
-
-- M2 del terreno
-
-- M2 de construcción
-
-- Importe mensual de renta (en caso de que el Instituto lo esté ocupando)
-
-- Valor comercial aproximado del inmueble
-
-- Años de ocupación (en caso de que el Instituto lo esté ocupando)
-
-- Antigüedad del inmueble
-
-- Adecuaciones, mejoras y equipos especiales instalados por el Instituto (en caso de que el Instituto lo esté ocupando)
-
-Inmueble propuesto (en caso de que el Instituto no lo esté ocupando)
-
-- Domicilio
-
-- M2 del terreno
-
-- M2 de construcción
-
-- Valor comercial aproximado del inmueble
-
-- Antigüedad del inmueble
-
-2. Con base en los datos proporcionados por las áreas solicitantes, la Dirección Ejecutiva de Administración realizará un primer análisis financiero, para determinar si para ese ejercicio fiscal se cuenta con los recursos suficientes para solventar la(s) solicitud(es), o en su caso, hacer las previsiones presupuestales correspondientes para el siguiente ejercicio. En este último caso, será responsabilidad de las Unidades Administrativas considerar en su anteproyecto de presupuesto del siguiente ejercicio fiscal, los recursos para la adquisición del inmueble propuesto.
-
-Aunado a lo anterior, la Dirección Ejecutiva de Administración analizará cual de los procedimientos de adquisición de inmuebles es el más conveniente para el Instituto.
-
-Producto de los análisis financiero y procedimental, la Dirección Ejecutiva de Administración emitirá un dictamen preliminar de procedencia, el cual remitirá al área solicitante dentro de los siguientes 30 días naturales a la fecha de recibida la solicitud.
-
-El Dictamen de la Dirección Ejecutiva de Administración deberá contener como mínimo la siguiente información:
-
-a) La aceptación o no de la solicitud para análisis.
-
-b) Breve justificación, en el caso que no haya sido aceptada la solicitud.
-
-c) Precisar el procedimiento de adquisición (compra-venta o arrendamiento financiero), en el caso que haya sido aceptada la solicitud.
-
-d) El listado de documentos que el área solicitante deberá requerir al propietario del inmueble propuesto (para el avalúo, para el contrato de compra-venta o para el contrato de arrendamiento financiero, los cuales deberán entregarse junto a la justificación detallada a que se refiere el punto 3 de esta sección).
-
-e) La fecha máxima en la cual deberá entregar la justificación detallada sobre la conveniencia de la adquisición del inmueble.
-
-3. En el caso de las solicitudes aceptadas, el área solicitante deberá realizar una amplia justificación sobre la funcionalidad del inmueble propuesto, misma que deberá ser remitida a la Dirección Ejecutiva de Administración dentro de los 60 días naturales posteriores a la recepción del dictamen preliminar de procedencia. En esta justificación se deberá:
-
-a) Demostrar que la ubicación del inmueble corresponda al ámbito de su jurisdicción (órganos delegacionales), que las avenidas cercanas y colindantes al inmueble, cuenten con transporte público para facilitar la llegada del personal y de los usuarios del servicio, cuidando que las dimensiones de esas vías, permitan el libre tránsito de los vehículos usados por el Instituto con fines operativos, el número de personas a quienes se les otorgará el servicio y preferentemente la ubicación del inmueble en una zona dedicada al uso de suelo destinado a oficinas.
-
-b) Comprobar que las dimensiones, distribución y funcionamiento del inmueble, sean las adecuadas para las actividades operativas que se pretendan realizar en ellos, tomando en cuenta la seguridad, higiene y funcionalidad del inmueble, teniendo especial atención, para el caso de los órganos delegacionales, en los espacios destinados a la Sala del Consejo, la Bodega Electoral, en su caso el CEVEM (y su planta de emergencia), el SITE, espacio para el archivo institucional, el Módulo de Atención Ciudadana, para el resguardo del material electoral, el descanso del personal de custodia (durante proceso electoral) y la factibilidad de incorporar la infraestructura necesaria para el cableado de voz y datos.
-
-c) Demostrar el cumplimiento de la normatividad vigente emitida por los Gobiernos Estatales, Municipales o Delegacionales, según el caso, aplicable en materia de uso de suelo, estacionamientos, construcciones, seguridad estructural, protección civil (salidas y escaleras de emergencia, señalamientos, etc.), y protección del medio ambiente.
-
-d) Corroborar, a través de la documentación oficial del inmueble, que su antigüedad no rebase los 30 años desde su construcción, en caso de que éste tuviera una edad mayor a la indicada, solicitarán e incluirán la opinión técnica de un corresponsable estructural o un director responsable de obra para determinar la procedencia de autorización de adquisición.
-
-e) Verificar que el inmueble, con base al uso de suelo autorizado, preferentemente haya sido diseñado y construido para uso de oficinas o almacén.
-
-f) Procurar que, en la medida de lo posible, se cumpla con la aplicación de los criterios de superficies máximas de ocupación contenidos en el Capítulo III de estos Lineamientos.
-
-g) Verificar que la distribución existente y los espacios, puedan adecuarse a las necesidades propias de los órganos administrativos que lo ocuparán, tomando en cuenta preferentemente que las alturas interiores del inmueble (piso a techo) tenga un mínimo de 2.30 mts.
-
-h) Comprobar que se cuente con un área destinada para estacionamiento.
-
-i) Procurar que los materiales de acabados, instalaciones y equipos existentes en el inmueble, no se encuentren deteriorados, mal instalados, faltos de mantenimiento y/o fuera de operación, o bien requieran de alguna reparación, tomando en cuenta la verificación de los puntos siguientes:
-
-- Muros
-
-- Plafones
-
-- Pisos
-
-- Cancelería
-
-- Carpintería
-
-- Instalaciones Hidro-sanitarias
-
-- Muebles Sanitarios y sus accesorios
-
-- Instalaciones Eléctricas
-
-- Instalación de Cableado Estructurado (voz y datos, en su caso)
-
-- Instalación de Aire Acondicionado
-
-- Instalaciones especiales
-
-- Equipos de transportación vertical (elevadores)
-
-j) Procurar que los espacios interiores tengan condiciones adecuadas de temperatura, asoleamiento y ventilación natural o que su situación pueda ser mejorada sin que esto represente costos adicionales importantes para el Instituto y que eficiente el consumo de energía eléctrica y agua.
-
-k) Con el propósito de verificar que la situación legal del inmueble que se pretende adquirir se encuentre en regla, deberán presentar copia de los siguientes documentos:
-
-- Copia Certificada de la Escritura con la que se acredita la propiedad del inmueble, la cual deberá incluir el sello de registro ante el Registro Público de la Propiedad.
-
-- Copia certificada del folio real con el cual se encuentra inscrito el inmueble ante el Registro Público de la Propiedad.
-
-- Certificado de libertad de Gravámenes, otorgado por el Registro Público de la Propiedad, con fecha de expedición de no más de un mes contado a partir de la fecha del oficio.
-
-- Constancia de no adeudo de impuesto predial, expedido por la Tesorería Local.
-
-- Constancia de no adeudo por el suministro de agua, expedido por el Sistema de Aguas de la localidad, o autoridad competente.
-
-- Constancia de no adeudo por el suministro de energía eléctrica, expedido por la Comisión Federal de Electricidad.
-
-- Constancia de uso suelo, actualizada y expedida por la Delegación Política o Municipio, o por la autoridad competente.
-
-- Dictamen de Seguridad Estructural de la construcción.
-
-- Identificación Oficial del Dueño.
-
-- Poder Notarial e identificación del apoderado legal, en caso de que éste sea el que vaya a realizar todos los trámites de compra-venta.
-
-La documentación señalada en el inciso k), será remitida a la Dirección Jurídica para su validación.
-
-4. Recibida la justificación detallada por parte de la Unidad Administrativa solicitante, las (sic) Dirección Ejecutiva de Administración emitirá un dictamen final de procedencia, para lo cual podrán solicitar la opinión de las Direcciones Ejecutivas, Unidades Técnicas, Juntas Ejecutivas Locales y Distritales, cuando así se requiera, o trasladarse a la entidad federativa donde se encuentre el inmueble propuesto. El dictamen deberá elaborarse dentro de los 30 días naturales a la fecha de recepción de la justificación.
-
-5. El dictamen final de procedencia positivo, se someterá a la consideración del Secretario Ejecutivo, quien autorizará presentar las solicitudes de adquisición ante la Junta General Ejecutiva, la cual aprobará o desechará dichas propuestas.
-
-6. Para el caso de las propuestas cuya adquisición del inmueble sea a través del arrendamiento financiero, éstas deberán especificar el procedimiento de contratación mediante el cual se pretende adjudicar.
-
-7. En la contratación de los notarios públicos se establecerá la obligación de realizar las gestiones correspondientes para obtener la inscripción de las escrituras relativas en el Registro Público de la Propiedad Federal y en el Registro Público de la Propiedad que corresponda a la ubicación del inmueble, y a remitir al Instituto el testimonio respectivo debidamente inscrito, en un plazo no mayor de seis meses contados a partir de la fecha en la que hayan autorizado cada escritura, salvo en casos debidamente justificados.
+#### SECCION IV. DEL PROCEDIMIENTO DE CREDITO HIPOTECARIO
 
 ### CAPITULO V. DEL CALCULO DE SUPERFICIES
 
@@ -303,6 +175,10 @@ Bienes inmuebles: Aquellos que no se pueden trasladar tales como: edificios, loc
 
 Bienes Inmuebles no útiles: Se consideran inmuebles sin utilidad institucional, aquéllos que por sus características o condiciones físicas, funcionalidad, imagen institucional, ubicación, seguridad estructural, restricciones de uso, mantenimiento o conservación, no son susceptibles de ser aprovechados de manera razonable y suficiente para satisfacer las necesidades del Instituto, conforme al dictamen que emita la Dirección de Recursos Materiales y Servicios.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2010)</small>
+
+Crédito Hipotecario: Contrato por el cual una entidad financiera pone dinero a disposición del beneficiario hasta un límite señalado y por un plazo determinado, percibiendo periódicamente los intereses sobre las cantidades dispuestas, obligándose el beneficiario a devolver a la entidad las cantidades adeudadas en el plazo estipulado.
+
 Dictamen de Procedencia: Es el documento que emite la Dirección Ejecutiva de Administración, sobre la viabilidad o no de las propuestas presentadas por las áreas solicitantes para la adquisición de un inmueble.
 
 Dictamen de Seguridad Estructural: Es la opinión y juicio que se forma o emite sobre las condiciones de una estructura sea casa, edificio, techumbre o cualquier conjunto de elementos y materiales que puedan formar una estructura, utilizando pruebas no destructivas aplicadas en la estructura que se dictamina para obtener datos que permitan generar información con la cual se determinen las condiciones actuales de la estructura dictaminada; éste se aplica tanto para saber condiciones de servicio actuales o por posible cambio de uso.
@@ -347,47 +223,187 @@ d) Las Juntas Locales Ejecutivas.
 
 2. Se promoverá, en la medida que el presupuesto otorgado al Instituto lo permita, la sustitución paulatina del gasto en arrendamiento por inversiones, dotando al Instituto de una infraestructura inmobiliaria propia, acorde a las labores que por mandato constitucional le corresponden.
 
-3. De conformidad con lo establecido en el artículo 125, incisos a), k) y q) del Código Federal de Instituciones y Procedimientos Electorales, será el Secretario Ejecutivo quien suscriba los contratos de compra-venta, de arrendamiento financiero y de enajenación de inmuebles, u otorgue poderes a terceros previo Acuerdo del Consejo General, con esta finalidad. De todas estas operaciones se presentará un informe a la Junta General Ejecutiva.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2010)</small>
 
-4. Los procedimientos de adquisición de inmuebles, podrán ser a través de compra-venta directa o de arrendamiento financiero.
+3. De conformidad con lo establecido en el artículo 125, incisos a), k) y q) del Código Federal de Instituciones y Procedimientos Electorales, será el Secretario Ejecutivo quien suscriba los contratos de compra-venta, de arrendamiento financiero, de crédito hipotecario y de enajenación de inmuebles, u otorgue poderes a terceros previo Acuerdo del Consejo General, con esta finalidad. De todas estas operaciones se presentará un informe a la Junta General Ejecutiva.
 
-5. Para el caso de los contratos de arrendamiento financiero, que por su naturaleza abarcan más de dos ejercicios fiscales, la Dirección Ejecutiva de Administración, deberá obtener de la Secretaría Ejecutiva la autorización de compromisos presupuestales que se generen para cada uno de los ejercicios subsecuentes, y asentarlo en los Lineamientos Generales para la Programación, Presupuestación y Evaluación para el Ejercicio Fiscal que corresponda (partidas con compromiso contractual).
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2010)</small>
+
+4. Los procedimientos de adquisición de inmuebles, podrán ser a través de compra-venta directa, crédito hipotecario o de arrendamiento financiero.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2010)</small>
+
+5. Para el caso de los contratos de crédito hipotecario o de arrendamiento financiero, que por su naturaleza abarcan más de dos ejercicios fiscales, la Dirección Ejecutiva de Administración, deberá obtener de la Secretaría Ejecutiva la autorización de compromisos presupuestales que se generen para cada uno de los ejercicios subsecuentes, y asentarlo en los Lineamientos Generales para la Programación, Presupuestación y Evaluación para el Ejercicio Fiscal que corresponda (partidas con compromiso contractual).
 
 6. La Dirección de Recursos Materiales y Servicios, será la responsable de la actualización de la información contenida en el padrón inmobiliario del Instituto, mediante su registro en la página Web del Instituto, en el apartado correspondiente a la Dirección Ejecutiva de Administración.
 
-7. Para la celebración de los contratos de compra venta, de arrendamiento financiero o de enajenación de inmuebles, las Unidades Administrativas del Instituto deberán observar las medidas de racionalidad, austeridad y disciplina presupuestal que establezca el Decreto de Presupuesto de Egresos, el Acuerdo del Consejo General que apruebe el presupuesto modificado y la Junta General Ejecutiva para el año que corresponda.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2010)</small>
+
+7. Para la celebración de los contratos de compra venta, de crédito hipotecario, de arrendamiento financiero o de enajenación de inmuebles, las Unidades Administrativas del Instituto deberán observar las medidas de racionalidad, austeridad y disciplina presupuestal que establezca el Decreto de Presupuesto de Egresos, el Acuerdo del Consejo General que apruebe el presupuesto modificado y la Junta General Ejecutiva para el año que corresponda.
 
 8. Los inmuebles que hayan dejado de ser útiles para las actividades encomendadas al Instituto Federal Electoral, podrán ser objeto de actos de administración y disposición.
 
 9. La enajenación de los inmuebles propiedad del Instituto, se realizará preferentemente mediante procedimiento licitatorio, buscando las mejores condiciones para el Instituto; sin embargo, a fin de generar un beneficio social, se podrá donar los inmuebles no útiles para el Instituto, a favor de organismos públicos o privados dedicados a la asistencia social, y en el caso de los privados, sin fines de lucro.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2010)</small>
+
 ### CAPITULO IV. DE LAS SOLICITUDES Y PROCEDIMIENTOS DE ADQUISICION
+
+#### Sección I. De las solicitudes y su factibilidad
+
+Sin excepción, todas las solicitudes de adquisición de inmuebles serán presentadas ante la Dirección Ejecutiva de Administración, al tenor de las siguientes directrices.
+
+1. En una primera instancia, las Unidades Administrativas interesadas en proponer la adquisición de un inmueble, deberán solicitar a la Dirección Ejecutiva de Administración, preferentemente dentro del segundo trimestre del ejercicio fiscal que corresponda, la valoración del inmueble propuesto, especificando los siguientes datos:
+
+Inmueble actual
+
+- Domicilio
+
+- M2 del terreno
+
+- M2 de construcción
+
+- Importe mensual de renta (en caso de que el Instituto lo esté ocupando)
+
+- Valor comercial aproximado del inmueble
+
+- Años de ocupación (en caso de que el Instituto lo esté ocupando)
+
+- Antigüedad del inmueble
+
+- Adecuaciones, mejoras y equipos especiales instalados por el Instituto (en caso de que el Instituto lo esté ocupando)
+
+Inmueble propuesto (en caso de que el Instituto no lo esté ocupando)
+
+- Domicilio
+
+- M2 del terreno
+
+- M2 de construcción
+
+- Valor comercial aproximado del inmueble
+
+- Antigüedad del inmueble
+
+2. Con base en los datos proporcionados por las áreas solicitantes, la Dirección Ejecutiva de Administración realizará un primer análisis financiero, para determinar si para ese ejercicio fiscal se cuenta con los recursos suficientes para solventar la(s) solicitud(es), o en su caso, hacer las previsiones presupuestales correspondientes para el siguiente ejercicio. En este último caso, será responsabilidad de las Unidades Administrativas considerar en su anteproyecto de presupuesto del siguiente ejercicio fiscal, los recursos para la adquisición del inmueble propuesto.
+
+Aunado a lo anterior, la Dirección Ejecutiva de Administración analizará cual de los procedimientos de adquisición de inmuebles es el más conveniente para el Instituto.
+
+Producto de los análisis financiero y procedimental, la Dirección Ejecutiva de Administración emitirá un dictamen preliminar de procedencia, el cual remitirá al área solicitante dentro de los siguientes 30 días naturales a la fecha de recibida la solicitud.
+
+El Dictamen de la Dirección Ejecutiva de Administración deberá contener como mínimo la siguiente información:
+
+a) La aceptación o no de la solicitud para análisis.
+
+b) Breve justificación, en el caso que no haya sido aceptada la solicitud.
+
+c) Precisar el procedimiento de adquisición (compra-venta, crédito hipotecario o arrendamiento financiero), en el caso que haya sido aceptada la solicitud.
+
+d) El listado de documentos que el área solicitante deberá requerir al propietario del inmueble propuesto (para el avalúo, para el contrato de compra-venta, de crédito hipotecario o para el contrato de arrendamiento financiero, los cuales deberán entregarse junto a la justificación detallada a que se refiere el punto 3 de esta sección).
+
+e) La fecha máxima en la cual deberá entregar la justificación detallada sobre la conveniencia de la adquisición del inmueble.
+
+3. En el caso de las solicitudes aceptadas, el área solicitante deberá realizar una amplia justificación sobre la funcionalidad del inmueble propuesto, misma que deberá ser remitida a la Dirección Ejecutiva de Administración dentro de los 60 días naturales posteriores a la recepción del dictamen preliminar de procedencia. En esta justificación se deberá:
+
+a) Incluir el avalúo realizado por cualquier institución financiera o de valores, u organismo público o privado que provea este servicio. Para el caso de oficinas centrales, será la Dirección Ejecutiva de Administración quien lo solicite, y los Vocales Ejecutivos de las Juntas Locales Ejecutivas, por lo que hace a los órganos delegacionales;
+
+b) Demostrar que la ubicación del inmueble corresponda al ámbito de su jurisdicción (órganos delegacionales), que las avenidas cercanas y colindantes al inmueble, cuenten con transporte público para facilitar la llegada del personal y de los usuarios del servicio, cuidando que las dimensiones de esas vías, permitan el libre tránsito de los vehículos usados por el Instituto con fines operativos, el número de personas a quienes se les otorgará el servicio y preferentemente la ubicación del inmueble en una zona dedicada al uso de suelo destinado a oficinas;
+
+c) Comprobar que las dimensiones, distribución y funcionamiento del inmueble, sean las adecuadas para las actividades operativas que se pretendan realizar en ellos, tomando en cuenta la seguridad, higiene y funcionalidad del inmueble, teniendo especial atención, para el caso de los órganos delegacionales, en los espacios destinados a la Sala del Consejo, la Bodega Electoral, en su caso el CEVEM (y su planta de emergencia), el SITE, espacio para el archivo institucional, el Módulo de Atención Ciudadana, para el resguardo del material electoral, el descanso del personal de custodia (durante proceso electoral) y la factibilidad de incorporar la infraestructura necesaria para el cableado de voz y datos.
+
+d) Demostrar el cumplimiento de la normatividad vigente emitida por los Gobiernos Estatales, Municipales o Delegacionales, según el caso, aplicable en materia de uso de suelo, estacionamientos, construcciones, seguridad estructural, protección civil (salidas y escaleras de emergencia, señalamientos, etc.), y protección del medio ambiente;
+
+e) Corroborar, a través de la documentación oficial del inmueble, que su antigüedad no rebase los 30 años desde su construcción, en caso de que éste tuviera una edad mayor a la indicada, solicitarán e incluirán la opinión técnica de un corresponsable estructural o un director responsable de obra para determinar la procedencia de autorización de adquisición.
+
+f) Verificar que el inmueble, con base al uso de suelo autorizado, preferentemente haya sido diseñado y construido para uso de oficinas o almacén;
+
+g) Procurar que, en la medida de lo posible, se cumpla con la aplicación de los criterios de superficies máximas de ocupación contenidos en el Capítulo III de estos Lineamientos.
+
+h) Verificar que la distribución existente y los espacios, puedan adecuarse a las necesidades propias de los órganos administrativos que lo ocuparán, tomando en cuenta preferentemente que las alturas interiores del inmueble (piso a techo) tenga un mínimo de 2.30 mts.
+
+i) Comprobar que se cuente con un área destinada para estacionamiento.
+
+j) Procurar que los materiales de acabados, instalaciones y equipos existentes en el inmueble, no se encuentren deteriorados, mal instalados, faltos de mantenimiento y/o fuera de operación, o bien requieran de alguna reparación, tomando en cuenta la verificación de los puntos siguientes:
+
+- Muros
+
+- Plafones
+
+- Pisos
+
+- Cancelería
+
+- Carpintería
+
+- Instalaciones Hidro-sanitarias
+
+- Muebles Sanitarios y sus accesorios
+
+- Instalaciones Eléctricas
+
+- Instalación de Cableado Estructurado (voz y datos, en su caso)
+
+- Instalación de Aire Acondicionado
+
+- Instalaciones especiales
+
+- Equipos de transportación vertical (elevadores)
+
+k) Procurar que los espacios interiores tengan condiciones adecuadas de temperatura, asoleamiento y ventilación natural o que su situación pueda ser mejorada sin que esto represente costos adicionales importantes para el Instituto y que eficiente el consumo de energía eléctrica y agua.
+
+l) Con el propósito de verificar que la situación legal del inmueble que se pretende adquirir se encuentre en regla, deberán presentar copia de los siguientes documentos:
+
+- Copia Certificada de la Escritura con la que se acredita la propiedad del inmueble, la cual deberá incluir el sello de registro ante el Registro Público de la Propiedad.
+
+- Copia certificada del folio real con el cual se encuentra inscrito el inmueble ante el Registro Público de la Propiedad.
+
+- Certificado de libertad de Gravámenes, otorgado por el Registro Público de la Propiedad, con fecha de expedición de no más de un mes contado a partir de la fecha del oficio.
+
+- Constancia de no adeudo de impuesto predial, expedido por la Tesorería Local.
+
+- Constancia de no adeudo por el suministro de agua, expedido por el Sistema de Aguas de la localidad, o autoridad competente.
+
+- Constancia de no adeudo por el suministro de energía eléctrica, expedido por la Comisión Federal de Electricidad.
+
+- Constancia de uso suelo, actualizada y expedida por la Delegación Política o Municipio, o por la autoridad competente.
+
+- Dictamen de Seguridad Estructural de la construcción.
+
+- Identificación Oficial del Dueño.
+
+- Poder Notarial e identificación del apoderado legal, en caso de que éste sea el que vaya a realizar todos los trámites de compra-venta.
+
+La documentación señalada en el inciso k), será remitida a la Dirección Jurídica para su validación.
+
+4. Recibida la justificación detallada por parte de la Unidad Administrativa solicitante, las (sic) Dirección Ejecutiva de Administración emitirá un dictamen final de procedencia, para lo cual podrán solicitar la opinión de las Direcciones Ejecutivas, Unidades Técnicas, Juntas Ejecutivas Locales y Distritales, cuando así se requiera, o trasladarse a la entidad federativa donde se encuentre el inmueble propuesto. El dictamen deberá elaborarse dentro de los 30 días naturales a la fecha de recepción de la justificación.
+
+5. El dictamen final de procedencia positivo, se someterá a la consideración del Secretario Ejecutivo, quien autorizará presentar las solicitudes de adquisición ante la Junta General Ejecutiva, la cual aprobará o desechará dichas propuestas.
+
+6. Para el caso de las propuestas cuya adquisición del inmueble sea a través de crédito hipotecario o de arrendamiento financiero, éstas deberán especificar el procedimiento de contratación mediante el cual se pretende adjudicar.
+
+7. En la contratación de los notarios públicos se podrá establecer, preferentemente, la obligación de realizar las gestiones correspondientes para obtener la inscripción de las escrituras relativas en el Registro Público de la Propiedad Federal y en el Registro Público de la Propiedad que corresponda a la ubicación del inmueble, y a remitir al Instituto el testimonio respectivo debidamente inscrito, en un plazo no mayor de seis meses contados a partir de la fecha en la que hayan autorizado cada escritura, salvo en casos debidamente justificados.
 
 #### Sección II. Del procedimiento de Compra-Venta
 
-1. Una vez autorizada la adquisición del inmueble por la Junta General Ejecutiva, a través del procedimiento de compra-venta, el Director de Recursos Materiales y Servicios, para el caso de oficinas centrales, y los Vocales Ejecutivos de las Juntas Locales Ejecutivas, para el caso de los órganos delegacionales, procederán a solicitar un avalúo a cualquier institución financiera o de valores, u organismo público o privado que provea este servicio.
+1. Con base en el resultado del avalúo realizado, la Dirección de Recursos Materiales y Servicios o la Junta Local Ejecutiva, negociarán la cantidad final del bien inmueble, con el propietario del mismo, o su representante o apoderado legal, siempre buscando las mejores condiciones para el Instituto. En las negociaciones las unidades referidas podrán auxiliarse de oficinas o despachos inmobiliarios.
 
-2. Con base en el resultado del avalúo realizado, la Dirección de Recursos Materiales y Servicios o la Junta Local Ejecutiva, negociarán la cantidad final del bien inmueble, con el propietario del mismo, o su representante o apoderado legal, siempre buscando las mejores condiciones para el Instituto. En las negociaciones las unidades referidas podrán auxiliarse de oficinas o despachos inmobiliarios.
+2. La Dirección de Recursos Materiales y Servicios notificará a la Dirección de Recursos Financieros la cantidad a pagar por el inmueble, a efecto de que se realicen los movimientos presupuestales correspondientes. Asimismo, solicitará los recursos para el pago de los servicios notariales.
 
-3. La Dirección de Recursos Materiales y Servicios notificará a la Dirección de Recursos Financieros la cantidad a pagar por el inmueble, a efecto de que se realicen los movimientos presupuestales correspondientes. Asimismo, solicitará los recursos para el pago de los servicios notariales.
+3. Una vez acordado el precio final con el propietario del inmueble, la Dirección Ejecutiva de Administración elaborará el proyecto de contrato de compra-venta, mismo que deberá ser validado por la Dirección Jurídica, y remitido al dueño del inmueble para que verifique si la contratación se realiza en los términos convenidos. Estas actividades deberán realizarse en un plazo no mayor de 20 días naturales.
 
-4. Una vez acordado el precio final con el propietario del inmueble, la Dirección Ejecutiva de Administración elaborará el proyecto de contrato de compra-venta, mismo que deberá ser validado por la Dirección Jurídica, y remitido al dueño del inmueble para que verifique si la contratación se realiza en los términos convenidos. Estas actividades deberán realizarse en un plazo no mayor de 20 días naturales.
+4. Una vez que tanto el propietario como los funcionarios del Instituto estén conformes con las condiciones generales del contrato de compra-venta, la Dirección Ejecutiva de Administración solicitará a la Dirección Jurídica indique la Notaría Pública con la que habrá de realizarse los trámites de escrituración.
 
-5. Una vez que tanto el propietario como los funcionarios del Instituto estén conformes con las condiciones generales del contrato de compra-venta, la Dirección Ejecutiva de Administración solicitará a la Dirección Jurídica indique la Notaría Pública con la que habrá (sic) de realizarse los trámites de escrituración.
+5. Se elaborarán tres tantos en original del contrato de compra-venta, mismos que serán rubricados por el Secretario Ejecutivo del Instituto o por la persona que el designe en función de las facultades que le confiere el Código Federal de Instituciones y Procedimientos Electorales, y por el dueño del inmueble o su representante o apoderado legal, los cuales deberán ser remitidos al Notario Público seleccionado por la Dirección Jurídica, previo a la cita que se agendará para la firma y formalización del mismo.
 
-6. Se elaborarán tres tantos en original del contrato de compra-venta, mismos que serán rubricados por el Secretario Ejecutivo del Instituto o por la persona que el designe en función de las facultades que le confiere el Código Federal de Instituciones y Procedimientos Electorales, y por el dueño del inmueble o su representante o apoderado legal, los cuales deberán ser remitidos al Notario Público seleccionado por la Dirección Jurídica, previo a la cita que se agendará para la firma y formalización del mismo.
+6. Para la formalización del contrato de compra-venta se agendará una cita en las oficinas de la Notaría Pública correspondiente. Para tal efecto, el vendedor o su representante o apoderado legal y el funcionario del IFE facultado para realizar estos trámites se presentarán a la cita con la documentación que el Notario Público indique.
 
-7. Para la formalización del contrato de compra-venta se agendará una cita en las oficinas de la Notaría Pública correspondiente. Para tal efecto, el vendedor o su representante o apoderado legal y el funcionario del IFE facultado para realizar estos trámites se presentarán a la cita con la documentación que el Notario Público indique.
-
-8. Concluidos los trámites para la formalización del contrato de compra-venta y la escrituración del inmueble, y una vez que el Notario Público notifique al Instituto la inscripción en el Registro Público de la Propiedad Federal del inmueble, y en el registro público de la propiedad de la localidad, la Dirección de Recursos Financieros realizará el registro contable respectivo, de conformidad a lo estipulado en la Ley General de Contabilidad Gubernamental.
+7. Concluidos los trámites para la formalización del contrato de compra-venta y la escrituración del inmueble, y una vez que el Notario Público notifique al Instituto la inscripción en el Registro Público de la Propiedad Federal del inmueble, y en el registro público de la propiedad de la localidad, la Dirección de Recursos Financieros realizará el registro contable respectivo, de conformidad a lo estipulado en la Ley General de Contabilidad Gubernamental.
 
 #### Sección III. Del procedimiento de Arrendamiento Financiero
 
-1. Una vez autorizada la adquisición del inmueble por la Junta General Ejecutiva, a través del procedimiento de arrendamiento financiero, el Director de Recursos Materiales y Servicios, para el caso de oficinas centrales, y los Vocales Ejecutivos de las Juntas Locales Ejecutivas, para el caso de los órganos delegacionales, procederán a solicitar un avalúo a cualquier institución financiera o de valores, u organismo público o privado que provea este servicio.
+1. Con base en el resultado del avalúo realizado, la Dirección de Recursos Materiales y Servicios o la Junta Local Ejecutiva, negociarán la cantidad final del bien inmueble, con el propietario del mismo, o su representante o apoderado legal, siempre buscando las mejores condiciones para el Instituto. En las negociaciones las unidades referidas podrán auxiliarse de oficinas o despachos inmobiliarios.
 
-2. Con base en el resultado del avalúo realizado, la Dirección de Recursos Materiales y Servicios o la Junta Local Ejecutiva, negociarán la cantidad final del bien inmueble, con el propietario del mismo, o su representante o apoderado legal, siempre buscando las mejores condiciones para el Instituto. En las negociaciones las unidades referidas podrán auxiliarse de oficinas o despachos inmobiliarios.
-
-3. Los contratos de arrendamiento financiero con instituciones financieras privadas, se asignarán mediante los procedimientos de contratación que a continuación se señalan:
+2. Los contratos de arrendamiento financiero con instituciones financieras privadas, se asignarán mediante los procedimientos de contratación que a continuación se señalan:
 
 I. Adjudicación Directa
 
@@ -397,9 +413,9 @@ III. Licitación Pública
 
 Los procedimientos se desarrollarán con apego a lo establecido en el Reglamento del Instituto Federal Electoral en materia de Adquisiciones, Arrendamientos y Servicios del Sector Público. En tanto se emite dicho reglamento se aplicará la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
 
-4. Los plazos del contrato de arrendamiento financiero podrán variar dependiendo la oferta del mercado financiero; sin embargo, el plazo máximo será de 20 años.
+3. Los plazos del contrato de arrendamiento financiero podrán variar dependiendo la oferta del mercado financiero; sin embargo, el plazo máximo será de 20 años.
 
-5. El anexo técnico que se incluya en las bases de la licitación pública o la invitación a cuando menos tres personas, deberá especificar como mínimo los siguientes puntos:
+4. El anexo técnico que se incluya en las bases de la licitación pública o la invitación a cuando menos tres personas, deberá especificar como mínimo los siguientes puntos:
 
 - Plazo del contrato
 
@@ -417,17 +433,51 @@ b) Prorrogar el plazo para continuar con el uso o goce temporal, pagando una ren
 
 c) Participar con el arrendador en el precio de la venta de los bienes a un tercero, en las proporciones y términos que se convengan en el contrato.
 
-6. Una vez emitido el fallo y haya sido adjudicado el servicio, la Dirección Ejecutiva de Administración y la institución financiera o de valores pública o privada ganadora, conjuntamente elaborarán el proyecto de contrato respectivo, en un plazo no mayor a 45 días naturales contados a partir de la notificación oficial que emita el Instituto. El proyecto deberá ser validado por la Dirección Jurídica del Instituto.
+5. Una vez emitido el fallo y haya sido adjudicado el servicio, la Dirección Ejecutiva de Administración y la institución financiera o de valores pública o privada ganadora, conjuntamente elaborarán el proyecto de contrato respectivo, en un plazo no mayor a 45 días naturales contados a partir de la notificación oficial que emita el Instituto. El proyecto deberá ser validado por la Dirección Jurídica del Instituto.
 
-7. Una vez autorizado un contrato de arrendamiento financiero, el Secretario Ejecutivo emitirá un acuerdo mediante el cual se autoriza a la Dirección Ejecutiva de Administración, integrar las previsiones presupuestales para solventar los compromisos derivados del mismo, en los Lineamientos Generales para el Ejercicio Presupuestal que se emitan para los ejercicios que abarque dicho contrato, lo anterior con base en el Artículo 50, fracción I de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como en el párrafo quinto del mismo artículo.
+6. Una vez autorizado un contrato de arrendamiento financiero, el Secretario Ejecutivo emitirá un acuerdo mediante el cual se autoriza a la Dirección Ejecutiva de Administración, integrar las previsiones presupuestales para solventar los compromisos derivados del mismo, en los Lineamientos Generales para el Ejercicio Presupuestal que se emitan para los ejercicios que abarque dicho contrato, lo anterior con base en el Artículo 50, fracción I de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como en el párrafo quinto del mismo artículo.
 
-8. Los contratos de arrendamiento financiero podrán inscribirse en el Registro Público de Comercio, a solicitud de los contratantes, o en otros Registros que las leyes locales en su caso determinen, de conformidad al artículo 408, segundo párrafo de la Ley General de Títulos y Operaciones de Crédito.
+7. Los contratos de arrendamiento financiero podrán inscribirse en el Registro Público de Comercio, a solicitud de los contratantes, o en otros Registros que las leyes locales en su caso determinen, de conformidad al artículo 408, segundo párrafo de la Ley General de Títulos y Operaciones de Crédito.
 
-9. La Dirección de Recursos Materiales y Servicios será la encargada de elaborar un calendario con las obligaciones contraídas de la firma del contrato de arrendamiento financiero, mismo que remitirá a la Dirección de Recursos Financieros, a efecto de que se realicen los movimientos presupuestales correspondientes.
+8. La Dirección de Recursos Materiales y Servicios será la encargada de elaborar un calendario con las obligaciones contraídas de la firma del contrato de arrendamiento financiero, mismo que remitirá a la Dirección de Recursos Financieros, a efecto de que se realicen los movimientos presupuestales correspondientes.
 
-10. Si de la opción terminal elegida en el contrato de arrendamiento financiero, se desprende la opción de compra, a la conclusión del plazo y una vez realizado los trámites notariales correspondientes, y una vez que el Notario Público notifique al Instituto la inscripción en el Registro Público de la Propiedad Federal del inmueble, la Dirección de Recursos Financieros realizará el registro contable respectivo, de conformidad a lo estipulado en la Ley General de Contabilidad Gubernamental.
+9. Si de la opción terminal elegida en el contrato de arrendamiento financiero, se desprende la opción de compra, a la conclusión del plazo y una vez realizado los trámites notariales correspondientes, y una vez que el Notario Público notifique al Instituto la inscripción en el Registro Público de la Propiedad Federal del inmueble, la Dirección de Recursos Financieros realizará el registro contable respectivo, de conformidad a lo estipulado en la Ley General de Contabilidad Gubernamental.
+
+#### Sección IV. Del procedimiento de Crédito Hipotecario
+
+1. Con base en el resultado del avalúo realizado, la Dirección de Recursos Materiales y Servicios o la Junta Local Ejecutiva, negociarán la cantidad final del bien inmueble, con el propietario del mismo, o su representante o apoderado legal, siempre buscando las mejores condiciones para el Instituto. En las negociaciones las unidades referidas podrán auxiliarse de oficinas o despachos inmobiliarios.
+
+2. Los contratos de crédito hipotecario con instituciones financieras privadas, se asignarán mediante los procedimientos de contratación que a continuación se señalan:
+
+I. Adjudicación Directa
+
+II. Invitación a cuando menos tres personas
+
+III. Licitación Pública
+
+Los procedimientos se desarrollarán con apego a lo establecido en el Reglamento del Instituto Federal Electoral en materia de Adquisiciones, Arrendamientos y Servicios del Sector Público. En tanto se emite dicho reglamento se aplicará la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
+
+3. Los plazos del crédito hipotecario podrán variar dependiendo la oferta del mercado financiero; sin embargo, el plazo máximo será de 20 años.
+
+4. El anexo técnico que se incluya en las bases de la licitación pública o la invitación a cuando menos tres personas, deberá especificar como mínimo los siguientes puntos:
+
+- Plazo del contrato
+
+- Precio del inmueble
+
+- La opción de declararse desierto
+
+5. Una vez adjudicado el contrato, la Dirección Ejecutiva de Administración y la institución financiera o de valores pública o privada adjudicada, conjuntamente elaborarán el proyecto de contrato respectivo, en un plazo no mayor a 45 días naturales contados a partir de la notificación oficial que emita el Instituto. El proyecto deberá ser validado por la Dirección Jurídica del Instituto.
+
+6. Una vez autorizado un crédito hipotecario, el Secretario Ejecutivo emitirá un acuerdo mediante el cual se autoriza a la Dirección Ejecutiva de Administración, integrar las previsiones presupuestales para solventar los compromisos derivados del mismo, en los Lineamientos Generales para el Ejercicio Presupuestal que se emitan para los ejercicios que abarque dicho contrato, lo anterior con base en el Artículo 50, fracción I de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como en el párrafo quinto del mismo artículo.
+
+7. La Dirección de Recursos Materiales y Servicios será la encargada de elaborar un calendario con las obligaciones contraídas de la firma del contrato de arrendamiento financiero, mismo que remitirá a la Dirección de Recursos Financieros, a efecto de que se realicen los movimientos presupuestales correspondientes.
+
+8. A la conclusión del plazo y una vez realizado los trámites notariales correspondientes, y el Notario Público notifique al Instituto la inscripción en el Registro Público de la Propiedad Federal del inmueble, la Dirección de Recursos Financieros realizará el registro contable respectivo, de conformidad a lo estipulado en la Ley General de Contabilidad Gubernamental.
 
 ### CAPITULO V. DEL CALCULO DE LAS SUPERFICIES
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2010)</small>
 
 TABLA PARA CALCULAR LA SUPERFICIE MAXIMA A OCUPAR POR LOS MANDOS SUPERIORES, MEDIOS Y PERSONAL OPERATIVO EN ORGANOS CENTRALES Y DESCONCENTRADOS DEL INSTITUTO FEDERAL ELECTORAL
 
@@ -473,23 +523,23 @@ HOMOLOGOS 60
 
 AREA/
 
-HOMOLOGOS 30
+HOMOLOGOS 40
 
 29 SUBDIRECTORES
 
-DE AREA 11
+DE AREA 25
 
 29 A COORDINADORES
 
 ADMINISTRATIVOS/
 
-HOMOLOGOS 11
+HOMOLOGOS 25
 
 28 JEFES DE
 
 DEPARTAMENTO
 
-O EQUIVALENTE 7
+O EQUIVALENTE 12
 
 27 D PERSONAL TECNICO,
 
@@ -499,7 +549,7 @@ ADMINISTRATIVO
 
 Y SECRETARIAS O
 
-EQUIVALENTE 4
+EQUIVALENTE 5
 
 SUPERFICIE MAXIMA A OCUPAR POR TODOS
 
@@ -602,6 +652,14 @@ En los casos anteriores, sólo se mantendrá el valor base si el respectivo dict
 3. Los servidores públicos que contravengan lo dispuesto en los presentes Lineamientos serán sancionados en los términos de lo dispuesto por el Código Federal de Instituciones y Procedimientos Electorales, en su Libro Séptimo, Título Segundo.
 
 ## TRANSITORIOS
+
+PRIMERO. Los presentes Lineamientos entrarán en vigor al momento de su aprobación por la Junta General Ejecutiva.
+
+SEGUNDO. Los procedimientos de adquisición o enajenación de inmuebles, que se encuentren en trámite previo a la entrada en vigor de los presentes Lineamientos, deberán resolverse conforme a lo señalado en éstos; todos aquellos documentos que se hayan tramitado se tomarán como válidos para la formalización y concreción de dichos procedimientos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
+
+D.O.F. 27 DE ENERO DE 2010.
 
 PRIMERO. Los presentes Lineamientos entrarán en vigor al momento de su aprobación por la Junta General Ejecutiva.
 
