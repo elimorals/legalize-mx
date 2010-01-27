@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2010-01-13"
+last_updated: "2010-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -921,7 +921,7 @@ IV. Incrementar los recursos económicos para becas dirigidos a las y los alumno
 
 #### SECCIÓN VIII. DE LA EDUCACIÓN TECNOLÓGICA
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 57.
 
@@ -967,7 +967,7 @@ La Autoridad Educativa Estatal fomentará la investigación en la educación fí
 
 ###### ARTÍCULO 63.
 
-La educación tecnológica es aquélla que se orienta al desarrollo de competencias que promueven la creatividad, la iniciativa y el alto desempeño en el acceso a la investigación e innovación en el campo del uso y creación de nuevas tecnologías, para el mejoramiento, tanto de la calidad y la competitividad en el ámbito productivo, como de los niveles de bienestar y desarrollo económico y cultural de la sociedad en base a los requerimientos regionales, estatales y nacionales a través de la participación activa de las y los educandos, con igualdad de oportunidades y perspectiva de género.
+La educación tecnológica es aquella que se orienta al desarrollo de competencias que promueven la creatividad, la iniciativa y el alto desempeño en el acceso a la investigación e innovación en el campo del uso y creación de nuevas tecnologías, para el mejoramiento, tanto de la calidad y la competitividad en el ámbito productivo, como de los niveles de bienestar y desarrollo económico y cultural de la sociedad; teniendo como base el respeto de los ecosistemas en la búsqueda de la satisfacción de los requerimientos que permitan alcanzar el desarrollo sustentable de la región, la Entidad y el país, a través de la participación activa de las y los educandos, con igualdad de oportunidades y perspectiva de género.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1026,6 +1026,10 @@ La implementación de programas y contenidos, en cuanto a formación de valores,
 La instrumentación de la formación en valores deberá hacerse bajo criterios científicos, procurando evaluar los resultados a través de su impacto social.
 
 Las autoridades educativas estatales procurarán establecer e implementar programas académicos en todos los tipos y niveles, que tengan por objeto la formación de adecuadas actitudes filosóficas, científicas y humanistas de los niños, de las niñas y de los jóvenes frente a las personas adultas, a fin de fortalecer los valores esenciales de la moral y de la solidaridad con este grupo social.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2010)</small>
+
+Así mismo, dichas autoridades establecerán e implementarán a la brevedad, programas académicos que transversalmente apoyen el marco curricular de todos los tipos, niveles y modalidades educativos, que fortalezcan el adecuado desarrollo de actitudes científicas, basadas en las necesidades del rescate y el respeto de los ecosistemas y de desarrollo sustentable de la Entidad.
 
 (REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
 
@@ -1087,7 +1091,7 @@ Las instituciones y universidades públicas y privadas informarán a la Autorida
 
 #### SECCIÓN XII. DE LA EDUCACIÓN PARA Y EN EL TRABAJO Y LA PRODUCTIVIDAD
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 78.
 
@@ -1171,7 +1175,7 @@ La educación para adultos que impartan las empresas se hará conforme a lo disp
 
 ###### ARTÍCULO 89.
 
-Se denomina educación para y en el trabajo y la productividad al tipo de servicios para la adquisición de la información y construcción de conocimientos, habilidades, destrezas y actitudes, que permitan a quien la recibe desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación u oficio calificado.
+Se denomina educación para y en el trabajo y la productividad, al tipo de servicios para la adquisición de la información y construcción de conocimientos, habilidades, destrezas y actitudes, que permitan a quien la recibe desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación u oficio calificado, que en su ejercicio se apegue irrestrictamente a las normas y procedimientos establecidos para el logro del desarrollo sustentable de la Entidad.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1207,9 +1211,13 @@ III. Fortalecer y difundir los servicios de capacitación extraescolar que ofrec
 
 IV. Ampliar la cobertura del servicio con la decidida y concertada participación del Gobierno Federal, los municipios y el sector productivo de bienes y servicios;
 
-V. Crear un ambiente propicio para llevar a cabo actividades técnico-científicas, cívicas, sociales, culturales y deportivas, que permitan preparar integralmente al capacitando y hacer extensivos sus beneficios a la comunidad; y
+V. Crear un ambiente propicio para llevar a cabo actividades técnico-científicas, cívicas, sociales, culturales y deportivas, que permitan preparar integralmente al capacitando y hacer extensivos sus beneficios a la comunidad; y (sic)
 
-VI. Fortalecer la actitud creativa que fomente el autoempleo y la creación de empresas para coadyuvar en la solución de la problemática regional.
+VI. Fortalecer la actitud creativa que fomente el autoempleo y la creación de empresas para coadyuvar en la solución de la problemática regional;
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2010)</small>
+
+VII. Promover permanentemente y de manera transversal, en la currícula establecida, programas educativos que propicien la consolidación y el desarrollo de una cultura que permita participar activamente en el desarrollo sustentable de la Entidad.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1247,7 +1255,9 @@ Las funciones de la educación superior son:
 
 I. La formación de profesionistas;
 
-II. La investigación científica, humanista, educativa y tecnológica que atienda en forma equilibrada, tanto las necesidades de desarrollo de la Entidad, como las de interés académico, tecnológico y cultural, así como el rescate, la preservación y el enriquecimiento de la cultura regional, nacional y universal.
+> <small>(REFORMADA, P.O. 27 DE ENER0 DE 2010)</small>
+
+II. La investigación científica, humanista, educativa y tecnológica que atienda en forma equilibrada, tanto las necesidades ambientales, el rescate de los ecosistemas y el desarrollo sustentable de la Entidad, como las de interés académico, tecnológico y cultural. Se contemplarán además, las del rescate, la preservación y el enriquecimiento de la cultura regional, nacional y universal.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1262,6 +1272,10 @@ II. La actualización de los docentes en servicio, entendida ésta como la const
 III. La capacitación de los docentes, para habilitar al personal que se ha incorporado al servicio docente, sin tener las competencias profesionales correspondientes; y
 
 IV. La superación de los docentes en servicio, para que logren obtener niveles académicos superiores a la licenciatura, tales como especialización, maestría, doctorado o posdoctorado.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2010)</small>
+
+En la formación inicial, la actualización, la capacitación y la superación de los docentes, la autoridad educativa estatal buscará fortalecer el desarrollo de la investigación científica que les permita, dentro de otros propósitos, asumir una actitud crítica y propositiva respecto al rescate y el respeto a los ecosistemas, la atención de las necesidades del medio ambiente y al desarrollo sustentable de la Entidad.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2472,6 +2486,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 13 DE ENERO DE 2010.
 
 DECRETO No. 630/09, POR EL QUE SE REFORMAN LOS ARTICULOS 8 Y 22 DE LA LEY ESTATAL DE EDUCACION.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ENERO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
