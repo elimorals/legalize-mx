@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-finanzas-y-56508"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-10"
-last_updated: "2008-12-05"
+last_updated: "2010-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION E INNOVACION GUBERNAMENTAL DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 27 DE ENERO DE 2010, SE ABROGA DEL PRESENTE ORDENAMIENTO, LO QUE CORRESPONDE A LA SUBSECRETARIA DE ADMINISTRACION Y LAS DIRECCIONES A ELLA ADSCRITA, ASI COMO TODAS AQUELLAS FACULTADES QUE CORRESPONDIERON AL SECRETARIO DE FINANZAS Y ADMINISTRACION EN LA MATERIA DE ADMINISTRACION.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2010.
 
 Reglamento publicado en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el martes 10 de julio de 2007.
 
@@ -1090,3 +1092,9 @@ Primero.- El presente acuerdo entrará en vigor el día 1 de enero de 2009.
 Segundo.- Cuando alguna·Ley, decreto o, Acuerdo del Ejecutivo haga alusión a las receptoras de renta, oficinas receptoras de rentas y oficinas recaudadoras de rentas, se entenderán referidas a las oficinas recaudadoras que el artículo 16 de este Reglamento establece.
 
 Tercero.- Se derogan todas las disposiciones reglamentarias y administrativas en lo que se opongan al contenido de este Acuerdo.
+
+P.O. 27 DE ENERO DE 2010.
+
+Primero.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abrogan el Reglamento Interior de la Secretaría de Finanzas y Administración publicado el día 10 de julio de 2007 en el Periódico Oficial del Estado, los Acuerdos del Ejecutivo por los que se le hicieron modificaciones y todos los demás acuerdos, órdenes, bases, lineamientos y circulares expedidos con apoyo en el indicado Reglamento, exclusivamente en lo que corresponde a la Subsecretaría de Administración y las Direcciones a ella adscrita, así como todas aquellas facultades que correspondieron al Secretario de Finanzas y Administración en la materia de administración; y se derogan todas las demás disposiciones reglamentarias y administrativas en lo que se opongan al contenido del presente Acuerdo.
