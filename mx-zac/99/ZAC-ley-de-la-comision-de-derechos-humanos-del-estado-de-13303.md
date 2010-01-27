@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-comision-de-derechos-humanos-del-estado-de-13303"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-27"
-last_updated: "2006-06-14"
+last_updated: "2010-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2010.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de enero de 1993.
 
@@ -155,13 +155,17 @@ La Comisión tendrá las siguientes atribuciones:
 
 I. Realizar programas preventivos en materia de derechos humanos;
 
-II. Proponer al Gobierno del Estado lineamientos de política en materia de derechos humanos;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
+
+II. Proponer a los poderes del Estado, ayuntamientos y organismos públicos descentralizados y autónomos del Estado y de los municipios, lineamientos de política sobre derechos humanos, así como llamarlos a que promuevan modificaciones legales, reglamentarias y de práctica administrativa, que a juicio de la Comisión redunden en mejorar la protección de los derechos humanos;
 
 III. Elaborar y ejecutar los programas de atención y seguimiento a los reclamos sociales sobre derechos humanos;
 
 IV. Presentar iniciativas de leyes que tiendan a prevenir, mejorar y garantizar la protección de los derechos humanos;
 
-V. Representar al Estado ante autoridades y organismos sobre aspectos relacionados con los derechos humanos;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
+
+V. Representar, en el ámbito de su competencia material, al Estado, ante autoridades y organismos, sobre aspectos relacionados con los derechos humanos;
 
 VI. Recibir quejas de presuntas violaciones a tales derechos;
 
@@ -181,21 +185,27 @@ X. Procurar la conciliación entre los quejosos y las autoridades señaladas com
 
 XI. Elaborar y ejecutar programas para difundir la enseñanza y la promoción de los derechos humanos;
 
-XII. Supervisar el respeto a los derechos humanos en los centros de Readaptación Social del Estado;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
+
+XII. Supervisar el respeto a los derechos humanos en los centros de Readaptación Social del Estado y en el Centro de Internamiento y Atención Integral Juvenil;
 
 XIII. Formular programas y proponer acciones en coordinación con las dependencias competentes que impulsen el cumplimiento, dentro del territorio estatal, de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos;
 
-XIV. Proponer al Ejecutivo Estatal los Instrumentos Jurídicos, Administrativos, Sociales, Educativos, Culturales o de naturaleza análoga que tengan por propósito promover, prevenir y salvaguardar en el Estado los derechos humanos;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
+
+XIV. Proponer a los Poderes del Estado, ayuntamientos y organismos públicos descentralizados y autónomos, los instrumentos Jurídicos, Administrativos, Sociales, Educativos, Culturales o de naturaleza análoga que tengan por propósito promover, prevenir y salvaguardar en el Estado los derechos humanos;
 
 XV. Expedir su Reglamento Interior, y manuales de organización y de procedimientos;
 
 XVI. La Comisión pondrá especial interés en la asistencia y protección de los Sectores Sociales más desprotegidos. En particular de los menores, mujeres, ancianos y discapacitados. La defensa del Sistema Ecológico así como los derechos de los campesinos y etnias serán igualmente prioritarios;
 
-XVII. Procurar las instancias necesarias de vinculación con las Comisiones Locales Fronterizas para la adecuada defensa de los derechos humanos de los emigrantes Zacatecanos;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2006)</small>
+XVII. Procurar las instancias necesarias de vinculación y convenir mecanismos de apoyo recíproco con las Comisiones Locales Fronterizas, el Instituto Estatal de Migración, los ayuntamientos en el Estado y otras dependencias y entidades públicas y privadas con tareas relacionadas, para la adecuada defensa de los derechos humanos de los emigrantes zacatecanos;
 
-XVIII. Supervisar que a las personas que se encuentren privadas de su libertad en los diversos establecimientos de detención o reclusión como cárceles municipales, separos de la Policía Ministerial, Centros de Readaptación Social y centros de detención para menores en el Estado, les sean respetados sus derechos constitucionales y se garantice la plena vigencia de sus derechos humanos;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
+
+XVIII. Supervisar que a las personas que se encuentren privadas de su libertad en los diversos establecimientos de detención o reclusión como cárceles municipales, separos de la Policía Ministerial, Centros de Readaptación Social y Centro de Internamiento y Atención Integral Juvenil, les sean respetados sus derechos constitucionales y se garantice la plena vigencia de sus derechos humanos;
 
 XIX. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
 
@@ -758,3 +768,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Presidente de la Comisión de Derechos Humanos del Estado de Zacatecas, en funciones, concluirá su encargo en fecha 24 de Junio de 2007, de conformidad con el Decreto número 263 expedido por el LVII Legislatura y no podrá ser reelecto para un periodo inmediato.
 
 TERCERO.- Los actuales Consejeros concluirán su encargo en la fecha en que termine el periodo para el que fueron designados.
+
+P.O. 27 DE ENERO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
