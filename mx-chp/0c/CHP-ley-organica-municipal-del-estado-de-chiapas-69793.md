@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-69793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-29"
-last_updated: "2009-12-31"
+last_updated: "2010-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de julio de 2009.
 
@@ -385,7 +385,7 @@ XX.- Promover y apoyar el desarrollo de programas de vivienda popular y de inter
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)
 
 XXI.- Otorgar licencias y permisos para construcción observando las disposiciones de la Ley General de Asentamientos Humanos, la Ley de Desarrollo Urbano del Estado de Chiapas, la Ley de Fraccionamientos y Conjuntos Habitacionales para el Estado de Chiapas, la Ley sobre el Régimen de Propiedad en Condominio de Bienes Inmuebles del Estado de Chiapas, la Ley de Catastro para el Estado de Chiapas y demás disposiciones aplicables;
 
@@ -491,9 +491,13 @@ LXVII.- Crear un área encargada de fomentar y vigilar la equidad de género, en
 
 LXVIII.- Emitir las disposiciones legales que regulen al organismo público encargado de realizar todas las actividades necesarias, directa o indirectamente al cumplimiento de la prestación del servicio público de agua potable y alcantarillado;
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
 
-LXIX.- Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
+LXVII (SIC).- Fomentar la Integración de los comités ciudadanos que se encargarán de la vigilancia, administración, operación y funcionamiento de los Sistemas de Agua en las localidades que cuenten con ese servicio;
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2010)</small>
+
+LXVIII.- Las demás que las leyes, reglamentos y otras disposiciones legales les asignen.
 
 ###### Artículo 37.
 
@@ -1905,7 +1909,7 @@ a).- Multa hasta de 50 veces el salario mínimo general vigente; y,
 
 b).- Revocación de la concesión, licencia o permiso.
 
-## Título X. De las Suplencias, Desaparición de los Ayuntamientos y Responsabilidades de los Servidores Públicos Municipales
+## Título X. De las Suplencias, Desaparición de Ios Ayuntamientos y Responsabilidades de los Servidores Públicos Municipales
 
 ### Capítulo IV. De la Renovación del Cargo a los Integrantes del Ayuntamiento
 
@@ -2104,3 +2108,11 @@ P.O. 31 DE DICIEMBRE DE 2009.
 Primero.- El presente Decreto entrará en vigor el día primero de enero de dos mil diez.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 27 DE ENERO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones de igualo menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- Los Ayuntamientos llevarán a cabo las acciones necesarias para el debido cumplimiento del presente Decreto.
