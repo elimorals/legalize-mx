@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-los-animales-para-el-estado-libre-y-10767"
 country: "mx"
 rank: "ley"
 publication_date: "1983-01-07"
-last_updated: "1983-01-07"
+last_updated: "2010-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 27 DE ENERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 7 de enero de 1983.
 
@@ -344,3 +346,19 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenami
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad Puebla de Zaragoza, a los treinta y un días del mes de diciembre de mil novecientos ochenta y dos.- Diputado Presidente.- Raúl Castillo Ramírez.- Rúbrica.- Diputado Secretario.- Lic. Honorio Cortés López.- Rúbrica.- Diputado Secretario.- Federico Ruíz de la Peña García.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los treinta y un días del mes de diciembre de mil novecientos ochenta y dos.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Carlos Palafox Vázquez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE ENERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Protección a los Animales para el Estado Libre y Soberano de Puebla, publicada con fecha siete de enero de mil novecientos ochenta y tres.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
