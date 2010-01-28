@@ -4,7 +4,7 @@ identifier: "YUC-codigo-del-registro-civil-8140"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-03-17"
-last_updated: "2003-01-23"
+last_updated: "2010-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DEL REGISTRO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE ENERO DE 2010.
 
 Código publicado en el Diario Oficial el Lunes 17 de Marzo de 1986.
 
@@ -245,9 +245,17 @@ Por causas graves o de extrema urgencia, podrán los Oficiales del Registro Civi
 
 No podrá asentarse, aunque lo pida el progenitor que haga la presentación, el nombre del padre o madre ausente, salvo que el hijo fuere de matrimonio, lo que se probará con el acta respectiva.
 
+> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+
 ###### ARTICULO 33.
 
-Cuando el niño nazca de una mujer casada en ningún caso ni a petición de persona alguna podrá el Oficial del Registro Civil asentar como padre a otro que no sea el marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+Cuando la niña o niño nazca de una mujer casada, el oficial del registro Civil podrá asentar como padre a otro que no sea el marido, en cualquiera de los casos siguientes:
+
+l.- Cuando el marido lo haya desconocido y por resolución judicial se haya declarado que no es hijo suyo;
+
+II.- Cuando la cónyuge pruebe que no cohabitaba con el cónyuge, durante el periodo de la concepción, y la Procuraduría de la Defensa del Menor y la Familia ordene al Registro Civil la inscripción respectiva, y
+
+III.- Cuando la mujer en cualquier tiempo, probare mediante prueba científica indubitable que la paternidad de su hija o hijo recae en hombre distinto al cónyuge.
 
 > <small>(F. DE E., D.O. 13 DE DICIEMBRE DE 1999)</small>
 
@@ -768,3 +776,17 @@ Corresponderá al Ejecutivo del Estado, la aplicación de las disposiciones lega
 ###### ARTÍCULO QUINTO.
 
 Las concesiones de lotes y bóvedas en cementerios o panteones del Estado, que todavía se encuentren en trámite serán resueltas por la autoridad ante la cual estén siendo tramitadas.
+
+D.O. 28 DE ENERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Los juicios de pérdida de patria potestad que se encuentren en trámite a la entrada en vigor de este Decreto, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio siempre que favorezcan a las niñas, niños o adolescentes, para lo cual el juez deberá dictar las medidas cautelares, suficientes para resguardar el interés superior de la niña, niño o adolescente y su integración a un ambiente familiar adecuado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a lo dispuesto por este Decreto.
