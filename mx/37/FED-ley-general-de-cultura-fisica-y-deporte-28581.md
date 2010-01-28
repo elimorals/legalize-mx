@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-cultura-fisica-y-deporte-28581"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-24"
-last_updated: "2008-07-15"
+last_updated: "2010-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FISICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de febrero de 2003.
 
@@ -178,7 +178,9 @@ I. Ejecutar las políticas para fomentar, promover y estimular el desarrollo de 
 
 II. Establecer los mecanismos para la planeación, supervisión, ejecución y evaluación de los programas, organismos, procesos, actividades y recursos de los integrantes del SINADE;
 
-III. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la cultura física y el deporte;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2010)</small>
+
+III. Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad;
 
 IV. Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la cultura física y el deporte, y
 
@@ -252,69 +254,79 @@ La Junta Directiva tendrá las siguientes facultades:
 
 I. Establecer en congruencia con el programa sectorial, las políticas generales y definir las prioridades a las que deberá sujetarse la CONADE relativas a la dirección, desarrollo, promoción, fomento, difusión e investigación de la cultura física y el deporte;
 
-II. Aprobar los programas y presupuesto de la CONADE, así como sus modificaciones, en los términos de la legislación aplicable. En lo tocante al presupuesto y a los programas financieros, con excepción de aquellos incluidos en el Presupuesto de Egresos de la Federación, bastará con la aprobación de la Junta Directiva;
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2010)</small>
 
-III. Aprobar de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar la CONADE con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles. El Director General y en su caso los servidores públicos que deban intervenir, de conformidad con el Estatuto, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por la Junta Directiva;
+II. Establecer, conforme al programa sectorial, lo relativo al impulso de políticas específicas en materia de cultura física y deporte destinadas al desarrollo e integración de las personas con discapacidad;
 
-IV. Aprobar la estructura básica de la organización de la CONADE, y las modificaciones que procedan a la misma;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2010)</small>
 
-V. Autorizar la creación de comités de apoyo;
+III. Aprobar los programas y presupuesto de la CONADE, así como sus modificaciones, en los términos de las disposiciones aplicables;
 
-VI. Establecer, con sujeción a las disposiciones legales relativas, con la intervención que corresponda a las dependencias federales, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la CONADE requiera para la prestación de sus servicios y de acuerdo a los procedimientos establecidos en el Reglamento de esta Ley;
+IV. Aprobar de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar la CONADE con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles. El Director General y en su caso los servidores públicos que deban intervenir, de conformidad con el Estatuto, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por la Junta Directiva;
 
-VII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los comisarios;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2010)</small>
 
-VIII. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, conforme a las instrucciones de la Coordinadora de Sector correspondiente;
+V. Aprobar la estructura básica de la organización de la CONADE, y las modificaciones que procedan a la misma, en términos de las disposiciones aplicables;
 
-IX. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la CONADE, cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Hacienda y Crédito Público, por conducto de la Coordinadora de Sector;
+VI. Autorizar la creación de comités de apoyo;
 
-X. Conocer oportunamente el cumplimiento de los planes, programas, presupuestos, reglamentos, manuales, sistemas y políticas, a efecto de ponderar las causas que determinen variaciones con respecto a lo autorizado y, en su caso, dictar las medidas correctivas que procedan en materia de planeación, organización o dirección;
+VII. Establecer, con sujeción a las disposiciones legales relativas, con la intervención que corresponda a las dependencias federales, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la CONADE requiera para la prestación de sus servicios y de acuerdo a los procedimientos establecidos en el Reglamento de esta Ley;
 
-XI. Designar comisionados especiales en los cuales la CONADE delegue algunas de sus facultades;
+VIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los comisarios;
 
-XII. Realizar los actos que sean necesarios para el cumplimiento de los objetivos de la CONADE y para los que la Junta Directiva tenga facultades en término de la Ley o del Estatuto;
+IX. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados, conforme a las instrucciones de la Coordinadora de Sector correspondiente;
 
-XIII. Formular los lineamientos que se estimen necesarios para racionalizar las estructuras de organización y el uso de los recursos disponibles, así como delinear las políticas específicas de apoyo a prioridades del sector deportivo o bien, respecto de los asuntos que se consideren relevantes;
+X. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la CONADE, cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Hacienda y Crédito Público, por conducto de la Coordinadora de Sector;
 
-XIV. Aprobar y evaluar el Programa Anual de Trabajo y los programas institucionales de corto, mediano y largo plazos que sean elaborados por el Director General;
+XI. Conocer oportunamente el cumplimiento de los planes, programas, presupuestos, reglamentos, manuales, sistemas y políticas, a efecto de ponderar las causas que determinen variaciones con respecto a lo autorizado y, en su caso, dictar las medidas correctivas que procedan en materia de planeación, organización o dirección;
 
-XV. Evaluar los presupuestos de la CONADE, en concordancia con el Plan Nacional de Desarrollo, el Programa Sectorial y demás disposiciones relativas;
+XII. Designar comisionados especiales en los cuales la CONADE delegue algunas de sus facultades;
 
-XVI. Aprobar los anteproyectos y proyecto de presupuesto de la CONADE que habrán de presentarse ante la Secretaría de Hacienda y Crédito Público por conducto de la Coordinadora de Sector;
+XIII. Realizar los actos que sean necesarios para el cumplimiento de los objetivos de la CONADE y para los que la Junta Directiva tenga facultades en término de la Ley o del Estatuto;
 
-XVII. Establecer las directrices y políticas para que la ejecución de los programas y presupuestos se apeguen a la asignación presupuestal autorizada, lo que permitirá el logro oportuno de los objetivos y metas programadas de la CONADE;
+XIV. Formular los lineamientos que se estimen necesarios para racionalizar las estructuras de organización y el uso de los recursos disponibles, así como delinear las políticas específicas de apoyo a prioridades del sector deportivo o bien, respecto de los asuntos que se consideren relevantes;
 
-XVIII. Vigilar que la CONADE conduzca sus actividades en forma programada y con base en las políticas sectoriales, prioridades y restricciones que se deriven del Sistema Nacional de Planeación;
+XV. Aprobar y evaluar el Programa Anual de Trabajo y los programas institucionales de corto, mediano y largo plazos que sean elaborados por el Director General;
 
-XIX. Autorizar la creación de grupos de trabajo que coadyuven en la formulación y evaluación de programas institucionales;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2010)</small>
 
-XX. Autorizar la creación de Comités Técnicos Especializados de apoyo que el Presidente o una tercera parte de los miembros de la propia Junta Directiva propongan para el cumplimiento de los objetivos y para el desarrollo oportuno y eficaz de las actividades que realice la CONADE;
+XVI. Evaluar los presupuestos de la CONADE en términos de las disposiciones aplicables, sin perjuicio de las atribuciones que en materia de evaluación correspondan a otras dependencias y entidades de la Administración Pública Federal;
 
-XXI. Aprobar los manuales de organización, de procedimientos y de servicios al público y demás instrumentos normativos transcendentes que regulen el funcionamiento de la CONADE, así como las reformas o adiciones a dichos ordenamientos;
+XVII. Aprobar los anteproyectos y proyecto de presupuesto de la CONADE que habrán de presentarse ante la Secretaría de Hacienda y Crédito Público por conducto de la Coordinadora de Sector;
 
-XXII. Aprobar el contenido de las actas que se levanten de las sesiones que se celebren, ya sean ordinarias o extraordinarias;
+XVIII. Establecer las directrices y políticas para que la ejecución de los programas y presupuestos se apeguen a la asignación presupuestal autorizada, lo que permitirá el logro oportuno de los objetivos y metas programadas de la CONADE;
 
-XXIII. Aprobar el calendario anual de sesiones;
+XIX. Vigilar que la CONADE conduzca sus actividades en forma programada y con base en las políticas sectoriales, prioridades y restricciones que se deriven del Sistema Nacional de Planeación;
 
-XXIV. Proporcionar al Comisario la información que solicite para el desarrollo de sus funciones;
+XX. Autorizar la creación de grupos de trabajo que coadyuven en la formulación y evaluación de programas institucionales;
 
-XXV. Analizar y considerar el informe que rinda el Comisario para la programación de actividades de la CONADE, en sus aspectos preventivos y correctivos;
+XXI. Autorizar la creación de Comités Técnicos Especializados de apoyo que el Presidente o una tercera parte de los miembros de la propia Junta Directiva propongan para el cumplimiento de los objetivos y para el desarrollo oportuno y eficaz de las actividades que realice la CONADE;
 
-XXVI. Aprobar las medidas que proponga el Director General para atender los informes que presente el Contralor Interno, resultantes de las auditorías, exámenes y evaluaciones que haya realizado;
+XXII. Aprobar los manuales de organización, de procedimientos y de servicios al público y demás instrumentos normativos transcendentes que regulen el funcionamiento de la CONADE, así como las reformas o adiciones a dichos ordenamientos;
 
-XXVII. Delegar facultades a favor del Director General o a favor de Delegados Especiales;
+XXIII. Aprobar el contenido de las actas que se levanten de las sesiones que se celebren, ya sean ordinarias o extraordinarias;
 
-XXVIII. Autorizar al Director General para que ejerza facultades de dominio, administración, pleitos y cobranzas en nombre de la CONADE, de conformidad con las disposiciones legales o reglamentarias aplicables;
+XXIV. Aprobar el calendario anual de sesiones;
 
-XXIX. Autorizar al Director General, con las limitaciones que al efecto se precisen, para que éste pueda emitir, avalar y negociar títulos de crédito a nombre de la CONADE;
+XXV. Proporcionar al Comisario la información que solicite para el desarrollo de sus funciones;
 
-XXX. Autorizar al Director General, con las limitaciones que al efecto se determinen, para que éste pueda comprometer asuntos en arbitrajes y celebrar transacciones en nombre de la CONADE y bajo su responsabilidad;
+XXVI. Analizar y considerar el informe que rinda el Comisario para la programación de actividades de la CONADE, en sus aspectos preventivos y correctivos;
 
-XXXI. Autorizar al Director General para ejercitar y desistirse de acciones judiciales, inclusive del Juicio de Amparo a nombre de la CONADE;
+XXVII. Aprobar las medidas que proponga el Director General para atender los informes que presente el Contralor Interno, resultantes de las auditorías, exámenes y evaluaciones que haya realizado;
 
-XXXII. Ratificar los nombramientos de apoderados que recaigan en personas ajenas a la CONADE, y
+XXVIII. Delegar facultades a favor del Director General o a favor de Delegados Especiales;
 
-XXXIII. Ejercer las facultades que la Ley Federal de las Entidades Paraestatales y su Reglamento asigna a los Órganos de Gobierno de las entidades.
+XXIX. Autorizar al Director General para que ejerza facultades de dominio, administración, pleitos y cobranzas en nombre de la CONADE, de conformidad con las disposiciones legales o reglamentarias aplicables;
+
+XXX. Autorizar al Director General, con las limitaciones que al efecto se precisen, para que éste pueda emitir, avalar y negociar títulos de crédito a nombre de la CONADE;
+
+XXXI. Autorizar al Director General, con las limitaciones que al efecto se determinen, para que éste pueda comprometer asuntos en arbitrajes y celebrar transacciones en nombre de la CONADE y bajo su responsabilidad;
+
+XXXII. Autorizar al Director General para ejercitar y desistirse de acciones judiciales, inclusive del Juicio de Amparo a nombre de la CONADE;
+
+XXXIII. Ratificar los nombramientos de apoderados que recaigan en personas ajenas a la CONADE, y
+
+XXXIV. Ejercer las facultades que la Ley Federal de las Entidades Paraestatales y su Reglamento asigna a los Órganos de Gobierno de las entidades.
 
 ###### Artículo 19.
 
@@ -614,9 +626,13 @@ III. Ejecutar y dar seguimiento al Programa Nacional de Cultura Física y Deport
 
 IV. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para la cultura física y el deporte, en coordinación con las respectivas Asociaciones Deportivas Nacionales y de acuerdo a las Normas Oficiales que para tal efecto expida la dependencia correspondiente;
 
-V. Dar seguimiento y ejecutar las políticas y planes aprobados por el SINADE, y
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2010)</small>
 
-VI. Establecer procedimientos de promoción en materia de cultura física y deporte.
+V. Formular y ejecutar políticas públicas, que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad;
+
+VI. Dar seguimiento y ejecutar las políticas y planes aprobados por el SINADE, y
+
+VII. Establecer procedimientos de promoción en materia de cultura física y deporte.
 
 ###### Artículo 37.
 
@@ -1004,6 +1020,10 @@ La CONADE promoverá y gestionará la constitución de fideicomisos destinados a
 
 La CONADE, regirá los criterios y bases para el otorgamiento y monto de la beca a que se harán acreedores los beneficiados por los fideicomisos creados para reconocimiento a medallistas olímpicos y paralímpicos.
 
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2010)</small>
+
+La CONADE gestionará y establecerá los mecanismos necesarios para que los deportistas con discapacidad, sin discriminación alguna, gocen de los mismos reconocimientos y estímulos que otorgue el Gobierno Federal a los deportistas convencionales.
+
 ###### Artículo 100.
 
 Los estímulos a que se refiere el presente Capítulo, que se otorguen con cargo al presupuesto de la CONADE, tendrán por finalidad el cumplimiento de alguno de los siguientes objetivos:
@@ -1022,9 +1042,15 @@ VI. Promover con los CONDE, Universidades y demás instituciones educativas la p
 
 VII. Promover con las Universidades la participación en los programas deportivos universitarios y cooperar con éstas para la dotación de instalaciones y medios necesarios para el desarrollo de sus programas;
 
-VIII. Contribuir a elevar el desarrollo deportivo de los países de nuestro entorno histórico y cultural en respuesta a tratados o convenios de cooperación internacional, y
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2010)</small>
 
-IX. Realizar cualquier actividad que contribuya al desarrollo de las competiciones que de acuerdo con la legislación vigente corresponda a la CONADE.
+VIII. Contribuir a elevar el desarrollo deportivo de los países de nuestro entorno histórico y cultural en respuesta a tratados o convenios de cooperación internacional;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2010)</small>
+
+IX. Fomentar y promover equitativamente planes y programas destinados al impulso y desarrollo del deporte para las personas con discapacidad, y
+
+X. Realizar cualquier actividad que contribuya al desarrollo de las competiciones que de acuerdo con la legislación vigente corresponda a la CONADE.
 
 ###### Artículo 101.
 
@@ -1066,9 +1092,11 @@ IV. Facilitar cuanta información le sea requerida por las autoridades de la Adm
 
 Las personas físicas y morales, así como las agrupaciones que hubieren contribuido al desarrollo de la cultura física y el deporte nacional, podrán obtener reconocimiento por parte de la CONADE, así como en su caso, estímulos en dinero o en especie previo cumplimiento de los requisitos que para tal efecto se establezcan.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2010)</small>
+
 ###### Artículo 105.
 
-Para efecto del cumplimiento de lo dispuesto por el presente Capítulo, el Fondo para el Deporte de Alto Rendimiento, brindará los apoyos económicos y materiales a los deportistas de alto rendimiento con posibilidades de participar en Juegos Olímpicos.
+Para efecto del cumplimiento de lo dispuesto por el presente Capítulo, el Fondo para el Deporte de Alto Rendimiento brindará los apoyos económicos y materiales a los deportistas de alto rendimiento con posibilidades de participar en Juegos Olímpicos y Paralímpicos.
 
 En el Fondo para el Deporte de Alto Rendimiento, concurrirán representantes del Gobierno Federal, del Comité Olímpico Mexicano, de la Confederación Deportiva Mexicana y los particulares que aporten recursos a dicho fondo, mismo que estará conformado por un Comité Técnico, que será la máxima instancia de este fondo y responsable de autorizar los programas de apoyo y los deportistas beneficiados, quien se auxiliará de una Comisión Deportiva, integrada por un panel de expertos independientes.
 
@@ -1433,3 +1461,7 @@ Cuarto. El pleno del Sistema Nacional del Deporte sesionará dentro de los 90 d�
 Quinto. La nueva Comisión Especial para la Prevención de la Violencia en la Celebración de Espectáculos Deportivos, conforme a la presente Ley, deberá celebrar su sesión de instalación en un plazo no mayor a 120 días a la fecha de entrada en vigor el presente Decreto. En dicha sesión se deberán aprobar su plan y programas de trabajo.
 
 Sexto. Las Federaciones Deportivas Nacionales, que a la entrada en vigor el presente Decreto, cuenten en su marco regulatorio interior con algún reglamento o lineamiento, referentes a la Prevención de la Violencia en la Celebración de Espectáculos Deportivos, deberán hacerlos del conocimiento de la Comisión Especial referida en el artículo 126.
+
+D.O.F. 28 DE ENERO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
