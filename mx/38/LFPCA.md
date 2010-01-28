@@ -4,7 +4,7 @@ identifier: "LFPCA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2005-12-01"
-last_updated: "2009-06-12"
+last_updated: "2010-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46997&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPCA"
 
 LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2005.
 
@@ -128,7 +128,9 @@ La representación de los particulares se otorgará en escritura pública o cart
 
 La representación de las autoridades corresponderá a las unidades administrativas encargadas de su defensa jurídica, según lo disponga el Ejecutivo Federal en su Reglamento o decreto respectivo y en su caso, conforme lo disponga la Ley Federal de Entidades Paraestatales. Tratándose de autoridades de las Entidades Federativas coordinadas, conforme lo establezcan las disposiciones locales.
 
-Los particulares o sus representantes podrán autorizar por escrito a licenciado en derecho que a su nombre reciba notificaciones. La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2010)</small>
+
+Los particulares o sus representantes podrán autorizar por escrito a licenciado en derecho que a su nombre reciba notificaciones. La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, presentar alegatos e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines. Con independencia de lo anterior, las partes podrán autorizar a cualquier persona con capacidad legal para oír notificaciones e imponerse de los autos, quien no gozará de las demás facultades a que se refiere este párrafo.
 
 ###### ARTÍCULO 6o.
 
@@ -1465,3 +1467,7 @@ DECRETO POR EL QUE SE ADICIONAN LOS ARTICULOS 50-A Y 52 DE LA LEY FEDERAL DE PRO
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los casos de reclamación presentados ante el Tribunal Federal de Justicia Fiscal y Administrativa que se encuentren en trámite en los términos de la ley que se modifica, deberán resolverse de manera definitiva por el mismo.
+
+D.O.F. 28 DE ENERO DE 2010.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
