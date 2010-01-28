@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2007-04-13"
+last_updated: "2010-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CODIGO CIVIL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2010.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -7656,7 +7656,9 @@ ARTICULO 1,659.- Si el heredero fallece sin aceptar o repudiar la herencia, el d
 
 ARTICULO 1,660.- Los efectos de la aceptación o repudiación de la herencia se retrotraen siempre a la fecha de la muerte de la persona a quien se hereda.
 
-ARTICULO 1,661.- La repudiación debe ser expresa y hacerse por escrito ante el juez, o por medio de instrumento público otorgado ante Notario, cuando el heredero no se encuentra en el lugar del juicio.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2010)</small>
+
+ARTICULO 1,661.- La repudiación debe ser expresa y hacerse por escrito ante el juez, o por medio de instrumento público otorgado ante Notario.
 
 ARTICULO 1,662.- La repudiación no priva al que la hace, si no es heredero ejecutor, del derecho de reclamar los legados que se le hubieren dejado.
 
@@ -10110,7 +10112,7 @@ ARTICULO 2,470.- El arrendatario está obligado a dar de comer y beber al animal
 
 ARTICULO 2,471.- Los frutos del animal alquilado pertenecen al dueño, salvo convenio en contrario.
 
-ARTICULO 2,472.- En caso de muerte de algún animal alquilado, sus despojos serán entregados por el arrendtario (sic) al dueño, si son de alguna utilidad y es posible el transporte.
+ARTICULO 2,472.- En caso de muerte de algún animal alquilado, sus despojos serán entregados por el arrentario (sic) al dueño, si son de alguna utilidad y es posible el transporte.
 
 ARTICULO 2,473.- Cuando se arrienden dos o más animales que forman un todo, como una yunta o un tiro, y uno de ellos se inutiliza, se rescinde el arrendamiento, a no ser que el dueño quiera dar otro que forme un todo con el que sobrevivió.
 
@@ -10278,7 +10280,7 @@ En la conservación del depósito responderá el depositario de los menoscabos, 
 
 ARTICULO 2,523.- Si después de constituído el depósito tiene conocimiento el depositario de que la cosa es robada y de quién es el verdadero dueño, debe dar aviso a éste o a la autoridad competente, con la reserva debida.
 
-ARTICULO 2,524.- Si dentro de ocho días no se le manda judicialmnte (sic) retener o entregar la cosa, puede devolverla al que la depositó, sin que por ello quede sujeto a responsabilidad alguna.
+ARTICULO 2,524.- Si dentro de ocho días no se le manda judicial ente (sic) retener o entregar la cosa, puede devolverla al que la depositó, sin que por ello quede sujeto a responsabilidad alguna.
 
 ARTICULO 2,525.- Siendo varios los que den una sola cosa o cantidad en depósito, no podrá el depositario entregarla sino con previo consentimiento de la mayoría de los depositantes, computado por cantidades y no por personas, a no ser que al constituirse el depósito se haya convenido que la entrega se haga a cualquiera de los depositantes.
 
@@ -12935,3 +12937,7 @@ SEGUNDO.- Los asuntos que se encuentren en trámite en los entes públicos feder
 D.O.F. 13 DE ABRIL DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ENERO DE 2010.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
