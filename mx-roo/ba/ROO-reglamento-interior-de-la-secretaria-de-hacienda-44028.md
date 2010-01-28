@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-hacienda-44028"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-18"
-last_updated: "2009-03-30"
+last_updated: "2010-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2010 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2010.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado, el viernes 18 de febrero de 2005.
 
@@ -609,9 +611,13 @@ XX. Ordenar e implantar operativos de verificación de vehículos de procedencia
 
 XXI. Resolver el recurso de inconformidad e intervenir ante cualquier tribunal cuando se traten asuntos relacionados con el Registro Público;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2010)</small>
 
-XXII. Las demás que señalen otras disposiciones legales y las que le confiera el Gobernador del Estado.
+XXII. Vigilar el exacto cumplimiento y aplicación de la Ley que establece las bases de apertura y cierre de las casas de empeño o préstamo en el Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2010)</small>
+
+XXIII. Los demás que señalen otras disposiciones legales y las que le confiera el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2006)</small>
 
@@ -795,7 +801,13 @@ XXV. Ordenar el decomiso de Bebidas Alcohólicas y suscribir los acuerdos para s
 
 XXVI. Certificar y expedir las constancias de documentos relacionados con asuntos de su competencia;
 
-XXVII. Las demás que le señalen otras disposiciones legales y las que le confiera directamente el Secretario, el Subsecretario de Ingresos o el Director General de Ingresos en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2010)</small>
+
+XXVII. Vigilar el exacto cumplimiento y aplicación de la Ley que establece las bases de apertura y cierre de las casas de empeño o préstamo en el Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2010)</small>
+
+XXVIII. Las demás que le señalen otras disposiciones legales y las que le confiera directamente el Secretario, el Subsecretario de Ingresos o el Director General de Ingresos en el ámbito de su competencia.
 
 ###### Artículo 27.
 
@@ -1656,3 +1668,7 @@ P.O. 30 DE MARZO DE 2009.
 PRIMERO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 28 DE ENERO DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
