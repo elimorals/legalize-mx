@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "2007-06-13"
+last_updated: "2010-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
+CÓDIGO DE PROCEDIMIENTOS CIVILES DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE ENERO DE 2010.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -37,7 +37,9 @@ El XXXV Congreso Constitucional del Estado Libre y Soberano de Yucatán, a nombr
 
 CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-# LIBRO PRIMERO. Disposiciones comunes a los procedimientos civiles
+# LIBRO PRIMERO. Disposiciones comunes a los
+
+procedimientos civiles
 
 ## TITULO PRIMERO. Normas generales del procedimiento
 
@@ -223,9 +225,11 @@ En la cédula a que se refiere el artículo anterior, se hará constar el nombre
 
 En el expediente se pondrá copia de la cédula entregada y se asentará todo lo correspondiente a la diligencia. Si el colitigante pidiere copia de la constancia relativa a la notificación, el Juez mandará dársela.
 
+> <small>(REFORMADO, D.O. 28 DE ENERO DE 2010)</small>
+
 ###### ARTICULO 29.
 
-Cuando se ignore el domicilio de la persona que debe ser notificada, la primera notificación se hará publicando la determinación respectiva, por tres veces consecutivas, en el "Diario Oficial" del Estado y en algún otro periódico diario de los que se editen en la ciudad de Mérida.
+Cuando se ignore el domicilio de la persona que debe ser notificada, una vez agotados los medios de investigación, la primera notificación se hará publicando la determinación respectiva, por una sola vez, en el Diario Oficial del Gobierno del Estado de Yucatán y en algún otro periódico de mayor circulación en el Estado.
 
 ###### ARTICULO 30.
 
@@ -347,7 +351,7 @@ Los tribunales no admitirán nunca recursos notoriamente frívolos o improcedent
 
 Se procederá en igual forma respecto a los incidentes manifiestamente ajenos al negocio principal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 52.
 
@@ -552,6 +556,10 @@ Para los negocios de divorcio y nulidad de matrimonio y cualesquiera otros que s
 ###### ARTICULO 82.
 
 En los negocios relativos a la tutela de los menores e incapacitados, es competente el Juez del domicilio de éstos para la designación del tutor; y en los demás casos el del domicilio de este último.
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+
+ARTICULO 82 A.- En los juicios extraordinarios de pérdida de patria potestad de niñas, niños y adolescentes acogidos por algún centro asistencial público o privada (sic), será juez competente el del domicilio del centro asistencial público o privado que haya acogido a la niña, niño o adolescente.
 
 ###### ARTICULO 83.
 
@@ -1023,7 +1031,7 @@ Las diligencias de prueba sólo podrán practicarse dentro del término probator
 
 (DEROGADO, D.O. 13 DE JUNIO DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 170.
 
@@ -1793,7 +1801,7 @@ El reconocimiento o inspección judicial hará prueba plena cuando se haya pract
 
 ###### ARTICULO 313.
 
-El valor de los dictámenes periciales, inclusos los avalúos y el cotejo de letras, será calificado por el Juez, según las circunstancias.
+El valor de los dictámenes periciales, inclusos (sic) los avalúos y el cotejo de letras, será calificado por el Juez, según las circunstancias.
 
 ###### ARTICULO 314.
 
@@ -2261,7 +2269,7 @@ Contra la ejecución de las sentencias y convenios judiciales no se admitirá m�
 
 ###### ARTICULO 404.
 
-Si en la sentencia que se trata de ejecutar se hubiere fijado plazo para su cumplimiento, los términos fijados en el artículo anterior se contarán desde el día en que se venció el plazo, o desde aquél en que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
+Si en la sentencia que se trata de ejecutar se hubiere fijado plazo para su cumplimiento, los términos fijados en el artículo anterior se contarán desde el día en que se venció el plazo, o desde aquel en que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
 
 ###### ARTICULO 405.
 
@@ -3443,7 +3451,7 @@ Lo dispuesto en el artículo anterior no priva al ejecutado del derecho de impug
 
 El auto que negare la ejecución es apelable, y la apelación se decidirá de plano con sólo el escrito de expresión de agravios del apelante, dentro de tres días de recibidos los autos correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 610.
 
@@ -3561,7 +3569,7 @@ Si la sentencia declarase que no procede el juicio ejecutivo, reservará al acto
 
 ### CAPITULO V. Del juicio verbal
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 624.
 
@@ -4609,13 +4617,57 @@ De los laudos de los arbitradores no habrá más recursos que los que las leyes 
 
 La sentencia de los arbitradores produce los mismos efectos que la de los árbitros, y en su ejecución se procederá como en la de aquellos.
 
-### CAPITULO I. Disposiciones generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE ENERO DE 2010)</small>
+
+### CAPITULO VIII. Del Juicio de pérdida de Patria Potestad de Niñas, Niños o Adolescentes acogidos por algún Centro Asistencial Público o Privado
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+
+ARTICULO 842 A.- Procederá el juicio de pérdida de patria potestad tratándose de niñas, niños o adolescentes acogidos por algún centro asistencial público o privado, en los casos previstos por el artículo 346 fracciones I, III, IV, V y VI del Código Civil.
+
+Corresponderá a la Procuraduría de la Defensa del Menor y la Familia; al representante legal de la institución en que se encuentre acogido el menor o al Ministerio Público, el ejercicio de la acción relativa a la promoción del juicio.
+
+En este procedimiento corresponderá al juzgador, en caso de ser necesario, el dictar las medidas conducentes que impulsen el procedimiento hasta su conclusión.
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+
+ARTICULO 842 B.- Admitida la demanda se dará vista al Ministerio Público y se correrá traslado de ella a las personas señaladas en el artículo 327 del Código Civil, para que la contesten dentro del término de tres días hábiles.
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+
+ARTICULO 842 C.- Las notificaciones se sujetarán a lo dispuesto por el Capítulo III del Título Primero del Libro Primero de este Código.
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+
+ARTICULO 842 D.- Todas las excepciones deberán oponerse precisamente al contestar la demanda. Si la parte demandada no formula su contestación, se le tendrá por contestado en sentido negativo. En este juicio sólo serán admisibles las excepciones relativas a la falta de acción y reconvención, que se resolverán conjuntamente con el fallo definitivo.
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+
+ARTICULO 842 E.- Los incidentes no suspenderán el procedimiento y se resolverán de plano en sentencia definitiva, salvo los previstos en el artículo 483 de este Código.
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+
+ARTICULO 842 F.- Transcurrido el término del emplazamiento, el juez dictará las medidas cautelares suficientes para resguardar el interés superior del menor de edad y su integración a un ambiente familiar adecuado, sujetándose a lo dispuesto por los artículos 346-A del Código Civil y 918 de este Código.
+
+Para los efectos del párrafo anterior, el juzgador deberá, en su caso, sin más dilación, escuchar al menor que esté en condiciones de formarse un juicio propio para que exprese su opinión libremente sobre el asunto.
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+
+ARTICULO 842 G.- El término probatorio no podrá exceder de quince días, de los cuales los cinco primeros serán para solicitar el perfeccionamiento de pruebas y los diez restantes para su desahogo. Si el juez señala un término inferior al máximo establecido, motivará la razón de la medida, precisando los días para el ofrecimiento y los restantes para el desahogo de las pruebas.
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+
+ARTICULO 842 H.- Al día siguiente a aquel en que concluya el término para el desahogo de las pruebas, el Juez citará a los interesados señalándose día y hora, para que dentro de los tres días hábiles siguientes a la citación, se efectúe la audiencia de alegatos y en la misma se dicte la sentencia.
+
+> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2010)</small>
+
+ARTICULO 842 l.- Contra la sentencia que se dicte procede el recurso de apelación en efecto devolutivo.
 
 # LIBRO TERCERO. De la jurisdicción voluntaria
 
 ## TITULO UNICO
 
-### CAPITULO II. De los alimentos provisionales
+### CAPITULO I. Disposiciones generales
 
 ###### ARTICULO 843.
 
@@ -4679,7 +4731,7 @@ Los actos de jurisdicción voluntaria de que no hiciere mención este Código, s
 
 Los actos de que tratan los Capítulos siguientes, se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos Capítulos.
 
-### CAPITULO III. De la declaración de estado de minoridad o de incapacidad
+### CAPITULO II. De los alimentos provisionales
 
 ###### ARTICULO 854.
 
@@ -4707,11 +4759,7 @@ La sentencia deberá ejecutarse inmediatamente, y aunque fuere apelada continuar
 
 En este expediente se tramitará, en caso de ser necesario todo aumento o disminución de la suma señalada para alimentos por el Juez y que más adelante resultare insuficiente para el acreedor o excesiva para el deudor, mediante un escrito del promovente, del cual se dará vista por tres días a la otra parte y un término probatorio de 10 días en caso de que se ofrecieren pruebas que requieran perfeccionamiento especial, dictándose la resolución correspondiente dentro de los tres días siguientes. Durante la tramitación de este procedimiento, seguirán pagándose las pensiones alimenticias decretadas.
 
-### CAPITULO IV
-
-Del nombramiento de tutor y discernimiento del cargo.
-
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+### CAPITULO III. De la declaración de estado de minoridad o de incapacidad
 
 ###### ARTICULO 858.
 
@@ -4795,7 +4843,11 @@ El que dolosamente promueva juicio de incapacidad, ya respecto de sí mismo, ya 
 
 Las sentencias que declaren la interdicción y las que le pongan término, se publicarán en el "Diario Oficial" por tres veces de tres en tres días.
 
-### CAPITULO V. Del nombramiento del curador y discernimiento del cargo
+### CAPITULO IV
+
+Del nombramiento de tutor y discernimiento del cargo.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 872.
 
@@ -4875,7 +4927,7 @@ El Ministerio Público será oído siempre que el Juez tenga que interponer su a
 
 El Juez que no cumpla con las prescripciones de este Código y del Civil, relativas a tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
-### CAPITULO VI. Disposiciones comunes a los dos Capítulos anteriores
+### CAPITULO V. Del nombramiento del curador y discernimiento del cargo
 
 ###### ARTICULO 889.
 
@@ -4891,9 +4943,7 @@ Si tuviere lugar respecto del curador lo dispuesto respecto del tutor en el art�
 
 También se nombrará curador interino en los casos de impedimento, separación o excusa del nombrado, mientras se decide el punto; luego que se decida, se nombrará nuevo curador conforme a derecho.
 
-### CAPITULO VII. De la venta de bienes y transacción sobre derechos
-
-de los incapaces
+### CAPITULO VI. Disposiciones comunes a los dos Capítulos anteriores
 
 ###### ARTICULO 892.
 
@@ -4985,9 +5035,9 @@ En todos los casos en que el tutor necesite para algún acto, de la licencia del
 
 Los tutores y curadores no pueden ser removidos ni excusarse por un acto de jurisdicción voluntaria, aun cuando sea a solicitud de los menores. Para decretar su separación después de discernido el cargo, es indispensable oírlos y vencerlos en juicio.
 
-### CAPITULO VIII. Del Procedimiento para la Adopción
+### CAPITULO VII. De la venta de bienes y transacción sobre derechos
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 12 DE DICIEMBRE DE 1999)</small>
+de los incapaces
 
 ###### ARTICULO 907.
 
@@ -5047,11 +5097,9 @@ Lo dispuesto en los dos artículos que preceden, es aplicable al gravamen de los
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 12 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO IX. De la autorización para separarse del domicilio
+### CAPITULO VIII. Del Procedimiento para la Adopción
 
-conyugal o paterno
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 12 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 916.
 
@@ -5067,7 +5115,9 @@ III.- El procedimiento para dictaminar sobre el cumplimiento de los requisitos p
 
 IV.- Dar vista al Ministerio Público del Dictamen que rinda la Procuraduría de la Defensa del Menor y la Familia, sobre el cumplimiento de los requisitos de procedencia para la adopción;
 
-V.- Cuando el menor hubiere sido acogido por una institución de asistencia social, pública o privada, el presunto adoptante o la institución según el caso, recabarán constancia del tiempo de la exposición o abandono para los efectos del artículo 346, fracción IV, del Código Civil;
+> <small>(REFORMADA, D.O. 28 DE ENERO DE 2010)</small>
+
+V.- Cuando el menor de edad hubiere sido acogido por una institución de asistencia social, pública o privada, el presunto adoptante o la institución, según sea el caso, recabarán constancia del tiempo de la exposición, abandono o custodia para los efectos del artículo 346, fracción IV del Código Civil.
 
 VI.- Si hubieran transcurrido menos de seis meses de la exposición o abandono, se decretará la permanencia de quien se pretende adoptar en el hogar del presunto adoptante, entre tanto se consuma dicho plazo;
 
@@ -5103,7 +5153,11 @@ ARTICULO 918 A.- Cuando el adoptante o adoptantes soliciten la conversión de la
 
 ARTICULO 918 B.- (DEROGADO, D.O. 16 DE MAYO DE 2005)
 
-### CAPITULO X. De las informaciones judiciales
+### CAPITULO IX. De la autorización para separarse del domicilio
+
+conyugal o paterno
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 919.
 
@@ -5189,9 +5243,7 @@ En los incidentes que surjan en este procedimiento se observará lo dispuesto en
 
 El Ministerio Público, o el Consejo Local de Tutelas, a quien se notificarán las providencias que se dicten en este procedimiento, promoverán lo que sea necesario para que el menor o incapacitado queden provistos de una representación legal definitiva.
 
-### CAPITULO XI. De las habilitaciones para contratar y para comparecer
-
-en juicio
+### CAPITULO X. De las informaciones judiciales
 
 ###### ARTICULO 936.
 
@@ -5209,7 +5261,9 @@ Las informaciones se protocolizarán, a petición de parte, o se darán al inter
 
 El Juez está obligado a ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO XI. De las habilitaciones para contratar y para comparecer
+
+en juicio
 
 ###### ARTICULO 940.
 
@@ -5235,7 +5289,7 @@ Cuando antes de haberse otorgado la habilitación que se haya pedido, comparecie
 
 ## TITULO PRIMERO. Del concurso de acreedores
 
-### CAPITULO II. De la cesión de bienes
+### CAPITULO I. Disposiciones generales
 
 ###### ARTICULO 945.
 
@@ -5365,7 +5419,7 @@ Las testamentarías y los intestados pueden ser concursados en los casos en que 
 
 El deudor responde, por el saldo que resulte a su cargo en la sentencia definitiva, salvo que por convenio le sea dispensado por los acreedores en junta, con los requisitos del artículo 1043, o que su responsabilidad prescriba con arreglo al Código Civil.
 
-### CAPITULO III. Del concurso necesario
+### CAPITULO II. De la cesión de bienes
 
 ###### ARTICULO 967.
 
@@ -5419,7 +5473,7 @@ Presentado el escrito de cesión, no puede el deudor gravar ni enajenar los bien
 
 La cesión no extingue las obligaciones de los fiadores, ni la de los deudores solidarios.
 
-### CAPITULO IV. Del juicio de concurso
+### CAPITULO III. Del concurso necesario
 
 ###### ARTICULO 980.
 
@@ -5439,7 +5493,7 @@ Consentida o ejecutoriada la sentencia en que se declare haber lugar a la formac
 
 Los bienes embargados antes de la declaración se entregarán al Síndico y los juicios pendientes se acumularán conforme al artículo 951.
 
-### CAPITULO V. De la administración y liquidación del concurso
+### CAPITULO IV. Del juicio de concurso
 
 ###### ARTICULO 984.
 
@@ -5457,7 +5511,7 @@ No puede ser nombrado Síndico el acreedor que sea dependiente del deudor o pari
 
 Los acreedores pueden objetar de nulidad el nombramiento del Síndico por las causas siguientes:
 
-I.- Infracción de la ley al hacerse la elección, ya en cuanto a la forma, ya en cuanto a las cualidades de la persona;.
+I.- Infracción de la ley al hacerse la elección, ya en cuanto a la forma, ya en cuanto a las cualidades de la persona;
 
 II.- Falta de representación en alguno de los que formaron la mayoría, si ésta no subsiste deducido el importe del crédito que corresponda al acreedor malamente representado.
 
@@ -5577,9 +5631,7 @@ Si no se interpone apelación, la sentencia se ejecutará con arreglo a derecho;
 
 Si atendidos los fondos del concurso, el acreedor que apela puede ser pagado en el lugar en que ha sido colocado, de la misma manera que lo sería en el que reclama, no se admitirá la apelación.
 
-### CAPITULO I. Disposiciones generales
-
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+### CAPITULO V. De la administración y liquidación del concurso
 
 ###### ARTICULO 1014.
 
@@ -5729,7 +5781,7 @@ Aceptado el convenio, el Juez lo aprobará en la misma junta si no fuere contrar
 
 ## TITULO SEGUNDO. De los juicios de sucesión
 
-### CAPITULO II. De las testamentarías
+### CAPITULO I. Disposiciones generales
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -5871,11 +5923,13 @@ V.- Lo relativo a la aplicación de los bienes.
 
 Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquél para abrir el juicio de testamentaria, a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso se acumularán los juicios bajo la representación del ejecutor testamentario y liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su facción.
 
-### CAPITULO III. De los intestados
+### CAPITULO II. De las testamentarías
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1066.
 
-El que promueva el juicio de testamentaría debe presentar el testamento del difunto. El Juez sin más tramite lo tendrá por radicado y en el mismo auto convocará a los interesados a una junta para que si hubiere albacea nombrado en el testamento se les dé a conocer y si no lo hubiere procedan a elegirlo con arreglo a lo prescrito en los artículos 2553, 2555, 2557, 2558, 2559, y 2560 del Código Civil.
+El que promueva el juicio de testamentaría debe presentar el testamento del difunto. El Juez sin más trámite lo tendrá por radicado y en el mismo auto convocará a los interesados a una junta para que si hubiere albacea nombrado en el testamento se les dé a conocer y si no lo hubiere procedan a elegirlo con arreglo a lo prescrito en los artículos 2553, 2555, 2557, 2558, 2559, y 2560 del Código Civil.
 
 ###### ARTICULO 1067.
 
@@ -5919,7 +5973,7 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 En la junta prevenida por el artículo 1066 podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 2601 del Código Civil y se nombrará precisamente en los casos previstos por el artículo 2604 del mismo Código.
 
-### CAPITULO IV. De los inventarios y avalúos
+### CAPITULO III. De los intestados
 
 ###### ARTICULO 1075.
 
@@ -5941,7 +5995,7 @@ Dicha información se practicará con citación del Ministerio Público, quien d
 
 ###### ARTICULO 1079.
 
-Practicadas las diligencias antes dichas, haya o no pedimento del Ministerio Público, el Juez sin más tramites dictará auto haciendo la declaración de herederos ab-intestato, si lo estimare procedente, o denegándola con reserva de su derecho a los que la hayan pretendido, para el juicio ordinario.
+Practicadas las diligencias antes dichas, haya o no pedimento del Ministerio Público, el Juez sin más trámites dictará auto haciendo la declaración de herederos ab-intestato, si lo estimare procedente, o denegándola con reserva de su derecho a los que la hayan pretendido, para el juicio ordinario.
 
 ###### ARTICULO 1080.
 
@@ -5955,7 +6009,7 @@ Hecha la declaración de herederos de acuerdo con los artículos precedentes, el
 
 Si ninguno de los pretendientes hubiere sido declarado heredero, continuará como albacea judicial el interventor que se hubiere nombrado antes o que en su defecto se nombre.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1083.
 
@@ -5985,9 +6039,7 @@ La declaración de herederos de un intestado surte el efecto de tener por legít
 
 Al albacea se le entregarán los bienes sucesorios, así como los libros y papeles, debiendo rendirle cuentas el interventor, sin perjuicio de lo dispuesto en el artículo 2571 del Código Civil.
 
-### CAPITULO V. De la administración de los bienes hereditarios
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+### CAPITULO IV. De los inventarios y avalúos
 
 ###### ARTICULO 1088.
 
@@ -6033,7 +6085,7 @@ Practicados el inventario y avalúo, serán agregados a los autos y se pondrán 
 
 ###### ARTICULO 1097.
 
-Si transcurriese el término fijado en el artículo anterior, sin haberse hecho oposición, el Juez, sin más tramites, aprobará el inventario y avalúo. Si se dedujese oposición contra el inventario o avalúo se substanciarán las que se presentaren, en forma incidental en una audiencia común, a la que concurrirán los interesados y el perito, para que con las pruebas rendidas se discutan las cuestiones promovidas.
+Si transcurriese el término fijado en el artículo anterior, sin haberse hecho oposición, el Juez, sin más trámites, aprobará el inventario y avalúo. Si se dedujese oposición contra el inventario o avalúo se substanciarán las que se presentaren, en forma incidental en una audiencia común, a la que concurrirán los interesados y el perito, para que con las pruebas rendidas se discutan las cuestiones promovidas.
 
 Para dar curso a cualquiera oposición, es indispensable que se exprese concretamente cuál es el valor que se atribuye a cada uno de los bienes y cuáles sean las pruebas que se invocan como base.
 
@@ -6067,7 +6119,9 @@ Si pasados los términos que señala el artículo 1088 el albacea no promoviere 
 
 Los gastos de inventario y avalúo son a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
 
-### CAPITULO VI. De la liquidación y partición de la herencia
+### CAPITULO V. De la administración de los bienes hereditarios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1104.
 
@@ -6115,7 +6169,7 @@ El Juez abrirá la correspondencia que venga dirigida al difunto, en presencia d
 
 Todas las disposiciones relativas al interventor regirán respecto del albacea judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1113.
 
@@ -6183,9 +6237,7 @@ El auto que apruebe o repruebe la cuenta es apelable.
 
 Concluido y aprobado el inventario, el albacea procederá a la liquidación de la herencia.
 
-### CAPITULO VII. De la tramitación por Notarios
-
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+### CAPITULO VI. De la liquidación y partición de la herencia
 
 ###### ARTICULO 1126.
 
@@ -6247,7 +6299,9 @@ II.- Los legatarios de cantidad, de alimentos, de educación y de pensiones, mie
 
 La adjudicación de bienes hereditarios se otorgará con las formalidades que por su cuantía la ley exige para su venta. El Notario ante quien se otorgare la escritura será designado por el albacea.
 
-### CAPITULO VIII. Del testamento público cerrado
+### CAPITULO VII. De la tramitación por Notarios
+
+> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
 
 ###### ARTICULO 1135.
 
@@ -6273,17 +6327,13 @@ Siempre que haya oposición de algún aspirante a la herencia o de cualquier acr
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos judicialmente con tal carácter en un intestado, éste podrá seguirse tramitando con intervención de un Notario, de acuerdo con lo que se establece en este Capítulo.
 
-### CAPITULO IX. De la declaración de ser formal
-
-el testamento ológrafo
-
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+### CAPITULO VIII. Del testamento público cerrado
 
 ###### ARTICULO 1140.
 
 Para la apertura del testamento cerrado, los testigos reconocerán separadamente sus firmas y el pliego que lo contenga. El representante del Ministerio Público asistirá a la diligencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1141.
 
@@ -6301,9 +6351,9 @@ Será preferida para la protocolización de todo testamento cerrado, la Notaría
 
 Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el Juez procederá respecto a cada uno de ellos como se previene en este Capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 2368 y 2370 del Código Civil.
 
-### CAPITULO X. De la declaración de ser formal
+### CAPITULO IX. De la declaración de ser formal
 
-el testamento privado
+el testamento ológrafo
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -6321,7 +6371,9 @@ Recibido el pliego, procederá el tribunal como se dispone en el artículo 2426 
 
 Si para la debida identificación fuere necesario reconocer la firma, por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el tribunal nombrará un perito para que confronte la firma con las indubitadas que existan del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
 
-### CAPITULO XI. Del testamento militar
+### CAPITULO X. De la declaración de ser formal
+
+el testamento privado
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -6355,7 +6407,7 @@ Recibidas las declaraciones, el tribunal procederá conforme al artículo 2440 d
 
 De la resolución que niegue la declaración solicitada pueden apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el representante del Ministerio Público.
 
-### CAPITULO XII. Del testamento marítimo
+### CAPITULO XI. Del testamento militar
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -6369,7 +6421,7 @@ De la declaración judicial se remitirá copia autorizada al Secretario de la De
 
 En lo demás, se observará lo dispuesto en el Capítulo que antecede.
 
-### CAPITULO XIII. Del testamento hecho en país extranjero
+### CAPITULO XII. Del testamento marítimo
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -6377,9 +6429,9 @@ En lo demás, se observará lo dispuesto en el Capítulo que antecede.
 
 Hechas las publicaciones que ordena el artículo 2455 del Código Civil, podrán los interesados ocurrir al Tribunal competente para que pida de la Secretaria de Relaciones Exteriores la remisión del testamento o directamente a ésta, para que lo envíe.
 
-### CAPITULO XIV. De las sucesiones de menor cuantía
+### CAPITULO XIII. Del testamento hecho en país extranjero
 
-> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1154.
 
@@ -6388,6 +6440,10 @@ Si el testamento fuere ológrafo, luego que lo reciba el encargado del Archivo N
 ###### ARTICULO 1155.
 
 Ante el tribunal competente se procederá respecto al testamento público cerrado, al privado y al ológrafo otorgado en el extranjero, como esta dispuesto para esas clases de testamento otorgados en el país.
+
+### CAPITULO XIV. De las sucesiones de menor cuantía
+
+> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 1156.
 
@@ -6473,11 +6529,11 @@ El Secretario General
 
 Gonzalo López M.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 D.O. 1 DE OCTUBRE DE 1942.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LOS ARTICULOS 1 Y 2 DEL CODIGO CIVIL VIGENTE EN EL ESTADO DE YUCATAN.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN LOS ARTÍCULOS 1 Y 2 DEL CÓDIGO CIVIL VIGENTE EN EL ESTADO DE YUCATÁN.
 
 D.O. 12 DE JULIO DE 1946.
 
@@ -6586,3 +6642,17 @@ La tramitación de los procedimientos judiciales, iniciados antes de la fecha pr
 ###### ARTICULO SEXTO.
 
 Se faculta al Pleno del Tribunal Superior de Justicia para tomar todos los acuerdos que considere necesarios o convenientes para la mejor aplicación de las disposiciones de este Decreto.
+
+D.O. 28 DE ENERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Los juicios de pérdida de patria potestad que se encuentren en trámite a la entrada en vigor de este Decreto, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio siempre que favorezcan a las niñas, niños o adolescentes, para lo cual el juez deberá dictar las medidas cautelares suficientes para resguardar el interés superior de la niña, niño o adolescente y su integración a un ambiente familiar adecuado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a lo dispuesto por este Decreto.
