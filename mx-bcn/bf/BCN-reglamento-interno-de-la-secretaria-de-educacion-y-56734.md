@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-educacion-y-56734"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-10"
-last_updated: "2007-08-10"
+last_updated: "2010-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE EDUCACION Y BIENESTAR SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de agosto de 2007.
 
@@ -211,7 +211,15 @@ VIII. Dirección de Participación Social y Formación Valoral;
 
 3. Departamento de Formación Valoral.
 
-IX. Subsecretaría de Planeación y Administración;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2010)</small>
+
+IX. Instituto de la Juventud;
+
+1. Departamento de Desarrollo Humano Juvenil;
+
+2. Departamento de Planeación y Estrategias;
+
+X. Subsecretaría de Planeación y Administración;
 
 a. Coordinación de Desarrollo Institucional;
 
@@ -281,7 +289,7 @@ iii. Departamento de Nóminas y Aclaraciones de Pago.
 
 3. Comisión Estatal Mixta de Escalafón;
 
-X. Delegaciones Municipales;
+XI. Delegaciones Municipales;
 
 1. Departamento de Educación Preescolar;
 
@@ -289,7 +297,7 @@ X. Delegaciones Municipales;
 
 3. Departamento de Educación Secundaria;
 
-XI. Centro de Cultura de la Legalidad, Tijuana.
+XII. Centro de Cultura de la Legalidad, Tijuana.
 
 ###### ARTÍCULO 4.
 
@@ -305,11 +313,17 @@ La representación, trámite y resolución de los asuntos de la SEBS corresponde
 
 El Secretario contará con las facultades que le confiere la normatividad aplicable para cumplir con las atribuciones que competen a la SEBS y tendrá de manera exclusiva las siguientes:
 
-I.- Determinar, establecer y conducir las políticas públicas de planeación, organización, administración, inversión pública, información estadística y evaluación de los servicios educativos a cargo de Gobierno del Estado; así como las de desarrollo laboral, participación social, actualización, profesionalización y promoción del magisterio, de conformidad con la legislación aplicable, para asegurar el cumplimiento de los objetivos, estrategias y prioridades del Plan Estatal de Desarrollo y el Programa Sectorial de Educación;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2010)</small>
 
-II.- Autorizar y conducir la instalación, operación y desarrollo de instituciones y programas en materia de educación básica y sus modalidades: inicial, especial, migrante, técnica y telesecundaria, cultura, deporte y cultura física, educación para adultos, educación para la vida y el trabajo; subsistemas de educación tecnológica y de capacitación para el trabajo, nivel medio superior, superior, educación profesional técnica, educación abierta y a distancia, educación técnica universitaria e investigación científica y tecnológica;
+I.- Determinar, establecer y conducir las políticas públicas de planeación, organización, administración, inversión pública, información estadística y evaluación de los servicios educativos y de la juventud a cargo de Gobierno del Estado; así como las de desarrollo laboral, participación social, actualización, profesionalización y promoción del magisterio, de conformidad con la legislación aplicable, para asegurar el cumplimiento de los objetivos, estrategias y prioridades del Plan Estatal de Desarrollo y el Programa Sectorial de Educación;
 
-III.- Normar los servicios educativos a cargo del Gobierno del Estado, las entidades de la administración pública paraestatal del sector a su cargo, los ayuntamientos y las personas físicas o morales con autorización o reconocimiento de validez oficial de estudios en cualquiera de sus tipos, niveles y modalidades; que deban sujetarse a la normatividad establecida;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2010)</small>
+
+II.- Autorizar y conducir la instalación, operación y desarrollo de instituciones y programas en materia de educación básica y sus modalidades: inicial, especial, migrante, técnica y telesecundaria, cultura; deporte y cultura física, de la juventud, educación para adultos, educación para la vida y el trabajo; subsistemas de educación tecnológica y de capacitación para el trabajo, nivel medio superior, superior, educación profesional técnica, educación abierta y a distancia, educación técnica universitaria e investigación científica y tecnológica;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2010)</small>
+
+III.- Normar los servicios educativos y de la juventud a cargo del Gobierno del Estado, las entidades de la administración pública paraestatal del sector a su cargo, los ayuntamientos y las personas físicas o morales con autorización o reconocimiento de validez oficial de estudios en cualquiera de sus tipos, niveles y modalidades; que deban sujetarse a la normatividad establecida;
 
 IV.- Conducir y autorizar la expedición u otorgamiento de certificados, diplomas, títulos o grados académicos del nivel básico, superior, normal y los necesarios para la formación de docentes, a instituciones públicas y privadas de conformidad con la normatividad, planes y programas de estudios aplicables;
 
@@ -327,7 +341,9 @@ X.- Fijar el calendario oficial, así como promover, vigilar y coordinar la real
 
 XI.- Coordinar y vigilar la distribución con toda oportunidad, de los libros de texto gratuitos y el material educativo complementario que la SEBS proporcione a los centros educativos a su cargo;
 
-XII.- Presentar y proponer al Ejecutivo Estatal los convenios de coordinación en materia educativa, para su suscripción con el gobierno federal, municipal y con entidades públicas y privadas;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2010)</small>
+
+XII.- Presentar y proponer al Ejecutivo Estatal los convenios de coordinación en materia educativa y de la juventud, para su suscripción con el gobierno federal, municipal y con entidades públicas y privadas;
 
 XIII.- Coordinar, regular y otorgar equivalencias de estudios en todos los servicios educativos que atiende el Estado conforme a los lineamientos y normatividad aplicable;
 
@@ -345,7 +361,9 @@ XIX.- Proponer ante las autoridades correspondientes los programas anuales de co
 
 XX.- Adscribir orgánicamente las unidades administrativas de la SEBS de conformidad con los requerimientos de la programación y las prioridades del servicio;
 
-XXI.- Informar al Gobernador del Estado sobre la situación que prevalece en el ámbito educativo y someter a su consideración y acuerdo los proyectos resolutivos de los asuntos prioritarios o transcendentes de la competencia de la SEBS y de las entidades que integran el sector bajo su coordinación;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2010)</small>
+
+XXI.- Informar al Gobernador del Estado sobre la situación que prevalece en el ámbito educativo y de la juventud, así como someter a su consideración y acuerdo los proyectos resolutivos de los asuntos prioritarios o trascendentes de la competencia de la SEBS y de las entidades que integran el sector bajo su coordinación;
 
 XXII.- Comparecer e informar ante el Congreso del Estado sobre la situación que guarda su ramo, así como del sector correspondiente y en su caso de cualquier asunto del ámbito de su competencia, siempre que sea requerido para ello;
 
@@ -353,17 +371,25 @@ XXIII.- Aprobar las bases y criterios específicos para el desarrollo de los sis
 
 XXIV.- Promover y coordinar la participación de los padres de familia y de la sociedad en general en el quehacer educativo, a través de los padres de familia y de la integración del Consejo Estatal de Participación Social en la Educación, de conformidad con la normatividad aplicable, así como formular programas de formación de valores y de desarrollo humano en la familia, escuela y sociedad, con el objeto de fortalecer y elevar la calidad de la educación pública en el Estado;
 
-XXV.- Proponer, gestionar y proyectar los recursos para ampliar la cobertura de los servicios educativos a cargo de la SEBS y .del sector que le corresponde coordinar, de conformidad con los objetivos, estrategias de la planeación educativa, políticas y prioridades establecidas;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2010)</small>
 
-XXVI.- Desconcentrar funciones y servicios educativos, de conformidad con los lineamientos y políticas que establezca el Gobernador del Estado:
+XXV.- Proponer, gestionar y proyectar los recursos para ampliar la cobertura de los servicios educativos y de la juventud a cargo de la SEBS y del sector que le corresponde coordinar, de conformidad con los objetivos, estrategias de la planeación educativa, políticas y prioridades establecidas;
+
+XXVI.- Desconcentrar funciones y servicios educativos, de conformidad con los lineamientos y políticas que establezca el Gobernador del Estado;
 
 XXVII.- Aprobar los programas anuales que se elaboren por la SEBS y por las entidades de la administración pública paraestatal del sector que le corresponde coordinar, para concurrir en la ejecución del Plan Estatal de Desarrollo y los Programas Sectoriales de Educación y especiales establecidos;
 
 XXVIII.- Promover la permanente actualización del marco jurídico en materia de educación;
 
-XXIX.- Resolver las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento; y
+XXIX.- Resolver las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento;
 
-XXX.- Las demás que se consideren indelegables por disposición legal y aquellas que como Coordinador del Sector le confiera la normatividad aplicable.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2010)</small>
+
+XXX.- Promover, gestionar e impulsar en coordinación con el sector público, privado y social, así como con las dependencias y entidades de la Administración Pública Estatal, las políticas, acciones, programas y proyectos tendientes al desarrollo integral de la juventud, que permitan mejorar su nivel de vida, así como sus expectativas sociales, culturales y de recreación; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2010)</small>
+
+XXXI.- Las demás que se consideren indelegables por disposición legal y aquellas que como Coordinador del Sector le confiera la normatividad aplicable.
 
 ### CAPÍTULO III. FACULTADES DE LOS SUBSECRETARIOS
 
@@ -2409,7 +2435,9 @@ V.- Desarrollar mecanismos complementarios que le den congruencia a los resultad
 
 VI.- Las demás que le confiere la normatividad aplicable y le encomiende su superior jerárquico.
 
-### CAPÍTULO XXIII. DIRECCIÓN DE PARTICIPACIÓN SOCIAL Y FORMACIÓN VALORAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE ENERO DE 2010)</small>
+
+### CAPÍTULO XXIII. DE LA DIRECCIÓN DE PARTICIPACIÓN SOCIAL Y FORMACIÓN VALORAL Y DEL INSTITUTO DE LA JUVENTUD
 
 ###### ARTÍCULO 97.
 
@@ -2530,6 +2558,90 @@ IX.- Diseñar y coordinar las acciones de capacitación de los programas relacio
 X.- Llevar a cabo foros y encuentros de maestros para el fortalecimiento de su formación valoral y hacer trascender su influencia con sus alumnos, y
 
 XI.- Las demás que le confiere la normatividad aplicable y le encomiende su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2010)</small>
+
+ARTÍCULO 101 BIS.- Corresponde al Instituto de la Juventud la atención y trámite de las siguientes atribuciones:
+
+I.- Diseñar e implementar en coordinación con las instancias que correspondan, las políticas, acciones, programas y proyectos tendientes al desarrollo integral de la juventud, que permitan mejorar su nivel de vida, así como sus expectativas sociales, culturales y de recreación;
+
+II.- Promover en coordinación con las instancias respectivas, programas de orientación para jóvenes, sobre temas de sexualidad, salud reproductiva, prevención de conductas adictivas y el respeto y promoción de los valores sociales y de la familia, así como el respeto a los derechos humanos;
+
+III.- Integrar las propuestas, sugerencias e inquietudes de la juventud a efecto de definir acciones, programas y proyectos que coadyuven al mejoramiento de las condiciones de desarrollo de los jóvenes;
+
+IV.- Establecer en coordinación con las instancias respectivas, un sistema de apoyo a empresas juveniles que estimulen la autogestión, el auto empleo y la cultura emprendedora;
+
+V.- Proponer ante las instancias que corresponda, la creación de programas de asistencia laboral y bolsa de trabajo para jóvenes sin empleo;
+
+VI.- Impulsar la apertura de centros de atención para jóvenes en el Estado;
+
+VII.- Impulsar en su organización, creación y procedimientos de generación y captación de recursos, a los organismos no gubernamentales integrados por jóvenes o que tengan como objeto social apoyar a los jóvenes;
+
+VIII.- Promover estrategias de participación entre los órdenes de gobierno y las organizaciones civiles que dirigen su trabajo a población joven, a fin de optimizar recursos económicos y humanos en programas de desarrollo;
+
+IX.- Establecer un sistema de evaluación permanente a los programas aplicados por el Instituto para su constante mejoramiento, así como, aplicar dicho sistema a los organismos juveniles que soliciten apoyo para la calidad de su gestión; y,
+
+X.- Las demás que le confiere la normatividad aplicable y le encomiende su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2010)</small>
+
+ARTÍCULO 101 TER.- Para el cumplimiento de sus atribuciones, el Instituto de la Juventud contará con las siguientes unidades administrativas:
+
+I.- Departamento de Desarrollo Humano Juvenil; y,
+
+II.- Departamento de Planeación y Estrategias.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2010)</small>
+
+ARTÍCULO 101 QUATER.- Corresponde al Departamento de Desarrollo Humano Juvenil, la atención y trámite de las siguientes atribuciones:
+
+I.- Desarrollar en coordinación con las instancias que correspondan las acciones, programas y proyectos tendientes al desarrollo integral de la juventud, que permitan mejorar su nivel de vida, así como sus expectativas sociales, culturales y de recreación;
+
+II.- Participar en coordinación con las instancias respectivas, en la ejecución de programas de orientación para jóvenes, sobre temas de sexualidad, salud reproductiva, prevención de conductas adictivas y el respeto y promoción de los valores sociales y de la familia, así como el respeto a los derechos humanos;
+
+III.- Facilitar a los jóvenes, las condiciones adecuadas para el mejor aprovechamiento de su servicio social y prácticas profesionales, en beneficio propio y de sus comunidades;
+
+IV.- Proporcionar a los jóvenes, la información requerida sobre la oferta gubernamental existente en materia de programas de juventud estatales, federales y municipales;
+
+V.- Propiciar la creación de mecanismos de participación ciudadana de los jóvenes, fortaleciendo su proceso de organización autónoma;
+
+VI.- Propiciar la creación de medios y espacios de difusión sobre temáticas juveniles, así como organizar espacios de discusión sobre temas específicos de juventud;
+
+VII.- Ejecutar programas de incentivos para el mejor aprovechamiento educativo, así como para la práctica de actividades artísticas y culturales;
+
+VIII.- Realizar actividades de recreación y deporte, que ayuden a los jóvenes a convivir socialmente;
+
+IX.- Desarrollar programas que fomenten una cultura del buen uso del tiempo libre, para la convivencia y aprendizaje informal de pasatiempos o actividades culturales;
+
+X.- Permanecer en contacto con los organismos no gubernamentales integrados por jóvenes o que tengan como objeto social apoyar a los jóvenes, a efecto de coordinar sus acciones entre los organismos no gubernamentales integrados por jóvenes que atiendan temas comunes;
+
+XI.- Implementar estrategias de participación entre los órdenes de gobierno y las organizaciones civiles que dirigen su trabajo a población joven, a fin de optimizar recursos económicos y humanos en programas de desarrollo;
+
+XII.- Asesorar a los organismos juveniles, en la planeación estratégica y la implementación de sistemas de calidad, que los conduzcan a lograr de manera eficaz y eficiente de su objeto social;
+
+XIII.- Promover entre la juventud los valores sobre el trabajo y el desarrollo de sus habilidades para facilitar su incorporación a la vida productiva; y,
+
+XIV.- las demás que le confiere la normatividad aplicable y le encomiende su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2010)</small>
+
+ARTÍCULO 101 QUINQUIES.- Corresponde al Departamento de Planeación y Estrategias la atención y trámite de las siguientes atribuciones:
+
+I.- Establecer programas destinados a la incorporación del joven al sector productivo, con la finalidad de contribuir a su desarrollo integral;
+
+II.- Definir acciones y estrategias que coadyuven al mejoramiento de las condiciones de desarrollo de los jóvenes;
+
+III.- Diseñar estrategias de participación entre los órdenes de gobierno y las organizaciones civiles que dirigen su trabajo a la población joven, a fin de optimizar recursos económicos y humanos en programas de desarrollo juvenil;
+
+IV.- Proponer los lineamientos para la integración de los documentos e informes de planeación y seguimiento de los programas juveniles del sector público;
+
+V.- Desarrollar mecanismos de vinculación y apoyo entre la sociedad e instituciones académicas, con programas de estudios de la juventud;
+
+VI.- Diseñar un sistema de evaluación permanente a los programas aplicados por el Instituto para su constante mejoramiento y aplicar ese sistema a los organismos juveniles que soliciten apoyo para la calidad de su gestión;
+
+VII.- Diseñar programas de gobierno que tiendan a mejorar los servicios que en materia de juventud presta la SEBS; y,
+
+VIII.- Las demás que le confiere la normatividad aplicable y le encomiende su superior jerárquico.
 
 ### CAPÍTULO XXIV. SUBSECRETARÍA DE PLANEACIÓN Y ADMINISTRACIÓN
 
@@ -3870,3 +3982,9 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE EDUCACION Y BIENESTAR SOCIAL
 
 OSCAR ORTEGA VELEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE ENERO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el día veintinueve de enero de dos mil diez.
