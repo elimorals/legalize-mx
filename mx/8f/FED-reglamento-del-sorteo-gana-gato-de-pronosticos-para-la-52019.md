@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-gana-gato-de-pronosticos-para-la-52019"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-23"
-last_updated: "2006-10-23"
+last_updated: "2010-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52019&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-04-18"
 
 REGLAMENTO DEL SORTEO GANA GATO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 23 de octubre de 2006.
 
@@ -227,9 +227,11 @@ La categoría de séptimo lugar no tiene premio acumulativo y, por lo tanto, su 
 
 Los montos asignados para la premiación de las seis primeras categorías son variables y se establecen en función de las ventas del sorteo y los porcentajes de distribución establecidos para cada una de ellas. Los porcentajes de distribución se aplican al fondo de premiación una vez substraído el monto destinado a cubrir el pago de premios de la séptima categoría.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ENERO DE 2010)</small>
+
 ###### Artículo 16o.
 
-Concluida la celebración del sorteo e identificadas las combinaciones ganadoras, se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la Institución, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
+Concluida la celebración del sorteo e identificadas las combinaciones ganadoras, se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación, un funcionario que designe el Director General de la Institución, un representante de la Subdirección General de Informática y otro de la Subdirección de Concursos y Sorteos, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
 
 El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
@@ -237,7 +239,9 @@ Estarán presentes también en el desarrollo y la celebración del sorteo, un re
 
 Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del sorteo hasta el envío de resultados para su publicación.
 
-El representante de la Dirección Técnica hará entrega al Inspector designado por la Secretaría de Gobernación de los dispositivos de almacenamiento electrónico de datos que contengan el archivo de apuestas participantes, registradas en el sistema central de cómputo, previo a la celebración del sorteo.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2010)</small>
+
+El representante de la Subdirección General de Informática, hará entrega al Inspector designado por la Secretaría de Gobernación de los dispositivos de almacenamiento electrónico de datos que contengan el archivo de apuestas participantes, registradas en el sistema central de cómputo, previo a la celebración del sorteo.
 
 A través de los sistemas de seguridad implementados para tal efecto, el Inspector designado por la Secretaría de Gobernación depositará, previo a la celebración del sorteo, los dispositivos de almacenamiento electrónico de datos, a los cuales exclusivamente tendrá acceso el Organo Interno de Control para efectuar, después de la celebración del sorteo, la auditoría de la selección de ganadores.
 
@@ -322,3 +326,11 @@ Secretario del Consejo Directivo
 Lic. Lisandro Javier Herrera Aguilar
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE ENERO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
