@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-funcionamiento-de-los-concursos-protouch-33592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-01"
-last_updated: "2006-09-08"
+last_updated: "2010-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-07-21"
 
 REGLAMENTO DE FUNCIONAMIENTO DE LOS CONCURSOS PROTOUCH
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 1 de septiembre de 2003.
 
@@ -239,11 +239,17 @@ El boleto deberá contener los siguientes datos:
 
 Pronósticos a través de su sistema central de captación de transacciones en línea, suspenderá la venta indefectiblemente antes del inicio del primer partido de los programados en el concurso respectivo; y también antes de dicho inicio estará integrado el registro de apuestas concursantes.
 
-Ante la presencia del Inspector de la Secretaría de Gobernación, del representante del Director General, designado en los términos del artículo 22o. de este reglamento, de un representante de la Dirección Técnica y otro de la Gerencia de Sorteos y Normatividad se procederá a efectuar el cierre de ventas del concurso, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea y previo a la celebración del primero de los partidos de fútbol americano programados e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2010)</small>
 
-La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Dirección Técnica entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control.
+Ante la presencia del Inspector de la Secretaría de Gobernación, del representante del Director General, designado en los términos del artículo 22o. de este reglamento, de un representante de la Subdirección General de Informática y otro de la Subdirección de Concursos y Sorteos se procederá a efectuar el cierre de ventas del concurso, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea y previo a la celebración del primero de los partidos de fútbol americano programados e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
 
-El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso en el sistema central de captación de transacciones en línea será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Dirección Técnica en la caja de seguridad a que se refiere el presente artículo.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2010)</small>
+
+La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Subdirección General de Informática entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control.
+
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2010)</small>
+
+El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso en el sistema central de captación de transacciones en línea será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Subdirección General de Informática en la caja de seguridad a que se refiere el presente artículo.
 
 ###### Artículo 20o.
 
@@ -462,3 +468,9 @@ Tercero.- El presente acuerdo entrará en vigor al siguiente día de su publicac
 Cuarto.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Quinto.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos conforme a las disposiciones derogadas.
+
+D.O.F. 29 DE ENERO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
