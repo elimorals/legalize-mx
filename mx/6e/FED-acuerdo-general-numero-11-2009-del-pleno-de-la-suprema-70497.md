@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-11-2009-del-pleno-de-la-suprema-70497"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-10-22"
-last_updated: "2009-10-22"
+last_updated: "2010-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70497&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-10-15"
 
 ACUERDO GENERAL NUMERO 11/2009, DE QUINCE DE OCTUBRE DE DOS MIL NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ORDENA A LOS JUZGADOS DE DISTRITO LA SUSPENSION DEL ENVIO DIRECTO A ESTE ALTO TRIBUNAL Y LA RESERVA DE LA REMISION A LOS TRIBUNALES COLEGIADOS DE CIRCUITO, DE LOS RECURSOS DE REVISION INTERPUESTOS EN CONTRA DE LAS SENTENCIAS DICTADAS EN LOS JUICIOS DE AMPARO EN LOS QUE SE IMPUGNAN LOS ARTICULOS 109, FRACCION X Y 170 DE LA LEY DEL IMPUESTO SOBRE LA RENTA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL PRIMERO DE ENERO DE DOS MIL DOS, Y 27 Y 28 DE LA LEY FEDERAL DE DERECHOS, PUBLICADA EN DICHO MEDIO DE DIFUSION OFICIAL DEL TREINTA Y UNO DE DICIEMBRE, TANTO DE MIL NOVECIENTOS OCHENTA Y UNO, COMO DE MIL NOVECIENTOS OCHENTA Y DOS, RESPECTIVAMENTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 22 de octubre de 2009.
 
@@ -55,6 +55,8 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO:
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 2/2010, DE DIECINUEVE DE ENERO DE DOS MIL DIEZ, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 29 DE ENERO DE 2010, SE LEVANTA LA RESERVA DE ENVIO DE ASUNTOS A LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN LOS QUE SE IMPUGNAN LOS ARTICULOS 27 Y 28 DE LA LEY FEDERAL DE DERECHOS, PUBLICADA EN EL D.O.F. DE 31 DE DICIEMBRE DE 1981 Y 1982, QUE REGULAN EL PAGO DE DERECHOS DE VIGILANCIA A CARGO DE BENEFICIARIOS DE ESTIMULOS FISCALES, SUSPENDIDA MEDIANTE EL PRESENTE PUNTO.</small>
+
 UNICO. Se ordena a los Juzgados de Distrito la suspensión del envío directo a esta Suprema Corte de Justicia de la Nación y la reserva de remisión a los Tribunales Colegiados de Circuito, de los recursos de revisión interpuestos en contra de las sentencias dictadas en los juicios de amparo en los que se reclaman los artículos 109, fracción X y 170 de la Ley del Impuesto sobre la Renta, publicada en el Diario Oficial de la Federación del primero de enero de dos mil dos, y 27 y 28 de la Ley Federal de Derechos, publicada en dicho medio de difusión oficial del treinta y uno de diciembre, tanto de mil novecientos ochenta y uno, como de mil novecientos ochenta y dos, respectivamente.
 
 TRANSITORIOS:
@@ -70,3 +72,11 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Guillermo 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Este Acuerdo General Número 11/2009, POR EL QUE SE ORDENA A LOS JUZGADOS DE DISTRITO LA SUSPENSION DEL ENVIO DIRECTO A ESTE ALTO TRIBUNAL Y LA RESERVA DE LA REMISION A LOS TRIBUNALES COLEGIADOS DE CIRCUITO, DE LOS RECURSOS DE REVISION INTERPUESTOS EN CONTRA DE LAS SENTENCIAS DICTADAS EN LOS JUICIOS DE AMPARO EN LOS QUE SE IMPUGNAN LOS ARTICULOS 109, FRACCION X Y 170 DE LA LEY DEL IMPUESTO SOBRE LA RENTA, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL PRIMERO DE ENERO DE DOS MIL DOS, Y 27 Y 28 DE LA LEY FEDERAL DE DERECHOS, PUBLICADA EN DICHO MEDIO DE DIFUSION OFICIAL DEL TREINTA Y UNO DE DICIEMBRE, TANTO DE MIL NOVECIENTOS OCHENTA Y UNO, COMO DE MIL NOVECIENTOS OCHENTA Y DOS, RESPECTIVAMENTE, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de diez votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Mariano Azuela Güitrón, Sergio A. Valls Hernández, Juan N. Silva Meza y Presidente Guillermo I. Ortiz Mayagoitia.- México, Distrito Federal, a quince de octubre de dos mil nueve.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia fotostática constante de once fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 11/2009, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para se (sic) difusión.- México, Distrito Federal, a dieciséis de octubre de dos mil nueve.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 29 DE ENERO DE 2010.
+
+PRIMERO. Este Acuerdo General entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
