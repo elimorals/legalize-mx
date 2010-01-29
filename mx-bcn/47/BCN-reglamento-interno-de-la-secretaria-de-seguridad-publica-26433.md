@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-seguridad-publica-26433"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-04"
-last_updated: "2004-09-03"
+last_updated: "2010-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 29 DE ENERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 4 de octubre de 2002.
 
@@ -1230,3 +1232,15 @@ P.O. 3 DE SEPTIEMBRE DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ENERO DE 2010.
+
+PRIMERO.- El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Secretaría de Seguridad Pública, publicado en el Periódico Oficial del Estado, de fecha 4 de octubre de 2002.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+CUARTO.- Todos los reglamentos o disposiciones que deriven del presente reglamento, deberán ajustar sus disposiciones a lo previsto en el mismo, dentro de los ciento ochenta días siguientes a su publicación.
+
+QUINTO.- Los manuales de organización, procedimientos y servicios al público a que hace referencia éste reglamento, deberán de expedirse dentro de los ciento ochenta días naturales siguientes a la fecha de entrada en vigor del presente reglamento.
