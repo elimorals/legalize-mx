@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-funcionamiento-de-los-sorteos-instantaneos-en-463
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-22"
-last_updated: "2006-09-08"
+last_updated: "2010-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46354&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-09-20"
 
 REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 22 de septiembre de 2005.
 
@@ -83,11 +83,11 @@ El documento impreso a que se refiere el párrafo anterior constituye un documen
 
 11.- Ceremonia: acto oficial de selección al azar de la combinación ganadora.
 
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2010)</small>
+
 ###### Artículo 4o.
 
-Será requisito para llevar a cabo la carga de lotes en el sistema central de cómputo la presencia del inspector designado por la Secretaría de Gobernación, de un representante designado por el Director General de Pronósticos, de un representante de la Dirección Técnica y de un representante de la Gerencia de Sorteos.
-
-A efecto de certificar la carga a que hace referencia el presente artículo, deberá levantarse un acta de carga que deberán firmar los funcionarios listados en el párrafo anterior.
+Será requisito para llevar a cabo la carga de lotes en el sistema central de cómputo la presencia del Inspector designado por la Secretaría de Gobernación, de un representante designado por el Director General de Pronósticos, de un representante de la Subdirección General de Informática y de un representante de la Subdirección de Concursos y Sorteos.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -131,15 +131,11 @@ Pronósticos podrá llevar a cabo la venta de uno o varios lotes al mismo tiempo
 
 No podrá iniciar la venta de un lote del mismo precio, sin haberse consumido el lote precedente en su totalidad.
 
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2010)</small>
+
 ###### Artículo 8o.
 
-Concluida la vigencia del lote, se levantará acta en la que se harán constar los datos de identificación de éste, cantidad e importe de premios pagados, cantidad e importe de premios caducos y, en su caso, cualquier incidente que ocurriera durante la vigencia del mismo.
-
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
-
-Dicha acta se elaborará con la participación del Inspector de la Secretaría de Gobernación y un representante que designe el Director General quien deberá intervenir y suscribir el documento para todos los efectos legales.
-
-Estarán presentes también en la lectura y firma del acta, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también la suscribirán.
+Concluida la vigencia del lote, ante la presencia del Inspector designado por la Secretaría de Gobernación, de un representante designado por el Director General, un representante de la Subdirección General de Informática y otro de la Subdirección de Concursos y Sorteos, se levantará acta en la que se harán constar los datos de identificación de éste, cantidad e importe de premios pagados, cantidad e importe de premios caducos y, en su caso, cualquier incidente que hubiese ocurrido durante la vigencia del mismo, misma que será firmada por los Servidores Públicos mencionados.
 
 ###### Artículo 8o.
 
@@ -304,3 +300,9 @@ Primero.- El presente acuerdo entrará en vigor al siguiente día de su publicac
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos conforme a las disposiciones derogadas.
+
+D.O.F. 29 DE ENERO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
