@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-sorteo-pronosticos-rapidos-de-39766"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "2009-05-20"
+last_updated: "2010-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-12-03"
 
 REGLAMENTO PARA EL SORTEO PRONOSTICOS RAPIDOS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 20 de agosto de 1999.
 
@@ -205,11 +205,11 @@ Los boletos ganadores de Pronósticos Rápidos o “Raspaditos” serán aquello
 
 Una vez generados los boletos preimpresos y virtuales, Pronósticos custodiará los mismos hasta en tanto se determine la venta al público. Así mismo Pronósticos podrá producir varias emisiones y series, y deberá custodiarlas en tanto se produzca su venta.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ENERO DE 2010)</small>
 
 ###### ARTICULO VIGESIMO.
 
-El día y hora fijados en las Reglas a las que se refiere el artículo décimo tercero para el inicio del sorteo, ante la presencia del Inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la Institución, se procederá a realizar una ceremonia pública en la que se declare iniciado el Sorteo, se dará fe de la legalidad del mismo y de la fecha de inicio de venta de la emisión, lo cual será plasmado en el acta que sea levantada al efecto.
+El día y hora fijados en las Reglas a las que se refiere el artículo décimo tercero para el inicio del sorteo, ante la presencia del Inspector designado por la Secretaría de Gobernación, un funcionario que designe el Director General de la Institución, un representante de la Subdirección General de Informática y otro de la Subdirección de Concursos y Sorteos, se procederá a realizar una ceremonia pública en la que se declare iniciado el Sorteo, se dará fe de la legalidad del mismo y de la fecha de inicio de venta de la emisión, lo cual será plasmado en el acta que sea levantada al efecto.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
@@ -235,15 +235,11 @@ Asimismo, Pronósticos emitirá una publicación de la misma índole, al día si
 
 Por último, una vez transcurridos los 60 (sesenta) días naturales, contados a partir de la fecha de terminación de la vigencia del sorteo, Pronósticos difundirá por el mismo medio, que los participantes ganadores han perdido su derecho a cobro de premios por caducidad.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2010)</small>
 
 ###### ARTICULO VIGESIMO SEGUNDO.
 
-Concluida la vigencia del Sorteo, se levantará acta en la que se harán constar los antecedentes de éste, sus resultados y cualquier incidente que ocurriere durante el mismo.
-
-Dicha acta se elaborará con la participación del Inspector de la Secretaría de Gobernación y de un funcionario que al efecto designe el Director General, en los mismo términos que prevé el artículo vigésimo, quienes suscribirán el documento, para todos los efectos legales.
-
-Estarán presentes también en el acto a que se refiere el presente artículo, un representante de la Coordinación de Tecnologías de la Información y Comunicaciones y otro de la Gerencia de Sorteos y Normatividad, quienes también suscribirán el acta mencionada.
+Concluida la vigencia del Sorteo, ante la presencia del Inspector designado por la Secretaría de Gobernación, de un representante designado por el Director General, un representante de la Subdirección General de Informática y otro de la Subdirección de Concursos y Sorteos, se levantará acta en la que se harán constar los antecedentes de éste, sus resultados y cualquier incidente que hubiese ocurrido durante la vigencia del mismo, misma que será firmada por los Servidores Públicos mencionados.
 
 ###### ARTICULO VIGESIMO TERCERO.
 
@@ -332,3 +328,9 @@ Primero.- El presente acuerdo entrará en vigor al siguiente día de su publicac
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
+
+D.O.F. 29 DE ENERO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
