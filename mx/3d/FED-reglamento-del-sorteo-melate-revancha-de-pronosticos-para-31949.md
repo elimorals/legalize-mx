@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-revancha-de-pronosticos-para-31949
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2009-04-23"
+last_updated: "2010-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31949&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -209,15 +209,21 @@ El día y hora fijados para la ceremonia, en presencia del Inspector designado p
 
 I. Se introducirán en una urna 56 (cincuenta y seis) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 56 (cincuenta y seis), inclusive.
 
-II. Ante la presencia del representante del Director General, designado en los términos del artículo 21o. de este reglamento, de un representante de la Dirección Técnica y otro de la Gerencia de Sorteos y Normatividad se procederá a efectuar el cierre de ventas, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2010)</small>
 
-III. La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Dirección Técnica entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control.
+II. Ante la presencia del representante del Director General, designado en los términos del artículo 21o. de este reglamento, de un representante de la Subdirección General de Informática y otro de la Subdirección de Concursos y Sorteos se procederá a efectuar el cierre de ventas, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
+
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2010)</small>
+
+III. La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Subdirección General de Informática, entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control.
 
 IV. En presencia de los mismos funcionarios señalados en la fracción II del presente artículo, se llevará a cabo la ceremonia, procediendo a extraer de la urna, una a una y al azar, 6 (seis) esferas y otra “adicional”, cuyos números integrarán la combinación de números ganadora.
 
 El orden o secuencia en que se extraigan las 6 (seis) primeras esferas numeradas de la urna, no influirá en el resultado del sorteo; pero el número “adicional”, será siempre y en todo caso, la ubicada en la última posición de izquierda a derecha, relativa al frente de la urna.
 
-V. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el sistema central de captación de transacciones en línea será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Dirección Técnica en la caja de seguridad a que se refiere la fracción III del presente artículo.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2010)</small>
+
+V. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el sistema central de captación de transacciones en línea será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Subdirección General de Informática en la caja de seguridad a que se refiere la fracción III del presente artículo.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -461,15 +467,21 @@ El día y hora fijados para la ceremonia, en presencia del Inspector designado p
 
 I. Se introducirán en una urna 56 (cincuenta y seis) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 56 (cincuenta y seis), inclusive.
 
-II. Ante la presencia del representante del Director General, designado en los términos del artículo 21o. de este reglamento, de un representante de la Dirección Técnica y otro de la Gerencia de Sorteos y Normatividad se procederá a efectuar el cierre de ventas, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2010)</small>
 
-III. La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Dirección Técnica entregue al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual exclusivamente tendrá acceso el Organo Interno de Control.
+II. Ante la presencia del representante del Director General, designado en los términos del artículo 21o. de este reglamento, de un representante de la Subdirección General de Informática y otro de la Subdirección de Concursos y Sorteos se procederá a efectuar el cierre de ventas, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
+
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2010)</small>
+
+III. La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Subdirección General de Informática entregue al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual exclusivamente tendrá acceso el Organo Interno de Control.
 
 IV. En presencia de los mismos funcionarios señalados en la fracción II del presente artículo, se llevará a cabo la ceremonia, procediendo a extraer de la urna, una a una y al azar, 6 (seis) esferas, cuyos números integrarán la combinación de números ganadora.
 
 El orden o secuencia en que se extraigan las 6 (seis) esferas numeradas de la urna, no influirá en el resultado del sorteo.
 
-V. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el sistema central de captación de transacciones en línea será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Dirección Técnica en la caja de seguridad a que se refiere la fracción III anterior.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2010)</small>
+
+V. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el sistema central de captación de transacciones en línea será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Subdirección General de Informática en la caja de seguridad a que se refiere la fracción III anterior.
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -694,3 +706,9 @@ Primero.- El presente acuerdo entrará en vigor al siguiente día de su publicac
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
+
+D.O.F. 29 DE ENERO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
