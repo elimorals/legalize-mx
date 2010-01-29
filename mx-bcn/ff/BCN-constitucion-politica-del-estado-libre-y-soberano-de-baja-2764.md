@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2009-09-25"
+last_updated: "2010-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -991,7 +991,7 @@ XI.- Cuidar la recaudación y correcta inversión de los caudales del Estado;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2008)</small>
 
-XII.- Fomentar, impulsar y promover el desarrollo sustentable de la pesca y acuacultura en el Estado, considerando la participación del sector social y privado, así como coordinarse con la Federación y los Municipios de nuestra Entidad, cuando su intervención sea requerida para el ejercicio de las atribuciones que en esta materia les competan de conformidad con la presente Constitución y las leyes que correspondan;.
+XII.- Fomentar, impulsar y promover el desarrollo sustentable de la pesca y acuacultura en el Estado, considerando la participación del sector social y privado, así como coordinarse con la Federación y los Municipios de nuestra Entidad, cuando su intervención sea requerida para el ejercicio de las atribuciones que en esta materia les competan de conformidad con la presente Constitución y las leyes que correspondan.
 
 XIII.- Expedir los títulos profesionales con arreglo a las leyes y reconocer la validez de los que se expidan, en otras Entidades de la Federación, observando lo dispuesto en la fracción V del Artículo 121 de la Constitución de los Estados Unidos Mexicanos;
 
@@ -2223,7 +2223,7 @@ V.- La Oficina del Registro de Electores, teniendo en cuenta los datos del Censo
 
 VI.- En cada una de las cabeceras de Distrito Electoral funcionará un Comité Distrital Electoral, con jurisdicción en todo el Distrito y con las facultades que a los Comités Distritales Electorales señala la Ley Electoral Federal, aplicadas sus disposiciones en lo conducente.
 
-VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal.
+VII.- Los Comités Distritales Electorales estarán integrados por un presidente, un secretario y un vocal, que serán designados por la Comisión Electoral del Estado, debiendo recaer los nombramientos en personas que reúnan los requisitos del artículo 20 de la Ley Electoral Federal;
 
 En cada Comité Distrital los Partidos Políticos a que se refiere la base IX podrán acreditar, cada uno de ellos, un representante propietario y un suplente. Los representantes serán citados a las sesiones que celebre el Comité y podrán intervenir, sin voto, en sus deliberaciones. Las designaciones de representantes ante los Comités Distritales serán registrados en la Comisión Electoral del Estado.
 
@@ -3099,9 +3099,9 @@ PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por 
 
 SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presentes reformas se declararán parte de esta Constitución.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2010)</small>
 
-TERCERO.- Las presentes reformas entrarán en vigor el día primero de febrero del año 2010.
+TERCERO.- La presente reforma entrará en vigor el día tres de mayo del año 2010, salvo las disposiciones normativas contenidas en los artículos 70 y 72 las cuales entrarán en vigor el día primero de febrero del 2010.
 
 CUARTO.- Las referencias que se hagan en otras disposiciones legales a la Defensoría de Oficio o al Defensor de Oficio, se entenderán hechas a la Defensoría Pública o al Defensor Público respectivamente.
 
@@ -3140,3 +3140,9 @@ SEGUNDO.- El actual Auditor Superior de Fiscalización durará en su encargo el 
 TERCERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto en el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 CUARTO.- La reforma al artículo 84 de la Ley de Fiscalización Superior para el Estado de Baja California, entrará en vigor, una vez que cobre vigencia la reforma a los artículos 22, 27, 37, 90 y 100 de la Constitución Política del Estado, referida en los artículos transitorios antes citados.
+
+P.O. 29 DE ENERO DE 2010.
+
+PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, la presente reforma se declarará parte de esta Constitución.
