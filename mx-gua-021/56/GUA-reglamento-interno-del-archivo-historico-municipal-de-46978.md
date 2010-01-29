@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interno-del-archivo-historico-municipal-de-46978"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-18"
-last_updated: "2005-11-18"
+last_updated: "2010-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "GUA"
 
 REGLAMENTO INTERNO DEL ARCHIVO HISTORICO MUNICIPAL DE MOROLEON, GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO UNO DEL REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE MOROLEON, GUANAJUATO, PUBLICADO EN EL P.O. DE 29 DE ENERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 18 de noviembre de 2005.
 
@@ -310,3 +312,11 @@ Presidente Municipal
 Profr. Enrique García Ortega
 
 Secretario del H. Ayuntamiento
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE ENERO DE 2010.
+
+Artículo Uno. El presente Reglamento del Archivo General Municipal de Moroleón abroga el Reglamento interno del Archivo Histórico Municipal de Moroleón, Gto. Publicado en el Periódico Oficial del 18 de noviembre del año 2005.
+
+Artículo Dos. Este Reglamento, iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
