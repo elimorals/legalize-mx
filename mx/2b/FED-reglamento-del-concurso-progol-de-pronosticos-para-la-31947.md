@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-concurso-progol-de-pronosticos-para-la-31947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2007-08-31"
+last_updated: "2010-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO PROGOL DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -195,11 +195,17 @@ El boleto deberá contener los siguientes datos:
 
 Pronósticos a través de su sistema central de captación de transacciones en línea, suspenderá la venta indefectiblemente antes del inicio del primer partido de los programados en el concurso respectivo; y también antes de dicho inicio estará integrado el registro de apuestas concursantes.
 
-Ante la presencia del Inspector de la Secretaría de Gobernación, del representante del Director General, designado en los términos del Artículo 19o. de este Reglamento, de un representante de la Coordinación de Tecnologías de la Información y Comunicaciones y otro de la Gerencia de Sorteos y Normatividad se procederá a efectuar el cierre de ventas del concurso, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea y previo a la celebración del primero de los partidos de fútbol programados, e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2010)</small>
 
-La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Coordinación de Tecnologías de la Información y Comunicaciones entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Órgano Interno de Control.
+Ante la presencia del Inspector de la Secretaría de Gobernación, del representante del Director General, designado en los términos del artículo 19o. de este Reglamento, de un representante de la Subdirección General de Informática y otro de la Subdirección de Concursos y Sorteos se procederá a efectuar el cierre de ventas del concurso, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea y previo a la celebración del primero de los partidos de fútbol programados, e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
 
-El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso en el sistema central de captación de transacciones en línea al cual, conforme a lo previsto en el segundo párrafo de este Artículo, dicho sistema le asignó una firma electrónica que garantiza su integridad, será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Coordinación de Tecnologías de la Información y Comunicaciones en la caja de seguridad a que se refiere el presente Artículo.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2010)</small>
+
+La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Subdirección General de Informática entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control.
+
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2010)</small>
+
+El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso en el sistema central de captación de transacciones en línea al cual, conforme a lo previsto en el segundo párrafo de este Artículo, dicho sistema le asignó una firma electrónica que garantiza su integridad, será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Subdirección General de Informática en la caja de seguridad a que se refiere el presente Artículo.
 
 ### Capítulo IV. Selección de ganadores
 
@@ -413,11 +419,17 @@ Para poder participar en la modalidad Progol Revancha, el participante deberá d
 
 Pronósticos a través de su sistema central de captación de transacciones en línea, suspenderá la venta indefectiblemente antes del inicio del primer partido de los programados en el concurso respectivo; y también antes de dicho inicio estará integrado el registro de apuestas concursantes.
 
-Ante la presencia del Inspector de la Secretaría de Gobernación, del representante del Director General, designado en los términos del Artículo 38o. de este Reglamento, de un representante de la Coordinación de Tecnologías de la Información y Comunicaciones y otro de la Gerencia de Sorteos y Normatividad se procederá a efectuar el cierre de ventas del concurso, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea y previo a la celebración del primero de los partidos de fútbol programados, e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2010)</small>
 
-La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Coordinación de Tecnologías de la Información y Comunicaciones entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Órgano Interno de Control.
+Ante la presencia del Inspector de la Secretaría de Gobernación, del representante del Director General, designado en los términos del segundo párrafo del artículo 17o. de este Reglamento, de un representante de la Subdirección General de Informática y otro de la Subdirección de Concursos y Sorteos, se procederá a efectuar el cierre de ventas del concurso, con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea y previo a la celebración del primero de los partidos de fútbol programados, e inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
 
-El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso en el sistema central de captación de transacciones en línea al cual, conforme a lo previsto en el segundo párrafo de este Artículo, dicho sistema le asignó una firma electrónica que garantiza su integridad, será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Coordinación de Tecnologías de la Información y Comunicaciones en la caja de seguridad a que se refiere el presente Artículo.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2010)</small>
+
+La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Subdirección General de Informática, entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control.
+
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2010)</small>
+
+El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso en el sistema central de captación de transacciones en línea al cual, conforme a lo previsto en el segundo párrafo de este artículo, dicho sistema le asignó una firma electrónica que garantiza su integridad, será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Subdirección General de Informática en la caja de seguridad a que se refiere el presente Artículo.
 
 > <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
@@ -441,17 +453,9 @@ Los resultados ganadores oficiales son:
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
-> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
-
 ###### Artículo 38o.
 
-Conocidos los resultados de los partidos de fútbol soccer de la modalidad Progol Revancha de un concurso o determinados por sorteo en la forma en que se indica en el Capítulo II de este Reglamento, se procederá a seleccionar al ganador o ganadores, comparando cada una de las quinielas contenidas en el archivo de quinielas concursantes, única que tendrá validez para estos efectos, sin admitirse pruebas suplementarias, contra los resultados de los partidos del concurso, con el fin de seleccionar todas aquellas quinielas participantes que coincidan con los resultados oficiales de los partidos programados para el concurso Progol Revancha. Las quinielas que logren mayor número de aciertos se harán acreedoras a la parte proporcional del número asignado a la única categoría de premiación del concurso Progol Revancha.
-
-A este acto se le denomina Selección de Ganadores definido en los términos del punto 13 del Artículo 3o. de este Reglamento.
-
-Concluida la ceremonia e identificadas las quinielas ganadoras, se levantará acta en la que se harán constar los antecedentes del concurso, sus resultados y cualquier incidente que ocurriera durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y de los funcionarios mencionados en el párrafo segundo del Artículo 36o. de este Reglamento, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
-
-El Director General hará la designación de su representante, entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
+(DEROGADO, D.O.F. 29 DE ENERO DE 2010)
 
 > <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
@@ -562,3 +566,9 @@ Primero.- El presente acuerdo entra en vigor el día que se publique en el Diari
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
+
+D.O.F. 29 DE ENERO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
