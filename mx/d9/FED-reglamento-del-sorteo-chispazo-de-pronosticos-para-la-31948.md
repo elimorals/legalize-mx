@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-chispazo-de-pronosticos-para-la-31948"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2008-07-23"
+last_updated: "2010-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO CHISPAZO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ENERO DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -189,15 +189,21 @@ El día y hora fijados para la ceremonia, en presencia del Inspector designado p
 
 I. Se introducirán en una urna 28 (veintiocho) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 28 (veintiocho), inclusive.
 
-II. Ante la presencia del representante del Director General, designado en los términos del artículo 15o. de este reglamento, de un representante de la Dirección Técnica y otro de la Gerencia de Sorteos y Normatividad se procederá a efectuar el cierre de ventas con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea e inmediatamente después genera un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2010)</small>
 
-III. La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Dirección Técnica entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control.
+II. Ante la presencia del representante del Director General, de un representante de la Subdirección General de Informática y otro de la Subdirección de Concursos y Sorteos, se procederá a efectuar el cierre de ventas con la finalidad de inhibir el ingreso de nuevos registros de participaciones en el sistema central de captación de transacciones en línea e inmediatamente después genera un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo; a este archivo el sistema le asignará una firma electrónica que garantiza su integridad.
+
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2010)</small>
+
+III. La firma electrónica del archivo de participaciones será grabada en un dispositivo de almacenamiento de datos, que en forma previa a la ceremonia, el representante de la Subdirección General de Informática entregará al Inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control.
 
 IV. En presencia de los mismos funcionarios señalados en la fracción II del presente artículo, se llevará a cabo la ceremonia, procediendo a extraer de la urna, una a una y al azar, 5 (seis) (sic) esferas, cuyos números integrarán la combinación de números ganadora.
 
 El orden y secuencia en que se extraigan las 5 (cinco) esferas numeradas de la urna no influirá en el resultado del sorteo.
 
-V. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el sistema central de captación de transacciones en línea será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Dirección Técnica en la caja de seguridad a que se refiere la fracción III del presente artículo.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2010)</small>
+
+V. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el sistema central de captación de transacciones en línea será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Subdirección General de Informática en la caja de seguridad a que se refiere la fracción III del presente artículo.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
 
@@ -451,15 +457,19 @@ El día y hora fijados para la ceremonia, en presencia del Inspector designado p
 
 I. Se introducirán en una urna 28 (veintiocho) esferas similares en todas sus características, cada una identificada con un número diferente comprendido del 1 (uno) al 28 (veintiocho), inclusive.
 
-II. Ante la presencia del representante del Director General de Pronósticos, designado en los términos del Artículo 41o. de este Reglamento, un representante de la Coordinación de Tecnologías de la Información y Comunicaciones de Pronósticos y otro representante de la Gerencia de Sorteos y Normatividad de Pronósticos, se procederá a efectuar el cierre de ventas, con la finalidad de inhibir el ingreso de cualquier nuevo registro de participación en el Sistema de Cómputo Central. Inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo Chispazo Multiganador. A este archivo el sistema le asignará una firma electrónica que garantizará su integridad.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2010)</small>
 
-Dicha firma electrónica será grabada en un dispositivo de almacenamiento de datos que, en forma previa a la ceremonia, el representante de la Coordinación de Tecnologías de la Información y Comunicaciones de Pronósticos entregará al inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control en Pronósticos.
+II. Ante la presencia del representante del Director General de Pronósticos, designado en los términos del artículo 41o. de este Reglamento, un representante de la Subdirección General de Informática de Pronósticos y otro representante de la Subdirección de Concursos y Sorteos de Pronósticos, se procederá a efectuar el cierre de ventas, con la finalidad de inhibir el ingreso de cualquier nuevo registro de participación en el Sistema de Cómputo Central. Inmediatamente después se generará un archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo Chispazo Multiganador. A este archivo el sistema le asignará una firma electrónica que garantizará su integridad.
+
+Dicha firma electrónica será grabada en un dispositivo de almacenamiento de datos que, en forma previa a la ceremonia, el representante de la Subdirección General de Informática de Pronósticos entregará al inspector designado por la Secretaría de Gobernación, quien depositará dicho dispositivo en la caja de seguridad asignada para tal efecto, a la cual solamente tendrá acceso el Organo Interno de Control en Pronósticos.
 
 III. En presencia de los mismos funcionarios señalados en la fracción II del presente Artículo, se llevará a cabo el sorteo, procediendo a extraer de la urna, una a una y al azar 4 (cuatro) esferas, cuyos números integrarán la combinación de números ganadora.
 
 El orden y la secuencia en que se extraigan las 4 (cuatro) esferas de la urna no influirán en el resultado del sorteo.
 
-IV. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el Sistema de Cómputo Central, será grabado en un dispositivo de almacenamiento de datos y depositado por los supervisores del Departamento de Operaciones en Línea adscritos a la Coordinación de Tecnologías de la Información y Comunicaciones de Pronósticos en la caja de seguridad a que se refiere el inciso II del presente Artículo.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2010)</small>
+
+IV. El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el sorteo en el Sistema de Cómputo Central, será grabado en un dispositivo de almacenamiento de datos y depositado por los supervisores del Departamento de Operaciones en Línea adscritos a la Subdirección General de Informática de Pronósticos en la caja de seguridad a que se refiere el inciso II del presente Artículo.
 
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
 
@@ -680,3 +690,9 @@ Primero.- El presente acuerdo entrará en vigor al siguiente día de su publicac
 Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente acuerdo, serán resueltos mediante las disposiciones que se encontraban vigentes al inicio de su trámite.
+
+D.O.F. 29 DE ENERO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Decreto.
