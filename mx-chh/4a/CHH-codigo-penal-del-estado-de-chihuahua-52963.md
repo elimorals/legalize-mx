@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2009-11-28"
+last_updated: "2010-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2010.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -633,17 +633,21 @@ IV. El Estado y los Municipios responderán solidariamente por los delitos que c
 
 Queda a salvo el derecho del Estado y los Municipios para ejercitar las acciones correspondientes contra el servidor público responsable.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 48.
 
 Supletoriedad de la Ley Federal del Trabajo
 
-Si se trata de delitos que afecten la vida o la integridad corporal, el monto de la reparación del daño no podrá ser menor ni exceder el doble del que resulte de aplicar las disposiciones relativas de la Ley Federal del Trabajo.
+Si se trata de delitos que afecten la vida o la integridad corporal, para fijar el monto del daño causado, se tendrá como base el salario que percibía la víctima, además de las pruebas específicas, la tabulación de indemnizaciones que fija la Ley Federal del Trabajo. De no comprobarse su monto, conforme al salario mínimo general existente en la región, esta disposición se aplicará aun cuando el sujeto pasivo fuere menor de edad o incapacitado.
 
 ###### Artículo 49.
 
 Plazos para la reparación del daño
 
-De acuerdo con el monto de los daños o perjuicios, y de la situación económica del sentenciado, la autoridad judicial podrá fijar plazos para su pago, que en conjunto no excederán de un año, pudiendo para ello exigir garantía si lo considera conveniente.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+
+De acuerdo con el monto de los daños o perjuicios, y de la situación económica del sentenciado, la autoridad judicial podrá fijar plazos para su pago, que en conjunto no excederán de tres meses, pudiendo para ello exigir garantía si lo considera conveniente.
 
 En los casos a que se refiere la fracción IV del artículo 47 de este Código, el Estado y los Municipios proveerán lo necesario para el pago inmediato de la reparación del daño. El pago se hará preferentemente en una sola exhibición.
 
@@ -1167,7 +1171,9 @@ Extinción por perdón del ofendido
 
 El perdón del ofendido o del legitimado para otorgarlo, extingue la pretensión punitiva respecto de los delitos que se persiguen por querella, siempre que se conceda ante el Ministerio Público si éste no ha ejercitado la acción penal, o ante el órgano jurisdiccional antes de que cause ejecutoria la sentencia. En caso de que la sentencia haya causado ejecutoria, el ofendido podrá acudir ante la autoridad judicial a otorgar el perdón. Ésta deberá proceder de inmediato a decretar la extinción de la potestad de ejecutar las penas y medidas de seguridad.
 
-Una vez otorgado el perdón, éste no podrá revocarse. El perdón solo beneficia al imputado en cuyo favor se otorga. Cuando sean varias las víctimas u ofendidos y cada una pueda ejercer separadamente la facultad de perdonar al responsable del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorga.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
+El perdón sólo beneficia al imputado en cuyo favor se otorga. Cuando sean varias las víctimas u ofendidos y cada una pueda ejercer separadamente la facultad de perdonar al responsable del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorga. Siempre que en un procedimiento penal se otorgue el perdón de la víctima u ofendido, ello se hará constar en el registro correspondiente.
 
 ###### Artículo 99.
 
@@ -1181,9 +1187,15 @@ I. Que el término medio aritmético de la pena básica privativa de libertad de
 
 Il. Que se haya pagado la reparación del daño o la víctima u ofendido, o su representante con facultades suficientes, expresamente se hayan dado por satisfechos del mismo.
 
-lIl. Que no haya cometido delito doloso alguno en los tres años inmediatos anteriores a los hechos de que se trate.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
+III. Que no se le haya seguido proceso por delito doloso, dentro de los tres años inmediatos anteriores a los hechos de que se trate, salvo que haya obtenido sentencia absolutoria.
 
 IV. Sólo operará si se trata de delitos que hayan afectado directa y exclusivamente intereses particulares.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
+
+Tratándose del delito de robo, en la hipótesis del artículo 212, fracción III; las conductas previstas en el artículo 212 Bis; daños, en los supuestos del artículo 237; así como en los delitos previstos en los artículos 241 y 329, no procederá el perdón de la víctima u ofendido.
 
 ###### Artículo 100.
 
@@ -1481,11 +1493,15 @@ Si la capacidad del autor sólo se encuentra considerablemente disminuida, se le
 
 La riña es la contienda de obra entre dos o más personas con el propósito de causarse daño.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 136.
 
-El homicidio y las lesiones son calificadas cuando se cometan con: ventaja, traición, alevosía, retribución, por el medio empleado, saña o en perjuicio de servidores públicos que se encarguen de la administración o procuración de justicia.
+El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña o en perjuicio de servidores públicos que se encarguen de la administración o procuración de justicia. Asimismo, en los supuestos de la fracción IX del presente artículo:
 
-I. Existe ventaja:
+I. Existe premeditación: Cuando se ejecuta la conducta después de haber reflexionado sobre el delito que se va a cometer;
+
+II. Existe ventaja:
 
 a) Cuando el agente es superior en fuerza física a la víctima y ésta no se halla armada;
 
@@ -1493,21 +1509,23 @@ b) Cuando es superior por las armas que emplea, por su mayor destreza en el mane
 
 c) Cuando el agente se vale de algún medio que debilita la defensa de la víctima; o
 
-d) Cuando la víctima se halla inerme o caída y el agente armado o de pie.
+d) Cuando la víctima se halla inerme o caída y el agente armado o de pie. La ventaja no se tomará en consideración si el que se halla armado o de pie fuere el agredido y además hubiere corrido peligro su vida por no aprovechar esa circunstancia.
 
-La ventaja no se tomará en consideración si el que se halla armado o de pie fuere el agredido y además hubiere corrido peligro su vida por no aprovechar esa circunstancia.
+III. Existe traición: Cuando el agente realiza el hecho quebrantando la confianza o seguridad que expresamente le había prometido a la víctima, o las mismas que en forma tácita debía ésta esperar de aquél por las relaciones de confianza real y actual que existen entre ambos;
 
-II. Existe traición: Cuando el agente realiza el hecho quebrantando la confianza o seguridad que expresamente le había prometido a la víctima, o las mismas que en forma tácita debía ésta esperar de aquél por las relaciones de confianza real y actual que existen entre ambos;
+IV. Existe alevosía: Cuando el agente realiza el hecho sorprendiendo intencionalmente a alguien de improviso, o empleando acechanza u otro medio que no le dé lugar a defenderse ni evitar el mal que se le quiera hacer;
 
-III. Existe alevosía: Cuando el agente realiza el hecho sorprendiendo intencionalmente a alguien de improviso, o empleando acechanza u otro medio que no le dé lugar a defenderse ni evitar el mal que se le quiera hacer;
+V. Existe retribución: Cuando el agente lo cometa por pago o prestación prometida o dada;
 
-IV. Existe retribución: Cuando el agente lo cometa por pago o prestación prometida o dada;
+VI. Por el medio empleado: Se causen por inundación, incendio, explosivos, o bien por envenenamiento, asfixia, tormento o por medio de cualquier otra sustancia nociva para la salud;
 
-V. Por los medios empleados: Se causen por inundación, incendio, explosivos, o bien por envenenamiento, asfixia, tormento o por medio de cualquier otra sustancia nociva para la salud;
+VII. Existe saña: Cuando se aumenta deliberadamente el dolor de la víctima;
 
-VI. Existe saña: Cuando se aumenta deliberadamente el dolor de la víctima; y
+VIII. Cuando dolosamente se cometa en perjuicio de agentes policiales, así como de servidores públicos que se encarguen de la administración o procuración de justicia, si se encuentran en el ejercicio de sus funciones y con motivo de las mismas, siempre que se estén cumpliendo con arreglo a la ley;
 
-VII. Cuando dolosamente se cometa en perjuicio de agentes policiales, así como de servidores públicos que se encarguen de la administración o procuración de justicia, si se encuentran en el ejercicio de sus funciones y con motivo de las mismas, siempre que se estén cumpliendo con arreglo a la ley.
+IX. Cuando en el momento de la privación de la vida, o posterior a ello, se realice la decapitación, mutilación, quemaduras, descuartizamiento o se utilicen mensajes intimidatorios dirigidos a la población, que atenten contra la dignidad humana por la exhibición de la causa de muerte.
+
+En los supuestos de esta fracción, las penas se aumentarán en la mitad de la pena establecida como máxima.
 
 ###### Artículo 137.
 
@@ -1661,7 +1679,9 @@ Si la enfermedad padecida fuera incurable, o la víctima fuera la pareja habitua
 
 ###### Artículo 158.
 
-Se impondrán de uno a seis años de prisión y de sesenta a ciento veinte días multa, al particular que prive a otro de su libertad, sin el propósito de obtener un lucro, causar un daño o perjuicio a la persona privada de su libertad o a cualquier otra.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+
+Se impondrán de uno a seis años de prisión y de sesenta a ciento veinte días multa, a la persona que prive a otra de su libertad, sin el propósito de obtener un lucro, causar un daño o perjuicio a la persona privada de su libertad o a cualquier otra.
 
 Si el agente espontáneamente libera a la víctima dentro de los tres días siguientes al de la privación de la libertad, la pena de prisión será de la mitad de la prevista.
 
@@ -1971,7 +1991,7 @@ Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en de
 
 ###### Artículo 192.
 
-Los delitos previstos en este Título se perseguirán previa querella.
+(DEROGADO, P.O. 30 DE ENERO DE 2010)
 
 ## TÍTULO OCTAVO. DELITOS COMETIDOS EN CONTRA DE UN MIEMBRO DE LA FAMILIA
 
@@ -2203,23 +2223,27 @@ I. Se cometa con violencia en las personas o en las cosas, o bien, se ejerza és
 
 II. Se cometa en dependencias de un lugar habitado o destinado para habitación.
 
-Ill. Se cometa quebrantando la fe o seguridad existente entre el sujeto activo y su víctima, en virtud de vínculos de trabajo, hospitalidad, servicio, o enseñanza, habidos entre ellos.
+III. Se cometa quebrantando la fe o seguridad existente entre el sujeto activo y su víctima, en virtud de vínculos de trabajo, hospitalidad, servicio, o enseñanza, habidos entre ellos.
 
-IV. Recaiga sobre objetos dejados en el interior o partes o accesorios de un vehículo que se encuentre en un lugar público y al que se tenga libre acceso.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
+IV. Recaiga sobre objetos dejados en el interior o partes o accesorios de un vehículo.
 
 V. Se cometa aprovechando el desorden o confusión que se produzca por catástrofe, desorden público o cualquier siniestro, incluyéndose en éste los ocasionados con motivo del tránsito de vehículos.
 
-Vl. Se cometa con la intervención de dos o más personas.
+VI. Se cometa con la intervención de dos o más personas.
 
-Vll. Recaiga en un expediente, documento o en cualquier información que se encuentre registrada o archivada en sistema o equipo de informática protegidos por algún mecanismo de seguridad, con afectación de alguna función pública.
+VII. Recaiga en un expediente, documento o en cualquier información que se encuentre registrada o archivada en sistema o equipo de informática protegidos por algún mecanismo de seguridad, con afectación de alguna función pública.
 
 VIII. Se cometa en establecimientos comerciales de autoservicio, utilizando el ocultamiento para la sustracción.
 
-IX. Recaiga sobre vehículos automotores distintos a los señalados en el artículo siguiente, donde quiera que se encuentren.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
+IX. Afecte gravemente o suspenda la prestación de un servicio público.
 
 X. Se cometa en lugar cerrado, al que no se haya tenido libre acceso.
 
-Xl. Cuando se cometa por un servidor público que actúe en ejercicio y con motivo de sus funciones.
+XI. Cuando se cometa por un servidor público que actúe en ejercicio y con motivo de sus funciones.
 
 XII. Recaiga sobre bienes de instituciones educativas o culturales.
 
@@ -2227,19 +2251,47 @@ XIII. Recaiga sobre equipo, instrumentos, semillas, frutos cosechados o por cose
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2008)</small>
 
-XlV. Recaiga sobre materiales conductores de energía destinados a la prestación de un servicio público.
+XIV. Recaiga sobre materiales conductores de energía destinados a la prestación de un servicio público.
 
 ###### Artículo 212.
 
-Además de las sanciones que correspondan conforme al artículo 208 se aplicarán de uno a diez años de prisión, cuando el robo:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2009)</small>
 
-I. Se cometa en el interior de un lugar cerrado, habitado o destinado a habitación, al que no se haya tenido libre acceso.
+Además de las sanciones que correspondan conforme al artículo 208, se aplicarán de uno a diez años de prisión, cuando el robo:
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
+I. Se cometa en el interior de un lugar cerrado, habitado o destinado a habitación, o en sus dependencias, al que no se haya tenido libre acceso.
 
 II. Se cometa por medio de la violencia a las personas, sea física o moral, utilizándose arma de fuego u otro objeto de apariencia similar que produzca en la víctima coacción en su ánimo, o bien, empleándose arma blanca u otro instrumento punzo cortante o punzo penetrante.
 
-lIl. Cuando recaiga sobre vehículos automotores que por su naturaleza sean destinados al transporte público de personas o de carga, exceptuándose motocicletas de cualquier tipo.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
-IV. Tenga como medio comisivo la privación de la libertad de la víctima, sin perjuicio de aplicarse las penas que correspondan a este último ilícito.
+III. Recaiga sobre vehículos automotores.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
+IV. Tenga como medio comisivo la privación de la libertad de la víctima, sin perjuicio de aplicarse las penas que correspondan a este último ilícito. En este caso, no será aplicable el beneficio previsto por el artículo 158, segundo párrafo, de este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
+
+###### Artículo 212 Bis.
+
+Se impondrán de cuatro a quince años de prisión, a quien aun sin haber intervenido en el robo de uno o más vehículos automotores, y que realice una o más de las siguientes conductas:
+
+I. Desmantele uno o más vehículos automotores que posea ilegalmente o comercialice conjunta o separadamente sus partes o las utilice en otros vehículos sin que acredite la legítima procedencia de éstas, o las adquiera, detente, posea, custodie, enajene o transmita de cualquier manera a sabiendas de su origen ilícito.
+
+II. Enajene, trafique, permute o realice cualquier transacción del traslado de dominio de uno o más vehículos automotores a sabiendas de su procedencia ilícita.
+
+III. Altere, modifique, elabore o reproduzca, de cualquier manera, la documentación que acredite la propiedad o los datos de identificación o la documentación que acredite el pago de la tenencia, de uno o más vehículos automotores, sin la autorización de la autoridad competente para hacerlo.
+
+IV. Detente, posea o custodie instrumentos para la alteración, modificación, elaboración o reproducción, de documentación que acredite la propiedad o los datos de identificación o la documentación que acredite el pago de las contribuciones de un vehículo automotor, o bien, elabore o posea documentación y elementos de identificación falsos, de uno o más vehículos automotores, con el propósito de su comercialización ilícita.
+
+V. Detente, posea, custodie, traslade o adquiera uno o más vehículos automotores con conocimiento de que son de procedencia ilícita o que, por su forma de adquisición, se advierta su origen ilegal.
+
+VI. Detente o posea algún vehículo que haya sido robado, salvo adquisición de buena fe.
+
+VII. Utilice uno o más vehículos automotores robados en la comisión de otro u otros delitos dolosos.
 
 ###### Artículo 213.
 
@@ -2407,7 +2459,9 @@ Para los efectos de los artículos que anteceden se entenderá que las comisione
 
 ###### Artículo 231.
 
-A quien por cualquier conducto, con ánimo de lucro, obligare a otro, con violencia o intimidación, a realizar, omitir o tolerar un acto, con perjuicio de su patrimonio o del de un tercero, se le impondrán de dos a ocho años de prisión y de cien a ochocientos días multa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+
+A quien por cualquier conducto, con ánimo de lucro, obligare a otro, con violencia o intimidación, a realizar, omitir o tolerar un acto, con perjuicio de su patrimonio o del de un tercero, se le impondrán de cuatro a quince años de prisión y de cien a ochocientos días multa.
 
 Las penas se aumentarán en dos terceras partes y, además, se impondrá la destitución del empleo, cargo o comisión públicos; inhabilitación de uno a cinco años para ejercer cargos o comisiones públicas y, en su caso, la suspensión del derecho para ejercer actividades en corporaciones de seguridad privada, cuando el delito se realice por servidor público o quien sea o haya sido miembro de alguna corporación de seguridad pública o privada.
 
@@ -2513,7 +2567,9 @@ Tanto para la aplicación de las sanciones, como para establecer el monto o la c
 
 ###### Artículo 243.
 
-Los delitos previstos en este título, con excepción del robo, robo de ganado y encubrimiento por receptación de éstos, se investigarán por querella de parte ofendida.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 E ENERO DE 2010)</small>
+
+Los delitos previstos en este título, con excepción del robo, robo de ganado, encubrimiento por receptación de éstos, extorsión y daños, en cualquiera de las hipótesis del artículo 237, se investigarán por querella de parte ofendida.
 
 Lo mismo ocurrirá para los casos de robo y robo de ganado, así como de encubrimiento por receptación de éstos, cuando sean cometidos por ascendientes o descendientes consanguíneos, afines o civiles, cónyuge, concubinos, persona que hubiere vivido de forma permanente con la víctima durante, cuando menos, dos años anteriores al hecho o parientes colaterales por consanguinidad, afinidad o civiles, en su caso, hasta el segundo grado de la víctima.
 
@@ -2821,6 +2877,8 @@ Cuando el delito se cometa por varias personas de común acuerdo, se impondrá d
 
 ### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 281.
 
 A quien quebrante los sellos puestos por orden legítima de la autoridad competente, se le impondrán de dos a siete años de prisión y de cien a quinientos días multa.
@@ -3071,7 +3129,7 @@ Cuando en la comisión de este delito participe un licenciado en Derecho o litig
 
 ###### Artículo 307.
 
-Quien al declarar ante autoridad en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad, de forma sustancial y deliberada, en relación con los hechos que motivan la intervención de ésta, será sancionado con pena de seis meses a seis años de prisión y de cien a trescientos días multa.
+Quien al declarar ante autoridad en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad, en relación con los hechos que motivan la intervención de ésta, será sancionado con pena de seis meses a seis años de prisión y de cien a trescientos días multa.
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
@@ -3584,3 +3642,9 @@ P.O. 28 DE NOVIEMBRE DE 2009.
 DECRETO No. 747/09 I P.O., POR EL QUE SE ADICIONA EL ARTICULO 226 BIS AL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los artículos 438 al 455 del Código de Procedimientos Penales del Estado, que comprenden el Título relativo a la "Acción Civil", entrarán en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
