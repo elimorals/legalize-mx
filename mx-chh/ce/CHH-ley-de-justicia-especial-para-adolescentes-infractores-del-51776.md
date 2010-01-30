@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-justicia-especial-para-adolescentes-infractores-del-5177
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-16"
-last_updated: "2007-10-27"
+last_updated: "2010-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE JUSTICIA ESPECIAL PARA ADOLESCENTES INFRACTORES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial el Estado de Chihuahua, el sábado 16 de septiembre de 2006.
 
@@ -377,11 +377,13 @@ Prescripción de la acción por conductas tipificadas como delitos atribuidas a 
 
 La acción penal para perseguir a adolescentes a quienes se atribuya la comisión de un hecho tipificado como delito, y las medidas sancionadoras dictadas sobre la misma, se extinguen, además de las causas previstas en el Código Penal, por la prescripción regulada en este Capítulo.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 40.
 
 Plazos de prescripción de la acción.
 
-La acción prescribe en un término igual al medio aritmético del mínimo y el máximo de duración de la pena privativa de libertad señalada en el Código Penal para la conducta tipificada como delito que se atribuye al adolescente. En ningún caso, el plazo de prescripción podrá exceder de cinco años. Se seguirán las reglas que para tal efecto establece el Código Penal del Estado.
+La acción prescribe en un término igual al medio aritmético de la pena privativa de libertad señalada en el Código Penal para la conducta tipificada como delito que se atribuye al adolescente tomando en cuenta, las modalidades típicas que aumentan o disminuyen la pena. En ningún caso, el plazo de prescripción podrá exceder de diez años ni podrá ser inferior a un año. Se seguirán las reglas que para tal efecto establece el Código Penal del Estado.
 
 ###### Artículo 41.
 
@@ -505,11 +507,21 @@ La finalidad de la restauración a la víctima u ofendido es infundir en el adol
 
 Solicitud de suspensión del proceso a prueba y condiciones por cumplir durante el período.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
 
-A solicitud del adolescente, de sus representantes legales o del Ministerio Público, procederá la suspensión del proceso a prueba en los casos en que el hecho típico no se sancione necesariamente con privación de libertad y con la condición de que el adolescente no esté gozando, en proceso diverso, de tal beneficio.
+A solicitud del adolescente, de sus representantes legales o del Ministerio Público, procederá la suspensión del proceso a prueba siempre y cuando el adolescente no se encuentre gozando o haya gozado del mismo en proceso diverso, no haya sido condenado por conductas tipificadas como dolosas y en su caso haya garantizado la reparación del daño. La víctima u ofendido o su representante, deberán ser notificados por el Juez, quien permitirá la intervención de éstos en la audiencia que resuelva sobre la cuestión planteada.
 
-El Juez de Garantía fijará el plazo de suspensión del proceso a prueba, que no podrá ser inferior a seis meses ni superior a un año, y determinará imponer al adolescente una o varias de las condiciones que deberá cumplir, entre ellas las siguientes:
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
+El Juez de Garantía fijará el plazo de suspensión del proceso a prueba, que no podrá ser inferior a seis meses ni superior a un año, y determinará imponer al adolescente una o varias de las condiciones que deberá cumplir.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE ENERO DE 2010)</small>
+
+El Ministerio Público y la víctima u ofendido o su representante, podrán proponer al Juez las condiciones a que debe someterse el adolescente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+
+Las condiciones a cumplir son las siguientes:
 
 I. Residir en un lugar determinado;
 
@@ -547,7 +559,9 @@ El Juez preguntará al adolescente si se obliga a cumplir con las condiciones im
 
 Revocación de la suspensión.
 
-Si el adolescente se aparta considerablemente y en forma injustificada de las condiciones impuestas, no cumple con el plan de reparación, o posteriormente es condenado en forma ejecutoriada por conducta tipificada como delito doloso o culposo, cuando el proceso suspendido a prueba se refiera a un hecho típico de esta naturaleza, el Juez, previa petición del Agente del Ministerio Público o de la víctima u ofendido, convocará a las partes a una audiencia en la que se debatirá sobre la revocatoria y resolverá de inmediato, fundada y motivadamente, acerca de la reanudación de la persecución de la conducta típica. En lugar de la revocatoria, el Juez podrá ampliar el plazo de la suspensión a prueba hasta por seis meses más. Esta extensión del término puede imponerse sólo por una vez.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+
+Si el adolescente se aparta considerablemente y en forma injustificada de las condiciones impuestas, no cumple con el plan de reparación, o posteriormente se le inicia nuevo proceso por delito doloso o es condenado en forma ejecutoriada por conducta tipificada como delito doloso, cuando el proceso suspendido a prueba se refiera a un hecho típico de esta naturaleza, el Juez, previa petición del Agente del Ministerio Público o de la víctima u ofendido, convocará a las partes a una audiencia en la que se debatirá sobre la revocatoria y resolverá de inmediato, fundada y motivadamente, acerca de la reanudación de la persecución de la conducta típica. En lugar de la revocatoria, el Juez podrá ampliar el plazo de la suspensión a prueba hasta por seis meses más, Esta extensión del término puede imponerse sólo por una vez.
 
 Si la víctima u ofendido ha recibido pagos durante la suspensión del proceso a prueba que posteriormente es revocada, ellos se destinarán a la indemnización por daños y perjuicios que le pudiere corresponder.
 
@@ -655,13 +669,19 @@ A fin de que la detención cautelar sea lo más breve posible, el Juez y los ór
 
 #### Sección III. Investigación y formulación de la imputación Inicial
 
+> <small>(REFORMADO EN SU RUBRO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 65.
 
-Detención en caso de flagrancia.
+Detención en caso de flagrancia o caso urgente.
 
-Se podrá detener al adolescente sin orden judicial en caso de flagrancia o cuando se haya fugado de un centro especializado de internamiento en el que estaba cumpliendo una medida cautelar o sancionadora.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
 
-Los agentes policíacos que detengan a un adolescente en flagrancia, están obligados a remitirlo, inmediatamente, al Ministerio Público.
+Se podrá detener al adolescente en caso de flagrancia o caso urgente sin orden judicial o cuando se haya fugado de un centro especializado de internamiento en el que estaba cumpliendo una medida cautelar o sancionadora.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
+Los agentes policíacos que detengan a un adolescente en cualquiera de los supuestos anteriores, están obligados a remitirlo, inmediatamente, al Ministerio Público.
 
 Cuando la detención la realice cualquier otra persona, ésta debe entregarlo de inmediato a la autoridad más próxima, la que procederá en la forma señalada en el párrafo anterior.
 
@@ -691,11 +711,23 @@ Detenido menor de doce años.
 
 Si el detenido es menor de doce años, el Ministerio Público lo pondrá inmediatamente en libertad, entregándolo a su padre, madre o representante. En caso de que lo anterior resulte notoriamente perjudicial, o en ausencia de aquellos, será remitido a la institución competente.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 68.
 
-Vinculación a proceso.
+Requisitos para vincular a proceso al adolescente imputado.
 
-Cuando el Ministerio Público solicite la vinculación a proceso del adolescente, deberá acreditar el cuerpo del delito y su probable participación en éste.
+El Juez, a petición del Ministerio Público, decretará la vinculación del adolescente imputado a proceso siempre que se reúnan los siguientes requisitos:
+
+I. Que se haya formulado la imputación;
+
+II. Que el adolescente imputado haya rendido su declaración preparatoria o manifestado su deseo de no declarar;
+
+III. De los antecedentes de la investigación expuestos por el Ministerio Público, se desprendan los datos que establezcan que se ha cometido un hecho que la ley señale como delito y la probabilidad de que el imputado lo cometió o participó en su comisión;
+
+IV. No se encuentre demostrada, más allá de toda duda razonable, una causa de extinción de la acción penal o una excluyente de incriminación.
+
+El auto de vinculación a proceso únicamente podrá dictarse por los hechos que fueron motivo de la formulación de la imputación, pero el Juez podrá otorgarles una clasificación jurídica diversa a la asignada por el Ministerio Público al formular la imputación. En dicho auto deberá establecerse el lugar, tiempo y circunstancias de ejecución de tales hechos.
 
 ###### Artículo 69.
 
@@ -735,11 +767,13 @@ Plazo para el cierre de la investigación.
 
 Antes de concluir la audiencia de vinculación a proceso, el Juez de Garantía fijará un plazo no mayor a sesenta días para el cierre de la investigación.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 73.
 
 Cierre de la investigación.
 
-Al concluir el plazo a que se refiere el artículo anterior, el Ministerio Público deberá formular la acusación o solicitar el sobreseimiento o la suspensión del proceso. El Juez de Garantía correrá traslado por cinco días al adolescente y a su defensor, quienes podrán ofrecer, en ese plazo, la prueba para el juicio.
+Al concluir el plazo a que se refiere el artículo anterior, el Ministerio Público en un plazo de diez días deberá formular la acusación o solicitar el sobreseimiento o la suspensión del proceso. El Juez de Garantía correrá traslado por el mismo plazo al adolescente y a su defensor, quienes podrán ofrecer, en ese plazo, la prueba para el juicio.
 
 ###### Artículo 74.
 
@@ -975,11 +1009,15 @@ Las personas responsables de entidades sin fines de lucro, interesadas en colabo
 
 Tendrán preferencia los programas comunitarios del lugar de origen o domicilio del adolescente.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 95.
 
 Reparación del daño.
 
-La reparación del daño consiste en la obligación de resarcir el daño moral o material causado. En todo caso se procurará que el resarcimiento provenga del esfuerzo propio del adolescente y que no provoque un traslado de su responsabilidad hacia su padre, madre o a su representante.
+La reparación del daño se entenderá en términos del Código Penal del Estado.
+
+Están obligados al pago de la reparación del daño, además de las personas que trata el artículo 47 del Código Penal, los adolescentes por las conductas que realicen y estén consideradas como delitos.
 
 ###### Artículo 96.
 
@@ -1041,7 +1079,9 @@ La privación de libertad en centro especializado para adolescentes podrá ser a
 
 a) Homicidio doloso;
 
-b) Lesiones dolosas, cuando produzcan la pérdida de cualquier función orgánica de un miembro, de un órgano o de una facultad, o causen una enfermedad incurable o una deformidad incorregible; o cuando pongan en peligro la vida;
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
+b) Lesiones dolosas, de las previstas en las fracciones IV a la VII del artículo 129 del Código Penal;
 
 c) Secuestro;
 
@@ -1053,25 +1093,45 @@ f) Trata de personas;
 
 g) Tortura;
 
-h) Desaparición forzada de personas; y
+h) Desaparición forzada de personas; y (sic)
 
-i) Tráfico de menores, salvo lo previsto en el artículo 167 del Código Penal.
+i) Tráfico de menores, salvo lo previsto en el artículo 167 del Código Penal;
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
+
+j). Extorsión; y
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
+
+k). Conductas previstas en el artículo 212 Bis del Código Penal.
 
 La tentativa de estos hechos típicos, también será calificada como grave para los efectos de este artículo.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO EN SU RUBRO, P.O. 30 DE ENERO DE 2010)</small>
 
 ###### Artículo 102.
 
-Medida privativa de libertad.
+Medida sancionadora privativa de libertad.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2007)</small>
 
 La medida privativa de libertad en centro especializado, aplicable a los adolescentes infractores será:
 
-I. Hasta de tres años, cuando tengan entre catorce años cumplidos y menos de dieciocho años.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
-II. Hasta de cinco años, cuando tengan entre dieciséis años cumplidos y menos de dieciocho años.
+I. De seis meses a diez años, cuando tengan entre catorce años cumplidos y menos de dieciséis años.
 
-Al aplicar una medida sancionadora de privación de libertad en centro especializado, el Juez debe considerar el período de detención cautelar al que fue sometido el adolescente.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
+II. De seis meses a quince años, cuando tengan entre dieciséis años cumplidos y menos de dieciocho años.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
+
+En caso de concurso de delitos se impondrá la sanción correspondiente a la conducta que merezca la mayor penalidad, la que podrá aumentarse hasta por el mínimo de la sanción que corresponda a cada una de las conductas ejecutadas, sin que exceda de quince años.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
+Al aplicar una medida sancionadora de privación de libertad en centro especializado, el Juez debe considerar el periodo de detención cautelar al que fue sometido el adolescente.
 
 ###### Artículo 103.
 
@@ -1384,3 +1444,9 @@ P.O. 27 DE OCTUBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los artículos 438 al 455 del Código de Procedimientos Penales del Estado, que comprenden el Título relativo a la "Acción Civil", entrarán en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
