@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-reconocimiento-denominado-medalla-chihuahua-428
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-01"
-last_updated: "2008-01-23"
+last_updated: "2010-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE CREA EL RECONOCIMIENTO DENOMINADO MEDALLA CHIHUAHUA AL MERITO EDUCATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de enero de 2005.
 
@@ -47,9 +47,11 @@ La Sexagésima Primera Legislatura del Estado del (sic) Chihuahua expide la Ley 
 
 LEY QUE CREA EL RECONOCIMIENTO DENOMINADO "MEDALLA CHIHUAHUA AL MÉRITO EDUCATIVO"
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 1.
 
-Se declara de interés público el reconocimiento a individuos e instituciones originarios o que radiquen en el Estado de Chihuahua, que realicen actividades educativas eminentes y que las mismas haya (sic) traído beneficios a esta Entidad Federativa o a la humanidad. Para tal objeto se establece la "Medalla Chihuahua al Mérito Educativo", que se entregará anualmente, de conformidad con las disposiciones establecidas en esta Ley.
+Se declara de interés público el reconocimiento a individuos o equipos de personas, originarios o que radiquen en el Estado de Chihuahua, que realicen actividades educativas eminentes y que las mismas hayan traído beneficios a esta Entidad Federativa, a nuestro País o a la humanidad. Para tal objeto se establece la "Medalla Chihuahua al Mérito Educativo", la cual se entregará anualmente, de conformidad con las disposiciones establecidas en esta Ley.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
 
@@ -77,25 +79,25 @@ Los trabajos que se presenten deberán ser inéditos y contener una aportación 
 
 Sólo podrán participar las personas que tengan su domicilio y que radiquen actualmente en el Estado y aquellas que siendo chihuahuenses por nacimiento radiquen en la República Mexicana o en el extranjero, pero que su labor educativa repercuta directa o indirectamente en el desarrollo de la educación en la Entidad.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 6.
 
-Las bases sobre las cuales se analizarán los trabajos se emitirán por el Gobierno del Estado, a través de la Secretaría de Educación y Cultura; y por el H. Congreso del Estado, a través de la Presidencia de la Comisión de Educación y Cultura, a más tardar en el mes de diciembre de cada año, sujetándose a los siguientes lineamientos básicos:
+Las bases sobre las cuales se analizarán los trabajos, se emitirán por el Gobierno del Estado, a través de la Secretaría de Educación y Cultura; y por el H. Congreso del Estado, a través de la Comisión de Educación y Cultura, en las fechas que determine la comisión integrada por ambos Poderes, sujetándose a los siguientes lineamientos básicos:
 
-I. Que la actividad no haya sido objeto de reconocimientos anteriores.
+I.- Que la actividad no haya sido objeto de reconocimientos anteriores.
 
-II. Que los trabajos puedan acreditar sus beneficios al Estado o a la humanidad.
+II.- Que los trabajos puedan acreditar sus beneficios al Estado o a la humanidad.
 
-III. Que los trabajos puedan acompañarse del material complementario o explicativo.
+III.- Que los trabajos puedan acompañarse del material complementario o explicativo.
 
-IV. El certamen quedará abierto a partir de la publicación de la respectiva convocatoria, cerrándose en la fecha que las instancias convocantes determinen.
+IV.- El certamen quedará abierto a partir de la publicación de la respectiva convocatoria, cerrándose en la fecha que las instancias convocantes determinen.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 7.
 
-El jurado se integrará a propuesta del C. Gobernador del Estado, a través del Titular de la Secretaría de Educación y Cultura, y del H. Congreso del Estado, a través del Presidente de la Comisión de Educación y Cultura.
+Para el análisis y la evaluación de los trabajos participantes, así como para la emisión de un veredicto, se constituirá un Jurado Calificador. El Jurado se integrará a propuesta del C. Gobernador del Estado, a través del Titular de la Secretaría de Educación y Cultura, y del H. Congreso del Estado, a través de la Comisión de Educación y Cultura.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2008)</small>
 
@@ -105,9 +107,11 @@ Los miembros del jurado propuesto en los términos del artículo 7, desempeñar�
 
 En caso de empate, la Comisión de Educación y Cultura del H. Congreso, emitirá el voto de calidad por medio del Presidente de dicha Comisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 9.
 
-El fallo del jurado se emitirá en el mes de abril de cada año y será inapelable.
+El fallo que emita el Jurado Calificador, tendrá carácter de inapelable.
 
 El premio podrá ser declarado desierto en caso de que los trabajos presentados no reúnan los requisitos marcados en la convocatoria.
 
@@ -172,3 +176,7 @@ P.O. 23 DE ENERO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor en el momento de su aprobación, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
