@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2009-12-05"
+last_updated: "2010-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -51,11 +51,13 @@ LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CHIHUAHUA
 
 ### CAPÍTULO ÚNICO. NATURALEZA Y OBJETO DE LA LEY
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 1.
 
 Disposiciones de la ley.
 
-Las disposiciones contenidas en esta Ley son de orden público y de interés social y su aplicación corresponde, en el ámbito de sus respectivas competencias, a los Poderes Judicial y Ejecutivo del Estado, este último, a través de la Dirección de Ejecución de Penas y Medidas de Seguridad, dependiente de la Secretaría de Seguridad Pública.
+Las disposiciones contenidas en esta Ley son de orden público y de interés social y su aplicación corresponde, en el ámbito de sus respectivas competencias, a los Poderes Judicial, Ejecutivo del Estado y autoridades municipales.
 
 ###### Artículo 2.
 
@@ -241,11 +243,13 @@ I.-Tratándose de pena o medida de seguridad impuesta por sentencia definitiva q
 
 II.-Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución penal, se ajustará a las directrices generales que se contienen en el Código de Procedimientos.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 14.
 
-lrrecurribilidad de las resoluciones.
+Recursos.
 
-Las resoluciones emitidas por los jueces de ejecución de penas respecto a la situación jurídica de los sentenciados, serán irrecurribles.
+Las resoluciones emitidas por los jueces de ejecución de penas, serán recurribles mediante el recurso de apelación, en los términos del Código de Procedimientos Penales.
 
 ### CAPÍTULO III. DE LAS SALAS PENALES
 
@@ -425,11 +429,13 @@ II. Durante la fase de cumplimiento de sentencia firme:
 
 a) De la medida de seguridad de internamiento en centros psiquiátricos, de deshabituación, desintoxicación o de educación especial.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 21.
 
 Secretaría de Educación y Cultura.
 
-Corresponde a la Secretaria de Educación y Cultura, durante el procedimiento, el auxilio en la ejecución de las condiciones de aprender una profesión u oficio o seguir cursos de capacitación en el lugar o institución que determine el juez.
+Corresponde a la Secretaría de Educación y Cultura, durante el procedimiento, el auxilio en la ejecución de las condiciones de aprender una profesión u oficio o seguir cursos de capacitación en el lugar o institución que ésta determine.
 
 ### CAPÍTULO VI. DE LA COORDINACIÓN INTERINSTITUCIONAL
 
@@ -547,13 +553,19 @@ La ejecución de la medida estará sujeta a la normatividad reglamentaria sobre 
 
 #### SECCIÓN SEXTA. ARRAIGO DOMICILIARIO
 
+> <small>(REFORMADO EN SU RUBRO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 35.
 
-Arraigo sin vigilancia.
+Arraigo sin vigilancia con modalidades.
 
-Cuando se decrete el arraigo sin vigilancia, el imputado informará al Juez de Garantía el domicilio en el que la medida habrá de cumplirse, sea en su propio domicilio o en el de otra persona. Previo a su resolución, el Juez de Garantía pedirá el auxilio de la Secretaría de Seguridad Pública o de otros cuerpos de seguridad pública en el Estado, a efecto de verificar la existencia del lugar.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
 
-Si el domicilio proporcionado no existe, o el juez no lo considera conveniente, éste determinará el lugar en que el arraigo se cumplirá.
+Cuando se decrete el arraigo sin vigilancia, se le impondrán las modalidades que se estimen convenientes; el imputado informará a los Tribunales el domicilio en el que la medida habrá de cumplirse, sea en su propio domicilio o en el de otra persona. Previo a su resolución, los Tribunales pedirán el auxilio de la Secretaría de Seguridad Pública o de otros cuerpos de seguridad pública en el Estado o del municipio de que se trate, a efecto de verificar la existencia del lugar y la viabilidad para su arraigo.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
+Si el domicilio proporcionado no existe, se considerará como riesgo para la sociedad, en términos del artículo 172 del Código de Procedimientos Penales, lo que implica la revisión de la medida cautelar.
 
 Verificado lo anterior, el Juez de Garantía comunicará en su resolución el tiempo por el que habrá de desarrollarse la medida y, en su caso, las condiciones particulares de su cumplimiento.
 
@@ -603,7 +615,9 @@ a) Si se trata de suspensión de funciones de un servidor público, se remitirá
 
 b) Si se trata de suspensión para el ejercicio de una profesión, se dará aviso a la Oficina Estatal de Profesiones del Gobierno del Estado, así como a la Dirección General de Profesiones de la Secretaría de Educación Pública Federal, para los efectos conducentes.
 
-c) Si se trata de la suspensión para la conducción de vehículos de motor, se comunicará la resolución a las autoridades en materia de vialidad y tránsito del municipio de que se trate.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
+c) Si se trata de la suspensión para la conducción de vehículos de motor, se comunicará la resolución a las autoridades en materia de vialidad y tránsito de la Federación o del estado o municipio de que se trate.
 
 d) En caso de imponer la suspensión de otros derechos, la ejecución de la medida quedará sujeta a las particularidades que el propio juez dicte en su resolución, de conformidad con la naturaleza de la medida impuesta.
 
@@ -727,11 +741,15 @@ La comunicación entre el Juez de Garantía y las autoridades señaladas como au
 
 Ejecución de las penas y medidas de seguridad.
 
-Para la ejecución de las penas y medidas de seguridad, el Juez de Garantía o el Tribunal de Juicio Oral que dictó la sentencia ejecutoriada, según corresponda, deberá:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+
+Para la ejecución de las penas y medidas de seguridad, el Juez de Garantía o el Tribunal de Juicio Oral que dictó la sentencia, o el Tribunal de Alzada, según corresponda, deberá:
 
 I.- Tratándose de penas privativas de la libertad.-
 
-a) Si el condenado estuviere sujeto a prisión preventiva, ponerlo a disposición jurídica del Juez de Ejecución de Penas, remitiéndole el registro donde conste su resolución, a efecto de integrar la carpeta respectiva, dando inicio al procedimiento de ejecución penal, para el debido y exacto cumplimiento de la sanción impuesta.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
+a) Si el imputado fuera sentenciado a prisión, ordenará inmediatamente su internamiento en el establecimiento penitenciario que corresponda, y lo pondrá a disposición jurídica del Juez de Ejecución de Penas, remitiéndole el registro donde conste su resolución, a efecto de integrar la carpeta respectiva, dando inicio al procedimiento de ejecución penal, para el debido y exacto cumplimiento de la sanción impuesta.
 
 b) Si el condenado estuviere en libertad, ordenar inmediatamente su aprehensión y, una vez efectuada, proceder de conformidad con el inciso anterior. En este case, se pondrá al condenado a disposición material de la Dirección, a efecto de que las penas se compurguen en los centros de reinserción social a cargo de dicha autoridad.
 
@@ -837,11 +855,13 @@ I.- Tendrá lugar desde las veinte horas, hasta las ocho horas del día siguient
 
 II.- En su cumplimiento quedará sujeto a las disposiciones previstas en las fracciones II, III, IV y V del artículo anterior.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 64.
 
 Otras modalidades de internamiento.
 
-Fuera de las hipótesis previstas, el Juez de Ejecución de Penas podrá imponer otras modalidades para cumplir la pena de prisión en semilibertad, tomando en cuenta las particularidades de las actividades a realizar o del tratamiento de salud que deba recibirse.
+Fuera de las hipótesis previstas, y sólo en los casos en los que por la edad o estado de salud del sentenciado se ponga en grave riesgo su integridad física, el Juez de Ejecución de Penas podrá imponer otras modalidades para cumplir la pena de prisión en semilibertad, tomando en cuenta el tratamiento de salud que deba recibirse.
 
 #### SECCIÓN TERCERA. PENA DE RELEGACIÓN
 
@@ -919,9 +939,11 @@ IV.- Que haya reparado el daño causado.
 
 Improcedencia del beneficio.
 
-La libertad preparatoria no se concederá al sentenciado por los siguientes delitos, previstos en el Código Penal:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
 
-I. Tortura,
+La libertad preparatoria no se concederá al sentenciado por los siguientes delitos, previstos en el Código Penal, tanto si quedaran consumados como en grado de tentativa en aquellos casos que la permitan:
+
+I.- Tortura,
 
 II.- Enriquecimiento ilícito, sancionado por el artículo 272.
 
@@ -946,6 +968,10 @@ XI.- Desaparición Forzada de Personas.
 XII.- Sabotaje.
 
 XIII.- Ataques a la Paz Pública.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2010)</small>
+
+XIV.- Extorsión.
 
 ###### Artículo 71.
 
@@ -1042,6 +1068,10 @@ Admitida la solicitud, el Juez de Ejecución de Penas solicitará a la Direcció
 Recibidos los estudios, el Juez de Ejecución de Penas emitirá resolución en un plazo que no excederá de cinco días, concediendo o negando el beneficio.
 
 La resolución a que se refiere el artículo anterior será notificada el día de su emisión a la Dirección, para que la cumpla en sus términos.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
+
+Realizado lo anterior en cuanto al trámite, se estará a lo dispuesto por el artículo 12 Bis del presente ordenamiento.
 
 ###### Artículo 81.
 
@@ -1183,17 +1213,21 @@ Resolución oficiosa.
 
 En toda sentencia deberá resolverse sobre la procedencia de la condena condicional, cuando se esté en el supuesto de la fracción I del artículo 97 de esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 100.
 
 Vigilancia de la autoridad.
 
-Los sentenciados que obtengan la condena condicional quedarán sujetos a la vigilancia de la autoridad, en los términos de los artículos 30, 32 ó 33 de esta Ley.
+Los sentenciados que obtengan la condena condicional quedarán sujetos a la vigilancia de la autoridad, en los términos de los artículos 30,32, 33 y 123 de esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
 
 ###### Artículo 101.
 
 Extinción de la sanción.
 
-Se considerará extinguida la sanción si el reo no diere lugar a nuevo proceso que concluya con sentencia condenatoria, durante un lapso igual al término de la prisión impuesta, contados a partir del día siguiente hábil al que cause ejecutoria la sentencia que concedió la condena condicional. En caso de que cometa nuevo delito doloso después de concedido el beneficio, se hará efectiva la prisión suspendida.
+Se considerará extinguida la sanción si el reo no diere lugar a nuevo proceso que concluya con sentencia condenatoria, si durante un lapso igual al término de la prisión impuesta, contado a partir del día siguiente hábil al que cause ejecutoria la sentencia que concedió la condena condicional, y haya reparado el daño a que fue condenado.
 
 ###### Artículo 102.
 
@@ -1996,3 +2030,9 @@ OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados
 NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
 
 DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
+
+P.O. 30 DE ENERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los artículos 438 al 455 del Código de Procedimientos Penales del Estado, que comprenden el Título relativo a la "Acción Civil", entrarán en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
