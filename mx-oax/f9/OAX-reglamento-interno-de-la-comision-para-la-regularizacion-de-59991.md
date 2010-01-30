@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-comision-para-la-regularizacion-de-599
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-23"
-last_updated: "2008-02-23"
+last_updated: "2010-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA COMISION PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA URBANA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA COMISION PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA URBANA DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 30 DE ENERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 23 de febrero de 2008.
 
@@ -424,3 +426,13 @@ DIRECTOR GENERAL DEL INSTITUTO ESTATAL DE ECOLOGIA
 C. P. MARIA EFIGENIA GUENDOLAIN GARCIA
 
 DELEGADO CONTRALOR DE LA SECRETARIA GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE ENERO DE 2010.
+
+PRIMERO: El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se Abroga el Reglamento Interno de la Comisión para la Regularización de la Tenencia de la Tierra Urbana del Estado de Oaxaca publicado el 23 de febrero del 2008 en el Periódico Oficial del Gobierno del Estado de Oaxaca No. 08.
+
+TERCERO: Las disposiciones contenidas en el presente Reglamento Interno prevalecerán sobre aquellas de igual o menor rango que se opongan, aún cuando no estén expresamente abrogadas.
