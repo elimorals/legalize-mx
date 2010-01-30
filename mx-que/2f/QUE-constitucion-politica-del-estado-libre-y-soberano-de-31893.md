@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2009-10-09"
+last_updated: "2010-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2010.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -271,7 +271,11 @@ XVI. Citar a comparecer a los servidores públicos o funcionarios de las depende
 
 XVII. Por acuerdo de las dos terceras partes de sus miembros, ratificar los arreglos o convenios de límites territoriales concertados entre los ayuntamientos o los que el titular del Ejecutivo celebre con los de otros Estados, y en su caso, someterlos a la ratificación en los términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos;
 
-XVIII. Todas las demás que la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes le otorguen.
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2010)</small>
+
+XVIII. Rendir, en el mes de julio, el informe anual de actividades del Poder Legislativo y;
+
+XIX. Todas las demás que la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes le otorguen.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -357,37 +361,65 @@ V. Cuando la falta absoluta ocurriera en los últimos tres años del período re
 
 VI. Si al iniciar el período constitucional no se presentara el Gobernador electo o la elección no estuviera hecha o declarada, cesarán las funciones del Gobernador cuyo período haya concluido y se elegirá al Gobernador Interino, procediéndose conforme a la fracción IV de este artículo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 22.
 
-Son facultades del Gobernador del Estado las siguientes:
+Son facultades y obligaciones del gobernador del Estado las siguientes:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 I. Promulgar, publicar y ejecutar las leyes;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 II. Reglamentar las leyes, proveyendo en la esfera administrativa a su exacta observancia, con excepción de las leyes orgánicas de los Poderes y de los órganos autónomos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 III. Preservar el orden, la tranquilidad y la seguridad social en el Estado;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 IV. Nombrar y remover libremente a los servidores públicos del Poder Ejecutivo cuyo nombramiento o remoción no estén determinados en esta Constitución o en las Leyes;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 V. Hacer cumplir los fallos y resoluciones de la autoridad judicial; conceder a las autoridades judiciales de la entidad los apoyos necesarios para el desempeño de sus funciones;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 VI. Conceder indultos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 VII. Contratar empréstitos y garantizar las obligaciones que de ellos se deriven en los términos de la ley respectiva y, en su caso, con la autorización previa de la Legislatura;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 VIII. Expedir decretos y acuerdos de carácter administrativo para la eficaz prestación de los servicios públicos y otorgar concesiones a los particulares para este mismo efecto;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 IX. Celebrar convenios con la Federación, con otros Estados, con los Municipios y con particulares para el mejor cumplimiento de sus atribuciones y cuando el desarrollo económico y social lo haga necesario;
 
-X. Rendir ante la legislatura durante el mes de febrero de cada año, un informe del estado general que guarda la administración pública en los términos que la ley señala. Tratándose del último año de la administración, entregará un informe por escrito de la gestión realizada los últimos nueve meses;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
+X. Rendir ante la Legislatura, el 25 de julio de cada año, por escrito, un informe del estado general que guarda la administración pública, en los términos que establezca la Ley;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XI. Promover el desarrollo equilibrado y armónico del Estado en materia económica, social y cultural;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 XII. Planear, participar, conducir, coordinar y orientar el desarrollo integral y sustentable de la Entidad, fomentando el crecimiento económico, el empleo y velando por una justa distribución del ingreso y la riqueza, que permita el pleno ejercicio de la libertad y la dignidad de individuos y grupos sociales;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 XIII. Designar a los fedatarios públicos en los términos de la ley de la materia; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XIV. Las que le otorga la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes y ordenamientos que de ambas se deriven.
 
@@ -465,7 +497,9 @@ V. Aprobar sus reglamentos y emitir los acuerdos generales que resulten necesari
 
 VI. Procesar y sentenciar los litigios que no sean competencia de la Suprema Corte de Justicia de la Nación o del Senado de la República y, que surjan entre: Poder Ejecutivo, Legislatura del Estado, Organismos constitucionales autónomos o los Municipios del Estado;
 
-VII. Presentar en el mes de febrero de cada año a la Legislatura, un informe por escrito sobre el estado que guarde la impartición de justicia en la entidad;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
+VII. Presentar, en el mes de julio de cada año, a la Legislatura, un informe por escrito sobre el estado que guarde la impartición de justicia en la Entidad, en los términos que establezca la Ley;
 
 VIII. Elegir a su Presidente;
 
@@ -593,11 +627,11 @@ El cargo de Regidor es renunciable por causa grave y justificada que calificará
 
 Cuando el Ayuntamiento haya desaparecido o por falta absoluta de la mayoría de sus integrantes, la Legislatura del Estado nombrará un Concejo Municipal que fungirá hasta terminar el período municipal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 37.
 
-El Presidente Municipal, en el mes de febrero de cada año, rendirá al Ayuntamiento, en los términos que establezca la ley, un informe por escrito de la situación general que guarde la administración municipal. Tratándose del último año de la administración, entregará informe por escrito de la gestión realizada de los últimos nueve meses.
+El Presidente Municipal, en el mes de julio de cada año, rendirá ante el Ayuntamiento, un informe por escrito de la situación general que guarde la administración municipal, en los términos que establezca la Ley.
 
 > <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
 
@@ -1246,3 +1280,13 @@ P.O. 9 DE OCTUBRE DE 2009.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Deberán ajustarse a la presente Ley, todas las disposiciones secundarias que se le opongan.
+
+P.O. 30 DE ENERO DE 2010.
+
+Artículo Primero. Aprobada que sea la presente ley en los términos de lo dispuesto por el artículo 39 de la Constitución Política del Estado de Querétaro, procédase a la aprobación del Constituyente Permanente de las dos terceras partes del número total de integrantes de la Legislatura y las dos terceras partes de los Ayuntamientos.
+
+Artículo Segundo. Aprobada que sea la presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Tercero. La legislación secundaria que corresponda, deberá adecuarse al contenido de la presente Constitución, en un plazo no mayor de 180 días; en tanto se realiza dicha modificación se estará a lo dispuesto por la presente Ley.
+
+Artículo Cuarto. Se derogan todos los ordenamientos que se opongan a lo dispuesto por la presente Ley.
