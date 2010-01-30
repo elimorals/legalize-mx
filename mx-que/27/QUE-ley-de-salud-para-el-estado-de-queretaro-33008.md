@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-para-el-estado-de-queretaro-33008"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-11"
-last_updated: "2006-08-11"
+last_updated: "2010-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE SALUD PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE SALUD DEL ESTADO DE QUERETARO, PUBLICADA EN EL P.O. DE 30 DE ENERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 11 de julio de 2003.
 
@@ -2670,3 +2672,13 @@ La presente Ley entrará en vigor a partir de su publicación en el Periódico O
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la presente.
+
+P.O. 30 DE ENERO DE 2010.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Salud del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 40, de fecha 11 de julio de 2003 y sus reformas.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado emitirá las normas reglamentarias que resulten necesarias para la aplicación de la presente Ley.
+
+Artículo Cuarto. En tanto se expiden los reglamentos de esta Ley, la Secretaría de Salud del Estado podrá continuar aplicando las disposiciones legales conducentes.
