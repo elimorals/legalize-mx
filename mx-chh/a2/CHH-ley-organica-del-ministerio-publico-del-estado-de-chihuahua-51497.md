@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-ministerio-publico-del-estado-de-chihuahua-514
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-08-09"
-last_updated: "2009-02-18"
+last_updated: "2010-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -97,11 +97,11 @@ VI. Los agentes del Ministerio Público.
 
 Los titulares de los órganos mencionados intervendrán como representantes del Ministerio Público en los casos que se considere conveniente para la mejor procuración de justicia, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por el Procurador General de Justicia.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
 
-###### Artículo 5°.
+###### Artículo 5º.
 
-Para el ejercicio de las funciones sustantivas, forman parte de la Procuraduría: La Agencia Estatal de Investigación, el Centro de Justicia Alternativa, el Centro de Estudios Penales y Forenses, la Dirección de Servicios Periciales y Ciencias Forenses, la Dirección de Atención a Víctimas de Violencia de Género y Violencia Familiar, la Dirección Administrativa, la Dirección de Informática y las demás dependencias necesarias para el buen funcionamiento de la Institución.
+Para el ejercicio de las funciones sustantivas, forman parte de la Procuraduría: la Agencia Estatal de Investigación, el Centro de Justicia Alternativa, Laboratorios de Criminalística y Ciencias Forenses de la Procuraduría General de Justicia del Estado, la Dirección de Atención a Víctimas de Violencia de Género y Violencia Familiar, la Dirección Administrativa, la Dirección de Informática y las demás dependencias necesarias para el buen funcionamiento de la Institución.
 
 ###### Artículo 6°.
 
@@ -111,9 +111,11 @@ Todas las autoridades del Estado están obligadas a prestar colaboración inmedi
 
 ### CAPÍTULO III. De la Procuraduría General de Justicia
 
-###### Artículo 7°.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 ENERO DE 2010)</small>
 
-El Procurador General de Justicia, a quien corresponde la titularidad del Ministerio Público en el Estado, tiene las siguientes atribuciones:
+###### Artículo 7º.
+
+El Procurador General de Justicia, a quien corresponde la titularidad suprema del Ministerio Público en el Estado, tiene las siguientes atribuciones:
 
 I. Determinar la política general del Ministerio Público y, en especial, las prioridades que deben orientar la investigación de hechos delictivos y los criterios para el ejercicio de la acción penal.
 
@@ -137,7 +139,15 @@ XI. Comparecer ante el Congreso del Estado para informar de los asuntos a su car
 
 XII. Asistir a las sesiones del Pleno del Supremo Tribunal de Justicia.
 
-XIII. Las demás que le confieran las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
+XIII. Podrá ofrecer y hacer pagos a quienes colaboren eficazmente a esclarecer el hecho investigado o a ubicar y localizar algún imputado en los términos del reglamento aprobado por el Titular del Poder Ejecutivo, cuando se trate de delitos que afecten seriamente bienes jurídicos fundamentales o de investigación compleja.
+
+Están exceptuados de recibir algún pago los servidores públicos que pertenezcan a las áreas de prevención, procuración y administración de justicia.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2010)</small>
+
+XIV. Las demás que le confieran las leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -241,9 +251,15 @@ VII. Solicitar la aplicación de los criterios de oportunidad, el sobreseimiento
 
 VIII. Vigilar la correcta aplicación de la ley, en los casos de delitos cometidos por miembros de pueblos o comunidades indígenas;
 
-IX. Intervenir en los asuntos relativos a los menores de edad, personas con discapacidad y adultos mayores, en los casos previstos en las leyes civiles y procesales que correspondan; y
+IX. Intervenir en los asuntos relativos a los menores de edad, personas con discapacidad y adultos mayores, en los casos previstos en las leyes civiles y procesales que correspondan; y (sic)
 
-X. Las demás que les otorguen las leyes correspondientes.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
+X. Certificar todas las actuaciones, documentos y medios de investigación que obren en su poder con motivo y en ejercicio de sus funciones;
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2010)</small>
+
+XI. Las demás que les otorguen las leyes correspondientes.
 
 ###### Artículo 15.
 
@@ -253,9 +269,11 @@ Los agentes del Ministerio Público podrán actuar válidamente, en ejercicio de
 
 La Agencia Estatal de Investigación estará integrada por la policía que se encuentra bajo la autoridad y mando del Ministerio Público, denominada Policía Ministerial, y demás personal que se le asigne, teniendo la organización y atribuciones establecidas en el Reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### Artículo 17.
 
-El Centro de Estudios Penales y Forenses, la Dirección de Servicios Periciales y Ciencias Forenses y la Dirección de Informática, estarán a cargo de sus respectivos directores, y tendrán la estructura y atribuciones establecidas en el Reglamento respectivo.
+El Centro de Estudios Penales y Forenses, los Laboratorios de Criminalística y Ciencias Forenses de la Procuraduría General de Justicia del Estado, estarán a cargo de sus respectivos directores, y tendrán la estructura y atribuciones establecidas en el Reglamento respectivo.
 
 ### CAPÍTULO IV. Del servicio civil y profesional de carrera
 
@@ -496,3 +514,9 @@ P.O. 18 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los artículos 438 al 455 del Código de Procedimientos Penales del Estado, que comprenden el Título relativo a la "Acción Civil", entrarán en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
