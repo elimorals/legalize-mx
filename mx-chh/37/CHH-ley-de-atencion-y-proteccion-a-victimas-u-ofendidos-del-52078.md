@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-atencion-y-proteccion-a-victimas-u-ofendidos-del-52078"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-21"
-last_updated: "2006-10-21"
+last_updated: "2010-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ATENCION Y PROTECCION A VICTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 21 de octubre del 2006.
 
@@ -111,7 +111,9 @@ IV. Recibir asistencia médica o sicológica de urgencia;
 
 V. Recibir atención y tratamiento médico o sicológico permanente, cuando por sus condiciones socioeconómicas y carencia de servicios básicos de seguridad social, no pudiere obtener o sufragar directamente;
 
-VI. Obtener la reparación de daños y perjuicios cuando legalmente proceda;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
+VI. A que se le garantice la reparación de daños y perjuicios cuando legalmente proceda;
 
 VII. Que la autoridad investigadora o jurisdiccional dicte las providencias legales necesarias para proteger su vida, integridad física, sicológica y moral, bienes, posesiones o derechos, incluyendo los sujetos protegidos, cuando existan datos suficientes que demuestren que éstos pudieran ser afectados por los probables responsables del delito o por terceros implicados;
 
@@ -119,7 +121,9 @@ VIII. Recibir orientación y canalización hacia las instituciones de asistencia
 
 IX. Comparecer en los actos procesales, por sí o a través de su representante, en los casos que autorice el Código de Procedimientos Penales;
 
-X. A que el Ministerio Público le reciba los datos o elementos de prueba, y a constituirse en acusador coadyuvante, para lo cual podrá nombrar a un licenciado en derecho para que lo represente;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
+X. Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que prevea la ley, así como a constituirse como acusador coadyuvante;
 
 XI. Recibir apoyo y otorgamiento material de bienes en los casos procedentes. En ningún caso procederá la entrega de recursos económicos en efectivo;
 
@@ -143,9 +147,11 @@ Las medidas a que se refiere el artículo anterior, también comprenden los serv
 
 Para garantizar la reparación del daño a la víctima u ofendido del delito, además de los derechos previstos en el Código de Procedimientos Penales, podrán exigir por conducto del Ministerio Público la restitución de la cosa o, en su caso, el pago del valor correspondiente, al momento de su afectación o perjuicio material.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+
 ###### ARTÍCULO 11.
 
-El Ministerio Público podrá dictar desde el inicio de la investigación y durante el ejercicio de la acción penal, las medidas necesarias a efecto de recabar pruebas suficientes para acreditar los daños y perjuicios causados a la víctima u ofendido del delito, incluyendo la fijación del monto de la reparación material, así como solicitar el aseguramiento y embargo precautorio de bienes para ese efecto.
+El Ministerio Público deberá dictar desde el inicio de la investigación y durante el ejercicio de la acción penal, las medidas necesarias a efecto de recabar pruebas suficientes para acreditar los daños y perjuicios causados a la víctima u ofendido del delito, incluyendo la fijación del monto de la reparación material, así como solicitar el aseguramiento y embargo precautorio de bienes para ese efecto.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES COMPETENTES EN MATERIA DE ATENCIÓN Y PROTECCIÓN A LAS VÍCTIMAS U OFENDIDOS
 
@@ -268,3 +274,11 @@ LIC. JOSE REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE ENERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los artículos 438 al 455 del Código de Procedimientos Penales del Estado, que comprenden el Título relativo a la "Acción Civil", entrarán en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
