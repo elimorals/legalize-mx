@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-al-acuerdo-en-materia-de-63573"
 country: "mx"
 rank: "otro"
 publication_date: "2008-10-14"
-last_updated: "2009-10-22"
+last_updated: "2010-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63573&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,106 +19,44 @@ issue_date: "2008-10-13"
 ---
 # DISPOSICIONES COMPLEMENTARIAS AL ACUERDO EN MATERIA DE MEDIDAS DE REMEDIO COMERCIAL (REPUBLICA POPULAR CHINA, 2008)
 
-ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS LINEAMIENTOS PARA LA ASIGNACION DEL CUPO LIBRE DE MEDIDA DE TRANSICION
+ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE IMPLEMENTA UNA MEDIDA DE TRANSICION TEMPORAL SOBRE LAS IMPORTACIONES DE DIVERSAS MERCANCIAS ORIGINARIAS DE LA REPUBLICA POPULAR CHINA
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 22 de octubre de 2009.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 2 de febrero de 2010.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-Con fundamento en los artículos 6, fracción XII del Acuerdo por el que se implementa una medida de transición temporal sobre las importaciones de diversas mercancías originarias de la República Popular China; 34, fracciones I y XXXI de la Ley Orgánica de la Administración Pública Federal; 5o., fracciones V y X, 6o., 23 y 24, de la Ley de Comercio Exterior; 14, 16, 27, 28, 29, 30, 32, 33, 34 y 36 del Reglamento de la Ley de Comercio Exterior; 5, fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+Con fundamento en los artículos 133 de la Constitución Política de los Estados Unidos Mexicanos; 2 del Acuerdo entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República Popular China en Materia de Medidas de Remedio Comercial; 34, fracciones I y XXXI de la Ley Orgánica de la Administración Pública Federal; 5o. fracción X de la Ley de Comercio Exterior; 61 fracción I de la Ley Aduanera; y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
 
 CONSIDERANDO
 
-Que el 13 de octubre de 2008 se publicó en el Diario Oficial de la Federación el Acuerdo entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República Popular China en materia de Medidas de Remedio Comercial, firmado en la ciudad de Arequipa, Perú, el primero de junio de dos mil ocho;
+Que el 13 de octubre de 2008 se publicó en el Diario Oficial de la Federación el Decreto Promulgatorio del Acuerdo entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República Popular China en materia de Medidas de Remedio Comercial, firmado en la ciudad de Arequipa, Perú, el primero de junio de dos mil ocho;
 
-Que el 14 de octubre de 2008 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se implementa una medida de transición temporal sobre las importaciones de diversas mercancías originarias de la República Popular China, cuyo artículo 6, fracción XII establece que podrán exentarse del pago de la medida de transición las importaciones de diversas mercancías del capítulo 95 que se efectúen mediante un certificado de cupo expedido por la Secretaría de Economía;
+Que el tratado internacional mencionado en el considerando anterior, prevé la adopción de una medida de transición temporal aplicable a la importación de ciertas mercancías originarias de China, que disminuirá progresivamente hasta quedar totalmente eliminada el 11 de diciembre de 2011;
 
-Que el 18 de diciembre de 2008 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se dan a conocer los Lineamientos para la asignación del cupo libre de medida de transición, modificado mediante diverso publicado en el mismo órgano informativo el 13 de marzo de 2009;
+Que el 14 de octubre de 2008 se publicó en el Diario Oficial de la Federación la Resolución que concluye el procedimiento de revisión de la cuota compensatoria definitiva impuesta sobre las importaciones de máquinas, aparatos y material eléctrico y sus partes originarias de la República Popular China, independientemente del país de procedencia. Dichas mercancías se clasifican en las fracciones arancelarias 8501.52.04, 8501.53.04, 8504.10.01, 8504.10.99, 8504.33.01, 8508.11.01, 8508.19.99, 8509.40.01, 8509.40.02, 8515.90.01, 8516.31.01, 8516.60.01, 8516.72.01 y 8532.22.99 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación;
 
-Que con objeto de eliminar las distorsiones detectadas en la operación del cupo, generadas por los diversos mecanismos para su asignación, resulta conveniente establecer un nuevo mecanismo de asignación que facilite la participación de todos los interesados en igualdad de circunstancias, y
+Que el 14 de octubre de 2008 se publicó en el Diario Oficial de la Federación el Acuerdo por el que se implementa una medida de transición temporal sobre las importaciones de diversas mercancías originarias de la República Popular China;
 
-Que conforme a lo dispuesto en el artículo 6 de la Ley de Comercio Exterior, la medida a que se refiere el presente instrumento fue sometida a la consideración de la Comisión de Comercio Exterior y opinada favorablemente, se expide el siguiente
+Que el artículo 4 del Acuerdo mencionado en el considerando anterior, prevé la disminución progresiva de la medida de transición en cuatro periodos, para las mercancías clasificadas en diversas fracciones arancelarias, entre las que se encuentra la 8509.40.01 correspondiente a licuadoras, trituradoras y mezcladoras de alimentos;
 
-ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS LINEAMIENTOS PARA LA ASIGNACION DEL CUPO LIBRE DE MEDIDA DE TRANSICION
+Que la medida de transición está prevista en un tratado internacional que es Ley Suprema de toda la Unión, y que su implementación ha coadyuvado a brindar a los sectores productivos nacionales, una transición ordenada y estable, que les permite enfrentar las nuevas circunstancias de la competencia comercial con China;
 
-###### ARTICULO UNICO.
+Que derivado de que no compareció ningún productor de trituradoras y mezcladoras en el procedimiento de revisión de la cuota compensatoria definitiva impuesta sobre las importaciones de máquinas, aparatos y material eléctrico y sus partes originarias de la República Popular China, independientemente del país de procedencia y después de consultar a las Cámaras y Asociaciones competentes, se corroboró que no existe producción nacional de trituradoras y mezcladoras de alimentos, por lo que es conveniente exceptuar dichas mercancías de la aplicación de la medida de transición, y
 
-Se REFORMAN los Artículos Cuarto, fracción II, Quinto, Sexto, Séptimo y Octavo, se DEROGAN del Artículo Cuarto la fracción III y los Artículos Octavo Bis y Octavo Ter y se ADICIONA el Artículo Noveno del Acuerdo por el que se dan a conocer los Lineamientos para la asignación del cupo libre de medida de transición publicado en el Diario Oficial de la Federación el 18 de diciembre de 2008 y su modificación, para quedar como sigue:
+Que conforme a lo dispuesto en el artículo 6 de la Ley de Comercio Exterior, la medida a que se refiere este instrumento fue opinada favorablemente por la Comisión de Comercio Exterior, se expide el siguiente:
 
-“Artículos Primero a Tercero. . .
+ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE IMPLEMENTA UNA MEDIDA DE TRANSICION TEMPORAL SOBRE LAS IMPORTACIONES DE DIVERSAS MERCANCIAS ORIGINARIAS DE LA REPUBLICA POPULAR CHINA
 
-Artículo Cuarto.- . . .
+UNICO.- Se modifica la fracción VI del artículo 6 del Acuerdo por el que se implementa una medida de transición temporal sobre las importaciones de diversas mercancías originarias de la República Popular China, publicado en el Diario Oficial de la Federación el 14 de octubre de 2008, para quedar como sigue:
 
-I. . . .
+“Artículo 6.- ...
 
-II. El 97.6% restante se asignará entre las personas físicas y morales interesadas bajo el mecanismo de licitación pública, y
+I. a V. ...
 
-III. SE DEROGA.
+VI. Para la fracción arancelaria 8504.33.01, la medida de transición aplica únicamente a las importaciones de transformadores de distribución monofásicos o trifásicos, de capacidad superior a 16 Kilovatios (kVA) pero inferior o igual a 400 kVA; y para la fracción arancelaria 8509.40.01, la medida de transición aplica sólo para licuadoras.”
 
-Artículo Quinto.- Las solicitudes de asignación a que se refiere la fracción I del Artículo Cuarto, podrán presentarse debidamente requisitadas dentro del periodo que va del 12 de diciembre al 11 octubre de cada año de vigencia del presente Acuerdo, en la ventanilla de atención al público de la representación federal de la Secretaría que corresponda al domicilio de los interesados, conforme a lo siguiente:
+## TRANSITORIO
 
-I. Se deberán utilizar los formatos SE-03-011-1 “Solicitud de asignación de cupo” y SE-03-013-5 “Solicitud de certificados de cupo (obtenido por asignación directa)”, sin requisitar en este último el inciso 11 “Número de oficio de asignación de cupo”. Podrán presentarse ambas solicitudes de manera simultánea, adjuntando copia de la factura comercial y copia del conocimiento de embarque, guía aérea o carta de porte, según sea el caso.
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-II. La DGCE emitirá, en su caso, el oficio de asignación, y la representación federal de la Secretaría que corresponda expedirá el certificado de cupo libre de medida de transición, ambos dentro de los diez días hábiles siguientes a la fecha de presentación de dichas solicitudes.
-
-En caso de que la resolución de la solicitud de asignación del cupo sea negativa se entenderá que la solicitud de expedición del certificado de cupo también lo es.
-
-Los certificados de cupo libre de medida de transición expedidos de conformidad con este Artículo serán nominativos e intransferibles y su vigencia será hasta el 11 de diciembre siguiente al de su expedición.
-
-Los formatos a que se refiere este artículo, estarán a disposición de los interesados en las representaciones federales de la Secretaría de Economía que corresponda y en la página de Internet de la Comisión Federal de Mejora Regulatoria: www.cofemer.gob.mx, y en las siguientes direcciones electrónicas:
-
-a) Para el formato SE-03-011-1 “Solicitud de asignación de cupo”:
-
-- http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-A
-
-- http://www.cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-033-B
-
-b) Para el formato SE-03-013-5 “Solicitud de Certificados de cupo (obtenido por asignación directa)”.
-
-- http://cofemer.gob.mx/rfts/ficha.asp?homoclave=se-03-042-B
-
-> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2009)</small>
-
-Artículo Sexto.- El mecanismo de licitación pública a que se refiere la fracción II del artículo Cuarto podrá ser documental o electrónica y se sujetará a lo siguiente:
-
-I. La Secretaría publicará la convocatoria correspondiente en el Diario Oficial de la Federación, por lo menos 20 días hábiles antes de que inicie el periodo de registro, y establecerá la fecha en que se pondrán a disposición de los interesados las bases conforme a las que se regirá la licitación pública;
-
-II. Podrán participar en la licitación pública las personas físicas y morales establecidas en México conforme al contenido de las bases de la licitación pública;
-
-III. Tratándose de licitación documental, los interesados deberán presentar su oferta en el formato SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupo para importar o exportar”, adjuntando la documentación que corresponda conforme a las bases de la licitación;
-
-IV. Para el caso de licitación electrónica, para poder participar, los interesados deberán registrarse previamente en el sistema electrónico establecido para la ejecución de la misma, conforme a la forma y plazos que establezcan las bases de la licitación;
-
-V. Los resultados de la adjudicación de la licitación documental y electrónica se darán a conocer al término del evento y podrán ser consultados en las páginas de Internet de la Secretaría de Economía: www.economia.gob.mx y del Sistema Integral de Información de Comercio Exterior: www.siicex.gob.mx, y
-
-VI. Una vez obtenida la constancia de adjudicación, el beneficiario deberá solicitar la expedición del certificado de cupo en el formato SE-03-013-6 “Solicitud de certificados de cupo (obtenido por licitación pública)”, adjuntando el comprobante del pago correspondiente a la adjudicación, en la ventanilla de atención al público de la Representación Federal que corresponda. La Secretaría emitirá el certificado de cupo dentro de los cinco días hábiles siguientes a la presentación de la solicitud.
-
-Los formatos a que se refieren las fracciones III y VI estarán a disposición de los interesados en las representaciones federales de la Secretaría que corresponda y en la página de Internet de la Comisión Federal de Mejora Regulatoria: www.cofemer.gob.mx, en las siguientes direcciones electrónicas:
-
-- SE-03-011-3 “Formato de oferta para participar en licitaciones públicas para adjudicar cupo para importar o exportar”:
-
-http://www.cofemer.gob.mx/BuscadorTramites/DatosGenerales.asp?homoclave=SE-03-034&modalidad=0&identificador=628210&SIGLAS=SE
-
-- SE-03-013-6 “Solicitud de certificados de cupo (obtenido por licitación pública)”:
-
-http://www.cofemer.gob.mx/BuscadorTramites/DatosGenerales.asp?homoclave=SE-03-043&modalidad=0&identificador=791560&SIGLAS=SE
-
-Los certificados de cupo que se expidan conforme a este Artículo serán nominativos y transferibles y su vigencia será al 11 de diciembre siguiente al día de su expedición.
-
-Artículo Séptimo.- El monto libre de medida de transición a que se refiere el artículo anterior adjudicado pero no pagado, quedará vacante y podrá ser reasignado por la Secretaría con base en el artículo 34 del Reglamento de la Ley de Comercio Exterior conforme a lo que se establezca en las bases de la licitación correspondiente.
-
-Artículo Octavo.- Para la aplicación general del presente Acuerdo, la DGCE podrá solicitar la opinión de la Dirección General de Industrias Básicas de la Secretaría.
-
-Artículo Octavo BIS.- SE DEROGA.
-
-Artículo Octavo TER.- SE DEROGA.
-
-Artículo Noveno.- Las autorizaciones emitidas al amparo del presente ordenamiento no eximen del cumplimiento de otros requisitos y demás regulaciones y restricciones no arancelarias aplicables a las mercancías en la aduana de despacho.”
-
-## TRANSITORIOS
-
-PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 11 de diciembre de 2011.
-
-SEGUNDO.- Los certificados de cupo expedidos conforme al Acuerdo que se modifica y que vencieron el 30 de septiembre y el 11 de octubre de 2009, serán refrendados automáticamente con vigencia al 11 de diciembre de 2009, previa solicitud en escrito libre dirigido a la Dirección General de Comercio Exterior o a la representación federal que corresponda.
-
-México, D.F., a 19 de octubre de 2009.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
+México, D.F., a 22 de enero de 2010.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
