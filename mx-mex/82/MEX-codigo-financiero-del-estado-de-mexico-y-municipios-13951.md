@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2010-01-13"
+last_updated: "2010-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -6879,7 +6879,7 @@ El monto de los derechos a que se refiere este artículo se pagará de acuerdo c
 
 Los adquirentes de lotes no están obligados al pago de los derechos previstos en este artículo cuando los titulares de las autorizaciones de subdivisiones o conjuntos urbanos de carácter habitacional, industrial, agroindustrial y de abasto, comercio y servicios, hayan realizado bajo su costo las obras de conexión de agua potable y drenaje entre las redes generales y el lote.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 136.
 
@@ -9981,7 +9981,7 @@ Zona B. Municipios de Medio Impacto; son aquellos que presentan una población m
 
 Zona C. Municipios de Bajo Impacto; son aquellos con baja densidad poblacional cuyos habitantes se encuentran distantes unos de otros, con una actividad predominantemente de tipo agrícola o ganadera, sin desarrollo industrial o comercial. Estos son: Acambay, Acolman, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Apaxco, Atenco, Atizapán, Atlautla, Axapusco, Ayapango, Calimaya, Coatepec Harinas, Cocotitlán, Chapa de Mota, Chapultepec, Chiautla, Donato Guerra, Ecatzingo, El Oro, Hueypoxtla, Isidro Fabela, Ixtapan del Oro, Jilotzingo, Jiquipilco, Jocotitlán, Joquicingo, Juchitepec, Luvianos, Malinalco, Mexicalzingo, Morelos, Nextlalpan, Nopaltepec, Ocuilán, Otumba, Otzoloapan, Otzolotepec, Papalotla, Polotitlán, Rayón, San Antonio La Isla, San Felipe del Progreso, San José del Rincón, San Martín de las Pirámides, San Simón de Guerrero, Santo Tomás, Soyaniquilpan de Juárez, Sultepec, Tejupilco, Temamatla, Temascalapa, Temascalcingo, Temascaltepec, Temoaya, Tenango del Aire, Tenango del Valle, Teoloyucan, Teotihuacan, Tepetlaoxtoc, Tepetlixpa, Tequixquiac, Texcaltitlán, Texcalyacac, Tezoyuca, Timilpan, Tlalmanalco, Tlatlaya, Tonatico, Tonanitla, Villa de Allende, Villa del Carbón, Villa Guerrero, Villa Victoria, Xalatlaco, Zacazonapan, Zacualpan y Zumpahuacán.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 216-D.
 
@@ -12179,7 +12179,7 @@ Los ingresos que perciban las dependencias en términos de la Ley de Ingresos de
 
 > <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
-Los ingresos que perciban los organismos auxiliares en términos de la ley de Ingresos del Estado de México serán recaudados por los propios organismos auxiliares en instituciones de crédito de banca múltiple o establecimientos mercantiles autorizados para tal efecto. En caso de que dichos ingresos se encuentren afectados en fideicomiso, las cantidades recaudadas se podrán concentrar con el fiduciario correspondiente mediante el otorgamiento de instrucciones y/o mandatos irrevocables o transferencias a las cuentas del fideicomiso respectivo, entre otros mecanismos que se establezcan para dicho propósito.
+Los ingresos que perciban los organismos auxiliares en términos de la Ley de Ingresos del Estado de México serán recaudados por los propios organismos auxiliares en instituciones de crédito de banca múltiple o establecimientos mercantiles autorizados para tal efecto. En caso de que dichos ingresos se encuentren afectados en fideicomiso, las cantidades recaudadas se podrán concentrar con el fiduciario correspondiente mediante el otorgamiento de instrucciones y/o mandatos irrevocables o transferencias a las cuentas del fideicomiso respectivo, entre otros mecanismos que se establezcan para dicho propósito.
 
 ### CAPITULO PRIMERO. DE LA CONTABILIDAD GUBERNAMENTAL
 
