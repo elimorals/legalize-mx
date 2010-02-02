@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2009-08-25"
+last_updated: "2010-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE FEBRERO DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1189,9 +1189,13 @@ n). De salud pública;
 
 ñ). De población;
 
-o). De revisión y actualización de la reglamentación municipal;
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE FEBRERO DE 2010)</small>
 
-p). Las demás que determine el ayuntamiento, de acuerdo con las necesidades el municipio;
+o). De asuntos indígenas, en aquellos municipios con presencia de población indígena;
+
+p). De revisión y actualización de la reglamentación municipal;
+
+q). Las demás que determine el ayuntamiento, de acuerdo con las necesidades el municipio.
 
 II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -2698,3 +2702,9 @@ G.G. 25 DE AGOSTO DE 2009.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 2 DE FEBRERO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
