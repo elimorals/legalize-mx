@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2007-08-13"
+last_updated: "2010-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE FEBRERO DE 2010.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -175,7 +175,7 @@ III.- Solicitar los servicios de asesoría profesional del sector público o pri
 
 Para el trámite de los asuntos de su competencia, las comisiones se reunirán cuantas veces sea necesario mediante citatorio que hagan sus respectivos presidentes a sus integrantes, de la siguiente manera:
 
-> <small>(REFORMAD, G.G. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2002)</small>
 
 I.- A través del Secretario de la directiva, en sesión;
 
@@ -1049,7 +1049,7 @@ e) Comunicaciones de los Poderes de la Unión, de los Poderes Ejecutivo y Judici
 
 f) Las iniciativas de ley o decreto que se presenten a la Legislatura;
 
-g) Los dictámenes emitidos por las comisiones y los votos particulares que sobre los mismos se presenten:
+g) Los dictámenes emitidos por las comisiones y los votos particulares que sobre los mismos se presenten;
 
 h) Las proposiciones y los acuerdos de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, cuando lo estimen necesario;
 
@@ -1068,6 +1068,12 @@ k) Los demás documentos que envíen a la Directiva de la Legislatura, cuando lo
 ###### Artículo 148.
 
 El Organo Superior de Fiscalización del Estado de México, se regirá por lo dispuesto en su ley y su reglamento interior.
+
+> <small>(ADICIONADO, G.G. 2 DE FEBRERO DE 2010)</small>
+
+###### Artículo 148 Bis.
+
+La Unidad de Información se regirá por lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y los lineamientos administrativos correspondientes.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1752,3 +1758,13 @@ G.G. 13 DE AGOSTO DE 2007.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 2 DE FEBRERO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La Unidad de Información a que se refiere el artículo 94 fracción VII, de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, deberá hacerse con los recursos humanos, materiales y financieros asignados por lo que no deberá implicar erogaciones adicionales.
+
+CUARTO.- La Legislatura deberá realizar las adecuaciones que correspondan al Reglamento de Transparencia y Acceso a la Información Pública del Poder Legislativo del Estado de México, en un plazo no mayor a noventa días hábiles, contados a partir de que entre en vigor el presente Decreto.
