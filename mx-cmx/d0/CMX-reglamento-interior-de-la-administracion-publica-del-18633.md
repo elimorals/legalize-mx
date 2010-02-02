@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2009-11-30"
+last_updated: "2010-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE FEBRERO DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -9502,9 +9502,17 @@ C) Dirección General de Obras y Desarrollo Urbano;
 
 D) Dirección General de Servicios Urbanos;
 
-E) Dirección General de Desarrollo Social; y
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2010)</small>
 
-F) Dirección General de Recursos Naturales y Áreas Protegidas.
+E) Dirección General de Desarrollo Social;
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2010)</small>
+
+F) Dirección General de Recursos Naturales y Áreas Protegidas; y
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2010)</small>
+
+G) Dirección General de Gerencia Delegacional.
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -10937,6 +10945,40 @@ IV. Desarrollar programas y acciones para promover el desarrollo agropecuario de
 V. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente; y
 
 VI. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2010)</small>
+
+###### Artículo 148 Bis.
+
+Corresponde a la Dirección General de Gerencia Delegacional:
+
+I. Apoyar al Jefe Delegacional en la dirección y coordinación de las unidades de asesoría, apoyo técnico, jurídico, coordinación y planeación, adscritas al Órgano Político-Administrativo;
+
+II. Coordinar los apoyos necesarios para la planeación, organización, dirección, control y evaluación de los asuntos que le competen al Jefe Delegacional;
+
+III. Participar en juntas y reuniones que tengan como propósito definir criterios, planes, programas, que conlleven a una mayor coordinación entre las áreas que conforman el Órgano Político-Administrativo;
+
+IV. Controlar y dar seguimiento a los acuerdos e instrucciones del Jefe Delegacional;
+
+V. Dirigir y coordinar la integración de los informes que presentará el Jefe Delegacional sobre el estado que guarda el Órgano Político-Administrativo;
+
+VI. Establecer la agenda de trabajo y de actos públicos del Jefe Delegacional;
+
+VII. Dirigir y evaluar las tareas de Comunicación Social, Imagen Institucional y de Opinión Pública del Jefe Delegacional y coordinar las acciones que en esta materia lleven a cabo con las dependencias y entidades de la Administración Pública del Distrito Federal;
+
+VIII. Promover programas de excelencia y calidad, tendientes a incrementar la productividad y mejora en el servicio de las Unidades Administrativas;
+
+IX. Coordinar y dar seguimiento a los mecanismos que en materia de transparencias y acceso a la información, lleve a cabo o en los cuales participe el órgano político administrativo;
+
+X. Establecer proyectos que promuevan la gestión delegacional, para ser presentadas a las instancias correspondientes;
+
+XI. Dirigir los estudios e investigaciones sobre los temas de interés que determine el Jefe Delegacional;
+
+XII. Coordinar las acciones de simplificación administrativa, modernización y mejoramiento de los servicios, considerando la opinión y lineamientos que emita para tal efecto la Contraloría General;
+
+XIII. Establecer, previo acuerdo con el Jefe de Delegacional, las directrices y mecanismos de coordinación y colaboración entre las diversas dependencias y entidades de la Administración Pública del Distrito Federal; y
+
+XIV. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los Manuales Administrativos.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -13463,3 +13505,11 @@ G.O. 30 DE NOVIEMBRE DE 2009.
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 2 DE FEBRERO DE 2010.
+
+Primero. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. - El presente decreto entrará en vigor el día de su publicación.
+
+Tercero. - El órgano político-administrativo que por virtud del presente decreto modifica su estructura deberá actualizar su Manual Administrativo en los términos y plazos que señale la normatividad.
