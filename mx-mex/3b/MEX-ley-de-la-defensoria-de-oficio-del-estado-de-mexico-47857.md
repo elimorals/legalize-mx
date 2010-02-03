@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-defensoria-de-oficio-del-estado-de-mexico-47857"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-02"
-last_updated: "2007-05-23"
+last_updated: "2010-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DE LA DEFENSORIA DE OFICIO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE MAYO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LA LEY DE DEFENSORIA PUBLICA DEL ESTADO DE MEXICO, PUBLICADA EN LA G.G. DE 3 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección de la Gaceta del Gobierno del Estado de México, el lunes 2 de enero de 2006.
 
@@ -286,3 +288,27 @@ G.G. 23 DE MAYO DE 2007.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 3 DE FEBRERO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México, salvo lo dispuesto en el artículo transitorio siguiente.
+
+TERCERO.- En términos del nuevo sistema de justicia penal, la presente Ley entrará en vigor en los siguientes términos:
+
+I. Al día siguiente de su publicación, en los distritos judiciales de Toluca, Lerma, Tenancingo y Tenango del Valle;
+
+II. El uno de abril del dos mil diez, en los distritos judiciales de Chalco, Otumba y Texcoco;
+
+III. El uno de octubre del dos mil diez, en los distritos judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
+
+IV. El uno de abril del dos mil once, en los distritos judiciales de Tlalnepantla, Cuautitlán y Zumpango; y
+
+V. El uno de octubre del dos mil once, en los distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Bravo.
+
+CUARTO.- Todos los procesos y recursos que ante los órganos jurisdiccionales se encuentren radicados al iniciar su vigencia el nuevo sistema de justicia penal, se sujetarán hasta su conclusión definitiva a las disposiciones de la Ley que se abroga.
+
+QUINTO.- Se abroga la Ley de la Defensoría de Oficio del Estado de México, publicada el día 2 de enero del 2006, en el periódico oficial "Gaceta del Gobierno" del Estado de México, en los términos de los artículos Segundo y Tercero transitorios del presente Decreto.
+
+SEXTO.- El Titular del Ejecutivo del Estado, expedirá las disposiciones reglamentarias que se derivan de esta Ley, en un plazo no mayor a ciento ochenta días hábiles, posteriores a la entrada en vigor del presente Decreto.
