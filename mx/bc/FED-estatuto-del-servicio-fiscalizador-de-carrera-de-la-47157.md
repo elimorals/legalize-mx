@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-fiscalizador-de-carrera-de-la-47157"
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-12-29"
-last_updated: "2006-03-31"
+last_updated: "2010-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47157&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2005-12-15"
 
 ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORIA SUPERIOR DE LA FEDERACION, PUBLICADO EN EL D.O.F. DE 3 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 29 de diciembre de 2005.
 
@@ -1266,3 +1268,15 @@ Dado en la Ciudad de México, Distrito Federal, a los quince días del mes de di
 D.O.F. 31 DE MARZO DE 2006.
 
 Unico.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE FEBRERO DE 2010.
+
+Artículo Primero.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- A partir de la entrada en vigor de este Estatuto, se abroga el Estatuto del Servicio Fiscalizador de Carrera de la Auditoría Superior de la Federación publicado en el Diario Oficial de la Federación el 29 de diciembre de 2005, con sus reformas y adiciones, sin perjuicio de que los asuntos que se encuentren en trámite o en proceso en la Auditoría Superior de la Federación al entrar en vigor el presente Estatuto, se seguirán tramitando hasta su conclusión en términos del Estatuto que se abroga.
+
+Artículo Tercero.- Los derechos del personal del Servicio que ingresó con el Estatuto que se abroga quedan a salvo.
+
+Artículo Cuarto.- El Comité Directivo del Servicio Fiscalizador de Carrera determinará la gradualidad en que entrará en operación el Servicio, conforme a las propuestas que presente la Unidad General de Administración y a las disponibilidades presupuestales.
+
+Artículo Quinto.- En un plazo que no exceda de 180 días hábiles, a partir de que entre en vigor el presente Estatuto, el Comité deberá expedir los criterios y modalidades de los estímulos a que se refiere el Título Tercero, Capítulo Tercero, de este Estatuto.
