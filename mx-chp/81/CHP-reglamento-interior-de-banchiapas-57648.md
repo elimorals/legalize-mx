@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-banchiapas-57648"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-27"
-last_updated: "2007-06-27"
+last_updated: "2010-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE BANCHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE BANCHIAPAS, PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 27 de junio de 2007.
 
@@ -390,3 +392,17 @@ Artículo Quinto.- En cumplimiento al artículo 8°, de la Ley Orgánica de la A
 Dado en la Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintisiete días del mes de junio del año dos mil siete.
 
 Juan Sabines Guerrero, Gobernador del Estado. - Jorge Antonio Morales Messner, Secretario de Gobierno.- María de los Ángeles Cruz Hernández, Secretaría de Desarrollo Social.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE FEBRERO DE 2010.
+
+Artículo Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de BANCHIAPAS, publicado en el Periódico Oficial número 034, Tercera Sección, de fecha veintisiete de junio de dos mil siete; asimismo, se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Reglamento Interior y que se opongan al mismo.
+
+Artículo Tercero.- Para las cuestiones no previstas en el presente Reglamento Interior, y en los que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Director General resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento, respecto de los Departamentos y demás actividades del personal, se estará a lo dispuesto por el Manual de Organización de BANCHIAPAS.
+
+Artículo Quinto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial.
