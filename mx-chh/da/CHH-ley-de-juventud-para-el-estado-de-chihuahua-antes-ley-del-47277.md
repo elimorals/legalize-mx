@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-antes-ley-del-47277
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-10"
-last_updated: "2007-09-12"
+last_updated: "2010-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA -ANTES LEY DEL INSTITUTO CHIHUAHUENSE DE LA JUVENTUD-
 
-LEY DEL INSTITUTO CHIHUAHUENSE DE LA JUVENTUD
+LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 10 de diciembre de 2005.
 
@@ -45,357 +45,667 @@ DECRETA
 
 Se crea la Ley del Instituto Chihuahuense de la Juventud para el Estado de Chihuahua, para quedar redactada de la siguiente manera:
 
-LEY DEL INSTITUTO CHIHUAHUENSE DE LA JUVENTUD
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NUMERO 744/09 I P.O. POR LA SEXAGESIMA SEGUNDA LEGISLATURA, MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA PRESENTE LEY DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA MODIFICACION, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2010.</small>
 
-### CAPÍTULO I. Disposiciones Generales
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE LEY, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE FEBRERO DE 2010)</small>
+
+LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 1.
 
-Se crea el “Instituto Chihuahuense de la Juventud” como Organismo Público Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Fomento Social, con personalidad jurídica y patrimonio propio.
+La presente Ley es de orden público e interés social y tiene por objeto garantizar las condiciones para el ejercicio pleno de los derechos de las personas jóvenes.
 
-Este Organismo tendrá su domicilio en la ciudad de Chihuahua, Chihuahua, con representación, en su caso, en cada uno de los municipios de la Entidad, previa autorización de la Junta Directiva.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 2.
 
-Para efectos de la presente Ley, se considerarán como jóvenes, a las personas de entre 12 y 35 años de edad, sin distinción de sexo, credo, origen o situación social.
+Es materia de regulación de la presente Ley:
+
+I. Los lineamientos que deberán seguirse en el diseño, instrumentación y evaluación de las políticas públicas;
+
+II. Los medios para lograr la integración plena de las personas jóvenes como actores estratégicos del desarrollo;
+
+III. La estructura orgánica y atribuciones del Instituto Chihuahuense de la Juventud, y
+
+IV. Los medios de participación de las personas jóvenes en el diseño, instrumentación, evaluación y el seguimiento de las políticas públicas en la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 3.
 
-El Instituto tendrá por objeto:
+Para los efectos de esta Ley, se considera persona joven aquella cuya edad esté comprendida entre los 12 y 29 años cumplidos.
 
-I. Definir e instrumentar las políticas públicas en materia de juventud del Poder Ejecutivo, que permitan incorporar plenamente a los jóvenes al desarrollo del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Asesorar al Ejecutivo Estatal en la planeación y programación de las políticas y acciones relacionadas con el desarrollo de la juventud para la elaboración del Plan Estatal de Desarrollo y de acuerdo al mismo;
-
-III. Actuar como órgano de asesoría y consulta en materia de juventud a las Dependencias y Entidades del Poder Ejecutivo, y de los poderes Legislativo y Judicial del Estado, así como de los ayuntamientos, y de los Sectores Social y Privado, cuando así lo requieran;
-
-IV. Promover coordinadamente con las Secretarías, Dependencias y Organismos del Poder Ejecutivo del Estado en el ámbito de sus respectivas competencias, las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, culturales y derechos, tendientes a la inclusión de este sector en el desarrollo del Estado.
-
-V. Fungir como representante del Ejecutivo Estatal en materia de juventud ante el Gobierno Federal, Entidades Federativas y municipios, organizaciones privadas, sociales, organismos nacionales e internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el Ejecutivo solicite su participación.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 4.
 
-Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
+Las personas jóvenes gozan de todos los derechos garantizados en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, instrumentos internacionales sobre derechos humanos y en la legislación especial relativa al tema.
 
-I. Concertar acuerdos y celebrar convenios con las autoridades Federales y Municipales, inclusive con autoridades de otras Entidades Federativas, para promover y ejecutar, con la participación de los sectores social y privado, las políticas, acciones y programas tendientes al desarrollo social de la juventud;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Promover la colaboración y coordinación interinstitucional con organismos gubernamentales y no gubernamentales y de cooperación en el ámbito estatal, como mecanismo eficaz para fortalecer las acciones a favor de la juventud;
-
-III. Celebrar convenios de colaboración con organizaciones privadas y sociales, nacionales e internacionales para el desarrollo de proyectos que beneficien a la juventud;
-
-IV. Realizar, promover y difundir estudios e investigaciones sobre la problemática que aqueja a la juventud y demás temas y asuntos de interés para los jóvenes;
-
-V. Recibir y canalizar propuestas, solicitudes, sugerencias e inquietudes de la juventud a los organismos públicos, privados y sociales que correspondan;
-
-VI. Auxiliar a las dependencias y organismos del Poder Ejecutivo del Estado y de los municipios, en la promoción y difusión de los servicios que presten a la juventud, cuando así lo requieran;
-
-VII. Prestar los servicios que se establezcan en los programas que formule el Instituto en aplicación de esta Ley;
-
-VIII. Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes a favor de la juventud del Estado, en los distintos ámbitos del acontecer nacional e internacional;
-
-IX. Elaborar, en coordinación con las demás dependencias y organismos del Ejecutivo del Estado, programas y cursos de capacitación y desarrollo destinados a jóvenes;
-
-X. Elaborar, con base en el Plan Estatal de Desarrollo, el Programa Estatal de la Juventud y ejecutar las acciones necesarias para su cumplimiento;
-
-XI. Promover la creación de Institutos Municipales de la Juventud, buscando la participación de las distintas etnias que se encuentran en el Estado, en los programas de atención directa a la juventud, tomando siempre en cuenta sus usos, costumbres, tradiciones y prácticas jurídicas. En todos los casos, el encargado de Atención a la Juventud dependerá directamente del municipio que corresponda.
-
-XII. Impulsar el mejoramiento de las instalaciones y servicios destinados a la juventud en el Estado.
-
-XIII. Establecer lineamientos e impulsar la participación juvenil en eventos de carácter estatal, nacional e internacional;
-
-XIV. Establecer, coordinar e impulsar programas que favorezcan el desenvolvimiento y expresión de la juventud del Estado; y
-
-XV. Las demás que le otorguen la presente Ley, su reglamento y demás disposiciones legales.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 5.
 
-El Instituto promoverá, en todo momento, que la juventud tenga acceso:
+Las disposiciones del presente ordenamiento son complementarias a las establecidas para quienes se encuentren entre los 12 años de edad y menores de 18, previstas en las leyes específicas para las personas menores de edad.
 
-I. A los servicios y beneficios sociales, económicos, políticos, culturales, informativos y recreativos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Al trabajo digno y bien remunerado;
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
-III. Al sistema educativo;
+### CAPÍTULO II. DE LA POLÍTICA PÚBLICA ESTATAL EN MATERIA DE JUVENTUD
 
-IV. A los sistemas de salud;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. A espacios de expresión cultural, en todas sus manifestaciones.
-
-VI. Al disfrute de actividades de recreación y al acceso a espacios recreativos;
-
-VII. A la práctica del deporte;
-
-VIII. A la participación social y política;
-
-IX. A constituir asociaciones y organizaciones que busquen hacer realidad sus demandas, aspiraciones y proyectos;
-
-X. A recibir, analizar, sistematizar y difundir información objetiva y oportuna que le sea de importancia para sus proyectos de vida;
-
-XI. A disfrutar de un medio ambiente natural y social sano que respalde su desarrollo integral en el Estado; y
-
-XII. A la oportunidad de integrarse a la sociedad y acceder a las oportunidades que mejoren su calidad de vida, particularmente en el caso de jóvenes en situación de desigualdad, inequidad, vulnerabilidad y marginación.
-
-### CAPÍTULO II. Del Patrimonio del Instituto
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 6.
 
-El Ejecutivo del Estado deberá acompañar los Estados Financieros del Instituto a la Cuenta Pública Anual.
+La planeación, programación y presupuestación de las políticas públicas en materia de juventud, además de atender a lo dispuesto en la Ley de Desarrollo Social y Humano para el Estado de Chihuahua, deberá tomar en cuenta:
+
+I. Sus particularidades y heterogeneidad;
+
+II. Su participación efectiva y protagónica;
+
+III. La autonomía progresiva en el ejercicio de los derechos de las personas jóvenes mayores de 12 años de edad, pero menores de 18, y
+
+IV. La corresponsabilidad entre las personas jóvenes, su familia, la sociedad y el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 7.
 
-El Patrimonio del Instituto se integrará con:
+La planeación, programación y presupuestación de las políticas públicas en la materia que regula el presente ordenamiento, se llevará a cabo a través de un apartado dentro del Programa Estatal de Desarrollo Social y Humano, que tenderá a:
 
-I. Las aportaciones que realice a su favor el Gobierno Estatal y los recursos que se le asignen en el Presupuesto de Egresos del Estado.
+I. Fomentar la ciudadanía plena, entendida ésta como el ejercicio de los derechos civiles, políticos, económicos, sociales y culturales;
 
-II. Los bienes muebles e inmuebles que adquiera o se le destinen para su servicio.
+II. Promover programas y proyectos tendientes a generar una cultura de respeto, tolerancia y reconocimiento de los derechos, valores, potencialidades y conductas de las personas jóvenes;
 
-III. Las aportaciones en dinero o en especie, que reciba del sector público, social, privado, nacional e internacional, los cuales de ninguna manera podrán implicar condiciones contrarias a su objeto, conforme lo establece esta Ley;
+III. Fomentar la cohesión social, con especial énfasis en la inclusión de las personas jóvenes indígenas y las que pertenezcan a minorías culturales;
 
-IV. Las aportaciones, subsidios, apoyos y subvenciones que le otorguen los gobiernos Federal, Estatal o Municipales;
+IV. Impulsar acciones tendientes a modificar las disposiciones jurídicas y administrativas prejuiciosas, discriminatorias o estigmatizantes hacia las culturas juveniles y a las conductas de las personas jóvenes;
 
-V. Los recursos que el propio Instituto genere; y
+V. Impulsar acciones compensatorias a fin de lograr la equidad en el desarrollo social y humano de las personas jóvenes de las Zonas de Atención Prioritaria;
 
-VI. Los demás recursos, bienes y derechos que se adquieran o reciban por cualquier título legal.
+VI. Generar espacios de participación e interacción, así como el apoyo a la organización en redes de acción;
+
+VII. Promover una conciencia de responsabilidad social en las personas jóvenes e incorporarlas al voluntariado en las acciones tendientes al desarrollo social y humano;
+
+VIII. Proporcionar atención integral en salud, con especial énfasis en las acciones de prevención, considerando su entorno familiar y social;
+
+IX. Erradicar el analfabetismo, prevenir la deserción escolar y procurar el incremento de años de estudio;
+
+X. Orientar la demanda educativa hacia la formación para el trabajo y las carreras que atiendan a las necesidades de la oferta laboral y de desarrollo del Estado;
+
+XI. Asegurar el acceso equitativo a la formación escolar;
+
+XII. Apoyar la incorporación al sector laboral de las personas jóvenes que hayan concluido su preparación técnica y profesional;
+
+XIII. Asesorar y apoyar a jóvenes emprendedores mediante capacitación, utilización de nuevas tecnologías, desarrollo de procesos productivos y de comercialización, acceso a información de mercados y fuentes blandas de financiamiento;
+
+XIV. Promover la oferta de vivienda adecuada a las condiciones económicas y culturales de las personas jóvenes, así como mecanismos de ahorro para su financiamiento;
+
+XV. Generar acciones para la prevención del delito y programas de reinserción social que atiendan a la naturaleza de los factores delictivos, y
+
+XVI. Fomentar la cultura de la legalidad, el respeto de los derechos humanos y la solución pacífica de los conflictos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 8.
 
-El Instituto contará con los siguientes órganos:
+El Instituto Chihuahuense de la Juventud participará, conjuntamente con las dependencias y entidades de la administración pública estatal, en la formulación de los programas y proyectos de la política pública en la materia.
 
-I. Junta Directiva;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Dirección, y
-
-III. Los Órganos de Vigilancia.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 9.
 
-La representación de la Junta Directiva, para la celebración de todo acto o negocio jurídico que deba realizarse en el desempeño de las funciones que al Instituto le confiere la presente Ley, le corresponderá al Director.
+Los recursos destinados a los programas y proyectos para las personas jóvenes serán objeto de seguimiento y evaluación, de acuerdo a lo dispuesto por la Ley de Desarrollo Social y Humano para el Estado de Chihuahua, por lo que deberán contener la información sobre la población objetivo y metas específicas, así como las evaluaciones de impacto, eficiencia y eficacia.
+
+La información referida en el párrafo anterior, formará parte del Sistema de Información para el Desarrollo Social y Humano.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 10.
 
-La Junta Directiva se integrará por:
+Los objetivos de la política municipal deberán ser congruentes con los que correspondan a la política nacional y estatal en la materia, atendiendo a las particularidades propias del municipio.
 
-I. Un Presidente, que será el Titular de la Secretaría de Fomento Social de Gobierno del Estado, quien puede designar un representante.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Un Secretario, que será el Director del Instituto, quien contará sólo con voz y tendrá a su cargo el manejo inmediato de las sesiones. A falta temporal de éste, asumirá la secretaría el inferior jerárquico inmediato del Director;
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
-III. Cinco Vocales, que serán los titulares o a quiénes estos designen en su representación, debiendo tener, por lo menos, la categoría de Director de las siguientes Dependencias:
+### CAPÍTULO III. DEL INSTITUTO CHIHUAHUENSE DE LA JUVENTUD
 
-a).- Secretaría de Finanzas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b).- Secretaría de Administración;
-
-c).- Secretaría de Desarrollo Municipal;
-
-d).- Secretaría de Educación y Cultura;
-
-e).- Secretaría de Seguridad Pública.
-
-Los miembros de la Junta Directiva contarán con voz y voto en las sesiones de la misma, el cargo de miembro tendrá el carácter de honorífico.
-
-### CAPÍTULO III. De la Estructura y Funciones del Instituto
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 11.
 
-El Presidente de la Junta Directiva podrá invitar a participar, con voz pero sin voto, a personalidades distinguidas de los sectores social y privado que por su relación, nexos, vinculación y aportaciones con la juventud e importancia de los asuntos a tratar en dicha reunión, tengan interés directo en la misma y puedan hacer aportaciones en la materia.
+Se crea el Instituto Chihuahuense de la Juventud, como Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Fomento Social, con personalidad jurídica y patrimonio propios, con domicilio en la ciudad de Chihuahua, Chihuahua; tendrá como objeto asesorar y auxiliar al Poder Ejecutivo del Estado en la formulación e instrumentación de la política pública en materia de juventud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 12.
 
-La Junta Directiva se reunirá ordinariamente con la periodicidad que señale el Reglamento, sin que pueda ser menor a seis veces al año.
+El Instituto tiene las siguientes atribuciones:
 
-La Junta Directiva sesionará válidamente con la asistencia de, por lo menos, la mitad más uno de sus miembros.
+I. Proponer a las Comisiones Estatal e Interinstitucional para el Desarrollo Social y Humano, políticas y programas, así como la celebración de acuerdos y convenios en materia de juventud;
+
+II. Promover y vigilar que en el diseño, instrumentación y evaluación de las políticas públicas, en los ámbitos estatal y municipal, se atiendan los principios y objetivos en la materia;
+
+III. Emitir opinión sobre los programas y proyectos de las diversas dependencias y entidades de la administración pública estatal, relacionados con la materia;
+
+IV. Representar al titular del Poder Ejecutivo del Estado en la materia que regula el presente ordenamiento;
+
+V. Proponer al titular del Poder Ejecutivo del Estado, la celebración de acuerdos y convenios con autoridades federales y municipales o de otras Entidades Federativas, así como con los sectores social y privado, para ejecutar acciones de desarrollo humano y social a favor de las personas jóvenes;
+
+VI. Celebrar convenios de colaboración con organizaciones nacionales e internacionales para el desarrollo de proyectos orientados a las personas jóvenes;
+
+VII. Realizar, promover y difundir estudios, diagnósticos e investigaciones sobre la problemática que como grupo social enfrentan las personas jóvenes;
+
+VIII. Atender y, en su caso, canalizar ante las autoridades competentes los asuntos que se le planteen sobre la violación a los derechos de las personas jóvenes;
+
+IX. Coadyuvar con las dependencias y entidades de la administración pública estatal y municipal en la identificación de los requerimientos básicos de desarrollo integral de las personas jóvenes y darle seguimiento a su atención;
+
+X. Operar, en coordinación con las autoridades competentes, programas de autoempleo y bolsas de trabajo;
+
+XI. Otorgar reconocimientos a las personas jóvenes por sus actividades sobresalientes y a quienes se destaquen en el desarrollo de acciones a favor de la juventud en el Estado;
+
+XII. Elaborar, en coordinación con las autoridades correspondientes, programas de capacitación e información sobre adicciones, nutrición, educación sexual, salud reproductiva, medio ambiente, género, equidad, derechos humanos, vivienda, liderazgo social, cultura de la legalidad, participación social, desarrollo comunitario, solución pacífica de conflictos y, en general, todos aquellos que estén orientados al desarrollo de las personas jóvenes;
+
+XIII. Impulsar la integración de órganos municipales de atención a la juventud, así como apoyarlos mediante la asesoría y capacitación que requieran para ello;
+
+XIV. Promover que en los programas de atención directa a la juventud, se contemplen acciones específicas para las personas jóvenes indígenas y de las distintas minorías culturales;
+
+XV. Promover la participación efectiva de las personas jóvenes en los diferentes ámbitos en que se desenvuelvan;
+
+XVI. Gestionar, ante los diversos órdenes de gobierno y con los sectores social y privado, la utilización de espacios de expresión;
+
+XVII. Proponer a la administración pública estatal y municipal, las adecuaciones necesarias a las disposiciones de carácter administrativo, a fin de favorecer el ejercicio pleno de los derechos de las personas jóvenes;
+
+XVIII. Impulsar la creación de organizaciones y redes de acción de personas jóvenes;
+
+XIX. Proporcionar asesoría y capacitación para la operación de comités comunitarios juveniles;
+
+XX. Servir como órgano de vinculación entre las personas jóvenes y las dependencias y entidades de la administración pública, así como con los sectores social y privado;
+
+XXI. Proporcionar, en coordinación con las autoridades competentes, capacitación, asistencia técnica y asesoría para la organización de proyectos productivos diseñados por las personas jóvenes, así como destinar recursos y apoyo legal para la realización de estas actividades, en los términos de los artículos 36, 37 y 38 de la Ley de Desarrollo Social y Humano para el Estado de Chihuahua;
+
+XXII. Diseñar e instrumentar su Programa Institucional;
+
+XXIII. Operar un Sistema de Información en Materia de Juventud;
+
+XXIV. Operar un Sistema de Comunicación que permita vincular al Instituto, personas jóvenes, agrupaciones y organizaciones juveniles, y
+
+XXV. Las demás que le otorguen la presente Ley y otras disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 13.
 
-La Junta Directiva tendrá las siguientes facultades:
+El patrimonio del Instituto Chihuahuense de la Juventud se integrará con:
 
-I. Establecer, en congruencia con el Plan Estatal de Desarrollo, las políticas estatales y definir las prioridades a las que deberá sujetarse el Instituto relativas a la dirección, desarrollo, promoción, fomento, difusión e investigación de los derechos y obligaciones de la juventud;
+I. Los recursos que se le asignen en el Presupuesto de Egresos del Estado;
 
-II.- Aprobar los programas y el presupuesto del Instituto, así como sus modificaciones, en los términos de la legislación aplicable. En lo tocante al presupuesto y a los programas financieros, con excepción de aquellos incluidos en el Presupuesto de Egresos del Estado de Chihuahua, bastará con la aprobación de la Junta Directiva;
+II. Los bienes muebles e inmuebles que adquiera o se le destinen para su servicio;
 
-III.- Aprobar, de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar el Instituto con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles. El Director y, en su caso, los servidores públicos que deban intervenir de conformidad con el Reglamento, realizarán tales actos bajo su responsabilidad, con sujeción a las directrices fijadas por la Junta Directiva;
+III. Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que los gobiernos federal, estatal, municipales y otras entidades públicas le otorguen o destinen;
 
-IV. Aprobar, en su caso, a propuesta del Director, el nombramiento y remoción del personal del Instituto; así como la estructura básica de la organización del Instituto y las modificaciones que procedan a la misma;
+IV. Los subsidios, donaciones y legados que reciba de personas físicas o morales, nacionales o extranjeras, los cuales de ninguna manera podrán implicar condiciones contrarias a su objeto conforme lo establece la Ley;
 
-V. Autorizar la creación de comités de apoyo;
+V. Los recursos que el propio Instituto genere, y
 
-VI. Establecer, con sujeción a las disposiciones legales relativas y con la intervención que corresponda a las dependencias estatales, las normas y bases para el arrendamiento y enajenación de inmuebles, de acuerdo a los procedimientos establecidos en el Reglamento de esta Ley;
+VI. Los demás recursos, bienes y derechos que adquiera o reciba por cualquier título legal.
 
-VII. Analizar y aprobar, en su caso, los informes periódicos que rinda el Director; con la intervención que corresponda a los Órganos de Control Estatal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios que realice el Instituto y verificar que los mismos se apliquen precisamente a los fines señalados, conforme a las instrucciones de la Coordinadora de Sector correspondiente;
-
-IX. Conocer oportunamente el cumplimiento de los planes, programas, presupuestos, reglamentos, manuales, sistemas y políticas, a efecto de ponderar las causas que determinen variaciones con respecto a lo autorizado y, en su caso, dictar las medidas correctivas que procedan en materia de planeación, organización o dirección;
-
-X. Designar comisionados especiales en los cuales el Instituto delegue algunas de sus facultades;
-
-XI. Realizar actos que sean necesarios para el cumplimiento de los objetivos del Instituto y para los que la Junta Directiva tenga facultades en términos de la Ley o del Reglamento;
-
-XII. Formular los lineamientos necesarios para racionalizar las estructuras de organización y el uso de los recursos disponibles, así como delinear las políticas específicas de apoyo a prioridades del sector juvenil o bien, respecto de los asuntos que se consideren relevantes;
-
-XIII. Aprobar, vigilar y evaluar el Programa Anual de Trabajo, y los programas institucionales de corto, mediano y largo plazo que sean elaborados por el Director;
-
-XIV. Evaluar los presupuestos del Instituto, en concordancia con el Plan Estatal de Desarrollo, los Programas Sectoriales y demás disposiciones relativas;
-
-XV. Vigilar que el Instituto conduzca sus actividades en forma programada y con base en las políticas sectoriales, prioridades y restricciones que se deriven del Sistema Estatal de Planeación;
-
-XVI. Autorizar la creación de grupos de trabajo que coadyuven en la formulación y evaluación de programas institucionales;
-
-XVII. Autorizar la creación de Comités Técnicos Especializados de apoyo que el Presidente o una tercera parte de los miembros de la propia Junta Directiva, propongan para el cumplimiento de los objetivos y para el desarrollo oportuno y eficaz de las actividades que realice el Instituto;
-
-XVIII. Aprobar los manuales de organización, de procedimientos y de servicios al público y demás instrumentos normativos transcendentes que regulen el funcionamiento del Instituto, así como las reformas o adiciones a dichos ordenamientos;
-
-XIX Aprobar el contenido de las actas que se levanten de las sesiones que se celebren, ya sean ordinarias o extraordinarias;
-
-XX. Aprobar el calendario anual de sesiones;
-
-XXI.- Proporcionar al Comisario la información que solicite para el desarrollo de sus funciones;
-
-XXII. Analizar y considerar el informe que rinda el Comisario para la programación de actividades del Instituto, en sus aspectos preventivos y correctivos;
-
-XXIII. Aprobar las medidas que proponga el Director para atender los informes que presente el comisario, resultantes de las auditorias, exámenes y evaluaciones que haya realizado;
-
-XXIV. Delegar facultades a favor del Director o a favor de Delegados, a propuesta del primero;
-
-XXV. Ejercer las facultades que la ley Orgánica de Poder Ejecutivo del Estado de Chihuahua, la Ley de Entidades Paraestatales del Estado de Chihuahua y demás disposiciones relativas le asignen; y
-
-XXVI. Determinar una fianza suficiente que garantice la reparación de los daños que se pudieran ocasionar por concesionarse u otorgarse en uso de las instalaciones a su cargo a los particulares o a otros entes de carácter público.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 14.
 
-El Director del Instituto será designado o removido por el titular del Poder Ejecutivo del Estado, a propuesta del Secretario de Fomento Social.
+Los estados financieros del Instituto deberán acompañarse a la cuenta pública anual de Gobierno del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 15.
 
-Para ser Director del Instituto se requiere:
+El Instituto Chihuahuense de la Juventud contará con la siguiente estructura orgánica:
 
-I. Ser ciudadano mexicano, chihuahuense en pleno ejercicio de sus derechos, no tener más de treinta y cinco años de edad cumplidos al día de su nombramiento;
+I. Junta Directiva;
 
-II. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+II. Dirección General, y
 
-III. No haber sido condenado por la comisión de algún delito doloso.
+III. Órgano de Vigilancia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 16.
 
-El Director tendrá las siguientes atribuciones:
+La Junta Directiva se integrará por quien ocupe la titularidad de las siguientes instancias:
 
-I. Representar legalmente al Instituto;
+I. Secretaría de Fomento Social;
 
-II. Administrar el patrimonio del Instituto;
+II. Secretaría de Finanzas y Administración;
 
-III. Ejecutar, instrumentar y vigilar el cumplimiento de los acuerdos de la Junta Directiva;
+III. Secretaría de Planeación y Evaluación;
 
-IV. Proponer a la Junta Directiva, quien en su caso aprobará los Programas anuales de Políticas Públicas en Materia de Juventud, así como el Manual de Organización General y los correspondientes de procedimientos;
+IV. Secretaría de Educación y Cultura;
 
-V. Proponer el proyecto de reglamento interior a la Junta Directiva para la aprobación, en su caso;
+V. Secretaría de Desarrollo Industrial;
 
-VI. Formular anualmente el proyecto de presupuesto del Instituto, para la aprobación de la Junta Directiva;
+VI. Secretaría de Desarrollo Comercial y Turístico;
 
-VII. Someter a la aprobación de la Junta Directiva, el nombramiento y remoción del personal del Instituto, de conformidad a lo establecido en la Ley de Entidades Paraestatales;
+VII. Dirección General del Instituto Chihuahuense de la Juventud, y
 
-VIII. Presentar a la Junta Directiva un informe anual sobre el desempeño de las funciones del Instituto;
+VIII. Tres integrantes del Consejo Estatal de la Juventud.
 
-IX. Recabar información y elementos estadísticos sobre las funciones del Instituto, para mejorar su desempeño;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X. Someter a la aprobación de la Junta Directiva las bases y programas generales que regulen los contratos, convenios o acuerdos que deba celebrar el Instituto en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles, de conformidad con lo dispuesto en las leyes;
-
-XI. Someter a la aprobación de la Junta Directiva las normas y bases para el arrendamiento y enajenación de inmuebles, con sujeción a las disposiciones legales relativas y con la intervención que corresponda a las dependencias estatales;
-
-XII. Celebrar contratos, convenios o acuerdos con terceros, tratándose de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles, bajo su responsabilidad y con sujeción a lo dispuesto en las leyes aplicables y conforme a las directrices que hayan sido fijadas por la Junta Directiva;
-
-XIII. Proponer a la Junta Directiva para su aprobación, en su caso, la estructura básica de la organización del Instituto, las modificaciones que procedan a la misma y la creación de comités de apoyo; y
-
-XIV. Las demás que le otorguen la presente Ley, su Reglamento, la Junta Directiva y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 17.
 
-Los trabajadores al servicio del Instituto estarán sujetos, en sus relaciones laborales, a lo dispuesto por el apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley reglamentaria.
+La Presidencia de la Junta Directiva recaerá en quien ocupe la titularidad de la Secretaría de Fomento Social.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 18.
 
-El órgano de vigilancia del Instituto estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría.
+Quien ocupe la titularidad de la Dirección General del Instituto Chihuahuense de la Juventud, únicamente tendrá derecho a voz en las sesiones de la Junta Directiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 19.
 
-La actuación de los Comisarios se ajustará, en todo caso, a lo dispuesto por la Ley de Entidades Paraestatales del Estado de Chihuahua por las demás disposiciones legales aplicables.
+Podrán participar en la Junta Directiva, con derecho a voz, los titulares o delegados de las dependencias y entidades de la administración pública federal, estatal y municipal, así como las demás personas que se estime necesario, a invitación expresa de quien ocupe el cargo de Presidente.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 20.
 
-La Secretaría de la Contraloría del Estado, así como la Auditoría Superior del Estado realizarán auditorías y revisiones al Instituto, a fin de supervisar el adecuado funcionamiento del control presupuestal, el cumplimiento de las responsabilidades a cargo de los servidores públicos y, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido, además de lo que contemplan las disposiciones legales aplicables.
+Los miembros de la Junta Directiva serán suplidos en sus ausencias en los términos que señala la Ley de Entidades Paraestatales del Estado de Chihuahua.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 21.
 
-El Consejo es un órgano de asesoría y consulta para la creación de los programas y políticas destinados a la protección, bienestar y desarrollo integral de la juventud, así como al fomento de los valores humanos y comunitarios.
+La Junta Directiva celebrará, como mínimo, seis sesiones ordinarias por año, y las extraordinarias que se requieran para el cumplimiento de sus atribuciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 22.
 
-El Consejo tendrá como sede la capital del Estado, sin perjuicio de que ocasionalmente sus miembros acuerden la determinación de otra sede.
+La Junta Directiva tiene las siguientes facultades:
 
-El Consejo se integrará por:
+I. Aprobar los programas, presupuestos, informes de actividades y estados financieros anuales del Instituto, así como la modificación de los mismos;
 
-I. Un Presidente, que será el Director del Instituto;
+II. Conocer y aprobar los acuerdos y convenios de coordinación que hayan de celebrarse con dependencias, entidades públicas y organizaciones de los sectores social y privado;
 
-II. Un Secretario Técnico, que será nombrado por el Director del Instituto;
+III. Nombrar y remover, a propuesta del Director General, a los servidores públicos que ocupen los dos cargos administrativos jerárquicamente inferiores al de aquél;
 
-III. Cinco jóvenes que hayan destacado en cualesquiera de los ámbitos artísticos, culturales, deportivos o de otra actividad, profesión u oficio.
+IV. Aprobar y, en su caso, modificar su Estatuto Orgánico y los Manuales de Organización, de Procedimientos y Servicios al Público;
 
-IV. Cinco representantes de organismos o asociaciones de los sectores público, privado o social, que sean conformadas por jóvenes cuyas actividades se vinculen con el objeto del Instituto; y
+V. Autorizar la creación de la estructura administrativa necesaria para el cumplimiento de las atribuciones del organismo;
 
-Así mismo, podrán ser invitados a participar con voz pero sin voto, aquellas personalidades distinguidas de los sectores social y privado que tengan alguna vinculación o aportaciones con la juventud.
+VI. Determinar la conformación de comités técnicos;
 
-Los cargos de los integrantes del Consejo serán honoríficos.
+VII. Conocer y aprobar los informes, dictámenes y recomendaciones de la Dirección General, de los Órganos de Vigilancia, de Auditoría Externa y de los correspondientes a la Evaluación del Desarrollo Social y Humano;
+
+VIII. Vigilar que los informes, dictámenes y recomendaciones a que se refiere la fracción anterior, sean debidamente atendidos por la Dirección General;
+
+IX. Proponer a la Comisión Interinstitucional de Desarrollo Social y Humano, los programas y proyectos en materia de juventud que deba contener el Programa Estatal de Desarrollo Social y Humano;
+
+X. Autorizar las propuestas que habrán de formularse a la Comisión Estatal para el Desarrollo Social y Humano, en cuanto a planes, programas y proyectos en materia de juventud;
+
+XI. Aprobar la aceptación de recursos, bienes, derechos, herencias, legados, donaciones y demás liberalidades que formarán parte del patrimonio del Instituto;
+
+XII. Realizar los actos que sean necesarios para el cumplimiento de las atribuciones del organismo, y
+
+XIII. Las demás facultades que le otorgue esta Ley y otras disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 23.
 
-Los integrantes del Consejo Estatal de la Juventud serán designados por el Director del Instituto, previa convocatoria que para tal efecto emita el Instituto, la cual deberá ser publicada por lo menos en uno de los diarios de mayor circulación en el Estado de Chihuahua. Los integrantes del Consejo Estatal de la Juventud durarán en su cargo dos años y podrán ser removidos por acuerdo de las dos terceras partes del Consejo.
+La Dirección General del Instituto Chihuahuense de la Juventud será ocupada por la persona que designe el titular del Poder Ejecutivo del Estado y podrá igualmente ser removida por éste.
+
+La designación será por un período de tres años y podrá ampliarse por un lapso igual, siempre que al inicio del segundo período la persona cumpla con los requisitos dispuestos en el artículo 24 del presente ordenamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 24.
 
-El Consejo Estatal de la Juventud tiene las siguientes atribuciones:
+Para ocupar la titularidad de la Dirección General del Instituto Chihuahuense de la Juventud se requiere:
 
-I. Colaborar y servir de órgano de consulta permanente para el establecimiento de políticas sociales que se establezcan en el Estado en materia de atención a la juventud;
+I. Ser persona mexicana en pleno ejercicio de sus derechos;
 
-II. Promover el respeto de los valores cívicos y morales de la juventud;
+II. Tener como máximo 29 años de edad al momento de su designación;
 
-III. Proponer acciones en educación de la juventud;
+III. Haber participado activamente en organizaciones juveniles durante un período mínimo de dos años;
 
-IV. Contribuir a que los jóvenes participen activa y conscientemente en los programas que tiendan a satisfacer sus necesidades básicas y desarrollar sus capacidades.
+IV. No haber sido dirigente de algún partido político cuando menos tres años anteriores al día de su nombramiento;
+
+V. No estar inhabilitado, mediante resolución de autoridad competente, para desempeñar un empleo, cargo o comisión en el servicio público, y
+
+VI. No haber sido condenado por la comisión de algún delito doloso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 25.
 
-El Consejo Estatal de la Juventud sesionará de forma ordinaria por lo menos una vez cada cuatro meses, pudiendo celebrar sesiones extraordinarias cuando así se requiera. En ambos casos, para la validez de las sesiones, se requerirá que la convocatoria haya sido suscrita por el Presidente y el Secretario Técnico, con un mínimo de cinco días de antelación a la sesión correspondiente y que hubiesen asistido, en el caso de la ordinaria, la mitad más uno de sus miembros que asistan a la misma.
+La Dirección General del Instituto tendrá las siguientes facultades:
 
-Los acuerdos del Consejo Estatal de la Juventud, se tomarán por mayoría de los presentes, teniendo el Presidente voto de calidad en caso de empate. De cada sesión del Consejo se levantará el acta correspondiente.
+I. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto del Instituto;
+
+II. Representar legalmente al Instituto y administrar su patrimonio;
+
+III. Ejercer las más amplias facultades de dominio, administración, pleitos y cobranzas, aun de aquellas que requieran de autorización o cláusula especial, en el entendido de que las facultades de dominio se ejercerán previo acuerdo de la Junta Directiva;
+
+IV. Proponer a la Junta Directiva las medidas que estime necesarias para el mejor funcionamiento del Instituto;
+
+V. Someter a la aprobación de la Junta Directiva, el nombramiento y remoción del personal del Instituto, de conformidad a lo establecido en la Ley de Entidades Paraestatales;
+
+VI. Proponer a la Junta Directiva, para su aprobación o modificación, los proyectos de Estatuto Orgánico, Manuales de Organización, de Procedimientos y Servicios al Público, así como la integración de comités técnicos;
+
+VII. Promover proyectos de investigación en materia de personas jóvenes;
+
+VIII. Formular y presentar para su aprobación, a la Junta Directiva, los proyectos de los Programas Institucional, Operativo Anual y de los presupuestos del organismo;
+
+IX. Cumplir y hacer cumplir los acuerdos y resoluciones que dicte la Junta Directiva;
+
+X. Presentar a la Junta Directiva un informe anual de las actividades realizadas por el organismo y de los resultados obtenidos, sin perjuicio de los informes específicos que aquélla le requiera con periodicidad diversa;
+
+XI. Proponer a la Junta Directiva los anteproyectos de acuerdos y convenios que sean necesarios para el cumplimiento de las atribuciones del organismo;
+
+XII. Asumir el carácter de Secretario de Actas en las sesiones de la Junta Directiva, y
+
+XIII. Las demás que le confieran la presente Ley, otras disposiciones jurídicas aplicables o las encomendadas por la Junta Directiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 26.
 
-El Instituto deberá crear el Registro Estatal de la Juventud Chihuahuense, como instrumento informativo estadístico de los jóvenes y organizaciones juveniles.
+El Órgano de Vigilancia estará a cargo de la persona con funciones de Comisario, que será designada por la Secretaría de la Contraloría, y tendrá las siguientes funciones:
+
+I. Vigilar que la administración de los recursos y el funcionamiento del Instituto, se hagan de acuerdo con lo que dispongan la presente Ley, los programas, presupuestos aprobados y demás disposiciones aplicables;
+
+II. Practicar revisiones a los estados financieros y las de carácter administrativo que se requieran;
+
+III. Recomendar a la Junta Directiva las medidas preventivas y correctivas que sean convenientes para la organización y funcionamiento del Instituto;
+
+IV. Asistir con derecho a voz a las sesiones de la Junta Directiva, y
+
+V. Las demás previstas en otros ordenamientos jurídicos aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 27.
 
-Para pertenecer al registro Estatal de la Juventud se requiere:
+La Secretaría de la Contraloría del Estado, así como la Auditoría Superior del Estado, realizarán auditorías y revisiones al Instituto, a fin de supervisar el adecuado funcionamiento del ejercicio y control presupuestal, el cumplimiento de las responsabilidades a cargo de los servidores públicos y, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido, además de lo que contemplan las disposiciones legales aplicables.
 
-I. Tener entre 12 y 35 años de edad; o
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Ser una organización juvenil constituida bajo cualquier figura legal, con un mínimo de veinte miembros, de los cuales cuando menos el 80% deberán tener menos (sic) 35 años de edad, debiendo acreditar, una vez cada año, que sigue cumpliendo con este requisito.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 28.
 
-El Instituto integrará una base de datos de la juventud y de las organizaciones juveniles en el Estado de Chihuahua, así como de otras instancias de gobierno, organismos de la sociedad civil e instituciones de asistencia privada cuyo objeto esté relacionado con la juventud, que permita el intercambio de conocimientos y experiencias de relevancia para los jóvenes.
+Los trabajadores al servicio del Instituto estarán sujetos, en sus relaciones laborales, a lo dispuesto por el apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria.
 
-### CAPÍTULO IV. La Dirección
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO IV. DEL CONSEJO ESTATAL DE LA JUVENTUD
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 29.
 
-Los integrantes del Registro Estatal de la Juventud Chihuahuense, tendrán derecho a proponer y presentar diagnósticos planes, programas y proyectos ante el Instituto que tengan que ver con la temática juvenil; así mismo, podrán gozar de los beneficios que otorgue el Instituto, de acuerdo a sus planes y programas, con las condiciones y restricciones correspondientes.
+El Consejo Estatal de la Juventud es un órgano de deliberación, asesoría y consulta del Instituto Chihuahuense de la Juventud, que tiene por objeto contribuir a que las personas jóvenes participen efectivamente en el diseño, instrumentación y evaluación de los programas y proyectos de la política pública en la materia que regula el presente ordenamiento.
 
-### CAPÍTULO V. Órganos de Vigilancia
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPÍTULO VI. Del Consejo Estatal de la Juventud
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
-### CAPÍTULO VII. Del Registro
+###### Artículo 30.
+
+El Consejo se integrará por:
+
+I. La persona que ocupe la titularidad de la Secretaría de Fomento Social, quien lo presidirá;
+
+II. Una Secretaría Técnica, que recaerá en quien ocupe la titularidad de la Dirección General del Instituto Chihuahuense de la Juventud;
+
+III. Una persona del Consejo de Desarrollo Social y Participación Ciudadana;
+
+IV. Cinco personas jóvenes que hayan destacado en cualesquiera de los ámbitos artístico, cultural, deportivo, social, profesional o de oficios, y
+
+V. Diez personas jóvenes que participen en organismos o asociaciones del sector social, cuyas actividades se vinculen a la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 31.
+
+Las personas a que se refieren las fracciones IV y V del artículo anterior, serán designadas por el Consejo con sus respectivos suplentes, previa convocatoria pública que para tal efecto se emita.
+
+Durarán en su cargo dos años y podrán ser removidas por la falta injustificada a dos sesiones continuas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 32.
+
+El cargo de Consejero será honorífico, por lo que no se percibirá remuneración alguna por su desempeño.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 33.
+
+El Consejo Estatal de la Juventud tiene las siguientes atribuciones:
+
+I. Formular propuestas sobre el diseño, instrumentación y evaluación de los programas, proyectos y acciones del Instituto;
+
+II. Servir como órgano de vinculación entre las personas jóvenes, las organizaciones del sector social y el Instituto;
+
+III. Emitir opiniones, sugerencias y recomendaciones sobre las evaluaciones a los programas, proyectos y acciones del Instituto;
+
+IV. Recomendar la celebración de acuerdos y convenios entre las dependencias y entidades de la administración pública estatal, con las del Ejecutivo Federal, de otras Entidades Federativas y de los ayuntamientos, así como con las organizaciones del sector social y privado;
+
+V. Determinar la conformación de comités técnicos y mesas de trabajo;
+
+VI. Participar en la selección de las personas jóvenes que deban ser premiadas o reconocidas por el Instituto Chihuahuense de la Juventud, y
+
+VII. Las demás que resulten necesarias para el cumplimiento de su objeto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 34.
+
+El Consejo Estatal de la Juventud sesionará de forma ordinaria cada dos meses, pudiendo celebrar sesiones extraordinarias cuando así se requiera.
+
+En ambos casos, para la validez de las sesiones, se requerirá que la convocatoria haya sido suscrita por quienes ocupen la titularidad de la Presidencia y de la Secretaría Técnica, que además se haya notificado con un mínimo de cinco días hábiles de antelación a la sesión correspondiente y que hubiesen asistido más de la mitad de sus miembros, si se tratare de una sesión ordinaria; las sesiones extraordinarias serán válidas con el número de miembros que asistan a la misma.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 35.
+
+Los acuerdos del Consejo Estatal de la Juventud se tomarán por mayoría de los presentes, teniendo el Presidente voto de calidad en caso de empate. De cada sesión del Consejo se levantará el acta correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO V. DEL SISTEMA DE INFORMACIÓN EN MATERIA DE JUVENTUD
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 36.
+
+El Sistema mencionado en la fracción XXIII del artículo 12, formará parte del Sistema de Información para el Desarrollo Social y Humano; tendrá como objetivo fundamental sistematizar la información para el diagnóstico, formulación, seguimiento y evaluación de la política pública en materia de juventud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 37.
+
+El Sistema de Información en Materia de Juventud deberá contener, como mínimo, lo siguiente:
+
+I. Un directorio permanentemente actualizado de dependencias y entidades de los tres órdenes de gobierno, así como de organizaciones de los sectores social y privado que realicen en el Estado actividades de desarrollo social y humano a favor de este grupo etario;
+
+II. La población objetivo, metas, productos, efectos e impactos de los programas y proyectos previstos y ejecutados por las dependencias y entidades de la administración pública estatal, así como de aquellos proyectos de las organizaciones del sector social apoyados con recursos gubernamentales;
+
+III. Los resultados de las evaluaciones que se realicen a los programas y proyectos, de conformidad con lo previsto en el artículo 9 de esta Ley;
+
+IV. La información relativa a la presupuestación y ejercicio de los recursos públicos de los programas y proyectos;
+
+V. Los padrones de personas jóvenes atendidas en los programas y proyectos públicos o de organizaciones de los sectores social y privado, apoyados con recursos públicos;
+
+VI. Los estudios e investigaciones realizados y la información estadística generada en la materia por las entidades públicas y organizaciones de los sectores social y privado, y
+
+VII. Los informes, quejas y denuncias que se formulen respecto de los programas, proyectos y servicios públicos en la materia, en los términos de las disposiciones legales aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 38.
+
+Los gobiernos municipales, en el ámbito de sus atribuciones, coadyuvarán a la integración y actualización del Sistema de Información referido en el artículo anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 39.
+
+Los datos contenidos en el Sistema de Información en Materia de Juventud, quedarán sujetos a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua y demás ordenamientos aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO VI. DE LA PARTICIPACIÓN
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 40.
+
+A fin de fomentar la ciudadanía plena, las personas jóvenes y las organizaciones que formen, podrán participar en el diseño, ejecución y evaluación de las políticas, programas y proyectos en la materia que regula el presente ordenamiento, conforme a las reglas que para tal efecto emita el Poder Ejecutivo del Estado, a través del Instituto Chihuahuense de la Juventud, y los ayuntamientos en el ámbito de su competencia, de acuerdo a lo establecido en el presente ordenamiento, la Ley de Desarrollo Social y Humano para el Estado de Chihuahua y demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 41.
+
+El Consejo de Desarrollo Social y Participación Ciudadana deberá incorporar a la comisión o grupo de trabajo cuyas actividades se vinculen a aspectos relacionados con las personas jóvenes, al número de representantes de organizaciones de este grupo etario que le permitan las disposiciones jurídicas que regulan su conformación y funcionamiento, con el propósito de facilitar su participación activa en el análisis, formulación, diseño y operación de las políticas públicas en la materia que aborda el presente ordenamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 42.
+
+Las organizaciones juveniles cuyos objetivos se enfoquen al desarrollo social y al apoyo comunitario, tendrán derecho a recibir asesoría, orientación y recursos para la realización de tales actividades. Para este efecto, deberán presentar el proyecto correspondiente ante el Instituto Chihuahuense de la Juventud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO VII. DE LAS SANCIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 43.
+
+Las organizaciones juveniles que reciban recursos públicos y no los apliquen al objeto para el cual fueron otorgados, o infrinjan lo establecido en la presente Ley y demás ordenamientos aplicables, estarán sujetas a las sanciones previstas por la Ley de Desarrollo Social y Humano para el Estado de Chihuahua.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 44.
+
+Los servidores públicos que en ejercicio de sus funciones o con motivo de ellas contravengan las disposiciones del presente ordenamiento, serán acreedores a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua y demás ordenamientos aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
+
+###### Artículo 45.
+
+Los procedimientos para la aplicación de sanciones de carácter pecuniario o administrativo y los de responsabilidad civil o penal en que puedan incurrir las personas u organizaciones juveniles, así como los servidores públicos, se desarrollarán autónomamente según su naturaleza y por la vía procesal que corresponda, conforme a las disposiciones jurídicas aplicables.
 
 ## TRANSITORIOS
 
@@ -474,3 +784,19 @@ En los ordenamientos jurídicos estatales que refieran la existencia de la Comis
 ###### ARTÍCULO CUARTO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE FEBRERO DE 2010
+
+PRIMERO. El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil diez, con las modalidades que se señalan en los artículos subsecuentes.
+
+SEGUNDO. Los numerales 16, 24, 30 y 31 de la presente Ley, entrarán en vigor a partir del mes de octubre del año dos mil diez.
+
+TERCERO. El Poder Ejecutivo del Estado deberá tener diseñado, a más tardar en el mes de abril del año dos mil diez, el apartado en materia de juventud que formará parte del Programa Estatal de Desarrollo Social y Humano.
+
+CUARTO. Los trabajos para el diseño, acopio y conformación del Sistema Estatal de Información en Materia de Juventud, deberán dar inicio a partir de que se concluya el diseño del apartado correspondiente a que se refiere el transitorio número tres del presente Decreto.
+
+QUINTO. Los asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante el Instituto Chihuahuense de la Juventud, continuarán rigiéndose hasta su conclusión por las disposiciones legales que les dieron origen.
+
+SEXTO. Las relaciones laborales de los trabajadores con que cuente el Instituto Chihuahuense de la Juventud, a la entrada en vigor del presente Decreto, no se verán afectadas en modo alguno, cualquiera que sea su naturaleza, y continuarán rigiéndose por las disposiciones que les dieron origen.
+
+SÉPTIMO. El Titular del Poder Ejecutivo Estatal deberá expedir el Reglamento de la presente Ley, en un término no mayor de noventa días posteriores a la entrada en vigor de este Decreto.
