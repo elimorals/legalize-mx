@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2009-12-30"
+last_updated: "2010-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE FEBRERO DE 2010.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -707,21 +707,17 @@ Cuando el servicio de hospedaje incluya servicios accesorios, tales como transpo
 
 ARTÍCULO 47 F.- Tratándose de vehículos nuevos el impuesto se determinará de conformidad con lo siguiente:
 
-I.- Para los vehículos de hasta 15 pasajeros, vehículos eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
+> <small>(REFORMADA, 3 DE FEBRERO DE 2010)</small>
+
+I.- Para los vehículos de hasta 15 pasajeros, vehículos eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, así como los vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
 
 TARIFA
 
-Límite inferior Límite superior Cuota fija Tasa para
+Límite Límite Cuota Tasa para aplicarse
 
-$ $ $ aplicarse
+inferior superior fija sobre el excedente del
 
-sobre el
-
-excedente
-
-del límite
-
-inferior %
+$ $ $ limite inferior %
 
 0.01 477,347.76 0.00 3.0
 
@@ -735,7 +731,9 @@ inferior %
 
 II.- Para vehículos destinados al transporte de más de 15 pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del vehículo.
 
-Para efectos de esta fracción se entiende como vehículos de más de 15 pasajeros, a los siguientes: camiones, minibuses, microbuses, omnibuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, cualquiera que sea su tipo, además de los vehículos Pick Up;
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
+
+Para efectos de esta fracción se entiende como vehículos de más de 15 pasajeros, a los siguientes: camiones, minibuses, microbuses, omnibuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, cualquiera que sea su tipo, además de los vehículos Pick Up cuyo valor total no rebase lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado;
 
 III.- Para vehículos cuyo peso bruto vehicular sea de 15 o más toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30.
 
@@ -779,7 +777,9 @@ Las cantidades establecidas en las tarifas de este artículo se actualizarán y 
 
 ARTÍCULO 47 G.- Tratándose de vehículos usados de fabricación nacional o importada, el impuesto se determinará conforme a lo siguiente:
 
-I.- En los casos de vehículos destinados al transporte de más de 15 pasajeros o de carga, y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, incluyendo los vehículos Pick Up así como aeronaves, el impuesto será el que resulte de lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2010)</small>
+
+I.- En los casos de vehículos destinados al transporte de más de 15 pasajeros o de carga, y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, incluyendo los vehículos Pick Up cuyo valor total no rebase lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, así como aeronaves, el impuesto será el que resulte de lo siguiente:
 
 a).- Multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
 
@@ -825,7 +825,9 @@ HELlCOPTEROS 551.00
 
 El monto de las cuotas establecidas en la tabla anterior se actualizará de conformidad con el mecanismo establecido en el inciso b) de esta fracción.
 
-II. Tratándose de automóviles usados, de fabricación nacional o importados, destinados al transporte de hasta 15 pasajeros, automóviles eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2010)</small>
+
+II. Tratándose de automóviles usados, de fabricación nacional o importados, destinados al transporte de hasta 15 pasajeros, automóviles eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, así como vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6,334 salarios mínimoºs (sic) del área geográfica a la que corresponde el Estado, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
 a).- El valor total del vehículo se multiplicará por el factor de antigüedad aplicable de acuerdo al año modelo del vehículo, de conformidad a la siguiente:
 
@@ -2736,3 +2738,9 @@ El Capítulo IV, del Título III de la Ley General de Hacienda del Estado de Yuc
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones de igual o menor rango en lo que se opongan al presente Decreto.
+
+P.O. 3 DE FEBRERO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+Las disposiciones de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
