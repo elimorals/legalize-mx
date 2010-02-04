@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-10167"
 country: "mx"
 rank: "ley"
 publication_date: "1991-09-07"
-last_updated: "2010-01-25"
+last_updated: "2010-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO: UNIVERSIDAD TECNOLOGICA DE NEZAHUALCOYOTL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE FEBRERO DE 2010 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO: UNIVERSIDAD TECNOLÓGICA DE NEZAHUALCÓYOTLXXX
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO: UNIVERSIDAD TECNOLÓGICA DE NEZAHUALCÓYOTL
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 25 DE ENERO DE 2010.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 4 DE FEBRERO DE 2010.]</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el sábado 7 de septiembre de 1991.
 
@@ -155,7 +155,9 @@ ARTICULO 8° Para ser miembro del Consejo Directivo se requiere:
 
 I. Ser ciudadano mexicano.
 
-II. (DEROGADA, G.G. 25 DE ENERO DE 2010)
+> <small>(F. DE E., G.G. 4 DE FEBRERO DE 2010)</small>
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Tener experiencia académica, profesional o equivalente.
 
@@ -247,7 +249,9 @@ ARTICULO 14° Para ser rector se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. (DEROGADA, G.G. 25 DE ENERO DE 2010)
+> <small>(F. DE E., G.G. 4 DE FEBRERO DE 2010)</small>
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Poseer Título de Educación Superior en las carreras que ofrece la Universidad o en áreas afines;
 
@@ -347,7 +351,9 @@ ARTICULO 22° Para ser secretario académico o de vinculación se requiere:
 
 I.- Ser ciudadano mexicano;
 
-II.- (DEROGADA, G.G. 25 DE ENERO DE 2010)
+> <small>(F. DE E., G.G. 4 DE FEBRERO DE 2010)</small>
+
+II. Tener, por lo menos, 25 años de edad;
 
 III.- Poseer título de educación superior en las carreras que ofrece la universidad o en áreas afines; y
 
@@ -417,7 +423,9 @@ VI.- Las demás que le señalen las disposiciones universitarias.
 
 ARTICULO 29° Para ser miembro el patronato se requiere:
 
-I.- (DEROGADA, G.G. 25 DE ENERO DE 2010)
+> <small>(F. DE E., G.G. 4 DE FEBRERO DE 2010)</small>
+
+I. Tener, por lo menos, 25 años de edad;
 
 II.- Ser persona de reconocida solvencia moral.
 
