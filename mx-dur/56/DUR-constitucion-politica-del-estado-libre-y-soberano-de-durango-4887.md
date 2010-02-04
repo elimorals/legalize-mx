@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2009-11-15"
+last_updated: "2010-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -337,7 +337,7 @@ Las formas alternativas de justicia deberán observarse en la aplicación de est
 
 Es obligación del poder público promover el desarrollo integral del Estado, mediante el fomento del crecimiento económico, una más justa distribución de la riqueza y el ingreso de la población estatal, evitando concentraciones o acaparamientos, que impidan la distribución adecuada de bienes y servicios a la población.
 
-En el desarrollo económico estatal concurrirán los sectores público, social y privado; corresponde al Gobierno del Estado procurar la armonía entre ellos, para cumplir con su responsabilidad social. El sector público cuidará de impulsar por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo del Estado.
+En el desarrollo económico estatal concurrirán los sectores públicos, social y privado; corresponde al Gobierno del Estado procurar la armonía entre ellos, para cumplir con su responsabilidad social. El sector público cuidará de impulsar por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo del Estado.
 
 El Ejecutivo Estatal, de acuerdo con la ley, organizará un sistema estatal de planeación democrática, el cual recogerá las aspiraciones y demandas de la sociedad, incorporándolas en un Plan Estatal de Desarrollo, al que se sujetarán obligatoriamente los programas de la Administración Pública Estatal.
 
@@ -1095,11 +1095,9 @@ I.- Llevar la correspondencia;
 
 II.- Tomar la protesta de ley al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado y del Tribunal para Menores Infractores del Poder Judicial del Estado, al Titular de la Entidad de Auditoría Superior del Estado y a los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango, en los términos prescritos por esta Constitución;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
-
-III.- Recibir los avisos de ausencia del Gobernador y conceder las autorizaciones, o, en su caso, licencias que solicite el Gobernador y los Magistrados del Tribunal Superior de Justicia, Magistrados Electorales, Magistrados del Tribunal para Menores Infractores del Poder Judicial del Estado y miembros del Consejo de la Judicatura;
+III.- Recibir los avisos de ausencia del Gobernador y conceder las autorizaciones, o, en su caso, licencias que soliciten los Diputados, el Gobernador y los Magistrados del Tribunal Superior de Justicia, Magistrados Electorales y miembros del Consejo de la Judicatura;
 
 IV.- Acordar por sí o a pedimento del Ejecutivo, la celebración de períodos extraordinarios de sesiones del Congreso;
 
@@ -3120,3 +3118,13 @@ P.O. 15 DE NOVIEMBRE DE 2009.
 PRIMERO. El presente decreto entrará en vigor una vez que se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, la Declaratoria que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 4 DE FEBRERO DE 2010
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
