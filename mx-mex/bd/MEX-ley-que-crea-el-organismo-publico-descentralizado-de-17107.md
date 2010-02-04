@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-17107"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-19"
-last_updated: "2010-01-25"
+last_updated: "2010-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE FEBRERO DE 2010 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 4 DE FEBRERO DE 2010.]</small>
 
 Ley publicada en la Sección Cuarta del Número 78 de la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 1994.
 
@@ -137,7 +137,9 @@ Para ser miembro de la Junta Directiva se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. (DEROGADA, G.G. 25 DE ENERO DE 2010)
+> <small>(F. DE E., G.G. 4 DE FEBRERO DE 2010)</small>
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Tener experiencia académica, profesional o laboral reconocida; y
 
@@ -219,7 +221,9 @@ Para ser Director General se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. (DEROGADA, G.G. 25 DE ENERO DE 2010)
+> <small>(F. DE E., G.G. 4 DE FEBRERO DE 2010)</small>
+
+II. Tener, por lo menos, 25 años de edad;
 
 III. Poseer título de licenciatura; y
 
