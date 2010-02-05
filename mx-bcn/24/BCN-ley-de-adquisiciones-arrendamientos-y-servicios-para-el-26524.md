@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2009-12-28"
+last_updated: "2010-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -91,7 +91,9 @@ XI.- Fabricante o productor regional.- Son las personas físicas o morales que l
 
 XII.- Productos o mercancías regionales.- Son los bienes y servicios desarrollados o transformados por fabricantes o productores regionales;
 
-XIII.- Distribuidor regional.- Es la persona física o moral que distribuye productos regionales o foráneos, del tipo específico a que se refiere el procedimiento de adquisición, arrendamiento o servicio respectivo;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2010)</small>
+
+XIII.- Distribuidor regional.- Es la persona física o moral que distribuye productos regionales o foráneos, del tipo específico a que se refiere el procedimiento de adquisición, arrendamiento o servicio respectivo, siempre y cuando tengan el asiento principal de sus negocios y su domicilio fiscal al menos con un año de antigüedad en el Estado; y (sic)
 
 XIV.- Medios electrónicos.- Los medios de comunicación electrónica que determine y autorice la unidad administrativa o la contraloría, en su ámbito de competencia, en los casos previstos por esta Ley;
 
@@ -137,9 +139,11 @@ El gasto de las adquisiciones, arrendamientos y servicios se sujetará, en su ca
 
 La unidad administrativa, la tesorería y la contraloría, en las materias de su competencia, estarán facultadas para interpretar la Ley y su Reglamento, así como para dictar las normas y políticas que sean necesarias para su adecuado cumplimiento, dichas normas y políticas deberán publicarse en el Periódico Oficial del Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 8.
 
-En igualdad de condiciones, siempre se preferirá a los fabricantes y distribuidores regionales de productos o mercancías regionales, sobre los foráneos. Se considera que existe igualdad de condiciones, cuando la diferencia entre los precios propuestos no sea mayor del tres por ciento.
+En igualdad de condiciones, siempre se preferirá a los fabricantes y distribuidores regionales de productos o mercancías regionales, sobre los foráneos. Se considera que existe igualdad de condiciones, cuando la diferencia entre los precios propuestos no sea mayor del cinco por ciento.
 
 Atendiendo a las disposiciones de la Ley y a las que de ella emanen, la Secretaría de Desarrollo Económico del Gobierno del Estado, dictará las disposiciones administrativas que tengan como objeto promover la participación de las empresas regionales, especialmente de las micro, pequeñas y medianas, las que deberán observar las unidades administrativas.
 
@@ -185,13 +189,21 @@ II.- Los objetivos, metas y previsiones de recursos establecidos en los presupue
 
 III.- A las disposiciones establecidas sobre la materia en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 15.
 
-Los órganos que requieran servicios de consultorías, asesorías, estudios e investigaciones, previamente verificarán si en sus archivos o, en su caso, en los de la coordinadora del sector correspondiente, existen trabajos sobre la materia o cuenta con personal adscrito que realice funciones o trabajos semejantes. De advertirse su existencia y de comprobar que los mismos satisfacen sus requerimientos, no procederá su contratación, con excepción de aquellos trabajos que sean necesarios para su adecuación, actualización o complemento.
+Los órganos que requieran servicios profesionales, de consultorías, asesorías, estudios e investigaciones, o servicios de difusión, previamente verificarán si en sus archivos o, en su caso, en los de la coordinadora del sector correspondiente, existen trabajos sobre la materia o cuenta con personal adscrito que realice funciones o trabajos semejantes. De advertirse su existencia y de comprobar que los mismos satisfacen sus requerimientos, no procederá su contratación, con excepción de aquellos trabajos que sean necesarios para su adecuación, actualización o complemento.
 
 A fin de cumplimentar lo anterior, los interesados deberán remitir a la unidad administrativa una descripción suscinta (sic) del objeto de los contratos que en estas materias se pretendan celebrar, así como el programa de trabajo, fechas de entrega, productos y la demás información que se requiera.
 
-Para la contratación de servicios de consultorías, asesorías, estudios e investigaciones, la unidad administrativa requerirá de la autorización escrita del titular del órgano solicitante, así como manifestación del responsable del área respectiva, de que no se cuenta con personal capacitado o disponible para su realización.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
+
+Para la contratación de servicios profesionales, de consultorías, asesorías, estudios e investigaciones, o servicios de difusión, la unidad administrativa requerirá de la autorización escrita del titular del órgano solicitante, así como manifestación del responsable del área respectiva, de que no se cuenta con personal capacitado o disponible para su realización.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE FEBRERO DE 2010)</small>
+
+En caso de proceder la contratación de los servicios previstos en el presente artículo, los proveedores quedarán obligados a presentar informes de sus obligaciones contractuales con la periodicidad que se establezca en el contrato.
 
 ###### ARTÍCULO 16.
 
@@ -385,7 +397,9 @@ VIII.- La indicación de que ninguna de las condiciones contenidas en las bases 
 
 IX.- Criterios claros y detallados para la adjudicación de los contratos de conformidad a lo establecido en el artículo 33 de esta Ley;
 
-X.- Descripción completa de los bienes o servicios, o indicación de los sistemas empleados para identificación de los mismos; información específica que requieran respecto a mantenimiento, asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; dibujos, cantidades, muestras y pruebas que se realizarán, así como método para ejecutarlas; en ningún caso se podrán especificar marcas que limiten la participación de productos o mercancías regionales;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2010)</small>
+
+X.- Descripción completa de los bienes o servicios, o indicación de los sistemas empleados para identificación de los mismos; información específica que requieran respecto a mantenimiento, asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; dibujos, cantidades, muestras y pruebas que se realizarán, así como método para ejecutarlas; en ningún caso se podrán especificar marcas que limiten la participación de productos, mercancías o distribuidores regionales;
 
 XI.- Plazo y condiciones de entrega, así como la indicación del lugar, dentro del territorio nacional, donde deberán efectuarse las entregas;
 
@@ -427,7 +441,9 @@ II.- En el caso de las bases de licitación, se publique un aviso en el Periódi
 
 No será necesario hacer la publicación del aviso a que se refiere la fracción anterior, cuando las modificaciones deriven de las juntas de aclaraciones, siempre que, a más tardar dentro del plazo señalado en este artículo, se entregue copia del acta respectiva a cada uno de los licitantes que hayan adquirido las bases de la correspondiente licitación.
 
-Las modificaciones de que trata este artículo en ningún caso podrán consistir en la sustitución de los bienes o servicios convocados originalmente, adición de otros de distintos rubros o en variación significativa de sus características.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
+
+Las modificaciones de que trata este artículo en ningún caso podrán consistir en la sustitución de los bienes o servicios convocados originalmente, adición de otros de distintos rubros o en variación significativa de sus características, que limiten la libre participación de productos, mercancías o distribuidores regionales.
 
 Cualquier modificación a las bases de la licitación, derivada del resultado de juntas de aclaraciones, será considerada como parte integrante de las propias bases de licitación.
 
@@ -461,7 +477,9 @@ Dentro de los criterios de adjudicación, podrá establecerse el relativo a cost
 
 Una vez realizada la evaluación de las proposiciones, el contrato se adjudicará de entre los licitantes, a aquel cuya propuesta resulte solvente; porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante, y garantiza satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
-Si resultare que dos o más proposiciones son solventes, porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicará a quien presente la proposición cuyo precio sea más bajo, incluyendo en su caso, el porcentaje previsto por la fracción III del artículo 23 de este Ordenamiento. En caso de que el precio también sea el mismo, se adjudicará mediante insaculación.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
+
+Si resultare que dos o más proposiciones son solventes, porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicará a quien presente la proposición cuyo precio sea más bajo, incluyendo en su caso, los porcentajes previstos en los artículos 8 y la fracción III del artículo 23 de este Ordenamiento. En caso de que el precio también sea el mismo, se adjudicará mediante insaculación.
 
 El Comité emitirá un dictamen que servirá como base para el fallo, en el que hará constar una reseña cronológica de los actos del procedimiento, el análisis de las proposiciones y las razones para admitirlas o desecharlas.
 
@@ -525,7 +543,11 @@ XII.- Se acepte la adquisición de bienes o la prestación de servicios a títul
 
 XIII.- Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados, semovientes y bienes usados;
 
-XIV.- Se trate de adquisiciones de armamento necesario para el desempeño de las funciones propias de las áreas de seguridad pública.
+XIV.- Se trate de adquisiciones de armamento necesario para el desempeño de las funciones propias de las áreas de seguridad pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE FEBRERO DE 2010)</small>
+
+XV.- Se trate de la contratación de servicios en los medios de comunicación social, incluidos radio, televisión, prensa escrita y medios electrónicos.
 
 ###### ARTÍCULO 39.
 
@@ -621,6 +643,10 @@ El proveedor no estará obligado a suministrar los bienes o prestar el servicio,
 
 El plazo para la entrega de los bienes o servicios contratados, empezará a contar a partir de la entrega del anticipo, en caso de que se haya ofrecido como forma de pago en las bases, y el proveedor lo haya solicitado en su propuesta.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE FEBRERO DE 2010)</small>
+
+En el caso de licitaciones para la adquisición de bienes, los plazos de entrega deberán ser fijados teniendo en consideración los tiempos de fabricación de los bienes a adquirirse.
+
 El atraso de la unidad administrativa en la formalización de los contratos respectivos, o en la entrega de los anticipos, prorrogará en igual plazo la fecha de cumplimiento de las obligaciones asumidas por ambas partes.
 
 Los derechos y obligaciones que se deriven de los contratos no podrán cederse en forma parcial ni total en favor de cualquier otra persona, con excepción de los derechos de cobro, en cuyo caso se deberá contar con el consentimiento previo de la unidad administrativa.
@@ -645,7 +671,9 @@ Los proveedores que celebren los contratos a que se refiere esta Ley, deberán g
 
 La unidad administrativa fijará las bases, forma y porcentajes a que deberán sujetarse las garantías que deban constituirse.
 
-La garantía de cumplimiento del contrato deberá presentarse a más tardar dentro de los doce días naturales siguientes a la firma del contrato, salvo que la entrega de los bienes o la prestación de los servicios se realice dentro del citado plazo y, la correspondiente al anticipo se presentará previamente a la entrega de éste, a más tardar en la fecha establecida en el contrato.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
+
+La garantía de cumplimiento del contrato deberá presentarse a más tardar dentro de los quince días naturales siguientes a la firma del contrato, salvo que la entrega de los bienes o la prestación de los servicios se realice dentro del citado plazo y, la correspondiente al anticipo se presentará previamente a la entrega de éste, a más tardar en la fecha establecida en el contrato.
 
 ###### ARTÍCULO 48.
 
@@ -673,7 +701,11 @@ IV.- Las que se encuentren inhabilitadas por resolución de la Contraloría conf
 
 V.- Las que se encuentren inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California;
 
-VI.- Los proveedores que se encuentren en situación de atraso en las entregas de los bienes o en la prestación de los servicios por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con la unidad administrativa;
+VI.- Los proveedores que se encuentren en situación de atraso en las entregas de los bienes o en la prestación de los servicios por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con la unidad administrativa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE FEBRERO DE 2010)</small>
+
+No se aplicará lo dispuesto en el párrafo anterior, a quienes, en su momento, hubieren acreditado que las causas del atraso se debieron a caso fortuito o fuerza mayor;
 
 VII.- Aquellas que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores;
 
@@ -705,9 +737,15 @@ Cualquier modificación a los contratos deberá formalizarse por escrito por la 
 
 La unidad administrativa se abstendrá de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones sustanciales y en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor comparadas con las establecidas originalmente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 52.
 
-La unidad administrativa deberá pactar penas convencionales a cargo del proveedor por atraso en el cumplimiento de entrega de los bienes o de la prestación del servicio en las fechas pactadas, las que no excederán del monto de la garantía de cumplimiento del contrato, y serán determinadas en función de los bienes o servicios no entregados o prestados oportunamente. En las operaciones en que se pactare ajuste de precios, la penalización se calculará sobre el precio ajustado.
+La unidad administrativa deberá pactar penas convencionales a cargo del proveedor por atraso en el cumplimiento de entrega de los bienes o de la prestación del servicio en las fechas pactadas, las que no excederán del monto de la garantía de cumplimiento del contrato, y serán determinadas invariablemente en función de los bienes o servicios no entregados o prestados oportunamente, en los términos de las políticas o normas que en ejercicio de sus facultades establezca la unidad administrativa. En las operaciones en que se pactare ajuste de precios, la penalización se calculará sobre el precio ajustado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE FEBRERO DE 2010)</small>
+
+Los criterios que se adopten para determinar las penas convencionales deberán considerar la naturaleza de los bienes o servicios, así como actualizarse permanentemente con base en las condiciones generales del sector de que se trate, garantizando siempre las mejores condiciones al Estado y sus municipios.
 
 Los proveedores quedarán obligados ante la unidad administrativa a responder de los defectos y vicios ocultos de los bienes y de la calidad de los servicios, así como de cualquier otra responsabilidad en que hubieren incurrido, en los términos señalados en el contrato respectivo y en la legislación aplicable.
 
@@ -1038,3 +1076,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes refo
 P.O. 28 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE FEBRERO DE 2010.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La unidad administrativa respectiva, dentro del plazo de noventa días posteriores a la entrada en vigor del presente Decreto, deberá dictaminar si los criterios vigentes para determinar las penas convencionales en las Dependencias y Entidades del Estado o sus municipios, se encuentran actualizados a las condiciones generales del mercado, considerando la naturaleza de los bienes o servicios. De no ser así, procederá a actualizarlos en los términos del presente Dictamen.
