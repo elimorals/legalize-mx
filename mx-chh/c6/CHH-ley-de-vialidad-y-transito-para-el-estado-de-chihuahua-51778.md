@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2009-11-14"
+last_updated: "2010-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -49,9 +49,13 @@ Se crea la Ley de Vialidad y Tránsito para el Estado de Chihuahua, para quedar 
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 1.
 
-La presente Ley y sus reglamentos son de orden público e interés social; regula el uso de las vías públicas de competencia estatal, por parte de los peatones y vehículos, incluyendo la protección de los peatones, la vigilancia de las vialidades de los municipios que lo comprenden y la aplicación de disposiciones ecológicas relativas al tránsito de vehículos.
+La presente Ley y sus reglamentos son de orden público e interés social; regula el uso de las vías públicas de competencia estatal, por parte de los peatones y vehículos, incluyendo la protección de los peatones, la vigilancia de las vialidades de los municipios que lo comprenden, la aplicación de disposiciones ecológicas relativas al tránsito de vehículos; así como inhibir la comisión de infracciones y delitos relacionados con el abuso en el consumo de bebidas alcohólicas.
 
 ###### Artículo 2.
 
@@ -157,13 +161,19 @@ VI. Proponer al Gobernador del Estado a la persona que habrá de fungir como Dir
 
 VII. Promover, en coordinación con los municipios, la instalación de oficinas y módulos de orientación y recepción de quejas, a efecto de facilitar a la ciudadanía la presentación de sugerencias, quejas y denuncias, a fin de propiciar el mejoramiento de las funciones;
 
-VIII., Coadyuvar por conducto de la Dirección de Vialidad y Protección Civil en la elaboración de los planes y programas que establezca cada municipio en materia de vialidad, previa solicitud del mismo y, en su caso, sugerir las recomendaciones pertinentes para la adecuada prestación de la función pública de tránsito;
+VIII. Coadyuvar por conducto de la Dirección de Vialidad y Protección Civil en la elaboración de los planes y programas que establezca cada municipio en materia de vialidad, previa solicitud del mismo y, en su caso, sugerir las recomendaciones pertinentes para la adecuada prestación de la función pública de tránsito;
 
 IX. Resolver las controversias administrativas que se susciten sobre la interpretación o cumplimiento de esta Ley;
 
-X. Expedir a los particulares la licencia que los autorice para conducir vehículos por las vías públicas; y
+X. Expedir a los particulares la licencia que los autorice para conducir vehículos por las vías públicas; y (sic)
 
-XI. Las demás que establezcan los ordenamientos legales correspondientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2010)</small>
+
+XI. Celebrar convenios de colaboración con las instituciones autorizadas por la Secretaría de Salud en la Entidad, a fin de que se brinde el tratamiento o rehabilitación a quienes violenten el presente ordenamiento legal, y
+
+XII. Las demás que establezcan los ordenamientos legales correspondientes.
 
 Estas facultades podrá ejercerlas directamente o delegarlas parcial o totalmente a la Dirección de Vialidad y Protección Civil.
 
@@ -183,7 +193,11 @@ V. Cumplir y hacer cumplir la presente Ley y sus reglamentos, así como los decr
 
 VI. Imponer, reducir y condonar las sanciones que resulten aplicables a los infractores de esta Ley y de sus reglamentos, de conformidad con los mismos;
 
-VII. Con observancia de las disposiciones legales aplicables, celebrar los convenios que fueren necesarios para el cumplimiento del objeto de la presente Ley con autoridades federales, estatales y municipales, personas físicas o morales, públicas o privadas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2010)</small>
+
+VII. Con observancia de las disposiciones legales aplicables, celebrar los convenios que fueren necesarios para el cumplimiento del objeto de la presente Ley con autoridades federales, estatales y municipales, personas físicas o morales, públicas o privadas; así como de colaboración con las instituciones autorizadas por la Secretaría de Salud, a fin de que se brinde el tratamiento o rehabilitación a quienes violenten el presente ordenamiento legal;
 
 VIII. Promover la integración del Consejo Consultivo de Tránsito y/o Vialidad, impulsando la participación de los sectores sociales y privados que coadyuven en la efectiva realización de las funciones propias de la dependencia, en los términos de la presente ley;
 
@@ -975,19 +989,29 @@ III. Suspensión de la licencia de conducir;
 
 IV. Cancelación de la licencia de conducir;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
 V. Arresto hasta por treinta y seis horas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2008)</small>
 
-VI. Retención del vehículo automotor, en los términos del artículo 101 de la presente Ley.
+VI. Retención del vehículo automotor, en los términos del artículo 101 de la presente Ley;
 
-Para aplicar las sanciones a que se refieren las fracciones III, IV y V de este artículo, se tomarán en cuenta las siguientes circunstancias:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2010)</small>
+
+VII. Asistencia obligatoria a sesiones de Alcohólicos Anónimos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+Para aplicar las sanciones a que se refieren las fracciones III, IV, V y VII de este artículo, se tomarán en cuenta las siguientes circunstancias:
 
 A) El riesgo o peligro en que puedan haberse encontrado las personas;
 
@@ -996,6 +1020,16 @@ B) El daño que se hubiere causado o pudiere causarse en propiedad ajena;
 C) Que se haya perturbado la normalidad en la circulación de los vehículos; y
 
 D) Los antecedentes de tránsito en los últimos doce meses del conductor en la comisión de infracciones de la misma naturaleza.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+###### Artículo 90 Bis.
+
+En el caso de detención de conductores que se encuentren bajo los efectos de la ingesta de alcohol, la sanción consistirá en la suspensión de la licencia y en la canalización para la asistencia obligatoria a un mínimo de diez sesiones de Alcohólicos Anónimos, en un periodo de treinta días, a criterio del Oficial Calificador, tomando en cuenta el grado de intoxicación alcohólica y, en caso de reincidencia, a veinte sesiones, en un periodo de sesenta días.
+
+En todos los casos, la licencia para conducir quedará suspendida en tanto no se cumpla la sanción, mediante documento por escrito que acredite la asistencia a las sesiones.
 
 ###### Artículo 91.
 
@@ -1012,6 +1046,16 @@ D) Estacionarse en las zonas reservadas para personas con discapacidad, cuando e
 Tratándose de estas infracciones se podrán aplicar conjuntamente dos o más sanciones mencionadas en el artículo 90.
 
 En el caso de que el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+###### Artículo 91 Bis.
+
+Tratándose de menores infractores no emancipados, se les cancelará la licencia para conducir o estarán inhabilitados para obtenerla hasta por doce meses, y el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, mismos que deberán acompañar al infractor a dicho tratamiento o curso y tendrán a su cargo las responsabilidades patrimoniales correspondientes. La autoridad de tránsito establecerá la forma en que se deberá cumplir esta sanción.
+
+En estos casos se deberá comprometer al infractor a asistir a tratamiento o cursos de rehabilitación y acreditar su cumplimiento ante la autoridad competente. Para tales efectos, se dispondrá de un sistema de detección y registro que acredite la asistencia a las sesiones de Alcohólicos Anónimos, las cuales no podrán ser menos de diez en un periodo de treinta días, y de veinte en un periodo de sesenta días, en caso de reincidencia.
 
 ###### Artículo 92.
 
@@ -1326,3 +1370,17 @@ P.O.14 DE NOVIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE FEBRERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días contados a partir de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades de Vialidad y Tránsito, tendrán noventa días para la celebración de convenios con las instituciones autorizadas por la Secretaría de Salud en la Entidad, a fin de que se brinde el tratamiento o rehabilitación a quienes se encuentren en los supuestos de los artículos 90, fracción VII; 90-BIS y 91-BIS.
+
+###### ARTÍCULO TERCERO.
+
+Una vez firmados los convenios necesarios, las autoridades de Vialidad y Tránsito tendrán noventa días para la creación de un programa que le dé cumplimiento a los artículos 90, fracción VII; 90-BIS y 91-BIS.
