@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-estado-de-chihuahua-para-el-ejercicio-71894
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2009-12-23"
-last_updated: "2009-12-23"
+last_updated: "2010-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS PARA EL EJERCICIO FISCAL DEL AÑO 2010
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 23 de diciembre de 2009.
 
@@ -357,9 +357,13 @@ Los derechos que se causen por la prestación de los servicios que realice la Di
 
 Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior, y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
+> <small>N. DE E. EN RELACION CON LOS EFECTOS DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO NOVENO.
 
-Con el propósito de estimular el pronto pago a los contribuyentes, se autoriza a la Secretaría de Finanzas y Administración para otorgar estímulos fiscales o descuentos graduales sobre el monto de la tarifa establecida para revalidación vehicular, de acuerdo con los siguientes porcentajes: 10 por ciento a los contribuyentes que efectúen el trámite y el pago en el mes de enero; 6 por ciento a quienes lo efectúen en febrero y 4 por ciento a quienes lo hagan en marzo. Los contribuyentes que realicen el pago de la revalidación vehicular después del 31 de marzo de 2009, deberán cubrir el 100 por ciento de la tarifa que corresponda y los recargos respectivos.
+Con el propósito de estimular el pronto pago a los contribuyentes, se autoriza a la Secretaría de Finanzas y Administración para otorgar estímulos fiscales o descuentos graduales sobre el monto de la tarifa establecida para revalidación vehicular, de acuerdo con los siguientes porcentajes: 17 por ciento a los contribuyentes que efectúen el trámite y el pago durante el mes de enero; 13 por ciento a quienes lo realicen en el mes de febrero y 8 por ciento a quienes lo hagan en el transcurso del mes de marzo. Los contribuyentes que realicen el pago de la revalidación vehicular después del 31 de marzo de 2010, deberán cubrir el 100 por ciento de la tarifa que corresponda y los recargos respectivos.
 
 ###### ARTÍCULO DÉCIMO.
 
@@ -2360,3 +2364,11 @@ LIC. JOSE REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. SERGIO GRANADOS PINEDA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE FEBRERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado y tendrá efectos a partir del día primero de enero de 2010.
+
+SEGUNDO.- Los contribuyentes que resulten beneficiados con el descuento autorizado en el presente Decreto y que a su entrada en vigor hayan efectuado el pago del derecho, gozarán de un crédito fiscal por el monto del descuento, el cual será aplicado para el pago del mismo concepto para el ejercicio fiscal del 2011.
