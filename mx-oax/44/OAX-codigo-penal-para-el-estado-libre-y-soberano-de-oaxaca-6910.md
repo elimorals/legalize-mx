@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2010-01-23"
+last_updated: "2010-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -93,7 +93,7 @@ Cuando el tipo prevé una acción con resultado material, el autor de la activid
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-7o.- Quien omita evitar un resultado material descrito en un tipo de acción, será considerado autor del mismo, sólo si: de acuerdo con las circunstancias podía evitarlo, era garante del bien jurídico y su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo. Es garante del bien jurídico el que: a) acepto efectivamente su custodia; b) voluntariamente formaba parte de una concreta comunidad que afronta peligros de la naturaleza; c) con una culposa o fortuita actividad precedente generó el peligro para el bien jurídico; o d) se haya en una efectiva y concreta posición de custodia de la vida, salud o integridad corporal de algún miembro de su familia.
+7o.- Quien omita evitar un resultado material descrito en un tipo de acción, será considerado autor del mismo, sólo si: de acuerdo con las circunstancias podía evitarlo, era garante del bien jurídico y su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo. Es garante del bien jurídico el que: a) acepto efectivamente su custodia; b) voluntariamente formaba parte de una concreta comunidad que afronta peligros de la naturaleza; c) con una culposa o fortuita actividad precedente generó el peligro para el bien jurídico; o d) se halla en una efectiva y concreta posición de custodia de la vida, salud o integridad corporal de algún miembro de su familia.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1113,7 +1113,7 @@ También procederá el indulto, de oficio o a petición de parte, cuando se dict
 
 ## TITULO SEGUNDO.
 
-Delitos contra la seguridad publica.
+Delitos contra la seguridad pública.
 
 ### CAPITULO V.
 
@@ -1140,6 +1140,10 @@ Prescripción.
 122.- La acción penal prescribirá en un plazo igual al tiempo de la sanción corporal que corresponda al delito de que se trata; pero en ningún caso bajará de tres años.
 
 Si se tratare de delito al que le corresponda según éste Código, la pena de cuarenta años de prisión, la prescripción se consumará en ese plazo.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+122 Bis.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 241, 241 BIS, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
 
 123.- Si el delito solo mereciere destitución, suspensión de derechos o inhabilitación, la prescripción se consumará en el término de dos años.
 
@@ -1419,7 +1423,7 @@ Desobediencia y resistencia de particulares.
 
 ### CAPITULO II.
 
-Oposición a que se ejecute alguna obra o trabajo publico.
+Oposición a que se ejecute alguna obra o trabajo público.
 
 183.- El que procure con actos materiales impedir la ejecución de una obra o trabajos públicos, mandados hacer con los requisitos legales por la autoridad competente, o con su autorización, se le aplicarán de diez días a seis meses de prisión.
 
@@ -1525,7 +1529,7 @@ l.- Al que por cualquier medio induzca, procure, facilite u obligue a una de las
 
 A quien cometa cualquiera de las conductas descritas se le impondrá de cinco a diez años de prisión y multa de quinientos a setecientos treinta días de salario mínimo.
 
-II.- Quien por cualquier medio, induzca, facilite, procure u obligue que una persona menor de edad o persona que no tenga la capacidad para comprender el significado del hecho realice, para si o para otras personas y sin fines de lucro o de explotación, actos sexuales o de exhibicionismo corporal de índole sexual. Estas conductas se sancionarán con pena de prisión de siete a doce años y multa de seiscientos a ochocientos cuarenta días de salario mínimo;
+II.- Quien por cualquier medio, induzca, facilite, procure u obligue que una persona menor de edad o persona que no tenga la capacidad para comprender el significado del hecho realice, para sí o para otras personas y sin fines de lucro o de explotación, actos sexuales o de exhibicionismo corporal de índole sexual. Estas conductas se sancionarán con pena de prisión de siete a doce años y multa de seiscientos a ochocientos cuarenta días de salario mínimo;
 
 III.- Quien permita directa o indirectamente el acceso de una persona menor de dieciocho años de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, a espectáculos o exhibiciones audiovisuales de carácter pornográfico. Estas conductas se sancionarán con prisión de tres a cinco años de prisión y multa de trescientos a trescientos cincuenta días de salario mínimo;
 
@@ -1543,7 +1547,7 @@ Las anteriores sanciones se impondrán con independencia de otros delitos que se
 
 l.- Quien sin fines comerciales o de explotación induzca, procure, facilite u obligue que una persona menor de dieciocho años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, realice actos sexuales o de exhibicionismo corporal de índole sexual con la finalidad de grabarlos, videograbarlos, fotografiarlos, filmarlos o exhibirlos a través de anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicaciones, sistemas de cómputo, medios .electrónicos o de cualquier otra naturaleza, Independientemente de que se logre la finalidad;
 
-II.- Quien sin fines comerciales o de explotación fije, grabe, videograbe, fotografíe o filme de cualquier forma actos sexuales o de exhibicionismo corporal de índole. sexual, explícitos o no, reales o simulados, en que participen una o mas personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho;
+II.- Quien sin fines comerciales o de explotación fije, grabe, videograbe, fotografíe o filme de cualquier forma actos sexuales o de exhibicionismo corporal de índole sexual, explícitos o no, reales o simulados, en que participen una o más personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho;
 
 III.- Quien reproduzca, publique, ofrezca, publicite, almacene, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales, explícitas o no, reales o simuladas, o toda representación de los órganos sexuales de la víctima con fines primordialmente sexuales; y
 
@@ -1569,7 +1573,7 @@ Estas penas se aplicarán sin perjuicio de las que correspondan por la comisión
 
 I.- Si el sujeto activo se valiese de la función pública, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En este caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta, que iniciará una vez haya compurgado la pena privativa de libertad;
 
-II.- Si el sujeto activo del delito tiene parentesco por consaguinidad o afinidad hasta en el cuarto grado, o parentesco civil, o habite ocasional o permanentemente en el mismo domicilio con la víctima, o tenga una relación sentimental o de confianza con el sujeto pasivo, o sea tutor o curador de la víctima. Además, en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta; y
+II.- Si el sujeto activo del delito tiene parentesco por consaguinidad (sic) o afinidad hasta en el cuarto grado, o parentesco civil, o habite ocasional o permanentemente en el mismo domicilio con la víctima, o tenga una relación sentimental o de confianza con el sujeto pasivo, o sea tutor o curador de la víctima. Además, en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta; y
 
 III.- Si el sujeto activo es ministro de un culto religioso.
 
@@ -1605,7 +1609,7 @@ I.- Aceptar un cargo o empleo y tomar posesión de él sin reunir los requisitos
 
 II.- Al que ejerza las funciones de un empleo, cargo o comisión sin haber tomado posesión legítima del mismo o sin llenar todos los requisitos legales;
 
-III.- A todo el que continúe ejerciendo las funciones de un empleo, cargo o comisión, después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido; salvo el caso de que no haya sido nombrado el substituto, y que éste no se hubiere presentado a tomar posesión de su cargo o empleo, a menos que, en la orden de separación se exprese que ésta se verifique desde luego y la ley no lo prohiba;
+III.- A todo el que continúe ejerciendo las funciones de un empleo, cargo o comisión, después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido; salvo el caso de que no haya sido nombrado el substituto, y que éste no se hubiere presentado a tomar posesión de su cargo o empleo, a menos que, en la orden de separación se exprese que ésta se verifique desde luego y la ley no lo prohíba;
 
 IV.- Al nombrado por tiempo limitado, que continúe ejerciendo sus funciones, después de cumplido el término por el cual se le nombró, con la salvedad de la fracción anterior;
 
@@ -1657,7 +1661,7 @@ XIII.- Cuando retarde o entorpezca, maliciosamente, o por negligencia o descuido
 
 XIV.- Cuando con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conozca y haya recibido con motivo de su empleo, cargo o puesto;
 
-XV.- Cuando desempeñe algún otro empleo oficial, o un puesto o cargo particular, que la ley le prohiba;
+XV.- Cuando desempeñe algún otro empleo oficial, o un puesto o cargo particular, que la ley le prohíba;
 
 XVI.- Cuando desempeñe por sí o por interpósita persona, la profesión que tenga, si le está vedada su ejercicio por la ley en virtud del desempeño del empleo, cargo o comisión que tenga;
 
@@ -1755,7 +1759,7 @@ Delitos cometidos en la administración de justicia.
 
 I.- Conocer de negocios para los cuales tenga impedimento legal o abstenerse de conocer de los que les correspondan sin tener impedimento legal para ello;
 
-II.- Litigar por sí o por interpósita persona, cuando la Ley les prohiba el ejercicio de su profesión;
+II.- Litigar por sí o por interpósita persona, cuando la Ley les prohíba el ejercicio de su profesión;
 
 III.- Dirigir o aconsejar a las personas que ante ellos litiguen;
 
@@ -2071,7 +2075,7 @@ Lo mandado en este Artículo se observará sin prejuicio de las medidas y sancio
 
 ### CAPITULO IV.
 
-Del tráfico de concesiones y permisos del servicio publico de transporte.
+Del tráfico de concesiones y permisos del servicio público de transporte.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2467,7 +2471,7 @@ La ventaja no se tomará en consideración en los tres primeros casos, si el que
 
 303.- La alevosía consiste: en sorprender intencionalmente a alguien de improviso, o empleando acechanza (sic) u otro medio que no le dé lugar a defenderse ni a evitar el mal que se le quiera hacer.
 
-304.- Se dice que obra a traición: el que no sólamente emplea la alevosía, sino también la perfidia, violando la fé o seguridad que expresamente había prometido a su víctima, o la tácita, que ésta debía prometerse de aquél por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
+304.- Se dice que obra a traición: el que no solamente emplea la alevosía, sino también la perfidia, violando la fé o seguridad que expresamente había prometido a su víctima, o la tácita, que ésta debía prometerse de aquél por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
 
 305.- Además de las sanciones que señalan los dos capítulos anteriores, los Jueces podrán, si lo creyeren conveniente:
 
@@ -2811,7 +2815,7 @@ C) Si el delito es cometido en contra de quien no tenga capacidad para comprende
 
 D) Cuando el sujeto activo se valiese de su calidad de servidor público o se haya ostentado como tal, sin serlo. Además se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar por un tiempo igual al de la pena de prisión impuesta, que iniciará una vez haya compurgado la pena privativa de libertad;
 
-E) Cuando el sujeto activo del delito tenga parentesco por consaguinidad o afinidad hasta en el cuarto grado, o parentesco civil, o habite en el mismo domicilio con la víctima, o tenga una relación sentimental o de confianza con el sujeto pasivo. Además, .en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta; y
+E) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic) o afinidad hasta en el cuarto grado, o parentesco civil, o habite en el mismo domicilio con la víctima, o tenga una relación sentimental o de confianza con el sujeto pasivo. Además, .en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta; y
 
 F) Si el sujeto activo es ministro de un culto religioso.
 
@@ -2989,7 +2993,7 @@ Abigeato.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnar; y, como ganado menor: al cabrío, el lanar y el porcino.
+371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnal; y, como ganado menor: al cabrío, el lanar y el porcino.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
 
@@ -3650,5 +3654,9 @@ P.O. 14 DE SEPTIEMBRE DE 2009.
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 23 DE ENERO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE FEBRERO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
