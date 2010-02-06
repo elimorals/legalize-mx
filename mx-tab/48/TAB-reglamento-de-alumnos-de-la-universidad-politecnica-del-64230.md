@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-alumnos-de-la-universidad-politecnica-del-64230"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-15"
-last_updated: "2008-10-15"
+last_updated: "2010-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DE ALUMNOS DE LA UNIVERSIDAD POLITECNICA DEL GOLFO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 15 de octubre de 2008.
 
@@ -71,7 +71,9 @@ CONTENIDO
 
 ### CAPÍTULO I. INFRACCIONES Y SANCIONES
 
-### CAPÍTULO II. COMISIÓN ACADÉMICA Y DE SANCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO II. COMISIÓN ACADÉMICA UNIVERSITARIA
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO DE IMPOSICIÓN DE SANCIONES
 
@@ -179,9 +181,11 @@ La Universidad publicará en el calendario escolar las fechas de pagos de las co
 
 Los créditos adeudados a la Universidad y no cubiertos en el plazo de pago, se actualizarán aplicándoles el factor obtenido del Índice Nacional de Precios al Consumidor y de acuerdo a lo dispuesto por la Legislación Fiscal del Estado de Tabasco.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 12.
 
-Para el caso de retraso en el pago de cuotas escolares, se aplicará un cargo por mora de acuerdo al monto establecido por la Universidad. y a falta de acuerdo expreso al respecto, se cobrará por dicho concepto, una cantidad mensual equivalente a un salario mínimo general vigente en el Estado de Tabasco, en proporción a cada colegiatura cuatrimestral adeudada.
+Para el caso de retraso en el pago de cuotas escolares, se aplicará un cargo por mora de acuerdo al monto establecido por la Universidad, y a falta de acuerdo expreso al respecto, se cobrará por dicho concepto, una cantidad mensual equivalente a un salario mínimo general vigente en el Estado de Tabasco, en proporción a cada colegiatura cuatrimestral adeudada.
 
 ###### ARTÍCULO 13.
 
@@ -585,11 +589,15 @@ Si la indemnización relativa no se obtiene por el mecanismo previsto en este ar
 
 Las sanciones impuestas en términos de este Reglamento son independientes a la responsabilidad civil, administrativa, penal ó la que en su caso proceda en contra del responsable.
 
-### CAPÍTULO II. COMISIÓN ACADÉMICA Y DE SANCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO II. COMISIÓN ACADÉMICA UNIVERSITARIA
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 57.
 
-Se instituye la Comisión Académica y de Sanciones para conocer los procedimientos de imposición de sanciones a los alumnos de la Universidad y del recurso de inconformidad.
+Se instituye la Comisión Académica Universitaria para conocer los procedimientos de imposición de sanciones a los alumnos de la Universidad y del recurso de inconformidad.
 
 ###### ARTÍCULO 58.
 
@@ -605,47 +613,57 @@ Los miembros de la Comisión durarán en su cargo por un periodo máximo de un a
 
 Por cada integrante se nombrará un suplente para casos de ausencias.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 60.
 
-La Comisión Académica y de Sanciones se reunirá semanalmente para atender los asuntos acumulados en el periodo, y en cada reunión nombrarán al miembro que fungirá como Presidente.
+La Comisión Académica Universitaria se reunirá semanalmente para atender los asuntos acumulados en el periodo, y en cada reunión nombrarán al miembro que fungirá como Presidente.
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO DE IMPOSICIÓN DE SANCIONES
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 61.
 
-Los funcionarios de la Universidad que cuenten con facultades para vigilar el cumplimiento de las normas aplicables a los alumnos, levantarán acta administrativa de las infracciones de las que tengan conocimiento en términos de los artículos subsecuentes.
+Los funcionarios de la Universidad que cuenten con facultades para vigilar el cumplimiento de las normas aplicables a los alumnos, presentarán un reporte por escrito (sic) las infracciones de las que tengan conocimiento de conformidad con el artículo 62.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 62.
 
-El acta administrativa se levantará de oficio o por denuncia por la Dirección de Servicios Escolares, y en ella se harán constar las circunstancias de los hechos constitutivos de la infracción y las ocurridas en el levantamiento del acta, dándole aviso inmediato al Abogado General para la aplicación de la Ley correspondiente.
+Todo reporte o infracción deberá presentarse por escrito ante la Coordinación de Docencia correspondiente, y de provenir ésta de parte de un alumno, deberá ser turnada a su tutor, quien a su vez la entregará ante la instancia correspondiente, y en ella se harán constar las circunstancias de los hechos constitutivos de la infracción, turnando copia de inmediato al Abogado General para su conocimiento.
 
-De estar presente, se dará oportunidad al probable infractor de manifestar lo que a su derecho convenga y en su caso, se asentará la negativa de hacerlo.
+El probable infractor tendrá derecho de manifestar por escrito ante la Coordinación de Docencia lo que a su derecho convenga conforme al artículo 64.
 
 ###### ARTÍCULO 63.
 
-El acta deberá levantarse ante dos testigos de los hechos, o ante testigo singular si los hechos solo fueron presenciados por una sola persona. A falta de testigos de los hechos, se asentará esto como circunstancia.
+(DEROGADO, P.O. 6 DE FEBRERO DE 2010)
 
-Pero en todo caso, se presentarán testigos de asistencia al levantamiento del acta nombrados por el probable infractor y ante su negativa o ante la inasistencia del probable infractor, los nombrará el funcionario que levantar el acta.
-
-El acta será suscrita por el funcionario que la levante, por los testigos y en su caso, por el probable infractor.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 64.
 
-Una vez levantada el acta, el funcionario de la Universidad la notificará al probable infractor, y en su caso hará constar la negativa de este de recibir un tanto del acta o de darse por notificado.
+Una vez recibido el reporte, el Coordinador de Docencia le notificará al probable infractor, para que éste presente por escrito lo que a su derecho convenga, en un lapso no mayor a tres días hábiles a partir de la fecha de notificación, pudiendo ser acompañado de la firma de hasta dos testigos de los hechos.
 
-Acto seguido, el funcionario de la Universidad enviará el acta levantada a la Comisión Académica y de Sanciones, para que resuelva el asunto en el término máximo de un mes contado a partir de la notificación al probable infractor.
+Acto seguido, el Coordinador de Docencia enviará el reporte levantado acompañado de los documentos de ambas partes relacionados con los hechos, a la Comisión Académica Universitaria, para que resuelva el asunto en un término máximo de quince días hábiles contados a partir de la recepción del mismo.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 65.
 
-Para que sea procedente la imposición de alguna sanción, deberá quedar acreditada la existencia de la infracción y la responsabilidad del alumno involucrado.
+Para que sea procedente la imposición de alguna sanción, deberá quedar acreditada la existencia de la infracción y la responsabilidad del alumno o alumnos involucrados.
 
-La Comisión Académica y de Sanciones notificará personalmente la resolución al alumno respectivo.
+La Comisión Académica Universitaria notificará por escrito y por conducto del Coordinador de Docencia en el término de tres días hábiles la determinación al alumno o alumnos respectivos.
 
-En caso de la imposición de una sanción, la Comisión Académica y de Sanciones ordenará las medidas convenientes para garantizar su ejecución.
+En caso de la imposición de una sanción, la Comisión Académica Universitaria ordenará las medidas convenientes para garantizar su ejecución.
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 66.
 
-La Comisión Académica y de Sanciones, mantendrá un archivo histórico de las infracciones y sanciones en materia académica.
+La Comisión Académica Universitaria, turnará a la Dirección de Servicios Escolares copia de la sanción para su integración al expediente del alumno.
+
+Además mantendrá un archivo histórico de las infracciones y sanciones en materia académica.
 
 ## TÍTULO SEXTO. DEL RECURSO DE INCONFORMIDAD
 
@@ -663,7 +681,9 @@ III. El recurrente ofrecerá todas las pruebas que considere necesarias, para pr
 
 IV. El recurso será resuelto en un plazo de dos semanas hábiles a partir de su interposición;
 
-V. El Consejo será competente para resolver los recursos interpuestos contra las resoluciones emitidas por la Comisión Académica y de Sanciones, y esta última será competente para resolver los demás recursos.
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2010)</small>
+
+V. El Consejo será competente para resolver los recursos interpuestos contra las resoluciones emitidas por la Comisión Académica Universitaria, y esta última será competente para resolver los demás recursos.
 
 ###### ARTÍCULO 68.
 
@@ -681,12 +701,22 @@ SEGUNDO.- Dentro de los noventa días siguientes a la aprobación de este reglam
 
 Dado en la Sala de Juntas de la Secretaría de Educación, en Villahermosa, Tabasco; a los quince días del mes de febrero del año dos mil ocho. Este. Reglamento fue aprobado en la sesión primera ordinaria 2008, por los miembros presentes de la Junta Directiva.
 
-Mtra. Deyanira Camacho Javier, Subsecretaria de Coordinación y Desarrollo para la Educación Media Superior y, Superior, en Representación de la Profesora Rosa Beatriz Luque Greene, Secretaria de Educación del Estado de Tabasco y Presidente de la Junta Directiva de la UPGM;
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
 
-Mtro. Luís Andrés Domínguez Alejandro,
+Mtra. Deyanira Camacho Javier, Subsecretaria de Coordinación y Desarrollo de la Educación Media y Superior, en Representación de la Profesora Rosa Beatriz Luque Greene, Secretaria de Educación del Estado de Tabasco y Presidente de la Junta Directiva de la UPGM;
+
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+M.G.P. Luís Andrés Domínguez Alejandro,
 
 Rector de la Universidad Politécnica del Golfo de México
 
 M.D. René Trinidad Pimienta Cerino,
 
 Abogado General de la UPGM y Secretario de Acuerdos de la Junta Directiva
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE FEBRERO DE 2010.
+
+PRIMERO.- Las presentes modificaciones, entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
