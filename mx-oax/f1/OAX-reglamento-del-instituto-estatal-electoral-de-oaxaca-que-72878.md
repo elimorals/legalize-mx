@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-del-instituto-estatal-electoral-de-oaxaca-que-72878"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-14"
-last_updated: "2009-11-14"
+last_updated: "2010-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72878&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO DEL INSTITUTO ESTATAL ELECTORAL DE OAXACA, QUE NORMA LOS PROCEDIMIENTOS CON MOTIVO DE INFRACCIONES ADMINISTRATIVAS EN MATERIA ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2010.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 14 de noviembre de 2009.
 
@@ -319,9 +319,15 @@ b) Recibir, valorar y, en su caso aprobar los proyectos de resolución que prese
 
 c) Realizar observaciones a la Junta, respecto de los proyectos de resolución en caso de que estos sean devueltos, por no ser de aprobarse;
 
-d) Someter a estudio y aprobar, en su caso los proyectos de imposición de sanciones, o exoneración que le presente la Junta o bien, devolverle para su revalorización, aquellos en los que considere que no se encuentran agotadas las líneas de investigación, que es necesario practicar otras diligencias, o para que se realice una debida fundamentación y motivación, o, de considerar que no existe infracción así lo declare; y
+d) Someter a estudio y aprobar, en su caso los proyectos de imposición de sanciones, o exoneración que le presente la Junta o bien, devolverle para su revalorización, aquellos en los que considere que no se encuentran agotadas las líneas de investigación, que es necesario practicar otras diligencias, o para que se realice una debida fundamentación y motivación, o, de considerar que no existe infracción así lo declare; y (sic)
 
-e) Las demás que le confiera el presente Reglamento y normatividad aplicable.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+e) Ordenar o iniciar procedimientos administrativos sancionadores; y
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+f) Las demás que le confiera el presente Reglamento y normatividad aplicable.
 
 ###### Artículo 13.
 
@@ -333,7 +339,9 @@ a) Recibir y registrar los procedimientos iniciados por la probable comisión de
 
 Así mismo, llevar el control de los expedientes que se tramiten, y de los procedimientos que se encuentren en substanciación. Para tal efecto, los Órganos Desconcentrados, deberán reportar y remitir las promociones respectivas, con un informe justificado a la Junta, dentro del plazo de cinco días siguientes a su recepción;
 
-b) Analizar los escritos por los que se promuevan los procedimientos sancionadores para determinar alguna prevención, su admisión o desechamiento según corresponda;
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+b) Analizar los escritos de queja o denuncias por los que se promuevan los procedimientos sancionadores para determinar alguna prevención, su admisión o desechamiento según corresponda;
 
 c) Ordenar diligencias de investigación que sean necesarias para determinar la existencia de probables infracciones de estimarlo necesario;
 
@@ -347,7 +355,9 @@ g) Proponer al consejo General, los proyectos de imposición de sanciones o exon
 
 h) Recibir las pruebas y desahogar las diligencias que le soliciten los interesados, y que estime atinentes, para lo cual, podrá designar un funcionario del Instituto;
 
-i) Atender las observaciones formuladas por el Consejo General;
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+i) Atender las instrucciones y observaciones formuladas por el Consejo General;
 
 j) Presentar, en un plazo no mayor a quince días contados a partir de la devolución del proyecto por el Consejo General, un nuevo proyecto de resolución. Lo anterior, siempre y cuando no hubiese diligencias que practicar; y
 
@@ -383,7 +393,9 @@ REGLAS GENERALES.
 
 2. El presente procedimiento tendrá lugar en cualquier tiempo, mientras no caduquen las facultades sancionadoras del Órgano Electoral.
 
-3. El procedimiento para determinación de infracciones administrativas en materia electoral, y aplicación de las sanciones correspondientes, solo iniciara a instancia de parte.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+3. El procedimiento para determinación de infracciones administrativas en materia electoral y aplicación de las sanciones correspondientes; se iniciará de oficio o a instancia de parte.
 
 ###### Artículo 16.
 
@@ -395,23 +407,29 @@ CADUCIDAD.
 
 3. En cualquier caso que las partes dejaren pasar más de tres meses contados a partir de la última notificación, sin realizar gestión escrita que impulse el procedimiento, la Junta dejará sin efecto el procedimiento sancionador y mandará a archivar el expediente, cesando la consecuencia que se menciona en el párrafo inmediato que antecede.
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 17.
 
 LEGITIMACIÓN.
 
-1. Cualquier Partido Político, a través de su representante debidamente acreditado ante el Órgano Electoral, podrá acudir ante la Junta para que se inicie el procedimiento por presuntas infracciones a la normatividad electoral.
+1. Cualquier Ciudadano o Partido Político, a través de su representante debidamente acreditado ante el Órgano Electoral, podrá acudir ante la Junta para que se inicie el procedimiento por presuntas infracciones a la normatividad electoral.
 
 ###### Artículo 18.
 
 REQUISITOS DEL ESCRITO INICIAL.
 
-El escrito del promovente deberá cumplir con los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+1. El escrito del queja del promovente deberá cumplir con los siguientes requisitos:
 
 a) Contener el nombre del promovente, y señalar domicilio para recibir notificaciones, en la ciudad de Oaxaca de Juárez y su zona conurbada. Si fueran dos o más promoventes deberán señalar un representante común, en caso de no hacerlo, se, entenderá como representante común él que aparezca en primer lugar en el escrito;
 
 b) Deberá contener la firma autógrafa del que lo suscribe;
 
-c) Acompañar los documentos necesarios para acreditar la personería de quien promueve sin los cuales el escrito se tendrá por no presentado; este requisito no será exigible tratándose de representantes de Partidos Políticos o Coaliciones debidamente acreditados ante el Consejo General y los Órganos Desconcentrados, en su caso;
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+c) Acompañar los documentos necesarios para acreditar la personería de quien promueve, sin los cuales el escrito se tendrá por no presentado; este requisito no será exigible tratándose de representantes de Partidos Políticos o Coaliciones debidamente acreditados ante el Consejo General y los Órganos Desconcentrados, en su caso, o de ciudadanos;
 
 d) La narración clara y concreta de los hechos en que se apoya el promovente y, de ser posible, citar los preceptos legales que estime violados;
 
@@ -473,7 +491,9 @@ c) Para tal efecto, la Junta, a la brevedad posible, resolverá lo procedente.
 
 DEL EMPLAZAMIENTO Y CONTESTACIÓN.
 
-1. Admitido el escrito y solventado el trámite de la medida Cautelar, si la hubiere, la Junta mandará notificar, emplazar y correr traslado al probable infractor, sin perjuicio de ordenar las diligencias de investigación que estime necesarias. Al notificarse al probable infractor, se le correrá traslado con una copia del escrito por el que se promueve el procedimiento sancionador así como de las pruebas documentales que en su caso se hayan presentado con dicho escrito, concediéndole un plazo de cinco días para que efectúe su contestación respecto a las imputaciones que se le formulen. La Omisión de contestar sobre dichas imputaciones únicamente tiene como efecto la preclusión de su derecho a ofrecer pruebas, sin generar presunción respecto a la veracidad de los hechos denunciados.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+1. Admitido el escrito o el oficio de denuncia correspondiente, en su caso, y solventado el trámite de la medida Cautelar, si la hubiere, la Junta mandará notificar, emplazar y correr traslado al probable infractor, sin perjuicio de ordenar las diligencias de investigación que estime necesarias. Al notificarse al probable infractor, se le correrá traslado con una copia del escrito por el que se promueve el procedimiento sancionador, así como de las pruebas documentales que en su caso se hayan presentado con dicho escrito, o bien, con la copia del oficio de denuncia correspondiente y sus anexos, de haberlos, concediéndole un plazo de cinco días para que efectúe su contestación respecto a las imputaciones que se le formulen. La omisión de contestar sobre dichas imputaciones únicamente tiene como efecto la preclusión de su derecho a ofrecer pruebas, sin generar presunción respecto a la veracidad de los hechos denunciados.
 
 2. El escrito de contestación deberá cumplir con los siguientes requisitos:
 
@@ -663,7 +683,9 @@ PRUEBAS SUPERVENIENTES.
 
 VALORACIÓN DE LAS PRUEBAS.
 
-1. Las pruebas admitidas y desahogadas serán valoradas en su conjunto, atendiendo a las reglas de la lógica las máximas de la experiencia y la sana crítica así como a los principios rectores de la función electoral, con el objeto de que produzcan convicción sobre los hechos materia de debate.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+1. Las pruebas recabadas, admitidas y desahogadas serán valoradas en su conjunto, atendiendo a las reglas de la lógica las máximas de la experiencia y la sana crítica así como a los principios rectores de la función electoral, con el objeto de que produzcan convicción sobre los hechos materia de debate.
 
 2. Las documentales públicas, las presunciones legales, la confesión expresa y la instrumental, tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
 
@@ -679,7 +701,9 @@ DESAHOGO DE LAS PRUEBAS.
 
 ACUERDO DE CALIFICACIÓN Y DESAHOGO DE PRUEBAS.
 
-1. Una vez transcurrido el plazo para la contestación del escrito inicial, dentro de los cinco días siguientes, la Junta dictará acuerdo en donde se pronuncie sobre la admisión o exclusión de las pruebas que ofrezcan las partes.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2010)</small>
+
+1. Una vez transcurrido el plazo para la contestación del escrito inicial, o del oficio de denuncia, dentro de los cinco días siguientes, la Junta dictará acuerdo en donde se pronuncie sobre la admisión o exclusión de las pruebas que ofrezcan las partes, así como sobre aquéllas que se deban recabar, de haberse iniciado el procedimiento en forma oficiosa.
 
 2. Para cumplir con el objeto del procedimiento administrativo, la Junta podrá valerse de cualquier persona, cosa o documento que tenga relevancia respecto de la cuestión planteada, pudiendo hacer uso de los medios de apremio previstos en este Reglamento, y estando facultada además, para recabar los medios de convicción que estime pertinentes, así como para ordenar la práctica de diligencias para mejor proveer.
 
@@ -729,7 +753,9 @@ III. Los datos que identifiquen al expediente, al promovente y al probable infra
 
 b) Los resultados, que establezcan:
 
-I. La fecha en que se presentó el escrito del promovente;
+> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2010)</small>
+
+I. La fecha en que se presentó el escrito del promovente o se recibio el escrito de denuncia;
 
 II. La relación suscrita de las cuestiones planteadas;
 
@@ -936,3 +962,9 @@ LIC. JOSE LUIS ECHEVERRIA MORALES
 SECRETARIO
 
 LIC. FRANCISCO JAVIER MORALES OSORIO ROJAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE FEBRERO DE 2010.
+
+Único. La presente modificación al Reglamento que Norma los Procedimientos con motivo de Infracciones Administrativas en Materia Electoral, efectuada en cumplimiento a lo ordenado por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, en la resolución dictada en el expediente número SUP-JRC-2/2010, entrará en vigor a partir de su aprobación por el Pleno del Consejo General del Instituto Estatal Electoral de Oaxaca.
