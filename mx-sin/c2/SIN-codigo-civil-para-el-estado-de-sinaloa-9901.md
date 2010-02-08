@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2009-01-21"
+last_updated: "2010-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -2929,17 +2929,41 @@ II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 28
 
 III.- Cuando el que la ejerce incurra en conducta de violencia familiar previstas en el artículo 324 Bis de este Código, en contra de las personas sobre las cuales la ejerza;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
-IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de seis meses. Cuando el hijo se encuentre acogido en una institución de asistencia social, sea pública o privada, bastará que hayan transcurrido más de cuatro meses;
+IV.- Par la exposición que el padre a la madre hiciere de sus hijos, a porque los dejen abandonados par más de tres meses. Cuando el hijo se encuentre acogido en una institución de asistencia social, sea pública p privada, bastará que hayan transcurrido más de treinta días hábiles y que sin causa justificada no acuda a visitarlo;
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
-V.- Cuando el que la ejerza sea condenado por la comisión, de un delito doloso en el que la víctima sea el menor; y
+V.- Cuando el que la ejerza sea condenado par la comisión de un delito doloso en el que la víctima sea el menor de edad;
 
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1998)</small>
 
 VI.- Cuando el que la ejerza sea condenado dos o más veces por delito grave;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VII.- Cuando se explote al menor de edad obligándolo a realizar cualquier acto con el fin de lucrar o de recibir algún otro beneficio;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VIII.- Cuando se incumpla con el deber irrenunciable de otorgar alimentos a los hijos por más de tres meses sin causa justificable, considerando el interés superior del niño para lograr un desarrollo pleno;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+IX.- En los casos que por ministerio de ley un menor de edad que por dos o más ocasiones haya tenido que ser ingresado nuevamente a casa cuna, por la comisión de un hecho delictivo cometido en su agravio por quien ejerce la patria potestad, existiendo compromiso debidamente ratificado de no reincidir en dicha conducta;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+X.- Cuando haya dependencia por alcohol, estupefacientes psicotrópicos u otras formas graves de fármaco-dependencia y se rehusé al tratamiento, comprometiendo la salud, la seguridad o la integridad de los menores de edad; y
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XI.- Cuando el que la ejerza padezca alguna afección originada por enfermedad o deficiencia persistente de carácter psiquiátrico, probado por personal calificado y se rehúse al tratamiento, comprometiendo la salud y el adecuado desarrollo del menor.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+Acreditada la pérdida de la patria potestad respecto de un menor de edad, el juez en la misma sentencia, deberá tomar las medidas preventivas respecto de los demás menores de edad sobre los cuales se continúe ejerciendo la misma.
 
 Los tribunales pueden modificar el ejercicio de la patria potestad si quien la desempeña trata a los que estén en ella con excesiva severidad, no los educa, les impone preceptos inmorales o les da ejemplos o consejos corruptores.
 
@@ -12579,7 +12603,7 @@ El arredador (sic) que no haga las obras que ordene la autoridad competente en e
 
 El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para que sea fiador.
 
-Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
+Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arrendatario dar fianza o subsistir esa garantía con el depósito de un mes de renta.
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que conceden los Artículos 2330, 2331 y 2332.
 
@@ -13081,7 +13105,7 @@ Solamente será gratuito el mandato cuando así se haya convenido expresamente.
 
 ###### Artículo 2433.
 
-El mandato será siempre por escrito y podrá otorgarse:
+El mandato será simpre por escrito y podrá otorgarse:
 
 I.- En escritura pública;
 
@@ -16348,6 +16372,12 @@ P.O. 28 DE NOVIEMBRE DE 2008.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 21 DE ENERO DE 2009.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 8 DE FEBRERO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
