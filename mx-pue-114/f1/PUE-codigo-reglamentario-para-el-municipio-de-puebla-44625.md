@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2010-01-22"
+last_updated: "2010-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -9437,7 +9437,7 @@ XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 
 
 XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
 
-XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+XIX. Resello: Sello que se coloca con la leyenda "Inspeccionado y Aprobado" en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
 
 XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
 
@@ -9657,9 +9657,9 @@ DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -9667,7 +9667,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -15889,6 +15889,10 @@ En los casos que impliquen peligro de incendio, el Departamento de Bomberos podr
 
 Se consideran como Medidas de Seguridad las disposiciones que dicte la Dirección o la Unidad Operativa Municipal de Protección Civil, encaminadas a prevenir, reducir y/o evitar la pérdida de vidas, lesiones o daños en bienes o personas que puedan causar las instalaciones, edificaciones, construcciones, obras, trabajos o acciones que ejecuten personas físicas o morales, sean públicas o privadas.
 
+###### Artículo 1170.
+
+Se consideran como Medidas de Seguridad las disposiciones que dicte la Dirección la unidad municipal de protección civil, encaminadas a prevenir, reducir y/o evitar la pérdida de vidas, lesiones o daños en bienes o personas que puedan causar las instalaciones, edificaciones, construcciones, obras, trabajos o acciones que ejecuten personas físicas o morales, sean públicas o privadas.
+
 ###### Artículo 1171.
 
 Las medidas de seguridad, son de aplicación inmediata y tienen carácter preventivo.
@@ -20523,7 +20527,7 @@ II. Emitir la Licencia de Funcionamiento en la que se otorgue la autorización y
 
 III. Expedir las credenciales con fotografía en la que se identifique al Titular de la autorización y/o concesión, con los datos correspondientes; y
 
-IV. Efectuar las anotaciones correspondientes en el padrón en el que se lleve el Registro de Mercado, con relación a las cesiones de derechos efectuadas entre particulares, respecto a los locales y/o plataforma de mercados municipales.
+IV. Efectuar las anotaciones correspondientes en el padrón en el que se lleve el Registro de Mercado, con relación a las cesiones de derechos efectuadas entre particulares, respecto a los locales y/o plataformas de mercados municipales.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -23605,13 +23609,27 @@ En caso de estacionamiento de vehículos de carga, para efecto de llevar a cabo 
 
 DE LOS VEHÍCULOS ABANDONADOS EN LA VÍA PÚBLICA Y EN LOS ESTACIONAMIENTOS PÚBLICOS
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 1684.
 
-El Ayuntamiento, a través de la SSPTM retirará de la vía pública los vehículos abandonados en un término de quince días naturales contados a partir de que la autoridad municipal tenga conocimiento formal por medio de denuncia personal, telefónica o por escrito.
+El Ayuntamiento, a través de la SSPTM retirará los vehículos abandonados en un término de quince días naturales contados a partir de que la autoridad municipal tenga conocimiento formal por medio de denuncia personal, telefónica o por escrito.
 
-Inmediatamente dará aviso a la autoridad competente y cobrará quien resulte responsable la cantidad devengada por los derechos correspondientes de acuerdo a la Ley de Ingresos vigente, al momento de su determinación.
+La recepción de la denuncia se hará a través de la Dirección del Centro de Emergencia y Respuesta Inmediata, en caso de realizarse vía telefónica, y por la Dirección de Prevención del Delito y Atención a Víctimas, cuando se presente personalmente o por escrito, mismas que informarán de la denuncia a la Dirección de Tránsito Municipal para su atención correspondiente.
+
+Una vez recibida la denuncia, la Dirección de Tránsito Municipal ordenará a los Agentes de Tránsito realizar la verificación del vehículo, en términos del artículo 348 de este Código, para obtener información suficiente para su identificación y ubicación, que permita a la Dirección del Centro de Emergencia y Respuesta Inmediata, a través del área correspondiente, tener acceso al Sistema Nacional de Seguridad Pública para realizar la consulta en la base de datos y elaborar el Informe correspondiente, a fin de verificar si el vehículo cuenta con reporte de robo, en caso afirmativo procederá a ponerlo a disposición de la autoridad competente, y en caso contrario se seguirá el procedimiento respectivo.
+
+En el acta de verificación que levanten, los Agentes de Tránsito anexarán pruebas gráficas en las que sea ostensible el abandono del vehículo y mediante las cuales se determine que se encuentra en estado de chatarra, o que tenga vegetación, fauna nociva, basura acumulada, herrumbre, piezas faltantes en la unidad, daño por exposición constante al medio ambiente, entre otros.
+
+La Dirección de Tránsito Municipal, notificará al propietario del vehículo para que en el término de cinco días hábiles, contados a partir de la notificación, proceda a retirarlo de la vía pública. Dicha notificación, se efectuará en el domicilio del propietario o se dejará en una parte visible del vehículo abandonado, en caso que éste no sea conocido.
+
+Vencido el término otorgado y en caso de que el propietario no lo haya removido, la Dirección de Tránsito Municipal retirará el vehículo abandonado en la vía pública, ingresándolo al depósito vehicular oficial, en dicho caso, se aplicarán las disposiciones establecidas en el artículo 350 Quinquies y 351 del presente Código y las relativas al abandono de mercancías señaladas en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+Una vez que la Dirección de Tránsito Municipal haya ingresado el vehículo al depósito oficial, deberá dar vista a la Dirección de Prevención del Delito y Atención a Víctimas, para que ésta a su vez, dé contestación al ciudadano que realizó la denuncia.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+###### Artículo 1684 Bis.
 
 Cuando los vehículos dados en guarda no sean reclamados por el usuario dentro de las setenta y dos horas siguientes a su ingreso y no se haya contratado el servicio de pensión, el propietario o representante legal del estacionamiento deberá presentar el vehículo, especificando sus características a la SSPTM.
 
@@ -29103,7 +29121,7 @@ X. Empresa: Persona moral legalmente constituida, y que cuenta con medios propio
 
 XI. Promotor: Persona física que deberá contar con licencia legalmente expedida por la Comisión que autorice dentro del Municipio permanente o eventualmente, a promover espectáculos de Box y Lucha Libre profesional, considerados como empleados de las empresas, y en consecuencia éstas serán responsables directas de cualquier falta o infracción que cometan;
 
-XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que reditúe en beneficios económicos para los mismos;
+XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deporitvo y que reditúe en beneficios económicos para los mismos;
 
 XIII. Manejador: Persona física que deberá contar con licencia legalmente expedida por la Comisión que le autorice actuar dentro del Municipio, y que será la encargada de cuidar la forma y condición física de los boxeadores y luchadores, proporcionándoles el adiestramiento técnico necesario;
 
@@ -29649,7 +29667,7 @@ El Comisionado está facultado para autorizar la sustitución o cambio de boxead
 
 I. En Box: en caso de fuerza mayor debidamente comprobada, si alguno de los participantes de una pelea preliminar o estelar no puede actuar en la función anunciada, se sustituirá dicho peleador por el emergente de la misma categoría y peso, si el boxeador fuese de la pelea estelar, además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función;
 
-II. En lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
+II. En la lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -32772,3 +32790,11 @@ CUARTO.- Los registros de Directores Responsables de Obra y Corresponsables, seg
 QUINTO.- Dentro de los quince días hábiles siguientes, contados. a partir de su publicación en el Periódico Oficial del Estado, la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables, sesionará a fin de incorporar a los nuevos miembros de la Comisión. Los Vocales señalados en el artículo 670 fracción VII del presente Reglamento, serán nombrados a propuesta de los Colegios miembros de dicha Comisión.
 
 SEXTO.- La Dirección de Gestión solicitará a la Comisión de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables, elabore su Manual de Procedimientos dentro de los treinta días hábiles siguientes al nombramiento de los Vocales a que se refiere el artículo 670, para que sea sometido a consideración de la Contraloría Municipal para su correspondiente aprobación.
+
+P.O. 8 DE FEBRERO DE 2010.
+
+PRIMERO.- El presente Dictamen surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Dictamen.
+
+TERCERO.- El retiro de vehículos abandonados en la vía pública se realizará de acuerdo a la suficiencia presupuestal y a la capacidad material con que cuente la Secretaría de Seguridad Pública y Tránsito Municipal.
