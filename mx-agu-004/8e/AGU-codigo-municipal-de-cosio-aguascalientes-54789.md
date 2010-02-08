@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-cosio-aguascalientes-54789"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-19"
-last_updated: "2008-03-10"
+last_updated: "2010-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE COSIO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: P.O. 10 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de marzo de 2007.
 
@@ -87,11 +87,15 @@ Las autoridades municipales tienen competencia plena sobre el territorio de Cos�
 
 ### CAPITULO III. De los Fines del Municipio
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 8°.
 
-El fin esencial del Municipio es lograr el bienestar de sus habitantes, por lo tanto, sus autoridades se deben de sujetar a los siguientes mandatos:
+El fin esencial del Municipio es lograr el bienestar de las mujeres y los hombres, por lo tanto, sus autoridades se deben de sujetar a los siguientes mandatos:
 
-I.- Preservar la dignidad de la persona y, en consecuencia, las garantías individuales establecidas en la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+I.- Preservar la dignidad de las mujeres y los hombres y, en consecuencia, las garantías individuales establecidas en la Constitución Política de los Estados Unidos Mexicanos;
 
 II.- Salvaguardar y garantizar la integridad territorial del Municipio;
 
@@ -115,11 +119,17 @@ XI.- Coadyuvar en la preservación de la ecología y a la protección y mejorami
 
 XII.- Garantizar la salubridad e higiene pública;
 
-XIII.- Promover e instrumentar la inscripción de los vecinos y habitantes al padrón municipal;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
-XIV.- Preservar y fomentar los valores cívicos, culturales y artísticos de México y específicamente de esta municipalidad;
+XIII.- Promover e instrumentar la inscripción de las mujeres y los hombres en su carácter de vecinos y/o habitantes al padrón municipal;
 
-XV.- Promover le (sic) bienestar social de la población con la implementación de programas de educación, asistencia social, salud y vivienda.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XIV.- Preservar y fomentar los valores cívicos, culturales y artísticos y la perspectiva de género de México y específicamente de esta municipalidad;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XV.- Promover el bienestar social de las mujeres, los hombres y sus familias con la implementación de programas de educación, asistencia social, salud y vivienda.
 
 ###### ARTICULO 9°.
 
@@ -243,13 +253,17 @@ Ninguna autoridad municipal podrá realizar modificaciones al territorio o divis
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 22.
 
-En el Municipio de Cosío, todos los individuos gozarán de las Garantías Individuales otorgadas en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Aguascalientes. Corresponde a las autoridades municipales en la esfera de su competencia, velar por el respeto y cumplimiento de éstas.
+En el Municipio de Cosío, todas las mujeres y todos los hombres gozarán de las Garantías Individuales otorgadas en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Aguascalientes. Corresponde a las autoridades municipales en la esfera de su competencia; velar por el respeto y cumplimiento de éstas.
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 23.
 
-Todos los individuos que residan, realicen alguna actividad o estén de tránsito en el Municipio, quedarán sujetos a las disposiciones que establece el presente Código.
+Todas las mujeres y todos los hombres que residan, realicen alguna actividad o estén de tránsito en el Municipio, quedarán sujetos a las disposiciones que establece el presente Código.
 
 ###### ARTICULO 24.
 
@@ -263,15 +277,15 @@ III.- Transeúnte o visitante.
 
 ### CAPITULO SEGUNDO. De los Vecinos
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 25.
 
 Serán considerados vecinos del Municipio de Cosío:
 
-I.- Las personas nacidas en el Municipio y que se encuentren radicando (sic) su territorio; y
+I.- Las mujeres y los hombres nacidos en el Municipio y que se encuentren radicando su territorio; y
 
-II.- Los personas que aún sin haber nacido en el territorio municipal, tengan residiendo en él más de dos años consecutivos de manera efectiva.
-
-Para efectos del presente artículo, se entiende por residencia, el establecimiento del domicilio sobre el territorio municipal, con el propósito de vivir en él.
+II.- Las mujeres y los hombres que aún sin haber nacido en el territorio municipal, tengan residiendo en él más de dos años consecutivos de manera efectiva.
 
 ###### ARTICULO 26.
 
@@ -325,13 +339,17 @@ La violación de los derechos y el incumplimiento cualquiera de las obligaciones
 
 ### CAPITULO TERCERO. De los Habitantes y Transeúntes o Visitantes
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 30.
 
-Son habitantes del Municipio de Cosío, todas aquellas personas que residan habitual o transitoriamente en su territorio, que no reúnen los requisitos para adquirir la vecindad o residencia y que no pueden ser considerados transeúntes.
+Son habitantes del Municipio de Cosío, todas las mujeres y los hombres que residan habitual o transitoriamente en su territorio, que no reúnen los requisitos para adquirir la vecindad o residencia y que no pueden ser considerados transeúntes.
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 31.
 
-Son considerados transeúntes o visitantes, todas aquellas personas que, sin ánimos de permanencia, se encuentren de paso en e (sic) territorio municipal, ya sea con fines, laborales, culturales, turísticos o meramente de paso.
+Son considerados transeúntes o visitantes, todas las mujeres y los hombres que, sin ánimos de permanencia, se encuentren de paso en el territorio municipal, ya sea con fines, laborales, culturales, turísticos o meramente de paso.
 
 ###### ARTICULO 32.
 
@@ -354,6 +372,32 @@ b).- No alterar el orden público;
 c).- Hacer el uso adecuado de las instalaciones públicas municipales; y
 
 d).- Las demás que impongas (sic) las leyes Federales y Estatales.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+ARTICULO 32 BIS.- Toda mujer que se encuentre en el municipio de Cosío, tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos.
+
+Estos derechos comprenden entre otros:
+
+I.- El derecho a que se respete la vida;
+
+II.- El derecho a que se respete su integridad física, psíquica y moral;
+
+III.- El derecho a la libertad y la seguridad personales;
+
+IV.- El derecho a no ser sometida a torturas;
+
+V.- El derecho a igualdad de protección ante y de la ley;
+
+VI.- El derecho a que se respete la dignidad inherente a su persona y que se proteja a su familia;
+
+VII.- El derecho a un recurso sencillo y rápido ante los tribunales competentes, que la ampare contra actos que violen sus derechos;
+
+VIII.- El derecho a libertad de asociación;
+
+IX.- El derecho a la libertad de profesar la religión y las creencias propias dentro de la ley; y
+
+X.- El derecho a tener igualdad de acceso a las funciones públicas de su Municipio y a participar en los asuntos públicos, incluyendo la toma de decisiones.
 
 ###### ARTICULO 33.
 
@@ -390,6 +434,82 @@ El H. Ayuntamiento de Cosío, Ags., funcionará en pleno de sus integrantes, a t
 ###### ARTICULO 39.
 
 El Ayuntamiento de Cosío, Ags., tiene como función general el Gobierno del municipio y como facultades y obligaciones las señaladas en el Artículo 36 de la Ley Municipal para el Estado de Aguascalientes, las señaladas en el presente Código y las enumeradas en las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+ARTICULO 39 BIS.- El objeto del presente apartado es regular y garantizar la igualdad de Género entre mujeres y hombres, la no discriminación, y todos aquellos derechos contenidos en la Constitución Política de los Estados Unidos Mexicanos.
+
+Son Obligaciones del H. Ayuntamiento de Cosío Aguascalientes en materia de Género las siguientes: (sic)
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+ARTICULO 39 TER.- Son obligaciones del Ayuntamiento en materia de Igualdad y Género las siguientes:
+
+I.- Instrumentar y articular en concordancia con la política nacional y estatal, la política municipal orientada a la atención, prevención, sanción y erradicación de la violencia contra las mujeres;
+
+II.- Promover en concordancia con las entidades federativas, cursos de capacitación y modificaciones conductuales a las personas que atienden a víctimas de violencia contra las mujeres;
+
+III.- Apoyar la creación de programas de reeducación integral para los generadores de violencia contra las mujeres en los términos explícitos y de conformidad con los lineamientos que establece la Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Aguascalientes;
+
+IV.- Promover programas educativos sobre la igualdad entre los géneros para eliminar la violencia contra la mujer;
+
+V.- Apoyar la creación de centros de atención y prevención integral contra la violencia de género y de refugios seguros para las víctimas de violencia familiar y sexual;
+
+VI.- Participar y coadyuvar en los ejes de acción, de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+VII.- Impartir cursos y talleres de prevención y protección contra la violencia de género en los cuerpos policiacos;
+
+VIII.- Evaluar anualmente la actividad de los cuerpos policiacos y servidores públicos encargados de la atención a la violencia de género;
+
+IX.- Elaborar una guía de asistencia inmediata que seguirían los elementos de seguridad pública cuando se presenten casos de violencia familiar;
+
+X.- Designar a los integrantes del sistema municipal de prevención, atención, sanción y erradicación de la violencia, y vigilar su correcta instalación y funcionamiento;
+
+XI.- Aprobar el programa municipal para prevenir, atender, sancionar y erradicar la violencia, el cual se diseñara con base en la perspectiva de género;
+
+XII.- Construir el mecanismo municipal de adelanto e (sic) favor de las mujeres, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del municipio a fin de lograr su plena participación en los ámbitos económico, político, social, cultural y educativo y;
+
+XIII.- La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+ARTICULO 39 CUARTER.- El Ayuntamiento implementara, el programa municipal para la prevención, atención, sanción y erradicación, de la violencia el cual deberá contener:
+
+I.- Los objetivos generales y específicos;
+
+II.- Las estrategias a seguir;
+
+III.- Las líneas de acción;
+
+IV.- Los recursos asignados;
+
+V.- Las metas cuantitativas y cualitativas;
+
+VI.- Los responsables de su ejecución;
+
+VII.- Los mecanismos de evaluación y;
+
+VII (SIC).- El subprograma de capacitación.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+ARTICULO 39 QUINQUIES.- Son principios rectores del programa municipal:
+
+I.- La no discriminación;
+
+II.- La autodeterminación y libertad de las mujeres;
+
+III.- La igualdad sustantiva entre mujeres y hombres;
+
+IV.- El respeto a la dignidad de las mujeres;
+
+V.- El pluralismo social y la multiculturalidad de las mujeres; y
+
+VI.- la (sic) perspectiva de género que permita incorporar a la mujer como sujeto social.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+ARTICULO 39 SEXIES.- El Programa Municipal incluirá los ejes de acción: de prevención, atención sanción y erradicación, considerando los niveles de intervención que cada eje contempla, en términos de lo dispuesto por la Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Aguascalientes y su Reglamento.
 
 ### CAPITULO PRIMERO. De las Atribuciones del Presidente Municipal
 
@@ -429,7 +549,9 @@ XI.- Tomar la protesta de Ley a los Regidores y Síndico, así como a los demás
 
 XII.- Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, Director de Finanzas Municipal y proponer la terna para la elección del Director de Seguridad Pública y Tránsito Municipal;
 
-XIII.- Otorgar los nombramientos a los Funcionarios Públicos Municipales;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XIII.- Otorgar los nombramientos a los Funcionarios Públicos Municipales, observando en esta actividad la perspectiva de género;
 
 XIV.- Presidir y dirigir las sesiones del Cabildo;
 
@@ -461,9 +583,11 @@ Para el cumplimiento de sus funciones, el Presidente Municipal puede auxiliarse 
 
 Para el cumplimiento de los fines del Municipio, el Presidente Municipal puede delegar funciones propias de la Administración Pública Municipal en los Servidores Públicos Municipales, de conformidad con el área específica de la cual se trate el caso concreto.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 45.
 
-El Presidente Municipal vigilará que las labores de los secretarios y personal a su cargo se realicen con apego a los principios de eficiencia, eficacia, continuidad, honradez, celeridad e imparcialidad.
+El Presidente municipal vigilará que las labores de los secretarios y personal a su cargo se realicen con apego a los principios de eficiencia, eficacia, continuidad, honradez, celeridad, imparcialidad y perspectiva de género.
 
 ###### ARTICULO 46.
 
@@ -553,13 +677,17 @@ XV.- Practicar las primeras diligencias de la averiguación previa y remitirlas 
 
 XVI.- Supervisar el funcionamiento del servicio del pie mostrenco municipal;
 
-XVII.- Servir de árbitro y conciliador en los asuntos que los particulares le pongan a su consideración, a efectos de solucionar los problemas que no sean constitutivos de delito en términos de la Legislación Penal del Estado y del Código Penal Federal;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XVII.- Servir de árbitro y conciliador en los asuntos que los particulares le pongan a su consideración, a efectos de solucionar los problemas que no sean constitutivos de delito en términos de la Legislación Penal del Estado y del código Penal Federal; y además que no se trate de casos donde exista violencia contra las mujeres y/o sus familias, en cuyos casos está contraindicada cualquier práctica de mediación, negociación o conciliación y al contrario se deberá aplicar la sanción que corresponda de acuerdo al presente Código Municipal y/o deberá dar parte a la autoridad correspondiente;
 
 XVIII.- Autorizar en su caso las corridas de ganado que el Presidente del Comisariado Ejidal o persona facultada le solicite;
 
 XIX.- Citar, requerir y en su caso hacer comparecer a las personas que sean necesarias para la práctica de diligencias a que haya lugar;
 
-XX.- Auxiliar en la impartición de Justicia Municipal, calificando las faltas administrativas e imponiendo las sanciones respectivas;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XX.- Auxiliar en la impartición de Justicia Municipal, calificando las faltas administrativas e imponiendo las sanciones respectivas. En los supuestos donde exista violencia contra las mujeres y/o sus familias no hay posibilidad de sustitución o dispensa de la sanción que corresponda de acuerdo al presente Código Municipal;
 
 XXI.- Coordinarse con Síndicos de Municipios vecinos como colaboración en la resolución de conflictos presentados; y
 
@@ -991,7 +1119,9 @@ En las sesiones con intervención al público, el Secretario del H. Ayuntamiento
 
 I.- Cuando la persona en uso de la palabra desvirtúe el tema que se esté tratando;
 
-II.- Cuando se profieran injurias, palabras obscenas, amenazas o serias acusaciones en contra de personas determinadas;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+II.- Cuando se profieran injurias, palabras obscenas, amenazas o serias acusaciones en contra de personas determinadas; por razones étnicas, religiosas, participación política ó de género;
 
 III.- Cuando se trate de exaltar el ánimo del auditorio, para presionar la opinión de los Regidores o Síndico;
 
@@ -1411,9 +1541,13 @@ XIX.- Reglamentos y Justicia;
 
 XX.- Relojes y Panteones;
 
-XXI.- Salubridad y Beneficencia Pública; y
+XXI.- Salubridad y Beneficencia Pública; y (sic)
 
-XXII.- Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XXII.- De Equidad y Género; y
+
+XXIII.- Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
 ###### ARTICULO 188.
 
@@ -1737,11 +1871,15 @@ APARTADO DECIMO SEXTO
 
 De la Comisión de Planeación del Desarrollo Municipal
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 204.
 
-Son obligaciones y atribuciones de la Comisión de Planeación del Desarrollo Municipal:
+Son obligaciones y atribuciones de la comisión de Planeación del Desarrollo Municipal:
 
-I.- Impulsar el desarrollo social, económico y urbanístico de todo el municipio, preservando el equilibrio ecológico y la protección del medio ambiente;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+I.- Impulsar el desarrollo social, económico y urbanístico de todo el municipio, preservando el equilibrio ecológico, la protección del medio ambiente y la equidad de género;
 
 II.- La supervisión de todos los planes generales, especiales y de la ejecución, de las obras públicas que emprenda el Ayuntamiento;
 
@@ -1755,7 +1893,9 @@ VI.- Dictaminar lo correspondiente al programa municipal de desarrollo urbano, a
 
 VII.- Promover la creación de reservas territoriales en el municipio para uso habitacional y/o industrial y de servicios, así como la regularización de asentamientos de origen privado; y
 
-VIII.- Participar en la elaboración del plan de desarrollo municipal.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VIII.- Participar en la elaboración del plan de desarrollo municipal, el cual se elaborará atendiendo el criterio de equidad de género.
 
 APARTADO DECIMO SEPTIMO
 
@@ -1765,7 +1905,9 @@ De la Comisión de Promoción Cultural y Fomento Deportivo
 
 Son obligaciones y atribuciones de la Comisión de Promoción Cultural y Fomento Deportivo:
 
-I.- Promover, impulsar, planificar, coordinar y estimular práctica de los deportes dentro del municipio, para procurar el desarrollo físico y mental de sus habitantes;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+I.- Promover, impulsar, planificar, coordinar y estimular práctica de los deportes con una perspectiva de género dentro del municipio, para procurar el desarrollo físico y mental de sus habitantes;
 
 II.- Promover y proponer previo al estudio que lo justifique, la construcción de unidades o centros deportivos dentro del municipio;
 
@@ -1775,11 +1917,17 @@ IV.- Proponer la coordinación y el establecimiento de relaciones de carácter d
 
 V.- Vigilar que la dependencia u organismo municipal respectivo gestione la promoción, organización, patrocinio y coordinación de eventos deportivos, otorgando estímulos económicos y honoríficos en favor de los triunfadores;
 
-VI.- En general, promover todas aquellas actividades que tiendan al fomento y desarrollo del deporte dentro del municipio, tanto en la niñez como en la juventud, en la edad adulta y discapacitados;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
-VII.- Coadyuvar en la instrumentación de planes y programas de promoción cultural en el Municipio, así como vigilar su cumplimiento;
+VI.- En general, promover todas aquellas actividades que tiendan al fomento y desarrollo del deporte dentro del municipio, tanto para las mujeres como en la niñez, la juventud, en la edad adulta y personas con capacidades diferentes;
 
-VIII.- Vigilar que dentro del Municipio se promuevan las acciones tendientes a la promoción de la cultura en todas sus manifestaciones, procurando que tengan acceso a los programas las clases populares;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VII.- Coadyuvar en la instrumentación de planes y programas de promoción cultural en el Municipio con una perspectiva de género, así como vigilar su cumplimiento;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VIII.- Vigilar que dentro del Municipio se promuevan las acciones tendientes a la promoción de la cultura en todas sus manifestaciones, procurando que tengan acceso a los programas las mujeres, sus familias y las clases populares;
 
 IX.- Procurar la coordinación con instituciones federales, estatales, municipales, y organismos descentralizados, así como de los sectores privado y social, para la promoción cultural;
 
@@ -1797,7 +1945,9 @@ Son obligaciones y atribuciones de la comisión de Protección Civil, Seguridad 
 
 I.- El estudio, planificación y proposición ante el Ayuntamiento en pleno o ante la presidencia municipal, en su caso, de los acuerdos, medidas o acciones que sean convenientes emprender por parte de la Administración Municipal, tendientes a establecer o a incrementar la eficacia del Sistema Municipal de Protección Civil y Bomberos y mejorar los sistemas de organización y funcionamiento de la seguridad pública y del servicio de tránsito en el Municipio;
 
-II.- La vigilancia estricta de que las autoridades y elementos de seguridad pública y los organismos, instancias y dependencias que integran el sistema Municipal de Protección Civil, cumplan sus funciones con apego a las leyes y reglamentos de la materia, en concordancia a los Sistemas Estatales de Protección Civil y de Seguridad Publica y con máxima eficiencia;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+II.- La vigilancia estricta de que las autoridades y elementos de seguridad pública y los organismos, instancias y dependencias que integran el sistema Municipal de Protección Civil, cumplan sus funciones con una perspectiva de género, apego a las leyes y reglamentos de la materia, en concordancia a los Sistemas Estatales de Protección Civil y de Seguridad Publica, y con máxima eficiencia;
 
 III.- Promover y fomentar la superación técnica y cultural de los elementos de seguridad publica, protección civil y bomberos y de transito, en los que se capten y canalicen los puntos de vista y peticiones de la ciudadanía en materia de seguridad pública, protección civil, bomberos y de transito;
 
@@ -1817,7 +1967,9 @@ De la Comisión de Reglamentos y Justicia
 
 Son obligaciones y atribuciones de la Comisión de Reglamentos y Justicia:
 
-I.- Promover la creación, actualización y reforma de los reglamentos municipales para que se ajusten a los requerimientos del municipio;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+I.- Promover la creación, actualización y reforma de los reglamentos municipales para que se ajusten a los requerimientos del municipio y que se armonicen los mismos con una perspectiva de género;
 
 II.- Vigilar el cumplimiento de los reglamentos municipales;
 
@@ -1857,7 +2009,9 @@ De la Comisión de Salubridad y Beneficencia Pública
 
 Son obligaciones y atribuciones de la Comisión de Salubridad y Beneficencia Pública:
 
-I.- Estudiar, proponer y dictaminar lo correspondientes (sic) a los planos y programas tendientes a proporcionar asistencia social a los habitantes del municipio que la necesiten, primordialmente a los grupos marginados, ancianos en estado de abandono, niños desamparados, minusválidos e indigentes;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+I.- Estudiar, proponer y dictaminar lo correspondiente a los planes y programas tendientes a proporcionar asistencia social a los habitantes del municipio que la necesiten, primordialmente a los grupos vulnerables en los que se contemplaran principalmente a, mujeres, ancianos en estado de abandono, niños desamparados, minusválidos e indigentes;
 
 II.- Vigilar que las dependencias y organismos de índole municipal encargados de ministrar la asistencia social, coadyuven y se coordinen con las autoridades y organismos encargados de dicha materia en el Estado, fortaleciendo e integrando su actividad al sistema estatal de salud y asistencia social;
 
@@ -1871,7 +2025,9 @@ VI.- Vigilar que las dependencias municipales competentes conyuguen en fortaleci
 
 VII.- Vigilar y dictaminar conjuntamente con la Comisión de Ecología, sobre aquellas actividades, medidas, programas y acciones que se relacionen con ambas materias;
 
-VIII.- Proponer, dictaminar y apoyar los programas y campañas que se implementen, tendientes a la higienización en el municipio, a la prevención y combate de las enfermedades epidémicas y endémicas, a la prevención, control y erradicación, en su caso, del alcoholismo y la drogadicción en el municipio; y
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VIII.- Proponer, dictaminar y apoyar los programas y campañas que se implementen, tendientes a la higienización en el municipio, a la prevención atención y erradicación de la violencia hacia las mujeres y/o sus familias, a la prevención y combate de las enfermedades epidémicas y endémicas, a la prevención, control y erradicación, en su caso, del alcoholismo y la drogadicción en el municipio; y
 
 IX.- Realizar los estudios y gestiones que estimen pertinentes en materia de salud, salubridad e higiene, que beneficien al municipio.
 
@@ -1953,7 +2109,49 @@ VIII.- Dirección de Agua Potable y Alcantarillado;
 
 IX.- Dirección de Seguridad Pública y Vialidad;
 
-X. Contraloría Municipal.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+X.- Contraloría Municipal y;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XI.- La Instancia Municipal de las Mujeres de Cosío.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+ARTICULO 220 BIS.- Para el desarrollo social integral de la Mujer de Cosío se instituye el organismo público descentralizado de la administración municipal denominada Instancia Municipal de las Mujeres de Cosío, a la cual se otorga personalidad jurídica para todo efecto legal.
+
+Disposiciones Generales:
+
+I.- La Instancia Municipal de las Mujeres de Cosío, tendrá su domicilio legal en la Localidad de Cosío en el Municipio de Cosío, Aguascalientes.
+
+II.- El patrimonio de La Instancia Municipal de las Mujeres de Cosío, es propio y se integra por el presupuesto y los bienes muebles e inmuebles que le transmita en propiedad el Municipio de Cosío, recursos y apoyos que obtenga de instituciones públicas Estatales y/o Federales y/o privadas, así como por todos los bienes y derechos que adquiera por cualquier otro título y por las obligaciones que adquiera o le deriven de las disposiciones legales aplicables.
+
+III.- El Municipio Cosío, por conducto de la Presidencia Municipal, suministrará a La Instancia Municipal de las Mujeres de Cosío, los bienes, recursos e insumos necesarios para su funcionamiento administrativo, en la medida en que los recursos propios del mismo no resulten suficientes para tal efecto, por lo que en el Presupuesto de Egresos del Municipio Cosío (sic) se contemplará la partida que apruebe el H. Cabildo para su asignación a la Instancia.
+
+IV.- Para el cumplimiento de su objeto y ejercicio de sus atribuciones La Instancia Municipal de las Mujeres de Cosío, estará dotada de autonomía técnica y de gestión, por lo que sus proyectos y programas, actos y actividades serán decididos y ejecutados en los términos establecidos por sus órganos de dirección en los términos de este Código.
+
+V.- La Instancia Municipal de las Mujeres de Cosío, tiene como objeto el establecimiento y ejecución de proyectos y programas tendientes al desarrollo social de las mujeres, con el fin de propiciar la educación, formación y realización integral de las mujeres, con dignidad y equidad, en el conjunto de sus potencialidades como persona.
+
+VI.- Los proyectos y programas de La Instancia Municipal de las Mujeres de Cosío, se formularán con base a lo previsto en materia de desarrollo social en el Plan de Gobierno Municipal.
+
+VII.- En los proyectos y programas de La Instancia Municipal de las Mujeres de Cosío, se contemplará de manera prioritaria las actividades y acciones tendientes a evitar, prevenir y corregir la discriminación, desigualdad y maltrato a las mujeres, así como para promover la educación en el ejercicio y respeto de sus derechos, su dignidad y sus valores y para la promoción de su mejoramiento cultural, social y económico, incluyéndose la realización de estudios, análisis, investigaciones y diagnóstico sobre la problemática que afecta a las mujeres en el municipio de Cosío.
+
+VIII.- La Instancia Municipal de las Mujeres de Cosío, podrá coordinarse con entidades o instituciones públicas o privadas, mediante los conventos de concertación conducentes al cumplimiento de su objeto y ejercicio de sus atribuciones.
+
+IX.- En el ámbito de lo Municipal de las Mujeres de Cosío, La Instancia Municipal de las Mujeres de Cosío, actuará de manera coordinada con las dependencias de la administración pública municipal.
+
+X.- La ejecución de los proyectos y programas para la realización de los actos y actividades propias del objeto y atribuciones de La Instancia Municipal de las Mujeres de Cosío, estará a cargo de una Directora General, quien contará con personal de apoyo y colaboración necesarios para el optimo desempeño de esta Dirección y que para tal efecto determine el H. Ayuntamiento de Cosío en su presupuesto de egresos a partir del año 2010.
+
+XI.- La Directora General de La Instancia Municipal de las Mujeres de Cosío, será designada y removida por la ó él Presidente Municipal y designará y removerá al demás personal de La Instancia Municipal de las Mujeres de Cosío, a propuesta de la Directora General, estableciendo el organigrama, facultades y obligaciones de cada uno de los cargos respectivos, determinando las funciones que sean de confianza, mediante acuerdo que se publicará en el Periódico Oficial del Estado.
+
+XII.- Para ser Directora General de La Instancia Municipal de las Mujeres de Cosío, se requiere ser mujer, preferentemente originaria del Municipio de Cosío y/o habitante del Municipio de Cosío con residencia efectiva y consecutiva mínima de cinco años anteriores al momento de la designación y haberse distinguido o haber participado reiteradamente en actos o actividades a favor de los derechos fundamentales y la dignificación dé las mujeres de Cosío y/o del Estado y/o del País.
+
+XIII.- La Directora General tendrá las facultades, dentro del marco de los proyectos y programas, de coordinarse, conducir, dirigir e instruir las actividades de La Instancia Municipal de las Mujeres de Cosío, y ejercerá las facultades legales de representación de la misma frente a terceros particulares y frente a toda clase de autoridades Estatales y Federales, materias y procedimientos, incluyendo los actos que requieran cláusula especial conforme a la ley.
+
+XIV.- La distribución de la partida asignada en el presupuesto municipal a favor de La Instancia Municipal de las Mujeres de Cosío, será determinada dentro de los primeros quince días de enero de cada año, a propuesta de la Directora General.
+
+XV.- Con el fin de conocer, analizar y evaluar la actividad de La Instancia Municipal de las Mujeres de Cosío, la Directora General rendirá Un informe trimestral al H. Ayuntamiento y al Presidente Municipal de Cosío de manera integral sobre la operación y funcionamiento de La Instancia Municipal de las Mujeres de Cosío, y se mandata a quien ocupe la Presidencia Municipal de Cosío para que incluya lo relativo a La Instancia Municipal de las Mujeres de Cosío, en el correspondiente informe anual de gobierno.
 
 ###### ARTICULO 221.
 
@@ -2115,11 +2313,13 @@ c).- Departamento de Protección Civil. (Honorario).
 
 ### CAPITULO CUARTO. De los Funcionarios Públicos Municipales
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 224.
 
-Los nombramientos de los servidores públicos, se realizarán con las formalidades requeridas para su validez por la Ley Municipal para el Estado de Aguascalientes, en el caso del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno, Tesorero Municipal, Juez Calificador y Director de Seguridad Pública. El otorgamiento de los demás nombramientos, por disposición de la ley, corresponderá al Presidente Municipal, el cual deberá de nombrar a la persona más calificada a su consideración para ocupar el puesto que se trate.
+Los nombramientos de los servidores públicos, se realizarán con las formalidades requeridas para su validez por la Ley Municipal para el Estado de Aguascalientes y atendiendo el criterio de equidad de género, en el caso del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno, Tesorero Municipal, Juez Calificador y Director de Seguridad Pública. El otorgamiento de los demás nombramientos, por disposición de la ley, corresponderá al Presidente Municipal, el cual deberá de nombrar a la persona más calificada a su consideración para ocupar el puesto que se trate, y también deberá observar el principio de equidad de género en las designaciones referidas.
 
-El concursante a ocupar algún puesto dentro de la Administración Pública Municipal, deberá acreditar fehacientemente tener conocimientos suficientes en el área donde pretenda desempeñarse, así mismo deberá de contar con reconocida solvencia moral y notoria buena costumbre.
+El concursante a ocupar algún puesto dentro de la Administración Pública Municipal, deberá acreditar fehacientemente tener conocimientos de perspectiva de género y conocimientos suficientes en el área donde pretenda desempeñarse, así mismo deberá de contar con reconocida solvencia.
 
 ###### ARTICULO 225.
 
@@ -2137,7 +2337,9 @@ III.- Cuando sea requerido para ello, rendir informe de las funciones desempeña
 
 IV.- Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos asignados;
 
-V.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+V.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas; observando para ello el principio de perspectiva de género;
 
 VI.- Proporcionar información y cooperación técnica a las Dependencias de la Administración Pública Municipal;
 
@@ -2157,7 +2359,9 @@ XIII.- Resolver los recursos administrativos que se interpongan, cuando éstos p
 
 XIV.- Dictar las medidas necesarias para el mejoramiento de su encargo;
 
-XV.- Elaborar los manuales de organización, acuerdos, circulares y demás disposiciones que tiendan a regular el funcionamiento de las dependencias administrativas;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XV.- Elaborar los manuales de organización, acuerdos, circulares y demás disposiciones que tiendan a regular el funcionamiento de las dependencias administrativas; observando en esta actividad el criterio de equidad de género;
 
 XVI.- Rendir anualmente un informe dirigido al Presidente Municipal sobre las actividades realizadas por la actividad administrativa a su cargo señalando en dicho informe si se cumplieron con las metas y los objetivos propuestas (sic) en el programa de trabajo y analizando las causas de los resultados;
 
@@ -2191,7 +2395,9 @@ Al frente de la Secretaría del Ayuntamiento habrá un profesionista, que se den
 
 Para ser Secretario del Ayuntamiento del municipio de Cosío se deberán reunir los requisitos que marca la Ley Municipal para el Estado de Aguascalientes, además de los siguientes:
 
-I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y mayor de 21 años;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+I.- Ser mexicana ó mexicano por nacimiento, en pleno ejercicio de sus derechos y mayor de 21 años;
 
 II.- Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo;
 
@@ -2199,7 +2405,9 @@ III.- Poseer título expedido en alguna carrera profesional de las ciencias econ
 
 IV.- No ser pariente consanguíneo en línea recta en cualquier grado o en línea colateral hasta el 4° grado, del Presidente Municipal;
 
-V.- No presentar antecedentes criminales ni policiales, relativos a haber sufrido condena por delito doloso de carácter patrimonial o condena superior a 2 dos años de prisión por delito doloso diverso; y
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+V.- No presentar antecedentes de violencia de género y/o familiar en cualquiera de sus tipos; ni criminales ni policiales, relativos a haber sufrido condena por delito doloso de carácter patrimonial o condena superior a 2 dos años de prisión por delito doloso diverso; y;
 
 VI.- Ser vecino del municipio con por lo menos dos años anteriores al día de su designación.
 
@@ -2233,7 +2441,9 @@ Al frente de la Policía Preventiva y Tránsito Municipal, habrá un profesionis
 
 Para ser Director General de Seguridad Pública, Tránsito y Vialidad del Municipio se deberán reunir los requisitos que marca la Ley Municipal para el Estado de Aguascalientes, además de los siguientes:
 
-I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y mayor de 21 años;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+I.- Ser mexicana ó mexicano por nacimiento, en pleno ejercicio de sus derechos y mayor de 21 años;
 
 II.- Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo;
 
@@ -2245,7 +2455,9 @@ V.- Tener experiencia en la carrera policíaca;
 
 VI.- No ser pariente consanguíneo en línea recta en cualquier grado o en línea colateral hasta el 4° grado, del Presidente Municipal; y
 
-VII.- No presentar antecedentes criminales, ni policiales relativos a haber sufrido condena por delito doloso de carácter patrimonial o condena superior a 2 dos años de prisión por delito doloso diverso.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VII.- No presentar antecedentes de violencia de género y/o familiar en cualquiera de sus tipos, ni criminales, ni policiales relativos a haber sufrido condena por delito doloso de carácter patrimonial o condena superior a 2 dos años de prisión por delito doloso diverso.
 
 ###### ARTICULO 237.
 
@@ -2341,11 +2553,15 @@ IV.- Operar el programa de Atención al Público cuyo objetivo es mejorar la cal
 
 V.- Vigilar el correcto manejo de las finanzas municipales, apegándose a lo establecido en la Ley de Ingresos y a los presupuestos de Ingresos y egresos municipales;
 
-VI.- Velar porque los procesos administrativos del municipio se realicen con transparencia, seguridad jurídica, agilidad y orden;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VI.- Velar porque los procesos administrativos del municipio se realicen con transparencia, seguridad jurídica, agilidad, orden y perspectiva de género;
 
 VII.- Ordenar y practicar visitas de auditoria e inspección a las dependencias municipales, centralizadas y descentralizadas, en materia de su competencia;
 
-VIII.- Supervisar los procesos de asignación, adjudicación, ejecución, entrega, recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VIII.- Supervisar los procesos de asignación, adjudicación, ejecución, entrega, recepción y pago de la obra pública y la correcta aplicación en ellos de los fondos públicos en las que observará obligatoriamente el principio de equidad de género;
 
 IX.- Vigilar y coordinar la adecuada entrega-recepción de las dependencias municipales;
 
@@ -2397,7 +2613,9 @@ Corresponde a la Secretaría del H. Ayuntamiento lo siguiente:
 
 I.- Ejercer las funciones que le señalan la Ley Municipal para el Estado de Aguascalientes y el Código Municipal;
 
-II.- Mantener el orden público, vigilando que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+II.- Mantener el orden público, vigilando que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, los derechos fundamentales de las mujeres y sus familias, a la paz y a la moral pública;
 
 III.- Ejercer las funciones que le correspondan en materia de Seguridad Pública;
 
@@ -2457,19 +2675,29 @@ II. Coordinar a los jueces calificadores, verificadores de reglamentos y área j
 
 III. Elaborar, Examinar y Supervisar la redacción de convenios, contratos, o cualquier acto jurídico que celebren las dependencias municipales con particulares y/u otras dependencias;
 
-IV. Vigilar que todas las actividades y procedimientos de la administración pública municipal se ajuntes a las disposiciones reglamentarias vigentes, así como a las leyes;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
-V. Hacer los estudios e investigaciones procedentes para la elaboración de los anteproyectos de leyes, reglamentos, acuerdos, circulares y demás disposiciones de carácter general que deban ser sometidas para su autorización en sesión de cabildo;
+IV. Vigilar que todas las actividades y procedimientos de la administración pública municipal se ajunte a las disposiciones reglamentarias vigentes, así como a las leyes aplicables, y de igual manera que se observe el principio de equidad de género en esta actividad;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+V. Hacer los estudios e investigaciones procedentes para la elaboración de los anteproyectos de leyes, reglamentos, acuerdos, circulares y demás disposiciones de carácter general que deban ser sometidas para su autorización en sesión de cabildo; observando en esta actividad el criterio de equidad de género;
 
 VI. Tener a su cargo, en coordinación con el Síndico Procurador la defensa y promoción de los procesos jurisdiccionales y contenciosos en los que intervenga el municipio;
 
-VII. Llevar a cabo la tramitación de asuntos jurisdiccionales y contenciosos que ponga a su consideración la población de escasos recursos, previa autorización del Presidente Municipal;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VII. Llevar a cabo la tramitación de asuntos jurisdiccionales y contenciosos que ponga a su consideración la población de escasos recursos, previa autorización del Presidente Municipal; se exceptúan de esta función la tramitación de asuntos y la asesoría a quienes hayan agredido a mujeres y/o sus familias en cuyo caso deberá brindarse la asesoría de ser requerida a la y/o los afectados de violencia de género y/o familiar;
 
 VIII. Asesorar jurídicamente al Ayuntamiento y a las demás dependencias administrativas;
 
 IX. Rendir un informe mensual al Presidente Municipal de los avances y estado de los asuntos de su competencia.
 
-X. Desempeñar el papel de mediador en los conflictos que la población ponga a su consideración;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+X. Desempeñar el papel de mediador en los conflictos que la población ponga a su consideración.
+
+Queda contraindicada cualquier práctica de mediación, negociación o conciliación por motivos de violencia hacia las mujeres y sus familias dentro o fuera de sus hogares, en cuyo supuesto se deberá dar parte a la autoridad competente y/o deberá aplicar la sanción correspondiente de acuerdo al presente Código Municipal;
 
 XI. Citar, requerir y en su caso hacer comparecer a las personas que se consideren necesarias para la practica de las diligencias a que haya lugar;
 
@@ -2545,11 +2773,17 @@ II.- Ejecutar los programas básicos del sistema nacional y estatal del desarrol
 
 III.- Realizar investigaciones y encuestas para detectar a los menores en estado de desnutrición con el objeto de protegerlos;
 
-IV.- Establecer programas a afecto de promover la superación personal y familiar;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+IV.- Establecer programas a afecto de promover la superación personal y familiar y establecer los programas tendientes a erradicar del municipio de Cosío la violencia de género;
 
 V.- Realizar actividades tendientes a la integración social de las personas con capacidades diferentes;
 
 VI.- Brindar orientación y asesoría jurídica a las personas que así lo requieran con el objeto de resolver sus problemas intrafamiliares;
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+Queda contraindicada cualquier práctica de mediación, negociación o conciliación por motivos de violencia hacia las mujeres y sus familias dentro o fuera de sus hogares, en cuyo supuesto se deberá dar parte a la autoridad competente y deberá prevalecer que se aplique la sanción correspondiente de acuerdo al presente Código Municipal;
 
 VII.- Implementar programas de orientación psicológica dirigida a todos los integrantes del núcleo familiar;
 
@@ -2557,7 +2791,9 @@ VIII.- Organizar actividades para la integración y significación de las person
 
 IX.- Promover campañas para el mejoramiento integral de la salud de las familias de Cosío;
 
-X.- Realizar acciones tendientes a la (sic) promover la orientación en materia de educación sexual, métodos anticonceptivos, prevención del cáncer en las mujeres y en general campañas tendientes a la concientización social en estos graves problemas;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+X.- Realizar acciones tendientes a la (sic) promover la orientación en materia de violencia de género, educación sexual, métodos anticonceptivos, prevención del cáncer en las mujeres y en general campañas tendientes a la concientización social en estos graves problemas; y
 
 XI.- Las demás que les sean señaladas en este Código y en las demás disposiciones jurídicas aplicables.
 
@@ -2573,7 +2809,9 @@ I.- Coordinar la administración de la Hacienda Pública Municipal;
 
 II.- Efectuar la recaudación y cobro de impuestos, contribuciones especiales, derechos, productos, aprovechamientos, participaciones y aportaciones federales para fines específicos;
 
-III.- Formular conjuntamente con las dependencias y entidades municipales el proyecto de presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+III.- Formular conjuntamente con las dependencias y entidades municipales el proyecto de presupuesto de Egresos; realizando esta actividad con el criterio de equidad de género;
 
 IV.- Formular en coordinación con las dependencias y entidades municipales el proyecto de Ley de Ingresos;
 
@@ -2635,7 +2873,9 @@ XXI.- Fungir como Secretario Técnico del Comité Municipal de Adquisiciones y a
 
 XXII.- Administrar y controlar los bienes patrimoniales de la Presidencia Municipal;
 
-XXIII.- Intervenir en la elaboración de presupuestos de las Dependencias Municipales, y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XXV (SIC).- Intervenir en la elaboración de presupuestos de las Dependencias Municipales, y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos; atendiendo el criterio de equidad de género en esta actividad;
 
 XXIV.- Desarrollar y establecer planes, programas y proyectos necesarios para la adecuada seguridad e higiene de todas las áreas de trabajo;
 
@@ -2643,7 +2883,13 @@ XXV.- Establecer las normas, criterios y procedimientos que deberán observar la
 
 XXVI.- mecanismos (sic) de planeación, coordinación, programación, información control, evaluación y mejoramiento de le (sic) eficacia y eficiencia administrativa y operativa de las dependencias y entidades de la administración pública municipal;
 
-XXVII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
+XXVII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XXVIII.- Definir y establecer los mecanismos de planeación, coordinación, programación, información control, evaluación y mejoramiento de la eficacia y eficiencia administrativa y operativa de las dependencias y entidades de la administración pública municipal; plasmando en esta actividad el criterio de equidad de género;
+
+XXIX y la XXX.- (SIC)
 
 ###### ARTICULO 250.
 
@@ -2659,9 +2905,13 @@ El tesorero municipal convocará a reuniones mensuales a los titulares de las de
 
 Corresponde al Departamento de Recursos Humanos:
 
-I.- Preparar los tabuladores de los sueldos y demás percepciones que correspondan a los servidores públicos del Municipio de Cosío;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
-II.- Manejar promociones del personal ligadas a incrementos de productividad;
+I.- Preparar con el criterio de equidad de género los tabuladores de los sueldos y demás percepciones que correspondan a los servidores públicos del Municipio de Cosío;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+II.- Manejar promociones del personal ligadas a incrementos de productividad; y atendiendo siempre el criterio de equidad de género en esta actividad; para lograr en la medida de lo posible la igualdad de oportunidades entre las mujeres y los hombres;
 
 III.- Coordinar el servicio civil de carrera;
 
@@ -2843,19 +3093,29 @@ II.- Impulsar el mejoramiento del nivel de vida de los habitantes del municipio,
 
 III.- Impulsar a la sociedad atendiendo sus propuestas y necesidades generando acciones definidas para su propio desarrollo;
 
-IV.- Ejecutar los planes y programas de desarrollo social y económico del municipio;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+IV.- Ejecutar los planes y programas de desarrollo del municipio; con una perspectiva de género;
 
 V.- Concertar con la sociedad acuerdos de carácter social, político y económico entre el Municipio y grupos sociales;
 
-VI.- Fomentar la participación ciudadana para la concertación de intereses, esfuerzos y voluntades para llegar al desarrollo integral de la Comunidad;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
-VII.- Apoyar la participación ciudadana, para lograr un mejoramiento de las condiciones de vida a través de las obras y servicios públicos que proporcionan los tres niveles de gobierno a través de sus diferentes programas;
+VI.- Fomentar la participación social con una perspectiva de género para la concertación de intereses, esfuerzos y voluntades para llegar al desarrollo integral de la Comunidad;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VII.- Promover y apoyar la participación ciudadana con una perspectiva de género, para lograr un mejoramiento de las condiciones de vida a través de las obras y servicios públicos que proporciona el Municipio;
 
 VIII.- Recibir y canalizar las iniciativas de la población tendientes a satisfacer sus necesidades, así como inducir su colaboración en la realización de obras y la prestación de los servicios públicos municipales;
 
-IX.- Elaborar, ejecutar, supervisar, evaluar y actualizar los planes y programas de Desarrollo Social Municipal; y
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+IX.- Elaborar, supervisar, evaluar y actualizar los planes y programas de Desarrollo Social Municipal con una perspectiva de género;
 
 X.- Las demás que le confiera el presente Código y demás ordenamientos aplicables.
+
+XI a la XII.- (SIC)
 
 APARTADO DECIMO SEGUNDO
 
@@ -3181,17 +3441,21 @@ Los trabajadores deberán de iniciar sus labores precisamente a la hora de entra
 
 Todos los trabajadores tendrán la obligación de mantener, sus lugares y equipos de trabajo, en un estado permanente de orden y limpieza, salvo los casos que correspondan al personal contratado para tal efecto.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 282.
 
-El salario será uniforme para cada una de las categorías de los trabajadores de base de acuerdo al tabulador que establezca la Secretaría de Administración y será fijado legalmente en los presupuestos respectivos, no pudiendo ser menor, atendiendo a condiciones de sexo, edad, nacionalidad o estado civil.
+El salario será uniforme para cada una de las categorías de los trabajadores de base de acuerdo al tabulador que establezca la Secretaría de Administración y será fijado legalmente en los presupuestos respectivos, no pudiendo ser menor, por razones étnicas religiosas, de participación política ó de género.
 
 ###### ARTICULO 283.
 
 El reglamento descrito en el artículo anterior surtirá efectos a partir de su registro en el Tribunal de Arbitraje del Estado de Aguascalientes, quien previo a su aprobación calificará y aprobará siempre que no contenga disposiciones contrarias al Estatuto Jurídico de los trabajadores al servicio del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados. El reglamento aprobado deberá de publicarse en el Periódico Oficial del Estado, así mismo deberá de imprimirse y repartirse entre los trabajadores, además se fijarán copias del reglamento en los lugares más visibles (sic) cada dependencia administrativa.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 284.
 
-En ningún caso el reglamento podrá establecer condiciones de trabajo inferiores a las establecidas en el Estatuto Jurídico de los trabajadores al servicio del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados.
+En ningún caso el reglamento podrá establecer condiciones de trabajo inferiores a las establecidas en el Estatuto Jurídico de los trabajadores al servicio del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados y/o por razones étnicas, religiosas, de participación política ó de género.
 
 ###### ARTICULO 285.
 
@@ -3207,7 +3471,9 @@ I. Ejecutar el trabajo con honestidad, eficiencia, cuidado y esmero apropiado, e
 
 II. Sujetarse a las instrucciones recibidas de sus respectivos jefes para efectuar los trabajos que se le encomienden;
 
-III. A tratar con mutuo respeto a sus subordinados, superiores, compañeros de trabajo y público en general, absteniéndose de cualquier abuso, actitud prepotente, maltrato de palabra u obra y demás conductas que deterioren la imagen del H. Ayuntamiento;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+III. A tratar con mutuo respeto a sus subordinados, superiores, compañeros de trabajo y público en general, absteniéndose de cualquier abuso, actitud prepotente, maltrato de palabra u obra y de cualquier forma de violencia hacia las mujeres sea física, verbal, escrita y/o psicológica y demás conductas que deterioren la imagen del H. Ayuntamiento;
 
 IV. Dar buen uso a los muebles, inmuebles, materiales, máquinas y equipos que utilicen o que estén a su resguardo y dar aviso inmediato a su superior de cualquier falla o defecto que estos presente (sic) a fin de que se reparen o repongan. La falta de este aviso al trabajador le será atribuible la responsabilidad;
 
@@ -3219,7 +3485,9 @@ VII. Usar los gafetes, la ropa de trabajo y/o equipo que se le encomiende para s
 
 VIII. Asistir y participar en los cursos internos de capacitación y adiestramiento que les indiquen sus superiores. Cuando los cursos sean externos, el H. Ayuntamiento pagará los cursos en proporción al nivel de aprovechamiento tenido en el curso, y se cursarán siempre y cuando tengan relación directa con su área de trabajo y sean necesarios para un mejor desempeño de sus funciones, debiendo ser autorizados previamente por el Comité de Capacitación; y
 
-IX. Cumplir con las demás normas de trabajo que le son aplicables y que contengan la Ley Federal del Trabajo, el Estatuto Jurídico de los Servidores Públicos de los Gobiernos del Estado, Municipios y Organismos descentralizados y La Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+IX. Cumplir en su desempeño laboral con la perspectiva de género, con las demás normas de trabajo que le son aplicables, y las normas que contengan la Ley Federal del Trabajo, el Estatuto Jurídico de los Servidores Públicos de los Gobiernos del Estado, Municipios y Organismos descentralizados y La Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
 
 ###### ARTICULO 287.
 
@@ -3243,9 +3511,13 @@ IX. Abandonar, aunque sea momentáneamente, sus labores, sin la autorización de
 
 X. Presentarse a sus labores con aliento alcohólico, bajo los efectos de bebidas embriagantes o bajo los efectos de narcóticos, enervante o psicotrópicos, salvo que exista prescripción médica, en cuyo caso deberá hacerlo del conocimiento de su jefe superior;
 
-XI. Portar armas de cualquier naturaleza, durante las horas de trabajo y dentro de las instalaciones del H. Ayuntamiento, salvo que la naturaleza de sus actividades así lo exija; y
+XI. Portar armas de cualquier naturaleza, durante las horas de trabajo y dentro de las instalaciones del H. Ayuntamiento, salvo que la naturaleza de sus actividades así lo exija; y (sic)
 
-XII. Las demás prohibiciones que le impone la Ley Federal del Trabajo, La Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, El Estatuto Jurídico para los servidores Públicos de los Gobiernos del Estado, Municipios y Organismos Descentralizados del Estado de Aguascalientes.
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XII.- Expresar ideas verbales o escritas y/o reproducir explicaciones de cualquier tipo que generen conductas de violencia o discriminación hacia las mujeres, y los hombres, sean compañeras y compañeros de trabajo o ciudadanas a las que les corresponda atender o prestar sus servicios como funcionarios públicos municipales, y;
+
+XIII. Las demás prohibiciones que le impone la Ley Federal del Trabajo, La Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, El Estatuto Jurídico para los servidores Públicos de los Gobiernos del Estado, Municipios y Organismos Descentralizados del Estado de Aguascalientes.
 
 ###### ARTICULO 288.
 
@@ -3299,9 +3571,11 @@ La imposición de las sanciones por la comisión de faltas o infracciones al pre
 
 Las disposiciones de este Título tienen por objeto regular las actividades de planeación del Gobierno Municipal de Cosío y la conducción del desarrollo dirigiendo la administración pública Municipal a efectos de que se integren a los sistemas nacional y estatal de planeación democrática.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 297.
 
-La planeación municipal será un proceso permanente y buscará la utilización eficiente de los recursos del municipio, asegurando la participación de los sectores de la sociedad, a través del Comité de Planeación para el Desarrollo del Municipio, y de otras organizaciones, en los planes de gobierno y se buscará lograr el equilibrio económico de los núcleos urbanos y rurales atendiendo las necesidades básicas, el mejoramiento de las condiciones de vida y la promoción de empleos.
+La planeación municipal será un proceso permanente y buscará invariablemente que se fomente la participación de las mujeres en igualdad de condiciones y oportunidades que los hombres y también pugnara por la utilización eficiente de los recursos del municipio, asegurando la participación de los sectores de la sociedad, a través del Comité de Planeación para el Desarrollo del Municipio, y de otras organizaciones, en los planes de gobierno y se buscará lograr el equilibrio económico de los núcleos urbanos y rurales atendiendo las necesidades básicas, el mejoramiento de las condiciones de vida y la promoción de empleos.
 
 ###### ARTICULO 298.
 
@@ -3317,9 +3591,11 @@ El Plan Municipal de Desarrollo tendrá la debida observancia y obligatoriedad q
 
 ### CAPITULO SEGUNDO. Del Plan Municipal de Desarrollo
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 301.
 
-El Plan Municipal de Desarrollo señala las estrategias, objetivos generales y líneas de acción del desarrollo integral de Cosío, y se refiere al conjunto de la actividad económica y social, y rige la orientación de los programas operativos anuales, tomando en cuenta, en lo conducente, lo dispuesto en el Plan Estatal de Desarrollo y los planes regionales respectivos.
+El Plan Municipal de Desarrollo señala las estrategias, objetivos generales y líneas de acción del desarrollo integral de Cosío, y se refiere al conjunto de la actividad económica y social, y rige la orientación de los programas operativos anuales, tomando en cuenta el criterio de equidad de género y lo dispuesto en el Plan Estatal de Desarrollo y los planes regionales respectivos.
 
 ###### ARTICULO 302.
 
@@ -3375,9 +3651,11 @@ La aprobación, actualización o sustitución de los programas que se deriva del
 
 De conformidad con lo dispuesto por el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, corresponde exclusivamente al Ayuntamiento, aprobar de forma libre y autónoma el Presupuesto de Egresos del Gobierno Municipal de Cosío.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 313.
 
-Con el propósito de optimizar los recursos municipales el Ayuntamiento deberá planear, programar y presupuestar sus actividades con honestidad, claridad y transparencia.
+Con el propósito de optimizar los recursos municipales el Ayuntamiento deberá planear, programar y presupuestar sus actividades con perspectiva de género, honestidad, austeridad, disciplina, racionalidad, claridad y transparencia.
 
 ###### ARTICULO 314.
 
@@ -3449,7 +3727,9 @@ IV.- Transferencias y subsidios;
 
 V.- Bienes Muebles e Inmuebles;
 
-VI.- Inversión Pública del Municipio;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VI.- Inversión Pública del Municipio con perspectiva de género;
 
 VII.- Inversiones Financieras;
 
@@ -3949,19 +4229,23 @@ En la primera sesión del Comité de Adquisiciones, se darán a conocer los nomb
 
 Son facultades del Comité de Adquisiciones, las siguientes:
 
-I.- Seleccionar al proveedor de los bienes y servicios de cada adquisición, hecha a través del procedimiento de invitación o licitación pública;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+I.- Seleccionar al proveedor de los bienes y servicios de cada adquisición, hecha a través del procedimiento de invitación o licitación pública, atendiendo el criterio de equidad de género en esta designación;
 
 II.- Aplicar políticas, sistemas, procedimientos y normas que regulen las adquisiciones, las cuales deberán plasmarse, analizarse y aprobarse por todos los miembros del Comité;
 
 III.- Elaborar y aprobar el manual de integración y funcionamiento del Comité;
 
-IV- Elaborar programas de adquisiciones, de acuerdo a los planes y programas Municipales;
+IV.- Elaborar programas de adquisiciones, de acuerdo a los planes y programas Municipales;
 
-V- Solicitar a las Dependencias Usuarias, durante los primeros dos meses de cada año, el programa anual de adquisiciones con el fin de Planear, Organizar, Dirigir, Implementar, Controlar y Evaluar las adquisiciones consolidadas Municipales, y así procurar obtener economías a escala;
+V.- Solicitar a las Dependencias Usuarias, durante los primeros dos meses de cada año, el programa anual de adquisiciones con el fin de Planear, Organizar, Dirigir, Implementar, Controlar y Evaluar las adquisiciones consolidadas Municipales, y así procurar obtener economías a escala;
 
 VI.- Integrar y conservar actualizado el padrón de proveedores;
 
-VII.- Expedir las convocatorias, de acuerdo a lo establecido en el presente Código, aprobando los plazos de los actos de las licitaciones públicas y concursos por invitación; y
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VII.- Expedir las convocatorias, de acuerdo a lo establecido en el presente Código, aprobando los plazos de los actos de las licitaciones públicas y concursos por invitación; prevaleciendo la perspectiva de género en esta actividad y
 
 VIII.- Las demás que le asigne el H. Ayuntamiento y el Presidente Municipal.
 
@@ -4029,9 +4313,15 @@ VII.- El tiempo y condiciones de entrega: y
 
 VIII.- Disponibilidad de refacciones, para el caso de adquisición de equipo.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 406.
 
-Será requisito indispensable para la selección del proveedor, que éste se encuentre previamente inscrito en el Padrón Municipal de Proveedores.
+Será requisito indispensable para la selección del proveedor:
+
+I.- Que se prefiera a las mujeres en igualdad de condiciones y oportunidades que los hombres en esta actividad, y,
+
+II.- Que éste se encuentre previamente inscrito en el Padrón Municipal de Proveedores.
 
 ###### ARTICULO 407.
 
@@ -4039,15 +4329,23 @@ Para ser inscrito en el Padrón, se presentará por escrito la solicitud ante el
 
 Asimismo, se procederá a la cancelación del registro al proveedor que solicite la declaración de quiebra, concurso o suspensión de pagos o al que no cumpla con los términos y condiciones de un pedido o contrato.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 408.
 
-Se preferirá como proveedor de bienes y servicios, en igualdad de circunstancias en el orden señalado, a:
+Se preferirá como proveedor de bienes y servicios, en igualdad de condiciones y oportunidades tanto a mujeres como a hombres en el orden señalado, a;
 
-I.- Los cosillenses y vecinos del Municipio;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
-II.- Los que producen los bienes en el propio municipio;
+I.- Las mujeres y los hombres originarios o vecinos del Municipio de Cosío;
 
-III.- Los campesinos y ejidatarios; y
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+II.- Las y los que producen los bienes en el propio municipio;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+III.- Las y los campesinos y ejidatarias y ejidatarios; y
 
 IV.- Las Sociedades Cooperativas.
 
@@ -4895,7 +5193,9 @@ VI.- Permitir o tomar parte en juegos de azar o de apuestas de cualquier tipo de
 
 VII.- Exceder el volumen 68 de decibeles, según la Norma Oficial Mexicana (NOM) 081 de los altoparlantes, estéreos y radios;
 
-VIII.- Adoptar actitudes obscenas o utilizar lenguaje que sea contrario a las buenas costumbres o que afecte a la moral de las personas;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VIII.- Adoptar actitudes obscenas o utilizar lenguaje con el que se ejerza violencia hacia las mujeres, y/o sea contrario a las buenas costumbres o que afecte a la moral de las personas;
 
 IX.- Vender, traspasar, arrendar, prestar, ceder o enajenar de cualquier forma total o parcialmente las piedras o locales; y
 
@@ -5641,7 +5941,7 @@ VII.- COMERCIANTE SEMI FIJO: Persona que realice toda actividad comercial en la 
 
 VIII.- COMERCIANTE AMBULANTE: Persona física dedicada a la actividad comercial en la vía pública, valiéndose de cualquier tipo de instrumento, tener lugar específico dentro de un sector;
 
-IX.- COMERCIANTE DOMICILlARIO: Aquél que ofrece sus productos de casa e (sic) casa o circulando por las calles, ya sea a pie o en algún tipo de vehículo;
+IX.- COMERCIANTE DOMICILIARIO: Aquél que ofrece sus productos de casa e (sic) casa o circulando por las calles, ya sea a pie o en algún tipo de vehículo;
 
 X.- TIANGUISTA: Persona física, sea el titular o sus suplentes, que ha adquirido el permiso correspondiente, del Ayuntamiento, para realizar el comercio dentro del tianguis, sea regular o eventual, en los días y horas determinadas y en una ubicación y superficie autorizada;
 
@@ -5853,7 +6153,9 @@ VIII.- Permitir el libre acceso a los inspectores de El Departamento de Reglamen
 
 IX.- Renovar anualmente, a más tardar el treinta y uno de Marzo, el permiso o licencia correspondiente, cumpliendo con las obligaciones que le señala este Código;
 
-X.- Evitar que en sus establecimientos se atenté contra la moral, buenas costumbres o se altere el orden público;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+X.- Evitar que en sus establecimientos se ejerza cualquier tipo de violencia hacia las mujeres y/o se atenté contra la moral, buenas costumbres o se altere el orden público;
 
 XI.- Exhibir en lugares visibles, al público y en forma legible, la lista de precios autorizados para la venta de sus productos;
 
@@ -6299,7 +6601,9 @@ II.- Obtener los permisos correspondientes y garantizar el pago de los derechos 
 
 III.- Respetar los horarios establecidos en los permisos correspondientes;
 
-IV.- Vigilar que en el desarrollo del evento no se susciten actos de inmoralidad;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+IV.- Vigilar que en el desarrollo del evento no se ejerza cualquier tipo de violencia hacia las mujeres y/o se susciten actos de inmoralidad;
 
 V.- Verificar que los asistentes no porten armas, drogas o cualquier sustancia prohibida;
 
@@ -6551,11 +6855,13 @@ Para efectos del presente artículo el Consejo Municipal de Seguridad Pública n
 
 El Gobernador del Estado, en los casos que juzgue como de fuerza mayor o alteración grave del orden público, dispondrá de la Policía Preventiva. Del ejercicio de esta facultad, informará al Congreso del Estado por escrito.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 752.
 
-Las autoridades de Seguridad Pública serán las encargadas de prevenir la comisión de delitos, poner a disposición del juez calificador a los infractores de faltas de policía y otras de carácter administrativo cometido en el territorio municipal, y levantar infracciones de tránsito.
+Las autoridades de Seguridad Pública serán las encargadas de prevenir la comisión de delitos, poner a disposición del juez calificador a los infractores de faltas de policía y otras de carácter Administrativo cometido en el territorio municipal, y levantar infracciones de tránsito.
 
-Asimismo, combatirán las causas que generan la comisión de faltas, delitos y conductas antisociales, formulando y desarrollando políticas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad.
+Asimismo, combatirán las causas que generan la comisión de faltas, delitos, conductas antisociales y la violencia hacia las mujeres y/o sus familias dentro o fuera de sus hogares en cualquiera de sus tipos enunciados por el Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes, formulando y desarrollando políticas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad.
 
 ###### ARTICULO 753.
 
@@ -6570,6 +6876,26 @@ III.- Promover, coordinar y aplicar los programas de prevención de delitos v fa
 IV.- Establecer los mecanismos de coordinación y colaboración en la investigación y persecución de los delitos y de los delincuentes; y
 
 V.- Auxiliar a la población civil en casos de siniestros y desastres naturales, y en su caso mitigar sus efectos.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+ARTICULO 753 BIS.- Son obligaciones, en general, de los Cuerpos de Seguridad Pública Municipal del Municipio de Cosío en materia de Género las siguientes:
+
+I.- Atender de manera inmediata todos los casos de violencia contra las mujeres que sean recibidos a través de reportes por cualquier medio o por parte de cualquier persona aún cuando no se tratase de la afectada directa, en los números de emergencia o directamente en las oficinas de la Dirección de Seguridad Publica del Municipio de Cosío o de la Presidencia Municipal;
+
+II.- Proporcionar a las víctimas de violencia familiar y de género, la asesoría necesaria para conocer su situación jurídica y derechos;
+
+III.- Promover la cultura de respeto a los derechos fundamentales de las mujeres;
+
+IV.- Capacitar al personal de las distintas instancias policiales para atender los casos de violencia contra las mujeres;
+
+V.- Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia contra las mujeres;
+
+VI.- Implementar cursos y talleres de prevención y protección contra la violencia de género;
+
+VII.- Proporcionar a las víctimas de violencia de género el apoyo necesario para conocer su situación jurídica y sus derechos, y;
+
+VIII.- Cumplimentar sin demora las ORDENES DE PROTECCION. Serán autoridades competentes para liberar las órdenes de protección, las previstas en el capítulo IV de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes y en el Capítulo VI de su Reglamento.
 
 ###### ARTICULO 754.
 
@@ -6618,6 +6944,10 @@ f).- Subcomandante: Tres rombos;
 g).- Oficial: Dos rombos; y
 
 h).- Suboficial: Un rombo.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+ARTICULO 760 BIS.- Queda estrictamente prohibido a los mandos y agentes de la Dirección de Seguridad Pública Municipal, fomentar en la corporación practicas que se basen en la premisa de la inferioridad o superioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que justificasen o aumenten la violencia contra las mujeres.
 
 ###### ARTICULO 761.
 
@@ -6847,7 +7177,9 @@ IV.- Sistemas disciplinario, de estímulos y recompensas;
 
 V.- Mecanismos y lineamientos conforme a los cuales la Policía Preventiva y los Cuerpos de Seguridad privada actuarán bajo la autoridad y mando del Ministerio Público cuando intervengan como auxiliar de éste en la averiguación o persecución de los delitos;
 
-Vl.- Relación con la comunidad y fomento a la cultura de prevención de faltas cívicas y delitos; y
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VI.- Relación con la comunidad y fomento a la cultura de prevención de la violencia contra las mujeres faltas cívicas y delitos, y
 
 VII.- Las demás que determinen las leyes y que resulten necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de Seguridad Pública, o mediante convenios y bases de coordinación entre instituciones que al efecto celebren.
 
@@ -6877,7 +7209,9 @@ V.- Celebrar convenios de coordinación con las diferentes Instituciones relacio
 
 VI.- Asistir a las juntas y reuniones para efecto de coordinar políticas relacionadas con la Prevención del delito;
 
-VII.- Participar en la promoción y fomento de una cultura de prevención del delito, educación vial y siniestros; y
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VII.- Participar en la promoción y fomento de una cultura de prevención del delito, educación vial, la violencia contra las mujeres y los siniestros; y
 
 VIII.- Realizar acciones de auxilio a la población afectada en caso de desastres, siniestros y accidentes, en coordinación con la Unidad Municipal de Protección Civil, bomberos y Cuerpo de rescate.
 
@@ -6911,9 +7245,11 @@ La función del Cuerpo de Bomberos y de Protección Civil, es la de prevenir y c
 
 La Dirección diseñará e implementará en coordinación con el Instituto, un Programa General de Profesionalización que incluya a todo el personal de Seguridad Pública, que tendrá como finalidad alcanzar su desarrollo profesional, ético, técnico, científico, físico, humanístico y cultural en el marco del respeto a los derechos humanos y al estado de derecho.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 798.
 
-La Dirección establecerá los requisitos y procedimientos de reclutamiento, selección, ingreso, formación, actualización, especialización y promoción del personal.
+La Dirección establecerá los requisitos y procedimientos de reclutamiento, selección, ingreso, formación, actualización, especialización y promoción del personal observando para tal efecto el criterio de equidad de género.
 
 ###### ARTICULO 799.
 
@@ -6925,9 +7261,11 @@ Los cursos de actualización y especialización serán obligatorios y accesibles
 
 ### CAPITULO OCTAVO. De las Bases y Lineamientos de Actuación de los Elementos Operativos
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 801.
 
-El servicio a la comunidad, la disciplina, honradez, la responsabilidad, la eficacia, la eficiencia, lealtad, el respeto a los derechos humanos y la legalidad, son principios que el personal de Seguridad Pública debe observar invariablemente en su actuación.
+El servicio a la comunidad, la disciplina, honradez, la responsabilidad, la eficacia, la eficiencia, lealtad, el respeto a los derechos humanos, los derechos fundamentales de las mujeres y la legalidad, son principios que el personal de Seguridad Pública debe observar invariablemente en su actuación.
 
 ###### ARTICULO 802.
 
@@ -6935,11 +7273,17 @@ Los elementos pertenecientes a la Dirección, independientemente de las obligaci
 
 I.- Actuar dentro del orden jurídico, respetando en todo momento los preceptos contenidos en las Constituciones Políticas de los Estados Unidos Mexicanos, la de Aguascalientes, y las leyes que de ellas emanen;
 
-II.- Respetar y contribuir en la protección de los Derechos Humanos;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
-III.- Actuar con decisión y sin demora en la protección de las personas, sus bienes y sus derechos;
+II.- Respetar y contribuir en la protección de los Derechos Humanos y los derechos fundamentales de las mujeres que se encuentren en el Municipio;
 
-IV.- No discriminar en el cumplimiento de sus funciones a persona alguna en razón de su nacionalidad, raza, etnia, religión, sexo, idioma, dialecto, condición social o física, ideología, preferencia sexual o por algún otro motivo;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+III.- Actuar con decisión y sin demora en los casos de violencia contra las mujeres y/o sus familias dentro o fuera de sus hogares y la protección de las personas, sus bienes y sus derechos;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+IV.- No discriminar en el cumplimiento de sus funciones a persona alguna en razón de su nacionalidad, raza, etnia, religión, género, idioma, dialecto, condición social o física, ideología, preferencia sexual ó política o por algún otro motivo;
 
 V.- Abstenerse de todo acto de corrupción;
 
@@ -6951,13 +7295,17 @@ VIII.- Observar la prohibición de liberar a los detenidos sin orden o autorizac
 
 IX.- Ajustarse a lo que establecen los Artículos 14 y 16 de la constitución Política de los Estados Unidos Mexicanos en lo referente a la detención de personas;
 
-X.- Observar un trato respetuoso en sus relaciones con las personas, a quienes auxiliarán y protegerán en todo momento;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+X.- Observar un trato respetuoso en sus relaciones con mujeres y las personas, a quienes auxiliarán y protegerán en todo momento;
 
 XI.- Abstenerse de todo acto de prepotencia;
 
 XII.- Permitir las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico, realice la ciudadanía;
 
-XIII.- Prestar apoyo a las personas que hayan sido víctimas de algún delito o estén amenazadas, y en su caso, solicitar los servicios hospitalarios de emergencia, así como facilitar los medios para dar aviso a sus familiares o conocidos;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XIII.- Prestar apoyo a las personas que hayan sido víctimas de violencia de género y/o familiar, de algún delito o estén amenazadas, y en su caso, solicitar los servicios hospitalarios de emergencia, así como facilitar los medios para dar aviso a sus familiares o conocidos;
 
 XIV.- Intervenir por propia iniciativa, aun cuando no se encuentren en servicio, para dar asistencia a cualquier persona en riesgo;
 
@@ -6975,9 +7323,13 @@ XX.- Velar por la vida, integridad física y proteger los artículos personales 
 
 XXI.- Obedecer las órdenes de sus superiores jerárquicos y cumplir con todas las obligaciones que tengan a su cargo, siempre y cuando la ejecución de aquéllas o el cumplimiento de éstas no signifiquen la comisión de un delito;
 
-XXII.- No infligir, ni tolerar actos de tortura, tratos crueles, inhumanos o degradantes a aquéllas personas que se encuentren bajo su custodia. En el caso de tener conocimiento de tales actos, deberá denunciarlos inmediatamente ante sus superiores o ante el Ministerio Público;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
-XXIII.- Tratar a sus subordinados y compañeros con dignidad, respeto, decoro y estricto apego a los principios de derechos humanos y a las normas disciplinarias aplicables;
+XXII.- No suscitar, ni tolerar actos de violencia contra las mujeres y/o sus familias dentro y/o fuera de sus hogares, tortura, tratos crueles, inhumanos o degradantes a aquéllas personas que se encuentren bajo su custodia. En el caso de tener conocimiento de tales actos, deberá denunciarlos inmediatamente ante sus superiores o ante el Ministerio Público;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XXIII.- Tratar a sus subordinados y compañeros con dignidad, respeto, decoro y estricto apego a los principios de derechos humanos, los derechos fundamentales de las mujeres y a las normas disciplinarias aplicables;
 
 XXIV.- Guardar la reserva y confidencialidad necesaria respecto al desempeño de sus funciones, salvo disposición legal contraria. Lo anterior, sin perjuicio de informar al Director, el contenido de aquellas órdenes de las cuales tengan presunción fundada de ilegalidad;
 
@@ -6993,9 +7345,13 @@ XXVIII.- Estudiar, conocer y respetar este Libro y las demás Leyes aplicables y
 
 Son atribuciones de los elementos operativos de la Dirección:
 
-I.- Impedir la ejecución de actos contrarios a la tranquilidad pública, la moral y las buenas costumbres, así como los que tiendan a dañar a personas, animales o cosas;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
-II.- Tomar las medidas de protección y aseguramiento de personas con deficiencias mentales, ebrios, intoxicados o drogados, inválidos, mendigos, extraviados y menores de edad desatendidos, debiendo ponerlos a disposición de las Instituciones Asistenciales, o en su caso de la autoridad competente;
+I.- Impedir la ejecución de actos contrarios a la tranquilidad pública, la moral y las buenas costumbres, así como los que tiendan a dañar a las mujeres y/o sus familias dentro y/o fuera de sus hogares, las personas, animales o cosas;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+II.- Tomar las medidas de protección, prevención y aseguramiento de los agresores de su ascendientes y/o descendientes y/o de las mujeres, de las personas con deficiencias mentales, ebrios, intoxicados o drogados, inválidos, mendigos, extraviados y menores de edad desatendidos, debiendo ponerlos a disposición de las Instituciones Asistenciales, o en su caso de la autoridad competente;
 
 III.- Evitar conductas peligrosas tales como: jugar en las vías públicas, viajar en el exterior de cualquier vehículo o abordarlo en movimiento, escalar postes, árboles, muros o cualquier otra actividad riesgosa;
 
@@ -7013,9 +7369,11 @@ VII.- Todas las demás que se les asignen o se incluyan en otras Leyes, reglamen
 
 Los principios éticos y los aspectos disciplinarios constituyen la base de la actuación adecuada de los elementos operativos de la Dirección y las Corporaciones Auxiliares.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 805.
 
-La conducta de los elementos operativos de la Dirección y las Corporaciones Auxiliares, dentro y fuera del servicio, se ajustará a los principios de legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos o comisiones.
+La conducta de los elementos operativos de la Dirección y las Corporaciones Auxiliares, dentro y fuera del servicio, se ajustará a los principios de legalidad, honradez, lealtad, imparcialidad equidad de género y eficiencia en el desempeño de sus funciones, empleos, cargos o comisiones.
 
 ###### ARTICULO 806.
 
@@ -7099,11 +7457,15 @@ X.- Portar pluma o lápiz, libreta de notas y formatos de actas de infracción, 
 
 XI.- Acudir en auxilio de las autoridades Federales, del Estado de Aguascalientes, y de los Municipios y Estados vecinos, cuando sean requeridos para ello, mediante solicitud debidamente fundada y motivada, autorizada por el Presidente, excepción hecha de los casos de extrema urgencia en que deberá participar hasta el límite de sus atribuciones;
 
-XII.- Detener a los presuntos responsables de la comisión de delitos o faltas cívicas que sorprendan en flagrancia, a los que remitirán a la autoridad competente en forma inmediata;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XII.- Detener a los presuntos responsables de la comisión de delitos, faltas cívicas violencia familiar y/o de género que sorprendan en flagrancia, a los que remitirán a la autoridad competente en forma inmediata;
 
 XIII.- Entregar a la Dirección las armas, u objetos con los que se hubiera cometido algún delito o falta, para que a su vez se remitan a la autoridad competente;
 
-XIV.- Evitar y prevenir cualquier forma de acoso sexual;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XIV.- Evitar y prevenir cualquier forma de acoso sexual y de violencia contra las mujeres en cualquiera de sus tipos;
 
 XV.- Cuidar el entorno ecológico de las áreas bajo su cuidado;
 
@@ -7161,7 +7523,9 @@ XLI.- Solicitar su baja, cuando por alguna circunstancia no estén conformes con
 
 XLII.- Rechazar todo compromiso que implique deshonor, falta de disciplina o menoscabo de la reputación de su persona o de la propia Dirección. Jamás empeñarán su palabra de honor, cuando no tengan la absoluta certeza de poder cumplir lo que prometen. La palabra de honor debe ser inmaculada para todo individuo que sepa respetarse y respetar la Institución a la que pertenece;
 
-XLIII.- Respetar el honor de las familias tanto como quisieran que se respetara la propia. Si es falta grave de moral y honradez atentar contra el honor de las familias de los particulares, mayor gravedad reviste cuando se trata de la de un compañero, teniendo como agravantes la falta de consideración, si se trata de la de un superior, y la de cobardía y bajeza si se trata de la de un subalterno;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+XLII (SIC).- Respetar las familias y la mujer igualmente como lo deberá hacer con la propia. Si es falta grave de moral y honradez atentar contra el honor de las familias de los particulares incluyendo la propia, mayor gravedad reviste cuando se trata de la de un compañero, teniendo como agravantes la falta de consideración, si se trata de la de un superior, y la de cobardía y bajeza si se trata de la de un subalterno;
 
 XLIV.- Aceptar con dignidad y satisfacción las obligaciones que les imponga el servicio asignado, fomentando el espíritu de cuerpo, el sentimiento de pertenencia y la solidaridad entre compañeros;
 
@@ -11993,7 +12357,9 @@ Será facultad del Juez Calificador de Seguridad Pública y Vialidad el conocimi
 
 Son requisitos para ser designado Juez Calificador:
 
-I.- Ser ciudadano mexicano;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+(SIC) Ser hombre o mujer mexicano;
 
 II.- Acreditar tener los conocimientos necesarios para el desempeño del cargo, a juicio del Cabildo;
 
@@ -12001,7 +12367,9 @@ III.- Contar con buena reputación, honorabilidad;
 
 IV.- Contar con el título de Licenciado en Derecho o en su caso estudios en la materia; y
 
-V.- No contar con antecedentes penales por delitos dolosos, ni presentar antecedentes policiales por la comisión de faltas Administrativas.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+V.- No contar con antecedentes de violencia hacia las mujeres y/o sus familias ó penales por delitos dolosos, ni presentar antecedentes policiales por la comisión de faltas Administrativas.
 
 ###### ARTICULO 1398.
 
@@ -12011,11 +12379,15 @@ I.- Llevar el control de las personas puestas a su disposición, de los detenido
 
 II.- Imponer oportunamente las sanciones y medidas de seguridad aplicables a los infractores de las faltas administrativas de policía y bueno (sic) gobierno;
 
-III.- Ejercer funciones de conciliador cuando con motivo de la comisión de faltas administrativas en las que causen daños a terceros, y los interesados estén de acuerdo en someterse a su decisión, siempre y cuando no se trate de delitos que se persigan de oficio;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+III.- Ejercer funciones de conciliador cuando con motivo de la comisión de faltas administrativas en las que causen daños a terceros, y los interesados estén de acuerdo en someterse a su decisión, siempre y cuando no se trate de delitos que se persigan de oficio; Queda contraindicada cualquier práctica de mediación, negociación o conciliación por motivos de violencia hacia las mujeres y sus familias dentro o fuera de sus hogares, en cuyo caso se deberá aplicar la sanción que corresponda de conformidad al presente Código Municipal ó si fuera el caso, se deberá dar parte a la autoridad competente;
 
 IV.- Autorizar con su firma las actuaciones en que intervengan en ejercicio de sus funciones;
 
-V.- Expedir boletas de egreso, cuando el infractor haya cubierto el monto de su infracción, haya cumplido su arresto, o cuando sea remitido a otra autoridad competente;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+V.- Expedir boletas de egreso, cuando el infractor haya cubierto el monto de su infracción, haya cumplido su arresto, o cuando sea remitido a otra autoridad competente. En caso de violencia hacia las mujeres dentro y/o fuera de sus hogares queda prohibida la permuta, disminución o dispensa de la sanción impuesta al agresor o culpable de violencia de género y/o familiar, en este supuesto por seguridad de las familias y/o mujeres afectadas se deberá cumplir obligatoriamente con la sanción de 36 horas prisión preventiva inconmutable;
 
 VI.- Calificar las infracciones a la Ley de Vialidad del Estado y el presente Código y establecer la sanción correspondiente;
 
@@ -12211,9 +12583,11 @@ X.- Cualquier prevención que tienda a lograr los fines expresados en el artícu
 
 Las medidas de seguridad son de inmediata ejecución, tienen carácter temporal y preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 1425.
 
-La persona afectada por la aplicación de una medida de seguridad, tendrá derecho a que de inmediato le sea levantada, si presenta ante la autoridad competente, las concesiones, los permisos, licencias o autorizaciones, cuando la causa para su imposición sea la carencia de éstos; o cuando desaparezcan los motivos de riesgo público que las originó.
+La persona afectada por la aplicación de una medida de seguridad, tendrá derecho a que de inmediato le sea levantada, si presenta ante la autoridad competente, las concesiones, los permisos, licencias o autorizaciones, cuando la causa para su imposición sea la carencia de éstos; o cuando desaparezcan los motivos de riesgo público que las originó. Se exceptúan todos los casos de violencia contra las mujeres y/o sus familias dentro y/o fuera de sus hogares en cuyo supuesto la falta se considera grave y por lo tanto se deberá aplicar la sanción consistente en 36 horas inconmutables de arresto al o los responsables.
 
 ###### ARTICULO 1426.
 
@@ -12225,9 +12599,11 @@ En caso de clausura provisional como medida de seguridad, ésta podrá prolongar
 
 ### CAPITULO SEGUNDO. De las Faltas de Policía y Buen Gobierno
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 1428.
 
-Constituye una falta de policía y buen gobierno la acción u omisión, individual o de grupo, realizada en vía y lugares públicos o cuyos efectos se manifiesten en él, que altere o ponga en peligro el orden público o la integridad de las personas, seguridad, salubridad y tranquilidad, y sus propiedades en los términos de este capítulo.
+Constituye una falta de policía y buen gobierno la acción u omisión, individual o de grupo, realizada en vía y lugares públicos o cuyos efectos se manifiesten en él, que altere o ponga en peligro el orden público o la integridad de las personas, las mujeres y/o sus familias dentro y/o fuera de sus hogares, seguridad, salubridad y tranquilidad, y sus propiedades en los términos de este capítulo.
 
 ###### ARTICULO 1429.
 
@@ -12243,7 +12619,9 @@ I.- Emitir gritos, realizar actos o adoptar actitudes que constituyan falsa alar
 
 II.- Detonar cohetes, encender juegos pirotécnicos, hacer fogatas o usar explosivos sin permiso de la autoridad correspondiente;
 
-III.- Integrar o participar en grupos que causen molestia a las personas en vía y lugares públicos;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+III.- Integrar o participar en grupos que causen molestia a las personas y/o las mujeres en vía y lugares públicos;
 
 IV.- Ingresar o invadir sin autorización lugares o zonas, que estén cerradas o con el acceso restringido;
 
@@ -12297,7 +12675,9 @@ III.- Alterar la tranquilidad de las personas con gritos, música o ruidos, aun 
 
 IV.- Arrojar líquidos, polvos o cualquier sustancia a una persona que puedan mojarla, mancharla o causarle malestar;
 
-V.- Ofender a las personas que asisten a un espectáculo por parte de los organizadores, empleados, artistas o deportistas;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+V.- Ofender a las personas y/o a las mujeres que asisten a un espectáculo por parte de los organizadores, empleados, artistas o deportistas;
 
 VI.- Alterar el orden arrojando objetos o provocando altercados en espectáculos o en la entrada de ellos;
 
@@ -12345,19 +12725,27 @@ Además de las prevenciones contenidas en este artículo se aplicará lo conduce
 
 #### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 1433.
 
-Son faltas contra la Moral y el Civismo y se sancionarán con multa de 3 a 10 días de Salario Mínimo General Vigente en el Estado o arresto hasta por treinta y seis horas las siguientes:
+Son faltas contra la Moral y el Civismo y se sancionarán con multa de 3 a 10 días de salario mínimo General Vigente en el Estado o arresto hasta por treinta y seis horas las siguientes:
 
 I.- No comportarse con respeto y la consideración debida en ceremonias y festividades cívicas, en especial cuando se encuentre ante los símbolos patrios;
 
 II.- Alterar o dar uso indebido a los símbolos patrios sin perjuicio de otros ordenamientos legales;
 
-III.- Faltarle al respeto o abusar de cualquier manera a infantes, adultos en plenitud o personas con capacidades especiales en lugares públicos;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
-IV.- Corregir con escándalo o violencia a los ascendientes, descendientes, cónyuge o pareja en lugares públicos;
+III.- Faltarle al respeto o abusar de cualquier manera a mujeres, infantes, adultos en plenitud o personas con capacidades especiales en lugares públicos y/o dentro de sus hogares;
 
-V.- Dirigirse a una persona con frases o gesticulaciones groseras que afecten su pudor, asediarlo, o impedirle su libertad de acción en cualquier forma;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+IV.- Ejercer contra las Mujeres y/o los menores, incluyendo a los hijos y/o pupilos y/o ascendientes, cualquier tipo de violencia o maltrato, dentro ó fuera de los hogares y/o en lugares públicos del Municipio de Cosío;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+V.- Dirigirse a una persona y/o a las mujeres con frases o gesticulaciones groseras que afecten su pudor, asediarla, o impedirle su libertad de acción en cualquier forma;
 
 VI.- Permitir o ejercer la prostitución en lugares públicos no permitidos y sin la autorización correspondiente;
 
@@ -12393,9 +12781,11 @@ Se considerarán inimputables los menores de 18 años de edad, los locos, los qu
 
 Los ciegos, sordomudos y personas con graves incapacidades físicas, serán sancionados por las faltas que cometan, siempre que aparezca que su impedimento no ha influido determinantemente sobre su responsabilidad en los hechos, pero el Juez podrá reducir hasta la mitad la sanción que señala este capítulo, si aparecieron circunstancias que ameriten dicho tratamiento.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 1437.
 
-Las faltas cometidas por los descendientes contra sus ascendientes o por un cónyuge contra otro, sólo podrá sancionarse a petición expresa del ofendido, a menos que la falta se cometa en vía pública y con escándalo.
+Las faltas cometidas por los descendientes contra sus ascendientes o por un cónyuge contra otro, deberá sancionarse aun sin petición expresa de la ofendida, y también cuando la falta o agresión física y/o verbal se cometa en vía pública con o sin escándalo.
 
 ###### ARTICULO 1438.
 
@@ -12483,6 +12873,10 @@ Si existiere una condena en cantidad líquida, se enviará copia de la resoluci�
 
 Para toda violación a las normas y disposiciones municipales previstas en el presente Código y cuya individualización no esté prevista en los artículos subsecuentes se aplicará una sanción de cinco a mil veces el salario mínimo independientemente de la medida de seguridad y arresto atendiendo a la gravedad de la falta que en su caso proceda.
 
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+ARTICULO 1458 BIS.- La violencia contra las mujeres y/o sus familias dentro y/o fuera de sus hogares en el municipio de Cosío se castigaran (sic) con una pena inconmutable de 36 horas de arresto.
+
 ## TITULO CUARTO. DE LA INDIVIDUALIZACION DE LAS SANCIONES
 
 ### CAPITULO PRIMERO. De las Sanciones en Materia de Faltas de Policía y Buen Gobierno
@@ -12495,9 +12889,11 @@ Las faltas de policía y buen Gobierno contempladas en el capítulo segundo del 
 
 Cuando el infractor, demuestre fehacientemente ser jornalero, obrero, trabajador no asalariado, o pensionado, la multa no excederá del monto correspondiente a un día de su salario o ingreso.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 1461.
 
-Para fijar el importe de la multa el juez calificador tomará en cuenta, la situación económica del infractor, su peligrosidad, sus antecedentes y la conducta desplegada al momento de ser detenido.
+Para fijar el importe de la multa el juez calificador tomará en cuenta, la situación económica del infractor, su peligrosidad, sus antecedentes y la conducta desplegada al momento de ser detenido y/o si se trata de faltas cometidas en agravio de las mujeres y/o sus familias dentro y/o fuera de sus hogares.
 
 ###### ARTICULO 1462.
 
@@ -12519,9 +12915,11 @@ Se considera reincidente al que haya competido la misma falta dentro de los tres
 
 Una vez notificada la multa económica impuesta al infractor, se le requerirá por el pago inmediato de la misma. En caso de no hacerla, se le conmutará por arresto que no excederá de treinta y seis horas. Inmediatamente que el infractor pague la multa, por su conducto o por interpósita persona, será puesto en absoluta libertad.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 1467.
 
-Por ningún motivo el Juez Calificador podrá liberar al detenido, sin el cumplimiento de la sanción a que se hubiere hecho acreedor. Solamente que medie una disposición expresa del Presidente Municipal se podrá liberar al infractor que se encuentra detenido en los separos de la policía preventiva, sin pagar la multa correspondiente.
+Por ningún motivo el Juez Calificador podrá liberar al detenido, sin el cumplimiento de la sanción a que se hubiere hecho acreedor. Solamente que medie una disposición expresa del Presidente Municipal se podrá liberar al infractor que se encuentra detenido en los separos de la policía preventiva, sin pagar la multa correspondiente. Se exceptúa de esta facultad del Presidente Municipal lo referente a la violencia en cualquiera de sus tipos y modalidades cometida (sic) en contra de las mujeres y/o sus familias dentro y/o fuera de sus hogares en cuyo caso invariablemente la sanción deberá ser de 36 horas de arresto inconmutables.
 
 ###### ARTICULO 1468.
 
@@ -12543,6 +12941,10 @@ Nueve días de salario mínimo: Treinta horas de arresto.
 
 Diez días de salario mínimo: Treinta y seis horas de arresto.
 
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
+Es inconmutable la sanción impuesta por motivo de la violencia contra las mujeres y/o sus familias dentro y/o fuera de sus hogares en cuyo supuesto la sanción consistirá en 36 horas de arresto.
+
 ###### ARTICULO 1469.
 
 El infractor, al momento que se determine su arresto, por ningún motivo quedará incomunicado, teniendo derecho a comunicarse al exterior vía telefónica.
@@ -12551,9 +12953,11 @@ El infractor, al momento que se determine su arresto, por ningún motivo quedar�
 
 Una vez cumplida la sanción administrativa impuesta, el infractor obtendrá su libertad, e inmediatamente deberá de entregársela (sic) sus pertenencias depositadas.
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 1471.
 
-El Juez Calificador también podrá imponer como medida de seguridad a los infractores, en el caso de que se encuentre bajo los efectos de bebidas embriagantes o sustancias que causen efectos similares, clínicamente comprobable, o cuando su conducta sea agresiva, el arresto hasta en tanto cesen dichos efectos o mejore su comportamiento. El arresto como medida de seguridad tampoco podrá exceder de treinta y seis horas.
+El Juez Calificador también podrá imponer como medida de seguridad a los infractores, en el caso de que se encuentre bajo los efectos de bebidas embriagantes o sustancias que causen efectos similares, clínicamente comprobable, o cuando su conducta sea agresiva o violenta en contra de las mujeres y/o sus familias, el arresto hasta en tanto cesen dichos efectos o mejore su comportamiento. El arresto como medida de seguridad incluido el supuesto de violencia contra las mujeres y/o sus familias dentro o fuera de sus hogares tampoco podrá exceder de treinta y seis horas.
 
 ### CAPITULO SEGUNDO. De las Sanciones en Materia de Servicios Públicos
 
@@ -12785,9 +13189,15 @@ III.- Permitir el ingreso a menores de edad a espectáculos o establecimientos e
 
 IV.- Permitir dentro del establecimiento la alternancia o actividades tendientes a la prostitución;
 
-V.- Permitir que dentro de los establecimientos alguna persona altere el orden publico, la moral, las buenas costumbres o participe en una riña; y
+V.- Permitir que dentro de los establecimientos alguna persona altere el orden publico, la moral, las buenas costumbres o participe en una riña; y (sic)
 
-VI.- La reincidencia a las faltas administrativas contraviniendo las disposiciones relativas al presente Código.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VI.- La reincidencia a las faltas administrativas contraviniendo las disposiciones relativas al presente Código y;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VII.- La violencia en cualquiera de sus tipos que se ejerza en contra de las mujeres y/o sus familias dentro y/o fuera de sus hogares en el Municipio de Cosío.
 
 ###### ARTICULO 1488.
 
@@ -12963,9 +13373,11 @@ Se procederá a la reubicación del comerciante, cuando la estructura del puesto
 
 ### CAPITULO PRIMERO. De la Interposición del Recurso
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 1501.
 
-Los particulares que no estén conformes con la resolución de un acto administrativo municipal o con la imposición de una o más infracciones, podrán solicitar la reconsideración ante la autoridad emisora o en su caso interponer el recurso de revisión previsto en la Ley del Procedimiento Administrativo.
+Los particulares que no estén conformes con la resolución de un acto administrativo municipal o con la imposición de una o más infracciones, podrán solicitar la reconsideración ante la autoridad emisora o en su caso interponer el recurso de revisión previsto en la Ley del Procedimiento Administrativo. Se exceptúan de esta reconsideración, los casos de violencia contra las mujeres y/o sus familias dentro y/o fuera de sus hogares.
 
 ###### ARTICULO 1502.
 
@@ -13065,9 +13477,15 @@ III.- Contra actos consumados de un modo irreparable;
 
 IV.- Contra actos consentidos expresamente;
 
-V.- Cuando se esté tramitando ante los tribunales algún recurso o defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, renovar o nulificar el acto respectivo; y
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
 
-VI.- Cuando se presente fuera del plazo señalado para su interposición.
+V.- Cuando se esté tramitando ante los tribunales algún recurso o defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, renovar o nulificar el acto respectivo;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
+
+VI.- Contra sanciones impuestas por motivo de violencia en cualquiera de sus tipos contra las mujeres y/o sus familias dentro y/o fuera de sus hogares, y;
+
+VII.- Cuando se presente fuera del plazo señalado para su interposición.
 
 ###### ARTICULO 1512.
 
@@ -13176,3 +13594,13 @@ P.O. 10 DE MARZO DE 2008.
 ###### ARTICULO UNICO.
 
 las reformas al código Municipal entraran en vigor al día siguiente de su publicación en el periódico oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones reglamentarias municipales en lo que se opongan al presente acuerdo.
