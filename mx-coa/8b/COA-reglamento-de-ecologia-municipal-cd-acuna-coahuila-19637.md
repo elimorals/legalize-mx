@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-ecologia-municipal-cd-acuna-coahuila-19637"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-19"
-last_updated: "2000-12-19"
+last_updated: "2010-02-09"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "COA"
 ---
 # REGLAMENTO DE ECOLOGIA MUNICIPAL CD. ACUÑA, COAHUILA ADMINISTRACION 2000-2002
 
-REGLAMENTO DE ECOLOGIA MUNICIPAL CD. ACUÑA, COAHUILA ADMINISTRACION 2000-2002
+REGLAMENTO DE ECOLOGÍA MUNICIPAL CD. ACUÑA, COAHUILA ADMINISTRACIÓN 2000-2002
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del estado de Coahuila de Zaragoza, el martes 19 de diciembre de 2000.
 
@@ -719,6 +719,14 @@ Para el aprovechamiento de los minerales o sustancias objeto del presente capít
 ###### ARTICULO 63.
 
 Los municipios, a través de la dependencia de la administración pública municipal en materia de medio ambiente, dictarán las medidas necesarias para proteger los valores estéticos y la armonía del paisaje, así como la fisonomía propia de los centros de población a fin de prevenir y controlar la llamada contaminación visual; con excepción de las zonas y bienes declarados, o que se declaren, patrimonio cultural del estado.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2010)</small>
+
+ARTICULO. 63 Bis. Se prohíbe la colocación de mantas, cartelones, propaganda y cualquier otro tipo de anuncio promocional de carácter comercial, cultural y electoral en postes de alumbrado público, servicio de telefonía, árboles, semáforos y cualquier otro de naturaleza similar que estén ubicados dentro de la circunscripción territorial del municipio.
+
+La propaganda de carácter comercial y cultural que pretenda colocarse en muros exteriores, deberá sujetarse a las disposiciones y lineamientos establecidos en este ordenamiento y demás disposiciones que resulten aplicables.
+
+La dependencia municipal en materia de medio ambiente, dentro del ámbito de su competencia, deberá retirar u ordenar el retiro de toda la propaganda que se coloque en incumplimiento a este artículo. En caso de que sea la misma autoridad municipal quien la retire, obligará a los responsables al reembolso de los gastos que por tal concepto procedan, sin prejuicio de que, en caso de incumplimiento, aplique las sanciones correspondientes.
 
 ###### ARTICULO 64.
 
@@ -1963,3 +1971,9 @@ DIRECTOR DE ECOLOGÍA
 DR. JUAN HUMBERTO CANTÚ GARCÍA
 
 Cd. Acuña, Coahuila octubre de 2000
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE FEBRERO DE 2010.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.
