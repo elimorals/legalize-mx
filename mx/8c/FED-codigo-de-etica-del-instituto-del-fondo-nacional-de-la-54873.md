@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-del-instituto-del-fondo-nacional-de-la-54873"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-30"
-last_updated: "2007-03-30"
+last_updated: "2010-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54873&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-02-02"
 
 CODIGO DE ETICA DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO ESTABLECIDO POR EL CODIGO DE ETICA DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 10 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO SUSTITUIDO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: SUSTITUIDO.
 
 Código publicado en la Cuarta Sección del Diario Oficial de la Federación, el viernes 30 de marzo de 2007.
 
@@ -208,3 +210,13 @@ LA H. ASAMBLEA GENERAL APRUEBA EL "CÓDIGO DE ÉTICA DEL INSTITUTO DEL FONDO NAC
 Atentamente
 
 México, D.F., a 2 de febrero de 2007.- El Secretario General, Carlos Acedo Valenzuela.- Rúbrica.- El Prosecretario General, Carlos Gabriel Maury González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O.F. 10 DE FEBRERO DE 2010.
+
+SE TRANSCRIBE UNICAMENTE EL PRECEPTO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+Entrada en vigor
+
+Este Código de Etica sustituye al aprobado en la sesión ordinaria número 90 de la H. Asamblea General, celebrada el día 20 de abril de 2006, y entrará en vigor al día siguiente de su aprobación por la Asamblea General del Infonavit.
