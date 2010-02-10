@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-universidad-autonoma-de-sinaloa-51619"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-08-07"
-last_updated: "2006-08-07"
+last_updated: "2010-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 7 de agosto de 2006.
 
@@ -283,7 +283,7 @@ IV. Por no informar oportunamente a sus representados de los acuerdos del Consej
 
 Son atribuciones del H. Consejo Universitario:
 
-l. Formular, aprobar y modificar el Estatuto General de la Universidad y expedir las normas y disposiciones reglamentarias de aplicación general para la mejor organización y funcionamiento de la Universidad;
+l. Formular, aprobar y modificar el Estatuto General de la Universidad y expedir las ternas y disposiciones reglamentarias de aplicación general para la mejor organización y funcionamiento de la Universidad;
 
 II. Aprobar a propuesta del Rector la creación, modificación o supresión de las entidades que conforman la organización académica y administrativa de la Universidad;
 
@@ -699,7 +699,7 @@ La comunidad universitaria se integra por las autoridades universitarias, alumno
 
 ###### ARTÍCULO 70.
 
-Los egresados y trabajadores pensionados son integrantes honoríficos de la comunidad universitaria las formas de su vinculación con la Universidad se establecerán en los convenios respectivos.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2010)
 
 ###### ARTÍCULO 71.
 
@@ -836,3 +836,11 @@ Lic. Jesús A. Aguilar Padilla.
 El Secretario General de Gobierno
 
 Lic. Rafael Oceguera Ramos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE FEBRERO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
