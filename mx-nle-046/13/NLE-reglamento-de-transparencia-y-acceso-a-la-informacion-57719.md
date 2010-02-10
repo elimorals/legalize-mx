@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transparencia-y-acceso-a-la-informacion-57719"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-30"
-last_updated: "2007-11-30"
+last_updated: "2010-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 2007.
 
@@ -45,9 +45,11 @@ El presente Reglamento es de orden público e interés social, y tiene por objet
 
 Asimismo tiene por objeto regular la integración, atribuciones, facultades y funcionamiento del Consejo Ciudadano para la Transparencia y Acceso a la Información.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 2.
 
-El presente ordenamiento tiene fundamento en lo dispuesto por los artículos 6, 8 y 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos; 8 de la Constitución Política del Estado de Nuevo León; 160, 161, 162, 163, 164 y 165 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, además del artículo 3 y demás relativos de la Ley de Acceso a la Información Pública del Estado de Nuevo León.
+El presente ordenamiento tiene fundamento en lo dispuesto por los artículos 6, 8, y 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos, 8 de la Constitución Política del Estado Libre y Soberano de Nuevo León, 160, 161, 162, 163, 164 y 165 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, además del artículo 3 y demás relativos de la Ley de Transparencia y Acceso a la Información del estado de Nuevo León.
 
 ###### Artículo 3.
 
@@ -63,77 +65,157 @@ En el caso de que cualquier disposición de este Reglamento, Ley o los Tratados 
 
 Para los efectos de este Reglamento se entenderá por:
 
-I. Acceso a la Información: Derecho de la persona para obtener información no reservada o confidencial contenida en cualquier documento que se encuentre bajo resguardo municipal.
+I. Acceso a la Información: Derecho de la persona para obtener información no reservada o confidencial contenida en cualquier documento que se encuentre bajo resguardo municipal;
 
-II. Autoridad: A los servidores públicos responsables de cada Dependencia, Entidad, oficina o unidad administrativa de los poderes del Estado, los ayuntamientos y sus administraciones públicas en cualquier forma, los organismos autónomos, y los fideicomisos en donde el fideicomitente o fideicomisario sea cualquiera de las entidades citadas.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-III. Clasificación: El acto por el cual se determina que la información que posee una Dependencia o Entidad, es pública, reservada o confidencial.
+II. Sujeto obligado: Todas las dependencias, entidades y organismos descentralizados del R. Ayuntamiento de San Nicolás de los Garza, Nuevo León;
 
-IV. Comisión: Comisión de Acceso a la Información Pública del Estado de Nuevo León.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-V. Consejo Ciudadano: El Consejo Ciudadano para la Transparencia y Acceso a la Información, del Municipio de San Nicolás de los Garza, Nuevo León.
+III. Clasificación: El acto por el cual se determina que la información que posee una dependencia, entidad u organismo descentralizado, es pública, reservada o confidencial;
 
-VI. Correo Electrónico: Dirección para recibir correspondencia vía electrónica a través de Internet que permite el envío y la recepción de información expresada en texto, voz, datos e imagen, fijos o bien en forma animada.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-VII. Criterios: Normas o reglas por las cuales se distingue lo público de lo reservado o confidencial.
+IV. Comisión: Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León;
 
-VIII. Datos Personales: La información concerniente a una persona física, identificada o identificable, como es la relativa a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, a su vida económica y patrimonio personal y familiar, domicilio, número telefónico, ideología y opciones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, las preferencias sexuales u otras análogas que afecten su intimidad.
+V. Consejo Ciudadano: El Consejo Ciudadano para la Transparencia y Acceso a la Información, del Municipio de San Nicolás de los Garza, Nuevo León;
 
-VII (SIC). Criterios: Normas o reglas por las cuales se distingue lo público de lo reservado o confidencial.
+VI. Correo Electrónico: Dirección para recibir correspondencia vía electrónica a través de Internet que permite el envío y la recepción de información expresada en texto, voz, datos e imagen, fijos o bien en forma animada;
 
-VIII. Datos Personales: La información concerniente a una persona física, identificada o identificable, como es la relativa a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, a su vida económica y patrimonio personal y familiar, domicilio, número telefónico, ideología y opciones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, las preferencias sexuales u otras análogas que afecten su intimidad.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-IX. Dependencias: Las señaladas en el Reglamento Orgánico del Gobierno Municipal de San Nicolás de los Garza, Nuevo León.
+VII. Criterios: Normas o reglas por las cuales se distingue lo público de oficio, de lo público, reservado o confidencial;
 
-X. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar contenidos en cualquiera de las modalidades señaladas en este artículo.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-XI. Entidades: Son Entidades Paramunicipales los Organismos Públicos Descentralizados Municipales y los Fideicomisos Públicos del Municipio.
+VIII. Datos personales: La información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo concerniente a una persona física identificada o identificable, relativa al origen étnico o racial, las características físicas, morales o emocionales, a la vida afectiva y familiar, domicilio particular, número telefónico particular, cuenta personal de correo electrónico, patrimonio personal y familiar, ideología y opiniones políticas, creencias, convicciones religiosas o filosóficas, estados de salud físico o mental, las preferencias sexuales, la huella digital, ácido desoxirribonucleico (ADN), fotografía, número de seguridad social y toda aquella que permita la identificación de la misma;
 
-XII. Información: La contenida en los documentos del H. Ayuntamiento, las Dependencias y Entidades.
+VII (SIC). Criterios: Normas o reglas por las cuales se distingue lo público de lo reservado o confidencial;
 
-XIII. Información Confidencial: Los datos personales de quien establezca una relación laboral o contractual con el Municipio o información que otorgue un ciudadano, en la que se manifieste de esta manera.
+VIII. Datos Personales: La información concerniente a una persona física, identificada o identificable, como es la relativa a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, a su vida económica y patrimonio personal y familiar, domicilio, número telefónico, ideología y opciones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, las preferencias sexuales u otras análogas que afecten su intimidad;
 
-XIV. Información Pública: Toda aquélla que encontrándose en poder del Gobierno Municipal de San Nicolás de los Garza, Nuevo León y estando contenida en los documentos que los sujetos obligados generen, obtengan, adquieran, transformen o conserven por cualquier titulo, no sea de aquélla que de acuerdo con este Reglamento o ley aplicable no pueda proporcionarse.
+IX. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
 
-XV. Información Reservada: Aquella información que se encuentra sujeta a alguna de las excepciones previstas en el presente reglamento o de conformidad con la normatividad aplicable.
+X. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar contenidos en cualquiera de las modalidades señaladas en este artículo;
 
-XVI. Ley: Ley de Acceso a la Información Pública del Estado de Nuevo León.
+XI. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
 
-XVII. Lineamientos: Es el marco normativo para la clasificación y desclasificación de la información reservada y confidencial de las Dependencias y Entidades de la Administración Pública Municipal que serán utilizados para tal efecto.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-XVIII. Modalidad: Formato en que puede contenerse la información, la cual podrá ser por escrito, mediante copias simples o certificadas, correo electrónico, fotografías, cintas de video, dispositivos de archivos electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos, y en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología en que obre la información.
+XII. Información: La contenida en los documentos del R. Ayuntamiento, sus dependencias, entidades y órganos descentralizados;
 
-XIX. Página Electrónica: Sistema de comunicación personal por ordenador a través de redes informáticas, que pueden contener texto, gráficos, archivos de sonido, animaciones relativas a la información del Gobierno Municipal, colocada en el servidor del Municipio para que pueda ser vista en cualquier lugar, con acceso a Internet por los ciudadanos.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-XX. Publicación: La reproducción en medios electrónicos o impresos de información contenida en documentos de conocimiento público.
+XIII. Información confidencial: Aquella que se refiere a los datos personales;
 
-XXI. Reclasificación: El acto por el cual se determina el cambio de calidad clasificada de un documento en posesión de una Dependencia o Entidad.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-XXII. Recomendaciones: Las propuestas, sugerencias, comentarios, guías y otros actos o resoluciones que emita el Consejo Ciudadano para la Transparencia y Acceso a la Información.
+XIV. Información pública: Toda aquella que encontrándose en poder del Gobierno Municipal de San Nicolás de los Garza, Nuevo León, o de algún organismo público descentralizado y estando contenida en los documentos que los sujetos obligados generen, obtengan, adquieran, transformen o conserven por cualquier título, no sea de aquella que de acuerdo a la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, o este Reglamento no pueda proporcionarse;
 
-XXIII. Reglamento: Reglamento de Transparencia y Acceso a la Información Pública del Municipio de San Nicolás de los Garza, Nuevo León.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-XXIV. Responsables del Acceso a la Información Pública: la Unidad de Enlace de Transparencia y Acceso a la Información, Los servidores públicos titulares de cada Dependencia, Entidad, el Ayuntamiento de San Nicolás de los Garza, Nuevo León y su administración pública, los organismos autónomos, y los fideicomisos en donde el fideicomitente o fideicomisario sea el Municipio.
+XV. Información reservada: La información pública que se encuentra temporalmente restringida, por encontrarse en alguno de los supuestos previstos en la ley o este reglamento;
 
-XXV. Servidores Públicos Municipales: Los integrantes del Gobierno Municipal, los titulares de las diferentes Dependencias y Entidades y todos aquellos que desempeñen un empleo, cargo o comisión de cualquier naturaleza en el mismo.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-XXVI. Subcomisión de Consejo Ciudadano: Parte integrante del Consejo Ciudadano que tiene como objetivo vigilar y certificar la rendición de cuentas, de las Dependencias o Entidades a las que fueron asignadas.
+XVI. Ley: Ley de Transparencia y Acceso a la Información del Estado de Nuevo León;
 
-XXVII. Unidad de Enlace de Transparencia y Acceso a la Información: Es el área técnica por medio de la cual se da trámite a las solicitudes, produciendo contestación a la misma y en su caso se hace la entrega de la información.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XVII. Lineamientos: Es el marco normativo para la clasificación y desclasificación de la información reservada y confidencial de las dependencias, entidades y organismos descentralizados, de la Administración Pública Municipal que serán utilizados para tal efecto;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XVIII. Modalidad: Formato en que puede contenerse la información, la cual podrá ser por escrito, mediante copias simples o certificadas, correo electrónico, fotografías, cintas de vídeo, dispositivos de archivos electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos y en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología en que obre la información;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XIX. Portal electrónico: Sistema de comunicación personal por ordenador a través de redes informáticas que pueden contener texto, gráficos, archivos de sonido, videos, así como animaciones relativas a la información del Gobierno Municipal, colocada en el servidor del Municipio para que pueda ser vista en cualquier lugar con acceso a Internet por cualquier persona;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XX. Publicación: La reproducción en medios electrónicos o impresos de información contenida en documentos de conocimiento público;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXI. Reclasificación: El acto por el cual se determina el cambio de calidad clasificada de un documento en posesión de una dependencia, entidad u órgano descentralizado;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXII. Recomendaciones: Las propuestas, sugerencias, comentarios, guías y otros actos o resoluciones que emita el Consejo Ciudadano para la Transparencia y Acceso a la Información;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXIII. Reglamento: Reglamento de Transparencia y Acceso a la Información del Municipio de San Nicolás de los Garza, Nuevo León;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXIV. Responsables del Acceso a la Información: Los servidores públicos titulares de cada dependencia, entidad, el R. Ayuntamiento de San Nicolás de los Garza, Nuevo León, y su administración pública, los organismos autónomos, y los fideicomisos en donde el fideicomitente o fideicomisario sea el Municipio;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXV. Servidores Públicos Municipales: Los integrantes del Gobierno Municipal, los titulares de las diferentes dependencias y entidades y todos aquellos que desempeñen un empleo, cargo o comisión de cualquier naturaleza en el mismo;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXVI. Subcomisión de (sic) Consejo Ciudadano: Parte integrante del Consejo Ciudadano que tiene como objetivo vigilar y certificar la rendición de las cuentas, de las dependencias o entidades a las que fueron asignadas;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXVII. Unidad de Enlace de Transparencia y Acceso a la Información: Es el vínculo entre la dependencia, entidad u órgano desconcentrado y el solicitante de la Información, con las atribuciones establecidas en el Reglamento Orgánico del Gobierno Municipal de San Nicolás de los Garza, Nuevo León;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXVIII. Información pública de oficio: Aquella información que las dependencias, entidades y organismos descentralizados del R. Ayuntamiento del Municipio de San Nicolás de los Garza, Nuevo León, deben tener para su consulta en los términos de la Ley de Transparencia y Acceso a la Información del Municipio de San Nicolás de los Garza, Nuevo León;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXIX. Días: los días hábiles;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXX. Información: aquélla contenida en los documentos que los sujetos obligados generan, obtienen, adquieren, transforman o conservan por cualquier título, o aquélla que por disposición legal deban generar;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXXI. Información confidencial: aquélla que se refiere a la vida privada y los datos personales;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXXII. Información pública de oficio: aquélla que los sujetos obligados deben tener a disposición del público para su consulta;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXXIII. Información pública: toda información en posesión de los sujetos obligados que no tenga el carácter de confidencial;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXXIV. Información reservada: la información pública que se encuentra temporalmente restringida al acceso público por encontrarse en alguno de los supuestos contenidos en el presente Reglamento; y,
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XXXV. Modalidad: formato en que otorgará la información pública que sea requerida, la cual podrá ser por escrito, mediante copias simples o certificadas, correo electrónico, fotografías, cintas de vídeo, dispositivos de archivos electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos, y en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología en que obre la información.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 6.
 
-Los particulares tendrán acceso a la información pública gubernamental en los términos que este Reglamento señala, con excepción de la información reservada y confidencial de las Dependencias y Entidades Municipales.
+Los particulares tendrán acceso a la información pública gubernamental en los términos que este Reglamento señala, con excepción de la información reservada y confidencial de las dependencias, entidades u órganos descentralizados.
 
 No podrá invocarse el carácter de reservado o confidencial cuando se trate de la investigación de violaciones graves de derechos fundamentales o delitos de lesa humanidad.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 7.
 
-La Unidad de Enlace de Transparencia y Acceso a la Información, sin que medie justificación, está obligada a proporcionar la información que obrando en su poder o de las Dependencias o Entidades le sea solicitada, siempre que sea aquélla que en los términos, condiciones y por los motivos que el presente Reglamento o ley aplicable deba de otorgarse, en la modalidad señalada por el solicitante, cuando las Dependencias y Entidades del Gobierno Municipal de San Nicolás de los Garza, Nuevo León, cuente con la información en dicho formato.
+La Unidad de Enlace de Transparencia y Acceso a la Información, sin que medie justificación, está obligada a proporcionar la información que obrando en su poder o de los sujetos obligados le sea solicitada, siempre que sea aquélla que en los términos, condiciones y por los motivos que la ley aplicable o el presente Reglamento deba de otorgarse, en la modalidad señalada por el solicitante, cuando las dependencias, entidades u órganos descentralizados del Gobierno Municipal de San Nicolás de los Garza, Nuevo León, cuente con la información en dicho formato.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 8.
 
-El acceso a la información pública es gratuito, sin embargo si para su entrega requiere de su reproducción en papel o en alguna otra modalidad, el solicitante deberá cubrir el pago de derechos derivados de su costo, de conformidad con las leyes hacendarias, procurando los sujetos obligados a proporcionarla, reducir (sic) los costos de entrega de la misma.
+El procedimiento de acceso a la información es gratuito, sin embargo si para su entrega requiere de su reproducción en papel o en alguna otra modalidad que la Ley o Reglamento contemple, el solicitante deberá cubrir el pago de derechos derivados de su costo, de conformidad con las leyes hacendarías, procurando los sujetos obligados a proporcionarla en la medida de lo posible, por medios electrónicos, reduciendo los costos de entrega de la misma.
 
 ###### Artículo 9.
 
@@ -141,81 +223,97 @@ Se certificarán las copias de aquellos documentos que consten en original o con
 
 ### CAPÍTULO II. DE LA INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 10.
 
-Cada Dependencia y Entidad, en forma permanente, tendrá la obligación de mantener a disposición del público, los datos principales de su organización y funcionamiento. Esta información, deberá estar contenida en un documento en el cual se incluyan todos los servicios municipales; debiendo encontrarse en un lugar visible del recinto de la autoridad, o bien en documento que se proporcionará gratuitamente a las personas interesadas.
+Cada Dependencia, Entidad u Órgano Descentralizado, en forma permanente, tendrá la obligación de mantener a disposición del público, los datos principales de su organización y funcionamiento. Esta información, deberá estar contenida dentro del portal municipal, o en su defecto, en el portal de transparencia del Gobierno Municipal de San Nicolás de los Garza, Nuevo León.
 
-Además conservará por el término de diez años, toda clase de archivos, documentos y formas de registro que obren en su poder. Transcurrido dicho plazo se enviará al archivo que corresponda.
+Además conservará por el término de siete años, toda clase de archivos, documentos y formas de registro que obren en su poder. Transcurrido dicho plazo se enviará al archivo que corresponda.
 
 ###### Artículo 11.
 
 Quienes generen, obtengan, adquieran, transformen o conserven información pública serán responsables de la misma en los términos de este Reglamento y/o leyes aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 12.
 
-La Unidad de Enlace de Transparencia y Acceso a la Información, deberá hacer del conocimiento público a través de la red mundial de información conocida como Internet, la información proporcionada por los Representantes de Transparencia y Acceso a la Información de cada Dependencia y Entidad, la información siguiente:
+La Unidad de Enlace de Transparencia y Acceso a la Información deberá hacer del conocimiento público a través de la red mundial de información conocida como Internet, además de la información a que se refiere el artículo 10 de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, la información proporcionada por los representantes de transparencia y acceso a la información de cada dependencia y entidad, la información siguiente:
 
-I. La Constitución Política del Estado de Nuevo León, las leyes, decretos, reglamentos, circulares y demás disposiciones de observancia general que le sean aplicables;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-II. Las convocatorias a concurso o licitación para las obras públicas, concesiones, adquisiciones, enajenaciones, arrendamientos y prestación de servicios, así como los resultados de aquellos, mismos que deberán contar previamente con la aprobación del Consejo Ciudadano de Obras Publicas en cuanto a la Propuesta de obras a realizar se refiere;
+I. Los indicadores de gestión de los servicios públicos que presta el Ayuntamiento;
 
-III. Los datos principales de su organización y funcionamiento;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-Respecto de cada ejercicio fiscal:
+II. Los recursos recibidos por concepto de multas, así como el uso o aplicación que se les da;
 
-a). Los presupuestos que hayan sido aprobados;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-b). Las cuentas públicas, así como los informes trimestrales de origen y aplicación de los caudales públicos;
+III. Las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras, incluyendo las tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-c). Los balances generales, y los estados de pérdidas y ganancias;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-d). La nómina mensual de la percepción salarial de los servidores públicos con expresión del nombre completo, cargo, y la remuneración, presentándose esta última en forma neta y bruta. Debiéndose adicionar, en su caso, la información relativa a cualquier deducción, percepción, prestaciones o compensación que reciban con respecto al ejercicio de su responsabilidad, excepto la información clasificada como reservada o confidencial;
+IV. Empréstitos, deudas contraídas, así como una relación de bienes enajenados;
 
-e). La relación analítica mensual de pagos hechos a contratistas, proveedores, prestadores de servicios por honorarios, gastos en comunicación social, representaciones, asesorías y en general todas las erogaciones que por cualquier concepto se realicen, debiendo incluir número de control, nombre, razón o denominación social, breve descripción del gasto y monto pagado, incluyendo el Impuesto al Valor Agregado;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-f). Los dictámenes sobre la aprobación o rechazo de las cuentas públicas, que se hayan votado en el Congreso;
+V. El calendario con las actividades culturales, deportivas y recreativas a realizar;
 
-g). Los dictámenes de revisión de los estados financieros realizados por el Órgano Superior Fiscalizador;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-h). La base normativa relacionada a los subsidios, estímulos y apoyos con cargo a la hacienda pública;
+VI. La Gaceta Municipal, la cual deberá incluir los resolutivos y acuerdos aprobados por el R. Ayuntamiento;
 
-IV. Los planes de desarrollo y sus programas;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-V. Los informes de resultados de la gestión, incluyendo en su caso, los mecanismos utilizados por la autoridad para la medición de su desempeño;
+VII. Estadísticas e indicadores del desempeño de los cuerpos de Seguridad, Transito y las demás entidades de la administración municipal;
 
-VI. Relación analítica del estado que guarda estadísticamente la Seguridad Pública municipal;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-VII. Los manuales de organización, políticas y procedimientos, así como las reglas de operación de los programas;
+VIII. Las actas de sesiones del R. Ayuntamiento;
 
-VIII. El contrato colectivo de trabajo vigente con el Sindicato de Burócratas, dejando a salvo la información confidencial o reservada;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-IX. La relación mensual de autorizaciones, permisos, licencias, concesiones y bajas que se hayan otorgado a los interesados, dejando a salvo la información confidencial o reservada;
+IX. La información que muestre el estado que guarda su situación patrimonial, incluyendo la relación de los bienes muebles e inmuebles, con los inventarios relacionados con altas y bajas en el patrimonio del municipio;
 
-X. Estado actual de los establecimientos dedicados a la venta, expendio y/o consumo de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-XI. Indicadores del desempeño del Gobierno Municipal;
+X. Sobre el ejercicio del presupuesto deberá publicarse el calendario trimestral sobre la ejecución de las aportaciones federales y estatales, identificando el programa para el cual se destinaron y, en su caso, el monto del gasto asignado por el propio municipio;
 
-XII. Las sesiones del R. Ayuntamiento deberán contar con audio y video a fin de ser publicadas en la Página Electrónica de Transparencia del Gobierno Municipal;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-XIII. Declaración Patrimonial del Presidente Municipal con su autorización para la publicación, por este medio.
+XI. En el caso de la información sobre programas de subsidio, se deberá considerar toda aquélla sobre los programas sociales administrados por el Sistema Municipal para el Desarrollo Integral de la Familia; y (sic)
 
-XIV. El directorio de servidores públicos, en el que se especifique nombre completo, domicilio, teléfono y correo electrónico, en su caso, del área de su adscripción, además de la fotografía excepto cuando se ponga en riesgo la vida, la seguridad, la salud, los bienes o la familia;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-XV. El Código de Ética de los servidores públicos;
+XII. La conformación de las Comisiones de los integrantes del Cabildo, así como los registros de asistencia de sus integrantes a las sesiones de trabajo de las mismas y del R. Ayuntamiento;
 
-XVI. Las actas de las sesiones celebradas por los diversos órganos colegiados de gobierno; y
+XIII. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
+
+XIV. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
+
+XV. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
+
+XVI. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
 
 XVII. Las demás que establezcan las leyes o disposiciones reglamentarias aplicables.
 
-La publicación vía Internet de la información anteriormente mencionada deberá llevarse a cabo durante los siguientes 30 días naturales, contados a partir de la fecha en que se generó la misma, acatando en todo caso las disposiciones legales que existan y que establezcan tiempos menores.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
+La publicación en Internet de la información contenida en el presente artículo deberá difundirse durante los siguientes treinta días naturales, contados a partir de la fecha en que se generó la misma, señalando la fecha de su actualización y deberá permanecer en los portales oficiales cuando menos por un periodo de un año contado a partir de su publicación, concluido ese término deberá estar disponible para su consulta ante los sujetos obligados.
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES DE TRANSPARENCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 13.
 
-Las Dependencias y Entidades deberán poner a disposición del público, a través de la red mundial Internet, la información a que se refiere el artículo anterior de conformidad con lo siguiente:
+Las Dependencias, Entidades u Órganos Descentralizados deberán poner a disposición del público, a través de la red mundial de información conocida como Internet, la información a que se refiere el articulo anterior de conformidad con lo siguiente:
 
-I. Los Representantes de Transparencia y Acceso a la Información de cada Dependencia y Entidad acatarán, según lo dispuesto en este Reglamento, los lineamientos y las recomendaciones que al respecto expida el Consejo Ciudadano.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+I. los Enlaces de Transparencia y Acceso a la Información de cada dependencia, entidad y órganos descentralizados acatarán, según lo dispuesto a este Reglamento, los lineamientos y las recomendaciones que al respecto expida el Consejo Ciudadano.
 
 II. Las Dependencias y Entidades deberán poner a disposición de la Unidad de Enlace de Transparencia y Acceso a la Información, los requerimientos establecidos en el presente Reglamento, y ésta a su vez la pondrá a disposición del público;
 
@@ -231,55 +329,69 @@ Las Dependencias y Entidades deberán publicar en Internet sus trámites y forma
 
 ###### Artículo 15.
 
-Los Funcionarios Públicos de la Administración Municipal, que legalmente tienen la obligación de rendir su declaración patrimonial, deberán presentarla en las fechas legalmente señaladas, de no cumplir con lo anterior, el órgano de control interno municipal, iniciará un procedimiento administrativo en su contra, y en su caso aplicará la sanción correspondiente.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2010)
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 16.
 
-El Presidente Municipal propondrá al R. Ayuntamiento declarar recinto oficial distinto al Salón de Sesiones ubicado en la Presidencia Municipal, para la celebración de sesiones ordinarias, por lo menos una de cada cuatro sesiones.
+Las Sesiones del R. Ayuntamiento, deberán de transmitirse con audio y video en tiempo real en la página electrónica de Transparencia del Gobierno Municipal, de igual forma, deberá de contar con un archivo de las mismas para su consulta.
 
 ## TITULO SEGUNDO. CLASIFICACIÓN DE LA INFORMACIÓN
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 17.
 
-Las Dependencias y Entidades deberán llevar a cabo el análisis y clasificación de la información, determinando su carácter como pública, reservada o confidencial y actualizarla cada vez que existan modificaciones a la misma, en un plazo no mayor a diez días hábiles contados a partir de que sufrió la modificación, notificando esto a la Unidad de Enlace de Transparencia y Acceso a la Información. Lo anterior sin perjuicio de lo previsto en otras disposiciones legales que resulten aplicables.
+Las Dependencias, Entidades u Órganos Descentralizados deberán llevar a cabo el análisis y clasificación de la información, determinando su carácter como pública, reservada o confidencial y actualizarla cada vez que existan modificaciones a la misma, en un plazo no mayor a diez días hábiles contados a partir de que sufrió la modificación, notificando esto a la Unidad de Enlace de Transparencia y Acceso a la Información. Lo anterior sin perjuicio de lo previsto en otras disposiciones legales que resulten aplicable (sic).
 
 El incumplimiento de esta disposición será responsabilidad directa del titular de la Dependencia o Entidad que haya omitido señalar a la Unidad de Enlace de Transparencia y Acceso a la Información las modificaciones que correspondan.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 18.
 
-La clasificación de la información contenida en los documentos será responsabilidad de los titulares de las Dependencias y Entidades.
+La clasificación de la información contenida en los documentos será responsabilidad de los titulares de las Dependencias, Entidades u Órganos Descentralizados.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 19.
 
-Los titulares de las Dependencias y Entidades llevarán a cabo la clasificación de la información contenida en cualquier documento en el momento en que:
+Los sujetos obligados llevarán a cabo la clasificación de la información contenida en cualquier documento en el que:
 
 I. Se genere, obtenga, adquiera o transforme la información; o
 
 II. Se reciba una solicitud de acceso a la información, en el caso de documentos ya elaborados y que no hayan sido clasificados previamente.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 20.
 
-Los Titulares de las Dependencias y Entidades deberán tomar en cuenta los presentes lineamientos, los cuales tienen por objeto establecer los criterios con base en los cuales la Unidad de Enlace de Transparencia y Acceso a la Información vigilará la clasificación o desclasificarán la información municipal de las Dependencias y Entidades en reservada o confidencial.
+Los titulares de las Dependencias, Entidades u Órganos Descentralizados deberán tomar en cuenta los presentes lineamientos, los cuales tienen por objeto establecer los criterios con base en los cuales la Unidad de Enlace de Transparencia y Acceso a la Información, vigilará la clasificación o desclasificará la información municipal de las Dependencias y Entidades en reservada o confidencial.
 
 ### CAPÍTULO II. CLASIFICACIÓN DE LA INFORMACIÓN RESERVADA Y CONFIDENCIAL
 
 ###### Artículo 21.
 
-Sin perjuicio de lo que establece este Reglamento, las Dependencias y Entidades, mediante un acuerdo escrito emitido y autorizado por la Unidad de Enlace de Transparencia y Acceso a la Información y de conformidad con sus Titulares, podrán emitir criterios específicos a la Dependencia o Entidad, para clasificar la información reservada y confidencial.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2010)
 
-Estos criterios se aplicarán por motivos técnicos o específicos de la Dependencia o Entidad con la finalidad de tener una mejor identificación de la información y serán obligatorios para los servidores públicos de la Dependencia o Entidad.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 22.
 
-Al clasificarse un expediente o documento como reservado o confidencial, el Titular de la Dependencia o Entidad deberá fundar y motivar su clasificación.
+Al clasificarse un expediente o documento como reservado o confidencial, el titular de la Dependencia, Entidad u Órganos Descentralizados deberá fundar y motivar su clasificación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 23.
 
-Los Titulares de las Dependencias y Entidades elaborarán dentro de los primeros diez días hábiles de cada mes el índice de Información Clasificada como reservada o confidencial, de conformidad con los siguientes requisitos:
+Los sujetos obligados elaborarán dentro de los primeros diez días hábiles de cada mes el Índice de Información Clasificada como reservada o confidencial, de conformidad con los siguientes requisitos:
 
-I. Deberá indicar la Dependencia o Entidad que generó, obtuvo, adquirió, transformó o tenga a su disposición la información;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+I. Deberá indicar la Dependencia, Entidad u Órgano Descentralizado, que generó, obtuvo, adquirió, transformó o tenga a su disposición la información;
 
 II. El tema al que se refiere, por rubros temáticos ordenados alfabéticamente;
 
@@ -301,21 +413,31 @@ De forma adicional se sujetaran a los lineamientos establecidos por la Unidad de
 
 Cuando la Unidad de Enlace de Transparencia y Acceso a la Información Pública determine la necesidad de revisar información clasificada como reservada o confidencial, sólo podrán tener acceso a ésta los servidores públicos comisionados por el Titular de la Secretaría de la Función Pública o por el Titular de la Unidad de Enlace de Transparencia y Acceso a la Información designados para tal efecto.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 25.
 
-Los particulares que aporten información a las Dependencias y Entidades podrán solicitar mediante escrito, su clasificación como reservada o confidencial.
+Los particulares que aporten información a los sujetos obligados podrán solicitar mediante escrito, su clasificación como reservada o confidencial.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 26.
 
-Los Titulares de las Dependencias o Entidades al clasificar la información como reservada o confidencial, considerarán el daño o perjuicio que causaría en caso de su difusión.
+Los titulares de las Dependencias, Entidades u Órganos Descentralizados al clasificar la información como reservada o confidencial, considerarán el daño o perjuicio que causaría en caso de su difusión.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 27.
 
 El acuerdo que clasifique la información como reservada o confidencial deberá manifestar que:
 
-I. La información encuadra en alguna de las hipótesis de excepción previstas en este Reglamento;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-II. La difusión de la información de referencia puede amenazar efectivamente el interés protegido por el Reglamento;
+I. La información encuadra en alguna de las hipótesis de excepción previstas en la Ley o este Reglamento;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+II. La difusión de la información de referencia puede amenazar efectivamente el interés protegido por la Ley o el Reglamento;
 
 III. El daño que puede ocasionarse con la difusión de la información es mayor que el interés público de conocer la información de referencia.
 
@@ -343,7 +465,13 @@ IV. Por acuerdo del Consejo Ciudadano para la Transparencia y Acceso a la Inform
 
 V. Por acuerdo del Titular de la Unidad de Enlace de Transparencia y Acceso a la Información;
 
-VI. Por acuerdo de la Comisión de Acceso a la Información Pública del Estado de Nuevo León.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+VI. Por acuerdo de la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+VII. Cuando la autoridad judicial así lo determine.
 
 ###### Artículo 31.
 
@@ -357,47 +485,75 @@ III. Por la persona que designe para este efecto el Titular de la Secretaría de
 
 ### CAPÍTULO IV. DE LA INFORMACIÓN RESERVADA
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 32.
 
-El período máximo de reserva es de diez años, para establecer dicho período los Titulares de las Dependencias o Entidades deberán considerar las circunstancias de tiempo, modo y lugar al momento de su clasificación, así como el daño y/o perjuicio que podría causar su difusión.
+El periodo máximo de reserva es de siete años, para establecer dicho periodo, los sujetos obligados deberán considerar las circunstancias de tiempo, modo y lugar al momento de su clasificación, así como el daño y/o perjuicio que podría causar su difusión. Este periodo podrá ser excepcionalmente renovado siempre que subsistan las causales que le dieron origen. El periodo de clasificación deberá contabilizarse desde la fecha en que se generó el documento o expediente.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 33.
 
-Los Titulares de las Dependencias y Entidades deberán revisar la clasificación para verificar si subsisten las causas que le dieron origen. En caso de que consideren necesario ampliar el plazo de reserva de la información, tres meses antes de su vencimiento el titular de la Dependencia o Entidad, solicitará a la Unidad de Enlace de Transparencia y Acceso a la Información la ampliación del término de reserva, mediante escrito fundado y motivado.
+Los titulares de las Dependencias, Entidades u Órganos Descentralizados deberán revisar la clasificación para verificar si subsisten las causas que le dieron origen. En caso de que consideren necesario ampliar el plazo de reserva de la información, tres meses antes de su vencimiento el titular de la Dependencia o Entidad, solicitará a la Unidad de Enlace de Transparencia y Acceso a la Información, la ampliación del término de reserva, mediante escrito fundado y motivado.
 
 ###### Artículo 34.
 
 Para los efectos de los lineamientos de clasificación se considera información reservada:
 
-I. La que de revelarse pueda causar perjuicio y/o daño irreparable a las funciones públicas municipales, en cuanto a su capacidad para ejercer el gobierno, expedir la normatividad o aplicar los reglamentos o leyes en los casos que sean aplicables;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-II. La que de revelarse pueda comprometer la integridad, la estabilidad, la permanencia, la gobernabilidad democrática, la seguridad del Municipio o de la nación;
+I. Ponga en riesgo la seguridad pública municipal o estatal o el diseño o ejercicio de los planes, programas, estrategias, operativos y recursos en dichas materias:
 
-III. La que de revelarse ponga en peligro la propiedad o posesión del patrimonio municipal, así como la estabilidad financiera o económica del Municipio;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-IV. Aquella cuya divulgación ponga en riesgo la vida, la seguridad, la salud, los bienes, la familia de cualquier persona o el medio ambiente;
+II. La que de hacerse del conocimiento público pueda poner en riesgo la eficacia, seguridad, oportunidad y confidencialidad de las actividades de planeación, programación y ejecución en materia de prevención, persecución de delitos o impartición de justicia;
 
-V. La de particulares recibida bajo promesa de reserva o esté relacionada con cuestiones industriales, comerciales, financieras, científicas, técnicas, de invenciones, patentes o cualquier otra similar, cuya revelación dañe perjudique el interés general, por cuanto a quien acceda a ella de manera previa al conocimiento general, pueda obtener un beneficio ilegítimo;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-VI. Las averiguaciones previas en las cuales forme parte o tenga conocimiento y la información que comprometa el sigilo de los procedimientos de investigación en materia penal;
+III. Ponga en riesgo la vida, la seguridad o la salud de cualquier persona;
 
-VII. Los procedimientos de responsabilidad administrativa de los servidores públicos, en tanto no se haya dictado resolución definitiva que haya causado ejecutoria;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-VIII. Aquella cuya divulgación pueda causar daño y/o perjuicio, o menoscabo a las actividades de prevención, persecución, así como a la impartición de justicia;
+IV. Cause o pueda causar un serio perjuicio a:
 
-IX. Aquella cuya divulgación pueda causar daño y/o perjuicio o menoscabo a las acciones que tengan por objeto la aplicación de disposiciones de carácter tributario;
+a) Las actividades de verificación del cumplimiento de las Leyes;
 
-X. Los estudios y proyectos cuya divulgación pueda causar daño o perjuicio al interés del Municipio, o suponga un riesgo para su realización;
+b) La seguridad de un denunciante o testigo, incluso de sus familias;
 
-XI. La que contenga opiniones, recomendaciones o información correspondiente a documentos o comunicaciones internas que sean parte de un procedimiento deliberativo para la toma de una decisión administrativa, en tanto éste no haya concluido;
+c) La recaudación de las contribuciones; y
 
-XII. Cuando se trate de información que pueda generar una ventaja personal indebida en perjuicio de un tercero;
+d) Las estrategias procesales de los sujetos obligados en procesos judiciales, administrativos o arbitrales, mientras las resoluciones que ponen fin a la instancia, no se hayan dictado;
 
-XIII. La que por disposición legal sea considerada secreta, reservada, restringida u otra análoga;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-XIV. La que contenga opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos hasta en tanto no sea adoptada la decisión definitiva la cual deberá estar documentada.
+V. La que por disposición expresa de una Ley sea considerada reservada. Esta información, en su caso, será clasificada conforme a las reglas de la Ley de Transparencia y Acceso a la Información del Estado;
 
-XV. Cuando se trate de información expresamente prohibida por las leyes o reglamentos.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+VI. Menoscabe seriamente el patrimonio de los sujetos obligados;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+VII. Afecte un proceso deliberativo incluyendo las opiniones, recomendaciones, insumos, o puntos de vista que formen parte del mismo, en tanto concierne a la toma de decisiones que impacte el interés público y hasta que no sea adoptada la decisión definitiva. En todos los casos, se deberá documentar el proceso deliberativo como la decisión definitiva;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+VIII. Los expedientes judiciales, arbitrales o de los procedimientos administrativos seguidos en forma de juicio, en tanto no cause estado la resolución definitiva. Una vez que dicha resolución cause estado, los expedientes serán públicos, salvo la información reservada o confidencial que pudieran contener.
+
+IX. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
+
+X. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
+
+XI. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
+
+XII. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
+
+XIII. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
+
+XIV. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
+
+XV. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
 
 ### CAPÍTULO V. DE INFORMACIÓN CONFIDENCIAL
 
@@ -455,7 +611,11 @@ s).- Numero de Identidad Social;
 
 t).- Otras análogas que afecten su intimidad, como la información genética;
 
-III.- La que se refieren (sic) a la declaración patrimonial de los servidores públicos, con las excepciones establecidas en el presente Reglamento.
+III.- La que se refieren (sic) a la declaración patrimonial de los servidores públicos, con las excepciones establecidas en el presente Reglamento;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+IV.- La establecida en el capítulo quinto de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 ###### Artículo 37.
 
@@ -491,7 +651,9 @@ El formato para la clasificación de documentos que se consideran reservados o c
 
 1. La fecha de clasificación del documento;
 
-2. El nombre del Titular de la Dependencia o Entidad que clasifica, quien será el servidor público responsable de la guarda y custodia de la información;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
+2. El nombre del titular de la Dependencia, Entidad u Órgano Desconcentrado, que clasifica, quien será el servidor público responsable de la guarda y custodia de la información;
 
 3. La materia o asunto del documento o expediente a clasificar;
 
@@ -505,7 +667,9 @@ El formato para la clasificación de documentos que se consideran reservados o c
 
 8. Si la información es clasificada como reservada deberá especificar el tiempo necesario de reserva de acuerdo a la naturaleza de dicha información;
 
-9. El nombre y la rúbrica del Titular de la Dependencia o Entidad que clasifica la información;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
+9. El nombre y la rúbrica del titular de la Dependencia, Entidad u Órgano Desconcentrado que clasifica la información;
 
 10. Nombre y rúbrica del Representante de Transparencia y Acceso a la Información de la Dependencia o Entidad;
 
@@ -513,13 +677,17 @@ El formato para la clasificación de documentos que se consideran reservados o c
 
 12. El sello oficial y/o logotipo de la dependencia o entidad y/o logotipo del Gobierno Municipal.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 43.
 
-El Representante de Transparencia y Acceso a la Información de cada Dependencia o Entidad, entregará tres originales de dicho formato con la información clasificada anexa, a la Unidad de Enlace de Transparencia y Acceso a la Información para que ésta evalúe la pertinencia de la clasificación y autorice en su caso la clasificación de la misma reenviando dos originales a la Dependencia o Entidad.
+El Enlace de Transparencia de cada Dependencia, Entidad u Órganos Descentralizados, entregará de forma digital, un Acuerdo de Clasificación de la Información con la información clasificada anexa, a la Unidad de Enlace de Transparencia y Acceso a la Información para que ésta evalúe la pertinencia de la clasificación y autorice en su caso la clasificación de la misma reenviando de manera digital, el Acuerdo final a la Dependencia, Entidad u Órganos Descentralizados.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 44.
 
-Los documentos que integren un expediente reservado o confidencial en su totalidad no deberán marcarse en lo individual. Si existieran en dichos expedientes documentos marcados como clasificados, prevalecerán sobre éstos, la fecha de clasificación y el período de reserva que obre en el formato elaborado por la Dependencia o Entidad de donde provenga el documento.
+Los documentos que integren un expediente reservado o confidencial en su totalidad no deberán marcarse en lo individual. Si existieran en dichos expedientes documentos marcados como clasificados, prevalecerán sobre éstos, la fecha de clasificación y el período de reserva que obre en el formato elaborado por el sujeto obligado de donde provenga el documento.
 
 ###### Artículo 45.
 
@@ -527,19 +695,25 @@ Los Tribunales judiciales o administrativos tendrán acceso a la información re
 
 ### CAPÍTULO VII. DE LA PROTECCIÓN DE DATOS PERSONALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 46.
 
-Los datos personales de un particular en términos del presente Reglamento o las leyes respectivas recibidos por las Dependencias y Entidades tendrán el carácter de confidencial y no estarán sujetos a término, salvo que medie el consentimiento expreso del titular de la información, cuidando que se protejan los derechos a la seguridad, la vida privada y la intimidad.
+Los datos personales de un particular en términos del presente Reglamento o las leyes respectivas recibidos por las Dependencias, Entidades u Órganos Descentralizados tendrán el carácter de confidencial y no estarán sujetos a término, salvo que medie el consentimiento expreso del titular de la información, cuidando que se protejan los derechos a la seguridad, la vida privada y la intimidad.
 
 Los particulares podrán advertir a la autoridad sobre aquello que considere pudiera tener el carácter de confidencial o sujeta a la protección de las leyes.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 47.
 
-Las Dependencias y Entidades garantizarán el acceso y corrección de los datos personales del propio particular interesado, de conformidad con los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales.
+Los sujetos obligados garantizarán el acceso y corrección de los datos personales del propio particular interesado, de conformidad con los lineamientos y políticas generales para el manejo, mantenimiento, seguridad y protección de los datos personales.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 48.
 
-Las Dependencias y Entidades deberán contar con un sistema de datos personales, en el que se indique el objeto del sistema, la unidad administrativa que lo administre y el nombre del responsable.
+Los sujetos obligados desarrollarán o tendrán sistemas de datos personales sólo cuando éstos se relacionen directamente con sus facultades o atribuciones, legales o reglamentarias. En todos los casos los datos deberán obtenerse a través de los medios previstos en la ley, este Reglamento u otras disposiciones aplicables.
 
 ### CAPÍTULO VIII. DE LOS COSTOS POR REPRODUCCIÓN DE INFORMACIÓN
 
@@ -561,9 +735,11 @@ El particular podrá solicitar la expedición de copias certificadas de la infor
 
 ### CAPÍTULO IX. DE LA UNIDAD DE ENLACE DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 52.
 
-La Unidad de Enlace de Transparencia y Acceso a la Información es el vínculo entre la Dependencia o Entidad y el solicitante de la información y será la responsable del procedimiento de acceso a la información que señala este Reglamento, para lo cual tiene las siguientes atribuciones:
+La Unidad de Enlace de Transparencia y Acceso a la Información es el vínculo entre la Dependencia Entidad u Órgano Descentralizados y el solicitante de la información y será la responsable del procedimiento de acceso a la información que señala este Reglamento, para lo cual tiene las siguientes atribuciones:
 
 I. Vigilar que se publique de manera oportuna la información pública que establece este Reglamento y las leyes aplicables a la materia;
 
@@ -571,7 +747,9 @@ II. Vigilar la correcta clasificación de la información de la Dependencia o En
 
 III. Recibir las solicitudes de acceso a la información;
 
-IV. Verificar si la información solicitada corresponde a la Dependencia o Entidad y si cumple con los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
+
+IV. Verificar si la información solicitada corresponde a la Dependencia Entidad u Órgano Descentralizados y si cumple con los siguientes requisitos:
 
 a) El nombre del solicitante o de su representante con su personalidad debidamente acreditada, mediante original o copia certificada del documento que lo acredite como tal y domicilio para oír y recibir notificaciones u otro medio que permita la notificación;
 
@@ -583,7 +761,9 @@ d) La modalidad en la que prefiere se le entregue la información;
 
 V. Orientar a los particulares sobre la manera de realizar las solicitudes de acceso a la información;
 
-VI. Gestionar dichas solicitudes al interior de cada Dependencia o Entidad;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+VI. Gestionar dichas solicitudes al interior de cada Dependencia, Entidad u Órgano descentralizados;
 
 VII. Vigilar el seguimiento que se dé al trámite interno de las solicitudes;
 
@@ -597,25 +777,37 @@ XI. Prevenir al solicitante para que subsane la omisión o error en que se halle
 
 XII. Mantener un registro de las solicitudes de acceso a la información, sus resultados y costos, el cual deberá estar disponible, debiendo proporcionarlo periódicamente a la Secretaría de la Función Pública Municipal;
 
-XIII. Ser el representante del Municipio ante la Comisión de Acceso a la Información Publica del Estado;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-XIV. Brindar asesoría, apoyo técnico, capacitación y hacer recomendaciones a las Dependencias y Entidades, para propiciar el cumplimiento de las disposiciones del presente Reglamento;
+XIII. Ser el representante del Municipio ante la Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León;
 
-XV. Expedir criterios, recomendaciones, políticas y programas en materia de acceso a la información pública y de protección de datos personales para las Dependencias y Entidades, incluidos los índices y la clasificación, desclasificación, custodia y conservación de la información pública y reservada;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-XVI. Emitir formatos, procedimientos y sistemas de observancia obligatoria para que las Dependencias y Entidades reciban, procesen y tramiten las solicitudes de acceso a la información y a datos personales, así como a la corrección de éstos últimos; (sic)
+XIV. Brindar asesoría, apoyo técnico, capacitación y hacer recomendaciones a los sujetos obligados, para propiciar el cumplimiento de las disposiciones del presente Reglamento;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XV. Expedir criterios, recomendaciones, políticas y programas en materia de acceso a la información y de protección de datos personales para las Dependencias Entidades u Órganos Descentralizados, incluidos los índices y la clasificación, desclasificación, custodia y conservación de la información pública y reservada;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+XVI. Emitir formatos, procedimientos y sistemas de observancia obligatoria para que los sujetos obligados reciban, procesen y tramiten las solicitudes de acceso a la información y a datos personales así como a la corrección de éstos últimos.
 
 ###### Artículo 53.
 
-Las Unidades de Enlace de Transparencia y Acceso a la Información podrán encontrarse fijas en un lugar visible en la Presidencia Municipal y en las oficinas de la Secretaría de la Función Pública, además de que podrán instalarse unidades móviles para mejor acceso de la comunidad. Lo anterior a criterio y por el tiempo que señale el Titular de la Unidad de Enlace de Transparencia y Acceso a la Información.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2010)
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 54.
 
-Los Titulares de las Dependencias y Entidades designarán una persona que será el Representante de Transparencia y Acceso a la Información de cada Dependencia y Entidad, el cual representara a la Dependencia o Entidad con la Unidad de Enlace de Transparencia y Acceso a la Información, siendo esta la que ejercerá las facultades que le otorga este Reglamento y en su caso la Ley de la materia.
+Los titulares de las Dependencias Entidades u Órganos Descentralizados designarán una persona que será el Enlace de Transparencia de cada sujeto obligado, el cual representará a la Dependencia, Entidad u Órgano Descentralizado con la Unidad de Enlace de Transparencia y Acceso a la Información, siendo esta la que ejercerá las facultades que le otorga este Reglamento y en su caso la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 55.
 
-El nombramiento y el cambio del Representante de Transparencia de cada Entidad o Dependencia así como del Titular de la Unidad de Enlace de Transparencia y Acceso a la Información deberán publicarse en el Portal de Transparencia del Municipio.
+El nombramiento y el cambio del Enlace de Transparencia de cada sujeto obligado, así como del titular de la Unidad de Enlace de Transparencia y Acceso a la Información deberán publicarse en el Portal de Transparencia del Municipio.
 
 ###### Artículo 56.
 
@@ -633,7 +825,9 @@ V. El número de recursos interpuestos y sus resultados;
 
 VI. Otros que determine la Secretaría de la Función Pública.
 
-La unidad de Enlace de Transparencia y Acceso a la Información hará publicar a través de la Página Web de Transparencia u otro medio que estime pertinente la información que reciba conforme a este artículo.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
+La Unidad de Enlace de Transparencia y Acceso a la Información, hará publicar a través del Portal de Transparencia u otro medio que estime pertinente, la información que reciba conforme a este artículo.
 
 ###### Artículo 57.
 
@@ -643,9 +837,11 @@ La Secretaría de la Función Pública rendirá semestralmente, en los primeros 
 
 ### CAPÍTULO I. DE LAS ATRIBUCIONES DEL CONSEJO CIUDADANO PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 58.
 
-El Consejo Ciudadano para la Transparencia y Acceso a la Información del Municipio de San Nicolás de los Garza, Nuevo León, es el órgano auxiliar, para certificar la rendición de cuentas y garantizar a toda persona el ejercicio del Derecho de Acceso a la Información Publica en posesión de las Dependencias y Entidades del Gobierno Municipal de San Nicolás de los Garza, Nuevo León.
+El Consejo Ciudadano para la Transparencia y Acceso a la Información del Municipio de San Nicolás de los Garza, Nuevo León, es el órgano auxiliar, para certificar la rendición de cuentas y garantizar a toda persona el ejercicio del Derecho de Acceso a la Información en posesión de las Dependencias, Entidades y Órganos Descentralizados del Gobierno Municipal de San Nicolás de los Garza, Nuevo León.
 
 Los integrantes del Consejo Ciudadano, así como las Subcomisiones en todos sus cargos son honoríficos.
 
@@ -653,25 +849,29 @@ Los integrantes del Consejo Ciudadano, así como las Subcomisiones en todos sus 
 
 Son atribuciones del Consejo Ciudadano para la Transparencia y Acceso a la Información:
 
-I. Vigilar que la clasificación, desclasificación y custodia de la información reservada y confidencial, que hagan las Dependencias o Entidades de la Administración Pública Municipal sean conforme al Reglamento o la Ley de la materia;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+I. Vigilar que la desclasificación, desclasificación (sic) y custodia de la información reservada y confidencial, que hagan las Dependencia (sic), Entidades y Órganos Descentralizados de la Administración Pública Municipal sean conforme a la Ley de la materia, y al presente Reglamento;
 
 II. Conocer de las solicitudes de información que formulen los ciudadanos a las dependencias y entidades municipales;
 
-III. Coadyuvar con la Secretaría del Ayuntamiento en la elaboración y aplicación de los criterios para catalogar y conservar los documentos administrativos, así como la organización de archivos de las Dependencias y Entidades Municipales;
+III. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
 
-IV. Hacer recomendaciones a las Dependencias, Entidades y Sujetos Obligados, respecto a los recursos de inconformidad que presenten los solicitantes cuando se les niegue información;
+IV. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
 
 V. Solicitar a la Secretaría de la Función Pública su intervención para que en el caso que se considere necesario, le dé la consecución legal correspondiente;
 
 VI. Orientar a los particulares acerca de las solicitudes de acceso a la información y aprobar los formatos correspondientes;
 
-VII. Notificar a la Secretaría de la Función Pública, las infracciones a este Reglamento, así como de las recomendaciones para que las Dependencias o Entidades cumplan con lo establecido en el presente Reglamento;
+VII.·(DEROGADA, P.O. 10 DE FEBRERO DE 2010)
 
 VIII. Promover e impulsar entre la ciudadanía el ejercicio del Derecho a la Información;
 
 IX. Emitir opinión, comentarios o recomendaciones al respecto de proyectos expuestos al Consejo Ciudadano, los cuales servirán únicamente como aportación en opinión de una representación ciudadana;
 
-X. Proponer al Titular de la Dependencia o Entidad los procedimientos internos que aseguren mayor eficiencia en la gestión de las solicitudes de acceso a la información; y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+X. Proponer al titular de la Dependencia Entidad u Órgano Descentralizado los procedimientos internos que aseguren mayor eficiencia en la gestión de las solicitudes de acceso a la información; y
 
 XI. Vigilar que toda persona pueda tener acceso a la información mediante procesos sencillos y expeditos; (sic)
 
@@ -719,7 +919,9 @@ Para la elección de candidatos al Consejo Ciudadano para la Transparencia y Acc
 
 Los ciudadanos que deseen ser integrantes del Consejo Ciudadano para la Transparencia y Acceso a la Información deberán cumplir con los siguientes requisitos:
 
-I Ser mexicano, en pleno goce de sus derechos, además de ser originario y estar inscrito en la lista nominal de estado de Nuevo León;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+I. Ser mexicano, en pleno goce de sus derechos, y estar inscrito en la lista nominal del Estado de Nuevo León, con una residencia no menor a un año, en el Municipio de San Nicolás de los Garza, Nuevo León;
 
 II. Tener por lo menos 25 años de edad;
 
@@ -761,7 +963,7 @@ V. Solicitar autorización al Consejo Ciudadano, para declinar al cargo de Presi
 
 VI. Signar las convocatorias a las sesiones ordinarias y extraordinarias del Consejo Ciudadano;
 
-VII. Signar las resoluciones del recurso de inconformidad;
+VII. (DEROGADA, P.O. 10 DE FEBRERO DE 2010)
 
 VIII. La Representación Legal del Consejo Ciudadano ante cualquier autoridad competente;
 
@@ -965,11 +1167,17 @@ Para los efectos del presente Reglamento las votaciones se entenderán de la sig
 
 I. Unanimidad, cuando el voto del total de los integrantes asistentes sea en un mismo sentido;
 
-II. Mayoría absoluta, aquella que implique la mitad más uno de los votos de los integrantes;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-III. Mayoría calificada, requiere el voto de más de las dos terceras partes de los integrantes en un mismo sentido; y
+II. Mayoría absoluta, aquella que implique la mitad más uno de los votos de los integrantes asistentes;
 
-IV. Mayoría simple, la que alcance el mayor número de votos, pero no los suficientes para llegar a la mayoría absoluta.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+III. Mayoría calificada, requiere el voto de más de las dos terceras partes de los integrantes asistentes en un mismo sentido; y
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+IV. Mayoría simple, la que alcance el mayor número de votos de los integrantes asistentes.
 
 ###### Artículo 89.
 
@@ -1043,17 +1251,25 @@ I. Vigilar el adecuado funcionamiento de las áreas que le correspondan en cumpl
 
 II. Asistir a licitaciones públicas, convocatorias públicas y demás actos a los que mediante invitación sean requeridos;
 
-III. Valorar las acciones y funcionamiento de las Dependencias y Entidades Municipales, además de emitir opiniones, comentarios o recomendaciones a través del Consejo Ciudadano;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+III. Valorar las acciones y funcionamiento de las Dependencias, Entidades Municipales u Órganos descentralizados, además de emitir opiniones, comentarios o recomendaciones a través del Consejo Ciudadano;
 
 IV. Promover estudios e investigaciones que aporten medios, métodos de control e indicadores para el fortalecimiento de la transparencia en el Gobierno Municipal;
 
-V. Asistir a cursos mediante los cuales se haga del conocimiento el marco legal así como el proceso de las Dependencias o Entidades Municipales;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+V. Asistir a cursos mediante los cuales se haga del conocimiento el marco legal, así como el proceso de los sujetos obligados;
 
 VI. Asistir a las convocatorias efectuadas por la Secretaría de la Función Pública;
 
-VII. Asistir a los informes que rindan a los titulares de las Dependencias y Entidades Municipales cuando el Consejo Ciudadano lo solicite mediante acuerdo; y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-VIII. Asistir a sesiones informativas de las Dependencias y Entidades Municipales.
+VII. Asistir a los informes que rindan a los titulares de las Dependencias, Entidades Municipales u Órganos descentralizados, cuando el Consejo Ciudadano lo solicite mediante acuerdo; y
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+VIII. Asistir a sesiones informativas de los sujetos obligados.
 
 ## TITULO CUARTO. DE LAS ASOCIACIONES CIVILES, CÁMARAS Y ORGANISMOS CIUDADANOS
 
@@ -1075,21 +1291,29 @@ La invitación que se realice a los Representantes de Asociaciones Civiles, Cám
 
 La Secretaría de la Función Pública Municipal, es la instancia interna responsable de aplicar este Reglamento, así como ejercer las demás facultades que le otorga el presente ordenamiento u otras leyes aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 105.
 
-La Secretaría de la Función Pública Municipal tendrá las siguientes atribuciones:
+La Contraloría Municipal tendrá las siguientes atribuciones:
 
 I. Interpretar para efectos legales y administrativos este Reglamento y demás disposiciones aplicables;
 
 II. Difundir el derecho de acceso a la información pública y la protección de los datos personales;
 
-III. Realizar visitas o requerir a las Dependencias y Entidades para asegurar la debida clasificación, custodia y conservación de la información pública y reservada;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-IV. Verificar que la información pública que posean las Dependencias y Entidades esté completa y actualizada y que toda persona pueda tener acceso a la misma mediante procesos sencillos y expeditos;
+III. Realizar visitas o requerir a las Dependencias, Entidades u Órganos Descentralizados, para asegurar la debida clasificación, custodia y conservación de la información pública y reservada;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+IV. Verificar que la información pública que posean los sujetos obligados esté completa y actualizada y que toda persona pueda tener acceso a la misma mediante procesos sencillos y expeditos;
 
 V. Elaborar formatos, procedimientos y sistemas para el informe al Presidente Municipal y al Ayuntamiento, sobre el seguimiento y resolución de las presuntas responsabilidades de servidores públicos por incumplimiento de este Reglamento, los lineamientos, criterios y disposiciones emitidos;
 
-VI. Otorgar ampliaciones de los plazos de reserva de la información cuando lo soliciten las Dependencias y Entidades, en los términos del presente Reglamento;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+VI. Otorgar ampliaciones de los plazos de reserva de la información cuando lo soliciten las Dependencias, Entidades u Órganos Descentralizados, en los términos del presente Reglamento;
 
 VII. Celebrar convenios y acuerdos en materia de acceso a la información pública y de protección de datos personales; y
 
@@ -1097,17 +1321,23 @@ VIII. Las demás que le confieran este Reglamento y cualquier otra disposición 
 
 ### CAPÍTULO II. DE LA CUSTODIA, CONSERVACIÓN Y ORGANIZACIÓN DE ARCHIVOS
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 106.
 
-La Secretaría de la Función Pública Municipal expedirá, en coordinación con la Secretaría del Ayuntamiento, los lineamientos para la custodia y conservación de los documentos de las Dependencias y Entidades, así como para la organización de sus archivos. Su debida custodia y conservación será responsabilidad de los Titulares de las Dependencias y Entidades.
+La Contraloría Municipal, expedirá en coordinación con la Secretaría del Ayuntamiento, los lineamientos para la custodia y conservación de los documentos de las Dependencias, Entidades u Órganos Descentralizados, así como para la organización de sus archivos. Su debida custodia y conservación será responsabilidad de los sujetos obligados.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 107.
 
-Los Titulares de las Dependencias y Entidades a través de las Unidades de Enlace de Transparencia y Acceso a la Información con base en los lineamientos señalados en el artículo anterior, podrán supervisar y establecer la aplicación de criterios específicos para la Dependencia y Entidad en materia de custodia y conservación de los documentos administrativos, así como para la organización de archivos.
+Los sujetos obligados a través de la Unidad de Enlace de Transparencia y Acceso a la Información Pública con base en los lineamientos señalados en el artículo anterior, podrán supervisar y establecer la aplicación de criterios específicos para la Dependencia, Entidad u Órgano descentralizado, en materia de custodia y conservación de los documentos administrativos, así como para la organización de archivos.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 108.
 
-La Secretaría del Ayuntamiento elaborará un programa que contendrá una guía de la organización de los archivos de las Dependencias y Entidades, con el objeto de facilitar la obtención y acceso a la información pública municipal. Dicha guía se actualizará anualmente y deberá incluir las medidas necesarias para custodia y conservación de los archivos.
+La Secretaría del Ayuntamiento elaborará un programa que contendrá una guía de la organización de los archivos de las Dependencias, Entidades u Órganos Descentralizados con el objeto de facilitar la obtención y acceso a la información municipal. Dicha guía se actualizará anualmente y deberá incluir las medidas necesarias para custodia y conservación de los archivos.
 
 ###### Artículo 109.
 
@@ -1117,21 +1347,47 @@ El acceso a los archivos o documentos declarados históricos por una ley, las bi
 
 ### CAPÍTULO I. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 110.
 
-Las solicitudes de información deberán presentarse por escrito o medio electrónico, cubriendo los requisitos que al efecto señala el presente Reglamento o ley de la materia, en el formato que al efecto expida la Unidad de Enlace de Transparencia y Acceso a la Información y sea aprobado por el Consejo Ciudadano. Este formato deberá estar disponible en las Unidades de Enlace de Acceso a la Información, así como en los sitios de Internet del Municipio.
+Las solicitudes de información podrán presentarse verbalmente, por escrito o medio electrónico, cubriendo los requisitos que al efecto señala el presente Reglamento o ley de la materia, en el formato que al efecto expida la Unidad de Enlace de Transparencia y Acceso a la Información, y sea aprobado por el Consejo Ciudadano. Este formato deberá estar disponible en la Unidad de Enlace de Transparencia y Acceso a la Información, así como en los sitios de Internet del Municipio.
+
+Las solicitudes presentadas de manera electrónica se tendrán por recibidas en la fecha asentada en el registro electrónico del equipo receptor de la misma.
+
+En las solicitudes realizadas de manera verbal, el sujeto obligado deberá levantar un acta de comparecencia, preferentemente ante dos testigos de asistencia, procurando recabar los elementos necesarios para la identificación de la información y asentando la fecha de su recepción.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
+Artículo 110 bis.- La solicitud de acceso a la información deberá hacerse en términos respetuosos y contendrá:
+
+I.- El nombre del solicitante de la información;
+
+II.- El sujeto obligado a quien se dirija;
+
+III.- La descripción de la información que se solicita anexando en su caso cualquier dato que facilite su localización;
+
+IV.- El domicilio o medio para recibir la información solicitada o las notificaciones que correspondan, las cuales podrán hacerse a través de medios electrónicos, si así lo autoriza el solicitante; y
+
+V.- La modalidad en la que prefiere se otorgue el acceso a la información, la cual podrá ser mediante consulta directa, copias simples, certificadas u otro tipo de medio electrónico. El sujeto obligado podrá entregar la información en una modalidad distinta a la solicitada cuando exista causa justificada.
+
+El sujeto obligado no estará obligado a dar trámite a solicitudes de acceso ofensivas o cuando se haya entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona. En estos casos, el sujeto obligado deberá indicar al solicitante que su solicitud es ofensiva o que ya se le ha entregado información pública sustancialmente idéntica.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 111.
 
-Las solicitudes de información deberán presentarse ante la Unidad de Enlace de Transparencia y Acceso a la Información, quien elaborará un acuse de recibo en el cual conste la fecha de presentación de la solicitud o por medio del correo electrónico que se proporcionará a través de la Página Web de Transparencia del Municipio.
+Las solicitudes de información deberán presentarse ante la Unidad de Enlace de Transparencia y Acceso a la Información, quien elaborará un acuse de recibo en el cual conste la fecha de presentación de la solicitud o por medio del correo electrónico que se proporcionará a través del Portal de Transparencia del Municipio.
 
 Dicha solicitud se tendrá por recibida en la fecha asentada en el registro electrónico del equipo receptor de la misma. En caso de que la fecha asentada sea inhábil, se considerará que la solicitud fue presentada el día hábil siguiente de su recepción.
 
 Cuando la solicitud no establezca la modalidad de entrega de la información, ésta será proporcionada por la Unidad de Enlace de Transparencia y Acceso a la Información en el formato que considere idóneo, en atención a su naturaleza.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 112.
 
-Cuando la solicitud presentada no sea suficiente para identificar la información de que se trata, la Unidad de Enlace de Transparencia y Acceso a la Información dentro del término de tres días hábiles requerirá por la vía que fue solicitada la información las aclaraciones que permitan atender debidamente su petición.
+Cuando la solicitud presentada no sea suficiente para identificar la información de que se trata, la Unidad de Enlace de Transparencia y Acceso a la Información dentro del término de tres días hábiles requerirá las aclaraciones que permitan atender debidamente su petición, mediante el formato de notificación a que se refiere la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 ###### Artículo 113.
 
@@ -1141,9 +1397,11 @@ No podrá obligarse a los peticionarios a la ratificación de su escrito, o que 
 
 En caso de que la autoridad requiera al peticionario para que aclare, la solicitud en toda o una de sus partes, este tendrá un término de tres días hábiles para dar contestación al requerimiento, apercibiéndole que en caso contrario se tendrá por no interpuesta.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 115.
 
-Los Representantes de Transparencia y Acceso a la Información de cada dependencia o entidad sólo estará obligada a localizar y proporcionar la información que le sea solicitada, sin tener que procesarla, resumirla, efectuar cálculos o practicar investigaciones.
+Los Enlaces de Transparencia de cada Dependencia, Entidad, u Órgano descentralizado, sólo estarán obligados a localizar y proporcionar la información que le sea solicitada, sin tener que procesarla, resumirla, efectuar cálculos o practicar investigaciones.
 
 ###### Artículo 116.
 
@@ -1159,19 +1417,27 @@ En estos casos deberá precisar en el mismo, los puntos sobre los que versará s
 
 Tratándose de información contenida en publicaciones oficiales, la autoridad proporcionará al interesado los datos necesarios para su localización, salvo que la solicitud verse respecto del original.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 119.
 
-La Unidad de Enlace de Transparencia y Acceso a la Información proporcionará la información en un plazo que no podrá exceder de diez días hábiles, siguientes a la solicitud y previo pago de derechos derivados de la reproducción en los casos que éstos procedan.
+La Unidad de Enlace de Transparencia y Acceso a la Información, dará respuesta a toda solicitud de acceso al interesado en el menor tiempo posible, que no podrá exceder de diez días hábiles contados a partir de la presentación de aquella, precisando el costo y la modalidad en que será entregada la información, atendiendo en la mayor medida de lo posible a la solicitud del interesado.
 
-Cuando medien circunstancias que no permitan proporcionar la información dentro de dicho plazo, éste podrá prorrogarse por única vez hasta por otros diez días hábiles, lo que la Unidad de Enlace de Transparencia y Acceso a la Información deberá hacer del conocimiento del peticionario mediante escrito debidamente fundado y motivado.
+Este plazo podrá prorrogarse por un período igual cuando no sea posible la respuesta en dicho término. La Unidad de Enlace de Transparencia y Acceso a la Información deberá comunicar al solicitante antes del vencimiento del plazo, las razones por las cuales hará uso de la prórroga. No podrá invocarse como causales de ampliación del plazo, motivos que supongan negligencia o descuido del sujeto obligado en el desahogo de la solicitud.
+
+Las notificaciones relativas a las solicitudes de información se realizarán a través del sistema electrónico establecido por el sujeto obligado o por medio de la dirección electrónica proporcionada por el solicitante. En caso de no haberse utilizado uno, ni proporcionado la otra, las notificaciones relativas a las solicitudes de información serán personales y se harán por medio de instructivo practicándose en el domicilio que el interesado señale para tal efecto.
+
+El domicilio designado para oír y recibir notificaciones deberá estar ubicado dentro del municipio en que resida el sujeto obligado. Cuando el interesado no cumpla con la anterior prevención o el domicilio no exista, las notificaciones se le harán por medio de instructivo que se fijará en la tabla de avisos o en el lugar visible del recinto de la Unidad de Enlace de Transparencia y Acceso a la Información.
+
+La información pública deberá entregarse dentro de los diez días hábiles siguientes a la fecha en que la Unidad de Enlace de Transparencia y Acceso a la Información le haya notificado al solicitante la disponibilidad de aquella. En caso de que sea necesario cubrir costos para obtener la información en alguna modalidad de entrega, el plazo correrá a partir de la fecha en que el solicitante acredite haber cubierto el pago de los derechos correspondientes.
+
+Excepcionalmente, el sujeto obligado podrá determinar que este plazo sea mayor cuando la cantidad de información o la complejidad de su acopio así lo amerite, o bien cuando la elaboración de versiones públicas suponga un trabajo que pueda entorpecer sustancialmente la operación del sujeto obligado. El sujeto obligado deberá notificar al solicitante el plazo para entregarle la información, así como el fundamento y la motivación de su resolución.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 120.
 
-Los particulares que presenten solicitudes de información podrán señalar la forma en que desean les sea notificada la resolución que corresponda, misma que podrá ser:
-
-I. Personalmente o a través de la persona que designe, en el domicilio que se señale en su solicitud para ese efecto; y
-
-II. Por medio de comunicación electrónica, indicando una dirección electrónica para tal efecto.
+Cuando la solicitud tenga por objeto información considerada como información pública de oficio, esta deberá ser entregada en un plazo no mayor a tres días hábiles.
 
 ###### Artículo 121.
 
@@ -1181,19 +1447,27 @@ I. Recibida la solicitud, la Unidad de Enlace de Transparencia y Acceso a la Inf
 
 II. Una vez satisfechos la totalidad de los requisitos, inmediatamente deberá turnarla a la o las Dependencias o Entidades que puedan tener la información;
 
-III. En el caso de contar con la información y que esta sea pública, la o las Dependencias o Entidades, en un término de dos días hábiles contados a partir del siguiente al que le sea turnada la solicitud, deberán remitir la información a la Unidad de Enlace de Transparencia y Acceso a la Información, quien precisará los costos de acuerdo con las diversas modalidades de entrega;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-IV. La Unidad de Enlace de Transparencia y Acceso a la Información notificará al solicitante la cantidad a pagar en concepto de pago de derechos, emitiendo una orden de pago, así como la fecha en la cual podrá recoger la información solicitada, una vez presentado el original del pago efectuado a la Unidad de Enlace de Transparencia y Acceso a la Información;
+III. En el caso de contar con la información y que esta sea pública, los sujetos obligados, en un término de dos días hábiles contados a partir del siguiente al que le sea turnada la solicitud, deberán remitir la información a la Unidad de Enlace de Transparencia y Acceso a la Información, quien precisará los costos de acuerdo con las diversas modalidades de entrega;
 
-V. En el caso de que la información solicitada sea reservada o confidencial, la o las Dependencias o Entidades que la posean deberán enviar a la Unidad de Enlace de Transparencia y Acceso a la Información un oficio fundado y motivado del porque de la clasificación, haciendo de tal conocimiento al solicitante;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
 
-VI. En el caso de que la o las Dependencias o Entidades determinen que la información solicitada se encuentra en el Archivo Municipal, el titular de la Dependencia o Entidad deberá solicitar su remisión para estar en la posibilidad de entregar la información, siguiendo el trámite previamente establecido en el Manual de Políticas y Procedimientos correspondiente.
+IV. La Unidad de Enlace de Transparencia y Acceso a la Información notificará al solicitante la respuesta a su solicitud, señalando la cantidad a pagar por concepto de pago de derechos, emitiendo una orden de pago, en su caso, así como el término en el cual podrá recoger la información solicitada, una vez presentado el original del pago efectuado, a la Unidad de Enlace de Transparencia y Acceso a la Información, corriendo el plazo a que se refiere el párrafo quinto del artículo 119 del presente reglamento;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+V. En el caso de que la información solicitada sea reservada o confidencial, los sujetos obligados que la posean deberán enviar a la a Unidad de Enlace de Transparencia y Acceso a la Información un oficio fundado y motivado del porque de la clasificación, haciendo de tal conocimiento al solicitante;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2010)</small>
+
+VI. En el caso de que los sujetos obligados determinen que la información solicitada se encuentra en el Archivo Municipal, el titular de la Dependencia o Entidad u Órgano Descentralizado deberá solicitar su remisión para estar en la posibilidad de entregar la información, siguiendo el trámite previamente establecido en el Manual de Políticas y Procedimientos correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 122.
 
-En la resolución a la solicitud de información, se indicarán los costos y las modalidades en que será entregada la información, atendiendo en la medida de lo posible a la solicitud del interesado.
-
-La información en caso de ser procedente será entregada previo el pago de los derechos correspondientes, ya sea:
+En la resolución a la solicitud de información, se indicarán los costos y las modalidades en que será entregada la información. La información en caso de ser procedente será entregada previo el pago de los derechos correspondientes, ya sea:
 
 I. Por medios de comunicación electrónica;
 
@@ -1203,15 +1477,19 @@ III. En copias simples o certificadas;
 
 En caso de que solicite una consulta física esta se llevara a cabo en la Unidad de Enlace de Transparencia y Acceso a la Información, de ser posible de acuerdo al tipo de solicitud.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 123.
 
-Se tendrá por contestada la solicitud de información, una vez que haya concluido el término para que la información sea entregada al solicitante, previo el pago de derechos, independientemente de que el solicitante no efectué dicho pago, o no acuda por la información solicitada.
+Se tendrá por contestada la solicitud de información, una vez que se haya dado respuesta a ésta última, independientemente de que el solicitante no efectué el pago de derechos, o no acuda por la información solicitada.
 
 ### CAPÍTULO II. DE LAS NOTIFICACIONES AL SOLICITANTE
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 124.
 
-Las notificaciones a los interesados, se harán en la forma prevista para las notificaciones denominadas de carácter personal, en el Código de Procedimientos Civiles para el Estado de Nuevo León, salvo que se harán en la primera búsqueda, sin necesidad de dejar cita de espera y en el domicilio señalado para tal efecto.
+Las notificaciones a los interesados cuando hayan de practicarse de carácter personal, se harán en la forma prevista en el Código de Procedimientos Civiles para el Estado de Nuevo León, salvo que se harán en la primera búsqueda, sin necesidad de dejar cita de espera y en el domicilio señalado para tal efecto.
 
 ###### Artículo 125.
 
@@ -1219,29 +1497,37 @@ Para efectos de los plazos contenidos en el presente Reglamento, se entenderán 
 
 ### CAPÍTULO III. DE LOS PROCEDIMIENTOS DE ACCESO Y CORRECCIÓN DE DATOS PERSONALES
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 126.
 
 El particular tendrá acceso a su información de carácter confidencial y podrá solicitar su actualización o corrección y conocer su destino.
 
-Para tal efecto, deberá solicitarlo al Representante de Transparencia y Acceso a la Información, de la Dependencia o Entidad correspondiente, conforme a lo conducente del propio procedimiento de acceso a la información en el presente Reglamento.
+Para tal efecto, deberá solicitarlo al Enlace de Transparencia, de la Dependencia o Entidad u Órgano Descentralizado correspondiente, conforme a lo conducente del propio procedimiento de acceso a la información en el presente Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 127.
 
-Los Representantes de Transparencia y Acceso a la Información de cada Dependencia o Entidad establecerán el procedimiento interno para dar trámite a las solicitudes de actualización o corrección de datos personales, así como el de conocer el destino de su propia información.
+La Unidad de Enlace de Transparencia y Acceso a la Información conforme a lo establecido en la Ley y el presente reglamento establecerá el procedimiento interno para dar trámite a las solicitudes de actualización, rectificación, cancelación y oposición de datos personales, así como el de conocer el destino de su propia información.
 
 La actualización o corrección de datos personales será gratuita.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 128.
 
-En todo lo no previsto por este Reglamento, se aplicará supletoriamente la Ley de Acceso a la Información Pública del Estado de Nuevo León, y en defecto de ésta, el Código de Procedimientos Civiles para el Estado de Nuevo León.
+En todo lo no previsto por este Reglamento, se aplicará supletoriamente la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, y en defecto de ésta, el Código de Procedimientos Civiles para el Estado de Nuevo León.
 
 ## TITULO SEPTIMO. DEL PROCEDIMIENTO EN CASO DE NEGATIVA
 
 ### CAPÍTULO I. DEL RECURSO DE INCONFORMIDAD
 
-###### Artículo 129.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
-Cuando la Unidad de Enlace de Transparencia y Acceso a la Información resuelva que, conforme a este Reglamento o ley aplicable procede negar la información solicitada, lo hará del conocimiento del peticionario mediante acuerdo debidamente fundado y motivado, pudiendo el solicitante interponer el recurso correspondiente.
+###### Articulo 129.
+
+Cuando la Unidad de Enlace de Transparencia y Acceso a la información resuelva que, conforme a este Reglamento o ley aplicable procede negar la información solicitada, lo hará del conocimiento del peticionario mediante acuerdo debidamente fundado y motivado, pudiendo el solicitante interponer el recurso correspondiente conforme a lo previsto en el Capítulo Segundo del Título Cuarto de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 ###### Artículo 130.
 
@@ -1373,9 +1659,9 @@ III. Se presente caso fortuito o de fuerza mayor que impida de manera permanente
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
-###### Artículo 147.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
-Las Dependencias y Entidades deberán garantizar la protección y seguridad de la información entregada por los particulares, evitando su alteración, pérdida, transmisión y acceso no autorizado, bajo pena de incurrir en las causales de responsabilidad administrativa, civil y penal que establecen las leyes aplicables.
+Artículo 147,- Las Dependencias, Entidades u Órganos descentralizados deberán garantizar la protección y seguridad de la información entregada por los particulares, evitando su alteración, pérdida, transmisión y acceso no autorizado, bajo pena de incurrir en las causales de responsabilidad administrativa, civil y penal que establecen las leyes aplicables.
 
 ###### Artículo 148.
 
@@ -1438,3 +1724,9 @@ SECRETARIO DEL R. AYUNTAMIENTO
 C. LIC. JOSE ABEL FLORES GARCIA
 
 Dado en el Salón de Sesiones del R. Ayuntamiento del Municipio de San Nicolás de los Garza, Nuevo León a los 22-veintidós días del mes de noviembre del 2007-dos mil siete.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE FEBRERO DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
