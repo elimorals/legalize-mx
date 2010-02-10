@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-prestacion-de-servicios-de-seguridad-privada-en-398
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2004-05-31"
+last_updated: "2010-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2010.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 31 de mayo de 2004.
 
@@ -41,111 +41,153 @@ DISPOSICIONES GENERALES
 
 La presente ley, tiene por objeto establecer los lineamientos a que deberá (sic) sujetarse los prestadores del servicio de seguridad privada en el Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 2.
 
-Corresponde al Poder Ejecutivo del Gobierno del Estado de Yucatán, a través de la Secretaría General de Gobierno, la autorización, evaluación, control, supervisión y registro de las personas físicas o morales que presten servicios de seguridad privada en la entidad.
+Corresponde al Poder Ejecutivo del Gobierno del Estado de Yucatán, por conducto de la Procuraduría General de Justicia del Estado, la autorización, evaluación, control, supervisión y registro de las personas físicas o morales que presten servicios de seguridad privada en la Entidad.
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- La Secretaría, a la Secretaría General de Gobierno del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-II.- Prestadores, a las personas físicas o morales que ofrecen servicios de seguridad privada en el Estado de Yucatán;
+I.- La Procuraduría, a la Procuraduría General de Justicia del Estado de Yucatán;
 
-III.- Servicios de Seguridad Privada, se entiende como tales los que presten las personas físicas y morales, con objeto de brindar protección a los bienes de los particulares, custodia de personas y vigilancia a los establecimientos comerciales, crediticios, edificios o de cualquier otra índole.
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+II.- Prestadores, a las personas físicas o morales titulares de la autorización y registro otorgados (sic) por la Procuraduría, que ofrecen servicios de seguridad privada en el Estado de Yucatán, y
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+III.- Servicios de Seguridad Privada, se entiende como tales los que presten las personas físicas y morales titulares de la autorización y registro otorgados (sic) por la Procuraduría, con objeto de brindar protección a los bienes de los particulares, custodia de personas y vigilancia a los establecimientos comerciales, crediticios, edificios o de cualquier otra índole.
 
 ###### Artículo 4.
 
 Para los efectos de esta Ley, los servicios de seguridad privada, únicamente podrán prestarse para:
 
-I.- La protección y el traslado de fondos y valores;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-II.- La vigilancia de bienes muebles e inmuebles;
+I.- La custodia, vigilancia, cuidado y protección de bienes muebles o valores incluyendo su traslado;
 
-III.- Investigaciones, siempre que no lesionen los derechos de los terceros;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-IV.- La vigilancia que realicen personas o cuerpos de seguridad en instituciones públicas, organismos descentralizados, aeropuertos, de servicios bancarios, financieros o de seguros; y
+II.- La custodia, vigilancia, cuidado y protección de bienes inmuebles;
 
-V.- La custodia de personas.
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+III.- Las investigaciones para la localización e información de personas físicas, morales y bienes, siempre que no lesionen los derechos de terceros;
+
+IV.- La vigilancia que realicen personas o cuerpos de seguridad en instituciones públicas, organismos descentralizados, aeropuertos, de servicios bancarios, financieros o de seguros; y (sic)
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+V.- La protección, custodia, salvaguarda, defensa de la vida y de la integridad corporal de las personas, y
+
+> <small>(ADICIONADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+VI.- La actividad relacionada con la prestación de servicios de seguridad privada mediante la instalación de sistemas de blindaje en todo tipo de vehículos automotores; así como la instalación y operación de equipos, dispositivos, aparatos, sistemas o procedimientos técnicos especializados en bienes inmuebles.
 
 La prestación de servicios de seguridad privada en Instituciones de Crédito, financieras y de seguros deberá sujetarse, además, a lo establecido en los ordenamientos correspondientes.
 
 ### CAPÍTULO SEGUNDO (SIC). DE LA AUTORIZACIÓN, REGISTRO, CONTROL Y REVALIDACIÓN
 
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 5.
 
-Los interesados en obtener autorización y registro como prestadores deberán cumplir con las condiciones y requisitos siguientes:
+Las personas físicas o morales de nacionalidad mexicana podrán obtener autorización y registro como prestadores presentando solicitud por escrito dirigida al Procurador General de Justicia del Estado de Yucatán, acreditando la modalidad del servicio de seguridad privada que pretenda prestar, acompañando para tal efecto la siguiente documentación:
 
-I.- Ser personas físicas o morales de nacionalidad mexicana;
+I.- Copia certificada del acta de nacimiento, tratándose de personas físicas, o de la escritura constitutiva tratándose de personas morales. Los prestadores que tengan su domicilio principal en otra entidad federativa, deberán, presentar la autorización correspondiente de la Secretaría de Seguridad Pública del Gobierno Federal, de conformidad con lo establecido por el artículo 150 de la Ley General del Sistema Nacional de Seguridad Pública;
 
-II.- Presentar solicitud de autorización y registro acompañada de los siguientes documentos:
+II.- Original y copia de la cédula de identificación fiscal;
 
-a) Copia certificada del acta de nacimiento, tratándose de personas físicas, o de la escritura constitutiva tratándose de personas morales. Los prestadores que tengan su domicilio principal en otra entidad federativa, deberán presentar la autorización correspondiente de la Secretaría de Gobernación, de conformidad con lo establecido por el artículo 52 de la Ley General que establece las bases de coordinación del Sistema Nacional de Seguridad Pública.
+III.- Original y copia de la licencia de portación de armas, si las requiere para su servicio, así como el registro de cada una de ellas, expedida por la Secretaría de la Defensa Nacional. Cuando la modalidad del servicio que el prestador pretenda operar en el Estado de Yucatán, no requiera de esta autorización deberá manifestar esta circunstancia bajo protesta de decir verdad;
 
-b) Original o copia de la cédula de identificación física.
+IV.- Original y copia de la autorización emitida por la Secretaría de Comunicaciones y Transporte, del equipo de radiocomunicación y del uso de la frecuencia respectiva o, en su caso, copia certificada del contrato celebrado con alguna empresa del ramo que tenga autorización vigente ante dicha dependencia;
 
-c) Original y copia de licencia de portación de armas si las requiere para su servicio, así como el registro de cada una de ellas, expedida por la Secretaría de la Defensa Nacional. Cuando el equipo que pretenda operar no requiera de esta autorización, la manifestación de esta circunstancia se hará bajo protesta de decir verdad.
+V.- En el caso de que para la prestación del servicio se pretenda utilizar canes, deberá acreditarse por institución especializada en la materia que los animales están debidamente adiestrados y que los instructores de los mismos se encuentran capacitados para su manejo;
 
-d) Original y copia de la autorización emitida por la Secretaría de Comunicaciones y Transporte, del equipo de radiocomunicación y del uso de la frecuencia respectiva, en su caso, copia certificada del contrato celebrado con alguna empresa del ramo que tenga autorización vigente ante dicha dependencia.
+VI.- Modelo de contrato para la prestación del servicio de seguridad privada que deberá ser aprobado y registrado por la Procuraduría Federal del Consumidor;
 
-e) En el caso de que para la prestación del servicio se pretenda utilizar canes, deberá acreditarse por institución especializada en la materia que los animales están debidamente adiestrados y que los instructores de los mismos se encuentran capacitados para su manejo.
+VII.- Original y copia de la constancia con la que se acredite el domicilio principal y en su caso, el de las sucursales;
 
-f) Modelo de contrato para la prestación del servicio de seguridad privada aprobado y registrado por la Procuraduría Federal del Consumidor.
+VIII.- Original y copia del Registro Federal de Contribuyentes y acreditar estar al corriente en el pago de impuestos federales, estatales y municipales;
 
-g) Original y copia de la constancia con la que se acredite el domicilio principal y en su caso, el de las sucursales.
+IX.- Un ejemplar del reglamento interior de trabajo y del manual de operaciones;
 
-h) Presentar registro fiscal y acreditar estar al corriente en el pago de impuestos federales, estatales y municipales.
+X.- Un ejemplar del modelo de su logotipo, emblemas, lemas, siglas, colores, credencial o gafete de identidad de personas;
 
-i) Un ejemplar del reglamento interior de trabajo y del manual de operaciones.
+XI.- Relación del personal directivo, administrativo y operativo, que cumpla con los requisitos que se establecen en esta Ley;
 
-j) Un ejemplar del modelo de credencial o gafete de identidad de operaciones.
+XII.- Inventario detallado de los bienes muebles que se utilicen en la prestación del servicio, incluyendo vehículos, armas y equipo de radio comunicación;
 
-k) Relación del personal directivo, administrativo y operativo, que cumpla con los requisitos que se establecen en esta Ley.
+XIII.- Fotografías a color de los vehículos con los logotipos que se utilicen en los que se aprecien los cuatro costados de las unidades, y
 
-l) Inventario detallado de los bienes muebles que se utilicen en la prestación del servicio, incluyendo vehículos, armas y equipo de radio comunicación.
-
-m) Fotografías a color de los vehículos con los logotipos que se utilicen en los que se aprecien los cuatro costados de las unidades.
-
-n) Fotografías a color de los uniformes que se utilicen en el servicio en las que se aprecien el frente, lateral y posterior.
+XIV.- Fotografías a color de los uniformes que se utilicen en el servicio en que se aprecien el frente, lateral y posterior, de los cuales deberán ser diferentes a lo que le corresponde a los cuerpos de seguridad pública estatales o federales o a las fuerzas armadas.
 
 Los documentos originales solicitados, serán devueltos previo cotejo y certificación que se haga de las copias exhibidas.
 
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 6.
 
-Si la solicitud de autorización y registro no cumple con los requisitos señalados en el artículo anterior, la Secretaría prevendrá al solicitante para que en un plazo de quince días hábiles subsane las deficiencias, bajo el supuesto de que no se dará trámite a la solicitud.
+Si la solicitud de autorización y registro no cumple con los requisitos señalados en el artículo anterior, la Procuraduría, prevendrá al solicitante para que en un plazo de quince días hábiles subsane las deficiencias, bajo el supuesto de que no se dará trámite a la solicitud.
 
-En caso de resultar procedente, la expedición de la autorización, la Secretaría contará con quince días hábiles para otorgarla, previo pago de los derechos correspondientes, que se entenderán en las oficinas recaudadoras de la Secretaría de Hacienda del Gobierno del Estado, según el domicilio fiscal del solicitante. En cualquier caso, la Secretaría deberá comunicar por escrito su resolución al interesado.
+Lo anterior, sin perjuicio de la facultad que tiene la Procuraduría de negar autorizaciones y registros, cuando exista causa fundada para ello.
+
+En caso de resultar procedente, la expedición de la autorización, la Procuraduría contará con treinta días hábiles para otorgarla, previo pago de los derechos correspondientes, que se enterarán en las oficinas recaudadoras de la Secretaría de Hacienda del Gobierno del Estado. En cualquier caso, la Procuraduría deberá comunicar por escrito su resolución al interesado, de no realizarse esto procederá la negativa ficta.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 7.
 
-La autorización y registro que otorgue la Secretaría es intransferible y contendrá las modalidades de la actividad que se autoriza y los límites de la operación.
+La autorización y registro que otorgue la Procuraduría es intransferible y contendrá las modalidades de la actividad que se autoriza y los límites de la operación.
 
 La vigencia de la autorización y registro será de un año, sin la autorización y registro, ninguna persona física o moral podrá prestar servicios de seguridad privada en el Estado de Yucatán.
 
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+La Procuraduría publicará en el primer trimestre de cada año, en el Diario Oficial del Gobierno del Estado de Yucatán y en un periódico de los de mayor circulación en la Entidad, una relación de las empresas autorizadas y registradas por la Procuraduría, para prestar los servicios de seguridad privada, la cual contendrá número de registro, nombre de la empresa, nombre de la persona física o moral, fecha de vencimiento de la autorización y tipo de servicio autorizado.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+En caso de que se preste el servicio sin contar con autorización de la Procuraduría, se procederá a la imposición de la sanción prevista en la fracción II del artículo 37 de la presente ley, y a la clausura del establecimiento, debiéndose seguir las reglas, procedimientos y formalidades establecidas en esta Ley.
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 8.
 
-Para la revalidación de la autorización y el registro, bastará que los prestadores, cuando menos con quince días hábiles previos a la conclusión de la vigencia, manifiesten bajo protesta de decir verdad, que las condiciones en que se les otorgó no han variado. Una vez presentada la solicitud de revalidación, la Secretaría contará con cinco días hábiles para acordar la procedencia de la revalidación.
+Para la revalidación de la autorización y registro, bastará que los prestadores, cuando menos con treinta días hábiles previos a la conclusión de la vigencia, presenten la solicitud por escrito, que cumpla con los requisitos señalados en las fracciones III, IV, VII, VIII y XI del artículo 5, y con los exámenes médicos, psicológicos y toxicológicos que establece la fracción VIII del artículo 16 de esta ley. Una vez presentada la solicitud de revalidación, la Procuraduría contará con diez días hábiles para resolver la procedencia de la revalidación.
 
-En caso de que no exista respuesta de la Secretaría dentro del plazo señalado, se entenderá revalidada la autorización y el registro.
+En caso de que la solicitud de revalidación se efectúe en forma extemporánea, se impondrá una multa hasta por el equivalente a cien veces el salario mínimo vigente en el Estado. Una vez cubierta la multa, se dará el trámite que corresponda a la solicitud de revalidación.
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 9.
 
-Los prestadores que hayan obtenido la autorización y el registro y pretendan ampliar o modificar las modalidades autorizadas, deberán presentar ante la Secretaría solicitud por escrito. La Secretaría, dentro del término de cinco días hábiles deberá acordar si procede o no dicha ampliación o modificación.
+Los prestadores que hayan obtenido la autorización y pretendan ampliar o modificar las modalidades autorizadas, deberán presentar ante la Procuraduría solicitud por escrito. La Procuraduría, dentro del término de cinco días hábiles deberá acordar si procede o no dicha ampliación o modificación.
 
 ### CAPÍTULO TERCERO. DEL REGISTRO DE LOS SERVICIOS DE SEGURIDAD PRIVADA Y DE SU PERSONAL
 
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 10.
 
-El registro de los prestadores de servicios de seguridad privada, es un sistema de consulta de la Secretaría que contiene la información necesaria para la supervisión, control, vigilancia, y evaluación tanto de los prestadores del servicio como de su personal que desempeña cargos directivos, administrativos y operativos en las empresas de seguridad privada en el Estado de Yucatán. Los prestadores estarán obligados a coadyuvar a la permanente actualización del sistema de consulta debiendo informar mensualmente a la Secretaría o Procuraduría de las altas y bajas del personal administrativo, directivo y operativo, indicando las causas de las bajas, y en su caso, la existencia de procedimientos administrativos o procesos judiciales que afecten su situación laboral.
+El Registro de los Prestadores de Servicios de Seguridad Privada, es un sistema de consulta de la Procuraduría que contiene la información necesaria para la supervisión, control, vigilancia y evaluación tanto de los prestadores del servicio como de su personal que desempeña cargos directivos, administrativos y operativos en las empresas de seguridad privada en el Estado de Yucatán. Los prestadores estarán obligados a coadyuvar a la permanente actualización del sistema de consulta debiendo informar mensualmente a la Procuraduría de las altas y bajas del personal administrativo, directivo y operativo, indicando las causas de las bajas, y en su caso, la existencia de procedimientos administrativos o procesos judiciales que afecten su situación laboral.
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 11.
 
-Previamente a la contratación del personal operativo, los prestadores deberán presentar por escrito, ante la Secretaría, la relación de aspirantes, conteniendo nombre completo, registro federal de contribuyentes y carta de no antecedentes penales, para su registro en el sistema y el cotejo de antecedentes personales. La Secretaría o Procuraduría deberá informar dentro de los tres días hábiles siguientes a la presentación del escrito, el resultado de la consulta.
+Previamente a la contratación del personal operativo, los prestadores deberán presentar por escrito, ante la Procuraduría, la relación de aspirantes, conteniendo nombre completo, registro federal de contribuyentes y carta de no antecedentes penales y en su caso, manifestar si fue elemento activo en cuerpos de seguridad pública estatal o federal, para su registro en el sistema y el cotejo de antecedentes personales. La Procuraduría deberá informar dentro de los cinco días hábiles siguientes a la presentación del escrito, el resultado de la consulta.
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 12.
 
-Para la debida integración del sistema de consulta, la Secretaría o Procuraduría informará a los prestadores por escrito, con cinco días hábiles de antelación, la fecha y hora para que presenten al personal directivo, administrativo y operativo, en las instalaciones de la Secretaría o Procuraduría, para efectos de su filiación, toma de huellas dactilares y fotografía.
+Para la debida integración del sistema de consulta, la Procuraduría informará a los prestadores por escrito, con cinco días hábiles de antelación, la fecha y hora para que presenten al personal directivo, administrativo y operativo, en las instalaciones de la Procuraduría, para efectos de su filiación, toma de huellas dactilares y fotografía.
 
 ###### Artículo 13.
 
@@ -153,9 +195,13 @@ Para formar parte de una empresa privada de seguridad, el personal directivo, ad
 
 I.- Ser de nacionalidad mexicana;
 
-II.- Ser mayor de edad y haber cumplido con el servicio militar, acreditándolo con el documento correspondiente, en el caso de los varones;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-III.- Acreditar haber cumplido como mínimo la enseñanza secundaria o su equivalente;
+II.- Ser mayor de edad y haber cumplido con el servicio militar, acreditándolo con la cartilla militar debidamente liberada, en el caso de los varones;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+III.- Acreditar haber cumplido como mínimo la enseñanza secundaria o su equivalente; en este caso, deberá presentar declaración a la Procuraduría, bajo protesta de decir verdad, que terminará su educación preparatoria o su equivalente, y deberá demostrar que se encuentra inscrito en una Institución Educativa para tal efecto;
 
 IV.- No haber sido condenado ni estar sujeto a proceso penal por delitos dolosos;
 
@@ -163,91 +209,185 @@ V.- No ser adicto a sustancia (sic) psicotrópicas o estupefacientes, y no padec
 
 VI.- Carta de buena conducta del empleo anterior, si no ha laborado dos cartas de recomendación de personas que no sean familiares;
 
-VII.- Cubrir el perfil físico, ético y psicológico necesario para realizar las actividades del puesto a desempeñar. Para tal efecto deberán acreditarse los correspondientes exámenes clínico, físico, psicológico y toxicológico o antidoping; mismos que deberán ser aplicados por personal calificado para tales efectos.
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+VII.- Cubrir el perfil físico, ético y psicológico necesario para realizar las actividades del puesto a desempeñar. Para tal efecto deberán acreditarse los correspondientes exámenes clínicos, físicos, psicológicos y toxicológicos; mismos que deberán ser aplicados por personal calificado de la Procuraduría o por el que ésta designe, siempre y cuando cumplan con los requisitos que establezcan las leyes y reglamentos de la materia, y
+
+> <small>(ADICIONADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+VIII.- Aprobar el curso de conocimientos básicos, de adiestramiento, acondicionamiento físico y defensa personal que deberán ser aplicados por personal calificado de la Procuraduría o por el que ésta designe para tal efecto.
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 14.
 
-El personal directivo, administrativo y operativo no podrá desempeñar simultáneamente funciones en alguna otra corporación policial o de seguridad pública.
+El personal directivo, administrativo y operativo de los prestadores, no podrán desempeñar simultáneamente funciones en alguna otra corporación policial o de seguridad pública.
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 15.
 
-El personal directivo, administrativo y operativo no podrá realizar investigaciones sobre delitos y tendrá obligación de informar de forma inmediata a la autoridad competente, en cuanto tenga conocimiento de hechos de los que pueda resultar la comisión de un ilícito.
+El personal directivo, administrativo y operativo de los prestadores, no deberán realizar investigaciones sobre delitos y tendrán la obligación de informar de forma inmediata a la autoridad competente, en cuanto tenga conocimiento de hechos de los que pueda resultar la comisión de un ilícito.
 
 ### CAPÍTULO CUARTO. DE LAS OBLIGACIONES DE LOS PRESTADORES DEL SERVICIO DE SEGURIDAD PRIVADA
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 16.
 
-Los prestadores deberán cumplir con las siguientes obligaciones, a las cuales sujetarán su operación, previa la autorización y registro otorgado por la Secretaría:
+Los prestadores deberán cumplir con las siguientes obligaciones, a las cuales sujetarán su operación, previa la autorización y registro otorgado por la Procuraduría:
 
-I.- Hacer constar en su documentación las modalidades de la prestación de los servicios, el número de registro o autorización otorgado por la Secretaría, el que deberá colocarse a la vista del público y, en su caso, el registro otorgado por la Secretaría de Gobernación, así como el número de registro del contrato ante la Procuraduría Federal del Consumidor;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-II.- Abstenerse de prestar los servicios de seguridad privada autorizados, con utilización de armas de fuego, sin que previamente hayan obtenido la opinión favorable de la Secretaría y cuenten con la licencia particular colectiva de portación de armas de fuego expedida por la Secretaría de la Defensa Nacional;
+I.- Hacer constar en su documentación las modalidades de la prestación de los servicios de seguridad privada, el número de registro o autorización otorgado por la Procuraduría, el que deberá colocarse a la vista del público y, en su caso, el registro otorgado por la Secretaría de Seguridad Pública del Gobierno Federal, así como el número de registro del contrato ante la Procuraduría Federal del Consumidor;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+II.- Abstenerse de prestar los servicios de seguridad privada autorizados, con utilización de armas de fuego, sin que previamente hayan obtenido la opinión favorable de la Procuraduría y cuenten con la licencia particular colectiva de portación de armas de fuego expedida por la Secretaría de la Defensa Nacional;
 
 III.- Abstenerse de contratar a personal extranjero;
 
-IV.- Abstenerse de llevar a cabo funciones que legalmente estén encomendadas a las instituciones de seguridad pública o de las fuerzas armadas;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-V.- No contratar para la prestación de los servicios, personal menor de dieciocho años;
+IV.- Informar a la Procuraduría, dentro de los primeros cinco días hábiles de cada mes, las altas del personal operativo, así como las suspensiones impuestas por incumplimiento a los principios de actuación y desempeño que establece la Ley, y las bajas, señalando los motivos que ocasionaron éstas;
 
-VI.- Aplicar anualmente exámenes médicos, psicológicos y toxicológicos a su personal operativo en los lugares aprobados para el caso y enviar los resultados oficiales a la Secretaría, dentro de los quince días naturales siguientes a la fecha de su aplicación;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-VII.- Ordenar y vigilar que el personal operativo, utilice el uniforme y demás equipo autorizado, única y exclusivamente en los lugares y horarios asignados para la prestación del servicio;
+V.- Abstenerse de llevar a cabo funciones que legalmente estén encomendadas a las instituciones de seguridad pública o de las fuerzas armadas;
 
-VIII.- Abstenerse de utilizar en su denominación o razón social, documentación, identificaciones y demás bienes, las palabras “policía”, “investigador”, “inspector” y “oficial”, o cualquier otra que pueda originar confusión con personal de instituciones de seguridad pública o de las fuerzas armadas;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-IX.- No utilizar emblemas, distintivos o cualquier otro medio de identificación que contengan o aludan a los símbolos patrios, ni uniformes iguales o similares en color y estilo a los de las instituciones de seguridad pública o de las fuerzas armadas que propicien confusión, engaño o induzcan al error;
+VI.- No contratar para la prestación de los servicios, personal menor de dieciocho años;
 
-X.- Utilizar invariablemente en los informes y demás bines, las palabras “seguridad privada”, en la forma, dimensiones y con las características que determine la Secretaría;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-XI.- Ordenar y vigilar que su personal se abstenga de utilizar emblemas, distintivos o cualquier otro medio de identificación, metálico o similares (charolas), que puedan originar confusión con personal de instituciones de seguridad pública o de las fuerzas armadas;
+VII.- El prestador de servicios de seguridad privada, dentro del mes inmediato siguiente a la fecha de expedición de su autorización, o registro en su caso, deberá inscribir a su personal operativo al régimen obligatorio del Instituto Mexicano del Seguro Social y anexar copia certificada de la documentación correspondiente a sus registros;
 
-XII.- Reportar a la Secretaría, por escrito, dentro de los tres días naturales siguientes, el robo, pérdida o destrucción del documento de identificación de su personal y, en su caso, elaborar y proporcionar a la Secretaría, copia del acta elaborada;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-XIII.- Vigilar que los vehículos de la empresa ostenten de manera visible las palabras “seguridad privada” y el logotipo que identifique al prestador de los servicios; y que los conduzca personal debidamente uniformado. Los vehículos no deberán estar equipados con torretas, sirenas, autoparlantes (sic) o cualquier otro aditamento de uso exclusivo de las instituciones de seguridad pública o fuerzas armadas, en su caso, deberá solicitar la autorización correspondiente a la autoridad competente;
+VIII.- Aplicar anualmente exámenes médicos, psicológicos y toxicológicos a su personal operativo por personal calificado de la Procuraduría o por el que ésta designe, siempre y cuando cumplan con los requisitos que establezcan las leyes y reglamentos de la materia, que deberá enviar los resultados a la Procuraduría, dentro de los quince días naturales siguientes a la fecha de su aplicación;
 
-XIV.- Utilizar únicamente el equipo de radiocomunicación y las bandas de frecuencia del espectro radioeléctrico, en términos del permiso otorgado por la Secretaría de Comunicaciones y Transportes y que presentó ante la Secretaría el cual deberá mantenerse vigente;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-XV.- Comunicar a la Secretaría, por escrito dentro de los cinco días hábiles siguientes a la fecha de ocurrido, cualquier suspensión de actividades, además de toda modificación a los estatutos de la sociedad y domicilio fiscal, para lo cual deberán obtener aprobación de la Secretaría;
+IX.- Responder solidariamente de los daños y perjuicios que cause su personal al prestar los servicios, siempre que la autoridad que corresponda así lo determine;
 
-XVI.- Comunicar a la Secretaría por escrito todo mandamiento de autoridad administrativa o judicial que impida la libre disposición de sus bienes, dentro de los tres días hábiles siguientes a su notificación;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-XVII.- Abstenerse de divulgar la información que tengan conocimiento, por sí o por medio de su personal, con motivo de la prestación de los servicios, salvo que le sea solicitada por mandamiento de autoridad competente;
+X.- Ordenar y vigilar que el personal operativo, utilice el uniforme y demás equipo autorizado, única y exclusivamente en los lugares y horarios asignados para la prestación del servicio;
 
-XVIII.- Abstenerse de realizar persecución o detención de personas o vehículos, salvo en casos de flagrante delito;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-XIX.- Formular denuncia de hechos en forma inmediata ante la autoridad competente, cuando en el desempeño de sus labores detecten casos que presumiblemente sean constitutivos de delito, y entregar copia de la denuncia correspondiente a la Secretaría, en un plazo de cinco días naturales siguientes contados a partir de su fecha;
+XI.- Abstenerse de utilizar en su denominación o razón social, documentación, identificaciones y demás bienes, las palabras "policía", "investigador", "inspector", "oficial", "comandante", "sargento" o cualquier otra que pueda originar confusión con personal de instituciones de seguridad pública o de las fuerzas armadas;
 
-XX.- Abstenerse de realizar cualquier tipo de actos que propicien que personas ajenas no autorizadas, presten los servicios;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-XXI.- Responder en forma solidaria por los daños y perjuicios que causen su personal en el desempeño de sus labores;
+XII.- No utilizar emblemas, distintivos o cualquier otro medio de identificación que contengan o aludan a los símbolos patrios, ni uniformes iguales o similares en color y estilo a los de las instituciones de seguridad pública o de las fuerzas armadas que propicien confusión, engaño o induzcan al error;
 
-XXII.- Coadyuvar con las autoridades y las instituciones de seguridad pública en situaciones de urgencia o desastre, cuando así lo solicite la autoridad competente en materia de protección civil, estatal o municipal;
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-XXIII.- No utilizar gases lacrimógenos, grilletes, macanas, toletes o cualquier objeto contundente; salvo que el servicio que presten lo requiera y que previamente hayan obtenido la autorización por parte de la Secretaría;
+XIII.- Utilizar invariablemente en los uniformes y demás bienes, las palabras "seguridad privada", en la forma, dimensiones y con las características que determine la Procuraduría;
 
-XXIV.- Reportar a la Secretaría, por escrito, cualquier modificación que se lleve a cabo en la empresa y exhibir la constancia correspondiente; y
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
-XXV.- Las demás que se deriven de las disposiciones legales aplicables.
+XIV.- Ordenar y vigilar que su personal se abstenga de utilizar emblemas, distintivos o cualquier otro medio de identificación, metálico o similares, que puedan originar confusión con personal de instituciones de seguridad pública o de las fuerzas armadas;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+XV.- Reportar a la Procuraduría, por escrito, dentro de los tres días naturales siguientes, el robo, pérdida o destrucción del documento de identificación de su personal y en su caso, elaborar y proporcionar a la Procuraduría, copia del acta elaborada;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+XVI.- Vigilar que los vehículos de la empresa ostenten de manera visible las palabras "seguridad privada" y el "logotipo, rotulado o calcomanía fija" que identifique al prestador de los servicios de seguridad privada; y que los conduzca personal debidamente uniformado. Los vehículos no deberán estar equipados con torretas, sirenas, autoparlantes o cualquier otro aditamento de uso exclusivo de las instituciones de seguridad pública o fuerzas armadas. En caso de que requieran utilizar en sus vehículos los equipos antes señalados, deberá solicitar la autorización correspondiente a la autoridad competente;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+XVII.- Utilizar únicamente el equipo de radiocomunicación y las bandas de frecuencia del espectro radioeléctrico, en términos del permiso otorgado por la Secretaría de Comunicaciones y Transportes y que presentó ante la Procuraduría el cual deberá mantenerse vigente;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+XVIII.- Comunicar a la Procuraduría, por escrito dentro de los cinco días hábiles siguientes a la fecha de ocurrido, cualquier suspensión de actividades, además de toda modificación a los estatutos de la sociedad y domicilio fiscal, para lo cual deberán obtener aprobación de la Procuraduría;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+XIX.- Comunicar a la Procuraduría por escrito todo mandamiento de autoridad administrativa o judicial que impida la libre disposición de sus bienes, dentro de los tres días hábiles siguientes a su notificación;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+XX.- Abstenerse de divulgar la información de que tengan conocimiento, por sí o por medio de su personal, con motivo de la prestación de los servicios de seguridad privada, salvo que le sea solicitada por mandamiento de autoridad competente;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+XXI.- Abstenerse de realizar persecución o detención de personas o vehículos, salvo en casos de flagrante delito;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+XXII.- Formular denuncia y/o querella de hechos en forma inmediata ante la autoridad competente o en su caso por el representante legal de la empresa, cuando en el desempeño de sus labores detecten casos que presumiblemente sean constitutivos de delito y entregar copia de la denuncia correspondiente a la Procuraduría, en un plazo de cinco días naturales siguientes contados a partir de su fecha;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+XXIII.- Abstenerse de realizar cualquier tipo de actos que propicien que personas ajenas no autorizadas, presten los servicios de seguridad privada;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+XXIV.- Coadyuvar con las autoridades y las instituciones de seguridad pública en situaciones de urgencia o desastre, cuando así lo solicite la autoridad competente en materia de protección civil, estatal o municipal;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+XXV.- No utilizar gases lacrimógenos, grilletes, macanas, toletes o cualquier objeto contundente; salvo que el servicio que presten lo requiera y que previamente hayan obtenido la autorización por parte de la Procuraduría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 10 DE FEBRERO DE 2010)</small>
+
+XXVI.- No utilizar armas de fuego, salvo autorización expresa de la autoridad competente en términos de la Ley Federal de Armas de Fuego y Explosivos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 10 DE FEBRERO DE 2010)</small>
+
+XXVII.- Reportar a la Procuraduría por escrito, cualquier modificación que se lleve a cabo en la empresa y exhibir la constancia correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 10 DE FEBRERO DE 2010)</small>
+
+XXVIII.- Que la prestación del servicio se efectúe única y exclusivamente en el lugar o circunscripción autorizada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 10 DE FEBRERO DE 2010)</small>
+
+XXIX.- Procurar que su personal operativo preste sus servicios, portando en lugar visible la credencial o gafete de identificación personal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 10 DE FEBRERO DE 2010)</small>
+
+XXX.- Abstenerse de transferir la autorización o registro respectivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 10 DE FEBRERO DE 2010)</small>
+
+XXXI.- Abstenerse de realizar actividades que no correspondan a la modalidad autorizada, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 10 DE FEBRERO DE 2010)</small>
+
+XXXII.- Las demás que se deriven de las disposiciones legales aplicables.
 
 ###### Artículo 17.
 
 Los prestadores también tendrán la obligación de inscribir a su personal operativo en el sistema estatal de seguridad pública, así como reportar mensualmente por escrito las altas y bajas de su personal operativo.
 
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 18.
 
-Los prestadores de servicio de seguridad privada tendrán la obligación de impartir cursos de capacitación y actualización a su personal operativo por lo menos dos veces al año, sobre disciplinas y habilidades relacionadas con las tareas que desempeñan, incluyendo asignaturas de derecho constitucional y penal, derechos humanos y relaciones humanas. De la programación, desarrollo y resultado de estos cursos, informarán oportunamente a la Secretaría. Para la realización de los cursos, podrán celebrar convenios con la Academia de Policía dependiente de la Secretaría.
+Los prestadores de servicio de seguridad privada tendrán la obligación de impartir cursos de capacitación y actualización a su personal operativo por lo menos dos veces al año, sobre disciplinas y habilidades relacionadas con las tareas que desempeñan, incluyendo asignaturas de derecho constitucional y penal, derechos humanos y relaciones humanas. De la programación, desarrollo y resultado de estos cursos, informarán oportunamente a la Procuraduría. Para la realización de los cursos, podrán celebrar convenios con el Instituto de Capacitación Profesional de las Corporaciones de Seguridad Pública en el Estado dependiente de la Secretaría de Seguridad Pública del Estado.
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 19.
 
-Los prestadores deberán brindar las facilidades necesarias para la realización de las visitas de verificación que ordene la Secretaría o Procuraduría, así como proporcionar la documentación e informes que les sean requeridos.
+Los prestadores deberán brindar las facilidades necesarias para la realización de las visitas de verificación que ordene la Procuraduría, así como proporcionar la documentación e informes que les sean requeridos.
 
 ###### Artículo 20.
 
 Los prestadores deberán informar inmediatamente a la autoridad competente de aquellas conductas que se presumen delictivas, en donde intervenga su personal, debiendo aportar los elementos suficientes para el esclarecimiento de los hechos.
 
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 21.
 
-La Secretaría pondrá en conocimiento de las autoridades competentes, los hechos que se presuman violatorios de leyes y reglamentos que los prestadores están obligados a cumplir con motivo de su organización y servicio.
+La Procuraduría pondrá en conocimiento de las autoridades competentes, los hechos que se presuman violatorios de leyes y reglamentos que los prestadores están obligados a cumplir con motivo de su organización y servicio.
 
 ###### Artículo 22.
 
@@ -267,25 +407,31 @@ V (sic).- Obligar a subalternos a entregarles dinero o cualquier otro tipo de d�
 
 ### CAPÍTULO QUINTO. DE LAS VISITAS DE VERIFICACIÓN
 
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 23.
 
-La Secretaría llevará a cabo visitas de verificación con la finalidad de comprobar el cumplimiento de esta Ley, las que se sujetarán a los principios de unidad, funcionalidad, coordinación, precisión, legalidad, transparencia e imparcialidad.
+La Procuraduría llevará a cabo visitas de verificación con la finalidad de comprobar el cumplimiento de esta Ley, las que se sujetarán a los principios de unidad, funcionalidad, coordinación, precisión, legalidad, transparencia e imparcialidad.
 
 ###### Artículo 24.
 
 Toda visita de verificación se ajustará a los procedimientos y formalidades que establezca la presente Ley y las demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 25.
 
-Los verificadores para practicar una visita deberán contar con orden escrita expedida por la Secretaría, en la que se precisará el lugar, lugares o zona en que ha de verificarse, el objeto de la visita y las disposiciones legales que la fundamenten.
+Los verificadores para practicar una visita deberán contar con orden escrita expedida por la Procuraduría, en la que se precisará el lugar, lugares o zona en que ha de verificarse, el objeto de la visita y las disposiciones legales que la fundamenten.
 
 ###### Artículo 26.
 
 Los prestadores, propietarios, responsables, encargados u ocupantes de los establecimientos sujetos a verificación, estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores, así como acreditar su identificación y función que desempeñan.
 
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 27.
 
-Al iniciar la visita, el verificador o verificadores deberán acreditarse con credencial vigente expedida por la Secretaría, que los acredite para desempeñar su función, así como la orden expresa a la que se refiere el Artículo 25, de la que se deberá dejar copia al prestador, propietario, responsable, encargado u ocupante del establecimiento a verificar.
+Al iniciar la visita, el verificador o verificadores deberán acreditarse con credencial vigente expedida por la Procuraduría, que los acredite para desempeñar su función, así como la orden expresa a la que se refiere el artículo 25 de esta Ley, de la que se deberá dejar copia al prestador, propietario, responsable, encargado u ocupante del establecimiento a verificar.
 
 ###### Artículo 28.
 
@@ -313,13 +459,17 @@ VIII.- Declaración del verificado si desea hacerla; y
 
 IX.- Nombre y firma de quienes intervinieron en la diligencia, incluyendo las de quien o quienes hubieren llevado la diligencia. Si el verificado o su representante legal se negaren a firmar, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
 
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 30.
 
-Los prestadores verificados a quienes se haya levantado acta de verificación, podrán formular observaciones en el acto mismo de la diligencia y ofrecer pruebas en relación con los hechos contenidos en ella, así como hacer uso de tal derecho dentro del término de cinco días hábiles siguientes a la fecha en que se hubiere levantado el acta.
+Los prestadores a quienes se haya levantado acta de verificación, podrán formular observaciones en el acto mismo de la diligencia y ofrecer pruebas en relación con los hechos contenidos en ella, así como hacer uso de tal derecho dentro del término de cinco días hábiles siguientes a la fecha en que se hubiere levantado el acta.
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 31.
 
-La Secretaría podrá verificar personas, bienes, vehículos de los prestadores y equipos de radiocomunicación, con el objeto de comprobar el cumplimiento de los ordenamientos legales. En todo caso se cumplirán las formalidades previstas para las visitas de verificación.
+La Procuraduría podrá verificar al personal, bienes, vehículos y equipos de radiocomunicación de los prestadores, con el objeto de comprobar el cumplimiento de los ordenamientos legales. En todo caso se cumplirán las formalidades previstas para las visitas de verificación.
 
 ###### Artículo 32.
 
@@ -329,51 +479,249 @@ En caso de no encontrarse el representante legal o el prestador verificado, se d
 
 Cuando no sea posible terminar el día de inicio la visita de verificación, se correrá el acta fijándose día y hora para su continuación.
 
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 34.
 
-La Secretaría podrá solicitar con motivos fundados el apoyo de otras autoridades para la realización de las visitas de verificación y para el caso de que existan observaciones, se elaborará oficio en el que se expresen las mismas, emitiendo la resolución que corresponda, notificándole a los prestadores o a sus representantes legales.
+La Procuraduría podrá solicitar con motivos fundados el apoyo de otras autoridades para la realización de las visitas de verificación y para el caso de que existan observaciones, se elaborará oficio en el que se expresen las mismas, emitiendo la resolución que corresponda, notificándole a los prestadores o a sus representantes legales.
 
-### CAPÍTULO SEXTO. DE LAS SANCIONES Y DE LOS RECURSOS DE INCONFORMIDAD
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO CON EL ARTICULO QUE LO INTEGRA], D.O. 10 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO SEXTO. DE LA UNIDAD ADMINISTRATIVA DE CONTROL DE SERVICIOS DE SEGURIDAD PRIVADA
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 34 Bis.
+
+Para el cumplimiento de las disposiciones de esta ley, la Procuraduría, contará con una Unidad Administrativa de Control de Servicios de Seguridad Privada, que se dividirá en dos áreas la primera de recepción, análisis y registro y la segunda de vigilancia y sanción.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES CAPITULO SEXTO], D.O. 10 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO SÉPTIMO. DE LAS SANCIONES, DE LA QUEJA Y DEL RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 35.
 
-La contravención a las disposiciones contenidas en la presente Ley por los prestadores de servicios de seguridad privada, independientemente de las responsabilidades civiles o penales en que pudieren incurrir, dará lugar a las siguientes medidas por parte de la Secretaría:
+La contravención a las disposiciones contenidas en la presente Ley por los prestadores, independientemente de las responsabilidades civiles o penales en que pudieren incurrir, la Procuraduría tendrá la atribución de imponer las siguientes medidas:
 
-I.- Amonestación, con difusión pública de la misma;
+I.- Amonestación Pública;
 
-II.- Suspensión temporal del registro hasta que se corrija el incumplimiento, con difusión pública de dicha suspensión; y
+II.- Multa;
 
-III.- Cancelación del registro, con difusión pública de dicha cancelación. En este caso, el acuerdo correspondiente se publicará en el Diario Oficial del Gobierno del Estado.
+III.- Suspensión temporal del registro, con difusión pública, hasta que se corrija el incumplimiento;
 
-Las medidas anteriormente señaladas deberán tomarse en orden sucesivo.
+IV.- Cancelación del registro con difusión pública. En este caso, el acuerdo correspondiente se publicará en el Diario Oficial del Gobierno del Estado, y
+
+V.- Clausura de los establecimientos de las personas físicas o morales que presten dicho servicio.
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 36.
 
-En contra de las resoluciones que se emitan, procederá el recurso de inconformidad, el cual se interpondrá ante la Secretaría por la persona que legítimamente tenga derecho para ello, dentro de un plazo de ocho días siguientes a la notificación.
+La Procuraduría sancionará a los prestadores con amonestación pública en los casos siguientes:
+
+I.- El personal operativo desempeñe el servicio sin el uniforme, accesorios o equipo autorizado, gafete o credencial de identificación, o que no porte estos distintivos en lugar visible;
+
+II.- El personal operativo porte los uniformes autorizados fuera de los lugares y horarios en que presten sus servicios. Se exceptúa lo anterior, en los casos en que dicho personal se traslade de un lugar a otro, por inicio o término de sus labores;
+
+III.- Presten el servicio en un lugar o circunscripción distinta a la autorizada;
+
+IV.- Utilicen vehículos sin los emblemas o distintivos autorizados, y
+
+V.- Incumplan con lo establecido en las fracciones I, V, VII, VIII, IX, XI, XII, XIII, XIX y XXI del artículo 16 de esta Ley.
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 37.
 
-El recurso de inconformidad deberá presentarse por escrito expresando el recurrente los agravios que considere la causa de la resolución que impugna, presentando al mismo tiempo las pruebas que estime pertinentes.
+La Procuraduría sancionará a los prestadores con multa de hasta cinco mil veces el salario mínimo general vigente en el Estado, en los casos siguientes:
+
+I.- Se reincida en cualquiera de los casos señalados en el artículo anterior, y
+
+II.- Cuando una persona física o moral preste servicios de seguridad privada sin contar con la autorización y registro correspondiente.
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 38.
 
-La Secretaría resolverá el recurso confirmando, modificando o revocando la resolución impugnada dentro del plazo de quince días hábiles siguientes a la fecha de presentación del mismo.
+La Procuraduría sancionará a los prestadores con suspensión temporal del registro, en los casos siguientes:
+
+I.- Realicen actividades que no correspondan a la modalidad de los servicios de seguridad privada autorizadas por la Procuraduría, y
+
+II.- Incumplan lo establecido en las fracciones III, IV, VI, XIV, XV, XVI y XXIV del artículo 16 de esta Ley.
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 39.
 
-La Secretaría, desechará de plano el recurso que considere notoriamente improcedente.
+La Procuraduría, sancionará a los prestadores con cancelación del registro respectivo y con una multa de hasta por el equivalente a cinco mil veces el salario mínimo general vigente en el Estado, por incumplimiento de los casos siguientes:
 
-Contra las resoluciones dictadas por la Secretaría, se podrá recurrir a lo que dispone la Ley de lo Contencioso Administrativo del Estado de Yucatán.
+I.- Se altere la documentación que contenga la autorización y registro concedido;
+
+II.- Reincidan en cualquiera de los casos señalados en el artículo 38 de esta Ley;
+
+III.- Cuando habiéndose suspendido temporalmente su registro, no cumplan, con la obligación que se les imponga, y
+
+IV.- Transfieran la autorización y registro respectivo.
+
+Cuando la sanción impuesta se trate de una multa, la Procuraduría notificará lo conducente a la Secretaría de Hacienda del Estado, a efecto de que proceda al cobro de la misma.
+
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 40.
 
-Para la realización de las actividades que corresponden a la Secretaría en los términos de esta ley, tomando en consideración las posibilidades presupuestales se creará, de ser necesario, la Unidad Administrativa de Control de Servicios de Seguridad Privada, que contará con un área de recepción, análisis y registro, y otra de vigilancia y sanción, y las demás que se hagan necesarias y permita el presupuesto; mientras esto ocurre esas actividades estarán a cargo del personal de la Dirección Jurídica de la Secretaría que designe su titular.
+En caso de cancelación del registro, se otorgará al prestador sancionado un plazo de treinta días naturales para dar por terminados los contratos celebrados con los usuarios del servicio, independientemente de la responsabilidad que se derive entre los prestadores y sus clientes.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 41.
+
+La Procuraduría, cuando por incumplimiento de la presente ley, cancele un registro de un prestador de servicios de seguridad privada, no le dará trámite a nueva solicitud que haga el prestador sancionado, por un término de entre cinco a diez años, dependiendo de la gravedad de la falta.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 42.
+
+Las sanciones previstas por incumplimiento a esta Ley, serán impuestas en base a:
+
+I.- Las actas de visitas de verificación levantadas por el servidor público autorizado por la Procuraduría, de las que se derive que el visitado ha incumplido con alguna de las obligaciones señaladas en la Ley;
+
+II.- La queja presentada por el afectado, debidamente fundada;
+
+III.- Las indagaciones realizadas por la Procuraduría, y
+
+IV.- Cualquier otra circunstancia que aporte elementos de convicción.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 43.
+
+Para la determinación de las sanciones, la Procuraduría tomará en consideración lo siguiente:
+
+I.- La gravedad de la infracción;
+
+II.- El carácter intencional de la conducta, y
+
+III.- La reincidencia.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 44.
+
+La queja a la que se refiere la fracción II del artículo 42, deberá contener:
+
+I.- Nombre y firma del quejoso, así como su domicilio para oír y recibir notificaciones;
+
+II.- Nombre del prestador en contra de quien se presenta la queja;
+
+III.- La fecha en que se le notificó o tuvo conocimiento del acto u omisión que origina la queja;
+
+IV.- El acto u omisión que se recurre;
+
+V.- Los antecedentes, hechos u omisiones y agravios en que se base la queja, indicando las circunstancias de modo, tiempo y lugar bajo las que ocurrieron los hechos o se incurrió en la omisión que la motiva, y
+
+VI.- Ofrecer las pruebas que junto con el escrito de queja se aporten, cuando el quejoso no las tenga en su poder, deberá señalar el lugar donde se encuentran, para que sea la Procuraduría quien las solicite.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 45.
+
+Serán improcedentes y deberán ser desechadas de plano las quejas cuando:
+
+I.- No sean presentadas por escrito ante la Procuraduría;
+
+II.- No estén firmadas de manera autógrafa por quien promueve, y
+
+III.- No se señalen agravios o los que se expongan manifiestamente no tengan relación directa con el acto que se pretende recurrir.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 46.
+
+Procederá el sobreseimiento de la queja cuando:
+
+I.- El promovente se desista expresamente por escrito;
+
+II.- El prestador del servicio revoque o modifique el acto u omisión que motiva la queja, de tal manera que quede totalmente sin materia antes de que sea dictada la resolución, y
+
+III.- Cuando el quejoso fallezca durante el procedimiento, si el acto u omisión solo afecta a su persona.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 47.
+
+En caso de ser admitida la queja, la Procuraduría deberá notificar al prestador, el día hábil siguiente a aquel en que se haya admitido la queja.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 48.
+
+El prestador tendrá tres días hábiles a partir de la fecha de notificación para contestar lo que a su derecho convenga respecto de la queja presentada en su contra.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 49.
+
+La Procuraduría dentro de los tres días hábiles siguientes a aquel en que reciba la contestación del prestador, dictará su resolución debidamente fundada y motivada y la notificará personalmente a los interesados.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 50.
+
+La facultad de imponer sanciones prescribirá en un término de tres años, contados a partir del día hábil siguiente a la fecha en que se tenga conocimiento del hecho u omisión que la originó, o a partir del día en que hubiese cesado si fue de carácter continuo.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 51.
+
+Para la sustanciación de la queja, en lo no previsto por esta Ley, será aplicable de manera supletoria lo dispuesto en la Ley de lo Contencioso Administrativo del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 52.
+
+En contra de las resoluciones que se emitan derivadas de la queja, procederá el recurso de inconformidad, el cual se interpondrá ante la Procuraduría por la persona que legítimamente tenga derecho para ello, dentro de un plazo de quince días naturales siguientes a la notificación.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 53.
+
+El recurso de inconformidad deberá presentarse por escrito expresando el recurrente los agravios que considere le causan la resolución que impugna, presentando al mismo tiempo las pruebas que estime pertinentes.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 54.
+
+La Procuraduría resolverá el recurso confirmando, modificando o revocando la resolución impugnada dentro del plazo de quince días hábiles siguientes a la fecha de presentación del mismo.
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 55.
+
+La Procuraduría, desechará de plano el recurso que considere notoriamente improcedente, tomando en cuenta las causales del artículo 45 de esta Ley.
+
+Contra las resoluciones dictadas por la Procuraduría, se podrá recurrir de manera supletoria a la Ley de lo Contencioso Administrativo del Estado de Yucatán.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 10 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO OCTAVO. DE LOS PRESTADORES DEL SERVICIO DE SEGURIDAD PRIVADA CON REGISTRO FEDERAL
+
+> <small>(ADICIONADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+###### Artículo 56.
+
+Tratándose de prestadores que cuenten con registro federal y que operen en el Estado de Yucatán, deberán sujetarse a los lineamientos establecidos en la presente Ley.
+
+Los prestadores con registro federal, que no acrediten debidamente la autorización o en su caso la revalidación de su registro ante la Procuraduría, no podrán ejercer sus funciones.
 
 T R A N S I T O R I O S
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado de Yucatán.
 
-SEGUNDO.- Se deroga el Capítulo II de la Ley de Seguridad Pública del Estado de Yucatán, publicada el quince de mayo de mil novecientos noventa y nueve en el Diario Oficial del Gobierno del Estado.
+> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+
+SEGUNDO.- Se deroga el Capítulo II del Título Sexto de la Ley de Seguridad Pública del Estado de Yucatán, publicada el quince de mayo de mil novecientos noventa y nueve en el Diario Oficial del Gobierno del Estado.
 
 TERCERO.- Se concede a los prestadores de servicios de seguridad privada que aún no cuentan con registro, un plazo de noventa días naturales para que presenten su solicitud de registro ajustada a los requisitos que se señalan en esta Ley.
 
@@ -396,3 +744,29 @@ EL SECRETARIO GENERAL DE GOBIERNO
 (RUBRICA)
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 10 DE FEBRERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La creación de la Unidad Administrativa de Control de Servicios de Seguridad Privada, señalada en el artículo 34 Bis de esta Ley se realizará conforme a las posibilidades presupuestales del Poder Ejecutivo del Estado.
+
+El personal de la Procuraduría General de Justicia del Estado de Yucatán, deberá realizar las funciones de la Unidad referida en el párrafo anterior, hasta la creación de la misma.
+
+###### ARTÍCULO CUARTO.
+
+Los Prestadores de Servicios de Seguridad Privada autorizados y que funcionen en el Estado, a partir de la entrada en vigor de este Decreto contarán con un plazo de 90 días naturales para registrarse en el sistema de la Procuraduría.
+
+###### ARTÍCULO QUINTO.
+
+Los Prestadores de Servicios de Seguridad Privada autorizados y que funcionen en el Estado, cuya vigencia de su autorización esté por concluir, deberán realizar los trámites necesarios ante la Procuraduría en un plazo no mayor de 30 días, contados a partir de la entrada en vigor de este Decreto.
