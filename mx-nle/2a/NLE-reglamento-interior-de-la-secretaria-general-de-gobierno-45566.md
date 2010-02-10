@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-general-de-gobierno-45566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-01"
-last_updated: "2009-04-08"
+last_updated: "2010-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO, PUBLICADO EN EL P.O. DE 10 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 1 de julio de 2005.
 
@@ -1236,3 +1238,13 @@ P.O. 8 DE ABRIL DE 2009.
 PRIMERO. El presente Acuerdo entrará en vigor en la fecha de su firma y deberá publicarse en el Periódico Oficial del Estado.
 
 SEGUNDO. Se instruye a la Secretaría General de Gobierno, a la Secretaría de Finanzas y Tesorería General del Estado y a la Oficialía Mayor de Gobierno, para que en el ámbito de sus respectivas competencias implementen las medidas de carácter administrativo conducentes a la ejecución del presente Acuerdo.
+
+P.O. 10 DE FEBRERO DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría General de Gobierno publicado en el Periódico Oficial del Estado en fecha 01 de julio de 2005.
