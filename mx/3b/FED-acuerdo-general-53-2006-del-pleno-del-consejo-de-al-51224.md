@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-53-2006-del-pleno-del-consejo-de-al-51224"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-08-11"
-last_updated: "2009-09-17"
+last_updated: "2010-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51224&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-10"
 
 ACUERDO GENERAL 53/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS LINEAMIENTOS PARA EL ARRENDAMIENTO Y ADQUISICION DE INMUEBLES EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE FEBRERO DE 2010.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 11 de agosto de 2006.
 
@@ -837,7 +837,9 @@ Del control de inmuebles. Las Direcciones Generales de Recursos Materiales y Ser
 
 En toda adquisición de inmuebles, la Dirección General de Recursos Materiales y Servicios Generales deberá tramitar, tan pronto como sea posible, que los servicios de agua potable y energía eléctrica se presten a nombre del Consejo de la Judicatura Federal.
 
-Para el caso de derechos por concepto de agua potable, impuesto predial y demás contribuciones vinculadas a los inmuebles al servicio del Poder Judicial de la Federación, se deberá dar aviso a la Dirección General de Asuntos Jurídicos para la gestión de la exención de pago correspondiente.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 1/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE FEBRERO DE 2010)</small>
+
+Para el caso de las contribuciones vinculadas a los inmuebles al servicio del Poder Judicial de la Federación, se deberá dar aviso a la Dirección General de Asuntos Jurídicos, para que gestione las exenciones de pago que procedan.
 
 Asimismo, se establecerán las medidas de seguridad, vigilancia y protección civil, para preservar la seguridad e integridad física de los servidores públicos, público usuario y, en general de los bienes que conforman su patrimonio, las cuales deberán ser compatibles con las expedidas por las autoridades federales, estatales y municipales competentes.
 
@@ -862,3 +864,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de estas reformas, al Acuerdo General 53/2006, del Pleno del Consejo de la Judicatura Federal, que Establece los Lineamientos para el Arrendamiento y Adquisición de Inmuebles en el Consejo de la Judicatura Federal y al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del propio Consejo, respectivamente.
+
+D.O.F. 11 DE FEBRERO DE 2010.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 53/2006, del Pleno del Consejo de la Judicatura Federal, que Establece los Lineamientos para el Arrendamiento y Adquisición de Inmuebles en el Consejo de la Judicatura Federal.
