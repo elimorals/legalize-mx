@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-151
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-27"
-last_updated: "1999-10-27"
+last_updated: "2010-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15191&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1999-10-26"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 11 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de octubre de 1999.
 
@@ -1873,3 +1875,23 @@ SEXTO.- Conforme se actualiza el régimen de agencias planteado en el presente o
 SÉPTIMO.- El Procurador expedirá los lineamientos para adscribir al personal de las unidades administrativas de la dependencia que se vean modificadas respecto a las disposiciones anteriormente vigentes, conforme a la nueva estructura prevista en el presente Reglamento.
 
 Dado en la residencia del Poder Ejecutivo, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de octubre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 11 DE FEBRERO DE 2010.
+
+PRIMERO. - El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, publicado en el Diario Oficial de la Federación el 27 de octubre de 1999.
+
+TERCERO. - Los Acuerdos, Circulares y Oficios Circulares que se opongan al presente Reglamento, o cuyo contenido ya se encuentre regulado en este ordenamiento, quedan abrogados.
+
+CUARTO. - Los asuntos que se encuentren en trámite en la fecha en que entre en vigor este Reglamento serán turnados a la unidad administrativa a la que corresponda conocer de los mismos, según la nueva determinación de competencia, de conformidad con el presente Reglamento, y las demás disposiciones aplicables.
+
+Para tal efecto, los recursos humanos, materiales, financieros y tecnológicos serán distribuidos de acuerdo al ámbito de facultades que a cada unidad administrativa le corresponda.
+
+El Procurador podrá ordenar que uno o varios asuntos en trámite, al momento de entrar en vigor el presente Reglamento, sigan en conocimiento de las unidades administrativas que los tenían a su cargo.
+
+QUINTO. - El Procurador expedirá los lineamientos para adscribir al personal de las unidades administrativas de la Dependencia que se vean modificadas, respecto a las disposiciones anteriormente vigentes, conforme a la nueva estructura prevista en el presente Reglamento.
+
+SEXTO. - La Oficialía Mayor de la Procuraduría, realizará las gestiones necesarias ante la Secretaría de Finanzas, Oficialía Mayor y la Contraloría General del Gobierno del Distrito Federal, para incorporar a partir del presupuesto del año 2011, la creación de las plazas de Responsables de Agencia.
