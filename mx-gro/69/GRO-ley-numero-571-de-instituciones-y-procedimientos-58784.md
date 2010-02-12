@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-571-de-instituciones-y-procedimientos-58784"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-01"
-last_updated: "2009-09-15"
+last_updated: "2010-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 571 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 1 de enero de 2008.
 
@@ -5247,7 +5247,9 @@ El Secretario Técnico del Consejo Estatal Electoral designado el día 1º de en
 
 SEXTO.- Para la observancia y aplicación del artículo 148 y demás relativos de esta Ley, se tomará en cuenta la fase inicial vinculada a la puesta en marcha del Instituto Electoral.
 
-SÉPTIMO.- El Consejo General del Instituto dentro de los treinta días hábiles siguientes a la conclusión del proceso electoral de Ayuntamientos y Diputados del año 2008, realizará los estudios y elaborará los proyectos de división territorial de los distritos electorales locales de mayoría relativa, sin modificar el número establecido en el artículo 29 de la Constitución Política del Estado. En la realización de estos trabajos se tomarán en cuenta cuando menos los siguientes criterios.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2010)</small>
+
+SÉPTIMO.- El Consejo General del Instituto, al concluir el proceso electoral de Gobernador del Estado del año 2010-2011, elaborará, aprobará e implementará los proyectos de división territorial de los distritos electorales locales de mayoría relativa, sin modificar el número establecido en el artículo 29 de la Constitución Política del Estado. En la realización de estos trabajos se tomarán en cuenta cuando menos los siguientes criterios:
 
 a) Equilibrio demográfico en la determinación de los distritos tomando como base el último Censo de Población emitido por el Instituto Nacional de Estadística, Geografía e Informática.
 
@@ -5269,7 +5271,9 @@ OCTAVO.- Para la elección de la Legislatura LIX al Congreso del Estado, tendrá
 
 NOVENO.- Los regidores de mayoría relativa por elección directa serán elegidos a partir del Proceso Electoral de Ayuntamientos y Diputados a celebrarse en el año 2012.
 
-DÉCIMO.- El Consejo General del Instituto dentro de los treinta días hábiles siguientes a la conclusión del Proceso electoral de Diputados y Ayuntamientos de 2008, iniciará los trabajos técnicos para determinar las demarcaciones municipales en las que se elegirán los regidores de mayoría relativa por voto directo, tomando en cuenta los siguientes criterios:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2010)</small>
+
+DÉCIMO.- El Consejo General del Instituto, al concluir el proceso electoral de Gobernador del Estado del año 2010-2011, elaborará, aprobará e implementará los trabajos técnicos para determinar las demarcaciones municipales en las que se elegirán los regidores de mayoría relativa por voto directo, tomando en cuenta los siguientes criterios:
 
 a) Las secciones electorales completas.
 
@@ -5379,7 +5383,67 @@ VIGÉSIMO CUARTO.- Se autoriza al Consejo General del Instituto para realizar la
 
 VIGÉSIMO QUINTO.- El Congreso del Estado dentro de los treinta días siguientes a la entrada en vigor de la presente Ley emitirá la convocatoria para seleccionar al Contralor Interno del Instituto Electoral del Estado de Guerrero.
 
-VIGÉSIMO SEXTO.- Se abrogan todas las disposiciones jurídicas que se opongan a la presente Ley.
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2010)</small>
+
+VIGÉSIMO SEXTO.- Por única ocasión, el proceso electoral de Gobernador del Estado de Guerrero de 2010-2011, se realizará de conformidad con los distritos electorales siguientes:
+
+PRIMER DISTRITO. Con cabecera en Chilpancingo de los Bravo (parte de la zona urbana y rural) y el Municipio de Leonardo Bravo.
+
+SEGUNDO DISTRITO. Con cabecera en Tixtla de Guerrero y los Municipios de Mártir de Cuilapan, Mochitlán y Quechultenango.
+
+TERCER DISTRITO. Con cabecera en Chilapa de Álvarez (parte de la zona urbana y rural) .y los municipios de Atlixtac, José Joaquín de Herrera y Zitala.
+
+CUARTO DISTRITO. Con cabecera en Tecpan de Galeana y los Municipios de Atoyac de Álvarez y Benito Juárez.
+
+QUINTO DISTRITO. Con cabecera en Acapulco de Juárez (parte de la zona urbana).
+
+SEXTO DISTRITO. Con cabecera en Ometepec y los Municipios de Cuajinicuilapa, Tlacoachistlahuaca y Xochistlahuaca.
+
+SÉPTIMO DISTRITO. Con cabecera en Coyuca de Catalán y los Municipios de Ajuchitlán del Progreso y Zirándaro.
+
+OCTAVO DISTRITO. Con cabecera en Teloloapan y los Municipios de Apaxtla, Cuetzala del Progreso y Gral. Heliodoro Castillo.
+
+NOVENO DISTRITO. Con cabecera en Iguala de la Independencia (parte de la zona urbana y rural) y los Municipios de Cocula y Tepecoacuilco de Trujano.
+
+DÉCIMO DISTRITO. Con cabecera en Taxco de Alarcón (comprende la zona rural) y los Municipios de Gral. Canuto A Neri, Ixcateopan de Cuauhtémoc, Pedro Ascencio Alquisiras, "Pilcaya y Tetipac.
+
+DÉCIMO PRIMER DISTRITO. Con cabecera en Tlapa de Comonfort (parte de la zona urbana y rural) y los Municipios de Copanatoyac, Malinaltepec, Tlacoapa, Iliatenco, Zapotitlán Tablas y Acatepec.
+
+DÉCIMO SEGUNDO DISTRITO. Con cabecera en Zihuatanejo de Azueta y los Municipios de Coahuayutla de José María Izazaga, Petatlán y la Unión de Isidoro Montes de Oca.
+
+DÉCIMO TERCER DISTRITO. Con .cabecera en Acapulco de Juárez y el Municipio de Juan R. Escudero.
+
+DÉCIMO CUARTO DISTRITO. Con cabecera en Ayutla de los Libres y los Municipios de Cuautepec, Florencio Villarreal y Tecoanapa.
+
+DÉCIMO QUINTO DISTRITO. .Con cabecera en Chilpancingo de los Bravo (parte de la zona urbana y rural) y el Municipio de Eduardo Nerí.
+
+DÉCIMO SEXTO DISTRITO. .Con cabecera en Acapulco de Juárez (parte de la zona rural) y el Municipio de Coyuca de Benítez.
+
+DÉCIMO SÉPTIMO DISTRITO. Con cabecera en Acapulco de Juárez.
+
+DÉCIMO OCTAVO DISTRITO. Con cabecera en Acapulco de Juárez y el Municipio de San Marcos.
+
+DÉCIMO NOVENO DISTRITO. Con cabecera en Taxco de Alarcón (comprende zona urbana) y el Municipio de Buena Vista de Cuellar.
+
+VIGÉSIMO DISTRITO. Con cabecera en Arcelia y los Municipios de San Miguel Totolapan y Tlapehuala.
+
+VIGÉSIMO PRIMER DISTRITO. Con cabecera en Iguala de la Independencia (parte de la zona ·urbana y rural) y los Municipios de Atenango del Río, Copalillo y Huitzuco de los Figueroa.
+
+VIGÉSIMO SEGUNDO DISTRITO. Con cabecera en Huamuxtitlán y los Municipios de Alcozauca de Guerrero, Alpoyeca, Cualac, Tlalixtaquilla de Maldonado y Xochihuetlán.
+
+VIGÉSIMO TERCER DISTRITO. Con cabecera en Pungarabato y los Municipios de Cutzamala de Pinzón y Tlalchapa.
+
+VIGESIMO CUARTO DISTRITO. Con cabecera en San Luis Acatlán y los Municipios de Azoyú, Copala, Igualapa, Juchitán y Marquelia.
+
+VIGÉSIMO QUINTO DISTRITO. Con cabecera en Chilapa de Alvarez (parte de la zona urbana y rural) y los Municipios de Ahuacuotzingo y Olinala.
+
+VIGÉSIMO SEXTO DISTRITO. Con cabecera en Acapulco de Juárez (parte de la zona urbana)
+
+VIGÉSIMO SÉPTIMO DISTRITO. Con cabecera en Tlapa de Comonfort (parte de la zona urbana y rural) y los Municipios de Atlamajalcingo de Monte, Cochoapa el Grande, Metlatónoc y Xalpatláhuac.
+
+VIGÉSIMO OCTAVO DISTRITO. Con cabecera en Acapulco de Juárez.
+
+VIGÉSIMO SÉPTIMO. Se abrogan todas las disposiciones jurídicas que se opongan a la presente Ley.
 
 Dada en el Salón de Sesiones del Honorable Poder Legislativo, a los veintiocho días del mes de diciembre del año dos mil siete.
 
@@ -5428,3 +5492,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE FEBRERO DE 2010
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo del Estado, para los efectos legales procedentes.
