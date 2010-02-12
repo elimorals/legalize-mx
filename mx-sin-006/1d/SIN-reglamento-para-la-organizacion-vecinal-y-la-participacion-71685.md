@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-para-la-organizacion-vecinal-y-la-participacion-7168
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-18"
-last_updated: "2009-12-18"
+last_updated: "2010-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 REGLAMENTO PARA LA ORGANIZACION VECINAL Y LA PARTICIPACION CIUDADANA DEL MUNICIPIO DE CULIACAN, SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 18 de diciembre de 2009.
 
@@ -721,7 +721,7 @@ II. La reincidencia; y
 
 III. Los daños causados.
 
-Para efectos de la fracción II, se entenderá por reincidente a la persona que infrinja, en misma disposición en un periodo de un año contado a partir da la fecha en que se tenga conocimiento por parte de la autoridad competente de la infracción de qua se trate y así se haga constar en el acta respectiva.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 84.
 
@@ -753,97 +753,59 @@ II. Cuando reincidan en la inobservancia de los artículos 20 y 26 para la const
 
 ### Capítulo Tercero. Del procedimiento para la imposición de sanciones
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 88.
 
-Para la imposición de sanciones administrativas, la Secretaría del H. Ayuntamiento, por conducto de la Dirección de Dictaminación y Análisis Jurídicos, deberá cumplir dentro del procedimiento administrativo que se implemente al efecto, con los requisitos procedimentales mínimos siguientes:
-
-l. Se citará al presunto infractor a fin de que comparezca a la audiencia de calificación en lugar, día y hora fija, la cual deberá celebrarse dentro de los 10 días hábiles siguientes al de la notificación. Mediante ésta se le hará saber la o las presuntas infracciones en que haya incurrido y los preceptos violados; el derecho que tiene a ofrecer pruebas, las que se desahogarán en esta audiencia, cuando por su naturaleza puedan desahogarse; así como su derecho a formular alegatos;
-
-II. La audiencia de calificación se llevará a cabo con o sin la presencia del presunto infractor;
-
-III. Se admitirán toda clase de pruebas excepto la confesional a cargo de las autoridades. De ser necesario la preparación de pruebas, se abriré un periodo de cinco días hábiles para tal efecto; y concluido que sea se continuará con la audiencia;
-
-IV. Desahogadas las pruebas o. en su caso, en rebeldía del presunto infractor, se emitirá la resolución administrativa que en derecho proceda, debidamente fundada y motivada, dentro de los cinco días hábiles siguientes al desahogo de las últimas pruebas o en su defecto de la celebración de la audiencia; y
-
-V. La notificación y ejecución de la resolución.
-
-Cuando la resolución que se emita en el procedimiento, tenga por efecto la imposición de alguna sanción, se hará saber al interesado los medios ordinarios de defensa que procedan.
+Para la imposición de sanciones administrativas, la Secretaría del H. Ayuntamiento, por conducto de la Dirección de Dictaminación y Análisis Jurídicos, deberá seguir las formalidades que para el procedimiento administrativo sancionador se prevén en el Reglamento de Procedimientos Administrativos y Medios de Impugnación del Municipio de Culiacán, Sinaloa.
 
 ###### Artículo 89.
 
-La valoración de las pruebas se hará conforme a las reglas establecidas en el Código de Procedimientos Civiles para el Estado de Sinaloa.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### Artículo 90.
 
-La Secretaría del H. Ayuntamiento, para hacer cumplir sus determinaciones, podrá emplear los siguientes medios de apremio:
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
-l. Apercibimiento, y
-
-II. El auxilio de la fuerza pública.
+> <small>(DEROGADO, P.O. 12 DE FEBRERO DE 2010)</small>
 
 ## Título Séptimo (sic). De los Medios de Defensa
+
+> <small>(DEROGADO, P.O. 12 DE FEBRERO DE 2010)</small>
 
 ### Capitulo Único. Del Recurso de Revisión
 
 ###### Artículo 91.
 
-Conforme al artículo 106 de la ley de Gobierno Municipal, se establece el recurso de revisión. Este Podré promoverse por los particulares que acrediten afectación a su interés jurídico por la aplicación del presente Reglamento, en contra de las resoluciones que emitan el Consejo, o las autoridades del Ayuntamiento o las Dependencias de la Administración Pública Municipal.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### Artículo 92.
 
-El particular podré hacer uso de la vía jurisdiccional mediante la impugnación de los actos o resoluciones de las autoridades municipales ante el Tribunal de lo Contencioso Administrativo del Estado, conforme a los lineamientos dispuestos para el proceso en la Ley de Justicia Administrativa para el Estado de Sinaloa, o agotar el medio de defensa a que se refiere el presente capítulo.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### Artículo 93.
 
-Del recurso de revisión conocerá la Secretaria del Ayuntamiento; sin embargo, el promovente deberá interponerlo por escrito ante la Dirección de Dictaminación y Análisis Jurídicos dentro de los diez días hábiles siguientes al de la notificación de la resolución o acto impugnado. El escrito en que se presente el recurso deberá contar con los siguientes requisitos:
-
-l. El nombre del promovente y el domicilio para oír y recibir notificaciones;
-
-II. El acto impugnado y la fecha en que le fue notificado o que tuvo conocimiento del mismo;
-
-III. La autoridad emisora del acto impugnado;
-
-IV. Los hechos y fundamentos de derecho en que sustente la impugnación;
-
-V. Los conceptos de impugnación que haga valer en contra de la resolución impugnada, y
-
-VI. Las pruebas que ofrezca, relacionándolas con los hechos que pretenda demostrar, o, en su caso, desvirtuar.
-
-Al escrito de interposición del recurso de revisión deberán acompañarse las pruebas documentales que se ofrezcan, así como el documento con el que se acredite la personalidad, en caso de que se comparezca por conducto de apoderado legal.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### Artículo 94.
 
-Cuando el escrito de interposición del recurso de revisión no cumpla con alguno de los requisitos a que se refiere el artículo anterior, la Secretaría del Ayuntamiento otorgará un plazo de tres días hábiles al promovente, a efecto de que lo corrija, aclare o complete, apercibiéndolo que de no atender la prevención en el término establecido, el recurso le será desechado.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### Artículo 95.
 
-Cumplidos los requisitos para la interposición del recurso de revisión, la Secretaría del Ayuntamiento dictará acuerdo de admisión en el cual, además, requerirá a la autoridad que haya emitido el acto o resolución, a efecto de que, dentro de las veinticuatro horas siguientes al de la notificación del acuerdo de referencia, le haga entrega del expediente administrativo del que derive la resolución impugnada; ordenará la preparación de las pruebas que así lo requieran, y fijará fecha y hora para la celebración de la audiencia de pruebas y alegatos, la cual deberá tener verificativo dentro de los seis días hábiles siguientes al de la emisión del acuerdo.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### Artículo 96.
 
-En la fecha y hora señalada para la celebración de la audiencia de pruebas y alegatos se levantará un acta en la que se haga constar:
-
-I. La presencia de quienes comparezcan a su desahogo;
-
-II. Las admisión y, en su caso, el desahogo de las pruebas ofrecidas;
-
-III. Se oirán los alegatos del actor, de la parte demandada, y del tercero interesado, los que se pronunciarán en ese orden;
-
-IV. Los alegatos podrán presentarse por escrito. Cuando se formulen verbalmente, no podrán exceder de quince minutos para cada una de las partes; y
-
-V. Se citará el juicio para sentencia.
-
-La audiencia de pruebas y alegatos se llevará a cabo aún sin la asistencia del recurrente.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### Artículo 97.
 
-Una vez agotados todos los puntos, desahogadas las pruebas, estudiado lo que adujo el particular en el recurso y lo que haya manifestado la autoridad, la Secretaría del Ayuntamiento procederá a dictar resolución en la misma audiencia, si lo estima pertinente, o fijará un plazo para tal efecto, con tal de que éste no exceda de diez días hábiles contados a partir de la fecha en que se haya interpuesto.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### Artículo 98.
 
-La resolución que recaiga al recurso de revisión podrá revocar, modificar o confirmar la resolución impugnada; deberá ser congruente con lo pedido por el recurrente y atender todos los puntos controvertidos, salvo que el estudio de uno de ellos sea suficiente para declarar la revocación de la resolución.
-
-La resolución a que se hace referencia en el párrafo que antecede deberá estar debidamente fundada y motivada, así como establecer el medio ordinario de defensa que para su impugnación proceda.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -874,3 +836,13 @@ PRESIDENTE MUNICIPAL
 GABRIELA MARÍA CHAÍN CASTRO
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE FEBRERO DE 2010.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de que sea publicado en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Como consecuencia de las adiciones, modificaciones y derogaciones de las normas contenidas en el presente Decreto, las dependencias de la Administración Pública Municipal, deberán ajustar sus actuaciones en lo general y de manera específica por cuanto se refiera a Inspecciones, vigilancia, infracciones, sanciones y medios de impugnación en lo dispuesto por el Reglamento de Procedimientos Administrativos y Medios de Impugnación del Municipio de Culiacán.
+
+Artículo Tercero.- Además de las materias señaladas en el artículo tercero del Reglamento de Procedimientos Administrativos y Medios de Impugnación del Municipio de Culiacán, Sinaloa, quedan excluidos de su aplicación en él establecidas, las materias que regulan el Reglamento de Adquisiciones, Contratación de Arrendamientos, Servicios y Enajenación de Bienes Muebles del Municipio de Culiacán, Sinaloa y el Reglamento del Deporte para el Municipio de Culiacán, Sinaloa.
