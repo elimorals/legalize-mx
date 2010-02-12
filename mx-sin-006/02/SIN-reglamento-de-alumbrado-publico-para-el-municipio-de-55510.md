@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-alumbrado-publico-para-el-municipio-de-55510"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-10-04"
-last_updated: "2008-09-22"
+last_updated: "2010-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 REGLAMENTO DE ALUMBRADO PUBLICO PARA EL MUNICIPIO DE CULIACAN, SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2010.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 4 de octubre de 1995.
 
@@ -159,7 +159,9 @@ L).- Diseñar programas de capacitación para los usuarios del servicio, para un
 
 LL).- Informar al Presidente Municipal de las irregularidades de que tenga conocimiento, para implementar las medidas correctivas y las sanciones pertinentes;
 
-M).- Ordenar inspecciones e imponer las sanciones administrativas previstas en este reglamento, en lo que se refiere al servicio de alumbrado público;
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2010)</small>
+
+M).- Ordenar visitas de inspección y vigilancia, a través de los inspectores a esta dirección e imponer las sanciones previstas en este reglamento, en lo que se refiere al servicio de alumbrado público;
 
 N).- Diseñar y ejecutar proyectos y programas de ahorro de energía eléctrica en el alumbrado público; y
 
@@ -275,39 +277,21 @@ VII.- Tomar y aprovechar, energía eléctrica de las instalaciones de los sistem
 
 La autorización a que se refieren las fracciones III y IV consistirán en una Carta de Opinión Favorable, en la que se haga constar que los objetos que se vayan a instalar aprovechando la infraestructura eléctrica no obstruyan la prestación del servicio de alumbrado público ni entrañen riesgos para las personas.
 
+> <small>(DEROGADO, P.O. 12 DE FEBRERO DE 2010)</small>
+
 ### CAPITULO VII (SIC). DE LA INSPECCION Y VIGILANCIA
 
 ###### ARTICULO 26.
 
-Con el objeto de verificar el cumplimiento de las disposiciones contenidas en el presente reglamento, el Ayuntamiento, a través de la dependencia administrativa facultada para ello, ejercerá las funciones de inspección y vigilancia en el territorio del municipio de Culiacán.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### ARTICULO 27.
 
-Para dar cumplimiento a lo dispuesto en el artículo anterior, los inspectores adscritos a la Dirección General de Servicios Públicos del Ayuntamiento tendrán las siguientes facultades y obligaciones:
-
-I.- Vigilar que la población acate las disposiciones de este reglamento;
-
-II.- Vigilar el correcto funcionamiento del sistema de alumbrado público;
-
-III.- Informar a la Dirección General de Servicios Públicos de todas las circunstancias resultantes de su función; y
-
-IV.- Levantar, durante las visitas de inspección y vigilancia, las actas circunstanciadas de las infracciones que contra este reglamento se cometan, las que entregarán a la Dirección General de Servicios Públicos para su calificación y aplicación de la sanción correspondiente.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### ARTICULO 28.
 
-La inspección y vigilancia se llevará a cabo en los centros de población, en la forma siguiente:
-
-A).- Durante la vigilancia, los inspectores levantarán actas circunstanciadas en caso de advertir infracciones a las disposiciones contenidas en los artículos 24 y 25 de este reglamento, realizando indagaciones para conocer la forma en que se cometieron las infracciones, asentando los datos en el acta.
-
-Posteriormente, los inspectores turnarán las actas levantadas a la Dirección General de Servicios Públicos, a efecto de que se tomen las medidas pertinentes y se impongan las sanciones que correspondan.
-
-B).- En caso de percatarse dichos inspectores que las infracciones se cometen precisamente en ese momento, se identificarán ante las (sic) infractores con credencial vigente con fotografía expedida por el Ayuntamiento y les requerirán para que hagan lo propio, informándoles de la infracción cometida, preferentemente mediante la lectura directa del precepto violado.
-
-Acto contínuo, los inspectores requerirán a los infractores para que nombren a dos personas que funjan como testigos en la diligencia, advirtiéndoles que en caso de rebeldía, éstos serán nombrados por el propio inspector.
-
-Enseguida, los inspectores levantarán las actas correspondientes, entregando al visitado copia de las mismas y turnando el original a la Dirección General de Servicios Públicos para los efectos señalados al final del inciso anterior.
-
-C).- En ambos casos, las actas circunstanciadas que levanten los inspectores se harán por triplicado y en ellas se expresará lugar, fecha, nombre de las personas con quienes se entendió la diligencia, resultado de la inspección, nombre del inspector y las firmas de quienes participaron en la inspección.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ### CAPITULO VIII. DE LAS SANCIONES
 
@@ -325,23 +309,15 @@ IV.- Arresto hasta por 36 horas.
 
 ###### ARTICULO 30.
 
-Las sanciones a que se refiere el artículo anterior se aplicarán tomando en consideración las circunstancias siguientes:
-
-A).- Gravedad de la infracción;
-
-B).- Reincidencia; y
-
-C).- Condiciones personales y económicas del infractor.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### ARTICULO 31.
 
 La imposición de las multas se fijará teniendo como base el salario mínimo general diario vigente en la zona del municipio de Culiacán.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
-
 ###### ARTICULO 32.
 
-Se considerará reincidente a quien infrinja dos veces o más las disposiciones de este reglamento en un término de 90 días naturales.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### ARTICULO 33.
 
@@ -367,27 +343,29 @@ Con independencia de las sanciones previstas en los artículos 34, 35 y 36 del p
 
 Las sanciones impuestas de acuerdo con este reglamento, no excluyen a aquellas que las autoridades respectivas deban aplicar por la comisión de conductas antisociales y de delitos.
 
+> <small>(DEROGADO, P.O. 12 DE FEBRERO DE 2010)</small>
+
 ### CAPITULO IX. DE LOS RECURSOS
 
 ###### ARTICULO 39.
 
-Contra las resoluciones de las autoridades que impongan sanciones por infracciones a este reglamento y contra los resultados de las visitas de inspección procederá el recurso de inconformidad, mediante escrito que deberán presentar los interesados ante el Presidente Municipal dentro de los siete días hábiles siguientes al inmediato posterior a aquél en que se notificó la resolución.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### ARTICULO 40.
 
-Al escrito de inconformidad se podrán acompañar las pruebas documentales relacionadas con los hechos que se impugne, siempre que el inconforme no las hubiere presentado ya al momento de notificársele la resolución o al practicarse la diligencia de inspección.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### ARTICULO 41.
 
-Se tendrán por consentidos los hechos contra los cuales no se inconformen los notificados de la resolución o los visitados, dentro del plazo señalado en el artículo 39 de este reglamento.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### ARTICULO 42.
 
-En un plazo de quince días hábiles contados a partir del día siguiente al del vencimiento del plazo a que se refiere el artículo 39 del presente reglamento, el Presidente Municipal emitirá la resolución correspondiente.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 ###### ARTICULO 43.
 
-La resolución que emita el Presidente Municipal deberá estar debidamente fundada y motivada y se notificará personalmente al interesado.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2010)
 
 TRANSITORIOS (SIC)
 
@@ -430,3 +408,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 22 DE SEPTIEMBRE DE 2008.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE FEBRERO DE 2010.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de que sea publicado en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. Como consecuencia de las adiciones, modificaciones y derogaciones de las normas contenidas en el presente Decreto, las dependencias de la Administración Pública Municipal, deberán ajustar sus actuaciones en lo general y de manera específica por cuanto se refiere a inspecciones, vigilancia, infracciones, sanciones y medios de impugnación en lo dispuesto por el Reglamento Administrativo y Medios de Impugnación del Municipio de Culiacán.
+
+Artículo Tercero. Además de las materias señaladas en el artículo tercero del Reglamento de Procedimientos Administrativos y Medios de Impugnación del Municipio de Culiacán, Sinaloa, quedan excluidos de su aplicación en él establecida, las materias que regulan el Reglamento de Adquisiciones, Contratación de Arrendamientos, Servicios y Enajenación de Bienes Muebles del Municipio de Culiacán, Sinaloa.
