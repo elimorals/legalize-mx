@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-del-instituto-electoral-de-queretaro-29065"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-14"
-last_updated: "2009-02-06"
+last_updated: "2010-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de febrero de 2003.
 
@@ -231,9 +231,11 @@ En los casos de licencia concedida al Secretario Ejecutivo por la Legislatura de
 
 Para el desahogo de los asuntos de su competencia, el Consejo integrará comisiones, mismas que podrán tener el carácter de permanentes o transitorias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 26.
 
-Serán consideradas comisiones permanentes:
+Serán consideradas como comisiones permanentes:
 
 I. Organización Electoral;
 
@@ -241,15 +243,19 @@ II. Educación Cívica y Capacitación Electoral;
 
 III. Control Interno;
 
-IV. Radiodifusión;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2010)</small>
+
+IV. Fortalecimiento del Régimen de Partidos;
 
 V. Editorial y Biblioteca; y
 
 VI. Jurídica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 27.
 
-Las comisiones permanentes serán integradas por tres Consejeros Electorales y dos representantes de partidos políticos o coaliciones, debiendo elegirse un presidente, un secretario y un vocal, sin que puedan recaer dichos cargos en representantes de partidos políticos o coaliciones, quienes sólo tendrán derecho a voz.
+Las comisiones permanentes serán integradas por tres Consejeros Electorales y dos representantes de partidos políticos o coaliciones, debiendo elegirse un presidente, un secretario y un vocal, sin que puedan recaer dichos cargos en representantes de partidos políticos o coaliciones, quienes sólo tendrán derecho a voz. En el caso de la Comisión de Fortalecimiento del Régimen de Partidos, durante el período de proceso electoral se integrará por todos los representantes de los partidos políticos o coaliciones, debiendo elegirse de entre los tres Consejeros Electorales un presidente y dos vocales; el Coordinador de Información y Medios fungirá como Secretario Técnico, quien concurrirá con voz informativa.
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
@@ -379,47 +385,31 @@ XVII. Participar en los actos de entrega-recepción de los servidores públicos 
 
 XVIII. Las demás que le confiera la Ley, el presente Reglamento y las disposiciones que para los órganos de naturaleza análoga previenen la Ley de Responsabilidades de los Servidores Públicos, la Ley para el Manejo de los Recursos Públicos, la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios y la Ley Estatal de Acceso a la Información Gubernamental, todas del Estado de Querétaro, entre otros ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 37.
 
-La Comisión de Radiodifusión, tiene competencia para:
+La Comisión de Fortalecimiento del Régimen de Partidos tiene competencia para:
 
-I. Expedir su reglamento, enviándolo a la Secretaría Ejecutiva para la integración del archivo del Consejo;
+I. Expedir su reglamento y turnarlo a la Secretaría Ejecutiva para la integración del archivo del Consejo;
 
-II. Elaborar el Proyecto de Reglamento de Acceso de los Partidos Políticos a los Medios Masivos de Comunicación, propiedad de Gobierno del Estado, y someterlo al Consejo para su aprobación;
+II. Diseñar y ejecutar acciones orientadas al fortalecimiento del régimen de partidos en la entidad;
 
-III. Supervisar el desarrollo de las actividades de la Dirección Ejecutiva de Organización Electoral, relativas a los programas aprobados por el Consejo, que tenga asignados, en materia de acceso de Partidos Políticos a Medios de Comunicación, propiedad de Gobierno del Estado;
+III. Diseñar y ejecutar programas de apoyo para las asociaciones políticas acreditadas en la entidad;
 
-IV. Vigilar el cumplimiento de los programas aprobados por el Consejo y que tenga a su cargo la Dirección Ejecutiva de Organización Electoral, en materia de acceso de Partidos Políticos a Medios de Comunicación, propiedad de Gobierno del Estado;
+IV. Realizar los actos que determine la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, la Ley Electoral del Estado de Querétaro, el Reglamento de Acceso a Radio y Televisión en materia Electoral del instituto Federal Electoral y los acuerdos aplicables, en su caso, a efecto de coadyuvar en el desahogo de los procedimientos establecidos, para garantizar el acceso a la radio y televisión de los partidos políticos y coaliciones en la entidad;
 
-V. Hacer del conocimiento del Presidente el incumplimiento de los programas en que incurra la Dirección Ejecutiva de Organización Electoral en materia de acceso de Partidos Políticos a Medios de Comunicación, propiedad de Gobierno del Estado;
+V. Elaborar y someter a la consideración del Consejo, el proyecto de criterios generales que deberán adoptar las personas físicas y morales u organizaciones interesadas en producir, publicar o difundir encuestas o sondeos de opinión, que tengan por objeto dar a conocer las preferencias electorales o las tendencias de las votaciones;
 
-VI. Emitir las recomendaciones necesarias para el buen funcionamiento de la Dirección Ejecutiva de Organización Electoral, relativas a los programas que tiene asignados, en materia de acceso de Partidos Políticos a Medios de Comunicación, propiedad de Gobierno del Estado;
+VI. Elaborar los proyectos de convenios que en su caso habrán de celebrarse con los medios de comunicación impresos y electrónicos, a excepción de radio y televisión, a fin de garantizar que las tarifas que se cobren no sean superiores a las comerciales e iguales para todos los partidos políticos, así como de la imposibilidad de obsequiar espacios a algún partido político, salvo que se haga con todos en la misma proporción;
 
-VII. Revisar y dictaminar los proyectos de convenios que habrán de celebrarse con los medios de comunicación del Gobierno del Estado, y a que se refiere el artículo 54 de la Ley;
+VII. Conocer los estudios que remita el Secretario Ejecutivo, derivado de la elaboración de encuestas o sondeos de opinión que sobre asuntos electorales realicen las personas físicas o morales; debiendo remitir al Consejo el dictamen respectivo para que resuelva lo procedente en términos de lo dispuesto por el artículo 113 fracción I de la Ley.
 
-VIII. Revisar y dictaminar los proyectos de convenios que habrán de celebrarse con los medios de comunicación operados por particulares en la entidad, que propicien mayor equidad y apertura en la contratación de espacios y cobertura informativa;
+VIII. Conocer las actividades desarrolladas por la Coordinación de Información y Medios, en materia de acceso de los partidos políticos y coaliciones al uso de tiempo en radio y televisión asignado por el Instituto Federal Electoral para los procesos electorales estatales y, en su caso, hacer del conocimiento del presidente el incumplimiento en que incurra esta Coordinación en asuntos de su competencia vinculados con esta comisión.
 
-IX. Revisar los guiones técnicos que presenten los partidos políticos o coaliciones para la producción de sus programas, elaborando los dictámenes o acuerdos respectivos;
+IX. Elaborar y rendir al Consejo, por conducto de la Secretaría Ejecutiva, los proyectos de dictamen derivados del ejercicio de sus funciones, que así lo requieran;
 
-X. Elaborar el calendario para la asignación de fecha y hora de las transmisiones de los programas de los partidos políticos en los medios de comunicación propiedad de Gobierno del Estado y someterlo al Consejo, para su aprobación;
-
-XI. Elaborar y rendir al Consejo, por conducto de la Secretaría Ejecutiva, los proyectos de dictamen derivados del ejercicio de sus funciones, que así lo requieran;
-
-XII. (DEROGADA, P.O. 6 DE FEBRERO DE 2009)
-
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
-
-XIII. Elaborar y someter a la consideración del Consejo, el proyecto de criterios generales que deberán adoptar las personas físicas y morales u organizaciones interesadas en producir, publicar o difundir encuestas o sondeos de opinión, que tengan por objeto dar a conocer las preferencias electorales o las tendencias de las votaciones.
-
-> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
-
-XIV. Conocer los estudios que remita el Secretario Ejecutivo, derivado de la elaboración de encuestas o sondeos de opinión que sobre asuntos electorales realicen las personas físicas o morales; debiendo remitir al Consejo el dictamen respectivo para que resuelva lo procedente en términos de los (sic) dispuesto por el artículo 113 fracción I de la Ley, y
-
-> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2009)</small>
-
-XV. Las demás que la Ley y el Consejo le señalen.
+X. Las demás que la Ley y el Consejo le señalen.
 
 ###### Artículo 38.
 
@@ -585,7 +575,9 @@ II. Fungir como unidad de información y enlace a que hacen referencia los artí
 
 III. Rendir los informes y demás documentos que la Comisión de Control Interno le requiera en ejercicio de la atribución prevista en la fracción XV del artículo 36 de este Reglamento;
 
-IV. Fungir como instancia técnica de la Comisión de Radio-Difusión en materia de producción de programas radiofónicos de los partidos políticos;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2010)</small>
+
+IV. Fungir como Secretaría Técnica de la Comisión de Fortalecimiento del Régimen de Partidos;
 
 V. Atender los requerimientos que formulen representantes, comunicadores, corresponsales y directivos de medios de comunicación masiva locales y nacionales y prestar apoyo institucional en el cumplimiento de su labor informativa;
 
@@ -1134,3 +1126,7 @@ SEXTO.- Se ordena su publicación en el Periódico Oficial de Gobierno del Estad
 P.O. 6 DE FEBRERO DE 2009.
 
 PRIMERO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su aprobación por el Consejo General.
+
+P.O. 12 DE FEBRERO DE 2010.
+
+> <small>N. DE E. EL ACUERDO DEL REGLAMENTO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO.</small>
