@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-mascotas-del-municipio-de-culiacan-sinaloa-54523"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-02"
-last_updated: "2007-03-02"
+last_updated: "2010-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SIN"
 ---
 # REGLAMENTO DE MASCOTAS DEL MUNICIPIO DE CULIACAN, SINALOA
 
-REGLAMENTO DE MASCOTAS DEL MUNICIPIO DE CULIACAN, SINALOA
+REGLAMENTO DE MASCOTAS DEL MUNICIPIO DE CULIACÁN, SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO NOVENO DEL DECRETO MUNICIPAL NÚMERO 39, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 2 de marzo de 2007.
 
@@ -456,3 +458,13 @@ PRESIDENTE MUNICIPAL
 DR. JESÚS HECTOR MUÑOZ ESCOBAR
 
 SECRETARIO DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE FEBRERO DE 2010.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de que sea publicado en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. Como consecuencia de las adiciones, modificaciones y derogaciones de las normas contenidas en el presente Decreto, las dependencias de la Administración Pública Municipal, deberán ajustar sus actuaciones en lo general y da manera específica por cuanto se refiere a inspecciones, vigilancia, infracciones, sanciones y medios de impugnación en lo dispuesto por el Reglamento de Procedimientos Administrativos y Medios de Impugnación del Municipio de Culiacán.
+
+Artículo Tercero. Además de las materias señaladas en el artículo tercero del Reglamento de Procedimientos Administrativos y Medios de Impugnación del Municipio de Culiacán, Sinaloa, quedan excluidos de su aplicación en él establecida, las materias que regulan el Reglamento de Adquisiciones, Contratación de Arrendamientos, Servicios y Enajenación de Bienes Muebles del Municipio de Culiacán, Sinaloa y el Reglamento del Deporte para al Municipio de Culiacán, Sinaloa.
