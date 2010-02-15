@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-universidad-tecnologica-del-norte-de-17320"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-26"
-last_updated: "2004-07-19"
+last_updated: "2010-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de junio de 2000.
 
@@ -43,9 +43,11 @@ LEY DE LA UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES
 
 ### CAPITULO UNICO. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 1o.
 
-La Universidad Tecnológica del Norte de Aguascalientes, funcionará como Organismo Público Descentralizado del Gobierno del Estado de Aguascalientes, dotada de personalidad jurídica y patrimonio propio, integrada al Sistema Nacional de Universidades Tecnológicas, adoptando el modelo pedagógico y los sistemas educativos que señalen el Consejo Nacional de Universidades Tecnológicas así como el Instituto de Educación de Aguascalientes y tendrá por objeto:
+La Universidad Tecnológica del Norte de Aguascalientes, funcionará como Organismo Público Descentralizado del Gobierno del Estado de Aguascalientes, dotada de personalidad jurídica y patrimonio propio, integrada al Sistema Nacional de Universidades Tecnológicas, adoptando el modelo pedagógico y los sistemas educativos que señalen la Coordinación General de Universidades Tecnológicas, así como el Instituto de Educación de Aguascalientes y tendrá por objeto:
 
 I. Impartir educación superior tecnológica con las características de intensidad, pertinencia, flexibilidad y calidad, en la modalidad de técnico superior;
 
@@ -89,9 +91,17 @@ XII. Organizar actividades culturales y deportivas que permitan a la comunidad e
 
 XIII. Impulsar estrategias de participación y concertación con los sectores público, privado y social para la realización de actividades productivas con un alto nivel de eficiencia y sentido social;
 
-XIV. Administrar libremente su patrimonio con sujeción al marco legal que le impone su carácter de organismo público descentralizado; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
 
-XV. Expedir las disposiciones necesarias a fin de hacer efectivas las atribuciones que esta Ley le confiere para el cumplimiento de su objeto.
+XIV. Administrar libremente su patrimonio con sujeción al marco legal que le impone su carácter de organismo público descentralizado;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+XV. Expedir las disposiciones necesarias a fin de hacer efectivas las atribuciones que esta Ley le confiere para el cumplimiento de su objeto; y
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+XVI. Impartir educación superior tecnológica con una duración no menor de dos años posteriores al bachillerato, conducente a la obtención del título de: "Técnico Superior Universitario"; así como programas de continuidad de estudios para sus egresados y para los de otras Instituciones de Educación Superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de licenciatura y postgrado, conforme a las disposiciones aplicables, considerando para tal efecto, los planes y programas de estudio, carreras y modalidades educativas que apruebe la Secretaría de Educación Pública, a través de la Coordinación General de Universidades Tecnológicas, en tanto se constituye el Consejo de Universidades Tecnológicas, los cuales deberán garantizar una formación profesional y una cultura científica y tecnológica.
 
 ## TITULO SEGUNDO. DE LOS ORGANOS DE LA UNIVERSIDAD
 
@@ -171,7 +181,9 @@ I. Designar al Rector de la Universidad a propuesta del titular del Ejecutivo Es
 
 II. Designar a los titulares de los Organos de Gobierno a que se refieren las Fracciones III, IV y V del Artículo 4º de la presente Ley, a propuesta del Rector;
 
-III. Dictar las políticas y lineamientos generales para el debido funcionamiento de la Institución, tomando en cuenta la opinión del Consejo Nacional de Universidades Tecnológicas;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+III. Dictar las políticas y lineamientos generales para el debido funcionamiento de la Institución, tomando en cuenta la opinión de la Coordinación General de Universidades Tecnológicas;
 
 IV. Examinar y aprobar el proyecto anual de ingresos y egresos de la Universidad;
 
@@ -185,7 +197,9 @@ VIII. Conocer y aprobar los informes que deberá presentar el Rector;
 
 IX Expedir el Reglamento Interior de la Universidad Tecnológica del Norte de Aguascalientes;
 
-X. Expedir los demás reglamentos, estatutos, acuerdos y disposiciones internas que normen el desarrollo de la Institución, tomando en cuenta la opinión del Consejo Nacional de Universidades Tecnológicas;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+X. Expedir los demás reglamentos, estatutos, acuerdos y disposiciones internas que normen el desarrollo de la Institución, tomando en cuenta la opinión de la Coordinación General de Universidades Tecnológicas;
 
 XI. Conocer, discutir y aprobar los proyectos académicos que se le presenten y los que surjan en su propio seno;
 
@@ -462,3 +476,13 @@ P.O. 19 DE JULIO DE 2004.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las adecuaciones a la normatividad interna de la Universidad Tecnológica del Norte de Aguascalientes, se deberán expedir en un término que no exceda de 90 días a partir de la entrada en vigencia de este Decreto.
