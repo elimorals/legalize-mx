@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2010-01-18"
+last_updated: "2010-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2010.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -179,13 +179,17 @@ VI.- Proponer al Instituto Estatal de Seguridad Pública programas de formación
 
 VII.- Coordinar programas conjuntos con los Directores de Seguridad Pública y Vialidad de los Municipios, en los términos del convenio que para tal efecto se celebre.
 
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+VIII.- Coordinar sus acciones con las autoridades locales y federales.
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+IX.- Establecer zonas o regiones en donde se localicen puestos o casetas de control de los vehículos que entren y salgan del territorio estatal, principalmente los que porten placas del extranjero o de alguna otra entidad federativa, respetando el procedimiento que para tal efecto se prevea en el Reglamento correspondiente; y
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
-VIII.- Coordinar sus acciones con las autoridades locales y federales a efecto de dar cumplimiento a las leyes del país y los tratados internacionales; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2003)</small>
-
-IX.- Las demás que establece la presente Ley y otras disposiciones jurídicas aplicables en la materia.
+X.- Las demás que establece la presente Ley y otras disposiciones jurídicas aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -909,7 +913,19 @@ III.- Portar en el cofre la leyenda "Transporte Escolar" colocada en sentido con
 
 IV.- Portar en los costados y parte posterior la leyenda "Transporte Escolar", para su plena identificación.
 
-V.- Contar con cinturones de seguridad para cada uno de los pasajeros.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+V.- Contar con cinturones de seguridad para cada uno de los pasajeros, así como cumplir con lo siguiente:
+
+A. Los pasajeros menores de cuatro años de edad, deberán utilizar asientos de seguridad que reúnan las características establecidas en el Reglamento de la presente Ley;
+
+B. Los pasajeros mayores de cuatro y hasta ocho años de edad deberán utilizar asientos elevados para menores que reúnan las características establecidas en el Reglamento de la presente Ley; y
+
+C. Los pasajeros mayores de ocho años de edad o que pesen más de 27 kilogramos deberán utilizar adecuadamente el cinturón de seguridad.
+
+El conductor del vehículo será responsable de que se dé cumplimiento a lo anterior.
 
 VI.- Contar con puerta de emergencia en la parte posterior, sin obstrucción, que permita su fácil evacuación.
 
@@ -917,7 +933,11 @@ VII.- Contar con dos extinguidores contra incendio en perfecto estado.
 
 VIII.- En las vías públicas transitar por el carril de más baja velocidad a la extrema derecha.
 
-IX.- No podrán transitar sino está debidamente asegurado el conductor del vehículo, que cada uno de sus pasajeros escolares lleve puesto el cinturón de seguridad; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+IX.- No podrán transitar sino está debidamente cerciorado el conductor del vehículo, que cada uno de sus pasajeros escolares lleve puesto el cinturón de seguridad, cumpliendo además con las especificaciones previstas en la Fracción V de este Artículo; y
 
 X.- Conducir a una velocidad máxima de cuarenta kilómetros por hora.
 
@@ -1205,9 +1225,37 @@ V.- Conservar respecto del vehículo que los preceda, la distancia que garantice
 
 VI.- Dejar suficiente espacio, en zonas urbanas, para que otro vehículo que intente adelantarlo, pueda hacerlo sin peligro, excepto cuando a su vez trate de adelantar al que lo preceda.
 
-VII.- Utilizar y verificar que los pasajeros se coloquen los cinturones de seguridad, en los asientos delanteros y cuando el automóvil esté provisto de ellos, en los asientos traseros; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII.- Todo vehículo automotor que transporte niños, además de que vayan en un asiento apropiado contemplará el anuncio de "niño a bordo".
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+VII.- Utilizar el cinturón de seguridad y verificar que todos los pasajeros mayores de ocho años de edad o bien que pesen más de 27 kilogramos, se coloquen los cinturones de seguridad, en los asientos delanteros y cuando el automóvil esté provisto de ellos, en los asientos traseros.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+VIII.- Asegurarse de que todos los pasajeros menores de un año de edad o bien que tengan un peso menor a 9 kilógramos, viajen en asientos de seguridad que reúnan las características establecidas en el Reglamento de la presente Ley, colocados en los asientos traseros cuando el automóvil esté provisto de ellos y mirando hacia la parte de atrás del vehículo que conduzca.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+IX.- Asegurarse de que todos los pasajeros de entre uno y cuatro años de edad o bien que pesen entre 9 y hasta 18 kilogramos, viajen en asientos de seguridad que reúnan las características establecidas en el Reglamento de la presente Ley, colocados en los asientos traseros cuando el automóvil esté provisto de ellos y mirando hacia la parte delantera del vehículo que conduzca; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+X.- Asegurarse de que todos los pasajeros de entre cuatro y ocho años de edad que pesen más de 18 y hasta 27 kilogramos, viajen en asientos elevados que reúnan las características establecidas en el Reglamento de la presente Ley, colocados en los asientos traseros cuando el automóvil esté provisto de ellos y mirando hacia la parte delantera del vehículo que conduzca.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2010)</small>
+
+###### ARTICULO 73 Bis.
+
+En el ámbito de sus facultades, el Gobierno del Estado y los gobiernos municipales deberán implantar actividades permanentes de concientización a la población, a efecto de que el uso de cinturones de seguridad y de asientos de seguridad para menores de edad sea una práctica cotidiana e institucionalizada.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -2643,6 +2691,12 @@ c) Ante vehículos de emergencia.
 
 36. Por circular vehículos equipados con banda de oruga, ruedas o llantas metálicas u otros mecanismos de traslación que dañen la superficie de rodamiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2010)</small>
+
+37. Circular sin dar cumplimiento a lo establecido en las Fracciones VII, VIII, IX y X del Articulo 73 de esta Ley, con excepción de los transportes escolares.
+
 b) Vehículos de transporte público de pasajeros:
 
 1. Permitir sin precauciones de seguridad el ascenso y descenso de pasajeros.
@@ -2661,7 +2715,11 @@ b) Vehículos de transporte público de pasajeros:
 
 c) Transportes escolares:
 
-1. Circular sin que los pasajeros utilicen el cinturón de seguridad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2010)</small>
+
+1. Circular sin dar cumplimiento a lo establecido en las Fracciones V y IX de lo establecido en el Artículo 57 de esta Ley.
 
 d) Vehículos de transporte de carga:
 
@@ -2982,3 +3040,27 @@ P.O. 18 DE ENERO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE FEBRERO DE 2010.
+
+DECRETO No. 362, POR EL QUE SE REFORMA LA FRACCION VIII Y SE ADICIONA LA FRACCION IX DEL ARTICULO 8° BIS DE LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor de treinta días naturales contados a partir del inicio de vigencia de este Decreto, se deberá emitir el Reglamento que establezca el procedimiento a seguir para el control de los vehículos a que se refiere la reforma aprobada.
+
+P.O. 15 DE FEBRERO DE 2010.
+
+DECRETO No. 363, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 57, 73, 73 BIS Y 157 BIS DE LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia dentro de los sesenta días naturales siguientes a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de cuarenta y cinco días naturales contados a partir de la publicación del presente Decreto, se deberán efectuar las adecuaciones correspondientes al Reglamento de la Ley de Vialidad del Estado de Aguascalientes.
