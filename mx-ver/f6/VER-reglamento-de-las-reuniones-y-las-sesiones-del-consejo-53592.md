@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-las-reuniones-y-las-sesiones-del-consejo-53592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-08"
-last_updated: "2007-01-08"
+last_updated: "2010-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO DE LAS REUNIONES Y LAS SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL VERACRUZANO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL VERACRUZANO, PUBLICADO EN LA G.O. DE 15 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 8 de enero de 2007.
 
@@ -566,3 +568,13 @@ Xalapa-Enríquez, Veracruz, a 22 de diciembre de 2006
 Carolina Viveros García, Presidenta del Consejo General del Instituto Electoral Veracruzano.-Rúbrica.
 
 Francisco Monfort Guillén, Secretario del Consejo General del Instituto Electoral Veracruzano.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 15 DE FEBRERO DE 2010.
+
+Artículo primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Por única ocasión, el calendario de sesiones a que se refieren los artículos 9 y 11 de este Reglamento, será aprobado dentro de los siete días siguientes a la entrada en vigor de esta norma.
+
+Artículo tercero. Se abroga el Reglamento de las Reuniones y las Sesiones del Consejo General del Instituto Electoral Veracruzano de fecha 22 de diciembre de 2006.
