@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-para-el-estado-de-aguascalientes-54687"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-12"
-last_updated: "2009-02-09"
+last_updated: "2010-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACION PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de marzo de 2007.
 
@@ -595,11 +595,15 @@ La autoridad educativa estatal realizará acciones tendientes a garantizar la eq
 
 Programará e instrumentará acciones específicas dirigidas a combatir el rezago y/o la inequidad, la ineficacia e ineficiencia educativa.
 
-Para cumplir con lo anterior, las autoridades educativas, en el ámbito de sus respectivas competencias, llevarán a cabo las actividades siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2010)</small>
+
+Para cumplir con lo anterior, las personas y autoridades educativas, en el ámbito de sus respectivas competencias, llevarán a cabo las actividades siguientes:
 
 I. Atender de manera especial las escuelas en que, por estar en localidades aisladas o zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad para enfrentar los problemas educativos;
 
-II. Evitar que requisitos o cuotas fijadas por autoridades escolares o asociaciones de padres de familia condicionen la inscripción o asistencia a clases a quien no pueda cumplirlas;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+II. Evitar que requisitos o cuotas fijadas por autoridades escolares o asociaciones de padres de familia condicionen la inscripción o asistencia a clases de cualquier persona;
 
 III. Desarrollar programas de apoyo a los maestros que realicen su labor en localidades aisladas o zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades;
 
@@ -1613,7 +1617,9 @@ IV. Clausura de los establecimientos educativos.
 
 En el caso de las infracciones previstas en las fracciones II, V, VI, VIII y XVI del artículo que antecede, se procederá a la amonestación misma cuya imposición, no excluye la posibilidad de que se aplique alguna multa en los casos de reincidencia.
 
-En el supuesto de violación a la fracción II del Artículo 46 de esta Ley se procederá a sancionar de conformidad a la normatividad laboral y administrativa aplicable a quien niegue el acceso a un alumno por no cumplir con las llamadas cuotas voluntarias, en tratándose de cuotas fijadas por los padres de familia se impondrá multa en los términos que establece la presente Ley.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2010)</small>
+
+A quien funja como autoridad educativa, director escolar, educador o trabajador de apoyo y asistencia al servicio de la educación, que incumpla con lo dispuesto en la Fracción II del Artículo 46 de esta Ley, se le suspenderá, sin goce de sueldo, de su empleo, cargo o comisión durante un período de quince a treinta días, valorando si tal falta afectó a más de un alumno y siguiendo el procedimiento de Responsabilidad Administrativa Disciplinaria establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
 
 Al responsable de las infracciones consagradas en las fracciones I, X, XIII, XIV Y XVII del artículo anterior se le sancionará en los términos de la fracción IV del presente.
 
@@ -1808,6 +1814,12 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 P.O. 9 DE FEBRERO DE 2009.
 
 DECRETO NUMERO 193, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 17 Y 19 DE LA LEY DE EDUCACION PARA EL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
