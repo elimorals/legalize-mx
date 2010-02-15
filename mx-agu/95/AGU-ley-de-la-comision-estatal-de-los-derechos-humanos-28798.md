@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-estatal-de-los-derechos-humanos-28798"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-10"
-last_updated: "2008-10-27"
+last_updated: "2010-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
+LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de febrero de 2003.
 
@@ -163,13 +163,17 @@ XXIV. Elaborar su anteproyecto de Presupuesto de Egresos, el cual remitirá dire
 
 XXV. Contar con franquicia radiofónica y televisiva en las empresas propiedad de Gobierno del Estado, cuando así lo justifique el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
 
-XXVI. El ejercicio de las acciones tendientes a la prevención y eliminación de todas las formas de discriminación en el Estado; y
+XXVI. El ejercicio de las acciones tendientes a la prevención y eliminación de todas las formas de discriminación en el Estado;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
 
-XXVII. Las demás establecidas en esta Ley y demás disposiciones legales aplicables.
+XXVII. Interponer en contra de leyes que violen los derechos humanos y que fueren expedidas por el Congreso del Estado, la acción de inconstitucionalidad que señala la Fracción II, inciso g) del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+XXVIII. Las demás que le fijen las leyes y disposiciones aplicables.
 
 ###### ARTICULO 9°.
 
@@ -225,19 +229,23 @@ Al frente de la Comisión estará un Presidente, el cual deberá reunir los sigu
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos, con residencia efectiva en el Estado de cinco años anteriores a la designación;
 
-II. Manifestar interés en la defensa de los derechos humanos;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+II. Contar con título profesional de licenciado en Derecho o equivalente así como experiencia en materia de derechos humanos, o actividades afines reconocidas por las leyes mexicanas y los instrumentos jurídicos internacionales;
 
 III. Tener cuando menos treinta años cumplidos el día de la designación;
 
 IV. No pertenecer al Estado eclesiástico ni ser ministro de algún culto, pertenecer o haber pertenecido a las fuerzas armadas;
 
-V. No haber sido condenado por delito doloso alguno;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+V. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena por más de un año de prisión, pero si se tratare de robo, fraude, peculado, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
 VI. No haber tenido cargo de Secretario, Subsecretario o su equivalente en la Administración Pública Estatal, Procurador General de Justicia, o Presidente Nacional, Estatal o Municipal de algún partido político durante los tres años anteriores al día de su designación;
 
-VII. Tener título profesional de Licenciado en Derecho o equivalente; o en su defecto, que a juicio del Congreso acredite conocimientos y experiencia en materia de Derechos Humanos;
+VII. (DEROGADA, P.O. 15 DE FEBRERO DE 2010)
 
-VIII. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena por más de un año de prisión, pero si se tratare de robo, fraude, peculado, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+VIII. (DEROGADA, P.O. 15 DE FEBRERO DE 2010)
 
 ###### ARTICULO 12.
 
@@ -307,9 +315,15 @@ XVIII. Promover la permanente capacitación del personal de la Comisión, en el 
 
 XIX. Aprobar y emitir las recomendaciones públicas autónomas y acuerdos que resulten de las investigaciones realizadas por la Comisión Estatal de Derechos Humanos;
 
-XX. Recomendar en cualquier momento a las autoridades, que se tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones denunciadas o reclamadas o la producción de daños de difícil reparación a los afectados; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
 
-XXI. Las demás que le señalen la presente Ley, su Reglamento y otros ordenamientos aplicables.
+XX. Recomendar en cualquier momento a las autoridades, que se tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones denunciadas o reclamadas o la producción de daños de difícil reparación a los afectados;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+XXI. Interponer en contra de leyes que violen los derechos humanos y que fueren expedidas por el Congreso del Estado, la acción de inconstitucionalidad que señala la Fracción II, inciso g) del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+XXII. Las demás que le señalen la presente Ley, su Reglamento y otros ordenamientos aplicables.
 
 ###### ARTICULO 15.
 
@@ -379,9 +393,15 @@ IV. Opinar sobre el proyecto del informe anual que el Presidente habrá de prese
 
 V. Solicitar al Presidente información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión;
 
-VI. Conocer el informe del Presidente respecto al ejercicio presupuestal; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
 
-VII. Las demás que esta Ley le confiera.
+VI. Conocer el informe del Presidente respecto al ejercicio presupuestal;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+VII. Solicitar al presidente que interponga en contra de leyes que violen los derechos humanos y que fueren expedidas por el Congreso del Estado, la acción de inconstitucionalidad que señala la Fracción II, inciso g) del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+VIII. Las demás que esta Ley le confiera.
 
 ###### ARTICULO 22.
 
@@ -509,11 +529,11 @@ V. La publicación o difusión de una síntesis de la recomendación en los medi
 
 VI. Otorgar reconocimiento a las instituciones públicas que se distingan por llevar a cabo programas y medidas para prevenir la discriminación. Además de todas aquellas que se consideren necesarias.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE MAYO DE 2007)</small>
 
 ### CAPITULO VI. De la Prevención, Estudio, Difusión y Promoción de los Derechos Humanos
 
-> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTICULO 27 BIS], P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 27 BIS], P.O. 27 DE OCTUBRE DE 2008)</small>
 
 ARTICULO 27 SEXIES.- Para el cumplimiento de sus fines, la Comisión contará con una Dirección de Educación en Derechos Humanos, dependiente de la Presidencia y tendrá las siguientes facultades:
 
@@ -901,7 +921,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 28 DE MAYO DE 2007.
 
@@ -922,3 +942,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Dentro del Presupuesto de Egresos del Estado para el Ejercicio Fiscal del Año 2009, deberán preverse las partidas respectivas para la puesta en marcha de las Visitadurías para la prevención de la Discriminación, en tanto, la Comisión deberá realizarlos ajustes presupuesta/es necesarios para la aplicación y vigencia del presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
