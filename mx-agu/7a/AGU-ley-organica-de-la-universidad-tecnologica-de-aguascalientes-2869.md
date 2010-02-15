@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-tecnologica-de-aguascalientes-28
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-06-06"
-last_updated: "2009-02-09"
+last_updated: "2010-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1993.
 
@@ -96,6 +96,10 @@ VII.- Expedir el Estatuto, Reglamentos y disposiciones legales necesarias, a fin
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2005)</small>
 
 VIII. Suscribir contratos y convenios con personas físicas o morales y con instituciones públicas, ya sea de la Entidad, del país o del extranjero, para el cumplimiento de sus objetivos.
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2010)</small>
+
+IX. Impartir educación superior tecnológica con una duración no menor de dos años posteriores al bachillerato, conducente a la obtención de título de: “Técnico Superior Universitario”; así como programas de continuidad de estudios para sus egresados y para los de otras Instituciones de Educación Superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de licenciatura y posgrados, conforme a las disposiciones aplicables, considerando para tal efecto, los planes y programas de estudio, carreras y modalidades educativas que apruebe (sic) Secretaría de Educación Pública, a través de la Coordinación General de Universidades Tecnológicas, en tanto se constituye el Consejo de Universidades Tecnológicas, los cuales deberán garantizar una formación profesional y una cultura científica y tecnológica.
 
 ### CAPITULO SEGUNDO. De la Organización de la Universidad
 
@@ -372,3 +376,13 @@ P.O. 9 DE FEBRERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las adecuaciones a la normatividad interna de la Universidad Tecnológica del Estado, se deberán expedir en un término que no exceda de noventa días a partir de la entrada en vigencia del presente Decreto.
