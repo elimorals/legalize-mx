@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2009-12-29"
+last_updated: "2010-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGANICA DEL MUNICIPIO LIBRE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -97,11 +97,11 @@ Cuando dos o más municipios tengan graves dificultades para prestar los servici
 
 ### CAPÍTULO III. DEL TERRITORIO DE LOS MUNICIPIOS
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 9.
 
-El territorio del Estado se divide en 212 Municipios denominados como sigue: Acajete, Acatlán, Acayucan, Actopan, Acula, Acultzingo, Agua Dulce, Alpatláhuac, Alto Lucero, Altotonga, Alvarado, Amatitlán, Amatlán de los Reyes, Angel R. Cabada, La Antigua, Apazapan, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Atzalan, Ayahualulco, Banderilla, Benito Juárez, Boca del Río, Calcahualco, Camarón de Tejeda, Camerino Z. Mendoza, Carlos A. Carrillo, Carrillo Puerto, Castillo de Teayo, Catemaco, Cazones de Herrera, Cerro Azul, Citlaltépetl, Coacoatzintla, Coahuitlán, Coatepec, Coatzacoalcos, Coatzintla, Coetzala, Colipa, Comapa, Córdoba, Cosamaloapan, Cosautlán de Carvajal, Coscomatepec, Cosoleacaque, Cotaxtla, Coxquihui, Coyutla, Cuichapa, Cuitláhuac, Chacaltianguis, Chalma, Chiconamel, Chiconquiaco, Chicontepec, Chinameca, Chinampa de Gorostiza, Las Choapas, Chocamán, Chontla, Chumatlán, Emiliano Zapata, Espinal, Filomeno Mata, Fortín, Gutiérrez Zamora, Hidalgotitlán, El Higo, Huatusco, Huayacocotla, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Ignacio de la Llave, Ilamatlán, Isla, Ixcatepec, Ixhuacán de los Reyes, Ixhuatlán de Madero, Ixhuatlán del Café, Ixhuatlán del Sureste, Ixhuatlancillo, Ixmatlahuacan, Ixtaczoquitlán, Jalacingo, Jalcomulco, Jáltipan, Jamapa, Jesús Carranza, Jilotepec, José Azueta, Juan Rodríguez Clara, Juchique de Ferrer, Landero y Coss, Lerdo de Tejada, Magdalena, Maltrata, Manlio Fabio Altamirano, Mariano Escobedo, Martínez de la Torre, Mecatlán, Mecayapan, Medellín, Miahuatlán, Las Minas, Minatitlán, Misantla, Mixtla de Altamirano, Moloacán, Nanchital de Lázaro Cárdenas del Río, Naolinco, Naranjal, Naranjos-Amatlán, Nautla, Nogales, Oluta, Omealca, Orizaba, Otatitlán, Oteapan, Ozuluama, Pajapan, Pánuco, Papantla, Paso de Ovejas, Paso del Macho, La Perla, Perote, Platón Sánchez, Playa Vicente, Poza Rica de Hidalgo, Pueblo Viejo, Puente Nacional, Rafael Delgado, Rafael Lucio, Los Reyes, Río Blanco, Saltabarranca, San Andrés Tenejapan, San Andrés Tuxtla, San Juan Evangelista, San Rafael, Santiago Sochiapan, Santiago Tuxtla, Sayula de Alemán, Soconusco, Sochiapa, Soledad Atzompa, Soledad de Doblado, Soteapan, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Tatahuicapan de Juárez, Tatatila, Tecolutla, Tehuipango, Temapache, Tempoal, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tepetzintla, Tequila, Texcatepec, Texhuacán, Texistepec, Tezonapa, Tierra Blanca, Tihuatlán, Tlacojalpan, Tlacolulan, Tlacotalpan, Tlacotepec de Mejía, Tlachichilco, Tlalixcoyan, Tlaltetela, Tlalnelhuayocan, Tlapacoyan, Tlaquilpa, Tlilapan, Tomatlán, Tonayán, Totutla, Tres Valles, Tuxpan, Tuxtilla, Ursulo Galván, Uxpanapa, Vega de Alatorre, Veracruz, Las Vigas de Ramírez, Villa Aldama, Xalapa, Xico, Xoxocotla, Yanga, Yecuatla, Zacualpan, Zaragoza, Zentla, Zongolica, Zontecomatlán y Zozocolco de Hidalgo.
+El territorio del Estado se divide en doscientos doce municipios denominados como sigue: Acajete, Acatlán, Acayucan, Actopan, Acula, Acultzingo, Agua Dulce, Álamo Temapache, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Alvarado, Amatitlán, Amatlán de los Reyes, Ángel R. Cabada, Apazapan, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Atzalan, Ayahualulco, Banderilla, Benito Juárez, Boca del Río, Calcahualco, Camarón de Tejeda, Camerino Z. Mendoza, Carlos A. Carrillo, Carrillo Puerto, Castillo de Teayo, Catemaco, Cazones de Herrera, Cerro Azul, Citlaltépetl, Coacoatzintla, Coahuitlán, Coatepec, Coatzacoalcos, Coatzintla, Coetzala, Colipa, Comapa, Córdoba, Cosamaloapan, Cosautlán de Carvajal, Coscomatepec, Cosoleacaque, Cotaxtla, Coxquihui, Coyutla, Cuichapa, Cuitláhuac, Chacaltianguis, Chalma, Chiconamel, Chiconquiaco, Chicontepec, Chinameca, Chinampa de Gorostiza, Chocamán, Chontla, Chumatlán, El Higo, Emiliano Zapata, Espinal, Filomeno Mata, Fortín, Gutiérrez Zamora, Hidalgotitlán, Huatusco, Huayacocotla, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Ignacio de la Llave, Ilamatlán, Isla, Ixcatepec, Ixhuacán de los Reyes, Ixhuatlán de Madero, Ixhuatlán del Café, Ixhuatlán del Sureste, Ixhuatlancillo, Ixmatlahuacan, Ixtaczoquitlán, Jalacingo, Jalcomulco, Jáltipan, Jamapa, Jesús Carranza, Jilotepec, José Azueta, Juan Rodríguez Clara, Juchique de Ferrer, La Antigua, La Perla, Landero y Coss, Las Choapas, Las Minas, Las Vigas de Ramírez, Lerdo de Tejada, Los Reyes, Magdalena, Maltrata, Manlio Fabio Altamirano, Mariano Escobedo, Martínez de la Torre, Mecatlán, Mecayapan, Medellín, Miahuatlán, Minatitlán, Misantla, Mixtla de Altamirano, Moloacán, Nanchital de Lázaro Cárdenas del Río, Naolinco, Naranjal, Naranjos-Amatlán, Nautla, Nogales, Oluta, Omealca, Orizaba, Otatitlán, Oteapan, Ozuluama, Pajapan, Pánuco, Papantla, Paso de Ovejas, Paso del Macho, Perote, Platón Sánchez, Playa Vicente, Poza Rica de Hidalgo, Pueblo Viejo, Puente Nacional, Rafael Delgado, Rafael Lucio, Río Blanco, Saltabarranca, San Andrés Tenejapan, San Andrés Tuxtla, San Juan Evangelista, San Rafael, Santiago Sochiapan, Santiago Tuxtla, Sayula de Alemán, Sochiapa, Soconusco, Soledad Atzompa, Soledad de Doblado, Soteapan, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Tatahuicapan de Juárez, Tatatila, Tecolutla, Tehuipango, Tempoal, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tepetzintla, Tequila, Texcatepec, Texhuacan, Texistepec, Tezonapa, Tierra Blanca, Tihuatlán, Tlachichilco, Tlacojalpan, Tlacolulan, Tlacotalpan, Tlacotepec de Mejía, Tlalixcoyan, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tlaquilpa, Tlilapan, Tomatlán, Tonayán, Totutla, Tres Valles, Tuxpan, Tuxtilla, Úrsulo Galván, Uxpanapa, Vega de Alatorre, Veracruz, Villa Aldama, Xalapa, Xico, Xoxocotla, Yanga, Yecuatla, Zacualpan, Zaragoza, Zentla, Zongolica, Zontecomatlán y Zozocolco de Hidalgo.
 
 ###### Artículo 10.
 
@@ -241,7 +241,11 @@ III. No ser servidor público en ejercicio de autoridad, en los últimos sesenta
 
 IV. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
-Para ser Agente o Subagente Municipal se requiere ser ciudadano veracruzano en pleno ejercicio de sus derechos, originario del municipio y con residencia efectiva en su territorio no menor de un año anterior al día de la elección, así como cumplir con los requisitos previstos en las fracciones II a IV de este artículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+Para ser Agente o Subagente Municipal se requiere ser ciudadano veracruzano en pleno ejercicio de sus derechos, originario de la congregación o ranchería que corresponda o con residencia efectiva en su territorio no menor de tres años anteriores al día de la elección, así como cumplir con lo previsto en las fracciones II a IV de este artículo.
 
 ###### Artículo 21.
 
@@ -275,15 +279,19 @@ Los Ediles sólo podrán separarse de su cargo por renuncia o por las causas gra
 
 Los Ediles, así como los servidores públicos de la administración pública municipal, no podrán tener otro cargo o empleo de carácter remunerado del Estado, la Federación o de los municipios, salvo previa autorización del Congreso o de la Diputación Permanente. Quedan exceptuados de esta disposición, los empleos del ramo de la enseñanza y las consejerías o representaciones ante órganos colegiados.
 
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 24.
 
-En las faltas temporales o definitivas de los Ediles propietarios serán llamados los respectivos suplentes. Si la falta temporal es igual o menor a sesenta días, el Ayuntamiento podrá tomar el acuerdo correspondiente; pero si excediere de ese plazo, o de temporal se convirtiere en definitiva, el Congreso del Estado o la Diputación Permanente, autorizarán la separación y harán el llamado. Si faltase también el suplente, el Congreso o la Diputación Permanente designarán, de entre los demás Ediles, a quien deba ejercer el cargo para concluir el período constitucional.
+En las faltas temporales de los ediles propietarios, que no excedan de sesenta días, el Cabildo podrá acordar que, según sea el caso, al Presidente Municipal lo supla el Síndico y al Síndico, el Regidor que designe el Cabildo. Las de los Regidores no se suplirán, si existe el número suficiente de ediles, conforme a esta Ley, para que los actos del Ayuntamiento sean válidos, de lo contrario, se informará al Congreso del Estado para que éste o la Diputación Permanente, en su caso, llame al suplente respectivo.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 25.
 
-Las faltas temporales del Presidente Municipal que no excedan de sesenta días serán suplidas por el Síndico; las del Síndico por el Regidor que designe el Ayuntamiento; y las de los Regidores no se suplirán mientras haya el numero suficiente de Ediles que marca la Ley para que los actos de los Ayuntamientos tengan validez, pero cuando no se complete ese número se llamará al suplente respectivo.
+Cuando se exceda el plazo señalado en el artículo anterior o se trate de una falta definitiva, corresponderá al Congreso del Estado o a la Diputación Permanente autorizar la separación y llamar al suplente.
 
-Tratándose de la falta definitiva del Presidente Municipal, si faltase también el suplente, el Congreso o la Diputación Permanente designarán, de entre los demás Ediles, a quien deba ejercer el cargo para concluir el período constitucional.
+En los casos previstos por este artículo y el anterior, si debiere llamarse al suplente y faltare también éste, el Congreso del Estado o la Diputación Permanente designarán, de entre los demás ediles, a quien deba ejercer el cargo temporalmente o para concluir el período constitucional.
 
 ###### Artículo 26.
 
@@ -383,9 +391,13 @@ X. Distribuir los recursos que le asigne el Congreso del Estado considerando de 
 
 XI. Crear los órganos centralizados y desconcentrados que requiera la administración pública municipal para la mejor prestación de los servicios de su competencia, de conformidad con las disposiciones presupuestales y reglamentarias municipales aplicables;
 
-XII. Resolver sobre el nombramiento y, en su caso, remoción o licencia del Tesorero y del Secretario del Ayuntamiento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIII. Resolver sobre la licencia, permiso o comisión de los demás servidores públicos municipales, de conformidad con las disposiciones legales y reglamentarias municipales aplicables;
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
+
+XII. Resolver sobre el nombramiento y, en su caso, remoción o licencia del Tesorero, del Secretario del Ayuntamiento y del titular del órgano de control interno;
+
+XIII. (DEROGADA, G.O. 15 DE FEBRERO DE 2010)
 
 XIV. Expedir los reglamentos de las dependencias y órganos de la administración pública municipal de naturaleza centralizada, manuales de organización y procedimientos y los de atención y servicios al público, así como ordenar su publicación en los términos de esta ley;
 
@@ -401,7 +413,11 @@ XIX. Realizar estudios, programas de investigación, capacitación y orientació
 
 XX. Sujetarse, en las relaciones con sus trabajadores, a las leyes que en esta materia expida el Congreso del Estado y a los convenios que se celebren con base en dichas leyes, de conformidad con los presupuestos de egresos que apruebe el Ayuntamiento;
 
-XXI. Establecer sus propios órganos de control interno autónomos, los cuales desarrollarán funciones de control y evaluación, de conformidad con lo dispuesto por las disposiciones legales aplicables;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
+
+XXI. Establecer sus propios órganos de control interno autónomos, los cuales desarrollarán funciones de control y evaluación, de conformidad a las disposiciones legales aplicables, cuyo titular deberá ser profesionista en derecho o en las áreas económicas o contable administrativas.
 
 XXII. Celebrar, previo acuerdo de sus respectivos Cabildos, convenios de coordinación y asociación con otros municipios para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios del Estado con municipios de otras entidades federativas, deberán contar con la aprobación del Congreso. Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos servicios públicos o funciones, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio;
 
@@ -475,7 +491,11 @@ XXXIX. Fraccionar las localidades de su territorio urbano en manzanas y designar
 
 XL. Convocar, en los términos que establezcan la Constitución del Estado y la ley de la materia, a referendo o plebiscito;
 
-XLI. Tomar la protesta de ley al Secretario del Ayuntamiento y al Tesorero Municipal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
+
+XLI. Tomar la protesta de ley al Secretario del Ayuntamiento, al Tesorero Municipal y al Titular del Órgano de Control Interno;
 
 XLII. Procurar, promover y vigilar el cuidado de los bienes y otorgamiento de los servicios públicos necesarios para la seguridad, bienestar e interés general de los habitantes del Municipio;
 
@@ -509,7 +529,9 @@ I. Convocar a las sesiones del Ayuntamiento;
 
 II. Citar a sesión extraordinaria cuando la urgencia del caso lo reclame o alguno de los Ediles lo solicite;
 
-III. Presidir las sesiones del Ayuntamiento y dirigir los debates;
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
+
+III. Presidir y dirigir los debates en las sesiones del Ayuntamiento, en las que participará con voz y voto;
 
 IV. Ejecutar los acuerdos del Ayuntamiento;
 
@@ -531,15 +553,25 @@ XII. Proponer al Ayuntamiento las medidas necesarias para mejorar la prestación
 
 XIII. Autorizar en unión de los Ediles de la Comisión de Hacienda, con la firma del Secretario del Ayuntamiento, las órdenes de pago a la Tesorería Municipal que procedan, de conformidad con las disposiciones legales y presupuestales aplicables;
 
-XIV. Proponer al Ayuntamiento el nombramiento de su Secretario y de su Tesorero;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
+
+XIV. Proponer al Cabildo los nombramientos del Secretario del Ayuntamiento, del Tesorero Municipal y del Titular del Órgano de Control Interno;
 
 XV. Proponer al Ayuntamiento la integración de las Comisiones Municipales;
 
 XVI. Vigilar las labores de la Secretaría del Ayuntamiento;
 
-XVII. Nombrar y remover a los demás servidores públicos del Ayuntamiento;
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
 
-XVIII. Tomar, a nombre del Ayuntamiento, en sesión ordinaria, la protesta de ley al Secretario y al Tesorero Municipal;
+XVII. Resolver sobre el nombramiento, remoción, licencia, permiso o comisión de los demás servidores públicos del Ayuntamiento, de lo cual deberá informar al Cabildo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
+
+XVIII. Tomar, a nombre del Ayuntamiento, en sesión ordinaria, la protesta de ley al Secretario, al Tesorero Municipal y al Titular del Órgano de Control Interno;
 
 XIX. Ordenar al personal del Ayuntamiento la ejecución de los trabajos a su cargo;
 
@@ -679,11 +711,15 @@ XVI. Gobernación, Reglamentos y Circulares;
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
-XVII. Equidad de Género; y
+XVII. Equidad de Género; y (sic)
 
 > <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
-XVIII. Bibliotecas, Fomento a la Lectura y Alfabetización.
+XVIII. Bibliotecas, Fomento a la Lectura y Alfabetización;
+
+> <small>(ADICIONADA, G.O. 15 DE FEBRERO DE 2010)</small>
+
+XIX. Turismo.
 
 ###### Artículo 41.
 
@@ -695,9 +731,11 @@ Los asuntos que no estén señalados expresamente para una Comisión, estarán a
 
 Las Comisiones se formarán con el Edil o Ediles que el Cabildo estime conveniente, teniendo en cuenta el número de sus integrantes y la importancia de los ramos encomendados a las mismas.
 
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 43.
 
-Los Ediles no tendrán facultades ejecutivas; pero podrán someter a la consideración del Ayuntamiento los problemas relativos a los ramos que les correspondan, para que éste acuerde las resoluciones pertinentes.
+Los Regidores no tendrán facultades ejecutivas, pero podrán someter a la consideración del Cabildo los problemas relativos a los ramos que les correspondan, para que aquél acuerde las resoluciones pertinentes.
 
 ###### Artículo 44.
 
@@ -1059,6 +1097,22 @@ IV. Procurar la implementación de programas de fomento a la lectura entre los h
 
 V. Promover ante el Ayuntamiento programas municipales de alfabetización, en coordinación con las autoridades federales y estatales competentes.
 
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+Artículo 60 quáter. Son atribuciones de la Comisión de Turismo:
+
+I. Proponer al Ayuntamiento los principios rectores para impulsar al sector turístico del municipio;
+
+II. Promover la planeación del desarrollo del ramo del turismo del municipio;
+
+III. Coadyuvar con la Comisión de Gobernación, Reglamentos y Circulares, con el fin de diseñar y actualizar el reglamento del ramo;
+
+IV. Promover y organizar la participación y capacitación de los ciudadanos y de los vecinos del municipio, con el fin de incentivarles una cultura de atención y cordialidad al turista;
+
+V. Coordinarse con las instancias estatales, nacionales e internacionales correspondientes, a efecto de diseñar y cumplir programas tendientes a la promoción turística del municipio; y
+
+VI. Las demás que expresamente le señalen otras disposiciones normativas.
+
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA Y ORGANISMOS AUXILIARES
 
 ###### Artículo 61.
@@ -1263,9 +1317,13 @@ Con base en lo dispuesto en esta ley, el Ayuntamiento podrá aprobar disposicion
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DEL AYUNTAMIENTO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 69.
 
-Cada Ayuntamiento contará con una Secretaría cuyo titular será nombrado conforme a las disposiciones de esta ley, quien tendrá a su cargo y bajo su inmediata dirección, cuidado y responsabilidad la oficina y archivo del Ayuntamiento, con acuerdo del Presidente Municipal.
+Cada Ayuntamiento contará con una Secretaría cuyo titular será nombrado conforme a las disposiciones de esta ley. El Secretario del Ayuntamiento deberá contar con título profesional, y tendrá a su cargo y bajo su inmediata dirección, cuidado y responsabilidad la oficina y archivo del Ayuntamiento, con acuerdo del Presidente Municipal.
 
 La Secretaría del Ayuntamiento se ubicará en el Palacio Municipal, donde se guardará el archivo del Municipio, con la reserva y confidencialidad que establezcan las disposiciones legales y reglamentarias aplicables.
 
@@ -1301,9 +1359,13 @@ El Secretario, en sus faltas temporales, será sustituido por el servidor públi
 
 #### SECCIÓN SEGUNDA. DE LA TESORERÍA MUNICIPAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 72.
 
-Cada Ayuntamiento contará con una Tesorería cuyo titular será nombrado conforme a lo dispuesto por esta ley, quien tendrá las facultades y obligaciones siguientes:
+Cada Ayuntamiento contará con una Tesorería, cuyo titular será nombrado conforme a lo dispuesto por esta ley. El Tesorero Municipal deberá contar con título profesional, y tendrá las facultades y obligaciones siguientes:
 
 I. Recaudar, administrar, concentrar, custodiar, vigilar y situar los fondos municipales, así como los conceptos que deba percibir el Ayuntamiento, de conformidad con las disposiciones legales aplicables en materia de ingresos;
 
@@ -1329,9 +1391,9 @@ XI. Pagar las primas relativas a las fianzas suficientes para garantizar el pago
 
 XII. Presentar, el primer día de cada mes, el corte de caja del movimiento de caudales del mes anterior con la intervención de la Comisión de Hacienda y Patrimonio Municipal. De este documento remitirán una copia al Congreso del Estado, así como a los Ediles que lo soliciten y, en su caso, contestar a éstos, por escrito y en el término de diez días hábiles, las dudas que tuvieren;
 
-> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 15 DE FEBRERO DE 2010)</small>
 
-XIII. Presentar al Ayuntamiento, dentro de los primeros quince días de cada mes, los estados financieros del mes inmediato anterior para su glosa preventiva, debiendo aquél remitirla al Congreso del Estado dentro de los diez días siguientes, así como la Cuenta Pública anual conforme a las disposiciones legales vigentes;
+XIII. Preparar, para su presentación al Cabildo dentro de los primeros quince días de cada mes, los estados financieros del mes inmediato anterior para su glosa preventiva y remisión al Congreso del Estado, dentro de los diez días siguientes, así como la Cuenta Pública anual conforme a las disposiciones legales vigentes, y proporcionar la información y documentos necesarios para aclarar las dudas que sobre el particular planteen la Comisión de Hacienda y Patrimonio Municipal o el Cabildo;
 
 XIV. Remitir, dentro de los tres primeros meses de cada año, al Congreso del Estado los padrones de todos los ingresos sujetos a pagos periódicos;
 
@@ -1386,6 +1448,44 @@ XXIV. Las demás que expresamente le otorguen esta ley y demás leyes del Estado
 El Congreso del Estado o la Diputación Permanente, en su caso, podrán ordenar acciones de fiscalización e investigación con el objeto de examinar la contabilidad, verificar las entradas y salidas de los fondos, vigilar, evaluar y auditar los servicios públicos que presten los Ayuntamientos.
 
 El Congreso del Estado informará a los Ayuntamientos el resultado de las acciones a que se refiere el párrafo anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN DE OBRAS PÚBLICAS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+Artículo 73 bis. Cada Ayuntamiento contará con una Dirección de Obras Públicas, cuyo titular deberá ser Arquitecto o Ingeniero Civil y contar con título profesional, preferentemente con experiencia previa de tres años en la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+Artículo 73 ter. Son atribuciones del Director de Obras Públicas:
+
+I. Elaborar y proponer al Ayuntamiento, conforme al Plan Municipal de Desarrollo, los proyectos y presupuestos base de las obras a ejecutarse;
+
+II. La elaboración, dirección y ejecución de los programas destinados a la construcción de obras;
+
+III. Observar y vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones correspondientes a la obra pública municipal;
+
+IV. Supervisar la correcta ejecución de las obras por contrato y por administración directa;
+
+V. Rendir en tiempo y forma al Ayuntamiento, los informes de avances físicos de obras o proyectos, mediante bitácoras de obra;
+
+VI. Al término de cada obra o acción, elaborar los finiquitos y expedientes unitarios, conforme a la documentación comprobatoria, según corresponda el origen del recurso;
+
+VII. Presentar, al término de cada ejercicio fiscal, el cierre de ejercicio físico financiero de las obras ejecutadas y en proceso de ejecución o transferidas al ejercicio siguiente;
+
+VIII. Asistir a las visitas de inspección y auditorías que se practiquen a las obras o acciones ejecutadas o en proceso;
+
+IX. Autorizar con su firma las estimaciones, avances de cuenta mensual y toda documentación que le corresponda; y
+
+X. Las demás que le otorguen esta ley y las leyes del Estado.
 
 #### SECCIÓN PRIMERA. DE LOS ORGANISMOS DESCENTRALIZADOS
 
@@ -1951,9 +2051,9 @@ XXX. Abstenerse de cualquier acto u omisión que implique incumplimiento de cual
 
 XXXI. Responsabilizarse por el incumplimiento de las obligaciones que les impongan esta ley y demás leyes del Estado, conforme a los supuestos y consecuencias previstos en la Constitución Política del Estado, en esta ley y en la ley en materia de responsabilidades de los servidores públicos.
 
-> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
-Queda prohibido designar, para desempeñar puestos de confianza, a personas a quienes les ligue parentesco consanguíneo o por afinidad, en línea recta o colateral hasta el cuarto grado, con servidores públicos municipales, con excepción de quienes, durante los últimos dos años, hubieren laborado ininterrumpidamente como empleados de base en la Administración Pública Municipal de que se trate. Los cargos que, dentro de los Sistemas Municipales para el Desarrollo Integral de la Familia desempeñen los cónyuges o parientes consanguíneos o por afinidad hasta el cuarto grado de los servidores públicos tendrán carácter honorífico, sin derecho a retribución alguna.
+Se prohíbe designar, para desempeñar cargos de confianza en el Ayuntamiento, a personas a quienes les ligue relación conyugal, de concubinato o parentesco consanguíneo o por afinidad, en línea recta o colateral hasta el cuarto grado, con servidores públicos municipales, con excepción de quienes, durante los últimos dos años, hubieren laborado ininterrumpidamente como empleados de base en la Administración Pública Municipal de que se trate. Tendrán carácter honorífico, sin derecho a retribución alguna, los cargos que, dentro de los Sistemas Municipales para el Desarrollo Integral de la Familia, desempeñen los cónyuges o parientes consanguíneos o por afinidad hasta el cuarto grado de los servidores públicos.
 
 ###### Artículo 116.
 
@@ -2499,6 +2599,12 @@ La elección de Agentes y Subagentes municipales, es un proceso que se realizar�
 
 ## TÍTULO NOVENO. DE LA ENTREGA Y RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
+### CAPÍTULO I
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 186.
 
 La entrega y recepción de los documentos que contengan la situación que guarda la administración pública municipal se realizará el día en que se instale el nuevo Ayuntamiento, en términos del presente título, cuyas disposiciones se desarrollarán mediante los lineamientos que al efecto expida el Congreso del Estado.
@@ -2548,6 +2654,178 @@ El dictamen se someterá dentro de los quince días naturales siguientes al cono
 Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, en vía de opinión.
 
 El Ayuntamiento dentro de los quince días hábiles siguientes, remitirá copia del expediente de entrega y recepción al Congreso del Estado para el efecto de revisión de las cuentas públicas municipales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
+
+## TÍTULO DÉCIMO. DE LA PLANEACIÓN MUNICIPAL Y DE LA CONTRALORÍA SOCIAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO II
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 191.
+
+El Consejo de Planeación para el Desarrollo Municipal es un órgano de participación ciudadana y consulta, auxiliar del Ayuntamiento en las funciones relativas a la planeación, integrado por ciudadanos distinguidos y organizaciones sociales, representativas de los sectores público, social y privado del municipio, designados por el Cabildo, a propuesta del Presidente Municipal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 192.
+
+El Consejo de Planeación para el Desarrollo Municipal tendrá las atribuciones siguientes:
+
+I. Proponer al Ayuntamiento los mecanismos, instrumentos o acciones para la formulación, aplicación, control y evaluación del Plan Municipal de Desarrollo;
+
+II. Consolidar un proceso permanente y participativo de planeación, orientado a resolver los problemas municipales;
+
+III. Formular recomendaciones para mejorar la administración municipal y la prestación de los servicios públicos;
+
+IV. Realizar estudios y recabar la información necesaria para cumplir lo dispuesto en las fracciones anteriores;
+
+V. Comparecer ante el Cabildo cuando éste lo solicite;
+
+VI. Proponer a las autoridades municipales, previo estudio, la realización de obras, la creación de nuevos servicios públicos o el mejoramiento de los ya existentes;
+
+VII. Emitir opinión respecto de las consultas que en las materias relacionadas con la planeación municipal le formulen el Ayuntamiento, ciudadanos, instituciones u organizaciones del municipio; y
+
+VIII. Formar comisiones de estudio sobre asuntos determinados, relacionados con la planeación municipal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 193.
+
+Los Ayuntamientos deberán elaborar, en forma democrática y participativa, sus Planes de Desarrollo Municipal, así como los programas de trabajo necesarios para su ejecución, que serán rectores de las actividades que realicen sus dependencias y entidades.
+
+Los Planes Municipales de Desarrollo se publicarán en la Gaceta Oficial del estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 194.
+
+La formulación, aprobación, ejecución, control y evaluación del Plan y Programas Municipales estarán a cargo de los órganos, dependencias o servidores públicos que determinen los Ayuntamientos, conforme a las normas legales de la materia y las que cada Cabildo determine.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 195.
+
+El Plan de Desarrollo Municipal tendrá los objetivos siguientes:
+
+I. Atender las demandas prioritarias de la población;
+
+II. Propiciar el desarrollo del municipio con base en una perspectiva regional;
+
+III. Asegurar la participación de la ciudadanía en las acciones del gobierno municipal;
+
+IV. Vincular el Plan de Desarrollo Municipal con los Planes de Desarrollo Federal y Estatal; y
+
+V. Aplicar de manera racional los recursos financieros para el cumplimiento del Plan y sus programas de desarrollo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 196.
+
+El Plan de Desarrollo Municipal contendrá, por lo menos, un diagnóstico sobre las condiciones económicas y sociales del municipio, las metas a alcanzar, las estrategias a seguir, los plazos de ejecución, las dependencias, entidades y organismos responsables de su cumplimiento y las bases de coordinación y concertación que se requieran para su ejecución y cumplimiento, de conformidad con lo establecido en la ley de la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 197.
+
+El Plan de Desarrollo Municipal se complementará con programas anuales sectoriales de la administración municipal y, en su caso, con los programas especiales de los organismos desconcentrados y descentralizados de carácter municipal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 198.
+
+Los Ayuntamientos, en términos de esta Ley y demás disposiciones aplicables, podrán convenir con los de otros municipios del Estado o de otras Entidades Federativas, la elaboración conjunta de planes de desarrollo para las regiones en las que se ubiquen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 199.
+
+En la elaboración del Plan de Desarrollo Municipal, cada Ayuntamiento proveerá lo necesario para promover la participación y consulta popular.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 200.
+
+El Plan de Desarrollo Municipal y los programas que de éste se deriven, serán obligatorios para las dependencias de la administración pública municipal, y en general para las entidades públicas de carácter municipal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 201.
+
+Los planes y programas podrán ser modificados mediante el mismo procedimiento requerido para su elaboración, aprobación y publicación, cuando así lo demande el interés ciudadano o las necesidades de carácter técnico o económico.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 202.
+
+Los Ayuntamientos promoverán la constitución de Comités de Contraloría Social, que serán responsables de supervisar la obra pública municipal. Para cada obra se constituirá un Comité de Contraloría Social, salvo que las características técnicas o las dimensiones de la obra exijan la integración de más de uno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 203.
+
+Los Comités de Contraloría Social estarán integrados por tres vecinos de la localidad en la que se construya la obra, quienes serán elegidos en asamblea general por los ciudadanos beneficiados por aquélla.
+
+El cargo de integrante del Comité será honorífico. No podrán ser integrantes de los Comités los dirigentes de organizaciones políticas o servidores públicos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+
+###### Artículo 204.
+
+Corresponderá a los Comités de Contraloría Social:
+
+I. Vigilar que la obra pública se realice de acuerdo con el expediente técnico respectivo y dentro de la normatividad aplicable;
+
+II. Participar como observadores en los procesos o actos administrativos relacionados con la adjudicación o concesión de la ejecución de la obra;
+
+III. Hacer visitas de inspección y llevar registro de sus resultados;
+
+IV. Verificar la calidad con que se realiza la obra pública;
+
+V. Hacer del conocimiento de las autoridades correspondientes las irregularidades que observen dentro del desempeño de sus funciones o las quejas que reciban de la ciudadanía, con motivo de las obras objeto de supervisión;
+
+VI. Integrar un archivo con la documentación que se derive de la supervisión de las obras;
+
+VII. Solicitar a las dependencias y entidades de la administración pública municipal las facilidades y la información necesaria para el desempeño de sus funciones;
+
+VIII. Intervenir en los actos de entrega-recepción de las obras y acciones, informando a los vecinos sobre el resultado del desempeño de sus funciones; y
+
+IX. Promover el adecuado mantenimiento de la obra pública ante las autoridades municipales.
 
 ## TRANSITORIOS
 
@@ -2740,5 +3018,37 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente decreto
 G.O. 29 DE DICIEMBRE DE 2009.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE FEBRERO DE 2010.
+
+DECRETO No. 810, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS PRECEPTOS DE LA LEY ORGANICA DEL MUNICIPIO LIBRE.
+
+Artículo primero. El presente Decreto entrará en vigor el día primero de enero de 2011.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 15 DE FEBRERO DE 2010.
+
+DECRETO No. 811, POR EL QUE SE REFORMA LA FRACCION III DEL ARTICULO 36 DE LA LEY ORGANICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE FEBRERO DE 2010.
+
+DECRETO No. 812, POR EL QUE SE ADICIONA LA FRACCION XIX AL ARTICULO 40, Y EL ARTICULO 60 QUATER A LA LEY ORGANICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE FEBRERO DE 2010.
+
+DECRETO No. 813, POR EL QUE SE REFORMAN Y DEROGAN LOS ARTICULOS 9, 24, 25, 35, 36, 43, 72 Y 115 DE LA LEY ORGANICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
