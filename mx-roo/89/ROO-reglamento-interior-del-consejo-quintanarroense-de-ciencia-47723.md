@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-del-consejo-quintanarroense-de-ciencia-4772
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-13"
-last_updated: "2005-12-13"
+last_updated: "2010-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DEL CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGIA, PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 13 de diciembre de 2005.
 
@@ -590,3 +592,23 @@ SEGUNDO. Las leyes, decretos y demás reglamentos expedidos por el Ejecutivo, en
 TERCERO. Los Titulares de todas las dependencias del Ejecutivo, en sus respectivas competencias, proveerán lo necesario en forma coordinada con la SEYC, para que se realicen las acciones con las que se dé fiel cumplimiento al Decreto de Creación del COQCyT, en apego al presente Reglamento.
 
 Aprobado en Sesión Ordinaria del H. Consejo Directivo del Consejo Quintanarroense de Ciencia y Tecnología de fecha 23 de marzo 2004.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE L OS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE FEBRERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Consejo Quintanarroense de Ciencia y Tecnología publicado en el Periódico Oficial del Estado de Quintana Roo, de fecha trece de diciembre del año dos mil cinco y se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en otras disposiciones reglamentarias o normativas se dé una denominación distinta a alguna de las unidades administrativas cuyas funciones estén establecidas por este Reglamento Interior, dichas funciones se entenderán conferidas a la unidad administrativa que determina este Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento Interior serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente.
