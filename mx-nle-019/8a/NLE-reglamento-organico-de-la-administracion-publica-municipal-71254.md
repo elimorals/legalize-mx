@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-municipal-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-16"
-last_updated: "2009-11-25"
+last_updated: "2010-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 25 DE NOVIEMBRE DE 2009 NO APLICA AL ARTICULADO DE ESTE ORDENAMIENTO, PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2009.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2010.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de noviembre de 2009.
 
@@ -621,7 +619,9 @@ IV.- Recibir, tramitar y coordinar en forma eficiente la expedición de licencia
 
 V.- Vigilar en el ámbito de su competencia y jurisdicción la observancia de los Planes de Desarrollo Urbano y las normas básicas correspondientes, así como la consecuente utilización del suelo, reordenando y regulando los asentamientos humanos irregulares, en coordinación con la Secretaría de Republicano Ayuntamiento del Municipio y otras Entidades Públicas;
 
-VI.- Aplicar en asuntos de su competencia sanciones, medidas y procedimientos previstos en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado y Reglamentos Municipales, tales como multas, en caso de incumplimiento de dichas normas;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+VI.- Aplicar, en asuntos, de su competencia, sanciones, medidas y procedimientos previstos en la Ley de Desarrollo Urbano del Estado de Nuevo León y Reglamentos Municipales, en caso de incumplimiento de dichas normas;
 
 VII.- Asignar los números oficiales a predios y edificaciones;
 
@@ -643,11 +643,15 @@ XV.- Aplicación del Sistema de Apertura Rápida de Empresas (SARE);
 
 XVI.- Revisar y señalar las obras necesarias para mitigar las zonas de riesgo geología, hidrológico y químico tecnológicos en el Municipio;
 
-XVII.- Recibir las solicitudes de cambio de uso de suelo, en los casos en que los planes los determinen como prohibidos o no compatibles, en los términos de la Ley de Desarrollo Urbano en el Estado, así como las solicitudes de modificación de densidades que presenten los particulares, para integrar debidamente el expediente administrativo, en el que se contenga el "dictamen técnico de la Secretaría" y la propuesta de dictamen y punto de acuerdo de la Comisión de Control Urbano del Republicano Ayuntamiento, para elevarlos a la consideración del Pleno del Republicano Ayuntamiento para su aprobación o rechazo;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+XVII.- Recibir las solicitudes de trámite presentadas, substanciando los procedimientos señalados al efecto en la Ley de Desarrollo Urbano del Estado de Nuevo León y Reglamentos Municipales;
 
 XVIII.- Proponer ante la Autoridad competente la implementación de las medidas adecuadas que permitan asegurar el tránsito vehicular con celeridad y seguridad; y
 
-XIX.- Atender problemas operativos desde el punto de vista de la ingeniería vial, incluyendo estudios, indicaciones y señalamientos requeridos.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+XIX.- Atender, en el ámbito de su competencia, problemas operativos desde el punto de vista de la ingeniería vial, incluyendo estudios, indicaciones y señalamientos requeridos.
 
 B) De Ecología
 
@@ -699,7 +703,9 @@ VIII.- Asesorar jurídicamente de los Servidores Públicos de la Secretaría;
 
 IX.- Tramitar los recursos administrativos promovidos contra las resoluciones de licencias y elaborar la resolución definitiva;
 
-X.- Recibir y dar resolución a las denuncias y reportes presentados sobre construcciones, cambios de usos del suelo, destinos del suelo, actos o acciones urbanas en contravención a las disposiciones de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León y a los Planes de Desarrollo Urbano aplicables u otras disposiciones de carácter general en materia de desarrollo urbano, ordenamiento territorial o asentamientos humanos; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+X.- Recibir, dar trámite y resolución a las denuncias o reportes presentados sobre construcciones, cambios de usos del suelo, destinos del suelo, actos o acciones urbanas que presuntamente contravengan las disposiciones de la Ley de Desarrollo Urbano del Estado de Nuevo León o a los Planes de Desarrollo Urbano aplicables u otras disposiciones de carácter general en materia de desarrollo urbano, ordenamiento territorial o asentamientos humanos; y
 
 XI.- Informar a los ciudadanos que así lo soliciten, el estado evolutivo de los procedimientos jurídicos.
 
@@ -789,7 +795,7 @@ VI.- Expedir la factibilidad que sea requerida en materia de Protección Civil p
 
 VII.- Las demás que le confieran los ordenamientos legales aplicables, las que confiera el Presidente Municipal, o las que autorice el Consejo Municipal de Protección Civil.
 
-E) De Análisis y Desarrollo institucional:
+E) De Análisis y Desarrollo Institucional:
 
 l.- Implementar programas para elevar el nivel funcional de la Secretaria;
 
@@ -869,9 +875,11 @@ II.- Instalación del equipamiento vial; (sic)
 
 Para el despacho de los asuntos de competencia de la Secretaría de Obras Públicas, su titular se auxiliará directamente con las siguientes Direcciones: Dirección de Planeación de Obras y Atención Ciudadana, Dirección de Proyectos, Dirección de Contratación, Dirección de Construcción y demás unidades administrativas que resulten necesarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 33.
 
-La Secretaría de Servicios Públicos es la Dependencia encargada de planear, diseñar, programar, presupuestar, contratar, ejecutar, modificar y. controlar la obra pública, ya sea promovida por la Administración Municipal, por los vecinos, por cooperación o con el apoyo del Gobierno del Estado de Nuevo León, o por la Federación, así como los programas de obra social que dicte la Administración Municipal. Además es la encargada de prestar a la comunidad los servicios públicos, de conformidad con las Leyes y Reglamentos de la materia, mediante el uso de procedimientos establecidos, con la más alta tecnología y personal capacitado. Tendrá como atribuciones y responsabilidades las que le otorguen las Leyes, Reglamentos y demás disposiciones legales aplicables a la materia, así como las que a continuación se establecen:
+La Secretaría de Servicios Públicos es la Dependencia encargada de prestar a la comunidad los servicios que, de conformidad con las Leyes y Reglamentos de la materia le competen, mediante el uso procedimientos (sic) establecidos con la más alta tecnología y personal capacitado. Tendrá como atribuciones y responsabilidades las que le otorguen las Leyes, Reglamentos y demás disposiciones legales aplicables, así como las que a continuación se establecen:
 
 A) De imagen Urbana
 
@@ -973,11 +981,27 @@ VII.- Supervisar el ejercicio de los recursos federales que vía aportaciones se
 
 VIII.- Supervisar que se cumplan las disposiciones de los contratos y convenios celebrados entre el Municipio y otras entidades de derecho público y privado de donde se desprendan derechos y obligaciones para el Municipio;
 
-IX.- Organizar los trabajos del proceso de entrega-recepción del estado que guarda la Administración Pública Municipal de acuerdo a la normatividad vigente, así como, diseñar, establecer y autorizar los Anexos para la presentación de la información; y,
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
 
-X.- Coordinar las acciones de entrega-recepción de los titulares de las Secretarías, Dimensiones y Coordinaciones mediante Acta administrativa y anexos en los que se detallen los recursos humanos, materiales y financieros asignados para garantizar la continuidad y operación de las mismas.
+IX.- Organizar los trabajos del proceso de entrega-recepción para establecer el estado en que se recibirá la Administración Pública Municipal de acuerdo a la normatividad vigente, así como, diseñar, establecer y autorizar los Anexos para la presentación de la información;
 
-C) De Transparencia, Normatividad y Prevención.
+X.- Coordinar las acciones de entrega-recepción de los titulares de las Secretarías, Dimensiones y Coordinaciones mediante Acta administrativa y anexos en los que se detallen los recursos humanos, materiales y financieros asignados para garantizar la continuidad y operación de las mismas;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+XI.- Dar atención a las auditorías externas; ya sean de la Auditoría Superior del Estado o de la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+XII.- Elaborar y verificar para su evaluación, la respuesta a los resultados de las auditorias practicadas por la Auditoría Superior del Estado o de la Auditoría Superior de la Federación antes de ser emitidas; y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+XIII.- Constatar el cumplimiento que señala la Ley Orgánica de la Administración Pública Municipal y la Ley del Órgano de Fiscalización Superior del Estado, respecto a la presentación de la cuenta pública y los informes de avance de gestión financiera respectiva ante el Congreso del Estado y Auditoría Superior del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2010)</small>
+
+C) De Normatividad, Transparencia, y Cuenta Pública
 
 l.- Llevar a cabo acciones y programas que propicien la legalidad y transparencia en la gestión pública, así como la debida rendición de cuentas y el acceso por parte de los particulares a la información pública gubernamental;
 
@@ -987,19 +1011,41 @@ III.- Revisar y analizar la normatividad vigente y en coordinación con las depe
 
 IV.- Recopilar, analizar, documentar y validar la información que se requiera para la implementación de los sistemas y procedimientos de control interno y de servicio a la ciudadanía en las dependencias y órganos auxiliares de la Administración Pública Municipal;
 
-V.- Atender y dar seguimiento a las, quejas y denuncias recibidas en contra de servidores públicos; y,
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
 
-VI.- Promover la participación responsable e informada de los ciudadanos en la supervisión, ejecución y control de los recursos destinados a obras y programas sociales.
+V.- Atender, dar seguimiento y resolver las quejas o denuncias recibidas en contra de servidores públicos;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+VI.- Dar atención a las auditorías externas, ya sean de la Auditoría Superior del Estado o de la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+VII.- Elaborar y verificar para su evaluación, la respuesta a los resultados de las auditorias practicadas por la Auditoria Superior del Estado o por la Auditoria Superior de la Federación, antes de ser remitidas; y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+VIII.- Constatar el cumplimiento de los plazos que señala la Ley Orgánica de la Administración Pública Municipal y Ley del Órgano de Fiscalización Superior del Estado, respecto a la presentación de la cuenta pública y los informes de avance de gestión financiera respectiva ante el H. Congreso del Estado y la Auditoria Superior del Estado;
 
 D) De Asuntos Jurídicos
 
 I.- Instrumentar y resolver las investigaciones y procedimientos administrativos que presuman la responsabilidad de Servidores Públicos Municipales, con excepción de los de elección popular, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, emitiendo las resoluciones conforme a la legislación aplicable;
 
-II.- Coadyuvar con el Síndico Segundo para que los Servidores Públicos obligados, presenten en tiempo y forma su Manifestación de Bienes en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León vigente; y,
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
 
-III.- Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las Dependencias y Órganos Auxiliares de la Administración Pública Municipal, sin perjuicio de que otros ordenamientos establezcan procedimientos de impugnación diferentes.
+II.- Coadyuvar con el Síndico Segundo para que los Servidores Públicos obligados, presenten en tiempo y forma su Manifestación de Bienes en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León;
 
-Para el despacho de los asuntos de competencia de la Secretaría de la Contraloría y Transparencia Municipal, su titular se auxiliará directamente de las siguientes Direcciones: Dirección de Auditoria, Dirección de Normatividad y Cuenta Pública, Dirección Jurídica y demás unidades administrativas que resulten necesarias.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+III.- Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las Dependencias y Órganos Auxiliares de la Administración Pública Municipal, sin perjuicio de que otros ordenamientos establezcan procedimientos de impugnación diferentes; y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+IV.- Solicitar a la Dirección Jurídica inicie el procedimiento de fincamiento de responsabilidades para sancionar a los servidores públicos que incumplan con las observaciones emitidas por la Auditoría Superior del Estado o de la Auditoria Superior de la Federación, de acuerdo con la Ley de Responsabilidades.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2010)</small>
+
+Para el despacho de los asuntos de competencia de la Secretaría de la Contraloría y Transparencia Municipal, su titular se auxiliará directamente de las siguientes Direcciones: Dirección de Auditoria, Dirección de Normatividad, Transparencia y Cuenta Pública, Dirección Jurídica y demás unidades administrativas que resulten necesarias.
 
 ###### ARTÍCULO 35.
 
@@ -1105,9 +1151,11 @@ El trámite de Recursos estará a cargo, del titular de la Dependencia que hubie
 
 DEL TÉRMINO, CONTENIDO, REQUISITOS Y TRAMITACIÓN DEL RECURSO
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 52.
 
-El Recurso de Reconsideración se interpondrá dentro de los 15-quince días hábiles siguientes, contados al día siguiente al en que quedare legalmente hecha la notificación del acto que se impugne. La presentación del Recurso se hará por triplicado ante el titular de la Dependencia que dictó el acto impugnado, teniéndose como fecha de presentación aquella que se contenga en la constancia de recibo. Si el Recurso se interpusiese extemporáneamente, será desechado de plano. Si la extemporaneidad se comprobare en el curso del procedimiento, se sobreseerá. Se consideran días hábiles los señalados por el Artículo 59 del presente Reglamento.
+El Recurso de Reconsideración se interpondrá dentro de los 15-quince días hábiles siguientes, contados a partir del día siguiente al en que quedare legalmente hecha la notificación del acto que se impugne. La presentación del Recurso se hará por triplicado ante el titular de la Dependencia que dictó el acto impugnado, teniéndose como fecha de presentación aquella que se contenga en la constancia de recibo. Si el Recurso se interpusiere extemporáneamente, será desechado de plano. Si la extemporaneidad se comprobare en el curso del procedimiento, éste se sobreseerá. Se consideran días hábiles los señalados en el Artículo 58 del presente Reglamento.
 
 ###### ARTÍCULO 53.
 
@@ -1298,3 +1346,19 @@ PRESIDENTE MUNICIPAL
 LIC. FERNANDO CANALES STELZER
 
 SECRETARIO DEL REPUBLICANO AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE FEBRERO DE 2010.
+
+Artículo Primero.- Las presentes Reformas por Modificación y Adición al Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas
+
+Artículo Tercero. Las referencias establecidas en los diversos reglamentos y lineamientos internos que se efectúen a favor de la Oficina Ejecutiva del Presidente Municipal, Secretaria de Desarrollo Urbano y Ecología, Secretaría de Seguridad Pública y Vialidad o Contraloría Municipal, se entenderán referidas a la Secretaría de Administración, Secretaría de Control Urbano, Secretaría de Seguridad Municipal o Secretaría de Contraloría y Transparencia respectivamente y por lo que respecta a la Secretaría de Infraestructura y Servicios Públicos estas referencias se entenderán hechas a las Secretaría de Obras Públicas o Secretaría de Servicios Públicos según corresponda conforme a las atribuciones asignadas en el presente Reglamento a cada una de estas últimas.
+
+Artículo Cuarto: En tanto no sean reformados los capítulos SEGUNDO y TERCERO, Artículos 9 a 16 del Reglamento Interior de la Secretaría del Republicano Ayuntamiento, el Director General de Asuntos Jurídicos, tendrá las atribuciones que se le confieren al Director Jurídico y a falta de Director General de Asuntos Jurídicos se atenderá al Acuerdo Delegatorio que al efecto se emita.
+
+Artículo Quinto: En tanto no sea reformado el capítulo QUINTO, Artículo 9 del Reglamento Interior de la Contraloría Municipal, el Director Jurídico, tendrá las atribuciones que se le confieren al Asistente Jurídico.
+
+Artículo Sexto: El Reglamento Interior de la Contraloría Municipal será aplicable a la Secretaría de la Contraloría y Transparencia Municipal.
