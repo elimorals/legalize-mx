@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-turismo-21412"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-15"
-last_updated: "2009-08-24"
+last_updated: "2010-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21412&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-06-13"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE FEBRERO DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 15 de junio de 2001.
 
@@ -135,7 +135,9 @@ XIII. Presidir los órganos de gobierno de las entidades del sector y, en su cas
 
 XIV. Designar a los representantes de la Secretaría ante las comisiones, congresos, organizaciones e instituciones nacionales e internacionales en los que participe la misma;
 
-XV. Representar al Presidente de los Estados Unidos Mexicanos en los juicios constitucionales, en los términos del artículo 19 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, y 14 de la Ley Orgánica de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2010)</small>
+
+XV. Representar al Presidente de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine el Titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el artículo 26 del presente Reglamento;
 
 XVI. Intervenir en los convenios que celebre el Ejecutivo Federal, cuando incluyan aspectos de la jurisdicción y competencia de la Secretaría;
 
@@ -451,9 +453,19 @@ V. Revisar los anteproyectos de normas oficiales mexicanas en materia turística
 
 VI. Elaborar y dictaminar los convenios, contratos, acuerdos, bases de coordinación o colaboración y, en general, cualquier instrumento jurídico que celebre la Secretaría con organismos de los sectores público, privado y social, nacionales e internacionales, de conformidad con los requerimientos de las respectivas unidades administrativas y los órganos administrativos desconcentrados;
 
+> <small>(ADICIONADA, D.O.F. 17 DE FEBRERO DE 2010)</small>
+
+VI bis. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría de Turismo representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+
+> <small>(ADICIONADA, D.O.F. 17 DE FEBRERO DE 2010)</small>
+
+VI ter. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de Turismo represente al Presidente de la República;
+
 VII. Representar legalmente a la Secretaría tanto en los juicios de orden laboral como en los asuntos contenciosos en los que sea parte e intervenir en las reclamaciones de carácter jurídico que puedan afectar sus intereses, así como formular denuncias, promover querellas y desistirse de las mismas;
 
-VIII. Elaborar y proponer los informes previos y justificados en los juicios de amparo, y formular todas las promociones que dichos juicios requieran, así como los escritos de demanda y contestación, según proceda, en los términos del artículo 105 Constitucional y su Ley Reglamentaria;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2010)</small>
+
+VIII. Representar a todos los servidores públicos de la Secretaría; en los trámites dentro de los juicios de amparo en que éstos sean parte con motivo del desempeño de sus facultades o funciones;
 
 IX. Certificar documentos existentes en los archivos de la Secretaría, cuando los mismos se refieran al despacho de asuntos competencia de la misma;
 
@@ -931,9 +943,11 @@ XVIII. Dirigir y controlar el Centro Integral de Atención Telefónica, coordina
 
 ### CAPÍTULO VIII. De la Suplencia de los Servidores Públicos
 
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 26.
 
-Durante las ausencias del Secretario, el despacho y la resolución de los asuntos de la competencia de la Secretaría, quedarán a cargo del Subsecretario de Operación Turística, del Subsecretario de Planeación Turística o del Subsecretario de Innovación y Calidad, en ese orden; en los juicios de amparo en que debe intervenir en representación del Presidente de los Estados Unidos Mexicanos o como Titular de la Secretaría, será suplido indistintamente por los servidores públicos antes señalados o por el Director General de Asuntos Jurídicos, en el orden indicado.
+Durante las ausencias del Secretario, el despacho y la resolución de los asuntos de la competencia de la Secretaría, quedarán a cargo del Subsecretario de Operación Turística, del Subsecretario de Planeación Turística o del Subsecretario de Innovación y Calidad, en el orden indicado.
 
 ###### ARTÍCULO 27.
 
@@ -998,5 +1012,9 @@ SEXTO.- Al entrar en vigor el presente Decreto, la Corporación Ángeles Verdes 
 SÉPTIMO.- Se derogan todas aquellas disposiciones reglamentarias y administrativas que se opongan al presente Decreto.
 
 D.O.F. 24 DE AGOSTO DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE FEBRERO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
