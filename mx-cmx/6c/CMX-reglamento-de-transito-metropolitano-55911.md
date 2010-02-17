@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-metropolitano-55911"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-20"
-last_updated: "2009-02-16"
+last_updated: "2010-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55911&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-06-19"
 
 REGLAMENTO DE TRANSITO METROPOLITANO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE FEBRERO DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 20 de junio de 2007.
 
@@ -50,6 +50,20 @@ REGLAMENTO DE TRÁNSITO METROPOLITANO
 
 El presente Reglamento tiene por objeto establecer las normas relativas al tránsito peatonal y de vehículos en el Distrito Federal y a la seguridad vial.
 
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2010)</small>
+
+La prioridad en el uso del espacio público de los diferentes modos de desplazamiento será conforme a la siguiente jerarquía:
+
+I. Peatones;
+
+II. Ciclistas;
+
+III. Usuarios y prestadores del servicio de transporte de pasajeros masivo, colectivo o individual;
+
+IV. Usuarios de transporte particular automotor; y
+
+V. Usuarios y prestadores del servicio de transporte de carga.
+
 ###### Artículo 2º.
 
 En el ámbito de sus atribuciones y jurisdicciones, son autoridades competentes para la aplicación del presente reglamento las Secretarías de Transportes y Vialidad y de Seguridad Pública.
@@ -72,47 +86,59 @@ IV. La prevención de accidentes; y
 
 V. El uso racional del automóvil particular.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 4º.
 
 Además de lo que señala la Ley, para los efectos de este Reglamento, se entiende por:
 
 I. Agente, elemento de la Policía Preventiva del Distrito Federal;
 
-II. Ciclovía, infraestructura señalizada y destinada al uso preferente de la bicicleta;
+II. Área de espera ciclista, aquella zona, cuya función es la de servir de espacio de detención para los ciclistas durante el alto de un semáforo;
 
-III. Ley, la Ley de Transporte y Vialidad del Distrito Federal;
+III. Carril compartido ciclista, carril ubicado en la extrema derecha del área de circulación vehicular, de ancho suficiente para que los ciclistas lo compartan con vehículos de transporte público y otros vehículos, y que cuenta con dispositivos para el control del tránsito que regulan la velocidad;
 
-IV. Infracción, conducta que transgrede alguna disposición del presente reglamento o demás disposiciones de tránsito aplicables y que tiene como consecuencia una sanción;
+IV. Ciclista, conductor de un vehículo de tracción humana a pedales;
 
-V. Reglamento, el Reglamento de Tránsito Metropolitano;
+V. Ciclocarril, carril en la vía destinado exclusivamente para circulación en bicicleta;
 
-VI. Secretaría, la Secretaría de Transportes y Vialidad;
+VI. Ciclovía, vía o sección de una vía, exclusiva para la circulación ciclista, físicamente confinada del tránsito automotor;
 
-VII. Seguridad Pública, la Secretaría de Seguridad Pública;
+VII. Conductor, toda persona que maneje un vehículo en cualquiera de sus modalidades;
 
-VIII. Seguridad Vial, conjunto de medidas tendientes a preservar la integridad física de las personas con motivo de su tránsito en las vías públicas;
+VIII. Dispositivos para el Control del Tránsito, conjunto de elementos que procuran el ordenamiento de los movimientos del tránsito; previenen y proporcionan información a los usuarios de la vía para garantizar su seguridad, permitiendo una operación efectiva del flujo vehicular y peatonal;
 
-IX. Vía pública, todo espacio de uso común destinado al tránsito de peatones y vehículos, así como a la prestación de servicios públicos y colocación de mobiliario urbano;
+IX. Infracción, conducta que transgrede alguna disposición del presente reglamento o demás disposiciones de tránsito aplicables y que tiene como consecuencia una sanción;
 
-X. Vía de Acceso controlado, aquella que presenta dos o más secciones, centrales y laterales, en un sólo sentido con separador central y accesos y salidas sin cruces a nivel controlados por semáforos;
+X. Ley, la Ley de Transporte y Vialidad del Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+XI. Peatón, persona que transita a pie por la vía pública. Para efectos del presente Reglamento, las personas en sillas de ruedas, patines y patinetas serán considerados como peatones;
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+XII. Persona con discapacidad, la que padece temporal o permanentemente una disminución en sus facultades físicas, mentales o sensoriales;
 
-XI. Vía primaria, aquella que por su anchura, longitud, señalización y equipamiento, posibilita un amplio volumen de tránsito vehicular;
+XIII. Reglamento, el Reglamento de Tránsito Metropolitano;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+XIV. Secretaría, la Secretaría de Transportes y Vialidad;
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+XV. Seguridad Pública, la Secretaría de Seguridad Pública;
 
-XII. Vía secundaria, aquella que permite la circulación al interior de las colonias, barrios y pueblos; y
+XVI. Seguridad Vial, conjunto de medidas tendientes a preservar la integridad física de las personas con motivo de su tránsito en las vías públicas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+XVII. Señalización vial, la referida en el artículo 121 de la Ley;
 
-> <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2009)</small>
+XVIII. Señalización vial restrictiva, aquella que tiene como finalidad prohibir expresamente la realización de la conducta que se indica;
 
-XIII. Persona con discapacidad, todo ser humano que padece temporal o permanentemente una disminución en sus facultades físicas, mentales o sensoriales que le impide realizar una actividad normal.
+XIX. Vehículo, todo modo terrestre utilizado para el transporte de personas o bienes;
+
+XX. Vía pública, todo espacio de uso común destinado al tránsito de peatones y vehículos, así como a la prestación de servicios públicos y colocación de mobiliario urbano;
+
+XXI. Vía de Acceso controlado, aquella que presenta dos o más secciones, centrales y laterales, en un sólo sentido con separador central y accesos y salidas sin cruces a nivel controlados por semáforos;
+
+XXII. Vía primaria, aquella que por su anchura, longitud, señalización y equipamiento, posibilita un amplio volumen de tránsito vehicular;
+
+XXIII. Vía secundaria, aquella que permite la circulación al interior de las colonias, barrios y pueblos; y
+
+XXIV. Zona de tránsito calmado, área delimitada al interior de barrios, pueblos o colonias, cuyas vías se diseñan para reducir la intensidad del tránsito, de forma tal que peatones, ciclistas y conductores de vehículos motorizados circulen de manera segura.
 
 ### CAPÍTULO II. DE LAS NORMAS GENERALES DE CIRCULACIÓN
 
@@ -132,31 +158,49 @@ III. Obedecer los señalamientos de tránsito y las indicaciones de los agentes 
 
 IV. Circular en el sentido que indique la vialidad; tratándose de vialidades reversibles, respetar los tramos y horarios que determine la autoridad competente;
 
-V. Respetar los límites de velocidad establecidos, de acuerdo a lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE FEBRERO DE 2010)</small>
 
-a) En caso de no haber señalamiento en vías primarias, la velocidad máxima será de 70 kilómetros por hora;
+V. Respetar los límites de velocidad establecidos en los señalamientos de tránsito. A falta de señalamiento específico, los límites de velocidad se establecerán de acuerdo a lo siguiente:
+
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2010)</small>
+
+a) En vías primarias la velocidad máxima será de 70 kilómetros por hora;
 
 b) En vías secundarias la velocidad máxima será de 40 kilómetros por hora;
 
-c) En zonas escolares, peatonales, de hospitales, de asilos, de albergues y casas hogar, la velocidad máxima será de 20 kilómetros por hora.
+c) En zonas escolares, peatonales, de hospitales, de asilos, de albergues y casas hogar, la velocidad máxima será de 20 kilómetros por hora;
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2010)</small>
+
+d) En zonas de tránsito calmado, la velocidad será de 30 kilómetros por hora;
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2010)</small>
+
+e) En vías peatonales, en las cuales se permita circular, la velocidad máxima será de 10 kilómetros por hora;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
-VI. Ajustarse el cinturón de seguridad y asegurarse que los demás pasajeros también se lo ajusten. Cuando se trate de menores de 12 años o personas con discapacidad, deberán ser transportados utilizando los sistemas de retención pertinentes; y
+VI. Ajustarse el cinturón de seguridad y asegurarse que los demás pasajeros también se lo ajusten. Cuando se trate de menores de 12 años o personas con discapacidad, deberán ser transportados utilizando los sistemas de retención pertinentes; y (sic)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
-VII. Tratándose de vehículos con placas de matrícula extranjera, portar los documentos oficiales en los que se describan las características del vehículo y se acredite la legal estancia en el país.
+VII. Tratándose de vehículos con placas de matrícula extranjera, portar los documentos oficiales en los que se describan las características del vehículo y se acredite la legal estancia en el país;
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+VIII. Rebasar sólo por el lado izquierdo; en caso de rebasar a ciclistas, otorgar al menos la distancia de 1 metro de separación lateral entre los dos vehículos; e
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+IX. Indicar la dirección de su giro o cambio de carril, mediante luces direccionales.
 
 El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -164,9 +208,11 @@ días del salario mínimo general
 
 vigente en el Distrito Federal
 
-III, IV, V incisos a) y b) y VI 5 días
+III, IV, V incisos a), b) y d)
 
-V inciso c) 10 días
+VI, VIII y IX 5 días
+
+V inciso c) y e) 10 días
 
 I, II y VII 10 días y remisión del vehículo
 
@@ -176,13 +222,13 @@ al depósito
 
 Se prohíbe a los conductores:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+I. Circular sobre banquetas, camellones, andadores, así como en las vías peatonales;
 
-I. Circular sobre banquetas, camellones, andadores, ciclovías y vías peatonales;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
-II. Circular en carriles de contraflujo y carriles confinados;
+II. Circular en carriles de contraflujo, carriles confinados, excepto cuando conduzcan vehículos autorizados para ello;
 
 III. Detener su vehículo invadiendo los pasos peatonales marcados con rayas para cruces de las vías públicas, así como las intersecciones con las vías;
 
@@ -218,19 +264,25 @@ XIII. Utilizar o instalar sistemas antirradares o detector de radares de velocid
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
-XIV. Ofender, insultar o denigrar a los agentes o personal de apoyo vial en el desempeño de sus labores; y
+XIV. Ofender, insultar o denigrar a los agentes o personal de apoyo vial en el desempeño de sus labores; y (sic)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
-XV. Dar vuelta a la izquierda, derecha o en “U” cuando se interfiera los corredores del “Metrobús”, salvo que exista señalamiento que lo permita.
+XV. Dar vuelta a la izquierda, derecha o en “U” cuando se interfiera los corredores del “Metrobús”, salvo que exista señalamiento que lo permita;
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+XVI. Transitar, en ciclovías y ciclocarriles; y
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+XVII. Detener su vehículo motorizado sobre un área de espera ciclista.
 
 La infracción a las prohibiciones dispuestas en este artículo, se sancionarán con base en la siguiente tabla:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -240,11 +292,11 @@ vigente en el Distrito Federal
 
 I, III, IV, VIII, XI y XII 5 días
 
-VII, IX, X y XIII 10 días
+VII, IX, y X 10 días
 
-V y XIV 20 días
+V, XIV y XVII 20 días
 
-II, VI y XV 40 días y remisión del vehículo al depósito
+II, VI, XIII, XV y XVI 40 días y remisión del vehículo al depósito
 
 ###### Artículo 7º.
 
@@ -286,7 +338,9 @@ Para las preferencias de paso en los cruceros, el conductor se ajustará a la se
 
 I. En los cruceros regulados por un agente o por promotores voluntarios de seguridad vial, debe detener su vehículo o avanzar cuando así lo ordene éste;
 
-II. En los cruceros regulados mediante semáforos, debe detener su vehículo en la línea de “alto”, sin invadir la zona para el cruce de los peatones cuando la luz del semáforo esté en color rojo;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+II. En los cruceros regulados mediante semáforos, debe detener su vehículo en la línea de “alto”, sin invadir la zona para el cruce de los peatones o el área de espera ciclista cuando la luz del semáforo esté en color rojo;
 
 III. Cuando la vía en que circule carezca de señalización que regule la preferencia de paso, o los semáforos se encuentren con luces intermitentes, estará obligado a cederlo a los vehículos que se aproximen por su derecha, salvo cuando la vía en que se circula sea de mayor amplitud que la otra o tenga mayor volumen de tránsito;
 
@@ -302,11 +356,17 @@ VIII. En las glorietas, el que se halle dentro de la vía circular tiene prefere
 
 IX. Entre las 23:00 hrs. y las 5:00 hrs. del día siguiente, debe detener totalmente el vehículo frente a la indicación de alto de un semáforo y, una vez que se cerciore de que ningún vehículo o peatón se dispone a atravesar un crucero, podrá continuar la marcha aún cuando no haya cambiado la señal de alto;
 
-X. El ferrocarril, metrobús y tren ligero tienen preferencia de paso, y
+X. El ferrocarril, metrobús y tren ligero tienen preferencia de paso, y (sic)
 
-XI. Los vehículos de emergencia tienen derecho de paso cuando circulen con las señales de sonido o luminosas funcionando.
+XI. Los vehículos de emergencia tienen derecho de paso cuando circulen con las señales de sonido o luminosas funcionando;
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+XII. Cuando en el cruce de dos vías secundarias sin semáforo, con un solo carril efectivo de circulación, se encuentre un vehículo en cada una de las vías, debe realizar alto total y cruzar con precaución, debiendo ceder el paso al vehículo que se aproxime por la derecha, teniendo preferencia un vehículo a la vez por cada una de las vías confluyentes.
 
 El incumplimiento de las reglas dispuestas en este artículo, se sancionará con base en la siguiente tabla:
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -316,11 +376,13 @@ vigente en el Distrito Federal
 
 I, II, III, IV, V, VI, VII,
 
-VIII, IX, X y XI 5 días
+VIII, IX, X, XI y XII 10 días
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 9º.
 
-Los peatones y personas con capacidades diferentes tienen derecho de preferencia sobre el tránsito vehicular, para garantizar su integridad física cuando:
+Los peatones tienen derecho de preferencia sobre el tránsito vehicular, para garantizar su integridad física cuando:
 
 I. En los pasos peatonales, la señal del semáforo así lo indique;
 
@@ -330,11 +392,21 @@ III. Los vehículos vayan a dar vuelta para entrar a otra vía y haya peatones c
 
 IV. Los vehículos deban circular sobre el acotamiento y en éste haya peatones transitando aunque no dispongan de zona peatonal;
 
-V. Transiten por la banqueta y algún conductor deba cruzarla para entrar o salir de una cochera o estacionamiento; y
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
-VI. Vayan en comitivas organizadas o filas escolares.
+V. Transiten por la banqueta y algún conductor deba cruzarla para entrar o salir de una cochera o estacionamiento;
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+VI. Transiten en comitivas organizadas o filas escolares; y
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+VII. Transiten por los espacios habilitados para ello cuando la acera se encuentre afectada por la ejecución de un trabajo o evento que modifique de forma transitoria las características del área de circulación peatonal;
 
 El conductor que incumpla lo dispuesto en este artículo, se sancionará con base en la siguiente tabla:
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -342,17 +414,17 @@ días del salario mínimo general
 
 vigente en el Distrito Federal
 
-I, II, III, IV, V y VI 10 días
+I, II, III, IV, V, VI y VII 10 días
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 10º.
 
-Los peatones y personas con discapacidad deben:
+Los peatones deben:
 
-I. Cruzar las vías por las esquinas o zonas marcadas para tal efecto, excepto en las calles locales o domiciliarias cuando sólo exista un carril para la circulación;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+I. Cruzar las vías primarías y secundarias por las esquinas o zonas marcadas para tal efecto, excepto en las calles locales o domiciliarias cuando sólo exista un carril para la circulación;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -382,11 +454,21 @@ Los ciclistas tienen derecho de preferencia sobre el tránsito vehicular, cuando
 
 I. Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzar la vía;
 
-II. Los vehículos vayan a dar vuelta a la derecha para entrar a otra vía, y haya ciclistas cruzando ésta; y
+II. Los vehículos vayan a dar vuelta a la derecha para entrar a otra vía, y haya ciclistas cruzando ésta; y (sic)
 
-III. Los vehículos deban circular o cruzar una ciclovía y en ésta haya ciclistas circulando.
+III. Los vehículos deban circular o cruzar una ciclovía y en ésta haya ciclistas circulando;
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+IV. Transiten por vía exclusiva de circulación ciclista y algún conductor pretenda cruzarla para entrar o salir de un predio; y
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+V. En caso de no haber semáforo, crucen una vía;
 
 El conductor que incumpla lo dispuesto en este artículo, se sancionará con base en la siguiente tabla:
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -394,7 +476,7 @@ días del salario mínimo general
 
 vigente en el Distrito Federal
 
-I, II y III 10 días
+I, II, III, IV y V 10 días
 
 ###### Artículo 12.
 
@@ -402,7 +484,9 @@ Se prohíbe estacionar cualquier vehículo en los siguientes espacios:
 
 I. En las vías primarias;
 
-II. En zonas o vías públicas identificadas con la señalización respectiva;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+II. En zonas o vías públicas donde exista señalización vial restrictiva;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -424,11 +508,9 @@ VII. En zonas autorizadas para carga y descarga, cuando éste no sea su fin;
 
 VIII. En accesos y salidas, áreas de circulación y zonas de ascenso y descenso de pasaje en las terminales del transporte colectivo Metro;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
-
-IX. Sobre las banquetas, camellones, andadores, retornos, isletas u otras vías y espacios reservados a peatones y ciclistas;
+IX. Sobre las banquetas, rampas, camellones, andadores, retornos, isletas u otras vías y espacios reservados a peatones y ciclistas; para ello es suficiente con que cualquier parte del vehículo se encuentre sobre estos espacios;
 
 X. Frente a:
 
@@ -478,9 +560,7 @@ XV. En los demás lugares que la Secretaría y Seguridad Pública determinen.
 
 La infracción a las prohibiciones dispuestas en este artículo, se sancionará con base en la siguiente tabla:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -488,15 +568,11 @@ días del salario mínimo general
 
 vigente en el Distrito Federal
 
-I, II, III, IV, V, VI, VII, VIII, 5 días y remisión del
+I, II, III, IV, V, VI, VII, De 10 a 15 días y remisión del
 
-IX, X incisos a), b), c) y e); vehículo al depósito
+VIII, IX, X, XI, XII, XIII, vehículo al depósito
 
-XI, XII, XIII y XV
-
-X inciso d) y XIV 10 días y remisión del
-
-vehículo al depósito
+XIV y XV
 
 ###### Artículo 13.
 
@@ -732,9 +808,7 @@ VII. Películas de seguridad, control solar (polarizado) u oscurecimiento de vid
 
 La infracción a las prohibiciones dispuestas en este artículo, se sancionará con base en la siguiente tabla:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -744,9 +818,9 @@ vigente en el Distrito Federal
 
 III, IV, y V 5 días
 
-VI y VII 10 días
+VI 10 días
 
-I y II 10 días y remisión del vehículo
+I, II y VII 10 días y remisión del vehículo
 
 al depósito
 
@@ -816,11 +890,9 @@ V. Permitir el ascenso o descenso de pasajeros sólo cuando el vehículo esté s
 
 VI. Circular con las luces blancas interiores encendidas cuando obscurezca;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
-
-VII. Hacer base o estacionar su vehículo en lugar autorizado; y
+VII. Hacer base o estacionar su vehículo en lugar autorizado o en los lugares de encierro o pernocta correspondientes en horarios en que no se preste servicio, y (sic)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -830,13 +902,15 @@ VIII. Tratándose de bicicletas adaptadas además deberán:
 
 a) Portar el permiso expedido por autoridad correspondiente; y
 
-b) Circular en zonas o vialidades autorizadas por la Secretaría.
+b) Circular en zonas o vialidades autorizadas por la Secretaría;
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+IX. Compartir de manera responsable con los ciclistas la circulación en carriles de la extrema derecha y rebasarlos siempre otorgando al menos un metro de separación lateral entre los dos vehículos.
 
 El incumplimiento de las obligaciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley de Transporte y Vialidad y el Reglamento de Transporte:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
 Fracción Sanción con multa equivalente en
 
@@ -844,7 +918,7 @@ días del salario mínimo general
 
 vigente en el Distrito Federal
 
-II, III, V y VI 10 días
+II, III, V, VI y IX 10 días
 
 IV 80 a 130 días
 
@@ -866,7 +940,9 @@ b) Por vías primarias en el segundo carril, a excepción de utilizarlo para reb
 
 II. Rebasar a otro vehículo en el carril de contraflujo de los ejes viales, salvo que dicho vehículo esté parado por alguna descompostura. En este caso, el conductor rebasará con precaución, con las luces delanteras encendidas y direccionales funcionando;
 
-III. Realizar maniobras de ascenso o descenso de pasajeros, en el segundo o tercer carril de circulación, contados de derecha a izquierda;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+III. Realizar maniobras de ascenso o descenso de pasajeros, en el segundo o tercer carril de circulación, contados de derecha a izquierda, o sobre una ciclovía o un ciclocarril;
 
 IV. Llevar vidrios polarizados, obscurecidos o con aditamentos u objetos distintos a las calcomanías reglamentarias;
 
@@ -898,7 +974,9 @@ III 80-130 días
 
 Los vehículos de transporte de carga no pueden circular:
 
-I. Por carriles centrales; y
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+I. Por carriles centrales de las vías de acceso controlado, y
 
 II. Cuando la carga:
 
@@ -914,15 +992,19 @@ e) No vaya debidamente sujeta al vehículo por cables o lonas.
 
 La infracción de las prohibiciones dispuestas en este artículo, se sancionará con base en la siguiente tabla, sin perjuicio de lo dispuesto por la Ley de Transporte y Vialidad y el Reglamento de Transporte:
 
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
 Fracción Sanción con multa equivalente en
 
 días del salario mínimo general
 
 vigente en el Distrito Federal
 
-II 10 días
+I De 100 a 300 días y remisión del vehículo
 
-I 50 días
+al depósito
+
+II 10 días
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1094,21 +1176,37 @@ II. Circular en el sentido de la vía;
 
 III. Llevar a bordo sólo al número de personas para el que exista asiento disponible;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
-
-IV. Usar casco de motociclista o ciclista, según sea el caso, que cumpla con las Normas Oficiales Mexicanas. Los acompañantes también deberán portarlo;
+IV. En el caso de los motociclistas y sus acompañantes, usar casco de motociclista debidamente colocado y abrochado, que cumpla con las Normas Oficiales Mexicanas;
 
 V. Utilizar un sólo carril de circulación;
 
 VI. Rebasar sólo por el carril izquierdo;
 
+(REPUBLICADA, G.O. 17 DE FEBRERO DE 2010)
+
 VII. El ciclista debe usar aditamentos o bandas reflejantes para uso nocturno;
 
-VIII. El ciclista debe circular a la extrema derecha de la vía sobre la que transite y procederá con cuidado a rebasar vehículos estacionados;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
-IX. En el caso de motocicletas, circular en todo tiempo con las luces encendidas.
+VIII. El ciclista circulará preferentemente por las vías destinadas para ello;
+
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+IX. En el caso de motocicletas, circular en todo tiempo con las luces encendidas;
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+X. El ciclista debe indicar la dirección de su giro o cambio de carril, mediante señales con el brazo y mano; y
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+XI. El ciclista debe compartir de manera responsable con los vehículos y el transporte público la circulación en carriles de la extrema derecha.
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2010)</small>
+
+Todo ciclista tiene los mismos derechos y obligaciones aplicables para un conductor de cualquier otro vehículo, exceptuando lo establecido en el presente Reglamento, así como todas las provisiones que por la naturaleza propia de la bicicleta no tengan aplicación.
 
 Dentro de la zona urbana, en las rutas donde se cuente con ciclovía, los ciclistas se encuentran obligados a circular en ella.
 
@@ -1134,13 +1232,13 @@ II y III 10 días
 
 Se prohíbe a los ciclistas y motociclistas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
+I. Circular por los carriles centrales o interiores de las vías de acceso controlado y en donde así lo indique el señalamiento, salvo cuando mediante aviso publicado en la Gaceta Oficial, la Secretaría y Seguridad Pública determinen las condiciones, los horarios y días permitidos en dichas vialidades;
 
-I. Circular por los carriles centrales o interiores de las vías primarias y en donde así lo indique el señalamiento de las vías de acceso controlado, salvo cuando mediante aviso publicado en la Gaceta Oficial, la Secretaría y Seguridad Pública determinen las condiciones, los horarios y días permitidos en dichas vialidades;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
-II. Circular entre carriles;
+II. Circular entre carriles, salvo cuando el ciclista se encuentre con tránsito detenido y busque colocarse en lugar visible para reiniciar la marcha;
 
 III. Circular por los carriles exclusivos para el transporte público de pasajeros;
 
@@ -1150,9 +1248,13 @@ V. Transportar a un pasajero en lugar intermedio entre la persona que conduce y 
 
 VI. Transportar carga que impida mantener ambas manos sobre el manubrio, y un debido control del vehículo o su necesaria estabilidad;
 
-VII. Asirse o sujetarse a otros vehículos en movimiento; y
+VII. Asirse o sujetarse a otros vehículos en movimiento; y (sic)
 
-VIII. En el caso de motocicletas, transportar pasajeros menores de 12 años de edad.
+VIII. En el caso de motocicletas, transportar pasajeros menores de 12 años de edad;
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+IX. En el caso de motocicletas, rebasar los límites de velocidad previstos en el artículo 5° del presente Reglamento.
 
 Los ciclistas que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente por los agentes y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
@@ -1173,6 +1275,12 @@ V 5 días
 II, IV, VI, VII y VIII 10 días
 
 I y III 20 días
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE FEBRERO DE 2010)</small>
+
+IX 10 días y remisión del
+
+vehículo al depósito
 
 ### CAPÍTULO VI. DE LA CONDUCCIÓN DE VEHÍCULOS BAJO LOS EFECTOS DEL ALCOHOL Y NARCÓTICOS
 
@@ -1296,9 +1404,15 @@ c) Placas de matrícula, y en su caso, número del permiso del vehículo para ci
 
 d) En su caso, número y tipo de licencia o permiso de conducir.
 
-III. Nombre, número de placa, adscripción y firma del agente que imponga la sanción.
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
+
+III. Nombre, número de placa, adscripción y firma del agente que tenga conocimiento de la infracción, la cual debe ser en forma autógrafa o electrónica, en cuyo caso se estará a lo previsto en la Ley de la materia;
 
 Seguridad Pública coadyuvará con la Secretaría para la aplicación de sanciones por el incumplimiento a la Ley de Transporte cuando exista flagrancia.
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2010)</small>
+
+Cuando se trate de infracciones detectadas a través de los equipos y sistemas tecnológicos se estará a lo dispuesto en los artículos 39 BIS y 42 del presente Reglamento.
 
 ###### Artículo 39.
 
@@ -1314,7 +1428,41 @@ IV. Solicitarán al conductor la licencia de conducir y la tarjeta de circulaci�
 
 Una vez efectuada la revisión de los documentos y de la situación en la que se encuentra el vehículo, si éstos están en orden, el agente procederá a llenar la boleta de sanción, de la que extenderá una copia al interesado.
 
-En caso de que el conductor no presente para su revisión la tarjeta de circulación, el agente procederá a remitir el vehículo al depósito vehicular.
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2010)</small>
+
+En caso de que el conductor no presente para su revisión la tarjeta de circulación y la licencia de conducir, el agente procederá a remitir el vehículo al depósito.
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2010)</small>
+
+Para el caso de infracciones detectadas a través de la información obtenida con equipos y sistemas tecnológicos de Seguridad Pública, se estará a lo dispuesto en los artículos 39 BIS y 42 del presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2010)</small>
+
+###### Artículo 39 Bis.
+
+Las infracciones a este Reglamento que sean detectadas a través de equipos y sistemas tecnológicos, éstas serán impuestas por el agente que se encuentre asignado para ello, lo cual se hará constar en boletas seriadas autorizadas por la Secretaría de Seguridad Pública, las cuales para su validez contendrán:
+
+I. Fundamento Jurídico:
+
+a) Artículos que prevén la infracción cometida de la Ley o el presente Reglamento, y
+
+b) Artículos que establecen la sanción impuesta de la Ley o el presente Reglamento.
+
+II. Motivación:
+
+a) Día, hora, lugar y breve descripción del hecho de la conducta infractora, que deriva de lo captado por el medio tecnológico utilizado;
+
+b) Nombre y domicilio del infractor, y
+
+c) Placas de matrícula, y en su caso, número del permiso del vehículo para circular.
+
+III. Tecnología utilizada para captar la comisión de la infracción y el lugar en que se encontraba el equipo tecnológico al momento de ser detectada la infracción cometida.
+
+IV. Atendiendo al tipo de tecnología utilizada, se acompaña con el formato expedido por el propio instrumento tecnológico que captó la infracción o copia de la imagen y/o sonidos y su trascripción en su caso, con la confirmación de que dichos elementos corresponden en forma auténtica y sin alteración de ningún tipo a lo captado por el instrumento tecnológico usado.
+
+V. Nombre, número de placa, adscripción y firma electrónica del agente que se encuentre asignado y facultado para expedir la sanción.
+
+La información obtenida con equipos y sistemas tecnológicos, con base en la cual se determine la imposición de la sanción, hará prueba plena en términos de lo que dispone el artículo 34 de la Ley que Regula el Uso de Tecnología para la Seguridad Pública del Distrito Federal.
 
 ### CAPÍTULO IX. DE LAS SANCIONES
 
@@ -1334,15 +1482,25 @@ III. Con el agente que impuso la infracción en caso de que cuente con tecnolog�
 
 El infractor tendrá un plazo de treinta días naturales contados a partir de la fecha de emisión de la boleta de sanción para realizar el pago, teniendo derecho a que se le descuente un 50% del monto de la misma, con excepción de la sanción que establece el artículo 13 del presente Reglamento; vencido dicho plazo sin que se realice el pago, deberá cubrir los demás créditos fiscales que establece el Código Financiero del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2010)</small>
+
+Para el caso de las infracciones que son notificadas vía correo certificado o con acuse de recibo, el ciudadano podrá promover la aplicación del derecho mencionado si la línea de captura que acompaña al documento expira antes del plazo mencionado, siempre y cuando se acredite, en las Oficinas de Atención Ciudadana para la Aclaración de Infracciones, que la fecha de notificación domiciliaria fue extemporánea.
+
 ###### Artículo 41.
 
 La autoridad ambiental facultará a los centros de verificación vehicular para que, sujetándose a los sistemas informáticos que se desarrollen y los lineamientos que se expidan, constaten que los propietarios o poseedores de vehículos están libres de adeudos por multas derivadas de infracciones al presente Reglamento, previa la realización de las pruebas de emisiones.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 42.
 
-Cuando se trate de infracciones a este Reglamento captado por instrumentos tecnológicos, la infracción será notificada al propietario del vehículo quien, en su caso, será responsable solidario del infractor.
+Cuando se trate de infracciones a este Reglamento captadas por equipos y sistemas tecnológicos, la boleta de infracción será entregada en forma personal por conducto del agente que la expida, de lo cual dejará constancia. Si el infractor se negare a recibirla se hará constar esa situación para los efectos correspondientes.
 
-Las infracciones de tránsito impuestas a vehículos matriculados en el Distrito Federal podrán consultarse en la página de internet del Sistema de Infracciones del Gobierno del Distrito Federal (www.infracciones.ssp.df.gob.mx) para su pago oportuno.
+Las multas expedidas con apoyo de equipos y medios tecnológicos, en el caso que no fuera posible la entrega personal al infractor en el momento que se expida, será notificada por correo certificado o con acuse de recibo en el domicilio registrado del propietario del vehículo quien será responsable de su pago.
+
+En el caso de los vehículos matriculados en el Distrito Federal, en cumplimiento de lo dispuesto por el artículo 41 del presente Reglamento, se presume salvo prueba en contrario, que el propietario del vehículo toma conocimiento de la infracción cometida, el día inmediato subsecuente al momento en que con motivo del trámite de verificación vehicular recibe el informe de la multa que aparece registrada en el sistema con cargo al vehículo.
+
+Las multas impuestas por violación al presente Reglamento con motivo del uso o tenencia de vehículos podrán consultarse en la página de Internet del Sistema del Infracciones del Gobierno del Distrito Federal (www.infracciones.ssp.df.gob.mx) para su pago oportuno.
 
 ###### Artículo 43.
 
@@ -1354,11 +1512,9 @@ Tratándose de menores de edad, el agente o el Ministerio Público que tenga con
 
 Las licencias de conducir se cancelarán al acumular doce puntos de penalización.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2010)</small>
 
-> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2009)</small>
-
-La Secretaría realizará el cómputo de los puntos de penalización con base en las boletas de sanción expedidas por Seguridad Pública.
+La Secretaría realizará el cómputo de los puntos de penalización con base en las boletas de sanción expedidas por Seguridad Pública, que hubieran sido impuestas con información de la licencia del conductor presente en el momento de la conducta infractora.
 
 Los puntos de penalización se acumularán de la siguiente manera:
 
@@ -1376,7 +1532,9 @@ II. Tres puntos por infringirlo en sus artículos 5 fracción III, 6 fracción I
 
 III. Un punto por infringirlo en cualquier artículo distinto de los señalados en las dos fracciones anteriores.
 
-Cuando una boleta de sanción sea anulada, los puntos se descontarán con base en (sic) copia de la resolución judicial o administrativa respectiva.
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2010)</small>
+
+Cuando una boleta de sanción sea anulada, los puntos se descontarán por la Secretaría con base en copia de la resolución judicial o administrativa respectiva.
 
 La acumulación de puntos no eximirá al titular de la licencia de cumplir con la sanción que corresponda a la infracción cometida.
 
@@ -1449,3 +1607,9 @@ G.O. 16 DE FEBRERO DE 2009.
 PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. - El presente decreto entrará en vigor diez días naturales después de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 17 DE FEBRERO DE 2010.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
