@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-descentralizado-16823"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-30"
-last_updated: "2009-10-28"
+last_updated: "2010-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, 30 de junio de 1999.
 
@@ -431,7 +431,9 @@ XII. Jefatura de Capacitación y Fomento Sanitario;
 
 XIII. Jefatura de Operación Sanitaria;
 
-XIV. Coordinación de Control Analítico;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+XIV. Laboratorio Estatal de Salud Pública;
 
 XV. Jefatura de Control Analítico Sanitario;
 
@@ -859,7 +861,9 @@ I. Una Secretaría General;
 
 II. Una Coordinación General del Sistema Estatal Sanitario;
 
-III. Una Coordinación de Control Analítico;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+III. Un Laboratorio Estatal de Salud Pública;
 
 IV. Una Jefatura Jurídica y Consultiva;
 
@@ -1047,53 +1051,97 @@ XII. Proporcionar información en el ámbito de su competencia a los usuarios, y
 
 XIII. La demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le confieran.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 30 Bis 6.
 
-Corresponde a la Coordinación de Control Analítico:
+Corresponde al Laboratorio Estatal de Salud Pública:
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
 I. Prestar el servicio de laboratorio a organismos públicos privados y sociales, y a las dependencias y entidades de la Administración Pública Estatal y Municipal;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+
 II. Participar en la Red Nacional de Laboratorios de Salud Pública;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
 III. Fungir como Centro de Referencia Estatal;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+
 IV. Coordinar la participación de las actividades de las redes locales de laboratorios;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
 V. Realizar y orientar investigaciones y estudios con el propósito de proteger la salud de la población contra riesgos sanitarios;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+
 VI. Proponer convenios de colaboración con instituciones afines, destinados a incrementar la capacidad diagnóstica y de servicios que brinda el Laboratorio Estatal;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
 VII. Apoyar los programas de capacitación del personal;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+
 VIII. Gestionar y administrar los recursos necesarios para la adecuada operación del Laboratorio Estatal;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
 IX. Presentar al Comisionado el programa anual de adquisiciones a través de la Secretaria General;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+
 X. Autorizar la emisión de los informes de resultados generados por el laboratorio;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
 XI. Supervisar la administración de los recursos humanos, materiales y financieros;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+
 XII. Elaborar y proponer mecanismos de coordinación con los organismos del sector salud del estado y coordinar la aplicación de los programas;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
 XIII. Evaluar los resultados y tomar las medidas necesarias para corregir desviaciones en el logro de las metas;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+
 XIV. Implementar estrategias, objetivos y políticas de calidad en base a un diagnóstico situacional;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
 XV. Informar periódicamente al Comisionado, sobre los avances y resultados de los diferentes programas;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+
 XVI. Integrar y evaluar los reportes al Sistema de Información de Salud a Población Abierta;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
 XVII. Colaborar conjuntamente con las áreas competentes en el establecimiento de las metas;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+
 XVIII. Establecer los lineamientos y políticas sobre el comportamiento ético del personal a cargo;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
 XIX. Autorizar la documentación del Sistema de Calidad;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+
 XX. Autorizar los informes de resultados;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
+
 XXI. Coadyuvar con organismos rectores en la integración de programas, y
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2005)</small>
 
 XXII. Las demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le confieran.
 
@@ -1269,7 +1317,9 @@ XI. Aplicar los programas analíticos de vigilancia sanitaria establecidos por l
 
 XII. Coordinar la aplicación de los procedimientos técnicos de operación, en base a la normatividad establecida para los diferentes procesos analíticos;
 
-XIII. Sustituir, en su ausencia, al Coordinador de Control Analítico;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+XIII. Sustituir, en su ausencia, al Coordinador del Laboratorio de Salud Pública;
 
 XIV. Elaborar y revisar documentación del Sistema de Calidad;
 
@@ -1317,7 +1367,9 @@ II. Supervisar la actividad de las áreas operativas del laboratorio para verifi
 
 III. Evaluar nuevos proyectos y progresos actuales en el campo del control y aseguramiento de la calidad;
 
-IV. Informar al Coordinador de Control Analítico, sobre la revisión de la tecnología, métodos y equipo con respecto al aseguramiento de la calidad;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+IV. Informar al Coordinador del Laboratorio Estatal de Salud Pública, sobre la revisión de la tecnología, métodos y equipo con respecto al aseguramiento de la calidad;
 
 V. Elaborar y supervisar la aplicación del programa interno de auditorías de calidad;
 
@@ -1329,7 +1381,9 @@ VIII. Elaborar con los departamentos los programas de capacitación y supervisar
 
 IX. Coordinar las acciones encaminadas hacia la mejora continua del sistema;
 
-X. Representar al Coordinador de Control Analítico en la implantación, conducción y supervisión del Sistema de Calidad, así como en el seguimiento de cada una de las actividades que pudiesen comprometer su funcionamiento, para lo cual, podrá participar en la toma de decisiones e implementación de políticas, y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2010)</small>
+
+X. Representar al Coordinador del Laboratorio de Salud Pública en la implantación, conducción y supervisión del Sistema de Calidad, así como el seguimiento de cada una de las actividades que pudiesen comprometer su funcionamiento, para lo cual, podrá participar en la toma de decisiones e implementación de políticas, y
 
 XI. Las demás que este Reglamento y otras disposiciones legales, reglamentarias y administrativas de carácter general y el Comisionado le confieran.
 
@@ -2034,3 +2088,13 @@ TERCERO.- El Organismo deberá ajustar sus Manuales de Organización al presente
 P.O. 28 DE OCTUBRE DE 2009.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+P.O. 17 DE FEBRERO DE 2010.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. Las referencias hechas en otros instrumentos legales a la "Coordinación de Control Analítico" se entenderán hechas al "Laboratorio Estatal de Salud Pública".
+
+TERCERO. Los Manuales de Organización y Políticas y Procedimientos y demás instrumentos administrativos de identificación, deberán adecuarse al presente Reglamento en un plazo no mayor de 6 meses a partir de la entrada en vigor del presente Decreto a efecto de armonizarlos con el contenido del presente instrumento.
+
+CUARTO. El Organismo Público Descentralizado denominado Servicios de Salud de Morelos contará con un plazo no mayor a 60 días hábiles para cambiar la señalización en donde encuentre físicamente ubicado el "Laboratorio Estatal de Salud Pública", a efecto de que sea fácilmente identificado por los usuarios del mismo.
