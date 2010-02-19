@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-comite-de-inteligencia-y-seguridad-6364
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-01"
-last_updated: "2009-11-27"
+last_updated: "2010-02-19"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL COMITE DE INTELIGENCIA Y SEGURIDAD DE ESTADO Y DE LA OFICINA DE COORDINACION TECNICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO, PUBLICADO EN EL P.O. DE 19 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN EFECTO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de octubre de 2008.
 
@@ -434,3 +436,25 @@ P.O. 27 DE NOVIEMBRE DE 2009.
 PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Oficina de Coordinación Técnica deberá efectuar las gestiones que correspondan ante las dependencias estatales competentes a efecto de llevar a cabo los trámites administrativos, financieros y técnicos que sean necesarios para ejecutar el objeto del presente Acuerdo.
+
+P.O. 19 DE FEBRERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se dejan sin efecto el Decreto por el que se crea un Comité de Inteligencia y Seguridad de Estado y la Oficina de Coordinación Técnica, publicado en el Periódico Oficial del Estado de fecha 2 de abril de 2004; el Reglamento Interior del Comité de Inteligencia y Seguridad de Estado, publicado en el Periódico Oficial del Estado de fecha 1 de octubre de 2008; y el Acuerdo por el que se Reforma el Reglamento Interior del Comité de Inteligencia y Seguridad de Estado y de la Oficina de Coordinación Técnica, publicado en el Periódico Oficial del Estado de fecha 27 de noviembre de 2009.
+
+###### ARTÍCULO TERCERO.
+
+El Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza deberá elaborar y proponer al Titular del Poder Ejecutivo Estatal su Reglamento Interior dentro de los noventa días siguientes al de la fecha de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los bienes muebles, equipos, infraestructura tecnológica, archivos, registros y demás bienes asignados al Comité de Inteligencia y Seguridad de Estado y de la Oficina de Coordinación Técnica, pasan a formar parte del acervo, inventarios y demás bienes que se asignan para la operación del Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza.
+
+###### ARTÍCULO QUINTO.
+
+Se instruye a la Secretaría de Finanzas y Tesorería General del Estado y a la Contraloría y Transparencia Gubernamental, para que dentro del plazo máximo de noventa días contados a partir de la entrada en vigor del presente Decreto, implementen las medidas de carácter financiero, administrativo, de recursos humanos y de entrega recepción, necesarias para la debida operación del Centro de Infamación para la Seguridad de Estado, de Evaluación y Control de Confianza.
