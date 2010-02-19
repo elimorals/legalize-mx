@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2009-11-04"
+last_updated: "2010-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CODIGO NUMERO 577 HACENDARIO PARA EL MUNICIPIO DE COSOLEACAQUE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 4 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA SIN APLICACION EN EL MUNICIPIO DE COSOLEACAQUE, A PARTIR DE LA VIGENCIA DEL CITADO CODIGO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CODIGO NUMERO 820 HACENDARIO PARA EL MUNICIPIO DE COATEPEC DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 19 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO QUEDARA SIN APLICACION EN EL MUNICIPIO DE COATEPEC, A PARTIR DE LA VIGENCIA DEL CITADO CODIGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -6162,3 +6162,15 @@ Primero. El presente Código entrará en vigor al día siguiente de su publicaci
 Segundo. En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado el 22 de noviembre del 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Cosoleacaque, del estado de Veracruz de Ignacio de la Llave, a partir de la vigencia del presente Código.
 
 Tercero. En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento recibos oficiales expedidos por la Tesorería Municipal o de otros documentos probatorios.
+
+G.O. 19 DE FEBRERO DE 2010.
+
+Primero. El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Coatepec, Veracruz, a partir de la vigencia del presente Código.
+
+Tercero. Los reglamentos municipales y demás disposiciones legales vigentes en el municipio de Coatepec, Veracruz de Ignacio de la Llave, que aludan al Código que se señala en el artículo anterior se entenderán referidos al presente Código.
+
+Cuarto. Las contribuciones, los créditos fiscales y los procedimientos administrativos generados bajo la vigencia del Código número 302 Hacendario para el Estado de Veracruz de Ignacio de la Llave, se cobrarán, tramitarán y resolverán conforme a dicho ordenamiento legal hasta su conclusión.
+
+Quinto. La Ley de Ingresos del Municipio para el ejercicio fiscal 2010 deberá ajustarse a las disposiciones y considerar las previsiones de ingresos por los conceptos establecidos en el Libro Tercero del presente Código.
