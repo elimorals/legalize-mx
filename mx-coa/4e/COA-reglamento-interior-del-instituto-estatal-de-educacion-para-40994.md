@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-instituto-estatal-de-educacion-para-409
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-31"
-last_updated: "2004-08-31"
+last_updated: "2010-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE EDUCACION PARA ADULTOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE EDUCACION PARA ADULTOS, PUBLICADO EN EL P.O. DE 19 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el martes 31 de agosto de 2004.
 
@@ -1180,3 +1182,13 @@ Director General del Instituto Estatal de Educación para Adultos
 C.P. GUILLERMO MACIAS SUÁREZ
 
 Comisario del Instituto Estatal de Educación para Adultos
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DE DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE FEBRERO DE 2010.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Estatal de Educación para Adultos, publicado en el Periódico Oficial del Gobierno del Estado número 70, del 31 de agosto de 2004 y se derogan todas las disposiciones que se opongan a este reglamento.
+
+TERCERO. Todo el personal adscrito al Instituto Estatal de Educación para Adultos en Coahuila, que incurra en responsabilidad de carácter administrativo será sujeto a lo establecido por la Ley de Responsabilidades para los Trabajadores al Servicio del Estado y de los Municipios y demás ordenamientos legales que regulen las relaciones laborales del mismo.
