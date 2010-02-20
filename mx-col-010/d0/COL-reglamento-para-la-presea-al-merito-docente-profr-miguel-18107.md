@@ -4,7 +4,7 @@ identifier: "COL-reglamento-para-la-presea-al-merito-docente-profr-miguel-18107"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-30"
-last_updated: "2000-09-30"
+last_updated: "2010-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # REGLAMENTO PARA LA PRESEA AL MERITO DOCENTE "PROFR. MIGUEL VIRGEN MORFIN" DEL H. AYUNTAMIENTO DE VILLA DE ALVAREZ
 
-REGLAMENTO DE LA PRESEA AL MERITO DOCENTE "PROFR. MIGUEL VIRGEN MORFIN"
+REGLAMENTO DE LA PRESEA AL MERITO DOCENTE "PROFR. MIGUEL VIRGEN MORFIN" DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 30 de septiembre de 2000.
 
@@ -39,7 +39,7 @@ REGLAMENTO PARA LA PRESEA AL MERITO DOCENTE "PROFR. MIGUEL VIRGEN MORFÍN", APRO
 
 CONSIDERANDOS.
 
-QUINTO.- Que el Profr. Miguel Virgen Morfín nació el 29 de septiembre de 1908 y es un distinguido miembro de la sociedad villalvarense y trabajó durante más de 50 años en las escuelas de Colima, Comala y Villa de Álvarez y sin excepción en todos esos lugares el maestro ha dejado una huella cálida, humana y constructiva, y que una de sus obras fue la fundación de Esc .Sec No. 13 que actualmente lleva su nombre.
+QUINTO.- Que el Profr. Miguel Virgen Morfín nació el 29 de septiembre de 1908 y es un distinguido miembro de la sociedad villalvarense y trabajó durante más de 50 años en las escuelas de Colima, Comala y Villa de Álvarez y sin excepción en todos esos lugares el maestro ha dejado una huella cálida, humana y constructiva, y que una de sus obras fue la fundación de Esc. Sec. No. 13 que actualmente lleva su nombre.
 
 REGLAMENTO DE LA PRESEA AL MERITO DOCENTE "PROFR. MIGUEL VIRGEN MORFÍN".
 
@@ -51,13 +51,19 @@ El presente reglamento establece y regula el procedimiento para el otorgamiento 
 
 Artículo 2° El Ayuntamiento Constitucional de Villa de Álvarez otorgará la presea al mérito docente como reconocimiento público a los maestros que laboran en los centros educativos del municipio de Villa de Álvarez desde los niveles más elementales hasta la educación superior.
 
-Artículo 3° El reconocimiento presea al mérito docente, consta de un diploma, una medalla y 812.5 (sic) salarios mínimos en efectivo.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2010)</small>
 
-Artículo 4° La medalla será de oro y tendrá en su anverso el escudo del municipio de Villa de Álvarez, los años que correspondan al ejercicio, y la inscripción de Dirección de Educación, Cultura y Deporte. En el reverso se grabará la imagen del Profr. Miguel Virgen Morfín y la leyenda "MEDALLA AL MÉRITO DOCENTE PROFR. MIGUEL VIRGEN MORFIN", del mismo modo se inscribirá el año en que se otorga, además deberá pender de una cinta que permita ser colocada en el cuello.
+Artículo 3° El reconocimiento presea al mérito docente, consta de 3 Diplomas, 3 medallas y 184 salarios mínimos al primer lugar, 129 salarios mínimos al segundo lugar y 92 salarios mínimos al tercer lugar en efectivo.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2010)</small>
+
+Artículo 4° Las medallas serán de Oro, Plata y Bronce y tendrá en su anverso el escudo del municipio de Villa de Álvarez, los años que correspondan al ejercicio, y la inscripción de Dirección de Educación y Cultura. En el reverso se grabará la imagen del Profr. Miguel Virgen Morfín y la leyenda "MEDALLA AL MÉRITO DOCENTE PROFR. MIGUEL VIRGEN MORFIN", del mismo modo se inscribirá el año en que se otorga, además deberán de pender de una cinta que permita ser colocada en el cuello.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 5º.
 
-El diploma enumerará los motivos por los que se otorga el reconocimiento y será firmado por el Presidente, Secretario, el Director de Educación Cultura y Deporte así como los integrantes de la comisión de educación del Cabildo.
+Los Diplomas enumerarán los motivos por los que se otorga el reconocimiento y será firmado por el Presidente, Secretario, el Director de Educación y Cultura, así como los integrantes de la comisión de educación del Cabildo.
 
 Artículo 6° El jurado se integrará por tres personalidades y de la siguiente manera:
 
@@ -67,11 +73,15 @@ b).- Una segunda a propuesta del H. Cabildo; y
 
 c).- Una tercera a propuesta de la Dirección de Educación, Cultura y Deporte.
 
-Artículo 7° El Ayuntamiento Constitucional de Villa de Álvarez, convocará cada año, en el mes de enero, a través de la Dirección de Educación, Cultura y Deporte, a la población en general, organizaciones sociales, instituciones educativas, académicas y demás instituciones que representen al medio cultural y social del municipio, para que propongan candidatos a la presea al mérito docente que como resultado de su desempeño en la docencia, su entrega al trabajo, su eficiencia y por sus valores morales y éticos de los maestros, sean merecedores del premio.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2010)</small>
+
+Artículo 7° El Ayuntamiento Constitucional de Villa de Álvarez, convocará cada año, en el mes de enero, a través de la Dirección de Educación y Cultura, a la población en general, organizaciones sociales, instituciones educativas, académicas y demás instituciones que representen al medio cultural y social del municipio, para que propongan candidatos a la presea al mérito docente que como resultado de su desempeño en la docencia, su entrega al trabajo, su eficiencia y por sus valores morales y éticos de los maestros, sean merecedores del premio.
 
 La Convocatoria será elaborada por la Dirección antes citada y aprobada por el Cabildo en pleno, se publicará a través de los medios escritos y se exhibirá en la mayoría de los lugares públicos y se remitirá a todos los centros educativos del municipio.
 
 Artículo 8° El periodo para el registro de candidatos a recibir la presea Profr. Miguel Virgen Morfín al mérito docente será del 1° de febrero al 15 de abril de cada año.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO DE REFORMAS, P.O. 20 DE FEBRERO DE 2010]</small>
 
 Artículo 9° El jurado conocerá y estudiará las propuestas de candidatos a recibir el reconocimiento y además elaborará el dictamen correspondiente y lo turnará al Cabildo para que éste lo haga suyo oficialmente.
 
@@ -79,13 +89,17 @@ El jurado deberá integrar un expediente de cada uno de los candidatos, que debe
 
 a).- Constancia de servicio, así como su antigüedad;
 
-b).- Cédulas de puntaje de carrera magisterial de tres años anteriores a la del año en que se concursa o su equivalente de las instituciones de educación superior;
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2010)</small>
 
-c).- Diplomas, reconocimientos, notas laudatorias, entre otros:
+b).- Diplomas, reconocimientos, notas laudatorias, entre otros;
 
-d).- Carta de postulación de la institución o grupo de ciudadanos que la proponen y;
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2010)</small>
 
-e).- Constancias de servicios sociales y/o obras de beneficio a la comunidad.
+c).- Carta de postulación de la institución o grupo de ciudadanos que la proponen y;
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2010)</small>
+
+d).- Constancias de servicios sociales y/o obras de beneficio a la comunidad.
 
 Aclarándose, que no se aceptaran constancias y reconocimientos expedidos por agrupaciones y partidos políticos.
 
@@ -106,3 +120,17 @@ Artículo Primero. El presente reglamento entrará en vigor al día siguiente de
 Dado en la Presidencia Municipal de Villa de Álvarez, Colima a los 4 cuatro días del mes de septiembre del año 2000 dos mil.
 
 C. César Cruz Calvario, Presidente Municipal.- Rúbrica.- C.P. Fernando Ramírez González, Síndico Municipal.- Rúbrica.- C. Ma. de Jesús Sandoval Solorio, Regidora.- Rúbrica.- C. Laura López García, Regidora.- Rúbrica.- C. Ramona Carbajal Cárdenas, Regidora.- Rúbrica.- C. José Reyes Topete Dueñas, Regidor.- Rúbrica.- C. Jesús Beltrán Cuellar, Regidor.- Rúbrica.- C. Agustín Negrete Mendoza, Regidor.- Rúbrica.- Reene (sic) Díaz Mendoza, Regidor.- Rúbrica.- C. Humberto Martínez Zamora, Regidor.- Rubrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE FEBRERO DE 2010.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA Y ADICIÓN A LOS ARTÍCULOS 3, 4, 5, 7 Y 9 INCISO B) DEL REGLAMENTO DE LA PRESEA AL MÉRITO DOCENTE "MIGUEL VIRGEN MORFÍN", DEL MUNICIPIO DE VILLA DE ÁLVAREZ, COLIMA".]
+
+###### ARTÍCULO PRIMERO
+
+Las presentes Reformas y Adiciones empezarán a regir al día siguiente de su publicación en el Diario Oficial del Estado de Colima.
+
+###### ARTÍCULO SEGUNDO
+
+Se derogan los preceptos de cualquier otro reglamento que contradiga lo señalado en esta reforma.
