@@ -4,7 +4,7 @@ identifier: "VER-ley-que-crea-el-instituto-veracruzano-de-la-cultura-12197"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-10"
-last_updated: "1987-02-10"
+last_updated: "2010-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 61 QUE CREA EL INSTITUTO VERACRUZANO DE LA CULTURA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el martes 10 de febrero de 1987.
 
@@ -47,9 +47,11 @@ QUE CREA EL INSTITUTO VERACRUZANO DE LA CULTURA.
 
 Se crea el Instituto Veracruzano de la Cultura, como un organismo descentralizado con personalidad jurídica y patrimonio propio, con sede en el puerto de Veracruz.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 2o.
 
-El Instituto tendrá como objeto auspiciar, promover y difundir la actividad cultural por medio de la afirmación y consolidación de los valores locales, regionales y nacionales, y de fomento e impulso a las artes; a la preservación del patrimonio arqueológico e histórico, así como de la protección y estímulo a las expresiones de la cultura popular, a fin de propiciar y alentar la participación en este renglón de los habitantes del Estado y coadyuvar en el cumplimiento de los fines que en materia cultural establece la Ley Orgánica de la Administración Pública del Estado de Veracruz.
+El Instituto tendrá como objeto auspiciar, promover y difundir la actividad cultural por medio de la afirmación y consolidación de los valores locales, regionales y nacionales, y de fomento e impulso a las artes; a la preservación del patrimonio arqueológico e histórico, así como de la protección y estímulo a las expresiones de la cultura popular, a fin de propiciar y alentar la participación en este renglón de los habitantes del Estado y coadyuvar en el cumplimiento de los fines que en materia cultural establece la legislación del Estado.
 
 ###### ARTICULO 3o.
 
@@ -71,13 +73,17 @@ VII.- Celebrar convenios con el Instituto Nacional de Antropología e Historia, 
 
 VIII.- Suscribir convenios con organismos culturales, ya sean municipales, estatales o nacionales, para llevar acabo (sic) programas de intercambio cultural y artístico, así como con otros organismos que para sus fines así convengan, además de organizaciones, sociedades civiles o personas físicas o morales de carácter público o privado.
 
-IX.- Promover la realización de eventos y reuniones regionales y nacionales, de carácter cultural.
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+IX.- Promover la realización de eventos y reuniones regionales, nacionales e internacionales, de carácter cultural.
 
 X.- Realizar todo tipo de actividades editoriales en libros, discos, folletos, revistas y otras publicaciones en general, de investigación, creación e información artística y cultural.
 
 XI.- Administrar, conservar y operar los centros y casas de cultura que le sean asignadas, así como otras instalaciones consecuentes al cumplimiento de su objetivo.
 
-XII.- Establecer relación con organismos del sector público federal, estatal, municipal, así como del sector privado, cuyos fines estén relacionados con la cultura.
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+XII.- Establecer relación con organismos del sector público federal, estatal, municipal e internacional, así como del sector privado, cuyos fines estén relacionados con la cultura.
 
 XIII.- Producir programas culturales de radio y televisión, así como documentales cinematográficos.
 
@@ -93,31 +99,33 @@ II.- Un Patronato; y
 
 III.- Un Director General.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 5o.
 
 El Consejo Directivo estará integrado de la siguiente forma:
 
-I.- El Gobernador del Estado, que fungirá como Presidente;
+I.- El Gobernador del Estado, quien fungirá como presidente;
 
-II.- El Secretario de Educación y Cultura que será el Vicepresidente;
+II.- El secretario de Turismo y Cultura, que será el vicepresidente;
 
-III.- El Rector de la Universidad Veracruzana;
+III.- El secretario de Educación;
 
-IV.- El Presidente de la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia;
+IV.- El secretario de Finanzas y Planeación;
 
-V.- El Secretario de Finanzas y Planeación;
+V.- El rector de la Universidad Veracruzana;
 
-VI.- El Director General de Educación Popular;
+VI.- El presidente de la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia; y
 
-VII.- El Director General de Enseñanza Media;
+VII.- Un representante del Patronato designado de entre sus miembros.
 
-VIII.- Un Representante del Patronato, designado de entre sus miembros;
+El Consejo contará con un secretario técnico que será el director general del Instituto, quien tendrá la obligación de asistir a las sesiones con voz pero sin voto.
 
-IX.- El Director General del Instituto, que será el Secretario.
+Se invitará a participar en las sesiones del Consejo a los representantes de los Institutos Nacional de Antropología e Historia; Nacional de Bellas Artes y Nacional Indigenista, quienes tendrán derecho a voz pero sin voto.
 
-Se invitará a la Secretaría de Educación Pública, a fin de que si lo juzga conveniente, designe representantes de las Direcciones Generales de Bibliotecas de Culturales Populares; de Publicaciones y Medios; y de Promoción Cultural ante el Consejo.
+Además, se podrá invitar a representantes de organismos públicos y privados cuyo objeto tenga relación con el del Instituto.
 
-Con el mismo propósito a que se refiere el párrafo anterior, se invitará a los Institutos de Antropología e Historia; de Bellas Artes y Nacional Indigenista.
+Cada integrante del Consejo Directivo nombrará a su respectivo suplente en sus ausencias temporales.
 
 ###### ARTICULO 6o.
 
@@ -125,7 +133,9 @@ Son facultades y obligaciones del Consejo Directivo:
 
 I.- Estudiar y en su caso, aprobar los programas y proyectos necesarios para el cumplimiento de los fines del Instituto que le presente el Director General;
 
-II.- Establecer la coordinación que en materia de política cultural deberá seguir el Instituto con la Secretaría de Educación y Cultura;
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+II.- Establecer la coordinación que en materia de política cultural deberá seguir el Instituto con la Secretaría de Turismo y Cultura;
 
 III.- Aprobar su presupuesto anual de Egresos;
 
@@ -133,7 +143,9 @@ IV.- Establecer la coordinación necesaria a efecto de difundir las actividades 
 
 V.- Proponer al Gobierno del Estado la modificación de la estructura administrativa del Instituto, creando o suprimiendo unidades administrativas, de acuerdo con las necesidades del servicio;
 
-VI.- Proponer al Titular del Poder Ejecutivo, el Reglamento Interior del Instituto;
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+VI.- Aprobar el Reglamento Interior del Instituto;
 
 VII.- Conocer y en su caso, aprobar el Informe Semestral de actividades que rinda el Director General;
 
@@ -167,9 +179,11 @@ III.- Llevar a cabo actividades tendientes a recabar fondos que contribuyan al c
 
 IV.- Las demás que le señalen otros ordenamientos.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 12.
 
-El Patronato estará integrado por el Secretario de Finanzas y Planeación, que lo presidirá y se invitará a representantes de los sectores sociales y privados, a que participen en las tareas del Instituto.
+El Patronato estará integrado por el secretario de Finanzas y Planeación, quien lo presidirá, y se invitará a representantes de los sectores social y privado a que participen en las tareas del Instituto. El presidente podrá nombrar a un representante en sus ausencias temporales.
 
 ###### ARTICULO 13.
 
@@ -187,9 +201,13 @@ El Director General del Instituto será nombrado y removido libremente por el Go
 
 El Director General del Instituto tendrá las siguientes facultades y obligaciones:
 
-I.- Elaborar los proyectos y programas del Instituto y someterlos a la aprobación del Consejo;
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
-II.- Formular y presentar al Consejo, para su aprobación en su caso, el Presupuesto Anual de Egresos del Instituto;
+I.- Elaborar los proyectos y programas del Instituto, así como su Reglamento Interior, y someterlos a la aprobación del Consejo;
+
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+II.- Formular y presentar al Consejo, para su aprobación, en su caso, los Presupuestos Anuales de Ingresos y Egresos del Instituto;
 
 III.- Rendir al Consejo Directivo un informe semestral de las actividades del Instituto;
 
@@ -203,9 +221,11 @@ VII.- Representar legalmente el Instituto;
 
 VIII.- Las demás que le señalen otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### ARTICULO 17.
 
-Las relaciones de trabajo del Instituto se regirán conforme a lo establecido en la Ley número 51 del Estatuto Jurídico de los Trabajadores al Servicio del Estado.
+Las relaciones laborales del Instituto se regirán conforme a lo establecido en la Ley Federal del Trabajo.
 
 ###### ARTICULO 18.
 
@@ -225,6 +245,12 @@ IV.- Las aportaciones que le haga el Patronato del Instituto;
 
 V.- Los bienes muebles e inmuebles y los derechos de toda clase que en el futuro adquiera, le otorguen, donen o cedan las instituciones públicas y privadas y los particulares, por cualquier título legal.
 
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+###### ARTICULO 20.
+
+El Instituto contará con un Órgano Interno de Control, dependiente de la Contraloría General del Estado, con las atribuciones que señala la normatividad aplicable, cuyo titular y demás personal serán designados y removidos de conformidad a lo establecido por la Ley Orgánica del Poder Ejecutivo del Estado y la normatividad correspondiente.
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
@@ -238,3 +264,13 @@ La Secretaría de Finanzas y Planeación proveerá de todo lo necesario para que
 DADA en la Sala de Sesiones de la Honorable Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Veracruz-Llave, en la ciudad de Xalapa-Enríquez, su capital, a los veintinueve días del mes de enero de mil novecientos ochenta y siete.- Lic. Miguel Angel Díaz Pedroza, Diputado Presidente.- Rúbrica.- Profra. Martha S. Sánchez de Orta, Diputado Secretario.- Rúbrica".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 87 y primer párrafo del artículo 93 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los cuatro días del mes de febrero de mil novecientos ochenta y siete.- FERNANDO GUTIERREZ BARRIOS.- El Secretario de Educación y Cultura, GUILLERMO ZÚÑIGA MARTINEZ.- El Secretario de Finanzas y Planeación, RAUL OJEDA MESTRE.- El Secretario General de Gobierno, DANTE DELGADO RANNAURO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE FEBRERO DE 2010.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado.
+
+Segundo. El Instituto deberá realizar las adecuaciones correspondientes a su normatividad interior.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
