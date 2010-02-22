@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2009-12-11"
+last_updated: "2010-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -887,9 +887,9 @@ No podrá ser diputado:
 
 I.- El Gobernador en ejercicio, aún cuando se separe definitivamente de su puesto, cualesquiera sea su calidad, el origen y la forma de designación.
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
-II.- Los Secretarios de Despacho dependientes del Ejecutivo, el Procurador General de Justicia, el Titular del Organo Superior de Fiscalización del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquier otro servidor público que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo noventa días antes de la fecha de la elección.
+II.- Los Secretarios de Despacho dependientes del Ejecutivo, el Procurador General de Justicia, el Titular del Órgano de Fiscalización Superior del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces y cualquier otro servidor público que desempeñe cargo público estatal, a menos que se separe definitivamente de su cargo noventa días antes de la fecha de la elección.
 
 III.- Los presidentes municipales o quienes ocupen cualquier cargo municipal, a menos que se separe (sic) del mismo 90 días antes de la elección.
 
@@ -897,7 +897,7 @@ III.- Los presidentes municipales o quienes ocupen cualquier cargo municipal, a 
 
 IV.- Los servidores públicos federales que realicen sus funciones en el Estado, a menos que se separen de ellas 90 días antes de la fecha de la elección.
 
-V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos a más tardar 90 días anteriores a la elección, y
+V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos a más tardar 90 días anteriores a la elección, y (sic)
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
 
@@ -1047,11 +1047,11 @@ II.- Expedir leyes reglamentarias y ejercer las facultades explícitas otorgadas
 
 III.- Iniciar leyes y decretos ante el Congreso de la Unión.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
-IV.- Expedir su Ley Orgánica y su Reglamento Interior, así como la Ley del Organo Superior de Fiscalización del Estado y su Reglamento Interior;
+IV.- Expedir su Ley Orgánica y su Reglamento Interior, así como la Ley del Órgano de Fiscalización Superior del Estado y su Reglamento Interior.
 
-La Legislatura del Estado coordinará y evaluará, a través de la Comisión de Hacienda Presupuesto y Cuenta, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Organo Superior de Fiscalización del Estado, en los términos que disponga la ley.
+La Legislatura del Estado coordinará y evaluará, a través de la Comisión de Hacienda, Presupuesto y Cuenta, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Organo de Fiscalización Superior del Estado, en los términos que disponga la ley.
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
 
@@ -1125,21 +1125,21 @@ XXVI.- Legislar acerca de la administración, conservación y enajenación de lo
 
 XXVII.- Aprobar o rechazar las concesiones otorgadas por el ejecutivo.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
-XXVIII.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución o en la Ley correspondiente, a los titulares de las dependencias del Poder Legislativo, así como al Titular del Organo Superior de Fiscalización del Estado;
+XXVIII.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución o en la Ley correspondiente, a los titulares de las dependencias del Poder Legislativo, así como al Titular del Órgano de Fiscalización Superior del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 XXIX.- Examinar y aprobar, en su caso, la cuenta pública del Gobierno del Estado, correspondiente al año anterior, que será presentada a más tardar el 5 de abril posterior al año del ejercicio fiscal que corresponda.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
-Para la revisión de la cuenta pública, la Legislatura se apoyará en el Organo Superior de Fiscalización del Estado.
+Para la revisión de la cuenta pública, la legislatura se apoyará en el Órgano de Fiscalización Superior del Estado. Si del examen que éste realice aparecieran discrepancias entre las cantidades correspondiente a los ingresos o a los egresos, con relación a los conceptos y a las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, el Órgano de Fiscalización Superior del Estado podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley.
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
-XXX.- Aprobar las Leyes de Ingresos Municipal y Estatal y el presupuesto de egresos del Estado, determinando en cada caso, las partidas correspondientes para cubrirlas.
+XXX.- Aprobar las leyes de ingresos municipal y estatal y el presupuesto de egresos del Estado, determinando en cada caso, las partidas correspondientes para cubrirlas. Asimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Estado.
 
 XXXI.- Crear y suprimer (sic) empleos públicos y fijar sus emolumentos.
 
@@ -1207,7 +1207,9 @@ I.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria a sesiones extr
 
 II.- Instalar y presidir la primera Junta Preparatoria de la nueva Legislatura;
 
-III.- Nombrar interinamente a los titulares de las dependencias del Poder Legislativo, así como al titular del Organo Superior de Fiscalización del Estado;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+III.- Nombrar interinamente a los titulares de las Dependencias del Poder Legislativo, así como al Titular del Órgano de Fiscalización Superior del Estado;
 
 IV.- Resolver los asuntos de su competencia y recibir durante los recesos de la Legislatura las iniciativas de ley y proposiciones que le dirijan turnándolas para dictamen, a fin de que se despachen en el período inmediato de sesiones;
 
@@ -1235,33 +1237,89 @@ XIII.- Las demás que le confiera expresamente esta Constitución.
 
 #### SECCION SEXTA. De la Fiscalización del Estado
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 77.
 
-El Organo Superior de Fiscalización de la Legislatura del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio.
+El Órgano de Fiscalización Superior del Estado, de la Legislatura, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio.
 
-El titular del Organo Superior de Fiscalización del Estado será designado por el voto de las dos terceras partes de los integrantes de la Legislatura. La ley correspondiente determinará el procedimiento para su designación. Dicho titular durará en su encargo cinco años y podrá ser nombrado nuevamente por una sola vez pero no podrá, durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
-Para ser titular del Organo Superior de Fiscalización del Estado se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV y V del artículo 101 de esta constitución, los que señale la Ley del Organo Superior de Fiscalización del Estado.
+La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
 
-El Organo Superior de Fiscalización del Estado tendrá a su cargo:
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
-I.- Revisar y fiscalizar en forma posterior la cuenta pública que los Gobiernos, Estatal y Municipales le presenten sobre su gestión financiera, a efecto de comprobar que la recaudación, manejo, custodia y aplicación de los ingresos y egresos durante un ejercicio fiscal, se ejercieron con apego a los criterios y disposiciones legales aplicables y determinar el grado de cumplimiento de los objetivos contenidos en los planes y programas aprobados conforme a la ley. La fiscalización también procederá respecto a la recaudación, administración, manejo o ejercicio de los recursos públicos que realice cualquier persona física o moral, pública o privada.
+El Titular del Órgano de Fiscalización Superior del Estado será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura. La ley correspondiente determinará el procedimiento para su designación. Dicho titular durará en su encargo siete años y no podrá, durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
-II.- Entregar a la Legislatura Estatal el informe de resultados de la revisión y fiscalización de la Cuenta Pública, a más tardar el 27 de septiembre del mismo año de su presentación al Órgano Superior de Fiscalización. El informe de resultado tendrá el carácter de público e incluirá los dictámenes de la revisión y el apartado correspondiente a la fiscalización del cumplimiento de los objetivos de los planes y programas aprobados. El Órgano Superior de Fiscalización del Estado tendrá la obligación de guardar reserva respecto de sus actuaciones e informaciones hasta la fecha en que se entregue a la Legislatura Estatal el propio informe.
+Para ser Titular del Órgano de Fiscalización Superior del Estado, se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV y V del artículo 101 de esta Constitución, los que señale la Ley del Órgano de Fiscalización Superior del Estado. En todo caso, deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+La Legislatura del Estado, al elegir al Titular del Órgano de Fiscalización Superior, elegirá un titular suplente, en los términos previstos en los dos párrafos anteriores, quien cubrirá las ausencias o falta (sic) definitivas del Titular del Órgano de Fiscalización del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+El Organo de Fiscalización Superior del Estado tendrá a su cargo:
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+I.- Revisar y fiscalizar en forma posterior la cuenta pública que los gobiernos, estatal y municipales le presenten sobre su gestión financiera, a efecto de comprobar que la recaudación, manejo, custodia y aplicación de los ingresos y egresos durante un ejercicio fiscal, se ejercieron con apego a los criterios y disposiciones legales aplicables y determinar el grado de cumplimiento de los objetivos contenidos en los planes y programas aprobados conforme a la ley. La fiscalización también procederá respecto a la recaudación, administración, manejo o ejercicio de los recursos públicos que realice cualquier persona física o moral, pública o privada.
+
+También fiscalizará directamente los recursos estatales y municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los usuarios del sistema financiero.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+II.- Entregar a la Legislatura Estatal el informe de resultados de la revisión y fiscalización de la cuenta pública, a más tardar el 27 de septiembre del mismo año de su presentación al Órgano de Fiscalización Superior del Estado de Quintana Roo. Dicho informe contendrá al menos, las auditorías practicadas, los dictámenes de su revisión, el apartado correspondiente a la fiscalización del manejo de los recursos estatales o municipales, así como de las participaciones federales o estatales en su caso, por parte de las entidades fiscalizadas y a la verificación del desempeño en el cumplimiento de los objetivos de los programas estatales o municipales, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la ley de la materia o al presupuesto de egresos que corresponda, el análisis de las desviaciones presupuestarias en su caso, así como también un apartado específico con las observaciones del Órgano de Fiscalización Superior del Estado que incluya las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+
+Para tal efecto, de manera previa a la presentación del informe del resultado, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por el Órgano de Fiscalización Superior del Estado para la elaboración del informe del resultado de la revisión de la Cuenta Pública.
+
+El Titular del Órgano de Fiscalización Superior del Estado enviará a las entidades fiscalizadas, a más tardar a los 3 días hábiles posteriores a que sea entregado a la Legislatura el informe del resultado, las recomendaciones y acciones promovidas que correspondan para que, en un plazo de hasta 5 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en la ley. Este término podrá ser ampliado hasta por 5 días hábiles más, previa petición y si a juicio del Titular del Órgano de Fiscalización Superior así lo amerita el caso en concreto. Los plazos anteriores no aplicarán a los pliegos de observaciones y a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la ley.
+
+El Órgano de Fiscalización Superior del Estado deberá pronunciarse en un plazo de 15 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas; en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
+
+En el caso de las recomendaciones al desempeño, las entidades fiscalizadas deberán precisar ante el Órgano de Fiscalización Superior del Estado las mejoras realizadas o, en su caso, justificar su improcedencia.
+
+El Órgano de Fiscalización Superior del Estado deberá entregar a la Legislatura, en los meses de julio y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas.
+
+El Órgano de Fiscalización Superior del Estado tendrá la obligación de guardar reserva respecto de sus actuaciones e informaciones hasta la fecha en que se entregue a la Legislatura el informe de resultados.
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
 III.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros y documentos indispensables para realizar sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos.
 
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
+
 IV.- Determinar los daños y perjuicios que afecten la Hacienda Pública o al Patrimonio de los Poderes del Estado o de los Municipios, o al patrimonio de los entes públicos estatales y municipales y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades, incluyendo las referidas en el título Octavo de esta Constitución y presentar las denuncias o querellas penales, en los términos y con las formalidades que señale la ley.
 
-Los Poderes del Estado, los Municipios y demás entes públicos que deban ser fiscalizados facilitarán los auxilios que requiera el Organo Superior de Fiscalización del Estado para el ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+Los Poderes del Estado, los Municipios y demás entes públicos que deban ser fiscalizados facilitarán los auxilios que requiera el Órgano de Fiscalización Superior del Estado para el ejercicio de sus funciones.
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
 V.- Las demás facultades y atribuciones que le otorguen las leyes respectivas.
 
-La fiscalización que realice el Organo Superior de Fiscalización del Estado se ejercerá de manera posterior a la gestión financiera y tiene carácter externo por lo que se llevará a cabo de manera independiente y autónoma de cualquier otra forma de control o fiscalización interna de los sujetos que sean fiscalizables conforme a la ley de la materia.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+La fiscalización que realice el Órgano de Fiscalización Superior del Estado, se ejercerá de manera posterior a la gestión financiera y tiene carácter externo por lo que se llevará a cabo de manera independiente y autónoma de cualquier otra forma de control o fiscalización interna de los sujetos que sean fiscalizables conforme a la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+Sin perjuicio del principio de anualidad, el Órgano de Fiscalización Superior podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales o municipales. Las observaciones y recomendaciones, que al respecto emita el Órgano de Fiscalización Superior del Estado, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la ley, derivado de denuncias, podrá requerir a las entidades fiscalizadas que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se impondrán las sanciones previstas en la misma. El Órgano de Fiscalización Superior rendirá un informe específico a la Legislatura y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+De igual forma, los servidores públicos estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos federales, estatales o municipales deberán proporcionar la información y documentación que solicite el Órgano de Fiscalización Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+Las entidades fiscalizadas, deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados.
 
 #### SECCION PRIMERA. Del Gobernador
 
@@ -1297,9 +1355,9 @@ IV.- No ser militar en servicio activo o ciudadano con mando en los cuerpos de s
 
 V.- No ser Secretario de Estado o Jefe de Departamento, Ministro de la Suprema Corte de Justicia de la Nación o Procurador General de Justicia de la Nación, en funciones, dentro de los noventa días anteriores a la fecha de la elección.
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
-VI.- No ser Secretario o Subsecretario del despacho, Director de Organismos Descentralizados o Empresas de Participación Estatal, Oficial Mayor, Procurador General de Justicia del Estado, el Titular del Organo Superior de Fiscalización del Estado o Magistrado del Tribunal Superior de Justicia, a menos que se separe del cargo noventa días antes de la fecha de la elección.
+VI.- No ser Secretario o Subsecretario del despacho, Director de Organismos Descentralizados o Empresas de Participación Estatal, Oficial Mayor, Procurador General de Justicia del Estado, Titular del Órgano de Fiscalización Superior del Estado o Magistrado del Tribunal Superior de Justicia, a menos que se separe del cargo noventa días antes de la fecha de la elección.
 
 VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 89 de esta Constitución.
 
@@ -1909,11 +1967,11 @@ Si al iniciarse el año fiscal no se hubiere aprobado el Presupuesto de Egresos 
 
 No podrá hacerse pago alguno que no esté comprendido en el Presupuesto de Egresos o determinado por ley posterior.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 122.
 
-Las cuentas de los caudales públicos deberán glosarse sin excepción por el Organo Superior de Fiscalización del Estado.
+Las cuentas de los caudales públicos deberán glosarse sin excepción por el Organo de Fiscalización Superior del Estado.
 
 ###### ARTICULO 123.
 
@@ -2577,9 +2635,9 @@ Para los efectos de las responsabilidades a que alude este Título, se reputará
 
 La Legislatura del Estado expedirá una Ley de Responsabilidades de los Servidores Públicos, así como las demás disposiciones que sancionen conductas que entrañen responsabilidad de los servidores públicos conforme a las siguientes prevenciones:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
 
-I. Se impondrá mediante Juicio Político; al Gobernador del Estado, a los Diputados de la Legislatura, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral de Quintana Roo, Consejeros de la Judicatura del Poder Judicial, Magistrados de los Tribunales Unitarios, Jueces de Fuero Común, al Titular del Órgano Superior de Fiscalización, a los Consejeros Electorales del Consejo General, así como el Secretario General del Instituto Electoral de Quintana Roo, Secretarios y Subsecretarios del Despacho, Procurador General de Justicia del Estado, Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+I. Se impondrá mediante Juicio Político; al Gobernador del Estado, a los Diputados de la Legislatura, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral de Quintana Roo, Consejeros de la Judicatura del Poder Judicial, Magistrados de los Tribunales Unitarios, Jueces de Fuero Común, al Titular del Órgano de Fiscalización Superior, a los Consejeros Electorales del Consejo General, así como el Secretario General del Instituto Electoral de Quintana Roo, Secretarios y Subsecretarios del Despacho, Procurador General de Justicia del Estado, Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
 Cualquier ciudadano bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
 
@@ -2652,6 +2710,14 @@ El Gobernador del Estado, los Secretarios del Despacho, el Procurador General de
 ###### ARTICULO 166.
 
 Ninguna autoridad impondrá préstamos forzosos, ni se hará gasto alguno que no esté determinado en los presupuestos de egresos o que no sea aprobado por la Legislatura. Incurrirán en responsabilidad los servidores públicos que así lo ordenen.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+Los recursos económicos de que disponga el Estado y los Municipios se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+Los resultados de dichos recursos serán evaluados por las instancias técnicas que sean competentes, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -3330,3 +3396,21 @@ DECRETO NO. 198, POR EL QUE SE REFORMAN LOS ARTICULOS SEGUNDO Y TERCERO TRANSITO
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 22 DE FEBRERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+El nuevo esquema de revisión y fiscalización de la Cuenta Pública que contiene el presente Decreto, se aplicará a partir del ejercicio fiscal correspondiente al Ejercicio Fiscal de 2010.
+
+###### ARTÍCULO TERCERO.
+
+La Legislatura del Estado llevará a cabo la elección del Titular del Órgano de Fiscalización Superior del Estado y de su suplente, en los términos previstos en los párrafos tercero, cuarto y quinto del artículo 77 que se reforma mediante el presente Decreto, a más tardar el día 15 de abril del año 2010. Hasta en tanto, continuará en sus funciones el actual Auditor Superior del Estado, sin perjuicio de que, en su caso, sea electo con base al presente Decreto y de conformidad con el procedimiento que establezca la ley.
+
+###### ARTÍCULO CUARTO.
+
+Las referencias que en las leyes se hagan al Órgano Superior de Fiscalización del Estado, se entenderán hechas al Órgano de Fiscalización Superior del Estado.
