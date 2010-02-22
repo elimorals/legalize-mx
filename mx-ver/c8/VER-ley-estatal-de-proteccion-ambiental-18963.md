@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2007-09-05"
+last_updated: "2010-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 LEY NUMERO 62 ESTATAL DE PROTECCION AMBIENTAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2010.
 
-Ley publicada en el alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
+Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
 Al margen un sello que dice: Estados Unidos Mexicanos, Gobernador del Estado de Veracruz-Llave.
 
@@ -96,6 +96,10 @@ VI.- Aprovechamiento sustentable: La utilización de los recursos naturales en f
 VII.- Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas.
 
 VIII.- Biotecnología: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos.
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+VIII Bis.- Centro de verificación: Establecimiento autorizado por la Secretaría de Desarrollo Social y Medio ambiente que cuenta con las especificaciones de equipamiento, infraestructura, imagen y procedimientos para realizar una prueba de verificación estática.
 
 IX.- Conservación: La permanencia de los elementos de la naturaleza, lograda mediante la planeación ambiental del crecimiento socioeconómico y con base en el ordenamiento ecológico del territorio, con el fin de asegurar a las generaciones presentes y venideras, un ambiente propicio para su desarrollo y la de los recursos naturales que les permitan satisfacer sus necesidades.
 
@@ -180,6 +184,10 @@ XLVII.- Secretaría: Secretaría de Desarrollo Social y Medio Ambiente.
 XLVIII.- Sistemas de drenaje y alcantarillado urbano o municipal: conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales urbanas o municipales, pudiendo incluir la captación de aguas pluviales.
 
 XLIX.- Tratamiento de aguas residuales: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado.
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+XLIX Bis.- Verificentro: Establecimiento autorizado por la Secretaría de Desarrollo Social y Medio Ambiente que cuenta con las especificaciones de equipamiento, infraestructura, imagen y procedimientos para realizar tanto una prueba de verificación estática como dinámica.
 
 L.- Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
@@ -749,9 +757,11 @@ VII.- El uso de materiales y tecnologías de construcción apropiados al medio a
 
 #### SECCIÓN QUINTA. DE LA EVALUACIÓN DEL IMPACTO AMBIENTAL
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 39.
 
-La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría establece las condiciones a que se sujetará la realización de obras y actividades públicas y privadas que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y conservar, preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente. Para ello, en los casos que determine el Reglamento que al efecto se expida, quienes pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente la autorización en materia de impacto ambiental de la Secretaría:
+La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría establece y da seguimiento a las condiciones a que se sujetará la realización de obras y actividades públicas y privadas que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y conservar, preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente. Para ello, en los casos que determine el Reglamento que al efecto se expida, quienes pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente la autorización en materia de impacto ambiental de la Secretaría:
 
 I.- Obra Pública Estatal
 
@@ -759,13 +769,19 @@ II.- Caminos estatales y rurales;
 
 III.- Industrias del hule y sus derivados, ladrilleras, maquiladoras, alimentarias, textiles, tenerías y curtidurías, del vidrio, farmacéutica y de cosméticos;
 
-IV.- Exploración, extracción y procesamiento físico de sustancias minerales que constituyan depósitos de naturaleza semejante a los componentes de los suelos;
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
-V.- Instalaciones y actividades de tratamiento, transporte, confinamiento, almacenamiento, transformación, reuso, reciclaje, eliminación y/o disposición final de residuos sólidos no peligrosos;
+IV.- Exploración, extracción y procesamiento físico de sustancias minerales que constituyan depósitos de naturaleza semejante a los componentes de los suelos, que no sean competencia federal;
 
-VI.- Fraccionamientos, colonias y unidades habitacionales;
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
-VII.- Actividades de competencia federal que mediante convenio de coordinación, en conformidad con el Capítulo II del Título Primero de la presente Ley, la Federación haya cedido al Estado para su realización.
+V.- Instalaciones y actividades de tratamiento, transporte, confinamiento, almacenamiento, transformación, reuso, reciclaje, eliminación y/o disposición final de residuos sólidos;
+
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+VI.- Fraccionamientos, lotificaciones, colonias y unidades habitacionales, así como trabajos de movimiento de tierras y nivelación de terrenos;
+
+VII.- Actividades de competencia federal que mediante convenio de coordinación, en conformidad con el Capítulo II del Título Primero de la presente Ley, la Federación haya cedido al Estado para su realización;
 
 VIII.- Clínicas, hospitales y laboratorios de análisis clínicos, químicos, biológicos, farmacéuticos y de investigación y demás no reservados a la Federación;
 
@@ -775,7 +791,7 @@ X.- Estación de servicios, gasolineras, estaciones de distribución de carburac
 
 XI.- Hoteles, desarrollos turísticos y actividades turísticas de cualquier índole de competencia estatal.
 
-XII. Actividades turísticas, deportivas y recreativas a llevarse a cabo en manglares, sistemas lagunares, bosques mesófilos y demás ecosistemas de importancia para la conservación ecológica.
+XII.- (DEROGADA, G.O. 22 DE FEBRERO DE 2010)
 
 XIII. Desarrollos comerciales
 
@@ -787,11 +803,25 @@ XVI. Bodegas y talleres.
 
 XVII. Centrales de abasto y mercados.
 
-XVIII. Predios donde se construyan sistemas de tratamiento de aguas residuales, sistemas de drenaje y alcantarillado, bordos, represamientos y plantas de potabilización de agua.
+XVIII.- (DEROGADA, G.O. 22 DE FEBRERO DE 2010)
 
 XIX. Obras, actividades, aprovechamientos y acciones de restauración que pretendan realizarse dentro de las áreas naturales protegidas establecidas por las autoridades del Estado de Veracruz, en los términos de la presente Ley.
 
-Los ayuntamientos tendrán dicha atribución, cuando se trate de obras o actividades no comprendidas en la fracción anterior o reservadas a la Federación. Cuando se trate de la evaluación del impacto ambiental de obras o actividades que tengan por objeto el aprovechamiento de los recursos naturales, la autoridad que corresponda, requerirá a los interesados para que en su manifestación de impacto ambiental, incluyan la descripción de los posibles efectos de las obras o actividades en el ecosistema de que se trate, considerando el conjunto de elementos que lo conforman y no únicamente los recursos que serían sujetos de aprovechamiento.
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+XX.- Cualquiera que por su naturaleza o ejecución puedan causar impacto adverso y que, por razón de la misma, no estén sometidas a la regulación de leyes federales.
+
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+Los ayuntamientos emitirán lineamientos para prevenir el impacto ambiental en los procedimientos de autorización de uso de suelo y licencias de construcción y operación, cuando se trate de obras o actividades que no sean competencia estatal o federal.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+Cuando se trate de la evaluación del impacto ambiental de obras o actividades que tengan por objeto el aprovechamiento de los recursos naturales, la autoridad que corresponda requerirá a los interesados para que en su manifestación de impacto ambiental, incluyan la descripción de los posibles efectos de las obras o actividades en el ecosistema de que se trate, considerando el conjunto de elementos que lo conforman y no únicamente los recursos que serán sujetos de aprovechamiento.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+Cuando se haya obtenido previamente una autorización en materia de impacto ambiental, por parte de la autoridad federal, no se requerirá la autorización referida en el párrafo primero de este artículo, si en la resolución de dicha autoridad fue considerada la opinión correspondiente de la Secretaría.
 
 ###### Artículo 40.
 
@@ -809,9 +839,11 @@ V.- Medidas de prevención y mitigación para los impactos ambientales identific
 
 La autoridad podrá requerir a los interesados la presentación de información complementaria.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 41.
 
-Para efectos del Artículo 38 de esta Ley, los interesados deberán presentar a la Secretaría, una manifestación de impacto ambiental, que en su caso, deberá ir acompañada de un estudio de riesgo de la obra o actividad y de sus modificaciones, consistente en las medidas técnicas preventivas y correctivas para mitigar los efectos adversos al equilibrio ecológico durante su ejecución, operación normal y en caso de accidente
+Para efectos del artículo 39 de esta Ley, los interesados deberán presentar a la Secretaría una manifestación de impacto ambiental, que en su caso deberá ir acompañada de un estudio de riesgo de la obra o actividad y de sus modificaciones, consistente en las medidas técnicas preventivas y correctivas para mitigar los efectos adversos al equilibrio ecológico durante su ejecución, operación normal y en caso de accidente.
 
 ###### Artículo 42.
 
@@ -871,39 +903,27 @@ V.- La Secretaría podrá revocar una autorización si se comprueba que existe i
 
 La Secretaría vigilará en coordinación con el ayuntamiento durante la realización y operación de las obras o actividades autorizadas, el cumplimiento de las medidas de mitigación o condicionantes, en los términos de la resolución correspondiente, a los requerimientos que deban observarse. Además podrá exigir el otorgamiento de fianza que garantice el cumplimiento de las condiciones establecidas en la autorización en aquellos casos expresamente señalados en el reglamento que al efecto se expida.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 47.
 
-La Secretaría establecerá un registro estatal en el que deberán inscribirse los prestadores de servicios que realicen estudios de impacto ambiental y análisis de riesgo, para ello, deberán presentar solicitud con la información y documentos siguientes:
+La Secretaría requerirá que las manifestaciones de impacto ambiental, presentadas para su evaluación, sean elaboradas por equipos, conformados por profesionales debidamente acreditados, de por lo menos tres disciplinas.
 
-I.- Nombre, nacionalidad y domicilio del solicitante.
-
-II.- Los documentos que acrediten la experiencia y capacidad técnica del interesado para la realización de estudios de impacto ambiental y análisis de riesgo.
-
-III. Los demás documentos e información que les requiera la Secretaría.
-
-Para verificar la capacidad y aptitud de los prestadores de servicios para realizar las manifestaciones de impacto ambiental, la Secretaría, a través del Comité Conjunto de Evaluación Ambiental, podrá practicar las investigaciones necesarias.
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 48.
 
-Recibida la solicitud a que se refiere el Artículo anterior, la Secretaría, en un plazo no mayor de quince días hábiles, resolverá sobre la procedencia de la inscripción en el registro.
+Las personas que presten servicios de impacto ambiental serán responsables ante la Secretaría de los informes, manifestaciones de impacto ambiental y estudios de riesgo que elaboren, quienes declararán, bajo protesta de decir verdad, que en ellos se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
+
+Asimismo, los informes, las manifestaciones de impacto ambiental y los estudios de riesgo podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales, en este caso la responsabilidad respecto del contenido del documento corresponderá a quien lo suscriba.
 
 ###### Artículo 49.
 
-La Secretaría podrá cancelar el registro de los prestadores de servicios que realicen estudios de impacto ambiental, cuando éstos:
-
-I. Proporcionen información falsa o notoriamente incorrecta para su inscripción en el registro.
-
-II. Incluyan información falsa o incorrecta en los estudios o manifestaciones de impacto ambiental que realicen.
-
-III. Induzcan a la autoridad competente a error o a incorrecta apreciación en la evaluación correspondiente.
-
-IV. Pierdan la capacidad técnica que dio origen a su inscripción.
-
-V. Por recomendación expresa del Comité Conjunto de Evaluación Ambiental.
+(DEROGADO, G.O. 22 DE FEBRERO DE 2010)
 
 ###### Artículo 50.
 
-La Secretaría requerirá que el prestador de servicios esté inscrito en el registro, para que la autoridad competente, reconozca validez y evalúe los estudios y manifestaciones de impacto ambiental que formulen.
+(DEROGADO, G.O. 22 DE FEBRERO DE 2010)
 
 ###### Artículo 51.
 
@@ -1677,15 +1697,25 @@ XIII.- Las demás que establezca esta Ley, las disposiciones que de ella se deri
 
 La Secretaría podrá convenir con los responsables de las fuentes fijas de competencia estatal la realización de las actividades a que se refiere el artículo anterior, o bien, requerir a los mismos para que las lleven a cabo, en forma obligatoria.
 
+#### SECCIÓN TERCERA. DE LOS CENTROS DE VERIFICACIÓN Y VERIFICENTROS
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 139.
 
 Los propietarios de los vehículos automotores de uso privado o de servicio público deberán:
 
 I.- Realizar el mantenimiento regular de las unidades, mantener en buenas condiciones a efecto de mantener el funcionamiento del vehículo dentro de los límites permitidos de emisiones señalados en la normatividad aplicable;
 
-II.- Verificar periódicamente las emisiones de contaminantes a la atmósfera, de acuerdo con los programas, mecanismos y disposiciones establecidos;
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
-III.- Observar las medidas y restricciones que las autoridades competentes dicten para prevenir y controlar emergencias y contingencias ambientales, así como para mejorar la vialidad.
+II.- Verificar periódicamente las emisiones de contaminantes a la atmósfera, de acuerdo con los programas, mecanismos y disposiciones establecidos, en los centros de verificación o los verificentros autorizados por la Secretaría, dentro del período que le corresponda, en los términos del Programa de Verificación Vehicular Obligatoria que al efecto se expida;
+
+III.- Observar las medidas y restricciones que las autoridades competentes dicten para prevenir y controlar emergencias y contingencias ambientales, así como para mejorar la vialidad;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+IV.- Cubrir el costo de la tarifa por verificación vehicular, autorizada por la Secretaría, en los términos del Programa de Verificación Vehicular Obligatoria para el Estado; en caso de que la verificación se realice fuera de los plazos señalados en dicho Programa, serán sancionados en los términos del ordenamiento.
 
 ###### Artículo 140.
 
@@ -1788,6 +1818,142 @@ X.- Ejercerán las demás facultades que les confieren las disposiciones legales
 En el ámbito de competencia de la Secretaría, tanto para las fuentes fijas o móviles de contaminación atmosférica, será obligatoria la verificación, de acuerdo con los criterios que así se establezcan en el reglamento correspondiente, determinando el número de verificaciones anuales dependiendo el grado de riesgo de las actividades industriales o de servicios de que se trate, las cuales nunca podrán ser inferiores de una al año.
 
 Asimismo, la Secretaría llevará un padrón de empresas cuyas actividades se consideren como contaminantes, a efecto de dar cumplimiento a lo previsto en el párrafo anterior.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 22 DE FEBRERO DE 2010)</small>
+
+###### Artículo 146 Bis.
+
+La Secretaría, atendiendo a las necesidades de los servicios de verificación de fuentes móviles en el Estado, expedirá, previa convocatoria pública, las autorizaciones a los interesados que cumplan los requisitos correspondientes para instalar un centro de verificación vehicular o verificentro. Para tal efecto, la Secretaría publicará las convocatorias en la Gaceta Oficial del estado, en las cuales se determinarán los elementos técnicos, materiales, humanos, financieros y demás condiciones que deberán reunir los centros de verificación o verificentros para obtener la autorización, las normas y procedimientos de verificación que se deberán observar, así como el número, ubicación y características de las instalaciones de los centros de verificación o verificentros.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+###### Artículo 146 Bis 1.
+
+La autorización o concesión otorgada a los centros de verificación vehicular o verificentros será revocada cuando éstos incurran en prácticas irregulares, como las siguientes:
+
+I.- Alterar el equipo o la toma de muestra.
+
+II.- Verificar un vehículo para aprobar otro.
+
+III.- No utilizar el sistema de análisis, captura, transmisión o almacenamiento de datos, video e imágenes autorizado por la Secretaría;
+
+IV.- No aplicar los procedimientos de análisis de emisiones generados por fuentes móviles establecidos en las Normas Oficiales Mexicanas;
+
+V.- No cumplir con las condiciones de equipamiento, infraestructura e imagen requerida para la prestación del servicio;
+
+VI.- Capturar la información de identidad de un vehículo que no corresponda al que realmente efectuó la prueba;
+
+VII. Usar dispositivos o sistemas no autorizados, que modifiquen lecturas o registros de emisiones, aceleración del motor o cualquier otro dato;
+
+VIII.- Dejar de prestar servicios de manera continua hasta por seis meses; y
+
+IX.- Cualquier otra práctica que se realice con la finalidad de modificar los resultados objeto de la verificación.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+Artículos 146 Bis 2. Los interesados que cumplan los requisitos correspondientes para instalar un centro de verificación vehicular o verificentro deberán otorgar una fianza, a través de institución legalmente facultada para ello, para garantizar el cumplimiento de las obligaciones y condiciones establecidas en esta Ley, su Reglamento, el Programa de Verificación Vehicular y la autorización o concesión correspondiente, así como el buen uso de la documentación que acredite la verificación de los vehículos y el pago de multas correspondientes, por el equivalente a mil quinientos días de salario mínimo general vigente en la capital del Estado. Esta garantía deberá mantenerse en vigor por el término establecido en la convocatoria y la autorización respectiva.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+###### Artículo 146 Bis 3.
+
+La autorización o concesión para la prestación de servicios de verificación vehicular tendrá la vigencia que se indique en la convocatoria o hubiere quedado establecida en el documento correspondiente. Sólo podrá darse por terminada cuando:
+
+I.- No se cumplan las condiciones conforme a las que deberá prestarse el servicio;
+
+II.- Concluya el término de la autorización; y
+
+III.- Proceda la revocación de la autorización en los términos de la presente Ley.
+
+Cuando los incumplimientos que se detecten en los centros de verificación o verificentros sean atribuibles a los proveedores de maquinaria y servicios, éstos serán responsables en términos de lo dispuesto por esta Ley.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+###### Artículo 146 Bis 4.
+
+Los centros de verificación y verificentros están obligados a:
+
+I.- Operar conforme a los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en esta Ley, las normas oficiales mexicanas, el Programa de Verificación Vehicular, la convocatoria, autorización, concesión y circulares correspondientes;
+
+II.- Acreditar ante la Secretaría que su personal se encuentra debidamente capacitado para la prestación del servicio;
+
+III.- Mantener sus instalaciones y equipos calibrados en las condiciones requeridas por la Secretaría, observando los requisitos que fije la misma para la debida prestación del servicio de verificación vehicular;
+
+IV.- Destinar exclusivamente a la verificación de emisiones contaminantes sus establecimientos respectivos, sin efectuar en éstos reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad industrial, comercial o de servicios sin autorización de la Secretaría;
+
+V.- Abstenerse de recibir documentación reportada como robada, falsificada o notoriamente alterada, como soporte de las verificaciones vehiculares;
+
+VI.- Llevar un registro con la información de las verificaciones efectuadas y remitir a la Secretaría los datos obtenidos, en los términos fijados por ésta, tanto por medios impresos como electrónicos, bajo los criterios técnicos y metodológicos establecidos;
+
+VII.- Dar aviso inmediato a la Secretaría cuando dejen de prestar el servicio de verificación vehicular o cuando los equipos e instalaciones no funcionen debidamente, en cuyo caso se abstendrán de realizar verificaciones hasta en tanto los mismos funcionen correctamente;
+
+VIII.- Conservar en depósito y manejar debidamente los documentos que reciban de la Secretaría para acreditar la aprobación de la verificación vehicular, hasta que éstos sean entregados al interesado y, en su caso, adheridos a la fuente emisora de contaminantes;
+
+IX.- Dar aviso inmediato a la Secretaría y presentar las denuncias correspondientes, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación vehicular;
+
+X.- Enviar a la Secretaría la documentación e información requerida para la supervisión y control de la verificación, en los formatos y términos que la misma Secretaría establezca, en los que podrá considerarse el reporte documental así como la transmisión de datos, imágenes y video;
+
+XI.- Mantener durante las horas de funcionamiento a un representante con facultades para atender las visitas de inspección técnicas y administrativas que ordene la Secretaría, en cualquier momento, debiendo brindar las facilidades correspondientes;
+
+XII.- Contar con los elementos distintivos e imagen determinados por la Secretaría;
+
+XIII.- Cobrar las tarifas autorizadas por la Secretaría por la prestación del servicio de verificación vehicular; las tarifas deberán indicarse en un lugar visible a los usuarios, dentro de su establecimiento;
+
+XIV.- Mantener en vigor la fianza correspondiente, durante la vigencia de la autorización para prestar el servicio de verificación vehicular; y
+
+XV.- Corroborar que el equipo y programa de cómputo que se instale para proporcionar el servicio de verificación vehicular sea la versión autorizada por la Secretaría, de lo contrario, abstenerse de proporcionar el servicio.
+
+Cuando los centros de verificación vehicular o verificentros incumplan con alguna de las normas establecidas en la presente Ley, la Secretaría podrá iniciar el procedimiento administrativo con base en la documentación e información que proporcionen o con la que disponga la Secretaría, de acuerdo a las formalidades establecidas por el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave. En su caso, se aplicarán las sanciones correspondientes, pudiendo establecerse, en su caso, la cancelación o revocación de la autorización o concesión otorgada.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+###### Artículo 146 Bis 5.
+
+Por cada verificación vehicular que realicen los prestadores de servicios autorizados, expedirán a los interesados una constancia con los resultados, la cual contendrá la siguiente información:
+
+I.- Fecha de la verificación vehicular y número de folio de la constancia;
+
+II.- Identificación del prestador de servicios autorizado y de quien efectuó la verificación vehicular;
+
+III.- Indicación de las normas oficiales o técnicas ecológicas locales aplicadas en la verificación vehicular;
+
+IV.- Determinación del resultado de la verificación vehicular;
+
+V.- Marca, submarca, modelo, número de serie, placas, peso bruto vehicular, combustible, clase, servicio y año del vehículo de que se trate, así como el nombre y domicilio del propietario; y
+
+VI.- Las demás que señalen las normas oficiales, el programa de verificación, la convocatoria, la autorización, concesión y circulares respectivas.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+###### Artículo 146 Bis 6.
+
+El original de la constancia de verificación vehicular se entregará al propietario o poseedor de la fuente emisora de contaminantes, adhiriendo inmediatamente, en caso de ser aprobatoria, el documento respectivo en un lugar visible de la propia fuente.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+###### Artículo 146 Bis 7.
+
+Los proveedores de equipos y servicios para la operación de los centros de verificación vehicular y verificentros deberán contar con la autorización de la Secretaría.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+###### Artículo 146 Bis 8.
+
+Los proveedores de equipos, programas de cómputo y servicios para la operación de centros de verificación de emisiones generadas por fuentes móviles están obligados a:
+
+I.- Suministrar equipos, programas de cómputo y servicios, que cumplan con la normatividad correspondiente o los requerimientos que establezca la Secretaría, proporcionando los manuales de operación;
+
+II.- Garantizar que el personal que efectúe la instalación, suministro y mantenimiento esté debidamente capacitado y acreditado ante la Secretaría;
+
+III.- En su caso, prestar los servicios de mantenimiento a los equipos instalados, cerciorándose de que están calibrados y en óptimas condiciones, y observar que éstos cumplan los requisitos que fije la Secretaría;
+
+IV.- Llevar un registro con la información de las operaciones de mantenimiento y reparación de equipos y remitir un informe mensual a la Secretaría;
+
+V.- Dar aviso a la Secretaría cuando dejen de prestar el servicio de suministro y mantenimiento de equipos y programas de cómputo;
+
+VI.- Presentar y mantener en vigor una fianza de cinco mil días de salario mínimo general, vigente en la capital del Estado, para garantizar el cumplimiento de las obligaciones y la confidencialidad de los sistemas de seguridad, durante la vigencia de la autorización, misma que se hará efectiva en los casos que la prestación del servicio contravenga las disposiciones aplicables; y
+
+VII.- Prestar sus servicios de conformidad con los contratos autorizados por la Secretaría.
 
 ### CAPÍTULO II. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA Y DE LOS ECOSISTEMAS ACUÁTICOS
 
@@ -2357,27 +2523,47 @@ Si de los hechos investigados apareciera la posible comisión de un delito, la a
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la autoridad competente, con una o más de las siguientes sanciones:
 
-I.- Multa por el equivalente de una a tres veces el daño que haya causado al equilibrio ecológico o al ambiente.
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
-II.- Si no fuese posible valuar el daño a que se refiere la fracción anterior, se impondrá multa de cincuenta a veinte mil días de salario mínimo general vigente en la Capital del Estado, en el momento de imponer la sanción.
+I.- Amonestación con apercibimiento;
 
-III.- Clausura temporal o definitiva, total o parcial del establecimiento, equipos, instalaciones, o fuentes contaminantes o generadoras del servicio o similares, cuando:
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
-A) El infractor no hubiere cumplido en los plazos y condiciones impuestos por la autoridad, con las medidas correctivas o de urgente aplicación ordenadas.
+II.- Multa por el equivalente de una a tres veces el daño que haya causado al equilibrio ecológico o al ambiente;
 
-B) En casos de reincidencia cuando las infracciones generen efectos negativos al ambiente, o
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
-C) Se trate de desobediencia reiterada, en tres ó más ocasiones al cumplimiento de alguna ó algunas medidas correctivas ó de urgente aplicación impuestas por la autoridad.
+III.- Si no fuere posible valuar el daño a que se refiere la fracción anterior, se impondrá multa de cincuenta a veinte mil días de salario mínimo general vigente en la capital del Estado, en el momento de imponer la sanción;
 
-IV.- El decomiso de los instrumentos, ejemplares, productos o subproductos directamente relacionados con infracciones relativas a recursos forestales, especies de flora y fauna silvestre o recursos genéticos, conforme a lo previsto en la presente Ley.
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
-V.- Arresto administrativo hasta por treinta y seis horas.
+IV.- Clausura temporal o definitiva, total o parcial del establecimiento, equipos, instalaciones o fuentes contaminantes o generadoras del servicio o similares, cuando:
 
-VI.- La suspensión o la revocación de las concesiones, licencias, permisos o autorizaciones correspondientes que haya otorgado la misma autoridad que impone la sanción.
+a) El infractor no hubiere cumplido, en los plazos y condiciones impuestos por la autoridad, con las medidas correctivas o de urgente aplicación ordenadas;
 
-VII.- Impedir la circulación de vehículos, remitiéndolos en su caso a los depósitos correspondientes.
+b) En casos de reincidencia, cuando las infracciones generen efectos negativos al ambiente; o
 
-VIII.- La reparación del daño ambiental.
+c) Se trate de desobediencia reiterada, en tres o más ocasiones, al cumplimiento de alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad;
+
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+V.- El decomiso de los instrumentos, ejemplares, productos o subproductos directamente relacionados con infracciones relativas a recursos forestales, especies de flora y fauna silvestre o recursos genéticos, conforme a lo previsto en la presente Ley;
+
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+VI.- Arresto administrativo hasta por treinta y seis horas;
+
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+VII.- La suspensión o la revocación de las concesiones, licencias, permisos o autorizaciones correspondientes que haya otorgado la misma autoridad que impone la sanción;
+
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+VIII.- Impedir la circulación de vehículos, remitiéndolos en su caso a los depósitos correspondientes; y
+
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+IX.- La reparación del daño ambiental.
 
 ###### Artículo 213.
 
@@ -2616,3 +2802,15 @@ G.O. 5 DE SEPTIEMBRE DE 2007.
 Primero. El presente Decreto entrará en vigencia a los tres días siguientes a su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 22 DE FEBRERO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Tercero. Los procedimientos y recursos administrativos relacionados con las materias del presente Decreto, iniciados con anterioridad a su entrada en vigor, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio.
+
+Cuarto. Las autorizaciones, permisos, licencias y concesiones otorgadas con anterioridad a la fecha de entrada en vigor del presente Decreto seguirán vigentes por el término en que fueron otorgados; su prórroga, en su caso, se sujetará a las disposiciones del presente Decreto.
+
+Quinto. Los titulares de concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto, tendrán derecho de prelación respecto a las autorizaciones a que se refiere el artículo 146 Bis, para instalar centros de verificación vehicular o verificentros.
