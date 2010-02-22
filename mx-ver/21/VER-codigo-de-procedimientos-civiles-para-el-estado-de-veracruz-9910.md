@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2009-06-22"
+last_updated: "2010-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2010.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -2053,7 +2053,7 @@ Los que tengan conocimiento de los hechos que las partes quieran probar, están 
 
 ARTICULO 282
 
-Las partes tendrán obligación de presentar sus propios testigos. Cuando estuvieren imposibilitados para hacerlo, lo manifestarán bajo protesta de decir verdad al Juez del conocimiento y pedirán que los cite. El Tribunal ordenará la citación con apercibimiento de arresto hasta de treinta y seis horas o multa por el equivalente de treinta días de salario mínimo general vigente en la capital del Estado durante el mes de enero del año de que se trate, que se aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+Las partes tendrán obligación de presentar sus propios testigos. Cuando estuvieren imposibilitados para hacerlo, lo manifestarán bajo protesta de decir verdad al Juez del conocimiento y pedirán que los cite. El Tribunal ordenará la citación con apercibimiento de arresto hasta de treinta y seis horas o multa por el equivalente a treinta días de salario mínimo general vigente en la capital del Estado durante el mes de enero del año de que se trate, que se aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -2065,9 +2065,11 @@ ARTICULO 283
 
 Al Gobernador, Secretario de Gobierno, diputados, magistrados, jueces, generales con mando y a las primeras autoridades políticas de los distritos, se pedirá su declaración por oficio, y en esta forma la rendirán. En casos urgentes rendirán su declaración directamente.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
 ARTICULO 284
 
-Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una solo (sic) no se comprenda más de un hecho. El juez debe cuidar de que se cumplan estas condiciones, impidiendo preguntas que las contraríen.
+Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El juez cuidará que se cumplan estos requisitos, desechando las que los contraríen, debiendo permitir que las preguntas sean objetadas por las partes antes de calificarlas.
 
 ARTICULO 285
 
@@ -2077,9 +2079,11 @@ ARTICULO 286
 
 No obstante lo dispuesto en los artículos anteriores, cuando el testigo resida fuera del lugar del juicio, deberá el promovente, al ofrecer la prueba, presentar sus interrogatorios con las copias respectivas, para que las otras partes dentro de tres días, puedan presentar sus interrogatorios de repreguntas. Para el examen de los testigos que no residan en el lugar del juicio, se librará exhorto, o en su caso oficio, en el que se incluirán, en pliego cerrado, las preguntas y repreguntas.
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
 ARTICULO 287
 
-Después de tomarle al testigo la protesta de conducirse con verdad y de advertirle de las penas en que incurren los testigos falsos, se hará constar el nombre, edad, estado, domicilio y ocupación; si es pariente por consanguinidad o afinidad y en qué grado, de alguno de los litigantes; si es dependiente o empleado del que lo presente, o tiene con él sociedad o alguna otra relación de intereses; si tiene interés directo o indirecto en el pleito, si es amigo íntimo o enemigo de alguno de los litigantes. A continuación se procederá al examen.
+Después de tomarle al testigo la protesta de conducirse con verdad y advertirle las penas en que incurren los testigos falsos, se hará constar el nombre, edad, estado, domicilio y ocupación; si es pariente por consanguinidad o afinidad y en qué grado de alguno de los litigantes; si es dependiente o empleado del que lo presente, o tiene con él sociedad o alguna otra relación de intereses; si tiene interés directo o indirecto en el pleito, si es amigo íntimo o enemigo de alguna de las partes. Formuladas las preguntas se concederá el uso de la voz a la otra parte para que manifieste sus objeciones. El juez hará la calificación y a continuación se procederá al examen.
 
 ARTICULO 288
 
@@ -2431,7 +2435,9 @@ IV.- Cualquier documento privado después de reconocido por quien lo hizo o lo m
 
 V.- La confesión de la deuda hecha ante juez competente por el deudor o por su representado con facultades para ello;
 
-VI.- Los convenios celebrados en el curso de un juicio ante el juez, ya sea por las partes entre sí o por terceros que se hubieren obligado como fiadores, depositarios o en cualquier otra forma;
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+VI.- Los convenios, inclusive los de divorcio voluntario, celebrados en el curso de un juicio ante el Juez por las partes entre sí; o por terceros con alguna de las partes cuando se hubieren obligado como fiadores, depositarios o en cualquier otra forma;
 
 VII.- Las pólizas originales de contratos celebrados con intervención de corredor público;
 
@@ -5089,7 +5095,7 @@ La declaración de incapacidad por causa de demencia que no resulte declarada en
 
 > <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
-El nombramiento de tutor interino deberá recaer por su orden, en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlo: padre, cónyuge, hijos, madre, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el Juez resolverá atendiendo a las circunstancias.
+El nombramiento de tutor interino deberá recaer por su orden en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlo: padre, cónyuge, hijos, madre, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el Juez resolverá atendiendo a las circunstancias.
 
 En el caso de no haber ninguna de las personas indicadas, o no siendo aptas para la tutela, el juez con todo escrúpulo debe nombrar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amiga del incapacitado o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencia con el solicitante de la declaración.
 
@@ -5563,6 +5569,8 @@ Podrá decretarse el depósito de menores o incapacitados que se hallen sujetos 
 
 El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez determine sobre su depósito.
 
+En estos casos, no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias conducentes.
+
 > <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2009)</small>
 
 ARTICULO 746 BIS
@@ -6032,6 +6040,22 @@ G.O. 22 DE JUNIO DE 2009.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 22 DE FEBRERO DE 2010.
+
+DECRETO No. 818, POR EL QUE SE REFORMA LA FRACCION VI DEL ARTICULO 340 DEL CODIGO DE PROCEDIMIENTOS CIVILES.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE FEBRERO DE 2010.
+
+DECRETO No. 819, POR EL QUE SE REFORMAN LOS ARTICULOS 284 Y 287 DEL CODIGO DE PROCEDIMIENTOS CIVILES.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
