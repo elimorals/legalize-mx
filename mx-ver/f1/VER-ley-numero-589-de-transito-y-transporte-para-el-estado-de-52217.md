@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2008-09-26"
+last_updated: "2010-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -47,9 +47,11 @@ DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### Capítulo I. Objeto de la Ley
 
+> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, observancia general e interés social, tiene por objeto regular el tránsito por las vías públicas comprendidas dentro del Estado que no sean de competencia federal, el transporte de personas y bienes, el estacionamiento de vehículos y los servicios auxiliares del transporte y el tránsito.
+La presente Ley es de orden público, observancia general e interés social, y tiene por objeto regular el tránsito por las vías públicas y áreas o zonas privadas con acceso al público, comprendidas dentro del Estado que no sean de competencia federal, el transporte de personas y bienes, el estacionamiento de vehículos y los servicios auxiliares del transporte y el tránsito.
 
 ###### Artículo 2.
 
@@ -99,21 +101,39 @@ XVII. Servicios Auxiliares: Todos los conexos al tránsito y al transporte;
 
 XVIII. Servicio de transporte particular: El que se utiliza para el traslado de personas, animales o cosas, sin retribución alguna y en vehículos adecuados al fin de que se trate;
 
-XIX. Servicio de transporte público: El que, por concesión o permiso del Estado, se brinda para satisfacer necesidades colectivas, siendo prestado a terceros contra el pago de una tarifa;
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
-XX. Tarifa: La contraprestación que otorga el usuario por la prestación del servicio de transporte público;
+XIX. Servicio de transporte particular para personas con discapacidad: El que se utiliza para el traslado, sin retribución alguna, de personas con discapacidad, mediante vehículos que cuenten con la calcomanía expedida por la autoridad competente y que, en el caso de que los conductores sean personas con discapacidad, contengan además las especificaciones técnicas necesarias;
 
-XXI. Terminal: punto de salida y retorno de las unidades del servicio de transporte público;
+XX. Servicio de transporte público: El que, por concesión o permiso del Estado, se brinda para satisfacer necesidades colectivas, siendo prestado a terceros contra el pago de una tarifa;
 
-XXII. Vía pública: A las carreteras, puentes, brechas y caminos vecinales, las avenidas, callejones, calzadas y banquetas, plazas, paseos, zonas peatonales, pasos a desnivel, andadores y calles comprendidas dentro de los límites del Estado;
+XXI. Tarifa: La contraprestación que otorga el usuario por la prestación del servicio de transporte público;
 
-XXIII. Vías públicas de competencia estatal: A las que entronquen con caminos o carreteras de otra entidad federativa, que no sean de competencia federal, así como las que comuniquen a dos o más municipios del Estado, y las que en su totalidad o en su mayor parte sean construidas por el Estado, con fondos estatales o por particulares mediante concesión estatal, excepto dentro de las áreas urbanas de los municipios; y
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
-XXIV. Vías públicas de competencia municipal: Aquellas que no sean de competencia federal o estatal.
+XXII. Terminal: Punto de salida y retorno de las unidades del servicio de transporte público;
+
+XXIII. Vía pública: A las carreteras, puentes, brechas y caminos vecinales, las avenidas, callejones, calzadas y banquetas, plazas, paseos, zonas peatonales, pasos a desnivel, andadores y calles comprendidas dentro de los límites del Estado;
+
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+XXIV. Vías públicas de competencia estatal: A las que entronquen con caminos o carreteras de otra entidad federativa, que no sean de competencia federal, así como las que comuniquen a dos o más municipios del Estado, y las que en su totalidad o en su mayor parte sean construidas por el Estado, con fondos estatales o por particulares mediante concesión estatal, excepto dentro de las áreas urbanas de los municipios;
+
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+XXV. Vías públicas de competencia municipal: Aquellas que no sean de competencia federal o estatal; y
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+XXVI. Zona privada con acceso al público: Área especial de naturaleza jurídica privada, en donde se preste el servicio de estacionamiento público o privado, así como todo lugar privado en donde se realice tránsito de personas, semovientes o vehículos.
 
 ###### Artículo 5.
 
 Las disposiciones contenidas en la presente Ley son de observancia para toda persona que haga uso de las vías públicas, ya sea con el carácter de peatón, conductor, propietario de un vehículo, concesionario, permisionario o usuario del servicio del transporte público o privado o de servicios auxiliares del tránsito y transporte.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+En el caso de zonas privadas con acceso al público, se aplicará este ordenamiento cuando así lo soliciten las partes involucradas. El ingreso de la autoridad competente a dichas zonas deberá hacerse previo consentimiento del propietario del lugar, gerente, administrador, encargado, vigilante o representante legal facultado para ello; cuando quien deba dar la autorización correspondiente no se localice o niegue el acceso del personal de la autoridad competente, las partes involucradas ejercerán sus derechos conforme a las leyes aplicables.
 
 ###### Artículo 6.
 
@@ -175,9 +195,9 @@ VIII. Las demás que establezcan esta Ley y su Reglamento.
 
 El Secretario de Finanzas y Planeación tendrá, además de las atribuciones que le confiere la Ley Orgánica del Poder Ejecutivo del Estado, las siguientes:
 
-> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
-I. Proveer, de conformidad con lo que dispongan esta Ley y su Reglamento, así como la Ley Orgánica del Poder Ejecutivo del Estado, el Reglamento Interior de la Secretaría de Finanzas y Planeación, el Presupuesto aprobado y demás normatividad aplicable, la expedición y entrega de los instrumentos de servicio de control vehicular. Las placas de circulación y calcomanías con transponder o chip con que se doten a los vehículos deberán contar con las medidas de seguridad que permitan su rápida identificación;
+I. Proveer, de conformidad con lo que dispongan esta Ley y su Reglamento, así como la Ley Orgánica del Poder Ejecutivo del Estado, el Reglamento Interior de la Secretaría de Finanzas y Planeación, el Presupuesto aprobado y demás normatividad aplicable, la expedición y entrega de los instrumentos de servicio de control vehicular, así como expedir calcomanías específicas para identificar los vehículos utilizados en el servicio de transporte particular para personas con discapacidad. Las placas de circulación y calcomanías con transponder o chip con que se doten a los vehículos deberán contar con las medidas de seguridad que permitan su rápida identificación;
 
 II. Mantener actualizado el padrón vehicular estatal, en los términos que dispongan las leyes, e informar al respecto a la Dirección, a la conclusión del ejercicio mensual;
 
@@ -616,6 +636,10 @@ IV. De servicio Oficial.
 ###### Artículo 44.
 
 Los vehículos de servicio de transporte particular son aquellos destinados a satisfacer las necesidades privadas de sus propietarios o legales poseedores, ya sean éstos personas físicas o morales; su circulación será libre por las vías públicas, sin más limitación que el cumplimiento, por parte de sus propietarios, conductores u operadores, de todas las normas establecidas por esta Ley, su Reglamento y demás normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+Los vehículos de servicio de transporte particular para personas con discapacidad son los que se utilizan para el traslado, sin mediar retribución alguna, de personas con discapacidad, con las características implícitas del servicio de transporte particular; en caso de que los conductores sean personas con discapacidad, los vehículos deberán incluir las especificaciones técnicas necesarias, derivadas de las limitantes físicas de dichos conductores; en ambos casos, los vehículos contarán con calcomanías expedidas por la autoridad competente, para acceder a los beneficios o derechos señalados en los reglamentos correspondientes.
 
 Los vehículos del servicio de transporte público son aquellos destinados a la prestación del servicio por concesión o permiso del Estado, en las diversas modalidades que establece la presente Ley.
 
@@ -1752,3 +1776,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente al de su public
 Segundo. Sólo lo relativo a las medidas de seguridad con que deberán contar las calcomanías y las placas metálicas de circulación del Estado de Veracruz de Ignacio de la Llave tendrá vigencia a partir de que la Secretaría de Finanzas y Planeación dé a conocer, mediante publicación en la Gaceta Oficial, órgano del Gobierno del Estado, y medios de comunicación en toda la Entidad, la implementación de las mismas; por tanto, a partir de entonces, todo vehículo que no esté debidamente emplacado será retirado de la circulación de la vía pública.
 
 Tercero. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 22 DE FEBRERO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Dentro de los ciento ochenta días naturales siguientes al inicio de la vigencia del presente Decreto, se deberán realizar las adecuaciones correspondientes al Código Financiero para el estado de Veracruz de Ignacio de la Llave, en materia de derechos prestados por la Secretaría de Finanzas y Planeación, por Registro y Control de Vehículos de Servicio Privado.
