@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2010-02-15"
+last_updated: "2010-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE FEBRERO DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -513,11 +511,15 @@ XLVI. Aprobar el Programa Municipal de Protección Civil, con base en los lineam
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE ENERO DE 2007)</small>
 
-XLVII. Nombrar al Cronista Municipal quien deberá llevar el registro escrito del acontecer histórico local, que preserve y fomente la identidad de los pobladores con su Municipio y con el Estado; y
+XLVII. Nombrar al Cronista Municipal quien deberá llevar el registro escrito del acontecer histórico local, que preserve y fomente la identidad de los pobladores con su Municipio y con el Estado; y (sic)
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+XLVIII. Promover entre los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 3 DE ENERO DE 2007)</small>
 
-XLVIII. Las demás que expresamente señalen la Constitución local, esta Ley y demás leyes del Estado.
+XLIX. Las demás que expresamente señalen la Constitución Local, esta Ley y demás leyes del Estado.
 
 ### CAPÍTULO V. DEL SÍNDICO
 
@@ -719,7 +721,11 @@ XVIII. Bibliotecas, Fomento a la Lectura y Alfabetización;
 
 > <small>(ADICIONADA, G.O. 15 DE FEBRERO DE 2010)</small>
 
-XIX. Turismo.
+XIX. Turismo;
+
+> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+
+XX. Promoción y Defensa de los Derechos Humanos.
 
 ###### Artículo 41.
 
@@ -1112,6 +1118,24 @@ IV. Promover y organizar la participación y capacitación de los ciudadanos y d
 V. Coordinarse con las instancias estatales, nacionales e internacionales correspondientes, a efecto de diseñar y cumplir programas tendientes a la promoción turística del municipio; y
 
 VI. Las demás que expresamente le señalen otras disposiciones normativas.
+
+> <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
+
+Artículo 60 quinquies. Son atribuciones de la Comisión de Promoción y Defensa de los Derechos Humanos:
+
+I. Promover que el Ayuntamiento establezca políticas públicas, disposiciones y lineamientos generales, en su ámbito competencial, orientados a la difusión, respeto y defensa de los derechos humanos;
+
+II. Vigilar que los acuerdos del Ayuntamiento y los actos realizados por las dependencias y entidades de la administración pública municipal no violenten, en general, los derechos humanos fundamentales de las personas y, en forma especial, de mujeres, menores de edad, discapacitados, adultos mayores y de integrantes de comunidades indígenas;
+
+III. Proponer acciones coordinadas con los organismos públicos y sociales protectores de derechos humanos, para el estudio, la cultura y difusión de los mismos en el municipio;
+
+IV. En su caso, supervisar y evaluar los trabajos de la dependencia o entidad municipal encargada del fomento y la protección de los derechos humanos;
+
+V. Conocer de la situación imperante en los centros de detención y custodia dependientes del municipio, para cuidar que se respeten los derechos humanos de los detenidos y, en su caso, proponer al Ayuntamiento las medidas administrativas orientadas al efecto;
+
+VI. Revisar la reglamentación municipal y proponer modificaciones a las disposiciones que, en forma explícita o por omisión, resulten discriminatorias; y
+
+VII. Promover entre los servidores públicos municipales, por medio de la dependencia correspondiente, relaciones laborales y de atención al público que eviten discriminaciones por razón de origen étnico o nacional, género, edad, discapacidad, condición social, salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra los derechos y libertades de las personas.
 
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA Y ORGANISMOS AUXILIARES
 
@@ -3047,8 +3071,14 @@ Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 
 G.O. 15 DE FEBRERO DE 2010.
 
-DECRETO No. 813, POR EL QUE SE REFORMAN Y DEROGAN LOS ARTICULOS 9, 24, 25, 35, 36, 43, 72 Y 115 DE LA LEY ORGANICA DEL MUNICIPIO LIBRE.
+DECRETO No. 813, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 9, 24, 25, 35, 36, 43, 72 Y 115 DE LA LEY ORGANICA DEL MUNICIPIO LIBRE.
 
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE FEBRERO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
