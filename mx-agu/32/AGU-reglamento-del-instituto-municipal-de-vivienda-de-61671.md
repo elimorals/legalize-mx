@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-instituto-municipal-de-vivienda-de-61671"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-23"
-last_updated: "2009-07-13"
+last_updated: "2010-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE VIVIENDA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 23 de junio de 2008.
 
@@ -57,7 +57,9 @@ I.- Promover y realizar programas de vivienda para que las familias de escasos r
 
 II.- Establecer, en coordinación con las dependencias municipales competentes, en el marco del Plan Municipal de Desarrollo, las políticas de inversión pública en materia de vivienda;
 
-III.- Promover o desarrollar fraccionamientos, desarrollos, condominios habitacionales y de urbanización progresiva, con la finalidad de que las familias puedan tener la oportunidad de adquirir un lote o vivienda digna, en las mejores condiciones posibles;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO 2010)</small>
+
+III.- Promover o desarrollar fraccionamientos, desarrollos, condominios habitaciones y de urbanización progresiva, con la finalidad de que las familias puedan tener la oportunidad de adquirir un lote o vivienda digna, en las mejores condiciones posibles, en un entorno que cuente con el equipamiento urbano necesario para el desarrollo de los habitantes del Municipio;
 
 IV.- Establecer y operar sistemas de financiamiento que permitan a familias de escasos recursos obtener créditos baratos y suficientes para la adquisición de un lote o vivienda;
 
@@ -75,7 +77,9 @@ X.- Coordinar las acciones municipales en materia de vivienda con las autoridade
 
 XI.- Obtener créditos de las instituciones públicas o privadas, nacionales y extranjeras, para el cumplimiento del objeto del Instituto, cumpliendo con las formalidades que establezca la legislación aplicable;
 
-XII.- Establecer un sistema de comercialización de los lotes, viviendas y desarrollos inmobiliarios derivados de los programas del Instituto;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO 2010)</small>
+
+XII.- Establecer un sistema de comercialización de los lotes, viviendas, áreas comerciales y desarrollo (sic) inmobiliarios derivados de los programas del Instituto;
 
 XIII.- Ejecutar las obras de urbanización, edificación y construcción que se requieran, ya sea a través del propio Instituto, o a través de terceros;
 
@@ -83,7 +87,9 @@ XIV.- Promover y participar en la introducción de servicios públicos;
 
 XV.- Promover y participar en la creación y administración de empresas dedicadas a la promoción de desarrollos inmobiliarios;
 
-XVI.- Promover, participar y crear asociaciones con empresas privadas locales, dedicadas al ramo de la vivienda y desarrollos inmobiliarios, mediante el esquema de aportación de inmuebles y reservas a través de Fideicomisos de administración. En donde el Instituto participe como Fideicomitente y/o Fideicomisario;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO 2010)</small>
+
+XVI.- Promover, participar y crear asociaciones con empresas privadas, dedicadas al ramo de la vivienda y desarrollos inmobiliarios, mediante el esquema de aportación de inmuebles y reservas a través de fideicomisos de administración, pago, garantía e inversión, en donde el Instituto participe como Fideicomitente y/o Fideicomisario;
 
 XVII.- Promover, participar y crear asociaciones con empresas financieras o particulares legalmente constituidos, mediante el esquema de Fideicomisos, en donde el Instituto participe como Fideicomitente y/o Fideicomisario;
 
@@ -100,6 +106,18 @@ XXII.- Celebrar convenios con las dependencias de gobierno Federal, Estatal y Mu
 XXIII.- Integrar el Sistema de Información Municipal, que permita conocer la problemática de vivienda en el Municipio y las condiciones socioeconómicas que incidan en ella; y,
 
 XXIV.- Celebrar toda clase de actos jurídicos y contratos necesarios para el cumplimiento de su objeto y en especial de los contratos de compra venta, crédito, adquisiciones, enajenaciones, hipotecas, contratos de garantía y otros que sean indispensables para el desarrollo de los fraccionamientos, programas de vivienda y acciones inmobiliarias de su competencia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO 2010)</small>
+
+XXV.- Promover la constitución y ejecución de proyectos de asociación público privados en donde se contemple la aportación o enajenación, previa autorización de la Junta de Gobierno del Instituto Municipal de Vivienda de Aguascalientes, de un bien inmueble propiedad del Instituto y/o la aportación por parte de un inversionista de cualquier bien o activo para la instrumentación de un proyecto cuya ejecución sea el cumplimiento de cualquiera de los objetivos del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO 2010)</small>
+
+XXVI.- Promover, participar, e implementar programas y mecanismos a efecto de que los trabajadores y servidores públicos del municipio de Aguascalientes puedan adquirir una vivienda en condiciones preferenciales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO 2010)</small>
+
+XXVII.- Realizar donaciones a favor del Municipio de Aguascalientes previa autorización de la Junta de Gobierno del Instituto Municipal de Vivienda de Aguascalientes, y recibir donaciones de todo tipo de personas físicas o morales, públicas o privadas, nacionales o extranjeras, para que las mismas sean destinadas al cumplimiento de los objetivos del Instituto o conforme a los lineamientos y políticas que determine la Junta de Gobierno.
 
 ###### ARTÍCULO 4º.
 
@@ -126,6 +144,10 @@ VI.- Los inmuebles que se expropien a su favor;
 VII.- Los bienes y recursos que el Gobierno Municipal, o cualquier otra entidad Paramunicipal le asignen o transfieran para el cumplimiento de su objeto; y,
 
 VIII.- Los demás bienes muebles e inmuebles, concesiones, derechos e ingresos que obtenga por cualquier título legal.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+ARTÍCULO 5° BIS.- En caso de extinción o liquidación del Instituto Municipal de Vivienda de Aguascalientes, el patrimonio de este será integrado al patrimonio del Municipio de Aguascalientes, siguiendo los procedimientos legales aplicables.
 
 ## TITULO TERCERO. DEL GOBIERNO Y ADMINISTRACIÓN DEL INSTITUTO
 
@@ -241,7 +263,13 @@ XIV.- Determinar las condiciones en que deben celebrarse los contratos de trabaj
 
 XV.- Otorgar poderes generales y especiales para pleitos y cobranzas y para administrar bienes, con las facultades y limitaciones que juzgue convenientes. El otorgamiento o su revocación serán firmados por el presidente de La Junta de Gobierno conjuntamente con el secretario técnico; y,
 
-XVI.- Las demás que le sean otorgadas por el Ayuntamiento para el cumplimiento del objeto del Instituto.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+XVI.- Aprobar la expedición de Reglamentos Internos del Instituto Municipal de Vivienda de Aguascalientes, así como la expedición de manuales y políticas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2010)</small>
+
+XVII.- Las demás que le sean otorgadas por el Ayuntamiento para el cumplimiento del objeto del Instituto.
 
 ### CAPITULO SEGUNDO. Del Presidente de la Junta de Gobierno
 
@@ -1081,9 +1109,13 @@ I. Analizar y evaluar las propuestas técnicas y económicas presentadas en el p
 
 II. Emitir el dictamen de adjudicación;
 
-III. Expedir las convocatorias, de acuerdo a lo establecido en el Manual de Integración y funcionamiento, aprobando los plazos de los actos de las licitaciones públicas y concursos por invitación;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
-IV. Llevar a cabo las licitaciones públicas, adjudicando, en los términos de el Manual de Integración y funcionamiento, así como aquello que determine la Junta de Gobierno, los contratos y pedidos respectivos;
+III. Expedir las convocatorias, de acuerdo a lo establecido en el Manual de Adquisiciones y Enajenaciones del Instituto Municipal de Vivienda de Aguascalientes, aprobando los plazos de los actos de las licitaciones públicas y concursos por invitación;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+IV. Llevar a cabo las licitaciones públicas, adjudicando en los términos del Manual de Adquisiciones y Enajenaciones del Instituto Municipal de Vivienda de Aguascalientes, así como aquello que determine la Junta de Gobierno, los contratos y pedidos respectivos;
 
 V. Determinar la viabilidad de la cantidad y calidad de los bienes y servicios a adquirir;
 
@@ -1191,9 +1223,13 @@ Las áreas administrativas del Instituto, deberán de proporcionarle al órgano 
 
 #### SECCION PRIMERA. De las Relaciones de Trabajo
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 72.
 
-Las relaciones entre el Instituto y los trabajadores de base que presten sus servicios, se regirán por lo dispuesto en el Reglamento Interior de Trabajo del Municipio de Aguascalientes.
+Las relaciones entre el Instituto y los trabajadores de base que presten sus servicios en él, se regirán por lo dispuesto en el Reglamento Interior de Trabajo del Instituto Municipal de Vivienda de Aguascalientes y, de manera supletoria, por lo dispuesto en el Reglamento Interior de Trabajo del Municipio de Aguascalientes.
+
+El Reglamento Interior de Trabajo del Instituto Municipal de Vivienda de Aguascalientes, no deberá contravenir las disposiciones de la Ley Federal del Trabajo ni del Reglamento Interior de Trabajo del Municipio de Aguascalientes.
 
 ###### ARTÍCULO 73.
 
@@ -1266,3 +1302,7 @@ El secretario ejecutivo de dicho Comité deberá realizar la convocatoria corres
 ###### ARTÍCULO TERCERO.
 
 El Comité Interno de Licitación de Obra Pública y Servicios relacionados deberá ser integrado a más tardar a los 15 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 22 DE FEBRERO DE 2010.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
