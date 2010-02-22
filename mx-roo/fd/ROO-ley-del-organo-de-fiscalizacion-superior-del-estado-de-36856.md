@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-organo-de-fiscalizacion-superior-del-estado-de-36856"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-16"
-last_updated: "2005-12-14"
+last_updated: "2010-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE QUINTANA ROO -ANTES LEY DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE QUINTANA ROO-
 
-LEY DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE QUINTANA ROO
+LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2010.
 
 Ley Publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 16 de diciembre de 2003.
 
@@ -35,7 +35,9 @@ LA HONORABLE X LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTAN
 
 D E C R E T A:
 
-LEY DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE QUINTANA ROO
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE FEBRERO DE 2010)</small>
+
+LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE QUINTANA ROO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -57,11 +59,13 @@ III. Municipios: La totalidad de los que integran el Estado de Quintana Roo, inc
 
 IV. Legislatura: La Legislatura del Estado de Quintana Roo.
 
-V. Auditoría Superior del Estado: El Órgano Superior de Fiscalización a que se refiere el artículo 77 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+V. Auditoría Superior del Estado: El Órgano de Fiscalización Superior del Estado a que se refiere el artículo 77 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 VI. Comisión: La Comisión de Hacienda, Presupuesto y Cuenta de la Legislatura del Estado de Quintana Roo.
 
-VII. Entes públicos estatales.- Los organismos públicos autónomos estatales, así como los órganos jurisdiccionales de carácter administrativo, que determinen las leyes.
+VII. Entes públicos estatales: Los organismos públicos autónomos estatales, así como los órganos jurisdiccionales de carácter administrativo, que determinen las leyes.
 
 VIII. Entes públicos municipales: Los organismos públicos autónomos municipales, que determinen las leyes.
 
@@ -81,9 +85,33 @@ XIV. Reglamento interior: El Reglamento Interior de la Auditoría Superior del E
 
 Son sujetos de revisión y de fiscalización superior los Poderes del Estado, los Municipios, los entes públicos estatales y municipales, así como las demás entidades fiscalizables.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 4º.
 
-La fiscalización superior que realice la Auditoría Superior del Estado será posterior a la gestión financiera; tiene carácter externo y por lo tanto es independiente y autónoma de cualquier otra forma de control o fiscalización interna de los Poderes del Estado, Municipios y entes públicos estatales y municipales.
+La fiscalización superior que realice la Auditoría Superior del Estado será posterior a la gestión financiera; tiene carácter externo y por lo tanto es independiente y autónoma de cualquier otra forma de control o fiscalización interna de los Poderes del Estado, municipios y entes públicos estatales y municipales, y será ejercida conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+###### Artículo 4º Bis.
+
+Las entidades fiscalizables tendrán las siguientes obligaciones:
+
+I.- Entregar en los plazos establecidos y de manera completa las cuentas públicas;
+
+II.- Permitir las visitas y auditorías que realice la Auditoría Superior del Estado;
+
+III.- Proporcionar la documentación que solicite la Auditoría Superior del Estado para llevar a cabo la fiscalización que realice o cualquier otra información que les requiera en ejercicio de sus funciones. Igual obligación tienen los servidores públicos de las administraciones públicas estatal y municipal, así como las instituciones privadas, particulares o cualquier entidad fiscalizable que haya ejercido recursos públicos;
+
+IV.- Entregar las cuentas públicas en los plazos y términos que señala esta ley;
+
+V.- Rendir los informes sobre el seguimiento de las observaciones;
+
+VI.- Presentar lo necesario para la solventación de las observaciones en los plazos indicados; y
+
+VII.- Conducir su gestión financiera bajo los principios de eficiencia, eficacia, economía, transparencia y honradez.
+
+El incumplimiento de las obligaciones a que se refiere este artículo por parte de las entidades fiscalizables, dará lugar a la imposición de las sanciones que se señalan en esta ley.
 
 ###### Artículo 5º.
 
@@ -107,9 +135,11 @@ d) El resultado de las operaciones de los Poderes del Estado, Municipios y entes
 
 e) La documentación original comprobatoria y justificativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 7º.
 
-Las Cuentas Públicas deberán ser presentadas a la Auditoría Superior del Estado a más tardar en los diez días siguientes a la apertura del primer período ordinario de sesiones de la Legislatura, posterior al ejercicio fiscal que corresponda, por:
+Las cuentas públicas deberán ser presentadas a la Auditoría Superior del Estado a más tardar el cinco de abril posterior al año del ejercicio fiscal que corresponda, por:
 
 a) El Poder Legislativo del Estado;
 
@@ -169,9 +199,29 @@ VI. Si en la gestión financiera se cumple con las leyes, decretos, reglamentos 
 
 VII. Si la recaudación, administración, manejo y aplicación de recursos estatales y municipales, y los actos, contratos, convenios, concesiones u operaciones que las entidades fiscalizadas celebren o realicen, se ajustan a la legalidad, y si no han causado daños o perjuicios en contra del Estado y Municipios en su hacienda pública o patrimonio o en el patrimonio de los entes públicos estatales o municipales;
 
-VIII. Las responsabilidades a que haya lugar, y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
-IX. La imposición de las sanciones resarcitorias correspondientes en los términos de esta ley.
+VIII. Las responsabilidades a que haya lugar;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+IX. La imposición de las sanciones resarcitorias correspondientes en los términos de esta ley; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+X. Verificar el cumplimiento de los objetivos contenidos en los programas.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+Para efecto de lo previsto en la fracción XI del presente artículo, la Auditoría Superior del Estado podrá realizar auditorías del desempeño de los programas, verificando la eficiencia, la eficacia y la economía de los mismos y su efecto o la consecuencia en las condiciones sociales, económicas y en su caso, regionales del Estado durante el periodo que se evalúe; además de constatar si se cumplieron las metas de los indicadores aprobados en el Presupuesto y si dicho cumplimiento tiene relación con el Plan Estatal de Desarrollo y los programas sectoriales.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+Las observaciones que, en su caso, emita la Auditoría Superior del Estado derivado de la fiscalización de la Cuenta Pública, podrán derivar en:
+
+I. Acciones promovidas, incluyendo solicitudes de aclaración, pliegos de observaciones, promociones de intervención de la instancia de control competente, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, denuncias de hechos y denuncias de juicio político, y
+
+II. Recomendaciones, incluyendo las referentes al desempeño.
 
 ###### Artículo 11.
 
@@ -190,6 +240,22 @@ La Auditoría Superior del Estado tendrá acceso o podrá solicitar a las entida
 Las entidades fiscalizables rendirán la información a que se refiere el párrafo anterior dentro de los plazos que señale la Auditoría Superior del Estado, los cuales no podrán ser inferiores de 5 días ni mayores de 30 días contados a partir del día siguiente a la recepción del requerimiento.
 
 La Auditoría Superior del Estado podrá imponer multa de cien días de salario mínimo general a las entidades fiscalizables que no rindan los informes dentro de los plazos señalados en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+Los servidores públicos y las personas físicas o morales, públicas o privadas, que capten, reciban, recauden, administren, manejen, ejerzan y custodien recursos públicos federales, estatales y municipales, deberán atender los requerimientos que les formule la Auditoría Superior del Estado durante la planeación, desarrollo de las auditorías y el seguimiento de las acciones que emita dentro de los plazos establecidos en esta ley, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+Cuando derivado de la complejidad de los requerimientos de información formulados por parte de la Auditoría Superior del Estado, se requiera un plazo mayor para ser atendidos, esta última a propuesta de las entidades fiscalizadas podrá determinar conjuntamente con las mismas los plazos de entrega de información, los cuales serán improrrogables.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+También se aplicarán las multas a los terceros que hubieran contratado obra pública, bienes o servicios mediante cualquier título legal con las entidades fiscalizadas, cuando no entreguen la documentación e información que les requiera en los plazos previstos en la ley correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+No se impondrán las multas, cuando el incumplimiento por parte de los servidores públicos o particulares se derive de causas ajenas a su responsabilidad.
 
 ###### Artículo 14.
 
@@ -225,9 +291,11 @@ La Auditoría Superior del Estado será responsable solidaria de los daños y pe
 
 ### CAPÍTULO TERCERO. Del Informe del Resultado
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 22.
 
-La Auditoría Superior del Estado, deberá entregar a la Legislatura, por conducto de la Comisión de Hacienda, Presupuesto y Cuenta, el Informe del Resultado correspondiente, a más tardar en los diez días siguientes a la apertura del segundo período ordinario de sesiones del mismo año de su presentación.
+La Auditoría Superior del Estado, deberá entregar a la Legislatura, por conducto de la Comisión de Hacienda, Presupuesto y Cuenta, el Informe del Resultado correspondiente, a más tardar el 27 de septiembre del mismo año de presentación de la cuenta pública.
 
 El Informe del Resultado tendrá carácter público a partir de la fecha de su presentación a la Legislatura; hasta en tanto, la Auditoría Superior del Estado deberá guardar reserva de sus actuaciones e informaciones sobre el mismo.
 
@@ -239,65 +307,113 @@ I. Los dictámenes de la revisión de la respectiva Cuenta Pública;
 
 II. En su caso, el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, con respecto la evaluación de la consecución de sus objetivos y metas, así como de la satisfacción de las necesidades correspondientes, bajo criterios de eficacia, eficiencia y economía;
 
-III. El cumplimiento de los principios básicos de contabilidad gubernamental y de las disposiciones contenidas en los ordenamientos legales y reglamentarios correspondientes;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
-IV. Los resultados de la gestión financiera;
+III. El cumplimiento de los principios básicos de contabilidad gubernamental, las normas de información financiera y de las disposiciones contenidas en los ordenamientos legales y reglamentarios correspondientes;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+IV. La evaluación y los resultados de la gestión financiera;
 
 V. La comprobación de que las entidades fiscalizadas, se ajustaron a lo dispuesto en las respectivas leyes de ingresos y presupuestos de egresos, y en las demás normas aplicables en la materia;
 
-VI. El análisis de las desviaciones presupuestarias, en su caso, y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
-VII. Los procedimientos iniciados para el fincamiento de responsabilidades y la imposición de las sanciones respectivas, así como la promoción de otro tipo de responsabilidades, denuncias de hechos presuntamente ilícitos, que realice de conformidad con lo dispuesto en esta ley.
+VI. El análisis de las desviaciones presupuestarias;
 
-VIII. En el supuesto de que conforme a la fracción II de este artículo, no se cumplan con los objetivos y metas establecidas en los programas aprobados, la Auditoría Superior del Estado hará las observaciones y recomendaciones que a su juicio sean procedentes.
+VII. Los procedimientos iniciados para el fincamiento de responsabilidades y la imposición de las sanciones respectivas, así como la promoción de otro tipo de responsabilidades, denuncias de hechos presuntamente ilícitos, que realice de conformidad con lo dispuesto en esta ley;
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+VIII. En el supuesto de que conforme a la fracción II de este artículo, no se cumplan con los objetivos y metas establecidas en los programas aprobados, la Auditoría Superior del Estado hará las observaciones y recomendaciones que a su juicio sean procedentes;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+IX. Dictamen que establezca el monto en cantidad de los presuntos daños y perjuicios a la hacienda pública estatal o municipales o al patrimonio de las entidades fiscalizables, que se hubieren detectado durante el proceso de fiscalización, sin perjuicio de los que se pudieran detectar de manera adicional en los términos de la presente ley;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+X. Las observaciones del Órgano de Fiscalización Superior del Estado que incluya las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+XI. Las conclusiones y observaciones de la Auditoría Superior del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 24.
 
-La Legislatura deberá examinar y aprobar, en su caso, la Cuenta Pública del Gobierno del Estado, correspondiente al año anterior, a más tardar, en el Primer Período Ordinario de Sesiones del año siguiente al de la entrega del Informe de Resultados.
+La Legislatura deberá examinar y aprobar o rechazar, la Cuenta Pública del Gobierno del Estado, correspondiente al año anterior, a más tardar en el siguiente período ordinario de sesiones del año posterior al de la entrega del Informe de Resultados.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 Dentro del término señalado en el párrafo anterior, la Legislatura del Estado sancionará el Informe del Resultado de la revisión y fiscalización de las Cuentas Públicas de los Municipios.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 Lo establecido en este artículo es sin perjuicio de que la Auditoría Superior del Estado haya iniciado procedimientos para el fincamiento de responsabilidades y la imposición de sanciones, o la promoción de otro tipo de responsabilidades o denuncias de hechos presuntamente ilícitos, de conformidad con lo dispuesto en esta ley.
 
 ### CAPÍTULO CUARTO. DE LA REVISIÓN DE SITUACIONES EXCEPCIONALES
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 25.
 
-Cuando se presenten denuncias debidamente fundadas o por otras circunstancias pueda suponerse el presunto manejo, aplicación o custodia irregular de recursos públicos estatales o municipales, o de su desvío, la Legislatura acordará instruir a la Auditoría Superior del Estado para que proceda a requerir a las entidades fiscalizadas, revisiones de conceptos específicos vinculados de manera directa a las denuncias presentadas. El acuerdo de la Legislatura deberá aportar indicios probatorios razonables, mediante los cuales se presuma que la irregularidad cometida ocasionó un daño al Estado o a los Municipios en su Hacienda Pública o patrimonio, o en el patrimonio de los entes públicos estatales o municipales.
+Sin perjuicio del principio de posterioridad, cuando se presenten denuncias fundadas con documentos o evidencias mediante los cuales se presuma el manejo, aplicación o custodia irregular de recursos públicos federales, o de su desvío, en los supuestos previstos en esta ley, la Auditoría Superior del Estado podrá requerir a las entidades fiscalizadas le rindan un informe de situación excepcional durante el ejercicio fiscal en curso sobre los conceptos específicos o situaciones denunciadas.
+
+La Auditoría Superior del Estado deberá acompañar al requerimiento los documentos o evidencias presentados por los denunciantes al enviar el requerimiento antes mencionado a las entidades fiscalizadas. Las denuncias deberán presentarse directamente a la Legislatura.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 26.
 
-Las entidades fiscalizadas deberán rendir a la Auditoría Superior del Estado, en un plazo que no excederá de treinta días contados a partir de la recepción del requerimiento, un Informe del Resultado de sus actuaciones y, en su caso, de las sanciones que se hubieren impuesto o a que se hubieren hecho acreedores los servidores públicos involucrados. Este informe en ningún caso contendrá información de carácter reservado.
+Las entidades fiscalizadas deberán rendir a la Auditoría Superior del Estado en un plazo que no excederá de treinta días hábiles, contados a partir de la recepción del requerimiento, el informe de situación excepcional donde se describa la procedencia o improcedencia de la denuncia, así como sus actuaciones y, en su caso, de las sanciones que se hubieren impuesto a los servidores públicos involucrados o de los procedimientos sancionatorios iniciados.
 
-La Auditoría Superior del Estado, dentro de los quince días hábiles siguientes a la conclusión de sus actuaciones, dará cuenta a la Legislatura del informe a que se refiere el párrafo anterior, formulando su opinión al respecto y hará del conocimiento de la misma las responsabilidades que en su caso hubiere fincado.
+Con base en el informe de situación excepcional, la Auditoría Superior del Estado podrá, en su caso, fincar las responsabilidades que procedan, promover otras responsabilidades ante las autoridades competentes o solicitar que la instancia de control competente profundice en la investigación de la denuncia formulada e informe de los resultados obtenidos a la Auditoría.
 
-Sin perjuicio del informe a que se refiere el párrafo anterior, la Auditoría Superior del Estado podrá revisar de manera casuística y concreta, información y documentos relacionados con conceptos específicos relativos a los hechos denunciados.
+Sin perjuicio de lo previsto en este artículo, la Auditoría Superior del Estado podrá fiscalizar directamente la situación excepcional una vez concluido el ejercicio fiscal y, en su caso, fincará las responsabilidades que procedan.
+
+Los resultados del informe de situación excepcional y, en su caso, de las sanciones impuestas o promovidas, deberán incluirse en el Informe del Resultado que se envíe a la Legislatura.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 27.
 
-Para los efectos de esta Ley, se entenderá por situaciones excepcionales aquellas en las cuales, de la denuncia que al efecto se presente, se deduzca alguna de las circunstancias siguientes:
+Se entenderá por situaciones excepcionales aquellos casos en los cuales, de la denuncia que al efecto se presente, se deduzca alguna de las circunstancias siguientes:
 
-a) Un daño patrimonial que afecte al Estado o a los Municipios en su Hacienda Pública o patrimonio, o al patrimonio de los entes públicos estatales o municipales, por un monto que resulte superior a tres mil veces el salario mínimo general vigente en el Estado;
+I.- Un daño patrimonial que afecte el patrimonio de los entes fiscalizables, por un monto que resulte superior a tres mil veces el salario mínimo diario general vigente en el Estado;
 
-b) El riesgo de que se paralice la prestación de servicios públicos esenciales para la comunidad.
+II.- Posibles actos de corrupción;
+
+III.- Desvío flagrante de recursos hacia fines distintos a los que están autorizados;
+
+IV. La afectación de áreas estratégicas o prioritarias del Estado; y
+
+V. El riesgo de que se paralice la prestación de servicios públicos esenciales para la comunidad.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 28.
 
-Los sujetos de fiscalización estarán obligados a realizar la revisión que la Auditoría Superior del Estado les requiera, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que conforme a la ley competa a las autoridades y a los servidores públicos de los Poderes, de los Municipios y de los entes públicos estatales y municipales.
+Las entidades fiscalizadas estarán obligadas a realizar una revisión para elaborar el informe de situación excepcional que la Auditoría Superior del Estado les requiera, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que conforme a la ley competa a las autoridades y a los servidores públicos.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 29.
 
-Si transcurrido el plazo señalado en el artículo 26 de esta Ley, la entidad fiscalizada, sin causa justificada, no presenta el informe a que el mismo numeral se refiere, la Auditoría Superior del Estado procederá a fincar las responsabilidades que correspondan e impondrá a los servidores públicos responsables una multa de cien días de salario mínimo general vigente en el Estado. Su reincidencia se podrá castigar con una multa hasta del doble de la ya impuesta, además de que podrá promover la destitución de los responsables ante las autoridades competentes.
+Si transcurrido el plazo señalado en el artículo (sic) en esta ley, la entidad fiscalizada, sin causa justificada, no presenta el informe de situación excepcional, la Auditoría Superior del Estado impondrá a los servidores públicos responsables una multa mínima de 10 a una máxima de 1000 días de salario mínimo general vigente en Quintana Roo, sin perjuicio de la promoción de otras responsabilidades ante las autoridades competentes ni del ejercicio de otras facultades que esta ley le confiere. La reincidencia se podrá castigar con multa hasta del doble de la ya impuesta, además de que podrá promover la destitución de los servidores públicos responsables ante las autoridades competentes.
 
 ###### Artículo 30.
 
 El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2010)</small>
+
+Cuando la Auditoría Superior del Estado, además de imponer la sanción respectiva, requiera al infractor para que en un plazo determinado, que nunca será mayor a treinta días hábiles, cumpla con la obligación omitida motivo de la sanción y éste incumpla, será sancionado como reincidente.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 31.
 
-Cuando la Auditoría Superior del Estado, además de imponer la sanción respectiva, requiera al infractor para que en un plazo determinado, que nunca será mayor a treinta días, cumpla con la obligación omitida motivo de la sanción y éste incumpla, será sancionado como reincidente.
+Para imponer la multa que corresponda, la Auditoría Superior del Estado debe oír previamente al presunto infractor y tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida y en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta ley.
 
 ###### Artículo 32.
 
@@ -503,9 +619,11 @@ Las demás responsabilidades de carácter político, civil, administrativo o pen
 
 ### CAPÍTULO PRIMERO. Naturaleza Jurídica y Atribuciones
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 59.
 
-La Auditoría Superior del Estado es el Órgano Superior de Fiscalización de la Legislatura que tiene a su cargo la revisión y fiscalización superior de la Cuenta Pública de los Gobiernos Estatal y Municipales, así como las demás funciones que expresamente le encomienden la Constitución Política del Estado, esta Ley y demás ordenamientos legales y reglamentarios aplicables; goza de autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones; y cuenta con personalidad jurídica y patrimonio, de conformidad con lo establecido en esta Ley.
+La Auditoría Superior del Estado es el Órgano de Fiscalización Superior de la Legislatura que tiene a su cargo la revisión y fiscalización superior de la Cuenta Pública de los Gobiernos Estatal y Municipales, así como las demás funciones que expresamente le encomienden la Constitución Política del Estado, esta Ley y demás ordenamientos legales y reglamentarios aplicables; goza de autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones; y cuenta con personalidad jurídica y patrimonio, de conformidad con lo establecido en esta Ley.
 
 ###### Artículo 60.
 
@@ -555,35 +673,55 @@ XX. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento
 
 ### CAPÍTULO SEGUNDO. De la Organización e Integración
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 61.
 
-Al frente de la Auditoría Superior del Estado habrá un Auditor Superior del Estado designado por el voto de las dos terceras partes de los integrantes de la Legislatura.
+Al frente de la Auditoría Superior del Estado habrá un Auditor Superior del Estado electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura.
 
 La persona designada para ocupar el cargo, protestará ante el Pleno de la Legislatura.
 
+La Legislatura del Estado, al elegir al Auditor Superior del Estado, elegirá a un Auditor Superior suplente, en los términos previstos en esta Ley, quien cubrirá las ausencias o falta definitivas del titular del órgano de fiscalización del Estado.
+
+La persona designada como titular suplente, protestará ante el Pleno de la Legislatura al entrar en el ejercicio de funciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 62.
 
-La designación del Auditor Superior del Estado se sujetará al procedimiento siguiente:
+La designación del Auditor Superior del Estado y del suplente, se sujetará al procedimiento siguiente:
 
 I. La Comisión formulará la convocatoria pública correspondiente, a efecto de recabar durante un período de cinco días contados a partir de la fecha de publicación de la convocatoria, las solicitudes para ocupar el puesto de Auditor Superior del Estado;
 
 II. Concluido el plazo anterior y recibidas las solicitudes con los requisitos y documentos que señale la convocatoria, la Comisión, dentro de los tres días siguientes, procederá a la revisión y análisis de las mismas;
 
-III. Del análisis de las solicitudes los integrantes de la Comisión entrevistarán por separado para la evaluación respectiva y dentro de los tres días siguientes, a los candidatos que, a su juicio, considere idóneos para la conformación de una terna, y
+III. Del análisis de las solicitudes los integrantes de la Comisión entrevistarán por separado para la evaluación respectiva y dentro de los tres días siguientes, a los candidatos que, a su juicio, considere idóneos para la conformación de una terna, y (sic)
 
-IV. Conformada la terna, en un plazo que no deberá exceder de tres días, la Comisión formulará su dictamen, a fin de proponer al Pleno de la Legislatura los tres candidatos, para que éste proceda, en los términos del artículo anterior, a la designación del Auditor Superior del Estado.
+IV. Conformada la terna, en un plazo que no deberá exceder de tres días, la Comisión formulará su dictamen, a fin de proponer al Pleno de la Legislatura los tres candidatos, para que éste proceda, en los términos del artículo anterior, a la designación del Auditor Superior del Estado;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+V. Acto seguido, el Pleno de la Legislatura procederá a elegir al Auditor Superior suplente de entre los restantes integrantes de la misma terna, por el voto de las dos terceras partes de los miembros presentes de la Legislatura.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 63.
 
-En caso de que ningún candidato de la terna propuesta en el dictamen para ocupar el cargo de Auditor Superior del Estado, haya obtenido la votación de las dos terceras partes de los integrantes de la Legislatura, se volverá a someter una nueva propuesta en los términos del artículo anterior. Ningún candidato propuesto en el dictamen rechazado por el Pleno podrá participar de nueva cuenta en el proceso de selección.
+En caso de que ningún candidato de la terna propuesta en el dictamen para ocupar el cargo de Auditor Superior del Estado, haya obtenido la votación de las dos terceras partes de los miembros presentes de la Legislatura, se volverá a someter una nueva propuesta en los términos del artículo anterior. Ningún candidato propuesto en el dictamen rechazado por el Pleno podrá participar de nueva cuenta en el proceso de selección.
+
+El mismo procedimiento se observará para el caso de la elección del Auditor Superior suplente.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 64.
 
-El Auditor Superior del Estado durará en el encargo cinco años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido por la Legislatura por las causas graves a que se refiere el artículo 76 de esta Ley, con la misma votación requerida para su nombramiento. Si esta situación se presenta estando en receso la Legislatura, la Diputación Permanente podrá convocar a un período extraordinario para que resuelva en torno a dicha remoción.
+El Auditor Superior del Estado durará en el encargo siete años. Podrá ser removido por la Legislatura por las causas graves a que se refiere el artículo 74 de esta ley, con la misma votación requerida para su nombramiento. Si esta situación se presenta estando en receso la Legislatura, la Diputación Permanente podrá convocar a un periodo extraordinario para que resuelva en torno a dicha remoción.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 65.
 
-El Auditor Superior del Estado será suplido en sus ausencias temporales por los auditores especiales en el orden que señale el Reglamento Interior de la Auditoría Superior del Estado. En caso de falta definitiva, la Comisión dará cuenta a la Legislatura para que designe, en términos del artículo 62 de esta Ley, al Auditor Superior del Estado que concluirá el encargo. Durante el receso de la Legislatura, la Diputación Permanente designará al Titular con el carácter de interino.
+El Auditor Superior del Estado será suplido en sus ausencias temporales por los auditores especiales en el orden que señale el Reglamento Interior de la Auditoría Superior del Estado. En caso de ausencia o falta definitiva, entrará en funciones el Auditor Superior suplente, que concluirá el encargo. Durante el receso de la Legislatura, la Diputación Permanente designará al Titular con el carácter de interino, en caso de ausencia o falta definitiva del Auditor Superior suplente.
 
 ###### Artículo 66.
 
@@ -599,11 +737,21 @@ IV. No pertenecer al Estado Eclesiástico ni ser ministro de algún culto religi
 
 V. Haber residido en el estado los diez años anteriores al día de la designación;
 
-VI. No haber sido en los dos años anteriores a la designación, Secretario de Despacho del Ejecutivo del Estado o su equivalente; Director General o su equivalente en las entidades de la Administración Pública Estatal; titular de los entes públicos estatales; Presidente, Síndico o Tesorero Municipal, ni dirigente de algún partido político, ni haber sido postulado para cargo de elección popular;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
-VII. Contar al momento de su designación con una experiencia mínima de cinco años en auditoría gubernamental; y
+VI. No haber sido en los dos años anteriores a la designación, Secretario de Despacho del Ejecutivo del Estado o su equivalente; Procurador General de Justicia del Estado; Director General o su equivalente en las entidades de la Administración Pública Estatal; titular de los entes públicos estatales; Presidente, Síndico o Tesorero Municipal, ni dirigente de algún partido político, ni haber sido postulado para cargo de elección popular;
 
-VIII. Contar el día de su designación, con antigüedad mínima de diez años, con título y cédula profesionales de Licenciado en Contaduría o Contador Público, o sus equivalentes, expedidos por autoridad o institución legalmente facultada para ello.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+VII. Contar al momento de su designación con una experiencia mínima de cinco años en materia de control, auditoría financiera y de responsabilidades; y
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
+VIII. Contar el día de su designación, con antigüedad mínima de diez años, con título y cédula profesionales de Licenciado en Contaduría o Contador Público, Derecho, Administración, Economía o Finanzas, o sus equivalentes, expedidos por autoridad o institución legalmente facultada para ello.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+Los mismos requisitos deberá satisfacer el Auditor Superior suplente.
 
 ###### Artículo 67.
 
@@ -891,6 +1039,54 @@ IX. Las demás que establezca esta Ley y demás disposiciones aplicables.
 
 La Comisión proveerá lo necesario para garantizar la autonomía técnica y de gestión de la Auditoría Superior del Estado.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+### CAPÍTULO SEXTO. Del Procedimiento Sancionador
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+###### Artículo 96.
+
+La Auditoría Superior del Estado podrá imponer sanciones por infracciones a esta ley, a los servidores públicos de las entidades fiscalizables, de la propia Auditoría y a las personas físicas o morales a quienes les resulte aplicable la presente ley.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+###### Artículo 97.
+
+Las infracciones a las disposiciones previstas en la presente ley serán sancionadas por la Auditoría Superior del Estado con:
+
+I.- Amonestación Privada;
+
+II.- Amonestación Pública;
+
+III.- Multa de 10 hasta 1000 veces el salario mínimo general vigente en el Estado.
+
+Las multas que imponga la Auditoría deberán ser notificadas al infractor, quien contará con un plazo de quince días naturales siguientes a partir de la fecha de notificación para su cumplimiento. En caso contrario, las multas se constituirán en créditos fiscales y se deberán hacer efectivas mediante la Secretaría de Hacienda o las Tesorerías municipales o el Órgano de Control interno respectivo, según corresponda, conforme al procedimiento administrativo de ejecución.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+###### Artículo 98.
+
+La Auditoría Superior del Estado en la imposición de sanciones deberá tomar en cuenta lo siguiente:
+
+I.- La gravedad de la falta;
+
+II.- Las condiciones económicas y grado de escolaridad del infractor.
+
+Para determinar las condiciones económicas del infractor, en el supuesto de servidores públicos o funcionarios o empleados del sector privado se atenderá a las percepciones que por cualquier concepto hayan recibido por la prestación de sus servicios a las dependencias o instituciones públicas o empresas o instituciones privadas en el año anterior al momento de cometerse la infracción. Para tal efecto, dichas dependencias, o instituciones públicas o privadas estarán obligadas a dar esa información a la Auditoría Superior del Estado, cuando ésta así se los requiera;
+
+III.- El nivel jerárquico, tratándose de servidores públicos; y
+
+IV.- La reincidencia de la conducta, en cuyo caso el monto de la multa se podrá duplicar.
+
+Se considerará reincidente, al que habiendo incurrido en una infracción y haya sido sancionado, cometa otra del mismo tipo o naturaleza.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+###### Artículo 99.
+
+El importe de las multas que se recuperen por las sanciones impuestas derivado del incumplimiento de las disposiciones de esta ley, se depositarán en el Fondo para el Fortalecimiento de la Fiscalización Superior del Estado de Quintana Roo.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor el día primero de enero del año 2004, previa su publicación en el Periódico Oficial del Gobierno del Estado, y se aplicará lo dispuesto en los artículos transitorios siguientes.
@@ -936,3 +1132,15 @@ LIC. EFRAÍN VILLANUEVA ARCOS.
 P.O. 14 DE DICIEMBRE DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 22 DE FEBRERO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Artículo Segundo.- El nuevo esquema de revisión y fiscalización de la Cuenta Pública del ejercicio fiscal 2009 y anteriores, así como los procedimientos y actuaciones derivados de las mismas, se efectuarán y resolverán conforme a las disposiciones vigentes en dichos ejercicios.
+
+Artículo Tercero.- Las referencias que en las leyes se hagan al Órgano Superior de Fiscalización del Estado, se entenderán hechas al Órgano de Fiscalización Superior del Estado y a la Auditoría Superior del Estado.
+
+ARTÍCULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
