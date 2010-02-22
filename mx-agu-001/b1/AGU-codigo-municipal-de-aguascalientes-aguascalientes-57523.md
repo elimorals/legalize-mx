@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2010-01-11"
+last_updated: "2010-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1223,7 +1223,7 @@ Departamento de Cuenta Pública.
 
 Departamento de Administración y Deuda Pública.
 
-> <small>(REFORMADA, P.O 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
 XI.- SECRETARÍA DE OBRAS PÚBLICAS
 
@@ -15939,6 +15939,10 @@ En el caso de los bares, centros nocturnos y discotecas se establecerá el cupo 
 
 Las tiendas de abarrotes, misceláneas, ultramarinos, minisuper y supermercados, depósitos de cerveza, depósitos de vinos y licores, podrán vender bebidas alcohólicas, previa licencia que expida la Presidencia Municipal por conducto de la Dirección General de Gobierno, únicamente en botella cerrada.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
+
+Tienda de convivencia es el establecimiento perteneciente a una cadena comercial o grupo de franquicias local, nacional o internacional, que puede funcionar las veinticuatro horas, durante todos los días del año y expender bebida alcohólicas de cualquier graduación de las nueve a las veintidós horas, cuyo giro comercial sea la venta de artículos diversos de abarrotes, bebidas, dulces, cigarros, enlatados, congelados, conservas, comida rápida que se prepara en el mismo lugar, farmacéuticos básicos y de venta libre, periódicos, revistas, productos de uso doméstico y para la higiene personal, entre otros, teniendo una variedad menor de productos que los supermercados, pudiendo ser proveedor de algunos servicios, tales como cajeros automáticos de bancos o instituciones financieras o pagos diversos a favor de empresas públicas o privadas.
+
 ###### ARTÍCULO 1315.
 
 En los establecimientos referidos en el artículo anterior estará prohibido el consumo dentro del establecimiento y su horario de funcionamiento de manera general será de las nueve a las veintidós horas para venta de dichos productos, los giros de abarrotes con venta de cerveza, vinos y licores deberán tener predominantemente abarrotes.
@@ -19348,3 +19352,9 @@ P.O. 11 DE ENERO DE 2010.
 DECRETO POR EL QUE SE REFORMA EL 829 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.
+
+P.O. 22 DE FEBRERO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
