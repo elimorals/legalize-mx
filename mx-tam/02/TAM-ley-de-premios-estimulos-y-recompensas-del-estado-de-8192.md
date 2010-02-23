@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-premios-estimulos-y-recompensas-del-estado-de-8192"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-26"
-last_updated: "2006-09-06"
+last_updated: "2010-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 26 de diciembre de 1987.
 
@@ -185,9 +185,19 @@ VIII.- Premio Estatal de Solidaridad Social;
 
 IX.- Premio Estatal de Antigüedad en el Servicio Público;
 
-X.- Premio Estatal Maestro Rafael Ramírez; y
+X.- Premio Estatal Maestro Rafael Ramírez; y (sic)
 
-XI.- Premio Estatal de Ecología y Protección al Ambiente.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2010)</small>
+
+XI.- Premio Estatal de Ecología y Protección al Ambiente;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2010)</small>
+
+XII.- Premio Estatal al mérito ciudadano General José Bernardo Maximiliano Gutiérrez de Lara; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2010)</small>
+
+XIII.- Premio Estatal al mérito ciudadano General Alberto Carrera Torres.
 
 ###### ARTICULO 19.
 
@@ -641,9 +651,23 @@ La Comisión Estatal de Ecología fungirá como Jurado, y se integrará en los t
 
 El Premio consistirá en placa y podrá acompañarse de una entrega en numerario o en especie, cuando así lo acuerde el Gobierno del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE FEBRERO DE 2010)</small>
 
-### CAPITULO XVI. ESTIMULOS Y RECOMPENSAS
+### CAPITULO XVI. PREMIO ESTATAL AL MERITO CIUDADANO GENERAL JOSE BERNARDO MAXIMILIANO GUTIERREZ DE LARA Y PREMIO ESTATAL AL MERITO CIUDADANO GENERAL ALBERTO CARRERA TORRES
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2010)</small>
+
+ARTICULO 89 BIS.- El Premio Estatal al mérito ciudadano General José Bernardo Maximiliano Gutiérrez de Lara y el Premio Estatal al mérito ciudadano General Alberto Carrera Torres, se conferirán de manera indistinta a aquél individuo que se distinga entre la población por su labor de fortalecimiento de las libertades, los derechos humanos y la democracia.
+
+El premio se tramitará ante la Secretaría General de Gobierno, cuyo titular presidirá el Consejo de Premiación, el cual se integrará, además, por el Presidente de la Comisión de Derechos Humanos del Estado y los titulares de las Secretarías de Desarrollo Económico y del Empleo, de Desarrollo Social, Cultura y Deporte y de Educación.
+
+El premio consistirá en una medalla y podrá promoverlo cualquier persona.
+
+Si fallece el titular del premio, la familia de éste será quien reciba la medalla otorgada.
+
+(REUBICADO [N. DE E. ANTES CAPITULO XVI], P.O. 23 DE FEBRERO DE 2010)
+
+### CAPITULO XVII. ESTIMULOS Y RECOMPENSAS
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -740,3 +764,9 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE FEBRERO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
