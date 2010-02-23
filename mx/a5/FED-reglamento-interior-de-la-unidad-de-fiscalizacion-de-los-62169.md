@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-unidad-de-fiscalizacion-de-los-62169"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-14"
-last_updated: "2008-08-14"
+last_updated: "2010-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62169&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-07-10"
 
 REGLAMENTO INTERIOR DE LA UNIDAD DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 2010.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 14 de agosto de 2008.
 
@@ -129,15 +129,31 @@ IV. Consejeros: Los Consejeros Electorales del Consejo General;
 
 V. Secretario Ejecutivo: El Secretario Ejecutivo del Instituto Federal Electoral;
 
-VI. Dirección General: La Dirección General de la Unidad de Fiscalización de los Recursos de los Partidos Políticos;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2010)</small>
 
-VII. Dirección de Auditoría: La Dirección de Auditoría de Partidos Políticos, Agrupaciones Políticas y Otros;
+VI. Unidad de Fiscalización: La Unidad de Fiscalización de los Recursos de los Partidos Políticos;
 
-VIII. Dirección de Quejas: La Dirección de Quejas y Procedimientos Oficiosos; y
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2010)</small>
 
-IX. Dirección de Normatividad: La Dirección de Resoluciones, Normatividad y Consultas.
+VII. Dirección General: La Dirección General de la Unidad de Fiscalización de los Recursos de los Partidos Políticos;
 
-### CAPITULO SEGUNDO. De la Estructura y Atribuciones de la Unidad de Fiscalización. ARTICULO 4
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+VIII. Dirección de Auditoría: La Dirección de Auditoría de Partidos Políticos, Agrupaciones Políticas y Otros;
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+IX. Dirección de Resoluciones: La Dirección de Resoluciones y Normatividad;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+X. Tribunal Electoral: El Tribunal Electoral del Poder Judicial de la Federación.
+
+### CAPITULO SEGUNDO. De la Estructura y Atribuciones de la Unidad de Fiscalización
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+ARTICULO 4
 
 1. La Unidad de Fiscalización ejercerá sus funciones a través de la siguiente estructura:
 
@@ -145,9 +161,7 @@ a) La Dirección General de la Unidad de Fiscalización;
 
 b) La Dirección de Auditoría de Partidos Políticos, Agrupaciones Políticas y Otros;
 
-c) La Dirección de Quejas y Procedimientos Oficiosos; y
-
-d) La Dirección de Resoluciones, Normatividad y Consultas.
+c) La Dirección de Resoluciones y Normatividad.
 
 ARTICULO 5
 
@@ -165,7 +179,9 @@ a) Cumplir los acuerdos del Consejo;
 
 b) Dirigir, supervisar y evaluar el desarrollo de los programas y acciones internas, así como el despacho de los asuntos administrativos y recursos de las áreas que integran la Unidad de Fiscalización;
 
-c) Proponer y promover programas de modernización, simplificación y desconcentración, así como medidas de mejoramiento de la organización y administración en el ámbito de su competencia;
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+c) Proponer y promover programas de modernización y simplificación, así como medidas de mejoramiento de la organización y administración en el ámbito de su competencia;
 
 d) Aplicar, con pleno respeto a la autonomía del Instituto, los mecanismos de coordinación con las dependencias, entidades e instancias con las que las necesidades del servicio y sus programas específicos obliguen a relacionarse;
 
@@ -213,7 +229,29 @@ y) Tramitar y dar respuesta a las solicitudes de colaboración que generen las a
 
 z) Tramitar y desahogar las consultas en materia de transparencia relacionadas con los recursos de los partidos políticos, las agrupaciones políticas nacionales, las organizaciones de ciudadanos que pretendan obtener registro como partido político, así como las organizaciones de observadores electorales;
 
-aa) Las demás que les confiera el Código y otras disposiciones aplicables.
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+aa) Remitir a la Comisión Nacional Bancaria y de Valores, al Servicio de Administración Tributaria, y a la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público, los nombres de todos los aportantes, así como los montos de sus aportaciones, que sean reportados en los informes anuales y de campaña.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+ab) Remitir a la Comisión Nacional Bancaria y de Valores, al Servicio de Administración Tributaria, y a la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público, los listados de las personas que encuadren en la definición de personas políticamente expuestas, relacionadas con la materia electoral, así como notificarles cuando éstas dejen de ostentarse con la condición o cargo que tenían.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+ac) Designar a los auditores que se estimen convenientes, a efecto de verificar el desarrollo de las actividades de recaudación por autofinanciamiento que realicen los partidos políticos.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+ad) Contratar los servicios de personal calificado en materia de auditoría y contabilidad para la orientación y capacitación preventiva, así como para conocer las reglas y técnicas de identificación de posibles recursos de procedencia ilícita y de proveedores, además de otros temas que sean necesarios para el adecuado cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+ae) Notificar a la Comisión Nacional Bancaria y de Valores, al Servicio de Administración Tributaria, y a la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público, la conclusión del procedimiento de revisión de informes cuando éstos hayan quedado firmes.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+af) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 ARTICULO 7
 
@@ -261,13 +299,19 @@ b) Recibir y revisar los informes de ingresos y gastos que presenten las agrupac
 
 c) Elaborar y presentar a la Dirección General para su aprobación los dictámenes derivados de las revisiones a los informes señalados en los incisos anteriores;
 
-d) Desahogar los requerimientos y acatar las resoluciones sobre los asuntos relativos a la Dirección de Auditoría, emitidos por el Tribunal Electoral del Poder Judicial de la Federación;
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+d) Desahogar los requerimientos y acatar las resoluciones sobre los asuntos relativos a la Dirección de Auditoría, emitidos por el Tribunal Electoral;
 
 e) Proporcionar a los partidos políticos, a las agrupaciones políticas nacionales, a las organizaciones de ciudadanos que pretendan obtener registro como partido político, y a las organizaciones a las que pertenezcan los observadores electorales la orientación, asesoría y capacitación necesarias para el cumplimiento de las obligaciones consignadas en el Código y en los Reglamentos para la Fiscalización respectivos;
 
-f) Elaborar y presentar a la Dirección General para su aprobación, en coordinación con la Dirección de Normatividad, los proyectos de Reglamento para la Fiscalización de los partidos políticos, las agrupaciones políticas nacionales, las organizaciones de ciudadanos que pretendan obtener registro como partido político, y las organizaciones a las que pertenezcan los observadores electorales; así como los acuerdos para regular el registro contable de los ingresos y egresos, formatos, las características de la documentación comprobatoria, los requisitos que deberán satisfacer los informes de ingresos y egresos y, en general, el manejo de sus recursos;
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
 
-g) Presentar a la Dirección General para su aprobación, en coordinación con la Dirección de Normatividad, las normas generales de contabilidad y registro de operaciones aplicables a los partidos políticos, a las agrupaciones políticas nacionales, a las organizaciones de ciudadanos que pretendan obtener registro como partido político, y a las organizaciones a las que pertenezcan los observadores electorales;
+f) Elaborar y presentar a la Dirección General para su aprobación, en coordinación con la Dirección de Resoluciones, los proyectos de Reglamento para la Fiscalización de los partidos políticos, las agrupaciones políticas nacionales, las organizaciones de ciudadanos que pretendan obtener registro como partido político, y las organizaciones a las que pertenezcan los observadores electorales; así como los acuerdos para regular el registro contable de los ingresos y egresos, formatos, las características de la documentación comprobatoria, los requisitos que deberán satisfacer los informes de ingresos y egresos y, en general, el manejo de sus recursos;
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+g) Presentar a la Dirección General para su aprobación, en coordinación con la Dirección de Resoluciones, las normas generales de contabilidad y registro de operaciones aplicables a los partidos políticos, a las agrupaciones políticas nacionales, a las organizaciones de ciudadanos que pretendan obtener registro como partido político, y a las organizaciones a las que pertenezcan los observadores electorales;
 
 h) Requerir información complementaria respecto de los diversos apartados de los informes de ingresos y egresos o documentación comprobatoria de cualquier otro aspecto vinculado a los mismos;
 
@@ -287,79 +331,61 @@ o) Conservar los sistemas de registro proporcionados por los partidos políticos
 
 p) Las demás que le sean encomendadas por la Dirección General.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
 ARTICULO 9
 
-1. Serán funciones y atribuciones de la Dirección de Quejas las siguientes:
+1. Serán funciones y atribuciones de la Dirección de Resoluciones las siguientes:
 
-a) Tramitar y desahogar los procedimientos administrativos respecto de las quejas y procedimientos oficiosos en materia de fiscalización, y vigilar el origen y aplicación de los recursos de los partidos y agrupaciones políticas;
+a) Tramitar y sustanciar los procedimientos administrativos respecto de las quejas y procedimientos oficiosos en materia de fiscalización, y vigilar el origen y aplicación de los recursos de los partidos y agrupaciones políticas, en términos del Código y del Reglamento de la materia;
 
-b) Substanciar los procedimientos administrativos sancionadores electorales que guarden relación con los recursos de los partidos y agrupaciones políticas;
+b) Elaborar y presentar a la Dirección General para su aprobación los proyectos de acuerdo de desechamiento de los procedimientos de fiscalización;
 
-c) Presentar a la Dirección General para su aprobación el anteproyecto de resolución de los procedimientos oficiosos o de queja y, en su caso, las sanciones correspondientes, que serán sometidos a la consideración del Consejo;
+c) Presentar a la Dirección General para su aprobación los anteproyectos de resolución, en términos del Código y de los reglamentos de la materia, respecto de:
 
-d) Elaborar y presentar a la Dirección General para su aprobación los proyectos de oficio relacionados con las diligencias de los procedimientos administrativos, dirigidos a:
+I. Los procedimientos oficiosos y de queja, en materia de fiscalización, y
 
-I. Autoridades federales, estatales y municipales;
+II. Los informes de ingresos y gastos establecidos por el Código;
 
-II. Personas físicas y morales; y
+d) Vigilar que los proyectos de resolución cumplan los criterios emitidos por el Tribunal Electoral;
 
-III. Organos ejecutivos centrales o desconcentrados del Instituto a que lleven a cabo las diligencias probatorias o recaben pruebas;
+e) Velar por la integridad física de la documentación e información que obra en los archivos correspondientes a los expedientes administrativos sancionadores electorales;
 
-e) Elaborar y presentar los proyectos de emplazamiento cuando corresponda;
+f) Elaborar, en coordinación con las demás direcciones de la Unidad de Fiscalización, los proyectos de reglamentos que se sometan a la consideración del Consejo, en relación con los siguientes temas:
 
-f) Elaborar y proponer a la Dirección General para su aprobación los acuerdos de acumulación y escisión de expedientes, los de cierre de instrucción, las razones y constancias relacionadas con los procedimientos, así como los de solicitud de informes detallados y las certificaciones;
+I. Estructura de la Unidad de Fiscalización
 
-g) Vigilar que se cumplan los criterios emitidos por el Consejo y el Tribunal Electoral del Poder Judicial de la Federación para la calificación e individualización de las sanciones;
+II. El procedimiento de liquidación de los partidos políticos
 
-h) Elaborar informes periódicos respecto del avance de las investigaciones, mismos que deberán remitirse a la Dirección General;
+III. Procedimientos oficiosos y de quejas en materia de fiscalización;
 
-i) Velar por la integridad física de la documentación e información que obra en los archivos correspondientes a los expedientes administrativos sancionadores electorales;
+g) Coadyuvar con la Dirección de Auditoría en la elaboración de los siguientes ordenamientos:
 
-j) Elaborar y presentar a la Dirección General para su aprobación los proyectos de desechamiento de las quejas; y
+I. Los reglamentos sobre Fiscalización de los partidos políticos, las agrupaciones políticas nacionales, las organizaciones de ciudadanos que pretendan obtener registro como partido político, y las organizaciones a las que pertenezcan los observadores electorales, así como los acuerdos y lineamientos para regular el registro contable de los ingresos y egresos, las características de la documentación comprobatoria, los requisitos que deberán satisfacer los informes de ingresos y egresos y, en general, el manejo de los recursos, y
 
-k) Las demás que le sean encomendadas por la Dirección General.
+II. Normas generales de contabilidad y registro de operaciones aplicables a los partidos políticos, a las agrupaciones políticas, a las organizaciones de ciudadanos que pretendan obtener registro como partido político, y a las organizaciones a las que pertenezcan los observadores electorales;
+
+h) Dar seguimiento a las sesiones públicas del Tribunal Electoral, especialmente en los asuntos relativos a la fiscalización de los recursos de los partidos y agrupaciones políticas;
+
+i) Implementar un sistema electrónico de consulta de normatividad jurídica y de sentencias emitidas por el Tribunal Electoral en materia de fiscalización de recursos;
+
+j) Ser conducto para tramitar y atender las solicitudes de colaboración que generen las autoridades locales responsables de fiscalizar y vigilar los recursos de los partidos políticos para superar las limitaciones de los secretos bancario, fiduciario o fiscal;
+
+k) Elaborar y presentar a la Dirección General, los proyectos de convenios de coordinación con las autoridades competentes en materia de fiscalización de los recursos de los partidos políticos en las entidades federativas;
+
+l) Coordinar y tramitar las consultas en materia de transparencia que se refieran a la competencia de la Unidad de Fiscalización;
+
+m) Elaborar informes periódicos respecto de las consultas que presenten los partidos políticos, agrupaciones políticas nacionales, organizaciones a las que pertenezcan los observadores electorales, así como organizaciones de ciudadanos que pretendan obtener registro como partido político, mismos que deberán remitirse a la Dirección General de la Unidad de Fiscalización;
+
+n) Elaborar los índices en materia de transparencia y versiones públicas de los expedientes de queja y de procedimientos administrativos sancionadores electorales;
+
+o) El titular de la Dirección de Resoluciones fungirá como representante de la Unidad de Fiscalización ante la Unidad de Enlace del Instituto Federal Electoral y el Comité de Información; y
+
+p) Las demás que le sean encomendadas por la Dirección General.
+
+> <small>(DEROGADO [N. DE E. REFORMADO], D.O.F. 23 DE FEBRERO DE 2010)</small>
 
 ARTICULO 10
-
-1. Serán funciones y atribuciones de la Dirección de Normatividad:
-
-a) Dirigir, coordinar y supervisar la elaboración de los proyectos de resolución competencia de la Unidad de Fiscalización en materia de fiscalización de recursos que se sometan a la consideración del Consejo, con excepción de los que sean competencia de la Dirección de Quejas;
-
-b) Dirigir, coordinar y supervisar la elaboración de los proyectos de reglamentos que se sometan a la consideración del Consejo, relativos a la estructura y facultades de la Unidad de Fiscalización y a las características que deben cumplir las resoluciones que emita la Unidad de Fiscalización;
-
-c) Vigilar que en los proyectos de resolución relativos a las auditorías y verificaciones realizadas a los partidos políticos, agrupaciones políticas nacionales se señalen, en su caso, las irregularidades en que hubieren incurrido y la propuesta de sanciones que corresponda;
-
-d) Vigilar que se cumplan los criterios emitidos por el Consejo y el Tribunal Electoral del Poder Judicial de la Federación para la calificación e individualización de las sanciones;
-
-e) Vigilar que los proyectos de resolución cumplan las sentencias emitidas por el Tribunal Electoral del Poder Judicial de la Federación;
-
-f) Proporcionar a la Dirección General la información y documentación que requiera para el ejercicio de sus atribuciones;
-
-g) Dar seguimiento a las sesiones públicas del Tribunal Electoral del Poder Judicial de la Federación, especialmente en los asuntos relativos a la fiscalización de los recursos de los partidos y agrupaciones políticas;
-
-h) Elaborar y presentar a la Dirección General para su aprobación, en coordinación con la Dirección de Auditoría, los proyectos de Reglamento para la Fiscalización de los partidos políticos, las agrupaciones políticas nacionales, las organizaciones de ciudadanos que pretendan obtener registro como partido político, y las organizaciones a las que pertenezcan los observadores electorales; los acuerdos para regular el registro contable de los ingresos y egresos, las características de la documentación comprobatoria, los requisitos que deberán satisfacer los informes de ingresos y egresos y, en general, el manejo de sus recursos;
-
-i) Presentar a la Dirección General para su aprobación, en coordinación con la Dirección de Auditoría, las normas generales de contabilidad y registro de operaciones aplicables a los partidos políticos, a las agrupaciones políticas, a las organizaciones de ciudadanos que pretendan obtener registro como partido político, y a las organizaciones a las que pertenezcan los observadores electorales;
-
-j) Proponer a la Dirección General para su aprobación el Reglamento para el procedimiento de liquidación de los partidos políticos;
-
-k) Recabar la información jurídica que resulte útil para las distintas áreas de la Unidad de Fiscalización;
-
-l) Implementar un sistema electrónico de consulta de normatividad jurídica y de sentencias emitidas por el Tribunal Electoral del Poder Judicial de la Federación en materia de fiscalización de recursos, mismo que pondrá a disposición de las Direcciones de la Unidad de Fiscalización;
-
-m) Ser conducto para tramitar y atender las solicitudes de colaboración que generen las autoridades locales responsables de fiscalizar y vigilar los recursos de los partidos políticos para superar las limitaciones de los secretos bancario, fiduciario o fiscal;
-
-n) Coordinar y tramitar las consultas en materia de transparencia que se refieran a la competencia de la Unidad de Fiscalización;
-
-o) Elaborar informes periódicos respecto de las consultas que presenten los partidos políticos, agrupaciones políticas nacionales, organizaciones a las que pertenezcan los observadores electorales, así como organizaciones de ciudadanos que pretendan obtener registro como partido político, mismos que deberán remitirse a la Dirección General de la Unidad de Fiscalización
-
-p) Elaborar, en coordinación con la Dirección de Quejas, los índices en materia de transparencia y versiones públicas de los expedientes de queja y de procedimientos administrativos sancionadores electorales;
-
-q) El titular de la Dirección de Normatividad fungirá como representante de la Unidad de Fiscalización ante la Unidad de Enlace del Instituto Federal Electoral y el Comité de Información; y
-
-r) Las demás que le sean encomendadas por la Dirección General.
-
-ARTICULO 11
 
 1. Con base en el artículo 86, párrafo 2 del Código, la Dirección General remitirá informes periódicos al Consejero Presidente, Consejeros Electorales y al Secretario Ejecutivo, respecto de los avances de las revisiones y auditorías que la Unidad de Fiscalización realice a los partidos políticos, agrupaciones políticas nacionales, observadores electorales y organizaciones de ciudadanos que pretendan obtener su registro como partido político. Asimismo, previo al inicio del periodo de revisión de informes de ingresos y gastos, la Dirección General hará del conocimiento del Consejero Presidente, de los Consejeros Electorales y del Secretario Ejecutivo el programa de revisión, en el cual se determinarán los porcentajes y mecanismos de revisión por rubros.
 
@@ -375,6 +401,12 @@ El Consejo General determinará, en la primera sesión ordinaria de cada año, l
 
 En el caso de que un partido político pierda o le sea cancelado su registro, se conformará un grupo de trabajo que dará seguimiento los trabajos de disolución y liquidación, respetando en todo momento la autonomía técnica y de gestión de la Unidad de Fiscalización.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+ARTICULO 11
+
+La Unidad de Fiscalización presentará anualmente en las políticas y programas puestos a la consideración del Consejo General, proyectos de avance para la incorporación de programas informáticos y de automatización de la información para la revisión de los informes que son de su conocimiento a fin de optimizar los recursos con los que cuenta.
+
 Transitorios (sic)
 
 Unico. El presente reglamento entrará en vigor al día siguiente de su aprobación por el Consejo General. Para tal efecto, se solicita a la Secretaría Ejecutiva de este Instituto para que por conducto de la Dirección Ejecutiva de Administración, provea a la Unidad de Fiscalización de los Recursos de los Partidos Políticos los recursos necesarios para el cumplimiento de sus facultades y atribuciones conforme a la estructura aprobada.
@@ -382,3 +414,11 @@ Unico. El presente reglamento entrará en vigor al día siguiente de su aprobaci
 SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación.
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 23 DE FEBRERO DE 2010.
+
+PRIMERO. La modificación al Reglamento Interior de la Unidad de Fiscalización de los Recursos de los Partidos Políticos entrará en vigor el día de su aprobación por el Consejo General.
+
+SEGUNDO. Se instruye al Secretario Ejecutivo del Instituto Federal Electoral para que ordene la publicación del presente Acuerdo en el Diario Oficial de la Federación.
