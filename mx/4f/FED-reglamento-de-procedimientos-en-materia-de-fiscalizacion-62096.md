@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-procedimientos-en-materia-de-fiscalizacion-62096"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-08"
-last_updated: "2008-08-08"
+last_updated: "2010-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62096&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-07-10"
 ---
 # REGLAMENTO DE PROCEDIMIENTOS EN MATERIA DE FISCALIZACION -ANTES- REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS APLICABLES A LOS PROCEDIMIENTOS OFICIOSOS Y DE QUEJA EN MATERIA DE ORIGEN Y APLICACION DE LOS RECURSOS DE LOS PARTIDOS Y AGRUPACIONES POLITICAS
 
-REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS APLICABLES A LOS PROCEDIMIENTOS OFICIOSOS Y DE QUEJA EN MATERIA DE ORIGEN Y APLICACION DE LOS RECURSOS DE LOS PARTIDOS Y AGRUPACIONES POLITICAS
+REGLAMENTO DE PROCEDIMIENTOS EN MATERIA DE FISCALIZACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 2010.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 8 de agosto de 2008.
 
@@ -85,7 +85,9 @@ Acuerdo
 
 PRIMERO. Se aprueba el Reglamento que establece los Lineamientos aplicables a los Procedimientos Oficiosos y de Queja en materia de Origen y Aplicación de los Recursos de los partidos y Agrupaciones Políticas, para quedar como sigue:
 
-REGLAMENTO QUE ESTABLECE LOS LINEAMIENTOS APLICABLES A LOS PROCEDIMIENTOS OFICIOSOS Y DE QUEJA EN MATERIA DE ORIGEN Y APLICACION DE LOS RECURSOS DE LOS PARTIDOS Y AGRUPACIONES POLITICAS
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+REGLAMENTO DE PROCEDIMIENTOS EN MATERIA DE FISCALIZACION
 
 ### CAPITULO PRIMERO. Disposiciones Preliminares. ARTICULO 1
 
@@ -103,7 +105,9 @@ II. Código: El Código Federal de Instituciones y Procedimientos Electorales;
 
 III. Ley General: Ley General del Sistema de Medios de Impugnación en Materia Electoral; y
 
-IV. Reglamento: Reglamento que establece los lineamientos aplicables a los procedimientos de queja y a los procedimientos oficiosos en materia de origen y aplicación de los recursos de los partidos y agrupaciones políticas.
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+IV. Reglamento: Reglamento de Procedimientos en Materia de Fiscalización.
 
 b) Por lo referente a la autoridad, órganos y funcionarios electorales:
 
@@ -119,7 +123,9 @@ V. Secretario del Consejo: El Secretario Ejecutivo del Instituto Federal Elector
 
 VI. Unidad de Fiscalización: La Unidad de Fiscalización de los Recursos de los partidos políticos; y
 
-VII. Dirección de Quejas: La Dirección de Quejas y Procedimientos Oficiosos.
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+VII. Dirección de Resoluciones: La Dirección de Resoluciones y Normatividad.
 
 c) Por lo que respecta a los procedimientos administrativos que regula este Reglamento:
 
@@ -133,7 +139,9 @@ ARTICULO 3
 
 ARTICULO 4
 
-1. El órgano responsable de tramitar, substanciar y formular el proyecto de resolución respecto de los procedimientos oficiosos y de queja que versen sobre el origen y aplicación de los recursos derivados del financiamiento de los partidos y agrupaciones políticas será la Unidad de Fiscalización, a través de la Dirección de Quejas.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+1. El órgano responsable de tramitar, substanciar y formular el proyecto de resolución respecto de los procedimientos oficiosos y de queja que versen sobre el origen y aplicación de los recursos derivados del financiamiento de los partidos y agrupaciones políticas será la Unidad de Fiscalización, a través de la Dirección de Resoluciones.
 
 2. La aplicación e interpretación del Reglamento se llevará a cabo conforme a los criterios gramatical, sistemático y funcional establecidos en el artículo 3, párrafo 2 del Código, en relación con el artículo 14, párrafo segundo de la Constitución y a los Principios Generales de Derecho.
 
@@ -141,9 +149,11 @@ ARTICULO 5
 
 1. En caso de que durante la tramitación y substanciación de los procedimientos que regula el presente Reglamento se advierta la posible violación a ordenamientos legales ajenos a la competencia de la Unidad de Fiscalización, ésta solicitará al Secretario del Consejo que proceda a dar parte a las autoridades competentes.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
 ARTICULO 6
 
-1. La facultad de la autoridad electoral para fincar responsabilidades por infracciones administrativas prescribe en el término de cinco años, contados a partir de la fecha en que se emita el acuerdo de inicio del procedimiento oficioso o el acuerdo de recepción de la queja que haya dado inicio al procedimiento.
+1. La facultad de la autoridad electoral para fincar responsabilidades por infracciones administrativas prescribe en el término de cinco años, contados a partir de la fecha en que la autoridad sancionadora tenga conocimiento de la comisión de la conducta infractora.
 
 ARTICULO 7
 
@@ -153,7 +163,9 @@ ARTICULO 7
 
 3. Las notificaciones a las agrupaciones políticas se llevarán a cabo en el domicilio que conste en los registros del Instituto Federal Electoral.
 
-4. Las notificaciones a las coaliciones se realizarán en las oficinas del partido político que ostente la representación de aquélla, en términos del convenio que hayan celebrado los partidos que la integren; y en caso de que haya terminado la coalición en términos del artículo 58, párrafo 8 del Código, la notificación se hará en las oficinas en que cada uno de los partidos políticos que conformaron la coalición mantenga su representación en el Instituto.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+4. Las notificaciones a las coaliciones se realizarán en las oficinas del partido político que ostente la representación de aquélla, en términos del convenio que hayan celebrado los partidos que la integren; y en caso de que haya terminado la coalición en términos del artículo 95, párrafo 8 del Código, la notificación se hará en las oficinas en que cada uno de los partidos políticos que conformaron la coalición mantenga su representación en el Instituto.
 
 5. Las notificaciones que se realicen a personas físicas o morales se llevará a cabo en el domicilio que se señale al efecto, o bien por cédula que se dejará en el domicilio del interesado con cualquier persona que en él se encuentre.
 
@@ -187,11 +199,15 @@ III. Cuando las acciones provengan de una misma causa, aunque sean diversas las 
 
 IV. Cuando hay identidad de acciones y de cosas, aunque las personas sean distintas.
 
-2. La Dirección de Quejas podrá proponer para su aprobación a la Unidad de Fiscalización la acumulación de expedientes desde el momento en que el procedimiento de queja u oficioso sea retirado de estrados, y hasta antes del emplazamiento al partido o agrupación política. En caso de ser procedente, la Dirección General emitirá un acuerdo en el que se deberán exponer los razonamientos que motivaron la acumulación.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+2. La Dirección de Resoluciones podrá proponer para su aprobación a la Unidad de Fiscalización la acumulación de expedientes desde el momento en que el procedimiento de queja u oficioso sea retirado de estrados, y hasta antes del emplazamiento al partido o agrupación política. En caso de ser procedente, la Dirección General emitirá un acuerdo en el que se deberán exponer los razonamientos que motivaron la acumulación.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
 
 ARTICULO 9
 
-1. La Dirección de Quejas podrá proponer a la Unidad de Fiscalización para su aprobación la escisión de procedimientos administrativos desde el momento en que el procedimiento de queja u oficioso sea retirado de estrados, y hasta antes del emplazamiento al partido o agrupación política. En caso de ser procedente, la Unidad de Fiscalización emitirá un acuerdo en el que se deberán exponer los razonamientos que motivaron la escisión.
+1. La Dirección de Resoluciones podrá proponer a la Unidad de Fiscalización para su aprobación la escisión de procedimientos administrativos desde el momento en que el procedimiento de queja u oficioso sea retirado de estrados, y hasta antes del emplazamiento al partido o agrupación política. En caso de ser procedente, la Unidad de Fiscalización emitirá un acuerdo en el que se deberán exponer los razonamientos que motivaron la escisión.
 
 ARTICULO 10
 
@@ -245,7 +261,9 @@ d) El cuestionario respectivo.
 
 2. De no cumplir con estos requisitos señalados en el párrafo anterior, la prueba se tendrá por no presentada. El denunciado cubrirá los honorarios de su perito.
 
-3. La Unidad de Fiscalización, a propuesta de la Dirección de Quejas, podrá adicionar preguntas al cuestionario que deberá responder el perito en los tres días siguientes a su presentación, notificando al oferente y a su perito. Vencido ese plazo, el perito deberá rendir su dictamen por escrito dentro de los cinco días siguientes, el cual se podrá ampliar, a juicio de la Dirección de Quejas.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+3. La Unidad de Fiscalización, a propuesta de la Dirección de Resoluciones, podrá adicionar preguntas al cuestionario que deberá responder el perito en los tres días siguientes a su presentación, notificando al oferente y a su perito. Vencido ese plazo, el perito deberá rendir su dictamen por escrito dentro de los cinco días siguientes, el cual se podrá ampliar, a juicio de la Dirección de Resoluciones.
 
 4. El primer trimestre de cada año, la Unidad de Fiscalización mandará publicar su lista de peritos en el Diario Oficial de la Federación. Para ello, solicitará mediante oficio a la Secretaría Ejecutiva que gestione dicha publicación.
 
@@ -255,7 +273,9 @@ ARTICULO 14
 
 2. Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
 
-3. En caso de que se necesiten conocimientos técnicos especializados, la Unidad de Fiscalización, a través de la Dirección de Quejas, podrá solicitar el dictamen de un perito.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+3. En caso de que se necesiten conocimientos técnicos especializados, la Unidad de Fiscalización, a través de la Dirección de Resoluciones, podrá solicitar el dictamen de un perito.
 
 4. En el caso de existir imposibilidad material para compulsar las copias simples que obren en el expediente, éstas tendrán únicamente el valor de un indicio.
 
@@ -299,15 +319,21 @@ ARTICULO 18
 
 1. Si el escrito de queja no cumple con los requisitos señalados en los incisos a) y c), párrafo 1 del artículo 17 de este Reglamento, se tendrá por no presentada.
 
-2. En caso de que el escrito de queja no cumpla con los requisitos previstos en los incisos d) y e), párrafo 1 del artículo 17 de este Reglamento, o que no se describan las circunstancias de modo, tiempo o lugar a que alude el inciso c) del mismo artículo, o bien que carezca de la firma autógrafa del denunciante que se refiere en el inciso a), la Dirección de Quejas dictará un acuerdo en el que otorgará al quejoso un plazo de tres días hábiles contados a partir del día siguiente a su notificación, para que subsane las omisiones, previniéndole que de no hacerlo así, se desechará el escrito de queja, en términos del artículo 20, párrafo 1, inciso b) del presente Reglamento.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+2. En caso de que el escrito de queja no cumpla con los requisitos previstos en los incisos d) y e), párrafo 1 del artículo 17 de este Reglamento, o que no se describan las circunstancias de modo, tiempo o lugar a que alude el inciso c) del mismo artículo, o bien que carezca de la firma autógrafa del denunciante que se refiere en el inciso a), la Dirección de Resoluciones dictará un acuerdo en el que otorgará al quejoso un plazo de tres días hábiles contados a partir del día siguiente a su notificación, para que subsane las omisiones, previniéndole que de no hacerlo así, se desechará el escrito de queja, en términos del artículo 20, párrafo 1, inciso b) del presente Reglamento.
 
 Cuando el quejoso no señale domicilio para oír y recibir notificaciones en su escrito de queja, la notificación a la que hace referencia el párrafo anterior se realizará por estrados.
 
 ARTICULO 19
 
-1. Una vez recibido el escrito de queja o denuncia, la Unidad de Fiscalización, a través de la Dirección de Quejas, procederá a registrarlo en el libro de gobierno; formulará el acuerdo de recepción correspondiente; le asignará el número de expediente que le corresponda; y lo comunicará a la Secretaría del Consejo.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
 
-2. Asimismo, la Unidad de Fiscalización solicitará mediante oficio a la Dirección Jurídica que se fije en los estrados del Instituto, durante setenta y dos horas, el acuerdo de inicio del procedimiento y la cédula de conocimiento.
+1. Una vez recibido el escrito de queja o denuncia, la Unidad de Fiscalización, a través de la Dirección de Resoluciones, procederá a registrarlo en el libro de gobierno; formulará el acuerdo de recepción correspondiente; le asignará el número de expediente que le corresponda; y lo comunicará a la Secretaría del Consejo.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+2. Asimismo, la Unidad de Fiscalización fijará en los estrados del Instituto, durante setenta y dos horas, el acuerdo de inicio del procedimiento y la cédula de conocimiento.
 
 3. Una vez hecho lo anterior, notificará al partido o agrupación política denunciada el inicio del procedimiento respectivo, corriéndole traslado con el escrito de queja y los elementos probatorios presentados por el denunciante.
 
@@ -319,13 +345,17 @@ ARTICULO 20
 
 a) Si los hechos narrados en la denuncia resultan notoriamente frívolos o inverosímiles, o aún siendo ciertos, no configuren en abstracto algún ilícito sancionable a través de este procedimiento;
 
-b) Si la queja no cumple con los requisitos establecidos en el artículo 17, párrafo 1, incisos a), c) y d) del presente Reglamento, y una vez realizada la prevención a la que se refiere el párrafo 2 del mismo artículo, no sea subsanada en el plazo señalado; y
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+b) Si la queja no cumple con los requisitos establecidos en el artículo 17, párrafo 1, incisos a), c) y d) del presente Reglamento, y una vez realizada la prevención a la que se refiere el párrafo 2 del artículo 18, no sea subsanada en el plazo señalado; y
 
 c) Si la queja no es presentada dentro de los tres años siguientes al de la fecha en que se haya publicado en el Diario Oficial de la Federación el dictamen consolidado relativo a los informes correspondientes al ejercicio durante el que presuntamente se hayan suscitado los hechos que se denuncian.
 
 2. El desechamiento de una queja en ningún momento prejuzga sobre el fondo del asunto.
 
-3. En caso de que se actualice alguna causal de desechamiento, la Unidad de Fiscalización, a través de la Dirección de Quejas procederá a elaborar el proyecto de resolución de acuerdo con lo establecido en los artículos 26 y 29 del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+3. En caso de que se actualice alguna causal de desechamiento, la Unidad de Fiscalización, a través de la Dirección de Resoluciones procederá a elaborar acuerdo de desechamiento, cumpliendo en lo aplicable, los requisitos señalados en el artículo 29 del Presente Reglamento.
 
 ARTICULO 21
 
@@ -343,21 +373,29 @@ a) Cuando se actualice alguno de los supuestos de improcedencia previstos en el 
 
 b) Cuando el denunciado sea un partido o agrupación política que, con posterioridad a la admisión de la queja o denuncia o a la emisión del acuerdo de inicio del procedimiento oficioso, haya perdido su registro y cuyo procedimiento de liquidación de su patrimonio ya haya concluido; y
 
-c) En el caso del procedimiento de queja, si el quejoso presenta escrito de desistimiento antes de que la Unidad de Fiscalización emita el acuerdo de cierre de instrucción;
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+c) En el caso del procedimiento de queja, si el quejoso presenta escrito de desistimiento antes de que la Unidad de Fiscalización emita el acuerdo de cierre de instrucción; Siempre y cuando a juicio de la misma, o por lo avanzado de la investigación no se desprenda una afectación al interés público, no se trate de hechos graves, ni se vulneren los principios rectores de la función fiscalizadora de la autoridad electoral.
 
 En caso de que a juicio de la Unidad de Fiscalización existan elementos suficientes respecto de la probable comisión de las irregularidades investigadas y de la responsabilidad del denunciado, podrá iniciar un procedimiento oficioso respecto de los mismos hechos investigados.
 
-2. El estudio de las causas de sobreseimiento del procedimiento se realizará de oficio. En caso de advertir que se actualiza una de ellas, la Dirección de Quejas procederá a elaborar el proyecto de resolución de acuerdo con lo establecido en los artículos 26 y 29 del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+2. El estudio de las causas de sobreseimiento del procedimiento se realizará de oficio. En caso de advertir que se actualiza una de ellas, la Dirección de Resoluciones procederá a elaborar el proyecto de resolución de acuerdo con lo establecido en los artículos 26 y 29 del presente Reglamento.
 
 ARTICULO 23
 
 1. La Unidad de Fiscalización procederá a allegarse de los elementos de convicción que estime pertinentes para integrar y substanciar el expediente del procedimiento respectivo.
 
-2. La Unidad de Fiscalización, a propuesta de la Dirección de Quejas, podrá solicitar información y documentación, ya sea de manera directa o a través del Secretario del Consejo, a las siguientes autoridades:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+2. La Unidad de Fiscalización, a propuesta de la Dirección de Resoluciones, podrá solicitar información y documentación, ya sea de manera directa o a través del Secretario del Consejo, a las siguientes autoridades:
 
 a) Organos Ejecutivos, Centrales y Desconcentrados del Instituto para que lleven a cabo las diligencias probatorias o recaben las pruebas necesarias para la debida integración del expediente; y
 
-b) Autoridades Federales, Estatales o Municipales para que proporcionen información, entreguen las pruebas que obren en su poder, o para que le permitan obtener la información que se encuentra reservada o protegida por el secreto fiscal, bancario o fiduciario. Las autoridades están obligadas a responder los requerimientos en un plazo máximo de quince días naturales, mismos que, por causa justificada, podrá ampliarse cinco días. En el caso de las autoridades relacionadas con el secreto fiscal, bancario y fiduciario el plazo podrá ampliarse hasta llegar a un máximo de treinta días hábiles para responder.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+b) Autoridades Federales, Estatales o Municipales para que proporcionen información, entreguen las pruebas que obren en su poder, o para que le permitan obtener la información que se encuentra reservada o protegida por el secreto fiscal, bancario o fiduciario. Las autoridades están obligadas a responder los requerimientos en un plazo máximo de quince días naturales, mismos que, por causa justificada, podrá ampliarse cinco días, con excepción de lo dispuesto en el párrafo 3 del artículo 79, del Código Federal de Instituciones y Procedimientos Electorales.
 
 El Secretario del Consejo girará copia del oficio con que se da cumplimiento a la solicitud conducente, con el fin de que éste conste en el expediente del procedimiento.
 
@@ -373,9 +411,11 @@ c) Relación pormenorizada del desarrollo de la vista, notificación del requeri
 
 d) En caso de haber impedimento para realizar la notificación o investigación ordenada, se asentará tal hecho y sus causas. Una vez superado el impedimento, se procederá de inmediato a llevar a cabo la diligencia.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
 ARTICULO 24
 
-1. La Unidad de Fiscalización, a propuesta de la Dirección de Quejas, podrá ordenar que se realicen las verificaciones a que haya lugar en relación con los procedimientos oficiosos o de queja, en el curso de la revisión que se practique de los informes anuales, trimestrales, de precampaña y de campaña de los partidos o agrupaciones políticas; asimismo, podrá requerir información y documentación al instituto político denunciado, de manera directa o mediante informe detallado.
+1. La Unidad de Fiscalización, a propuesta de la Dirección de Resoluciones, podrá ordenar que se realicen las verificaciones a que haya lugar en relación con los procedimientos oficiosos o de queja, en el curso de la revisión que se practique de los informes anuales, trimestrales, de precampaña y de campaña de los partidos o agrupaciones políticas; asimismo, podrá requerir información y documentación al instituto político denunciado, de manera directa o mediante informe detallado.
 
 ARTICULO 25
 
@@ -385,11 +425,15 @@ ARTICULO 25
 
 ARTICULO 26
 
-1. Una vez agotada la instrucción o en caso de que se actualicen las causales de desechamiento previstas en el párrafo 1 del artículo 20 del presente Reglamento, o que proceda el sobreseimiento en términos del artículo 22, párrafo 1 de este ordenamiento, cuando operen las causas de improcedencia a que alude el párrafo 1 del mencionado artículo 21, la Dirección de Quejas procederá a elaborar el proyecto resolución correspondiente y lo presentará a la Unidad de Fiscalización para su aprobación.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+1. Una vez agotada la instrucción o que proceda el sobreseimiento en términos del artículo 22, párrafo 1 de este ordenamiento, cuando operen las causas de improcedencia a que alude el párrafo 1 del mencionado artículo 21, la Dirección de Resoluciones procederá a elaborar el proyecto resolución correspondiente y lo presentará a la Unidad de Fiscalización para su aprobación.
 
 El proyecto de resolución deberá ponerse a consideración del Consejo para su aprobación en la siguiente sesión que celebre. Para lo anterior, la Unidad de Fiscalización remitirá mediante oficio a la Secretaría del Consejo el proyecto de resolución en medio magnético.
 
-2. El acuerdo de cierre de instrucción emitido por la Unidad de Fiscalización, a propuesta de la Dirección de Quejas, será publicado en los estrados de este Instituto.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+2. El acuerdo de cierre de instrucción emitido por la Unidad de Fiscalización, a propuesta de la Dirección de Resoluciones, será publicado en los estrados de este Instituto.
 
 ARTICULO 27
 
@@ -475,19 +519,31 @@ VII. Firmas del Consejero Presidente y Secretario del Consejo.
 
 1. El Consejo o la Unidad de Fiscalización podrán ordenar el inicio de un procedimiento administrativo oficioso cuando dichos órganos tengan conocimiento de hechos que pudieran configurar una violación al Código sobre el origen y aplicación de los recursos derivados del financiamiento de los partidos y agrupaciones políticas, con fundamento en los artículos 77, párrafo 6; 81, párrafo 1, incisos c) y o); 118, párrafo 1, incisos h), w) y z) y 361 del mismo Código aplicable de manera supletoria de acuerdo al artículo 372, párrafo 4 del mismo ordenamiento.
 
-2. Los procedimientos oficiosos podrán ser iniciados dentro de los tres años siguientes al de la fecha en que se haya publicado en el Diario Oficial de la Federación el dictamen consolidado relativo a los informes correspondientes al ejercicio durante el cual presuntamente se hayan suscitado los hechos que se investigan.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+2. La facultad de ordenar el inicio de procedimientos oficiosos que versen sobre hechos de los cuales la autoridad tuvo conocimiento en el procedimiento de revisión de los informes anuales, de campaña o de precampaña, caducara al término de 30 días siguientes a que se publique en el Diario Oficial de la Federación el Dictamen Consolidado de los informes correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+3. Los procedimientos oficiosos de naturaleza distinta, y aquellos que deriven del procedimiento de fiscalización pero que la autoridad no haya conocido de manera directa, podrán ser iniciados por la autoridad electoral fiscalizadora dentro de los tres años siguientes durante los cuales presuntamente se hayan suscitado los hechos que se investigan.
 
 ARTICULO 31
 
-1. Una vez que la Unidad de Fiscalización acuerde el inicio del procedimiento oficioso o reciba el acuerdo del Consejo en el que ordene el inicio de este procedimiento, según sea el caso, la Dirección de Quejas procederá a registrarlo en el libro de gobierno, formulará el acuerdo de inicio correspondiente, le asignará un número de expediente y lo comunicará al Secretario del Consejo.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
 
-2. Asimismo, la Dirección de Quejas solicitará mediante oficio a la Dirección Jurídica que se fije en los estrados del Instituto, durante setenta y dos horas, el acuerdo de inicio del procedimiento y la cédula de conocimiento.
+1. Una vez que la Unidad de Fiscalización acuerde el inicio del procedimiento oficioso o reciba el acuerdo del Consejo en el que ordene el inicio de este procedimiento, según sea el caso, la Dirección de Resoluciones procederá a registrarlo en el libro de gobierno, formulará el acuerdo de inicio correspondiente, le asignará un número de expediente y lo comunicará al Secretario del Consejo.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
+2. Asimismo, la Unidad de Fiscalización fijará en los estrados del Instituto, durante setenta y dos horas, el acuerdo de inicio del procedimiento y la cédula de conocimiento.
 
 3. Una vez hecho lo anterior, notificará al partido o agrupación política denunciada el inicio del procedimiento respectivo, corriéndole traslado con el acuerdo de inicio.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2010)</small>
+
 ARTICULO 32
 
-1. Una vez que se retire de estrados el acuerdo de inicio del procedimiento oficioso, la Dirección de Quejas procederá para su substanciación en términos de los artículos 23 al 28 del presente Reglamento, en lo que le sea aplicable.
+1. Una vez que se retire de estrados el acuerdo de inicio del procedimiento oficioso, la Dirección de Resoluciones procederá para su substanciación en términos de los artículos 23 al 28 del presente Reglamento, en lo que le sea aplicable.
 
 ### CAPITULO CUARTO. Transparencia y Rendición de Cuentas. ARTICULO 33
 
@@ -504,3 +560,11 @@ Segundo. Los asuntos que se encuentren en trámite a la entrada en vigor del pre
 SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación.
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 23 DE FEBRERO DE 2010.
+
+PRIMERO. La modificación al Reglamento que Establece los Lineamientos aplicables a los Procedimientos Oficiosos y de Queja en materia de Origen y Aplicación de los Recursos de los Partidos y Agrupaciones Políticas entrará en vigor el día de su aprobación por el Consejo General.
+
+SEGUNDO. Se instruye al Secretario Ejecutivo del Instituto Federal Electoral para que ordene la publicación del presente Acuerdo en el Diario Oficial de la Federación.
