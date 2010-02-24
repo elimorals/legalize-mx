@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2009-10-28"
+last_updated: "2010-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2010.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -629,9 +629,9 @@ VI.- Copia certificada de la dispensa de impedimento si lo hubo; y
 
 VII.- Constancia expedida por institución médica oficial o privada en que se acredite haber recibido orientación sobre planificación familiar;
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2010)</small>
 
-VIII.- Constancia expedida por la Oficina del Registro Civil, en la que se acredita el haber recibido orientación, respecto de los derechos y obligaciones que nacen del matrimonio, así como las sanciones a que se hacen acreedores los cónyuges en los casos de la Comisión de Delitos contra la Familia.
+VIII.- Constancia expedida por la Oficina del Registro Civil, en la que se acredita el haber recibido orientación, respecto de los derechos y obligaciones que nacen del matrimonio, así como de las sanciones a que se hacen acreedores los cónyuges en los casos de la comisión de delitos contra la Familia, haciendo especial énfasis en proporcionar información y orientación para prevenir la violencia familiar.
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2007)</small>
 
@@ -12776,3 +12776,7 @@ SEGUNDO.- Las adopciones simples que se encuentren en trámite a la entrada en v
 No obstante, si en las adopciones simples que actualmente se tramitan, hubiere la voluntad del o de los adoptantes de obtener la adopción plena, podrá seguir el procedimiento establecido en el presente Decreto.
 
 Las adopciones simples realizadas con anterioridad a la entrada en vigor del presente Decreto, podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
+
+P.O. 24 DE FEBRERO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
