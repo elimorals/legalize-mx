@@ -1,0 +1,308 @@
+---
+title: "LINEAMIENTOS PARA EL DESARROLLO DE INVESTIGACIONES"
+identifier: "FED-lineamientos-para-el-desarrollo-de-investigaciones-73144"
+country: "mx"
+rank: "lineamientos"
+publication_date: "2010-02-24"
+last_updated: "2010-02-24"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73144&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "73144"
+scjn_status: "ABROGADO (A)"
+gazette: "Diario Oficial de la Federación"
+original_category: "LINEAMIENTOS"
+original_gazette_section: "18 PRIMERA SECCION"
+reform_count: "2"
+scjn_last_update: "2022-02-04"
+issue_date: "2010-02-08"
+---
+# LINEAMIENTOS PARA EL DESARROLLO DE INVESTIGACIONES
+
+LINEAMIENTOS PARA EL DESARROLLO DE INVESTIGACIONES
+
+TEXTO ORIGINAL.
+
+Lineamientos publicados en la Primera Sección del Diario Oficial de la Federación, el miércoles 24 de febrero de 2010.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Tribunal Electoral del Poder Judicial de la Federación.- Comisión de Administración.- Secretaría.- Centro de Capacitación Judicial Electoral.
+
+LINEAMIENTOS PARA EL DESARROLLO DE INVESTIGACIONES
+
+INDICE
+
+I. OBJETIVO
+
+II. MARCO LEGAL
+
+III. CONSIDERANDOS
+
+IV. LINEAMIENTOS
+
+OBJETIVO
+
+Establecer y definir los criterios y requisitos que se deberán observar para el desarrollo de investigaciones en el Tribunal Electoral del Poder Judicial de la Federación, así como los criterios para dictaminar los trabajos que se presenten, con la finalidad de generar un conocimiento jurídico electoral especializado y una mejor comprensión del fenómeno político.
+
+MARCO LEGAL
+
+1. Constitución Política de los Estados Unidos Mexicanos.
+
+2. Ley Orgánica del Poder Judicial de la Federación.
+
+3. Ley Federal del Derecho de Autor.
+
+4. Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación.
+
+5. Acuerdo 21/S1 (21-I-09) de fecha 21 de enero de 2009 por el cual la Comisión de Administración aprobó la nueva estructura orgánica del Tribunal Electoral del Poder Judicial de la Federación, en la que está prevista la del Centro de Capacitación Judicial Electoral.
+
+6. Manual Específico de Organización del Centro de Capacitación Judicial Electoral del Tribunal Electoral del Poder Judicial de la Federación aprobado por el Pleno de la Comisión de Administración mediante el Acuerdo 14/S1(21-I-09) emitido en la Primera Sesión Ordinaria de 2009.
+
+7. Guía para la elaboración de Manuales de Procedimientos CAJ-MP-G-01-201 aprobada por el Pleno de la Comisión de Administración, mediante Acuerdo 193/S6(17-VI-2009) emitido en la Sexta Sesión Ordinaria de 2009.
+
+CONSIDERANDOS
+
+PRIMERO.- De conformidad con las atribuciones que establece la Constitución Política de los Estados Unidos Mexicanos en el artículo 99, décimo párrafo, la Ley Orgánica del Poder Judicial de la Federación en los artículos 186, fracciones VI y VII, y 209, fracciones III y IV, y el Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación en el artículo 47 fracción I, el Tribunal Electoral cuenta con facultades para dictar su propio régimen interior y emitir los acuerdos generales necesarios para su adecuado funcionamiento y administración, con autonomía administrativa y presupuestal que ejerce a través de la Comisión de Administración.
+
+SEGUNDO.- Atendiendo a lo dispuesto por el artículo 211 de la Ley Orgánica del Poder Judicial de la Federación y 55 del Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, el Tribunal Electoral contará, entre sus órganos auxiliares, con el Centro de Capacitación Judicial Electoral, para llevar a cabo las tareas de investigación y orientar respecto a la comprensión del fenómeno político, la función electoral y la normatividad electoral, en la búsqueda de su constante perfeccionamiento y fortalecimiento de las instituciones, procedimientos e instrumentos democráticos.
+
+TERCERO.- Que atendiendo lo anterior y a efecto de determinar una regulación interna que dé certeza y legalidad a los criterios de investigación, se formulan los presentes Lineamientos para el Desarrollo de Investigaciones, los cuales definen y delimitan las responsabilidades de las unidades que intervienen en el desarrollo de las actividades que nos ocupan.
+
+LINEAMIENTOS PARA EL DESARROLLO DE INVESTIGACIONES
+
+1. El contenido de estos Lineamientos es de observancia obligatoria para el Centro de Capacitación Judicial Electoral, en adelante el CCJE, así como para todas aquellas áreas involucradas en el procedimiento.
+
+GENERALIDADES
+
+2. Los Magistrados de Sala Superior serán quienes determinen las líneas de investigación, en función de las necesidades y de los proyectos estratégicos de la institución.
+
+3. El Comité Académico y Editorial, en adelante el Comité, podrá proponer a los Magistrados de Sala Superior líneas de investigación adicionales.
+
+4. En consonancia con el artículo 11, inciso III del Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, el Comité deberá aprobar anualmente las líneas generales de investigación. No obstante, se procurará que cada línea de investigación se mantenga, al menos, por dos años consecutivos, a fin de dar continuidad al trabajo y asegurar consistencia en los resultados.
+
+5. El CCJE se encargarán de hacer una propuesta de temas específicos de investigación y de nombres de investigadores que estén en condiciones de desarrollarlos. La propuesta deberá ajustarse a las líneas generales de investigación aprobadas por los Magistrados de Sala Superior y el propio Comité, de acuerdo con el inciso que antecede de estos mismos lineamientos.
+
+6. La propuesta será sometida a la aprobación del Comité, por conducto del Director del CCJE, en su calidad de Secretario Técnico Académico del Comité.
+
+7. La propuesta a que se refiere los incisos que anteceden deberá presentarse en la sesión ordinaria del mes de marzo del año de que se trate, con el objeto de que haya oportunidad de integrarla al anteproyecto de presupuesto y al programa académico del año siguiente.
+
+8. Una vez que el Comité apruebe la propuesta en materia de investigación, se incorporará al programa académico del año siguiente, mismo que será presentado en el mes de mayo y, una vez aprobado en su totalidad por el propio Comité, será sometido a la consideración de la Comisión de Administración por conducto del Secretario Técnico Académico del Comité para su autorización, apegándose a los plazos establecidos para su integración en el anteproyecto de Presupuesto correspondiente.
+
+DE LOS TIPOS DE INVESTIGACION
+
+9. Las investigaciones podrán inscribirse en alguna de las siguientes categorías:
+
+a) Monografía. En un sentido amplio, se puede entender como un trabajo relativamente extenso, con función informativa, que presenta y organiza los datos obtenidos de varias fuentes sobre una determinada temática, analizados con una visión crítica.
+
+b) Ensayo. Se trata de un escrito en el que el autor desarrolla sus ideas sin necesidad de mostrar el aparato documental en que se apoyó, de manera libre y sistemática y con voluntad de estilo. Todo ensayo deberá contener por lo menos los elementos siguientes: título, introducción, desarrollo, conclusiones y fuentes.
+
+c) Compendio. Es una exposición sumaria de lo más sustancial de una materia expuesta más ampliamente de manera previa.
+
+d) Manual. Es un material que compendia lo esencial de una materia y que suele proporcionar instrucciones, procedimientos, criterios de aplicación, glosarios y ejemplos.
+
+e) Tratado. Es el estudio completo organizado, sistematizado y riguroso que pretende entregar todo el conocimiento existente sobre un tema.
+
+f) Estudios descriptivos. Son aquellas propuestas de carácter exploratorio que recopilan, detallan y sistematizan información o conocimientos. Buscan exponer las características generales acerca de un tema, describir elementos o conocer la evolución de un problema.
+
+g) Estudios explicativos. Son los productos de carácter interpretativo o predictivo que buscan generar nuevos conocimientos, que sean de utilidad para las temáticas de interés del Tribunal Electoral. Su objetivo es determinar relaciones causales o correlaciones relevantes sobre un problema definido y, en su caso, establecer tendencias sobre determinados procesos. A diferencia de los estudios descriptivos, los estudios explicativos deben incluir hipótesis y relaciones de causalidad entre variables.
+
+10. Las investigaciones podrán ser de carácter interno o externo conforme a lo siguiente:
+
+a) Investigación interna: la realizará el cuerpo de investigadores con que cuenta el CCJE. Cualquier otro funcionario que labore en el Poder Judicial de la Federación, incluidas las demás áreas del Tribunal Electoral del Poder Judicial de la Federación, en adelante el TEPJF, también podrá realizar investigaciones, mismas que se inscribirán en este rubro.
+
+b) Investigación externa: la desarrollarán investigadores invitados por el TEPJF, conforme a la propuesta que para estos efectos apruebe el Comité y en estricto apego a los procedimientos administrativos establecidos para la contratación de estos servicios, así como a las demás disposiciones de estos mismos lineamientos.
+
+DE LOS INVESTIGADORES INTERNOS
+
+11. Para la asignación de temas, se deberá tomar en consideración el perfil y la experiencia de los investigadores y funcionarios internos. Cuando se trate de funcionarios en general y no de investigadores, según lo señalado en el inciso 10 de estos lineamientos, deberá acreditarse que éstos cuentan con experiencia en investigación y/o con publicaciones en la materia en revistas académicas, volúmenes colectivos u otra experiencia equivalente.
+
+12. Para efectos administrativos, los funcionarios que no sean investigadores del TEPJF, pero que sí sean servidores públicos de éste o que se desempeñen en cualquier otro organismo del Poder Judicial de la Federación, podrán participar en la elaboración de investigaciones bajo la figura de “Investigadores internos”. Será el Secretario Técnico Académico del Comité, quien formule las invitaciones respectivas.
+
+13. Derivado de la relación laboral que existe entre el TEPJF y sus propios investigadores y empleados, éstos no recibirán retribución económica adicional por el trabajo que realicen en materia de investigación. Este mismo criterio aplicará para cualquier otro funcionario del Poder Judicial de la Federación que desarrolle una investigación.
+
+14. Por iniciativa propia, investigadores del TEPJF y servidores públicos del Poder Judicial de la Federación tendrán la posibilidad de proponer proyectos de investigación. Para ello, deberán enviar al Secretario Técnico Académico del Comité su propuesta temática y su protocolo de investigación, junto con una semblanza curricular. Este último recibirá propuestas entre enero y marzo de cada año. Las evaluará y en caso de que se ajusten a las líneas institucionales de investigación y resulten de interés, las incorporará a la propuesta que deben presentar al Comité en el mismo mes de marzo de cada año, en términos del numeral 7 de estos lineamientos.
+
+15. El Secretario Técnico Académico del Comité tendrá la facultad de desechar aquellas propuestas que considere no reúnen los requisitos necesarios. No obstante, deberá informar al Comité de todas las propuestas que se reciban en este sentido y de las razones que motivaron su rechazo. De manera excepcional el Comité podrá revocar esta determinación, siempre y cuando la mayoría de sus miembros así lo considere pertinente. Invariablemente, los solicitantes recibirán la notificación de aceptación o rechazo una vez aprobada la propuesta correspondiente por parte del Comité. Tal notificación deberá ser firmada por el Secretario Técnico Académico del Comité.
+
+16. En consonancia con los dos incisos que anteceden, el Comité podrá recomendar que para determinados casos, el CCJE emita una convocatoria abierta para seleccionar los mejores proyectos de investigación para temas determinados. En estos casos, el propio Comité deberá revisar y aprobar los términos de referencia que servirán de base para el concurso.
+
+17. Después de treinta días hábiles de que los investigadores internos hayan sido notificados o bien que hayan confirmado su participación deberán entregar el protocolo de investigación o bien la carta descriptiva del proyecto a realizar, los cuales se deberán apegar a las características específicas que en su momento determine el CCJE. Asimismo, serán sometidos a la consideración del Comité en la sesión ordinaria más próxima a la fecha de recepción. Para llevar un orden de las fechas se procurará guardar registro documental tanto de la notificación como de la aceptación del investigador y la remisión del protocolo o carta descriptiva, bien sea por los medios convencionales o por correo electrónico.
+
+18. Cuando las investigaciones realizadas por los investigadores del CCJE o por algún otro funcionario del TEPJF obtengan un dictamen favorable, el CCJE deberá notificarlo por escrito a la Dirección General de Recursos Humanos para que el dato se adicione a la currícula del interesado en su expediente personal.
+
+DE LOS INVESTIGADORES EXTERNOS
+
+19. La investigación externa la realizarán académicos que posean una destacada trayectoria en el campo de su especialidad, con experiencia de por lo menos tres años en los temas que conciernan a la investigación. Asimismo, deberán contar con obra publicada en revistas académicas nacionales y/o extranjeras y preferentemente haber impartido docencia en el tema.
+
+20. Los investigadores externos que sean aprobados por el Comité deberán ser invitados mediante una comunicación oficial firmada por el Secretario Técnico Académico del propio Comité. Cuando el caso lo justifique, la comunicación podrá hacerse vía correo electrónico.
+
+21. Preferentemente, el listado de investigadores externos propuesto por el CCJE deberá incluir dos o tres nombres por tema, en orden de prelación. Lo anterior con el objeto de dar fluidez al proceso en caso de que algún invitado decline.
+
+22. Después de haber girado el oficio de invitación correspondiente, el CCJE deberá contactar al investigador de que se trate para darle seguimiento a la invitación y para ofrecerle la información complementaria que sea necesaria, en especial la relacionada con los siguientes aspectos:
+
+a) Tema de investigación y línea general en la que se inscribe;
+
+b) Protocolo de investigación o carta descriptiva;
+
+c) Características formales y técnicas;
+
+d) Proceso de dictaminación;
+
+e) Condiciones de contratación y montos a pagar;
+
+f) Tiempos y características del procedimiento administrativo;
+
+g) Documentación requerida para la contratación;
+
+h) Tiempos de entrega del producto y del pago correspondiente;
+
+i) Formato de entrega.
+
+23. Si no hay respuesta en el plazo de cuatro semanas a partir de la primera comunicación que se establezca con el investigador, se interpretará como no aceptación por parte del mismo. En este caso, el Secretario Técnico Académico del Comité girará un oficio de agradecimiento.
+
+24. Cuando un investigador decline la invitación o simplemente no exista respuesta de su parte en el tiempo arriba establecido, el Secretario Técnico Académico del Comité extenderá invitación al académico que siga en el orden de prelación en la lista aprobada.
+
+25. Por regla general, se procurará que los actores involucrados en algún recurso resuelto por el TEPJF, no sean invitados a realizar investigaciones, salvo que por su trayectoria académica así se amerite. Esto con la finalidad de salvaguardar la honorabilidad y la imparcialidad del TEPJF, soslayando cualquier sospecha de componenda, compensación o acuerdo indebido.
+
+26. Los investigadores externos deberán entregar, igualmente, un protocolo de investigación o una carta descriptiva del proyecto de investigación, según sea el caso, 30 días hábiles después de haber sido notificados, los cuales deberán apegarse a las características específicas que determine el CCJE. En este caso, para proceder a su contratación el investigador deberá hacer llegar una cotización detallada de los servicios a realizar, un cronograma de actividades y una copia de los documentos que comprueben la experiencia y los conocimientos requeridos.
+
+27. El CCJE recabará toda la documentación de los investigadores que sea necesaria para iniciar el trámite administrativo correspondiente y solicitar la elaboración de los respectivos contratos a la Coordinación de Asuntos Jurídicos del TEPJF.
+
+Previo al inicio de los trabajos, invariablemente se deberá contar con el contrato debidamente firmado que formaliza la operación entre el TEPJF y el investigador.
+
+28. Deberá quedar claro al investigador que es indispensable que entregue la documentación completa que se le haya requerido para poder llevar adelante el trámite referido.
+
+29. Los documentos siempre deberán corresponder, sin excepción, al investigador invitado.
+
+30. En caso de que el investigador no disponga de los documentos requeridos, sólo podrá llevar adelante el trabajo mediante aceptación expresa y por escrito de que no cobrará por la elaboración de la investigación, y que cede los derechos de reproducción de la obra resultante. Para ello firmará una carta compromiso en los términos descritos en el numeral 33 de estos lineamientos.
+
+31. Cuando la opción señalada en el punto anterior no esté disponible, el Secretario Técnico Académico girará un oficio de agradecimiento al autor. Este hecho deberá hacerlo del conocimiento del Comité y procederá a girar una nueva invitación conforme al orden de prelación.
+
+SOBRE LOS DERECHOS DE AUTOR Y PATRIMONIALES
+
+32. Los derechos patrimoniales de las investigaciones serán del TEPJF. Este deberá reconocer a los investigadores la autoría de cada obra según corresponda, de conformidad con lo establecido en los artículos 83 y 84 de la Ley Federal del Derecho de Autor. El TEPJF podrá reproducir, publicar, comunicar o divulgar por cualquier medio tecnológico, así como distribuir o vender mediante cuota de recuperación el resultado de la investigación.
+
+33. Los investigadores tanto internos como externos que desarrollen investigaciones para el Tribunal deberán firmar una carta de cesión de derechos al TEPJF, en la que a su vez éste se comprometa a reconocerles en todo momento la autoría del trabajo.
+
+CARACTERISTICAS SUSTANTIVAS Y TECNICAS DE LAS INVESTIGACIONES
+
+34. Todas las investigaciones deberán ser escritas en castellano y sujetarse a las siguientes características sustantivas:
+
+a) El desarrollo en general deberá referirse al tema de investigación asignado, a la línea temática general y ajustarse al protocolo de investigación o bien a la carta descriptiva citados previamente.
+
+b) Deberá presentar un catálogo de objetivos, tanto generales como específicos.
+
+c) Debe incluirse una justificación que dé cuenta de la pertinencia del estudio y de su trascendencia académica.
+
+d) Deberá especificar su marco teórico y conceptual. En el caso de los estudios explicativos se deberán incluir hipótesis en las que se establezcan las relaciones de causalidad entre variables.
+
+e) Debe señalarse una metodología bien estructurada y observarse apego a ella.
+
+f) La estructura debe ser coherente y clara.
+
+g) Se privilegiará la inclusión de una revisión de la bibliografía relevante al tema, para poder ubicar a la investigación dentro de la disciplina de la que se ocupa. Su aparato crítico deberá ser amplio, sólido y actualizado.
+
+h) En caso de utilizar estadísticas, se especificarán las fuentes de las que se obtuvieron los datos, la cuales deberán ser plenamente confiables.
+
+i) Es indispensable incorporar un capítulo de conclusiones.
+
+j) En general, debe representar un aporte académico para el mejor entendimiento del tema asignado.
+
+35. Todas las investigaciones deberán sujetarse a las siguientes características técnicas:
+
+a) Los textos deberán ir con páginas numeradas al centro en la parte inferior.
+
+b) El formato deberá ser Word versión 2003 o 2007, en letra Arial tamaño 12, con interlineado de 1.5 y con márgenes superior, inferior y laterales de 3 cm, configurado para papel tamaño carta.
+
+c) Los títulos de los capítulos quedarán centrados y en negritas, con mayúsculas y minúsculas, se manejarán con la numeración romana correspondiente y no llevarán punto final.
+
+d) Los títulos de los subcapítulos se incluirán con números arábigos, en renglón aparte, al margen, en cursivas y sin punto final.
+
+e) Los cuadros, figuras y gráficas deberán numerarse e incluir cada uno su propio título.
+
+f) La extensión recomendada para cada trabajo específico la determinará el CCJE, y se precisará en la invitación al autor.
+
+g) Las palabras en otro idioma y las locuciones en latín deberán ir en cursivas.
+
+h) Las abreviaturas y acrónimos sólo se utilizarán una vez que se haya explicado su significado. Por ejemplo: “Los derechos económicos, sociales y culturales (en adelante DESC)…”.
+
+i) Las citas textuales deberán ir entrecomilladas, salvo que excedan de cinco líneas, en cuyo caso deberán ponerse en párrafo aparte.
+
+j) En el supuesto anterior, el párrafo deberá tener un margen equivalente al de la sangría. De hecho toda la cita deberá ir con dicha sangría, en letra menor (10 puntos) y sin comillas.
+
+k) Las referencias bibliográficas correspondientes deberán ir a pie de página y numeradas consecutivamente.
+
+l) Las referencias deberán hacerse conforme al estilo Harvard de citas (apellido del autor, año de edición: número de página si correspondiere). Ejemplo: (Dahl 2003 22). Las notas aclaratorias o de comentarios deberán colocarse a pie de página con numeración consecutiva.
+
+m) La bibliografía deberá ser ordenada alfabéticamente por autor, al final del artículo, y deberá contener los siguientes datos en este orden: a) apellido del autor y nombre (seguidos de punto); b) año de edición; c) título de la obra (en cursivas); d) lugar de edición; e) casa editorial; f) volumen, tomo; g) en el caso de artículos de revistas, el título de estas últimas se incluirá en cursivas y el título del artículo en letra normal, entre comillas.
+
+n) Las fuentes consultadas en Internet deberán citarse de la siguiente forma: Autor o editor del artículo, fecha de publicación o Copyright si está disponible, títulos de la página y del artículo, editor de la página, dirección electrónica completa y fecha de consulta. Ejemplo: José de Jesús Gudiño, (20 de mayo de 2005). Temas selectos del derecho electoral. Formación y transformaciones de las instituciones. Suprema Corte de Justicia de la Nación. http://www2scjn.gob.mx/Ministros/ministrogp/informacionreciente/PDF/discurso_libro_derecho_ electoral.pdf (consultado el 20 de junio de 2008).
+
+o) En el caso de que el investigador tenga dudas sobre la manera de citar algún material no especificado aquí, podrá consultarlo directamente con el CCJE.
+
+36. El producto de investigación deberá entregarse en versión electrónica guardada en disco magnético (CD ROM) o hacerse llegar vía correo electrónico a la dirección institucional del CCJE.
+
+37. En todos los casos el CCJE deberá acusar de recibido.
+
+38. Los trabajos deben ir acompañados de un resumen de no más de 100 palabras, que incluyan de cuatro a diez palabras clave que permitan su pronta identificación en sistemas automatizados.
+
+39. Además, deberá adjuntarse al trabajo una breve ficha curricular del autor de media cuartilla, en donde se señalarán las actividades más destacadas de su experiencia profesional y académica, incluidas, en su caso, las referencias bibliográficas de sus publicaciones más recientes.
+
+PROCESO DE DICTAMINACION
+
+40. El Secretario Técnico Académico del Comité deberá informar a sus integrantes acerca de las investigaciones recibidas. A su vez, las hará llegar al dictaminador de que se trate conforme al rol establecido por el propio Comité.
+
+41. Los dictaminadores serán los miembros externos del propio Comité.
+
+42. Para apresurar la recepción de los trabajos por parte de los dictaminadores, se privilegiará el envío por correo electrónico, sin detrimento de que puedan enviarse por mensajería oficial. Cuando se utilice el correo electrónico el dictaminador deberá emitir una respuesta por el mismo medio como acuse de recibo. Cuando se envíe por mensajería el acuse será el convencional en papel.
+
+43. Los dictaminadores contarán con un periodo máximo de seis semanas a partir de que reciban los trabajos para emitir su opinión. Excepcionalmente, y en función de la naturaleza y volumen del trabajo, este plazo podrá ampliarse por decisión del Comité. La fecha que se considerará como base será la que se señale en el correo electrónico del dictaminador mediante el que confirma la recepción, o bien la del acuse físico.
+
+44. Para definir el tipo de dictamen general sobre el trabajo, los dictaminadores deberán tomar en consideración tanto los aspectos sustantivos como los técnicos señalados en los incisos 34 y 35 de estos lineamientos, respectivamente. En estos factores también fundamentarán la decisión sobre la aceptación o rechazo de las investigaciones.
+
+45. Los dictaminadores deberán utilizar el formato elaborado para este propósito, mismo que entregarán debidamente requisitado al Secretario Técnico Académico del Comité, para que éste transmita las generalidades de la evaluación a los investigadores.
+
+46. Los dictámenes deberán determinar inequívocamente la categoría en la que se clasifican todas las investigaciones recibidas. Existen cuatro categorías, a saber:
+
+a) Aprobada. En este caso se dará por entregada a entera satisfacción del TEPJF la investigación encargada y se finiquitarán los trámites administrativos que permitan generar el pago correspondiente. En caso de que el Comité así lo determiné, se podrá turnar a la Coordinación de Comunicación Social para su publicación y se subirá a la página electrónica del TEPJF.
+
+b) Aprobada con sugerencias de modificación. El Comité hace sugerencias que pueden ser atendidas por el investigador, quien deberá informar si las adopta o no. Será el Secretario Técnico Académico, por sí o por conducto de algún funcionario del CCJE que él mismo designe, quien remita el dictamen y haga la consulta respectiva. Si el autor decide incorporar cambios, tendrá un plazo improrrogable de cuatro semanas para hacerlo. Una vez que devuelva el trabajo, éste se remitirá al dictaminador original para que, en un plazo de dos semanas, revise y dé su visto bueno sobre las modificaciones. Para el segundo caso simplemente habrá que esperar la respuesta del autor sobre su negativa a modificar el texto para finiquitar los trámites administrativos y darle el cauce correspondiente al producto final.
+
+c) Aprobada condicionada a modificaciones. El Comité emite opiniones para modificar la investigación que deben ser imperativamente consideradas por el autor. El Secretario Técnico Académico, por sí o por quien él designe, hará llegar el dictamen al autor, quien dispondrá de un plazo improrrogable de cuatro semanas para aplicar las correcciones solicitadas. El texto corregido deberá someterse a revisión del mismo dictaminador para que éste corrobore que los cambios fueron aplicados. Este tendrá un plazo de dos semanas para estos efectos. Una vez que se cuente con el visto bueno del dictaminador, se procederá a finiquitar el trámite administrativo.
+
+d) No aprobada. Si la investigación obtiene esta calificación se enviará a un segundo dictaminador. Si éste confirma el dictamen no aprobatorio, el trabajo será devuelto al autor con la información detallada de las razones que fundamentan el dictamen. Paralelamente se cancelará el trámite administrativo de contratación y se notificará de ello al investigador. En caso de que el segundo dictamen sea en sentido aprobatorio, el punto será llevado a la sesión ordinaria del Comité más próxima. Esa instancia resolverá colegiadamente el sentido final del dictamen. Dependiendo de éste, será el proceso que se siga.
+
+47. Los dictaminadores deberán precisar lo mejor posible el tipo de modificaciones que se recomiendan o deben hacerse o, en su caso, las razones por las cuales la investigación presentada no se aprueba.
+
+48. Durante todo el proceso de dictamen también se privilegiará la comunicación por correo electrónico entre investigadores, dictaminadores y el Secretario Técnico Académico del Comité o a quien éste designe, según corresponda, sin demérito de que exista documentación oficial impresa. El Secretario Técnico Académico informará en cada sesión ordinaria del Comité sobre el estatus de cada investigación.
+
+49. Todos los casos no previstos en los presentes lineamientos serán resueltos por el CCJE y, cuando así lo amerite, por el Comité como órgano colegiado.
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO. Los presentes lineamientos entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. Publíquense los presentes lineamientos en la Página de Internet e intranet del Tribunal Electoral del Poder Judicial de la Federación el día que entren en vigor.
+
+CUARTO. Las investigaciones que se encuentren en proceso al momento de entrar en vigor los presentes lineamientos, deberán regirse por lo establecido en los lineamientos aprobados por la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación mediante el Acuerdo 246/S9 (24-IX-2008) hasta que sean concluidas.
+
+ACTA DE CERTIFICACION
+
+COMISION DE ADMINISTRACION DEL TEPJF
+
+SESIONES: 1a. SESION ORDINARIA DE 2010
+
+ACUERDOS No.: 14/S1(27-I-2010)
+
+FECHA DE ACUERDO: 27-I-2010
+
+FECHA DE ENTRADA EN VIGOR: 27-I-2010
+
+CERTIFICACION No.:
+
+EL SUSCRITO, MAESTRO DIEGO GUTIERREZ MORALES, SECRETARIO DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, PREVIA AUTORIZACION DE LA PRESIDENTA DE LA COMISION DE ADMINISTRACION, CON FUNDAMENTO EN LO DISPUESTO EN EL ARTICULO 33 FRACCION VIII DEL REGLAMENTO INTERNO DEL CITADO ORGANO JURISDICCIONAL:
+
+CERTIFICA
+
+Que el presente documento, en 17 fojas útiles, incluyendo la presente, corresponden a los LINEAMIENTOS PARA EL DESARROLLO DE INVESTIGACIONES, aprobados por el Pleno de la Comisión de Administración, mediante acuerdo 14/S1(27-I-2010) emitido en la Primera Sesión Ordinaria de 2010, que obra en los archivos de la Coordinación de Asuntos Jurídicos. DOY FE.- México, Distrito Federal, a 8 de febrero de 2010.- Rúbrica.
