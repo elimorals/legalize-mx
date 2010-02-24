@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2008-12-17"
+last_updated: "2010-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2010.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -771,7 +771,9 @@ Son facultades del Congreso:
 
 I.- Expedir, reformar, adicionar, derogar y abrogar las Leyes y Decretos para la mejor Administración del Estado, planeando su desarrollo económico y social;
 
-II.- Determinar los fundos de ciudades, villas y pueblos;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+II.- Determinar los fundos de ciudades, villas, pueblos y rancherías;
 
 III.- Crear nuevos poblados de cualesquiera de las categorías establecidas por la Ley Orgánica Municipal;
 
@@ -911,9 +913,9 @@ XXXV.- Cambiar provisional o definitivamente la residencia de los Poderes del Es
 
 XXXVI.- Conceder licencia a los Diputados para separarse de su cargo hasta por dos meses con goce de dietas, o por más tiempo sin ellas;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2010)</small>
 
-XXXVII.- Crear nuevos Municipios, modificar o suprimir algunos de los existentes, y decretar la erección de pueblos, Villas y ciudades;
+XXXVII.- Crear nuevos Municipios, modificar o suprimir algunos de los existentes, y decretar la erección de pueblos, villas, ciudades y rancherías;
 
 XXXVIII.- Designar el día anterior al de la clausura en los períodos de sesiones ordinarias, la Comisión Permanente que ha de funcionar en los recesos del Congreso; y (sic)
 
@@ -2778,3 +2780,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Hasta en tanto no se hagan las reformas pertinentes a las disposiciones jurídicas secundarias seguirán aplicándose las vigentes en lo que no se opongan al presente Decreto.
 
 TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, háganse llegar a cada uno de los 17 Ayuntamientos del Estado, copia fiel y exacta del correspondiente dictamen y sus antecedentes, para que emitan su voto de aprobación o rechazo a las reformas acordadas por esta soberanía legislativa, con la previsión que si dentro del término de 15 días naturales siguientes a la fecha de su recepción y notificación respectiva, no emiten su voto, se tendrá como aprobatorio el voto del Ayuntamiento omiso.
+
+P.O. 24 DE FEBRERO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Hasta en tanto no se hagan las reformas pertinentes a las disposiciones jurídicas secundarias seguirán aplicándose las vigentes en lo que no se opongan al presente Decreto.
+
+TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los 17 H. Ayuntamientos.
