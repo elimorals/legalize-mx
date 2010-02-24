@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-para-la-tramitacion-de-denuncias-del-instituto-83364
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-10"
-last_updated: "2010-01-18"
+last_updated: "2010-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "PUE"
 
 REGLAMENTO PARA LA TRAMITACIÓN DE DENUNCIAS DEL INSTITUTO ELECTORAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2010.
+ÚLTIMA REFORMA APROBADA EN SESIÓN ESPECIAL: 24 DE FEBRERO DE 2010.
 
 Reglamento aprobado por unanimidad de votos de los integrantes del Consejo General del Instituto Electoral del Estado, en sesión ordinaria de fecha martes 10 de noviembre de 2009.
 
@@ -96,55 +96,65 @@ III. Actos de campaña: Escritos, imágenes, reuniones públicas, asambleas, mí
 
 IV. Actos de precampaña: Todos aquellos que tienen por objeto promover, publicitar o apoyar la aspiración de una persona para ser postulado candidato a un cargo de elección popular;
 
-V. Actos negativos de campaña: Toda acción ilegal, anónima, violenta, subrepticia, sorpresiva, encubierta, desproporcionada, fraudulenta y sin ningún límite moral, que se emprende para conseguir un propósito político a toda costa, como el triunfo en unas elecciones.
+> <small>(ADICIONADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-VI. Aspirante a candidato o precandidato: Ciudadanos que deciden contender al interior de un determinado partido político o coalición, con el fin de alcanzar su postulación como candidato a un cargo de elección popular;
+V. Actos irreparables: Aquellos cuyos efectos no puedan retrotraerse y que sean materialmente imposibles de restituir al estado en el que se encontraban antes de que ocurrieran los hechos denunciados;
 
-VII. Campaña Negativa: Es la que se enfoca en las características negativas de los oponentes, más que en los rasgos positivos del candidato propio. Su objetivo más frecuente es "estereotipar" a los adversarios, es decir, crear una forma estática, permanente e invariable para describirlos, con base en la exageración de su carácter, cualidades mentales o características físicas, trata de crear una imagen negativa del oponente.
+VI. Actos negativos de campaña: Toda acción ilegal, anónima, violenta, subrepticia, sorpresiva, encubierta, desproporcionada, fraudulenta y sin ningún límite moral, que se emprende para conseguir un propósito político a toda costa, como el triunfo en unas elecciones.
 
-VIII. Campaña Electoral: Es el conjunto de actividades realizadas por los partidos políticos, las coaliciones, en su caso, y los candidatos registrados para la obtención del voto.
+VII. Aspirante a candidato o precandidato: Ciudadanos que deciden contender al interior de un determinado partido político o coalición, con el fin de alcanzar su postulación como candidato a un cargo de elección popular;
 
-IX. Coalición: alianza o unión transitoria, de dos o más partidos políticos, con fines electorales.
+VIII. Campaña Negativa: Es la que se enfoca en las características negativas de los oponentes, más que en los rasgos positivos del candidato propio. Su objetivo más frecuente es "estereotipar" a los adversarios, es decir, crear una forma estática, permanente e invariable para describirlos, con base en la exageración de su carácter, cualidades mentales o características físicas, trata de crear una imagen negativa del oponente.
 
-X. Código: el Código de Instituciones y Procesos Electorales del Estado de Puebla;
+IX. Campaña Electoral: Es el conjunto de actividades realizadas por los partidos políticos, las coaliciones, en su caso, y los candidatos registrados para la obtención del voto.
 
-XI. Comisión: la Comisión de Vigilancia y Trámite de Denuncias;
+X. Coalición: alianza o unión transitoria, de dos o más partidos políticos, con fines electorales.
 
-XII. Consejo: el Consejo General del Instituto Electoral del Estado;
+XI. Código: el Código de Instituciones y Procesos Electorales del Estado de Puebla;
 
-XIII Consejero Presidente: el Consejero Presidente del Consejo General del Instituto Electoral del Estado;
+XII. Comisión: la Comisión de Vigilancia y Trámite de Denuncias;
 
-XIV. Consejos: los Consejos Distritales y Municipales Electorales;
+XIII. Consejo: el Consejo General del Instituto Electoral del Estado;
 
-XV. Denuncia: Acto por medio del cual se hace del conocimiento de los órganos del Instituto los actos, hechos u omisiones presuntamente violatorios del Código de Instituciones y Procesos Electorales del Estado de Puebla;
+XIV. Consejero Presidente: el Consejero Presidente del Consejo General del Instituto Electoral del Estado;
+
+XV. Consejos: los Consejos Distritales y Municipales Electorales;
+
+XVI. Denuncia: Acto por medio del cual se hace del conocimiento de los órganos del Instituto los actos, hechos u omisiones presuntamente violatorios del Código de Instituciones y Procesos Electorales del Estado de Puebla;
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
-XVI. Denunciado: Los sujetos infractores que se señalan como probables responsables de los actos, hechos u omisiones motivo del procedimiento.
+XVII. Denunciado: Los sujetos infractores que se señalan como probables responsables de los actos, hechos u omisiones motivo del procedimiento.
 
-XVII. Denunciante: Ciudadano, precandidato, partido político o coalición que formula por escrito la denuncia;
+XVIII. Denunciante: Ciudadano, precandidato, partido político o coalición que formula por escrito la denuncia;
 
-XVIII. Fin inequívoco: Toda actividad propagandística o publicitaría que no admite duda alguna de que el ciudadano tenga el propósito de obtener la postulación a un cargo de elección popular y que se anticipe a los tiempos señalados en el artículo 200 bis, apartado B, fracción II del Código y específicamente a la duración de la precampaña señalada en la normatividad interna que regula los procesos de selección de candidatos de los partidos políticos y/o coaliciones;
+XIX. Fin inequívoco: Toda actividad propagandística o publicitaría que no admite duda alguna de que el ciudadano tenga el propósito de obtener la postulación a un cargo de elección popular y que se anticipe a los tiempos señalados en el artículo 200 bis, apartado B, fracción II del Código y específicamente a la duración de la precampaña señalada en la normatividad interna que regula los procesos de selección de candidatos de los partidos políticos y/o coaliciones;
 
-XIX. Instituto: el Instituto Electoral del Estado;
+XX. Instituto: el Instituto Electoral del Estado;
 
-XX. Partes: el denunciante y el denunciado.
+> <small>(ADICIONADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-XXI. Precampaña electoral: Conjunto de actividades que de manera previa al registro de candidatos, son llevadas a cabo por ciudadanos que aspiran a ser candidatos para algún cargo de elección popular, dentro de un proceso de selección interna organizado por un partido político o coalición con el propósito de ser postulados por éste. Las precampañas forman parte del proceso electoral y se circunscriben a la etapa preparatoria de la elección;
+XXI. Medidas cautelares: Los actos procesales que proponga el Secretario, las que se presenten a petición de parte y las que determine la Comisión con el objeto de lograr la cesación de los actos o hechos constitutivos de posibles infracciones, buscando con ello evitar la producción de daños irreparables, la afectación de los principios rectores del Código o la vulneración de los bienes jurídicos tutelados por éste, hasta en tanto se resuelve el fondo del procedimiento en el cual fueron emitidas.
 
-XXII. Procedimiento sancionador ordinario: Procedimiento aplicable en cualquier tiempo para los casos de violaciones a las disposiciones del Código de Instituciones y Procesos Electorales del Estado de Puebla.
+XXII. Partes: el denunciante y el denunciado.
 
-XXIII. Procedimiento especial sancionador: Procedimiento que tiene como finalidad determinar, de manera expedita, la presunta violación a las disposiciones del Código de Instituciones y Procesos Electorales del Estado de Puebla y la responsabilidad de los sujetos denunciados mediante la valoración de los medios de prueba que obren en el expediente.
+XXIII. Precampaña electoral: Conjunto de actividades que de manera previa al registro de candidatos, son llevadas a cabo por ciudadanos que aspiran a ser candidatos para algún cargo de elección popular, dentro de un proceso de selección interna organizado por un partido político o coalición con el propósito de ser postulados por éste. Las precampañas forman parte del proceso electoral y se circunscriben a la etapa preparatoria de la elección;
 
-XXIV. Propaganda Electoral: Conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que, durante la campaña electoral, producen y difunden los partidos políticos, las coaliciones, en su caso, los candidatos registrados y sus simpatizantes con el propósito de propiciar la exposición, desarrollo y discusión ante el electorado, de los programas y acciones fijados por los propios partidos políticos en sus documentos básicos y particularmente en la plataforma electoral que para la elección hubieren registrado.
+XXIV. Procedimiento sancionador ordinario: Procedimiento aplicable en cualquier tiempo para los casos de violaciones a las disposiciones del Código de Instituciones y Procesos Electorales del Estado de Puebla.
 
-XXV. Reglamento: el Reglamento para la tramitación de denuncias del Instituto Electoral del Estado;
+XXV. Procedimiento especial sancionador: Procedimiento que tiene como finalidad determinar, de manera expedita, la presunta violación a las disposiciones del Código de Instituciones y Procesos Electorales del Estado de Puebla y la responsabilidad de los sujetos denunciados mediante la valoración de los medios de prueba que obren en el expediente.
 
-XXVI. Reglamento de Comisiones: el Reglamento de Comisiones del Instituto Electoral del Estado;
+XXVI. Propaganda Electoral: Conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que, durante la campaña electoral, producen y difunden los partidos políticos, las coaliciones, en su caso, los candidatos registrados y sus simpatizantes con el propósito de propiciar la exposición, desarrollo y discusión ante el electorado, de los programas y acciones fijados por los propios partidos políticos en sus documentos básicos y particularmente en la plataforma electoral que para la elección hubieren registrado.
 
-XXVII. Secretaría: la Secretaría General del Consejo General del Instituto Electoral del Estado;
+XXVII. Reglamento: el Reglamento para la tramitación de denuncias del Instituto Electoral del Estado;
 
-XXVIII. Sujetos Infractores: persona sujeta a responsabilidad por presuntas infracciones cometidas a las disposiciones en materia electoral.
+XXVIII. Reglamento de Comisiones: el Reglamento de Comisiones del Instituto Electoral del Estado;
+
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+XXIX. Secretario: El Secretario General del Consejo General del Instituto Electoral del Estado;
+
+XXX. Sujetos Infractores: persona sujeta a responsabilidad por presuntas infracciones cometidas a las disposiciones en materia electoral.
 
 ###### ARTÍCULO 4.
 
@@ -284,27 +294,37 @@ II. Acordar la admisión o improcedencia de las denuncias presentadas;
 
 III. Requerir al denunciante cuando omita alguno de los requisitos para la presentación de la denuncia señalados en el Reglamento;
 
-IV. Conocer de las medidas cautelares analizadas, valoradas y determinadas por la Secretaría, solicitadas por el denunciante o las que determine conducentes;
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-V. Conocer sobre la investigación de los hechos denunciados que realice la Secretaría;
+IV. Dictar u ordenar las medidas cautelares que considere necesarias para lograr la cesación de los actos o hechos que constituyan una presunta infracción; siendo estas, a solicitud del denunciante, las que en su caso estime pertinentes proponer el Secretario o las que determine la Comisión;
 
-VI. Aprobar la ampliación del plazo para la etapa de investigación;
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-VII. Conocer y aprobar el dictamen correspondiente derivado de las denuncias presentadas;
+V. Solicitar al Secretario los informes que estime necesarios sobre la investigación de los hechos denunciados;
 
-VIII. Interpretar el presente Reglamento y resolver los casos no previstos en él y, en su caso, someter a aprobación del Consejo los criterios que considere pertinentes;
+> <small>(ADICIONADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-IX. Acordar las medidas conducentes para garantizar el adecuado desarrollo del procedimiento y normar cada una de sus etapas en caso de que existan violaciones al mismo;
+VI. Requerir a las autoridades federales, estatales o municipales los informes o documentos necesarios para la investigación de los hechos denunciados por conducto del Consejero Presidente;
 
-X. Proponer al Consejo reformas o modificaciones al presente Reglamento;
+VII. Aprobar la ampliación del plazo para la etapa de investigación;
 
-XI. Vigilar en el ámbito de su competencia el cumplimiento del presente Reglamento; y
+VIII. Conocer y aprobar el dictamen correspondiente derivado de las denuncias presentadas;
 
-XII. Las demás que le confiera el presente Reglamento, el Consejo y las demás disposiciones aplicables.
+IX. Interpretar el presente Reglamento y resolver los casos no previstos en él y, en su caso, someter a aprobación del Consejo los criterios que considere pertinentes;
+
+X. Acordar las medidas conducentes para garantizar el adecuado desarrollo del procedimiento y normar cada una de sus etapas en caso de que existan violaciones al mismo;
+
+XI. Proponer al Consejo reformas o modificaciones al presente Reglamento;
+
+XII. Vigilar en el ámbito de su competencia el cumplimiento del presente Reglamento; y
+
+XIII. Las demás que le confiera el presente Reglamento, el Consejo y las demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 12.
 
-Son atribuciones de la Secretaría:
+Son atribuciones del Secretario:
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
@@ -320,9 +340,13 @@ III. Coadyuvar con la Comisión en requerir al denunciante cuando omita alguno d
 
 IV. Emplazar una vez acordada la admisión de la denuncia al denunciado;
 
-V. Analizar, valorar y determinar las medidas cautelares solicitadas por el denunciante o las que determine conducentes;
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-VI. Investigar los hechos denunciados previo conocimiento de la Comisión;
+V. Presentar a la Comisión la propuesta de medidas cautelares que considere conducentes;
+
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+VI. Investigar los hechos denunciados;
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
@@ -330,7 +354,9 @@ VII. Coadyuvar con la Comisión en la elaboración del proyecto de resolución d
 
 VIII. Requerir a solicitud de las partes y de la Comisión las pruebas necesarias y conducentes para la correcta integración del expediente;
 
-IX. Realizar las diligencias que sean solicitadas como pruebas o medios preparatorios, así como las que ordene la Comisión;
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+IX. Realizar las diligencias que sean solicitadas como pruebas, así como las que se consideren necesarias para preservar la materia de la denuncia;
 
 X. Remitir el expediente integrado a la Comisión;
 
@@ -380,9 +406,9 @@ IV. El denunciante presente escrito de desistimiento, el cual deberá ser presen
 
 El estudio de las causas de improcedencia o sobreseimiento de la denuncia se realizará de oficio.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-Si se advierte que se actualiza una de ellas, la Comisión solicitará a la Secretaría elabore el proyecto de resolución por el que se le proponga el desechamiento o sobreseimiento, según corresponda, y lo presentará al Consejo, por conducto del Consejero Presidente, en un término no mayor a cinco días contados a partir de la fecha en que la Comisión solicitó a la Secretaría la elaboración del proyecto.
+Si se advierte que se actualiza una de ellas, la Comisión solicitará al Secretario elabore el proyecto de resolución por el que se le proponga el desechamiento o sobreseimiento, según corresponda, y lo presentará al Consejo, por conducto del Consejero Presidente, en un término no mayor a cinco días contados a partir de la fecha en que la Comisión solicitó al Secretario la elaboración del proyecto.
 
 ### CAPÍTULO QUINTO. DE LA ACUMULACIÓN
 
@@ -394,9 +420,11 @@ I. Litispendencia, entendida como la relación existente entre un procedimiento 
 
 II. Conexidad, entendida como la relación entre dos o más procedimientos por provenir éstos de una misma causa o iguales hechos en los que resulta conveniente evitar la posibilidad de resoluciones contradictorias.
 
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 17.
 
-La Secretaría podrá determinar la acumulación de expedientes, de oficio o a petición de parte, hasta antes de acordar la integración del expediente correspondiente.
+El Secretario podrá determinar la acumulación de expedientes, de oficio o a petición de parte, hasta antes de acordar la integración del expediente correspondiente.
 
 ### CAPÍTULO SEXTO. DE LAS PRUEBAS
 
@@ -436,37 +464,47 @@ Harán prueba plena las documentales públicas. En su caso, se admitirá prueba 
 
 Tendrán el valor de presunción las documentales privadas y las pruebas técnicas y admitirán prueba en contrario. Harán prueba plena cuando al relacionarlas con los demás elementos que obren en el expediente no dejen dudas sobre la verdad de los hechos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 22.
 
-Para la admisión y desahogo de pruebas que no se encuentran contempladas en el presente Reglamento y que fueran ofrecidas por el denunciante, la Comisión deberá considerar si la prueba es conducente, la posibilidad y las condiciones materiales para su desahogo.
+Para la admisión y desahogo de pruebas que no se encuentran contempladas en el presente Reglamento y que fueran ofrecidas por el denunciante, el Secretario deberá considerar si la prueba es conducente, la posibilidad y las condiciones materiales para su desahogo.
 
 Las pruebas admitidas y desahogadas serán valoradas en su conjunto, atendiendo a las reglas de la lógica, la experiencia y la sana crítica, así como a los principios rectores de la función electoral.
 
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 23.
 
-El denunciante podrá solicitar como pruebas o medios preparatorios el desahogo de diligencias.
+El denunciante podrá ofrecer y aportar las pruebas con cuente; o en su caso, mencionar las que habrán de requerirse, cuando se acredite que las solicitó por escrito oportunamente al órgano competente, y no le hubieren sido entregadas.
 
-Para tal efecto, el oferente deberá identificar con toda precisión dichas pruebas y señalar el lugar o el medio en la cual se encuentren, el objeto de las mismas y el hecho que se intenta probar.
-
-La Secretaría acordará y desahogará dichas diligencias a través del personal que designe, quien levantará la certificación correspondiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 24.
 
-Si las partes ofrecieran pruebas en poder de las Áreas Administrativas o Técnicas del Instituto, la Secretaría ordenará su remisión para integrarlas en el expediente respectivo.
+Si las partes ofrecieran pruebas en poder de las Áreas Administrativas o Técnicas del Instituto, el Secretario ordenará su remisión para integrarlas en el expediente respectivo.
 
 Para tal efecto, el oferente deberá identificar con toda precisión dichas pruebas y señalar el lugar, así como el Área Administrativa o Técnica en cuyo poder obren, así como acreditar la solicitud de las mismas y la negativa de su entrega.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 25.
 
-Si las partes ofrecieran pruebas en poder de otras autoridades, dependencias o instituciones, la Secretaría solicitará su remisión para integrarlas en el expediente respectivo.
+Si las partes ofrecieran pruebas en poder de otras autoridades, dependencias o instituciones, el Secretario solicitará a la Comisión que por conducto del Consejero Presidente requiera su remisión para integrarlas en el expediente respectivo.
 
 Para tal efecto, el oferente deberá identificar con toda precisión dichas pruebas, así como acreditar la solicitud de las mismas y la negativa de su entrega.
 
-En caso de que las autoridades no proporcionen en tiempo y forma la información solicitada, la Secretaría informará a la Comisión para que ésta solicite al Consejo que se observe la disposición contenida en el artículo 388 del Código.
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+En caso de que las autoridades no proporcionen en tiempo y forma la información solicitada, el Secretario informará a la Comisión para que ésta solicite al Consejo que se observe la disposición contenida en el artículo 388 del Código.
+
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 26.
 
-La Secretaría requerirá, cuando lo estime procedente, las pruebas necesarias y conducentes para la correcta integración de los expedientes y la investigación de los hechos, observando en todo momento los principios de idoneidad, necesidad y proporcionalidad así como durante el desahogo de pruebas y diligencias.
+El Secretario requerirá, cuando lo estime procedente, las pruebas necesarias y conducentes para la correcta integración de los expedientes y la investigación de los hechos, observando en todo momento los principios de idoneidad, necesidad y proporcionalidad así como durante el desahogo de pruebas y diligencias.
+
+Los requerimientos que se realicen a las autoridades federales, estatales o municipales deberán de solicitarse a través de la Comisión.
 
 ###### ARTÍCULO 27.
 
@@ -484,37 +522,65 @@ Una vez admitida una prueba superveniente se dará vista al denunciado para que 
 
 ### CAPÍTULO SÉPTIMO. DE LAS MEDIDAS CAUTELARES
 
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 28.
 
-Serán medidas cautelares las que determine la Secretaría y que proponga a la Comisión con la finalidad de asegurar la adecuada investigación de los hechos denunciados, hasta en tanto se emite la resolución definitiva que ponga fin al procedimiento.
+Serán medidas cautelares los actos procesales que proponga el Secretario, las que se presenten a petición de parte y las que determine la Comisión con el objeto de lograr la cesación de los actos o hechos constitutivos de posibles infracciones, buscando con ello evitar la producción de daños irreparables, la afectación de los principios rectores del Código o la vulneración de los bienes jurídicos tutelados por éste, hasta en tanto se resuelve el fondo del procedimiento en el cual fueron emitidas.
 
 Las medidas cautelares podrán ser aplicadas en la instauración de los procedimientos previstos en el presente Reglamento.
 
 Para la aplicación de las medidas cautelares a que se refiere el presente Reglamento, en todo momento se tendrá que cumplir con los siguientes requisitos:
 
-I. La Secretaría analizará el escrito de denuncia para determinar si estima procedente la aplicación de medidas cautelares solicitadas por el denunciante;
+I. La Comisión determinará la procedencia de las medidas cautelares solicitadas por el denunciante o cuando las considere necesarias, dentro del término para decidir sobre la admisión de la denuncia.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+II. El Secretario, en su caso, presentará a la Comisión una propuesta de medidas cautelares atendiendo a lo dispuesto en el presente Reglamento, dentro del término para decidir sobre la admisión de la denuncia.
 
-II. La Secretaría presentará el análisis de la procedencia de las medidas cautelares a la Comisión dentro del término previsto para decidir sobre la admisión o improcedencia de la denuncia; y
+III. En sesión de la Comisión, se discutirá y aprobará en su caso la adopción de las medidas cautelares.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+La Comisión tomará en cuenta la propuesta del Secretario pudiendo determinar modificaciones a dicha propuesta o la aprobación de medidas cautelares diferentes a las propuestas por el Secretario; y
 
-III. La Comisión resolverá en un plazo de veinticuatro horas lo conducente, a fin de lograr la cesación de los actos o hechos que ocasionen daños irreparables, que afecten los principios rectores o vulneren los bienes jurídicos tutelados por las disposiciones contenidas en el Código.
+IV. La Comisión resolverá lo conducente dentro de los siguientes términos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+a) Para el procedimiento ordinario dentro de los tres días siguientes al análisis que realice la Comisión y/o a la presentación de la propuesta del Secretario; y
+
+b) Para el procedimiento especial dentro de las cuarenta y ocho horas siguientes al análisis que realice la Comisión y/o a la presentación de la propuesta del Secretario.
+
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 29.
 
-La Secretaría deberá fundar y motivar las medidas cautelares con base en lo siguiente:
+Las medidas cautelares se aplicarán, de manera enunciativa, más no limitativa, cuando se presuma la conculcación de los siguientes dispositivos legales:
+
+a) Artículos 54, 200 bis, 217, 227, 228, 232 fracción VII y 233 tercer párrafo del Código.
+
+Las medidas cautelares deberán fundarse y motivarse con base en lo siguiente:
+
+I. Condiciones a las que se encuentra sujeto su pronunciamiento:
+
+a) La probable existencia de un derecho, del cual se pide la tutela en el proceso.
+
+b) El temor fundado de que, mientras llega la tutela jurídica efectiva, desaparezcan las circunstancias de hecho necesarias para alcanzar una decisión sobre el derecho o bien jurídico cuya restitución se reclama.
+
+II. Las medidas cautelares deberán justificar:
+
+a) La irreparabilidad de la afectación.
+
+b) La idoneidad de la medida.
+
+c) La razonabilidad.
+
+d) La proporcionalidad.
+
+Las medidas cautelares que podrán dictarse u ordenarse, de manera enunciativa y no limitativa, son las siguientes:
 
 I. La suspensión inmediata del o los actos presuntamente violatorios; y
 
-II. Ordenar el retiro de propaganda contraria a la ley.
-
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+II. Ordenar el retiro inmediato de propaganda contraria a la ley.
 
 En el acuerdo mediante el cual se ordenan las medidas cautelares, se podrá establecer que el denunciado retire la propaganda en un plazo no mayor de veinticuatro horas.
+
+Asimismo, el acuerdo donde se determine la aplicación de una medida cautelar se deberá notificar a las partes dentro de los tres días siguientes a su aprobación.
 
 En los casos en que se haya ordenado el retiro de propaganda en lugares prohibidos, los responsables deberán observar las reglas de protección al medio ambiente.
 
@@ -527,6 +593,10 @@ Los procedimientos para conocer de las faltas cometidas a las disposiciones esta
 El procedimiento dará inicio a petición de parte.
 
 Será a petición de parte, mediante escrito de denuncia en la que se haga del conocimiento del Instituto la presunta comisión de una falta cometida a las disposiciones establecidas en el Código.
+
+> <small>(ADICIONADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+ARTÍCULO 30 BIS.- Una vez recibida la denuncia, el Consejo la remitirá, por conducto del Consejero Presidente, inmediatamente a la Comisión para el trámite correspondiente.
 
 ## TITULO SEGUNDO. PROCEDIMIENTO ORDINARIO
 
@@ -566,19 +636,19 @@ VII. Presentar las copias legibles necesarias para correr traslado al o los denu
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL EXPEDIENTE
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
-
 ###### ARTÍCULO 34.
 
-Una vez recibida la denuncia, el Consejo la remitirá, por conducto del Consejero Presidente, a la Comisión para el trámite correspondiente al día siguiente de la presentación de la misma.
+(DEROGADO, SESIÓN 24 DE FEBRERO DE 2010)
 
 ###### ARTÍCULO 35.
 
 Los Consejos que reciban una denuncia, deberán remitirla al día siguiente de su recepción al Consejo para su trámite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 36.
 
-Recibida la denuncia, la Secretaría procederá a:
+Recibida la denuncia, el Secretario procederá a:
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
@@ -592,9 +662,17 @@ II. Coadyuvar con la Comisión para su revisión a efecto de determinar si se de
 
 III. Coadyuvar con la Comisión en el análisis para su admisión o improcedencia;
 
-IV. Realizar las diligencias solicitadas por el denunciante y las que considere necesarias aplicando los principios de idoneidad, proporcionalidad y exhaustividad, para la debida integración del expediente; y las que le instruya la Comisión cuando se consideren necesarias por ésta; y
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-V. Acordar las medidas precautorias solicitadas por el denunciante o en su caso las que considere necesarias para la debida preservación de los indicios materia de la denuncia.
+IV. Realizar las diligencias solicitadas por el denunciante aplicando los principios de idoneidad, proporcionalidad y exhaustividad; y las que le instruya la Comisión cuando se consideren necesarias por ésta;
+
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+V. Acordar las medidas necesarias una vez presentada la denuncia o las solicitadas por el denunciante, que se consideren necesarias para la debida preservación de la materia de la denuncia; y
+
+> <small>(ADICIONADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+VI. Coadyuvar con la Comisión en el análisis para determinar las medidas cautelares que se consideren necesarias.
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
 
@@ -610,11 +688,11 @@ En caso de que se aperciba al denunciante y este subsane alguno de los requisito
 
 De igual forma, contará con un plazo de tres días para emitir el acuerdo de desechamiento contados a partir de la fecha en la que termine el plazo otorgado y no subsane alguno de los requisitos señalados en el artículo 33 del presente Reglamento.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 38.
 
-Una vez acordada la procedencia de la denuncia, la Secretaría dentro de los tres días siguientes emplazará al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
+Una vez acordada la procedencia de la denuncia, el Secretario dentro de los tres días siguientes emplazará al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
 
 ###### ARTÍCULO 39.
 
@@ -638,59 +716,71 @@ IV. Ofrecer y aportar las pruebas con que cuente debiendo relacionar éstas con 
 
 La omisión de no contestar la denuncia, solo tendrá corno efecto la preclusión del derecho de ofrecer pruebas, sin generar presunción alguna respecto a la veracidad de los hechos que se imputan al denunciado.
 
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 41.
 
-Admitida la denuncia por la Secretaría realizará las diligencias solicitadas por el denunciante y las que considere necesarias para la debida integración del expediente y requerirá las pruebas que obren en poder de una autoridad y que no le haya sido posible obtener al denunciante, las cuales deberán ser identificadas con toda precisión en la denuncia.
+A partir de que fenezca el término de la contestación de la denuncia el Secretario iniciará la etapa de la investigación observando lo siguiente:
 
-La Secretaría hará del conocimiento de la Comisión lo indicado en el párrafo anterior para su conocimiento y observaciones que determine conducentes.
+I. Analizará las diligencias solicitadas por el denunciante y realizará las que considere procedentes;
+
+I. II (SIC).- Realizará las diligencias que considere necesarias para la debida integración del expediente; y
+
+II. III (SIC).- Solicitará a la Comisión que, por conducto del Consejero Presidente, se requieran las pruebas que obren en poder de una autoridad y que no le haya sido posible obtener al denunciante, en términos de lo indicado en el presente Reglamento.
 
 ### CAPÍTULO TERCERO. DE LA INVESTIGACIÓN
 
 ###### ARTÍCULO 42.
 
-La investigación para el conocimiento cierto de los hechos se realizará de forma seria, congruente, eficaz, expedita, completa y exhaustiva, atendiendo los principios de Idoneidad, necesidad y proporcionalidad.
+La investigación para el conocimiento cierto de los hechos se realizará de forma seria, congruente, eficaz, expedita, completa y exhaustiva, atendiendo los principios de idoneidad, necesidad y proporcionalidad.
 
-La etapa de investigación se realizará por la Secretaría efectuando las acciones tendientes al esclarecimiento de los hechos denunciados, comunicando previamente a la Comisión las medidas a adoptar y observando las determinaciones que al respecto dicte la misma.
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+La etapa de investigación se realizará por el Secretario efectuando las acciones tendientes al esclarecimiento de los hechos denunciados.
 
 ###### ARTÍCULO 43.
 
-Una vez que la Secretaría tenga conocimiento de los hechos denunciados podrá realizar las diligencias necesarias para garantizar la adecuada investigación de los hechos, haciéndolo del conocimiento de la Comisión.
+(DEROGADO, SESIÓN 24 DE FEBRERO DE 2010)
+
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 44.
 
-La Secretaría se allegará de los elementos que estime pertinentes para realizar la investigación y análisis del asunto. Para tal efecto, solicitará mediante oficio a los Órganos del Instituto remitan la información requerida.
+El Secretario se allegará de los elementos que estime pertinentes para realizar la investigación y análisis del asunto. Para tal efecto, solicitará mediante oficio a los Órganos del Instituto remitan la información requerida.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 45.
 
-El plazo para llevar a cabo la investigación no podrá exceder de treinta días, contados a partir de la recepción de la contestación de la denuncia en la Secretaría.
+El plazo para llevar a cabo la investigación no podrá exceder de treinta días, contados a partir de la recepción de la contestación de la denuncia por el Secretario.
 
 El plazo a que se hace referencia en el párrafo anterior podrá ser ampliado por una sola vez, por el periodo que determine necesario la Comisión, mediante acuerdo debidamente motivado que emita la Comisión.
 
-La Secretaría emitirá un acuerdo donde se dé por concluida la etapa de investigación.
+El Secretario emitirá un acuerdo donde se dé por concluida la etapa de investigación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 46.
 
-La Secretaría podrá girar oficio al Presidente del Consejo, para que solicite a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados.
+El Secretario podrá solicitar a la Comisión que por conducto del Consejero Presidente requiera a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados.
 
 Dichos requerimientos de información o de solicitud de diligencias, serán formulados hasta por dos ocasiones, apercibiéndose desde el primero de ellos que, en caso de no cumplimentarse dicho requerimiento se estará a lo establecido en el Título Quinto del presente Reglamento.
 
 Independientemente del inicio del procedimiento correspondiente en términos de los párrafos anteriores, en caso de no cumplimentarse los requerimientos se resolverá con los elementos que se cuenten en el expediente.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 47.
 
-Cerrada la investigación, la Secretaría pondrá a disposición de las partes el expediente integrado con la finalidad de que en un plazo de dos días presenten sus alegatos por escrito, pasado este plazo, con o sin alegatos se elaborará el dictamen que corresponda.
+Cerrada la investigación, el Secretario pondrá a disposición de las partes el expediente integrado con la finalidad de que en un plazo de dos días presenten sus alegatos por escrito, pasado este plazo, con o sin alegatos se elaborará el dictamen que corresponda.
 
 ### CAPÍTULO CUARTO. DEL DICTAMEN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 48.
 
-La Secretaría procederá a elaborar el proyecto de dictamen correspondiente dentro de los cinco días siguientes al vencimiento del plazo para la presentación de alegatos, sometiéndolo a consideración de la Comisión al día siguiente.
+El Secretario procederá a elaborar el proyecto de dictamen correspondiente dentro de los cinco días siguientes al vencimiento del plazo para la presentación de alegatos, sometiéndolo a consideración de la Comisión al día siguiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
 
@@ -700,7 +790,9 @@ I. Aprobar el proyecto en los términos en que se le presente;
 
 II. Aprobarlo modificando el sentido del proyecto; y
 
-III. Retirar el proyecto e instruir a la Secretaría para la elaboración de un nuevo proyecto.
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+III. Retirar el proyecto e instruir al Secretario para la elaboración de un nuevo proyecto.
 
 ###### ARTÍCULO 49.
 
@@ -810,11 +902,9 @@ VII. Presentar las copias legibles necesarias para correr traslado al o los denu
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL EXPEDIENTE
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
-
 ###### ARTÍCULO 59.
 
-Una vez recibida la denuncia, el Consejo la remitirá, por conducto del Consejero Presidente, a la Comisión para el trámite correspondiente inmediatamente.
+(DEROGADO, SESIÓN 24 DE FEBRERO DE 2010)
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
 
@@ -822,9 +912,11 @@ Una vez recibida la denuncia, el Consejo la remitirá, por conducto del Consejer
 
 Los Consejos que reciban una denuncia, deberán remitirla dentro de las veinticuatro horas siguientes de su recepción al Consejo para su trámite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 61.
 
-Recibida la denuncia, la Secretaría procederá a:
+Recibida la denuncia, el Secretario procederá a:
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
@@ -838,9 +930,17 @@ II. Coadyuvar con la Comisión para su revisión a efecto de determinar si se de
 
 III. Coadyuvar con la Comisión en el análisis para su admisión o improcedencia;
 
-IV. Realizar las diligencias de investigación solicitadas por el denunciante y las que considere necesarias aplicando los principios de idoneidad, proporcionalidad y exhaustividad, para la debida integración del expediente; y las que le instruya la Comisión cuando se consideren necesarias por ésta; y
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
-V. Acordar las medidas precautorias solicitadas por el denunciante o en su caso las que considere necesarias para la debida preservación de los indicios materia de la denuncia.
+IV. Realizar las diligencias solicitadas por el denunciante aplicando los principios de idoneidad, proporcionalidad y exhaustividad; y las que le instruya la Comisión cuando se consideren necesarias por ésta;
+
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+V. Acordar las medidas necesarias una vez presentada la denuncia o las solicitadas por el denunciante, que se consideren necesarias para la debida preservación de la materia de la denuncia; y
+
+> <small>(ADICIONADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+VI. Coadyuvar con la Comisión en el análisis para determinar las medidas cautelares que se consideren necesarias.
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
 
@@ -856,11 +956,11 @@ En caso de que se aperciba al denunciante, subsane alguno de los requisitos señ
 
 De igual forma, contará con un plazo de cuarenta y ocho horas para emitir el acuerdo de desechamiento contados a partir de la fecha en la que termine el plazo otorgado y no subsane alguno de los requisitos señalados en el artículo 58 del presente Reglamento.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 63.
 
-Una vez acordada la procedencia de la denuncia, la Secretaría dentro de las cuarenta y ocho horas siguientes emplazará al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
+Una vez acordada la procedencia de la denuncia, el Secretario dentro de las cuarenta y ocho horas siguientes emplazará al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
 
 ###### ARTÍCULO 64.
 
@@ -888,11 +988,17 @@ La omisión de no contestar la denuncia, solo tendrá como efecto la preclusión
 
 Las pruebas deberán ser ofrecidas al presentarse la denuncia, ninguna prueba aportada posteriormente será tomada en cuenta, no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto.
 
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 67.
 
-Admitida la denuncia por la Secretaría realizará las diligencias solicitada por el denunciante para la debida integración del expediente y requerirá las pruebas que obren en poder de una autoridad y que no le haya sido posible obtener al denunciante, las cuales deberán ser identificadas con toda precisión en la denuncia.
+A partir de que fenezca el término de contestación de la denuncia el Secretario iniciará la etapa de investigación observando lo siguiente:
 
-La Secretaría hará del conocimiento de la Comisión lo indicado en el párrafo anterior para su conocimiento y observaciones que determine conducentes.
+I. Analizará las diligencias solicitadas por el denunciante y realizará las que considere procedentes;
+
+II. Realizará las diligencias que considere necesarias para la debida integración del expediente; y
+
+III. Solicitará a la Comisión que, por conducto del Consejero Presidente, se requieran las pruebas que obren en poder de una autoridad y que no le haya sido posible obtener al denunciante, en términos de lo indicado en el presente Reglamento.
 
 ### CAPÍTULO TERCERO. DE LAS MEDIDAS CAUTELARES
 
@@ -906,47 +1012,53 @@ En lo conducente se aplicarán las disposiciones señaladas en los artículos 28
 
 La investigación para el conocimiento cierto de los hechos se realizará de forma seria, congruente, eficaz, expedita, completa y exhaustiva, atendiendo los principios de Idoneidad, necesidad y proporcionalidad.
 
-La etapa de investigación se realizará por la Secretaría efectuando las acciones tendientes al esclarecimiento de los hechos denunciados, comunicando previamente a la Comisión las medidas a adoptar y observando las determinaciones que al respecto dicte la misma.
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+La etapa de investigación se realizará por el Secretario efectuando las acciones tendientes al esclarecimiento de los hechos denunciados.
 
 ###### ARTÍCULO 70.
 
-Una vez que la Secretaría tenga conocimiento de los hechos denunciados podrá realizar las medidas necesarias para garantizar la adecuada investigación de los hechos, previo conocimiento de la Comisión.
+(DEROGADO, SESIÓN 24 DE FEBRERO DE 2010)
+
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 71.
 
-La Secretaría se allegará de los elementos que estime pertinentes para realizar la investigación y análisis del asunto. Para tal efecto, solicitará mediante oficio a los Órganos del Instituto remitan la información requerida.
+El Secretario se allegará de los elementos que estime pertinentes para realizar la investigación y análisis del asunto. Para tal efecto, solicitará mediante oficio a los Órganos del Instituto remitan la información requerida.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 72.
 
-La Secretaría podrá girar oficio al Presidente del Consejo, para que solicite a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados.
+El Secretario podrá solicitar a la Comisión que por conducto del Consejero Presidente requiera a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados.
 
 Dichos requerimientos de información o de solicitud de diligencias, serán formulados hasta por dos ocasiones, apercibiéndose desde el primero de ellos que, en caso de no cumplimentarse dicho requerimiento se estará a lo establecido en el Título Quinto del presente Reglamento.
 
 Independientemente del inicio del procedimiento correspondiente en términos de los párrafos anteriores, en caso de no cumplimentarse los requerimientos se resolverá con los elementos que se cuenten en el expediente.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 73.
 
-El plazo para llevar a cabo la investigación no podrá exceder de diez días, contados a partir de la recepción de la contestación de la denuncia en la Secretaría.
+El plazo para llevar a cabo la investigación no podrá exceder de diez días, contados a partir de la recepción de la contestación de la denuncia por el Secretario.
 
 El plazo a que se hace referencia en el párrafo anterior podrá ser ampliado de manera excepcional por una sola vez, hasta por un periodo igual al antes señalado, mediante acuerdo debidamente motivado que emita la Comisión.
 
-La Secretaría emitirá un acuerdo donde se dé por concluida la etapa de investigación.
+El Secretario emitirá un acuerdo donde se dé por concluida la etapa de investigación.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 74.
 
-Cerrada la investigación, la Secretaría pondrá a disposición de las partes el expediente integrado con la finalidad de que en un plazo de veinticuatro horas presenten sus alegatos por escrito, pasado este plazo, con o sin alegatos se elaborará el dictamen que corresponda.
+Cerrada la investigación, el Secretario pondrá a disposición de las partes el expediente integrado con la finalidad de que en un plazo de veinticuatro horas presenten sus alegatos por escrito, pasado este plazo, con o sin alegatos se elaborará el dictamen que corresponda.
 
 ### CAPÍTULO QUINTO. DEL DICTAMEN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 75.
 
-La Secretaría procederá a elaborar el proyecto de dictamen correspondiente dentro de las veinticuatro horas siguientes al vencimiento del plazo para la presentación de alegatos, sometiéndolo a consideración de la Comisión inmediatamente.
+El Secretario procederá a elaborar el proyecto de dictamen correspondiente dentro de las veinticuatro horas siguientes al vencimiento del plazo para la presentación de alegatos, sometiéndolo a consideración de la Comisión inmediatamente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
 
@@ -956,7 +1068,9 @@ I. Aprobar el proyecto en los términos en que se le presente;
 
 II. Aprobarlo modificando el sentido del proyecto; y
 
-III. Retirar el proyecto e instruir a la Secretaría para la elaboración de un nuevo proyecto.
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+III. Retirar el proyecto e instruir al Secretario para la elaboración de un nuevo proyecto.
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
 
@@ -998,19 +1112,17 @@ En lo conducente serán aplicables las sanciones establecidas en los artículos 
 
 La denuncia relacionada con propaganda electoral en radio y televisión deberá ser presentada por los ciudadanos, los partidos políticos y/o coaliciones acreditados o registrados ante el Consejo.
 
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 81.
 
 Una vez recibida la denuncia, se observará lo siguiente:
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+I. El Consejo la turnará, por conducto del Consejero Presidente, al Secretario para el trámite correspondiente al día siguiente de la presentación de la misma.
 
-I. El Consejo la turnará, por conducto del Consejero Presidente, a la Secretaría para el trámite correspondiente al día siguiente de la presentación de la misma.
+II. Al día siguiente de recibida la denuncia por el Secretario ésta (sic) hará del conocimiento de los integrantes del Consejo la presentación de la denuncia. El Secretario realizará un análisis mediante el cual, vinculando los hechos con el estado que guarda el proceso en la Entidad y las condiciones que para su desarrollo haya dictado, exponga los motivos por los cuales considera que el Instituto Federal Electoral deba conocer del asunto en cuestión.
 
-II. Al día siguiente de recibida la denuncia por la Secretaría ésta hará del conocimiento de los integrantes del Consejo la presentación de la denuncia. La Secretaría realizará un análisis mediante el cual, vinculando los hechos con el estado que guarda el proceso en la Entidad y las condiciones que para su desarrollo haya dictado, exponga los motivos por los cuales considera que el Instituto Federal Electoral deba conocer del asunto en cuestión.
-
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
-
-III. El plazo para llevar a cabo el análisis por la Secretaría no podrá exceder de dos días.
+III. El plazo para llevar a cabo el análisis por el Secretario no podrá exceder de dos días.
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
 
@@ -1030,39 +1142,35 @@ El Consejo remitirá inmediatamente la denuncia al Instituto Federal Electoral p
 
 El Consejo General conocerá respecto de las infracciones que cometan los ciudadanos acreditados como observadores electorales, así como de las infracciones que cometan las agrupaciones a las que pertenezcan los observadores electorales sancionados.
 
-Las denuncias por las que se hagan del conocimiento del Instituto las infracciones que cometan los sujetos infractores antes indicados deberán de observar los requisitos indicados en el numeral 34 del presente Reglamento.
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+Las denuncias por las que se hagan del conocimiento del Instituto las infracciones que cometan los sujetos infractores antes indicados deberán de observar los requisitos indicados en el numeral 33 del presente Reglamento.
+
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 85.
 
 Una vez recibida la denuncia, se observará lo siguiente:
 
-I. El Consejo la turnará, por conducto del Consejero Presidente, a la Secretaría para el trámite correspondiente al día siguiente de la presentación de la misma.
+I. El Consejo la turnará, por conducto del Consejero Presidente, al Secretario para el trámite correspondiente al día siguiente de la presentación de la misma.
 
-II. Recibida la denuncia, la Secretaría procederá a su registro debiendo informar de su presentación a la Comisión el mismo día de su recepción. Asimismo, procederá a su análisis para acordar la admisión o plantear el desechamiento de la misma.
+II. Recibida la denuncia, el Secretario procederá a su registro debiendo informar de su presentación a la Comisión el mismo día de su recepción. Asimismo, procederá a su análisis para acordar la admisión o plantear el desechamiento de la misma.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2010)</small>
+Cuando el denunciante omita alguno de los requisitos señalados en el artículo inmediato anterior del presente Reglamento, el Secretario le requerirá la solventación de dichas omisiones con el apercibimiento de que si no cumple en el término de dos días contados a partir de la notificación del requerimiento respectivo, la denuncia se desechará de plano.
 
-Cuando el denunciante omita alguno de los requisitos señalados en el artículo inmediato anterior del presente Reglamento, la Secretaría le requerirá la solventación de dichas omisiones con el apercibimiento de que si no cumple en el término de dos días contados a partir de la notificación del requerimiento respectivo, la denuncia se desechará de plano.
+III. El Secretario contará con un plazo de dos días contados a partir del día en que reciba la denuncia para emitir el acuerdo de admisión o de desechamiento. En caso de que se hubiese prevenido al denunciante, dicho plazo empezará a correr a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
-
-III. La Secretaría contará con un plazo de dos días contados a partir del día en que reciba la denuncia para emitir el acuerdo de admisión o de desechamiento. En caso de que se hubiese prevenido al denunciante, dicho plazo empezará a correr a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
-
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
-
-IV. Una vez acordada la procedencia de la denuncia, la Secretaría dentro de los tres días siguientes correrá traslado al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
+IV. Una vez acordada la procedencia de la denuncia, el Secretario dentro de los tres días siguientes correrá traslado al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
 
 V. Las pruebas deberán ser ofrecidas al presentarse la denuncia, ninguna prueba aportada posteriormente será tomada en cuenta. No serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+VI. El plazo para llevar a cabo la integración del expediente no podrá exceder de diez días, contados a partir de la fecha en que el Secretario recibió la denuncia.
 
-VI. El plazo para llevar a cabo la integración del expediente no podrá exceder de diez días, contados a partir de la fecha en que la Secretaría recibió la denuncia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 86.
 
-La Secretaría procederá a elaborar el proyecto de dictamen correspondiente dentro de los tres días siguientes a que se integre el expediente, sometiéndolo a consideración de la Comisión al día siguiente.
+El Secretario procederá a elaborar el proyecto de dictamen correspondiente dentro de los tres días siguientes a que se integre el expediente, sometiéndolo a consideración de la Comisión al día siguiente.
 
 La Comisión deberá sesionar dentro de los 2 días siguientes, determinando:
 
@@ -1070,7 +1178,9 @@ I. Aprobar el proyecto en los términos en que se le presente;
 
 II. Aprobarlo modificando el sentido del proyecto; y
 
-III. Retirar el proyecto e instruir a la Secretaría para la elaboración de un nuevo proyecto.
+> <small>(REFORMADA, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+III. Retirar el proyecto e instruir al Secretario para la elaboración de un nuevo proyecto.
 
 ###### ARTÍCULO 87.
 
@@ -1104,33 +1214,29 @@ El Consejo General conocerá de las infracciones y violaciones que a las disposi
 
 El presente procedimiento se aplicará para conocer de las infracciones y violaciones que a las disposiciones del Código cometan los ciudadanos que hayan sido nombrados funcionarios electorales, independientemente de los procedimientos aplicables respecto a las impugnaciones que se presenten en contra de la designación de los mismos.
 
-Las denuncias por las que se hagan del conocimiento del Instituto las violaciones que cometan los ciudadanos que hayan sido nombrados funcionarios electorales deberán de observar los requisitos indicados en el numeral 34 del presente Reglamento.
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
+Las denuncias por las que se hagan del conocimiento del Instituto las violaciones que cometan los ciudadanos que hayan sido nombrados funcionarios electorales deberán de observar los requisitos indicados en el numeral 33 del presente Reglamento.
+
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
 
 ###### ARTÍCULO 91.
 
 Una vez recibida la denuncia, se observará lo siguiente:
 
-I. El Consejo la turnará, por conducto del Consejero Presidente, a la Secretaría para el trámite correspondiente al día siguiente de la presentación de la misma.
+I. El Consejo la turnará, por conducto del Consejero Presidente, al Secretario para el trámite correspondiente al día siguiente de la presentación de la misma.
 
-II. Recibida la denuncia, la Secretaría procederá a su registro debiendo informar de su presentación a la Comisión el mismo día de su recepción. Asimismo, procederá a su análisis para acordar la admisión o plantear el desechamiento de la misma.
+II. Recibida la denuncia, el Secretario procederá a su registro debiendo informar de su presentación a la Comisión el mismo día de su recepción. Asimismo, procederá a su análisis para acordar la admisión o plantear el desechamiento de la misma.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+III. Cuando el denunciante omita alguno de los requisitos señalados en el artículo inmediato anterior del presente Reglamento, el Secretario le requerirá la solventación de dichas omisiones con el apercibimiento de que si no cumple en el término de dos días contados a partir de la notificación del requerimiento respectivo, la denuncia se desechará de plano.
 
-III. Cuando el denunciante omita alguno de los requisitos señalados en el artículo inmediato anterior del presente Reglamento, la Secretaría le requerirá la solventación de dichas omisiones con el apercibimiento de que si no cumple en el término de dos días contados a partir de la notificación del requerimiento respectivo, la denuncia se desechará de plano.
+IV. El Secretario contará con un plazo de dos días contados a partir del día en que reciba la denuncia para emitir el acuerdo de admisión o de desechamiento. En caso de que se hubiese prevenido al denunciante, dicho plazo empezará a correr a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
-
-IV. La Secretaría contará con un plazo de dos días contados a partir del día en que reciba la denuncia para emitir el acuerdo de admisión o de desechamiento. En caso de que se hubiese prevenido al denunciante, dicho plazo empezará a correr a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
-
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
-
-V. Una vez acordada la procedencia de la denuncia, la Secretaría dentro de los tres días siguientes correrá traslado al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
+V. Una vez acordada la procedencia de la denuncia, el Secretario dentro de los tres días siguientes correrá traslado al denunciado en copia cotejada del escrito así como de las pruebas que en su caso haya aportado el denunciante, levantando la razón correspondiente a la notificación.
 
 VI. Las pruebas deberán ser ofrecidas al presentarse la denuncia, ninguna prueba aportada posteriormente será tomada en cuenta. No serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
-
-VII. El plazo para llevar a cabo la integración del expediente no podrá exceder de quince días, contados a partir de la fecha en que la Secretaría recibió la denuncia.
+VII. El plazo para llevar a cabo la integración del expediente no podrá exceder de quince días, contados a partir de la fecha en que el Secretario recibió la denuncia.
 
 ###### ARTÍCULO 92.
 
@@ -1162,15 +1268,19 @@ IX. Los precedentes resueltos por el Instituto con motivo de infracciones análo
 
 Con independencia de las faltas observadas con motivo del presente procedimiento, si se presumiera de la comisión de faltas en otras materias, tales como la penal, de responsabilidades administrativas, entre otras, el órgano dará vista o inicie la denuncia ante la instancia o autoridad competente. En caso contrario, se tendrá como asunto concluido y se ordenará su archivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 94.
 
-En caso de que las autoridades no proporcionen en tiempo y forma la información solicitada por este Instituto, el Consejo General formará el expediente relativo a través de la Secretaría y remitirá copia certificada del mismo al superior jerárquico de la autoridad, para que actúe en términos de la Ley aplicable.
+En caso de que las autoridades no proporcionen en tiempo y forma la información solicitada por este Instituto, el Consejo General formará el expediente relativo a través del Secretario y remitirá copia certificada del mismo al superior jerárquico de la autoridad, para que actúe en términos de la Ley aplicable.
 
 El superior jerárquico comunicará al Consejo General la resolución correspondiente.
 
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 95.
 
-Si el Consejo General tiene conocimiento de infracciones en que incurran los Notarios Públicos por el incumplimiento de las obligaciones que el presente Código les impone, integrará un expediente a través de la Secretaría que remitirá al Colegio de Notarios o autoridad competente, para que proceda en los términos de la legislación aplicable. La resolución que se haya tomado se hará del conocimiento del Consejo General.
+Si el Consejo General tiene conocimiento de infracciones en que incurran los Notarios Públicos por el incumplimiento de las obligaciones que el presente Código les impone, integrará un expediente a través del Secretario que remitirá al Colegio de Notarios o autoridad competente, para que proceda en los términos de la legislación aplicable. La resolución que se haya tomado se hará del conocimiento del Consejo General.
 
 ###### ARTÍCULO 96.
 
@@ -1182,19 +1292,19 @@ Asimismo, lo comunicará a la Secretaría de Relaciones Exteriores, en caso de q
 
 En caso de que el Consejo General tenga conocimiento de que los Ministros de culto religioso induzcan al electorado a votar en favor o en contra de un candidato o partido político o a que se abstenga de votar, lo comunicará a la Secretaría de Gobernación para los efectos previstos por la Ley relativa.
 
+> <small>(REFORMADO, SESIÓN 24 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 98.
 
-El Consejo General conocerá de las infracciones de las autoridades, Notarios Públicos, extranjeros y Ministros de culto religioso observando el siguiente procedimiento.
+El Consejo General conocerá de las infracciones de las autoridades, Notarios Públicos, extranjeros y Ministros de culto religioso observando el siguiente procedimiento:
 
-I. La Secretaría una vez que tenga conocimiento de la presunta infracción procederá a su registro debiendo informar de su presentación a la Comisión el mismo día de su recepción. Asimismo, procederá a su análisis para acordar la admisión o plantear el desechamiento de la misma.
+I. El Secretario una vez que tenga conocimiento de la presunta infracción procederá a su registro debiendo informar de su presentación a la Comisión el mismo día de su recepción. Asimismo, procederá a su análisis para acordar la admisión o plantear el desechamiento de la misma.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2010)</small>
+II. El Secretario realizará un análisis sobre la presunta infracción el cual hará del conocimiento de la Comisión dentro de los cinco días siguientes a que tenga conocimiento de la misma.
 
-II. La Secretaría realizará un análisis sobre la presunta infracción el cual hará del conocimiento de la Comisión dentro de los cinco días siguientes a que tenga conocimiento de la misma.
+III. La Comisión, en su caso, hará las observaciones conducentes al análisis realizado por el Secretario y lo hará del conocimiento del Consejo para su aprobación.
 
-III. La Comisión, en su caso, hará las observaciones conducentes al análisis realizado por la Secretaría y lo hará del conocimiento del Consejo para su aprobación.
-
-IV. El Consejo deberá valorar los elementos de la presunta infracción y si determina que se acredita la infracción ordenará a la Secretaría que integre el expediente correspondiente y se remita por conducto del Consejero Presidente a la instancia competente para conocer.
+IV. El Consejo deberá valorar los elementos de la presunta infracción y si determina que se acredita la infracción ordenará al Secretario que integre el expediente correspondiente y se remita por conducto del Consejero Presidente a la instancia competente para conocer.
 
 V. El Presidente del Consejo girará oficio a la Secretaría de Gobernación o a la Secretaría de Relaciones Exteriores, según corresponda, a efecto de que dichas dependencias le comuniquen las medidas adoptadas en aquellos casos de presuntas infracciones de las que se les hubiese informado, debiendo informar al Consejo.
 
@@ -1213,3 +1323,9 @@ Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 P.O. 18 DE ENERO DE 2010.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
+
+SESIÓN ESPECIAL: 24 DE FEBRERO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+Las reformas al presente Reglamento entrarán en vigor al día siguiente de su aprobación por el consejo general del Instituto electoral del Estado.
