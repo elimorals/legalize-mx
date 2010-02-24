@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2010-01-27"
+last_updated: "2010-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -359,7 +359,11 @@ XXXIX. Supervisar la Vigilancia del ejercicio profesional en el Estado;
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2009)</small>
 
-XL. Crear y sostener un sistema estatal de estímulos para estudiantes del Estado, destacados a nivel estatal, nacional e internacional, en cualesquiera de las ramas del quehacer humano, con base en la partida presupuestal que determine el Poder Legislativo del Estado.
+XL. Crear y sostener un sistema estatal de estímulos para estudiantes del Estado, destacados a nivel estatal, nacional e internacional, en cualesquiera de las ramas del quehacer humano, con base en la partida presupuestal que determine el Poder Legislativo del Estado;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+XLI. Promover la creación y dirigir el funcionamiento de un ente gubernamental en el Estado encargado de promover el fortalecimiento, preservación y desarrollo de las lenguas indígenas que se hablen en el territorio estatal, así como de la difusión del conocimiento y disfrute de la riqueza cultural de los grupos étnicos tarahumara, pima, tepehuano y guarojío, asentados en la Entidad, a efecto de facilitarles el acceso y permanencia a la educación en general y a la formación para la vida, el trabajo y la productividad.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -789,7 +793,7 @@ Tendrá las siguientes particularidades:
 
 I. En la definición de los propósitos y contenidos educativos, así como los procesos que se realicen para lograrlos, se consultará a los pueblos y comunidades indígenas promoviendo la participación real, conforme a la manera tradicional de diálogo para la toma de decisiones.
 
-II. Procurar la creación de un Centro Estatal de Lenguas y Cultura Indígenas, con el fin de preservar y promover los valores culturales, el conocimiento y desarrollo de las lenguas de los grupos étnicos tarahumara, pima, tepehuano y guarojío, asentados en la Entidad, facilitando el acceso, permanencia y logro a la educación en general y a la formación para la vida y el trabajo y la productividad.
+II. (DEROGADA, P.O. 24 DE FEBRERO DE 2010)
 
 III. La Autoridad Educativa Estatal, en coordinación con las instancias correspondientes de la Secretaría de Educación Pública, buscará alternativas para promover instituciones en los niveles de educación media superior y superior en las regiones indígenas, que permitan el acceso de las y los alumnos y profesionales a estos niveles, y que ofrezcan entre otras opciones, educación terminal relacionada con su desarrollo y cultura. Estas instituciones, en sus programas de estudios, velarán por la preservación de los valores culturales de los grupos indígenas y de sus regiones.
 
@@ -2496,3 +2500,7 @@ P.O. 27 DE ENERO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
