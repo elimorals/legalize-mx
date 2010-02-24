@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-tecnologico-superior-de-58049
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-07"
-last_updated: "2007-12-07"
+last_updated: "2010-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE ATLIXCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2010.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 7 de diciembre de 2007.
 
@@ -77,11 +77,15 @@ III.- La siguiente estructura administrativa:
 
 a) Una Dirección de Planeación y Administración;
 
-b) Una Dirección Académica;
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2010)</small>
 
-c) Un Abogado General; y
+b) Una Dirección Académica; y
 
-d) Una Subdirección de Vinculación y Extensión.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2010)</small>
+
+c) Un Abogado General;
+
+d) (DEROGADO, P.O. 24 DE FEBRERO DE 2010)
 
 Los servidores públicos del Instituto que así corresponda, sea cual fuere el cargo que ostenten, realizarán las funciones que les correspondan en términos del presente Reglamento y de los respectivos manuales de organización, de procedimientos y en su caso de servicios al público, así como las que les asignen o encomienden el Director General o el Superior Jerárquico del cual dependan, debiendo coordinar y supervisar directamente los trabajos del personal que forme parte del área de la cual sean responsables, de acuerdo con la normatividad aplicable.
 
@@ -261,41 +265,69 @@ VIII.- Integrar un sistema ágil, eficiente y económico para el registro de eva
 
 IX.- Supervisar y evaluar la aplicación de los planes y programas de estudio de las carreras que se impartan en el Instituto Tecnológico de conformidad con las normas y lineamientos establecidos;
 
-X.- Supervisar y evaluar el desarrollo de los programas y proyectos de investigación educativa, científica y tecnológica que se lleven a cabo en el Instituto Tecnológico de conformidad con las normas y lineamientos establecidos; y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2010)</small>
 
-XI.- Las que le delegue o encomiende el Director General y las demás que le confiera la normatividad aplicable.
+X.- Supervisar y evaluar el desarrollo de los programas y proyectos de investigación educativa, científica y tecnológica que se lleven a cabo en el Instituto Tecnológico, de conformidad con las normas y lineamientos establecidos;
+
+REFORMADA, P.O. 24 DE FEBRERO DE 2010)
+
+XI.- Promover la participación de empresarios, industriales y profesionales de los sectores social y productivo de la región, en las comisiones académicas que se establezcan para la elaboración y actualización de planes y programas de estudios, con el propósito de vincular el desarrollo de los sectores que representan, así como la innovación y modernización tecnológica;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+XII.- Proponer la participación del personal académico y de los alumnos del Instituto, en los programas y actividades de vinculación promovidos por la Dirección a su cargo;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+XIII.- Proponer al Director General, la celebración de convenios con el sector de bienes y servicios de la región, para apoyar los programas de vinculación y extensión a cargo del Instituto;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+XIV.- Programar, organizar y dirigir las actividades culturales, recreativas y deportivas que debe realizar el Instituto;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+XV.- Diseñar y desarrollar acciones de vinculación y extensión académica del Instituto con los sectores social, público y privado, para mejorar la calidad de las funciones académicas y de investigación institucionales;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+XVI.- Diseñar el programa de Vinculación y Extensión Académica del Instituto, sometiéndolo a consideración del Director General;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+XVII.- Proponer canales de vinculación con el sector productivo e instituciones que oferten estudios de postgrado y desarrollen investigación científica y tecnológica;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+XVIII.- Promover ante el sector empresarial, los mecanismos mediante los cuales se proporcionen asesorías permanentes de actualización en el desarrollo de tecnologías, profesores e investigadores y fortalecer su participación académica, así como fomentar el desarrollo del sector productivo y de servicios;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+XIX.- Elaborar el programa de capacitación, actualización, especialización y certificación profesional que le demanden egresados y profesionales de la región y someterlo a la consideración del Director General;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+XX.- Fomentar el intercambio académico con instituciones de educación superior prestigiadas y reconocidas, nacionales e internacionales, para impulsar la superación del personal académico del Instituto;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+XXI.- Tramitar estadías técnicas para docentes e investigadores, con el sector público, social y privado;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+XXII.- Coadyuvar en la gestión y control del trámite de registros de propiedad industrial, patentes y certificados de invención, para su transferencia al sector productivo, que correspondan al Instituto; y
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2010)</small>
+
+XXIlI.- Las que le delegue o encomiende el Director General y las demás que le confiera la normatividad aplicable.
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO VII. DE LA SUBDIRECCIÓN DE VINCULACIÓN Y EXTENSIÓN
 
 ###### Artículo 13.
 
-El titular de la Subdirección de Vinculación y Extensión, dependerá directamente del Director General y tendrá las siguientes atribuciones:
-
-I.- Promover la participación de empresarios, industriales y profesionales de los sectores social y productivo de la región, en las comisiones académicas que se establezcan para la elaboración y actualización de planes y programas de estudios, con el propósito de vincular el desarrollo de los sectores que representan, con el propósito de innovación y modernización tecnológica;
-
-II.- Promover la participación del personal académico y de los alumnos del Instituto, en los programas y actividades de vinculación promovidos por la Subdirección a su cargo;
-
-III.- Proponer al Director General, la celebración de convenios con el sector de bienes y servicios de la región, para apoyar los programas de vinculación y extensión a cargo del Instituto;
-
-IV.- Programar, organizar y dirigir las actividades culturales, recreativas y deportivas que debe realizar el Instituto;
-
-V.- Diseñar y desarrollar acciones de vinculación y extensión académica del Instituto con los sectores social, público y privado para mejorar la calidad de las funciones académicas y de investigación institucionales;
-
-VI.- Diseñar el programa de Vinculación y Extensión Académica del Instituto, sometiéndolo a consideración de la Dirección General;
-
-VII.- Proponer canales de vinculación con el sector productivo e instituciones que oferten estudios de postgrado y desarrollen investigación científica y tecnológica;
-
-VIII.- Establecer en el sector Empresarial, los mecanismos mediante los cuales se proporcionen asesorías permanentes de actualización en el desarrollo de tecnologías, profesores e investigadores y fortalecer su participación académica, así como fomentar el desarrollo del sector productivo y de servicios;
-
-IX.- Elaborar el programa de capacitación, actualización, especialización y certificación profesional que le demanden egresados y profesionales de la región y someterlo a la consideración de la Dirección General;
-
-X.- Fomentar el intercambio académico con instituciones de educación superior de investigación prestigiada y reconocidas, nacionales e internacionales, para impulsar la superación del personal académico del Instituto;
-
-XI.- Tramitar estadías técnicas para docentes e investigadores, con el sector público, social y privado;
-
-XII.- Coadyuvar en la gestión y control del trámite de registros de propiedad industrial, patentes y certificados de invención, para su transferencia al sector productivo, que correspondan al Instituto; y
-
-XIII.- Las que le delegue o encomiende el Director General y las demás que le confiera la normatividad aplicable.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2010)
 
 ## TÍTULO TERCERO
 
@@ -320,3 +352,11 @@ SEGUNDO.- Los decretos, acuerdos, circulares y demás disposiciones pronunciados
 TERCERO.- Se abroga al Reglamento Interior del Instituto Tecnológico Superior de Atlixco, aprobado el diecinueve de enero de dos mil cuatro, publicado en el Periódico Oficial del Estado el nueve de julio de dos mil cuatro; y sus respectivas reformas y adiciones a dicho instrumento publicadas en el Periódico Oficial del Estado el día veintiocho de abril de dos mil seis.
 
 Aprobado a los 16 días del mes de marzo de 2007, en la Trigésima Sesión Ordinaria del H. Órgano del Instituto Tecnológico Superior de Atlixco.- Presidente Suplente.- DOCTOR RODOLFO ALBICKER DÍAZ.- Rúbrica.- Vocal Suplente.- LICENCIADO RODOLFO FLORES ROJAS.- Rúbrica.- Vocal Suplente.- MAESTRO EN CIENCIAS ERASMO NAVA ESPIRITU.- Rúbrica.- Vocal.- LICENCIADO ALFONSO VICENTE DÍAZ.- Rúbrica.- Vocal Suplente.- PROFESORA CARMEN CLEOTILDE NEOCELO TLAMAYO.- Rúbrica.- Vocal Suplente.- CIUDADANO SERGIO PINEDA SOBERANES.- Rúbrica.- Director General.- MAESTRO EN CIENCIAS RAÚL GARCIA TLAPAYA.- Rúbrica.- Suplente de Comisario.- CONTADOR PÚBLICO ENRIQUE BUSTOS LÓPEZ.- Rúbrica.- Secretario de Actas y Acuerdos.- INGENIERO MIGUEL ÁNGEL GALINDO ESCOBAR.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE FEBRERO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los decretos, acuerdos, circulares y demás disposiciones pronunciados antes y durante le autorización de este Acuerdo, tendrán plena validez siempre y cuando no contravengan al mismo.
