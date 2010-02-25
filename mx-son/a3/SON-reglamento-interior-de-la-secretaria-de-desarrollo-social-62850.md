@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-desarrollo-social-62850
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-28"
-last_updated: "2008-08-28"
+last_updated: "2010-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL, PUBLICADO EN EL B.O. DE 25 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección VII del Boletín Oficial del Estado de Sonora, el jueves 28 de agosto del 2008.
 
@@ -482,3 +484,15 @@ EL SECRETARIO DE GOBIERNO
 ROBERTO RUIBAL ASTIAZARÁN
 
 > <small>N. DE E. VEASE ORGANIGRAMA EN LA SECCION VII DEL B.O. DE 28 DE AGOSTO DE 2008, PAGINA 27.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 25 DE FEBRERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social, publicado en el Boletín Oficial del Gobierno del Estado de Sonora, Número 17, Sección VII de fecha 28 de Agosto de 2008.
