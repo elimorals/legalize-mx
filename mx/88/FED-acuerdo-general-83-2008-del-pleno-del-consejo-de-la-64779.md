@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-83-2008-del-pleno-del-consejo-de-la-64779"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-01-05"
-last_updated: "2009-12-24"
+last_updated: "2010-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64779&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-03"
 
 ACUERDO GENERAL 83/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS DE OPOSICION LIBRES PARA LA DESIGNACION DE JUECES DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE FEBRERO DE 2010.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 5 de enero de 2009.
 
@@ -31,9 +31,13 @@ ACUERDO GENERAL 83/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REG
 
 CONSIDERANDO
 
-PRIMERO. Por decretos publicados en el Diario Oficial de la Federación de treinta y uno de diciembre de mil novecientos noventa y cuatro, veintidós de agosto de mil novecientos noventa y nueve, así como del once de junio de mil novecientos noventa y nueve, se reformaron, entre otros, los artículos 94, 99 y 100 de la Constitución Política de los Estados Unidos Mexicanos, modificando así la estructura y competencia del Poder Judicial de la Federación;
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
-SEGUNDO. El Consejo de la Judicatura Federal es el órgano con independencia técnica, de gestión y para emitir sus resoluciones, encargado de la administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, en los tres primeros rubros antes señalados, con facultades para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones, con fundamento en los artículos 94, segundo párrafo, 100, párrafos primero y octavo, de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación;
+PRIMERO. Por decretos publicados en el Diario Oficial de la Federación de treinta y uno de diciembre de mil novecientos noventa y cuatro, veintidós de agosto de mil novecientos noventa y seis, así como del once de junio de mil novecientos noventa y nueve, se reformaron, entre otros, los artículos 94, 99 y 100 de la Constitución Política de los Estados Unidos Mexicanos, modificando así la estructura y competencia del Poder Judicial de la Federación;
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+SEGUNDO. El Consejo de la Judicatura Federal es el órgano con independencia técnica, de gestión y para emitir sus resoluciones, encargado de la administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, con facultades para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones, con fundamento en los artículos 94, segundo párrafo, 100, párrafos primero y octavo, de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación;
 
 TERCERO. Derivado de la nueva estructura de los concursos internos de oposición para la designación de magistrados de Circuito y jueces de Distrito, establecida en los Acuerdos Generales 30/2008 y 57/2008, se hace necesario abrogar el Acuerdo General 44/2007 para unificar parámetros y procedimientos; por lo tanto, el Consejo de la Judicatura Federal para brindar mayor certeza a los aspirantes consideró oportuno reiterar, en lo conducente, el perfil del juzgador federal, así como las etapas que conforman los concursos internos, es decir: la primera, que consiste en la resolución de un cuestionario, únicamente tendrá como objeto seleccionar a los aspirantes que podrán pasar a la siguiente, esto es, hasta cinco personas por cada una de las vacantes y, en todo caso, serán quienes hayan obtenido las más altas puntuaciones, sin que ésta incida en la evaluación final, puesto que exclusivamente es una fase de “selección”, y; la segunda etapa o de oposición, consistiría en la solución de un caso práctico y en sustentar un examen oral y público, así como el desarrollo académico que han tenido los participantes;
 
@@ -111,23 +115,23 @@ IV. Profesionalismo: Capacidad técnica y formativa al elaborar el razonamiento 
 
 V. Excelencia: Aptitud de los juzgadores que aspiran a la perfección en el desempeño de las funciones que se le encomiendan; que comprende los atributos: humanismo, justicia, prudencia, responsabilidad, fortaleza, patriotismo, compromiso social, lealtad, orden, respeto, decoro, laboriosidad, perseverancia, humildad, sencillez, sobriedad y honestidad.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 4.
 
 No podrán participar en el concurso aquellas personas que, al día hábil anterior al inicio de la fecha del periodo de inscripción, se encuentren desempeñando alguna de las categorías señaladas en las fracciones III a IX del artículo 110 de la Ley.
 
-Quien se encuentre inscrito o participando en algún concurso de oposición a que se refiere el artículo 114 de la Ley, no podrá participar en otro hasta la culminación de aquél; tampoco podrán participar quienes tengan recurso de revisión administrativa en trámite, relacionado con el concurso antes mencionado.
+Quien se encuentre inscrito o participando en algún concurso de oposición a que se refiere el artículo 114 de la Ley, no podrá participar en otro hasta la culminación de aquél.
 
-El aspirante que se encuentre inscrito o participando en algún concurso de los señalados, si desea inscribirse a otro deberá, a más tardar el día de su inscripción, presentar ante el Instituto un escrito en el que desista expresamente de aquél.
+Tampoco podrán participar quienes tengan recurso de revisión administrativa en trámite, relacionado con el concurso antes mencionado, a menos que exhiba ante el Instituto el día de su inscripción, el acuse de recibo relativo al escrito de desistimiento presentado ante la Corte.
 
-Asimismo, quien tenga recurso de revisión administrativa y desee participar, deberá exhibir ante el Instituto el día de su inscripción, el acuse de recibo relativo al escrito de desistimiento presentado ante la Corte.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 5.
 
 El concurso de oposición libre podrá ser convocado para la designación de jueces de competencia mixta o especializada en razón de la materia. En la convocatoria correspondiente, se deberá señalar con claridad esa circunstancia.
 
-Tratándose de concurso en materia mixta, el aspirante, al momento de su inscripción, podrá elegir la materia de su especialidad: penal, civil, administrativa, laboral o mixta, con la finalidad de que tanto en el cuestionario como en el examen oral, el setenta por ciento de las preguntas o temas a desarrollar corresponda a la materia de su elección, y respecto del caso práctico, éste versará sobre la materia de un juicio de amparo indirecto, proceso penal federal o juicios civiles federales.
+Tratándose de concurso en materia mixta, el aspirante, al momento de su inscripción, podrá elegir la materia de su preferencia: penal, civil, administrativa o laboral, con la finalidad de que tanto en el cuestionario como en el examen oral, el cincuenta por ciento de las preguntas o temas a desarrollar corresponda a la materia de su elección, y respecto del caso práctico, éste versará sobre la materia de un juicio de amparo indirecto, proceso penal federal o juicios civiles federales. De no manifestar preferencia alguna, ese porcentaje se integrará equitativamente con las cuatro materias.
 
 ### CAPITULO SEGUNDO. Etapas del Concurso en lo General
 
@@ -137,29 +141,41 @@ En cumplimiento a las disposiciones de la Constitución y de la Ley, las etapas 
 
 I. Primera etapa (SELECCION DE ASPIRANTES): consistente en resolver por escrito un cuestionario, por medio del cual, se evaluarán los conocimientos jurídicos básicos indispensables para ocupar la plaza que se concursa.
 
-Del número total de aspirantes, podrán pasar a la siguiente etapa hasta un máximo de cinco personas por cada una de las vacantes sujetas a concurso, que hayan obtenido las más altas calificaciones aprobatorias.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
-En caso de que varios aspirantes alcancen el puntaje mínimo a que se refiere el párrafo inmediato anterior de este acuerdo, para pasar a la segunda etapa, la Comisión procederá en términos de lo que establece el artículo 21, párrafo tercero.
+Del número total de aspirantes, podrán pasar a la siguiente etapa cinco personas por cada una de las plazas o vacantes sujetas a concurso, que hayan obtenido las más altas calificaciones aprobatorias en los términos del artículo 114 de la Ley.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+En caso de que varios aspirantes alcancen el puntaje mínimo a que se refiere el párrafo inmediato anterior de este acuerdo, para pasar a la segunda etapa, la Comisión procederá en términos de lo que establece el artículo 21, párrafo tercero, de este acuerdo.
 
 II. Segunda etapa (OPOSICION): consistente en solucionar un caso práctico y realizar examen oral y público, mediante los cuales se evaluará en los aspirantes seleccionados, la capacidad de analizar y resolver problemas jurídicos como los que podrá enfrentar en el ejercicio del cargo, así como demostrar sus conocimientos prácticos de la ley y jurisprudencia.
 
 Los factores generales señalados en el párrafo segundo de la fracción III del artículo 114 de la Ley, relativos a los cursos que haya recibido en el Instituto, en la Corte o en el Centro de Capacitación, el grado académico, los cursos de actualización y especialización que haya acreditado el aspirante, serán tomados en cuenta para determinar la puntuación de cada uno de los participantes en el concurso.
 
-Los criterios para la evaluación final serán los siguientes: hasta 70 puntos la obtenida en el caso práctico, hasta 20 puntos la obtenida en el examen oral y hasta 10 puntos la diversa de los factores generales.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+Los criterios para la evaluación final serán los siguientes: hasta 70 puntos la obtenida en el caso práctico, hasta 20 puntos la obtenida en el examen oral y hasta 10 puntos la correspondiente a los factores generales.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 7.
 
-Durante el desarrollo de cada una de las etapas del concurso, los aspirantes deberán identificarse con alguno de los siguientes documentos vigentes y en original: credencial para votar con fotografía, credencial del Poder Judicial de la Federación, pasaporte o cédula profesional.
+Durante el desarrollo de cada una de las etapas del concurso, los aspirantes deberán identificarse con alguno de los siguientes documentos vigentes y en original: credencial para votar con fotografía, pasaporte o cédula profesional.
 
 ###### Artículo 8.
 
 Son atribuciones de la Comisión:
 
-I. Elaborar con apoyo del Instituto, una base de datos de cuando menos mil preguntas que conformará la guía de estudios y, en su caso, la aprobará;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+I. Elaborar con apoyo del Instituto, una base de datos de cuando menos mil preguntas con las que se integrará el cuestionario del concurso;
 
 II. Proponer al Pleno del Consejo la integración del Comité del concurso en términos del artículo 116 de la Ley, el que elaborará el cuestionario, seleccionará el caso práctico y los temas a desarrollar en el examen oral;
 
-III. Determinar para la celebración y desarrollo del concurso, el calendario en el que habrán de realizarse los exámenes correspondientes a cada etapa, que se someterá a consideración del Pleno del Consejo, aprobado aquél, la Comisión deberá hacerlo del conocimiento del Instituto y de los participantes;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+III. Determinar para la celebración y desarrollo del concurso, el calendario en el que habrán de realizarse los exámenes correspondientes a cada etapa, que se someterá a consideración del Pleno del Consejo; aprobado aquél, la Comisión deberá hacerlo del conocimiento del Instituto y de los participantes;
 
 IV. Elaborar la convocatoria respectiva, que someterá a consideración del Pleno del Consejo;
 
@@ -185,19 +201,25 @@ Toda convocatoria deberá contener, además de los requisitos señalados en la f
 
 I. La categoría sujeta a concurso;
 
-II. El número de las vacantes concursadas;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
-III. En su caso, la especialidad de las vacantes concursadas;
+II. El número de plazas o vacantes concursadas;
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+III. En su caso, la especialidad de las plazas o vacantes concursadas;
 
 IV. Los requisitos que deberán reunir los aspirantes conforme al artículo 108 de la Ley, así como los señalados en este acuerdo;
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
-V. La dirección electrónica donde pueda consultarse la guía de estudios para el cuestionario y el temario para el examen oral;
+V. La dirección electrónica donde puedan consultarse los temarios para los exámenes de opción múltiple y oral;
 
 VI. El lugar (ciudad, calle y número) y las fechas que comprenderán el inicio y el fin del plazo, para que el aspirante al concurso presente por sí o por conducto de terceros, los documentos que se le solicitan;
 
-VII. Los documentos que deberá acompañar el aspirante, a más tardar el día de la presentación de la solicitud de inscripción, son:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+VII. Los documentos que deberá acompañar el aspirante el día de la presentación de la solicitud de inscripción, son:
 
 a) Formato de inscripción en el que, en su caso, se señale la especialidad en la que se pretende concursar, así como la información curricular del aspirante. Este formato se pondrá a disposición de los interesados en la página web del Instituto. La solicitud deberá estar firmada autógrafamente y acompañada de los documentos que se señalan en los siguientes incisos;
 
@@ -205,13 +227,17 @@ a) Formato de inscripción en el que, en su caso, se señale la especialidad en 
 
 b) Copia certificada del acta de nacimiento, del título y de la cédula profesional legalmente expedidos. La certificación de esos documentos podrá ser realizada por fedatario público;
 
-c) Escrito en el que, bajo protesta de decir verdad, manifieste encontrarse en pleno goce de sus derechos, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, que cuenta únicamente con la nacionalidad mexicana por nacimiento, que al día de la presentación de su solicitud tiene treinta años cumplidos. En el mismo escrito, señalará los procedimientos de responsabilidad a los que se le haya emplazado y, en su caso, el resultado de ellos;
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+c) Escrito en el que, bajo protesta de decir verdad, manifieste encontrarse en pleno goce de sus derechos, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año, que cuenta únicamente con la nacionalidad mexicana por nacimiento, que al día de la presentación de su solicitud tiene treinta o más años cumplidos. En el mismo escrito, señalará los procedimientos de responsabilidad a los que se le haya emplazado y, en su caso, el resultado de ellos;
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009)</small>
 
 d) Escrito debidamente sellado, con el que demuestre haber solicitado a las instancias competentes de la institución en que se desempeñe o se hubiera desempeñado, la constancia de las quejas o denuncias administrativas formuladas en su contra durante los cinco años anteriores a la fecha de la publicación de la convocatoria en el Diario Oficial de la Federación y, en su caso, el resultado de esos procedimientos.
 
-Queda exceptuado de presentar la constancia de solicitud de las quejas o denuncias administrativas el participante que en los cinco años anteriores a la fecha de la convocatoria hubiere prestado sus servicios de manera preponderante en instituciones bancarias, educativas, que carezcan de órganos disciplinarios específicos, o entidades privadas;
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+Quedan exceptuados de presentar la constancia de solicitud de las quejas o denuncias administrativas, los participantes que en los cinco años anteriores a la fecha de la convocatoria hubieren prestado sus servicios de manera preponderante en instituciones bancarias, educativas, que carezcan de órganos disciplinarios específicos, o entidades privadas, y los que tengan el carácter de docente;
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009)</small>
 
@@ -221,19 +247,25 @@ e) Constancia laboral del interesado expedida por la Institución en que se dese
 
 f) En su caso, copia certificada de los documentos que acrediten los estudios realizados a que se refiere la facción IV del artículo 2 de este acuerdo. La certificación de estos documentos podrá ser realizada por fedatario público.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
-g) En su caso, el escrito que acredite el o los desistimientos a que alude el artículo 4 de este acuerdo.
+g) En su caso, el escrito que acredite el desistimiento a que alude el artículo 4 de este acuerdo.
 
-El participante que no acredite fehacientemente lo anterior durante el transcurso del concurso, quedará descalificado definitivamente.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+El aspirante que no acredite fehacientemente lo anterior, no será admitido al concurso de que se trate.
 
 > <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009)</small>
 
 No se admitirá la presentación de solicitudes o documentos enviados por empresa de mensajería privada.
 
-VIII. El calendario en el que habrán de realizarse los exámenes correspondientes a cada una de las etapas del concurso;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
-IX. El señalamiento de que corresponderá al Instituto verificar que las solicitudes contengan todos los datos necesarios, y que estén acompañadas de los documentos requeridos en los incisos a) al f) de la fracción VII de este artículo, sin los cuales, las solicitudes serán rechazadas. No es aplicable a los docentes lo señalado en el inciso d);
+VIII. El calendario conforme al cual habrán de realizarse los exámenes correspondientes a cada una de las etapas del concurso;
+
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+IX. El señalamiento de que corresponderá al Instituto verificar que las solicitudes contengan todos los datos necesarios, y que estén acompañadas de los documentos requeridos en los incisos a) al g) de la fracción VII de este artículo, sin los cuales, las solicitudes serán rechazadas;
 
 X. La mención de que la lista definitiva de las personas aceptadas será publicada una sola vez, para efectos de notificación en el Diario Oficial de la Federación y, para mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el diario de circulación nacional que hubiese servido de medio de publicación de la convocatoria, así como en la página web del Instituto;
 
@@ -241,7 +273,9 @@ XI. El señalamiento de que la presentación de la solicitud implica, necesariam
 
 XII. La inserción íntegra del artículo 50 de este acuerdo; y
 
-XIII. En la convocatoria se mencionará, que la lista de los aspirantes que resulten aprobados en la solución del cuestionario a que se refiere el Capítulo Cuarto de este acuerdo, será publicada con el fin de que se puedan recibir observaciones u objeciones en los términos del artículo 23 de este mismo ordenamiento.
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+XIII. La mención de que la lista de los aspirantes que resulten seleccionados en la solución del cuestionario a que se refiere el artículo 18 de este acuerdo, será publicada con el fin de que se puedan recibir observaciones u objeciones en los términos del artículo 23 del mismo acuerdo.
 
 ###### Artículo 12.
 
@@ -255,9 +289,13 @@ El expediente que se integre deberá estar sellado, rubricado, foliado, y por ni
 
 De las personas inscritas que cumplan con los requisitos, el Instituto, inmediatamente, remitirá los expedientes integrados a la Comisión.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 14.
 
-La Comisión turnará el expediente, a que hace referencia el artículo anterior, a la Secretaría Ejecutiva, y la instruirá para que lleve a cabo la valoración de los factores generales, en términos de lo que señalan los artículos 41 a 44 de este acuerdo. Los resultados de esta evaluación se entregarán al sustentante en la fecha y lugar que se señale para resolver el examen oral.
+La Comisión remitirá el expediente a que hace referencia el artículo anterior, a la Secretaría Ejecutiva, y la instruirá para que concentre los datos y elementos necesarios que integran los factores generales, a fin de que el Jurado lleve a cabo la valoración correspondiente, en términos de los artículos 41 y 42 de este acuerdo.
+
+La copia del concentrado de datos y elementos que integran los factores generales será entregada al aspirante en la fecha señalada para resolver el caso práctico. A partir de esa fecha contará con un plazo de cinco días hábiles para hacer alguna aclaración ante el presidente del Jurado, presentada por conducto de la Secretaría Ejecutiva; en el entendido de que, para que proceda alguna modificación, únicamente se tomarán en cuenta aquellas constancias que se encuentren agregadas al expediente integrado por el Instituto, a la fecha de inscripción. El resultado de la solicitud de aclaración se hará del conocimiento del interesado.
 
 ### CAPITULO CUARTO. Etapas del Concurso en lo particular
 
@@ -267,7 +305,9 @@ Primera Etapa: Cuestionario
 
 Para la elaboración del cuestionario, el Comité deberá vigilar que se sigan los lineamientos básicos consistentes en:
 
-I. Realizar una selección de planteamientos relacionados con los problemas jurídicos abordados en la legislación federal vigente o en las tesis de jurisprudencia de la Corte, funcionando en Pleno o Salas, conforme a la guía de estudios; y
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+I. Realizar una selección de planteamientos relacionados con los problemas jurídicos abordados en la legislación federal vigente o en las tesis de jurisprudencia de la Corte, funcionando en Pleno o Salas, conforme al temario; y
 
 II. Los reactivos o preguntas deberán elaborarse de tal forma, que la respuesta implique la aplicación de un criterio jurídico, y deberá prescindirse de cualquier planteamiento cuya solución se base, esencialmente, en la memorización de textos legales.
 
@@ -277,7 +317,9 @@ II. Los reactivos o preguntas deberán elaborarse de tal forma, que la respuesta
 
 El cuestionario deberá:
 
-I. Referirse a la legislación federal vigente o a criterios jurisprudenciales sustentados por la Corte, funcionando en Pleno o en Salas, conforme a la guía de estudios; y
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+I. Referirse a la legislación federal vigente o a criterios jurisprudenciales sustentados por la Corte, funcionando en Pleno o en Salas, conforme al temario; y
 
 II. Plantearse en el formato denominado de “opción múltiple”, de hasta tres respuestas posibles a cada reactivo, cuidando que los distractores no puedan considerarse como respuestas jurídicamente correctas.
 
@@ -287,9 +329,11 @@ Los aspirantes tendrán hasta cinco horas para contestarlo.
 
 El día y lugar determinados para resolver el cuestionario, los aspirantes deberán presentarse a la hora señalada, por lo que no podrá permitirse la participación de aquéllos que comparezcan después de esa hora. Unicamente por causa general de fuerza mayor, a juicio del Instituto, la hora de presentación de los aspirantes o del inicio del examen podrá ser modificada.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 18.
 
-En la fecha y lugar señalados para resolver el cuestionario, el Comité seleccionará, de manera aleatoria, las cincuenta preguntas que lo conformarán, observando lo que al respecto dispone el artículo 5 de este acuerdo, de lo cual se levantará acta circunstanciada.
+En la fecha y lugar señalados para resolver el cuestionario, el Comité seleccionará, de manera aleatoria, hasta doscientas preguntas que lo conformarán, observando lo que al respecto dispone el artículo 5 de este acuerdo, de lo cual se levantará acta circunstanciada.
 
 ###### Artículo 19.
 
@@ -307,7 +351,9 @@ La calificación se asignará dentro de una escala de 0 a 100 puntos.
 
 Con el resultado del cuestionario, el Instituto elaborará una lista que hará del conocimiento de la Comisión, la que, a su vez, someterá a consideración del Pleno del Consejo para su aprobación.
 
-Pasarán al concurso de oposición las personas que hayan obtenido las más altas calificaciones aprobatorias; hasta cinco, por cada una de las vacantes sujetas a concurso.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+Pasarán al concurso de oposición, cinco personas que hayan obtenido las más altas calificaciones aprobatorias por cada una de las plazas o vacantes sujetas a concurso, en los términos que establece el artículo 114 de la Ley.
 
 En caso de empate, la Comisión deberá acudir a la evaluación de los factores generales, con la finalidad de seleccionar al que obtenga mayor puntuación y, posteriormente, el Pleno del Consejo aprobará la lista de las personas que tendrán acceso a la siguiente etapa.
 
@@ -345,7 +391,9 @@ III. El Comité del concurso deberá:
 
 a) Realizar un análisis y revisión de los expedientes que le proporcione el Instituto, y que fueron previamente clasificados;
 
-b) Seleccionar cinco expedientes para el caso práctico, considerando la especialización de las vacantes concursadas cuando de ello se trate, de no ser así, deberá ajustarse a los lineamientos de la materia mixta; además, deberá constatar que aquéllos versen sobre temas obligatorios o vinculantes, relativos a criterios en los que deba aplicarse la jurisprudencia, que puedan resolverse de manera razonable, dentro del tiempo concedido al sustentante; y
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+b) Seleccionar cinco expedientes para el caso práctico, considerando la especialización de las plazas o vacantes concursadas cuando de ello se trate, de no ser así, deberá ajustarse a los lineamientos de la materia mixta; además, deberá constatar que aquéllos versen sobre temas obligatorios o vinculantes, relativos a criterios en los que deba aplicarse la jurisprudencia, que puedan resolverse de manera razonable, dentro del tiempo concedido al sustentante; y
 
 c) Los expedientes que no fueren seleccionados quedarán en resguardo del Instituto, quien deberá proporcionarlos al Comité cuando se lo soliciten.
 
@@ -389,11 +437,11 @@ El Instituto con base en los elementos que se mencionan en el artículo 31 de es
 
 El Instituto proporcionará a cada uno de los integrantes del Jurado: los proyectos, el formato y el dictamen que se hubiere aprobado; los documentos anteriores únicamente deberán contener el código de barras del participante.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 31.
 
-La puntuación del caso práctico se sustentará sobre tres rubros específicos: estructura de la sentencia, fundamentación y motivación, así como redacción de la misma de la misma (sic).
+La puntuación del caso práctico se sustentará sobre tres rubros específicos: estructura de la sentencia, fundamentación y motivación, así como redacción de la misma.
 
 La valoración detallada de los elementos a considerar por el Jurado es la siguiente:
 
@@ -405,7 +453,7 @@ II. Fundamentación y Motivación: 60 puntos.
 
 La calificación que se asignará en este rubro corresponde a la corrección jurídica de la solución propuesta, evaluándose globalmente que: se hayan identificado los problemas jurídicos; se aborden todos los problemas planteados (exhaustividad y congruencia externa); el sentido del fallo encuentre fundamento en el ordenamiento jurídico (que no se vulnere el texto expreso de la ley o de la jurisprudencia); la motivación se ajuste a las constancias y corresponda al desarrollo jurídico de la solución propuesta.
 
-VI (SIC). Redacción: 20 puntos.
+III. Redacción: 20 puntos.
 
 En este apartado se evaluará la inteligibilidad del proyecto; esto es, que se pueda comprender sin dificultad. En este aspecto se evaluará fundamentalmente que el aspirante redacte sus argumentos de manera clara y precisa.
 
@@ -431,19 +479,25 @@ La lista de calificaciones con el número confidencial se publicará en los estr
 
 Examen Oral
 
-(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009) (F. DE E., D.O.F. 21 DE ENERO DE 2010)
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 35.
 
-El examen oral se celebrará conforme lo dispone la segunda parte de la fracción III del artículo 114 de la Ley, ante un Jurado integrado ex profeso para tal efecto, en los términos del artículo 117 de ese mismo ordenamiento. El examen será público y consistirá en la exposición que haga el aspirante de un tema jurídico relacionado con el temario a que se refiere el artículo 11, fracción V, de este acuerdo, el cual se asignará por sorteo. Asimismo, responderá a las preguntas e interpelaciones que realicen los integrantes del Jurado con relación a la materia elegida por el sustentante y a la función de juez de Distrito.
+El examen oral se celebrará conforme lo dispone la segunda parte de la fracción III del artículo 114 de la Ley, ante un Jurado integrado ex profeso para tal efecto, en los términos del artículo 117 de ese mismo ordenamiento. El examen será público y consistirá en la exposición que haga el aspirante de un problema jurídico relacionado con el temario a que se refiere el artículo 11, fracción V, de este acuerdo, el cual se asignará aleatoriamente. Asimismo, responderá a las preguntas e interpelaciones que realicen los integrantes del Jurado con relación a la materia elegida por el sustentante y a la función de juez de Distrito.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009)</small>
 
 A los integrantes del Jurado les serán aplicables los impedimentos establecidos en el artículo 146 de la Ley, los cuales serán calificados por el Jurado, asentándolo en el acta correspondiente al examen. En este caso, el suplente entrará inmediatamente en funciones.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009)</small>
+
 Todo examen oral será videograbado para efectos de constancia.
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 36.
 
-El Comité para realizar el examen oral, con apoyo del Instituto, elaborará tarjetas que contengan temas jurídicos específicos relacionados con la guía de estudios o con la función de Juez. Estas tarjetas estarán numeradas progresivamente, de manera que cada una de ellas se refiera, en general, a esos temas y, además, pormenorizarán los subtemas a exponer.
+El Comité para realizar el examen oral, con apoyo del Instituto, elaborará tarjetas que contengan temas jurídicos específicos relacionados con el temario o con la función de Juez. Estas tarjetas estarán numeradas progresivamente, de manera que cada una de ellas se refiera, en general, a esos temas y, además, pormenorizarán los subtemas a exponer.
 
 ###### Artículo 37.
 
@@ -461,7 +515,9 @@ III. El sustentante deberá obtener, por insaculación, el número del tema que 
 
 IV. El aspirante, durante quince minutos como máximo, expondrá el tema y subtemas que le corresponda; y
 
-V. En la etapa de preguntas y respuestas, cada integrante del Jurado formulará al sustentante una pregunta, la que deberá estar relacionada con la guía de estudios o la función del cargo por el que concursa.
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+V. En la etapa de preguntas y respuestas, cada integrante del Jurado formulará al sustentante una pregunta, la que deberá estar relacionada con el temario o la función del cargo por el que concursa.
 
 Si el concurso hubiese sido convocado para cubrir plazas de Jueces especializados, el Jurado deberá centrarse en temas específicos relacionados con esa materia; de no ser así, se procederá en términos de lo que se establece en el artículo 5, segundo párrafo, de este acuerdo.
 
@@ -523,53 +579,37 @@ f) Cursos de actualización. 2 décimas
 
 La puntuación anterior será acumulativa y no podrá exceder de 10 puntos.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009)</small>
-
 ###### Artículo 43.
 
-Para los efectos señalados en el artículo 41, el Jurado será auxiliado por la Secretaría Ejecutiva, misma que deberá:
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)
 
-I. Elaborar el perfil del aspirante, tomando en cuenta la documentación que obre en el expediente formado por el Instituto de la Judicatura Federal al momento de la inscripción, pormenorizando sus antecedentes laborales y profesionales, asignando en términos de lo señalado en el diverso artículo 42, de este acuerdo, la puntuación que corresponda;
-
-II. Entregar al Jurado los resultados que se obtengan de la evaluación y los criterios correspondientes;
-
-III. (REFORMADA [N. DE E. DEROGADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009)
-
-IV. El expediente del aspirante se devolverá al Instituto.
-
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009)</small>
-
-Artículo 43 bis. Una vez que el Jurado cuente con la propuesta de evaluación de los aspirantes, determinará la calificación que a ellos corresponda.
-
-Este resultado será publicado en la página web del Instituto.
-
-Dicha calificación será evaluada para la declaración de vencedores.
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 61/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2009)</small>
+Artículo 43 bis. (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)
 
 ###### Artículo 44.
 
-El perfil elaborado por la Secretaría, le será entregado al aspirante en la fecha señalada para resolver el caso práctico.
+(DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)
 
-El perfil podrá ser consultado a partir de ese mismo día, en la página web del Instituto.
-
-A partir de la entrega del perfil y de su publicación, el sustentante contará con un plazo de cinco días hábiles para hacer alguna aclaración ante el presidente del Jurado, presentada por conducto de la Secretaría Ejecutiva; en el entendido de que, para que proceda alguna modificación, únicamente se tomarán en cuenta aquellas constancias que se encuentren agregadas al expediente integrado por el Instituto, a la fecha de inscripción.
-
-El resultado de la solicitud de aclaración se hará del conocimiento del interesado y del Jurado.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 45.
 
-La puntuación que se obtenga del caso práctico y examen oral, así como de los factores de evaluación general, será concentrada en el Instituto, el que conforme a lo dispuesto en el artículo 6, último párrafo, de este acuerdo, elaborará una lista en orden descendente de los participantes, la que se acompañará de los anexos a que se refieren los artículos 33, 40 y 43 de este ordenamiento, y que deberá ser enviada a la Comisión.
+La puntuación que se obtenga del caso práctico y examen oral, así como de los factores de evaluación general, será concentrada en el Instituto, el que conforme a lo dispuesto en el artículo 6, último párrafo, de este acuerdo, elaborará una lista en orden descendente de los participantes, la que se acompañará de los anexos a que se refieren los artículos 14, 33 y 40 de este ordenamiento, y que deberá ser enviada a la Comisión.
 
 ### CAPITULO SEXTO. Designación de los Jueces
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 46.
 
 Recibida en la Comisión la lista de los concursantes y la puntuación final que hubieren alcanzado, se enviará al Pleno del Consejo, para que en la sesión correspondiente, designe a los que ocuparán el cargo de Juez.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 11/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE MARZO DE 2009)</small>
+En el supuesto de que en la calificación final del concurso exista empate en la puntuación, el Pleno del Consejo de la Judicatura Federal para desempatar procederá de la forma siguiente:
 
-En el supuesto de que en la calificación final del concurso exista empate en la puntuación, el Pleno del Consejo de la Judicatura Federal procederá, primero, a comparar las evaluaciones que hayan obtenido en la etapa de oposición (caso práctico y examen oral), como segunda opción y en la circunstancia de que continuara el empate, acudirá a la puntuación final obtenida en los factores generales y, de persistir la hipótesis de igualdad, comparará cada uno de los factores a que se refiere el artículo 42 del acuerdo general de mérito.
+I. En primer lugar, tomará en cuenta la más alta calificación de las evaluaciones que hayan obtenido los aspirantes en el caso práctico de la etapa de oposición;
+
+II. De persistir el empate, en segundo lugar atenderá a la más alta calificación en el examen oral de la propia etapa; y,
+
+III. Si la situación de empate se mantiene, se atenderá a la mayor puntuación correspondiente a los factores a que se refiere el artículo 42 de este acuerdo.
 
 ###### Artículo 47.
 
@@ -583,9 +623,11 @@ El plazo a que hace referencia el artículo 124 de la Ley, se contará a partir 
 
 Publicada la lista definitiva, el Consejo organizará y citará a los recién designados para que participen en cursos informativos, los que serán impartidos por Consejeros, titulares de órganos jurisdiccionales, Secretarios Ejecutivos, el Visitador General, el Director General de Estadística y Planeación Judicial, el Director General de Recursos Humanos y los demás funcionarios que se considere pertinentes, con el fin de que aquéllos puedan formular sus dudas sobre aspectos del funcionamiento de un juzgado; se les proporcione la normatividad administrativa aplicable; y se les oriente sobre trámites o solicitudes que habrán de dirigir al Consejo.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
 ###### Artículo 49.
 
-A los designados vencedores como consecuencia del concurso, se les expedirá el nombramiento en cuanto el Consejo así lo determine conveniente, e iniciarán el ejercicio de sus funciones hasta en tanto les sea asignada su adscripción, previa toma de protesta del cargo.
+A los designados vencedores como consecuencia del concurso, se les expedirá el nombramiento cuando el Consejo lo determine conforme a las necesidades del servicio, e iniciarán el ejercicio de sus funciones hasta que les sea asignada su adscripción, previa toma de protesta del cargo.
 
 ### CAPITULO SEPTIMO. Normas Complementarias
 
@@ -593,7 +635,9 @@ A los designados vencedores como consecuencia del concurso, se les expedirá el 
 
 Son causas de descalificación del aspirante:
 
-I. No alcanzar la calificación mínima de la primera y segunda etapa;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 5/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE FEBRERO DE 2010)</small>
+
+I. No alcanzar la calificación suficiente para ser seleccionado en los términos del artículo 114 de la Ley;
 
 II. Infringir lo dispuesto por el artículo 10 de este acuerdo;
 
@@ -640,3 +684,11 @@ SEGUNDO. No será aplicable a los concursos cuya convocatoria se haya publicado 
 TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo de la Judicatura Federal, de la Corte y del Tribunal Electoral.
 
 CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 83/2008, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos de Oposición Libres para la Designación de Jueces de Distrito.
+
+D.O.F. 26 DE FEBRERO DE 2010.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo, de la Corte y del Tribunal Electoral.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 83/2008, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos de Oposición Libres para la Designación de Jueces de Distrito.
