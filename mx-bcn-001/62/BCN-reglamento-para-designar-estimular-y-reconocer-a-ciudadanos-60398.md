@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-designar-estimular-y-reconocer-a-ciudadanos-603
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2008-03-14"
+last_updated: "2010-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA DESIGNAR, ESTIMULAR Y RECONOCER A CIUDADANOS, HUESPEDES Y VISITANTES DISTINGUIDOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de marzo de 2008.
 
@@ -187,6 +187,10 @@ Se entregará un reconocimiento por cada área, de las señaladas en el artícul
 
 En caso de que la persona, merecedora a alguna de las preseas, hubiese fallecido, podrá entregarse post-mortem a través de su cónyuge o de sus hijos o bien de sus familiares más cercanos.
 
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
+
+ARTÍCULO 14 BIS.- Los ciudadanos distinguidos serán invitados e involucrados, en los eventos de carácter cívico, cultural, educativos, sociales e institucionales organizados por el Gobierno Municipal de Ensenada.
+
 ### CAPITULO SEGUNDO. DE LOS RECONOCIMIENTOS
 
 ###### ARTÍCULO 15.
@@ -320,3 +324,9 @@ PRESIDENTE MUNICIPAL DEL XIX AYUNTAMIENTO DE ENSENADA, B.C.
 MARIO ALBERTO GARCIA SALAIZA
 
 SECRETARIO FEDATARIO DEL XIX AYUNTAMIENTO DE ENSENADA, B.C.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE FEBRERO DE 2010.
+
+UNICO.- Siendo aprobado (sic) la Adición del Artículo 14 Bis, al Reglamento para Designar, Estimular y Reconocer a Ciudadanos, Huéspedes y Visitantes Distinguidos del Municipio de Ensenada, baja California, publíquese en el periódico oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia en todo el territorio del Municipio.
