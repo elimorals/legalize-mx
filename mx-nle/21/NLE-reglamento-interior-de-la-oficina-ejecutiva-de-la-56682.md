@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-oficina-ejecutiva-de-la-56682"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-10"
-last_updated: "2007-08-10"
+last_updated: "2010-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA OFICINA EJECUTIVA DE LA GUBERNATURA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL REGLAMENTO INTERIOR DE LA OFICINA EJECUTIVA DEL GOBERNADOR, PUBLICADO EN EL P.O. DE 26 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 10 de agosto de 2007.
 
@@ -324,3 +326,11 @@ EL C. JEFE DE LA OFICINA EJECUTIVA DE LA GUBERNATURA
 HÉCTOR H. GUTIÉRREZ DE LA GARZA
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE AL REGLAMENTO INTERIOR DE LA OFICINA EJECUTIVA DE LA GUBERNATURA, DE FECHA 3 DE JULIO DE 2007.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE FEBRERO DE 2010.
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Oficina Ejecutiva de la Gubernatura expedido por el Ejecutivo del Estado y publicado en el Periódico Oficial del Estado Número 108 de fecha 10 de agosto de 2007.
