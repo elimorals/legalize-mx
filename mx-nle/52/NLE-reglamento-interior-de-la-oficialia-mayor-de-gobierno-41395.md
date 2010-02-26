@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-oficialia-mayor-de-gobierno-41395"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-13"
-last_updated: "2004-10-13"
+last_updated: "2010-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41395&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR DE GOBIERNO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO, PUBLICADO EN EL P.O. DE 26 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de octubre de 2004.
 
@@ -534,3 +536,33 @@ EL C. OFICIAL MAYOR DE GOBIERNO
 MARIO GERARDO GUERRERO DÁVILA
 
 La presente hoja de firmas corresponde al Reglamento Interior de la Oficialía Mayor de Gobierno, rubricado el 11 de Octubre del 2004.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE FEBRERO DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Finanzas y Tesorería General del Estado, publicado en el Periódico Oficial del Estado el día 25 de mayo de 2005.
+
+TERCERO.- Se abroga el Reglamento Interior de la Oficialía Mayor de Gobierno, publicado en el Periódico Oficial del Estado en día 13 de octubre de 2004.
+
+CUARTO.- En el momento de entrar en vigor la Ley del Instituto Registral y Catastral del Estado, publicado en el Periódico Oficial de fecha 11 de septiembre de 2009, las facultades conferidas a la Dirección de Catastro, se regirán conforme a dicha Ley.
+
+QUINTO.- Se abroga el Acuerdo del Titular del Ejecutivo que crea la Comisión de Profesionalización de la Administración Pública del Estado publicado en el Periódico Oficial del Estado el día 11 de octubre de 2004.
+
+SEXTO.- Se abroga el Acuerdo Delegatorio en favor de los titulares de las Coordinaciones, Departamentos y Delegaciones de la Dirección de Recaudación de la Subsecretaría de Ingresos, para suscribir diversos documentos y ordenar notificaciones, publicado en el Periódico Oficial del Estado en fecha 10 de junio de 2005, reformado por publicación de 1 de agosto de 2007.
+
+SÉPTIMO.- Se abroga el Acuerdo por el que se señala la estructura y organización de la Dirección de Recaudación de la Subsecretaría de Ingresos, publicado en el Periódico Oficial del Estado en fecha 10 de junio de 2005.
+
+OCTAVO.- Se Abroga el Acuerdo del Titular del Poder Ejecutivo que crea el Comité de Informática y Comunicaciones Gubernamentales publicado en el Periódico Oficial del Estado el día 20 de noviembre de 2006.
+
+NOVENO.- Se abroga el Acuerdo Delegatorio, a favor de los titulares de la Subsecretaría de Egresos y de la Consejería Jurídica de la Secretaría de Finanzas y Tesorería General del Estado, así como de la Dirección Legal Hacendaria de la propia Consejería Jurídica en materia patrimonial, publicado en el Periódico Oficial del Estado en fecha 22 de diciembre de 2006.
+
+DÉCIMO.- Se abroga el Acuerdo del Titular del Poder Ejecutivo que crea la Unidad de Gobierno Digital, publicado en el Periódico Oficial del Estado el día 10 de septiembre de 2007.
+
+DÉCIMO PRIMERO.- A partir de su entrada en vigor, quedan derogadas todas las disposiciones que se opongan a lo dispuesto en este Reglamento.
+
+DÉCIMO SEGUNDO.- Se autoriza al Secretario de Finanzas y Tesorero General del Estado, para que en los términos de la Ley de Egresos vigente, realice las trasferencias presupuestales que sean necesarias de acuerdo a lo dispuesto en el presente Reglamento.
+
+DÉCIMO TERCERO.- Cuando en la Ley de Egresos se dé una nueva denominación a cualesquiera de las unidades administrativas que se mencionan en este Reglamento, mientras se prevén las reformas pertinentes al presente, dicha unidad ejercerá las atribuciones que le correspondan conforme a su naturaleza, en los términos contenidos en este cuerpo de atribuciones.
