@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2009-08-21"
+last_updated: "2010-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -53,9 +53,13 @@ En el Estado de Guanajuato todas las personas gozan de la protección que les ot
 
 Para los efectos de esta Constitución y de las leyes que de ella emanen, persona es todo ser humano desde su concepción hasta su muerte natural. El Estado le garantizará el pleno goce y ejercicio de todos sus derechos.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-Queda prohibido todo tipo de discriminación que atente contra la dignidad humana, o contra los derechos y libertades de la persona, con motivo de su origen étnico, nacionalidad, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra circunstancia, calidad o condición.
+Queda prohibido todo tipo de discriminación que atente contra la dignidad humana o contra los derechos y libertades de la persona, con motivo de su origen étnico, nacionalidad, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra circunstancia, calidad o condición.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
+
+La ley protegerá la organización y desarrollo de la familia, dentro de la cual tendrá preferencia la atención del menor y del anciano.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -63,209 +67,289 @@ Queda prohibido todo tipo de discriminación que atente contra la dignidad human
 
 El Poder Público únicamente puede lo que la Ley le concede y el gobernado todo lo que ésta no le prohibe.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-La Ley establecerá sistemas de impugnación y medios de defensa de los derechos de los particulares frente a los actos de las autoridades.
+La ley es igual para todos, de ella emanan las atribuciones de las autoridades y los derechos y obligaciones de todas las personas que se hallen en el Estado de Guanajuato, ya sean domiciliadas o transeúntes. A todos corresponde el disfrute de sus beneficios y el acatamiento de sus disposiciones.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-La Ley determinará la organización, funcionamiento, competencia y procedimientos de un organismo estatal de protección de los derechos humanos, dotado de plena autonomía, que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter estatal o municipal que violen estos derechos, formulará acuerdos o recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
+A ninguna ley ni disposición gubernativa se dará efecto retroactivo en perjuicio de persona alguna. Contra su observancia no puede alegarse ignorancia, desuso, costumbre o práctica en contrario.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-Este organismo no será competente para conocer de quejas que se originen con motivo de acuerdos o decisiones de instancias electorales, ni tratándose de resoluciones de naturaleza jurisdiccional; pero podrá conocer de asuntos de orden administrativo de los órganos de impartición de justicia que transgredan derechos humanos.
+La ley establecerá y regulará la mediación y la conciliación como medios alternativos para la resolución de las controversias entre las partes interesadas, respecto a derechos de los cuales tengan libre disposición.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-###### ARTICULO 3.
+La mediación y la conciliación se regirán bajo los principios de equidad, imparcialidad, rapidez, profesionalismo y confidencialidad. El Poder Judicial contará con un órgano de mediación y conciliación el cual actuará en forma gratuita a petición de parte interesada. Dicho órgano tendrá la organización, atribuciones y funcionamiento que prevea la ley.
 
-La Ley es igual para todos, de ella emanan las atribuciones de las autoridades y los derechos y obligaciones de todas las personas que se hallen en el Estado de Guanajuato, ya sean domiciliadas o transeúntes. A todos corresponde el disfrute de sus beneficios y el acatamiento de sus disposiciones.
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 1988)</small>
+La ley regulará la aplicación de mecanismos alternativos de solución de controversias en la materia penal, en los que se asegure la reparación del daño y se establezcan los casos en los que se requerirá supervisión judicial.
 
-Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando en consecuencia prohibidas las costas judiciales.
-
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
-
-La Ley establecerá y regulará la mediación y la conciliación como medios alternativos para la resolución de las controversias entre los particulares, respecto a derechos de los cuales tengan libre disposición.
-
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
-
-La mediación y la conciliación se regirán bajo los principios de equidad, imparcialidad, rapidez, profesionalismo y confidencialidad. El Poder Judicial contará con un órgano de mediación y conciliación el cual actuará en forma gratuita y a petición de parte interesada. Dicho órgano tendrá la organización, atribuciones y funcionamiento que prevea la Ley.
-
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
 El Poder Judicial es independiente de los demás poderes del Estado. El Ejecutivo garantizará la plena ejecución de las resoluciones judiciales.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-###### ARTICULO 4.
+Las sentencias pronunciadas por los tribunales del Estado, solamente afectarán a las personas que hubieren sido citadas y emplazadas legalmente en el juicio en que se dicten y a sus causahabientes.
 
-A ninguna Ley ni disposición gubernativa se dará efecto retroactivo en perjuicio de persona alguna. Contra su observancia no puede alegarse ignorancia, desuso, costumbre o práctica en contrario.
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+Las sentencias que pongan fin a los procedimientos orales, deberán ser explicadas en audiencia pública, previa citación a las partes.
 
-###### ARTICULO 5.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-Las sentencias pronunciadas por los Tribunales del Estado, solamente perjudicarán a las personas que hubieren sido citadas y emplazadas legalmente en el Juicio en que se dicten y a sus causahabientes.
-
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2006)</small>
-
-###### ARTICULO 6.
+###### ARTICULO 3.
 
 Todo individuo tiene derecho a recibir educación. El Estado y los municipios impartirán educación de conformidad con los planes y programas que al efecto determine el Ejecutivo Federal en los términos de la fracción III del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2006)</small>
-
 La educación preescolar, primaria y secundaria conforman la educación básica obligatoria.
 
-Ninguna persona requerirá de Título para la enseñanza en cualquier rama del saber, pero para prestar instrucción como servicio al público, deberá cumplir los requisitos que establezcan las Leyes.
+Ninguna persona requerirá de título para la enseñanza en cualquier rama del saber, pero para prestar instrucción como servicio al público, deberá cumplir los requisitos que establezcan las leyes.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+Las leyes respectivas, determinarán las profesiones que requerirán de título para su ejercicio, las condiciones para obtenerlo, las instituciones que han de expedirlo y registrarlo, así como las sanciones que deban imponerse a quienes ejerzan una profesión sin cumplir los requisitos legales.
 
-###### ARTICULO 7.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-Las Leyes respectivas, determinarán las profesiones que requerirán de Título para su ejercicio, las condiciones para obtenerlo, las Instituciones que han de expedirlo y registrarlo, así como las sanciones que deban imponerse a quienes ejerzan una profesión sin cumplir los requisitos legales.
+###### ARTICULO 4.
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 18 DE JUNIO DE 1999)</small>
+La ley establecerá sistemas de impugnación y medios de defensa de los derechos de los particulares frente a los actos de las autoridades.
 
-###### ARTICULO 8.
+La ley determinará la organización, funcionamiento, competencia y procedimientos de un organismo estatal de protección de los derechos humanos, dotado de plena autonomía, que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter estatal o municipal que violen estos derechos, formulará acuerdos o recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. Sólo ésta podrá librar orden de aprehensión, siempre y cuando preceda denuncia o querella de un hecho que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y existan datos suficientes que acrediten el cuerpo del delito y que hagan probable la responsabilidad del indiciado.
+Este organismo no será competente para conocer de quejas que se originen con motivo de acuerdos o decisiones de instancias electorales, ni tratándose de resoluciones de naturaleza jurisdiccional; pero podrá conocer de asuntos de orden administrativo de los órganos de impartición de justicia que transgredan derechos humanos.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-La investigación y persecución de los delitos incumbe al Ministerio Público, el cual contará entre sus auxiliares con un cuerpo pericial y una policía que estará bajo su autoridad y mando directo e inmediato.
+###### ARTICULO 5.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
+El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que señalen las leyes.
 
-En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud a la del Ministerio Público.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
-
-Sólo en casos urgentes, cuando se trate de delito grave así calificado por la Ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por cualquier circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
-
-En casos de urgencia o flagrancia, el Juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de Ley.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
-Las determinaciones del Ministerio Público sobre el no ejercicio y desistimiento de la acción penal serán impugnables, en los términos que establezca la Ley.
-
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
-
-Cuando así lo disponga la Ley, ofendido e inculpado tendrán derecho a recibir gratuitamente servicios de mediación y conciliación oficiales.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2003)</small>
-
-En todo proceso de orden penal, el inculpado y la víctima o el ofendido, tendrán las siguientes garantías:
-
-A. Del inculpado:
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
-
-I.- Inmediatamente que lo solicite, el Juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando no se trate de delitos en que, por su gravedad, la Ley expresamente prohiba conceder este beneficio. En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley o cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
-
-El monto y la forma de caución que se fije, deberán ser asequibles para el inculpado. En circunstancias que la Ley determine, la autoridad judicial podrá modificar el monto de la caución. Para resolver sobre la forma y el monto de la caución, el Juez deberá tomar en cuenta la naturaleza, modalidades y circunstancias del delito; las características del inculpado y la posibilidad de cumplimiento de las obligaciones procesales a su cargo; los daños y perjuicios causados al ofendido; así como la sanción pecuniaria que, en su caso, puede imponerse al inculpado.
-
-La Ley determinará los casos graves en los cuales el Juez podrá revocar la libertad provisional;
-
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 1994)</small>
-
-II.- No podrá ser obligado a declarar, queda prohibida y será sancionada por la Ley penal, toda incomunicación, intimidación o tortura, la confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o ante éstos sin la asistencia de su defensor carecerá de todo valor probatorio.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
-
-En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera, y los demás que señalen las leyes.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
-
-La entrega de indiciados, procesados o sentenciados, así como el aseguramiento y entrega de objetos, instrumentos y productos del delito, atendiendo a la autoridad de cualquier Entidad Federativa y el Distrito Federal, se realizarán con la intervención de la Procuraduría General de Justicia del Estado, en los términos de los convenios de colaboración que para tal efecto se celebren.
-
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2003)</small>
-
-III.- Las demás que otorga la Constitución de la República.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
-
-B.- De la víctima o el ofendido:
-
-I.- A recibir asesoría jurídica; ser informado desde su primera intervención en la averiguación previa, de los derechos que en su favor establecen la Constitución General de la República, esta Constitución, y demás leyes aplicables; y de la trascendencia y alcance legal de cada una de las actuaciones en las que intervenga y del desarrollo del procedimiento penal;
-
-II.- A contar con asistencia legal en la averiguación previa;
-
-III.- A someterse a la práctica de exámenes físicos o mentales sólo con su expreso consentimiento;
-
-IV.- Que se le reciban por el Ministerio Público todos los datos o elementos de prueba con los que cuente en el procedimiento penal, que pudieran conducir a acreditar los elementos del tipo penal, la probable responsabilidad del inculpado y la procedencia y monto de la reparación del daño, así como a que se desahoguen las diligencias correspondientes;
-
-V.- Cuando la víctima o el ofendido sean menores de edad, a no carearse con el inculpado, siempre que se trate de delitos sexuales o secuestro. En estos casos, se llevarán las declaraciones en las condiciones que establezca la Ley;
-
-VI.- Recibir, atención médica, psicológica y asistencia social de urgencia;
-
-VII.- Que se le repare el daño en los términos de Ley;
-
-La Ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño y para garantizar su pago, mediante medidas precautorias de aseguramiento de bienes del inculpado u obligado;
-
-VIII.- Contar con seguridad, por lo que la autoridad investigadora o jurisdiccional deberán tomar las medidas necesarias para la protección de la víctima y sus familiares; de su domicilio y posesiones cuando se pongan en peligro por el probable responsable o sus cómplices, mediante actos de intimidación o represalias;
-
-IX.- Gozar del anonimato sobre su victimización en los medios de comunicación, para proteger su intimidad; y
-
-X.- Las demás que señalen las leyes.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
-
-###### ARTICULO 9.
-
-Compete a la Autoridad Administrativa la aplicación de sanciones por las infracciones a los Reglamentos Gubernativos y de Policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente que no excederá en ningún caso de treinta y seis horas. Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
-
-Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
-
-La multa que se imponga al infractor menor de 18 años, que dependa económicamente de otra persona, estará sujeta a las limitaciones aplicables a la persona de quien el menor dependa.
-
-El arresto comenzará a computarse desde el momento mismo de la detención. Quién efectúe la detención está obligado a poner al infractor a disposición de la autoridad competente dentro del término de tres horas y ésta a fijar la sanción alternativa en un plazo no mayor de dos horas.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
-
-###### ARTICULO 10.
-
-Las medidas de corrección y las sanciones acordadas por las Autoridades Administrativas se impondrán siempre con audiencia de la persona a quien se apliquen, salvo rebeldía del infractor, debiendo en ambos casos comunicarse por escrito, precisando los motivos y fundamentos de hecho y de derecho de las mismas.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
-
-###### ARTICULO 11.
-
-El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que señalen las Leyes.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
-
-###### ARTICULO 12.
-
-La propiedad particular solamente puede ser objeto de expropiación por causa de utilidad pública y mediante indemnización, en la forma y términos que determinan las Leyes.
+La propiedad particular solamente puede ser objeto de expropiación por causa de utilidad pública y mediante indemnización, en la forma y términos que determinan las leyes.
 
 El Gobernador del Estado hará la declaratoria correspondiente en cada caso especial.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
+
+###### ARTICULO 6.
+
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el inculpado lo cometió o participó en su comisión.
+
+En los casos especiales previstos en la ley, la audiencia para orden de aprehensión, que por cualquier medio solicite el Ministerio Público, se celebrará dentro de las dos horas siguientes de recibida la solicitud, en la que se emitirá resolución.
+
+Cualquier persona puede detener al inculpado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención.
+
+En el caso de flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
+
+La autoridad judicial, a petición de los agentes del Ministerio Público que establezca la ley y tratándose de los delitos graves que ésta determine, podrá decretar el arraigo de una persona con las modalidades de lugar y tiempo que la ley señale, sin que pueda exceder del improrrogable plazo de cuarenta días, siempre que sea necesario para el éxito de la investigación, la protección de personas o bienes jurídicos, o cuando exista riesgo fundado de que el inculpado se sustraiga a la acción de la justicia.
+
+Ningún inculpado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial, salvo que se haya decretado su arraigo. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
+
+En toda orden de cateo, que sólo la autoridad judicial podrá expedir, a solicitud del Ministerio Público, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia.
+
+Las comunicaciones privadas son inviolables. La ley sancionará penalmente cualquier acto que atente contra la libertad y privacidad de las mismas, excepto cuando sean aportadas de forma voluntaria por alguno de los particulares que participen en ellas. El juez valorará el alcance de éstas, siempre y cuando contengan información relacionada con la comisión de un delito. En ningún caso se admitirán comunicaciones que violen el deber de confidencialidad que establezca la ley.
+
+El Procurador General de Justicia del Estado podrá solicitar a la autoridad judicial federal competente, la autorización para la intervención de cualquier comunicación privada. Para ello, deberá fundar y motivar las causas legales de la solicitud, expresando además, el tipo de intervención, los sujetos de la misma y su duración.
+
+No procederá la intervención de comunicaciones, cuando se trate de materias de carácter electoral, fiscal, mercantil, civil, laboral o administrativo, ni en el caso de las comunicaciones del detenido con su defensor.
+
+El Poder Judicial del Estado contará con jueces de control que resolverán, en forma inmediata, y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los inculpados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
+
+Las intervenciones autorizadas se ajustarán a los requisitos y límites previstos en las leyes. Los resultados de las intervenciones que no cumplan con éstos, carecerán de todo valor probatorio.
+
+La correspondencia estará libre de todo registro y su violación será penada por la ley.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
+
+###### ARTICULO 7.
+
+Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
+
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+
+El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
+
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
+
+La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose en estos casos, a las leyes respectivas y a las formalidades prescritas para los cateos.
+
+Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+Si el infractor de los reglamentos gubernativos y de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor al importe de su jornal o salario de un día.
+
+Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, no excederá del equivalente a un día de su ingreso.
+
+La multa que se imponga al infractor menor de dieciocho años que dependa económicamente de otra persona estará sujeta a las limitaciones aplicables a ésta.
+
+El arresto comenzará a computarse desde el momento mismo de la detención. Quien efectúe la detención está obligado a poner al infractor, inmediatamente y sin que pueda exceder en ningún caso del plazo de una hora, a disposición de la autoridad competente y ésta, a fijar la sanción alternativa dentro del plazo de una hora.
+
+Las medidas de corrección y las sanciones acordadas por las autoridades administrativas se impondrán siempre con audiencia de la persona a quien se apliquen, salvo rebeldía del infractor, debiendo en ambos casos comunicarse por escrito, precisando los medios y fundamentos de hecho y de derecho de las mismas.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
+
+###### ARTICULO 8.
+
+Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
+
+El sistema penitenciario se organizará sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+
+El Estado podrá celebrar convenios con la Federación, otros estados y el Distrito Federal para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
+
+La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
+
+Corresponde al juez de ejecución, instaurar los procedimientos que se requieran para resolver sobre el otorgamiento de los beneficios y del tratamiento, a los internos sentenciados que tengan derecho a ellos, y las demás atribuciones que le confiere la ley respectiva.
+
+El trámite de ejecución de sentencias se regirá por los principios de legalidad, equidad, celeridad y real reinserción social del sentenciado.
+
+Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad como forma de reinserción social. Esta disposición no aplicará en caso de internos que requieran medidas especiales de seguridad.
+
+Para la reclusión preventiva y la ejecución de sentencias de internos que requieran medidas especiales de seguridad se podrán destinar centros especiales. Las autoridades competentes podrán restringir las comunicaciones de los inculpados y sentenciados con terceros, salvo el acceso a su defensor, e imponer medidas de vigilancia especial a los internos que requieran medidas especiales de seguridad, en términos de la ley.
+
+La entrega de inculpados, procesados o sentenciados, así como el aseguramiento y entrega de objetos, instrumentos y productos del delito, atendiendo a la autoridad de la Federación, de cualquier entidad federativa o el Distrito Federal, se realizará con la intervención de la Procuraduría General de Justicia del Estado, en los términos de los convenios de colaboración que para tal efecto se celebren.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
+
+###### ARTICULO 9.
+
+Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el inculpado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el inculpado lo cometió o participó en su comisión.
+
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del inculpado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el inculpado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de homicidio doloso, violación, secuestro, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra del libre desarrollo de la personalidad y de la salud.
+
+El monto y la forma de la caución que se fije como medida cautelar a cargo del inculpado, serán asequibles. En circunstancias que la ley determine, la autoridad judicial podrá modificar el monto de la caución. Para resolver sobre la forma y el monto de la caución, el juez deberá tomar en cuenta la naturaleza, modalidades y circunstancias del delito; las características del inculpado y la posibilidad de cumplimiento de las obligaciones procesales a su cargo; los daños y perjuicios causados al ofendido; así como la sanción pecuniaria que, en su caso, pueda imponerse al inculpado.
+
+La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso.
+
+El plazo para dictar el auto de vinculación a proceso podrá duplicarse a petición del inculpado o de su defensor, en la forma que señale la ley. La prolongación de la detención en su perjuicio será sancionada por la ley penal. La autoridad responsable del establecimiento en el que se encuentre internado el inculpado, que dentro del plazo antes señalado no reciba copia autorizada del auto de vinculación a proceso y del que decrete la prisión preventiva, o de la solicitud de prórroga del plazo constitucional, deberá llamar la atención del juez sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al inculpado en libertad.
+
+Todo proceso se seguirá forzosamente por el hecho o hechos delictivos señalados en el auto de vinculación a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de investigación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+
+Si con posterioridad a la emisión del auto de vinculación a proceso, en los casos de los delitos de secuestro, contra la salud, trata de personas, tráfico de menores e incapaces, prostitución de menores, evasión de detenidos y robo de vehículos, el inculpado evade la acción de la justicia o es puesto a disposición de otro juez que lo reclame en el extranjero, se suspenderá el proceso junto con los plazos para la prescripción de la acción penal.
+
+Las leyes sancionarán a las autoridades que infieran, sin motivo legal, malos tratos o molestias en la aprehensión o en la reclusión o impongan cualquier gabela o contribución en las prisiones.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
+
+###### ARTICULO 10.
+
+El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación.
+
+De igual forma, le serán aplicables los principios generales previstos en el Apartado A del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+
+En todo proceso de orden penal el inculpado y la víctima o el ofendido tendrán las siguientes garantías:
+
+A. De los derechos de la víctima o del ofendido:
+
+I.- Recibir asesoría jurídica; a que se le proporcione asistencia legal en la etapa de investigación; a ser informado desde su primera intervención en ésta, de los derechos que en su favor establecen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y demás leyes aplicables; y a que, cuando lo solicite, se le explique la trascendencia y alcance legal de cada una de las actuaciones en las que intervenga y del desarrollo del procedimiento penal;
+
+II.- Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que prevea la ley.
+
+Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
+
+III.- Recibir, desde la comisión del delito, atención médica, psicológica y asistencia social de urgencia;
+
+IV.- Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño, sin menoscabo de que la víctima u ofendido lo pueda solicitar directamente, y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
+
+La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño y para garantizar su pago;
+
+V.- A no estar presente en las audiencias en las que concurra el inculpado y al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos sexuales o secuestro; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
+
+El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general de todos los sujetos que intervengan en el proceso. También deberá tomar las medidas necesarias para la protección de los familiares de la víctima, de su domicilio y posesiones cuando se pongan en peligro por el probable responsable o sus cómplices, mediante actos de intimidación o represalias. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
+
+VI.- Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos;
+
+VII.- Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño;
+
+VIII.- Someterse a la práctica de exámenes físicos o mentales sólo con su expreso consentimiento;
+
+IX.- Gozar del anonimato sobre su victimización en los medios de comunicación, para proteger su intimidad; y
+
+X. Los demás que otorga la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes.
+
+B. De los derechos de toda persona inculpada:
+
+I.- A que se presuma su inocencia mientras no se dicte sentencia firme o ejecutoriada emitida por el juez de la causa;
+
+II.- A declarar o a guardar silencio. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura, y la intervención de las comunicaciones del detenido con su defensor. La confesión rendida sin la asistencia del defensor carecerá de todo valor probatorio;
+
+III.- A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o el juez, los hechos que se le imputan y los derechos que le asisten.
+
+La ley establecerá beneficios a favor del inculpado, procesado o sentenciado, que preste ayuda eficaz para la investigación y persecución de los delitos que se señalen en la misma;
+
+IV.- Se le recibirán los testigos y demás pruebas pertinentes que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, en los términos que señale la ley;
+
+V.- Será juzgado en audiencia pública por un juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos, o cuando el tribunal estime que existen razones fundadas para justificarlo;
+
+VI.- Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
+
+El inculpado y su defensor tendrán acceso a los registros de la investigación cuando el primero se encuentre detenido y cuando pretenda recibírsele declaración o entrevistarlo. Asimismo, antes de su primera comparecencia ante juez podrán consultar dichos registros, con la oportunidad debida para preparar la defensa. A partir de este momento no podrán mantenerse en reserva las actuaciones de la investigación, salvo los casos excepcionales expresamente señalados en la ley cuando ello sea imprescindible para salvaguardar el éxito de la investigación y siempre que sean oportunamente revelados para no afectar el derecho de defensa;
+
+VII.- Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa;
+
+VIII.- Tendrá derecho a una defensa adecuada por abogado, al cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera;
+
+IX.- En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
+
+La prisión preventiva no podrá exceder del tiempo que como máximo de pena fije la ley al delito que motivare el proceso y en ningún caso será superior a dos años, salvo que su prolongación se deba al ejercicio del derecho de defensa del inculpado. Si cumplido este término no se ha pronunciado sentencia, el inculpado será puesto en libertad de inmediato mientras se sigue el proceso, sin que ello obste para imponer otras medidas cautelares.
+
+En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención; y
+
+X. Los demás que otorga la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes.
+
+En los términos y condiciones que señale la ley, el inculpado, la víctima o el ofendido contarán en el proceso con los servicios gratuitos de peritos a cargo del Estado, para proveer a su adecuada defensa, para coadyuvar con el Ministerio Público o para el ejercicio por particulares de la acción penal.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
+
+###### ARTICULO 11.
+
+La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél, en el ejercicio de esta función. El Ministerio Público contará entre sus auxiliares con un cuerpo pericial.
+
+El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial.
+
+El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
+
+La seguridad pública es una función a cargo del Estado y los municipios, que comprende la prevención de los delitos, la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por los Estados Unidos Mexicanos y esta Constitución.
+
+Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales del Estado y de los municipios deberán coordinarse entre sí y con las instituciones policiales federales para cumplir los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública, que estará sujeto a las bases mínimas establecidas en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
+
+###### ARTICULO 12.
+
+Toda pena deberá estar prevista en la ley y ser proporcional al delito que sancione y al bien jurídico afectado.
+
+Quedan prohibidas las penas de muerte, de mutilación, de infamia, la marca, los azotes, los palos, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales.
+
+No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos del artículo 129 de esta Constitución, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia.
+
+Para la extinción de dominio, la ley establecerá un procedimiento que se regirá por las siguientes reglas:
+
+I.- Será jurisdiccional y autónomo del de materia penal;
+
+II.- Procederá en los casos de los delitos contra la salud, secuestro, robo de vehículos y trata de personas, respecto de los bienes siguientes:
+
+a) Aquellos que sean instrumento, objeto o producto del delito, donde existan elementos suficientes para determinar que el hecho ilícito sucedió.
+
+b) Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior.
+
+c) Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
+
+d) Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales y el acusado por estos delitos se comporte como dueño.
+
+III.- Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 13.
 
-La Ley protegerá la organización y desarrollo de la familia, dentro de la cual tendrá preferencia la atención del menor y del anciano.
+En el Estado operará, en los términos previstos por esta Constitución y por la ley, un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconocen la Constitución Política de los Estados Unidos Mexicanos y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les son reconocidos.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+La procuración e impartición de justicia para adolescentes estará a cargo de instituciones, juzgados y, autoridades especializados. En los términos y condiciones que se contengan en la ley, podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente. Los medios alternativos para la resolución de las controversias deberán observarse en la aplicación de este sistema, siempre que resulte procedente.
 
-En el Estado de Guanajuato operará, en los términos previstos por esta Constitución y por la Ley, un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconocen la Constitución General de la República y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les son reconocidos.
+Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetos a rehabilitación y asistencia social, lo cual estará a cargo de la institución que señale la ley de la materia. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-La procuración e impartición de justicia para adolescentes estará a cargo de instituciones, tribunales y autoridades especializados. En los términos y condiciones que se contengan en la Ley, podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente. Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetos a rehabilitación y asistencia social, lo cual estará a cargo de la institución que señale l a Ley de la materia. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidad.
+En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -459,9 +543,13 @@ Las prerrogativas del ciudadano guanajuatense se suspenden:
 
 I.- Por incumplimiento de las obligaciones a que se refiere el artículo anterior. En este caso la suspensión durará un año y se impondrá independientemente de las demás sanciones a que se haga acreedor;
 
-II.- Por estar sujeto a un proceso criminal que merezca pena corporal, a partir de la fecha de formal prisión;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
-III.- Durante la extinción de una pena corporal;
+II.- Por estar sujeto a un proceso penal que merezca pena privativa de libertad, a partir de la fecha en que se ordene la prisión preventiva;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
+
+III.- Durante la extinción de una pena privativa de libertad;
 
 IV.- Por vagancia, malvivencia, ebriedad consuetudinaria o drogadicción declarada en términos de Ley;
 
@@ -677,11 +765,11 @@ El Poder Legislativo se deposita en una Asamblea denominada Congreso del Estado 
 
 El Poder Ejecutivo se ejercerá por una sola persona denominada Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 39.
 
-El ejercicio del Poder Judicial corresponde al Supremo Tribunal de Justicia del Estado, a los Jueces de Partido, a los Jueces Menores, a los Tribunales Especializados en la Impartición de Justicia para Adolescentes y al Consejo del Poder Judicial, con arreglo a las leyes respectivas.
+El ejercicio del Poder Judicial corresponde al Supremo Tribunal de Justicia del Estado, a los jueces y al Consejo del Poder Judicial, en los términos de las leyes respectivas.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -814,6 +902,10 @@ Los Diputados en ejercicio no podrán desempeñar ningún empleo, cargo o comisi
 #### SECCION SEGUNDA. DE LOS PERIODOS DE SESIONES
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO. 51.- El Congreso del Estado tendrá cada año tres Períodos Ordinarios de Sesiones, el primero iniciará el 25 de septiembre y concluirá a más tardar el 31 de diciembre, el segundo comenzará el 15 de febrero y concluirá a más tardar el 31 de mayo, y el tercero comenzará el 1º de agosto y concluirá a más tardar el 31 de agosto.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 51.
 
@@ -1235,7 +1327,7 @@ III.- Los integrantes de los Organismos Electorales en los términos que señale
 
 El Gobernador del Estado, cuyo origen sea el de elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de Interino, Provisional, Sustituto o Encargado del Despacho.
 
-No podrán ser electos para el período inmediato el Gobernador Sustituto, el Interino, el Provisional o el ciudadano que por Ministerio de Ley y bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años de (sic) período.
+No podrán ser electos para el período inmediato el Gobernador Sustituto, el Interino, el Provisional o el ciudadano que por Ministerio de Ley y bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años (sic) período.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1339,9 +1431,9 @@ XII.- Proponer por ternas al Congreso del Estado la aprobación de los Magistrad
 
 Proponer al Congreso del Estado, la terna para la designación de Consejero que integre el Consejo del Poder Judicial. Emitir dictamen sobre la propuesta de reelección o de no reelección de un Magistrado cuando le corresponda atendiendo al origen de la propuesta de designación del mismo fundado en el dictamen de evaluación que emita la Comisión de Evaluación.
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
-XIII.- Emitir órdenes a la policía preventiva municipal en aquellos casos que a su juicio sean de fuerza mayor o alteración grave del orden público;
+XIII.- Emitir órdenes a la policía preventiva municipal, en los términos que prevé la fracción XVI del artículo 117 de esta Constitución;
 
 XIV.- Mandar que se instruya y discipline la Guardia Nacional, conforme al Reglamento que expida el Congreso de la Unión y a las prevenciones que determine el Congreso del Estado;
 
@@ -1359,7 +1451,7 @@ XIX.- Rendir informes al Congreso del Estado sobre cualquier Ramo de la Administ
 
 XX.- Expedir, por sí o por acuerdo, los Títulos Profesionales que previene la Ley de la materia;
 
-XXI.- Crear, por Decreto Gubernativo, Organismos Descentralizados y constituir Empresas de Participación Estatal, Comisiones, Patronatos y Comités y asignarles las funciones que estime convenientes; y,
+XXI.- Crear, por Decreto Gubernativo, Organismos Descentralizados y constituir Empresas de Participación Estatal, Comisiones, Patronatos y Comités y asignarles las funciones que estime convenientes; y (sic),
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -1369,15 +1461,17 @@ a).- Con la Federación, para que el Estado asuma el ejercicio de sus funciones,
 
 b).- Con los Municipios, a fin de que éstos lleven a cabo la prestación de servicios o el ejercicio de funciones que le corresponden al Estado, o bien, para que éste efectúe el ejercicio de una función o la prestación de un servicio público, competencia del Municipio.
 
-Asimismo, asumirá el ejercicio de una función o la prestación de un servicio público municipal, de acuerdo al procedimiento y condiciones que señale la Ley, cuando a falta de convenio, el Congreso del Estado declare la imposibilidad del Municipio para ejercerla o prestarlo; y
+Asimismo, asumirá el ejercicio de una función o la prestación de un servicio público municipal, de acuerdo al procedimiento y condiciones que señale la Ley, cuando a falta de convenio, el Congreso del Estado declare la imposibilidad del Municipio para ejercerla o prestarlo; y (sic)
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
-XXIII.- Dar cumplimiento a las resoluciones derivadas de un proceso de plebiscito; y
+XXIII.- Dar cumplimiento a las resoluciones derivadas de un proceso de plebiscito;
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
-XXIV.- Las demás que le concedan esta Constitución y las leyes.
+XXIV.- Instrumentar, en los términos de ley, sistemas complementarios de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes; y
+
+XXV.- Las demás que le concedan esta Constitución y las leyes.
 
 > <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
 
@@ -1417,7 +1511,7 @@ Todas las leyes, decretos y reglamentos, para su cumplimiento, serán promulgado
 
 Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del Estado contará con las Dependencias señaladas en la Ley de la materia, la cual establecerá las atribuciones, forma de organización y facultades de sus Titulares.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2010)</small>
 
 #### SECCION TERCERA. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
@@ -1429,11 +1523,13 @@ Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del E
 
 ###### ARTICULO 81.
 
-La Ley organizará al Ministerio Público, cuyos servidores serán nombrados y removidos por el Poder Ejecutivo. El Ministerio Público estará presidido por un Procurador General de Justicia, nombrado por el titular del Poder Ejecutivo, con la ratificación del Congreso del Estado. En tanto el Congreso apruebe el nombramiento, el titular del Poder Ejecutivo podrá designar un encargado de despacho, en los términos que establezca la Ley.
+La ley organizará al Ministerio Público, cuyos servidores serán nombrados y removidos por el Poder Ejecutivo. El titular del Ministerio Público será el Procurador General de Justicia, nombrado por el titular del Poder Ejecutivo, con la ratificación del Congreso del Estado. En tanto el Congreso apruebe el nombramiento, el titular del Poder Ejecutivo podrá designar un encargado de despacho, en los términos que establezca la ley.
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
 
 El Ministerio Público contará con instituciones especializadas en la procuración de justicia para adolescentes, cuya estructura, atribuciones y funcionamiento se determinarán en la Ley.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 Para ser Procurador General de Justicia se deben reunir los requisitos que señala el artículo 86 de esta Constitución.
 
@@ -1639,9 +1735,9 @@ IV.- Hacer las propuestas de designación de los Magistrados de acuerdo con las 
 
 V.- Dictar las medidas que sean procedentes para que la impartición de justicia sea pronta, completa e imparcial en términos de Ley;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
-VI.- Designar a los jueces, a los titulares de los Tribunales Especializados en la Impartición de Justicia para Adolescentes; y al personal de estos órganos con las reglas de la carrera judicial, en los términos de Ley;
+VI.- Designar a los jueces y al personal de los juzgados, de acuerdo con las reglas de la carrera judicial, en los términos de la ley;
 
 VII.- Establecer la competencia por materia de las salas, previa opinión del Pleno del Supremo Tribunal de Justicia;
 
@@ -1671,7 +1767,7 @@ XVIII.- Ejercer el presupuesto de egresos y el fondo auxiliar para la impartici�
 
 XIX.- Informar trimestralmente al Pleno del Supremo Tribunal de Justicia sobre el ejercicio del presupuesto de egresos y del fondo auxiliar para la impartición de justicia;
 
-XX.- Inspeccionar, fiscalizar y vigilar el funcionamiento de los juzgados y la conducta de los jueces; y
+XX.- Inspeccionar, fiscalizar y vigilar el funcionamiento de los juzgados y la conducta de los jueces; y (sic)
 
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
@@ -1735,9 +1831,9 @@ Los Magistrados, los Consejeros, los Jueces, los Secretarios y los Actuarios del
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
-#### SECCION SEGUNDA. DE LOS JUECES DE PARTIDO Y DE LOS JUECES MENORES Y DE LOS TRIBUNALES ESPECIALIZADOS EN LA IMPARTICION DE JUSTICIA PARA ADOLESCENTES
+#### SECCION SEGUNDA. DE LOS JUECES QUE INTEGRAN EL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 93.
 
@@ -1755,13 +1851,13 @@ II.- La estructura, integración, competencia y funcionamiento del Pleno del Sup
 
 III.- La organización, competencia y funcionamiento de las Salas;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
-IV.- La organización, competencia y funcionamiento de los Juzgados de Partido, de os Juzgados Menores, de los Tribunales Especializados en la Impartición de Justicia para Adolescentes y de sus demás órganos;
+IV.- La organización, competencia y funcionamiento de sus diferentes juzgados y órganos;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
-V.- Las atribuciones del Presidente, de los Magistrados, de los Jueces, de los Tribunales Especializados en la Impartición de Justicia para Adolescentes, del Consejo del Poder Judicial y de los demás servidores públicos;
+V.- Las atribuciones del Presidente, de los Magistrados, de los jueces, del Consejo del Poder Judicial y de los demás servidores públicos;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1791,17 +1887,25 @@ XI.- La organización y funcionamiento de la Comisión Sustanciadora que tramite
 
 XII.- Las normas, criterios y procedimientos para la evaluación de jueces y Magistrados del Supremo Tribunal de Justicia, así como de los Consejeros del Poder Judicial y demás servidores judiciales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 94.
 
-Los Jueces de Partido, los Jueces Menores y los titulares de los Tribunales Especializados en la Impartición de Justicia para Adolescentes, serán nombrados por el Consejo del Poder Judicial atendiendo a las normas y procedimientos de la carrera judicial. Una vez nombrados, podrán ser removidos de su cargo:
+Los jueces a que se refiere el artículo 39 de esta Constitución, serán nombrados por el Consejo del Poder Judicial atendiendo a las normas y procedimientos de la carrera judicial. Una vez nombrados, sólo podrán ser removidos de su cargo:
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 I.- Por la comisión de faltas administrativas que lo ameriten conforme a la Ley;
 
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
 II.- Por determinación del Consejo del Poder Judicial, que se funde en la inobservancia de los principios que rigen a la función judicial consignados en esta Constitución y en la Ley;
 
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
 III.- Por enfermedad o incapacidad física que les impida ejercer el cargo; o
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 IV.- Por incurrir en responsabilidad en los términos de esta Constitución y de la Ley.
 
@@ -2149,7 +2253,7 @@ En tanto los Ayuntamientos no cumplan con lo dispuesto por el párrafo anterior,
 
 IX.- La ejecución de todas las disposiciones relativas a la higiene urbana y la salubridad pública;
 
-X.- La realización de las funciones electorales, federales y estatales, de conformidad a las Leyes de la materia; y,
+X.- La realización de las funciones electorales, federales y estatales, de conformidad a las Leyes de la materia; y (sic),
 
 > <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2167,15 +2271,19 @@ XIII.- Solicitar al Congreso del Estado, por acuerdo de las dos terceras partes 
 
 XIV.- Celebrar convenios de coordinación y asociación con otros Municipios para la mas eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. Para convenir con Municipios de otras entidades federativas, deberán contar con la previa autorización del Congreso del Estado.
 
-Asimismo, los Ayuntamientos podrán convenir con el Ejecutivo del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguno de los servicios públicos o funciones de su competencia; o bien para que el servicio o la función se preste coordinadamente entre el Estado y el Municipio.
+Asimismo, los Ayuntamientos podrán convenir con el Ejecutivo del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguno de los servicios públicos o funciones de su competencia; o bien para que el servicio o la función se preste coordinadamente entre el Estado y el Municipio;
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
-XV.- Dar cumplimiento a las resoluciones derivadas de los procesos de referéndum o plebiscito; y
+XV.- Dar cumplimiento a las resoluciones derivadas de los procesos de referéndum o plebiscito;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
-XVI.- Las demás facultades y obligaciones que le señale la ley.
+XVI.- La policía preventiva estará al mando del presidente municipal en los términos de las leyes de la materia. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público; y
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2010)</small>
+
+XVII.- Las demás facultades y obligaciones que les señale la ley.
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
@@ -3126,3 +3234,19 @@ Artículo Tercero.- El Congreso del Estado efectuará las adecuaciones respecto 
 P.O. 21 DE AGOSTO DE 2009.
 
 Artículo Único. El presente Decreto entrará en vigor el 1° primero de noviembre del 2009, dos mil nueve, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE FEBRERO DE 2010.
+
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, con las excepciones dispuestas en los artículos transitorios siguientes.
+
+Artículo Segundo. El sistema procesal penal acusatorio previsto en los artículos 2 párrafos sexto y último; 6 párrafos primero, segundo y undécimo; 7 párrafo tercero; 9; 10 y 11 párrafo tercero, de esta Constitución, entrará en vigor cuando lo establezcan las legislaciones secundarias correspondientes, sin que dicho término exceda al 19 de junio de 2016.
+
+El Poder Legislativo deberá emitir una declaratoria que se publicará en el Periódico Oficial del Gobierno del Estado, en la que señale expresamente que el sistema procesal penal acusatorio ha sido incorporado plenamente en el Estado Libre y Soberano de Guanajuato y en consecuencia, las garantías que consagran la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, regularán la forma y términos en que se substanciarán los procedimientos penales.
+
+Artículo Tercero. En tanto se determinan en la ley los agentes del Ministerio Público y las modalidades del arraigo a que se refiere el párrafo quinto del artículo 6 de esta Constitución, se podrá pedir arraigo domiciliario por el Procurador General de Justicia, los Subprocuradores y los agentes del Ministerio Público adscritos a la Subprocuraduría de Investigación Especializada, de la Procuraduría General de Justicia.
+
+Asimismo, en tanto se precisan en la ley los delitos graves por los que podrá ordenarse el arraigo, a partir de la entrada en vigor del presente Decreto, procederá por los delitos de secuestro, contra la salud, robo de vehículos, tráfico de menores e incapaces, prostitución de menores, trata de personas y evasión de detenidos.
+
+Artículo Cuarto. El nuevo sistema de reinserción previsto en el párrafo segundo del artículo 8 de esta Constitución, así como el régimen, de modificación y duración de penas, establecido en el párrafo cuarto del artículo 8 de esta Constitución, entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin que pueda exceder del diecinueve de junio de dos mil once.
+
+Artículo Quinto. El Congreso del Estado deberá aprobar y destinar los recursos necesarios para la reforma del sistema de justicia penal y de seguridad pública del Estado, a través de las erogaciones plurianuales que deberán señalarse en forma expresa en el presupuesto general de egresos del estado del ejercicio presupuestal inmediato siguiente a la entrada en vigor del presente decreto y en los subsecuentes presupuestos de egresos. Estas erogaciones plurianuales deberán aplicarse al diseño de las reformas legales, los cambios organizacionales, la construcción y operación de la infraestructura y la capacitación necesarias.
