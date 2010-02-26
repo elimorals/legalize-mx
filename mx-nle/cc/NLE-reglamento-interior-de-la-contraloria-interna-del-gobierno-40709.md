@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-contraloria-interna-del-gobierno-4070
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-20"
-last_updated: "2004-08-20"
+last_updated: "2010-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA CONTRALORIA INTERNA DEL GOBIERNO DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA CONTRALORIA Y TRANSPARENCIA GUBERNAMENTAL, PUBLICADO EN EL P.O. DE 26 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el viernes 20 de agosto de 2004.
 
@@ -504,3 +506,11 @@ RUBÉN E. MARTÍNEZ DONDÉ
 LA C. CONTRALORA INTERNA DEL GOBIERNO DEL ESTADO
 
 NORA ALICIA LIVAS VERA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE FEBRERO DE 2010.
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Contraloría Interna del Gobierno del Estado, publicado en el Periódico Oficial del Estado el 20 de agosto de 2004.
