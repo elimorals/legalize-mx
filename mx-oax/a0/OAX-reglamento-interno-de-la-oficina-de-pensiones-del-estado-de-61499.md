@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-oficina-de-pensiones-del-estado-de-614
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-24"
-last_updated: "2008-05-24"
+last_updated: "2010-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA OFICINA DE PENSIONES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 24 de mayo de 2008.
 
@@ -45,9 +45,11 @@ El presente ordenamiento tiene por objeto reglamentar la organización y funcion
 
 La Oficina de Pensiones del Estado de Oaxaca tiene a su cargo el despacho de los asuntos que expresamente se le encomiendan en la Ley y demas ordenamientos jurídicos aplicables en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 3.
 
-Los actos administrativos que realicen los Servidores Públicos de la Oficina de Pensiones del Estado de Oaxaca, sin perjuicio de lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, estarán sujetos en su esencia, especie y forma a lo que establece la Ley de Justicia Administrativa para el Estado de Oaxaca, la que se aplicara supletoriamente al presente ordenamiento.
+Los actos administrativos que realicen los Servidores Públicos de la Oficina de Pensiones del Estado de Oaxaca, sin perjuicio de lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, estarán sujetos en su esencia, especie y forma a lo que establece la Ley de Justicia Administrativa para el Estado de Oaxaca, la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca y la Ley de Protección de Datos Personales del Estado de Oaxaca, las que serán aplicables supletoriamente al presente ordenamiento.
 
 ###### ARTÍCULO 4.
 
@@ -259,21 +261,35 @@ IX. Las demás que le confiera el Director General y las que le señalen las dis
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES DEL DEPARTAMENTO JURIDICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE FEBRERO DE 2010)</small>
+
 ###### ARTÍCULO 14.
 
-El Departamento Jurídico dependerá directamente del Director General y a su cargo estará un Jefe de Departamento quien tendrá las siguientes atribuciones:
+El Departamento Jurídico dependerá directamente del Director General y estará a cargo de un Jefe de Departamento quien tendrá las siguientes facultades:
 
-I. Representar legalmente al titular de la Oficina de Pensiones, en los procedimientos contenciosos o cualquier otro asunto de carácter legal en que tenga interés o injerencia la Oficina de Pensiones;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2010)</small>
 
-II. Proporcionar asesoría jurídica a todas las áreas administrativas de la Oficina de Pensiones;
+I. Representar legalmente al Director General ante las autoridades administrativas, judiciales y del trabajo en los asuntos en que sea parte la Oficina de Pensiones;
 
-III. Elaborar los proyectos de dictamen de las solicitudes de pensiones y pagos de seguro de vida que serán turnados al Director General para su presentación ante el Consejo Directivo;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2010)</small>
 
-IV. Representar como apoderado legal al Director General de la Oficina de Pensiones usado de facultades generales y aun de aquellos que se requiera clausula especial;
+II. Atender las consultas jurídicas formuladas por las diferentes áreas administrativas de la Oficina de Pensiones y proporcionar la asesoría jurídica que corresponda;
 
-V. Presentar demandas, denuncias y querellas ante cualquier autoridad y tribunales ya sean del fuero común o federal, así como otorgar el perdón correspondiente cuando proceda;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2010)</small>
 
-VI. Elaborar y revisar los convenios, contratos y demás documentos de carácter jurídico en los que tenga intervención de la Oficina de Pensiones;
+III. Realizar los estudios jurídicos y emitir las opiniones y dictámenes derivados de las consultas de carácter jurídico planteados por el Director General o por los titulares de todas las áreas administrativas:
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2010)</small>
+
+IV. Vigilar e intervenir en la secuela de los procesos en que tenga interés o sea parte la Oficina de Pensiones, llevando el control de los mismos para que se cumplan las normas, términos y plazos procesados. Por tanto queda facultado para ejercitar acciones, oponer excepciones e interponer los recursos que procedan ante cualquier autoridad judicial, administrativa o del trabajo. Así como rendir los informes previos y justificados en materia de amparo;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2010)</small>
+
+V. Elaborar los proyectos de dictamen de las solicitudes de pensiones que posteriormente serán turnados al Director General para su presentación ante el Consejo Directivo;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2010)</small>
+
+VI. Elaborar y firmar convenios, contratos y documentos de carácter jurídico y administrativo en que tenga injerencia la Oficina de Pensiones, en los términos del poder que le otorgue el Director General;
 
 VII. Realizar las acciones necesarias para efectuar el cobro de los préstamos quirografarios e hipotecarios vencidos;
 
@@ -283,7 +299,9 @@ IX. Fungir como titular de la Unidad de Enlace para la aplicación de la Ley de 
 
 X. Realizar las notificaciones y ordenar al personal a su cargo la ejecución de estas de a cuerdo al procedimiento establecido por la Ley de Justicia Administración para el Estado de Oaxaca;
 
-XI. Realizar los proyectos de contestación o informes ante las autoridades judiciales o administrativas; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2010)</small>
+
+XI. Certificar previo cotejo con su original, los documentos que obran en los archivos de la Oficina de Pensiones; y
 
 XII. Las demás que le confiera el Director General y las que le señalen las disposiciones legales y reglamentarias vigentes.
 
@@ -376,3 +394,11 @@ CONTADOR PUBLICO
 CARLOS MELGOZA MARTIN DEL CAMPO
 
 DIRECTOR GENERAL DE LA OFICINA DE PENSIONES DEL ESTADO DE OAXACA Y SECRETARIO DE ACUERDOS Y ACTAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE FEBRERO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas al Reglamento Interno de la Oficina de Pensiones del Estado de Oaxaca, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
