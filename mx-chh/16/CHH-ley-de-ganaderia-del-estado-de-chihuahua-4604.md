@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ganaderia-del-estado-de-chihuahua-4604"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-16"
-last_updated: "2004-02-18"
+last_updated: "2010-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DE GANADERIA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LA LEY DE GANADERIA PARA EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 27 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 16 de agosto de 1995.
 
@@ -844,3 +846,17 @@ EL presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las infracciones cometidas con anterioridad a la vigencia de la presente reforma, se sujetarán a clasificación por conducto de la autoridad señalada para ello, siempre y cuando la sanción que se establezca resulte benéfica para el infractor; lo anterior previa solicitud de la parte interesada.
+
+P.O. 27 DE FEBRERO DE 2010.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todas las obligaciones cuyo cumplimiento implique la aplicación del arete y la tarjeta SINIIGA como condición para vender o movilizar ganado, iniciarán su vigencia a partir del primer día del mes de enero del año 2011. El ganado que haya nacido antes del inicio de la vigencia, deberá quedar identificado con el arete SINIIGA y su correspondiente tarjeta, dentro de los siguientes diez meses a partir de dicha vigencia, o antes si los animales se movilizan con anticipación a ese plazo.
+
+TERCERO.- En un plazo de noventa días contados a partir de la entrada en vigor de esta Ley, la Secretaría implementará un programa especial para efecto de dar a conocer las finalidades y beneficios del Sistema Nacional de Identificación Individual de Ganado y promover su aplicación voluntaria por los ganaderos del Estado.
+
+CUARTO.- El Ejecutivo Estatal expedirá el Reglamento de la presente Ley, dentro de los siguientes dos meses posteriores a la publicación de la misma.
+
+QUINTO.- Se abroga la Ley de Ganadería para el Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 65, de fecha 16 de agosto de 1995.
+
+SEXTO.- Se abroga la Ley de Protección y Fomento Apícola, publicada en el Periódico Oficial del Estado No. 65, de fecha 16 de agosto de 1995.
