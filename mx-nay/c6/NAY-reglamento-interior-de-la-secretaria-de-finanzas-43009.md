@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-finanzas-43009"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-29"
-last_updated: "2005-05-04"
+last_updated: "2010-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA, PUBLICADO EN EL P.O. DE 27 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sexta Sección en el Periódico Oficial del Estado de Nayarit, el sábado 29 de diciembre de 2001.
 
@@ -950,3 +952,17 @@ Aquellas disposiciones que hagan mención a la Dirección de Recepción Control 
 ###### ARTICULO TERCERO.
 
 Los asuntos pendientes de resolución por alguna de las áreas que desaparecen o se fusionan, serán atendidas por las áreas o dependencias a quienes correspondan por razón de competencia.
+
+P.O. 27 DE FEBRERO DE 2010.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el reglamento Interior de la Secretaría de Finanzas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el día 29 de diciembre de 2001 así como sus reformas posteriores.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan o contravengan al presente reglamento.
+
+CUARTO.- En tanto se expidan las disposiciones normativas a que se refiere este reglamento, el titular de la Secretaría queda facultado para resolver las cuestiones inherentes a dichas disposiciones.
+
+QUINTO.- Aquellos asuntos que al entrar en vigor el presente reglamento se encuentren en trámite a cargo de alguna de las Unidades Administrativas que se suprimen, modifican su denominación o cambian de adscripción dentro de la propia Secretaría, serán turnados para su conocimiento y resolución a la Unidad Administrativa que sea competente, conforme a las disposiciones de este ordenamiento.
+
+SEXTO.- Cuando en este reglamento se dé una denominación nueva o distinta a alguna Unidad Administrativa cuyas funciones estén establecidas en otros ordenamientos legales vigentes o por ley que se deroga u otras leyes especiales, dichas atribuciones se entenderán concedidas a la Unidad Administrativa que determine este reglamento.
