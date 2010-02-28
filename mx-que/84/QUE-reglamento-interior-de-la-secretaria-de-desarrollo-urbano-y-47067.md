@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-470
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-25"
-last_updated: "2005-11-25"
+last_updated: "2010-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS, PUBLICADO EN EL P.O. DE 28 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 25 de noviembre de 2005.
 
@@ -396,3 +398,13 @@ Arq. José Luis Covarrubias Herrera
 Secretario de Desarrollo Urbano y Obras Públicas
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE FEBRERO DE 2010.
+
+Artículo primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo segundo.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Urbano y Obras Públicas, publicado en el periódico oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" número 63, de fecha 25 de noviembre de 2005.
+
+Artículo tercero.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento Interior.
