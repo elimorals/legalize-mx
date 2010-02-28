@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-del-tribunal-para-menores-infractores-68328
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-12"
-last_updated: "2009-03-12"
+last_updated: "2010-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68328&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL PARA MENORES INFRACTORES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL TRIBUNAL PARA MENORES INFRACTORES DEL PODER JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 28 DE FEBRERO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2009.
 
@@ -747,7 +749,7 @@ Corresponde al Presidente del Tribunal conjuntamente con el Director Administrat
 
 Fuera de las actividades realizadas para el apoyo del presupuesto de egresos del Tribunal, solo podrán aplicarse los recursos del Fondo Auxiliar para:
 
-I. Sufragar gastos necesarios para la participación del Presidente, Jueces, Secretarios y demás personal jurídico y administrativo, en cursos, seminarios, congresos o talleres tendientes a la actualización y capacitación laboral y profesional de los mismos, siempre y cuando estos tengan por objeto la superación y el mejoramiento de la administración de justicia minoril;
+I. Sufragar gastos necesarios para la participación del Presidente, Jueces, Secretarios y demás personal jurídico y administrativo, en cursos, seminarios, congresos o talleres tendientes ala actualización y capacitación laboral y profesional de los mismos, siempre y cuando estos tengan por objeto la superación y el mejoramiento de la administración de justicia minoril;
 
 II. Sufragar estímulos laborales y recompensas a servidores públicos y empleados del Tribunal, por única vez, durante un ejercicio fiscal previa, valoración de su en el servicio, disciplina y cumplimiento de responsabilidades y lineamientos;
 
@@ -757,7 +759,7 @@ IV. Cubrir erogaciones extraordinarias distintas a las fracciones anteriores, y 
 
 En cualquiera de los supuestos anteriores, el Presidente del Tribunal en forma mancomunada con el Director Administrativo, velarán porque las erogaciones realizadas del Fondo Auxiliar queden formalmente justificadas para su asiento contable y respaldo documental y soportadas con los documentos que acrediten y justifiquen su erogación.
 
-### CAPÍTULO DÉCIMO PRIMERO. DEL INGRESO Y PROMOCIÓN DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO DÉCIMO PRIMERO. DEL INGRESO YPROMOCIÓN DE LOS SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 61.
 
@@ -1174,3 +1176,23 @@ Presidenta del H. Tribunal para Menores Infractores del Estado de Durango.
 LIC. NORA MARTELL MORONEZ
 
 Secretaria General de Acuerdos
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE FEBRERO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones del Reglamento Interior del Tribunal para Menores Infractores del Estado de Durango, publicado mediante Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 21 de fecha 12 de Marzo de 2009.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Las cuestiones no previstas por el presente Reglamento, serán resueltas por el Presidente o la Comisión de Administración, según corresponda.
