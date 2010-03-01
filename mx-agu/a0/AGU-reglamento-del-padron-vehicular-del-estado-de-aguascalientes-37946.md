@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-padron-vehicular-del-estado-de-aguascalientes-37
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-01"
-last_updated: "2007-12-10"
+last_updated: "2010-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL PADRON VEHICULAR DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 1 de marzo de 2004.
 
@@ -115,11 +115,13 @@ III. Acreditar la legal estancia en el país de los vehículos de procedencia ex
 
 IV. Entregar las placas o la constancia de baja del Padrón Vehicular respectiva, en el caso de vehículos inscritos en el Padrón de otro Estado.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
 
-V. Tratándose de vehículos inscritos en el padrón de otras Entidades Federativas, o que sin estarlo acrediten la propiedad con documentos expedidos en otro Estado, deberán obtener la constancia de verificación de documentación vehicular expedida por la Procuraduría General de Justicia del Estado, excepto aquellos vehículos que hayan sido refacturados por empresas no domiciliadas en el Estado, siempre y cuando quién expide la factura sea el último propietario registrado en el Padrón Vehicular del Estado de Aguascalientes en el ejercicio fiscal en que se realice el tramite.
+V. Tratándose de vehículos inscritos en el padrón de otras Entidades Federativas, o que sin estarlo se acredite la propiedad con documentos expedidos en otro Estado, deberán solicitar la constancia de verificación de documentos que amparan la propiedad vehicular, así como la revisión física del vehículo, ante la Procuraduría General de Justicia del Estado, quien emitirá la constancia respectiva.
 
-VI. Tratándose de vehículos modelo 1995 y posteriores, se deberá presentar el documento en el que conste el valor por el cual se enajenó por primera vez el vehículo al consumidor, por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos. Para estos efectos la Secretaría podrá tomar como base la información obtenida en el ejercicio de sus facultades.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
+
+VI. Tratándose de vehículos modelo 1995 y posteriores, se deberá presentar el documento en el que conste el valor por el cual se enajenó por primera vez el vehículo al consumidor, por el fabricante, ensamblador, distribuidor o comerciante en el ramo automotriz: Cuando el vehículo previamente haya estado inscrito en el Padrón Vehicular del Estado o cuando se acredite la propiedad con Factura Judicial Resolución Judicial o Administrativa, y/o factura o Acta de Adjudicación de Remate emitida por Autoridad Federal, Estatal o Municipal, la Secretaría podrá tomar como base la información obtenida en el ejercicio de sus facultades y/o estimar el valor comercial del vehículo al momento de la primera enajenación, con base en los valores que emita la Guía Autométrica vigente.
 
 Para los efectos del último párrafo del Artículo 7° de este Reglamento, se deberá anexar a la solicitud el contrato respectivo.
 
@@ -179,9 +181,9 @@ II. Acreditar en los términos de las disposiciones aplicables del presente Regl
 
 III. Comprobar el no tener adeudos por contribuciones federales y estatales derivadas por la tenencia o uso de dicho vehículo.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
 
-IV. Acreditar la legal estancia del vehículo de procedencia extranjera.
+IV. Presentar factura de la primera enajenación al consumidor por el fabricante, ensamblador, distribuidor o comerciante en el ramo automotriz.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2007)</small>
 
@@ -295,6 +297,10 @@ La solicitud de inscripción o avisos al Padrón a que se refiere el presente Re
 
 En cualquier momento, la Secretaría podrá ejercer sus facultades de comprobación en términos de las disposiciones legales con relación a los datos manifestados en la solicitud o avisos a que se refiere este Reglamento, así como a la autenticidad de la documentación proporcionada por el interesado.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2010)</small>
+
+La inscripción o recepción de avisos al padrón, a que se refieren las fracciones I a IV del Artículo 11 de este Reglamento, procederán una vez que la Secretaría verifique que el vehículo no cuente con reporte de robo vigente en la base de datos del Registro Público Vehicular o de cualquier otra autoridad competente.
+
 ## TITULO V. DEL PAGO PROPORCIONAL Y ACREDITAMIENTO DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS AUTOMOTORES
 
 ###### ARTICULO 27.
@@ -372,3 +378,9 @@ Lic. Lic. Juan José León Rubio
 P.O. 10 DE DICIEMBRE DE 2007.
 
 PRIMERO.- Las presentes Reformas al Reglamento del Padrón Vehicular del Estado de Aguascalientes, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese las presentes Reformas en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
+
+SEGUNDO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación.
