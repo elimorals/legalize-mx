@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-726
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-11"
-last_updated: "2010-02-11"
+last_updated: "2010-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72690&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2010-02-04"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
 
-(NOTA: EL 9 DE SEPTIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 102/2009, DECLARÓ LA INVALIDEZ DE ESTE REGLAMENTO, LA CUAL SURTIÓ EFECTOS EL 10 DE SEPTIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 9 DE SEPTIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 102/2009, DECLARÓ LA INVALIDEZ DE ESTE REGLAMENTO Y SU REFORMA DE FECHA PRIMERO DE MARZO DE DOS MIL DIEZ, LA CUAL SURTIÓ EFECTOS EL 10 DE SEPTIEMBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE MARZO DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 11 de febrero de 2010.
 
@@ -71,6 +71,10 @@ i) Dirección General de Comunicación Social;
 j) Instituto de Formación Profesional;
 
 k) Consejo de Honor y Justicia de la Policía de Investigación;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE MARZO DE 2010)</small>
+
+l) Coordinación General de Políticas Administrativas de Planeación y Organización;
 
 II. Subprocuraduría de Averiguaciones Previas Centrales;
 
@@ -312,19 +316,25 @@ III. Reserva; y,
 
 IV. Incompetencia.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO, PUBLICADO EN LA G.O. DE 1 DE MARZO DE 2010, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTICULO DE CINCO FRACCIONES A CUATRO.</small>
+
 ###### Artículo 10.
 
 Cuando el Ministerio Público, reúna los requisitos establecidos en el artículo 16 constitucional, y en el Código de Procedimientos Penales para el Distrito Federal, ejercerá la acción penal observando las reglas siguientes:
 
 I. Formular el pliego de consignación respectivo con acuerdo del superior jerárquico, y solicitar la reparación del daño, las medidas cautelares y, de ser procedente, la prisión preventiva;
 
-II. (SIC)
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2010)</small>
 
-III. Poner a disposición de la autoridad judicial, a las personas detenidas;
+II. Poner a disposición de la autoridad judicial, a las personas detenidas;
 
-IV. Solicitar, a la autoridad judicial el libramiento del mandamiento correspondiente; y,
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2010)</small>
 
-V. Poner a disposición del juez los bienes y valores asegurados ministerialmente, y solicitar en su caso, el aseguramiento judicial respectivo.
+III. Solicitar a la autoridad judicial el libramiento del mandamiento correspondiente; y,
+
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2010)</small>
+
+IV. Poner a disposición del juez los bienes y valores asegurados ministerialmente, y solicitar en su caso, el aseguramiento judicial respectivo.
 
 ###### Artículo 11.
 
@@ -560,7 +570,9 @@ IX. Las demás que le correspondan, de acuerdo a la función que realice.
 
 Cuando se ejerza la acción de remisión, por conductas tipificadas por la ley como delito no grave, se instruirá el procedimiento oral, y el Ministerio Público especializado deberá actuar de la manera siguiente:
 
-I. Presentar al adolescente detenido, en el término de 48 horas, ante la autoridad judicial especializada;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 1 DE MARZO DE 2010)</small>
+
+I. Presentar al adolescente, ante la autoridad judicial especializada;
 
 II. Formular la imputación en contra del adolescente, ante el juez de control;
 
@@ -596,7 +608,9 @@ XV. Interponer los recursos que establece la Ley, en contra de la resolución de
 
 XVI. Recibir la notificación respecto de la orden de detención o de comparecencia solicitada;
 
-XVII. Intervenir ante el juez de control, en la audiencia relativa a la detención, con la finalidad de que ésta se califique de legal; y,
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2010)</small>
+
+XVII. Intervenir ante el juez de proceso, para la ejecución de la medida; y,
 
 XVIII. Las demás que le correspondan, de acuerdo a la función que realice.
 
@@ -704,7 +718,13 @@ VIII. Dirección General de Comunicación Social;
 
 IX. Instituto de Formación Profesional;
 
-X. Consejo de Honor y Justicia de la Policía de Investigación;
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2010)</small>
+
+X. Consejo de Honor y Justicia de la Policía de Investigación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE MARZO DE 2010)</small>
+
+XI. Coordinación General de Políticas Administrativas de Planeación y Organización.
 
 ### CAPÍTULO II. DE LA JEFATURA GENERAL DE LA POLICÍA DE INVESTIGACIÓN
 
@@ -1672,7 +1692,9 @@ III. Fiscalía de Procesos en Juzgados Penales Sur;
 
 IV. Fiscalía de Procesos en Juzgados de Paz Penal;
 
-V. Fiscalía de Procesos en Juzgados Civiles;
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2010)</small>
+
+V. Fiscalía de Procesos en Juzgados Civiles y de Extinción de Dominio;
 
 VI. Fiscalía de Procesos en Juzgados Familiares;
 
@@ -1886,7 +1908,9 @@ XVII. Supervisar, vigilar y apoyar la atención que se brinda al público en gen
 
 XVIII. Atender los requerimientos o peticiones de información, dirigidos a la Oficina de Información Pública de la dependencia, en coordinación con la Dirección General de Política y Estadística Criminal, de acuerdo a los lineamientos que se establezcan y de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y demás normatividad aplicable; y,
 
-XIX. Las demás que el Procurador y la normatividad aplicable;
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2010)</small>
+
+XIX. Las demás que le confiera las leyes aplicables y el Procurador.
 
 ###### Artículo 72.
 
@@ -1930,9 +1954,17 @@ XVIII. Fungir como Presidente Suplente de la Comisión Técnica Consultiva en Ma
 
 XIX. Resolver los recursos de revisión que se promuevan en contra de las resoluciones emitidas por el Consejo de Honor y Justicia de la Policía de Investigación;
 
-XX. Atender los requerimientos o peticiones de información, dirigidos a la Oficina de Información Pública de la dependencia, en coordinación con la Dirección General de Política y Estadística Criminal, de acuerdo a los lineamientos que se establezcan y de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y demás normatividad aplicable; y,
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2010)</small>
 
-XXI. Las demás que le confiera las leyes aplicables y el Procurador.
+XX. Atender los requerimientos o peticiones de información, dirigidos a la Oficina de Información Pública de la dependencia, en coordinación con la Dirección General de Política y Estadística Criminal, de acuerdo a los lineamientos que se establezcan y de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y demás normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2010)</small>
+
+XXI. Llevar a cabo el registro, guarda y custodia de los Acuerdos, Circulares, Oficios Circulares expedidos por el Procurador, así como de los Contratos y Convenios relacionados con Adquisiciones, Arrendamientos, Prestaciones de Servicios y Obra Pública, además de los Convenios y Bases de Colaboración, y cualquier otro instrumento de naturaleza análoga a los anteriores, en los que la Procuraduría sea parte integrante; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE MARZO DE 2010)</small>
+
+XXII. Las demás que le confiera las leyes aplicables y el Procurador.
 
 ###### Artículo 73.
 
@@ -2258,9 +2290,17 @@ XX. Instrumentar los procedimientos necesarios para la enajenación de bienes y 
 
 XXI. Custodiar los valores, documentos y otros bienes con los que se garantice en las averiguaciones previas la libertad provisional, reparación del daño, multa o cualquier otra obligación a cargo del imputado;
 
-XXII. Atender los requerimientos o peticiones de información, dirigidos a la Oficina de Información Pública de la dependencia, en coordinación con la Dirección General de Política y Estadística Criminal, de acuerdo a los lineamientos que se establezcan y de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y demás normatividad aplicable; y,
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2010)</small>
 
-XXIII. Las demás que le confieran otras disposiciones jurídicas aplicables y las que determine el Procurador.
+XXII. Atender los requerimientos o peticiones de información, dirigidos a la Oficina de Información Pública de la dependencia, en coordinación con la Dirección General de Política y Estadística Criminal, de acuerdo a los lineamientos que se establezcan y de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y demás normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2010)</small>
+
+XXIII. Vigilar el cumplimiento de las atribuciones encargadas a la Coordinación General de Políticas Administrativas de Planeación y Organización y establecer los canales de coordinación técnica y operativa necesarios; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE MARZO DE 2010)</small>
+
+XXIV. Las demás que le confieran otras disposiciones jurídicas aplicables y las que determine el Procurador.
 
 ###### Artículo 84.
 
@@ -2700,11 +2740,51 @@ V. Coordinar con la Dirección General Jurídico Consultiva la formulación de l
 
 VI. Las demás que le designe el Coordinador General y el Comité de Profesionalización en el ámbito de su competencia.
 
-### CAPÍTULO I. DEL PERSONAL DEL SERVICIO PÚBLICO DE CARRERA
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 1 DE MARZO DE 2010)</small>
+
+### CAPÍTULO XVIII. DE LA COORDINACIÓN GENERAL DE POLÍTICAS ADMINISTRATIVAS DE PLANEACIÓN Y ORGANIZACIÓN
+
+> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2010)</small>
+
+###### Artículo 100 Bis.
+
+La Coordinación General de Políticas Administrativas de Planeación y Organización, para el cumplimiento de sus funciones, se integrará por áreas de Estudios de Mejora; de Instrumentación de Políticas de Administración; de Técnicas y Tecnología; de Diseño de Estrategias; y de Vinculación Social; tendrá una coordinación técnica y operativa con la Oficialía Mayor, la que realizará funciones de vigilancia respecto de sus atribuciones, que serán las siguientes:
+
+I. Diseñar los estudios estratégicos para eficientar el desarrollo de las funciones administrativas y operativas;
+
+II. Planear y desarrollar las técnicas que permitan optimizar la función administrativa;
+
+III. Elaborar diagnósticos en cada una de las áreas que integra la Procuraduría, para conocer sus necesidades tecnológicas;
+
+IV. Promover el uso de tecnología de vanguardia para fortalecer los métodos de administración;
+
+V. Realizar estudios estratégicos para impulsar acciones de mejora en la administración;
+
+VI. Establecer campañas de difusión encaminadas a la vinculación con la sociedad, bajo una perspectiva de atención a la ciudadanía;
+
+VII. Informar a la Oficialía Mayor respecto de los estudios, estrategias, políticas de administración, y demás acciones realizadas con motivo de sus funciones;
+
+VIII. Proponer a la Oficialía Mayor, los proyectos y Programas de asistencia tecnológica;
+
+IX. Elaborar y proponer a la Oficialía Mayor, Programas que permitan eficientar la calidad laboral del personal administrativo y sustantivo de la Procuraduría;
+
+X. Presentar estudios encaminados a fortalecer la imagen de la Procuraduría frente a la sociedad;
+
+XI. Definir Programas de reclutamiento que permitan adecuar el perfil del servidor público con las actividades de la Procuraduría;
+
+XII. Apoyar a las áreas técnico-operativas de la Procuraduría, en su organización y aplicación de métodos que impulsen su modernización;
+
+XIII. Proponer a la Oficialía Mayor, estudios de viabilidad encaminados a la utilización óptima de los recursos;
+
+XIV. Elaborar el diagnóstico sobre los recursos materiales existentes, y proponer criterios de racionalidad, austeridad e idoneidad, en materia de adquisiciones;
+
+XV. Establecer lineamientos para la elaboración de Protocolos de actuación, respecto de la atención ciudadana; y,
+
+XVI. Las demás que establezca la normatividad aplicable.
 
 ## TÍTULO QUINTO. DEL SERVICIO PÚBLICO DE CARRERA
 
-### CAPÍTULO II. DEL INGRESO AL SERVICIO PÚBLICO DE CARRERA
+### CAPÍTULO I. DEL PERSONAL DEL SERVICIO PÚBLICO DE CARRERA
 
 ###### Artículo 101.
 
@@ -2786,7 +2866,7 @@ El Perito Supervisor será responsable de la supervisión directa de los peritos
 
 El Perito en Jefe será responsable de la supervisión directa de los peritos supervisores, de coordinar las intervenciones periciales y de requerir los insumos necesarios para que los peritos realicen sus funciones.
 
-### CAPÍTULO III. DE LA PERMANENCIA, PROMOCIÓN Y ESPECIALIZACIÓN EN EL SERVICIO PÚBLICO DE CARRERA
+### CAPÍTULO II. DEL INGRESO AL SERVICIO PÚBLICO DE CARRERA
 
 ###### Artículo 109.
 
@@ -2832,7 +2912,7 @@ IV. Las plazas se ocuparán, en orden descendente, por quienes obtengan las más
 
 Los egresados que concluyan satisfactoriamente la carrera de Técnico Superior Universitario en Investigación Policial; el Diplomado en Ciencias Forenses o el Diplomado en Justicia Penal y Derechos Humanos, ocuparán preliminarmente las plazas respectivas y estarán sujetos a tutoría y supervisión durante un plazo de, por lo menos, dos años en los que se desempeñarán en los servicios relevantes de la Institución, sujetos a dicha tutoría y supervisión conforme a las previsiones que establezca el Comité de Profesionalización. Al finalizar este periodo, de acuerdo con el servicio respectivo, el servidor público será en definitiva Oficial Secretario del Ministerio Público, Agente de la Policía de Investigación o Perito de la Procuraduría General de Justicia del Distrito Federal.
 
-### CAPÍTULO ÚNICO. INTEGRACIÓN Y FUNCIONES
+### CAPÍTULO III. DE LA PERMANENCIA, PROMOCIÓN Y ESPECIALIZACIÓN EN EL SERVICIO PÚBLICO DE CARRERA
 
 ###### Artículo 112.
 
@@ -2996,7 +3076,7 @@ V. Las demás que acuerde el propio Consejo.
 
 ## TÍTULO SÉPTIMO. DEL CONSEJO DE LA POLICÍA DE INVESTIGACIÓN
 
-### CAPÍTULO I. DE LA SUPLENCIA DEL PROCURADOR
+### CAPÍTULO ÚNICO. INTEGRACIÓN Y FUNCIONES
 
 ###### Artículo 126.
 
@@ -3086,7 +3166,7 @@ II. Las demás que el Consejo considere oportunas para el cumplimiento de su obj
 
 ## TÍTULO OCTAVO. DE LAS SUPLENCIAS DE LOS SERVIDORES PÚBLICOS DE LA PROCURADURÍA
 
-### CAPÍTULO II. DE LA SUPLENCIA DE LOS SUBPROCURADORES Y DEL OFICIAL MAYOR
+### CAPÍTULO I. DE LA SUPLENCIA DEL PROCURADOR
 
 ###### Artículo 129.
 
@@ -3096,7 +3176,7 @@ En ausencia de los anteriores, el Oficial Mayor podrá suplir al Procurador siem
 
 En los juicios de Amparo, en los que el Procurador sea señalado como autoridad responsable, será suplido en su orden, por el Director General Jurídico Consultivo, los Directores de Amparo y de lo Contencioso y los Subdirectores adscritos a dichas Direcciones.
 
-### CAPÍTULO III. DE LA SUPLENCIA DEL VISITADOR GENERAL, COORDINADORES, JEFE GENERAL, FISCALES Y DIRECTORES GENERALES
+### CAPÍTULO II. DE LA SUPLENCIA DE LOS SUBPROCURADORES Y DEL OFICIAL MAYOR
 
 ###### Artículo 130.
 
@@ -3114,11 +3194,13 @@ El Oficial Mayor será suplido por el Director General de Recursos Humanos.
 
 En los juicios de Amparo, en los que los Subprocuradores y el Oficial Mayor sean señalados como autoridades responsables, serán suplidos en su orden, por el Director General Jurídico Consultivo, los Directores de Amparo y de lo Contencioso y los Subdirectores adscritos a dichas Direcciones.
 
-### CAPÍTULO IV. DE LA SUPLENCIA DE LOS AGENTES DEL MINISTERIO PÚBLICO
+### CAPÍTULO III. DE LA SUPLENCIA DEL VISITADOR GENERAL, COORDINADORES, JEFE GENERAL, FISCALES Y DIRECTORES GENERALES
 
 ###### Artículo 131.
 
 Durante las ausencias temporales de los titulares de la Jefatura General de la Policía de Investigación, de la Visitaduría General, de la Coordinación General de Servicios Periciales, de la Coordinación General del Instituto de Formación Profesional, de la Coordinación de Agentes del Ministerio Público Auxiliares del Procurador, de las Fiscalías para la Investigación de los delitos cometidos por Servidores Públicos, Centrales de Investigación, Desconcentradas de Investigación, de Procesos, de Supervisión, de Revisión y de Mandamientos Judiciales, y de las Direcciones Generales, serán suplidos por los servidores públicos de la jerarquía inmediata inferior que al efecto designen con el acuerdo del superior inmediato.
+
+### CAPÍTULO IV. DE LA SUPLENCIA DE LOS AGENTES DEL MINISTERIO PÚBLICO
 
 ###### Artículo 132.
 
@@ -3131,6 +3213,20 @@ II. Los agentes del Ministerio Público adscritos a juzgados y salas del Tribuna
 III. En el caso de que la ausencia a que se refiere la fracción anterior sea mayor, la designación del suplente la hará el superior jerárquico respectivo; y,
 
 IV. El personal restante, por quien designe el Procurador o el Subprocurador del área correspondiente.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, G.O. 1 DE MARZO DE 2010)</small>
+
+## TÍTULO NOVENO. DE LAS CERTIFICACIONES
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 1 DE MARZO DE 2010)</small>
+
+### CAPÍTULO ÚNICO. DE LAS COORDINACIONES GENERALES Y DIRECCIONES GENERALES
+
+> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2010)</small>
+
+###### Artículo 133.
+
+Los Coordinadores y Directores Generales, podrán expedir copias certificadas de los documentos que obren en sus archivos sobre asuntos de su competencia.
 
 ## TRANSITORIOS
 
@@ -3163,3 +3259,11 @@ EL SECRETARIO DE GOBIERNO
 (Firma)
 
 JOSÉ ÁNGEL ÁVILA PÉREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 1 DE MARZO DE 2010.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal para su difusión y conocimiento.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día hábil siguiente de su publicación.
