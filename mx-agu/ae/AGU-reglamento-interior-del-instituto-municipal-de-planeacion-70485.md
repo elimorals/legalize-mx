@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-municipal-de-planeacion-70485
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-12"
-last_updated: "2009-10-12"
+last_updated: "2010-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE PLANEACION DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 12 de octubre de 2009.
 
@@ -56,6 +56,10 @@ V. Junta de Gobierno: El órgano máximo de Gobierno del Instituto Municipal de 
 VI. Planeación Integral: Es la actividad integradora que busca aprovechar al máximo la efectividad total de una organización de acuerdo con sus objetivos;
 
 VII. Programación-Presupuestación: Es una técnica auxiliar que proporciona los instrumentos que permiten fijar en el corto plazo, las actividades concretas que deberá ejecutar la Administración Municipal para lograr el cumplimiento de las metas de largo plazo determinadas en la programación global, obteniendo el nivel de gasto necesario del desarrollo económico de un período determinado;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2010)</small>
+
+VIII. Proyectos Estratégicos.
 
 ###### ARTÍCULO 3°.
 
@@ -781,6 +785,10 @@ VI. Seguimiento al Plan de Desarrollo Municipal; y
 
 VII. Dar apoyo y seguimiento a proyectos especiales del IMPLAN.
 
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2010)</small>
+
+VIII. Evaluar los proyectos desde la perspectiva financiera, ambiental y socioeconómica, en coordinación con las Subdirecciones de Desarrollo Social, Desarrollo Económico, Desarrollo Sustentable y de Proyectos Especiales, así como con las dependencias ejecutoras de los proyectos, la Oficina Ejecutiva y la Secretaría de Finanzas Municipales; a fin de que puedan ser considerados para su registro en la cartera de programas y proyectos de inversión municipal, lo anterior para que sean ejecutados a través de los diferentes fondos o mecanismos de inversión de que disponga o gestione el Honorable Ayuntamiento.
+
 ### CAPITULO VII. De la Dirección de Planeación
 
 ###### ARTÍCULO 65.
@@ -911,7 +919,9 @@ La Subdirección de Desarrollo Económico se encargará de:
 
 I. Integrar los aspectos del desarrollo económico y empleo a los programas que realiza el IMPLAN, con el objetivo de incrementar las ventajas competitivas del territorio, además de buscar y establecer fórmulas de colaboración que posibilite la participación real de la sociedad con diferentes instancias de Gobierno, para promover proyectos productivos que generen nuevas fuentes de trabajo, mejoren la eficacia de la micro, pequeña y mediana empresa e incrementen el comercio de bienes y servicios;
 
-II. Elaborar estudios de comportamiento económico, de acuerdo al Plan y los programas de Desarrollo Municipal;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
+
+II. Elaborar estudios de evaluación y comportamiento económico, de acuerdo al Plan y los programas de Desarrollo Municipal;
 
 III. Recopilar información económica y social;
 
@@ -953,6 +963,10 @@ X. Participar en reuniones de Gabinete Social de la Administración Municipal; y
 
 XI. Participar en foros Regionales.
 
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2010)</small>
+
+XII. Elaborar estudios de evaluación y comportamiento social, de acuerdo al Plan y los programas de Desarrollo Municipal.
+
 ### CAPITULO XIII. De la Subdirección de Desarrollo Sustentable
 
 ###### ARTÍCULO 71.
@@ -967,9 +981,15 @@ III. Coordinar y realizar proyectos de investigación científica, multidiscipli
 
 IV. Realizar estudios para determinar las necesidades en zonas vulnerables y áreas críticas para facilitar el desarrollo ordenado, productivo y corresponsable;
 
-V. Elaboración de propuestas, estudios y proyectos específicos en materia de sustentabilidad aplicables al territorio municipal; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
+
+V. Elaboración de Propuestas, Estudios y Proyectos específicos en materia de sustentabilidad ambiental, aplicables al territorio Municipal;
 
 VI. La vinculación con otras dependencias y organismos.
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2010)</small>
+
+VII. Verificar que los Proyectos que integran el Programa Anual de Inversión Municipal cumplan con la normatividad ambiental aplicable en cada caso.
 
 ### CAPITULO XIV. De las Normas que regulan las Actividades de los Trabajadores
 
@@ -1200,3 +1220,15 @@ CUARTO. Se autoriza al Director General del IMPLAN para tramitar la publicación
 QUINTO. El presente Reglamento Interior del IMPLAN fue autorizado mediante Sesión Extraordinaria de la Junta de Gobierno del IMPLAN celebrada el día 23 de Marzo del año dos mil nueve, según quedo asentado en el Acta correspondiente suscrita por el Ing. Gabriel Arellano Espinosa Presidente Municipal de Aguascalientes, en su calidad de Presidente de la Junta de Gobierno del IMPLAN, el M. en ICH. Netzahualcóyotl López Flores, Director General del IMPLAN, en su calidad de Secretario Técnico de la Junta de Gobierno, la C.P. Angélica de Santos Velasco, en su calidad de Secretaria de Finanzas del Municipio de Aguascalientes, la Regidora Lic. Imelda Catalina Azcona Reynoso, el suplente del Regidor Lic. Jesús Armando López Velarde Campa y el Regidor C.P. Enrique López Hernández, y el Urbanista Jesús Díaz Herrera, en su calidad de Presidente del Consejo Consultivo del IMPLAN.
 
 Así como de la Sesión Extraordinaria de la Junta de Gobierno del IMPLAN celebrada el día 13 de Julio del año dos mil nueve, según quedo asentado en el Acta correspondiente firmada por el Ing. Gabriel Arellano Espinosa Presidente Municipal de Aguascalientes, en su calidad de Presidente de la Junta de Gobierno del IMPLAN, el M. en ICH. Netzahualcóyotl López Flores, Director General del IMPLAN, en su calidad de Secretario Técnico de la Junta de Gobierno, la C.P. Angélica de Santos Velasco, en su calidad de Secretaria de Finanzas del Municipio de Aguascalientes, la Regidora Lic. Imelda Catalina Azcona Reynoso, el suplente del Regidor José Luis Proa de Anda, el Regidor José Alfredo Hornedo González, el Regidor C.P. Enrique López Hernández, y el Urbanista Jesús Díaz Herrera, en su calidad de Presidente del Consejo Consultivo del IMPLAN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE MARZO DE 2010.
+
+###### ARTICULO PRIMERO.
+
+Las reformas y adiciones al Reglamento Interior del Instituto Municipal de Planeación entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Se autoriza al Director General del IMPLAN para tramitar la publicación de las presentes reformas y adiciones al Reglamento Interior del Instituto Municipal de Planeación en el Periódico Oficial del Estado de Aguascalientes.
