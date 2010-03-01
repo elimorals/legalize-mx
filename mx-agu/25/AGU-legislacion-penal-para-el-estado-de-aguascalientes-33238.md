@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2010-01-25"
+last_updated: "2010-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2010.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -1229,7 +1229,9 @@ En este caso, la punibilidad será de 6 meses a 3 años de prisión y de 25 a 50
 
 La persona privada legítimamente de su libertad que se evada del establecimiento donde se encuentra internada, por estar cumpliendo una sanción privativa de la libertad, o en período de detención o prisión preventiva, no se le contará el tiempo que pase fuera del lugar en que deba hacerla efectiva.
 
-### CAPITULO DECIMO SEGUNDO. Tipos Penales Protectores de la Confidencialidad
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2010)</small>
+
+### CAPITULO DECIMO SEGUNDO. Tipos Penales Protectores de la Confidencialidad y la Intimidad de la Información
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
@@ -1254,6 +1256,16 @@ La Violación de Correspondencia consiste en abrir o interceptar en forma dolosa
 Al responsable de Violación de Correspondencia se le aplicarán de 3 a 6 meses de prisión y de 5 a 20 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 Esta punibilidad no se aplicará si el responsable ejerce la patria potestad, tutela o custodia, y la comunicación escrita se dirige a las personas bajo su tutela o guarda.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2010)</small>
+
+Artículo 80 A.- El Acceso Informático Indebido consiste en:
+
+I. Acceder a la información contenida en un aparato para el procesamiento de datos o cualquier dispositivo de almacenamiento de información sin autorización de su propietario o poseedor legítimo; o
+
+II. Interferir el buen funcionamiento de un sistema operativo, programa de computadora, base de datos o cualquier archivo informático, sin autorización de su propietario o poseedor legítimo.
+
+Al responsable del Acceso Informático Indebido se le aplicará de 1 a 3 meses de prisión, de 150 a 300 días multa así como el pago de la reparación de los daños y perjuicios ocasionados. Si quien realiza el Acceso Informático Indebido es el responsable del mantenimiento o seguridad del sistema de información sobre el que se perpetra, se le aplicará de 2 a 6 meses de prisión, de 300 a 600 días multa así como el pago de la reparación de daños y perjuicios ocasionados.
 
 ### CAPITULO DECIMO TERCERO. Tipos Penales Protectores de la Seguridad y Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
 
@@ -3255,17 +3267,21 @@ XXIII. Lesiones culposas previstas en el Artículo 94, con excepción de lo disp
 
 XXIV. Daño en las Cosas Culposo, previsto en el Artículo 95 con excepción de lo dispuesto en el último párrafo;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
 
-XXV. Usura, previsto en el Artículo 48; y (sic)
+XXV. Usura, previsto en el Artículo 48;
 
 > <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2008)</small>
 
 XXVI. Uso Indebido de Llamadas Telefónicas para movilizar los sistemas de respuesta de emergencia, previsto en las Fracciones I y II del Artículo 91 G, con excepción de lo dispuesto en el último párrafo;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
 
-XXVII. Fecundación Artificial Indebida prevista en el Artículo 28 A, únicamente cuando el cónyuge o concubinario de la víctima tenga algún grado de intervención en la comisión del hecho punible.
+XXVII. Fecundación Artificial Indebida prevista en el Artículo 28 A, únicamente cuando el cónyuge o concubinario de la víctima tenga algún grado de intervención en la comisión del hecho punible; y
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2010)</small>
+
+XXVIII. Acceso Informático indebido, previsto en el Artículo 80 A.
 
 ###### Artículo 309.
 
@@ -5798,3 +5814,9 @@ P.O. 25 DE ENERO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MARZO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
