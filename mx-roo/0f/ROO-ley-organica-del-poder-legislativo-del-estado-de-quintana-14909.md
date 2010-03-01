@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2009-03-03"
+last_updated: "2010-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -83,11 +83,11 @@ Esta Ley, sus reformas y adiciones no necesitarán de promulgación del Gobernad
 
 ### CAPITULO UNICO. DE LA INSTALACION DE LA LEGISLATURA Y DE LA ELECCION DE LA MESA DIRECTIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 7.
 
-Para la instalación de la Legislatura, la Diputación Permanente saliente convocará a los Diputados entrantes que cuenten con la constancia expedida por el Órgano Electoral competente, a asistir en la sede del Poder Legislativo del Estado el día 14 de Septiembre del año que corresponde a partir de las once horas, a efecto de llevar a cabo la Junta Preparatoria que será presidida por la propia Diputación Permanente y que se desarrollará conforme al siguiente procedimiento:
+Para la instalación de la Legislatura, la Diputación Permanente saliente convocará a los Diputados entrantes que cuenten con la constancia expedida por el órgano electoral competente, a asistir en la sede del Poder Legislativo del Estado el día 3 de Septiembre del año que corresponda a partir de las once horas, a efecto de llevar a cabo la Junta Preparatoria que será presidida por la propia Diputación Permanente y que se desarrollará conforme al siguiente procedimiento:
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -129,25 +129,25 @@ En todo caso, cada uno de los Diputados a que se refiere el párrafo anterior, e
 
 ### CAPITULO I. DE LOS PERIODOS DE SESIONES Y DE RECESOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 10.
 
-La Legislatura se reunirá a partir del día 17 de septiembre de cada año, para celebrar un primer período de sesiones ordinarias, y a partir del 26 de marzo de cada año para celebrar un segundo período de sesiones ordinarias.
+La Legislatura se reunirá a partir del 5 de septiembre de cada año, para celebrar un primer período de sesiones ordinarias, y a partir del 15 de febrero de cada año para celebrar un segundo período de sesiones ordinarias.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 En estos períodos la Legislatura se ocupará del estudio, discusión y votación de las iniciativas de ley o de decreto que se le presenten y de la resolución de los demás asuntos que le correspondan conforme a la Constitución Política del Estado y la presente Ley.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 11.
 
-Cada período de sesiones ordinarias durará el tiempo necesario para tratar todos los asuntos mencionados en el artículo anterior. El primer período no podrá prolongarse sino hasta el 17 de diciembre del mismo año. El segundo período no podrá prolongarse más allá del día 26 de junio del mismo año.
+Cada período de sesiones ordinarias durará el tiempo necesario para tratar todos los asuntos mencionados en el artículo anterior. El primer período no podrá prolongarse sino hasta el 15 de diciembre del mismo año. El segundo período no podrá prolongarse más allá del 31 de mayo del mismo año.
 
 ###### ARTICULO 12.
 
-La Legislatura, a convocatoria de la Diputación Permanente, por si, o a solicitud del Gobernador del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivare.
+La Legislatura, a convocatoria de la Diputación Permanente, por sí o a solicitud del Gobernador del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivare.
 
 ###### ARTICULO 13.
 
@@ -297,9 +297,11 @@ Diez días antes de la apertura de cada período de sesiones ordinarias, con exc
 
 En la última sesión de cada primer o segundo mes, la Legislatura elegirá para el siguiente mes, al Presidente y al Vicepresidente, quienes asumirán sus cargos en la sesión siguiente a aquélla en que hubieren sido electos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 20.
 
-(DEROGADO, P.O. 3 DE MARZO DE 2009)
+Cuando los periodos de sesiones ordinarias se prolonguen por más de tres meses, la Mesa Directiva electa para el tercer mes continuará en funciones hasta la clausura del período.
 
 ###### ARTICULO 21.
 
@@ -1893,10 +1895,18 @@ P.O. 6 DE JUNIO DE 2008.
 
 P.O. 3 DE MARZO DE 2009.
 
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 1 DE MARZO DE 2010.
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+El siguiente período ordinario de sesiones de la actual Legislatura iniciará el 15 de marzo de 2010 y concluirá a más tardar el 30 de junio de 2010.
+
+La mesa que se elija para el tercer mes del periodo ordinario de sesiones mencionado en el párrafo que antecede, continuará en funciones hasta la clausura del mismo.
