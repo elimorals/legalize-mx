@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-procuraduria-general-de-justicia-del-13870"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2007-11-27"
+last_updated: "2010-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -73,7 +73,7 @@ II.- Ejercitar la acción penal;
 
 III.- Poner a las personas detenidas a disposición de la autoridad competente;
 
-IV.- Solicitar las ordenes de cateo conforme a lo dispuesto en los preceptos legales aplicables;
+IV.- Solicitar las órdenes de cateo conforme a lo dispuesto en los preceptos legales aplicables;
 
 V.- Hacer valer de oficio las causas excluyentes de responsabilidad y las causas de inimputabilidad;
 
@@ -323,6 +323,8 @@ VII.- Las demás que se señalen en el Reglamento respectivo.
 
 ### CAPITULO QUINTO. DE LOS SUBPROCURADORES Y SUS ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 14.
 
 Para el debido funcionamiento de las Subprocuradurías, estas se delimitarán geográficamente con una Subprocuraduría en la Zona Sur, con sede en la ciudad de Chetumal, Quintana Roo, con jurisdicción territorial en el municipio de Othón P. Blanco; una Subprocuraduría en la Zona Norte, ubicada en la ciudad de Cancún, Quintana Roo con jurisdicción territorial en los municipios de Benito Juárez, Cozumel, Isla Mujeres Solidaridad y Lázaro Cárdenas y una en la Zona Centro con sede en Felipe Carrillo Puerto, Quintana Roo, con jurisdicción territorial en los municipios de Felipe Carrillo puerto y José María Morelos.
@@ -481,7 +483,7 @@ IV.- Aportar las pruebas pertinentes y promover en el proceso, las diligencias c
 
 V.- Concurrir e intervenir en las diligencias y audiencias que se practiquen en los Juzgados y Salas Penales de su adscripción, y desahoguen las vistas que se les den;
 
-VI.- Solicitar en los términos del artículo 16 de la Constitución, las ordenes de cateo que sean necesarias;
+VI.- Solicitar en los términos del artículo 16 de la Constitución, las órdenes de cateo que sean necesarias;
 
 VII.- Formular y presentar los pedimentos procedentes dentro de los términos legales;
 
@@ -745,7 +747,7 @@ VIII.- Instruir la ejecución de las órdenes de comparecencia que le indique el
 
 IX.- Disponer el cumplimiento de las órdenes de presentación que le indique el Ministerio Público;
 
-X.- Ordenar la inmediata detención de los presuntos responsables de flagrante delito o que huyan del lugar de los hechos inmediatamente después de haberlos cometido, poniéndolos a disposición del Ministerio Público o de autoridad competente sin perdida de tiempo;
+X.- Ordenar la inmediata detención de los presuntos responsables de flagrante delito o que huyan del lugar de los hechos inmediatamente después de haberlos cometido, poniéndolos a disposición del Ministerio Público o de autoridad competente sin pérdida de tiempo;
 
 XI.- Ordenar el aseguramiento de instrumentos y objetos que tengan relación con los delitos debiendo de inmediato ponerlos a disposición del Ministerio Público;
 
@@ -889,13 +891,13 @@ I.- En coordinación con la Dirección de la Unidad de Programas Coordinados Fed
 
 II.- Instrumentar los sistemas de control interno administrativos propios de la institución;
 
-III.- Realizar auditorias administrativas, técnico jurídicas y de gestión en todas las áreas de la Procuraduría;
+III.- Realizar auditorías administrativas, técnico jurídicas y de gestión en todas las áreas de la Procuraduría;
 
 IV.- Recibir quejas en relación con los servidores públicos de la Procuraduría General, practicando las investigaciones respectivas;
 
 V.- Observar y hacer cumplir las normas de control y fiscalización que emita la Dirección de la Unidad de Programas Coordinados Federación-Estado y apoyar a ésta en el diseño de la normatividad de control específico de la institución;
 
-VI.- Aplicar los programas y mecanismos de auditoria y control de todas las dependencias de la institución;
+VI.- Aplicar los programas y mecanismos de auditoría y control de todas las dependencias de la institución;
 
 VII.- Diseñar programas de mejoramiento de la Gestión de la Procuraduría General, estableciendo los mecanismos para el seguimiento de los mismos;
 
@@ -1280,3 +1282,11 @@ P.O. 20 DE OCTUBRE DE 2006.
 P.O. 27 DE NOVIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 1 DE MARZO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga toda disposición contraria a lo dispuesto en el presente Decreto.
+
+TERCERO.- Se faculta al Titular del Poder Ejecutivo del Estado a efectuar las modificaciones y adecuaciones presupuestales necesarias para el efecto de dotar de la estructura necesaria a la Subprocuraduría que se crea, para el correcto funcionamiento de la misma.
