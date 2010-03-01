@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2009-12-14"
+last_updated: "2010-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -561,9 +561,17 @@ s).- Ejercer la verificación y el control sanitario de los establecimientos que
 
 En el caso de establecimientos que expidan alimentos y bebidas en las escuelas de educación básica, además verificará que sean de los autorizados en los programas de nutrición;
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-t).- La creación de una unidad administrativa encargada de recibir, recabar, resguardar y supervisar el cumplimiento de los cuidados paliativos que soliciten los pacientes en etapa terminal en los términos de la ley aplicable a la materia; y
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2010)</small>
+
+t).- La creación de una unidad administrativa encargada de recibir, recabar, resguardar y supervisar el cumplimiento de los cuidados paliativos que soliciten los pacientes en etapa terminal en los términos de la ley aplicable a la materia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2010)</small>
+
+u).- Publicar anualmente en el Periódico Oficial del Estado la relación de profesionales, técnicos y auxiliares de la salud que presten atención médica de cualquier tipo en el Estado de Aguascalientes, así como publicar permanentemente dicha relación en la página web de la Secretaría de Salud, y las actualizaciones de la misma. En las publicaciones correspondientes deberá aparecer la leyenda "Médico Oficialmente Registrado"; y
 
 V.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
@@ -862,6 +870,12 @@ a).- Solicitud de Refrendo;
 b).- Copia de la constancia de haber tomado como mínimo un curso por año de actualización y/o capacitación en el área médica de su competencia.
 
 Los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, informarán al Instituto de Salud acerca de las altas y bajas de sus integrantes, así como de los datos generales de cada asociado, de la misma forma podrán gestionar los registros y refrendos de sus integrantes ante el Instituto sin cobro alguno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2010)</small>
+
+El Instituto de Salud del Estado de Aguascalientes deberá publicar la relación de profesionales, técnicos y auxiliares de la salud que presten atención médica de cualquier tipo en el Estado de Aguascalientes, así como publicar permanentemente dicha relación en la página web del propio Instituto, y las actualizaciones de la misma, en los términos del Artículo 28, Fracción IV, inciso u) de esta Ley.
 
 ### CAPITULO V. Atención Materno-Infantil
 
@@ -1475,7 +1489,9 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ### CAPITULO III. Nutrición
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 98.
 
@@ -1605,7 +1621,7 @@ Las autoridades sanitarias estatales y municipales en coordinación con las auto
 
 ###### ARTICULO 111.
 
-El Gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos, de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los comités y subcomités municipales y los sectores social y privado.
+El Gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos, de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los comités o subcomités municipales y los sectores social y privado, a través del Consejo Estatal de Nutrición que se integrará en los términos previstos en el Reglamento.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2931,9 +2947,13 @@ V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
 Se sancionará con multa equivalente hasta mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación de las disposiciones contenidas en los Artículos 44 Bis, 49, 61, 62, 85, 87, 92, 104, 106, 127, 129, 137, 167, 168, 174, 176, 186, 192, 194, 210, 218, 221, 224, 233; 247, 248 y 250 de esta ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 279.
 
-Se sancionará con multa equivalente de cien hasta cuatro mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación a las disposiciones contenidas en los Artículos 122, 123, 124, 125, 133, 166, 170, 173, 175, 177, 178, 179, 182, 183, 190, 198, 200, 201, 202, 207, 212, 213, 214, 220, 257 y 271 de esta Ley.
+Se sancionará con multa equivalente de cien hasta cuatro mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación a las disposiciones contenidas en los Artículos 55 segundo párrafo, 122, 123, 124, 125, 133, 166, 170, 173, 175, 177, 178, 179, 182, 183, 190, 198, 200, 201, 202, 207, 212, 213, 214, 220, 257 y 271 de esta Ley.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
@@ -3228,3 +3248,13 @@ Las Instituciones que se dediquen a prestar su servicio a personas de la tercera
 ###### ARTÍCULO TERCERO.
 
 En el Presupuesto de Egresos de Gobierno del Estado de Aguascalientes para el Ejercicio Fiscal del año 2010, se deberá contemplar la partida presupuestal correspondiente para cubrir las obligaciones del Estado derivadas del presente Decreto.
+
+P.O. 1 DE MARZO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los sesenta días naturales siguientes a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de cuarenta días naturales, contados a partir de la publicación del presente Decreto se deberá adecuar el Reglamento de la Ley de Salud del Estado de Aguascalientes, de conformidad con las reformas aprobadas.
