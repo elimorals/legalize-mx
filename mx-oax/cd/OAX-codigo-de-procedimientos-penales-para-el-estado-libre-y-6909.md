@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2009-09-14"
+last_updated: "2010-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006 Y 5 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CODIGO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009 Y 2 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO EN LOS TERMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CODIGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2993,11 +2993,11 @@ El Tribunal no podrá dejar de examinar durante la instrucción, a los testigos 
 
 Todos los habitantes del Estado que no tengan excusa legal, están obligados a acudir al llamamiento judicial que se les haga y prestar su declaración sobre lo que se les pregunte con referencia a los hechos respecto de los cuales se les señala como testigos.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
-
 ###### Art. 409.
 
 No se obligará a declarar al cónyuge, tutor, curador o pupilo del inculpado, ni a sus parientes por consanguinidad o afinidad en la línea recta ascendente o descendente sin limitación de grados; en la colateral consanguínea hasta dentro del cuarto grado y en la de afinidad hasta el segundo inclusive, ni a los que están ligados con él por amor, respeto, cariño o estrecha amistad; pero si estas personas tuvieran voluntad de declarar espontáneamente después de que el funcionario que practique la diligencia les advierta que pueden abstenerse de hacerlo, se les recibirá su declaración haciéndose constar esta circunstancia en el acta correspondiente.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
 
 ###### Art. 410.
 
@@ -4145,15 +4145,15 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 
 P.O. 9 DE SEPTIEMBRE DE 2006.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2010)</small>
 
 PRIMERO.- Entrada en Vigor
 
-Este Código entrará en vigor doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado, sucesivamente, en las regiones del Istmo y la Mixteca; y a partir del nueve de marzo del dos mil diez, consecutivamente, cada año en los distritos de las regiones de la Costa, Cuenca y Valles Centrales. Finalmente se implementará en las regiones de la Cañada y la Sierra (Norte y Sur). En caso de que las partidas presupuestales lo permitan, los períodos de su vigencia podrán reducirse previo Decreto de la Cámara de Diputados.
+Este Código entrará en vigor doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado, sucesivamente, en las regiones del Istmo y la Mixteca; y a partir del nueve de septiembre del dos mil diez, consecutivamente, cada año en los distritos de las regiones de la Costa, Cuenca y Valles Centrales. Finalmente se implementará en las regiones de la Cañada y la Sierra (Norte y Sur). En caso de que las partidas presupuestales lo permitan, los períodos de su vigencia podrán reducirse previo Decreto de la Cámara de Diputados.
 
 SEGUNDO. Derogaciones
 
-A la entrada en vigor de este Código, se abroga el Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca de veintidós de octubre de mil novecientos setenta y nueve, promulgado el tres de diciembre del mismo año y publicado el nueve de agosto de mil novecientos ochenta; asimismo, se deroga cualquier disposición que se oponga o contradiga lo preceptuado en este Código.
+A la entrada en vigor de este Código se abroga el Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca de veintidós de octubre de mil novecientos setenta y nueve, promulgado el tres de diciembre del mismo año y publicado el nueve de agosto de mil novecientos ochenta; asimismo, se deroga cualquier disposición que se oponga o contradiga lo preceptuado en este Código.
 
 TERCERO. Aplicación a procesos pendientes
 
@@ -4167,19 +4167,19 @@ Además de las facultades ya previstas en el Código, durante los primeros dos a
 
 QUINTO. Legislación de transición
 
-En el plazo de vacatio legis deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la defensoría pública y del ministerio público y de la policía, así como la legislación penitenciaria.
+En el plazo de vacatio legis deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la Defensoría Pública y del Ministerio Público y de la Policía, así como la legislación penitenciaria.
 
 SEXTO. Entrada en vigor para el caso de la Ley de Justicia para Adolescentes del Estado de Oaxaca
 
 Este Código entrará en vigor para los efectos de la supletoriedad a la que se refiere la Ley de Justicia para Adolescentes del Estado de Oaxaca, a la entrada en vigor de la mencionada ley.
 
-SEPTIMO. Normas prácticas
+SÉPTIMO. Normas y practicas
 
 Los órganos de procuración y administración de justicia y el de ejecución de penas, en el ejercicio de sus funciones reglamentarias, dictarán las normas prácticas necesarias para aplicar este Código.
 
 OCTAVO. Disposiciones presupuestales
 
-En los presupuestos de Egresos para los años fiscales del 2007 y siguientes, deberán aprobarse los recursos financieros para la implementación de las disposiciones de este Código.
+En los presupuestos de egresos para los años fiscales del 2007 y siguientes, deberán aprobarse los recursos financieros para la implementación de las disposiciones de este Código.
 
 > <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -4276,3 +4276,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 14 DE SEPTIEMBRE DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE MARZO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
