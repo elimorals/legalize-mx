@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2010-01-10"
+last_updated: "2010-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -285,11 +285,11 @@ Los jueces serán los necesarios para el despacho de los asuntos que les corresp
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 2010)</small>
 
 ###### Artículo 16.
 
-Los Magistrados del Tribunal Superior de Justicia, serán designados por el Gobernador del Estado; y los jueces serán designados por el Consejo de la Judicatura del Estado de México, previo examen de oposición abierto.
+Los Magistrados del Tribunal Superior de Justicia y los jueces serán designados por el Consejo de la Judicatura del Estado de México, estos últimos, previo examen de oposición abierto.
 
 ###### Artículo 17.
 
@@ -297,17 +297,17 @@ Los nombramientos de magistrados del Tribunal Superior de Justicia, se sujetará
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 2010)</small>
 
-En caso de negativa el Gobernador formulará una segunda propuesta y si tampoco es aprobada, quedará facultado para realizar un tercer nombramiento que surtirá efectos desde luego.
+En caso de negativa, el Consejo de la Judicatura formulará una segunda propuesta y si tampoco es aprobada, quedará facultado para realizar un tercer nombramiento que surtirá efectos desde luego.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 2010)</small>
 
 ###### Artículo 18.
 
-Sin la aprobación a que se refiere el artículo anterior y la protesta respectiva, no podrán tomar posesión los magistrados nombrados por el Gobernador del Estado, salvo el caso a que se refiere la parte final del precepto.
+Sin la aprobación a que se refiere el artículo anterior y la protesta respectiva, no podrán tomar posesión los magistrados nombrados por el Consejo de la Judicatura, salvo el caso a que se refiere la parte final del precepto.
 
 ###### Artículo 19.
 
@@ -475,11 +475,11 @@ Del Presidente del Tribunal Superior de Justicia.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 2010)</small>
 
 ###### Artículo 40.
 
-El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en forma abierta o secreta, por los magistrados que integren el Poder Judicial, según lo determine el pleno del propio Tribunal, en la primer sesión que se celebre durante el mes de enero del año que corresponda, durará en su cargo tres años, y podrá ser reelecto para el periodo inmediato posterior, al concluir éste, deberá reintegrarse a la función jurisdiccional que le corresponda.
+El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en forma abierta o secreta, por los magistrados que integren el Poder Judicial, según lo determine el pleno del propio Tribunal, en la primer sesión que se celebre durante el mes de enero del año que corresponda, y durará en su cargo cinco años, al concluir éste, deberá reintegrarse a la función jurisdiccional que le corresponda.
 
 ###### Artículo 41.
 
@@ -2798,3 +2798,11 @@ Se derogan las disposiciones de igual o menor jerarquía que se opongan al prese
 ###### ARTÍCULO SÉPTIMO.
 
 Dentro del plazo de 90 días naturales posteriores al de la entrada en vigor del presente Decreto, el Consejo de la Judicatura del Estado de México, deberá adecuar las disposiciones reglamentarias a que haya lugar.
+
+G.G. 3 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de que inicie su vigencia la reforma a los artículos 61 fracción XV en sus párrafos primero y segundo, 77 en su fracción XII de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
