@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-consejo-ciudadano-de-obra-publica-del-58126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-19"
-last_updated: "2007-12-19"
+last_updated: "2010-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DEL CONSEJO CIUDADANO DE OBRA PUBLICA, DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-REGLAMENTO DEL CONSEJO CIUDADANO DE OBRA POBLICA, DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
+REGLAMENTO DEL CONSEJO CIUDADANO DE OBRA PÚBLICA, DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 19 de diciembre de 2007.
 
@@ -116,6 +116,8 @@ Los cargos de los integrantes del Consejos (sic) Ciudadano y los Comités Pro-Ob
 Los ciudadanos integrantes del Consejo Ciudadano y los Comités Pro-Obras, permanecerán en su encargo, hasta que el R. Ayuntamiento realice nuevo nombramiento.
 
 Sin perjuicio de lo anterior, los ciudadanos que integren el Consejo y los Comités Pro-Obras, continuarán con sus actividades encomendadas, hasta en tanto tomen la protesta correspondiente los nuevos integrantes, siempre y cuando aquellos no hubieren sido removidos. Pudiendo los consejeros ciudadanos ser ratificados en su encargo, hasta por un periodo no mayor de tres años, sin la posibilidad de continuar en el cargo por más de seis años.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE MARZO DE 2010)</small>
 
 El Consejo Ciudadano, deberá ser instalado antes del mes de abril del primer año de la gestión pública municipal que corresponda.
 
@@ -279,7 +281,9 @@ IV. Proponer al R. Ayuntamiento para su aprobación los proyectos de obra priori
 
 V. Emitir la convocatoria en coordinación con las dependencias municipales que correspondan, para la integración del Comité Pro-obra de la colonia o zona, donde se vaya a realizar la obra pública. Indicando el día, hora y lugar en que se llevará a cabo, el cual deberá realizarse en sitio público de la colonia o zona donde se llevará a cabo el concurso, licitación de la obra pública de beneficio común en su etapa económica, e indicando los requisitos para ser miembro del Comité Pro-obra, que serán los mismos que exigen para ser Consejero Ciudadano;
 
-VI. La aprobación del programa de proyectos de obras para el ejercicio anual correspondiente a ejecutar por el Gobierno Municipal;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2010)</small>
+
+VI. La aprobación del programa de proyectos de obras a realizar con los recursos provenientes del Fondo de Aportaciones para la Infraestructura Social Municipal, para el ejercicio anual correspondiente a ejecutar por el Gobierno Municipal.
 
 VII. Colaborar en todo cuanto sea requerido por las Autoridades federales, estatales o municipales, en los asuntos de su respectiva competencia;
 
@@ -555,7 +559,7 @@ Si finaliza la exposición de un asunto y nadie solicita el uso de la palabra o 
 
 ###### Artículo 54.
 
-La función de supervisión y asesoría del Consejo Ciudadano de Obra Pública estará a cargo de la Dirección de Promoción de Obras o Dependencia similar, adscrita a la Secretaría de Obras Públicas e Ingeniería Vial; (sic)
+La función de supervisión y asesoría del Consejo Ciudadano de Obra Pública estará a cargo de la Dirección de Promoción de Obras o Dependencia similar, adscrita a la Secretaría de Obras Públicas e Ingeniería Vial;
 
 ###### Artículo 55.
 
@@ -583,7 +587,7 @@ X. Recibir preferentemente por escrito los requerimientos de obra pública de lo
 
 XI. Llevar un expediente de cada Consejero Ciudadano de Obra Pública, así como un registro de su participación;
 
-XII. Ordenar las solicitudes y demandas presentadas por lo Comités Pro-obras para presentarlas al Consejo Ciudadano;
+XII. Ordenar las solicitudes y demandas presentadas por lo (sic) Comités Pro-obras para presentarlas al Consejo Ciudadano;
 
 XIII. Vigilar el debido cumplimiento de las disposiciones del presente Reglamento y demás ordenamientos aplicables.
 
@@ -618,3 +622,11 @@ C. LIC. JOSE ABEL FLORES GARCIA
 SECRETARIO DEL R. AYUNTAMIENTO
 
 Dado en el salón de sesiones del R. Ayuntamiento del Municipio de San Nicolás de los Garza, Nuevo León a los 13-trece días del mes de diciembre del 2007-dos mil siete.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MARZO DE 2010.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL REGLAMENTO DEL CONSEJO CIUDADANO DE OBRA PÚBLICA DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN”.]
+
+ÚNICO.- La presente reforma entrará en vigor al momento de su aprobación.
