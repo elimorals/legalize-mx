@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-para-el-ayuntamiento-de-24288
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-22"
-last_updated: "2002-03-22"
+last_updated: "2010-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE RAYONES, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de marzo de 2002.
 
@@ -741,6 +741,10 @@ Los camiones de servicio público estatal de pasajeros deberán circular únicam
 
 ART. 69.- Todos los vehiculo9s (sic) deberán efectuar alto completo cinco metros antes de cruzar las vías de ferrocarril. Antes de iniciar la marcha, deberán cerciorarse de que no se aproxime ningún vehículo que circule sobre rieles, en cuyo caso deberán cederle el paso.
 
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2010)</small>
+
+ART. 69 Bis.- Es infracción circular con vehículos de combustión a través de las aguas del Río Pilón y Río Casillas. La multa a que se hará acreedor el infractor se especificará en la fracción VI del Artículo 89 del Capitulo Decimo Octavo del Reglamento de Transito y Vialidad.
+
 ### CAPITULO DECIMO CUARTO. DE LA CONDUCCIÓN NOCTURNA Y EL USO DE LUCES
 
 ART. 70.- Los conductores de todo tipo de vehículos en movimiento deberán encender las luces de circulación., (sic) las auxiliares y las especiales requeridas de estos a la puesta del sol. También deberán encenderlas cuando las circunstancias les obstruyan o limiten la visibilidad.
@@ -1127,9 +1131,13 @@ L).- Cuando el conductor se encuentre en estado de ebriedad o bajo el influjo de
 
 V.- La licencia de conducir podrá ser retirad (sic) por los elementos de la Dirección de Policía y Transito cuando el conductor infractor sea menor d (sic) edad y en los casos en que proceda la suspensión o cancelación de la licencia de acuerdo con las fracciones II y III en este articulo.
 
-VI.- MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general de la regio (sic), multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2010)</small>
+
+VI.- MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general de la region, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
 > <small>N. DE E. VEASE TABULADOR EN EL P.O. DE 22 DE MARZO DE 2002, PAGINAS DE LA 85 A LA 89.</small>
+
+> <small>N. DE E. REFORMAS AL TABULADOR DE SANCIONES, P.O. 3 DE MARZO DE 2010, PAGINAS DE LA 30 A LA 37.</small>
 
 ART. 90.- Al aplicarse la multa, deberá tomarse en consideración, la naturaleza de la infracción cometida, las causas que la produjeron, la capacidad económica, la condición social, educación y antecedentes del infractor. Si el infractor fuese jornalero, obrero o trabajador la multa no deberá exceder del importe de su jornal o salario de un día.
 
@@ -1208,3 +1216,11 @@ C. Juan Manuel Gallardo Luna
 Secretario del R. Ayuntamiento
 
 Profr. Efraín Palomares Flores
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE MARZO DE 2010.
+
+## Artículo Transitorio
+
+La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y en el tablero de avisos de la presidencia municipal.
