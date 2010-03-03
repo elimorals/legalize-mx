@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-salud-del-estado-de-300
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-05"
-last_updated: "2003-03-05"
+last_updated: "2010-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD, PUBLICADO EN EL P.O. DE 3 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de marzo de 2003.
 
@@ -1158,3 +1160,19 @@ SECRETARIO DE GOBIERNO
 DR. JAIME MIER Y TERÁN SUÁREZ
 
 SECRETARIO DE SALUD
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE MARZO DE 2010.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Salud, publicado en el Suplemento "D" al Periódico Oficial número 6312, de fecha 5 de marzo del 2003 y sus subsecuentes reformas; así como todas las disposiciones contrarias al presente Reglamento.
+
+TERCERO. Los asuntos que con motivo de este Reglamento deban pasar de una unidad administrativa a otra, serán resueltos por la unidad administrativa competente conforme a las disposiciones del presente ordenamiento.
+
+CUARTO. Los Convenios de Subrogación de Servicios que se hayan celebrado con otros organismos del sector público, privado e instituciones de seguridad social, relativos a los servicios que presta el Centro Estatal de Cancerología, seguirán vigentes y no se afectarán por el cambio de este servicio, siendo el órgano desconcentrado a donde se adscribió, quien vigilará su cumplimiento a partir de que entre en vigor este Reglamento.
+
+QUINTO. Las transferencias de los recursos humanos, materiales y financieros que con motivo del presente Reglamento deban hacerse de una unidad administrativa a otra de la propia Secretaría, se sujetarán a las disposiciones aplicables, debiéndose respetar los derechos de los trabajadores.
+
+SEXTO. En tanto no se expidan los manuales que este Reglamento menciona, en caso de duda sobre su interpretación, el Secretario resolverá lo conducente.
