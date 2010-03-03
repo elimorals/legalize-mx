@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2010-02-22"
+last_updated: "2010-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -809,11 +809,11 @@ En los demás casos, el Estado estará representado en la forma que prevea la le
 
 #### SECCION PRIMERA. De la Elección e Instalación de la Legislatura
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 52.
 
-La Legislatura del Estado de Quintana Roo, se integra con quince diputados electos en igual número de distritos electorales según el principio de votación mayoritaria relativa y con diez diputados electos según el principio de representación proporcional. Los diputados serán electos cada tres años por sufragio universal, libre, secreto, directo, personal e intransferible de los ciudadanos quintanarroenses en ejercicio de sus derechos.
+La Legislatura del Estado de Quintana Roo, se integra con quince diputados electos en igual número de distritos electorales según el principio de votación mayoritaria relativa y con diez diputados electos según el principio de representación proporcional. Los diputados serán electos cada tres años por sufragio universal, libre, secreto, directo, personal e intransferible de los ciudadanos quintanarroenses en ejercicio de sus derechos. La Legislatura se instalará el 3 de Septiembre del año que corresponda.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
@@ -897,7 +897,7 @@ III.- Los presidentes municipales o quienes ocupen cualquier cargo municipal, a 
 
 IV.- Los servidores públicos federales que realicen sus funciones en el Estado, a menos que se separen de ellas 90 días antes de la fecha de la elección.
 
-V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos a más tardar 90 días anteriores a la elección, y (sic)
+V.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos a más tardar 90 días anteriores a la elección, y
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
 
@@ -935,11 +935,11 @@ Los diputados que incumplan con las obligaciones contenidas en las fracciones II
 
 #### SECCION SEGUNDA. De las Sesiones
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 61.
 
-La Legislatura tendrá durante el año dos periodos ordinarios de sesiones que comenzarán, el primero, el 17 de septiembre y el segundo, el 26 de marzo. El primero no podrá prolongarse sino hasta el 17 de diciembre y el segundo hasta el 26 de junio.
+La Legislatura tendrá durante el año dos periodos ordinarios de sesiones que comenzarán, el primero, el 5 de septiembre y el segundo, el 15 de febrero. El primero no podrá prolongarse sino hasta el 15 de diciembre y el segundo hasta el 31 de mayo.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
@@ -3414,3 +3414,35 @@ La Legislatura del Estado llevará a cabo la elección del Titular del Órgano d
 ###### ARTÍCULO CUARTO.
 
 Las referencias que en las leyes se hagan al Órgano Superior de Fiscalización del Estado, se entenderán hechas al Órgano de Fiscalización Superior del Estado.
+
+P.O. 3 DE MARZO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo, observando las disposiciones que se prevén en los siguientes artículos transitorios.
+
+###### ARTÍCULO SEGUNDO.
+
+El siguiente periodo ordinario de sesiones de la actual Legislatura iniciará el 15 de marzo de 2010 y concluirá a más tardar el 30 de junio de 2010.
+
+En la propia fecha de apertura del periodo ordinario de sesiones mencionado en el párrafo que antecede, el Titular del Poder Ejecutivo local deberá rendir su quinto informe sobre el estado que guarda la Administración Pública Estatal.
+
+###### ARTÍCULO TERCERO.
+
+La instalación de la XIII Legislatura cuyos integrantes resulten electos el primer domingo de julio del presente año, se realizará en los términos previstos en el inciso a) del artículo segundo transitorio del Decreto 100 expedido por la XII Legislatura Constitucional del Estado Libre y Soberano de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo el día 3 de marzo del año 2009.
+
+El periodo ordinario de sesiones que tenga lugar posterior a la instalación referida en el párrafo que antecede, comenzará el 26 de marzo de 2011 y concluirá a más tardar el 26 de junio de 2011.
+
+La referencia para efecto de denominación prevista en el inciso b), del artículo noveno transitorio del Decreto 100 aludido en el primer párrafo de la presente disposición transitoria, se entenderá para el periodo ordinario de sesiones que comenzará el 5 de septiembre de 2011, mismo que concluirá a más tardar el 15 de diciembre de 2011.
+
+La referencia para efecto de denominación prevista en el inciso c), del artículo noveno transitorio del Decreto 100 aludido en el primer párrafo de la presente disposición transitoria, se entenderá para el periodo ordinario de sesiones que comenzará el 15 de febrero de 2012, mismo que concluirá a más tardar el 31 de mayo de 2012.
+
+La referencia para efecto de denominación prevista en el inciso d), del artículo noveno transitorio del Decreto 100 aludido en el primer párrafo de la presente disposición transitoria, se entenderá para el periodo ordinario de sesiones que comenzará el 5 de septiembre de 2012, mismo que concluirá a más tardar el 15 de diciembre de 2012.
+
+La referencia para efecto de denominación prevista en el inciso e), del artículo noveno transitorio del Decreto 100 aludido en el primer párrafo de la presente disposición transitoria, se entenderá para el periodo ordinario de sesiones que comenzará el 15 de febrero de 2013, mismo que concluirá a más tardar el 31 de mayo de 2013.
+
+###### ARTÍCULO CUARTO.
+
+La instalación de la XIV Legislatura cuyos integrantes resulten electos el primer domingo de julio del año 2013, se llevará a cabo el 14 de septiembre del año 2013.
+
+El primer periodo ordinario de sesiones de la Legislatura referida en el párrafo que antecede iniciará el 17 de septiembre del año 2013 y concluirá a más tardar el 17 de diciembre del año 2013.
