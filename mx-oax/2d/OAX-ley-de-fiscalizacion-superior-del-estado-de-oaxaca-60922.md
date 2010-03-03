@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-del-estado-de-oaxaca-60922"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-23"
-last_updated: "2008-04-23"
+last_updated: "2010-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2010.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 23 de abril de 2008.
 
@@ -765,7 +765,9 @@ XIII. Formular y entregar por conducto de la Comisión, los informes de Resultad
 
 XIV. Presentar denuncias y querellas en los términos de la legislación penal, en los casos de presuntas conductas delictivas de servidores públicos y en contra de particulares, cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con daños al Estado o Municipios en sus haciendas públicas, o al patrimonio de las entidades fiscalizables, así como denuncias de juicio político; de conformidad con lo señalado en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
-XV. Celebrar convenios de coordinación o colaboración con la Federación, los Poderes del Estado y los gobiernos municipales, así como con organismos que agrupen a entidades de fiscalización superior homólogas, con éstas directamente o con el sector privado, previa autorización del Congreso;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2010)</small>
+
+XV. Celebrar convenios de coordinación o colaboración con la Federación, los Poderes del Estado y los gobiernos municipales, así como con organismos que agrupen a entidades de fiscalización superior homólogas, con éstas directamente o con el sector privado, informando al Congreso del Estado;
 
 XVI. Dar cuenta comprobada al Congreso de la aplicación de su presupuesto aprobado, en el mes de enero posterior a la conclusión de su ejercicio, por conducto de la Comisión;
 
@@ -990,3 +992,9 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ING. TEOFILO MANUEL GARCÍA CORPUS.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE MARZO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
