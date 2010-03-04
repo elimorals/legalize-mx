@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ciencia-tecnologia-e-innovacion-para-el-estado-de-61073"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-12"
-last_updated: "2008-04-12"
+last_updated: "2010-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CIENCIA Y TECNOLOGIA PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de abril de 2008.
 
@@ -139,21 +139,27 @@ XIX. Toda opinión, propuesta o sugerencia que emita la sociedad durante los pro
 
 ### CAPÍTULO PRIMERO. DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
+
 ###### ARTÍCULO 6.
 
-El COCyT es un órgano desconcentrado de la Secretaría de Economía del Gobierno del Estado de Oaxaca, con autonomía técnica y de gestión.
+El COCyT es un organismo público descentralizado del Poder Ejecutivo del Estado, y sectorizado a la Secretaría de Economía, con personalidad jurídica, patrimonio propio y que goza de autonomía técnica y administrativa, con domicilio legal en la Ciudad de Oaxaca de Juárez.
 
 ###### ARTÍCULO 7.
 
 El COCyT estará integrado de la siguiente manera:
 
-I. Por un Presidente que será el Titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2010)</small>
 
-II. Por un Secretario Ejecutivo, que será designado por el Presidente del COCyT, que deberá ser un profesional de reconocido prestigio en materia de investigación científica y/o tecnológica;
+I. Un Presidente que será el Titular de la Secretaría de Economía;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2010)</small>
+
+II. Un Secretario Ejecutivo, quien también fungirá como Director General del Consejo;
 
 III. Secretario de Finanzas, Vocal;
 
-IV. Secretario de Economía, Vocal;
+IV. (DEROGADA, P.O. 4 DE MARZO DE 2010)
 
 V. Secretario de Desarrollo Rural, Vocal;
 
@@ -229,29 +235,77 @@ XXII. Elaborar y aprobar los reglamentos para el otorgamiento de apoyos, estímu
 
 XXIII. Fomentar programas de movilidad de profesores, investigadores y técnicos estatales, nacionales y extranjeros, dentro de aquellos considerados prioritarios en el Programa;
 
-XXIV. Elaborar y aprobar el proyecto de reglamento que regule su funcionamiento y operación;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2010)</small>
+
+XXIV. Aprobar el proyecto de reglamento que regule su funcionamiento y operación;
 
 XXV. Establecer las condiciones necesarias y suficientes para la permanencia en el Estado del capital humano formado con los recursos económicos del COCyT;
 
-XXVI. Promover incentivos fiscales y/o económicos que faciliten la vinculación entre los diversos sectores productivos con las instituciones de educación superior del Estado, con el fin de propiciar la investigación y el desarrollo tecnológico, así como la transferencia de tecnología; y
+XXVI. Promover incentivos fiscales y/o económicos que faciliten la vinculación entre los diversos sectores productivos con las instituciones de educación superior del Estado, con el fin de propiciar la investigación y el desarrollo tecnológico, así como la transferencia de tecnología; y (sic)
 
-XXVII. Las demás que establezca su propia normatividad reglamentaria.
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2010)</small>
+
+XXVII. Elaborar un programa de difusión y divulgación de la ciencia y la tecnología en el Estado, así como apoyar y fomentar la creación de publicaciones en esta materia;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2010)</small>
+
+XXVIII. Convocar a los sectores académico, productivo y social del Estado, a presentar programas y proyectos de investigación, desarrollo tecnológico e innovación; y
+
+XIX. Las demás que establezca su propia normatividad reglamentaria.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 9.
 
-El Titular del Poder Ejecutivo del Estado nombrará y removerá al Secretario Ejecutivo del COCyT, en quien recae la representación general y legal; y demás funciones que determine el reglamento.
+El Director General del COCyT será nombrado y removido en cualquier tiempo por el Titular del Poder Ejecutivo del Estado, debiendo ser un profesional de reconocido prestigio en materia de investigación científica y/o tecnológica y tendrá las siguientes atribuciones:
+
+I. Administrar las funciones y los bienes del COCyT;
+
+II. Ser el representante general y legal del COCyT;
+
+III. Dar cumplimiento a las disposiciones del COCyT y ejecutar sus acuerdos;
+
+IV. Elaborar diagnósticos acerca de las demandas estatales en materia de desarrollo científico y de innovación y modernización tecnológica;
+
+V. Formular el proyecto Institucional del Programa Estatal de Ciencia y Tecnología y presentarlo al COCyT para su aprobación;
+
+VI. Integrar el anteproyecto de presupuesto anual de ingresos y egresos y el programa operativo anual del organismo y presentarlo para su aprobación al COCyT;
+
+VII. Proponer los proyectos de reglamentos, manuales de organización, de procedimientos y de servicios para su aprobación, en su caso, por el COCyT;
+
+VIII. Administrar el Servicio de Información y Documentación Científica y Tecnológica, en el que se incluya el Registro Estatal de Ciencia y Tecnología;
+
+IX. Administrar y asegurar el uso adecuado de los recursos humanos, materiales y financieros del COCyT;
+
+X. Enterar los recursos asignados a los programas y proyectos aprobados por el COCyT;
+
+XI. Celebrar, por acuerdo del COCyT, los convenios y contratos necesarios para el cumplimiento de las disposiciones de esta Ley y de las funciones del Consejo;
+
+XII. Establecer sistemas de administración y de control para el óptimo aprovechamiento de los recursos humanos, materiales, financieros y técnicos del COCyT;
+
+XIII. Presentar un informe anual al COCyT, acerca del estado que guarda la administración del Consejo, así como los informes que deba rendir de conformidad con la normatividad aplicable;
+
+XIV. Proporcionar la información y dar acceso a la documentación que le soliciten las Dependencias del Estado, así como dar cumplimiento a la Ley de Transparencia y Acceso a la Información Pública del Estado de Oaxaca; y
+
+XV. Las demás que le señalen las disposiciones legales aplicables, la presente Ley y el Reglamento Interior del COCyT.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 10.
 
-Los cargos de los integrantes del COCyT son honoríficos, sin percibir remuneración alguna, con excepción del Secretario Ejecutivo, que será un cargo de tiempo completo.
+Con excepción del Director General y los servidores públicos necesarios para la operación del consejo, los cargos de los integrantes del mismo son honoríficos.
+
+Todos los servidores públicos que integren la planta del COCyT, son trabajadores de confianza. Las relaciones laborales generadas entre el Consejo y su personal, se regirán por lo dispuesto en la Ley del Servicio Civil para los Empleados del Gobierno del Estado.
 
 ###### ARTÍCULO 11.
 
 Por cada miembro titular del COCyT habrá un suplente, mismo que será designado por el titular mediante oficio dirigido al Presidente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2010)</small>
+
 ###### ARTÍCULO 12.
 
-Las sesiones del COCyT serán ordinarias y extraordinarias. Las primeras se celebrarán por lo menos tres veces al año preferentemente una en cada cuatrimestre y las segundas cuando las necesidades de toma de decisiones así lo requieran. El Presidente, por intermedio del Secretario Ejecutivo convocará a las sesiones y se encargará de llevar cuenta de los asuntos que se acuerden y la documentación que se genere.
+Las sesiones del COCyT serán ordinarias y extraordinarias. Las primeras se celebrarán por lo menos dos veces al año preferentemente una en cada semestre y las segundas cuando las necesidades de toma de decisiones así lo requieran. El Presidente, por intermedio del Director General convocará a las sesiones y se encargará de llevar cuenta de los asuntos que se acuerden y la documentación que se genere.
 
 El COCyT sesionará validamente con la asistencia de, por lo menos, la mitad más uno de sus miembros. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
 
@@ -279,7 +333,9 @@ El Ejecutivo del Estado aportará recursos destinados a financiar la realizació
 
 Para los efectos de financiamiento de las actividades científicas y tecnológicas a las que se refiere la presente Ley, podrán crearse fondos de ciencia y tecnología, debiendo precisar el instrumento jurídico que los constituya, tales como fideicomisos, convenios de coordinación o concertación, y cualquier figura prevista en otras disposiciones jurídicas aplicables; también se deberán precisar las reglas de su operación.
 
-El titular del Poder Ejecutivo del Estado dispondrá la inclusión del Secretario Ejecutivo del COCyT como Secretario Administrativo, Técnico o figura equivalente, en los fideicomisos u otros instrumentos jurídicos que se instituyan con relación al financiamiento de la ciencia y la tecnología.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
+
+El titular del Poder Ejecutivo del Estado dispondrá la inclusión del Director General del COCyT como Secretario Administrativo, o figura equivalente, en los fideicomisos u otros instrumentos jurídicos que se instituyan con relación al financiamiento de la ciencia y la tecnología.
 
 ###### ARTÍCULO 17.
 
@@ -413,9 +469,11 @@ VIII. Publicaciones y eventos; y
 
 IX. Financiamiento.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
+
 ###### ARTÍCULO 31.
 
-El COCyT será el encargado de operar el RECyT y vigilar su funcionamiento, a través de la Secretaría Ejecutiva, auxiliado por un comité de expertos en la materia, garantizando que en el proceso de su integración se apliquen los principios de transparencia, legalidad y equidad.
+El COCyT será el encargado de operar el RECyT y vigilar su funcionamiento, a través de la Dirección General, auxiliado por un comité de expertos en la materia, garantizando que en el proceso de su integración se apliquen los principios de transparencia, legalidad y equidad.
 
 ###### ARTÍCULO 32.
 
@@ -433,9 +491,11 @@ Estos registros deberán publicarse una vez aprobados por el COCyT, quien tomar�
 
 ### CAPÍTULO TERCERO. DEL SERVICIO DE INFORMACIÓN Y DOCUMENTACIÓN CIENTÍFICA Y TECNOLÓGICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 2010)</small>
+
 ###### ARTÍCULO 33.
 
-Se instituye el Servicio de Información y Documentación Científica y Tecnológica a cargo del COCyT, quien lo administrará a través de la Secretaría Ejecutiva y lo mantendrá actualizado.
+Se instituye el Servicio de Información y Documentación Científica y Tecnológica a cargo del COCyT, quien lo administrará a través de la Dirección General y lo mantendrá actualizado.
 
 El Sistema será accesible al público, excepto los derechos de propiedad industrial e intelectual y los criterios de confidencialidad que al efecto se establezcan.
 
@@ -658,3 +718,9 @@ Oaxaca de Juárez, Oax., a 27 de marzo del 2008
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. TEOFILO MANUEL GARCÍA CORPUS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE MARZO DE 2010.
+
+ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
