@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2010-01-10"
+last_updated: "2010-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MARZO DE 2010.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -793,7 +793,7 @@ Cuando un proyecto de ley o decreto sea devuelto a la Legislatura con observacio
 
 #### SECCION SEGUNDA. De las Facultades y Obligaciones de la Legislatura
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 61.
 
@@ -825,19 +825,19 @@ XII. Convocar a elecciones ordinarias o extraordinarias de Gobernador, diputados
 
 Para el caso de elecciones ordinarias de Gobernador la convocatoria deberá expedirse por lo menos 100 días antes de la fecha de elección y para las de diputados y miembros de los ayuntamientos 80 días antes;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 1998)</small>
 
 XIII. Designar a los funcionarios electorales cuyo nombramiento le reserve ésta constitución;
 
 XIV. Constituirse en Colegio Electoral para designar Gobernador interino o sustituto, en los casos que determine la presente Constitución;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE MARZO DE 2010)</small>
 
-XV. Aprobar los nombramientos de magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo que haga el Gobernador, dentro de los 10 días hábiles siguientes a la fecha de los nombramientos. Si éstos transcurren sin que la Legislatura hubiera resuelto, se entenderán aprobados.
+XV. Aprobar los nombramientos de magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo que hagan el Consejo de la Judicatura y el Gobernador, respectivamente, dentro de los 10 días hábiles siguientes a la fecha de los nombramientos. Si éstos transcurren sin que la Legislatura hubiera resuelto, se entenderán aprobados.
 
-> <small>(REFORMADO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, G.G. 4 DE MARZO DE 2010)</small>
 
-En caso de negativa, el Gobernador, podrá formular una segunda propuesta diversa, y si tampoco es aprobada, el Gobernador quedará facultado para hacer un tercer nombramiento, que surtirá efectos desde luego.
+En caso de negativa, el Consejo o el Gobernador, según corresponda, podrán formular una segunda propuesta diversa, y si tampoco es aprobada, el Consejo o el Gobernador quedarán facultados para hacer un tercer nombramiento, que surtirá efectos desde luego.
 
 Durante los recesos de la Legislatura, los nombramientos a que se refiere este precepto podrán ser aprobados por la Diputación Permanente;
 
@@ -845,7 +845,7 @@ XVI. Nombrar a los miembros de los ayuntamientos cuya designación le correspond
 
 XVII. Resolver sobre las licencias temporales o absolutas de sus miembros, del Gobernador, de los magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, cuando las ausencias excedan del término que establezcan las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 2 DE OCTUBRE DE 1998)</small>
 
 Para los efectos de esta fracción, se consideran temporales las ausencias que excedan de 15, pero no de 60 días. La Legislatura calificará cuando existan los motivos fundados que justifiquen una licencia temporal por un período mayor y que podrá extenderse por el tiempo que dure la causa que la motivó;
 
@@ -857,7 +857,7 @@ XIX. Recibir el aviso del Ejecutivo del Estado, cuando salga al extranjero en mi
 
 XX. Nombrar y remover al personal del Poder Legislativo y de sus dependencias en los términos de la Legislación respectiva;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE AGOSTO DE 2004)</small>
 
 XXI. Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo del Estado, del Tribunal Estatal Electoral, del Auditor Superior de Fiscalización y del Presidente y miembros del Consejo de la Comisión de Derechos Humanos;
 
@@ -883,17 +883,17 @@ XXV. Fijar los límites de los municipios del Estado y resolver las diferencias 
 
 XXVI. Crear y suprimir municipios, tomando en cuenta criterios de orden demográfico, político, social y económico;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XXVII. Legislar en materia municipal, considerando en todos los casos el desarrollo del Municipio, como ámbito de gobierno más inmediato a los habitantes de la Entidad, conforme lo dispuesto por el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos aplicables;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XXVIII. Declarar por acuerdo de las dos terceras partes de sus integrantes, la suspensión de ayuntamientos y que éstos han desaparecido; suspender o revocar el mandato de alguno o algunos de sus miembros por cualesquiera de las causas graves que la ley prevenga, siempre y cuando se haya sustanciado el procedimiento correspondiente en el que éstos hayan tenido conocimiento de las conductas y hechos que se les imputan y oportunidad para rendir las pruebas y formular los alegatos que a su juicio convengan.
 
 La Legislatura hará del conocimiento del Ejecutivo dentro de los cinco días siguientes a la resolución, cuando suspenda o declare desaparecido un ayuntamiento, para que dicte las medidas necesarias que procedan para asegurar la vigencia del orden jurídico y la paz social;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XXIX. Designar, de entre los vecinos del municipio que corresponda, a propuesta en terna del Gobernador del Estado:
 
@@ -907,7 +907,7 @@ C). A los miembros sustitutos de los ayuntamientos para cubrir las faltas absolu
 
 Los integrantes de los concejos municipales y de los ayuntamientos provisionales, así como los miembros sustitutos de los ayuntamientos, deberán cumplir los requisitos de elegibilidad establecidos para los miembros de los ayuntamientos;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE AGOSTO DE 2004)</small>
 
 XXX. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal a iniciativa del Ejecutivo, tanto la Ley de Ingresos del Estado, que establezca las contribuciones de los habitantes como el presupuesto de egresos que distribuya el gasto público y disponer las medidas apropiadas para vigilar su correcta aplicación.
 
@@ -927,7 +927,7 @@ La retribución estará sujeta a las modificaciones que, en su caso, sean conven
 
 La Legislatura aprobará proyectos para la prestación de servicios conforme a la ley de la materia y las asignaciones presupuestales que cubran los gastos correspondientes a dichos proyectos durante los ejercicios fiscales en que estén vigentes los mismos. Asimismo, aprobará las adjudicaciones directas de dichos proyectos, conforme a las excepciones previstas por la legislación aplicable.
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
 XXXI. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal, la Ley de Ingresos de los Municipios, cuya iniciativa será turnada por el Ejecutivo del Estado.
 
@@ -935,27 +935,27 @@ XXXI. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mi
 
 XXXII. Recibir, revisar y fiscalizar las cuentas públicas del Estado y de los Municipios, del año anterior, mismas que incluirán, en su caso, la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios. Para tal efecto, contará con un Órgano Superior de Fiscalización, dotado de autonomía técnica y de gestión.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
 
 El Auditor Superior de Fiscalización será designado y removido por el voto de las dos terceras partes de los integrantes de la Legislatura, a propuesta de la Junta de Coordinación Política.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
 
 El Auditor Superior de Fiscalización durará en su encargo 4 años, pudiendo ser ratificado hasta por 4 años más, por el voto de las dos terceras partes de los integrantes de la Legislatura.
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
 XXXIII. Revisar, por conducto del Órgano Superior de Fiscalización del Estado de México, las cuentas y actos relativos a la aplicación de los fondos públicos del Estado y de los Municipios, así como fondos públicos federales en los términos convenidos con dicho ámbito que incluirán la información correspondiente a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
 XXXIV. Fiscalizar la administración de los ingresos y egresos del Estado y de los Municipios, que incluyen a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios, a través del Órgano Superior de Fiscalización.
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
 XXXV. Determinar por conducto del Órgano Superior de Fiscalización, los daños y perjuicios que afecten a la hacienda pública del Estado y de los Municipios, incluyendo a los Poderes Públicos, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios, asimismo a través del propio Órgano fincar las responsabilidades resarcitorias que correspondan y promover en términos de ley, la imposición de otras responsabilidades y sanciones ante las autoridades competentes.
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XXXVI. Autorizar los actos jurídicos que impliquen la transmisión del dominio de los bienes inmuebles propiedad del Estado y de los municipios; establecer los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal; o para celebrar actos o convenios que trasciendan al período del Ayuntamiento;
 
@@ -971,7 +971,7 @@ XLI. Crear organismos descentralizados;
 
 XLII. Conceder premios y recompensas por servicios eminentes e importantes prestados a la humanidad, al Estado o a la comunidad; y
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2003)</small>
 
 XLIII. Aprobar el que uno o más municipios del Estado:
 
@@ -979,15 +979,15 @@ a) Previo acuerdo entre sus ayuntamientos, se coordinen y asocien con uno o más
 
 b) Mediante la declaratoria correspondiente integren con el Gobierno del Estado, zonas metropolitanas para la coordinación de los planes, programas y acciones, de estos entre sí o del Estado y sus municipios con planes federales o de entidades federativas colindantes; para lo cual asignará los presupuestos respectivos.
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XLIV. Expedir las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III, IV y V del artículo 115 de la Constitución Federal así como el segundo párrafo de la fracción VII del artículo 116 de esa Constitución;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XLV. Expedir las normas que regulen el procedimiento y condiciones para que el Gobierno del Estado asuma una función o servicio público municipal, cuando al no existir el convenio correspondiente, la Legislatura considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
 
 XLVI. Expedir las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
 
@@ -1189,9 +1189,9 @@ X. Cuidar de la instrucción de la Guardia Nacional en el Estado, conforme a las
 
 XI. Objetar por una sola vez, en el improrrogable término de 10 días hábiles, las leyes y decretos aprobados por la Legislatura; si ésta después de haberlos discutido nuevamente los ratifica, serán promulgados;
 
-> <small>(REFORMADA, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, G.G. 4 DE MARZO DE 2010)</small>
 
-XII. Nombrar a los magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Superior de Justicia, éstos últimos previa propuesta del Consejo de la Judicatura conforme a las disposiciones de la ley de la materia, sometiendo los nombramientos a la aprobación de la Legislatura o de la Diputación Permanente, en su caso;
+XII. Nombrar a los magistrados del Tribunal de lo Contencioso Administrativo del Estado, sometiendo los nombramientos a la aprobación de la Legislatura o de la Diputación Permanente, en su caso;
 
 XIII. Aceptar las renuncias de los Magistrados del Tribunal de lo Contencioso Administrativo, sometiéndolas a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, así como acordar las licencias de esos funcionarios cuando éstas excedan de tres meses, sometiéndolas a la aprobación del Cuerpo Legislativo;
 
@@ -3100,3 +3100,11 @@ Se derogan las disposiciones de igual o menor jerarquía que se opongan al prese
 ###### ARTÍCULO SÉPTIMO.
 
 Dentro del plazo de 90 días naturales posteriores al de la entrada en vigor del presente Decreto, el Consejo de la Judicatura del Estado de México, deberá adecuar las disposiciones reglamentarias a que haya lugar.
+
+G.G. 4 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
