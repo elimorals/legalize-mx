@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-finanzas-del-54817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-06"
-last_updated: "2007-03-06"
+last_updated: "2010-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LE PERIODICO OFICIAL: 4 DE MARZO DE 2010.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 6 de marzo de 2007.
 
@@ -403,7 +403,7 @@ III. Departamento de Supervisión y Estudios.
 
 A la Dirección General de Ingresos, le corresponde originariamente el trámite y resolución de los asuntos competencia de sus direcciones de área, coordinaciones, unidades departamentales, así como el despacho de los siguientes asuntos:
 
-I. Ejercer las facultades del Secretario, en ausencia de éste, como encargado del despacho, con excepción de aquéllas en que las disposiciones legales y reglamentarias establezcan que compete ejercer directamente al Secretario, coordinando las actividades de las demás Unidades Administrativas de la Secretaría;
+I. (DEROGADA, P.O. 4 DE MARZO DE 2010)
 
 II. Establecer las políticas y programas que deban seguir las Direcciones de Área, Coordinaciones, Unidades Departamentales y Oficinas de Recaudación Fiscal que le sean adscritas, en las materias de su competencia;
 
@@ -1153,7 +1153,7 @@ IX. En general, atender los asuntos que le señalen la legislación, reglamentos
 
 Compete a la Dirección General de Egresos, en apego a las disposiciones legales, reglamentarias, así como los instrumentos jurídicos en vigor y aplicables, el despacho de los siguientes asuntos:
 
-I. Ejercer las facultades del Secretario en ausencia de éste y del Director General de Ingresos, como encargado del despacho, coordinando las actividades de las demás Unidades Administrativas de la Secretaria, con excepción de las que en el presente reglamento y demás disposiciones legales, se establece que sólo podrán ser ejercidas directamente por el Secretario;
+I. (DEROGADA, P.O. 4 DE MARZO DE 2010)
 
 II. Realizar las inversiones financieras necesarias de los recursos del Estado, de conformidad con las políticas que al efecto emita el Titular del Ejecutivo;
 
@@ -1841,13 +1841,19 @@ III. Las dirigidas recíprocamente entre las Unidades Administrativas, Direccion
 
 ### CAPÍTULO IX. De la Suplencia y Delegación de Facultades del Secretario
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
+
 ###### Artículo 57.
 
-Para la mejor organización del trabajo, el Secretario podrá, sin perjuicio de su ejercicio directo, delegar en los titulares de las Unidades Administrativas y Direcciones de Área, previo acuerdo por escrito, cualquiera de sus facultades, salvo aquellas que las leyes y el presente reglamento dispongan que deban ser directamente ejercidas por él.
+Durante las ausencias temporales del titular de la Secretaría, el despacho y la resolución de los asuntos correspondientes al mismo quedarán a cargo del Director General de Egresos y, en ausencia de éste, por el Director General de Ingresos.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
 
 ###### Artículo 58.
 
-Los titulares de las Unidades Administrativas podrán delegar en sus subalternos, mediante acuerdo expreso, cualquiera de sus facultades, salvo aquellas que las leyes y el presente reglamento dispongan que deban ser directamente ejercidas por ellos.
+El Secretario podrá delegar en los titulares de las unidades administrativas, previo acuerdo escrito, cualquiera de sus facultades, salvo aquellas que las leyes y el presente reglamento dispongan que deban ser directamente ejercidas por él.
+
+Los titulares de las unidades administrativas podrán delegar en sus subalternos, mediante acuerdo expreso, cualquiera de sus facultades, salvo aquellas que las leyes y el presente reglamento dispongan que deban ser directamente ejercidas por ellos.
 
 ###### Artículo 59.
 
@@ -1896,3 +1902,9 @@ LIC. IGNACIO NOVOA LÓPEZ
 Secretario de Finanzas
 
 (RÚBRICA)
+
+A CONTINUACION SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+P.O. 4 DE MARZO DE 2010.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
