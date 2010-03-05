@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-adquisiciones-arrendamientos-y-contratacion-33443
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-08"
-last_updated: "2008-07-11"
+last_updated: "2010-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE MEXICALI BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de agosto de 2003.
 
@@ -57,7 +57,9 @@ III. Las empresas en las cuales tenga participación el Gobierno Municipal, así
 
 Para los efectos de este Reglamento se entiende por:
 
-I. Adquisiciones: La compra de materiales, materia prima, bienes muebles e inmuebles;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2010)</small>
+
+l. Adquisiciones: La compra de materiales, materia prima, o bienes muebles;
 
 II. Arrendamiento: Alquilar, ceder o adquirir temporalmente el aprovechamiento de bienes o servicios mediante el pago de una renta;
 
@@ -1032,3 +1034,7 @@ SEGUNDO.- Las adquisiciones de bienes iniciadas con anterioridad a la vigencia d
 P.O. 11 DE JULIO DE 2008.
 
 Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE MARZO DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor al dia siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
