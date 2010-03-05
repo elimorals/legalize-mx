@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2010-02-26"
+last_updated: "2010-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -903,7 +903,7 @@ Los Diputados en ejercicio no podrán desempeñar ningún empleo, cargo o comisi
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
 
-ARTICULO. 51.- El Congreso del Estado tendrá cada año tres Períodos Ordinarios de Sesiones, el primero iniciará el 25 de septiembre y concluirá a más tardar el 31 de diciembre, el segundo comenzará el 15 de febrero y concluirá a más tardar el 31 de mayo, y el tercero comenzará el 1º de agosto y concluirá a más tardar el 31 de agosto.
+ARTICULO. 51.- El Congreso del Estado tendrá cada año tres Periodos Ordinarios de Sesiones, el primero iniciará el 25 de septiembre y concluirá a más tardar el 31 de diciembre, el segundo comenzará el 15 de febrero y concluirá a más tardar el 31 de mayo, y el tercero comenzará el 1º de agosto y concluirá a más tardar el 31 de agosto.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1098,6 +1098,10 @@ XIII.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Est
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
 
 En el supuesto de que al iniciarse el año fiscal correspondiente, el Congreso del Estado no hubiese aprobado la Ley de Ingresos o la Ley del Presupuesto General de Egresos, en tanto sean expedidas el Congreso no podrá ocuparse de ninguna otra Ley, mientras tanto se aplicará la vigente en el año inmediato anterior; en tal caso, se estará a lo establecido por la Ley Reglamentaria;
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
+
+Los poderes del Estado así como los organismos autónomos que la Constitución o las leyes del Estado reconozcan como tales y las entidades de la administración pública estatal, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.
 
 XIV.- Autorizar al Ejecutivo del Estado y a los Ayuntamientos para que contraten empréstitos para la ejecución de obras de utilidad pública, designando los recursos con que deben cubrirse y de acuerdo con la Ley de Deuda Pública. Dicha autorización no será necesaria cuando los créditos se contraten como consecuencia de una calamidad general;
 
@@ -1327,7 +1331,7 @@ III.- Los integrantes de los Organismos Electorales en los términos que señale
 
 El Gobernador del Estado, cuyo origen sea el de elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de Interino, Provisional, Sustituto o Encargado del Despacho.
 
-No podrán ser electos para el período inmediato el Gobernador Sustituto, el Interino, el Provisional o el ciudadano que por Ministerio de Ley y bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años (sic) período.
+No podrán ser electos para el período inmediato el Gobernador Sustituto, el Interino, el Provisional o el ciudadano que por Ministerio de Ley y bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años de (sic) período.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1406,6 +1410,10 @@ VI.- Presentar al Congreso del Estado las iniciativas de Ley del Presupuesto Gen
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
 La iniciativa de Ley del Presupuesto General de Egresos del Estado deberá contener las erogaciones plurianuales para aquellos proyectos de inversión pública que se determinen conforme a lo dispuesto en la Ley;
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
+
+La iniciativa de Ley del Presupuesto General de Egresos del Estado deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.
 
 VII.- Vigilar que la recaudación y distribución de los Fondos Públicos se sujeten en todo a la Ley;
 
@@ -1761,7 +1769,9 @@ XV.- Expedir su reglamento interno remitiéndolo al periódico oficial del Gobie
 
 XVI.- Expedir los manuales de organización y procedimientos de los juzgados;
 
-XVII.- Formular el anteproyecto del presupuesto de egresos y someterlo a la aprobación del Pleno del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2010)</small>
+
+XVII.- Formular el anteproyecto del presupuesto de egresos y someterlo a la aprobación del Pleno del Supremo Tribunal de Justicia, asimismo deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos;
 
 XVIII.- Ejercer el presupuesto de egresos y el fondo auxiliar para la impartición de justicia, con transparencia, eficacia, honradez y con estricto apego a las políticas de disciplina, racionalidad y austeridad;
 
@@ -2241,7 +2251,11 @@ En dicho Presupuesto, se deberán autorizar las erogaciones plurianuales para aq
 
 En caso de que al iniciarse el año fiscal correspondiente, el Ayuntamiento no hubiese aprobado el Presupuesto de Egresos, en tanto sea aprobado, en lo conducente se continuará aplicando el vigente en el año inmediato anterior.
 
-Asimismo, presentar al Congreso del Estado, la cuenta pública del Municipio, en el plazo, forma y términos que establezca la Ley;
+Asimismo, presentar al Congreso del Estado, la cuenta pública del Municipio, en el plazo, forma y términos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
+
+La administración municipal centralizada y paramunicipal, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a lo dispuesto por el artículo 134 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2488,6 +2502,24 @@ Si el Senado de la República, en ejercicio de sus atribuciones constitucionales
 No podrá hacerse pago alguno que no esté comprendido en el Presupuesto o en Ley posterior.
 
 El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que está establecido por la Ley; y en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalado la que hubiere tenido fijada en el presupuesto anterior, o en la Ley que estableció el empleo.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
+
+Dicha remuneración deberá ser equitativa a sus responsabilidades y será determinada anualmente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I.- Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II.- Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente. Lo mismo deberá ser observado cuando se trate del Presidente Municipal en el ámbito de su competencia.
+
+III.- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos en los términos del artículo 131 de esta Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función.
+
+En ningún caso el excedente a que se refiere el párrafo anterior podrá ser superior a la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente.
+
+IV.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+V.- Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+VI.- El Congreso del Estado y los Ayuntamientos en el ámbito de sus competencias, expedirán las leyes o reglamentos para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -3250,3 +3282,19 @@ Asimismo, en tanto se precisan en la ley los delitos graves por los que podrá o
 Artículo Cuarto. El nuevo sistema de reinserción previsto en el párrafo segundo del artículo 8 de esta Constitución, así como el régimen, de modificación y duración de penas, establecido en el párrafo cuarto del artículo 8 de esta Constitución, entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin que pueda exceder del diecinueve de junio de dos mil once.
 
 Artículo Quinto. El Congreso del Estado deberá aprobar y destinar los recursos necesarios para la reforma del sistema de justicia penal y de seguridad pública del Estado, a través de las erogaciones plurianuales que deberán señalarse en forma expresa en el presupuesto general de egresos del estado del ejercicio presupuestal inmediato siguiente a la entrada en vigor del presente decreto y en los subsecuentes presupuestos de egresos. Estas erogaciones plurianuales deberán aplicarse al diseño de las reformas legales, los cambios organizacionales, la construcción y operación de la infraestructura y la capacitación necesarias.
+
+P.O. 5 DE MARZO DE 2010.
+
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+Artículo Tercero. A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto, las percepciones de los magistrados, consejeros y los jueces del Poder Judicial del Estado, los magistrados del Tribunal Electoral del Estado de Guanajuato, los integrantes del Consejo General del Instituto Electoral del Estado de Guanajuato, los magistrados del Tribunal Contencioso Administrativo del Estado de Guanajuato y los titulares de los organismos autónomos que esta Constitución y las leyes reconocen como tales, así como los Ayuntamientos y los titulares de las dependencias de la administración centralizada y de las entidades paramunicipales, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en el artículo 134 fracción II de esta Constitución se mantendrán durante el tiempo que dure su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en el artículo 134 fracción II de esta Constitución.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+
+Artículo Cuarto. Los Poderes del Estado y los Ayuntamientos en el ámbito de su competencia, deberán expedir o adecuar la legislación o disposiciones administrativas, según corresponda, de conformidad con los términos del presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
