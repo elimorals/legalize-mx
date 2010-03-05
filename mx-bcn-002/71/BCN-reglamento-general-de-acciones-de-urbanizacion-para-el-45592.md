@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-general-de-acciones-de-urbanizacion-para-el-45592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-16"
-last_updated: "2007-09-07"
+last_updated: "2010-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO GENERAL DE ACCIONES DE URBANIZACION PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
+N. DE . PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ABRIL DE 2010 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
+
 REGLAMENTO GENERAL DE ACCIONES DE URBANIZACION PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2010.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 16 de noviembre de 2001.
 
@@ -147,13 +149,17 @@ Corresponde a la Dirección, la formulación de las normas técnicas que deberá
 
 Las Normas Técnicas son el conjunto de disposiciones de esta naturaleza, que deberán observarse por urbanizadores, promotores inmobiliarios y peritos, al diseñar y construir obras de infraestructura o equipamiento urbano a que se refieran.
 
+N. DE . PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ABRIL DE 2010 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
+
 ###### Artículo 11.
 
 Para los efectos del presente Reglamento, se establecen las siguientes abreviaturas:
 
 I.- Ayuntamiento.- Es el órgano colegiado conformado por los Munícipes, responsable del gobierno del Municipio de Mexicali, Baja California;
 
-II.- Dirección.- Es la Dirección de Desarrollo Urbano y Ecología del Ayuntamiento de Mexicali, Baja California, a la que corresponderá la aplicación de las disposiciones del presente Reglamento, en los casos en que no se determine expresamente otra autoridad. La Dirección actuará por sí o a través de sus Departamentos, en los términos del Reglamento Interior de la Administración Pública Municipal de Mexicali, Baja California;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2010)</small>
+
+II.- Dirección.- Es la Dirección de Administración Urbana del Gobierno Municipal de Mexicali, Baja California, a la que corresponderá la aplicación de las disposiciones del presente Reglamento, en los casos en que no se determine expresamente otra autoridad. La Dirección actuará por sí o a través de sus Departamentos, en los términos del Reglamento Interior de la Administración Pública Municipal de Mexicali, Baja California;
 
 III.- Ley.- Es la Ley de Desarrollo Urbano del Estado de Baja California;
 
@@ -373,6 +379,10 @@ Las áreas para equipamiento que se transmitan gratuitamente por los urbanizador
 
 De acuerdo con lo anterior, dichas áreas podrán usarse por el Municipio o por las personas públicas o privadas a los que se les transmitan, para educación, salud, asistencia pública o social, comercio y abasto, servicios, recreación, deporte, comunicación, transporte, diversión, cultura, espectáculos, administración o seguridad pública.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE MARZO DE 2010)</small>
+
+Dichas áreas podrán usarse para vivienda cuando hubiere dictamen favorable de la Dirección de conformidad con el plan y programas de desarrollo urbano y así lo autorice el Ayuntamiento.
+
 ###### Artículo 28.
 
 La ubicación de las áreas para equipamiento será fijada en cada caso de acuerdo con las siguientes reglas:
@@ -407,7 +417,9 @@ V.- La Dirección revisará la propuesta de ubicación de áreas para equipamien
 
 Podrá determinarse por la Dirección a propuesta del urbanizador o promotor inmobiliario, que las áreas cuya propiedad deberá transmitirse gratuitamente al Municipio para equipamiento, que no sean vialidades o áreas verdes, se ubiquen en uno o varios predios propiedad del mismo urbanizador, diversos al que será objeto de la acción de urbanización que le hubiere generado la obligación de hacer dicha transmisión.
 
-En este caso, los predios que se propongan deberán tener valor igual o superior al que vaya a tener la superficie cuya propiedad correspondería transmitir en el que será objeto de la acción de urbanización, una vez concluida ésta, según dictámenes de la Comisión Estatal de Avalúos y/o un perito valuador autorizado.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2010)</small>
+
+En este caso, los predios que se propongan deberán tener valor igual o superior al que vaya a tener la superficie cuya propiedad correspondería transmitir en el que será objeto de la acción de urbanización, una vez concluida ésta, según dictámenes de la Comisión Municipal de Valuación.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
@@ -419,7 +431,9 @@ La Dirección podrá aceptar la propuesta de menor superficie pero con edificaci
 
 I.- Un dictamen técnico en el que se determine la necesidad del equipamiento especifico para la zona, emitido por la misma Dirección o por la dependencia o entidad del gobierno municipal que tenga injerencia en la administración de dicha obra o equipamiento, y aprobado por el Ayuntamiento;
 
-II.- Que el valor del predio cuya propiedad se vaya a transmitir, incluyendo la edificación o infraestructura a construir por el urbanizador, sea igual o superior al que vaya a tener la superficie cuya propiedad correspondería transmitir en el que será objeto de la acción de urbanización una vez concluida ésta, según dictámenes de la Comisión Estatal de Avalúos y/o un perito valuador autorizado.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2010)</small>
+
+II.- Que el valor del predio cuya propiedad se vaya a transmitir, incluyendo la edificación o infraestructura a construir por el urbanizador, sea igual o superior al que vaya a tener la superficie cuya propiedad correspondería transmitir en el que será objeto de la acción de urbanización una vez concluida ésta, según dictámenes de la Comisión Municipal de Valuación.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
@@ -431,15 +445,17 @@ La Dirección podrá aceptar dicha obra o infraestructura urbana en lugar del á
 
 I.- Se cuente con un dictamen técnico emitido por la misma Dirección y aprobado por el Ayuntamiento, en el que se determine la obra o infraestructura urbana.
 
-II.- El costo de la obra o infraestructura urbana sea igual o superior, al valor que tuviere el área cuya propiedad debía transmitirse en el predio objeto de la acción de urbanización una vez concluida ésta. Para efectos de lo anterior, el costo de la obra o infraestructura urbana se determinará aplicando los valores unitarios de obra pública que emita la Secretaría de Infraestructura y Desarrollo Urbano del Estado; y el valor del área para equipamiento será el que determine la Comisión Estatal de Avalúo y/o un perito valuador autorizado.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2010)</small>
+
+II.- El costo de la obra o infraestructura urbana sea igual o superior, al valor que tuviere el área cuya propiedad debía transmitirse en el predio objeto de la acción de urbanización una vez concluida ésta, según dictámenes de la Comisión Municipal de Valuación.
 
 III.- En el caso de que la obra de infraestructura urbana tenga un costo superior al valor del predio que debía transmitirse, y el urbanizador o promotor inmobiliario no esté dispuesto a asumir la parte diferencial, podrá quedar ésta a cargo del Municipio. Dicha cantidad se compensará con los importes que el urbanizador o promotor inmobiliario deba pagar por concepto de derechos que genere la autorización de la acción de urbanización de la que se trate, u otra que lleve a cabo posteriormente.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2010)</small>
 
 ###### Artículo 32.
 
-Cuando el área para equipamiento cuya propiedad deba transmitirse gratuitamente al Municipio, diversa a las superficies para vialidades y áreas verdes, sea menor a tres mil metros cuadrados, podrá optar el urbanizador o promotor inmobiliario, por no efectuar la transmisión, sino pagar al Municipio el valor comercial que vaya a tener dicha superficie una vez concluida la acción de urbanización, que se determine mediante dictamen de la Comisión Estatal de Avalúos y/o un perito valuador autorizado.
+Respecto del área para equipamiento cuya propiedad deba transmitirse gratuitamente al Municipio, diversa a las superficies para vialidades y áreas verdes, podrá optar el urbanizador o promotor inmobiliario, por no efectuar la transmisión, sino pagar al Municipio el valor comercial que vaya a tener dicha superficie una vez concluida la acción de urbanización, que se determine mediante dictamen de la Comisión Municipal de Valuación.
 
 ###### Artículo 33.
 
@@ -959,11 +975,19 @@ II.- Al ejecutarse la acción de urbanización se hayan variado los proyectos au
 
 La prohibición permanecerá mientras no se subsane la causa que la haya generado.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2010)</small>
+
 ###### Artículo 84.
 
-En el caso de que el propietario o poseedor de un predio no cumpla con las determinaciones emitidas por la Dirección o sus Departamentos, con base en este Reglamento y las demás disposiciones legales aplicables, la Dirección estará facultada para ejecutar a costa del propietario, las obras, reparaciones, demoliciones o cualesquiera otra que haya ordenado.
+El costo de las obras que deban edificar los propietarios o poseedores de inmuebles conforme a una autorización de cualquier acción de urbanización, constituye un crédito fiscal en concepto de aprovechamiento, por lo que en caso de incumplimiento la Dirección procederá como sigue:
 
-En este caso el propietario o poseedor del predio será responsable de pagar los gastos en que la autoridad hubiere incurrido para hacer cumplir su resolución, los que constituirán un crédito fiscal.
+I.- Solicitará la formulación de la cotización de las obras respectivas;
+
+II.- Con dicha cotización solicitará a la Recaudación de Rentas Municipal la determinación del crédito fiscal correspondiente; y,
+
+III.- La Recaudación de Rentas Municipal determinará, notificará y exigirá al obligado el pago del crédito respectivo.
+
+Una vez recuperado el crédito, el Municipio ejecutará las obras, reparaciones, demoliciones o cualquier otra que se haya ordenado en la autorización de la acción de urbanización.
 
 ### CAPÍTULO TERCERO. INFRACCIONES Y SANCIONES
 
@@ -1140,3 +1164,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 7 DE SEPTIEMBRE DE 2007
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE MARZO DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
