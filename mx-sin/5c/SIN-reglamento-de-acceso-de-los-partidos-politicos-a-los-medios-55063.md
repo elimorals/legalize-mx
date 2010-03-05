@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-acceso-de-los-partidos-politicos-a-los-medios-550
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-04"
-last_updated: "2007-04-04"
+last_updated: "2010-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO DE ACCESO DE LOS PARTIDOS POLITICOS A LOS MEDIOS DE COMUNICACION SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE ACCESO DE LOS PARTIDOS POLITICOS O COALICIONES A LOS MEDIOS DE COMUNICACION SOCIAL, PUBLICADO EN EL P.O. DE 5 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 4 de abril de 2007.
 
@@ -402,3 +404,13 @@ TITULAR
 LIC. LUIS ALFONSO ARMENTA PICO
 
 LIC. ROSA ELVIRA JACOBO LARA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE MARZO DE 2010.
+
+Primero: El presente Reglamento abroga el Reglamento de Acceso de los Partidos Políticos a los Medios de Comunicación Social aprobado por el Pleno del Consejo Estatal Electoral en la primera sesión extraordinaria del día dos de abril del año dos mil siete.
+
+Segundo: Publíquese el presente Reglamento en el Periódico Oficial "El Estado de Sinaloa".
+
+Tercero: El presente Reglamento entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Sinaloa".
