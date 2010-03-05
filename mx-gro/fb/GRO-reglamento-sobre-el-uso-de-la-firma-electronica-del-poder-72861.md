@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-sobre-el-uso-de-la-firma-electronica-del-poder-72861
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-22"
-last_updated: "2009-12-22"
+last_updated: "2010-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO SOBRE EL USO DE LA FIRMA ELECTRONICA DEL PODER EJECUTIVO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 22 de diciembre de 2009.
 
@@ -59,13 +59,21 @@ IV. Reglamento.- Reglamento Sobre el Uso de la Firma Electrónica del Ejecutivo 
 
 V. Autoridad Certificadora.- La Subsecretaría de Gobierno para Asuntos Jurídicos y Derechos Humanos de la Secretaría General de Gobierno.
 
-VI. Acreditación.- El documento que contiene la autorización de la autoridad certificadora, una vez que el prestador de servicios de certificación le demuestra que cuenta con las instalaciones, sistemas, programas informáticos y los recursos humanos necesarios para otorgar los certificados en los términos que se establecen en la Ley y el Reglamento.
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2010)</small>
 
-VII.- Actuación Electrónica.- Los actos, notificaciones, requerimientos, solicitudes de informes o documentos, comunicaciones o resoluciones administrativas que las unidades administrativas de la Secretaría efectúen entre sí o hacia los particulares, mediante firma electrónica.
+VI. Autoridad Registradora.- La subsecretaría de Administración de la Secretaría de Finanzas y Administración.
 
-VIII.- Promoción Electrónica.- Las solicitudes, trámites o promociones que los particulares realicen a través de firma electrónica certificada ante las unidades administrativas señaladas en la fracción I, para el ejercicio de derechos, obtención de un beneficio o servicio público, dar respuesta a un requerimiento o solicitud, o en general, para que la autoridad interpelada emita la resolución correspondiente; y
+VII. Acreditación.- El documento que contiene la autorización de la autoridad certificadora, una vez que el prestador de servicios de certificación le demuestra que cuenta con las instalaciones, sistemas, programas informáticos y los recursos humanos necesarios para otorgar los certificados en los términos que se establecen en la Ley y el Reglamento.
 
-IX.- Prestadores de Servicios de Certificación.- Personas Físicas o morales que previa acreditación ante la Secretaría de Economía, los notarios públicos, los corredores públicos, las personas morales de carácter privado, y las instituciones públicas, conforme a las leyes que les son aplicables y que cumplan con la legislación respectiva y su principal función sea la de emitir certificados digitales, en términos y con los requisitos que establece el Código de Comercio.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2010)</small>
+
+VIII.- Actuación Electrónica.- Los actos, notificaciones, requerimientos, solicitudes de informes o documentos, comunicaciones o resoluciones administrativas que las unidades administrativas de las dependencias efectúen entre sí o hacia los particulares, mediante firma electrónica.
+
+IX.- Promoción Electrónica.- Las solicitudes, trámites o promociones que los particulares realicen a través de firma electrónica certificada ante las unidades administrativas señaladas en la fracción I, para el ejercicio de derechos, obtención de un beneficio o servicio público, dar respuesta a un requerimiento o solicitud, o en general, para que la autoridad interpelada emita la resolución correspondiente; y
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2010)</small>
+
+X.- Prestadores de servicios de Certificación.- Personas físicas o morales que previa acreditación ante la Secretaría de Economía, los notarios públicos, los corredores públicos, las personas morales de carácter privado, y las instituciones públicas, conforme a las leyes que les son aplicables y que cumplan con la legislación respectiva y su principal función sea la de emitir certificados digitales, en términos y con los requisitos que establece el Código de Comercio.
 
 ###### ARTÍCULO 3.
 
@@ -123,9 +131,31 @@ I. La información deberá ser respaldada en cada proceso de actualización de d
 
 II. Se deberá mantener una copia de seguridad en el lugar de operación de los sistemas de información y otra en un centro de almacenamiento de datos electrónicos especializados.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2010)</small>
+
 ###### ARTÍCULO 12.
 
-Los documentos suscritos por medio de firma electrónica certificada deberán permitir verificar la integridad y autenticidad de los mismos al ser impresos, mediante una cadena de caracteres asociados al documento electrónico y constituirán una copia fiel del documento original.
+Los documentos suscritos por medio de firma electrónica certificada de manera automática, por los sistemas de información de las Dependencias, deberán permitir verificar la integridad y autenticidad de los mismos al ser impresos, mediante un identificador único y una cadena de caracteres asociados al documento electrónico, que constituirán una copia fiel de la cadena original con la cual fue generado.
+
+Lac verificación de la integridad y autenticidad de los documentos se podrá realizar al ingresar al Portal de Internet de la Autoridad Certificadora, e introducir el identificador único del documento, lo cual dará resultado el despliegue de la siguiente información:
+
+I. Tipo de documento o trámite;
+
+II. Dependencia expedidora;
+
+III. Medio, fecha y hora de expedición;
+
+IV. Titular del Certificado de Firma Electrónica Utilizado;
+
+V. Cadena original (contenido del documento), y
+
+VI. Firma Electrónica Certificada del documento.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
+
+###### ARTÍCULO 12 Bis.
+
+Los documentos electrónicos suscritos por medio de firma electrónica certificada de manera personal, por los titulares de certificados digitales, deberán permitir la integridad y autenticidad de los mismos, utilizando la aplicación informática desarrollada para ese propósito que estará disponible para su descarga en el Portal de Internet de la Autoridad Certificadora.
 
 ### CAPÍTULO IV. DE LA AUTORIDAD CERTIFICADORA
 
@@ -181,19 +211,31 @@ El Certificado de Firma Electrónica podrá ser utilizado por su titular, confor
 
 El Certificado de Firma Electrónica deberá permitir a quien lo reciba verificar, en forma directa o mediante consulta electrónica, que ha sido emitido por la autoridad certificadora o por un prestador de servicios de certificación acreditado, con la finalidad de comprobar la validez del mismo.
 
-### CAPÍTULO VI. DEL REGISTRO DE CERTIFICADOS DE FIRMA ELECTRÓNICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE MARZO DE 2010)</small>
+
+### CAPÍTULO VI. DE LA AUTORIDAD REGISTRADORA
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 20.
 
-Las constancias de conservación de mensajes de datos se harán conforme a los requisitos técnicos y jurídicos de la NOM 151 SCFI ó cualquier otra norma vigente o actual que prevalezca durante su uso.
+La Subsecretaría de Administración de la Secretaría de Finanzas y Administración, de acuerdo al presente Reglamento, fungirá como Autoridad Registradora en el ámbito de su competencia y auxiliará a la Autoridad Certificadora en el cumplimiento de sus labores de registro y certificación de usuarios en los términos de los lineamientos establecidos, así como en la operación y mantenimiento del Portal de Internet de la Autoridad Certificadora y de las aplicaciones informáticas de firmado, visualización y verificación de documentos electrónicos.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 21.
 
-La emisión de certificados para el uso de la firma electrónica quedará a criterio de la autoridad certificadora.
+La emisión de certificados para el uso de la firma electrónica quedará a criterio de la Autoridad Registradora.
 
 ###### ARTÍCULO 22.
 
 La vigencia de uso de un certificado de firma electrónica será de 2 años, a partir de su emisión.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
+
+###### ARTÍCULO 22 Bis.
+
+Las constancias de conservación de mensajes de datos se harán conforme a los requisitos técnicos y jurídicos de la NOM 151 SCFI ó cualquier otra norma vigente o actual que prevalezca durante su uso.
 
 ### CAPÍTULO VII. DE LA HOMOLOGACIÓN DEL CERTIFICADO DE FIRMA ELECTRÓNICA
 
@@ -386,3 +428,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. GUILLERMO RAMÍREZ RAMOS.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE MARZO DE 2010.
+
+ÚNICO.- El presente Acuerdo (sic) entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
