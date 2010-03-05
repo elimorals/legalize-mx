@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2009-03-27"
+last_updated: "2010-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2010.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -277,7 +277,9 @@ En ejercicio de tal representación, podrá designar delegados o representantes 
 
 Podrá también nombrar uno o más apoderados especiales o generales, a fin de que actúen en representación del ayuntamiento ante los órganos jurisdiccionales y administrativos en los que se ventilen los litigios en que éste sea parte o tenga interés, otorgándoles facultades suficientes para la adecuada defensa de los intereses del mismo.
 
-### CAPITULO SEXTO. DEL NOMBRAMIENTO, SUPLENCIA Y EXCUSAS DE LOS SERVIDORES PUBLICOS
+### CAPITULO SEXTO
+
+DEL NOMBRAMIENTO, SUPLENCIA Y EXCUSAS DE LOS SERVIDORES PUBLICOS.
 
 ###### ARTICULO 24.
 
@@ -741,7 +743,7 @@ I.- Identificar y diagnosticar los riesgos de desastres naturales a los que esta
 
 II.- Elaborar, instrumentar, operar y coordinar el Programa Municipal de Protección Civil, para su aprobación, el Plan Municipal de Contingencias;
 
-III.-Elaborar y presentar para su aprobación al Consejo Municipal de Protección Civil, el Plan Municipal de Contingencias;
+III.- Elaborar y presentar para su aprobación al Consejo Municipal de Protección Civil, el Plan Municipal de Contingencias;
 
 IV.- Instrumentar un sistema de seguimiento y evaluación del Programa Municipal de Protección Civil e informar al Consejo Municipal de Protección Civil sobre su funcionamiento y avances;
 
@@ -1235,7 +1237,7 @@ XVI.- Mantener en buen estado de funcionamiento los vehículos y equipo de trans
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-XVII - Prestar el servicio de grúas a las dependencias;
+XVII.- Prestar el servicio de grúas a las dependencias;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
@@ -1849,9 +1851,9 @@ b) Recursos Materiales y;
 
 c) Estadística e Informática.
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2010)</small>
 
-VI.- La Subdirección de Policía y Tránsito, de la que dependerán la Comandancia de Policía, la Unidad Contra la Violencia Intrafamiliar, y la Unidad para la Atención de Menores de Edad; y
+VI.- La Subdirección de Policía y Tránsito, de la que dependerán la Comandancia de Policía, la Unidad Contra la Violencia Intrafamiliar, la Unidad para la Atención de Menores de Edad y la Unidad Especializada de Atención al Turista; y
 
 VII.- La Subdirección Académica, de la que dependerán los siguientes Departamentos:
 
@@ -2011,9 +2013,9 @@ X.- Establecer coordinación con la Subdirección Administrativa, para atender n
 
 XI.- Evaluar periódicamente el desempeño profesional de los elementos activos para revisar propuestas de estímulos, cambios de adscripción o ascensos de acuerdo con la normatividad aplicable; y,
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2010)</small>
 
-XII.- Desarrollar y supervisar los planes de prevención que presenten las Unidades Contra la Violencia Intrafamiliar y la de Atención a Personas Menores de Edad.
+XII.- Desarrollar y supervisar los planes de prevención a cargo de la Unidad Contra la Violencia Intrafamiliar, la Unidad para la Atención de Menores de Edad, y la Unidad Especializada de Atención al turista.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -2082,6 +2084,36 @@ VIII.- Coordinarse con las diversas dependencias gubernamentales, así como asoc
 IX.- Proporcionar orientación a los menores de edad y padres de familias, así como canalizar a los mismos a las instancias especializadas para su adecuado tratamiento; y,
 
 X.- Realizar análisis respecto a la incidencia en faltas administrativas y delitos cometidos por personas menores de edad.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
+
+ARTICULO 96 QUATER.- La Unidad Especializada de Atención al Turista, estará a cargo de un Coordinador y tendrá a su cargo brindar orientación y seguridad a los turistas nacionales o extranjeros, para lo cual tendrá las siguientes atribuciones:
+
+I.- Proporcionar información y orientación a los turistas respecto de las vialidades o destinos turísticos del municipio;
+
+II.- Brindar la adecuada orientación a los turistas que cometan alguna falta administrativa;
+
+III.- Prestar auxilio a los turistas y demás personas que se encuentren de visita en el municipio;
+
+IV.- Participar en la vigilancia y salvaguarda del orden público en actividades culturales, turísticas, en ferias, exposiciones, convenciones y demás actividades a las que concurran turistas nacionales y extranjeros;
+
+V.- Actuar de manera inmediata, eficaz e imparcial, en eventos en que se desarrollen actividades turísticas;
+
+VI.- Orientar a los turistas sobre las medidas que deberán tomar para salvaguardar su integridad en los eventos turísticos a los que concurran;
+
+VII.- Realizar operativos de vigilancia de los destinos turísticos del municipio, así como de los comercios y cualquier tipo de establecimientos o lugares en los que se presten servicios turísticos, o se lleve a cabo alguna actividad de esta naturaleza;
+
+VIII.- Formular programas de prevención enfocados a reducir los incidentes en los que puedan verse involucrados turistas;
+
+IX.- Permanecer en constante comunicación y coordinación con los demás elementos de la corporación y con las dependencias del sector turístico;
+
+X.- Cuidar el traslado de los turistas que sean puestos a disposición del juez calificador;
+
+XI.- Rendir un informe mensual al Subdirector de Policía y Tránsito, de las actividades realizadas y de los incidentes que se hubiesen suscitado con algún turista nacional o extranjero;
+
+XII.- Recibir capacitación relativa al trato al turista, así como sobre el manejo de idiomas extranjeros; y
+
+XIII.- Sujetarse a todas las demás disposiciones legales y reglamentarias que rijan su conducta como miembro de la Dirección de Seguridad Pública Municipal.
 
 ###### ARTICULO 97.
 
@@ -2303,7 +2335,7 @@ I.- Definir, programar y ejecutar los mecanismos, las políticas y las estrategi
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2008)</small>
 
-II. - Recopilar y analizar la información que se genere en los medios de comunicación relacionada con acciones que competan al gobierno municipal, o que puedan tener una repercusión sobre la actuación de éste, y darla a conocer a las dependencias y entidades que corresponda;
+II.- Recopilar y analizar la información que se genere en los medios de comunicación relacionada con acciones que competan al gobierno municipal, o que puedan tener una repercusión sobre la actuación de éste, y darla a conocer a las dependencias y entidades que corresponda;
 
 III.- Mantener informada a la comunidad y a los medios de comunicación sobre las actividades que desempeña el gobierno municipal;
 
@@ -3310,5 +3342,9 @@ P.O. 23 DE ENERO DE 2009.
 P.O. 27 DE MARZO DE 2009.
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE MARZO DE 2010.
+
+ÚNICO: El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL, DE LA LEY DE HACIENDA DEL ESTADO Y DE LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE SONORA”.]
