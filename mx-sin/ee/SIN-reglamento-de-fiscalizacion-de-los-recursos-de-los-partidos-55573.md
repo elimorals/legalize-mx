@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-fiscalizacion-de-los-recursos-de-los-partidos-555
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-16"
-last_updated: "2007-05-30"
+last_updated: "2010-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS
 
-ULTIMA REFORMA PUBLICADA EN ELPERIODICO OFICIAL: 30 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN ELPERIODICO OFICIAL: 5 DE MARZO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 16 de mayo de 2007.
 
