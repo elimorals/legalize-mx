@@ -4,7 +4,7 @@ identifier: "COA-reglamento-ecologico-y-la-proteccion-ambiental-del-63671"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-08"
-last_updated: "2008-08-08"
+last_updated: "2010-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 ---
 # REGLAMENTO ECOLOGICO Y LA PROTECCION AMBIENTAL DEL MUNICIPIO DE ABASOLO, COAHUILA
 
-REGLAMENTO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE ABASOLO, COAHUILA
+REGLAMENTO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE ABASOLO, COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 8 de agosto de 2008.
 
@@ -823,6 +823,14 @@ IX.- Todos los habitantes del municipio y aquellos que lo visiten, cooperen y pa
 
 X.- Los propietarios de lotes baldíos, inmuebles y fincas desocupadas o sin uso en la zona urbana, los conserven limpios y con buena imagen y debidamente protegidos a fin de evitar que se conviertan en tiraderos al aire libre y provocando fauna nociva y deterioro de la imagen urbana.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
+
+ARTICULO 75 BIS. Se prohíbe la colocación de mantas, cartelones, propaganda y cualquier otro tipo de anuncio promocional de carácter comercial, cultural y electoral en postes de alumbrado público, servicio de telefonía, árboles, semáforos y cualquier otro tipo de naturaleza similar que estén ubicados en (sic) dentro de la circunscripción territorial del municipio.
+
+La propaganda de carácter comercial y cultural que pretenda colocarse en muros exteriores, deberá sujetarse a las disposiciones y lineamientos establecidos en este ordenamiento y demás disposiciones que resulten aplicables.
+
+La dependencia municipal en materia de medio ambiente, dentro del ámbito de su competencia, deberá retirar u ordenar el retiro de toda la propaganda que se coloque en incumplimiento a este artículo. En caso de que sea la misma autoridad municipal quien la retire, obligará a los responsables al reembolso de los gastos que por tal concepto procedan, sin perjuicio de que, en caso de incumplimiento, aplique las sanciones correspondientes.
+
 ### CAPÍTULO XIII (SIC). DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
 ###### ARTÍCULO 76.
@@ -1234,3 +1242,9 @@ PRESIDENTE MUNICIPAL DE ABASOLO, COAHUILA.
 MVZ. HÉCTOR MANUEL RODRÍGUEZ CAMPOS
 
 SECRETARIO DEL AYUNTAMIENTO DE ABASOLO, COAHUILA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MARZO DE 2010.
+
+> <small>[N. DE E. EL “ACUERDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL REGLAMENTO ECOLÓGICO Y LA PROTECCIÓN AMBIENTAL DEL MUNICIPIO DE ABASOLO, COAHUILA”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.]</small>
