@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-finanzas-20246"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-10"
-last_updated: "2007-01-10"
+last_updated: "2010-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 5 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el sábado 10 de febrero de 2001.
 
@@ -928,3 +930,41 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Finanzas, la Secretaría de Promoción y Desarrollo Económico y la Oficialía Mayor, dispondrán de 30 días naturales contados a partir del día siguiente a la entrada en vigor del presente decreto, para elaborar las propuestas de modificación a los ordenamientos jurídicos que permitan facilitar la operatividad y el cumplimiento de las facultades contenidas en las Direcciones General de Administración, Modernización, Innovación y Control Interno, e Informática.
+
+P.O. 5 DE MARZO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Las facultades relativas al procedimiento administrativo de ejecución así como las relativas a los convenios de pago en parcialidades o diferidos de créditos fiscales a que se refiere el artículo doce de éste Reglamento, continuarán ejerciéndose por la Dirección de Ingresos, hasta en tanto el Secretario de Finanzas emita los lineamientos en los que establezca el contenido mínimo de los documentos que integrarán los expedientes que deban remitirse a la Dirección de Auditoría Fiscal, así como los requisitos de los oficios con los cuales deben remitirse.
+
+###### ARTÍCULO TERCERO.
+
+Los lineamientos a que se refiere el artículo anterior deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos de las fracciones XXXIII, XXXIV, XXXV, XXXVI y XXXVII, del artículo doce de este Reglamento, la Dirección de Auditoría Fiscal queda facultada para reestructurar y/o modificar convenios vigentes y aún revocar los convenios de pago en parcialidades que se hayan celebrado con la Dirección de Ingresos; así como para tener por desistidos a los contribuyentes de su solicitud de pago en parcialidades presentada en la Dirección de Ingresos, cuando no se haya exhibido la garantía o se haya dejado de pagar en los términos solicitados.
+
+###### ARTÍCULO QUINTO.
+
+Con la excepción del artículo Noveno transitorio, se abroga el Reglamento Interior de la Secretaría de Finanzas publicado en el Boletín Oficial del Gobierno del Estado No. 07, de fecha diez de febrero de 2001, así como las reformas a dicho instrumento realizadas desde su publicación a la fecha.
+
+###### ARTÍCULO SEXTO.
+
+Las referencias que se hagan y las atribuciones que se otorgan en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones a las direcciones y unidades administrativas de la Secretaría de Finanzas que cambian de denominación por virtud del Reglamento que se emite mediante este Decreto, se entenderán hechas o conferidas a las direcciones y unidades administrativas que correspondan conforme al presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Secretario de Finanzas podrá designar por escrito a qué Dirección de la Secretaría de Finanzas, ya en funciones, corresponderá el desempeño de las atribuciones correspondientes a la Dirección de Fiscalización Aduanera hasta en tanto se cuente con la disponibilidad presupuestal para la instalación y funcionamiento de esta última.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto se expiden los manuales que este Reglamento menciona, el Secretario de Finanzas queda facultado para resolver las cuestiones que conforme a dichos manuales deba regular.
+
+###### ARTÍCULO NOVENO.
+
+Los actos emitidos al amparo del Reglamento Interior que se abroga, deberán ser concluidos con base en las facultades otorgadas en dicho cuerpo normativo.
