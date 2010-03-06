@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2009-12-10"
+last_updated: "2010-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -100,6 +100,10 @@ El Ejecutivo del Estado por conducto de la SECRETARIA GENERAL DE GOBIERNO, resol
 ###### Artículo 13.
 
 Las dependencias del Ejecutivo y los organismos auxiliares a que se refiere el artículo 45 de esta Ley, deberán conducir sus actividades en forma programada y con base en las políticas, prioridades y restricciones que establezca el Gobierno del Estado, para el logro de los objetivos y metas de los planes de Gobierno.
+
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
+
+Así mismo, promoverán que sus planes, programas y acciones, sean realizados con perspectiva de género.
 
 ###### Artículo 14.
 
@@ -835,9 +839,13 @@ XXII. Establecer los criterios educativos y culturales en la producción radiof�
 
 XXIII. Coordinar, organizar y fomentar la enseñanza y la práctica de los deportes en el Estado, así como la participación en torneos y justas deportivas nacionales y extranjeras.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-XXIV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XXIV. Establecer, promover y fomentar los planes y programas educativos, material didáctico y libros de texto locales, con perspectiva de género, así como las políticas para prevenir y eliminar actos de discriminación.
+
+> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XXV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -1890,3 +1898,33 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el 1º de enero de 2010.
 
 TERCERO.- Se ratifican las retenciones efectuadas al amparo de los artículos 230 E y 230 K del Código Financiero del Estado de México y Municipios y Tercero Transitorio del Decreto No. 123 de la H. "LVI" Legislatura publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México de fecha 27 de marzo de 2008, por el periodo de enero de 2008 a diciembre de 2009.
+
+G.G. 6 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
+
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos Judiciales de Chalco, Otumba y Texcoco;
+
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
+
+Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+Hasta, el treinta de septiembre de dos mil once en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+
+CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
+
+El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
+
+El uno de agosto de dos mil diez en los distritos judiciales de Cuautitlán, Ecatepec de Morelos y Nezahualcóyotl;
+
+El uno de febrero de dos mil once en los distritos judiciales de Texcoco y Tlalnepantla;
+
+El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotepec, Ixtlahuaca, Zumpango, Sultepec, Temascaltepec, Tenancingo y Valle de Bravo.
+
+QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
