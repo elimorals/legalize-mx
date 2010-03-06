@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-procuraduria-general-de-justicia-del-69317"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-07"
-last_updated: "2009-07-07"
+last_updated: "2010-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSI
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSI
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 7 de julio de 2009.
 
@@ -1273,9 +1273,17 @@ XIV. Dirigir y establecer las políticas para el registro, clasificación, manej
 
 XV. Emitir opinión sobre los anteproyectos de acuerdos, circulares, instructivos y manuales, para regular la actuación de los agentes del Ministerio Público, así como de la policía y peritos;
 
-XVI. Promover y fomentar entre los servidores públicos de la Visitaduría General, una cultura de respeto, preservación y cuidado de las garantías individuales y de los derechos humanos que ampara el orden jurídico mexicano, y los tratados internacionales en que los Estados Unidos Mexicanos sea parte, en coordinación con la Subprocuraduría Especializada para la Atención de Delitos Sexuales, Contra la Familia y Derechos Humanos, y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2010)</small>
 
-XVII. Las demás que le confieran el Reglamento de esta Ley; otras disposiciones, o el Procurador.
+XVI. Promover y fomentar entre los servidores públicos de la Visitaduría General, una cultura de respeto, preservación y cuidado de las garantías individuales y de los derechos humanos que ampara el orden jurídico mexicano, y los tratados internacionales en que los Estados Unidos Mexicanos sea parte, en coordinación con la Subprocuraduría Especializada para la Atención de Delitos Sexuales, Contra la Familia y Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2010)</small>
+
+XVII. Recibir, integrar con los elementos de convicción necesarios y turnar ante los órganos competentes referidos en la fracción X, las quejas o denuncias de la población, derivadas de conductas irregulares del personal adscrito a la Procuraduría, que pudieran constituir causas de responsabilidad administrativa, y
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2010)</small>
+
+XVIII. Las demás que le confieran el Reglamento de esta Ley, otras disposiciones, o el Procurador.
 
 ### Capítulo XI. De la Contraloría Interna
 
@@ -1295,13 +1303,23 @@ II. Evaluar la gestión institucional, verificando y dando seguimiento a los com
 
 III. Verificar el cumplimiento de las normas de control que emita la Procuraduría, así como elaborar los proyectos de normas complementarias que se requieran en materia de control;
 
-IV. Actualizar, conjuntamente con el área competente, el padrón de servidores públicos de la Procuraduría, y administrar, con sistemas de seguridad, la información relativa a los antecedentes de responsabilidad administrativa, y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2010)</small>
 
-V. Las demás que le confieran otras disposiciones aplicables.
+IV. Actualizar, conjuntamente con el área competente, el padrón de servidores públicos de la Procuraduría, y administrar, con sistemas de seguridad, la información relativa a los antecedentes de responsabilidad administrativa;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2010)</small>
+
+V. Recibir las quejas o denuncias que le sean turnadas en contra del personal sustantivo del Servicio de Carrera de Procuración de Justicia; radicar y substanciar los procedimientos administrativos disciplinarios hasta ponerlos en estado de resolución, reservando la imposición de sanciones a los servidores públicos referidos en el artículo 140 de esta Ley, y
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2010)</small>
+
+VI. Las demás que le confieran otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 78.
 
-La Contraloría Interna de la Procuraduría determinará las infracciones a que se hagan acreedores los servidores públicos de la institución, en los términos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, mediante el procedimiento que dicha ley y las demás aplicables previenen, a excepción del personal sustantivo de carrera, quienes se regirán por los títulos Tercero y Cuarto de esta Ley.
+La Contraloría Interna de la Procuraduría determinará las responsabilidades e impondrá las sanciones a que se hagan acreedores los servidores públicos de la institución, en los términos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, mediante el procedimiento que dicha ley y las demás aplicables previenen, a excepción del personal sustantivo de carrera, quienes se regirán por los títulos Tercero y Cuarto de esta Ley, en cuyo caso, solamente substanciará el procedimiento previsto en el Reglamento de la misma, hasta dejar los asuntos en estado de resolución, el que será sancionado con amonestación, suspensión o inhabilitación, según corresponda, por los servidores públicos descritos en el artículo 140 de este Ordenamiento, de acuerdo a su área de adscripción.
 
 ### Capítulo XII. Del Centro de Evaluación y Control de Confianza
 
@@ -1401,7 +1419,7 @@ V. Coordinar las acciones que en materia de capacitación y profesionalización 
 
 VI. Supervisar y evaluar la ejecución y el cumplimiento de los programas señalados en la fracción anterior;
 
-VlI. Canalizar a las unidades administrativas y órganos competentes de la Procuraduría, las peticiones de apoyo para la ejecución de los planes y programas de capacitación y profesionalización;
+VII. Canalizar a las unidades administrativas y órganos competentes de la Procuraduría, las peticiones de apoyo para la ejecución de los planes y programas de capacitación y profesionalización;
 
 VIII. Diseñar, implementar y evaluar programas de capacitación, actualización y especialización, para los servidores públicos de la institución;
 
@@ -2145,23 +2163,39 @@ IV. Ejercer, ni desempeñar las funciones de depositario o apoderado judicial, s
 
 Las sanciones por incurrir en causas de responsabilidad o incumplir las obligaciones a que se refieren en la presente Ley, serán:
 
-I. Amonestación pública o privada;
+I. Amonestación privada o pública;
 
-II. Suspensión, o
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2010)</small>
 
-III. Remoción.
+II. Suspensión;
 
-Además de las sanciones contempladas en las fracciones anteriores, se podrán imponer correctivos disciplinarios a los agentes de la Policía Ministerial del Estado, los que podrán consistir en arresto y retención en el servicio, o privación de permisos sin salida.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2010)</small>
+
+III. Inhabilitación temporal para desempeñarse en el servicio público, o
+
+IV. Remoción.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2010)</small>
+
+Además de las sanciones contempladas en las fracciones anteriores, podrán imponerse correctivos disciplinarios a los agentes de la Policía Ministerial del Estado, los que podrán consistir en arresto, retención en el servicio, o privación de permisos sin salida.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 135.
 
-La amonestación es el acto mediante el cual se le llama la atención al servidor público, por la falta o faltas no graves cometidas en el desempeño de sus funciones, y lo conmina a rectificar su conducta.
+La amonestación es el acto mediante el cual se le llama la atención al servidor público, por la falta o faltas no graves cometidas en el desempeño de sus funciones, conminándolo a rectificar su conducta. Podrá ser privada o pública, dependiendo de las circunstancias específicas de la falta y, en ambos casos, se comunicará por escrito al infractor, en cuyo expediente personal se archivará una copia de la misma.
 
-La amonestación podrá ser pública o privada, dependiendo de las circunstancias especificas de la falta y, en ambos casos, se comunicará por escrito al infractor, en cuyo expediente personal se archivará una copia de la misma.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 136.
 
-La suspensión es la interrupción temporal de los efectos del nombramiento, la cual podrá ser hasta por treinta días, a juicio del superior jerárquico, cuando la falta cometida no amerite remoción.
+La suspensión es la interrupción temporal de los efectos del nombramiento. Podrá ser hasta por noventa días, a juicio del superior jerárquico, cuando la falta cometida no amerite inhabilitación o remoción.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2010)</small>
+
+ARTICULO 136 BIS. La inhabilitación temporal para desempeñarse en el servicio público, podrá imponerse por las responsabilidades que impliquen lucro o causen daños o perjuicios; podrá ser de uno a seis años, si el monto de aquéllos no excede de doscientas veces el salario mínimo general mensual vigente en el Estado; y de siete a doce años, si excede de dicho límite. También podrá imponerse el primero de tales períodos por actos u omisiones graves no cuantificables, o ante lo reiterado o sistemático del incumplimiento de las obligaciones previstas en esta Ley y demás disposiciones legales aplicables.
+
+La inhabilitación será comunicada a las corporaciones de seguridad pública del ámbito federal, estatal y municipal, a la Auditoría Superior del Estado, la Contraloría General del Estado, y demás órganos de control, para los efectos legales consiguientes.
 
 ###### ARTICULO 137.
 
@@ -2181,9 +2215,11 @@ La interposición del recurso no suspenderá los efectos del correctivo discipli
 
 Procederá la remoción de los miembros del Servicio de Carrera de Procuración de Justicia Estatal, en los casos de infracciones graves, a juicio del Consejo de Carrera de Procuración de Justicia. En todo caso, se impondrá la remoción por el incumplimiento de las obligaciones previstas en las fracciones, IV, V, VII, VIII, XII, XIII, XV y XVI del artículo 132 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 140.
 
-Las sanciones a que se refiere el artículo 134 fracciones I y II del presente Ordenamiento, a través del procedimiento que señale el Reglamento de esta Ley, y respetando las garantías de legalidad y audiencia, podrán ser impuestos por:
+Las sanciones a que se refiere el artículo 134 en sus fracciones I, II y III del presente Ordenamiento, una vez que la Contraloría Interna desahogue el procedimiento que señale el Reglamento de esta Ley, y respetando las garantías de legalidad y audiencia, podrán ser impuestas por:
 
 I. El Procurador General de Justicia del Estado;
 
@@ -2200,6 +2236,10 @@ VI. El Contralor;
 VII. Los directores, y
 
 VIII. Los titulares de fiscalías y unidades especializadas, y unidades administrativas equivalentes.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2010)</small>
+
+En ausencia del superior jerárquico inmediato del personal encausado, las sanciones de amonestación, suspensión e inhabilitación, podrá imponerlas el superior jerárquico de aquél, conforme a la estructura orgánica autorizada.
 
 ###### ARTICULO 141.
 
@@ -2339,8 +2379,6 @@ Cuando proceda alguna excusa se llevará a cabo lo dispuesto para la suplencia.
 
 La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público, dará lugar a las medidas de apremio, o a la imposición de correcciones disciplinarias, según sea el caso, en los términos que previenen las normas aplicables. Cuando la desobediencia o resistencia constituya delito, se le iniciará averiguación previa respectiva.
 
-.
-
 ## TRANSITORIOS
 
 PRIMERO. Este Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
@@ -2353,7 +2391,9 @@ CUARTO. El Reglamento Interior del Instituto de Formación Ministerial, y el Reg
 
 QUINTO. En tanto se expide el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, se aplicará el Reglamento publicado en el Periódico Oficial del Estado, Edición Extraordinaria, el 16 de febrero de 2002, en todo aquello que no se oponga a las disposiciones de esta Ley.
 
-SEXTO. Los procedimientos de responsabilidad administrativa iniciados con antelación a la entrada en vigor de la presente Ley, en contra del personal sustantivo de la institución, serán resueltos por la Contraloría Interna de la institución, de conformidad con las leyes de la materia, y por la Comisión de Honor y Justicia de conformidad con la Ley Orgánica de la Procuraduría General de Justicia del Estado, aprobada el 3 de diciembre de 1998 y publicada en la Edición Extraordinaria del Periódico Oficial del Estado, el 19 de diciembre de 1998, y el Reglamento Interior de la Dirección General de la Policía Ministerial del Estado.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2010)</small>
+
+SEXTO. Los procedimientos de responsabilidad administrativa iniciados con motivo de supuestos hechos irregulares cometidos antes de la entrada en vigor de la presente Ley, en contra del personal sustantivo de carrera, serán resueltos por la Contraloría Interna de la institución, de conformidad con las leyes de la materia, y por la Comisión de Honor y Justicia de conformidad con la Ley Orgánica de la Procuraduría General de Justicia del Estado, aprobada el 3 de diciembre de 1998 y publicada en la Edición Extraordinaria del Periódico Oficial del Estado, el 19 de diciembre de 1998, y el Reglamento Interior de la Dirección General de la Policía Ministerial del Estado.
 
 SÉPTIMO. Los agentes del Ministerio Público, los agentes de la policía ministerial del Estado y los peritos que a la entrada en vigor del presente Ordenamiento, se encuentren laborando en la Procuraduría General de Justicia del Estado, se someterán a las disposiciones del Servicio de Carrera de Procuración de Justicia Estatal previstas en esta Ley y las que se expidan para tal efecto.
 
@@ -2378,3 +2418,13 @@ El Secretario General de Gobierno
 Lic. Héctor Vega Robles
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE MARZO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Procurador General de Justicia instruirá las acciones necesarias a fin de elaborar y presentar para su aprobación, el proyecto de las reformas correspondientes al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, en un plazo de treinta días a partir de la entrada en vigor de este Decreto.
