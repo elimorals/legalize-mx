@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2009-07-30"
+last_updated: "2010-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -39,7 +39,7 @@ El uno de octubre del año dos mil once entrará en vigor en los Distritos Judic
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -155,7 +155,11 @@ IV. La privativa de libertad que establezca mayor penalidad, en los casos de con
 
 Las actuaciones deberán constar por escrito, podrán practicarse a toda hora y aun en días inhábiles, sin necesidad de previa habilitación, y en cada una de ellas se expresará el lugar, la hora, día, mes y año en que se realicen.
 
-En todas las actuaciones del Ministerio Público y del órgano jurisdiccional se asentarán los nombres y apellidos de todos los servidores públicos y demás personas que intervengan en ellas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 6 DE MARZO DE 2010)</small>
+
+En todas las actuaciones del Ministerio Público y del Órgano Jurisdiccional se asentarán los nombres y apellidos de todos los servidores públicos y demás personas que intervengan en ellas, observando la denominación del género en todo momento.
 
 El tribunal de segunda instancia asentará al margen de sus actuaciones los nombres y apellidos de los servidores públicos que las firmen.
 
@@ -1183,13 +1187,19 @@ III. Recibir, desde la comisión del delito, atención médica y psicológica de
 
 IV. Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria;
 
-V. Cuando la víctima o el ofendido sean menores de edad, no estarán obligados a carearse con el inculpado cuando se trate de los delitos de violación o secuestro. En estos casos se llevarán a cabo declaraciones en las condiciones que establezca la ley; y
+V. Cuando la víctima o el ofendido sean menores de edad, no estarán obligados a carearse con el inculpado cuando se trate de los delitos de violación o secuestro. En estos casos se llevarán a cabo declaraciones en las condiciones que establezca la ley; y (sic)
 
 VI. Solicitar las medidas y providencias que prevea la ley para su seguridad y auxilio.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
+
+Para el caso de que se determine el ejercicio de la acción penal por el delito de violencia familiar, el Ministerio Público deberá solicitar al Juzgador la confirmación, de la medida de seguridad;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-VII.- Solicitar los servicios del Centro de Mediación y Conciliación del Poder Judicial del Estado de México.
+VII. Solicitar los servicios del Centro de Mediación y Conciliación del Poder Judicial del Estado de México.
 
 ## TITULO QUINTO. INSTRUCCION
 
@@ -3366,3 +3376,33 @@ G.G. 30 DE JULIO DE 2009.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 6 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
+
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos judiciales de Chalco, Otumba y Texcoco;
+
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro. Ixtlahuaca. Sultepec y Temascaltepec;
+
+Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+
+CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
+
+El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
+
+El uno de agosto de dos mil diez en los distritos judiciales de Cuautitlán, Ecatepec de Morelos y Nezahualcóyotl;
+
+El uno de febrero de dos mil once en los distritos judiciales de Texcoco y Tlalnepantla;
+
+El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotepec, Ixtlahuaca, Zumpango, Sultepec, Temascaltepec, Tenancingo y Valle de Bravo.
+
+QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
