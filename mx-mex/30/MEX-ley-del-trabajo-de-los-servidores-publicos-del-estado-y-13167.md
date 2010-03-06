@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2009-08-14"
+last_updated: "2010-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,13 @@ state: "MEX"
 ---
 # LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DEL ESTADO DE MEXICO
 
-LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
+LEY DE INGRESOS DEL MUNICIPIO DE SAN MIGUEL SOYALTEPEC, DISTRITO DE TUXTEPEC, OAXACA, PARA EL EJERCICIO FISCAL 2022
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE AGOSTO DE 2009.
+TEXTO ORIGINAL.
 
-Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
+Ley publicada en la Novena Sección al Número 11 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de marzo de 2022.
 
-CESAR CAMACHO QUIROZ, Gobernador del Estado Libre y Soberano de México, a sus habitantes sabed:
-
-Que la H. "LIII" Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
-
-DECRETO NUMERO 68
-
-LA "LIII" LEGISLATURA DEL ESTADO DE MEXICO
-
-D E C R E T A :
-
-LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 ## TITULO PRIMERO. De las Disposiciones Generales
 
@@ -291,7 +281,53 @@ Los trabajadores a que se refiere este capítulo tendrán derecho a un aguinaldo
 
 ###### Artículo 42.
 
-Los procesos de movilidad interestatal de los trabajadores a que se refiere este capítulo se realizarán de conformidad a lo establecido en la cláusula séptima del Convenio celebrado el 18 de mayo de 1992 a que se refiere el artículo 38 de esta ley.
+El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
+
+Concepto Cuota en Pesos
+
+I. Copias de documentos existentes en los archivos de las
+
+oficinas municipales 12.00
+
+II. Constancia de Residencia
+
+a) Persona Física 50.00
+
+b) Persona Moral 200.00
+
+III. Constancia de buena conducta 50.00
+
+IV. Certificado de posesión 50.00
+
+V. Constancia de vecindad e Identidad 50.00
+
+VI. Constancia de solvencia o insolvencia económica 50.00
+
+VII. Constancia de no adeudo de impuesto predial 50.00
+
+VIII. Integración al Padrón de Proveedores de Bienes y Servicios
+
+a) Inscripción 1,000.00
+
+b) Actualización Anual 700.00
+
+IX. Cancelación de cuenta predial 50.00
+
+X. Constancia de apeo y deslinde 70.00
+
+XI. Certificación de la superficie de un predio 500.00
+
+XII. Certificación de la ubicación de un inmueble 750.00
+
+(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 59/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE DICIEMBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+XIII. BÚSQUEDA DE DOCUMENTOS EN EL ARCHIVO
+
+MUNICIPAL 30.00
+
+XIV. Demás certificaciones que las disposiciones legales y
+
+reglamentarias definan a cargo del Ayuntamiento. 60.00
 
 ###### Artículo 43.
 
