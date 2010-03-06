@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-01-25"
+last_updated: "2010-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -963,7 +963,17 @@ XIII. Promover e impulsar la participación de la comunidad en el cuidado de su 
 
 XIV. Impulsar la permanente actualización de las disposiciones legales en materia de salud;
 
-XV. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal de salud.
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XV. Coordinar la elaboración de programas de prevención, atención y erradicación de la violencia de género; difundir entre los usuarios del sistema estatal de salud el conocimiento de sus derechos y los mecanismos para su exigibilidad en la materia e impulsar acciones que aseguren la igualdad de acceso de mujeres y hombres a la salud;
+
+> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XVI. Promover y fomentar investigaciones con perspectiva de género en materia de salud, así como para prevenir, atender y erradicar la violencia contra las mujeres estableciendo mecanismos para la atención de las víctimas;
+
+> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XVII. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal de salud.
 
 ###### Artículo 2.
 
@@ -1499,9 +1509,11 @@ Asimismo, deberá promover y apoyar la educación media superior y superior en t
 
 7.- En materia de educación, será aplicable lo dispuesto en las leyes General de Educación y para la Coordinación de la Educación Superior, y en este Libro.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 3.
 
-8.- Son atribuciones de la Secretaría de Educación, Cultura y Bienestar Social:
+8.- Son atribuciones de la Secretaría de Educación:
 
 I. Fortalecer la educación pública;
 
@@ -1529,7 +1541,9 @@ XII. Promover que las instituciones que forman parte del sistema educativo estat
 
 XIII. Impulsar el establecimiento de centros de desarrollo infantil y de educación para adultos, con el apoyo de los municipios y de los beneficiarios de los servicios;
 
-XIV. Promover y favorecer la educación para la salud, sexual, ambiental, las bellas artes y el deporte, así como la enseñanza de un idioma extranjero, preferentemente el inglés, en todos los tipos y niveles educativos;
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XIV. Promover y favorecer la educación para la salud, sexual, civismo, ética, fomento al respeto a la mujer, ambiental, las bellas artes y el deporte, así como la enseñanza de un idioma extranjero, preferentemente el inglés, en todos los tipos y niveles educativos;
 
 XV. Promover la incorporación de los estudiantes de las instituciones públicas y privadas a los servicios de atención médica;
 
@@ -1641,7 +1655,9 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 19.- Los servidores públicos docentes tendrán derecho a un salario profesional que les permita acceder a un nivel de vida decoroso para su familia.
 
-### CAPITULO TERCERO. De la inhumación en la Rotonda de los Hombres Ilustres del Estado de México
+### CAPITULO TERCERO. De la Inhumación en la Rotonda de las Personas Ilustres del Estado de México
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 3.
 
@@ -2201,7 +2217,9 @@ n) "José María Luis Mora", que se entregará a quienes, sin ser mexiquenses, r
 
 II. Los especiales "León Guzmán" que, a propuesta de personas físicas o morales, o a juicio del Gobernador del Estado, se podrán conceder, en cualquier tiempo, a las personas con un mérito civil relevante. Estos reconocimientos podrán otorgarse post-mortem;
 
-III. La inhumación en la Rotonda de los Hombres Ilustres.
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+III. La inhumación en la Rotonda de las Personas Ilustres del Estado de México.
 
 ###### Artículo 3.
 
@@ -2229,9 +2247,13 @@ El derecho al uso de la presea a que se refiere este Capítulo, se extingue por 
 
 66.- Podrán concurrir como triunfadoras varias personas con derecho a presea, cuando así se dictamine, en cuyo caso se distribuirá a partes iguales entre los premiados, la entrega en numerario.
 
+> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 3.
 
-67.- El Gobernador del Estado tiene la facultad para decretar la inhumación de los restos de mexiquenses ilustres en la Rotonda de los Hombres Ilustres, creada para tal efecto dentro del cementerio municipal de la ciudad de Toluca de Lerdo.
+67.- El Gobernador del Estado tiene la facultad para decretar la inhumación de los restos de mexiquenses ilustres en la Rotonda de las Personas Ilustres del Estado de México, creada para tal efecto dentro del cementerio municipal de la ciudad de Toluca de Lerdo.
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ### CAPITULO PRIMERO. Del Ordenamiento y Clasificación de los Servicios Turísticos
 
@@ -2239,7 +2261,7 @@ El derecho al uso de la presea a que se refiere este Capítulo, se extingue por 
 
 ###### Artículo 3.
 
-68.- Los ayuntamientos, las organizaciones culturales, científicas, cívicas y políticas de la entidad podrán solicitar al Gobernador del Estado, la inhumación de los restos de un mexiquense en la Rotonda de los Hombres Ilustres del Estado de México.
+68.- Los ayuntamientos, las organizaciones culturales, científicas, cívicas y políticas de la entidad podrán solicitar al Gobernador del Estado, la inhumación de los restos de mexiquenses en la Rotonda de las Personas Ilustres del Estado de México.
 
 ###### Artículo 3.
 
@@ -9055,7 +9077,7 @@ VII. Proporcionar, divulgar o usar información que en términos de este Libro n
 
 VIII. Obtener algún ingreso no contemplado en las disposiciones legales vigentes por la prestación del Servicio Estatal;
 
-IX. Otorgar exenciones, condenaciones o subsidios.
+IX. Otorgar exenciones, condonaciones o subsidios.
 
 Las infracciones previstas en las fracciones I, III, V, VI y VII o la reincidencia en las conductas previstas en las demás fracciones de este artículo, serán consideradas como graves para efectos de su sanción administrativa, en términos de lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
 
@@ -10786,3 +10808,33 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
+
+G.G. 6 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
+
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos judiciales de Chalco, Otumba y Texcoco;
+
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
+
+Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, jilotepec y Valle de Chalco.
+
+CUARTO.·Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
+
+El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
+
+El uno de agosto de dos mil diez en los distritos judiciales de Cuautitlán, Ecatepec de Morelos y Nezahualcóyotl;
+
+El uno de febrero de dos mil once en los distritos judiciales de Texcoco y Tlalnepantla;
+
+El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotepec, Ixtlahuaca, Zumpango, Sultepec, Temascaltepec, Tenancingo y Valle de Bravo.
+
+QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
