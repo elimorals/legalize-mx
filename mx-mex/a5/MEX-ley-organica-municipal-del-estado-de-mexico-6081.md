@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2010-02-02"
+last_updated: "2010-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1805,7 +1805,9 @@ Los ayuntamientos están facultados para constituir con cargo a la hacienda púb
 
 Los ayuntamientos podrán crear organismos públicos descentralizados para:
 
-a) La atención del desarrollo de la mujer;
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+a) La atención del desarrollo de la mujer; mediante la creación de albergues para tal objeto;
 
 b) De (sic) la cultura física y deporte;
 
@@ -2385,13 +2387,25 @@ V. Servicios públicos municipales;
 
 VI. Desarrollo económico y bienestar social;
 
-VII. Protección ecológica y mejoramiento del medio ambiente;
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-VIII. Actividad industrial, comercial y de servicios a cargo de los particulares;
+VII. Programa Estratégico para lograr la equidad de género;
 
-IX. Infracciones, sanciones y recursos;
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-X. Las demás que se estimen necesarias.
+VIII. Protección ecológica y mejoramiento del medio ambiente;
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+IX. Actividad industrial, comercial y de servicios a cargo de los particulares;
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+X. Infracciones, sanciones y recursos;
+
+> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XI. Las demás que se estimen necesarias.
 
 ###### Artículo 163.
 
@@ -2708,3 +2722,33 @@ G.G. 2 DE FEBRERO DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 6 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
+
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos Judiciales de Chalco, Otumba y Texcoco;
+
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca. Sultepec y Temascaltepec;
+
+Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+Hasta, el treinta de septiembre de dos mil once en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+
+CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
+
+El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
+
+El uno de agosto de dos mil diez en los distritos judiciales de Cuautitlán, Ecatepec de Morelos y Nezahualcóyotl;
+
+El uno de febrero de dos mil once en los distritos judiciales de Texcoco y Tlalnepantla;
+
+El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotepec, Ixtlahuaca, Zumpango, Sultepec, Temascaltepec, Tenancingo y Valle de Bravo.
+
+QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
