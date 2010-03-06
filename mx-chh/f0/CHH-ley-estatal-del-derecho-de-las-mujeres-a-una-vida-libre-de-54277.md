@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2007-01-24"
+last_updated: "2010-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2010.
 
-Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
+Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
 EL CIUDADANO LICENCIADO JOSE REYES BAEZA TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 
@@ -123,6 +123,10 @@ XII. Agresor: La persona física que ejecuta algún acto de violencia contra las
 
 XIII. Modalidades de violencia: Las formas, las manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres.
 
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2010)</small>
+
+XIV. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia, para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+
 ###### Artículo 5.
 
 Los tipos de violencia contra las mujeres son:
@@ -148,6 +152,64 @@ II. Violencia institucional: Son los actos u omisiones de las y los servidores p
 III. Violencia laboral y docente: Es todo acto u omisión ejercido en abuso de poder por personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, que daña su autoestima, salud, integridad, libertad y seguridad, impide su desarrollo y atenta contra la igualdad.
 
 IV. Violencia en la comunidad: Son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres en el ámbito público y propician su denigración, discriminación, marginación o exclusión.
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2010)</small>
+
+V. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 6
+
+a.- La alerta de violencia de género contra las mujeres tendrá como objetivo fundamental garantizar la seguridad de las mismas, el cese de la violencia en su contra y eliminar las desigualdades producidas por una legislación que agravia sus derechos humanos, por lo que se deberá:
+
+I. Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que le dé el seguimiento respectivo;
+
+II. Implementar las acciones preventivas, de seguridad y justicia, para enfrentar y abatir la violencia feminicida;
+
+III. Elaborar reportes especiales sobre la zona y el comportamiento de los indicadores de la violencia contra las mujeres;
+
+IV. Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las mujeres, y
+
+V. Hacer del conocimiento público el motivo de la alerta de violencia de género contra las mujeres, y la zona territorial que abarcan las medidas a implementar.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 6
+
+b.- La declaratoria de alerta de violencia de género contra las mujeres, se emitirá cuando:
+
+I. Los delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, perturben la paz social en un territorio determinado y la sociedad así lo reclame;
+
+II. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres, y
+
+III. Los organismos de derechos humanos a nivel nacional o de las Entidades Federativas, los organismos de la sociedad civil y/o los organismos internacionales, así lo soliciten.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 6
+
+c.- Corresponderá al Gobierno Federal, a través de la Secretaría de Gobernación, declarar la alerta de violencia de género y notificar la declaratoria al Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 6
+
+d.- Ante la violencia feminicida, el Estado de Chihuahua y sus municipios participarán, junto con el Gobierno Federal, en el resarcimiento del daño, conforme a los parámetros establecidos en los derechos humanos reconocidos internacionalmente y considerar como reparación:
+
+I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar las violaciones a los derechos de las mujeres y sancionar a los responsables;
+
+II. La rehabilitación: Se debe garantizar la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas directas o indirectas;
+
+III. La satisfacción: Son las medidas que buscan una reparación orientada a la prevención de violaciones. Entre las medidas a adoptar se encuentran:
+
+a) La aceptación del Estado de su responsabilidad ante el daño causado y su compromiso de repararlo;
+
+b) La investigación y sanción de los actos de autoridades omisas o negligentes que llevaron la violación de los derechos humanos de las víctimas a la impunidad;
+
+c) El diseño e instrumentación de políticas públicas que eviten la comisión de delitos contra las mujeres, y
+
+d) La verificación de los hechos y la publicidad de la verdad.
 
 ###### Artículo 7.
 
@@ -778,3 +840,9 @@ LIC. JOSE REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE MARZO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
