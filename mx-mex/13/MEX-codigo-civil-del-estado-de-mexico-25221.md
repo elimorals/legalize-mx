@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2008-08-07"
+last_updated: "2010-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO CIVIL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -187,9 +187,13 @@ Derechos de las personas
 
 5.- De manera enunciativa y no limitativa, los derechos de las personas físicas y colectivas en lo que sea compatible con su naturaleza son los siguientes:
 
-I. El honor, el crédito y el prestigio;
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-II. La vida privada y familiar
+I. El honor, la dignidad, el crédito y el prestigio;
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+II. El aseguramiento de una vida privada y familiar libre de violencia;
 
 III. El respeto a la reproducción de la imagen y voz;
 
@@ -201,7 +205,9 @@ VI. La presencia estética;
 
 VII. Los afectivos derivados de la familia, la amistad y los bienes;
 
-VIII. El de la integridad física.
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+VIII. El respeto, salvaguarda y protección de la integridad física, psicológica y patrimonial.
 
 Capacidad de ejercicio para donar órganos
 
@@ -348,6 +354,16 @@ Domicilio convencional
 ###### Artículo 2.
 
 22.- El domicilio convencional, es aquel que la persona tiene derecho a designar para el cumplimiento de determinadas obligaciones.
+
+> <small>(ADICIONADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+
+Domicilio familiar
+
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 2.
+
+23.- Es el lugar donde reside un grupo familiar.
 
 # LIBRO TERCERO. Del Registro Civil
 
@@ -709,29 +725,53 @@ Aclaración de actas del estado civil
 
 41.- La aclaración de las actas del estado civil, procede ante el titular del Registro Civil, cuando al aceptar aquéllas se hubieren cometido errores mecanográficos, ortográficos o de otra índole que no afecten sus datos esenciales. La pueden solicitar las mismas personas que pueden solicitar la rectificación o modificación de un acta del estado civil.
 
-### CAPITULO I. De los Requisitos para Contraer Matrimonio
+### CAPITULO I. De la Familia
 
-Concepto de matrimonio
+> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+
+De la familia
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 # LIBRO CUARTO. Del Derecho Familiar
 
-## TITULO PRIMERO. Del Matrimonio
+> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
 
-### CAPITULO II. De los derechos y obligaciones que nacen
+## TITULO PRIMERO. De la Familia y el Matrimonio
 
-del Matrimonio
+> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
 
-Obligaciones entre los cónyuges
+### CAPITULO I BIS. De los Requisitos para contraer Matrimonio
+
+> <small>(ADICIONADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+
+Concepto de matrimonio
+
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 4.
 
-1.- El matrimonio es una institución de carácter público e interés social, por medio de la cual un hombre y una mujer voluntariamente deciden compartir un estado de vida para la búsqueda de su realización personal y la fundación de una familia.
+1.- Las disposiciones de este Código que se refieran a la familia, son de orden público e interés social y tienen por objeto proteger su organización y el desarrollo integral de sus miembros, basados en el respeto a su dignidad, libertad y la equidad de género.
+
+Las relaciones jurídicas familiares constituyen el conjunto de deberes, derechos y obligaciones de las personas integrantes del grupo familiar, derivado de lazos de matrimonio, concubinato o parentesco.
+
+Es deber de los miembros de la familia observar entre ellos consideración, solidaridad y respeto recíprocos en el desarrollo de las relaciones familiares.
+
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
+
+### CAPITULO II. De los derechos y obligaciones que nacen del Matrimonio
+
+Obligaciones entre los cónyuges
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 4.
+
+1 Bis.- El matrimonio es una institución de carácter público e interés social, por medio de la cual un hombre y una mujer voluntariamente deciden compartir un estado de vida para la búsqueda de su realización personal y la fundación de una familia.
 
 Solemnidades para la celebración del matrimonio
 
-### CAPITULO I. Disposiciones Generales
-
-Régimen patrimonial en el matrimonio
+(REUBICADO, G.G. 6 DE MARZO DE 2010)
 
 ###### Artículo 4.
 
@@ -751,23 +791,27 @@ VI. En caso de no existir impedimento, preguntará a cada uno de los contrayente
 
 Irrenunciables los fines del matrimonio
 
+(REUBICADO, G.G. 6 DE MARZO DE 2010)
+
 ###### Artículo 4.
 
 3.- Cualquier estipulación contraria a los fines esenciales del matrimonio, se tendrá por no puesta.
 
 Edad para contraer matrimonio
 
+(REUBICADO Y REFORMADO PRIMER PARRAFO, G.G. 6 DE MARZO DE 2010)
+
 ###### Artículo 4.
 
-4.- Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce.
+4.- Para contraer matrimonio, la mujer y el hombre necesitan haber cumplido dieciocho años.
 
 Los Jueces de Primera Instancia pueden conceder dispensas de edad por causas graves y justificadas.
 
-> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2007)</small>
-
-Para el caso de tratarse de ofendidas por el delito de violación por equiparación, cuando la víctima sea menor de quince años y en el caso de que esta haya dado su consentimiento para la cópula y no concurra modificativa, la edad requerida para contraer matrimonio es de trece años.
+> <small>(DEROGADO TERCER PARRAFO, G.G. 6 DE MARZO DE 2010)</small>
 
 Personas que deben consentir el matrimonio de menores
+
+(REUBICADO, G.G. 6 DE MARZO DE 2010)
 
 ###### Artículo 4.
 
@@ -777,11 +821,15 @@ El mismo procedimiento se seguirá en caso de negativa o revocación del consent
 
 Causa para justificar el consentimiento expreso
 
+(REUBICADO, G.G. 6 DE MARZO DE 2010)
+
 ###### Artículo 4.
 
 6.- Quienes hayan otorgado el consentimiento de manera fehaciente, no podrán revocarlo, a menos que haya causa justificada para ello.
 
 Impedimentos para contraer matrimonio
+
+(REUBICADO, G.G. 6 DE MARZO DE 2010)
 
 ###### Artículo 4.
 
@@ -799,7 +847,9 @@ V. El adulterio habido entre las personas que pretendan contraer matrimonio, cua
 
 VI. El atentado contra la vida de alguno de los casados, judicialmente comprobado, para contraer matrimonio con el que quede libre;
 
-VII. La violencia para obtener el consentimiento para celebrar el matrimonio. En caso de rapto, subsiste el impedimento entre los sujetos activo y pasivo, mientras éste no sea restituido a lugar seguro, donde libremente pueda manifestar su voluntad;
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+VII. La violencia para obtener el consentimiento para celebrar el matrimonio;
 
 VIII. La embriaguez habitual y el uso indebido y persistente de estupefacientes, psicotrópicos o de cualquier otra sustancia que altere la conducta y produzca dependencia;
 
@@ -811,11 +861,15 @@ XI. El matrimonio subsistente de alguno de los contrayentes.
 
 Imposibilidad de matrimonio entre adoptante y adoptado
 
+(REUBICADO, G.G. 6 DE MARZO DE 2010)
+
 ###### Artículo 4.
 
 8.- En la adopción, el adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
 
 Requisitos para que el tutor y su pupilo puedan contraer matrimonio
+
+(REUBICADO, G.G. 6 DE MARZO DE 2010)
 
 ###### Artículo 4.
 
@@ -823,11 +877,15 @@ Requisitos para que el tutor y su pupilo puedan contraer matrimonio
 
 Prohibición para el curador y sus descendientes
 
+(REUBICADO, G.G. 6 DE MARZO DE 2010)
+
 ###### Artículo 4.
 
 10.- La prohibición señalada en el artículo anterior comprende también al curador y a los descendientes de éste y del tutor.
 
 Oficial con conocimiento de impedimentos para el matrimonio
+
+(REUBICADO, G.G. 6 DE MARZO DE 2010)
 
 ###### Artículo 4.
 
@@ -837,6 +895,8 @@ El acta firmada por los que en ella intervinieren, será remitida al Juez de Pri
 
 Denuncia de impedimentos de matrimonio
 
+(REUBICADO, G.G. 6 DE MARZO DE 2010)
+
 ###### Artículo 4.
 
 12.- Las denuncias de impedimento pueden hacerse por cualquiera persona bajo protesta de decir verdad.
@@ -845,11 +905,15 @@ Si se declara no haber impedimento, el denunciante de mala fe, será condenado a
 
 De los impedimentos no hay desistimiento
 
+(REUBICADO, G.G. 6 DE MARZO DE 2010)
+
 ###### Artículo 4.
 
 13.- Denunciado el impedimento el denunciante no se podrá desistir de él, y el oficial del Registro Civil suspenderá la celebración del matrimonio, en tanto se decida por el Juez o se obtenga dispensa.
 
 Matrimonio sin dispensa entre tutor y pupilo
+
+(REUBICADO, G.G. 6 DE MARZO DE 2010)
 
 ###### Artículo 4.
 
@@ -857,21 +921,27 @@ Matrimonio sin dispensa entre tutor y pupilo
 
 Matrimonio de mexicanos en el extranjero
 
+(REUBICADO, G.G. 6 DE MARZO DE 2010)
+
 ###### Artículo 4.
 
 15.- Tratándose de mexicanos que se casen en el extranjero y que se domicilien en el Estado, pueden solicitar la trascripción del acta de matrimonio en la oficialía del Registro Civil que corresponda.
 
 Los efectos civiles, se retrotraerán a la fecha de la celebración del matrimonio.
 
+### CAPITULO I. Disposiciones Generales
+
+Régimen patrimonial en el matrimonio
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 4.
 
-16.- Los cónyuges están obligados a guardarse fidelidad, a contribuir a los fines del matrimonio, a socorrerse y respetarse.
+16.- Los cónyuges están obligados a guardarse fidelidad, solidaridad, respetarse en su integridad física y psicológica, dignidad, bienes, creencias, nacionalidad, orígenes étnicos o de raza y en su condición de género, a contribuir a los fines del matrimonio y a socorrerse mutuamente.
+
+Los cónyuges tienen derecho a decidir de manera libre, responsable e informada sobre el número de hijos que deseen tener, así como a emplear métodos de reproducción asistida para lograr su propia descendencia. Este derecho sólo será ejercido por común acuerdo de los cónyuges y de conformidad con las restricciones que al efecto establezcan las leyes.
 
 Domicilio conyugal
-
-### CAPITULO II. De la Sociedad Conyugal
-
-Disposiciones que regulan las capitulaciones matrimoniales
 
 ###### Artículo 4.
 
@@ -887,6 +957,14 @@ Sostenimiento económico del hogar
 
 No tiene esta obligación el cónyuge que carezca de bienes propios y esté imposibilitado para trabajar; ni el que por convenio tácito o expreso, se ocupe de las labores del hogar o de la atención de los hijos. En estos casos, el otro cónyuge solventará íntegramente esos gastos.
 
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
+
+El trabajo del hogar consiste en realizar tareas de administración, dirección y atención del hogar, así como el cuidado de la familia, se consideran aportaciones económicas para el sostenimiento del hogar, los alimentos y la adquisición de los bienes durante el matrimonio, equivalentes a la aportación económica del otro cónyuge.
+
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
+
+Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges, independientemente de su aportación económica al sostenimiento del hogar.
+
 Educación de los hijos y administración de bienes
 
 ###### Artículo 4.
@@ -897,9 +975,11 @@ En caso de desacuerdo el Juez de Primera Instancia resolverá lo conducente, sin
 
 Libertad entre los cónyuges para elegir su actividad
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 4.
 
-20.- Los cónyuges podrán desempeñar cualquier actividad, excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate, y el Juez competente resolverá lo que proceda.
+20.- Los cónyuges podrán desempeñar la actividad, ocupación, profesión, u oficio que elijan, siendo lícitos.
 
 Administración de bienes por el cónyuge menor
 
@@ -921,11 +1001,17 @@ Entre cónyuges no hay prescripción
 
 ###### Artículo 4.
 
-24.- El matrimonio debe celebrarse bajo el régimen de sociedad conyugal o el de separación de bienes. En el caso de omisión o imprecisión, se entenderá celebrado bajo el régimen de separación de bienes.
+24.- El matrimonio debe celebrarse bajo el régimen de sociedad conyugal o el de separación de bienes. En el caso de omisión o imprecisión, se entenderá celebrado bajo el régimen de sociedad conyugal.
 
 El régimen patrimonial podrá cambiarse mediante resolución judicial.
 
 Concepto de capitulaciones matrimoniales
+
+## TITULO SEGUNDO. De los efectos del Matrimonio en relación con los Bienes de los Cónyuges
+
+### CAPITULO II. De la Sociedad Conyugal
+
+Disposiciones que regulan las capitulaciones matrimoniales
 
 ###### Artículo 4.
 
@@ -933,21 +1019,25 @@ Concepto de capitulaciones matrimoniales
 
 Tiempo de otorgarse las capitulaciones matrimoniales
 
-## TITULO SEGUNDO. De los efectos del Matrimonio en relación con los Bienes de los Cónyuges
-
-### CAPITULO III. De la Separación de Bienes
-
-Disposiciones que rigen la separación de bienes
-
 ###### Artículo 4.
 
 26.- Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él, y pueden comprender no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieran después.
 
 Bienes que comprende la sociedad conyugal
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 4.
 
-27.- A falta de pacto expreso, la sociedad conyugal comprenderá todos los bienes que adquieran los cónyuges, individual o conjuntamente durante la vigencia de la misma, a excepción de los bienes adquiridos por donación o herencia.
+27.- La sociedad conyugal comprende todos los bienes que adquieran los cónyuges, individual o conjuntamente durante la vigencia de la misma, a excepción de los siguientes:
+
+I. Los bienes y derechos que pertenezcan a cada cónyuge al tiempo de celebrarse el matrimonio, y los que posea antes de éste, aunque no fuera dueño de ellos, si los adquiere por prescripción o adjudicación durante el matrimonio;
+
+II. Los bienes adquiridos después de contraído el matrimonio, por herencia, legado, donación o premios derivados de juegos o sorteos;
+
+III. Los bienes que se adquieran durante el matrimonio, con el producto de la venta o permuta de bienes y derechos a que se refieren las dos fracciones anteriores; y
+
+IV. Objetos de uso personal.
 
 Otorgamiento de capitulación por el menor
 
@@ -959,19 +1049,21 @@ Otorgamiento de capitulación por el menor
 
 29.- La sociedad conyugal se regirá por las capitulaciones matrimoniales y por las disposiciones de este capítulo.
 
-El dominio de los bienes comunes reside en ambos cónyuges en la proporción establecida en las capitulaciones; a falta de ellas o de disposición al respecto, se entenderá que es por partes iguales.
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+El dominio de los bienes comunes reside en ambos cónyuges en la proporción establecida en las capitulaciones; a falta de ellas, los bienes adquiridos durante el matrimonio son propiedad de ambos cónyuges en partes iguales.
 
 Casos en que las capitulaciones y modificaciones deben constar en escritura
+
+### CAPITULO III. De la Separación de Bienes
+
+Disposiciones que rigen la separación de bienes
 
 ###### Artículo 4.
 
 30.- Las capitulaciones matrimoniales y sus modificaciones, constarán en escritura pública cuando los cónyuges se hagan copartícipes o transmitan la propiedad de bienes cuando la ley exija tal requisito, para su transmisión; pudiéndose inscribir en el Registro Público de la Propiedad.
 
 Terminación de la sociedad conyugal
-
-### CAPITULO IV. De las Donaciones Antenupciales
-
-Concepto de la donación antenupcial
 
 ###### Artículo 4.
 
@@ -1063,9 +1155,11 @@ Inventario por terminación de la sociedad
 
 Liquidación de la sociedad
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 4.
 
-43.- Aprobado el inventario, se pagarán los créditos que hubiere contra el patrimonio común y el sobrante, si lo hubiere, se dividirá entre los dos cónyuges en la forma convenida.
+43.- Aprobado el inventario, se pagarán los créditos que hubiere contra el patrimonio común y el sobrante, si lo hubiere, se dividirá entre los dos cónyuges en partes iguales o de acuerdo a la forma convenida en las capitulaciones matrimoniales.
 
 Administración del patrimonio común por muerte de un cónyuge
 
@@ -1083,17 +1177,21 @@ Reglas sobre terminación y liquidación de la sociedad
 
 46.- La separación de bienes se rige por las capitulaciones matrimoniales o por sentencia judicial. La separación puede comprender no sólo los bienes de que sean propietarios los cónyuges al celebrar el matrimonio, sino también los que adquieran después.
 
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
+
+Para efectos de divorcio, cuando alguno de los cónyuges haya realizado trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o cuidado de la familia, de manera cotidiana, tendrá derecho a la repartición de los bienes adquiridos durante el matrimonio, el cual no podrá ser superior al 50%, con base en los principios de equidad y proporcionalidad.
+
 Régimen de separación de bienes absoluto o parcial
+
+### CAPITULO IV. De las Donaciones Antenupciales
+
+Concepto de la donación antenupcial
 
 ###### Artículo 4.
 
 47.- La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones, serán objeto de la sociedad conyugal.
 
 Conclusión de la separación de bienes
-
-### CAPITULO V. De las Donaciones entre Cónyuges
-
-Confirmación de las donaciones entre cónyuges
 
 ###### Artículo 4.
 
@@ -1123,15 +1221,15 @@ Contribución de los cónyuges a la educación y alimentación de los hijos
 
 Determinación de donación antenupcial inoficiosa
 
+### CAPITULO V. De las Donaciones entre Cónyuges
+
+Confirmación de las donaciones entre cónyuges
+
 ###### Artículo 4.
 
 53.- Para determinar si es inoficiosa una donación antenupcial, tienen, el cónyuge donatario o sus herederos, la facultad de elegir la época en que se hizo la donación o la del fallecimiento del donador, pero si al hacerse la donación no se formó inventario de los bienes del donador, no podrá elegirse la época en que se otorgó.
 
 Consentimiento tácito en las donaciones antenupciales
-
-### CAPITULO VI. De los Matrimonios nulos
-
-Causas de nulidad de matrimonio
 
 ###### Artículo 4.
 
@@ -1167,13 +1265,13 @@ Reglas aplicables a las donaciones antenupciales
 
 Posibilidad de revocar donaciones entre cónyuges
 
+### CAPITULO VI. De los Matrimonios nulos
+
+Causas de nulidad de matrimonio
+
 ###### Artículo 4.
 
 60.- Las donaciones entre cónyuges pueden ser revocadas libremente y en todo tiempo por los donantes.
-
-### CAPITULO I. Disposiciones Generales
-
-Derecho a la procreación
 
 ###### Artículo 4.
 
@@ -1187,15 +1285,15 @@ III. Que se haya celebrado sin las formalidades que la ley señala.
 
 Legitimación para pedir la nulidad de matrimonio por error
 
+### CAPITULO I. Disposiciones Generales
+
+Derecho a la procreación
+
 ###### Artículo 4.
 
 62.- La acción de nulidad que nace del error o la impotencia, sólo puede ejercitarse por el cónyuge engañado; pero si no lo denuncia dentro del plazo de treinta días de conocerlo, se tiene por ratificado el consentimiento.
 
 Casos en que la falta de edad no es causa de nulidad de matrimonio
-
-### CAPITULO II. Del parentesco
-
-Clases de parentesco
 
 ###### Artículo 4.
 
@@ -1383,15 +1481,15 @@ III. Se celebre sin que hayan transcurrido los plazos para que los divorciados p
 
 Clases de divorcio
 
+## TITULO TERCERO. Del Divorcio
+
+Efectos jurídicos del divorcio
+
 ###### Artículo 4.
 
 89.- El divorcio se clasifica en necesario y voluntario. Es necesario cuando cualquiera de los cónyuges lo reclama fundado en una o más de las causas que señala el artículo siguiente y es voluntario cuando se solicita de común acuerdo por éstos.
 
 Causas de divorcio necesario
-
-## TITULO TERCERO. Del Divorcio
-
-Efectos jurídicos del divorcio
 
 ###### Artículo 4.
 
@@ -1419,7 +1517,9 @@ X. (DEROGADA, G.G. 29 DE AGOSTO DE 2007)
 
 XI. La sevicia, las amenazas o las injurias graves de un cónyuge para el otro, que hagan difícil la vida en común;
 
-XII. La negativa de los cónyuges de darse alimentos;
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XII. La negativa de los cónyuges de darse alimentos o de darlos a los hijos;
 
 XIII. La acusación calumniosa por un delito, hecha por un cónyuge contra el otro;
 
@@ -1429,7 +1529,9 @@ XV. Los hábitos de juegos prohibidos o de embriaguez habitual, el uso indebido 
 
 XVI. Haber cometido un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de tercero, siempre que tenga señalada en la ley una pena de prisión que exceda un año;
 
-XVII. El grave o reiterado maltrato físico o mental de un cónyuge hacia los hijos de ambos o de uno de ellos;
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XVII. La violencia familiar;
 
 XVIII. Permitir ser instrumento, de un método de concepción humana artificial, sin el consentimiento de su cónyuge;
 
@@ -1483,9 +1585,13 @@ V. Las necesarias para que los cónyuges no se causen daños en su persona, en s
 
 Sentencia de divorcio en relación a los hijos
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 4.
 
-96.- En la sentencia que decrete el divorcio, se determinarán los derechos y obligaciones derivados de la patria potestad, respecto a la persona y bienes de sus hijos, teniendo en cuenta el interés particular de los menores, su salud, costumbres, educación y conservación de su patrimonio. El Juez acordará de oficio cualquier providencia que considere benéfica para los hijos o los sujetos a tutela.
+96.- En la sentencia que decrete el divorcio, se determinarán los derechos y obligaciones derivados de la patria potestad, respecto a la persona y bienes de los hijos, teniendo en cuenta el interés particular de los menores, su salud, costumbres, educación y conservación de su patrimonio.
+
+El Juez acordará de oficio cualquier providencia que considere benéfica para los hijos o los sujetos a tutela.
 
 Revocación de las donaciones por divorcio
 
@@ -1501,11 +1607,29 @@ Liquidación de la sociedad conyugal
 
 Alimentos de los cónyuges en el divorcio
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 4.
 
-99.- En los casos de divorcio, el cónyuge inocente tendrá derecho a alimentos. En el divorcio decretado con base en la separación de los cónyuges por más de dos años, tendrá derecho a ellos el que los necesite.
+99.- En los casos de divorcio necesario, el cónyuge inocente tendrá derecho a alimentos. En el divorcio decretado con base en la separación de los cónyuges por más de un año, tendrá derecho a ellos el que lo necesite.
 
-Además, cuando por el divorcio se originen daños y perjuicios a los intereses del cónyuge inocente, el culpable responderá de ello como autor de un hecho ilícito.
+Para la fijación de los alimentos se tomarán en cuenta las circunstancias siguientes:
+
+I. La edad y el estado de salud de los cónyuges;
+
+II. Su grado de estudios y posibilidad de acceso a un empleo;
+
+III. Medios económicos de uno y de otro cónyuge, así como de sus necesidades;
+
+IV. Otras obligaciones que tenga el cónyuge deudor; y
+
+V. Las demás que el Juez estime necesarias y pertinentes.
+
+En todos los casos, el cónyuge inocente que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o al cuidado de la familia, o que esté imposibilitado para trabajar, tendrá derecho a alimentos, sin menoscabo de la repartición equitativa de bienes.
+
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos, en caso de divorcio necesario, se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato.
+
+El cónyuge inocente tiene derecho, además del pago de alimentos, a que el culpable lo indemnice por los daños y perjuicios que el divorcio le haya causado.
 
 Plazo para contraer nuevo matrimonio
 
@@ -1529,7 +1653,11 @@ I. El domicilio que servirá de habitación a los cónyuges durante el procedimi
 
 II. La cantidad que por alimentos deba cubrir un cónyuge al otro durante el procedimiento, la forma de hacerlo y la garantía que debe darse para asegurarlos;
 
-III. Si hubiere hijos, la mención de quien deba tener su guardia y custodia durante y después del procedimiento y el régimen de convivencia;
+III. Si hubiere hijos, la mención de quien deba tener su guardia y custodia durante y después del procedimiento y el régimen de convivencia.
+
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
+
+Siempre velarán por lograr un ambiente sano acorde a las necesidades del menor evitando en todo momento generar sentimientos negativos, como odio, desprecio, rencor o rechazo hacia uno de los progenitores, de lo contrario serán sujetos a la suspensión o pérdida de la guarda y custodia;
 
 IV. La determinación del que debe de cubrir los alimentos de los hijos así como la forma de pago y su garantía, tanto durante el procedimiento, como después de ejecutoriado el divorcio;
 
@@ -1573,9 +1701,17 @@ Divorcio administrativo sin efectos
 
 Alimentos de los cónyuges en el divorcio voluntario
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 4.
 
-109.- En el divorcio voluntario, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia.
+109.- En el divorcio voluntario se tendrá derecho a recibir alimentos por el mismo lapso de duración del matrimonio, sólo cuando se esté en cualquiera de los siguientes supuestos:
+
+I. Quien haya realizado trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o cuidado de la familia de manera cotidiana durante el matrimonio; o
+
+II. El que por su condición o circunstancia no pueda allegarse sus alimentos.
+
+Este derecho se disfrutará mientras no contraiga matrimonio o se una en concubinato.
 
 Asiento de sentencia ejecutoriada
 
@@ -1603,17 +1739,17 @@ Prohibición de padres o tutores
 
 Clonación
 
+## TITULO CUARTO. Del Parentesco y los Alimentos
+
+### CAPITULO II. Del parentesco
+
+Clases de parentesco
+
 ###### Artículo 4.
 
 114.- Queda prohibido todo método de reproducción asistida en la mujer, para la procreación de seres humanos idénticos por clonación o cualquier otro procedimiento dirigido a la selección de la raza.
 
 Prohibición de la investigación de la paternidad
-
-## TITULO CUARTO. Del Parentesco y los Alimentos
-
-### CAPITULO III. De los Alimentos
-
-Normas de orden público
 
 ###### Artículo 4.
 
@@ -1643,6 +1779,10 @@ Parentesco por afinidad
 
 Parentesco civil
 
+### CAPITULO III. De los Alimentos
+
+Normas de orden público
+
 ###### Artículo 4.
 
 120.- El parentesco civil nace de la adopción y solo existe entre el adoptante y el adoptado.
@@ -1650,10 +1790,6 @@ Parentesco civil
 En la adopción plena, el parentesco se equipara al consanguíneo.
 
 Grados y líneas de parentesco
-
-### CAPITULO I. De los hijos de Matrimonio
-
-Presunción de ser hijo de matrimonio
 
 ###### Artículo 4.
 
@@ -1701,19 +1837,17 @@ Alimentos entre cónyuges
 
 Reglas para que los concubinos se den alimentos
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+### CAPITULO I. De los hijos de Matrimonio
+
+Presunción de ser hijo de matrimonio
+
 ###### Artículo 4.
 
-129.- Los concubinos están obligados a darse alimentos, si se satisfacen los siguientes requisitos:
-
-I. Que estén libres de matrimonio;
-
-II. Que vivan como esposos por un lapso no menor de tres años o tengan hijos de ambos.
+129.- Los concubinos están obligados a darse alimentos.
 
 Obligación alimentaria de los padres
-
-### CAPITULO II. De la Filiación
-
-Prueba de la filiación de hijos de matrimonio
 
 ###### Artículo 4.
 
@@ -1869,15 +2003,15 @@ Improcedencia de desconocimiento de hijo de matrimonio
 
 Legitimación para desconocer paternidad en matrimonio disuelto
 
+### CAPITULO II. De la Filiación
+
+Prueba de la filiación de hijos de matrimonio
+
 ###### Artículo 4.
 
 150.- Las cuestiones relativas a la paternidad del hijo nacido dentro de los trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
 
 Plazo para que el esposo contradiga la paternidad
-
-### CAPITULO III. Del Reconocimiento de los hijos nacidos fuera del Matrimonio
-
-Paternidad y maternidad de hijos fuera de matrimonio
 
 ###### Artículo 4.
 
@@ -1915,17 +2049,17 @@ Prueba de la filiación de hijo de matrimonio a falta o defecto de actas
 
 Prueba de la posesión de estado de hijo
 
+## TITULO QUINTO. De la Paternidad y Filiación
+
+### CAPITULO III. Del Reconocimiento de los hijos nacidos fuera del Matrimonio
+
+Paternidad y maternidad de hijos fuera de matrimonio
+
 ###### Artículo 4.
 
 157.- Si una persona ha sido tratada constantemente por otra y la familia de ésta, como hijo, llevando su apellido o recibiendo alimentos, quedará probada la posesión de estado de hijo.
 
 Acción imprescriptible para reclamar posesión de estado de hijo
-
-## TITULO QUINTO. De la Paternidad y Filiación
-
-### CAPITULO I. Disposiciones Generales
-
-Requisitos para adoptar
 
 ###### Artículo 4.
 
@@ -1971,15 +2105,15 @@ Revocación de reconocimiento de hijo hecho por menor
 
 Reconocimiento de hijo no nacido o fallecido
 
+### CAPITULO I. Disposiciones Generales
+
+Requisitos para adoptar
+
 ###### Artículo 4.
 
 165.- Puede reconocerse al hijo que no ha nacido y al que ha muerto si ha dejado descendencia.
 
 Irrevocabilidad del reconocimiento de hijo
-
-### CAPITULO II. De la Adopción Simple
-
-Límites del parentesco en la adopción simple
 
 ###### Artículo 4.
 
@@ -2025,15 +2159,15 @@ Plazo del menor para impugnar el reconocimiento
 
 Reconocimiento de hijo menor cuidado por una mujer
 
+### CAPITULO II. De la Adopción Simple
+
+Límites del parentesco en la adopción simple
+
 ###### Artículo 4.
 
 172.- La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como su hijo y ha proveído a su alimentación, no se le podrá separar de su lado por el solo reconocimiento, a menos que consienta en entregarlo, o por otra causa legal decidida por sentencia.
 
 Reconocimiento simultáneo por padres que no viven juntos
-
-### CAPITULO III. De la Adopción Plena
-
-Efectos de la adopción plena
 
 ###### Artículo 4.
 
@@ -2173,17 +2307,17 @@ Continuación de la adopción
 
 187.- La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
+## TITULO SEXTO. De la Adopción
+
+### CAPITULO III. De la Adopción Plena
+
+Efectos de la adopción plena
+
 ###### Artículo 4.
 
 188.- Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado.
 
 Continuidad del parentesco natural por la adopción simple
-
-## TITULO SEXTO. De la Adopción
-
-### CAPITULO IV. De la Adopción Internacional
-
-Concepto de la adopción internacional
 
 ###### Artículo 4.
 
@@ -2219,13 +2353,13 @@ Momento en que surte efecto la revocación del adoptado
 
 Tiempo en que surte efectos la revocación por ingratitud
 
+### CAPITULO IV. De la Adopción Internacional
+
+Concepto de la adopción internacional
+
 ###### Artículo 4.
 
 193.- En el caso de ingratitud la adopción deja de producir efectos desde que se comete el acto de ingratitud.
-
-### CAPITULO I. De los efectos de la Patria Potestad respecto de la persona
-
-Respeto y consideración entre hijos y ascendientes
 
 ###### Artículo 4.
 
@@ -2255,13 +2389,13 @@ Efectos de la adopción plena en relación al parentesco natural
 
 Irrevocabilidad de la adopción plena
 
+### CAPITULO I. De los efectos de la Patria Potestad respecto de la persona
+
+Respeto y consideración entre hijos y ascendientes
+
 ###### Artículo 4.
 
 198.- La adopción plena es irrevocable.
-
-### CAPITULO II. De los efectos de la Patria Potestad con respecto a los bienes
-
-Administración de los bienes del menor por quien ejerce patria potestad
 
 ###### Artículo 4.
 
@@ -2285,11 +2419,17 @@ Personas sobre las que se ejerce la patria potestad
 
 Aspectos que comprende la patria potestad
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 4.
 
-203.- La patria potestad comprende la representación legal y la protección integral del menor en sus aspectos físico, moral y social, su guarda y custodia, la administración de sus bienes y el derecho de corrección.
+203.- La patria potestad comprende la representación legal y la protección integral del menor en sus aspectos físico, psicológico, moral y social, su guarda y custodia, la administración de sus bienes y el derecho de corrección.
 
 Orden de las personas que ejercen la patria potestad
+
+### CAPITULO II. De los efectos de la Patria Potestad con respecto a los bienes
+
+Administración de los bienes del menor por quien ejerce patria potestad
 
 ###### Artículo 4.
 
@@ -2297,17 +2437,19 @@ Orden de las personas que ejercen la patria potestad
 
 I. Por el padre y la madre;
 
-II. Por el abuelo y la abuela maternos;
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-III. Por el abuelo y la abuela paternos.
+II. Por los abuelos;
 
-Tratándose de controversia entre los abuelos, el Juez decidirá, tomando en cuenta los intereses del menor.
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+III. Por los familiares consanguíneos hasta el tercer grado colateral.
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+Tratándose de controversia, el Juez decidirá, tomando en cuenta los intereses del menor.
 
 La patria potestad en caso de separación de la pareja que la ejerce
-
-### CAPITULO III. De los modos de acabarse y suspenderse la Patria Potestad
-
-Conclusión de la patria potestad
 
 ###### Artículo 4.
 
@@ -2321,11 +2463,9 @@ La patria potestad en la adopción simple
 
 206.- En la adopción simple la patria potestad solo la ejercen los adoptantes.
 
-Facultad de corrección y buena conducta de quien ejerce patria potestad
-
 ###### Artículo 4.
 
-207.- Los que ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos mesuradamente, educarlos convenientemente y la obligación de observar una conducta que les sirva de buen ejemplo.
+207.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
 ###### Artículo 4.
 
@@ -2333,21 +2473,23 @@ Facultad de corrección y buena conducta de quien ejerce patria potestad
 
 Administración en el ejercicio conjunto de la patria potestad
 
+### CAPITULO III. De los modos de acabarse y suspenderse la Patria Potestad
+
+Conclusión de la patria potestad
+
 ###### Artículo 4.
 
 209.- Cuando la patria potestad se ejerza conjuntamente, el administrador de los bienes será nombrado por mutuo acuerdo; pero el designado consultará en todos los negocios a su cónyuge y requerirá su consentimiento expreso para los actos más importantes de la administración.
 
 Representación en juicio al hijo bajo patria potestad
 
-### CAPITULO I. Disposiciones Generales
-
-Objeto de la tutela
-
 ###### Artículo 4.
 
 210.- Uno solo de los que ejercen la patria potestad podrá representar al hijo en juicio; pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso de su cónyuge, y con la autorización judicial cuando la ley lo requiera expresamente.
 
 Clases de bienes de los sujetos a patria potestad
+
+## TITULO SEPTIMO. De la Patria Potestad
 
 ###### Artículo 4.
 
@@ -2359,19 +2501,17 @@ II. Los que adquiera por cualquiera otro título.
 
 Bienes adquiridos por trabajo del sujeto a patria potestad
 
-## TITULO SEPTIMO. De la Patria Potestad
+## TITULO OCTAVO. De la Tutela y Curatela
+
+### CAPITULO I. Disposiciones Generales
+
+Objeto de la tutela
 
 ###### Artículo 4.
 
 212.- Los bienes adquiridos por el trabajo del sujeto a patria potestad le pertenecen en propiedad, administración y usufructo.
 
 Usufructo y administración de bienes adquiridos por otro título
-
-## TITULO OCTAVO. De la Tutela y Curatela
-
-### CAPITULO II. De la Tutela Testamentaria
-
-Persona facultada para nombrar tutor testamentario
 
 ###### Artículo 4.
 
@@ -2419,6 +2559,10 @@ Al efecto, el precio de la venta se depositará en el Tribunal, y la persona que
 
 Extinción del usufructo sobre bienes del sujeto a patria potestad
 
+### CAPITULO II. De la Tutela Testamentaria
+
+Persona facultada para nombrar tutor testamentario
+
 ###### Artículo 4.
 
 219.- El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
@@ -2428,10 +2572,6 @@ I. Por la terminación de la patria potestad;
 II. Por renuncia.
 
 Interés opuesto entre quien ejerza la patria potestad y quien está sujeto a ella
-
-### CAPITULO III. De la Tutela Legítima de los menores
-
-Procedencia de la tutela legítima
 
 ###### Artículo 4.
 
@@ -2475,17 +2615,17 @@ Pérdida de la patria potestad por sentencia
 
 I. Cuando el que la ejerza es condenado por delito doloso grave;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE MARZO DE 2010)</small>
 
-II. Cuando por las costumbres depravadas de los que ejercen la patria potestad, malos tratos o abandono de sus deberes alimentarios o de guarda o custodia por más de dos meses y por ello se comprometa la salud, la seguridad o la moralidad de los menores aún cuando esos hechos no constituyan delito.
+II. Cuando por las costumbres depravadas de los que ejerzan la patria potestad, malos tratos, violencia familiar o abandono de sus deberes alimentarios o de guarda o custodia por más de dos meses y por ello se comprometa la salud, la seguridad o la moralidad de los menores aún cuando esos hechos no constituyan delito.
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 Quien haya perdido la patria potestad por el abandono de sus deberes alimentarios, podrá recuperar la misma, cuando compruebe que ha cumplido con ésta por más de un año y, en su caso, otorgue garantía anual sobre la misma;
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-III. Cuando quienes ejerzan la patria potestad, obliguen a los menores de edad a realizar reiteradamente la mendicidad, trabajo forzado o cualquier otra forma de explotación. En este caso, los menores serán enviados a los albergues de los Sistemas para el Desarrollo Integral de la Familia del Estado de México y Municipales;
+III. Cuando quienes ejerzan la patria potestad, obliguen a los menores de edad a realizar la mendicidad, trabajo forzado o cualquier otra forma de explotación. En este caso, los menores serán enviados a los albergues de los Sistemas para el Desarrollo Integral de la Familia del Estado de México y Municipales, hasta en tanto se determine quien la ejercerá;
 
 > <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
@@ -2595,15 +2735,15 @@ Rehúsa del tutor sin justa causa
 
 Desempeño de la tutela con la curatela
 
+### CAPITULO III. De la Tutela Legítima de los menores
+
+Procedencia de la tutela legítima
+
 ###### Artículo 4.
 
 234.- La tutela se desempeñará por el tutor con intervención del curador, en los términos establecidos por la ley.
 
 Número de tutores y curadores definitivos
-
-### CAPITULO IV. De la Tutela Legítima de mayores incapaces
-
-Tutor legítimo del cónyuge incapacitado
 
 ###### Artículo 4.
 
@@ -2635,19 +2775,17 @@ Fallecimiento de tutor o de quien ejerza la patria potestad
 
 Clases de tutela
 
+## TITULO NOVENO. De la Emancipación y de la Mayoría de Edad
+
+### CAPITULO IV. De la Tutela Legítima de mayores incapaces
+
+Tutor legítimo del cónyuge incapacitado
+
 ###### Artículo 4.
 
 240.- La tutela es testamentaría, legítima, dativa o voluntaria.
 
 Declaración de incapacidad para nombrar tutor
-
-## TITULO NOVENO. De la Emancipación y de la Mayoría de Edad
-
-### CAPITULO V. De la Tutela Legítima de los Expósitos o Abandonados
-
-Tutela de expósitos y de abandonados
-
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
 ###### Artículo 4.
 
@@ -2737,13 +2875,15 @@ III. Tratándose de menores y a falta de los mencionados en los supuestos anteri
 
 Elección de tutor legítimo por el Juez
 
+### CAPITULO V. De la Tutela Legítima de los Expósitos o Abandonados
+
+Tutela de expósitos y de abandonados
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+
 ###### Artículo 4.
 
 255.- Si hubiere varios parientes del mismo grado, el Juez elegirá al más apto; pero si el menor hubiere cumplido doce años, él hará la elección.
-
-### CAPITULO VI. De la Tutela Dativa
-
-Casos en que procede la tutela dativa
 
 ###### Artículo 4.
 
@@ -2797,15 +2937,15 @@ Si no se aprueba el nombramiento, el Juez le designará tutor.
 
 Nombramiento de tutor dativo a menor de doce años
 
+### CAPITULO VI. De la Tutela Dativa
+
+Casos en que procede la tutela dativa
+
 ###### Artículo 4.
 
 264.- Si el menor no ha cumplido doce años, el nombramiento de tutor lo hará el Juez, debiendo recaer en persona idónea para su desempeño.
 
 Tutela dativa de menor emancipado
-
-### CAPITULO VII. De la Tutela Voluntaria
-
-Nombramiento de tutor voluntario por personas capaces
 
 ###### Artículo 4.
 
@@ -2819,15 +2959,15 @@ Nombramiento de tutor dativo aunque el pupilo carezca de bienes
 
 Nombramiento de tutor dativo del pupilo que carece de bienes
 
+### CAPITULO VII. De la Tutela Voluntaria
+
+Nombramiento de tutor voluntario por personas capaces
+
 ###### Artículo 4.
 
 267.- En el caso del artículo anterior la tutela se desempeñará obligatoriamente por las instituciones de asistencia social pública o privada. Puede el Juez nombrar como tutores a otras personas, que sean convenientes a los intereses de los menores y estén conformes en su desempeño gratuito.
 
 Nombramiento de tutor dativo que adquiere bienes
-
-### CAPITULO VIII. De los impedimentos para el desempeño de la tutela y de la separación del cargo de tutor
-
-Personas que no pueden desempeñar la tutela
 
 ###### Artículo 4.
 
@@ -2851,6 +2991,10 @@ Instrucciones al tutor voluntario
 
 Requisitos para ser tutor voluntario
 
+### CAPITULO VIII. De los impedimentos para el desempeño de la tutela y de la separación del cargo de tutor
+
+Personas que no pueden desempeñar la tutela
+
 ###### Artículo 4.
 
 272.- Si al hacerse la designación de tutor o curador voluntarios, éstos no reúnen los requisitos para desempeñar el cargo, será válida la designación si los satisfacen al momento de desempeñarse.
@@ -2864,10 +3008,6 @@ Causas de excusa para ser tutor
 ###### Artículo 4.
 
 273.- A falta o incapacidad de los tutores o curadores designados, se estará a las reglas de la tutela legítima.
-
-### CAPITULO X. De la garantía que deben prestar los tutores
-
-Garantía que se debe otorgar para ejercer la tutela
 
 ###### Artículo 4.
 
@@ -2925,6 +3065,10 @@ Reasunción del cargo de tutor
 
 279.- Absuelto el tutor, volverá al ejercicio de su cargo.
 
+### CAPITULO X. De la garantía que deben prestar los tutores
+
+Garantía que se debe otorgar para ejercer la tutela
+
 ###### Artículo 4.
 
 280.- Pueden excusarse de ser tutores:
@@ -2942,10 +3086,6 @@ V. Los que tengan más de sesenta años;
 VI. Los que tengan a su cargo otra tutela o curaduría.
 
 Nombramiento de tutor interino
-
-### CAPITULO XI. Del desempeño de la Tutela
-
-Nombramiento de curador para desempeñar la tutela
 
 ###### Artículo 4.
 
@@ -2975,6 +3115,10 @@ III. Depósito en efectivo.
 
 Tutores exentos de dar garantía
 
+### CAPITULO XI. Del desempeño de la Tutela
+
+Nombramiento de curador para desempeñar la tutela
+
 ###### Artículo 4.
 
 285.- Están exceptuados de la obligación de dar garantía, salvo resolución judicial que ordene lo contrario:
@@ -2988,10 +3132,6 @@ III. El cónyuge, los hijos, los padres y los abuelos;
 IV. Los que acojan a un menor abandonado, lo alimenten y eduquen por más de cinco años, a no ser que hayan recibido pensión para cuidar de él.
 
 Medidas para conservar los bienes del pupilo
-
-### CAPITULO XII. De las cuentas de la Tutela
-
-Periodo en que el tutor rinde cuentas
 
 ###### Artículo 4.
 
@@ -3033,15 +3173,15 @@ Efectos de no otorgar garantía
 
 Designación de tutor interino
 
+### CAPITULO XII. De las cuentas de la Tutela
+
+Periodo en que el tutor rinde cuentas
+
 ###### Artículo 4.
 
 291.- En tanto no se otorgue la garantía por el tutor, administrará previo inventario los bienes un tutor interino, quien sólo realizará los actos indispensables para su conservación y percepción de los productos. Para cualquier otro acto requerirá autorización judicial.
 
 Cuenta anual del tutor y prueba de la garantía
-
-### CAPITULO XIII. De la extinción de la Tutela
-
-Causas de extinción de la tutela
 
 ###### Artículo 4.
 
@@ -3071,6 +3211,10 @@ VI. Solicitar la autorización judicial para todo lo que legalmente no pueda hac
 
 Medidas para evitar la enajenación de bienes del menor
 
+### CAPITULO XIII. De la extinción de la Tutela
+
+Causas de extinción de la tutela
+
 ###### Artículo 4.
 
 295.- Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el Juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes.
@@ -3078,10 +3222,6 @@ Medidas para evitar la enajenación de bienes del menor
 Medidas para garantizar el cuidado de los pupilos
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
-
-### CAPITULO XIV. De la entrega de los bienes al concluir la Tutela
-
-Obligación del tutor de entregar los bienes del pupilo
 
 ###### Artículo 4.
 
@@ -3133,15 +3273,15 @@ Comercio o industria del pupilo
 
 Inversión del dinero sobrante de la administración
 
+### CAPITULO XIV. De la entrega de los bienes al concluir la Tutela
+
+Obligación del tutor de entregar los bienes del pupilo
+
 ###### Artículo 4.
 
 304.- En la administración por la tutela, cualquier dinero que resulte sobrante se invertirá inmediatamente, de la mejor manera.
 
 Requisitos para que el tutor enajene o grave bienes
-
-### CAPITULO XV. Del Curador
-
-Curador en caso de administración de bienes
 
 ###### Artículo 4.
 
@@ -3279,15 +3419,15 @@ En caso de dolo o culpa de parte del tutor, serán por su cuenta los gastos.
 
 Saldo a favor o en contra del tutor
 
+### CAPITULO XV. Del Curador
+
+Curador en caso de administración de bienes
+
 ###### Artículo 4.
 
 327.- El saldo que resulte a favor o en contra del tutor, producirá intereses legales. En el primer caso correrán desde que entregue los bienes y haga el requerimiento legal; y en el segundo desde el mes en que deba entregar los bienes.
 
 Prescripción de las acciones relativas a la administración de la tutela
-
-### CAPITULO I. De la Emancipación
-
-Emancipación por matrimonio
 
 ###### Artículo 4.
 
@@ -3317,6 +3457,10 @@ Excusas e impedimentos para los curadores
 
 Legitimación para nombrar curador
 
+### CAPITULO I. De la Emancipación
+
+Emancipación por matrimonio
+
 ###### Artículo 4.
 
 333.- Los que tienen derecho a nombrar tutor, lo tienen para nombrar curador.
@@ -3340,10 +3484,6 @@ III. Solicitar al Juez que haga el nombramiento del tutor, cuando éste faltare 
 IV. Cumplir las demás obligaciones que la ley le señale.
 
 Incumplimiento de las obligaciones del curador
-
-### CAPITULO I. De las medidas provisionales en caso de ausencia
-
-Medidas jurídicas sobre los bienes del ausente
 
 ###### Artículo 4.
 
@@ -3375,15 +3515,15 @@ Efectos legales de la mayoría de edad
 
 340.- El mayor de edad dispone libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
 
+### CAPITULO I. De las medidas provisionales en caso de ausencia
+
+Medidas jurídicas sobre los bienes del ausente
+
 ###### Artículo 4.
 
 341.- Cuando se ignore el lugar donde se encuentre una persona, el Juez, a petición de parte, nombrará un depositario de sus bienes, y dictará las providencias necesarias para conservarlos, asimismo se le citará por edictos conforme a la ley.
 
 Personas que pueden designarse depositarios de los bienes del ausente
-
-### CAPITULO II. De la Declaración de Ausencia
-
-Plazo para pedir la declaración de ausencia
 
 ###### Artículo 4.
 
@@ -3439,13 +3579,17 @@ Plazo para publicar otros edictos
 
 348.- Cada tres meses, a partir de la fecha en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente.
 
+## TITULO DECIMO. De los Ausentes
+
+### CAPITULO II. De la Declaración de Ausencia
+
+Plazo para pedir la declaración de ausencia
+
 ###### Artículo 4.
 
 349.- Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
 
 Plazo para pedir la declaración de ausencia cuando hay apoderado general
-
-## TITULO DECIMO. De los Ausentes
 
 ### CAPITULO III. De los efectos de la Declaración de Ausencia
 
@@ -3457,29 +3601,25 @@ Presentación del testamento del declarado ausente
 
 Apoderado por más de tres años del ausente
 
-### CAPITULO IV. De la administración de los bienes del ausente casado bajo el régimen de sociedad conyugal
-
-Efectos de la ausencia en relación a la sociedad conyugal
-
 ###### Artículo 4.
 
 351.- Lo dispuesto en el artículo anterior se observará aún cuando el poder se haya conferido por más de tres años.
 
 Obligación del apoderado del ausente a otorgar garantía
 
+## TITULO DECIMO PRIMERO. Del Patrimonio de Familia
+
+Bienes que comprende el patrimonio familiar
+
+### CAPITULO IV. De la administración de los bienes del ausente casado bajo el régimen de sociedad conyugal
+
+Efectos de la ausencia en relación a la sociedad conyugal
+
 ###### Artículo 4.
 
 352.- Pasados dos años las personas legitimadas para solicitar la declaración de ausencia, pueden pedir que el apoderado otorgue garantía, en los términos en que debe hacerlo el representante. Si no lo hiciere se nombrará representante.
 
 Legitimación para pedir declaración de ausencia
-
-## TITULO DECIMO PRIMERO. Del Patrimonio de Familia
-
-Bienes que comprende el patrimonio familiar
-
-### CAPITULO V. De la presunción de muerte del ausente
-
-Declaración judicial de presunción de muerte
 
 ###### Artículo 4.
 
@@ -3527,15 +3667,15 @@ Administración de bienes que no admiten cómoda división
 
 Nombramiento de interventor por los presuntos herederos
 
+### CAPITULO V. De la presunción de muerte del ausente
+
+Declaración judicial de presunción de muerte
+
 ###### Artículo 4.
 
 360.- Los presuntos herederos que no tengan la administración, podrán nombrar un interventor, que tendrá las facultades y obligaciones señaladas a los curadores. Sus honorarios serán pagados por quienes lo nombren.
 
 Obligaciones y facultades de quien recibe la posesión provisional
-
-### CAPITULO I. De los Bienes Inmuebles
-
-Bienes que se consideran inmuebles
 
 ###### Artículo 4.
 
@@ -3567,15 +3707,15 @@ Efectos de la falta de garantía
 
 Personas no obligadas a otorgar garantía
 
+### CAPITULO I. De los Bienes Inmuebles
+
+Bienes que se consideran inmuebles
+
 ###### Artículo 4.
 
 366.- No están obligados a dar garantía, el cónyuge, los descendientes y los ascendientes que como presuntos herederos entren en posesión de los bienes del ausente, por la parte que les corresponda.
 
 Incomparecencia de presuntos herederos del ausente
-
-### CAPITULO II. De los Bienes Muebles
-
-Muebles por su naturaleza
 
 ###### Artículo 4.
 
@@ -3663,15 +3803,15 @@ Régimen jurídico del patrimonio de familia
 
 Patrimonio familiar único
 
+### CAPITULO II. De los Bienes Muebles
+
+Muebles por su naturaleza
+
 ###### Artículo 4.
 
 381.- Cada familia sólo puede tener un patrimonio familiar.
 
 Valor máximo del patrimonio familiar
-
-### CAPITULO III. De los bienes considerados según las personas a quienes pertenecen
-
-Bienes del poder público o de propiedad privada
 
 ###### Artículo 4.
 
@@ -3693,15 +3833,15 @@ IV. Que el valor de los bienes que van a constituir el patrimonio no excede del 
 
 Constitución del patrimonio familiar
 
+### CAPITULO III. De los bienes considerados según las personas a quienes pertenecen
+
+Bienes del poder público o de propiedad privada
+
 ###### Artículo 4.
 
 384.- Satisfechos los requisitos anteriores, el Juez aprobará la constitución del patrimonio de familia y ordenará su inscripción en el Registro Público de la Propiedad correspondiente.
 
 Ampliación del patrimonio familiar
-
-### CAPITULO IV. De los Bienes Mostrencos
-
-Concepto de bienes mostrencos
 
 ###### Artículo 4.
 
@@ -3715,17 +3855,17 @@ Derecho a exigir la constitución del patrimonio familiar
 
 Restricción a la constitución del patrimonio de familia
 
+## TITULO DECIMO SEGUNDO. De la Protección contra la Violencia Familiar
+
+Denuncia de violencia familiar
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 4.
 
 387.- La constitución del patrimonio de familia no puede hacerse en fraude de acreedores.
 
 Obligación de la familia
-
-## TITULO DECIMO SEGUNDO. De la Protección contra la Violencia Familiar
-
-Denuncia de violencia familiar
-
-> <small>(REFORMADO, G.G. 16 DE ENERO DE 2007)</small>
 
 ###### Artículo 4.
 
@@ -3791,7 +3931,11 @@ Efectos de la extinción del patrimonio familiar
 
 ###### Artículo 4.
 
-396.- Toda persona que sufra violencia familiar por parte de alguno de los integrantes del grupo familiar, podrá interponer queja de estos hechos ante el órgano jurisdiccional, en términos del Código de Procedimientos Civiles.
+396.- Toda persona que sufriese violencia familiar por parte de alguno de los integrantes del grupo familiar, podrá interponer demanda de estos hechos ante el Juez de Primera Instancia, en términos del Código de Procedimientos Civiles.
+
+> <small>(ADICIONADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+
+Concepto de grupo familiar
 
 > <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
@@ -3801,7 +3945,11 @@ Efectos de la extinción del patrimonio familiar
 
 I. Violencia familiar: Toda acción, omisión o abuso, que afecte la integridad física, psicológica, moral, sexual, patrimonial y/o la libertad de una persona en el ámbito del grupo familiar aún cuando se configure un delito:
 
-a. Violencia psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, desamor, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales pueden conllevar a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+a. Violencia psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: discriminación de género, negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, desamor, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales pueden conllevar a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
+
+Generar sentimientos negativos, odio, desprecio, rencor o rechazo hacia uno de los progenitores, tendrá como consecuencia únicamente la suspensión o pérdida de la guarda y custodia del menor.
 
 b. Violencia física: Es cualquier acto que infringe daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas.
 
@@ -3809,7 +3957,9 @@ c. Violencia patrimonial: Es cualquier acto u omisión que afecta la supervivenc
 
 d. Violencia sexual: Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad del receptor de violencia y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía del generador de violencia hacia el receptor de la violencia.
 
-e. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de los integrantes del grupo familiar.
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+e. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, libertad, integridad física o psicológica de los integrantes del grupo familiar.
 
 II. Grupo familiar: Conjunto de personas vinculadas por relaciones de: intimidad, mutua consideración y apoyo, parentesco, filiación o convivencia fraterna; o bien, tengan alguna relación conyugal o de concubinato;
 
@@ -3817,7 +3967,7 @@ III. Receptor de Violencia: Persona que sufre el maltrato físico, psicológico,
 
 IV. Generador de violencia: Persona que a través de su acción, omisión o abuso lesiona los derechos de los miembros del grupo familiar; y
 
-V. Consejo: Entidad especializada para la prevención y protección integral contra la Violencia Familiar.
+V. (DEROGADA, G.G. 6 DE MARZO DE 2010)
 
 ###### Artículo 4.
 
@@ -3839,17 +3989,37 @@ V. Consejo: Entidad especializada para la prevención y protección integral con
 
 402.- (DEROGADO, G.G. 16 DE ENERO DE 2007)
 
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 4.
+
+403.- Se considera concubinato la relación de hecho que tienen un hombre y una mujer, que sin estar casados y sin impedimentos legales para contraer matrimonio, viven juntos, haciendo una vida en común por un período mínimo de un año; no se requerirá para la existencia del concubinato el periodo antes señalado, cuando reunidos los demás requisitos, se hayan procreado hijos en común.
+
+> <small>(ADICIONADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+
+Derechos y obligaciones que nacen del concubinato
+
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 4.
+
+404.- La concubina y el concubinario tienen los derechos y obligaciones alimentarias, de familia, hereditarios y de protección contra la violencia familiar reconocidos en el presente Código y en otras disposiciones legales, así como los establecidos para los cónyuges, en todo aquello que les sea aplicable, sobre todo los dirigidos a la protección de la mujer y los hijos.
+
+## TITULO DECIMO TERCERO. Del Concubinato
+
+> <small>(ADICIONADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+
+Definición del concubinato
+
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ## TITULO PRIMERO. Disposiciones Generales
 
 Concepto de bienes
 
-## TITULO SEGUNDO. Clasificación de los Bienes
-
 # LIBRO QUINTO. De los Bienes
 
-## TITULO TERCERO. De la Posesión
-
-Concepto de posesión
+## TITULO SEGUNDO. Clasificación de los Bienes
 
 ###### Artículo 5.
 
@@ -3867,11 +4037,13 @@ Bienes fuera del comercio por su naturaleza o por ley
 
 3.- Están fuera del comercio por su naturaleza las que no pueden ser poseídas físicamente por algún individuo exclusivamente; y por disposición de la ley las que ella declara irreductibles a propiedad particular.
 
-## TITULO CUARTO. De la propiedad y los medios de adquirirla
+## TITULO TERCERO. De la Posesión
 
-### CAPITULO V. De los bienes vacantes
+Concepto de posesión
 
-Concepto de bien vacante
+### CAPITULO IV. De los Bienes Mostrencos
+
+Concepto de bienes mostrencos
 
 ###### Artículo 5.
 
@@ -3905,9 +4077,9 @@ Inmuebles que recobran su calidad de muebles
 
 5.- Los bienes muebles, que se hayan considerado como inmuebles, conforme al artículo anterior, recobrarán su calidad de muebles, cuando el propietario los separe de la finca, salvo el caso de que en el valor de ésta se haya calculado el de aquellos, para constituir un derecho real a favor de un tercero.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO V. De los bienes vacantes
 
-Derechos derivados de la propiedad
+Concepto de bien vacante
 
 ###### Artículo 5.
 
@@ -3931,9 +4103,9 @@ Bienes muebles fungibles o no fungibles
 
 9.- Los bienes muebles son fungibles y no fungibles. Los primeros son los que pueden ser reemplazados por otros de la misma especie, calidad y cantidad; los segundos los que no reúnen esa característica.
 
-### CAPITULO II. De los frutos de los bienes
+### CAPITULO I. Disposiciones Generales
 
-Frutos que pertenecen al propietario
+Derechos derivados de la propiedad
 
 ###### Artículo 5.
 
@@ -3995,9 +4167,9 @@ Bienes de propiedad particular
 
 19.- Son bienes propiedad de los particulares los que les pertenecen legalmente y no puede aprovecharse ninguno sin su consentimiento o autorización de la ley.
 
-### CAPITULO III. De la Ocupación
+### CAPITULO II. De los frutos de los bienes
 
-Presunción de propiedad de los animales sin marca
+Frutos que pertenecen al propietario
 
 ###### Artículo 5.
 
@@ -4021,9 +4193,9 @@ Venta del bien mostrenco
 
 23.- Si transcurrido el plazo legal, no se presentara el propietario, o no justifica la propiedad, se procederá a la venta en almoneda pública y se entregará el veinticinco por ciento al denunciante y el resto se remitirá al Sistema para el Desarrollo Integral de la Familia del municipio en que fuese encontrado el bien.
 
-### CAPITULO IV. Del Derecho de Accesión
+### CAPITULO III. De la Ocupación
 
-La propiedad da derecho a lo accesorio
+Presunción de propiedad de los animales sin marca
 
 ###### Artículo 5.
 
@@ -4047,7 +4219,7 @@ Beneficio al denunciante de bien vacante
 
 27.- El denunciante recibirá la cuarta parte del valor catastral.
 
-## TITULO QUINTO. De la Copropiedad
+## TITULO CUARTO. De la propiedad y los medios de adquirirla
 
 ###### Artículo 5.
 
@@ -4309,11 +4481,11 @@ Pérdida de posesión de derechos
 
 64.- Se pierde la posesión de los derechos cuando es imposible ejercitarlos.
 
-## TITULO SEXTO. De las Servidumbres
+## TITULO QUINTO. De la Copropiedad
 
-### CAPITULO V. De la Usucapión
+### CAPITULO IV. Del Derecho de Accesión
 
-La usucapión como medio de adquirir la propiedad
+La propiedad da derecho a lo accesorio
 
 ###### Artículo 5.
 
@@ -4381,9 +4553,9 @@ Obligación de evitar que aguas pluviales invadan inmueble ajeno
 
 75.- El propietario de una edificación está obligado a construir sus tejados y azoteas de tal manera que las aguas pluviales no caigan sobre el predio vecino.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO V. De la Usucapión
 
-Concepto de copropiedad
+La usucapión como medio de adquirir la propiedad
 
 ###### Artículo 5.
 
@@ -4431,9 +4603,9 @@ Obligación del que percibe los frutos
 
 83.- El que percibe los frutos tiene la obligación de pagar los gastos hechos por un tercero para su producción, recolección y conservación.
 
-### CAPITULO II. De la Propiedad en Condominio
+### CAPITULO I. Disposiciones Generales
 
-Concepto de propiedad en condominio
+Concepto de copropiedad
 
 ###### Artículo 5.
 
@@ -4477,9 +4649,9 @@ El tesoro en relación al usufructuario
 
 90- El usufructuario no tiene derecho a participar del tesoro si no es descubridor, pero sí lo tiene por la indemnización de daños y perjuicios causados por la búsqueda.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De la Propiedad en Condominio
 
-Concepto de servidumbre de predios dominante y sirviente
+Concepto de propiedad en condominio
 
 ###### Artículo 5.
 
@@ -4699,9 +4871,9 @@ Presunción de mala fe
 
 126.- En los casos de mezcla o confusión la mala fe se presume conforme a lo dispuesto por este capítulo.
 
-### CAPITULO II. De las Servidumbres Legales
+### CAPITULO I. Disposiciones Generales
 
-Función de la servidumbre legal
+Concepto de servidumbre de predios dominante y sirviente
 
 ###### Artículo 5.
 
@@ -4833,11 +5005,11 @@ Sentencia que declara la usucapión
 
 Tratándose de predios no mayores de 200 m2, la Sentencia Ejecutoria se inscribirá sin mayor trámite en el Instituto de la Función Registral.
 
-## TITULO SEPTIMO. Del Usufructo
+## TITULO SEXTO. De las Servidumbres
 
-### CAPITULO III. De la Servidumbre Legal de Desagüe
+### CAPITULO II. De las Servidumbres Legales
 
-Predios inferiores sirvientes de desagüe
+Función de la servidumbre legal
 
 ###### Artículo 5.
 
@@ -5015,9 +5187,9 @@ IV. La consolidación o reunión de todas las partes en un solo copropietario.
 
 165.- No cesará la copropiedad cuando el bien común se divida en contravención a las disposiciones que prevé la ley administrativa de la materia y sus reglamentos.
 
-### CAPITULO IV. De la Servidumbre Legal de Acueducto
+### CAPITULO III. De la Servidumbre Legal de Desagüe
 
-Paso de agua para su uso
+Predios inferiores sirvientes de desagüe
 
 ###### Artículo 5.
 
@@ -5037,13 +5209,11 @@ Reglamentación de la copropiedad en condominio
 
 168.- Los derechos y obligaciones de los condóminos a que se refiere este capítulo, se regirán por las escrituras en que se hubiere constituido el régimen de propiedad en condominio, por este Código y por la Ley que Regula el Régimen de Propiedad en Condominio en el Estado de México.
 
-## TITULO OCTAVO. Del Uso y de la Habitación
+## TITULO SEPTIMO. Del Usufructo
 
-Concepto del derecho real de uso
+### CAPITULO IV. De la Servidumbre Legal de Acueducto
 
-### CAPITULO V. De la Servidumbre Legal de Paso
-
-Derecho de salida a la vía pública
+Paso de agua para su uso
 
 ###### Artículo 5.
 
@@ -5113,9 +5283,9 @@ Servidumbres voluntarias y legales
 
 179.- Las servidumbres se constituyen por acuerdo de voluntades o por ley; las primeras se llaman voluntarias y las segundas legales.
 
-### CAPITULO VI. De las Servidumbres Voluntarias
+### CAPITULO V. De la Servidumbre Legal de Paso
 
-Variedad de servidumbres voluntarias y sus limitaciones
+Derecho de salida a la vía pública
 
 ###### Artículo 5.
 
@@ -5127,9 +5297,9 @@ Normas que rigen las servidumbres legales
 
 181.- Es aplicable a las servidumbres legales lo dispuesto para las servidumbres voluntarias.
 
-### CAPITULO VII. Forma de adquirir las Servidumbres Voluntarias
+### CAPITULO VI. De las Servidumbres Voluntarias
 
-Forma de adquirir servidumbres continuas y aparentes
+Variedad de servidumbres voluntarias y sus limitaciones
 
 ###### Artículo 5.
 
@@ -5171,9 +5341,9 @@ Tratamiento de aguas
 
 188.- Si las aguas que pasan al predio sirviente se han vuelto insalubres por los usos domésticos o industriales que de ellas se hayan hecho, deberán ser tratadas apropiadamente a costa del propietario del predio dominante.
 
-### CAPITULO VIII. De los derechos y obligaciones de los Propietarios de los predios entre los que está constituida alguna Servidumbre Voluntaria
+### CAPITULO VII. Forma de adquirir las Servidumbres Voluntarias
 
-Disposiciones que rigen las servidumbres voluntarias
+Forma de adquirir servidumbres continuas y aparentes
 
 ###### Artículo 5.
 
@@ -5265,9 +5435,9 @@ Derecho a construir una presa
 
 202.- Cuando para el aprovechamiento del agua de que se tiene derecho de disponer, sea necesario construir una presa y el que haya de hacerlo no sea propietario del terreno en que se necesite apoyarla, puede pedir que se establezca la servidumbre de un estribo de presa, previa indemnización correspondiente.
 
-### CAPITULO IX. De la Extinción de las Servidumbres
+### CAPITULO VIII. De los derechos y obligaciones de los Propietarios de los predios entre los que está constituida alguna Servidumbre Voluntaria
 
-Causas de conclusión de la servidumbre
+Disposiciones que rigen las servidumbres voluntarias
 
 ###### Artículo 5.
 
@@ -5333,9 +5503,9 @@ Derecho de conducir energía eléctrica o vía telefónica
 
 213.- Cuando para establecer comunicaciones telefónicas particulares, o para conducir energía eléctrica, sea necesario colocar postes y tender alambres en terrenos de un inmueble ajeno, el propietario de éste tiene obligación de permitirlo, mediante indemnización. Esta servidumbre trae consigo el derecho de tránsito de las personas y el de conducción de los materiales necesarios.
 
-### CAPITULO I. Del Usufructo en General
+### CAPITULO IX. De la Extinción de las Servidumbres
 
-Concepto de usufructo
+Causas de conclusión de la servidumbre
 
 ###### Artículo 5.
 
@@ -5353,9 +5523,9 @@ Servidumbre obtenida por un copropietario
 
 216.- Si uno de los copropietarios adquiere una servidumbre sobre otro predio, a favor del común, de ella podrán aprovecharse todos, quedando obligados a los gravámenes naturales que traiga consigo y a los pactos con que se haya adquirido.
 
-### CAPITULO II. De los Derechos del Usufructuario
+### CAPITULO I. Del Usufructo en General
 
-Incapacidad para ser usufructuario
+Concepto de usufructo
 
 ###### Artículo 5.
 
@@ -5379,9 +5549,9 @@ Aspectos que abarca la servidumbre
 
 220.- Al constituirse una servidumbre se entienden concedidos todos los medios necesarios para su uso; y extinguida, cesan también estos.
 
-### CAPITULO III. De las obligaciones del usufructuario
+### CAPITULO II. De los Derechos del Usufructuario
 
-Obligaciones del usufructuario
+Incapacidad para ser usufructuario
 
 ###### Artículo 5.
 
@@ -5417,9 +5587,9 @@ Controversia en el uso de la servidumbre
 
 226.- La controversia en el uso de la servidumbre se decidirá en el sentido menos gravoso para el predio sirviente, sin imposibilitar o hacer difícil el uso de la misma.
 
-### CAPITULO IV. De la Extinción del Usufructo
+### CAPITULO III. De las obligaciones del usufructuario
 
-Extinción del usufructo
+Obligaciones del usufructuario
 
 ###### Artículo 5.
 
@@ -5449,13 +5619,13 @@ Improcedencia de la prescripción de la servidumbre
 
 Si entre los copropietarios hubiere alguno contra quien no pueda correr la prescripción, ésta no correrá contra los demás.
 
-## TITULO PRIMERO. Disposiciones Preliminares
+## TITULO OCTAVO. Del Uso y de la Habitación
 
-Concepto de sucesión, herencia y legado
+Concepto del derecho real de uso
 
-### CAPITULO I. De los Testamentos en General
+### CAPITULO IV. De la Extinción del Usufructo
 
-Concepto de testamento
+Extinción del usufructo
 
 ###### Artículo 5.
 
@@ -5503,9 +5673,9 @@ Normas que rigen derechos y obligaciones en el usufructo
 
 236.- Los derechos y obligaciones del usufructuario y del propietario se regulan por el título constitutivo del usufructo.
 
-### CAPITULO II. De la Capacidad para Testar
+### CAPITULO I. De los Testamentos en General
 
-Legitimación de testador
+Concepto de testamento
 
 ###### Artículo 5.
 
@@ -5585,9 +5755,9 @@ Derecho del tanto del usufructuario
 
 249.- El usufructuario goza del derecho del tanto en la misma forma y términos que los copropietarios.
 
-### CAPITULO III. De la Capacidad para Heredar
+### CAPITULO II. De la Capacidad para Testar
 
-Capacidad e incapacidad para ser heredero
+Legitimación de testador
 
 ###### Artículo 5.
 
@@ -5749,9 +5919,9 @@ Contribución del propietario y usufructuario al pago de costas
 
 275.- Si el juicio interesa al mismo tiempo al propietario y al usufructuario, contribuirán a los gastos en proporción de sus derechos, si el usufructo se constituyó a título gratuito, pero el usufructuario en ningún caso estará obligado a responder por más de lo que produce el usufructo.
 
-### CAPITULO IV. De las Condiciones que pueden ponerse en los Testamentos
+### CAPITULO III. De la Capacidad para Heredar
 
-Libertad del testador para imponer condiciones
+Capacidad e incapacidad para ser heredero
 
 ###### Artículo 5.
 
@@ -5817,7 +5987,9 @@ Mal uso del bien por el usufructuario
 
 283.- El usufructo no se extingue por el mal uso que haga el usufructuario del bien usufructuado; pero si el abuso es grave, el propietario puede pedir que se le ponga en posesión de los bienes, obligándose y garantizando el pago anual al usufructuario del producto líquido de los mismos, por el tiempo que dure el usufructo, deducido el premio de administración que el Juez le acuerde.
 
-## TITULO SEGUNDO. De la Sucesión por Testamento
+## TITULO PRIMERO. Disposiciones Preliminares
+
+Concepto de sucesión, herencia y legado
 
 ###### Artículo 5.
 
@@ -5855,7 +6027,7 @@ Porción de gastos y cargas
 
 # LIBRO SEXTO. De las Sucesiones
 
-## TITULO TERCERO. De la forma de los Testamentos
+## TITULO SEGUNDO. De la Sucesión por Testamento
 
 ###### Artículo 6.
 
@@ -5925,11 +6097,11 @@ Derecho del tanto entre coherederos
 
 11.- Entre los coherederos existe el derecho del tanto que se regirá por los preceptos de la copropiedad.
 
-## TITULO CUARTO. De la Sucesión Legítima
+## TITULO TERCERO. De la forma de los Testamentos
 
-### CAPITULO V. De los Bienes de que se puede disponer por Testamento y de los Testamentos Inoficiosos
+### CAPITULO IV. De las Condiciones que pueden ponerse en los Testamentos
 
-Obligación alimentaria del testador
+Libertad del testador para imponer condiciones
 
 ###### Artículo 6.
 
@@ -5967,9 +6139,9 @@ Interpretación de la disposición
 
 En caso de duda sobre el contenido o interpretación de una disposición testamentaria, se observará lo que parezca más conforme a la intención del testador.
 
-### CAPITULO VI. De la Institución de Heredero
+### CAPITULO V. De los Bienes de que se puede disponer por Testamento y de los Testamentos Inoficiosos
 
-Validez del testamento sin institución de heredero
+Obligación alimentaria del testador
 
 ###### Artículo 6.
 
@@ -5985,9 +6157,9 @@ I. Los menores de dieciséis años;
 
 II. Los que no disfruten de su pleno juicio.
 
-### CAPITULO VII. De los legados
+### CAPITULO VI. De la Institución de Heredero
 
-Preceptos que rigen los legados
+Validez del testamento sin institución de heredero
 
 ###### Artículo 6.
 
@@ -6135,9 +6307,9 @@ Gravamen o enajenación de bienes por heredero incapaz
 
 39.- Si el heredero declarado incapaz para heredar, hubiere enajenado o gravado a favor de un tercero de buena fe, todo o parte de los bienes antes de ser emplazado en juicio sobre su capacidad, el contrato subsistirá; más el heredero incapaz estará obligado a indemnizar al legítimo, de todos los daños y perjuicios.
 
-### CAPITULO VIII. De las Substituciones
+### CAPITULO VII. De los legados
 
-Substitución del heredero o legatario por muerte, incapacidad o inaceptación
+Preceptos que rigen los legados
 
 ###### Artículo 6.
 
@@ -6257,9 +6429,9 @@ Legado de presentación periódica
 
 59.- Si el legado consistiere en prestación periódica, el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
 
-### CAPITULO IX. De la Inexistencia, Nulidad, Revocación y Caducidad de los Testamentos
+### CAPITULO VIII. De las Substituciones
 
-Voluntad testamentaria expresa
+Substitución del heredero o legatario por muerte, incapacidad o inaceptación
 
 ###### Artículo 6.
 
@@ -6283,9 +6455,9 @@ Alimentos a cargo de la sucesión
 
 63.- Los alimentos son carga de la masa hereditaria, excepto cuando la obligación la haya impuesto el testador a alguno o algunos de los partícipes de la sucesión.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO IX. De la Inexistencia, Nulidad, Revocación y Caducidad de los Testamentos
 
-Testamento ordinario o especial
+Voluntad testamentaria expresa
 
 ###### Artículo 6.
 
@@ -6345,11 +6517,9 @@ Heredero incierto o bien no identificable
 
 73.- Toda disposición en favor de persona incierta o sobre bien que no pueda identificarse será nula.
 
-### CAPITULO II
+### CAPITULO I. Disposiciones Generales
 
-Del Testamento Público Abierto.
-
-Características del testamento público abierto
+Testamento ordinario o especial
 
 ###### Artículo 6.
 
@@ -6511,9 +6681,11 @@ Legado de mueble indeterminado de género determinado
 
 98.- El legado de bien mueble indeterminado, pero en género determinado, será válido, aunque en la herencia no haya bien del género.
 
-### CAPITULO III. Del Testamento Público Simplificado
+### CAPITULO II
 
-Características del testamento público simplificado
+Del Testamento Público Abierto.
+
+Características del testamento público abierto
 
 ###### Artículo 6.
 
@@ -6575,9 +6747,9 @@ Obligación testamentaria de hacer obras de beneficencia
 
 El heredero o legatario podrá enajenar los inmuebles e invertir su producto, garantizando el cumplimiento de aquella.
 
-### CAPITULO IV. De los testamentos militar, marítimo y hecho en país extranjero
+### CAPITULO III. Del Testamento Público Simplificado
 
-Reconocimiento de los testamentos militar, marítimo y el hecho en país extranjero
+Características del testamento público simplificado
 
 ###### Artículo 6.
 
@@ -6643,11 +6815,11 @@ Condición de suceso desconocido
 
 118.- El testamento que contenga condición de suceso pasado o presente desconocido, no caduca aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, cuyos derechos se transmiten a sus respectivos herederos.
 
-## TITULO QUINTO. Disposiciones comunes a las Sucesiones Testamentarias y Legítimas
+## TITULO CUARTO. De la Sucesión Legítima
 
-### CAPITULO l. Disposiciones Generales
+### CAPITULO IV. De los testamentos militar, marítimo y hecho en país extranjero
 
-Casos en que se abre la sucesión legítima
+Reconocimiento de los testamentos militar, marítimo y el hecho en país extranjero
 
 ###### Artículo 6.
 
@@ -6719,9 +6891,9 @@ Identificación del testador
 
 Requisitos del testamento público abierto
 
-### CAPITULO II. De la Sucesión de los Descendientes
+### CAPITULO l. Disposiciones Generales
 
-División de la herencia sólo entre hijos
+Casos en que se abre la sucesión legítima
 
 ###### Artículo 6.
 
@@ -6781,9 +6953,9 @@ Formalidades del testamento en un solo acto
 
 Monto de los bienes, objeto del testamento público simplificado
 
-### CAPITULO III. De la Sucesión del Cónyuge
+### CAPITULO II. De la Sucesión de los Descendientes
 
-Cónyuge que concurre con hijos
+División de la herencia sólo entre hijos
 
 ###### Artículo 6.
 
@@ -6811,9 +6983,9 @@ Sustanciación de la sucesión por testamento público simplificado
 
 141.- En el Estado se reconoce existencia válida a los testamentos militar, marítimo y al hecho en país extranjero si se ajustan al Código Civil de aplicación federal y disposiciones relativas.
 
-### CAPITULO IV. De la Sucesión de los Ascendientes
+### CAPITULO III. De la Sucesión del Cónyuge
 
-Padres, herederos únicos
+Cónyuge que concurre con hijos
 
 ###### Artículo 6.
 
@@ -6829,11 +7001,11 @@ IV. El heredero muera antes que el testador, repudie la herencia o sea incapaz d
 
 Testamento válido sin subsistencia de la institución de heredero
 
-## TITULO PRIMERO. Fuente de las Obligaciones
+## TITULO QUINTO. Disposiciones comunes a las Sucesiones Testamentarias y Legítimas
 
-### CAPITULO V. De la Sucesión de los Colaterales
+### CAPITULO IV. De la Sucesión de los Ascendientes
 
-Hermanos por ambas líneas
+Padres, herederos únicos
 
 ###### Artículo 6.
 
@@ -6873,9 +7045,9 @@ Parientes en el mismo grado
 
 Cónyuge y descendientes que concurren a la herencia
 
-### CAPITULO VI. De la Sucesión de los Concubinos
+### CAPITULO V. De la Sucesión de los Colaterales
 
-Requisitos para heredar entre concubinarios
+Hermanos por ambas líneas
 
 ###### Artículo 6.
 
@@ -6917,9 +7089,11 @@ Padres adoptantes que concurren con descendientes del adoptado
 
 Cónyuge que concurre con ascendientes
 
-### CAPITULO VII. De la sucesión de la beneficencia pública
+### CAPITULO VI. De la Sucesión de los Concubinos
 
-Falta de cónyuge y parientes con derecho a heredar
+Requisitos para heredar entre concubinarios
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 6.
 
@@ -6937,9 +7111,9 @@ Cónyuge heredero único
 
 Padre o madre, heredero único
 
-### CAPITULO l. De las precauciones que deben adoptarse cuando la viuda queda encinta
+### CAPITULO VII. De la sucesión de la beneficencia pública
 
-Derecho de la viuda o concubina embarazadas
+Falta de cónyuge y parientes con derecho a heredar
 
 ###### Artículo 6.
 
@@ -6981,9 +7155,9 @@ Concurrencia de los adoptantes y concubina o concubinario
 
 Hermanos que concurren con medios hermanos
 
-### CAPITULO II. De la apertura de la Sucesión y de la transmisión de la Herencia
+### CAPITULO l. De las precauciones que deben adoptarse cuando la viuda queda encinta
 
-Momento de apertura de la sucesión y transmisión de la herencia
+Derecho de la viuda o concubina embarazadas
 
 ###### Artículo 6.
 
@@ -7009,17 +7183,15 @@ División de la herencia entre parientes hasta el cuarto grado
 
 ###### Artículo 6.
 
-170.- Tiene derecho a heredar, la persona con quien el autor de la herencia vivió como si fuera su cónyuge dentro de los tres años que precedieron a su muerte o con quien procreó hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato.
+170.- Tiene derecho a heredar la concubina o el concubinario del autor de la herencia.
 
-Carencia del heredero a heredar en uniones libres
+### CAPITULO II. De la apertura de la Sucesión y de la transmisión de la Herencia
 
-### CAPITULO III. De la aceptación y de la repudiación de la Herencia
-
-Legitimación para aceptar o repudiar la herencia
+Momento de apertura de la sucesión y transmisión de la herencia
 
 ###### Artículo 6.
 
-171.- Si al morir el autor de la herencia hacía vida marital con varias personas en las condiciones mencionadas en el artículo precedente, ninguna de ellas heredará.
+171.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
 Concurrencia de hijos de los concubinos con uno de éstos
 
@@ -7055,9 +7227,9 @@ Concubino que concurre con parientes colaterales
 
 177.- A falta de todos los herederos señalados en los capítulos anteriores sucederá el Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
-### CAPITULO IV. De los Albaceas e Interventores
+### CAPITULO III. De la aceptación y de la repudiación de la Herencia
 
-Legitimación para ser albacea
+Legitimación para aceptar o repudiar la herencia
 
 ###### Artículo 6.
 
@@ -7065,11 +7237,11 @@ Legitimación para ser albacea
 
 Suspensión de la partición
 
-## TITULO SEGUNDO. De los Contratos en General
+## TITULO PRIMERO. Fuente de las Obligaciones
 
-### CAPITULO V. Del inventario, avalúo y liquidación de la sucesión
+### CAPITULO IV. De los Albaceas e Interventores
 
-Formación de inventario y avalúo por el albacea
+Legitimación para ser albacea
 
 ###### Artículo 6.
 
@@ -7081,9 +7253,9 @@ Formación de inventario y avalúo por el albacea
 
 Derecho del heredero mientras se nombra albacea
 
-### CAPITULO VI. De la Partición
+### CAPITULO V. Del inventario, avalúo y liquidación de la sucesión
 
-Partición de la herencia
+Formación de inventario y avalúo por el albacea
 
 ###### Artículo 6.
 
@@ -7107,9 +7279,9 @@ Transmisión y prescripción de la acción de petición de herencia
 
 Aceptación o repudiación por los incapacitados
 
-### CAPITULO VII. De los efectos de la partición
+### CAPITULO VI. De la Partición
 
-Asignación de porción hereditaria
+Partición de la herencia
 
 ###### Artículo 6.
 
@@ -7223,9 +7395,9 @@ La aceptación de la herencia es a beneficio de inventario
 
 Incapacidad para ser albacea
 
-### CAPITULO VIII. De la rescisión y nulidad de las particiones
+### CAPITULO VII. De los efectos de la partición
 
-Causas de rescisión o anulación de la partición
+Asignación de porción hereditaria
 
 ###### Artículo 6.
 
@@ -7695,9 +7867,9 @@ V. Liquidación del patrimonio sucesorio.
 
 Omisión del albacea de formar inventario y avalúo
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO VIII. De la rescisión y nulidad de las particiones
 
-Concepto de obligación
+Causas de rescisión o anulación de la partición
 
 ###### Artículo 6.
 
@@ -7787,9 +7959,9 @@ Aplicación del precio de bienes vendidos
 
 Derecho a la división de los bienes
 
-### CAPITULO II. Fuentes de las obligaciones
+### CAPITULO I. Disposiciones Generales
 
-Hechos y actos que originan la obligación
+Concepto de obligación
 
 ###### Artículo 6.
 
@@ -7857,9 +8029,9 @@ Gastos de partición
 
 Privación a un heredero de todo o parte de su porción
 
-### CAPITULO III. De los Hechos Jurídicos
+### CAPITULO II. Fuentes de las obligaciones
 
-Concepto de hecho jurídico
+Hechos y actos que originan la obligación
 
 ###### Artículo 6.
 
@@ -7907,9 +8079,9 @@ Caución de los herederos por embargo o sentencia contra la sucesión
 
 Derecho del heredero preterido
 
-### CAPITULO IV. De los Actos Jurídicos
+### CAPITULO III. De los Hechos Jurídicos
 
-Concepto de acto jurídico
+Concepto de hecho jurídico
 
 ###### Artículo 6.
 
@@ -7933,11 +8105,11 @@ PRIMERA PARTE
 
 De las Obligaciones en General
 
-## TITULO TERCERO. De la Declaración Unilateral de la Voluntad
+## TITULO SEGUNDO. De los Contratos en General
 
-### CAPITULO V. De la Inexistencia y Nulidad de los Actos Jurídicos
+### CAPITULO IV. De los Actos Jurídicos
 
-Elementos y efectos de la inexistencia
+Concepto de acto jurídico
 
 ###### Artículo 7.
 
@@ -7949,17 +8121,17 @@ Clases de obligaciones
 
 2.- Las obligaciones pueden ser: personales, reales o naturales.
 
-### CAPITULO I. De los contratos
+### CAPITULO V. De la Inexistencia y Nulidad de los Actos Jurídicos
 
-Concepto de convenio
+Elementos y efectos de la inexistencia
 
 ###### Artículo 7.
 
 3.- Son fuentes de las obligaciones los hechos y actos jurídicos que crean, transfieren, modifican o extinguen facultades y deberes jurídicos, cuyo contenido sea una prestación de dar, hacer o no hacer.
 
-### CAPITULO II. De la Capacidad de los Contratantes
+### CAPITULO I. De los contratos
 
-Capacidad para contratar
+Concepto de convenio
 
 ###### Artículo 7.
 
@@ -7977,9 +8149,9 @@ II. Los hechos jurídicos efectuados con la participación del hombre se denomin
 
 III. Los hechos jurídicos realizados con la acción del hombre son voluntarios, involuntarios y contra la voluntad.
 
-### CAPITULO III. De la Representación
+### CAPITULO II. De la Capacidad de los Contratantes
 
-Autorización para contratar por medio de otro
+Capacidad para contratar
 
 ###### Artículo 7.
 
@@ -8017,9 +8189,9 @@ Consecuencia del acto jurídico
 
 9.- El autor o autores del acto jurídico, adquieren derechos y contraen o imponen obligaciones.
 
-### CAPITULO IV. Del Consentimiento
+### CAPITULO III. De la Representación
 
-Clases de consentimiento
+Autorización para contratar por medio de otro
 
 ###### Artículo 7.
 
@@ -8139,13 +8311,11 @@ Transmisión de derechos sobre inmueble cuya transmisión es declarada nula post
 
 29.- Los derechos reales o personales transmitidos a tercero sobre un inmueble, por una persona cuyo título es declarado nulo posteriormente, quedan sin efecto y pueden ser reclamados directamente del poseedor mientras no opere la prescripción; excepto contra los terceros adquirentes de buena fe.
 
-## TITULO CUARTO. Del Enriquecimiento Ilegítimo o sin Causa
+## TITULO TERCERO. De la Declaración Unilateral de la Voluntad
 
-Obligación que nace del enriquecimiento sin causa
+### CAPITULO IV. Del Consentimiento
 
-### CAPITULO V. Vicios del Consentimiento
-
-Vicios del consentimiento
+Clases de consentimiento
 
 ###### Artículo 7.
 
@@ -8207,9 +8377,9 @@ Invocación infundada de acontecimientos extraordinarios
 
 Legitimación para hacer valer la incapacidad
 
-### CAPITULO VI. Del Objeto, Motivo o Fin de los Contratos
+### CAPITULO V. Vicios del Consentimiento
 
-Objeto de los contratos
+Vicios del consentimiento
 
 ###### Artículo 7.
 
@@ -8221,9 +8391,9 @@ Objeto de los contratos
 
 Autorización para contratar a nombre de otro
 
-### CAPITULO VII. De la Forma de los Contratos
+### CAPITULO VI. Del Objeto, Motivo o Fin de los Contratos
 
-Manera y términos de obligarse en los contratos
+Objeto de los contratos
 
 ###### Artículo 7.
 
@@ -8243,9 +8413,9 @@ Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir
 
 Oferta sujeta a plazo
 
-### CAPITULO VIII. De la Clasificación de los Contratos
+### CAPITULO VII. De la Forma de los Contratos
 
-Contrato unilateral
+Manera y términos de obligarse en los contratos
 
 ###### Artículo 7.
 
@@ -8299,9 +8469,9 @@ Oferta y aceptación por telégrafo u otro medio
 
 Error de hecho o derecho
 
-### CAPITULO IX. De las Cláusulas que pueden Contener los Contratos
+### CAPITULO VIII. De la Clasificación de los Contratos
 
-Cláusulas convencionales y esenciales
+Contrato unilateral
 
 ###### Artículo 7.
 
@@ -8383,9 +8553,9 @@ II. El hecho que el obligado debe hacer o no hacer.
 
 Características del bien objeto del contrato
 
-### CAPITULO X. De la Interpretación de los Contratos
+### CAPITULO IX. De las Cláusulas que pueden Contener los Contratos
 
-Voluntad declarada y voluntad interna
+Cláusulas convencionales y esenciales
 
 ###### Artículo 7.
 
@@ -8443,9 +8613,9 @@ El fin o motivo determinante en los contratos
 
 Falta de formalidad en los contratos
 
-### CAPITULO XI. Disposiciones Finales
+### CAPITULO X. De la Interpretación de los Contratos
 
-Contratos atípicos o innominados
+Voluntad declarada y voluntad interna
 
 ###### Artículo 7.
 
@@ -8465,9 +8635,9 @@ Si alguna de ellas no puede o no sabe firmar, imprimirá su huella digital.
 
 Contrato bilateral
 
-### CAPITULO I. De las Ofertas al Público
+### CAPITULO XI. Disposiciones Finales
 
-Obligación derivada de la oferta al público
+Contratos atípicos o innominados
 
 ###### Artículo 7.
 
@@ -8491,9 +8661,9 @@ Contrato oneroso y aleatorio
 
 Cláusula penal
 
-### CAPITULO II. De la Estipulación en Favor de Terceros
+### CAPITULO I. De las Ofertas al Público
 
-Casos en que puede hacerse estipulación a favor de tercero
+Obligación derivada de la oferta al público
 
 ###### Artículo 7.
 
@@ -8579,11 +8749,9 @@ Si las palabras parecieren contrarias a la intención evidente de los contratant
 
 Intención sobre los bienes y casos
 
-### CAPITULO I. De las Obligaciones que Nacen de los
+### CAPITULO II. De la Estipulación en Favor de Terceros
 
-Hechos Ilícitos y del Riesgo Creado
-
-Obligaciones que originan los hechos ilícitos
+Casos en que puede hacerse estipulación a favor de tercero
 
 ###### Artículo 7.
 
@@ -8631,9 +8799,11 @@ Desconocimiento de la voluntad o intención sobre el objeto
 
 Actos a los que se aplican las normas legales de contrato
 
-### CAPITULO II. De la Reparación del Daño y los Perjuicios
+### CAPITULO I. De las Obligaciones que Nacen de los
 
-Restablecer a la situación anterior o pago de daños y perjuicios
+Hechos Ilícitos y del Riesgo Creado
+
+Obligaciones que originan los hechos ilícitos
 
 ###### Artículo 7.
 
@@ -8645,15 +8815,13 @@ Restablecer a la situación anterior o pago de daños y perjuicios
 
 Promesa de recompensa
 
-## TITULO QUINTO. De la Gestión de Negocios
+## TITULO CUARTO. Del Enriquecimiento Ilegítimo o sin Causa
 
-Forma de actuar del gestor
+Obligación que nace del enriquecimiento sin causa
 
-### CAPITULO III. De las Personas Obligadas a la Reparación del
+### CAPITULO II. De la Reparación del Daño y los Perjuicios
 
-Daño y de los Perjuicios
-
-Responsabilidad solidaria de los que causan daño
+Restablecer a la situación anterior o pago de daños y perjuicios
 
 ###### Artículo 7.
 
@@ -8709,9 +8877,11 @@ Derecho a decidir al recompensado
 
 Derecho del tercero
 
-### CAPITULO I. De las Obligaciones Condicionales
+### CAPITULO III. De las Personas Obligadas a la Reparación del
 
-Obligación condicional
+Daño y de los Perjuicios
+
+Responsabilidad solidaria de los que causan daño
 
 ###### Artículo 7.
 
@@ -8743,7 +8913,9 @@ Excepciones contra el tercero
 
 Obligación que surge del pago de lo indebido
 
-## TITULO SEXTO. De la Responsabilidad Subjetiva y Objetiva
+## TITULO QUINTO. De la Gestión de Negocios
+
+Forma de actuar del gestor
 
 ###### Artículo 7.
 
@@ -8835,7 +9007,7 @@ Pago para realizar un fin ilícito
 
 Obligaciones del gestor
 
-## TITULO SEPTIMO. De las Diferentes Especies de Obligaciones
+## TITULO SEXTO. De la Responsabilidad Subjetiva y Objetiva
 
 ###### Artículo 7.
 
@@ -8917,11 +9089,11 @@ Pago de alimentos por gestor
 
 Daño causado por el ejercicio de un derecho
 
-## TITULO OCTAVO. De la Transmisión de las Obligaciones
+## TITULO SEPTIMO. De las Diferentes Especies de Obligaciones
 
-### CAPITULO II. De las Obligaciones a Plazo
+### CAPITULO I. De las Obligaciones Condicionales
 
-Concepto de obligación de pago
+Obligación condicional
 
 ###### Artículo 7.
 
@@ -8945,9 +9117,9 @@ Daños recíprocos
 
 Indemnización por muerte o incapacidad
 
-### CAPITULO III. De las Obligaciones Facultativas, Conjuntivas y Alternativas
+### CAPITULO II. De las Obligaciones a Plazo
 
-Obligación facultativa
+Concepto de obligación de pago
 
 ###### Artículo 7.
 
@@ -9023,13 +9195,9 @@ Publicación de la sentencia
 
 Responsabilidad de las personas jurídicas colectivas
 
-### CAPITULO IV
+### CAPITULO III. De las Obligaciones Facultativas, Conjuntivas y Alternativas
 
-De las Obligaciones Mancomunadas, Solidarias,
-
-Divisibles e Indivisibles.
-
-Obligaciones mancomunadas
+Obligación facultativa
 
 ###### Artículo 7.
 
@@ -9157,11 +9325,15 @@ Plazo de prescripción de la acción de la reparación del daño
 
 Condición suspensiva
 
-## TITULO NOVENO. Del Cumplimiento de las Obligaciones
+## TITULO OCTAVO. De la Transmisión de las Obligaciones
 
-### CAPITULO V. De las Obligaciones de Dar
+### CAPITULO IV
 
-Prestación de un bien
+De las Obligaciones Mancomunadas, Solidarias,
+
+Divisibles e Indivisibles.
+
+Obligaciones mancomunadas
 
 ###### Artículo 7.
 
@@ -9245,9 +9417,9 @@ VI. Si el bien se mejora a expensas del deudor, tendrá éste el derecho de un u
 
 Concepto de día cierto
 
-### CAPITULO VI. De las Obligaciones de Hacer o de No Hacer
+### CAPITULO V. De las Obligaciones de Dar
 
-Incumplimiento de obligación de hacer
+Prestación de un bien
 
 ###### Artículo 7.
 
@@ -9303,9 +9475,9 @@ Pérdida del derecho a usar el plazo cuando son varios deudores
 
 Obligación conjunta
 
-### CAPITULO I. De la Cesión de Derechos
+### CAPITULO VI. De las Obligaciones de Hacer o de No Hacer
 
-Cesión de créditos
+Incumplimiento de obligación de hacer
 
 ###### Artículo 7.
 
@@ -9453,9 +9625,9 @@ Incumplimiento de la prestación del hecho
 
 Simple mancomunidad de deudores o acreedores
 
-### CAPITULO II. De la Cesión de Deudas
+### CAPITULO I. De la Cesión de Derechos
 
-Sustitución de deudores
+Cesión de créditos
 
 ###### Artículo 7.
 
@@ -9673,9 +9845,9 @@ III. En la restitución de bien ajeno o pago de bien debido.
 
 Acreedor de bien cierto
 
-### CAPITULO III. De la Subrogación
+### CAPITULO II. De la Cesión de Deudas
 
-Subrogación por ministerio de ley
+Sustitución de deudores
 
 ###### Artículo 7.
 
@@ -9803,9 +9975,9 @@ Lo mismo se observará si no lo hiciere de la manera convenida. En este caso el 
 
 Incumplimiento de obligación de no hacer
 
-### CAPITULO I. Del Pago
+### CAPITULO III. De la Subrogación
 
-Concepto de pago
+Subrogación por ministerio de ley
 
 ###### Artículo 7.
 
@@ -9817,11 +9989,11 @@ Concepto de pago
 
 Cesión del crédito sin consentimiento del deudor
 
-## TITULO DECIMO. Del Incumplimiento de las Obligaciones
+## TITULO NOVENO. Del Cumplimiento de las Obligaciones
 
-### CAPITULO II. Del Ofrecimiento del Pago y de la Consignación
+### CAPITULO I. Del Pago
 
-Consignación del bien debido
+Concepto de pago
 
 ###### Artículo 7.
 
@@ -9957,9 +10129,9 @@ Cesión gratuita
 
 Presunción de consentimiento del acreedor
 
-### CAPITULO I. Consecuencias del Incumplimiento de las Obligaciones
+### CAPITULO II. Del Ofrecimiento del Pago y de la Consignación
 
-Rescisión de las obligaciones
+Consignación del bien debido
 
 ###### Artículo 7.
 
@@ -10009,9 +10181,9 @@ IV. El que adquiere un inmueble paga a un acreedor que tiene sobre él un crédi
 
 Deuda pagada con dinero de un tercero
 
-### CAPITULO II. Del Saneamiento por Evicción
+### CAPITULO I. Consecuencias del Incumplimiento de las Obligaciones
 
-Concepto de evicción
+Rescisión de las obligaciones
 
 ###### Artículo 7.
 
@@ -10035,11 +10207,11 @@ Pago a los subrogados
 
 Dación en pago
 
-## TITULO DECIMO PRIMERO. Efectos de las Obligaciones con Relación a Terceros
+## TITULO DECIMO. Del Incumplimiento de las Obligaciones
 
-### CAPITULO III. Del Saneamiento por Vicios Ocultos
+### CAPITULO II. Del Saneamiento por Evicción
 
-Vicios ocultos
+Concepto de evicción
 
 ###### Artículo 7.
 
@@ -10243,9 +10415,9 @@ Evicción del bien con que se paga
 
 Derecho a la consignación
 
-### CAPITULO I. De los Actos Celebrados en Fraude de Acreedores
+### CAPITULO III. Del Saneamiento por Vicios Ocultos
 
-Requisitos de la nulidad del acto del deudor
+Vicios ocultos
 
 ###### Artículo 7.
 
@@ -10277,11 +10449,11 @@ El perjudicado podrá escoger entre exigir el cumplimiento o la rescisión de la
 
 Daños y perjuicios
 
-## TITULO DECIMO SEGUNDO. De la Extinción de las Obligaciones
+## TITULO DECIMO PRIMERO. Efectos de las Obligaciones con Relación a Terceros
 
-### CAPITULO II. De la Simulación de los Actos Jurídicos
+### CAPITULO I. De los Actos Celebrados en Fraude de Acreedores
 
-Acto simulado
+Requisitos de la nulidad del acto del deudor
 
 ###### Artículo 7.
 
@@ -10415,9 +10587,9 @@ Costas por incumplimiento
 
 Obligación de todo enajenante a la evicción
 
-### CAPITULO I. De la Compensación
+### CAPITULO II. De la Simulación de los Actos Jurídicos
 
-Casos en que hay compensación
+Acto simulado
 
 ###### Artículo 7.
 
@@ -10573,9 +10745,9 @@ Evicción en caso de remate judicial
 
 Derecho de rescisión o rebaja del precio
 
-### CAPITULO II. De la Confusión de Derechos
+### CAPITULO I. De la Compensación
 
-La calidad de acreedor y deudor se reúnen en una persona
+Casos en que hay compensación
 
 ###### Artículo 7.
 
@@ -10691,11 +10863,11 @@ Vicios ocultos de bien adquirido por remate o adjudicación
 
 Mala fe del deudor y su contratante
 
-## TITULO UNICO. De la Concurrencia y Prelación de los Créditos
+## TITULO DECIMO SEGUNDO. De la Extinción de las Obligaciones
 
-### CAPITULO III. De la Remisión de la Deuda
+### CAPITULO II. De la Confusión de Derechos
 
-Perdón de la deuda
+La calidad de acreedor y deudor se reúnen en una persona
 
 ###### Artículo 7.
 
@@ -10797,9 +10969,9 @@ Enajenación presumiblemente fraudulenta
 
 Clases de simulación
 
-### CAPITULO IV. De la Novación
+### CAPITULO III. De la Remisión de la Deuda
 
-Concepto de novación
+Perdón de la deuda
 
 ###### Artículo 7.
 
@@ -10831,11 +11003,11 @@ También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
 
 Efecto de la compensación
 
-## TITULO PRIMERO. De los Contratos Preparatorios
+## TITULO UNICO. De la Concurrencia y Prelación de los Créditos
 
-### CAPITULO V. De la Prescripción Extintiva
+### CAPITULO IV. De la Novación
 
-Extinción de la obligación por prescripción
+Concepto de novación
 
 ###### Artículo 7.
 
@@ -10961,9 +11133,9 @@ Compensación en perjuicio de tercero
 
 Confusión en la persona del acreedor o deudor solidario
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO V. De la Prescripción Extintiva
 
-Bienes con los que se responde de las obligaciones
+Extinción de la obligación por prescripción
 
 ###### Artículo 7.
 
@@ -10981,9 +11153,9 @@ Caso en que no hay confusión
 
 Consecuencias de la remisión de la deuda principal
 
-### CAPITULO II. De los Créditos Hipotecarios, Pignoraticios y de algunos otros Privilegios
+### CAPITULO I. Disposiciones Generales
 
-Adeudos fiscales
+Bienes con los que se responde de las obligaciones
 
 ###### Artículo 7.
 
@@ -11007,9 +11179,9 @@ Presunción de la remisión
 
 Formalidad de la novación
 
-### CAPITULO III. De algunos Acreedores Preferentes sobre Determinados Bienes
+### CAPITULO II. De los Créditos Hipotecarios, Pignoraticios y de algunos otros Privilegios
 
-Pago preferente con el valor de los bienes
+Adeudos fiscales
 
 ###### Artículo 7.
 
@@ -11069,9 +11241,9 @@ Efectos de la novación con alguno de los deudores solidarios
 
 Personas beneficiadas con la prescripción
 
-### CAPITULO IV. Acreedores de Primera Clase
+### CAPITULO III. De algunos Acreedores Preferentes sobre Determinados Bienes
 
-Orden para pagar con el valor del resto de bienes
+Pago preferente con el valor de los bienes
 
 ###### Artículo 7.
 
@@ -11237,11 +11409,11 @@ De los Créditos y sus Acreedores
 
 Concurso de acreedores
 
-## TITULO SEGUNDO. De la Compraventa
+## TITULO PRIMERO. De los Contratos Preparatorios
 
-### CAPITULO V. Acreedores de Segunda Clase
+### CAPITULO IV. Acreedores de Primera Clase
 
-Pago de obligaciones secundarias
+Orden para pagar con el valor del resto de bienes
 
 ###### Artículo 7.
 
@@ -11359,9 +11531,9 @@ Crédito preferente originado de convenio fraudulento
 
 Créditos que no entran a concurso
 
-### CAPITULO VI. Acreedores de Tercera Clase
+### CAPITULO V. Acreedores de Segunda Clase
 
-Obligaciones pagadas en tercer lugar
+Pago de obligaciones secundarias
 
 ###### Artículo 7.
 
@@ -11457,9 +11629,9 @@ Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmoviliz
 
 IX. Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
-### CAPITULO VII. Acreedores de Cuarta Clase
+### CAPITULO VI. Acreedores de Tercera Clase
 
-Obligaciones pagadas en cuarto lugar
+Obligaciones pagadas en tercer lugar
 
 ###### Artículo 7.
 
@@ -11479,9 +11651,9 @@ VI. La responsabilidad civil en la parte que comprende el pago de los gastos de 
 
 En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de bien ajeno, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si se tratara de acreedores comunes de cuarta clase.
 
-### CAPITULO UNICO. De la Promesa
+### CAPITULO VII. Acreedores de Cuarta Clase
 
-Precontrato
+Obligaciones pagadas en cuarto lugar
 
 ###### Artículo 7.
 
@@ -11493,17 +11665,17 @@ II. Los créditos no fiscales del erario y los créditos de los administradores 
 
 III. Los créditos de los establecimientos de beneficencia pública o privada.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO UNICO. De la Promesa
 
-Elementos de la compraventa
+Precontrato
 
 ###### Artículo 7.
 
 521.- Satisfechos los créditos a que se refieren los artículos anteriores, se pagaran los créditos que consten en documento auténtico realizado por Fedatario Público.
 
-### CAPITULO II. De la Materia de la Compraventa
+### CAPITULO I. Disposiciones Generales
 
-Legitimación para vender
+Elementos de la compraventa
 
 ###### Artículo 7.
 
@@ -11511,9 +11683,9 @@ Legitimación para vender
 
 Pago del resto de las obligaciones
 
-### CAPITULO III. De los que Pueden Vender y Comprar
+### CAPITULO II. De la Materia de la Compraventa
 
-Compra de inmuebles por extranjeros
+Legitimación para vender
 
 ###### Artículo 7.
 
@@ -11529,13 +11701,11 @@ De las Diversas Especies de Contratos
 
 Obligación de hacer
 
-## TITULO TERCERO. De la Permuta
+## TITULO SEGUNDO. De la Compraventa
 
-Concepto de permuta
+### CAPITULO III. De los que Pueden Vender y Comprar
 
-### CAPITULO IV. De las Obligaciones del Vendedor
-
-Obligaciones del vendedor
+Compra de inmuebles por extranjeros
 
 ###### Artículo 7.
 
@@ -11589,11 +11759,13 @@ III. Por no reclamarse el cumplimiento de la promesa dentro de diez días despu�
 
 Consentimiento sobre bien y precio
 
-## TITULO CUARTO. De las Donaciones
+## TITULO TERCERO. De la Permuta
 
-### CAPITULO V. De la Entrega del Bien Vendido
+Concepto de permuta
 
-Entrega real, jurídica y virtual
+### CAPITULO IV. De las Obligaciones del Vendedor
+
+Obligaciones del vendedor
 
 ###### Artículo 7.
 
@@ -11715,9 +11887,9 @@ Ventas al menudeo de bebidas embriagantes
 
 Venta de bien ajeno
 
-### CAPITULO VI. De las Obligaciones del Comprador
+### CAPITULO V. De la Entrega del Bien Vendido
 
-Principal obligación del comprador
+Entrega real, jurídica y virtual
 
 ###### Artículo 7.
 
@@ -11741,9 +11913,9 @@ Venta de bienes o derechos litigiosos
 
 Incapacidad para comprar
 
-### CAPITULO VII. De algunas Modalidades del Contrato de Compraventa
+### CAPITULO VI. De las Obligaciones del Comprador
 
-Pacto de no vender a determinada persona
+Principal obligación del comprador
 
 ###### Artículo 7.
 
@@ -11803,9 +11975,9 @@ III. Garantizar las calidades del bien;
 
 IV. Responder de la evicción.
 
-### CAPITULO VII. De la Forma del Contrato de Compraventa
+### CAPITULO VII. De algunas Modalidades del Contrato de Compraventa
 
-Formalidad de la compraventa
+Pacto de no vender a determinada persona
 
 ###### Artículo 7.
 
@@ -11819,9 +11991,9 @@ Desde el momento en que el comprador acepte que el bien vendido quede a su dispo
 
 Gastos de entrega
 
-### CAPITULO IX. De las Ventas Judiciales
+### CAPITULO VII. De la Forma del Contrato de Compraventa
 
-Reglas para la venta judicial
+Formalidad de la compraventa
 
 ###### Artículo 7.
 
@@ -11875,9 +12047,9 @@ Mora de recibir el bien vendido
 
 Pago del precio en lugar de entrega del bien
 
-### CAPITULO I. De las Donaciones en General
+### CAPITULO IX. De las Ventas Judiciales
 
-Concepto de donación
+Reglas para la venta judicial
 
 ###### Artículo 7.
 
@@ -11935,9 +12107,9 @@ Pago de más del cincuenta por ciento del precio
 
 Pacto de retroventa
 
-### CAPITULO II. De las Personas que Pueden Recibir Donaciones
+### CAPITULO I. De las Donaciones en General
 
-Legitimación de los no nacidos para recibir por donación
+Concepto de donación
 
 ###### Artículo 7.
 
@@ -12043,9 +12215,9 @@ Facultad de recuperar el bien de terceros
 
 Formalidad de la compraventa de muebles
 
-### CAPITULO III. De la Revocación y Reducción de las Donaciones
+### CAPITULO II. De las Personas que Pueden Recibir Donaciones
 
-Revocación por sobrevenir hijos
+Legitimación de los no nacidos para recibir por donación
 
 ###### Artículo 7.
 
@@ -12071,9 +12243,9 @@ Los Fedatarios Públicos asesorarán gratuitamente a los interesados en este tip
 
 Transmisión de la propiedad sin gravamen
 
-### CAPITULO I. Del Mutuo Simple
+### CAPITULO III. De la Revocación y Reducción de las Donaciones
 
-Del Mutuo
+Revocación por sobrevenir hijos
 
 ###### Artículo 7.
 
@@ -12091,7 +12263,7 @@ Enajenación judicial para dividir el bien común
 
 Permuta de bien ajeno
 
-## TITULO QUINTO. Del Mutuo
+## TITULO CUARTO. De las Donaciones
 
 ###### Artículo 7.
 
@@ -12121,11 +12293,11 @@ Reglas aplicables a la permuta
 
 Clases de donación
 
-## TITULO SEXTO. Del Arrendamiento
+## TITULO QUINTO. Del Mutuo
 
-### CAPITULO II. Del Mutuo con Interés
+### CAPITULO I. Del Mutuo Simple
 
-Legalidad de señalar interés por el mutuo
+Del Mutuo
 
 ###### Artículo 7.
 
@@ -12239,9 +12411,9 @@ Donación consistente en prestaciones periódicas
 
 Simulación de otro contrato para hacer donación
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. Del Mutuo con Interés
 
-Definición de arrendamiento
+Legalidad de señalar interés por el mutuo
 
 ###### Artículo 7.
 
@@ -12257,9 +12429,9 @@ Si dentro del mencionado plazo naciera un hijo póstumo del donante, la donació
 
 Reducción de la donación
 
-### CAPITULO II. De las Obligaciones del Arrendador
+### CAPITULO I. Disposiciones Generales
 
-Obligaciones del arrendador
+Definición de arrendamiento
 
 ###### Artículo 7.
 
@@ -12417,13 +12589,11 @@ Donatario responsable de los frutos
 
 Reglas del mutuo sin plazo
 
-## TITULO SEPTIMO. Del Comodato
+## TITULO SEXTO. Del Arrendamiento
 
-Elementos personales del comodato
+### CAPITULO II. De las Obligaciones del Arrendador
 
-### CAPITULO III. De las Obligaciones del Arrendatario
-
-Obligaciones del arrendatario
+Obligaciones del arrendador
 
 ###### Artículo 7.
 
@@ -12481,11 +12651,9 @@ Mutuo con menor para proporcionarse alimentos
 
 Interés legal o convencional
 
-### CAPITULO IV. Disposiciones Especiales para Arrendamiento de Bienes
+### CAPITULO III. De las Obligaciones del Arrendatario
 
-Urbanos Destinados a Casa Habitación
-
-Condiciones higiénicas y de salubridad
+Obligaciones del arrendatario
 
 ###### Artículo 7.
 
@@ -12527,11 +12695,15 @@ Prohibición de capitalizar de antemano los intereses
 
 Formalidad y plazo de arrendamiento
 
-## TITULO OCTAVO. Del Depósito y del Secuestro
+## TITULO SEPTIMO. Del Comodato
 
-### CAPITULO V. Del arrendamiento de fincas rústicas
+Elementos personales del comodato
 
-Normas que rigen el arrendamiento de fincas rústicas
+### CAPITULO IV. Disposiciones Especiales para Arrendamiento de Bienes
+
+Urbanos Destinados a Casa Habitación
+
+Condiciones higiénicas y de salubridad
 
 ###### Artículo 7.
 
@@ -12665,9 +12837,9 @@ V. Responder de los daños y perjuicios que sufra el arrendatario por los defect
 
 Falta de reparaciones necesarias
 
-### CAPITULO VI. Del Arrendamiento de Bienes Muebles
+### CAPITULO V. Del arrendamiento de fincas rústicas
 
-Disposiciones aplicables al arrendamiento de muebles
+Normas que rigen el arrendamiento de fincas rústicas
 
 ###### Artículo 7.
 
@@ -12693,9 +12865,9 @@ VII. Poner en conocimiento del arrendador cualquier acto o hecho que lesione o p
 
 Lugar de pago de las rentas
 
-### CAPITULO VII. Del subarriendo
+### CAPITULO VI. Del Arrendamiento de Bienes Muebles
 
-Legitimación para subarrendar
+Disposiciones aplicables al arrendamiento de muebles
 
 ###### Artículo 7.
 
@@ -12737,9 +12909,9 @@ Arrendatarios con derecho de preferencia de compra
 
 Contenido del contrato de arrendamiento
 
-### CAPITULO VIII. De la terminación del contrato de arrendamiento
+### CAPITULO VII. Del subarriendo
 
-Causas de terminación del arrendamiento
+Legitimación para subarrendar
 
 ###### Artículo 7.
 
@@ -12777,9 +12949,9 @@ Monto del incremento de la renta
 
 Tiempo de pago de las rentas
 
-### CAPITULO I. Del Depósito
+### CAPITULO VIII. De la terminación del contrato de arrendamiento
 
-Definición del contrato de depósito
+Causas de terminación del arrendamiento
 
 ###### Artículo 7.
 
@@ -12811,9 +12983,9 @@ Obligación del nuevo arrendatario
 
 Arrendamiento sin plazo
 
-### CAPITULO II. Del Secuestro
+### CAPITULO I. Del Depósito
 
-Concepto de secuestro
+Definición del contrato de depósito
 
 ###### Artículo 7.
 
@@ -12873,9 +13045,9 @@ Arrendamiento de predio rústico
 
 Autorización general para subarrendar
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. Del Secuestro
 
-Concepto de mandato
+Concepto de secuestro
 
 ###### Artículo 7.
 
@@ -12905,9 +13077,9 @@ IX. Evicción del bien dado en arrendamiento.
 
 Arrendamiento de plazo determinado
 
-### CAPITULO II. De las Obligaciones del Mandatario con Respecto al Mandante
+### CAPITULO I. Disposiciones Generales
 
-Instrucciones del mandante
+Concepto de mandato
 
 ###### Artículo 7.
 
@@ -12937,7 +13109,7 @@ Enajenación judicial del bien arrendado
 
 Elemento formal del comodato
 
-## TITULO NOVENO. Del Mandato
+## TITULO OCTAVO. Del Depósito y del Secuestro
 
 ###### Artículo 7.
 
@@ -13045,11 +13217,11 @@ Muerte del comodatario
 
 Derecho del depositario a la retribución
 
-## TITULO DECIMO. Del Contrato de Prestación de Servicios
+## TITULO NOVENO. Del Mandato
 
-### CAPITULO III. De las Obligaciones del Mandante con Relación al Mandatario
+### CAPITULO II. De las Obligaciones del Mandatario con Respecto al Mandante
 
-Anticipo para ejecutar el mandato
+Instrucciones del mandante
 
 ###### Artículo 7.
 
@@ -13181,11 +13353,9 @@ Responsabilidad por el depósito necesario
 
 Verificación de secuestro
 
-### CAPITULO IV. De las Obligaciones y Derechos del Mandante y
+### CAPITULO III. De las Obligaciones del Mandante con Relación al Mandatario
 
-del Mandatario con Relación a Tercero
-
-Obligación del mandante de cumplir lo ejecutado
+Anticipo para ejecutar el mandato
 
 ###### Artículo 7.
 
@@ -13209,13 +13379,13 @@ Disposiciones que rigen el secuestro
 
 Formación del contrato de mandato
 
-## TITULO PRIMERO. Disposiciones Generales
+## TITULO DECIMO. Del Contrato de Prestación de Servicios
 
-Publicidad de los actos jurídicos
+### CAPITULO IV. De las Obligaciones y Derechos del Mandante y
 
-### CAPITULO V. Del Mandato Judicial
+del Mandatario con Relación a Tercero
 
-Concepto de mandato judicial
+Obligación del mandante de cumplir lo ejecutado
 
 ###### Artículo 7.
 
@@ -13333,9 +13503,9 @@ Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre m
 
 Consulta al mandante por el mandatario
 
-### CAPITULO VI. De los Diversos Modos de Terminar el Mandato
+### CAPITULO V. Del Mandato Judicial
 
-Causas de terminación del mandato
+Concepto de mandato judicial
 
 ###### Artículo 7.
 
@@ -13419,9 +13589,9 @@ Derechos y obligaciones del mandatario sustituto
 
 Reembolso al mandatario
 
-### CAPITULO I. De la Prestación de Servicios Profesionales
+### CAPITULO VI. De los Diversos Modos de Terminar el Mandato
 
-Convenio sobre retribución por servicios profesionales
+Causas de terminación del mandato
 
 ###### Artículo 7.
 
@@ -13457,9 +13627,9 @@ Mandatos solidarios
 
 Límite del mandato
 
-### CAPITULO II. Del Contrato de Obra a Precio Alzado
+### CAPITULO I. De la Prestación de Servicios Profesionales
 
-Empresario que dirige y pone los materiales
+Convenio sobre retribución por servicios profesionales
 
 ###### Artículo 7.
 
@@ -13483,9 +13653,9 @@ Tercero que conoce los límites del mandato
 
 Incapacidades legales para ser procurador
 
-### CAPITULO III. Del contrato de transporte
+### CAPITULO II. Del Contrato de Obra a Precio Alzado
 
-Reglas del contrato de transporte
+Empresario que dirige y pone los materiales
 
 ###### Artículo 7.
 
@@ -13603,9 +13773,9 @@ VII. Declaración de ausencia.
 
 Revocación del mandato por el mandante
 
-### CAPITULO IV. Del Contrato de Hospedaje
+### CAPITULO III. Del contrato de transporte
 
-Elementos del contrato
+Reglas del contrato de transporte
 
 ###### Artículo 7.
 
@@ -13667,11 +13837,13 @@ Actos del mandatario posteriores a la conclusión del cargo
 
 Falta de convenio sobre honorarios profesionales
 
-## TITULO SEGUNDO. Disposiciones Comunes
+## TITULO PRIMERO. Disposiciones Generales
 
-### CAPITULO I. De las Asociaciones
+Publicidad de los actos jurídicos
 
-Concepto de contrato de asociación
+### CAPITULO IV. Del Contrato de Hospedaje
+
+Elementos del contrato
 
 ###### Artículo 7.
 
@@ -13737,7 +13909,9 @@ Normas aplicables
 
 Riesgo de la obra
 
-### CAPITULO II. De las sociedades
+### CAPITULO I. De las Asociaciones
+
+Concepto de contrato de asociación
 
 ###### Artículo 7.
 
@@ -13911,9 +14085,7 @@ Responsabilidades de los empresarios constructores
 
 Defectos de los conductores o medios de transporte
 
-### CAPITULO III. De la Aparcería Rural
-
-Clases de aparcería rural
+### CAPITULO II. De las sociedades
 
 ###### Artículo 7.
 
@@ -14027,9 +14199,9 @@ Consecuencias del termino por fuerza mayor
 
 Consentimiento tácito en el hospedaje
 
-### CAPITULO I. Del Juego y de la Apuesta
+### CAPITULO III. De la Aparcería Rural
 
-Concepto del contrato de juego
+Clases de aparcería rural
 
 ###### Artículo 7.
 
@@ -14057,9 +14229,9 @@ De las Asociaciones, de las Sociedades y de la Aparcería Rural
 
 Elementos formales del contrato de asociación
 
-### CAPITULO II. De la Renta Vitalicia
+### CAPITULO I. Del Juego y de la Apuesta
 
-Elementos de la renta vitalicia
+Concepto del contrato de juego
 
 ###### Artículo 7.
 
@@ -14101,9 +14273,9 @@ Efectos de la constitución
 
 Razón social
 
-### CAPITULO I. De la Fianza en General
+### CAPITULO II. De la Renta Vitalicia
 
-Elementos del contrato de fianza
+Elementos de la renta vitalicia
 
 ###### Artículo 7.
 
@@ -14279,9 +14451,9 @@ Las utilidades se destinarán a los establecimientos de beneficencia pública de
 
 Contenido del contrato de sociedad
 
-### CAPITULO II. De los Efectos de la Fianza entre el Fiador y el Acreedor
+### CAPITULO I. De la Fianza en General
 
-Excepciones inherentes a la obligación principal
+Elementos del contrato de fianza
 
 #### SECCION PRIMERA. Disposiciones Generales
 
@@ -14603,9 +14775,9 @@ Terminación del contrato por muerte del aparcero
 
 Obligación del dueño en caso de muerte del aparcero
 
-### CAPITULO III. De los Efectos de la Fianza entre el Fiador y el Deudor
+### CAPITULO II. De los Efectos de la Fianza entre el Fiador y el Acreedor
 
-Derecho de indemnización del fiador que paga
+Excepciones inherentes a la obligación principal
 
 ###### Artículo 7.
 
@@ -14779,9 +14951,9 @@ Monto del patrimonio afectable en juego o apuesta
 
 La suerte como medio para dividir bienes o terminar controversias
 
-### CAPITULO IV. De los Efectos de la Fianza entre los Cofiadores
+### CAPITULO III. De los Efectos de la Fianza entre el Fiador y el Deudor
 
-Derecho del fiador que paga contra los otros fiadores
+Derecho de indemnización del fiador que paga
 
 ###### Artículo 7.
 
@@ -14823,9 +14995,9 @@ Renta vitalicia considerada como donación
 
 Renta vitalicia nula
 
-### CAPITULO V. De la Extinción de la Fianza
+### CAPITULO IV. De los Efectos de la Fianza entre los Cofiadores
 
-Extinción de la obligación del fiador
+Derecho del fiador que paga contra los otros fiadores
 
 ###### Artículo 7.
 
@@ -14921,9 +15093,9 @@ Fianza sobre deudas futuras
 
 Límite de la obligación del fiador
 
-### CAPITULO VI. De la Fianza Legal o Judicial
+### CAPITULO V. De la Extinción de la Fianza
 
-Requisitos del fiador legal o judicial
+Extinción de la obligación del fiador
 
 ###### Artículo 7.
 
@@ -15041,9 +15213,9 @@ V. Se ignore el paradero del deudor, siempre que llamado éste por edictos, no c
 
 Requisitos para que la excusión proceda
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO VI. De la Fianza Legal o Judicial
 
-Concepto de prenda
+Requisitos del fiador legal o judicial
 
 ###### Artículo 7.
 
@@ -15153,9 +15325,9 @@ Excepciones del deudor contra el fiador
 
 Deudor que paga ignorando el pago por el fiador
 
-### CAPITULO II. De la Prenda sobre Créditos
+### CAPITULO I. Disposiciones Generales
 
-Notificación al deudor del crédito
+Concepto de prenda
 
 ###### Artículo 7.
 
@@ -15229,9 +15401,9 @@ V. Alguno o algunos de los fiadores no puedan ser demandados dentro del Estado d
 
 Obligación del fiador que pide el beneficio de la división
 
-### CAPITULO III. De los Derechos y Obligaciones del Acreedor y Deudor Prendarios
+### CAPITULO II. De la Prenda sobre Créditos
 
-Derechos del acreedor prendario
+Notificación al deudor del crédito
 
 ###### Artículo 7.
 
@@ -15273,9 +15445,9 @@ Prórroga o espera al deudor por el acreedor
 
 Efectos de la quita
 
-### CAPITULO IV. De la Venta del Bien Pignorado
+### CAPITULO III. De los Derechos y Obligaciones del Acreedor y Deudor Prendarios
 
-Incumplimiento del pago
+Derechos del acreedor prendario
 
 ###### Artículo 7.
 
@@ -15337,9 +15509,9 @@ Presunción de enajenación o gravamen fraudulentos
 
 Fiadores que no gozan de los beneficios de orden y excusión
 
-### CAPITULO V. De la Extinción de la Prenda
+### CAPITULO IV. De la Venta del Bien Pignorado
 
-Causas de extinción de la prenda
+Incumplimiento del pago
 
 ###### Artículo 7.
 
@@ -15381,9 +15553,9 @@ Entrega real, virtual y jurídica
 
 Posesión del bien prendario por un tercero o deudor
 
-### CAPITULO I. De la Hipoteca en General
+### CAPITULO V. De la Extinción de la Prenda
 
-Concepto de hipoteca
+Causas de extinción de la prenda
 
 ###### Artículo 7.
 
@@ -15455,9 +15627,9 @@ Pérdida del bien prendario
 
 Obligaciones del acreedor prendario
 
-### CAPITULO II. De la hipoteca voluntaria
+### CAPITULO I. De la Hipoteca en General
 
-Concepto de hipoteca voluntaria
+Concepto de hipoteca
 
 ###### Artículo 7.
 
@@ -15475,9 +15647,9 @@ Abuso del bien prendario
 
 Causas de abuso del bien pignorado
 
-### CAPITULO III. De la Hipoteca Necesaria
+### CAPITULO II. De la hipoteca voluntaria
 
-Concepto de hipoteca necesaria
+Concepto de hipoteca voluntaria
 
 ###### Artículo 7.
 
@@ -15537,9 +15709,9 @@ Sanción al deudor
 
 Cláusulas nulas en la prenda
 
-### CAPITULO IV. De la extinción de las hipotecas
+### CAPITULO III. De la Hipoteca Necesaria
 
-Causas de extinción de la hipoteca
+Concepto de hipoteca necesaria
 
 ###### Artículo 7.
 
@@ -15589,9 +15761,9 @@ Bienes hipotecables
 
 Extensión de la hipoteca
 
-### CAPITULO I. De los Documentos Registrables
+### CAPITULO IV. De la extinción de las hipotecas
 
-Actos jurídicos registrables
+Causas de extinción de la hipoteca
 
 ###### Artículo 7.
 
@@ -15605,9 +15777,9 @@ III. Los nuevos edificios que el propietario construya sobre el terreno hipoteca
 
 Bienes no comprendidos en la hipoteca
 
-### CAPITULO II. De la Prelación
+### CAPITULO I. De los Documentos Registrables
 
-Prioridad de la inscripción
+Actos jurídicos registrables
 
 ###### Artículo 7.
 
@@ -15793,9 +15965,9 @@ Existencia de obligación futura o cumplimiento de las condiciones
 
 Constancia de la obligación futura o cumplimiento de condiciones
 
-### CAPITULO III. De la Calificación Registral
+### CAPITULO II. De la Prelación
 
-Devolución de documento con datos de inscripción
+Prioridad de la inscripción
 
 ###### Artículo 7.
 
@@ -15881,9 +16053,9 @@ Duración de la hipoteca necesaria
 
 Legitimación para pedir constitución de hipoteca necesaria
 
-### CAPITULO IV. De la rectificación de asientos
+### CAPITULO III. De la Calificación Registral
 
-Rectificación de asientos por error
+Devolución de documento con datos de inscripción
 
 ###### Artículo 7.
 
@@ -15967,9 +16139,9 @@ Requisito formal de la transacción
 
 Transacción de ascendientes y tutores a nombre de sus representados
 
-### CAPITULO I. De los Títulos Inscribibles y de los Anotables
+### CAPITULO IV. De la rectificación de asientos
 
-Títulos inscribibles
+Rectificación de asientos por error
 
 ###### Artículo 7.
 
@@ -16045,9 +16217,9 @@ Transacción en base a documentos falsos
 
 Presencia de nuevos títulos o documentos
 
-### CAPITULO II. De los efectos de las anotaciones
+### CAPITULO I. De los Títulos Inscribibles y de los Anotables
 
-Personas a quienes perjudica la anotación
+Títulos inscribibles
 
 ###### Artículo 7.
 
@@ -16151,7 +16323,7 @@ Obligatoriedad del laudo
 
 # LIBRO OCTAVO. Del Registro Público de la Propiedad
 
-## TITULO TERCERO. Del Registro de la Propiedad Inmueble
+## TITULO SEGUNDO. Disposiciones Comunes
 
 ###### Artículo 8.
 
@@ -16247,13 +16419,11 @@ IV. Si fueran resoluciones judiciales, se ordene su inscripción por la autorida
 
 La inscripción no produce convalidación
 
-## TITULO CUARTO. Del Registro de Operaciones sobre Muebles
+## TITULO TERCERO. Del Registro de la Propiedad Inmueble
 
-Inscripción de actos jurídicos sobre muebles
+### CAPITULO II. De los efectos de las anotaciones
 
-### CAPITULO III. De la Inmatriculación
-
-Inmuebles carentes de antecedentes registrales
+Personas a quienes perjudica la anotación
 
 ###### Artículo 8.
 
@@ -16308,6 +16478,10 @@ Prioridades por la hora y fecha de presentación
 15.- La prelación entre los diversos documentos ingresados al Registro se determinará por la prioridad en cuanto a la fecha y hora de presentación, salvo lo dispuesto en el artículo siguiente.
 
 Exigencia de certificado de gravámenes
+
+### CAPITULO III. De la Inmatriculación
+
+Inmuebles carentes de antecedentes registrales
 
 ###### Artículo 8.
 
@@ -16591,9 +16765,9 @@ Anotaciones judiciales o administrativas
 
 Anotación de fianzas
 
-## TITULO QUINTO. Del registro de personas jurídicas colectivas
+## TITULO CUARTO. Del Registro de Operaciones sobre Muebles
 
-Actos jurídicos sobre personas jurídicas colectivas
+Inscripción de actos jurídicos sobre muebles
 
 ###### Artículo 8.
 
@@ -16753,9 +16927,9 @@ III. Las Instituciones de asistencia privada.
 
 Disposiciones aplicables al registro de inmuebles
 
-## TITULO SEXTO. De los Servidores Públicos del Instituto de la Función Registral del Estado de México
+## TITULO QUINTO. Del registro de personas jurídicas colectivas
 
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+Actos jurídicos sobre personas jurídicas colectivas
 
 ###### Artículo 8.
 
@@ -16766,6 +16940,10 @@ Disposiciones aplicables al registro de inmuebles
 ###### Artículo 8.
 
 68.- En el desempeño de sus funciones y cumplimiento de sus responsabilidades, los servidores públicos del Instituto de la Función Registral del Estado de México deberán cumplir con las disposiciones de este Código, el Reglamento, la Ley que Crea el Organismo Público Descentralizado Denominado Instituto de la Función Registral del Estado de México, su reglamento interior, los manuales administrativos y demás disposiciones legales, reglamentarias y administrativas aplicables.
+
+## TITULO SEXTO. De los Servidores Públicos del Instituto de la Función Registral del Estado de México
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
 ## TRANSITORIOS
 
@@ -16910,3 +17088,33 @@ Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
+
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos judiciales de Chalco, Otumba y Texcoco;
+
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro. Ixtlahuaca. Sultepec y Temascaltepec;
+
+Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+
+CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
+
+El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
+
+El uno de agosto de dos mil diez en los distritos judiciales de Cuautitlán, Ecatepec de Morelos y Nezahualcóyotl;
+
+El uno de febrero de dos mil once en los distritos judiciales de Texcoco y Tlalnepantla;
+
+El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotepec, Ixtlahuaca, Zumpango, Sultepec, Temascaltepec, Tenancingo y Valle de Bravo.
+
+QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
