@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-asistencia-social-del-estado-de-mexico-5806"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1986-12-31"
+last_updated: "2010-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 31 de diciembre de 1986.
 
@@ -45,17 +45,23 @@ LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MEXICO
 
 La presente ley es de orden público e interés social y tiene como finalidad establecer las bases, objetivos y procedimientos de un Sistema Estatal de Asistencia Social, que promueva la prestación de los servicios de asistencia social que establecen los ordenamientos de la materia; así como para coordinar el acceso a los mismos, garantizando la concurrencia de esta Entidad Federativa, los Municipios y de los sectores sociales y privados que la componen.
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 2.
 
-El Estado y los Municipios en forma prioritaria proporcionarán servicios asistenciales encaminados a la protección y desarrollo integral de la familia y de aquellos individuos con carencias familiares esenciales no superables en forma autónoma por ellos mismos.
+El Estado y los Municipios proporcionarán servicios asistenciales encaminados a la protección y desarrollo integral de la familia y de aquellos individuos con carencias familiares esenciales no superables en forma autónoma. Así como fomentar condiciones de equidad de género para erradicar cualquier tipo de violencia.
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 3.
 
-Para los efectos de esta ley, se entiende por asistencia social al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+Para los efectos de esta Ley, se entiende por asistencia social al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social, no importando su condición de género, edad o estrato social, que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 4.
 
-En los términos de esta ley son sujetos de la recepción de los servicios de asistencia social preferentemente: La infancia, la familia, el senecente y el minusválido. La infancia, en cuanto a que es el sector de la población más débil y requiere una protección integral; la familia, en cuanto a que es la base y célula de la sociedad; la senectud, por ser la parte de la población a la que la sociedad todo debe y el minusválido por ser el que mayor necesidad tiene de ser ayudado; para poder lograr la sociedad igualitaria a que el Estado aspira.
+En los términos de esta Ley son sujetos de la recepción de los servicios de asistencia social preferentemente: la infancia, las mujeres, la familia, el senescente y minusválido. La infancia, en cuanto a que es el sector de la población más débil y requiere una protección integral; la familia, en cuanto a que es la base y célula de la sociedad; la senectud, por ser la parte de la población a la que la sociedad todo debe y el minusválido por ser el que mayor necesidad tiene de ser ayudado; para poder lograr la sociedad igualitaria a que el Estado aspira.
 
 > <small>(F. DE E., P.O. 26 DE FEBRERO DE 1987)</small>
 
@@ -277,9 +283,11 @@ El DIFEM, aplicará cuotas de recuperación en cada uno de sus servicios y progr
 
 El DIFEM vigilará que los menores en edad escolar asistan a centros de enseñanza primaria y podrá en su caso, inscribirlos en las escuelas a cargo de este Organismo.
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 29.
 
-El DIFEM fomentará la reproducción y distribuirá obras literarias, de ciencias o tecnología, artículos periodísticos o ensayos que constituyan una aportación cultural a la sociedad; enaltezcan el espíritu cívico o tiendan a fomentar la conciencia y la moral familiar.
+El DIFEM fomentará la reproducción y distribución de obras literarias, de ciencia y tecnología, artículos periodísticos y ensayos que constituyan una aportación cultural a la sociedad, enaltezcan el espíritu cívico o tiendan a fomentar a conciencia, la moral familiar, así como el respeto a las condiciones de género.
 
 ### CAPITULO V. DE LA PROTECCION MORAL
 
@@ -642,3 +650,35 @@ EL SECRETARIO DE GOBIERNO
 Lic. Leopoldo Velasco Mercado.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 6 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
+
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos judiciales de Chalco, Otumba y Texcoco;
+
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca. Sultepec y Temascaltepec;
+
+Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+
+CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
+
+El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
+
+El uno de agosto de dos mil diez en los distritos judiciales de Cuautitlán, Ecatepec de Morelos y Nezahualcóyotl;
+
+El uno de febrero de dos mil once en los distritos judiciales de Texcoco y Tlalnepantla;
+
+El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotepec, Ixtlahuaca, Zumpango, Sultepec, Temascaltepec, Tenancingo y Valle de Bravo.
+
+QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
