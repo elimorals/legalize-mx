@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2009-08-06"
+last_updated: "2010-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -479,7 +479,9 @@ l. Un Presidente, que es el Comisionado;
 
 II. Un Secretario Técnico, que es el Secretario de la Comisión; y
 
-III. Cinco Consejeros Ciudadanos, de los cuales, uno de ellos deberá ser de extracción indígena, en términos de lo establecido por el artículo 16 de la Ley de Derechos y Cultura Indígena del Estado de México.
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+III. Cinco Consejeros Ciudadanos, de los cuales por lo menos, dos serán mujeres y uno de extracción indígena.
 
 ###### Artículo 40.
 
@@ -1024,3 +1026,33 @@ TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor
 CUARTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá expedir las disposiciones que reglamenten la organización y funcionamiento de las Defensorías Municipales de Derechos Humanos dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley, las cuales serán publicadas en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno" y en la Gaceta de la propia Comisión.
 
 QUINTO.- Los Coordinadores Municipales de Derechos Humanos, ahora Defensores Municipales de Derechos Humanos, cuya designación se realizó al amparo de las disposiciones que se modifican, reforman o adicionan, permanecerán en su encargo el periodo para el que fueron designados.
+
+G.G. 6 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
+
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos judiciales de Chalco, Otumba y Texcoco;
+
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca. Sultepec y Temascaltepec;
+
+Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+
+CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
+
+El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
+
+El uno de agosto de dos mil diez en los distritos judiciales de Cuautitlán, Ecatepec de Morelos y Nezahualcóyotl;
+
+El uno de febrero de dos mil once en los distritos judiciales de Texcoco y Tlalnepantla;
+
+El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotepec, Ixtlahuaca, Zumpango, Sultepec, Temascaltepec, Tenancingo y Valle de Bravo.
+
+QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
