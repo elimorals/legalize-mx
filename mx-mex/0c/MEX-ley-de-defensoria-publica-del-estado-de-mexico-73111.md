@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-defensoria-publica-del-estado-de-mexico-73111"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2010-02-03"
+last_updated: "2010-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DEFENSORIA PUBLICA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 3 de febrero de 2010.
 
@@ -99,7 +99,9 @@ El Instituto tiene por objeto:
 
 I. Proporcionar obligatoria y gratuitamente defensa en materia penal en cualquier actuación policial, ministerial o judicial, a las personas que lo soliciten, señaladas como posibles autores o partícipes de un hecho punible y cuando haya designación del Ministerio Público o del órgano jurisdiccional competente;
 
-II. Proporcionar gratuitamente patrocinio de defensa en materia civil y familiar siempre y cuando los solicitantes tengan ingresos mensuales menores a 150 días de salario mínimo vigente en el área geográfica donde radique el juicio. En el caso de la parte actora, sólo será patrocinada en materia familiar y procedimientos judiciales no contenciosos, no se considerará como tal en el caso de la reconvención hecha en contestación de demanda;
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+II. Proporcionar gratuitamente patrocinio de defensa en materia civil y familiar siempre y cuando los solicitantes tengan ingresos mensuales menores a 150 días de salario mínimo vigente en el área geográfica donde radique el juicio, con excepción de los casos de violencia familiar y alimentos, en los que no se realizará estudio socioeconómico. En el caso de la parte actora, sólo será patrocinada en materia familiar y procedimientos judiciales no contenciosos, no se considerará como tal en el caso de la reconvención hecha en contestación de demanda;
 
 III. Proporcionar gratuitamente patrocinio de defensa en materia mercantil, siempre y cuando el demandado sea persona física y tenga ingresos mensuales menores a 150 días de salario mínimo vigente en el área geográfica donde radique el juicio, no comerciante y el interés pactado sea superior al usual en el mercado o al bancario autorizado;
 
@@ -434,3 +436,35 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 6 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
+
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos judiciales de Chalco, Otumba y Texcoco;
+
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca. Sultepec y Temascaltepec;
+
+Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+
+CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
+
+El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
+
+El uno de agosto de dos mil diez en los distritos judiciales de Cuautitlán, Ecatepec de Morelos y Nezahualcóyotl;
+
+El uno de febrero de dos mil once en los distritos judiciales de Texcoco y Tlalnepantla;
+
+El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotepec, Ixtlahuaca, Zumpango, Sultepec, Temascaltepec, Tenancingo y Valle de Bravo.
+
+QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
