@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2009-02-19"
+last_updated: "2010-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -863,13 +863,15 @@ Revocación de representante común
 
 ###### Artículo 1.
 
-93.- Todo interesado en cualquier actividad judicial debe tener el patrocinio de un Licenciado en Derecho o su equivalente con título y cédula de ejercicio profesional legalmente expedidos.
+93.- Todo interesado en cualquier actividad judicial debe tener el patrocinio de un Licenciado en Derecho o su equivalente con título y cédula de ejercicio profesional legalmente expedidos; salvo en materia de violencia familiar, donde el Juez, en su caso, le designará un defensor público.
 
 Autorización de las promociones
 
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 1.
 
-94.- Los Licenciados en Derecho autorizarán con su firma toda promoción escrita o verbal de sus clientes. Sin ese requisito, no se les dará curso.
+94.- Los Licenciados en Derecho autorizarán con su firma toda promoción escrita o verbal de sus clientes. Sin ese requisito, no se les dará curso; con excepción de los juicios de violencia familiar, donde el Juez tomará las medidas necesarias a efecto de que el demandante de violencia familiar, no quede en estado de indefensión y para ello, tomará la medida citada en el artículo anterior y el defensor público hará suya o ratificará la demanda.
 
 Exhibición de cédula profesional
 
@@ -888,6 +890,8 @@ Firmas de promociones y actuaciones judiciales
 ### CAPITULO III. De los Patronos
 
 Patrocinio de Licenciado en Derecho
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 1.
 
@@ -4027,53 +4031,51 @@ Plazo supletorio o complementario de prueba
 
 133.- Sólo podrán practicarse después de vencido el plazo de desahogo las pruebas que ofrecidas en tiempo no pudieron practicarse por causas ajenas al oferente. En estos casos el Juez, si lo cree conveniente, podrá mandar concluirlas, a solicitud de parte dando conocimiento de ello a la contraria y señalando al efecto por una sola vez un plazo hasta de cinco días. Ese auto no es recurrible.
 
+> <small>(DEROGADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ### CAPITULO VI. De las Controversias de Orden Familiar
 
-Reglas para los juicios del orden familiar
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2.
 
-134.- Las controversias del orden familiar, incluida la relativa a los alimentos, se tramitarán de acuerdo con las reglas que se señalan en este capítulo y en lo no previsto, con las disposiciones del capítulo anterior.
+134.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
-Ofrecimiento de pruebas
-
-###### Artículo 2.
-
-135.- En la demanda de alimentos y contestación, las partes ofrecerán sus pruebas respectivas.
-
-Desahogo de pruebas y audiencia final
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2.
 
-136.- No habiendo conciliación y resueltas las excepciones procesales, el Juez señalará día y hora para que tenga verificativo una audiencia de pruebas y alegatos dentro del plazo de diez días.
+135.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
-Orden de descuento para alimentos
-
-###### Artículo 2.
-
-137.- En la misma fecha de la presentación de la demanda de alimentos se dará cuenta al Juez, y será acordada inmediatamente. Si el Juez considera acreditada la obligación alimentaria, de oficio determinará el monto de la pensión alimenticia provisional y ordenará hacer los descuentos correspondientes por la vía que considere más rápida.
-
-Audiencia de conciliación y depuración
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2.
 
-138.- En los juicios del orden familiar podrá haber la fase conciliatoria, si lo considera el Juez.
+136.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
-En los demás juicios sobre estado civil, queda a criterio del Juez la celebración de la junta de conciliación, si no se afectan intereses de la colectividad, y de no haber junta de conciliación la audiencia sólo se efectuará para decidir las excepciones procesales y de cosa juzgada.
-
-Apelación de la sentencia que concede alimentos
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2.
 
-139.- La sentencia que concede alimentos será apelable sin efecto suspensivo.
+137.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
-Suplencia de la queja en asuntos del orden familiar
-
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Artículo 2.
 
-140.- En el conocimiento y decisión de los juicios del orden familiar, el Juez puede realizar suplencia de la queja. En los casos en que se solicite o a juicio del Juzgador, éste deberá escuchar la opinión de los menores de edad, y valorará de acuerdo al grado de madurez que aprecie en los menores, a efecto de determinar en forma definitiva sobre su guarda y custodia; serán representados en dicha diligencia por el Ministerio Público adscrito al Juzgado de lo Familiar, quien velará que se representen los derechos del menor o de los menores.
+138.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+###### Artículo 2.
+
+139.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+###### Artículo 2.
+
+140.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
 ### CAPITULO VII. De la Fase de Alegatos
 
@@ -5755,35 +5757,53 @@ II. Cualquier miembro del grupo familiar; y
 
 III. Cualquier persona que tenga conocimiento de la violencia familiar.
 
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 2.
 
-349.- El escrito de queja deberá contener:
+349.- El escrito de demanda deberá contener:
+
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
 
 I. El Juzgado ante el cual se promueve;
 
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+
 II. La naturaleza del procedimiento que insta;
 
-III. Nombre y domicilio del que interpone la queja en los supuestos de las fracciones II y III del artículo anterior;
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+III. Nombre y domicilio del que interpone la demanda en los supuestos de las fracciones II y III del artículo anterior;
+
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
 
 IV. Nombre y domicilio del receptor de violencia;
 
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+
 V. Nombre y domicilio del generador de violencia;
+
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
 
 VI. Vínculo o relación que exista entre el receptor y el generador de violencia;
 
+> <small>(ADICIONADA, G.G. 16 DE ENERO DE 2007)</small>
+
 VII. Narración sucinta de los hechos, expresando las circunstancias de lugar, tiempo y modo;
 
-VIII. El ofrecimiento de las pruebas conducentes a acreditar su queja; y
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-IX. Protesta y firma del que interpone la queja o del receptor de violencia.
+VIII. El ofrecimiento de las pruebas conducentes a acreditar su demanda; y
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+IX. Protesta y firma del que interpone la demanda o del receptor de la violencia.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
 
 ###### Artículo 2.
 
-350.- Recibida la queja, la autoridad integrará el expediente respectivo y citará dentro de los nueve días siguientes al generador de violencia y al receptor de violencia familiar para que acudan a una audiencia de avenencia.
+350.- Recibida la demanda, la autoridad integrará el expediente respectivo y citará dentro de los nueve días siguientes al generador de la violencia y al receptor de violencia familiar para que acudan a una audiencia de avenencia.
 
 > <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
 
@@ -5855,11 +5875,11 @@ VI. Fijar una pensión alimenticia provisional a favor de la víctima (s) y los 
 
 VII. Emitir una orden de protección y auxilio policial, dirigida a las autoridades de seguridad pública de la que se expedirá copia a la víctima para que pueda acudir a la autoridad más cercana en caso de amenaza de agresión fuera de su domicilio.
 
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 2.
 
-356.- El generador de violencia al contestar deberá referirse a cada uno de los hechos narrados en la queja y ofrecerá las pruebas respectivas. El silencio y las evasivas harán que se tengan por admitidos aquellos hechos sobre los que se suscitó controversia.
+356.- El generador de violencia al contestar deberá referirse a cada uno de los hechos narrados en la demanda y ofrecerá las pruebas respectivas. El silencio y las evasivas harán que se tengan por admitidos aquellos hechos sobre los que se suscitó controversia.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -6061,7 +6081,7 @@ Objeto
 
 #### SECCION PRIMERA. De la Conciliación
 
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 #### SECCION SEGUNDA. De la Controversia de Violencia Familiar
 
@@ -7139,11 +7159,43 @@ Formalidad de la adjudicación
 
 86.- La adjudicación de bienes hereditarios se hará con la misma formalidad que la ley exige para su venta.
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 # LIBRO QUINTO. De las Controversias sobre el Estado Civil de las Personas y del Derecho Familiar
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+T R A N S I T O R I O S
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor a los quince días naturales siguientes a su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Código de Procedimientos Civiles expedido con fecha 9 de agosto de 1937.
+
+CUARTO.- En los asuntos en trámite seguirá aplicándose el Código que se abroga.
+
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
+
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los treinta y un días del mes de mayo de 2002.- Diputado Presidente.- C. Roberto Modesto Flores González.- Diputados Secretarios.- C. Víctor Ernesto González Huerta.- C. Andrea María del Rocío Merlos Nájera.- Rúbricas.
+
+Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, Méx., a 1o. de julio del 2002.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
+
+ARTURO MONTIEL ROJAS
+
+(RUBRICA).
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+MANUEL CADENA MORALES
+
+(RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.G. 8 DE MAYO DE 2003
 
 ## TITULO UNICO. De las Controversias sobre el Estado Civil de las Personas y del Derecho Familiar
 
@@ -7437,9 +7489,7 @@ Conservación del registro de las audiencias
 
 Prohibición para grabar audiencias
 
-###### Artículo 5.
-
-25.- Queda prohibido utilizar equipos de telefonía, grabación y videograbación en el recinto oficial.
+Artículo.5.25.- Queda prohibido utilizar equipos de telefonía, grabación y videograbación en el recinto oficial.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -7533,14 +7583,6 @@ La falta de interés en el desahogo de estos medios de prueba, surtirá efectos 
 
 Declaración de parte
 
-### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Solicitud de divorcio por mutuo consentimiento
-
 ###### Artículo 5.
 
 33.- La declaración de parte consiste en la facultad de los litigantes para interrogar oralmente a la contraria, sobre hechos y circunstancias de que tenga noticia y que guarden relación con el objeto de la controversia.
@@ -7560,6 +7602,14 @@ El juez interrogará al declarante cuando lo estime pertinente.
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Declaración de parte y confesional
+
+### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Solicitud de divorcio por mutuo consentimiento
 
 ###### Articulo 5.
 
@@ -7681,14 +7731,6 @@ Además de los medios de prueba que este código establece, las partes podrán o
 
 Presentación de documentos
 
-### CAPITULO VIII. De los Recursos
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Revocación fuera de audiencia
-
 ###### Artículo 5.
 
 41.- La presentación de documentos públicos podrá hacerse en copia simple, si el interesado manifiesta que carece de otra fehaciente, pero no producirá efectos, si no son exhibidos dentro de la audiencia inicial con los requisitos legales necesarios.
@@ -7698,6 +7740,14 @@ Revocación fuera de audiencia
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Excepciones supervenientes
+
+### CAPITULO VIII. De los Recursos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Revocación fuera de audiencia
 
 ###### Artículo 5.
 
@@ -8147,6 +8197,12 @@ Reposición del procedimiento
 
 80.- Sólo podrá decretarse la reposición del procedimiento con reenvío al juzgado de origen, por ausencia de algún presupuesto procesal esencial o por una violación procesal manifiesta, cuando haya trascendido al resultado del fallo; o bien, cuando en suplencia de la queja de menores o incapaces y en materia de alimentos a favor del acreedor alimentario, estime necesario el desahogo de medios probatorios.
 
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+
+###### Artículo 5.
+
+80.- Sólo podrá decretarse la reposición del procedimiento con reenvío al juzgado de origen, por ausencia de algún presupuesto procesal esencial o por una violación procesal manifiesta, cuando haya trascendido al resultado del fallo; o bien, cuando en suplencia de la queja de menores o incapaces y en materia de alimentos a favor del acreedor alimentario, estime necesario el desahogo de medios probatorios.
+
 T R A N S I T O R I O S
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
@@ -8262,3 +8318,33 @@ En los Distritos Judiciales cuando aún no entre en vigor este decreto, en térm
 ###### ARTÍCULO QUINTO.
 
 La Legislatura Local proveerá lo conducente para la asignación de recursos presupuestales al Poder Judicial del Estado, a efecto de que cuente con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto.
+
+G.G. 6 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
+
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos judiciales de Chalco, Otumba y Texcoco;
+
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro. Ixtlahuaca. Sultepec y Temascaltepec;
+
+Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+
+CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
+
+El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
+
+El uno de agosto de dos mil diez en los distritos judiciales de Cuautitlán, Ecatepec de Morelos y Nezahualcóyotl;
+
+El uno de febrero de dos mil once en los distritos judiciales de Texcoco y Tlalnepantla;
+
+El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotepec, Ixtlahuaca, Zumpango, Sultepec, Temascaltepec, Tenancingo y Valle de Bravo.
+
+QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
