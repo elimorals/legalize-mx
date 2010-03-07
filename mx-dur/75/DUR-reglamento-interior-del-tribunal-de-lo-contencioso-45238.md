@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-del-tribunal-de-lo-contencioso-45238"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-08"
-last_updated: "2005-05-08"
+last_updated: "2010-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 8 de mayo de 2005.
 
@@ -463,6 +463,14 @@ XIII. Efectuar las diligencias que le encomiende el Magistrado, cuando éstas de
 
 XIV. Las demás que se contengan en el presente Reglamento y otros ordenamientos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MARZO DE 2010)</small>
+
+Para el auxilio de sus labores, los Secretarios de Acuerdos de las Salas contaran con el apoyo de un Auxiliar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MARZO DE 2010)</small>
+
+El auxiliar a que se refiere el párrafo anterior estará adscrito a la Sala Ordinaria correspondiente; y bajo la Dirección inmediata del Magistrado de su respectiva Sala, quien podrá asignarle las funciones que estime pertinentes para garantizar la buena marcha de la impartición de Justicia del Estado de Durango.
+
 ###### ARTÍCULO 32.
 
 Cuando las oficinas del Tribunal no estén abiertas al público siendo día hábil, los Secretarios de Acuerdos de la Sala correspondiente recibirán personalmente las promociones en su domicilio, siempre y cuando no exceda de las 19:00 horas y se trate de la presentación de promociones de vencimiento de término. Estas promociones se registrarán en el libro correspondiente en la primera hora laborable del día hábil siguiente, asentando la fecha de su presentación.
@@ -538,6 +546,10 @@ IX. Las demás que le encomiende el Pleno, el Presidente del Tribunal, los Magis
 ###### ARTÍCULO 38.
 
 El Tribunal contará con un área de Asesoría Jurídica, cuyo objeto será proporcionar la asesoría y defensa necesaria en materia administrativa y fiscal a las personas físicas que lo soliciten por carecer de un defensor particular y demuestren no estar en condiciones de retribuir los servicios de un abogado postulante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE MARZO DE 2010)</small>
+
+La Asesoría Jurídica estará a cargo de un responsable denominado Director de Asesoría Jurídica.
 
 ###### ARTÍCULO 39.
 
@@ -976,3 +988,11 @@ MAGISTRADO DE LA SEGUNDA SALA ORDINARIA.
 C. LIC. LAURA ELENA SANTIAGO ARTEAGA
 
 SECRETARIO GENERAL DE ACUERDOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE MARZO DE 2010.
+
+PRIMERO.- Las presentes reformas al artículo 31 del Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de Durango, entrarán en vigor a partir del día primero de febrero de dos mil diez.
+
+SEGUNDO.- Las reformas al artículo 38 del reglamento interior del tribunal de lo contencioso administrativo del estado de Durango, tendrán efectos retroactivos a partir del día primero de enero de dos mil diez.
