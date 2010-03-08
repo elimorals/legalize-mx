@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-organismo-publico-descentralizado-parque-66850"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-13"
-last_updated: "2009-02-13"
+last_updated: "2010-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO DEL ORGANISMO PUBLICO DESCENTRALIZADO PARQUE BICENTENARIO
 
-REGLAMENTO DEL ORGANISMO PUBLICO DESCENTRALIZADO PARQUE BICENTENARIO
+REGLAMENTO DEL ORGANISMO PÚBLICO DESCENTRALIZADO PARQUE BICENTENARIO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO DEL ORGANISMO PÚBLICO DESCENTRALIZADO PARQUE BICENTENARIO, PUBLICADO EN EL P.O. DE 8 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 13 de febrero de 2009.
 
@@ -546,3 +548,13 @@ LIC. J. APOLINAR CASILLAS GUTIÉRREZ
 SECRETARIO DEL AYUNTAMIENTO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE MARZO DE 2010.
+
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. El presente reglamento entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Queda abrogado el reglamento del parque bicentenario publicado en gaceta municipal numero 49 de fecha 16 de diciembre de 2008 y en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" No. 10 de fecha 13 de febrero del año 2009.
