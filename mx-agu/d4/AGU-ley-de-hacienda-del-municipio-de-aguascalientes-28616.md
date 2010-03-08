@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "2009-06-01"
+last_updated: "2010-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -807,23 +807,21 @@ Si transcurrido dicho plazo, no se expresan los datos o no se presentan los docu
 
 DEL OBJETO
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 62.
 
-El valor del inmueble a que resulte mayor entre el valor de adquisición o el valor catastral del mismo, disminuido con el valor que se tome como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
-
 Para los efectos de esta Ley se entiende por adquisición la que se derive de:
 
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de Asociaciones o Sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal. Siempre que sean inmuebles de propiedad de los copropietarios o de los cónyuges;
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal. Siempre que sean inmuebles de propiedad de los copropietarios o de los cónyuges;
 
-II.- La compra-venta en la que el vendedor se reserva la propiedad aun cuando la transferencia de ésta opere con posterioridad;
+II.- La compra - venta en la que el vendedor se reserva la propiedad aún cuando la transferencia de ésta opere con posterioridad;
 
 III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido;
 
-IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden;
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las Fracciones ll y III que anteceden;
 
-V.- Fusión y escisión de propiedades;
+V.- Fusión y escisión de sociedades;
 
 VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
 
@@ -831,19 +829,9 @@ VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, 
 
 VIII.- Prescripción positiva;
 
-IX.- La cesión de derechos del heredero legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
+IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
 
-Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuado después de la declaratoria de herederos o legatarios;
-
-X.- Enajenación a través de fideicomisos; y
-
-XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al propietario o cónyuge.
-
-En las permutas se considerará que se efectúan dos adquisiciones.
-
-Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
-
-En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo a que se refiere este artículo.
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuado después de la declaratoria de herederos o legatarios.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
@@ -857,33 +845,49 @@ CAPITULO (SIC) 63.- Están obligados al pago de este impuesto, las personas fís
 
 DE LA BASE
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+(REFORMADO, P.O. 8 DE MARZO DE 2010) (F. DE E., P.O. 5 DE ABRIL DE 2010)
 
 ###### ARTICULO 64.
 
-Será base para el pago de este impuesto: El valor de operación del inmueble, actualizado, desde la fecha de adquisición.
+Será base para el pago de impuesto, el avalúo para efectos fiscales, al que le será disminuida la cantidad sobre la cual se calculó este impuesto sobre su última adquisición, siempre y cuando ésta se hubiere realizado dentro de los tres años inmediatos anteriores a la adquisición por la que se calcula el impuesto. El avalúo podrá ser a elección del adquiriente:
 
-Para actualizar el valor de operación, se dividirá el índice nacional de precios al consumidor del mes en que se otorgue la escritura o se requiera de pago, entre el índice nacional de precios al consumidor del mes en que efectuó la adquisición, la cantidad que resulte, se multiplicará por el precio pactado o valor de operación.
+a) El solicitado a la Secretaría de Finanzas del Municipio con al menos 8 días hábiles de anticipación a la presentación de la declaración para el pago de este impuesto y se deberá cubrir el derecho correspondiente señalado en la respectiva Ley de Ingresos;
 
-Las autoridades fiscales estarán facultadas para practicar avalúo del inmueble referido, a la fecha de adquisición y compararlo con el valor de operación. En caso de resultar inferior el del precio pactado, el impuesto se calculará sobre el avalúo de la autoridad fiscal actualizado desde la fecha de adquisición.
+b) El realizado por una institución del sistema financiero mexicano o un organismo público de vivienda, siempre que no tenga más de seis meses de practicado;
 
-Cuando no se pacte el precio, el impuesto se determinará en base al avalúo que practique la autoridad fiscal.
+c) El realizado por corredor público siempre que no tenga más de seis meses de practicado; o
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 1993)</small>
+d) El que realicen personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública, siempre que no tenga más de seis meses de practicado.
 
-Para determinar el pago de este impuesto se aplicará una exención al valor que resulte del inmueble, en los siguientes casos:
+El avalúo se acompañará a la declaración para el pago del impuesto sobre adquisición de bienes inmuebles.
 
-I.- De cinco veces el salario mínimo general vigente en el Municipio de Aguascalientes, elevado al año cuando el inmueble esté construido;
+> <small>(F. DE E., P.O. 5 DE ABRIL DE 2010)</small>
 
-II.- De dos y medio veces el salario mínimo general vigente en el Municipio de Aguascalientes, elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
+Quedan relevados de la obligación de presentar el avalúo a que se refieren los incisos a) al d) antes señalados, las adquisiciones de inmuebles sobre los cuales se encuentre edificada una vivienda de tipo popular, de interés social o lotes individualizados que estén destinados a la edificación de una vivienda de la misma naturaleza, siempre que se encuentre en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea inferior a 120 metros cuadrados y la construcción no sea mayor de 78 metros cuadrados. En este caso, la base para el pago del impuesto será el valor de operación.
 
-III.- De quince veces el salario mínimo general vigente en el Municipio de Aguascalientes, elevado al año, cuando se trate de un inmueble popular, de uso habitacional.
+> <small>(F. DE E., P.O. 5 DE ABRIL DE 2010)</small>
 
-Para los efectos de esta Ley se entiende por inmueble de tipo popular, aquél que se ubica en fraccionamientos autorizados como de un tipo popular o de interés social, cuya superficie de terreno sea inferior a ciento veinte metros cuadrados y la construcción no sea mayor de sesenta metros cuadrados;
+En el caso de las fracciones b), c) y d), la Secretaría de Finanzas estará facultada para practicar avalúo del inmueble. En caso de resultar superior al del presentado por el contribuyente, el impuesto se calculará sobre el avalúo de la Secretaría de Finanzas del Municipio.
+
+> <small>(F. DE E., P.O. 5 DE ABRIL DE 2010)</small>
+
+Para determinar el pago de este impuesto se aplicará una exención del valor que resulte del inmueble en los siguientes casos:
+
+> <small>(F. DE E., P.O. 5 DE ABRIL DE 2010)</small>
+
+l.- De cinco veces el salario mínimo general vigente en el Municipio de Aguascalientes, elevado al año cuando el inmueble esté construido;
+
+ll.- De dos y medio veces el salario mínimo general vigente en el Municipio de Aguascalientes, elevado al año cuando el inmueble no tenga construcción alguna o sólo se encuentre bardeado;
+
+lll.- De quince veces el salario mínimo general vigente en el Municipio de Aguascalientes, elevado al año cuando se trate de un inmueble popular, de uso habitacional.
+
+> <small>(F. DE E., P.O. 5 DE ABRIL DE 2010)</small>
+
+Para los efectos señalados en la Fracción lll que antecede, se considerarán como inmuebles de tipo popular, aquellos que se ubiquen en fraccionamientos autorizados como de tipo popular o de interés social, cuya superficie de terreno sea igual o inferior a 120 metros cuadrados y la superficie de construcción en su caso no sea mayor de 78 metros cuadrados.
 
 IV.- De cinco veces el salario mínimo general vigente en el Municipio de Aguascalientes, elevado al año cuando se trate de terrenos dedicados a la explotación agropecuaria;
 
-Para los fines de esta ley se considera que el usufructo y la nuda propiedad tiene (sic) un valor, cada uno de ellos, del 50% del valor de la propiedad.
+Para los fines de esta Ley se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
@@ -1818,5 +1822,11 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 P.O. 1 DE JUNIO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MARZO DE 2010.
+
+###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
