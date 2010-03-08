@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2010-02-22"
+last_updated: "2010-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1337,7 +1337,7 @@ Departamento de Reingeniería.
 
 Departamento de Auditoría Administrativa y Operativa.
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2010)</small>
 
 XIII.- SECRETARÍA DE DESARROLLO SOCIAL
 
@@ -1347,7 +1347,13 @@ Departamento de Seguimiento y Control de Gestión.
 
 Departamento de Recursos Humanos y Control Presupuestal.
 
-Dirección de Educación.
+Coordinación de Atención Integral a las Personas Adultas Mayores:
+
+Departamento de Registro y Actualización.
+
+Departamento de Evaluación y Control de Gestión.
+
+Dirección de Educación:
 
 Departamento de Educación.
 
@@ -19358,3 +19364,7 @@ P.O. 22 DE FEBRERO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE MARZO DE 2010.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
