@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-estado-mayor-presidencial-35912"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-23"
-last_updated: "2004-01-23"
+last_updated: "2010-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35912&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2004-01-16"
 
 REGLAMENTO DEL ESTADO MAYOR PRESIDENCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL ESTADO MAYOR PRESIDENCIAL, PUBLICADO EN EL D.O.F. DE 8 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 23 de enero de 2004.
 
@@ -522,3 +524,13 @@ Segundo.- Se abroga el Reglamento del Estado Mayor Presidencial expedido el 24 d
 Tercero.- Se derogan las disposiciones que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de enero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica.- El Secretario de Marina, Marco Antonio Peyrot González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE MARZO DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Estado Mayor Presidencial publicado en el Diario Oficial de la Federación el 23 de enero de 2004.
+
+TERCERO.- Las acciones a cargo del Estado Mayor Presidencial se deberán ajustar al presupuesto que al efecto emita la H. Cámara de Diputados, para cada ejercicio fiscal.
