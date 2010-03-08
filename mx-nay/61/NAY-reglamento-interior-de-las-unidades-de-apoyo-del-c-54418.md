@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-las-unidades-de-apoyo-del-c-54418"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-14"
-last_updated: "2008-11-26"
+last_updated: "2010-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LAS UNIDADES DE APOYO DEL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LAS UNIDADES DE APOYO DEL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 8 DE MARZO DE 2010., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 14 de febrero de 2007.
 
@@ -362,3 +364,15 @@ A T E N T A M E N T E.-"Sufragio efectivo. No reelección".- LIC. NEY GONZÁLEZ 
 P.O. 26 DE NOVIEMBRE DE 2008.
 
 ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 8 DE MARZO DE 2010.
+
+PRIMERO.- El Presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de las Unidades de Apoyo del Gobernador Constitucional del Estado de Nayarit, publicado el 14 de Febrero de 2007 en el Periódico Oficial Órgano de Gobierno del Estado.
+
+TERCERO.- Las plazas y puestos contenidos en el presente Reglamento corresponden a lo que en el Presupuesto de Egresos del Estado de Nayarit catalogan como "OFICINA DEL GOBERNADOR".
+
+CUARTO.- Las Unidades que no están contenidas en el presente Reglamento fueron reubicadas en otras dependencias y algunas otras se eliminaron como parte del programa de eficiencia y ahorro del gasto.
+
+QUINTO.- Las Unidades de Apoyo, deberán expedir su manual interno de organización dentro de los sesenta días hábiles después de la entrada en vigor del presente Reglamento.
