@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2010-03-03"
+last_updated: "2010-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -2023,9 +2023,17 @@ IV. MUNICIPIO DE COZUMEL, con cabecera en la población del mismo nombre. Compre
 
 V. MUNICIPIO DE LÁZARO CARDENAS, con cabecera en Kantunilkín: Al norte el Canal de Yucatán. Al sur, el Municipio de Solidaridad. Al este, partiendo de la esquina norte del ejido de Playa del Carmen, se sigue con rumbo norte sobre el meridiano que pasa por este sitio hasta encontrar el lindero sur del ejido Leona Vicario, se dobla al oeste siguiendo el lindero sur de este Ejido, se continúa sobre el lindero oeste y norte hasta la intersección con el meridiano 87 grados 05 minutos 50 segundos, de longitud oeste de Greenwich, se sigue con rumbo norte sobre este meridiano hasta encontrar el lindero poniente del ejido de Isla Mujeres, se continúa por el lindero de este ejido hasta la intersección con el meridiano 87 grados 06 minutos 21 segundos de longitud oeste de Greenwich se sigue sobre este meridiano hasta llegar al faro de Cabo Catoche. Al oeste, la línea que partiendo de la costa norte del Canal de Yucatán, sigue el arco del meridiano 87 grados 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paralelo que pasa por la Torre Sur de Chemax, veinte kilómetros al oriente de este punto, comprendiendo la Isla de Holbox.
 
-VI. MUNICIPIO DE BENITO JUÁREZ, con cabecera en Cancún: Al norte, el paralelo que pasa 200 metros al sur del faro de la Punta del Meco. Al sur, el municipio de Solidaridad y el Mar Caribe. Al este, el Mar Caribe y al oeste, el municipio de Lázaro Cárdenas. Quedan en su jurisdicción la isla de Cancún y cayos adyacentes.
+REFORMADA, P.O. 9 DE MARZO DE 2010)
 
-VII. MUNICIPIO DE ISLA MUJERES, con cabecera en la población del mismo nombre: Al norte, el canal de Yucatán. Al sur, el municipio Benito Juárez. Al este, el Mar Caribe. Al oeste, el municipio Lázaro Cárdenas. Comprende las Islas de Mujeres, Contoy y Blanca, islotes y cayos adyacentes a su litoral.
+VI.- MUNICIPIO DE BENITO JUÁREZ, con cabecera en Cancún: Al Norte, partiendo de la costa del Mar Caribe, de acuerdo a la siguiente tabla:
+
+(VEASE ARCHIVO ANEXO)
+
+Al Sur, el Municipio de Solidaridad y el Mar Caribe. Al Este, el Mar Caribe y al Oeste, el Municipio de Lázaro Cárdenas. Quedan en su jurisdicción la Isla de Cancún y Cayos adyacentes.
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2010)</small>
+
+VII.- MUNICIPIO DE ISLA MUJERES, con cabecera en la población del mismo nombre: Al Norte, el Canal de Yucatán. Al Sur, el Municipio Benito Juárez, de conformidad con la tabla que contiene la fracción VI de este artículo; Al Este, el Mar Caribe. Al Oeste, el Municipio de Lázaro Cárdenas. Comprende las islas de Mujeres, Contoy y Blanca, Islotes y Cayos adyacentes a su litoral.
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
 
@@ -2219,7 +2227,7 @@ EST P.V. X Y
 
 42 43 S 65°25'58"E 833.981 467675.680 2257242.454 42
 
-43 1 Sobre la línea de costa del Mar Caribe hacia el sur hasta llegar al vértice 1. Se respeta el polígono del Xel-Ha perteneciente al Municipio de Cozumel descrito en el Artículo 128 fracción IV párrafo cuarto de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+43 1 Sobre la línea de costa del Mar Caribe hacia el sur hasta llegar al vértice 1. Se respeta el polígono del Xel-Ha perteneciente al Municipio de Cozumel descrito en el Artículo 128 fracción IV párrafo cuarto de la Constitución Política del Estado Libre y Soberano de Quintana Roo. 468434.164 2256895.718 43
 
 Se excluyen de su jurisdicción, las áreas descritas en la fracción IV párrafo cuarto de este artículo.
 
@@ -3446,3 +3454,13 @@ La referencia para efecto de denominación prevista en el inciso e), del artícu
 La instalación de la XIV Legislatura cuyos integrantes resulten electos el primer domingo de julio del año 2013, se llevará a cabo el 14 de septiembre del año 2013.
 
 El primer periodo ordinario de sesiones de la Legislatura referida en el párrafo que antecede iniciará el 17 de septiembre del año 2013 y concluirá a más tardar el 17 de diciembre del año 2013.
+
+P.O. 9 DE MARZO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo.- Los Municipios de Isla Mujeres y Benito Juárez deberán adecuar los instrumentos de planeación urbana y ecológica correspondiente a su municipio en donde tengan jurisdicción en la zona limítrofe de conformidad con los procedimientos y plazos que para tal efecto señalen las leyes de la materia.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
