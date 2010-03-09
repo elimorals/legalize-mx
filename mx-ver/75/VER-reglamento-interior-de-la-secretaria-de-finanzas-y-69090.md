@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-finanzas-y-69090"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-17"
-last_updated: "2009-06-17"
+last_updated: "2010-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y PLANEACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2010.
 
-Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 17 de junio de 2009.
+Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 17 de junio de 2009.
 
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
@@ -2045,7 +2045,7 @@ Las Cobradurías dependerán directamente de las Oficinas de Hacienda de su circ
 
 Corresponde a los Cobradores de las Oficinas de Hacienda del Estado:
 
-I. Recaudar el importe de los créditos provenientes de impuestos, derechos, productos, aprovechamientos y contribuciones por mejoras estatales, así como los que provengan de impuestos Federales cuya administración esté encomendada al Estado en los Convenios de Coordinación Fiscal y, de acuerdo a las disposiciones contenidas en la legislación de la materia, observando los sistemas, procedimientos e instrucciones que al efecto establezcan las autoridades superiores competentes;
+I. Recaudar el importe de los créditos provenientes de impuestos, derechos, productos, aprovechamientos y contribuciones por mejoras estatales, así como los que provengan de impuestos Federales cuya administración esté encomendada al Estado en los Convenios de Coordinación Fiscal y, de acuerdo a las disposiciones contenidas en la legislación lde la materia, observando los sistemas, procedimientos e instrucciones que al efecto establezcan las autoridades superiores competentes;
 
 II. Recibir de los particulares y, en su caso, exigir los avisos, manifestaciones y demás documentos que de conformidad con las disposiciones fiscales deban presentarse ante las mismas, aplicando, cuando proceda, las medidas de apremio que corresponda;
 
@@ -2133,9 +2133,13 @@ XXXII. Oficina de Hacienda del Estado con cabecera en Yecuatla, que comprende lo
 
 XXXIII. Oficina de Hacienda del Estado con cabecera en Altotonga, que comprende municipios de Altotonga y Atzalan, con excepción de la población Plan de Arroyos;
 
-XXXIV. Oficina de Hacienda del Estado con cabecera en Perote, que comprende los municipios de Perote, Villa Aldama y Las Vigas de Ramírez;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2010)</small>
 
-XXXV. Oficina de Hacienda del Estado con cabecera en Xalapa, que comprende los municipios de Acajete, Banderilla, Coacoatzintla, Emiliano Zapata, Jilotepec, Las Minas, Rafael Lucio, Tlalnelhuayocan, Tatatila, Tlacolulan y Xalapa;
+XXXIV. Oficina de Hacienda del Estado con cabecera en Perote, que comprende los municipios de Perote, Villa Aldama, Las Vigas de Ramírez, Las Minas, Tatatila y Ayahualulco;
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2010)</small>
+
+XXXV. Oficina de Hacienda del Estado con cabecera en Xalapa, que comprende los municipios de Acajete, Banderilla, Coacoatzintla, Emiliano Zapata, Jilotepec, Rafael Lucio, Tlalnelhuayocan, Tlacolulan y Xalapa;
 
 XXXVI. Oficinas de Hacienda del Estado Xalapa Norte, Xalapa Sur y Xalapa SEFIPLAN, con la misma residencia y jurisdicción que la señalada en la fracción anterior;
 
@@ -2149,7 +2153,9 @@ XL. Oficina de Hacienda del Estado con cabecera en Alto Lucero de Gutiérrez Bar
 
 XLI. Oficina de Hacienda del Estado con cabecera en Coatepec, que comprende los municipios de Apazapan, Coatepec, Jalcomulco, Tlaltetela, Teocelo y Xico;
 
-XLII. Oficina de Hacienda del Estado con cabecera en Cosautlán de Carvajal, que comprende los municipios de Ayahualulco, Cosautlán de Carvajal e Ixhuacán de los Reyes;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2010)</small>
+
+XLII. Oficina de Hacienda del Estado con cabecera en Cosautlán de Carvajal, que comprende los municipios de Cosautlán de Carbajal e Ixhuacán de los Reyes;
 
 XLIII. Oficina de Hacienda del Estado con cabecera en Paso de Ovejas, que comprende los municipios de Paso de Ovejas y Puente Nacional;
 
@@ -2414,3 +2420,9 @@ Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE MARZO DE 2010.
+
+Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
