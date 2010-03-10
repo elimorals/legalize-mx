@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-oficialia-mayor-de-gobierno-58082"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-30"
-last_updated: "2007-11-30"
+last_updated: "2010-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR DE GOBIERNO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR DE GOBIERNO, PUBLICADO EN EL B.O. DE 10 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 30 de noviembre de 2007.
 
@@ -598,3 +600,15 @@ C. LIC. NABOR GARCÍA AGUIRRE
 EL OFICIAL MAYOR DE GOBIERNO
 
 C. LIC. HÉCTOR GUADALUPE IBARRA ESPINOZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 10 DE MARZO DE 2010.
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se abroga el Reglamento Interno de Oficialía Mayor, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 30 de noviembre de 2007.
+
+Artículo Tercero. Se derogan todas las disposiciones reglamentarias que se opongan al presente Reglamento.
+
+Artículo Cuarto. Las funciones no consideradas de las Unidades Administrativas contempladas en el presente Reglamento, se establecerán en los Manuales de Organización respectivos.
