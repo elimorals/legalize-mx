@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2009-07-29"
+last_updated: "2010-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -2703,7 +2703,7 @@ No se considera material de contenido erótico sexual, tratándose de programas 
 
 ###### ARTICULO 211 Quater.
 
-Comete el delito de relaciones sexuales remuneradas con personas menores de edad, quien pague u ofrezca dinero o cualquier otro tipo de beneficio, a persona menor de dieciocho años, para obtener para si o para otro cópula, o realizar actos eróticos o sexuales con ella, independientemente de que la cópula o los actos eróticos o sexuales, se consumen.
+Comete el delito de relaciones sexuales remuneradas con personas menores de edad, quien pague u ofrezca dinero o cualquier otro tipo de beneficio, a persona menor de dieciocho años, para obtener para sí o para otro cópula, o realizar actos eróticos o sexuales con ella, independientemente de que la cópula o los actos eróticos o sexuales, se consumen.
 
 Este delito se actualizará incluso, cuando el dinero o beneficio, se pague u ofrezca a una tercera persona.
 
@@ -3307,13 +3307,23 @@ VII. Al que permita, autorice y expida permisos de construcción de proyectos de
 
 VIII. Al que sabiendo que existe la construcción, edificación o lotificación de un bien inmueble, sin la autorización respectiva y negligentemente no proceda conforme a las normas reglamentarias y legales correspondientes, una vez agotado el procedimiento administrativo;
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
 
-Al que cometa alguno de los delitos a que se refieren las fracciones I y II se le impondrán de uno a tres años de prisión, multa de treinta a trescientos días-multa y destitución en su caso e inhabilitación de uno a dos años para desempeñar otro empleo, cargo o comisión públicos.
+IX. Autorice el cobro de sueldo a algún servidor público en cantidad mayor a la asignada al Presidente de la República en el Presupuesto de Egresos de la Federación respectivo;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
 
-Al responsable de las conductas previstas en las fracciones III, IV, V, VI y VII se le impondrán de tres a ocho años de prisión, multa de treinta a trescientos días multa, y destitución e inhabilitación de dos a siete años para desempeñar otro empleo, cargo o comisión públicos.
+X. Autorice el cobro de sueldo a algún servidor público, cuyo monto sea mayor o igual al asignado al superior jerárquico de dicho servidor público, excepto en los siguientes casos: cuando el importe sea producto del cumplimiento de las condiciones generales del trabajo que se pacten; o cuando derive de un trabajo calificado o especializado de la función encomendada, siempre que en cualquiera de ambos casos, el monto no exceda la mitad de la remuneración asignada al Presidente de la República de conformidad al Presupuesto de Egresos de la Federación correspondiente.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO DEL DECRETO No. 125, LOS PARRAFOS SEGUNDO Y TERCERO ANTERIORES DE LA FRACCION VIII, PASAN A FORMAR PARTE DE LA FRACCION X.</small>
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2010)</small>
+
+Al que cometa alguno de los delitos a que se refieren las fracciones I, II y VII se le impondrán de uno a tres años de prisión, multa de treinta a trescientos días-multa y destitución e inhabilitación de uno a dos años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2010)</small>
+
+Al responsable de las conductas previstas en las fracciones III, IV, V, VI, VI (sic), VII, IX y X se le impondrán de tres a ocho años de prisión, multa de treinta a trescientos días-multa y destitución e inhabilitación de dos a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO VI. EVASION DE PRESO
 
@@ -4198,3 +4208,15 @@ SEGUNDO.- Las referencias realizadas en el presente decreto al ilícito e imputa
 TERCERO.- Los procedimientos penales ya iniciados a la entrada en vigor del presente Decreto, seguirán substanciándose conforme las reglas vigentes al momento del hecho investigado.
 
 CUARTO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 2010.
+
+Primero.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Segundo.- Las remuneraciones que en el actual ejercicio fiscal sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente, de los Ayuntamientos, de los Poderes del Estado de Morelos, de los organismos descentralizados, fideicomisos públicos o empresas de participación pública, estatales o municipales, incluyendo a los organismos autónomos por mandato constitucional local. Lo dispuesto en este artículo, no será aplicable a los magistrados del Poder Judicial del Estado de Morelos, en el caso en que la remuneración que perciba sea superior al límite que fija este mandato, pero les es aplicable a quienes los sustituyan.
+
+Tercero.- Los poderes Ejecutivo y Judicial del Gobierno del Estado de Morelos, así como los organismos descentralizados, fideicomisos públicos o empresas de participación pública, estatales o municipales, incluyendo a los organismos autónomos por mandato constitucional local, contarán con un plazo de sesenta días naturales, contados a partir del inicio de la vigencia de este decreto, para proporcionar al Poder Legislativo por conducto de la Comisión de Hacienda, Presupuesto y Cuenta Pública, el tabulador de sueldos que debe incorporarse en el Presupuesto de Egresos para el ejercicio fiscal del año dos mil diez, bajo los lineamientos establecidos en este Decreto y en cumplimiento al artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Cuarto.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+Quinto.- Túrnese el presente decreto al titular del Poder Ejecutivo del Estado de Morelos para los efectos de su promulgación y publicación respectiva.
