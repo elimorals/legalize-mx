@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2008-11-05"
+last_updated: "2010-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
@@ -347,11 +347,37 @@ XIV. Denunciar por escrito ante la autoridad sancionadora, los actos u omisiones
 
 XV. Abstenerse de inhibir por sí o por interpósita persona, utilizando cualquier medio, a los posibles quejosos o denunciantes, con el fin de evitar la formulación o presentación de quejas o denuncias o realizar, con motivo de ello, cualquier acto u omisión que redunde en perjuicio del interés de quien la formule o presente; y
 
-XVI. Abstenerse de aprovechar la posición que su empleo, cargo o comisión le confiere para inducir a que otro servidor público efectúe, retrase u omita realizar algún acto de su competencia, que le reporte cualquier beneficio, provecho o ventaja para sí o para alguna de las personas a que se refiere la fracción X.
+XVI. Abstenerse de aprovechar la posición que su empleo, cargo o comisión le confiere para inducir a que otro servidor público efectúe, retrase u omita realizar algún acto de su competencia, que le reporte cualquier beneficio, provecho o ventaja para sí o para alguna de las personas a que se refiere la fracción X;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
+
+XVII. Abstenerse de autorizar para sí o para otro servidor público, una remuneración mayor a la asignada al Presidente de la República en el respectivo Presupuesto de Egresos de la Federación;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
+
+XVIII. Abstenerse de aprobar, para sí o para algún servidor público el salario o sueldo cuyo monto resulte mayor o igual al sueldo o salario asignado al superior jerárquico de dicho servidor público, excepto en los siguientes casos: cuando el importe sea producto del cumplimiento de las condiciones generales del trabajo que se pacten; o cuando derive de un trabajo técnico calificado o especializado de la función en encomendada, siempre y que en cualquiera de los casos, el monto no exceda la mitad de la remuneración asignada al Presidente de la República de conformidad al Presupuesto de Egresos de la Federación correspondiente;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
+
+XIX. Abstenerse de aprobar, para sí o para otro, el pago en numerario o en especie, con el fin de percibir una remuneración mayor a la asignada al Presidente de la República en el Presupuesto de Egresos de la Federación respectivo, utilizando para ello: terceras personas, mecanismos, artificios, conceptos o denominaciones que den la falsa apariencia de ser ajenas a la remuneración o sueldo autorizado;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
+
+XX. Abstenerse de aprobar, para sí o para otro, el pago en numerario o en especie, de una remuneración igual o mayor a la asignada al superior jerárquico inmediato en el Presupuesto de Egresos respectivo, utilizando para ello a terceras personas, mecanismos, artificios, conceptos o denominaciones que den la falsa apariencia de ser iguales o menores a la remuneración del inmediato superior.
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
+
+XXI. Abstenerse de negar la información o documentación que el poder legislativo de Morelos, por conducto de la autoridad competente le requiera para conocer íntegra y detalladamente el monto y la composición de las remuneraciones de los servidores públicos, o bien de cualquier otro elemento que incida en la valoración de la iniciativa del Presupuesto de Egresos y sus reformas o adecuaciones.
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2010)</small>
+
+XXII. Abstenerse de autorizar jubilaciones, pensiones, haberes de retiro o liquidaciones por servicios prestados, préstamos o créditos, sin que estén previstos en la ley, decreto acuerdo de cabildo, contrato colectivo, condiciones generales de trabajo o el presupuesto de egresos.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 28.
 
-Se considera grave la infracción o violación de los deberes establecidos por las fracciones II, III, IV, VIII, IX, X, XI, XII, XV y XVI del artículo anterior.
+Se consideran graves las infracciones o violaciones a los deberes establecidos por las fracciones II, III, IV, VIII, IX, X, XI, XII, XV y XVI a XXII del artículo anterior.
 
 ###### ARTÍCULO 29.
 
@@ -415,7 +441,9 @@ III. Cuando se trate de infracciones a los deberes contenidos en las fracciones 
 
 IV. Cuando se trate de infracciones a los deberes contenidos en las fracciones X y XII, se impondrá al servidor público responsable la sanción de inhabilitación temporal hasta por seis años;
 
-V. Cuando de la conducta desplegada por el servidor público responsable, se advierta que cause daños o perjuicios al erario público, la sanción será de inhabilitación hasta por ochos años, debiéndose imponer también la multa prevista por la fracción III del artículo anterior; y
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2010)</small>
+
+V. En los casos previstos en las fracciones XVII a XXIII del artículo anterior y en general, cuando la conducta desplegada por el servidor público responsable se advierta que causa daños o perjuicios al servicio y al erario público, la sanción será de destitución o inhabilitación hasta por ocho años, debiéndose imponer la multa prevista en la fracción III del artículo anterior.
 
 VI. Cuando del resultado de la conducta del servidor público se desprende además que se pusieron en riesgo inminente o se afectaron significativamente los intereses jurídicos del Estado o los valores máximos que el Estado tutela a sus gobernados, como son la vida, la salud y su libertad, se impondrá como sanción la inhabilitación por doce años para ejercer el servicio público, debiéndose imponer también la multa prevista por la fracción III del artículo anterior.
 
@@ -902,3 +930,15 @@ Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para
 ###### ARTÍCULO TERCERO.
 
 Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
+
+P.O. 10 DE MARZO DE 2010.
+
+Primero.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Segundo.- Las remuneraciones que en el actual ejercicio fiscal sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente, de los Ayuntamientos, de los Poderes del Estado de Morelos, de los organismos descentralizados, fideicomisos públicos o empresas de participación pública, estatales o municipales, incluyendo a los organismos autónomos por mandato constitucional local. Lo dispuesto en este artículo, no será aplicable a los magistrados del Poder Judicial del Estado de Morelos, en el caso en que la remuneración que perciba sea superior al límite que fija este mandato, pero les es aplicable a quienes los sustituyan.
+
+Tercero.- Los poderes Ejecutivo y Judicial del Gobierno del Estado de Morelos, así como los organismos descentralizados, fideicomisos públicos o empresas de participación pública, estatales o municipales, incluyendo a los organismos autónomos por mandato constitucional local, contarán con un plazo de sesenta días naturales, contados a partir del inicio de la vigencia de este decreto, para proporcionar al Poder Legislativo por conducto de la Comisión de Hacienda, Presupuesto y Cuenta Pública, el tabulador de sueldos que debe incorporarse en el Presupuesto de Egresos para el ejercicio fiscal del año dos mil diez, bajo los lineamientos establecidos en este Decreto y en cumplimiento al artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Cuarto.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+Quinto.- Túrnese el presente decreto al titular del Poder Ejecutivo del Estado de Morelos para los efectos de su promulgación y publicación respectiva.
