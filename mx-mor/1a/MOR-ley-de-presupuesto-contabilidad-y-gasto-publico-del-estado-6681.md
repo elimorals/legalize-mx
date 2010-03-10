@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2008-11-05"
+last_updated: "2010-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS
 
-LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS
+LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -149,15 +149,15 @@ Las dependencias y entidades deberán proporcionar, en el Estado, a la Secretar�
 
 Todas las dependencias y entidades que de sus actividades generen ingresos que con base a la legislación estatal o municipal, se consideren ingresos fiscales, deberán coordinarse con la Secretaría de Hacienda en el primer caso y con las Tesorerías Municipales en el segundo para que se incorporen en la Ley de Ingresos respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 11.
 
 Los proyectos de Presupuestos de Ingresos incluirán la expectativa de entradas de efectivo por ingresos fiscales y, las Entidades, incluirán los ingresos que generen con relación directa al cumplimiento de su objeto social, los que serán objeto de revisión por el Congreso del Estado, a través del Órgano de la Auditoría Superior de Fiscalización.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 Los proyectos de Presupuestos de Ingresos del Gobierno del Estado y de los Municipios, para que puedan incluirse en las respectivas iniciativas de Leyes de Ingresos, se entregarán oportunamente, con el fin de que puedan ser presentadas al Congreso del Estado en los términos que señala el artículo 32, segundo párrafo, de la Constitución Política del Estado Libre y Soberano de Morelos:
 
@@ -197,9 +197,9 @@ El Presupuesto de Egresos del Gobierno del Estado, será el que contenga el Decr
 
 El Presupuesto de Egresos del Municipio será el que apruebe el Ayuntamiento a iniciativa del Presidente Municipal, el que será enviado para su publicación al Periódico Oficial del Estado o en la Gaceta Municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 17.
 
@@ -207,9 +207,9 @@ El Presupuesto de Egresos del Gobierno del Estado y de cada Municipio incluirá 
 
 En el caso de entidades intermunicipales, cada Municipio contemplará las erogaciones que en lo particular le corresponden.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ### CAPITULO TERCERO. DEL PRESUPUESTO DE EGRESOS
 
@@ -217,7 +217,7 @@ En el caso de entidades intermunicipales, cada Municipio contemplará las erogac
 
 Todas las erogaciones deberán cubrirse siempre con los ingresos previstos, de manera que se contribuya al equilibrio presupuestal. La Secretaría de Hacienda y los Ayuntamientos, verificarán, cuando los ingresos ordinarios y en su caso los extraordinarios no sean suficientes para cubrir el Presupuesto de Egresos correspondiente, que se determinen las fuentes de contratación de financiamiento y elaborarán el Programa Financiero respectivo.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 19.
 
@@ -231,35 +231,63 @@ La Secretaría de Finanzas y Planeación y las Tesorerías Municipales enviarán
 
 Los Poderes Legislativo y Judicial formularán sus propios anteproyectos de Presupuesto y los entregarán al Ejecutivo del Estado a más tardar el 1° de septiembre de cada año para que, conforme a los acuerdos, se ordene su incorporación al proyecto de Presupuesto de Egresos del Gobierno del Estado. Para el caso de que inicie una nueva Legislatura el término de presentación del anteproyecto de presupuesto del Poder Legislativo, será el 17 de septiembre.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 20.
 
-El proyecto de Presupuesto de Egresos del Gobierno del Estado que presente el Titular del Poder Ejecutivo contendrá la siguiente información:
+La iniciativa de Presupuesto de Egresos del Gobierno del Estado de Morelos, que presente el titular del Ejecutivo Estatal a la legislatura local, así como el presupuesto de gasto público de los municipios, en el ámbito de sus respectivas competencias, deberá comprender:
 
-I.- Exposición de motivos, en la que se describan las condiciones económico-sociales que prevalezcan, en el Estado, la situación financiera y hacendaria presente y la que prevea el futuro; la participación de los sectores privado y social en los programas del Estado; así como las estrategias a implementar y los propósitos a lograr con el proyecto de Presupuesto de Egresos.
+I.- Las condiciones económico-sociales que prevalezcan en su ámbito territorial, la situación financiera y hacendaria presente y su perspectiva; los programas en los que se considere la participación de los sectores privado y social; así como las estrategias a implementar y los propósitos a lograr con el gasto público.
 
-II.- Descripción clara de los programas que integren el proyecto de Presupuesto de Egresos, en donde se señalen objetivos, metas y prioridades globales; así como las unidades responsables de su ejecución y la valuación estimada por programa y subprograma;
+II.- Los ingresos y los gastos realizados en el periodo transcurrido del ejercicio en curso.
 
-III.- Explicación y comentarios de los principales programas y subprogramas y en especial de aquéllos que abarquen dos o más ejercicios fiscales;
+III.- La estimación de ingresos y los propósitos del gasto en el periodo por transcurrir del ejercicio fiscal en curso.
 
-IV.- Ingresos y gastos realizados en el período transcurrido del ejercicio fiscal en curso;
+IV.- La descripción global y detallada de los distintos rubros que componen el gasto corriente por dependencia o unidad administrativa; incluyendo la estructura orgánica y funcional y los tabuladores desglosados de las remuneraciones vigentes; así como los tabuladores de sueldos desglosados de las remuneraciones que se propongan para todos los servidores públicos, por el desempeño de su función, empleo, cargo o comisión, que en el caso del Presupuesto del Gobierno del Estado de Morelos, comprenderá los de los tres poderes locales, los de los organismos descentralizados, fideicomisos públicos y empresas de participación pública, así como los organismos autónomos por mandato constitucional local; y en el caso de los Ayuntamientos los de las dependencias, organismos descentralizados, fideicomisos y empresas de participación mayoritaria municipal.
 
-V.- Estimación de los ingresos y propósitos de gastos del período por transcurrir del ejercicio fiscal en curso;
+Las remuneraciones y sus tabuladores serán públicos y deberán especificar y diferenciar la totalidad de los elementos fijos y variables, tanto en efectivo como en especie.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Para los efectos de esta disposición se entiende por remuneración: Toda retribución o percepción en efectivo o en especie, incluyendo dietas, aguinaldos en los casos en que proceda, ayudas, vales, apoyos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones ordinarias o extraordinarias y cualquier otra análoga equivalente con excepción de:
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+a) Los apoyos y gastos sujetos a comprobación que se autoricen como propios para el desarrollo del trabajo.
 
-VI.- En su caso, Programa Financiero del Estado, que contenga la situación de la deuda Pública al término del último ejercicio fiscal, el detalle de lo que se va a contratar y la estimación de la que se tendrá a la conclusión del ejercicio fiscal en curso y del inmediato siguiente;
+b) Los gastos de viaje en actividades oficiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+c) El monto de la jubilación, pensión o los haberes de retiro, y las liquidaciones por servicios prestados.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2008)</small>
+d) Los pasivos a cargo de los servidores públicos, durante el cierre de un ejercicio fiscal, por los conceptos señalados en los incisos a) y b) que preceden.
 
-VI bis.- Un capítulo específico que incorpore la estimación de las erogaciones derivadas de contratos de colaboración público privada;
+e) Los préstamos o los créditos personales que se autoricen, independientemente de que éstos se cubran en uno o más ejercicios fiscales.
 
-VII.- Estructura organizacional y funciones vigentes así como las modificaciones propuestas, y
+f) Los elementos o servicios que sean necesarios para prestar el servicio, el empleo, cargo o comisión, incluyendo los que se autoricen por seguridad.
 
-VIII.- En general, toda información que se considere útil para demostrar la proposición en forma clara y completa.
+g) Los ingresos provenientes de actividades personales ajenas al servicio público o los obtenidos por donación, herencia y legado.
+
+V.- Las remuneraciones por el desempeño de la función, empleo, cargo o comisión de los servidores públicos estatales o municipales, quedan sujetas a las siguientes limitaciones:
+
+a) En ningún caso podrán ser mayores a la remuneración autorizada al Presidente de la República, en el respectivo Presupuesto de Egresos del Gobierno federal.
+
+b) Tampoco podrán ser iguales o mayores a las que perciba el superior jerárquico de cada servidor público; excepto que el excedente, cumpla con cualquiera de las siguientes características:
+
+1.- Que sea producto de las condiciones generales del trabajo que se pacten.
+
+2.- Que derive de un trabajo técnico calificado o especializado de su función.
+
+3.- Que en ambos casos, el monto no exceda la mitad de la remuneración que el Presupuesto de Egresos del Gobierno Federal autorice al Presidente de la República.
+
+La transgresión a los lineamientos contenidos en esta fracción, dará motivo a que los órganos de control interno establecidos en el artículo 6 de la Ley Estatal de Responsabilidades de los Servidores Públicos, en sus respectivos ámbitos de competencia, inicien los procedimientos de investigación respectiva y en su caso determinen la sanción que proceda, independientemente de las sanciones penales a que haya lugar.
+
+El Poder Legislativo de Morelos y los ayuntamientos, conservarán en todo momento la potestad para sancionar las modificaciones que se requieran al Presupuesto de Egresos de su competencia, vigilando el cumplimiento del principio de publicidad y las restricciones antes señaladas.
+
+VI.- Descripción clara de los programas que integren el proyecto de Presupuesto de Egresos, en donde se señalen los objetivos, metas y prioridades globales; así como las unidades responsables de su ejecución, y la valuación estimada por programa y subprogramas, incluyendo aquellas que abarquen dos o más ejercicios fiscales.
+
+Y en su caso, el programa financiero que contenga detalladamente la situación de la deuda pública al término del último ejercicio fiscal, el monto y su justificación en el caso de requerir mayor financiamiento y la estimación pormenorizada del estado que guarda la deuda a la conclusión del ejercicio fiscal en curso y del inmediato siguiente.
+
+VII.- El monto, las condiciones y la corrida financiera de las erogaciones y las demás obligaciones que deriven los contratos de colaboración público privada.
+
+VIII.- En general, toda la información que sea necesaria a fin de conocer la situación que prevalece en los ingresos, egresos, y programas gubernamentales, y el destino que se quiera dar a los recursos públicos.
+
+El Congreso del Estado de Morelos, por conducto de la Presidencia de la Comisión de Hacienda, Presupuesto y Cuenta Pública o bien, de la Presidencia de la Mesa Directiva, estará facultado para solicitar toda la información y documentación necesaria para la valoración, dictamen, discusión y votación informada de la iniciativa de Ley de Ingresos y del Presupuesto de Egresos.
 
 ###### ARTICULO 21.
 
@@ -307,7 +335,7 @@ En el ámbito de sus respectivas competencias, serán las encargadas de efectuar
 
 El ejercicio del Gasto Público comprende el manejo y aplicación de los recursos así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado, para lo cual, las Dependencias Administrativas de los Poderes del Estado, en su esfera de competencia, los Organismos del Estado y las Tesorerías Municipales llevarán el registro de los compromisos establecidos y del control presupuestal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 27.
 
@@ -323,7 +351,7 @@ El Ejecutivo del Estado y los Ayuntamientos determinarán la forma en que deber�
 
 Las inversiones físicas en obra Pública que realicen las entidades se apegarán a las disposiciones legales aplicables, integrando debidamente los expedientes técnicos, y las inversiones financieras se integran por las cuentas por cobrar y obras en proceso que mantienen las entidades en relación al cumplimiento de su objetivo social.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -343,7 +371,7 @@ La presupuestación y la clasificación del gasto derivado de contratos de colab
 
 Toda erogación o Gasto Público deberá contar con saldo suficiente en la partida del Presupuesto de Egresos respectivo, y se sujetará a las reglas que determinen, en su caso, la Secretaría de Hacienda en el Poder Ejecutivo; la comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado en el Poder Legislativo; el Consejo de la Judicatura en el Poder Judicial; el órgano de gobierno en los Organismos del Estado y las Tesorerías Municipales en los Ayuntamientos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -371,7 +399,7 @@ Las entidades de la Administración Pública Paraestatal y Paramunicipal adminis
 
 Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que estén debidamente contabilizados al 31 de diciembre del ejercicio correspondiente o por operaciones determinadas, en el ámbito de su competencia por la Secretaría de Hacienda, Tesorerías Municipales, Sindicaturas, la Contraloría del Estado, y Contadurías y Unidades Internas de Auditorías, resultantes de las atribuciones de vigilancia o verificación del Gasto Público dispuestas por ésta Ley o por la Contaduría Mayor de Hacienda del Congreso del Estado resultantes de las atribuciones de fiscalización de las cuentas Públicas de conformidad con las leyes aplicables en la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -391,15 +419,15 @@ Los Catálogos de Cuentas que utilizarán las dependencias a que se refieren el 
 
 El Poder Legislativo y el Poder Judicial, en el ámbito de sus respectivas competencias, emitirán sus propios catálogos de cuentas apegándose a los lineamientos, que se requieran a efecto de ser congruentes en sus sistemas contables con los establecidos para las dependencias del Poder Ejecutivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 38.
 
 Es facultad de la Secretaría de Finanzas y Planeación formular la Cuenta Pública anual de la Hacienda Estatal, así como integrar la información o consolidar los estados financieros que emanen de las Entidades Paraestatales o Paramunicipales, incluidas en los presupuestos de egresos para someterla a consideración del Ejecutivo del Estado, para su respectiva presentación al Congreso del Estado. Dicha Cuenta Pública se elaborará por trimestres calendario comprendidos de enero a marzo; de abril a junio; de julio a septiembre y de octubre a diciembre.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -413,7 +441,7 @@ La Secretaría de Hacienda, las Dependencias y Entidades Estatales y Paraestatal
 
 En el ámbito Municipal, la facultad a que se refiere el primer párrafo del artículo anterior corresponde a las Tesorerías Municipales que habrán de preparar la cuenta Anual del Municipio y someterla al Cabildo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -555,7 +583,7 @@ GUILLERMO MALO VELASCO
 
 RUBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE NOVIEMBRE DE 1998.
 
@@ -618,3 +646,15 @@ Remítase el presente al Titular del Poder Ejecutivo del Estado de Morelos, para
 ###### ARTÍCULO TERCERO.
 
 Para los efectos del reglamento del Congreso del estado la presente reforma entrará en vigor el mismo día de su aprobación por el Pleno de la Asamblea.
+
+P.O. 10 DE MARZO DE 2010.
+
+Primero.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Segundo.- Las remuneraciones que en el actual ejercicio fiscal sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente, de los Ayuntamientos, de los Poderes del Estado de Morelos, de los organismos descentralizados, fideicomisos públicos o empresas de participación pública, estatales o municipales, incluyendo a los organismos autónomos por mandato constitucional local. Lo dispuesto en este artículo, no será aplicable a los magistrados del Poder Judicial del Estado de Morelos, en el caso en que la remuneración que perciba sea superior al límite que fija este mandato, pero les es aplicable a quienes los sustituyan.
+
+Tercero.- Los poderes Ejecutivo y Judicial del Gobierno del Estado de Morelos, así como los organismos descentralizados, fideicomisos públicos o empresas de participación pública, estatales o municipales, incluyendo a los organismos autónomos por mandato constitucional local, contarán con un plazo de sesenta días naturales, contados a partir del inicio de la vigencia de este decreto, para proporcionar al Poder Legislativo por conducto de la Comisión de Hacienda, Presupuesto y Cuenta Pública, el tabulador de sueldos que debe incorporarse en el Presupuesto de Egresos para el ejercicio fiscal del año dos mil diez, bajo los lineamientos establecidos en este Decreto y en cumplimiento al artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Cuarto.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+Quinto.- Túrnese el presente decreto al titular del Poder Ejecutivo del Estado de Morelos para los efectos de su promulgación y publicación respectiva.
