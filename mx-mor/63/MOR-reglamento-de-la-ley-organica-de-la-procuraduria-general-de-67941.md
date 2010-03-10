@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-679
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-01"
-last_updated: "2009-12-09"
+last_updated: "2010-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MARZO DE 2010 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2009.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 10 DE MARZO DE 2010.</small>
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -651,15 +651,13 @@ XX. Las demás que le señalen las disposiciones legales aplicables.
 
 La investigación policial se sujetará en todo momento al principio del respeto de los derechos humanos y se ejercerá con estricto apego a la legalidad. El Ministerio Público en cada caso concreto instruirá detalladamente a la Policía Ministerial sobre los indicios, datos o evidencias que deben ser investigados o recabados para establecer que se ha cometido el delito y que tiendan a demostrar la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MARZO DE 2010 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 22.
 
 La Coordinación General de la Policía Ministerial tendrá bajo su mando las siguientes unidades administrativas:
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
+(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2009) (F. DE E., P.O. 10 DE MARZO DE 2010)
 
-I. Dirección General de Planeación y Operaciones Especiales;
+I. Dirección General de Planeación y Operaciones Tácticas;
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
