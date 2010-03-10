@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2009-09-09"
+last_updated: "2010-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -469,9 +469,9 @@ Instalado el Ayuntamiento, el Presidente Municipal comunicará la forma como que
 
 Al día siguiente de la toma de posesión, el Ayuntamiento celebrará su primera sesión ordinaria de Cabildo, en la que se plantearán y resolverán los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2010)</small>
 
-I. Designar a los titulares de las dependencias de la administración pública municipal, así como a la titular de la instancia administrativa de la mujer, con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal y el Titular de la Seguridad Pública municipal, que serán nombrados por el Presidente;
+I. Designar a los titulares de las dependencias de la administración pública municipal, con excepción del Secretario del Ayuntamiento, el Tesorero, el Contralor Municipal y el Titular de la Seguridad Pública Municipal, que serán nombrados por el Presidente. En todo momento, el Ayuntamiento verificará que la remuneración autorizada a dichos servidores públicos no rebase los montos establecidos en la fracción V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
 
 II. Determinar las comisiones municipales que atiendan los ramos de la Administración Pública de acuerdo a sus necesidades y con base a las facultades consignadas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Morelos, las cuales deberán ser colegiadas y permanentes, así como designar a los titulares de las mismas.
 
@@ -675,29 +675,9 @@ V. Formular y aprobar la iniciativa de Ley de Ingresos del Municipio, que se rem
 
 VI. Revisar y aprobar, en su caso, la cuenta pública anual correspondiente al ejercicio anterior, que presente el Tesorero, remitiéndola a la Legislatura local, dentro del término que establezca la Constitución Política del Estado, con copia del acta de la sesión de Cabildo en donde haya sido aprobada;
 
-VII. Aprobar los Presupuestos de Egresos de su Municipio, con base en los ingresos disponibles, los que contendrán la siguiente información;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2010)</small>
 
-a) Descripción clara de los programas que integren el proyecto de Presupuesto de Egresos, en donde se señalen objetivos, metas y prioridades de desarrollo municipal; así como las unidades responsables de su ejecución y la valuación estimada por programa y subprograma;
-
-b) Explicación y comentarios de los principales programas y subprogramas y en especial de aquellos que abarquen dos o más ejercicios fiscales;
-
-c) Cuantificación del gasto de inversión y gasto corriente, entendiendo el primero los recursos económicos destinados a obras y servicios públicos municipales, así como la adquisición de bienes inmuebles; y el segundo, los recursos económicos destinados para el pago de nóminas o su equivalente, los servicios generales, los recursos materiales y suministros, necesarios para la operación del Ayuntamiento, así como cualquier otro gasto que no esté considerado en la primera cuantificación;
-
-d) Plantilla de personal autorizada;
-
-e) Las precisiones del gasto público que habrán de realizar las entidades de la administración pública paramunicipal y contemplar las erogaciones que en lo particular le corresponden a las entidades paramunicipales, conforme a lo dispuesto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos; y (sic)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
-
-f. Un capítulo específico que incorpore las erogaciones derivadas de contratos de colaboración público privada;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
-
-g. En general, toda información que se considere útil para demostrar la proposición en forma clara y completa.
+VII. Aprobar el Presupuesto de Egresos, del Municipio, con base en los ingresos disponibles, mismo que contendrá la información que refiere el artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos;
 
 VIII. Aprobar previamente la celebración de todo tipo de convenios con el Poder Ejecutivo del Gobierno del Estado de Morelos, con sus organismos auxiliares, o con el Poder Ejecutivo Federal y sus entidades, a que aluden los Artículos 115 Fracción III y 116 Fracción VII, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -763,9 +743,9 @@ XXVIII. Autorizar la ejecución de las obras públicas municipales en coordinaci
 
 XXIX. Exigir la exhibición de la garantía, hipotecaria o pecuniaria o cualquier otra modalidad que establezca la ley, al Tesorero municipal y a todos los servidores públicos que manejen fondos o valores municipales.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2010)</small>
 
-En todo caso, el presidente municipal, el tesorero municipal y todos los demás servidores públicos que manejan fondos o valores del municipio, serán responsables por los pliegos de observaciones que se deriven de la revisión de la Cuenta Pública que realice la Auditoría Superior de Fiscalización del Congreso del Estado;
+En términos del artículo 60 de la Ley de Fiscalización Superior del Estado de Morelos, las responsabilidades de los servidores públicos es personal, por tanto, todos los servidores públicos atendiendo a la naturaleza de sus funciones, su propia actuación y en sus respectivos ámbitos de competencia, independientemente de si manejan o no fondos o valores, son responsables por la infracción a cualquiera de los deberes establecidos en el artículo 27 de la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
 XXX. Revisar y en su caso aprobar el Plan Municipal de Desarrollo, los programas del mismo emanen y las modificaciones que a uno u otros se hagan, de conformidad con los planes de desarrollo nacional y estatal y de los programas y subprogramas que de ellos deriven;
 
@@ -835,43 +815,17 @@ LIX. Contribuir al desarrollo de la vida democrática coadyuvando con el Institu
 
 LX. En general, proveer en la esfera administrativa todo lo necesario para el mejor desempeño de las funciones que le competen de acuerdo con esta u otras Leyes y reglamentos aplicables, así como también institucionalizar la perspectiva de género en la administración pública municipal y dar cumplimiento a lo que establece la Ley de Igualdad de Derechos y Oportunidades entre Mujeres y Hombres en el Estado de Morelos;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2010)</small>
 
-LXI. Los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior de Fiscalización, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe.
-
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
-
-LXII. Crear los comités, comisiones y consejos de carácter consultivo que se consideren necesarios, para el desarrollo de los asuntos competencia de la administración municipal.
+LXI. En cumplimiento a lo dispuesto por los artículos 2 fracción X, 28, 32 y 37 de la Ley de Fiscalización Superior del Estado de Morelos, los Ayuntamientos por conducto del Presidente Municipal, enviarán las cuentas públicas trimestrales al órgano técnico de fiscalización del Poder Legislativo, a más tardar el último día hábil del mes siguiente. La fiscalización ordinaria de la cuenta pública corresponderá en forma anualizada, en la que, entre otros rubros, se revisará que el importe de las remuneraciones a los servidores públicos sea acorde a los lineamientos establecidos en las fracciones IV y V del artículo 20 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos;
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
-LXIII. En el último·año de su ejercicio constitucional, los ayuntamientos salientes deberán incluir en la cuenta pública por lo menos, la siguiente información:
+LXII. Crear los comités, comisiones y consejos de carácter consultivo que se consideren necesarios, para el desarrollo de los asuntos competencia de la administración municipal;
 
-a) Los recursos ejercidos;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE MARZO DE 2010)</small>
 
-b) En su caso, obras pendientes de concluir;
-
-c) Balanzas:
-
-1) De ingresos recaudados al cierre de su ejercicio;
-
-2) De egresos ejercidos al cierre de su ejercicio;
-
-d) Cuentas bancarias, señalando las instituciones, los números de cuenta y saldos al cierre;
-
-e) Contratos comprometidos (pasivos);
-
-f) Número de personal, plazas ocupadas, vacantes y aguinaldo del ejercicio fiscal correspondiente;
-
-g) Empréstitos;
-
-h) Relación de bienes muebles e inmuebles;
-
-i) Relación de juicios pendientes, y
-
-j) Listado de pago de indemnizaciones por término de administración, compensaciones, finiquitos, prima vacacional y demás emolumentos a los integrantes del Cabildo, Secretarios, Subsecretarios, Directores y demás personal.
-
-Lo anterior deberá ser publicado en el Periódico Oficial Tierra y Libertad, en la Gaceta Municipal y en el portal de internet del Municipio.
+LXIII. Los Ayuntamientos integrarán la cuenta pública en términos de lo que establece el artículo 42 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos. La cuenta pública podrá ser difundida en el Periódico Oficial o la Gaceta Municipal, atendiendo a la disponibilidad de recursos municipales. Por lo que hace a las remuneraciones y los tabuladores de sueldo autorizados, así como sus adecuaciones, éstos también cumplirán con el principio de publicidad;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1011,7 +965,7 @@ II. Imponer contribuciones o sanciones que no estén señaladas en la Ley de Ing
 
 III. Juzgar los asuntos relativos a la propiedad o posesión de bienes muebles e inmuebles o cualquier otro asunto contencioso de carácter civil, ni decretar sanciones o penas de carácter penal;
 
-IV. Utilizar su autoridad o influencia para hacer que en las elecciones los votos se emitan a favor de determinada persona o partido;
+IV. Utilizar su autoridad o nfluencia para hacer que en las elecciones los votos se emitan a favor de determinada persona o partido;
 
 V. Ausentarse del Municipio por más de quince días sin licencia del Ayuntamiento, excepto en los casos de urgencia justificada;
 
@@ -2740,6 +2694,18 @@ Por esta única ocasión, la disposición prevista en el artículo 36 y la fracc
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones jurídicas que se opongan a la presente reforma.
+
+P.O. 10 DE MARZO DE 2010.
+
+Primero.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Segundo.- Las remuneraciones que en el actual ejercicio fiscal sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente, de los Ayuntamientos, de los Poderes del Estado de Morelos, de los organismos descentralizados, fideicomisos públicos o empresas de participación pública, estatales o municipales, incluyendo a los organismos autónomos por mandato constitucional local. Lo dispuesto en este artículo, no será aplicable a los magistrados del Poder Judicial del Estado de Morelos, en el caso en que la remuneración que perciba sea superior al límite que fija este mandato, pero les es aplicable a quienes los sustituyan.
+
+Tercero.- Los poderes Ejecutivo y Judicial del Gobierno del Estado de Morelos, así como los organismos descentralizados, fideicomisos públicos o empresas de participación pública, estatales o municipales, incluyendo a los organismos autónomos por mandato constitucional local, contarán con un plazo de sesenta días naturales, contados a partir del inicio de la vigencia de este decreto, para proporcionar al Poder Legislativo por conducto de la Comisión de Hacienda, Presupuesto y Cuenta Pública, el tabulador de sueldos que debe incorporarse en el Presupuesto de Egresos para el ejercicio fiscal del año dos mil diez, bajo los lineamientos establecidos en este Decreto y en cumplimiento al artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Cuarto.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+Quinto.- Túrnese el presente decreto al titular del Poder Ejecutivo del Estado de Morelos para los efectos de su promulgación y publicación respectiva.
 
 ###### ARTÍCULO CUARTO.
 
