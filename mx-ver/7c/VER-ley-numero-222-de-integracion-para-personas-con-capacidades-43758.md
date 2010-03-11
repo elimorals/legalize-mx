@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-222-de-integracion-para-personas-con-capacidades-437
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-11"
-last_updated: "2005-02-11"
+last_updated: "2010-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NUMERO 222 DE INTEGRACION PARA PERSONAS CON CAPACIDADES DIFERENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NUMERO 822 PARA LA INTEGRACION DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 11 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 11 de febrero de 2005.
 
@@ -552,3 +554,17 @@ LICENCIADO FIDEL HERRERA BELTRÁN
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 11 DE MARZO DE 2010.
+
+Artículo primero.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo.- Se abroga la Ley Número 222 de Integración para Personas con Capacidades Diferentes del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado el 11 de febrero de 2005, así como todas las disposiciones que se opongan a la presente Ley.
+
+Artículo tercero.- Dentro de los noventa días naturales siguientes a la entrada en vigor de esta Ley, el Ejecutivo Estatal expedirá el Reglamento de la misma.
+
+Artículo cuarto.- El Consejo Estatal para las Personas con Discapacidad se instalará dentro de los noventa días siguientes a la entrada en vigor de la presente Ley.
+
+Artículo quinto.- La renovación y adaptación del parque vehicular de transporte público, necesarias para dar cumplimiento a lo previsto en esta Ley en materia de accesibilidad de las personas con discapacidad, deberán realizarse en un periodo máximo de cinco años, a partir de la entrada en vigor de este ordenamiento.
