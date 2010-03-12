@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-general-de-acciones-de-urbanizacion-para-el-45592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-16"
-last_updated: "2010-03-05"
+last_updated: "2010-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO GENERAL DE ACCIONES DE URBANIZACION PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-N. DE . PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ABRIL DE 2010 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
-
 REGLAMENTO GENERAL DE ACCIONES DE URBANIZACION PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2010.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 16 de noviembre de 2001.
 
@@ -148,8 +146,6 @@ Ninguna acción de urbanización podrá llevarse a cabo dentro de los límites d
 Corresponde a la Dirección, la formulación de las normas técnicas que deberán observarse en la ejecución de obras de urbanización en el Municipio. Para su validez, estas normas deberán ser aprobadas por el Ayuntamiento, y publicarse en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
 
 Las Normas Técnicas son el conjunto de disposiciones de esta naturaleza, que deberán observarse por urbanizadores, promotores inmobiliarios y peritos, al diseñar y construir obras de infraestructura o equipamiento urbano a que se refieran.
-
-N. DE . PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ABRIL DE 2010 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 
 ###### Artículo 11.
 
@@ -793,6 +789,18 @@ b.- La demás información que se determine por el Ayuntamiento al emitirla.
 
 Sólo hasta que se haya emitido la declaratoria de incorporación o reincorporación urbana, estará el Municipio obligado a prestar los servicios públicos municipales de alumbrado público, limpia, calles, parques y jardines, seguridad pública y tránsito. Antes de dicha declaratoria, la prestación de tales servicios será responsabilidad del urbanizador o promotor inmobiliario.
 
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2010)</small>
+
+Artículo 64 BIS.- Mientras no se emita la declaratoria de incorporación o reincorporación urbana y el urbanizador o promotor inmobiliario incumpla con la obligación de prestar los servicios públicos mencionados en el artículo anterior, se procederá como sigue:
+
+I.- La Dirección impondrá al urbanizador o promotor inmobiliario las sanciones que correspondan conforme a este Reglamento;
+
+II.- En el caso de que el urbanizador o promotor inmobiliario, habiéndosele requerido el cumplimiento de su obligación de prestar los servicios públicos, omita tal prestación dentro de los tres días siguientes a la notificación del requerimiento, la Dirección lo informará al Presidente Municipal para que éste proponga al Ayuntamiento que tales servicios sean prestados por el Gobierno Municipal a costa del urbanizador o promotor inmobiliario;
+
+III.- El Ayuntamiento determinará si procede tal solicitud y en su caso, el alcance en cuanto a los servicios que se prestarán; y,
+
+IV.- Las dependencias y entidades de la Administración Pública Municipal prestarán los servicios que les indique el acuerdo de Cabildo a que se refiere la fracción anterior, y comunicarán a la Tesorería Municipal cada una de las actividades que lleven a cabo, a fin de que ésta, en ejercicio de las facultades que le confieren las leyes fiscales del ámbito municipal, determine y exija los créditos fiscales correspondientes al urbanizador o promotor inmobiliario.
+
 ###### Artículo 65.
 
 Las declaratorias de incorporación urbana, se notificarán por la Dirección a las dependencias y entidades de los gobiernos federal, estatal y municipal que por razón de sus actividades deban tener conocimiento del crecimiento urbano.
@@ -1168,3 +1176,7 @@ P.O. 7 DE SEPTIEMBRE DE 2007
 P.O. 5 DE MARZO DE 2010.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE MARZO DE 2010.
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
