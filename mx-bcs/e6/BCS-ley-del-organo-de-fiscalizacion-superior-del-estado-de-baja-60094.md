@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-organo-de-fiscalizacion-superior-del-estado-de-baja-600
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-10"
-last_updated: "2008-03-10"
+last_updated: "2010-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE MARZO DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de marzo de 2008.
 
@@ -233,9 +233,11 @@ VIII. Las responsabilidades a que haya lugar, y
 
 IX. La imposición de las sanciones resarcitorias correspondientes en los términos de esta Ley.
 
+> <small>(REFORMADO, B.O. 12 DE MARZO DE 2010)</small>
+
 ###### Artículo 13.
 
-Las cuentas públicas anuales serán presentadas por el Gobierno del Estado dentro de los primeros quince días de la apertura del primer periodo ordinario de sesiones y las demás sujetos de fiscalización a más tardar el día último de febrero al Congreso del Estado de Baja California Sur, quien las turnará dentro de los cinco días hábiles posteriores a su recepción, al Órgano de Fiscalización Superior para su revisión y fiscalización superior.
+La Cuenta Pública anual correspondiente deberá ser presentada al Congreso del Estado de Baja California Sur, dentro de los dos primeros meses, quien las turnará dentro de los cinco días hábiles posteriores a su recepción, al Órgano de Fiscalización Superior para su revisión y fiscalización superior.
 
 ###### Artículo 14.
 
@@ -477,9 +479,11 @@ Las responsabilidades que se finquen a los servidores Públicos de los Poderes d
 
 El Órgano de Fiscalización Superior, con base en las disposiciones de esta ley, formulará a los titulares de los sujetos fiscalizados, los pliegos de observaciones derivados de la revisión y fiscalización superior de la cuenta pública, en los que se determinará en cantidad líquida, la presunta responsabilidad de los infractores, la cual deberá contabilizarse de inmediato.
 
+> <small>(REFORMADO, B.O. 12 DE MARZO DE 2010)</small>
+
 ###### Artículo 46.
 
-Los sujetos de fiscalización, dentro de un plazo improrrogable de 45 días hábiles contados a partir del día siguiente a la notificación de los pliegos de observaciones, deberán solventar los mismos ante el Órgano de Fiscalización Superior. Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado, o bien, la documentación y argumentos presentados no sean suficientes a juicio del Órgano para solventar las observaciones, formulará su informe de resultados e iniciará el procedimiento para el fincamiento de responsabilidades resarcitorias a que se refiere el siguiente capítulo, y, en su caso, aplicará las sanciones pecuniarias a que haya lugar, en los términos de esta Ley.
+Los sujetos de fiscalización, dentro de un plazo improrrogable de 30 días naturales contados a partir del día siguiente a la notificación de los pliegos de observaciones, deberán solventar los mismos ante el Órgano de Fiscalización Superior. Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado, o bien, la documentación y argumentos presentados no sean suficientes a juicio del Órgano para solventar las observaciones, formulara su informe de resultados e iniciara el procedimiento para el fincamiento de responsabilidades resarcitorias a que se refiere el siguiente capítulo, y, en su caso, aplicará las sanciones pecuniarias a que haya lugar, en los términos de esta Ley.
 
 ### Capítulo III. Del Procedimiento para el Fincamiento de Responsabilidades Resarcitorias
 
@@ -1038,3 +1042,15 @@ NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 NABOR GARCÍA AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 12 MARZO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los preceptos aplicables a la presentación de la Cuenta Pública, entrarán en vigor a partir de la Cuenta Pública correspondiente al ejercicio fiscal 2009.
