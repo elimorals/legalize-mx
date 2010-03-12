@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-cementerios-del-municipio-de-mexicali-3441"
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-10-31"
-last_updated: "1975-10-31"
+last_updated: "2010-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO DE CEMENTERIOS DEL MUNICIPIO DE MEXICALI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 31 de octubre de 1975.
 
@@ -96,7 +96,7 @@ II.- Acuerdo del Cabildo para establecer el cementerio.
 
 III.- En su caso la concesión del Ayuntamiento a Particulares.
 
-IV.- Que el inmueble esté ubicado a más de cinco kilómetris (sic) del último grupo de casas-habitación y tenga una superficie mínima de 10 hectáreas.
+IV.- (DEROGADA, P.O. 12 DE MARZO DE 2010)
 
 V.- Planos aprobados por el Departamento de Obras Públicas Municipales.
 
@@ -459,3 +459,9 @@ Lic. Luis Ayala García
 Carlos Félix Véliz
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE MARZO DE 2010.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
