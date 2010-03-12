@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2010-01-22"
+last_updated: "2010-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MARZO DE 2010.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -835,11 +835,11 @@ XII. Las demás que le encomiende el Director Ejecutivo de Enlace y Evaluación 
 
 (DEROGADO, D.O.F. 23 DE ENERO DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 30.
 
-Corresponde a la Dirección Ejecutiva Fiduciaria:
+Corresponde a la Subdirección Corporativa Fiduciaria:
 
 > <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
@@ -2041,9 +2041,9 @@ III. Guanajuato,
 
 IV. Querétaro,
 
-V. Hidalgo,
+V. (DEROGADA, D.O.F. 12 DE MARZO DE 2010)
 
-VI. Estado de México, y
+VI. (DEROGADA, D.O.F. 12 DE MARZO DE 2010)
 
 VII. Aguascalientes.
 
@@ -2077,9 +2077,19 @@ IV. Puebla,
 
 V. Tlaxcala,
 
-VI. Morelos, y
+> <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2010)</small>
 
-VII. Las zonas rurales del Distrito Federal.
+VI. Morelos,
+
+VII. Las zonas rurales del Distrito Federal,
+
+> <small>(ADICIONADA, D.O.F. 12 DE MARZO DE 2010)</small>
+
+VIII. Hidalgo, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE MARZO DE 2010)</small>
+
+IX. Estado de México.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -2275,9 +2285,9 @@ VI. El Subdirector Corporativo de Normatividad de Crédito;
 
 VII. El Titular de la Unidad para la Administración Integral de Riesgos;
 
-> <small>(ADICIONADA, D.O.F. 24 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 12 DE MARZO DE 2010)</small>
 
-VII Bis. El Director Ejecutivo Fiduciario;
+VII Bis. El Subdirector Corporativo Fiduciario;
 
 VIII. Un representante de la Secretaría de Hacienda y Crédito Público, en calidad de asesor;
 
@@ -2484,5 +2494,9 @@ D.O.F. 27 DE NOVIEMBRE DE 2009.
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
 
 D.O.F. 22 DE ENERO DE 2010.
+
+UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE MARZO DE 2010.
 
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
