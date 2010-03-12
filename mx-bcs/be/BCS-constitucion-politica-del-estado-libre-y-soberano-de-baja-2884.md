@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2009-06-18"
+last_updated: "2010-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE MARZO DE 2010.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -277,13 +277,41 @@ La ley establecerá los plazos para la realización de los procesos partidistas 
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta constitución y la ley.
 
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+Para que una organización política pueda constituirse como partido político estatal, es necesario que además de los requisitos que la ley señale cuente con más del 0.5% del padrón electoral municipal vigente a la última elección como afiliados, cuando menos en tres de los Municipios que componen el Estado, siempre que el número total de sus miembros en la entidad no sea menor del 2.5% del total del padrón electoral.
+
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+Un partido político estatal perderá a su registro por no haber obtenido cuando menos el 2.5% de la votación total estatal en algunas de las elecciones para Gobernador del Estado o Diputados de Mayoría Relativa al Congreso del Estado ya sea que haya participado solo o coaligado de acuerdo a lo establecido en la ley de la materia, además de las otras causas de pérdida del registro que la ley señale.
+
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+La negativa del registro como candidato o la cancelación del mismo, serán una de las sanciones que se aplicarán a los precandidatos que rebasen los topes de precampañas que establezca el Instituto Estatal Electoral. En el caso de las campañas electorales cuando se sobrepasen los topes de gastos establecidos será una de las causales de nulidad de la elección del candidato que corresponda.
+
 > <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
 
 II.- La Ley garantizará que en los procesos electorales estatales y municipales los partidos políticos cuenten de manera equitativa con los recursos para llevar a cabo sus actividades político electorales.
 
-> <small>(REFORMADO, B.O. 24 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
 
-De igual manera determinará condiciones de equidad para que los partidos políticos tengan acceso a los medios de comunicación social, distintos a la radio y la televisión.
+Los partidos políticos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la trasmisión en territorio estatal de este tipo de mensajes contratados fuera del Estado.
+
+> <small>(REFORMADO, B.O. 12 DE MARZO DE 2010)</small>
+
+De igual manera la ley determinará condiciones de equidad para que los partidos políticos tengan acceso a los medios de comunicación social, distintos a la radio y la televisión.
+
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+En la propaganda política o electoral que difundan los partidos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
+
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes estatales, como de los municipios, y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
 > <small>(REFORMADA, B.O. 24 DE ABRIL DE 2009)</small>
 
@@ -292,6 +320,10 @@ III.- La Ley señalará las reglas a las que se sujetará el financiamiento de l
 El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter especifico, mismas que se otorgarán de acuerdo con las disponibilidades presupuestales y conforme a lo prescrito en la Ley.
 
 La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en los procesos internos de selección de candidatos y campañas electorales. Asimismo establecerá los montos máximos que tendrán las aportaciones de sus simpatizantes cuyo monto total no excederá anualmente, por cada partido político, del diez por ciento del tope de gastos establecido para la última elección de gobernador.
+
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+La ley fijará las causales de nulidad de las elecciones de gobernador, diputados locales y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
 
 Igualmente fijará los procedimientos para el control y vigilancia del origen y el uso de todos los recursos con que cuenten, y señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
@@ -318,6 +350,10 @@ El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, a
 > <small>(ADICIONADO, B.O. 27 DE OCTUBRE DE 2003)</small>
 
 El Consejo General del Instituto Estatal Electoral podrá invitar, durante del (sic) proceso electoral, al Vocal del Registro Federal de Electores en el Estado, a las sesiones de dicho Instituto, a las cuales acudirá con voz pero sin voto, conforme a lo convenido con el Instituto Federal Electoral.
+
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+El Consejo General del Instituto Estatal Electoral podrá convenir con el Instituto Federal Electoral se haga cargo de la organización de los procesos electorales locales.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE OCTUBRE DE 2003)</small>
 
@@ -537,9 +573,9 @@ V.- Si las observaciones con veto total son aprobadas al menos por las dos terce
 
 62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2003)</small>
 
-63.- Toda resolución del Congreso del Estado tendrá el carácter de Ley, Decreto o Acuerdo Económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
+63.- Toda resolución del Congreso del Estado tendrá carácter de Ley, Decreto o Acuerdo Económico, las que a excepción de esta última se remitirán al Gobernador del Estado para su promulgación y publicación, por conducto del Presidente y el Secretario de la Mesa Directiva en funciones, con la formalidad siguiente:
 
 > <small>(REFORMADO [N. DE E. REUBICADO ANTES ÚLTIMA PARTE DEL PRIMER PÁRRAFO], B.O. 10 DE JUNIO DE 2000)</small>
 
@@ -657,11 +693,11 @@ XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gob
 
 XXIX.- Nombrar y remover libremente a los empleados del Poder Legislativo y a los del Órgano de Fiscalización Superior.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, B.O. 12 DE MARZO DE 2010)</small>
 
-XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que será presentada dentro de los primeros quince días de la apertura del primer período de sesiones, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, de los entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
+XXX.- Examinar y aprobar, en su caso, la cuenta pública del año anterior, que deberá ser presentada dentro de los dos primeros meses, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos y verificar el cumplimiento de los objetivos contenidos en los programas del gobierno del estado, de los entes públicos estatales, de los gobiernos municipales, de los entes públicos municipales, de los entes públicos autónomos, del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas físicas y morales de derecho privado.
 
-La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, bajo los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
+La revisión y fiscalización de la cuenta pública será realizada a través del Órgano de Fiscalización Superior, bajo los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad, el cual tendrá autonomía técnica y de gestión para el ejercicio de sus atribuciones y para decidir sobre su organización interna, recursos, funcionamiento y resoluciones.
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -1907,6 +1943,18 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 163.- Los funcionarios y empleados públicos, antes de tomar posesión de su encargo, otorgarán protesta de guardar y hacer guardar la Constitución General de la República, la presente Constitución y las leyes que de ellas emanen.
 
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+Los servidores públicos del Estado y los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(ADICIONADO, B.O. 12 DE MARZO DE 2010)</small>
+
+Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
+
 164.- Nadie puede a la vez ejercer, en el Estado, dos o más cargos de elección popular, pero el interesado podrá escoger cualquiera de ellos.
 
 Todo cargo o empleo público de la entidad es incompatible con cualquier otro del Estado, cuando por ambos se perciba sueldo, excepto en el caso de que se trate de los ramos de la docencia o de beneficencia.
@@ -2630,3 +2678,25 @@ B.O. 24 DE ABRIL DE 2009.
 B.O. 18 DE JUNIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 12 DE MARZO DE 2010.
+
+DECRETO NUMERO 1837
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los preceptos aplicables a la presentación de la Cuenta Pública, entrarán en vigor a partir de la Cuenta Pública correspondiente al ejercicio fiscal 2009.
+
+B.O. 12 DE MARZO DE 2010.
+
+DECRETO NUMERO 1839
+
+A CONTINUACION SE TRANSCRIBE EL ARTICULO TRANSITORIO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, con las salvedades a que se refieren las siguientes disposiciones transitorias.
+
+...
