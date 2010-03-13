@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-para-adolescentes-del-estado-de-oaxaca-52027"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2008-04-12"
+last_updated: "2010-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2010.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -57,13 +57,11 @@ Se entiende por adolescente toda persona mayor de doce y menor de dieciocho año
 
 No se procederá en los términos previstos por esta ley contra aquellos adolescentes a quienes se impute las siguientes conductas previstas en el Código Penal para el Estado de Oaxaca:
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2010)</small>
 
-I. Por lo que hace a los sujetos comprendidos en el artículo 5 de esta ley las señaladas en los artículos 160, 174, 203, 204, 264, 326, 330, 332 y 338;
+I. Por lo que hace a los sujetos comprendidos en el artículo 5 de esta Ley las establecidas en los artículos 160, 174, 203, 204, 264 y 326.
 
 II. Por lo que hace a los sujetos comprendidos en la fracción I del artículo 5 de esta ley, las señaladas en los artículos 317 y 390, fracción I.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE ABRIL DE 2008)</small>
 
 Aunque las leyes penales dispongan presunciones de culpabilidad no serán consideradas en la aplicación de esta ley.
 
@@ -229,7 +227,9 @@ Todo adolescente debe ser considerado y tratado como inocente hasta que no se co
 
 Única persecución y juzgamiento
 
-Ningún adolescente podrá ser sometido a proceso más de una vez por el mismo hecho, aunque se modifique la calificación legal o se aporten nuevas evidencias.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+
+Ningún adolescente podrá ser juzgado más de una vez por el mismo hecho, aunque se modifique la calificación legal o se aporten nuevas evidencias.
 
 ###### Artículo 23.
 
@@ -243,7 +243,9 @@ Defensa técnica
 
 Todo adolescente tiene derecho a ser asistido por un licenciado en derecho en todas las etapas del proceso no pudiendo recibírsele ninguna declaración sin la asistencia de éste ni por otra autoridad que no sea la judicial bajo pena de nulidad. Asimismo, tiene derecho a reunirse oportunamente con su defensor en estricta confidencialidad.
 
-En caso de que no elija su propio defensor o de que se limite a designar una persona de confianza, se le designará a un defensor público.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+
+En caso de que no elija su propio defensor, se le designará un defensor público desde el primer acto del proceso.
 
 Tiene también derecho a conocer el contenido de la investigación, a presentar por sí o por intermedio de su defensor, todas las pruebas y los argumentos necesarios para su defensa y a rebatir cuanto sea contrario a ella.
 
@@ -303,11 +305,17 @@ Los jueces competentes deberán garantizar que la información que brinden sobre
 
 Los antecedentes y registros relacionados con adolescentes sometidos a proceso o sancionados conforme a esta ley en ningún caso podrán ser utilizados en otro juicio, y deberán ser destruidos de conformidad con las previsiones contenidas en el presente ordenamiento.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2010)</small>
+
+No vulnera el derecho a la privacidad de los adolescentes, la expedición de audio y video de las audiencias, a favor de las partes en el proceso.
+
 ###### Artículo 32.
 
 Derecho a impugnar
 
-Todo adolescente tiene derecho a impugnar ante un tribunal distinto del que emitió la decisión, en los supuestos previstos por las leyes, cualquier resolución definitiva o provisional que le cause un agravio irreparable.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+
+Todo adolescente tiene derecho a impugnar ante un tribunal distinto del que emitió la decisión, en los supuestos previstos por las leyes, cualquier resolución definitiva o provisional.
 
 ###### Artículo 33.
 
@@ -349,7 +357,9 @@ La precedente enumeración de derechos no es limitativa, y se complementa con la
 
 Plazos especiales de prescripción de la acción por conductas tipificadas como delitos atribuidas a adolescentes
 
-La acción prescribe transcurrido un término igual al medio aritmético entre el mínimo y el máximo de duración de la pena señalada en el Código Penal para el delito que se atribuye al adolescente. En ningún caso el término de la prescripción podrá exceder el plazo máximo de cuatro años para los sujetos comprendidos en la fracciones I y II del artículo 5 de esta ley, y siete años para los comprendidos en la III.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2010)</small>
+
+La acción prescribe transcurrido un término igual al medio aritmético entre el mínimo y el máximo de la duración de la pena señalada en el Código Penal para el delito que se le atribuye al adolescente. En ningún caso el término de la prescripción podrá ser inferior a un año ni exceder del plazo máximo de seis años para los sujetos comprendidos en la fracción I y II del artículo 5 de esta ley, y nueve años para los comprendidos en la fracción III.
 
 Comenzarán a correr, para los delitos consumados, desde el día de su realización; para las tentativas, desde el día en que se efectuó el último acto de ejecución y, para los delitos continuados o de efectos permanentes, desde el día en que cesó su continuación o permanencia.
 
@@ -391,7 +401,9 @@ Se entiende por acuerdo reparatorio el pacto entre la víctima u ofendido y el a
 
 Procedencia
 
-Con excepción de los delitos previstos en los incisos a), c), d), e) f) y g) de la fracción I y b), c), d), g), h) y j) de la fracción II del artículo 93 de esta ley (privación de la libertad en un centro especializado), en los demás casos procederá el acuerdo reparatorio entre la víctima u ofendido y el adolescente hasta antes de dictarse el auto de apertura a juicio.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+
+Con excepción de los delitos previstos en los incisos a), c), d), e), f) g) e i) de la fracción I y los incisos b), c), g). j), m); n), y o), de la fracción II del artículo 93 de esta Ley (privación de la libertad en un centre especializado), en los demás casos procederá el acuerdo reparatorio entre la víctima u ofendido y el adolescente hasta antes de dictarse el auto a apertura a Juicio.
 
 ###### Artículo 43.
 
@@ -415,7 +427,9 @@ No obstante lo dispuesto anteriormente, en los delitos cometidos en perjuicio de
 
 Suspensión
 
-El procedimiento para lograr el acuerdo no podrá extenderse por más de treinta días naturales, suspende el proceso y la prescripción de la acción penal.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2010)</small>
+
+El procedimiento para lograr el acuerdo podrá suspenderse por treinta días naturales, suspende el proceso y la prescripción de la acción penal y podrá prorrogarse por un plazo igual a petición de parte.
 
 Si a juicio del representante del Ministerio Público o del juez existen actuaciones urgentes o inaplazables, éstas se realizarán siempre que no impliquen un acto de molestia que sea relevante para el adolescente.
 
@@ -465,7 +479,9 @@ En el proceso especial para adolescentes los plazos son perentorios y se pueden 
 
 Duración del proceso especial para adolescentes
 
-Desde la sujeción al proceso hasta el dictado de la sentencia no podrá transcurrir un plazo mayor de seis meses.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+
+Desde la vinculación a proceso hasta el dictado de la sentencia no podrá transcurrir un plazo mayor a ocho meses.
 
 ###### Artículo 52.
 
@@ -515,9 +531,13 @@ La custodia física del adolescente privado de libertad no podrá estar a cargo 
 
 Detención provisional
 
-La detención provisional de un adolescente es una medida de carácter excepcional. Sólo se utilizará si no fuere posible aplicar otra medida de coerción menos grave. En ningún caso podrá ser ordenada con el objeto de facilitar la realización del estudio psico-social o pruebas físicas al adolescente para determinar su edad.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2010)</small>
 
-La detención provisional restrictiva de la libertad será limitada en el tiempo y en todo caso, será aplicada por los períodos más breves posibles que nunca podrán rebasar los cuatro meses prorrogables hasta por un mes más si se ordena la reposición del juicio y sólo cuando se halla agotado ese plazo.
+La detención provisional es de carácter excepcional, solo se utilizará si no fuere posible aplicar otra medida de coerción menos grave, salvo en los casos de oficiosidad señalados por la Constitución Federal y el Código Procesal Penal supletorio a esta Ley. En ningún caso podrá ser ordenada con el objeto de facilitar la realización de estudio psico-social o pruebas físicas al adolescente para determinar su edad.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+
+La detención provisional restrictiva de la libertad será limitada en el tiempo y en todo caso, será aplicada por los periodos más breves posibles que nunca podrá rebasar los diez meses.
 
 La detención provisional podrá ser revocada o sustituida por otra medida menos grave en cualquier momento, a solicitud de parte.
 
@@ -555,17 +575,17 @@ Cuando el hecho que motivó la privación de libertad del adolescente no esté t
 
 Formulación de la imputación y ampliación de plazo
 
-En el caso de adolescentes detenidos, el Ministerio Público deberá inmediatamente ponerlo a disposición del juez en turno, formular la imputación, solicitar la sujeción a proceso así como la aplicación de las medidas de coerción que considere procedentes, en la audiencia de declaración preparatoria. En esa audiencia, si el adolescente desea hacerlo, se le recibirá su declaración preparatoria.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+
+En los casos de adolescentes detenidos el ministerio público deberá dentro del término de 48 horas tratándose de delitos que ameriten medida de coerción privativa de libertad, ponerlo a disposición del juez en turno, formular la imputación, solicitar la vinculación a proceso, así como la aplicación de medidas de coerción que considere procedentes, en la audiencia de declaración del imputado. En esa audiencia, si el adolescente desea hacerlo, se le recibirá su declaración.
 
 ###### Artículo 63.
 
 Supuesto material
 
-Sólo en los casos en los que el Ministerio Público solicite sujeción a proceso del adolescente con solicitud de aplicación de medida de coerción de detención provisional deberá acreditar el cuerpo del delito y la probable participación del adolescente en éste.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2008)</small>
-
-En los casos en que se trate de delitos que no estén sancionados con medida de internamiento y el Ministerio Público no solicite la detención provisional y sujeción a proceso, el Ministerio Público únicamente deberá acreditar con datos suficientes, la probable existencia de un hecho tipificado por la ley penal como delito y la probable participación del adolescente en su comisión. El Juez, al resolver en estos casos, sí considera acreditado tales elementos, sujetará al adolescente a investigación sobre los hechos que se le impute, con efectos de procesamiento.
+Para efectos de la vinculación a proceso el Ministerio Público únicamente deberá acreditar con datos que establezcan que se ha cometido un hecho que la ley señale como delito y exista la probabilidad de que el imputado lo cometió o participó en su comisión. El juez, al resolver en estos casos, sujetará al adolescente a investigación sobre los hechos que se le impute, con efectos de procesamiento.
 
 ###### Artículo 64.
 
@@ -577,15 +597,17 @@ Si el detenido es menor de doce años, el Ministerio Público lo pondrá inmedia
 
 Valor de la declaración
 
-No tendrá valor probatorio la admisión de los hechos por parte del adolescente salvo que ésta sea hecha ante el juez con la presencia de su abogado defensor y previo a que haya tenido la oportunidad de entrevistarse en privado con él.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+
+No tendrá valor la admisión de la participación por parte del adolescente, salvo que ésta sea hecha ante el juez con la presencia de su abogado defensor y previo a que haya tenido la oportunidad de entrevistarse con él.
 
 ###### Artículo 66.
 
 Prórroga a solicitud del adolescente
 
-> <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2010)</small>
 
-El adolescente podrá solicitar la suspensión de la audiencia mencionada en el artículo 62 (Formulación de la imputación y ampliación de plazo) por un plazo hasta por setenta y dos horas, o su ampliación hasta por un plazo igual, para aportar elementos de convicción antes de que el juez se pronuncie sobre la medida de coerción.
+El adolescente podrá solicitar la suspensión de la audiencia mencionada en el artículo 62 (formulación de la imputación y ampliación del plazo), hasta por un plazo de 72 horas, o hasta por un plazo igual, aportar otros elementos de convicción antes de que el juez se pronuncie sobre la medida de coerción, siempre que sean pertinentes, en este caso regirán las reglas de la audiencia de debate.
 
 La prolongación de la detención en su perjuicio será sancionada por la ley penal.
 
@@ -619,7 +641,9 @@ Antes de concluir la audiencia de sujeción a proceso el Juez fijará un plazo n
 
 Facultades del Ministerio Público al cierre de la investigación
 
-Dentro de los tres días siguientes al cierre de la investigación, el Ministerio Público podrá:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2010)</small>
+
+Dentro de cinco días siguientes al cierre de la investigación, el Ministerio Público podrá:
 
 I.- Formular la acusación;
 
@@ -630,8 +654,6 @@ III.- Solicitar la suspensión del proceso.
 El Juez correrá traslado por cinco días al adolescente y a su defensor, quienes podrán en ese plazo ofrecer la prueba para el juicio.
 
 El escrito de acusación deberá contener los mismos requisitos que el escrito de imputación inicial, así como señalar los medios de prueba que pretenda desahogar en la audiencia de juicio. El Juez correrá traslado por cinco días al acusador coadyuvante si lo hubiere, y por otros cinco al adolescente y a su defensor, quienes podrán en ese plazo ofrecer prueba para el juicio.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 12 DE ABRIL DE 2008)</small>
 
 ###### Artículo 70.
 
@@ -849,7 +871,7 @@ La restauración a la víctima excluye la indemnización civil por responsabilid
 
 ###### Artículo 88.
 
-Órdenes de orientación y supervisión
+Ordenes de orientación y supervisión
 
 > <small>(F. DE E., P.O. 6 DE OCTUBRE DE 2007)</small>
 
@@ -903,7 +925,9 @@ I. Cuando se trate de los sujetos comprendidos en la fracción II del artículo 
 
 a) Violación (artículos 246 y 248);
 
-b) Lesiones (artículos 271 en relación con los artículos 274, 275 y 276);
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+
+b) Lesiones (artículo 271, en relación con los artículos 274, 275, 276 y 277);
 
 c) Homicidio (artículos 285, 289, 296, segunda y tercera parte, y 299);
 
@@ -911,23 +935,43 @@ d) Parricidio (artículo 306);
 
 e) Robo calificado (artículo 349, cuando se realice en las circunstancias señaladas en los artículos 359, en el supuesto de violencia física contra las personas, en relación con el primer párrafo del artículo 360) y;
 
-f) Secuestro y tráfico de menores (artículos 348, 348 bis A, con excepción de la fracción IV, así como el 348 bis C);
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+
+f) Secuestro (artículos 348, 348 Bis y 348 Bis A con excepción de la fracción V);
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2008)</small>
 
-g) Violación equiparada (artículo 247).
+g) Violación equiparada (artículo 247);
 
-En estos casos la privación de libertad no podrá exceder los cuatro años.
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2010)</small>
+
+h) Robo calificado (artículo 362. fracción V);
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2010)</small>
+
+i) Trata de personas (artículo 348 Bis F); y
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2010)</small>
+
+j) Robo (artículo 349 en relación con los artículos 353, 354 y 355).
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+
+En el caso de estos delitos la sanción privativa de libertad será hasta 6 años.
 
 II. Cuando se trate de los sujetos comprendidos en la fracción III del artículo 5 (Grupos de edad) de esta ley y fueran encontrados responsables de las conductas mencionadas en la fracción anterior, además de las siguientes:
 
 a) Homicidio culposo (incisos b) y c) del tercer párrafo del artículo 58);
 
-b) Corrupción de menores previsto por el artículo 195 del Código Penal en el supuesto consistente en la conducta de obligar a un menor de dieciocho años de edad o a quien no tenga capacidad para comprender el significado del hecho, a realizar actos de exhibicionismo corporal, lascivos o sexuales, de prostitución, consumo de narcóticos, prácticas sexuales o a cometer hechos delictuosos;
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
 
-c) Pornografía infantil (artículo 195 bis);
+b) Corrupción de personas menores de edad o quien no tenga la capacidad de comprender el significado del hecho (artículo 194);
 
-d) Lenocinio de menores (artículo 200);
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+
+c) Pornografía infantil (artículo 195);
+
+d) (DEROGADO, P.O. 13 DE MARZO DE 2010)
 
 e) (DEROGADO, P.O. 12 DE ABRIL DE 2008)
 
@@ -935,13 +979,37 @@ f) Asalto (artículo 270);
 
 g) Homicidio (artículo 290);
 
-h) Secuestro (artículo 348 bis);
+h) (DEROGADO, P.O. 13 DE MARZO DE 2010)
 
-i) Robo calificado (artículo 362, fracción V) y;
+i) (DEROGADO, P.O. 13 DE MARZO DE 2010)
 
-j) Tortura (artículos 1 y 4 de la Ley Estatal para Prevenir y Sancionar la Tortura).
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
 
-En estos casos la pena privativa de la libertad será de hasta siete años pero podrá ser hasta de diez por lo que hace a los delitos de homicidio calificado, parricidio, violación tumultuaria y secuestro.
+j) Tortura (articulo 1 en relación con el artículo 4 de la Ley Estatal para Prevenir y Sancionar la Tortura);
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2010)</small>
+
+k) Abuso sexual (artículo 241, fracción IV, en el supuesto de violencia física):
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2010)</small>
+
+l) Robo específico (artículo 357, fracción I);
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2010)</small>
+
+m) Rebelión (artículo 137);
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2010)</small>
+
+n) Conspiración (artículo 146); y
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2010)</small>
+
+o) Sedición (artículo 148).
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2010)</small>
+
+En estos casos la pena privativa de libertad será de hasta 9 años, pero podrá ser hasta de 12 años por lo que hace a los delitos de homicidio calificado, violación tumultuaria, secuestro y parricidio.
 
 En los supuestos de tentativa punible de los delitos incluidos en las fracciones anteriores de este artículo, también puede aplicarse medida sancionadora de privación de la libertad en centro especializado.
 
@@ -1556,5 +1624,9 @@ P.O. 10 DE MARZO DE 2007.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 12 DE ABRIL DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P. O. 13 DE MARZO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
