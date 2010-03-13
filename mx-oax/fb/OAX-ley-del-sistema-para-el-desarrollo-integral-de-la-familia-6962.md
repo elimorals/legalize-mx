@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-para-el-desarrollo-integral-de-la-familia-6962"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-04"
-last_updated: "2006-02-24"
+last_updated: "2010-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA, PUBLICADA EN EL P. O. DE 13 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el jueves 4 de febrero de 1993.
 
@@ -586,3 +588,17 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 24 DE FEBRERO DE 2006.
 
 UNICO.- El presente Decreto entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado. Se faculta al Titular del Poder Ejecutivo, para que con fundamento en el artículo 61 de la Ley Orgánica del Poder Ejecutivo suscriba los instrumentos jurídicos necesarios para el exacto y estricto cumplimiento del presente decreto.
+
+P.O. 13 DE MARZO DE 2010.
+
+PRIMERO.- La presente Ley entrará en vigor treinta días naturales a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se abroga la Ley del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, el día 04 de febrero de 1993, así como las demás disposiciones que se opongan a lo dispuesto por esta Ley.
+
+TERCERO.- EL Consejo Directivo contará con un plazo de 90 días naturales, contados a partir de la publicación de la presente Ley, para expedir el Reglamento interior y los manuales respectivos.
+
+CUARTO.- Todos los actos; acuerdos y procedimientos que se hubieren iniciado bajo la vigencia de la Ley que se abroga, se continuarán tramitando hasta su conclusión en términos de la misma. Los instrumentos jurídicos que requieran modificaciones por el inicio en la vigencia de la presente Ley, se ajustaran a iniciativa del Organismo, sin que en esencia se modifiquen los derechos u obligaciones que la misma haya adquirido.
+
+QUINTO.- El Sistema DIF Oaxaca, seguirá subsistiendo con los recursos humanos, materiales y financieros, con que cuenta actualmente. Las Secretarías de Finanzas, de la Contraloría y de Administración, proveerán lo necesario en el respectivo ámbito de' sus atribuciones para establecer el Organismo conforme lo que dispone la presente Ley, aplicando principios de austeridad y funcionalidad.
+
+Los derechos laborales de los empleados del Sistema DIF Oaxaca, quedan intocados y solo se hará la adecuación administrativa necesaria para actualizar las relaciones laborales a la presente Ley, sin que signifique menoscabo alguno a las prestaciones que actualmente disfrutan.
