@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-planeacion-y-46378"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-26"
-last_updated: "2005-09-26"
+last_updated: "2010-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 15 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de septiembre de 2005.
 
@@ -713,3 +715,15 @@ M.D.U. Ricardo de Alba Obregón.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE OS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE MARZO DE 2010.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Para efecto de la competencia de los asuntos de la Secretaría de Planeación y Desarrollo Regional, le corresponderán además todas aquellas atribuciones que por disposición legal o reglamentaria se atribuyan a la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Aguascalientes, a la Secretaría de Planeación del Estado de Aguascalientes, a la Secretaría de Planeación y Desarrollo Regional del Estado de Aguascalientes.
+
+Tercero.- Se Abroga el Reglamento Interior de la Secretaría de Planeación, publicado en el Periódico Oficial del Estado de fecha 26 de septiembre de 2005.
+
+Cuarto.- Se abroga el acuerdo por el que se creó a la Comisión Estatal para la Prevención y el Manejo de Asentamientos Humanos Irregulares en el Estado "C.E.P.M.A.H.I", publicado en el Periódico Oficial del Estado de Fecha 1 de septiembre de 1996.
