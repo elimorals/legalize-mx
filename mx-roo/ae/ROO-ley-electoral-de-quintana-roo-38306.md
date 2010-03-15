@@ -4,7 +4,7 @@ identifier: "ROO-ley-electoral-de-quintana-roo-38306"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-04"
-last_updated: "2009-11-27"
+last_updated: "2010-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ELECTORAL DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2010.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 4 de marzo de 2004.
 
@@ -2579,6 +2579,40 @@ VIII. Realizará la declaración de validez y la entrega de la constancia de may
 
 IX. Fijará en el exterior de su local, al término de la sesión, los resultados de la elección de que se trate, con lo cual se dará por concluida la sesión.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+###### Artículo 226
+
+bis.- Los Consejos Distritales deberán realizar nuevamente el escrutinio y cómputo cuando:
+
+I. Existan errores o inconsistencias evidentes en los distintos elementos de las actas, salvo que puedan corregirse o aclararse con otros elementos a satisfacción plena de quien lo haya solicitado;
+
+II. El número de votos nulos sea mayor a la diferencia entre los candidatos ubicados en el primero y segundo lugares en votación; o
+
+III. Todos los votos hayan sido depositados a favor de un mismo partido.
+
+Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección en el distrito y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido o coalición que postuló al segundo de los candidatos antes señalados, el Consejo Distrital deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito.
+
+Si al término del cómputo se establece que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar es igual o menor a un punto porcentual, y existe la petición expresa a que se refiere el párrafo anterior, el Consejo distrital deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto del recuento.
+
+Conforme a lo establecido en los dos párrafos inmediatos anteriores, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Distrital dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el Presidente del Consejo Distrital dará aviso inmediato al Secretario General del Instituto; ordenará la creación de grupos de trabajo integrados por los Consejeros Electorales y los Representantes de los Partidos y coaliciones, que presidirán los primeros. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
+
+Si durante el recuento de votos se encuentran en el paquete votos de una elección distinta, se contabilizarán para la elección de que se trate.
+
+El Consejero Electoral que presida cada grupo levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido y candidato.
+
+El Presidente del Consejo realizará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate.
+
+(NOTA: EL 11 DE MAYO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2010, DECLARÓ LA INVALIDEZ DEL PÁRRAFO OCTAVO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE MAYO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+LOS ERRORES CONTENIDOS EN LAS ACTAS ORIGINALES DE ESCRUTINIO Y CÓMPUTO DE CASILLA QUE SEAN CORREGIDOS POR LOS CONSEJOS DISTRITALES SIGUIENDO EL PROCEDIMIENTO ESTABLECIDO EN ESTE ARTÍCULO, NO PODRÁN INVOCARSE COMO CAUSA DE NULIDAD ANTE EL TRIBUNAL ELECTORAL.
+
+(NOTA: EL 11 DE MAYO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2010, DECLARÓ LA INVALIDEZ DEL PÁRRAFO NOVENO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE MAYO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+EN NINGÚN CASO PODRÁ SOLICITARSE AL TRIBUNAL ELECTORAL QUE REALICE RECUENTO DE VOTOS RESPECTO DE LAS CASILLAS QUE HAYAN SIDO OBJETO DE DICHO PROCEDIMIENTO EN LOS CONSEJOS DISTRITALES.
+
+Las disposiciones contenidas en el presente artículo para el recuento parcial y total de votos en los Consejos Distritales Electorales aplican para las elecciones de Diputados y Gobernador.
+
 ###### Artículo 227.
 
 El cómputo distrital de la votación para Gobernador, se sujetará al siguiente procedimiento:
@@ -2638,6 +2672,36 @@ V. Formulará el acta de cómputo municipal, haciendo constar en ellas las opera
 VI. Realizará la declaración de validez y la entrega de la constancia de mayoría a la planilla de candidatos a miembros del ayuntamiento que haya obtenido la mayoría de votos en la elección, verificando en cada caso que los candidatos cumplen con los requisitos de elegibilidad previstos en la Constitución Particular y en esta Ley; y
 
 VII. Fijará en el exterior de su local los resultados de la elección, con lo cual se dará por concluida la sesión.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+###### Artículo 232
+
+bis.- Los Consejos Municipal o Distrital, según se trate, deberá realizar nuevamente el escrutinio y cómputo cuando:
+
+I. Existan errores o inconsistencias en los distintos elementos de las actas, salvo que puedan corregirse o aclararse con otros elementos a satisfacción plena de quien lo haya solicitado;
+
+II. El número de votos nulos sea mayor a la diferencia entre los candidatos ubicados en el primero y segundo lugares en votación; o
+
+III. Todos los votos hayan sido depositados a favor de un mismo partido.
+
+Cuando exista indicio de que la diferencia entre la planilla presuntamente ganadora de la elección en el Municipio y la que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido o coalición que postuló al segundo de los candidatos antes señalados, el Consejo Municipal deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el Municipio.
+
+Si al término del cómputo se establece que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar es igual o menor a un punto porcentual, y existe la petición expresa a que se refiere el párrafo anterior, el Consejo Municipal deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
+
+Conforme a lo establecido en los dos párrafos inmediatos anteriores, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Municipal dispondrá lo necesario para que sea realizado y que concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el Presidente del Consejo Municipal o distrital dará aviso inmediato al Secretario General del Instituto; ordenará la creación de grupos de trabajo integrados por los Consejeros Electorales y los Representantes de los Partidos y Coaliciones, que presidirán los primeros. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los Partidos Políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
+
+El Consejero Electoral que presida cada grupo levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada planilla.
+
+El Presidente del Consejo Municipal o Distrital realizará en sesión plenaria la suma de los resultados consignados en el acta de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de que se trate.
+
+(NOTA: EL 11 DE MAYO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2010, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SÉPTIMO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE MAYO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+LOS ERRORES CONTENIDOS EN LAS ACTAS ORIGINALES DE ESCRUTINIO Y CÓMPUTO DE CASILLA QUE SEAN CORREGIDOS POR LOS CONSEJOS MUNICIPALES O DISTRITALES SIGUIENDO EL PROCEDIMIENTO ESTABLECIDO EN ESTE ARTÍCULO, NO PODRÁN INVOCARSE COMO CAUSA DE NULIDAD ANTE EL TRIBUNAL ELECTORAL.
+
+(NOTA: EL 11 DE MAYO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2010, DECLARÓ LA INVALIDEZ DEL PÁRRAFO OCTAVO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE MAYO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+EN NINGÚN CASO PODRÁ SOLICITARSE AL TRIBUNAL ELECTORAL QUE REALICE RECUENTO DE VOTOS RESPECTO DE LAS CASILLAS QUE HAYAN SIDO OBJETO DE DICHO PROCEDIMIENTO EN LOS CONSEJOS MUNICIPALES O DISTRITALES.
 
 ### CAPÍTULO SEXTO. DE LA ASIGNACIÓN DE MIEMBROS DE AYUNTAMIENTOS DE REPRESENTACIÓN PROPORCIONAL
 
@@ -2812,6 +2876,18 @@ II. La suma de estos resultados constituirá el cómputo de la votación emitida
 III. El Consejo General verificará el cumplimiento de los requisitos formales de la elección y que el candidato a Gobernador que haya obtenido la mayoría de votos cumple con los requisitos de elegibilidad previstos en la Constitución Particular y en esta Ley;
 
 IV. Se harán constar en el acta circunstanciada de la sesión los resultados del cómputo, los incidentes que ocurrieren durante la misma y la declaración de validez y de elegibilidad del candidato que haya obtenido la mayoría de votos.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+###### Artículo 251
+
+bis.- Si de la sumatoria de los resultados que consten en las actas de cómputo distrital de todos los distritos se establece que la diferencia entre el candidato presunto ganador de la elección en la entidad y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual de la votación emitida en el Estado, y existe la petición expresa del representante del partido o coalición que postuló al segundo de los candidatos antes señalados, el Consejo General deberá proceder a realizar el recuento de votos en la totalidad de las casillas, en todo caso se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
+
+Conforme a lo establecido en el párrafo anterior, para realizar el recuento total de votos respecto de la elección de Gobernador, el Consejo General dispondrá lo necesario para que sea concluido antes del tercer domingo posterior a la Jornada Electoral. Para tales efectos, el Consejo General ordenará la creación de grupos de trabajo en cada distrito electoral. Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
+
+Quien presida cada grupo levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada partido y candidato.
+
+El Pleno del Consejo realizará la suma de los resultados consignados en las actas de cada grupo de trabajo y asentará el resultado en el acta final de escrutinio y cómputo de la elección de Gobernador.
 
 ## TÍTULO QUINTO. INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
@@ -3354,3 +3430,11 @@ P.O. 27 DE NOVIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 15 DE MARZO DE 2010.
+
+Artículo Único.- El Artículo Primero del presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+ARTICULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
