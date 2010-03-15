@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2009-03-03"
+last_updated: "2010-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2010.
 
-Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
+Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
 DECRETO NÚMERO: 139. LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
 
@@ -943,9 +943,9 @@ IX. Proponer al Ayuntamiento, los nombramientos del Secretario General del Ayunt
 
 X. Nombrar y remover a los servidores públicos municipales cuya designación no sea facultad exclusiva del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
 
-XI. Rendir al Ayuntamiento, entre el 20 7 el 29 de septiembre de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal. Dicha sesión será pública y solemne;
+XI. Rendir al Ayuntamiento, entre el 6 y el 14 de septiembre de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal. Dicha sesión será pública y solemne;
 
 XII. Proponer al Ayuntamiento, el número y composición de las diversas Comisiones que deberán constituirse en el Ayuntamiento;
 
@@ -1175,7 +1175,7 @@ Procede la revocación del mandato a algunos de los miembros de un Ayuntamiento,
 
 I. Se deje de asistir o de celebrar, sin causa oportuna y debidamente justificada ante el pleno del propio Ayuntamiento, a tres o mas de sesiones ordinarias y extraordinarias que el cabildo celebre o deba celebrar en su caso, en el lapso de sesenta días naturales;
 
-II. Se pierda la calidad de Vecino del Municipio, en términos del ultimo párrafo del Artículo 136 de la Constitución Política del Estado;
+II. Se pierda la calidad de Vecino del Municipio, en términos del ultimo parrafo del Artículo 136 de la Constitución Política del Estado;
 
 III. Reiteradamente se deje de cumplir con las facultades y obligaciones que le señale esta Ley al cargo para el que fue o fueron electos;
 
@@ -2692,3 +2692,21 @@ Los presidentes Municipales que se encuentran en funciones, rendirán su primer,
 TRANSITORIO:
 
 ÚNICO.- Publíquese el decreto que en su caso se expida en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 15 DE MARZO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+El segundo informe sobre el estado que guarda la administración pública municipal que deban rendir los Presidentes Municipales en funciones, por única ocasión, tendrá lugar entre el 17 y el 21 de marzo de 2010, asimismo, el tercer informe que tengan que realizar los Presidentes Municipales en funciones, tendrá lugar entre el 1º y el 9 de abril de 2011.
+
+###### ARTÍCULO TERCERO.
+
+El primer informe sobre el estado que guarda la administración pública municipal que deban rendir los Presidentes Municipales que resulten electos el primer domingo de julio del año 2010, se rendirán entre el 6 y el 14 de septiembre del año 2012.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
