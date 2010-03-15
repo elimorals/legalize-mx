@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-acceso-a-la-informacion-publica-gubernamental-698
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-12"
-last_updated: "2009-08-12"
+last_updated: "2010-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 12 de agosto de 2009.
 
@@ -1025,7 +1025,9 @@ II.- El sujeto obligado a quien se dirija;
 
 III.- La descripción de la información que se solicita anexando en su caso cualquier dato que facilite su localización;
 
-IV.- La dirección para recibir la información solicitada o las notificaciones que correspondan. Las notificaciones podrán hacerse a través de medios electrónicos, si así lo autoriza el solicitante; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+IV.- El domicilio o medio para recibir la información solicitada o las notificaciones que correspondan, las cuales podrán hacerse a través de medios electrónicos, si así lo autoriza el solicitante; y
 
 V.- La modalidad en la que prefiere se otorgue el acceso a la información, la cual podrá ser mediante consulta directa, copias simples, certificadas u otro tipo de medio electrónico. El sujeto obligado podrá entregar la información en una modalidad distinta a la solicitada cuando exista causa justificada.
 
@@ -1051,7 +1053,13 @@ La respuesta a una solicitud de acceso deberá ser notificada al interesado en e
 
 Este plazo podrá prorrogarse por un periodo igual cuando no sea posible dar respuesta en dicho término. El sujeto obligado deberá comunicar al solicitante, antes del vencimiento del plazo, las razones por las cuales hará uso de la prórroga. No podrán invocarse como causales de ampliación del plazo motivos que supongan negligencia o descuido del sujeto obligado en el desahogo de la solicitud.
 
-Las notificaciones a las solicitudes de información se realizaran por conducto de una tabla de avisos, instalada en lugar visible del recinto oficial del sujeto obligado, por vía electrónica o a través del sistema electrónico autorizado.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
+Las notificaciones relativas a las solicitudes de información se realizarán a través del sistema electrónico establecido por el sujeto obligado o por conducto de la dirección electrónica proporcionada por el solicitante. En caso de no haberse establecido uno, ni proporcionado la otra, las notificaciones relativas a las solicitudes de información serán personales y se harán por medio de instructivo, practicándose en el domicilio que el interesado señale para tal efecto.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+El domicilio designado para oír y recibir notificaciones deberá estar ubicado dentro del Municipio en que reside el sujeto obligado. Cuando el interesado no señale domicilio en los términos antes señalados o éste no exista o sea incierto, las notificaciones se practicarán por medio de instructivo que se fijará en la tabla de avisos del sujeto obligado o en lugar visible del recinto que ocupe.
 
 Únicamente se harán de manera personal en el domicilio señalado para tal efecto, por única vez y por correo certificado, las notificaciones relativas al requerimiento de aclaración. Para efectos de cómputo se entenderá presentada en tiempo la solicitud aclaratoria o la notificación al tercero perjudicado cuando se deposite la pieza en correo dentro del plazo que este Reglamento señala.
 
@@ -1404,3 +1412,15 @@ PRESIDENTE MUNICIPAL
 LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRASCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE MARZO DE 2010.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Son de aprobarse las REFORMAS POR MODIFICACIÓN Y ADICIÓN AL REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L., en la forma y términos anteriormente señalados, mismas que entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Mándese publicar el presente acuerdo en el Periódico Oficial del Estado. Hágase posteriormente su difusión a través de la Gaceta Municipal.
+
+TERCERO. Gírense las instrucciones al C. lng. Mauricio Fernández Garza, Presidente Municipal y al C. Lic. Fernando Canales Stelzer, Secretario del Republicano Ayuntamiento, para el exacto cumplimiento del presente acuerdo.
