@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-notariado-del-estado-de-sinaloa-12485"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-14"
-last_updated: "1998-10-14"
+last_updated: "2010-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DEL NOTARIADO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 1998.
 
@@ -41,13 +41,21 @@ LEY DEL NOTARIADO DEL ESTADO DE SINALOA
 
 ### CAPITULO PRIMERO. DEL NOTARIO Y SUS FUNCIONES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 1°.
 
-El ejercicio del Notariado en el Estado de Sinaloa, es una función de orden público que corresponde al Estado, quien la encomienda a profesionales del derecho, en virtud del Fíat que para tal efecto expida el Titular del Poder Ejecutivo, en los términos de la presente Ley.
+El ejercicio del Notariado en el Estado de Sinaloa, es una función de orden e interés público que corresponde al Estado, quien la ejerce por conducto de profesionales del derecho, en virtud del Fiat que para tal efecto expida el Titular del Poder Ejecutivo, en los términos de la presente Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 2°.
 
-El Notario es un Licenciado en Derecho investido de fe pública, facultado para autenticar actos y hechos jurídicos, y para dar forma en los términos de Ley a los instrumentos en que los mismos se consignen.
+El Notario es un Licenciado en Derecho investido por el Estado de fe pública, facultado para autenticar actos y hechos jurídicos, y para dar forma en los términos de Ley a los instrumentos en que los mismos se consignen.
 
 La formulación de los instrumentos solo se hará a petición de parte o de autoridad competente.
 
@@ -89,7 +97,11 @@ III. Si los interesados no le anticipan los gastos y honorarios; pero si se trat
 
 Las funciones del Notario son incompatibles:
 
-I. Con todo empleo, comisión o cargo público remunerado por la federación, estado o municipio o de sus organismos descentralizados, con las excepciones que marca esta Ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+I. Con ser servidor público remunerado de la Federación, del Estado o de los municipios, sea en cualquiera de los poderes públicos, en la administración pública centralizada o paraestatal, o en los órganos constitucionales autónomos o de cualquier otra naturaleza, con las excepciones que marca esta Ley. No será impedimento, ser apoderado legal, asesor o abogado de dichas entidades;
 
 II. Con puestos de elección popular;
 
@@ -105,41 +117,97 @@ I. De instrucción pública, de beneficencia pública o privada, de pensiones, c
 
 II. De tutor, curador o albacea;
 
-III. De secretario o miembro del Consejo de Administración, comisario o secretario de sociedades;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. De abogado asesor y consultor;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
 
-V. De Arbitrador o Secretario en juicios arbitrales, y
+III. De secretario o miembro del Consejo de Administración, comisario o secretario de sociedades, pudiendo incluso formalizar los documentos que se originen en las asambleas de accionistas o juntas de consejo, sin que ello sea motivo de nulidad;
 
-VI. De Magistrado o miembro integrante de un organismo electoral. El Notario en estos supuestos, no podrá actuar como fedatario en actos relacionados con el proceso electoral.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+IV. De abogado, asesor o consultor;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+V. De árbitro o de mediador y que conozcan de los asuntos que le soliciten los interesados conforme a los compromisos respectivos, observando para su trámite las formas y restricciones que prevea el Código de Procedimientos Civiles para el Estado de Sinaloa, el Código de Comercio y otras leyes; y,
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+VI. De Secretario en juicios arbitrales.
 
 ###### ARTICULO 9°.
 
 El Notario podrá ejercer la profesión de abogado en asuntos que no sean incompatibles con su función notarial y con las excepciones que marca la ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 10.
 
-Los Notarios deberán tener su residencia y habitación permanente y efectiva, así como su oficina notarial única dentro del municipio para el que fue autorizado, en el lugar de su sede notarial, y sólo podrán actuar en los términos del artículo segundo de esta Ley, dentro de la demarcación de su adscripción. Se prohíbe al Notario mantener oficina diversa a la registrada ante las autoridades y organizaciones señaladas en el artículo 19, fracción VI de esta Ley.
+Los Notarios deberán tener su residencia y habitación permanente y efectiva, así como su oficina notarial única dentro del municipio para el que fue autorizado y, por regla general, sólo deberá actuar en los términos del artículo 2° de esta Ley dentro del municipio para el que fue autorizado, por lo tanto y salvo lo que se previene en el párrafo siguiente, se prohíbe al Notario actuar y tener oficina diversa a la señalada en este artículo.
+
+No obstante lo señalado precedentemente, cuando una de las partes o interesado en un acto jurídico bilateral, tenga su domicilio en un municipio distinto al de la adscripción del Notario, éste podrá trasladarse a cualquier parte del Estado para dar fe del consentimiento y formalizar el acto jurídico de que se trate.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 11.
 
-En cada municipio habrá un Notario por cada veinte mil habitantes conforme a la información del Instituto Nacional de Estadística, Geografía e Informática u organismo oficial correspondiente y su competencia territorial quedará circunscrita a la división territorial del municipio. El Ejecutivo del Estado autorizará la creación y funcionamiento de las notarías señalándoles sus respectivas circunscripciones. Sin embargo, los actos y hechos jurídicos que autentiquen, podrán referirse a otras circunscripciones, excepto la fe de hechos.
+EI Titular del Poder Ejecutivo determinará la creación de tantas Notarías como se estimen necesarias, atendiendo a los factores siguientes:
+
+I. Población beneficiada y tendencias de su crecimiento;
+
+II. Estimaciones sobre las necesidades notariales de la población;
+
+III. Condiciones socioeconómicas del Municipio;
+
+IV. Frecuencia y facilidades de las transacciones;
+
+V. Número de actos inscritos en el Registro Público de la Propiedad del municipio correspondiente; y,
+
+VI. Por muerte o incapacidad permanente de algún Notario en ejercicio, en una determinada jurisdicción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 12.
 
-En los municipios que se cuente con una sola Notaría y su encargado faltare accidentalmente, podrá actuar por receptoría el Juez de Primera Instancia de su misma jurisdicción. También se entenderá que el Notario falta accidentalmente, cuando se esté en los casos previstos en los artículos 5° y 6° de esta Ley.
+La competencia territorial del Notario quedará circunscrita al municipio en que se le haya autorizado y sólo por excepción, y en los casos previstos por el Artículo 10 de esta Ley, podrá actuar fuera de su municipio pero dentro del Estado de Sinaloa.
+
+Los actos y hechos jurídicos que autentiquen, salvo la fe de hechos, podrán referirse a cualquier parte del territorio nacional o de cualquier otro país con el que México tenga relaciones diplomáticas, ello sin perjuicio de que se cumpla con las disposiciones legales aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 13.
 
-En la actuación por receptoría, el Juez de Primera Instancia queda investido de todas las funciones encomendadas al Notario. Para este efecto, la Secretaría General de Gobierno autorizará el protocolo en que actuará el Juez.
+El Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, podrá ampliar transitoriamente la jurisdicción territorial notarial, en los casos siguientes:
+
+I. En los municipios donde no exista Notario o habiendo uno se encuentre éste bajo licencia por un término mayor de tres meses, suspenso o impedido, podrá autorizar a alguno de los Notarios de cualquiera de los municipios colindantes para ejercer las funciones notariales; y,
+
+II. En los municipios que se cuente con una sola Notaría y su titular faltare accidentalmente, podrá autorizar a alguno de los Notarios de cualquiera de los municipios colindantes para ejercer las funciones notariales. También se entenderá que el Notario falta accidentalmente, cuando se esté en los casos previstos en los Artículos 5° y 6° de esta Ley.
+
+Cuando en algún municipio no exista Notario por cualquier circunstancia y en los municipios colindantes no haya ningún Notario disponible o capacitado y habilitado para actuar, el Juez de Primera Instancia respectivo podrá desempeñar las funciones notariales, siempre que éste haya realizado cuando menos la prueba práctica a que se refiere esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 14.
 
-En los municipios donde no exista Notario, o habiendo uno que esté bajo licencia por un término mayor de tres meses, suspenso o impedido, el Juez de Primera Instancia de su misma jurisdicción podrá ejercer las funciones notariales en los términos y con la amplitud de los Notarios.
+Quien carezca de autorización para el ejercicio notarial no podrá ostentarse de manera alguna como Notario Público, ni ofrecer servicios propios a dicha función, así como tampoco instalar oficinas para tal fin.
 
-El Ejecutivo del Estado extenderá la autorización necesaria, una vez otorgada la garantía que exige el artículo 19 fracción V de esta Ley, la cual podrá ser dispensada.
-
-Cuando el Notario reanude el ejercicio de sus funciones, el Juez cesará de actuar, debiendo enviar su protocolo y anexos al Archivo General de Notarías.
+La infracción a esta disposición será punible como delito de usurpación de profesiones en los términos del Artículo 272 del Código Penal para el Estado de Sinaloa.
 
 ###### ARTICULO 15.
 
@@ -161,11 +229,19 @@ Los Notarios deben cumplir con las obligaciones que les imponen ésta y las dem�
 
 El Consejo de Notarios del Estado de Sinaloa en el ámbito de su competencia vigilará igualmente el cumplimiento de esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 19.
 
-Para que el Notario pueda ejercer, debe de cumplir con los requisitos siguientes:
+Para que el Notario pueda ejercer, deberá cumplir con los siguientes requisitos:
 
-I. Otorgar la protesta ante el Ejecutivo del Estado, o el servidor público en el que se delegue esta facultad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+I. Otorgar la protesta ante el Ejecutivo del Estado o el servidor público en el que se delegue dicha facultad; este requisito se dará por cumplido insertando la protesta en el aviso de inicio de sus funciones tal como se menciona posteriormente;
 
 II. Adquirir a su costa el Protocolo y sello;
 
@@ -173,195 +249,321 @@ III. Registrar el sello, su firma, firma abreviada y el domicilio de su oficina 
 
 IV. Establecer oficina única para el desempeño de su cargo en el lugar de su adscripción donde tendrá su residencia efectiva;
 
-V. Otorgar garantía ante la Secretaría General de Gobierno por el equivalente a mil ciento cincuenta salarios mínimo general vigente en el Estado, pudiéndose optar entre fianza, hipoteca o depósito. El Notario podrá asimismo substituir en cualquier tiempo, una garantía por otra, con aviso y aprobación del Ejecutivo del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI. Iniciar funciones en un término de noventa días a partir de la fecha de recepción de su patente de ejercicio, y dar aviso de todo ello a la Secretaría General de Gobierno, al Archivo General de Notarías y al Consejo de Notarios;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+V. Durante los primeros cinco años de su ejercicio notarial, otorgar una garantía para el desempeño responsable de su actuación, equivalente a 1,150 días de salario mínimo vigente en el Estado; esta garantía podrá otorgarse mediante fianza, prenda, hipoteca o deposito en efectivo ante la Secretaría de Administración y Finanzas del Gobierno del Estado.
+
+Después de los cinco años iniciales de ejercicio continuo de las funciones notariales, si el Notario no fuere sujeto de alguna reclamación económica por vía judicial o administrativa, no tendrá la obligación de otorgar la garantía a que se refiere este artículo.
+
+Independientemente de lo señalado anteriormente, el Notario será responsable de los daños y perjuicios que cause con motivo del ejercicio de sus funciones cuando actué violando ésta u otra Ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+VI. Iniciar funciones en un término no mayor de noventa días a partir de la fecha de recepción de su patente de ejercicio, y dar aviso de todo ello a la Secretaría General de Gobierno, al Archivo General de Notarías y al Consejo de Notarios;
 
 VII. Ser miembro activo del Consejo de Notarios, y
 
-VIII. Cumplir con los programas académicos que fije el Consejo de Notarios.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El Notario autorizado deberá publicar la iniciación de sus funciones de Notario en el Periódico Oficial del Estado y en uno de los de mayor circulación en la demarcación asignada. Corresponderá al Gobierno del Estado, publicar la cancelación o suspensión de su ejercicio.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+VIII. Capacitarse en los programas académicos que fije el Ejecutivo del Estado o el Consejo de Notarios, dentro del Estado de Sinaloa; por acuerdo del Ejecutivo del Estado podrán considerarse como cumplimiento de los programas académicos, los cursos, talleres o seminarios que organicen los Consejos de Notarios del Estado Sinaloa y la Asociación Nacional del Notariado Mexicano, A. C., Colegio Notarial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
+El Notario autorizado deberá publicar la iniciación de sus funciones de Notario en el Periódico Oficial "El Estado de Sinaloa" y en uno de los de mayor circulación en la demarcación asignada. Corresponderá al Poder Ejecutivo del Estado, publicar la cancelación o suspensión de su ejercicio.
 
 ###### ARTICULO 20.
 
 El Notario deberá desempeñar la función pública en la Notaría a su cargo y constituirse en los lugares en donde resulte necesaria su presencia dentro de su circunscripción, en virtud de la naturaleza del acto o del hecho que se pretenda pasar ante su fe.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 21.
 
-El Ejecutivo del Estado podrá autorizar, previa solicitud del interesado, por causas que se estimen justificadas y exista vacante, el cambio de jurisdicción para el ejercicio notarial, expidiendo al efecto una nueva autorización.
+El Ejecutivo del Estado, por causas que estime justificadas, podrá autorizar el cambio de jurisdicción para el ejercicio notarial, previa solicitud del interesado, expidiendo al efecto una nueva autorización.
 
-### CAPITULO SEGUNDO. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MARZO DE 2010)</small>
+
+### CAPITULO SEGUNDO. DE LOS REQUISITOS Y PROCEDIMIENTO PARA PRESENTACION DEL EXAMEN DE CALIFICACION PARA SER NOTARIO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 22.
 
-Son aspirantes al ejercicio del Notariado, los Licenciados en Derecho que obtengan del Ejecutivo del Estado la autorización que los acredite como tales, en los términos previstos por esta Ley.
+Cuando en términos del Artículo 11 de esta Ley, hubiere necesidad de crear una o más Notarías, o en su caso cubrir una o más vacantes en determinada circunscripción, el Ejecutivo del Estado mediante Decreto Administrativo, hará publicar la convocatoria para que quienes reúnan los requisitos que marca esta Ley presenten el examen de calificación. Esta convocatoria será publicada en uno de los periódicos de mayor circulación en la entidad y en el Periódico Oficial "El Estado de Sinaloa".
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 23.
 
-Para ser aspirante al ejercicio del Notariado se requiere:
+Una vez expedida la convocatoria, el interesado en presentar el examen de calificación para ser Notario, en el plazo de quince días hábiles contado a partir de su publicación, deberá acudir ante la Secretaría General de Gobierno a presentar su solicitud, exhibiendo y acompañando todos los documentos que acrediten el cumplimiento de los requisitos de Ley, para ser admitidos en el examen de calificación.
 
-I. Ser mexicano, sinaloense en los términos de la Constitución Política del Estado, en pleno ejercicio de sus derechos de ciudadano, tener treinta años cumplidos y acreditar buena conducta;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Ser Licenciado en Derecho, con la correspondiente Cédula Profesional, y acreditar cuando menos cinco años de práctica profesional, a partir de la fecha de expedición del título;
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
-III. Comprobar que por lo menos durante dos años ininterrumpidos e inmediatamente anteriores a la solicitud, ha realizado prácticas notariales bajo la dirección y responsabilidad de algún Notario del Estado. La práctica notarial consistirá en auxiliar al Notario ante quien la realice, en la administración de la Notaría, proyectar textos de actos jurídicos, e intervenir en gestiones notariales administrativas y llevar un libro donde asiente con su puño y letra, treinta proyectos de escrituras de naturaleza jurídica diversa. Esta práctica será siempre supervisada por el Consejo de Notarios;
+###### ARTICULO 24.
 
-IV. Asistir a los cursos de capacitación que señale el Consejo de Notarios;
+El interesado en presentar el examen de calificación para que el Titular del Poder Ejecutivo lo pueda designar como Notario deberá haber cumplido con lo siguiente:
+
+I. Ser mexicano, sinaloense en los términos de la Constitución Política del Estado, en pleno ejercicio de sus derechos de ciudadano y con residencia efectiva y permanente en la entidad de cuando menos 10 años inmediatos a la publicación de la convocatoria;
+
+II. Tener cuando menos treinta años cumplidos;
+
+III. Ser Licenciado en Derecho, con la correspondiente cédula profesional, y acreditar cuando menos cinco años de práctica profesional, a partir de la fecha de expedición del título;
+
+IV. Comprobar que por lo menos durante dos años ininterrumpidos y anteriores a la convocatoria, ha realizado prácticas notariales bajo la dirección y responsabilidad de algún Notario del Estado. La práctica notarial consistirá en auxiliar al Notario ante quien la realice, en la administración de la Notaría, proyectar textos de actos jurídicos, intervenir en gestiones notariales administrativas y engrosar un legajo que contenga cuando menos treinta proyectos de escrituras de naturaleza jurídica que formarán el libro de práctica a que se refiere el Artículo 25.
+
+De haberse realizado las prácticas notariales con anterioridad al plazo señalado en el párrafo anterior, los interesados deberán acreditar dicha circunstancia y además que están actualizados con la asistencia a programas académicos organizados por el Ejecutivo del Estado y el Colegio de Notarios del Estado de Sinaloa;
 
 V. No padecer enfermedad, ni impedimento físico o intelectual permanente que obstaculice o limite el ejercicio de las funciones notariales;
 
 VI. No haber sido condenado a pena corporal por delito doloso;
 
-VII. No haber sido destituido del ejercicio del notariado dentro de la República;
+VII. No haber sido destituido del ejercicio del Notariado dentro de la Republica;
 
 VIII. No ser ministro de algún culto religioso;
 
-IX. Solicitar el examen al Ejecutivo del Estado, sustentarlo y aprobarlo; y
+IX. Inscribirse para presentar el examen de calificación en los términos que lo determine la convocatoria;
 
-X.- No tener interés familiar o de negocios con los miembros del jurado calificador.
+X. No tener interés familiar o de negocios con los miembros del Jurado de Examen; y,
 
-El Ejecutivo del Estado solicitará a las autoridades o instituciones correspondientes, los informes y constancias necesarias para verificar si el interesado cumple con los requisitos anteriores, las que tendrán obligación de proporcionarlas, así como al Consejo de Notarios cuando lo pidiere.
+XI. No estar comprendido dentro de los supuestos de incompatibilidad que contempla el artículo 7.
 
-###### ARTICULO 24.
+El Ejecutivo del Estado podrá solicitar a las autoridades o instituciones correspondientes, los informes y constancias necesarias para verificar si el interesado cumple con los requisitos anteriores, las que tendrán obligación de proporcionarlos.
 
-Los requisitos señalados en el artículo anterior se acreditarán en la siguiente forma:
+Para efectos de la fracción IV de este Artículo, el Notario bajo cuya dirección y responsabilidad realice prácticas notariales el Licenciado en Derecho interesado en presentar el examen de calificación para notario, deberá avisar por escrito sobre el inicio y la conclusión de la realización de las referidas prácticas notariales, y el Ejecutivo del Estado por conducto del Archivo General de Notarías deberá expedir la certificación sobre dicha circunstancia al interesado.
 
-La calidad de ciudadano y la edad, con copia certificada del acta correspondiente del Registro Civil; el estado de salud, con certificado de dos médicos legalmente autorizados para el ejercicio de su profesión y con título debidamente registrado; la buena conducta, los derechos de ciudadanía y el estado seglar, con certificado expedido por el Ejecutivo del Estado con fundamento en las actuaciones originales de la Información Testimonial de que trata el artículo siguiente, o en copia certificada de las mismas; la calidad de profesional, con la presentación del título original; la práctica, con el oficio original de contestación que el Ejecutivo del Estado dé al Notario, en relación a la iniciación de la práctica hecha por el aspirante en su Notaría, con el libro de práctica y con el certificado que en forma conjunta otorguen el propio Notario y el Consejo de Notarios; la asistencia a los cursos de capacitación, con la constancia que al respecto expida el Consejo de Notarios.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 25.
 
-Las diligencias de Información Testimonial de dos personas idóneas, se practicarán ante el Juez de Primera Instancia del Ramo Civil del lugar en que el interesado hubiere hecho su práctica notarial, con la asistencia personal de un representante del Ejecutivo del Estado, que será designado por la Secretaría General de Gobierno y de un representante del Consejo de Notarios, previo emplazamiento que se les haga para exponer ante el órgano jurisdiccional las razones de anuencia u oposición que tenga y presente las pruebas que las justifiquen. En caso de que no asistan el representante del Ejecutivo del Estado o el representante del Consejo de Notarios, la diligencia se realizará y se considerará que éstos dan su anuencia.
+Los requisitos señalados en el artículo anterior se acreditarán en la siguiente forma:
 
-Cuando las diligencias se practicaren en otro lugar del Estado, el Consejo de Notarios será emplazado por los medios que fijan las leyes procesales con la debida anticipación para que pueda remitir su informe al Juez, pudiendo asistir personalmente o delegar su representación en un Notario que concurra.
+La calidad de ciudadano y la edad, con copia certificada del acta de nacimiento; el estado de salud, con certificado de dos médicos legalmente autorizados para el ejercicio de su profesión y con título debidamente registrado; los derechos de ciudadanía y la residencia con constancia expedida por la autoridad municipal correspondiente; el estado seglar con escrito signado por el interesado bajo protesta de decir verdad; la calidad de profesional, con la presentación de copia certificada del título y cédula profesional; la práctica notarial con la certificación original expedida por el Archivo General de Notarías, con el libro de práctica y con el certificado que en forma conjunta otorgue el propio Notario.
 
-El promovente deberá citar el nombre y domicilio de los testigos en su escrito inicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El representante del Gobierno y el Consejo de Notarios podrán rendir pruebas en contrario y oponerse a los testimonios por cualquier circunstancia que en su concepto afecte su credibilidad.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 26.
 
-Ninguno de los requisitos que se fijan en los artículos anteriores es dispensable.
+Ninguno de los requisitos fijados en los artículos anteriores, es dispensable.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 27.
 
-El aspirante al ejercicio del Notariado presentará solicitud al Gobernador del Estado, por conducto de la Secretaría General de Gobierno, acreditando cumplir con los requisitos de Ley.
+La Secretaría General de Gobierno, una vez verificado que se ha cumplido con todos los requisitos por parte del interesado, extenderá la certificación para la presentación del examen correspondiente, en los términos que determine la convocatoria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 28.
 
-La Secretaría General de Gobierno, dará vista al Consejo de Notarios, quien verificará que se han satisfecho los requisitos que señala esta Ley. Realizada la verificación se dará cuenta al Ejecutivo del Estado para que, si lo estima pertinente autorice la presentación del examen correspondiente.
+En la convocatoria de referencia, deberá indicarse la oficina donde habrá de presentarse la documentación, así como el periodo dentro del cual se realizarán los exámenes.
 
-Dentro de los quince días hábiles siguientes a la recepción del oficio a que se refiere el párrafo anterior, la Secretaría General de Gobierno señalará día, hora y lugar para la realización del examen, haciéndolo del conocimiento del Consejo de Notarios y del interesado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 29.
 
-El jurado de examen estará integrado por cinco sinodales: un representante del Ejecutivo del Estado que deberá ser Licenciado en Derecho; un integrante de la Directiva del Consejo de Notarios y tres Notarios nombrados por el mismo Consejo. El representante del Ejecutivo será el Presidente y uno de los designados por el Consejo de Notarios actuará como Secretario.
+El Jurado de Examen estará integrado por los sinodales siguientes:
+
+I. El Secretario General de Gobierno o un representante designado por él, quien presidirá el jurado;
+
+II. El titular del área de asuntos jurídicos de la Secretaría General de Gobierno;
+
+III. EI Director del Archivo General de Notarías, quien también fungirá como Secretario;
+
+IV. Un Notario Público designado por la Junta Directiva del Consejo de Notarios; y,
+
+V. Un Notario designado por el sustentante.
+
+Por cada sinodal propietario se designará un suplente, quien integrará el Jurado solo en ausencia de aquél.
+
+En el caso de que no se hagan las designaciones a que se refieren las fracciones IV y V que anteceden, la Secretaría General de Gobierno podrá designarlos como integrantes del Jurado, escogiendo a cualquier Notario en ejercicio en el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 30.
 
-El examen para la obtención de la autorización de aspirante al ejercicio del Notariado, consistirá en dos pruebas, una práctica y una teórica.
+No podrán formar parte del Jurado:
+
+I. Los parientes consanguíneos o afines del sustentante, dentro del tercer grado de parentesco consanguíneo y del primero por afinidad; y,
+
+II. Los que tengan parentesco civil con el sustentante.
+
+Los miembros del Jurado de Examen en que concurriere alguno de los impedimentos señalados, deberán excusarse de intervenir en el examen y designarse otro en su lugar.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 31.
 
-Para este examen el Consejo de Notarios, tendrá una lista de veinte temas previamente seleccionados, los que colocará en sobres. El aspirante elegirá uno de los sobres que guarden los temas, el cual será desarrollado en el tiempo señalado en el artículo siguiente.
+El examen de calificación para estar en posibilidad de ser designado como Notario en caso de vacante o de nueva creación, consistirá en dos pruebas, una práctica y otra teórica, ambas con rigor académico y profesional.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 32.
 
-Cinco horas antes de la fijada para la celebración del examen teórico, el sustentante comparecerá a presentar el examen práctico, ante un representante del Ejecutivo y otro del Consejo de Notarios y sorteará el tema; el representante del Consejo abrirá el pliego, entregará el tema al interesado y vigilarán que éste, sin el auxilio de personas extrañas aunque provisto de códigos, volúmenes de consulta, de su libro de práctica notarial y una mecanógrafa, proceda al desarrollo del tema, así como a la resolución de un caso que se le asigne en el acto.
+La Secretaría General de Gobierno definirá oportunamente el lugar, día y hora para la celebración del examen de calificación, dentro del periodo que se señale en la convocatoria y lo hará del conocimiento de los interesados y de los integrantes del Jurado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 33.
 
-A la hora fijada para la celebración del examen teórico se instalará el Jurado y el sustentante procederá a dar lectura a su trabajo. A continuación, cada uno de los miembros del Jurado procederá a interrogarle ampliamente, no sólo sobre el caso jurídico notarial a que se refiere el tema, sino sobre puntos de Derecho en general, técnica notarial y sobre las escrituras elaboradas durante la práctica notarial.
+El Ejecutivo del Estado definirá los temas e interrogatorios que deberán ser incluidos en el examen de calificación de los interesados, para lo cual e independientemente de los temas e interrogatorios que se haga llegar de cualquier Institución Pública, por conducto de la Secretaría General de Gobierno solicitará a la Junta Directiva del Consejo de Notarios, una propuesta de temas y cuestionarios.
+
+Los temas y cuestionarios elegidos cada uno se depositara en sobre cerrado que quedaran guardados en el secreto de la Secretaria General de Gobierno, que enumerará, sin señalar el contenido, para los efectos que se mencionan en el párrafo siguiente.
+
+El interesado elegirá uno de los sobres que guarden los temas y cuestionarios y lo desarrollará en el tiempo señalado en el Artículo siguiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 34.
 
-No podrán formar parte del Jurado:
+Para la aplicación y celebración de la prueba práctica se dispondrá de hasta cinco horas corridas, el sustentante comparecerá a presentarla ante un representante del Ejecutivo y otro del Consejo de Notarios que asista y se sorteará el tema; el representante del Consejo de Notarios abrirá el pliego, entregará el tema al interesado y vigilará que éste, sin el auxilio de personas extrañas aunque provisto de códigos, volúmenes de consulta, de su libro de práctica notarial y una mecanógrafa si la requiriere, proceda al desarrollo del tema, así como a la resolución de un caso que se le asigne en el acto por el representante del Ejecutivo, bajo la vigilancia de los representantes antes referidos.
 
-I. Los Notarios en cuya Notaría realizó su práctica el sustentante;
+Al concluirse el término, los representantes del Ejecutivo y del Consejo de Notarios recibirán los trabajos realizados, los cuales serán colocados en sobres cerrados, firmados por ellos y por el sustentante y se entregarán al Secretario del Jurado.
 
-II. Los parientes consanguíneos o afines del sustentante, dentro del tercer grado de parentesco consanguíneo y del primero por afinidad, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Los que tengan parentesco civil con el sustentante.
-
-Los miembros del Jurado en que concurriere alguno de los impedimentos señalados, deberán excusarse de intervenir en el examen.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 35.
 
-Al hacerse la calificación del instrumento redactado, se tomará en cuenta no sólo la parte jurídica, sino también la redacción gramatical en lo que se refiere a claridad, precisión del lenguaje, así como la competencia que demuestre el examinado al responder las preguntas formuladas por el Jurado.
+La prueba teórica se celebrará el día, hora y lugar definido por la Secretaría General de Gobierno, para lo cual, se instalará el Jurado de Examen. Acto seguido, el sustentante procederá a dar lectura al tema que haya desarrollado por escrito, o bien, a petición del Jurado podrá explicarlo haciendo una síntesis y a continuación cada uno de los miembros del Jurado de Examen procederá a interrogarle ampliamente, no sólo sobre el caso jurídico notarial a que se refiere el tema, sino sobre puntos de derecho en general, técnica notarial y sobre los proyectos de escrituras elaboradas durante la práctica notarial.
+
+Quien no se presente oportunamente a la prueba, perderá su derecho a este examen de calificación y por ende a seguir en el procedimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 36.
 
-El Jurado resolverá sobre la aprobación o no aprobación del sustentante en escrutinio secreto. La mayoría de votos en sentido aprobatorio será suficiente para extender la autorización de aspirante, y si el jurado vota por la no aprobación del sustentante, no se podrá conceder nuevo examen a éste, sino después de transcurrido un año desde la celebración del mismo.
+Al hacerse la calificación del instrumento redactado, se tomará en cuenta no sólo la parte jurídica, sino también la redacción gramatical en lo que se refiere a claridad, precisión del lenguaje, así como la competencia que demuestre el examinado al responder las preguntas formuladas por el Jurado de Examen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 37.
 
-El Secretario levantará el acta del examen, que deberá ser firmada por todos los integrantes del Jurado. El Presidente del mismo hará llegar al Ejecutivo del Estado copia certificada del acta para la integración del expediente que corresponda.
+Concluida la prueba teórica del sustentante, los integrantes del Jurado de Examen reunidos en pleno, determinarán por mayoría sobre la calificación que se otorgará al sustentante, cuya mínima para aprobar será la de 80 puntos.
+
+El sustentante que por cualquier causa no haya concluido las dos pruebas, se considerará que no alcanzó la calificación mínima de 80 puntos.
+
+Los sustentantes que obtengan una calificación inferior a la señalada como mínima aprobatoria, o que hayan perdido su derecho al examen o que habiéndolo aprobado no se les otorgue el fíat notarial, podrán participar cuando se publique una nueva convocatoria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 38.
 
-Cumplidos los requisitos exigidos en los artículos anteriores, el Ejecutivo del Estado extenderá en favor del interesado, la autorización de aspirante al ejercicio del Notariado.
+El Secretario del Jurado de Examen levantará el acta con los resultados del examen de calificación, que deberá ser firmada por todos los integrantes del Jurado, remitiéndola al Ejecutivo del Estado para los efectos correspondientes, asimismo, se extenderá copia del acta al Consejo de Notarios, cuando asista el sinodal que lo represente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 39.
 
-La autorización de aspirante al ejercicio del Notariado deberá ser registrada en la Secretaría General de Gobierno, Archivo General de Notarías y en el Consejo de Notarios. Se adherirá al Libro de Registro y a la autorización respectiva, la fotografía del propio interesado.
+Si como resultado del examen de calificación, el Jurado considera que ninguno de los sustentantes alcanzó la calificación mínima aprobatoria, se informará al Titular del Poder Ejecutivo, quien de considerarlo emitirá nueva convocatoria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 40.
 
-Si extendida la autorización de aspirante aparece algún impedimento o incapacidad para el desempeño de las funciones notariales, el aspirante quedará privado del derecho para concurrir al examen de oposición para Notario.
+(DEROGADO, P.O. 15 DE MARZO DE 2010)
 
 ### CAPITULO TERCERO. DEL OTORGAMIENTO DEL FÍAT
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 41.
 
-Cuando en los términos del artículo 11 de ésta Ley, hubiere necesidad de crear una o más Notarías, en determinada circunscripción, el Ejecutivo del Estado mediante Decreto administrativo, hará publicar la convocatoria para que los aspirantes al ejercicio del Notariado que cuenten con la autorización respectiva con más de un año de antigüedad, presenten el examen de oposición. Esta convocatoria será publicada por dos veces consecutivas con intervalos de cinco días en uno de los periódicos de mayor circulación en el Estado, y en el Periódico Oficial del Estado.
+Una vez remitida por el Secretario del Jurado de Examen el acta con los resultados a que se refiere el capítulo anterior, el Titular del Ejecutivo del Estado determinará a quién o quiénes otorgará el Fíat de Notario, remitiendo la documentación a la Secretaría General de Gobierno para que realice los trámites para la expedición y entrega del Fíat Notarial.
 
-En el plazo de treinta días hábiles, contados a partir de la última publicación, los aspirantes deberán acudir ante la Secretaría General de Gobierno a presentar su solicitud para ser admitidos en el examen de oposición.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(F. DE E., P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 42.
 
-El jurado del examen se integrará en los términos del artículo 29 de la presente Ley, y no podrán formar parte de él, las personas a que se refiere el numeral 34 de esta Ley.
+El Ejecutivo del Estado al expedir el Fíat de Notario le indicará al interesado el municipio en el que se le autoriza para ejercer funciones notariales, y le asignará el número de notaría que le corresponda.
+
+El Fíat deberá ser inscrito en la Secretaría General de Gobierno, en el Archivo General de Notarías y en el Consejo de Notarios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 43.
 
-El examen de oposición, para obtener el Fíat de Notario, que en todo caso será uno por cada Notaría vacante, consistirá en dos pruebas, una práctica y una teórica, ambas con rigor académico y profesional.
+(DEROGADO, P.O. 15 DE MARZO DE 2010)
 
-La prueba práctica se celebrará en presencia de un representante del Ejecutivo y otro del Consejo de Notarios, en el lugar, día y hora que oportunamente señale la Secretaría General de Gobierno. Para esta prueba, el Consejo de Notarios tendrá una lista de veinte temas previamente seleccionados.
-
-Cada uno de los aspirantes elegirá uno de los sobres que guarden los temas, disponiendo de cinco horas corridas para el desarrollo del mismo, en forma separada y solo con el auxilio de códigos, libro de práctica notarial, volúmenes de consulta y de una mecanógrafa, bajo la vigilancia de los representantes a que se refiere el párrafo anterior. Al concluirse el término, éstos recibirán los trabajos realizados, los cuales serán colocados en sobres cerrados, firmados por ellos y por los sustentantes y se entregarán al Secretario del Jurado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 44.
 
-La prueba teórica se efectuará ante el Jurado el día, hora y en el lugar autorizado por la Secretaría General de Gobierno; los aspirantes serán examinados en orden alfabético, en grupos de cuatro como máximo. Quienes no se presenten oportunamente a la prueba, perderán su derecho a este examen de oposición.
+(DEROGADO, P.O. 15 DE MARZO DE 2010)
 
-En esta prueba, cada sustentante dará lectura a su respectivo trabajo práctico; debiendo ser interrogado por el Jurado sobre el propio trabajo y cuestiones de derecho vinculadas al ejercicio de las funciones notariales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 45.
 
-Concluida la prueba teórica de los sustentantes, el Jurado emitirá separadamente y por escrito la calificación que cada uno de sus integrantes otorgue a las pruebas práctica y teórica.
+(DEROGADO, P.O. 15 DE MARZO DE 2010)
 
-El Jurado calificará cada prueba en escala numérica del 10 al 100 y promediarán los resultados. La suma de los promedios se dividirán entre cinco para obtener la calificación final, cuyo mínimo para aprobar será el de 80 puntos. Para determinar la calificación correspondiente, se requerirá haber concluido totalmente ambas pruebas.
-
-El Jurado, en privado, determinará quien de los sustentantes aprobados resultó con mayor puntuación para recibir el Fíat de Notario.
-
-El aspirante que obtenga una calificación inferior a 80 o que haya perdido su derecho al examen, no podrá volver a presentarlo, sino después de haber transcurrido un año.
-
-El Secretario levantará el acta correspondiente que deberá, en todos los casos, ser suscrita por los integrantes del Jurado y el sustentante.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 46.
 
-Si como resultado del examen de oposición, el Jurado considera que ninguno de los sustentantes alcanzó la calificación mínima aprobatoria, se declarará desierto el concurso y se expedirá nueva convocatoria.
+(DEROGADO, P.O. 15 DE MARZO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 47.
 
-El Presidente del Jurado, una vez definido quien resultó con más altos méritos en el examen de oposición, lo dará a conocer a los participantes. Asimismo, comunicará al Ejecutivo del Estado el resultado, remitiéndole la documentación para los efectos de la expedición del Fíat Notarial.
+(DEROGADO, P.O. 15 DE MARZO DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 48.
 
-El Ejecutivo del Estado expedirá el Fíat de Notario, en un plazo que no excederá de treinta días hábiles contados a partir de la fecha de celebración del examen e indicará el municipio en el que se le autoriza para ejercer funciones notariales, y le asignará el número de notaría que le corresponda.
-
-El Fíat deberá ser inscrito en la Secretaría General de Gobierno, en el Archivo General de Notarías y en el Consejo de Notarios.
+(DEROGADO, P.O. 15 DE MARZO DE 2010)
 
 ### CAPITULO CUARTO. DE LOS CONVENIOS DE ASOCIACIÓN
 
@@ -400,6 +602,12 @@ Los Notarios autorizarán con su sello y firma autógrafa los documentos que pas
 ###### ARTICULO 55.
 
 El sello de cada Notario será circular, con diámetro de cuatro centímetros, presentará al centro el Escudo Nacional con la leyenda "ESTADOS UNIDOS MEXICANOS" y alrededor las palabras "NOTARIO PUBLICO", el número de la Notaría, el nombre y apellidos del Notario, y la mención de la jurisdicción en que ejerce el Notario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+El Notario bajo su responsabilidad podrá tener hasta dos selladores exactamente iguales entre sí.
 
 ###### ARTICULO 56.
 
@@ -445,9 +653,13 @@ Cuando el Notario deba recabar firmas fuera de la Notaría, no se sacará el Pro
 
 Igualmente, el Notario podrá redactar y autorizar en acta destacada un instrumento en la sede de la Notaría, agregándolo al apéndice, previa protocolización, en los términos del primer párrafo de este artículo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 64.
 
-Los Notarios deberán solicitar a la Secretaría General de Gobierno la autorización del número de libros que pasarán a formar parte del Protocolo a su cargo. No podrán autorizarse más de cinco libros en cada ocasión.
+Los Notarios deberán solicitar a la Secretaría General de Gobierno y ésta autorizará, el número de Libros que pasarán a formar parte del Protocolo a su cargo; no podrán autorizarse más de cinco libros en cada ocasión y el Notario los utilizará en forma progresiva siguiendo el orden y número de cada uno de los Libros.
 
 ###### ARTICULO 65.
 
@@ -461,25 +673,31 @@ El Notario no podrá asentar ningún acto jurídico en el Protocolo sin que se h
 
 Los libros del Protocolo serán uniformes, encuadernados sólidamente; constarán de trescientas páginas numeradas, y de una más al principio sin numerar, destinada al título del libro.
 
-Las hojas del libro serán de treinta y cinco centímetros de largo por veinticuatro de ancho, en su parte utilizable. Al escribirse en ellas se dejará en blanco el margen de la tercera parte hacia la izquierda, separado por medio de una línea de tinta, para asentar en dicha parte las razones o anotaciones que legalmente procedan; cuando se agote esta parte, se asentará razón de que las anotaciones se continúan en hoja por separado, especialmente dedicada al efecto, misma que se acumulará al Apéndice.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
+Las hojas de los Libros del Protocolo serán de veintiún centímetros y medio de ancho y treinta y cuatro centímetros de largo, a los márgenes izquierdo y derecho se dejará un espacio de tres centímetros delimitados con una línea impresa visible a simple vista; y en los márgenes superior e inferior un espacio de cuatro centímetros.
 
 Se dejará en blanco una franja de un centímetro y medio de ancho por el lado del doblez del libro y otra igual a la orilla de las hojas para proteger lo escrito.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 67.
 
-El Notario pondrá al margen de cada escritura:
+El Notario al pie de cada escritura o protocolización asentada en el Protocolo, después de la autorización, dejará un espacio en blanco de hasta siete centímetros para hacer las anotaciones siguientes:
 
-I. El nombre o naturaleza del acto y los nombres de los otorgantes; y
+I. La fecha de expedición del primer testimonio y a favor de quien se expide.
 
-II. Las siguientes anotaciones:
+II. Un extracto de las notas de inscripción del Registro Público de la Propiedad y del Registro Público de Comercio cuando el Notario hubiere inscrito el testimonio respectivo o se le proporcione tal información.
 
-a) La fecha de expedición del testimonio, si se expidiere, el número de hojas de que consta, el número ordinal que le corresponde y el nombre de la persona a quien se expide;
+III. La fecha de expedición del segundo o posteriores testimonios y a favor de quien se expide cuando legalmente sea procedente.
 
-b) La transcripción o extracto de las razones que anota el Registro Público al calce de los testimonios, comprendiendo la fecha, número de inscripción, del Libro y de la Sección, cuando el Notario hubiere registrado el instrumento o el interesado le haya proporcionado tales datos;
+IV. La cancelación o revocación de poderes que se le notifique en los términos de la presente Ley o del Código Civil para el Estado de Sinaloa, y que se hayan formalizado bajo su fe.
 
-c) La relación de escrituras posteriores que autorice el Notario, y
-
-d) Las demás que prevenga la Ley.
+V. Las anotaciones que indiquen las autoridades judiciales mediante sentencia firme o definitiva.
 
 ###### ARTICULO 68.
 
@@ -493,13 +711,37 @@ En los libros que forman el Protocolo deberá escribirse o imprimirse con tinta 
 
 La numeración de las escrituras y actas notariales será progresiva, sin interrumpirla de un libro a otro, aún cuando "no pase" o sea cancelado alguno de dichos instrumentos.
 
-No habrá entre un instrumento y otro, más espacio que el indispensable para las firmas y la autorización.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
+No habrá entre un instrumento y otro, más espacio que el indispensable para las firmas, la autorización del acto jurídico y las anotaciones a que se refiere el Artículo 67 de la presente Ley.
 
 El Notario podrá iniciar escrituras y actas al principio de una página y, los espacios en blanco que queden antes o después del sello de la autorización, serán cubiertos con líneas de tinta fuertemente grabadas.
 
 ###### ARTICULO 71.
 
 Cuando esté por concluirse el libro o juego de libros del Protocolo que tenga en uso el Notario, éste lo comunicará por escrito al Archivo General de Notarias y enviará el libro o juego de libros en que habrá de continuar actuando, para que sean autorizados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+De no existir inconveniente, los Libros serán autorizados dentro de los cinco días hábiles siguientes a la solicitud presentada por el Notario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+La Secretaría General de Gobierno podrá retener transitoriamente la autorización de nuevos Libros en los casos siguientes:
+
+a) Si el notario no se encuentra al corriente en la remisión de los informes y copias a que se refiere esta Ley.
+
+b) Cuando el Notario no haya remitido al Archivo General de Notarías el o los Libros del Protocolo y apéndices cuando deba de hacerlo en los términos del Artículo 78 de esta Ley.
+
+c) Cuando el Notario haya sido suspendido temporalmente en los términos de esta Ley.
+
+d) Cuando debiendo hacerlo, el Notario no haya otorgado la garantía a que se refiere esta Ley.
 
 ###### ARTICULO 72.
 
@@ -511,11 +753,13 @@ El Notario pondrá su firma y sello de autorización y comunicará al Archivo Ge
 
 A partir de la fecha en que se haga la anotación de terminación del libro a que se refiere el artículo anterior, el Notario dispondrá de un término de cuarenta y cinco días naturales para asentar la razón de cierre de cada libro en la que deberá hacer constar los instrumentos extendidos, el día en que se cierre el libro, así como los instrumentos que no pasaron, los que estén pendientes de firma o autorización numerándolos y señalando el motivo por el que están pendientes, su firma y su sello.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 74.
 
-Dentro de los treinta días hábiles siguientes a la fecha de cierre de libro, el Notario lo enviará a la Secretaría General de Gobierno, en la circunscripción de Culiacán, y en las demás, al Presidente Municipal de la que corresponda, quienes respectivamente extenderán certificación en cada libro de ser exacta la razón que cierra, autorizándolo con su firma y sello, devolviéndolo al Notario, inutilizando por medio de líneas cruzadas o perforaciones convenientes, las hojas en blanco que hubieren sobrado.
-
-Cuando el Notario tenga su Protocolo en varios libros, al cerrar uno, tendrá que cerrarlos todos para los efectos expresados.
+Dentro de los quince días hábiles siguientes a la fecha en que se hagan la anotación de las razones de terminación de un libro, el Notario remitirá al Archivo General de Notarías el informe a que se refiere el artículo 72 de esta Ley. La Secretaría General de Gobierno o el Archivo General de Notarías verificarán la veracidad de los informes que haya remitido el Notario.
 
 ###### ARTICULO 75.
 
@@ -534,6 +778,12 @@ Al principio y al fin de cada Apéndice se hará constar el número de legajos c
 ###### ARTICULO 78.
 
 Los documentos del Apéndice no podrán desglosarse y el Notario los conservará ordenados, debiendo entregarlos al Archivo General de Notarías junto con el libro del Protocolo a que correspondan; el Notario podrá conservarlos durante cinco años contados desde la fecha del cierre de libros a que se refiere el artículo 74 de esta Ley. A la expiración de este término o antes si así lo decide el Notario, deberá entregar los libros respectivos junto con sus apéndices a la mencionada dependencia en donde quedarán depositados definitivamente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+De igual manera, el Notario deberá remitir el contenido de los libros respectivos en medios electrónicos que hagan posible su reproducción y revisión en su caso, de conformidad con el Reglamento respectivo.
 
 ###### ARTICULO 79.
 
@@ -635,17 +885,27 @@ III. Con algún documento oficial expedido por autoridad competente, como cédul
 
 Para que el Notario haga constar que los otorgantes tienen capacidad bastará que en ellos no se observen manifestaciones de incapacidad natural y que no tenga noticias de que estén sujetos a incapacidad legal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 86.
 
-Los representantes y mandatarios deberán declarar, bajo protesta de decir verdad, que sus representados o mandantes tienen capacidad legal y que la representación que ostentan no les ha sido revocada ni limitada; éstas declaraciones se harán constar en la escritura.
+Los representantes y mandatarios deberán declarar, bajo protesta de decir verdad, que sus representados o mandantes tienen capacidad legal y que la representación que ostentan no les ha sido revocada, limitada o modificada; estas declaraciones se harán constar en la escritura.
+
+El reconocimiento de la personalidad y representación que hagan los que intervienen en un acto jurídico en el que el Notario transcribió o agregó al apéndice los documentos justificatorios de la personalidad, no podrá ser objeto de acción o excepción por ellos mismos en juicio o fuera de él.
 
 ###### ARTICULO 87.
 
 Si alguno de los otorgantes fuera sordo, leerá por si mismo la escritura; si declarare no saber o no poder leer, designará a una persona que la lea y le dé a conocer su contenido. El Notario hará constar la forma en que los otorgantes se impusieron del contenido de la escritura.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 88.
 
-La parte que no supiere el idioma castellano se acompañará de un traductor elegido por ella, quién protestará formalmente ante el Notario cumplir legalmente su cargo.
+La parte que no supiere el idioma castellano, si así lo desea, se hará acompañar de un traductor elegido por ella, quién protestará formalmente ante el Notario cumplir legalmente su cargo; si el Notario domina el idioma de la parte que no supiere el castellano, le explicará el valor y consecuencias legales del acto jurídico en el idioma respectivo.
 
 ###### ARTICULO 89.
 
@@ -655,11 +915,17 @@ Inmediatamente después de que ha sido firmada la escritura por todos los otorga
 
 Cuando la escritura no sea firmada en el mismo acto por todos los comparecientes, siempre que no sea imperioso firmar en un solo acto por su naturaleza o por disposición legal, el Notario irá asentando solamente "ANTE MI" previo a su firma, a medida que sea firmada por las partes, y cuando todos lo hayan hecho imprimirá además su sello, con todo lo cual quedará autorizada preventivamente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 90.
 
-El Notario deberá autorizar definitivamente la escritura, al pie de la misma, cuando se le demuestre que se han pagado el o los impuestos que causare el acto.
+Cuando un acto jurídico cause impuestos municipales o estatales en el Estado de Sinaloa, el Notario sólo los podrá autorizar definitivamente cuando se le demuestre o él mismo pague los impuestos por cuenta de los interesados, dentro de los plazos señalados por las leyes de la materia.
 
-La autorización definitiva contendrá la fecha en que se asiente, y la firma y sello del Notario, así como las demás menciones que otras leyes prescriban.
+Cuando los actos jurídicos no causen impuestos o derechos municipales o estatales en el Estado de Sinaloa, sino que deban de pagarse en otros estados de la República o en el Distrito Federal, el Notario podrá autorizar definitivamente las escrituras sin perjuicio de la obligación de los interesados de pagar los impuestos y derechos en donde legalmente correspondan y dentro de los plazos previstos en las leyes aplicables, haciendo constar este hecho el Notario en el o los testimonios que expida.
+
+La autorización contendrá la fecha, el señalamiento de si se causaron y pagaron impuestos en el Estado o si se causan fuera del mismo; y la firma y sello del Notario.
 
 ###### ARTICULO 91.
 
@@ -701,6 +967,12 @@ V. Que una vez firmada la escritura o acta en sus términos, el Notario Auxiliar
 
 El Notario Auxiliar podrá ser uno con ejercicio en el Estado de Sinaloa o en otra entidad de la república mexicana si la Ley de la materia de esa entidad lo autoriza.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+Cuando una de las partes tenga su domicilio en un municipio distinto al de la oficina notarial del Notario, pero dentro del Estado de Sinaloa, éste en los términos de los Artículos 10 y 12 de la presente Ley, podrá trasladarse a dicho domicilio para dar fe del consentimiento y firma, y así formalizar el acto jurídico de que se trate.
+
 ###### ARTICULO 97.
 
 El Notario que autorice una escritura relativa a otras anteriores existentes en su Protocolo, que aún no hayan sido inscritas en el Registro Público, cuidará de asentar en el protocolo la anotación o anotaciones correspondientes.
@@ -721,9 +993,17 @@ Se exceptúa de lo dispuesto por este artículo, la ratificación del acto jurí
 
 Si la ratificación es relativa a un acto jurídico registrable, el Notario dará los avisos correspondientes al Registro Público.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 100.
 
-Se podrá constituir el patrimonio de la familia ante Notario Público, debiéndose cumplir con los requisitos, formalidades y procedimientos que establecen el Capítulo VIII del Título Décimo Primero, Libro Primero, del Código Civil para el Estado de Sinaloa, y el Capítulo I del Título XV del Código de Procedimientos Civiles para el Estado de Sinaloa. Para estos efectos, el Notario, bajo su responsabilidad, vigilará el cabal cumplimiento de estas disposiciones y declarará constituido el Patrimonio de la Familia. La escritura correspondiente será inscribible en el Registro Público de la Propiedad.
+Sin necesidad de intervención judicial alguna, se podrá constituir el patrimonio de familia ante Notario Público, aplicando éste en lo conducente las normas previstas en el Capítulo VIII del Título XI, Libro Primero del Código Civil para el Estado de Sinaloa; para tal efecto, el Notario deberá considerar como avalúo, el valor catastral cuando se trate de bienes inmuebles, y el realizado por peritos para el caso de los bienes muebles.
+
+Sin necesidad de intervención judicial alguna se podrán desafectar todos o parte de los bienes del patrimonio de familia e inclusive dejarse sin efectos mediante comparecencia de los interesados ante Notario Público.
+
+Las escrituras que formule el Notario, en los términos de este artículo, serán inscribibles en el Registro Público de la Propiedad del domicilio de los constituyentes del patrimonio familiar y cuando se afecten bienes inmuebles deberán ser inscritos en el Registro Público de la Propiedad de ubicación de los inmuebles.
 
 ###### ARTICULO 101.
 
@@ -785,9 +1065,37 @@ IV. Las declaraciones de una o más personas que, bajo protesta de decir verdad,
 
 V. En general toda clase de hechos, abstenciones, estado y situaciones que guarden las personas y cosas que pueden ser apreciadas objetivamente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 110.
 
-Cuando los hechos sean de los que se refiere el artículo 983 del Código de Procedimiento Civiles para el Estado de Sinaloa, se seguirán las formalidades que exige el Capítulo V del Título XV del citado Código. La escritura será inscribible.
+Las actuaciones que el Código de Procedimientos Civiles para el Estado de Sinaloa considera como de jurisdicción voluntaria y de tramitación especial que se detallan enseguida, podrán realizarse por comparecencia de los interesados ante Notario Público, quien levantará el acta o escritura respectiva, que será inscribible en el Registro Público de la Propiedad o en el Registro Civil según sea el caso; estos actos son los siguientes:
+
+I. Acreditamiento de construcciones o ampliaciones de las mismas con recursos propios en terreno propio o en terreno ajeno, cuando exista autorización expresa y por escrito del dueño para construir o ampliar construcciones;
+
+II. La demolición total o parcial de las construcciones a que se refiere el punto anterior;
+
+III. La rectificación de medidas, colindancias y superficie de un inmueble, cuando no se afecten derechos de terceros y estos datos hayan sido certificadas (sic) o verificados por el Instituto Catastral de acuerdo a sus atribuciones;
+
+IV. El apeo y deslinde a que se refiere el Código de Procedimientos Civiles para el Estado de Sinaloa, el cual se suspenderá en los casos que el propio Código lo señala;
+
+V. La aclaración de apellidos en las actas del registro civil, cuando existan errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquéllas, o se haya omitido alguno de los apellidos, siempre y cuando en el acta conste que se trata de hijo de matrimonio o sea reconocido como tal.
+
+Para tal efecto, el interesado presentará la solicitud al Notario, acompañándola de copia certificada del acta en cuestión y los medios de pruebas pertinentes, precisando en forma lógica cuál es el error que se impugna con los argumentos conducentes para demostrar su existencia.
+
+El Notario valorará las mismas y determinará si procede o no la aclaración. En caso de ser procedente lo hará constar en instrumento público, remitiendo copia del mismo al Oficial del Registro Civil correspondiente para que efectúe la anotación marginal respectiva;
+
+VI. El divorcio por mutuo consentimiento cuando los solicitantes hayan celebrado su matrimonio en el Estado de Sinaloa. Si el matrimonio se celebró bajo el régimen de sociedad conyugal, que no hayan adquirido bienes durante el mismo, y si los hubiere, previamente deberán haber liquidado dicha sociedad; que no tengan hijos en común, o teniéndolos, sean mayores de edad, y éstos o alguno de los cónyuges no requieran alimentos; y que la cónyuge no esté embarazada. En este caso el divorcio se considerará consumado con el mero consentimiento de los cónyuges otorgado ante el Notario, quien lo hará constar en instrumento público.
+
+Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divorcio así obtenido no producirá efectos.
+
+El Notario remitirá copia del instrumento público al Oficial del Registro Civil del lugar en que el matrimonio se efectuó, para que levante el acta de divorcio correspondiente, para los efectos del artículo 116 del Código Civil para el Estado de Sinaloa.
+
+El acta de divorcio que en estos casos extienda el Oficial del Registro Civil deberá contener los elementos que señala el artículo 115 del Código Civil para el Estado de Sinaloa, para lo cual en sustitución de la parte resolutiva de la sentencia judicial y su fecha de ejecutoria, se asentarán en el acta los datos y fecha del respectivo instrumento público notarial;
+
+VII. Cualquier otro acto jurídico en el que no exista controversia entre las partes, que no afecte intereses de terceros y que le soliciten los interesados al Notario.
 
 ###### ARTICULO 111.
 
@@ -808,6 +1116,12 @@ Las policías deberán prestar a los Notarios el auxilio necesario para llevar a
 ###### ARTICULO 115.
 
 Los instrumentos públicos otorgados por funcionarios, Notarios o autoridades extranjeras, una vez legalizados, deberán protocolizarse para que surtan sus efectos con arreglo a la Ley. La protocolización de que trata este artículo, se hará en la Notaría que designen las partes, sin necesidad de autorización judicial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+Cuando los instrumentos públicos otorgados en el extranjero se encuentren legalizados conforme a los tratados internacionales de los que México sea parte, no será necesaria su protocolización para su validez, sin embargo el o los interesados podrán solicitar la protocolización ante Notario, quien expedirá el o los testimonios respectivos.
 
 ###### ARTICULO 116.
 
@@ -875,11 +1189,15 @@ El testimonio es la copia fiel y exacta en el que se transcribe una escritura o 
 
 Podrán expedirse testimonios parciales de conformidad con el artículo 134 de la presente Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 127.
 
-Las hojas del testimonio tendrán treinta y tres y medio centímetros de largo por dieciséis de ancho en su parte utilizable y contendrán, a lo más, cuarenta renglones. Además, se dejará siempre en blanco una franja de tres centímetros en sus márgenes, interno y externo, para proteger lo escrito.
+Las hojas del testimonio serán uniformes, tendrán veintiún centímetros y medio de ancho y treinta y cuatro centímetros de largo, a los márgenes izquierdo y derecho se dejará un espacio suficiente para proteger lo escrito de tres centímetros delimitados con una línea impresa visible a simple vista; y en los márgenes superior e inferior un espacio de cuatro centímetros.
 
-Asimismo, las hojas que integren un testimonio serán numeradas progresivamente y todas llevarán la firma o firma abreviada y el sello del Notario y la última calzará la firma completa y sello del Notario.
+Las hojas que integren un testimonio serán numeradas progresivamente y todas llevarán la firma completa o abreviada y el sello del Notario y la última calzara la firma completa y sello del Notario.
 
 ###### ARTICULO 128.
 
@@ -965,6 +1283,12 @@ V. Si faltare algún otro requisito que produzca la nulidad por disposición exp
 
 Fuera de estos casos, el testimonio no será nulo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+Ningún testimonio será declarado nulo por vía de excepción en un juicio, salvo que previamente se hubiese decretado la nulidad de la escritura.
+
 ## TITULO CUARTO. DE LAS FALTAS DEL NOTARIO
 
 ### CAPITULO PRIMERO. DE LAS FALTAS TEMPORALES, DEFINITIVAS, AUSENCIAS Y LICENCIAS
@@ -995,9 +1319,13 @@ En caso de fallecimiento, separación del Notario por licencia, o por suspensió
 
 ### CAPITULO SEGUNDO. DE LAS SUSPENSIONES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 144.
 
-Son causas de suspensión de un Notario en el ejercicio de sus funciones:
+Son causas de suspensión temporal de un Notario en el ejercicio de sus funciones, así como de la entrega de Libros del Protocolo:
 
 I. El haberse dictado auto de formal prisión por delito doloso, debidamente ejecutoriado, mientras no se pronuncie sentencia definitiva absolutoria;
 
@@ -1021,17 +1349,35 @@ La Secretaría General de Gobierno tendrá a su cargo la inspección y vigilanci
 
 La función de inspección y vigilancia se realizará en los términos que establece esta Ley, por conducto de personal autorizado quien deberá ser licenciado en derecho, con la correspondiente cédula profesional.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 147.
 
-La Secretaría General de Gobierno podrá ordenar visitas de inspección general una vez al año, y especiales cuando procedan, haciéndolo del conocimiento del Consejo de Notarios.
+La Secretaría General de Gobierno podrá ordenar visitas de inspección general una vez al año, y especiales cuando advierta por cualquier medio la existencia de alguna irregularidad o exista queja escrita de parte interesada o del Consejo de Notarios. Cuando exista queja de parte interesada se hará del conocimiento del Consejo de Notarios para que intervenga si así lo considera conveniente.
 
 ###### ARTICULO 148.
 
 Las visitas se practicarán en las oficinas de la Notaría en días y horas hábiles. Para los efectos de esta Ley se consideran días y horas hábiles, las siguientes:
 
-I. Son días hábiles todos los días del año, con exclusión de los domingos, el 1° de enero, 5 de febrero, 21 de marzo, 1° de mayo, 12 de julio, 15 y 16 de septiembre, 20 de noviembre y 25 de diciembre, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Son horas hábiles de lunes a viernes de 09:00 a 14:00 y de 16:00 a 19:00 horas, y los sábados de 09:00 a 13:00 horas.
+REFORMADA, P.O. 15 DE MARZO DE 2010)
+
+I. Son días hábiles todos los días del año, con exclusión de los que se señalen como inhábiles en las leyes u otros ordenamientos para el ejercicio de las atribuciones de los servidores públicos del Estado; y,
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+II. Son horas hábiles las comprendidas de las 08:00 a las 21:00 horas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+Para tal efecto, si la visita no se concluye el mismo día en que se inició, dicha razón se asentará en el acta respectiva, y no será inválida, pudiendo continuarse al día siguiente o en fecha posterior.
 
 ###### ARTICULO 149.
 
@@ -1129,15 +1475,33 @@ b) Por no dar aviso o no entregar los libros al Archivo General de Notarias, en 
 
 c) Por separarse del ejercicio de sus funciones sin la licencia correspondiente;
 
-d) Por cualquiera otra violación menor, tal como no llevar índices, no empastar oportunamente los volúmenes del Apéndice u otras semejantes, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-e) Por incumplimiento de las obligaciones estipuladas en los artículos 16 y 122 de esta Ley.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
+d) Por cualquiera otra violación menor, tal como no llevar índices, no empastar oportunamente los volúmenes del apéndice u otras semejantes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
+e) Por incumplimiento de las obligaciones estipuladas en los artículos 16 y 122 de esta Ley; y,
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+f) Cuando por queja presentada por el Consejo de Notarios o cualquiera de los Colegios de Notarios del Estado de Sinaloa, se acredite competencia desleal a base de reducir costos de las escrituras mediante el no pago de impuestos y derechos cuando las leyes fiscales los fijen y los actos jurídicos se coloquen dentro de los supuestos de la norma fiscal.
 
 II. Con multa de treinta a trescientos días de salario mínimo diario general vigente en el Estado:
 
 a) Por no otorgar las facilidades al personal autorizado para realizar la inspección, así como no proporcionarle la información requerida, al que se refiere el artículo 154 de esta Ley.
 
-b) Por reincidir en alguna de las infracciones señaladas en la fracción I de este artículo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
+b) Por reincidir en alguna de las infracciones señaladas en la fracción I de este artículo dentro del término de un año;
 
 c) Por realizar cualquier actividad que sea incompatible con el desempeño de sus funciones de Notario, de acuerdo con la presente Ley;
 
@@ -1145,13 +1509,31 @@ d) Por incurrir en algunas de las prohibiciones señaladas en el artículo 5° d
 
 e) Por provocar la nulidad de algún instrumento o testimonio, ya sea por negligencia, culpa o dolo;
 
-f) Por cobrar cantidad superior a la fijada en el arancel aprobado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
+f) Por cobrar cantidad superior a la fijada en el arancel aprobado sin causa justificada;
 
 g) Por negarse sin causa justificada, al ejercicio de sus funciones, cuando hubiere sido requerido para ello;
 
-h) Por asentar actos jurídicos en su Protocolo sin las autorizaciones a que se refiere el artículo 65 de esta Ley, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-i) Por incumplimiento a lo dispuesto por el artículo 49, párrafo segundo de esta Ley.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
+h) Por asentar actos jurídicos en su Protocolo sin las autorizaciones a que se refiere el artículo 65 de esta Ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
+i) Por incumplimiento a lo dispuesto por el artículo 49, párrafo segundo de esta Ley; y,
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+j) Por hacer constar en las escrituras o actas notariales que los actos jurídicos están exentos de impuestos y derechos, cuando las leyes fiscales, federales, estatales o municipales establezcan lo contrario y por consecuencia de ello, se deje de calcular, retener y enterar los impuestos o derechos cuando dicha obligación corresponda al Notario.
 
 III. Suspensión del cargo hasta por un año:
 
@@ -1159,17 +1541,47 @@ III. Suspensión del cargo hasta por un año:
 
 a) Por reincidir en alguno de los supuestos señalados en la fracción II, incisos e), g) y h), de este artículo;
 
-b) Por revelación injustificada y dolosa de datos, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c) Por incumplimiento o infracción a lo dispuesto por los artículos 10 y 49 párrafo primero, de la presente Ley.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
-IV. Separación definitiva:
+b) Por revelación injustificada y dolosa de datos;
 
-a) Por reincidir en los supuestos señalados en la fracción III anterior, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
+c) Por incumplimiento o infracción a lo dispuesto por los artículos 10 y 49 párrafo primero, de la presente Ley; y,
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+d) Por haber utilizado dolosamente un mismo número de escritura para hacer constar actos jurídicos distintos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+IV. Será causa de suspensión del cargo hasta por dos años:
+
+a) La acumulación en el mismo año de calendario de dos o más faltas de las señaladas en la fracción anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2010)</small>
+
+V. Separación definitiva:
+
+a) Por reincidir en el supuesto señalado en la fracción IV que antecede; y,
 
 b) Por falta grave de probidad en el ejercicio de sus funciones.
 
-Se considera reincidencia al Notario que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un período de tres años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
+
+Se considera reincidente al Notario que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un período de tres años, contados a partir de la fecha en que el Ejecutivo Estatal tenga conocimiento de ellas o a partir de que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
 
 ### CAPÍTULO CUARTO. DE LA REVOCACIÓN Y CANCELACIÓN DEL FÍAT
 
@@ -1353,9 +1765,17 @@ III. Promover todas las acciones tendientes al buen logro de la prestación del 
 
 IV. Preparar, organizar e impartir, con el apoyo de los miembros del Consejo de Notarios, los cursos de capacitación notarial a que se refiere esta Ley:
 
-V. Preparar y actualizar temarios de exámenes de aspirantes y de oposición;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI. Integrar los jurados para los exámenes previstos en esta Ley;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+V. Proponer al Ejecutivo del Estado los temas que a su juicio deban considerarse para el examen de calificación para ser Notario;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+VI. Designar a los Notarios Públicos que integrarán el Jurado de Examen, como sinodal propietario y suplente, previsto en esta Ley;
 
 > <small>(F. DE E., P.O. 11 DE DICIEMBRE DE 1998)</small>
 
@@ -1569,6 +1989,14 @@ Cuando por error del Notario hubiere de rectificarse algún instrumento notarial
 
 Para los casos no previstos en este arancel, se aplicará la tarifa del acto con el que tenga mayor semejanza.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+
+###### ARTICULO 202.
+
+En un espacio visible de la Notaría Pública, se exhibirán al público los aranceles, correspondientes al pago de honorarios, por los trabajos notariales.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -1638,3 +2066,21 @@ RENATO VEGA ALVARADO.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 JUAN LUIS TORRES VEGA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE MARZO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los noventa días posteriores a su publicación en el Periódico Oficial "El Estado de Sinaloa", salvo lo dispuesto en los artículos transitorios siguientes.
+
+Artículo Segundo.- Las disposiciones contenidas en los artículos 7 fracción I, y 8 fracción VI de Ley que se modifica, entrarán en vigor a partir del día primero de enero de 2011.
+
+Artículo Tercero.- Los Licenciados en Derecho que a la fecha de entrada en vigor del presente Decreto, hayan obtenido del Ejecutivo del Estado la autorización que los acredite como aspirantes al ejercicio del Notariado, o aquéllos que cumpliendo con los requisitos respectivos hayan hecho la solicitud para ser autorizados como tales, encontrándose en trámite a la fecha de entrada en vigor del presente Decreto, podrán presentarse a los exámenes acreditando tal circunstancia, sin exhibir de nueva cuenta la documentación exigida por el Artículo 24 de la Ley del Notariado del Estado de Sinaloa.
+
+Artículo Cuarto.- Los Licenciados en Derecho que a la fecha de la entrada en vigor del presente Decreto, hayan satisfecho y justificado los requisitos que exigía la Ley del Notariado del Estado de Sinaloa, abrogada por el Artículo Segundo Transitorio del Decreto Numero 590, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 123, Segunda Sección, el 14 de octubre de 1998, podrán presentarse a los exámenes de calificación, acreditando tal circunstancia.
+
+Artículo Quinto.- Los libros y testimonios se expedirán con las dimensiones que contemplaba la Ley del Notariado del Estado de Sinaloa antes de la fecha de entrada en vigor del presente Decreto, hasta el cierre de los Libros respectivos.
+
+Artículo Sexto.- Por única ocasión, en la primera convocatoria que de conformidad con el artículo 22 del presente Decreto, publique el Ejecutivo del Estado, se exceptuará a los Licenciados en Derecho que hayan realizado sus prácticas notariales antes de la entrada en vigor del presente Decreto, el requisito contenido en la fracción IV del Artículo 24 de este Decreto, como lo disponen los Artículos Segundo y Tercero Transitorios del presente Decreto.
+
+Artículo Séptimo.- El Reglamento previsto en el artículo 78 de la Ley que se modifica mediante el presente Decreto, deberá expedirse dentro de los 180 días siguientes a la entrada en vigor del mismo.
