@@ -4,7 +4,7 @@ identifier: "ROO-ley-estatal-de-medios-de-impugnacion-en-materia-electoral-25781
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-27"
-last_updated: "2009-09-18"
+last_updated: "2010-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY ESTATAL DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
-LEY ESTATAL DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
+LEY ESTATAL DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002
 
@@ -291,7 +291,7 @@ En el caso de actos o resoluciones de los Consejos Municipales y Distritales, as
 
 ### Capítulo Séptimo. De la Interposición y sus Efectos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 26.
 
@@ -395,7 +395,7 @@ IV. El ciudadano agraviado fallezca o sea suspendido o privado de sus derechos p
 
 ### Capítulo Noveno. De las Reglas de Trámite
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 33.
 
@@ -435,7 +435,7 @@ VII. Hacer constar el nombre y la firma autógrafa del promovente.
 
 Cuando se incumpla con cualquiera de los requisitos previstos en las fracciones I, V y VII, se tendrá por no presentado el escrito respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 35.
 
@@ -505,15 +505,23 @@ Si la autoridad o el órgano partidista señalado como responsable no envía el 
 
 El Presidente del Tribunal, podrá solicitar a las autoridades federales o requerir a las autoridades estatales, municipales y a los órganos del Instituto, así como a las partes, cualquier informe, elemento o documentación que obrando en su poder, pueda servir para la sustanciación o resolución de los medios de impugnación. En casos extraordinarios, podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, y que asimismo permita resolver dentro de los plazos establecidos.
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+(NOTA: EL 11 DE MAYO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2010, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE MAYO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2010)</small>
 
 ###### Artículo 38
 
-Bis.- En la vía incidental se atenderá la pretensión de nuevo escrutinio y cómputo de las elecciones de que conozca el Tribunal, y solamente procederá cuando el nuevo escrutinio y cómputo no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto en la Ley Electoral.
+Bis.- El Tribunal, a través del Magistrado instructor y a petición fundada y motivada de las partes en los procedimientos de los medios de impugnación, podrá ordenar abrir un incidente de recuento de votos en una, varias o en la totalidad de las casillas impugnadas, CUANDO DEL ANÁLISIS A LOS HECHOS Y AGRAVIOS QUE SE HAGAN VALER SE ADVIERTA QUE HABIENDO SIDO SOLICITADO EL RECUENTO EN TIEMPO Y FORMA ANTE EL ÓRGANO RESPONSABLE, ÉSTE SE HUBIESE NEGADO INDEBIDAMENTE A SU REALIZACIÓN.
+
+El desahogo de las diligencias de recuento se podrá efectuar en los consejos distritales o municipales; será facultad del Tribunal el allegarse de la documentación electoral pertinente para llevar a cabo los recuentos. Para la realización de recuentos, en caso necesario, el Tribunal designará el personal suficiente para el desahogo de la diligencia, previa citación a la responsable y a todos los partidos políticos o coaliciones a fin de salvaguardar los principios rectores de la materia electoral.
 
 El Tribunal deberá establecer si las inconsistencias pueden ser corregidas o subsanadas con algunos otros datos o elementos que obren en el expediente o puedan ser requeridos por el propio Tribunal sin necesidad de recontar los votos.
 
-No procederá el incidente en el caso de casillas en las que se hubiere realizado nuevo escrutinio y cómputo en la sesión de cómputo respectiva.
+(NOTA: EL 11 DE MAYO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2010, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 12 DE MAYO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+NO PROCEDERÁ EL INCIDENTE EN EL CASO DE CASILLAS EN LAS QUE SE HUBIERE REALIZADO NUEVO ESCRUTINIO Y CÓMPUTO EN LA SESIÓN DE CÓMPUTO RESPECTIVA.
+
+Se deberá levantar acta circunstanciada de todo lo instrumentado, actuado y ejecutado, que certifique y dé plena validez a la diligencia de mérito.
 
 En el caso de que el resultado del nuevo escrutinio y cómputo modifique los resultados, el Tribunal tomará las medidas necesarias para que se expidan los documentos que acreditan a quienes hayan resultado como candidatos electos, una vez que haya causado estado la resolución.
 
@@ -763,7 +771,7 @@ Los recursos de revocación a que se refiere el primer párrafo del artículo 67
 
 El órgano electoral desconcentrado que reciba un recurso de revocación procederá en términos de los Artículos 34 y 35 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 71.
 
@@ -961,7 +969,9 @@ Cuando al resolver los juicios de nulidad de una o varias casillas, el Tribunal 
 
 Los juicios de nulidad deberán ser resueltos a más tardar:
 
-I. El 7 de agosto del año de la elección, en caso de que se impugnen los cómputos distritales de la elección de Gobernador; y el 10 de agosto, cuando se impugne el cómputo estatal de esa elección.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+
+I. El 7 de agosto del año de la elección, en caso de que se impugnen los cómputos distritales de la elección de Gobernador; y el 17 de Agosto, cuando se impugne el cómputo estatal de esa elección;
 
 II. El 2 de agosto del año de la elección, en caso de que se impugne la de Diputados de mayoría relativa;
 
@@ -1051,7 +1061,7 @@ EL SECRETARIO DE GOBIERNO
 
 VICTOR M. ALCERRECA SANCHEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE OCTUBRE DE 2003.
 
@@ -1090,3 +1100,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 18 DE SEPTIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 15 DE MARZO DE 2010.
+
+Artículo Único.- El Artículo Segundo del presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+ARTICULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
