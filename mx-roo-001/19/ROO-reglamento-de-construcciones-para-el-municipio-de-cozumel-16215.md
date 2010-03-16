@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-construcciones-para-el-municipio-de-cozumel-16215
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-15"
-last_updated: "1998-10-15"
+last_updated: "2010-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "ROO"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL MUNICIPIO DE COZUMEL DEL ESTADO DE QUINTANA ROO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE CONSTRUCCIONES DEL MUNICIPIO DE COZUMEL, QUINTANA ROO, PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
 
-Reglamento publicado en el Periodico Oficial del Estado de Quintana Roo, el martes 16 de marzo de 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
+
+Reglamento Publicado en el Periodico Oficial del Estado de Quintana Roo, el martes 16 de marzo de 2010.
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -4372,3 +4374,23 @@ Octavo.- Se concede un plazo de 90 días naturales, contado a partir de la fecha
 Noveno.- Durante el término en el cual las Normas Técnicas Complementarias correspondientes al presente Reglamento, no estuviesen redactadas y publicadas, se tomarán como base, las Normas Técnicas complementarias del Reglamento del Distrito Federal vigente.
 
 Dado en el Salón de Cabildos del Palacio Municipal, en la ciudad de Cozumel, cabecera del Municipio de Cozumel a los 10 días del mes de Septiembre de Mil novecientos noventa y ocho.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MARZO DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- El presente Reglamente deroga el Reglamento de Construcciones para el Municipio de Cozumel del Estado de Quintana Roo, aprobado con fecha 10 de septiembre de 1998.
+
+TERCERO.- Se concede un plazo de un año contado a partir de la fecha en que entre en vigor el presente Reglamento, para que los propietarios de las edificaciones destinadas a un uso de carácter público, de conformidad con la clasificación señalada en el artículo 109 de este cuerpo normativo, realicen las obras, adaptaciones y modificaciones necesarias, señaladas en este Reglamento, a fin de proteger la seguridad, integridad física de los usuarios y evitar riesgos a los inmuebles en que se encuentren instalados.
+
+CUARTO.- Las obras que se encuentren en proceso de ejecución, en la fecha en que se publique este Reglamento, se sujetarán a las disposiciones que para el efecto haya dictado el Ayuntamiento.
+
+QUINTO.- Las solicitudes de licencia de construcción que se encuentren en trámite en la fecha en que entre en vigor este Reglamento, continuarán tramitándose y se resolverán conforme a las disposiciones que para tal efecto haya dictado el Ayuntamiento.
+
+SEXTO.- Se concede un plazo de 90 días naturales, contado a partir de la fecha en que entre en vigor el presente Reglamento, para que se integre la Comisión de Directores Responsables de Obra y Corresponsables a que se refiere el artículo 78 del presente Reglamento.
+
+SEPTIMO.- Se concede un plazo de 1 año, contado a partir de la fecha en que entre en vigor el presente Reglamento para que se adecúen los inmuebles a las especificaciones dictadas en el artículo 121 fracción VI del presente Reglamento.
+
+OCTAVO.- Durante el término en el cual las Normas Técnicas Complementarias correspondientes al presente Reglamento, no estuviesen redactadas y publicadas, se tomarán como base, las Normas Técnicas complementarias del Reglamento del Distrito Federal vigente.
