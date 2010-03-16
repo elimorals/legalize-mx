@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-que-establece-el-derecho-a-la-pension-3571
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-31"
-last_updated: "2009-11-05"
+last_updated: "2010-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35718&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2003-12-29"
 ---
 # REGLAMENTO DE LA LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS RESIDENTES EN EL DISTRITO FEDERAL -ANTES REGLAMENTO DE LA LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SETENTA AÑOS RESIDENTES EN EL DISTRITO FEDERAL-
 
-REGLAMENTO DE LA LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SETENTA AÑOS RESIDENTES EN EL DISTRITO FEDERAL
+REGLAMENTO DE LA LEY QUE ESTABLECE EL DERECHO A LA PENSION ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS RESIDENTES EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MARZO DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 31 de diciembre de 2003.
 
@@ -30,9 +30,9 @@ Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 31
 
 ANDRÉS MANUEL LÓPEZ OBRADOR Jefe de Gobierno del Distrito Federal, con fundamento en los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 8°, fracción II, 67, fracción II y 90 del Estatuto de Gobierno del Distrito Federal; 12, 14, 15, fracciones I y VII, 23 y 29 de la Ley Orgánica de la Administración Pública del Distrito Federal, he tenido a bien expedir el siguiente:
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. REPUBLICADA], G.O. 5 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 16 DE MARZO DE 2010)</small>
 
-REGLAMENTO DE LA LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SETENTA AÑOS RESIDENTES EN EL DISTRITO FEDERAL
+REGLAMENTO DE LA LEY QUE ESTABLECE EL DERECHO A LA PENSIÓN ALIMENTARIA PARA LOS ADULTOS MAYORES DE SESENTA Y OCHO AÑOS RESIDENTES EN EL DISTRITO FEDERAL
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -342,11 +342,11 @@ En caso, de que el derechohabiente cambie de domicilio, será de su responsabili
 
 Si en visita domiciliaria realizada al derechohabiente el representante voluntario o algún ciudadano manifiesta que el derechohabiente se encuentra hospitalizado, deberá presentar documentos oficiales que avalen tal situación, con la finalidad de evitar la baja y se realizarán las visitas domiciliarias subsecuentes para dar seguimiento a la situación del derechohabiente.
 
-> <small>(REFORMADO, G.O. 5 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2010)</small>
 
 ###### Artículo 35.
 
-Las causas de baja de pensión, por concepto de fallecimiento serán respaldados con el acta de defunción o la información magnética proporcionada por el Registro Civil. Las demás causales serán corroboradas en campo, a través de visita domiciliaria.
+Las causas de baja de pensión, por concepto de fallecimiento, serán respaldados con el acta de defunción, la información magnética proporcionada por el Registro Civil o la información fidedigna que se recabe en la visita domiciliaria. Las demás causales serán corroboradas en campo, a través de visita domiciliaria.
 
 > <small>(REFORMADO, G.O. 5 DE NOVIEMBRE DE 2009)</small>
 
@@ -537,6 +537,12 @@ Segundo.- Se derogan todas las disposiciones reglamentarias y administrativas qu
 Tercero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 G.O. 5 DE NOVIEMBRE DE 2009.
+
+Primero. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. - El presente decreto entrará en vigor el día de su publicación.
+
+G.O. 16 DE MARZO DE 2010.
 
 Primero. - Publíquese en la Gaceta Oficial del Distrito Federal.
 
