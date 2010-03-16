@@ -4,7 +4,7 @@ identifier: "CMX-presupuesto-de-egresos-del-distrito-federal-para-el-71182"
 country: "mx"
 rank: "presupuesto"
 publication_date: "2009-12-31"
-last_updated: "2009-12-31"
+last_updated: "2010-03-16"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71182&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 PRESUPUESTO DE EGRESOS DEL DISTRITO FEDERAL PARA EL EJERCICIO FISCAL 2010
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MARZO DE 2010.
 
 Presupuesto publicado en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
@@ -812,7 +812,7 @@ II. En la Procuraduría General de Justicia, previa conciliación con la Oficial
 
 Artículo Quinto.- En el presupuesto de las Delegaciones se comprenden recursos para la ejecución del Programa de Mejoramiento Urbano y Accesibilidad identificados con el destino de gasto 61 conforme al Anexo 2 de este Decreto. Para lo cual las delegaciones deberán dar a conocer a más tardar el 31 de marzo a la Secretaría de Obras y Servicios las acciones que comprenderá su programa, el cual se sujetará a la normatividad establecida y a los lineamientos que emitirá dicha Secretaría dentro de los dos primeros meses del año.
 
-Artículo Sexto.- Las erogaciones previstas para el Instituto Electoral del Distrito Federal, ascienden a 880,000,000.00 pesos, cantidad que incluye los 42,289,745.00 pesos para organizar el proceso de elección de Comités Ciudadanos a que se refiere el artículo 97 y 98 de la Ley de Participación Ciudadana del Distrito Federal, así como para el trabajo de las oficinas de las representaciones de los partidos políticos y de las representaciones de los grupos parlamentarios de la Asamblea Legislativa del Distrito Federal ante el propio Consejo.
+Artículo Sexto.- (DEROGADO, G.O. 16 DE MARZO DE 2010)
 
 Artículo Séptimo.- En las erogaciones previstas para la Secretaría de Finanzas se contemplan 200 millones de pesos para la creación del fondo a que se refiere la Ley del Consejo Económico y Social de la Ciudad de México.
 
@@ -1743,3 +1743,13 @@ Electrificación del Deportivo Tulyehualco
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintitrés días del mes de diciembre del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. LIZBETH EUGENIA ROSAS MONTERO, PRESIDENTA.- DIP. MARÍA DE LOURDES AMAYA REYES, SECRETARIA.- DIP. RAFAEL CALDERÓN JIMÉNEZ, SECRETARIO.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE PRESUPUESTO.</small>
+
+G.O. 16 DE MARZO DE 2010.
+
+PRIMERO. Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor circulación, en el Diario Oficial de la Federación.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
