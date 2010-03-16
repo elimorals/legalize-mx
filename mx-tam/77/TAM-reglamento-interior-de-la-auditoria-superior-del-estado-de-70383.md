@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-de-la-auditoria-superior-del-estado-de-7038
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-14"
-last_updated: "2007-11-14"
+last_updated: "2010-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2010.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 14 de noviembre del 2007.
 
@@ -78,6 +78,26 @@ En términos del artículo 6° fracción VI de la Ley, la Comisión será el con
 ###### Artículo 6.
 
 Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, la Auditoría Superior contará con un Auditor Superior, dos Auditores Especiales; uno para municipios y poderes del Estado, y otro para organismos públicos descentralizados, fondos y fideicomisos; y las Direcciones que sustente el presupuesto de egresos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], 16 DE MARZO DE 2010)</small>
+
+Durante las ausencias temporales del Auditor, el despacho y atención de los asuntos correspondientes a su cargo, los asumirá el Auditor Especial para Municipios y Poderes del Estado o el Auditor Especial para Organismos Públicos Descentralizados, Fondos y Fideicomisos, en el orden mencionado. En tanto que las ausencias temporales de los Auditores Especiales, el Auditor ejercerá las atribuciones de cualquiera de ellos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], 16 DE MARZO DE 2010)</small>
+
+Las ausencias temporales de los Directores o del Secretario Técnico, serán suplidas en el despacho de los asuntos de su competencia, por el servidor público de jerarquía inmediata inferior y de más antigüedad y, de no existir estas condiciones, por quien designe el Auditor.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], 16 DE MARZO DE 2010)</small>
+
+El mecanismo de suplencia se aplicará igualmente en los casos en que cualquiera de los servidores públicos referidos en los párrafos anteriores deba excusarse de conocer un asunto de los que se refieren las fracciones XIII y XVII del artículo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas. La excusa se hará mediante oficio en que el servidor público decline ante su suplente el conocimiento del asunto correspondiente, además de dar aviso de ello a la Comisión de Vigilancia de la Auditoría Superior del H. Congreso del Estado de Tamaulipas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], 16 DE MARZO DE 2010)</small>
+
+En el caso de ausencia definitiva del Auditor y, en tanto se designa un nuevo titular conforme al procedimiento correspondiente, se aplicará el mismo orden de suplencia previsto en el presente artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], 16 DE MARZO DE 2010)</small>
+
+El Auditor deberá permanecer en su encargo al término de su periodo, hasta que el pleno del Congreso designe al nuevo titular.
 
 ###### Artículo 7.
 
@@ -482,3 +502,11 @@ Los asuntos en trámite al entrar en vigor este Reglamento que conforme al mismo
 Expedido en Victoria, Tamaulipas, a los doce días del mes de noviembre de dos mil siete.
 
 ATENTAMENTE.- AUDITOR SUPERIOR DEL ESTADO.- RAÚL HERNÁNDEZ CHAVARRIA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE MARZO DE 2010.
+
+###### ARTICULO ÚNICO.
+
+El presente Acuerdo, mediante en (sic) cual se realizan algunas adiciones al Reglamento Interior de la Auditoría Superior del Estado, entrará en vigor en la fecha de su expedición.
