@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2009-12-29"
+last_updated: "2010-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CODIGO FISCAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MARZO DE 2010.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -1814,9 +1814,11 @@ En el caso de adquisiciones de inmuebles derivadas de actos consignados en docum
 
 Los inmuebles servirán de garantía por los créditos fiscales que resulten con motivo de diferencias provenientes de los avalúos o determinaciones de valor efectuadas por los contribuyentes, tomados como base para el cálculo del impuesto a que se refiere este Capítulo, los que se harán efectivos mediante el procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 121.
 
-En las adquisiciones que se hagan constar en escritura pública, los fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y mediante declaraciones lo enterarán en las oficinas autorizadas, dentro de los cinco días hábiles siguientes al en que se formalice en escritura pública la adquisición de que se trate.
+En las adquisiciones que se hagan constar en escritura pública, los fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y mediante declaraciones lo enterarán en las oficinas autorizadas, dentro de los quince días hábiles siguientes al en que se formalice en escritura pública la adquisición de que se trate.
 
 Si las adquisiciones se hacen constar en documentos privados, el cálculo y entero del impuesto deberá efectuarlo el adquirente bajo su responsabilidad.
 
@@ -3974,7 +3976,9 @@ II. Por la revisión y la certificación de la razón de cierre, por libro $1,00
 
 III. Por la recepción para guarda definitiva en el Archivo General de Notarías, de cada decena de protocolo 3,000.00
 
-Cuando el apéndice exceda de la decena, por cada libro adicional de apéndice $500.00
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2010)</small>
+
+Cuando el apéndice exceda de la decena, por cada libro adicional de apéndice $50.00
 
 IV. Por la recepción para guarda definitiva en el Archivo General de Notarías, de cada libro de registro de cotejos $1,000.00
 
@@ -5228,7 +5232,9 @@ g) Prórroga de Permiso $528.00
 
 El pago de los derechos previstos en este artículo aumentará en cincuenta por ciento, cuando la filmación solicitada se lleve a cabo en el perímetro vial conformado por Eje Central Lázaro Cárdenas, José María Izazaga y su continuación San Pablo, Anillo de Circunvalación y su continuación Vidal Alcocer, Peña y Peña y su continuación Apartado y República de Perú; así como en el perímetro vial constituido por Avenida Hidalgo, Doctor Mora, Avenida Juárez y Eje Central Lázaro Cárdenas.
 
-Un cincuenta por ciento de los derechos correspondientes a este artículo se destinarán para la operación de la Comisión de Filmaciones de la Ciudad de México como recursos de aplicación automática.
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2010)</small>
+
+Un cincuenta por ciento de los derechos correspondientes a este artículo se destinarán para la operación de la Comisión de Filmaciones de la Ciudad de México como ampliación líquida a su presupuesto.
 
 ### CAPITULO IV. De los Ingresos Derivados de la Coordinación Fiscal
 
@@ -5240,13 +5246,17 @@ Para lo anterior, se deberá acreditar que las viviendas se adquirieron con cré
 
 Asimismo, también se deberá acreditar que el contribuyente es propietario o poseedor del inmueble en que habite, por el que se le haya otorgado el crédito para su adquisición.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 271.
 
-Los poseedores de inmuebles que se encuentren previstos en los programas de regularización territorial del Distrito Federal, tendrán derecho a una reducción equivalente al 80%, respecto de las contribuciones a que se refieren los artículos 112, 126, 185, 187, 188, 233, 234, 248, fracciones I, II, III, IV y V, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código.
+Los poseedores de inmuebles que se encuentren previstos en los programas de regularización territorial del Distrito Federal, tendrán derecho a una reducción equivalente al 100%, respecto de las contribuciones a que se refieren los artículos 112, 126, 185, 187, 188, 233, 234, 248, fracciones I, II, III, IV y V, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código.
 
 La reducción a que se refiere este artículo, con excepción de las contribuciones que se contemplan en los artículos 112, 126 y 185 de ese Código, también se le otorgará a las personas que hayan regularizado su propiedad dentro de los programas de regularización territorial del Distrito Federal, y tengan la necesidad de llevar a cabo una rectificación de la escritura pública correspondiente.
 
-Tendrán derecho a una reducción equivalente al 80% de los derechos establecidos en el Capítulo IX de la Sección Quinta del Título Tercero del Libro Primero de este Código, quien teniendo un título válido previo a la expropiación del inmueble de que se trate hasta 1997, proceda a tramitar la inscripción de la leyenda de exceptuado ante el Registro Público de la Propiedad y de Comercio del Distrito Federal.
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2010)</small>
+
+Tendrán derecho a una reducción equivalente al 100% de los derechos establecidos en el Capítulo IX de la Sección Quinta del Título Tercero del Libro Primero de este Código, quien teniendo un título válido previo a la expropiación del inmueble de que se trate hasta 1997, proceda a tramitar la inscripción de la leyenda de exceptuado ante el Registro Público de la Propiedad y de Comercio del Distrito Federal.
 
 La reducción por concepto del Impuesto Predial, se dejará de aplicar, cuando el inmueble de que se trate sea regularizado en cuanto a la titularidad de su propiedad.
 
@@ -5558,9 +5568,11 @@ II. Que estén inscritas en el Registro de Organizaciones Civiles del Distrito F
 
 III. Que los recursos destinados por las organizaciones en el año inmediato anterior a las actividades de desarrollo social, de conformidad con lo establecido por la Ley de Fomento a las Actividades de Desarrollo Social de las Organizaciones Civiles para el Distrito Federal, hayan sido iguales o superiores al monto de las reducciones que soliciten.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 284.
 
-Las Instituciones de Asistencia Privada, legalmente constituidas, tendrán derecho a una reducción equivalente al 80%, respecto de las contribuciones a que se refieren los artículos 112, 126, 134, 145, 156, 172, 182, 185 y 186, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
+Las Instituciones de Asistencia Privada, legalmente constituidas, tendrán derecho a una reducción equivalente al 100%, respecto de las contribuciones a que se refieren los artículos 112, 126, 134, 145, 156, 172, 182, 185 y 186, así como los derechos establecidos en el Capítulo IX, de la Sección Quinta del Título Tercero del Libro Primero de este Código, con excepción de los Derechos del Archivo General de Notarías.
 
 La reducción por concepto del Impuesto Predial, sólo operará respecto de los inmuebles propiedad de las Instituciones de Asistencia Privada que se destinen al objeto asistencial.
 
@@ -5750,9 +5762,13 @@ La autoridad competente dará el visto bueno respecto a que el particular cumpli
 
 Este concepto no aplica para viviendas unifamiliares.
 
+> <small>N. DE E. EN EL DECRETO DE 30 DE DICIEMBRE DE 2011, SE INDICA LA EXISTENCIA DE CINCO PÁRRAFOS, Y EN LA REFORMA DE 16 DE MARZO DE 2010, SE INDICA LA EXISTENCIA DE UN SOLO PÁRRAFO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 302.
 
-Las personas físicas y morales que construyan nuevos desarrollos urbanos, nuevas edificaciones, amplíen la construcción ó cambien el uso de las construcciones que requieran nuevas conexiones de agua y drenaje o ampliaciones, deberán cubrir el pago por concepto de aprovechamientos a razón de $195.00 por cada metro cuadrado de construcción nueva ó de ampliación, a efecto de que el Sistema de Aguas de la Ciudad de México, realice las obras necesarias para estar en posibilidad de prestar los servicios relacionados con la infraestructura hidráulica.
+Las personas físicas y morales que construyan desarrollos urbanos, edificaciones, amplíen la construcción ó cambien el uso de las construcciones que requieran nuevas conexiones de agua y drenaje o ampliaciones, deberán cubrir el pago por concepto de aprovechamientos a razón de $195.00 por cada metro cuadrado de construcción ó de ampliación, a efecto de que el Sistema de Aguas de la Ciudad de México, realice las obras necesarias para estar en posibilidad de prestar los servicios relacionados con la infraestructura hidráulica.
 
 Para el cálculo a que se refiere este artículo, no se considerarán los metros cuadrados destinados a estacionamiento.
 
@@ -8792,7 +8808,19 @@ NORMAS DE APLICACIÓN
 
 3. Al identificar la región-manzana dentro de la Delegación se observará el tipo de manzana al que pertenece y ese remitirá, de manera directa, al subsidio que le corresponde al usuario de la toma de acuerdo al Artículo 172 del Código Fiscal.
 
-> <small>N. DE E. VEASE TABLAS EN LA G.O. DE 29 DE DICIEMBRE DE 2009, PAGINAS DE LA 399 A LA 523.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE MARZO DE 2010)</small>
+
+El Anexo que contiene las Tablas que refiere el artículo Vigésimo Primero Transitorio del Código Fiscal del Distrito Federal, forma parte integrante del presente decreto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE MARZO DE 2010)</small>
+
+El Gobierno del Distrito Federal publicará en su página de Internet la clasificación de las manzanas de conformidad con su índice de desarrollo y su ubicación en mapas geográficos, a más tardar el día 31 de mayo de 2010. Asimismo se deberá agregar al reverso del recibo de agua la tabla tarifaria de consumo, así como la tarifa que le aplique al ciudadano y se anexará junto con el recibo correspondiente un volante en el que se explique el procedimiento establecido en el presente Código por el cual el ciudadano podrá hacer aclaraciones ante las autoridades correspondientes, respecto a la clasificación de manzanas por el cobro de derechos de agua.
+
+> <small>(REFORMADA, G.O. 16 DE MARZO DE 2010)</small>
+
+TABLAS
+
+> <small>N. DE E. VEASE TABLAS EN LA G.O. DE 16 DE MARZO DE 2010, PAGINAS DE LA 10 A LA 155.</small>
 
 ###### ARTICULO VIGESIMO SEGUNDO.
 
@@ -8837,3 +8865,21 @@ Este documento se entregará con la finalidad de acreditar la casa habitación q
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintitrés días del mes de diciembre del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. LIZBETH EUGENIA ROSAS MONTERO, PRESIDENTA.- DIP. MARÍA DE LOURDES AMAYA REYES, SECRETARIA.- RAFAEL CALDERÓN JIMÉNEZ, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 16 DE MARZO DE 2010.
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO. A los solicitantes por primera vez, de los derechos por suministro de agua que no cuenten con medidor instalado de uso doméstico que se ubiquen en manzanas tipo popular, bajo y medio y/o solicitantes a regularizar los servicios de agua en estas mismas zonas, así como por la instalación y/o regularización de albañales para su conexión a las redes de drenaje, se otorgará un descuento del 50% en lo referente al pago de derechos de conexión de tomas y descargas domiciliarias que se establecen en el artículo 181, Apartado A, numeral I, inciso A); y Apartado B fracción I, inciso A).
+
+El pago de los derechos con descuento anteriormente descrito, se realizará mediante cuatro pagos parciales.
+
+El monto de la parcialidad se añadirá a los cargos por suministro de agua potable en la boleta emitida por el Sistema de Aguas de la Ciudad de México.
+
+En el caso de la descarga de albañal el monto de la parcialidad se cubrirá bimestralmente ante la Tesorería del Distrito Federal.
+
+El monto por el pago de conexión se realizará mediante la presentación de los siguientes documentos: copia simple de la escritura del predio donde resida y/o copia de boleta predial, este documento se entregará con la finalidad de acreditar la casa habitación que se encuentre dentro de un lote con más de una vivienda.
