@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-salud-52289"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-07"
-last_updated: "2006-11-07"
+last_updated: "2010-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2010.
 
 Reglamento Publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 7 de noviembre de 2006.
 
@@ -51,7 +51,9 @@ II. Subsecretaría de Regulación y Fomento Sanitario;
 
 III. Coordinación Administrativa;
 
-IV. Coordinación de Planeación y Evaluación del Desempeño;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2010)</small>
+
+IV. Dirección Técnica, Planeación y Evaluación del Desempeño;
 
 V. Dirección General de Asuntos Jurídicos;
 
@@ -333,9 +335,11 @@ XIX. Coordinar de acuerdo a los lineamientos de la Secretaría de la Función P�
 
 XX. Las demás que le confiera la normatividad aplicable o el Secretario
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2010)</small>
+
 ###### ARTÍCULO 13.
 
-El titular de la Coordinación de Planeación y Evaluación del Desempeño, tendrá las atribuciones y obligaciones siguientes:
+El titular de la Dirección Técnica, Planeación y Evaluación del Desempeño, tendrá las atribuciones y obligaciones siguientes:
 
 I. Proponer y emitir, en coordinación con el Sector Salud, las políticas y normas sobre información estadística que deban reportar los Servicios de Salud;
 
@@ -379,9 +383,43 @@ XX. Realizar la integración documental de carpetas relativas a la Secretaría p
 
 XXI. Efectuar, en el ámbito de competencia de la Secretaría, el seguimiento de acuerdos del Consejo Nacional de Salud;
 
-XXII. Apoyar al titular de la Secretaría en la elaboración de documentos para la comparecencia ante el Congreso del Estado, y
+XXII. Apoyar al titular de la Secretaría en la elaboración de documentos para la comparecencia ante el Congreso del Estado, y (sic)
 
-XXIII. Las demás que le confiera la normatividad aplicable o el Secretario.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE MARZO DE 2010)</small>
+
+XXIII. Identificar los factores que afectan la operación de los servicios de salud en las jurisdicciones sanitarias y gestionar, en el ámbito de su competencia, las medidas aplicables;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2010)</small>
+
+XXIV. Coordinar y supervisar la ejecución y cumplimiento de la política general de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2010)</small>
+
+XXV. Desempeñar las comisiones, representaciones y funciones que le confiera el Secretario, así como mantenerlo informado sobre su desarrollo, avance y cumplimiento;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2010)</small>
+
+XXVI. Vigilar que en todos los asuntos a su cargo y de las unidades bajo su responsabilidad se dé cumplimiento a los ordenamientos y a las disposiciones que sean aplicables;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2010)</small>
+
+XXVII. Realizar, en coordinación con otros servidores públicos de la Secretaría, las labores y actividades que le hayan sido (sic)
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2010)</small>
+
+XXVIII. Supervisar el desahogo de la correspondencia recibida en la Secretaría;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2010)</small>
+
+XXIX. Diseñar, establecer y operar un sistema de información, análisis y archivo para el despacho de los asuntos encomendados al Secretario;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2010)</small>
+
+XXX. Verificar y evaluar la realización de los programas e instrucciones especiales que disponga el Secretario y,
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2010)</small>
+
+XXXI. Las demás que le confiera la normatividad aplicable o el Secretario.
 
 ###### ARTÍCULO 14.
 
@@ -712,3 +750,9 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MARZO DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
