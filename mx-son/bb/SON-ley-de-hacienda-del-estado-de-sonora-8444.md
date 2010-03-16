@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2009-12-31"
+last_updated: "2010-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "SON"
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
 ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2009.
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -425,7 +427,7 @@ Son ingresos gravados en los términos de la Fracción II del artículo 69 de é
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-I.- Los obtenidos por la maquila de harina o masa, de maíz o trigo y los de pasteurización de leche.
+I.- Los obtenidos por la maquila de harina o masa, de maíz o trigo y los de pasteurización de leche;
 
 II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
@@ -2769,17 +2771,17 @@ Toda la recaudación que por concepto de ésta contribución se obtenga en cada 
 
 ### Capítulo Tercero. Servicios por la Expedición y Revalidación de Licencias para la Venta de Bebidas con Contenido Alcohólico
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ### Capítulo Cuarto. Servicios de Ganadería
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 ### Capítulo Quinto. Servicios por Expedición, Inscripción y Registro de Títulos y por Autorización para ejercer cualquier Profesión o Especialidad
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -2897,13 +2899,13 @@ Para la realización del Programa de Carreteras Estatales que desarrollará el G
 
 Estas contribuciones se recaudarán en la misma forma y simultáneamente con los impuestos normales respectivos sobre producción y sacrificio de ganado vacuno y sobre producción agrícola.
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 ## TITULO CUARTO. De los Derechos
 
 ### Capítulo Sexto. Por Servicios de Certificaciones, Constancias y Autorizaciones
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3001,7 +3003,7 @@ Cuando el pago de derechos deba efectuarse con posterioridad a la prestación de
 
 ### Capítulo Séptimo. Servicios prestados por la Dirección General de Notarías
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3013,7 +3015,7 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 
 ### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3157,7 +3159,7 @@ Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y 
 
 ### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -3233,7 +3235,7 @@ i) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3261,7 +3263,7 @@ del punto anterior, por cada prórroga. N$ 50.00
 
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -3495,7 +3497,7 @@ a).- Por notario y por cada año de búsqueda. $150.00
 
 ### Capítulo Décimo Tercero. Servicios del Registro Civil
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3581,7 +3583,7 @@ XI.- Por la expedición de constancias del archivo administrativo de Servidores 
 
 ### Capitulo Décimo Cuarto. Otros Servicios
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3701,7 +3703,7 @@ El pago de los derechos por canje de placas se efectuará por trienio, durante l
 
 Las autoridades estatales o municipales competentes en el Estado, en la actualización del registro de vehículos por altas, cambios, bajas de placas o realicen el canje de placas por el término de su vigencia, deberán cerciorarse que no existan adeudos por concepto de derechos de placas o revalidaciones de las mismas, correspondientes a los últimos 5 años. En caso de que existan adeudos, dichas autoridades procederán a llevar a cabo su cobro, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3733,7 +3735,7 @@ En caso de extravío de una o ambas placas, su reposición implicará la asignac
 
 Tratándose de baja de placas por robo de vehículo previa la acreditación de la presentación de la denuncia respectiva ante la autoridad competente, no se cobrará el derecho correspondiente.
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -3813,7 +3815,7 @@ Por 2 años $726.00
 
 A las reposiciones de licencias se les aplicará el mismo importe de los derechos que cause la expedición de licencias nuevas. Cuando por causas imputables al usuario se deba de reponer la licencia ya impresa se deberá pagar el derecho equivalente a la licencia de un año, siempre y cuando ésta se realice el mismo día de su expedición.
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -3853,7 +3855,7 @@ La expedición, canje o baja de placas, así como la expedición de las licencia
 
 La Secretaría de Hacienda podrá emitir normatividad simplificando los trámites o reduciendo los requisitos a que se refiere el párrafo anterior, a fin de facilitar el cumplimiento de las obligaciones de los solicitantes por los servicios, la cual deberá publicarse en el Boletín Oficial del Gobierno del Estado e iniciará su vigencia a partir del día hábil siguiente al de su publicación.
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -4479,7 +4481,7 @@ Las inscripciones de cualquier acto que se celebre fuera de la oficina, en horas
 
 El Ejecutivo del Estado por conducto de la dependencia que corresponda, previo estudio socioeconómico, podrá autorizar la exención de los derechos a que se refieren los puntos 1 y 6 de la fracción I de este artículo.
 
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2009, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 12 DE MARZO DE 2009.</small>
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL PRIMER SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 16 DE MARZO DE 2010.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
