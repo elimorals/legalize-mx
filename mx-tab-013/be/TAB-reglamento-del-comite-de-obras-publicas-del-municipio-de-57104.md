@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-del-comite-de-obras-publicas-del-municipio-de-57104"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-19"
-last_updated: "2007-09-19"
+last_updated: "2010-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAB"
 ---
 # REGLAMENTO DEL COMITE DE OBRAS PUBLICAS DEL MUNICIPIO DE NACAJUCA, TABASCO
 
-REGLAMENTO DEL COMITE DE OBRAS PUBLICAS DEL MUNICIPIO DE NACAJUCA, TABASCO
+REGLAMENTO DEL COMITÉ DE OBRAS PÚBLICAS DEL MUNICIPIO DE NACAJUCA, TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL COMITÉ DE OBRAS PÚBLICAS DEL MUNICIPIO DE NACAJUCA, TABASCO, PUBLICADO EN EL P.O. DE 17 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 19 de septiembre del 2007.
 
@@ -330,3 +332,31 @@ DÉCIMO PRIMER REGIDOR
 C.T.A. GUALBERTO A. ISIDRO FLORES
 
 DUODÉCIMO REGIDOR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE MARZO DE 2010.
+
+###### ARTICULO PRIMERO.
+
+En lo no previsto por el presente Reglamento se aplicará de manera supletoria las disposiciones de la Ley de Obras Publicas y Servicios Relacionados con las Mismas del Estado de Tabasco, su Reglamento respectivo y la Circular Número 19078, publicada en el suplemento 6448 B del Periódico Oficial de fecha 23 de Junio del 2004.
+
+###### ARTICULO SEGUNDO.
+
+El presente Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO TERCERO.
+
+Se abroga el Reglamento del Comité de Obras Públicas del Municipio de Nacajuca, Tabasco publicado en el suplemento del Periódico Oficial del Estado número 6786 B de fecha 19 de Septiembre de 2007, así como todas aquellas disposiciones que se opongan a lo ordenado en el presente Reglamento.
+
+###### ARTICULO CUARTO.
+
+La Contraloría Municipal deberá integrar el Padrón de Contratistas del Municipio de Nacajuca Tabasco, mismo que deberá comenzar a los 15 días de la publicación del presente Reglamento.
+
+###### ARTICULO QUINTO.
+
+Para los procesos de Licitación Pública, Invitación Restringida a cuando menos cinco personas o Adjudicación Directa, se convocaran para participar en estos procesos a los contratistas que cuenten con su registro vigente en el Padrón de la Contraloría Municipal y la Secretaria de Contraloría del Gobierno del estado.
+
+###### ARTICULO SEXTO.
+
+Solo en casos excepcionales y cuando no se cuente con la especialidad requerida para la ejecución de una obra pública, dentro de las empresas contratistas registradas en el Padrón de la Contraloría Municipal, se convocará a personas Físicas o Jurídico colectivas, a participar en los procesos de contratación siempre y cuando su registro este vigente en el Padrón de la Secretaría de Contraloría del Gobierno del Estado.
