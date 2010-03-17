@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ingresos-de-los-municipios-del-estado-de-mexico-para-724
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2009-12-10"
-last_updated: "2009-12-10"
+last_updated: "2010-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MEXICO PARA EL EJERCICIO FISCAL DEL AÑO 2010
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MARZO DE 2010.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el jueves 10 diciembre de 2009.
 
@@ -269,6 +269,22 @@ Para el ejercicio fiscal del año 2010, el importe anual a pagar por los contrib
 
 Se exceptúan los casos en que se observe alguna modificación de la superficie de terreno y/o construcción, así como de la tipología de construcción, conforme a lo manifestado por el contribuyente o verificado por la autoridad.
 
+> <small>(ADICIONADO, G.G. 17 DE MARZO DE 2010)</small>
+
+###### Artículo 21.
+
+En el caso de la emisión de Declaratorias de Emergencia por la ocurrencia de algún fenómeno natural cuya repercusión represente afectación a algún municipio o municipios de la Entidad, el ayuntamiento o ayuntamientos referidos en las Declaratorias de Emergencia, podrán acordar a favor de las personas físicas y jurídico-colectivas que sean propietarias o poseedoras de inmuebles ubicados en su territorio, que hayan resultado afectados por dichos fenómenos, la exención del pago del Impuesto Predial.
+
+Los términos y condiciones en cuanto a su otorgamiento se determinarán en el correspondiente Acuerdo de Cabildo.
+
+> <small>(ADICIONADO, G.G. 17 DE MARZO DE 2010)</small>
+
+###### Artículo 22.
+
+En el caso de la emisión de Declaratorias de Emergencia por la ocurrencia de algún fenómeno natural cuya repercusión represente afectación a algún municipio o municipios de la Entidad, el ayuntamiento o ayuntamientos referidos en las Declaratorias de Emergencia, podrán acordar a favor de las personas físicas y jurídico-colectivas que sean propietarias o poseedoras de inmuebles ubicados en su territorio, que hayan resultado afectados por dichos fenómenos, la exención en el pago de los Derechos de Agua Potable y Drenaje, establecidos en el Código Financiero del Estado de México y Municipios.
+
+Los términos y condiciones en cuanto a su otorgamiento se determinarán en el correspondiente Acuerdo de Cabildo.
+
 T R A N S I T O R I O S
 
 PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
@@ -294,3 +310,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 17 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
