@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-del-comite-de-compras-del-municipio-de-nacajuca-3253
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-14"
-last_updated: "2003-06-14"
+last_updated: "2010-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAB"
 ---
 # REGLAMENTO DEL COMITE DE COMPRAS DEL MUNICIPIO DE NACAJUCA, TABASCO
 
-REGLAMENTO DEL COMITE DE COMPRAS DEL MUNICIPIO DE NACAJUCA, TABASCO
+REGLAMENTO DEL COMITÉ DE COMPRAS DEL MUNICIPIO DE NACAJUCA, TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL COMITÉ DE COMPRAS DEL MUNICIPIO DE NACAJUCA, TABASCO, PUBLICADO EN EL P.O. DE 17 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 14 de junio de 2003.
 
@@ -544,3 +546,13 @@ PROFR. CÉSAR DE LA CRUZ OSORIO
 SECRETARIO DEL AYUNTAMIENTO
 
 PROF. JAVIER OLÁN FRÍAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE MARZO DE 2010.
+
+PRIMERO. El presente reglamento es de estricta observancia para las diferentes dependencias del Municipio y entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga Reglamento (sic) del Comité de Adquisiciones, Arrendamientos y Servicios Relacionados con Bienes Muebles del Municipio de Nacajuca, Tabasco, publicado en el suplemento al Periódico Oficial del Gobierno del Estado de Tabasco, número 6341 "B" de fecha 14 de junio del año 2003.
+
+TERCERO. Quedan sin efecto todas las disposiciones administrativas que contravengan lo dispuesto en el presente Reglamento.
