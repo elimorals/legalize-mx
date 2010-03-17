@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-para-regular-la-difusion-y-fijacion-de-la-55799"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-30"
-last_updated: "2007-05-30"
+last_updated: "2010-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO PARA REGULAR LA DIFUSION Y FIJACION DE LA PROPAGANDA DE PRECAMPAÑA Y CAMPAÑA ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA REGULAR LA DIFUSION Y FIJACION DE LA PROPAGANDA DURANTE EL PROCESO ELECTORAL, PUBLICADO EN EL P.O. DE 17 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado el Periódico Oficial del Estado de Sinaloa, el miércoles 30 de mayo de 2007.
 
@@ -280,3 +282,11 @@ LIC. ARTURO FAJARDO MEJÍA
 SECRETARIO GENERAL
 
 El presente Reglamento fue aprobado por el Pleno Consejo Estatal Electoral en la cuarta sesión ordinaria, a los 25 días del mes de mayo del año dos mil siete.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE MARZO DE 2010.
+
+PRIMERO.- El presente Reglamento para regular la difusión y fijación de propaganda durante el proceso electoral, deberá publicarse en el Periódico Oficial <<El Estado de Sinaloa>>.
+
+SEGUNDO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial <<El Estado de Sinaloa>>, abrogándose en consecuencia el Reglamento para regular la difusión y fijación de la propaganda de precampaña y campaña electoral aprobado por el Pleno del Consejo Estatal Electoral el veinticinco de mayo de 2007.
