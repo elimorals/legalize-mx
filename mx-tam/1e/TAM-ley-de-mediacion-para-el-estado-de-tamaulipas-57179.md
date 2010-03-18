@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-mediacion-para-el-estado-de-tamaulipas-57179"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-21"
-last_updated: "2007-08-21"
+last_updated: "2010-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE MEDIACION PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 21 de agosto de 2007.
 
@@ -173,9 +173,17 @@ d) Instituir el registro de mediadores públicos y privados que ejerzan la media
 
 e) Supervisar que los mediadores independientes y los Centros de Mediación Públicos y Privados realicen la función de mediación con apego estricto a lo establecido en la presente ley;
 
-f) Atender las quejas y sugerencias que presenten los mediados, en relación con los servicios que prestan los mediadores registrados en los Centros de Mediación Públicos y Privados; y
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
-g) Las demás que se deriven de esta ley u otros ordenamientos legales que resulten aplicables.
+f) Atender las quejas y sugerencias que presenten los mediados, en relación con los servicios que prestan los mediadores registrados en los Centros de Mediación Públicos y Privados;
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+g) Prestar el servicio de mediación; y
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
+h) Las demás que se deriven de esta ley y otros ordenamientos legales que resulten aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -197,9 +205,15 @@ g) Atender las sugerencias y desahogar las quejas que se presenten con relación
 
 h) Celebrar convenios con instituciones y organismos de los sectores social, privado y público para impulsar el cumplimiento de sus funciones;
 
-i) Establecer mecanismos de difusión que permitan el conocimiento de la sociedad sobre la mediación y la conciliación; y
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
-j) Las demás que se deriven de otros ordenamientos legales.
+i) Establecer mecanismos de difusión que permitan el conocimiento de la sociedad sobre la mediación y la conciliación;
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+j) Crear y operar Centros de Mediación, de acuerdo a sus previsiones presupuestales; y
+
+k) Las demás que se deriven de otros ordenamientos legales.
 
 ###### ARTÍCULO 16.
 
@@ -275,9 +289,15 @@ e) Celebrar convenios de colaboración, previo acuerdo de la Junta Directiva, co
 
 f) Representar al Instituto para la celebración de todos aquellos actos jurídicos que conforme a las leyes requieran de mandato para pleitos y cobranzas y para administración, informando de su ejercicio a la Junta Directiva;
 
-g) Realizar los nombramientos que, conforme a esta Ley, no correspondan al Ejecutivo del Estado en el Instituto; y
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
-h) Las demás que se prevean en la presente Ley o le encomienden el Ejecutivo del Estado o la Junta Directiva dentro de su objeto.
+g) Realizar los nombramientos que, conforme a esta ley, no correspondan al Ejecutivo del Estado en el Instituto;
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+h) Imponer sanciones a los Centros de Mediación y a los Mediadores cuando lo amerite, así como resolver los recursos interpuestos en contra de las resoluciones emitidas por el Instituto; e
+
+i) Las demás que se prevean en la presente ley, le encomiende la Junta Directiva o el Ejecutivo del Estado.
 
 ###### ARTÍCULO 20.
 
@@ -307,9 +327,25 @@ El Director General del Instituto y su personal se regirán por el calendario de
 
 ###### ARTÍCULO 24.
 
-1. El Instituto se extinguirá cuando a juicio del Ejecutivo del Estado hubiere cumplido su objeto, mediante un acto jurídico de igual naturaleza al que lo creó.
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
 
-2. Al liquidarse su patrimonio, el mismo podrá asignarse a otra entidad estatal con vocación análoga o, en su defecto, integrarse al patrimonio público estatal por conducto de la Secretaría de Administración.
+1. El Instituto contará con Centros de Mediación cuya finalidad será la de prestar el servicio de mediación de forma gratuita, voluntaria, confidencial, flexible e imparcial donde un tercero neutral denominado mediador facilitará el diálogo y el entendimiento para que las partes envueltas en una controversia lleguen a un acuerdo mutuo y satisfactorio basado siempre en el principio de legalidad.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+2. Los Centros de Mediación del Instituto estarán integrados por:
+
+a) Un Jefe del Centro;
+
+b) Mediadores suficientes para atender las necesidades de los usuarios;
+
+c) Un Invitador; y
+
+d) El personal administrativo necesario que el presupuesto del Instituto permita.
+
+3. El Instituto se extinguirá cuando a juicio del Ejecutivo del Estado hubiere cumplido su objeto, mediante un acto jurídico de igual naturaleza al que lo creó.
+
+4. Al liquidarse su patrimonio, el mismo podrá asignarse a otra entidad estatal con vocación análoga o, en su defecto, integrarse al patrimonio público estatal por conducto de la Secretaría de Administración.
 
 ### CAPÍTULO III. DE LA MEDIACIÓN EN EL PODER JUDICIAL
 
@@ -369,15 +405,25 @@ En el Estado, la mediación podrá desarrollarse por mediadores públicos o priv
 
 ###### ARTÍCULO 31.
 
-Para el registro de los mediadores públicos o privados en el Instituto, los interesados deberán cumplir con los requisitos siguientes:
+1. Para el registro de los mediadores públicos o privados en el Instituto, los interesados deberán cumplir con los requisitos siguientes:
 
 a) Ser mayor de 21 años, en pleno ejercicio de sus derechos civiles y políticos;
 
 b) Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de la libertad mayor a un año; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime la buena fama, quedará inhabilitado para desempeñar la función, cualquiera que haya sido la pena impuesta;
 
-c) Acreditar, mediante documento idóneo expedido por institución autorizada, que está capacitado en las técnicas de la mediación con mínimo de trescientas horas de carácter teórico y práctico; y
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
+c) Acreditar, mediante documento idóneo expedido por institución autorizada, que está capacitado en las técnicas de la mediación con mínimo de ciento veinte horas de carácter teórico y práctico; y
 
 d) Aprobar examen psicológico y de conocimientos teórico-prácticos, relativo al procedimiento de mediación, que aplicará el Instituto.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+2. La certificación y registro de mediadores deberá ser refrendada cada dos años, previa revisión de los incisos b) y d) anteriores.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+3. En caso de improcedencia de la certificación como mediador, o por la denegación del refrendo, el interesado podrá presentar recurso de reconsideración, en términos de lo previsto por el artículo 58 de esta ley.
 
 ###### ARTÍCULO 32.
 
@@ -519,6 +565,10 @@ d) Desahogo de los demás puntos que se estimen convenientes por los mediados o 
 
 2. Las sesiones de mediación serán orales.
 
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+3. En el supuesto que las partes involucradas acepten la mediación, se firmará un acuerdo de confidencialidad y aceptación de dicho procedimiento.
+
 ###### ARTÍCULO 44.
 
 1. Cuando una sesión no baste para resolver el conflicto, se citará a los mediados a las reuniones que a juicio del mediador resulten necesarias, en el plazo más corto posible, tomándose en cuenta las actividades del Centro de Mediación, en su caso, y las necesidades de los interesados.
@@ -577,9 +627,17 @@ d) Describir el conflicto y demás antecedentes que resulten necesarios;
 
 e) Especificar los acuerdos a que hubiesen llegado las partes;
 
-f) Contener la firma de los participantes. En caso de que alguno de los mediados no supieren o no pudieren firmar, pondrán sus huellas dactilares y, a su ruego, firmará un tercero, haciéndose constar esta circunstancia; y
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
-g) Contener la firma del mediador o mediadores que intervinieron en el procedimiento.
+f) Contener la firma de los participantes. En caso de que alguno de los mediados no supieren o no pudieren firmar, pondrán sus huellas dactilares y, a su ruego, firmará un tercero, haciéndose constar esta circunstancia;
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
+g) Contener la firma del mediador o mediadores que intervinieron en el procedimiento; y
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+h) Contener una cláusula de remediación para los casos de incumplimiento o interpretación de lo pactado en el mismo.
 
 ###### ARTÍCULO 49.
 
@@ -587,9 +645,11 @@ g) Contener la firma del mediador o mediadores que intervinieron en el procedimi
 
 2. Si el conflicto fue planteado directamente por los interesados, el convenio certificado por el Director del Centro de Mediación tendrá el carácter de documental pública.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### ARTÍCULO 50.
 
-Es obligatorio para las partes el cumplimiento del convenio celebrado ante el Centro de Mediación.
+Es obligatorio para las partes el cumplimiento del convenio celebrado ante el Centro de Mediación, ya sea público o privado. Dicho convenio podrá ratificarse y certificarse ante los siguientes funcionarios: Director General del Instituto, Director o Jefes regionales del Centro de Mediación del Instituto, la autoridad competente de la Procuraduría General de Justicia en el Estado o ante Notario Público con ejercicio en el Estado.
 
 ###### ARTICULO 51.
 
@@ -625,7 +685,7 @@ En contra de la resolución en la cual un órgano jurisdiccional se niegue a apr
 
 ###### ARTÍCULO 54.
 
-1. Los convenios celebrados ante un mediador privado, cuando no se haya iniciado juicio, serán ratificados ante Notario Público.
+1. (DEROGADO, P.O. 18 DE MARZO DE 2010)
 
 2. Los convenios celebrados cuando exista proceso judicial se incorporarán al juicio y se ratificarán ante la autoridad correspondiente.
 
@@ -653,9 +713,15 @@ La intervención del Centro de Mediación o de un mediador particular suspender�
 
 ###### ARTÍCULO 58.
 
-1. La resolución derivada de la verificación admitirá el recurso de revisión ante la Secretaría General de Gobierno, mediante escrito que se presente dentro de los tres días siguientes a aquél en que se haya notificado, expresándose los motivos de inconformidad.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
-2. Los Centros de Mediación o los mediadores particulares que, de conformidad con la resolución emitida por el Director del Instituto, cometan infracciones a esta ley incurrirán en responsabilidad y se sujetarán a las sanciones establecidas en este ordenamiento, sin perjuicio de los actos probablemente constitutivos de delito, en cuyo caso el Director del Instituto dará vista al Ministerio Público para los efectos legales procedentes.
+1. La resolución derivada de la verificación admitirá el recurso de reconsideración ante el Director General del Instituto de Mediación, mediante escrito que se presente dentro de los tres días siguientes a aquél en que se haya notificado dicha resolución, cuyo procedimiento se reducirá a una sola audiencia en donde se determinará su procedencia.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+2. El Director General pronunciará resolución fundada y motivada dentro del término de tres días siguientes a la audiencia, a menos que a su juicio se requiera mayor tiempo para resolver la controversia, el cual no excederá de diez días hábiles.
+
+3. Los Centros de Mediación o los mediadores particulares que, de conformidad con la resolución emitida por el Director del Instituto, cometan infracciones a esta ley incurrirán en responsabilidad y se sujetarán a las sanciones establecidas en este ordenamiento, sin perjuicio de los actos probablemente constitutivos de delito, en cuyo caso el Director del Instituto dará vista al Ministerio Público para los efectos legales procedentes.
 
 ###### ARTÍCULO 59.
 
@@ -714,3 +780,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los seis días del mes de junio del año dos mil siete.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTÍNEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE MARZO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
