@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2009-12-24"
+last_updated: "2010-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -131,7 +131,9 @@ Para citar a los servidores públicos del Estado, se deberá cumplir con el proc
 
 I. La solicitud al pleno deberá ser presentada por escrito y firmada por lo menos, por la cuarta parte de los diputados integrantes del Congreso, señalando al servidor público, el asunto a tratar y la fecha en que debe asistir;
 
-II. Una vez analizado, si el asunto por el cual se pretende citar al servidor público, es de los que se refieren las fracciones I y II anteriores, el pleno resolverá lo procedente; y
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2010)</small>
+
+II. Una vez analizado, si el asunto por el cual se pretende citar al servidor público, es relativo a las fracciones I y II del primer párrafo de este artículo, el pleno resolverá lo procedente; y
 
 III. En caso de aprobación del pleno, el Presidente del Congreso, por conducto de la Oficialía Mayor, notificará al servidor público el acuerdo, con una anticipación de por lo menos ocho días, especificándole el motivo por el cual debe comparecer al Congreso.
 
@@ -387,9 +389,11 @@ II. Llegar a las sesiones o reuniones de trabajo después del pase de lista de a
 
 III. Abandonar las sesiones o reuniones de trabajo sin permiso del Presidente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 40.
 
-Corresponde al Presidente de la Mesa Directiva, otorgar, por causa justificada, permisos para retardos y faltar o ausentarse de las sesiones plenarias, en los siguientes casos:
+Corresponde al Presidente de la Mesa Directiva, otorgar, por causa justificada, permisos para retardos y faltas o ausentarse de las sesiones plenarias, en los siguientes casos:
 
 I. Cuando se solicite con antelación a la sesión correspondiente, el registro de asistencia para presentarse a la sesión después de haber pasado lista de asistencia;
 
@@ -401,15 +405,19 @@ IV. Para dejar de asistir, cuando por razones de salud se vea impedido de acudir
 
 Se justificará el retardo, falta o ausencia de un diputado, cuando previamente a la sesión o sesiones, avise y exponga sus motivos al Presidente de la Mesa Directiva. La falta sin previo aviso, sólo se justificará en caso de fuerza mayor. De igual forma, sólo se podrá otorgar permiso a cinco diputados, como máximo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 41.
 
-Corresponde al pleno, autorizar permisos a los diputados para dejar de asistir a más de dos sesiones o dos semanas en un mes y por causa de enfermedad grave hasta por noventa días, siempre y cuando no se afecte el quórum legal y exista causa grave y justificada, así como autorizar licencias por tiempo determinado o indeterminado, en cuyo caso deberá llamarse al suplente hasta el término de la licencia respectiva.
+Corresponde al pleno, autorizar permisos a los diputados para dejar de asistir a más de dos sesiones o más de tres semanas en un mes y por causa de enfermedad grave hasta por noventa días, siempre y cuando no se afecte el quórum legal y exista causa grave y justificada; así como autorizar licencias por tiempo determinado o indeterminado, en cuyo caso deberá llamarse al suplente hasta el término de la licencia respectiva.
 
 Se entiende que los diputados que falten a sesiones consecutivas del pleno por el término de un mes sin causa justificada y sin previo aviso al Presidente, renuncian a concurrir a sesiones hasta el periodo inmediato, llamándose desde luego a los suplentes.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 42.
 
-Cuando algún diputado se reporte enfermo, el Presidente designará una comisión de dos o más diputados para que pasen a visitarlo periódicamente por el término de su enfermedad, debiendo rendir dicha comisión, un informe respectivo a su desempeño y a las necesidades del enfermo, para que se le preste ayuda en cuanto fuere posible. En el caso de que llegare a sufrir una incapacidad permanente, gozará de una pensión; para tal efecto, el pleno de la legislatura, en sesión secreta, determinará lo relativo a la cuantía y temporalidad de ésta, previendo económicamente por su calidad de vida futura. Si falleciere, se imprimirán esquelas a nombre del Congreso y el Presidente designará una comisión para que asista, con la representación de la legislatura, a los funerales y se encargue de expresar las condolencias a los familiares del fallecido. Los gastos del sepelio correrán a cargo del presupuesto del Congreso.
+Cuando algún diputado se reporte enfermo, el Presidente designará una comisión de dos o más diputados para que pasen a visitarlo periódicamente por el término de su enfermedad, debiendo rendir dicha comisión, un informe respectivo a su desempeño y a las necesidades del enfermo, para que se le preste ayuda en cuanto fuere posible. En el caso de que llegare a sufrir una incapacidad permanente, gozará de una pensión; para tal efecto, el pleno de la legislatura, en sesión privada, determinará lo relativo a la cuantía y temporalidad de ésta, previendo económicamente por su calidad de vida futura. Si falleciere, se imprimirán esquelas a nombre del Congreso y el Presidente designará una comisión para que asista, con la representación de la legislatura, a los funerales y se encargue de expresar las condolencias a los familiares del fallecido. Los gastos del sepelio correrán a cargo del presupuesto del Congreso.
 
 ###### Artículo 43.
 
@@ -509,9 +517,11 @@ III. Facilitar la formación de criterios comunes de los diputados de una sola f
 
 IV. Propiciar y suscribir acuerdos parlamentarios, para agilizar un procedimiento o acto y resolver algún asunto o caso no previsto.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 50.
 
-Los grupos parlamentarios dispondrán de locales adecuados en las instalaciones del Congreso del Estado, así como del personal de apoyo y los elementos materiales necesarios para el cumplimiento de sus funciones, de acuerdo a las posibilidades y presupuesto del Congreso.
+Los grupos parlamentarios dispondrán de locales adecuados en las instalaciones del Congreso del Estado, así como de un Secretario Técnico, Asesores, personal de apoyo y los elementos materiales necesarios para el cumplimiento de sus funciones, de acuerdo a las posibilidades y el presupuesto del Congreso.
 
 ### CAPÍTULO IV. DE LOS PERIODOS Y LAS SESIONES DEL CONGRESO
 
@@ -995,9 +1005,11 @@ II. Suplir las ausencias de los secretarios o el presidente, cuando así lo acue
 
 III. Las demás que les confieran otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 91.
 
-En caso de que el Presidente de la Gran Comisión se ausentare de manera definitiva, inmediatamente se nombrará una nueva directiva en la forma establecida por el artículo 86. Su ausencia temporal será cubierta por el primer secretario.
+Cuando el Presidente de la Gran Comisión se ausentare de manera definitiva, inmediatamente se nombrará una nueva directiva en la forma establecida por el artículo 86 de esta ley. Su ausencia temporal será cubierta por el primer secretario.
 
 Las ausencias temporales o definitivas de los secretarios y vocales serán cubiertas por quien proponga la forma de organización partidista a que correspondan, debiendo ser ratificadas por el pleno.
 
@@ -1063,9 +1075,11 @@ Para el despacho de los asuntos de su incumbencia, las comisiones se reunirán m
 
 Cualquier miembro del Congreso puede asistir, sin derecho a voto, a las reuniones de trabajo de las comisiones y exponer libremente en ellas su parecer sobre el asunto en estudio.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 103.
 
-La Comisión rendirá sus dictámenes al pleno legislativo, a más tardar treinta días después de que se hayan turnado los asuntos; y con aprobación de la misma, se podrá prorrogar por un período igual, dando aviso oportuno al Presidente del Congreso. Se exceptúan de esta disposición, las reformas de carácter Constitucional.
+La Comisión rendirá sus dictámenes al pleno legislativo, a más tardar treinta días después de que se hayan turnado los asuntos; y con aprobación de la misma, se podrá prorrogar por un período igual, dando aviso oportuno al Presidente del Congreso.
 
 ###### Artículo 104.
 
@@ -1123,9 +1137,11 @@ IX. Llevar el registro y control de las reuniones celebradas o suspendidas y for
 
 X. Las demás que le otorgue el Presidente o la Comisión Legislativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 109.
 
-Las convocatorias a reunión de comisiones, deberán comunicarse con la anticipación mínima señalada en el artículo anterior, según sea el caso, salvo urgencia determinada por la mayoría de los miembros de la comisión, y deberá incluir lo siguiente:
+Las convocatorias a reunión de comisiones, deberán comunicarse con la anticipación mínima señalada en el artículo 107 de esta ley, según sea el caso, salvo urgencia determinada por la mayoría de los integrantes de la comisión, y deberá incluir lo siguiente:
 
 I. Proyecto de orden del día;
 
@@ -1627,7 +1643,9 @@ XV. Sancionar los trámites de los asuntos relativos a los recursos humanos del 
 
 XVI. Presentar a la Gran Comisión, dentro de los dos primeros meses del ejercicio de su encargo, un Plan Institucional de Desarrollo Administrativo del Congreso del Estado, en el cual deberá señalar con precisión, las facultades, atribuciones y metas que deberán realizar los distintos órganos administrativos a su cargo;
 
-XVII. Rendir un informe bimestral de ejercicio presupuestal ante la Comisión de Administración y Contraloría Interna del Congreso, y un informe anual de esa naturaleza ante el pleno del Congreso, por conducto de la misma comisión, en sesión secreta;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2010)</small>
+
+XVII. Rendir un informe bimestral del ejercicio presupuestal correspondiente ante la Comisión de Administración y Contraloría Interna del Congreso, y un informe anual de esa naturaleza ante el pleno del Congreso, por conducto de la misma comisión, en sesión privada;
 
 XVIII. Intervenir en las adquisiciones, servicios y suministros de las áreas del Congreso, así como en los contratos en los que el Congreso sea parte y cuya celebración suponga una afectación directa al presupuesto de Oficialía Mayor;
 
@@ -1849,11 +1867,9 @@ Ninguna iniciativa, asunto o petición se discutirá y votará en el Pleno sin e
 
 Los dictámenes deberán contener una exposición clara en la cual se habrán de expresar las razones y argumentos tomados en cuenta para emitirlo, y concluir sometiendo a la consideración del Congreso, el proyecto de ley, decreto o acuerdo, según corresponda.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 178.
-
-La Comisión que corresponda, presentará su dictamen al Pleno en un plazo no mayor a treinta días posteriores a la fecha en que haya recibido el expediente respectivo.
-
-Cuando la naturaleza de la iniciativa o asunto lo requiera, la Comisión respectiva solicitará al Presidente de la Mesa Directiva o al Pleno, un plazo mayor de manera fundada y motivada.
 
 Los dictámenes derivados del ejercicio de atribuciones distintas a la creación, reforma, adición, derogación o abrogación de leyes o decretos, se presentarán al Pleno, según los plazos y procedimientos especiales establecidos para tal efecto.
 
@@ -1863,9 +1879,11 @@ Los dictámenes derivados del ejercicio de atribuciones distintas a la creación
 
 Cuando a juicio de la Comisión se requiera mejor proveer sobre una iniciativa o asunto en estudio o sobre alguno de los temas o puntos contenidos en ellos, podrá instruir al Instituto y a los asesores de las distintas formas de organización partidista para que realicen el estudio de los mismos y emitan una opinión no vinculatoria; o en su caso, proceder en los términos previstos en el capítulo relacionado con las comisiones legislativas, según sea el caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 180.
 
-Formulado el proyecto de dictamen, se presentará a la comisión, entregando para ello una copia a cada uno de los integrantes de la misma y se leerá en una sola ocasión en su totalidad, salvo que los integrantes de la misma acuerden su lectura parcial, o dispensa, según sea el caso.
+Formulado el proyecto de dictamen, se presentará a la comisión, entregando una copia a cada uno de sus integrantes y se leerá en una sola ocasión en su totalidad, salvo que acuerden su lectura parcial, o dispensa, según sea el caso.
 
 Concluida la lectura o aprobada su dispensa, se procederá a debatir y votar el proyecto en lo general y en lo particular. En la discusión y votación de dictámenes en comisiones se considerarán en lo conducente las reglas aplicables para el debate de dictámenes en el Pleno.
 
@@ -1903,13 +1921,15 @@ II. Debate; y
 
 III. Votación.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 185.
 
-Los dictámenes de las Comisiones Legislativas, recibirán primera lectura al ser presentados al Pleno.
+A los dictámenes de las Comisiones Legislativas, se les dará lectura al ser presentados al Pleno, para que a un dictamen se le den hasta dos lecturas, se deberá solicitar por escrito por cuando menos 3 diputados, y aprobarse por la mayoría simple del Pleno.
 
-Los dictámenes de acuerdo recibirán una sola lectura al ser presentados al Pleno y su discusión se efectuará en la sesión siguiente.
+Los dictámenes de acuerdo serán leídos y discutidos en la sesión en que se presenten al pleno.
 
-De todo dictamen legislativo sujeto a lectura, se entregará previamente copia del mismo a los diputados, o se hará de su conocimiento mediante el sistema electrónico parlamentario.
+De todo dictamen legislativo sujeto a lectura, se entregará previamente copia del mismo a los diputados, o se hará se su conocimiento mediante el sistema electrónico parlamentario.
 
 #### SECCIÓN SEGUNDA. DE LAS REGLAS GENERALES PARA EL DEBATE
 
@@ -2221,7 +2241,9 @@ Los acuerdos del Congreso, la aprobación de actas y los acuerdos dictados por l
 
 En las votaciones económicas, cualquier diputado puede pedir que conste en el acta de la sesión el sentido en que votó, pudiendo hacerse esta petición, en la sesión siguiente, al discutirse dicha acta.
 
-La votación económica se hará preguntando primero por los que estén por la afirmativa, y enseguida, por los que estén en contra. El sentido del voto de los diputados se haya levantando la mano.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
+La votación económica se hará preguntando primero por los que estén por la afirmativa, y enseguida, por los que estén en contra. El sentido del voto de los diputados se hará levantando la mano.
 
 ###### Artículo 220.
 
@@ -2357,9 +2379,11 @@ El Congreso del Estado deberá erigirse en Jurado de Acusación, para resolver e
 
 El Jurado de Acusación, obrará de acuerdo con lo establecido en el Título Quinto de la Constitución Política local; en el Título Segundo de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y además en lo previsto en este título.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 240.
 
-Los servidores públicos a los que se refiere el artículo 119 de la Constitución Política del Estado, sólo podrán ser encausados penalmente, cuando medie declaración del Congreso del Estado erigido en Jurado de Procedencia, que remueva el fuero del cual se hallan investidos y autorice a la autoridad competente a ejercitar sobre ellos la acción penal correspondiente.
+Los servidores públicos a los que se refiere el artículo 119 de la Constitución Política del Estado, sólo podrán ser encausados penalmente, cuando medie declaración del Congreso del Estado erigido en Jurado de Procedencia, con el propósito de remover el fuero del cual se encuentran investidos y autorice a la autoridad competente a ejercitar sobre ellos la acción penal correspondiente.
 
 ###### Artículo 241.
 
@@ -2379,9 +2403,11 @@ Si de las constancias de la instrucción, se desprende que la denuncia es notori
 
 Si de la instrucción, la comisión estima que ha lugar a declarar la procedencia, el dictamen que así lo estime, será entregado al Presidente, quien anunciará al pleno que debe constituirse como Jurado de Procedencia al día siguiente en que se hubiese entregado el dictamen, notificando al inculpado y a su defensor, así como al denunciante, querellante o al Ministerio Público, en su caso
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 245.
 
-Si el inculpado fuera un integrante del Congreso, tendrá derecho a defenderse por sí o por otro diputado, quien actuará como su defensor, oyendo a un fiscal, quien será el Presidente de la Comisión de Responsabilidades, representando al denunciante, querellante o ministerio público; después de escuchada la defensa, se procederá a votar si ha lugar o no a declarar la procedencia.
+Si el inculpado fuera un integrante del Congreso, tendrá derecho a defenderse por sí o por otro diputado, quien actuará como su defensor, oyendo a un fiscal, quien será el Presidente de la Comisión de Responsabilidades, representando al denunciante, querellante o ministerio público; después de escuchada la defensa, se procederá a votar si ha lugar o no a declarar la suspensión de la inmunidad procesal.
 
 ###### Artículo 246.
 
@@ -2509,15 +2535,19 @@ El integrante del Congreso que actúe como denunciante, querellante, defensor o 
 
 Ninguno de los procedimientos previstos en el presente título podrá efectuarse si el servidor público se ha separado de su encargo, salvo lo que señale la Constitución Política del Estado Libre y Soberano de Durango.
 
-En ningún caso se podrán dispensar los trámites establecidos en el presente título.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 466, PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTICULO, CONFORMANDOSE EL PRESENTE PARRAFO CON LOS ANTERIORES SEGUNDO Y TERCERO.</small>
 
-Todo aquello que no esté previsto en el presente título, se resolverá conforme a los procedimientos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y en el Código de Procedimientos Penales vigente en el Estado.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
+En ningún caso procederá la dispensa de trámites de los procedimientos aludidos en el párrafo anterior y los casos no previstos se resolverán conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, en el Código de Procedimientos Penales o el Código Procesal Penal, en su caso.
 
 #### SECCIÓN PRIMERA. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 274.
 
-El Congreso del Estado, conforme lo establece el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, y el artículo 55 fracción XXXIII de la Constitución Política del Estado, por acuerdo de las dos terceras partes del total de sus integrantes, podrá suspender definitivamente y declarar la desaparición de Ayuntamientos; suspender temporalmente o revocar el mandato de uno o más de sus miembros. Estas medidas se podrán aplicar así mismo a los consejos municipales en su caso.
+El Congreso del Estado, conforme lo establece el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, y el artículo 55 fracción XXXIII de la Constitución Política del Estado, por acuerdo de las dos terceras partes del total de sus integrantes, podrá declarar la desaparición de Ayuntamientos; suspender temporal o definitivamente o revocar el mandato de uno o más de sus integrantes. Estas medidas se podrán aplicar así mismo a los consejos municipales, en su caso.
 
 ###### Artículo 275.
 
@@ -2541,7 +2571,9 @@ I. La solicitud para que la legislatura conozca de la o las causas graves a que 
 
 II. La directiva de la legislatura, turnará la solicitud a la comisión respectiva para que analice y dictamine sobre la procedencia de la misma. A su vez, emplazará al Ayuntamiento para que exponga, en un término no mayor de setenta y dos horas, lo que a sus intereses convenga. Una vez que el ayuntamiento ha recibido la notificación de referencia, tendrá derecho a nombrar defensor, y si no lo hiciere dentro del término de tres días, la comisión del Congreso lo nombrará de oficio;
 
-III. Cubiertos los plazos a que se refiere la fracción anterior, la comisión abrirá un período de treinta días hábiles para recibir, tanto las pruebas del denunciante como las del Ayuntamiento, así como todas aquéllas que la misma comisión acuerde, para el debido esclarecimiento de la verdad. Las pruebas que no pudieren presentarse dentro del plazo indicado, se tendrán por desiertas, salvo que la comisión determine recibirlas;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2010)</small>
+
+III. Cubiertos los plazos a que se refiere la fracción anterior, la comisión abrirá un período de treinta días hábiles para recibir, tanto las pruebas del denunciante como las del Ayuntamiento, así como todas aquéllas que la misma estime pertinente y así acuerde para el debido esclarecimiento de la verdad. Las pruebas que no pudieren presentarse dentro del plazo indicado, se tendrán por desiertas, salvo que la comisión determine recibirlas;
 
 IV. Concluido el término de pruebas, las partes en un término de tres día (sic) hábiles, deberán presentar sus alegatos por escrito; y
 
@@ -2571,7 +2603,9 @@ Artículo Primero.- Publíquese la presente Ley, en los términos previstos en l
 
 Artículo Segundo.- La Ley aquí contenida entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
-Las disposiciones relativas con la competencia, organización y funcionamiento de la Comisión Permanente, entrarán en vigor a partir del día 16 de diciembre del año 2010.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
+Las disposiciones relativas con la competencia, organización y funcionamiento de la Comisión Permanente, entrarán en vigor al día siguiente al de la publicación del presente decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 Artículo Tercero.- Se derogan todas las disposiciones que contravengan a las contenidas en la presente Ley.
 
@@ -2610,3 +2644,15 @@ SECRETARIO.
 DIP. JULIO ALBERTO CASTAÑEDA CASTAÑEDA
 
 SECRETARIO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE MARZO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
