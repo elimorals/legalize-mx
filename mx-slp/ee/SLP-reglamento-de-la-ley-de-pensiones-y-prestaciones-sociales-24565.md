@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-pensiones-y-prestaciones-sociales-24565
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-06"
-last_updated: "2002-04-06"
+last_updated: "2010-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO PERTENECIENTES AL SECTOR DEL SISTEMA EDUCATIVO ESTATAL REGULAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2010.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de abril de 2002.
 
@@ -199,11 +199,55 @@ El pago de capital e intereses se hará en abonos quincenales iguales.
 
 En caso de los pensionados que hayan sido trabajadores el pago del capital e intereses se hará en abonos mensuales iguales.
 
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+CAPÍTULO BIS
+
+DEL PRESTAMO SUA
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### ARTÍCULO 29.
 
-Conforme a lo dispuesto en el artículo 39 de la Ley, se pagará una prima equivalente al uno por ciento sobre el importe de cada préstamo. Quedarán exentos de la misma los trabajadores que perciban exclusivamente el salario mínimo.
+Este préstamo se compondrá del monto de las aportaciones individuales del 2% de cotización para el ahorro del retiro que quincenalmente aporta el Gobierno del Estado, sobre la base del salario de cada uno de los trabajadores pertenecientes a este sector, préstamo que no se contravendrá con la obtención del Préstamo a Corto Plazo, enunciado en el Capítulo I de este Reglamento.
 
-No se concederá nuevo préstamo mientras permanezca insoluto el anterior.
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+###### ARTICULO 29.
+
+BIS 1. El Préstamo SUA, se otorgará bajo los siguientes términos:
+
+a). Sin previa autorización de la Junta Directiva.
+
+b). El total del préstamo a otorgar estará garantizado por el propio fondo individual para el ahorro del retiro del trabajador solicitante.
+
+c). El monto a prestar será lo que se tenga acumulado en la cuenta individual a la fecha de la solicitud, considerando los intereses que resulten del plazo a contratar.
+
+d). Estos prestamos causarán un interés del 12% anual global.
+
+e). El plazo para el pago será de 24 y 36 quincenas.
+
+f). El pago del capital más sus intereses se hará en abonos quincenales iguales.
+
+g). Para la liquidez de este préstamo únicamente se tomará en cuenta los adeudos que se tengan con la Dirección de Pensiones, siempre y cuando los descuentos no rebasen al 50% del sueldo del interesado.
+
+h). Se pagará una prima del 1% sobre el importe de cada préstamo.
+
+i). No se concederá nuevo préstamo SUA mientras permanezca insoluto el anterior.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+ARTICULO 29 BIS 2. Si el trabajador al pensionarse decide no retirar el fondo del Sistema Único de Ahorro podrá seguir gozando de este tipo de préstamos.
+
+No podrán acceder al Préstamo SUA, aquellos trabajadores que tengan en trámite permiso prejubilatorio.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+ARTICULO 29 BIS 3. El trabajador que esté gozando del Préstamo SUA, y reúna los requisitos para una pensión, no podrá iniciar trámite alguno hasta en tanto liquide por nomina este préstamo o lo liquide por anticipado.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+ARTICULO 29 BIS 4. El trabajador una vez pensionado quiera, seguir gozando de este préstamo, deberá dejar en administración de esta Dirección el fondo del Sistema Único de Ahorro, lo cual le permitirá seguir gozando de este tipo de préstamos.
 
 ###### ARTÍCULO 30.
 
@@ -364,3 +408,11 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. JORGE DANIEL HERNÁNDEZ DELGADILLO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE MARZO DE 2010.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico' Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas de igual o menor jerarquía a (sic) que se opongan a este Decreto.
