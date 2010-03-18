@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-40264"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-30"
-last_updated: "2009-10-03"
+last_updated: "2010-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2004.
 
@@ -153,6 +153,10 @@ VII.- La Secretaría Particular del Procurador.
 
 VIII.- La Secretaría Técnica del Procurador.
 
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2010)</small>
+
+IX.- La Unidad Especializada Antisecuestros.
+
 ###### Artículo 9.
 
 Cada unidad administrativa de la Procuraduría contará con un titular que ejercerá autoridad jerárquica sobre todo el personal que la conforme, y será responsable del cabal cumplimiento de las atribuciones que a la unidad administrativa le correspondan, o que a ellos mismos como tales, les confiera esta Ley, su Reglamento y las demás disposiciones legalmente aplicables. Tales titulares serán:
@@ -163,7 +167,9 @@ II.- Los Directores Generales para las Direcciones Generales y la Agencia Estata
 
 III.- El Visitador General para el caso de la Visitaduría General;
 
-IV.- Los Directores para las Direcciones y el Instituto de Formación Profesional; y
+(REFORMADA, P.O. 18 DE MARZO DE 2010) (F. DE E., P.O. 22 DE MARZO DE 2010)
+
+IV.- Los Directores para las Direcciones, el Instituto de Formación Profesional y la Unidad Especializada Antisecuestros; y
 
 V.- Los Secretarios respectivos, para el caso de la Secretaría Particular y de la Secretaría Técnica.
 
@@ -587,13 +593,17 @@ X.- Director General de Control de Procesos y Amparos;
 
 XI.- Director de Amparos;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2010)</small>
 
-XII.- Director de Agentes del Ministerio Público Adscritos a Juzgados; y
+XII.- Director de Agentes del Ministerio Público Adscritos a Juzgados;
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2010)</small>
 
-XIII.- Director de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble.
+XIII.- Director de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble; y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2010)</small>
+
+XIV.- Director de la Unidad Especializada Antisecuestros.
 
 Además tendrán carácter de Ministerio Público los que determinen el Reglamento de esta Ley y demás disposiciones legalmente aplicables.
 
@@ -777,9 +787,9 @@ III.- Las que le encomiende el Director General de Control de Procesos y de Ampa
 
 La Dirección de Amparos depende de la Dirección General de Control de Procesos y Amparos, y es la unidad administrativa responsable de ejercer las acciones necesarias para la debida representación de la Institución frente a los órganos de control constitucional, siendo competente para:
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2010)</small>
 
-I.- Acreditar en los términos del párrafo primero del artículo 19 de la Ley de Amparo, a los delegados en los juicios de garantías en que se señalen como autoridad responsable al Procurador, Subprocurador del Ministerio Público, Director General de Control de Procesos y Amparos, Director General de Averiguaciones Previas, Director de Agentes del Ministerio Público en Asuntos Viales, Director de Agentes del Ministerio Público en Delitos Patrimoniales, Director de Agentes del Ministerio Público de Protección a la Familia y Delitos en General, Director de Agentes del Ministerio Público Adscritos a Juzgados, Director de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble y Agentes del Ministerio Público Investigadores, Conciliadores o Adscritos; para que concurran a las audiencias a efecto de que en ellas rinda pruebas, alegatos o haga promociones, a excepción dé aquellas relativas a recursos de inconformidad interpuestos contra inejercicios de la acción penal; tal acreditación podrá recaer en servidores públicos que sean profesionistas del derecho y laboren en la Dirección;
+I.- Acreditar en los términos del párrafo primero del artículo 19 de la Ley de Amparo, a los delegados en los juicios de garantías en que se señalen como autoridad responsable al Procurador, Subprocurador del Ministerio Público, Director General de Control de Procesos y Amparos, Director General de Averiguaciones Previas, Director de Agentes del Ministerio Público en Asuntos Viales, Director de Agentes del Ministerio Público en Delitos Patrimoniales, Director de Agentes del Ministerio Público de Protección a la Familia y Delitos en General, Director de Agentes del Ministerio Público Adscritos a Juzgados, Director de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble, Director de la Unidad Especializada Antisecuestros y Agentes del Ministerio Público Investigadores, Conciliadores o Adscritos; para que concurran a las audiencias a efecto de que en ellas rinda pruebas, alegatos o haga promociones, a excepción de aquellas relativas a recursos de inconformidad interpuestos contra inejercicios de la acción penal; tal acreditación podrá recaer en servidores públicos que sean profesionistas del derecho y laboren en la Dirección;
 
 II.- Gestionar, para los efectos de la fracción IV del artículo 5º de la Ley de Amparo, con el Delegado de la Procuraduría General de la República o con los Agentes del Ministerio Público Federal adscritos a los Juzgados de Distrito, la interposición de los recursos que señale la Ley referida en los juicios de amparo penales en que se reclamen resoluciones de Tribunales locales, cuando se estime que las sentencias dictadas en audiencias constitucionales o resoluciones de incidentes de suspensión, causen agravio a los intereses de la representación social;
 
@@ -1467,6 +1477,12 @@ VIII.- Coadyuvar con las diferentes unidades administrativas de la Procuraduría
 
 IX.- Las que le encomiende el Procurador o le otorguen esta Ley, su Reglamento y demás disposiciones legalmente aplicables.
 
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
+
+###### Artículo 56 Bis.
+
+La Unidad Especializada Antisecuestros depende directamente del Procurador y es un órgano desconcentrado de la Procuraduría General de Justicia del Estado, con autonomía técnica y operativa en el ejercicio de sus funciones. Tiene por objeto llevar a cabo toda investigación e intervención para el esclarecimiento de los hechos que puedan ser constitutivos del delito de privación ilegal de la libertad con carácter de secuestro o sus equiparables; así como para dar seguimiento al juicio respectivo, con las atribuciones y obligaciones que para el Ministerio Público y la Policía establecen la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado, así como las leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables.
+
 ### CAPÍTULO VI. PERSONAL DE LA PROCURADURÍA
 
 #### SECCIÓN I. NOMBRAMIENTO, REMOCIÓN Y SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA PROCURADURÍA
@@ -1479,13 +1495,15 @@ El Procurador será nombrado y removido en los términos que establezca la Const
 
 Los Subprocuradores serán nombrados por el Gobernador del Estado y deberán reunir los mismos requisitos exigidos para el Procurador General de Justicia, con excepción de lo que respecta a la edad mínima, que no podrá ser menor de treinta años, al día de la designación o nombramiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2010)</small>
+
 ###### Artículo 59.
 
-El Visitador General, los Directores Generales, los Directores y los Secretarios Particular y Técnico serán nombrados y removidos por el Procurador.
+El Visitador General, los Directores Generales, los Directores, los miembros de la Unidad Especializada Antisecuestros y los Secretarios Particular y Técnico serán nombrados y removidos por el Procurador.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
-Para ser nombrado Visitador General, Director de Agentes del Ministerio Público Auxiliares del Procurador, Director General de Averiguaciones Previas, Director de Agentes del Ministerio Público en Delitos Patrimoniales, Director de Agentes del Ministerio Público de Protección a la Familia y Delitos en General, Director de Agentes del Ministerio Público en Asuntos Viales, Director de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble, Director General de Control de Procesos y Amparos, Director de Amparos, Director de Agentes del Ministerio Público Adscritos a los Juzgados, Secretario Particular y Secretario Técnico deberán reunirse los mismos requisitos que para ser Agente del Ministerio Público.
+Para ser nombrado Visitador General, Director de Agentes del Ministerio Público Auxiliares del Procurador, Director General de Averiguaciones Previas, Director de Agentes del Ministerio Público en Delitos Patrimoniales, Director de Agentes del Ministerio Público de Protección a la Familia y Delitos en General, Director de Agentes del Ministerio Público en Asuntos Viales, Director de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble, Director General de Control de Procesos y Amparos, Director de Amparos, Director de Agentes del Ministerio Público Adscritos a los Juzgados, Director de la Unidad Especializada Antisecuestros, Secretario Particular y Secretario Técnico deberán reunirse los mismos requisitos que para ser Agente del Ministerio Público.
 
 > <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2005)</small>
 
@@ -1539,11 +1557,17 @@ XI.- El Director de Análisis e Información: Por el Director de Criminalística
 
 XII.- Los Agentes del Ministerio Público, Investigadores y Adscritos a los Juzgados del Quinto Distrito Judicial en adelante, por sus Secretarios o Delegados o por el Síndico del Ayuntamiento del lugar, en ausencia de los tres primeros;
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2010)</small>
 
-XIII.- El Director de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble será sustituido por el Director de Agentes del Ministerio Público en Delitos Patrimoniales o el Director de Agentes del Ministerio Público de Protección a la Familia y Delitos en General; y
+XIII.- El Director de Agentes del Ministerio Público en Delitos Inmobiliarios, Regístrales y de Despojo de Inmueble será sustituido por el Director de Agentes del Ministerio Público en Delitos Patrimoniales o el Director de Agentes del Ministerio Público de Protección a la Familia y Delitos en General;
 
-XIV.- El personal restante, por quien designe el superior jerárquico.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE MARZO DE 2010)</small>
+
+XIV.- El Director de la Unidad Especializada Antisecuestros por el Director General de Averiguaciones Previas, a falta o excusa de ambos por quien designe el Procurador; y
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2010)</small>
+
+XV.- El personal restante, por quien designe el superior jerárquico.
 
 Cuando la falta exceda de treinta días, se designará a la persona que interinamente debe suplir al servidor público, y si es absoluta, se cubrirá mediante nuevo nombramiento. En ambos casos, la designación se hará por el Gobernador o el Procurador, según a quien corresponda hacer el nombramiento de conformidad con lo establecido por la Ley.
 
@@ -2084,3 +2108,11 @@ P.O. 25 DE SEPTIEMBRE DE 2009.
 P.O. 3 DE OCTUBRE DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MARZO DE 2010.
+
+Primero.- El presente Decreto entraré en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado deberá realizar las reformas al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, a fin de establecer y regular el funcionamiento de la Unidad Especializada Antisecuestros en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero.- La Secretaría de Finanzas y Tesorería General del estado deberá realizar las modificaciones presupuestales y determinar las partidas necesarias para el funcionamiento adecuado de la Unidad Especializada Antisecuestros, en un plazo no mayor a 90 días naturales contador (sic) a partir de la entrada en vigor del presente Decreto.
