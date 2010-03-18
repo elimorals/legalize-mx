@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2009-10-03"
+last_updated: "2010-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -59,7 +59,7 @@ En este período deben proponerse y rendirse las pruebas que el Juez o las parte
 
 IV.- Juicio, que comprende las conclusiones acusatorias del Ministerio Público, acorde con los hechos motivo del auto de formal prisión o de sujeción a proceso, la defensa del inculpado, la audiencia de vista y la sentencia que proceda.
 
-V. La actuación del Tribunal Superior de Justicia del Estado, cuando efectúen diligencias y autos tendientes a resolver los recursos y el pronunciamiento de las sentencias que procedan; y
+V. La actuación del Tribunal Superior de Justicia del Estado, cuando efectúe diligencias y autos tendientes a resolver los recursos y el pronunciamiento de las sentencias que procedan; y
 
 VI.- Ejecución, que comprende el lapso entre el momento que cause ejecutoria la sentencia dictada, hasta la extinción de las sanciones y/o medidas de seguridad impuestas.
 
@@ -73,7 +73,7 @@ III. Primer etapa del procedimiento especial, comprende lo relativo al ofrecimie
 
 IV.- Segunda etapa del procedimiento especial, comprende lo relativo al ofrecimiento y desahogo de pruebas para la resolución sobre la participación o no del inimputable en los hechos que se le atribuyen.
 
-V.- La actuación del Tribunal Superior de Justicia del Estado, cuando efectúe diligencias y autos tendientes a resolver los recursos y el pronunciamiento de las sentencias que procedan; y
+V.- La actuación del Tribunal Superior de Justicia del Estado, cuando efectúen diligencias y autos tendientes a resolver los recursos y el pronunciamiento de las sentencias que procedan; y
 
 VI.- Ejecución, que comprende el lapso entre el momento que cause ejecutoria la sentencia dictada, hasta la extinción de las medidas de seguridad impuestas.
 
@@ -321,9 +321,9 @@ En todo caso, el juez, de oficio, mandará citar a la víctima o al ofendido por
 
 La víctima o el ofendido tendrán derecho a solicitar al Juez que dicte las medidas y providencias necesarias que prevea la ley para su seguridad y auxilio, y para que se les restituya en el goce de sus derechos, en los términos previstos en este Código.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
-Cuando la víctima o el ofendido sea menor de edad, no estará obligado a carearse con el inculpado cuando se trate de delitos de violación o secuestro.
+Cuando la víctima o el ofendido sea menor de edad, no estará obligado a carearse con el inculpado cuando se trate de delitos de violación o secuestro. En caso de tratarse de otros delitos o bien cuando la víctima sea mayor de edad y se trate de delitos de violación, equiparable a la violación, privación ilegal de la libertad con carácter de secuestro o equiparable a la privación ilegal de la libertad con carácter de secuestro; podrán, cuando la víctima lo solicite o bien el Juez podrá decretarlo de oficio, disponer de la presencia del inculpado en forma virtual durante el desahogo de la audiencia mediante el sistema de videoconferencia, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
 
 (REFORMADO, P.O. 28 DE JULIO DE 2004) (F. DE E., P.O. 4 DE AGOSTO DE 2004)
 
@@ -923,21 +923,21 @@ Tratándose del Juicio Oral Penal se determinará que el público abandone la sa
 
 Las audiencias se llevarán a cabo, concurran o no las partes, salvo el Ministerio Público y el defensor, que no podrán dejar de asistir a ellas, con excepción de lo establecido en este Código.
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
-Tratándose de cualquiera de los delitos establecidos en los artículos 165 Bis, 176, 357, 357 Bis ó 395 del Código Penal para el Estado, tanto las autoridades investigadoras como las judiciales deberán desahogar todas las diligencias con los procesados o sentenciados en las instalaciones del centro de reinserción social en que se encuentre el detenido, a fin de procurar mayor seguridad a la comunidad y evitar riesgos de evasión. La autoridad ejecutora dará las facilidades necesarias para la práctica de las audiencias que requieran la presencia del inculpado.
+Tratándose de cualquiera de los delitos establecidos en los artículos 165 bis, 176, 357, 357 Bis, 358 Bis 2 ó 395 del Código Penal para el Estado, tanto las autoridades investigadoras como las Judiciales deberán desahogar todas las diligencias con los procesados o sentenciados en las instalaciones del centro de reinserción social en que se encuentre el detenido, a fin de procurar mayor seguridad a la comunidad y evitar riesgos de evasión. La autoridad ejecutora dará las facilidades necesarias para la práctica de las audiencias que requieran la presencia del inculpado.
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
-Por los mismos fines expuestos en el párrafo anterior, tratándose de cualquiera de los delitos establecidos en los artículos 165 Bis, 176, 357, 357 Bis ó 395 del Código Penal para el Estado, las autoridades investigadoras o judiciales en su caso, podrán disponer de la presencia del inculpado en forma virtual durante el desahogo de cualquier audiencia dentro del proceso, mediante el sistema de videoconferencia, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
+Por los mismos fines expuestos en el párrafo anterior, tratándose de cualquiera de los delitos establecidos en los articulas 165 Bis, 176, 357, 357 Bis, 358 Bis 2 ó 395 del Código Penal para el Estado, las autoridades investigadoras o judiciales en su caso, podrán disponer de la presencia del inculpado en forma virtual durante el desahogo de cualquier audiencia dentro del proceso, mediante el sistema de videoconferencia, asegurando en todo caso la posibilidad de contradicción de las partes y la salvaguarda del derecho de defensa.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
 
 En el supuesto a que se refiere el artículo 34 de este Código, no podrán llevarse a cabo las audiencias en que deba participar el inculpado sin el intérprete o traductor a que dicho precepto se refiere. Exceptuando los casos de competencia del juicio oral, si el inculpado se encuentra privado de su libertad, la audiencia podrá celebrarse a través de videoconferencia, en los términos precisados en los artículos 24 y 25 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
-La declaración de la víctima o el ofendido, cuando se trate de delitos sexuales, secuestro o violencia familiar, se llevará a cabo de una manera que no perciba la presencia del inculpado.
+La declaración de la víctima o el ofendido, o del testigo según sea el caso, cuando se trate de delitos sexuales, privación ilegal de la libertad con carácter de secuestro, equiparable a la privación ilegal de la libertad con carácter de secuestro o violencia familiar, se llevara a cabo de una manera que no perciba la presencia del Inculpado.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2004)</small>
 
@@ -1663,11 +1663,11 @@ Cualquiera persona que tenga en su poder un documento público o privado que se 
 
 Se reconocen como excepciones para el cumplimiento de la obligación a que se refiere este artículo, las señaladas en la ley.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 179 Bis.
 
-En los casos de privación ilegal de la libertad con carácter de secuestro que prevén los artículos 357 ó 357 bis del Código Penal vigente en el Estado, cuando no se pueda obtener la declaración y la práctica de dictámenes médico, físico y psicológico por parte del pasivo, por cualquier causa, se tomarán en cuenta las declaraciones de testigos y todos aquellos indicios que permitan conocer las circunstancias en que se cometió la conducta delictiva para tener por acreditado el cuerpo del delito.
+En los casos de privación ilegal de la libertad con carácter de secuestro que prevén los artículos 357, 357 Bis ó 358 Bis 2 del Código Penal del Estado, cuando no se pueda obtener la declaración y la práctica de dictámenes medico, físico y psicológico por parte del pasivo, por cualquier causa, se tomarán en cuenta las declaraciones del o los testigos y todos aquellos indicios que permitan conocer las circunstancias en que se cometió la conducta delictiva para tener por acreditado el cuerpo del delito.
 
 ###### ARTICULO 180.
 
@@ -2749,9 +2749,9 @@ III.- Si después de la ejecución del hecho la ha visto, en qué lugar, y por q
 
 Se conducirá entonces al declarante frente a las personas que formen fila; si hubiera afirmado conocer a aquella de cuya confrontación se trata, se le permitirá reconocerla detenidamente, y se le prevendrá que la señale en forma precisa.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
-Cuando la víctima, el ofendido o el testigo sean menores de edad o se trate de delitos sexuales, secuestro o violencia familiar, la diligencia de confrontación se efectuará de tal manera que quien deba de identificar al inculpado no pueda ser visto por éste. Tratándose de los demás delitos calificados como graves por el artículo 16 Bis del Código Penal, a criterio de la autoridad competente, la diligencia de confrontación podrá efectuarse en los términos anteriores. En ambos casos invariablemente deberá estar presente el defensor del inculpado. Si la autoridad estima pertinente o si lo solicita cualquiera de las partes se puede video grabar la diligencia.
+Cuando la víctima, el ofendido o el testigo sean menores de edad, o se trate de delitos sexuales, delitos contra la libertad, secuestro o violencia familiar, la diligencia de confrontación se efectuará de tal manera que quien deba de identificar al inculpado no pueda ser visto por este. Tratándose de los demás delitos calificados como graves por el Artículo 16 Bis del Código Penal vigente en el Estado, a criterio de la autoridad competente la diligencia de confrontación podrá efectuarse en los términos anteriores. En ambos casos invariablemente deberá estar presente el defensor del inculpado Si la autoridad estima pertinente o si lo solicita cualquiera de las partes se puede vídeo grabar la diligencia.
 
 ###### ARTICULO 304.
 
@@ -5626,3 +5626,11 @@ DECRETO No. 400, POR EL QUE SE REFORMAN LOS ARTICULOS 200, 385 Y 577 DEL CODIGO 
 P.O. 3 DE OCTUBRE DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MARZO DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado deberá realizar las reformas al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, a fin de establecer y regular el funcionamiento de la Unidad Especializada Antisecuestros en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero.- La Secretaría de Finanzas y Tesorería General del Estado deberá realizar las modificaciones presupuestales y determinar las partidas necesarias para el funcionamiento adecuado de la Unidad Especializada Antisecuestros, en un plazo no mayor a 90 días naturales contador a partir de la entrada en vigor del presente Decreto.
