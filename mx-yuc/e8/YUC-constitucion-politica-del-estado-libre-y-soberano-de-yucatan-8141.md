@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2009-08-07"
+last_updated: "2010-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE MARZO DE 2010.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -701,17 +701,33 @@ V.- dar, interpretar y derogar Leyes y Decretos;
 
 VI.- Aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las Leyes de Ingresos de los municipios, a más tardar, el día 15 de diciembre de cada año.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
+
+En caso de no aprobarse el presupuesto de egresos para el ejercicio fiscal correspondiente, continuará en vigor el autorizado para el año inmediato anterior, el cual se ejercerá mensualmente en una doceava parte del total, o de la disponibilidad de los recursos fiscales, con las actualizaciones que sean pertinentes, hasta en tanto se aprueba el del año fiscal respectivo.
+
 > <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 Determinar las bases, montos y plazos con que serán distribuidas las participaciones a los municipios, con arreglo a las Leyes respectivas. Atendiendo entre otros criterios, el esfuerzo recaudatorio; población y marginación;
 
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-VII.- Examinar, y en su caso aprobar semestralmente la cuenta pública del Gobierno del Estado, de los Municipios y de los Organismos Autónomos;
+> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
+
+VII.- Revisar y en su caso aprobar las cuentas públicas de los Poderes del Estado, municipios, entidades u organismos de la administración pública paraestatal, paramunicipal, organismos autónomos y, en general de los recursos públicos que se destinen o ejerzan por cualquier persona física o moral, pública o privada y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica.
+
+La revisión tendrá por objeto evaluar los resultados de la gestión financiera, comprobar si se ajusta a los criterios señalados por el Presupuesto de Egresos y verificar el cumplimiento de los objetivos contenidos en los respectivos programas de conformidad a lo establecido en las leyes aplicables;
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
 VII Bis.- Instituir el Tribunal de lo Contencioso Administrativo, el cual estará dotado de plena independencia y autonomía para dictar y hacer cumplir sus fallos. Este Tribunal formará parte del Poder Ejecutivo y tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública centralizada y descentralizada del Estado y los Municipios, y los Particulares. Conocerá también de las responsabilidades administrativas en que incurran los servidores públicos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADA, D.O. 19 DE MARZO DE 2010)</small>
+
+VII Ter.- Revisar y evaluar, sin perjuicio de su autonomía técnica, presupuestal y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la Ley de la materia;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -753,13 +769,15 @@ XVI.- Designar a los consejeros electorales, del Instituto de Procedimientos Ele
 
 XVII.- Expedir y modificar la Ley que regule su estructura y funcionamiento internos. Esta Ley no podrá ser vetada ni necesita de promulgación del Ejecutivo Estatal para tener vigencia;
 
-> <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XVIII.- nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del Congreso;
+> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
+
+XVIII.- Nombrar y remover al Auditor Superior del Estado, al Oficial Mayor, al titular del Órgano de Evaluación, al Tesorero y al titular del Instituto de Investigaciones Legislativas del Congreso;
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1990)</small>
 
-XIX.- Autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
+XIX.- autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -801,9 +819,17 @@ XXV.- aprobar o no la formación o erección de nuevos Estados o Territorios;
 
 XXVI.- Recibir la protesta a los Magistrados del Tribunal Superior de Justicia a que alude el artículo 67 de esta constitución;
 
-> <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XXVII.- Resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, de conformidad con lo que disponga la Ley Orgánica del Poder Legislativo del Estado para separarse de sus respectivos cargos, así como sus renuncias;
+> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
+
+XXVII.- Resolver las peticiones de licencias para separarse de sus respectivos cargos y renuncias de sus integrantes, del titular del Órgano de Evaluación y del Auditor Superior del Estado, de conformidad con lo dispuesto por la legislación aplicable;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADA, D.O. 19 DE MARZO DE 2010)</small>
+
+XXVII Bis.- Presentar la cuenta pública, en los términos y formas que fije la Ley en la materia;
 
 XXVIII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
@@ -927,11 +953,17 @@ Los Diputados que acepten la renuncia del Gobernador, sin llenarse los requisito
 
 No puede el Congreso conceder dispensa de Ley a ninguna persona o corporación, ni tampoco dispensa o revalidación de los estudios que determinen las Leyes sobre Instrucción Pública para efecto de obtener Título Profesional.
 
-> <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 1988)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 19 DE MARZO DE 2010)</small>
 
 ###### Artículo 34.
 
-El Contador Mayor de Hacienda enviará al Congreso con la periodicidad y oportunidad que éste le fije, las cuentas a las que se refiere la fracción VI del artículo 30 de esta Constitución; no podrá, el Congreso, dejar de examinar dichas cuentas durante los seis meses posteriores a la conclusión del ejercicio de que se trate.
+El Auditor Superior del Estado enviará al Congreso del Estado, el informe de resultados de la revisión de la cuenta pública a más tardar el 20 de febrero del año siguiente al de la presentación de dicha cuenta pública.
+
+El Congreso del Estado concluirá la revisión de la cuenta pública a más tardar dentro del año siguiente al de su presentación, en los términos que establezca la Ley.
+
+La contabilidad gubernamental y la cuenta pública se regirán por las leyes aplicables en la materia.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -997,9 +1029,11 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO I. Del Gobernador del Estado
+### CAPITULO VI. De la Auditoría Superior del Estado
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
 
 ###### Artículo 42.
 
@@ -1023,13 +1057,17 @@ II.- recibir la protesta de Ley a los funcionarios que deban prestarla ante el C
 
 III.- recibir durante receso del Congreso, las iniciativas de Ley, Decreto o Acuerdo, proposiciones y demás asuntos dirigidos a éste y turnarlos para su estudio y dictamen a las Comisiones respectivas del Congreso conforme a lo dispuesto en la Ley Orgánica del Poder Legislativo del Estado de Yucatán, a fin de que se les de el trámite que corresponda en el inmediato período de sesiones.
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-IV.- resolver sobre las peticiones de licencia de sus propios miembros y del Contador Mayor de Hacienda, cuando traten de separarse temporalmente de sus respectivos encargos; resolver sobre las renuncias de los Magistrados del Tribunal Superior de Justicia en los términos del artículo 69 de esta Constitución; resolver sobre las renuncias colectivas de miembros de Ayuntamientos y acerca de la desintegración de los mismos, nombrando Concejos en los términos de la fracción XL del artículo 30 de la presente Constitución;
+> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+IV.- resolver sobre las peticiones de licencia de sus miembros, y del titular del Órgano de Evaluación y del Auditor Superior del Estado, cuando traten de separarse temporalmente de sus respectivos encargos; resolver sobre las renuncias de los Magistrados del Tribunal Superior de Justicia en los términos del artículo 69 de esta Constitución; resolver sobre las renuncias colectivas de miembros de Ayuntamientos y acerca de la desintegración de los mismos, nombrando Concejos en los términos de la fracción XL del artículo 30 de la presente Constitución;
 
-V.- nombrar Contador Mayor con el carácter de interino, por falta absoluta o temporal del propietario;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
+
+V.- nombrar al titular del Órgano de Evaluación y al Auditor Superior del Estado con el carácter de Interino, por falta absoluta o temporal del propietario;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1047,11 +1085,47 @@ VIII.- convocar inmediatamente al Congreso, a sesiones extraordinarias, que se e
 
 IX.- las demás que le confiere esta Constitución.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 19 DE MARZO DE 2010)</small>
+
+### CAPITULO I. Del Gobernador del Estado
+
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO II. De las facultades y obligaciones del
+###### Artículo 43 Bis.
 
-Gobernador del Estado
+La Auditoría Superior del Estado es un órgano con autonomía técnica, presupuestal y de gestión para el ejercicio de sus atribuciones así como para decidir sobre su organización, funcionamiento y resoluciones en los términos que disponga la ley.
+
+La fiscalización y revisión del gasto y cuenta pública, estará a cargo del Congreso del Estado a través de la Auditoría Superior del Estado.
+
+La fiscalización que realice la Auditoría Superior del Estado se efectuará en los términos que disponga la Ley en la materia.
+
+La función de fiscalización se realizará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad, objetividad, confiabilidad y transparencia.
+
+Si de la fiscalización aparecieran discrepancias entre las cantidades correspondientes a los Ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los Ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
+
+El Congreso del Estado emitirá la convocatoria para elegir al Auditor Superior del Estado, quien será designado por el voto de las dos terceras partes de los miembros presentes. La Ley en la materia determinará el procedimiento para su designación y remoción.
+
+El Auditor Superior del Estado será electo para desempeñar su cargo por siete años y podrá ser reelecto por una sola vez. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los de carácter científico y docente.
+
+Para ser Auditor Superior del Estado se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles, y tener además la calidad de ciudadano yucateco;
+
+II.-Tener titulo y cédula profesional y acreditar con al menos cinco años de experiencia en materia de control, auditoría financiera y de responsabilidades;
+
+III.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal;
+
+IV.- Haber residido en el Estado durante los dos años anteriores al día de la designación;
+
+V.- No haber sido Secretario de la Administración Pública del Estado o cargo equivalente, senador, diputado federal ni gobernador o diputado local, durante el año previo al día de su nombramiento, y
+
+VI.- Los demás requisitos que señale la Ley en la materia.
+
+La Auditoría Superior del Estado contará con las atribuciones que señale la Ley.
+
+Los Poderes del Estado y los sujetos de fiscalización facilitarán los auxilios y la información que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones.
+
+Los servidores públicos locales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos federales, estatales o municipales deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1059,9 +1133,11 @@ Gobernador del Estado
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO III. Restricciones a las facultades del Gobernador
+### CAPITULO II. De las facultades y obligaciones del
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 11 DE MAYO DE 1984)</small>
+Gobernador del Estado
+
+> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
 ###### Artículo 44.
 
@@ -1195,9 +1271,9 @@ Siempre que ocurra una falta absoluta o temporal del Gobernador y mientras se re
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPITULO IV. De la Organización del Poder Ejecutivo
+### CAPITULO III. Restricciones a las facultades del Gobernador
 
-> <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 11 DE MAYO DE 1984)</small>
 
 ###### Artículo 55.
 
@@ -1279,19 +1355,27 @@ XXII.- establecer los procedimientos de participación y consulta popular en el 
 
 XXII Bis.- disponer lo necesario, en los términos de la ley respectiva, para garantizar el resultado de los plebiscitos;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
+
+XXIII.- disponer lo necesario, en los términos de la ley respectia, para garantizar el resultado de los plebiscitos; (sic)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADA, D.O. 19 DE MARZO DE 2010)</small>
+
+XXIV.- presentar la cuenta pública con la documentación respectiva, en los términos establecidos en la Ley de la materia, y
+
 > <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
 
-XXIII.- elaborar y remitir el Plan Estatal de Desarrollo, sus actualizaciones, los programas mencionados en la fracción anterior así como los criterios que le sirven de base al Congreso del Estado para su conocimiento y consideración al ejercer sus atribuciones constitucionales; y
-
-> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
-
-XXIV.- las demás que le confieren esta Constitución y otras Leyes.
+XXV.- las demás que le confieren esta Constitución y otras Leyes.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-### CAPÍTULO PRIMERO (SIC). De la Protección de los Derechos Humanos
+### CAPITULO IV. De la Organización del Poder Ejecutivo
 
-> <small>(ADICIONADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
 
 ###### Artículo 56.
 
@@ -1331,9 +1415,9 @@ VII.- permitir o tolerar que se establezcan en el Estado casas de juegos ilícit
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 28 DE ENERO DE 1970)</small>
 
-### CAPÍTULO SEGUNDO. Del Acceso a la Información Pública y de la Protección de los Datos Personales
+### CAPÍTULO PRIMERO (SIC). De la Protección de los Derechos Humanos
 
-> <small>(ADICIONADO, D.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
 ###### Artículo 57.
 
@@ -1362,6 +1446,10 @@ Todas las iniciativas de Leyes y Decretos así como los reglamentos y acuerdos q
 Los titulares de las dependencias del Poder Ejecutivo, Directores, Jefes de Oficina y Organismos descentralizados, en su caso, serán responsables de las disposiciones que autoricen con infracción de la Constitución Federal, de la local y de las Leyes. Esta responsabilidad es sin perjuicio de la que resulte contra el Gobernador.
 
 > <small>(REFORMADO, D.O. 11 DE MAYO DE 1984)</small>
+
+### CAPÍTULO SEGUNDO. Del Acceso a la Información Pública y de la Protección de los Datos Personales
+
+> <small>(ADICIONADO, D.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 62.
 
@@ -1519,13 +1607,23 @@ V.- conceder licencias a los Magistrados, llamando al suplente que corresponda; 
 
 VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administración de Justicia;
 
-> <small>(REFORMADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-VII.- Formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendiendo las posibilidades del ingreso y del gasto público del Estado, y remitirlo al titular del Poder Ejecutivo a más tardar el 15 de Octubre de cada año, a fin de que éste considere su incorporación, al Proyecto de Presupuesto de Egresos del Estado, y
+> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
 
-> <small>(ADICIONADA, D.O. 1 DE OCTUBRE DE 2006)</small>
+VII.- formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendiendo las posibilidades del ingreso y del gasto público del Estado, y remitirlo al titular del Poder Ejecutivo a más tardar el 15 de Octubre de cada año, a fin de que éste considere su incorporación, al Proyecto de Presupuesto de Egresos del Estado;
 
-VIII.- Las demás que le confiera esta Constitución y otras leyes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
+
+VIII.- presentar la cuenta pública, con la documentación respectiva y en los términos establecidos en la Ley de la materia, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADA, D.O. 19 DE MARZO DE 2010)</small>
+
+IX.- las demás que le confieran esta Constitución y otras leyes.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1548,6 +1646,12 @@ El Instituto Estatal de Acceso a la Información Pública es un organismo públi
 El Instituto Estatal de Acceso a la Información Pública, tendrá un Consejo General que será su órgano superior de dirección, integrado por tres consejeros, de los cuales uno de ellos tendrá el carácter de Presidente, quienes durarán en su encargo cinco años. Además contará con un Secretario Ejecutivo.
 
 La Ley determinará el procedimiento de designación de los Consejeros y del Secretario Ejecutivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
+
+Los organismos autónomos reconocidos por esta Constitución deberán enviar al Poder Ejecutivo del Estado su proyecto de Presupuesto de Egresos, a más tardar el 15 de octubre de cada año. Asimismo; rendirán informe de su cuenta pública en los términos que señale la Ley en la materia; (sic)
 
 (REUBICADO [N. DE E. ANTES TITULO SEPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
@@ -1707,7 +1811,11 @@ VIII.- Las leyes no establecerán exenciones o subsidios en favor de persona alg
 
 IX.- Para el cobro de sus percepciones fiscales, los ayuntamientos tendrán la facultad económico-coactiva, aplicando el procedimiento administrativo de ejecución, en los términos que establezca el Código Fiscal del Estado;
 
-X.- La remisión de las cuentas públicas de los ayuntamientos deberá hacerse al Órgano de Fiscalización mensualmente, acompañando toda la documentación que acredite sus erogaciones y en su caso, el avance de las metas propuestas en el Plan Municipal y en los Programas Operativos. Dichas cuentas serán aprobadas semestralmente por el Congreso del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
+
+X.- Los Ayuntamientos deberán rendir su cuenta pública a la Auditoría Superior del Estado, con la documentación respectiva y en los términos establecidos en la Ley de la materia;
 
 XI.- Celebrar actos, convenios o empréstitos que comprometan al municipio por un plazo mayor al período de su gestión gubernamental, siempre que éstos fueren aprobados por las dos terceras partes de los integrantes del Ayuntamiento respectivo, sujetándose a las modalidades que establezcan las leyes, y
 
@@ -1829,7 +1937,9 @@ Los municipios podrán celebrar convenios con el Ejecutivo del Estado, a fin de 
 
 ## TITULO DECIMO. De las responsabilidades de los Servidores Públicos
 
-> <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 19 DE MARZO DE 2010)</small>
 
 ###### Artículo 86.
 
@@ -2037,6 +2147,24 @@ El Estado propugnará por una correcta aplicación de los recursos y al efecto e
 
 La Ley determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenio con los Gobiernos Federal y Municipal e induzca y concerte con los particulares, las acciones a realizar para la elaboración y ejecución del Plan Estatal de Desarrollo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
+
+La planeación para el desarrollo estatal y municipal facilitará la programación del gasto público con base en objetivos y metas, claros y cuantificables, que permitan evaluar adecuadamente su cumplimiento, a fin de conocer los resultados obtenidos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
+
+La ley facultará al Poder Ejecutivo para que establezca los procedimientos de participación y consulta popular en el sistema estatal de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
+
+La planeación del Estado también implicará mecanismos para el uso racional de los recursos naturales, la salud y el desarrollo sostenido.
+
 (REUBICADO [N. DE E. ANTES TITULO NOVENO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
 ## TITULO UNDECIMO. Disposiciones generales
@@ -2045,9 +2173,11 @@ La Ley determinará cuales serán los órganos responsables del proceso de plane
 
 ###### Artículo 97.
 
-Se entenderá como servidor público a los representantes de elección popular, a todo funcionario, empleado o persona que desempeñe un empleo, cargo o comisión en la Administración Pública Estatal o Municipal, en cualquiera de sus modalidades, o en las entidades u organismos autónomos; quienes serán responsables por los actos u omisiones en el desempeño de sus funciones.
+Se entenderá como servidor público a los representantes de elección popular, a todo funcionario, empleado o persona que desempeñe un empleo, cargo o comisión en los poderes Ejecutivo, Legislativo y Judicial, así como en el ámbito Municipal, en cualquiera de sus modalidades, o en los organismos autónomos; quienes serán responsables por los actos u omisiones en el desempeño de sus funciones.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE JULIO DE 2009)</small>
+Los servidores públicos del Estado y de los Municipios, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades, la que se determinará anual y equitativamente en los presupuestos de egresos correspondientes, de acuerdo a las bases establecidas en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Las remuneraciones de los servidores públicos y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie, en los términos que establezca la Ley.
 
 Los servidores públicos del Estado y de los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que estén bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 
@@ -2175,9 +2305,43 @@ Todo funcionario o empleado público del Estado o de los municipios, sin excepci
 
 La responsabilidad del Gobernador, Secretario de Gobierno y demás funcionarios superiores de la administración pública, así como la de los Presidente Municipales, no excusa la de los subalternos que obedezcan órdenes de aquéllos, dirigidas a suspender o retardar las elecciones populares, la realización de los procedimientos de participación ciudadana, la instalación del Congreso, de los ayuntamientos o el libre ejercicio de las funciones de éstos.
 
-(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979) (F. DE E., D.O. 4 DE ENERO DE 1980)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO PRIMER PARRAFO, D.O. 19 DE MARZO DE 2010)</small>
 
 ###### Artículo 107.
+
+Los órganos públicos del Estado y de los municipios deberán de administrar y ejercer los recursos públicos a su cargo con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a los que estén destinados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
+
+Los resultados de la ejecución de los programas y de ejercicio de los recursos públicos, serán evaluados por un Órgano de Evaluación, dependiente del Congreso del Estado, con las características que determine la Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
+
+Los indicadores de los resultados a evaluar deberán incorporar en el proceso de programación y presupuestación de los recursos públicos de las entidades fiscalizadas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
+
+Dicho órgano realizará la evaluación del desempeño por sí mismo o a través de la contratación de terceros, bajo principios de imparcialidad y transparencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
+
+La Ley determinará la organización y atribuciones del Órgano de Evaluación, los requisitos para ser su titular, así como el procedimiento para su designación y remoción, en su caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
+
+El resultado de las evaluaciones se deberá considerar en el proceso de programación y presupuesto de los recursos públicos de las entidades fiscalizadas, a fin de propiciar que los recursos económicos se asignen tomando en cuenta los resultados alcanzados.
 
 Los contratos que el Gobierno o los Municipios hayan de celebrar, con motivo de la ejecución de obras públicas, serán dados a conocer, mediante convocatoria, para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública, en la cual los contratos se adjudicarán en subasta.
 
@@ -3064,3 +3228,47 @@ D.O. 7 DE AGOSTO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 19 DE MARZO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor a los 30 días siguientes a los de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado deberá emitir la convocatoria para elegir al Auditor Superior del Estado, dentro de los 90 días naturales siguientes contados a partir de la publicación de este Decreto.
+
+En tanto el Congreso del Estado designa al Auditor Superior del Estado, ocupará el cargo en calidad de encargado del despacho, el Contador Mayor de Hacienda del Estado de Yucatán en funciones.
+
+###### ARTÍCULO TERCERO.
+
+La legislación secundaria en materias de fiscalización, presupuestación, contabilidad gubernamental y evaluación, a las que se refiere esta reforma Constitucional, deberá promulgarse dentro de los noventa días naturales siguientes contados a partir de la publicación de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Una vez que entre en funciones la Auditoría Superior del Estado, todos los recursos humanos, materiales y patrimoniales de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicho Órgano.
+
+###### ARTÍCULO QUINTO.
+
+Los servidores públicos y empleados de la Contaduría Mayor de Hacienda no podrán ser afectados en sus derechos y prestaciones laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
+
+###### ARTÍCULO SEXTO.
+
+Para efectos de la creación del Órgano de Evaluación previsto en el párrafo segundo del artículo 107, de este Decreto, el Congreso del Estado deberá expedir la Legislación correspondiente.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones legales que se contrapongan a lo dispuesto por este Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Remítase el presente proyecto de Decreto a los Ayuntamientos del Estado, para efectos de lo establecido en el artículo 108 de la Constitución Política del Estado de Yucatán.
+
+###### ARTÍCULO NOVENO.
+
+Los Ayuntamientos contarán con noventa días naturales, contados a partir del día siguiente a aquel en que reciban el presente Decreto, para remitir al Congreso del Estado, el acuerdo de Cabildo que señale la conformidad o inconformidad con el mismo.
+
+###### ARTÍCULO DÉCIMO.
+
+La Oficialía Mayor del Congreso del Estado remitirá este Decreto a los Ayuntamientos del Estado, a partir de su aprobación por el Pleno del Congreso, y deberá informar al Presidente del Congreso o de la Diputación Permanente, para efectos del cómputo correspondiente.
