@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-del-instituto-electoral-de-queretaro-29065"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-14"
-last_updated: "2010-02-12"
+last_updated: "2010-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de febrero de 2003.
 
@@ -373,9 +373,13 @@ XI. Informar al Presidente el avance de la ejecución del Programa Anual de Audi
 
 XII. Recibir, investigar y resolver las quejas y denuncias que se presenten en contra de los servidores públicos del Instituto, en los términos de la normatividad aplicable;
 
-XIII. Vigilar, a través de la participación de su Presidente o del Consejero Electoral integrante de la misma que aquél al efecto designe, el cumplimiento de la normatividad aplicable en los procedimientos de licitación y concursos para la adjudicación de contratos relacionados con las adquisiciones, enajenaciones, arrendamientos y contratación de servicios que realice el Instituto;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2010)</small>
 
-XIV. Recibir, tramitar y resolver las inconformidades que presenten los concursantes y proveedores, respecto de los actos relacionados con las licitaciones públicas y adjudicaciones de contratos;
+XIII. Vigilar, a través de la participación de su Presidente o del Consejero Electoral integrante de la misma que aquél al efecto designe, el cumplimiento de la normatividad aplicable en los procedimientos de adquisición, enajenación, arrendamiento o contratación de servicios que realice el Instituto;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2010)</small>
+
+XIV. Recibir, tramitar y resolver las inconformidades que presenten los concursantes y proveedores, respecto de los actos del Comité que contravengan, en su caso, las disposiciones aplicables en materia de adquisiciones, enajenaciones, arrendamientos o contratación de servicios;
 
 XV. Recibir, tramitar y resolver las solicitudes de revisión que presenten los particulares, respecto de las peticiones de información institucional que formulen en ejercicio del derecho de acceso a la información pública y que haya sido negada;
 
@@ -493,17 +497,27 @@ Las comisiones transitorias una vez presentado su proyecto de dictamen o el info
 
 ### CAPITULO IV. Del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2010)</small>
 
 ###### Artículo 48.
 
-A efecto de realizar adquisiciones, enajenaciones, arrendamientos o contratación de bienes y servicios, el Instituto conformará un Comité encargado de autorizar las operaciones mencionadas, cuyas atribuciones, actuaciones y procedimientos deberán sujetarse a lo dispuesto por la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, el Reglamento del Comité y los demás ordenamientos aplicables. El Comité actuará de acuerdo a las partidas presupuestales que al efecto asigne la Legislatura del Estado en el Presupuesto de Egresos y a los objetivos contenidos en el Programa General de Trabajo del Instituto.
+A efecto de autorizar las adquisiciones, enajenaciones, arrendamientos o contratación de bienes y servicios, que se requieran para el cumplimiento de sus fines, el Instituto contará con un Comité cuyas atribuciones, actuaciones y procedimientos deberán sujetarse a lo dispuesto por la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, el Reglamento del Comité y los demás ordenamientos aplicables. El Comité actuará de acuerdo a las partidas presupuestales que al efecto asigne la Legislatura del Estado en el Presupuesto de Egresos y a los objetivos contenidos en el Programa General de Trabajo del Instituto.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2010)</small>
 
 ###### Artículo 49.
 
-Las adquisiciones, arrendamientos y contratación de bienes y servicios deberán efectuarse bajo tres modalidades: licitación pública, invitación restringida y adjudicación directa. Los procedimientos que desarrolle el Comité serán vigilados por la Comisión de Control Interno de conformidad con lo dispuesto en la Ley de la materia.
+Las adquisiciones, enajenaciones, arrendamientos y contratación de bienes y servicios, podrán efectuarse bajo las siguientes modalidades, según corresponda:
+
+a) Subasta pública;
+
+b) Licitación Pública;
+
+c) Invitación restringida, o
+
+d) Adjudicación directa.
+
+Los procedimientos que lleve a cabo el Comité serán vigilados por la Comisión de Control Interno.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2006)</small>
 
@@ -527,23 +541,33 @@ I. El titular de la Coordinación Administrativa como Presidente;
 
 II. El titular de la Coordinación Jurídica como Secretario Ejecutivo;
 
-III. El titular de la Coordinación de Análisis, Seguimiento y Apoyo Técnico como Primer Vocal;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2010)</small>
+
+III. El Encargado de la Unidad de Informática como Primer Vocal;
 
 IV. El titular de la Coordinación de Información y Medios como Segundo Vocal; y
 
 V. El titular de la Coordinación de Partidos y Asociaciones Políticas como Tercer Vocal.
 
-Los integrantes suplentes serán designados por los propietarios y deberán estar adscritos a la Coordinación correspondiente.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2010)</small>
 
-La actuación de los integrantes suplentes no afectará la validez de los actos, procedimientos y adjudicaciones que realicen.
+Los integrantes suplentes serán designados por los propietarios y deberán estar adscritos a la unidad administrativa correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2010)</small>
+
+La actuación de los integrantes suplentes no afectará la validez de los actos o procedimientos que desahogue el Comité.
 
 Todos los miembros del Comité tendrán derecho a voz y voto.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2010)</small>
+
+El Encargado de Servicios Generales, concurrirá a las sesiones del Comité, sólo con voz informativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2010)</small>
 
 ###### Artículo 53.
 
-Las reuniones del Comité tendrán el carácter de abiertas y públicas, debiendo llevarse a cabo en un lugar apropiado dentro de las instalaciones del Instituto.
+Las sesiones del Comité tendrán el carácter de abiertas y públicas, debiendo llevarse a cabo en un lugar apropiado dentro de las instalaciones del Instituto.
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
@@ -1130,3 +1154,7 @@ PRIMERO.- Las presentes reformas entrarán en vigor a partir del día siguiente 
 P.O. 12 DE FEBRERO DE 2010.
 
 > <small>N. DE E. EL ACUERDO DEL REGLAMENTO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO.</small>
+
+P.O. 19 DE MARZO DE 2010.
+
+> <small>N. DE E. EL ACUERDO DEL REGLAMENTO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE QUERÉTARO.</small>
