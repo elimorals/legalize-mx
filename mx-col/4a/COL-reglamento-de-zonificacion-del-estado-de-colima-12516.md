@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-zonificacion-del-estado-de-colima-12516"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-08-23"
-last_updated: "2002-09-21"
+last_updated: "2010-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE ZONIFICACION DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de agosto de 1997.
 
@@ -1237,6 +1237,20 @@ IV. Deberán presentar para su aprobación, el Programa Parcial de Urbanización
 
 En el caso de que un desarrollo rebase estas características, no estando dentro del territorio de influencia de un centro de población existente, se considerará como nuevo centro de población, quedando sujeto a la (sic) previsto por la Ley en lo referente a la acción de fundación.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2010)</small>
+
+###### Artículo 53 Bis.
+
+Se consideran zonas habitacional plurifamiliar horizontal campestre comunitario las que, pudiendo estar dentro ó fuera de los límites de los centros de población, albergan comunidades de personas jubiladas y/o retiradas de las actividades laborales, por lo que su residencia puede ser fija, temporal o compartida; en el caso de que su emplazamiento se dé en zonas ubicadas fuera del límite del centro de población, previo análisis del sitio se deberán de establecer cuáles son las condicionantes naturales del área, definiendo los elementos que deben ser conservados y además cumplen con las siguientes condiciones:
+
+I. Su población máxima no deberá exceder de mil quinientos habitantes;
+
+II. Deberán estar separados por suelo rústico de otra zona de este mismo tipo a una distancia no menor a mil metros;
+
+III. Deberán cumplir con los lineamientos para este tipo de zonas descritos en el artículo 54 bis de este Reglamento; y
+
+IV. Deberán presentar para su aprobación, el Programa Parcial de Urbanización donde se establezca la zonificación secundaria siguiendo los requisitos descritos por la Ley. Y los señalados por el artículo 54 bis de este Reglamento
+
 ###### Artículo 54.
 
 Los predios o terrenos y las edificaciones construidas en las zonas habitacional campestre, tipo H1, estarán sujetas al cumplimiento de los siguientes lineamientos:
@@ -1264,6 +1278,36 @@ X. Las restricciones laterales serán de cuatro metros en todas las colindancias
 XI. La restricción posterior será de cinco metros; en esta superficie la construcción, incluyendo las bardas perimetrales no deberán tener una altura mayor a tres metros;
 
 XII. El modo de edificación será abierto
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2010)</small>
+
+###### Artículo 54 Bis.
+
+Los predios o terrenos y las edificaciones construidas en las zonas habitacional plurifamiliar horizontal campestre comunitario, tipo HC-HC, estarán sujetas al cumplimiento de los siguientes lineamientos:
+
+I. La densidad máxima será de 80 habitantes por hectárea lo que representa 40 viviendas por hectárea;
+
+II. La superficie mínima del lote será de 35,000 metros cuadrados, sin que pueda dividirse en fracciones menores;
+
+III. El frente mínimo del lote a la vía pública o a áreas comunes será de 40 metros lineales;
+
+IV. El índice de edificación será de 250 metros cuadrados por vivienda;
+
+V. El coeficiente de ocupación del suelo no será mayor de 0.50 y, consecuentemente, la superficie edificable no deberá ocupar mas del 50 por ciento de la superficie total del lote;
+
+VI. El coeficiente de utilización del suelo no deberá ser superior a 1.00 y, por tanto, la superficie construida máxima no excederá al cien por ciento de la superficie total del lote;
+
+VII. La altura máxima de las edificaciones será la que resulte de aplicar los coeficientes de ocupación y utilización del suelo;
+
+VIII. Se deberá tener dentro del lote un área de estacionamiento con capacidad mínima para dos automóviles por vivienda, o su equivalente en áreas comunes (playones de estacionamiento), a una distancia no mayor a 60 metros;
+
+IX. La restricción frontal será de diez metros, en esta superficie se deberá tener un mínimo del 70 por ciento como área jardinada;
+
+X. Las restricciones laterales serán de cinco metros en todas las colindancias laterales, esta superficie será totalmente jardinada;
+
+XI. La restricción posterior será de cinco metros, en esta superficie la construcción, incluyendo las bardas perimetrales no deberán tener una altura mayor a tres metros;
+
+XII. El modo de edificación será abierto.
 
 ###### Artículo 55.
 
@@ -2345,9 +2389,11 @@ En todos los casos, deberán contar con un sistema de tratamiento adecuado a las
 
 ### CAPITULO XIII. Reglamentación de zonas de equipamiento urbano
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2010)</small>
+
 ###### Artículo 116.
 
-Los grupos de usos y destinos permitidos en las zonas de equipamiento urbano son los que se describen a continuación:
+Los grupos de usos y destinos permitidos en las zonas de equipamiento urbano, entendiendo estas como el conjunto de inmuebles, instalaciones, construcciones y mobiliario, públicos o privados, destinados a prestar a la población los servicios económicos y de bienestar social, son los que se describen a continuación:
 
 Zona Categoría Grupos
 
@@ -3013,6 +3059,10 @@ I. En las zonas de granjas y huertos, tipo GH, la cesión al ayuntamiento compre
 
 II. En las zonas habitacional campestre, tipo H I, la cesión al ayuntamiento comprenderá el diez por ciento de la superficie bruta de la zona a desarrollar; de la cual, el ocho por ciento se destinará necesariamente para áreas verdes o espacios abiertos y el dos por ciento para otros equipamientos.
 
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2010)</small>
+
+II BIS. En las zonas habitacional plurifamiliar horizontal campestre comunitario, tipo HC-HC, la cesión al ayuntamiento comprenderá el cinco por ciento de la superficie bruta de la zona a desarrollar; la cual, se destinará necesariamente para áreas verdes o espacios abiertos.
+
 III. En las zonas turístico hoteleras, tipo TH, la cesión al ayuntamiento comprenderá el diez por ciento de la superficie bruta de la zona a desarrollar; de la cual, el ocho por ciento se destinará necesariamente para áreas verdes o espacios abiertos y el dos por ciento para otros equipamientos.
 
 IV. En las zonas habitacionales, tipos H2-U, H2-H, H2-V, H3-U, H3-H, H3- V, la cesión al ayuntamiento comprenderá el veinte por ciento de la superficie vendible, de la cual, el cinco por ciento mínimo, se destinará necesariamente para áreas verdes o espacios abiertos, el cuatro por ciento para equipamiento escolar y el tres por ciento para otros equipamientos.
@@ -3384,6 +3434,34 @@ IV. Red de alumbrado público sobre poste metálicos o de concreto e instalació
 V. Señalamiento, incluyendo placas de nomenclatura, en vialidades vehiculares y peatonales; y
 
 VI. Arbolado y jardinería en vialidades vehiculares y peatonales, áreas verdes y de esparcimiento, y áreas de cesión.
+
+(ADICIONADO, P.O. 20 DE MARZO DE 2010
+
+###### Artículo 169 Bis.
+
+Para las zonas habitacional plurifamiliar horizontal campestre comunitario, tipo HC-HC, las obras mínimas de urbanización que se exigirán son las siguientes:
+
+I. Red de abastecimiento de agua potable con tomas domiciliarias;
+
+II. Red de alcantarillado sanitario con descargas domiciliarias;
+
+III. Sistema de desalojo de aguas pluviales;
+
+IV. Sistema de tratamiento de aguas negras o sanitarias, de acuerdo a normas de las autoridades sanitarias, incluyendo sistemas de almacenamiento, equipos de bombeo, plantas de emergencia y demás accesorios, en los casos que el organismo operador del sistema no cuente con capacidad de recepción;
+
+V. Red de electrificación con servicio de baja tensión, instalación aérea;
+
+VI. Red de alumbrado público, instalación aérea en vialidades vehiculares y peatonales; y en áreas verdes y áreas de cesión;
+
+VII. Sistema de canalización para red de comunicación alámbrica e inalámbrica con instalación subterránea y acometida domiciliaria;
+
+VIII. Válvulas contra incendio en la red de agua potable;
+
+IX. Red de riego utilizando agua tratada, en los casos en que se disponga de planta de tratamiento, instalación oculta, sistema programable de riego, almacenamiento y alimentación por separado de la red de agua potable;
+
+X. Señalamiento, incluyendo placas de nomenclatura, en vialidades vehiculares y peatonales; y
+
+XI. Arbolado y jardinería en vialidades vehiculares y peatonales, áreas verdes y de esparcimiento, y áreas de cesión
 
 ###### Artículo 170.
 
@@ -7468,3 +7546,7 @@ UNICO.- El presente Decreto entrará en vigor el día 1° de marzo del año en c
 P.O. 21 DE SEPTIEMBRE DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE MARZO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional "El Estado de Colima".
