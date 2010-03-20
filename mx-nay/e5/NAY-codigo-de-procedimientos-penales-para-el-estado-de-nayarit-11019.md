@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2009-11-25"
+last_updated: "2010-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -1033,6 +1033,10 @@ Por cuerpo del delito se entiende el conjunto de elementos materiales que consti
 
 La probable responsabilidad del indiciado se tendrá por acreditada cuando de los medios probatorios existentes, se deduzca su intervención o participación en el delito, la comisión dolosa o culposa y no exista acreditada a su favor alguna causa excluyente de incriminación en términos del artículo 15 del código penal.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2010)</small>
+
+Sin perjuicio de los párrafos anteriores, cuando se trate de delitos de responsabilidad médica y técnica, el ministerio público para acreditar la probable responsabilidad, además de las opiniones vertidas por los peritos oficiales, deberá solicitar a la Comisión Estatal de Conciliación y Arbitraje Médico, el dictamen pericial correspondiente en los términos de sus procedimientos internos.
+
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 131.
@@ -1642,6 +1646,10 @@ Cuando hubiere versiones distintas acerca de la forma en que ocurrieron los hech
 Siempre que para el examen de personas, hechos u objetos se requieran conocimientos especiales, se procederá con intervención de peritos.
 
 Cuando el inculpado pertenezca a un grupo étnico indígena, se procurará allegarse dictámenes periciales, a fin de que el juzgador ahonde en el conocimiento de su personalidad y capte su diferencia cultural respecto a la cultura media nacional.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2010)</small>
+
+Tratándose de investigaciones de hechos relacionados con el ejercicio de los profesionales de la salud, la Comisión Estatal de Arbitraje Médico cuando así lo requiera la autoridad competente emitirá invariablemente el dictamen pericial respectivo en los términos de sus procedimientos internos.
 
 ###### ARTICULO 205.
 
@@ -3576,3 +3584,7 @@ Artículo Único.- El presente decreto entrará en vigor a partir de su publicac
 P.O. 25 DE NOVIEMBRE 2009.
 
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE MARZO DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
