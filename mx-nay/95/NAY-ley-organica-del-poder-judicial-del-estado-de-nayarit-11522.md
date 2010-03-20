@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-del-estado-de-nayarit-11522"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-12-20"
-last_updated: "1995-12-20"
+last_updated: "2010-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGANICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 20 de diciembre de 1995.
 
@@ -1608,3 +1610,27 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno
 
 Lic. Adán Meza Barajas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el decreto número 7929 publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, del veinte de diciembre de 1995 que contiene la Ley Orgánica del Poder Judicial del Estado de Nayarit.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se emita el acuerdo que determine la competencia territorial de los juzgados, se seguirá observando la delimitación de los partidos judiciales que señala la Ley Orgánica que se abroga.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos administrativos y disciplinarios que se encuentren en trámite a la entrada en vigor de la presente ley, se sujetarán a las disposiciones previstas en la ley que se abroga. Por lo que ve a la interposición y procedencia de recursos regirá lo dispuesto en la presente ley.
+
+###### ARTÍCULO QUINTO.
+
+Los órganos competentes del Poder Judicial contarán con un plazo de hasta un año contado a partir de la entrada en vigor de la presente ley para emitir los correspondientes reglamentos o acuerdos generales; entretanto, se continuarán observando las disposiciones que deriven de la Ley que se abroga en lo que no contrarie el presente decreto.
