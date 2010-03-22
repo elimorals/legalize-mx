@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-comision-de-transparencia-del-26044"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-07"
-last_updated: "2002-10-07"
+last_updated: "2010-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA DEL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL DECRETO NUMERO NUEVE, PUBLICADA EN EL P.O. DE 22 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de octubre de 2002.
 
@@ -454,3 +456,11 @@ Con fundamento en la fracción V del Artículo 93 de la Ley Orgánica Municipal 
 El Secretario General Municipal
 
 Lic. Armando Madariaga Nava.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE MARZO DE 2010.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El personal que se encontraba ejerciendo las actividades establecidas en el Reglamento Municipal abrogado pasará a disposición de la secretaría de la Contraloría Municipal a efecto de que en coordinación con la Secretaría de Administración Municipal determinen sus (sic) situación jurídica. Por lo que hace a los recursos materiales se reasignarán previo acuerdo entre las Secretarías antes citadas.
