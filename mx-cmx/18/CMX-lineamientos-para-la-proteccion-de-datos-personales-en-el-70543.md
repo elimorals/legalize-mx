@@ -4,7 +4,7 @@ identifier: "CMX-lineamientos-para-la-proteccion-de-datos-personales-en-el-70543
 country: "mx"
 rank: "lineamientos"
 publication_date: "2009-10-26"
-last_updated: "2009-10-26"
+last_updated: "2010-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70543&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-10-14"
 
 ACUERDO 547/SO/14-10/2009 MEDIANTE EL CUAL SE APRUEBAN LOS LINEAMIENTOS PARA LA PROTECCION DE DATOS PERSONALES EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE MARZO DE 2010.
 
 Acuerdo publicado en la Gaceta Oficial de la Distrito Federal, el lunes 26 de octubre de 2009.
 
@@ -774,6 +774,24 @@ PRIMERO. Los presentes Lineamientos entrarán en vigor al día siguiente de su p
 
 SEGUNDO. El titular del ente público deberá designar al enlace y notificarlo al Instituto para su registro dentro de los quince días hábiles posteriores a la entrada en vigor de los presentes Lineamientos.
 
-TERCERO. Los responsables deberán inscribir los sistemas de datos personales bajo su custodia dentro de los noventa días hábiles siguientes a la entrada en vigor de estos Lineamientos en el Registro Electrónico de Sistemas de Datos Personales.
+> <small>(REFORMADO, G.O. 22 DE MARZO DE 2010)</small>
+
+TERCERO. Los responsables deberán inscribir los sistemas de datos personales bajo su custodia dentro de los ciento veinte días hábiles siguientes a la entrada en vigor de estos Lineamientos en el Registro Electrónico de Sistemas de Datos Personales.
 
 CUARTO. Los entes públicos contarán con ciento veinte días hábiles para realizar las adecuaciones necesarias que permitan atender los requerimientos sobre las medidas de seguridad referidas en estos Lineamientos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS</small>
+
+G.O. 22 DE MARZO DE 2010.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. El Presente Acuerdo deberá ser comunicado por el Presidente de este Instituto a los titulares de los entes públicos.
+
+CUARTO. Se instruye al Director de Evaluación y Estudios para que el presente Acuerdo lo comunique a los responsables de las Oficinas de Información Pública y a los Responsables de los Sistemas de Protección de Datos Personales designados por los titulares de los entes públicos del Distrito Federal.
+
+QUINTO. Se instruye al Secretario Técnico para que, en el ámbito de sus atribuciones, realice las acciones necesarias para publicar el presente acuerdo en la Gaceta Oficial del Distrito Federal, y en el portal de Internet del INFODF.
