@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-promexico-67270"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-03-10"
-last_updated: "2009-03-10"
+last_updated: "2010-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67270&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-02-24"
 
 ESTATUTO ORGANICO DE PROMEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MARZO DE 2010.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 10 de marzo de 2009.
 
@@ -215,7 +215,9 @@ IX.- Otorgar o revocar poderes generales y especiales, incluso los que requieren
 
 X.- Apoyar al Comité Técnico en la realización de sus funciones, incluyendo la elaboración, definición y propuesta de políticas y documentos normativos que requieren de su aprobación;
 
-XI.- Contratar y remover de conformidad con las disposiciones aplicables, a los integrantes de la estructura orgánica de ProMéxico;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+XI.- Proponer al Comité Técnico el nombramiento o la remoción de los dos primeros niveles de servidores de la entidad, la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Comité;
 
 XII.- Promover los estudios e investigaciones que se relacionen con los fines y funciones específicas de ProMéxico;
 
@@ -235,9 +237,11 @@ XIX.- Las demás que le confiera el Comité Técnico.
 
 ### CAPITULO IV. DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 10.
 
-Al frente de cada Unidad Administrativa habrá un Jefe o Coordinador General, quien será responsable ante las autoridades superiores de su correcto funcionamiento, y que para el ejercicio de sus atribuciones se auxiliarán por los Directores Ejecutivos, Coordinadores Generales Adjuntos, Directores de área, Subdirectores de área, Jefes de departamento, y demás servidores públicos, de conformidad con la estructura autorizada y registrada por las dependencias competentes.
+Al frente de cada Unidad Administrativa habrá un Jefe o Coordinador General, quien será responsable ante las autoridades superiores de su correcto funcionamiento, y que para el ejercicio de sus atribuciones se auxiliarán por los Directores Ejecutivos, Coordinadores, Directores de área, Subdirectores de área, Jefes de departamento, y demás servidores públicos, de conformidad con la estructura autorizada y registrada por las dependencias competentes.
 
 ###### ARTICULO 11.
 
@@ -371,7 +375,9 @@ II.- Vincular, en coordinación con la Dirección Ejecutiva de Promoción Intern
 
 III.- Detectar empresas mexicanas con potencial de internacionalización en coordinación con las direcciones ejecutivas de Promoción Nacional, así como de Promoción Internacional con el apoyo de la Unidad de Inteligencia de Negocios; y
 
-IV.- Otorgar todo tipo de servicio de asesoría, asistencia técnica, logística, aduanal y de certificación a todas aquellas empresas mexicanas susceptibles de desarrollar, incrementar y/o consolidar sus capacidades exportadoras.
+(REFORMADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+IV.- Coordinarse con las demás áreas competentes de ProMéxico para el otorgamiento de los servicios autorizados en beneficio de las empresas mexicanas que tengan como objetivo incrementar, diversificar o consolidar sus exportaciones, o bien, que si no han exportado aún, demuestren estar preparadas para ello.
 
 Para las Direcciones Ejecutivas citadas anteriormente, las demás que dentro de su ámbito de competencia, les encomiende el Jefe de la Unidad de Promoción de Exportaciones o les confieran otras disposiciones normativas aplicables.
 
@@ -385,45 +391,81 @@ I.- Proponer, negociar y acordar acciones de colaboración con instituciones nac
 
 II.- Proponer y negociar la suscripción de convenios o cualquier otro instrumento jurídico que permita el cumplimiento de lo señalado en el punto anterior; fungir como enlace con las entidades nacionales e internacionales, conjuntamente con las Unidades correspondientes y dar seguimiento a los compromisos establecidos;
 
-III.- Coordinar y dirigir el diseño y desarrollo de programas, servicios y que apoyen la promoción de exportaciones y la atracción de inversión extranjera directa; así como evaluar su comportamiento para establecer acciones de mejora;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
 
-IV.- Establecer las políticas de prestación y cobro de servicios que apoyen la cobertura e impacto de los mismos;
+III.- Coordinar y dirigir el diseño y desarrollo de programas y servicios que apoyen la promoción de exportaciones y la atracción de inversión extranjera directa; así como evaluar su comportamiento para implementar las acciones de mejora establecidas por el órgano competente;
 
-V.- Fijar las políticas para el diseño y operación de los programas de capacitación que ofrecen la institución a exportadores e inversionistas, con el apoyo de las Unidades de Promoción de Exportaciones y de Promoción de Inversiones y Negocios Internacionales;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+IV.- Establecer las políticas de prestación, cobro y mercadotecnia de servicios que apoyen la cobertura e impacto de los mismos;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+V.- Fijar las políticas para el diseño y operación de los programas del servicio de capacitación que ofrece la institución a exportadores e inversionistas, con el apoyo de las Unidades de Promoción de Exportaciones y de Promoción de Inversiones y Negocios Internacionales;
 
 VI.- Establecer los lineamientos para la operación del programa anual de los eventos del Fideicomiso a efecto de contribuir al cumplimiento de los fines de la Entidad. El programa incluirá: ferias internacionales, misiones de exportadores, importadores e inversionistas, ferias nacionales, foros y encuentros de negocios y otros eventos en México vinculados con los objetivos de ProMéxico;
 
 VII.- Diseñar y ejecutar esquemas de apoyos para potenciales exportadores e inversionistas, con la finalidad de cumplir los objetivos de la Entidad;
 
-VIII.- Establecer alianzas que permitan al Fideicomiso complementar los recursos con los de otros organismos del sector público y privado, que deriven en un mayor apoyo a la comunidad exportadora y a la atracción de inversión extranjera; y
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
 
-IX.- Las demás que dentro de su ámbito de competencia le encomiende el Director General o le confieran otras disposiciones normativas aplicables.
+VIII.- Desarrollar y difundir información en materia de comercio exterior e inversión, que apoye la toma de decisiones de los clientes de ProMéxico;
 
-La Unidad de Apoyos y Relaciones Institucionales estará a cargo de un Jefe de Unidad, quien será auxiliado en el ejercicio de sus facultades por las Direcciones Ejecutivas de Formación Empresarial y Servicios; de Vinculación Institucional; de Eventos Institucionales, y de Operación de Apoyos e Incentivos.
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+IX.- Establecer alianzas que permitan al Fideicomiso complementar los recursos con los de otros organismos del sector público y privado, que deriven en un mayor apoyo a la comunidad exportadora y a la atracción de inversión extranjera;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+X.- Las demás que dentro de su ámbito de competencia le encomiende el Director General o le confieran otras disposiciones normativas aplicables.
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2010)</small>
+
+La Unidad de Apoyos y Relaciones Institucionales estará a cargo de un Jefe de Unidad, quien será auxiliado en el ejercicio de sus facultades por las Direcciones Ejecutivas de Relaciones Institucionales; de Eventos Institucionales y de Apoyos y Servicios.
 
 ###### ARTICULO 19.
 
-La Dirección Ejecutiva de Formación Empresarial y Servicios tendrá las siguientes facultades:
+(DEROGADO, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-I.- Coordinar el diseño, la instrumentación y el registro de resultados de los servicios y apoyos que ofrece ProMéxico para promover exportaciones y atraer inversión extranjera directa, así como la normatividad correspondiente;
-
-II.- Proponer políticas de prestación y cobro de los servicios que apoyen su cobertura y faciliten la labor de los promotores;
-
-III.- Dirigir el diseño y operación de los procesos de formación y servicios de capacitación a favor de beneficiarios objeto de atención de ProMéxico, que apoyen el desarrollo de habilidades en negocios internacionales y la formación de cuadros básicos en la materia; y
-
-IV.- Desarrollar y difundir información en materia de comercio exterior e inversión, que apoye la toma de decisiones de los clientes de ProMéxico;
+(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
 ###### ARTICULO 20.
 
-La Dirección Ejecutiva de Vinculación Institucional tendrá las siguientes facultades:
+La Dirección Ejecutiva de Relaciones Institucionales tendrá las siguientes facultades:
+
+> <small>(F. DE E., D.O.F. 14 DE ABRIL DE 2010)</small>
 
 I.- Establecer y coordinar las relaciones entre ProMéxico con las diferentes instancias de los gobiernos federal, estatal y municipal, instituciones de educación superior y organismos del sector privado nacional, así como entidades internacionales vinculadas con la promoción de la actividad exportadora y la atracción de inversión extranjera;
 
+> <small>(F. DE E., D.O.F. 14 DE ABRIL DE 2010)</small>
+
 II.- Generar acuerdos y convenios con las entidades señaladas en el inciso anterior que faciliten el establecimiento de acciones de colaboración;
 
-III.- Apoyar a las diferentes unidades administrativas en los procesos de vinculación con actores institucionales que permitan concretar los procesos de inversión y de negocios en nuestro país; y
+(REFORMADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-IV.- Operar alianzas que permitan al Fideicomiso complementar los recursos con los de otros organismos del sector público y privado, que deriven en un mayor apoyo a la comunidad exportadora y a la atracción de inversión extranjera directa.
+III.- Apoyar a las diferentes unidades administrativas en los procesos de vinculación con actores institucionales que permitan concretar los procesos de inversión y de negocios en nuestro país;
+
+(REFORMADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+IV.- Operar alianzas que permitan al Fideicomiso complementar los recursos con los de otros organismos del sector público y privado, que deriven en un mayor apoyo a la comunidad exportadora y a la atracción de inversión extranjera directa;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+V.- Dirigir la operación de los procesos de formación y servicios de capacitación a favor de beneficiarios objeto de atención de ProMéxico, que apoyen el desarrollo de habilidades en negocios internacionales y la formación de cuadros básicos en la materia;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+VI.- Desarrollar y difundir información en materia de comercio exterior e inversión, que apoye la toma de decisiones de los clientes de ProMéxico;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+VII.- Diseñar, administrar, promover y difundir los contenidos e imágenes de los productos y servicios de ProMéxico en su Portal Electrónico, así como proponer herramientas remotas de negocios que evolucionen los mecanismos de atención del mismo;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+VIII.- Atender y operar el Centro de Contacto, a través de las herramientas remotas, para proporcionar y asesorar a los clientes de ProMéxico con información y campañas de promoción en materia de comercio exterior y atracción de inversión extranjera en México.
+
+> <small>(F. DE E., D.O.F. 14 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 21.
 
@@ -431,23 +473,43 @@ La Dirección Ejecutiva de Eventos Institucionales tendrá las siguientes facult
 
 I.- Coordinar la integración y desarrollo del programa anual de eventos institucionales que incluya ferias, misiones de exportadores, importadores e inversionistas, así como foros de negocios en México o en el exterior, con el objeto de apoyar la promoción de exportaciones y la atracción de inversión extranjera directa, consolidando los intereses de todos los actores vinculados a esta actividad;
 
-II.- Operar el programa anual de eventos institucionales en los que participe ProMéxico, así como coordinar y apoyar la participación de las empresas; y
+II.- Operar el programa anual de eventos institucionales en los que participe ProMéxico, así como coordinar y apoyar la participación de las empresas; y (sic)
 
-III.- Registrar los resultados obtenidos en los eventos en los que participe ProMéxico;
+(REFORMADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+III.- Definir y proponer las políticas, estrategias, normatividad e imagen para la participación de las empresas mexicanas en los eventos institucionales en los que participe ProMéxico a, a (sic) fin de orientar, guiar y facilitar su participación;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+IV.- Analizar, sistematizar y evaluar la posición de los participantes sobre el servicio proporcionado por ProMéxico a través de los formatos instituidos por la Dirección Ejecutiva de Eventos Institucionales para este fin.
+
+(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
 ###### ARTICULO 22.
 
-La Dirección Ejecutiva de Operación de Apoyos e Incentivos, tendrá las siguientes facultades:
+La Dirección Ejecutiva de Apoyos y Servicios, tendrá las siguientes facultades:
 
-I.- Instrumentar un mecanismo de apoyos que permita facilitar la instalación y expansión de proyectos de inversión en sectores económicos estratégicos para México, permitiendo reducir el costo de inicio de operaciones de las empresas en nuestro País y favoreciendo la generación de actividades productivas de alto valor agregado;
+(REFORMADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+I.- Instrumentar mecanismos de apoyo que permitan facilitar la instalación y/o expansión de proyectos de inversión extranjera en sectores económicos estratégicos para México, buscando reducir el costo de inicio de operaciones de las empresas en nuestro País y favoreciendo la generación de actividades productivas de alto valor agregado;
 
 II.- Administrar y controlar el proceso de otorgamiento de apoyos, previa autorización y dictamen de las instancias facultadas y con apego a la normatividad aplicable;
 
 III.- Instrumentar convenios con las entidades federativas para coordinar los esfuerzos de apoyos e incentivos que se otorgan a los proyectos de inversión extranjera;
 
-IV.- Vigilar que se cumplan con todos los compromisos y requisitos acordados entre los beneficiarios y el Fideicomiso, a fin de cumplir con la normatividad aplicable en la materia; y
+(REFORMADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-V.- Dar seguimiento y control a la información correspondiente a expedientes y documentación de soporte, relativa al proceso de autorización, ejecución, avance y comprobación de apoyos.
+IV.- Vigilar que se cumplan con los compromisos y requisitos, metas y objetivos acordados entre los beneficiarios y el Fideicomiso, a fin de cumplir con la normatividad aplicable en la materia;
+
+V.- Dar seguimiento y control a la información correspondiente a expedientes y documentación de soporte, relativa al proceso de autorización, ejecución, avance y comprobación de apoyos;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+VI.- Coordinar el diseño, la instrumentación y el seguimiento al desempeño de los servicios que ofrece ProMéxico para promover exportaciones y atraer inversión extranjera directa, así como la normatividad correspondiente;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+VII.- Proponer políticas de prestación, cobro y difusión de los servicios que apoyen su cobertura y faciliten la labor de los promotores, así como emitir las circulares relacionadas con la operación de los mismos.
 
 Para las Direcciones Ejecutivas citadas anteriormente, las demás que dentro de su ámbito de competencia, les encomiende el Jefe de la Unidad de Apoyos y Relaciones Institucionales o les confieran otras disposiciones normativas aplicables.
 
@@ -457,7 +519,9 @@ UNIDAD DE INTELIGENCIA DE NEGOCIOS
 
 La Unidad de Inteligencia de Negocios estará adscrita a la Dirección General del Fideicomiso, y tiene las atribuciones siguientes:
 
-I.- Proponer a la Dirección General e instrumentar la estrategia general para la administración del ciclo de inteligencia del Fideicomiso; entendiéndose éste como el proceso de planeación, investigación, recolección, sistematización, validación y análisis de datos de diversas fuentes, y con ello producir y diseminar información que sirva para la toma de decisiones;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+I.- Proponer a la Dirección General e instrumentar el ciclo de inteligencia del Fideicomiso; entendiéndose éste como el proceso de planeación, investigación, recolección, sistematización, validación y análisis de datos de diversas fuentes, y con ello producir y diseminar información que sirva para la toma de decisiones;
 
 II.- Proporcionar información de manera permanente, oportuna y sustantiva de los países, regiones del mundo, sectores de la economía, empresas y demás factores relevantes para el trabajo del Fideicomiso;
 
@@ -471,41 +535,51 @@ VI.- Ser un área de consulta en las materias de su competencia para las unidade
 
 VII.- Las demás que dentro de su ámbito de competencia le encomiende el Director General o le confieran otras disposiciones normativas aplicables.
 
-La Unidad de Inteligencia de Negocios estará a cargo de un Jefe de Unidad, quien será auxiliado en el ejercicio de sus facultades por las Direcciones Ejecutivas de Oportunidades de Negocios, y de Estrategia y Evaluación.
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2010)</small>
+
+La Unidad de Inteligencia de Negocios estará a cargo de un Jefe de Unidad, quien será auxiliado en el ejercicio de sus facultades por las Direcciones Ejecutivas de Oportunidades de Negocios, y de Análisis Prospectivo e Innovación.
+
+> <small>(REFORMADO, D.O.F. 23 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 24.
 
 La Dirección Ejecutiva de Oportunidades de Negocios tendrá las siguientes facultades:
 
-I.- Procurar la información necesaria sobre la situación presente del entorno de negocios nacional e internacional, para identificar oportunidades específicas de negocios a partir de estudios sectoriales e internacionales, con el objetivo de incrementar la inversión extranjera directa, las exportaciones y la internacionalización de empresas mexicanas en el exterior;
+I.- Diseñar y ejecutar la estrategia general para la administración del ciclo de inteligencia del Fideicomiso;
 
-II.- Dirigir el proceso de difusión del ciclo de inteligencia del Fideicomiso entre las demás unidades administrativas, así como de fichas o perfiles de país, sector, entidades, empresas y empresarios;
+II.- Procurar la información necesaria para elaborar análisis sobre la situación presente del entorno de negocios nacional e internacional. Esto con el fin de elaborar estudios sectoriales e internacionales que permitan detectar oportunidades específicas de negocios para incrementar la inversión extranjera directa, las exportaciones y la internacionalización de empresas mexicanas en el exterior;
 
-III.- Elaborar el análisis de información de los diferentes países, sectores de la economía y empresas, con el fin de detectar oportunidades de negocio para empresas, entidades federativas, y otros actores relevantes;
+III.- Dirigir el proceso de difusión de los productos del ciclo de inteligencia del Fideicomiso entre las demás unidades administrativas;
 
-IV.- Identificar oportunidades de negocios con base en la información analizada, estudios y trabajos que permitan atraer inversión extranjera directa e incrementar el comercio internacional de México; y
+IV.- Elaborar y difundir documentos con información detallada sobre las ventajas de hacer negocios en México, que faciliten el proceso de toma de decisiones por parte de posibles inversionistas;
 
-V.- Elaborar y publicar documentos con información detallada sobre las ventajas de hacer negocios en México, que faciliten el proceso de toma de decisiones por parte de posibles inversionistas;
+V.- Administrar los servicios de información y estadísticas de la Entidad. Elaborar informes en materia de comercio exterior e inversión extranjera, así como de otros temas de relevancia para la unidad y la Entidad;
+
+VI.- Identificar y realizar el acopio especializado de datos y conocimiento que requiera la unidad para sus fines; (sic)
+
+(REFORMADO, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
 ###### ARTICULO 25.
 
-La Dirección Ejecutiva de Estrategia y Evaluación tendrá las siguientes facultades:
+La Dirección Ejecutiva de Análisis Prospectivo e Innovación tendrá las siguientes facultades:
 
-I.- Proporcionar información estratégica y táctica necesaria para que el Fideicomiso promueva proyectos económicos sectoriales estratégicos para el desarrollo de la competitividad que permitan incrementar la inversión extranjera directa, el comercio internacional y la imagen de México en el mundo;
+I.- Identificar proyectos y sectores estratégicos y proporcionar la información prospectiva para la toma de decisiones que incrementen la inversión extranjera directa, el comercio internacional y promuevan la imagen de México en el mundo;
 
-II.- Ejecutar la estrategia general para la administración del ciclo de inteligencia del Fideicomiso;
+II.- Diseñar y proponer planes y acciones que tengan por objeto desarrollar la competitividad internacional de sectores estratégicos;
 
-III.- Coadyuvar con las entidades y dependencias de la Administración Pública Federal en la detección de proyectos estratégicos para la atracción de la inversión extranjera directa, promover las exportaciones mexicanas en otras regiones del mundo y la internacionalización de empresas mexicanas;
+III.- Coordinar la participación de líderes en los sectores público, privado y académico en grupos de análisis para el desarrollo de planes sectoriales y proyectos estratégicos;
 
-IV.- Brindar a la Dirección General información y análisis que le permita evaluar el cumplimiento del plan de trabajo y las metas de la Entidad, así como el costo-beneficio de los apoyos y servicios otorgados;
+IV.- Desarrollar los planes de negocio asociados a proyectos y sectores estratégicos y ejecutar las acciones necesarias para llevarlos a un nivel de madurez que les permita ser transferidos a otras unidades y/o dependencias para su implementación;
 
-V.- Administrar los servicios de información y estadísticas de la Entidad y elaborar informes en materia de comercio exterior e inversión extranjera;
+V.- Proponer las acciones y estrategias conducentes a aumentar el valor agregado e internacionalización de empresas mexicanas a través de la innovación, la calidad y el diseño;
 
-VI.- Identificar y realizar el acopio especializado de datos y conocimiento que requiera la unidad para sus fines;
+VI.- (DEROGADA, D.O.F. 23 DE MARZO DE 2010)
 
-VII.- Ubicar actores estratégicos y crear redes sectoriales para contemplarlos en la planeación de sectores trascendentes; y
+VII.- (DEROGADA, D.O.F. 23 DE MARZO DE 2010)
 
-VIII.- Llevar a cabo propuestas conducentes a aumentar el valor agregado de las exportaciones mexicanas, a través de la innovación, la calidad y el diseño.
+VIII.- (DEROGADA, D.O.F. 23 DE MARZO DE 2010)
+
+> <small>(F. DE E., D.O.F. 14 DE ABRIL DE 2010)</small>
 
 Para las Direcciones Ejecutivas citadas anteriormente, las demás que dentro de su ámbito de competencia, les encomiende el Jefe de la Unidad de Inteligencia de Negocios o les confieran otras disposiciones normativas aplicables.
 
@@ -517,7 +591,9 @@ La Unidad de Administración y Finanzas estará adscrita a la Dirección General
 
 I.- Proponer al Director General la implementación de medidas administrativas que estime convenientes para la mejor organización, funcionamiento y optimización de los recursos humanos, financieros, materiales y tecnológicos del Fideicomiso;
 
-II.- Formular, establecer y difundir las normas, políticas y lineamientos que permitan administrar eficientemente los recursos humanos, financieros, materiales, y tecnológicos del Fideicomiso y vigilar su cumplimiento;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+II.- Establecer las políticas, lineamientos, normas, sistemas y manuales para la administración racional y eficiente de los recursos humanos, materiales, financieros e informáticos en el ámbito nacional y en las representaciones en el extranjero.
 
 III.- Interpretar las disposiciones jurídicas en materia administrativa, o que así lo señale la propia norma, y emitir los criterios generales para su aplicación, que serán de observancia obligatoria para las unidades administrativas de la Entidad;
 
@@ -533,19 +609,59 @@ VIII.- Autorizar las disposiciones de control y operación internas que le propo
 
 IX.- Dirigir y coordinar la integración del informe anual de la cuenta pública, para su autorización y envío a la Coordinadora de Sector;
 
-X.- Dirigir y coordinar las acciones orientadas a contar con una estructura orgánica alineada a las necesidades del Fideicomiso, y apegada al marco normativo de la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
 
-XI.- Dirigir el proceso de planeación que permita contar con procedimientos para el desarrollo de los potenciales y las capacidades del capital humano del Fideicomiso;
+X.- Dirigir y coordinar las acciones orientadas a contar con una estructura orgánica alineada a las necesidades del Fideicomiso, y apegada al marco normativo de la Administración Pública Federal, así como autorizar los movimientos internos que las Unidades Administrativas le propongan respecto a las modificaciones a su estructura;
 
-XII.- Presidir los Comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios relacionados con las mismas; de Bienes Muebles y de Mejora Regulatoria Interna;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
 
-XIII.- Proponer al Comité Técnico los programas en materia administrativa de conformidad a las disposiciones normativas, jurídicas y administrativas aplicables en la materia;
+XI.- Dirigir el proceso de aprobación de la estructura orgánica de ProMéxico y su registro ante las dependencias normativas;
 
-XIV.- Supervisar que se atiendan las necesidades administrativas de las distintas unidades, acorde a la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
 
-XV.- Autorizar la contratación, el desarrollo y el uso de las plataformas tecnológicas necesarias para el cumplimiento de los fines del Fideicomiso; y
+XII.- Contratar y remover, de conformidad con las disposiciones aplicables, a los integrantes de la Estructura Orgánica no Básica del Fideicomiso;
 
-XVI.- Las demás que dentro de su ámbito de competencia le encomiende el Director General o le confieran otras disposiciones normativas aplicables.
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+XIII.- Dirigir el proceso de planeación que permita contar con procedimientos para el desarrollo de los potenciales y las capacidades del capital humano del Fideicomiso;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+XIV.- Presidir los Comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las Mismas; de Bienes Muebles; de Información; y, de Mejora Regulatoria Interna;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+XV.- Proponer al Comité Técnico los programas en materia administrativa de conformidad a las disposiciones normativas, jurídicas y administrativas aplicables en la materia;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+XVI.- Supervisar que se atiendan las necesidades administrativas de las distintas unidades, acorde a la normatividad aplicable;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+XVII.- Autorizar los manuales de procedimientos y de organización del Fideicomiso ProMéxico;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+XVIII.- Dirigir y regular a las coordinaciones administrativas para dar cumplimiento a la normatividad en materia de recursos humanos, financieros, materiales e informáticos en el ámbito nacional y en las representaciones en el extranjero;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+XIX.- Dirigir la ejecución de los programas de capacitación institucionales;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+XX.- Conducir las relaciones laborales del Fideicomiso y vigilar la correcta aplicación del Reglamento Interior de Trabajo y demás ordenamientos aplicables a la materia;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+XXI.- Dirigir la planeación y administración de la infraestructura de tecnologías de la información y comunicaciones entre el ámbito nacional y las representaciones en el extranjero;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+XXII.- Las demás que dentro de su ámbito de competencia le encomiende el Director General o le confieran otras disposiciones normativas aplicables.
+
+> <small>(F. DE E., D.O.F. 14 DE ABRIL DE 2010)</small>
 
 La Unidad de Administración y Finanzas estará a cargo de un Jefe de Unidad, quien será auxiliado en el ejercicio de sus facultades por las Direcciones Ejecutivas de Finanzas; de Recursos Humanos; de Recursos Materiales y Servicios Generales; y de Tecnologías de la Información.
 
@@ -597,19 +713,53 @@ VIII.- Determinar, en colaboración con la Dirección Ejecutiva de Finanzas, el 
 
 IX.- Dirigir y supervisar la aplicación de los procedimientos en materia de administración de personal para el pago de remuneraciones y prestaciones, a fin de vigilar el correcto manejo de los recursos presupuestales, considerando oficinas centrales y oficinas en el extranjero;
 
-X.- Establecer los mecanismos institucionales necesarios para el traslado y acreditación del personal del Fideicomiso en las oficinas de representación de ProMéxico en el Exterior, así como su repatriación, a fin de garantizarle y facilitarle su ubicación;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
 
-XI.- Ejecutar los procesos para el registro y modificación de la estructura orgánica, alineando dicha estructura a las necesidades del Fideicomiso;
+X.- Autorizar las remociones, reubicaciones, reasignaciones y cambios de adscripción del personal del Fideicomiso;
 
-XII.- Supervisar la elaboración de los manuales administrativos de organización y de procedimientos del Fideicomiso, a fin de que reflejen y conduzcan las actividades cotidianas de las unidades administrativas y que sirvan como apoyo para el proceso de capacitación;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
 
-XIII.- Determinar y conducir las acciones y programas que permitan fortalecer las relaciones laborales entre el personal del Fideicomiso, a través de la organización de actividades culturales, cívicas, deportivas, sociales y recreativas, dentro del marco normativo aplicable;
+XI.- Expedir los nombramientos del personal de mandos superiores, medios, de enlace y operativos, así como las constancias, cuando por motivo de la relación laboral se requiera;
 
-XIV.- Coordinar y supervisar la constitución de las comisiones mixtas de seguridad e higiene;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
 
-XV.- Elaborar y mantener actualizado el catálogo de firmas de la Entidad; y
+XII.- Establecer los mecanismos institucionales necesarios para el traslado y acreditación del personal del Fideicomiso en las oficinas de representación de ProMéxico en el Exterior, así como su repatriación, a fin de garantizarle y facilitarle su ubicación;
 
-XVI.- Fungir como enlace y representación ante las distintas instancias fiscalizadoras en materia laboral, fiscal, y de seguridad social.
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+XIII.- Analizar, integrar y dictaminar las propuestas de modificación a las estructuras orgánicas de las unidades administrativas del Fideicomiso en sus ámbitos nacional y oficinas de representación en el extranjero, conforme a las disposiciones aplicables y gestionar su autorización ante las autoridades competentes;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+XIV.- Supervisar la elaboración de los manuales administrativos de organización y de procedimientos del Fideicomiso, a fin de que reflejen y conduzcan las actividades cotidianas de las unidades administrativas y que sirvan como apoyo para el proceso de capacitación;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+XV.- Elaborar, difundir y aplicar las disposiciones que rigen la relación laboral del Fideicomiso con sus empleados y vigilar su cumplimiento;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+XVI.- Establecer las normas y procedimientos para la aplicación de sanciones al personal en los términos previstos en (sic) Reglamento Interior de Trabajo y demás disposiciones aplicables, independientemente de las que deriven por otras causas y fundamentadas en otros ordenamientos legales;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+XVII.- Determinar y conducir las acciones y programas que permitan fortalecer las relaciones laborales entre el personal del Fideicomiso, a través de la organización de actividades culturales, cívicas, deportivas, sociales y recreativas, dentro del marco normativo aplicable;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+XVIII.- Normar, planear, elaborar, editar y difundir la comunicación interna a través de los medios idóneos que se determinen para el efecto;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+XIX.- Coordinar y supervisar la constitución de las comisiones mixtas de seguridad e higiene;
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+XX.- Elaborar y mantener actualizado el catálogo de firmas de la Entidad; y
+
+(ADICIONADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+XXI.- Fungir como enlace y representación ante las distintas instancias fiscalizadoras en materia laboral, fiscal, y de seguridad social.
 
 ###### ARTICULO 29.
 
@@ -619,23 +769,33 @@ I.- Proponer los lineamientos para atender las necesidades de las unidades admin
 
 II.- Proveer y administrar los bienes y servicios a las unidades administrativas de ProMéxico, observando la normatividad de la materia, a fin de garantizar el suministro de los mismos para el logro de los objetivos y programas del Fideicomiso;
 
-III.- Integrar de los Programas Anuales de Adquisiciones, Arrendamientos y Servicios; de Obra Pública y Servicios Relacionados con los mismos; de aseguramiento, de Conservación y Mantenimiento de Instalaciones, Bienes Muebles e Inmuebles de ProMéxico;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+III.- Integrar y formular los Programas Anuales de Adquisiciones, Arrendamientos y Servicios; de Obra Pública y Servicios Relacionados con los Mismos; de aseguramiento, de Conservación y Mantenimiento de Instalaciones, Bienes Muebles e Inmuebles de ProMéxico;
 
 IV.- Conducir los procesos de licitaciones públicas, de invitación a cuando menos tres personas y adjudicaciones directas, relativas a la adquisición, arrendamiento y servicios, así como de obra pública;
 
 V.- Proponer al Jefe de la Unidad de Administración y Finanzas las políticas, bases, lineamientos, sistemas y procedimientos, para la administración y control de las adquisiciones, arrendamientos y servicios, y de obra pública; de bienes muebles e inmuebles; así como de almacenamiento, control y actualización de los inventarios y almacenes de ProMéxico;
 
-VI.- Elaborar y registrar los contratos, pedidos y convenios que deriven de los procedimientos de adquisiciones, arrendamientos y servicios, así como de obra pública de conformidad con la normatividad de la materia;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
 
-VII.- Instrumentar las acciones relativas a las rescisiones administrativas por incumplimientos de pedidos y contratos de adquisiciones, arrendamientos y servicios, así como de obra pública;
+VI.- Supervisar y controlar el registro (sic) los contratos, pedidos y convenios que deriven de los procedimientos de adquisiciones, arrendamientos y servicios, así como de obra pública de conformidad con la normatividad de la materia;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+VII.- Coordinar las acciones relativas a las rescisiones administrativas por incumplimientos de pedidos y contratos de adquisiciones, arrendamientos y servicios, así como de obra pública;
 
 VIII.- Coordinar la prestación de los servicios de seguridad y vigilancia; y demás servicios generales de conformidad con la asignación presupuestal aprobada y la normatividad vigente aplicable;
 
 IX.- Coordinar que el Fideicomiso cuente con un programa interno de protección civil, observando las normas y disposiciones que emita la Secretaría de Gobernación;
 
-X.- Organizar el funcionamiento de los distintos comités administrativos y participar en aquellos comités con motivo de las responsabilidades conferidas en las materias de su competencia;
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
 
-XI.- Elaborar y actualizar el registro de bienes inmuebles; así como el inventario de los bienes muebles propiedad de ProMéxico;
+X.- Organizar el funcionamiento de los distintos comités administrativos materia de su competencia;
+
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
+
+XI.- Supervisar la elaboración y actualizar el registro de bienes inmuebles; así como el inventario de los bienes muebles propiedad de ProMéxico;
 
 XII.- Coordinar el aseguramiento de los bienes muebles e inmuebles propiedad de Fideicomiso;
 
@@ -645,9 +805,11 @@ XIV.- Promover el control, conservación y mantenimiento de los bienes muebles e
 
 XV.- Coordinar las acciones ante la Secretaría de Relaciones Exteriores en materia de Techo Unico;
 
-XVI.- Formular el Programa Anual de Enajenación de bienes muebles e inmuebles propiedad de ProMéxico; así como el de adquisiciones, arrendamientos y servicios del Fideicomiso; y
+> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2010)</small>
 
-XVII.- Dirigir la integración y ejecución del programa de inversión para que el Fideicomiso cumpla con los proyectos establecidos.
+XVI.- Dirigir la integración y ejecución del programa de inversión para que el Fideicomiso cumpla con los proyectos establecidos;
+
+XVII.- (DEROGADA, D.O.F. 23 DE MARZO DE 2010)
 
 ###### ARTICULO 30.
 
@@ -743,41 +905,49 @@ X.- Las demás que dentro de su ámbito de competencia le encomiende el Director
 
 DEL ORGANO INTERNO DE CONTROL
 
+(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
 ###### ARTICULO 33.
 
-El Fideicomiso contará con un Organo Interno de Control, al frente del cual su Titular designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal; en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de Control, Evaluación y Apoyo al Buen Gobierno; Auditoría Interna, y de Responsabilidades y Quejas; designados en los mismos términos.
+El Fideicomiso contará con un Organo Interno de Control, al frente del cual su Titular designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal; en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de Auditoría para Desarrollo y Mejora de la Gestión Pública, de Auditoría Interna, y de Responsabilidades y Quejas; designados en los mismos términos.
+
+> <small>(F. DE E., D.O.F. 14 DE ABRIL DE 2010)</small>
 
 Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
 
-Las ausencias del Titular del Organo Interno de Control, así como de los de las áreas de Control y Evaluación y Apoyo al Buen Gobierno; Auditoría Interna, Responsabilidades y Quejas, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+(REFORMADO, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
+
+Las ausencias del Titular del Organo Interno de Control, así como de los de las áreas de Auditoría para Desarrollo y Mejora de la Gestión Pública; de Auditoría Interna, y de Responsabilidades y Quejas, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+
+(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
 ###### ARTICULO 34.
 
-El Organo Interno de Control en ProMéxico desarrollará sus atribuciones de acuerdo con las bases referidas en la Ley Federal de las Entidades Paraestatales; así como en términos de lo dispuesto por el artículo 66 del Reglamento Interior de la Secretaría de la Función Pública, el cual establece como Atribuciones del Titular del Organo Interno de Control las siguientes:
+El Organo Interno de Control en ProMéxico desarrollará sus atribuciones de acuerdo con las bases referidas en la Ley Federal de las Entidades Paraestatales; así como en términos de lo dispuesto en el Reglamento Interior de la Secretaría de la Función Pública.
 
-I. Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos y darles seguimiento; investigar y fincar las responsabilidades a que haya lugar e imponer las sanciones respectivas, en los términos del ordenamiento legal en materia de responsabilidades, con excepción de las que conozca la Dirección General de Responsabilidades y Situación Patrimonial; determinar la suspensión temporal del presunto responsable de su empleo, cargo o comisión, si así conviene a la conducción o continuación de las investigaciones, de acuerdo a lo establecido en el ordenamiento aludido y, en su caso, llevar a cabo las acciones que procedan conforme a la ley de la materia, a fin de garantizar el cobro de las sanciones económicas que se llegue a imponer a los servidores públicos con motivo de la infracción cometida;
+I. (DEROGADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-II. Calificar los pliegos preventivos de responsabilidades que formulen las dependencias, las entidades y la Procuraduría, así como la Tesorería de la Federación, fincando, cuando proceda, los pliegos de responsabilidades a que haya lugar o, en su defecto, dispensar dichas responsabilidades, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, salvo los que sean competencia de la Dirección General mencionada en la fracción anterior;
+II. (DEROGADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-III. Dictar las resoluciones en los recursos de revocación que interpongan los servidores públicos y de revisión que se hagan valer en contra de las resoluciones de las inconformidades previstas en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como en contra de aquellas resoluciones de los titulares de las áreas de Responsabilidades que impongan sanciones a los licitantes, proveedores y contratistas;
+III. (DEROGADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-IV. Realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando al Secretario, así como expedir las copias certificadas de los documentos que obren en los archivos del Organo Interno de Control;
+IV. (DEROGADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-V. Implementar el sistema integral de control gubernamental y coadyuvar a su debido funcionamiento; proponer las normas y lineamientos con un enfoque preventivo y analizar y mejorar los controles que al efecto se requieran y vigilar el cumplimiento de las normas de control que expida la Secretaría de la Función Pública, así como aquellas que regulan el funcionamiento de la dependencia o entidad correspondiente o de la Procuraduría;
+V. (DEROGADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-VI. Programar, ordenar y realizar auditorías, investigaciones, inspecciones o visitas de cualquier tipo; informar periódicamente a la Secretaría de la Función Pública sobre el resultado de las acciones de control que hayan realizado y proporcionar a ésta la ayuda necesaria para el adecuado ejercicio de sus atribuciones, así como apoyar, verificar y evaluar las acciones que coadyuven a promover la mejora administrativa de las dependencias, las entidades y la Procuraduría y alcanzar los logros propios del buen gobierno;
+VI. (DEROGADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-VII. Recibir, tramitar y dictaminar las solicitudes de indemnización de los particulares relacionadas con servidores públicos de la dependencia o entidad de que se trate o de la Procuraduría General de la República;
+VII. (DEROGADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-VIII. Coordinar la formulación de los proyectos de programas y presupuesto del órgano interno de control correspondiente y proponer las adecuaciones que requiera el correcto ejercicio del presupuesto;
+VIII. (DEROGADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-IX. Denunciar ante las autoridades competentes, por sí o por conducto del servidor público del propio órgano interno de control que el titular de éste determine expresamente en cada caso, los hechos de que tengan conocimiento y que puedan ser constitutivos de delitos o, en su defecto, instar al área jurídica respectiva a formular las querellas a que haya lugar, cuando las conductas ilícitas requieran de este requisito de procedibilidad;
+IX. (DEROGADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-X. Requerir a las unidades administrativas de la dependencia o entidad que corresponda o la Procuraduría General de la República, la información necesaria para cumplir con sus atribuciones y brindar la asesoría que les requieran en el ámbito de sus competencias;
+X. (DEROGADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-XI. Llevar a cabo programas específicos tendientes a verificar el cumplimiento de las obligaciones a cargo de los servidores públicos de las dependencias, las entidades y la Procuraduría, conforme a los lineamientos emitidos por la Secretaría de la Función Pública; y
+XI. (DEROGADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
-XII. Las demás que las disposiciones legales y administrativas les confieran y las que les encomienden el Secretario de la Función Pública y el Coordinador General de Organos de Vigilancia y Control.
+XII. (DEROGADA, D.O.F. 23 DE MARZO DE 2010) (F. DE E., D.O.F. 14 DE ABRIL DE 2010)
 
 ### CAPITULO V. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -802,3 +972,9 @@ TERCERO.- Los asuntos en trámite a la entrada en vigor de este Estatuto serán 
 CUARTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Estatuto, sea asignado de una unidad administrativa a otra, se respetarán conforme a la ley. La Unidad de Administración y Finanzas deberá realizar las acciones necesarias para que se emitan los nombramientos acordes con las nuevas denominaciones de las unidades administrativas que corresponda.
 
 México, D.F., a 24 de febrero de 2009.- El Coordinador de Asuntos Jurídicos ProMéxico, Alfonso Cervantes Sánchez Navarro.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 23 DE MARZO DE 2010.
+
+UNICO.- La presente reforma al Estatuto Orgánico de ProMéxico entra en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
