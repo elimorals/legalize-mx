@@ -4,7 +4,7 @@ identifier: "VER-estatuto-de-los-alumnos-del-colegio-de-veracruz-55744"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-05-25"
-last_updated: "2007-05-25"
+last_updated: "2010-03-23"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 ESTATUTO DE LOS ALUMNOS DEL COLEGIO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2010.
 
 Estatuto publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 25 de mayo de 2007.
 
@@ -193,9 +193,21 @@ X. Si por causas de fuerza mayor debidamente justificadas el estudiante no cumpl
 
 Baja temporal de los alumnos es la que deja a salvo sus derechos para inscribirse posteriormente al período escolar que cursan.
 
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 2010)</small>
+
 ###### Artículo 27.
 
-Los alumnos de El Colegio de Veracruz podrán solicitar su baja temporal ante el Consejo Técnico quien será la instancia que resolverá sobre su procedencia.
+Baja temporal de los alumnos es la que deja a salvo sus derechos para inscribirse posteriormente al periodo escolar que cursan, misma que debe reunir los requisitos siguientes:
+
+I. Solicitarlo por escrito ante la Dirección General de El Colegio con copia a las Subdirecciones Académicas y de Investigación;
+
+II. Comprobar que se encuentran al corriente en el pago de los aranceles de El Colegio;
+
+III. Presentarlo con quince días naturales de anticipación al inicio del periodo de examen correspondiente, y
+
+IV. Expresar los motivos que la funden.
+
+La Dirección General convocara de inmediato al Consejo Técnico para que acuerde lo procedente.
 
 ###### Artículo 28.
 
@@ -652,3 +664,11 @@ Dado en la sesión de la Junta de Gobierno celebrada el día veintiocho de marzo
 Licenciado Héctor Carreón Rojano
 
 Secretario
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+G.O. 23 DE MARZO DE 2010.
+
+Primero. Publíquese en la Gaceta Oficial del estado.
+
+Segundo. La presente reforma entrará en vigor respecto de los alumnos actualmente inscritos en El Colegio a partir de la notificación personal que se haga a cada uno de ellos.
