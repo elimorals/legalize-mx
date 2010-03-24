@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2010-01-22"
+last_updated: "2010-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -1655,9 +1655,11 @@ II.- Todo individuo tiene derecho a desarrollarse y ser educado dentro de su pro
 
 III.- Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, de manera que no se afecten su sano desarrollo individual ni su plena incorporación al núcleo social;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2010)</small>
 
-IV.- Todas las personas están obligadas a evitar las conductas que generen violencia familiar, entendiéndose por ésta, la agresión física o moral, así como la omisión, que de manera intencional, individual, o reiterada, se ejercita en contra de un miembro de la familia por el cónyuge, la cónyuge, concubino, concubina, pariente consanguíneo en línea recta sin limitación de grado; pariente colateral consanguíneo o por afinidad, hasta el cuarto grado; adoptado, adoptante; madrastra, padrastro; hijastra, hijastro; pupilo, pupila; curador, curadora, tutor o tutora; o por persona que habite el mismo domicilio o con la cual haya tenido algún vínculo familiar o afectivo, con afectación a la integridad física, psicoemocional, sexual o cualquiera de éstas, independientemente de que pueda producir afectación orgánica; y
+IV.- Todas las personas están obligadas a evitar las conductas que generen violencia familiar, entendiéndose por ésta, la agresión física o moral, así como la omisión, que de manera intencional, individual, o reiterada, se ejercita en contra de un miembro de la familia por el cónyuge, la cónyuge, concubino, concubina, pariente consanguíneo en línea recta sin limitación de grado; pariente colateral consanguíneo o por afinidad, hasta el cuarto grado; adoptado, adoptante; madrastra, padrastro; hijastra, hijastro; pupilo, pupila; curador, curadora, tutor o tutora; o por persona que habite el mismo domicilio o con la cual haya tenido algún vínculo familiar o afectivo, con afectación a la integridad física, psicoemocional, sexual o cualquiera de éstas, independientemente de que pueda producir afectación orgánica.
+
+Por violencia contra las mujeres en el ámbito familiar se entiende el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, ejercida por cualquier persona que tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una situación de hecho; y
 
 V.- Todo menor, mujer, enfermo, incapaz, anciano o persona discapacitada, privado temporal o permanentemente de su medio familiar o cuyo interés haga necesario que no permanezca en él, podrá ser acogido por el Sistema Estatal para el Desarrollo Integral de la Familia o alguna otra institución con objeto similar, las que proveerán su protección y cuidado hasta en tanto se den las condiciones mínimas necesarias en su seno familiar para ser restituido o, en su caso, se le encuentre un hogar sustituto.
 
@@ -4275,7 +4277,7 @@ XI.- Los empleados del Fisco, que por razón de su destino tengan responsabilida
 
 XII.- Los que padezcan enfermedad crónica contagiosa;
 
-XIII.- Los demás a quienes lo prohiba la ley.
+XIII.- Los demás a quienes lo prohíba la ley.
 
 ###### Artículo 693.
 
@@ -19924,3 +19926,9 @@ P.O. 22 DE ENERO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que contravengan las contenidas en el presente Decreto.
+
+P.O. 24 DE MARZO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
