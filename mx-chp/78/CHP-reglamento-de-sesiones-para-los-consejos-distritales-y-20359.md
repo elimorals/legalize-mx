@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-sesiones-para-los-consejos-distritales-y-20359"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-07"
-last_updated: "2001-03-07"
+last_updated: "2010-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES DEL INSTITUTO ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES DEL INSTITUTO DE ELECCIONES Y PARTICIPACION CIUDADANA, PUBLICADO EN EL P.O. DE 24 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 7 de marzo de 2001.
 
@@ -550,3 +552,15 @@ TERCERO.- SE INSTRUYE AL SECRETARIO EJECUTIVO PROVEA LO NECESARIO PARA EDITAR A 
 ASI LO ACORDARON POR UNANIMIDAD DE VOTOS, LOS CC. CONSEJEROS ELECTORALES GILBERTO MONZON VELASCO, ALBERTO A. DE LA ROSA SALAZAR, GILDARDO ROJAS CABRERA, REYNA GUADALUPE SALAZAR NARVAEZ, JOSE ANTONIO CRUZ COUTIÑO, JUAN JOSE LARA JIMENEZ, ADELlN DIAZ GARCIA Y JULIO SERRANO CASTILLEJOS, POR ANTE EL C. ALEJANDRO DE JESUS CALDERON MAZA, SECRETARIO EJECUTIVO, QUIEN AUTORIZA Y DA FE, A LOS UN DlAS DEL MES DE MARZO DEL AÑO DOS MIL UNO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS.- RUBRICAS.
 
 CERTIFICACION: EL SUSCRITO, LICENCIADO ALEJANDRO DE JESUS CALDERON MAZA, SECRETARIO EJECUTIVO DEL INSTITUTO ESTATAL ELECTORAL, EN USO DE LAS ATRIBUCIONES QUE ME CONFIERE EL ARTICULO 120 FRACCION XXVI, DEL CODIGO ELECTORAL DEL ESTADO, CERTIFICO Y HAGO CONSTAR: QUE LA (S) PRESENTE (S) COPIA (S) FOTOSTATICA (S), CONSTANTE (S) DE SIETE (7) FOJA (S) UTIL (ES) RELATIVA (S) AL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL, DE FECHA UNO DE MARZO DEL 2001, POR EL QUE SE EMITE EL REGLAMENTO DE SESIONES PARA LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES: ES (SON) FIEL REPRODUCCION DE SU ORIGINAL QUE TU VE A LA VISTA Y QUE OBRA (N) EN LOS ARCHIVOS DE ESTA SECRETARIA EJECUTIVA; LO QUE HAGO CONSTAR PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS A LOS UN (1) DlAS DEL MES DE MARZO DEL AÑO 2001 DOS MIL UNO DOY FE.- RUBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE MARZO DE 2010.
+
+Artículo Primero.- El presente Reglamento entrará en vigor a partir de su aprobación por el Consejo General del Instituto de Elecciones y Participación Ciudadana, abrogándose el Reglamento de los Consejos Distritales y Municipales Electorales del Instituto Estatal Electoral aprobado en sesión de fecha 1° de marzo de 2001, así como las reformas de fecha 13 de marzo de 2004.
+
+Artículo Segundo.- Los casos no previstos en el presente Reglamento, deberán ser consultados al Consejo General del Instituto de Elecciones y Participación Ciudadana, en cumplimiento a lo dispuesto por el artículo 147, fracción II, del Código de Elecciones y Participación Ciudadana del Estado de Chiapas.
+
+Artículo Tercero.- El Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, proveerá lo necesario para que el presente Reglamento de sesiones, se circule y se le dé amplia difusión para los efectos correspondientes.
+
+Artículo Cuarto.- El Consejo General será el órgano facultado para realizar las reformas, adiciones y derogaciones al presente Reglamento, cuando así lo considere pertinente.
