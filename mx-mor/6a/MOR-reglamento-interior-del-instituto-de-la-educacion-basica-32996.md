@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-instituto-de-la-educacion-basica-32996"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-23"
-last_updated: "2009-11-04"
+last_updated: "2010-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA EDUCACION BASICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 23 de julio de 2003.
 
@@ -311,15 +311,17 @@ g) Departamento de Tecnologías de la Información Educativa;
 
 VII. DIRECCIÓN DE PERSONAL Y RELACIONES LABORALES
 
-a) Departamento de Selección y Trámites de Personal;
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2010)</small>
+
+a) Departamento de Trámites de Personal;
 
 b) Departamento de Pagos;
 
 c) Departamento de Control de Personal;
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2010)</small>
 
-d) Departamento de Capacitación y Desarrollo;
+d) Departamento de Selección, Capacitación y Desarrollo;
 
 > <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
@@ -331,35 +333,41 @@ f) Departamento de Base de Datos;
 
 VIII. DIRECCIÓN DE ADMINISTRACIÓN
 
-a) Departamento de Suministros y Servicios;
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2010)</small>
 
-b) Subdirección de Informática;
+a) Departamento de Adquisiciones;
 
-c) Departamento de Servicios de Cómputo;
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2010)</small>
 
-d) Departamento de Ingeniería de Sistemas;
+b) Departamento de Servicios;
 
-e) Subdirección de Finanzas;
+c) Subdirección de Informática;
 
-f) Departamento de Tesorería;
+d) Departamento de Servicios de Cómputo;
 
-g) Departamento de Contabilidad;
+e) Departamento de Ingeniería de Sistemas;
 
-h) Departamento de Afectación Presupuestal;
+f) Subdirección de Finanzas;
 
-i) Subdirección de Servicios Regionales;
+g) Departamento de Tesorería;
 
-j) Departamento de Servicios Regionales Alpuyeca;
+h) Departamento de Contabilidad;
 
-k) Departamento de Servicios Regionales Cuautla;
+i) Departamento de Afectación Presupuestal;
 
-l) Departamento de Servicios Regionales Jojutla;
+j) Subdirección de Servicios Regionales;
 
-m) Departamento de Servicios Regionales Jonacatepec;
+k) Departamento de Servicios Regionales Alpuyeca;
+
+l) Departamento de Servicios Regionales Cuautla;
+
+m) Departamento de Servicios Regionales Jojutla;
+
+n) Departamento de Servicios Regionales Jonacatepec;
 
 > <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
-n) Departamento de Servicios Regionales Yautepec;
+o) Departamento de Servicios Regionales Yautepec;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
@@ -835,11 +843,11 @@ XXII. Desempeñar las representaciones que por acuerdo expreso le delegue o enco
 
 XXIII. Las demás que le confieran las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2010)</small>
 
 ###### Artículo 37.
 
-Estarán adscritas a la Dirección de Personal y Relaciones Laborales: el Departamento de Selección y Trámites de Personal, el Departamento de Pagos, el Departamento de Control de Personal, el Departamento de Capacitación y Desarrollo, la Subdirección de Carrera Magisterial, y el Departamento de Base de Datos.
+Estarán adscritas a la Dirección de Personal y Relaciones Laborales las siguientes unidades administrativas: el Departamento de Trámites de Personal, el Departamento de Pagos, el Departamento de Control de Personal, el Departamento de Selección, Capacitación y Desarrollo, la Subdirección de Carrera Magisterial, y el Departamento de Base de Datos.
 
 ### CAPÍTULO XVI. DE LA DIRECCIÓN DE ADMINISTRACIÓN
 
@@ -913,11 +921,11 @@ XXXI. Desempeñar las representaciones que por acuerdo expreso le delegue o enco
 
 XXXII. Las demás que le confieran las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2010)</small>
 
 ###### Artículo 39.
 
-Estarán adscritas a la Dirección de Administración las siguientes áreas administrativas: el Departamento de Suministros y Servicios, la Subdirección de Informática, el Departamento de Servicios de Cómputo, el Departamento de Ingeniería de Sistemas, la Subdirección de Finanzas, el Departamento de Tesorería, el Departamento de Contabilidad, el Departamento de Afectación Presupuestal; la Subdirección de Servicios Regionales, el Departamento de Servicios Regionales Alpuyeca, el Departamento de Servicios Regionales Cuautla, el Departamento de Servicios Regionales Jojutla, el Departamento de Servicios Regionales Jonacatepec, y el Departamento de Servicios Regionales Yautepec.
+Estarán adscritas a la Dirección de Administración las siguientes áreas administrativas: el Departamento de Adquisiciones; el Departamento de Servicios; la Subdirección de Informática, el Departamento de Servicios de Cómputo, el Departamento de Ingeniería de Sistemas; la Subdirección de Finanzas el Departamento de Tesorería, el Departamento de Contabilidad, el Departamento de Afectación Presupuestal; la Subdirección de Servicios Regionales, el Departamento de Servicios Regionales Alpuyeca, el Departamento de Servicios Regionales Cuautla, el Departamento de Servicios Regionales Jojutla, el Departamento de Servicios Regionales Jonacatepec, y el Departamento de Servicios Regionales Yautepec.
 
 ### CAPÍTULO XVII. DE LA DIRECCIÓN JURÍDICA
 
@@ -1009,11 +1017,15 @@ XI. Proponer al Director General del IEBEM quien a su vez, previa aprobación de
 
 XII. Realizar las demás actividades que le señale este Reglamento, el Reglamento que lo rige, así como las que le encomiende el Director General del IEBEM, en relación con su objeto.
 
-### CAPÍTULO XIX. DE LA UNIDAD DE DESARROLLO ORGANIZACIONAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE MARZO DE 2010)</small>
+
+### CAPÍTULO XIX. DE LA SUBDIRECCIÓN DE DESARROLLO ORGANIZACIONAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 2010)</small>
 
 ###### Artículo 43.
 
-Corresponden a la Unidad de Desarrollo Organizacional, las siguientes atribuciones:
+Corresponde a la Subdirección de Desarrollo Organizacional, las siguientes atribuciones:
 
 I. Proponer un cambio planeado en el IEBEM, administrado desde la Dirección General, para incrementar la efectividad y la salud del Instituto, mediante una administración constante y de colaboración en la cultura de la organización, utilizando el conocimiento de las ciencias de la conducta;
 
@@ -1128,3 +1140,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones de igual o inferior rango que se opongan al presente Decreto.
 
 TERCERO.- Inscríbase el presente Decreto en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por el artículo 35 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+
+P.O. 24 DE MARZO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o inferior rango que se opongan al presente Decreto.
+
+TERCERO.- Los Manuales de Organización y de Políticas y Procedimientos, y demás instrumentos administrativos de identificación, deberán adecuarse al presente Reglamento en un plazo no mayor de 6 meses a partir de la entrada en vigor del presente Decreto a efecto de armonizarlos con el contenido del presente instrumento.
+
+CUARTO.- Inscríbase el presente Decreto en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por la fracción II del artículo 35 de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
