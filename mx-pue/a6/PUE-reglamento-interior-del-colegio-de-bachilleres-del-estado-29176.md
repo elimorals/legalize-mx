@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-colegio-de-bachilleres-del-estado-29176
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-24"
-last_updated: "2003-02-24"
+last_updated: "2010-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL COLEGIO DE BACHILLERES DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2010.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 24 de febrero de 2003.
 
@@ -107,9 +107,11 @@ V.- Los Directores de cada uno de los Planteles, que establezca el Colegio; y
 
 VI.- El Comisario Público.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2010)</small>
+
 ###### Artículo 6.
 
-Para el estudio, planeación, ejercicio de las funciones y despacho de los asuntos de su competencia, el Colegio contará con las siguientes Unidades Administrativas autorizadas:
+Para el despacho de los asuntos de su competencia, el Colegio contará con las siguientes Unidades Administrativas autorizadas:
 
 DIRECCIÓN GENERAL.
 
@@ -131,17 +133,23 @@ SUBDIRECCIÓN DE PLANEACIÓN.
 
 SUBDIRECCIÓN DE PROGRAMACIÓN Y EVALUACIÓN.
 
-DEPARTAMENTO DE PLANEACIÓN Y EVALUACIÓN ACADÉMICA.
+DEPARTAMENTO DE PLANEACIÓN ACADÉMICA.
 
-DEPARTAMENTO DE SELECCIÓN, FORMACIÓN Y ACTUALIZACIÓN.
+DEPARTAMENTO DE SELECCIÓN Y FORMACIÓN.
 
-DEPARTAMENTO DE CONTROL ESCOLAR.
+DEPARTAMENTO DE REGISTRO Y CONTROL ESCOLAR.
+
+DEPARTAMENTO DE EDUCACIÓN ABIERTA Y A DISTANCIA.
+
+DEPARTAMENTO DE INVESTIGACIÓN DOCENTE.
+
+DEPARTAMENTO DE ACCIÓN TUTORIAL.
 
 DEPARTAMENTO DE SERVICIOS ACADÉMICOS.
 
 DEPARTAMENTO DE LABORATORIOS Y BIBLIOTECAS.
 
-DEPARTAMENTO DE ORIENTACIÓN ESCOLAR.
+DEPARTAMENTO DE ORIENTACIÓN ESCOLAR Y VOCACIONAL.
 
 DEPARTAMENTO DE ACTIVIDADES PARAESCOLARES.
 
@@ -785,7 +793,11 @@ XI.- Elaborar el proyecto del programa anual de trabajo de la subdirección a su
 
 XII.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XVI. DEL DEPARTAMENTO DE PLANEACIÓN Y EVALUACIÓN ACADÉMICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE MARZO DE 2010)</small>
+
+### CAPÍTULO XVI. DEL DEPARTAMENTO DE PLANEACIÓN ACADÉMICA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 2010)</small>
 
 ###### Artículo 36.
 
@@ -815,11 +827,15 @@ XI.- Elaborar el proyecto del programa anual de trabajo del departamento a su ca
 
 XII.- Las demás que le confieren las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XVII. DEL DEPARTAMENTO DE SELECCIÓN, FORMACIÓN Y ACTUALIZACIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE MARZO DE 2010)</small>
+
+### CAPÍTULO XVII. DEL DEPARTAMENTO DE SELECCIÓN Y FORMACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 2010)</small>
 
 ###### Artículo 37.
 
-Es competencia del Departamento de Selección, Formación y Actualización, dependiente de la Subdirección de Planeación Académica:
+Es competencia del Departamento de Selección y Formación, dependiente de la Subdirección de Planeación Académica:
 
 I.- Dirigir los procesos de selección, actualización y formación docente que permitan la superación profesional y el cumplimiento de los objetivos académicos del Colegio;
 
@@ -847,11 +863,15 @@ XII.- Elaborar el proyecto del programa anual de trabajo del departamento a su c
 
 XIII.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XVIII. DEL DEPARTAMENTO DE CONTROL ESCOLAR
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE MARZO DE 2010)</small>
+
+### CAPÍTULO XVIII. DEL DEPARTAMENTO DE REGISTRO Y CONTROL ESCOLAR
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 2010)</small>
 
 ###### Artículo 38.
 
-Es competencia del Departamento de Control Escolar, dependiente de la Subdirección de Planeación Académica:
+Es competencia del Departamento de Registro y Control Escolar, dependiente de la Subdirección de Planeación Académica:
 
 I.- Establecer, coordinar y controlar los mecanismos administrativos que permitan las operaciones de información, registro y expedición de documentos oficiales a los alumnos;
 
@@ -891,13 +911,89 @@ XVIII.- Proponer de conformidad con los lineamientos que fije el Colegio, los pr
 
 XIX.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE MARZO DE 2010)</small>
+
+### CAPÍTULO XVIII BIS. DEL DEPARTAMENTO DE EDUCACIÓN ABIERTA Y A DISTANCIA
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2010)</small>
+
+###### Artículo 38 Bis.
+
+Es competencia del Departamento de Educación Abierta y a Distancia, dependiente de la Subdirección de Planeación Académica:
+
+I.- Elaborar estudios sobre modelos educativos innovadores, para adecuarlos y desarrollarlos en el Colegio;
+
+II.- Operar el sistema de Educación Media Superior Abierta y a Distancia, en apoyo a cualquier persona que desee iniciar y concluir o concluir sus estudios de bachillerato que viva en el territorio nacional o migrante poblano;
+
+III.- Promover y desarrollar programas de intercambio con instituciones y organismos, en materia de educación abierta y a distancia;
+
+IV.- Revisar el desarrollo de los estudiantes inscritos en el sistema de educación abierta y a distancia, en apoyo al migrante poblano;
+
+V.- Evaluar el sistema de educación abierta y a distancia;
+
+VI.- Vigilar el cumplimiento de los planes y programas de estudio que se apliquen en el sistema;
+
+VII.- Señalar y desarrollar proyectos estratégicos para el cumplimiento de sus fines;
+
+VIII.- Establecer vínculos con todas las instituciones involucradas en el sistema; y
+
+IX.- Las demás que le confieran las disposiciones legales o que le encomienden sus superiores.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE MARZO DE 2010)</small>
+
+### CAPÍTULO XVIII TER. DEL DEPARTAMENTO DE INVESTIGACIÓN DOCENTE
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2010)</small>
+
+###### Artículo 38 Ter.
+
+Es competencia del Departamento de Investigación Docente, dependiente de la Subdirección de Planeación Académica:
+
+I.- Recabar la información concerniente al nivel y modelo educativo del Colegio;
+
+II.- Integrar una base de datos con la finalidad de difundirlos y aplicarlos en el Colegio;
+
+III.- Promover e incentivar entre la planta docente, la producción de artículos en la materia;
+
+IV.- Organizar cursos y diplomados, que se requieran para impulsar la investigación en el Colegio;
+
+V.- Elaborar herramientas que ayuden a los docentes para fomentar la investigación en el aula;
+
+VI.- Asesorar a los docentes en sus trabajos de investigación que se utilizan en el aula; y
+
+VII.- Las demás que le confieran las disposiciones legales o que le encomienden sus superiores.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE MARZO DE 2010)</small>
+
+### CAPÍTULO XVIII QUATER. DEL DEPARTAMENTO DE ACCIÓN TUTORIAL
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2010)</small>
+
+###### Artículo 38 Quater.
+
+Es competencia del Departamento de Acción Tutorial, dependiente de la Subdirección de Planeación Académica:
+
+I.- Planear y programar la acción tutorial para todos y cada uno de los planteles, en coordinación con los directores, tomando en consideración, que se ocupa de la integración, la retroalimentación del proceso educativo, la motivación del estudiante y el apoyo académico;
+
+II.- Diseñar y sistematizar los instrumentos de la acción tutorial por etapas, procurando el desarrollo personal y académico de los estudiantes, dentro del marco de sus necesidades y posibilidades como individuos, tomando en consideración las circunstancias que lo rodean;
+
+III.- Dar seguimiento parcial y total de la acción tutorial, elaborando los informes correspondientes;
+
+IV.- Llevar a cabo una evaluación para la acción tutorial que se implemente, y someter los resultados a consideración del superior jerárquico;
+
+V.- Coordinar a los tutores de los planteles, respecto de todas las actividades diseñadas y programadas;
+
+VI.- Supervisar con la colaboración de los directores de los planteles, que la acción tutorial se aplique conforme al plan y programas diseñados para cada uno de los planteles;
+
+VII.- Supervisar que la atención que se dé al estudiante o grupo, sea personalizada e individualizada, así como a los padres de familia, directivos de planteles y tutores;
+
+VIII.- Recabar de los tutores y directores de los planteles los informes parciales y totales, y una vez analizados y procesados, remitir estos últimos al Titular de la Dirección Académica, para asentar datos estadísticos y reprogramar acciones del semestre en curso o planear acciones para el siguiente;
+
+IX.- Acordar con el Titular del Área Académica todo lo relacionado con las funciones del departamento a su cargo; y
+
+X.- Las demás que le confieran las disposiciones legales o que le encomienden sus superiores.
+
 ### CAPÍTULO XIX. DEL DEPARTAMENTO DE SERVICIOS ACADÉMICOS
-
-### CAPÍTULO XX. DEL DEPARTAMENTO DE LABORATORIOS Y BIBLIOTECAS
-
-### CAPÍTULO XXI. DEL DEPARTAMENTO DE ORIENTACIÓN ESCOLAR
-
-### CAPÍTULO XXII. DEL DEPARTAMENTO DE ACTIVIDADES PARAESCOLARES
 
 ###### Artículo 39.
 
@@ -923,7 +1019,7 @@ IX.- Proponer de conformidad con los lineamientos que fije el Colegio, los proce
 
 X.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XXIII. DEL DEPARTAMENTO DE RECURSOS HUMANOS
+### CAPÍTULO XX. DEL DEPARTAMENTO DE LABORATORIOS Y BIBLIOTECAS
 
 ###### Artículo 40.
 
@@ -951,11 +1047,15 @@ X.- Proponer de conformidad con los lineamientos que fije el Colegio, los proced
 
 XI.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XXIV. DEL DEPARTAMENTO DE RECURSOS MATERIALES Y SERVICIOS GENERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE MARZO DE 2010)</small>
+
+### CAPÍTULO XXI. DEL DEPARTAMENTO DE ORIENTACIÓN ESCOLAR Y VOCACIONAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 2010)</small>
 
 ###### Artículo 41.
 
-Es competencia del Departamento de Orientación Escolar, dependiente de la Subdirección de Servicios Académicos:
+Es competencia del Departamento de Orientación Escolar y Vocacional, dependiente de la Subdirección de Servicios Académicos:
 
 I.- Planear, dirigir y participar en la elaboración y aplicación de los programas de orientación escolar y vocacional, de acuerdo con las necesidades escolares, así como con la política educativa del Colegio;
 
@@ -973,7 +1073,7 @@ VII.- Proponer de conformidad con los lineamientos que fije el Colegio, los proc
 
 VIII.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XXV. DEL DEPARTAMENTO DE CONTABILIDAD
+### CAPÍTULO XXII. DEL DEPARTAMENTO DE ACTIVIDADES PARAESCOLARES
 
 ###### Artículo 42.
 
@@ -997,7 +1097,7 @@ VIII.- Elaborar el proyecto del programa anual de trabajo del departamento a su 
 
 IX.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XXVI. DEL DEPARTAMENTO DE CONTROL PRESUPUESTAL
+### CAPÍTULO XXIII. DEL DEPARTAMENTO DE RECURSOS HUMANOS
 
 ###### Artículo 43.
 
@@ -1037,7 +1137,7 @@ XVI.- Tramitar las altas al Registro Federal de Contribuyentes y/o la Clave Úni
 
 XVII.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XXVII. DEL DEPARTAMENTO DE ORGANIZACIÓN Y SISTEMAS
+### CAPÍTULO XXIV. DEL DEPARTAMENTO DE RECURSOS MATERIALES Y SERVICIOS GENERALES
 
 ###### Artículo 44.
 
@@ -1065,7 +1165,7 @@ X.- Proponer de conformidad con los lineamientos que fije el Colegio, los proced
 
 XI.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XXVIII. DEL DEPARTAMENTO DE ESTUDIOS Y PROYECTOS
+### CAPÍTULO XXV. DEL DEPARTAMENTO DE CONTABILIDAD
 
 ###### Artículo 45.
 
@@ -1089,7 +1189,7 @@ VIII.- Elaborar el proyecto del programa anual de trabajo del departamento a su 
 
 IX.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XXIX. DEL DEPARTAMENTO DE ESTADÍSTICA E INFORMÁTICA
+### CAPÍTULO XXVI. DEL DEPARTAMENTO DE CONTROL PRESUPUESTAL
 
 ###### Artículo 46.
 
@@ -1129,7 +1229,7 @@ XVI.- Proponer de conformidad con los lineamientos que fije el Colegio, los proc
 
 XVII.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XXX. DEL DEPARTAMENTO DE PROGRAMACIÓN
+### CAPÍTULO XXVII. DEL DEPARTAMENTO DE ORGANIZACIÓN Y SISTEMAS
 
 ###### Artículo 47.
 
@@ -1155,7 +1255,7 @@ IX.- Observar los programas y proyectos de desarrollo informático que promueva 
 
 X.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XXXI. DEL DEPARTAMENTO DE EVALUACIÓN
+### CAPÍTULO XXVIII. DEL DEPARTAMENTO DE ESTUDIOS Y PROYECTOS
 
 ###### Artículo 48.
 
@@ -1179,7 +1279,7 @@ VIII.- Proponer de conformidad con los lineamientos que fije el Colegio, los pro
 
 IX.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XXXII. DEL DEPARTAMENTO JURÍDICO
+### CAPÍTULO XXIX. DEL DEPARTAMENTO DE ESTADÍSTICA E INFORMÁTICA
 
 ###### Artículo 49.
 
@@ -1209,7 +1309,7 @@ XI.- Proporcionar mantenimiento preventivo a los equipos de cómputo de las unid
 
 XII.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XXXIII. DE LA COORDINACIÓN DE PLANTELES
+### CAPÍTULO XXX. DEL DEPARTAMENTO DE PROGRAMACIÓN
 
 ###### Artículo 50.
 
@@ -1233,7 +1333,7 @@ VIII.- Elaborar el proyecto del programa anual de trabajo del departamento a su 
 
 IX.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO XXXIV. DE LAS DIRECCIONES DE PLANTEL
+### CAPÍTULO XXXI. DEL DEPARTAMENTO DE EVALUACIÓN
 
 ###### Artículo 51.
 
@@ -1263,7 +1363,7 @@ XI.- Elaborar el proyecto del programa anual de trabajo del departamento a su ca
 
 XII.- Las demás que le confieran las disposiciones legales o que le encomiende su jefe inmediato.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XXXII. DEL DEPARTAMENTO JURÍDICO
 
 ###### Artículo 52.
 
@@ -1301,6 +1401,8 @@ XIII.- Dictaminar en definitiva las actas administrativas que se levanten a los 
 
 XIV.- Las demás que le confiera el Director General.
 
+### CAPÍTULO XXXIII. DE LA COORDINACIÓN DE PLANTELES
+
 ###### Artículo 54.
 
 Es competencia de la Coordinación de Planteles, dependiente de la Dirección General:
@@ -1324,6 +1426,8 @@ VIII.- Establecer de conformidad con los lineamientos que fije el Colegio, los p
 IX.- Elaborar el proyecto del programa anual de trabajo de la coordinación a su cargo; y
 
 X.- Las demás que le confieran las disposiciones legales o que le encomiende el Director General.
+
+### CAPÍTULO XXXIV. DE LAS DIRECCIONES DE PLANTEL
 
 ###### Artículo 55.
 
@@ -1360,6 +1464,8 @@ XIV.- Proponer los procedimientos y normas para la realización de las funciones
 XV.- Las demás que le confieran las disposiciones legales o que le encomiende el Director General.
 
 ## TÍTULO TERCERO. DE LAS SUPLENCIAS
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 56.
 
@@ -1398,3 +1504,11 @@ En concordancia con la política modernizadora de la Administración Pública pr
 La Junta Directiva, como órgano supremo de la Institución y en ejercicio de la facultad que le confiere el artículo 45 de la Ley Orgánica de la Administración Pública del Estado de Puebla y el artículo 8 fracción XVI del Decreto que reforma, deroga y adiciona diversas disposiciones del Decreto que crea el Colegio de Bachilleres del Estado de Puebla, publicado en el Periódico Oficial del Estado, con fecha dos de septiembre de mil novecientos noventa y ocho, expide y ordena que se publique el presente Reglamento Interior del Colegio.
 
 El Director General hará publicar y cumplir la presente disposición, dada en Sesión Extraordinaria de la Junta Directiva, en la Heroica Ciudad de Puebla de Zaragoza, a los veintiún días del mes de mayo del año dos mil dos.- Presidente.- LICENCIADO CARLOS ALBERTO JULIAN Y NACER.- Rúbrica.- Vicepresidente.- RAFAEL MORENO VALLE ROSAS.- Rúbrica.- Secretario.- LICENCIADO OTHÓN RÍOS VÁZQUEZ.- Rúbrica.- Vocal.- LICENCIADO HÉCTOR ROMERO Y VARGAS.- Rúbrica.- Vocal.- LICENCIADO ENOC TAMARÍZ MONTIEL.- Rúbrica.- Vocal.- LICENCIADO CESAR LUNA Y SOLANO.- Rúbrica.- Vocal.- LICENCIADO JORGE RENÉ SÁNCHEZ JUÁREZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE MARZO DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los acuerdos, circulares y demás disposiciones pronunciados antes y durante la autorización de este instrumento, tendrán plena validez siempre y cuando no contravengan al mismo.
