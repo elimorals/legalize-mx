@@ -1,0 +1,558 @@
+---
+title: "REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES DEL INSTITUTO DE ELECCIONES Y PARTICIPACION CIUDADANA"
+identifier: "CHP-reglamento-de-sesiones-de-los-consejos-distritales-y-74780"
+country: "mx"
+rank: "reglamento"
+publication_date: "2010-03-24"
+last_updated: "2010-03-24"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74780&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-chp"
+scjn_id: "74780"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "REGLAMENTO"
+original_gazette_section: "223"
+reform_count: "4"
+scjn_last_update: "2024-03-20"
+issue_date: "2010-03-11"
+state: "CHP"
+---
+# REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES DEL INSTITUTO DE ELECCIONES Y PARTICIPACION CIUDADANA
+
+REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES DEL INSTITUTO DE ELECCIONES Y PARTICIPACION CIUDADANA
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 24 de marzo de 2010.
+
+R e s u l t a n d o.
+
+Por lo anteriormente expuesto y con fundamento en lo previsto por los artículos 14 Bis, apartado C, fracción I, de la Constitución Política del Estado de Chiapas, 135, 136, 137, 138, 139, 163 y 165 del Código de Elecciones y Participación Ciudadana; y a los decretos números 012 en relación con el 181, publicados en el Periódico Oficial del Estado números 201 y 217, de fechas 27 de noviembre de 2009 y 23 de febrero del presente año, respectivamente, este Consejo General, en uso de las atribuciones prescritas en las fracciones I, II, III, VIII y XXXI del Código de la materia, emite el siguiente:
+
+A c u e r d o
+
+PRIMERO.- Se aprueba el Reglamento de Sesiones del los Consejos Distritales y Municipales Electorales en los términos siguientes:
+
+Reglamento de Sesiones de los Consejos Distritales y Municipales Electorales del Instituto de Elecciones y Participación Ciudadana
+
+### Capítulo I. Disposiciones Generales
+
+###### Artículo 1°.
+
+Ámbito de Aplicación.
+
+El presente reglamento tiene por objeto establecer las bases normativas que rigen la preparación, celebración, conducción y desarrollo de las sesiones de los Consejos Distritales y Municipales Electorales; así como la actuación de sus integrantes durante las mismas y las comisiones formadas en su seno. Las disposiciones del presente reglamento, son de carácter general y observancia obligatoria.
+
+Corresponde al Consejo General, a la Junta General Ejecutiva, al Consejero Presidente y al Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, vigilar la exacta aplicación y debido cumplimiento de las disposiciones del presente reglamento, de conformidad con lo dispuesto por los artículos 1º, 135, 147, fracciones I, II y III; 148 fracciones III, V y XXI; 153 fracciones IV, IX y XXXI; 164 fracción V y demás aplicables del Código de Elecciones y Participación Ciudadana del Estado de Chiapas. Así como a los Presidentes de los Consejos Distritales y Municipales Electorales, en términos de lo dispuesto en la fracción X, del artículo 6 de este reglamento.
+
+###### Artículo 2°.
+
+Criterios para su Interpretación.
+
+La interpretación de las disposiciones de este reglamento se hará conforme a los criterios establecidos en el artículo 2°, del Código de Elecciones y Participación Ciudadana del Estado de Chiapas.
+
+###### Artículo 3°.
+
+De la Residencia y Recinto de Sesiones.
+
+Los Consejos Distritales y Municipales Electorales, residirán en cada una de las cabeceras de distrito y municipios del Estado.
+
+Los domicilios oficiales de dichos órganos desconcentrados serán los que notifique en los Estrados de Oficinas Centrales el Secretario Ejecutivo del Instituto.
+
+Las sesiones de los Consejos Distritales y Municipales Electorales, se llevarán a cabo en el domicilio oficial de cada órgano electoral, que previamente notifique el Secretario Ejecutivo del Instituto; y sólo por causas de fuerza mayor, que a juicio de su Presidente y de los Consejeros Electorales, no garantice el buen desarrollo, la libre expresión y la seguridad de sus integrantes, podrán sesionar en cualquier otro domicilio dentro de la cabecera Distrital o Municipal, según sea el caso.
+
+Los integrantes de los Consejos deberán conducirse en todo momento con respeto durante el desarrollo de las sesiones y propiciar su correcta celebración.
+
+###### Artículo 4°.
+
+De la Instalación.
+
+Los Consejos Distritales y Municipales Electorales deberán instalarse dentro de los quince días siguientes a su integración. A partir de esa fecha y hasta la culminación de los comicios o del procedimiento de participación ciudadana, sesionarán por lo menos una vez al mes.
+
+###### Artículo 5°.
+
+Glosario.
+
+Para los efectos del presente reglamento se entiende por:
+
+Código: El Código de Elecciones y Participación Ciudadana de Chiapas.
+
+Instituto: El Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas.
+
+Consejo General: El Consejo General del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas.
+
+Consejo Electoral: Los Consejos Distritales y Municipales Electorales, en su respectiva jurisdicción.
+
+Presidente: Presidente del respectivo Consejo.
+
+Secretario: Secretario Técnico del respectivo Consejo.
+
+Consejeros Electorales: Los Consejeros Electorales de los Consejos Distritales y Municipales Electorales.
+
+Representantes: Los representantes de los partidos políticos o coalición legalmente acreditados ante los Consejos Distritales y Municipales Electorales.
+
+Pleno: Se constituye con la asistencia de los integrantes del Consejo Electoral una vez instalada la sesión.
+
+Reglamento: Reglamento de Sesiones de los Consejos Distritales y Municipales Electorales.
+
+### Capítulo II
+
+Obligaciones y Atribuciones del Presidente, el Secretario, los Consejeros Electorales y los Representantes de Partidos Políticos.
+
+###### Artículo 6°.
+
+Del Presidente.
+
+Con motivo de la preparación, celebración, conducción y desarrollo de las sesiones del Consejo Electoral, el Presidente, además de presidirlas y participar en sus debates, tendrá las siguientes atribuciones:
+
+I. Convocar a sesiones ordinarias y extraordinarias a los integrantes del Consejo Electoral;
+
+II. Declarar la instalación de la asamblea y clausurar la sesión;
+
+III. Conducir los trabajos y tomar las medidas necesarias para el adecuado desarrollo de la sesión;
+
+IV. Conceder el uso de la palabra, en el orden que le sea solicitada;
+
+V. Consultar a los integrantes del Consejo Electoral si los temas del orden del día han sido suficientemente discutidos;
+
+VI. Someter a votación los proyectos de acuerdo y resoluciones;
+
+VII. Informar a los integrantes del Consejo Electoral de los acuerdos de carácter general y cumplimiento obligatorio dictados por el Consejo General;
+
+VIII. Mantener y llamar al orden;
+
+IX. Decretar por causa justificada o por acuerdo del pleno, la suspensión o receso de la sesión;
+
+X. Vigilar la exacta aplicación del presente Reglamento;
+
+XI. Vigilar el adecuado cumplimiento de los acuerdos emitidos por el Consejo Electoral; y,
+
+XII. Las demás que le confiera el Consejo General, el Consejero Presidente del Consejo General y el presente Reglamento.
+
+###### Artículo 7°.
+
+Del Secretario.
+
+Durante la preparación, desarrollo y conclusión de las sesiones, corresponden al Secretario las siguientes atribuciones:
+
+I. Cuidar que se impriman y circulen en tiempo las convocatorias respectivas y sus anexos, entre los integrantes del Consejo Electoral;
+
+II. Pasar lista de asistencia y llevar el registro de ella;
+
+III. Certificar la existencia del quórum legal para sesionar;
+
+IV. Dar lectura al acta de la sesión anterior, salvo que el Pleno otorgue la dispensa de la lectura;
+
+V. Dar cuenta de los escritos presentados al Consejo Electoral, así como de los proyectos de acuerdo y resoluciones para su votación;
+
+VI. Solicitar la dispensa de la lectura de los documentos a tratar en la sesión, que ya sean del conocimiento del Pleno;
+
+VII. Computar y registrar los votos de los integrantes del Consejo Electoral con derecho a ello, incluyendo las abstenciones;
+
+VIII. Dar fe de lo actuado en las sesiones y/o votos en contra;
+
+IX. Elaborar el acta de la sesión que corresponda, y firmarla conjuntamente con el Presidente;
+
+X. Elaborar, integrar y remitir a la Secretaría Ejecutiva a través de la Dirección Ejecutiva de Organización Electoral, dentro de las 24 horas siguientes a la conclusión de la sesión, el expediente técnico de la misma;
+
+XI. Informar sobre el cumplimiento de los acuerdos del Consejo Electoral;
+
+XII. Firmar, junto con el Presidente, los acuerdos y resoluciones que el Consejo Electoral emita;
+
+XIII. Llevar un registro de los acuerdos y resoluciones aprobados por éste;
+
+XIV. Expedir las copias certificadas de los documentos que obren en archivo y que le soliciten sus miembros; y
+
+XV. Las demás que le sean conferidas por el Pleno o el Presidente del Consejo Electoral.
+
+###### Artículo 8°.
+
+De Los Consejeros Electorales.
+
+Son obligaciones y atribuciones de los Consejeros Electorales:
+
+I. Proponer puntos a tratar en el orden del día para las sesiones del Pleno;
+
+II. Asistir a las sesiones y votar los asuntos tratados, haciendo constar en su caso, su voto particular razonado;
+
+III. Manifestar libremente sus ideas y puntos de vista sobre los asuntos competencia del Pleno;
+
+IV. Integrar las comisiones necesarias, así como desempeñar con eficiencia, calidad y puntualidad, las actividades y funciones relacionadas con las mismas; y
+
+V. Las demás que le asignen el Pleno o el presente Reglamento.
+
+###### Artículo 9°.
+
+De los Representantes.
+
+Corresponde a los Representantes:
+
+I. Participar en las sesiones del Consejo Electoral y manifestar libremente sus ideas, con sujeción a lo dispuesto por el presente Reglamento;
+
+II. Participar en las deliberaciones, debates, comparecencias y en general en todos los asuntos que se traten en las sesiones del Consejo Electoral y en sus comisiones, de conformidad con lo dispuesto en el presente reglamento; y
+
+III. Proponer asuntos a tratar en el orden del día de las sesiones, en los términos que este mismo Reglamento dispone.
+
+###### Artículo 10.
+
+Tipo de Sesiones.
+
+Las sesiones del Consejo Electoral serán ordinarias o extraordinarias:
+
+I. Son ordinarias las sesiones que deben celebrarse, una vez al mes por lo menos, hasta la terminación del proceso electoral o del procedimiento de participación ciudadana, de conformidad con lo dispuesto por el artículo 4° del presente reglamento; y
+
+II. Son extraordinarias aquellas sesiones que por la urgencia de un asunto no puede esperar a ser tratado en la sesión ordinaria.
+
+El Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los Consejeros Electorales y de los Representantes.
+
+###### Artículo 11.
+
+Duración de las Sesiones.
+
+Las sesiones no deberán exceder de 8 horas de duración. El Pleno podrá decidir, sin debate, prolongarlas con el acuerdo de la mayoría con derecho a voto. Aquellas sesiones que entren en receso por exceder el límite de tiempo establecido, serán continuadas dentro de las 24 horas siguientes, salvo que se acuerde otro plazo para su reanudación. En toda sesión el Presidente, previa consulta con el Pleno podrá decretar los recesos que fueran necesarios, a excepción de lo que dispone el Código en los artículos 305 y 312.
+
+### Capítulo III. De las Sesiones
+
+###### Artículo 12.
+
+Sesión Permanente.
+
+El Consejo Electoral podrá declararse en sesión permanente cuando así lo ordene el Código o lo estime conveniente, para tratar asuntos que por su propia naturaleza o por disposición del Código, no deben interrumpirse. Cuando el Consejo Electoral se declare en sesión permanente, no operará el límite de tiempo establecido en el artículo anterior.
+
+###### Artículo 13.
+
+Del Contenido de la Convocatoria.
+
+La convocatoria deberá contener el día y la hora en que habrá de celebrarse la sesión, indicando si esta es ordinaria o extraordinaria, y un proyecto del orden del día para ser desahogado. A dicha convocatoria se acompañarán los documentos y anexos necesarios para la discusión de los asuntos contenidos en el orden del día.
+
+###### Artículo 14.
+
+De la Convocatoria a Sesión Ordinaria.
+
+Para la celebración de las sesiones ordinarias, el Presidente, deberá convocar por escrito a cada uno de los Consejeros Electorales y Representantes, por lo menos con 24 horas de anticipación a la fecha que se cite.
+
+###### Artículo 15.
+
+De la Convocatoria a Sesión Extraordinaria.
+
+A las sesiones extraordinarias se convocará por lo menos con 12 horas de anticipación. En aquellos casos en que el Presidente considere de suma urgencia o gravedad, podrá convocar fuera del plazo señalado; incluso, no será necesaria la convocatoria por escrito cuando se encuentren presentes en el mismo local todos los integrantes del Consejo Electoral.
+
+El Presidente podrá también convocar a sesión extraordinaria a petición que le sea formulada por la mayoría de los Consejeros Electorales y de los representantes de los partidos políticos.
+
+###### Artículo 16.
+
+Inclusión de Asuntos en el Orden del Día.
+
+Recibida la convocatoria a una sesión ordinaria, los Consejeros Electorales o los Representantes podrán solicitar por escrito al Secretario, la inclusión de un asunto en el orden del día de la sesión, con 12 horas de anticipación a la fecha señalada para su celebración, acompañando los documentos necesarios para su discusión. En el supuesto del párrafo anterior, el Secretario remitirá a los integrantes del Consejo Electoral un nuevo orden del día que contenga los asuntos que se hayan agregado, a más tardar 6 horas antes de la hora convocada para la celebración de la sesión. Ninguna solicitud que se reciba fuera del plazo señalado en el párrafo anterior podrá ser incorporada en el orden del día de la sesión de que se trate.
+
+### Capítulo V. Del Orden del Día
+
+###### Artículo 17.
+
+Preparación de los Asuntos.
+
+Los asuntos a tratar en las sesiones, se señalarán en el orden del día, preferentemente como sigue:
+
+I. Lista de asistencia y certificación de quórum legal;
+
+II. Declaratoria de instalación de la asamblea;
+
+III. Lectura del orden del día y aprobación en su caso;
+
+IV. Lectura del acta de la sesión anterior y aprobación en su caso;
+
+V. Correspondencia recibida;
+
+VI. Nombramientos de funcionarios o comisiones;
+
+VII. Presentación de proyectos de acuerdo o resoluciones según corresponda;
+
+VIII. Informes de comisiones;
+
+IX. Peticiones formuladas por los Consejeros Electorales, representantes, instituciones y organismos electorales que tengan relación con los asuntos del orden del día;
+
+X. Seguimiento de asuntos pendientes; y
+
+XI. Asuntos generales.
+
+###### Artículo 18.
+
+De los Asuntos Generales.
+
+Los asuntos generales sólo podrán tratarse en las sesiones ordinarias. En este apartado se conocerán y debatirán los asuntos; dándoles solución conforme a su prioridad. En las sesiones extraordinarias, sólo podrán tratarse aquellos asuntos contenidos en el orden del día.
+
+### Capítulo VI. De la Instalación y Desarrollo de las Sesiones
+
+###### Artículo 19.
+
+Reglas para la Instalación.
+
+El día y hora fijado para la celebración de las sesiones se reunirán en la sala de sesiones del Consejo Electoral, el Presidente, Consejeros Electorales, Representantes y el Secretario. El Presidente declarará instalada la sesión, previo pase de lista de asistencia y certificación de la existencia del quórum legal, por parte del Secretario. Para iniciar la sesión correspondiente, se dará una tolerancia máxima de 10 minutos después de la hora señalada en la convocatoria.
+
+Para que el Consejo Electoral pueda sesionar, es necesario que estén presentes cuando menos la mitad más uno de sus integrantes con derecho a voto, entre los que deberá estar su Presidente. En caso de que no exista quórum legal, se citará a una nueva sesión, la que tendrá lugar dentro de las 24 horas siguientes, con los integrantes que asistan entre los que deberá estar el Presidente.
+
+### Capítulo IV. De la Convocatoria a las Sesiones
+
+###### Artículo 20.
+
+De Las Ausencias.
+
+Cuando el Presidente no asista o se ausente momentánea o definitivamente de la sesión, esta será presidida por esa ocasión por el Consejero Electoral de mayor edad.
+
+En el caso de ausencia del Secretario a la sesión, sus funciones serán realizadas por alguno de los empleados del Consejo Electoral, que al efecto designe el Presidente para esa sesión.
+
+Las ausencias temporales o definitivas de los Consejeros Electorales propietarios serán cubiertas por los suplentes comunes en forma indistinta y alternativa. Las acciones encaminadas a la revocación del nombramiento o sustitución definitiva del Presidente, del Secretario y de uno o más Consejeros Electorales, corresponden única y exclusivamente al Consejo General, a propuesta del Consejero Presidente del Instituto.
+
+Cuando el representante propietario de un partido político y en su caso el suplente, no asistan sin causa justificada por tres veces consecutivas a las sesiones de los Consejos Distrital o Municipal, ante el cual se encuentren acreditados, dejará el representante de formar parte del mismo organismo, y los partidos políticos no podrán sustituirlos perdiendo la representación durante el proceso electoral.
+
+Los Consejos Distritales y Municipales Electorales al registrar la segunda falta de algún representante comunicará por escrito el hecho al partido político correspondiente.
+
+Los Consejos Distritales y Municipales Electorales notificarán por escrito al Consejo General las resoluciones tomadas al respecto.
+
+###### Artículo 21.
+
+Del Desarrollo.
+
+I. Las sesiones del Consejo Electoral serán públicas;
+
+II. El público asistente deberá permanecer en silencio y abstenerse de cualquier manifestación; debiendo respetar el área exclusiva ocupada por los miembros del Consejo Electoral, antes y durante las sesiones;
+
+III. El Presidente podrá decidir la expulsión de aquellas personas que sin ser integrantes del Consejo Electoral, alteren el orden de la sesión, pudiéndose auxiliar de la fuerza pública;
+
+IV. Las sesiones podrán suspenderse por grave alteración del orden; debiendo reanudarse dentro de las 24 horas siguientes, salvo que el Consejo Electoral decida otro plazo para continuarla.
+
+###### Artículo 22.
+
+Orden de Discusión de los Asuntos.
+
+Instalada la sesión serán discutidos y, en su caso, votados los asuntos contenidos en el orden del día. El Consejo Electoral podrá posponer la discusión o votación de algún asunto en particular.
+
+Aprobado el orden del día, el Consejo Electoral, podrá dispensar la lectura de los documentos que hayan sido previamente distribuídos.
+
+###### Artículo 23.
+
+Uso de la Palabra.
+
+Los integrantes del Pleno, sólo podrán hacer uso de la palabra con la autorización previa de su Presidente.
+
+Durante las intervenciones, los integrantes del Consejo Electoral se conducirán con la cortesía debida, absteniéndose de expresarse en forma ofensiva y/o calumniosa.
+
+###### Artículo 24.
+
+Forma de Discusión de los Asuntos.
+
+En la discusión de los asuntos se seguirá el orden siguiente:
+
+I. Al iniciar la discusión de cada punto del orden del día, el Presidente abrirá una lista de oradores en la que se inscribirán los miembros del Pleno que soliciten hacer uso de la palabra, para ese asunto en lo particular. Acto seguido, la lista se cerrará y concederá el uso de la voz, por una sola vez, en el orden en que lo hayan solicitado;
+
+II. Después de haber intervenido todos los oradores anotados, el Presidente preguntará si el punto está suficientemente discutido y, en caso de no ser así, procederá a abrir una segunda lista de oradores concediendo el uso de la palabra en el orden anotado; y
+
+III. Concluidas las intervenciones, el Presidente consultará de nueva cuenta al Pleno si está suficientemente discutido el punto. En su caso, se procederá a la votación respectiva o bien, se abrirá una última ronda de intervenciones, conforme al procedimiento del párrafo anterior.
+
+###### Artículo 25.
+
+Intervención del Secretario.
+
+El Secretario sólo podrá hacer uso de la palabra en el transcurso del debate cuando la solicite o cuando el Presidente, los Consejeros Electorales o los Representantes, le pidan que informe o aclare alguna cuestión relacionada con el tema en discusión.
+
+###### Artículo 26.
+
+Procedimiento Cuando Nadie Pide la Palabra.
+
+Si ninguno de los miembros del Pleno solicita la palabra, se procederá a la votación, o se dará por enterado el Consejo Electoral, según sea el caso.
+
+Tratándose de informes, el Presidente dispondrá que se rinda el mismo y para cualquier aclaración sólo se concederá el uso de la palabra por una sola véz a quien lo solicite.
+
+###### Artículo 27.
+
+Prohibición de Diálogos y Alusiones Personales.
+
+En el curso de las deliberaciones, los integrantes del Pleno se abstendrán de entablar polémicas o debates en forma de diálogo con otro integrante, así como de realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos contemplados en el orden del día.
+
+###### Artículo 28.
+
+Prohibición de Interrumpir Oradores.
+
+Los oradores no podrán ser interrumpidos, salvo por el Presidente, para solicitarles que constriñan sus intervenciones al tema que se encuentre en desahogo, pudiendo reiterar la solicitud las veces que sean necesarias.
+
+Si el orador se aparta de la cuestión en debate o hace una referencia que ofenda a cualquiera de los integrantes del Consejo Electoral, el Presidente le aplicará una moción de orden. Si un orador recibiera tres advertencias, el Presidente podrá retirarle el uso de la palabra en relación al punto de que se trate.
+
+### Capítulo VII. De las Mociones
+
+###### Artículo 29.
+
+Moción de Orden.
+
+Se considera moción de orden a toda proposición que tenga alguno de los siguientes objetivos:
+
+I. Aplazar la discusión de un asunto pendiente, por tiempo determinado o indeterminado;
+
+II. La realización de algún receso durante la sesión;
+
+III. Tratar un sólo asunto en el debate;
+
+IV. Suspender la sesión por alguna de las causas establecidas en este Reglamento;
+
+V. Pedir la suspensión de una intervención, cuando sea ofensiva o calumniosa, para algún integrante del Consejo Electoral o persona ajena al mismo, o que se aparte del punto de discusión;
+
+VI. Ilustrar la discusión con la lectura de algún documento; y
+
+VII. Pedir la aplicación del presente Reglamento.
+
+Toda moción de orden deberá dirigirse al Presidente quien la aceptará o denegará.
+
+###### Artículo 30.
+
+Moción al Orador.
+
+Cualquier integrante del Pleno podrá realizar mociones al orador que esté haciendo uso de la palabra, con el objeto de hacerle una pregunta o solicitarle una aclaración sobre algún punto de su intervención, previa autorización del Presidente.
+
+Las mociones al orador deberán de dirigirse al Presidente. En caso de ser aceptadas, se concederá el uso de la voz al solicitante; de no ser así, el orador continuará con su intervención.
+
+### Capítulo VIII. De las Votaciones
+
+###### Artículo 31.
+
+Formas de Tomar Acuerdos y Resoluciones.
+
+Los acuerdos y resoluciones del Pleno se tomarán por mayoría de votos de sus integrantes con derecho a ello, y según la naturaleza del asunto, la votación se hará en forma general o particular.
+
+Los acuerdos y resoluciones del Pleno se tomarán por mayoría de voto de los miembros presentes con derecho a ello, salvo en los casos que el Código exija mayoría calificada.
+
+Los Consejeros Electorales votarán levantando la mano para expresar el sentido de su voto.
+
+La votación se tomará en el siguiente orden: Contando el número de votos a favor y el número de votos en contra. Cuando no haya unanimidad se asentará en el acta el sentido del voto de los Consejeros Electorales.
+
+A solicitud del Presidente o de algún integrante del Consejo Electoral, se podrá dividir la votación de un asunto en lo general y en lo particular. En estos casos, en primer lugar se procederá a votar en lo general y simultáneamente los puntos que no fueran motivo de desacuerdo. Posteriormente se tomará la votación en lo particular sobre los puntos restantes.
+
+En el caso de que existiera más de un proyecto de acuerdo o resolución, el Secretario computará la votación para cada uno de ellos, en el orden en que hayan sido presentados.
+
+###### Artículo 32.
+
+Procedimiento para la Votación.
+
+El procedimiento para la votación será el siguiente:
+
+I. El Presidente someterá a votación el punto en cuestión;
+
+II. Los Consejeros Electorales no podrán dejar de votar los asuntos que sean sometidos a consideración del pleno, salvo por causas de impedimento, en términos del Código de Organización del Poder Judicial del Estado;
+
+III. Los Consejeros Electorales podrán formular voto particular en los asuntos que sean sometidos a consideración del Consejo Electoral, cuando disientan del criterio mayoritario;
+
+IV. Los Consejeros Electorales votarán levantando la mano;
+
+V. El Secretario computará los votos y cantará en voz alta el resultado del mismo, registrando el sentido de la votación;
+
+VI. El Presidente declarará en su caso, la aprobación o no aprobación del punto sometido a votación; y
+
+VII. En caso de empate, después de una segunda argumentación, se procederá a la votación y si persistiera el empate, el Presidente tendrá el voto de calidad razonado.
+
+### Capítulo IX. Del Receso y la Suspensión de las Sesiones
+
+###### Artículo 33.
+
+Del Receso y la Suspensión.
+
+El receso es la suspensión temporal de una sesión, en virtud de que se hayan agotado las discusiones sobre un punto sin llegar a una solución o acuerdo. Será propuesto por el Presidente por sí, o a solicitud de alguno de los miembros del Pleno. El receso puede durar desde unos minutos hasta las horas que sean necesarias, según sea el caso.
+
+El Presidente previa instrucción al Secretario, para verificar y certificar la situación, podrá decretar la suspensión de la sesión por las siguientes causas:
+
+I. Si en el transcurso de la sesión se ausentaran definitivamente alguno o algunos de los integrantes del Consejo Electoral con derecho a voto y con ello no se alcanzara el quórum legal para continuar con la misma;
+
+II. Cuando dejen de prevalecer las condiciones que garanticen el buen desarrollo, la libre expresión y seguridad de sus integrantes;
+
+III. Por indisciplina generalizada de sus integrantes, a juicio del Presidente;
+
+IV. Cuando las sesiones se excedan del límite de tiempo previsto por el artículo 11 de este Reglamento; y
+
+V. Las demás que expresamente se establecen en el presente Reglamento.
+
+###### Artículo 34.
+
+Suspensión Temporal o Definitiva.
+
+La suspensión de la sesión podrá ser temporal o definitiva. En el primer caso, el Presidente citará para su continuación dentro de las 24 horas siguientes, o bien hasta cuando se haya superado la causa que motivó la suspensión.
+
+La suspensión definitiva tendrá los efectos de dar por concluida la sesión de que se trate, asentándose en el acta los asuntos ya estudiados, revisados, discutidos y votados, y los puntos del orden del día pendientes de tratar. Si así lo acuerda el Consejo Electoral los asuntos que queden pendientes podrán ser incluidos en la sesión inmediata siguiente.
+
+### Capítulo X. De los Efectos de los Acuerdos y Resoluciones y de su Notificación
+
+###### Artículo 35.
+
+De los Efectos.
+
+Los acuerdos y resoluciones empezarán a surtir efectos al momento mismo en que se dé por concluida la sesión del Consejo Electoral, salvo el caso en que se determine otra fecha para su aplicación o entrada en vigor.
+
+###### Artículo 36.
+
+De la Notificación.
+
+Los acuerdos y resoluciones podrán notificarse personalmente, por estrados, por oficio, por correo o por cualquier otro medio, cuando así lo acuerde el propio Consejo Electoral, salvo disposición expresa del Código.
+
+### Capítulo XI. Difusión de los Acuerdos y Resoluciones
+
+###### Artículo 37.
+
+De la Difusión.
+
+Los acuerdos y resoluciones, cuando así lo apruebe el Consejo Electoral, podrán publicarse en los estrados que al efecto se instalen en las oficinas de los propios organismos electorales, con objeto de darles la difusión que en cada caso corresponda.
+
+### Capítulo XII. De las Actas de las Sesiones
+
+###### Artículo 38.
+
+Del Acta.
+
+De cada sesión se elaborará un acta que contendrá íntegramente los datos de identificación de la sesión, la lista de asistencia, los puntos del orden del día, un extracto de las intervenciones de los integrantes del Consejo Electoral, el sentido de su voto así como los acuerdos y resoluciones aprobados con las correcciones del caso.
+
+Dentro de las 24 horas siguientes a la conclusión de la sesión, deberá remitirse copia certificada del acta debidamente firmada a la Dirección Ejecutiva de Organización Electoral del Instituto para los efectos legales conducentes.
+
+### Capítulo XIII. De las Comisiones
+
+###### Artículo 39.
+
+De la Integración.
+
+El Consejo Electoral para el adecuado desempeño de sus atribuciones, podrá conformar las comisiones que consideren necesarias, con el número de integrantes que en cada caso se acuerde; y serán presididas por un Consejero Electoral, nombrado por los integrantes de cada comisión. Los partidos políticos podrán acreditar a un representante con derecho a voz en cada una de las comisiones. Las comisiones únicamente funcionarán durante el tiempo necesario para la atención o resolución del asunto para el que fueron creadas.
+
+###### Artículo 40.
+
+Del Funcionamiento de las Comisiones.
+
+En todos los asuntos que se les encomienden, las comisiones deberán presentar un informe, proyecto de resolución o de dictamen según sea el caso.
+
+Para el desempeño de su encargo, las comisiones podrán contar con el apoyo del personal técnico o auxiliar que requieran, aunque sea externo al Consejo Electoral, con la autorización del mismo. Por lo tanto, es obligación del personal técnico de las áreas, proporcionar toda información que se les requiera y en el momento que se les solicite.
+
+El Secretario del Consejo Electoral, colaborará con las comisiones que se integren, para el cumplimiento de las tareas que se les haya asignado.
+
+T r a n s i t o r i o s
+
+Artículo Primero.- El presente reglamento entrará en vigor a partir de su aprobación por el Consejo General del Instituto de Elecciones y Participación Ciudadana, abrogándose el Reglamento de los Consejos Distritales y Municipales Electorales del Instituto Estatal Electoral aprobado en sesión de fecha 1º de marzo de 2001, así como las reformas de fecha 13 de marzo de 2004.
+
+Artículo Segundo.- Los casos no previstos en el presente reglamento, deberán ser consultados al Consejo General del Instituto de Elecciones y Participación Ciudadana, en cumplimiento a lo dispuesto por el artículo 147, fracción II, del Código de Elecciones y Participación Ciudadana del Estado de Chiapas.
+
+Artículo Tercero.- El Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, proveerá lo necesario para que el presente reglamento de sesiones, se circule y se le de amplia difusión para los efectos correspondientes.
+
+Artículo Cuarto.- El Consejo General será el órgano facultado para realizar las reformas, adiciones y derogaciones al presente reglamento, cuando así lo considere pertinente.
+
+Segundo.- El Reglamento de los Consejos Distritales y Municipales Electorales del Instituto Estatal Electoral aprobado el 1º de marzo de 2001, así como las reformas de fecha 13 de marzo de 2004, quedará abrogado con la entrada en vigencia del presente Reglamento.
+
+Tercero.- En su oportunidad notifíquese el contenido de este acuerdo a los Consejos Distritales y Municipales Electorales, para los efectos correspondientes en el ámbito de sus respectivas competencias.
+
+Cuarto.- En términos de lo dispuesto por los artículos 391 y 395 del Código de Elecciones y Participación Ciudadana, notifíquese el contenido del presente acuerdo a los representantes de los partidos políticos acreditados ante el Consejo General de éste organismo electoral.
+
+Quinto.- Publíquese en el Periódico Oficial del Estado.
+
+Así lo acordaron por unanimidad de votos de los consejeros electorales presentes, el C. Consejero presidente marco Antonio Ruiz guillén y los CC. Consejeros electorales, Erik Alejandro Ocaña espinosa, Gabriela de Jesús Zenteno Mayorga y Julio César Esponda Cal y Mayor, por ante el C. Carlos Enrique Domínguez cordero, secretario ejecutivo, quién autoriza y da fe, a los diez días del mes de marzo del año dos mil diez, en la ciudad de Tuxtla Gutiérrez, Chiapas.
+
+Certificación
+
+El suscrito Licenciado Carlos Enrique Domínguez Cordero, Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, en uso de las atribuciones que me confiere el artículo 153, fracción XXVIII, del Código de Elecciones y Participación Ciudadana.
+
+Certifico y Hago Constar
+
+Que las presentes copias fotostáticas, constantes de seis tojas útiles, relativas al Acuerdo del Consejo General por el que se expide el Reglamento de Sesiones de los Consejos Distritales y Municipales Electorales del Instituto de Elecciones y Participación Ciudadana; aprobado en Sesión Extraordinaria celebrada con fecha diez de marzo de dos mil diez, coinciden fiel y exactamente con el original que tuve a la vista y que obra en los archivos del Consejo General de este organismo electoral.
+
+Lo que se hace constar para los efectos legales a que haya lugar, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 11 once días del mes de marzo del año 2010, dos mil diez.- Doy fe. - Rúbrica.
