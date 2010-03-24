@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-420
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-24"
-last_updated: "2004-11-24"
+last_updated: "2010-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, PUBLICADO EN EL P.O. DE 24 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 24 de noviembre de 2004.
 
@@ -716,3 +718,15 @@ ENCARGADO DE DESPACHO DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS
 ING. PEDRO LEETCH BALCÁZAR
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE MARZO DE 2010.
+
+PRIMERO. El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Urbano y Obras Públicas, publicado en el Periódico Oficial "Tierra y Libertad" número 4361 de fecha 24 de Noviembre del año 2004.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Reglamento.
+
+CUARTO. Los Manuales de Organización y Políticas y Procedimientos y demás instrumentos administrativos, deberán adecuarse al presente Reglamento en un plazo no mayor de 90 días a partir de la entrada en vigor del presente Reglamento a efecto de armonizarlos con el contenido del presente instrumento. Dado en la residencia del Poder Ejecutivo del Estado Libre y Soberano de Morelos, en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veintiséis días del mes de enero del año dos mil diez.
