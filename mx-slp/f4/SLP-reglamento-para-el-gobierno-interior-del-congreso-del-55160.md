@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2009-09-15"
+last_updated: "2010-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2010.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -161,7 +161,9 @@ III. El escrutinio será público y se les dará inmediata posesión de sus pues
 
 La Directiva ejercerá las atribuciones que establece el artículo 67 de la Ley Orgánica; y las siguientes:
 
-I. Establecer la orden del día de las sesiones, y entregarla oportunamente a la Gaceta Parlamentaria;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2010)</small>
+
+I. Establecer el orden del día de las sesiones, y entregarla oportunamente a la Gaceta Parlamentaria;
 
 II. Cuidar que el contenido de las actas refleje fielmente lo ocurrido en las sesiones;
 
@@ -181,7 +183,9 @@ VII. Convocar a sesiones extraordinarias cuando haya asuntos o negocios que por 
 
 El Presidente de la Directiva del Congreso en el ejercicio de sus funciones, tiene las siguientes atribuciones:
 
-I. Presidir las sesiones de manera puntual y conforme a la orden del día aprobada;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2010)</small>
+
+I. Presidir las sesiones de manera puntual y conforme al orden del día aprobado;
 
 II. Abrir las sesiones, suspenderlas y clausurarlas;
 
@@ -189,7 +193,9 @@ III. Citar oportunamente a los diputados a través de los secretarios;
 
 IV. Declarar el quórum y la falta del mismo, procediendo conforme lo indican la Ley Orgánica y este Reglamento;
 
-V. Someter a consideración de los Diputados la Orden del Día;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2010)</small>
+
+V. Someter a la consideración de los diputados el orden del día;
 
 VI. Proponer a debate los dictámenes que presenten las comisiones;
 
@@ -273,7 +279,9 @@ V. Enviar los expedientes a las comisiones correspondientes a más tardar el ter
 
 VI. Verificar que los diputados reciban con anticipación un ejemplar de las iniciativas y los dictámenes que sean objeto del debate;
 
-VII. Dar lectura a toda documentación considerada en la orden del día;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2010)</small>
+
+VII. Dar lectura a toda documentación considerada en el orden del día;
 
 VIII. Rubricar la correspondencia oficial, las leyes, decretos, acuerdos del Congreso y los libros que se llevan para tal efecto, y enviar las comunicaciones a quienes proceda;
 
@@ -391,9 +399,11 @@ I. Ordinarias: las que tengan lugar los días determinados previamente de cada s
 
 II. Extraordinarias: aquéllas que no hayan sido citadas al término de una sesión ordinaria; o que no se encuentren establecidas por acuerdo del Pleno o de la Directiva previamente. Se llevarán a cabo cuando haya que tratar algún asunto urgente o extraordinario; éstas serán citadas por el Presidente del Congreso, con por lo menos veinticuatro horas de anticipación.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 31.
 
-En la orden del día de la última sesión ordinaria de cada año de ejercicio legal de la Legislatura, se incluirá el punto relativo a la elección de la Directiva del Congreso.
+En el orden del día de la última sesión ordinaria de cada año de ejercicio legal de la Legislatura, se incluirá el punto resolutivo a la elección de la Directiva del Congreso.
 
 ###### ARTICULO 32.
 
@@ -545,9 +555,11 @@ En la primera sesión de cada periodo ordinario se someterá a la consideración
 
 En la primera sesión ordinaria de cada periodo se dará cuenta de las comunicaciones dirigidas al Congreso, que no hayan sido acordadas por la Diputación Permanente, para disponer lo conducente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 56.
 
-Una vez concluida la lista de asistencia y, en su caso, declarado el quórum, se someterá a la consideración del Pleno la orden del día de las sesiones, incluyendo en la misma los asuntos con la prelación que establece el artículo 39 fracción I de la Ley Orgánica.
+Una vez concluida la lista de asistencia y, en su caso, declarado el quórum, se someterá a la consideración del Pleno el orden del día de las sesiones, incluyendo en la misma los asuntos con la prelación que establece el artículo 39 fracción I de la Ley Orgánica.
 
 Por acuerdo del Pleno, cuando así se justifique o se requiera, podrá modificarse el orden en que se desahoguen los asuntos de la sesión.
 
@@ -825,7 +837,9 @@ IV. La discusión en el Pleno de los dictámenes será una sola vez en lo genera
 
 Cuando menos dos días naturales antes de cada sesión, la Gaceta Parlamentaria que contenga los dictámenes que se vayan a discutir, será entregada a los diputados.
 
-No será impedimento para tratar un asunto que no se haya publicado en la Gaceta Parlamentaria, siempre y cuando el Pleno apruebe su inclusión en la orden del día.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
+
+No será impedimento para tratar un asunto que no se haya publicado en la Gaceta Parlamentaria, siempre y cuando el Pleno apruebe su inclusión en el orden del día.
 
 ###### ARTICULO 90.
 
@@ -1023,7 +1037,9 @@ V. Los demás participantes, sus nombres completos y resumen de su participació
 
 VI. Las citas breves a petición expresa de quien así lo solicite;
 
-VII. Todo lo tratado en la orden del día; y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2010)</small>
+
+VII. Todo lo tratado en el orden del día, y
 
 VIII. Las resoluciones tomadas.
 
@@ -1223,7 +1239,9 @@ I. Instalar legalmente la comisión o comité que presida, dentro de la semana s
 
 II. Presentar a más tardar la primera semana del mes de noviembre de cada año, el proyecto de plan anual de trabajo de la misma, para su aprobación, el cual deberá ser congruente con la agenda legislativa;
 
-III. Elaborar la orden del día de las reuniones de la comisión o comité y anexarla a la convocatoria de la misma;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2010)</small>
+
+III. Elaborar el orden del día de las reuniones de la comisión o comité, y anexarla a la convocatoria de la misma;
 
 IV. Citar a los integrantes de su comisión o comité para el desempeño de su cometido;
 
@@ -1277,11 +1295,15 @@ En la votación de los dictámenes, acuerdos o resoluciones, los diputados deber
 
 Cuando un diputado tenga un voto particular sobre un dictamen, deberá hacerlo del conocimiento del presidente de la comisión y presentarlo por escrito, a fin de adjuntarlo al dictamen previo a su entrega a la Secretaría del Congreso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 151.
 
-El presidente de la comisión o comité deberá citar a las reuniones ordinarias, con por lo menos cuarenta y ocho horas de anticipación, anexando al citatorio, la orden del día y los proyectos de dictámenes o asuntos que vayan a discutirse, recabando el acuse de recibo correspondiente.
+El presidente de la comisión o comité deberá citar a las reuniones ordinarias, con por lo menos cuarenta y ocho horas de anticipación, anexando al citatorio, el orden del día y los proyectos de dictámenes o asuntos que vayan a discutirse, recabando el acuse de recibo correspondiente.
 
-Cuando así lo acuerden, podrán obviar este trámite y determinar la fecha y hora de la reunión siguiente al final de cada reunión, asentándolo en el acta respectiva; no obstante, se deberá entregar la orden del día y documentos que vayan a someterse a discusión, con la anticipación que señala el párrafo anterior.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
+
+Cuando así lo acuerden, podrán obviar este trámite y determinar la fecha y hora de la reunión siguiente al final de cada reunión, asentándolo en el acta respectiva no obstante, se deberá entregar el orden del día y documentos que vayan a someterse a discusión, con la anticipación que señala el párrafo anterior.
 
 Para las reuniones extraordinarias, cuando la urgencia del caso lo amerite, bastará con que el presidente o algún otro integrante, en atención a la trascendencia del caso a tratar, lo hagan del conocimiento inmediato de los diputados localizables.
 
@@ -1291,7 +1313,9 @@ Para las reuniones extraordinarias, cuando la urgencia del caso lo amerite, bast
 
 Al inicio de cada reunión el secretario de la comisión o comité pasará lista de asistencia, dando cuenta de la misma al presidente, quien declarará, en su caso, que existe quórum y, por lo tanto, serán válidos los acuerdos que se tomen.
 
-Acto seguido, el presidente pondrá a consideración de los diputados la orden del día y, una vez aprobada, desahogará cada punto en el turno enlistado, dando la intervención a los diputados en la discusión de cada asunto conforme lo hayan solicitado.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
+
+Acto seguido, el presidente pondrá a consideración de los diputados el orden del día y, una vez aprobado, desahogará cada punto en el turno enlistado, dando la intervención a los diputados en la discusión de cada asunto conforme lo hayan solicitado.
 
 ###### ARTICULO 153.
 
@@ -1299,7 +1323,9 @@ De cada reunión se levantará un acta en la que deberá asentarse: el lugar, la
 
 Los diputados deberán solicitar en forma expresa cuando lo consideren trascendente, se consignen en el acta: aclaraciones, votos particulares, solicitudes o alegatos sobre los asuntos que se traten.
 
-Esta acta deberá ser leída como primer punto de la orden del día de la reunión inmediata siguiente, y una vez aprobada por los diputados presentes, deberán firmar en ella para su validez, el presidente y el secretario de la comisión.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
+
+Esta acta deberá ser leída como primer punto del orden del día de la reunión inmediata siguiente, una vez aprobada por los diputados presentes, deberán firmar en ella para su validez, el presidente y el secretario de la comisión.
 
 No será necesario levantar acta de las reuniones de enlace o acercamiento que las comisiones realicen, con invitados o con representantes de sectores o grupos de la sociedad, que se celebren para tratar cualquier asunto en particular, a menos que así lo determine el presidente; en todo caso, la reunión podrá grabarse en audio o video, a fin de mantener una memoria que pueda ser consultada.
 
@@ -1309,7 +1335,9 @@ Dos o más comisiones podrán trabajar unidas para tratar los asuntos que les ha
 
 Para que puedan llevar a cabo la reunión, se requerirá la presencia de por lo menos más de la mitad de los integrantes de cada comisión.
 
-La presentación de la orden del día y la elaboración del acta de cada reunión, será responsabilidad de la comisión que presida; debiendo firmar en ella los presidentes y secretarios de las comisiones de que se trate.
+> <small>(REFORMADO P.O. 25 DE MARZO DE 2010)</small>
+
+La presentación del orden del día y la elaboración del acta de cada reunión, será responsabilidad de la comisión que presida debiendo firmar en ella los presidentes y secretarios de las comisiones de que se trate.
 
 En el caso de que un diputado forme parte de dos o más comisiones que trabajen conjuntamente, su asistencia se anotará por separado por cada una de esas comisiones al hacer el cómputo a que se refiere este artículo, consecuentemente, en la votación respectiva su voto se tomará en cuenta tantas veces como comisiones integre.
 
@@ -1679,7 +1707,9 @@ Corresponde a la Coordinación de Servicios Parlamentarios:
 
 I. Recibir de la oficialía de partes del Congreso, la correspondencia, asuntos y expedientes que se presenten a la Legislatura; consignarlos en los registros respectivos y entregarlos a la Directiva para su presentación al Pleno; así como llevarla secuencia de los trámites y las resoluciones sobre los mismos;
 
-II. Organizar, bajo las instrucciones de la Directiva, las sesiones, la orden del día, las actas, y preparar los documentos que vayan a tratarse en las mismas, a fin de que puedan desarrollarse conforme lo establecen la Ley Orgánica y este Reglamento;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2010)</small>
+
+II. Organizar, bajo las instrucciones de la Directiva, las sesiones, el orden del día, las actas, y preparar los documentos que vayan a tratarse en las mismas, a fin de que puedan desarrollarse conforme lo establecen, la Ley Orgánica, y este Reglamento;
 
 III. Procurar que los diputados cuenten con copias de las iniciativas, proyectos y dictámenes necesarios para el desempeño de sus actividades legislativas;
 
@@ -1912,3 +1942,9 @@ DECRETO 843 POR EL QUE SE REFORMA EL ARTICULO 52 DEL REGLAMENTO PARA EL GOBIERNO
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. La Junta de Coordinación Política contará con un plazo de noventa días, contados a partir de la vigencia de este Decreto, para presentar al Pleno, para su aprobación, una campana a escala de la de "Dolores Hidalgo", conforme a las características y materiales que la misma Junta disponga.
+
+P.O. 25 DE MARZO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
