@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2009-12-22"
+last_updated: "2010-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1151,7 +1151,9 @@ XIX. Las demás que le señalen las leyes y reglamentos municipales.
 
 Para el control del erario municipal cada ayuntamiento contará con un Tesorero, mismo que no deberá guardar parentesco con ninguno de los integrantes del ayuntamiento, conforme a lo establecido por la legislación de responsabilidades de los servidores públicos aplicable.
 
-El Tesorero y todos los empleados que manejen fondos y valores estarán obligados a caucionar su manejo, en la forma y términos previstos por el Reglamento Interior Municipal.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
+
+El tesorero y todos los empleados que manejen fondos y valores, están obligados a caucionar su manejo de manera honrada y responsable, debiéndose fijar una fianza de por lo menos el equivalente a un mes de los ingresos propios, misma que deberá depositarse para su resguardo en la tesorería municipal; no podrá ejercerse el cargo sin que se haya otorgado dicha garantía, además de cumplir con todas las obligaciones y responsabilidades previstas por el Reglamento Interior Municipal; el presidente municipal, y el propio tesorero, serán responsables de que se realice dicho depósito.
 
 ###### ARTICULO 80.
 
@@ -2250,3 +2252,9 @@ P.O. 22 DE DICIEMBRE DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
