@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2009-09-15"
+last_updated: "2010-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -429,7 +429,9 @@ Las sesiones que celebra el Congreso del Estado son:
 
 l. Ordinarias: las que se efectúen en los días que determine la Directiva antes de concluir cada sesión, en las que deben desahogarse en su orden los siguientes asuntos:
 
-a) Aprobación de la orden del día.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
+
+a) Aprobación del orden del día.
 
 b) Aprobación del acta de la sesión anterior.
 
@@ -699,7 +701,9 @@ II. Conducir las sesiones del Congreso y garantizar el adecuado desarrollo de lo
 
 III. Establecer, en coordinación con los grupos parlamentarios, la agenda legislativa, y darle seguimiento;
 
-IV. Formular y someter a la aprobación del Pleno, la orden del día, para las sesiones; así como cumplir con la misma;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2010)</small>
+
+IV. Formular y someter a la aprobación del Pleno, el orden del día para las sesiones; así como cumplir con la misma;
 
 V. Vigilar que el desarrollo de las sesiones y los actos emanados de las mismas, se encuentren apegados á esta Ley, al Reglamento, y a las demás disposiciones legales aplicables;
 
@@ -1675,7 +1679,9 @@ IV. Las convocatorias emitidas, fallos de adjudicación y contratos que amparen 
 
 V. Las cuentas públicas de los poderes del Estado y de los ayuntamientos;
 
-VI. La Gaceta Parlamentaria, que contendrá la orden del día de la sesión del Pleno, así como el sentido de la votación de cada diputado en las votaciones nominales y económicas; las iniciativas de ley, decreto, acuerdo económico, acuerdo administrativo, puntos de acuerdo y dictámenes de las comisiones, decretos y acuerdos aprobados;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2010)</small>
+
+VI. La Gaceta Parlamentaria que contendrá el orden del día de la sesión del Pleno, así como el sentido de la votación de cada diputado en las votaciones nominales y económicas; las iniciativas de ley, decreto, acuerdo económico, acuerdo administrativo, puntos de acuerdo y dictámenes de las comisiones, decretos y acuerdos aprobados;
 
 VII. El Diario de los Debates;
 
@@ -1765,7 +1771,7 @@ OCTAVO. La transferencia de unidades administrativas de una dependencia a otra, 
 
 NOVENO. Los derechos laborales del personal que en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra, se respetarán en términos de la legislación correspondiente.
 
-DECIMO. Hasta en tanto entre en vigor la ley de la materia, las referencias que en esta Ley se hacen a la "Auditoría Superior del Estado", se entenderán hechas a la "Contaduría Mayor de Hacienda del Estado"; y las que se hacen al "Auditor Superior", al Contador Mayor de Hacienda.
+DECIMO. Hasta en tanto entre en vigor la ley de la materia, las referencias que en esta Ley se hacen a la "Auditoría Superior del Estado", se entenderán hechas en la "Contaduría Mayor de Hacienda del Estado"; y las que se hacen al "Auditor Superior", al Contador Mayor de Hacienda.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
@@ -1824,3 +1830,9 @@ P.O. 15 DE SEPTIEMBRE DE 2009.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan a este Decreto.
+
+P.O. 25 DE MARZO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
