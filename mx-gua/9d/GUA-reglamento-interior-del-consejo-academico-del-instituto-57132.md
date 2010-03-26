@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-consejo-academico-del-instituto-57132"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-18"
-last_updated: "2007-09-18"
+last_updated: "2010-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO ACADEMICO DEL INSTITUTO ESTATAL DE CIENCIAS PENALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR PARA EL CONSEJO ACADÉMICO DEL INSTITUTO DE FORMACIÓN EN SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 18 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL CONSEJO ACADEMICO DEL INSTITUTO ESTATAL DE CIENCIAS PENALES DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2010.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 18 de septiembre de 2007.
 
@@ -75,9 +77,13 @@ IV. El Director General de Instituto;
 
 V. El Director General de Política Criminal y Prevención del Delito de la Secretaria de Seguridad Pública;
 
-VI. El Coordinador General de Formación Superior y Profesionalización en Seguridad Pública del Instituto;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2010)</small>
 
-VII. Un representante de la Academia Nacional de Seguridad Pública;
+VI. Un representante del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2010)</small>
+
+VII. Un representante del área de profesionalización del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
 VIII. Hasta tres representantes del sector académico, provenientes de universidades públicas o privadas, que deberán ser directores o coordinadores de los niveles de licenciatura, maestría o doctorado en las diferentes áreas de las ciencias penales;
 
@@ -197,9 +203,15 @@ VII. Colaborar con el Presidente del Consejo Académico en el buen desarrollo de
 
 VIII. Numerar por orden de presentación, las solicitudes de uso de la palabra y los asuntos que se sometan a consideración del Consejo Académico;
 
-IX. Cumplir los encargos o requerimientos que el Consejo Académico acuerde, de conformidad con lo dispuesto en cada sesión; y
+IX. Cumplir los encargos o requerimientos que el Consejo Académico acuerde, de conformidad con lo dispuesto en cada sesión; y (sic)
 
-X. Las demás que le confiera el Consejo Académico, el Presidente del Consejo Académico y las disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2010)</small>
+
+X. Expedir certificaciones de los documentos existentes en los archivos del Consejo Académico; y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2010)</small>
+
+XI. Las demás que le confiera el Consejo Académico, el Presidente del Consejo Académico y las disposiciones jurídicas aplicables.
 
 ### Capítulo VI. De las Sesiones del Consejo Académico
 
@@ -217,13 +229,15 @@ Para reunirse en sesión extraordinaria será siempre necesaria una convocatoria
 
 A la convocatoria se acompañará copia del orden del día, excepto en casos de urgencia. No obstante, quedará válidamente constituido el Consejo Académico, sin cumplir todos los requisitos referentes a la convocatoria o al orden del día, cuando asistan todos sus miembros y así lo acuerden por unanimidad.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2010)</small>
+
 ###### Artículo 10.
 
-El quórum requerido para que el Consejo Académico sesione válidamente será de la totalidad de sus miembros. Las sesiones deberán iniciarse a más tardar quince minutos después de la hora para la cual han sido convocadas.
-
-En caso de no existir quórum legal para el desarrollo de las sesiones, se emitirá una segunda convocatoria a fin de celebrar la sesión dentro de las doce horas siguientes.
+El quórum requerido para que el Consejo Académico sesione válidamente será de la mitad más uno de sus miembros. Las sesiones deberán iniciarse a más tardar quince minutos después de la hora para la cual han sido convocadas.
 
 Pasado ese tiempo y si no hay quórum, el Secretario Ejecutivo hará constar la asistencia de los miembros presentes.
+
+En caso de no existir quórum legal para el desarrollo de las sesiones, se emitirá una segunda convocatoria a fin de celebrar la sesión dentro de las 48 horas siguientes. En esta segunda ocasión la sesión será válida con los miembros presentes, siempre que se cuente con la presencia del Presidente del Consejo Académico.
 
 ### Capítulo VII. Del Desarrollo de las Sesiones del Consejo Académico
 
@@ -257,15 +271,19 @@ En el punto correspondiente a lectura de la correspondencia, el plenario se limi
 
 Si se decide discutir algún asunto relativo a la correspondencia, se podrá incluir el tema en el punto de asuntos generales o como punto de agenda de una próxima sesión.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2010)</small>
+
 ###### Artículo 14.
 
-No podrá ser discutido ni ser objeto de acuerdo ningún asunto que no figure en el orden del día, salvo que sea declarado de urgencia por el voto unánime de los miembros presentes.
+No podrá ser discutido ni ser objeto de acuerdo ningún asunto que no figure en la orden del día, salvo que sea declarado de urgencia por las dos terceras partes de los miembros presentes.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2010)</small>
 
 ###### Artículo 15.
 
-Una vez concluido cada debate, el asunto será sometido a votación. Las votaciones serán nominales.
+Una vez concluido cada debate, el asunto será sometido a votación. Se registrarán los votos a favor, en contra y las abstenciones.
 
-Los acuerdos del Consejo Académico se tomaran por las dos terceras partes de los miembros presentes, excepto en los casos que el presente reglamento o alguna otra disposición establezca otra clase de votación.
+Los acuerdos del Consejo Académico se tomarán por la mitad más uno de los miembros presentes, excepto en los casos que el presente reglamento o alguna otra disposición establezca otra clase de votación.
 
 ### Capítulo VIII. De los Acuerdos del Consejo Académico
 
@@ -277,9 +295,11 @@ Las actas serán firmadas al menos por el Presidente y el Secretario Ejecutivo; 
 
 Su distribución será al menos con veinticuatro horas de antelación a la sesión en la que serán conocidas.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2010)</small>
+
 ###### Artículo 17.
 
-Ante circunstancias que cambien la vigencia y aplicación de un acuerdo, o bien, cuando se presenten asuntos esenciales que no se consideraron oportunamente, se podrá plantear la revocación o modificación de ese acuerdo. El Consejo Académico resolverá por el voto de las dos terceras partes de sus integrantes.
+Ante circunstancias que cambien la vigencia y aplicación de un acuerdo, o bien, cuando se presenten asuntos esenciales que no se consideraron oportunamente, se podrá plantear la revocación o modificación de ese acuerdo.
 
 ### Capítulo IX. De las Ausencias de los integrantes del Consejo Académico
 
@@ -287,7 +307,13 @@ Ante circunstancias que cambien la vigencia y aplicación de un acuerdo, o bien,
 
 Los miembros del Consejo Académico sólo podrán faltar a las sesiones por causas debidamente justificadas a juicio de la Presidencia.
 
-Las llegadas tardías luego de más de treinta minutos de iniciada la sesión serán consignadas en el acta correspondiente.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2010)</small>
+
+Los Integrantes del Consejo Académico podrán contar con un suplente, el cual tendrá voz y voto, debiendo enviar oficio al Secretario Ejecutivo para hacerlo de su conocimiento.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+
+La persona que se designe como suplente, deberá tener conocimiento sobre la materia de seguridad pública, no pudiendo éste designar a un tercero para ser representado.
 
 ###### Artículo 19.
 
@@ -320,3 +346,9 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 BALTAZAR VILCHES HINOJOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE MARZO DE 2010.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
