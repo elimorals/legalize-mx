@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2009-10-09"
+last_updated: "2010-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -464,7 +464,7 @@ El Instituto Electoral y de Participación Ciudadana de Coahuila, se constituir�
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
-4.- Los Consejeros Electorales propietarios y suplentes serán designados y ratificados, en su caso, por el voto de cuando menos las dos terceras partes del Pleno del Congreso Local, en los términos y conforme a los procedimientos que disponga la ley.
+4. Los Consejeros Electorales propietarios y suplentes serán designados y ratificados, en su caso, por el voto de cuando menos las dos terceras partes del Pleno del Congreso Local, en los términos y conforme a los procedimientos que disponga la ley.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -1690,11 +1690,11 @@ La Ley de Ingresos, que a iniciativa del Ejecutivo deberá expedir anualmente el
 
 Las contribuciones al gasto público serán determinadas anualmente por el Congreso del Estado, en forma proporcional y equitativa.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2010)</small>
 
 ###### Artículo 99.
 
-Para la guarda y distribución de los caudales públicos, habrá una dependencia que se denominará Secretaría de Finanzas, a cargo de un Secretario que será nombrado y removido libremente por el Gobernador del Estado. Esta Secretaría será auxiliada por las oficinas recaudadoras que sean necesarias.
+Para la guarda y distribución de los caudales públicos, habrá una dependencia que se denominará Secretaría de Finanzas, a cargo de un Secretario que será nombrado y removido libremente por el Gobernador del Estado. Esta Secretaría será auxiliada por un organismo administrativo descentralizado y por las administraciones recaudadoras que dependan de éste con arreglo a las leyes del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1710,9 +1710,9 @@ I. Glosar las cuentas presentadas por los Recaudadores de Rentas, dando cuenta a
 
 II. Presentar al Congreso del Estado, dentro del término que disponga la Ley, previo acuerdo del Titular del Poder Ejecutivo, la cuenta pública, para efectos de su revisión, discusión y aprobación, en su caso.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2010)</small>
 
-III. Recaudar los ingresos públicos del Estado, con arreglo a las leyes del mismo.
+III. Recaudar los ingresos públicos del Estado, con arreglo a las leyes del mismo directamente y/o a través del organismo que se cree para tal efecto.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1744,11 +1744,11 @@ La disponibilidad presupuestal en materia de acceso a la información pública, 
 
 El Secretario de Finanzas deberá exigir a todo servidor público que maneje caudales del Estado, que constituya caución suficiente a su satisfacción, antes de tomar posesión de su cargo.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2010)</small>
 
 ###### Artículo 104.
 
-El Ejecutivo sólo podrá expedir órdenes de recaudación o pago por conducto de la Secretaría de Finanzas.
+El Ejecutivo solo podrá expedir órdenes de recaudación por conducto de la Secretaría de Finanzas o, en su caso, a través del organismo que se cree para tal efecto.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
@@ -2498,7 +2498,7 @@ Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera I
 
 (REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
 
-### CAPITULO III
+### CAPITULO III.
 
 De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
 
@@ -4545,3 +4545,13 @@ P.O. 9 DE OCTUBRE DE 2009.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE MARZO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
