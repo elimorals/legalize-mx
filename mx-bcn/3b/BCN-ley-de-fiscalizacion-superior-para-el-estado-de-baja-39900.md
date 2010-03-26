@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-para-el-estado-de-baja-39900"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-21"
-last_updated: "2009-09-25"
+last_updated: "2010-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 21 de mayo de 2004.
 
@@ -909,6 +909,78 @@ La relación jurídica de trabajo se entiende establecida entre el Órgano y los
 
 El Auditor Superior de Fiscalización del Estado, los Directores y los demás servidores públicos del Órgano en el desempeño de sus funciones, se sujetarán a la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California y a las demás disposiciones legales aplicables.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE MARZO DE 2010)</small>
+
+### CAPÍTULO NOVENO. DEL RECURSO DE RECONSIDERACIÓN
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+
+###### ARTÍCULO 94.
+
+En contra del Informe de Resultado, que el Órgano presente ante la Comisión, los Servidores Públicos o cualquier persona que en su momento hubiere desempeñado un empleo, comisión o cargo público, que tengan o hayan tenido, manejo de la cuenta pública correspondiente, podrán hacer uso de la reconsideración, de conformidad con los siguientes artículos.
+
+La reconsideración sólo procederá, cuando del Informe de Resultado se desprendan algunos de los supuestos previstos en el artículo 17 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+
+###### ARTÍCULO 95.
+
+Una vez que la Comisión reciba el Informe de Resultado, y sólo si de éste se desprende algunos (sic) de los supuestos a que se refiere el segundo párrafo del artículo anterior se deberá notificar mediante oficio, a los Servidores Públicos o a cualquier persona que en su momento hubiere desempeñado un empleo, comisión o cargo público, que tengan o hayan tenido manejo de la cuenta pública.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+
+###### ARTÍCULO 96.
+
+La reconsideración se presentará por escrito, ante la Comisión, dentro del plazo de quince días hábiles, contados a partir de la fecha en que se le haya notificado el acto.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+
+###### ARTÍCULO 97.
+
+El escrito de recurso contendrá:
+
+I. Nombre y domicilio del recurrente, en su caso, la persona o personas que éste autorice para recibir notificaciones;
+
+II. Descripción del acto impugnado y fecha en que se tuvo conocimiento del mismo;
+
+III. Razones o motivos de la inconformidad;
+
+IV. Las pruebas que en su caso se ofrezcan, mismas que deberán estar relacionadas directamente con las razones o motivos de la inconformidad; y
+
+V. Firma del recurrente, requisito sin el cual, no se dará trámite a la reconsideración.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+
+###### ARTÍCULO 98.
+
+Una vez que la Comisión recibida (sic) el Recurso de Reconsideración, deberá turnarlo al Órgano en un plazo no mayor a tres días hábiles, para que éste lo resuelva en un plazo no mayor a treinta días hábiles.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+
+###### ARTÍCULO 99.
+
+Procederá el desechamiento de la reconsideración, cuando:
+
+I.- No reúna el requisito precisado en el segundo párrafo del artículo 94 de esta Ley;
+
+II.- No reúna alguno de los requisitos precisados en el artículo 97 de esta Ley, o
+
+III.- Se presente de manera extemporánea.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+
+###### ARTÍCULO 100.
+
+La resolución que recaiga a la reconsideración, tendrá como efecto la confirmación o modificación del Informe de Resultado.
+
+Las resoluciones que se dicten, deberán enviarse a la Comisión para continuación del trámite correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2010)</small>
+
+###### ARTÍCULO 101.
+
+Las resoluciones que se dicten con motivo de la reconsideración no admitirán medio de defensa alguno.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor, al día siguiente de publicarse en el Periódico Oficial del Estado.
@@ -976,3 +1048,7 @@ SEGUNDO.- El actual Auditor Superior de Fiscalización durará en su encargo el 
 TERCERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto en el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 CUARTO.- La reforma al artículo 84 de la Ley de Fiscalización Superior para el Estado de Baja California, entrará en vigor, una vez que cobre vigencia la reforma a los artículos 22, 27, 37, 90 y 100 de la Constitución Política del Estado, referida en los artículos transitorios antes citados.
+
+P.O. 26 DE MARZO DE 2010.
+
+ÚNICO.- La presente adición entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
