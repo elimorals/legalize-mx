@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2009-08-07"
+last_updated: "2010-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 25 de junio de 1999.
 
@@ -15693,9 +15693,11 @@ Si la transmisión de la propiedad se hiciere por causa de utilidad pública, el
 
 Los arrendamientos de bienes del Estado, municipales o de establecimientos públicos u organismos descentralizados, estarán sujetos a las disposiciones del derecho administrativo, y en lo que no lo estuvieren, a las disposiciones de este título.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2010)</small>
+
 ###### ARTÍCULO 2847.
 
-El arrendamiento de bienes muebles no puede exceder de cinco años; de diez el de inmuebles destinados a habitación o a fines agrícolas o ganaderos; de quince el de inmuebles destinados al comercio o a despachos, oficinas o consultorios de profesionales; y de veinte el de inmuebles destinados al ejercicio de una industria.
+El arrendamiento de bienes muebles no puede exceder de cinco años; de quince el de inmuebles destinados a habitación, y de noventa y nueve el de inmuebles destinados a fines agrícolas o ganaderos, al comercio, despachos, oficinas, consultorios profesionales o al ejercicio de una industria.
 
 ### CAPÍTULO IV. DEL ARRENDAMIENTO DE FINCAS URBANAS
 
@@ -20558,3 +20560,9 @@ CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 7 DE AGOSTO DE 2009.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE MARZO DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido por este Decreto.
