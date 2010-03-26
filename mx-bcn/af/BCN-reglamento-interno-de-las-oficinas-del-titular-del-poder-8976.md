@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-las-oficinas-del-titular-del-poder-8976"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-10-13"
-last_updated: "2007-11-16"
+last_updated: "2010-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LAS OFICINAS DEL TITULAR DEL PODER EJECUTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA OFICINA DEL TITULAR DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 26 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de octubre de 1995.
 
@@ -458,3 +460,11 @@ LIC. ALEJANDRO MORENO MEDINA
 P.O. 16 DE NOVIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MARZO DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interno de las Oficinas del Titular del Poder Ejecutivo, publicado en el Periódico Oficial del Estado en fecha 13 de octubre de 1995.
+
+TERCERO.- Se abroga el Reglamento Interno de la Dirección de Comunicación Social, publicado en el Periódico Oficial del Estado en fecha 12 de abril de 2002.
