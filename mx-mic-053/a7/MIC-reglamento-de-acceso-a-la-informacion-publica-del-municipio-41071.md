@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-acceso-a-la-informacion-publica-del-municipio-410
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-15"
-last_updated: "2007-08-29"
+last_updated: "2010-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MIC"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE MORELIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE MORELIA, PUBLICADO EN EL P.O. DE 26 DE MARZO DEL 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 15 de septiembre de 2004.
 
@@ -580,3 +582,13 @@ LIC. ARMANDO SÁNCHEZ MURILLO
 P.O. 29 DE AGOSTO DE 2007.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE MICHOACAN.
+
+P.O. 26 DE MARZO DEL 2010.
+
+PRIMERO: El presente Reglamento entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado; remitiéndose a la Secretaría del Ayuntamiento para su debida publicación, de igual manera deberá enviarse a la Secretaría de la Contraloría de Desarrollo Administrativo para su inscripción en el Registro Estatal de Trámites y Servicios del Estado de Michoacán de Ocampo. Conforme a lo previsto en los artículos 145 y 149 de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo y 54 del Bando de Gobierno Municipal de Morelia, remítase de igual manera un ejemplar con el texto íntegro al Honorable Congreso del Estado de Michoacán de Ocampo y al Titular del Poder Ejecutivo Estatal, para su conocimiento y efectos legales conducentes.
+
+SEGUNDO: Se abroga el Reglamento de REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MORELIA publicado en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 15 de septiembre de 2004.
+
+TERCERO: La administración municipal deberá ADECUAR LOS REGLAMENTOS INTERNOS EN EL TÉRMINO DE UN AÑO, en todo lo que se prevea en este Reglamento debiendo hacer las reformas pertinentes y necesarias.
+
+CUARTO: EL PRESENTE REGLAMENTO DEBERÁ REMITIRSE AL ÁREA MUNICIPAL DE ACCESO A LA INFORMACIÓN PÚBLICA, PARA SU DEBIDA PUBLICIDAD.
