@@ -4,7 +4,7 @@ identifier: "LSPM"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-24"
-last_updated: "1986-12-24"
+last_updated: "2010-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=307&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSPM"
 
 LEY DEL SERVICIO POSTAL MEXICANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MARZO DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 24 de diciembre de 1986.
 
@@ -546,6 +546,54 @@ Para la prestación de los servicios a su cargo, el Organismo se podrá auxiliar
 
 Los servicios que proporcionen los agentes se llevarán a cabo mediante la celebración de los contratos respectivos, bajo los términos y condiciones que establezca el reglamento.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE MARZO DE 2010)</small>
+
+### CAPITULO XXIV. De las Franquicias Postales
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2010)</small>
+
+###### ARTICULO 69.
+
+Sólo podrán establecerse franquicias postales mediante su inserción en la legislación federal y en aquellos casos considerados por el Congreso de la Unión como de interés público.
+
+Una vez establecidas de conformidad con lo dispuesto por el párrafo anterior, la instrumentación de las franquicias deberá ejercerse mediante convenio que se suscriba entre el Organismo y el beneficiario del servicio.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2010)</small>
+
+###### ARTICULO 70.
+
+Las disposiciones que expida el Congreso de la Unión para efecto de lo establecido en el artículo anterior, deberán considerar la obligación de los beneficiarios de cubrir el costo de la franquicia postal, o, en su lugar, el mecanismo para financiarlo, a efecto de que en ningún caso sea asumido por el Organismo.
+
+El servicio puede ser utilizado por el Poder Ejecutivo, Legislativo y Judicial, así como por las áreas técnicas, parlamentarias y administrativas; previa observación de que la documentación susceptible de enviarse mediante este beneficio es exclusiva de los trabajos oficiales realizados por la institución que lo solicita.
+
+El costo de la franquicia en cualquiera de sus clasificaciones, deberá ser cubierto, cuando menos, en forma trimestral, de conformidad con el convenio a que se refiere el párrafo segundo del artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2010)</small>
+
+###### ARTICULO 71.
+
+Las franquicias postales sólo podrán referirse al servicio gratuito para los beneficiarios de envío ordinario dentro del territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 26 DE MARZO DE 2010)</small>
+
+###### ARTICULO 72.
+
+El convenio a que se refiere el párrafo segundo del artículo 69 deberá contener, cuando menos:
+
+I.- La autoridad u órgano que podrá ejercer el servicio contenido en la franquicia;
+
+II.- Los servicios específicos de que podrán hacer uso los beneficiarios de la franquicia, observando lo establecido en el artículo 71;
+
+III.- El tipo de documentación que podrá remitirse mediante el ejercicio de la franquicia y las restricciones especiales, adicionales a las que determina esta Ley;
+
+IV.- La especificación de los documentos que no quedarán integrados al convenio por no considerarse de carácter oficial, ni en apoyo a las encomiendas de interés público;
+
+V.- No serán aceptados documentos que contengan: proselitismo particular y general, propaganda política, felicitaciones, agradecimientos, condolencias, regalos de cualquier tipo, asuntos personales que no conciernan a la labor oficial desarrollada;
+
+VI.- Las reglas específicas de llenado de formatos, número de piezas, destinos, relación de destinatarios con domicilios, empaquetado, muestras de los documentos al ser enviados y presentación de envíos, y
+
+VII.- Las oficinas del Organismo en las que podrán depositarse los envíos, en uso de la franquicia.
+
 ## TRANSITORIOS
 
 PRIMERO.- Esta Ley entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
@@ -555,3 +603,9 @@ SEGUNDO.- Se derogan el Libro Sexto Comunicaciones Postales de la Ley de Vías G
 México, D. F., a 10 de diciembre de 1986.- Sen. Gonzalo Martínez Corbalá, Presidente.- Dip. Reyes Rodolfo Flores Zaragoza, Presidente. -Sen. Fernando Mendoza Contreras, Secretario.- Dip. Ma. Guadalupe Ponce Torres, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de diciembre de mil novecientos ochenta y seis.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 26 DE MARZO DE 2010.
+
+Único. El presente Decreto entrará en vigor a los 30 días siguientes al día de su publicación en el Diario Oficial de la Federación.
