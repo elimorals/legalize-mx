@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-da-a-conocer-el-cupo-para-importar-64684"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-12-11"
-last_updated: "2009-11-12"
+last_updated: "2010-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64684&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-08"
 
 ACUERDO POR EL QUE SE DA A CONOCER EL CUPO PARA IMPORTAR JUGUETES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MARZO DE 2010.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 11 de diciembre de 2008.
 
@@ -295,11 +295,19 @@ III. Las empresas productoras o personas morales, incluso las pertenecientes a u
 
 La Secretaría asignará mediante el mecanismo de asignación directa un cupo para la importación de las mercancías especificadas en la tabla del artículo primero del presente Acuerdo, de conformidad con lo siguiente:
 
-I. A las empresas productoras, se les asignará un monto anual en dólares, equivalente al promedio de sus ingresos por producción nacional de juguetes, de los dos años anteriores. El monto máximo a asignar por empresa será de 50 millones de dólares.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL ACUERDO DE REFORMAS AL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2010)</small>
+
+I. A las empresas productoras, se les asignará un monto anual en dólares, equivalente al promedio de sus ingresos por producción nacional de juguetes de los dos años anteriores. El monto máximo a asignar por empresa será de 60 millones de dólares.
 
 II. A las personas morales que se ostenten como empresas de un mismo grupo de interés económico, de conformidad con la fracción II del artículo tercero del presente Acuerdo, se les asignará el monto anual en dólares resultado de sumar la asignación que le corresponda a cada empresa productora integrante del grupo, de conformidad con la fracción anterior.
 
-III. A las empresas productoras o personas morales señaladas en la fracción III del artículo tercero del presente Acuerdo, se les asignará un monto anual en dólares equivalente al 100% del promedio anual de los ingresos estimados por producción de juguete en los tres primeros años de operación de su proyecto de inversión, hasta por un máximo de 50 millones de dólares, sujeto a las siguientes condiciones:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL ACUERDO DE REFORMAS AL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE MARZO DE 2010)</small>
+
+III. A las empresas productoras o personas morales señaladas en la fracción III del artículo tercero del presente Acuerdo, se les asignará un monto anual en dólares equivalente al 100% del promedio anual de los ingresos estimados por producción de juguete en los tres primeros años de operación de su proyecto de inversión, hasta por un máximo de 60 millones de dólares, sujeto a las siguientes condiciones:
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2009)</small>
 
@@ -414,3 +422,7 @@ ASIGNACION DIRECTA
 D.O.F. 12 DE NOVIEMBRE DE 2009.
 
 UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y su vigencia será al 31 de diciembre de 2014.
+
+D.O.F. 26 DE MARZO DE 2010
+
+UNICO.- El presente Acuerdo entrará en vigor a los veinte días siguientes al de su publicación en el Diario Oficial de la Federación y concluirá su vigencia el 31 de diciembre de 2014.
