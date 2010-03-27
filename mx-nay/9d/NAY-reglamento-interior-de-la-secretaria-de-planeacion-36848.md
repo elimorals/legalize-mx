@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-planeacion-36848"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-14"
-last_updated: "2006-07-05"
+last_updated: "2010-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION, PROGRAMACION Y PRESUPUESTO, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 14 de Enero de 2004.
 
@@ -1326,3 +1328,13 @@ P.O. 31 DE MAYO DE 2004.
 P.O. 5 DE JULIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 27 DE MARZO DE 2010.
+
+PRIMERO. El presente Reglamento entraré en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaria de Planeación publicado en el Periódico Oficial, Órgano del Gobierno del Estado del 14 de enero de 2004.
+
+TERCERO. En tanto se expiden el Manual de Organización de la Secretaría y otros instrumentos administrativos y normativos necesarios para el funcionamiento óptimo de la dependencia, el Secretario tomará las decisiones que sean procedentes de conformidad con la Ley y otras disposiciones legales aplicables.
+
+CUARTO. En tanto se designa al titular de la Contraloría Interna, la Secretaría de la Contraloría General asumiré los asuntos que la Ley de Responsabilidades de los Servidores Públicos del Estado le confiere a las contralorías internas de las dependencias de la Administración Pública Estatal, conforme lo dispuesto en el artículo 15 de la Ley Orgánica del Poder Ejecutivo.
