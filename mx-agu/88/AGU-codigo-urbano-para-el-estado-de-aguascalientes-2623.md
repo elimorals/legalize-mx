@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2009-12-07"
+last_updated: "2010-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -279,13 +279,21 @@ El estudio técnico deberé contener como mínimo lo siguiente:
 
 XXVIII.- ESQUEMAS SEGREGADOS: Es la forma de estructurar y organizar la extensión territorial en los Planes de Desarrollo Urbano, que impliquen separaciones, aislamiento y fragmentaciones de la organización poblacional;
 
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XXIX.- ESQUEMAS UNIFUNCIONALES: Es la forma de estructurar y organizar la extensión territorial en los Planes de Desarrollo Urbano, que impliquen fragmentación aislada de una actividad exclusiva; y
+XXIX.- ESQUEMAS UNIFUNCIONALES: Es la forma de estructurar y organizar la extensión territorial en los Planes de Desarrollo Urbano, que impliquen fragmentación aislada de una actividad exclusiva;
 
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XXX.- SUBURBANIZACIÓN EXTENSIVA: Es la desconcentración del núcleo poblacional que permita diversos centros poblacionales.
+XXX.- SUBURBANIZACIÓN EXTENSIVA: Es la desconcentración del núcleo poblacional que permita diversos centros poblacionales;
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2010)</small>
+
+XXXI.- UNIDADES EXTERNAS DE SUPERVISIÓN: Las empresas certificadas por un Organismo de Normalización y Certificación en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización, con capacidad humana y técnica para realizar la supervisión de los fraccionamientos, condominios y desarrollos especiales en el Estado; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2010)</small>
+
+XXXII.- SUPERVISIÓN ÚNICA: La que realicen las Unidades Externas de Supervisión, respecto de la compatibilidad del proyecto autorizado, así como de la calidad de los materiales, obras y servicios realizados en los fraccionamientos, condominios y desarrollos especiales. Incluso esta supervisión podrá comprender el proceso de edificación de la vivienda de carácter económico.
 
 ###### ARTICULO 6o.
 
@@ -529,7 +537,7 @@ IV.- Fungir como Secretariado Técnico de la Comisión Estatal;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
-V- Promover la adquisición de reservas territoriales por parte de (sic) Gobierno del Estado en coordinación con el Instituto y, en su caso, conjuntamente con los Ayuntamientos. Igualmente, brindar asesoría a la SOP estatal y a la Secretaría General de Gobierno cuando éstas lo soliciten, en lo inherente a las afectaciones de inmuebles para la ejecución de obras públicas;
+V.- Promover la adquisición de reservas territoriales por parte de (sic) Gobierno del Estado en coordinación con el Instituto y, en su caso, conjuntamente con los Ayuntamientos. Igualmente, brindar asesoría a la SOP estatal y a la Secretaría General de Gobierno cuando éstas lo soliciten, en lo inherente a las afectaciones de inmuebles para la ejecución de obras públicas;
 
 VI.- Recomendar al Ejecutivo del Estado la propuesta para la fundación de centros de población y el dictamen para la determinación de provisiones, reservas, usos y destinos de áreas y predios que le sometan para su opinión los Ayuntamientos, a efecto de que sean congruentes con la legislación y el Programa Estatal de Desarrollo Urbano;
 
@@ -549,17 +557,15 @@ XII.- Vigilar, en coordinación con los Ayuntamientos, el equilibrado desarrollo
 
 XIII.- Autorizar la constitución del régimen de propiedad en condominio en el caso de su competencia y dictaminar la solicitud cuando competa a la Comisión Estatal su autorización;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XIV.- Supervisar, con la participación de la SOP Estatal y el Instituto del Agua del Estado, que la ejecución de las obras de urbanización de los fraccionamientos, condominios y desarrollos especiales, sean compatibles al proyecto autorizado por la Comisión Estatal y conforme a la legislación y los programas de desarrollo urbano;
+XIV.- Por conducto de las Unidades Externas de Supervisión, constatar que la ejecución de las obras de urbanización de los fraccionamientos, condominios y desarrollos especiales, sean compatibles al proyecto autorizado por la Comisión Estatal o por ella misma y conforme a la legislación y los programas de desarrollo urbano. Adicionalmente a lo anterior y de manera aleatoria supervisar directamente los proyectos autorizados conforme a lo indicado;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
 XV- Autorizar el inicio de las obras de urbanización de los fraccionamientos, desarrollos especiales y condominios;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
-
-XVI.- A petición de los Ayuntamientos y previo convenio con éstos, supervisar la calidad de los materiales, obras y servicios que se realicen en los fraccionamientos, desarrollos especiales y condominios;
+XVI.- (DEROGADA, P.O. 29 DE MARZO DE 2010)
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -567,11 +573,9 @@ XVII.- Autorizar a los fraccionadores o promoventes de condominio la venta de lo
 
 XVIII.- Llevar el registro de asociaciones de colonos y condóminos;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XIX.- Previamente a la municipalización de los fraccionamientos o entrega de las obras de urbanización a la Asamblea de Condóminos, dictaminar si dichas obras son compatibles al proyecto autorizado por la Comisión Estatal o por ella misma y conformes a la legislación aplicable y a los programas de desarrollo urbano.
-
-En caso de que hubiera realizado la supervisión de la calidad de los materiales, obras y servicios realizados en los fraccionamientos y condominios, previamente a la municipalización o entrega de las obras a la Asamblea de Condóminos, deberá expedir el dictamen correspondiente;
+XIX.- Previamente a la municipalización de los fraccionamientos o entrega de las obras de urbanización a la Asamblea de Condóminos y conforme a lo diagnosticado por las Unidades Externas de Supervisión y el Perito Responsable de las Obras de Urbanización dictaminar si dichas obras son compatibles al proyecto autorizado por la Comisión Estatal o por ella misma y conformes a la legislación aplicable y a los programas de desarrollo urbano;
 
 XX.- Controlar y evaluar, en coordinación con la Secretaría de Finanzas, los programas de inversión pública, en materia de desarrollo urbano, vivienda y transporte que el Gobierno del Estado ejecute en la Entidad por sí o en coordinación con los Ayuntamientos, el Instituto y la Federación, para que sean compatibles con la legislación, el Plan Estatal de Desarrollo, y los programas de desarrollo urbano aplicables;
 
@@ -614,6 +618,12 @@ XXXV.- Diseñar y coordinar la ejecución del Sistema Estatal de Suelo y Reserva
 XXXVI.- Expedir las autorizaciones para los Desarrollos Especiales; y
 
 XXXVII.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2010)</small>
+
+ARTICULO 21 BIS.- El Ejecutivo del Estado expedirá la reglamentación para la asignación a las Unidades Externas de Supervisión, respecto de los fraccionamientos, condominios y desarrollos especiales. Dicha reglamentación deberá prever la Supervisión Única.
+
+La citada reglamentación estatal deberá contemplar la comunicación y coordinación de los sistemas y procesos de verificación de la edificación de la vivienda económica, incluso para ligarlos a los realizados por los organismos promotores de vivienda económica o que la financien y por tanto contar con una Supervisión Única.
 
 ###### ARTICULO 22.
 
@@ -765,9 +775,9 @@ XXXV.- Resolver sobre los recursos administrativos que conforme a su competencia
 
 XXXVI.- Autorizar la nomenclatura para la denominación de las vías públicas, parques, jardines, plazas, fraccionamientos, condominios, desarrollos especiales y todo lugar público susceptible de asignarle una denominación, así como los números oficiales que le corresponden a los inmuebles ubicados dentro de su territorio;
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XXXVII.- Supervisar la calidad de los materiales y trabajos realizados en las obras de urbanización, así como el avance de éstas, que se realicen en los fraccionamientos, condominios y desarrollos especiales;
+XXXVII.- Por conducto de Unidades Externas de Supervisión, constatar la calidad de los materiales y trabajos realizados en las obras de urbanización, así como el avance de éstas en los fraccionamientos, condominios y desarrollos especiales. Adicionalmente a lo anterior y de manera aleatoria supervisar directamente los proyectos autorizados conforme a lo indicado;
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -780,6 +790,12 @@ XXXIX.- Dictaminar sobre las obras de urbanización de los fraccionamientos prev
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2006)</small>
 
 XL.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2010)</small>
+
+ARTICULO 23 BIS.- Los Ayuntamientos del Estado expedirán la reglamentación para la asignación a las Unidades Externas de Supervisión, respecto de los fraccionamientos, condominios y desarrollos especiales. Dicha reglamentación deberá prever la Supervisión Única.
+
+La citada reglamentación municipal deberá contemplar la comunicación y coordinación de los sistemas y procesos de verificación de la edificación de la vivienda económica, incluso para ligarlos a los realizados por los organismos promotores de vivienda económica o que la financien y por tanto contar con una Supervisión Única.
 
 ###### ARTICULO 24.
 
@@ -2371,6 +2387,10 @@ La autoridad competente requerirá, en todo caso, a la persona que contravenga l
 
 La SEPLADE y los Ayuntamientos supervisarán la ejecución de los proyectos y vigilarán en todo tiempo que las obras públicas, privadas y demás actividades estén de acuerdo con los respectivos lineamientos señalados en la legislación correspondiente, en los programas de desarrollo urbano y en las constancias de compatibilidad urbanística.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2010)</small>
+
+Tratándose de obras de urbanización en fraccionamientos, condominios o desarrollos especiales, la SEPLADE y los Ayuntamientos realizarán la supervisión por medio de las Unidades Externas de Supervisión.
+
 ### CAPITULO V. De la Infraestructura, Equipamiento y Servicios Urbanos
 
 ###### ARTICULO 169.
@@ -3721,9 +3741,11 @@ En caso de que en el municipio en que se den los hechos consignados en el Artíc
 
 Tratándose de casos graves, el profesionista que incurra en violaciones a este Código, el reglamento y especificaciones técnicas de construcción, podrá ser inhabilitado para fungir como perito, cuando se demuestre que se obró con mala fe o notoria negligencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
+
 ###### ARTICULO 229.
 
-El Ayuntamiento supervisará la ejecución de las obras y podrá imponer las medidas correctivas necesarias, que señala el presente Código y el reglamento de construcciones respectivo.
+Los Ayuntamientos y la SEPLADE por conducto de las Unidades Externas de Supervisión, verificarán la ejecución de las obras de urbanización y en su caso impondrán las medidas correctivas y sanciones a los fraccionadores, promoventes de condominios y desarrolladores, que señala el presente Código y la reglamentación municipal respectiva.
 
 Dicha supervisión no libera al propietario ni al perito responsable del cumplimiento de todas y cada una de las normas técnicas constructivas, por lo que la acción legal por daños o vicios ocultos, derivados de este incumplimiento, no prescribe y ambos serán responsables solidarios.
 
@@ -4667,6 +4689,10 @@ Los fraccionamientos habitacionales urbanos de interés social, son aquellos que
 
 Estos fraccionamientos deberán tener las mismas características que se establecen para los de tipo popular, con excepción del pavimento de las calles locales, las que se permitirán de asfalto, de acuerdo a las especificaciones determinadas por el Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2010)</small>
+
+Dadas las condiciones de estos fraccionamientos, la supervisión de las obras de urbanización y del proyecto la deberán realizar directamente los Ayuntamientos.
+
 ###### ARTICULO 315.
 
 Unicamente se podrá autorizar la urbanización progresiva en los fraccionamientos habitacionales urbanos de interés social.
@@ -5091,13 +5117,13 @@ En lo que se refiere a los sistemas de agua potable, cuando así le sea exigido,
 
 Habiéndose municipalizado un fraccionamiento, procederá la cancelación de la garantía a que se refiere el Artículo 452 de este Código hasta que transcurra un año con el objeto de garantizar las correcciones que sean necesarias por vicios ocultos.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 343.
 
-El Ayuntamiento respectivo recibirá el fraccionamiento mediante el levantamiento de un acta administrativa, en la que intervendrán el Presidente Municipal, el titular del area municipal correspondiente, el fraccionador, un representante de la SEPLADE y un representante de la asociación de colonos si la hubiere, a fin de que previo dictamen técnico-jurídico se certifique que el fraccionador cumplió con todas las obligaciones, así como que se encuentran en buen funcionamiento y calidad las obras y servicios que se entreguen.
+El Ayuntamiento respectivo recibirá el fraccionamiento mediante el levantamiento de un acta administrativa, en la que intervendrán el Presidente Municipal, el titular del área Municipal correspondiente, el fraccionador, el Perito Responsable de las obras de urbanización, un representante de la SEPLADE, un representante de la Unidad Externa de Supervisión y un representante de las asociaciones de colonos si la hubiere, a fin de que previo dictamen técnico-jurídico se certifique que el fraccionador cumplió con todas las obligaciones, así como que se encuentran en buen funcionamiento y calidad las obras y servicios que se entreguen.
 
-El dictamen técnico-jurídico lo elaborará previamente la SEPLADE y se insertará en la respectiva acta administrativa, que deberá anexarse al expediente del fraccionamiento.
+Con base en lo dictaminado por la Unidad Externa de Supervisión y el Perito Responsable de las obras, así como en la documentación del expediente respectivo, el dictamen técnico-jurídico lo elaborará previamente la SEPLADE y se insertará en la respectiva acta administrativa, que deberá anexarse al expediente del fraccionamiento.
 
 ###### ARTICULO 344.
 
@@ -6085,9 +6111,9 @@ III.- Urbanización progresiva: es aquella en la que debe existir una infraestru
 
 La infraestructura faltante que haya determinado la Comisión Estatal, deberá ser ejecutada por el fraccionador o con la cooperación de los adquirentes de los lotes de conformidad con lo estipulado en los contratos de compra venta individuales y de acuerdo con el programa de urbanización autorizado por la Comisión Estatal.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
-Este tipo de urbanización sólo se autorizará a instituciones gubernamentales o a asociaciones civiles sin fines de lucro bajo la rectoría de una institución gubernamental y únicamente en los fraccionamientos de interés social.
+Este tipo de urbanización sólo se autorizará a instituciones gubernamentales o a asociaciones civiles sin fines de lucro bajo la rectoría de una institución gubernamental y únicamente en los fraccionamientos de interés social. En este caso la supervisión de las obras de urbanización y del proyecto la realizará directamente el Ayuntamiento respectivo.
 
 ###### ARTICULO 439.
 
@@ -6113,6 +6139,42 @@ La ejecución del proyecto definitivo del fraccionamiento o condominio, deberá 
 
 El perito designado para la ejecución de las obras de urbanización, será responsable solidario de todas las obligaciones que el fraccionador o promovente acepte, con relación a dichas obras, de acuerdo con este Código.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2010)</small>
+
+Adicionalmente a las obligaciones que les imponen a los Peritos el Artículo 203 de este Código, tratándose de fraccionamientos, condominios y desarrollos especiales, tendrán las siguientes obligaciones:
+
+I.- Coordinar la supervisión de las obras de urbanización, con las Unidades Externas de Supervisión, debiendo reportar de inmediato cualquier anomalía a la propia Unidad Externa de Supervisión, al Ayuntamiento respectivo o en su caso a la SEPLADE;
+
+II.- Emitir dictamen conforme a los lineamientos establecidos por la SEPLADE, en el que su caso se avale la expedición de la autorización de promoción y venta de lotes o predios;
+
+III.- Expedir dictamen conforme a los lineamientos indicados por el Ayuntamiento correspondiente y la SEPLADE que justifique la municipalización de un fraccionamiento o la entrega de las obras de urbanización a la Asamblea de Condóminos;
+
+IV.- Suscribir las actas de municipalización de los fraccionamientos;
+
+V.- Registrar sus visitas, anotaciones y observaciones con relación a los fraccionamientos, condominios o desarrollos especiales en el libro de bitácora, y en su caso en el formato digital de la misma; y
+
+VI.- Las demás obligaciones que les imponga la legislación municipal respectiva.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2010)</small>
+
+ARTICULO 443 BIS.- Las Unidades Externas de Supervisión, tendrán las siguientes obligaciones:
+
+I.- Realizar la supervisión de las obras de urbanización y en su caso de edificación, conforme a los lineamientos establecidos por el dictamen de autorización de la Comisión Estatal, de la SEPLADE o del Ayuntamiento en caso de los supuestos previstos en el Artículo 356 BIS del Código, así como por la normatividad de la materia;
+
+II.- Encontrarse certificada por un organismo de normalización y certificación de carácter nacional, en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización;
+
+III.- Renovar la certificación correspondiente con la periodicidad requerida;
+
+IV.- Atender con toda diligencia las observaciones y requerimientos que le realice la SEPLADE y los Ayuntamientos;
+
+V.- Realizar la supervisión de las obras de urbanización y edificación, conforme a los lineamientos· y periodicidad que determinen las reglas expedidas por el Ejecutivo del Estado y los Ayuntamientos;
+
+VI.- Informar quincenalmente a la SEPLADE, respecto del avance de las obras de urbanización, en lo referente a la compatibilidad de las mismas conforme a lo autorizado y al Ayuntamiento correspondiente en la misma periodicidad, en lo referente a la calidad de los materiales, obras y serviros realizados;
+
+VII.- Registrar sus visitas, anotaciones y observaciones con relación a los fraccionamientos condominios o desarrollos especiales en el libro de bitácora, y en su caso en el formato digital de la misma; y
+
+VIII.- Las demás determinadas en las reglas expedidas por el Ejecutivo del Estado y el Ayuntamiento respectivo.
+
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 444.
@@ -6125,17 +6187,19 @@ El fraccionador o promovente solicitará por escrito a la SEPLADE la autorizaci�
 
 La SEPLADE autorizará el inicio total o parcial de las obras de urbanización, cuando el fraccionador o promovente haya cumplido con las obligaciones que le señala el Artículo 474 de este Código, y las demás que le hubiere establecido la resolución de fraccionamiento o condominio correspondiente.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 446.
 
-La supervisión que se realice en la construcción de fraccionamientos, condominios y desarrollos especiales constará de las siguientes partes:
+La Supervisión Única que se realice en la construcción de fraccionamientos, condominios y desarrollos especiales por parte de las Unidades Externas de Supervisión, constará de las siguientes partes:
 
-a).- SUPERVISION DE COMPATIBILIDAD DE PROYECTO: La que realizará la SEPLADE y que consistirá en que las obras sean compatibles al proyecto autorizado; y
+A. SUPERVISIÓN DE COMPATIBILIDAD DE PROYECTO: Que consistirá en que las obras sean compatibles al proyecto autorizado; y
 
-b).- SUPERVISION DE OBRA: La que lleven a cabo los Ayuntamientos respecto a la calidad de los materiales, obras y servicios realizados.
+B. SUPERVISIÓN DE OBRA: La cual será respecto a la calidad de los materiales, obras y servicios realizados.
 
-Si a petición de los Ayuntamientos y previo convenio con éstos, la SEPLADE realiza la supervisión de obra, ésta asumirá las funciones que señala el presente Código con respecto a dicha función y que le corresponden originalmente al Ayuntamiento.
+Las Unidades Externas de Supervisión informarán quincenalmente a la SEPLADE, respecto del avance de las obras de urbanización, en lo referente a la compatibilidad de las mismas conforme a lo autorizado y al Ayuntamiento correspondiente en la misma periodicidad en lo referente a la calidad de los materiales, obras y servicios realizados.
+
+Incluso la Supervisión Única podrá comprender el proceso de edificación de vivienda de carácter económico y por tanto los sistemas y procedimientos de asignación de la misma deberán ligarse y coordinarse para esos efectos con los implementados por los diversos organismos promotores o que financian vivienda.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -6145,35 +6209,41 @@ El fraccionador o promovente contará con el plazo que le indiquen las leyes de 
 
 En el caso de haberse autorizado la urbanización por etapas, las obligaciones fiscales se fijarán y cubrirán por cada una de éstas, tomando como base el presupuesto actualizado de las obras de urbanización de la etapa correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 448.
 
-El fraccionador o promovente atenderá las indicaciones que se deriven de la correspondiente supervisión oficial; pero tendrá derecho a pedir por escrito a la SEPLADE y al Ayuntamiento que se reconsideren las determinaciones tomadas por los supervisores, cuando pudieran implicar cambios en el proyecto, haciendo las observaciones que considere necesarias.
+El fraccionador o promovente atenderá las indicaciones que se deriven de la supervisión que realice la Unidad Externa de Supervisión respectiva o en su caso de la supervisión oficial; pero tendrá derecho de pedir por escrito a la SEPLADE y al Ayuntamiento que se reconsideren las determinaciones tomadas por los supervisores, tanto de la Unidad Externa de Supervisión como de la SEPLADE y del Ayuntamiento respectivo, cuando pudieran implicar cambios en el proyecto, haciendo las observaciones que considere necesarias.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 Cuando existan razones técnicas fundadas y se requiera la modificación del proyecto en sus especificaciones, deberá el fraccionador o promovente, proponerlas por escrito ante la SEPLADE, quien con el dictamen del Ayuntamiento resolverá según proceda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 449.
 
-El fraccionador o promovente realizará y reportará de inmediato las pruebas de calidad de los materiales, mano de obra y acabado de las obras de urbanización respectivas, de acuerdo al proyecto definitivo y a las que en su caso, les sean solicitadas por el Ayuntamiento, a efecto de garantizar la buena calidad de las obras.
+El fraccionador o promovente realizará y reportará de inmediato las pruebas de calidad de los materiales, mano de obra y acabado de las obras de urbanización respectivas al Ayuntamiento y a la Unidad Externa de. Supervisión de acuerdo al proyecto definitivo y a las que en su caso, les sean solicitadas, a efecto de garantizar la buena calidad de las obras.
 
-Los originales de los reportes de laboratorio, correspondientes a las pruebas mencionadas en el párrafo anterior, deberán anexarse a la bitácora.
+Los originales de los reportes de laboratorio, correspondientes a las pruebas mencionadas en el párrafo anterior, deberán anexarse a la bitácora, lo cual incluso se podrá realizar en formato digital.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 450.
 
-El fraccionador o promovente entregará al Ayuntamiento informes mensuales del avance físico de las obras de urbanización y reportes de laboratorio de control de calidad, con base en el proyecto definitivo y al calendario de obra autorizado.
+El fraccionador o promovente entregará por escrito a la SEPLADE, el Ayuntamiento y a la Unidad Externa de Supervisión informes mensuales del avance físico de las obras de urbanización y reportes de laboratorio de control de calidad, con base en el proyecto definitivo y al calendario de obra autorizado.
 
-Asimismo, en los informes que señala el párrafo anterior, deberá hacerse mención a las correcciones que en su caso, se hayan derivado de las observaciones comunicadas al fraccionador o promovente por los supervisores autorizados; así como deberá adjuntar copia de los reportes de laboratorio que garanticen la calidad de los materiales empleados, durante el período correspondiente.
+Asimismo, en los informes que señala el párrafo anterior, deberá hacerse mención a las correcciones que en su caso, se hayan derivado de las observaciones comunicadas al fraccionador o promovente por los supervisores autorizados, tanto de la SEPLADE y de los Ayuntamientos, como de las Unidades Externas de Supervisión; asimismo, deberá adjuntar copia de los reportes de laboratorio que garanticen la calidad de los materiales empleados, durante el periodo correspondiente.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+Los laboratorios contratados por los fraccionadores, promoventes o desarrolladores, deberán encontrarse debidamente certificados por organismos competentes en esa materia.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 451.
 
-El fraccionador o promovente mantendrá en la obra, en lugar fijo y en forma permanente, el libro de bitácora debidamente foliado y autorizado por el Ayuntamiento hasta la conclusión total de las obras de urbanización.
+El fraccionador o promovente mantendrá en la obra, en lugar fijo y en forma permanente, el libro de bitácora debidamente foliado y autorizado por el Ayuntamiento hasta la conclusión total de las obras de urbanización. La citada bitácora podrá adicionalmente ser en formato digital.
+
+El personal autorizado por la SEPLADE, el Ayuntamiento respectivo y la Unidad Externa de Supervisión deberá realizar las anotaciones correspondientes en el Libro de Bitácora, así como en la de formato digital.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -6213,9 +6283,9 @@ I.- No cumpla con el calendario de obra autorizado;
 
 II.- No se apegue a las especificaciones y características de las obras señaladas en este Código y en la autorización respectiva;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-III.- No acate las observaciones que las autoridades competentes le hagan, con motivo de la supervisión realizada durante la ejecución de las obras; o
+III.- No acate las observaciones que las autoridades competentes le hagan, con motivo de la supervisión realizada por ellas mismas o por las Unidades Externas de Supervisión, durante la ejecución de las obras; o
 
 IV.- Deje de prestar suficiente y adecuadamente los servicios a que está obligado por este Código.
 
@@ -6233,11 +6303,11 @@ Si el Ayuntamiento ejecuta las obras de urbanización que se refieren en el prim
 
 Lo anterior, independientemente de la imposición de las sanciones administrativas correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 458.
 
-La autoridad que supervise la calidad de las obras y la SEPLADE en lo concerniente a la ejecución del proyecto deberán formular un dictamen técnico, previo a que se hagan efectivas las garantías de las obras de urbanización, a fin de fundamentar que el fraccionador o promovente incurrió en cualquiera de las situaciones señaladas en el Artículo 456 de este Código.
+Tomando en cuenta lo dictaminado por la supervisión realizada por la Unidad Externa de Supervisión, el Ayuntamiento respectivo y la SEPLADE, deberán formular un dictamen técnico, previo a que se hagan efectivas las garantías de las obras de urbanización a fin de fundamentar que el fraccionador o promovente incurrió en cualquiera de las situaciones señaladas en el artículo 456 de este Código.
 
 Para tales efectos, deberá conceder audiencia al fraccionador o promovente, para que alegue lo que a su derecho convenga.
 
@@ -6265,11 +6335,11 @@ Cuando en el fraccionamiento o condominio la primera etapa por urbanizar no coli
 
 Una vez concluida la totalidad de las obras de urbanización, el fraccionador o promovente solicitará por escrito al Ayuntamiento y a la SEPLADE, los dictámenes técnicos de la ejecución de dichas obras, en cuanto a la calidad de los materiales, obras y servicios realizados, así como en lo correspondiente a la compatibilidad de las obras con el proyecto autorizado, respectivamente.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 463.
 
-Los dictámenes técnicos a que se refiere el Artículo anterior, tendrán por objeto verificar que el fraccionador o promovente, haya cumplido con todas las obligaciones que le señala este Código y ejecutado las obras de urbanización, conforme al proyecto definitivo del fraccionamiento, desarrollo especial o condominio autorizado.
+Los dictámenes técnicos a que se refiere el artículo anterior, tendrán por objeto verificar que el fraccionador o promovente, haya cumplido con todas las obligaciones que le señala este Código y ejecutando las obras de urbanización, conforme al proyecto definitivo del fraccionamiento, desarrollo especial o condominio autorizado: Esos dictámenes serán expedidos tomando en cuenta lo dictaminado por las Unidades Externas de Supervisión, los Peritos Responsables de Obra, así como en la documentación del expediente respectivo.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -6359,17 +6429,17 @@ V.- Pagar en tiempo y forma, las cargas fiscales que les correspondan, de acuerd
 
 VI.- Iniciar en las obras de urbanización, previa autorización de la SEPLADE;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-VII.- Informar mensualmente al Ayuntamiento del avance en la ejecución de las obras de urbanización;
+VII.- Informar quincenalmente por escrito a los Ayuntamientos, a la SEPLADE y a las Unidades Externas de Supervisión del avance en la ejecución de las obras de urbanización;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-VIII.- Atender las observaciones y correcciones que los supervisores autorizados por la SEPLADE o el Ayuntamiento les hagan, respecto de la ejecución de las obras de urbanización o de la prestación de los servicios que les correspondan;
+VIII.- Atender las observaciones y correcciones que los supervisores autorizados por la SEPLADE, los Ayuntamientos y las Unidades Externas de Supervisión, les hagan, respecto de la ejecución de las obras de urbanización o de la prestación de los servicios que les correspondan;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-IX.- Informar por escrito al Ayuntamiento o a la SEPLADE, según corresponda, respecto de cualquier irregularidad o anomalía que se suscite en el fraccionamiento o condominio;
+IX.- Informar por escrito a los Ayuntamientos, la SEPLADE y la Unidad Externa de Supervisión, según corresponda, respecto de cualquier irregularidad o anomalía que se suscite en el fraccionamiento o condominio;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
 
@@ -6379,13 +6449,17 @@ X.- Solicitar a la SEPLADE la autorización para iniciar la promoción de venta 
 
 XI.- Garantizar que todo adquirente de un inmueble tenga información suficiente con relación a las discontinuidades geológicas que hubiera en el predio o cercanas a éste, así como a las obligaciones y derechos que adquieran como condóminos;
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XII.- Informar al adquirente de un inmueble el total de las características que tendrá el fraccionamiento o condominio aprobado por la Comisión Estatal o en su caso por la SEPLADE, así como los lotes o predios con diferentes usos del suelo que se permitirán en el mismo; y
+XII.- Informar al adquirente de un inmueble el total de las características que tendrá el fraccionamiento o condominio aprobado por la Comisión Estatal o en su caso por la SEPLADE, así como los lotes o predios con diferentes usos del suelo que se permitirán en el mismo;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XIII.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
+XIII.- Realizar las anotaciones correspondientes en el Libro de Bitácora, así como en el formato digital; y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2010)</small>
+
+XIV.- Las demás que le señale este Código y otras disposiciones jurídicas aplicables.
 
 ###### ARTICULO 475.
 
@@ -6413,7 +6487,9 @@ El fraccionador o promovente estará obligado a formalizar las donaciones a favo
 
 El fraccionador o promovente deberá obtener previamente, por parte de la SEPLADE la autorización respecto a la publicidad y la venta de lotes, o en su caso, de los predios, departamentos, viviendas, casas o locales; en caso de no hacerlo, se hará acreedor a las sanciones que establece este Código.
 
-La SEPLADE para efecto de expedir la autorización de venta de lotes, predios, departamentos, viviendas, casas, locales o áreas según corresponda, deberá contar con reporte de la autoridad que hubiera realizado la supervisión de las obras, del que se desprenda que existe un avance de cuando menos del 30% en la ejecución de esas obras de urbanización del desarrollo correspondiente, debiendo además existir convenio con el Ayuntamiento mediante el cual el fraccionador o promovente garantice la prestación de los servicios públicos. Esta autorización podrá otorgarse por etapas.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
+La SEPLADE para efecto de expedir la autorización de venta de lotes, predios, departamentos, viviendas, casas, locales o áreas según corresponda, deberá contar con reporte del Ayuntamiento respectivo, de la Unidad Externa de Supervisión y del Perito Responsable de la obra, del que se desprenda que existe un avance de cuando menos del 30% en la ejecución de esas obras de urbanización del desarrollo correspondiente y que las mismas son compatibles con el proyecto autorizado. Esta autorización podrá otorgarse por etapas.
 
 Tratándose de fraccionamientos de interés social podrá autorizarse la venta de lotes siempre que exista la infraestructura mínima de agua potable, alcantarillado, guarniciones y banquetas para delimitar los niveles de las viviendas y futuros pavimentos.
 
@@ -6449,11 +6525,11 @@ Cuando la superficie a donar sea menor a 3000 metros cuadrados no podrá en ning
 
 En caso de que el fraccionamiento, desarrollo especial o condominio, se ubique en la jurisdicción de dos o más municipios se proyectará, preferentemente una vialidad entre el límite de éstos, las obligaciones del fraccionador o promovente se distribuirán proporcionalmente a favor de cada uno de los Ayuntamientos y las áreas de donación se deberán realizar en la proporción que les corresponda a cada uno de los Municipios.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 481.
 
-El fraccionador o promovente, durante el periodo de ejecución de las obras de urbanización del fraccionamiento y condominio, mantendrá un residente en el lugar de las mismas, con carácter de representante debidamente autorizado, que atienda a los supervisores e inspectores en sus labores correspondientes, debiendo el fraccionador o promovente en todos los casos, informar por escrito al Ayuntamiento y a la SEPLADE el nombre del o los residentes que señale para tal efecto.
+El fraccionador o promovente, durante el periodo de ejecución de las obras de urbanización del fraccionamiento y condominio, mantendrá un residente permanente en el lugar de las mismas, con carácter de representante debidamente autorizado, que atienda a los supervisores e inspectores en sus labores correspondientes, debiendo el fraccionador o promovente en todos los casos, informar por escrito a los Ayuntamientos, a Ia SEPLADE y a la Unidad Externa de Supervisión el nombre de o los residentes que señale para tal efecto.
 
 ###### ARTICULO 482.
 
@@ -8684,3 +8760,13 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 En tanto se expidan las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigencia las que han regido hasta ahora en lo que no lo contravengan.
+
+P.O. 29 DE MARZO DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 180 días naturales, tanto el Ejecutivo del Estado, como los Ayuntamientos, deberán emitir las normas reglamentarias correspondientes para asignar la supervisión de manera única, respecto de los fraccionamientos, condominios y desarrollos especiales, a las Unidades Externas de Supervisión; mientras tanto se encontrarán obligados a realizar la supervisión conforme a lo previsto antes de la entrada en vigencia del presente Decreto.
