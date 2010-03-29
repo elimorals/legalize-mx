@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-contraloria-municipal-de-24655"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-26"
-last_updated: "2007-08-01"
+last_updated: "2010-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24655&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 26 de abril de 2002.
 
@@ -41,11 +41,11 @@ REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORÍA MUNICIPAL DE LA CIUDAD D
 
 DE LA COMPETENCIA Y ORGANIZACIÓN DE LA SECRETARÍA DE LA CONTRALORÍA MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEÓN.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 1.
 
-La Secretaría de la Contraloría tiene a su cargo el despacho de los asuntos que le encomienda la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León, el Reglamento Orgánico de la Administración Pública del Municipio de Monterrey, así como otras leyes, reglamentos, decretos y acuerdos. Además tendrá las siguientes atribuciones:
+La Secretaría de la Contraloría tiene a su cargo el despacho de los asuntos que le encomienda la Ley Orgánica de la Administración Pública Municipal, la Ley de Responsabilidades de los Servidores Públicos del Estado de Nuevo León y sus Municipios, el Reglamento Orgánico del Gobierno Municipal de Monterrey, así como otras leyes, reglamentos, decretos y acuerdos. Además tendrá las siguientes atribuciones:
 
 I. Proponer y aplicar las normas y criterios en materia de control y evaluación que deben observar las dependencias municipales.
 
@@ -80,6 +80,10 @@ XIII. Promover la cultura de la legalidad, honestidad, transparencia, rendición
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2007)</small>
 
 XIV. Inhibir y sancionar las prácticas y conductas corruptas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2010)</small>
+
+XV. Ejercer la vigilancia preventiva en las diversas dependencias municipales que así lo ameriten, mediante la figura del agente preventivo; que será el elemento encargado de la vigilancia, custodia y salvaguarda de las mismas y del personal que labora en ellas.
 
 ###### ARTÍCULO 2.
 
@@ -139,7 +143,13 @@ XII. Proponer el anteproyecto de presupuesto de Egresos de la Secretaría.
 
 XIII. Emitir opinión respecto a ta (sic) aplicación de este reglamento en caso de consultas o controversias.
 
-XIV. Las demás atribuciones que con tal carácter le confieran las leyes, reglamentos y decretos vigentes para el municipio.
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
+
+XIV. Vigilar que se aplique correctamente el programa de seguridad, desarrollado para la vigilancia preventiva de las diversas dependencias municipales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2010)</small>
+
+XV. Las demás atribuciones que con tal carácter le confieran las leyes, reglamentos y decretos vigentes para el municipio.
 
 ###### ARTÍCULO 5.
 
@@ -225,13 +235,21 @@ XI. Realizar estudios y evaluaciones de las innovaciones técnicas en materia de
 
 XII. Elaborar y exponer el Programa de Entrega-Recepción de la Administración Municipal en cumplimiento al reglamento establecido para ello.
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2010)</small>
 
-XIII. Las demás que le confieren las disposiciones legales aplicables y el Secretario de la Contraloría.
+XIII. Ejercer la vigilancia preventiva en las dependencias municipales que por su importancia así lo requieran, mediante una Coordinación de agentes preventivos que será la responsable directa de la ejecución, operación y desarrollo del programa de seguridad para tal efecto, que deberá incluir las siguientes acciones:
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+a) Señalar las necesidades en materia de seguridad en cada espacio custodiado, mediante un estudio de vulnerabilidad que deberá ser presentado por expertos en la materia; y comunicarlo a los responsables de cada área para su posterior ejecución.
 
-Para el despacho de los asuntos de su competencia, el Director de Auditoría contará con un Coordinador de Auditoría de Obra Pública, un Coordinador de Control Interno y un Coordinador de Auditoría, así como el personal contable, técnico y administrativo necesario para la eficaz atención y desempeño de sus funciones.
+b) Promover acciones que redunden en un mejor desempeño de los agentes preventivos y otorgarles a éstos un carácter de servicio y atención al ciudadano sin demeritar su función de vigilancia preventiva.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MARZO DE 2010)</small>
+
+XIV. Las demás que le confieran las disposiciones legales aplicables y el Secretario de la Contraloría.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
+
+Para el despacho de los asuntos de su competencia, el Director de Auditoría contará con un Coordinador de Auditoría de Obra Pública, un Coordinador de Control Interno, un Coordinador de Auditoría, y un Coordinador de Vigilancia Preventiva, así como el personal contable, técnico y administrativo necesario para la eficaz atención y desempeño de sus funciones.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -316,3 +334,11 @@ C. P. ROBERTO RAMÍREZ VILLARREAL
 P.O. 1 DE AGOSTO DE 2007.
 
 Artículo Único.- Las reformas por adición y modificación al REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEÓN, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+P.O. 29 DE MARZO DE 2010.
+
+PRIMERO.- Las reformas por adición y modificación al REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEÓN, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+SEGUNDO.- Publíquese el siguiente acuerdo en el Periódico Oficial del Estado de Nuevo León, a partir de su aprobación por este R. Ayuntamiento.
+
+TERCERO.- Girense las instrucciones al Presidente Municipal y al Secretario del R. Ayuntamiento para el exacto cumplimiento del presente acuerdo.
